@@ -1,0 +1,1051 @@
+# Tavrn Deep Dive
+
+<metadata>
+date: 2025-08-05
+time: 22:00 UTC
+duration: 39 minutes
+organizer: George Haikal (GrowthX)
+participants: Pedro Paulino (Tavrn), Jon Parisi (Tavrn), Vitor Vavolizza (Tavrn), George Haikal (GrowthX), Jo Kaminska (GrowthX)
+fathom_recording_id: 78692899
+fathom_url: https://fathom.video/calls/371319029
+share_url: https://fathom.video/share/Nj5ra6ZTuYjQxxUJyUxHbDKLY4VomUTi
+source: fathom
+enriched_on: 2026-03-03 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+George Haikal (GrowthX) led a product deep dive with Pedro Paulino and Jon Parisi (Tavrn) to understand the legal automation platform's core features—medical record retrieval, medical chronologies, and demand letter generation—and identify content opportunities. Tavrn automates document-heavy workflows for personal injury law firms by consolidating medical records into intelligible summaries and generating demand letters, reducing clerical burden and serving a market where staff shortages are the primary pain point. The team discussed customer adoption drivers (firm owners and partners), usage metrics (case volume and percentage of cases processed through Tavrn), churn factors (pricing inflexibility and preference for pay-per-use models), and product roadmap priorities (expanding medical record retrieval adoption and client intake functionality). GrowthX gained access to Tavrn's Webflow CMS and Google Analytics, and committed to analyzing curated Gong call recordings to create buyer-focused content targeting law firm owners.
+
+---
+
+## Context
+
+Tavrn is a legal tech platform that automates workflows for personal injury law firms. The company provides an end-to-end solution for managing medical records—a critical bottleneck in personal injury cases where attorneys must request records from 10-15 providers per case, review voluminous medical documents, and synthesize them into coherent chronologies and demand letters. GrowthX is conducting a content strategy engagement with Tavrn to create buyer-focused materials targeting law firm partners and owners who decide on software purchases. This deep dive served as the product immersion meeting, following an initial kick-off call and preceding deeper customer research through Gong recordings. The context is timely: Tavrn recently launched a beta version of its medical record retrieval feature (the most manual and time-consuming component), and the product team is refining go-to-market messaging while balancing demand for fully automated solutions with the reality that some requests require human intervention.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Law firm operating procedures differ from SaaS (document-heavy workflows, regulatory constraints like HIPAA); demand letter generation mirrors GrowthX's approach of synthesizing complex data into persuasive narratives through backend pipeline sophistication (100+ pipelines for data classification, filtering, and tone).
+- Tavrn's pricing model (yearly contracts) and customer acquisition friction (price sensitivity, preference for pay-per-use) highlight a common B2B software challenge that GrowthX can reference when helping clients articulate their ROI story.
+- Webflow + Unnamed AI for content creation represents a lean publishing stack GrowthX can leverage for rapid content iteration on Tavrn's blog.
+
+**To CheckThat / AEO:**
+- Tavrn uses AI to automate phone calls to medical providers (AI agent making calls, confirming receipt, estimating fulfillment time)—a concrete example of voice AI in a regulated industry that could inform AEO research on agent capabilities and limitations.
+- Medical record retrieval is a high-volume data extraction use case; CheckThat's indexing of AI visibility in B2B could surface competitive benchmarks if similar players emerge.
+
+**To GrowthX Business Development:**
+- Tavrn is a high-growth legal tech startup (recent feature launches, go-to-market scaling, hiring for operations); potential for account expansion if product adoption accelerates, or reference case for similar vertical-specific B2B SaaS.
+- Churn primarily driven by pricing inflexibility—not product-market fit—suggesting strong retention opportunity if Tavrn adopts usage-based pricing or introduces lower-tier plans for variable-caseload firms.
+- Law firms (Tavrn's customers) are themselves content creators for their clients and internal stakeholders; understanding their document workflows could inform future GrowthX service offerings (e.g., internal communications, educational content for clients).
+
+---
+
+## Overview
+
+- Tavrn offers an end-to-end platform for law firms, automating medical record retrieval, chronology creation, and demand letter generation
+- The product significantly reduces manual work for paralegals and attorneys, addressing critical pain points around time and staffing constraints
+- Adoption is driven by firm owners/partners, with both business ROI and workflow efficiency as key selling points
+- Recent launch of medical record retrieval feature, still in beta, shows promise but faces challenges in full automation
+
+---
+
+## Key Topics
+
+### Product Overview and Features
+
+  - Three main components: medical record retrieval, medical chronologies, and demand letters
+  - Medical retrieval: Automates requesting records from multiple providers, using AI for follow-ups
+  - Chronologies: Organizes and summarizes relevant medical information from records
+  - Demand letters: Generates comprehensive claims for insurance companies based on medical data and client information
+
+### Competitive Advantage
+
+  - End-to-end workflow integration from record retrieval to demand letter generation
+  - Sophisticated backend with 100+ pipelines for processing and summarizing medical data
+  - Customizable outputs to match firm-specific requirements
+  - Focus on automating manual, time-consuming tasks for law firms
+
+### User Adoption and Behavior
+
+  - Power users integrate Tavrn into all case workflows, occasional users more selective
+  - Chronologies and demand letters see highest adoption; medical retrieval is new and gaining traction
+  - Usage metrics: number of active users, steady case upload rate, percentage of firm's cases processed through Tavrn
+
+### Sales and Marketing Insights
+
+  - Primary pain point: lack of staff to handle clerical work efficiently
+  - Key selling points: time and cost savings, improved case processing efficiency
+  - Target audience: firm owners and partners, with paralegals as influential users
+  - Pricing model: yearly contracts, some resistance to fixed pricing vs. pay-per-use
+
+### Product Roadmap and Vision
+
+  - Continued refinement of medical record retrieval feature
+  - Development of client intake functionality
+  - Focus on go-to-market strategy and increasing market penetration
+
+### Challenges and Churn Factors
+
+  - Price sensitivity, especially for firms with fluctuating caseloads
+  - Some preference for pay-as-you-go model over current pricing structure
+  - Ensuring consistent usage across a firm's entire caseload
+
+---
+
+## Action Items
+
+**Pedro Paulino (Tavrn)**
+- Record Loom video on CMS publishing process, share w/ GrowthX team
+- Create playlist of representative Gong recordings, share w/ GrowthX team
+- Share sample demand letter via Slack
+
+**Jon Parisi (Tavrn)**
+- Select 5 representative Gong recordings, share w/ Pedro for GrowthX team
+
+**Vitor Vavolizza (Tavrn)**
+- Add team@growthx.ai to Webflow (Tavrn site, Blogs collection) & Google Analytics
+
+---
+
+## Transcript
+**Jo Kaminska:** What's up, Jo?
+
+**Jo Kaminska:** I'm good, end of day, really.
+
+**Jo Kaminska:** What about you?
+
+**George Haikal:** I'm good.
+
+**George Haikal:** Good, good, good.
+
+**George Haikal:** Busier in the office this week because a bunch of people are in town.
+
+**George Haikal:** So it's good, but more busy than normal, which I don't think I knew was possible, but you get it.
+
+**Jo Kaminska:** You're like handling every single account that we have right now.
+
+**Jo Kaminska:** Yeah, apparently.
+
+**George Haikal:** How's that going, though?
+
+**Jo Kaminska:** Good?
+
+**Jo Kaminska:** Yeah, I just like a lot of, you know, juggling, but I feel like, yeah, tomorrow will be pretty busy, of course, but other than this, it's fine.
+
+**Jo Kaminska:** But honestly, I'm just waiting to go on holidays.
+
+**George Haikal:** Yeah, I don't blame you.
+
+**George Haikal:** Honestly, if you're tired, know it's end of day by you.
+
+**George Haikal:** Like, feel free to jump and catch up with the report.
+
+**George Haikal:** Like I'm happy to handle if you want to get some time back, I know.
+
+**Jo Kaminska:** Yeah, that's fine.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Cool, cool, cool.
+
+**George Haikal:** Give them a few minutes, I know they're busy.
+
+**Jo Kaminska:** Yeah, wondering, like, do you want to chat about, like, what type of, like, communication would work for them going forward or?
+
+**George Haikal:** Yeah, I'm going to start with that.
+
+**George Haikal:** That's cool.
+
+**George Haikal:** Just to make sure we're on the same page.
+
+
+**Jo Kaminska:** Do you want to ping them or email Slack?
+
+**Jo Kaminska:** I don't know what's better.
+
+**George Haikal:** I don't know.
+
+**George Haikal:** I haven't responded to either or any of our Slacks, but that's one.
+
+**George Haikal:** So I can try both.
+
+**George Haikal:** I'm just sending something else out quick.
+
+**George Haikal:** You should give everyone like five, five to seven minutes.
+
+**George Haikal:** Thank you.
+
+**George Haikal:** Jon, how's it going?
+
+**Jon Parisi:** Hey, what's up, man?
+
+**Jon Parisi:** How are you?
+
+**George Haikal:** Good, good.
+
+**Jon Parisi:** Are you at another conference?
+
+**Jon Parisi:** Yeah.
+
+**George Haikal:** Pedro wasn't lying when he said you're the conference master.
+
+**Jon Parisi:** I love it.
+
+**George Haikal:** Always moving.
+
+**George Haikal:** Is he going to be joining too, or should we start running it?
+
+**Jon Parisi:** I would wait for him.
+
+**Jon Parisi:** This is sort of his show.
+
+**Jon Parisi:** Yeah.
+
+**George Haikal:** Sounds good.
+
+**George Haikal:** Good.
+
+**George Haikal:** Good.
+
+**George Haikal:** Good.
+
+**George Haikal:** I just picked him over Slack.
+
+**George Haikal:** I don't know if you've heard from him separately or outside of it.
+
+**Jon Parisi:** I heard from him on this one.
+
+**Jon Parisi:** I was just on a meeting with him.
+
+**Jon Parisi:** Sorry about that.
+
+**George Haikal:** There he is.
+
+**Jo Kaminska:** Perfect timing.
+
+**Pedro Paulino:** Hello, hello.
+
+**Jo Kaminska:** How are you?
+
+**Jo Kaminska:** Hello.
+
+**George Haikal:** Good, Pedro.
+
+**Pedro Paulino:** you doing?
+
+**Pedro Paulino:** Yeah, good to see you guys.
+
+**Jo Kaminska:** Hey, nice to meet you.
+
+**George Haikal:** Likewise.
+
+**George Haikal:** Are you right down the street?
+
+**George Haikal:** Yes.
+
+**Pedro Paulino:** office?
+
+**Pedro Paulino:** Jon is not.
+
+**Pedro Paulino:** Jon is in Chicago.
+
+**George Haikal:** Love it.
+
+**George Haikal:** Yeah, I know.
+
+**George Haikal:** We're just talking about the conference who's at.
+
+**Pedro Paulino:** Oh, yeah, yeah.
+
+**George Haikal:** Beautiful.
+
+**George Haikal:** Very cool, man.
+
+**George Haikal:** So thank you guys for joining.
+
+**George Haikal:** know we've done a bunch of work so far, but super excited.
+
+**George Haikal:** we'll kind of just jump right in here.
+
+**George Haikal:** The goal of this is just like a product deep dive to kind of understand, you know, how it works, get all as much expertise.
+
+**George Haikal:** How
+
+**George Haikal:** From you as possible, so we could start creating and enriching our artifacts.
+
+**George Haikal:** I guess before that, a few things that we usually just cover in week two anyways.
+
+**George Haikal:** First one is like communication.
+
+**George Haikal:** So what's the best way for us to be sending you these artifacts that we're making, scheduling meetings?
+
+**Pedro Paulino:** Is Slack working fine?
+
+**George Haikal:** Is email better?
+
+**Pedro Paulino:** No, it's Slack way better.
+
+**George Haikal:** Slack way better.
+
+**George Haikal:** Okay, fantastic.
+
+**George Haikal:** And then can we get, and I'll send us an event after, just we're going to ask for access to your CMS, and Google Search Console, and Google Analytics, so.
+
+**Pedro Paulino:** Yeah, can you just send us the emails you need, and then I'll just circle with.
+
+**Jo Kaminska:** We have it on Slack.
+
+**Jo Kaminska:** It's like team at growth.
+
+**George Haikal:** I just sent on this chat here.
+
+**Pedro Paulino:** Here you need the Google Analytics.
+
+**Pedro Paulino:** Let me get the tricks.
+
+**Jo Kaminska:** Yeah, GSC, Google Analytics, and when it comes to CMS, could you record, I could put.
+
+**Jo Kaminska:** Loom video about like how to publish on your CMS, so we know all the intricacies.
+
+**Pedro Paulino:** CMS, sorry, like I'm going to be very ignorant.
+
+**Pedro Paulino:** CMS.
+
+**George Haikal:** Like how you're publishing your blog right now.
+
+**Pedro Paulino:** perfect.
+
+**Pedro Paulino:** Yes, yes, that's, that's perfect.
+
+**Jo Kaminska:** Too many jargon words.
+
+**Pedro Paulino:** Oh, that's great.
+
+**Pedro Paulino:** No, no, no, totally.
+
+**Pedro Paulino:** We have it here. Let me get Vitor on so we can quickly set that up.
+
+**Pedro Paulino:** Beautiful.
+
+**Pedro Paulino:** So it's very hectic week over here, but yeah.
+
+**Pedro Paulino:** Perfect.
+
+**Pedro Paulino:** You can add you guys to this thing already.
+
+**Pedro Paulino:** Also, one thing I was thinking for the product deep dive—even though some customers have interest—is it just helpful for us to send five very good Gong recordings that can capture all of the above, including some reactions of customers?
+
+**Pedro Paulino:** Like, I think that might be easier all in all, right, like, does that make sense?
+
+**Pedro Paulino:** Because, then Jon can work to, like, just get, like, five very beautifully representative, like, gong recordings.
+
+**Pedro Paulino:** And then you can just, like, see the product, see the objections, see, like, the features.
+
+**Pedro Paulino:** And I think that way it might be just easier to get you guys on board.
+
+**George Haikal:** Yeah, that'd be helpful.
+
+**George Haikal:** Getting, like, the top five gong calls, any other materials you guys currently have as well.
+
+**George Haikal:** Overview decks, customer-specific decks, pain points, et cetera.
+
+**George Haikal:** I know you already sent some things over.
+
+**George Haikal:** Anything else like that, very helpful as well.
+
+**George Haikal:** Again, we don't have to do the customer interviews.
+
+**George Haikal:** What we do on those that is different than what you would get in a gong call is, like, we really get to, like, the causation of love.
+
+**George Haikal:** Like all the things that had to fall in line for them to find Tavrn and how Tavrn solves their problem.
+
+**George Haikal:** So it's like kind of a different way of interviewing.
+
+**George Haikal:** You get like a deeper level of insights there.
+
+**George Haikal:** Not necessary, but it's something that would be valuable if you have a customer you really like.
+
+**George Haikal:** We can work with the Gong calls if it would be hard to coordinate direct customer interviews.
+
+**George Haikal:** You know, so I'd love to just unblock you guys with the gone calls and materials.
+
+**Pedro Paulino:** Yeah, let's start with that.
+
+**Pedro Paulino:** Yeah, yeah, I'm looking for like operations people, so like...
+
+**George Haikal:** you just underwater right now?
+
+**Pedro Paulino:** Yeah, I mean, now like we're moving to a new office and like everything is good.
+
+**Pedro Paulino:** And then there's a random like certificate of insurance we need because like there was some random like red line of the red line that we needed some stupid insurance.
+
+**Pedro Paulino:** And now like it's taking ages and I'm like, wow, that's beautiful.
+
+**Pedro Paulino:** And then we have one employee in Massachusetts and like we need to register for the Massachusetts unemployment, whatever.
+
+**Pedro Paulino:** And then I get a letter.
+
+**Pedro Paulino:** It's like...
+
+**Pedro Paulino:** It's like...
+
+**Pedro Paulino:** You know, beautiful day in the life, but it's really fun.
+
+**Pedro Paulino:** It makes me appreciate operations.
+
+**Pedro Paulino:** All right.
+
+**Pedro Paulino:** So, okay.
+
+**Pedro Paulino:** Vitor can help set you up in Google Analytics and the CMS.
+
+**Vitor Vavolizza:** We just set up the system.
+
+**Pedro Paulino:** Speaking of the magician.
+
+**Pedro Paulino:** right.
+
+**Pedro Paulino:** Vitor, meet the GrowthX team—our next SEO content machine.
+
+**George Haikal:** Good to meet you, Vitor.
+
+
+**Pedro Paulino:** So, I think Vitor, what can be helpful for them now is just add them to Google Analytics and then our CMS.
+
+**Pedro Paulino:** I think we use Framer or Webflow.
+
+**vitor vavolizza:** Webflow.
+
+**Vitor Vavolizza:** I can add them there.
+
+**Pedro Paulino:** It should be straightforward.
+
+**Pedro Paulino:** We're implementing a blog page with Unnamed AI integration.
+
+**Pedro Paulino:** With un-aimed, too?
+
+**vitor vavolizza:** Mm-hmm.
+
+**Pedro Paulino:** Okay.
+
+**Pedro Paulino:** So, perfect.
+
+**Pedro Paulino:** So we're going to add you there.
+
+**Pedro Paulino:** And then we can share the Gong recordings, and then...
+
+
+**George Haikal:** Appreciate that.
+
+**George Haikal:** Cool.
+
+**George Haikal:** The Gong recordings will be helpful.
+
+**George Haikal:** then, I mean, yeah, I think it would still be valuable to jump in and do this, Pedro.
+
+**George Haikal:** What we usually do is start with, like, a quick demo or a deck, however you usually run through your product.
+
+**George Haikal:** And then we have a ton of questions on the agenda, but we'll just take us through how you normally operate and talk about it, and we can drill down.
+
+**Pedro Paulino:** Let me share my screen to walk through the product.
+
+**Vitor Vavolizza:** Who should we invite to the Webflow?
+
+**George Haikal:** I'm sending the email on the Slack.
+
+**Jo Kaminska:** That's, I think, for Pod, right?
+
+**George Haikal:** Yeah, should we get the CM's email as well?
+
+**Jo Kaminska:** I think Pod is enough.
+
+**Jo Kaminska:** Do you have the email?
+
+**George Haikal:** No, could you put that in the chat, please, Jo?
+
+**Jo Kaminska:** Yeah, I'll try to find it.
+
+**George Haikal:** All right, think we're going to just do Team App, is what we've been using.
+
+**Jo Kaminska:** Yeah, it's Pod Zero, basically.
+
+**George Haikal:** Got it, okay.
+
+**George Haikal:** There you go, you should have that email.
+
+**Jo Kaminska:** Are there any specific insights about like publishing to Webflow, like any collection details, anything else that we should know?
+
+**vitor vavolizza:** Yeah, so our website is Tavern, so there's Tavern Demands, which is the old website, there's Tavern, so yeah, just use Tavern, which is the only one we use right now, and then a collection I think is just called Blogs.
+
+**vitor vavolizza:** I think the only thing that we'd probably need, Pedro, do you know if we have like the prompts for the images from Unnamed, like to create like in that, you know, the images?
+
+**Pedro Paulino:** I don't think so.
+
+**Pedro Paulino:** I mean, we can just ask them to create the image whenever we have that image, whenever we have the article.
+
+**vitor vavolizza:** Yeah, that's the only thing we probably like need, but otherwise it's just the blog, the blog, a collection, so yeah.
+
+**Jo Kaminska:** Cool.
+
+**Jo Kaminska:** Yeah, we'll be generating images, like featured images within our workflow, so that's not a problem.
+
+**Pedro Paulino:** Right, it's beautiful.
+
+**Pedro Paulino:** Let me show you my screen so I can walk you through the product.
+
+**George Haikal:** Yes.
+
+**Pedro Paulino:** Okay.
+
+**Pedro Paulino:** So this is going to be kind of the main view.
+
+**Pedro Paulino:** So every user has their key dashboard.
+
+**Pedro Paulino:** They can track all the cases created.
+
+**Pedro Paulino:** Essentially they can do three things here.
+
+**Pedro Paulino:** Medical chronologies, demand letters, and request medical records.
+
+**Pedro Paulino:** I'm going to start with requesting medical records.
+
+**Pedro Paulino:** So that's the medical retrieval product, which is before lawyers can work in any case, they need to get the medical records then because the medical records are the source of evidence and truth that will inform everything that they draft and argue in the case.
+
+**Pedro Paulino:** We work primarily with attorneys dealing with personal injury cases—medical malpractice, anything health-related. Every customer is dealing with health-related matters and needs medical records to start working on the case.
+
+**Pedro Paulino:** They create a new case—for example, "George's case"—and choose a category for tracking purposes.
+
+**Pedro Paulino:** Then you create a case, and then here you can like see every action you can, you can do upon your case, so this is how you control the products you're going to use.
+
+**Pedro Paulino:** So first we're going to request a medical record, so you, so I'm the lawyer, right, so I'm the customer, and I need to request the records on the behalf of George.
+
+**Pedro Paulino:** On an average case, they have to request records from around 10 to
+
+**Pedro Paulino:** 15 facilities, places that you went to, not only the provider that you went as a result of the injury, but also providers you've attended before the injury and after for unrelated visits, so they could create the whole picture of our health in relation to that event.
+
+**Pedro Paulino:** So you come here, you upload the HIPAA authorization form, which is like the form that will be kind of the guiding force for talking to the providers and getting that back.
+
+**Pedro Paulino:** They upload the HIPAA authorization form here.
+
+**Pedro Paulino:** And this is per patient, so in their intake form, so whenever a law firm starts working with a client, this client will provide this authorization form so the law firm can request medical records on their behalf.
+
+**Pedro Paulino:** And this is always faxed.
+
+**Pedro Paulino:** So here we automate this fax integration.
+
+**Pedro Paulino:** When sending to a specific provider, we fill this form with relevant provider information and send it through a fax API.
+
+**Pedro Paulino:** The lawyer doesn't have to manually manage the fax process.
+
+**Pedro Paulino:** Let me see if it's like a demo version.
+
+**Pedro Paulino:** We also do some like AI here to pull some information.
+
+**Pedro Paulino:** Let's just see if I want to move through.
+
+**Pedro Paulino:** Okay.
+
+**Pedro Paulino:** Okay, great.
+
+**Pedro Paulino:** It's taking ages.
+
+**Pedro Paulino:** So here, the flow would just be, you know, it would read the patient information, then the providers I need to communicate.
+
+**Pedro Paulino:** beautiful.
+
+**Pedro Paulino:** Okay.
+
+**Pedro Paulino:** So this is an authorization form.
+
+**Pedro Paulino:** The system automatically populates the information from the authorization form.
+
+**Pedro Paulino:** You have to put the patient address.
+
+
+**Pedro Paulino:** It's like the real thing.
+
+**Pedro Paulino:** Okay.
+
+**Pedro Paulino:** And then this is good.
+
+**Pedro Paulino:** Let me just see.
+
+**Pedro Paulino:** Oh, and then patient form, Pedro Paulino, date of birth.
+
+**Pedro Paulino:** So this is information that goes into the form.
+
+**Pedro Paulino:** Then they select all the providers the patient has visited. Usually the lawyer knows this from the intake.
+
+**Pedro Paulino:** So Kaiser, uh...
+
+**Pedro Paulino:** We pull information about which providers they've visited from intake data.
+
+**Pedro Paulino:** Yes, this will already be information they have.
+
+**Pedro Paulino:** Kaiser, then you can, you know, like add like, you know, Stanford Hospital, Stanford Hospital.
+
+**Pedro Paulino:** We pull provider information from a database of public information, then they add all the relevant providers.
+
+**Pedro Paulino:** And then you continue.
+
+**Pedro Paulino:** I have to put the service start date because we're only requesting the records for a particular start date.
+
+**Pedro Paulino:** Then whatever.
+
+**Pedro Paulino:** And then you submit the request.
+
+**Pedro Paulino:** And then FaxCase dashboard.
+
+**Pedro Paulino:** then you keep track of everything here.
+
+**Pedro Paulino:** The beautiful thing of this, like you can, we use AI to send the fax automatically.
+
+**Pedro Paulino:** So based on the information you fill out here, we automatically populate that form, send the fax, and then we are using AI.
+
+**Pedro Paulino:** The callers to go talk to the provider and like confirm if they receive the request and then how much time it's needed to, how much time they're going to take to fulfill the request.
+
+**Pedro Paulino:** So this like AI is like taking the role that like before you would have people just doing this manually, right?
+
+**Pedro Paulino:** So they would fill the fax, they would send the fax manually, they would call the provider and confirm AI is just doing all of the above.
+
+**Pedro Paulino:** And then when AI doesn't, if AI is not able to do it, then they're going to trigger an action from the customer so they can actually do it manually and complete it here so that the AI can continue the flow.
+
+**Pedro Paulino:** And then whenever they get a status update, it can stay here.
+
+**Pedro Paulino:** And then whenever the records are successfully provided, then they can download straight from the portal.
+
+**Pedro Paulino:** So this is like to request the medical records.
+
+**Pedro Paulino:** Then after medical records, they're all on order.
+
+**Pedro Paulino:** It's like a lot of pages, hard to understand.
+
+**Pedro Paulino:** And so there's what's called medical chronology.
+
+**Pedro Paulino:** So you put the medical records in the chronological order and then you're parsing through.
+
+**Pedro Paulino:** The medical chronology extracts the 0.5% of information that's actually relevant for the case in a summary format. Users upload 10 to 20 medical record files and we organize them chronologically.
+
+**Pedro Paulino:** I can send a sample chronology on Slack.
+
+**Pedro Paulino:** So this would be a summary example.
+
+**Pedro Paulino:** like, you know, you have the date, facility, the facility provider, so hyperlink page range, so they can always, like, see what's going on here, go back to the original records to see what happened, and then a quick summary of, like, the relevant medical information that happened.
+
+**Pedro Paulino:** Again, the goal here is, like, the medical records are completely out of order, there's no level of structurization of data here, and with this summary, they can just, like, very quickly get a glance of what happened in this provider for this date, and, like, create this quick picture of what happened.
+
+**Pedro Paulino:** So this is the chronology, and then, finally, for some customers that are sending this claim to insurance, they create what's called a demand letter, which is, like, not only information from the medical records, but also information from the client intake and the police reports to create this, like, six-page demand letter that will go to the insurance company, elaborate on how the...
+
+**Pedro Paulino:** Injury was, you know, problematic to the plaintiff and how affected their lives and then how much they should be compensated for it.
+
+**Pedro Paulino:** So they just put some data here.
+
+**Pedro Paulino:** They upload everything that is relevant to it.
+
+**Pedro Paulino:** And then in a couple of hours, like they get this example demand letter that talks about why the defendant is liable, how much, you know, was incurred on the plaintiff's side in terms of like medical billing.
+
+**Pedro Paulino:** So how much, you they had to pay as a result of the injury, how much it affected their lives qualitatively.
+
+**Pedro Paulino:** So like, oh, I'm a dad.
+
+**Pedro Paulino:** I'm proud dad.
+
+**Pedro Paulino:** I like to play baseball with my kid, but now I cannot anymore.
+
+**Pedro Paulino:** It's like talking about the actual life implication of it.
+
+**Pedro Paulino:** And then a final like mathematical calculation of the damages.
+
+**Pedro Paulino:** I can share a sample demand letter too.
+
+**Pedro Paulino:** But I think again, like workflows that were just like paper, paper, paper, there was a playbook in their heads.
+
+**Pedro Paulino:** And then they kind of come through the paper and then draft the demand letter as well.
+
+**Pedro Paulino:** With Tavrn, users have the whole end-to-end workflow from medical retrieval to demand letter automatically generated.
+
+**George Haikal:** Is there a dashboard to manage and see everything that's active in a case?
+
+**Pedro Paulino:** Yeah, yeah.
+
+**Pedro Paulino:** So here, you know, in the retrieval manager, you can see, you know, like, all the retrievals requested, all the status updates, and then you have, of course, like, the overall kind of case overview.
+
+**Pedro Paulino:** So, like, for each, and usually it's for a person.
+
+**Pedro Paulino:** So for each case, you can see all the retrievals created, all the chronologies created, all the element letters created as well.
+
+**George Haikal:** Very nice.
+
+**George Haikal:** I love jumping in and seeing this.
+
+**George Haikal:** What is Tavern doing that, like, competitors aren't or can't?
+
+**George Haikal:** Or, like, what are you doing much, much better than competitors here?
+
+**Pedro Paulino:** Yeah, think similar to probably you guys, think, like, the way we created the back end of how to create a element letter or how to, like, create the chronology is just, like, super nuanced and super smart.
+
+**Pedro Paulino:** For the demand letter, there are 100+ pipelines built on patterns from the best paralegals in the country—how they approach reviewing police reports and medical records to extract relevant information for the final letter.
+
+**Pedro Paulino:** So like we really did a good job at like creating those pipelines and those ontologies to generate like an amazing final output to people.
+
+**Pedro Paulino:** I think that's one.
+
+**Pedro Paulino:** I think two, like we're very committed to doing the end-to-end workflow.
+
+**Pedro Paulino:** So, you know, from, you know, medical retrieval to demand letter, can have everything in one place.
+
+**Pedro Paulino:** But I think, you know, you probably guys know that, but I think the quality of it is all about like how you set up the pipelines on the backend, right?
+
+**Pedro Paulino:** So like, you know, you're classifying the pages very well and then, you know, very aggressively, like how to filter information that is relevant or not.
+
+**Pedro Paulino:** And then after you filter that information, how that should be conveyed.
+
+**Pedro Paulino:** In the, in the final, but so we just had people obsessively looking over like a lot of data to make sure that the pipeline works really, that it just works, you know, in a way.
+
+**Pedro Paulino:** Yeah.
+
+**Pedro Paulino:** And then we also have a layer of like forward deploy too, so like, you know, if the customers like feel that like there needs to be a particular change in, in how, you know, the tone is conveyed or, or the content of the paragraph should change.
+
+**Pedro Paulino:** We're also happy to adapt the backend based on qualitative customer feedback.
+
+**George Haikal:** No, that's really interesting.
+
+**George Haikal:** What, so I, I understand the process end to end and the role you play in solving it.
+
+**George Haikal:** Like what, I guess two questions.
+
+**George Haikal:** One, what separates like a power user here versus someone who's like more of an occasional, occasional user.
+
+**Pedro Paulino:** I guess we'll, we'll start with that and then I have another follow up after that.
+
+**Pedro Paulino:** Yeah.
+
+**Pedro Paulino:** We have an unlimited user model. When firms buy Tavrn, they can add every user and run as many cases as needed.
+
+**Pedro Paulino:** So I think about our users, literally every page, everything they do in the firm is a derivative of Tavern.
+
+**Pedro Paulino:** So they have the raw documents, right?
+
+**Pedro Paulino:** So they have the medical records, they have the raw ingredients, and then everything they actually work with in terms of understanding the case, pushing the case forward, drafting, everything is through Tavern.
+
+**Pedro Paulino:** So literally everything they, like, deal with, like, Tavern is kind of in the middle.
+
+**Pedro Paulino:** That's a power user.
+
+**Pedro Paulino:** Yeah.
+
+**Pedro Paulino:** And the occasional user is like, oh, like, let me just use it for this particular demand.
+
+**Pedro Paulino:** Like, they're more selective in how they use it.
+
+**Pedro Paulino:** I'd say, like, it's like, they're not using for, like, 100% of their cases.
+
+**Pedro Paulino:** They're using for, like, 10% of their cases for whatever reason.
+
+**Pedro Paulino:** Or, like, maybe not everybody in the firm, like, got acquainted to it, you know?
+
+**Pedro Paulino:** So that's, like, maybe a non-power user, occasional user.
+
+**Pedro Paulino:** They view Tavern as a good thing for one particular, like, artifact, not everything.
+
+**George Haikal:** This makes sense.
+
+**George Haikal:** This makes sense.
+
+**George Haikal:** Probably a dumb question because I'm not in this space.
+
+**George Haikal:** I'm not an expert.
+
+**George Haikal:** But are virtually all the users using all three, like the medical retrieval?
+
+**Pedro Paulino:** No.
+
+**Pedro Paulino:** So most users using both, like chronologies and demand letters.
+
+**Pedro Paulino:** Retrieval is actually a new product that we launched this month.
+
+**George Haikal:** So it's like, you know, especially in this form.
+
+**George Haikal:** And prioritized because it was like one of the most requested from customers?
+
+**Pedro Paulino:** Yeah.
+
+**George Haikal:** How's the adoption been?
+
+**Pedro Paulino:** It's good.
+
+**Pedro Paulino:** I mean, it's just like, you know, kind of a fine line between like we launched a beta and then because like our initial report was like, oh, let's just do the retrieval no matter what.
+
+**Pedro Paulino:** But then there's like a level of like a percentage of requests like AI cannot automate fully because it's like a calling and then it's binary.
+
+**Pedro Paulino:** It's like, did you retrieve everything or not?
+
+**Pedro Paulino:** So there's like inevitably like a level of like some requests that will not go through and you need people in the company.
+
+**Pedro Paulino:** And so we shifted from, like, let's just do everything to, like, let's just have a platform that we automate as much of it.
+
+**Pedro Paulino:** But then when the request doesn't go through, we engage the staff of the law firm to actually do it.
+
+**Pedro Paulino:** So in the retrieval, like, full as a service thing, adoption was, like, rampant.
+
+**Pedro Paulino:** But, like, we don't want to become a BPO.
+
+**Pedro Paulino:** So we kind of had to, like, beta an active decision of, like, let's actually make this a platform.
+
+**Pedro Paulino:** And then we're going to engage the human on the loop whenever the request is going go through.
+
+**Pedro Paulino:** And for that platform, we're still, like, pitching and kind of, like, getting adoption there.
+
+**Pedro Paulino:** It's, I mean, retrieval is, like, the key pain point for law firms right now because it's just, like, it's so manual.
+
+**Pedro Paulino:** It's, like, you you calling the provider, voxing stuff.
+
+**Pedro Paulino:** And there hasn't been anybody in the market that tried to automate this yet.
+
+**George Haikal:** And maybe a question for both of you, Jon, maybe fitting because you're at a conference right now.
+
+**George Haikal:** Like, what are you seeing that grabs the most attention?
+
+**George Haikal:** Like, what aspect of the product when you're selling it?
+
+**George Haikal:** When you're talking about it, what pain point jumps out the most?
+
+**Jon Parisi:** Hey, George, I think you're breaking up on your internet.
+
+**Jon Parisi:** Could you repeat that?
+
+**George Haikal:** Sorry, can you hear me now?
+
+**Jon Parisi:** Yeah, it's my conference.
+
+**George Haikal:** Sorry.
+
+**George Haikal:** Yeah, go for it again.
+
+**George Haikal:** Oh, yeah, your headphones are a little robotic as well.
+
+**George Haikal:** I was just asking, what are you hearing live when you're selling or what are you hearing from feedback from the SBRs on like the biggest pain point?
+
+**George Haikal:** When you're talking about the product and the solutions, like there's obviously three different use cases within the product right now.
+
+**George Haikal:** Like which of those sticks out the most when you're selling or what are you hearing?
+
+**George Haikal:** I think my audio is not going through for a mixture of all three.
+
+**George Haikal:** Pretty even mix.
+
+**Jo Kaminska:** I think I can hear you well.
+
+**Jo Kaminska:** I'm not sure about the other.
+
+**George Haikal:** No, he's texting in the chat.
+
+**George Haikal:** I'm reading it.
+
+**George Haikal:** I'd say pain with time and effort to produce these things manually.
+
+**George Haikal:** Yeah.
+
+**Pedro Paulino:** Okay.
+
+**Pedro Paulino:** It's all like they're all in a state, George, of like, we don't have enough staff to do everything.
+
+**Pedro Paulino:** So it's like, there's always this feeling of like, I'm drowning, you know, in this clerical work.
+
+**Pedro Paulino:** And yeah, so, and all of those offerings are like a substantial time of their admin staff.
+
+**Pedro Paulino:** Scope.
+
+**Pedro Paulino:** So, yeah.
+
+**George Haikal:** Time and money.
+
+**Pedro Paulino:** Time and money.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** I have a question here.
+
+**Jo Kaminska:** So, mostly your product is used by paralegals, right?
+
+**Jo Kaminska:** But who is actually buying?
+
+**Jo Kaminska:** So do they have like a big buying, like big influence when it comes to buying the product?
+
+**Jo Kaminska:** Or is it always like a small practice?
+
+**Pedro Paulino:** Yeah, the buyer is primarily the owner of the firm or like name partners.
+
+**Pedro Paulino:** But they're also aware of...
+
+**Pedro Paulino:** So slow things are.
+
+**Pedro Paulino:** it's a combination of like, either the partner will just buy it and then just introduce it to people.
+
+**Pedro Paulino:** And then they, you know, the partner is usually the owner of the firm.
+
+**Pedro Paulino:** So they're also like a business owner.
+
+**Pedro Paulino:** So they know not only the legal thing, but also like, hey, like, you know, we need to push cases through to make money.
+
+**Pedro Paulino:** So like, they also know ROI very well.
+
+**Pedro Paulino:** And then, so sometimes like they just buy it alone and then they just shove it on the paralegals or it's vice versa.
+
+**Pedro Paulino:** The paralegals are highly regarded by the partner.
+
+**Pedro Paulino:** And then they have like a lot of influence on the, so it's both, you know, like both the attorneys buy it and the attorneys know all the workflow too.
+
+**Pedro Paulino:** So it's like, it's like a highly aware buyer and then a highly influential user, I'd say.
+
+**Jo Kaminska:** Great.
+
+**Pedro Paulino:** If have to define the tone of the audience, I would, I would primarily focus on the owners and the partners.
+
+**Jo Kaminska:** Yeah.
+
+**Jo Kaminska:** Cool.
+
+**Jo Kaminska:** Yeah.
+
+**George Haikal:** That makes sense.
+
+**George Haikal:** What's, I'm curious, what's onboarding like?
+
+**Pedro Paulino:** It's what you just saw.
+
+**Pedro Paulino:** We just give them the platform and they just start uploading, yeah.
+
+**George Haikal:** Essentially frictionless.
+
+**Pedro Paulino:** Yeah.
+
+**George Haikal:** Love it.
+
+**George Haikal:** Love it.
+
+**George Haikal:** We cover competitors.
+
+**George Haikal:** I think the Gong calls will have like a lot of broad feedback and information too.
+
+**George Haikal:** That'll help us a lot.
+
+**George Haikal:** So excited to get our hands on those.
+
+**Pedro Paulino:** Draw the computer selection for you, like a playlist.
+
+**George Haikal:** A playlist.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** What's, okay, vision-wise, roadmap-wise, like what are you prioritizing next?
+
+**George Haikal:** I know this, the retrieval is pretty recent.
+
+**Pedro Paulino:** Yeah, I think like retrieval and client intake and then just like, just winning, you know?
+
+**Pedro Paulino:** Like I think there's a lot of like just go-to-market penetration now that like we're just going to make it just extremely, extremely good.
+
+**Pedro Paulino:** Yeah.
+
+**George Haikal:** Got it.
+
+**George Haikal:** And then customers who churned.
+
+**George Haikal:** Tell me a little bit more about why.
+
+**George Haikal:** What are you seeing rising to the top of the reasons why customers are churning?
+
+**George Haikal:** What isn't working for them?
+
+**Pedro Paulino:** I think when they churn, it's just like, it's probably like, let's see.
+
+**Pedro Paulino:** Like, it's usually money, you know, it's like, well, like, they didn't, like, they maybe had the pain, the cyclical pain in a while, and then they, they just, like, don't have maybe as much caseload, and then they, they just, like, they don't see how the, like, you know, for them, ideally, it would be like a pay-as-your-go type thing, and then it doesn't support, like, it doesn't fit our business model.
+
+**George Haikal:** Interesting, that's, that's the number one thing you're hearing, you think?
+
+**Pedro Paulino:** Yeah, I mean, we don't have a lot, you know, because, like, usually we, we, we only sign people on the, on the yearly contract, so, like, when people don't convert, I think it's just, like, pricing is, like, the, the biggest factor, like, the, the way.
+
+**Pedro Paulino:** We, we work.
+
+**Pedro Paulino:** It's like, oh, like this solves well, but, you know, we don't like the, the way like you, you price or you work.
+
+**Pedro Paulino:** And then they, for them, they would just want to, they would just want to buy like a chronology or them a letter for a hundred dollars and kind of, yeah.
+
+**George Haikal:** Yeah, that makes sense.
+
+**George Haikal:** Are there specific usage metrics that make Tavrn stickier—like number of cases processed or active users?
+
+**Pedro Paulino:** Yes, there are a few key metrics.
+
+**Pedro Paulino:** I mean, the more they run, the more, the more they're running outputs every day.
+
+**Pedro Paulino:** I think it's like, you know, there are a couple of metrics, right?
+
+**Pedro Paulino:** Internally, it's like, well, number of users active on the platform.
+
+**George Haikal:** that's one.
+
+**Pedro Paulino:** I think like cases, like, you know, like a steady load of case, like being uploaded.
+
+**Pedro Paulino:** That's one.
+
+**Pedro Paulino:** And then I think a more important metric that is more, we wouldn't have the data fully, just like, well, like out of like all their cases, how many are going through Tavern?
+
+**Pedro Paulino:** And if the percentage is always like close to like 80%, then that's good.
+
+**Pedro Paulino:** You know, like that means like they're like for every case they're running, like they use Tavern to process.
+
+
+**George Haikal:** This makes sense to me.
+
+**George Haikal:** This makes sense to me.
+
+**George Haikal:** I'm excited to dig into the Gong calls and get a ton more insights and we'll keep sending everything over Slack.
+
+**George Haikal:** Is there anything that we didn't ask here that you think we should have about the product, about how you're thinking about it, about the audience?
+
+**Pedro Paulino:** I think we covered a lot and we got a lot of info on the kickoff call, but anything we're missing?
+
+**Pedro Paulino:** That's great.
+
+**Pedro Paulino:** And that's great.
+
+**Pedro Paulino:** I think that's all good.
+
+**Pedro Paulino:** Yeah.
+
+**Pedro Paulino:** Just really excited to produce like, you know, the high quality content, like technical or business zone, like everything that just can put us in this like credible space.
+
+**Pedro Paulino:** And, but I think that, that all makes sense.
+
+**Pedro Paulino:** Like that was all.
+
+**George Haikal:** Yeah, we're excited, too.
+
+**George Haikal:** Thanks for unblocking the publishing, getting us access.
+
+**George Haikal:** We'll check on that.
+
+**George Haikal:** Gone calls, and we'll keep working on our end to get you artifacts, research, all the good stuff.
+
+**Pedro Paulino:** So really appreciate the time, guys.
+
+**Pedro Paulino:** Cheers.
+
+**Pedro Paulino:** Likewise.
+
+**Jo Kaminska:** Speak soon.
+
+**George Haikal:** Have a good one.
+
+**Jo Kaminska:** See you tomorrow.
+
+**George Haikal:** Ciao.
+
+**George Haikal:** Bye.

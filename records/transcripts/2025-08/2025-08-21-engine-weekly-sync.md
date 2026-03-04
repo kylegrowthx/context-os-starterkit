@@ -1,0 +1,1154 @@
+# Engine Weekly Sync
+
+<metadata>
+date: 2025-08-21
+time: 18:30 UTC
+duration: 37 minutes
+organizer: Darrell Etherington (GrowthX)
+participants: Darrell Etherington (GrowthX), Carrie Chowske (GrowthX), Kyle Gaudreau (GrowthX), Joel Murphy (Hotel Engine), Cole Parker (Hotel Engine)
+fathom_recording_id: 82164316
+fathom_url: https://fathom.video/calls/386043875
+share_url: https://fathom.video/share/ARaM_sLBVnk6gnE17NF7d1dFSv_8Fdod
+source: fathom
+enriched_on: 2026-03-03 18:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Hotel Engine discussed content performance and strategy refinements, revealing that direct, "blue-collar" language and industry-specific pain point messaging convert best, with wedding room block content achieving 7% conversion rates. The team aligned on a major new programmatic SEO opportunity for Hotel Engine's RoomBlocks product—an Airbnb-style marketplace connecting group event planners with curated hotel options—requiring Marcel (GrowthX CEO) to scope the engagement and determine resource needs. Additionally, GrowthX recommended implementing FAQ schema markup and structured content formats to improve visibility in LLM responses from ChatGPT and Perplexity, while Cole and Joel committed to preparing ICP data to support the content strategy for this new initiative.
+
+---
+
+## Context
+
+Hotel Engine is a B2B hotel booking platform for group travel, serving clients ranging from wedding planners to corporate event organizers and sports teams seeking bulk room bookings. GrowthX has been providing editorial content marketing services to Hotel Engine, producing direct, practical guides focused on the pain points of hospitality professionals. This was a key account transition meeting: Darrell Etherington, the main GrowthX point of contact, announced he was leaving GrowthX (but remaining available for one week), introducing Kyle Gaudreau as the new account lead. Kyle brings extensive experience in GrowthX's delivery and client services, plus familiarity with the account from the strategy sprint. Cole Parker, newly joining Hotel Engine's marketing team to lead the RoomBlocks initiative, also attended to discuss a significant new product launch and its content strategy implications.
+
+The meeting reflected a strategic inflection for the partnership: Hotel Engine's existing content was performing well in niche segments (particularly wedding room blocks with 7% conversion rates), and this success was informing discussions about a more ambitious programmatic SEO engagement around RoomBlocks—a new marketplace-style product that would require deeper collaboration on content architecture and targeting strategy.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Direct, industry-specific language (avoiding corporate jargon like "streamline" and "optimize") drives superior content performance and conversion rates—practical insight for refining GrowthX's content methodology across all clients
+- Programmatic SEO engagement for RoomBlocks represents a significant expansion of scope and revenue for Hotel Engine account; requires scoping with Marcel to determine whether this is a strategic priority given current team capacity
+- Content strategy requires tight feedback loops with client (e.g., Carrie's process of flagging product functionality claims for Joel to verify); suggests need for structured content review workflows
+
+**To CheckThat:**
+- Strong signals of LLM traffic growth from ChatGPT and Perplexity driving Hotel Engine traffic; team recommends FAQ schema markup and structured Q&A content formats to improve visibility in LLM responses—directly applicable to CheckThat's AEO positioning and testing
+- Discussion of programmatic SEO methodology (variable-driven content generation for different user intents: event type, location, audience) is core to GrowthX's checkThat value proposition
+
+**To GrowthX Business Development:**
+- Hotel Engine account health is strong: content performing well, team expanding (new Head of Marketing joining), and exploring higher-complexity engagements (programmatic SEO) signals potential account expansion and renewal confidence
+- Darrell's departure from GrowthX may be temporary account risk; Kyle's onboarding and relationship continuity are critical during this handoff
+
+---
+
+## Overview
+
+- Content focusing on specific industry pain points and using direct, "blue-collar" language is performing best
+- New opportunity identified for programmatic SEO approach to room blocks/event bookings
+- FAQ schema markup recommended for improving LLM visibility and traffic
+- Steady growth observed in LLM referrals, particularly from ChatGPT and Perplexity
+
+---
+
+## Key Topics
+
+### Team Changes and Introductions
+
+  - Darrell is leaving GrowthX for a new opportunity
+  - Kyle introduced as temporary replacement, bringing extensive experience in client services and sales
+  - Cole from Hotel Engine joined, leading marketing for RoomBlocks initiative
+
+### Content Performance Analysis
+
+  - Overall traffic shows slow, steady increase
+  - Best-converting content (7% conversion rate) is wedding room block related
+  - Expense management and practical "how-to" guides performing well
+  - Industry-specific content seeing some decline, but opportunities exist for targeted approaches
+  - Content using corporate jargon (e.g., "streamline," "optimize") performing poorly
+
+### Content Strategy Refinements
+
+  - Focus on blue-collar directness and real-world pain points for project-based crews
+  - Develop more granular, industry-specific bulk booking guides
+  - Create clustered content around specific travel challenges
+  - Emphasize problem-solving and practical financial content
+
+### LLM Optimization
+
+  - Specific, direct answers favored by LLMs like ChatGPT
+  - Structured FAQ schema recommended for improved visibility
+  - Content structure should focus on question-and-answer format
+
+### RoomBlocks Initiative
+
+  - New site planned for room block bookings
+  - Airbnb-style interface proposed with search functionality and curated listings
+  - Potential to include venue listings (wedding venues, meeting spaces, etc.) in the future
+  - Need to ensure consistent imagery and content from marketing to product pages
+
+---
+
+## Action Items
+
+**Joel Murphy (Hotel Engine)**
+- Leave comments on specific content needing verification; chase down confirmations for product functionality details
+- Send industry-specific pain points document to Carrie for content guidance
+- Prepare & share ICP info for room blocks project w/ GrowthX team
+
+
+**Carrie Chowske (GrowthX)**
+- Flag content for Joel to check when unsure about product functionality claims
+
+
+**Darrell Etherington (GrowthX)**
+- Message Marcel re: availability to join next sync or book separate meeting for room blocks project discussion
+
+
+**Cole Parker (Hotel Engine)**
+- Compile ICP data for room blocks project; coordinate w/ Joel to share w/ GrowthX
+
+---
+
+## Transcript
+**Darrell Etherington:** Hi.
+
+**Darrell Etherington:** Hello.
+
+**Darrell Etherington:** Yeah, good conversation with Matthew.
+
+**Darrell Etherington:** Oh, good.
+
+**Darrell Etherington:** Yeah.
+
+**Carrie Chowske:** I paused the recording, so just wanted to turn it back on.
+
+**Darrell Etherington:** No, no, it's fine.
+
+**Carrie Chowske:** You know what kind of day it is if I'm over here pounding on a red bull like a teenager?
+
+**Carrie Chowske:** Ooh, red bull.
+
+**Carrie Chowske:** It's the watermelon one, so like, I don't know.
+
+**Carrie Chowske:** These are the only ones that are any good, in my opinion.
+
+**Carrie Chowske:** And they stopped making the watermelon monster, which was actually sugar-free.
+
+**Darrell Etherington:** Now, why did they stop making it?
+
+**Darrell Etherington:** Was it because it's poisonous?
+
+**Carrie Chowske:** Probably, probably.
+
+**Kyle Gaudreau:** coloring in it that got banned or something.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** Yeah, yeah.
+
+**Darrell Etherington:** Yeah, I haven't had red bull.
+
+**Darrell Etherington:** Well, used to drink a ton of it at TechCrunch, the conference at this rep.
+
+**Darrell Etherington:** Because in the early days, they were a sponsor.
+
+**Kyle Gaudreau:** It was like, oh, yeah, like, start a puzzle.
+
+**Kyle Gaudreau:** You were mandated to drink X amount of Red Bulls per day.
+
+**Darrell Etherington:** Yeah, we had to drink them on stage instead of water and cheat out the label.
+
+**Carrie Chowske:** I mean, to be fair, I was working on, I just finished this one and I was working on it since about 10 a.m.
+
+**Darrell Etherington:** So it's too late now.
+
+**Darrell Etherington:** It's very reasonable.
+
+**Carrie Chowske:** Yeah, I don't, I don't, I don't, my husband will chug them and I'm like, you're going to give yourself a heart attack.
+
+**Kyle Gaudreau:** Like, stop doing that.
+
+**Kyle Gaudreau:** I need your income.
+
+**Kyle Gaudreau:** You can't die on me.
+
+**Darrell Etherington:** Well, I just made myself a fresh coffee, so I'm not much better.
+
+**Carrie Chowske:** Hey, listen.
+
+**Carrie Chowske:** And I'm comes through the day.
+
+**Carrie Chowske:** How you doing, Joel?
+
+**Joel Murphy:** A little under the weather today, but I'm making it.
+
+**Darrell Etherington:** It's too bad.
+
+**Carrie Chowske:** Well, we can keep it succinct as possible.
+
+**Carrie Chowske:** I do have, like, I did some detailed, like, performance analysis that I can just leave with you.
+
+**Carrie Chowske:** We don't have to go over it in detail if you want to do it when you're feeling a little bit better.
+
+**Joel Murphy:** But I don't know.
+
+**Joel Murphy:** I can hang.
+
+**Carrie Chowske:** I'm not.
+
+**Carrie Chowske:** I don't
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** So look at me being like, I'm such a mom sometimes, where I'm like, are you okay?
+
+**Carrie Chowske:** need a cup of coffee, some tea?
+
+**Carrie Chowske:** Okay, so let me share my screen.
+
+**Carrie Chowske:** I always get thrown off kilter because we use, we go back and forth between tools, and I'm always like, you'd think I would be good with Zoom.
+
+**Carrie Chowske:** I taught like undergrad, did nothing but Zoom for three years.
+
+**Darrell Etherington:** And also, is James not going to join us this time?
+
+**Joel Murphy:** Is that what's happening?
+
+**Joel Murphy:** I don't know, actually.
+
+**Darrell Etherington:** me see.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** It responded, maybe.
+
+**Darrell Etherington:** Yeah, was maybe on the thing, so I wasn't sure.
+
+**Joel Murphy:** Yeah, Yeah, James is a busy guy, so I wouldn't know if he didn't.
+
+**Joel Murphy:** No big deal.
+
+**Carrie Chowske:** Okay, cool.
+
+**Carrie Chowske:** Well, we have some mildly sad news.
+
+**Carrie Chowske:** Daryl is leaving GrowthX for another opportunity, which is why Kyle's on the call.
+
+**Joel Murphy:** But I think, have you met Kyle before?
+
+**Joel Murphy:** I feel like you have.
+
+**Carrie Chowske:** No?
+
+**Carrie Chowske:** No, I have not.
+
+**Carrie Chowske:** I thought you had.
+
+**Carrie Chowske:** So, Kyle's going to be stepping into Darrell's shoes, at least temporarily, but if you want to introduce yourself.
+
+**Kyle Gaudreau:** Hey, yeah, great to meet you, Joel.
+
+**Kyle Gaudreau:** I've been at GrowthX for a while.
+
+**Kyle Gaudreau:** I joined back in October.
+
+**Kyle Gaudreau:** I was also the first customer.
+
+**Kyle Gaudreau:** I've worn just a bunch of different hats here.
+
+**Kyle Gaudreau:** Actually, jumping into this role is quite familiar for me because I helped build a lot of the delivery side of the org and was leading client services for most of my tenure.
+
+**Kyle Gaudreau:** Then we had some need to build up the sales side, so I just spent some time doing that.
+
+**Kyle Gaudreau:** We just had someone who now just joined and now, you know, going to where I need it.
+
+**Kyle Gaudreau:** And so, you know, excited to work on this.
+
+**Kyle Gaudreau:** I've had a chance to follow a bit of, like, to work through the strategy sprint and just see some of the different artifacts we were building.
+
+**Kyle Gaudreau:** And so I have some relative familiarity, but I definitely need to ramp a bit.
+
+**Kyle Gaudreau:** But anyways, I think of my role here is just, like, making sure we have the right strategic, you know, support here can help ensure we have the right.
+
+**Kyle Gaudreau:** Resources, et cetera.
+
+**Kyle Gaudreau:** You know, it's been a long time in digital and growth, so hopefully I can share a few different ideas here and there that can be useful.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Great to meet you.
+
+**Carrie Chowske:** Likewise.
+
+**Carrie Chowske:** Yeah, Kyle, I think you onboarded so many clients that I always just assume you've met.
+
+**Kyle Gaudreau:** I yeah.
+
+**Kyle Gaudreau:** I have onboarded almost all the clients, but my time through sales, that changed a bit.
+
+**Carrie Chowske:** Yeah, well, Engine's fun content to work on.
+
+**Carrie Chowske:** I really like their tone of voice and, like, it's very direct and straightforward and, for lack of a better term, blue-collar.
+
+**Carrie Chowske:** So it's very refreshing, I think, having done so much, like, corporate jargon speak that it's fun to keep all of that out and just hack it to pieces.
+
+**Carrie Chowske:** So, and then we're, that actually kind of skips ahead a little bit, but, like, I think also they were, they've got a new site that they're going to be kicking off for Room Blocks.
+
+**Carrie Chowske:** I heard about this idea.
+
+**Kyle Gaudreau:** Yeah, definitely want to get more up to speed on it.
+
+**Kyle Gaudreau:** I heard some.
+
+**Kyle Gaudreau:** So yeah, it seems super interesting.
+
+**Darrell Etherington:** Yeah, it's cool.
+
+**Darrell Etherington:** yeah, it's just been great working with you, Joel, and even brief as it has been.
+
+**Darrell Etherington:** So sad to go, sad to go.
+
+**Darrell Etherington:** It's a growthx team generally I love, but yeah, just a new opportunity came up, so I'm moving on to that.
+
+**Darrell Etherington:** But I'm around again for another like week and a half, so if you got any questions, I'll be here.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** I always joke that Darrell's going to have to, someone's going to have to step in and laugh at my dad jokes, because Darrell's the only one right now that does that, so.
+
+**Carrie Chowske:** Yeah, Joel, if want to take up that.
+
+**Darrell Etherington:** Kyle, it's going to use Joel.
+
+**Kyle Gaudreau:** I love a good dad joke.
+
+**Carrie Chowske:** Okay, good, good, good, good.
+
+**Carrie Chowske:** All right, we're covered, we're covered.
+
+**Cole Parker:** Hey, Cole, how are you?
+
+**Cole Parker:** What's up, guys?
+
+**Carrie Chowske:** Sorry I'm late.
+
+**Carrie Chowske:** Nope, no problem at all.
+
+**Joel Murphy:** Do you guys know Cole?
+
+**Joel Murphy:** I'm not sure if you guys met yet or not.
+
+**Carrie Chowske:** I think a while back.
+
+**Darrell Etherington:** Were one of the early calls that we joined?
+
+**Cole Parker:** Yeah.
+
+**Cole Parker:** Yeah, I think I was on the kickoff.
+
+**Cole Parker:** Yeah.
+
+**Darrell Etherington:** I haven't been back since.
+
+**Joel Murphy:** Okay, so speaking of room blocks, is Least Marketing.
+
+**Joel Murphy:** And RuneBlox is, you know, his thing.
+
+**Joel Murphy:** So he can definitely help explain what we're thinking about that.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** I think, too, like what I've got for you with like the performance stuff, too, kind of will just kind of shows that like we've learned some stuff about what we have done already.
+
+**Carrie Chowske:** And that will help inform, you know, that future.
+
+**Carrie Chowske:** Or even if it's even though it's going to be in a totally different, you know, voice and kind of sector of your, you know, audience that I think it'll apply as well.
+
+**Joel Murphy:** I think what we learned there will apply.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** Any questions or feedback about current, like recent content or anything, anything specific that you want to raise?
+
+**Carrie Chowske:** I think I saw some minimal comments on a couple articles, but.
+
+**Joel Murphy:** Yeah, it's mostly just like wording stuff.
+
+**Joel Murphy:** Really, I just wanted to ask for my own clarification.
+
+**Joel Murphy:** Like there was a couple posts that are like very specific about.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** Certain things Engine can do as a platform.
+
+**Joel Murphy:** Like, I should have kept this article open so I don't have to try to remember this, but something, like, very, very specific.
+
+**Joel Murphy:** Like, all you have to do is click this in the platform.
+
+**Joel Murphy:** Like, where are we sourcing that from?
+
+**Joel Murphy:** I can verify that we're not saying the wrong thing.
+
+**Carrie Chowske:** Yeah, yeah, yeah.
+
+**Carrie Chowske:** Typically, that's coming from materials that you've given us.
+
+**Carrie Chowske:** So a lot of that's been parsed and coming through.
+
+**Carrie Chowske:** But, yeah, if you've got anything that we can confirm that against, we're happy to do that, too.
+
+**Darrell Etherington:** I think I'm always checking that stuff, but I don't always have the exact, like, resource.
+
+**Carrie Chowske:** I actually signed up for an Engine account so I could check things.
+
+**Carrie Chowske:** Okay, cool.
+
+**Joel Murphy:** My question's based on my – I know, like, you guys feed artifacts through the AI and create these posts.
+
+**Joel Murphy:** And, like, my concern is this.
+
+**Joel Murphy:** Anytime I ask ChatGPT specifically, how do I do bugs?
+
+**Carrie Chowske:** Blah, blah, blah, in a platform.
+
+**Carrie Chowske:** It hallucinates like crazy.
+
+**Joel Murphy:** Oh, yeah.
+
+**Joel Murphy:** It makes stuff up.
+
+**Darrell Etherington:** I just want to make sure we're not doing the same thing.
+
+**Darrell Etherington:** Yeah, yeah.
+
+**Darrell Etherington:** If you find any that are, because there's still a possibility that'll happen, because it does have a tendency to do that.
+
+**Darrell Etherington:** We usually have additional instructions built into the thing that give it kind of like escapes, as they call them, where it's like, hey, no pressure because of its reward-seeking function.
+
+**Joel Murphy:** You don't have to make up a thing if a thing doesn't exist or whatever.
+
+**Darrell Etherington:** And so we try to mitigate that as much as possible, but it's a thing that is inherent to the technology.
+
+**Darrell Etherington:** So definitely, if you see anything where it's doing that, point it out, and then we can hopefully improve or decrease these error rate even further.
+
+**Darrell Etherington:** And also just educate ourselves as like the human reviewers to make sure that we know, right?
+
+**Joel Murphy:** Yeah, what I'll do, I'll just leave a comment when I see it next and try to chase down the confirmation of the detail and then like feed that back to you guys.
+
+**Darrell Etherington:** That's perfect.
+
+**Carrie Chowske:** Thank you.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** Cool.
+
+**Carrie Chowske:** Yeah, we do all kinds of little stuff to do that.
+
+**Carrie Chowske:** And it's tough sometimes with product functionality.
+
+**Carrie Chowske:** If you don't have developer docs and things like that sometimes can help.
+
+**Joel Murphy:** But in the absence of that, it's a little harder sometimes to nail that down.
+
+**Joel Murphy:** And that's not accurate, though, because development docs change and they don't.
+
+**Carrie Chowske:** No, I totally get it.
+
+**Carrie Chowske:** I totally get it.
+
+**Carrie Chowske:** Okay, yeah, something I'll keep an eye on, too.
+
+**Carrie Chowske:** can flag things for you also.
+
+**Carrie Chowske:** Just leave you a comment in the doc to be like, hey, can we check this?
+
+**Joel Murphy:** We don't have any additional info on it.
+
+**Carrie Chowske:** Yeah, that'd be helpful.
+
+**Carrie Chowske:** Okay, yeah, I can certainly do that.
+
+**Carrie Chowske:** So right now we've got approved topics that from before James gave you authority over that.
+
+**Carrie Chowske:** We have 20 of those.
+
+**Carrie Chowske:** We have 14 articles in production.
+
+**Carrie Chowske:** We've already published your articles for this week.
+
+**Carrie Chowske:** There were five of them.
+
+**Carrie Chowske:** We did three new and two refresh.
+
+**Carrie Chowske:** And then I didn't know if you still wanted to.
+
+**Carrie Chowske:** I
+
+**Carrie Chowske:** If we're refreshing something, if you're wanting to look over that, James had said no, he didn't want to see it.
+
+**Carrie Chowske:** We're largely looking at aligning it with current voice, current ICP, and updating links and making sure that, you know, it fits and we're adding in that CTA that we have.
+
+**Carrie Chowske:** That's the bulk of what we do with it.
+
+**Carrie Chowske:** I don't know if that's something that you want to, if I can put them back into your queue for review if you would like or not.
+
+**Joel Murphy:** Nah, I mean, I'm going to trust James on that.
+
+**Joel Murphy:** I think we'll be okay.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** I'll let you know, too, because I can flag anything if I have concerns.
+
+**Carrie Chowske:** And if there's anything that we really feel like and we're not sure what to do with, I'll make sure that I kind of give you a little, like, flag, a little smoke signal or flare gun kind of thing.
+
+**Darrell Etherington:** Cool.
+
+**Darrell Etherington:** Yeah, and based on that other thing, we'll just pay special attention to if it's mentioning, like, product functionality or whatever, if it's specific to engine, right?
+
+**Joel Murphy:** Yeah.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** But I do have an account, too, so I can kind of go in and see, like, if, you know...
+
+**Carrie Chowske:** Most act like I'm booking something and then I can do anything I can do up to putting something on a card.
+
+**Carrie Chowske:** There you go.
+
+**Carrie Chowske:** And then we already have two articles ready for you to review for next week.
+
+**Carrie Chowske:** Should have some more today.
+
+**Carrie Chowske:** I was going through some stuff.
+
+**Carrie Chowske:** I've got to get caught up on my own editing.
+
+**Carrie Chowske:** But we should be ready to go for that before the end of the week at the very least.
+
+**Carrie Chowske:** So you should have that ready.
+
+**Carrie Chowske:** And then there's also another 14 topics in there for approval.
+
+**Carrie Chowske:** Those are pretty easy if you just literally click the checkbox and it automates for us and lets us know that those are in the queue and we can pull from them.
+
+**Carrie Chowske:** All right.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** So now for the more fun stuff.
+
+**Joel Murphy:** I did see that you shared the dashboard with us.
+
+**Carrie Chowske:** Is there any chance of getting like raw data too?
+
+**Carrie Chowske:** Because some of that we can run through.
+
+**Carrie Chowske:** can run that against traffic stuff and get a little deeper.
+
+**Carrie Chowske:** I'll show you kind of what I mean.
+
+**Joel Murphy:** But if possible, if not, the dashboard worked fine.
+
+**Joel Murphy:** As you'll see here in a sec.
+
+**Joel Murphy:** I do.
+
+**Carrie Chowske:** Don't know the answer, but if you can give me an example of what the kind of stuff you're looking for, I can ask.
+
+**Carrie Chowske:** I'll send you a Slack.
+
+**Carrie Chowske:** So I did promise, I forgot to send this up to the meeting last week, but the looker dash that we have, let me share it as soon as I can get this to load.
+
+**Carrie Chowske:** I'm so used to being able to, like, not have to stop sharing in Google.
+
+**Carrie Chowske:** It's this one here.
+
+**Carrie Chowske:** So you should have access to this.
+
+**Carrie Chowske:** If it's not working, let me know.
+
+**Carrie Chowske:** I have cat hair in my mouth again.
+
+**Carrie Chowske:** It's, like, always what's happening to me.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** So this allows you to kind of get a look.
+
+**Carrie Chowske:** This is getting pulled from Search Console data, and I believe we also set up some conversion event data in here also.
+
+**Carrie Chowske:** So we have that as well on top of.
+
+**Carrie Chowske:** of the Amplitude dash that you shared.
+
+**Carrie Chowske:** So I did some cross-referencing on this so that we could look at some kind of like some trends, insights from it.
+
+**Carrie Chowske:** And I think the long and short of it really is, I'm not going to dig too deep into this because I did kind of just run through a bunch of it.
+
+**Joel Murphy:** I just wanted you to know that that was there.
+
+**Carrie Chowske:** But the top level, like in terms of just traffic, clicks, and that sort of thing, we're still continuing to see an increase.
+
+**Carrie Chowske:** It's kind of a slow and steady little increase over time.
+
+**Carrie Chowske:** And then if we look at...
+
+**Carrie Chowske:** Basically, the takeaway here is not thrilling, but reassuring.
+
+**Carrie Chowske:** So the best, like, converting content is actually kind of proving what we thought about when the strategy sprint, kind of what they came up with in terms of their strategy about the blue-collar directness.
+
+**Carrie Chowske:** And now this has
+
+**Carrie Chowske:** Kind of like using these specific real world pain points to talk about travel challenges that, you know, project based crews have that that's going to do better than the generic corporate travel content, which is what we've kind of been as we've been refreshing that some of the stuff, the language that we're taking out as well.
+
+**Carrie Chowske:** So guiding it more towards the challenges of that project based crew based travel, namely some like just still even the tiniest of things.
+
+**Carrie Chowske:** Right.
+
+**Carrie Chowske:** So like with regular corporate travel, you've probably got like a bunch of executives going from one city to another city or, you know, and that's, that's a different type of travel problem than you have maybe regional managers all over the country, all traveling to different locations or all traveling to the same location and trying to coordinate all that.
+
+**Carrie Chowske:** So just even down to those little details, we're noticing that that that kind of content is doing better and especially in terms of conversions, although we are seeing kind of like some declining blog traffic over since before.
+
+**Carrie Chowske:** Before we started jumping in.
+
+**Carrie Chowske:** Does that make sense?
+
+**Joel Murphy:** It does.
+
+**Carrie Chowske:** I wanted to ask.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** You have our best converting content, 7% conversion rate.
+
+**Joel Murphy:** What does best converting mean?
+
+**Carrie Chowske:** Is that a single piece of content?
+
+**Joel Murphy:** Yeah.
+
+**Carrie Chowske:** It's based on what was in the amplitude dash.
+
+**Carrie Chowske:** It's actually a piece of wedding room block content, which I was going to point out that that was really interesting, that that's like a big one.
+
+**Carrie Chowske:** So that's a really good sign that we've got a lot of area there to really dig into that.
+
+**Carrie Chowske:** But yes, it is a single page, but also similar trends in that other stuff.
+
+**Carrie Chowske:** So if you look at the dash, let me, I have too many tabs opener.
+
+**Carrie Chowske:** would just share the whole stinking window.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** This here is, it's coming off of this, but it's talking specifically about this.
+
+**Carrie Chowske:** So it's...
+
+**Carrie Chowske:** Um, you know, a, uh, it's a, it's a path.
+
+**Carrie Chowske:** So it's not like a direct, like they click this and then they converted is what I'm from what you've given us.
+
+**Carrie Chowske:** So we've got, but all of these other, this is a page that, which was the other one.
+
+**Carrie Chowske:** Yeah, this was a page that we did.
+
+**Carrie Chowske:** So this is that same page.
+
+**Carrie Chowske:** think, yeah, it is.
+
+**Carrie Chowske:** And then, so we're seeing kind of like this really, um, strong conversion there.
+
+**Carrie Chowske:** But when you look at the like content of these pages, basically what we're seeing is the content that does what we set our writing guidelines to do with that artifact, you know, is like, Hey, no nonsense specifics, um, blue collar speak.
+
+**Carrie Chowske:** Like, don't give me these, this corporate jargon, um, that is perform, that is performing best.
+
+**Carrie Chowske:** That's what some, these, these articles have in common.
+
+**Joel Murphy:** that makes sense.
+
+**Joel Murphy:** Right.
+
+**Joel Murphy:** Cool.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** All right, right back on the right screen.
+
+**Carrie Chowske:** Yes, we are.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** So, but what's nice is we're seeing steady growth from, you know, LLM referrals.
+
+**Carrie Chowske:** ChatGPT one is like, that's mostly because that's where we start collecting the data too, I think, but it's still showing growth within that period.
+
+**Carrie Chowske:** Perplexity is another one.
+
+**Carrie Chowske:** You'll see that one pop up a lot just because they do provide direct citation every time with a search.
+
+**Carrie Chowske:** So, and that data is, you know, do you want to say something, Darrell?
+
+**Carrie Chowske:** know you love to, okay.
+
+**Carrie Chowske:** I thought, I thought I saw the like, wait a minute.
+
+**Carrie Chowske:** So there we're seeing, like I said, we're seeing really good growth there, which is good too.
+
+**Carrie Chowske:** What's, what's performing really well is a lot of the expense management content, which is good because that's a strong feature from Engine and the wedding room booking, which is a place where we're probably going to go next.
+
+**Carrie Chowske:** And then some things that also were pretty good where we get a little
+
+**Carrie Chowske:** More granular is like the instructional guides.
+
+**Carrie Chowske:** This what info do you need to book a flight?
+
+**Carrie Chowske:** Like it sounds kind of silly, you know, because like, well, I need to know where I'm going and, you know, when I've got to get there.
+
+**Carrie Chowske:** But that we really kind of like focus on that.
+
+**Carrie Chowske:** And that's a newer article that's seen some growth right away.
+
+**Carrie Chowske:** So that's good, too.
+
+**Carrie Chowske:** So it's the more specific I think that we're getting, the better it is.
+
+**Carrie Chowske:** So like a lot of the granular, like we got some room to do things like with booking X type of travel, business travel for construction and booking this for manufacturing.
+
+**Carrie Chowske:** And it's like you can kind of kind of bubble that out and repeat a little bit, too, so we can get some traffic from all of those different industries.
+
+**Joel Murphy:** Yeah, that was one of the reasons I asked about the specificity of like the product itself, because I've been doing a deep dive this week on optimizing for LLM visibility and just trying to soak in as much information as I can get.
+
+**Joel Murphy:** And what keeps coming up is like specific.
+
+**Joel Murphy:** of content and basically providing a direct answer that an AI can, you know, absorb and feedback to someone else.
+
+**Joel Murphy:** So I'm glad to see that that's what we're doing and that it seems to be working.
+
+**Joel Murphy:** But like you mentioned, like, it's kind of silly.
+
+**Joel Murphy:** What info do I need to book a flight?
+
+**Joel Murphy:** But I think that's on some level that is exactly the kind of stuff that seems to be favorable.
+
+**Carrie Chowske:** Yeah, yeah, it definitely is.
+
+**Carrie Chowske:** And I think it's like, if we're not getting too, and I think it's thinking about the intent of the question, because I remember specifically with that one, like having a little bit of back and forth with the writer on it when she's, you know, running these through the LLM and kind of looking at what it's putting out.
+
+**Carrie Chowske:** And talking about, like, it's going to give you the most basic, like, step one, you know, book a flight.
+
+**Carrie Chowske:** You know, it's going to be like the most basic stuff.
+
+**Carrie Chowske:** But really, what is the intent behind a question like that?
+
+**Carrie Chowske:** Especially, like, let's specifically a business traveler who's traveling for a construction job or something.
+
+**Carrie Chowske:** And, or...
+
+**Carrie Chowske:** The travel planner that's trying to book all this, what's their real intent there?
+
+**Carrie Chowske:** And I think when you really hit that, too, that's helping.
+
+**Joel Murphy:** I've noticed that helping a lot with a lot of the LLM traffic.
+
+**Joel Murphy:** I can't remember if you guys don't have a structured FAQ schema, do you?
+
+**Carrie Chowske:** No.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** That's another thing I've seen a lot for specifically like ChatGPT, I think really, really, really favors the direct question answer kind of thing.
+
+**Carrie Chowske:** That's something, too, that we could help with a little bit.
+
+**Carrie Chowske:** But I think even just structuring your content in that way where you're questioning and answering, and that's a lot of what we've done.
+
+**Carrie Chowske:** I think the style and tone of the content we've created for Engine is that it is asking those questions and giving very direct answers to questions.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** If you guys could help at all with that schema markup, that'd be very helpful.
+
+**Joel Murphy:** That's another thing that keeps coming up is basically that.
+
+**Carrie Chowske:** It's kind of like the low-hanging fruit best practice sort of thing that everybody's kind of getting on.
+
+**Carrie Chowske:** It's like
+
+**Carrie Chowske:** And our workflows can add that FAQ, too.
+
+**Joel Murphy:** So it's not really heavy lift for us on our end once it's set up.
+
+**Joel Murphy:** Yeah, we do have FAQs on lots of pages.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** Yeah, if she'd get that done.
+
+**Carrie Chowske:** structure schema helps, yeah.
+
+**Carrie Chowske:** And then we've also noticed with the more structured, or not structured, the more specific industry content, like this flight crew housing, this was a recent article that we, I think, updated.
+
+**Carrie Chowske:** It was a refresh that we did, and it started seeing some more traffic and conversions, I think, even.
+
+**Carrie Chowske:** I'd have to look at that part again.
+
+**Carrie Chowske:** And in general, the industry content is kind of declining, but we're kind of operating a little more independently within industries.
+
+**Carrie Chowske:** I think if we kind of look at that a little more about finding some specific pain points that maybe exist across some of the industries that you're targeting, that maybe we can, like...
+
+**Joel Murphy:** I've got that stuff I can share.
+
+**Carrie Chowske:** I've
+
+**Carrie Chowske:** Yeah, because then I think we can make that a little more, like, a little closer to, like, a programmatic without going too programmatic, because then we can kind of, like, do some repeatable things but target those different queries and keywords.
+
+**Joel Murphy:** All right, I'll make a note to send you what I have.
+
+**Carrie Chowske:** Okay, awesome.
+
+**Carrie Chowske:** And then, yeah, noticing that the stuff where we're talking about, you know, more corporate sounding issues, even when it's just simple things like saying streamline and optimize, that that content is seeing less, you know, not just less traffic, but, you know, the conversions especially are getting killed by that.
+
+**Carrie Chowske:** So, again, showing us that, yes, the strategy we're taking is on the right track.
+
+**Carrie Chowske:** So, I think the answer here is to kind of continue fixing that as we're refreshing, making sure that we really focus on kind of redirecting it toward the audiences that you're really seeing that success with and hitting those specific pain points and thinking about, like, the challenges that those customers have, which you did give us that.
+
+**Carrie Chowske:** So, again, that document.
+
+**Carrie Chowske:** I think that document.
+
+**Carrie Chowske:** The that you had that you used for your peak queries, is that correct what it was for?
+
+**Carrie Chowske:** I'm to remember.
+
+**Carrie Chowske:** The one that you had it all highlighted in green and red.
+
+**Darrell Etherington:** That was the, oh, right, yeah, yeah, yeah, you're right, yep.
+
+**Carrie Chowske:** Yeah, so that'll help too.
+
+**Carrie Chowske:** We can kind of look at that to see what some of the things are that are getting talked about.
+
+**Carrie Chowske:** can use that to guide that and give it to our models to give us more specifics.
+
+**Carrie Chowske:** Keep working on, like, the how-to guides, that practical, like, financial content and things like that.
+
+**Carrie Chowske:** One suggestion that we had was, like, more of those bulk booking guides.
+
+**Carrie Chowske:** Like, we did a recent one that was about just general bulk booking.
+
+**Carrie Chowske:** But, like, we can tie that to specific industries, like I was saying.
+
+**Carrie Chowske:** Like, kind of specifically look at when you're booking for a large crew or a smaller crew.
+
+**Carrie Chowske:** Or, you know, how can we break that into littler chunks and kind of create this whole bubble of clustered content?
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** So, yeah, just more problem-solving, how-to kind of stuff.
+
+**Carrie Chowske:** I think we're on the right track there.
+
+**Carrie Chowske:** And then just making sure that we're targeting those industry problems in ways that are realistic, I think, is going to be our best bet on the things, the, you know, verticals that we're already moving in.
+
+**Carrie Chowske:** Yeah, so any questions on any of that?
+
+**Joel Murphy:** I think so.
+
+**Carrie Chowske:** Such the teacher in me to be like, any questions?
+
+**Carrie Chowske:** I can't get away from that.
+
+**Carrie Chowske:** I can't get away from it.
+
+**Carrie Chowske:** Okay, and then I think we started talking about this.
+
+**Carrie Chowske:** I didn't know if we wanted to talk more about the room blocks stuff.
+
+**Joel Murphy:** Yeah, I thought maybe it would be helpful, Cole, if you share the stuff that you've done already, just kind of general direction.
+
+**Joel Murphy:** Like, James covered kind of like the high-level idea of the whole thing last week, but, you know, it's happy for you to, like, share, you know, whatever your thoughts are.
+
+**Cole Parker:** So, for sure, this might be helpful if I just kind of walk through what I have kind of mocked up so far.
+
+**Cole Parker:** So, yeah.
+
+**Cole Parker:** The idea for something like this.
+
+**Carrie Chowske:** I'm staying in your slack, Cole.
+
+**Carrie Chowske:** But I do appreciate the Princess Bride gif.
+
+**Cole Parker:** That was pretty good.
+
+**Cole Parker:** Okay.
+
+**Cole Parker:** There we go.
+
+**Cole Parker:** Would be almost like an Airbnb-esque page where if you go to Airbnb, they have like stays, experiences.
+
+**Cole Parker:** They have like an app up there where you can basically do that and then you can start your search.
+
+**Cole Parker:** So currently on like our current, what I'll say, like group flows, like our pages are like this, right?
+
+**Cole Parker:** We have a forum up here where you can give detailed information with your event type, when, where, number of rooms.
+
+**Cole Parker:** And then when I click get started, it drops me into a shopping experience like this where I can figure out what types of hotels I need, which ones are the most of interest to me, as you can see on our nav, like I share a bunch
+
+**Cole Parker:** And like room types that I might need when someone basically completes their order, their request gets shot off to that hotel.
+
+**Cole Parker:** Right.
+
+**Cole Parker:** And our biggest driver right now is paid.
+
+**Cole Parker:** I really want us to get to a point where organic can be a driver.
+
+**Cole Parker:** And I think there's like a big opportunity for us to go after weddings and sports and even like a corporate side to of the easiest way to book room blocks in Chicago or, you know, like just taking angles like that.
+
+**Cole Parker:** And so the thought here would be we still provide them with the form here in the hero if they want to start a search like they normally do on our current page.
+
+**Cole Parker:** But we also surface some suggestions here based on a location.
+
+**Cole Parker:** can be based on their IP address.
+
+**Cole Parker:** can be based on what they're searching, you know, and we have social proof.
+
+**Cole Parker:** We have a how it works section.
+
+**Cole Parker:** But so it's basically trying to bring some of these listings front and center so that we can.
+
+**Cole Parker:** Have relevant search results for anyone that's searching for organically.
+
+**Darrell Etherington:** Great.
+
+**Darrell Etherington:** Yeah, I mean, so this looks not too dissimilar at all from, like, a lot of the programmatic engagements we do for customers whereby, like, you mentioned, like, customize, right, the easiest way to book roombox for sporting events or whatever, right, and based on the search intent or the vector end, like, it would serve the right page for that customer.
+
+**Cole Parker:** Some things that I would like to think about, we as a business are also working on, like, listing spaces, right?
+
+**Cole Parker:** So that could be potentially wedding venues, could be meeting spaces, conference rooms, you name it, like banquet halls.
+
+**Cole Parker:** So that's something that we would want to keep in the back of our mind, too.
+
+**Cole Parker:** Like, like, I go to, like, if I itsmeetings.com, they don't have a map, but, like, you could do a venue search, you could do room blocks, they, they,
+
+**Darrell Etherington:** Kind of couple it together.
+
+**Cole Parker:** Yeah.
+
+**Cole Parker:** I think I would like to think through something like that, potentially just further down the road.
+
+**Cole Parker:** And I think the things that matter the most to me here is, like, if they choose wedding, I want to make sure that all the content and the listings on the page.
+
+**Darrell Etherington:** cascades and changes.
+
+**Cole Parker:** Now, I don't know, like, if we surface, you know, this one says Hyatt Place, Denver, downtown.
+
+**Cole Parker:** If that were the top choice here and it's like a nice wedding image, they click on it.
+
+**Cole Parker:** But I don't know on the product side if we're able to match that same image quite easily.
+
+**Cole Parker:** And, you know, Joel and I aligned this week that we would like to prove out the marketing site first before we go to product and say, hey, update all these images for us and make sure it's consistent from marketing pages to the product pages.
+
+**Cole Parker:** So, yeah, those are some of my thoughts.
+
+**Cole Parker:** Any questions from you guys or Joel, anything that you'd add?
+
+**Joel Murphy:** Yeah, Cole, there any – I might have asked you this already, but still kind of a new guy question.
+
+**Joel Murphy:** Is there any limitation on how
+
+**Joel Murphy:** How we can talk about any of our hotel partners, like if we were creating content for specific listings, what are the guidelines?
+
+**Joel Murphy:** know we can't give price, but what are there other things we can't do?
+
+**Cole Parker:** So just an example here.
+
+**Cole Parker:** If I go, well, actually, it might show it here in the shopping.
+
+**Cole Parker:** We provide like an estimated group rate.
+
+**Cole Parker:** So it's not, that's just basically what we'd call like the best available rate bar, par, some people call it publicly available rate.
+
+**Cole Parker:** We're just pulling that straight from what exists online, and then we're giving it a little bit of a haircut discount, right?
+
+**Cole Parker:** So 128 is the normal nightly rate.
+
+**Cole Parker:** We've given it a little bit of a discount, and that's what we're serving up.
+
+**Cole Parker:** So it's estimated.
+
+**Cole Parker:** There was some heartburn to show that, but like it's not like it's a direct rate from one of our hotels where they're saying, Hey, engine, because you're a closed user group, here's this highly discount.
+
+**Cole Parker:** This is basically just an estimate from us.
+
+**Cole Parker:** So we can show estimated pricing, right?
+
+**Cole Parker:** Like that's accessible to everyone.
+
+**Cole Parker:** And I think we would be able to show that on these pages.
+
+**Cole Parker:** What I think we, where we would get in trouble is like if we have a bunch of hotel pages and we're ranking for it above the hotel, I think that's where we would get in trouble.
+
+**Cole Parker:** So like if we could stick to these pages where we're showing lots of hotels and it's for a geo or it's for a trip reason, you know, versus ranking for Hyatt Place Denver downtown, I think that's where we start to get in a little bit.
+
+**Carrie Chowske:** it might be really, I mean, I'm just thinking about from a standpoint of the end user, right?
+
+**Carrie Chowske:** And like what might be most useful.
+
+**Carrie Chowske:** when you mentioned the thing about Airbnb having those different like experience types and stuff and like I found some really cool stuff just using those, right?
+
+**Cole Parker:** Like just randomly like, oh, I want to stay in a tree house and like stuff like that, right?
+
+**Carrie Chowske:** So I'm thinking similarly, like maybe.
+
+**Carrie Chowske:** If you start with, you know, even just hotels that have like a public facing events or weddings page that might show images.
+
+**Carrie Chowske:** So you could immediately pull that, but also those tend to be the places that are popular for this kind of thing.
+
+**Carrie Chowske:** So it would be like a, you know, an easy way to prove it out, but also keep it focused on what people are looking for.
+
+**Carrie Chowske:** Do you know what sense?
+
+**Carrie Chowske:** For sure.
+
+**Carrie Chowske:** Like, you know, there's, there's certain places that are just like known for having, you know, really good either perks for the, the, the bridal party, or, you know, like you get so many free rooms for however many you're in your block or, you know, whatever, or it could be something like you get free vent, you know, venue space, if you get to a certain amount of rooms or whatever.
+
+**Carrie Chowske:** And, you know, like, I don't know, things like that.
+
+**Carrie Chowske:** And those, those, those kinds of hotels, especially the chains, I think tend to have, especially the larger ones, like the Hyatt place and stuff tend to have pages for.
+
+**Carrie Chowske:** And, and, and, and, and, and, and,
+
+**Carrie Chowske:** I have like a weddings subcategory where, I don't know, just the thought that I had while you were talking about that.
+
+**Joel Murphy:** So, Carrie, what do you guys need from us to start, you know, building out the artifacts and things that you guys need?
+
+**Darrell Etherington:** Well, so this would be, like, this would be a very different type of engagement versus like what we're doing for you now.
+
+**Darrell Etherington:** So, like, I would definitely recommend getting with Marcel and talking about this because he can probably, he can talk through it much more intelligently about like what kind of, scope it would require and then also probably get into prototyping and wireframing to show you kind of like a version of what we could do to produce even just a functional like MVP version of this, right, that you can then take away and be like, all right, is this what we were thinking will work?
+
+**Darrell Etherington:** Because it does look very much like a lot of the programmatic engagements we've done with clients in terms of the variables that you're talking about, Cole, like you could have that.
+
+**Darrell Etherington:** Better change to be, like, the easiest way to book event venues or room blocks or whatever.
+
+**Darrell Etherington:** So that's variable one.
+
+**Darrell Etherington:** And then variable two is for weddings or for bachelor parties or for whatever, right?
+
+**Darrell Etherington:** That's variable two.
+
+**Darrell Etherington:** And then, like, depending on those two variables changing, a cascade changes down the rest of the site, right?
+
+**Darrell Etherington:** So, like, that kind of thing.
+
+**Darrell Etherington:** But that would require bringing in Eng, and then Eng would be custom building some of these things for you.
+
+**Darrell Etherington:** Like, so that's what I recommend because he'll be able to ideate it.
+
+**Darrell Etherington:** And Kyle, step in here where you think about, like, oh, maybe Kyle had to jump.
+
+**Darrell Etherington:** But, yeah, he'd be the one to talk to you about this because he can very clearly show you where we've done something exactly like this from client because it's very different from kind of the editorial type engagement that we're doing with you right now.
+
+**Darrell Etherington:** But also something totally within our capacity and capability.
+
+**Darrell Etherington:** Is that something we need to book separately or is that – can he join, you know, next week's call and talk about that or what's the right?
+
+**Darrell Etherington:** It'll just depend on his availability.
+
+**Darrell Etherington:** But I'll message him right after this call to see what he can do.
+
+**Darrell Etherington:** First, I'll suggest if you can just join in on the sync.
+
+**Darrell Etherington:** And then otherwise, maybe we'll have to book something separately.
+
+**Carrie Chowske:** And for planning purposes, just if you're trying to see where you're at in it and when you would want to maybe pull us in, it's going to be roughly kind of the same types of information they needed during Sprint about who you're targeting and those sorts of things to be able to build out the first content.
+
+**Carrie Chowske:** And just the, usually, if it's not, if, you know, since you probably have a little more technical, it sounds like maybe you have a little more technical support too, on your end, usually we can stand it up a little faster.
+
+**Carrie Chowske:** It certainly seems that way to me.
+
+**Carrie Chowske:** But just speaking from having onboarded a PSEO client, like it is the same kind of stuff for building the artifacts.
+
+**Carrie Chowske:** Like you definitely need the ICP, you because you're going to have a totally different ICP than your, than the core product.
+
+**Carrie Chowske:** And we want to make sure getting that right will make a big difference in the quality of the output.
+
+**Carrie Chowske:** And then you kind of.
+
+**Carrie Chowske:** Once you get a really good quality output from our team, then it really gets much easier to replicate and kind of iterate on it from there.
+
+**Carrie Chowske:** So it's really all about getting to that first calibrated, you know, couple of pages and getting that all done.
+
+**Carrie Chowske:** So it works very similarly to like, you know, a dev on even an internal dev process, but with the added, like adding those artifacts for the actual content.
+
+**Darrell Etherington:** Yeah, because the difference there is like, this is where there is similarity with the editorial.
+
+**Darrell Etherington:** Like the programmatic with us in like a generative API process, like has some actual, like substantive content in the body versus like, if you were doing this, because we used to do this kind of thing for like landing pages at Shopify too, but using traditional like ML based approaches.
+
+**Darrell Etherington:** And then you're not as apt to rank for those things because everything is like pretty cookie cutter with like, just like individual words replaced, like on a totally algorithmic basis.
+
+**Darrell Etherington:** Whereas like, like we do the programmatic SEO engagements.
+
+**Darrell Etherington:** We.
+
+**Darrell Etherington:** Change some of the body copy to be, like, much more specific and targeted at the user identity who's coming in the front door, right?
+
+**Darrell Etherington:** So they tend to rank better and be more effective that way.
+
+**Joel Murphy:** Cool.
+
+**Joel Murphy:** All right.
+
+**Joel Murphy:** Well, keep me posted on Marcel's availability.
+
+**Joel Murphy:** And, you Cole and I can take away kind of the ICP stuff.
+
+**Joel Murphy:** Cole probably already has that stuff anyway, but we'll share that with you guys.
+
+**Joel Murphy:** Okay.
+
+**Darrell Etherington:** Sounds great.
+
+**Joel Murphy:** Cool.
+
+**Darrell Etherington:** I appreciate it.
+
+**Darrell Etherington:** Yeah, thanks a lot.
+
+**Carrie Chowske:** Looks exciting.
+
+**Carrie Chowske:** Yeah, I'm excited.
+
+**Carrie Chowske:** I really, I really want to work on it.
+
+**Darrell Etherington:** So I'm going to, yeah, I'm a horrible business person.
+
+**Carrie Chowske:** I'll just do this for free.
+
+**Darrell Etherington:** it on me, Gil.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** All right.
+
+**Darrell Etherington:** Thank you, guys.
+
+**Joel Murphy:** Take care.
+
+**Carrie Chowske:** All right.
+
+**Carrie Chowske:** Bye.

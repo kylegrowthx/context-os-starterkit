@@ -1,0 +1,1383 @@
+# Hex <> GrowthX - Kick Off
+
+<metadata>
+date: 2025-10-27
+time: 21:01 UTC
+duration: 61 minutes
+organizer: Erik O'Brien
+participants: Erik O'Brien, George Haikal, Marcel Santilli, Jessica Schimm, Ashley Stepien, Peter Ryan, Lawrence Dann-Fenwick, Bryanna Clancy
+fathom_recording_id: 97128266
+fathom_url: https://fathom.video/calls/452484997
+share_url: https://fathom.video/share/ue7PtsWEAezAUVxsUaMoJz6bYzFj-1zP
+source: fathom
+enriched_on: 2026-03-02 14:32 UTC
+speaker_note: Lawrence Dann-Fenwick and Bryanna Clancy were calendar invitees but did not speak on the recording. Only five people spoke: Jessica Schimm, Ashley Stepien, Peter Ryan (Hex), and George Haikal, Erik O'Brien (GrowthX).
+</metadata>
+
+---
+
+## Summary
+
+Hex and GrowthX aligned on a major content strategy pivot: shifting from expensive paid social lead generation to organic growth through content and SEO. The core challenge is overcoming outdated market perception of Hex as a niche tool for data scientists, despite the September 2025 AI launch making the platform accessible to business users and mid-market companies. GrowthX will develop detailed brand voice and style guidelines, create content personas and company context, and establish a weekly sync cadence to execute the strategy while meeting Hex's high bar for technical precision, authenticity, and digestible short-form content. Peter Ryan (Hex) will grant GrowthX access to GA4, Google Search Console, Contentful, and internal docs; Erik O'Brien will deliver initial artifacts by end of week.
+
+---
+
+## Context
+
+This is the kickoff meeting between Hex, an AI-powered analytics platform, and GrowthX, a B2B content marketing agency. Hex is looking to shift its go-to-market strategy away from expensive paid social campaigns and build organic growth through content. The team at Hex (led by Ashley Stepien in marketing, Peter Ryan in growth marketing, and Jessica Schimm in content) brought GrowthX in to lead a content strategy and production partnership. GrowthX's account strategist Erik O'Brien and chief of staff George Haikal ran the discovery call to understand Hex's product, market positioning, content voice, and operational constraints. George had designed Hex's eight-week accelerated onboarding process three months prior to ensure all new GrowthX accounts launched successfully.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Hex has a detailed voice and tone framework already in place (warm, approachable, spiky point of view, authentic, non-jargon). Content quality is a key bottleneck due to the CEO's high bar for precision and elegance. GrowthX will need to develop detailed brand and style guidelines, work closely with subject matter experts, and establish a review workflow. The strategy emphasizes digestible posts (short-form, under 1,200 words), thematic consistency (kernel, AI, accessibility, agnostic data sources), and technical depth without jargon.
+
+- **To CheckThat:** Hex's AI capabilities and the "kernel" concept (native, deep AI integration enabling analytics on unstructured data) are core differentiators. Content opportunities exist around AI evals (one of Hex's best-performing pieces), "Shadow AI" (managing ChatGPT/Claude use by business users), and AI-driven decision-making. Hex's Q4 priority is linking content and closed deals—a clear measurement gap that ties to AEO visibility and attribution modeling.
+
+- **To GrowthX Business Development:** Hex launched AI functionality in September 2025, shifting the entire product positioning from "data science tool" to "accessible AI analytics for mid-market." This is a significant product evolution and major account expansion opportunity. Hex's PLG model, product-led growth strength post-onboarding, and aggressive growth targets (wants content to drive 3x faster growth) suggest strong expansion and retention potential. Weekly syncs and close collaboration are expected. The quality bar and internal bottlenecks suggest potential for scope expansion or additional resources down the road.
+
+---
+
+## Overview
+
+- **Goal:** Build an organic content flywheel to replace expensive paid social lead gen and establish Hex as the leader in AI-powered data analytics.
+- **Challenge:** Overcome the market perception of Hex as a niche tool for data scientists, a view now outdated by the September AI launch that made the platform accessible to business users.
+- **Core Differentiator:** Native, deep AI integration (a "kernel") that enables advanced analytics on unstructured data, unlike competitors who bolt on limited, external LLMs.
+- **Content Strategy:** Use authentic, digestible, and technically precise content to reintroduce Hex to the market and drive adoption via its Product-Led Growth (PLG) model.
+
+---
+
+## Key Topics
+
+### The Challenge: Inefficient Acquisition & Outdated Perception
+
+  - **Primary Driver:** Reduce reliance on expensive paid social campaigns for lead capture.
+  - **Market Perception:** The market views Hex as a highly technical tool for data scientists.
+      - This perception is now outdated after the September AI launch made the platform accessible to business users.
+      - **Goal:** Reintroduce Hex to the market as the leader in AI-powered data analytics.
+  - **Internal Bottlenecks:**
+      - **Quality Control:** The high bar for technical precision and authentic voice creates a publishing bottleneck.
+      - **Attribution:** No clear link between content and closed-won deals; this is a Q4 priority for Hex.
+
+### The Solution: Hex's Unique Value Proposition
+
+  - **ICP:** Mid-market companies (200–1,000 employees) with a data leader and a team of 2–50 data professionals.
+  - **Core Pain Point:** Fractured data workflows across siloed tools (e.g., notebooks, BI dashboards) that cause lost insights and slow decision-making.
+  - **Hex's Value:**
+      - **Unified Platform:** Consolidates the entire data workflow into one environment.
+      - **Native AI Integration:** A deep, native "kernel" enables advanced analytics on unstructured data.
+          - **Contrast:** Competitors bolt on external LLMs (e.g., Omni + ChatGPT) with limited access and security concerns.
+      - **Accessibility:** AI makes advanced analytics accessible to business users via natural language, eliminating the technical barrier.
+      - **Agnostic:** Works with any data source (Snowflake, Databricks, etc.) to prevent vendor lock-in.
+      - **PLG Model:** A self-serve experience is a key differentiator, attracting upmarket customers (e.g., Netflix) who prefer to "test drive" the product.
+
+### The Strategy: Content to Drive Adoption
+
+  - **Voice & Tone:** Authentic, warm, and approachable ("talking *with* the audience"), with a "spiky point of view" to build trust.
+  - **Format:** Digestible posts that earn their argument with a single, clear perspective.
+  - **Key Content Themes:**
+      - **Technical Depth:** Posts on topics like "evals" (AI model evaluations) resonate with technical buyers.
+      - **"Shadow AI":** Frame Hex as the solution for data teams to manage the inevitable use of external AI tools (e.g., ChatGPT, Claude) by business users.
+      - **Onboarding:** Create content to smooth the initial setup process, which can be a point of friction.
+
+---
+
+## Action Items
+
+**Erik O'Brien (GrowthX)**
+- Draft 'What We Heard Kickoff' summary; share with Hex
+
+**Peter Ryan (Hex)**
+- Grant GrowthX access: GA4, Google Search Console, Contentful, internal docs (email: team@growthxlabs.com)
+
+**GrowthX (unassigned owner)**
+- Schedule weekly sync with Peter Ryan and broader Hex team
+
+---
+
+## Transcript
+**Ashley Stepien:** Hello.
+
+**George Haikal:** How are you?
+
+**Ashley Stepien:** Good, thank you.
+
+**George Haikal:** What, um, where are you at?
+
+**George Haikal:** What time is it over by y'all?
+
+**George Haikal:** 2 p.m.
+
+**Ashley Stepien:** well?
+
+**Ashley Stepien:** Yeah, 2 p.m.
+
+**George Haikal:** Nice, nice.
+
+**George Haikal:** That, uh, either before or after the afternoon energy slump, I don't know what it is for you.
+
+**Ashley Stepien:** Mine's about 3, so I'm not totally a disaster yet, but any minute.
+
+**George Haikal:** It's coming, any minute.
+
+**Ashley Stepien:** Yeah.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** I see 3 said yes on the invite.
+
+**George Haikal:** I'm assuming this is a 3 we have for the day.
+
+**Ashley Stepien:** Amazing.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** Great to meet you all.
+
+**George Haikal:** We're super excited for this.
+
+**George Haikal:** We've talked, um, we're able to catch up with sales and, um, um, have done a ton of research so far, so we're really excited to kick, uh, this off, get to know you all and see where we can.
+
+**George Haikal:** Thank
+
+**George Haikal:** Last help.
+
+**George Haikal:** If it's all right with you all, just to quickly set context for Erik and I, if we could do really quick intros from you all, and then we're going to go ahead and dive in from there.
+
+**Ashley Stepien:** Great.
+
+**Ashley Stepien:** I'm Ashley.
+
+**Ashley Stepien:** I lead the marketing team.
+
+**Ashley Stepien:** I probably won't be involved as much in the day-to-day, but wanted to be here to make sure we at least give you what you need in the beginning.
+
+**Ashley Stepien:** And I'll popcorn it to Pete.
+
+**Peter Ryan:** Yes.
+
+**Peter Ryan:** I'm Pete.
+
+**Peter Ryan:** I will be your main point of contact, trying to get you all set up for success and keep us moving.
+
+**Peter Ryan:** I run our growth marketing.
+
+**George Haikal:** Amazing.
+
+**Peter Ryan:** And Jeff to take us home.
+
+**Jessica Schimm:** I'm Jeff.
+
+**Jessica Schimm:** I do content here at Hex, and we'll probably help you all set up with brand, voice, and tone guidelines, copy, edit, structure, help keep everything.
+
+**Jessica Schimm:** Getting flow in and getting live on Contentful and whatever else y'all need from a content production perspective.
+
+**George Haikal:** Love that.
+
+**George Haikal:** Thank you.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** And then on our end, my name is Erik O'Brien.
+
+**Erik O'Brien:** I'm an account strategist here at GrowthX.
+
+**Erik O'Brien:** So really working with new accounts as they get up and running with GrowthX.
+
+**Erik O'Brien:** So you'll see a lot of me over the next couple of weeks as we get kind of all the context gathered and set you guys up with artifacts and introduce you to the editorial team.
+
+**Erik O'Brien:** So great to meet you guys.
+
+**George Haikal:** Yep.
+
+**George Haikal:** I'll be very quick.
+
+**George Haikal:** I'm George.
+
+**George Haikal:** I'm the chief of staff here.
+
+**George Haikal:** So I help with a few different areas of the business.
+
+**George Haikal:** But this process was like our baby.
+
+**George Haikal:** started it three months ago.
+
+**George Haikal:** The strategy sprint, eight-week accelerated onboarding to make sure clients and our own team were set up for success because every account is so different.
+
+**George Haikal:** And so I think we're like a 42nd client now coming through this process.
+
+**George Haikal:** So really excited to dive in deep.
+
+**George Haikal:** And to talk how we're we're we're we're we're going to talk
+
+**George Haikal:** Jump into the discovery meeting here, which is the first session of a number of them if we kind of identify some gaps in our knowledge of like the business, the brand, the guidelines, all of that.
+
+**George Haikal:** So we'll do our work here in this meeting to ask you all these broad questions to really understand like how you talk about the business, the customers that you serve, how you want to be perceived, messaging, those things.
+
+**George Haikal:** And then treat this as like the first touch point.
+
+**George Haikal:** And then our team will go in and we'll do all our research.
+
+**George Haikal:** We'll ingest anything you throw over the fence to us in terms of documentation.
+
+**George Haikal:** And we'll schedule product deep dives or anything necessary to come in and get more expertise from you all.
+
+**George Haikal:** That was a lot, but we can probably just jump into it and kind of start running through the questions.
+
+**Erik O'Brien:** Kate.
+
+**Erik O'Brien:** Absolutely.
+
+**George Haikal:** Excited.
+
+**Erik O'Brien:** So I just shared a link to our collaboration space.
+
+**Erik O'Brien:** Hopefully you guys have access already, but if not, just drop your email in the chat and we'll get you added.
+
+**Erik O'Brien:** So this is where most of updates will happen.
+
+**Erik O'Brien:** We'll have performance reports once we actually get content live and indexed and be able to report on it.
+
+**Erik O'Brien:** All of our meetings that we have will be in here, so today's kickoff.
+
+**Erik O'Brien:** These include both any notes we take plus a recording link in case anybody misses.
+
+**Erik O'Brien:** And then we have our doc section.
+
+**Erik O'Brien:** So this will be where a lot of things that we ask you guys to review and approve will be.
+
+**Erik O'Brien:** So our artifacts that I think you guys may have been told about, but that's, you know, big pieces of, like, audience and personas, writing guidelines and company context.
+
+**Erik O'Brien:** All of those are kind of core to our content generation platform.
+
+**Erik O'Brien:** So everything will be in here for you guys' review once it's ready.
+
+**Erik O'Brien:** But for today, we will jump straight into our questions.
+
+**Erik O'Brien:** And again, these are broad by design, really just to kind of get you guys talking and kind of hear.
+
+**Erik O'Brien:** From your own words, what the answers are here.
+
+**Erik O'Brien:** We did have, like George said, some context and handover docs from sales.
+
+**Erik O'Brien:** So most likely we do know some of the context here, but it would be better just to get it straight from you guys.
+
+**Erik O'Brien:** So our first question that we always start with is what's driving this engagement now?
+
+**Peter Ryan:** So kind of why growthx and why content?
+
+**Peter Ryan:** Yeah, I can get my POV and see what the rest of the team has to say.
+
+**Peter Ryan:** I view the biggest need here as looking for additional distribution for our content.
+
+**Peter Ryan:** Right now we're heavily reliant on paid distribution, like gated content on paid social.
+
+**Peter Ryan:** And aside from just wanting an organic off-ramp to that hamster wheel, I think we're feeling behind.
+
+**Peter Ryan:** I think a lot of people probably are, but we're feeling behind specifically related to like AEO, AI search optimization.
+
+**Peter Ryan:** Are we in the right place there?
+
+**Peter Ryan:** Yeah.
+
+**Peter Ryan:** Yeah.
+
+**Peter Ryan:** And then maybe tertiary, I would say, is our product and platform has evolved quite a bit in the last, you know, six, you know, not even, probably three months.
+
+**Peter Ryan:** And I think this was a good time to bring on, like, a thought partner to help us think through, like, hey, where do we need to be growing towards for three months from now, six months from now, 12 months from now, so that this content is, you know, still appealing to our audience and driving the right organic traffic and results as we continue to evolve as a platform.
+
+**Ashley Stepien:** Ashley or Jessica, anything to add there?
+
+**Ashley Stepien:** That sums it up.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** And you mentioned doing a lot of paid search.
+
+**Erik O'Brien:** Rich, can you just tell me a little bit, is that going well, not going well?
+
+**Peter Ryan:** I feel like you're doing too much paid.
+
+**Peter Ryan:** Yeah, actually, I may have misspoke.
+
+**Peter Ryan:** Paid social is our predominant paid spending.
+
+**Peter Ryan:** And it's a lot of just, like, very expensive lead capture, frankly.
+
+**Peter Ryan:** That's not universally true, but we're doing a lot of, like, gated content to drive consistent leads, which are just very expensive.
+
+**Peter Ryan:** And we want to be scaling an organic flywheel that can take off some of that pressure and just, you know, be more efficient in long run for us.
+
+**Erik O'Brien:** Yeah, makes total sense.
+
+**Erik O'Brien:** Then how would you describe ideal customers today?
+
+**Erik O'Brien:** I think I've read some of the notes that it's bit tricky to nail down, you know, ideal customer or personas, but if you guys were kind of forced to kind of nail that down, what would you say ideal customers are today?
+
+**Peter Ryan:** Yeah, maybe start specific and then caveat my way out of there.
+
+**Peter Ryan:** I think at mid-market, so we would say like a 200 to maybe all the way up to 1,000 person company.
+
+**Peter Ryan:** They have a data leader.
+
+**Peter Ryan:** That data leader has a team of anywhere between, you know, let's call it two and 50 data professionals working on the team.
+
+**Peter Ryan:** And they are working on, they own like core data work, data foundations, and the data platform, as well as supporting business stakeholders.
+
+**Peter Ryan:** Yeah.
+
+**Peter Ryan:** That's probably like the most core kernel of an ICP.
+
+**Peter Ryan:** Data is one of those orgs that can be structured and placed pretty differently depending on, you know, we also see data teams that are like sitting within product or within marketing or within other areas.
+
+**Peter Ryan:** And that can definitely still work for us as well.
+
+**Peter Ryan:** We do have enterprise customers.
+
+**Peter Ryan:** That's probably not our sweet spot, but we do have some success selling there.
+
+**Peter Ryan:** And typically that's through one department.
+
+**George Haikal:** And then maybe.
+
+**George Haikal:** Scale from there.
+
+**Peter Ryan:** On the other side of the spectrum, we do have a long tail of smaller, whether either startups or consultancies, or just, we do see some students, that's not our focus, but we do have like a self-serve motion, so like smaller orgs can come in and use the tool for their own, either project, or like if they have any clients, they may use for that.
+
+**George Haikal:** Help me understand what problems or value props like you're solving for, I guess, the data, like for this ICP.
+
+**George Haikal:** I know ICP specific, and the reason we ask, like these questions seem pretty trivial, like at the highest level, but everything that we do on the content side is audience first, meaning we want to create the answers to all the questions your highest intent or most important audience.
+
+**George Haikal:** is going to have, and so that's why we love drilling really deep on the customer and understanding like what is Hex, like allowing them to do and what
+
+**George Haikal:** What progress are they trying to make before they switch and then what does it help enable them to do it after they switch?
+
+**George Haikal:** So that's why we're asking some of these.
+
+**Peter Ryan:** Yes.
+
+**Peter Ryan:** I, how do I want to attack this?
+
+**Peter Ryan:** Okay.
+
+**Peter Ryan:** There's workflow panes for sure.
+
+**Peter Ryan:** Like, let's start with there, especially for the data people.
+
+**Peter Ryan:** So, we typically see data teams are, like, plagued by really fractured siloed tooling.
+
+**Peter Ryan:** So they use, like, a data science notebook for working there.
+
+**Peter Ryan:** They probably upstream of that already had to do some data engineering work, either right in your Snowflake or Databricks or DBT.
+
+**Peter Ryan:** Then you're getting into, like, dashboarding tools, if I want to build in Tableau for our team to use.
+
+**Peter Ryan:** Then there's this whole suite of new tools coming out to help business teams, like, ourselves, marketers, to, like, self-serve some of their answers.
+
+**Peter Ryan:** And increasingly, those are taking the forms of, you know, data apps have been around for a little while, but now it's like, oh, chat with your data.
+
+**George Haikal:** You know, you're saying.
+
+**Peter Ryan:** So there's just more tools, more tools, more tools, Hex's point of view is that this needs to be consolidated, like that's too painful, too many insights get lost, too many like, you know, researches from your data team, like never find their way into the people that can make decisions.
+
+**Peter Ryan:** So that like siloed tooling is like a pretty foundational from Hex, from the jump, that's a pain that Hex is built to solve.
+
+**Peter Ryan:** In terms of value, this is where there's a lot of different directions you can go, because depending on the business team that Data is supporting, are you making smarter, better, faster product decisions?
+
+**Peter Ryan:** Are you moving quicker with more clarity in your marketing and go-to-market decisions?
+
+**Peter Ryan:** Is your finance team, so on and so forth?
+
+**Peter Ryan:** So there is like a second stakeholder to get us to that like ROI moment in most cases.
+
+**Peter Ryan:** And we see that as like blessing and a curse, like platform is sober, so it can do all these things.
+
+**Peter Ryan:** This curse being, which one of these things do we want to go, like, say over and over and over, you know, for a very, like, clear marketing, one-liner.
+
+**Peter Ryan:** And then a third area, so, like, there's that pain, you know, these are, I think most people do buy-in to some degree that better data work equals better decisions equals ROI.
+
+**Peter Ryan:** So, like, that middle one, while there's a lot of directions we can go, I think people generally have buy-in that your data is valuable and used appropriately.
+
+**Peter Ryan:** And then the third one increasingly is, okay, and I don't, I don't know that, I think we're positioned to solve it.
+
+**Peter Ryan:** don't know that anyone could claim this mantle yet, but it's, like, how does, how should data as a practice be thinking about, like, AI platforms and AI tools?
+
+**Peter Ryan:** Like, we're seeing that disruption to other disciplines, like, but data is sort of a different, a different type of discipline than others.
+
+**Peter Ryan:** There's a, there's a tastemaker element, like, you can make numbers say almost whatever you want.
+
+**Peter Ryan:** Like, are you getting to the right decisions?
+
+**Peter Ryan:** Are you helping your...
+
+**Peter Ryan:** Business stakeholders get to those best decisions as quickly as possible with trust, and the trust is a pretty key word in there, with trust in the results they're getting.
+
+**Peter Ryan:** And I think we view Hacks as well positioned and thinking through that problem the right way.
+
+**Peter Ryan:** And that's like an opportunity that we would see us to be like a leader for brands that are really trying to figure out, hey, my CEO thinks we need some AI workflows for our data team.
+
+**Peter Ryan:** Like, where do we even start?
+
+**Peter Ryan:** How'd I do, Jess, and Ashley?
+
+**Ashley Stepien:** I mean, good.
+
+**Ashley Stepien:** I would, like, put a lot of emphasis on the AI piece for us.
+
+**Ashley Stepien:** Yep.
+
+**Ashley Stepien:** And you might get to this, like, later in the doc, but, like, comparatively, we might compete with, like, the likes of a Tableau or a Looker or an Omni, or more specifically, or more
+
+**Ashley Stepien:** If you're familiar with them, but we have like a pretty unique point of view on those things in that we're configured differently.
+
+**Ashley Stepien:** We were always designed for advanced analytics, whereas a lot of those tools are for more kind of basic and vanity metrics.
+
+**Ashley Stepien:** You can go really deep on the data science piece with us.
+
+**Ashley Stepien:** And for a while, that was actually very intimidating, and it made our entry point into companies kind of confusing because we were fairly technical.
+
+**George Haikal:** We were truly for data scientists, and so there would be a lot of worlds where we would coexist with like a Looker or a Tableau.
+
+**Ashley Stepien:** But since we were kind of the first to market with integrating AI into our functionality, now we've sort of eliminated that technical bar you had to meet in order to be able to use our tool.
+
+**Ashley Stepien:** example, So, So, Thank
+
+**Ashley Stepien:** And you can, I mean, truly anybody now can log into Hex and get the answers you need, and they're dynamic, and you can go deeper, whereas with those other tools, you're going to get a dashboard.
+
+**Ashley Stepien:** And if you're lucky, maybe you can drill down on that dashboard, but in all likelihood, a business user is probably going to run into a wall pretty quickly with being able to access the data or ask additional questions of a static dashboard, like Looker or Tableau or Omni might give you.
+
+**Ashley Stepien:** Whereas with our functionality, you can actually just have a conversation with it.
+
+**Ashley Stepien:** And because it's built on deep analytics, now you can, you know, a dum-dum like me, who's in charge of marketing, can get to the level of analysis that maybe a data scientist was getting to just by having a conversation with the tool.
+
+**Ashley Stepien:** So it's really kind of eliminated a lot of barriers that existed for traditional BI, where a business user was sort of like stuck with this static dashboard.
+
+**Ashley Stepien:** And you needed your data team to go build.
+
+**Ashley Stepien:** all these things for you.
+
+**Ashley Stepien:** Now we've really kind of empowered both sides of the house, the data team and the business user to go as deep as they want to go.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** Jess, did you have something?
+
+**Jessica Schimm:** Yeah, there's just one more angle I thought I would surface, and I think it's touched on briefly here, but to that bullet point of what Pete was saying of, are you making smarter, better, faster decisions?
+
+**Jessica Schimm:** And seeing the ROI, the data team not only needs to set themselves up for speed and efficiency in the workflow, which is the workflow pain point that Pete talked about, but also enable their stakeholders to get answers that the stakeholders feel that they can trust.
+
+**Jessica Schimm:** So we really talked about that being self-serve.
+
+**Jessica Schimm:** I'm not sure that we want to lead with that, but another large pain for our data teams is enabling the rest of their organization and that's...
+
+**Jessica Schimm:** It's also a big through line that we are talking about in how to set up AI to be successful for the rest of the org so that when the product team starts asking Hex AI questions that they're going to get back answers where the data is within the mark of accuracy that it needs to be.
+
+**Jessica Schimm:** So, yeah, just kind of calling out that data team set up for stakeholders across the org.
+
+**George Haikal:** That's super helpful.
+
+**George Haikal:** I'm just curious, where are you, and I've played around with a bit, and some of our clients use Hex too, so it's always fun when we're able to jump in and play around with our own tools and then Hex on behalf of our clients.
+
+**George Haikal:** But where are you losing to competitors, right?
+
+**George Haikal:** Like when you're losing a deal, is it more of the do nothing or they're sticking with one of these other tools or help me understand that a little bit more?
+
+**Ashley Stepien:** Uh, before
+
+**Ashley Stepien:** For our AI functionality that really came out in like September, it would just be like that technical argument that like, you know, the average bear couldn't get too far in the tool because it was just intimidating in terms of like writing code and, you know, getting there.
+
+**Ashley Stepien:** It wasn't the usual visuals that people were accustomed to.
+
+**Ashley Stepien:** But then you might look at like a Rivian who saw right through that and realized like actually they were getting like far more powerful analytics.
+
+**Ashley Stepien:** And so they were willing to kind of look past the lacking maybe like visuals or business user friendliness to get more information.
+
+**Ashley Stepien:** And they just expected their org to be more technical.
+
+**Ashley Stepien:** Since we've launched in September, I would say like it's significantly shifted the conversation to either people who are like, we're not ready for AI.
+
+**Ashley Stepien:** Or, like, we don't trust that our data is ready for AI.
+
+**Ashley Stepien:** So, like, maybe laggard AI adopters are the only people that we're really seeing walk away right now.
+
+**Ashley Stepien:** It's been, like, in the last six weeks, just, like, game changer.
+
+**George Haikal:** That's awesome.
+
+**George Haikal:** That's awesome.
+
+**George Haikal:** The laggards will come over eventually.
+
+**Ashley Stepien:** That's the hypothesis.
+
+**Ashley Stepien:** It's really, like, kind of a matter of, like, how long can we maintain our lead with, like, how advanced our technology is.
+
+**Ashley Stepien:** And our tools built really differently compared to the other tools out there that more so, like, sit as a layer.
+
+**Ashley Stepien:** Like, we can get you, like, some of the technical elements to it.
+
+**Ashley Stepien:** But we have this concept of a kernel that none of the other tools are built on.
+
+**Ashley Stepien:** And because we have this concept of a kernel.
+
+**Ashley Stepien:** We can just simply access so much more data and make sense of it compared to like a Looker, an Omni, or, you know, a Tableau that really need that data to be like super structured.
+
+**Erik O'Brien:** Yeah, let's go back up to this.
+
+**Erik O'Brien:** So, not your biggest, but if we were to interview three best customers, what would they say Hex is uniquely good at?
+
+**Ashley Stepien:** Kind of trying to pull on that like kernel thread there.
+
+**Ashley Stepien:** Yeah.
+
+**Ashley Stepien:** I mean, I think without question, the deepest possible analysis that you can do with an analytics tool.
+
+**Ashley Stepien:** Like, we are considered the most advanced analytics tool out there.
+
+**Ashley Stepien:** That's probably like number one.
+
+**Ashley Stepien:** Number two might be that, I'd say kind of funny because it's probably changed in the last few weeks.
+
+**Ashley Stepien:** I guess now they're saying AI.
+
+**Ashley Stepien:** Are you familiar with the concept of a notebook?
+
+**Ashley Stepien:** Yep.
+
+**Ashley Stepien:** Yeah, so historically with building a notebook, that's a coding exercise.
+
+**Ashley Stepien:** You're either writing in Python or SQL.
+
+**Ashley Stepien:** We don't care what language you write in.
+
+**Ashley Stepien:** You can write in any language.
+
+**Ashley Stepien:** But now also with AI, you don't have to code at all.
+
+**Ashley Stepien:** You can build a notebook just purely by having a conversation with the notebook agent.
+
+**Ashley Stepien:** So whereas notebooks were this incredibly technical function, now that's kind of eliminated.
+
+**Ashley Stepien:** So that would probably be the next one.
+
+**Ashley Stepien:** And third...
+
+**Ashley Stepien:** Third...
+
+**Ashley Stepien:** Third would be we're agnostic.
+
+**Ashley Stepien:** I wouldn't say that's like a huge unique differentiator, but we're very passionate about being agnostic to what your data source is.
+
+**Ashley Stepien:** So whether it's Snowflake or Databricks or, you know, anything else under the sun, we will work with whatever data source you're working with.
+
+**Ashley Stepien:** You won't get locked in.
+
+**Ashley Stepien:** And what do you think, Jess, Peter?
+
+**Ashley Stepien:** Did I, would you say those are the three things?
+
+**Peter Ryan:** I guess the only thing for the notebook that I would add is even some of the laggards, but that, mean, like the data purists, those that are in the product and use it, like, yeah, they may not use the agent as much to do their own coding.
+
+**Peter Ryan:** may still do their own coding.
+
+**Peter Ryan:** Just the ability to go from, like, I can write some Python.
+
+**Peter Ryan:** I can, in the very next cell, write my SQL.
+
+**Peter Ryan:** In the very next cell, I can create a visual.
+
+**Peter Ryan:** In the very next cell, I can write some more Python.
+
+**Peter Ryan:** And it's just one place.
+
+**Peter Ryan:** Love from.
+
+**Peter Ryan:** Speaking of agnostic, that through any modality, you can enter and use the product.
+
+**Peter Ryan:** If you know these languages, you can use it.
+
+**Peter Ryan:** If you know this language, now in plain language with AI, you can use it.
+
+**Peter Ryan:** I'd almost view that as just one more entry point that we want to make it easy for people to use.
+
+**Peter Ryan:** Drag and drop, write Python, write SQL, whatever it is.
+
+**Peter Ryan:** And that has historically been true in Hex, sort of from the jump, that ability to switch between languages without leaving.
+
+**Jessica Schimm:** Another thing I would add is that you don't need all of your data to be modeled to work with it in Hex.
+
+**Jessica Schimm:** And that would be in comparison to Looker, where it needs to be put through LookML, and as Ashley said, like, extremely structured.
+
+**Jessica Schimm:** So you can just hop into Hex and just start working with data.
+
+**Jessica Schimm:** Yeah.
+
+**Jessica Schimm:** Um, without having to do just a huge modeling process beforehand.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** Really helpful.
+
+**George Haikal:** Do you all feel like all of these value props that you're mentioning to me, like, do you feel like Hex is being perceived correctly right now externally?
+
+**Ashley Stepien:** No.
+
+**Ashley Stepien:** Um, it's not for lack of trying, it's just this new, like, kind of AI generation now that Hex has entered into, like, we have a lot of, um, preconceived notions we're going to have to fight against now.
+
+**Ashley Stepien:** Whereas, uh, literally I was at a dinner with the CMO of Omni, and he was like, oh, but you guys are just for data scientists.
+
+**Ashley Stepien:** And it's like, it's just, like, not the case anymore.
+
+**George Haikal:** Um.
+
+**Ashley Stepien:** And so we have an uphill battle to go reintroduce ourselves as no longer just a technical data scientist tool.
+
+**Peter Ryan:** Yeah, and whether we push it or we ride the wave, maybe a little bit above, that the notion of a data scientist versus data analyst versus data engineer versus analytics, whatever, versus BI, it's like the notion of those being distinct roles is rapidly changing.
+
+**Peter Ryan:** And a tool like Hex is only going to expedite that change.
+
+**Peter Ryan:** A data scientist needs to also be able to share and visualize their results.
+
+**George Haikal:** A BI person, they need to understand how the data is getting there.
+
+**Peter Ryan:** it clean at all?
+
+**Peter Ryan:** So the notion of data work and data specialties is also changing how Hex is a type of tool that should make that easier and better versus having these very siloed specialists that are like, almost, they almost exist because they're locked into like, you do the
+
+**Peter Ryan:** You do the BI visualization, you do some of the piping in between.
+
+**Peter Ryan:** It's like, okay, well, that's really inefficient and dumb.
+
+**Peter Ryan:** So, like, whether we lead that charge, like, hey, this is how it should work, but certainly we would benefit from that trend that's already happening.
+
+**Jessica Schimm:** 100%.
+
+**Jessica Schimm:** One other thing I might just call out, just having done this recent case study in terms of what a customer says we're the best at, and, Ashley, I just want to cross-check this with you, but Hanadoc, basically, they evaluated other AI data tools, and we came out on top of that evaluation.
+
+**Jessica Schimm:** So, I guess I would also position, like, Hex as the best AI analytics tool on the market as the message that I think we want to lead with, and that I think most of our customers would say, question mark.
+
+**George Haikal:** Thank you.
+
+**George Haikal:** Thank you.
+
+**George Haikal:** Thank you.
+
+**Ashley Stepien:** Like, we, our CEO likens us to, like, we are the cursor of data.
+
+**Ashley Stepien:** That's how, like, our customers are experiencing us.
+
+**Ashley Stepien:** So, we're kind of in that pool.
+
+**Ashley Stepien:** But we do have the challenge of, like, reintroducing ourselves to the market.
+
+**Ashley Stepien:** So, making sure that message is super clear that, like, we are synonymous with AI and data.
+
+**Ashley Stepien:** You think of Hex.
+
+**Ashley Stepien:** That's what we want to drive home.
+
+**George Haikal:** Got it.
+
+**George Haikal:** That's helpful because, you know, coming from this meeting, we'll do the deep dive.
+
+**George Haikal:** We'll create all the artifacts.
+
+**George Haikal:** We'll do a ton of research.
+
+**George Haikal:** Then we'll calibrate back and forth on voice style, tone, messaging, and actual article.
+
+**George Haikal:** But it's helpful to understand what the North Star metrics are in terms of numbers we want.
+
+**George Haikal:** But also, like, these more subjective, like, how do you want to be perceived?
+
+**George Haikal:** Like, what is the mindshare that we want?
+
+**George Haikal:** Like, where do we want to be in terms of our competitors and how people are talking about us?
+
+**George Haikal:** So these are all really important for us to understand up front.
+
+**George Haikal:** Like, what are these actual goals we want to push towards?
+
+**Ashley Stepien:** I might also give you, like, one more, like, visual or, like, analogical reasoning on, like, how to think about us.
+
+**Ashley Stepien:** Um, a lot of our competitors are looking to sort of bolt on a ChatGPT or a Cloud where, like, you know, Omni, for instance, has built a connection with ChatGPT.
+
+**Ashley Stepien:** And you can go to the ChatGPT and, like, ask it questions.
+
+**Ashley Stepien:** The problem is ChatGPT won't have access to everything.
+
+**Ashley Stepien:** It'll have access to, like, pretty limited things, in fact.
+
+**Ashley Stepien:** Like, you'll have to configure it.
+
+**Ashley Stepien:** There's security concerns.
+
+**Ashley Stepien:** There's limitations.
+
+**Ashley Stepien:** You're beholden to whatever's going on with ChatGPT that day.
+
+**Ashley Stepien:** Their upgrades, et cetera, whereas ours will be native or is native rather.
+
+**Ashley Stepien:** So it's almost like having ChatGPT live within your analytics tool as opposed to calling out to an AI tool.
+
+**Ashley Stepien:** So that's like another big differentiator that I think we're also trying to drive home because everyone's going to start saying they have AI.
+
+**Ashley Stepien:** But the way philosophically we've gone about thinking about it and building it has been to make it native and not to make it a bolt-on.
+
+**George Haikal:** Yeah, yeah, yeah.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** Is there anything else before we kind of move on from this high-level section of like any pressures you all are feeling?
+
+**George Haikal:** Like, is there anything keeping you up at night in terms of like mandates or numbers that you need to move or like any other pressures that we kind of missed?
+
+**Peter Ryan:** Well, that's a long list.
+
+**Ashley Stepien:** Besides everything.
+
+**Ashley Stepien:** Okay.
+
+**Ashley Stepien:** Um, I, I guess like the, the thing we know to be true is if we get you into the product, we're going to win.
+
+**Ashley Stepien:** And so there's an element of like, prove it.
+
+**Ashley Stepien:** And, and I think in particular, our audience responds really well to proof.
+
+**George Haikal:** Show it on top.
+
+**Ashley Stepien:** Um, like data, people smell  a mile away.
+
+**Ashley Stepien:** And so there's like a real element of authenticity.
+
+**Ashley Stepien:** And so we do let our product do a lot of the talking for us.
+
+**Ashley Stepien:** Uh, so we're kind of a little bit unique from tools similar to us in that, like the, the, um, PLG element or the, like, just give the product a chance element is very important to us.
+
+**Ashley Stepien:** Whereas like Sigma will not let you do that.
+
+**Ashley Stepien:** Like Sigma will jump through as many hurdles as possible.
+
+**Ashley Stepien:** It's to keep you out of the tool because they want to go custom configure it for you like we don't want to do that.
+
+**George Haikal:** We want to hand over the keys and like let you take it for a test drive without us.
+
+**George Haikal:** Love that.
+
+**George Haikal:** Love that.
+
+**Peter Ryan:** That being said, we're also trying to drive pipeline.
+
+**Peter Ryan:** So we'll take a request demo.
+
+**Peter Ryan:** Don't get us wrong.
+
+**Ashley Stepien:** But we are unique in like, um, in that, uh, I don't know, maybe it's relevant, but a lot of enterprise companies don't come through a PLG channel.
+
+**Ashley Stepien:** Um, we have a shocking number of upmarket companies that come to us through a self serve experience.
+
+**Ashley Stepien:** So, um, it's just a differentiator for us.
+
+**Ashley Stepien:** Like we, we believe so much in the product.
+
+**George Haikal:** just want to get in people's hands so fast.
+
+**George Haikal:** Yep.
+
+**George Haikal:** Yep.
+
+**George Haikal:** Completely makes sense.
+
+**Ashley Stepien:** Like Netflix is a customer.
+
+**Ashley Stepien:** Technically, they're on their self-serve, and they're very happy using their self-serve.
+
+**Ashley Stepien:** We've never even, like, spoken to them, but they're very active users.
+
+**Ashley Stepien:** So, like, just strange things like that are kind of different for us.
+
+**Erik O'Brien:** Let's leave myself a note down here.
+
+**Erik O'Brien:** I know we talked a little bit about some of the triggers of, like, the data team feeling the pain, but is there, I guess, you know, people that are using Sigma, Looker, Tableau, other triggers that might be archetypes for when people are looking to switch?
+
+**Ashley Stepien:** Yeah, I mean, maybe it goes without saying, but cost, I mean, the cost of ownership for, like, a Tableau or a Looker is insane for a lot of companies.
+
+**Ashley Stepien:** We are significantly...
+
+**Ashley Stepien:** cheaper, and then also strangely more powerful.
+
+**Ashley Stepien:** So that's been a really easy sale for us, getting to people like to turn off of Looker or Tableau.
+
+**Ashley Stepien:** Slowly but surely, that's what we're starting to see, and they're saving a lot of money in doing that.
+
+**Peter Ryan:** I think another would be to evaluate tools for self-serve BI with the understanding of like, okay, we'll build some things for our stakeholders, and then that'll fit more of our time.
+
+**Peter Ryan:** And then what ends up actually happening is the data team just has to spend even more of their own time building more and more and more and more more dashboards, because people just want more and more and more and more more.
+
+**Peter Ryan:** So like that like myth of like, oh, we're going to get self-serve going and then we're going to get back to doing like the analysis that really matters doesn't pan out in real life.
+
+**Ashley Stepien:** And like probably the biggest thing is like they're not able to do advanced.
+
+**Ashley Stepien:** Analytics in a lot of tools.
+
+**Ashley Stepien:** Like they need to be able to do advanced analytics.
+
+**Ashley Stepien:** Any tool or any company with like legitimate data is using some sort of notebook tool.
+
+**Ashley Stepien:** It's just that now we've bridged the gap between that incredibly technical notebook functionality and BI.
+
+**Ashley Stepien:** That just hasn't been done before.
+
+**Jessica Schimm:** I'll add one more thing, which feels like it's brand new.
+
+**Jessica Schimm:** But again, referencing this case study we just did, part of the reason why that data scientist started to look at Hex was because her colleagues were already trying to get data answers from Quad and other AI services.
+
+**Jessica Schimm:** So they were already starting to just figure, like, find some solution on their own.
+
+**Jessica Schimm:** And that is some of the messaging that we've been starting to surface a little bit.
+
+**Jessica Schimm:** Like from our head of data, your colleagues are going to start to do this.
+
+**Jessica Schimm:** And so you have the choice whether you can sit and manage all the context and they earn trusted answers and it goes through the data team or that they just do it rogue and end up steering the data or the decisions in the wrong way.
+
+**Jessica Schimm:** So that might be a new event spark that we're probably going to see more of, I would assume.
+
+**George Haikal:** Yeah, that's super interesting.
+
+**George Haikal:** Ashley made me yawn, so excuse me, pardon the yawn, but that's really interesting.
+
+**George Haikal:** They're going to be doing it anyway, so how do you help them understand they can get ahead of it in a way that was like more beneficial and like extensible across the company?
+
+**George Haikal:** And like you have more control, a lot more control over it versus doing it through a cloud or a 10GPT or anything.
+
+**George Haikal:** That's super interesting.
+
+**George Haikal:** We'll look into like some training off of that for some content ideas.
+
+**George Haikal:** Oh yeah.
+
+**Erik O'Brien:** Is that good?
+
+**Erik O'Brien:** Yeah, it's kind of like that term of shadow AI, like people are going to start using God, Perplexity, ChatGBT, if you don't figure out a way to give it to them.
+
+**Erik O'Brien:** So it's kind of very similar here of like, they're going to find ways to self-serve with these tools.
+
+**Erik O'Brien:** You might as well figure out what the use case is and figure out how do we streamline this to have an enterprise use case.
+
+**George Haikal:** Yeah, and then help them understand the trade-offs that they're making.
+
+**George Haikal:** Because like every time they're making a decision or doing this in a different model, like they're making some trade-offs, whether they're aware of them or not.
+
+**Peter Ryan:** Yeah, actually like a pretty good analog of this.
+
+**Peter Ryan:** We have a notion that we're building towards, it's like the notion of building a context engine for your data.
+
+**Peter Ryan:** So like including a, you know, your deep analysis, you know, publish that in a way that people can sort of self-serve off it, people self-serve, they find themselves back off in the wilderness.
+
+**Peter Ryan:** Like now they have a new question for data that like chat.
+
+**Peter Ryan:** By way, I usage, we view it as like, actually, it's an opportunity.
+
+**Peter Ryan:** If you did that in Hex, we have this view of, oh, what's going to happen is the marketer is like us.
+
+**Peter Ryan:** We're going to go start self-serve exploring.
+
+**Peter Ryan:** And then between you and I, we're releasing an observability suite in a few months that will basically have the data team to see, hey, what are all the questions?
+
+**Peter Ryan:** What are the themes that people are doing in the product that we have not yet gone and like rubber stamped the data yet?
+
+**Peter Ryan:** Oh, that's the next place we should go in and build out some more context so that we're getting better answers.
+
+**Peter Ryan:** So I got shadowing, I can and should be informing like where, oh, data team needs to go and clean up this paid marketing data because we keep seeing people ask questions there and we're not sure if the answers are good.
+
+**Peter Ryan:** So it's like taking that, bringing it in-house and like really seeing the value of that behavior versus it being off campus, so to speak.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** I think it's going through.
+
+**Erik O'Brien:** Got that one.
+
+**Erik O'Brien:** Trigger events.
+
+**Erik O'Brien:** Kind of touched on six.
+
+**Erik O'Brien:** We touched on it a little bit, but kind of, I guess, maybe previous to the AI launch, some of the objections may have been too technical.
+
+**Erik O'Brien:** But any other common objections or concerns that come up when you guys are talking to prospects about their evaluation of Hex and what they might push back on?
+
+**Peter Ryan:** If they're not coming from that BI direction and they're coming more from the advanced analytics or data science direction, then sometimes cost does come up.
+
+**Peter Ryan:** There are like open source tools you could use for some fraction of those things.
+
+**Peter Ryan:** And then I think part of it is just like incumbency.
+
+**Peter Ryan:** Like they're just going to stick with the tool they're entrenched with.
+
+**Peter Ryan:** Do they want to pay for Hex?
+
+**Peter Ryan:** And Tableau for a year, versus just sticking with what they've got.
+
+**Peter Ryan:** I think one increasing one is like, while we believe ourselves to be the best AI tool, there is just right now a skepticism that any of these tools as claims for AI analysis with your data are good.
+
+**Peter Ryan:** So we might be sort of getting dragged down by competitors that have built tools that just aren't very good, but are saying a lot of the same things that we are.
+
+**Peter Ryan:** So just like general skepticism there.
+
+**Erik O'Brien:** It definitely makes sense.
+
+**Erik O'Brien:** Everybody's got an AI story now.
+
+**Erik O'Brien:** And if you go and test any of the tools, it's maybe like a 20% success rate.
+
+**Erik O'Brien:** So.
+
+**Erik O'Brien:** Thank
+
+**Erik O'Brien:** I definitely understand that one.
+
+**Peter Ryan:** Yeah, I don't know.
+
+**Peter Ryan:** Anything else in here, Ashley, that comes to mind?
+
+**Ashley Stepien:** I would say, like, from an enterprise perspective, there's, like, we have run into, like, issues with scale.
+
+**Ashley Stepien:** Like, if you're going to have 5,000 users in the tool, we run into issues around that.
+
+**Ashley Stepien:** Like, we're just not built for that yet.
+
+**Peter Ryan:** And then I don't know where this fits in the funnel.
+
+**Peter Ryan:** Usually, if we're talking to sales, it's not why we lose.
+
+**Peter Ryan:** There are just some people who still don't quite, like, get it.
+
+**Peter Ryan:** Like, they just don't quite grok what we're going for as a platform.
+
+**Peter Ryan:** They probably fall off before, like, bank off with another tool, but that is definitely something.
+
+**Peter Ryan:** Fraction of the market.
+
+**George Haikal:** It's like not quite exactly sure what we're going for here.
+
+**Erik O'Brien:** Is it that they don't understand it because it's so different from what they currently use?
+
+**Erik O'Brien:** Or are they just like more of an uneducated buyer of like they don't know what they should be looking for?
+
+**Peter Ryan:** A little bit of both.
+
+**Peter Ryan:** A little bit of both.
+
+**Peter Ryan:** I mean, I do think we take a pretty drastically different approach to like how the discipline should work, how these like different data platforms that used to all be separate should be integrated together.
+
+**Peter Ryan:** And I just think sometimes they don't see that value or like maybe they don't understand why that integrated system is actually like one plus one plus one equals 10.
+
+**Peter Ryan:** And, but they can't quite see, but I'm comfortable using my Jupyter notebook and Chablis seems to have slightly better visuals.
+
+**Peter Ryan:** So they're just evaluating us versus of our sub-component products versus point solutions that do that type of work.
+
+**Peter Ryan:** And I can't quite grasp, well, why is it better?
+
+**Peter Ryan:** Why is this going to benefit our team?
+
+**Erik O'Brien:** George, anything else on customer before we move down?
+
+**George Haikal:** No, I feel pretty good.
+
+**George Haikal:** We can always do a deep dive thereafter and ingest anything they want to send over.
+
+**George Haikal:** So I think we're good there.
+
+**George Haikal:** What would be helpful is understanding more, like, what's working well for you all now.
+
+**George Haikal:** I understand performance-wise, like, once I'm rushing them into the numbers, like, you have some top-performing blogs.
+
+**George Haikal:** But I guess there's two questions.
+
+**George Haikal:** One, I'm trying to understand your bar for quality, right, and, like, what are one or two really...
+
+**George Haikal:** Amazing pieces that you think, oh, my God, if we can have 50 more of these, let's do it.
+
+**George Haikal:** And then understand what it took to get there, like who reviewed it, how long did that process take, et cetera.
+
+**George Haikal:** And I guess we can start there for now.
+
+**George Haikal:** Like, what is, like, one or two pieces of content, a blog that, like, is a chef's kiss level of quality that you'd want to emulate?
+
+**Peter Ryan:** I'm going to wholly defer to Jess here.
+
+**Ashley Stepien:** Yeah, Jess, I'm also going to defer to you.
+
+**Peter Ryan:** I'm laughing because.
+
+**Jessica Schimm:** Gosh, okay, this is kind of a loaded question.
+
+**Jessica Schimm:** I may need to just jump back in here and add some more notes.
+
+**Ashley Stepien:** But off the top of my head.
+
+**Ashley Stepien:** Let's ask Threads.
+
+**Jessica Schimm:** Let's ask Threads.
+
+**Jessica Schimm:** I mean, what it's going to show, Ashley, is, like, Olivia's product piece and then Barry's disbanding AI thought leadership piece.
+
+**Jessica Schimm:** And both of those are, like, a little bit more adjacent.
+
+**Jessica Schimm:** So one of the blog posts I'm referencing, there are elements of it that I think we'd like to keep.
+
+**Jessica Schimm:** And then I'll go back to like one of a true data science piece, which I think would be one of the pieces written by our head of data, Caitlin, or interim head of data.
+
+**Jessica Schimm:** So we published this piece that was written by one of our PMs.
+
+**Jessica Schimm:** And I think what made it work really well in thing was this authenticity that really spoke to the technical audience in a way that they can trust it.
+
+**Jessica Schimm:** It doesn't feel over AI engineered.
+
+**Jessica Schimm:** Olivia wrote it from the ground up really authentically in her own voice.
+
+**Jessica Schimm:** So I think there is an element of that.
+
+**Jessica Schimm:** And I would also say there's a theme with our higher performing blog posts where we keep them very digestible.
+
+**Jessica Schimm:** And that is a hallmark, that is one hallmark of Hex's style that we embrace, where a lot of our...
+
+**Jessica Schimm:** Blogs are not 1,200 words.
+
+**Jessica Schimm:** This really comes from our CEO and just wanting to keep the contact, sorry, the contact artifacts having movement and really clearly earning the argument of a singular perspective without muddying it too much.
+
+**Jessica Schimm:** So that's something we keep on the forefront.
+
+**Jessica Schimm:** And I think those are aspects of a lot of our blog content that does very well.
+
+**Jessica Schimm:** So with our interim head of data's recent pieces as well, we have really leaned into, I mean, this is interesting because I'm not sure that this is the play for SEO, but maybe it is.
+
+**Jessica Schimm:** But like a spiky point of view is what I would call this, where we are, we're writing with conviction and we're writing with, you can tell that the author has care for this audience.
+
+**Jessica Schimm:** They are living this world day to day.
+
+**Jessica Schimm:** And I think that that sentiment really matters to our readers.
+
+**Jessica Schimm:** And I would say the extra spice in our content, there's two things that I think make our content stand out in the sea of sass, which is one, you feel like there are there are a handful of posts that do this better than others, but you feel like the author had fun writing what they were writing about.
+
+**Jessica Schimm:** And like their passion and the enthusiasm comes through, and there's a little bit of whimsy, and we're having fun with the audience, and we're relaxed.
+
+**Jessica Schimm:** The other way I would describe that is like, we don't want to talk at our audience.
+
+**Jessica Schimm:** And I use this metaphor of like, if you're performing on a stage, and you're talking down to the audience, and they're so far removed, we often have this voice approach where we're talking with them.
+
+**Jessica Schimm:** So we're bringing them behind stage with us.
+
+**Jessica Schimm:** And like,
+
+**Jessica Schimm:** It's hey, come back, like, come join us, and we want to help you.
+
+**Jessica Schimm:** And that's really, like, the essence that we want to come through in our content so much to help let that authenticity show up.
+
+**Jessica Schimm:** And, yeah, it's much easier to describe, harder to do in practice, but I think those are some of the elements of our best performing pieces.
+
+**Jessica Schimm:** Ashley, Pete, anything else to add on to that?
+
+**Peter Ryan:** Just to give the context, that our CEO has a very high bar and is very particular about this work.
+
+**Peter Ryan:** And we shouldn't shy away from that reality.
+
+**Peter Ryan:** That is definitely something we're going to need to incorporate into our partnership here and be successful.
+
+**George Haikal:** Yeah, yeah.
+
+**George Haikal:** And what do, so I see there's a bunch of different individual authors on these posts.
+
+**George Haikal:** Is there, like, a formal?
+
+**George Haikal:** Do you process that they go through before they're published, or what does that look like?
+
+**Jessica Schimm:** Yeah, so it depends.
+
+**Jessica Schimm:** There are a few of the stronger Fathom leadership opinion takes that we are talking about with AI.
+
+**Jessica Schimm:** Those will often have reviews by Ashley and Barry, our CEO and founder.
+
+**Jessica Schimm:** For everything else, we are working just very closely with the subject matter experts on writing those pieces.
+
+**Jessica Schimm:** And I tend to be the final reviewer of those pieces along with the SME.
+
+**Jessica Schimm:** Very rare cases will happen, Ashley, or Barry for review on those as well.
+
+**Jessica Schimm:** But most, I would say 85% of our pieces just stick with the final review from me before publish or a product person if we are talking about the product in some way, a new way.
+
+**George Haikal:** Got it.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** Yeah, I think that what has worked well in the past with technical clients is like a really detailed set of writing guidelines, brand style, tone, like you have an amazing grasp on it already, Jess, just from like the way you described it, that was very, very good.
+
+**George Haikal:** And then if needed, if we identify some gaps in our research or we look at the materials that exist already and it's like we could use a little bit more, then we're more than happy to jump in with that subject matter expert or that other team member.
+
+**George Haikal:** If needed.
+
+**George Haikal:** so we'll make sure to raise that up front ASAP if it's needed.
+
+**Jessica Schimm:** That sounds good.
+
+**Jessica Schimm:** Two other thoughts that I just had.
+
+**Jessica Schimm:** Sorry, I'll keep this brief.
+
+**Jessica Schimm:** One of the best performing blog posts we did was around evals.
+
+**Jessica Schimm:** And so I think people will really have a curiosity on like, again, the technical details are important and sit well with our audience.
+
+**Jessica Schimm:** Like how did we construct the evals?
+
+**Jessica Schimm:** And I don't know that that, again, needs to override this entire SEO strategy.
+
+**Jessica Schimm:** See you back.
+
+**Jessica Schimm:** We see buyers looking at those technical posts and wanting to understand the details.
+
+**Jessica Schimm:** They're not afraid.
+
+**Jessica Schimm:** And then the only other note just on tone and voice as you reflected back, I think generally we lean toward more of a warm, like a warm and approachability voice that comes through, which is in the tone of guidelines.
+
+**Jessica Schimm:** So I won't, I won't sit and unpack that, but broad spots, that's usually like where we start.
+
+**Ashley Stepien:** I got a hop, but you're in good hands and I will stay close, be available as much as needed.
+
+**George Haikal:** Amazing.
+
+**Erik O'Brien:** Good meeting you.
+
+**Erik O'Brien:** Thanks.
+
+**Jessica Schimm:** Good to meet you, Ashley.
+
+**Jessica Schimm:** Honestly.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Let's move on.
+
+**Erik O'Brien:** We can touch on this one briefly.
+
+**Erik O'Brien:** Just kind of overall current state of marketing, I would just say it is working versus what is not working.
+
+**Erik O'Brien:** And we can keep this fairly brief to get through the next eight minutes.
+
+**Peter Ryan:** Good question.
+
+**Peter Ryan:** I think, well, management clearly is a question mark.
+
+**Peter Ryan:** That's why I chuckled.
+
+**Peter Ryan:** Things I can point to with strong confidence would be, we do have a differentiated brand in the space.
+
+**Peter Ryan:** And that does pop up over and over, carry both by design, personality, and again, product that is opinionated in some specific ways that people like.
+
+**Peter Ryan:** Like, we, where our leads tend to come from would be, like, events by
+
+**Peter Ryan:** Those are ships and activations and the digital, like lead gen activities.
+
+**Peter Ryan:** I think our perception is that both of these could be more efficient, but that we show up on brand and with content that we can stand by.
+
+**Peter Ryan:** So in that sense, you know, they contribute to that brand or at least don't detract from it.
+
+**Peter Ryan:** But what is unclear, if it's working, not at all, if there's macro trends here, impacting it would be that organic growth, like specifically organic growth via content, via SEO, AU, and all the above.
+
+**Peter Ryan:** Again, time of big change there.
+
+**Peter Ryan:** A lot of companies are down by the vanity metrics there, but we are pretty young and should still be growing is kind of our view.
+
+**Peter Ryan:** So it's just a question mark and it feels like we are not, like we don't have momentum here and it's somewhere we could and should have momentum.
+
+**Peter Ryan:** It's kind of the best way I'd characterize that.
+
+**George Haikal:** Completely makes sense.
+
+**Peter Ryan:** And then I guess to like that, will, yeah, I guess marketing can touch the whole funnel.
+
+**Peter Ryan:** Again, we'll reiterate, like once we get people into Hex and using Hex, their like adoption and expansion is very, very strong.
+
+**Peter Ryan:** So like our middle of funnel, our enablement content, our, all of that stuff, we do very well.
+
+**Peter Ryan:** And it's the land initial acquisition where if we have, if we struggle, that's where.
+
+**Erik O'Brien:** Gotcha.
+
+**Erik O'Brien:** Then anything that's preventing you guys from growing 3x faster?
+
+**Erik O'Brien:** Is it just that awareness piece and kind of getting people to be aware of Hex is in the market?
+
+**Erik O'Brien:** Or maybe it's, you know, the kind of old positioning of like Hex is for data scientists.
+
+**Peter Ryan:** Yeah, I think probably somewhat internal, which is like, hey, what's the one thing we need the market to know?
+
+**Peter Ryan:** And let's go say that enough times that they hear it.
+
+**Peter Ryan:** And I would say we've maybe been a little slow and are still even figuring out like, what is that one message?
+
+**Peter Ryan:** Like, what's that one thing we can go say over and over?
+
+**Peter Ryan:** And it will resonate and people will understand.
+
+**Peter Ryan:** We've made strides here.
+
+**Peter Ryan:** This has been no secret internally that that like core positioning has been a moving target.
+
+**Peter Ryan:** And it's something that we've really been trying to land over the last 18 months.
+
+**Peter Ryan:** I think we're close.
+
+**Peter Ryan:** I don't know.
+
+**Peter Ryan:** I'd like to say with confidence, we've landed on it.
+
+**Peter Ryan:** But history has shown that this is a tricky one.
+
+**Peter Ryan:** So I should go again.
+
+**Peter Ryan:** We're a product that would like, the platform would cross against multiple other more easily understood traditional data products, whether that's a notebook, whether that's a BI tool, whether that's, you know, I guess those are two big ones.
+
+**Peter Ryan:** We don't neatly confine ourselves to those categories, which does mean we have to live in that messy middle and tell a bit of a more unique story.
+
+**Peter Ryan:** So we get over that hump and we can sell people on the vision of like, hey, that fractured tooling is not going to work in a world where like you need AI to be working across all of your systems to get smarter over time.
+
+**Peter Ryan:** Like that's not going to work.
+
+**Peter Ryan:** So if we get that message out and that we are the tool that's set up for this, I think we're, I think that's when we hit our, really start to explode.
+
+**Peter Ryan:** Because again, once they're in the product, it's going to, that part works.
+
+**Peter Ryan:** It's just like, how do we get them educated, incentivized to get in there?
+
+**Peter Ryan:** There is a little bit of upfront cost to like setting up your day.
+
+**George Haikal:** Yeah, what are the friction points people are facing that maybe is causing them to churn really quickly early on?
+
+**George Haikal:** Or what are the things that we can help educate them that they're going to run into on the onboarding or setup process to help make that smoother?
+
+**George Haikal:** How do we make it as frictionless as possible?
+
+**Peter Ryan:** Yeah, totally.
+
+**George Haikal:** I don't if you were asking me or just echoing what I was saying, but...
+
+**George Haikal:** Oh, I'm sorry.
+
+**George Haikal:** In my head, all those are pieces of content we can help write to these moments.
+
+**George Haikal:** Yes, yes, yes.
+
+**Peter Ryan:** And, like, and you can also, like, we can be softly negging.
+
+**Peter Ryan:** Like, hey, any tool, you go in there and they're like, oh, my God, it's an analyst in a box.
+
+**Peter Ryan:** It's like, that analyst is not going to be very good then.
+
+**Peter Ryan:** Yeah.
+
+**Peter Ryan:** That's just not how that works.
+
+**Peter Ryan:** It's like if someone's selling you that dream, have fun, but we'll see you in a month.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** All right.
+
+**Jessica Schimm:** The other thing, oh, I was just going to add really quickly.
+
+**Jessica Schimm:** think quality is something that prevents us from, like, publishing as fast as we want.
+
+**Jessica Schimm:** It just continues to be a bottleneck.
+
+**Jessica Schimm:** That means, feels like it needs close eyes.
+
+**George Haikal:** Sorry, quality in terms of the articles that people are putting out for review to be published?
+
+**Jessica Schimm:** Yes, yes.
+
+**Jessica Schimm:** Yeah.
+
+**Jessica Schimm:** Making sure that it just has that elegance and also the technical precision.
+
+**Jessica Schimm:** And then the other thing I was just going to add, this is more specific on the content side, but having clear signals, we're actually, we're going to dive into this a ton this quarter, but having clear signals on what content is actually really resonating and moving the needle.
+
+**Jessica Schimm:** I think we have super broad strokes, we have traffic views, but we are, we have not yet connected like all those traffic views into backed out closed ones, closed one deals.
+
+**Jessica Schimm:** And we have some qualitative statements around it, but this quarter, I think we're going to make some big pushes there to really start to understand what content and what topics are resonating.
+
+**Erik O'Brien:** And I think really well across the board.
+
+**Erik O'Brien:** Absolutely.
+
+**George Haikal:** Nice.
+
+**George Haikal:** Just be respectful of time.
+
+**George Haikal:** think we have one minute left.
+
+**George Haikal:** So maybe, Erik, if can just talk through the next steps and what they can expect.
+
+**Erik O'Brien:** Absolutely.
+
+**Erik O'Brien:** So from here, we will kind of create a summary document that's literally titled What We Heard Kickoff, just to make sure that we're all aligned on kind of exactly what we heard and what you told us.
+
+**Erik O'Brien:** From there, we'll go into research and start kind of pulling in some of the context that guys have shared with us, ask any questions or clarifications that we may need there, and start to create artifacts.
+
+**Erik O'Brien:** So those personas, company context, writing guidelines, we'll share those hopefully by end of this week to get your guys' feedback and make sure that we dial in on those because they are very critical for our content generation pipeline.
+
+**Erik O'Brien:** And then after that, we will have, well, I guess...
+
+**Erik O'Brien:** Not after that, but this week, we'll have Dig reach out and set up a weekly sync.
+
+**Erik O'Brien:** So we'll make sure we get our time every week to kind of connect with you guys, share updates, progress, get your feedback, et cetera.
+
+**Erik O'Brien:** So those are at least the kind of next couple steps this week.
+
+**Erik O'Brien:** Other than that, it's usually just access, getting kind of Google Analytics, Search Console, and then access to your CMS, which I believe you said is contentful.
+
+**Erik O'Brien:** So just making sure that we have everything set up for recording and publishing.
+
+**Peter Ryan:** Sweet.
+
+**Peter Ryan:** Sounds good.
+
+**Peter Ryan:** And I should have, we've already compiled, but I need to add you guys all to access to a long list of internal docs for you to peruse.
+
+**Erik O'Brien:** Yeah, that email that George just sent, team at growthxlabs.com, that'll make it so we don't have to do to individuals, especially as we add more people to the group starting next week.
+
+**Erik O'Brien:** So if that one works, perfect.
+
+**Erik O'Brien:** If you need individuals, let us know.
+
+**George Haikal:** We can make that happen, too.
+
+**Peter Ryan:** Awesome.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** James.
+
+**George Haikal:** Super excited.
+
+**George Haikal:** We'll be annoying in Slack if needed to unblock anything.
+
+**George Haikal:** Please throw anything over the fence that you have that might be helpful for us, and we'll be in touch very, very soon.
+
+**Peter Ryan:** Sounds great.
+
+**George Haikal:** Thanks, team.
+
+**Jessica Schimm:** Awesome.
+
+**Jessica Schimm:** Yeah, thanks, y'all.
+
+**Erik O'Brien:** Talk soon.
+
+**Erik O'Brien:** Bye.

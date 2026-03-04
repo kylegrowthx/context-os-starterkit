@@ -1,0 +1,364 @@
+# Discern <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-08-14
+time: 16:00 UTC
+duration: 12 minutes
+organizer: megan@growthx.ai
+participants: Megan Dickey (GrowthX), Jenn Peters (GrowthX), Mike Bosserman (Discern)
+fathom_recording_id: 80621289
+fathom_url: https://fathom.video/calls/379810439
+share_url: https://fathom.video/share/jZtjLbFeXWZjw3SKKJfNLmvSqhyRj5Dx
+source: fathom
+enriched_on: 2026-03-03 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Discern discussed content performance and business formation resources on their weekly sync. The Discern site has published 247 articles with strong impression growth (up 10K week-over-week) despite a minor click dip of 18 as the market enters off-season. The team is completing the LLC formation cluster (50+ articles remaining), finishing alt text additions by early next week, and planning to implement UTM tracking across hundreds of content pieces to better attribute demo bookings.
+
+---
+
+## Context
+
+Discern is a business formation platform that has engaged GrowthX to build comprehensive content around business formation topics. This weekly sync covers progress on their content publication pipeline, performance metrics, and technical implementation challenges. The relationship is a ongoing service engagement where GrowthX publishes weekly article batches and manages content optimization. Discern's website has grown significantly with the content strategy, publishing to a large resource library that drives discovery through search.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Content production velocity is strong (26 articles/week, 247 total published). Scaling challenges emerging: implementing UTM tracking across 100+ pieces requires strategy beyond individual button tagging. Webflow styling issues with sub-bullets and spacing need investigation. Alt text completion on track for next week.
+
+- **To GrowthX Business Development:** Account health is strong with consistent delivery momentum. Site visibility expanding week-over-week despite seasonal fluctuation. Client is ready to move into attribution and tracking phase, indicating satisfaction with content quality and willingness to invest in measurement infrastructure.
+
+- **To CheckThat:** Looker dashboard recently implemented for comprehensive tracking including LLM traffic patterns. Demonstrates client sophistication and data-driven approach to content performance evaluation.
+
+---
+
+## Overview
+
+- Site performance: 247 articles published to date, slight dip in clicks (-18) but continued growth in impressions (+10K)
+- Ongoing projects: LLC formation cluster (\~50+ articles remaining), alt text additions (80% complete, ETA early next week)
+- Tracking discussion: UTM parameters primary method, need to strategize implementation for Discern's growing content library
+
+---
+
+## Key Topics
+
+### Content Performance Update
+
+  - 26 articles delivered this week, totaling 247 published to date
+  - Overall site performance (up to Aug 10):
+      - Clicks: Down 18 (first dip in upward trend)
+      - Impressions: Up 10K+ (continuing to climb)
+  - Resources page performance:
+      - Clicks: 23 (no change week-over-week)
+      - Impressions: 29.2K (up from 19.8K a month ago)
+  - Top pages remain consistent, with Oklahoma Resources page gaining traction
+  - Slight decrease in overall site clicks, but not alarming; could be start of post-season cool down
+
+### New Looker Dashboard
+
+  - Recently set up for more comprehensive tracking (e.g., LLM tracking)
+  - Best used with data up to previous Sunday (vs. previous Saturday)
+  - Accessible for viewing all site traffic vs. just resources page
+
+### Ongoing Projects
+
+  - LLC formation cluster: \~50+ articles remaining
+  - Next topics: Foreign registration and nexus rules
+  - Alt text additions:
+      - 80 pages completed yesterday
+      - Expected completion by early next week
+      - Being done in chunks due to larger than expected page count
+
+### Tracking Strategy Discussion
+
+  - Current method: UTM parameters + HubSpot/Salesforce
+  - Challenge: Implementing UTMs on numerous content pieces (several hundred)
+  - Considerations:
+      - Multiple click points on resource pages (demo button, in-text links)
+      - Potential for different parameters to track specific user interactions
+      - Need to ensure compatibility with inbound lead booking tool
+
+### Content Seasonality
+
+  - Anticipating fluctuations in traffic and engagement based on tax/business deadlines
+  - Top pillar pages (e.g., franchise resources) expected to maintain more stable traffic
+
+### Webflow Formatting Issues
+
+  - Unusual spacing in resource pages, particularly with sub-bullets and list endings
+  - Limited ability to view/edit HTML directly in the CMS
+  - Mike to investigate potential style adjustments in Webflow
+
+---
+
+## Action Items
+
+**Mike Bosserman (Discern)**
+- Investigate best method for implementing user journey tracking (UTMs, etc.) compatible w/ inbound lead booking tool; consider scalability for 100s of content pieces
+
+- Investigate & potentially fix weird spacing issues in Webflow for resource pages (sub-bullets, list endings, H2 spacing)
+
+
+**Jenn Peters (GrowthX)**
+- Brainstorm solutions for tracking user journeys across multiple content pieces, including different click locations (demo button, in-text links)
+
+---
+
+## Transcript
+
+**Mike Bosserman:** Just me today, so.
+
+**Megan Dickey:** Well, yeah, I think we just have some performance updates for you.
+
+**Megan Dickey:** And then, yeah, we're still making our way through the LLC formation cluster.
+
+**Megan Dickey:** And I think we have, like, maybe, like, at least 50 more to go in that cluster.
+
+**Megan Dickey:** And then we'll move on to foreign registration and nexus rules.
+
+**Megan Dickey:** Okay.
+
+**Mike Bosserman:** Yeah, probably the more than that, actually.
+
+**Jenn Peters:** Yeah.
+
+**Jenn Peters:** Yeah.
+
+**Jenn Peters:** But we're plowing through them.
+
+**Jenn Peters:** It's amazing how many we're getting done each week.
+
+**Jenn Peters:** Yeah, I can just jump into performance and we can probably, yeah, get you back some time today as well.
+
+**Jenn Peters:** It shouldn't take too long.
+
+**Jenn Peters:** Yeah, so.
+
+**Jenn Peters:** We're on track to deliver our regular cadence of 26 articles so far, and so that we've got like 247 published so far to date, including today, the ones that they published today.
+
+**Jenn Peters:** Yeah, taking a look at the overall site performance this past week, so going up to August 10th, we're actually down for the first time in like our big upward trend by a few clicks.
+
+**Jenn Peters:** But still up in impressions, kind of continuing to climb there.
+
+**Jenn Peters:** So here's a sort of week-on-week look, and we're down like 18 clicks and up over 10K impressions.
+
+**Jenn Peters:** So nothing too alarming there, basically, it's not a huge dip.
+
+**Jenn Peters:** It can also be attributed to the fact that like, so we have a new Looker dashboard set up here.
+
+**Jenn Peters:** I've actually linked to it further down in, um, right about here.
+
+**Jenn Peters:** in the agenda.
+
+**Jenn Peters:** So that's been made for us recently.
+
+**Jenn Peters:** It can track a lot more things like, I think we showed you like the LLM tracking and different things that are in there.
+
+**Jenn Peters:** And basically, it works best with like looking up to the previous Sunday look, whereas before we were doing previous Saturday.
+
+**Jenn Peters:** So that could also account for some slight adjustments there with clicks.
+
+**Jenn Peters:** Sunday usually seeing like lower engagement than Saturday.
+
+**Jenn Peters:** But it also could be the start of a postseason like cool down for traffic.
+
+**Jenn Peters:** So we'll just kind of like keep our eyes on it.
+
+**Jenn Peters:** You know, I think as we discussed before there, there's probably generally going to be kind of like some fluctuation there until we kind of get back up to the preseason kind of, or pre deadline kind of, what I would anticipate would be kind of more like rushes maybe.
+
+**Jenn Peters:** But yeah, so other than that, like besides the like 18 clicks down, we still have like strong impression growth, 8.7 impressions, increase.
+
+**Jenn Peters:** Obviously, you know, the more we broaden our topics and the articles that we have on, we should expect to see that to continue.
+
+**Jenn Peters:** And then looking at the previous week for the actual resources page itself, I just kind of put here like a little tip on like how you can see if you want to go to that performance dashboard, where if you want to see like all the traffic on the site versus just the like growthx, like just the resources page, that kind of thing.
+
+**Jenn Peters:** We have 23 clicks there, 29.2k impressions.
+
+**Jenn Peters:** So that's actually no change week over week for the resources page in terms of clicks.
+
+**Jenn Peters:** It stayed stable.
+
+**Jenn Peters:** It's the same.
+
+**Jenn Peters:** And there again, like impressions have gone up quite a bit.
+
+**Jenn Peters:** So yeah, upward trajectory on the impressions weekly gains have gone from like 19.8k to 29k over the course of about a month.
+
+**Jenn Peters:** And, yeah, basically, the site is appearing from queries, obviously, with more topics that were beginning to publish.
+
+**Jenn Peters:** And, as per usual, it's kind of outlined the top pages here, pretty much the same pages as last week.
+
+**Jenn Peters:** We've got the Oklahoma Resources page coming up on there, not like, you know, insane clicks, but gained quite a few impressions since it was published.
+
+**Jenn Peters:** And, yeah, that's pretty much the quick overview of the traffic on the site.
+
+**Jenn Peters:** But, yeah, basically, still continuing to climb, slight decrease in the overall site clicks, but nothing too incredible.
+
+**Jenn Peters:** The only other thing I wanted to say is that just regarding the alt text and additions to the images, we actually have somebody else on our team working on that who handles, like, publishing on a bunch of people's sites.
+
+**Jenn Peters:** And they're dealing with it in chunks because they went into it thinking.
+
+**Jenn Peters:** was a lot fewer pages than it actually was.
+
+**Jenn Peters:** And so they did like up to 80 of them yesterday and they're going to just kind of do them in chunks day by day.
+
+**Jenn Peters:** They think they'll have them done by early next week.
+
+**Jenn Peters:** So, yeah, very easy task, a little bit tedious, but they're getting through it.
+
+**Jenn Peters:** So that should be done pretty soon.
+
+**Jenn Peters:** Yeah, that's all I pretty much had to say on performance and other things on my end.
+
+**Jenn Peters:** Was there any questions about me?
+
+**Mike Bosserman:** No, I mean, this is pretty straightforward.
+
+**Mike Bosserman:** There's going to be some vicissitudes on a week to week basis.
+
+**Jenn Peters:** So like, yeah, it's like, it's not, you know, I think I would think, you know, like 18 clicks over the is not really a huge, huge thing.
+
+**Jenn Peters:** I think we're going to see probably greater fluctuations.
+
+**Jenn Peters:** I'm, you know, this being kind of new to me, like I'm just anticipating the further away we get from those like most common deadlines, probably we might see some like more drops and then like increases as we get further, you know, closer to those deadlines.
+
+**Jenn Peters:** But yeah, everything impression growth is suggesting that, you know, search visibility is expanding week over week anyways.
+
+**Jenn Peters:** And.
+
+**Jenn Peters:** So market reaches, like, always continue to grow, which is, you know, what we want to see.
+
+**Mike Bosserman:** Cool.
+
+**Mike Bosserman:** So the only other thing is last week we talked about tracking, which is something I have on my to-do list.
+
+**Mike Bosserman:** What are people doing today for tracking?
+
+**Mike Bosserman:** Are they using just UTMs on all these buttons?
+
+**Mike Bosserman:** Or, like, how are they tracking user journeys from content to, like, a demo booking, for example?
+
+**Megan Dickey:** Yeah, I think, yeah, UTM, yeah, UTM parameters are the main.
+
+**Megan Dickey:** And then they're using that within HubSpot, or I know some folks are using Salesforce as well.
+
+**Megan Dickey:** just kind of depends on what you prefer.
+
+**Megan Dickey:** But, yeah, I feel like those UTMs are going to be super helpful in actually having those set up properly to make sure that we're, like, tracking that full journey.
+
+**Megan Dickey:** Yeah.
+
+**Mike Bosserman:** Yeah.
+
+**Mike Bosserman:** Okay.
+
+**Mike Bosserman:** I'll have to think about the best way to do that because, like, you know, I can't put a UTM on every button on this web.
+
+**Mike Bosserman:** Now that we've got like several hundred pieces of content, so I got to figure out what is there.
+
+**Jenn Peters:** Like, yeah, and like there's a couple different places, like, you know, stay up, you go to like a random resources page, there's obviously a few different places where you can, you know, click from there, right, with the demo button and then like the in-text kind of thing.
+
+**Jenn Peters:** So, that's going to make it a little bit trickier for sure.
+
+**Jenn Peters:** Like, you could add a different parameter to the demo one for the in-text even to like track, you know, if you want to see like which thing people are clicking in particular.
+
+**Jenn Peters:** But yeah, it's going to be a little bit tricky there for sure in terms of like, if it's, you know, it's all see a demo.
+
+**Jenn Peters:** Yeah, it's going to be a bit harder.
+
+**Jenn Peters:** Let me, let me think about it.
+
+**Mike Bosserman:** I'll, you know, I think our like inbound lead booking tool default has some.
+
+**Mike Bosserman:** Tooling here.
+
+**Mike Bosserman:** so really, because we're using that to capture the leads, I need to make sure that whatever our tracking is, works with that.
+
+**Mike Bosserman:** Right.
+
+**Mike Bosserman:** But yeah.
+
+**Mike Bosserman:** Okay.
+
+**Mike Bosserman:** Cool.
+
+**Mike Bosserman:** That's helpful.
+
+**Jenn Peters:** Yeah, for sure.
+
+**Jenn Peters:** It would be definitely interesting to have any context in terms of which blog pages.
+
+**Jenn Peters:** But again, I do think that like, that's going to reflect like seasonally as well, you know, it's going to be dependent on, you know, which pages, but I think like those top of pillar pages, like the one that you added like yesterday, and like the other one that we, what was it, the one that kind of continues to be the top five, the franchise resources page and that kind of thing, like, you know, those are going to continue to be like the more like stable pages, like week over week, I think, but, but yeah, we're probably going to see like regardless of like lead tracking or whatever, like we're going to have
+
+**Jenn Peters:** Kind of factor that in with like seasonality and that kind of stuff.
+
+**Jenn Peters:** Yep.
+
+**Mike Bosserman:** Okay.
+
+**Mike Bosserman:** Cool.
+
+**Mike Bosserman:** Makes sense.
+
+**Mike Bosserman:** Yeah.
+
+**Jenn Peters:** All right.
+
+**Jenn Peters:** Do you guys need anything else from me?
+
+**Jenn Peters:** Not on my end.
+
+**Jenn Peters:** That was just, yeah, I just wanted to pass on the performance stuff and, yeah, just give you a little update about the small task with the image, the image, all tech stuff.
+
+**Jenn Peters:** And, yeah, if you had anything else that you wanted me to look at in terms of that page and formatting and everything, I'm not sure we left off with that in terms of like if you can see the HTML.
+
+**Jenn Peters:** HTML view on the back end of like blog pages, I can't.
+
+**Jenn Peters:** It doesn't seem like, you know, normally with like CMSs, you can switch between views and then I can see like HTML and like normally the extra spacing would be like div tag stuff, like in WordPress, for example, you know.
+
+**Mike Bosserman:** But I think what's happening here is that the styles in Webflow for some of the resource pages are kind of funky.
+
+**Mike Bosserman:** Like quality in Webflow are always.
+
+**Mike Bosserman:** Weird, but like if you had a sub bullet and it's the end of that list, it's actually the beginning of a new list, which creates space.
+
+**Mike Bosserman:** So like there's some weird things.
+
+**Jenn Peters:** Yeah, I noticed that on other pages too, where I was just kind of like, wow, it looks like there's a bit too much space between like the H2 and like where the paragraph starts or like when the paragraph ends in like the next H2.
+
+**Jenn Peters:** But then, yeah, going into pages, I couldn't figure out like it looks totally normal.
+
+**Jenn Peters:** So, so yeah, if there's anything you want us to do there, like if you want to change anything stylistically to fix that, then I mean, I don't think it looks terrible, but it's just that it does look like a bit chunked out like the space.
+
+**Jenn Peters:** It's not terrible.
+
+**Mike Bosserman:** I agree.
+
+**Mike Bosserman:** It could be better, but I look like, I'll look into it.
+
+**Mike Bosserman:** Cool.
+
+**Mike Bosserman:** Okay.
+
+**Mike Bosserman:** Awesome.
+
+**Mike Bosserman:** Okay.
+
+**Mike Bosserman:** Well, anything else comes up then, yeah, we're always on Slack.
+
+**Jenn Peters:** And yeah, if you need anything else, you know, going through any pages you're, you're publishing on the side or whatever, then just like hit me up and I'm happy to look at anything.
+
+**Jenn Peters:** Sounds good.
+
+**Jenn Peters:** Thanks, guys.
+
+**Mike Bosserman:** Have a great night.
+
+**Mike Bosserman:** Take care.
+
+**Mike Bosserman:** Bye.

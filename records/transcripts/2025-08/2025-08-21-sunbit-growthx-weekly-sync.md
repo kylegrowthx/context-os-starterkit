@@ -1,0 +1,815 @@
+# Sunbit <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-08-21
+time: 16:00 UTC
+duration: 30 minutes
+organizer: Ehtisham Hussain
+participants: Jason Beltran, Angel Kemper, Ehtisham Hussain, Kyle Gaudreau, Darrell Etherington
+fathom_recording_id: 82094252
+fathom_url: https://fathom.video/calls/385650866
+share_url: https://fathom.video/share/RVaEoqXE_ehS_bbcYsFyF_qQ8QJFX9AY
+source: fathom
+enriched_on: 2026-03-03 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Sunbit completed 25 new articles with full social media packaging and are planning to build a 50-100 topic pipeline for the next month, maintaining focus on B2C Dental and B2C Auto to compete with Care Credit's keyword density. The team refined their blog structure to balance LLM optimization with human reader engagement, with plans to A/B test summary and key takeaways placement, and Kyle Gaudreau officially transitioned into Darrell Etherington's role at GrowthX. Next priorities include establishing social media strategy consistency across platforms (Instagram and Facebook only), fixing website URL structure duplicates, and shifting reporting focus into upcoming meetings.
+
+---
+
+## Context
+
+Sunbit is a fintech company providing point-of-sale financing solutions. GrowthX is executing a comprehensive content marketing engagement for Sunbit focused on B2C segments (Dental and Auto) with the goal of capturing high-intent search traffic and competing directly with Care Credit's established content footprint. This weekly sync is the primary operational cadence where both teams align on content production velocity, formatting standards, social media strategy, and analytics reporting. Notably, Darrell Etherington (Senior Manager at GrowthX) announced his departure at the end of the following week, with Kyle Gaudreau (who previously built GrowthX's delivery organization and led sales efforts) stepping back into the account management role to ensure continuity and provide fresh perspectives on Sunbit's growth opportunities.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Established production cadence at 25 articles per sync; team identifying need for topic pipeline (50-100 topics) to stay ahead of demand and avoid mid-week scrambling
+- Blog structure evolving to balance LLM optimization (summary and key takeaways at top) with human reader engagement; A/B testing planned before automation to avoid quality regression
+- Website technical issue discovered: duplicate "Knowledge Center" in URL structure requiring remediation with web agency (UX impact on content discoverability)
+- Content formatting standardization critical before automation; identified problem with "toothbrush" article having excessive bullet points — reversion to cleaner formatting needed
+
+**To GrowthX Business Development:**
+- Kyle Gaudreau's transition into account role brings 20+ years digital growth experience and prior Trey leadership background (valuable for potential expansion conversations)
+- Account shows strong execution velocity and openness to social media strategy refinement (moving from platform duplication to channel-specific content)
+- Reporting visibility gap acknowledged; team has not deeply analyzed content performance data yet — opportunity for GrowthX to introduce data-driven optimization practices
+- B2B paid traffic initiative on blog (25 B2B blogs running paid) represents potential upsell opportunity for CheckThat or AEO services
+
+**To CheckThat:**
+- LLM token optimization driving product decisions (chunking methodology, summary placement, brevity requirements) — clear validation of AEO principles in content strategy
+- Sunbit AI feature in early planning phase requiring "deep dive direct attention" with Marcel; C3 AI mentioned as reference model for potential feature parity
+
+---
+
+## Overview
+
+- 25 new articles completed this cycle with embedded social media posts, meta details, target keywords, summaries, and key takeaways packaged in single documents
+- Team planning to build 50-100 topic ideas to establish pipeline and avoid mid-week topic depletion (ran out of topics quickly during this week)
+- Focus remains on B2C Dental and B2C Auto content, specifically targeting Care Credit keyword density as competitive benchmark
+- Blog structure discussion focused on balancing LLM-optimized elements (summary and key takeaways at top) with human reader F-pattern reading behavior; A/B testing proposed for placement strategy
+- Website technical debt identified: duplicate "Knowledge Center" in URL path requires remediation to prevent SEO impact
+- B2B paid traffic initiative discovered: 25 B2B blogs in use with paid ads driving traffic, explaining need for lead capture forms
+- Form placement and design feedback noted; demand gen vs. user experience balance to be refined
+- Social media strategy needs refinement: consolidate to Instagram and Facebook only (discontinue LinkedIn and X), consider platform-specific vs. duplicated content, refine caption length
+- Reporting visibility identified as gap; team committed to focusing on data-driven insights in future meetings rather than output-only updates
+- Kyle Gaudreau transitioning from sales to account management; Darrell Etherington departing end of following week
+
+---
+
+## Key Topics
+
+### Content Production Update
+
+  - 25 new articles completed, including social media posts and meta details
+  - Plan to get ahead by creating 50-100 topic ideas for the coming month
+  - Continuing focus on B2C Dental and B2C Auto content to compete with Care Credit's keyword density
+
+### Blog Structure and LLM Optimization
+
+  - Current blog structure includes image, brief summary, and key takeaways optimized for LLMs
+  - Discussion on balancing LLM-friendly content with human reader engagement
+  - Consideration of A/B testing for placement of summaries and key takeaways
+  - Need to finalize style before automation to ensure consistency
+
+### Social Media Strategy
+
+  - Current approach of duplicating content across platforms needs refinement
+  - Suggestion to create unique posts for different channels (Instagram, Facebook)
+  - Discontinue content creation for LinkedIn and X (Twitter) for now
+  - Need to develop a strategy for repeating content across multiple days
+  - Captions require improvement; some are too lengthy
+
+### Website Issues and Conversion
+
+  - Duplicate "Knowledge Center" in URL structure identified; to be addressed with website agency
+  - New form on blog pages for lead generation, primarily for B2B paid traffic
+  - Discussion on form design and placement for optimal user experience and conversions
+
+### Reporting and Analytics
+
+  - Identified need to focus more on reporting in future meetings
+  - Plan to dig deeper into data-driven insights for content performance
+
+### Team Changes
+
+  - Darrell Etherington departing GrowthX; Kyle Gaudreau stepping into his role
+  - Kyle's background in digital growth and experience with Trey highlighted as valuable
+
+---
+
+## Action Items
+
+**Ehtisham Hussain (GrowthX)**
+- Shorten summaries and key points in future articles. Aim for brevity and LLM-friendly formatting.
+- Review recent articles, especially "toothbrush" one. Check for excessive bullet points and adjust formatting if needed.
+
+**Angel Kemper (Sunbit)**
+- Review all social posts comprehensively. Provide detailed feedback and suggestions before next meeting.
+
+**Kyle Gaudreau (GrowthX)**
+- Add "generate date" and "last updated" fields to OS table to improve content tracking and prioritization.
+
+---
+
+## Transcript
+**Jason Beltran:** Hope everyone's having a good morning.
+
+**Jason Beltran:** Yeah.
+
+**Kyle Gaudreau:** We got a lively bunch today.
+
+**Kyle Gaudreau:** How are you doing, Jason?
+
+**Jason Beltran:** Doing well, doing well.
+
+**Jason Beltran:** Yeah.
+
+**Darrell Etherington:** Yeah, thanks for sending that over, Jason.
+
+**Darrell Etherington:** I think NG team has it now, so I'll let you know if they provide back to us.
+
+**Darrell Etherington:** But just to jump ahead, I think that's one of the agenda items.
+
+**Jason Beltran:** Yeah, whenever they want to start sending test data over as well, I can just grab it.
+
+**Jason Beltran:** Okay.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** Yeah, because I talked to him yesterday, but I'll bump him again just to see if he's actually ready to start shipping over some tests or something.
+
+**Darrell Etherington:** Cool.
+
+**Darrell Etherington:** Yeah.
+
+**Jason Beltran:** And there's a few things I'll need to do on my end as well, but once we get that data in, I think it'll be nice.
+
+**Jason Beltran:** You can at least get a sense of how you want to use it and what the format is like.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** Yeah.
+
+**Jason Beltran:** And I think that kind of brings me to...
+
+**Jason Beltran:** One of the points I wanted to talk about today, as far as the information that's going to be passed over, just to make sure that it fits the style of our blog.
+
+**Jason Beltran:** So we can get into that now or later, it's up to you.
+
+**Darrell Etherington:** Wait, let me just do some housekeeping.
+
+**Darrell Etherington:** You'll notice Kyle has joined.
+
+**Darrell Etherington:** I don't know if you've had the pleasure of meeting Kyle previously.
+
+**Darrell Etherington:** Have I?
+
+**Kyle Gaudreau:** Very briefly during the kickoff. Yeah, you look familiar. I'm like, yeah, maybe we have met. Yeah, as I was transitioning into new things here, and transitioning once again.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** So just some personal news.
+
+**Darrell Etherington:** Like I'm going to be departing GrowthX end of next week.
+
+**Darrell Etherington:** So on to some new opportunities.
+
+**Darrell Etherington:** But Kyle is going to be stepping into my stead.
+
+**Darrell Etherington:** Kyle basically.
+
+**Darrell Etherington:** He set up our delivery organization, so he's very well-versed in that stuff.
+
+**Darrell Etherington:** He's seen it grow and evolve, and as he mentioned just now, he treasures how to help stand up our sales organization, and then is coming back to support while I move out and just make sure everything keeps running smoothly and delivering as expected, above and beyond as expected, I hope.
+
+**Darrell Etherington:** But yeah, so that's all.
+
+**Darrell Etherington:** But yeah, it's been a pleasure working with you.
+
+**Darrell Etherington:** I mean, it's not been that long, but, you know, we've had some great chats, and I really enjoyed bouncing back and forth on some of this vibe-coding stuff, and yeah, you're in good hands, though.
+
+**Darrell Etherington:** Ehtisham will be staying along, and Jacob, too.
+
+**Darrell Etherington:** Sounds good.
+
+**Darrell Etherington:** Sounds good.
+
+**Darrell Etherington:** Well, looking forward to jumping in the mix, Sunbit team.
+
+**Kyle Gaudreau:** Yes, you know, I won't go into a long intro, but yeah, I've been able to see all these different sides of GrowthX.
+
+**Kyle Gaudreau:** It's been a lot of fun.
+
+**Kyle Gaudreau:** I was the first customer.
+
+**Kyle Gaudreau:** I was leading client services for a while, then on the sales side, and usually it's just where can I help us grow in a variety of different ways?
+
+**Kyle Gaudreau:** Most of my background is in digital growth, spent 20 years in that space, just helping brands diversify their channels.
+
+**Kyle Gaudreau:** Usually they are spending too much on paid search, need to figure out how to get away from that, and usually that's why I would be brought on.
+
+**Kyle Gaudreau:** Jason, I remember you talking about, think you mentioned something in the channel recently about Trey.
+
+**Kyle Gaudreau:** I was leading growth at Trey for almost three years.
+
+**Kyle Gaudreau:** Oh, perfect, yeah.
+
+**Kyle Gaudreau:** I know that gang quite well.
+
+**Kyle Gaudreau:** So if you ever need anything, get any attention over there.
+
+**Kyle Gaudreau:** I know some people like Niels quite well, who are just like amazing power users.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** So, you know, just let me know.
+
+**Kyle Gaudreau:** No, it's always good.
+
+**Jason Beltran:** We're talking to them about upgrading the enterprise right now.
+
+**Jason Beltran:** Okay.
+
+**Jason Beltran:** Some of their agentic builders to help out throughout their organization.
+
+**Jason Beltran:** I like what they're doing.
+
+**Jason Beltran:** It's an interesting pivot.
+
+**Kyle Gaudreau:** I hope it feels well.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Anyways, yeah.
+
+**Kyle Gaudreau:** Happy to be a part of you.
+
+**Kyle Gaudreau:** For us.
+
+**Jason Beltran:** It's exciting because, yeah, there's a lot of interesting capabilities there.
+
+**Kyle Gaudreau:** Totally.
+
+**Kyle Gaudreau:** Sounds fun.
+
+**Kyle Gaudreau:** Great.
+
+**Darrell Etherington:** Cool.
+
+**Darrell Etherington:** Well, I think then we'll just jump into the actual agenda first, and then we can address some of the other stuff we were talking about.
+
+**Darrell Etherington:** Ehtisham, you want to kick us off?
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** So we did 25 more articles.
+
+**Ehtisham Hussain:** I have started listing them here because now there are so many that we're going to lose track.
+
+**Ehtisham Hussain:** Yeah.
+
+**Ehtisham Hussain:** So we did 25 more articles.
+
+**Ehtisham Hussain:** These articles also contain the social media posts for them at the bottom.
+
+**Ehtisham Hussain:** Like once the article's finished, then we included it within the document.
+
+**Ehtisham Hussain:** They also have the meta details, the target keyword, the summary, key takeaways.
+
+**Ehtisham Hussain:** So it's now like a fully fleshed out one document for everything.
+
+**Ehtisham Hussain:** And yeah, so that's pretty much the big update.
+
+**Ehtisham Hussain:** Other than that, we still have the...
+
+**Ehtisham Hussain:** Sunbit AI thing is a work in progress, and yeah, everything else is taken care of.
+
+**Ehtisham Hussain:** So what I'm trying to do, one thing that I want to do is get ahead in terms of topics, and my plan is to, because this week we did run out of topics very quickly, I did 10 more, then 10 more, then 5 more, and so on.
+
+**Ehtisham Hussain:** So what I'm going to try to do is try to get ahead and try to at least post 50 or 100, so we can have a bunch of topics planned out for the coming month.
+
+**Ehtisham Hussain:** Do you guys still want to focus on the B2C Dental and B2C Auto?
+
+**Ehtisham Hussain:** Yeah, yeah, yeah, yeah.
+
+**Jason Beltran:** Yeah, we'll continue to hammer that home.
+
+**Jason Beltran:** I think our competition when it comes to, like, keyword density around, especially, like, dental is care credit in their WellU, which was one of the competitors we looked at right away, and they just, like, they have a lot.
+
+**Jason Beltran:** A lot of articles, so I kind of want to, that's who our competition is.
+
+**Jason Beltran:** They're the ones who get referenced the most, and yeah, we want to overtake them eventually.
+
+**Jason Beltran:** All right.
+
+**Jason Beltran:** Great.
+
+**Darrell Etherington:** And then just a side note on the AI, the Sunbit AI piece.
+
+**Darrell Etherington:** So I don't know if you had a chance to talk to Marcel about that, because I think we discussed that last time, but we can make sure that we get something on the calendar, because I do think that it would require or would benefit from a more deep dive direct attention thing, and Kyle can help facilitate that, right?
+
+**Darrell Etherington:** Since it's a significant build out, and like we talked about with Jacob's kind of suggestion of the C3 AI as a model of that.
+
+**Darrell Etherington:** So, yeah, if you haven't chatted with him, I was just going to check and make sure, and then...
+
+**Darrell Etherington:** No, no, it hasn't come up, so I haven't chatted with anyone about that, so yeah.
+
+**Jason Beltran:** Looking forward to that conversation.
+
+**Jason Beltran:** Okay, great.
+
+**Jason Beltran:** Cool.
+
+**Jason Beltran:** Should we move on to just like my quick agenda point?
+
+**Jason Beltran:** Yeah, yeah, that'd be great.
+
+**Jason Beltran:** All right.
+
+**Jason Beltran:** So I just want to show the structure of our blogs and kind of what we're doing, especially since we're going to automate a lot of this.
+
+**Jason Beltran:** Let's see here.
+
+**Jason Beltran:** So when we're building up the blogs, this is kind of what it looks like.
+
+**Jason Beltran:** So we'll get a nice image.
+
+**Jason Beltran:** We always, we try to stay within our color family.
+
+**Jason Beltran:** The summary is what we have up top.
+
+**Jason Beltran:** It's pretty brief, just like maybe three sentences.
+
+**Jason Beltran:** And this is all supposed to just be LLM friendly.
+
+**Jason Beltran:** And then the key takeaways as well are very brief and really optimized for LLMs.
+
+**Jason Beltran:** So when we look at the key takeaways in the summary and we compare it to.
+
+**Jason Beltran:** To, let's see here, what was provided, I think we need to just kind of match that format of the summary, which is basically the excerpt, which is like two to three sentences, and then the key points that are a little bit more brief than what we have here.
+
+**Jason Beltran:** Because I think really the target audience for the summary and the key points are LLMs, not the readers as much.
+
+**Jason Beltran:** And then I want them to kind of like get into the content from a reader perspective and not like have too much information provided in the overview and key points.
+
+**Jason Beltran:** Yeah, that makes sense.
+
+**Darrell Etherington:** I'm curious, like, this is just not something that I have any information about, but like, I'm curious if you could do a, like, hider element, like even just a simple JavaScript thing for those elements, like for when reader hits, but those are visible to LLM.
+
+**Darrell Etherington:** don't know if you've.
+
+**Darrell Etherington:** Yeah, that's, that's possible.
+
+**Jason Beltran:** That's our agency about that.
+
+**Jason Beltran:** I I don't know.
+
+**Kyle Gaudreau:** My two cents on this is, like, I think this could certainly benefit humans as well and serve both sides.
+
+**Kyle Gaudreau:** So, you know, a good summary of good bullets should draw someone in.
+
+**Kyle Gaudreau:** This is what this is about.
+
+**Kyle Gaudreau:** Let me make sure I want to dive deeper.
+
+**Kyle Gaudreau:** And so I think there's a way of striking the balance of those worlds.
+
+**Kyle Gaudreau:** Yeah, I agree.
+
+**Jason Beltran:** The way it's formatted, I just don't want it to be, like, this is really supposed to be just, like, brief.
+
+**Jason Beltran:** So before you come in, it's like, okay, here's what the article's about and here's some of topics.
+
+**Jason Beltran:** And then I get in.
+
+**Jason Beltran:** I don't want it to be, like, too overwhelming before they get into the actual content at the very top.
+
+**Jason Beltran:** So I'm just trying to balance that.
+
+**Kyle Gaudreau:** Yeah, that makes sense.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** So, you know, something also to consider of how to blend those into the mix, potentially.
+
+**Kyle Gaudreau:** Sorry.
+
+**Ehtisham Hussain:** Yes, like I come from like a really old school free AI thing, like I think most of us do.
+
+**Ehtisham Hussain:** So most of the heat maps, like the reader heat map that we used to study for content marketing, they showed that there's an F pattern, F reading pattern for most readers and they have the first sentence.
+
+**Ehtisham Hussain:** So if you're doing, if you're putting the text meant for LLMs on top, and if it disengages the human reader, the time on page is going to list read.
+
+**Ehtisham Hussain:** That's one thing that can happen.
+
+**Ehtisham Hussain:** So maybe it would be worth it to A-B test some pages and place the summary and key takeaways as Darrell suggested.
+
+**Ehtisham Hussain:** And we can use the actual intro meant for the humans up top to keep them engaged.
+
+**Ehtisham Hussain:** Yeah, we'll think about that.
+
+**Jason Beltran:** Because I think with the LLMs, they're not going to read the summary and the key takeaways at the bottom.
+
+**Jason Beltran:** So the whole purpose is their chunking methodology.
+
+**Jason Beltran:** So the LLMs are coming in, reading what's at the top and saying, oh, is this relevant information?
+
+**Jason Beltran:** Should I go and place my tokens on the rest of the information?
+
+**Kyle Gaudreau:** Exactly.
+
+**Jason Beltran:** It's not going to make that decision if the summary is at the bottom.
+
+**Kyle Gaudreau:** Yeah, they're just inherently going to be lazy because of how they have to, you know, manage compute.
+
+**Kyle Gaudreau:** Yeah, it's optimizing for tokens.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** So, yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Jason Beltran:** So that's, I think the summary and the key points at the top, we want to maintain that.
+
+**Jason Beltran:** It's just really kind of striking that balance of making sure that they're not, like, because we already have, like, very content-rich articles, which is great.
+
+**Jason Beltran:** But I don't want to add to that with, like, a very in-depth key point, very in-depth summary.
+
+**Jason Beltran:** I want to keep those as brief as possible.
+
+**Jason Beltran:** Right.
+
+**Jason Beltran:** I mean, I think there's...
+
+**Kyle Gaudreau:** There's...
+
+**Kyle Gaudreau:** There's...
+
+**Kyle Gaudreau:** You know, basic concepts of user engagement, CRO, we can apply here, right?
+
+**Kyle Gaudreau:** Like, one of the first things people are going to be doing is reading headlines and bullets or just snapshots to try to validate, are they in the right place?
+
+**Kyle Gaudreau:** Is this going to fulfill the intent I have behind, I landed somewhere, is this relevant to me?
+
+**Kyle Gaudreau:** And so how we actually, like, think about that and optimize towards that, we can experiment, like, what that looks like.
+
+**Kyle Gaudreau:** and then naturally, that's kind of, in my mind, can lift all boats if we do it in the right way.
+
+**Kyle Gaudreau:** But, you know, we'll see, like, you know, we should absolutely experiment with this and, like, see if we can find our own results and how is it being referenced and that nature.
+
+**Jason Beltran:** And what I want to do is just kind of get that, whatever that style is, set in before we do the automation.
+
+**Jason Beltran:** Because once we start automating, we're not going to have, like, as much of that human oversight to go in and say, like, oh, these key points, there's too many of them.
+
+**Jason Beltran:** Or it looks like too cluttered within our blog style.
+
+**Jason Beltran:** So I just want to make sure that we're trying to look at that and accomplish it beforehand.
+
+**Jason Beltran:** And it's also, when we think about, and this is, I want to think about this visually as well.
+
+**Jason Beltran:** So if the key takeaways are multiple sentences, you get here and you see how it's kind of compressed.
+
+**Jason Beltran:** And this is on desktop.
+
+**Jason Beltran:** But you have to scroll a little bit before you get to the actual content.
+
+**Jason Beltran:** If these are, if it's too cluttered, you know, this scrolling action will take even more time to get to the content.
+
+**Jason Beltran:** And then also, like, you know, and again, this is all we have to test.
+
+**Jason Beltran:** But thinking through what you had just mentioned as far as, like, people want to, like, hey, they'll read the title and say, okay, is this worth my while?
+
+**Jason Beltran:** They're not going to be reading in depth.
+
+**Jason Beltran:** So it's kind of more of, like, what are those top, like, quick hits today?
+
+**Jason Beltran:** And catch their attention and then pull them down to read the rest of the content.
+
+**Jason Beltran:** But I think overall, like, it's not, you know, this is just stylistic and we can figure out what's best over time.
+
+**Jason Beltran:** But I do want to just, like, as we're working on the automations, just have that top of mind.
+
+**Jason Beltran:** Dumb new guy thing here.
+
+**Kyle Gaudreau:** I just couldn't help but notice — why do we have Knowledge Center twice in the folder structure?
+
+**Jason Beltran:** I was just checking on my phone to make sure it was.
+
+**Kyle Gaudreau:** Yeah, that was updated.
+
+**Kyle Gaudreau:** Let's see here.
+
+**Jason Beltran:** No, that shouldn't.
+
+**Jason Beltran:** You're essentially, like, pushing your content down a path.
+
+**Kyle Gaudreau:** Yeah, no, that's something interesting.
+
+**Jason Beltran:** Because we did update that.
+
+**Jason Beltran:** And I don't know why it's there twice.
+
+**Jason Beltran:** That's something I'll address with our website.
+
+**Jason Beltran:** website.
+
+**Jason Beltran:** Agency.
+
+**Jason Beltran:** Good eye on that.
+
+**Kyle Gaudreau:** Cool, cool.
+
+**Kyle Gaudreau:** Yeah, we should keep an eye on that just to see what's happening.
+
+**Kyle Gaudreau:** SiteMap-wise, potential redirects, whatever they need.
+
+**Jason Beltran:** I'm going to, I'm slacking our website agency about that.
+
+**Jason Beltran:** Sounds good.
+
+**Kyle Gaudreau:** Appreciate it.
+
+**Jason Beltran:** Yeah, that's a really good call.
+
+**Kyle Gaudreau:** In general, sorry, I don't know if I'm derailing this here, but just like I'm trying to lean into my fresh perspective here a little bit.
+
+**Kyle Gaudreau:** How is that form you have on the side of the blog converting?
+
+**Jason Beltran:** We just launched this form, so I don't have complete data yet. I looked at what we have so far.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Jason Beltran:** And these are only for our, so we have our B2C side, which is primarily what we're trying to work towards, but our B2B team also want to kind of take advantage of this.
+
+**Jason Beltran:** So I think we have like 25 blogs that we've built for them.
+
+**Jason Beltran:** And what they're doing is they're actually pushing paid traffic towards these blogs.
+
+**Jason Beltran:** Oh, interesting.
+
+**Kyle Gaudreau:** Yeah.
+
+**Jason Beltran:** And so that's why the forum is there.
+
+**Jason Beltran:** Yeah.
+
+**Jason Beltran:** Not that I'm opposed to it at all or anything like that.
+
+**Kyle Gaudreau:** I was more just thinking we could talk about this later — different ideas on how to present that might give you more impact. Sometimes when you just show the form in that way, at least in the experiments I've run, it gets people's mind on the wrong things too quickly by making them focus on all these fields.
+
+**Jason Beltran:** And I think they went through a few rounds of designing it. Whenever you're working with demand gen folks, you've got to figure out how to balance it, because they're all just thinking about leads.
+
+**Jason Beltran:** Oh, yeah, totally.
+
+**Kyle Gaudreau:** Hey, I was one of those people.
+
+**Kyle Gaudreau:** So I, but I used to, I had to kind of try to make sure I was, you know, serving a lot of different people with that.
+
+**Kyle Gaudreau:** Yeah, yeah.
+
+**Jason Beltran:** So, yeah, that's kind of, yeah, separate conversation.
+
+**Jason Beltran:** Yeah, yeah, for sure.
+
+**Kyle Gaudreau:** Just something that popped up, you know, curious as we get more data.
+
+**Kyle Gaudreau:** I'll just throw it out there.
+
+**Kyle Gaudreau:** I'm happy to provide ideas as it evolves.
+
+**Kyle Gaudreau:** Yeah, yeah.
+
+**Angel Kemper:** Cool.
+
+**Jason Beltran:** Anything else?
+
+**Jason Beltran:** I don't think so.
+
+**Darrell Etherington:** Ehtisham, did you have anything else you wanted to talk about today?
+
+**Ehtisham Hussain:** No, I've noted down the summary and the keyword action item to make them even shorter. That's pretty much it. We'll work on the next batch for the next week.
+
+**Jason Beltran:** And we're going through and we're knocking out manually, like posting all these blogs.
+
+**Jason Beltran:** One of the things I do want us to start addressing at least in the maybe in the next month or so is, you know, we spend a lot of time focusing on content in these meetings and we haven't really talked about reporting very much.
+
+**Jason Beltran:** So that's something that I think I would like to get back to just because of like what we're talking about right now is, you know, we're just, you know, basically providing, you know, thoughts and insights, but we haven't really dug into the reporting.
+
+**Jason Beltran:** Yep.
+
+**Jason Beltran:** So I think that would be a good next step.
+
+**Darrell Etherington:** Yeah, absolutely.
+
+**Darrell Etherington:** Yeah, I've taken this down too.
+
+**Angel Kemper:** I didn't get a chance to look at all of the social topics because I'm just getting caught up from being back from vacation, but I did glance at a couple.
+
+**Angel Kemper:** I do have some just kind of instant kind of reactions to them.
+
+**Angel Kemper:** I think we're still not aligned on it.
+
+**Angel Kemper:** And so I'm happy to like, if we need to set up a dedicated time to talk about that, or if we want to spend the rest of this time talking about it, that's fine.
+
+**Angel Kemper:** You know, happy to provide like any additional insights or information, but like off the top of my head, like what I'm looking at, and maybe this is something we need to think about, Jason, when we're doing these social posts from the blogs is, do we want the duplicate content across Instagram and Facebook as we're doing today?
+
+**Angel Kemper:** Or in this instance, the team here is actually producing like unique posts to the different channels.
+
+**Angel Kemper:** So, you know, I'm open to whichever idea.
+
+**Angel Kemper:** It's just, I know right now we've been replicating the same post across our current channels, just for consistency's sake, with a slightly different call to action.
+
+**Angel Kemper:** Obviously, Instagram, you cannot click, Facebook, you can, right?
+
+**Angel Kemper:** So that was one mention that I wanted to kind of call out.
+
+**Angel Kemper:** Also, I see that you guys are doing LinkedIn and Twitter or X as well.
+
+**Angel Kemper:** And as of right now, for this type of content, we're not posting to those profiles.
+
+**Angel Kemper:** We're only focused on our Instagram and Facebook fintech profiles.
+
+**Angel Kemper:** So we can probably discontinue the X and LinkedIn content.
+
+**Angel Kemper:** Just don't want to waste time or efforts towards that.
+
+**Angel Kemper:** And then I think that I noticed, like, it is, I guess, maybe for now, it's just like one sliver of content for the social posts where we're trying to kind of, I don't know if doing a series.
+
+**Angel Kemper:** These make sense or something, but we do try to kind of rinse and repeat.
+
+**Angel Kemper:** So like we want to continue to post on social channels like a few different like fun little blurbs about the same blog on different days.
+
+**Angel Kemper:** So I'm not sure if maybe this is just because we're getting it set up and like working through it and trying to figure out a good like groove.
+
+**Angel Kemper:** And that's fine.
+
+**Angel Kemper:** can talk about like expanding that content later.
+
+**Angel Kemper:** I think first we still just need to really hone in on like what is the content that we're going for?
+
+**Angel Kemper:** Because I do think there's some opportunity there.
+
+**Angel Kemper:** Also final point is the captions are like hit or miss.
+
+**Angel Kemper:** think some of them are pretty good just again from what I've glanced at.
+
+**Angel Kemper:** Some of them are a bit lengthy and like really tell a story and that's kind of cool because like we do like these Sunbit Presents like animated clips.
+
+**Angel Kemper:** So maybe we can repurpose those longer.
+
+**Angel Kemper:** Ones into something like that, kind of got my gears turning a little bit there.
+
+**Angel Kemper:** But all in all, they are just like static image posts where we have a really attractive image with like a text overlay that's going to draw the viewer in.
+
+**Angel Kemper:** And then the copy or the content itself is, you know, the quick blurb.
+
+**Angel Kemper:** And then the call to action is, you know, click here to learn more, whatever it is, taking them back to the blog.
+
+**Angel Kemper:** So I think just at a super, I know that was a lot that I just spit out, but like at a super high level, that's really what we're trying to tackle with these.
+
+**Angel Kemper:** So just kind of open to suggestions, feedback.
+
+**Angel Kemper:** And again, Jason, if it's something we want to consider of doing like more unique posts across Instagram and Facebook for the same topic, I'm open to that.
+
+**Angel Kemper:** It's just what we had been doing was repeating the same content just for the sake of consistency.
+
+**Angel Kemper:** Yeah.
+
+**Angel Kemper:** And for me, when it comes to social, I think I'm open.
+
+**Jason Beltran:** anything, it's all kind of like early, early times as far as establishing our social presence.
+
+**Jason Beltran:** And then, you know, we're going to start doing our big follower campaign soon.
+
+**Jason Beltran:** So, yeah, like, I don't want us to get too stuck in the habit if there's a better way of doing things.
+
+**Jason Beltran:** Exactly.
+
+**Darrell Etherington:** Yeah, yeah, I think, I mean, just generally it is, does make sense to do a different message for each platform, like, and have it, like, tailored.
+
+**Darrell Etherington:** And voice and tone and structure, like, versus just kind of replicating.
+
+**Darrell Etherington:** So I would advise that from an engagement perspective.
+
+**Darrell Etherington:** And then we can definitely customize the social flows.
+
+**Darrell Etherington:** I know we were working on some in which, like, possibly it just generates as a matter of going through the pipeline, too, like, whatever outputs we want.
+
+**Darrell Etherington:** And we can kind of, like, checkbox in and out, like, which ones do we want, right?
+
+**Darrell Etherington:** So if we want X, if we want LinkedIn, if Facebook, it will do one of each.
+
+**Darrell Etherington:** But, yeah.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** Definitely, we're still, like, working on calibrating these.
+
+**Darrell Etherington:** So, Angel, any guidance that you want, like, this is all very helpful and captured, what you've already provided, but provide as much or as little as you want to, and we can adjust and then continue to adjust and evolve those for sure.
+
+**Darrell Etherington:** Because there are really useful pipelines, frankly, like, across all clients, so any work we do on them is definitely of, like, high value to us, and we're really motivated to get them right.
+
+**Darrell Etherington:** Yeah, and make sure that they can, like, adapt to the tone that you need and, like, the style that you need, too.
+
+**Darrell Etherington:** So, yeah, happy to work on those more.
+
+**Darrell Etherington:** Awesome.
+
+**Angel Kemper:** Yeah, I will go through all of them, and hopefully before we meet next, like, I'll have a more comprehensive kind of, like, feedback, suggestions, or just notes to provide to y'all, just as more of a direct reference.
+
+**Angel Kemper:** And then I do have a quick question, because I'm just happy to be looking at this one.
+
+**Angel Kemper:** And while we were kind of talking about like the key points and summaries and things like that.
+
+**Angel Kemper:** So one of the blogs, the more recent blogs that you guys mentioned is this, like how to choose the right toothbrush for your oral health needs.
+
+**Angel Kemper:** And it's kind of got all the things that we're discussing. Oh, it's not letting me share my screen.
+
+**Jason Beltran:** Hang on one sec.
+
+**Jason Beltran:** Here we go.
+
+**Angel Kemper:** it's kind of got like all the points that we've been talking about in terms of like what to show on the document while we're manually pushing this information through.
+
+**Angel Kemper:** Is this pretty standard to like, are we, are we moving towards a more like bulleted, heavy, like I'm kind of ignorant to this topic.
+
+**Angel Kemper:** So I'm genuinely asking, like, are we going to start seeing more blogs that are like this or is this specific to this topic?
+
+**Angel Kemper:** Because to me, this is really odd. Visually, a heavy bulleted list is unappealing, and as I keep scrolling down, it's just nonstop bullets.
+
+**Darrell Etherington:** Yeah, this one seems unorthodox versus our usual.
+
+**Darrell Etherington:** I mean, Ehtisham, we can talk about what the actual generation process was for this one specifically, because it's not usually this broken up.
+
+**Angel Kemper:** Like we've seen tables and stuff too, I know, which they're fine.
+
+**Angel Kemper:** It's kind of a pain for us to format into our system, into our template, but it's totally fine.
+
+**Angel Kemper:** Like at least you can digest the content a lot easier in that format.
+
+**Angel Kemper:** But I'm honestly way behind on my SEO and LLM knowledge as well.
+
+**Angel Kemper:** So I don't know if this is what like, this is like a green light strategy or not.
+
+**Angel Kemper:** And then obviously these "mistakes to avoid" sections seem kind of incomplete in their formatting.
+
+**Darrell Etherington:** Yeah, there is some evidence to suggest that LLMs like this format. I know there was a test pipeline that was designed with best practices for LLM ingestion that looked kind of like this.
+
+**Darrell Etherington:** I don't think that's what's happening here. I think this is a relic of an older pipeline that we had because they used to do a lot of this, and then we had to include specific counter-instructions to not get so atomized with all the bulleting and slicing up of content.
+
+**Darrell Etherington:** So that's what I think has happened here, but yeah, we can confirm for sure.
+
+**Ehtisham Hussain:** Let me go through these after this meeting, and I'll quickly go through this one as well as a couple of other ones to see if there are too many bullets.
+
+**Angel Kemper:** Okay, that would be great and helpful, and actually that reminded me of one more thing.
+
+**Angel Kemper:** I know we're coming right up on two minutes left, but in the OS table, is there a way to add a date or timestamp column?
+
+**Angel Kemper:** I was playing with the hidden fields, and I tried the date column, but nothing generated there when I unhid that.
+
+**Angel Kemper:** It's getting to be really difficult to see, like, which batch came from which month.
+
+**Angel Kemper:** I know we're behind, and we're doing our best to catch up, and you guys are doing great pushing stuff out, so kudos there.
+
+**Angel Kemper:** But for the sake of our sanity, like, it's just kind of tough to see, like, which articles were from June, July, et cetera, or even which was last updated.
+
+**Angel Kemper:** Because as we have these conversations, and then we're making, like, live changes to existing content or content moving forward, it would just be helpful to kind of have an understanding of what was touched when, when was it delivered, et cetera.
+
+**Angel Kemper:** If that's possible, I think that would be very helpful in our prioritization, too.
+
+**Darrell Etherington:** Yeah, we can definitely add fields, for, like, generate a date, and then maybe, like, last touched or last updated date or something like that.
+
+**Darrell Etherington:** Perfect.
+
+**Darrell Etherington:** Excellent.
+
+**Darrell Etherington:** Thank you.
+
+**Angel Kemper:** I think that's everything.
+
+**Darrell Etherington:** That was productive and good.
+
+**Jason Beltran:** Darrell, we'll miss you. Stay in touch.
+
+**Jason Beltran:** Yeah, I'll be around. Otherwise, yeah.
+
+**Darrell Etherington:** Yeah, you can always hear me yapping on Slack, so that's fine.
+
+**Darrell Etherington:** It's all right.
+
+**Darrell Etherington:** Thanks, everyone.
+
+**Darrell Etherington:** Thanks, everyone.
+
+**Darrell Etherington:** Bye.
+
+**Darrell Etherington:** Bye.

@@ -1,0 +1,1440 @@
+# GrowthX Demo — Menlo Ventures Marketing & Content Team
+
+<metadata>
+date: 2025-09-17
+time: 19:30 UTC
+duration: 63 minutes
+organizer: Marcel Santilli
+participants: Marcel Santilli, Daniel Lopes, Tiffany Spencer, Darcy Yee, Diane Bilski, Jasmine Rainey, Derek Xiao
+fathom_recording_id: 88009617
+fathom_url: https://fathom.video/calls/412408722
+share_url: https://fathom.video/share/Wc2nk-gz97-_ggfVzKmEVszYdt5cE934
+source: fathom
+enriched_on: 2026-03-03 01:20 UTC
+</metadata>
+
+---
+
+## Summary
+
+Marcel Santilli and Daniel Lopes from GrowthX presented their AI-powered content creation platform to Menlo Ventures' marketing team, led by Tiffany Spencer. The discussion centered on how GrowthX combines AI workflows with human expertise to help VCs and portfolio companies create high-quality, credible content at scale — a particular challenge for partnership-driven organizations like Menlo where expert insights are often siloed. GrowthX outlined their 8-week strategy sprint model, real-world case studies from Marcel's career (IBM, HP, DeepGram), and emerging tools to monitor AI visibility and content decay. The team explored potential applications for Menlo's portfolio companies and discussed how to evolve Menlo's content strategy amid rapid shifts in AI-driven search and distribution.
+
+---
+
+## Context
+
+Menlo Ventures is a multi-stage venture capital firm investing across consumer, enterprise, and fintech. Tiffany Spencer, who joined from Bessemer Venture Partners (6 years) and comes from video game marketing, leads their marketing function and oversees comms, brand, and content strategy. She's supported by a lean team: Darcy Yee (recently joined from Lyft and Opendoor, in her third day), Diane Bilski (leads creative services, 6 years at Menlo), Jasmine Rainey (marketing operations and support), and Derek Xiao (investor and thought leader who has authored or co-authored 8 of Menlo's top 10 pieces of content). Unlike product-driven companies, Menlo's "product is its perspective" — their main distribution channel is trust-building content and thought leadership from their investor partners. However, they face a persistent bottleneck: expert insights and contrarian thinking are locked in the heads of individual investors, and the team lacks systematic processes to capture, amplify, and scale that expertise into publishable content without requiring heavy investor time investment. This is where GrowthX's platform and methodology directly address their challenge.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Menlo represents a high-fit customer: partnership-driven org with strong thought leadership but limited in-house capacity to systematize content production — exactly GrowthX's use case.
+- Derek Xiao (investor and top content author) is the ideal internal champion who can both articulate expertise and champion new workflows.
+- Tiffany Spencer's background in product launches (video games) and multi-channel content strategy (reports → speaking → press → graphics) aligns perfectly with GrowthX's content-as-distribution model.
+- Confirmed pain point: even when farming out writing to external ghostwriters, investor satisfaction drops without deep feedback loops — GrowthX's workflow of context engineering + human-in-the-loop addresses this directly.
+
+**To GrowthX Business Development:**
+- Menlo is a well-funded, marquee investor with ~50 portfolio companies — potential for portfolio company expansion (Obsidian mentioned as case study candidate).
+- Tiffany's 13 years in content/marketing (games + Bessemer + Menlo) makes her a strong reference; Derek's track record as a prolific thought leader creates case study potential.
+- Menlo's content calendar and quarterly/annual report cycles offer predictable engagement and upsell opportunities.
+- Potential to license GrowthX's CheckThat AI visibility tools to monitor performance of Menlo's published content across LLMs and AI search.
+
+**To CheckThat / AI Visibility Research:**
+- Menlo's use case (VC thought leadership + portfolio company support) is a perfect upstream test for CheckThat's monitoring capabilities.
+- Opportunity to study how VC content (reports, perspectives, thought leadership) performs in AI-generated answers across Google, Perplexity, and other LLM platforms.
+- Derek Xiao's top 10 pieces of content could be baseline case studies for content-structure impact analysis mentioned in the 100,000+ prompt study.
+
+---
+
+## Overview
+
+- GrowthX offers an AI-driven content engine that combines expert knowledge, AI workflows, and human oversight to produce high-quality, targeted content at scale
+- The platform addresses common content creation challenges: quality control, subject matter expertise, and adapting to rapidly changing AI/SEO landscapes
+- GrowthX's approach involves an 8-week strategy sprint to align on goals, quality standards, and workflows before full engagement
+- The service is best suited for companies with urgent growth needs, large content catalogs needing refresh, or those starting content strategies from scratch
+
+---
+
+## Key Topics
+
+### GrowthX Platform Overview
+
+  - Combines AI workflows with human expertise to create high-quality content
+  - Uses "context engineering" to capture company/industry-specific knowledge
+  - Offers customizable writing guidelines, fact-checking, and expert review processes
+  - Adapts to different content types: informational, comparisons, programmatic pages, refreshes
+
+### Content Strategy and Execution
+
+  - Focuses on building trust and credibility through thought leadership
+  - Emphasizes creating comprehensive, fresh content to improve AI visibility and SEO
+  - Utilizes deep research and fact-checking to ensure accuracy and authority
+  - Offers content repurposing and multi-channel distribution strategies
+
+### AI and SEO Landscape
+
+  - Monitors changes in AI answer generation across platforms (Google, Perplexity, etc.)
+  - Developing tools to track website performance and LLM visibility
+  - Planning broad study of 100,000+ prompts to understand content structure impact on AI visibility
+
+### Client Onboarding and Success Factors
+
+  - 8-week strategy sprint to align on goals, quality standards, and workflows
+  - Identifies ideal client profile based on publishing experience, budget alignment, and strategy buy-in
+  - Success often tied to client's ability to provide input and approve content efficiently
+
+### Challenges and Solutions
+
+  - Addressing content decay in large catalogs due to AI answers' impact
+  - Balancing AI-generated content with human expertise for quality assurance
+  - Adapting to rapid changes in AI/SEO landscape through continuous research and monitoring
+
+---
+
+## Action Items
+
+- **Tiffany Spencer (Menlo Ventures):** Consider potential use cases for GrowthX services within Menlo's content strategy and portfolio company support
+- **Marcel Santilli (GrowthX):** Share presentation deck and platform walkthrough with Menlo team
+- **Tiffany Spencer & Derek Xiao (Menlo Ventures):** Explore follow-up on how GrowthX might support Menlo's portfolio companies (e.g., Obsidian) with content strategy
+- **Menlo Ventures team:** Explore GrowthX's ALNgrowth.com community for additional industry insights and thought leadership resources
+
+---
+
+## Transcript
+**Marcel Santilli:** I am right now in the office, which is in San Francisco, but I live in Oakland in the Bay, just in the East Bay, yeah.
+
+**Darcy Yee:** Oh, okay.
+
+**Darcy Yee:** I'm in San Francisco, too.
+
+**Marcel Santilli:** Oh, nice, nice.
+
+**Marcel Santilli:** Yeah, we're just across the street from the Blue Ball in South Park.
+
+**Darcy Yee:** Oh, I guess that's right where our office is, actually.
+
+**Marcel Santilli:** Yeah, yeah, I walk by sometimes and I'm like, oh, I wonder if anybody's in there.
+
+**Marcel Santilli:** Yeah.
+
+**Darcy Yee:** Awesome.
+
+**Marcel Santilli:** Yeah, this is Daniel, CTO co-founder.
+
+**Daniel Lopes:** Nice to meet you, Darcy.
+
+**Darcy Yee:** Hi, Daniel.
+
+**Darcy Yee:** Nice to meet you.
+
+**Marcel Santilli:** How long have been at Menlo?
+
+**Darcy Yee:** This is only my third day.
+
+**Marcel Santilli:** I just joined this week.
+
+**Daniel Lopes:** What?
+
+**Marcel Santilli:** That's awesome.
+
+**Darcy Yee:** Congrats.
+
+**Darcy Yee:** Thank you so much.
+
+**Marcel Santilli:** What were you up to before?
+
+**Darcy Yee:** I was previously at two different tech companies. I was at Opendoor and then I was at Lyft right before that.
+
+**Marcel Santilli:** Oh, no way. Did you cross paths?
+
+**Darcy Yee:** Yes. So one of our head of design ran at Lyft for one.
+
+**Marcel Santilli:** Wow. Um, he was at Lyft. I don't know if you guys worked together, but yeah, definitely. We had someone there.
+
+**Darcy Yee:** I had a really big comms team at Lyft, but I'm not sure if he remembers me. We would always work with design on a lot of things.
+
+**Marcel Santilli:** That's so cool. That's awesome. Well, I'll tell him we connected.
+
+**Darcy Yee:** Yeah, I'll have to say something if I see him. Thanks.
+
+**Darcy Yee:** was like, maybe there's a chance.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** That's really cool.
+
+**Darcy Yee:** But yeah.
+
+**Marcel Santilli:** Congrats on the new gig.
+
+**Darcy Yee:** Oh, thank you so much.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Hi.
+
+**Diane Bilski:** Hi.
+
+**Marcel Santilli:** How are you?
+
+**Diane Bilski:** Good.
+
+**Marcel Santilli:** How are you?
+
+**Marcel Santilli:** Really good.
+
+**Marcel Santilli:** Great to connect.
+
+**Marcel Santilli:** Hey, Derek.
+
+**Marcel Santilli:** How are you?
+
+**Derek Xiao:** So nice to see you.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Likewise.
+
+**Marcel Santilli:** Are you in the San Francisco office?
+
+**Derek Xiao:** Yeah, that's right.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So I can probably throw a rock at you from across the street kind of thing, you know?
+
+**Derek Xiao:** Are you guys down the street?
+
+**Marcel Santilli:** We're just in front of Blue Bottle.
+
+**Derek Xiao:** wow.
+
+**Derek Xiao:** Crazy.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** We're literally right next door.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So the second floor of where Toyota Ventures is, we're the entire second floor.
+
+**Derek Xiao:** Okay.
+
+**Marcel Santilli:** Gotcha.
+
+**Marcel Santilli:** Gotcha.
+
+**Marcel Santilli:** I'll wave, you know.
+
+**Derek Xiao:** I'll see you in the background.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** But awesome to connect.
+
+**Marcel Santilli:** Well, figure maybe before we jump in and stuff like that, we'll love to just do maybe a quick round of intros in your end, and then we're happy to do the same on our end.
+
+**Marcel Santilli:** Do you think it makes sense?
+
+**Tiffany Spencer:** Sorry.
+
+**Tiffany Spencer:** I don't know if I'm showing up at the top for you guys, but I'm on the top of my gallery view.
+
+**Tiffany Spencer:** So I'm Tiffany.
+
+**Tiffany Spencer:** I'm the head of marketing at Menlo.
+
+**Tiffany Spencer:** So I oversee comms, digital, brand, all of that fun stuff.
+
+**Tiffany Spencer:** I've been at Menlo for about seven years.
+
+**Tiffany Spencer:** I was at Bessemer for six years before that.
+
+**Tiffany Spencer:** And prior to that, I was in video games.
+
+**Tiffany Spencer:** So I can sort of represent.
+
+**Tiffany Spencer:** And both sort of a services business and a product-driven business as we kind of look through this.
+
+**Marcel Santilli:** Yeah, that's really cool.
+
+**Marcel Santilli:** Nice to connect.
+
+**Tiffany Spencer:** Darcy and then Diane and then Jasmine and Derek.
+
+**Tiffany Spencer:** Does that work?
+
+**Darcy Yee:** Yeah, I'm Darcy.
+
+**Darcy Yee:** think I introduced myself a little earlier.
+
+**Darcy Yee:** I just joined this week.
+
+**Darcy Yee:** I'm really excited to get started, but I'll be supporting Tiffany on marketing and comms.
+
+**Diane Bilski:** I'm Diane.
+
+**Diane Bilski:** I lead creative services.
+
+**Diane Bilski:** I've been with Menlo for six years, two years as a contractor, four years full-time.
+
+**Diane Bilski:** I work with marketing mostly internally, marketing the firm.
+
+**Diane Bilski:** And then I also work on finance stuff.
+
+**Diane Bilski:** So I kind of straddle those two departments.
+
+**Diane Bilski:** So I'll pass it on.
+
+**Jasmine Rainey:** Hi, guys.
+
+**Jasmine Rainey:** I'm Jasmine.
+
+**Jasmine Rainey:** I support Diane and Tiffany.
+
+**Jasmine Rainey:** I'm the connecting piece for them, too.
+
+**Jasmine Rainey:** So if you want to talk to them, got to go through me.
+
+**Jasmine Rainey:** I've worked in marketing for quite a few years now, and I'm also a marketing assistant on the Menlo team.
+
+**Derek Xiao:** Cool.
+
+**Derek Xiao:** And Marcel and Daniel, think we met last time, and so investor here at Menlo.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Super excited to connect.
+
+**Marcel Santilli:** Tiffany, maybe we'd love to kind of just understand a little bit, like, for Menlo, like, what does marketing look like?
+
+**Marcel Santilli:** And, you know, and also just understand, I think you all publish some content as well and do things.
+
+**Marcel Santilli:** And so we'd love to just understand a little bit more context before we...
+
+**Tiffany Spencer:** Yeah, so I would say, you know, the most striking difference between working on the VC side and working when I was in games and more sort of product-driven orgs is that in VC, I guess, in many ways, the...
+
+**Tiffany Spencer:** Our product is our money, and because that's not what we want to be telling stories about, I think of our product as our perspective and our unique thinking, and so we're always trying to package everything within a narrative or point of view.
+
+**Tiffany Spencer:** So we, I think, tend to look at the launch, if we have like a really strong foundational idea or perspective on an industry, the goal on our side is to treat it with kind of a campaign-driven launch strategy.
+
+**Tiffany Spencer:** So much like I would have come up with a launch strategy for a video game back in the day, we do that with our reports and some of our deeper thinking.
+
+**Tiffany Spencer:** Derek is actually our power thought leader in that his content, we were going through all of the analytics recently, and I think of our top 10, he's probably co-authored, and likely even when he's co-authoring, he's authoring.
+
+**Tiffany Spencer:** Spearheading eight out of 10 of the pieces, I think.
+
+**Marcel Santilli:** I love it.
+
+**Tiffany Spencer:** And so we work really closely with him.
+
+**Tiffany Spencer:** You know, on my end, I was trying to do reports when I first joined.
+
+**Tiffany Spencer:** And so it took a little while to sell it into the org.
+
+**Tiffany Spencer:** But I think, you know, now we've found that those really work for us.
+
+**Tiffany Spencer:** And then, you know, I like to, if we have something great to work with, you know, I think it should have nine lives.
+
+**Tiffany Spencer:** It should live as a speaking op, as a press push, as a content piece, as a viral graphic.
+
+**Tiffany Spencer:** Whatever we can do to sort of extract the max value out of it.
+
+**Marcel Santilli:** That makes a ton of sense.
+
+**Tiffany Spencer:** I don't know if that's a good answer, if you have more.
+
+**Marcel Santilli:** Yeah, that's great.
+
+**Marcel Santilli:** And maybe just one promised last question.
+
+**Marcel Santilli:** And then I'm excited to show you all a bunch of things.
+
+**Marcel Santilli:** But what do you think are the biggest bottlenecks right now as far as like kind of getting more high value content?
+
+**Marcel Santilli:** And I think VCs, like you said, right, like it's all about the trust and the credibility that comes from driving the right insights, sharing the right information, the right knowledge.
+
+**Marcel Santilli:** And the right perspective on things.
+
+**Tiffany Spencer:** Yeah, I would say, you know, the biggest challenge is that in a partnership versus a top-down CEO-driven org, you know, we basically have a number of investors who are kind of running their own business.
+
+**Tiffany Spencer:** And individually, don't, Derek, do you agree when you, I see you smiling.
+
+**Tiffany Spencer:** So, you know, it depends on who the investor is, but generally, most of the thinking and perspective lies in their head, is locked in their brain.
+
+**Tiffany Spencer:** And if you're not, if the marketing team isn't there when the conversations are happening, and usually they're not, because, you know, it might be that Derek says something genius in a meeting with a founder, or, you know, something comes up in the partner meeting, which I am in, you know, if you're not there to capture it and kind of tease it out, it's an opportunity that's missed.
+
+**Tiffany Spencer:** The expectation in our industry too, especially in a world where it's really easy to put out content, there's never been more channels and distribution opportunities, and the bar is pretty low.
+
+**Tiffany Spencer:** It's gotten really noisy, so you want to actually deliver something with great value.
+
+**Tiffany Spencer:** You know, at both Bessemer and Menlo, we've worked with different kind of ways to make the process more efficient, and everybody often is like, well, let's just like farm out the writing.
+
+**Tiffany Spencer:** And it turns out when we do that, the investors are generally dissatisfied because they're external, you know, and in order to work really well with a ghostwriter, I think it takes a number of reps.
+
+**Tiffany Spencer:** And it also takes some pretty detailed feedback in the editing cycle, right, where you're like, I'm not crossing out this word because I don't like this word, I'm crossing it out because it changes the meaning of what.
+
+**Tiffany Spencer:** We're saying or something like that.
+
+**Tiffany Spencer:** And most investors, they're just really busy.
+
+**Marcel Santilli:** They don't want to spend time doing that.
+
+**Tiffany Spencer:** And so generally, they'll be like, that writer's dumb, right?
+
+**Tiffany Spencer:** And it's like, oh, they're not dumb.
+
+**Marcel Santilli:** They're great writers.
+
+**Marcel Santilli:** They just don't know our industry well.
+
+**Marcel Santilli:** Yeah, that makes a ton of sense.
+
+**Marcel Santilli:** Well, we'd love to maybe jump in and just kind of share a little bit of the journey, which I don't know how familiar you are, but also just talk a little bit about kind of how we work with some of our customers and also some of the things we've done, if you think that makes sense.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** Well, I'll share.
+
+**Marcel Santilli:** I promise I'll do some demos as well, but I'll share just a quick high level just to give you a little bit of context because I think it's super relevant.
+
+**Marcel Santilli:** So kind of similar to some of you, I've started a career early on in larger enterprises, but also like from day one, I just realized, I think VCs mostly get this.
+
+**Marcel Santilli:** Most brands don't, which is if you don't actually act and think more like a publisher, you actually can't grow and build distribution and build trust with brands or with your customers.
+
+**Marcel Santilli:** And so at IBM, I launched the first publication outside of IBM.com called SecuredIntelligence.com.
+
+**Marcel Santilli:** And actually, the first year, we generated over $17 million in revenue, and we published over 300 pieces of content, really high quality, and it just became the highest ROI thing that the company did for that business unit.
+
+**Marcel Santilli:** And so much so that it actually lasted 15 years, it just got folded back into IBM.com, but it became the model for how IBM.com changed their model.
+
+**Marcel Santilli:** Now they're very content first, and you can, it was this guy, Brian, that I worked with, now is head of IBM.com.
+
+**Marcel Santilli:** And then at HP, I had built this essentially contributor network, which was kind of what you were saying, like, how do I share the best expertise and create content?
+
+**Marcel Santilli:** And I just went after and started recruiting experts in the first year we published about.
+
+**Marcel Santilli:** Two million words and grew the site to over a million visitors a month, which was insane, all organic.
+
+**Marcel Santilli:** And so from there, as I went into startups and was leading marketing and growth for, you know, HashiCorp, Service Titan, and Scale, I just kind of brought that along with me.
+
+**Marcel Santilli:** And every single job I had, I was building these kind of growth engines that were all based on content.
+
+**Marcel Santilli:** The difference was, like, along the way, it was very slow, expensive, and hard to pull together because you're, you know, hiring managing editors.
+
+**Marcel Santilli:** You're pulling together with a strategy.
+
+**Marcel Santilli:** You're trying to find subject matter experts.
+
+**Marcel Santilli:** You're doing all these things, right?
+
+**Marcel Santilli:** And it just takes time.
+
+**Marcel Santilli:** And so when I was at DeepGram, I kind of took everything I had learned along those years and hire one person.
+
+**Marcel Santilli:** And that person and me alone were able to publish over 3,000 pages and create a bunch of programmatic landing pages as well as highly quality editorial.
+
+**Marcel Santilli:** And we 24x our traffic in six months.
+
+**Marcel Santilli:** And so it was kind of this huge inflection curve.
+
+**Marcel Santilli:** And then we built...
+
+**Marcel Santilli:** A newsletter called AIMinds.com, grew that to 270,000 subscribers.
+
+**Marcel Santilli:** And then from there, I just started doing these workshops, just kind of teaching people how to approach content and building brand and distribution that way.
+
+**Marcel Santilli:** And that's kind of how GrowthX got started.
+
+**Marcel Santilli:** And so, but I think like this might not be as relevant to you all, but it is in a lot of ways, right?
+
+**Marcel Santilli:** It's also like, on top of that, content has always been this atomic unit for marketing and for, you know, how brands communicate and build trust with their audiences.
+
+**Marcel Santilli:** But also now a lot of the distribution completely shifted, right?
+
+**Marcel Santilli:** The distribution layer completely shifted.
+
+**Marcel Santilli:** And so what we're seeing with a lot of customers is they're spending, you know, their audiences are spending 15, 20 minutes on a chat GPT AI answer instead of like clicking through a bunch of links.
+
+**Marcel Santilli:** And so now more and more, it's about like, how do you understand your audience and from a deeper perspective and how do you systematically build?
+
+**Marcel Santilli:** The best answers and best resources to all the things your audience is going to care about, right?
+
+**Marcel Santilli:** Like, and so, like, in some ways, it's kind of like the start of the funnel or is the start is the kind of your entry ticket to build trust with your audiences that you want to build your reputation with, you know?
+
+**Marcel Santilli:** And again, it goes back to kind of this credible, comprehensive, fresh content.
+
+**Marcel Santilli:** And so I think, like, one of the reasons we've seen so much traction in our space is just, and this is probably slightly less relevant for a VC, but in some ways, it's like you said, right?
+
+**Marcel Santilli:** At Bessemer, trying to outsource to an agency or a freelancer, the quality is really bad.
+
+**Marcel Santilli:** They don't get your business.
+
+**Marcel Santilli:** You know, it's hard to find talent like you all out there.
+
+**Marcel Santilli:** You know, the tools, like, don't really do the work for you or actually help you.
+
+**Marcel Santilli:** They create more work for you.
+
+**Marcel Santilli:** And then for a lot of brands, they're trying to acquire customers.
+
+**Marcel Santilli:** know, paid traffic is just getting really hard.
+
+**Marcel Santilli:** And so then a lot of people are like, let's use AI.
+
+**Marcel Santilli:** And this is what it looks like using AI these days sometimes.
+
+**Marcel Santilli:** You know, it's like, this is a nightmare.
+
+**Marcel Santilli:** No one actually wants to manage this and build this.
+
+**Marcel Santilli:** I've been there.
+
+**Marcel Santilli:** And so ultimately, like what we decided to do and is like solve the pain that I had always as a CMO, right?
+
+**Marcel Santilli:** Which was like stitching together all these pieces and making it work.
+
+**Marcel Santilli:** And instead like saying, hey, what if there's just like one stop shop that was more outcomes based and that brought together the best experts, but also was AI power.
+
+**Marcel Santilli:** And so that's what we've done, which is like address the, if you will, like what we think is the four layers in order to be successful with content.
+
+**Marcel Santilli:** And I'll show you a demo and also a bunch of examples here, but think of it as like, you need the right strategy in the right context.
+
+**Marcel Santilli:** You need the workflows, AI workflows to be able to do a lot of the heavy lifting to scale and with quality.
+
+**Marcel Santilli:** But you also need experts in the loop and learning from every single output, right?
+
+**Marcel Santilli:** And then there's a lot of things on the last mile execution.
+
+**Marcel Santilli:** Y'all mentioned like, hey, the graphics, how do I repurpose this content?
+
+**Marcel Santilli:** How do I optimize it?
+
+**Marcel Santilli:** How do I get it published on?
+
+**Marcel Santilli:** MyCMS and things like that, you know.
+
+**Marcel Santilli:** And so, like, the way we work is we have forward-deployed experts.
+
+**Marcel Santilli:** And so, like, for instance, like, Megan on the top right, she actually was leading content for Backstage Capital.
+
+**Marcel Santilli:** And prior to that, I was a managing editor at TechCrunch.
+
+**Marcel Santilli:** Matthew Panzerino, he ran TechCrunch for 10 years.
+
+**Marcel Santilli:** So we have a lot of folks that have done, like, content at the best friends in some of the great publications.
+
+**Marcel Santilli:** And then the platform that I would love to show you a little bit and kind of show you kind of how we work with companies as well, if that makes sense.
+
+**Tiffany Spencer:** But I'll pause here if there's questions before I kind of jump in.
+
+**Marcel Santilli:** Keep going.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So, okay.
+
+**Marcel Santilli:** So let me maybe pull up.
+
+**Marcel Santilli:** Actually, I'll show you all of this in a little bit.
+
+**Marcel Santilli:** But I'll actually show you maybe one customer, which is AugmentCode, and then I'll show you a few different examples.
+
+**Marcel Santilli:** And so one of the first things, actually, let me start with Biologica, because I think they're very specific in how we're able to scale quality, right?
+
+**Marcel Santilli:** So one of the things you mentioned is, as a VC, you have a lot of this context, right?
+
+**Marcel Santilli:** Like the big picture, hypothesis, thesis, right?
+
+**Marcel Santilli:** The way you think about the market, the way you think about opportunities, the way you think about companies and founders and things like that.
+
+**Marcel Santilli:** And some of it, you know, unless everybody was like Derek, is mostly in people's head, you know?
+
+**Marcel Santilli:** So like, you need to find what we call context engineering, where, you know, in this company, Biologica is started by Joey and his wife.
+
+**Marcel Santilli:** Joey was the, I started Allbirds before he left.
+
+**Marcel Santilli:** And so this is in a women's supplement space.
+
+**Marcel Santilli:** Women go through different phases in life, like fertility, pre-menopausal, post-menopausal.
+
+**Marcel Santilli:** So they developed these supplements.
+
+**Marcel Santilli:** For over a year that are helped to balance women's hormones along those different, you know, stages of their journey, you know, and there's like so much nuance, right?
+
+**Marcel Santilli:** Like, this is true, like, thought leadership.
+
+**Marcel Santilli:** They can't get it wrong.
+
+**Marcel Santilli:** Like, this is the first piece of content they're about to launch in the next few weeks, right?
+
+**Marcel Santilli:** Like, you can't get it wrong.
+
+**Marcel Santilli:** So we had to really, like, get the right interviews, ingest all this context, and do a lot of research, ingest, you know, hundreds and hundreds of calls that they've done with, like, with, like, focus groups and interviewing women and, like, part of the ingredient list and a bunch of different things, right?
+
+**Marcel Santilli:** Like, all to kind of generate this context.
+
+**Marcel Santilli:** And then, like, it's also about, like, how do we figure out, like, what do they want to sound like?
+
+**Marcel Santilli:** And so in some ways, like, we develop these writing guidelines, and, you know, and so it's ready, so you can ingest this context as we're going through the...
+
+**Marcel Santilli:** These executions, if you will, and publishing content for them.
+
+**Marcel Santilli:** But then there's also a lot of things that are very specific to the company.
+
+**Marcel Santilli:** So in this case, it's like one of the products, if you will, is this midlife essentials, which is like a supplement, right?
+
+**Marcel Santilli:** It's like in a pouch that you drink and it's beautifully done.
+
+**Marcel Santilli:** And there's all these medical claims as well.
+
+**Marcel Santilli:** So there's like a lot of nuances.
+
+**Marcel Santilli:** And so, and then from there, like there's a lot of things around like different sources or doing a bunch of research to think of this as kind of like a perplexity on steroids, if you will, where we can do a lot of like high quality research and then retrieve that information.
+
+**Tiffany Spencer:** But then I'll just skip ahead and kind of show you.
+
+**Tiffany Spencer:** What is that page, What LLMs are you using for your perplexity on steroids?
+
+**Marcel Santilli:** Yeah, like we're using Exa, Tably, perplexity, deep research, as well as, you know, deep research from...
+
+**Daniel Lopes:** Yeah, and that place is also like many times...
+
+**Daniel Lopes:** So the knowledge that you have is internal to your company, like in the case of like, in your case, like, it might come up in the form of like having podcasts or having conversations with founders of internal videos or things like that that could be transcribed and we can adjust all that.
+
+**Daniel Lopes:** And it would be like, we tapped into that before going to the public.
+
+**Daniel Lopes:** We would just have recorded a bunch of stuff that Derek's talking about, for example, between everybody and then we'd turn that into a subsection of the knowledge base if you wanted to like take his excitation for something or his stake on a certain topic.
+
+**Marcel Santilli:** Yeah, like, Derek, like the way you go about probably writing, I would imagine like you're going after mostly trusted sources to try to like ingest some information.
+
+**Marcel Santilli:** Like you're not just clicking untrusted random, you know, right?
+
+**Marcel Santilli:** Like, or like, how do you do research when you're developing a piece of content?
+
+**Derek Xiao:** Yeah, I mean, mostly it's whether kind of.
+
+**Derek Xiao:** Conversations with startups and like my internal meeting notes or, you know, other pieces or writers that I respect from around like the VC or startup community.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** And so, so that that's true for like most customers as well.
+
+**Marcel Santilli:** Like they don't want just any sources or, you know, they don't want us to argument the content that we're creating.
+
+**Marcel Santilli:** A bit of an example here where this assignment is around like magnesium for menopause relief and like a lot of the sources are highly trusted medical sources, you know, and I'll show you some that are also like agentic workflows as well.
+
+**Marcel Santilli:** And then, you know, in this case, this is like fairly like tailored to each customer where, you know, how do we achieve quality and you have to start and work backwards from what great looks like and then figure out like what are the steps where AI can actually argument that and then where are the places where you really need human judgment.
+
+**Marcel Santilli:** And an expert judgment along the way, right?
+
+**Marcel Santilli:** And so in this case, like we're coming up with an outline, enhancing the outline, drafting the content, and even doing things like fact-checking as well.
+
+**Marcel Santilli:** And where we're fact-checking like against different, we're essentially splitting the content into chunks and then extracting each passage.
+
+**Marcel Santilli:** And one thing like you'll notice too, as you're doing like research, even using AI, sometimes like there's like three or four orders of magnitude where like it's citing a source that seems reputable.
+
+**Marcel Santilli:** But then when you click on that source, it's citing another source that's not reputable, that's citing another source and it's misquoted that source.
+
+**Marcel Santilli:** And then like by the time you go all the way down to the actual source, it's like super outdated or completely wrong or non-existent.
+
+**Marcel Santilli:** And somewhere along the way, essentially, like you have like the spread of like bad information, right?
+
+**Marcel Santilli:** And so what this is doing is like researching each passage in parallel and then verifying each one of
+
+**Marcel Santilli:** And evidence to make sure that based on the deep research, do we have confidence that this is correct or not?
+
+**Marcel Santilli:** And if not, why is it not correct?
+
+**Marcel Santilli:** And how can we correct that, essentially, right?
+
+**Marcel Santilli:** And so, and then, like, there's things like expert review, where we are reverse engineering how their chief medical officer does reviews on this content, right?
+
+**Marcel Santilli:** Where it might say, like, hey, this statement is oversimplified.
+
+**Marcel Santilli:** Right, the statement talks about two neurotransmitters that study your mood, and instead it should be, they're involved in mood and sleep regulation.
+
+**Marcel Santilli:** They're not actually providing this function, right?
+
+**Marcel Santilli:** And so it's, like, very, like, medical nuance.
+
+**Marcel Santilli:** And so you can imagine how this is applied to any domain, know, writing about, where the, like, nuances are different, right?
+
+**Marcel Santilli:** It might not be technical in the same way.
+
+**Tiffany Spencer:** And can I ask, you do that through some sort of search and verification.
+
+**Tiffany Spencer:** It's not that you've trained on a medical-specific LLM or something like that.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah, so the way to think about this, for instance, with the fact-checking, we're using different sources of research.
+
+**Marcel Santilli:** So XAI, for instance, has access to a lot of high-quality sources, but then we can also point those deep researchers to very specific sources, including our internal knowledge base that we build for those customers.
+
+**Marcel Santilli:** And so in some cases, for instance, when we're creating content, grounding is their doc site and Shopify's doc site.
+
+**Marcel Santilli:** So then we can against that and say, hey, every single thing here has to be fact-checked against Webflow's docs as well as Shopify's docs to make sure we're not saying anything that's actually not true.
+
+**Marcel Santilli:** So it really depends where should we ground it to, you know?
+
+**Marcel Santilli:** So it's not about training a model.
+
+**Marcel Santilli:** It's figuring out what's the source of truth.
+
+**Marcel Santilli:** And if there's no source of truth, then obviously you can't check against it.
+
+**Tiffany Spencer:** And so do I have, like, is there an account manager who's, like, working with the client to understand what these sources are or how-
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** So you have a forward deployed expert who's a managing editor background who's like award-winning journalist type of person like Megan did exactly your jobs like when she was a backstage capital, right?
+
+**Marcel Santilli:** And so these are people that are like working with you, meeting with you weekly, working directly with your experts like Derek, for example, and figuring out like what are ways to kind of augment and like get more and higher quality outputs, you know?
+
+**Marcel Santilli:** And then all the way to things like, you know, the imagery and anything else, right?
+
+**Marcel Santilli:** Like, so what we're trying to do is like figure out what your goals are, who is your audience, have a deeper understanding of your audience, craft all this kind of artifacts, and then figure out what are the right workflows that are both experts involved and AI to improve both the speed, quality, and volume of your outputs in order for you to build trust faster with your audiences, right?
+
+**Marcel Santilli:** And so then like the final output.
+
+**Marcel Santilli:** can look very, very different from company to company.
+
+**Marcel Santilli:** So for instance, like with Town, they are in the SMB taxes, right?
+
+**Marcel Santilli:** And so you don't want to give bad tax to the company to us, right?
+
+**Marcel Santilli:** So a lot of this content has to be really well-cited, perfectly checked.
+
+**Marcel Santilli:** We're pulling customer quotes and examples within the context.
+
+**Marcel Santilli:** And, you know, or hyper-growth partners, like we're running their newsletter for them.
+
+**Marcel Santilli:** And G is like very well-known to go to market space, you know?
+
+**Marcel Santilli:** And so this is his voice.
+
+**Marcel Santilli:** This is the interview-based content, right?
+
+**Marcel Santilli:** Like long-form interview-based content.
+
+**Marcel Santilli:** And so like for all the way to things like with Ramp, where we've done an entire thing where it's like there's, we ingest a lot of their data, spend data on each vendor, and create these like really informational pages that help, you know?
+
+**Marcel Santilli:** One fun last thing we wanted to show is how Danny and I quickly spun out an environment to demonstrate our capabilities.
+
+**Daniel Lopes:** Right before the call, like an hour before, was just like playing around and see what we could get from the internet.
+
+**Daniel Lopes:** it's not going to be, like, I think, like, the way we think about this is usually from a context complexity angle, context complexity, And yours would fit on the high end of content complexity, because you're writing reports, you're writing, like, opinion pieces, it's, like, internal takeaways.
+
+**Daniel Lopes:** That's your usually content that I saw on the website.
+
+**Daniel Lopes:** Some other folks, like, first round, like, they might have, like, broader, like, glossaries, or they might have, like, common stuff for early stage founders.
+
+**Daniel Lopes:** They're, like, those are easier to produce.
+
+**Daniel Lopes:** So, like, I was just thinking, like, how quickly could we get to something?
+
+**Daniel Lopes:** And I was just, as you were all talking, was kicking off some researchers and things like that.
+
+**Daniel Lopes:** I sort of added some things to the knowledge base from the articles that Derek wrote.
+
+**Daniel Lopes:** And then I created a new context artifact.
+
+**Daniel Lopes:** If you go back, Marcel, if you go back to the way out, like in the, I started creating like the context artifacts with like what the initial research that I ran with our internal researchers.
+
+**Daniel Lopes:** So the research, like company research first document ran with our researcher.
+
+**Daniel Lopes:** takes like 15 minutes.
+
+**Daniel Lopes:** It's essentially like parallelizing a bunch of calls to EXA, which is like our favorite researcher.
+
+**Daniel Lopes:** But it can be from anything and it could also be from our knowledge base.
+
+**Daniel Lopes:** So if you have given us like your internal like company history, that would be the ideal source instead of pulling from the internet.
+
+**Daniel Lopes:** And then the guidelines just generating like what are we writing for?
+
+**Daniel Lopes:** So just based on the output of the research was more like, oh, they were probably thinking.
+
+**Daniel Lopes:** Thinking about Founders Series A, Series B, and the different funds that you have, the Anthology Fund would probably be slightly different than the inflection on the later stage folks.
+
+**Daniel Lopes:** And the other thing is like a writing guideline.
+
+**Daniel Lopes:** So what are the things we care about?
+
+**Daniel Lopes:** And the last thing is like a checklist.
+
+**Daniel Lopes:** Essentially, a to-do list set, we would have an agent check against that.
+
+**Daniel Lopes:** So like some of the core documents that we write.
+
+**Daniel Lopes:** And like I said, like this usually takes days to do it properly, and we would have somebody like talking to your team and like really doing it, right?
+
+**Daniel Lopes:** But then we plug those into a bunch of agents that we have.
+
+**Daniel Lopes:** Sometimes we might create like custom agents for the clients, so like multiple normal agents we have that we use with many clients.
+
+**Daniel Lopes:** But at the end, they added like an expert review that was based on comments for the client.
+
+**Daniel Lopes:** And in New York case, I was just like thinking like some basic topics and seeing like how far we can get.
+
+**Marcel Santilli:** Yeah, like a lot of this, like there's a lot of calibration that happens, right, like in order to achieve, like, so let's say like you, you want to have a faster time from Derek having a thought or an insight or something to actually publishing a piece of content.
+
+**Marcel Santilli:** There's a lot of ways to do that versus like if you're ingesting mostly like transcripts and trying to find different angles and then working some of those angles and scaling, right, like so in this case, like this is a agentic workflow that runs through and evaluates the content against your writing guidelines and runs through different loops, you know, and then it keeps looping through until it passes the evaluation for that writing guidelines.
+
+**Marcel Santilli:** So that's where like, obviously, like if you have that knowledge or no knowledge at all, like ingested, right, like from you and you haven't calibrated on the context and the context is not right, this stuff is not going to be as good, right, like but but once we calibrate that, what we see, we can
+
+**Marcel Santilli:** Scale quality, like, much, much better.
+
+**Tiffany Spencer:** One challenge within BC, and I'm just wondering how you guys think about this, is, you know, and it might be just the state, like, I've, at both firms, been the first marketing professional to run marketing, so I've replaced an admin who was, you know, overseeing a PR person writing press releases, but it's kind of like nobody knows where the bodies are buried, and we don't have, you know, necessarily, people aren't saving everything to an internal wiki or something like that, so we don't have the same sort of documentation I would expect it, you know, when I was at Electronic Arts, where everything was very, sort of, like, organized.
+
+**Tiffany Spencer:** So how, you know, and thinking, like, what could I feed this beyond stuff that Derek has already published, you know, it might be investment memos, it might be, you know, Diane, and it has all this.
+
+**Tiffany Spencer:** Stuff for fundraising, but those are also probably like, you couldn't find a more sensitive document in the firm.
+
+**Tiffany Spencer:** And so what kind of security and assurance would we have that like, our stuff is walled off versus other firms, et cetera?
+
+**Marcel Santilli:** Most companies that we work with, right, like they're not giving us their trade secrets, you know, so because this is meant to be inputs to something that's going to go out.
+
+**Marcel Santilli:** Public, right?
+
+**Marcel Santilli:** If you give us your trade secrets, like, you know, like, obviously, it's only if you want it to get published out into the world, right?
+
+**Marcel Santilli:** Like, so normally, like, even for companies that are like, very well established, like Sentinel One, you'd be shocked at how little they actually have organized.
+
+**Marcel Santilli:** And so a lot of times what we do, we'll do like, deep dives with folks and try to get that knowledge in any way we can.
+
+**Marcel Santilli:** Obviously, like, transcripts are probably the easiest way to access that just because they've already had some of those.
+
+**Marcel Santilli:** Meetings, right, but with lack of that, then, like, we can also schedule these deep dives and then be able to kind of get the right questions, and you'd just be surprised of, like, how much over time you can get out of even a few thoughts and angles, and normally, like, we'll start with, like, one thesis or one theme and one set of topics for one audience and maybe work with one subject matter expert, right, like, in your case, let's say, like, let's work with Derek, right, and then, like, spend some time, like, get to quality, get to publishing, and then once we establish that process, then we can kind of, like, expand from there, essentially, like, get to a win faster, you know, get to quality faster, and then scale from there, but then I think, like, there's this kind of, like, really cool motion where once you start and you see, then I think it becomes easier and easier for others to kind of get behind it because the level of effort on their end goes from, like, maybe, you know, five hours of work versus, like, you know, maybe 15 minutes
+
+**Marcel Santilli:** And then over time, the more context and knowledge you have, the less you need to actually go from like zero to like 95% ready, you know?
+
+**Marcel Santilli:** And then we also take away a lot of the last mile things, you know, like we take that on so that like the publishing, the graphics, the things like that, fact-checking, the hyperlinking to other pieces of content, all of that.
+
+**Tiffany Spencer:** Okay.
+
+**Daniel Lopes:** Yeah, another thing that like we do quite often that usually a really good starting point just to understand the client's context and how they write is refreshing existing content.
+
+**Daniel Lopes:** Looking at your, like for example, your case, we could just like refresh the entire portfolio of the portfolio's detail page that you have, the description of the company, just like one-liner.
+
+**Daniel Lopes:** We could easily like X, just like as a starting point to understand what's your publishing flow, like who are we going to work with, like this stuff.
+
+**Daniel Lopes:** Refreshing.
+
+**Daniel Lopes:** It's especially like in the
+
+**Daniel Lopes:** For like bigger companies like Rand or like AirBite that have like thousands of pages, like that becomes super for them as well over time to be up to date.
+
+**Tiffany Spencer:** Okay.
+
+**Marcel Santilli:** Yeah, but yeah, any questions or any thoughts or any anywhere else that you think would be helpful to kind of chat through or show you more or give you more examples?
+
+**Jasmine Rainey:** Always happy to.
+
+**Jasmine Rainey:** I would love to see the, you should a little snapshot of the SEO post evaluation page.
+
+**Jasmine Rainey:** I think that would be very important, like the SEO part of it.
+
+**Marcel Santilli:** Sorry, which page is that?
+
+**Jasmine Rainey:** The SEO, I think it was SEO post evaluation page that you showed on the screen.
+
+**Marcel Santilli:** Yeah, like I can show you a few like specific like results from customers as well.
+
+**Marcel Santilli:** There are kind of more, more specific, maybe.
+
+**Marcel Santilli:** So, give me a second.
+
+**Marcel Santilli:** one.
+
+**Marcel Santilli:** Let just pull up.
+
+**Marcel Santilli:** So, for instance, like with, there's a couple of different ways we kind of think about like what to measure along the way.
+
+**Marcel Santilli:** And so like the way we kind of think about it is like there's different phases depending on the maturity and where they are in both like the engagement as well as like where they are just as a company overall, right?
+
+**Marcel Santilli:** Like so one of the first things is like making sure the foundation is good as far as like just like the basics of like your site, like is your content even being indexed, right?
+
+**Marcel Santilli:** Like and then activity, like you want to build like your publishing cadence.
+
+**Marcel Santilli:** There's no way to actually achieve your goals if you're actually not publishing, right?
+
+**Marcel Santilli:** Like publishing once a month, every other month or something like that is just not a winning strategy overall, especially like you said, there's a lot of noise happening.
+
+**Marcel Santilli:** And then once you establish those two things, which is like to get to a high quality output, you need to have like do all these things in order to do that.
+
+**Marcel Santilli:** And then once you do that, now it's like, hey, how do we increase reach and visibility in both like search, organic, distribution, like in social, but also visibility and AI?
+
+**Marcel Santilli:** It really depends on your goals.
+
+**Marcel Santilli:** There's some customers that don't care about reach at all.
+
+**Marcel Santilli:** They're mostly like people already coming through the front door.
+
+**Marcel Santilli:** We just want people to have something that builds trust with us and knows that we have thought leadership.
+
+**Marcel Santilli:** Like you might fall a little bit more on that bucket.
+
+**Marcel Santilli:** Then there's others like lovable that are just like, hey, we're getting 200,000, you know, signups a week.
+
+**Marcel Santilli:** We need to get to 300,000, 400,000, you know, like do all the things for me.
+
+**Marcel Santilli:** And so those are like really about like mapping out what are all the possible topics that your audience cares about.
+
+**Marcel Santilli:** And then working backwards from those topics to figure out like, are we ranking?
+
+**Marcel Santilli:** Are we showing up?
+
+**Marcel Santilli:** Are we part of the answer for all those questions, right?
+
+**Marcel Santilli:** If you're a finance manager and you're asking how long does an ACH transfer take?
+
+**Marcel Santilli:** Like ramp is the number one search result for that.
+
+**Marcel Santilli:** They're showing up at the answer.
+
+**Marcel Santilli:** Does that mean they're looking for ramp?
+
+**Marcel Santilli:** Not necessarily, but they will interact with that.
+
+**Marcel Santilli:** And so it really depends on the goal.
+
+**Marcel Santilli:** And then from there, that's a lot of what we're starting to ingest the data on both analytics, Google Search Console, and LLM visibility, but also like looking at the engagement.
+
+**Marcel Santilli:** So like, hey, are they actually consuming the piece of content?
+
+**Marcel Santilli:** Are they clicking through?
+
+**Marcel Santilli:** Are they getting to the bottom of the page?
+
+**Marcel Santilli:** And then as we're refreshing these pieces of content, is it improving those metrics, the engagement metrics?
+
+**Marcel Santilli:** And then for most companies, the thing that they really, really care about, obviously, is like conversion.
+
+**Marcel Santilli:** So like with Augment Code, we're seeing about 2% to 3% of visits end up in a conversion already for them, right?
+
+**Marcel Santilli:** And so that's kind of like the, but not often it's going to be, especially like with more complex sales and more enterprise type of companies, they're not going to go from reading a piece of content to filling out a form, right?
+
+**Marcel Santilli:** So sometimes you need to look at it like the correlation to the next logical step, you know?
+
+**Marcel Santilli:** Yeah, so those are kind of some of the things that we track and what it really depends on the company.
+
+**Marcel Santilli:** And kind of their goals, you know, and what they're trying to do.
+
+**Diane Bilski:** I had a question along that same vein.
+
+**Diane Bilski:** You had shown screenshots of the AI overview on Google and I think perplexity.
+
+**Diane Bilski:** Are you suggesting that like you're guaranteeing that AI overview spot with the content?
+
+**Marcel Santilli:** No, I think the way we think about it is like the, I even have, I think, a slide on this somewhere.
+
+**Tiffany Spencer:** And can you send us your deck?
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** Like, and also like one of the things that you can do as well is like we, we actually have a community that we've launched called ALNgrowth.com.
+
+**Marcel Santilli:** And we've had a few workshops that are like, that are super insanely detailed about our process, about how we do things, you know, that, that we've seen like a lot of good traction overall.
+
+**Marcel Santilli:** But the way that...
+
+**Marcel Santilli:** The about it is like you can't guarantee, like same way you can't guarantee you're going to rank number one, but I think you can dramatically increase your odds.
+
+**Marcel Santilli:** And the way we think about it is like AI visibility is an entry ticket, not your end goal, right?
+
+**Marcel Santilli:** Like it just happens that a lot of the factors that AI answers care about happen to be things that you should do no matter what to build trust with your audience as well.
+
+**Marcel Santilli:** There's just factors that are a lot more important.
+
+**Marcel Santilli:** For instance, like recency and freshness of content is extremely important, even more than for SEO, right?
+
+**Marcel Santilli:** But like how well what you're writing is researched and attributed and a lot of these authority signals, like who is the person behind the content, like what they're saying, how well structured it is.
+
+**Marcel Santilli:** Like a lot of those things play a pretty important role.
+
+**Marcel Santilli:** And then what we're seeing with some of them, like this one, for instance, like best LN for coding, like this piece of content that we wrote is cited here.
+
+**Marcel Santilli:** But then we're seeing some
+
+**Marcel Santilli:** Somewhere, it's not even like this one is the AI coding tools for Enterprise, Augment Code now shows up, and they're not even one piece of content cited.
+
+**Marcel Santilli:** There's actually one, two, three, four, five, six pieces of content cited from Augment Code that we've created for them, you know?
+
+**Marcel Santilli:** So I think like the game is just changing a lot because the way we think about it is like the long tail is getting a bit longer.
+
+**Marcel Santilli:** Like when you're using ChatGPT, you're probably giving a lot more information than you used to put it into your search box, right?
+
+**Marcel Santilli:** And it also is learning from a lot of the things that you're putting in day in and day out.
+
+**Marcel Santilli:** And so like it needs to fetch, like it's not fetching like five or ten links, it's fetching maybe a hundred sources, right?
+
+**Marcel Santilli:** Like and there's so much more context there.
+
+**Tiffany Spencer:** So how many, and maybe it varies by type of business, but I'm thinking that you must have customers that are taking kind of a hybrid approach.
+
+**Tiffany Spencer:** So you guys are.
+
+**Tiffany Spencer:** Kind of doing the steady drumbeat and up to X type of complexity, and then, you know, we drop a Derek deep thinking piece every once in a while, and maybe there's like some component that you guys are contributing to or not.
+
+**Marcel Santilli:** Tell me about kind of the hybrid approaches.
+
+**Marcel Santilli:** Yeah, that's exactly right.
+
+**Marcel Santilli:** Like, we're, because we're publishing content for Ramp doesn't mean Eric is not going out and doing interviews on CNBC, or, you know, or actually, their quarterly reports that they do, they're like super in-depth, like highly curated, they spend an obscene amount of money on those things, you know, but that doesn't mean like they, but what we work on a lot is kind of the informational stuff, the comparisons, the, you know, the, you the, the programmatic pages as well, the things that require a lot of human review, the things that they're.
+
+**Marcel Santilli:** But also a lot of refreshes.
+
+**Marcel Santilli:** if you think about like Outreach or Abnormal Security or SentinelOne, all of those have more than a thousand pages.
+
+**Marcel Santilli:** And some of them are like five years old.
+
+**Marcel Santilli:** haven't been touched in a while, right?
+
+**Marcel Santilli:** So these companies, it's essentially decaying.
+
+**Marcel Santilli:** Their catalog of content is decaying so much faster than before because of AI answers.
+
+**Marcel Santilli:** And so now they're all freaking out essentially like, okay, this thing used to be okay.
+
+**Marcel Santilli:** Even though I hadn't touched it in three years, now it's going to zero a faster.
+
+**Marcel Santilli:** I should probably do something about it because ads are getting so much more expensive, but also a lot of traffic that you could insert yourself with ads are now moving to AI answers where you can't insert yourself with ads, you know?
+
+**Marcel Santilli:** Right.
+
+**Tiffany Spencer:** And so how do you guys stay on top of the shifting?
+
+**Tiffany Spencer:** I mean, it feels like, you know, everything always used to change more frequently than you want, right?
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** But now it's changing faster.
+
+**Tiffany Spencer:** with new LLM release, which are becoming more free.
+
+**Tiffany Spencer:** When now there's more LLMs, how do you keep on track of like, what are the levers that are going to change performance?
+
+**Marcel Santilli:** Yeah, it's not a perfect science at all, because it's so different from perplexity, chat GPT, AI overviews, AI mode, right?
+
+**Marcel Santilli:** Like, I think one benefit we have is the fact that like, the more customers we work with, the more we can learn what's working and not working, while getting paid to deliver value, right?
+
+**Daniel Lopes:** Yeah, a couple of things that we're doing as well.
+
+**Daniel Lopes:** So like, Marcel don't have that set up of that workspace that he was showing clients.
+
+**Daniel Lopes:** We have only on our internal, like we usually dogfood stuff first before roll up.
+
+**Daniel Lopes:** But one of the main features we've been working on for the last couple of months is the ability to monitor your website constantly.
+
+**Daniel Lopes:** So we scrape your entire website, scrape your site, and track Google Analytics and Google Search Console changes.
+
+**Daniel Lopes:** And that sometimes will correlate with like some.
+
+**Daniel Lopes:** Things that should be updated or not.
+
+**Daniel Lopes:** But we are also working on a project that we're going to launch next month, which is like a broad, both a broad study of like running 100,000 plus prompts on different categories and seeing how they, trying to like figure out what's the causation correlation for certain things like LLM text, Qs on the page or how you structure your content.
+
+**Daniel Lopes:** So that's going to be, we're probably going to publish that as a research paper.
+
+**Daniel Lopes:** And we're also building a website called ChatFed that we're going to monitor the categories and you can claim your account.
+
+**Daniel Lopes:** Almost like G2 or mid-strange phase, but for LLM visibility and you can claim your account and then you can add your own prompts.
+
+**Daniel Lopes:** That's going to be our way to monitor how the AI engine starts changing.
+
+**Daniel Lopes:** But I think for us, the main thing would be with clients would be monitoring that for them, coming up with the topics that matter.
+
+**Daniel Lopes:** To them and seeing what's the referrals they're getting.
+
+**Daniel Lopes:** In real time.
+
+**Daniel Lopes:** like baiting that inventory daily and coming up with the opportunities out of that.
+
+**Daniel Lopes:** That's a feature that it's in the latest stage now.
+
+**Tiffany Spencer:** Marcel probably show that a little bit.
+
+**Tiffany Spencer:** Sorry.
+
+**Tiffany Spencer:** You guys are putting out content.
+
+**Tiffany Spencer:** You're, I'm guessing, advising.
+
+**Tiffany Spencer:** Are you advising on social?
+
+**Tiffany Spencer:** And are you guys helping with like Reddit strategies and various?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Like we're staying really focused.
+
+**Marcel Santilli:** Like the way we think about it is like 80-20.
+
+**Marcel Santilli:** So think of it as like, we're, you know, most likely you all wouldn't be ICP for us today.
+
+**Marcel Santilli:** And the main reason I say that is like, obviously we would love to help.
+
+**Marcel Santilli:** It's mostly like most customers are coming in and there's like this insane sense of urgency of grow or F'd, right?
+
+**Marcel Santilli:** Like, so I think like that's usually where we're best for right now because there's like pressure to grow, right?
+
+**Marcel Santilli:** If there's no pressure to grow, then it's less likely.
+
+**Marcel Santilli:** Or there's some bottleneck, there's some pressure trigger, right?
+
+**Marcel Santilli:** Like where most companies are usually, it's kind of essential for them to...
+
+**Tiffany Spencer:** Yeah, no, I was thinking like if this was, if I was at Electronic Arts, this would be kind of a no-brainer because we'd have a huge website, all this documentation on our games.
+
+**Tiffany Spencer:** They have a very clear view of who their customer is and they just need to, you know, put the coal into the coal burning fire, right?
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** And so then it really varies, right?
+
+**Marcel Santilli:** Like, so for instance, with companies like, like Lovable and others, like, yes, we have to go and scrape a lot of Reddit, a lot of forums to figure out like what are the, we're building a template library for them.
+
+**Marcel Santilli:** So think of it as like, it's an engine that builds prompts, like really detailed prompts.
+
+**Marcel Santilli:** And then we're building like apps and websites and landing pages and creating a library that people can fork and remix, you know?
+
+**Marcel Santilli:** So it's kind of like taking care of the cold star problem of like people have really crappy prompts and they get stuck and they just want to be...
+
+**Marcel Santilli:** Inspire and learn something.
+
+**Marcel Santilli:** So think of it as like, we're building Dribbble for them.
+
+**Marcel Santilli:** So Lovable is going to look more like if go to Dribbble or Behance, you know, except everything there is just inspiration.
+
+**Marcel Santilli:** Whereas like with Lovable, like you can actually like fork from there and build on top, right?
+
+**Marcel Santilli:** Like, and so, so it's really kind of like getting people a faster time to value.
+
+**Marcel Santilli:** But then also they, they, they want us to start building a lot of the how-tos, a lot of the editorial, a lot of the things to like teach people things as well, right?
+
+**Marcel Santilli:** And, and then for, for companies like Udemy, they have a library of literally like hundreds of thousands of courses and millions of hours of, of transcripts, right?
+
+**Marcel Santilli:** And so we're building a microsite with a newsletter called SkillsGraph, you know, where they can kind of take a lot of the learning from a bunch of courses and remix it, right?
+
+**Marcel Santilli:** And, and then like we've done like social and content repurposing and things like that, but we try to like not like spread ourselves too thin as far as like trying everything and saying, yes to everything.
+
+**Marcel Santilli:** Like we want to make sure.
+
+**Marcel Santilli:** That if we're going to try something new, we'd rather try it with someone like AugmentCode, which is like, hey, we're delivering a ton of value.
+
+**Marcel Santilli:** They're happy.
+
+**Marcel Santilli:** And when we explore something, it's really like experimentation lane that allows us to learn.
+
+**Marcel Santilli:** And if it works, then we can go with the second customer that is asking for that.
+
+**Marcel Santilli:** And then over time, once we build confidence that we can deliver value, because we're not demand constrained.
+
+**Marcel Santilli:** So it's like, it doesn't make sense for us to try to find new revenue paths, if you will.
+
+**Marcel Santilli:** There's like so much demand in being a content engine for every brand on the planet that, you know, and so we try to find areas where it actually helps improve everything else we're doing.
+
+**Marcel Santilli:** So like our ability to do social listening on Reddit and find topics and find pain points helps us create better content.
+
+**Marcel Santilli:** So with the normal security, we went to scrape every subreddit where people were either mentioning them or one of their competitors and their frustrations, you know.
+
+**Marcel Santilli:** And that gave us a lot of assignments and ideas for us to go tackle.
+
+**Daniel Lopes:** Yeah, I almost like.
+
+**Daniel Lopes:** And for us, we chose articles, different kinds of articles can be editorial style or refreshing or programmatic.
+
+**Daniel Lopes:** Those are the ones that we're trying to nail depending on the content complexity.
+
+**Daniel Lopes:** And then we go down to other types of content.
+
+**Daniel Lopes:** We've been experimenting with social and some other things or graphics.
+
+**Daniel Lopes:** We would probably go down to case studies as well and reports.
+
+**Daniel Lopes:** But some of the stuff that we've been doing with social media is more like finding opportunities to go deeper.
+
+**Daniel Lopes:** It would be like, oh, what are people asking on Reddit?
+
+**Daniel Lopes:** You're probably not going to find those kinds of queries on SEMrush as a keyword, but they map really well to what people would search on an LLM.
+
+**Daniel Lopes:** Those could be opportunities for an LLM.
+
+**Daniel Lopes:** That's the feature that we're talking about where you have a content inventory that you have all your pages, all of the opportunities that we found, those can be coming from social media or from pages decaying or things that you don't have compared to your content.
+
+**Daniel Lopes:** Editors on a gap analysis, and then the assignments that folks are working through, and that's where a lot of our managing editors would overlap with your team, for example, where you could review what was the output, and that's where you would give the output, the comments on the output.
+
+**Tiffany Spencer:** So if I'm thinking about this for a larger company, you know, like also one of the differences in VC is sort of we have a zillion spokespeople, right?
+
+**Tiffany Spencer:** Everybody is a spokesperson for their own business.
+
+**Tiffany Spencer:** They're all talking to the press at any given time.
+
+**Tiffany Spencer:** Anybody could be talking to the press.
+
+**Tiffany Spencer:** But if I was at EA, we would have like our launch schedule.
+
+**Tiffany Spencer:** We know what's coming out.
+
+**Tiffany Spencer:** We know, you know, they're probably still all talking all the time, but we would have sort of here's our designated spokespeople, and here's a cadence of like what we're emphasizing at any given time.
+
+**Tiffany Spencer:** How much?
+
+**Tiffany Spencer:** How
+
+**Tiffany Spencer:** How hard is it for you, because I could envision you go into a larger company and they're like, have 30 people we'd like you to talk to to do these interviews, and then how do you guys figure out, or is this the CMO at the organization prioritizing which messages or, you know, kind of, here's the tent pole and here's the stuff that supports it and here's the next tent pole?
+
+**Marcel Santilli:** Yeah, it's more of that, like with the Sentinel One, the CMO brought us in, and we're working with their VP of digital and their team, and there are like pillars of their business that they want to prioritize, or with diligent.com, there's like so many different solution areas, they're a big company, very complex, but there's usually a pillar that we start, or an audience that they're focused on, or an industry they're focused on, you know, with Auth0 and Okta, like they're focused on retail.
+
+**Marcel Santilli:** You know, and so it's like, so there's usually like a starting point where we can win.
+
+**Marcel Santilli:** Their trust and, and knock it out of the park.
+
+**Marcel Santilli:** And then what we're seeing with customers is that like, as we prove that out and continue to deliver, then they're the ones that come to us like, hey, actually, I'm wondering if you can help me with this.
+
+**Marcel Santilli:** We really are bottlenecked because we can't do case studies.
+
+**Marcel Santilli:** Can you help me with that?
+
+**Marcel Santilli:** Hey, really struggling with quality over here.
+
+**Marcel Santilli:** Or they're really, you know, like, so it kind of just naturally evolves to more and more things because usually like internal teams are just not very as productive as far as like getting outputs out and, you know, and being resourceful and using AI.
+
+**Marcel Santilli:** A lot of times even in AI native companies.
+
+**Marcel Santilli:** So it's like, you know, lovable within the first kickoff.
+
+**Marcel Santilli:** had the kickoff not long ago.
+
+**Marcel Santilli:** And it's like the, Rachel, used to be the CMO of Notion, was like, hey, we're using this really  SEO agency to do our how-tos.
+
+**Marcel Santilli:** Can you guys do that too?
+
+**Marcel Santilli:** And we're like doing a deep dive tomorrow about it, right?
+
+**Marcel Santilli:** Like, so it's like literally like day one, they're already like, we actually need help here, here, here, because we're so frustrated.
+
+**Marcel Santilli:** And it's like, and so at least that's what we're seeing right now.
+
+**Daniel Lopes:** Now, you know, it's like, I've never seen anything like it.
+
+**Daniel Lopes:** Another thing I would add there is just like the info that we have under the hood, like all those columns on that grid that Marcel was showing, those are blocks of code.
+
+**Daniel Lopes:** That's how we write our agents that we can create pretty fast.
+
+**Daniel Lopes:** Sometimes it doesn't mean we're going to do the whole thing for the clients.
+
+**Daniel Lopes:** Let's say you do something with like biological, the client that Marcel was showing, like they do a lot of analysis on the ingredients.
+
+**Daniel Lopes:** And they wanted to use, they wanted to just double check if the analysis was good.
+
+**Daniel Lopes:** So we just tweaked a little bit off, but we've worked our fact check, we tweaked a little bit of the instructions that they needed.
+
+**Daniel Lopes:** And that we added a line for them that they can just use that to review all ingredients.
+
+**Daniel Lopes:** can I have like the ingredients that they want to do that?
+
+**Tiffany Spencer:** If you guys, I don't want to assume that you guys are churning anybody, but when you get feedback that like people are like, oh, this isn't working for us.
+
+**Tiffany Spencer:** What, what is the like most common point of friction?
+
+**Marcel Santilli:** Yeah, it's normally, and this has been like much different now because we do this eight-week strategy sprint, and so doing this eight-week strategy sprint, it's almost like a POC mixed with like setting the right strategy and expectations and definition of done before, in other words, we can fire them during those eight weeks as well, and that really helps.
+
+**Marcel Santilli:** Because one of the reasons was in the initial phases, if we couldn't get to publish, we couldn't agree on the definition of done and quality, they're not giving enough inputs, and they're too trigger-shy because they've never done content before, those are usually like the recipe for disaster, and usually like it's highly predictive of like lack of conviction in their ICP or direction in the company, or lack of conviction on like what they're trying to do and why they're doing content to be good.
+
+**Marcel Santilli:** But, you know, those are like high predictors of like, they just have to figure their stuff out, you know.
+
+**Daniel Lopes:** Yeah, like I would also add that we have, now that we've, we've, we've.
+
+**Daniel Lopes:** We've onboarded multiple clients, and we've gone through the loop with many of them.
+
+**Daniel Lopes:** We have now a really good definition of our ICP, and there's a bunch of traits.
+
+**Daniel Lopes:** And the traits that Marcel said are the traits that we can't control that's on the client side.
+
+**Daniel Lopes:** And then on the traits that we can control are things around account setup, because you're not giving the client access to this for them to set up themselves.
+
+**Daniel Lopes:** Essentially, you're doing prompting on all those documents that I was showing you.
+
+**Daniel Lopes:** And if the client makes a mistake there, that's a problem.
+
+**Daniel Lopes:** Or if somebody that we have on our team, if we don't automate that step enough, they might make a mistake there too.
+
+**Daniel Lopes:** Like in the past, we didn't have the full onboarding that Marcel was talking about, the academic space set up, and folks would sometimes not adjust the prompt correctly for that client.
+
+**Daniel Lopes:** Not capturing the nuance of like, my team talks about this this way.
+
+**Daniel Lopes:** So we might have like a document.
+
+**Daniel Lopes:** Like for Clark, for example, they never use the term login.
+
+**Daniel Lopes:** And they always use the term sign-in.
+
+**Daniel Lopes:** So like...
+
+**Daniel Lopes:** Like, those are the kind of things that you have to, like, put in the document.
+
+**Daniel Lopes:** And then that's why we're, like, we're doing the work for the client today on that kind of setup.
+
+**Daniel Lopes:** Once it's set up, after the up to eight weeks, then it's much easier.
+
+**Daniel Lopes:** But that's one of the points where I always saw a lot of, so, oh, like, we're spending so much time on, like, on the little stuff, and the little stuff was just not set up in the space.
+
+**Tiffany Spencer:** And then, I just totally lost the question I was going to ask.
+
+**Tiffany Spencer:** What is, like, since I asked you sort of the hard question, what's the best, like, aha moment of, like, yes, this is, like, really working for me?
+
+**Marcel Santilli:** Yeah, it's usually, like, when people see the signals early on, and then they start to just see it kind of clicking and growing.
+
+**Marcel Santilli:** And so, like, I'll give you an example of, like, an earlier stage companies that have done really well.
+
+**Marcel Santilli:** Take Tiero, for example.
+
+**Marcel Santilli:** They're now, I think about eight months in now.
+
+**Marcel Santilli:** They were one of the unique ones that had a six-month contract.
+
+**Marcel Santilli:** When we started with them in December or January, they hadn't even published a single article or blog ever in their existence.
+
+**Marcel Santilli:** And so for them, they're really, really happy.
+
+**Marcel Santilli:** Or like DataGrid, for example, when they see it working and then it starts to work, now most of their revenue is actually coming from people that are discovering them.
+
+**Tiffany Spencer:** And how often do you work with a customer that has never published?
+
+**Marcel Santilli:** I guess they have a website, but they don't have a content strategy?
+
+**Marcel Santilli:** It's like 15, 20% of customers.
+
+**Marcel Santilli:** The more common one is they've done some things and like not a lot.
+
+**Marcel Santilli:** And then, so that's one bucket.
+
+**Marcel Santilli:** And then the most, the other bigger bucket is mostly like mature companies that have massive catalogs.
+
+**Tiffany Spencer:** What happens if, you know, like they have a content strategy driving everybody to their website, but then the website isn't converting?
+
+**Tiffany Spencer:** Are you guys also, like, are you kind of like a full stack service where you're like, okay, we're going to look at this part of your marketing.
+
+**Tiffany Spencer:** We're going to look at this.
+
+**Tiffany Spencer:** We're going to look at that.
+
+**Tiffany Spencer:** Do you go in and redesign the website?
+
+**Tiffany Spencer:** Are you just looking at the website content?
+
+**Marcel Santilli:** Like, how do you?
+
+**Marcel Santilli:** Yeah, it's, it's, it's less than like completely rethinking there.
+
+**Marcel Santilli:** There are certain like exceptions, right?
+
+**Marcel Santilli:** Like, so if you're working with like lovable or others, like you're really like thinking through like bigger initiatives, you know, that's a little bit different.
+
+**Marcel Santilli:** But for most customers, like what we're trying to do is walk them through those phases where like we get to the cadence of publishing.
+
+**Marcel Santilli:** We may be out of their site, make sure there's nothing like fundamentally wrong.
+
+**Marcel Santilli:** And then once, once they start to see signals and traffic, then we were kind of the forcing function.
+
+**Marcel Santilli:** That's like, Hey, you need to have compelling.
+
+**Marcel Santilli:** like, like, like, like,
+
+**Marcel Santilli:** Do you have offers?
+
+**Marcel Santilli:** If not, like we can help with the content to feed some of those offers, right?
+
+**Marcel Santilli:** And measuring that and telling them what's working and not working and kind of mapping out essentially like a little bit of the journey to conversion or sign up.
+
+**Marcel Santilli:** But like we're not doing like in funnel, like optimization, you know, but we do get a lot of asks and requests.
+
+**Marcel Santilli:** So it's definitely like in a roadmap of things we want to continue to expand to as far as the different jobs to be done that we want to be able to support.
+
+**Daniel Lopes:** Yeah, just to give you a little, all the questions that you asked are the questions that we had to figure out in the last like year, essentially.
+
+**Daniel Lopes:** So we have, that's our ICP matrix.
+
+**Daniel Lopes:** So if the person has, if the team has experience with publishing, one of the things they look for.
+
+**Daniel Lopes:** So budget alignment is another one.
+
+**Daniel Lopes:** if they don't have, strategy buy-in is a big one.
+
+**Daniel Lopes:** Like maybe they don't have now, but they've done in their previous, like the CEO has done it in the previous company.
+
+**Daniel Lopes:** So even if they don't have like a company marketing team, they know how important it is.
+
+**Daniel Lopes:** So, like, we look where they sit in that matrix.
+
+**Tiffany Spencer:** So this is how you're scoring a potential customer to see are they going to be smart.
+
+**Tiffany Spencer:** Yeah.
+
+**Tiffany Spencer:** So one thing I saw here was the content team capacity.
+
+**Tiffany Spencer:** So if you move into a new business, do you need to bring on a new subject matter expert?
+
+**Tiffany Spencer:** Like, if you were going to go big after legal or accounting or compliance, I guess.
+
+**Marcel Santilli:** Yeah, you'd be surprised, and I have to run here in a minute, but you'd be surprised of, like, it is critical, but it's critical a lot more in the calibration piece.
+
+**Marcel Santilli:** And just to make sure, like, we're building trust with those customers, especially when they don't have the availability from the in-house experts themselves.
+
+**Marcel Santilli:** Like, for example, recently we brought in a security expert because, you know, really technical.
+
+**Marcel Santilli:** And the bar was really, really high of of how technical.
+
+**Marcel Santilli:** They wanted the content to be, and we wanted to make sure, like, we're not, like, we're, their internal experts, we're not having to do, like, the basic calibration, so that by the time it hits them, they're capturing mostly the new ones, but it's mostly half, they're happy, you know, but, but it really depends on the, on the complexity, and, but then what we see is, like, we have, like, six different security customers that are, there are customers now, and so now it's, like, the seventh one is going to be a lot easier to make sure, like, we know the gotchas for that audience already, you know.
+
+**Daniel Lopes:** A lot of it also matters where the source is coming from, like, for taxes, we point to only IRS, for that client of ourselves, we almost get a few of those.
+
+**Tiffany Spencer:** Okay.
+
+**Tiffany Spencer:** Well, this is awesome.
+
+**Tiffany Spencer:** It's, I mean, I'm, I've been trying to, you know, ramp up and learn more.
+
+**Tiffany Spencer:** Obviously, we're investors in a bunch of AI companies, so, um, I live in AI all day, every day, for my personal life, for my work life, but, um, it's interesting to see it now being applied in a way that, like, we might be able to use it, so.
+
+**Marcel Santilli:** Yeah, well, appreciate it.
+
+**Marcel Santilli:** Thank you all so much for taking the time.
+
+**Marcel Santilli:** And I know we're talking to some of your portfolio companies around already, like Obsidian and a few others.
+
+**Marcel Santilli:** And so, like, I appreciate it.
+
+**Tiffany Spencer:** Oh, good.
+
+**Tiffany Spencer:** We just talked to Obsidian yesterday.
+
+**Tiffany Spencer:** They could use your help.
+
+**Marcel Santilli:** They have a new one.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** So it'll be a fun one.
+
+**Marcel Santilli:** Well, I appreciate you all taking the time.
+
+**Tiffany Spencer:** Hopefully we get to talk soon.
+
+**Tiffany Spencer:** Awesome.
+
+**Marcel Santilli:** Nice to meet you guys.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** Thank you.

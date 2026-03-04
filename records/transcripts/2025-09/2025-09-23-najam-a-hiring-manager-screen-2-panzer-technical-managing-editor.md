@@ -1,0 +1,1125 @@
+# Najam A -Hiring Manager Screen 2 - Panzer | Technical Managing Editor
+
+<metadata>
+date: 2025-09-23
+time: 16:30 UTC
+duration: 40 minutes
+organizer: matthew@growthx.ai
+participants: Matthew Panzarino (GrowthX), Naj Ahmed (Candidate)
+fathom_recording_id: 89217660
+fathom_url: https://fathom.video/calls/418010910
+share_url: https://fathom.video/share/zN4JUgNW_qSs3V8g4Krgy7cwoydsUsnZ
+source: fathom
+enriched_on: 2026-03-03 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+Matthew Panzarino (GrowthX hiring manager) conducted a technical screen with Naj Ahmed for the Technical Managing Editor role, exploring Naj's experience managing content workflows and client relationships at agencies like Directive. The role requires a blend of editorial expertise and technical AI/LLM proficiency to oversee GrowthX's content pipelines, manage clients, and architect workflows that leverage proprietary tools like Atlas to scale content production. Matthew emphasized that the ideal candidate must understand both content strategy and context/prompt engineering, as the ability to create effective AI prompts is a force multiplier that determines whether the team ships content efficiently or struggles weekly.
+
+---
+
+## Context
+
+Matthew Panzarino is hiring for a Technical Managing Editor role at GrowthX, a B2B content marketing services firm. This is the second hiring screen for the role, which sits at a critical layer between GrowthX's content production infrastructure and clients. The Technical Managing Editor needs to balance content strategy expertise with technical depth in LLM workflows and context engineering. Naj Ahmed is a candidate with relevant experience: he worked in content strategy and client management at Directive, a B2B SaaS agency that scaled AI-driven content production, where he interfaced directly with clients, managed reporting dashboards, and coordinated with content production teams. The screen focuses on whether Naj has the rare combination of editorial sensibility, client communication skills, and hands-on experience with prompt engineering and AI workflows—areas where GrowthX currently struggles to fill talent.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Critical hiring need: This role is hard to fill because the labor market lacks people with both content expertise and prompt/context engineering skills. Naj's experience at Directive scaling AI content production is directly applicable.
+- Client-facing accountability: Naj has concrete experience setting up client dashboards (Looker, Power BI), running weekly stand-ups, and translating client goals into content strategy—exactly the accountability-driven mindset Matthew wants to instill.
+- Operational scaling: Naj managed content workflows through Asana, coordinated with multiple team members, and optimized production at scale (similar to GrowthX's 20-40 pieces/week target).
+
+**To GrowthX's Product/AI Development:**
+- Context engineering is the force multiplier: Matthew emphasized that well-engineered prompts and context engineering save "hundreds or thousands of hours." Naj has hands-on experience with Claude and ChatGPT business subscriptions and A/B-testing LLM outputs for content quality.
+- GrowthX's pipeline challenges (70-80% quality gap requiring heavy editing) are solvable with proper context engineering—a skill Naj demonstrated at Directive by setting up templates and workflows that reduced manual rework.
+- Opportunity to strengthen the Atlas workflow: Naj's experience architecting content templates and building buy-in from team members suggests he could help improve GrowthX's brief generation and prompt engineering for the platform.
+
+---
+
+## Overview
+
+- Role involves overseeing content pipelines, client management, and optimizing AI-driven workflows
+- GrowthX uses proprietary tool Atlas for content creation, requiring technical aptitude and adaptability
+- Key challenges: improving brief generation and closing quality gaps in pipeline outputs
+- Ideal candidate balances content expertise with technical skills to enhance AI-driven processes
+
+---
+
+## Key Topics
+
+### Role Overview and Expectations
+
+  - Technical Managing Editor oversees content pipelines and client relationships
+  - Responsibilities include:
+      - Clearing blockers for Content Managers (CMs)
+      - Architecting content pipelines (not building)
+      - Understanding client goals and translating to actionable strategies
+      - Interfacing with clients on tactical level
+      - Reporting on content performance
+  - Need for both editorial expertise and technical understanding of AI/LLM workflows
+
+### GrowthX's Content Creation Process
+
+  - Use of proprietary tool Atlas for content pipeline management
+  - Key components:
+      - Client dashboard with scoring and traffic metrics
+      - Knowledge base for client artifacts (e.g., writing guidelines)
+      - Automated pipeline for content creation (topic → assignment → research → outline → draft → final article)
+  - Human-in-the-loop approach at each stage for quality control
+  - Goal: Scalable, high-quality content production (20-40 pieces/week across multiple clients)
+
+### Current Challenges and Areas for Improvement
+
+  - Brief and assignment generation:
+      - Time-consuming process for CMs
+      - Need for better automated brief generation aligned with client expectations
+  - Closing quality gaps in pipeline outputs:
+      - Current outputs often 70-80% off target
+      - Need to improve context engineering and prompts to reduce manual editing
+  - Balancing client-specific requirements with scalable processes
+
+### Technical Skills and Adaptability
+
+  - Experience with LLMs, prompt engineering, and context engineering crucial
+  - Ability to prototype solutions (e.g., using Claude projects) and articulate improvements to engineering team
+  - Comfort with changing product landscape and elastic workloads in startup environment
+
+### Company Culture and Work Environment
+
+  - Transparent communication across teams
+  - Documentation-heavy for self-learning
+  - Opportunity to work on cutting-edge AI content creation techniques
+
+---
+
+## Action Items
+
+- Candidate to potentially speak with other team members (e.g., Andy)
+- Hiring team to evaluate fit based on technical skills and adaptability to dynamic environment
+- Further discussions on specific experiences relevant to role challenges
+
+---
+
+## Transcript
+**Matthew Panzarino:** Good morning.
+
+**Naj Ahmed:** Morning.
+
+**Matthew Panzarino:** How are you?
+
+**Matthew Panzarino:** I'm good.
+
+**Naj Ahmed:** Nice to meet you.
+
+**Matthew Panzarino:** Nice to meet you as well.
+
+**Matthew Panzarino:** Thanks for taking the time.
+
+**Matthew Panzarino:** Sorry?
+
+**Naj Ahmed:** Thanks for taking the time.
+
+**Naj Ahmed:** Of course.
+
+**Naj Ahmed:** I just want to say it's awesome to meet with you because I did some stalking and I realized you're the same Matthew who used to write for TechCrunch.
+
+**Matthew Panzarino:** Yes, he is.
+
+**Naj Ahmed:** And I remember reading your articles about privacy and when you were interviewing heads of, I think, execs at Apple.
+
+**Naj Ahmed:** So for me, it's a big deal.
+
+**Naj Ahmed:** Thank you.
+
+**Matthew Panzarino:** Oh, well, thank you very much.
+
+**Matthew Panzarino:** It's always nice to meet somebody who's read anything I've written ever.
+
+**Matthew Panzarino:** That's a good thing.
+
+**Matthew Panzarino:** Thank you kindly.
+
+**Matthew Panzarino:** Yeah, pleasure to meet you.
+
+**Matthew Panzarino:** I will set the scene for you a little bit.
+
+**Matthew Panzarino:** We're hiring right now for this technical managing editor role.
+
+**Matthew Panzarino:** It fits into the organization at a layer where we want some kind of...
+
+**Matthew Panzarino:** Awareness of workflows and of using AI to accomplish any task, but obviously content is what we're aimed at currently.
+
+**Matthew Panzarino:** And utilizing agentic workflows, utilizing AI tooling, and utilizing just general standard workflows to create client work.
+
+**Matthew Panzarino:** The role is somewhat client-facing, interfacing with clients on a tactical level, understanding and reporting on content performance, that sort of thing, guiding the overall strategy.
+
+**Matthew Panzarino:** And then working internally with content managers.
+
+**Matthew Panzarino:** The way that we view the architecture is the technical managing editor is there to like clear blockers for the CMs, architect the pipeline, not build it.
+
+**Matthew Panzarino:** You don't have to build it, we have engineers for that, but to understand what it's missing and what it needs to deliver good client work, and mainly about inputs and outputs.
+
+**Matthew Panzarino:** Like what inputs are going in?
+
+**Matthew Panzarino:** What outputs are coming out?
+
+**Matthew Panzarino:** Where can we tweak that?
+
+**Matthew Panzarino:** And then help the content managers, clear blockers, because we really view the pipelines themselves as the writers.
+
+**Matthew Panzarino:** So these pipelines are creating content.
+
+**Matthew Panzarino:** They have humans in the loop.
+
+**Matthew Panzarino:** Those are the content managers.
+
+**Matthew Panzarino:** And then the managing editor is there to help those content managers, clear blockers, check their work, assign tasks, kind of understand where the pipelines are operating optimally and where they're not.
+
+**Matthew Panzarino:** Because the content managers may not have the little bit, you know, step back view of, okay, how does this fit in with overall client goals?
+
+**Matthew Panzarino:** And what has the client been telling me?
+
+**Matthew Panzarino:** And, you know, you're sort of reading their intent and understanding that and going, okay, I think we were working on, we have internal solutions for that and we can achieve that.
+
+**Matthew Panzarino:** So that's kind of like the interface.
+
+**Matthew Panzarino:** So just a little scene setting, and I'd love to hear a little bit about you in that context.
+
+**Matthew Panzarino:** time.
+
+**Matthew Panzarino:** to me about work that you've done previously with workflows, with AI tooling, with content, just to get a little bit of an idea of kind of what you've done before.
+
+**Naj Ahmed:** Yeah, absolutely.
+
+**Naj Ahmed:** So I'll just talk about, say, since the dawn of ChatGPT.
+
+**Naj Ahmed:** So early 2022, late 2022 is when I joined this company called Alexa Translations.
+
+**Naj Ahmed:** So part of my role was figuring out, and this is just before ChatGPT came onto the scene, right?
+
+**Naj Ahmed:** And this company, they used to do legal translations for clients like KPMG, Deloitte, so very detail-oriented clients.
+
+**Naj Ahmed:** And my job was to set up translation workflows so they had content that needed to be translated.
+
+**Naj Ahmed:** And my team was a bunch of content writers, specifically.
+
+**Naj Ahmed:** didn't have content managers, so I was doing, I was wearing multiple hats at the time.
+
+**Naj Ahmed:** So part of it was interfacing with clients, figuring out what their wants were, because in many cases, what I've seen is clients are not really direct, but you can infer what they need, and then figuring out how we could develop.
+
+**Naj Ahmed:** That was part of it.
+
+**Naj Ahmed:** And then I joined this company, Directive.
+
+**Naj Ahmed:** So Directive was, it's an agency, it's a B2B SaaS agency, and they went hard on AI content production.
+
+**Naj Ahmed:** So even though my title was senior SEO strategist, all content that was produced, all SEO reporting, all content reporting was going through me.
+
+**Naj Ahmed:** So every week we had stand-ups with clients, like bi-weekly or sometimes weekly stand-ups.
+
+**Naj Ahmed:** Clients would come in and say, hey, our CMO demands this, our CRO wants this.
+
+**Naj Ahmed:** Tell us about how certain content is performing, why are lead magnets not being downloaded, how are we supporting bottom of the file content or top of the file content, what keywords are we going after.
+
+**Naj Ahmed:** quarterly setting up the strategy and then working with a team in-house.
+
+**Naj Ahmed:** we had this upsell that we would offer like content production, which is, I believe, what GrowthX does.
+
+**Naj Ahmed:** And we had two layers.
+
+**Naj Ahmed:** One was human-oriented content, so fully thought leadership-focused content written by experts.
+
+**Naj Ahmed:** And then another was human plus AI.
+
+**Naj Ahmed:** And
+
+**Naj Ahmed:** So a part of it was educating the client about how these two differ and what they can expect to gain from it.
+
+**Naj Ahmed:** And then part two was figuring out the blockers or I would say the obstacles that clients had in their head.
+
+**Naj Ahmed:** Because again, education around AI-focused content was scant to say the least.
+
+**Naj Ahmed:** And then talking to them one-on-one, managing their internal client team.
+
+**Naj Ahmed:** So directive, they used Asana.
+
+**Naj Ahmed:** So setting up client dashboards, making sure the client had visibility to what work was being done.
+
+**Naj Ahmed:** So going all the way to the very tactical steps, like from research to setting up workflows to building out content templates, making sure we have buy-in from every member and then executing on those.
+
+**Naj Ahmed:** And then the last step was setting up dashboards.
+
+**Naj Ahmed:** So I personally use Looker, but some clients have, let's say, privacy requirements.
+
+**Naj Ahmed:** So they prefer sticking to the Microsoft ecosystem.
+
+**Naj Ahmed:** Power BI is one.
+
+**Naj Ahmed:** So setting up dashboards and then making sure
+
+**Naj Ahmed:** or that reporting is being done on those client pieces was critically important because one of the things that I saw at least from 2023 to even early this year is there was a lot of focus on bottom line revenues.
+
+**Naj Ahmed:** How is the content that we are producing actually turning into conversions?
+
+**Naj Ahmed:** What are we doing to support our marketing campaigns?
+
+**Naj Ahmed:** So if we have a new product launch, how are we managing that?
+
+**Naj Ahmed:** So part of it was also optimizing the content.
+
+**Naj Ahmed:** So that added another layer of CRO, which I can give you suggestions, but you need a human mind to actually anticipate and understand, hey, how are people actually going through this page and what we can do around it?
+
+**Naj Ahmed:** And then when you're working with content writers, right, you can't expect them to know it all.
+
+**Naj Ahmed:** So what I would do is we would host like a biweekly lunch and learn sort of thing.
+
+**Naj Ahmed:** And then just talk about how the team, and this is more from a managerial standpoint, is how they're leveraging.
+
+**Naj Ahmed:** How they can do better.
+
+**Naj Ahmed:** This helped, personally, sorry, if I'm going on a tangent here, but this helped create like feedback loops and also helped the team a lot, especially specialists on the team, understand how different AI tools can help them optimize their workflows.
+
+**Naj Ahmed:** Yeah.
+
+**Naj Ahmed:** Yeah, cool.
+
+**Matthew Panzarino:** No, that's good.
+
+**Matthew Panzarino:** Thank you.
+
+**Matthew Panzarino:** That's great context.
+
+**Matthew Panzarino:** And I think a lot of the work, you know, there's a natural overlap with a lot of that with what we do.
+
+**Matthew Panzarino:** So the task of the ME and one of the reasons that this is such a hard world to hire for is like, it definitely is kind of set, straddles that line between, okay, you need to understand just content tactics and, you know, performance and make, you know, organic, authentic, informed suggestions to a client because a lot of times they are leaning on us.
+
+**Matthew Panzarino:** Now, sometimes we work with larger clients and maybe they have an internal growth team or as you experience, sometimes the SEO person.
+
+**Matthew Panzarino:** And so when we interact with them, sometimes we just have to be the adult in the room about the content and say like, hey, we really, we're seeing these signals.
+
+**Matthew Panzarino:** We're data backed, but also our experience backed.
+
+**Matthew Panzarino:** And we'd like to like move into this cluster of content or develop a new cluster or talk about a new strategy or a reset or whatever.
+
+**Matthew Panzarino:** And like going into those meetings and talking to them on a weekly basis.
+
+**Matthew Panzarino:** And then in between, making sure that we're not just sort of like churning out our deliverables and that they actually are driving towards goals.
+
+**Matthew Panzarino:** Because in the near term, it feels good to deliver on time.
+
+**Matthew Panzarino:** But then six months or 12 year renewal cycles, all of a sudden you're like, what have we done?
+
+**Matthew Panzarino:** What have you done for me over the, you know, what have you done for me lately?
+
+**Matthew Panzarino:** What can you prove that you've done that you've accomplished?
+
+**Matthew Panzarino:** And I think that that's the thing that the disconnect that we want to solve for, that's like a lot.
+
+**Matthew Panzarino:** A our Emmys maybe hadn't done that work before.
+
+**Matthew Panzarino:** Like they've done the editorial components of it, but not so much the reporting and frankly, like, oh gosh, accountability aspect of it.
+
+**Matthew Panzarino:** You know, like, hey, at the end of the day, they're paying you a lot of money and they really want results.
+
+**Matthew Panzarino:** They are not paying you a lot of money to deliver them content on time.
+
+**Matthew Panzarino:** They are paying you money for outcomes.
+
+**Matthew Panzarino:** And I think that that's kind of like a big thing.
+
+**Matthew Panzarino:** So I'm glad you had some experience there.
+
+**Matthew Panzarino:** And then on the workflow side, which is the other, that's one of the reasons it's so hard is because, okay, we can find content strategists who have done a lot of that work and are really deep in that world.
+
+**Matthew Panzarino:** But then they have little to no experience prompting LLMs or understanding how to engineer context.
+
+**Matthew Panzarino:** And because the context engineering components of this, in our case, the way we work is that we generally create a set of core artifacts.
+
+**Matthew Panzarino:** And then instead of like secondary and tertiary artifacts that relate to the content that we're...
+
+**Matthew Panzarino:** The core artifacts are probably not all that surprising.
+
+**Matthew Panzarino:** It's a company context artifact that basically is like, hey, what is this company?
+
+**Matthew Panzarino:** What does it do?
+
+**Matthew Panzarino:** What are its products?
+
+**Matthew Panzarino:** That sort of thing.
+
+**Matthew Panzarino:** Then it is an audience personas artifact, which allows us to detail what audiences we're writing for, who is this content for.
+
+**Matthew Panzarino:** And then the trickiest to execute is the writing guidelines, rules, guidelines.
+
+**Matthew Panzarino:** Write noise, all of that stuff.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** Exactly, exactly.
+
+**Matthew Panzarino:** And those artifacts, and I'm using those in general terms because sometimes they're split into more than three because of where they need to actually be executed in the pipeline.
+
+**Matthew Panzarino:** But in aggregate, those are the ones that are important to create.
+
+**Matthew Panzarino:** But to create those properly, you do need to have some experience with how LLMs parse things and the semantics that is appropriate for them to read and access.
+
+**Matthew Panzarino:** Just context engineering in general is a good chunk of the job.
+
+**Matthew Panzarino:** next time.
+
+**Matthew Panzarino:** Because that's a force multiplier.
+
+**Matthew Panzarino:** Like if you're able to content, you know, context engineer well and give the LLM proper context and then prompt engineer well to make sure that the instruction sets that you're giving to the pipelines are sound, they will save you, you know, hundreds or thousands of hours, right?
+
+**Matthew Panzarino:** And make your life pretty good, you know, working here.
+
+**Matthew Panzarino:** And if it's not, then it can feel like a bare knuckle brawl every week to try to get content out because you're struggling with how the pipeline is interpreting the instructions and so on and so forth.
+
+**Matthew Panzarino:** So love to hear from you a little bit about, you know, how you've worked with like context or prompts or both and then any workflow experience that you've had.
+
+**Naj Ahmed:** Yeah, absolutely.
+
+**Naj Ahmed:** So I actually talk about something that I've been doing at COM 100, which is where I work right now.
+
+**Naj Ahmed:** So we were, we have the business subscription for both Claude and ChatGPT.
+
+**Naj Ahmed:** And these are like one of the key tools that I'm currently using.
+
+**Naj Ahmed:** Um, and then GPD came out with GPD five and that's as you.
+
+**Naj Ahmed:** already know not as good when it comes to writing content.
+
+**Naj Ahmed:** Sorry, can you hear me?
+
+**Matthew Panzarino:** Yeah, I can hear you.
+
+**Naj Ahmed:** Sorry.
+
+**Naj Ahmed:** Yeah.
+
+**Naj Ahmed:** Sorry, I have a habit of going perfectly still.
+
+**Matthew Panzarino:** Sometimes it feels like...
+
+**Matthew Panzarino:** It's perfectly okay.
+
+**Matthew Panzarino:** I'm listening.
+
+**Naj Ahmed:** Yeah, so part of the, one of the challenges that we face is because we work with two very separate personas.
+
+**Naj Ahmed:** For instance, one is in the gaming space, another is the government space, and then one is higher education.
+
+**Naj Ahmed:** So the content, the challenge was scaling content production and making sure that we were targeting these personas and talking about solutions that are, at the end of the day, similar, but targeting very different pain points.
+
+**Naj Ahmed:** So one of the things that I did was when we were prompt engineering, were coming up with a library of prompts, prompts that we could use in content.
+
+**Naj Ahmed:** So again, I handled the entire content marketing side of things, and I was also responsible for setting up this workflow for the content team.
+
+**Naj Ahmed:** And what I found out was, when I came to...
+
+**Naj Ahmed:** Technical content that actually speaks to a higher education audience, and especially in the government sector, Claude does a fantastic job, right?
+
+**Naj Ahmed:** It's better in terms of just writing in a more empathetic manner, and it required generally less input from us, like, as humans.
+
+**Naj Ahmed:** And GPT was a lot better at more technical side of things.
+
+**Naj Ahmed:** So when you're talking about explaining very, very complex concepts, because the tool that the company offers is an AI tool itself.
+
+**Naj Ahmed:** So explain really technical concepts about natural language processing, LLMs, and GPT, especially 4, was a lot better.
+
+**Naj Ahmed:** So we got, like, a private subscription for GPT 4, and then that helps a lot.
+
+**Naj Ahmed:** And then in terms of what you asked about automation workflows, so part of content marketing is managing the SEO side of things as well, making sure that your writers don't have to.
+
+**Naj Ahmed:** Log through a whole bunch of keywords and start integrating them because you want to save as much time as possible, especially when you're talking about LSI keywords.
+
+**Naj Ahmed:** So there are separate tools for this.
+
+**Naj Ahmed:** I use NeuronWriter for adding the LSI keywords.
+
+**Naj Ahmed:** There's another tool you probably know about at Phrase.
+
+**Naj Ahmed:** That helps identify content gaps.
+
+**Naj Ahmed:** So if you're researching, say, the top performing five or 10 pieces on Google that are ranking for a particular keyword and you want your client and position them as the leading expert, Phrase helps save so much time in general.
+
+**Naj Ahmed:** So we use those, we integrate them.
+
+**Naj Ahmed:** We have, I've set up API integration for these tools, which creates like an internal, I would say, I don't want to use the word content engine because it's been beaten to that so much.
+
+**Naj Ahmed:** But that's sort of what we have going for us to create content at scale.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Got it.
+
+**Matthew Panzarino:** No, that's great.
+
+**Matthew Panzarino:** It's good context because, so lately we were, I don't know if Marilia talked to you about.
+
+**Matthew Panzarino:** Kind of like the way we're operating internally, but we essentially, we're about three months now, we've had our own tool.
+
+**Matthew Panzarino:** We launched about three months ago internally, and that tool is called Atlas.
+
+**Matthew Panzarino:** Atlas is, if you, have you ever used like make.com or Enidin or Zapier or Aerox, you know, any of those?
+
+**Matthew Panzarino:** Yeah, so we, you know, originally Marcel was using Aerox to do some stuff, you know, before he founded GrowthX.
+
+**Matthew Panzarino:** And, and that, so when GrowthX was founded, we were initially, we wrote our code and then hooked it up to Aerox.
+
+**Matthew Panzarino:** Basically, Aerox was an execution layer, right?
+
+**Matthew Panzarino:** And that was fun.
+
+**Matthew Panzarino:** And nothing bad to say about Aerox besides the fact that we just hit its limits, right?
+
+**Matthew Panzarino:** Because it's a generalized tool.
+
+**Matthew Panzarino:** And so we hit, hit, hit the limits in terms of like speed, flexibility, adaptability.
+
+**Matthew Panzarino:** We wanted to build so many more things and we knew we had to launch our own platform to do that.
+
+**Matthew Panzarino:** So we, we launched Atlas and have been building that out internally and it's great, right?
+
+**Matthew Panzarino:** It's.
+
+**Matthew Panzarino:** By it's great, I mean, it's great to build our own tool.
+
+**Matthew Panzarino:** It's still, oh, it works, it works, it it works, but it's still very much work in progress.
+
+**Matthew Panzarino:** But what it does do great at is it allows us to like architect our pipelines and then build whatever tools around it that we need to execute on for clients.
+
+**Matthew Panzarino:** And so we, Atlas, the form of Atlas is fairly straightforward.
+
+**Matthew Panzarino:** You have, it's a dashboard.
+
+**Matthew Panzarino:** I can actually show you just a tiny bit, just to give you some context.
+
+**Matthew Panzarino:** But the, the concept is, is that we have a client space.
+
+**Naj Ahmed:** This is all internal facing currently, but some of it will be client facing eventually.
+
+**Matthew Panzarino:** And then some of it will be external facing down the line.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** So I'll just show you in a test space so that I'm not showing you any client work here, but where's mine?
+
+**Matthew Panzarino:** Where, where is, oh, here we So, you know, we have our, our dashboard basically shows us the, the content for the client.
+
+**Matthew Panzarino:** This is a test space.
+
+**Matthew Panzarino:** So it's placeholder, but we'll, we have scoring and traffic.
+
+**Matthew Panzarino:** So basically you could imagine this like combination of scrunch and looker, you know, like scrunch for geo visibility and looker for general GA for and Google console stuff.
+
+**Matthew Panzarino:** And then we've got our artifacts for the client.
+
+**Matthew Panzarino:** So this is where our artifacts are housed, the things like the writing guidelines and post-processing checklists and in other documentation that they provide us.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** That all lives in a knowledge base.
+
+**Matthew Panzarino:** So we were able to like build that into build a knowledge base of information here over time.
+
+**Matthew Panzarino:** But just this is really about speed and precision.
+
+**Matthew Panzarino:** So we're able to say define a body of research for a client rather than engaging a researcher for every article that we want to write because that researcher may find random stuff and it may find, you know, things that you don't want.
+
+**Matthew Panzarino:** So we can focus it on a specific body of research and then we can also refine that research over time.
+
+**Matthew Panzarino:** And it also helps with speed because when you execute a researcher with every.
+
+**Matthew Panzarino:** Pipeline, A, it could take like 10 minutes to run a pipeline.
+
+**Matthew Panzarino:** If you're using something deeper like EXA or Tavali, not just like perplexity deep research, but something actually better, all of sudden the time balloons and so does the cost, right?
+
+**Matthew Panzarino:** So if you're able to build a knowledge base over time, it's helpful.
+
+**Matthew Panzarino:** And the actual running of the pipelines looks something like the, let me show you one of those, like actually had some runs in it.
+
+**Matthew Panzarino:** These are all tests, so who knows what's actually going on in here.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Anyhow, it's sort of like, sort of like this.
+
+**Matthew Panzarino:** So you're basically, you've got a topic, then it goes and it creates the assignment, does research on the assignment, builds an outline, a draft, and then generates the article and then generates cover images and all that stuff, right?
+
+**Matthew Panzarino:** So this is actually an old prototype.
+
+**Matthew Panzarino:** It's actually much nicer, but you basically get the idea.
+
+**Matthew Panzarino:** give it an input that's a topic.
+
+**Matthew Panzarino:** You can give it some assignment direction if you want.
+
+**Matthew Panzarino:** You give it a basic topic.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Appointment scheduling software, assignment brief.
+
+**Matthew Panzarino:** Here it goes.
+
+**Matthew Panzarino:** It's going to create a brief for you.
+
+**Matthew Panzarino:** Then it's going to do research on that.
+
+**Matthew Panzarino:** Then it's going to deliver an outline, then an article draft, then a cover image if we ask it to.
+
+**Matthew Panzarino:** And then we've got our output, which is basically the final drafted article, et cetera.
+
+**Matthew Panzarino:** And at each of these steps, you've got human intervention, right?
+
+**Matthew Panzarino:** Human in the loop can say, oh, this doesn't belong in the outline.
+
+**Matthew Panzarino:** The client says they don't want this section, right?
+
+**Matthew Panzarino:** Like this is, get this out of here, right?
+
+**Matthew Panzarino:** But basically, the job of the CM is the content manager is to run these pipelines on a daily basis and then do the editing that needs to be done to get it in client order when it's coming out the other end of the pipeline.
+
+**Matthew Panzarino:** We don't do like spray and pray, like, you know, SEO trash content.
+
+**Naj Ahmed:** It's all very high quality.
+
+**Matthew Panzarino:** So that's why the humans are there looking at it to make sure that it does make sense, that it is driving towards those goals.
+
+**Matthew Panzarino:** And then as an ME, of course, you would be interacting with these at a...
+
+**Matthew Panzarino:** Capacity to, like, make sure that the context artifacts are sound and update them and make sure that the articles and content that is being executed is being served well by the pipeline.
+
+**Matthew Panzarino:** Because you're like, oh, you know what?
+
+**Matthew Panzarino:** You're talking with your CM about it, and they're like, oh, you know, I'm running these, but I'm seeing this over and over.
+
+**Matthew Panzarino:** You're like, hey, let's file a ticket.
+
+**Matthew Panzarino:** Let's get this pipeline updated so that it no longer does those things that are costing you time and efficiency, right?
+
+**Matthew Panzarino:** Because, like, at the end of the day, if we can get it to a place where we run a pipeline, and then it's within five to ten minutes of, like, editable for client view or to pass on to you, and so you can gut check it and make sure that you are comfortable presenting it to the client that week, that's scalable, you know, big time.
+
+**Matthew Panzarino:** But if we are like, hey, we run something, and then it takes us an hour and a half to get this in client-facing shape, you can't deliver 30, 40 pieces of content every week.
+
+**Matthew Panzarino:** It's impossible, right?
+
+**Matthew Panzarino:** Whereas we...
+
+**Matthew Panzarino:** When the pipelines do work well, that's actually very easy, you know, to like deliver 20, 30, 40 pieces of content in a week for usually not just one client, but usually like three or four clients.
+
+**Matthew Panzarino:** It's actually very straightforward to do when the pipelines are operating correctly, when they've been architected correctly.
+
+**Matthew Panzarino:** So it's kind of like the role is a mix of like hip pocket understanding of what good content looks, feels, and tastes like so that you understand the texture of it and how it's supposed to feel so that you know it's ready for client delivery.
+
+**Matthew Panzarino:** And then working backwards from there on a process level to understand, hey, what's missing from these pipelines?
+
+**Matthew Panzarino:** Is it a workloads missing?
+
+**Matthew Panzarino:** Is it a context engineering input that we're giving it that's causing this misinterpretation or this dropping quality?
+
+**Matthew Panzarino:** You know, what's going on here, right?
+
+**Matthew Panzarino:** And some, frankly, sometimes is it operator error?
+
+**Matthew Panzarino:** You know, you're talking to the CM and you're like, wait, okay, talk me through your process.
+
+**Naj Ahmed:** Let's figure out a solution here.
+
+**Matthew Panzarino:** And if we can't solve it, let's do one of two things.
+
+**Matthew Panzarino:** Be incredibly high.
+
+**Matthew Panzarino:** Agency and ProActive and just use whatever agnostic tool you have.
+
+**Matthew Panzarino:** Like, there's no shame in having a cloud project on the side that you're, like, we have our company cloud instances set up because I am able to prototype, like, a new instruction set for a pipeline in a cloud project with the same context of documents and that sort of thing and go, you know, let me try this.
+
+**Matthew Panzarino:** Let me try this.
+
+**Matthew Panzarino:** Oh, it didn't work.
+
+**Matthew Panzarino:** Oh, nailed it.
+
+**Matthew Panzarino:** Okay, this feels really good.
+
+**Matthew Panzarino:** And I file a ticket and say, hey, here's my cloud project.
+
+**Matthew Panzarino:** You know, here's the instruction set.
+
+**Matthew Panzarino:** Here's the results that I got.
+
+**Matthew Panzarino:** Can we make sure the pipeline does this?
+
+**Matthew Panzarino:** Because if it does this, it's going to save us hours a week, right?
+
+**Matthew Panzarino:** Great.
+
+**Matthew Panzarino:** Boom.
+
+**Matthew Panzarino:** You know, one step forward down the line towards actually being able to operate efficiently, right?
+
+**Matthew Panzarino:** And, like, that is we want to make sure that people at that ME layer want to do that kind of work, right, and are comfortable with it.
+
+**Matthew Panzarino:** Because, frankly, some people come from the content world and they're, like, hey, they're really good at content and they really want to deliver high-quality work.
+
+**Matthew Panzarino:** But the way...
+
+**Matthew Panzarino:** way...
+
+**Matthew Panzarino:** A, that it defaults to them.
+
+**Matthew Panzarino:** And this is really, I'm looking out for you and anybody else in this role because a lot of people will default to bare knuckle.
+
+**Matthew Panzarino:** Like, they'll be like, hey, it's okay.
+
+**Matthew Panzarino:** I'll just spend 15 hours and get this done.
+
+**Matthew Panzarino:** Hey, bravo.
+
+**Matthew Panzarino:** Like, thank you so much for wanting to deliver high quality work and not let the side down and all of that.
+
+**Matthew Panzarino:** But don't do that.
+
+**Matthew Panzarino:** Because A, that's not the business we're in, you know, and then B, you're going burn out.
+
+**Matthew Panzarino:** You know, you're going to be upset and you're going to be mad and you're going to be like, I need to find another job.
+
+**Matthew Panzarino:** Now, I don't want that.
+
+**Matthew Panzarino:** Like, want people to feel like, hey, we're progressing.
+
+**Matthew Panzarino:** And yes, every once in a while, just being honest, you got to bare knuckle something.
+
+**Matthew Panzarino:** But then you're like, okay, while I'm doing that, while I'm grabbing and manipulating manually, I'm going to record what I'm doing.
+
+**Matthew Panzarino:** Like, I'm going to understand it.
+
+**Matthew Panzarino:** I'm going to document it.
+
+**Matthew Panzarino:** And whether that's in a cloud project or whether it's in notes or whatever, I don't care, whatever.
+
+**Matthew Panzarino:** You're going to screen record yourself.
+
+**Matthew Panzarino:** Whatever it is, you're doing the process.
+
+**Matthew Panzarino:** Then you're able to articulate that process.
+
+**Naj Ahmed:** And then we're able
+
+**Matthew Panzarino:** Let's say, awesome, let's engineer that process.
+
+**Matthew Panzarino:** And then boom, now you have something that actually works on an automated basis.
+
+**Matthew Panzarino:** And plenty of the stuff that Atlas does now was stuff that I or other people were like, oh, let just begin this now, right?
+
+**Matthew Panzarino:** And then we like explain it, like wave our hands a lot to engineering and they're like, okay, okay, okay, file a ticket, you know?
+
+**Matthew Panzarino:** And then we go file it and now it's a feature, right?
+
+**Matthew Panzarino:** And like, that's great.
+
+**Matthew Panzarino:** You know, it's fun work.
+
+**Matthew Panzarino:** You're not like screaming into the void using a tool that you wish would be better, but you really have no say, you know, you have no input at all.
+
+**Matthew Panzarino:** So it's not that world, which I, you know, hopefully is gratifying to people that like to build stuff.
+
+**Matthew Panzarino:** So anyhow, that's, you get the kind of basic concept.
+
+**Naj Ahmed:** Yeah.
+
+**Naj Ahmed:** I mean, I'll be honest with you early on in my career, I would say I've, we've all been there, right?
+
+**Naj Ahmed:** Where you're like, ah, , I'm sorry.
+
+**Naj Ahmed:** I'm like, I'm going to, like, you're like, I'm going to just go in and do everything, especially because when you have deadlines.
+
+**Naj Ahmed:** It's coming up.
+
+**Naj Ahmed:** And so part of, as I've grown in my career has been learning.
+
+**Naj Ahmed:** How to build workflows that are scalable, especially at Directive, because we had so many deliverables.
+
+**Naj Ahmed:** When you're doing client reporting, when you're doing content in general, many times you're just so keen on, let me just dive in and sort it out for you.
+
+**Naj Ahmed:** But then what that does is, in your case, if you have CMs, it takes the educational component away from them too, and that's the last thing you want.
+
+**Naj Ahmed:** And so, like I said, when we were, Directive has its own tool called Stratus, and so we were working on that.
+
+**Naj Ahmed:** Part of it was also making sure that we identify the pitfalls, and like you said, record them, and then give feedback.
+
+**Naj Ahmed:** So what I can hear from you is, A, engineering is really responsive, which is awesome to hear.
+
+**Naj Ahmed:** Yeah, they're in the thick of it, always, yeah.
+
+**Naj Ahmed:** Right, that's awesome to hear.
+
+**Naj Ahmed:** And another one question I had is, right now, what is the biggest challenge that the CMs face, which is very time-consuming, in your opinion, and that is...
+
+**Naj Ahmed:** ...
+
+**Naj Ahmed:** ...
+
+**Naj Ahmed:** They can be solved quickly.
+
+**Matthew Panzarino:** there's two big time sucks.
+
+**Matthew Panzarino:** One is briefs and assignment generation.
+
+**Matthew Panzarino:** Basically, like, what is the structure of the article?
+
+**Matthew Panzarino:** How do I generate, like, a solid structure that pleases the client that's going to achieve goals?
+
+**Matthew Panzarino:** A lot of time is eaten up there because we have...
+
+**Matthew Panzarino:** So the earlier versions of our pipelines were really designed to do large-scale, keyword-driven, structure-agnostic generation.
+
+**Matthew Panzarino:** In other words, give us 250 keywords.
+
+**Matthew Panzarino:** We will find the best format for this article.
+
+**Matthew Panzarino:** We will do SERP analysis.
+
+**Matthew Panzarino:** This is the pipeline saying we.
+
+**Matthew Panzarino:** So the pipeline, it goes out, pulls the SEMrush API, does SERP analysis, finds the highest-ranking articles for that keyword, analyzes the articles, and understands what format they're in, compares those...
+
+**Matthew Panzarino:** It to an internal library of types, like basically structures, and then says, no problem, I know what you need, and then it generates a brief based on that.
+
+**Matthew Panzarino:** That's cool if the client doesn't care at all about the structure of the article, but how many clients have you worked with that don't care at all about what structure the article takes?
+
+**Matthew Panzarino:** No, yeah, and the more stakeholders are on the call, the more they care, because they have to.
+
+**Matthew Panzarino:** They have to justify their job, right?
+
+**Matthew Panzarino:** And so it's like, hey, trust me, this will rank really well for this keyword doesn't really fly, because they're like, oh, no, I want like how-tos, or I want, you know, complete guides, or, you know, right, right.
+
+**Matthew Panzarino:** They work, and this is, honestly, some of this is based on the fact that, like, the original version of the product was designed for Marcel, and Marcel was an overworked CMO who had no backing by leadership, a.k.a.
+
+**Matthew Panzarino:** the CEO, to, like, spend a bunch of money on the content universe, and he's like, I'm...
+
+**Matthew Panzarino:** No, organic content will do well for us.
+
+**Matthew Panzarino:** We could spend money here instead of throwing it into the black void of Facebook ads, and it will pay dividends long down the road, right?
+
+**Matthew Panzarino:** Which, you know, Facebook ads, the moment you stop paying, the moment they stop producing.
+
+**Matthew Panzarino:** With organic content, you can publish it, establish authority, and it can pay dividends for years, right?
+
+**Matthew Panzarino:** And sometimes it doesn't even begin to pay dividends for months.
+
+**Matthew Panzarino:** But then when it does, you're like, oh, my God, I'm so glad I sowed those seeds months ago, right?
+
+**Matthew Panzarino:** So he was looking for a way to do that fast with almost no input from any other human but himself, right?
+
+**Matthew Panzarino:** And that is the original way the tool was built.
+
+**Matthew Panzarino:** But yada, yada, yada, now we're in a place where we are interacting with clients who have much more specific ideas about the kinds of content that they want to create or the emotions that they want to support internally.
+
+**Matthew Panzarino:** Hey, we're launching a white paper, and we really want like a half dozen articles a week about this white paper's topics.
+
+**Matthew Panzarino:** Don't reference white paper, it's not launched yet, but we need an article.
+
+**Matthew Panzarino:** And, you know, that support its theses, et cetera.
+
+**Matthew Panzarino:** We would love them to take the form of, like, we want, like, three how-tos, three glossary pages, you know what I mean?
+
+**Matthew Panzarino:** Whatever, right?
+
+**Matthew Panzarino:** They have ideas.
+
+**Matthew Panzarino:** And you need to then take those ideas and give them to the pipeline in a way that allows the pipeline to execute on them.
+
+**Matthew Panzarino:** So you have to build those briefs.
+
+**Matthew Panzarino:** So I think a lot of the CMs struggle with that because either they have not done that work at scale or even if they have, they still need to deliver, like, 10 pieces of content this week.
+
+**Matthew Panzarino:** And they're like, oh, gosh, I need to build 10 briefs.
+
+**Matthew Panzarino:** really takes me, like, an hour to build a solid brief, you know, to do the research and do all this.
+
+**Matthew Panzarino:** So right now we are architecting a new agentic assignment generator, which will generate, like, holistic briefs very well.
+
+**Matthew Panzarino:** We're not there yet.
+
+**Matthew Panzarino:** So that's pain for them now.
+
+**Matthew Panzarino:** I have instructed some of them on how I do them, which is, like, a mixture of my brain and cloud projects, which is, like, hey, put the contextual documents in
+
+**Matthew Panzarino:** And then here's how you prompt yourself out a good outline without too much fuss, right?
+
+**Matthew Panzarino:** But that kind of thing is pain.
+
+**Matthew Panzarino:** The second big pain is I've run the pipeline and I've gotten it.
+
+**Matthew Panzarino:** I've gotten output.
+
+**Matthew Panzarino:** The output is, let's call it 70, 80 degrees off of where we actually need it to be, right?
+
+**Matthew Panzarino:** We want it to be within 5% of the client deliverable target coming out of the pipeline because the last 5% is you, right?
+
+**Matthew Panzarino:** But we're like 70, 80% off.
+
+**Matthew Panzarino:** Okay, how do we get it there?
+
+**Matthew Panzarino:** How do we close that gap?
+
+**Matthew Panzarino:** So that's another big pain point.
+
+**Matthew Panzarino:** I try to work with CMS a lot directly on this because, you know, they're in the flow.
+
+**Matthew Panzarino:** They're in the flow of work, all this.
+
+**Matthew Panzarino:** Some MEs are just better at this because they've done this kind of work before.
+
+**Matthew Panzarino:** And so they can help those CMS articulate or clear blockers or whatever.
+
+**Matthew Panzarino:** And some of them are just more from the content universe.
+
+**Matthew Panzarino:** And so they're like, I don't know.
+
+**Matthew Panzarino:** Like I know how to fix this content or help you to understand how to fix it.
+
+**Matthew Panzarino:** But I don't really know how to articulate the workflows, right?
+
+**Matthew Panzarino:** Now, thankfully, most of the current MEs that are here are good at both, but some that we hired in the past aren't.
+
+**Matthew Panzarino:** That's why this ME position now has technical in front of it instead of just managing editor, right?
+
+**Matthew Panzarino:** Because we need people who are ready to understand, okay, what's the delta between here, where it's coming out of the pipeline, and what's client deliverable?
+
+**Matthew Panzarino:** How do we articulate that process and then close that gap by filing tickets, improving context engineering, improving prompts, et cetera?
+
+**Matthew Panzarino:** Those I would, I just did a round of one-on-ones with all the CMS.
+
+**Matthew Panzarino:** try to do that every 90 days or so or 60 days just to make sure I understand what Averbrae's real painting is like.
+
+**Matthew Panzarino:** I also personally manage three clients so that I can see it really close so that I'm not like, it's not some sort of three layers away, somebody's complaining, then eventually makes its way to me, right?
+
+**Matthew Panzarino:** I know what pain they deal with on a daily basis.
+
+**Matthew Panzarino:** So that is probably the other big one.
+
+**Matthew Panzarino:** And that...
+
+**Matthew Panzarino:** Process is improved only by proper documentation, articulation, filing tickets, getting those motions clear, understanding what you really actually need.
+
+**Matthew Panzarino:** Because like a lot of times it's like, oh, it's doing this thing and I really don't know.
+
+**Matthew Panzarino:** It's like, okay, but maybe it's my job to come in, you know, as an ME and help you explain to me what you actually need.
+
+**Matthew Panzarino:** You know, not just it's bad.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** You know, and that kind of bit, I think those are the two big pain points, I would say.
+
+**Matthew Panzarino:** The other stuff is pretty good.
+
+**Matthew Panzarino:** Like the company is pretty transparent.
+
+**Matthew Panzarino:** The founders are very transparent about what we have going on, where we're headed.
+
+**Matthew Panzarino:** People can see essentially every channel is public.
+
+**Matthew Panzarino:** There's a handful of private ones, but very, very, on a very broad basis, most of the work is done in public.
+
+**Matthew Panzarino:** So you can absorb as much information as you care to, like the EPD flow, the flow of engineering.
+
+**Matthew Panzarino:** You can see what tickets they're working on, the products that they're working on.
+
+**Matthew Panzarino:** It's super nice because you kind of get it like a.
+
+**Matthew Panzarino:** The view of like, oh, okay, I see where we're headed here or the motions that are in play.
+
+**Matthew Panzarino:** The documentation heavy environment is great for people that like that.
+
+**Matthew Panzarino:** So if you're an autodidact, if you like to learn, you know, self-learn and, you know, teach yourself, you will have more than you care to ever absorb about everything that we do and have done.
+
+**Matthew Panzarino:** A lot of processes are documented very heavily, that kind of thing.
+
+**Matthew Panzarino:** So all of that stuff, I think, is pretty good vibes.
+
+**Matthew Panzarino:** Sometimes the CMs, I think their biggest pains is that they want to deliver good quality content and that they were up against time constraints, right?
+
+**Matthew Panzarino:** It's the same thing almost everywhere.
+
+**Matthew Panzarino:** But I just think with content, it's especially important because they feel like, they feel responsibility to deliver high quality work.
+
+**Matthew Panzarino:** And then, you know, it's my job to be like, remind them, hey, you know, you don't have to break out the pickaxe on this.
+
+**Matthew Panzarino:** Like we have machinery, let's make sure we can task it appropriately to do the job, you know, or to help you, help the lift on this job.
+
+**Matthew Panzarino:** So that's a lot of rambling, but I hope.
+
+**Naj Ahmed:** No, absolutely.
+
+**Naj Ahmed:** That was extremely insightful.
+
+**Naj Ahmed:** does give me a pretty clear lay of the land of what you're looking for.
+
+**Naj Ahmed:** And yeah, I mean, I have experience doing most of this stuff, but obviously when you come into a different environment, the tool is different, all of that stuff.
+
+**Naj Ahmed:** So it will take, I guess, like onboarding, but that, I mean, one of the things that I can understand from what you're saying, I'm pretty sure there's going to be some overlap.
+
+**Naj Ahmed:** So let's say when you are producing an assignment and it's, if it's like 60, 70 degrees off, and then part of the role is also identifying patterns about, hey, we're doing assignments or briefs for two or three clients.
+
+**Naj Ahmed:** And all of these are coming out 60, 70 degrees off.
+
+**Naj Ahmed:** What's the variable?
+
+**Naj Ahmed:** What's the denominator here?
+
+**Naj Ahmed:** What are we doing wrong?
+
+**Naj Ahmed:** And then documenting those.
+
+**Naj Ahmed:** So yeah, analytical side of things, being very detail oriented about this, because I used to work as a managing editor.
+
+**Naj Ahmed:** Obviously the role at the time was called SEO, content and SEO coordinator for a company in the Netherlands.
+
+**Naj Ahmed:** And part of it was exactly that, because we used to work in the cybersecurity space, very tech content, and was managing B2C plus B2B.
+
+**Naj Ahmed:** So B2B was very different, B2C was different.
+
+**Naj Ahmed:** And so working closely with the writers and then educating them and figuring out, hey, I know you did this.
+
+**Naj Ahmed:** Obviously, you don't want to bring their morale down, but you want to also educate them about, like you said, instead of bringing out the pickaxe, there's a better way of doing things.
+
+**Naj Ahmed:** And I know you feel you can apply a quick fix right now, but it's only going to hamper your progress as you scale.
+
+**Naj Ahmed:** So making sure that you can communicate that well, assuming that's also a critical part of the job.
+
+**Naj Ahmed:** So yeah, I do have some experience doing that.
+
+**Matthew Panzarino:** Great, great.
+
+**Matthew Panzarino:** That's good to hear.
+
+**Matthew Panzarino:** Yeah, look, it's interesting work.
+
+**Matthew Panzarino:** It's not boring.
+
+**Matthew Panzarino:** They're good people.
+
+**Matthew Panzarino:** It just, like, the downsides, like, I gotta go, unfortunately, I have to jump to another call, but just, like, I'll leave you with a couple.
+
+**Matthew Panzarino:** A of downsides, right?
+
+**Matthew Panzarino:** It's a startup.
+
+**Matthew Panzarino:** So the product does change.
+
+**Matthew Panzarino:** And sometimes there's elasticity, right?
+
+**Matthew Panzarino:** Where we outstrip our ability to execute and then we have to catch up.
+
+**Matthew Panzarino:** And then vice versa.
+
+**Matthew Panzarino:** We're like, hey, we could do more.
+
+**Matthew Panzarino:** And then now we have to catch up there, right?
+
+**Matthew Panzarino:** And so that is not for everyone.
+
+**Matthew Panzarino:** Some people really thrive on execution in a steady state.
+
+**Matthew Panzarino:** And they're like, oh, I love to produce.
+
+**Matthew Panzarino:** And they're all about efficiencies gained.
+
+**Matthew Panzarino:** That's great.
+
+**Matthew Panzarino:** But if you don't mind the uncertainty of it, it's exciting.
+
+**Matthew Panzarino:** It's interesting work.
+
+**Matthew Panzarino:** But I cannot promise that we are like fully formed, you know, that you're coming into a world where everything is working precisely as we wish it would.
+
+**Matthew Panzarino:** All of that stuff.
+
+**Matthew Panzarino:** So just want to throw that out there.
+
+**Matthew Panzarino:** And then, you know, the changing nature of client delivery and context switching.
+
+**Matthew Panzarino:** I wouldn't consider it necessarily a pure negative, but it's absolutely something to be aware of.
+
+**Matthew Panzarino:** So if you are somebody who likes to like dig in on a singular context and really live in that world, you will probably have a chance to do that for some periods of time.
+
+**Matthew Panzarino:** But clients hopefully more come than go, but they come, but maybe their product changes, you know, so like they're all of a sudden we have to adapt to their new scenarios or we are pitching them new work streams and those things are new and challenging and more difficult than a simple editorial work stream.
+
+**Matthew Panzarino:** So there's always challenges around the corner.
+
+**Matthew Panzarino:** All of that stuff is here.
+
+**Matthew Panzarino:** I don't want to sugarcoat any of that stuff necessarily.
+
+**Matthew Panzarino:** But, you know, the work itself is interesting from an intellectual perspective.
+
+**Matthew Panzarino:** And if you are interested in AI and working with LLMs and sort of working to working with them to produce things that are at the limits of what they are actually capable of, that's why we had to build so much architecture on top of them, because LLMs turn out bad copy very easily.
+
+**Matthew Panzarino:** And so it's like, hey, we got to build a lot of, not just rails, but like reinforcements and training and...
+
+**Matthew Panzarino:** You know, the pipe that we built to, like, guide the raw energy of LLMs into this very specific job of creating a logical, authoritative, accurate content that does not feel like trash content, it's not easy.
+
+**Matthew Panzarino:** And we're still very much on the way, but it is very interesting and new work.
+
+**Matthew Panzarino:** Nobody has done the work that we're doing, which is cool.
+
+**Matthew Panzarino:** That's fun.
+
+**Naj Ahmed:** So, yeah, that's basically part of what attracted me to a client in the first place is an AI tool that is bringing together all of these components and then hyperscaling it to provide an actual service that moves the needle for clients.
+
+**Naj Ahmed:** Yeah.
+
+**Matthew Panzarino:** So, yeah.
+
+**Matthew Panzarino:** Sweet.
+
+**Matthew Panzarino:** Well, thanks very much.
+
+**Matthew Panzarino:** I appreciate it.
+
+**Matthew Panzarino:** Marilia will reach back out.
+
+**Matthew Panzarino:** I think you'll probably talk with another one or two folks here, like Andy and some other folks, maybe.
+
+**Naj Ahmed:** And then we'll go from there.
+
+**Naj Ahmed:** All right.
+
+**Naj Ahmed:** Thank you.
+
+**Matthew Panzarino:** And it's Najam or...
+
+**Naj Ahmed:** Najam.
+
+**Matthew Panzarino:** Najam.
+
+**Matthew Panzarino:** Yeah.
+
+**Naj Ahmed:** Very good.
+
+**Naj Ahmed:** Nice talking with you.
+
+**Naj Ahmed:** All right.
+
+**Naj Ahmed:** Cheers.
+
+**Naj Ahmed:** Najam.
+
+**Naj Ahmed:** Have a good one.
+
+**Naj Ahmed:** Bye.
+
+**Naj Ahmed:** Have a good day.
+
+**Naj Ahmed:** Bye-bye.

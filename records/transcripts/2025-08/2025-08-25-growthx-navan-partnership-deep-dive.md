@@ -1,0 +1,999 @@
+# GrowthX <> Navan - Partnership Deep-Dive
+
+<metadata>
+date: 2025-08-25
+time: 14:15 UTC
+duration: 44 minutes
+organizer: tyler@growthx.ai
+participants: Marcel Santilli, Tyler Pavlas, Nima Asrar Haghighi, Moran Brayer, Rich Beattie, Libby Zay
+fathom_recording_id: 82628784
+fathom_url: https://fathom.video/calls/388526520
+share_url: https://fathom.video/share/NCW6EB-GhVLXHh4eu4-nZw5vbDvVAeYw
+source: fathom
+enriched_on: 2026-03-03 20:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Marcel Santilli and Tyler Pavlas from GrowthX presented their AI-powered content creation platform and 8-week strategy sprint to Navan's demand generation and content team (Nima Asrar Haghighi, Moran Brayer, Rich Beattie, and Libby Zay). Navan is facing bandwidth constraints on a small team managing content for both PLG and SLG, plus the need to improve SEO rankings and AI search visibility. GrowthX's approach combines human editors with AI workflows to produce high-quality, well-researched content at scale, and proposes an 8-week fixed-cost engagement to map topic clusters, define strategy, and begin execution—with either party able to exit at the end if unsatisfied. The Navan team agreed to regroup internally and follow up with Marcel if interested in proceeding.
+
+---
+
+## Context
+
+Navan is a business travel and expense management platform operating under a hybrid go-to-market model (product-led and sales-led). Demand generation leader Nima Asrar Haghighi and his content team—which includes Rich Beattie (content producer for blogs, ebooks, thought leadership), Libby Zay (director of content marketing, overseeing content and design), and Moran Brayer (SEO lead, newly joined about one month prior)—are struggling to scale content production while maintaining editorial quality. The team is small relative to Navan's size and must support both PLG and SLG motions. They're also facing a new challenge: with AI search results becoming more prominent, they need to ensure visibility not just in traditional Google rankings but also in LLM outputs. GrowthX—which comprises Marcel Santilli (CEO/founder, former CMO at IBM and HP) and Tyler Pavlas (sales, former strategy consultant at PwC focused on enterprise content marketing)—has developed an end-to-end content creation methodology combining AI workflows with human editorial oversight, positioning this as a scalable alternative to hiring individual freelance writers, editors, and designers.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Navan's hybrid PLG/SLG motion and dual content production needs (brand/demand gen + product education) offers a realistic test of GrowthX's flexible content portfolio strategy
+- Navan's emphasis on SEO + AI visibility tracking aligns with GrowthX's strengths in both traditional search optimization and ensuring content surfaces in LLM results (currently tracking via Scrunch API, planning in-house solution)
+- 8-week sprint model with clear decision point (either party can exit) reduces perceived risk for Navan and establishes data-driven proof of concept before longer-term engagement
+
+**To CheckThat:**
+- Navan's interest in AI search visibility and their in-development visibility tracking tool are directly relevant to CheckThat's mission; potential future integration or joint case study if engagement moves forward
+- Opportunity to demonstrate CheckThat's AI visibility index capabilities as part of GrowthX's weekly reporting and insights loop (currently delivered via Slack)
+
+**To GrowthX Business Development:**
+- $30k 8-week strategy sprint already in pipeline (per HubSpot deal record), with potential for longer-term engagement if results meet expectations
+- Navan team appears well-aligned on the need for external help and the GrowthX model; Nima is decision-maker and willing to evangelize internally if convinced
+- High-potential reference account: Navan's focus on performance metrics and direct attribution means concrete results will be measurable and defensible as a case study
+
+---
+
+## Overview
+
+- GrowthX offers an end-to-end AI-powered content creation and SEO optimization service, combining agency expertise with a proprietary platform
+- Their approach focuses on high-quality, well-researched content that performs well in both traditional search and AI-powered search results
+- GrowthX proposes an 8-week strategy and execution sprint to demonstrate capabilities and set initial strategy before longer-term engagement
+
+---
+
+## Key Topics
+
+### Navan's Content Marketing Challenges
+
+  - Small team managing content for both PLG and SLG, needing to scale content production
+  - Desire to improve SEO rankings and visibility in AI search results
+  - Need to balance editorial bandwidth with content production demands
+
+### GrowthX's AI-Powered Content Creation Process
+
+  - Uses AI workflows for research, drafting, and fact-checking
+  - Incorporates human editors for quality control and brand alignment
+  - Creates detailed "artifacts" (company context, writing guidelines, personas) to inform AI content generation
+  - Produces highly-cited, well-researched content that performs well in AI search results
+
+### Content Refresh and Optimization
+
+  - Monitors content performance (traffic, engagement, quality) to identify refresh candidates
+  - Uses both AI analysis and manual selection to prioritize content for updates
+  - Can handle complex content types (e.g., calculators, programmatic pages) with custom workflows
+
+### LLM Visibility Tracking
+
+  - Currently uses Scrunch API for tracking, but developing in-house solution
+  - Correlates data from Google Search Console, analytics, and AI visibility metrics
+  - Delivers weekly reports and insights via Slack
+
+### Strategy Development and Execution
+
+  - 8-week strategy and execution sprint to align on goals, map topic clusters, and begin content production
+  - Flexible approach to balance ongoing content needs with specific campaign support
+  - Collaborative process to prioritize content opportunities based on business needs
+
+---
+
+## Action Items
+
+**Nima Asrar Haghighi (Navan)**
+- Regroup with Navan team to discuss GrowthX proposal, evaluate if worth pursuing 8-week strategy sprint
+- If team agrees to proceed, follow up with Marcel re next steps for GrowthX engagement
+
+**Marcel Santilli (GrowthX)**
+- Await follow-up from Nima and Navan team on decision; prepare next steps proposal if they move forward
+
+---
+
+## Transcript
+**Marcel Santilli:** This meeting is being recorded.
+
+**Marcel Santilli:** Hey, what's up?
+
+**Tyler Pavlas:** Good morning, sir.
+
+**Tyler Pavlas:** You have a good time in Tahoe?
+
+**Marcel Santilli:** Yeah, it was really good.
+
+**Marcel Santilli:** A little tired, but it was good.
+
+**Marcel Santilli:** It started raining yesterday, too, which is kind of weird.
+
+**Tyler Pavlas:** It never rains in California.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** Well, got Nima and a couple other folks in the waiting room, so I'll go ahead and bring them in right now.
+
+**Marcel Santilli:** Cool.
+
+**Nima Asrar Haghighi:** Hello.
+
+**Nima Asrar Haghighi:** Good morning and good afternoon.
+
+**Moran Brayer:** Hello.
+
+**Marcel Santilli:** morning.
+
+**Marcel Santilli:** Good afternoon or somewhere in between.
+
+**Marcel Santilli:** How's everyone doing?
+
+**Marcel Santilli:** Happy Monday.
+
+**Nima Asrar Haghighi:** Happy Monday.
+
+**Nima Asrar Haghighi:** All right, are we waiting on anyone else on your site, Matt?
+
+**Nima Asrar Haghighi:** Let's see.
+
+**Nima Asrar Haghighi:** We might have Libby joining as well, so we could wait another couple of minutes, maybe we started a quick introduction and hopefully Libby could join us as well.
+
+**Marcel Santilli:** All right, sounds good.
+
+**Marcel Santilli:** Should we do, while we're waiting, intros on your end?
+
+**Nima Asrar Haghighi:** Yeah, I could get started and then pass along the button.
+
+**Nima Asrar Haghighi:** I have the demand generation here.
+
+**Nima Asrar Haghighi:** My goal is to focus on the enterprise marketing.
+
+**Nima Asrar Haghighi:** And the objective is to kind of accelerate our content production as well as the SEO ranking, as well as making sure that we are showing up on the AI search results.
+
+**Nima Asrar Haghighi:** So that's what I'm looking for.
+
+**Nima Asrar Haghighi:** We have Moran, maybe you go next.
+
+**Moran Brayer:** Hi, so Moran, I lead the SEO team.
+
+**Moran Brayer:** let's see.
+
+**Moran Brayer:** Let's see.
+
+**Moran Brayer:** Here at Navan, split in between PLG and SLG, and in charge of both fronts, and supporting Nima with whatever I can, and other teams on the organization.
+
+**Marcel Santilli:** Thanks, great to meet you.
+
+**Moran Brayer:** Thank you.
+
+**Rich Beattie:** Yeah, I am Rich Beattie.
+
+**Rich Beattie:** I work on the content team.
+
+**Rich Beattie:** Everything from e-books to blog posts, thought leadership, service, whatever needs to be done.
+
+**Marcel Santilli:** I love it.
+
+**Nima Asrar Haghighi:** Yeah, so Rich basically produces all the content that is kind of supporting my team in collaboration with Libby, who's also helping us with the content and creative.
+
+**Nima Asrar Haghighi:** Libby, welcome.
+
+**Nima Asrar Haghighi:** And if you don't mind making a quick introduction, we're going around.
+
+**Libby Zay:** Sure.
+
+**Libby Zay:** Hi, everybody.
+
+**Libby Zay:** Thanks for having me.
+
+**Libby Zay:** I'm the director of content marketing, and I help lead...
+
+**Libby Zay:** The content team and the design team as well.
+
+**Libby Zay:** So my role here.
+
+**Marcel Santilli:** Oh, that's perfect.
+
+**Marcel Santilli:** You got the whole team all appreciated.
+
+**Marcel Santilli:** I'll skip my intro and then I'll do an intro here in a second as I'm showing you all some things.
+
+**Marcel Santilli:** But Tyler, you want to do a quick intro when you're in?
+
+**Tyler Pavlas:** Yeah, absolutely.
+
+**Tyler Pavlas:** Great to meet you, Navan team.
+
+**Tyler Pavlas:** My name is Tyler Pavlas out of Houston.
+
+**Tyler Pavlas:** I'm on the sales side here at GrowthX.
+
+**Tyler Pavlas:** And prior to joining, started in strategy consulting at PwC and worked in enterprise software focused in content marketing.
+
+**Tyler Pavlas:** So really just love what Marcel and the team were doing, combining the quality of services with the speed and scalability of AI and software.
+
+**Tyler Pavlas:** So that's why I'm here today.
+
+**Marcel Santilli:** Perfect.
+
+**Marcel Santilli:** And then before I jump in, maybe just to kind of give a little bit of background on kind of how it started and things. Nima, are there any kind of pressures in the business or anything that would be helpful to kind of highlight up front? I know the way that I like to position is, especially for the rest of the team here—if you had a magic wand, you know, where could you use the most help, especially as you think about SEO and growth and content? I would love to just maybe hear before I jump in and make assumptions.
+
+**Nima Asrar Haghighi:** Yeah, think the biggest thing, the rest of the team, feel free to chime in.
+
+**Nima Asrar Haghighi:** I think the biggest thing from my point of view is that, as you say, this is the team.
+
+**Nima Asrar Haghighi:** It's not a massive team for the size of company we are.
+
+**Nima Asrar Haghighi:** And we need to kind of generate content that supports both our PLG as well as SLG team.
+
+**Nima Asrar Haghighi:** And we kind of need to kind of scale on how fast you could do it.
+
+**Nima Asrar Haghighi:** And also, in the meantime, with the AI introduction, we are seeing more and more of the search results.
+
+**Nima Asrar Haghighi:** So we want to make sure that we are ranking well on AI search results as well.
+
+**Nima Asrar Haghighi:** And Moran is starting to help us across the board, but he's only one month, right?
+
+**Nima Asrar Haghighi:** So just try to see if there are ways that, one, take the motion in a way that we could not only rank for SEO, but also on AI.
+
+**Nima Asrar Haghighi:** And two, we have Libby and Rich who are kind of approving our content.
+
+**Nima Asrar Haghighi:** And I want to be also mindful of their editorial bandwidth as well.
+
+**Nima Asrar Haghighi:** So those are the kind of the challenges that I see on my side.
+
+**Nima Asrar Haghighi:** Anything else that the team wants to add?
+
+**Libby Zay:** I think you covered it pretty well.
+
+**Libby Zay:** Thank you, Nima.
+
+**Nima Asrar Haghighi:** Of course.
+
+**Marcel Santilli:** Well, let me jump in and we'd love to give just a quick overview and then happy to show around a little bit of kind of how we work and things like that, but we can keep it super.
+
+**Marcel Santilli:** Conversation.
+
+**Marcel Santilli:** Well, I know I talk a little fast, so stop me if I'm going a little too fast, but give me just a second here.
+
+**Marcel Santilli:** I'll share my screen.
+
+**Marcel Santilli:** Can you guys see my screen okay?
+
+**Marcel Santilli:** All right, cool.
+
+**Marcel Santilli:** So at a high level, just to kind of set the context a little bit, because we're a little bit of a different model than I think a lot of companies out there, because we are agency and platform.
+
+**Marcel Santilli:** Our platform powers our service, and I'll explain a little bit more, but I was CMO and marketing leader for quite a while, and I had built a lot of these different programs as I was at IBM and HP, and every single time was kind of similar in the sense that we were hiring editors and publishing high-quality content on a weekly basis.
+
+**Marcel Santilli:** It would take a little while, but then once it finally started to take off, then it was the highest ROI thing we ever done, right?
+
+**Marcel Santilli:** And so as I went through my journey and built these programs over and over again, it was always a similar pain point where, you know, it's not only hiring people like, you know, like you all, right, internally, but then you all will come in and be like, okay, now we need to produce content.
+
+**Marcel Santilli:** Okay, I need editors, need writers, I need people to stage this content and the graphic designers.
+
+**Marcel Santilli:** Okay, now there's an outdated link somewhere in this thing.
+
+**Marcel Santilli:** Now I got to go clean it up.
+
+**Marcel Santilli:** I need to keep the content fresh.
+
+**Marcel Santilli:** And that's not even getting into distribution and other things, right?
+
+**Marcel Santilli:** So it's always a lot of work.
+
+**Marcel Santilli:** And a lot of these programs, like when I was at HP, we're doing 20 pieces of content a week.
+
+**Marcel Santilli:** And so the amount of work was kind of insane, right?
+
+**Marcel Santilli:** And so essentially, what I did was take all the processes that I had learned of how to scale these things successfully in these companies, and boil it down into workflows, and then take the similar type of people—editors, writers, experts—and put them in the loop. That's kind of how GrowthX got started.
+
+**Marcel Santilli:** And it was like, I, as a CMO, didn't want to go and hire an SEO agency here, an editor there, a writer here, a graphic designer there, and then still have to stitch all together.
+
+**Marcel Santilli:** And so what we try to do is take on as much as possible off of your plate, but still have you collaborating on the day-to-day, right?
+
+**Marcel Santilli:** So the idea is like an end-to-end service, and the reason we're able to do that without having to charge an insane amount of money is just because of the platform that we built under the hood.
+
+**Marcel Santilli:** So think of it as like we help with strategy, obviously with mature teams like you all, you all probably already have a lot of really strong thoughts that we can come in and help execute.
+
+**Marcel Santilli:** And then we have our platform that will show you that that's the AI workflows and execution layer, and then we have experts in the loop.
+
+**Marcel Santilli:** Those are editors, people that become experts in your space, and then also people in the service side that will do the execution, whether it's staging content, creating graphics, whatever.
+
+**Marcel Santilli:** Whatever it is, SEO audits, and we also do all the LM tracking and everything, visibility tracking as well, right?
+
+**Marcel Santilli:** And so the way to kind of think about it is there's like two sides, and then I'll jump to the form, but on one side, you have folks like Matthew Panzerino, who's our chief content officer who led TechCrunch for 10 years.
+
+**Marcel Santilli:** You have a bunch of amazing editors, design engineers, like you have just this like top-notch team that have a platform site.
+
+**Marcel Santilli:** We kind of built this platform that I'll show you that helps us with the execution, and over the next month or so, we'll start to expose more and more to customers so that you all can see the execution under the hood as well, right?
+
+**Marcel Santilli:** And I think one of the cool things is that we work with a lot of awesome companies, and so every company we work with, we're not copying and pasting a playbook, and you'll see kind of how we do it, but it just allows us to learn a ton of like, because each company challenges us differently.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** On what quality looks like.
+
+**Marcel Santilli:** And so really quickly here, I think that I won't spend too much time on this because you all know this already, but I think a couple of things that we're seeing with a lot of our customers is that even though some categories are losing traffic and clicks from search, what we're seeing is if you're doing a really good job with high quality content at scale across your different personas, the traffic that actually comes back is tends to be three to five X more valuable because the way I like to think about it is like your first sales calls call right now is happening in AI answers and conversations.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so it's a big shift that's happening, but it doesn't mean like search is going to go away.
+
+**Marcel Santilli:** It doesn't mean that your website is useless now all of a sudden.
+
+**Marcel Santilli:** It just means that like we need to combine both quality and skill and speed in everything we do as an execution.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** doesn't
+
+**Marcel Santilli:** I let's go do a bunch of garbage AI content.
+
+**Marcel Santilli:** It just means like, how do we scale and use AI where AI can be a hundred times faster and better than humans, and then figure out where human judgment is the best leverage possible, right?
+
+**Marcel Santilli:** To drive the right quality.
+
+**Marcel Santilli:** And so like, that's what we try to do is like scale quality, not scale garbage, right?
+
+**Marcel Santilli:** And I think one way to kind of think about it that always helps is the fact that like, before someone maybe was searching for, let's say, like software for architects, monograph here is one of our customers, whereas like now, as they're getting all this context, right, it creates this massive opportunity where you need to be audience first is kind of how we think about it, right?
+
+**Marcel Santilli:** And because you can't like search for the volume of a keyword in AI, right?
+
+**Marcel Santilli:** Like, so what that means is you need to gain a deeper understanding of your audience and map out all the topics they care about, right?
+
+**Marcel Santilli:** And that's kind of how you stay ahead.
+
+**Marcel Santilli:** And so that's kind of how we approach it.
+
+**Marcel Santilli:** And so before I jump into some of the examples, one, a couple of the things that kind of really play a factor that we try to highlight are, you know, make sure the content is researched and attributed, comprehensive.
+
+**Marcel Santilli:** Luckily, you all have a really strong brand.
+
+**Marcel Santilli:** And so that really plays to your advantage if you can also move fast.
+
+**Marcel Santilli:** And then up to date, I mean, you all have a lot of pages as well, like keeping all that content fresh, up to date, fact check, and I'll show you kind of how we do it.
+
+**Marcel Santilli:** And then I think a lot of the authority signals we're seeing works really well.
+
+**Marcel Santilli:** It's almost like what we're doing now, in addition to creating content that your audience is really compelling and useful to your audience.
+
+**Marcel Santilli:** It's almost like inception in AI Answers, and I'll show you kind of what I'm there, right?
+
+**Marcel Santilli:** But maybe what I can do is kind of show you all some examples and then jump into our platform and kind of show you a little bit of kind of what we do.
+
+**Marcel Santilli:** I'll run through just some high-level things that we've done.
+
+**Marcel Santilli:** And so for RAMP, we've done both informational content and thought leadership.
+
+**Marcel Santilli:** And you can see because of the way we kind of organize the content and research, it's not only doing well in search, it's actually doing well in a lot of AI answers.
+
+**Marcel Santilli:** And so the idea is just figuring out, like, what are the most common questions that your audience is going to have, and how do we become the most useful answer?
+
+**Marcel Santilli:** And I think one of the reasons I highlight RAMP a little bit here is just because there's been some AI visibility tools out there that claim they 7x their RAMP's visibility, but we've been working with them over a year, and we've done 100% of the content.
+
+**Marcel Santilli:** And so outside of the content, they do it internally.
+
+**Marcel Santilli:** And so I always like to highlight, because I think they're just, like, a good story where we've done so many different examples.
+
+**Marcel Santilli:** We've done...
+
+**Marcel Santilli:** Things like the vendor profile as well, so it's not only high quality editorial content, we're very used to doing really high complexity programmatic plays as well.
+
+**Marcel Santilli:** So in this example, we've done this entire catalog where we pull proprietary data that they give us, and we analyze the data, and then create this piece of content, stage it, and then also start to create from an article perspective.
+
+**Marcel Santilli:** And programmatic pages do really well with AI search because people are asking for, you know, hey, help me understand this space or this category, and they want to see, like, the nitty-gritty of it all.
+
+**Marcel Santilli:** Then we've also done different plays, like, for instance, like, per-game calculators, you know, I know travel, obviously, for you all is kind of like an interest, is obviously core, but, you know, instead of only focusing on the core topics, how can we create high quality content?
+
+**Marcel Santilli:** And then...
+
+**Marcel Santilli:** And
+
+**Marcel Santilli:** That addresses a very specific question that somebody will have in their journey.
+
+**Marcel Santilli:** Like, what is the Prodeem in Dallas, for example, right?
+
+**Marcel Santilli:** And we did it as kind of a catalog.
+
+**Marcel Santilli:** But I think what's really cool with this is that it's not only an awesome experience.
+
+**Marcel Santilli:** And so we try to match both, like, really awesome digital experience with the high-quality content.
+
+**Marcel Santilli:** And so, but just to kind of point out a few things here.
+
+**Marcel Santilli:** So if you, let's say, we'll go in Houston since Tyler's in Houston.
+
+**Marcel Santilli:** And you see here every single piece of content is actually cited and only uses government sources for everything.
+
+**Marcel Santilli:** And so you can see here, this is, like, directly from the government site.
+
+**Marcel Santilli:** And so the benefit of that is that we can filter, like, what are high-quality sources and only cite those sources, but also fact-check, right?
+
+**Marcel Santilli:** So I'll show a few other examples.
+
+**Marcel Santilli:** This one's expense category.
+
+**Marcel Santilli:** Where we did a similar approach and so a lot of kind of how we work in order to achieve this and I'll jump in here and just kind of show you an example of a customer that gave us permission to share.
+
+**Marcel Santilli:** This is town.com and so let me show you the final output and then they're fairly new, the John Dennis, the CEO was the CTO of Plaid, I don't know if you guys are familiar with Plaid, he was their CTO for quite a while and this is his new company.
+
+**Marcel Santilli:** And I think what's really cool is just the level of quality, so everything about this, they didn't even have a blog before they started working with us, so everything from the covering, it was produced by our team and heavily edited as well.
+
+**Marcel Santilli:** But the way we achieved this, this is our platform, is we're creating artifacts, right?
+
+**Marcel Santilli:** So
+
+**Marcel Santilli:** Think of artifacts as the context that's needed.
+
+**Marcel Santilli:** So if you think of AI as a super overconfident, smart, fast intern that is overconfident in all their answers, like the context allows the intern to learn about the big picture first before focusing on the task, right?
+
+**Marcel Santilli:** And so this is part workflows, but a lot of us like go super deep into your product and to your space.
+
+**Marcel Santilli:** And so what we're doing is creating kind of this company context, right?
+
+**Marcel Santilli:** Understanding who your ideal customers are.
+
+**Marcel Santilli:** And this is coming from interviews that we've had with this customer, right?
+
+**Marcel Santilli:** They're like, hey, these are the types of businesses, excuse me, we care about.
+
+**Marcel Santilli:** This is like who we go after and why.
+
+**Marcel Santilli:** These are like the jobs to be done.
+
+**Marcel Santilli:** This is the insights that we have into our market.
+
+**Marcel Santilli:** And this is roughly so.
+
+**Marcel Santilli:** So you can see it's not like this crazy overwhelming thing where.
+
+**Marcel Santilli:** I'm trying to flood the context window, but it's really, really important.
+
+**Marcel Santilli:** And we do the same thing with writing guidelines, how we want to sound, and good and bad examples, anti-Wallstreet mindset, and then same thing with personas as well.
+
+**Marcel Santilli:** Like we go super deep in understanding the personas, right?
+
+**Marcel Santilli:** And then from there, we map all these into topics, and then what we're doing is actually creating pipelines.
+
+**Marcel Santilli:** And so these pipelines are really, really interesting.
+
+**Marcel Santilli:** So this is the latest version that we have, which is agentic.
+
+**Marcel Santilli:** So this is our, again, our platform here.
+
+**Marcel Santilli:** And so what you have here is this research part of it.
+
+**Marcel Santilli:** And so under the hood, what we built is a workflow engine that's also agentic.
+
+**Marcel Santilli:** So this one, what it does is like generates a research plan.
+
+**Marcel Santilli:** And so the research plan is really, really detailed because it has all those context.
+
+**Marcel Santilli:** And so you can see it's coming up with the research mode, research objective, and then a bunch of different queries that it's going to go and do deep research on.
+
+**Marcel Santilli:** And a success criteria for finishing that section, right?
+
+**Marcel Santilli:** And so I won't bore you with all the details, but it's going to go through, synthesize everything, evaluate research.
+
+**Marcel Santilli:** And then the final output is this insanely, insanely detailed fact check research brief, right?
+
+**Marcel Santilli:** This is not like a, you know, like a shallow ping, you know, SERP and SCRAP kind of where else.
+
+**Marcel Santilli:** This is like truly, truly detailed.
+
+**Marcel Santilli:** And you can see highly cited.
+
+**Marcel Santilli:** And so this is just the beginning to make sure we scale quality, right?
+
+**Marcel Santilli:** And you can see, if I go all the way to the end here, you can see like the sources that were used.
+
+**Marcel Santilli:** And there's a lot of what we can do to also filter out, make sure we're not using your competitors as sources.
+
+**Marcel Santilli:** And so this is just the beginning of the process, right?
+
+**Marcel Santilli:** And then from here, it's going to draft an article, there's an outline process, but this is all agentic.
+
+**Marcel Santilli:** And so this is what's really cool about this is because like on different metrics that we have.
+
+**Marcel Santilli:** So for instance, like roundness, writing, how closely is following writing guidelines, direction acceptance, and then it continues to do that in loops and plan and improve and execute the improvement.
+
+**Marcel Santilli:** And so it gets to a initial draft, right?
+
+**Marcel Santilli:** And then this is where now you have editors that understand your business.
+
+**Marcel Santilli:** They're guiding this process along and doing the editing piece here as well.
+
+**Marcel Santilli:** And so anyways, like I won't go through the whole thing, but all the way to even like creating images.
+
+**Marcel Santilli:** Again, this is mostly based on what they want it to look like, right?
+
+**Marcel Santilli:** And you can see these are pretty high quality, but then we generate several options for the editing.
+
+**Marcel Santilli:** Editor should be able to select which ones the person likes better, right?
+
+**Marcel Santilli:** And so I'll pause here, but hopefully this kind of helps understand a little bit.
+
+**Marcel Santilli:** The last thing I would just say really quickly is that we're doing all the LL invisibility tracking as well.
+
+**Marcel Santilli:** And so with Augment Code, they've been with us for about 10 weeks.
+
+**Marcel Santilli:** And I think it's really cool to show a little bit of not just how quickly they've grown, but also how much they've grown in their AI visibility and happy to provide them as a reference as well.
+
+**Marcel Santilli:** Still, they're new head of, not new, but he's been there for about six months, but they're really seeing amazing results.
+
+**Marcel Santilli:** So and so that one of their semi-competitors, if you will, CodeRabbit, is just signing up as a customer as well.
+
+**Marcel Santilli:** And so we have, I know this is something that came up before, like, hey, what happens when we have competitors that might work with us as well?
+
+**Marcel Santilli:** And we have a very strong policy.
+
+**Marcel Santilli:** One, make sure the same teams don't work on similar accounts, we never share data, and also no matter what, we're doing a ton of competitive analysis for you, and so we're going to do the competitive analysis no matter what, and this is all based on external available data.
+
+**Marcel Santilli:** Like, don't want us to ignore one of your top competitors either, right?
+
+**Marcel Santilli:** And so not only are all the inputs we're getting from you different, how we calibrate quality is different, but then also, like, the way we're going to execute and the people executing on the day-to-day are different, and so there will never be a situation where even if two companies that we work with going after the same opportunities, the output will even be remotely the same, right?
+
+**Marcel Santilli:** In my site, similar high-quality sources from the government, for example, but that's where we're going to do that no matter what, you know, and so hopefully that helps, but I'll pause here, and then happy to go.
+
+**Marcel Santilli:** got a ton more examples, a ton more things, but wanted to shut up.
+
+**Marcel Santilli:** for a bit, and allow you guys to ask me questions.
+
+**Nima Asrar Haghighi:** Thank you, Marcel.
+
+**Nima Asrar Haghighi:** Oh, Rich, do you want to go first?
+
+**Rich Beattie:** No, go ahead, Nima.
+
+**Nima Asrar Haghighi:** What I wanted to know is that what about your approach is different that impacts the AI results?
+
+**Nima Asrar Haghighi:** So I would love to kind of learn more about that part of it.
+
+**Marcel Santilli:** Yeah, yeah, I love that question.
+
+**Marcel Santilli:** So let me just give a quick example here.
+
+**Marcel Santilli:** And so this is for our augment code.
+
+**Marcel Santilli:** And so just to kind of show you as an example, so the day before we published this piece of content, 13 best AI coding tools for complex enterprise code bases, they weren't even showing up, right?
+
+**Marcel Santilli:** And then a day later, you can see that it's not only showing up, but it's b-cited, and it's being mentioned.
+
+**Marcel Santilli:** And the same thing happened in AI mode as well.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And you can see the actual wording being included here.
+
+**Marcel Santilli:** So what we're learning is the way we're doing research, which is, you saw, like, insanely comprehensive.
+
+**Marcel Santilli:** We also have a fact-checking step as well that I can show you here in a little bit.
+
+**Marcel Santilli:** But what it does is, like, it goes through every single word and chunks it out and fact-checks the content and everything.
+
+**Marcel Santilli:** But there's a lot of these kind of, like, signals, if you will, like, authority signals that are really important.
+
+**Marcel Santilli:** And so when you mention a high authority source, when you mention a stat, when it's well-linked, well-researched, well-organized, and, like, you're constantly refreshing the content, it really increases your chances, right?
+
+**Marcel Santilli:** And so what we're seeing companies like Augment Code that have a good brand, but they're not, like, crazy out there.
+
+**Marcel Santilli:** So it's, like, 99% brand traffic, essentially.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Is that very quickly, it's getting pulled even faster than inorganic as well.
+
+**Marcel Santilli:** Like, so in other words, like we've seen times when we publish something within two hours, it changes the answers in ChatGPT, you know, and we'll also see sometimes where it's not showing up in the AI overview, but then it starts getting pulled into the AI answers first.
+
+**Marcel Santilli:** And if, and then eventually it gets pulled into the AI overview as well.
+
+**Marcel Santilli:** And so, so here's an example here within that single piece of content where one of the research questions we did is like, how do existing AI tools compare in terms of understanding cross-service dependencies?
+
+**Marcel Santilli:** This is a very specific question, right?
+
+**Marcel Santilli:** But then when you search that exactly, they started showing up and it used the exact same answers.
+
+**Marcel Santilli:** And so that's why I was saying like, this is, it feels a little bit more like Inception where you're doing research and then you're inserting your brand view thoughts and expertise, but in a way that's really not.
+
+**Marcel Santilli:** Salesy, right?
+
+**Marcel Santilli:** It's more like helping them with the questions they have.
+
+**Marcel Santilli:** And so our ability to come up with the right research questions that will help inform the content we create is really, really critical.
+
+**Marcel Santilli:** And all of that comes from a deeper understanding of your audience versus like, you know, just like creating junk or just like trying to copy and paste what someone else has written before.
+
+**Marcel Santilli:** Like this is very unique because it starts with like really in-depth research.
+
+**Marcel Santilli:** And so those are some of the things that we see work, but to be quite honest, like it's shifting daily, like sometimes even hourly.
+
+**Marcel Santilli:** And so we really just need to keep a really close eye.
+
+**Marcel Santilli:** And that's why if you take an audience first approach, you know what you're doing is the right thing to do for your audience.
+
+**Marcel Santilli:** And then you're constantly optimizing for AI visibility because they're changing their minds daily as well.
+
+**Marcel Santilli:** You know, meaning these platforms and how they evaluate.
+
+**Marcel Santilli:** And one of the last thing I'll say is that what we're noticing is like TTPT and Perplexity and others, they're really  at filtering out crappy sources right now.
+
+**Marcel Santilli:** And...
+
+**Marcel Santilli:** And they're going really heavy towards like third party as well.
+
+**Marcel Santilli:** And so there's a lot of things there that are kind of evolving.
+
+**Marcel Santilli:** But we think that over time, they're going to start filtering sources a lot more.
+
+**Marcel Santilli:** It's just right now they're not because they're just being compute lazy because they're burning so much money as it is.
+
+**Marcel Santilli:** And so the way to think about it is like if you take, you know, Chattaputee takes, you know, 10 sources, 8 of those are garbage.
+
+**Marcel Santilli:** But then it polishes the answer to sound really smart and really good.
+
+**Marcel Santilli:** And like the opportunity cost of using bad sources is not that high for them, you know, but we don't think that's going to last forever, you know.
+
+**Marcel Santilli:** And so, in other words, like there are ways to shortcut garbage and potentially drive results.
+
+**Marcel Santilli:** But we still think you should go for a really high quality no matter what and do always what's good for your audience, you know.
+
+**Nima Asrar Haghighi:** Thank you.
+
+**Rich Beattie:** Oh, go ahead, Murray.
+
+**Rich Beattie:** No, go ahead.
+
+**Rich Beattie:** Well, actually have two questions.
+
+**Rich Beattie:** One, you were talking about this constant, constant refresh.
+
+**Rich Beattie:** Cashing of the content, I'm just wondering how that, how that works in operation.
+
+**Marcel Santilli:** Yeah, yeah, absolutely.
+
+**Marcel Santilli:** So, let me just pull up, give me a second, let me just think what's a good one that's non-competitive.
+
+**Nima Asrar Haghighi:** It's okay to show engine.
+
+**Marcel Santilli:** None of this is actually, like, proprietary data.
+
+**Marcel Santilli:** This is all, like, publicly available data that we're pulling, Like, so, but I'll show you of normal.
+
+**Marcel Santilli:** Normal, I think we've done quite a bit of refresh.
+
+**Marcel Santilli:** So, let me make sure we have an archive.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So, it's different, and this is why we calibrate, Rich.
+
+**Marcel Santilli:** So, think of the calibration process as both for NetNew and refresh.
+
+**Marcel Santilli:** And so, there's kind of, like, a couple of factors that we look at, and I'll just show you really quickly here.
+
+**Marcel Santilli:** So, sorry, give me just a quick second.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So, so,
+
+**Marcel Santilli:** We look at, like, content that's losing traffic, losing rank, decreasing engagement, but also if the content is then outdated, that CTA, it's like all those things, right?
+
+**Marcel Santilli:** So there's a bunch of different things we can look at as a criteria with you, of you saying, like, hey, these are the ones we want to target, both from a content quality perspective that needs to be improved, or just plain out, you know, in its performance, right?
+
+**Marcel Santilli:** And then from there, then we can create a custom process kind of like this.
+
+**Marcel Santilli:** And so the way to kind of think about this process is like, we don't have the rich text turned on, but what we're doing is doing a similar research as we did before, and then taking the similar, the same content, and then finding opportunities where we can add citations, remove like broken links, know, enrich the content, or if the content is like too verbose, like, you know, kind of thin it out a little bit, or get to the point a little bit better, organize the content better, organize so this is why
+
+**Marcel Santilli:** And one of the ways we do refresh is like really kind of almost like the way to think about it is like kind of hybrid or we'll completely do a rewrite if it's truly like not worth, you know, salvaging because you're like, hey, this is like three years ago before my time.
+
+**Marcel Santilli:** This is horrible.
+
+**Marcel Santilli:** This is like 200 words.
+
+**Marcel Santilli:** This is garbage.
+
+**Marcel Santilli:** Let's just like we do.
+
+**Marcel Santilli:** But there is value, right?
+
+**Marcel Santilli:** Like if there's already backlinks to the content or the URL is still good, like it to potentially like not just delete the content, you know, and reuse that surface area, that URL for a net new piece of content that follows the same intent.
+
+**Marcel Santilli:** But obviously, Moran, like you're the expert too.
+
+**Marcel Santilli:** So we'll rely, we can rely heavily on your guidance on what to prune and what to refresh as well.
+
+**Rich Beattie:** Right.
+
+**Rich Beattie:** Okay.
+
+**Rich Beattie:** So we are feeding you the content that might be worthy of refreshing.
+
+**Rich Beattie:** And then you guys are taking a look at that as opposed to like you scraping our content and reviewing it.
+
+**Rich Beattie:** Like I just, it was more of a process.
+
+**Rich Beattie:** Question of, you know, how did those articles come up for review?
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** So we were monitoring.
+
+**Marcel Santilli:** So a lot of the things we're doing in the monitoring is looking at just the change week over week and seeing if there's URLs that are losing traffic mostly.
+
+**Marcel Santilli:** And then ingesting a lot of the data on engagement as well.
+
+**Marcel Santilli:** So, for instance, like, hey, we're noticing, like, time on page is declining or time on page really drops.
+
+**Marcel Santilli:** So there's a lot of those factors.
+
+**Marcel Santilli:** But honestly, like, there's usually a ton of low-hanging fruit.
+
+**Marcel Santilli:** And so just taking your entire site map of evergreen content, and then we can scrape every single page and see, like, work count.
+
+**Marcel Santilli:** We can analyze for quality.
+
+**Marcel Santilli:** We can run custom workflows to understand, like, the quality of the content.
+
+**Marcel Santilli:** And then use both of those to prioritize.
+
+**Marcel Santilli:** And so you can see here, like, manual candidate selection, high-priority, medium-priority, and low-priority.
+
+**Marcel Santilli:** And then based on the priority,
+
+**Marcel Santilli:** We look at, like, last three months of clicks versus previous three months, and then we can kind of, on top of that, look at the quality of the content as well.
+
+**Marcel Santilli:** So it's both performance and quality, and then flag these, and then work with you, and you can say, hey, yes, let's prioritize these 10 this week, and then next week, these other 10, you know.
+
+**Rich Beattie:** Got it.
+
+**Rich Beattie:** Okay.
+
+**Rich Beattie:** And my second question had to do, so we built our own per-DM calculator.
+
+**Rich Beattie:** I'm still having flashbacks, because it took quite a while, but, you know, the big issue there was not even, you know, producing the content.
+
+**Rich Beattie:** We did the same, you know, GSA data.
+
+**Rich Beattie:** It was more on the back end, on the technical side with tying into that API.
+
+**Rich Beattie:** So how does something more complex like that work in terms of implementation?
+
+**Marcel Santilli:** Yeah, so there's a lot of things we've done.
+
+**Marcel Santilli:** I'll show you just an example of that.
+
+**Marcel Santilli:** Um, it's a publicly available site here.
+
+**Marcel Santilli:** Um, so this one is like for Augment Code, who just built this as kind of like a site for us to just take a ton of risks and do a bunch of fun stuff and then take the best of what we learned and then like implement it on augmentcode.com.
+
+**Marcel Santilli:** So it's like a fun way we can do this, but this is just an example where we've done all the design, all the implementation, all the workflows that lead us, even the AI feature as well, where it's like, you can generate rules using one of our workflows.
+
+**Marcel Santilli:** Like a leaderboard and so we do have design engineers and so the way to kind of think about like, for instance, with, um, I can just use, find a couple of examples here.
+
+**Marcel Santilli:** let me find, I think it was, um, again, like none of this is proprietary data.
+
+**Marcel Santilli:** So, um, I'll just show you kind of like, um, an example of this one's kind of like a starter kit generator.
+
+**Marcel Santilli:** And, and so what it does.
+
+**Marcel Santilli:** Because it's like, it takes a, like, an idea for an app, and it runs through this entire process, and it creates both the brief as well as an entire prompt that then people can copy and paste it into Bolt, right?
+
+**Marcel Santilli:** Like, as a, so, like, this is an example with something that's more complex, we would create an entire custom workflow.
+
+**Marcel Santilli:** It is kind of the TLDR.
+
+**Marcel Santilli:** But then one of the cool things is, like, with our research agent, like, we can point that research agent to a lot of different things.
+
+**Marcel Santilli:** And, and so, like, just to give you an example here, let's just open this one up right here.
+
+**Marcel Santilli:** In the inputs, like, there's not only goals talking.
+
+**Marcel Santilli:** And so, in the example of Pritium, you can actually point it to that domain, right?
+
+**Marcel Santilli:** And say, hey, only use this domain for all your sources, and then fact check against this domain.
+
+**Marcel Santilli:** And then we can also create custom knowledge.
+
+**Marcel Santilli:** That that we can retrieve from as well.
+
+**Marcel Santilli:** Right?
+
+**Marcel Santilli:** So that's the benefit of having like the platform and a ton of really amazing AI engineers as well.
+
+**Marcel Santilli:** That's why I like showing because this stuff is not like super like basic.
+
+**Marcel Santilli:** Right?
+
+**Marcel Santilli:** Right?
+
+**Marcel Santilli:** what's really cool is that like every single thing here is represented in code right and so uh we have essentially a coding agent that builds these workflows in code so we're able to create workflows really fast and evaluate the outputs really fast as well um and and that's kind of why we have this advantage like we're not going to low code tool clicking edit and going like step-by-step editing you know so we're able to build those a lot faster well thanks um so i have two questions as well first it's it was uh very amazing what you just showed this vibe coding programmatic seo type of agent
+
+**Moran Brayer:** Really impressing.
+
+**Moran Brayer:** Two questions.
+
+**Moran Brayer:** First one is, what tool do you use to measure LLM visibility?
+
+**Moran Brayer:** And second, we've talked a lot about AI, but what's the balance that you strike between human intervention and AI within the content creation process?
+
+**Marcel Santilli:** Yeah, that's a great question.
+
+**Marcel Santilli:** Okay, so on the LLM visibility piece, we're using an API right now through Scrunch, which is a partner, but we're actually off the record building our own, because it's all, what we're finding is just like, you're just paying a premium and they're all paying the same APIs.
+
+**Marcel Santilli:** And what we found is even for the customers that we're measuring, like the most important thing is like the context you feed it into these projects and identifying the right personas.
+
+**Marcel Santilli:** And so if you go into any of these tools out there that measure visibility, the way they do a company description.
+
+**Marcel Santilli:** The way they identify your personas and the way they come up with topics to measure, and even the way those questions are awarded are horrible.
+
+**Marcel Santilli:** I don't know if you've seen differently, but from our experience, and we work with a lot of customers, and so that's what we're really good at.
+
+**Marcel Santilli:** Like pinging an API and perplexity and saying, hey, return the citations here and tell me if this brand shows up, is more of just kind of like a simple thing to do.
+
+**Marcel Santilli:** And so that's why we first wanted to deliver value to customers quickly.
+
+**Marcel Santilli:** So we partnered with Scrunch to use their API, but then we're not only looking at that, like we're also pulling your GSC and also your analytics and correlating all three because you do need to understand like kind of the engagement on the page, how you're showing up with search and things like that.
+
+**Marcel Santilli:** You know, so we kind of merge all those and we're every week delivering that as well.
+
+**Marcel Santilli:** So like we're in Slack with you and interacting, right?
+
+**Marcel Santilli:** And then on the last piece, like the balance really depends.
+
+**Marcel Santilli:** So I'll give an example.
+
+**Marcel Santilli:** We have a customer call.
+
+**Marcel Santilli:** have customer call.
+
+**Marcel Santilli:** We Thank
+
+**Marcel Santilli:** So Biologica, they're actually still in pre-launch.
+
+**Marcel Santilli:** It's the guy that started Allbirds.
+
+**Marcel Santilli:** And for them, it's like the quality has to be like so, so high because their chief medical officer reviews everything, you know.
+
+**Marcel Santilli:** And so I'll show you like kind of just the example here.
+
+**Marcel Santilli:** But so what we do is like we just take a lot, a different process in the calibration, right?
+
+**Marcel Santilli:** So for instance, with their, let me use this one as an example.
+
+**Marcel Santilli:** So what we've done is built a custom of a few custom steps in addition to fact-checking.
+
+**Marcel Santilli:** We also try to reverse engineer the medical doctor.
+
+**Marcel Santilli:** And so for instance, in this one, what it does is like the doctor is a holistic doctor with a background in endocrinology.
+
+**Marcel Santilli:** And so what we did is like figure out, like based on a couple rounds of reviews, these are the comments, her name's Maggie, that Maggie's making.
+
+**Marcel Santilli:** And so then it's like we take each one of these and run kind of a review step into each one of these.
+
+**Marcel Santilli:** And so that allows us to do it's just like almost like LLM is a judge with a building more and more, but not right from the beginning.
+
+**Marcel Santilli:** So for instance, like this one reviews any mention of ingredients because ingredients are really important.
+
+**Marcel Santilli:** They're a supplement essentially for women in different age groups, right?
+
+**Marcel Santilli:** Like anytime their brand is mentioned, annotate a medical claim so that if there's any medical claims here, like it will annotate it.
+
+**Marcel Santilli:** And so like what we try to do is not go from zero to quote unquote automated, right?
+
+**Marcel Santilli:** What we're doing is trying to understand.
+
+**Marcel Santilli:** And obviously it's like the quality bar because of the technical complexity and, you know, in what space it is, is even higher.
+
+**Marcel Santilli:** Then we'll just reduce the volume a little bit and go a lot deeper and treat it more like a thought leadership.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so it really depends on the bar and the calibration, but, and then what we're trying to do is over time, like reverse engineer that so that it can scale as well.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Does that, does that help a little bit?
+
+**Moran Brayer:** I, I know that's a little different.
+
+**Libby Zay:** Excuse me.
+
+**Libby Zay:** I had a question too.
+
+**Libby Zay:** So I, I understand the content production process, which is all, yeah, very cool how you do all that.
+
+**Libby Zay:** But taking a step back, how do we work with you to really define the strategy and like how we're going to move forward?
+
+**Libby Zay:** Cause it seems like there's endless possibilities.
+
+**Libby Zay:** So how do we kind of like hone in on what we could do together?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Great, great question.
+
+**Marcel Santilli:** So that's actually one of the reasons in the last three months we've changed our approach to do what we call a strategy and execution sprint.
+
+**Marcel Santilli:** So it's eight weeks and it's just a fixed cost.
+
+**Marcel Santilli:** And the benefit of that is that like first week, we're going super deep interviewing you all, uh, ingesting anything you send us by week two.
+
+**Marcel Santilli:** Then we're starting to map out.
+
+**Marcel Santilli:** Both like the context that we're creating, the starting calibration on content quality, but also start to map out the different topic clusters that we want to go after based on your audiences.
+
+**Marcel Santilli:** Then by week three, hopefully we're aligning on that and finishing calibration.
+
+**Marcel Santilli:** And week four, hopefully like we're starting to execute, right?
+
+**Marcel Santilli:** So for instance, like with Engine, we are now week nine, I believe, or week 10, and we've done 47 pieces of content and the majority of them net new.
+
+**Marcel Santilli:** But we also have an entire content OS that has like over 500 assignments flagged already that we came up with from our different audits and just a different topic clusters.
+
+**Marcel Santilli:** We identify 16 topic clusters, and then we prioritize a few of them.
+
+**Marcel Santilli:** And then every week we're doing a mix of net new and refresh across different content clusters and then monitoring, you know, and this is where like obviously like your expertise and your insight into the business.
+
+**Marcel Santilli:** Like, hey, there wasora.
+
+**Marcel Santilli:** It's a new product we're launching.
+
+**Marcel Santilli:** So for instance, with Ramp, before they launch accounts payables, and they did the whole Super Bowl ad for four weeks straight, that's all we were focusing on from a content perspective.
+
+**Marcel Santilli:** And so that kind of helps, where you essentially have this team that can both go heads down, focus on one lane because the business needs it, if it's a new lane, or we can kind of take almost like a portfolio strategy, and you can kind of help guide us as far as like, what, how should we prioritize the different opportunities we flag for you, you know?
+
+**Marcel Santilli:** Does that answer your question a little bit?
+
+**Libby Zay:** Yeah, yeah, thank you.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** Well, I know we don't have a ton of time, but as you can tell, like, we're insanely, insanely excited to potentially work together.
+
+**Marcel Santilli:** And the way we've done the strategy sprint is really de-risking it.
+
+**Marcel Santilli:** And so at the end of the eight weeks, you can fire us.
+
+**Marcel Santilli:** We can fire you is kind of how I joke.
+
+**Marcel Santilli:** And so, like, the burden is really...
+
+**Marcel Santilli:** Like on us to set the right strategy, skill quality, and kind of show you like what we can, we can do, you know, and, and how we collaborate and, and then give you the confidence from there to go into kind of the execution mode, although we're already executing a ton in that first eight weeks as, as well.
+
+**Nima Asrar Haghighi:** This is great.
+
+**Nima Asrar Haghighi:** Thank you very much, Marcel and Tyler.
+
+**Nima Asrar Haghighi:** So I think as a team, we could kind of regroup and see how everybody thinks about it.
+
+**Nima Asrar Haghighi:** Is it something worth our time to give it a try?
+
+**Nima Asrar Haghighi:** And then if so, then Marcel, I could kind of regroup and see what the next steps kind of looks like.
+
+**Marcel Santilli:** That sounds perfect.
+
+**Marcel Santilli:** Well, thank, thank you all team.
+
+**Marcel Santilli:** And thanks for joining early and late.
+
+**Marcel Santilli:** I appreciate it.
+
+**Marcel Santilli:** We'll, we'll hopefully talk soon.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Thank you very much.
+
+**Marcel Santilli:** Take care.
+
+**Marcel Santilli:** Take care.
+
+**Marcel Santilli:** Thank you.

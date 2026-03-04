@@ -1,0 +1,947 @@
+# You.com <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2025-10-22
+time: 16:01 UTC
+duration: 43 minutes
+organizer: Aida Knezevic (GrowthX)
+participants: Aida Knezevic (GrowthX), Erik O'Brien (GrowthX), Ben Geller (You.com), Brooke Grief (You.com), Seher Dholakia (You.com)
+fathom_recording_id: 96002349
+fathom_url: https://fathom.video/calls/448012127
+share_url: https://fathom.video/share/Qd_PhaaPBzeF7vSrfBX1qYb5J-F8Fy4n
+source: fathom
+enriched_on: 2026-03-02 14:25 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and You.com aligned on a major content strategy pivot — shifting from a 50/50 split between API and end-to-end solutions back to 100% API focus — and refined the five proposed content clusters based on You.com feedback, including separating API vs. end-to-end content, adding a sixth cluster for Vertical Indexes, and emphasizing business value over pure technical explanations. GrowthX will complete keyword research and present 40–50 topic ideas next week, with a target publishing cadence of 5 articles per week by mid-sprint. Key blockers include granting Webflow CMS access to pod0@growthx.ai, connecting You.com's Brandlight LLM visibility platform with GrowthX's Scrunch monitoring, and You.com sharing their Vertical Indexes deck to inform the new content cluster.
+
+---
+
+## Context
+
+You.com is a B2B search infrastructure and API platform experiencing a visibility crisis in large language models. The company is undergoing an identity transformation from consumer search orientation to enterprise API focus and is expanding into vertical-specific solutions. Aida Knezevic (GrowthX Editorial Account Strategist) led this initial strategy alignment call with Brooke Grief (You.com's content lead), Ben Geller, and Seher Dholakia to develop a comprehensive content strategy that would improve LLM visibility, feed developer and enterprise buyer search queries, and support the upcoming Webflow website migration and Vertical Indexes productization. This was the first meeting between GrowthX and You.com, with Aida introducing GrowthX's content methodology, audience analysis, competitive benchmarking, and content cluster approach.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Opportunity to establish Atlas pipeline for You.com's five content clusters (AI search APIs, comparisons, grounding/RAG, research agents, vertical use cases) plus a sixth cluster for Vertical Indexes with business-value-focused angles
+- You.com internal SMEs available for interviews; GrowthX will schedule early to inform content strategy without delaying production
+- Content strategy may pivot between API and end-to-end focus; flexibility to re-balance clusters and content calendar required
+
+**To CheckThat:**
+- You.com uses Scrunch (competitor visibility platform) for LLM citation tracking; currently 1% citation rate vs. competitors at 3%; opportunity to benchmark CheckThat against Scrunch performance
+- You.com also uses Brandlight (another LLM visibility platform); GrowthX should align Scrunch + Brandlight data to avoid reporting conflicts
+- Vertical Indexes product is core to You.com's future roadmap and homepage; content cluster will inform strategic direction
+
+**To GrowthX Business Development:**
+- Account expansion potential: You.com targeting 5 articles/week by mid-sprint, indicating significant engagement and contract value
+- Webflow CMS migration in progress; GrowthX needs access to pod0@growthx.ai for content production
+- Strong stakeholder buy-in: Brooke (content lead), Ben (competitor analysis), Seher (product/content alignment), and Erik (GrowthX partner) all engaged; multiple decision-makers present
+
+---
+
+## Overview
+
+- **Strategic Pivot:** The audience focus is now 100% on the API business, reversing a recent shift to a 50/50 split.
+- **Strategy Refinement:** The 5 proposed content clusters will be updated to address key feedback:
+    - Separate API vs. End-to-End content.
+    - Add a 6th cluster for "Vertical Indexes."
+    - Focus on business value over pure tech explanations.
+- **Competitive Analysis:** The competitor list will be refined to separate API-first players (e.g., Exa, Tavily) from consumer-focused giants (e.g., Perplexity), preventing skewed data.
+- **Onboarding:** GrowthX will begin keyword research, present 40–50 topic ideas next week, and target a 5-article/week publishing cadence by mid-sprint.
+
+---
+
+## Key Topics
+
+### Strategic Pivot: API-First Focus
+
+  - The audience focus has shifted back to 100% API business.
+  - This reverses a recent pivot to a 50/50 split between API and end-to-end solutions.
+  - The strategy will be updated immediately to reflect this change.
+
+### Content Strategy Refinements
+
+  - The 5 proposed content clusters will be updated based on feedback.
+  - **API vs. End-to-End Separation:**
+      - **Rationale:** The API and end-to-end businesses have distinct key verticals (e.g., retail for end-to-end), requiring separate content strategies.
+      - **Action:** Split clusters by business line or add a tracking column to the content calendar.
+  - **New Cluster: Vertical Indexes:**
+      - **Rationale:** This product is central to the website's homepage and future roadmap, requiring dedicated content support.
+      - **Action:** Add a 6th cluster for "Vertical Indexes."
+  - **Content Angle: Business Value over Tech:**
+      - **Rationale:** Past content on topics like RAG showed that business-value-focused pieces perform better than purely technical explanations.
+      - **Action:** Prioritize business impact and value creation in content.
+  - **SME Integration:**
+      - **Process:** GrowthX can interview You.com SMEs for quotes and content guidance.
+      - **Action:** Identify SME-driven topics early to schedule interviews without delaying production.
+
+### Competitive Analysis Refinement
+
+  - The competitor list will be refined to prevent skewed data from consumer-focused giants.
+  - **Action:** Separate competitors into two buckets:
+    1.  **Search Infrastructure API:** Exa, Tavily, Brave.
+    2.  **End-to-End Solutions:** Writer, Hebbia (list to be provided by Ben).
+  - **Action:** Exclude consumer products from analysis (e.g., Perplexity's API vs. its consumer app).
+
+### Onboarding & Production Plan
+
+  - **Timeline:**
+      - **This Week:** GrowthX updates strategy doc.
+      - **Next Week:** GrowthX presents 40–50 topic ideas for review.
+      - **Week 1:** Publish 1 article to calibrate voice/tone.
+      - **Week 2:** Publish 3 articles.
+      - **Week 3+:** Target 5 articles/week.
+  - **Process:**
+      - **CMS Access:** Grant `pod0@growthx.ai` blog-level access in Webflow.
+      - **Tracking:** Airtable will track production; drafts shared via Google Docs.
+      - **Performance:** A Looker dashboard will track Google Search Console & GA4 data, including LLM referral traffic.
+
+### LLM Visibility Monitoring
+
+  - GrowthX is using **Scrunch** to monitor LLM citations.
+  - **Initial Data (since Oct 16):** 1% citation rate vs. competitor average of 3%.
+  - **Action:** Connect GrowthX with **Brandlight**, You.com's other LLM visibility platform, to align on data and prompts.
+
+---
+
+## Action Items
+
+**Ben Geller (You.com)**
+- Update competitor list in Notion: separate API vs. end-to-end competitors and Tier 1/2 players (especially Exa, Tavily, Brave, Writer, Hebbia); then Aida reruns gap analysis
+
+**Aida Knezevic (GrowthX)**
+- Research business-value keywords for RAG/grounding/agents; incorporate into strategy doc
+- Revise content strategy doc: confirm API-first focus, separate API/end-to-end columns, add Vertical Indexes cluster; then share 40–50 API-focused topic ideas by next week
+- Set up Looker dashboard (Google Search Console + GA4) with LLM referral traffic tracking
+- Share Scrunch prompt list with Brooke/Seher for review; then add/remove prompts based on feedback
+- Send meeting recording to Brooke, Ben, Seher
+
+**Brooke Grief (You.com)**
+- Share Vertical Indexes deck/doc with Aida; then GrowthX adds Vertical Indexes as 6th content cluster
+- Send internal editorial calendar to Aida (You.com's publishing roadmap)
+- Grant Brandlight LLM visibility platform access to GrowthX; then schedule joint Brandlight–GrowthX alignment sync
+- Grant Webflow CMS blog-level access to pod0@growthx.ai; then GrowthX drafts first blog post for calibration
+
+---
+
+## Transcript
+**Ben Geller:** This meeting is being recorded.
+
+**Aida Knezevic:** Hi.
+
+**Aida Knezevic:** Hi.
+
+**Aida Knezevic:** Hello.
+
+**Aida Knezevic:** Is everybody here?
+
+**Brooke Grief:** I think we have everybody.
+
+**Brooke Grief:** Yes, I think so.
+
+**Brooke Grief:** Apologies for being a little bit late.
+
+**Aida Knezevic:** No worries.
+
+**Aida Knezevic:** It's great to meet everyone.
+
+**Aida Knezevic:** I realize this is the first time you're meeting.
+
+**Aida Knezevic:** So, I just want to do a quick intro.
+
+**Aida Knezevic:** I'm Aida.
+
+**Aida Knezevic:** I'm an editorial account strategist at GrowthX.
+
+**Aida Knezevic:** So, together with Erik and the team, I help all of our sort of sprint clients develop the content strategy, pick out the assignments that we want to target, develop the content calendar, and, you know, make sure the content quality is up to par.
+
+**Aida Knezevic:** And, yeah, I joined GrowthX in December.
+
+**Aida Knezevic:** So, I've been here for a while.
+
+**Aida Knezevic:** Before this, I was a content marketer at Animals, which is another B2B content marketing agency.
+
+**Aida Knezevic:** I was also a freelance content writer and strategist before joining GrowthX.
+
+**Aida Knezevic:** I've written content for many, many verticals, as most, you know, marketers do.
+
+**Aida Knezevic:** So, yeah, I'm excited to be working with you all.
+
+**Brooke Grief:** Thank you.
+
+**Brooke Grief:** Nice to meet you.
+
+**Brooke Grief:** Sounds like we have a lot in common.
+
+**Brooke Grief:** Yeah.
+
+**Aida Knezevic:** A lot of, not a lot of.
+
+**Aida Knezevic:** So from, like, all sorts of industries is just right here, but don't use it a lot, but it's helpful.
+
+**Brooke Grief:** Good to have, yeah, totally.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** All right, well, you all should have received the agenda via a Notion email.
+
+**Aida Knezevic:** I have added you all to this doc, but it's in our shared Notion space, so you should be able to find it there as well.
+
+**Aida Knezevic:** So I wanted to kind of get started by just doing a quick overview of the work we've done since last week, and feel free to kind of interrupt and ask any questions as they come up, but we did send over three artifacts for review.
+
+**Aida Knezevic:** We used them during the content generation process, so they're really important to get right, especially the writing guidelines.
+
+**Aida Knezevic:** The writing guidelines really influence so much of the tone, even small changes.
+
+**Aida Knezevic:** So, thank you for that.
+
+**Aida Knezevic:** And make pretty big impact.
+
+**Aida Knezevic:** So, I, you know, welcome you to leave as much feedback as you want.
+
+**Aida Knezevic:** You don't go as granular as you want, especially when it comes to providing, like, good examples, bad examples.
+
+**Aida Knezevic:** And then as part of the development of the content strategy, we did a competitor content gap analysis.
+
+**Aida Knezevic:** And we also, I'm obviously going to complement that with, like, some manual keyword research.
+
+**Aida Knezevic:** And we also have started setting up your Atlas workspace.
+
+**Aida Knezevic:** Atlas is our content generation platform that we have in-house.
+
+**Aida Knezevic:** So, it's, it's going to be using the context artifacts to generate the content.
+
+**Aida Knezevic:** contains multiple steps from, like, drafting to final review.
+
+**Aida Knezevic:** And it contains multiple steps with human review.
+
+**Aida Knezevic:** So, it's very, it's, it's, it's not built to be fully automated.
+
+**Aida Knezevic:** So, we do have, like.
+
+**Aida Knezevic:** There's human in the loop there.
+
+**Aida Knezevic:** And there's also going to be a managing editor who's going to be editing the content.
+
+**Aida Knezevic:** So there's going to be a lot of human input as well.
+
+**Aida Knezevic:** But I can walk you through your Atlas workspace once we have like the actual pipeline set up for article generation.
+
+**Aida Knezevic:** And yeah, you can then, you know, ask any questions and the pipeline is very much customizable.
+
+**Aida Knezevic:** So we can add additional steps as needed.
+
+**Aida Knezevic:** For example, we have to add like an additional product review step or a step that adds, you know, specific, like case study information.
+
+**Aida Knezevic:** For example, we have a client that has, you know, has to monitor for specific claims because they're a healthcare company.
+
+**Aida Knezevic:** And they cannot call their users, customers, have to, they cannot call anybody patients that who's not a patient.
+
+**Aida Knezevic:** So we have to be very careful about the language that we use.
+
+**Aida Knezevic:** Those are the kind of things that we can build into, into the pipeline to get a more accurate output.
+
+**Aida Knezevic:** So the priority for this week is really to review the content strategy and this is the work in progress doc that's in your notion so you can, you should be able to access it and it kind of breaks down, you know, the goals of this engagement.
+
+**Aida Knezevic:** We want to just outline this in the beginning, so we're all working from the same, like, you know, from the same, you know, point of view, that, you know, and we want to make sure that we understand why you're, you know, why you're coming to us and what's driving this engagement and that we're going, you know, we're trying to target the same goals.
+
+**Aida Knezevic:** So this is just a quick overview, you know, some of the goal, like some of the drivers that you've mentioned was the visibility crisis, so your overall visibility in LLMs is pretty low compared to competitors and you're also absent from search discussions around like.
+
+**Aida Knezevic:** best APIs for search or best tools, which are, which is the kind of content that feeds LLMs, you know, when developers and other users are looking for different options, you're also undergoing an identity transformation, you know, you've gone from, like, being more of a consumer, search-oriented to now being more developer, API-first.
+
+**Brooke Grief:** Yeah, sorry, I just want to jump in on that prioritization.
+
+**Brooke Grief:** We've actually sort of gone back since the last time we've chatted.
+
+**Brooke Grief:** Okay.
+
+**Brooke Grief:** Not, it's not totally flipped back, but I would say it's more of like a 50-50.
+
+**Brooke Grief:** Okay.
+
+**Brooke Grief:** For now.
+
+**Brooke Grief:** But yeah, so going back sort of to the CIO, CTO, decision-maker, end-to-end, sort of an even split between the two, maybe even slightly more end-to-end.
+
+**Aida Knezevic:** But.
+
+**Brooke Grief:** Okay.
+
+**Brooke Grief:** 55, 45.
+
+**Brooke Grief:** But yeah.
+
+**Brooke Grief:** So it's, it's changing frequently.
+
+**Brooke Grief:** So I would say, like, let's just try to balance the two, because it'll, it'll likely.
+
+**Brooke Grief:** Flip-Flop again.
+
+**Aida Knezevic:** Okay, okay.
+
+**Brooke Grief:** But if we can balance it now, yeah, we'll have at least content for both.
+
+**Aida Knezevic:** So regardless, we'll be creating enough for each stream.
+
+**Aida Knezevic:** Yeah, yeah, for sure.
+
+**Aida Knezevic:** And I think the, I mean, the, the, as you'll see in a minute, like the clusters are found pretty foundational in the sense that the content is, we do have like more like commercial intent, but some of the topics are definitely going to be like, we can, they can be presented to both audiences.
+
+**Aida Knezevic:** So shouldn't throw us too much off course.
+
+**Aida Knezevic:** Right.
+
+**Aida Knezevic:** And then to kind of understand, you know, where we're going, we had to analyze your existing, like traffic footprint.
+
+**Aida Knezevic:** And this is something that I'm sure you already know, but you do have like an extreme traffic concentration.
+
+**Aida Knezevic:** So there are, think, around two URLs that are driving most of the traffic.
+
+**Aida Knezevic:** Most of the traffic is branded.
+
+**Aida Knezevic:** Although you have been publishing.
+
+**Aida Knezevic:** Some blog content on your site that is ranking and is getting traffic, but still, like, the most of the traffic is swaying heavily towards the homepage and just, you know, brand, brand impressions.
+
+**Aida Knezevic:** I did see that you have started targeting comparison keywords with content like u.com versus Microsoft Copilot versus OpenAI, which is great.
+
+**Aida Knezevic:** And we would, you know, our goal would be to continue building on this content lane together.
+
+**Aida Knezevic:** So, yeah, I did kind of, this did come up in the analysis, but in the overall sort of breakdown of your traffic, they're not going to make a huge impression, just because these are low-volume keywords, which is fine.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** And then we also did a competitor gap analysis with your direct competitors, and these are the ones that we used.
+
+**Aida Knezevic:** Feel free to know if you want to add any others in here.
+
+**Aida Knezevic:** And we pulled a list of URLs.
+
+**Aida Knezevic:** That rank for keywords that u.com does not rank for.
+
+**Ben Geller:** I'll quickly interject.
+
+**Ben Geller:** I think this is a good list of competitors-ish.
+
+**Ben Geller:** But a few quick notes.
+
+**Ben Geller:** You know, I would split out our competitors into the Search Infrastructure API competitors, which was like Exa, Tavoli, Brave.
+
+**Ben Geller:** And then we'd also have the end-to-end solution competitors.
+
+**Ben Geller:** And I think those are mostly missing.
+
+**Ben Geller:** So, like, Writer, Hebbia, some of those other kind of, like, enterprise agent builders I can share a list after.
+
+**Ben Geller:** Okay.
+
+**Ben Geller:** The other thing to keep in mind is I would recommend separating out, like, Perplexities, Open AIs, you know, Anthropics, like, kind of, like, Tier 1, Tier 2.
+
+**Ben Geller:** Because what we'll see is, you know, Perplexity just has the consumer products, basically.
+
+**Ben Geller:** Like, all the consumer products just have such a higher velocity or such a higher amount of volume.
+
+**Ben Geller:** That it can start being confusing, right, because we're now targeting the enterprise, like, so as we're looking at the perplexities, if we can even cut it to, like, perplexity API, or something like that, where their search API is a direct competitor, but their consumer product isn't something we're targeting.
+
+**Ben Geller:** So just, I can share some more notes, but I just want to, it's good, all of our stuff is going to get skewed when we compare to, like, you know, OpenAI, ChatGPT, like, we're not going out for the same market, even though we have some overlap, but it's going to make it look confusing.
+
+**Aida Knezevic:** Yeah, yeah, no, I, this one was, I deliberately left this one out of the keyword gap analysis, but you can drop any additional competitors in this Notion doc, and we'll just run the analysis again.
+
+**Brooke Grief:** Cool, and I know also it's hard with the competitors, like, OpenAI, or Anthropic, or these big names, because they have so many keywords that the gap is massive, because we just don't have that many, so in my own personal comparison, I also just left them out, but yeah, having.
+
+**Brooke Grief:** Having two, think, to Ben's point, is a good call just for these two separate buckets, but understanding the limitations with the gaps, too, while you're doing your analysis.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** And we're not, we're still not at the stage.
+
+**Aida Knezevic:** The next stage is really to do, like, keyword research and kind of do a content calendar.
+
+**Aida Knezevic:** So we're right on time to kind of provide any additional competitors here.
+
+**Aida Knezevic:** Um, and I mean, the, the, the, what we, the, the analyze, the analysis of the, like, these competitors here, I mean, the ones that stand out, um, for just sheer, like, um, search volume, um, the keywords and the search volume that they're attracting, uh, the two of them are LinkUp and Perplexity.
+
+**Aida Knezevic:** Um, LinkUp, uh, does rank for some, uh, keywords that would be also relevant to you.com.
+
+**Aida Knezevic:** So I wanted to highlight them here.
+
+**Aida Knezevic:** Um, and Perplexity is very much, they're highlighted because they have.
+
+**Aida Knezevic:** They don't have a lot of content on their site, but they do rank for keywords with a lot of volume, but a lot of their content is very skewed towards, like, product launches, and then they also have a lot of, like, getting started guides, which is more technical and usually written by developers, so that's kind of one thing that I wanted to flag, but we did kind of factor all of this in, and, like, the URLs that you don't, I mean, the URLs that rank for keywords that you don't rank for, we factor that in to kind of an overall analysis of the content, and, you know, we took your goals to create these kind of recommended topic clusters, and there are five of them.
+
+**Aida Knezevic:** So we, this is like a very tried and true approach to, like, content strategy development, we just want to make sure that we're covering topics that we want to build authority in, and we want to do that in, like, an organized way, and doing, like, focusing on, like, four to five close.
+
+**Aida Knezevic:** Clusters allows us to really kind of cover all of the different angles related to a specific topic, so we can build authority, like grow your LLM citations, and then we can like expand them, or we can add additional ones, you know, as we, you know, continue working together.
+
+**Aida Knezevic:** You can kind of see like a breakdown of our methodology here, like of your objectives and how they relate to the different clusters, and this is the breakdown of the five different clusters that we are suggesting.
+
+**Aida Knezevic:** So the first one is just related to AI search and search APIs.
+
+**Aida Knezevic:** So the primary audience are enterprise developers, but I do believe that many like CTOs, like enterprise, C-suite, like audience personas would also be interested in this type of content.
+
+**Aida Knezevic:** So this would cover like foundational more what is content, but it could also go further down the funnel.
+
+**Aida Knezevic:** So we could cover topics like what is AI search?
+
+**Aida Knezevic:** How do you...43.
+
+**Aida Knezevic:** AI search engines work, what are the different types of search APIs, like real-time web search, search API, so this would go all under this, all these topics would go under this bucket.
+
+**Brooke Grief:** Cool, we just published what is a search API yesterday.
+
+**Aida Knezevic:** Cool, all right, so I'm on the right track.
+
+**Brooke Grief:** It's good to see on this list, yeah.
+
+**Aida Knezevic:** Nice, and it's also, that's also good to see like how you're approaching it, like from like a tone, voice tone and voice standpoint.
+
+**Brooke Grief:** Yeah, I also created, it's a work in progress, I'm hoping to have it finalized, given the team time to add their input, but a style guide that has more of our tone and our voice and words we like to say and words we don't like to say.
+
+**Aida Knezevic:** I saw that you also provided one, which is awesome, and a lot, there is a lot of overlap, but I figured once it's ready, I'll send that over so it can be incorporated.
+
+**Aida Knezevic:** Okay, okay, perfect.
+
+**Aida Knezevic:** Yeah, and the second cluster that we are suggesting is just focused on like best of listicles, alternatives versus comparisons.
+
+**Aida Knezevic:** So it's very, very commercial intent.
+
+**Aida Knezevic:** I know that not everybody likes this type of content or having it up on their website, but it does work well for LLMs.
+
+**Aida Knezevic:** We've done, like, we've published similar types of content for many of our competitors, many of our customers, and we, you know, they do get cited by LLMs.
+
+**Aida Knezevic:** So we are suggesting that this be a whole separate cluster.
+
+**Aida Knezevic:** We'll be covering, like, things like best search APIs, u.com versus perplexity, ChatGPT alternatives for search.
+
+**Aida Knezevic:** You already have some of this content on your site, so I think you'll be okay with it, but, you know, open to any feedback.
+
+**Brooke Grief:** Yeah, I think some of it will get a little interesting because we use other LLMs on U.com, so just the framing around it is going to have to be curated and specific a little to how we talk about it.
+
+**Brooke Grief:** Like, I don't know if it would be chat…
+
+**Brooke Grief:** ChatGPT or if it would be OpenAI, just because we use ChatGPT in u.com.
+
+**Brooke Grief:** So yeah, there'll be little things that come up, but I think this also is sort of leaning into product marketing, which is totally fine.
+
+**Brooke Grief:** So as long as we have Justin, who will join later calls, and I can always work with him on making sure that the product team is aware and we can communicate what's happening with them as well, then that'll be great.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** And, uh, just a flag, like, uh, in Atlas, we have a whole separate pipeline for just comparison articles.
+
+**Brooke Grief:** So like the versus pieces.
+
+**Aida Knezevic:** Um, and for those articles, we like to create, um, a product feature matrix that, um, compares like your product versus different, like direct or indirect competitors.
+
+**Aida Knezevic:** Um, and those documents can be reviewed by anyone on your product team and they can like make sure, just a make sure that we're, um, framing the information in the right way, especially since this is such a uh, okay.
+
+**Aida Knezevic:** Fast-moving space, like, we don't want to present anything that's outdated, so, yeah, just having, like, the most up-to-date information is important.
+
+**Brooke Grief:** Awesome.
+
+**Brooke Grief:** Yeah, that sounds great.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** The third one is related to grounding AI in topics around, like, avoiding hallucinations, connecting LLMs to the internet.
+
+**Aida Knezevic:** So, it does target enterprise developers, but, again, this isn't too technical and would still be able to, you know, suit, like, a more C-suite audience.
+
+**Brooke Grief:** Yeah.
+
+**Brooke Grief:** How does this type of content work with, like, internal SMEs?
+
+**Brooke Grief:** Like, would there be an opportunity for an SME to contribute to it, or is it all just being spun up without that input?
+
+**Aida Knezevic:** Internal SMEs, mean GrowthX internal SMEs?
+
+**Brooke Grief:** Oh, sorry, on you.com, like, if there's a, you know, a hallucination expert, I don't think there is, but if we have that, how would they?
+
+**Brooke Grief:** You know, be able to put in their input to something like this, like what I, the process, which maybe you'll cover at a later point, but just where they could jump in.
+
+**Aida Knezevic:** Yeah, so there are different ways we can do this.
+
+**Aida Knezevic:** In the past, sometimes I would schedule a call with someone who's like a product expert or just like an SME and just interview them about a specific topic.
+
+**Aida Knezevic:** So if we're talking about like hallucinations, I could just come up with a bunch of questions just related to this cluster, and I could use that conversation transcript as kind of like a whole artifact.
+
+**Aida Knezevic:** And then as we're creating the content, we could just drop in quotes or use the content, use the transcript as kind of even like a guiding, just to guide the outline.
+
+**Aida Knezevic:** So that's one way to kind of make it easier.
+
+**Aida Knezevic:** And then if we have like follow-up questions, we can reach out, but it is something that we can do.
+
+**Aida Knezevic:** It's not like...
+
+**Aida Knezevic:** Our goal is to get to five blogs per week, and it's certainly not, you know, unreasonable to have, like, an SME provide their input for, like, a couple, you know.
+
+**Brooke Grief:** Okay.
+
+**Brooke Grief:** Yeah.
+
+**Brooke Grief:** No, that sounds great.
+
+**Brooke Grief:** I think a big – there's also a big push on our end to get some of our, like, expert thought leadership out there.
+
+**Aida Knezevic:** So as long as that we can input some of their quotes or, you know, add them in, I think that sounds great.
+
+**Aida Knezevic:** Yeah.
+
+**Seher Dholakia:** I'm curious about how you guys are thinking about creating content about the underlying technology versus creating content for the value that it creates for another business or, like, another organization.
+
+**Seher Dholakia:** So I guess what I'm thinking about is a lot of the benefits of RAG and, you know, making sure LLMs don't hallucinate or understanding why they hallucinate.
+
+**Seher Dholakia:** the ultimate goal of them is to create agents that are grounded in your data and, you know, create agents that make you more productive or faster or –
+
+**Seher Dholakia:** Um, whatever the benefit that you're trying to yield to is, and I feel like those are actually two different content categories of, like, one being the underlying technology, and then two being the value that you get from that underlying technology, and I guess I'm curious about how you guys are thinking about those two different types of content buckets, um, because, for example, we've actually created, like, videos about RAG, and, like, we have internal information that we've published, about RAG, and from the content that's done well, it actually feels like the content that is more aligned with, like, what a business is experiencing versus, like, the underlying technology tends to perform better, so I'm curious about how you're thinking about it.
+
+**Aida Knezevic:** That's, that's honestly great input.
+
+**Aida Knezevic:** I, that's super helpful.
+
+**Aida Knezevic:** Um, I think we could have that, incorporate that into this bucket, uh, because it is, it's not meant to just be, meant to just because
+
+**Aida Knezevic:** Like explaining the underlying technology and how it works, we are thinking about this, this is like the foundation and we want to have this in place to build your authority for SEO and for LLMs, but talking about the benefits is certainly like not outside of the scope, we just want to make sure, like as we're doing the keyword research, we'll just be on the lookout for any like keywords that we could target here, I think, I haven't done any analysis, so I can't say what like the search value is here because we are like primarily targeting organic search, so I just want to make sure that we do have some opportunities there, but I will look into it and yes, I agree that like talking about the specific benefits and explaining like the actual business impact is important for like for your audience and it would get great results.
+
+**Seher Dholakia:** Yeah, that'd be great, thanks.
+
+**Aida Knezevic:** Mm-hmm.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** The fourth one focuses on talking about different AI research agents and how automated research works.
+
+**Aida Knezevic:** So again, this would be also like more foundational content, but we could also kind of fold in some of those benefits and talk about like the business impact of these AI research agents.
+
+**Aida Knezevic:** Um, the audience here is different.
+
+**Aida Knezevic:** So we are targeting, um, research professionals and different, um, verticals.
+
+**Aida Knezevic:** So for example, in finance, um, in investing, um, this might not be that big of a priority for you, but I do want to kind of put it out there as an option.
+
+**Brooke Grief:** Yeah, I think it's, it's, I think it's on par with what we want to talk about, but I also don't know that it only has to be for these specific industries.
+
+**Brooke Grief:** Like research could be across the board if someone wants to put out a report or if they're doing internal research.
+
+**Brooke Grief:** Sure, there's different applications for it, but I think focusing on the deep research is a value-add for u.com, so I think it's good to include.
+
+**Aida Knezevic:** Okay, great.
+
+**Aida Knezevic:** And then the last cluster focuses on different verticals and industry use cases.
+
+**Aida Knezevic:** So this one would target mostly enterprise buyers and more of the C-suite.
+
+**Aida Knezevic:** So we would be talking about different use cases of AI in legal and healthcare, finance, research.
+
+**Aida Knezevic:** And this would, you know, like contain more like top of the funnel and middle of the funnel content, just to make sure that we're kind of building authority across all stages.
+
+**Aida Knezevic:** And yeah, I think there's certainly a lot of like search volume for these types of keywords.
+
+**Aida Knezevic:** So we would just have, it would just be a matter of deciding, do we want to start with more niche topics that might have lower volume?
+
+**Aida Knezevic:** But are more relevant to U.com?
+
+**Aida Knezevic:** Or do we want to kind of do, you know, just start talking about AI for financial analysis, and then kind of work our way down?
+
+**Seher Dholakia:** So there's a few, oh, sorry, Brooke, go ahead.
+
+**Brooke Grief:** Oh, I was just going to say something that we talk about a little bit, and I'm sorry if you can hear my dog barking.
+
+**Brooke Grief:** But we talk about mile deep versus mile wide in terms of the indices and how deep the research actually goes versus doing a shallow, broad search.
+
+**Brooke Grief:** So maybe just in this bucket also explaining, or at least in some of the bucket, explaining the difference between how things are and how things could be with this new, you know, deep search capabilities, I think is a huge thing.
+
+**Brooke Grief:** And kind of explaining the landscape today, without using landscape, because it's an A, no, but explaining how things are and then the difference into what it looks like and what deep research actually means is a huge thing we can.
+
+**Seher Dholakia:** I was just going to say, like, I think this actually differs for the API business versus the end-to-end business, and I think, like, that differentiation is important to keep in mind.
+
+**Seher Dholakia:** So, for example, on the end-to-end business, like, our key verticals are media, retail, and we're starting to move more into tech.
+
+**Seher Dholakia:** And on the API business, it's a little bit different.
+
+**Seher Dholakia:** Like, I think I, you know, rely on, like, Brooke and Alper to say, like, which verticals we wanted to focus on, but I just think that distinction between the two content categories of, like, end-to-end and API is important because it'll change what content we write for each one.
+
+**Aida Knezevic:** Yeah, think it's a good point, too.
+
+**Brooke Grief:** In each bucket, basically, we could have, you know, API versus end-to-end for each different.
+
+**Seher Dholakia:** Yes, exactly.
+
+**Seher Dholakia:** Yep.
+
+**Aida Knezevic:** Okay, okay.
+
+**Aida Knezevic:** So, this is important.
+
+**Seher Dholakia:** So, like.
+
+**Seher Dholakia:** With the retail AI use cases that you have down below for like content types, that probably is more reflective of like our end-to-end business than our API business.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Okay.
+
+**Seher Dholakia:** Okay.
+
+**Seher Dholakia:** I also think, I know we've gone through the five categories.
+
+**Seher Dholakia:** I'm not sure if you guys have talked about, Brooke, have you talked to the GrowthX team about the vertical indexes that we're moving towards?
+
+**Brooke Grief:** Not more than what I just said.
+
+**Seher Dholakia:** I know Justin has like a doc or is he on the call?
+
+**Brooke Grief:** I can't remember.
+
+**Brooke Grief:** No, he wasn't able to join.
+
+**Seher Dholakia:** I know Justin has like a doc or a deck that might just be helpful to share because the website homepage has kind of already moved in that direction of detailing like our vertical indexes product.
+
+**Seher Dholakia:** And then the next phase of the website is also doing like a much deeper dive and building out.
+
+**Seher Dholakia:** Alright.
+
+**Seher Dholakia:** That's
+
+**Seher Dholakia:** A page specifically to Vertical Indexes, and so I think we'll want content to be able to support that productization of Vertical Indexes, and so I actually think that that's potentially a sixth category here that we want to include.
+
+**Aida Knezevic:** Okay, okay.
+
+**Aida Knezevic:** That's helpful to know.
+
+**Aida Knezevic:** I think we can take all of this feedback and we can, I'm kind of not sure if we should, this is me, I'm just thinking out loud, if we should split the clusters in the Notion doc or when, where we start like generating the different assignments and we like fill out your content calendar, we could have like a column next to each assignments and just say, okay, this is API, this is end-to-end focus, but I'll think about this and try to see what the best approach is.
+
+**Seher Dholakia:** Just my thoughts, I think it might be valuable to split it out from the beginning.
+
+**Seher Dholakia:** So we can share, like, content themes, and sorry, there's, like, an ambulance going by, like, content themes and, like, ideas, because that also will help us both from, like, a paid ads perspective or, like, a blog perspective to make sure that we're balancing our investments across each one.
+
+**Seher Dholakia:** So that'd be my recommendation.
+
+**Aida Knezevic:** Yeah, yeah, that makes sense.
+
+**Aida Knezevic:** I think we can do that.
+
+**Aida Knezevic:** Okay, cool.
+
+**Seher Dholakia:** Also, I'm so sorry.
+
+**Seher Dholakia:** Is your name pronounced Aida?
+
+**Aida Knezevic:** You can call me Aida or Ada.
+
+**Seher Dholakia:** Okay, Aida.
+
+**Seher Dholakia:** Yeah, yeah.
+
+**Seher Dholakia:** Okay.
+
+**Aida Knezevic:** No, I'm, I think, in my native language, it's Aida.
+
+**Aida Knezevic:** And then when I, whenever I'm speaking to English-speaking people, I always just default to Ada, but I don't mind either option.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** So that...
+
+**Aida Knezevic:** that
+
+**Aida Knezevic:** Is the content strategy update.
+
+**Aida Knezevic:** Again, I'm going to update it based on just your comments from this conversation, but if you want, if you know, have any other ideas in the next couple of hours, feel free to go back in and leave your comments.
+
+**Aida Knezevic:** I'm happy to go over them and implement.
+
+**Aida Knezevic:** For our next steps, so once we redo, like tweak the strategy, we're going to start doing keyword research and start filling out your content calendar.
+
+**Aida Knezevic:** So, on our next call, we will present around at least like 40 to 50 different ideas that are just like our initial suggestions, and then we can get your feedback and kind of go from there.
+
+**Aida Knezevic:** I think we try to keep it pretty balanced across the clusters, and we try to present assignments that are both, you know, high volume and low volume, but very, very high intent.
+
+**Aida Knezevic:** So, that should be ready for you next week.
+
+**Aida Knezevic:** We're all.
+
+**Aida Knezevic:** I'm going to set up your Looker Dashboard.
+
+**Aida Knezevic:** So, the Looker Dashboard is just a representation of Google Search Console and GA4 data.
+
+**Aida Knezevic:** It's a pretty detailed report, it has like six different pages, and we're going to use it to monitor the performance of the blog post that we publish, so we can just see kind of what the impact is in terms of impressions, organic search, and also just overall sessions on your site.
+
+**Aida Knezevic:** And there's also a page in that Looker report that just focuses on LLM referral traffic, so we can actually see which blog posts are getting cited by different LLMs.
+
+**Aida Knezevic:** We also have a scrunch report prepared for you.
+
+**Brooke Grief:** I think I can actually show it to you right now.
+
+**Brooke Grief:** Would it be helpful if I sent over our editorial calendar that we use internally so you can see what's coming up?
+
+**Aida Knezevic:** Yes, please.
+
+**Aida Knezevic:** Yeah, that would be very helpful.
+
+**Brooke Grief:** I can do that.
+
+**Aida Knezevic:** sorry I didn't… Let me just… Okay, so this is your scrunch report.
+
+**Aida Knezevic:** We set it up fairly recently, so there's not a lot of data so far.
+
+**Aida Knezevic:** Yeah, we set it up on October 16th, so there should be a lot more data coming in in the next couple of days.
+
+**Aida Knezevic:** So far, we just have 350 responses.
+
+**Aida Knezevic:** You are behind the perplexity and the visibility of the… when it comes to non-branded prompts.
+
+**Aida Knezevic:** If we filter them out, it's pretty much… the breakdown is pretty much the same.
+
+**Aida Knezevic:** But we are tracking, like, different platforms here.
+
+**Aida Knezevic:** When it comes to the prompts that we're using, we…
+
+**Aida Knezevic:** We happy to upload more prompts.
+
+**Aida Knezevic:** I don't think that Scrunch has a limit to how many we can track, or at least it's pretty high.
+
+**Aida Knezevic:** I don't think we've hit the limit with any of the clients that we work with.
+
+**Aida Knezevic:** So right now we have generated the prompts just using the description of your company, and then the different audiences that we have uploaded into Scrunch, and then it generates different prompts based on those two inputs, and it tries to basically guess, okay, what would these people be interested in, in this industry.
+
+**Aida Knezevic:** But we can upload any, any prompts that you might want to want to to track, we can share the list of prompts with you, and then you can review them and let us know if you know you want to double down on some topics or remove some prompts.
+
+**Aida Knezevic:** And if there are.
+
+**Aida Knezevic:** So questions that come up frequently during conversations with your customers, we can also add, like turn them into prompts and then track them.
+
+**Brooke Grief:** Got it.
+
+**Brooke Grief:** How does, Scrunch is just monitoring our presence in LLMs, is that?
+
+**Aida Knezevic:** Oh yeah, yeah, I can explain that.
+
+**Aida Knezevic:** So we, it has all these prompts and then throughout the day it pings different LLMs and then it gathers the responses and it analyzes them.
+
+**Aida Knezevic:** So it monitors your visibility, but also like your overall position in LLM citations.
+
+**Aida Knezevic:** It analyzes the sentiment as well as like the number of times you get cited.
+
+**Aida Knezevic:** So, so far your citations are at 1%, competitors are around 3%.
+
+**Aida Knezevic:** The, the percentage of citations is never going to get higher than probably 5% or 6% just because LLMs.
+
+**Brooke Grief:** to favor like third-party websites when but you know this is enough to get traffic to your site so don't think that this is like so low it's not like a dramatic number compared to what we're seeing for a lot of other companies got it so how it so we're also working with brand light how would it like a scrunch compare to a brand light or is it on par and there they seem to also be monitoring So I'm wondering if like if we should connect you to and then they can provide prompts that they're finding or if there's a way to work together to make sure we have the same data across the board.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** Eric, do you know brand light?
+
+**Erik O'Brien:** Just Google them.
+
+**Brooke Grief:** So I just sort of assumed but that's my bad, but I can also send some information on them as well and kind of show what they're showing up.
+
+**Brooke Grief:** And maybe there's something that we can all meet and figure out the best way to
+
+**Aida Knezevic:** Are there, like, an LLM Visibility Platform?
+
+**Brooke Grief:** Yeah.
+
+**Seher Dholakia:** Yes, like a GEO Visibility Platform.
+
+**Aida Knezevic:** Okay.
+
+**Seher Dholakia:** And they also do leverage, like, their platform also has, like, content recommendations based on search terms that are being searched and, like, who is searching them, etc.
+
+**Aida Knezevic:** Okay, interesting.
+
+**Seher Dholakia:** I wonder if, Brooke, I wonder if we can ask Brandlight to give access to GrowthX so they could even, like, just play around and see, like, what the level of information they have is.
+
+**Brooke Grief:** Yeah, definitely.
+
+**Seher Dholakia:** Aida, I had one question, another question for you.
+
+**Seher Dholakia:** One of the things that we're, we're currently building out our website and kind of completing a Webflow migration and bringing over all of our pages on our existing website to Webflow.
+
+**Seher Dholakia:** Aida, like that, Justin.
+
+**Seher Dholakia:** Justin.
+
+**Seher Dholakia:** Laughing.
+
+**Seher Dholakia:** One of the questions that I had is we've turned on Webflow Optimize, and so now we're actually able to see a bit more demographic information on the types of people that are visiting our website, what industry they may be in, what their job titles are.
+
+**Seher Dholakia:** I know we've landed on these content buckets for now, but as we get more insight on, like, who is converting and to yield to greater, like, CRO, can we then tailor the content buckets to kind of map and, like, serve the needs of the audiences that are landing on our website as well?
+
+**Aida Knezevic:** Yeah, for sure.
+
+**Aida Knezevic:** Yeah, totally.
+
+**Aida Knezevic:** I mean, that's really the idea is none of this is, like, really set in stone.
+
+**Aida Knezevic:** And, you know, as, like, your business evolves, you know, just keep us in the loop, and we can tailor anything from the artifacts to the strategy.
+
+**Aida Knezevic:** Yeah, so that we can definitely do that.
+
+**Aida Knezevic:** Especially once we start seeing, like, once we start publishing content, like our own content, then we can kind of see what performs well and tailor our approach further.
+
+**Seher Dholakia:** Well, even be able to get down to the level of granularity of, like, who has, what are the demographics of who has visited a specific blog or a set of blogs.
+
+**Seher Dholakia:** So I think that just could be really valuable so we can, like, learn and iterate as we get more information.
+
+**Seher Dholakia:** So I just wanted to make sure the team knew that we have access to that as well.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Perfect.
+
+**Aida Knezevic:** Yeah, that works.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** And then let me see if there's any, you know, those are all the updates that I had for today.
+
+**Brooke Grief:** Do you have any other questions?
+
+**Brooke Grief:** Yeah, I think we'll probably, you know, dive into this more as we meet on some of these calls.
+
+**Brooke Grief:** But a timeline of sort of how you generally onboard and when we can expect content to start rolling and what you need from us to execute that.
+
+**Brooke Grief:** And there's Yeah.
+
+**Brooke Grief:** Yeah, I guess.
+
+**Brooke Grief:** And then the process for how content is created exactly, like what that looks like, where my input would be needed, where, you know, if I need to loop in an SME internally on our side, what that would look like, and like time from initial idea to publish and all of that.
+
+**Brooke Grief:** And then lastly, if we need to connect you and obviously get you access into Webflow, which is where our CMS is, you know, when we should do that and how we should go about doing that.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** So, for the CMS access, you can grant access to pod0 at growthx.ai.
+
+**Aida Knezevic:** I'm just going to drop it in the chat.
+
+**Aida Knezevic:** And we should be able to have access to just your, like your blog environment, so we can draft the content there.
+
+**Aida Knezevic:** So, our goal is, so I'm going to make adjustments to the strategy by the end of the week.
+
+**Aida Knezevic:** I'll share it with you again.
+
+**Aida Knezevic:** And then we would do keyword research or very...
+
+**Aida Knezevic:** Early next week and come back with a list of like 40 to 50 blog topics, we're going to share them with you next week and then you, you know, we get to review them and you can let us know like which ones you like and then the goal is to pick one blog to generate and then we can calibrate on it.
+
+**Aida Knezevic:** So that means like just, you know, the voice and tone, but also the information that we're presenting and how we're presenting it and then as soon as we feel like we're in a good spot with the content and that's typically probably in two weeks, that's when we can start, like we try to do then three blog posts the following week and then the week after that we do five and we want to start publishing as quickly as possible.
+
+**Aida Knezevic:** So that's typically like halfway through the spring process.
+
+**Aida Knezevic:** That's when we start publishing.
+
+**Aida Knezevic:** In terms of the content production process.
+
+**Aida Knezevic:** We use Airtable for all of the, to track like the production, so when we have drafts for you to review, we will like notify you in Slack, we'll drop to Google links, and you can leave your comments in directly into Google Doc.
+
+**Aida Knezevic:** In terms of, I think SME input, I think it might be helpful to figure out which blog posts we should get SME input for before we start creating, just so we can like plan for it.
+
+**Aida Knezevic:** It doesn't have to stop or halt production, but we can just like get ahead of it and like email the right people, schedule the call.
+
+**Aida Knezevic:** So I think it would be helpful just to get that input from you as soon as you approve a specific topic.
+
+**Aida Knezevic:** And yeah, think, did I answer all of your questions?
+
+**Brooke Grief:** I think so.
+
+**Brooke Grief:** I can't promise that I'll remember all of that, but I'll do my best if it's written any.
+
+**Aida Knezevic:** That'd be awesome if you can just share that with me.
+
+**Brooke Grief:** But yeah, as for the SMU stuff, I think once we get the topics and we pick, we can align to, like, which SMU we go to for certain topics, and that will be really helpful.
+
+**Brooke Grief:** I also did just want to share, I promised it would change again.
+
+**Brooke Grief:** This just in, breaking news, we are actually going back to API focus.
+
+**Ben Geller:** So stick into that.
+
+**Ben Geller:** Where are you getting this breaking news?
+
+**Brooke Grief:** Like, are you watching a CNN?
+
+**Ben Geller:** I am.
+
+**Ben Geller:** I see the ticker tape.
+
+**Brooke Grief:** It's coming in.
+
+**Brooke Grief:** My, you know, my producers are telling me focus on API.
+
+**Brooke Grief:** But, again, you know, I would just focus there for now if it comes back that we do need to obviously focus on end-to-end.
+
+**Brooke Grief:** I'll let you guys know.
+
+**Brooke Grief:** But what you had originally was great.
+
+**Brooke Grief:** So let's roll with that.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Yeah, keep us in the loop.
+
+**Brooke Grief:** Any breaking news that come up, just tag me at Slack.
+
+**Brooke Grief:** Totally.
+
+**Brooke Grief:** Totally will do.
+
+**Brooke Grief:** But yeah, this is very helpful.
+
+**Brooke Grief:** Very excited.
+
+**Brooke Grief:** Five blog posts a week made my eyes pop out of my head so that it.
+
+**Brooke Grief:** It's awesome, very excited, and, yeah, looking forward to it.
+
+**Aida Knezevic:** Okay, perfect.
+
+**Aida Knezevic:** Well, thank you so much for your time, for your feedback.
+
+**Aida Knezevic:** I'll be in touch with updates.
+
+**Aida Knezevic:** I'll send over the meeting recording as well, so if there's anything that you want to remember.
+
+**Aida Knezevic:** But, yeah, thank you so much.
+
+**Aida Knezevic:** I'll be in touch with the assignments and, yeah, any other updates soon.
+
+**Brooke Grief:** Okay, that sounds great.
+
+**Brooke Grief:** Thank you so much.
+
+**Aida Knezevic:** Thanks, all.
+
+**Aida Knezevic:** Bye.
+
+**Seher Dholakia:** Bye-bye.
+
+**Seher Dholakia:** Thank you.
+
+**Seher Dholakia:** Bye.
+
+**Seher Dholakia:** Bye.

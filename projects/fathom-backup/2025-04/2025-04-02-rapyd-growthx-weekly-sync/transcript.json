@@ -1,0 +1,3234 @@
+[
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah, looks like Mark will be joining us.",
+    "timestamp": "00:00:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay.",
+    "timestamp": "00:00:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "We'll give him a minute or two to get on, and then we can just kind of jump into it and catch him off if he's not.",
+    "timestamp": "00:00:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay.",
+    "timestamp": "00:00:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So I know you spent the last couple of days reviewing the two calibration articles, and I realized that I haven't given you...",
+    "timestamp": "00:00:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "This is actually a good time to give you, like, a little just walkthrough through AirOps so that you can see how we generate these articles.",
+    "timestamp": "00:00:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And I think it might allow us to work better.",
+    "timestamp": "00:00:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "That would be great.",
+    "timestamp": "00:00:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:00:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So this is your article generation grid in AirOps.",
+    "timestamp": "00:00:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So right now there are just two assignments here.",
+    "timestamp": "00:00:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Swift will turn...",
+    "timestamp": "00:00:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And Pavement Gateway API.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Sorry, I just need to mute my Slack notifications because they're driving me insane.",
+    "timestamp": "00:01:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Just one second.",
+    "timestamp": "00:01:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay, perfect.",
+    "timestamp": "00:01:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So the first input is the keyword.",
+    "timestamp": "00:01:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We have your company name right here, and then the AI context, which is a brief description of your product, your platform.",
+    "timestamp": "00:01:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So is that something that, how big of a context window do you have for that description?",
+    "timestamp": "00:01:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I want to keep it, I think 300, 400 words is probably the maximum.",
+    "timestamp": "00:01:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "That's something that I think we should review.",
+    "timestamp": "00:01:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "little you're because",
+    "timestamp": "00:01:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "It could possibly be a place to help dial things in a bit.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I noticed a couple of mistakes that were coming up consistently through the articles that are communication points that we used to use that we don't use anymore.",
+    "timestamp": "00:02:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And so especially if you're like pulling from existing rapid content, it's very possible that some things got pulled in there that can be easily corrected.",
+    "timestamp": "00:02:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay, perfect.",
+    "timestamp": "00:02:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Yeah, we can.",
+    "timestamp": "00:02:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I'll send you this after the call and then you can just change it.",
+    "timestamp": "00:02:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Great.",
+    "timestamp": "00:02:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:02:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So after the AI context, we have the polishing instructions and these are super important.",
+    "timestamp": "00:02:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We don't like to, I don't personally like to make them super long because they can sometimes have the opposite effect.",
+    "timestamp": "00:02:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "But the most important thing is right here.",
+    "timestamp": "00:02:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So you give it an example paragraph.",
+    "timestamp": "00:02:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I took this from an article that you have on your site about credit card processing.",
+    "timestamp": "00:02:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And",
+    "timestamp": "00:02:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I tried to pick one that I was 99% certain was human-written, but I think it was still a little bit too formal.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And so you made a comment, I think, in one of the calibration articles that the tone was a little bit too formal.",
+    "timestamp": "00:03:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we can change this with another example that better suits your tone.",
+    "timestamp": "00:03:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:03:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So this is, I'm sorry, this is basically collishing context.",
+    "timestamp": "00:03:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:03:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So I actually, yeah, I would send me this too.",
+    "timestamp": "00:03:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:03:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Like a lot of this, you know, I'd want to look at it a little bit closer here.",
+    "timestamp": "00:03:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I think a lot of this is right.",
+    "timestamp": "00:03:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "But it would just be helpful probably to read you and I don't want to burn time.",
+    "timestamp": "00:03:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah, absolutely.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "A lot of these bullet points were taken from that doc you shared in the beginning with the AI context that you use.",
+    "timestamp": "00:04:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So, for example, don't use these phrases.",
+    "timestamp": "00:04:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We also have write with British spelling here, but that was ignored.",
+    "timestamp": "00:04:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we're going to have to figure out a workaround.",
+    "timestamp": "00:04:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "It's not the end of the world if we just have to make all these blogs in US English.",
+    "timestamp": "00:04:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "OK.",
+    "timestamp": "00:04:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:04:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And that might end up being the workaround.",
+    "timestamp": "00:04:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "OK.",
+    "timestamp": "00:04:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "All right.",
+    "timestamp": "00:04:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So the next step after the polishing instructions, we have the AI generates an assignment brief based on the keyword at this stage.",
+    "timestamp": "00:04:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We can you can I mean, we can edit this brief right here.",
+    "timestamp": "00:04:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "It comes up with like the target audience does a keyword analysis.",
+    "timestamp": "00:04:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "This is connected to a SEMrush API.",
+    "timestamp": "00:04:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "OK.",
+    "timestamp": "00:04:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "It's not making up any of like all of this stuff comes from SEMrush.",
+    "timestamp": "00:04:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then basically it is pulling a SEMrush.",
+    "timestamp": "00:04:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "content brief.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Like in SEMrush, in the content marketing section, can make content briefs.",
+    "timestamp": "00:05:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "It's kind of like pulling something similar to that and using it to create an assignment for the project.",
+    "timestamp": "00:05:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Daniel would be probably the better person to ask, but I do know the keyword data comes from SEMrush.",
+    "timestamp": "00:05:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "It does generate a sample outline, but like a proposed content structure.",
+    "timestamp": "00:05:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "However, I prefer using ChatGPT to generate outlines just because it allows me more control over who the target audience is and what I want to include.",
+    "timestamp": "00:05:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I find that Aerox sometimes goes too broad with a lot of topics, especially if we're targeting bottom of the funnel keywords.",
+    "timestamp": "00:05:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "A lot of those outlines are still very, very broad and cover a bunch of things we don't need to talk about.",
+    "timestamp": "00:05:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay, this is something that I will generate in ChatGPT, edit, and then place it here, and then...",
+    "timestamp": "00:05:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And we move to the next step, which is like the research.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And this is connected to perplexity.",
+    "timestamp": "00:06:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then it uses all of the points in the assignment brief to it researches them and then produces like a research document that informs the entire article.",
+    "timestamp": "00:06:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So a lot of times it might even like reference specific reports, like case studies, things like that.",
+    "timestamp": "00:06:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "But we always try to double check those and remove them.",
+    "timestamp": "00:06:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So in other words, it sends over the blog brief to perplexity.",
+    "timestamp": "00:06:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Perplexity kind of like runs actual web searches on the terms that it's identified and like puts together like a not a blog post, but like a research document of those terms and includes like links and things like that in it.",
+    "timestamp": "00:06:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah, yeah, exactly.",
+    "timestamp": "00:06:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And we can also modify this research doc and add additional resources here if we want.",
+    "timestamp": "00:06:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Then we do the title.",
+    "timestamp": "00:06:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I usually.",
+    "timestamp": "00:06:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We add my own title.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then it generates an outline.",
+    "timestamp": "00:07:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We edit the outline always.",
+    "timestamp": "00:07:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then it generates a first draft.",
+    "timestamp": "00:07:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Then we go to the post-processing stage.",
+    "timestamp": "00:07:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So this article draft doesn't have any of our polishing instructions.",
+    "timestamp": "00:07:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then when we apply post-processing, that's when it generates an article that is more in line with the polishing instructions.",
+    "timestamp": "00:07:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Now we are using Claude to generate articles because it is better at writing long-form content.",
+    "timestamp": "00:07:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "It does produce longer articles on the whole.",
+    "timestamp": "00:07:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So introductions are super long.",
+    "timestamp": "00:07:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We always shorten them.",
+    "timestamp": "00:07:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "But it does a better job at writing long-form content.",
+    "timestamp": "00:07:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So the article draft you created in Claude instead of ChatGPT.",
+    "timestamp": "00:07:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Yeah, so this post, the article generation.",
+    "timestamp": "00:07:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Flow uses Claude, yeah.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:08:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Do you use ChatGPT at all anymore, or is it just Claude?",
+    "timestamp": "00:08:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I do.",
+    "timestamp": "00:08:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Yeah, we do.",
+    "timestamp": "00:08:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we use a combo.",
+    "timestamp": "00:08:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "The only thing I really use Claude for now is generating prompts.",
+    "timestamp": "00:08:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I'm interested to, like, that's the thing I found to be good for that.",
+    "timestamp": "00:08:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "But that's really, that's interesting to know.",
+    "timestamp": "00:08:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay, so you make the article, and then now at this phase, you're saying, like, this is where the human comes in?",
+    "timestamp": "00:08:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I mean, we have a human come in at every stage, should have, yeah, should have emphasized that.",
+    "timestamp": "00:08:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "But at this stage, I will go through this article, and then if you notice, like, for example, I might notice that it's using too many bullet points or that it's including information we don't need.",
+    "timestamp": "00:08:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then we have a feedback column right here where we can add the feedback.",
+    "timestamp": "00:08:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "For example, I said to shorten the introduction to 150 words, remove all quotes by experts, because the original article has.",
+    "timestamp": "00:08:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "That's so many expert quotes that were actually made up.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we had to remove those.",
+    "timestamp": "00:09:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:09:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Yeah, it happens.",
+    "timestamp": "00:09:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "You really need to, you can't let AI run loose.",
+    "timestamp": "00:09:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "You need to keep it on a tight leash.",
+    "timestamp": "00:09:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "But at this stage, we can also, for future content, we can tell it to use British spelling.",
+    "timestamp": "00:09:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So if we notice that it didn't use British spelling in the post-process article, we can tell it to do so here.",
+    "timestamp": "00:09:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then the final article feedback, final article with the feedback pops up here in this column.",
+    "timestamp": "00:09:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then we just add internal links.",
+    "timestamp": "00:09:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then I read the article again.",
+    "timestamp": "00:09:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then I send it to you.",
+    "timestamp": "00:09:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So I noticed you did a really good job with the internal links.",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "There's a few that I changed, but I kept like, oh, you know, they did such a good job of looking through here and finding good, relevant content to link to.",
+    "timestamp": "00:09:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Did you use a process to come up with that or was that more just like manually Googled searching and seeing what came up?",
+    "timestamp": "00:09:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay.",
+    "timestamp": "00:09:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we use Aerofs for internal linking.",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We use your sitemap.",
+    "timestamp": "00:10:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So this right here, we have a workflow input.",
+    "timestamp": "00:10:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "This is the database where all of your blog posts are.",
+    "timestamp": "00:10:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we just pulled your sitemap and it contains all of your blog posts.",
+    "timestamp": "00:10:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then we run this workflow and it finds opportunities for internal links.",
+    "timestamp": "00:10:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I will have to say a lot of times those links are tacked on in an extra sentence.",
+    "timestamp": "00:10:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And that extra sentence, we don't really need to have it.",
+    "timestamp": "00:10:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So I will move the link to like another anchor text that better suits it.",
+    "timestamp": "00:10:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we do have to edit that as well.",
+    "timestamp": "00:10:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "But it does pull some pretty good internal links.",
+    "timestamp": "00:10:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Now, is it basically inferring the relevance of those links based on just the URL title?",
+    "timestamp": "00:10:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I think it uses, well, actually, I have no idea.",
+    "timestamp": "00:10:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I'm going to ask Daniel.",
+    "timestamp": "00:10:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "and get back to you.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I ask because sometimes we shorten and condense our URL titles down.",
+    "timestamp": "00:11:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "don't have them be particularly descriptive, but if I know that you're going to be looking at those URLs to infer relevancy, I can make those titles more descriptive moving forward.",
+    "timestamp": "00:11:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay, yeah, I'll ask Daniel and get back to you because I really don't know.",
+    "timestamp": "00:11:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "It might also be using the titles.",
+    "timestamp": "00:11:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Mark, would, ending the answer to that question, would stick with what you've done with the URLs, that shorter, keyword-focused URL.",
+    "timestamp": "00:11:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Though, like, I haven't found the URLs the most, the biggest factor.",
+    "timestamp": "00:11:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "It is somewhat, and you can see when you get those long URLs that someone hasn't cleaned up, often those aren't ranking.",
+    "timestamp": "00:11:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "It's probably, like, a little bit of chicken egg, some of that.",
+    "timestamp": "00:11:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Like, if you're not optimizing a URL, then you're not optimizing an article, so it's hard to tell exactly.",
+    "timestamp": "00:11:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But in general, that short, what is the exact keyword we're targeting, that main keyword, that's what I use as my slug.",
+    "timestamp": "00:11:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And I would, again, pending this answer from Daniel, I would stick with that, and we can adjust if that's not accurate to that workflow.",
+    "timestamp": "00:11:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "That's kind of why I was asking, was what's the best thing to do with our URLs there?",
+    "timestamp": "00:12:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:12:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "mean, most of the, I mean, the other accounts that I'm on, we use the primary keyword for the URL slug, and it seems to be working well.",
+    "timestamp": "00:12:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So, but we'll see what he says.",
+    "timestamp": "00:12:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "To go back to the calibration articles feedback, I went through them today, but I haven't made any changes because Rachel and I are going to meet after this call, and we're going to go through that feedback together, because she's going to be editing, I'm going to be editing the content heavily in the next couple of weeks.",
+    "timestamp": "00:12:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "But at one point, she's also going to come in, but I also, I just want her to, like, be aware of, like, the nuances and how to talk about your industry and your product.",
+    "timestamp": "00:12:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then next week, we're hoping to, like, final, early next week, we're going to finalize these articles, and hopefully they'll be ready.",
+    "timestamp": "00:12:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Be published on your site.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:13:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Let's see here.",
+    "timestamp": "00:13:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I think, yeah, if I can review those kind of the first two steps, the kind of like the AI context and the voice, I think that might help us in future articles.",
+    "timestamp": "00:13:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So if you share those, think I'll take a look at those today.",
+    "timestamp": "00:13:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah, absolutely.",
+    "timestamp": "00:13:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I'll share that after the call.",
+    "timestamp": "00:13:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So, and then another thing, since we haven't obviously published anything yet, we can't do any performance reporting.",
+    "timestamp": "00:13:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "But next week, I'm going to set up your Looker Studio report.",
+    "timestamp": "00:13:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "We're going to, like week over week, we're going to be covering performance, but it's also going to be accessible to you so you can check it out whenever you want.",
+    "timestamp": "00:13:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I know that Marc Winitz mentioned earlier that you want to set some KPIs for the content.",
+    "timestamp": "00:13:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "And then...",
+    "timestamp": "00:13:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Earlier today, Jakub and I met and we were talking about this.",
+    "timestamp": "00:14:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "maybe Jakub can give you more information about how we want to approach this and like what kind of goals we want to set for our content.",
+    "timestamp": "00:14:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Sorry, Jakub, you're on mute.",
+    "timestamp": "00:14:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Give me one second.",
+    "timestamp": "00:14:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "It be my Internet.",
+    "timestamp": "00:14:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Are you hearing me?",
+    "timestamp": "00:14:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "I can hear you.",
+    "timestamp": "00:14:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "You got a little fuzzy there.",
+    "timestamp": "00:14:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Yeah, saw the Internet go out.",
+    "timestamp": "00:14:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Comcast was here yesterday.",
+    "timestamp": "00:14:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "We thought it was fixed.",
+    "timestamp": "00:14:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "So stop me if it stops again.",
+    "timestamp": "00:14:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Maybe I'll take my video down to just keep in with.",
+    "timestamp": "00:14:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "I think we're a couple steps away, but in general, what we'll do is get aligned.",
+    "timestamp": "00:14:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "I know you've gone through the keywords already.",
+    "timestamp": "00:14:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "What I want to do is take that rough volume that we have for these keywords, then basically break that down with like we look at it weekly and we're publishing this many, this many, this many, and build in that ramp and, you know, kind of the ramp times that we see across different.",
+    "timestamp": "00:14:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And then look at similar clients with volume that looks about the same and the average difficulty.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "We won't find like a perfect match or every set of keywords, every client's going be different.",
+    "timestamp": "00:15:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But from there, what I want to do again is look across clients, give kind of a good, better, best of like what we typically see.",
+    "timestamp": "00:15:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And then we can come to you with API suggestions there.",
+    "timestamp": "00:15:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But looking first at traffic and then if we can get some conversion idea from what you've done historically and build that in, we can try to do that as well.",
+    "timestamp": "00:15:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But I think starting with the traffic KPI based on, again, what we've seen historically, then the outputs of total potential traffic from those keywords that we're doing and how that ramps over time.",
+    "timestamp": "00:15:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:15:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Like month one, we will see very little, but that month one content stacks each month and each month to content will start very slow, but stack each month.",
+    "timestamp": "00:15:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And so you kind of get this waterfall.",
+    "timestamp": "00:15:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "All chart of traffic, and we can build out like, I don't know, three, six, 12-month cap guys in that way.",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "It might be helpful for me to show you some of the things that I track.",
+    "timestamp": "00:16:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Sure.",
+    "timestamp": "00:16:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Absolutely.",
+    "timestamp": "00:16:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Let me share with you like my primary content marketing dashboard and HubSpot real quick.",
+    "timestamp": "00:16:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I can show you kind of some of the key things I'm looking at, so maybe this can get built in to your tracking too.",
+    "timestamp": "00:16:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Yeah, and we want to align as best as we can to what you're already doing, and the more data the better.",
+    "timestamp": "00:16:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:16:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So can you see my screen okay here?",
+    "timestamp": "00:16:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Mm-hmm.",
+    "timestamp": "00:16:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So this is my HubSpot dashboard.",
+    "timestamp": "00:16:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I use this kind of as my primary sort of top-level view of what's going on with our content marketing program on the website.",
+    "timestamp": "00:16:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Biggest things that I look at here, first one is just contacts created.",
+    "timestamp": "00:16:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "All right, so like my most important thing is that people are coming to the website.",
+    "timestamp": "00:16:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "They're not just, you know, coming in and reading blog posts.",
+    "timestamp": "00:16:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:16:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Thank",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "They're filling out a contact us form to, you know, get into our customer pipeline or they're downloading a piece of content to kind of get into our nurturing pipeline.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Those are really or they're subscribing to our newsletter.",
+    "timestamp": "00:17:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Those are really the main things that I'm looking for them to do.",
+    "timestamp": "00:17:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And so, you know, I'm always in particularly, I'm looking at this direct traffic from the contact us form and then organic search from the contact us form.",
+    "timestamp": "00:17:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Those are those are the two things that I'm always looking at, because with GDPR, some of the organic traffic ends up getting captured in direct search.",
+    "timestamp": "00:17:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And also a lot of times, you know, we touch that person before and then organic search is really my bread and butter.",
+    "timestamp": "00:17:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So really, it's at contact us and gated content number from direct search that I'm going to be looking to have move up.",
+    "timestamp": "00:17:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Signups, I don't care about.",
+    "timestamp": "00:17:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "We really don't like it when people.",
+    "timestamp": "00:17:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And up right away, typically those people don't convert as if people like kind of messing around with the software.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So it's called contact us and gated content.",
+    "timestamp": "00:18:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So those are the two that I look to, that I'm looking to improve.",
+    "timestamp": "00:18:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So that's my first metric.",
+    "timestamp": "00:18:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "The second one is just overall traffic.",
+    "timestamp": "00:18:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Like if we have a good SEO strategy, we should be appearing in more searches, having more visibility, and driving more traffic to the site.",
+    "timestamp": "00:18:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So I want to see our organic search traffic essentially going up and to the right.",
+    "timestamp": "00:18:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So those are the big two.",
+    "timestamp": "00:18:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Then as we get more granular into the blog, one of the big things that I look at is this metric, first page blog then converted.",
+    "timestamp": "00:18:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So what this metric means is the first page that they landed on the website was a blog post.",
+    "timestamp": "00:18:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And then at some point in their journey on that website, they filled out a form.",
+    "timestamp": "00:18:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And I like to look at which blog it is and how many people had that, the first thing they dropped through the site on, which usually means it came from like search.",
+    "timestamp": "00:18:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Or our newsletter is a blog post, and then they converted later.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So I like to look at which blogs are the ones that are converting to that degree, and how many are converting.",
+    "timestamp": "00:19:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "You can see I have a very long tail strategy now.",
+    "timestamp": "00:19:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "This actually cuts off.",
+    "timestamp": "00:19:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "But it's like in the last 30 days, the vast majority are coming from like a single view of a very granular blog post, as opposed to, you know, maybe the best performing one that's got like five.",
+    "timestamp": "00:19:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "What I would want to start seeing here is some of the blog posts that we're creating showing up on this list, and driving this overall number, which I track right here, higher.",
+    "timestamp": "00:19:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And then finally, you know, newsletter subscriptions.",
+    "timestamp": "00:19:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I'll watch that.",
+    "timestamp": "00:19:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "That's, again, just another contact form, though, so you don't really have to worry about that.",
+    "timestamp": "00:19:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "The other thing that I do is when people download gated reports, I look at, you know, what gated reports that they downloaded.",
+    "timestamp": "00:19:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And then once somebody downloads a gated report, I.",
+    "timestamp": "00:19:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Track what phase of the sales funnel that person is in for moving forward.",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And I want to get them into like sales accepted leads and sales engaged leads.",
+    "timestamp": "00:20:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So the other thing I'd be looking at, and this is a little harder to track directly, but I would want to see the gated assets that we're promoting in our blog posts going up.",
+    "timestamp": "00:20:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So the total views and submissions increase as we're creating more blog content.",
+    "timestamp": "00:20:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "This isn't something that you need to worry about.",
+    "timestamp": "00:20:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "We have our system set up so that whatever topic category we apply to a blog post, it automatically inserts ads for the relevant gated content into it.",
+    "timestamp": "00:20:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "But I would want to see these numbers increase as we're putting up these blogs.",
+    "timestamp": "00:20:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Any questions?",
+    "timestamp": "00:20:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:20:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And that last, on the gated reports, do you have a report that shows the content, like the blog that that comes from, right?",
+    "timestamp": "00:20:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Like so the state of payments, do you know which?",
+    "timestamp": "00:20:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I don't have on, I could probably get that, but I do not have the granularity of clicking on this and seeing.",
+    "timestamp": "00:20:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Which blog post each of these submissions came from.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "They also would come from things other than just blog posts.",
+    "timestamp": "00:21:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Got it.",
+    "timestamp": "00:21:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Got it.",
+    "timestamp": "00:21:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "it.",
+    "timestamp": "00:21:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Sure.",
+    "timestamp": "00:21:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "That's less important, but still useful in there.",
+    "timestamp": "00:21:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "I think it's still, what you showed me is more than we have often in a good way.",
+    "timestamp": "00:21:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "I think we'd do the same thing.",
+    "timestamp": "00:21:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "We'd project the traffic based on volume articles we're creating, that ramping timeline.",
+    "timestamp": "00:21:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But from there, we can use the traffic that you already have and make some assumptions about, or even just take that conversion and apply it over to these other metrics, the signups or the downloads and so on.",
+    "timestamp": "00:21:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "I think we look into what exists and what is converting.",
+    "timestamp": "00:21:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "What are those blog posts?",
+    "timestamp": "00:21:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "You should be looking to replicate that or finding holes that look very similar.",
+    "timestamp": "00:21:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "The best converting stuff, examine for that.",
+    "timestamp": "00:21:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But then we can use the conversion rates.",
+    "timestamp": "00:21:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Maybe have to apply, get rid of some outliers or something.",
+    "timestamp": "00:21:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "something.",
+    "timestamp": "00:21:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But it didn't look like one page was doing all the heavy lifting or something.",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "So I think we can generally take conversion rates plus the estimates of traffic, and we get a good ballpark there and build on the model together.",
+    "timestamp": "00:22:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:22:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Yeah, hey, Marc, I think we're going to want to talk to Mikhail as well and actually take what you and Jacob just said here and also maybe extend it slightly further down to two things.",
+    "timestamp": "00:22:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "One would be just how are the two categories, I guess, kind of performing in terms of almost like creating like a mini MMR report where we look at general payments.",
+    "timestamp": "00:22:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "We look at the high opportunity, high risk, and actually look at a full funnel view of it all the way down to closed one.",
+    "timestamp": "00:22:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "So I'd like to kind of start to get to that granularity.",
+    "timestamp": "00:22:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "We can see...",
+    "timestamp": "00:22:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Start, though, with what you and Jakub just said as an initial, almost like a calibration of, is traffic being generated and where is it going?",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "But I think the next thing I want to see then is how would we be able to get further granularity on what is the impact into the pipeline?",
+    "timestamp": "00:23:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "So that would be kind of a next step thing.",
+    "timestamp": "00:23:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "we could even, if necessary, Jakub, could even do a call with our guy who runs marketing operations.",
+    "timestamp": "00:23:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "We do very detailed reporting on what Marc is showing you here for our entire funnel.",
+    "timestamp": "00:23:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "I think we need to kind of start to look at that, but sort of this first swag of what you guys just said, I think, be kind of suitable, let's say, for the first three months.",
+    "timestamp": "00:23:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "So...",
+    "timestamp": "00:23:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I think going the whole way down the funnel with Mikael would be a great idea.",
+    "timestamp": "00:23:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Maybe let's put our dashboard together.",
+    "timestamp": "00:23:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "What you guys have, and then show that to Mikael and say, here's what we're getting.",
+    "timestamp": "00:23:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "We want to bring this the whole way down.",
+    "timestamp": "00:23:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Yeah, and it's not that closed one is everything, it's not, but it's an important marker that kind of tells us, like, just are we directionally going in the right way?",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Because there's obviously lots of other touches that happen, you know, not everything has to be, quotes, first touch.",
+    "timestamp": "00:24:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "It kind of, there's other things that, like, we consider.",
+    "timestamp": "00:24:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "We also work heavily through channel partners for a lot of pipelines where you need to kind of account for that, like, at a direct merchant level.",
+    "timestamp": "00:24:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "And then, Marc will probably also need to look at, and I forgot where we left this off, but, like, we said we did want to do some work around working with GrowthX to kind of do some build out of this program into partner acquisition, which is sort of like acquiring a marketing channel.",
+    "timestamp": "00:24:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "That's, like, really what it is.",
+    "timestamp": "00:24:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "So I think we need to kind of just keep that in mind.",
+    "timestamp": "00:24:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Again, I'm not asking for, at this stage, for us to do that, but that's where I would want to take this.",
+    "timestamp": "00:24:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "And what Mark means by that is, like,",
+    "timestamp": "00:24:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Really, a lot of the stuff that we're doing right now is sort of customer-focused, and it's a bit more complicated to get into, like, channel partners, but that's a place where we want to take our content here at some point.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:25:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "you really focus on that audience.",
+    "timestamp": "00:25:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Also, if there's \u2013 I don't know if you guys have this.",
+    "timestamp": "00:25:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "This is, like, just a question of the whole GrowthX team.",
+    "timestamp": "00:25:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Like, I like Northstar metrics, if you guys know that idea where they're sort of, like, one or one or two metrics you really look at.",
+    "timestamp": "00:25:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "And is there a way we can assign \u2013 I don't even know what it is.",
+    "timestamp": "00:25:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "But, like, did we assign some type of metric like that that we were looking at every week just to sort of get a read on, like, you know, how this is going, if that makes sense, right?",
+    "timestamp": "00:25:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "So there's something that we should be looking at.",
+    "timestamp": "00:25:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "It's sort of like, yeah, come in on a Monday morning.",
+    "timestamp": "00:25:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "It's like, yeah, what happened last week?",
+    "timestamp": "00:25:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Like, what's the big stat that tells us, you know, directionally, you know, where we're headed?",
+    "timestamp": "00:25:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "So I know there's some thought that we could put into that.",
+    "timestamp": "00:25:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Not some really deep dashboard with lots of dials and, you know, charts and bars and pies.",
+    "timestamp": "00:25:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "And whatever, but just sort of a, is there something that we can kind of look at a single thing that's kind of giving us a directional view of how this is working?",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Yeah, I think that's smart.",
+    "timestamp": "00:26:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And what I do with the content program, it's so different at each stage.",
+    "timestamp": "00:26:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Like day one to month one, can we get that operational, like operations line, are we publishing, right?",
+    "timestamp": "00:26:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "So that's what we're doing in this first month as well.",
+    "timestamp": "00:26:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And as things are publishing, it's really looking at those, are we gaining keywords overall?",
+    "timestamp": "00:26:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And I think that should be easy with the website we already have in place.",
+    "timestamp": "00:26:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But keyword growth and impression growth.",
+    "timestamp": "00:26:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And then the next one is, so like that's probably late month one to month two, we're looking at those, plus traffic starts to ramp up in month two, month three.",
+    "timestamp": "00:26:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But then from like, we zoom six months down the road, like of course we're still going be looking at traffic growth, but then we should be looking at those conversions.",
+    "timestamp": "00:26:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "So I think that North Star changes, like if that's, it's probably not what a North Star metric truly is defined as.",
+    "timestamp": "00:26:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "But when I think of content programs, just the stages are different.",
+    "timestamp": "00:26:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "So you should be looking at something very different, even month over month, sometimes, but really quarter over quarter.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "So I don't know if that's acceptable, but that's how I think of metrics is like, you don't even look at impressions in six months, but today, you know.",
+    "timestamp": "00:27:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Yeah, and it's okay.",
+    "timestamp": "00:27:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "We understand that we're just starting and it's going to take time and this is a longer term game.",
+    "timestamp": "00:27:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "totally got that.",
+    "timestamp": "00:27:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "So that's okay.",
+    "timestamp": "00:27:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "But just trying to keep an eye on how can we start to, because really it's, obviously the performance totally matters, like it completely matters.",
+    "timestamp": "00:27:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "But what's as important is like, just, just how are we doing with our assumptions of can a program like this really work for the kinds of things, the categories we're asking you guys to go after.",
+    "timestamp": "00:27:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "We're just really trying understand that, you know.",
+    "timestamp": "00:27:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Yeah, yeah.",
+    "timestamp": "00:27:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "I think if I jump in the, even some of the differences in products or audiences, that's why we want to go after a couple and then even expand as we learn, just like you're saying.",
+    "timestamp": "00:27:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "And maybe in building like the kind of.",
+    "timestamp": "00:27:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "A dashboard that Marc just showed in HubSpot that we could duplicate that and tag content based on the product or based on the audience, right?",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "Because some will work differently, and we should know what that is as we advance to.",
+    "timestamp": "00:28:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "So I think that experimentation is we're on the same page 100%, but it'll be different even across the content that we do for you, right?",
+    "timestamp": "00:28:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jakub Rudnik",
+      "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+    },
+    "text": "So there's going be a lot of learnings.",
+    "timestamp": "00:28:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Yep.",
+    "timestamp": "00:28:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Marc, I'll leave it to you at the appropriate time.",
+    "timestamp": "00:28:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "I don't know that it's necessarily right at this moment, but to maybe get Mikhail involved with the GrowthX team.",
+    "timestamp": "00:28:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "But I think we need to kind of maybe do a little bit more here anyways first before we do that.",
+    "timestamp": "00:28:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I think you get them dialed in, you guys get your report put together, and then we bring in Mikhail to connect the dots.",
+    "timestamp": "00:28:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "In terms of sharing the HubSpot report with you, somebody had asked here in the chat about that.",
+    "timestamp": "00:28:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "So I have to get you added to a list of vendors that can receive the reports by the HubSpot admin team.",
+    "timestamp": "00:28:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So I'll put in a request to put...",
+    "timestamp": "00:28:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "team at growthxlabs.com, and you'll be able to see that dashboard.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Amazing.",
+    "timestamp": "00:29:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:29:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Are they usually quick enough these days?",
+    "timestamp": "00:29:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "I have no idea what they're...",
+    "timestamp": "00:29:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I don't know if it has to go to McHale and he can do it or if it has to go to IT.",
+    "timestamp": "00:29:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "I mean, between us girls on this call, if we could generate the report just as a one-off to send to GrowthX now, like let's give them something that IT doesn't like.",
+    "timestamp": "00:29:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "I'm authorizing it as the CMO, like we can do it.",
+    "timestamp": "00:29:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "If there's some security thing in terms of access, that's different.",
+    "timestamp": "00:29:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "But we can give them the report.",
+    "timestamp": "00:29:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Well, I mean, short of doing a screenshot.",
+    "timestamp": "00:29:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "There's no, like there's no thing you can generate.",
+    "timestamp": "00:29:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Okay.",
+    "timestamp": "00:29:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "I mean, I can do a full screenshot of it.",
+    "timestamp": "00:29:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "It's just not going to...",
+    "timestamp": "00:29:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Yeah, that's true.",
+    "timestamp": "00:29:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay.",
+    "timestamp": "00:29:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Or I can manually put it together, but the best thing to do is just get them added to it.",
+    "timestamp": "00:29:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay.",
+    "timestamp": "00:29:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "All right.",
+    "timestamp": "00:29:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Or if somebody knows a trick for downloading out of HubSpot that I don't know, I can check on that too.",
+    "timestamp": "00:29:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "I'll look at that after the call.",
+    "timestamp": "00:29:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Mark Stiltner",
+      "matched_calendar_invitee_email": "marks@rapyd.net"
+    },
+    "text": "Okay.",
+    "timestamp": "00:29:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "All right.",
+    "timestamp": "00:29:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Does anybody have...",
+    "timestamp": "00:29:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Any other questions?",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "I know we're past the hour and you guys have another call, but you're like, what happens now?",
+    "timestamp": "00:30:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Sorry, Aida, just can you review after the calibration, like what happened?",
+    "timestamp": "00:30:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:30:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So next week, my goal was once Marc reviews AI context and the polishing instructions, we're going to do another five.",
+    "timestamp": "00:30:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we're not like bombarding you with like 10 articles a week.",
+    "timestamp": "00:30:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "So we're going to do another five and then we're going to slowly start to ramp up.",
+    "timestamp": "00:30:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Also, next week, we do want to start publishing so we can like start tracking like impressions and clicks as soon as possible.",
+    "timestamp": "00:30:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:30:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Good.",
+    "timestamp": "00:30:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": "aida@growthx.ai"
+    },
+    "text": "Sounds good.",
+    "timestamp": "00:30:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "All right.",
+    "timestamp": "00:30:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:30:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:30:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Have a great rest of your day.",
+    "timestamp": "00:30:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Likewise.",
+    "timestamp": "00:30:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Thanks, guys.",
+    "timestamp": "00:30:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Bye.",
+    "timestamp": "00:30:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marc Winitz",
+      "matched_calendar_invitee_email": "marcw@rapyd.net"
+    },
+    "text": "Bye.",
+    "timestamp": "00:30:56"
+  }
+]

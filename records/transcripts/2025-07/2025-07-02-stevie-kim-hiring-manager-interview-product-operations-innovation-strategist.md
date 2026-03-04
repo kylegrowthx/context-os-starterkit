@@ -1,0 +1,2294 @@
+# Stevie Kim -Hiring Manager Interview | Product Operations & Innovation Strategist
+
+<metadata>
+date: 2025-07-02
+time: 20:01 UTC
+duration: 106 minutes
+organizer: Daniel Lopes (GrowthX)
+participants: Daniel Lopes (GrowthX), Stevie Kim (Candidate)
+fathom_recording_id: 71941700
+fathom_url: https://fathom.video/calls/341008842
+share_url: https://fathom.video/share/SNGDMcSnWHCAa9ZYuzbSJNzaZssv8_sX
+source: fathom
+enriched_on: 2025-03-03 18:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Daniel Lopes conducted a hiring manager interview with Stevie Kim for a Product Operations & Innovation Strategist role at GrowthX. Stevie brings exceptional experience across product, engineering, ML/AI, and DevRel, with deep expertise in scaling platforms and managing human-in-the-loop AI systems. Daniel discussed GrowthX's rapid growth from $0 to $7M ARR as an AI-powered content agency, its homegrown Temporal-based workflow framework, and the core challenge of balancing revenue growth with platform learning and optimization. Next steps include conversations with Jason (Head of GTM) and potentially Marcel (co-founder), with a hiring decision expected by mid-week the following week.
+
+---
+
+## Context
+
+This is a hiring manager interview for a Product Operations & Innovation Strategist position at GrowthX, a 2-year-old AI-powered content agency founded by Marcel and co-led by Daniel Lopes. GrowthX has scaled from $0 to $7M ARR by automating content production for enterprise clients using AI workflows built on Temporal, a distributed systems runtime. The company recently hired an engineering team and paused aggressive scaling to focus on building internal tooling (an IDE for workflow creation and a "Task Hub" marketplace) and improving platform efficiency. Stevie Kim is being considered for a technical PM/product operations role that bridges strategy and engineering—helping the company decide what to automate, how to scale delivery without hiring linearly, and how to optimize the human-in-the-loop workflows that are critical to content quality.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Stevie's experience scaling technical products (Algorithmia's enterprise MLOps platform serving Ernst & Young, JP Morgan Chase, Merck, Nike) directly applies to GrowthX's challenge of balancing rapid revenue growth with platform maturity
+- Deep expertise in human-in-the-loop systems, capacity planning, and workflow optimization — exactly what GrowthX needs to move from manual "pod" management to systematic task distribution
+- Proven ability to own critical onboarding and developer experience, which aligns with GrowthX's need to make AI workflow tools more accessible to non-technical content team members
+- Experience building marketplaces and task distribution systems (HumanSignal focus on data labeling) complements GrowthX's Task Hub initiative
+
+**To GrowthX Business Development:**
+- Candidate demonstrates strong cultural alignment: curious, collaborative, drawn to optimization problems rather than greenfield work — matches GrowthX's learning-focused, fast-moving culture
+- Previous experience with enterprise clients and budget-holder conversations (Ernst & Young, JP Morgan, Merck) prepares them for conversations with large client buyers
+- Strong technical credibility (Python, DevRel background, understanding of model deployment) will help bridge engineering and product teams as company scales
+
+**To Hiring Decision:**
+- Daniel's enthusiasm about profile overlap (both full-stack product-engineers with ML backgrounds) suggests strong working relationship potential
+- Candidate's ability to learn and adapt quickly (career transitions from UI dev → full-stack → data science → DevRel → product manager → MLOps → confidential computing) fits GrowthX's fast-moving context
+- Stevie has repeatedly invested in community building (PyLadies founder, public speaking, documentation focus), which could help GrowthX scale culture as team grows
+
+---
+
+## Overview
+
+- Stevie has extensive experience in product, engineering, and ML/AI, aligning well with growthx.ai's needs
+- growthx.ai operates as an AI-powered content agency, building internal tools and workflows to automate marketing tasks
+- The role involves strategy, product management, and potentially some hands-on work with AI workflows
+- Company is in rapid growth phase, balancing revenue generation with platform development and learning
+
+---
+
+## Key Topics
+
+### Stevie's Background
+
+  - Started as UI developer, transitioned to full-stack Python development
+  - Worked at Apollo Education Group, combining marketing tech with data science
+  - 5.5 years at Algorithmia in various roles, including DevRel and product management
+  - Experience with MLOps at DataRobot post-acquisition
+  - Recent roles at Human Signal (data labeling) and Opaque Systems (confidential computing)
+
+### growthx.ai's Business Model and Technology
+
+  - Operates as an AI-powered content agency for enterprise clients
+  - Built internal framework on top of Temporal for distributed AI workflows
+  - Created user interface for content team to manage AI-assisted content creation
+  - Developing a marketplace for task distribution and potential data labeling
+
+### Role Expectations and Challenges
+
+  - Help scale strategy sprint offerings and identify platform feature gaps
+  - Assist in capacity planning and workflow optimization
+  - Balance revenue growth with learning and platform development
+  - Manage the complexity of human-in-the-loop processes with AI automation
+
+### Company Culture and Work Environment
+
+  - Fast-paced, with rapid growth from $0 to $7M ARR
+  - Emphasis on learning and adapting quickly to AI advancements
+  - Collaborative environment with technical and non-technical team members
+
+---
+
+## Action Items
+
+- **Stevie Kim (Candidate)**: Have follow-up conversations with Jason Morrison (Head of GTM) and potentially Marcel (co-founder) to understand strategy and decision-making
+- **Daniel Lopes (GrowthX)**: Send email connecting Stevie with Jason to facilitate next interview
+- **GrowthX**: Provide hiring decision by mid-week the following week (considering July 4th holiday schedule)
+
+---
+
+## Transcript
+**Daniel Lopes:** Stevie, how are you doing?
+
+**Stevie Kim:** Oh, I'm doing well.
+
+**Daniel Lopes:** How are you?
+
+**Daniel Lopes:** I'm good.
+
+**Daniel Lopes:** I'm good.
+
+**Daniel Lopes:** How are you doing today on time?
+
+**Daniel Lopes:** Because I was going through your background, and you have so many interesting things that I want to make sure I have time to cover everything.
+
+**Daniel Lopes:** And I also want to make sure I have enough time for you to ask questions.
+
+**Daniel Lopes:** And I don't have any meetings after that.
+
+**Daniel Lopes:** I just canceled my own meeting.
+
+**Stevie Kim:** Do you...
+
+**Stevie Kim:** Yeah, I have time.
+
+**Daniel Lopes:** Okay, cool.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** So, yeah, when I saw your profile, I super excited because we overlapped in so many different ways.
+
+**Daniel Lopes:** And maybe I can just give you, like, a quick backstory.
+
+**Daniel Lopes:** I try to keep it in under five minutes, and it would be great if you could just, like, walk me through your career and everything.
+
+**Daniel Lopes:** I saw your LinkedIn.
+
+**Daniel Lopes:** I saw your blog.
+
+**Daniel Lopes:** I saw some of your talks and some of the stuff that you had in the past, too.
+
+**Daniel Lopes:** So have have a bit of
+
+**Daniel Lopes:** It would be great to hear everything from you.
+
+**Daniel Lopes:** Does that sound good?
+
+**Stevie Kim:** Yeah, that sounds great.
+
+**Daniel Lopes:** So I'm originally from Brazil.
+
+**Daniel Lopes:** I'm 40 years old and I've been a programmer for my whole life.
+
+**Daniel Lopes:** So that's all I've done since I was 13.
+
+**Daniel Lopes:** I was originally very involved with more front-end stuff and more UI-based things.
+
+**Daniel Lopes:** And then got pretty involved with the Rails community early days, like Ruby on Rails, like 2005, 2006.
+
+**Daniel Lopes:** And the thing that pulled me into that direction was the products like Basecamp and Twitter and GitHub and Roku, they were popping up.
+
+**Daniel Lopes:** And they were viewed full stack with this.
+
+**Daniel Lopes:** So it became this framework that was really good for product development.
+
+**Daniel Lopes:** And I was always very interested in the product.
+
+**Daniel Lopes:** So I made the jump from UI stuff that was separated from the client from back-end back then to be like...
+
+**Daniel Lopes:** Full stack, and I also have a background on computer science degree twice.
+
+**Daniel Lopes:** So I could understand background and everything, and I always had an interest in the design side too.
+
+**Daniel Lopes:** And then I did that for a while, was very involved with the community in Ruby, ran a bunch of events, helped train a bunch of people, did a lot of online training in Ruby early days.
+
+**Daniel Lopes:** And then eventually I got fed up by the Brazilian market for startups, and ended up in Chicago, working for one of the companies that came out of, that was invested by the founders of 37signals that created Ruby on Rails.
+
+**Daniel Lopes:** And so I was there for three years, ended up moving to the Bay Area, and worked in a company called If This Then That.
+
+**Daniel Lopes:** They were kind of like the precursor of Zapier, and you would stitch everything together, and you'd have APIs integrated, pretty much like a distributed system with a runtime for APIs.
+
+**Daniel Lopes:** And I was there for a couple of years, joined as a programmer, switched to the product team.
+
+**Daniel Lopes:** And then after that, I went back to the base camp folks and took over one of the companies that they were spinning off.
+
+**Daniel Lopes:** They had a bunch of products, and they were spinning off one of the products.
+
+**Daniel Lopes:** And I joined the CEO that was running it for a year before I joined.
+
+**Daniel Lopes:** And did that for seven years.
+
+**Daniel Lopes:** And then it just became like we kind of slowly iterated to be a mix of training, management training, and like a SaaS tool for managers.
+
+**Daniel Lopes:** And for the training side, LLMs became like super obvious that they would be amazing.
+
+**Daniel Lopes:** And my partner, she's like my girlfriend, she's a machine learning engineer and data scientist.
+
+**Daniel Lopes:** And she was working with language models, like with BERT, for pharmaceutical space, for patient data.
+
+**Daniel Lopes:** And she
+
+**Daniel Lopes:** Or GPT and large language models became that popular.
+
+**Daniel Lopes:** And we saw that, like, I was playing with things from the early days, from the time this was there, and we saw the jump when, like, GPT came out and things were like, okay, like, this clearly can be usable in the future.
+
+**Daniel Lopes:** It's not quite there yet.
+
+**Daniel Lopes:** We started, like, playing with that during my time at Canopy.
+
+**Daniel Lopes:** built certain things inside, but they're always, like, a feature bolted into an existing product, not a product you could think from scratch, like, what is possible now?
+
+**Daniel Lopes:** And so I left my own company to just spend, like, a year just studying and just, like, studying, like, applied LLMs and, like, how can we use this?
+
+**Daniel Lopes:** And this first six months is just, like, studying prompts.
+
+**Daniel Lopes:** So I read, like, I saw that you were mentioning the Lenny podcast with Shuloff, and he has a paper that is an aggregation of papers.
+
+**Daniel Lopes:** It has, like, I think it's, like, 130 papers or something.
+
+**Daniel Lopes:** And I was basically reading.
+
+**Stevie Kim:** reading.
+
+**Daniel Lopes:** All those papers for me for six months, I like, how does this thing actually work in reality, not just the models behind?
+
+**Daniel Lopes:** And then at that same time, I met Marcel.
+
+**Daniel Lopes:** So Marcel, my founder, he was trying to do the same, but from the practical applications coming from marketing.
+
+**Daniel Lopes:** So he was CMO at a company called DeepGram, and they do text-to-speech and speech-to-text models.
+
+**Daniel Lopes:** And he was CMO of bunch of other people before, he was CMO of HashiCorp, MSCAI, and some other places, and he was trying to figure out how to make a marketing team more productive using all those things, and he ended up coming up with like a way to create AI workflows, very similar to the kind of stuff that you're trying to do with AI on your blog post, and he was automating a ton of stuff for the whole team, stuff that usually would take like a year for him to do at the previous companies, or two years and spend like millions of dollars, give it one person.
+
+**Daniel Lopes:** And got even better results in a shorter time, but I think it became a mess to manage, like the agents and the workflows and the LLMs calling each other and all that.
+
+**Daniel Lopes:** Super hard to maintain.
+
+**Daniel Lopes:** And he tried to teach people how to do that and super hard to teach too.
+
+**Daniel Lopes:** So he ended up, okay, I'm going to do that for you.
+
+**Daniel Lopes:** And he started this agency for helping people build these kinds of automation systems.
+
+**Daniel Lopes:** And that's when I came in in August last year and trying to figure out how to make this more efficient.
+
+**Daniel Lopes:** Like, how do we make the pieces reusable?
+
+**Daniel Lopes:** Can we use existing tools?
+
+**Daniel Lopes:** Do we have to build everything from scratch?
+
+**Daniel Lopes:** Can we use, like, these graphic-based things, like, AROPS or, like, LANGRAP, like, there's, like, a bunch of different things.
+
+**Daniel Lopes:** Or Zapier or NAN and things like that.
+
+**Daniel Lopes:** And I haven't had built something very similar to Zapier before.
+
+**Daniel Lopes:** Just looking at the complexity of things, ended up like building our own system to kind of build our own crew.ai that's more predictable than just agents.
+
+**Daniel Lopes:** So it was more in the sense of like workflows first and instead of agents first, because we want to know like how much money we're going to spend on that specific task or how much time they're going to loop and all that.
+
+**Daniel Lopes:** My career, I was very like, was early, early, like was not really very production ready for the volume we needed and they, so like there's a many things we can talk about there, but ended up doing our own thing on top of a system called Temporo.
+
+**Daniel Lopes:** So Temporo is the, so we do the framework on top of Temporo, which is a distributed systems runtime basically for microservices.
+
+**Daniel Lopes:** Temporo so, and then after that, Marcel somehow grew the company from, grew the agency as a side hustle from a while still being CMO at
+
+**Daniel Lopes:** At DeepGram, they all knew that.
+
+**Daniel Lopes:** They knew that he was doing nothing under the hood anything.
+
+**Daniel Lopes:** See, he could think it's like a million and a half in revenue.
+
+**Daniel Lopes:** And then when I joined, we spent the first few months, we were are we going to bootstrap this?
+
+**Daniel Lopes:** Are we going to keep going in this direction and run as scrappy as we can?
+
+**Daniel Lopes:** So we ended up doing it until February.
+
+**Daniel Lopes:** And then during that time, we had quite a lot of traction.
+
+**Daniel Lopes:** we got like 30 or 30-ish clients, think, or 25 clients, think.
+
+**Daniel Lopes:** And we had like 3 million or 4 million in revenue.
+
+**Daniel Lopes:** I don't remember correctly.
+
+**Daniel Lopes:** With just me doing everything on the engineering side and a bunch of people running the things that we built.
+
+**Daniel Lopes:** And then we raised money and built the engineering team.
+
+**Daniel Lopes:** So the last three months, we hired a ton of people.
+
+**Daniel Lopes:** have now an engineering team of 12 people and we build a ton of products around the original framework and we started doing an IDE on top of it as well.
+
+**Daniel Lopes:** So we can...
+
+**Daniel Lopes:** It's easier for people like Marcel to build the workflows and all that.
+
+**Daniel Lopes:** And things have been going pretty well.
+
+**Daniel Lopes:** And that's it.
+
+**Daniel Lopes:** It's still pretty messy in the sense of like it's a young company.
+
+**Daniel Lopes:** A lot of people joining.
+
+**Daniel Lopes:** A lot of people get in the context of things.
+
+**Daniel Lopes:** Like not a lot of people have the same experience that you have playing with different LLMs and trying things or like a background in machine learning.
+
+**Stevie Kim:** makes it easier for you to switch to understand how the models work and all that.
+
+**Daniel Lopes:** So it's been interesting to see the engineers figuring out those things and then getting more productive.
+
+**Daniel Lopes:** But yeah, so that's a little bit of my, that basically covers my whole story and how I ended up here.
+
+**Daniel Lopes:** I hope that like clarifies things a little bit.
+
+**Stevie Kim:** And yeah, I mean, of course I have a ton of, it's so funny when you, when you have both like, like we both do product and engineering sense.
+
+**Stevie Kim:** Right.
+
+**Stevie Kim:** Like tons of questions on both sides.
+
+**Stevie Kim:** Whereas if you only have like maybe products and CVs.
+
+**Stevie Kim:** Like, okay, I'm focused on the product piece and the go-to-market piece and all of that.
+
+**Stevie Kim:** So, yeah, I always have tons of questions, but I'll give you a little bit about my background.
+
+**Stevie Kim:** You know, of course, you read my resume and LinkedIn and all that, but, yeah, you're definitely right about that.
+
+**Stevie Kim:** We both have a lot of overlap between our paths, and, you know, I started as a UI developer as well, but mostly in a Python shop.
+
+**Daniel Lopes:** Oh, that I didn't know.
+
+**Daniel Lopes:** Assuming I don't know anything about the resume, like, I read, like, I usually had, like, a ton of time, I, like, sped through a lot of your content for, like, one hour instead of preparing questions.
+
+**Stevie Kim:** Yeah, yeah, that's fair, that's fair.
+
+**Stevie Kim:** Well, so, it's funny that, you know, you're talking about your Ruby on Rails journey because I went through a similar journey with Python, and I was, you know, initially doing, like, more design and UI front-end development and got into a Python shop.
+
+**Stevie Kim:** And I'm just a curious person.
+
+**Stevie Kim:** person.
+
+**Stevie Kim:** And so I was like, hey, can I take on back-end tickets, too?
+
+**Stevie Kim:** And they're like, yeah, absolutely.
+
+**Stevie Kim:** I got to work with, back then, a really well-known figure in the Python, the Django, I should say, Django community, Kenneth Love, who did a lot of education on, you know, getting started with Django and all that sort of stuff.
+
+**Stevie Kim:** And they actually introduced me to the organization PyLadies.
+
+**Stevie Kim:** And there wasn't one in Seattle, so I started that.
+
+**Stevie Kim:** The one in Seattle.
+
+**Stevie Kim:** And I just got more into the Python, you know, community.
+
+**Stevie Kim:** But, yeah, I did get a job after that that was more UI development at first.
+
+**Stevie Kim:** But then they're like, hey, you know Python, and you know a little bit of R as well.
+
+**Stevie Kim:** Because, you know, just in school, I did some, you know, stats classes that used R.
+
+**Stevie Kim:** And they had questions around their instructor.
+
+**Stevie Kim:** downstairs.
+
+**Stevie Kim:** Okay.
+
+**Stevie Kim:** Feedback form data.
+
+**Stevie Kim:** They didn't have any way to access it.
+
+**Stevie Kim:** So I did the whole machine learning pipeline.
+
+**Stevie Kim:** It was, you know, gathering my coworkers.
+
+**Stevie Kim:** Hey, can you label this data with me?
+
+**Stevie Kim:** And then all the way to training and, you know, deployment to really just understand points in the onboarding journey.
+
+**Stevie Kim:** Like where things were maybe a little bit broken, where there was some friction in the user experience.
+
+**Stevie Kim:** And I also kind of tracked any big design changes we made, like how that impacted user sentiment.
+
+**Stevie Kim:** So there are a few things that I got to do there along with building some data engineering pipelines.
+
+**Stevie Kim:** And this was like old school tools, right?
+
+**Stevie Kim:** TensorFlow hadn't even been open source yet.
+
+**Stevie Kim:** Scikit-learn was all the rage.
+
+**Stevie Kim:** Data engineering tools, like we're pretty young too.
+
+**Stevie Kim:** So I was just using Chrome, Python, Bash, you know, just being cool.
+
+**Stevie Kim:** Right.
+
+**Stevie Kim:** So yeah, I was able to wear a lot of different hats in this large publicly traded company that, it was an education company that owned University of Phoenix and all these other, and I sat in the marketing department as like, you know, we had a dev shop in the marketing department.
+
+**Stevie Kim:** So I got to play around with that, and then I, because I was approaching data scientists from a developer's perspective.
+
+**Daniel Lopes:** I'm just scrolling through your LinkedIn, so if see me like looking around, it's because I have three monitors.
+
+**Daniel Lopes:** That was the Apollo group.
+
+**Stevie Kim:** Yeah, yeah, yeah.
+
+**Stevie Kim:** Yeah, so I did a lot of fun stuff there.
+
+**Stevie Kim:** I mean, it was crazy how much I got to do that spans so many different teams and learn so many different things like scraping, being like a readability analysis and competitor analysis.
+
+**Daniel Lopes:** I just did a ton of stuff that I don't even know.
+
+**Daniel Lopes:** list, because it was, it's just a lot, a lot of variety.
+
+**Daniel Lopes:** And you did a lot of the stuff in the marketing team that you were saying as well, so you were a part of the, I see Adobe Analytics and some other stuff.
+
+**Stevie Kim:** Yeah, yeah.
+
+**Daniel Lopes:** a tag manager, Adobe Analytics was a nightmare.
+
+**Daniel Lopes:** If it was, like I used it in 2013, it was really bad.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** We had a few of that as well.
+
+**Stevie Kim:** Yeah, so we had, like, we picked, yeah, they were making a lot of money off of us.
+
+**Stevie Kim:** We had all the Adobe stack, basically, and they were making a ton of money off of us.
+
+**Stevie Kim:** Both, yeah, Omniture, and they keep changing the names of things, and I haven't quite kept up on, you know, their nomenclature, but we used pretty much the entire Adobe, you know, stack as far as, like, the analytics go, event tracking, CMS, all this stuff.
+
+**Daniel Lopes:** So when you say, like, they had a dev shop support.
+
+**Daniel Lopes:** Marketing, so you're like an internal dev shop that you were a part of.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** right, okay, got it.
+
+**Daniel Lopes:** Yeah.
+
+**Stevie Kim:** Yeah.
+
+**Stevie Kim:** So that was a really, really fun place to work.
+
+**Stevie Kim:** But University of Phoenix, they were getting in all sorts of trouble for some of their marketing practices and all that.
+
+**Stevie Kim:** And so they ended up shutting down all their West Coast offices and did a round of layouts.
+
+**Stevie Kim:** But at the time, I had given a talk at PyData on my project, one of my projects that I did at Apollo.
+
+**Stevie Kim:** And it was, I really just got that speaker bug.
+
+**Stevie Kim:** It was a lot of fun being part of that community.
+
+**Stevie Kim:** I'd already been doing PyLadies.
+
+**Stevie Kim:** And so I joined Algorithmia doing DevRel.
+
+**Stevie Kim:** So I could kind of continue being part of the community, have built community that was an algorithm that was, they went through a couple of transitions.
+
+**Stevie Kim:** But when I did DevRel, it was.
+
+**Stevie Kim:** Open marketplace to democratize AI.
+
+**Stevie Kim:** So we were encouraging data scientists to deploy their models into production, and we'd scale, take care of all the infrastructure for them, make it available, their models, the inference available through a REST API, where they could actually charge royalties for anyone to consume that API.
+
+**Stevie Kim:** So application developers would have access to, you know, these machine learning models, data scientists could make money off their side hustles.
+
+**Daniel Lopes:** Hugging face, basically.
+
+**Stevie Kim:** Yeah, yeah, totally.
+
+**Stevie Kim:** We were half of our time, okay?
+
+**Stevie Kim:** We noticed, like, we actually weren't gaining enough traction there.
+
+**Stevie Kim:** We were gaining more traction from enterprise companies coming to us and saying, hey, we have these data science teams that are really focused on model development.
+
+**Stevie Kim:** They don't know how to, you know.
+
+**Stevie Kim:** I deployed this on AWS because AWS at the time didn't have like all the easier tools that they have now.
+
+**Stevie Kim:** Or they didn't want to be in vendor lock-in, you know, so there are a couple different use cases there.
+
+**Stevie Kim:** And so we pivoted to focus on enterprise.
+
+**Stevie Kim:** And so my role was more focused on solutions engineering and a little bit of product work.
+
+**Stevie Kim:** But I owned all of the onboarding and all of the developer docs and the API docs throughout my five and a half years there.
+
+**Stevie Kim:** So no matter what other hat I wore, I always owned that piece too.
+
+**Stevie Kim:** So that's like, you know, it's really any job I go to, I always keep that in mind.
+
+**Stevie Kim:** Like how's the onboarding experience?
+
+**Stevie Kim:** Like how are technical and non-technical users able to use a product and, you know, like just the education piece is always up front in my mind because it's been such a, you know, integrated part of.
+
+**Stevie Kim:** The job I've had pretty much.
+
+**Stevie Kim:** So, yeah, I, as we grew, you know, we, you know, got a real customer success team and professional services and all this, all these other teams.
+
+**Stevie Kim:** And so I previously worked with machine learning engineers.
+
+**Stevie Kim:** was always on engineering team, but I transitioned into product because I was already talking to customers every day.
+
+**Stevie Kim:** I was, I created this initiative, you know, having that continuous feedback loop with, you know, between customers and the rest of the company.
+
+**Stevie Kim:** So I was already doing some product work.
+
+**Stevie Kim:** And so it was more natural to move to product versus any other team.
+
+**Stevie Kim:** And so that became my product, you know, journey.
+
+**Stevie Kim:** But I've always, like at Algorithmia and, you know, and a couple of other roles I've had, I've leaned more towards the engineering side.
+
+**Stevie Kim:** So I was.
+
+**Stevie Kim:** I was designing the API, you know, in the product spec, because engineering was busy doing infrastructure stuff.
+
+**Stevie Kim:** And so I still wore that engineering hat.
+
+**Daniel Lopes:** The technical product too that you were servicing, so you kind of benefit a lot from having a good technical product version.
+
+**Stevie Kim:** Yeah, definitely.
+
+**Stevie Kim:** That was, I mean, we sat in the middle of the entire MLOps stack.
+
+**Stevie Kim:** So we needed to integrate with everything from source code management, like, you know, GitHub to, to observability tools.
+
+**Stevie Kim:** We just wanted to focus on the infrastructure piece, but we need to play nicely with all these other pieces of the stack.
+
+**Stevie Kim:** And so that was a lot of, you know, my focus is, you know, integrations with all, all parts of the, of the stack, and then also creating easy to.
+
+**Stevie Kim:** It's all environments and enabling people to create their own environments too.
+
+**Daniel Lopes:** So in that space, you said that you had a lot of enterprise clients and then you said you brought it.
+
+**Daniel Lopes:** What was the involvement between what you're doing and your day-to-day with those kinds of clients?
+
+**Daniel Lopes:** And like, there's like a lot of custom stuff that had to be built or like roadmap impact for things that you didn't support.
+
+**Daniel Lopes:** Like, how was the relationship of like dealing with large enterprise custom requirements or roadmap impact and stuff like Did you play a role in that or?
+
+**Stevie Kim:** Yeah, for sure.
+
+**Stevie Kim:** So the transition was kind of like me focusing on individuals, helping them debug their TensorFlow model or helping them, you know, like just streamlining onboarding for everybody.
+
+**Stevie Kim:** So it went from more of like a one-on-one.
+
+**Stevie Kim:** I know.
+
+**Stevie Kim:** Thank
+
+**Stevie Kim:** To, okay, now I'm talking to the executive team of this, you know, this large enterprise.
+
+**Stevie Kim:** So we had, you know, Ernst & Young, JP Morgan Chase, Merck, you know, Nike, a lot of different verticals, you know, were supported, a lot of different companies.
+
+**Stevie Kim:** And so instead of talking more one-on-one with data, you know, ICs, I was talking to, you know, budget holders and decision makers.
+
+**Stevie Kim:** And so it definitely, I was lucky to have a great VP of product that did a lot of coaching and mentorship to just kind of help me reframe certain things and not, of course, paint so much attention to the technical piece.
+
+**Stevie Kim:** They weren't engineers.
+
+**Stevie Kim:** I wasn't able to go, you know, down rattle holes with them on the technical piece.
+
+**Stevie Kim:** I needed to really make sure I, you know, understood their pain points, which I'd been.
+
+**Stevie Kim:** That wasn't a big transition, but it was more of like, understand the revenue goals.
+
+**Stevie Kim:** Like, okay, what's going to help you sleep at night?
+
+**Stevie Kim:** Like, what does success mean to you?
+
+**Stevie Kim:** And so that larger picture and understand, you know, how we can help unblock them wherever they need to be unblocked.
+
+**Stevie Kim:** So that was probably the biggest transition as far as talking and dealing with customers.
+
+**Stevie Kim:** It was a different level, and it was my first kind of introduction to more of like, the enterprise, executive, budget holder, team, you know, minimum lower level as a team lead.
+
+**Daniel Lopes:** Right.
+
+**Daniel Lopes:** But yeah, so that was pretty.
+
+**Daniel Lopes:** So that's when you made it, like, so you're a solutions architect, and then you made the jump to product manager at all.
+
+**Daniel Lopes:** So that's when you're like, interfacing with the account, like the executives or.
+
+**Daniel Lopes:** Right, yeah.
+
+**Stevie Kim:** Yeah, yeah.
+
+**Stevie Kim:** And then, you know, having.
+
+**Stevie Kim:** And they're so long.
+
+**Stevie Kim:** I did a lot of internal education around data science and, you know, helping the marketing team understand some more of the technical pieces and, you know, also road mapping.
+
+**Stevie Kim:** I did a lot of, I helped a lot with messaging, I would say.
+
+**Stevie Kim:** And then really the road mapping, it was, I mean, I knew all this because I'd been doing all these customer interviews for so long.
+
+**Stevie Kim:** And so, and I had been the one bringing this information to the product team because they were more technical and they didn't interface with customers as much.
+
+**Stevie Kim:** And so I was already that blue.
+
+**Stevie Kim:** So that piece, yeah, it didn't go away.
+
+**Stevie Kim:** You know, it just, you know, increased when I moved to product.
+
+**Daniel Lopes:** That makes sense.
+
+**Daniel Lopes:** And then you got, and then, so you're there for like five years.
+
+**Stevie Kim:** You're based in Seattle, right?
+
+**Stevie Kim:** Yeah.
+
+**Daniel Lopes:** In Washington state.
+
+**Daniel Lopes:** Yeah.
+
+**Stevie Kim:** Like, okay.
+
+**Stevie Kim:** Outside of Seattle.
+
+**Stevie Kim:** Yeah.
+
+**Stevie Kim:** So we got acquired.
+
+**Stevie Kim:** So I started there seed stage, I think it was like the seventh person besides the co-founder.
+
+**Stevie Kim:** So it was real early on and stayed there until we got acquired by DataRobot.
+
+**Stevie Kim:** We were starting to raise our Series C and DataRobot, a competitor, you know, approach, the founders.
+
+**Stevie Kim:** And so we were acquired probably about seven months after I transitioned to being a product person.
+
+**Stevie Kim:** And so all of a sudden I'm like, okay, this is a new product.
+
+**Stevie Kim:** And I mean, I knew about DataRobot, obviously, because they're a competitor.
+
+**Stevie Kim:** So I had, you know, a degree of knowledge there, but I joined their MLOps team.
+
+**Stevie Kim:** So all of a sudden algorithmia was no more focused on DataRobot, DataRobot customers and DataRobot products.
+
+**Stevie Kim:** And so that was a really great learning experience because it is a larger.
+
+**Stevie Kim:** That's, I think, Series F when I was there.
+
+**Stevie Kim:** And, but it, because of the acquisition, there was a lot of hard feelings from the MLOps team that was originally there.
+
+**Stevie Kim:** So they all left.
+
+**Stevie Kim:** So it's like, and then a couple of my coworkers transitioned to another team.
+
+**Stevie Kim:** So it was basically me and MLOps, and then they transitioned someone else to be my boss.
+
+**Stevie Kim:** My boss got transitioned out.
+
+**Stevie Kim:** I'm like, there was a lot happening with data robot, both publicly and internally at the time.
+
+**Stevie Kim:** was kind of messy for them.
+
+**Stevie Kim:** But, yeah, so I decided I wanted to, I wanted a fresh start.
+
+**Stevie Kim:** You know, the acquisition is always a little bit touching.
+
+**Stevie Kim:** But I stayed there a year, my obligatory year, and then I left to join a smaller startup again at Human Signal, and they did data labeling.
+
+**Daniel Lopes:** Uh-huh.
+
+**Daniel Lopes:** Yeah, that's interesting.
+
+**Daniel Lopes:** Yeah, I've heard of that robot and I've of Human Signum a ton too.
+
+**Daniel Lopes:** Like I've checked their website many times.
+
+**Daniel Lopes:** I think I actually signed up for the product.
+
+**Daniel Lopes:** And I remember poking around.
+
+**Stevie Kim:** Yeah, Label Studio.
+
+**Daniel Lopes:** They have an open source version.
+
+**Daniel Lopes:** Yeah, that was the one, Label Studio.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** So how was the process there?
+
+**Daniel Lopes:** Like what was your role and how was the experience there?
+
+**Stevie Kim:** Right.
+
+**Stevie Kim:** Human Signal?
+
+**Daniel Lopes:** Yeah.
+
+**Stevie Kim:** Yeah, I actually really enjoyed working there.
+
+**Stevie Kim:** One of the reasons I chose them over another MLOB startup that was trying to hire me was that I wanted to learn more of the PLG side.
+
+**Stevie Kim:** And they had this open source and enterprise products.
+
+**Stevie Kim:** I was able to learn like the PLG sales led motion.
+
+**Stevie Kim:** And that was really exciting for me just to understand how that funnel worked and where.
+
+**Stevie Kim:** I could contribute to growth, whether it was, you know, in more of the onboarding stage or retention and expansion within enterprise accounts.
+
+**Stevie Kim:** I was the first day in PM there, and we didn't have a head of product, so I reported directly to the CEO.
+
+**Stevie Kim:** And we, you know, initially, things are at that stage, Series A, they didn't have the product person, so of course it's going to be messy.
+
+**Stevie Kim:** No real great separate development lifecycle process.
+
+**Stevie Kim:** No, absolutely no product development lifecycle process.
+
+**Stevie Kim:** So I spent a lot of my first part of my time getting some of, you know, I'm not huge on process, but you need, there's just enough process, just enough research, just enough everything to really help, you know, get the machine moving.
+
+**Stevie Kim:** So I did a lot of that, and did a lot of.
+
+**Daniel Lopes:** Seriously.
+
+**Daniel Lopes:** What's the, what was the team size and what did you end up rolling out as like product process?
+
+**Stevie Kim:** Yeah, so, well, with the, I don't remember how many engineers we had, maybe 25?
+
+**Daniel Lopes:** A pretty big team already.
+
+**Stevie Kim:** Yeah, which was amazing that, so the founders were all, there were three founders, they were all engineers, and they had, you know, some original engineers from, you know, before they even got funded, so some had a lot of, you know, that tribal knowledge, so that was great, but they didn't, they didn't know agile processes, they didn't have any of that background, because they had mostly worked all in Russia, and so they didn't have like a very, they were asking me a lot of engineering, you know, questions, like, okay, well, how,
+
+**Stevie Kim:** You know, should we do this?
+
+**Stevie Kim:** Should we do that?
+
+**Stevie Kim:** So basically what I proposed was splitting it up into different pods.
+
+**Stevie Kim:** And even though there was just me as a product person, we later hired a VP of engineering.
+
+**Stevie Kim:** And, you know, there were people that could kind of take on the role of a product person in these other pods.
+
+**Daniel Lopes:** Yeah.
+
+**Stevie Kim:** But we needed a way to increase quality because it was really, really low.
+
+**Stevie Kim:** And we needed a way to be a lot more predictable in how we shift because it was just kind of engineers would just push to prod whenever they felt like it.
+
+**Stevie Kim:** And so it was very unpredictable and very low quality.
+
+**Stevie Kim:** So I split.
+
+**Stevie Kim:** Once we did hire the VP of engineering, I had already, you know, proposed the splitting of pods.
+
+**Stevie Kim:** And so we worked together to, to get that.
+
+**Stevie Kim:** Actually in motion.
+
+**Stevie Kim:** And that really helped that sense.
+
+**Stevie Kim:** Well, it helped the sense of ownership, you know, engineering, like at the time, they just didn't even know why they were working on or what they were working on.
+
+**Stevie Kim:** There was no roadmap, nothing.
+
+**Stevie Kim:** It was just all very much, you know, flying the plane while you're building it in that situation.
+
+**Stevie Kim:** And so it gave them a sense of like ownership, but also predictability and like, okay, now we kind of understand, because I also created vision, mission, roadmap, all of that stuff.
+
+**Stevie Kim:** And I did that.
+
+**Stevie Kim:** I worked with our founders to do that company-wide, but also for each team.
+
+**Stevie Kim:** And yeah, so it created more predictability and both for the go to market team, and then also the engineering team, and they felt more ownership.
+
+**Stevie Kim:** And because we didn't have product people for each one, I tried to like train.
+
+**Stevie Kim:** In engineering, in everything from like, hey, this is how we need to create demos, you know, for this, do this internal enablement, we need to help writing docs, we don't have a technical writer right now.
+
+**Stevie Kim:** And so it's just getting everybody aligned on a focused chunk of work that they could really feel like they were contributing and owning.
+
+**Stevie Kim:** And then also making sure they understood the why.
+
+**Stevie Kim:** I'm a big believer in like, okay, yeah, I might be talking to customers, but you're going to know, like every person on this team is going to know exactly why we're building, what we're building, why we're doing it right now.
+
+**Stevie Kim:** Because I don't ever want to be the ballonet.
+
+**Stevie Kim:** If I'm on vacation, I want to be able to go on vacation.
+
+**Daniel Lopes:** Yeah, right.
+
+**Stevie Kim:** I want my designer and my engineering team to be completely confident in making, you know, certain decisions themselves and everything.
+
+**Stevie Kim:** So.
+
+**Stevie Kim:** So I like to really enable everybody to be kind of swimming in the same direction.
+
+**Stevie Kim:** So it was an amazing learning opportunity for me to have to tackle on all that stuff, plus the Customer Advisory Council.
+
+**Stevie Kim:** I did a lot there with all the messaging and roadmap presentations, and same with our quarterly business reviews with every customer.
+
+**Stevie Kim:** So I did a presentation on the roadmap and on, you know, getting feedback for designs and stuff.
+
+**Daniel Lopes:** So I've done it all.
+
+**Daniel Lopes:** You recently had a product for a while.
+
+**Stevie Kim:** Yeah, but unfortunately, they did a round of layoffs, and they just did another round of layoffs, too.
+
+**Stevie Kim:** I'm rooting for them.
+
+**Stevie Kim:** I really am.
+
+**Stevie Kim:** But yeah, they're in a tight position, like a lot of startups are, that are just kind of struggling.
+
+**Daniel Lopes:** So that was right at the time where the whole scene was like doing a ton of.
+
+**Stevie Kim:** The title was Staff Product Manager, but they didn't have a head of product.
+
+**Stevie Kim:** They didn't have, again, the founding product manager.
+
+**Stevie Kim:** They had me join as the member, an official, unofficial member of the SLT, so the senior leadership team.
+
+**Stevie Kim:** So as part of that experience, so I had to do planning and do the quarterly planning with the rest of the SLT.
+
+**Stevie Kim:** I think my first day was the planning, the first couple of days was our quarterly planning, and so I dove in headfirst to that and somehow walked away from that planning with 13 OKRs for a team of basically myself.
+
+**Stevie Kim:** And so that was pretty, you know, it was pretty intimidating, and I owned a lot of pieces of the puzzle, similar situation to Human Signal.
+
+**Stevie Kim:** The VP of Engineering left.
+
+**Stevie Kim:** Like maybe a month or a couple of weeks after I joined.
+
+**Stevie Kim:** And they, instead of hiring someone right away, they're like, well, we need to kind of figure out what we need in this role.
+
+**Stevie Kim:** So I had to own, again, the software development life cycle and the product development life cycle.
+
+**Stevie Kim:** And I also owned the creation and development of the, well, it wasn't a customer.
+
+**Stevie Kim:** was a product advisory board because we didn't have customers yet.
+
+**Stevie Kim:** We were still trying to find product market fit and trying to find who our ICP was.
+
+**Stevie Kim:** So a lot of the work was, you know, getting information from people that were in the sales funnel, trying to convert them to join this product advisory council.
+
+**Stevie Kim:** So I had to do all of that and then, you know, just create this program around this product development life cycle or, sorry, the, the product advisory council.
+
+**Stevie Kim:** So, while still owning all of the other pieces plus execution.
+
+**Daniel Lopes:** Makes sense.
+
+**Daniel Lopes:** What was, just to get a little bit more, what was the company's size and stage?
+
+**Stevie Kim:** Yeah, so they were interesting because they were technically Series A, but they had gotten their funding too soon.
+
+**Stevie Kim:** They shouldn't have raised when they raised.
+
+**Stevie Kim:** They were all academics from the Berkeley Rise Lab, which produced a lot of well-known startups like Databricks.
+
+**Stevie Kim:** And so, people threw money at them.
+
+**Stevie Kim:** And they didn't have a CEO at the time.
+
+**Stevie Kim:** And, you know, so they, when they hired a CEO, he came from ServiceNow and kind of started trying to run things like a big company.
+
+**Stevie Kim:** Mm Mm-hmm.
+
+**Stevie Kim:** So we did, there was a lot of process there that, you know, he wanted to implement, and that's why I had to take on a lot of that development of the process.
+
+**Stevie Kim:** The engineering team was very small.
+
+**Daniel Lopes:** It was, I want to say, eight people.
+
+**Stevie Kim:** They were all fresh engineers out of Berkeley, pretty much, but they had been working on this confidential computing piece for, you know, their whole career, which spanned a couple of years.
+
+**Stevie Kim:** So super smart, smart people, but they also, there was a lot of, there was a lot of stakeholder management there, as far as like, helping transition these young engineers going from, hey, we're building this thing for fun.
+
+**Stevie Kim:** And it's the academic project to, hey, we need to serve customers.
+
+**Stevie Kim:** We need customers, or we will die.
+
+**Daniel Lopes:** Oh, you got two hairy projects.
+
+**Daniel Lopes:** situations back-to-back.
+
+**Daniel Lopes:** got like a team basically running a very different ecosystem in a different country and now like a team of academics with no experience.
+
+**Stevie Kim:** Yeah, yeah.
+
+**Stevie Kim:** definitely, hence the long sabbatical.
+
+**Stevie Kim:** Definitely needed to decompress after all of that.
+
+**Daniel Lopes:** I'm curious, like, in my experience, I've done a lot of agile stuff too and I did consulting for a while and I've been interested in the whole history of computer science, software engineering processes in general from like even the 60s.
+
+**Daniel Lopes:** And I've been like, so I'm super familiar with all the different agile methodologies from Scrum to XP to all that stuff and Kanban and all that.
+
+**Daniel Lopes:** Curious, what was your experience with like?
+
+**Daniel Lopes:** Managing these engineering teams with different profiles, and being an engineer yourself, and knowing how things can be built, or how they should be, how do you manage that, what did you come, that's why I was asking, what kind of process did you come up with, at the time of Insignia, and then you had another Harry, because I was thinking, you have a team of 20 people in Russia, different culture, probably a different time zone, probably not understanding the client the same way.
+
+**Daniel Lopes:** And like, and like some things you can implement to make that work, and then you join another team, there's like eight people now, it's not, instead of 25, different profile, how do you make them productive, you know, like?
+
+**Stevie Kim:** Yeah, yeah.
+
+**Stevie Kim:** So again, I'm, I'm a big believer in just enough process, and also iterating, I mean, like, so we had, at Human Signal, they, they had, they were doing, I'm things very manually.
+
+**Stevie Kim:** manually.
+
+**Stevie Kim:** manually.
+
+**Stevie Kim:** also, I'm .
+
+**Stevie Kim:** And so there are a lot of ways you can just automate some of what they're doing in JIRA.
+
+**Stevie Kim:** And JIRA is constantly building more tools to help with that.
+
+**Stevie Kim:** So there was a little bit of that.
+
+**Stevie Kim:** But the top thing that helps them be successful was breaking them up into pods.
+
+**Daniel Lopes:** So that way it was just more focused work instead of kind of taking on whatever they felt like it.
+
+**Stevie Kim:** And then also bringing that QA team in tighter and sooner.
+
+**Stevie Kim:** So the QA team previously was brought in at the end, right before they finished a production.
+
+**Stevie Kim:** And bringing that QA team in earlier on was critical because, well, again, sense of ownership.
+
+**Stevie Kim:** The QA team felt better.
+
+**Stevie Kim:** And they knew the platform across the board because they're testing it all.
+
+**Stevie Kim:** And so helping, you know.
+
+**Stevie Kim:** issues,
+
+**Stevie Kim:** So engineering understand like, okay, what did they, what information do they need to be able to write good tests?
+
+**Stevie Kim:** And me working with QA and saying, okay, well, you can't make everything, it's not up to you to make this a show blocker.
+
+**Stevie Kim:** Like it's ultimately up to me and the CEO to decide if it's a go, no go.
+
+**Stevie Kim:** And so just really a lot of stakeholder management there too, and making sure everybody had enough information at the time that they needed it.
+
+**Stevie Kim:** So one of my favorite things that I brought from Algorithmia, Algorithmia brought it to DataRobot, I brought to HumanSignal, and then I brought it to Opaque, was this idea of ship room.
+
+**Stevie Kim:** So once a week, you get the stakeholders that care about what's in flight, our timeline slipping, what are we going to, like, when are we going to.
+
+**Stevie Kim:** Push out the messaging, like what does the go-to-market motion look like?
+
+**Stevie Kim:** So we get those stakeholders in a room and we just get to the root of any problem and say like, okay, not all engineers are invited.
+
+**Stevie Kim:** It's just like the leads want to protect engineering time as much as possible.
+
+**Stevie Kim:** So they bubble up stuff to their leads and then the leads meet with product and then the go-to-market team.
+
+**Stevie Kim:** So if there's a product marketer, that would be the person, if not, head of product.
+
+**Stevie Kim:** And then we get together and just hammer out like, okay, this is what's in flight now.
+
+**Stevie Kim:** This is slipping or the scope has changed.
+
+**Stevie Kim:** These are the enablement materials.
+
+**Stevie Kim:** Hey, do you have that done?
+
+**Stevie Kim:** Okay, great.
+
+**Stevie Kim:** Marketing, what do you need from us now to make sure, okay, this is a tier one.
+
+**Stevie Kim:** We've got to have this.
+
+**Stevie Kim:** To you a month in advance.
+
+**Stevie Kim:** So just really orchestrating every, the whole machine.
+
+**Stevie Kim:** And we were on a, we had a bunch of, I'm used to like a variety of different deployment cycles.
+
+**Stevie Kim:** So we did an open source and an open source on-prem and then fast continuous development life cycle.
+
+**Stevie Kim:** So open source and enterprise were once a month, but at different times.
+
+**Stevie Kim:** And then, you know, the SAP product was continuous deployment.
+
+**Stevie Kim:** There was a lot of moving pieces that were very tricky to coordinate with marketing.
+
+**Daniel Lopes:** That was a dope, opaque, opaque had an open source.
+
+**Daniel Lopes:** No, that's right, that was a human signal.
+
+**Daniel Lopes:** Got it.
+
+**Stevie Kim:** Yeah, that makes sense.
+
+**Stevie Kim:** Opaque was a lot easier because they didn't have customers.
+
+**Stevie Kim:** They were, the marketing team was just trying to do a lot of education.
+
+**Stevie Kim:** What is confidential computing?
+
+**Stevie Kim:** Why do you need it?
+
+**Stevie Kim:** Type of thing.
+
+**Stevie Kim:** And.
+
+**Stevie Kim:** And, yeah, so my work at Opaque was less on the go-to-market side of Human Signal.
+
+**Stevie Kim:** But anyway, talking about the process, that idea of ship room, every place that I've gone, I think it's really important.
+
+**Daniel Lopes:** That's awesome.
+
+**Stevie Kim:** Yeah.
+
+**Stevie Kim:** But, you know, what we did at Human Signal is we started automating a lot of that out using Atlas with JIRA.
+
+**Stevie Kim:** So people would get pinged, but I swear nobody reads anything.
+
+**Stevie Kim:** So if you don't have that meeting, a lot of information still gets, you know, ignored.
+
+**Stevie Kim:** What I like to do is, okay, there's the meeting.
+
+**Stevie Kim:** I record the meeting.
+
+**Stevie Kim:** And then I summarize the meeting, and I push it to Slack, the summary.
+
+**Stevie Kim:** And then I, with including the link to the.
+
+**Stevie Kim:** Write up and the recording and that way I'm like, and then there's, it's all documented like in the content calendar or the meeting calendar in notion.
+
+**Stevie Kim:** I'm like, there's no way you can miss information with me.
+
+**Stevie Kim:** Overkill is better, right?
+
+**Daniel Lopes:** That sounds amazing.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** And then tell me more about, I want to make sure we have time.
+
+**Stevie Kim:** Like, are you okay with like going over the time?
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** It's like a week.
+
+**Daniel Lopes:** We're almost at time already.
+
+**Daniel Lopes:** But I want to hear a ton about your last 10 months or so that you've been like, maybe you've been doing that even before when you're still at Opaque, but you've been doing a lot of stuff with LLMs and like trying different things.
+
+**Daniel Lopes:** And like, that also changes like, and you come from the ML background and LLMs kind of changed a lot of that.
+
+**Daniel Lopes:** So like, I'm very curious to know how has it been like your or What?
+
+**Daniel Lopes:** Every time you've been spending on this.
+
+**Stevie Kim:** Yeah.
+
+**Stevie Kim:** So at Opaque, I did focus on more of like the kind of the AI gateway products.
+
+**Stevie Kim:** So as far as like, how can we reduce risk with agentic workflows?
+
+**Stevie Kim:** So like, we had a design partner, Accenture, who had a couple of clients that were doing, you know, some earlier stuff with LLMs and agentic workflows.
+
+**Stevie Kim:** And so making sure that PI was redacted, that there was no risk of leakage to the model, that if they're using RAG, you know, there's the, you know, the authorization pieces were in place.
+
+**Stevie Kim:** And, you know, there's a lot of competitors, Kong gateway has, everybody has a little something around there.
+
+**Stevie Kim:** So we decided not to like actually create a separate.
+
+**Stevie Kim:** For product, we just kind of baked it into like the confidential computing piece.
+
+**Stevie Kim:** So I did do some of that there.
+
+**Stevie Kim:** But yeah, during my time off, I was like, I'm not going to do anything tech.
+
+**Stevie Kim:** I'm just going to whatever I feel like doing, painting, reading, whatever.
+
+**Stevie Kim:** And that lasted like a week.
+
+**Stevie Kim:** And at first, I was starting to like go down this rabbit hole of like a couple product ideas.
+
+**Stevie Kim:** And, you know, I was like, I kept caring, you know, about the technical pieces.
+
+**Stevie Kim:** And so I was like, oh, I just really want to learn this.
+
+**Stevie Kim:** You know, I'm not one for fluff.
+
+**Stevie Kim:** Like, I don't like all the hype around it.
+
+**Stevie Kim:** But I've done the machine learning work myself.
+
+**Stevie Kim:** I've supported data scientists.
+
+**Stevie Kim:** I've talked at conferences to data scientists and engineers doing deep dives into this stuff.
+
+**Stevie Kim:** So I, I'm cynical a little bit, but I'm also, I'm pretty pragmatic.
+
+**Stevie Kim:** So there was, there was a transition.
+
+**Stevie Kim:** I had, I had to, I had to give up the sense of doing everything on my own and building everything from scratch and just recognize, like, it's the same philosophy as engineers have always tried to keep in mind, don't reinvent the wheel, you know, libraries and tools where, you know, where you need to.
+
+**Stevie Kim:** But we also like to learn new things.
+
+**Stevie Kim:** And so it's that balance.
+
+**Stevie Kim:** But yeah, I definitely had a, you know, and I've followed like BERT, right, you know, transformer architecture and all that to a certain degree.
+
+**Stevie Kim:** But yeah, I tried to ignore like all the noise and just focus on like, what am I curious about?
+
+**Stevie Kim:** Like, what?
+
+**Stevie Kim:** Okay, I'm starting to write again in a blog.
+
+**Stevie Kim:** haven't done content writing since algorithmia.
+
+**Stevie Kim:** I'm like, I'm like, I'm you know, there's some things here that I've.
+
+**Stevie Kim:** And I've always wanted to know more about SEO and that's changing with, you know, all these overviews, AI overviews and LLM outputs.
+
+**Stevie Kim:** And so I just followed my curiosity and kind of that's what kept getting me like more interested and more interested in like content generation, how it can be more predictable, like what prompt styles were.
+
+**Stevie Kim:** Because for a long time, people were saying, oh, yeah, this role, backstory, tell it that it's, you know, it's like this, you know, marketing genius or whatever.
+
+**Stevie Kim:** And that I was like, this isn't working at all.
+
+**Stevie Kim:** I'm spending too much time on this.
+
+**Stevie Kim:** And so focusing more on, you know, the, the user prompts, which like in crew AI, it translates to, um, tasks and lane graph knows, right?
+
+**Daniel Lopes:** So you're, you're giving it the instructions, you're doing few shot, um, examples and that sort of thing.
+
+**Stevie Kim:** So, yeah, I just kind of followed my curiosity, and that's where it led me.
+
+**Stevie Kim:** And it's kind of funny because I feel like it's full circle back, you know, at Apollo Education Group, doing a lot of that marketing.
+
+**Daniel Lopes:** Yeah, that's what I was asking, because that was interesting.
+
+**Daniel Lopes:** You started supporting the marketing team, and then you did a lot of machine learning stuff and programming, and then you ended up back at that point.
+
+**Stevie Kim:** Yeah, well, you know, I love, I'm interested in a lot of things, but cognitive psychology and, like, neuromarketing are really fascinating to me.
+
+**Stevie Kim:** And so I started even thinking about, you know, okay, do, can agents share a conceptual model?
+
+**Daniel Lopes:** And just getting more theoretical about it, too.
+
+**Stevie Kim:** So, yeah, I think, like, the content generation and the marketing piece, it allows itself to, it's like, you can be technical, you can.
+
+**Stevie Kim:** Interest in, you know, cognitive and neuropsychology and it applies every, you know, everything because it's really, well, this is changing, but when people are the consumers, you know, you're, you're needing to optimize for them.
+
+**Stevie Kim:** Of course, now with agents consuming and, you know, LLM consuming content, it's, it's, it's, kind of changing maybe the structure of what we're, you know, right, how we're writing things and communicating things and, and the context to, so it's just fascinating to me.
+
+**Daniel Lopes:** Yeah, yeah, that's super interesting.
+
+**Daniel Lopes:** Like, you, sorry if the question is too direct, but you, you have, like, you were a human signal and opaque for, like, a year on each, like, were you, like, did they lay you off or, like, you quit because, what happened there?
+
+**Stevie Kim:** Yeah, so human signal did a round of layoffs, so they've done a round layoffs, but opaque.
+
+**Stevie Kim:** So they hired and fired based on hitting your success metrics.
+
+**Daniel Lopes:** it's like, what the ?
+
+**Daniel Lopes:** It's very guilty, right?
+
+**Stevie Kim:** And so I had 13 OKRs my first quarter.
+
+**Stevie Kim:** And again, I was part of that senior leadership team, sort of, but not really.
+
+**Stevie Kim:** And then the second quarter, I had to wrap up the OKRs that I didn't hit.
+
+**Stevie Kim:** I made progress on all of them.
+
+**Stevie Kim:** And I'm super proud of my work.
+
+**Stevie Kim:** You know, I had a lot.
+
+**Stevie Kim:** It was very challenging.
+
+**Stevie Kim:** And then the second quarter, I got more OKRs.
+
+**Stevie Kim:** And at the end of that, I did.
+
+**Daniel Lopes:** I was going ask that.
+
+**Daniel Lopes:** Like, what's the, what was, I always had a problem with, like, OKRs and product.
+
+**Daniel Lopes:** Because, like, it's not a binary.
+
+**Daniel Lopes:** Like, it's much easier with marketing and sales where the numbers are clear.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** And you were on the product side.
+
+**Daniel Lopes:** How are they keeping you accountable with OKRs?
+
+**Stevie Kim:** Or, like, what are you ever thinking there on this?
+
+**Stevie Kim:** Yeah.
+
+**Stevie Kim:** So, so they.
+
+**Stevie Kim:** Basically, I mean, I had 13, so I don't remember every single one.
+
+**Daniel Lopes:** But there was some were just like.
+
+**Daniel Lopes:** That's by definition you're saying on the OKR.
+
+**Stevie Kim:** I know, I know, I know.
+
+**Stevie Kim:** In Algorithmia, we treated OKR as aspirational milestones to hit.
+
+**Daniel Lopes:** They're very differently.
+
+**Stevie Kim:** But no, they definitely were a little different in how they treated OKR.
+
+**Stevie Kim:** it opaque?
+
+**Stevie Kim:** But everything from create customer onboarding journey, like so map the customer onboarding journey, create personas.
+
+**Stevie Kim:** So that's more of like traditional like product marketing or maybe user research.
+
+**Stevie Kim:** And then develop the product development lifecycle process.
+
+**Stevie Kim:** They were very process driven.
+
+**Stevie Kim:** So it wasn't as lightweight as I've always done.
+
+**Stevie Kim:** Even when I was an engineer, that was, you know, it was very heavy on process where, you know, lots of they want.
+
+**Stevie Kim:** And lots of touch points with, you know, with the CEO and lots of, he came from ServiceNow.
+
+**Stevie Kim:** So he had that process in mind.
+
+**Stevie Kim:** Also for the, one of my OKRs was the Product Advisory Council.
+
+**Stevie Kim:** So as I said before, I was responsible for the recruiting, you know, getting recruits from the sales pipeline.
+
+**Stevie Kim:** So I worked closely with sales to make sure that, you know, we weren't disrupting, you know, any relationship building that they were doing, that they sometimes do a warm intro.
+
+**Stevie Kim:** Sometimes it would, you know, have to be like just me outreaching to people to get them on this Product Advisory Council.
+
+**Stevie Kim:** The CEO wanted 50 people by the end of the quarter and we didn't have customers yet.
+
+**Stevie Kim:** And so I, but I was really proud because I built like a very solid, consistent, I consistent, um,
+
+**Stevie Kim:** Both the pipeline to get more people on and then also the creation of the consistent council of 10 members that, you know, I did, you know, roadmap walkthroughs, got their feedback on messaging, on prioritization, helped them feel like they were champions.
+
+**Stevie Kim:** Like we wanted to make them feel like, Hey, I'm a rock star.
+
+**Stevie Kim:** I'm on this product advisory council.
+
+**Stevie Kim:** So built up their ego so they can accelerate their career.
+
+**Stevie Kim:** And then, yeah, so there are a lot of moving pieces to that.
+
+**Stevie Kim:** Also trying to get them to speak at the conference that we were putting on, events.
+
+**Stevie Kim:** So that was, that was another one.
+
+**Stevie Kim:** So, um, basically my 10 compared to the 50 that he wanted, you know, and, and, you know, I mean, it was, we didn't have.
+
+**Stevie Kim:** Activity people in our pipeline, but he came from a larger company, and that's what he had in his mind.
+
+**Stevie Kim:** So they let me go at the end of my second quarter, and that was the first time I've ever been like performance-based, higher, higher type of situation.
+
+**Stevie Kim:** And I'm definitely not cut out for that type of sales cutthroat.
+
+**Daniel Lopes:** Me neither, yeah.
+
+**Daniel Lopes:** That's why I was curious, like, that's why I was asking you all the questions, you know, OKRs and all that.
+
+**Daniel Lopes:** Yeah, same, like same mindset.
+
+**Stevie Kim:** Like, I still talk to, you know, the, a couple of the founding, you know, founders, the, especially the, oh, I think his title is, like, head of AI now.
+
+**Stevie Kim:** He was, like, doing more solutions architecture stuff there.
+
+**Stevie Kim:** But, yeah, they're great people.
+
+**Stevie Kim:** It's, like, the, that type of heavy process so early on with such high expectations where it limited your ability to actually get  done.
+
+**Daniel Lopes:** know.
+
+**Daniel Lopes:** right
+
+**Daniel Lopes:** Yeah, no, 100%.
+
+**Daniel Lopes:** Like, the whole reason I was asking this is because, like, that was my same experience at If This Then That.
+
+**Daniel Lopes:** Like, had, like, if we had a team of 25, well, I had a team of almost 30, amazing engineers.
+
+**Daniel Lopes:** We brought in, and I was head of product at the time, a director of product, but I was the only product person reporting directly to the CEO.
+
+**Daniel Lopes:** We brought in somebody from Yahoo, and they wanted to bring in the heavy process from Yahoo and recruit very differently.
+
+**Daniel Lopes:** And, like, having done a lot of, like, scrum consulting in the past and, like, having quit that because I don't think that's the best way for every company, I knew that would backfire.
+
+**Daniel Lopes:** Long story short, they did backfire.
+
+**Daniel Lopes:** So, they ended up letting go of the VP of engineering because, in the early stage, like, a smallish team solving a lot of hairy problems.
+
+**Daniel Lopes:** It's very hard to have super tight processes around, like, how many points you get in your burned down chart in your gear.
+
+**Stevie Kim:** That's ridiculous.
+
+**Stevie Kim:** I mean, I've experienced it, right, on the engineering side.
+
+**Stevie Kim:** And it's always so like at Algorithmia, it was more about we're trying to get better at estimation, not we're trying to get faster.
+
+**Stevie Kim:** We're trying to do this.
+
+**Stevie Kim:** We're going to kill ourselves to reach these numbers.
+
+**Stevie Kim:** It was all about, hey, we're just trying, we're tracking this so we can get better at estimating and managing people's expectations.
+
+**Stevie Kim:** And, yeah, Opaque was very much like, no, we have to hit these numbers and, you know, we have to track this.
+
+**Stevie Kim:** So it definitely is a different philosophy.
+
+**Daniel Lopes:** Yeah, yeah, no, that makes sense.
+
+**Daniel Lopes:** Okay, I'm just adding a revider that I'm not joining.
+
+**Daniel Lopes:** My last question for you is like, what?
+
+**Daniel Lopes:** What?
+
+**Daniel Lopes:** What kind of environment are you looking for or what excites you, like motivations, that kind of stuff.
+
+**Stevie Kim:** What is the ideal for you?
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** And another one is like, where are you in your search stage and what can I do there?
+
+**Stevie Kim:** Yeah, absolutely.
+
+**Stevie Kim:** So I love autonomy.
+
+**Stevie Kim:** I love to know what we're trying to achieve.
+
+**Stevie Kim:** But I like the freedom in how we're going about achieving it.
+
+**Stevie Kim:** And so I love being able to step in where help is needed.
+
+**Stevie Kim:** And whether it's defined in my role or not, if it's the most critical thing that needs to be done, I like being able to, you know, as long as everybody's aligned and aware, like, hey, yes, this is the most critical thing.
+
+**Stevie Kim:** Go ahead and jump on that.
+
+**Stevie Kim:** I like that, you know, freedom and the variety of doing that.
+
+**Stevie Kim:** Yeah.
+
+**Stevie Kim:** Number one, I love being close to customers, so really understanding their pain points, use cases, job to be done, all that good stuff, and building, you know, those relationships.
+
+**Stevie Kim:** And then, of course, having something more technical to work on is really fun.
+
+**Stevie Kim:** I think that was the biggest piece missing for me at Human Signal.
+
+**Stevie Kim:** It wasn't incredibly technical.
+
+**Stevie Kim:** And so I love being able to just learn new things and grow that way.
+
+**Stevie Kim:** So those are really the most important things to me.
+
+**Stevie Kim:** As far as where I'm at, I just really started.
+
+**Stevie Kim:** I was like, okay, I'm going to end my sabbatical officially now.
+
+**Stevie Kim:** Started looking probably two weeks ago.
+
+**Stevie Kim:** And so I'm about in the same stage with Vercel.
+
+**Daniel Lopes:** Got it.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Did Docker reach out to you or did you apply?
+
+**Daniel Lopes:** Yeah, yeah.
+
+**Stevie Kim:** was really when he.
+
+**Stevie Kim:** He told me what you guys are doing.
+
+**Stevie Kim:** I'm like, really?
+
+**Stevie Kim:** This is very fitting.
+
+**Stevie Kim:** This is everything I've been interested in, you know, learning more about.
+
+**Daniel Lopes:** This is awesome.
+
+**Daniel Lopes:** What can I, any questions, like, we can flip the game.
+
+**Daniel Lopes:** I can go as long as you need to answer any questions you have.
+
+**Daniel Lopes:** I want to show you anything that you want or talk about future plans for the company.
+
+**Daniel Lopes:** Like, anything that, like, no, no, happy to be transparent about anything you want.
+
+**Stevie Kim:** Yeah, I always have a ton of questions, so I won't ask them all.
+
+**Stevie Kim:** But the first one, I want to understand really, like, how is success measured for this role?
+
+**Stevie Kim:** I know it is a little bit ambiguous and you all are very early on, but I definitely want to understand, like, what success looks like and how I can contribute to that.
+
+**Daniel Lopes:** Yeah, that's a, that is a, that is a tough question to answer now, because, like, you're
+
+**Daniel Lopes:** The way we're like, just to, I think can show you what we have actually, and that will clarify things more.
+
+**Daniel Lopes:** Because from the outside, I don't know how much Tucker shared, but from the outside, in our website, it might look like we're a market agency.
+
+**Daniel Lopes:** From the inside, we have, we had the challenge of running a ridiculous amount of LLM calls every day, plus the complexity of the kind of workflows we needed to actually get high quality stuff.
+
+**Daniel Lopes:** So we had to break, like, usually it would start with, like, it's the kind of stuff that you're writing about, where, like, in your last blog post, that we're like, you have to decompose the tasks in the smaller tasks.
+
+**Daniel Lopes:** And that matters more than the backstory of the role and all that fluffy stuff.
+
+**Daniel Lopes:** And so we, we had, like.
+
+**Daniel Lopes:** Workflows that would have sometimes like 20 nodes, or 20 tasks, and they would trigger another one that had 20, and another one, so it became this crazy amount of movie pieces, and we were using this thing called AeroOps at the time, because Marcel was non-technical, he's somewhat technical, but he can understand really well how LLMs work, and ML as well, because he came from Scale AI before, and HashiCorp, so he was CML at both places.
+
+**Daniel Lopes:** And DeepGram was super technical too, so he's technical enough to understand how it works, but not technical to write code, so he built like, he was essentially writing code in graphical nodes, in things like similar to N, you know, and so it became super complex, hard to manage, non-scalable, so we ended up building something that's very similar to Crew AI, on top of a distributed systems called Temporal, like a runtime for a distributed system called Temporal, it's very popular for microservices stuff, much.
+
+**Daniel Lopes:** At companies like Netflix and Stripe and the larger players, and it's actually very, very similar to the runtime we built at IFTTT to run our 10 million users.
+
+**Daniel Lopes:** So IFTTT was like a B2C, sort of free, and it had like 10 million users and running APIs combined.
+
+**Daniel Lopes:** So like simple challenge.
+
+**Daniel Lopes:** And there we had like 10 people team building that, and like some of the best engineers that were trying to solve that problem.
+
+**Daniel Lopes:** It was a very problem.
+
+**Daniel Lopes:** Temporal kind of solved that and has it as open source.
+
+**Daniel Lopes:** And so we built on top of Temporal because in my mind, the design of the agents and design of our Compose is an interesting challenge.
+
+**Daniel Lopes:** And like picking out the interface for the programmer to do that properly is a very interesting challenge and one that's worth solving.
+
+**Daniel Lopes:** But the execution of that at production level, it's also a huge challenge.
+
+**Daniel Lopes:** Like you're running like a thousand agents a day and what happens when they fail?
+
+**Daniel Lopes:** Who's running this?
+
+**Daniel Lopes:** Are you deploying this here yourself?
+
+**Daniel Lopes:** Who manages this state of the agent if the API is down and back off?
+
+**Daniel Lopes:** There's all these things about the architecture that I was having a tougher time solving with an existing thing.
+
+**Daniel Lopes:** And I also like LinkedIn, all these things.
+
+**Daniel Lopes:** The code base was pretty...
+
+**Daniel Lopes:** Everybody's trying to figure it out.
+
+**Daniel Lopes:** So I'm going to depend on this that everybody's still trying to figure out, and I also have to figure out the scalability of the runtime.
+
+**Daniel Lopes:** So we ended up building a bunch of stuff on top of Temporo, and we created a few calling agents for creating the workflows through that way.
+
+**Daniel Lopes:** you start playing text with what you want to automate, and you run that.
+
+**Daniel Lopes:** It creates a workflow that is a folder with four files that defines your prompts and the steps, the activities of the workflow.
+
+**Daniel Lopes:** And that was the first.
+
+**Daniel Lopes:** We did deploy using Temporas the runtime, and we built a user interface on top so you could see the workflows getting executed, and you can see the nodes triggering, and you can replay from certain spots and retry and things like that, and also give people visibility how the workflows work.
+
+**Daniel Lopes:** So that was the first thing we did, to just get out of the no-code, low-code things that we were using, and be able to scale to the 30-ish clients we had, and at the time it was just me doing everything, so it was beginning of the year.
+
+**Daniel Lopes:** I have a tendency to try to avoid coding as much as possible, see how far we can go without doing anything, and we were able to push all the way to like $3 million or $4 million in revenue, with just me pushing the limits of the thing.
+
+**Daniel Lopes:** But then we had, I think it was 25 clients, and it was already getting super hard, and so we fundraised in the beginning of the year.
+
+**Daniel Lopes:** And then another piece of the puzzle was, okay, we have the infrastructure to build workflows super fast, and we removed the non-engineers from building workflows because they can't prompt, like prompts are too hard, and prompts is essentially programming language of no compiler, no syntax error, and you put a non-technical person doing that, it's like, what the heck, what did you do?
+
+**Daniel Lopes:** And so we moved programmers out of that, so the programmers started writing workflows, using this environment that we created, this framework that we created, and we bolted on some sort of a beginning of an IDE that they can see the things happening, so to help the programmers do better, and then we still needed to help the content management team, the writers and the editors have something that they can work with, and that's like AI, an AI editor, text editor would be very helpful, a way to stitch the workflows together.
+
+**Daniel Lopes:** So you have creation of the topic that has to be written, jumped into now that we have the topic and the person can iterate on the topic and expand on what's the brief for the writing here.
+
+**Daniel Lopes:** Now let's trigger research.
+
+**Daniel Lopes:** And the research would be like maybe 20 parallel calls to perplexity to answer all the questions you have.
+
+**Daniel Lopes:** And now you have this giant corpus of data that you can use to write the draft.
+
+**Daniel Lopes:** And all the draft is done, I need the UI for the person to look at the draft and look at the research and see if the draft is good and give feedback and iterate with that.
+
+**Stevie Kim:** So we built that in the last couple of months.
+
+**Daniel Lopes:** So I can show you everything, but let's just, for a long story short, the success for the role is that we have this weird hybrid.
+
+**Daniel Lopes:** of like, my whole thesis is that things are too young for, to build final user.
+
+**Daniel Lopes:** Interfaces that you give access to the end user now.
+
+**Daniel Lopes:** So LLMs are changing so fast, the models are getting better, some stuff is getting worse.
+
+**Daniel Lopes:** At the same time, the models are getting too smart, and then some of the simple tests get worse.
+
+**Daniel Lopes:** So there's all these things that if you build UI for the final user, you have to deal with moving fast in this environment that's moving too fast.
+
+**Daniel Lopes:** So the whole idea was just like, what is a space that has enough money, the LLMs can do a really good job, that we can build a service company here that will operate the potential messiness of like figuring out how this works, until this is solid enough that we can start reducing the amount of people operation here can bring the client closer to the applied AI part of it.
+
+**Daniel Lopes:** So, and then we have a meta way of doing general things under.
+
+**Daniel Lopes:** So like, we started with like a content agency, we also have...
+
+**Daniel Lopes:** We ton of AI workflows for recruiting.
+
+**Daniel Lopes:** We have a ton of AI workflows for image generation.
+
+**Daniel Lopes:** have a lot of stuff for our own coding of workflows.
+
+**Daniel Lopes:** like this, the framework is generally used, the environment is generally used, the platform for the marketing stuff is specific to market.
+
+**Daniel Lopes:** And right now only our agency has access to that.
+
+**Daniel Lopes:** And we might open up to other agencies use, or we might just like let the client use it directly.
+
+**Daniel Lopes:** So I'm not sure what's going to be the motion there to make it scalable.
+
+**Daniel Lopes:** So far, we haven't had no problem selling one of our team members operating that for $10,000 a month.
+
+**Daniel Lopes:** And pretty much any company needs that because you need like an editorial team.
+
+**Daniel Lopes:** Now it's an editorial team that you hired as an outsider.
+
+**Daniel Lopes:** And let the clients see what they're doing and interact with that platform as well.
+
+**Daniel Lopes:** So just to explain to you the whole thing, I can actually show everything after.
+
+**Daniel Lopes:** But this.
+
+**Daniel Lopes:** Success for the role, this role started as the idea to have this agency business here, and clients, we have a lot of connections, we have no problem with getting a lot of interesting clients, and they want everything.
+
+**Daniel Lopes:** You know, they want like, oh, you can do gong transcription to features that I need, and ICP matching for all my 70,000 calls that I have.
+
+**Daniel Lopes:** Like, yeah, we can, but we probably shouldn't, because that will probably require like a few, like three or four custom workflows for you, and maybe one small feature here.
+
+**Daniel Lopes:** Not too hard, but we also have 10 other clients here that could just do exactly what we have.
+
+**Daniel Lopes:** And so we have this challenge where like, we have a crazy amount of demand for whatever we can automate internally, whatever we can make like AI native.
+
+**Daniel Lopes:** have this this And And
+
+**Daniel Lopes:** For those companies, they're all getting the mandate from the CEOs saying, like, you have to be AI native in your department.
+
+**Daniel Lopes:** And they're like, what does that mean?
+
+**Daniel Lopes:** Like, do I learn career AI myself?
+
+**Daniel Lopes:** Like, do I learn NAN and all that?
+
+**Daniel Lopes:** And they come to us and say, hey, we actually can't do anything.
+
+**Daniel Lopes:** But we're focused on content.
+
+**Daniel Lopes:** And so we ended up with, what is high, what do we actually need?
+
+**Daniel Lopes:** So we came up with this idea of a strategy sprint before, where we'll just listen to the client, figure out what they do, figure out what they need, figure out what kind of doc, if we work, if AI would be generating content for them, or at least help and then generate content, work, help them create drafts and things like that.
+
+**Daniel Lopes:** What are the kind of contextual documents you have to create for that to work well?
+
+**Daniel Lopes:** So, like, so we have this strategy sprint responsible for figuring out the marketing strategy, what is high impact for that area, looking at competitors, like a traditional, like SEO or marketing and like things like that.
+
+**Daniel Lopes:** Using tools like Xamrush and all that stuff, but we also have that team creating a workspace in our platform that has a document for, like it has an artifact with like all the personas, it has a writing guidelines, and the writing guidelines has the few short examples for each one of the personas, like creating the settings for the LLMs to do okay in that space.
+
+**Daniel Lopes:** And also creating like fact check documents where they could run as a fact checker at the end.
+
+**Daniel Lopes:** we have a workflow as a fact checker, we'll check against, they'll come up with questions and like look against some of the documents that they provided.
+
+**Daniel Lopes:** It's like we have like a technical team that's like thinking, okay, what can we do to make our workflows perform well, or which workflows are we missing that we need to create, and all that stuff.
+
+**Daniel Lopes:** And our workflows are reusable, so it probably be better if I just show you anything, but the strategy team, originally when they posted this row, we were thinking like, we need somebody in the strategy team that is, the performance as a
+
+**Daniel Lopes:** Yeah, and I can talk to the client, can understand what they think, and can see what we support already, can do a little bit of capacity planning, can see what is high value for the client, do a little bit of relationship management there, and be like, if the person would be technical enough to understand how we're closing, what is possible, and what is coming down the pipeline, that's perfect, but that wasn't an initial requirement.
+
+**Daniel Lopes:** But when I saw your profile, you kind of fit everywhere.
+
+**Daniel Lopes:** So I wasn't thinking about, like, I need a product manager to help me do the other features for the platform, and also, like, be able to understand what the clients want, and also understand LLMs, because that was the role that I got.
+
+**Daniel Lopes:** I'm like, I'm the only person who can do this, and I also have a few engineers that are coming from growth background, and they learn the environment as well, and they learn the framework.
+
+**Daniel Lopes:** They are really good at understanding how to build the IROs for these things, but they don't have...
+
+**Daniel Lopes:** The experience that you have with product, for example, or thinking about process cadence and efficiency and all that and how engineering should run.
+
+**Daniel Lopes:** So that's why I was saying I can go as long as you need to show you everything because your profile is very unique.
+
+**Daniel Lopes:** This should be very transparent.
+
+**Daniel Lopes:** I was super excited to talk to you.
+
+**Daniel Lopes:** And so I don't really have an answer for what success looks like.
+
+**Daniel Lopes:** Just helping us figure out the strategy sprint, figure out what are the features that might be missing in the platform.
+
+**Daniel Lopes:** And maybe later we hire more people if we're going to scale the strategy sprint.
+
+**Daniel Lopes:** If that's going to be a long-term offering, it probably would make sense to have you doing that role for forever because you can be everywhere from platform to other areas of the product.
+
+**Daniel Lopes:** So you're like, you would be helping me figure out how do we scale the strategy sprint, what are the features we're using?
+
+**Daniel Lopes:** And at the same time, maybe create some workflows.
+
+**Daniel Lopes:** Things are a very, stuff you did with CRU.AI, you're going to be able to create workflows in no time.
+
+**Daniel Lopes:** Does that answer the question a little bit?
+
+**Daniel Lopes:** It's a mess, I'm sorry.
+
+**Stevie Kim:** It totally fits with what I was saying when you asked me what I'm looking for.
+
+**Stevie Kim:** I was like, well, I like to be useful in all these different areas, whatever is needed.
+
+**Stevie Kim:** I like to be able to jump in and have a variety and be a little technical, be a little creative, be customer-facing, be very strategic.
+
+**Stevie Kim:** And so, I mean, it fits.
+
+**Stevie Kim:** It makes sense to me, at least.
+
+**Daniel Lopes:** So, thank you.
+
+**Daniel Lopes:** Yeah, maybe I can show you the whole thing and then you have a better.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Does that help?
+
+**Stevie Kim:** Yeah.
+
+**Daniel Lopes:** Let me share my screen here.
+
+**Daniel Lopes:** Sorry, I didn't prepare for this.
+
+**Daniel Lopes:** So, I have like a million tabs open and everything, but we have this.
+
+**Daniel Lopes:** This is the stuff that mostly our engineers work.
+
+**Daniel Lopes:** I will start from actually the client side.
+
+**Daniel Lopes:** So these are our clients.
+
+**Daniel Lopes:** Now we have 45.
+
+**Daniel Lopes:** And we have companies like Airbyte.
+
+**Daniel Lopes:** have companies like Superhumans who just got acquired yesterday.
+
+**Daniel Lopes:** We had Reddit, Ramp.
+
+**Daniel Lopes:** There's a few others.
+
+**Daniel Lopes:** Abnormal, Augment Code.
+
+**Daniel Lopes:** So we have a bunch of well-known companies like Ramp.
+
+**Daniel Lopes:** then we have...
+
+**Stevie Kim:** Galileo.
+
+**Daniel Lopes:** Galileo loves us.
+
+**Daniel Lopes:** What we do for them is actually really cool.
+
+**Daniel Lopes:** Maybe that's one that we can open.
+
+**Daniel Lopes:** So we have this platform that we launched literally like three weeks ago.
+
+**Daniel Lopes:** We are doing that with a bunch of other things and hacking together, like things like this.
+
+**Daniel Lopes:** So we have context artifacts.
+
+**Daniel Lopes:** So those can be many different types of documents and they will...
+
+**Daniel Lopes:** The things like facts, guidelines, rules, page templates, anything else that you want to use.
+
+**Daniel Lopes:** And those, for example, have personas.
+
+**Daniel Lopes:** This person here is creating some of them, some of their own.
+
+**Daniel Lopes:** But this is probably not best.
+
+**Daniel Lopes:** Let me pick something that Marcel did.
+
+**Daniel Lopes:** Abnormal is an interesting one.
+
+**Daniel Lopes:** So we have the personas.
+
+**Daniel Lopes:** have the context of the company.
+
+**Daniel Lopes:** Sometimes we have, like, CPAs to include.
+
+**Daniel Lopes:** have writing guidelines for article composition.
+
+**Daniel Lopes:** Sometimes it will go very grimler, like it's a writing guideline for a certain persona.
+
+**Daniel Lopes:** And then we have pipelines.
+
+**Daniel Lopes:** I don't know if Abnormal has an active pipeline.
+
+**Daniel Lopes:** But pipelines are the environment where you can load whatever kind of data you need.
+
+**Daniel Lopes:** And you stitch together, think about, like, if you had, like, crew AI agent.
+
+**Daniel Lopes:** You would be able to stitch them together, but you have the interface for the person to interact with the next agent that will be triggered.
+
+**Stevie Kim:** Yeah, it's kind of like an airflow, kind of a DAG in a way.
+
+**Daniel Lopes:** Yes, yeah, exactly.
+
+**Daniel Lopes:** So in this case would be like the pipeline here.
+
+**Daniel Lopes:** So we have these kinds of pipelines and they can be used for anything, but we use mostly for content.
+
+**Daniel Lopes:** So we have an SEO assignment would be like the topic that will be written.
+
+**Daniel Lopes:** Almost like if you have like a newsroom, the managing editor would come with the, we need to cover the elections 2024, for example.
+
+**Daniel Lopes:** And then that's the assignment title.
+
+**Daniel Lopes:** And then they were like, here's our angle, how we do it.
+
+**Daniel Lopes:** And here's the kind of the outline we're thinking about.
+
+**Daniel Lopes:** And in this case, for example, let's say for abnormal, the complete guide to email authentication.
+
+**Daniel Lopes:** We have an AI workflow that will create the first draft.
+
+**Daniel Lopes:** Thank
+
+**Daniel Lopes:** That would do a bunch of things like research who else is ranking for this topic, figure out is this a listicle, is this a how-to, what's the content type here, and in the context of our personas, in the context of that artifact that we had with the personas and the context of the company, what is the angle that we should take?
+
+**Daniel Lopes:** So that first step is an AI workflow that got triggered in our background.
+
+**Daniel Lopes:** So in this case, the AI workflow for SEO assignment creation first starts with fetching the organic topic keywords for this, and then we analyze the input and the output.
+
+**Daniel Lopes:** So the output of this was, this is the top URL relevant to the personas of this client, and here's the reasoning for that, and then the next thing is like strategy fetch keywords for that, and like what are the top topic keywords for that URL?
+
+**Daniel Lopes:** And what is the competition level and all that.
+
+**Daniel Lopes:** So it keeps going and then scrapes those URLs.
+
+**Daniel Lopes:** And at the end, we have a markdown brief that is that thing that I was showing you.
+
+**Daniel Lopes:** So you would have like the original version.
+
+**Daniel Lopes:** As you can see, the people changed.
+
+**Daniel Lopes:** So the team will come here and look at it.
+
+**Daniel Lopes:** It's like, okay, that's actually a good starting point.
+
+**Daniel Lopes:** And they will come here and change it a time so that they'll come up with their own.
+
+**Daniel Lopes:** It's like, I'll just show you a little bit more.
+
+**Daniel Lopes:** So the end result of that workflow is, here's the target audience for that competitor URL.
+
+**Daniel Lopes:** Here's the suggested title.
+
+**Daniel Lopes:** Here's the suggested meta description.
+
+**Daniel Lopes:** Suggested URL slot for the abnormal post.
+
+**Daniel Lopes:** And here's the, this one kind of didn't find a good one.
+
+**Daniel Lopes:** But, and then we have some other potential keywords here.
+
+**Daniel Lopes:** Here are the top organic.
+
+**Daniel Lopes:** And I'll suggest.
+
+**Daniel Lopes:** It's in the content type here and the URL that it competed with.
+
+**Daniel Lopes:** And then we also have, based on those URLs and what is the persona here, the suggested outline.
+
+**Daniel Lopes:** The team will come here and massage this quite a lot.
+
+**Daniel Lopes:** And we have pods that are assigned to certain clients.
+
+**Daniel Lopes:** So there's a pod that is assigned to Abnormal that has somebody that has experience with the kind of topic that Abnormals cover.
+
+**Daniel Lopes:** So they will look at this and they say, okay, ready.
+
+**Daniel Lopes:** So this one was a human review step.
+
+**Daniel Lopes:** we pause.
+
+**Daniel Lopes:** So you can see that all the steps that have human review, they have this yellow thing and they pause.
+
+**Daniel Lopes:** So that means that the person, the editor has to come here and look at it.
+
+**Daniel Lopes:** So that she went there, looked at it, confirmed.
+
+**Daniel Lopes:** And the next steps don't have human review.
+
+**Daniel Lopes:** So they just execute all the way to the end.
+
+**Daniel Lopes:** And what happened here is that we have, the next step was a research phase.
+
+**Daniel Lopes:** The research phase got a certain data points.
+
+**Daniel Lopes:** So it's like, it has a domain.
+
+**Daniel Lopes:** So
+
+**Daniel Lopes:** And like this research phase is also an AI workflow that will receive a goal.
+
+**Daniel Lopes:** So the goal is to perform the brief.
+
+**Daniel Lopes:** And then the first thing is like, what are the questions that I need to perform this brief?
+
+**Daniel Lopes:** And then the next stuff is like perform a deep research using the highest research model from perplexity, the one that takes like 10 minutes, and then combine everything in the result.
+
+**Daniel Lopes:** So this is the result we got.
+
+**Daniel Lopes:** And then, so that was step number two here.
+
+**Daniel Lopes:** After that, she can come here.
+
+**Daniel Lopes:** If she wanted to pause, she could run in pause mode.
+
+**Daniel Lopes:** have automatic execution or pause mode.
+
+**Daniel Lopes:** She could come here, pause, and change the research if she wanted to.
+
+**Daniel Lopes:** And then after that, because I changed the text, will like complain.
+
+**Daniel Lopes:** But then it's the outline and then change the draft for the article.
+
+**Daniel Lopes:** And then we do a fact checking.
+
+**Daniel Lopes:** Fact checking is another AI workflow.
+
+**Daniel Lopes:** So all the steps AI work posted together where the person can come in and change.
+
+**Daniel Lopes:** So this one, for example, the fact check.
+
+**Daniel Lopes:** It's based on a couple of papers, actually, that comes up with ways to ask questions about the topic, and then we try to answer the questions, and the person can come in and double-check that.
+
+**Daniel Lopes:** So in this case, this section here, for example, let's see the, so passage, Google and Yahoo block or junk any message that failed modern authentication, reason why this should probably be checked, here the questions that you need to check, if it was a human, check this person could perform this query themselves, or in this case, we're letting the LLM perform the queries, at the end we have researched the passage, so it's like answering the, trying to answer the questions using Perplexity as well, and you can pass the domain that you want to look, so we're building all these workflows, and we're stitching them together, and so essentially the workflows are micro-apps, and we have,
+
+**Daniel Lopes:** Oh, nice.
+
+**Daniel Lopes:** People changed this today, the other folders.
+
+**Daniel Lopes:** That's pretty cool.
+
+**Daniel Lopes:** I didn't see that.
+
+**Daniel Lopes:** So we have client-related workflows.
+
+**Daniel Lopes:** Now we have folders.
+
+**Daniel Lopes:** have content-related things.
+
+**Daniel Lopes:** Content-related things would be like turn audio into text, generate cover image, generate cover image with GPT image, or recraft, or stability AI.
+
+**Daniel Lopes:** So we're using all the different APIs that you can think of.
+
+**Daniel Lopes:** And then we also have things to do research on your company or on your competitors.
+
+**Daniel Lopes:** We have things for evaluating if the content is good.
+
+**Daniel Lopes:** So this one does like an analysis of outline of hearings, analysis of headlines, analysis of structure, language, and tone, and runs in the background and just gives you a score based in Slack so the team can look at this content is actually red.
+
+**Daniel Lopes:** We shouldn't polish, or we should at least look into it.
+
+**Daniel Lopes:** And we have a lot of internal things.
+
+**Daniel Lopes:** Ourselves, for recruiting, we've got so many applications for the agency side that we have a few workflows to help with that, ParsePDF and things like that.
+
+**Daniel Lopes:** we're essentially trying to use, we have one of our engineers just dog-footing stuff, using him for like a strip to Hawaii and stuff like that.
+
+**Daniel Lopes:** Perfect.
+
+**Daniel Lopes:** So this is kind of the environment we have, and this is the platform we're starting to build for the content team.
+
+**Daniel Lopes:** And another thing that wanted to show you is that all the workflows from here, let's see, these are the workflows that are actually running now.
+
+**Daniel Lopes:** So everything that ran in the last few hours, but any of these are actually in code.
+
+**Daniel Lopes:** So different than no-code tools where you have like gooey stuff stitching together, they are folders in a GitHub repo that has like four, four to five files, depending.
+
+**Daniel Lopes:** cool.
+
+**Daniel Lopes:** and
+
+**Daniel Lopes:** We have documentation.
+
+**Daniel Lopes:** The documentation is essentially more useful to guide the agents to help you iterate with the workflows.
+
+**Daniel Lopes:** The workflows are mostly generated automatically, and we chose code instead of traditional no-code graphs and stuff like that, because the coding agents are getting so good, and they'll keep getting better.
+
+**Daniel Lopes:** So we can create very complex workflows with almost no interaction, and we just iterate on them.
+
+**Daniel Lopes:** And today we use this whole thing, it's super structured around cursor.
+
+**Daniel Lopes:** So we have like a ton of cursor rules that instruct how the workflows work, and it generates, helps you iterate on it.
+
+**Daniel Lopes:** The next step for us is to continue to build that studio interface so you can iterate yourself via the UI.
+
+**Daniel Lopes:** And we're going to bring Marcel and the other more technical markers to be able to iterate on the workflows themselves, but always being close to the engineers.
+
+**Daniel Lopes:** We're not cutting the cords, it's like DBT or some other tools where it's like...
+
+**Daniel Lopes:** It is still SQL, but you have an interface where you can be better at writing the good SQL for that domain space, but it's not a toy like N8N or Zapier that you can only get so complex.
+
+**Daniel Lopes:** know, there's only so much you can do.
+
+**Daniel Lopes:** So that's the kind of direction where we're going.
+
+**Daniel Lopes:** So it's kind of like all over, the things are like a little bit more complex, and the agency is almost like a facade for like figuring out what actually applied LLMs are making the difference.
+
+**Daniel Lopes:** And what are the tasks that are content, we're just speaking content marketing as like at the beginning, but what are the tasks that content marketing team would do completely different if they had a super good AI engineering team to automate things for them?
+
+**Daniel Lopes:** And then from that, we come up with the abstractions that, okay, like this is probably the better way to come up with a framework like Django or Ruby and Rails or things like that.
+
+**Daniel Lopes:** Then trying to like fundraise to create Django, you know, where like Django came out of like a newspaper, you know, and Rails came out of like a company trying to build a project management tool.
+
+**Daniel Lopes:** And they have abstractions there to help you build that.
+
+**Daniel Lopes:** But if you're getting fundraised to build the IDE for web development, you end up being Adobe Flex, you know, or Flash, you know, or Delphi or like all these things.
+
+**Daniel Lopes:** And they didn't survive.
+
+**Daniel Lopes:** So that's the approach that we're taking that we think it's too early to build like user products in the space of applied AI, applied LLMs.
+
+**Stevie Kim:** Yeah, no, and that's actually really appealing to me because I did a lot of self-education during my sabbatical on how to best do product discovery from zero, right?
+
+**Stevie Kim:** Okay.
+
+**Stevie Kim:** Like it's different when you already have something, you have customers, but trying to discover, you know, like what people are interested, what they're willing to pay for.
+
+**Stevie Kim:** And so I did a lot of, you know, self-education on that because it's, there are things that aren't talked about in product management, doing stuff like wait lists, building communities, building out agencies, all these different ways that founders, they skip that.
+
+**Stevie Kim:** And then they go straight to VC funding with an idea, pitch deck.
+
+**Stevie Kim:** And it's like, no, that's not how you build a business.
+
+**Stevie Kim:** That's how you get funded money and then crash a bird.
+
+**Stevie Kim:** So I'm, I'm very, that was very appealing because I was like, oh, finally, someone's doing it like the smart way, really, you know, it's really understanding the product market fit first, then building, you know, instead of building something and then trying to find a customer.
+
+**Daniel Lopes:** Yeah, that's my whole co-founder immediately made sense when I met him, he was the whole approach is like market the product before the product exists and sell it as much as you can and see what happens.
+
+**Daniel Lopes:** Like, okay, that sounds good.
+
+**Stevie Kim:** It can be painful for engineering if you sell and you're like, oh, we have to sell it really quick.
+
+**Stevie Kim:** So there's a couple.
+
+**Stevie Kim:** I did have some questions about like the versioning.
+
+**Stevie Kim:** Like what level of versioning is there?
+
+**Stevie Kim:** Is it on like the each time you edit that like template?
+
+**Stevie Kim:** Is it also on the workflow?
+
+**Daniel Lopes:** Like how does that work?
+
+**Daniel Lopes:** Yeah, that's the part that we really want to improve.
+
+**Daniel Lopes:** Like today, because we have the two layers.
+
+**Daniel Lopes:** Like when you have people, you have two apps essentially.
+
+**Daniel Lopes:** Like when people are editing the text and that pipeline spreadsheet like thing that I showed you that every edit creates a version and they can revert on the...
+
+**Daniel Lopes:** On the output, on the text, on the workflow side, every deploy is just version of GitHub, but ideally, you would be able to run multiple versions of the workflow, or at least versions of the prompts, so you can compare them.
+
+**Daniel Lopes:** That evows is a part that is also not, we don't have in our system, which is crazy, but ideally, we would be able to track metrics for how that workflow is doing, for the things you would actually care about in that workflow.
+
+**Daniel Lopes:** So almost like every workflow needs its own set of metrics, that would be like, maybe here's accuracy, and you can use like stuff like Raga, and like, and then the other one might be things related to the style of matching the things that the client doesn't want to talk about, you know?
+
+**Daniel Lopes:** So there's like, it's kind of missing, like, there are tools out there, like BrainTrust, LangFuse, we use LangFuse.
+
+**Daniel Lopes:** But figuring out evals is going to be a big part of what you're doing.
+
+**Daniel Lopes:** Another big thing that we're thinking is that's why your experience from human signal matters a lot.
+
+**Daniel Lopes:** also Marcel's experience coming from SCAPE.ai, that we're essentially doing data labeling for real work.
+
+**Daniel Lopes:** You know, where everybody's creating fictional work to be labeled before you deploy a model.
+
+**Daniel Lopes:** In our case, we're actually, people are editing the real results.
+
+**Daniel Lopes:** And like we're shipping that as product.
+
+**Daniel Lopes:** And so we're starting to work on a marketplace where we have like 40-ish people in the content team.
+
+**Daniel Lopes:** forget the number now.
+
+**Daniel Lopes:** But they are editing the outline.
+
+**Daniel Lopes:** They're adding the content.
+
+**Daniel Lopes:** They're picking different versions.
+
+**Daniel Lopes:** And we want to put them in the marketplace internal, like essentially a test.
+
+**Daniel Lopes:** Where you receive the tasks from our workflows, and we interact with the output there, instead of having to log into that interface where you see the pipeline, you would be essentially receiving the tasks.
+
+**Daniel Lopes:** In this case, it's just the fact checker that you saw, are these questions good enough?
+
+**Daniel Lopes:** Or is the result of the research correct?
+
+**Daniel Lopes:** Is the result of the article matching the sources?
+
+**Daniel Lopes:** Are all the citations there?
+
+**Daniel Lopes:** Is the writing here good?
+
+**Daniel Lopes:** So, like, if it's not, can you rewrite?
+
+**Daniel Lopes:** So, have a writer that will be assigned that task based on their experience for security, for example.
+
+**Daniel Lopes:** So, we're starting to build that, because today we have everybody in our Slack, and everybody joining the client calls, and again, it's kind of a wasteful time for them.
+
+**Daniel Lopes:** And if they just had a dashboard of all the things that they need to perform today, based on all the things that we're doing with clients, it would be a much better way to manage their time and their focus.
+
+**Daniel Lopes:** And we also have an opportunity for data labeling.
+
+**Daniel Lopes:** Actually, real frontier data that is not just fabricated on higher 10, like 1,000 doctors to label this or higher, like 1,000 people to do the bounding boxes for augmented reality for Apple's Vision Pro, for example.
+
+**Stevie Kim:** It gets really complex, too, because a lot of what's good is subjective.
+
+**Stevie Kim:** Right.
+
+**Stevie Kim:** So, like, I mean, we had a lot of companies that they'd have a couple of labelers and they'd want to, like, if it didn't, if the agreement score was under a certain threshold, they wanted to trigger workflows to have it assigned to someone who hadn't seen that test.
+
+**Stevie Kim:** It was kind of a tiebreaker.
+
+**Stevie Kim:** So I, you know, was leading all of that project and just trying to, because they were tracking a lot of the stuff in spreadsheets and they, you know.
+
+**Stevie Kim:** Even though that's an external customer and you're focused on, you know, your internal users and customers, it's the same thing.
+
+**Stevie Kim:** You want them to be as productive and efficient as possible.
+
+**Stevie Kim:** And so wherever you can automate that process is super critical, but it can be a super complicated thing to try to automate because of how subjective it can be.
+
+**Stevie Kim:** It's like what happens when that next person doesn't, there's no consensus.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Right.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Yeah, exactly.
+
+**Daniel Lopes:** Yeah.
+
+**Stevie Kim:** It can be very challenging.
+
+**Daniel Lopes:** What else?
+
+**Daniel Lopes:** I hope that helped showing a little bit of the behind the scenes.
+
+**Daniel Lopes:** What else can I answer?
+
+**Daniel Lopes:** What questions?
+
+**Stevie Kim:** I think so.
+
+**Stevie Kim:** I mean, you've touched on a couple points, but if you had to say like what the hardest problem to solve, what the harvest, there's the hardest problem, right?
+
+**Stevie Kim:** hitting that柴's, think people avoid it.
+
+**Stevie Kim:** And then there's the most
+
+**Stevie Kim:** Important problem.
+
+**Stevie Kim:** So if they're different, that's okay.
+
+**Stevie Kim:** I'd love to hear about both.
+
+**Stevie Kim:** But yeah, what's the most difficult problem to solve for the company right now?
+
+**Stevie Kim:** What's the biggest challenge?
+
+**Stevie Kim:** And what's the most important one?
+
+**Stevie Kim:** Because they're not always the same thing.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Hardest.
+
+**Daniel Lopes:** So many.
+
+**Stevie Kim:** I know.
+
+**Daniel Lopes:** The same thing that gives us a crazy amount of insights from actually being like they're like automating things for everybody is also a big challenge.
+
+**Daniel Lopes:** Like, it's essentially a decision of like, do we optimize for we optimize for your...
+
+**Daniel Lopes:** Like, Like,
+
+**Daniel Lopes:** Revenue, or do we optimize for just learning enough, you know?
+
+**Daniel Lopes:** So it's at the business level, even thinking.
+
+**Daniel Lopes:** So we grew to 7 million in annual revenue run rate.
+
+**Daniel Lopes:** And to do that, we had to, like, the original plan there was, like, we were hired ahead of time, and we planned capacity.
+
+**Daniel Lopes:** We overstaffed the content team, and we kind of did that before we were having enough platform.
+
+**Daniel Lopes:** So just predicting that every pod needs X amount of people to perform well with the tools that we had at the time.
+
+**Daniel Lopes:** We didn't have enough time to plan the training and all that.
+
+**Daniel Lopes:** So we had some folks that were not the same level as some of the pods that were with us before.
+
+**Daniel Lopes:** And because we were trying to maintain the growth.
+
+**Daniel Lopes:** trajectory and we grew from like almost nothing to seven super fast and so we hired too much like there was this like okay if we step back like why do we have the agency is to be able to understand that the what are the things that LMS can do well what are the high value things that we can they can do and how do we deploy them how do we apply them in those numbers that have real real challenges like but like how do we which ones do we do they are not I'm gonna do everything for your company because you can't essentially automate anything today almost like there's almost 80% of everything the companies do will be affected by LMS so like what is the little stuff that we do the least amount possible that will still give us the learning without having to hire 200 people a year to deliver that and then if we get to the point where I can hire 200 people we need all the assistance to do that so that the marketplace building the marketplace for example is kind of a bottleneck for us to be able to to get back
+
+**Daniel Lopes:** To growing super fast like that.
+
+**Daniel Lopes:** we essentially hit pause on growth.
+
+**Daniel Lopes:** Not on growth, but we hit pause on like the scaling of the 7 million.
+
+**Daniel Lopes:** So let's just stay here and build the tools that we need.
+
+**Daniel Lopes:** So the platform that I showed you was built to get out of the tool that we're using before called AirOps that nobody could learn.
+
+**Daniel Lopes:** So like all the teams that we hired, they were supposed to be learning AirOps.
+
+**Daniel Lopes:** None of them could do it.
+
+**Daniel Lopes:** Just the more technical ones.
+
+**Daniel Lopes:** So it's like, get rid of AirOps.
+
+**Daniel Lopes:** Build this one that's very specific to how we do things.
+
+**Daniel Lopes:** And then also now we're starting to build the marketplace, the task hub.
+
+**Daniel Lopes:** The hope there is that eventually it can be used for data labeling and all that for the kind of work we do.
+
+**Daniel Lopes:** But immediately it's just to distribute the tasks and see who is doing well enough on that task where the managing editor of that pod will qualify as good.
+
+**Daniel Lopes:** You know, so, so we don't have to have everybody like going to training and then if the recruiting fails, because we didn't do the.
+
+**Daniel Lopes:** Assignment properly, we can still catch before the content goes out, you know, or maybe the content, maybe the person is not a problem, it's the AI workflow is a problem, it's like we can debug that, so that's been the challenge, it's a mix of like humans doing the work where ALMs don't do well, us optimizing that, and then hiring humans, so it's the mix of like, it's a human in the loop, yeah, so that's the hardest and the most high-impact at the same time.
+
+**Stevie Kim:** Okay, okay, cool.
+
+**Daniel Lopes:** I think.
+
+**Stevie Kim:** I mean, it makes a lot of sense, because, I mean, like you said, you're trying to, you know, grow revenue, but optimize for learning at the same time, and those can look like very two different trajectories with hiring and building out your platform, so that's super challenging, that's but it's a fun problem.
+
+**Stevie Kim:** I think, because it's, I mean, those are always the fun problems, right?
+
+**Stevie Kim:** I mean, optimizing anything to me, like, so as an engineer, building something from scratch was never my favorite thing.
+
+**Stevie Kim:** It was optimizing, was refactoring other people's code or figuring out how to, like, you know, decrease latency or anything that I could optimize for.
+
+**Stevie Kim:** That's always what I love.
+
+**Stevie Kim:** Those are the problems that I love.
+
+**Stevie Kim:** Some other people love to build things from scratch and just, like, complete innovation.
+
+**Stevie Kim:** But me, I love the optimization part.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Well, I don't want to hold you for forever here.
+
+**Stevie Kim:** No, I had a great time talking.
+
+**Stevie Kim:** was super fun to learn more about what you guys are doing.
+
+**Daniel Lopes:** It sounds super exciting.
+
+**Daniel Lopes:** If you have any other questions that you need to ask, like, I can answer as well.
+
+**Daniel Lopes:** But I'm going to be respectful of your time.
+
+**Stevie Kim:** I'm time.
+
+**Stevie Kim:** to to to to of I'm
+
+**Stevie Kim:** Yeah, think I'm good for now, and I can email Tucker if there's any questions about Stanning.
+
+**Daniel Lopes:** Sounds good.
+
+**Daniel Lopes:** It would be a good idea.
+
+**Daniel Lopes:** The normal process would be for you to talk to Jason.
+
+**Daniel Lopes:** Jason is our head of GTM, and he is also super technical.
+
+**Daniel Lopes:** came from Kite.
+
+**Daniel Lopes:** Kite was this thing before Cursor for the Python community.
+
+**Daniel Lopes:** I think it was in there.
+
+**Daniel Lopes:** Yeah, and then he was another company called Bardeen before.
+
+**Daniel Lopes:** Bardeen did a lot of AI innovations as well, and he's super technical.
+
+**Daniel Lopes:** He understands AI workflows really well.
+
+**Daniel Lopes:** He's the most technical non-engineer on the team, and he runs a few accounts.
+
+**Daniel Lopes:** It would be nice for to talk to him.
+
+**Daniel Lopes:** And if you'd like to talk to Marcel as well, it would be...
+
+**Daniel Lopes:** It's always great to talk to Marcel.
+
+**Daniel Lopes:** Marcel, as always, it's an interesting...
+
+**Daniel Lopes:** Yeah, so like that would be more for you to get to know him and see how he thinks about things because you pretty much got a good understanding of how I think might be good idea to get how the other things.
+
+**Stevie Kim:** Yeah, no, absolutely.
+
+**Stevie Kim:** I'd love to talk to everybody that makes sense.
+
+**Stevie Kim:** I think, yeah, I started following Jason and Marcel and yourself on LinkedIn and saw he'd done some interview recently that was really interesting to listen to.
+
+**Stevie Kim:** So, yeah, I would love to talk to him.
+
+**Stevie Kim:** think that Tucker's going to be out for the next couple of days, right?
+
+**Daniel Lopes:** I can, I can get you, I'll send an email with, I'll connect you to Jason right after this, and then maybe you can talk to him before Tucker is back.
+
+**Daniel Lopes:** All right.
+
+**Daniel Lopes:** So we're not moving too slow.
+
+**Daniel Lopes:** Moving as low as that.
+
+**Daniel Lopes:** That's what Yeah,
+
+**Stevie Kim:** Something that we do here much.
+
+**Stevie Kim:** Yeah, I was like, okay, our interview process is approximately a month long.
+
+**Daniel Lopes:** Oh, no.
+
+**Daniel Lopes:** We're going to have an answer for you, like, probably by midweek next week for sure.
+
+**Daniel Lopes:** Usually it would be a couple of days after, but I'm out.
+
+**Stevie Kim:** That's July, the 4th of July, then I'm out two days next week.
+
+**Stevie Kim:** Holiday yeah.
+
+**Stevie Kim:** Well, yeah, I hope you have a fun holiday weekend and enjoy yourself.
+
+**Daniel Lopes:** Thank you.
+
+**Stevie Kim:** You too.
+
+**Stevie Kim:** All right, take care.
+
+**Daniel Lopes:** It was nice to meet you.
+
+**Daniel Lopes:** Thank you for your time.
+
+**Stevie Kim:** You too.
+
+**Daniel Lopes:** Talk to you later.
+
+**Stevie Kim:** Bye.
+
+**Stevie Kim:** Bye.

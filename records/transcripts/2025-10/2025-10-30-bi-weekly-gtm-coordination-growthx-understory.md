@@ -1,0 +1,475 @@
+# Bi-Weekly GTM Coordination — GrowthX & Understory
+
+<metadata>
+date: 2025-10-30
+time: 18:29 UTC
+duration: 22 minutes
+organizer: Jason Gong (GrowthX)
+participants: Jason Gong (GrowthX), Alex Fine (Understory), Mark Lim (Understory)
+fathom_recording_id: 98128986
+fathom_url: https://fathom.video/calls/457642694
+share_url: https://fathom.video/share/YtUtZuiBwuJRHKnx9FsrUYiW2ij6LLPq
+source: fathom
+enriched_on: 2026-03-02 12:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Understory aligned on a webinar campaign for November 19th targeting 200–300 registrations in 2.5 weeks, with a strategy to maximize deliverability by sending 1.5k–2k daily emails to Gmail-only accounts to bypass Outlook's AI spam filters. Mark will build the audience from companies with ≥$5M funding, launch a Triggerify campaign via Clay to capture high-intent LinkedIn engagers (targeting keywords like "SERGIO" and "AI"), and document reusable Clay assets in Notion. Jason flagged Clay access as the blocker and committed to confirming that Kyle grants Mark admin rights today.
+
+---
+
+## Context
+
+GrowthX has partnered with Understory (a go-to-market services firm) as a joint GTM client/partner to co-execute webinar campaigns. This is a recurring bi-weekly coordination meeting where Jason (GrowthX) briefs Mark and Alex (Understory) on campaign goals and strategy, and they collaborate on execution details: list building, email copy, deliverability, and launch logistics. The meeting was lightly attended (three actual speakers out of six invitees), with Tyler, Naufal, and Natalia marked on the calendar but not participating. The discussion centered on the next webinar promotion—a shift from Understory's typical event focus to high-volume email + LinkedIn engagement campaigns using Clay infrastructure that Jason manages.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Webinar targeting is expanding beyond B2B SaaS to any company with ≥$5M funding and Gmail inboxes, reflecting a shift toward volume-driven campaigns with relaxed segmentation.
+- Gmail-only targeting is a direct deliverability strategy to bypass Outlook's AI spam filters—critical for scaling outreach volume.
+- Clay is the central infrastructure for list building, enrichment (costing 10k–15k credits per campaign), and Triggerify integration for LinkedIn-based lead capture.
+- The Notion toolkit for reusable Clay assets (e.g., "AI Teams Enrichment Table") is now being documented to reduce redundant work across campaigns.
+
+**To GrowthX Business Development:**
+- Understory is executing webinar campaigns at volume scale, with a Nov 19th event aiming for 200–300 registrations using 1.5k–2k daily emails.
+- Alex's Triggerify strategy (monitoring LinkedIn engagement on keywords like "SERGIO" and "AI," filtering against HubSpot to avoid duplicates, and sending personalized outreach) is already yielding high-intent leads—Alex reported 2 qualified leads on day one.
+- This is a high-velocity, data-driven partnership: Jason sets campaign goals, Understory reverse-engineers the audience and volume needed, and execution is gated only on Clay access confirmation.
+
+---
+
+## Overview
+
+- **Goal Set:** Drive 200–300 registrations for the Nov 19 webinar, a realistic target given the 2.5-week timeline and past performance (1k registrants with heavy promotion vs. 400–500 with light effort).
+- **Strategy Shift:** Maximize volume by sending 1.5k–2k emails daily, targeting only Gmail accounts to bypass Outlook's AI spam filters and ensure high deliverability.
+- **New Lead Source:** Launch a Triggerify campaign in Clay to capture high-intent leads by monitoring LinkedIn for engagement on posts with keywords like "SERGIO" and "AI."
+- **Asset Centralization:** Consolidate all reusable Clay tables (e.g., AI Teams Enrichment) into a central Notion doc to create a shared "toolkit" and prevent redundant work.
+
+---
+
+## Key Topics
+
+### Webinar Campaign Strategy
+
+  - **Goal:** 200–300 registrations for the Nov 19 webinar.
+  - **Execution:** Maximize daily email volume (1.5k–2k) to hit the registration target.
+  - **Audience:** Broaden targeting beyond B2B SaaS to any notable company, as the webinar's topic ("AI for marketing") has wide appeal.
+  - **List Building:**
+      - **Filter:** Target companies with ≥$5M in funding.
+      - **Rationale:** This funding threshold is a proxy for Seed-stage companies, ensuring a focus on established but not enterprise-level businesses.
+      - **Enrichment:** Use 10k–15k Clay credits to enrich funding data.
+      - **Deliverability:** Target only Gmail accounts to bypass Outlook's AI spam filters and maximize inbox placement.
+
+### New Lead Source: Triggerify Campaign
+
+  - **Concept:** A new lead source to capture high-intent prospects by monitoring LinkedIn engagement.
+  - **Process (based on Alex's successful campaign):**
+    1.  **Monitor:** Triggerify scans LinkedIn for engagement on posts with keywords (e.g., "SERGIO," "AI").
+    2.  **Filter:** New leads are added to a Clay table and filtered against HubSpot to remove existing contacts.
+    3.  **Enrich:** Find and validate email addresses and LinkedIn profiles.
+    4.  **Outreach:** Send a personalized email and LinkedIn message referencing the specific post engagement.
+  - **Execution:** Mark will launch this campaign ASAP using Clay credits.
+
+### Asset Centralization
+
+  - **Problem:** Reusable Clay tables are not consistently documented, leading to redundant work.
+  - **Solution:** Create a central Notion doc to serve as a "toolkit" for all shared assets.
+  - **Action:** Mark will document the "AI Teams Enrichment Table" in Notion, including its function and usage instructions.
+
+---
+
+## Action Items
+
+**Mark Lim**
+- Launch webinar outreach w/ Gloria's copy; send 1.5–2k/day via Jason's inbox to Gmail-only
+- Build webinar audience: ≥$5M funding, Gmail-only; share Clay list w/ Jason; document in Notion
+- Set up Clay Triggerify for LinkedIn engagement; target 'SERGIO' + AI keywords; notify Jason if help needed
+
+**Jason Gong**
+- Ping Kyle re: Clay access for Mark; confirm granted
+
+---
+
+## Transcript
+**Alex Fine:** Thank Jason, can you hear me?
+
+**Alex Fine:** Hey.
+
+**Jason Gong:** Yep.
+
+**Jason Gong:** What's going on?
+
+**Alex Fine:** I get a notification that this is being live streamed.
+
+**Jason Gong:** I don't know what it's doing.
+
+**Jason Gong:** It's not like a Fathom setting.
+
+**Alex Fine:** Man, is this a webinar?
+
+**Alex Fine:** Is this one of the events?
+
+**Jason Gong:** Like multiple people brought this up, but I just have never figured out like.
+
+**Alex Fine:** Where are being live streamed?
+
+**Alex Fine:** It's like, I feel like we're in some other country just being live streamed.
+
+**Jason Gong:** There's some big, big monitor where you're huge, I don't know, in India or somewhere.
+
+**Alex Fine:** Hey, Mark.
+
+**Mark Lim:** Hey, Alex and Jason.
+
+**Jason Gong:** Yeah, I don't know how this, hey, Mark.
+
+**Jason Gong:** It might just be me today.
+
+**Jason Gong:** Let's see.
+
+**Jason Gong:** It's going to, because Gloria's on vacation, and then who else shows up to this thing?
+
+**Jason Gong:** Yeah, then Tyler said he can't make it.
+
+**Jason Gong:** So, yeah, it'll just be me today.
+
+**Jason Gong:** Okay.
+
+**Alex Fine:** I mean, plenty to talk about.
+
+**Jason Gong:** I think we, yeah.
+
+**Jason Gong:** Yeah, I was just going to let you know.
+
+**Alex Fine:** So I debriefed with Mark after you and I spoke on Friday on just kind of the direction we want to take.
+
+**Alex Fine:** So Mark is up to date there.
+
+**Alex Fine:** But, yeah, go ahead.
+
+**Alex Fine:** If there's something you wanted to talk about, too, go ahead.
+
+**Jason Gong:** No, we sent the message in the Slack.
+
+**Jason Gong:** Basically, like, we're just trying to get the ball rolling on a new webinar instead of events.
+
+**Jason Gong:** And we tried.
+
+**Jason Gong:** To be as detailed as possible, you know, with everything, like copy, we want to send it to.
+
+**Jason Gong:** So I would love to see where we're at on that.
+
+**Mark Lim:** Yeah, sure.
+
+**Mark Lim:** So I just received a message from Gloria this morning.
+
+**Mark Lim:** I was, I guess, yeah, maybe yesterday for you guys.
+
+**Mark Lim:** But, yeah, I'm now working on the list building.
+
+**Mark Lim:** And I noticed that the, she said, Gloria said that she included the copy, but I don't see the copy.
+
+**Mark Lim:** So do you want me to write one?
+
+**Mark Lim:** No, it's in there.
+
+**Jason Gong:** There's a tab on the left for email and LinkedIn.
+
+**Jason Gong:** Maybe you missed that.
+
+**Mark Lim:** Oh, yeah, now I see it.
+
+**Mark Lim:** Yeah.
+
+**Mark Lim:** Right.
+
+**Mark Lim:** Yeah, so I can launch it this way.
+
+**Mark Lim:** Yeah.
+
+**Mark Lim:** And also, for the Triggerify access, I asked Kyle for access, and I'll ping him.
+
+**Mark Lim:** So if you could, like, ping him again, maybe.
+
+**Jason Gong:** Yep.
+
+**Jason Gong:** Let me think right now.
+
+**Jason Gong:** Yeah, we should be able to get that to you today. I know he was hard at work on that list.
+
+**Mark Lim:** Yeah, no worries.
+
+**Mark Lim:** And also, you guys wanted to target companies that at least went through seed round.
+
+**Mark Lim:** So to do that, we would need to enrich the funding data on clay.
+
+**Mark Lim:** So...
+
+**Mark Lim:** So wondering if that will be okay.
+
+**Mark Lim:** Like it will spend up to like 10K or like 15K clay credits or something.
+
+**Mark Lim:** So that's totally fine.
+
+**Jason Gong:** I mean, can you share a little bit more about just like how you're building out this audience?
+
+**Jason Gong:** Because I guess to me, it's like, I guess when I think about like marketing people that aren't super junior at our criteria of company, there's probably like thousands and thousands of them.
+
+**Jason Gong:** Like, is that a list you just build once and then it's somewhere or like every time you kind of have to like rebuild a piece of that?
+
+**Mark Lim:** Yeah.
+
+**Mark Lim:** So I have built a similar list for your previous campaign, I think.
+
+**Mark Lim:** So what I am working on right now involves the list that we built previously, and then we're adding more leads. Using Clay to enrich more context that way.
+
+**Jason Gong:** I guess what I'm getting at is, like, there's some notion in my mind of, like, I would love to map our universe of accounts as big as that is and just, like, have one place for it that we could look at. I feel like it'd be better maybe in a Clay table. Just to avoid noise, we could do that.
+
+**Alex Fine:** We could do that.
+
+**Alex Fine:** Just write to another table.
+
+**Alex Fine:** Mark can only write the company name and the contact.
+
+**Jason Gong:** Well, I mean, isn't this getting built in our Clay account?
+
+**Jason Gong:** So, like, it's not just a table you could, because you just asked about, like, using credits there.
+
+**Jason Gong:** And then on that, I see it's, like, 5 million in funding. Is the funding part the stuff you need clay credits for, or the fact they've raised a seed round? Because I feel like funding would probably... Did we do that last time, or no?
+
+**Mark Lim:** Yeah, we did that last time, and yeah, for funding, we need to spend clay credits.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I mean, I don't know if raise seed round is a separate thing, but that one's not needed.
+
+**Jason Gong:** Like, as long as they raised 5 million, that's fine.
+
+**Jason Gong:** I mean, it's kind of just some arbitrary number where we just want to avoid contacting a bunch of random companies, whether it's 5 or 3, honestly, it doesn't matter.
+
+**Mark Lim:** So you just want to filter by 5 million funding, not, like, seed round?
+
+**Mark Lim:** Or, like, how does it...
+
+**Jason Gong:** Yeah, yeah, just 5 million funding's good.
+
+**Jason Gong:** I mean, 5 million is probably just seed round anyway, so.
+
+**Mark Lim:** Yeah, I can just cross it out then.
+
+**Mark Lim:** Okay.
+
+**Mark Lim:** Yeah, I will apply that.
+
+**Mark Lim:** And yeah, we still need to spend the Clay credits for the funding amounts too.
+
+**Mark Lim:** So yeah.
+
+**Mark Lim:** That's fine.
+
+**Jason Gong:** I mean, I in my mind, the benefit of like you doing this in our account is like we can see that list.
+
+**Jason Gong:** Otherwise, I mean, I would love to save a few hundred bucks to not use our click credits.
+
+**Jason Gong:** So if you're doing it in my account, like that big list of companies, like if we could kind of make that a thing that we can reference in other work that we do as well.
+
+**Jason Gong:** Like just point me, point me to it and it sounds like it's already built, you know, I can get some feedback maybe.
+
+**Mark Lim:** Yeah, it's already built and I was planning on adding more leads and for those new leads, we have to enrich funding data.
+
+**Mark Lim:** So yeah, every list you will have access to and you can see it on the GrowthX Clay instance.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Yeah, I flagged this to Kyle already, so he should send you something soon.
+
+**Mark Lim:** Yeah, and also, I see that you guys can pull a specific list for enterprise, so I'm wondering what that means exactly. Did Gloria write this?
+
+**Jason Gong:** Yeah, let me see.
+
+**Jason Gong:** New list, unknown, B2B SaaS.
+
+**Jason Gong:** So yeah, I don't really care if they're B2B SaaS even.
+
+**Jason Gong:** I know we get that information from the company type, but you can scratch that as well.
+
+**Jason Gong:** Like, I mean, with the webinars, honestly, we can be as broad.
+
+**Jason Gong:** I think it's just like, I mean, maybe there's some segmentation to get the response rates higher. Hopefully that's something you guys can just do on your end, but really for our community, it's like we're just teaching people how to use AI for marketing.
+
+**Jason Gong:** So like any person that has a relatively high intent who would like pay some money for that, like we'd be okay with that.
+
+**Jason Gong:** So like, I guess don't blast hooks, you know, in like India or something, but otherwise, or at least not like without them working at a company that's notable, but otherwise you can, you can honestly contact anybody there.
+
+**Jason Gong:** And success is just like, we had a gigantic webinar, you know?
+
+**Jason Gong:** Okay.
+
+**Mark Lim:** Yeah, if that's the case, then what we can do is to maximize our deliverability by sending only to Gmail accounts because Outlook accounts have an AI spam filter, so it's really hard to break through.
+
+**Mark Lim:** So I'll definitely build a bigger list that only targets Gmail, so we land in their inbox more and the results will be way better. Enterprise SaaS companies usually use Outlook or a custom email server, so it's hard to break through. With what you just shared, I can work on the list further and improve deliverability.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** I guess, any thoughts on a goal for this campaign? So, how many people do you think we could get? We have roughly two and a half weeks till the actual event.
+
+**Alex Fine:** So if you give us the actual goal, like the number of registrations, that helps us be able to reverse engineer from a data and infrastructure perspective to know how many contacts we need to pull, how many emails we need to send, how many LinkedIn messages we need to send, if we need more profiles on LinkedIn, like things like that.
+
+**Alex Fine:** So if you tell us the number you want, we'll reverse engineer it and try to get there.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I mean, really, it's kind of unlimited, but as far as a goal, we've had three in recent memory. The one where we probably spent the most time was when I threw up a few campaigns and Marcel and I made some posts on LinkedIn and some newsletter sponsorships.
+
+**Jason Gong:** We got a thousand registrants with heavy promotion, and then two recent ones were around 400 to 500 without much effort. If you guys could drive 200 or 300 for this one, I feel like that would be a win, and anything beyond that would be extra.
+
+**Alex Fine:** How much infrastructure do we have, Mark, in the fall for growthx?
+
+**Alex Fine:** How many emails can we send in on a daily basis?
+
+**Mark Lim:** Yeah, so roughly 1.5K to 2K emails a day.
+
+**Alex Fine:** Okay.
+
+**Alex Fine:** Well, let's just max it out on volume for marketing leaders.
+
+**Alex Fine:** Well, let's max it out on volume for marketing leaders at these funded companies. Every single day. With that kind of volume, we should be in a decent place to hit the registration goal.
+
+**Jason Gong:** Okay, I mean, I'll leave it to you guys to, like, experiment, because I guess, you know, like, I'm just thinking in my head, if I was doing this, like, I would segment and I would try different things, but.
+
+**Alex Fine:** Well, yeah, but regardless, if we're pushing out that much volume, regardless of how we segment it, if we get that much volume out, that's going to be the key here.
+
+**Jason Gong:** Okay, okay, sounds good.
+
+**Jason Gong:** Like, I will say, if you are experimenting, do it under my email.
+
+**Jason Gong:** Like, I know happy inboxes are mine, and then I think you're warming some up for Gloria as well, like, just.
+
+**Jason Gong:** For Marcel stuff, like, you know, like, the copy we did, I think he'd be fine sending under his name.
+
+**Jason Gong:** But I guess if you guys, like, just to give you more freedom, like, just if you want to say something weird, just say it from my account, so it doesn't somehow go back to Marcel.
+
+**Jason Gong:** Because I think we're probably contacting people he knows, like, it's kind of unavoidable.
+
+**Alex Fine:** Yep.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Anything else to update?
+
+**Mark Lim:** Yeah, so just last week, I was working on the AI Teams Enrichment Table, and that was really helpful.
+
+**Jason Gong:** Thank you for doing that.
+
+**Jason Gong:** That's also one where it's like, I imagine you're building a clay table where, like, that infrastructure is there now, and I can just add a new row, you know?
+
+**Jason Gong:** So if there's, like, a Notion spot where you can just document what some of these resources you create are that can be a little bit more long-lived, and I can use, like, a little toolkit, that would be really helpful.
+
+**Jason Gong:** I think I made a Notion space for you guys.
+
+**Mark Lim:** Yeah, yeah.
+
+**Mark Lim:** I can add, like, what this table can do and when you need it, so whenever you have new leads that you want to enrich, then I can just use it.
+
+**Mark Lim:** So yeah, I will just update it on the Notion doc.
+
+**Jason Gong:** So I find myself recreating the same Clay table because I do a bad job of organizing, and I end up scraping lists from other places like other people's events and communities.
+
+**Mark Lim:** Yeah, so it's on the timeline to do that after we launch this new November 19th workshop promotion campaign.
+
+**Jason Gong:** Yeah, and as you said, we can pull this from Pavilion, Exit 5, and other relevant data sources that you shared on the Notion doc.
+
+
+**Jason Gong:** Yeah, I guess that's it from my side.
+
+**Alex Fine:** The other thing, Mark, that I want to do is identify posts on LinkedIn where people are engaging with content about SERGIO and AI, and send them personalized messages.
+
+**Alex Fine:** For context, Jason, I just spun up a campaign for us last night, or I launched it this morning, I guess.
+
+**Alex Fine:** We already got two leads from it today.
+
+**Alex Fine:** And these aren't even just webinar signups.
+
+**Alex Fine:** These are actual leads that are interested in working with us.
+
+**Jason Gong:** So you're using Triggerify within Clay? How did that work? Is it end-to-end where you give it a topic and it mines the data, or do you have to give it actual posts?
+
+**Alex Fine:** No, you don't need to give a post. You can just have it scan keywords.
+
+**Jason Gong:** I've been playing around with this CIF data thing.
+
+**Jason Gong:** I mean, you met the guy who came to the event, and it's kind of interesting.
+
+**Jason Gong:** I have it just monitoring profiles, and then you give it an ICP, and then I guess it's looking at all the engagements with the post and filtering out the people, and then that goes into this.
+
+**Jason Gong:** I haven't really built anything with this, but it's like, okay, I mean, this is a sales lead, but like, this person would be cool if I just invited her to a workshop or event.
+
+**Jason Gong:** You know, like, is it something, is it similar to this, or a little bit different?
+
+**Alex Fine:** Let me look at them.
+
+**Alex Fine:** Kind of.
+
+**Alex Fine:** I mean, basically think about it like this.
+
+**Alex Fine:** The way I have it set up is it scans for keywords like go-to-market engineering, paid media, paid ads, outbound, and smart lead tools. Every single day it refreshes and adds leads to the Clay table.
+
+**Alex Fine:** I filter the Clay table through our HubSpot to identify whether it's someone we already have, then I find their LinkedIn address and email address, validate the email, and send them both an email and a LinkedIn message.
+
+**Alex Fine:** My message is pretty hilarious. It says, "Hey, I'll be honest. I was going through your liked LinkedIn posts. I know that's a little bit creepy, but I guarantee you I'm not the only one doing it. It's 2025. It seems like we have a lot of common interests specifically in Clay and go-to-market engineering. I'm curious if it's helpful if I share a couple workflows that are working exceptionally well."
+
+**Jason Gong:** And then they're like, "Yes, and I'm also interested in exactly how you built this one because we're in the market for that."
+
+**Jason Gong:** Yeah, that's cool. But with you guys, it makes perfect sense.
+
+**Alex Fine:** It's like finding people that are talking about the topics we care about.
+
+**Alex Fine:** We can also just follow individual accounts like your competitors.
+
+**Alex Fine:** If we wanted to look at Profound, for example, we could just do that and just capture all their engagement.
+
+**Alex Fine:** But it's something I want to start doing immediately, especially for these webinar campaigns, because if somebody already has that high intent and they're looking for solutions for GEO, SEO, whatever, why would they not want to come to the webinar?
+
+**Jason Gong:** Yeah, that makes sense. If we can do that, that would be awesome.
+
+**Alex Fine:** Yeah, Mark, let's just spin those up ASAP.
+
+**Mark Lim:** Do we have access to Triggerfy there?
+
+**Alex Fine:** It's native within Clay, so you can use Clay Credits for it.
+
+**Alex Fine:** If you guys want to buy Triggerfy, you could.
+
+**Alex Fine:** You don't really need to.
+
+**Jason Gong:** Yeah, if we could just use Clay Credits, let's do that.
+
+**Alex Fine:** Yeah, sure.
+
+**Mark Lim:** That sounds cool.
+
+**Jason Gong:** And, Mark, let me know if you need help setting it up.
+
+**Mark Lim:** Yeah, I will let you know. I've built multiple Triggerify tables.
+
+**Alex Fine:** No, I know you know how to do it. But if you need any help at all, let me know.
+
+**Jason Gong:** Cool. The sooner we can roll out the campaigns the better. I know it's blocked on Kyle, I'll bug him.
+
+**Jason Gong:** But once you have that set up, just let me know.
+
+**Mark Lim:** Yeah, sure.
+
+**Alex Fine:** Cool.
+
+**Jason Gong:** All right.
+
+**Jason Gong:** Thank you all.
+
+**Mark Lim:** Bye.
+
+**Jason Gong:** Bye.

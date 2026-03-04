@@ -1,0 +1,781 @@
+# Alex AI <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-09-16
+time: 17:31 UTC
+duration: 30 minutes
+organizer: team@growthxlabs.com
+participants: Donald Donckers (Alex AI), Aida Knezevic (GrowthX), Nathalie Schrans (GrowthX)
+speaker_note: Only three speakers active in the transcript; George Haikal and Aaron Wang were on the calendar invitee list but did not participate. "John" reference at line 97 appears to be a transcription artifact or misidentification of Donald Donckers.
+fathom_recording_id: 87633786
+fathom_url: https://fathom.video/calls/410410461
+share_url: https://fathom.video/share/ER-VgexXVCT491fA3ryYBcByVwxZ3UFh
+source: fathom
+enriched_on: 2026-03-03 15:42 UTC
+</metadata>
+
+---
+
+## Summary
+
+Alex AI's Donald Donckers and GrowthX's Aida Knezevic and Nathalie Schrans aligned on content strategy refinements, with Donckers approving the second version of the blog while requesting a shift from product-focused messaging to general industry guidance. The team set up a Looker dashboard for performance tracking across Google Search Console and GA4 data, and deployed Scrunch AI to monitor Alex AI's visibility across 140 prompts. Next steps include producing 2 blogs this week ramping to 5 per week, setting temporary image guidelines pending the website redesign, and clarifying conversion event definitions in the dashboard.
+
+---
+
+## Context
+
+Alex AI is a recruiting platform that uses AI to conduct interviews. They've engaged GrowthX for B2B content marketing and SEO strategy. Donald Donckers, Alex AI's Head of Marketing, is managing a major conference presence (HR Tech in Las Vegas) and coordinating the content production pipeline. The relationship appears to be in the calibration phase, where GrowthX is working with Alex AI to refine messaging and establish performance baselines. Alex AI is undergoing a complete website redesign that will impact blog image requirements.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Alex AI prefers "AI recruiting partner" over "AI recruiter" in all messaging — incorporate this language preference into content artifacts and templates. The client is shifting from product-heavy content to SEO-driven general guidance (4-week implementation plan written as industry best practices, not Alex-specific). Consider developing separate content sections (via blog filters or guides) to keep product announcements distinct from SEO content as the volume scales to 5 posts/week.
+
+- **To CheckThat:** Scrunch AI visibility tracking is core to Alex AI's strategy — monitoring presence in 140 prompts with plans to add more custom prompts. Reddit, G2, TrustRadius, and company website are the highest-impact sources for LLM citations. Bottom-of-funnel content and product update timelines on review platforms matter significantly for AI visibility.
+
+- **To GrowthX Business Development:** Account shows strong health signals — eager to scale content production and established baseline metrics via Looker dashboard. Donald Donckers is actively managing approvals and feedback loop. Website redesign timeline is a near-term dependency; temporary image workflows bought time. LLM referral traffic is already a priority and key metric they want to track.
+
+
+
+---
+
+## Overview
+
+- Blog content improvements: Reduce product mentions, focus on implementation guidance and industry best practices
+- Performance tracking: New Looker dashboard and Scrunch AI visibility tool set up to monitor content impact
+- Content production: Ramping up to 2 blogs/week, aiming for 5/week; focusing on SEO-driven topics
+- Visual identity: Temporary image guidelines needed for initial blog posts, pending full website redesign
+
+---
+
+## Key Topics
+
+### Content Strategy Refinement
+
+  - Blog v2 shows significant improvement; focus on reducing direct product mentions
+  - Shift language from "AI recruiter" to "AI recruiting partner" for better positioning
+  - Incorporate bias audit information, linking to third-party audit page (trust.warden-ai.com)
+  - Implement a 4-week plan as general industry guidance rather than Alex AI-specific
+  - Consider future separation of product announcements from SEO content, potentially via filtered blog views
+
+### Performance Tracking Setup
+
+  - Looker dashboard created with access to Google Search Console and GA4 data
+  - Key metrics: sessions vs. engaged sessions, landing page performance, query ranking distribution
+  - Conversion events tracking set up; needs clarification on specific event meanings (e.g., form submit, form start)
+  - LLM referral breakdown shows traffic sources from various AI platforms
+
+### AI Visibility Monitoring
+
+  - Scrunch tool implemented to track Alex AI's presence in AI prompts
+  - 140 initial prompts uploaded; more can be added as needed
+  - Reddit, company website, and review platforms (G2, TrustRadius) identified as crucial for LLM visibility
+
+### Visual Identity Updates
+
+  - Website undergoing complete redesign; will impact blog image guidelines
+  - Temporary image creation workflow to be set up by Katya (designer) for initial blog posts
+  - New custom fonts to be shared for consistent branding
+
+---
+
+## Action Items
+
+**Aida Knezevic (GrowthX)**
+- Create 2 blog posts from approved Airtable assignments
+- Have Katya create temp featured images for blog posts based on current site
+- Check with data team regarding conversion events error in Looker dashboard
+
+**Donald Donckers (Alex AI)**
+- Send new brand font information and updated visual identity guidelines for blog post images by end of day
+
+**Nathalie Schrans (GrowthX)**
+- Send meeting recap and action items via Slack after the call
+
+---
+
+## Transcript
+
+**Donald Donckers:** Hey, good morning.
+
+**Nathalie Schrans:** Hey, good morning. Yeah, I can hear you.
+
+**Donald Donckers:** How's it going?
+
+**Aida Knezevic:** Good, good.
+
+**Nathalie Schrans:** Good, things are good.
+
+**Nathalie Schrans:** How are things for you, Alex?
+
+**Donald Donckers:** Good, good, busy.
+
+**Donald Donckers:** We were like full on in conferences.
+
+**Donald Donckers:** I was like last week, all of last week in Dallas and now I'm in Vegas.
+
+**Donald Donckers:** That's cool.
+
+**Nathalie Schrans:** It's conferences.
+
+**Donald Donckers:** It's like this week is HR tech, which is like the big one here in like anything HR.
+
+**Donald Donckers:** So like companies like Rippling and Workday, they all have like these massive, super expensive booths that are basically houses.
+
+**Nathalie Schrans:** Wow, yeah.
+
+**Donald Donckers:** You can see that they spend so much money on it.
+
+**Donald Donckers:** They're like building up like walls and stuff.
+
+**Donald Donckers:** It's crazy.
+
+**Donald Donckers:** It's cool.
+
+**Nathalie Schrans:** Do you all have a booth there or anything else?
+
+**Nathalie Schrans:** Yeah.
+
+**Nathalie Schrans:** We're just attending.
+
+**Donald Donckers:** Okay, cool.
+
+**Donald Donckers:** We have a booth and I'm trying to organize that.
+
+**Donald Donckers:** I'm like in charge of that as well as everything else for marketing.
+
+**Donald Donckers:** So let's see.
+
+**Aida Knezevic:** That must be fun.
+
+**Aida Knezevic:** Whenever I think of like conference booths, I think of that episode from Silicon Valley.
+
+**Aida Knezevic:** I don't know if you watch the show where they go to this like tech conference and their booth is like the worst one.
+
+**Donald Donckers:** They just have like these like flyers.
+
+**Donald Donckers:** No, it was like last week we had one in Dallas and the  like, you know, the back banner, the company that shipped it to us like, well, like they shipped it too late and then FedEx didn't deliver it on the time that it needed to deliver.
+
+**Donald Donckers:** So we didn't have a banner.
+
+**Donald Donckers:** So our banner was just like the curtain that they hang in and a little paper with Alex AI.
+
+**Aida Knezevic:** That was it.
+
+**Donald Donckers:** Oh man, that sucks.
+
+**Donald Donckers:** I was like, oh my god, like can't happen again.
+
+**Donald Donckers:** And I'm like, I know, I know.
+
+**Donald Donckers:** So I was like stressing like crazy for this booth, but it's all good.
+
+**Aida Knezevic:** It's up.
+
+**Donald Donckers:** Yeah.
+
+**Aida Knezevic:** It's over.
+
+**Aida Knezevic:** And it's the most important thing.
+
+**Donald Donckers:** It's over.
+
+**Donald Donckers:** Yeah.
+
+**Donald Donckers:** And our direct competitors, they were like next to us the last week.
+
+**Donald Donckers:** And now they're also like right by us, but like they're going to have exact same booths and we're going to go from one to like, a huge difference.
+
+**Donald Donckers:** So yeah, that's good.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** So I see that, did you have a chance to take a look at like the second version of the blog?
+
+**Donald Donckers:** Do you think it's better?
+
+**Donald Donckers:** I think it's a huge improvement.
+
+**Donald Donckers:** Okay.
+
+**Nathalie Schrans:** Yeah, it's great to hear.
+
+**Donald Donckers:** The one thing that I was like thinking about was like the last three sections are just like basically selling Alex AI.
+
+**Nathalie Schrans:** I'm wondering if that's too much.
+
+
+**Nathalie Schrans:** Yeah, I mean, I think typically we aren't as product focused in our content.
+
+**Nathalie Schrans:** Aida and I were discussing this before the call.
+
+**Nathalie Schrans:** Typically we aren't as product focused, but I think something we agree that during like this calibration phase, it's helpful to kind of understand your product messaging and get your feedback there because that's the part that, you know, the first you have the most knowledge about.
+
+**Nathalie Schrans:** We want to make sure we're portraying that correctly.
+
+**Nathalie Schrans:** So I think we could definitely scale back a little bit of like the product mention and focus.
+
+**Nathalie Schrans:** But in terms of like how we're talking about, Alex, and like tying it to specific benefits and use cases, do you feel like what's in the article so far is accurate?
+
+**Donald Donckers:** I think so, yeah.
+
+**Donald Donckers:** Let me just like glance at it again.
+
+**Nathalie Schrans:** Let me see the last three sections.
+
+**Nathalie Schrans:** So like the implementation plan, Alex versus traditional, and then the conclusion.
+
+**Donald Donckers:** The one thing that I kind of was like, yeah, audit trails, it's, I can't, the one thing that is important with like, you know, AI is like when you're doing these bias audits, you need to do consistently like bias audits as part of like the, yeah, it's like a, it's like a, it's like a crucial requirement for, yeah, for a product like, especially in recruiting.
+
+**Donald Donckers:** And so like, talking about like, you know, that and maybe linking to the bias page that we have, like, you know, we use this third party bias auditor that's constantly analyzing a lot of our interviews, you know, making sure that there's no bias introduced into our interview process.
+
+**Donald Donckers:** I think it's an important one.
+
+**Nathalie Schrans:** Is it, this page, this blog that you're talking about?
+
+**Donald Donckers:** Priora passes third party bias audit?
+
+**Donald Donckers:** I think so, yeah.
+
+**Nathalie Schrans:** Okay, I just shared it in the chat, but I want to make sure.
+
+**Donald Donckers:** Let me, let me, in the chat here.
+
+**Donald Donckers:** Yeah, so, and if you look in there, there's going to be a link to it.
+
+**Donald Donckers:** So, yeah, the bias report here in the blue section, update.
+
+**Donald Donckers:** If you click on that, you go to trust.warden-ai.com, and then, and you're going to see this, like this.
+
+**Nathalie Schrans:** Okay, I see it.
+
+**Donald Donckers:** And so, like, this is, you know, consistent, you know, this is a process that we always do.
+
+**Donald Donckers:** So, yeah.
+
+**Donald Donckers:** Okay.
+
+**Donald Donckers:** So, there's now, now there's, like, laws, you know, and there's, like, a law in the European Union, New York City.
+
+**Donald Donckers:** So, you know, if you're not doing this, you could be breaking the law.
+
+**Nathalie Schrans:** Okay, yeah, it's good to know.
+
+**Nathalie Schrans:** Okay.
+
+**Nathalie Schrans:** Going back to your feedback, basically, you're saying these last three sections, like your four-week implementation plan, Alex versus traditional interview tools, and then the conclusion.
+
+**Nathalie Schrans:** I mean, we definitely need the conclusion, of course, to mention Alex.
+
+**Nathalie Schrans:** And I do agree that I think overall this piece is a little more product-heavy than we would typically do.
+
+**Nathalie Schrans:** So, yeah, I'd love your feedback on, like, how much product messaging you want in here.
+
+**Donald Donckers:** We do basically mention Alex in every section.
+
+**Nathalie Schrans:** And I think, I do think, I like having this implementation plan because it shows, kind of like what you said, that, like, Alex isn't something that you need to spend a lot of time setting up or configuring.
+
+**Nathalie Schrans:** And you have a team that's doing most of the heavy lifting for you.
+
+**Nathalie Schrans:** But I do think maybe we can...
+
+**Nathalie Schrans:** wanted to cut back a little on the Alex mentions.
+
+**Nathalie Schrans:** I can incorporate, because I was looking through your case studies when we were editing this.
+
+**Nathalie Schrans:** So you have really strong case studies for showing how other companies have benefited from using Alex.
+
+**Donald Donckers:** And I think all in all, it's great.
+
+**Donald Donckers:** Maybe the four-week implementation plan is like, instead of specifically mentioning Alex, it's kind of like, the angle should be, you know, this is what you should be expecting.
+
+**Nathalie Schrans:** You should look for.
+
+**Donald Donckers:** Yeah, look for.
+
+**Donald Donckers:** And like, if you don't get that, you're not, you know, you're not getting, you're not talking to the right company.
+
+**Donald Donckers:** And then the same with Alex versus, you know, an AI recruiter versus traditional interview, you know, like, this is what you need to look for, right?
+
+**Donald Donckers:** And then just like, have the closing section be talking about Alex AI.
+
+**Nathalie Schrans:** Okay, let me just write that.
+
+**Donald Donckers:** And I think like, yeah, all in all, you know, the thing that we also, I keep seeing is like, you're talking about like an AI recruiter and we, we like to refer to Alex as like a recruiting partner because like an AI recruiter implies that they're replacing a recruiter and that's not like how we think of it.
+
+**Nathalie Schrans:** Yeah, I think in the, the revised version, I'm just double checking to make sure that we don't say AI recruiter.
+
+**Nathalie Schrans:** I think, yeah, we corrected everything to AI recruiting partner or autonomous AI recruiting partner.
+
+**Donald Donckers:** Yeah, I remember when I was, when you shared it with me and I clicked on the link, it by default opened V1 and I started reading it and I was like.
+
+**Nathalie Schrans:** Oh, okay.
+
+**Nathalie Schrans:** Yeah.
+
+**Nathalie Schrans:** Let make sure.
+
+**Donald Donckers:** Yeah, mine is sent because it's in a different tab.
+
+**Nathalie Schrans:** Yeah, V2.
+
+**Nathalie Schrans:** And we've also updated our artifacts that we use to create content to all specify like, oh, we shouldn't be saying AI recruiter, we should say AI recruiting partner and some of the other feedback that you shared, like the specific metrics.
+
+**Nathalie Schrans:** And corrected some things.
+
+**Nathalie Schrans:** Yeah, so we've updated all those artifacts and those will go into our content production process.
+
+**Nathalie Schrans:** So moving forward, all of those like specific details, metrics, word, like language preference will be incorporated.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** Amazing.
+
+**Aida Knezevic:** Nice.
+
+**Aida Knezevic:** I think we can do, so now we've got like the calibration blog set up.
+
+**Aida Knezevic:** I think we can do two blogs this week and then like slowly ramp up to five.
+
+**Aida Knezevic:** That's like our goal.
+
+**Aida Knezevic:** So I think we can pick, we'll pick two from the assignments that you approved already in Airtable and we'll just take it from there.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** And in terms of, because right now we have a blog, but, you know, historically I've always, for SEO content, know, at SimSara, we had like, you we had our blog, which was more like announcements.
+
+**Donald Donckers:** And then we had like a guides that was more so like our SEO content.
+
+**Donald Donckers:** Is that something that.
+
+**Donald Donckers:** We should be doing free for this as well.
+
+**Donald Donckers:** Like, what do you think it doesn't make sense?
+
+**Aida Knezevic:** I mean, not necessarily.
+
+**Aida Knezevic:** We've had, I think if you have like, if you have plans to really like expand, like the, I think the guide section is more like for actual guides.
+
+**Aida Knezevic:** I think people like expect maybe to see like long form content, like white papers and things like that.
+
+**Aida Knezevic:** The blog can definitely also serve for SEO content.
+
+**Aida Knezevic:** The one thing that like is a bit of an issue when you're creating a new, like a new, like a guide section is that that one doesn't have as much like SEO impact as like the blog, because the blog already has been existing for some time.
+
+**Aida Knezevic:** So that's the, it's like, that's like the one.
+
+**Aida Knezevic:** Thing that could impact the content performance if we were to create like a brand new section on the site.
+
+**Aida Knezevic:** Like as far as, you know, as far as like our opinion is concerned, we can just publish all of this on the blog.
+
+**Aida Knezevic:** But if you do want to like keep the product announcement separate, then we can also like create a separate section on the site.
+
+**Donald Donckers:** Yeah, I think like maybe we can get started with this now.
+
+**Donald Donckers:** But I do think that like moving to a guides is going to be the path forward because, you know, otherwise, like when we do a new product announcement, it's just going to be, it's just going to disappear in the volume of these SEO articles.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** And it depends like the way the, like the index page is set up.
+
+**Aida Knezevic:** You could like have different filters for different types of like, you could have announcements and stuff like that.
+
+**Aida Knezevic:** But yeah, I get what you're saying.
+
+**Aida Knezevic:** You can, we can do like redirects later if you decide.
+
+**Nathalie Schrans:** I do think it's worth, right now I see on the blog, you do have these categories.
+
+**Nathalie Schrans:** I'm not able to necessarily click them to filter, but you have customers for case studies, partnerships, insights, which look so far kind of like a little bit of like SEO blog articles.
+
+**Nathalie Schrans:** So there are these categories set up, and so I wonder if rather than, because obviously that would mean you're kind of more burden on your team to create this guides page.
+
+**Nathalie Schrans:** If maybe you could change the navigation so it's automatically sending, like right now you have in the resources drop down, there's like blog and careers, but you could do blog and then like product announcements or company news or something.
+
+**Nathalie Schrans:** And then those would just take you directly to the filter view of the blog that Aida was talking about because I do agree that in terms of SEO impact, the blogs get the...
+
+**Nathalie Schrans:** Blog page has already like been indexed and recognized by, you know, search algorithms.
+
+**Nathalie Schrans:** And then the guides page, I don't think it would be like a drastic difference, but I think it would be better to capitalize on what you already have now.
+
+**Nathalie Schrans:** Yeah, we can definitely do a separate page if that's something that you'd really prefer.
+
+**Donald Donckers:** Yeah, let's get started.
+
+**Donald Donckers:** I don't want to slow you down.
+
+**Donald Donckers:** Like, and I'm right now with the conference, so I don't think that we're also going through a complete redesign of the website as we speak.
+
+**Nathalie Schrans:** Oh, okay, yeah.
+
+**Donald Donckers:** So, like the content, the pages are going to stay.
+
+**Donald Donckers:** It's just that the branding is changing completely.
+
+**Donald Donckers:** And that will change completely.
+
+**Donald Donckers:** So that will probably impact the images that you're going to be generating, right?
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** think it's what I wanted to talk to you today.
+
+**Aida Knezevic:** If you had any sort of...
+
+**Aida Knezevic:** Visual guidelines, like, it doesn't have to be final, it doesn't have to be perfect, but for these, like, first couple of initial blog posts that we'll be publishing, we can have Katya, our designer, just set up a really simple image generation workflow and just, like, do a very simple, like, featured image and then we can replace them later once you have, like, your visual, like, identity more fleshed out.
+
+**Donald Donckers:** Mm-hmm, mm-hmm.
+
+**Donald Donckers:** Let me see what I can find on the...
+
+**Aida Knezevic:** Like, fonts, colors, like, that would be great, like, a great start, just fonts and colors.
+
+**Donald Donckers:** We have these new custom fonts, they're, like, but I, I found them, you can download them, so that's probably, uh, we need to go with, let me see.
+
+**Donald Donckers:** no...
+
+**Donald Donckers:** Yeah, I don't have it.
+
+**Donald Donckers:** Okay, let me, I need to go figure that out.
+
+**Aida Knezevic:** Yeah, don't worry about it.
+
+**Aida Knezevic:** I can tell Katya just to kind of freestyle something based on what she's seeing on your website.
+
+**Aida Knezevic:** And then, you know, it's not going to be, you know, we will change it in like a couple of weeks anyway.
+
+**Donald Donckers:** So, yeah, okay, perfect.
+
+**Aida Knezevic:** All right, nice.
+
+**Aida Knezevic:** Okay, I think that's all like on the content front.
+
+**Aida Knezevic:** I've already shared and it's linked in the agenda, but I'm going to go ahead and share my screen.
+
+**Aida Knezevic:** So we created a Looker dashboard for you right now.
+
+**Aida Knezevic:** Now, so to pull back.
+
+**Aida Knezevic:** So that's why we needed access to your Google Search Console in GA4 to create this dashboard for you.
+
+**Aida Knezevic:** And you should have editing access to it, and you should be able to share access with anybody else that wants to see it.
+
+**Aida Knezevic:** Basically, it consists of, like, a couple of pages.
+
+**Aida Knezevic:** And the first page kind of breaks down the overall sessions versus engaged sessions.
+
+**Aida Knezevic:** The engaged sessions on your site are, like, sessions that either lasted longer than 10 seconds, included a page scroll, or included a click on a link on your page.
+
+**Aida Knezevic:** So basically, it's the opposite of bounce rate.
+
+**Aida Knezevic:** So pages with a low bounce rate have a high engagement rate.
+
+**Aida Knezevic:** So you can see, like, out of, like, the all sessions, which are in purple, this is the percentage of sessions that is, has been, that's engaged.
+
+**Aida Knezevic:** And it's broken down by week.
+
+**Aida Knezevic:** Right now, we're in this week.
+
+**Aida Knezevic:** So that's why it's so low.
+
+**Aida Knezevic:** But this is like the entirety of your website.
+
+**Donald Donckers:** Perfect.
+
+**Aida Knezevic:** Yeah, you can also...
+
+**Donald Donckers:** Great, go ahead.
+
+**Aida Knezevic:** Yeah, so you can also change, like, because you have editing access, you can also change the view here to see just, like, organic traffic or referral traffic, newsletter, whatever.
+
+**Aida Knezevic:** Like, you can kind of manipulate the data.
+
+**Donald Donckers:** Yeah.
+
+**Aida Knezevic:** This is just, like, your landing page performance.
+
+**Aida Knezevic:** So you can see, like, what pages.
+
+**Aida Knezevic:** This is the whole website.
+
+**Aida Knezevic:** And this also shows, like, which referrers are bringing in the most sessions.
+
+**Aida Knezevic:** And this is all referrers.
+
+**Aida Knezevic:** We have...
+
+**Aida Knezevic:** We'll get to it in a bit, but there's a separate page just for LLMs.
+
+**Aida Knezevic:** This shows, like, the query ranking distribution.
+
+**Aida Knezevic:** This is data from Google Search Console.
+
+**Aida Knezevic:** So Google Search Console tracks which queries or keywords drive traffic to your site from Google Search.
+
+**Aida Knezevic:** This has targeting search.
+
+**Aida Knezevic:** So...
+
+**Aida Knezevic:** So this kind of breaks down like how many, for example, like how many queries you're ranking for in the first position, in positions like 11 through 20, 40 plus.
+
+**Aida Knezevic:** So this gives you like a good idea of usually like most websites rank for more keywords, you know, on page like three and beyond.
+
+**Aida Knezevic:** But we definitely want to grow like the green and yellow lines here as well.
+
+**Aida Knezevic:** These are, this is a non-branded report.
+
+**Aida Knezevic:** And this means like, this is tracking all of the pages on your site that rank for keywords that don't contain Alex or Apriora.
+
+**Aida Knezevic:** So it gives you a good idea of like how much of your traffic is related, related to your brand.
+
+**Donald Donckers:** So the non-branded keywords, and can we see like what those keywords are?
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** I think you should be able to see that.
+
+**Donald Donckers:** 22?
+
+**Donald Donckers:** Is that what we're seeing?
+
+**Aida Knezevic:** Yeah, so we're seeing this is like the query ranking over time.
+
+**Aida Knezevic:** I think it could be in a different page of the report.
+
+**Aida Knezevic:** If not, I can show you where to find it in Google Search Console.
+
+**Aida Knezevic:** But we can also modify this performance report to include like different data sets if you want to see that as well.
+
+**Aida Knezevic:** But that data is available in Google Search Console.
+
+**Aida Knezevic:** The conversion events page, that pulls data from your GA4.
+
+**Aida Knezevic:** And this is based on the conversion events you already have set up in GA4.
+
+**Aida Knezevic:** Okay, this is a temporary error because this was working like a minute ago.
+
+**Aida Knezevic:** So I'll check with our data analytics team and see what's going on.
+
+**Aida Knezevic:** But basically, this shows like all of the conversion events you have set up on your site and how many of them happened in a specific amount.
+
+**Aida Knezevic:** So if there are any conversion events here that are particularly important to track, you can let us know.
+
+**Aida Knezevic:** I think form submit, form start, we typically don't know what these are, so we need your team to tell us, like, okay, this one is, like, related to, like, a specific CTA or, like, a demo request or something.
+
+**Donald Donckers:** That's super important to track.
+
+**Donald Donckers:** Okay.
+
+**Aida Knezevic:** And then the cohorts page is pretty important for what we do because this, once we start publishing content, this page is going to show just the performance of GrowthX content.
+
+**Aida Knezevic:** So, and it's going to be broken down by content pillar.
+
+**Aida Knezevic:** If you remember, like, our content strategy has, like, these different topic clusters.
+
+**Aida Knezevic:** So, yeah.
+
+**Aida Knezevic:** And so,
+
+**Aida Knezevic:** These are really important for the Looker dashboard as well, because the performance is going to be also broken down by clusters.
+
+**Donald Donckers:** So we can see which ones are doing the best in terms of search traffic.
+
+**Aida Knezevic:** Awesome.
+
+**Aida Knezevic:** And this is just more like GA4 data.
+
+**Aida Knezevic:** This is analyzing the performance of different landing pages over time.
+
+**Aida Knezevic:** This is data from your GSC.
+
+**Aida Knezevic:** So it's containing like your average position.
+
+**Aida Knezevic:** And this is the queries report.
+
+**Aida Knezevic:** So this is what you were interested in.
+
+**Aida Knezevic:** So this is like the queries are getting the most traffic to your site.
+
+**Aida Knezevic:** All of them are branded, as is typical for a lot of startups.
+
+**Aida Knezevic:** A lot of them are related to Apriora as well.
+
+**Aida Knezevic:** But there's also like AI interviewer.
+
+**Aida Knezevic:** So
+
+**Aida Knezevic:** We typically, like, this can be a good source of, like, blog ideas.
+
+**Aida Knezevic:** We had, I don't know if I, I don't think I told you this, we had a, my first client at GrowthX, we noticed that one of their, like, really top queries was their brand name and reviews.
+
+**Aida Knezevic:** And they had nothing on their site about, like, reviews, but the people were just looking up, like, the reviews of their app and, like, whether it was worth using.
+
+**Aida Knezevic:** So what we did was we created a blog post that combined all of their, like, app store reviews in one place and, like, formatted it really nicely and, like, created this narrative.
+
+**Aida Knezevic:** And it obviously ranked in the first position for that keyword.
+
+**Aida Knezevic:** And now they're getting, like, I think it's their top performing blog post in terms of leads.
+
+**Aida Knezevic:** So this can be a good, great place to, like, get ideas from because sometimes you're ranking for queries that you actually don't have content for, like,
+
+**Aida Knezevic:** Specifically.
+
+**Aida Knezevic:** And the last page is the LLM referral breakdown.
+
+**Aida Knezevic:** So this shows which LLMs are sending traffic to your site, and it also shows all of the pages that are, sorry, I won't scroll, and it shows all the landing pages that are getting traffic from LLMs.
+
+**Aida Knezevic:** So obviously your homepage is at the top, but there are also some blog posts and also demo requests that are getting traffic from LLMs as well.
+
+**Donald Donckers:** So usually this is the page that gets, I think, the most attention these days.
+
+**Donald Donckers:** I love it.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Great.
+
+**Aida Knezevic:** And we have a couple of minutes.
+
+**Aida Knezevic:** I wanted to show you Scrunch as well.
+
+**Aida Knezevic:** We set this up today.
+
+**Aida Knezevic:** So there's not a lot of data here.
+
+**Aida Knezevic:** I talked about Scrunch in our first meeting.
+
+**Aida Knezevic:** It's an AI visibility tool.
+
+**Aida Knezevic:** And it's measuring your visibility.
+
+**Aida Knezevic:** In the prompts that we've uploaded, so we uploaded 140 prompts, but we can upload more.
+
+**Aida Knezevic:** If you have any, like, specific prompts that you want to track, you can just send them over and we'll add them.
+
+**Aida Knezevic:** So, so far, it's gathered just 140 responses, and you can see, like, the competitive presence and, like, how you compare to your competitors.
+
+**Aida Knezevic:** Right now, there's just not a lot of data to show here since we just started tracking.
+
+**Aida Knezevic:** Um, and then the prompts, um...
+
+**Donald Donckers:** Just, like, out of curiosity, right?
+
+**Donald Donckers:** Like, for, you know, if you want to really, you know, this, this is a priority for us, and we want to, like, start showing up in more prompts when people ask, um, you know, these questions.
+
+**Donald Donckers:** I know that, like, Reddit is an important, you know, there's a couple, like, these websites that typically, you know, I've heard drive a lot of, um, you know, great positioning within prompts, like citations within prompts, uh...
+
+**Donald Donckers:** Is Reddit, like, important for that?
+
+**Donald Donckers:** And, like, other sites, like a G2 maybe, or what would you?
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** So Reddit, your website, and G2, TrustRadius, and any of other software comparison platforms.
+
+**Aida Knezevic:** I think G2 is especially important for, and, like, TrustRadius for, if you, for example, like, changed, made a big product update, you should always update G2 to make sure that it's reflecting the updates and the changes in the product messaging.
+
+**Aida Knezevic:** That's super important.
+
+**Aida Knezevic:** But Reddit is one of the, I think, someone in a, like, that I used to work with actually carried out a little experiment to see, they made up a car name, like, made up this fictional car, and they wrote about it in a subreddit about cars.
+
+**Aida Knezevic:** They created a post.
+
+**Aida Knezevic:** They shared a blog post about it on their website, and they made a LinkedIn post about it as well.
+
+**Aida Knezevic:** And then they kind of waited to see which LLM would pick it up the fastest.
+
+**Aida Knezevic:** And I think ChatGPT and Perplexity picked it up first.
+
+**Aida Knezevic:** And they first picked up their, I think it was the blog post that they published and Reddit.
+
+**Aida Knezevic:** So the Reddit post.
+
+**Aida Knezevic:** So those two seem to be like whatever Google indexes, it seems to just also be picked up by LLMs as well.
+
+**Donald Donckers:** Yeah, yeah, yeah.
+
+**Donald Donckers:** So that's what we need to prioritize.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** And also just like bottom of the funnel content, just like super, it might be a very low search volume, but it's very important for LLMs.
+
+**Aida Knezevic:** Yeah, this is just a breakdown of the prompts that we have.
+
+**Aida Knezevic:** So they are categorized in different topics.
+
+**Aida Knezevic:** So we can see kind of like your visibility in different subtopics.
+
+**Aida Knezevic:** it also kind of breaks down where your competitors are showing up.
+
+**Aida Knezevic:** So, I think by next week, we should have a better idea of where your visibility stands.
+
+**Aida Knezevic:** And as we start publishing content, we can also see, like, how it's influencing these prompts as well.
+
+**Donald Donckers:** Perfect.
+
+**Aida Knezevic:** Okay, nice.
+
+**Aida Knezevic:** Did you have anything else you want to discuss today?
+
+**Donald Donckers:** No, I actually need to go, but this was fantastic.
+
+**Donald Donckers:** I'm looking forward to the next couple pieces of content, and then I'll keep providing the same feedback.
+
+**Donald Donckers:** You know, like, I'll make sure to look into it so that we can keep perfecting this.
+
+**Donald Donckers:** I hope it should be much, much better now.
+
+**Nathalie Schrans:** Yeah, that would be awesome.
+
+**Donald Donckers:** And then in terms of, like, an ask for me, it's like, you want the fonts, right?
+
+**Donald Donckers:** The fonts that we use?
+
+**Aida Knezevic:** Yes.
+
+**Nathalie Schrans:** I'll follow up with you.
+
+**Donald Donckers:** Yeah.
+
+**Donald Donckers:** Say it again.
+
+**Nathalie Schrans:** Sorry, I was going to, I'll send.
+
+**Nathalie Schrans:** A meeting recap, and then just our action items for this week for us and for you in Slack.
+
+**Nathalie Schrans:** So you'll get that after this.
+
+**Nathalie Schrans:** You don't have to remember it right now.
+
+**Nathalie Schrans:** I'm sure you have a lot going on.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** Love it.
+
+**Donald Donckers:** Let's do that.
+
+**Donald Donckers:** And then, yeah, I'll try to send that over this afternoon somewhere.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Perfect.
+
+**Nathalie Schrans:** Thanks so much, John.
+
+**Aida Knezevic:** Thank you.
+
+**Donald Donckers:** Thank you.
+
+**Donald Donckers:** See next week.
+
+**Donald Donckers:** See you next week.
+
+**Donald Donckers:** Bye-bye.
+
+**Donald Donckers:** Bye-bye.

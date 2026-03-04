@@ -1,0 +1,462 @@
+# GrowthX x Data Annotation - Strategy & Content Kickoff
+
+<metadata>
+date: 2025-10-10
+time: 17:59 UTC
+duration: 33 minutes
+organizer: Jason Gong (GrowthX)
+participants: Jason Gong (GrowthX), Nathalie Schrans (GrowthX), Akash Gupta (Surge AI), Nancy Flournoy (Surge AI), Jason Sexton (Surge AI)
+fathom_recording_id: 93432283
+fathom_url: https://fathom.video/calls/437567811
+share_url: https://fathom.video/share/SjeuxjFVr6MxRT-5CQRzdyb4axWLM6h4
+source: fathom
+enriched_on: 2026-03-02 16:35 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX proposed a content marketing strategy to drive organic traffic and convert visitors into Surge AI's data annotation workforce. The strategy centers on high-volume, AI-generated content targeting developers across five categories (interview tips, career advice, problem-solving, salary information, and advanced concepts), with a conservative estimate of 15-45 signups monthly. The team agreed to start with high volume over strict quality control, measure results, and iterate on content machines while carefully evaluating Surge AI's brand positioning and audience targeting (coders vs. professional experts).
+
+---
+
+## Context
+
+Surge AI operates a data annotation platform connecting qualified professionals with AI training work. Their current recruitment channels include job postings and targeted ads (Reddit, LinkedIn, Google search), with varying success rates and CACs. The team maintains approximately 1,000 active annotators and 4,000-5,000 total approved, but faces supply challenges due to increasing task complexity and churn. This meeting represented a strategic partnership opportunity: GrowthX would leverage organic SEO and content volume to build brand awareness and establish Surge AI as a legitimate player in developer communities, while creating a new recruitment funnel less dependent on expensive paid channels.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- New content workflow: Build content "machines" for each category (interview tips, career advice, problem-solving, salary calculators, advanced concepts), using templates and expert review to scale production
+- Competitive positioning: Outperform incumbents (Stack Overflow, Geeks for Geeks) through volume, quality, and recency of AI-generated content
+- Client flexibility spectrum: Established process for managing quality vs. volume tradeoffs; some clients require DevRel standards (like Webflow), others accept higher-volume, lower-QA output
+- Audience feedback loop: Incorporate user-generated content from Surge AI's existing annotators to add authenticity and competitive advantage
+
+**To GrowthX Business Development:**
+- Established client engagement: Surge AI is a strategic partnership with multiple decision-makers (Akash Gupta on product/audience, Nancy Flournoy on brand/messaging, Jason Sexton on recruiting)
+- Clear renewal drivers: Success metrics include organic awareness, approval volume, and brand legitimacy—not just conversion rate
+- Reference potential: Webflow, Augment Code, and Kite examples demonstrate GrowthX's ability to scale content across different quality/volume profiles
+- Upsell opportunity: Discussion of "latent supply" management and multi-persona targeting (coders vs. professional experts) suggests Surge AI may expand beyond initial scope
+
+**To GrowthX Business (Strategic):**
+- Market validation: Surge AI's existing platform and supply challenges demonstrate real demand for affordable, flexible AI work—aligned with GrowthX's ability to drive volume
+- Recurring engagement: Content machine approach creates ongoing management, optimization, and iteration work
+- Messaging framework: Akash's emphasis on "side income," "flexible work," and "unique ways to apply talents in AI" informs broader GrowthX positioning for other labor-marketplace clients
+
+---
+
+## Overview
+
+- GrowthX proposes creating high-volume, AI-generated content across multiple categories to drive organic traffic and Surge AI signups
+- Initial focus on coder-specific content, with potential to expand to other professional categories later
+- Surge AI team open to experimenting with content volume/quality balance, prioritizing brand building and legitimacy alongside conversion metrics
+- Next steps include reviewing GrowthX's proposed content strategy and beginning content creation
+
+---
+
+## Key Topics
+
+### Content Strategy Overview
+
+  - GrowthX mapped out potential content categories targeting coders:
+      - Interview tips and coding challenges (e.g. LeetCode, HackerRank)
+      - Career advice (similar to Indeed's approach)
+      - Programming language-specific problem-solving (focus on senior languages like Rust, C++)
+      - Salary calculators and compensation data
+      - Advanced coding concepts and infographics
+  - Estimated potential monthly Surge AI signups: 15-45 (based on conservative 2% conversion rate)
+  - Approach: Create "content machines" for each category, continuously improving and refreshing content
+
+### Competitive Advantage and Unique Voice
+
+  - GrowthX believes they can outperform older players in the space through:
+    1.  Higher content volume
+    2.  Improved quality
+    3.  More recent/updated information
+  - Surge AI's unique selling point: Opportunity for side income/flexible work
+  - Potential to incorporate Surge AI user experiences into content for authenticity
+
+### Content Quality and Brand Alignment
+
+  - GrowthX flexible on content quality spectrum:
+      - Some clients require strict dev-rel quality
+      - Others allow higher volume with less stringent quality control
+  - Surge AI team open to starting with higher volume to learn and iterate
+  - Options to align content with Surge AI brand:
+    1.  Publish directly on Surge AI domain
+    2.  Create separate website linking back to Surge AI
+    3.  Adjust content visibility based on brand fit
+
+### Target Audience and Conversion
+
+  - Discussion on balancing content for experienced vs. entry-level coders
+  - SEO traffic likely less targeted than paid ads, but can adjust acceptance criteria
+  - Potential to pre-filter applicants (e.g., work email requirement) if volume becomes an issue
+
+### Current Marketing Performance
+
+  - Google search ads struggle with narrow targeting for coders
+  - Traditional job postings have seen better conversion rates and CAC
+  - Precise targeting on platforms like Reddit and LinkedIn resulted in high CACs
+
+### Surge AI Platform Insights
+
+  - \~1000 active Surgers, \~4000-5000 total approved
+  - Value in maintaining "latent supply" of approved Surgers
+  - Work complexity has increased over time, leading to some churn
+  - Interest in attracting higher-skilled professionals with different motivations beyond side income
+
+---
+
+## Action Items
+
+**Jason Gong (GrowthX)**
+- Send compiled artifacts (audience, pitch, offer details) to Surge AI team for review
+- Begin content creation and set up initial content lanes on Surge AI's website
+
+**Akash Gupta (Surge AI)**
+- Review content strategy proposal and provide feedback on coders vs. professional experts focus
+
+---
+
+## Transcript
+**Nathalie Schrans:** Hey everyone.
+
+**Nathalie Schrans:** Hey.
+
+**Jason Sexton:** How's it going?
+
+**Jason Sexton:** Hi.
+
+**Jason Sexton:** Hey folks, how are we doing?
+
+**Akash Gupta:** All right.
+
+**Jason Gong:** I'm How's it going?
+
+**Jason Gong:** Happy Friday.
+
+**Jason Gong:** Happy Friday and tea.
+
+**Jason Gong:** Very random, Akash, but I've met somebody named Nisha.
+
+**Akash Gupta:** Tom.
+
+**Akash Gupta:** Yeah, she and I grew up.
+
+**Jason Gong:** Probably going to work with, I still figure out the details of like for our community.
+
+**Jason Gong:** And she was like, Oh yeah, I know the growth guy at Surge.
+
+**Jason Gong:** And I was like, That's awesome.
+
+**Jason Gong:** For a super long time.
+
+**Akash Gupta:** Yeah.
+
+**Akash Gupta:** Yeah.
+
+**Akash Gupta:** Four houses down from each other.
+
+**Jason Gong:** Oh, that's right.
+
+**Jason Gong:** Long time.
+
+**Jason Gong:** Or at least since middle school, actually.
+
+**Akash Gupta:** Wow.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** I know Nancy also said she would join.
+
+**Jason Gong:** Should I just get started?
+
+**Akash Gupta:** Yeah, we only have half an hour, so I think we'll just get through.
+
+**Jason Gong:** Yeah, basically, like, we just, like, I mean, there's strategy here.
+
+**Jason Gong:** I think I just want to put some numbers to it for you guys.
+
+**Jason Gong:** Like, and then main question for me is, like, is this interesting?
+
+**Jason Gong:** You know, is this impactful?
+
+**Jason Gong:** And then we've actually just, like, went ahead and started creating some content just to give you, again, like, I want you guys to see, like, what it looks like, not have it be some abstract thing, like, that we're doing.
+
+**Jason Gong:** But, yeah, but essentially, I mean, the end goal we're trying to do is, like, create a lot of organic traffic to your website that converts to, like, actual surgers.
+
+**Jason Gong:** I think the thing about your space is, like, there's a ton of people that do this already. I mean, probably most commonly just the job marketplaces, but there's also just a lot of products that do it, you know, like everyone's trying to get in front of developers, however which way.
+
+**Jason Gong:** And there's like a model there.
+
+**Jason Gong:** And most people are like old and sleepy and nobody's like kind of using AI as far as I can tell.
+
+**Jason Gong:** So like we can basically just kind of catch up and start, you know, hopefully running circles around them.
+
+**Jason Gong:** But we mapped out like, and this is just for coders.
+
+**Jason Gong:** Like I feel like if we expand, like, you know, there's way more.
+
+**Jason Gong:** But like for coders, we mapped out like a few potential categories of content that could be interesting.
+
+**Jason Gong:** I mean, I can walk through them a little bit, but like, like the way to think about what we do is like for every type of content, we build kind of a little machine that gets better and better at creating that content.
+
+**Jason Gong:** And then generally we just produce quite a lot at a high volume.
+
+**Jason Gong:** And then we go back and we keep like refreshing it.
+
+**Jason Gong:** And that's proven out to be kind of the best way to like, you know, grow, grow again.
+
+**Jason Gong:** So some of the content categories, there's a lot around kind of just like interview tips, you know, like LeetCode and like HackerRank are more like the actual kind of questions during the interviews.
+
+**Jason Gong:** And then there's a few sites like Geeks for Geeks, you know, that kind of more talk about like the concepts themselves.
+
+**Jason Gong:** I mean, I guess the thinking for us is essentially like anything that stands in the line of like somebody at least thinking about, you know, finding a new job or like even, you know, exploring that makes sense for you to be in that journey.
+
+**Jason Gong:** Because like your offer, I think, is much better than almost anything else you can show, right?
+
+**Jason Gong:** Like a product or a SaaS that solves some problem is one thing, but your pitch is essentially just like, you know, hey, make money on the side.
+
+**Jason Gong:** I mean, I don't know what exactly the pitch is, like, I would love to see your ads to know what resonates the most.
+
+**Jason Gong:** But yeah, so that's the category, there's like millions and millions of traffic.
+
+**Jason Gong:** So this monthly, this is actually something I did for Kite like a couple of years ago where we, this is before AI, like essentially took all the most popular kind of coding questions from Stack Overflow, you know, and then just kind of like rewrote a better version.
+
+**Jason Gong:** And that had like millions of these per month. This is like relatively kind of conservative.
+
+**Jason Gong:** The thing I try to do for every channel is like come to some estimate for like how many surgers you could get in a month, like once it ramps up.
+
+**Jason Gong:** Like everything is slightly conservative, I would say.
+
+**Jason Gong:** Again, like this is probably like 2% is roughly what you'd get if you were trying to pitch like a SaaS product.
+
+**Jason Gong:** Sign up to assessment.
+
+**Jason Gong:** I think this is what you're getting now.
+
+**Jason Gong:** And then the acceptance rate I just made lower because I would assume, you know, you're targeting your ads pretty well and like SEO for the most part isn't going to be like sharp at targeting, you know.
+
+**Jason Gong:** So, yeah, so that's a channel. The channel around career advice is kind of what Indeed does super well, like stuff like this. It looks a little bit more editorial, you know, for, again, people trying to look for a job.
+
+**Jason Gong:** This is probably the biggest category of search volume in general.
+
+**Jason Gong:** And then for coders, it's like a subset of this, basically.
+
+**Jason Gong:** There's like this is like the stack overflow kind of category.
+
+**Jason Gong:** Like, you know, people running into problems.
+
+**Jason Gong:** The way I would approach this is just, I mean, you guys know better, but I would probably just go after like the more kind of like senior languages, like Rust, C++, like, like I would probably stay away from like JavaScript, though.
+
+**Jason Gong:** I think there are like nice pockets in there and then try to cover those topics.
+
+**Jason Gong:** The salary calculators, this one's a little bit different.
+
+**Jason Gong:** It's almost like a little kind of programmatic tool.
+
+**Jason Gong:** Like Glassdoor does.
+
+**Jason Gong:** There's a company called Pave on levels, you know, FYI, which I know like all the engineers go to, like they do this well.
+
+**Jason Gong:** It's quite competitive, I would say, but again, I think your edge is like, you essentially for every category, it's like, hey, get paid this amount, you know, like your CTA would say it's just like stronger than most other people.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** And then the last one, this one I think is like kind of hard to do, but I just flagged it anyway.
+
+**Jason Gong:** I don't know if you guys look at these guys at all, but these guys just kind of cover advanced concepts, basically, like they have nice kind of infographics to do that.
+
+**Jason Gong:** So, yeah, so I guess this is how we're thinking about approaching it.
+
+**Jason Gong:** I mean, I kind of wanted to show you like roughly what that could look like.
+
+**Jason Gong:** even generated some articles that Natalie and Liz did, but like, how does this line up with how you're thinking about potentially investing in this?
+
+**Jason Gong:** I think it was interesting, at least, to think through the different categories.
+
+**Akash Gupta:** One thing that I try to think about is, you know, we've been recruiting for a little while, we've had a bunch of people come to our site. We try to, I wonder just how much of it is like, we need to think about this kind of premier, up-leveled kind of talent pool versus like, hey, you just got out of a freelance course, learned to code for the first time. Like, I don't think you're going to be successful on our platform. Whereas there might be a lot more kind of volume there and a lot more opportunity. How do you think about the kind of tiering here?
+
+**Jason Gong:** Yeah. I mean, again, I would say SEO is like less targeted than your ads. I guess that's kind of baked into this. Like, you know, if we think a particular cluster is worse, it's kind of baked into the percentage you'll accept. For each category, there's probably thousands of topics, like, we would just prioritize them in order of, like, what we think might bring you the tier that you're looking for.
+
+**Jason Gong:** But I don't think it's possible to not have, like, a person from somewhere in Asia, like, who has absolutely no experience at all, like, hitting these pages. I guess maybe that's more of a question of, like, how taxing is it for you guys to have, like, just a lot of randoms do these assessments?
+
+**Jason Gong:** I think if it becomes a lot, you can, like, almost pre-filter them at least slightly.
+
+**Jason Gong:** It's like, hey, type in your work email, you know, just something as simple as that.
+
+**Jason Gong:** I think you could, like, filter out a ton.
+
+**Jason Gong:** But I think just by nature, like, there's almost no way to, like, make this channel more targeted than your ads.
+
+**Jason Gong:** Like, maybe there's some learnings from your ads, like, if you do have kind of indicators, like, like, I don't know how you guys target, you know, the people you look for that end up converting.
+
+**Jason Gong:** But we'll try to learn from that, I guess.
+
+**Akash Gupta:** Yeah, I'm sure Jason can speak to that. I think what you said made sense, Jason, in terms of like for each topic, there's probably, you know, a spectrum, right? Where you have like more advanced topics that we could target, for example. But yeah, I think that makes sense. I think I cut off somebody.
+
+**Nancy Flournoy:** You're good.
+
+**Nancy Flournoy:** I was going to say the same thing.
+
+**Nancy Flournoy:** But just to confirm, Jason, the idea too is like these are separate categories of subject areas.
+
+**Nancy Flournoy:** And then based off of our approvals and overall traffic, then the idea is we could essentially expand within, for example, a career advice type.
+
+**Nancy Flournoy:** I don't want to say listicle, but article.
+
+**Nancy Flournoy:** And then we'd have more of a, okay, cool.
+
+**Jason Gong:** Yeah, and again, from our side, like, I think maybe one thing to calibrate on is like we have some customers that are like super, super kind of restrictive about what they'll let publish, right? Like unless it hits the DevRel quality, like they won't let it through. And then we have some customers that are just like, let your kind of firehose like loose.
+
+**Jason Gong:** It'd be good to know where you guys lie on that.
+
+**Jason Gong:** I think if you're a little closer to like being okay publishing, you know, at a higher volume, what it'll look like is like every category and it'll segment down. This itself will be multiple kind of machines, I guess, how we think about it. And every machine from our side is like, I mean, it's a workflow.
+
+**Jason Gong:** We'll show it with like an expert in the loop if there needs to be.
+
+**Jason Gong:** And then like if we can do that category for one article, we can, for the most part, do the category for like all sorts of things, you know, and our approach typically ends up looking like just publishing a little bit more because there's just this nice kind of flywheel around SEO where once you start linking things, like even if you guys don't care about the junior developer question, like having that article helps the senior developer question, you know, rank well.
+
+**Jason Gong:** Um, so I guess just understanding what makes it really hard for you guys, like, in terms of people trying to sign up, like, we'll just do what's best. I mean, like, for the North Star, I imagine it'll just be, like, how many new Surgers can we actually drive?
+
+**Jason Gong:** And over time, we'll just figure that out.
+
+**Jason Gong:** Does that make sense?
+
+**Akash Gupta:** Yeah, I think at a high level, too, a lot of this is just, like, making it seem like this is a thing to people for whom this is not a thing, right? Particularly people that are not necessarily oriented towards actually looking for remote work, or that, like, hey, I have a degree in computer science. Since I've had jobs in this area in the past, maybe I'm looking for side income or not, but, you know, I can see this is a meaningful way, a real way for me to apply my talents and get paid in unique ways in the world of AI, etc. And I think, yeah, a bunch of content will help with that. So I think that that makes sense.
+
+**Jason Gong:** Yeah, and we'll spend a little bit of time understanding the pitch and the CTA, but yeah, sorry.
+
+**Akash Gupta:** Yeah, you mentioned, just kind of going back, you know, there is a lot of content in this space and there are a lot of older players. So how do we run circles around them with AI?
+
+**Akash Gupta:** Like, what does that mean?
+
+**Akash Gupta:** Is that just kind of like volume of content or, yeah, tell me more about that.
+
+**Jason Gong:** I think it's volume, quality, and recency, probably above anything. Like, so for, I guess some of the work we've done before, it's like some of the people that do well, like Geeks for Geeks or like Stack Overflow, like their content. I mean, it's been a while since they've touched it, you know, and just by function of like writing a newer, more updated one, that's a little bit more comprehensive because we get to build off of what they've done, it just like ranks better.
+
+**Jason Gong:** Like, we're definitely not going to beat them everywhere, which is why I'm assuming we're going to, like, you know, scale past them.
+
+**Jason Gong:** But yeah, I mean, I guess when we win, like what ends up working with like our whole approach is like the act of writing just becomes trivial. If that information is out there on the internet, like we'll consume it and like kind of repackage it in a nice way. I think over time, like what we've done for customers, once we have these machines going is like, that's when you can inject some like new information that will help you kind of win, like essentially have like a more valuable answer to a question.
+
+**Jason Gong:** So, I mean, actually, this might be interesting. It's like if you could give a task to your Surgers, that's like, hey, comment on, let's say we make a listicle on like the best marketplaces to get remote work or something. Like we just get a bunch of comments from your Surgers even on that. And then we inject that into the article, like, the more we can tune that, like the content will just get better. And for the most part, that's how we typically win. But yeah, I mean, it's going to be unlikely you're going to do better than them overall, but like there's going to be pockets where this approach just beats them over time.
+
+**Akash Gupta:** I think stepping back as you went through this exercise, I think you've mentioned a couple of things, but yeah, does it feel like we are well positioned to have a kind of unique voice here? Or yeah, kind of what's the ask here?
+
+**Jason Gong:** Yeah, I think so. I mean, so it's like probably two parts to that. Like, can this work? I think for the most part, you guys actually have like a really high domain authority website already.
+
+**Jason Gong:** So like, we don't have to start from zero. So the content we write, like, I can't remember what your score is, but it's going to like start doing well, hopefully like right away. And then having a unique voice, I think that was interesting. This helps your brand a little bit, right?
+
+**Jason Gong:** Like, you know, in general, like we were looking at the kind of like Trustpilot scores and stuff like that. Like, I think if you brand this in a way where it's like, hey, you know, we're data annotation, we're like trying to like upskill people, right? Like be a resource for people, whether they work with us or not, to like, you know, have a better career, to like, you know, have a better understanding of what's out there. You know, as much as possible, we would kind of position it that way. Yeah, but I guess from a will-this-move-the-needle point of view, I feel like none of those things are a requirement. So maybe you let me know. We did chat with the folks at Command. It sounds like maybe the brand for like DA is something you're thinking about as well.
+
+**Jason Gong:** If you have some thoughts on that. I think that most of the categories we've mentioned could line up really well. There's probably some that are just like kind of efforts to grab organic awareness that like don't line up. We could, like, hide them a little bit, which we do for some customers. We could even create a whole other website, you know, that ends up linking back to DA. We've done that for some customers. We're flexible.
+
+**Jason Gong:** Is that what you mean by, like, how this lines up with, like, the message?
+
+**Akash Gupta:** I meant more, by unique voice, I meant more like, you know, it's just going to be like, how to prepare for an interview. It's going to be, like, the 37th article written the same and just with a different branding? Or is, do we have, like, you know, something unique to add to the conversation?
+
+**Jason Gong:** Yeah, I'll say, I guess it depends what you mean by that. I'll say that's usually not a requirement to get people to visit your site and click on things. But that is very important, again, for, you know, how you guys want to position and maybe just philosophically. I think what that means for us is like, let's look through the content. Let's see which ones are actually just pure SEO stuff. And then I can, you know, propose what it would take to kind of make stuff that's truly like, you know, you would stand behind, you would actually post on your LinkedIn or up on Hacker News.
+
+**Jason Gong:** But I think the bar for, can I get this up on Google and have it cited and have people visit my website is much, much lower than that.
+
+**Akash Gupta:** I guess it, yeah, I guess my answer is like, Yeah, I think we're rejecting the premise of the question actually was the right answer.
+
+**Jason Gong:** Yeah, so that's basically what I did. I mean, you have some thoughts on like how you could structure this on your website. I think it's, it's built on Webflow, right?
+
+**Akash Gupta:** Yeah, totally cool with.
+
+**Jason Gong:** I mean, I don't know if you guys care about, you know, hey, can we write this content? But we have all sorts that we've written. And like, Augment Code is like, probably more on the side of, hey, we'll let the firehose loose. We don't care if some of it ends up being a little bit wonky, you know, but this is like a listicle we've written for them.
+
+**Jason Gong:** And the content's actually quite good. And then we've done some stuff for Webflow that's like more in the realm of DevRel. So like for Webflow, we're actually replacing some of their DevRel people. They care about not losing to Lovable and, you know, Vercel, and they want more awareness with developers. And what we're doing for them is essentially like we ingest like their docs and then kind of all their integration partners' docs. And then we write these kind of like integration guides that essentially teach people how to do things. And then we're even doing things like, you know, like, hey, what can you build a membership site? And then we like, you know, this is something we haven't published yet, but this is kind of what it looks like to iterate the content machine. We have one version, everyone's commenting on it. And then, you know, this version, for the most part, their DevRel person is quite happy with.
+
+**Jason Gong:** Then once we're happy with that machine, we can like kind of, you know, operate it at scale. So there are some customers where we like push the quality of that, which means lower volume, but like, you know, again, just depends what folks want. And then, you know, things grow the SEO, lots of data points around SEO. So are you, if you do care to look at some of the stuff we actually made just to show you what it looks like, I mean, now we can run through that. But did you have any questions? Is there anything specifically kind of you wanted us to talk about? Because I think from my side, the next step would be, you know, that then we would like just start creating content, I guess, would be the next step and start like getting our developers or your developers kind of creating these lanes on the website that we can start publishing. So yeah, any Jason, any thoughts on you, Nancy?
+
+**Akash Gupta:** Yeah, mine.
+
+**Jason Sexton:** I mean, running through, there are others. So if I could share, like we've done testimonial user-generated content type videos.
+
+**Jason Sexton:** That's been kind of hit or miss on Coder, but I mean, that's been a more demand gen level.
+
+**Jason Sexton:** I pretty much hit the rest of the thread of like a lot of what we focused on has been like flexible work, gig work, or like $40 plus an hour. I think it's the typical monetary value, say, with all the Coder versions. Otherwise, we haven't gone too diverse in kind of the paid messaging of those across the channels. I'm going to say like Google search has always been a struggle on Coders. Just the more narrow we got with our keywords or more precise, like the worse it did. So Google search has had to be a little broader on the Coder side to bring people in. So I think that somewhat dovetails in with content or this being a little broader.
+
+**Jason Gong:** For like some of the ads, like the ones that have worked well, like what are the tactics there? Like is it usually around like just narrowing on the right messaging, the right persona, or like has there been just like platforms that have been incredibly helpful? Like LinkedIn or Reddit?
+
+**Jason Sexton:** We've tested some, but not super helpful. A lot more of what Coder has seen success with last year has been more around the just traditional job posting side of the equation is where Coder has seen better conversion and CACs in that version.
+
+**Jason Sexton:** We've thrown a lot against the wall, like with Reddit or with LinkedIn. And a lot of those ones, it's hit that similar vibe of Google of like when we've gotten really precise, like I want Coders with MBA or those versions and trying to get those more unique individualized personas. The CACs have just been super high on those portions of those.
+
+**Jason Sexton:** So those aren't stuff we have too many of live anymore at this point in time across those channels. So that's been kind of like the biggest struggle on the Coder front is that there seems to be this imbalance between precise targeting and then what's getting approvals done.
+
+**Jason Gong:** Those like, and then just understand like your model, once somebody becomes a Surger, so I think you said you have like a thousand now kind of, but you have like maybe four or five overall. Like if somebody is like a dormant Surger, like you didn't find any use for them now, but like, are they easy to activate later? It's so valuable for you to have like a person in your kind of network that's past the assessment that you're not necessarily using at the moment.
+
+**Jason Sexton:** I was going to say, Akash, I got a few of you on that.
+
+**Akash Gupta:** Yeah, latent supply is always good, particularly as, you know, demand can go up or hold temporarily. So, yeah, I mean, we continue to take applications. We will review them regularly and improve people. Obviously, we prefer to have a bunch of work for people right when they show up. That's not necessarily always the case, but that is kind of the goal. In terms of reactivation, we're working on making that, kind of improving our playbooks there. But we have found that we can bring people back to the site. The biggest thing is just like, do they have relevant work available to them is the main thing. Work has also gotten harder over time. So, you know, we converted a bunch of people two years ago, a year and a half ago, a year ago. And maybe it was people who had come out of a coding bootcamp and had done pretty well for a bit, but now things are harder or more involved. And, you know, so we have both regrettable and non-regrettable churn.
+
+**Jason Gong:** Okay, got it. And I guess we're trying to think, like, for the most part, this won't be a channel that, like, you know, scales up and down. It just kind of grows over time. And I guess my thought was, like, if you don't need Surgers at any moment, is that just not helpful for you? But that sounds like it's not the case already. But, like, I imagine your criteria might change over time. So, like, just grabbing a bunch of emails, fill out who they are. Like, maybe not immediately valuable, but, like, that will probably come from this more than anything.
+
+**Jason Gong:** And then, like, one thing I'm interested in knowing is just, like, hey, how does a, like, Rust problem, like, does that actually generate a Surger that passes your assessment?
+
+**Jason Gong:** I haven't had the time to do it yet, but, you know, I'm just not sure how that'll work until we actually do it.
+
+**Nancy Flournoy:** And I do want to call out to like, there's a few different viewpoints of success here, right? Like there's the just natural organic presence, right? And overall less reliance on other channels, right? There's the approval volume piece. But then there's also, and Akash was alluding to this, there's that brand piece, right? Which I think we have the most opportunity and naturally filters into the other areas of success. So I guess what I'm saying is, we always care most about quality. However, given the fact that we have such a low presence in content like this, I think it's, I like your guys's approach of let's start here. Let's look at volume. Let's look at the quality that is coming from this and then be able to update for relevancy, quality, whatever it may be. So I guess what my call is, is I don't want to over pivot without getting a true understanding of what happens right out of the gate. Does that make sense?
+
+**Jason Gong:** I mean, again, I think our best customers end up being the ones that are okay with that. You know, they don't need it to be like absolutely perfect because you learn a lot from publishing like 100 articles. You know, you see what works, see what doesn't.
+
+**Nancy Flournoy:** I'm sure that hasn't been true on the search side either. It's like if we, just to give a better example, like if we come out with an article, it's getting a ton of volume, maybe a low approval rate, but it's legitimizing DA, right? That's a win. If we put out an article that showcases interview tips and then we update it to be a higher quality article, that's also a win, right? So, I just want to name that. I think it's better to start somewhere and get something out versus trying to find that perfect article at the top based off of what I know from the SEO realm. I mean, I talked to Marcel a bit about like what worked well for his scale.
+
+**Jason Gong:** It seemed like their whole thing was somehow driven by like just dumping money on referrals from what he told me. Or at least that's how they like scaled that up and down. And I think like the bigger a list you can build probably gives you the ability to do that one day. I don't know if you will. Like I imagine having a couple thousand people or tens of thousands that aren't immediately qualified, like might be useful one day. I don't know your assistance until we try it. But yeah, just looking at the stuff, like again, like our approach is like have a version and then we kind of like rip it apart. Have another version. We're just iterating the machine in the background.
+
+**Jason Gong:** And then Natalie just, you know, spent a bunch of time yesterday kind of doing like the first pass and we're just reading it and iterating.
+
+**Jason Gong:** And she's already set up a lot of, we call them artifacts, but we'll ask you guys to review these, but essentially this tries to capture how you want to talk about yourself, who your audience is that you're trying to reach, how you want to pitch the offer of work that people will convert to.
+
+**Jason Gong:** And then once we get that right, that feeds into, you know, every piece of content we write.
+
+**Jason Gong:** And if it changes, we go back and we refresh, but she's already kind of started to compile this and can shoot it over soon, I think.
+
+**Nancy Flournoy:** If you ever need testimonials, quotes, we obviously can grab those for you as well, because I know that really helps. And then as you've seen from our work, yeah, so just let us know. And then I guess what I keep coming back to too is what is currently live, right? And it's a lot of general content. I have things I like about working at home, right? Very much so focused on the generalist. I also think by creating coder-specific content will also be very useful given our blog that is currently live is very much general, a little, you know, not very deep. And it hasn't been touched in a long time.
+
+**Akash Gupta:** Yeah, I'm like, it's not good.
+
+**Jason Gong:** Yeah, was like, oh, the bar's not very high here. Like, could, you know, it's bar on the floor, man.
+
+**Akash Gupta:** Yeah, that's what I'm saying.
+
+**Nancy Flournoy:** It's only up.
+
+**Jason Gong:** Coders is probably one of the harder, like, categories of Surgers you guys have, but like, accounts would be much, much easier than coders. I mean, I'm still obviously happy to start at coders because we have customers that target that persona already. Yeah, but just calling that out, you know, if there are other categories of people, like, we could see which one would be, you know, the most easy to go after as well, but happy to coders.
+
+**Akash Gupta:** I have to hop, but I think this looks like a great direction, excited to experiment, let us know what next steps are. The one other thing in the back of my mind is I'm excited to kind of move the needle with coders.
+
+**Akash Gupta:** We are, you know, doing more in terms of like professional experts, people where they have maybe a greater opportunity cost.
+
+**Akash Gupta:** So they have like other jobs that are high paying and we're trying to explore what our value prop is and converting people that, you know, where, where like side income or 20 bucks an hour, 40 bucks an hour is not necessarily the main motivator.
+
+**Akash Gupta:** And I think that content-based legitimacy, motivation driving will be helpful as well.
+
+**Akash Gupta:** But just wanted to throw that out there.
+
+**Akash Gupta:** But yeah, thanks for this folks.
+
+**Akash Gupta:** Excited to work together.
+
+**Akash Gupta:** Sounds good.
+
+**Jason Gong:** We'll follow up with- Cool, thank you guys.
+
+**Akash Gupta:** Looking forward to meeting Liz and Natalie more, too, next time.
+
+**Akash Gupta:** Yeah, I wanted to get this started.
+
+**Akash Gupta:** Thanks, you guys.
+
+**Akash Gupta:** Bye, guys.
+
+**Akash Gupta:** Thank you.
+
+**Akash Gupta:** Bye,

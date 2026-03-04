@@ -1,14 +1,33 @@
-# Index: records/transcripts/
+# Transcript Records — Index
 
-> Complete file listing for `records/transcripts/`
+> 5368 transcripts across 23 months
 
-See [README.md](README.md) for an overview of this directory.
 
-## Files
+| Month | Total | Fathom | Fireflies | Enriched |
+|-------|-------|--------|-----------|----------|
+| [2024-04](2024-04/INDEX.md) | 31 | 31 | 0 | 0/31 |
+| [2024-05](2024-05/INDEX.md) | 45 | 45 | 0 | 0/45 |
+| [2024-06](2024-06/INDEX.md) | 6 | 6 | 0 | 0/6 |
+| [2024-07](2024-07/INDEX.md) | 60 | 60 | 0 | 0/60 |
+| [2024-08](2024-08/INDEX.md) | 99 | 99 | 0 | 0/99 |
+| [2024-09](2024-09/INDEX.md) | 87 | 87 | 0 | 0/87 |
+| [2024-10](2024-10/INDEX.md) | 137 | 137 | 0 | 0/137 |
+| [2024-11](2024-11/INDEX.md) | 120 | 120 | 0 | 0/120 |
+| [2024-12](2024-12/INDEX.md) | 115 | 115 | 0 | 0/115 |
+| [2025-01](2025-01/INDEX.md) | 176 | 175 | 1 | 0/176 |
+| [2025-02](2025-02/INDEX.md) | 222 | 222 | 0 | 0/222 |
+| [2025-03](2025-03/INDEX.md) | 239 | 239 | 0 | 0/239 |
+| [2025-04](2025-04/INDEX.md) | 326 | 326 | 0 | 0/326 |
+| [2025-05](2025-05/INDEX.md) | 293 | 293 | 0 | 0/293 |
+| [2025-06](2025-06/INDEX.md) | 302 | 302 | 0 | 0/302 |
+| [2025-07](2025-07/INDEX.md) | 406 | 406 | 0 | 0/406 |
+| [2025-08](2025-08/INDEX.md) | 390 | 390 | 0 | 0/390 |
+| [2025-09](2025-09/INDEX.md) | 438 | 436 | 2 | 0/438 |
+| [2025-10](2025-10/INDEX.md) | 472 | 471 | 1 | 0/472 |
+| [2025-11](2025-11/INDEX.md) | 368 | 352 | 16 | 16/368 |
+| [2025-12](2025-12/INDEX.md) | 315 | 285 | 30 | 30/315 |
+| [2026-01](2026-01/INDEX.md) | 379 | 328 | 48 | 379/379 |
+| [2026-02](2026-02/INDEX.md) | 342 | 252 | 90 | 85/342 |
+| [2026-03](2026-03/INDEX.md) | 1 | 0 | 1 | 1/1 |
 
-| File | Summary | Tier |
-|------|---------|------|
-| [README.md](README.md) | Directory overview and transcript naming conventions | 2 |
-| [meeting-transcript-template-v1.md](meeting-transcript-template-v1.md) | Template for meeting transcripts | 3 |
-
-*Add new transcripts to this index as they are created. Use date-descending order.*
+**Grand Total:** 5369 transcripts

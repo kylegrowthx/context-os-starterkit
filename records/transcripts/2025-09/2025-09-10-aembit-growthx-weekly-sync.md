@@ -1,0 +1,1163 @@
+# Aembit <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-09-10
+time: 16:31 UTC
+duration: 44 minutes
+organizer: Kyle Gaudreau (GrowthX)
+participants: Kyle Gaudreau (GrowthX), Ehtisham Hussain (GrowthX), Dan Kaplan (Aembit), Ashur Kanoon (Aembit)
+fathom_recording_id: 86327069
+fathom_url: https://fathom.video/calls/405126077
+share_url: https://fathom.video/share/i6_wi6-TyEfLii_puxW4yPYmRN6fp7vw
+source: fathom
+enriched_on: 2026-03-02 14:35 UTC
+</metadata>
+
+---
+
+## Summary
+
+Aembit soft-launched Access Zero, a premium interactive content hub anchored on "Credentialitis," a playful take on security issues in the cloud identity space. GrowthX reviewed performance metrics showing agentic AI content trending strongly (51% more clicks, 1,200% more impressions) and discussed distribution strategies via Reddit, Beehive newsletter platform, and potential premium content repurposing. The team addressed persistent voice and tone concerns by proposing a "last mile" content consistency process using webinar transcripts as the source-of-truth and creating multiple article variations to identify what resonates with Aembit's audience.
+
+---
+
+## Context
+
+Aembit is a cloud identity and access management platform focused on solving security challenges in infrastructure-as-code and AI-native architectures. GrowthX is executing a content marketing engagement with Aembit, producing blog articles, webinars, and now premium interactive content. This is a recurring weekly sync between the GrowthX delivery team (Kyle, Ehtisham) and Aembit's content stakeholders (Dan, Ashur) to align on content strategy, review performance metrics, troubleshoot delivery issues, and plan upcoming initiatives. The relationship is collaborative—Aembit views GrowthX as a strategic partner for both content creation and distribution strategy, not just execution.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- New "last mile" content consistency process: use webinar-based articles as source-of-truth reference documents for checking voice/tone across new articles. Implement as artifact in AI workflows to automatically flag inconsistencies before publication.
+- Article variation experimentation: pick one recent piece with voice/tone issues, create 3 variations testing different tactics, gather specific feedback from Aembit to identify repeatable patterns rather than fixing reactively across every article.
+- Content hub SEO strategy on subdomains: Aembit's Access Zero is on aembit.com/access-zero subdomain; GrowthX should monitor whether this captures separate LLM mentions/entity recognition or relies on parent domain authority.
+
+**To CheckThat / AEO:**
+- Agentic AI content is trending: articles on AI agents, agentic security, and AI-native operations show 51% click growth and 1,200% impression growth. This validates CheckThat's focus on AI visibility and suggests emerging demand for infrastructure-as-code + AI security content.
+- Content hub as LLM source: Access Zero's "Credentialitis" interactive content (AI doctor, diagnostic quiz, guides) may get picked up by AI systems as trusted third-party educational resource—opportunity for branded visibility.
+
+**To GrowthX Business Development:**
+- Account health positive: Aembit is expanding scope from blog content to premium interactive hub, indicating confidence and partnership strength. Multiple content initiatives in flight (webinar articles, agentic AI topics, Access Zero campaigns).
+- Distribution partnership expansion: Aembit requesting input on Reddit, newsletter, and premium toolbox approaches suggests they see GrowthX as strategic advisor, not just vendor. Opportunity to formalize advisory scope and pricing model.
+
+---
+
+## Overview
+
+- Aembit launched "Access Zero," a new microsite for premium, interactive content
+- Agentic AI topics are performing well in terms of traffic and engagement
+- GrowthX suggested experimenting with article variations to address voice/tone concerns
+- Distribution strategies for new content hub discussed, including Reddit and newsletter options
+
+---
+
+## Key Topics
+
+### Access Zero Launch
+
+  - New microsite "Access Zero" soft-launched for hosting premium, interactive content
+  - First campaign: "Credentialitis" - playful take on security issues Aembit solves
+  - Includes AI doctor, diagnostic quiz, and downloadable treatment guide
+  - Team seeking advice on distribution and scaling eyeballs on the content
+
+### Content Performance and Strategy
+
+  - Agentic AI topics showing strong performance (51% increase in clicks, 1200% in impressions)
+  - Recent article on AI agents (late August) already gaining traction
+  - Plan to use webinar-based articles as source material for maintaining consistent voice
+  - Proposal to create a document summarizing key concepts to ensure consistency across articles
+
+### Article Length and Quality
+
+  - Discussion on article length (recent 2,800-word article)
+  - Emphasis on comprehensive coverage rather than length for length's sake
+  - Suggestion to focus on impactful content throughout, avoiding surface-level sections
+
+### Voice and Tone Concerns
+
+  - Ongoing issue with injecting Aembit's voice into blog content
+  - Proposal to experiment with different versions of a single article to identify effective approaches
+  - Plan to use webinar-based articles as a standard for checking voice consistency
+
+### Distribution Strategies
+
+  - Suggestions for Reddit campaigns, particularly for AI-related content
+  - Discussion of Beehive platform for newsletter distribution and subscriber acquisition
+  - Consideration of repurposing blog content for Access Zero in more interactive formats
+
+---
+
+## Action Items
+
+**Kyle Gaudreau (GrowthX)**
+- Review Access Zero microsite (access-zero.aembit.com). Provide feedback on content, user experience, and potential improvements. Share findings with Dan Kaplan.
+- Brainstorm distribution and promotion ideas for Access Zero content. Focus on increasing visibility and engagement across Reddit, newsletter platforms (Beehive), and influencer networks. Share recommendations with Dan.
+
+**Ehtisham Hussain (GrowthX)**
+- Implement "last mile" content consistency process: create summary document of key concepts from five approved/published webinar-based articles. Add as artifact in AI workflows to auto-check new articles for voice/tone consistency against published standard.
+- Select one recent article with identified voice/tone issues. Create three different variations addressing Aembit's concerns (testing different framing, length, artifact approaches). Share variations with Aembit team for feedback and pattern identification.
+
+---
+
+## Transcript
+
+**Kyle Gaudreau:** Hey there.
+
+**Kyle Gaudreau:** Hey, Kyle.
+
+**Kyle Gaudreau:** How you doing?
+
+**Kyle Gaudreau:** We're good.
+
+**Kyle Gaudreau:** Yeah, not too bad.
+
+**Ashur Kanoon:** Is everybody super busy today?
+
+**Ashur Kanoon:** Yeah, I don't know.
+
+**Kyle Gaudreau:** Must be the case, huh?
+
+**Kyle Gaudreau:** Who isn't busy?
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** We all work at startups.
+
+**Kyle Gaudreau:** I don't think there's a bay.
+
+**Kyle Gaudreau:** Not busy exists.
+
+**Kyle Gaudreau:** That's the fun part.
+
+**Kyle Gaudreau:** Yes, sir.
+
+**Kyle Gaudreau:** Where are you based out of, by the way?
+
+**Kyle Gaudreau:** Bay Area.
+
+**Ashur Kanoon:** Okay.
+
+**Ashur Kanoon:** Where in the bay?
+
+**Kyle Gaudreau:** South Bay.
+
+**Ashur Kanoon:** Okay.
+
+**Ashur Kanoon:** San Jose.
+
+**Ashur Kanoon:** Okay.
+
+**Kyle Gaudreau:** I'm in Oakland, so not too far away, but not a drive I wouldn't want to willingly do.
+
+**Kyle Gaudreau:** Yeah, the traffic is so bad nowadays.
+
+**Ashur Kanoon:** Yeah, for sure.
+
+**Ashur Kanoon:** I used to make the Fremont to South Bay Drive back in the day, and sometimes it would take me like an hour and a half to go like 10 miles.
+
+**Kyle Gaudreau:** I've talked to a couple companies in the past who were like, you know, down in that area and, you know, would have to go in multiple days a week.
+
+**Kyle Gaudreau:** And I'm just like, I just don't see how that's possible.
+
+**Kyle Gaudreau:** It's just for my sanity, for my family getting to see me, you know, you're talking probably multiple days of a two-hour commute.
+
+**Kyle Gaudreau:** Yep.
+
+**Kyle Gaudreau:** Hey, Ashur.
+
+**Kyle Gaudreau:** Hi, guys.
+
+**Kyle Gaudreau:** Hello.
+
+**Kyle Gaudreau:** Looks like Purva was a maybe, but Dan should be.
+
+**Kyle Gaudreau:** Yeah, Dan said two minutes.
+
+**Ashur Kanoon:** Aporo is not going to make it today.
+
+**Kyle Gaudreau:** Okay, cool.
+
+**Ashur Kanoon:** like stuck in back-to-back-to-back meetings.
+
+**Ashur Kanoon:** One of those days.
+
+**Kyle Gaudreau:** You always been in the South Bay area?
+
+**Ashur Kanoon:** Yeah, it's going on 26 years now.
+
+**Ashur Kanoon:** Damn.
+
+**Kyle Gaudreau:** Yep.
+
+**Kyle Gaudreau:** I've been in the Bay for a while, but that's, yeah, you got me beat.
+
+**Kyle Gaudreau:** think it's, when did I move here?
+
+**Kyle Gaudreau:** 2012?
+
+**Kyle Gaudreau:** Yeah, so it's good.
+
+**Kyle Gaudreau:** I came in 99.
+
+**Kyle Gaudreau:** Okay.
+
+**Ashur Kanoon:** Like, you know, just in time, just in time for the .com bust.
+
+**Kyle Gaudreau:** Hopefully from a timing, like cost-wise, that was beneficial.
+
+**Kyle Gaudreau:** But, yeah, it's been wild how much it's changed since then.
+
+**Kyle Gaudreau:** Yeah.
+
+**Ashur Kanoon:** Especially in the South Bay.
+
+**Kyle Gaudreau:** Yeah, cost of living down there is of, like, the average home.
+
+**Kyle Gaudreau:** Crazy.
+
+**Ashur Kanoon:** Yeah, I mean, everywhere around here is nuts.
+
+**Ashur Kanoon:** I moved here from Phoenix.
+
+**Ashur Kanoon:** Oh, man.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** It was like a shock.
+
+**Kyle Gaudreau:** Shock in a lot of ways, I'm sure.
+
+**Kyle Gaudreau:** Weather, cost of living, culture.
+
+**Ashur Kanoon:** One of my best friends grew up in Phoenix as well.
+
+**Ashur Kanoon:** Yeah, weather is the best over here, but the, like, especially now, I mean, even Phoenix has gotten expensive, but, I mean, when I first moved here, I was like, it was like going to another country.
+
+**Ashur Kanoon:** I'm, like, trying to figure out, you know, what the exchange rates are.
+
+**Kyle Gaudreau:** It's such a night and day difference.
+
+**Kyle Gaudreau:** I get it.
+
+**Kyle Gaudreau:** I grew up in the East Coast and started my career in Phoenix.
+
+**Kyle Gaudreau:** Went to school in Rhode Island, so it was quite a bit different than here, in a lot of ways, cost-wise.
+
+**Kyle Gaudreau:** Hi, Dan.
+
+**Kyle Gaudreau:** Hey, How you doing?
+
+**Dan Kaplan:** Doing okay.
+
+**Dan Kaplan:** Doing oh.
+
+**Dan Kaplan:** Okay.
+
+**Dan Kaplan:** Okay is better than bad.
+
+**Kyle Gaudreau:** Hopefully we can get you to a good, but okay.
+
+**Kyle Gaudreau:** Yeah, yeah.
+
+**Kyle Gaudreau:** Well, I'm going to Hawaii in two days.
+
+**Kyle Gaudreau:** Oh, hell yeah.
+
+**Dan Kaplan:** wife's 40th birthday, so.
+
+**Dan Kaplan:** Amazing.
+
+**Kyle Gaudreau:** I guess that's good.
+
+**Kyle Gaudreau:** Are you in the, I went to Hawaii a few weeks back, and I remember the week before it was stressful because of all the stuff I had to get done, so it sounds like.
+
+**Kyle Gaudreau:** like there's a lot of, there's things that need to get done.
+
+**Dan Kaplan:** Yeah, man.
+
+**Dan Kaplan:** And, you know, it's her 40th, so happy wife, happy life.
+
+**Dan Kaplan:** But, you know.
+
+**Dan Kaplan:** It's also football season, so, and, you know, it's six-hour difference, so it's going to be a lot of mimosas.
+
+**Dan Kaplan:** Early morning.
+
+**Dan Kaplan:** Yeah, yeah, Are you a Giants fan?
+
+**Dan Kaplan:** No, I actually like to wager on sporting events, so I actually have no team affinity.
+
+**Dan Kaplan:** Oh, really?
+
+**Kyle Gaudreau:** Interesting.
+
+**Kyle Gaudreau:** That's very pragmatic.
+
+**Dan Kaplan:** Yeah, I grew up a 49ers fan, like bandwagon in, like, the late 80s, early 90s, but, you know, like, I would probably choose, well, I don't even know, Jets over Giants or Giants over Jets.
+
+**Dan Kaplan:** I mean, anyone who willingly chooses the Jets, I have to question their sanity.
+
+**Kyle Gaudreau:** Yeah, that's probably true.
+
+**Dan Kaplan:** Although I think the Jets are going to, they looked okay, their quarterback, Justin Fields, looked okay in week one, so I don't know, you know.
+
+**Kyle Gaudreau:** Asher is
+
+**Dan Kaplan:** He's Bears fan, so he witnessed good Caleb Williams and bad Caleb Williams on Monday night, I think, right?
+
+**Kyle Gaudreau:** I turned off that game.
+
+**Kyle Gaudreau:** I feel like it's my fault.
+
+**Kyle Gaudreau:** was like, oh, you know, Caleb's crushing it.
+
+**Ashur Kanoon:** honestly just, you just, all the, everything that I had suppressed, you brought him back to the surface.
+
+**Kyle Gaudreau:** Sorry about that.
+
+**Dan Kaplan:** Between that game and then the Sunday night Bills-Ravens game, it's almost like you need to have your head examined if you are wagering real dollars in this league because, like, the, the, the changes and the, the bounces and the, and the catches that should be intercepted that are made and fluke turnovers and, you know, coaches' decisions, it's just as, like.
+
+**Kyle Gaudreau:** That's a wild, wild, wild week.
+
+**Kyle Gaudreau:** There's a lot of fun for me, but, well, not for my Patriots losing, but that's another story.
+
+**Kyle Gaudreau:** Yeah, although they have the lowly Dolphins this week.
+
+**Dan Kaplan:** So we'll see what happens there.
+
+**Dan Kaplan:** Their coach could be one week on the way out pretty early this year, McDaniels.
+
+**Kyle Gaudreau:** But it'll be interesting.
+
+**Dan Kaplan:** It'll be interesting to be there during, you know, I also enjoy college.
+
+**Dan Kaplan:** So it'll just be like kind of an interesting time zone thing, you know.
+
+**Kyle Gaudreau:** Hope you have fun.
+
+**Dan Kaplan:** The great part, though, about like, I always say like whenever I'm on the West Coast traveling for work or, you know, it just feels like when you wake up, like the world has already begun because the East Coast is like in, you know, so I always feel behind.
+
+**Dan Kaplan:** But I think the good part is the evenings, you know, when like everything is just sort of has quieted down, especially in Hawaii, which is six hours.
+
+**Dan Kaplan:** So it'll be like, you know, there won't be much to think about except concentrating on my beautiful wife.
+
+**Dan Kaplan:** So that'll be good.
+
+**Kyle Gaudreau:** go.
+
+**Kyle Gaudreau:** There you go.
+
+**Kyle Gaudreau:** Enjoy it.
+
+**Kyle Gaudreau:** I can talk about Hawaii football all day.
+
+**Kyle Gaudreau:** Yeah, yeah, no, no worries.
+
+**Dan Kaplan:** By the way, I should mention, we'll transition to Aembit, and before we talk about the growthx stuff, I just want to show you, I haven't really brought this up, but we built, which we kind of soft launched today, we have like this internal, this microsite or experiential hub that we built, where the idea is to host kind of premium content, you know, like experiential, interactive content, we want to live here, and it's on the site itself, it's part of our domain, but it's kind of has its own branding, we're calling it Access Zero, and I think the idea is, is to kind of have that, like, is to just not have it, have it freed from, from, from the main site, some of the constraints.
+
+**Dan Kaplan:** And then, you know, obviously we can probably have a lot more liberty with what we can do here dynamically and whatnot.
+
+**Dan Kaplan:** And as part of the launch of this hub, the first kind of thing was this credentialitis campaign, which is kind of like a sort of a playful take on the very serious, you know, disorder, ailment, afflictions that companies are facing that we help solve, obviously.
+
+**Dan Kaplan:** So it's kind of like WebMD style page.
+
+**Dan Kaplan:** Then we have a, we have an AI doctor who's kind of funny.
+
+**Dan Kaplan:** And then you can kind of, if you scroll down and read through like, you know, whatever, this is kind of like the overview of, of credentialitis.
+
+**Dan Kaplan:** And then you could diagnostically assess your infrastructure with a, with a, with a, with a quiz, like a 12 question quiz.
+
+**Dan Kaplan:** And then after the quiz is.
+
+**Dan Kaplan:** Over you're met with a kind of a custom risk score, like how bad is your credentialitis, essentially, on a scale of one to five, and then you're prompted to download a treatment guide, which is like a kind of a digestible sort of white paper style, step, you know, seven step plan kind of thing.
+
+**Dan Kaplan:** So it's kind of, you know, I don't know how this is gonna do, but we wanted to, you know, we were just trying to like, you know, do, we're trying to, you know, leading edge with our stuff, innovate some of our content.
+
+**Dan Kaplan:** But the idea is that like, you know, more things could live here.
+
+**Dan Kaplan:** So I'm presenting it to you because like, now this is officially like an extension of our website.
+
+**Dan Kaplan:** And, you know, you guys being experts, there might be some advisement you could provide, or as we do more here, like I'm thinking like a next.
+
+**Dan Kaplan:** Yeah.
+
+**Dan Kaplan:** might be like something agentic AI related.
+
+**Dan Kaplan:** So I just wanted to kind of let you know that this is now living and breathing.
+
+**Kyle Gaudreau:** Yeah, this is cool.
+
+**Kyle Gaudreau:** We're actually working on a somewhat similar play for Aembit right now and standing up a subdomain.
+
+**Kyle Gaudreau:** And they have, you know, it's just some constraints of making updates on their typical website.
+
+**Kyle Gaudreau:** And we're essentially framing it as like we're standing up this new publication, which I feel like is learning the mindset you have here, right?
+
+**Kyle Gaudreau:** It's like branding it in a specific way.
+
+**Kyle Gaudreau:** What's the theme of it and things of that nature.
+
+**Kyle Gaudreau:** And so what we're doing there, and I'm not saying this is the play for you all, but I've seen different kind of like similar plays within this is like there's kind of like a couple core elements, one being just like the general like content hub.
+
+**Kyle Gaudreau:** And like, what is that content?
+
+**Kyle Gaudreau:** Like, who are we speaking to?
+
+**Kyle Gaudreau:** Why, et cetera?
+
+**Kyle Gaudreau:** What are those key themes?
+
+**Kyle Gaudreau:** And so we're putting a lot of work into thinking about that.
+
+**Kyle Gaudreau:** And then that is going to eventually feed into a newsletter as well.
+
+**Kyle Gaudreau:** That is both.
+
+**Kyle Gaudreau:** It's going to be hosted in editions on the website, but also sent as a newsletter that is taking some of this key content as well as relevant news, right?
+
+**Kyle Gaudreau:** And it all needs to feed that cohesive theme.
+
+**Kyle Gaudreau:** For them, what the focus is is about building AI-native teams and figuring out different ways we can talk about trends and how to think about skill gap analysis and a whole bunch of other stuff.
+
+**Kyle Gaudreau:** But we're trying to think about it in that cohesive theme and curate the newsletter and the content to that.
+
+**Kyle Gaudreau:** And so I'm not saying that's, like, exactly the play to do here, but something to consider.
+
+**Kyle Gaudreau:** But generally, I think, you know, being really mindful of, like, what is the brand of AccessZero?
+
+**Kyle Gaudreau:** Like, who are we speaking to?
+
+**Kyle Gaudreau:** Why?
+
+**Kyle Gaudreau:** How does that, like, finding some way of, like, that to truly feel like a living, breathing, separate part of what you're doing, I think is really smart.
+
+**Kyle Gaudreau:** And so, you know, how does that inform the topics?
+
+**Kyle Gaudreau:** How does that inform how we write about the topics and things of that nature?
+
+**Kyle Gaudreau:** So...
+
+**Kyle Gaudreau:** Also can be interesting how this works on like a GEO perspective when it's on a subdomain kind of remains to be seen.
+
+**Kyle Gaudreau:** But like one of the ways this actually came across recently, I'll just share this real quick.
+
+**Kyle Gaudreau:** So Kanji, which I'm sure you all are aware, familiar with, we use them to, I mean, a lot of my companies have used them to, you know, securing devices, things of that nature.
+
+**Kyle Gaudreau:** But they set up the sequence and they were actually sharing this in LinkedIn recently.
+
+**Kyle Gaudreau:** This is kind of a similar play.
+
+**Kyle Gaudreau:** We're actually using this as inspiration.
+
+**Kyle Gaudreau:** Like they have this content hub.
+
+**Kyle Gaudreau:** I think it's like, okay, in terms of like the execution.
+
+**Kyle Gaudreau:** It's not amazing, but like similar vibe or whatever.
+
+**Kyle Gaudreau:** But more the point of what they shared was from a GEO perspective, they're actually finding that this, now this is a separate domain.
+
+**Kyle Gaudreau:** It's the sequence.com is actually like.
+
+**Kyle Gaudreau:** Hoping frame how they're being mentioned in LLMs almost as like an external source to them.
+
+**Kyle Gaudreau:** And so I'm curious to learn and see with like Aembit where it's going to be on a subdomain, but yet the feeling of it is not going to be pitch forward.
+
+**Kyle Gaudreau:** It's going to be like very much about like talking about the subjects.
+
+**Kyle Gaudreau:** If that kind of blends and has some similar halo effects or, you know, is this being on a separate domain, like the key differentiator behind that from like an LLM standpoint.
+
+**Kyle Gaudreau:** But anyways, like things like this, like this is a pretty like scrappy execution of it.
+
+**Kyle Gaudreau:** But, you know, I think it's still in the same vein of like how you are.
+
+**Kyle Gaudreau:** So this is not there.
+
+**Kyle Gaudreau:** Like we have a resource hub on our on our primary, you know.
+
+**Kyle Gaudreau:** And yeah, this is like a separate resource hub.
+
+**Kyle Gaudreau:** Like they like, you know, separate content, separate framing of the content, like the way we're going to do it for Aembit is we're actually going.
+
+**Kyle Gaudreau:** to repurpose some of their content and leverage it as inspiration.
+
+**Kyle Gaudreau:** They have courses, they have webinars, they have podcasts, they have even blogs we can probably repurpose in a variety of ways, but it's to fit that cohesive theme and subject that we want to work about.
+
+**Kyle Gaudreau:** So anyways, just throwing some of those things out there for inspiration as you're thinking about that.
+
+**Kyle Gaudreau:** Yeah.
+
+**Dan Kaplan:** So I would love any and all kind of feedback or thoughts.
+
+**Dan Kaplan:** Like if, if there, you know, is a play for you guys to get involved there, you know, I'm kind of like, like creative minded.
+
+**Dan Kaplan:** I'm like, this is cool.
+
+**Dan Kaplan:** But then like, sometimes I'm just like, okay, does anyone care or how can this, you know, how can this grow?
+
+**Dan Kaplan:** How can this scale?
+
+**Dan Kaplan:** How can this get eyeballs on it?
+
+**Dan Kaplan:** You know, which is like always like the challenging question.
+
+**Dan Kaplan:** Do you have like a distribution?
+
+**Ehtisham Hussain:** Do you have a distribution plan for this?
+
+**Ehtisham Hussain:** Have you created?
+
+**Ehtisham Hussain:** I mean.
+
+**Ehtisham Hussain:** In the home.
+
+**Dan Kaplan:** Well, yeah, mean, lot of, like, you know, definitely, I think that there's a lot of, like, social opportunity for this.
+
+**Dan Kaplan:** Like, I think it plays well on social.
+
+**Dan Kaplan:** You know, it will, you know, will inform our monthly newsletter called Ambit Access.
+
+**Dan Kaplan:** You know, we'll include it there, certainly.
+
+**Dan Kaplan:** I mean, those are the obvious things.
+
+**Dan Kaplan:** But then, you we work with a, an influencer, you know, warehouser or whatever you want to, just where influencers can kind of see our content and share it.
+
+**Dan Kaplan:** So certainly there, it's called SciFluencer.
+
+**Dan Kaplan:** But yeah, I mean, we obviously would want, you know, any ideas there, right?
+
+**Dan Kaplan:** Like, I think that this is something neat and cool that could, that has shareability to it, right?
+
+**Dan Kaplan:** But I would, I would.
+
+**Dan Kaplan:** Honestly, say that, like, I still, even though I know that, like, you need to be devoting just as much, if not more time to your distribution and promotion plans as you are to creating content in this content-saturated era, it's still, like, really, it's hard, right?
+
+**Dan Kaplan:** It's hard for you to do.
+
+**Ehtisham Hussain:** Just like, just looking at this campaign, this looks like the perfect kind of campaign for YouTube and Reddit.
+
+**Ehtisham Hussain:** But YouTube is going to be expensive, Reddit is significantly more affordable, and you can target a specific subreddits over there as well.
+
+**Ehtisham Hussain:** You can take out video ads and you can take out this text and, yeah.
+
+**Ehtisham Hussain:** So paid Reddit campaign could actually, you can conduct it over a long period of time for a significantly more affordable cost as compared to other social media platforms.
+
+**Ehtisham Hussain:** And because, like, I bring up Reddit because I was, uh, I went into Reddit last week to come up with a bunch of topics and there is.
+
+**Ehtisham Hussain:** Like there are people over there talking about agentic AI and security and everything.
+
+**Ehtisham Hussain:** So there are subreddits over there that you can target with this kind of campaign.
+
+**Ehtisham Hussain:** The AI doctor is like perfect for YouTube, but it's noisy over there on YouTube.
+
+**Ehtisham Hussain:** You'll be competing against a lot of people.
+
+**Ehtisham Hussain:** Plus every other ad that I see these days on YouTube is AI people with AI voices.
+
+**Ehtisham Hussain:** So I don't know how it's not going to stand out over there.
+
+**Ehtisham Hussain:** That's the risk.
+
+**Kyle Gaudreau:** Another thing to consider, and we can send you some examples in terms of like distribution of this and like your newsletter, for example.
+
+**Kyle Gaudreau:** Marcel is a big fan of Beehive and was using them in the past when he stood up the newsletter Deepgram.
+
+**Kyle Gaudreau:** And we've been leveraging that for folks like an augment code.
+
+**Kyle Gaudreau:** We stood up their newsletter, I don't know, maybe like two months ago or so.
+
+**Kyle Gaudreau:** And then metrics are really, really strong.
+
+**Kyle Gaudreau:** Beehives got some pretty interesting angles in terms of distribution where you can actually acquire subscribers and bid on them in a variety of ways and then bid on their engagement and do that based off other relevant places that they would live.
+
+**Kyle Gaudreau:** And so he can speak a little bit more to the actual system and strategy better than I can.
+
+**Kyle Gaudreau:** He's got more depth of experience on it.
+
+**Dan Kaplan:** But it sounds like a play, like a newsletter sort of replacement.
+
+**Dan Kaplan:** Like, we would move to this.
+
+**Kyle Gaudreau:** Yeah, your audience can live there.
+
+**Kyle Gaudreau:** There's loops in, like, how you can continue to build the audience and distribution within that.
+
+**Kyle Gaudreau:** And then it also makes it easy for you to create the content itself.
+
+**Kyle Gaudreau:** Like, we create the newsletter itself in Beehive for Augment Code.
+
+**Kyle Gaudreau:** Like, all the visuals, the sends, all that is managed within Beehive, the platform itself.
+
+**Kyle Gaudreau:** And then we can also increase their subscriber base through some of that plays that Beehive has as, like, a value add.
+
+**Kyle Gaudreau:** And...
+
+**Kyle Gaudreau:** That system.
+
+**Kyle Gaudreau:** so it's an interesting play of like extending the distribution in some way and like how does this potentially fit in there?
+
+**Kyle Gaudreau:** So happy to like get some of those thoughts back.
+
+**Kyle Gaudreau:** Actually, I think Marcel and the pervert catching up soon this week or next week.
+
+**Kyle Gaudreau:** And so I can drop a bug in his ear just to share some of that.
+
+**Kyle Gaudreau:** If you wouldn't mind.
+
+**Dan Kaplan:** Yeah.
+
+**Dan Kaplan:** We're kind of in between like growth demand gen person as well currently.
+
+**Dan Kaplan:** So it's kind of on us to think through some of these things.
+
+**Dan Kaplan:** That's great.
+
+**Dan Kaplan:** Ashur, do you have any thoughts on these?
+
+**Ashur Kanoon:** No, not too much input.
+
+**Ashur Kanoon:** Yeah.
+
+**Dan Kaplan:** I know Ashur spends a little bit of time on Reddit, but we haven't really like organically or whatever, you know, but and which is really the kind of the ultimate code to crack there.
+
+**Dan Kaplan:** Right.
+
+**Dan Kaplan:** But we haven't, I've been pitched kind of, I sponsored opportunities there.
+
+**Dan Kaplan:** It might be something also to consider.
+
+**Dan Kaplan:** But yeah, like if he, if he, if you can put the bug in his ear and maybe talk about some of these things, maybe have him mention like, hey, I saw you guys did this.
+
+**Dan Kaplan:** That would be helpful.
+
+**Kyle Gaudreau:** I think that would be helpful.
+
+**Kyle Gaudreau:** Have you pushed that, you were showing us in WordPress it looked like, but is any of that live currently on a, like, even like a staging link or something?
+
+**Kyle Gaudreau:** Oh, wait, the, what I just shared with you?
+
+**Dan Kaplan:** Yeah.
+
+**Dan Kaplan:** Yeah, it's live.
+
+**Dan Kaplan:** I was just logged in.
+
+**Dan Kaplan:** you probably.
+
+**Dan Kaplan:** Oh, got it, got it.
+
+**Kyle Gaudreau:** Yeah.
+
+**Dan Kaplan:** If you look at our, we like, I guess we, you know, it launched today.
+
+**Dan Kaplan:** Like I shared, I just shared a LinkedIn post about it.
+
+**Dan Kaplan:** And all the elements are up and running.
+
+**Dan Kaplan:** I mean, there might be like a couple of still things to some, some social assets to still acquire, but like the experience is, is live.
+
+**Dan Kaplan:** And, you know, I have kind of like a, a plan, like plan for sharing the assets.
+
+**Dan Kaplan:** But I think.
+
+**Dan Kaplan:** There's some distribution methods that we just haven't taken a shot on, and that might be worth it, like the aforementioned ones.
+
+**Kyle Gaudreau:** Totally.
+
+**Kyle Gaudreau:** All right.
+
+**Ehtisham Hussain:** So I'll get started with my presentation.
+
+**Ehtisham Hussain:** wow.
+
+**Ehtisham Hussain:** But maybe give it a like, you know, the LinkedIn.
+
+**Kyle Gaudreau:** We could use our growthx.
+
+**Kyle Gaudreau:** Support also.
+
+**Kyle Gaudreau:** So the first one I see is about a fast company.
+
+**Kyle Gaudreau:** Yeah, that's the pinned one.
+
+**Dan Kaplan:** But if you scroll down, hopefully, maybe.
+
+**Kyle Gaudreau:** I don't see it.
+
+**Kyle Gaudreau:** I see what the other one's four weeks ago.
+
+**Dan Kaplan:** Maybe that's just like a glitch.
+
+**Dan Kaplan:** It should be.
+
+**Dan Kaplan:** Maybe it's like, maybe it's processing.
+
+**Kyle Gaudreau:** I don't know what's happening, but.
+
+**Kyle Gaudreau:** But yeah.
+
+**Kyle Gaudreau:** The most recent LinkedIn post wouldn't be four weeks ago.
+
+**Dan Kaplan:** So it would be.
+
+**Dan Kaplan:** Well, it says 123.
+
+**Dan Kaplan:** One.
+
+**Kyle Gaudreau:** Three hours ago for the Fast Company repost, and then the one before that I'm seeing is, yeah, don't know why.
+
+**Kyle Gaudreau:** Sometimes that happens.
+
+**Kyle Gaudreau:** I don't know.
+
+**Dan Kaplan:** LinkedIn is weird.
+
+**Dan Kaplan:** Okay, keep an eye out.
+
+**Dan Kaplan:** Yeah, for sure.
+
+**Dan Kaplan:** Or I could also drop the link right in here directly, right?
+
+**Dan Kaplan:** Let's do that.
+
+**Dan Kaplan:** Let's see if that works.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** All right.
+
+**Dan Kaplan:** Sorry, E, go ahead.
+
+**Dan Kaplan:** All right.
+
+**Dan Kaplan:** So two new articles have been published since we last met.
+
+**Ehtisham Hussain:** I figured out what was wrong with the formatting.
+
+**Ehtisham Hussain:** The blog template was not being applied.
+
+**Ehtisham Hussain:** So I went into Elementor, made some unnecessary changes, reverted them, saved the draft, hit publish again, and now everything is fine if you look at it.
+
+**Ehtisham Hussain:** So I'm just going to make sure I'll go through everything we have published until now, and I'll see if there's any discrepancies over there.
+
+**Ehtisham Hussain:** Because when you're publishing it, like when you're on the inside, it looks fine.
+
+**Ehtisham Hussain:** But then I'll just make sure that after being published, it looks fine, too.
+
+**Ehtisham Hussain:** thanks.
+
+**Ehtisham Hussain:** No worries, no worries.
+
+**Ehtisham Hussain:** There are three that are ready to review.
+
+**Ehtisham Hussain:** Ashur, I'll look into why you can't tag me because you should be able to tag me in those documents.
+
+**Ehtisham Hussain:** I usually either am the owner of those documents or I edit them and then I submit.
+
+**Ehtisham Hussain:** So I look into why I can't be tagged.
+
+**Ehtisham Hussain:** But you can just simply change the status from here.
+
+**Ehtisham Hussain:** You can change the status to, if it's ready to be published, you can just move to ready to publish or you can move it back to editing.
+
+**Ehtisham Hussain:** And depending on, like, you can approve it if it's an outline and so on.
+
+**Ehtisham Hussain:** So that will also let us know.
+
+**Ehtisham Hussain:** Okay.
+
+**Ashur Kanoon:** All right.
+
+**Ehtisham Hussain:** So Apoorva shared, I think, 13 new ideas.
+
+**Ehtisham Hussain:** I've already replied to him in Slack.
+
+**Ehtisham Hussain:** Two of those had no search volume whatsoever.
+
+**Ehtisham Hussain:** So I didn't flesh them out and I didn't build any topics around them.
+
+**Ehtisham Hussain:** But for others, we now have a bunch of new topics that Apoorva proposed as well
+
+**Ehtisham Hussain:** This is some that I proposed, I see that you guys have already approved a bunch of topics too, so it's a good thing we now have like a bunch of new topics produced, we are picking up some momentum when it comes to publishing, and hopefully you guys don't have to spend as much time now in editing as you were a couple of weeks ago.
+
+**Ehtisham Hussain:** There are two, like, so this, the next batch, it will have five agentic AI topics, in addition to two webinar-based articles.
+
+**Ehtisham Hussain:** The agentic AI topics have come in really at a good time, because when I look at this, the only topic that has really, like, it has performed really high recently, is the five security considerations for managing AI agents.
+
+**Ehtisham Hussain:** It went up, like, 51% in terms of clicks, and over 1,200% in terms of impressions.
+
+**Ehtisham Hussain:** This is the same, like, data that I got.
+
+**Ehtisham Hussain:** When I went into GA4, and I narrowed it down to some of the blogs that we published recently, the one that is attributed to Aparva about AI agents that was published late in August, and it's already got like four or five clicks.
+
+**Ehtisham Hussain:** It's getting impressions.
+
+**Ehtisham Hussain:** Pretty much anything that's talking about AI agents, it's getting clicks now.
+
+**Ehtisham Hussain:** So that's a very healthy sign right now.
+
+**Ehtisham Hussain:** The traffic in general, when it comes to impressions, impressions are compounding, they're going up.
+
+**Ehtisham Hussain:** We reviewed this data internally as well, me and Kyle.
+
+**Ehtisham Hussain:** And so the impressions is a positive sign that it's accumulating.
+
+**Ehtisham Hussain:** Clicks are coming, they're holding steady, but we will need to publish more of get more clicks.
+
+**Ehtisham Hussain:** And hopefully the agentic AI topics are going to help because they also have a higher search volume compared to what we usually do.
+
+**Ehtisham Hussain:** Like a lot of these topics that we do, they don't have, they're super niche and they don't.
+
+**Ehtisham Hussain:** You have that much search volume, so you don't have that many people searching for them, you don't get that many clicks, but with agentic.ai, I think we're going to crack the code over there, that's the next bet that we're doing, plus the webinar-based articles, the five articles, I have something planned where I'm going to, once all five are approved and published and everything, I'm going to start treating them as a source of growth for our workflows, to double-check, how we talk about workloads, how we talk about AI agents, and how we talk about all these different concepts that are repeated throughout our articles, and where we have to revise it again and again.
+
+**Ehtisham Hussain:** Hopefully, with the new published topics, and approved topics from your side, we can treat them as kind of like a source of growth for all those topics, and we can make sure that we are getting these topics through
+
+**Ehtisham Hussain:** In one go.
+
+**Ehtisham Hussain:** So that's pretty much the overall picture.
+
+**Ehtisham Hussain:** There was another feedback like last week by Ashur about a 2,800 word article that we published.
+
+**Ehtisham Hussain:** And so article length, it can vary based on the topic.
+
+**Ehtisham Hussain:** Sometimes, in fact, over the last few years, if you go into SEO surfer or any of the other tools that tell you what the length of your article should be, you're always competing against long form articles that are 1,500 words, 2,000 words, 2,500 words, 3,000 words.
+
+**Ehtisham Hussain:** So there has been an article word count inflation over the last few years.
+
+**Ehtisham Hussain:** If you go and check for any topic, the top five, top 10 articles are super long, which shouldn't, you know, it shouldn't really be the case, but every time someone loses their ranking and their article goes, let's say, it goes from number one or number two to number five or number six.
+
+**Ehtisham Hussain:** The instinct is to go back into the article and add more content so that it can rise up again.
+
+**Ehtisham Hussain:** And that kind of results in articles becoming bloated over time.
+
+**Ehtisham Hussain:** So that's why sometimes our workflows suggest articles that are super long because you're going up against super long articles.
+
+**Ehtisham Hussain:** We have noticed, like with other customers as well, that long form articles, they do well in terms of SEO and they do rank well because you're casting a wider net.
+
+**Ehtisham Hussain:** You're covering more topics.
+
+**Ehtisham Hussain:** It's correct that a lot of people are not going to read the whole thing, but people are going to, you know, they're going to hit control F and they're going to search for the thing relevant to them, the thing that brought them to the page.
+
+**Ehtisham Hussain:** They'll go and get that information, get out.
+
+**Ehtisham Hussain:** So long form articles do work, but not all of these are super long.
+
+**Ehtisham Hussain:** Like if you notice some of the more recent ones, they're like 1,200 words, 1,500 words and so on.
+
+**Ehtisham Hussain:** So we are mixing it up and if the results favor the longer version or the shorter version, we'll just follow.
+
+**Kyle Gaudreau:** Yeah, my take is usually, like, we should be, we should think about article length and look at it and things of that nature, but it should be informed by the comprehensive nature of the topic.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** And it shouldn't be just, like, length for the sake of length, and it's clear to what Ehtisham was mentioning there, right?
+
+**Kyle Gaudreau:** And so, like, hopefully we can start to parse that out as we are understanding, like, okay, like, this, these sections are feeling a bit surface level, like, really not adding anything.
+
+**Kyle Gaudreau:** That's the kind of patterns we want to be careful of, but there's definitely a path where, like, comprehensive is a great user experience in answering the complexity of, like, a subject, right?
+
+**Kyle Gaudreau:** And so, there's some things maybe to experiment around of, like, you know, how much should that be, like, you know, you have, like, kind of, like, a hope.
+
+**Kyle Gaudreau:** Pillar cluster aspect of that, right, of, like, it's a comprehensive topic, cover a certain depth of the comprehensive nature of the topic, but double-click into other posts.
+
+**Kyle Gaudreau:** So we could consider, you know, if we feel like we're running into this and we're not sure how to handle it, like, let's experiment and see, like, how that works.
+
+**Kyle Gaudreau:** And so, but generally, like, 2,800 is long, but I wouldn't say, like, I look at it less about the number and more, like, how much do we get, like, this effect of, like, okay, like, there's just, we've added all these sections that said nothing.
+
+**Kyle Gaudreau:** Right.
+
+**Dan Kaplan:** Is it impactful all the way through?
+
+**Dan Kaplan:** Yeah.
+
+**Dan Kaplan:** Um, and then I, one of the things, I know we're at time, uh, Apoorva wanted me to bring up, uh, still having an issue with the injection of, of our voice into, into some of these, uh, blogs.
+
+**Dan Kaplan:** Um, was there any further thoughts on that?
+
+**Dan Kaplan:** I know when we share.
+
+**Dan Kaplan:** Yeah.
+
+**Dan Kaplan:** Like voice notes, that could be helpful.
+
+**Dan Kaplan:** I don't know.
+
+**Dan Kaplan:** I guess this is something that's still coming up for him that he's not happy with.
+
+**Dan Kaplan:** And it's true for me.
+
+**Dan Kaplan:** I mean, I just didn't know if we were at an impasse with it.
+
+**Ehtisham Hussain:** So any feedback?
+
+**Ehtisham Hussain:** Like, was it related to the latest articles that are webinar-based articles?
+
+**Ehtisham Hussain:** Because there, the webinar transcript is the source of information.
+
+**Ehtisham Hussain:** Right.
+
+**Ehtisham Hussain:** So there's no, there's very little chance of us.
+
+**Ehtisham Hussain:** But generally, way to overcome this is to do what?
+
+**Dan Kaplan:** Like, what's the best way for us to be, for our perspective to be reflected in these?
+
+**Ehtisham Hussain:** So my plan was with these five articles, plus the few that we have already published, what I'm going to do is I'm going to summarize them, all the concepts in those articles, and then I will add that document as an.
+
+**Ehtisham Hussain:** Artifact in our workflows, that would be the last step document, as in when the article is created and everything, then at the last step, the AI is going to go to that document that is already, that consists of approved and published articles, it's going to read it, it's going to go back and it's going to check all the information in the new article and match the voice and how we talk about different concepts and how we talk about, how we describe different techniques and concepts and everything.
+
+**Ehtisham Hussain:** So hopefully, like, at that stage, we are going to catch any inconsistencies based on stuff that has already been published.
+
+**Ehtisham Hussain:** That's the plan.
+
+**Ehtisham Hussain:** So that's why I was, like, following up a lot about the webinar-based articles, because as soon as it's done, we can, you know, I can add that step.
+
+**Kyle Gaudreau:** One thing we could do is just, like, you know, pick a particular piece where this is.
+
+**Kyle Gaudreau:** So, you know, the Aembit team is feeling that particular feedback is applicable.
+
+**Kyle Gaudreau:** It sounds like it's across multiple pieces, but just like, let's pull on.
+
+**Kyle Gaudreau:** And then let's just come up with a few different versions of it and just like experiment with different tactics of like, hey, what if we do this?
+
+**Kyle Gaudreau:** What if we do that?
+
+**Kyle Gaudreau:** And like, just try to pattern match and see if that is touching some of the notes.
+
+**Kyle Gaudreau:** And then from the Aembit side, like the better we can get specific in terms of feedback of like, this is where these particular phrases or, you know, whatever feels off.
+
+**Kyle Gaudreau:** We can try to run with that.
+
+**Kyle Gaudreau:** But yeah, Ashur, we could experiment with different things around the artifacts and how we frame them, the length of them, what we put in them, et cetera.
+
+**Kyle Gaudreau:** And just see, is there like something we can pick up on rather than just continuing to go on to the next topic, right?
+
+**Kyle Gaudreau:** And like, okay, let's look.
+
+**Kyle Gaudreau:** This one, and like, I think if we just focus on one, we create some versions of it.
+
+**Kyle Gaudreau:** Maybe that helps us get to something where it's like, okay, now we feel like we learned something of like, this is, if we do X, it makes Y better.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** So that'd be my hunch, because I just think we need to calibrate in that way, understand better and experiment.
+
+**Kyle Gaudreau:** And, and I think it's going to be tough to get something that's too repeatable for always doing that across varying articles, because there's just other variables to consider.
+
+**Dan Kaplan:** So maybe I'm misunderstanding.
+
+**Dan Kaplan:** You're suggesting to, to just take one and.
+
+**Kyle Gaudreau:** Like, so, so let's, you know, maybe it's some of the pieces that sounds like we did recently, where you all are saying like the voice and tone, this is where it needs to be.
+
+**Kyle Gaudreau:** Rather than just purely looking at this from the perspective of hopefully the next batch of art.
+
+**Kyle Gaudreau:** It's better in that perspective.
+
+**Kyle Gaudreau:** Of course, we want to do that.
+
+**Kyle Gaudreau:** Let's just take a single piece and create different versions of that piece, leveraging different things that we hope address the voice and tone in a way of like, how does this resonate?
+
+**Kyle Gaudreau:** How does that resonate?
+
+**Kyle Gaudreau:** Is this better?
+
+**Kyle Gaudreau:** Why?
+
+**Kyle Gaudreau:** And like, if we can pick up on some patterns of things we did differently, I think that will make it easier for us to figure out how do we do that more widely.
+
+**Dan Kaplan:** You're saying take one article and do different variations of it?
+
+**Kyle Gaudreau:** Correct.
+
+**Kyle Gaudreau:** Yeah, we've done this in the past and it can be helpful.
+
+**Kyle Gaudreau:** so it's just like, here's three versions of this.
+
+**Kyle Gaudreau:** How choose which one we want to do that with?
+
+**Kyle Gaudreau:** I would just pick one that like your feedback that you just mentioned is like, it sounds like it's across multiple, but like, let's just pick like from your perspective, like.
+
+**Kyle Gaudreau:** Where we're actually seeing this problem and then work on that one.
+
+**Dan Kaplan:** Yeah, exactly.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** OK, and I'm not saying pause all work and just do that to be clear, but like, rather than just trying to tackle this across.
+
+**Kyle Gaudreau:** It's each topic or each article and hopefully next batch focusing on a singular article I think can hopefully help us pick up on some things that are not working.
+
+**Dan Kaplan:** And Ehtisham, you've said that from your end there's some like last mile process that you've implemented?
+
+**Ehtisham Hussain:** Yeah, so I'm yet to implement it because I was waiting for the remaining webinar-based article.
+
+**Ehtisham Hussain:** Because the reason why I'm waiting for the webinar- Because those all kind of like represent our voice the way that they Exactly, exactly.
+
+**Ehtisham Hussain:** Because they only use the transcript as the source of information.
+
+**Ehtisham Hussain:** So there's very little chance of us going wrong over there.
+
+**Ehtisham Hussain:** We get five of those or four of those.
+
+**Ehtisham Hussain:** That becomes kind of like our standard for checking all other articles where similar concepts are discussed.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** So we can do both.
+
+**Ehtisham Hussain:** We can do both.
+
+**Ehtisham Hussain:** Yeah.
+
+**Ehtisham Hussain:** Yeah, that sounds good.
+
+**Ehtisham Hussain:** um okay i'll make these notes um and then finally um what were you saying about i didn't follow the the source of truth thing that you were mentioning that when you were giving your update explain that again to me the source of truth as in weren't you saying something like you were you were mentioning that agentic.ai is doing really well specifically oh yeah that's four vote one something after that i didn't follow let me go back to the window so the agentic ai related topics on the published articles that we have on the website they're getting more clicks now the there was one that we published late august and it got uh clicks this week and it's like uh it got like four or five clicks which is pretty quick uh like it got indexed quickly it's getting impressions quickly it got clicks quickly quickly so i i'm hoping to see it get more traffic plus older older
+
+**Ehtisham Hussain:** Topics that talk about agentic AI security, they are getting more clicks and impressions, they are on a positive trend.
+
+**Ehtisham Hussain:** So, and I think that's why the agentic AI topics that we are planning to do with this batch, they have come in at the right time.
+
+**Ehtisham Hussain:** It seems to be a trending topic and it seems to be the way to go in terms of traffic and everything.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** That's what I was saying.
+
+**Ehtisham Hussain:** Yeah, I can't agree.
+
+**Ehtisham Hussain:** Yeah, reaffirms the idea.
+
+**Dan Kaplan:** I mean, we're pretty all in on agentic AI at this point.
+
+**Dan Kaplan:** So I think that's going to be like a predominant topic that we're addressing in these.
+
+**Ehtisham Hussain:** Okay.
+
+**Dan Kaplan:** All right.
+
+**Dan Kaplan:** All sounds good.
+
+**Dan Kaplan:** I appreciate it.
+
+**Dan Kaplan:** All right.
+
+**Ehtisham Hussain:** And we can stay, like, we'll stay in touch throughout the week on Slack.
+
+**Ehtisham Hussain:** Hopefully we were significantly more active this week and that's how we work.
+
+**Ehtisham Hussain:** See you all next week.
+
+**Dan Kaplan:** next week, but I'll – next
+
+**Dan Kaplan:** No, the guys will be monitoring, and then I'm back for the foreseeable future.
+
+**Dan Kaplan:** And then I'll just, I just shared again the link to the new hub, specifically Credentialitis.
+
+**Dan Kaplan:** I think there, like I said, think there's, I mean, we're creating a lot of great content that could be, even with these blogs, like, I mean, usually you create one long form piece and you chop them up into blogs.
+
+**Dan Kaplan:** We're creating, like, we're creating a huge repository of AI-related content here that I think could be, in some way, reformatted to live in Access Zero, like, in the form of something really practical and really, like, sort of experiential.
+
+**Dan Kaplan:** Like, we're, like, maybe we help, if an organization is really flummoxed by this problem, maybe we offer them a toolbox of, like, here's a, here's a PowerPoint deck, here's some, like, templates of this.
+
+**Dan Kaplan:** Here's, like, just your work.
+
+**Dan Kaplan:** I want your all-in-one kind of toolbox to understand these problems.
+
+**Dan Kaplan:** And maybe a lot of the content that we're creating now on the blog could live there.
+
+**Dan Kaplan:** But I just wanted to let you know that we do want this to, we look at you very much as a partner, not just for creating, but also for helping with some ideas of distribution and promotion and how to get eyeball stuff and optimize it.
+
+**Dan Kaplan:** So I would love for you to work some of this into your thought process as well.
+
+**Dan Kaplan:** Well, what could live here, what we could do better, you know.
+
+**Kyle Gaudreau:** Sounds good.
+
+**Kyle Gaudreau:** Yeah, no, it sounds fun.
+
+**Kyle Gaudreau:** We'll definitely give it some thought.
+
+**Kyle Gaudreau:** By the way, real quick, next week while you're out, the team, I assume, will be jumping on the call.
+
+**Kyle Gaudreau:** We should still keep that schedule.
+
+**Kyle Gaudreau:** Yeah, it's a good question.
+
+**Dan Kaplan:** I would assume that it will be.
+
+**Dan Kaplan:** And if it's not, we'll let you know.
+
+**Kyle Gaudreau:** All that sounds for a plan.
+
+**Kyle Gaudreau:** Well, enjoy Hawaii.
+
+**Kyle Gaudreau:** What island are you going to, by the way?
+
+**Kyle Gaudreau:** Thanks, Ian.
+
+**Kyle Gaudreau:** We're going to Maui.
+
+**Dan Kaplan:** Okay.
+
+**Dan Kaplan:** First, and then we're staying at the White Lotus Hotel season one, the fourth season, and then we're going to the Forgetting Sarah Marsha Hotel for the second part of the trip.
+
+**Dan Kaplan:** We watch a lot of TV.
+
+**Dan Kaplan:** Yeah, I've seen that movie, yeah.
+
+**Dan Kaplan:** The annoying, we sound like the annoying colonizing American tourists, but they're also really nice properties, and we know that we're not just doing it for the shtick.
+
+**Kyle Gaudreau:** A White Lotus one, is that in Kanapale area?
+
+**Dan Kaplan:** Four Seasons in Wailea?
+
+**Dan Kaplan:** Wailea.
+
+**Kyle Gaudreau:** Wailea's great, yeah, that's usually where I stay, yeah.
+
+**Kyle Gaudreau:** Yeah, I was just in Maui, and we had to spend a night there unexpectedly because of a wildfire up near Kanapale.
+
+**Kyle Gaudreau:** Oh, yeah, there's still some, they still deal with these issues, right?
+
+**Kyle Gaudreau:** Oh, yeah, but we'll have fun.
+
+**Kyle Gaudreau:** I think there was like a hurricane that was threatening earlier this week, but I think that...
+
+**Kyle Gaudreau:** It sounds like it shouldn't be a thing, though.
+
+**Dan Kaplan:** Yeah, I don't think it's a thing anymore, but...
+
+**Dan Kaplan:** I keep getting all these scares to go for.
+
+**Kyle Gaudreau:** Yeah.
+
+**Dan Kaplan:** No, thanks.
+
+**Dan Kaplan:** Yeah, it'll be really nice.
+
+**Dan Kaplan:** It doesn't, you know, usually like I feel like I deserve, I don't know.
+
+**Dan Kaplan:** This is like odd, so maybe I'm going to have the best vacation of my life because I'm completely, like, haven't even been thinking about it.
+
+**Dan Kaplan:** So maybe it'll be freaking awesome and just exactly what I need.
+
+**Dan Kaplan:** So let's lean into that.
+
+**Kyle Gaudreau:** All right.
+
+**Kyle Gaudreau:** Thanks, guys.
+
+**Kyle Gaudreau:** Enjoy.
+
+**Kyle Gaudreau:** Thank you.
+
+**Kyle Gaudreau:** All right.
+
+**Kyle Gaudreau:** See you.
+
+**Kyle Gaudreau:** Bye.
+

@@ -1,0 +1,594 @@
+# Discern <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2025-10-16
+time: 15:59 UTC
+duration: 17 minutes
+organizer: Jenn Peters
+participants: Mike Bosserman, Megan Dickey, Jenn Peters
+fathom_recording_id: 94695850
+fathom_url: https://fathom.video/calls/443172608
+share_url: https://fathom.video/share/wysKERYYsxc5x2jsouWrb9LoFUX7ndNW
+source: fathom
+enriched_on: 2026-03-02 00:42 UTC
+</metadata>
+
+---
+
+## Summary
+
+Discern is showing surprising SEO resilience during widespread industry volatility — while competitors like Business Insider saw clicks drop 55%, Discern experienced clicks up 4% week-over-week, with October forecasted to outperform September. The team is shifting content strategy toward 30 new competitor comparison pieces (like "CT Corp alternatives" and "Discern vs X") to improve LLM referral traffic, and agreed to move from weekly to monthly performance reporting so Mike can focus on longer-term trends rather than week-to-week fluctuations.
+
+---
+
+## Context
+
+Discern is a corporate compliance/business registration software company; Mike Bosserman is the founder/decision-maker. GrowthX has been handling Discern's content strategy and SEO — this is a routine weekly sync to review performance metrics and align on upcoming content priorities. The meeting happens as scheduled weekly calls to discuss data, strategy adjustments, and action items. The broader context is significant industry-wide SEO volatility (October 2025) affecting most publishers, but Discern's highly targeted content and niche focus appear to be insulating them from the worst of the disruption.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Competitive positioning content (vs/alternatives format) is becoming core to content strategy; requires clear voice and brand guidelines from client before publishing.
+- Nexus content cluster work continues; focus on link fixes (404s, dead links) shows ongoing technical SEO maintenance is part of the service delivery.
+- Foreign qualification registration is the top referral driver (50% of LLM referral traffic), suggesting highly specific, state-regulation-focused content is outperforming broad topics.
+
+**To CheckThat / AEO:**
+- LLM referral traffic is now a strategic focus — ChatGPT mentions up, Perplexity down. Competitor analysis showing that LLM prompts favor comparison/alternative content.
+- Leading LLM citations for competitors: Harvard Business Services, CT Corporation — targets for Discern to out-cite via comparison content.
+- This is a live case study for AEO / LLM visibility — monitoring whether new competitor comparison content improves Discern's LLM citation rate.
+
+**To GrowthX Business Development:**
+- Account health is strong — client seeing positive results during industry downturn, increasing confidence in GrowthX's strategy.
+- Scaling opportunity: Mike approved 30 new competitor comparison pieces; suggests room to expand content production and possibly resource allocation.
+
+---
+
+## Overview
+
+- Discern showing resilience amid industry-wide SEO volatility: impressions down, clicks up 4% week-over-week
+- Content strategy shifting to include more competitor comparisons to improve LLM referrals
+- Agreed to move from weekly to monthly performance reporting, with ad-hoc updates for significant changes
+
+---
+
+## Key Topics
+
+### SEO Performance Amid Industry Volatility
+
+  - Industry experiencing wild drops in clicks (e.g., Business Insider reported 55% drop)
+  - Discern showing opposite trend: impression drops but click increases week-over-week
+  - October forecasted to outperform September despite volatility
+  - Theories on Discern's resilience: highly targeted content, competitors being hit harder
+  - Blog performance: double-digit session growth, improved engagement across the board
+
+### Content Strategy Updates
+
+  - Focusing on nexus content cluster and link fixes (404s, dead links)
+  - Adding \~30 new assignments for competitor comparisons (e.g., "CT Corp alternatives")
+  - Goal: Improve LLM referral traffic by targeting competitive keywords
+  - Top referral sources: foreign qualification registration (50%), state-specific content
+
+### LLM Performance
+
+  - Slight increase in ChatGPT mentions, decrease in Perplexity
+  - Overall responses generated up slightly, competitive presence stable
+  - Leading competitors for LLM citations: Harvard Business Services, CT Corporation
+
+### Competitor Analysis
+
+  - New focus on creating content comparing Discern to competitors (e.g., "Discern vs X")
+  - Megan noticed ads for competitor "Delve" in San Francisco (possibly SOC 2 related)
+  - Team to draft initial competitor comparison content for Mike's review
+
+### Reporting Cadence
+
+  - Agreed to shift from weekly to monthly performance reporting
+  - Weekly meetings to focus on standout items, ongoing work, and any flags/issues
+  - Mike prefers focus on longer-term trends and significant changes rather than small week-to-week fluctuations
+
+---
+
+## Action Items
+
+**Jenn Peters (GrowthX)**
+- Draft 1–2 competitor vs/alternatives pieces; send to Mike for review before publish
+
+**Megan Dickey (GrowthX)**
+- Send monthly performance report to Mike at start of each month
+
+---
+
+## Transcript
+**Megan Dickey: Good idea.
+
+**Jenn Peters:** All right.
+
+**Jenn Peters:** It's getting freaking cold here, though, I'm noticing.
+
+**Jenn Peters:** It's cold in my house.
+
+**Jenn Peters:** It's starting to get to that time where I might have to put the heat on in the morning.
+
+**Megan Dickey: Yeah, I think it's a little chilly here.
+
+**Megan Dickey: Probably not as cold as for you.
+
+**Jenn Peters:** Yeah, it's, well, yeah, like once you said that, like, I kind of figured that that area was a little bit more diverse with, you guys actually get, like, cooler temperatures compared to other spots in the state not so far away.
+
+**Jenn Peters:** So, yeah, I guess, and you're just generally, like, foggy, right?
+
+**Megan Dickey: Foggy, rainy.
+
+**Jenn Peters:** Which does sound a lot like here, so I don't know.
+
+**Jenn Peters:** But, yeah, we're, we don't really get too bad.
+
+**Megan Dickey: I can't really complain for Canada.
+
+**Jenn Peters:** It's like the warmest spot.
+
+**Jenn Peters:** It's about as good as it gets for up here.
+
+**Jenn Peters:** But the leaves are starting to change.
+
+**Megan Dickey: It's starting to look really nice.
+
+**Megan Dickey: Nice.
+
+**Jenn Peters:** Yeah.
+
+**Jenn Peters:** Um, yeah, I forgot to send, uh, make the agenda, so I just did that a few minutes ago.
+
+**Jenn Peters:** Oh, for sure.
+
+**Jenn Peters:** Yeah, so.
+
+**Megan Dickey: Oh, good.
+
+**Jenn Peters:** Um, you can see it, yeah?
+
+**Jenn Peters:** Yeah, yeah, I can see it.
+
+**Megan Dickey: Cool.
+
+**Jenn Peters:** Yeah.
+
+**Jenn Peters:** Sometimes I just don't know.
+
+**Megan Dickey: Ah.
+
+**Jenn Peters:** Um, I put a little note at the top here about the, uh.
+
+**Jenn Peters:** Yeah, I saw that.
+
+**Megan Dickey: Okay, cool.
+
+**Megan Dickey: Yeah, at first when I saw that, I was just like, what is that about?
+
+**Jenn Peters:** I'm like, oh, right.
+
+**Jenn Peters:** We just talked about that.
+
+**Megan Dickey: Well, it's like something we just talked about.
+
+**Jenn Peters:** Yeah.
+
+**Megan Dickey: Yeah.
+
+**Jenn Peters:** I feel you.
+
+**Jenn Peters:** I'm exactly the same way.
+
+**Jenn Peters:** I'm still working on that first coffee.
+
+**Megan Dickey: So.
+
+**Megan Dickey: Yeah, I know.
+
+**Megan Dickey: Well, yeah, we were out of, I like woke up this morning and then started to make coffee and then realized we didn't have any coffee.
+
+**Jenn Peters:** So then I have to get, I had to get bills delivered.
+
+**Jenn Peters:** Yeah.
+
+**Jenn Peters:** Oh, yeah.
+
+**Megan Dickey: It was like an urgent, an urgent delivery.
+
+**Megan Dickey: Emergency delivery.
+
+**Megan Dickey: Hey Mike.
+
+**Jenn Peters:** You're muted.
+
+**Mike Bosserman:** Hey, hi.
+
+**Megan Dickey: Yeah, how you doing?
+
+**Megan Dickey: Hey, good, how are you?
+
+**Mike Bosserman:** Yeah, good.
+
+**Mike Bosserman:** Just getting tons of stuff to do.
+
+**Jenn Peters:** Getting stuff done?
+
+**Megan Dickey: Were you, were you, did you just have meetings during our previous time slots, or were you on vacation?
+
+**Mike Bosserman:** I had some work travel, and then one of the weeks I had a bunch of meetings back-to-back.
+
+**Jenn Peters:** Nice.
+
+**Megan Dickey: Yeah.
+
+**Megan Dickey: Yeah, we're just talking about emergency coffee delivery and how it's a very important thing to do.
+
+**Mike Bosserman:** If you don't have coffee at home, it needs to happen.
+
+**Mike Bosserman:** Yeah, I ran out of coffee filters the other day.
+
+**Mike Bosserman:** Fortunately, we have more than one, you know, machine or coffee.
+
+**Mike Bosserman:** Totally.
+
+**Jenn Peters:** Backup methods.
+
+**Jenn Peters:** Gotta have the backup methods, Megan.
+
+**Jenn Peters:** That's really, how short.
+
+**Mike Bosserman:** It would be a while to remember, though, because I was like, just don't mind.
+
+**Jenn Peters:** Mild panic there for a second.
+
+**Mike Bosserman:** Yeah.
+
+**Mike Bosserman:** All right.
+
+**Jenn Peters:** Sweet, okay, cool.
+
+**Mike Bosserman:** Yeah, do you want to just go for it, Megan?
+
+**Jenn Peters:** Yeah, please.
+
+**Mike Bosserman:** Or first?
+
+**Jenn Peters:** No, we're good.
+
+**Jenn Peters:** Okay, awesome.
+
+**Jenn Peters:** Yeah, so pretty interesting stuff that we're looking at because, I don't know if we mentioned this in the last call, but there's some wild, like, cert volatility happening across the board for, like, most, not only just, like, most of our accounts, but, like, the internet.
+
+**Jenn Peters:** Like, I'm talking, like, wild, wild drops for, like, major publishers.
+
+**Jenn Peters:** But what's interesting is that Discern so far has felt, like, pretty protected from this, which is kind of interesting.
+
+**Jenn Peters:** So, like, basically what we're seeing is, like, well, we're seeing, like, huge impression gains across the board for, like, you know, like I say, not just us, but, like, like, many, many publishers.
+
+**Jenn Peters:** And then, like, but with those big impression gains, we're seeing, like, massive click drops.
+
+**Jenn Peters:** Like, some people, like, I think it was, like, Business Insider reported, like, 50.
+
+**Jenn Peters:** 55%, like, drops on, like, clicks.
+
+**Jenn Peters:** We're kind of seeing the opposite this past week over week, especially, like, we're seeing, like, impression drops, but we're actually seeing, like, click increases week over week that's still continuing.
+
+**Jenn Peters:** So I'm definitely not mad at that.
+
+**Jenn Peters:** I think that it's going to take some time to kind of, like, stabilize and see, like, why exactly.
+
+**Jenn Peters:** There's a number of, like, theories and ideas about why this is happening.
+
+**Jenn Peters:** It can be down to, like, things like, you know, like, they limited the number of pages that can be displayed on Google, that kind of stuff.
+
+**Jenn Peters:** But I think that because discern is so highly targeted and specific, you know, it could also be that, like, other competitor sites are getting hit more and discerns kind of standing out a little bit more.
+
+**Jenn Peters:** It could be a bunch of things.
+
+**Jenn Peters:** But right now, I'm kind of impressed with how, like, even with the impression dropped this past week over week, we're still seeing, like, really great growth.
+
+**Jenn Peters:** And looking at the month overall so far, like, if this.
+
+**Jenn Peters:** This is just, forecasting, then, you know, October is just going to continue to be, like, bigger than September.
+
+**Jenn Peters:** We're definitely not seeing this on, like, most of my other accounts, like, personally.
+
+**Jenn Peters:** And, like I say, like, this is just, like, an internet-wide, like, topic of, like, hot topic right now of, like, what is going on, all the different things that are happening.
+
+**Jenn Peters:** So, yeah, pretty great about that.
+
+**Jenn Peters:** I think also, like, and I'll get into this in a sec, like, I think we also have some, like, deadline stuff happening, which is, which is fine.
+
+**Jenn Peters:** Like, I'm not, you know, I think we're always going to kind of stand out a little bit different than other sites that way because we have, you know, specific things that people are looking for at specific times of the year that's going to kind of, you know, set discern apart.
+
+**Jenn Peters:** So, week over week, we're looking at a change in, like, you know, 4% clicks, which is great.
+
+**Jenn Peters:** Impressions, like I say, down.
+
+**Jenn Peters:** Don't care because it's, you know, it's not being reflected in clicks.
+
+**Jenn Peters:** So, yeah, this just kind of goes into, like, what I'm kind of
+
+**Jenn Peters:** Seeing as, like, the opposite effect, the inverse pattern of, like, relatively stable performance.
+
+**Jenn Peters:** Like, obviously, we're seeing, like, little changes here, like, slight position regression.
+
+**Jenn Peters:** You know, like, we've talked about that.
+
+**Jenn Peters:** I'm not really concerned about that week over week.
+
+**Jenn Peters:** So, yeah, like, this is kind of, we're calling, like, a flight to quality during this period.
+
+**Jenn Peters:** Like, lower quality sites could be gaining impression but losing clicks, like I'm saying, that we're seeing with everybody.
+
+**Jenn Peters:** Also, yeah, like, spam proliferation is also another topic people are talking about, bots, you know, fake impressions and that kind of thing being seen.
+
+**Jenn Peters:** But, yeah, we're not, we're not kind of being touched by that right now.
+
+**Jenn Peters:** Same kind of thing in terms of, like, the blog performance.
+
+**Jenn Peters:** It's looking great week over week.
+
+**Jenn Peters:** We're, like, double-digit session growth and improved engagement across the board.
+
+**Jenn Peters:** Here's kind of some, like, specific changes on some pages.
+
+**Jenn Peters:** Because, you know, like, okay, so we go, change.
+
+**Jenn Peters:** It's not, you know, it's 1980.
+
+**Jenn Peters:** Like, it's not, you know.
+
+**Jenn Peters:** The percentage looks really great there, but what we are seeing is some kind of declines in some of those other pages that we were seeing higher up before.
+
+**Jenn Peters:** I do kind of think there's a deadline correlation here.
+
+**Jenn Peters:** Like, as far as I could tell, there was October deadlines that were even yesterday, I believe, for Washington, was it?
+
+**Jenn Peters:** But, you know, so, like, September deadline businesses presumably already filed, October deadline search is happening now, but, like, probably being wrapped up.
+
+**Jenn Peters:** Oh, yeah, was California.
+
+**Jenn Peters:** So yesterday, allegedly, there was a California deadline.
+
+**Jenn Peters:** So, yeah, I'm kind of curious to see what the rest of the month is going to do because of that, because, like I say, we're forecasted to, like, be way above.
+
+**Jenn Peters:** But if this is, like, deadline related in, like, the first two weeks where the October 15th deadline was there for some pages, you know, we could see.
+
+**Jenn Peters:** And then, like, the Michigan page, the next deadline, February, maybe we'll just kind of see it go back up around that time.
+
+**Jenn Peters:** So yeah, just a little bit here, again, about deadlines, can kind of cover that on your own time, just to save you time.
+
+**Jenn Peters:** LMs, yeah, not massive changes here.
+
+**Jenn Peters:** We've got like a bit of a, like a jump in chat GPT, which is great, but perplexity, like, decreased quite a lot.
+
+**Jenn Peters:** We've got, like, still overall, like, responses generated is up a little bit, competitive presence, stable, this is all fine.
+
+**Jenn Peters:** Here's kind of a look at, like, our leading, our leading competitors for LLM citations, not Harvard compliance, especially CT.
+
+**Megan Dickey: And Megan, I can't remember, like, with those new topics that you added, that was looking at some of this kind of stuff where we weren't being mentioned.
+
+**Megan Dickey: Exactly, yeah, yeah.
+
+**Megan Dickey: So I added in about, I think, like, yeah, 30 new assignments into Airtable that are just kind of doing these, like, competitor comparisons.
+
+**Megan Dickey: And that's just because, like, we saw that, basically, like, what the LLMs were.
+
+**Megan Dickey: We were kind of citing in terms of like, in those prompts that we're tracking, like, it's always these like, sort of like, best compliance software, or like, or like, CT Corp alternatives, things like that, or like, discern versus, so we're going to be leaning into a little bit more of that content, so that ideally, we can actually improve the LLM referral traffic.
+
+**Jenn Peters:** Yeah, and steal it from these people, because basically, so, so yeah, you'll see, you'll see some of those coming up as we work through the topics in there.
+
+**Jenn Peters:** That said, like, here's the, I actually trimmed this down, just like five, top pages by referral, like, again, like, not massive sessions, but still, we'd like to kind of claw back some of those pieces from other competitors.
+
+**Jenn Peters:** And, and, and like, yeah, in terms of like, areas of focus, the it's the really the foreign qualification registration, is like half of it, and then like, state specific.
+
+**Jenn Peters:** So yeah, that's pretty much all I had to do, like tackle with the LLM stuff.
+
+**Jenn Peters:** I think that once we start diving into those other topics, and we should probably, you know, prioritize those.
+
+**Jenn Peters:** If they're all good to go in your eyes, like if you've reviewed them and they're good, it'd be good.
+
+**Jenn Peters:** The sooner we can kind of get those gains, the better in my eyes.
+
+**Jenn Peters:** But yeah, did you have any questions about any of that stuff covered here?
+
+**Mike Bosserman:** So what's the, what are the remaining, so what are the next topics you've written about?
+
+**Jenn Peters:** So we're still kind of in those nexus, those nexus cluster.
+
+**Jenn Peters:** And then we're also kind of been like focusing our refreshes on some link fixes.
+
+**Jenn Peters:** So kind of looking at, like, not just like updating, you know, any like pricing and deadline information, but just also we did an audit on the site on like some 404s and dead links across the site.
+
+**Jenn Peters:** So just kind of updating some, you know, SOS just and...
+
+**Jenn Peters:** Government links and that kind of stuff.
+
+**Jenn Peters:** But in terms of like NetNew, we're still in like the Nexus content.
+
+**Mike Bosserman:** Yeah.
+
+**Mike Bosserman:** I don't even know who Delve is.
+
+**Megan Dickey: This is somebody you guys referenced.
+
+**Megan Dickey: I think, yeah, I've been seeing their ads all over the place in San Francisco.
+
+**Megan Dickey: Yeah.
+
+**Megan Dickey: Like they're definitely, they're doing something.
+
+**Megan Dickey: They're definitely doing something.
+
+**Jenn Peters:** It's definitely like a compliance company.
+
+**Megan Dickey: It's being aggressive.
+
+**Megan Dickey: Yeah.
+
+**Megan Dickey: I've seen, I've seen actually a lot of their ads in like the last, like, maybe like two or three weeks.
+
+**Mike Bosserman:** Just, yeah, here in the city.
+
+**Mike Bosserman:** It's like a SOC thing.
+
+**Mike Bosserman:** Like SOC 2.
+
+**Jenn Peters:** Sweet.
+
+**Mike Bosserman:** So silly.
+
+**Mike Bosserman:** It'd be interesting to see what happens here.
+
+**Mike Bosserman:** Okay.
+
+**Mike Bosserman:** So that's fine.
+
+**Mike Bosserman:** That makes sense.
+
+**Mike Bosserman:** Yeah.
+
+**Mike Bosserman:** I think these, like these competitive things are fine with me.
+
+**Megan Dickey: Okay.
+
+**Megan Dickey: Great.
+
+**Megan Dickey: Yeah.
+
+**Megan Dickey: Yeah.
+
+**Megan Dickey: Because, yeah, because, yeah, we had, we had done a deep dive into the LLMs and like the Scrunch performance.
+
+**Megan Dickey: Great.
+
+**Megan Dickey: And I think I included that in, like, an agenda a couple weeks ago.
+
+**Megan Dickey: But if you want, you can always, there's a little performance tab in Notion that you can always access, and that's where that document lives.
+
+**Megan Dickey: But yeah, basically the TLDR was that, like, the LLMs are surfacing this competitor comparison content, and that's how it's determining what it's going to answer when someone is asking for, like, best compliance software.
+
+**Megan Dickey: So I think it'll be a good thing to do.
+
+**Jenn Peters:** Yeah, for sure.
+
+**Jenn Peters:** And even if that delve is, like, a new kid on the block kind of thing, like, you know, earning competitive presence, I think it's always good to get the jump on it ahead of time.
+
+**Jenn Peters:** And, you know, like, if people are searching, just even simple things like the versus, you know, as I think it's, like, kind of low-hanging fruit, like, easy wins.
+
+**Jenn Peters:** Like, people are always searching for X versus Y, you know, like, just give me the breakdown of, like, where these, you know, how these two, you know, compete.
+
+**Jenn Peters:** But yeah, if you have any guidelines around, like, how you want to talk about that, like, how you want.
+
+**Jenn Peters:** If talk about competitors in terms of, like, you know, languaging and kind of how you want to position, you know, discern against them and any of that kind of stuff, definitely pass it on.
+
+**Jenn Peters:** Otherwise, we'll just, like, yeah, roll these topics.
+
+**Mike Bosserman:** If you want to, like, look at the first couple before we publish, that's also cool.
+
+**Jenn Peters:** Yeah, I'd like to, ideally, just show me some examples before we start letting it rip on.
+
+**Mike Bosserman:** What's the order of, like, operations for these different clusters that we have?
+
+**Mike Bosserman:** Is it in order right now, annual reports, then competitor, or is this, this looks like alphabetical?
+
+**Mike Bosserman:** How are you ordering them?
+
+**Jenn Peters:** Yeah, usually what we try to do is kind of, like, diversify across the, across the, so, like, we'll have, like, with the Nexus, what's what we are kind of, like, pulling a kind of even balance across all of them, so we're not just, like, putting, like, all the versus content on, or, like, all of the, you know, we'll kind of try to scatter it, so it's not so, like, spammy looking, or, you know, we'll kind of try to, um...
+
+**Jenn Peters:** Put a few pieces out of different, of different.
+
+**Jenn Peters:** So whether we do that, like, per brand, like, you know, you know, alternatives and inverses or whatever, we do kind of try, like, even it out a bit.
+
+**Mike Bosserman:** Sounds good.
+
+**Jenn Peters:** Yeah, sweet.
+
+**Jenn Peters:** Yeah, so, yeah, that's, guess, what you talked about up here.
+
+**Megan Dickey: And then, yeah, Megan, did you just want to, like, talk about, like, performance tracking and, like, pictures?
+
+**Megan Dickey: Yeah, yeah, so, yeah, just, yeah, last thing.
+
+**Megan Dickey: So, yeah, we were thinking, because, yeah, it's, like, Mike, you previously said that, you know, you don't need week over week performance.
+
+**Megan Dickey: And so, like, we were thinking that we would actually just do maybe, like, monthly.
+
+**Megan Dickey: And so, like, look at, like, the performance of the actual month and compare that month over month moving forward.
+
+**Megan Dickey: But also, if you want to keep, if you want to keep having weekly reporting, then we're also happy to do that.
+
+**Megan Dickey: But just wanted to give you that option.
+
+**Mike Bosserman:** And, you know, I don't, like I said, it's not, you guys kind of know how I feel at this point from 20 weeks or something.
+
+**Mike Bosserman:** Yeah.
+
+**Mike Bosserman:** I'm not getting that much.
+
+**Mike Bosserman:** Dinatech out of week-to-week comparison.
+
+**Jenn Peters:** We're going to continue to adjust this content.
+
+**Mike Bosserman:** You guys are doing a good job.
+
+**Mike Bosserman:** We make adjustments.
+
+**Mike Bosserman:** I think the type of, like, if you see something unusual, worth calling it out, right?
+
+**Mike Bosserman:** Or you're like, wow, this is very different.
+
+**Jenn Peters:** Or, like, we're going through something or whatever.
+
+**Mike Bosserman:** Or new topic clusters.
+
+**Mike Bosserman:** Can we talk about this?
+
+**Mike Bosserman:** Or you see something, like, let me know.
+
+**Mike Bosserman:** I'm happy to chat.
+
+**Mike Bosserman:** But, I you don't need to tell.
+
+**Mike Bosserman:** If we're up, like, you know, 5% to 20% or whatever, whatever.
+
+**Jenn Peters:** Yeah, yeah, yeah, yeah, yeah.
+
+**Megan Dickey: And, like, you know, trajectory is good.
+
+**Jenn Peters:** Like, it's kind of just, like, every week is better than the last kind of thing.
+
+**Jenn Peters:** So, I feel like kind of, you know, bigger insights can be found from, like, a longer perspective.
+
+**Jenn Peters:** You know, I mean, like, right now this is, especially since we're all, like, pretty much, it's all, like, net new content, right?
+
+**Jenn Peters:** So, like, you know, apart, like, obviously we're doing the refreshes and stuff.
+
+**Jenn Peters:** But, like, I think this kind of content, like, it also takes a bit of time to see what it's going to do.
+
+**Jenn Peters:** You know, like, net content, new content, week over week.
+
+**Jenn Peters:** You know, we're not going to see some huge jumps and shifts.
+
+**Jenn Peters:** So, yeah, that just makes more sense to us to, like, you know, end of month or, like, say, I guess it would be, like, the beginning of the next month, roundup of, like, looking back what the previous month did and, like, of course, and then just, like, saving weekly meetings for, kind of, here's what our standout things are, here's what we're working on this week, here's what we need to ask you about, like, and, like, like you say, like, flags and that kind of stuff.
+
+**Megan Dickey: Sounds good.
+
+**Jenn Peters:** Okay, great.
+
+**Megan Dickey: All right, well, thanks, Mike.
+
+**Mike Bosserman:** Hope you have a good rest of your week.
+
+**Megan Dickey: You too.
+
+**Jenn Peters:** See y'all.
+
+**Jenn Peters:** Bye.
+
+**Jenn Peters:** Bye.
+
+**Jenn Peters:** Bye.

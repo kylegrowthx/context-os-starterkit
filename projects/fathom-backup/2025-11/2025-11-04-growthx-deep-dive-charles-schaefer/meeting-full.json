@@ -1,0 +1,4471 @@
+{
+    "title": "GrowthX Deep Dive (Charles Schaefer)",
+    "meeting_title": "GrowthX Deep Dive (Charles Schaefer)",
+    "url": "https://fathom.video/calls/461910993",
+    "created_at": "2025-11-04T20:55:49Z",
+    "scheduled_start_time": "2025-11-04T20:00:00Z",
+    "scheduled_end_time": "2025-11-04T21:00:00Z",
+    "recording_id": 99163102,
+    "recording_start_time": "2025-11-04T20:01:01Z",
+    "recording_end_time": "2025-11-04T20:55:23Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Doing well.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How's your day going?",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's pretty good.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Remind me where you're located.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I am actually in Iowa.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Oh, cool.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Nice.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Middle of the country.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I'm in New York.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's going good here.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We're having our quarterly business reviews for the sales team here.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we've got a bunch of people here in the New York office today, which is fun.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Nice.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That was a good time to have a team get together.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, wonderful.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So today, I just really wanted to go a little bit deeper on the products.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we've got a little bit of context from the team during kickoff, kind of aligning on audience and goals.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so we really kind of wanted to just connect, you know, the Hex product, especially the evolution you guys have gone through recently.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We kind of really understand what makes Hex truly AI native.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So any proof points or workflows that show that best.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm not sure if there's a deck that you have that you typically go through.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Otherwise, I've got several questions I can just run through.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, I'm happy to answer your questions.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "The way I was thinking of doing this, and tell me if this makes sense for you, is I have a few slides that I kind of run through with the team, like when we have like a new person on the team, we're kind of like talking through like how do we position the technology and like just to give them a sense like the terms and definitions we use and kind of how we frame the problem.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then I thought I could like go into the product and like kind of show you a demo of like how that comes to life in the product.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Is that work for you?",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That's amazing, yeah.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Do you just interrupt me as we go?",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "If one of your questions is like, if it's the right time to answer one of those, I'm happy to.",
+            "timestamp": "00:01:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I've just made it a conversation.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So this is the deck that I use for new people on the team to kind of talk through how we tell our story.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And I'm just going to show you a couple of the slides here.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We're a fairly technical product.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And I think some of the terms we use maybe are specific to us.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So it might be useful just to kind of see that first.",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So the way I'm kind of framing, like, the problem we solve right now is, like, increasingly people are having experiences with technology that look like this.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, across every sector, like, people are seeing more and more that, like, technology is evolving.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They can just, like, type in a prompt, type in a question, and get an answer.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But when it comes to working with data, when people, like, you know, every organization has, like, lots and lots of data that they know.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "they're...",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So they're...",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "There's like insights hidden in that can help them make decisions.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But when it comes to like asking those types of simple questions from data, they have this really complex convoluted experience where like maybe they ask a question, they get sent to like a library where there's a bunch of reports and dashboards.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Maybe one of those answers, one of their questions, maybe it doesn't.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They get a license to a tool where they can kind of explore the data themselves.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Maybe that's too technical for them to use.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They ask a data practitioner for help.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They get told they'll get an answer back in two weeks.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And maybe they just don't end up using data at all.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Maybe they end up like doing something in an Excel spreadsheet.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's just very, it's far removed from like this experience that I think people are starting to expect to have from technology.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like that's kind of the gap we're seeing.",
+            "timestamp": "00:03:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And like the way we would describe the reason that data hasn't been able to like keep up with this technical change is the tools like haven't evolved to like be AI native.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like a lot of data.",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Practitioners still have like a lot of different tools.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They might use like one tool for querying data, another tool for doing data science, a third tool for doing like reporting, a fourth tool for spreadsheets.",
+            "timestamp": "00:04:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That makes it very difficult to like piece together one question when you have to kind of jump between all these different tools.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So that's one of the problems we solve.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Another is there we find the data teams are kind of consistently like being asked to answer like quick questions from business stakeholders.",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like they, you know, people in the business maybe don't have technical knowledge.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They need help answering questions and it just becomes they become inundated with these like one off questions.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And it's very difficult for them to like prioritize and figure out where they should be spending their time.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then there are AI tools out there, but the AI tools that have been delivered kind of so far have been kind of kind of point solution.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They don't solve the whole problem.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Maybe they're like a chat bot that kind of helps them.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Query the data, but don't help them visualize it, or something like that.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So those are kind of like the problems we see right now.",
+            "timestamp": "00:05:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Usually when we're talking to like a data practitioner or data scientist, they're kind of nodding along and being like, yeah, I have these problems too.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "In terms of like how Hex solves that, we solve it by bringing all data workflows together in one platform that has AI integrated throughout.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we've got tools for deep data work.",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we've got notebooks, which I'll show you in the product demo.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That's kind of where you do like deeper data science, like a person that's like pretty technical, really sophisticated with data, can do very complex analysis in our notebooks.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Those notebooks can then be published as data apps.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Those are kind of like low-code apps where people can, you know, non-technical people can see the answers that were found by the data person.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then we also have self-service capabilities, which are for those non-technical people.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Well, like ask their own questions.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Maybe the answer to their question wasn't in the app.",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They want to ask their own question.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They've got AI tools that help them explore data on their own.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So that's a brief summary of kind of like what problem we think we solve and what the product does.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I'll go ahead and flip over to Hex, and I'll kind of show you how that comes to life.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "You should be able to see my screen now.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, I think it's coming up.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Cool.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So this is what Hex looks like, and I'm going to start actually with that last use, as I mentioned, of like self-service.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like imagine I'm a business person.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I have a quick question of data.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I want to be able to answer it.",
+            "timestamp": "00:06:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I'm not like a super technical person.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "You know, maybe it's, you know, who are our top performing sales reps?",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "This capability that I'm showing here is called Threads.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And this uses AI to allow that non-technical person to type in their question, natural language, and then get a pretty detailed analysis that AI is helping generate for us.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And there's a couple kind of cool things that we do here.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "The biggest concern that customers have right now with AI tools for data is, like, do they give you, like, trustworthy results?",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "You know, AI can hallucinate when you ask it to do math.",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "If you go to, like, chat GPT and ask a question, it doesn't have, like, the context of your business's data.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we've built a bunch of tools in Hex to make it so we can deliver, like, more trusted, accurate results.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So you can see as it's working, it's, like, it's looking through existing projects and being like, oh, are there existing analysis in your organization that help answer this question?",
+            "timestamp": "00:07:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Are there existing data models?",
+            "timestamp": "00:07:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So one of the things you can do in Hex is you can model data to kind of give instructions to the AI.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So for example, like it found like closed one conversion rate is an interesting thing to use to answer my question of who are our top reps.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And there's a certain way my organization defines that metric and it can use that rather than like the business user having to know how to do that sort of computation.",
+            "timestamp": "00:08:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then it kind of deeply thinks to the question and gives me this report that has like, here's the top sales reps by closed one ARR.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Here's a table that shows, you know, the number of opportunities they're winning and the average per opportunity.",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And there's even some kind of natural language explanations of like kind of the reasoning it went through.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And it also found an app like, oh, here's another analysis that already exists that you might want to use to kind of like help answer that question.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think another issue that we often see customers ask about with like reporting tools and things like that is like there can be a lot of different copies of the same analysis, like five different people have asked the same question.",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So as much as possible, we're like trying to point people to existing answers so that we can kind of use those answers as like context to kind of help everyone come to a consensus on what the answers are.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So this obviously isn't like an instantaneous thing.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We've kind of like built it for deep reasoning.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's kind of like using chat GPT and like deep thinking mode where it goes through the steps in a lot of detail to produce like a thoughtful analysis.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Something that like maybe you'd ask like a junior analyst to do in like the pre-AI world.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And you can continue to like have a conversation like I'd ask a follow-up question and be like, oh, you know, is there differences per segment or whatever?",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And kind of continue the conversation.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But the other thing that Hex does that's really cool is all of these threads are also instantly transferable into Hex's data science notebooks.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So I just clicked a button and I opened it as a notebook.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And now this is the environment that Hex uses for like deeper kind of data science work.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So you can see it's got like a markdown of what the thread found for us.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And it's got any like queries it ran.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's got the visualizations in more of like an editing mode.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So if I'm like trying to build a report, I can kind of go from there.",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And the AI agent is here as well.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But in this environment, it has access to more tools.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like a data scientist, in addition to be able to answer quick questions like that, will want to do like more complex analysis.",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So the agent has the ability to like.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Write Python for you and do more complex queries, types of things that like data scientists might do.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So if I typed in like, help me create a predictive model to see who our top selling enterprise rep will be in the next two quarters.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It can actually think through that like more complex analytical problem and actually like create code here in this notebook environment that will help me like build that model.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And, you know, obviously like we also have the tools here for the data scientists to go like go write Python themselves if they know how to do that.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But like one of the ways that AI is really helping with workflows like this is just making them like 10 times faster because the AI can just generate a first draft for you in seconds that might, you know, take someone an hour to create even.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And if they're an expert, and you can see, it even knows the Hex documentation, so it can be like, oh, what's the best way to do this analysis?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Well, here's the approach I would recommend, and I could maybe say, I want, maybe I'll just say, I want a time series regression model, and give it instructions and kind of have a conversation to kind of help direct it as it goes through the analysis.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then as that's running, the last thing we do is once we have an analysis we like, we can turn that into an app.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So let's imagine what I've created here is exactly what I want to distribute to my non-technical users in my organization.",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I want to turn this into like an app that I share with my whole sales team, and they're all tracking it to track their performance.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We can just publish this as a Hex app, and then that is now something I can just share with a link.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And people can go access the latest version of this report by sharing that link around.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then they can use that as the jumping off point for additional analysis.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So that's kind of in a nutshell, like the workflow that a lot of people go through with Hex is for the business user.",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They're in that threads environment, kind of doing these more simple questions.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "The more data science users are in the notebook environment, kind of doing deeper analysis.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then it kind of accumulates in these apps that then turn into these reusable kind of stores of answers for the organization.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I notice Snowflake B2B was down there in the bottom right, kind of present when you start to search or type in your query.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is the user able to select different data types or is it just the one that's available?",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, Snowflake B2B is the data connection that I'm using.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But you can connect to like any data source.",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we have like.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Big Query connection here.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "In fact, like if I go back into the kind of main screen, you can see that like we can connect to any data warehouse that the customers might have.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Usually our customers are like cloud customers, so they'll be on like Big Query, Snowflake, Databricks, AWS, Redshift, sometimes Microsoft Azure, but we even connect to some other types of data, maybe on-prem data, things like that.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "The customer just like establishes a connection to their data warehouse, and then PECs can run queries against it.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And what's that data connection like?",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it kind of just SSO?",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Is it integration?",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I think I can do that here.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I might not have permissions to.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Start a new one, but yeah, you basically select the data source that you're connecting to, and then you put in the connection.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "If you're a Snowflake customer, you type in the URL where that Snowflake connection is.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "You put in your credentials.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We support SSO through Okta, so if customers are enforcing security that way, but you can also, if you have data-based permissions, you can do it that way.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then we just run queries directly against the warehouse.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess thinking of more of the kind of newer positioning with, you know, Hex is not just for data scientists.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Probably looking at maybe more of the early adopters of it, but what would you say like the user breakdown is typically for those types of companies that are really engaging their business users?",
+            "timestamp": "00:15:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like a 70-30 data team to business team?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, it's a good question.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "think we're definitely still in the early stages.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We just released this Threads thing a month ago.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "In the few customers that have started to adopt it, they reach economies of scale very quickly because a business team is such a large multiple of people on the data team.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "At Hex, we have three data people in a 150-person company.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That's the case for a lot of our customers, too.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "like, PandaDoc is a customer that is using Threads extensively.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Basically, what they did is they started with, like, the finance team.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And they were like, we want to provide everyone on the finance team with access to doing, like, quick questions through this Threads environment.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They set up some data connections and models for that team.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then, like, now the full finance team is activated on it.",
+            "timestamp": "00:16:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So, like, becomes a multiple of the data team very quickly.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Right now in most of our customers.",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "There's, I'd say it's still a majority like data people, but like as people adopt this Threads product, there will be more business users than data people.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How would you guys say you kind of fit into the broader data stacks?",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So like, you know, you have connections with Snowflakes and Databricks and, you know, I've heard it's not like a, you don't have to rip and replace your Tableau instance.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like it can play alongside it.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So what exactly does it replace outright versus what does it play nicely with?",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Historically, we have played pretty nicely with like the Tableaus of the world because Hex does like much deeper analysis.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like the notebook capability is really unlike anything at Tableau.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Tableau is more of the dashboard side.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "side.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Tableau",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And so customers would use like Tableau or Looker or something like that for dashboards.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then they might use Hex for like really enabling like deeper data scientists and data analysts to like just do their own exploratory work without having to go through the dashboard tool.",
+            "timestamp": "00:18:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Historically, that's been a really good fit for us.",
+            "timestamp": "00:18:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "With threads, we are kind of positioning ourselves more as a competitor to those BI tools.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And that is a majority of our opportunities now are competitive with those BI players.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's a pretty different approach than like a Tableau or a similar tool where like that tool is kind of more around like building dashboards and we're kind of answering the same types of questions, but in these natural language threads, but the same type of user.",
+            "timestamp": "00:18:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And so that's something we're trying to get good at is like, how do we position ourselves?",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess how do you kind of want Hex to feel compared to those tools?",
+            "timestamp": "00:19:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there kind of a voice or visual identity that you guys are going for?",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Or what's the emotional tone of the brand against Tableau and Looker?",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, I mean, I think like from a product side, we really believe like the AI, like being AI centric and being at the cutting edge of that is our path.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "To winning, I think in terms of like a tone, that's more modern, more innovative, more challenging, sometimes like sort of, what's the right word?",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like sometimes a little bit like anti-establishment in some ways where we're like saying, you know, isn't it, isn't it crazy that you like have this?",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Process with this BI tool where you have to have people build these reports and you send the reports to business people just to answer a simple question, like, shouldn't there be a better way than that?",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So that's kind of the vibe we're trying to communicate.",
+            "timestamp": "00:20:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Definitely feels that way just kind of from the simple demo you gave.",
+            "timestamp": "00:20:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think earlier we used Looker for simple dashboard setups and I would not be comfortable setting it up myself or even trying to query.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "The data to get to that point.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So it definitely feels a lot more self-serve than these other tools that are allegedly, you know, business user friendly.",
+            "timestamp": "00:20:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, that's what we hear from customers a lot is like they like the Lookers and the Tableaus and the Power BI's of the world have kind of like said that they're for business users.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But in practice, it really takes like a data analyst to kind of like build the stuff.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And so So",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They're kind of just consumers, and then, like, they really quickly run into these situations where they do have, like, a question that wasn't, like, designed into the report, and then they're kind of stuck in this kind of QQ cycle where they're like, oh, I send the report, I send the request over to the data analyst, and then I wait a couple weeks, and then I get something, and then I have a new question, I start over.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, that's kind of the pain that we hear from a lot of our customers.",
+            "timestamp": "00:21:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I can imagine, like, the quick questions, it's like, A, it takes time for the data analyst to get to the question, and then it takes time for them to develop everything to answer the question, and then send it, versus this, it's much quicker.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, is, like, speed to insight or speed to value something you guys have kind of cornered on?",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I love that concept.",
+            "timestamp": "00:21:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We have heard that from a lot of our customers.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Pre-AI, because we have this workspace that combines a lot of query and data science and visualization in one tool.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Even that, for a lot of our customers, they feel a lot faster.",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But I think even more now with the AI capabilities, you can just get answers faster is a great way to position.",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think somebody, I forget who specifically said it, but they said that you guys are the cursor of data.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Can you tell me a little bit more about what that means internally?",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it about the experience?",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it the AI aspect, speed, governance, all of the above?",
+            "timestamp": "00:22:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, I think it's sort of an aspirational comment, but I think we're latching onto the fact that Cursor has completely transformed the workflow for developers.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "People that develop software, again, they're just so much faster because they have Cursor create the first draft of code.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They have Cursor edit code for them.",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's made, it's completely transformed the way like most developers work.",
+            "timestamp": "00:23:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And I think we like, we aspire to have the same impact for data people is like, you know, there's all these different tasks that data people have to do.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And we think a lot of those tasks can really be made so much faster with AI tools at their disposal.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think also like just the trajectory cursor has had like, and the way they've built their brand is kind of like this new tool that like is running lean, but they've really like, they've penetrated the market.",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So, well, I think is also like something that's inspirational to us.",
+            "timestamp": "00:23:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So yeah, like if, if like data analyst customers were like, yeah, it's like cursor for me because that's, it like knows the, knows the tasks that I care about.",
+            "timestamp": "00:23:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "think that would be like a huge win for us.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Need to figure out what the tagline is like vibe data engineering or something.",
+            "timestamp": "00:23:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, for sure.",
+            "timestamp": "00:23:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I mean, like, um, um, um, um,",
+            "timestamp": "00:23:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, Vibe data engineering.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Doesn't flow off the tongue quite as well as Vibe coding, but slightly nuanced.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So is the AI model that you guys are using, or is it custom-built, like homegrown, or is it a kind of guardrails version of one of the domain, like, main models?",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, so right now we use Claude Sonnet as, like, the model.",
+            "timestamp": "00:24:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think it's Sonnet version 4.5.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And what we do to give it guardrails is we have a bunch of things in the product that provide, like, context in our prompt to the model.",
+            "timestamp": "00:24:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we have, I showed you during the Threads demo, we were, like, pulling, like, semantic definitions from the data.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So, like, you can either build or, like, import the semantic definitions into Hex.",
+            "timestamp": "00:24:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And those are things like...",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "What's the table that has this information, and how does the metric compute it, and what does the table join to?",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That provides instructions for the AI models, like just know where to find the data and how to compute certain things.",
+            "timestamp": "00:25:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We also have like rules files in the product.",
+            "timestamp": "00:25:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like if there's certain ways an organization needs to do analysis, like, you know, if you're asking a question about revenue, we use this table.",
+            "timestamp": "00:25:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Or like if this number is going up, it's good.",
+            "timestamp": "00:25:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like those types of things you can kind of define in Hex.",
+            "timestamp": "00:25:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then it also pulls, the data team can also like endorse certain content, being like this table is specifically useful for analysis.",
+            "timestamp": "00:25:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Or this project is published, and it's like a good source of this type of information.",
+            "timestamp": "00:25:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we provide all that as context in the prompt that we send the LLM, and that provides like better, more accurate.",
+            "timestamp": "00:25:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then we have basically trained our prompts with certain tools, like how to control the Hex environment, like create a Python script or create a query or create one of those visualizations, like taught the LLM how to control those parts of our platform.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let's say like a user goes through that workflow that you showed me and they create an app.",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What's the ability for them to embed that somewhere else or to share it outside of Hex?",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Or is it mainly users come to Hex to see a kind of raw data analysis or summary?",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, they can embed it.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We do have some customers that do that so they can like take the app or just a visualization or something and embed it in their own like web portal.",
+            "timestamp": "00:26:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Some customers do it that way.",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "You know, organizations often like.",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Have that Hex app be like, they'll share out the link to that app and they'll come in and they'll log in and then they'll view it there.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We also have a Slack integration.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So this is something that we just launched last week, but we have a couple of customers using it and we use it internally where you can just add Hex in like a Slack prompt.",
+            "timestamp": "00:27:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And it uses the same technology behind the scenes.",
+            "timestamp": "00:27:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "You can link back in the Hex, but it can actually in a Slack thread, like present all those explanations and visualizations.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And we also have an MCP server.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like you can kick off like a thread in chat GPT if your organization is using Hex.",
+            "timestamp": "00:27:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "For those like, no, MCPs, never mind.",
+            "timestamp": "00:27:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I was just going to ask if it's more of like an official partnership you guys have with those, but MCP.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's more like people set it up to use it.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, we do have some official partnerships.",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So the ones we launched with were Claude and Cursor as like supported apps that you can just like the it's already configured and you just install it.",
+            "timestamp": "00:28:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then we're building where I think the next ones are like Notion and ChatGPT and then we'll build more.",
+            "timestamp": "00:28:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But but it's it's an MCP, so you could like go deploy it anywhere that can use an MCP.",
+            "timestamp": "00:28:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How does Hex deal with like unstructured or partially modeled data?",
+            "timestamp": "00:28:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it pretty agnostic to unstructured and structured or is there one that does better?",
+            "timestamp": "00:28:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It it can connect to.",
+            "timestamp": "00:28:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "to.",
+            "timestamp": "00:28:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Structured data, to be able to analyze the data, we'll need some structure applied to it.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Our notebooks have the tool to do simple data transformations.",
+            "timestamp": "00:29:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So if you had a semi-structured data that was concatenated or had free text and you wanted to parse out certain things and build that into a structure to then analyze, that can be done in our notebooks.",
+            "timestamp": "00:29:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "To be able to get the rich insights I was showing, you need structure for the data.",
+            "timestamp": "00:29:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So a lot of times customers will do that in Hex, or they might do it outside of Hex.",
+            "timestamp": "00:29:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They might use some data transformation tool and then connect Hex to that.",
+            "timestamp": "00:29:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:29:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You talked me through adoption.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there certain data that shows once people use Hex, they stick with it?",
+            "timestamp": "00:29:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Or like expansion, like once a small team uses it, it starts to stay.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's been multiple seats.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, I'm trying to think of a good data point.",
+            "timestamp": "00:30:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I definitely have some data on it.",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I'm just trying to think of the best thing to share.",
+            "timestamp": "00:30:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "mean, we consistently see, like high level, we'd consistently see our net revenue retention.",
+            "timestamp": "00:30:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That's like a metric we pay attention to at like 160%.",
+            "timestamp": "00:30:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like for accounts that renew, they renew at 60% more than they originally paid, which shows like pretty healthy expansion on average.",
+            "timestamp": "00:30:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I might have something more detailed I could track down and share with you.",
+            "timestamp": "00:30:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That's good.",
+            "timestamp": "00:30:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "think just generally that stat speaks for itself.",
+            "timestamp": "00:30:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How do you guys measure kind of accuracy or reliability through that, at least the threads experience?",
+            "timestamp": "00:30:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there a way that kind of, you know.",
+            "timestamp": "00:30:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I people now are using Chats, PT, and Claw.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "looking at citations as like, okay, at least I can go see where the source came from.",
+            "timestamp": "00:31:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I know you showed a little bit of that of like pulled from this report or pulled from this app that already exists.",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But there are other ways you guys kind of help re-insure accuracy and reliability.",
+            "timestamp": "00:31:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, I'll pop back in and I'll show you kind of like where we do that.",
+            "timestamp": "00:31:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I know I kind of showed it really quickly.",
+            "timestamp": "00:31:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Let me just pull my screen back up.",
+            "timestamp": "00:31:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So this is the thread I was showing before.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And yeah, like the first thing we do is we show like, okay, we searched these existing projects.",
+            "timestamp": "00:31:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So those are like the apps that I showed.",
+            "timestamp": "00:31:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then we searched like these semantic models.",
+            "timestamp": "00:31:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So those are like the data definitions.",
+            "timestamp": "00:31:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And you can actually click through and like see the full like lineage of the data, like how we define that metric and stuff like that.",
+            "timestamp": "00:31:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We searched for certain tables.",
+            "timestamp": "00:31:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then you can actually break open like any of the work we did here and see like what chart we created or what query we ran.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like in the thread, we show that we like kind of show our work as we go.",
+            "timestamp": "00:32:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "The user can like vote like good or bad.",
+            "timestamp": "00:32:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And so we track that data of like what, like if someone does that, like what are they, what were they searching for?",
+            "timestamp": "00:32:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Was a good response, was a bad response?",
+            "timestamp": "00:32:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "What do they see?",
+            "timestamp": "00:32:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Um, and then, um, like if, if a user like got this, uh, report and was like, I'm not, I'm not sure if this is accurate or something like that.",
+            "timestamp": "00:32:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like what our expectation, what they do is they will like share it with like a member of their data team.",
+            "timestamp": "00:32:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And so they can click share and then they can, the data team can open it in that notebook mode, which is what I showed you before of like, oh, like what, what queries actually ran here.",
+            "timestamp": "00:32:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And it it was just.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, mean, I think we think it's, like, crucial to being able to get accurate answers.",
+            "timestamp": "00:34:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "think, like, there were, before, like, before we built this and before, like, vendors were really, like, actively investing in, like, these production-grade tools for AI and data, there was sort of an effort toward, like, building an eval set for AI and data.",
+            "timestamp": "00:34:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, similar to how, like, ChatGBT had eval sets when they were, like, building their models to, like, check, like, the accuracy of responses.",
+            "timestamp": "00:34:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And, like, no one ever got, like, over, like, 40% accuracy.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, with, like, you know, there'd be an eval set of 300 different analytically-related questions.",
+            "timestamp": "00:34:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And, like, I guess just data is such a broad and varied discipline.",
+            "timestamp": "00:34:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "There's so many different ways to ask questions.",
+            "timestamp": "00:34:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, no one was able to get, like, their own proprietary model to, like, be even accurate, like, a majority of the time.",
+            "timestamp": "00:34:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And the ways that we have found to be...",
+            "timestamp": "00:34:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "More accurate is with lots of context.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we think that's kind of crucial.",
+            "timestamp": "00:35:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Our recommendation to customers is it's really important for you to prepare these semantic models that have the data definitions in them.",
+            "timestamp": "00:35:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "A semantic model has, just to show you kind of what it looks like to us, it has metric definitions, and it has dimension names and fields, and then also has joins.",
+            "timestamp": "00:35:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So metric definitions would be things like unique visitors and how do we compute that on our website.",
+            "timestamp": "00:35:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And dimensions would be fields and descriptions of fields so that when the AI agent is like, someone types in something vague like, you know, how is traffic on our website?",
+            "timestamp": "00:35:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like having a field name like UUX traffic underscore ID seven, right?",
+            "timestamp": "00:35:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Isn't like super helpful, but if you have a description in there, like that actually.",
+            "timestamp": "00:35:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's very instructive and the AI agents can find those things and find the right stuff.",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then what are related tables is another piece of it.",
+            "timestamp": "00:36:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Analytical questions really quickly go jump between different topics and data areas.",
+            "timestamp": "00:36:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So the LLMs need to know what other tables they can bring into the analysis to help answer questions.",
+            "timestamp": "00:36:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we think it's really important that customers model that out before they give people these search-based tools at large if they want accurate results.",
+            "timestamp": "00:36:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Board of the Threads experience, if a user asks a question that maybe we don't have the data uploaded or it's just not 100% confident that they can answer that, is there a kind of reroute that happens?",
+            "timestamp": "00:36:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let me see if I can make something.",
+            "timestamp": "00:36:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That it won't find.",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "How many bleep plurps do we have?",
+            "timestamp": "00:37:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "What it should do, we'll see if it works, is like, I can't find that.",
+            "timestamp": "00:37:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Is there a table that that lives in that you want to tell me about?",
+            "timestamp": "00:37:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Maybe you should talk to your data team about where that might be.",
+            "timestamp": "00:37:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That's what we want the agent to do.",
+            "timestamp": "00:37:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, so this is what it gives you.",
+            "timestamp": "00:37:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I couldn't find any data.",
+            "timestamp": "00:37:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, can you give me some more context?",
+            "timestamp": "00:37:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I'm not really sure what you're looking for.",
+            "timestamp": "00:37:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So that's actually how we want the agent to perform.",
+            "timestamp": "00:37:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So you can't just type in, like, some random question.",
+            "timestamp": "00:37:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then for questions that do make sense, and you guys have the data for, is there, like, an encouragement to, like, follow on, or is it kind of like a full stop, like, here's the answer, you're good to go?",
+            "timestamp": "00:37:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If we go back to my previous three.",
+            "timestamp": "00:37:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I whoops, that's the wrong thing, I think where it left off was, here's a report that might be relevant.",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Depending on the analysis, sometimes it'll be like another way you might analyze this is by looking across this segment or something like that.",
+            "timestamp": "00:38:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Anyone can obviously continue the conversation by being like, is there a difference between this and this or something like that.",
+            "timestamp": "00:38:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But this is where LMs are a little bit non-deterministic, so it's kind of based on what it finds.",
+            "timestamp": "00:38:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But I have seen examples where it'll be like, here's a few, there's a few different ways to answer this question, you might try this approach.",
+            "timestamp": "00:38:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm thinking about kind of when you guys are competing against, you know, maybe Omnit or Sigma.",
+            "timestamp": "00:38:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What helps you guys win in those conversations?",
+            "timestamp": "00:38:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it the AI native play?",
+            "timestamp": "00:39:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, the AI native play definitely helps.",
+            "timestamp": "00:39:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think those vendors would even concede we're ahead of them on AI, and they'd try to win in some other way.",
+            "timestamp": "00:39:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We see Sigma trying to win by just being like, we're more native on Snowflake.",
+            "timestamp": "00:39:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We're built to run queries in Snowflake, and we're going to be faster.",
+            "timestamp": "00:39:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But they will kind of concede that we're ahead on AI.",
+            "timestamp": "00:39:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So if the customer really values AI, we're definitely at an advantage there.",
+            "timestamp": "00:39:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Same thing with Omni.",
+            "timestamp": "00:39:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think those tools are a little bit more of an incremental build on the previous paradigm of dashboards.",
+            "timestamp": "00:39:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "They do have AI, but they're more like AI in the service of building dashboards.",
+            "timestamp": "00:39:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And we're changing the interface a little more.",
+            "timestamp": "00:39:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "The other.",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Another thing that I've seen be effective is like our ability to do advanced analytics, because BI tools are kind of limited in like, they can write SQL, but they can't write Python.",
+            "timestamp": "00:40:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So they can do like aggregations and data transformations, but they can't like create an ML model.",
+            "timestamp": "00:40:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And so like if the customer values that, then that's an advantage for us as well.",
+            "timestamp": "00:40:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I think in more longer term, is the goal to kind of replace BI or kind of just help redefine it?",
+            "timestamp": "00:40:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, I mean, I guess like that's something we talk about a lot.",
+            "timestamp": "00:40:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like I think, I think we kind of see those things as maybe one and the same.",
+            "timestamp": "00:40:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like I was just as a, as a point of comparison, I was at Tableau for a long time.",
+            "timestamp": "00:40:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I worked there for 14 years and like in the early days of Tableau, we were kind of seen as like redefining BI.",
+            "timestamp": "00:40:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like we were like, it's this sort of visual interactive environment is very different from like the traditional tools that.",
+            "timestamp": "00:40:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We're kind of more like lists of numbers.",
+            "timestamp": "00:41:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And like over time, we just became BI.",
+            "timestamp": "00:41:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like people were like, oh, this is the new standard.",
+            "timestamp": "00:41:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then we just were BI and people replaced their tools with us.",
+            "timestamp": "00:41:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But that took a long time.",
+            "timestamp": "00:41:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think that similar trajectory is in front of us at Hex where it's like, we're currently seen as like a different, a re-imagining of BI.",
+            "timestamp": "00:41:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But if we're wildly successful, like that will just be the new definition of BI.",
+            "timestamp": "00:41:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And like all the tools will kind of consolidate around those capabilities.",
+            "timestamp": "00:41:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:41:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess, where do you guys see yourself going next if this is kind of the redefining BI?",
+            "timestamp": "00:41:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is the interface changing?",
+            "timestamp": "00:41:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it core proactive?",
+            "timestamp": "00:41:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it role-based kind of context engineering?",
+            "timestamp": "00:41:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Definitely investing in the context engineering thing.",
+            "timestamp": "00:41:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We do think there's some, we think we kind of have the interface that we want with like this threads thing and like agentic notebooks and apps.",
+            "timestamp": "00:42:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We think that's like the right paradigm.",
+            "timestamp": "00:42:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We think there's some more ways we can make those like really accessible and easy for every user.",
+            "timestamp": "00:42:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like a thing that we think we'll build in the short term is a way to chat with your app.",
+            "timestamp": "00:42:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like, imagine you get that app that I built shared with you.",
+            "timestamp": "00:42:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like instead of going into a separate experience, you should just be able to like type a question right there and then like have the agent respond like in the context of your dashboard.",
+            "timestamp": "00:42:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We also are really interested in this concept of, some people call it like ambient analytics of like stuff that's just kind of running in the background that can kind of like be proactively notifying you when you need to be paying attention to something.",
+            "timestamp": "00:42:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So like you imagine that thread I typed of like who are our top selling rep.",
+            "timestamp": "00:42:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, you can imagine me being like, responding to like, okay, follow this and update me once a week.",
+            "timestamp": "00:43:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And now I just have like a bot that's running and like, I'm a sales manager and I can see who my top performing reps are, like, without having to go start a new thread every time.",
+            "timestamp": "00:43:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So we're really interested in that type of stuff.",
+            "timestamp": "00:43:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, it's almost as like, got your KPIs and triggers of like, if it hits a low, if it's high, it's within the threshold for the quarter.",
+            "timestamp": "00:43:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:43:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And we have some of that in the product now.",
+            "timestamp": "00:43:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, for example, we did a launch last month and you can configure Hex to be like, okay, let us know when we've got 5,000 unique views on this launch page.",
+            "timestamp": "00:43:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But you can imagine that like, being really seamless with like, AI and chatbots and Slack where it's like, you don't even like the tool kind of disappears and you're just having a conversation with your data.",
+            "timestamp": "00:43:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:44:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:44:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And it's showing up when you need it.",
+            "timestamp": "00:44:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:44:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think the term agentic analytics is starting to pop up more often.",
+            "timestamp": "00:44:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I saw you guys post a blog post recently kind of defining it yourselves.",
+            "timestamp": "00:44:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:44:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How do you guys feel about that term in general?",
+            "timestamp": "00:44:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "it kind of another buzzword or is it just buzzword for now but needs to be defined better?",
+            "timestamp": "00:44:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I like the term.",
+            "timestamp": "00:44:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "The concern I have is like I just feel like it's so easy for every vendor to just copy stuff like that.",
+            "timestamp": "00:44:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like there's no reason any competitor of ours couldn't just like slap that on their web page.",
+            "timestamp": "00:44:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And I don't know.",
+            "timestamp": "00:44:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That's why like taglines and marketing terms are hard.",
+            "timestamp": "00:44:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But it seems like it seems like it power.",
+            "timestamp": "00:44:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Our full concept right now, I think we're just going to have to, like, be consistently vigilant about, like, what are the latest trends and how do we build, like, a brand identity that, like, kind of is bigger than just trying to attach to, like, a trend.",
+            "timestamp": "00:45:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:45:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If you had to pick, like, one line for the market to associate with Hex kind of over the next six to 12 months, what would you think that might be?",
+            "timestamp": "00:45:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Um, this probably isn't going to be, like, worded correctly, but I would say, like, Hex, um, Hex, like, brings the power of AI to data.",
+            "timestamp": "00:45:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Um, something like that.",
+            "timestamp": "00:45:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:45:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then I think it was said in kickoff, like, users prefer show, not tell.",
+            "timestamp": "00:45:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What would be the best way to show like Hex, like how should Hex show not tell that it's AI native?",
+            "timestamp": "00:46:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "That's a good question.",
+            "timestamp": "00:46:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:46:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I mean, I think like one thing that comes to mind is like in the context of like very relevant like user workflows, like you could imagine like us kind of communicating what we do like in the context of like a growth marketer.",
+            "timestamp": "00:46:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like a growth marketer can just type you like have a, you know, a video or a motion graphic or something of like a search phrase that would be really relevant to a person in that role.",
+            "timestamp": "00:46:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And then like showing what the experience would look like.",
+            "timestamp": "00:46:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And maybe you could even do that like side by side, like old and new.",
+            "timestamp": "00:46:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, the old way is, you know, file a ticket with the data team, you know, in a couple days, maybe you get a response back.",
+            "timestamp": "00:47:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "You get a screenshot that you paste into a PowerPoint deck, and then you go to your meeting, and then you ask a follow-up question, and you have to start over.",
+            "timestamp": "00:47:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And new is type a prompt, get this live view that you, you know, ask in your meeting on the fly, and you answer the question, and then you make a decision, or something like that.",
+            "timestamp": "00:47:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "could see that being, like, a short vignette, or something like that.",
+            "timestamp": "00:47:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I could even see that being done for, like, multiple types of roles.",
+            "timestamp": "00:47:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "There's one for a marketer, there's one for, like, a sales leader, there's one for, like, a product team member, there's one for, like, a people leader, or something like that.",
+            "timestamp": "00:47:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think that would be a really interesting way to see it come to life.",
+            "timestamp": "00:47:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I mean, we do a lot of demos and put a lot of stuff online like that, just so people can, like, see the product in action.",
+            "timestamp": "00:47:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let's see, I guess when it comes to content quality, I think that's been a topic that was risen both as like a reason you guys parted ways with your previous agency, but also kind of your CEO's like, you know, content without soul is really no place with Hex.",
+            "timestamp": "00:48:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So where does the content quality kind of break down today?",
+            "timestamp": "00:48:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "it technical level?",
+            "timestamp": "00:48:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it just the speed and review cycles, speed bandwidth, or?",
+            "timestamp": "00:48:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah, I think it's, I think a lot of it is like style.",
+            "timestamp": "00:48:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think that like our CEO has like a pretty specific tone and style he wants to see in content.",
+            "timestamp": "00:48:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And it's very high production quality.",
+            "timestamp": "00:49:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like if it's video, it's like commercial advertisement level quality.",
+            "timestamp": "00:49:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's not like a recording of a loom.",
+            "timestamp": "00:49:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "If it's written, it's like it definitely the expectation.",
+            "timestamp": "00:49:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It needs to sound like someone who understands the product and needs to be kind of irreverent, needs to be kind of quirky and funny.",
+            "timestamp": "00:49:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "And it's a little bit like internet brained.",
+            "timestamp": "00:49:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's a little bit like this person's been on Reddit a lot.",
+            "timestamp": "00:49:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like it's sort of an innovative kind of style that he writes in.",
+            "timestamp": "00:49:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think he expects most stuff he sees to be in that style.",
+            "timestamp": "00:49:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "He would even say like, that's not that other styles are bad.",
+            "timestamp": "00:49:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "It's just like, that's the tone I want us to have.",
+            "timestamp": "00:49:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So that's why a lot of stuff like kind of gets like rejected as like cringy or inauthentic.",
+            "timestamp": "00:49:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "of like this this is lot this a",
+            "timestamp": "00:50:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there any specific formats that have performed really well historically, or at least kind of from your personal perspective?",
+            "timestamp": "00:50:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I mean, we haven't, like, done that many different formats, to be honest with you.",
+            "timestamp": "00:50:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We do a lot of blog, like, you know, a thousand-word blog.",
+            "timestamp": "00:50:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We do a lot of, like, highly produced video.",
+            "timestamp": "00:50:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Like, we'll do a launch.",
+            "timestamp": "00:50:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We'll do, like, a little comedy sketch and a little product demo, and, like, looks great.",
+            "timestamp": "00:50:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I, we, and then we do, like, we do social media stuff.",
+            "timestamp": "00:50:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I don't know if that's been, like, a huge success for us, but we try to distribute that way.",
+            "timestamp": "00:50:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We do a of email marketing.",
+            "timestamp": "00:50:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I think probably, like, our most, like, the content pieces that we feel most proud of are probably, like, blogs that are, like, really thoughtful takes on a topic that kind of have, like, a thought.",
+            "timestamp": "00:50:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We",
+            "timestamp": "00:51:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then for our content, given that we're trying to hit like five pieces per week once we get up to speed, and this is less product focus and more just conversation at this point, but have we, I guess, have you guys thought of like where that might live?",
+            "timestamp": "00:51:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If it's maybe higher level, like top of funnel content that doesn't fit the kind of archetype for great content, not that we're not going to shoot for great content, but like if it is more of that top of funnel stuff, is it something that would live alongside the blog pieces or?",
+            "timestamp": "00:51:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Well, I'd love to like, I think we'd like to hear a little better about like what, if that affects performance at all, like it with our previous vendor, we kind of hit it, like it was on.",
+            "timestamp": "00:51:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "We didn't link to it from anywhere, and I don't know if that had an impact on it not performing as well, but I think we're open to it.",
+            "timestamp": "00:52:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Living in a section on the website, I've seen some vendors that have a special page that maybe they brand with a certain term, it's kind of around background information on the industry or terms or something like that.",
+            "timestamp": "00:52:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "But I've seen vendors completely hide it and just have it be findable by search engines.",
+            "timestamp": "00:52:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So I don't think we have a vision for that, per se.",
+            "timestamp": "00:52:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Pete might have some ideas, but I think we're open to ideas there.",
+            "timestamp": "00:52:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:52:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, because we've done it every way you can think of that you've mentioned, and I think we just want to...",
+            "timestamp": "00:52:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We obviously want to hit the mark on quality, but also want to be...",
+            "timestamp": "00:52:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it that scale and quality and speed are hard to kind of hit all three at the same time?",
+            "timestamp": "00:53:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So more so just kind of trying to think ahead if there's something on the site that we may need to adjust to kind of have it be indexed, but and still rank on kind of the authority of the blog.",
+            "timestamp": "00:53:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think more for us to think through.",
+            "timestamp": "00:53:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Nothing to solve today.",
+            "timestamp": "00:53:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:53:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Well, I'll make sure that we're thinking about it as well and see if we have an opinion there, but that's a good question.",
+            "timestamp": "00:53:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:53:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So that's most of the questions I had.",
+            "timestamp": "00:53:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Anything I didn't ask that I should have asked?",
+            "timestamp": "00:53:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Not that I can think of.",
+            "timestamp": "00:53:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "I mean, I'm always available for more questions.",
+            "timestamp": "00:53:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "If you think of anything later, you can shoot me a note.",
+            "timestamp": "00:53:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "So I appreciate you spending the time.",
+            "timestamp": "00:53:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:53:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Let me know.",
+            "timestamp": "00:54:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Let me know what else I can",
+            "timestamp": "00:54:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:54:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "No, this has been super helpful so far.",
+            "timestamp": "00:54:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I appreciate the time and the insights.",
+            "timestamp": "00:54:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And we'll be in touch through Slack or see you on the meeting next week.",
+            "timestamp": "00:54:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:54:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You got it.",
+            "timestamp": "00:54:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:54:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "All right.",
+            "timestamp": "00:54:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "See you.",
+            "timestamp": "00:54:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:54:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Charles Schaefer",
+                "matched_calendar_invitee_email": "cschaefer@hex.tech"
+            },
+            "text": "See you.",
+            "timestamp": "00:54:16"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive on Hex's AI-native product and market positioning.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=40.0)\n\n## Key Takeaways\n\n  - [**Hex is redefining BI with an AI-native workflow.** It replaces the slow request-queue cycle with instant, trusted answers via natural language, enabling business users to self-serve and freeing data teams for advanced work.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=150.0)\n  - [**The platform unifies the full data lifecycle:** natural language queries (`Threads`), advanced data science notebooks, and shareable low-code apps. This eliminates the need for multiple, disconnected tools.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=314.0)\n  - [**Trust is built on transparency.** The AI's reasoning is fully auditable, showing all data sources, queries, and logic. This is enabled by customer-defined semantic models that provide essential business context.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1847.0)\n  - [**The brand is modern and irreverent,** challenging the status quo of legacy BI tools. Content must be high-quality and align with a specific \"internet-brained\" tone set by the CEO.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1144.0)\n\n## Topics\n\n### The Problem: Legacy BI's Broken Workflow\n\n  - [Legacy BI tools (Tableau, Looker) create a slow, frustrating request-queue cycle for business users.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=150.0)\n  - [This forces data teams to spend time on one-off questions instead of high-impact projects.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=260.0)\n  - [The root cause is a fragmented toolchain (querying, science, reporting) that prevents a unified, AI-native experience.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=224.0)\n\n### The Solution: Hex's Unified, AI-Native Platform\n\n  - [Hex solves this by unifying the data workflow in one platform with integrated AI.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=314.0)\n  - [**1. Threads (Self-Service):**](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=387.0)\n      - [Natural language interface for business users to ask questions.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=407.0)\n      - [AI generates detailed reports with tables, charts, and explanations.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=420.0)\n      - [**Trust Mechanism:** The AI's reasoning is auditable, showing all sources (projects, semantic models, queries).](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1847.0)\n      - [**Efficiency:** The AI first searches for existing answers to prevent duplicate work.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=541.0)\n  - [**2. Notebooks (Deep Data Work):**](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=601.0)\n      - [`Threads` analysis can be instantly transferred to a notebook for deep data science.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=601.0)\n      - [The AI agent in notebooks can generate complex code (Python, SQL) for tasks like predictive modeling.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=648.0)\n      - [This accelerates expert workflows by providing a high-quality first draft.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=706.0)\n  - [**3. Apps (Shareable Insights):**](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=746.0)\n      - [Notebooks can be published as low-code apps for easy distribution to non-technical users via a shareable link.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=746.0)\n\n### The Technology: How Trust is Built\n\n  - [Hex uses Claude Sonnet (v4.5) but ensures accuracy by providing it with rich, customer-defined context.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1454.0)\n  - [**Semantic Models:** Define business logic for the AI:](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1489.0)\n      - [Metric definitions (e.g., \"Closed Won Conversion Rate\").](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=480.0)\n      - [Dimension descriptions (e.g., \"UUX\\_traffic\\_ID7\" \u2192 \"Unique Website Visitors\").](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2139.0)\n      - [Table joins and relationships.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2119.0)\n  - [**Rules Files:** Enforce organizational standards (e.g., \"for revenue questions, use this table\").](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1515.0)\n  - [**Endorsed Content:** Data teams can mark projects or tables as authoritative sources for the AI to prioritize.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1535.0)\n\n### Market Positioning & Brand\n\n  - [**Competitive Landscape:**](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1035.0)\n      - [**Legacy BI (Tableau, Looker):** Hex is now a direct competitor, offering a fundamentally different, AI-native approach.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1035.0)\n      - [**Modern BI (Omni, Sigma):** Hex's AI capabilities and advanced analytics (Python support) are key differentiators.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2330.0)\n  - [**Brand Identity:**](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1144.0)\n      - [**Tone:** Modern, innovative, irreverent, and \"internet-brained.\"](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1144.0)\n      - [**Positioning:** Challenges the status quo of legacy BI, framing it as an outdated process.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=1144.0)\n  - [**Future Vision:**](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2498.0)\n      - [**Chat with your App:** Ask questions directly within a published app.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2517.0)\n      - [**Ambient Analytics:** Proactive, scheduled analysis (e.g., a weekly report on top reps).](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2565.0)\n      - [**Agentic Analytics:** The AI agent will become even more powerful and autonomous.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2498.0)\n\n### Content Strategy\n\n  - [**Quality Mandate:** All content must be high-quality and align with the CEO's specific tone.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2888.0)\n      - [**Video:** Commercial-grade production, not simple screen recordings.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2924.0)\n      - [**Written:** Irreverent, quirky, and \"internet-brained\" style.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2924.0)\n  - [**\"Show, Don't Tell\" Strategy:**](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2753.0)\n      - [Create short vignettes showing the \"old way\" (request-queue) vs. the \"new way\" (instant AI answer).](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2753.0)\n      - [Target specific user roles (e.g., growth marketer, sales leader).](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2753.0)\n  - [**Content Placement:** Open to ideas for housing high-volume, top-of-funnel content (e.g., a separate section, SEO-only).](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=3061.0)\n\n## Next Steps\n\n  - [**GrowthX:** Develop content concepts demonstrating the \"old way vs. new way\" for specific user roles.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=2753.0)\n  - [**Hex & GrowthX:** Discuss placement strategy for high-volume, top-of-funnel content.](https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC?tab=summary&timestamp=3061.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Email Erik detailed retention/expansion data",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:30:21",
+            "recording_playback_url": "https://fathom.video/calls/461910993?timestamp=1821.9999",
+            "assignee": {
+                "name": "Charles Schaefer",
+                "email": "cschaefer@hex.tech",
+                "team": null
+            }
+        },
+        {
+            "description": "Decide top-of-funnel content placement; update Erik",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:53:20",
+            "recording_playback_url": "https://fathom.video/calls/461910993?timestamp=3200.9999",
+            "assignee": {
+                "name": "Charles Schaefer",
+                "email": "cschaefer@hex.tech",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "cschaefer@hex.tech",
+            "email": "cschaefer@hex.tech",
+            "email_domain": "hex.tech",
+            "is_external": true,
+            "matched_speaker_display_name": "Charles Schaefer"
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        }
+    ],
+    "recorded_by": {
+        "name": "Erik O'Brien",
+        "email": "erik@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/xgp7aQDcgxf_MxuDnaMbzUb_ttzjFckC",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

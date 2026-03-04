@@ -1,0 +1,2147 @@
+{
+    "title": "Relay <> GrowthX - Bi-Weekly Sync",
+    "meeting_title": "Relay <> GrowthX - Bi-Weekly Sync",
+    "url": "https://fathom.video/calls/580961064",
+    "created_at": "2026-02-26T16:28:20Z",
+    "scheduled_start_time": "2026-02-26T16:00:00Z",
+    "scheduled_end_time": "2026-02-26T16:30:00Z",
+    "recording_id": 125647422,
+    "recording_start_time": "2026-02-26T16:00:47Z",
+    "recording_end_time": "2026-02-26T16:28:11Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Here we go.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, so I did, maybe before we jump into the strategy updates, based on kind of the call, I know there was a couple things that were discussed.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I just wanted to make sure I followed up on them.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "One was I know, Dave, we had talked about you getting time with kind of the Jen and Panzer from the editorial team just to talk through some of the concerns around quality since they're the ones kind of building and operating the pipeline.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think they'll have the best insight into ways to address that.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So if you want to just send me some times you're free next week, I'm happy to take a look at their calendars and make that happen.",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'll do that.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then the other thing on one of the things that came up that I know we've talked about before is the linking.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Call.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Call.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And one of the things I'm working with the editorial team on is a new artifact that would essentially kind of group the priority links by themes and kind of have a step that gives the LLM a little more detail on what to pull and when.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I would love to, you know, I think we have visibility into what's performing in terms of traffic, in terms of clicks, but not visibility into the approvals pipeline.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So if something that you could share with me is just, I think if you have like a list of what are the top performing pages on the site by approvals, I think it would be great to make sure we're kind of capturing that in the priority list as well.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I actually have to figure out how to even pull that list.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I was talking to Joseph about that yesterday.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I was going to try to pull something for you to identify that.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's in the works.",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "right.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we'll get that to you as soon as we can.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, and I won't let that block us from making the incremental improvements.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think it would just be great to, I know that's the North Star we're building towards, so to kind of capture that in as many places as possible.",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then the other thing that I, and maybe this is a question for Bethany, that they talked about with Nick and Bethany on the call was just getting...",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Oh, she's on.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Oh, just in time.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Sorry, I have back-to-back meetings for the next four and a half hours, so I'm just bumping around.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thursday's that day for me, too.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "My calendar just like looks blue when you look at it.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "We were just kind of, before we jumped into the strategy updates, I was just following up on some of the to-do's that came out of the meeting with Marcel yesterday, because I was able to catch up on the...",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Which was also rushed.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Yeah, so feel free to ask questions.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I feel like we didn't get done completely before we both had to jump.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I feel like we captured...",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I think what he's looking for on those is a sense of outside of the day-to-day of how things are going and where we can improve as a new company and making sure that we're kind of addressing all your concerns and the things you care about the most.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I think a lot of great stuff came out of that for me as someone who's just watching the recording.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So one of the things I was touching base with, I know you had talked about with him about just getting us access to GA4 and I don't know if you used PostHog or FullStory and letting us kind of just poke around to see how your conversion, your approvals pipeline is like currently set up, making sure that if there are ways we can plug it directly even into Looker.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I know we've done that or set up kind of custom reports in GA4 to give us that visibility.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I just wanted to make sure I followed up on the best next steps to kind of get that access.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "So.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Oh, go ahead.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, I was just going to say, I thought you guys already had access to our GA4, and that's what's plugging into the Looker.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "We do to GA4, but I think we don't to any other tools.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I see, I see.",
+            "timestamp": "00:05:13"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so yeah, so you should have access to Search Console now, at the minimum, yeah.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes, yeah, so I have GSC.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'll check and see.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I know, I think Suleman, who set up the Looker, has access to GA4.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think the, I can't remember whose name it is on your team.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "think they, there was, they didn't want to give, like, the shared Teams account access, so we may need you to give another individual access, because it won't be the, like, I would like our technical expert to, SEO expert to be in there, and helping set that up, so I, I'll find out if he's the right person, just so I can give you a more specific email to get access, guess, but we may need one more person.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "go.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, and based on how quickly they gave you access to Search Console, think that shouldn't be an issue.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "should be able to get that set up pretty quickly.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yep, that was great.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's kind of a blanket approval on other things.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, so then I think it would just be knowing if there's other tools or places you're collecting data that would help us kind of round out that story or if it's really just GA4.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I, so we're, here's the difficulty because I'm looking at your top performing content stuff.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Approvals right now for us are hard to track to pages.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "We're still working on our multi-touch attribution.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "So that's probably, like I think GA4 and Console are probably the best places to live for now.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I'm trying to think of other tools that we use on a regular basis are like Ahrefs and SEMrush.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "We obviously have access, which we could bring you the reporting on a week-by-week basis.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I doubt we could like fully .",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Like that's enough to go on, but I think that would be helpful.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Cause yeah, we've definitely set up custom views for customers before in GA4, even just looking at, you know, those trigger events, like how many organic touch points they had before, like what were those touch points, and being able to kind of find some signals that way too.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I'm thinking like at the very least, that would be a good place to start connecting those dots.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, in terms of reporting, I know you all like it this week.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that should come at the end of the day, by the end of the day today, or like first thing tomorrow morning.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then I also am going to, given the shift in strategy, I would like to also take a look.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So and just audit the prompts that we're checking and tracking on Check That and making sure that we're capturing the full picture on home services.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I'm going to go through and do a first pass on that and then I'm going to just pull them into a spreadsheet to share with your team to take a look at as well.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So we can make sure that those look good and we're kind of tracking the full story around home services especially so we can start collecting data there as well.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then the last thing I wanted to ask about before we jump into the strategy is just I'm working on building out some of the additional views in Looker to give you kind of a more granular look into performance.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I know we had talked about just getting a better like article by article view of what the top performing posts are.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And this is like kind of a good question for either Dave or Bethany in terms of are there specific.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "top is it it screen?",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "not is really you're part content you.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Is interesting, maybe like week over week, if there are big movers and shakers in terms of pages that are getting cited or growing, that's probably the most interesting for now, because usually I'm just looking for the cause week over week of the peaks and valleys.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Well, that's definitely something I think we could build it as a page-in-looker just so it's easier for you to see it with that filter.",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "And then, yeah, think about it and let me know if there's anything else.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So, I would love to, like I said, didn't sort of have time to dive deep into the strategy doc you shared this morning because I was in a meeting, but I would love to have the opportunity to have you just kind of walk me through it.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think I got the general gist of where we're going and it totally makes sense and it's definitely something I think we can successfully execute on.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I think we've done a lot of the initial validation.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "direction.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "that question that we're on.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I so,",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And keyword research when we dug into that home services strategy.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I also think it's something that we can pivot towards pretty quickly, which is great.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "But I would love for, yeah, for you just to walk me through it, if that works.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, let me find the doc then.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Unless you have it open.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm sure I do.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Well, Gavin, do you want to start with the background?",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "say, there's a bunch of background and context in there that I think is just generally known.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's kind of teeing up why we're choosing the trades, but it's digging into the content that we have, particularly with AEO, about 85% of what's surfacing is very informational, very top of funnel content.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I don't know if that's necessarily, I mean, it's probably just the mix that we have on the site right now that there's an over concentration of top of funnel content.",
+            "timestamp": "00:12:46"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we don't...",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "uh...",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's what I'm looking for.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We don't want to dismiss, like, the importance of that content for the sake of brand building, but it's low conversion, and it's also what's happening is appearing in Google's AI overviews.",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Our traffic, or our visibility, rather, in Google's AI overviews has spiked over the past couple of months, which is great, except a new zero-click results.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So our organic traffic is flat and declining a little bit.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the content plan is kind of what we talked about before, just going deeper into specific topics.",
+            "timestamp": "00:13:31"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So a high level of specificity, and then moving from one topic to another, but going deep rather than broad.",
+            "timestamp": "00:13:39"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the strategy in here is really just kind of the specifics of that, like, what we want to target first and second in what order.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's really the only change, I think, in what we've talked about previously, is the order of operations and how we want to tackle things.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So...",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": ".",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": ".",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're digging into vertical sequencing a little bit more right now so we may insert other topics kind of in between so that it's not believe the trades over the next five to six months so maybe do general contracting and HVAC and pivot to I'm totally making this up but like pivot to real estate for example and then back to a different trade just to add a little bit of variety but we should know probably later today if not a more fully fleshed out list and order that we want to tackle things in.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, that sounds great.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It seems really clear.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think, yeah, then the next step on us is just to build this out in Airtable in a way I think that makes it clear what we're actioning on.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "know Dave feeling like we want to have kind of a content prioritization plan.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And...",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "In addition to just kind of like a big list of topics.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I think that's what I would, as my action items, in terms of executing on this, taking this away.",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And it sounds like if your list is changing, maybe we just focus on the general contracting and HVAC keywords and topics for now, and build that out, if that makes the most sense.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'm pretty confident that those two will remain at the top.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we'll know for sure, like I said, probably later today, but like latest tomorrow.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if it might make sense to kind of like hold off even just for like the half day, and we can let you know for sure.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I'm quite confident those will be the top two.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, I mean, we can certainly hold off.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "My only goal would be to get it built out enough this week that we can start executing on it next week.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "But that can be as simple, you know, if we need more time, and that can be as simple as aligning on like what we want to work on next week.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So,",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Dave, you know, it's just five topics.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So if we don't have it all like fully the next, you know, three months mapped out, that's fine.",
+            "timestamp": "00:16:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So yeah, if you just want to ping me when you feel like it's ready and you're kind of aligned on that, we can kind of pick it up from there.",
+            "timestamp": "00:16:10"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:16:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "And we are taking, just to be clear, like a, you know, we're taking the full volume.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "So like, it's going to be a pretty big shift.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I also think there's a possibility that after the first two months we switch to a different vertical, potentially, depending on how leadership feels, like e-com or another vertical for us.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think it's more likely than not, yeah.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Which is fine.",
+            "timestamp": "00:16:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Because then I think we can just let those first two cook and kind of see what the, you know, the results are.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "So definitely also maybe with our reporting as the rest of the year goes on, like want to.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Keep an eye on these as though they were cohorts, you know, kind of like, when we went deep on this, like, here's what happened, like, this is building traction, maybe this cohort not so much.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "So, yeah, I think this is, for the foreseeable, this will be the new way of doing things.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, and I think the thing also I want to touch base with on our editorial team, too, is just from an execution perspective, just to give you visibility into what will happen there, talking to them about whether we should be sort of, in the way that we're treating them as cohorts, treating them as separate personas and be building out separate pipelines for each of these.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yes, yeah.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "May make sense.",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "At the very least, we'll definitely be pulling, like, creating specific persona documentation for each one.",
+            "timestamp": "00:17:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I'll also talk to them in terms of next steps about building, if it makes sense to build out a separate pipeline as well.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So we may.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "May.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think once we've defined what those first verticals would be, I think it makes sense to, it may make sense to run a couple articles across just like as calibrations to make sure we're nailing those, each of those personas, so that we're kind of able to pivot quickly and don't have like a ramp up time for each one of those.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So all to say, think it totally makes sense to focus it in this way, but at the very beginning, we just maybe just want to make sure that we're able to calibrate for each of the personas with like one or two articles, I think.",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So you don't see a dip in quality every time we shift because we're kind of starting from scratch again.",
+            "timestamp": "00:18:38"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, but otherwise, yeah, I think the timeline makes sense.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "My only other question I think would be in terms of, you know, reporting.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think the...",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "You know, the benchmarks that you sent totally make sense and feel realistic in terms of the timeline and like, you know, when you're going to be looking for signals and versus results.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So just knowing that we're looking for kind of signal, especially in these early months, if there are specific, you know, metrics that you care about and like feel like success when we're probably not going to be, you know, marching towards approvals in quite the same way we had talked about before, just kind of letting us know what those metrics are so we can make sure we're kind of reporting on the right things in these early stages.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Yeah, that's fine.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "And we'll think on that.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I did say too to Marcel yesterday, I think we are, we're also curious just to learn from you all, like how your other companies are showing this growth and like, That might.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "In the first six months, then existing, you know, publication and a site with domain authority.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So some of it is, you know, happy to, as much as possible, pull in learnings.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I know that that was something you talked about, Marcel, is getting more of those insights into something that's happening across accounts.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I think that that's an area where we're letting it inform our strategy and operations, but probably not doing as good a job as we could kind of sharing that, I think, with you all.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So that's definitely, I think, a learning to take from that call and something that I'd love to take away and just talk to the team about how we could do a better job.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Even like, you know, just reporting on, you know, monthly, like, here are the insights we're seeing kind of across accounts, think, would be a great thing to share.",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And one of the benefits of working with a company like GrowthX.",
+            "timestamp": "00:21:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So that is something I think we're having.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "that's and a",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So about behind the scenes as well.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:22:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I mean, it's a new discipline.",
+            "timestamp": "00:22:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Everybody's trying to figure out how to talk about it, right?",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So we can put our heads together a little bit more.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "And we'll try to get a little clearer on our end about...",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I think the reason it's still, it's probably feeling a little wishy-washy from our side too, is like, we are still figuring out how to connect all of this data to actual results.",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Like, it's just a weird moment because we can see the flatness in the traffic, but the AI conversions are climbing and it's hard to know what's doing it.",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, is it because we are generally showing up more, which I think we are because our word of mouth numbers are growing?",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "But like, where are we showing up?",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "You know, like we're trying to pull some data from SEMrush about the platforms we're showing up on from an AI perspective.",
+            "timestamp": "00:22:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "But I think the more you can tell us about from your...",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "With your AI visibility stuff, I haven't had a chance to dive into it, but, you know, what are the articles that are getting pulled in?",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Like, what can we go into our meetings and say in terms of like, okay, you know, this is the content that's getting cited with a link.",
+            "timestamp": "00:23:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "So we're doing more of that, you know, just like positive momentum around what's working and what we learned, basically.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "But we're struggling to just to figure out what is working.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "And I think, I mean, I'm really glad Gavin had this insight about kind of the zero click stuff, because that I think does explain a lot of the flatness and the flatness from looking at GA4.",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "You can see that it's coming from Google.",
+            "timestamp": "00:23:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "So that also makes like double sense.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "But yeah, it would just be good to know when stuff is getting cited, like what is getting cited.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "And I know the missing link for everyone is like, we don't know who's asking the questions.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "We like, we don't know if it's our ICP that's in ChatGBT or Claude being like.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "started.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "I found you this way.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "We know what's happening, but we don't know, like, how often, so.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, 100%.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I think once you, I don't know if you've had a chance to get in to check that, but I think that is a great way to get, dig into some of that more granular visibility, because you can see kind of what your top-sided content is.",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Um, but then you can also, you know, go into the prompts themselves, um, and see, you know, not just kind of an overview of your visibility, but also kind of where you're appearing, um, across the platforms, um, so, which I think is really helpful if, you know, you have, if you're, if you're seeing growth in one platform, if you're seeing, you know, higher converting conversions or more traffic coming from, um, One platform.",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "platform.",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I think we can also, one thing we can do, which is nice, you can, we already have it, your prompts grouped by buyer stage, but we can also add tags, I think, especially as we're shifting towards home services, so you'll be able to see kind of more insights for prompts for these cohorts specifically, which makes it easier, I think, to report on and find signal than some of the other tools we've used, like Scrunch, where you get some of that overall visibility, but it's kind of hard, I find, to dig into that, and kind of be able to identify trends within that, so our goal here is to make it easier to, to surface those trends.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "So, are you guys going to be doing, now that you have this, are you going to be doing kind of a, like, monthly summary from this tool as well?",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, so I think the goal is to move off of Scrunch and move on to this entirely.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "We were just giving it a little bit of time as we launched, and it's new, to work out the bugs and the kinks before we shifted entirely.",
+            "timestamp": "00:26:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "But yes, this will be what we'll be using for reporting on those trends on a monthly basis now.",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then the goal of getting you all onboarded so you have access is that, you know, for your own reporting, you'll be able to, instead of just having us report, you can go in and see, you know, at the level of granularity, what's going on with prompts and be able to do your own filters as well.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:26:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, great.",
+            "timestamp": "00:26:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Well, I think a lot of action items on our end, but I don't have any other questions.",
+            "timestamp": "00:26:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'll read through that document more thoroughly today and then ask, you know, drop any questions I have in Slack, if that works.",
+            "timestamp": "00:26:49"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "again, our end.",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then, yeah, just let me know when it's updated, and we can kind of then action on that, and get it all set up in Airtable on our end.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll do.",
+            "timestamp": "00:27:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:27:10"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool.",
+            "timestamp": "00:27:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Is there anything else?",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:27:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thanks, everyone.",
+            "timestamp": "00:27:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bethany Cantor",
+                "matched_calendar_invitee_email": "bethany.cantor@relayfi.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:27:15"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks.",
+            "timestamp": "00:27:16"
+        },
+        {
+            "speaker": {
+                "display_name": "06 - Oatmeal",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:16"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Align on the new content strategy and define next steps.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=692.0)\n\n## Key Takeaways\n\n  - [**New Strategy:** Pivot to a deep-dive content strategy, starting with \"trades\" verticals (General Contracting, HVAC) to address flat traffic caused by zero-click AI Overviews.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=741.0)\n  - [**Reporting Challenge:** Approvals are hard to track to specific pages, making it difficult to prove content ROI. The immediate goal is to find early signals of success.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1132.0)\n  - [**Data Access:** GrowthX needs GA4 access for a technical expert to build custom reports and a list of top-performing pages by approvals to improve internal linking.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=262.0)\n  - [**Execution Plan:** GrowthX will create persona docs and separate content pipelines for each vertical, using 1\u20132 calibration articles to ensure quality before scaling.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1038.0)\n\n## Topics\n\n### Problem: Flat Traffic & Unclear ROI\n\n  - [**Cause:** \\~85% of content is top-of-funnel (ToFu), which now appears in Google's zero-click AI Overviews, causing flat organic traffic despite rising AI visibility.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=744.0)\n  - [**Challenge:** Approvals are hard to track to specific pages, obscuring content ROI.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=380.0)\n  - [**Goal:** Find early signals of success (e.g., traffic growth, citations) to prove the new strategy is working before approvals can be attributed.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1132.0)\n\n### Solution: Deep-Dive Vertical Strategy\n\n  - [**Approach:** Pivot from broad ToFu content to deep dives within specific verticals.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=811.0)\n  - [**Initial Focus:** General Contracting and HVAC.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=910.0)\n  - [**Flexibility:** The plan may shift to a different vertical (e.g., e-commerce) after 2\u20133 months.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=988.0)\n  - [**Reporting:** Each vertical will be treated as a cohort to track performance over time.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1011.0)\n\n### Execution & Reporting Plan\n\n  - [**Content Pipeline:**](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1038.0)\n      - [GrowthX will create persona docs and separate content pipelines for each vertical.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1038.0)\n      - [1\u20132 calibration articles per vertical will ensure quality before scaling.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1080.0)\n  - [**Reporting Tools:**](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=262.0)\n      - [**GA4:** GrowthX needs access for a technical expert to build custom reports tracking organic touchpoints before conversion.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=262.0)\n      - [**Check That:** This tool will replace Scrunch for AI visibility reporting. GrowthX will audit prompts to ensure comprehensive tracking for the new strategy.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=532.0)\n      - [**Looker:** A new view will be built to highlight top \"movers and shakers\" (pages with significant week-over-week growth).](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=571.0)\n  - [**Internal Linking:**](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=110.0)\n      - [GrowthX is building a new artifact to improve LLM-driven internal linking.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=110.0)\n      - [**Dependency:** A list of top-performing pages by approvals is needed to inform this artifact.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=137.0)\n\n## Next Steps\n\n  - [**Dave:**](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=75.0)\n      - [Send availability to Bailey for a meeting with Jen and Panzer (editorial team) to discuss quality concerns.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=75.0)\n      - [Provide the final, prioritized list of verticals to Bailey.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=910.0)\n      - [Provide the list of top-performing pages by approvals to Bailey.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=137.0)\n  - [**Bailey:**](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=262.0)\n      - [Get the email for the technical SEO expert who needs GA4 access.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=323.0)\n      - [Audit Check That prompts for the new strategy and share the spreadsheet with Dave's team.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=532.0)\n      - [Build the new Looker view for top \"movers and shakers.\"](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=571.0)\n      - [Create Airtable content plans for the initial verticals once the list is finalized.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=881.0)\n  - [**Bethany & Dave:**](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1132.0)\n      - [Define and share early success metrics for the new strategy.](https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj?tab=summary&timestamp=1132.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Send availability next week to Bailey for meeting w/ Jen & Panzer",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:01:24",
+            "recording_playback_url": "https://fathom.video/calls/580961064?timestamp=84.9999",
+            "assignee": {
+                "name": "06 - Oatmeal",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Email Bethany/Dave for GA4 access for GrowthX SEO expert; then set up custom GA4 views",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:12",
+            "recording_playback_url": "https://fathom.video/calls/580961064?timestamp=312.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Audit Check That prompts for Home Services; share spreadsheet w/ Dave/Bethany",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:41",
+            "recording_playback_url": "https://fathom.video/calls/580961064?timestamp=521.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Build Looker page for week-over-week page movers",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:10:49",
+            "recording_playback_url": "https://fathom.video/calls/580961064?timestamp=649.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Confirm first 2 verticals to Bailey; then Bailey builds Airtable plan and creates persona docs",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:15:52",
+            "recording_playback_url": "https://fathom.video/calls/580961064?timestamp=952.9999",
+            "assignee": {
+                "name": "06 - Oatmeal",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Discuss w/ editorial: separate pipelines per vertical; plan 1\u20132 calibration articles",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:17:07",
+            "recording_playback_url": "https://fathom.video/calls/580961064?timestamp=1027.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Define and share early-signal metrics w/ Bailey",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:19:01",
+            "recording_playback_url": "https://fathom.video/calls/580961064?timestamp=1141.9999",
+            "assignee": {
+                "name": "Bethany Cantor",
+                "email": "bethany.cantor@relayfi.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Read strategy doc; post questions in Slack to Dave/Bethany",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:26:33",
+            "recording_playback_url": "https://fathom.video/calls/580961064?timestamp=1593.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "gavin.graham@relayfi.com",
+            "email": "gavin.graham@relayfi.com",
+            "email_domain": "relayfi.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Bethany Cantor",
+            "email": "bethany.cantor@relayfi.com",
+            "email_domain": "relayfi.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Bethany Cantor"
+        },
+        {
+            "name": "Nick White",
+            "email": "nick.white@relayfi.com",
+            "email_domain": "relayfi.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Dave White",
+            "email": "dave.white@relayfi.com",
+            "email_domain": "relayfi.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Bailey Seybolt",
+            "email": "bailey@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Bailey Seybolt"
+        }
+    ],
+    "recorded_by": {
+        "name": "Bailey Seybolt",
+        "email": "bailey@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/BYWbEQ2dBU_ztXAE3sXU5siWbyg-p8yj",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

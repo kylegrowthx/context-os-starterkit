@@ -1,0 +1,597 @@
+# Teero <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-08-28
+time: 19:30 UTC
+duration: 15 minutes
+organizer: Jessalynn Jones
+participants: Jakub Rudnik, Jessalynn Jones, Rachel Pasche, Nate Anderson
+fathom_recording_id: 83694701
+fathom_url: https://fathom.video/calls/393318302
+share_url: https://fathom.video/share/3efyef-PhMqRSKFJcTLT-bb-MsGMAK6P
+source: fathom
+enriched_on: 2026-03-03 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Teero reviewed August content performance and strategy alignment. GrowthX delivered 6 leads in August (matching July), with 3 coming from the "Turo Reviews" blog which is performing exceptionally well. The team added new content topics to their Content OS focusing on workforce return and parenting to diversify beyond office manager-specific targeting. An analytics deep dive is tentatively scheduled for two weeks out, with Jakub potentially providing an async recording if timing is tight.
+
+---
+
+## Context
+
+Teero is a dental staffing technology company working with GrowthX on content marketing to drive lead generation. The engagement is strategic — GrowthX produces content while Teero monitors conversion performance and provides content recommendations. The team includes Nate Anderson (Teero product/strategy lead), Jakub Rudnik (GrowthX analytics and content strategy), Jessalynn Jones (GrowthX delivery lead), and Rachel Pasche (GrowthX operations). Nate is currently based in Amsterdam and will be out on vacation the following week. Frank (Teero's designer) wasn't able to join this week but is scheduled for September 11th to discuss design and conversion optimization recommendations.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** New content diversification strategy — shifting from office manager targeting to include workforce return and parenting angles. Three articles ready for Teero review, with eight total expected by end of week. Content OS links now pinned in Slack and at top of agenda for easier client access.
+
+- **To GrowthX Business Development:** Consistent lead generation performance (6 leads in August despite summer months) signals healthy account. "Turo Reviews" blog converting at 50% of August leads (3 of 6), indicating strong conversion potential and expansion opportunity for similar content. Early discussion of conversion path integration suggests deepening strategic partnership.
+
+- **To CheckThat:** Analytics discussion with designer Frank suggests client interest in data-driven optimization. Potential for CheckThat visibility tools or prompt auditing in Teero's workflow as they scale content and track conversion paths.
+
+---
+
+## Overview
+
+- 6 leads generated in August, matching previous month's performance
+- "Turo Reviews" blog performing exceptionally well (3 of 6 leads)
+- New content topics added to Content OS, focusing on workforce return and parenting
+- Analytics deep dive tentatively rescheduled due to upcoming vacations
+
+---
+
+## Key Topics
+
+### Content Strategy Updates
+
+  - Jakub added new topics to Content OS, including:
+      - Returning to workforce
+      - Parenting-related content
+      - Keywords to diversify from office manager-specific to more hygienist-targeting articles
+  - 3 articles ready for review in Content OS
+  - 5 more articles expected by end of day (total 8 new pieces)
+
+### Performance Report
+
+  - August performance: 6 leads generated
+      - 3 leads from "Turo Reviews" blog
+      - Remaining leads dispersed across other blogs
+  - Consistent performance despite summer months
+  - Suggestion to analyze "Turo Reviews" blog for conversion optimization insights
+
+### Upcoming Plans and Scheduling
+
+  - Nate out on vacation next week
+  - Frank (designer) to join meeting on September 11th
+  - Analytics deep dive tentatively rescheduled for two weeks out
+  - Jakub may record an async presentation on analytics if time allows
+
+### Content Accessibility
+
+  - Links to Content OS and Performance Report added to weekly agenda for easier access
+  - Also pinned in Slack channel for quick reference
+
+### "Turo Reviews" Blog Analysis
+
+  - Jakub suggests:
+      - Monitoring trend over time
+      - Considering impact of branded content and brand awareness
+      - Potentially creating similar pages
+      - Incorporating into overall conversion path strategy
+
+---
+
+## Action Items
+
+**Nate Anderson (Teero)**
+- Review 3 new articles ready in content OS (due by end of week)
+- Confirm availability for September 11th design/conversion optimization session with Frank
+
+**Rachel Pasche (GrowthX)**
+- Notify Nate in Slack when remaining articles are ready for review (8 total expected by end of day)
+
+**Jakub Rudnik (GrowthX)**
+- Follow up next week on whether to record async analytics presentation (subject to US holiday schedule)
+
+---
+
+## Transcript
+**Jakub Rudnik:** I took a walk, a little bit of a walk, which isn't like a break.
+
+**Jakub Rudnik:** It's good, it comes in waves. Like at lunch, I was like, I'm feeling better, I'll take a walk.
+
+**Jakub Rudnik:** Now I'm like, I need more medicine, probably. Just medicine, like going up and down.
+
+**Jakub Rudnik:** Yeah.
+
+**Jakub Rudnik:** I think I'm definitely better than this morning, which is probably, you saw me — at like 8 a.m.
+
+**Jakub Rudnik:** I was like, I'm calling in, I'm just not working today.
+
+**Jakub Rudnik:** No, I'm like, today wasn't fun, but I got through it, so, it's all good.
+
+**Jakub Rudnik:** Long weekend, it's fine.
+
+**Jessalynn Jones:** You guys doing anything fun for the long weekend?
+
+**Jakub Rudnik:** I think we're doing some like smaller things.
+
+**Jakub Rudnik:** What are we doing?
+
+**Jakub Rudnik:** Bro, we're doing a photo.
+
+**Jakub Rudnik:** My wife's birthday, I got like a photo thing, so we're going to like go downtown and get our photos done like as a family and stuff.
+
+**Jakub Rudnik:** So, we'd wanted to do that and then this feels like a good time, so.
+
+**Jakub Rudnik:** I've never done that, but I'm kid and the move.
+
+**Jakub Rudnik:** Yeah.
+
+**Jessalynn Jones:** Get your last pictures in Chicago before the big move.
+
+**Jessalynn Jones:** Yeah, exactly.
+
+**Jakub Rudnik:** What about you all?
+
+**Jessalynn Jones:** Tomorrow, I'm going down to Illinois, like Rockford area, actually.
+
+**Jessalynn Jones:** So I'll kind of not be in your neck of the woods of Illinois, but in Illinois for my son, my stepson's like football game, first football game of the season for his senior year.
+
+**Jessalynn Jones:** So that's a big deal.
+
+**Jessalynn Jones:** And then the next morning, we're going to like stay overnight there and then get up the next morning and drive like four hours, the opposite direction to go drop my stepdaughter off at college and move her in.
+
+**Jessalynn Jones:** And then we're going to come back and try to get her room ready because we're having.
+
+**Jessalynn Jones:** A Spanish exchange student stay with us for a couple weeks.
+
+**Jessalynn Jones:** So we're going to come back and like flip her room and get everything ready for the exchange student.
+
+**Jessalynn Jones:** So it's going to be a really full weekend.
+
+**Jessalynn Jones:** I'm going to be like wiped out, but all good stuff.
+
+**Rachel Pasche:** That is a busy weekend.
+
+**Rachel Pasche:** Yeah.
+
+**Rachel Pasche:** What about you, Rachel?
+
+**Rachel Pasche:** Are you doing anything fun?
+
+**Rachel Pasche:** I'm going to the fair.
+
+**Jessalynn Jones:** You're going to the fair?
+
+**Jakub Rudnik:** Nice.
+
+**Jessalynn Jones:** We did that last week.
+
+**Jessalynn Jones:** Yeah.
+
+**Jessalynn Jones:** Ours is this week.
+
+**Rachel Pasche:** So I'm going to the country fair and then it's like football season starts.
+
+**Rachel Pasche:** So Nick is like ready to catch potato, which means I don't know what I'm going to do.
+
+**Rachel Pasche:** Saturday is a big day.
+
+**Rachel Pasche:** Big day for that crowd.
+
+**Rachel Pasche:** If you're into that thing.
+
+**Jessalynn Jones:** Nate, do you guys have fairs over in Europe?
+
+**Jessalynn Jones:** Yeah.
+
+**Jessalynn Jones:** Mainly like they're circuses, but like that's what they're called.
+
+**Nate Anderson:** Like they're like small little circuses.
+
+**Nate Anderson:** Oh, okay.
+
+**Nate Anderson:** Like that's the cool thing.
+
+**Nate Anderson:** Do they have.
+
+**Nate Anderson:** Rides and stuff, like fairs in the U.S.?
+
+**Jessalynn Jones:** Yeah, yeah, for sure.
+
+**Nate Anderson:** That's awesome.
+
+**Nate Anderson:** Like bearded ladies?
+
+**Rachel Pasche:** Or is it like strictly animals?
+
+**Nate Anderson:** It feels antiquated.
+
+**Nate Anderson:** No bearded ladies.
+
+**Nate Anderson:** At least not the ones that I went to.
+
+**Nate Anderson:** Oh, man.
+
+**Jessalynn Jones:** Okay, so I'm trying to remember.
+
+**Jessalynn Jones:** Are you in Prague, Nate?
+
+**Jessalynn Jones:** No, no, I'm in Amsterdam.
+
+**Nate Anderson:** Amsterdam.
+
+**Nate Anderson:** Oh, okay, cool.
+
+**Jessalynn Jones:** I was just telling Rachel and Jakub, we have a Spanish exchange student coming to stay with us starting next week.
+
+**Jessalynn Jones:** And so I'm like, I need to do some research on like European culture so I know like how to not offend them and hopefully help them feel at home.
+
+**Rachel Pasche:** Yeah.
+
+**Rachel Pasche:** Where in Spain are they from?
+
+**Nate Anderson:** That's a great question.
+
+**Jessalynn Jones:** I actually don't know.
+
+**Jessalynn Jones:** I should look at that.
+
+**Jessalynn Jones:** We just had the meeting for it last night and they've given us like basically no information, so it'll be fun.
+
+**Rachel Pasche:** That changes a lot.
+
+**Rachel Pasche:** Like, I think where in the country they're from makes a huge difference.
+
+**Rachel Pasche:** Yeah.
+
+**Jessalynn Jones:** I've been really slacking on my Duolingo, so it should be a good time.
+
+**Jessalynn Jones:** But anyway.
+
+**Jessalynn Jones:** That's so fun.
+
+**Jessalynn Jones:** All right, Rachel, we cannot slack on the icebreakers because this is our Teero call.
+
+**Jessalynn Jones:** So do you have one?
+
+**Jessalynn Jones:** Okay.
+
+**Rachel Pasche:** Oh, yeah.
+
+**Rachel Pasche:** What's a topic you could give a TED Talk on without preparation?
+
+**Jessalynn Jones:** That's a good one.
+
+**Jakub Rudnik:** Coffee, maybe?
+
+**Jakub Rudnik:** That would definitely be what I would have guessed for you.
+
+**Jakub Rudnik:** I'm sure you have others, but that's the only one I would have known.
+
+**Jakub Rudnik:** Yeah.
+
+**Jessalynn Jones:** Yeah, it may or may not be a coffee snob.
+
+**Jessalynn Jones:** Although less so than some people on our team.
+
+**Jessalynn Jones:** Like, um...
+
+**Jessalynn Jones:** Oh, who, one of the developers the other day, like, sent pictures of, like, his coffee set up the other day, and I was like, dang, I need to get out.
+
+**Jessalynn Jones:** looked like a distillery.
+
+**Jessalynn Jones:** Yeah, I was like, I'm not quite on that level, but I aspire to be.
+
+**Jessalynn Jones:** That's the point.
+
+**Jessalynn Jones:** What about all y'all?
+
+**Jakub Rudnik:** I mean, obviously dental staffing.
+
+**Rachel Pasche:** There you go.
+
+**Nate Anderson:** But I think I could do one on note-taking apps.
+
+**Nate Anderson:** Oh.
+
+**Nate Anderson:** Ooh.
+
+**Rachel Pasche:** Okay, what is your recommendation, though, at the?
+
+**Jessalynn Jones:** Bare notes.
+
+**Nate Anderson:** Just so I can't tell.
+
+**Nate Anderson:** Okay.
+
+**Nate Anderson:** I mean, you should either do that one, or you should do Apple notes, and don't mess around with anything else.
+
+**Nate Anderson:** But bare notes is my favorite, by far.
+
+**Nate Anderson:** It's like Apple notes, but cross-platform.
+
+**Nate Anderson:** So in case you are not all Apple, like, it's going to be amazing.
+
+**Jessalynn Jones:** Okay.
+
+**Jessalynn Jones:** Write that down.
+
+**Jessalynn Jones:** Write that down.
+
+**Rachel Pasche:** Yeah.
+
+**Rachel Pasche:** I could maybe do like, like dog training, because I have gone through the gamut of like rescue dogs and like training them for society.
+
+**Rachel Pasche:** And so I have spent a lot of time like doing AKC certifications and like training rescue dogs.
+
+**Rachel Pasche:** I've done, I think maybe at this point, like, I think I've trained maybe like 10 dogs.
+
+**Rachel Pasche:** But yeah, that's like my random, like side passion project.
+
+**Jessalynn Jones:** Okay, rescue dogs as in like dogs that are rescued from bad living situations or rescue dogs as in dogs that you train to rescue people from like rubble.
+
+**Jessalynn Jones:** Dogs that you rescue.
+
+**Rachel Pasche:** So like a lot of people, like when you go to the thing, you get a dog and you expect it to be like ground, you know, you're like, oh, we're starting from like ground zero.
+
+**Rachel Pasche:** But there's usually, there's always like something that the dog has that you kind of have to like work through.
+
+**Rachel Pasche:** Just so it's different, especially if get a dog that's like one or two or something.
+
+**Rachel Pasche:** So the process of training a rescue dog is usually different than like training a puppy.
+
+**Rachel Pasche:** Dang, okay.
+
+**Jessalynn Jones:** That's my random special skill set.
+
+**Jakub Rudnik:** I think my interests are really horizontal, so I don't feel like qualified enough.
+
+**Jakub Rudnik:** I feel like 60% qualified in a lot of things, but the only one that's coming to my mind, it feels like really lame to say, but the last couple of years, my friends have gotten into like fantasy football, but dynasty, where you keep your team forever, theoretically.
+
+**Jakub Rudnik:** And I knew nothing, and then I digested just like way too much content, wasted too much of my brain space on that.
+
+**Jakub Rudnik:** So that specifically, I do feel like I'm in a very high percentile on at least of like knowledge, which again, I feel like a little ashamed to say, but that's the truth.
+
+**Jakub Rudnik:** So, I mean, that's impressive.
+
+**Jessalynn Jones:** Usually I just pick my teams based on like one player that I like or.
+
+**Jessalynn Jones:** Something like that.
+
+**Jessalynn Jones:** Like one year, I chose my fantasy team strictly based on if they had dreads or not.
+
+**Jessalynn Jones:** And my whole team was centered around Marshawn Lynch playing.
+
+**Jessalynn Jones:** And that was it.
+
+**Jessalynn Jones:** My team's name was the Dreadheads.
+
+**Jakub Rudnik:** So yours sounds like Jacob.
+
+**Jakub Rudnik:** You might have more fun.
+
+**Rachel Pasche:** Mine, I put too much pressure on it.
+
+**Rachel Pasche:** It'll all fall flat.
+
+**Rachel Pasche:** What's your punishment?
+
+**Rachel Pasche:** What's on the line?
+
+**Jakub Rudnik:** We, well, so different leagues we have, like, we made, like, a wheel of punishments.
+
+**Jakub Rudnik:** If you, like, get beaten badly enough, you have to, like, spin it.
+
+**Jakub Rudnik:** And there's all sorts of stuff.
+
+**Jakub Rudnik:** And I can share that.
+
+**Jakub Rudnik:** I'll share that offline.
+
+**Jakub Rudnik:** It's a little bit of story.
+
+**Rachel Pasche:** I wonder you're stressed out.
+
+**Rachel Pasche:** Yeah, for sure.
+
+**Jessalynn Jones:** That's, that's intense.
+
+**Jessalynn Jones:** It's pretty fun.
+
+**Jessalynn Jones:** I did Frost Knicks tips last year and it was, I did such a bad job.
+
+**Rachel Pasche:** Oh, I did, like, a terrible job.
+
+**Rachel Pasche:** But he was, like, bleached.
+
+**Rachel Pasche:** I was like, well, that's, they're all frosted, I guess.
+
+**Jessalynn Jones:** That's awesome.
+
+**Jessalynn Jones:** Yeah.
+
+**Rachel Pasche:** All right.
+
+**Rachel Pasche:** Well, jumping into agenda items.
+
+**Jessalynn Jones:** Nate, I'm assuming your designer is not able to join us this week?
+
+**Jessalynn Jones:** Yeah, sorry.
+
+**Nate Anderson:** I saw the note, but I didn't respond to it yet.
+
+**Nate Anderson:** But he's out.
+
+**Nate Anderson:** And then next week, I will be out.
+
+**Nate Anderson:** I'm going to be on vacation again in Spain, European, you know?
+
+**Nate Anderson:** So, but the following week, I will bring Frank.
+
+**Nate Anderson:** Okay.
+
+**Nate Anderson:** That would be September 11th.
+
+**Nate Anderson:** Okay.
+
+**Nate Anderson:** He'll be there and we can do it all then.
+
+**Nate Anderson:** Sounds great.
+
+**Jessalynn Jones:** All right.
+
+**Jessalynn Jones:** Sounds good.
+
+**Jessalynn Jones:** A couple of updates on our end.
+
+**Jessalynn Jones:** And Jacob did add those new.
+
+**Jessalynn Jones:** Topics into the content OS, so we'll be working through producing those over the next couple weeks.
+
+**Jessalynn Jones:** I don't think there's a whole lot of context there, right, Jakub, or anything that you want to add?
+
+**Jakub Rudnik:** just what we discussed from that analytics presentation, Nate, on like returning to the workforce or parenting, plus the added keywords that I found along those lines that we'll sprinkle in those to mix in more of a, yeah, have more of a mix with like hygienist targeting articles.
+
+**Jakub Rudnik:** rather than like office manager specific, but all things we talked about, so.
+
+**Nate Anderson:** Cool.
+
+**Jessalynn Jones:** And then we have three articles ready for you in the content OS.
+
+**Jessalynn Jones:** I did go ahead and add links to the content OS and the performance report at the top of our weekly agenda, just so it's a little bit more visible.
+
+**Jessalynn Jones:** We had a couple of clients that were just like getting a little bit lost in Notion trying to find those, so I just pinned them here for you.
+
+**Jessalynn Jones:** I think I also have them pinned in the Slack channel.
+
+**Jessalynn Jones:** But just if you ever need to reference them, they'll always be in the agenda here now moving forward.
+
+**Jessalynn Jones:** So we've got three ready for you to review.
+
+**Jessalynn Jones:** I think we'll have a few more by end of week, possibly end of day.
+
+**Jessalynn Jones:** Rachel, you can keep me honest there.
+
+**Jessalynn Jones:** Yeah, think all eight will be ready by end of day.
+
+**Rachel Pasche:** So I'll just message you, Nate.
+
+**Rachel Pasche:** Awesome.
+
+**Nate Anderson:** Cool.
+
+**Jessalynn Jones:** And then last thing to report on our end is just that we did get six leads in August.
+
+**Jessalynn Jones:** So even with last month, but last month we saw like a nice little spike, but it's nice to see that holding even, especially over the summer months.
+
+**Jessalynn Jones:** So that's great to see.
+
+**Jessalynn Jones:** We got three leads from Turo Reviews blog, and then the rest are just kind of dispersed through a few other kind of more random blogs.
+
+**Jessalynn Jones:** But that one is performing really well.
+
+**Jessalynn Jones:** So it might be worth us kind of looking at that as we're talking about some of these conversion optimizations.
+
+**Jessalynn Jones:** And it's kind of.
+
+**Jessalynn Jones:** Looking at that in terms of topic and just like how the page is laid out and things like that and see if there's things we can implement in some of the other blogs.
+
+**Jessalynn Jones:** But I'm really excited to dig in with Frank on some of those conversion optimization recommendations that Jakub made.
+
+**Jessalynn Jones:** So definitely looking forward to that.
+
+**Jessalynn Jones:** Otherwise, I think we are kind of tentatively slated next week for kind of a deep dive on the analytic side of things.
+
+**Jessalynn Jones:** But if we're going to have Frank here or if you if you're going to be out this coming week and then the following week, Frank will be with us.
+
+**Jessalynn Jones:** Maybe the following week after that, we'll kind of do an analytics deep dive if that makes sense to everybody.
+
+**Jessalynn Jones:** Yeah, I might be able to.
+
+**Jakub Rudnik:** I think that would make sense.
+
+**Jakub Rudnik:** But tentatively, I could also record something as well and do that one async.
+
+**Jakub Rudnik:** And then.
+
+**Jakub Rudnik:** So I'll follow up on that next week and make sure I do have the time since we are down a day next week in the US.
+
+**Jakub Rudnik:** But otherwise, I think I can get to that.
+
+**Jakub Rudnik:** So that works.
+
+**Jakub Rudnik:** sure everyone I'll potentially do that.
+
+**Jakub Rudnik:** And then I just want to back step one to the like reviews article.
+
+**Jakub Rudnik:** I would imagine that that also like we'd want to see that trend over time.
+
+**Jakub Rudnik:** But I'd imagine that that's more on like the branded side and brand awareness.
+
+**Jakub Rudnik:** So other things that Nate, you are all doing would be impacting that one even more so than like it's organic with the brand sprinkle on top.
+
+**Jakub Rudnik:** So good.
+
+**Jakub Rudnik:** There's probably a couple other articles or pages to create.
+
+**Jakub Rudnik:** But also if that page is converting, like we should consider that in the conversion path in some ways.
+
+**Jakub Rudnik:** So it's just really good insight, Jessalynn.
+
+**Jakub Rudnik:** I think there's just addition.
+
+**Jakub Rudnik:** There's some additional pieces to think on, like how we can use a page like that.
+
+**Jakub Rudnik:** That's really driving.
+
+**Jakub Rudnik:** So just wanted to say that before I lost that thought.
+
+**Nate Anderson:** Yeah, absolutely.
+
+**Jessalynn Jones:** Otherwise, yeah, not a not a whole lot else on the agenda for today.
+
+**Jessalynn Jones:** I'm really looking forward to the conversation with Frank, but is there anything else that you.
+
+**Jessalynn Jones:** Do from us before you're out for the coming week or anything else you can help with?
+
+**Nate Anderson:** No, I think we're good.
+
+**Nate Anderson:** I don't have anything.
+
+**Nate Anderson:** Okay.
+
+**Nate Anderson:** All right.
+
+**Jessalynn Jones:** Well, enjoy your vacation.
+
+**Jessalynn Jones:** Hopefully it's great weather and all the good things.
+
+**Jessalynn Jones:** Relaxing time.
+
+**Jessalynn Jones:** Thank you.
+
+**Jessalynn Jones:** I appreciate it.
+
+**Jessalynn Jones:** All right.
+
+**Jessalynn Jones:** Have a good one.
+
+**Jessalynn Jones:** And we'll ping you in Slack when we have those last few articles ready for you.
+
+**Jessalynn Jones:** Cool.
+
+**Jessalynn Jones:** Thanks, Sarah.
+
+**Jessalynn Jones:** All right.
+
+**Jessalynn Jones:** Thank you.
+
+**Jakub Rudnik:** Bye.

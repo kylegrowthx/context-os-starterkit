@@ -1,0 +1,547 @@
+# Biologica Weekly Sync
+
+<metadata>
+date: 2025-07-15
+time: 15:36 UTC
+duration: 26 minutes
+organizer: aida@growthxlabs.com
+participants: Brian Magida, Aida Knežević, Jakub Rudnik
+fathom_recording_id: 74239940
+fathom_url: https://fathom.video/calls/351335771
+share_url: https://fathom.video/share/NW2wB8qR8sigERHWantWVMJweXA_s7Re
+source: fathom
+enriched_on: 2026-03-03 18:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Biologica aligned on article structure preferences (key takeaways first for UX), confirmed SEO impact is minimal, and locked in a refined content generation workflow. Aida demonstrated customizations to the Atlas pipeline including enhanced article outlines, three-tier fact-checking (standard + medical expert + Biologica mentions review), and medical claims annotation. The team discussed integrating feedback loops with the developer (Pedro) to improve the fact-checker knowledge base over time, and explored future possibilities like audience-specific pipelines for different life stages (pregnant vs. postmenopausal) and writer personas.
+
+---
+
+## Context
+
+Biologica is a health and wellness company building a blog as part of their website launch. Brian Magida leads product/design, while GrowthX delivers content strategy and generation through Aida Knežević (content ops lead) and Jakub Rudnik (SEO/strategy). The client is simultaneously building the website while reviewing content, which puts pressure on the content generation pace. GrowthX has customized the Atlas platform to handle Biologica's high medical and fact-checking standards, including expert reviews by medical professionals and detailed product integration guidelines.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Successful implementation of custom medical fact-checking workflow in Atlas with expert review step — demonstrates scalable approach for health/wellness clients
+- Feedback loop mechanism (Aida collects issues, sends to dev Pedro) shows sustainable way to improve fact-checker knowledge base over time rather than manual review at scale
+- Audience-specific content pipelines concept (pregnant vs. postmenopausal) already proven with another client — potential to replicate for Biologica post-launch
+
+**To GrowthX Business Development:**
+- Account momentum strong: Biologica moving quickly through 40+ pre-launch articles with "pretty quick" turnarounds; Brian monitoring team capacity
+- Website/blog is critical path item; copy generation pace may accelerate or need adjustment based on team bandwidth
+- Expansion opportunity: mention of different bylined authors (OBGYN vs. naturopathic doctor) suggests potential for multiple writer personas and expanded SOW
+
+**To Content & Tools:**
+- Medical claims annotation discovery: 40-50 tags in ingredient-based articles is expected volume — need to account for this in training/review processes
+- Internal linking automation concern: Brian wants to link 40+ pre-launch articles at launch; team exploring automation options to avoid manual insertion
+- CMS capability checklist emerging: pull quotes, tables, embeds (YouTube, Instagram, Pinterest), images/graphs required for launch
+
+---
+
+## Overview
+
+- Article structure with key takeaways at the top is preferred for UX, but SEO impact is minimal
+- Custom fact-checking workflows implemented, including medical expert review and Biologica-specific mentions
+- Future considerations: automated internal linking, audience-specific content pipelines, and incorporating feedback for continuous improvement
+
+---
+
+## Key Topics
+
+### Article Structure and SEO Considerations
+
+  - Current structure: key takeaways, intro section, subsequent content
+  - SEO impact of takeaways placement is minimal; primary keywords included for search rankings
+  - UX perspective favors takeaways first; Jakub to research industry standards
+  - Importance of visual breaks: pull quotes, bullet lists, tables for comparisons
+  - Embedding capabilities needed for social media content (YouTube, Instagram, Pinterest)
+  - Images and graphs crucial for engagement and explaining complex topics
+
+### Content Generation Workflow Enhancements
+
+  - Updated Atlas with customized article generation process
+  - New steps: enhanced article outline, generate article draft, multiple fact-checkers
+  - Expert article review impersonates medical expert, provides scientific accuracy checks
+  - Biologica mentions review ensures accurate and organic product integration
+  - Medical claims annotation adds MD tags to claims (40-50 tags in ingredient-based articles)
+  - Internal linking step to be implemented once website is live
+
+### Fact-Checking and Feedback Integration
+
+  - Two-pronged approach to incorporate feedback:
+    1.  Update writing guidelines for product messaging
+    2.  Collect medical claims issues for developer to enhance fact-checker knowledge base
+  - Collaboration with Pedro (developer) to refine the expert review process
+  - Expectation: medical reviews will become less intense as knowledge base grows
+
+### Future Content Considerations
+
+  - Potential for audience-specific content pipelines (e.g., pregnant women vs. postmenopausal)
+  - Different writing styles for various life stages and bylined authors
+  - Possibility of creating separate workflows for different writer personas (e.g., OBGYN vs. naturopathic doctor)
+  - Balancing content variety while maintaining consistency across articles
+
+### Website Development and Content Review Process
+
+  - Biologica team simultaneously building website, requiring significant copy
+  - Current review process working well, with quick turnarounds
+  - Monitoring team capacity for potential adjustments to content generation pace
+
+---
+
+## Action Items
+
+**Jakub Rudnik (GrowthX)**
+- Research content ordering in healthcare blogs; confirm if key takeaways first is optimal
+
+**Brian Magida (Biologica)**
+- Flag to dev team: implement pull quotes, tables in blog design
+
+**Aida Knežević (GrowthX)**
+- Update dossiers in Atlas when substantial changes made; notify team
+- Collect medical claim issues from reviews; send to Pedro for fact checker update
+- Consult dev team re: automating internal linking for 40+ pre-launch articles
+- Share Maggie's medical review feedback with Pedro for workflow improvements
+
+---
+
+## Transcript
+**Brian Magida:** Right now, and maybe this can change, it probably could change, but I'm curious for your thoughts.
+
+**Brian Magida:** So it's basically like, it goes straight into the key takeaways, and then there's kind of like an intro section, and then kind of like the subsequent content.
+
+**Brian Magida:** From like a design perspective, like the way that you've drafted the articles, there's like an intro and then takeaways, and then.
+
+**Brian Magida:** So I guess like, what would be your preference here?
+
+**Brian Magida:** I think Jakub can also provide some SEO guidance here.
+
+**Aida Knežević:** For me, I don't think there's a big, like a huge SEO impact either way, because the key takeaways, the way that I've like named the key takeaways, they include the primary keyword, which is going to be good for like search rankings.
+
+**Aida Knežević:** I think the key takeaways in this example are just shorter than the ones that I've provided.
+
+**Aida Knežević:** I think the ones I've provided are like eight bullets.
+
+**Aida Knežević:** So we can shorten them, but I'm totally fine having it like this.
+
+**Aida Knežević:** I don't think it's going to be an issue because I've seen websites do both.
+
+**Jakub Rudnik:** And I know SEO is a portion of this, but not all.
+
+**Jakub Rudnik:** A lot of this is Brandon having that website content set up just more broadly and it'll be used in different forms.
+
+**Jakub Rudnik:** I'm largely with you, Aida, and SEO-wise, I don't think it will matter much at all, which is top or bottom.
+
+**Jakub Rudnik:** Though once we had, like if we have an article with SEO traffic, we should test those things.
+
+**Jakub Rudnik:** can, you know, just A, B, move the takeaways down or whatever when we have that type of traffic to actually experiment with.
+
+**Jakub Rudnik:** But a recommendation I'll take on looking at, I want to look at kind of the other content in your space more generally and how they're ordering that.
+
+**Jakub Rudnik:** I think I would put the takeaways first from like a UX perspective.
+
+**Jakub Rudnik:** If someone knows like really high level bullets, it's similar to what we've done.
+
+**Jakub Rudnik:** But you know what?
+
+**Jakub Rudnik:** When it does in SaaS content versus what they're doing in healthcare and this type, there might be some nuances.
+
+**Jakub Rudnik:** So I'll take that on.
+
+**Jakub Rudnik:** I think I like it with this order, even if we've created it slightly differently, just to make sense for me from a user experience.
+
+**Jakub Rudnik:** But I'll take that on to double, like to confirm that that makes sense in that space because the content will vary.
+
+**Brian Magida:** And then I know like in some of the articles, we don't have it designed here, but I can like go back to the team because we're going through development now of these like punch outs or whatever you kind of call it.
+
+**Brian Magida:** I'm assuming that could be done through like a typical text, like, because we're using Shopify to host the blog.
+
+**Brian Magida:** So I'm assuming we can handle that through like markup.
+
+**Brian Magida:** But if you're doing something different, like, let me know.
+
+**Brian Magida:** But I'll also just flag it to the team to make sure we can actually like implement the style that you've kind of outlined.
+
+**Brian Magida:** But I'll also just flag it to the team to make sure we can actually like implement the style that you've kind of outlined.
+
+**Aida Knežević:** Okay.
+
+**Aida Knežević:** Yeah, that makes sense.
+
+**Aida Knežević:** Yeah, I don't think, I mean, I always like the visual breaks that we use are mostly like pull quotes, like obviously like bullet lists from time to time, but that's not going to be an issue, I think.
+
+**Aida Knežević:** It's pretty easy to format.
+
+**Brian Magida:** I'll just make sure.
+
+**Jakub Rudnik:** Tables would be one other one that I can imagine across, both good for type of chunking and things, but I can see that being really useful with comparisons and, you know, like when you, there's a lot of use cases there.
+
+**Jakub Rudnik:** So ensuring that we have that ability.
+
+**Brian Magida:** So tables and pull quotes.
+
+**Brian Magida:** If there's anything else, just let me, just let me know.
+
+**Brian Magida:** Yeah.
+
+**Aida Knežević:** Yeah.
+
+**Aida Knežević:** Also like, I think having the ability to embed content from different social media platforms, like YouTube, Instagram, Pinterest — you never know, like, at some point, you might want to embed someone on Instagram reviewing Biologica, or posting a photo, and we just want to embed that into the blog.
+
+**Aida Knežević:** So, like, any sort of, yeah, social sharing, that would be good.
+
+**Jakub Rudnik:** That's a great call-out, especially because, if I heard from the intro call correctly, like, most people are getting their info from, say, Spotify in a podcast, or they get it from Instagram.
+
+**Jakub Rudnik:** So putting, like, the people that they know in there, or, like, the sources that they know really works.
+
+**Jakub Rudnik:** As a tribe, which is, like, more of our B2C SaaS company, like, we put influencer videos, right, into a blog post, and see time on page, and conversions go up right away.
+
+**Jakub Rudnik:** It was just, like, such a, putting a face there is, like, an extra piece of credibility, like, the byline at the top, or the authored by a doctor will matter a ton.
+
+**Jakub Rudnik:** But I think if you're a community, you're a buyer.
+
+**Jakub Rudnik:** We're very comfortable with those spaces.
+
+**Jakub Rudnik:** We want that.
+
+**Jakub Rudnik:** Embedding with HTML should be really easy.
+
+**Jakub Rudnik:** Any CMS, but confirming that we have that and how that's styled, that certainly would be, I'd get to that one being bigger than some others.
+
+**Jakub Rudnik:** And then images will be table stakes as well.
+
+**Jakub Rudnik:** But, you know, some things that like it's on the intro slides, the hormones over time, like that visual is very powerful.
+
+**Jakub Rudnik:** So putting, I don't know, you know, some topics will be visuals more than others.
+
+**Jakub Rudnik:** So simple graphs like that will be really impactful on top of like product type of imagery.
+
+**Jakub Rudnik:** So imagery would be another one.
+
+**Jakub Rudnik:** Again, I think all CMSs, Shopify included, will be table stakes there.
+
+**Jakub Rudnik:** Just want to call those out though.
+
+**Jakub Rudnik:** Okay.
+
+**Brian Magida:** Okay.
+
+**Brian Magida:** Okay.
+
+**Aida Knežević:** Perfect.
+
+**Aida Knežević:** And I'm going to fill in Jacob and the team later on just on the image side, like what we agreed to do.
+
+**Aida Knežević:** Just for the featured images for blog posts, because that's also going to be something that we're going to be supporting.
+
+**Aida Knežević:** On our end.
+
+**Aida Knežević:** So yeah, I haven't forgotten about that as well.
+
+**Aida Knežević:** Okay.
+
+**Aida Knežević:** Nice.
+
+**Aida Knežević:** All right.
+
+**Aida Knežević:** So let me let me show my screen again.
+
+**Aida Knežević:** So we kind of made a couple of updates to Atlas to customize the article gen workflow.
+
+**Aida Knežević:** So the first one was in the context artifacts.
+
+**Aida Knežević:** So if you remember, like when the first time I showed you this, we just had the guidelines.
+
+**Aida Knežević:** Like the three ones right here.
+
+**Aida Knežević:** The dev team added the dossiers here and we can go in.
+
+**Aida Knežević:** They don't automatically refresh.
+
+**Aida Knežević:** So whenever, like if you do like update them, like make like substantial changes.
+
+**Aida Knežević:** I know you said they're about like 80% done or like mostly done, but, um, once like you make another update, you can just tag us, um, and we'll go in and just like update, uh, the, the dossier that, um, that needs to be changed.
+
+**Aida Knežević:** And then these dossiers are now a part of the article generation process and I'm going to show you how.
+
+**Aida Knežević:** So we have like additional steps here.
+
+**Aida Knežević:** So like the SEO content generation, the deep research and the article outline generator, they are the standard steps that every, every client gets.
+
+**Aida Knežević:** What we added here was enhanced article outline.
+
+**Aida Knežević:** And this is where we add, for example, like it provides more like detailed content suggestions about like just where we can like insert biologica and like specific information from, from the dossiers.
+
+**Aida Knežević:** So one thing, for example, that came up when I was doing your first two articles was that we get an article, but the only, we don't mention Biologica at all, or it mentions Biologica at the very end.
+
+**Aida Knežević:** And we want the outline to organically mention like, hey, you're having issues with like mood swings, Biologica can help in this way and like make it, you know, add it at the right place as a solution without having to rely on a human writer to remember, hey, I should add that here.
+
+**Aida Knežević:** So this step also kind of enhances that as well.
+
+**Aida Knežević:** And then it like generates, once we tweak the outline, we go to generate article draft.
+
+**Aida Knežević:** And then there are like three fact checkers here, essentially.
+
+**Aida Knežević:** So the first content fact checker, I believe it's our standard one.
+
+**Aida Knežević:** So it like, yeah, this is the standard fact checker that everybody gets.
+
+**Aida Knežević:** So it like splits it into chunks.
+
+**Aida Knežević:** It extracts different claims and then it like researches them against trusted sources and then after that it goes into the expert article review, which is a more custom fact checker that like it like impersonates like a medical expert and then it like divides it also into chunks.
+
+**Aida Knežević:** But like it takes a more scientific approach to the review.
+
+**Aida Knežević:** So for example, let me let me actually show you what it looks like because I know you were curious to see like the exact workflow and what it looks like.
+
+**Aida Knežević:** So I can show you that in studio.
+
+**Aida Knežević:** So this is like the workflow.
+
+**Aida Knežević:** So this is what like the JSON code looks like.
+
+**Aida Knežević:** And if you scroll like.
+
+**Aida Knežević:** All the way down, you can actually see, okay, like ambiguous claim, reason, the statistic lacks specificity about what types of trials were included and what constitutes meaningful relief.
+
+**Aida Knežević:** And then like it adds like a copies of text and then it adds a suggestion to make it to fix the accuracy or like to remove ambiguity.
+
+**Aida Knežević:** And then it like it gives you also like scientific errors.
+
+**Aida Knežević:** For example, the original content said that Chase Berry mimics estrogen.
+
+**Aida Knežević:** And then like the reason was that it does not mimic estrogen, that its primary mechanism is through dopamine receptors.
+
+**Aida Knežević:** So like it, it suggests a replacement, which is that it may influence hormone balance, but it should replace the claim that it lightly mimics estrogen.
+
+**Aida Knežević:** So this is what it like, this is the process, so it like takes these medical claims, it verifies them, and then it kind of.
+
+**Aida Knežević:** It gives a reason why they were changed, and then it gives a different suggestion.
+
+**Aida Knežević:** And all of these are automatically changed.
+
+**Aida Knežević:** So the workflow does that all at once, basically.
+
+**Brian Magida:** So I guess the question I have is, given, let's just say the last, can remember the last article, Maggie went through, and she provided, like, feedback around whether it was certain words or whether we can or can't say certain things, how do you incorporate that on, like, a go-forward basis?
+
+**Brian Magida:** Does that get added to kind of this content fact checker as, like, examples of, hey, you provided this, but actually when we reviewed it, like, this is our response to that?
+
+**Brian Magida:** Does that then get incorporated and, like, codified into its own sort of artifact?
+
+**Brian Magida:** That way, hopefully it learns and gets better over time.
+
+**Brian Magida:** Yeah, yeah.
+
+**Aida Knežević:** So there are two ways we're going to tackle that.
+
+**Aida Knežević:** So there are...
+
+**Aida Knežević:** Some things, for example, around the product messaging that I can add to the writing guidelines.
+
+**Aida Knežević:** But when it comes to medical claims that the fact checker still wasn't able to catch, I'm going to collect them and then send them to the developer who was working on this workflow and basically tell him to just add those in so that it has a knowledge base of its own.
+
+**Aida Knežević:** So that those things like don't get repeated again.
+
+**Aida Knežević:** My hunch is that like a lot of, you know, because a lot of these topics are similar and a lot of these claims are going to be repeated multiple times in different articles.
+
+**Aida Knežević:** So, you know, the more we, the more content you review, we're going to get to a point where the medical reviews aren't going to be as intense.
+
+**Aida Knežević:** But yeah, that's my approach.
+
+**Aida Knežević:** So it's like going to be a dual approach.
+
+**Aida Knežević:** So I'm going to see what I can handle on the artifact side, and then for anything else, I'm going to bring in the developer and have them like tweak the expert review, basically.
+
+**Jakub Rudnik:** Aida, just for my knowledge, who are you working with on the development side?
+
+**Jakub Rudnik:** Pedro.
+
+**Jakub Rudnik:** Okay, so we'll just have to build a cadence with him on the key trend of content to get that submitted.
+
+**Jakub Rudnik:** okay, take that on.
+
+**Aida Knežević:** Yeah, yeah, that's why I told him we spoke on Monday, and he was like, you know, basically like, tell me what the client says, because he's also curious to see how it works and like with the results.
+
+**Aida Knežević:** So he's also waiting for our feedback.
+
+**Aida Knežević:** And then it also does like a Biologica mentions review.
+
+**Aida Knežević:** So it basically checks that the Biologica mentions are accurate.
+
+**Aida Knežević:** So if there's anything in the artifacts that's slightly incorrect or unclear, it is going to have an effect here, but for example, if there's an opportunity to add an additional mention of Biologica, it's going to add that in here, but it's going to do that in a way that's consistent with the overall style and writing style of the blog.
+
+**Aida Knežević:** So that's just like the last step before it goes to just the medical claims annotation.
+
+**Aida Knežević:** And that's like the last step where it adds like the MD tag next to every single medical claim.
+
+**Aida Knežević:** Like this blog I think had like around 40 to 50 medical claim tags, which I think the developer was kind of like
+
+**Aida Knežević:** Like, okay, this is a lot, but because this is an ingredient-based article, I think that's kind of to be expected.
+
+**Aida Knežević:** So, yeah, and then, I mean, the last couple of steps are the internal links, which we don't have just yet because you don't have a website yet.
+
+**Aida Knežević:** But once you have a website, this step is going to automatically add internal links to other content on your site, which improves, like, crawlability by Google's spiders.
+
+**Aida Knežević:** And then it's going to speed up the indexing as well.
+
+**Aida Knežević:** So your articles are going to rank faster in Google because, you know, there's just more internal links pointing to the content on the website.
+
+**Aida Knežević:** I guess two questions.
+
+**Brian Magida:** And one, obviously, like, we're going to be generating content, quite a bit of content.
+
+**Brian Magida:** Like, is the idea, let's say, before we publish, like, hopefully we have, call it 40.
+
+**Brian Magida:** Plus articles, do we then run that step and so that way it's like they're all kind of like interlinked to one another out of the gates or do we have to like go back and make updates like I guess what's the process there we're still mindful of that's a great question.
+
+**Aida Knežević:** I think like the first thing that came to my mind that we are going to have to like add these add these in manually the thing is it's not going to be that hard because it's if we publish like 40 blogs like once you launch your website you have 40 blogs so it's going to be we can like just have a list of URLs and then just like go in different articles.
+
+**Aida Knežević:** and like add a couple of internal links organically I can speak to try to like get someone from the dev team to see if we can like automate this or see if maybe there's a tool.
+
+**Aida Knežević:** That we could use because the internal links, like we would have to basically run this workflow again, which shouldn't be actually that big of an issue.
+
+**Aida Knežević:** So let me speak to the dev team and get back to you on that.
+
+**Aida Knežević:** We just need to have the ability to copy like the final, final version of the article that's in Google Docs into Atlas and then run the internal links generator.
+
+**Aida Knežević:** And that should be able to be like, we should be able to do that automatically.
+
+**Jakub Rudnik:** Well, yeah, I think something like that makes sense.
+
+**Jakub Rudnik:** I wonder also if like they can like that workflow generally is pointed at like the sitemap, you know, and right now there's no format to go into.
+
+**Jakub Rudnik:** I wonder if we can like either pre-generate that or create like a proxy for the sitemap and that we could like run the same workflows, like make create some sort of adaptation to the workflow.
+
+**Jakub Rudnik:** So I don't just ideating, again, we're not the end folks, we'll need the technical side, but I think something like that could save that step, and yeah, there are a couple of different options potentially to avoid the manual insertions.
+
+**Brian Magida:** And then the other question I have is like, and maybe this is a bad idea, but over time, right, like we're publishing, these articles have been reviewed, so like they've gotten the thumbs up that they're good.
+
+**Brian Magida:** At what point in the process, if at all, does it look at like the repository of articles that have been written as a way of one, like being its own kind of like self-referencing factor, and then two, just from like a tone and style perspective, like it seems like you'd want some potential variability across content.
+
+**Brian Magida:** So like you wouldn't want, it's good to have like repetition equals reinforcement, but at the same time, like.
+
+**Brian Magida:** It would be weird if you were reading articles that were, like, thematically the same, and then, like, they started to read the same.
+
+**Brian Magida:** Does that make sense?
+
+**Brian Magida:** Yeah.
+
+**Brian Magida:** So is there some process to just, like, look back at, hey, this is what's been written and incorporated out in various ways to inform, like, the future content that's produced?
+
+**Aida Knežević:** So in terms of, like, building a knowledge base of existing content, that's something that the dev team can build.
+
+**Aida Knežević:** We just need to put that on their radar because it's not, it's not, like, an ingrained feature just yet in Atlas.
+
+**Aida Knežević:** So this is just taking into account, like, the existing artifacts that we have right now.
+
+**Aida Knežević:** And then for your second question, we are able to build, like, different voice or tone artifacts depending on, like,
+
+**Aida Knežević:** Let's say, for example, you want, like, we start building, and that's actually a great point, which is, like, once we start, for example, generating content for women who are pregnant, we need to have a slightly different tone, we need to incorporate different examples, speak to them in a different way.
+
+**Aida Knežević:** And one thing that has been done for a different client was to build, like, different article generation workflows depending on the audience.
+
+**Aida Knežević:** So they have one workflow, for example, for one subset of their audience and a different one for the other one, and they take different artifacts during that process.
+
+**Aida Knežević:** So we can do that when, like, when you're, when we're ready to take that step.
+
+**Brian Magida:** Okay, that makes sense, you know, think, I think over time, we'll probably potentially want to get there, especially if we have different, like, writers, for sure, they'll totally be different.
+
+**Brian Magida:** And then, yeah, I think to the extent that, like.
+
+**Brian Magida:** We're not selling prenatals now, but like a prenatal consumer probably is looking for a different style of writing versus like someone who's in postmenopause.
+
+**Brian Magida:** They're different.
+
+**Brian Magida:** So that makes sense.
+
+**Brian Magida:** I think it's a start.
+
+**Jakub Rudnik:** Yeah, we don't need to, but that note there, Brian, especially if it's like different bylines and or it's to those different audiences.
+
+**Jakub Rudnik:** Those make a ton of sense in Aida's solution.
+
+**Jakub Rudnik:** Like it's different use case, but we've done a similar thing for one of my clients.
+
+**Jakub Rudnik:** So like, especially if we're putting a Facebook and they have a specific style and they're speaking to one, like it's a good to have all that content feel like it's coming from that single person, but that person should feel different than someone else who's writing for that other stage of life.
+
+**Jakub Rudnik:** So I think that all makes sense.
+
+**Jakub Rudnik:** We just create a different pipeline or workflow over there.
+
+**Jakub Rudnik:** So that's great to call.
+
+**Jakub Rudnik:** We'll keep that in mind.
+
+**Jakub Rudnik:** And then I don't know if this is part of it, but your question, but some people are coming in organically, they'll come in other ways too, and they'll be more likely to explore the site, but organically.
+
+**Jakub Rudnik:** See what it's like in your niche, but typically we're seeing, you a couple page views or like sessions will have a couple different page views.
+
+**Jakub Rudnik:** They'll go to two, three pages at most often, like some people will really extend, but most people will go to one, read, get their answer, move on.
+
+**Jakub Rudnik:** So sometimes if you get like, I don't know if we have similar styles across blogs, sometimes that's less of an issue just because of how much content someone's feeling.
+
+**Jakub Rudnik:** They have like one insertion point, they stay in that small cluster, but I think it's still good to note, especially on the way different stages of life.
+
+**Jakub Rudnik:** Or problems, especially the authors, so I just want to call that out if that was part of the concern.
+
+**Jakub Rudnik:** It's funny, it's like a different, I think it's good that you're calling that because of some, most companies just like one blog that feels like one writer or there's no writer at all.
+
+**Jakub Rudnik:** And it's just generic.
+
+**Jakub Rudnik:** I think that especially if you're readers or consumers are getting stuff from Instagram podcasts, like they're getting faces and voices.
+
+**Jakub Rudnik:** They want something more personal in this topic because their issues are personal.
+
+**Jakub Rudnik:** So having that perspective and a face behind it with a unique voice — that's something we should think about a little bit differently than a generic SaaS company.
+
+**Brian Magida:** Yeah, like, I mean, even quite simply just, and I think what we're doing in the medical review side is likely fine, but you could almost like decompose the medical review into like two different ones.
+
+**Brian Magida:** There's the like MD, like the OBGYN medical doctor, which has like a different set of knowledge versus like a naturopathic doctor, given like the types of recommendations they would make to be different.
+
+**Brian Magida:** They both can be like medically correct, but like perspective is different.
+
+**Brian Magida:** And so, yeah, I don't think we need to like make any changes there, but certainly to your point, like on a byline perspective, if one is written by Maggie, who's like a naturopathic versus someone else that's like a practicing OB, like they likely should sound quite a bit different, you know?
+
+**Brian Magida:** Mm-hmm.
+
+**Aida Knežević:** Yeah.
+
+**Aida Knežević:** Yeah, I totally agree.
+
+**Aida Knežević:** All right.
+
+**Aida Knežević:** Do you have any other comments, questions, requests?
+
+**Brian Magida:** No.
+
+**Brian Magida:** I think on our side, I'm still trying to figure out the most efficient way to just get feedback from the team.
+
+**Brian Magida:** So far, it seems to be working.
+
+**Brian Magida:** I'm getting turnarounds pretty quick, to be honest, and I'm hitting up with many requests beyond just what I'm sharing from you all.
+
+**Brian Magida:** So I think I'll learn more over the next week or two, just how the team's feeling with all these reviews, because literally, as this is happening, we're building the website, and that requires an insane amount of copy.
+
+**Brian Magida:** So I'll keep you all posted.
+
+**Brian Magida:** But right now, I'd say just keep on sending the articles, and hopefully, as we capture the feedback, the review process gets faster.
+
+**Aida Knežević:** I'll share Maggie's feedback with Pedro and then he can get started tweaking the medical review based on her feedback.
+
+**Aida Knežević:** So we should we should see improvements in that regard.
+
+**Brian Magida:** Okay, perfect.
+
+**Aida Knežević:** Well, thank you so much for your time.
+
+**Aida Knežević:** Yeah, we'll talk soon.
+
+**Brian Magida:** Nice to meet you.

@@ -1,0 +1,1161 @@
+# Meeting w/George (Valentina Giraldo Morales)
+
+<metadata>
+date: 2025-08-27
+time: 22:45 UTC
+duration: 35 minutes
+organizer: George Haikal (GrowthX)
+participants: Valentina Giraldo Morales (external), George Haikal (GrowthX)
+fathom_recording_id: 83431653
+fathom_url: https://fathom.video/calls/393688447
+share_url: https://fathom.video/share/hKttSYyCDzAiDvLdFeHxNXvziVHQsC1u
+source: fathom
+enriched_on: 2026-03-03 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+George Haikal interviewed Valentina Giraldo Morales, a growth-focused professional from Colombia, for a mini chief of staff role at GrowthX. Valentina demonstrated strong problem-solving and process-improvement thinking—her background in growth management and internal operations aligned well with the position's needs to support George's workload across client communication, process creation, and cross-team coordination. George emphasized that the role requires a flexible, adaptable problem-solver who can navigate diverse tasks (Notion, Linear, HubSpot, event management) and committed to following up with the team on next steps.
+
+---
+
+## Context
+
+GrowthX is actively recruiting for a mini chief of staff position to support George Haikal, the company's Chief of Staff. This is a supporting role meant to free up George's bandwidth by taking on operational tasks like client communication, process improvement, project management, and coordination across GrowthX's teams (delivery, growth, content). The company operates remote-first with optional hybrid work for leadership, and the role would support key initiatives including CRM development, process documentation, and cross-functional project tracking.
+
+Valentina Giraldo Morales, based in Pereira, Colombia, brings 3 years of post-graduate experience including a growth management role at an e-commerce company followed by a transition to internal growth and process improvement work. She's comfortable with remote work, uses AI daily in her practice, and demonstrates the kind of problem-solving orientation and adaptability the role demands. This was a formal interview conversation following her video submission.
+
+---
+
+## Relevance
+
+**To GrowthX Operations:**
+- Staffing decision on mini chief of staff role could materially free up George Haikal's bandwidth for strategy and higher-leverage work
+- Candidate brings real experience with internal operations and process improvement, critical for scaling GrowthX's delivery and internal systems
+- Strong fit on core tools: Valentina is already comfortable with Notion, Slack, and process-thinking mindset needed for linear project management, HubSpot, and Adio
+- Remote-first arrangement works: Valentina based in Colombia (5-6 hour time difference from US) and has established office routine in Pereira for focus
+
+**To GrowthX Business Development:**
+- Expanding team capacity signals company growth and ability to invest in supporting infrastructure
+- Valentina's background in e-commerce and growth methodologies could bring fresh perspectives to client engagement and content strategy discussions
+- Candidate planning to visit LA in November aligns with GrowthX's hybrid work model for leadership
+
+---
+
+## Overview
+
+- Valentina's 3-year background in growth management and internal operations aligns directly with the mini chief of staff role's need for process improvement and operational support
+- The position spans diverse responsibilities: client communication, project management with Linear, CRM development, process documentation, and cross-team coordination across delivery, growth, and content
+- George identified problem-solving and adaptability as core requirements; Valentina demonstrated both through her e-commerce growth experience and thoughtful case-study approach (upsells + predictive modeling for the restaurant scenario)
+- Remote-first work structure with Valentina based in Colombia (Pereira, 5-6 hour time difference) works logistically; she maintains office routine for focus and plans to visit LA in November
+
+---
+
+## Key Topics
+
+### Valentina's Background and Interests
+
+  - Graduated 3 years ago from European business school
+  - Experience as growth manager for e-commerce company
+  - Shifted focus to internal growth and process improvement
+  - Interested in AI and uses it daily for work
+  - Enjoys problem-solving and learning new skills
+
+### Role Description and Responsibilities
+
+  - Mini chief of staff position, supporting George (current chief of staff)
+  - Tasks include:
+      - Client communication and project management
+      - Process creation and improvement
+      - Supporting various teams (e.g., growth, content)
+      - Organizing events and tracking projects
+  - Goal: Take on some of George's responsibilities to free up his time
+
+### Company Tools and Processes
+
+  - Main tools: Notion, Slack, Linear, Adio, HubSpot
+  - Need for improved organization and process documentation
+  - Example projects:
+      - Creating CRM for CEO's contacts
+      - Sourcing and implementing new tools
+
+### Work Schedule and Culture
+
+  - Remote-first company with hybrid options for some roles
+  - Typical workday starts around 6:30 AM PT for deep work
+  - Valentina's proposed schedule (working out at 4 AM PT) aligns well
+
+### Problem-Solving Exercise
+
+  - Scenario: Increasing profits for a popular single-item restaurant
+  - Valentina's suggestions:
+      - Implement upsells (e.g., add-ons, extras)
+      - Consider new menu items after market research
+      - Use predictive modeling to prepare food in advance
+
+---
+
+## Action Items
+
+**George Haikal (GrowthX)**
+- Follow up with team regarding next steps for Valentina's application. Discuss interview feedback, determine if additional interview rounds are needed, and decide whether to proceed with an offer.
+
+---
+
+## Transcript
+
+**George Haikal:** Valentina, how's it going?
+
+**Valentina Giraldo Morales:** Very good.
+
+**Valentina Giraldo Morales:** How are you?
+
+**George Haikal:** I'm doing well.
+
+**George Haikal:** So sorry again for, I think, the two times rescheduling.
+
+**George Haikal:** I appreciate it.
+
+**George Haikal:** It's been a very, very crazy and busy week.
+
+**Valentina Giraldo Morales:** So thanks for being so flexible.
+
+**Valentina Giraldo Morales:** No, I get it.
+
+**Valentina Giraldo Morales:** No worries.
+
+**Valentina Giraldo Morales:** That's the good thing about having a flexible schedule.
+
+**Valentina Giraldo Morales:** I can basically meet you at any time, basically.
+
+**Valentina Giraldo Morales:** So it's okay.
+
+**George Haikal:** No worries.
+
+**George Haikal:** Nice.
+
+**George Haikal:** That's great.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Are you, you're fully remote?
+
+**Valentina Giraldo Morales:** Where are you based?
+
+**Valentina Giraldo Morales:** So I'm in Colombia.
+
+**George Haikal:** Nice.
+
+**Valentina Giraldo Morales:** I know if you know the city.
+
+**Valentina Giraldo Morales:** It's called Pereira.
+
+**Valentina Giraldo Morales:** Not a lot of people.
+
+**Valentina Giraldo Morales:** It's a small city close to Bogota, more or less.
+
+**George Haikal:** Okay.
+
+**George Haikal:** I know Bogota.
+
+**Valentina Giraldo Morales:** More or less 30 minutes by plane.
+
+**George Haikal:** It's close.
+
+**Valentina Giraldo Morales:** But yeah.
+
+**George Haikal:** Nice.
+
+**George Haikal:** That's good.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** I grew up.
+
+**George Haikal:** With a super close family friend who was born and raised in Bogotá.
+
+**George Haikal:** she, you know, taught me, you know, how to dance and how to speak Spanish, you know, you know, cook the best food.
+
+**George Haikal:** What's it called?
+
+**George Haikal:** Pollo sudado.
+
+**Valentina Giraldo Morales:** What?
+
+**George Haikal:** Pollo sudado.
+
+**Valentina Giraldo Morales:** Ah, pollo sudado.
+
+**George Haikal:** Yes, yes, yes, yes.
+
+**George Haikal:** My favorite.
+
+**George Haikal:** That and tostones.
+
+**Valentina Giraldo Morales:** Do you like arepa?
+
+**George Haikal:** I do.
+
+**George Haikal:** We had them less, but those are good as well.
+
+**Valentina Giraldo Morales:** But the tostones, the fried chips.
+
+**Valentina Giraldo Morales:** Yeah.
+
+**Valentina Giraldo Morales:** Well, yeah.
+
+**Valentina Giraldo Morales:** I'm not surprised because we are basically everywhere.
+
+**Valentina Giraldo Morales:** Everywhere you go, there's a Colombian.
+
+**Valentina Giraldo Morales:** I don't know why, but we are everywhere.
+
+**George Haikal:** That's funny.
+
+**George Haikal:** That's funny.
+
+**George Haikal:** Okay, cool.
+
+**George Haikal:** Tell me a little bit more about, so I watched the video submission.
+
+**George Haikal:** Um, but I guess we can start with just telling you a little bit more about yourself. If you generally, then I have a few questions about that, but we'd love to hear just a little bit more about you, what you like doing, some skills, kind of what you've done in the past.
+
+**Valentina Giraldo Morales:** Okay, so just a bit about what I've done since I graduated.
+
+**Valentina Giraldo Morales:** I graduated three years ago from a European business school.
+
+**Valentina Giraldo Morales:** My first professional experience was as a growth manager for an e-commerce company.
+
+**Valentina Giraldo Morales:** It was a Colombian e-commerce company.
+
+**Valentina Giraldo Morales:** And that's when I was introduced to the idea of growth.
+
+**Valentina Giraldo Morales:** That's not something you are taught at university.
+
+**Valentina Giraldo Morales:** So I really liked it during my first professional year.
+
+**Valentina Giraldo Morales:** was more focused into the external or client-led side of growth.
+
+**Valentina Giraldo Morales:** But two years ago, I switched and I decided to focus.
+
+**Valentina Giraldo Morales:** I mean, I consider it still growth, but it's the internal part of growth, improving the processes, and just helping sustain and improve the internal structure.
+
+**Valentina Giraldo Morales:** And that's what I believe I am best at.
+
+**Valentina Giraldo Morales:** And that's what I like to do, actually.
+
+**Valentina Giraldo Morales:** I like doing that.
+
+**Valentina Giraldo Morales:** And it's a very summed up, you know, professional experience.
+
+**George Haikal:** Yeah, that makes sense.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** That's super helpful.
+
+**George Haikal:** So, I mean, a few things.
+
+**George Haikal:** What drew you specifically to, like, this role and the company?
+
+**George Haikal:** And then I can talk more about, you know, what the role is and entails and kind of what we're looking for as well after that.
+
+**George Haikal:** I'm like, I guess, how did you find us?
+
+**George Haikal:** What are you interested in about us?
+
+**Valentina Giraldo Morales:** Things like that.
+
+**Valentina Giraldo Morales:** Okay, so first of all, you are an AI-led company.
+
+**Valentina Giraldo Morales:** So I use AI every day.
+
+**Valentina Giraldo Morales:** During my last professional experience, I used AI because I don't know anything about coding.
+
+**Valentina Giraldo Morales:** But I created the processes.
+
+**Valentina Giraldo Morales:** And I don't know if you're – I've sent the videos of some of the processes that I've built to both Bridget and Jason.
+
+**Valentina Giraldo Morales:** But his name is Jason, right?
+
+**Valentina Giraldo Morales:** Jason, yep.
+
+**Valentina Giraldo Morales:** Okay, good, good.
+
+**Valentina Giraldo Morales:** Okay.
+
+**Valentina Giraldo Morales:** And so all of that I did with AI.
+
+**Valentina Giraldo Morales:** So I'm very interested in this world, in this – like, everything that has to do with AI, I'm interested in.
+
+**Valentina Giraldo Morales:** I really – so second of all, and I believe
+
+**Valentina Giraldo Morales:** It's very important.
+
+**Valentina Giraldo Morales:** And that's one of the reasons why I switched from external lead growth to internal is that you take people with knowledge and experience and you give them AI in order to build systems for companies or in your case, like, for example, content.
+
+**Valentina Giraldo Morales:** But you have people that know how to write content and just experts in those areas.
+
+**Valentina Giraldo Morales:** One of the reasons why I switched is because when I was leading, for example, SimpleBI, that was a staffing company.
+
+**Valentina Giraldo Morales:** It was an American-based company.
+
+**Valentina Giraldo Morales:** And I was the only person working in marketing.
+
+**Valentina Giraldo Morales:** So I was just like a one-time person.
+
+**Valentina Giraldo Morales:** And I would do, or I started doing LinkedIn campaigns.
+
+**Valentina Giraldo Morales:** But my strength was that I realized that we could find our potential clients through LinkedIn.
+
+**Valentina Giraldo Morales:** Because I did the research.
+
+**Valentina Giraldo Morales:** So I did the market persona and all of that.
+
+**Valentina Giraldo Morales:** That I like.
+
+**George Haikal:** I like doing research.
+
+**Valentina Giraldo Morales:** But then it was me who started implementing that.
+
+**Valentina Giraldo Morales:** And I was not an expert at writing.
+
+**Valentina Giraldo Morales:** And that was at the time that AI was pushed to the public.
+
+**Valentina Giraldo Morales:** So ChatGPT was very unique.
+
+**Valentina Giraldo Morales:** And, you know, the content that it would bring up, it was not great.
+
+**Valentina Giraldo Morales:** And I started launching those campaigns.
+
+**Valentina Giraldo Morales:** Of course, they were not good.
+
+**Valentina Giraldo Morales:** But I knew that that could be the path.
+
+**Valentina Giraldo Morales:** I was just not the person to be implementing that.
+
+**Valentina Giraldo Morales:** Because you need experts in those areas.
+
+**Valentina Giraldo Morales:** So I know you do it that way.
+
+**Valentina Giraldo Morales:** And that's the way I believe it should be implemented.
+
+**Valentina Giraldo Morales:** know, just not some random person just trying to create content.
+
+**Valentina Giraldo Morales:** An experienced person that knows how to use AI to improve.
+
+**Valentina Giraldo Morales:** So
+
+**Valentina Giraldo Morales:** Improve those processes that should be implementing those campaigns.
+
+**Valentina Giraldo Morales:** So that is also something that I really liked.
+
+**Valentina Giraldo Morales:** And the third thing is the position.
+
+**Valentina Giraldo Morales:** I haven't, like when I was looking for a job, I saw the description and I was like, this is me.
+
+**Valentina Giraldo Morales:** So this is what I've been doing for the past two years.
+
+**Valentina Giraldo Morales:** And I was very intrigued.
+
+**George Haikal:** What resonated most about it, about the job description?
+
+**Valentina Giraldo Morales:** That you needed something that would improve processes, not that would just be execute the normal EA tasks.
+
+**Valentina Giraldo Morales:** Because at the beginning, it was presented as that, but a little bit more.
+
+**Valentina Giraldo Morales:** So yes, you need to be or help organize some normal EA work.
+
+**Valentina Giraldo Morales:** But we need someone that actually can support the different teams when needed.
+
+**Valentina Giraldo Morales:** And that's...
+
+**Valentina Giraldo Morales:** Mm-hmm.-hmm.
+
+**Valentina Giraldo Morales:** that's...
+
+**Valentina Giraldo Morales:** That's how I feel that I can bring most value.
+
+**Valentina Giraldo Morales:** I feel valuable like that because that's what, yeah, I know I can do that.
+
+**Valentina Giraldo Morales:** I feel that I would, if I could describe myself in one word, it would be problem solver.
+
+**Valentina Giraldo Morales:** Or if you give me a task and I don't know how to do it.
+
+**Valentina Giraldo Morales:** I'll figure it out.
+
+**Valentina Giraldo Morales:** Yeah, I'll figure it out.
+
+**Valentina Giraldo Morales:** So that's what I shine and that's what I like doing.
+
+**Valentina Giraldo Morales:** So I really resonated with that.
+
+**Valentina Giraldo Morales:** I was like, wow, I, this is weirdly so me.
+
+**Valentina Giraldo Morales:** And it was a unique like job position.
+
+**Valentina Giraldo Morales:** I've never, like, I have never, and I was like, this is like, this is me.
+
+**Valentina Giraldo Morales:** Yeah, I need to apply to that position.
+
+**Valentina Giraldo Morales:** And yeah, here we are.
+
+**George Haikal:** Yeah, I mean, that's great.
+
+**George Haikal:** And yeah, it's not ordinary for sure.
+
+**George Haikal:** would say the role is not ordinary.
+
+**George Haikal:** The company is not ordinary in a good way.
+
+**George Haikal:** Like if you're suited for it, right?
+
+**George Haikal:** And so it sounds like, you know, if the one word you would use to describe yourself is is left?
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Okay.
+
+**George Haikal:** I was Your Uh, It
+
+**George Haikal:** A problem solver, I'm going to figure it out.
+
+**George Haikal:** That is an amazing mentality to have, especially at a company this small and in a role that has a percentage of it being so generalist and just trying to figure things out and help.
+
+**George Haikal:** So that was really good to hear.
+
+**George Haikal:** I have a few more questions, but I guess so we don't burn the time, what are some more questions you have of me?
+
+**George Haikal:** Like what you can ask me anything about like specifics of the role, you know, what it's like working, like really nothing is off the table here.
+
+**Valentina Giraldo Morales:** So yeah, I would let you know what I know and then you would tell me if I'm right or if it has like shifted a bit.
+
+**Valentina Giraldo Morales:** So the initial idea when I met Bridget with Bridget, she told me that I would be, I would be needed in growth.
+
+**Valentina Giraldo Morales:** To help with, for example, client communication.
+
+**Valentina Giraldo Morales:** Or to help organize projects or to organize events.
+
+**Valentina Giraldo Morales:** I know a bit about content creation, like, for example, backlinks.
+
+**George Haikal:** I know what that is.
+
+**George Haikal:** I've never worked directly with that, but I know a bit.
+
+**Valentina Giraldo Morales:** So when she talked about it, she said that you use some brokers and that you needed help just knowing that you're in sync with that broker.
+
+**Valentina Giraldo Morales:** So it was, I understood the position as a lot of communication with clients, with providers, with, you know, and help with the, again, just tracking projects and events.
+
+**Valentina Giraldo Morales:** That's what I got from Bridget.
+
+**Valentina Giraldo Morales:** So I don't know if you have more information.
+
+**George Haikal:** I definitely have a ton more.
+
+**George Haikal:** feel free to ask, like, a bunch of follow-up questions.
+
+**George Haikal:** I'm just going to kind of dump to you where my head is at with it all.
+
+**George Haikal:** So I talked to Bridget as well.
+
+**George Haikal:** And I think what you...
+
+**George Haikal:** What just mentioned is an example of a project, right, that could take place in this role.
+
+**George Haikal:** I think since that meeting that you had, we kind of shifted how we're thinking about the role to more of, like, essentially like a mini chief of staff.
+
+**George Haikal:** Like, right now, I'm the chief of staff to Marcel, the CEO.
+
+**George Haikal:** And so, I mean, if I just, like, think about my week, and I think you'll like this based on what you've told me about yourself so far.
+
+**George Haikal:** Like, if I think about my week, Monday, I led two client kickoff calls.
+
+**George Haikal:** So every new client that we have, we take them through this eight-week onboarding process, and we have intro calls with them to understand everything about their business.
+
+**George Haikal:** And then we go do a bunch of work to figure more things out about their business, and then help enable our delivery team to start executing.
+
+**George Haikal:** So that's one thing.
+
+**George Haikal:** Then I did a couple hiring interviews, and then I had three.
+
+**George Haikal:** Clients that I was managing and running myself that required a ton of work and organization, as well as, I mean, I could check my calendar right now.
+
+**George Haikal:** I'm just giving you the context on, like, things that we do and how much it ranges.
+
+**George Haikal:** And then I'll go into, like, specific skills that I think are good.
+
+**George Haikal:** Then I talked to two existing clients about upsells and, like, how we want to think about strategy moving forward for them and their site and their account and what more we can do for them.
+
+**George Haikal:** And then I made some materials for our fundraise, put together a high-priority investor list of investors we want to continue to speak to and build relationships with because next week we want to start sending messages out.
+
+**George Haikal:** And then I'll do the same thing for every good client that we have, figuring out who they are and making sure they're open to getting referrals from us.
+
+**George Haikal:** So if an investor reaches out to one of our current customers, making sure they're prepped for it and that they're ready to, you know, say good things, send them a
+
+**George Haikal:** Whatever it is.
+
+**George Haikal:** So all of that was a lot, right?
+
+**George Haikal:** But you get to gain the context of the entire company.
+
+**George Haikal:** And every day is very different.
+
+**George Haikal:** So what I was envisioning for this role is someone who can not step in and replace in those roles because sometimes it's really hard and it will take some time.
+
+**George Haikal:** Eventually, yeah, I mean, obviously growth is the goal, right?
+
+**George Haikal:** So growing more into the role.
+
+**George Haikal:** I think there's a ton of room for that for whoever's capable, but it's like helping with that.
+
+**George Haikal:** And I think the main things we need help with now is like processes and organization, like you said.
+
+**George Haikal:** So right now there is not a place where everything that I'm doing or that the teams that I'm working with are doing, like it all lives super organized.
+
+**Valentina Giraldo Morales:** So you have like a platform where you have everything just organized in folders now?
+
+**Valentina Giraldo Morales:** I mean, have...
+
+**George Haikal:** I mean, we have...
+
+**George Haikal:** Notion.
+
+**George Haikal:** We do a lot of work in Notion.
+
+**George Haikal:** All of our client stuff is stored in Notion.
+
+**George Haikal:** It's more so the specific project.
+
+**George Haikal:** Not every specific project that I'm running or that we're running is as organized as it can be.
+
+**George Haikal:** And each project is a living document or workspace that continues to be updated based on the work that we're doing.
+
+**George Haikal:** And so that obviously is a lot of work to keep up with.
+
+**George Haikal:** And right now it's basically just me having to do like every piece of it.
+
+**George Haikal:** And so the part that fall or that I spend the last time on is making sure it's perfectly organized or like really accessible building systems so other people can come in and like help and support.
+
+**George Haikal:** And so that's the gap that I'm trying to start to close.
+
+**George Haikal:** And it's honestly super important.
+
+**George Haikal:** It's like building systems for everything, process for everything, organizing, making sure the teams are all staying on track.
+
+**Valentina Giraldo Morales:** When you say like building systems, is that like.
+
+**Valentina Giraldo Morales:** And processes that can be, or the idea is that they are replicable?
+
+**George Haikal:** Yep, yep, yep.
+
+**George Haikal:** I mean, like a crystal clear example is, for one of the chief of staff things, basically everyone needs Marcel, who's the CEO, for something.
+
+**George Haikal:** Everyone's always going to need him for something.
+
+**George Haikal:** So at any given time, I'm getting messages from like three to seven different team members on things they need Marcel's approval on, that he doesn't have time to meet with, or that they're too whatever.
+
+**George Haikal:** They don't want to like book a meeting with them, or whatever it is.
+
+**George Haikal:** And so I had to figure out how to field all those requests, then understand how to prioritize which ones are actually the most important, because to everyone, whatever they're working on is going to be the most important, right?
+
+**George Haikal:** But to Marcel, like whatever we're running through needs to be the most important.
+
+**George Haikal:** And then what can I answer and get done?
+
+**George Haikal:** And then who do I need to pull in to help with that?
+
+**George Haikal:** And then.
+
+**George Haikal:** Um, what can we just delegate to other people as well?
+
+**George Haikal:** So it's like tiering that that's an example of a process that didn't exist that, um, I had to start to create.
+
+**George Haikal:** And it's like that for, I mean, as many things as you can think of, like, I think processes is the last thing that I've been, um, putting in place just because so much of the work has been external client facing needs to get done.
+
+**George Haikal:** It needs to be perfect.
+
+**George Haikal:** Perfect.
+
+**George Haikal:** So that's where I focused, like, my work is on the external, like, uh, I guess, presentation piece or actually doing the work versus reporting against it or tracking it.
+
+**Valentina Giraldo Morales:** Okay.
+
+**Valentina Giraldo Morales:** So if I understand correctly, I will basically be supporting you.
+
+**Valentina Giraldo Morales:** And then when I have enough knowledge, I would be helping you, like, we would divide your, you know, some of the tasks that you have to do so you can focus basically on more important things.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Correct.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** mean, ideally, right, like, right now, there isn't a person who I can just, like, Because the talent.
+
+**George Haikal:** Exactly.
+
+**George Haikal:** They'll cruelly ask for help and they'll go figure it out.
+
+**George Haikal:** Because Marcel is a CEO who's crazy busy, Jason who's crazy busy, and then I jump in and help on a bunch of different parts of the business.
+
+**George Haikal:** But outside of me, there's not another generalist role that can get context from wherever they need and just go and get  done.
+
+**George Haikal:** And so that's definitely what we're looking for.
+
+**George Haikal:** and yeah, the way you described it was spot on.
+
+**Valentina Giraldo Morales:** Perfect.
+
+**George Haikal:** I get it.
+
+**George Haikal:** So check me on it.
+
+**George Haikal:** Like what, like ask me any follow-up questions.
+
+**George Haikal:** I mean, like, does that seem exciting to you?
+
+**George Haikal:** Like, and I'll be as candid as possible on, you know, how much time I spend working or like, feel free to ask as many questions as you want.
+
+**Valentina Giraldo Morales:** No, I'm actually not worried about that, to be quite honest.
+
+**Valentina Giraldo Morales:** But, so you, other than notion.
+
+**Valentina Giraldo Morales:** Do you use other tools for project tracking, or is that, because I know Notion, and I'm familiar with it, so I'm like that, I'm okay with that, so that's great, because I don't have to learn from zero, but other than that, what other tools are you guys using?
+
+**George Haikal:** Notion, Slack, Linear, Adio, HubSpot, those are both CRMs.
+
+**George Haikal:** And a bunch of different things, and one thing I didn't mention, right, there's so many projects that we could use help on now that are just like one level below, like essentially, or essential, that are still really important.
+
+**George Haikal:** Like an example is, we need a CRM for Marcel, the CEO, for like all the key contacts, investors, just like friends that he has, people in his network, like that needs to live somewhere and be updated with the most recent contacts, like whenever he meets with someone, he knows everything about them, basically.
+
+**George Haikal:** And it's like a...
+
+**George Haikal:** A very easy thing to pull in the calendar and gain content.
+
+**George Haikal:** That I just don't have the time to do right now.
+
+**George Haikal:** And we don't have anyone that does.
+
+**George Haikal:** But that's like a full project end to end.
+
+**George Haikal:** Like from sourcing a vendor to comparing three, then pulling me in and understanding what the cost is and which one makes sense.
+
+**George Haikal:** We'll always be there to review and help.
+
+**George Haikal:** That's not an issue at all.
+
+**George Haikal:** But there's really cool opportunities to like take projects from nothing to something.
+
+**George Haikal:** And then you have the help for someone to come in and give it like the expert look.
+
+**Valentina Giraldo Morales:** All of that.
+
+**Valentina Giraldo Morales:** No, great.
+
+**Valentina Giraldo Morales:** I'm good at research.
+
+**Valentina Giraldo Morales:** I believe.
+
+**Valentina Giraldo Morales:** I like it.
+
+**Valentina Giraldo Morales:** Everything you've mentioned, I like it.
+
+**Valentina Giraldo Morales:** I think it's quite diverse.
+
+**Valentina Giraldo Morales:** And I actually like that.
+
+**Valentina Giraldo Morales:** Because I feel like I'm fast paced.
+
+**Valentina Giraldo Morales:** And I like being, like having multiple projects at the same time.
+
+**Valentina Giraldo Morales:** Like that doesn't scare me.
+
+**Valentina Giraldo Morales:** Yeah.
+
+**Valentina Giraldo Morales:** I like it.
+
+**George Haikal:** I know I won't get bored.
+
+**George Haikal:** That's, that's for sure.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** I mean, the reason I'm being so candid about it is like, it's, I mean, I like it too.
+
+**George Haikal:** That's why I'm here, but a lot of people don't.
+
+**George Haikal:** And so that's why I just wanted, wanted to like be upfront with it.
+
+**George Haikal:** Like the wearing a bunch of different hats, doing a lot of different things, being new at most things that you're doing, having to learn and get smart on.
+
+**George Haikal:** like that's not easy for, I mean, well, it's not easy for anybody, but like people just don't like doing that.
+
+**George Haikal:** lot of people.
+
+**Valentina Giraldo Morales:** So it's important.
+
+**Valentina Giraldo Morales:** I, one of my hobbies is algorithmic trading.
+
+**Valentina Giraldo Morales:** I like difficult things.
+
+**Valentina Giraldo Morales:** I, I don't know.
+
+**Valentina Giraldo Morales:** I just like it.
+
+**Valentina Giraldo Morales:** Um, I'm not always the one taking like the usual path.
+
+**Valentina Giraldo Morales:** So instead of learning like normal trading, I went for the difficult algorithmic one and I like it.
+
+**Valentina Giraldo Morales:** I like technology.
+
+**Valentina Giraldo Morales:** I'm, I'm, I'm, I feel like I'm, I am tech savvy.
+
+**Valentina Giraldo Morales:** So I'm fine with, um, with any like tool that you give.
+
+**Valentina Giraldo Morales:** To me, which there's information on YouTube anyway, like you can figure it out, you know, so for example, I don't know, like you told me about ATO, I know HubSpot, I don't know how to use it, but I'm familiar with that, and ATO, I'm not, but I, like, it's fine.
+
+**Valentina Giraldo Morales:** I know I can't learn by doing, and just trying to separate.
+
+**Valentina Giraldo Morales:** So yeah, no, I like the position, and I consider that I am fit for the position, and that I am capable with it, so if that helps.
+
+**George Haikal:** That's good, that does help.
+
+**Valentina Giraldo Morales:** What would, because there's something I, I'm, it's important for me, I work out, like, every day, that's one of the, I love working out.
+
+**Valentina Giraldo Morales:** I usually do it very early mornings, Colombian time, so regarding the...
+
+**Valentina Giraldo Morales:** Um, the, the, like the working schedule for you, like what times would we start at?
+
+**Valentina Giraldo Morales:** What time would we start a day?
+
+**Valentina Giraldo Morales:** What, what time would we finish?
+
+**George Haikal:** What time is it in Columbia right now?
+
+**Valentina Giraldo Morales:** Say it, I'm two hours ahead of you.
+
+**George Haikal:** Two hours ahead.
+
+**Valentina Giraldo Morales:** I think because you are, are you Los Angeles time?
+
+**George Haikal:** I think.
+
+**George Haikal:** Yep.
+
+**Valentina Giraldo Morales:** Yep.
+
+**Valentina Giraldo Morales:** Yep.
+
+**Valentina Giraldo Morales:** Oh yeah.
+
+**Valentina Giraldo Morales:** My sisters are there.
+
+**Valentina Giraldo Morales:** but maybe I'm going to go to Los Angeles end of this year.
+
+**Valentina Giraldo Morales:** So I would probably could go to San Francisco and then, uh, me too.
+
+**George Haikal:** Cause my sister is there.
+
+**Valentina Giraldo Morales:** So yeah.
+
+**George Haikal:** Um, that'd be very cool.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** So two hours ahead.
+
+**George Haikal:** Okay.
+
+**George Haikal:** Um, I mean, I'll tell you how I usually start my day.
+
+**George Haikal:** It's obviously not required.
+
+**George Haikal:** And like, if you go to the gym early in the morning, I think this will all work out perfect.
+
+**George Haikal:** Like, but basically, I I start my day.
+
+**George Haikal:** I'm in the office at like 6 30 AM Pacific time, but.
+
+**George Haikal:** That's like deep work time to where I'm usually myself getting through uninterrupted, the biggest thing of the day.
+
+**George Haikal:** And I'm meeting with Marcel on like the biggest things that we have to do that day and clearing out items from the end of the previous day.
+
+**George Haikal:** So that's more treated as like personal time, me and us figuring out the things that need to be done for that day and that week.
+
+**George Haikal:** And then out of that meeting, so like we're coming out of that hour or two, we're at 9 a.m.
+
+**George Haikal:** 8.30, 9 a.m.
+
+**George Haikal:** It's probably a good start time.
+
+**George Haikal:** Like if you'd be available and done with the gym by then, 9 a.m.
+
+**Valentina Giraldo Morales:** PT, which is 11 a.m.
+
+**Valentina Giraldo Morales:** I work out at your 4 a.m.
+
+**Valentina Giraldo Morales:** So I'm waiting.
+
+**Valentina Giraldo Morales:** early.
+
+**Valentina Giraldo Morales:** Your 4 a.m., my 6 a.m.
+
+**George Haikal:** Oh, got it, got it, got it.
+
+**George Haikal:** Okay, but yeah, yeah.
+
+**George Haikal:** mean, then that's not a problem at all.
+
+**Valentina Giraldo Morales:** Like starting at.
+
+**Valentina Giraldo Morales:** So 6.30, start your day at 6.30.
+
+**Valentina Giraldo Morales:** At that time, I already.
+
+**Valentina Giraldo Morales:** Great.
+
+**Valentina Giraldo Morales:** Like, I am already changed and showered and everything, actually.
+
+**George Haikal:** Perfect.
+
+**George Haikal:** 4 a.m.
+
+**Valentina Giraldo Morales:** is intense.
+
+**Valentina Giraldo Morales:** I'm not going to lie.
+
+**Valentina Giraldo Morales:** No, but it's your 4 a.m.
+
+**Valentina Giraldo Morales:** It's my 6 a.m.
+
+**George Haikal:** Oh, that's right.
+
+**Valentina Giraldo Morales:** But I wake up like 5 a.m.
+
+**Valentina Giraldo Morales:** in order to go to the gym at 6 a.m.
+
+**Valentina Giraldo Morales:** But it's because I don't like going to the gym later afternoon.
+
+**Valentina Giraldo Morales:** I need like that energy.
+
+**Valentina Giraldo Morales:** I feel like it energizes me.
+
+**Valentina Giraldo Morales:** I'm ready.
+
+**Valentina Giraldo Morales:** know, like at first, yeah, getting up at 5 a.m.
+
+**Valentina Giraldo Morales:** is not the best thing in the world, but it's not the worst.
+
+**Valentina Giraldo Morales:** I've had worse.
+
+**Valentina Giraldo Morales:** There was a time where I was waking up at 3.50 a.m.
+
+**Valentina Giraldo Morales:** And yes, I was very tired at like 7 p.m.
+
+**Valentina Giraldo Morales:** Columbia time.
+
+**Valentina Giraldo Morales:** I was dead.
+
+**Valentina Giraldo Morales:** So, no, yeah, I'm an early person.
+
+**Valentina Giraldo Morales:** I like working in the morning.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** No, Sam, Sam.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** You
+
+**George Haikal:** And I feel super similar to him.
+
+**George Haikal:** And I used to work out early in the mornings, like same thing, getting up at 5, 5.30.
+
+**George Haikal:** And then now just because that morning block is so critical for work, I either go like quick at lunchtime, 12, or just like power through and do it at the end of the day.
+
+**George Haikal:** But it's usually somewhere in the middle of the day for 45 minutes to an hour.
+
+**George Haikal:** So because like you, it's the last thing I want to do at night, late at night is working out after.
+
+**Valentina Giraldo Morales:** Oh no, it's horrible.
+
+**Valentina Giraldo Morales:** I've tried it.
+
+**Valentina Giraldo Morales:** I don't like it.
+
+**Valentina Giraldo Morales:** I feel like I miss the energy push that it gives me in the morning.
+
+**Valentina Giraldo Morales:** So yeah, I do a little bit of cardio at nights, like just walking, like low intensity cardio, a little bit of spinning or just walking in the, you know, in the machine.
+
+**George Haikal:** That's it.
+
+**Valentina Giraldo Morales:** Treadmill.
+
+**Valentina Giraldo Morales:** Yeah.
+
+**George Haikal:** It's really good for you.
+
+**George Haikal:** Like at the end of the day.
+
+**George Haikal:** So like a warm shower or the sauna.
+
+**George Haikal:** It's really good for you like before bed.
+
+**Valentina Giraldo Morales:** Oh, I don't have a sauna nearby, but.
+
+**George Haikal:** It's best.
+
+**George Haikal:** It's one thing I gave up because I switched gyms, but I still have a cold plunge at my house, which is nice.
+
+**George Haikal:** So that'll wake you up no matter how little sleep you had the night before.
+
+**Valentina Giraldo Morales:** I've seen that toxic cluster CDBT on TikTok.
+
+**George Haikal:** I'm not falling for it.
+
+**George Haikal:** It's hard.
+
+**George Haikal:** It's never easy, but it's, yeah, it's great to do.
+
+**George Haikal:** Great for the health.
+
+**George Haikal:** Okay.
+
+**George Haikal:** Any other.
+
+**George Haikal:** Oh, I have one fun question.
+
+**George Haikal:** And then before that, do you have any, or do you have a hard stop here in three minutes?
+
+**George Haikal:** Are you good for like to go five minutes over?
+
+**George Haikal:** Okay.
+
+**George Haikal:** Any other questions from you?
+
+**Valentina Giraldo Morales:** No, no, I think I got, got the idea.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Cool.
+
+**George Haikal:** This is more of just like a case study question.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Curious how you think about things and like problems.
+
+**George Haikal:** I think I already got a pretty good understanding just about from some of the answers that you had.
+
+**George Haikal:** But let's say you're operating a restaurant that has one food item on the menu.
+
+**George Haikal:** So this restaurant only serves one thing.
+
+**George Haikal:** The line's always busy.
+
+**George Haikal:** People out the door and around the block.
+
+**George Haikal:** There's always more people than you can serve.
+
+**George Haikal:** Even though you have this many people and there's always a line, like, how are you, how could you increase profits for the restaurant?
+
+**Valentina Giraldo Morales:** I mean, okay.
+
+**Valentina Giraldo Morales:** So the first thing that would come to mind is.
+
+**Valentina Giraldo Morales:** I would definitely not open another, like an additional secrecy because that takes money and time.
+
+**Valentina Giraldo Morales:** So I would be leaning towards, okay, probably when they order the something from, I have like one menu, right?
+
+**Valentina Giraldo Morales:** But I could add something to the menu.
+
+**Valentina Giraldo Morales:** So, and like, let's say I offer a plate, but then I'm going to offer like a special juice or something.
+
+**Valentina Giraldo Morales:** And then I would say like, would you like to add, or for example, add a little bit more, would you like, let's say it has potato.
+
+**Valentina Giraldo Morales:** Would you like some baked fries or, you know, like just increase the, add like an, how do say that?
+
+**Valentina Giraldo Morales:** Like, you told me the name before, I forgot.
+
+**George Haikal:** Menu item.
+
+**Valentina Giraldo Morales:** No, no, not adding a menu item.
+
+**Valentina Giraldo Morales:** Like adding a, like from, when someone is already there and is going to pay, that's the perfect chance to add something that would increase the revenue.
+
+**George Haikal:** Increase the profit, increase the.
+
+**Valentina Giraldo Morales:** Ticket size of the item, yeah, of the personal.
+
+**Valentina Giraldo Morales:** No, An add-on, like an add-on, you go to the cinema and they're like, oh, would you like to add this or just this extra?
+
+**Valentina Giraldo Morales:** And when you're already there.
+
+**Valentina Giraldo Morales:** So that for me will be the first thing, like they're already in they want the product.
+
+**Valentina Giraldo Morales:** What if we, like, for example, offer like extra potatoes or something that the menu already has?
+
+**Valentina Giraldo Morales:** So not adding some additional from the menu, but something that the menu already has.
+
+**Valentina Giraldo Morales:** So that would be the first thing that's pretty easy to do.
+
+**Valentina Giraldo Morales:** And I think it would increase a lot.
+
+**Valentina Giraldo Morales:** So people are already going, let's add something to it.
+
+**Valentina Giraldo Morales:** So, like, there's a name for it.
+
+**George Haikal:** It makes sense what you're saying.
+
+**George Haikal:** I'm forgetting the exact name for it.
+
+**Valentina Giraldo Morales:** Maybe to me, like upsells, upsells.
+
+**George Haikal:** Upsell, upsell.
+
+**Valentina Giraldo Morales:** Yep, that makes sense.
+
+**Valentina Giraldo Morales:** Yeah, that's what the first.
+
+**Valentina Giraldo Morales:** Then adding something new to the menu.
+
+**Valentina Giraldo Morales:** So you would need like market research for that because you don't know how it's going to play out.
+
+**Valentina Giraldo Morales:** You don't know you're like, you would need to understand if your clientele actually is like, if you want to offer something additional, you need to know that it's for, you know, that's a group of people.
+
+**Valentina Giraldo Morales:** If not, it wouldn't.
+
+**Valentina Giraldo Morales:** But yeah, I would say upsell right away.
+
+**George Haikal:** That makes sense.
+
+**George Haikal:** And then like people love the product, right?
+
+**George Haikal:** There's always a line out of the door, which means it's always like very busy, more people than the business can handle.
+
+**George Haikal:** Like, how would you think about trying to make the line less busy all the time?
+
+**Valentina Giraldo Morales:** Whilst increasing profits.
+
+**Valentina Giraldo Morales:** that would mean with no additional personnel?
+
+**George Haikal:** Or just any way you think you can increase profit?
+
+**George Haikal:** mean, yeah, I don't want to give anything away.
+
+**George Haikal:** If there's people waiting in a line, because there's a delay in them getting new things, the line can move faster somehow, and you might have to pay a little bit more.
+
+**Valentina Giraldo Morales:** What I would do is, I would make a prediction.
+
+**Valentina Giraldo Morales:** So I would need to know how many people usually are in the line.
+
+**Valentina Giraldo Morales:** And if they're a scientist, I would take a scientist and create a predictive model for me to know every day, more or less, how many people do you need.
+
+**Valentina Giraldo Morales:** I will open earlier, just for the workers, you know, and I'll have the food ready, like as many as possible, based on the predictive model that the data scientist will make.
+
+**Valentina Giraldo Morales:** So I think that will go way quicker, because you will have the food ready.
+
+**George Haikal:** Something like that.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** No, that's good.
+
+**George Haikal:** Yeah, I mean, it's not an easy, there's so many, it's like an open-ended question.
+
+**George Haikal:** So it's just a cool one to see how people think about things.
+
+**George Haikal:** Um, very cool.
+
+**George Haikal:** Yeah, I mean, this was great.
+
+**George Haikal:** Like, it was really good meeting you.
+
+**George Haikal:** Again, I saw the video, but obviously it's uncomparable to actually meeting face-to-face, as face-to-face as this can be.
+
+**George Haikal:** But yeah, I'm excited.
+
+**George Haikal:** Like, you seem very energetic and, like, problem solver, go-getter, figuring it out, which is definitely what we need more of.
+
+**George Haikal:** Like, I feel like that's a lot of what has helped me do well in the role, too.
+
+**George Haikal:** And so I guess if you don't have any more questions, I can get with the team and just, like, figure out what the next steps look like, and we can go from there.
+
+**Valentina Giraldo Morales:** Yeah, perfect.
+
+**Valentina Giraldo Morales:** Also, we haven't met face-to-face yet, but if you end up hiring me, I will probably be there in November.
+
+**George Haikal:** At the end of the year in LA.
+
+**Valentina Giraldo Morales:** Yeah, so that would be great.
+
+**Valentina Giraldo Morales:** I will definitely be open to going to the office, of course.
+
+**Valentina Giraldo Morales:** So.
+
+**Valentina Giraldo Morales:** It's great.
+
+**Valentina Giraldo Morales:** I know.
+
+**George Haikal:** Right now it's empty.
+
+**George Haikal:** Wednesdays are empty.
+
+**Valentina Giraldo Morales:** Oh, is it hybrid?
+
+**George Haikal:** Yeah, so remote first.
+
+**George Haikal:** The whole company is remote first.
+
+**George Haikal:** But a lot of the heads of each department, so Marcel, the CEO, Daniel, the CTO, Jason, who's the head of go-to-market, Will here, who handles all of our video and production, Kyle, head of sales, VP of sales, then myself.
+
+**George Haikal:** We all are hybrid because we live close, so we come in person anywhere between two and, you know, four times a week.
+
+**George Haikal:** Marcel and I usually are here four times a week.
+
+**George Haikal:** But yeah, not required, remote first.
+
+**Valentina Giraldo Morales:** I also go to an office that I have because I cannot focus a lot at home.
+
+**Valentina Giraldo Morales:** Like, I prefer to go to the office, just work out, shower, go to the office.
+
+**Valentina Giraldo Morales:** The separation is definitely good sometimes.
+
+**Valentina Giraldo Morales:** I mean, yeah.
+
+**Valentina Giraldo Morales:** Yeah.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** Well, Valentina, was great meeting you.
+
+**George Haikal:** Like I said, we'll be in touch.
+
+**George Haikal:** If you have any questions in the meantime, feel free to shoot them my way.
+
+**George Haikal:** You have my email.
+
+**George Haikal:** So, yeah, this was great.
+
+**Valentina Giraldo Morales:** It was really good meeting you.
+
+**Valentina Giraldo Morales:** Thank you, George.
+
+**Valentina Giraldo Morales:** Same.
+
+**Valentina Giraldo Morales:** So thank you for having me.
+
+**Valentina Giraldo Morales:** Have a good day or end of day.
+
+**Valentina Giraldo Morales:** And, yeah, hope to hear from you soon.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Sounds great.
+
+**George Haikal:** Talk soon.
+
+**George Haikal:** Bye.

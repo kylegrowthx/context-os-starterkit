@@ -1,0 +1,523 @@
+# Navan <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2026-02-18
+time: 16:59 UTC
+duration: 31 minutes
+organizer: team@growthxlabs.com
+participants: Erik O'Brien (GrowthX), Nima Asrar Haghighi (Navan), Rich Beattie (Navan), Moran Brayer (Navan), Libby Zay (Navan)
+fathom_recording_id: 123388890
+fathom_url: https://fathom.video/calls/566899535
+share_url: https://fathom.video/share/rze4q2qghrhvgKy2FQWTVAn21YjvRWW5
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+speaker_note: Primarily features Erik O'Brien (GrowthX Engagement Manager) and Nima Asrar Haghighi (Navan lead), with Rich Beattie and Moran Brayer joining for discussion. Moran joins later in the call and contributes to the analytics discussion.
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Navan aligned on a content production roadmap prioritizing bottom-of-funnel competitive comparison pieces in Month 1, followed by persona-based and middle-of-funnel content in Months 2-3. Erik O'Brien transitioned into the Engagement Manager role (replacing Ada Knežević) to oversee long-term execution. The team identified content quality issues—choppy transitions and misattributed statistics—which GrowthX will address through pipeline fixes. Performance tracking revealed a GA4 misconfiguration showing inflated engagement metrics (100% across all content) and bot traffic; Moran Brayer will investigate both issues. Navan committed to tracking MQLs and opportunities from GrowthX content as the northstar metric, with implementation through Amplitude, Marketo, and Salesforce.
+
+---
+
+## Context
+
+Navan is a B2B travel and expenses management software company that engaged GrowthX for content marketing services. This weekly sync is part of the ongoing engagement execution phase, following an initial strategy sprint with Ada Knežević. The relationship is now overseen by Erik O'Brien as GrowthX's Engagement Manager. Navan's leadership team (Nima Asrar Haghighi, Rich Beattie, and Moran Brayer) meets weekly with Erik to track content production, quality, and performance metrics. The team has published 21 pieces in the first 6 weeks of the engagement (starting early January 2026), establishing a cadence of 3-5 articles per week targeting Navan's buyer personas (CFO, controller, accounting manager).
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Pipeline issue identified: AI-generated content has choppy transitions and removed m-dashes causing abrupt shifts. Fix previously applied to another client will be ported to Navan pipeline.
+- Citation accuracy problem: Stats are being misattributed to source reports (e.g., the Skip report). Process will shift to pulling exact quotes instead of summarizing, improving factual rigor.
+- Subheading capitalization issue (European style without initial caps) needs editor correction. Quality review includes Airtable tracking: 5 in review, 7 legal review, 3 second draft, 21 published.
+- Engagement Manager transition: Erik O'Brien has taken over from Ada Knežević; transitioned and ramped per standard process.
+
+**To GrowthX Business Development:**
+- Account health: Strong velocity (21 pieces published in 6 weeks, 3-5/week target). Navan leadership is engaged and directive, pushing for accountability on conversion metrics immediately rather than waiting for Month 3.
+- Expansion signal: Navan seeking human bylines on content (authors from Navan staff) instead of "Navan Editorial" to improve SEO and authority. GrowthX can propose byline models (contributing reviewers, persona-cluster authors) used with other clients.
+- Renewal/risk: Navan's urgent focus on MQL and opportunity tracking signals they want proof of ROI before next budget cycle. Early indicator tracking through Amplitude will be critical.
+
+---
+
+## Overview
+
+- **New POC:** Erik O'Brien is the new Engagement Manager, taking over from Ada for long-term execution.
+- **Content Strategy:** Month 1 focuses on Bottom-of-Funnel (BoFu) content, including \~13 competitive pieces requiring legal review.
+- **Quality Issues:** Content has choppy transitions and misattributed stats (e.g., citing the Skip report for non-Skip data). GrowthX will fix the AI pipeline.
+- **Performance Tracking:** GA4 engagement metrics are unreliable (showing 100% across the board), and the team will investigate. Navan will track MQLs and opportunities as the Northstar metric.
+
+---
+
+## Key Topics
+
+### Content Strategy & Production
+
+  - **New POC:** Erik O'Brien is the new Engagement Manager, handling long-term execution post-Strategy Sprint.
+  - **3-Month Plan:**
+      - **Month 1:** Focus on BoFu content to build a "conversion wall."
+      - **Months 2–3:** Shift to persona-AI and Middle-of-Funnel (MoFu) content.
+  - **Legal Review:**
+      - **Rationale:** Prioritizing competitive pieces now clears the legal bottleneck for future content.
+      - **Volume:** \~13 more competitive pieces are in the pipeline.
+      - **Cadence:** To maintain publishing flow, non-legal content will be mixed in.
+  - **Airtable Status:** Erik shared a new "Content OS status updates" view for a cleaner overview.
+      - **In Review:** 5 (with Rich/Libby)
+      - **Legal Review:** 7
+      - **Second Draft Review:** 3
+      - **Published:** 21
+
+### Content Quality Feedback
+
+  - **Feedback from Rich:**
+      - **Choppy Transitions:** Abrupt shifts between topics within paragraphs.
+      - **Misattributed Stats:** Facts incorrectly cited from reports (e.g., the Skip report).
+      - **Formatting:** Inconsistent European style (no initial caps for subheads).
+  - **GrowthX Response:**
+      - **Choppiness:** Likely an AI pipeline issue; a fix used for another client will be applied.
+      - **Stats:** The process will be updated to pull specific quotes instead of summarizing.
+      - **Formatting:** The editor will correct subhead capitalization.
+
+### Performance & Tracking
+
+  - **GA4 Data Integrity:**
+      - **Problem:** Engagement rates are 100% across all content, indicating a GA4 misconfiguration.
+      - **Action:** Moran will investigate the GA4 setup.
+  - **Bot Traffic:**
+      - **Problem:** High direct traffic with 1–2 second sessions is likely bot activity.
+      - **Action:** Moran will analyze Cloudflare logs to identify the source (e.g., LLM bots).
+  - **Organic Traffic:**
+      - **Status:** Growth is compounding, which is "at par" with GrowthX client benchmarks for this stage.
+  - **Bylines:**
+      - **Problem:** Posts are published under "Navan Editorial," which may negatively impact SEO.
+      - **Solution:** Add Navan employees as contributing authors to provide a human touch and build authority.
+  - **Northstar Metric:**
+      - **Navan's Goal:** Track leads and opportunities from GrowthX content.
+      - **Tracking Flow:** Website → Marketo (parameter pass) → Salesforce (opportunity creation).
+      - **Early Indicator:** MQLs tracked in Amplitude.
+      - **GrowthX's View:** Conversion tracking is typically a focus in month 3.
+      - **Navan's View:** Conversion data is a critical, immediate metric for accountability.
+
+---
+
+## Action Items
+
+**Erik O'Brien (GrowthX)**
+- Share Airtable "Content OS status updates" view link in Slack to Nima, Rich, Moran
+- Fix content quality issues: update AI pipeline to address choppy transitions (m-dash removal); enforce exact citations instead of summaries; coordinate with editor to correct subhead capitalization
+- Define and propose byline strategy to Navan (e.g., reviewers as contributing authors, persona-cluster assignment)
+
+**Moran Brayer (Navan)**
+- Investigate Cloudflare logs to identify LLM bot sources driving 1-2 second direct traffic sessions; report findings to Erik and Nima
+- Audit GA4 engagement metrics configuration; identify why engagement rates show 100% across all content; report results to Erik and Nima
+- Compile list of Navan employee author candidates for content bylines; send to Erik for implementation
+- Prepare Amplitude MQL report for February readout; send to Erik for month-over-month analysis
+
+**Nima Asrar Haghighi (Navan)**
+- Coordinate with Alona to implement lead and opportunity tracking pipeline: website → Marketo (UTM parameters) → Salesforce (opportunity creation)
+- Provide Navan employees for byline/author roles on published content
+
+---
+
+## Transcript
+
+**Nima Asrar Haghighi:** Thank you. Hi, Erik. How's guys?
+
+**Erik O'Brien:** How's guys?
+
+**Rich Beattie:** Hey, guys.
+
+**Nima Asrar Haghighi:** Hey, Rich.
+
+**Erik O'Brien:** Hey, Rich. Is it just going to be us today?
+
+**Nima Asrar Haghighi:** Let's see. Is Moran able to join?
+
+**Nima Asrar Haghighi:** He has accepted it, so we could give him a couple of minutes.
+
+**Erik O'Brien:** I had a question for him on something I found in Google Analytics.
+
+**Nima Asrar Haghighi:** Anything concerning or exciting?
+
+**Erik O'Brien:** Just curious.
+
+**Erik O'Brien:** Engagement rates are 100% across the board.
+
+**Nima Asrar Haghighi:** Okay.
+
+**Nima Asrar Haghighi:** Which, you know, I'm sure we're putting out great content, but… Too good to be true.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** A little too good to be true.
+
+**Nima Asrar Haghighi:** Maybe we start with any topics on the contents…
+
+**Nima Asrar Haghighi:** So I'll see if he joins us along.
+
+**Nima Asrar Haghighi:** I'll take him on the side as well to see if he joins us.
+
+**Erik O'Brien:** That works for me.
+
+**Erik O'Brien:** Before I jump in, anything top of mind as we kind of, I know we did a bit of a transition from Strategy Sprint and working with Ada to me as your point of contact, but didn't know if you guys had any questions about everything moving forward.
+
+**Nima Asrar Haghighi:** Just the reason for the change?
+
+**Erik O'Brien:** So Ada works with our clients through the Strategy Sprint.
+
+**Erik O'Brien:** And so she's really just there for that first kind of eight to 10 weeks.
+
+**Erik O'Brien:** And then now I'll be an engagement manager.
+
+**Erik O'Brien:** So I oversee kind of clients for long-term execution.
+
+**Erik O'Brien:** So just the way that we have the team set up.
+
+**Nima Asrar Haghighi:** Then any transition that needs to be happening or that's happened?
+
+**Nima Asrar Haghighi:** And you have clear understanding of where
+
+**Erik O'Brien:** Yep, so I spent some time with her the last couple weeks just getting up to speed on kind of where you guys are at, the content kind of plan going forward, publishing, Cadence, kind of overall process that we run through with you guys.
+
+**Erik O'Brien:** So I think I'm up to speed, but we'll let you guys keep me honest.
+
+**Nima Asrar Haghighi:** Okay.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** So she did send over that content prioritization plan last week.
+
+**Erik O'Brien:** It's really just kind of for the next three months where we're going to focus.
+
+**Erik O'Brien:** Not sure if you guys had a chance to take a look at it, but really the kind of short version is for the first month, we're just going to be sweeping through bottom of the funnel.
+
+**Erik O'Brien:** So anything that's Bofu focused, really focusing on kind of building a conversion wall.
+
+**Erik O'Brien:** So making sure that anytime a buyer is doing some research, they'll find some of our content versus just.
+
+**Erik O'Brien:** as we're
+
+**Erik O'Brien:** So a lot of the focus, like I said, for at least month one, is getting through the bottom of funnel content, making sure that kind of have an entire wall of content for our conversion-ready kind of buyers to find and be able to maximize conversions and then be able to work through the rest of the content calendar from there.
+
+**Rich Beattie:** Is a lot of that, Erik, going to be focused on competitors?
+
+**Rich Beattie:** I'm just – those are the pieces that our legal team wants to review, and I'm just trying to get a sense for them of, like, what kind of volume might be coming down the path.
+
+**Erik O'Brien:** Yeah, when I was talking to Ada, she kind of said, you know, while we've got legal engaged, it's probably better to work through a lot of the competitive comparison pieces.
+
+**Erik O'Brien:** I know we still need to kind of go through and use your compare pages as kind of content that's been pre-approved, so we can maybe expedite.
+
+**Erik O'Brien:** Some of that process with legal, but at least the rationale that she shared was, you know, if we can get through the majority of the legal reviews up front in month one, then we can kind of have a little bit easier process in month two and three as we get through kind of the rest of the persona AI and middle of funnel content.
+
+**Rich Beattie:** Okay.
+
+**Rich Beattie:** Yeah, I think that's fine.
+
+**Rich Beattie:** think either way is fine.
+
+**Rich Beattie:** You know, we're getting into a rhythm with them and now that we've really figured out what they need to review and, you know, we're just trying to give them a sense of what kind of volume to expect.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** So, yeah, we've got, I think, seven with them right now.
+
+**Erik O'Brien:** We just had one approved, so we'll have about 13 more competitive comparison pieces coming through the pipe.
+
+**Rich Beattie:** Okay.
+
+**Rich Beattie:** Okay.
+
+**Nima Asrar Haghighi:** If we have then we lose that kind of intent that we are trying to generate.
+
+**Nima Asrar Haghighi:** So I want to kind of mix and match it with kind of other bottom-up content that is not legal sensitive so that we have that flow of the content going on rather than kind of producing everything and waiting and then losing that kind of cadence that we need.
+
+**Erik O'Brien:** Yep.
+
+**Erik O'Brien:** Yeah, for this week, we've got three that are AI-powered, T&E, cluster.
+
+**Erik O'Brien:** One, two competitive, and then one for the accounting controller persona.
+
+**Erik O'Brien:** So we can kind of continue to make sure there's a decent spread and not all bunched into competitors because those, you know, understand that it'll take a little bit longer to get reviewed and to get published.
+
+**Erik O'Brien:** And we want to at least be publishing, you know, three to five a week.
+
+**Nima Asrar Haghighi:** Okay.
+
+**Nima Asrar Haghighi:** Thank you.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** So I did did –
+
+**Erik O'Brien:** You guys may have seen that.
+
+**Erik O'Brien:** created a new view, which I'll share after this meeting, but just a quicker view to kind of see what's in production, drafts for review, every different stage that we have, and what's published.
+
+**Erik O'Brien:** So you can kind of see it broken down by topic clusters just from this single pane of glass.
+
+**Erik O'Brien:** It's a little bit cleaner than going through the typical Airtable view.
+
+**Nima Asrar Haghighi:** Remind me how you got there.
+
+**Erik O'Brien:** So it's this content OS status updates.
+
+**Erik O'Brien:** I'll share the link right after this meeting in the Slack channel.
+
+**Nima Asrar Haghighi:** That's it.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** But yeah, so from that view, we've got five that are in review right now.
+
+**Erik O'Brien:** So with Rich and Libby, there's one that should be in revisions, but we've moved it back into production because it needs a full rewrite.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** Like I said, seven in legal review, three in second draft review, so almost ready to publish.
+
+**Erik O'Brien:** And once we get the go-ahead, we'll just shift those to ready to publish.
+
+**Erik O'Brien:** And then we've got 21 now that we've published to date.
+
+**Erik O'Brien:** That's just quick content updates.
+
+**Rich Beattie:** Yeah, so I've made my way through a couple of this week's pieces.
+
+**Rich Beattie:** You know, one thing that I will call out is that there's still a lot of choppiness, I think.
+
+**Rich Beattie:** Like transitions still remain kind of an issue.
+
+**Rich Beattie:** And I've called them out within the pieces, but areas where, like, things just kind of shift suddenly.
+
+**Rich Beattie:** And suddenly we're talking about something else kind of within the same paragraph.
+
+**Rich Beattie:** And so just keep an eye out for those call-outs within the copy of areas where we are making sudden shifts that aren't directly related.
+
+**Rich Beattie:** So just one thing to call out.
+
+**Rich Beattie:** The other thing that I've noticed that a couple of things came out, and that one piece you mentioned that I asked for a complete rewrite for, and I noticed, again, in one of the pieces this week, and I called it out in there, is attributing facts to certain reports, especially the skip report that didn't come from the skip report.
+
+**Rich Beattie:** So I'm not sure how those are getting kind of conflated, but just to keep an eye out for things, and I will, you know, obviously.
+
+**Rich Beattie:** Complete them and also highlight them for your team when I notice them of those conflations happening so that we can sort of avoid those in the future.
+
+**Erik O'Brien:** I will have our engineering team take a look at this. I actually just ran into this with a different client as well—the same two issues of choppiness of content. I think it's when it tries to remove M-dashes and some of the AI-isms that come along with using the pipelines. And once we do that, it becomes really choppy. So we've found a fix for that. I'm hoping some of these recent upgrades we made to a different pipeline, we can use best practices and update these as well. But yeah, this kind of issue with conflating stats that came from a report that didn't come from that report—we should be able to handle that with just using specific quotes. Instead of trying to summarize the stat, let's pull it specifically and mention it there.
+
+**Rich Beattie:** Okay, cool.
+
+**Erik O'Brien:** So I will get those underway.
+
+**Erik O'Brien:** Any other issues, quality issues?
+
+**Rich Beattie:** Those have been the two things that I've noticed in this round, anyway, so.
+
+**Erik O'Brien:** Okay.
+
+**Rich Beattie:** And we're also, maybe it was, it's using more of a European style in the first two pieces that I read in that it's not using initial caps for subheads.
+
+**Rich Beattie:** And just something else to keep an eye out for.
+
+**Erik O'Brien:** Yeah, that's something I can have our editor fix fairly quickly.
+
+**Rich Beattie:** Cool.
+
+**Erik O'Brien:** So we'll take a look at those.
+
+**Erik O'Brien:** Let's see.
+
+**Erik O'Brien:** Jumping to performance in our Looker dashboard.
+
+**Erik O'Brien:** That's not typical.
+
+**Erik O'Brien:** And if you dig a little bit deeper, you can see kind of session time is about one to two seconds for that direct traffic.
+
+**Erik O'Brien:** So for making sure that we're looking at kind of the best data we have available for organic traffic, I've been not including that.
+
+**Nima Asrar Haghighi:** Are you trying to look at the user agents?
+
+**Erik O'Brien:** Sorry, what was that?
+
+**Nima Asrar Haghighi:** Are you trying to look at their user agents?
+
+**Erik O'Brien:** I have not yet.
+
+**Erik O'Brien:** We've got our VP of growth taking a look at this and with his team and a couple of data scientists to, because it is popping up across multiple accounts. So we're going to hopefully have a better answer in the next week or two.
+
+**Nima Asrar Haghighi:** Okay.
+
+**Moran Brayer:** I can look into Cloudflare and tell you if those are LLM bots or not.
+
+**Erik O'Brien:** Yeah, that would be very helpful. I guess I also had a question about these engagement rates. I was talking to Nima and Rich right at the beginning, but as much as I would love to have 100% engagement across all of our content, seems a little too good to be true. So I think there might be a configuration or misconfiguration in GA about the engagement funnel. Typically, it's about 10 seconds on site or a click or multiple scrolls that will lead to an engagement. But it feels like the threshold for us is a little bit misconfigured in GA4 because we're seeing 100% across every piece of content. Moran, if that's something you can look into or if the team can look into.
+
+**Moran Brayer:** I can try and dig. We don't really use GA4, so it's not like a maintained asset, but I don't think there are any custom-made rules for the engagement metrics there, but I will look into it. I'll let you know.
+
+**Erik O'Brien:** That'd be super helpful.
+
+**Erik O'Brien:** I guess from a positive perspective, we are seeing compound growth. So we published our first article around the first week of January and started to see kind of a plateau, and then as we continue to publish, seeing rising traffic. So as we continue to publish, hopefully we'll see these numbers keep compounding exponentially. And as we can see that, we also start to see more and more LLM referrals.
+
+**Erik O'Brien:** I'd say within the first six weeks of publishing, this is pretty consistent with what we see across clients, kind of this initial compounding rates.
+
+**Nima Asrar Haghighi:** Is it at par? Is it ahead? Is it behind? Just trying to get a sense of it. So you're saying that it's at par?
+
+**Erik O'Brien:** Yeah, I would say it's at par right now. So what could we do to get ahead? A lot of various different things. Typically, the quicker we get to publishing, the better signals we start seeing and can start to really judge it at a cohort level and see which of our cohorts are actually taking off, getting more traffic. That usually is a better indicator of where we want to focus our time and efforts, like with the persona to controller if we want to continue to push content.
+
+**Moran Brayer:** And send them over.
+
+**Moran Brayer:** I could have a look and then we can implement.
+
+**Moran Brayer:** This would surely help move things a bit faster.
+
+**Moran Brayer:** And the other thing is something that we've talked about with Ada, but haven't fulfilled.
+
+**Moran Brayer:** So the posts that we are publishing are currently published under editorial, Navan, or Navan editorial.
+
+**Moran Brayer:** So they don't really have a content person attached to them.
+
+**Moran Brayer:** And I think it's not like, it's probably not like the best way we could publish those.
+
+**Moran Brayer:** I was thinking whether you have contributing authors that we could use.
+
+**Moran Brayer:** There's bylines to those articles that might help give it like a more human touch.
+
+**Moran Brayer:** And probably, because I think they currently stand out somehow negatively for machines when they crawl them and see that there is no author.
+
+**Moran Brayer:** I mean, there are other blogs that we do the same for, but it's not like, it's not optimal.
+
+**Nima Asrar Haghighi:** Yeah, definitely.
+
+**Erik O'Brien:** think one approach I've taken with another client is whoever does the review can be a contributing author.
+
+**Erik O'Brien:** Or we just kind of go by topic cluster and have an author by topic cluster so that it's consistent.
+
+**Erik O'Brien:** You know, if one person is consistently talking to the controller or accounting persona, they get to be recognized as a kind of authoritative voice within that.
+
+**Erik O'Brien:** Alright.
+
+**Erik O'Brien:** Alright.
+
+**Erik O'Brien:** persona and domain.
+
+**Erik O'Brien:** So that's something we can explore, open to different ways of how we want to approach it, but definitely something that we do with other clients.
+
+**Moran Brayer:** And in that case, it's like the contributing authors are from the company itself or it's people that you assign the content?
+
+**Erik O'Brien:** Typically, we like to have it be somebody from Navan.
+
+**Moran Brayer:** Yeah.
+
+**Nima Asrar Haghighi:** Like, you're just rolling the dice?
+
+**Nima Asrar Haghighi:** Like, who are you going to get?
+
+**Nima Asrar Haghighi:** Yes.
+
+**Nima Asrar Haghighi:** It's not on my phone.
+
+**Erik O'Brien:** Then I know we've got a few minutes left.
+
+**Erik O'Brien:** I think going forward, just curious of kind of.
+
+**Erik O'Brien:** For our content, like, what's the Northstar metric you guys want to start really tracking outside of just, you know, sessions and engagement rate?
+
+**Erik O'Brien:** Is it, you know, get started, request a demo?
+
+**Nima Asrar Haghighi:** Yeah, so I don't know if you know Moran, but I have this ticket up with Alona to be able to track the leads that are coming from these articles from GrowthX.
+
+**Nima Asrar Haghighi:** articles, and so we would like to kind of track the number of the leads and downs of whether or not they come over to opportunities as well.
+
+**Nima Asrar Haghighi:** So any leads, but of course our highest quality of the leads are usually request a demo, but it could be coming from the e-bloops and other stuff as well, but that demo is the highest pricing.
+
+**Erik O'Brien:** Okay.
+
+**Erik O'Brien:** And then are you using Amplitude to track that internally?
+
+**Nima Asrar Haghighi:** We are passing along the information, once it's up and running, we would be passing along the parameter from the website to Marketo, so that we know this came from these articles.
+
+**Nima Asrar Haghighi:** And then on the back end in Salesforce, we will see whether or not the needs and tools and opportunities we created.
+
+**Erik O'Brien:** Okay, gotcha.
+
+**Erik O'Brien:** Yeah, so I think going forward, we typically do kind of a month-over-month report.
+
+**Erik O'Brien:** So in beginning of March, we'll take a look back at February and do a deeper dive on kind of just overall performance as a readout.
+
+**Erik O'Brien:** Would love to either get a snapshot, screenshot, or some way of understanding that conversion data as we get going.
+
+**Erik O'Brien:** Obviously, we're, you know, into publishing, so right now it's really about...
+
+**Erik O'Brien:** Are we getting traffic?
+
+**Erik O'Brien:** You know, is everything indexing appropriately?
+
+**Erik O'Brien:** Are we getting impressions, clicks, et cetera?
+
+**Erik O'Brien:** Usually in month three or so, we start looking at conversion as a more serious kind of metric to hold ourselves against.
+
+**Nima Asrar Haghighi:** Yeah, cannot wait that long, and we decide what we are accountable for, just to be clear, not you deciding.
+
+**Nima Asrar Haghighi:** But I think, Moran, through the growth, through the amplitude, we're still able to measure on the MQLs, right?
+
+**Nima Asrar Haghighi:** So that would be, I guess, your early indicator, because if you want to wait for the opportunity, takes time, but we could, in the amplitude, we are able to show the number of MQLs.
+
+**Erik O'Brien:** Okay.
+
+**Nima Asrar Haghighi:** And in Google MQLs, we should be able to see form fields as well.
+
+**Erik O'Brien:** Yep.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** So that's all the updates I had today.
+
+**Erik O'Brien:** Any other topics you guys wanted to discuss?
+
+**Erik O'Brien:** Any other things top of mind?
+
+**Nima Asrar Haghighi:** No, nothing on my side.
+
+**Nima Asrar Haghighi:** I think the only thing that my ask is to kind of make sure that we maintain that kind of a cadence.
+
+**Nima Asrar Haghighi:** As you mentioned, like the faster we promote, the better.
+
+**Nima Asrar Haghighi:** And let's make sure that we get things moving.
+
+**Nima Asrar Haghighi:** Rich, let me know if we need support on the pushing the legal to approve this content faster.
+
+**Nima Asrar Haghighi:** But let me know if you have any problems.
+
+**Rich Beattie:** Sounds good.
+
+**Nima Asrar Haghighi:** Yeah.
+
+**Nima Asrar Haghighi:** Cool.
+
+**Erik O'Brien:** Wonderful.
+
+**Nima Asrar Haghighi:** Thank you very much, Tim.
+
+**Erik O'Brien:** All right.
+
+**Nima Asrar Haghighi:** I appreciate it.
+
+**Erik O'Brien:** Thanks, Tim.
+
+**Rich Beattie:** Take care.
+
+**Nima Asrar Haghighi:** Bye.
+
+**Erik O'Brien:** Bye.
+
+**Erik O'Brien:** Bye.
+
+**Erik O'Brien:** Bye.
+
+**Erik O'Brien:** Bye.

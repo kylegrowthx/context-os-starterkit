@@ -1,0 +1,1058 @@
+# Webflow <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-09-10
+time: 17:31 UTC
+duration: 41 minutes
+organizer: Jason Gong
+participants: Sydney Go, Jason Gong, Colin Lateano
+fathom_recording_id: 86356602
+fathom_url: https://fathom.video/calls/405031963
+share_url: https://fathom.video/share/npDEx7iijuuVmCdrhGDwDz5YVT4e_QLk
+source: fathom
+enriched_on: 2026-03-03 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+Webflow and GrowthX aligned on strategy to rapidly scale integration page creation to 30 per week with minimal pre-publication review, prioritizing SEMrush data for selection. The team discussed balancing guide development with integration content volume, agreed that major inaccuracies require review before publishing while tone and word choice can be fixed post-publication, and clarified that next week's Webflow Conference will require async communication. Colin requested GrowthX investigate the feasibility of creating a reusable code component library for Webflow developers, with Jason committing to a scoping report.
+
+---
+
+## Context
+
+This is GrowthX's ongoing weekly sync with Webflow — a strategic partnership where GrowthX provides content marketing services. Webflow is the design and hosting platform used by these Webflow team members, and GrowthX is creating integration guides and help content to drive discovery and improve the Webflow ecosystem. The engagement is producing SEO-optimized integration pages and tutorial guides at scale, with the goal of capturing search traffic for "how to integrate [tool] with Webflow" queries. Colin Lateano (Webflow), the technical partner, is wrapping up the Webflow Conference that week, which affects meeting availability.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Strategy shift: GrowthX is scaling content production to 30 integration pages per week with post-publication editing, indicating a publish-first/edit-after model that could apply to other client engagements
+- Clear definition of critical vs. fixable issues: major inaccuracies block publication; tone, word choice, and AI-isms are acceptable to fix later
+- Two-tier content approach: prioritized integration pages (SEMrush data-driven) with secondary guides workflow still under development
+
+**To CheckThat / AEO:**
+- Integration page content is designed to capture "integrate X with Webflow" search queries, directly validating content SEO effectiveness
+- Team actively tracking which guides and integrations drive organic traffic; interested in bot/agent crawler visibility to understand AI-driven traffic patterns
+- The URL structure and link strategy suggest opportunity for CheckThat to model how AI assistants recommend these guides
+
+**To GrowthX Business Development:**
+- Strong account momentum: Webflow expanding scope to include code component library exploration, signaling possible upsell to advisory or deeper product work
+- Colin's participation is high-engagement and technical, suggesting account health is strong
+- Webflow is exploring a new high-value deliverable (component library) — if GrowthX executes well, opportunity for follow-on engagement or case study
+
+---
+
+## Overview
+
+- Ramping up publishing of integration pages, aiming for 30/week with publish-first-review-later model; major inaccuracies flagged pre-publication, tone/word choice fixed post-publication
+- Integration selection prioritized by SEMrush search volume data (~150 initial high-volume integrations selected)
+- Guides workflow being developed; prioritization framework planned based on organic traffic and integration importance
+- Editorial content produced at 1-2 pieces per week; API automation now enabled for faster publishing
+- Exploring potential for creating a component library for Webflow code components (similar to ShadCN)
+- Webflow Conference next week; team will operate asynchronously
+
+---
+
+## Key Topics
+
+### Integration Pages Progress
+
+  - Aiming to publish 30 integration pages per week
+  - Human review focused on major inaccuracies; tone and word choice to be fixed post-publishing
+  - Prioritization based on SEMrush data for search volume
+  - \~150 initial integrations chosen based on high search volume
+  - Additional integrations added based on perceived importance/familiarity
+
+### Guides Development
+
+  - Mapped numerous guides, building workflow and prioritizing list
+  - Prioritization framework not finalized, but likely based on organic traffic and integration importance
+  - Decision to generally create separate guides for each integration (e.g., Stripe, PayPal) rather than combining
+
+### Editorial Content
+
+  - Two pieces in Webflow's core content
+  - Currently producing 1-2 pieces per week to refine workflow
+  - API key now working, enabling more efficient publishing
+
+### Webflow Code Components
+
+  - Discussion on potential to create a component library similar to ShadCN
+  - Components would inherit Webflow site styling
+  - Estimated potential for hundreds of simpler components
+  - GrowthX to explore feasibility and potential scope of this project
+
+### Webflow Cloud Limitations
+
+  - Current lack of database hosting in Webflow Cloud
+  - Features in development, but not yet fully implemented
+
+---
+
+## Action Items
+
+**Colin Lateano (Webflow)**
+- Scan and approve filtered integration guides list once received from Sydney/Jason
+- Set up workspace for Jason's team to test code components
+
+**Jason Gong (GrowthX)**
+- Investigate feasibility of creating code component library; report back to Colin on scope, effort, and potential component count
+
+---
+
+## Transcript
+**Sydney Go:** Oh, did you see that Luke's not going to be able to make it today?
+
+**Jason Gong:** Yes, I think so.
+
+**Jason Gong:** And Colin said he's going to be a bit late, so they'll be here.
+
+**Jason Gong:** I think results seem pretty good.
+
+**Jason Gong:** think, like, I guess since they moved that whole part of the website, it'll just take time to, like, kind of climb back up again.
+
+**Jason Gong:** But the Stripe page is doing really well.
+
+**Jason Gong:** Let's take a look at it.
+
+**Sydney Go:** The API key works.
+
+**Sydney Go:** So Mark has said he'll have that finished by today, and then we can just auto-publish everything in in-depth edits, basically.
+
+**Jason Gong:** And then, yeah, I guess, did you take a look at, like, if we were to just publish first and then go edit, if there's anything kind of critical?
+
+**Jason Gong:** Because I think if it's, like, wording and tone, that's okay.
+
+**Jason Gong:** But if it's, like, completely wrong or, like, something crazy, like, we probably shouldn't do that.
+
+**Sydney Go:** I did catch one today where because there's no known way to integrate Webflow and Localizer, and I guess there's also, like, our system is struggling to find it.
+
+**Sydney Go:** It just decided to suggest different apps.
+
+**Sydney Go:** So just reading through things like that and making sure that it doesn't happen.
+
+**Sydney Go:** But it's very, like, I've only seen it twice.
+
+**Sydney Go:** Yeah, it's just, like, first one was third-party apps.
+
+**Jason Gong:** Yeah, but I guess, I mean, how many of you did now?
+
+**Jason Gong:** It'd be, like, 15 now.
+
+**Jason Gong:** I think, like, I mean, there were a call.
+
+**Jason Gong:** This next week, so I'm we'll get a lot more, you know, like visibility on the website.
+
+**Jason Gong:** So like, the more we can do, the better.
+
+**Jason Gong:** I'm trying to think like who could, it sounds like what you need is almost like a little sense check that nothing's crazy wrong.
+
+**Jason Gong:** And then if it's crazy wrong, I would just like kind of don't, don't publish that.
+
+**Jason Gong:** And then just put that into the backlog to fix.
+
+**Sydney Go:** Yeah.
+
+**Sydney Go:** That's actually like just, yeah, just creating a bunch and then.
+
+**Sydney Go:** Yeah, that's actually what I started doing this week.
+
+**Jason Gong:** Okay, cool.
+
+**Sydney Go:** And then I, yeah, I'm just waiting for the API key and then I can just push all these live.
+
+**Sydney Go:** But yeah, because most of them are already generated.
+
+**Sydney Go:** And then just Neural is doing that check for me, basically telling me this is not great.
+
+**Sydney Go:** But yeah.
+
+**Jason Gong:** Sounds good.
+
+**Jason Gong:** Hey, Colin.
+
+**Jason Gong:** Hello.
+
+**Jason Gong:** Ready for Webflow Conf?
+
+**Colin Lateano:** Yeah.
+
+**Colin Lateano:** Yeah, I'm doing very little.
+
+**Colin Lateano:** So it's.
+
+**Colin Lateano:** So
+
+**Colin Lateano:** Very exciting for me.
+
+**Colin Lateano:** What are you doing?
+
+**Jason Gong:** You're doing like workshops?
+
+**Jason Gong:** Are you on stage?
+
+**Jason Gong:** I am not on stage.
+
+**Colin Lateano:** I am not doing workshops.
+
+**Colin Lateano:** And that is to my dismay because I think I have a lot to say.
+
+**Colin Lateano:** But I am just working booths and none of my products are at the booths just because the dev platform I know so much about, so much of Webflow at this point.
+
+**Colin Lateano:** I am floating between booths to handle technical questions, effectively filling in as a solutions architecture problems.
+
+**Colin Lateano:** And I think that's very funny because solutions architects will tell people how to solve the problem with the tools available today.
+
+**Colin Lateano:** And I solved the problem by saying, that's really cool.
+
+**Colin Lateano:** Let me go think about how we can actually like build that for you in the future.
+
+**Colin Lateano:** Stay out, stay online.
+
+**Colin Lateano:** And it's so disappointing.
+
+**Colin Lateano:** It's either really exciting for clients or really disappointing.
+
+**Colin Lateano:** Because when I'm on a call, it's like, we can't do that.
+
+**Colin Lateano:** But like, wouldn't it be cool if we could do that?
+
+**Colin Lateano:** Let's ideate.
+
+**Colin Lateano:** And they'll walk away thinking like, oh, Webflow can do that.
+
+**Colin Lateano:** Or build.com can do that.
+
+**Colin Lateano:** Or affirm can
+
+**Jason Gong:** I mean, I think that kind of conversation is better for like pre-sales, you know, like people that haven't bought yet.
+
+**Colin Lateano:** Yeah, except at a firm, I also managed all of the, God, what do we call them then?
+
+**Colin Lateano:** That was the, it wasn't called Social Architects, but it was something, sales engineering.
+
+**Colin Lateano:** I managed sales engineering.
+
+**Colin Lateano:** And so I was doing the post-imultation as well.
+
+**Jason Gong:** That's exciting.
+
+**Colin Lateano:** One just adjacent question.
+
+**Colin Lateano:** I, I am, I'm absolutely not doing it, but I've gotten, I got three different messages from all the expert networks about growthx.
+
+**Colin Lateano:** Is expert?
+
+**Colin Lateano:** Wait, what's an expert network?
+
+**Colin Lateano:** Like you're, you're kind of.
+
+**Colin Lateano:** Like Tegas or like, do you know, like a guide point in those groups that will like pay you because of like investor groups trying to reach out?
+
+**Colin Lateano:** Oh, yeah.
+
+**Colin Lateano:** I mean, I looked at the prompt and it wasn't clear if that was growthx, you guys, or this other startup.
+
+**Colin Lateano:** Yeah.
+
+**Jason Gong:** Oh, no, it's probably us, because, I mean, we're, I guess we're, you know, exploring in that realm, investors, so.
+
+**Colin Lateano:** Okay.
+
+**Colin Lateano:** Yeah, if you take them up on it, please say nice things.
+
+**Colin Lateano:** No, it's a major conflict.
+
+**Colin Lateano:** I'm not going to do that.
+
+**Colin Lateano:** But, I mean, you're ex-affirmed, too.
+
+**Colin Lateano:** I'm sure you're getting pinged out.
+
+**Colin Lateano:** People saying, hey, can you compare them?
+
+**Colin Lateano:** Not recently, yeah, but I used to get pinged on that, like, all the time.
+
+**Jason Gong:** Now, it's just more about, like, AI stuff.
+
+**Jason Gong:** Oh, I mean, that makes sense, too, because of where you are.
+
+**Colin Lateano:** But I cannot even, I have a whole filter on my Gmail now for this.
+
+**Colin Lateano:** I get so many messages now about, like, compare a firm's unwriting Malaclana.
+
+**Colin Lateano:** Right.
+
+**Jason Gong:** That's an interesting, I mean, just, like, as an aside, I think that's, like, an interesting kind of, like, way of collecting unique information where, like, I thought a bit about, like, what the term.
+
+**Jason Gong:** A little state of like what we do looks like where you just need the expert in here for that one moment to say something that is in their expertise, you know, and like, I wonder if it looks like that because like my other client is the surge and they do the whole, you know, like data labeling post-training stuff and like, like that's what it kind of looks like for them.
+
+**Jason Gong:** They have this like giant marketplace and they have like doctors, professors, lawyers, you know, paid like two, three hundred bucks an hour, you know, to give them essentially the label data.
+
+**Jason Gong:** Oh, yeah.
+
+**Colin Lateano:** Maybe that's what all work becomes.
+
+**Colin Lateano:** I have very high confidence because I talk to the Centaur Labs, that's for medical labeling, and I talk to them about their business model and just there are so many niches popping up in hyper-regulated specific labeling.
+
+**Colin Lateano:** Centaur is doing strictly medical.
+
+**Colin Lateano:** They, but they've been asked, like, can you go do mortgage labeling or other?
+
+**Colin Lateano:** Really highly technical financial instruments, and scale can't do that, because scale is just effectively a mechanical Turk.
+
+**Colin Lateano:** you're not going to get any real experts in that one.
+
+**Colin Lateano:** So I do think the future is a wide range of very small payments.
+
+**Colin Lateano:** Like 20 bucks, Colin, can you go look at six things that are representative of, I don't know, whatever skill set mine might be, but it definitely is for you in the end.
+
+**Colin Lateano:** Very so dystopian.
+
+**Jason Gong:** I hope that by, I mean, I think we're over the hump a little bit, but like, kids are going to be.
+
+**Colin Lateano:** What?
+
+**Colin Lateano:** Oh, yeah.
+
+**Colin Lateano:** We're probably, by the time it becomes dystopian, we'll ideally be retired or in a big brain bag.
+
+**Colin Lateano:** Yeah, exactly.
+
+**Colin Lateano:** Cool.
+
+**Colin Lateano:** Okay, cool.
+
+**Colin Lateano:** we can.
+
+**Jason Gong:** So I, Sydney, I really do appreciate having this tracker at the top.
+
+**Colin Lateano:** looking at this now in depth.
+
+**Colin Lateano:** I.
+
+**Colin Lateano:** I want to walk back my statement on Friday of, we can't be doing everything.
+
+**Colin Lateano:** And so I would want to pull back on the blog in the short term to...
+
+**Colin Lateano:** I like this stuff.
+
+**Colin Lateano:** Well, if the SEO content is in a place that Luke is comfortable with, I think it's great.
+
+**Colin Lateano:** I think we should do it.
+
+**Colin Lateano:** I think we just make it and we'll go figure out how to get it into the main blog.
+
+**Colin Lateano:** I don't think you have access to the main blog, CMS.
+
+**Colin Lateano:** I think that's by design.
+
+**Colin Lateano:** But if the SEO content is in a place where we're actually able to move forward quickly without having a lot of voicing back and forth, I think it's absolutely worth doing.
+
+**Colin Lateano:** I mean more of the ones that have a lot of back and forth review right now, Reddit and those DreamState Hacker News.
+
+**Colin Lateano:** I would throw Hacker News to the lowest of priority list.
+
+**Colin Lateano:** Reddit, I would...
+
+**Colin Lateano:** I just don't know how fast we're going to deliver on those things.
+
+**Colin Lateano:** And if I'm to honestly put...
+
+**Colin Lateano:** You
+
+**Colin Lateano:** The outcome, based on what we're seeing on the integration success of search, I would put the outcome-oriented behaviors of what we're doing in the integrations design realm right now, and then supplementing with the SEO stuff, if that can be in a truly automated fashion, I would say we can get a lot done this quarter if the human-in-the-loop behaviors are going to be the technical stuff and this middle ground of the blog.
+
+**Colin Lateano:** And I really do think your positioning here is right between the three.
+
+**Colin Lateano:** The tiers actually are progressively more technical.
+
+**Colin Lateano:** I think if we drop the middle for now, because that still has human flavor to it, I think if the human investment is really spent on the integrations part, I think we'll be able to accomplish higher value deliveries than what the blogs would be in the short term.
+
+**Colin Lateano:** Yep, I think we're on the same page there.
+
+**Jason Gong:** Let's see.
+
+**Jason Gong:** Yeah, so I mean, right now, it's like, the SEO content, we're not like...
+
+**Jason Gong:** Bully, I guess, doing tons of volume there.
+
+**Jason Gong:** I think, Sydney, how many do we have approved now?
+
+**Jason Gong:** Like two approved by Luke, and then we're doing kind of like one or two a week at the moment just to focus on the integration stuff.
+
+**Jason Gong:** So that's the current state of that.
+
+**Jason Gong:** And then, yeah, integrations, I mean, I was going to go through here, but basically where we were just talking before we joined about like how much of it we can turn on without like a big kind of human review.
+
+**Jason Gong:** At the end, I just do that after we publish.
+
+**Jason Gong:** I think, yeah, we're going to aim for like, I don't know, like 30, like published a week.
+
+**Jason Gong:** And then we'll just like, I think editing, we're probably still bottlenecked at like 15, you know, Sydney, correct me if I'm wrong.
+
+**Jason Gong:** So we're going to do that.
+
+**Jason Gong:** But like before we publish, we're just going to eyeball.
+
+**Jason Gong:** And like, if it isn't just totally wrong, we'll publish.
+
+**Jason Gong:** Because most of the things that Sydney fixes are still in the realm of like tone.
+
+**Jason Gong:** And then like AI words, you know, and I think those for the most part is okay to publish and fix later.
+
+**Colin Lateano:** It is.
+
+**Colin Lateano:** If, yeah, if the primary goal is, well, I think the world is too new to AI slop to have a strong like reversion to it.
+
+**Colin Lateano:** I'm not calling your work slop at this point, but the AI words, I mean, I bristle seeing them, so I'm sure other people do too.
+
+**Colin Lateano:** But the, if the first goal is indexing, the second goal is providing still organized value.
+
+**Colin Lateano:** As long as it's right, I have to imagine people seeing AI generated content that's right, still gets value out of it.
+
+**Colin Lateano:** And my guess would be for every user that reaches the page, there has to be probably at this point, five to six that are having their...
+
+**Colin Lateano:** ...
+
+**Colin Lateano:** ...
+
+**Colin Lateano:** ...
+
+**Colin Lateano:** ...
+
+**Colin Lateano:** Assistant of choice, just read it, and then regurgitate it into some chat prompt anyway.
+
+**Colin Lateano:** So, I mean, what is the, my concern about AI framing is, as long as it's right, it's going to be perplexity reading this, and then reframing its own language, in its own way back to the user anyway.
+
+**Colin Lateano:** So I'm, I'm not really, I'm not as concerned about that, more or less.
+
+**Colin Lateano:** think we're on the same page there.
+
+**Jason Gong:** I will say, like, do you guys look at agent bot traffic at all?
+
+**Jason Gong:** Like, do you have access to that for your own website?
+
+**Jason Gong:** Not on this section.
+
+**Colin Lateano:** We do, we do track it on main Webflow, but this whole Webflow on Webflow rebrand for Webflow conference has pretty much destroyed all of my analytics tracking for the behavior of the site.
+
+**Colin Lateano:** Okay.
+
+**Jason Gong:** Because I think that would be really cool to get at some point.
+
+**Jason Gong:** It's like, just a pain in the .
+
+**Jason Gong:** We try to get it for as many of our clients as we can, but like...
+
+**Jason Gong:** are
+
+**Jason Gong:** Yeah, we don't, I mean, how do you actually detect it?
+
+**Colin Lateano:** Is it you?
+
+**Jason Gong:** I think you have to go to like the, I don't know, like you got to go to like, I mean, for some of customers, you got to go to Cloudflare.
+
+**Jason Gong:** For some of the customers, you got to like dig through logs and like do some data wrangling there.
+
+**Jason Gong:** I actually don't know what that is for Webflow, but I don't think it's something you can even access as like a user.
+
+**Colin Lateano:** Some clients, and by clients, I mean like the browser, will declare what they are on, so that's the only identification I've been using on our developer site is if the client is saying I am perplexity search, we know, okay, cool.
+
+**Colin Lateano:** But if you're not declaring it, we don't know who's crawling and how.
+
+**Jason Gong:** Right.
+
+**Jason Gong:** So you do have that for the developer site?
+
+**Jason Gong:** We do have it for the developer site.
+
+**Colin Lateano:** can, how do I pull that up?
+
+**Colin Lateano:** It's part of, it's part of my amplitude summaries.
+
+**Colin Lateano:** And I do, and I can't find the client source and it, it, it, groups into browsers, but I know it's not totally accurate because not every, not every agent is declaring who it is in that method.
+
+**Colin Lateano:** Yeah.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I need to look a little bit more into that.
+
+**Jason Gong:** We haven't done a ton there, but we get to know like how much of this is being read by AI.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** So, I mean, at a high level, we're just kind of ramping up the publishing of these.
+
+**Jason Gong:** We're trying to find like the right balance here, but generally we're treating kind of like large inaccuracy is something that will hold back publishing, but like tone and like word choice, like we'll, we'll just publish and fix later.
+
+**Jason Gong:** Yep.
+
+**Colin Lateano:** And when I look at the integration pages.
+
+**Colin Lateano:** at the pages.
+
+**Colin Lateano:** And And And
+
+**Colin Lateano:** By status.
+
+**Colin Lateano:** Help me understand the, this list is not in order of priority or what's the most valued, right?
+
+**Colin Lateano:** Is this just an assembly list of just generating more and more ideas as we go?
+
+**Colin Lateano:** And that's not a bad thing.
+
+**Colin Lateano:** I'm trying to understand just like new idea, like I look at the new ideas.
+
+**Colin Lateano:** I look at the section of in progress.
+
+**Sydney Go:** Everything that we've said to in progress is everything that we think is valuable or will be valuable, but they're at different tiers of like how valuable those are.
+
+**Sydney Go:** But those are the ones that we're prioritizing because it's like a bigger list of like 700 or 800 integrations.
+
+**Sydney Go:** I think this is only 200, maybe.
+
+**Colin Lateano:** I guess like how have we been prioritizing?
+
+**Jason Gong:** I thought maybe we were doing it.
+
+**Jason Gong:** Based on like traffic for other people's content or something.
+
+**Colin Lateano:** But most of the traffic I assume would be near zero, right?
+
+**Sydney Go:** So I did look through SEMrush really quickly for all of our keywords, like Webflow and this, or like integrate this with Webflow, just those two quick checks.
+
+**Sydney Go:** And so all of the ones that I initially did, so the first like 150 are the ones that are high, that actually do have some search volume.
+
+**Sydney Go:** And then the rest of these are just like tools that seem important.
+
+**Sydney Go:** Interesting.
+
+**Sydney Go:** That most people are familiar with.
+
+**Colin Lateano:** So if I scroll down to the new ideas, things like, again, could be totally correct.
+
+**Colin Lateano:** I'm just, I'm just looking like things like PayPal, N8N.
+
+**Sydney Go:** Some of those are duplicate.
+
+**Sydney Go:** So we actually do have a PayPal one at the top that we've already created, PayPal and PayPal payments.
+
+**Sydney Go:** And then the ones that are duplicates, I just left them as new ideas for now.
+
+**Sydney Go:** But then I will clean up that.
+
+**Colin Lateano:** I think it's, I got asked yesterday, because I did a quick read through of people of what we've been working on and what, on why it's, why I've pivoted this whole relationship away from pure SEO.
+
+**Colin Lateano:** And the question was just, how are you prioritizing?
+
+**Colin Lateano:** And so it's just helpful to know what the game is.
+
+**Colin Lateano:** Okay, so you're looking in SEMrush to determine order of this, based off of people searching for the viewers.
+
+**Colin Lateano:** Okay, sounds great.
+
+**Jason Gong:** So that's the integration pages, and then the guides, what we've done there is mapped a ton of them here.
+
+**Jason Gong:** And we're kind of building the workflow right now, and then also like kind of prioritizing this list by ones we want to do.
+
+**Jason Gong:** We didn't come up with like the framework yet, but I think similarly, it's like, you know, what is the most organic traffic?
+
+**Jason Gong:** And then what is just kind of your more important integrations?
+
+**Colin Lateano:** I would suggest not doing WooCommerce, but that's, at least not at the beginning, because WooCommerce as a CMS would expect to, has a high reliance on, will do it in WordPress.
+
+**Colin Lateano:** So having a WooCommerce link from Webflow would still say use WordPress.
+
+**Colin Lateano:** So looking at this, are these the ideas that were made, are these?
+
+**Colin Lateano:** The exact ideas that were made in the integration guides?
+
+**Colin Lateano:** So these are exactly the ones that are already in the integration guides themselves.
+
+**Colin Lateano:** That's right.
+
+**Colin Lateano:** Okay.
+
+**Jason Gong:** So we are, I think I saw Sydney doing it already, but like filtering through them and like some need to be merged together and cleaning it up essentially.
+
+**Jason Gong:** But I think at some point, think we'll ask for your, just like, at least to scan it and give us like an approval so we can start creating them.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** And roughly how we were thinking about it was like, I guess a big decision was like whether to have a separate one for each integration.
+
+**Jason Gong:** Like, and I think the answer is it depends, but like for stuff with SEO, it like makes sense to keep separate.
+
+**Jason Gong:** The way we've been writing them, it's like kind of clunky to like not.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Pick an integration, like just thinking about the membership site, like if we were doing one on both Stripe and PayPal, I don't really know what that would look like.
+
+**Jason Gong:** Like it would still have to be focused on one and then at the bottom it would just be like, you can also do this with PayPal, but like I wouldn't be able to link to both API endpoints, you know.
+
+**Jason Gong:** I do know what you mean.
+
+**Jason Gong:** I think it would probably have to be two separate ones, but I don't know.
+
+**Colin Lateano:** There's, there's the, for the SEO value of it, I agree with you on that.
+
+**Colin Lateano:** There is a world where, because we're already doing pseudocode on these guides, you could hand wave and say, this would be the section you would use Stripe for.
+
+**Colin Lateano:** PayPal does it like this.
+
+**Colin Lateano:** Audion does it like this.
+
+**Colin Lateano:** That's, that's, that takes an incredible amount of finesse and I don't, I don't think that's, for scaling this, I don't think that's appropriate.
+
+**Colin Lateano:** And I think maybe over time we can unify if we're seeing split traffic or things like that.
+
+**Colin Lateano:** But in my mind, these are extensions of the integration hub.
+
+**Colin Lateano:** And I think a one-to-one for every idea you have in the integration page is fine for people clicking around.
+
+**Colin Lateano:** How do they end up exploring this and finding that journey?
+
+**Colin Lateano:** I don't know.
+
+**Colin Lateano:** And honestly, I don't, I would not, if this was found in a blog, I would not want the related articles of the Stripe membership page to be the PayPal membership page.
+
+**Colin Lateano:** That wouldn't really be a good learning journey.
+
+**Colin Lateano:** But I think that's a later problem to figure out.
+
+**Colin Lateano:** Yeah, I agree.
+
+**Jason Gong:** I think we'll try to avoid just like all the permutations of one use case.
+
+**Jason Gong:** Because I think a lot of the SEO value comes from the use case the most.
+
+**Jason Gong:** So like I'll just do one with Stripe.
+
+**Jason Gong:** And then once we've done like most of the core use cases, might come back and do, I don't know, Adyen, PayPal, et cetera.
+
+**Jason Gong:** Figure that problem out later.
+
+**Jason Gong:** Yeah, so that's this.
+
+**Jason Gong:** I mean, our sprints are like two weeks.
+
+**Jason Gong:** They just picked this one up.
+
+**Jason Gong:** So hopefully by like later next week, we'll have the workflow ready to go.
+
+**Jason Gong:** And then we'll start publishing there.
+
+**Jason Gong:** So for the next, this week and next week, we're just going to try to get as many integration pages done as humanly possible.
+
+**Jason Gong:** And we'll go from there.
+
+**Jason Gong:** And then editorial.
+
+**Jason Gong:** Yeah, like I said, we have one that's like, or we have two that's in your guys' core.
+
+**Jason Gong:** think Vivian, I'm like, you know, can you publish basically?
+
+**Jason Gong:** And then, yeah, so it's just doing one or two a week at the moment just to like tune our workflow so that when we have more.
+
+**Jason Gong:** Next time, we can start ramping that one up.
+
+**Jason Gong:** Let's see what else, the API key works.
+
+**Jason Gong:** So we'll have more leverage on publishing.
+
+**Jason Gong:** I think that's, I think that's it.
+
+**Jason Gong:** mean, there's still that open question around them.
+
+**Jason Gong:** Can we do the like, you know, modules and the cloud code stuff?
+
+**Colin Lateano:** I, I'd want, I like to, I mean, we're, for a minute, I could talk a little bit about that one is, the, the order of operations on that one is way more, way more on the components themselves.
+
+**Colin Lateano:** It would be more valuable for now to make a, to make a laundry list of components that work and run in Webflow code components, then make an, a huge amount of guides for different hosting mechanisms for hosting your apps in Webflow cloud.
+
+**Colin Lateano:** And that's not.
+
+**Colin Lateano:** Because one is more important than the other, it is the complexity of Webflow Cloud in explaining it, and there are features missing from Webflow Cloud right now, like you cannot host a database in Webflow Cloud right now, is a limiting factor of just, there's really critical parts of this that need to be added before we can really talk about it efficiently.
+
+**Colin Lateano:** So, code components, here is where, hmm, let me try to show another example set of like, where I think we should be thinking, if that's okay.
+
+**Colin Lateano:** So, like, this is a, I wouldn't call shad CN a framework, I mean, they're really not.
+
+**Colin Lateano:** But, they have an incredible amount of just, here's a bunch of components.
+
+**Colin Lateano:** Many of their components
+
+**Colin Lateano:** These really interestingly complex.
+
+**Colin Lateano:** I think it's in Webflow's best interest that we have a ShadCN-like repository that people can use, too.
+
+**Colin Lateano:** And the thing is that Webflow code component service is not a one-to-one that could host ShadCN.
+
+**Colin Lateano:** So there's nuances of our universe that would effectively, we would need to more or less rewrite many of these complex ones in order to make them work.
+
+**Colin Lateano:** And that's where I'm curious of if there's a world where we can take our best practices, our guides, any part of how currently Webflow code components work and their limitations to then be able to possibly recreate.
+
+**Colin Lateano:** Thank you.
+
+**Colin Lateano:** A laundry list of these example sets.
+
+**Colin Lateano:** And the DevRel team, you've seen Vic and Zach in some comments, they're making a few of these every month.
+
+**Colin Lateano:** Not these directly, but they're making some things every month to show, like, here's how you can build it, and here's some nuances to think about.
+
+**Colin Lateano:** And so where I'm at, though, is I don't want them to be code monkeys for life, and I'm very curious if we get the patterns down, how we could easily introduce these things.
+
+**Colin Lateano:** And also, I think part of this also would enhance the integration guides, where in some situations it might be useful to mention.
+
+**Colin Lateano:** And if, yeah, if you want a, we recommend checking out our component library to go find X also in your, that's a later bridge.
+
+**Colin Lateano:** Right.
+
+**Colin Lateano:** Makes sense.
+
+**Jason Gong:** Sure, think, like, just.
+
+**Jason Gong:** For some of these, like, I mean, your point of, like, Webflow Cloud, you guys can't have a database there.
+
+**Jason Gong:** Like, is there anything changing?
+
+**Jason Gong:** Yeah, they're working on it.
+
+**Colin Lateano:** Okay.
+
+**Colin Lateano:** But I, that's my whole thing is, like, they're working on it, but it's just, it's not, it's just not totally there yet.
+
+**Colin Lateano:** But if we could, I can make, I own the marketplace, and so if I can make a marketplace listing structure that could have people scrolling and seeing cool components for their code component inserts, and they could find the code and we can trust the code, then they can copy the code and put it onto their site.
+
+**Colin Lateano:** Yeah, let me, I think I just have to dig into this.
+
+**Jason Gong:** I'm trying to think of, like, what it even means to have, like, like, a scoped, like, little component.
+
+**Jason Gong:** Like, I guess the, the styling and the data.
+
+**Jason Gong:** Uh-oh.
+
+**Jason Gong:** Are together with it, like the data would just be like a little JSON file and it would be like, hey, you know, you can hook this up to something, but that's up to you.
+
+**Jason Gong:** But like for the purposes of this, it's just like, I'm just going to have some structured data thing that comes with the component.
+
+**Jason Gong:** So at least it has data in it.
+
+**Jason Gong:** Is that how you would, I guess I never actually looked at these component libraries and that's how they do it.
+
+**Jason Gong:** That is close to how they do it.
+
+**Colin Lateano:** But they, so like, what would be a, I'm trying to pull up, what would be a good one that would actually like display this right?
+
+**Colin Lateano:** Like a.
+
+**Colin Lateano:** Let's say like a, yeah, the styling.
+
+**Jason Gong:** Like the breadcrumb of it, like the breadcrumb of this one.
+
+**Colin Lateano:** It, there is, there is what the, there's what you would have to install potentially on cloud in order to actually add the library.
+
+**Colin Lateano:** So we can skip that part if we're just copying the code itself, but the.
+
+**Colin Lateano:** Big part is, what is the actual structure layer of how you get the data?
+
+**Colin Lateano:** So we would lay out what are the properties that are being pulled in, and we would have to highlight, well, this property means there's the class name of the library, or this code is the structure of understanding.
+
+**Colin Lateano:** Here is how you can, let's see, where does it pull the actual page name of the bread component?
+
+**Colin Lateano:** Component, probably be in the library import.
+
+**Jason Gong:** I think it's definitely doable, just on the basis of like, I can imagine opening up cursor and saying, add a breadcrumb, and it'll do roughly the right thing, you know, so.
+
+**Jason Gong:** Yeah, I'm just, it's always two parts.
+
+**Colin Lateano:** It's, it's the, inserting the code for the.
+
+**Colin Lateano:** Actual UI part of it into the code component for the UI layer of it, and then it's also what is the actual TypeScript function that runs to actually generate the data within it.
+
+**Colin Lateano:** And because Webflow is TypeScript native, we were thinking, well, this is probably the best answer for it.
+
+**Colin Lateano:** But Cursor would get it.
+
+**Colin Lateano:** As long as Cursor does it cleanly, and I think nowadays, I think Claude is doing a great job of really labeling things.
+
+**Colin Lateano:** Where we would be for a while probably is testing these and running these and seeing if they actually work, and learning the nuances of what Webflow Cloud can do versus others.
+
+**Jason Gong:** How does the style, like I guess with Chatsia, they have their own styling for Webflow.
+
+**Jason Gong:** Like, how would that work?
+
+**Jason Gong:** Styling, the whole point of our code component...
+
+**Colin Lateano:** The components is the code component then renders the React, and the React can inherit Webflow's style.
+
+**Colin Lateano:** So you set your style library, you set your class modifications of the styling, and it applies to the code component.
+
+**Colin Lateano:** So your code component just needs to represent what the React component is going to do without having its own embedded style controls.
+
+**Colin Lateano:** That's the real value, is a lot of our users were complaining that they have to do deep embeds of a lot of Webflow.
+
+**Colin Lateano:** They have to do deep embeds of complex components, but when they do a deep embed, it doesn't style with Webflow.
+
+**Colin Lateano:** So they then have to maintain in two systems.
+
+**Colin Lateano:** This is the way to say, yeah, you can make your own custom componentry if Webflow doesn't offer out the box for you, and you can inherit the style guides that we're setting.
+
+**Colin Lateano:** Nice.
+
+**Jason Gong:** And so...
+
+**Colin Lateano:** so...
+
+**Colin Lateano:** To make this truly WYSIWYG like Webflow is, then I'd want to offer a new library that could be easily contributed to.
+
+**Colin Lateano:** That would say, here's a bunch of fun things you can add.
+
+**Colin Lateano:** Right.
+
+**Jason Gong:** I think you need understand the space more.
+
+**Jason Gong:** I guess I'm thinking it's what you're saying.
+
+**Jason Gong:** It inherits my Webflow site's styling.
+
+**Jason Gong:** Mm-hmm.
+
+**Colin Lateano:** Correct.
+
+**Colin Lateano:** So I guess...
+
+**Colin Lateano:** And if it doesn't, it creates new classes in your Webflow site, and then you can go to your style manager on Webflow and set styles to those classes.
+
+**Colin Lateano:** I see.
+
+**Colin Lateano:** Okay, got it.
+
+**Jason Gong:** So this is the raw code of the actual React.
+
+**Jason Gong:** There's not a responsibility of this little component library to think about styling at all.
+
+**Jason Gong:** It might just make something really ugly once you import it into your site, but it's up to you to style it.
+
+**Jason Gong:** Correct.
+
+**Jason Gong:** But the big part is then you can import it to your site.
+
+**Colin Lateano:** That's the key selling point.
+
+**Colin Lateano:** Yep.
+
+**Jason Gong:** Okay, cool.
+
+**Jason Gong:** Are you guys making...
+
+**Jason Gong:** I don't think that makes managing a bunch of styles easier.
+
+**Jason Gong:** Did you guys do that already?
+
+**Jason Gong:** We've done that twice.
+
+**Colin Lateano:** That's not in my domain.
+
+**Colin Lateano:** We've done that twice.
+
+**Colin Lateano:** And honestly, the best style manager is a third-party add-on called FinSuite.
+
+**Colin Lateano:** They're way better at doing it than we are.
+
+**Colin Lateano:** But yeah, we've had to do it a few times.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Okay, cool.
+
+**Jason Gong:** I think as a start, what we've done with the guides of just like, let's just catalog all the things we could do.
+
+**Jason Gong:** We'll start there.
+
+**Jason Gong:** then, yeah, once we have a bit more bandwidth after the integration stuff, or as that starts to be more repeatable, we'll spend more time here.
+
+**Colin Lateano:** Yeah.
+
+**Colin Lateano:** And for what it's worth, I don't think you have any playground that has code components in it right now.
+
+**Colin Lateano:** So learning how to do this does have a part.
+
+**Colin Lateano:** Part of also, you probably want to do a couple tests of like importing code to your actual code components.
+
+**Colin Lateano:** I'm going to figure out how to also give you a workspace that you actually can test on.
+
+**Colin Lateano:** Okay.
+
+**Colin Lateano:** Yeah.
+
+**Colin Lateano:** If you could get back to me and let me know, just generally speaking, like if you think this is possibly in your wheelhouse.
+
+**Colin Lateano:** Yep.
+
+**Jason Gong:** Just like, yeah, I think we can just spend some time on it.
+
+**Jason Gong:** Do you think component wise, it's like in the order of like low hundreds, thousands, like.
+
+**Jason Gong:** Like eventually, like how many do you think there could be in this like cluster?
+
+**Colin Lateano:** I think it's hundreds and I think it's hundreds of simpler ones.
+
+**Colin Lateano:** And then I think there's novelty that may come out in here.
+
+**Colin Lateano:** Let me show you an example and then I do have to get out of here, but.
+
+**Colin Lateano:** Let's go to our GitHub.
+
+**Colin Lateano:** This is the last one DevRel team made, and they're about to update it to be also engaged better with code components, but let me just go to the public.
+
+**Colin Lateano:** If you go to our examples, where are they?
+
+**Colin Lateano:** Oh, God.
+
+**Jason Gong:** Good, I'm glad that that's not part of this now.
+
+**Colin Lateano:** How did that fall off our project's availability?
+
+**Colin Lateano:** Ah, Jesus.
+
+**Colin Lateano:** Give me a second then.
+
+**Colin Lateano:** View as public, come on, re-render responsive, devlink examples, MCP server, Webflow, Mono, no, I'm viewing as public, show me the, this is so upsetting.
+
+**Colin Lateano:** Here we go, I'll just add on it from browser, don't know where it actually exists anymore, but here is a example set of, we made this careers playground, there's 10, to demonstrate how cloud and code components work, and so this is a, these are code components.
+
+**Colin Lateano:** Oh, by the way, I'll, I only see the GitHub, you might be sharing the, I'll share this tab instead, thanks Google.
+
+**Colin Lateano:** Okay, this is the careers playground, each of these are code components, and each code component is pulling from a determinist, it's actually pulling from our greenhouse, too.
+
+**Colin Lateano:** You re-render as what is actually in our greenhouse.
+
+**Colin Lateano:** So this is our live careers page, but we are pulling each code component is a button component made by Zach Plata that is being directed from a Webflow cloud server app that is helping direct to know which code component is pulling to which unique.
+
+**Colin Lateano:** So if we deployed a new job posting, it would actually update on this page.
+
+**Colin Lateano:** And so eventually, this is the type of work the DevRel team is doing where they're showing like an example set of like, here's an entire end-to-end universe.
+
+**Colin Lateano:** I would believe there's probably a universe also where we eventually start breaking out components into the complexities of how they relate to cloud.
+
+**Colin Lateano:** And so then the components are not just importing the component and a very light backend, but a more complex backend and then the components of examples.
+
+**Colin Lateano:** But that's not where we're going first.
+
+**Colin Lateano:** I think first is, Shad Cien, do you want a button?
+
+**Colin Lateano:** And then eventually.
+
+**Colin Lateano:** Do you want a button that pulls from a given, a given API on render and services a specialty mapping?
+
+**Colin Lateano:** Yeah.
+
+**Colin Lateano:** But I think this is six months down the line after we figure out how to do a bunch of really simple structures that are not offered as presets on Webflow.
+
+**Colin Lateano:** Yep.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** That's helpful.
+
+**Jason Gong:** I will look into this.
+
+**Jason Gong:** I'm trying to think, like, if we can do this, what else can we do?
+
+**Jason Gong:** Because I think it, like, does get us deeper into the, like, creating content with real code.
+
+**Jason Gong:** So I think what we, I mean, just transparently, like, try not to do is, like, to have, like, just one-off projects that are, like, oh, growthx, know, come here, do this for, like, like, month and a half.
+
+**Jason Gong:** Because it's, like, really hard for us to internally, like, manage a ton of those.
+
+**Jason Gong:** So I will say, like, you guys are, you know, special, so, like, we'll probably do that anyway.
+
+**Jason Gong:** But, like, we try to avoid it.
+
+**Jason Gong:** So...
+
+**Jason Gong:** Yeah.
+
+**Colin Lateano:** Okay.
+
+**Colin Lateano:** If you want to avoid it, look, I don't want to press the contract and the relationship at all.
+
+**Colin Lateano:** This is clearly that you had a technical edge in the integration stuff.
+
+**Colin Lateano:** So I wanted to see if this was possible.
+
+**Colin Lateano:** If this is really not in your domain, you can absolutely push back and say, no, this is not for us.
+
+**Colin Lateano:** think there's more here.
+
+**Jason Gong:** Like, I know, like, one of the first projects we even talked about were these, like, code snippet things.
+
+**Jason Gong:** I don't know if we'll revisit at some point that Karab brought up.
+
+**Jason Gong:** Kind of like that Twilio code snippet thing.
+
+**Jason Gong:** Like, oh, here's how you embed Google Analytics.
+
+**Jason Gong:** I think there might be more here.
+
+**Jason Gong:** Like, I want to think about, like, what else we could do if we were to do this.
+
+**Jason Gong:** But leave that to me.
+
+**Jason Gong:** And then we'll get back to you soon.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** I think that's it.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Talk to you later.
+
+**Jason Gong:** Are you, should we, like, are we.
+
+**Jason Gong:** Well, good.
+
+**Jason Gong:** Next week?
+
+**Jason Gong:** we move?
+
+**Colin Lateano:** not next week.
+
+**Colin Lateano:** So neither Luke nor I will be available next week.
+
+**Colin Lateano:** We're both going work on the floor at Webflow Conference.
+
+**Colin Lateano:** Okay.
+
+**Colin Lateano:** Well, I guess we'll just do it async then.
+
+**Jason Gong:** But yeah, I mean, we're pushing on integrations.
+
+**Jason Gong:** I think that's probably the main thing.
+
+**Jason Gong:** That's the main thing for sure.
+
+**Colin Lateano:** Okay.
+
+**Jason Gong:** All right, Colin.
+
+**Jason Gong:** I'll chat with you later.
+
+**Jason Gong:** All right.
+
+**Jason Gong:** See you soon.
+
+**Jason Gong:** See you.
+
+**Colin Lateano:** See you.

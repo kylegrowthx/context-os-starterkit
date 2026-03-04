@@ -1,0 +1,1996 @@
+<metadata>
+date: 2025-10-23
+time: 16:32 UTC
+duration: 62 minutes
+organizer: george@growthx.ai
+participants: Andi Bailey, George Haikal, Jason Mercer
+fathom_recording_id: 96352338
+fathom_url: https://fathom.video/calls/449876483
+share_url: https://fathom.video/share/3nS8Wc6RcZCwLQzV_zafd_gcQ6y6q6aV
+source: fathom
+enriched_on: 2026-03-02 20:09 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Vitally discussed a platform demo to solve two critical challenges: automating client health tracking (moving beyond deliverable completion to sentiment analysis and conversation patterns) and quantifying team capacity (replacing manual Linear tracking with data-driven effort scoring). Jason Mercer demonstrated Vitally's health score engine, capacity planning system, AI-powered summaries, and call recording feature — highlighting the HighTouch plan at $43k/year as the most cost-effective for GrowthX's 50+ user base and 150-200 accounts. The team will schedule a 7-day trial with dedicated support and a follow-up meeting next Thursday to explore the sandbox and discuss implementation.
+
+---
+
+## Context
+
+GrowthX is a B2B content marketing agency delivering high-value engagements ($200k+/year) to enterprise clients. The company is evaluating Vitally as a replacement for manual client health tracking and team capacity management, both currently siloed across Notion, Linear, and individual director knowledge. Andi Bailey (GrowthX ops) and George Haikal (CEO) prioritize visibility across accounts without requiring directors to manually report — specifically seeking sentiment analysis, conversation pattern detection, and objective team workload measurement. Jason Mercer is a Solutions Architect at Vitally, the platform being evaluated.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Vitally's health score engine integrates HubSpot, Airtable, and survey data to provide unified client visibility, automating what is currently manual Notion tracking
+- Effort scoring by workstream (e.g., PSEO = 5 points) enables data-driven capacity allocation across 50+ team members and 150-200 accounts, replacing manual Linear process
+- AI-powered account summaries (from transcripts, emails, notes) reduce manual review burden and surface relationship sentiment and conversation patterns
+
+**To GrowthX Business Development:**
+- Call recording feature (replacing Fathom, saving ~$30k/yr) maintains conversation history while generating one-click AI summaries, enabling earlier escalation on at-risk accounts
+- Unlimited view-only seats provide broad cross-team visibility without seat licensing costs, supporting proactive account health monitoring
+- Custom AI prompts can analyze specific data (ICP fit, time spent per account) to identify expansion and renewal risk signals
+
+**To GrowthX Operations:**
+- HighTouch plan ($43k/year for unlimited seats) is most cost-effective vs. HybridTouch ($40k for 15 seats); pricing addresses GrowthX's 50+ user requirement
+- 6-8 week implementation with dedicated Solutions Architect ("teach to fish" not full build-out) fits professional services timeline
+- **Critical blocker:** Confirm whether call recorder requires client email on invite or if manual override/recorder email is available — impacts meeting logistics
+
+---
+
+## Overview
+
+- **Centralized Health Tracking:** Vitally can create a unified client health score by integrating data from HubSpot, Airtable, and other sources, replacing manual Notion tracking.
+- **Capacity Planning:** The platform can quantify team capacity by assigning effort scores to projects and workstreams, enabling data-driven account redistribution.
+- **AI for Efficiency:** Vitally's AI generates summaries from meeting transcripts, emails, and notes, replacing Fathom and saving significant time.
+- **Pricing & Trial:** The HighTouch plan (\~$43k/yr) offers unlimited full seats, addressing GrowthX's need for 50+ users. A 7-day trial with a Solutions Architect is available to de-risk the investment.
+
+---
+
+## Key Topics
+
+### Problem: Lack of Client & Team Visibility
+
+  - **Client Health:** No automated way to track client health beyond deliverables.
+      - **Need:** Indicators for sentiment, conversation patterns (e.g., repeated topics), and relationship-building activity.
+  - **Team Capacity:** No objective method to measure team workload.
+      - **Need:** A system to quantify effort and prevent burnout, replacing the current manual process in Linear.
+
+### Solution: Vitally Platform Features
+
+  - **Automated Health Score:** A customizable score pulls data from connected systems (HubSpot, Airtable via API/Zapier, Vitally surveys) to provide a holistic view.
+  - **Capacity Planning System:**
+      - **Effort Scoring:** Assign points to workstreams (e.g., PSEO = 5 pts) or use formula traits to calculate effort based on activity (tasks, meetings).
+      - **Reporting:** Dashboards visualize total effort per team member, enabling data-driven account rebalancing.
+  - **Project & Task Management:**
+      - **Projects:** Templatized plans with assignable tasks and discussions.
+      - **Custom Objects:** Create flexible objects (e.g., "Director Bi-Weekly Deliverables") to track specific work items.
+  - **AI for Efficiency:**
+      - **Summaries:** One-click AI summaries of all account activity (transcripts, emails, notes).
+      - **Prompts:** Custom prompts can analyze specific data, like ICP fit or time spent on an account.
+      - **Call Recorder:** Replaces Fathom, saving \~$30k/yr. **Critical Question:** Does it require a client email on the invite to join?
+
+### Implementation & Pricing
+
+  - **Implementation:** A dedicated Solutions Architect provides a 6–8 week "teach to fish" process, not a full build-out.
+  - **Pricing:**
+      - **HighTouch Plan:** \~$43,000/year.
+          - **Rationale:** Most cost-effective for GrowthX's needs (50+ users, 150–200 accounts). Includes unlimited full seats and all features.
+      - **HybridTouch Plan:** \~$40,000/year for 15 seats.
+          - **Rationale:** Less cost-effective for GrowthX's user volume.
+
+---
+
+## Action Items
+
+- **Jason Mercer (Vitally):** Email George & Andi with recap, pricing details, sandbox access, and resources (Inspiration Gallery, Academy)
+- **Jason Mercer (Vitally):** Confirm if call recorder requires external attendee email on the invite, or if manual override/recorder email is possible
+- **Jason Mercer (Vitally):** Send 1-hour calendar invite for next week (same time) to George & Andi for 7-day trial discussion and feedback session
+- **George Haikal & Andi Bailey (GrowthX):** Explore Vitally sandbox environment and review Academy resources to evaluate fit
+- **All:** Follow-up meeting next Thursday at same time to discuss trial implementation and answer technical integration questions
+---
+
+## Transcript
+**George Haikal:** Can you hear me?
+
+**Jason Mercer:** Yeah, I can hear you.
+
+**George Haikal:** Can you hear me?
+
+**George Haikal:** No, I can't hear you, but it might just be my headphones.
+
+**Jason Mercer:** Can you hear me now?
+
+**George Haikal:** I can hear you now.
+
+**Jason Mercer:** Can you hear me?
+
+**Jason Mercer:** Yes, I can hear you.
+
+**George Haikal:** I don't know.
+
+**George Haikal:** Sometimes my headphones just stop working.
+
+**George Haikal:** Decide to stay in mind of their own.
+
+**Jason Mercer:** You know, they decide to stop working.
+
+**Jason Mercer:** Yeah, or they connect to something random.
+
+**Jason Mercer:** Yeah, I feel you.
+
+**Jason Mercer:** Is Andy still joining us today?
+
+**George Haikal:** Yeah, yeah.
+
+**George Haikal:** I caught up with her guest today.
+
+**George Haikal:** She'll be here in a minute or two.
+
+**George Haikal:** Yeah, thanks for that follow-up to that email.
+
+**George Haikal:** thought it was super, super clear on everything we talked about.
+
+**George Haikal:** Is that notetaker tool that you use to create that email?
+
+**George Haikal:** You know, the same one that is part of Vitally itself?
+
+**Jason Mercer:** Yep.
+
+**George Haikal:** And was that just like a prompt that you used to?
+
+**Jason Mercer:** It's actually just the short answer is yes.
+
+**Jason Mercer:** The long answer is you can even get more prescriptive with it.
+
+**Jason Mercer:** I'll show you exactly how it works in the platform.
+
+**Jason Mercer:** But, yeah, it's literally just one click.
+
+**Jason Mercer:** Call recording goes into Vitally, associates to the meeting, full transcript, and then you just click to have the AI generate an email.
+
+**Jason Mercer:** And then you can tailor it depending on the type of meeting or things of that nature.
+
+**George Haikal:** Sweet.
+
+**George Haikal:** Yeah, Andy, hey, hey, good to see you.
+
+**George Haikal:** I was just telling Jason how good his follow-up email was on our conversation.
+
+**George Haikal:** Like, I thought if you looked at it for two minutes, you'd be super clear on what we talked about.
+
+**George Haikal:** And Vitally has a note-taker tool that they use with the platform.
+
+**George Haikal:** So that was like a one-click thing that created all of them.
+
+**George Haikal:** So, super cool thing.
+
+**Andi Bailey:** It's already looking pretty good.
+
+**Jason Mercer:** Andy, nice to meet you.
+
+**Andi Bailey:** Hi.
+
+**Andi Bailey:** another New Englander.
+
+**Andi Bailey:** Hi.
+
+**Andi Bailey:** Yes.
+
+**Jason Mercer:** Yes.
+
+**Jason Mercer:** 100%.
+
+**Jason Mercer:** Although they lost last night by one point, which was, you know, heartbreaking, but no, it's early season.
+
+**Jason Mercer:** And are you located in New England as well or reference to?
+
+**Andi Bailey:** I'm in Rhode Island.
+
+**Andi Bailey:** Ah, amazing.
+
+**Jason Mercer:** Awesome.
+
+**Jason Mercer:** Awesome.
+
+**Jason Mercer:** Well, excited to dive in again.
+
+**Jason Mercer:** Great to meet you, Andy.
+
+**Jason Mercer:** Hopefully, to George's point, I have done a solid job of recapping the initial kind of focus of our conversation.
+
+**Jason Mercer:** Obviously, our first time connecting.
+
+**Jason Mercer:** So we do want to prioritize anything that you want to ensure we touch on today.
+
+**Jason Mercer:** With that said, happy to kind of dive in.
+
+**Jason Mercer:** I know the team is looking to move fast.
+
+**Jason Mercer:** I'm one to show rather than tell.
+
+**Jason Mercer:** But just to make sure I can tailor my click path.
+
+**Jason Mercer:** I don't have like a preset demo by any means.
+
+**Jason Mercer:** Like I like to show what matters most.
+
+**Jason Mercer:** So is there anything in particular from your perspective, Andy, given the concept from the email or internal conversations that you want to focus on for today?
+
+**Andi Bailey:** Yeah, I think what I'm looking for from any tool that we choose will be like there anything that
+
+**Andi Bailey:** Things that can give indicators of overall client health, recognized patterns, and help escalate beyond, like, the people in the call.
+
+**Andi Bailey:** So ways that we can get visibility across accounts on, like, how things are going, you know, where we might be missing without, you know, having to rewatch calls or dive in with directors or, like, make them report something.
+
+**Andi Bailey:** Like, what can we pull?
+
+**Jason Mercer:** Yeah.
+
+**Andi Bailey:** Yeah.
+
+**Jason Mercer:** And from where?
+
+**Jason Mercer:** For sure.
+
+**Jason Mercer:** And knowing that right now, like, a lot of the, and correct me if I'm wrong and keep me honest here, but from my understanding, a lot of the, like, ROI and, like, achievement is around, like, the deliverables that were sold to the customer and then obviously tracking towards achievement of said deliverables.
+
+**Jason Mercer:** Is that kind of what you're talking about for, like, the alerting purposes or more than that?
+
+**Andi Bailey:** I mean, I would, I mean, this is, like, probably too much, but anything that can get us closer to.
+
+**Andi Bailey:** To, like, sentiment analysis and actually activity on, like, the director's part.
+
+**Andi Bailey:** So harder to measure, but, like, relationship building is something that we have, like, some people are better at than others.
+
+**Andi Bailey:** So we kind of get, like, late alerts on that.
+
+**Andi Bailey:** And then anything that, yeah, the deliverables is, like, that's what we get stuck in.
+
+**Andi Bailey:** So can we see that, like, do we have performance metrics or ways, not performance metrics, but ways to see that, like, we're going outside of the, this is what we're doing this week.
+
+**Andi Bailey:** And we have our blinders on and we're not thinking larger, like, across kind of the relationship and the larger contract scene.
+
+**Jason Mercer:** Yeah, no, that makes sense.
+
+**Jason Mercer:** So it's more so, like, truly the unstructured data of, like, the communication and feedback from customer meetings, email exchanges, the sentiment associated with those.
+
+**Jason Mercer:** And then, obviously, coupling in, like, are we actually achieving what the customer wants to achieve?
+
+**Jason Mercer:** So that makes perfect sense.
+
+**Jason Mercer:** And, well, I'll dive in just to kind of make sure we can touch on a couple of things.
+
+**Jason Mercer:** But you mentioned, like, surfacing the alerts.
+
+**Jason Mercer:** One quick callout that I have with Vitally is that we do provide unlimited view-only seats, and with our AI, that can be pretty impactful, which we'll touch on.
+
+**Jason Mercer:** But as far as, like, what you want to automate or alert off of, it's hard to do that with the infrastructure data, right?
+
+**Jason Mercer:** Because it is, like, sentiment analysis and things of that nature.
+
+**Jason Mercer:** Like, is it, like, hey, customer was unhappy?
+
+**Jason Mercer:** Or, like, what do you want to surface in particular?
+
+**Andi Bailey:** Yeah, I mean, customer was unhappy.
+
+**Andi Bailey:** Also, yeah, it's hard to say.
+
+**Andi Bailey:** Like, I would say even just, like, variety of topics and conversation.
+
+**Andi Bailey:** Like, is it the same?
+
+**Andi Bailey:** Are we having the same conversation every week?
+
+**Andi Bailey:** Are
+
+**Andi Bailey:** Because that should be a flag, like, you know, what's the cadence, what's, and things like that.
+
+**Jason Mercer:** Because there are plenty of customers that think we're perfectly nice, but not very valuable.
+
+**Andi Bailey:** And so, like, they're very polite on the calls, but, like, if you watch the calls, it's like, we're talking about the same six things every week.
+
+**Andi Bailey:** And we sort of, like, lose steam and lose excitement.
+
+**Andi Bailey:** I know that's harder to say, but, like, I'm just giving you a dream list.
+
+**Jason Mercer:** For sure.
+
+**Jason Mercer:** No, that makes perfect sense.
+
+**Jason Mercer:** definitely helps tailor the demo.
+
+**Jason Mercer:** So let me dive in.
+
+**Jason Mercer:** George, anything you want to add from our initial call as far as things to double down on and or focus areas?
+
+**George Haikal:** Whatever Andy needs.
+
+**George Haikal:** For sure, I like it.
+
+**George Haikal:** And then, yeah, like, the ICP stuff on my side, that's an easy filter to layer in, or easy field to layer in, just ingesting the documents we already have and using AI to, like, summarize and stuff.
+
+**George Haikal:** So, yeah, all good.
+
+**Jason Mercer:** Amazing.
+
+**Jason Mercer:** Thank you.
+
+**Jason Mercer:** Thank you.
+
+**Jason Mercer:** Can you all see my screen?
+
+**Andi Bailey:** Yes.
+
+**Jason Mercer:** So before I even dive into this table view, I do want to point the team's attention to the left-hand navigation here called hubs.
+
+**Jason Mercer:** So a hub within Vitally is essentially the ability to create a prescriptive workspace depending on the end user who logs in.
+
+**Jason Mercer:** So you will see like I have CSM here, but I'm assuming that's more aligned with like your directors.
+
+**Jason Mercer:** So it's just a change of terminology.
+
+**Jason Mercer:** We can edit that.
+
+**Jason Mercer:** That said, right now I'm in my home base.
+
+**Jason Mercer:** So as a director in this example account, I have 19 accounts.
+
+**Jason Mercer:** These are the accounts that I'm focused on, and they're all in my home base.
+
+**Jason Mercer:** This table view, just given the context that George was able to share during our last call, I have kind of customized it slightly to make it feel like very Notion asking what you guys are already tracking.
+
+**Jason Mercer:** So hopefully it feels like familiar.
+
+**Jason Mercer:** With that said, all of these data points that you're seeing here, rather than having to be manually input, they can come from different systems.
+
+**Jason Mercer:** So example, we touched on this George, but like point.
+
+**Jason Mercer:** ...
+
+**Jason Mercer:** And, you know, MRR or renewal dates or things of that nature can come directly from the deal level in HubSpot.
+
+**Jason Mercer:** So there's no need to manually copy and paste.
+
+**Jason Mercer:** Scrolling over a little bit, obviously, these are some inputs or work streams attached to the deal in HubSpot, like what a customer has purchased.
+
+**Andi Bailey:** They will be.
+
+**Jason Mercer:** Amazing.
+
+**Jason Mercer:** So those will automatically transfer over.
+
+**Jason Mercer:** So as someone who's managing more so of the post sales, I'll have that front and center across my entire business.
+
+**Jason Mercer:** You can still have manual inputs as well.
+
+**Jason Mercer:** So you guys have this kind of like health that's objective.
+
+**Jason Mercer:** We'll touch on like both automated health score, but not losing that kind of account director sentiment.
+
+**Jason Mercer:** But in this example, I can easily update that in line just like I would within Notion.
+
+**Jason Mercer:** This health score here is fully customizable.
+
+**Jason Mercer:** So it automatically calculates based off of the data that you want to input into the health score itself.
+
+**Jason Mercer:** So this can be things like, hey, we haven't had a meeting with a customer in X amount of days.
+
+**Jason Mercer:** Factor that into the health score or we got a low MPS or a poor survey result.
+
+**Jason Mercer:** Factor that into the health score.
+
+**Jason Mercer:** Factor that Factor
+
+**Jason Mercer:** I know you guys don't have too much product usage as of yet, understanding that you're going to be releasing the analytics platform for customers to log into, but things like most recent login can also be factored in there as well.
+
+**Jason Mercer:** I'll pause here.
+
+**Jason Mercer:** Again, slightly customized.
+
+**Jason Mercer:** I also have the status, because I do understand that you guys do trials, so I do want to call that out, that we do have native trial tracking.
+
+**Jason Mercer:** But outside from that, is there anything that's missing here that you would want to see from that Notion spreadsheet?
+
+**George Haikal:** Yeah, go ahead, Andy.
+
+**Andi Bailey:** I was just going to ask, like, where are we pulling the health score stuff from?
+
+**Jason Mercer:** Yeah, so that would be from any data sources that you can connect to Vitally, essentially.
+
+**Jason Mercer:** So think HubSpot information, think email communication, think meeting cadence.
+
+**Jason Mercer:** Vitally does have its own MPS and surveying functionality, so you can use that directly within the platform.
+
+**Jason Mercer:** Are there any other data points that you'd be hoping to pump into an automated health score that I haven't touched on?
+
+**Andi Bailey:** Uh, Slack and Airtable.
+
+**Andi Bailey:** don't know.
+
+**Andi Bailey:** Our two places we have, yeah.
+
+**Jason Mercer:** For sure, yeah, George should call that out.
+
+**Jason Mercer:** So our Slack, we do have a Slack integration, but it's more so data out than it is ingesting the Slack conversations.
+
+**Jason Mercer:** So there would still, like, Fina is a customer of ours.
+
+**Jason Mercer:** I know you guys have touched on those or looked at them.
+
+**Jason Mercer:** That is an integration with Vitally.
+
+**Jason Mercer:** So we can ingest Fina tickets that can be rolled up into the health score as well.
+
+**Jason Mercer:** So you have sentiment analysis on your Slack conversations.
+
+**Jason Mercer:** But that would be a third-party integration to get Slack, customer-facing Slack channels, into Vitally.
+
+**Andi Bailey:** Okay.
+
+**Jason Mercer:** Airtable, we can connect in a couple different ways.
+
+**Jason Mercer:** One is going to be via API and or Zapier as well.
+
+**Jason Mercer:** Is it more so just, like, progress of what's happening in Airtable for, like, the deliverables?
+
+**Andi Bailey:** Yeah, yeah.
+
+**Andi Bailey:** Like, kind of status, what's approved, what we've done for them, yeah.
+
+**Jason Mercer:** Perfect, yeah.
+
+**Jason Mercer:** So that we have a myriad of customers using things like Airtable, Monday, Asana, for that exact reason, we would use Zapier or API to pull those.
+
+**George Haikal:** My understanding on Slack is very few, if any, tools actually can pull in sentiment analysis from Slack conversations, right?
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** I don't know a single CSP that can pull in Slack conversations for visibility.
+
+**Jason Mercer:** There are some, just for effort of full transparency, that have a backslash command where you can access CS platform data in Slack.
+
+**Jason Mercer:** But as far as, like, ingesting the information to Slack, it's typically through a third-party integration.
+
+**Jason Mercer:** Thena is one.
+
+**Jason Mercer:** I obviously know because they're a customer of ours, we use Thena internally.
+
+**Jason Mercer:** And then there's another one called, I think it's User Threads.
+
+**Jason Mercer:** If you guys haven't checked them out, recommend that.
+
+**Jason Mercer:** They can actually push to our native conversation object, so you can see the full back-and-forth conversation with Invitaly as well.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Yeah, Andy, we demoed Thena, like, two weeks ago.
+
+**Andi Bailey:** That was, like, the ticketing thing that basically bundled Slack.
+
+**Jason Mercer:** Oh, yeah.
+
+**George Haikal:** And then question for you, Andy.
+
+**George Haikal:** Here, so on the overall health score,
+
+**George Haikal:** We're trying to track against four different metrics.
+
+**George Haikal:** Some are more qualitative, like relationship, which is meeting cadence, call sentiment analysis from those meetings.
+
+**George Haikal:** Like, hey, is the director being proactive?
+
+**George Haikal:** Are we like, is there good energy that we're getting from like the stakeholder that they seem bought in?
+
+**George Haikal:** And then there's more quantitative stuff like adherence to contract.
+
+**George Haikal:** Like how close are the actions we're taking aligned with like the actual goals we set out to in our SoW and our contract?
+
+**George Haikal:** And then there's like performance, ROI, things like that.
+
+**George Haikal:** so, Andi, I was wondering how you're thinking about this.
+
+**George Haikal:** Well, two things.
+
+**George Haikal:** Jason, it sounds like that's possible, but just confirming that here.
+
+**George Haikal:** then, Andi, like, how are you thinking about it here?
+
+**George Haikal:** Like, is each one of those a separate field that gets rolled up into an overall health score?
+
+**George Haikal:** Like, how do you manage it now?
+
+**George Haikal:** Like, it seems like it's an important thing moving forward, so.
+
+**Andi Bailey:** Yeah, it's self-reported now.
+
+**Andi Bailey:** Wow, I think we...
+
+**Andi Bailey:** Well, I wonder that some of the, like, deliverable health stuff will live in Atlas.
+
+**Andi Bailey:** So this will just be a check on, like, the other things, the things that the directors should be owning or, like, the strategists should be owning in terms of, like, connecting the dots and managing the relationship in the way that we want.
+
+**George Haikal:** But even if it lives in Atlas, would you want to see it all in one place?
+
+**Andi Bailey:** I mean, ideally, yes.
+
+**Andi Bailey:** But that sounds like we could use a Zapier integration if you're saying that those are possible.
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** Zapier integration is possible.
+
+**Jason Mercer:** I know you guys are also using Looker dashboards to communicate with clients.
+
+**Jason Mercer:** I think, and this is, like, I would say I'm meeting my technical depths here, but it seems like each customer has their own individual Looker dashboard.
+
+**Jason Mercer:** But obviously, you're associating specific metrics with those customers in those dashboards.
+
+**Jason Mercer:** Is that coming from, like, an internal data warehouse, per se, or?
+
+**Andi Bailey:** It's coming from there, GSC or GA4.
+
+**Jason Mercer:** Yep.
+
+**Jason Mercer:** Okay.
+
+**Jason Mercer:** And so there's no, like, full data repository, if you will, until you guys have that SaaS application that you can hand over to clients.
+
+**Jason Mercer:** Right.
+
+**Jason Mercer:** Okay.
+
+**Jason Mercer:** So there's, in that regard, until that's in place, as it relates to, I would say, like, the deliverables, we have, like, a goal tracking feature that you can use.
+
+**Jason Mercer:** But, again, that's still most likely going to be a manual input.
+
+**Jason Mercer:** So what I would recommend here, because, like, let me just kind of continue.
+
+**Jason Mercer:** So in this example, going to Ramp, who I know is a current customer of yours, just based off of, you know, the website, I have this thing called weekly deliverables, which is a note on the accounts, which will populate predefined information for the account director that they can fill out here.
+
+**Jason Mercer:** Now, I have some predefined fields that, again, were relevant from that Notion spreadsheet.
+
+**Jason Mercer:** Depending on how you guys want to track this, you could have fields on the account that, as I'm meeting with a customer, the account manager.
+
+**Jason Mercer:** So in this example, this is really what we would call CSM Pulse, but imagine having this being named something along the lines of like customer deliverable, I don't know, outcome, right?
+
+**Jason Mercer:** And you would have the employee for CSM to come in here, time and place, you could rank it on a scale of one to five to make it a numerical value that you trend over time, so on and so forth.
+
+**Jason Mercer:** But going into a meeting, essentially, you can predefine what our account director is responsible for, they fill this out on the call, it's attached to the accounts, and all of these fields would roll up natively to the account level as well.
+
+**Andi Bailey:** Okay.
+
+**Jason Mercer:** Any questions there?
+
+**George Haikal:** No, that makes sense.
+
+**Andi Bailey:** Basically, Andy, like the five different scores.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** By week, essentially, it would all roll up to like an average level.
+
+**Jason Mercer:** Yeah.
+
+**Andi Bailey:** Um, can we have like status in terms of life cycle reflected?
+
+**Andi Bailey:** Anywhere in the book of business?
+
+**Andi Bailey:** George, I'm thinking like clients going through strategy sprint measured differently, like in calibration, and then like pre-renewal clients, like those might just be here in the standard book of business, but like, can you create categories here?
+
+**Jason Mercer:** Yeah, 100%.
+
+**Jason Mercer:** So there's two ways to go about that.
+
+**Jason Mercer:** And that's also where automation comes into play, depending on how you guys want to tag customers.
+
+**Jason Mercer:** I'll show you in the back end settings really quick.
+
+**Jason Mercer:** So you'll notice here that I have account segments.
+
+**Jason Mercer:** And you can think of, in vitally, terminology segments are just labels that can essentially be multi-select or kind of string formats.
+
+**Jason Mercer:** So for onboarding, like, I'll just rename this for sake of conversation, but it was a strategy sprint or strategic sprint?
+
+**George Haikal:** Strategy.
+
+**Jason Mercer:** Strategy sprint.
+
+**Jason Mercer:** Perfect.
+
+**Jason Mercer:** So now...
+
+**Jason Mercer:** Very easily across my own book of business, I could tag our customers and filter down to my accounts that are in that kind of life cycle stage.
+
+**Jason Mercer:** And you'll notice that they can be a part of multiple different segments for life cycle stages.
+
+**Jason Mercer:** So it could be, you know, strategy sprint and also enterprise client or ICP perfect versus ICP bad.
+
+**Jason Mercer:** like you can use these labels interchangeably as you want to see fit.
+
+**Jason Mercer:** It's really just so you can quickly automatically tag and or migrate them from one stage to the other.
+
+**George Haikal:** So like pre-renewal, renewing, all 100% possible.
+
+**George Haikal:** It makes sense.
+
+**George Haikal:** Could we do any like capacity planning and headcount analysis?
+
+**George Haikal:** So like I'm looking here at Richard Hendricks, which is like the person staffed on the account.
+
+**George Haikal:** If we can associate a number to the account.
+
+**George Haikal:** So like Richard has eight total points that he can spread across a number of accounts.
+
+**George Haikal:** If IO pipe is taking him four, he has four left, right?
+
+**George Haikal:** So and then wherever else that is spread, like we could gauge his capacity and what accounts he's currently on.
+
+**George Haikal:** So.
+
+**George Haikal:** Is that possible here?
+
+**Jason Mercer:** I would want to further understand how you guys are quantifying the points.
+
+**Jason Mercer:** And, like, what would determine, you know, the four points, like, AislePipe is taking four points out of the eight.
+
+**George Haikal:** The difficulty of execution.
+
+**George Haikal:** Like, how much effort is this going to take?
+
+**George Haikal:** Is it a large bet?
+
+**George Haikal:** Is it a medium bet?
+
+**George Haikal:** Is it a small bet?
+
+**Jason Mercer:** And just to make sure I'm fully aligned, is that just, like, self-assessment?
+
+**Jason Mercer:** Like, Richard would come in and say, like, AislePipe is an eight out of ten.
+
+**Jason Mercer:** Or, yeah, where are you guys pulling that from?
+
+**George Haikal:** So this is all happening as we speak and, like, for the rest of the week, we're building this out.
+
+**George Haikal:** But right now, we don't have a system for, like, really gauging the different types of work that directors, people in the accounts are doing.
+
+**George Haikal:** like, how much effort it takes and, like, where everyone's capacity is.
+
+**Jason Mercer:** So the short answer, because it seems still, like, in formulation, I'm going to do my best to align here.
+
+**Jason Mercer:** You can create.
+
+**Jason Mercer:** It's formula traits within Vitally.
+
+**Jason Mercer:** So in this example, I could say, hey, I want to look at, I'll just say, activity, open task counts, plus number of meetings had, plus number of whatever, whatever, whatever, to quantify an effort score within Vitally.
+
+**Jason Mercer:** That will be per account.
+
+**Jason Mercer:** Then you can roll that up and say, hey, across Richard's book of business, what is his effort score across his accounts?
+
+**Jason Mercer:** Once it goes over 100, we know we need to transition X amount of accounts out of his name.
+
+**Jason Mercer:** Is that on par?
+
+**Jason Mercer:** Am I explaining that effectively?
+
+**George Haikal:** Yeah, I understand how you're explaining it.
+
+**George Haikal:** think it's directionally accurate.
+
+**George Haikal:** don't even know.
+
+**George Haikal:** mean, both would be interesting, right?
+
+**George Haikal:** Like tracking the actual actions that people are taking, meetings they're having, activities they're doing, but also like at a high level, what is the work stream that works on the account?
+
+**George Haikal:** And like, we could just assign a score to a work stream and then a director has four of those different ones on like a traditional.
+
+**George Haikal:** And then a more customer will be weighted heavier.
+
+**Jason Mercer:** So it sounds like if it can do the former, then the latter is easier.
+
+**Jason Mercer:** Yeah, exactly.
+
+**Jason Mercer:** So like in this example, we could say if the customer has purchased, I saw like PSEO.
+
+**George Haikal:** I don't even know what that means.
+
+**George Haikal:** I'm not even going to pretend to.
+
+**Jason Mercer:** But PSEO is equal to a five.
+
+**Jason Mercer:** And if customer has, you know, whatever other work stream, that's equal to a 10.
+
+**Jason Mercer:** Quantify the effort score, likelihood of effort for this customer, and then total that up across Richard's book of business to make sure he doesn't go over a certain threshold.
+
+**George Haikal:** Yeah, that's helpful.
+
+**George Haikal:** And Andi, I'm bringing that up because I'm like working with Bridget today on operationalizing the director or restructure or whatever, like trying to figure out a better way with everybody.
+
+**George Haikal:** So I'm assuming this type of tracking would be helpful, right?
+
+**Andi Bailey:** Well, in that case then, yeah.
+
+**Andi Bailey:** Could you like, can you create almost tickets, right?
+
+**Andi Bailey:** Because that's the way Bridget's thinking about it.
+
+**George Haikal:** Yeah, because right now we're going to duct tape it in linear.
+
+**Jason Mercer:** Right.
+
+**Jason Mercer:** Oh.
+
+**Jason Mercer:** So I'm going to show you what I have, like, this is just an example, so I don't want to pigeonhole this by any means, but, like, this is, like, just talking about, like, the hub functionality.
+
+**Jason Mercer:** I have something that's built out for capacity planning.
+
+**Jason Mercer:** And so imagine rather than, like, open task for CSM, we could say, like, total effort score for each CSM or for each account.
+
+**Jason Mercer:** So you could report on it and have, like, a numerical value here.
+
+**Jason Mercer:** And in this example, we would clearly see that Richard's effort score across his book of business is 218, and the next person is at 156.
+
+**Jason Mercer:** So that means we've overloaded Richard based off of the customers we handed him, and we need to kind of redistribute the accounts.
+
+**George Haikal:** That makes sense.
+
+**George Haikal:** And just, like, getting a little more granular to make sure or to see if it would be helpful for exactly what we're trying to do.
+
+**George Haikal:** Basically, we have directors who are doing the work right now, and right now it's being managed, but at scale it's not going to work the way it's currently being managed.
+
+**George Haikal:** And so what we're trying to do is every two weeks, each director reports what are their goals for their accounts that they have.
+
+**George Haikal:** For these two weeks.
+
+**George Haikal:** In two weeks, what do you want to have done?
+
+**George Haikal:** Each one of those things is a ticket that has an assigned value to the ticket itself.
+
+**George Haikal:** How much effort is it going to take to actually do?
+
+**George Haikal:** Hey, I need to work on the strategy for these two accounts, and I need to work on the execution and the pipelines for this other one.
+
+**George Haikal:** Cool.
+
+**George Haikal:** That all has points associated with it.
+
+**George Haikal:** And those tickets also, they can be assigned to other people to help, but they also are tied to the five health scores that we're tracking.
+
+**George Haikal:** So the director will say, I'm doing these five things for the next two weeks.
+
+**George Haikal:** This is my focus areas.
+
+**George Haikal:** These are the numbers I've wanted to improve and move on our overall client health score.
+
+**George Haikal:** And so now we're doing that in linear as templates, but we're wondering if that process can be managed here as well.
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** So what I would recommend there is a custom object.
+
+**Jason Mercer:** And just to make sure I'm aligned, like as a director, I'm creating like one of these effort kind of scores or my deliverables for the next two weeks per account, right?
+
+**George Haikal:** like it would create a ticket per account and then quantify that.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Yeah, yeah, pretty much.
+
+**George Haikal:** Yep.
+
+**Andi Bailey:** Right, Annie?
+
+**Andi Bailey:** Yeah.
+
+**Jason Mercer:** So I'm just going to call this director bi-weekly Liverpools.
+
+**Jason Mercer:** And let's see, admin team members, save that.
+
+**Jason Mercer:** Cool.
+
+**Jason Mercer:** Let's go to custom traits.
+
+**Jason Mercer:** So first, I'm just going to say, focus areas.
+
+**Jason Mercer:** I'll make that text area.
+
+**Jason Mercer:** We're going need traits.
+
+**Jason Mercer:** Metrics.
+
+**Jason Mercer:** Impacted metrics slash outcomes.
+
+**Jason Mercer:** Would you want this to be standardized or more of like an open text?
+
+**Jason Mercer:** Like, meaning like a string, you want them to select core KPIs for the accounts?
+
+**Andi Bailey:** Or?
+
+**Andi Bailey:** No, I would want it to be open text.
+
+**Jason Mercer:** Open text is perfect.
+
+**Jason Mercer:** Next area.
+
+**Jason Mercer:** And then I'm going to keep this one simple, and I'm just going to say create, and then I'll say effort, score, I'm to make this a string one, well, no, I'll keep it a string for now, but.
+
+**George Haikal:** Because I'm watching poetry promotion right now.
+
+**Jason Mercer:** Super, I'm sure once you guys get in here, it'll feel very similar.
+
+**Jason Mercer:** It's probably, like, one of our biggest differentiators in the market, specifically because, like, our CTO, our CEO and co-founder was a previous CCO and CTO, and he was like, the other platforms in the market are just so complex to navigate, like, I need something that's easy, and hence the birth of Vitally.
+
+**Jason Mercer:** So, in this example, I'm a director, I go to RAMP, I have to create my bi-weekly deliverables, because this is my account, I come in here, I'm going to just.
+
+**Jason Mercer:** Throwing numbers in, focus areas is...
+
+**Andi Bailey:** Can I assign something to someone else?
+
+**Jason Mercer:** Let me see.
+
+**Jason Mercer:** Can you do it?
+
+**Jason Mercer:** No.
+
+**Jason Mercer:** So on the custom object, you wouldn't assign here.
+
+**Jason Mercer:** You can create associated tasks on the account level, but not on this specific aspect.
+
+**George Haikal:** Okay.
+
+**George Haikal:** What level is this?
+
+**George Haikal:** Because this is an account level, and then it's zoomed in one or two more?
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** So this is an associated object.
+
+**Jason Mercer:** So think of this as like a deal coming over from HubSpot, or a Jira issue, or now a custom object that's associated.
+
+**Jason Mercer:** So you can have...
+
+**Jason Mercer:** It's one to many.
+
+**Jason Mercer:** Now, as far as like...
+
+**Jason Mercer:** Let me think about this really quick.
+
+**Jason Mercer:** Because there is another way that we could do this.
+
+**Jason Mercer:** I don't want to make this convoluted, but like for these weekly deliverables, as a director, right, I'm saying, hey, this is what I want to accomplish, and then I'm assigning who should do what.
+
+**Andi Bailey:** Yeah, well...
+
+**Andi Bailey:** It's more of an escalated request.
+
+**Andi Bailey:** So the directors like to help with prioritization, they sort of manage, for lack of a better word, like a CS team.
+
+**Andi Bailey:** But the CS team lacks like a skill set for certain escalated tasks that don't need to be done more than like monthly.
+
+**Andi Bailey:** Um, in terms, they're just like required an additional level of marketing expertise.
+
+**Andi Bailey:** So the, like CSM would file a ticket and like from JIRA, you know, that's why we're doing it in linear right now.
+
+**Andi Bailey:** Where they say like, like flag this, I need a director's help.
+
+**Jason Mercer:** Like, uh, okay.
+
+**Jason Mercer:** So, sorry.
+
+**Andi Bailey:** And just to make sure.
+
+**Andi Bailey:** that what you're thinking about?
+
+**George Haikal:** Yeah, I think it's both, right?
+
+**George Haikal:** Like some, like the account strategist or whatever could flag to a director, but a director themselves could also identify.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Well, yeah.
+
+**Andi Bailey:** And then, like, so the director basically has to, like, reset the account strategy and then, like, assign out the actions to the CS.
+
+**Andi Bailey:** So, yeah, I want it to be bi-directionally assignable.
+
+**Andi Bailey:** So, like, it is linear.
+
+**George Haikal:** It's a project linear.
+
+**George Haikal:** Don't you want to do it at, like, a director level versus at an account level?
+
+**George Haikal:** Don't you want to, like...
+
+**Andi Bailey:** No, because I want the activity to be associated with the account and then the director go in and pull the activity, like, from any account.
+
+**George Haikal:** Isn't that the idea of the pooled model?
+
+**George Haikal:** Yeah, I was just thinking pooled by people versus pooled by account.
+
+**George Haikal:** But that makes sense.
+
+**George Haikal:** I guess they both work.
+
+**Jason Mercer:** So, just to kind of showcase, and this is where, like, there's a couple different...
+
+**Jason Mercer:** From what I'm gleaming, there's a couple different ways to go about this.
+
+**Jason Mercer:** Because we do have legit, like, project planning with...
+
+**Jason Mercer:** And so in this example, I could literally create a project plan from scratch or have something that's already like templatized of like, Hey, here's my weekly deliverable project plan.
+
+**Jason Mercer:** I'm just going to use onboarding.
+
+**Jason Mercer:** For example, it comes with like, you know, templatized tasks.
+
+**Jason Mercer:** And then this could have specific assignees that I adjust and say, Okay, this person, this person do that.
+
+**Jason Mercer:** And all I would really do is maybe like, in the overview, you know, change, like what information is here, like, this is what I'm trying What's also nice is it comes with a discussion aspect.
+
+**Jason Mercer:** So if there are multiple people working on a singular project, I can have that entire conversation here.
+
+**Jason Mercer:** Everyone can see who's assigned to what task.
+
+**Jason Mercer:** And as things get checked off, we can see the percentage to completion.
+
+**Jason Mercer:** So there is a world where we can do that very easily.
+
+**Jason Mercer:** We can templatize maybe the first thing.
+
+**Jason Mercer:** So whoever's supposed to fill out this account deliverables, that's templatized.
+
+**Jason Mercer:** And then again, I can come in here and add as many subtasks as I need to.
+
+**Andi Bailey:** to associate to this overarching project.
+
+**Andi Bailey:** here's a question.
+
+**Andi Bailey:** If we were to buy this and implement this, do you guys build all this out for us?
+
+**Jason Mercer:** Do we have to hire a consultant to do this?
+
+**Andi Bailey:** For sure.
+
+**Jason Mercer:** Because there's a lot of random details here, and we are like, what does that look like?
+
+**Jason Mercer:** Yeah, great question.
+
+**Jason Mercer:** Because it's like, yeah, I'm in, but we're basically in CRM level here.
+
+**Jason Mercer:** Yeah, for sure.
+
+**Jason Mercer:** So the short answer is standard, like, typically we don't build for you.
+
+**Jason Mercer:** We do have a professional services offering, so like we can, but more often than not, we can get teams up and running fairly quickly.
+
+**Jason Mercer:** Now, the reason that is, is during implementation, you do have a dedicated solutions architect, someone who will walk you through, train you on the platform.
+
+**Jason Mercer:** We're more in that kind of like teach the team to fish rather than fishing for you.
+
+**Andi Bailey:** So if you want to change and iterate.
+
+**Andi Bailey:** So how much time do we get with your solutions architect?
+
+**Jason Mercer:** Yeah, so it's.
+
+**Jason Mercer:** There's no, like, time-based aspect to it.
+
+**Andi Bailey:** So, yeah, let me finish.
+
+**Andi Bailey:** I've let implementation before and said, cut them off now.
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** So our average implementation time frame from, like, street to seat is six to eight weeks on our side.
+
+**Jason Mercer:** So that's once that is integrated to once your team is actually, like, trained on the platform.
+
+**Andi Bailey:** And the reason is...
+
+**Andi Bailey:** how much, like, how many calls do we get with your guy?
+
+**Jason Mercer:** Yeah, it's typically a weekly, hourly call.
+
+**Jason Mercer:** But when I say about time-bound, like, let's say we go over the eight-week time frame, right?
+
+**Jason Mercer:** It's not like you just lose that solutions architect.
+
+**Jason Mercer:** And the reason that is, is they are working off a full project because we, you know, drink our own champagne, eat our own dog food, however you want to call it.
+
+**Jason Mercer:** They have a set list of tasks that they will build with you on the kickoff call to say, hey, here's what we're going to accomplish.
+
+**Jason Mercer:** Once that final task is complete, you are then handed off to the CS team for ongoing optimization.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Okay, great.
+
+**Jason Mercer:** And then one other tidbit I do want to call out is...
+
+**Jason Mercer:** Especially given the lift, is we do have a full blueprint library.
+
+**Jason Mercer:** Now, not everything out of the box, given like your edge use cases, are going to be a perfect fit.
+
+**Jason Mercer:** But for purposes, if I were to go to project templates, we have a couple of different project templates.
+
+**Jason Mercer:** So like stakeholder plan, onboarding projects, that you come in here, you can look and see like what we built.
+
+**Jason Mercer:** And then you just say, add this blueprint.
+
+**Jason Mercer:** And then you would just change like, rather than sales, handover, or plan, to weekly deliverables.
+
+**Jason Mercer:** And it's already built out.
+
+**Jason Mercer:** You just have to customize it to like your internal motion or terminology.
+
+**Jason Mercer:** And that's where the solution architect helps.
+
+**Andi Bailey:** Cool.
+
+**Andi Bailey:** Can we look at your capacity planning piece?
+
+**Jason Mercer:** Yeah, for sure.
+
+**Jason Mercer:** Like that dashboard I was on?
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** That was performance.
+
+**Jason Mercer:** Let me go back to capacity planning.
+
+**Jason Mercer:** Perfect.
+
+**Jason Mercer:** And just to call it out.
+
+**Jason Mercer:** So like that project I was just on, right?
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** You can report on how many open projects are owned by each of the CSMs, for example.
+
+**Andi Bailey:** Can we look at projects per account by CSM?
+
+**Jason Mercer:** Projects per account.
+
+**Jason Mercer:** I think so.
+
+**George Haikal:** I imagine you can just layer it in.
+
+**Jason Mercer:** Filters.
+
+**Jason Mercer:** Let me do, I want to do a stacked bar here.
+
+**Jason Mercer:** Group by account.
+
+**Jason Mercer:** Essentially, yes.
+
+**Jason Mercer:** So I could see, like, is this what you meant?
+
+**Andi Bailey:** Yeah, yeah.
+
+**Jason Mercer:** So 100% possible.
+
+**George Haikal:** And then, Andy, objects per account per person would be the director ticketing thing, right?
+
+**George Haikal:** Essentially.
+
+**Andi Bailey:** Yeah, yeah.
+
+**Andi Bailey:** So it's, yeah.
+
+**Andi Bailey:** So that's, like, do you assign, because this is, like, projects that the client has, or that the CSM has, like, written as tasks for themselves?
+
+**Andi Bailey:** Or as, like, are projects here work streams of, like, contracted pieces of deliverables?-
+
+**Jason Mercer:** It can be both.
+
+**Jason Mercer:** Yeah, don't want to pigeonhole us to projects.
+
+**Jason Mercer:** For example, I can say, hey, I only want to report here on onboardings that have a category of, you know, onboard, or projects that only have a category of onboarding.
+
+**Jason Mercer:** Okay, that didn't populate.
+
+**Jason Mercer:** But you get the, like, you can categorize the type of project.
+
+**Jason Mercer:** So you could have one dashboard for, like, how we're managing work streams, and another dashboard for, like, account deliverables or something like that.
+
+**Andi Bailey:** I don't know if they're doing it internally, but 100% possible.
+
+**Andi Bailey:** Yeah, because I think, like, one thing that we don't have visibility of now is, like, people say they're overloaded, but we can't see, like, the activities that they're taking across the accounts that they own.
+
+**Andi Bailey:** And so, like, are they spending too much time on one account that's, like, not worth it, or, you know, stuff like that.
+
+**Andi Bailey:** So that's why I'm asking that.
+
+**Jason Mercer:** For sure.
+
+**Jason Mercer:** Yeah, that's, like, again, we'll take some massaging, like, it's not out of the box, but we can definitely quantify, like, time spent on a project.
+
+**Jason Mercer:** And just to kind of show you, I'm going to go to...
+
+**Jason Mercer:** To-do's for, like, a director of CSM, like, in this example, I can see all of my active projects, whether it's for onboarding, renewal, or one of my deliverables for the week.
+
+**Jason Mercer:** You can set target completion dates.
+
+**Jason Mercer:** You can see how long it's been open.
+
+**Jason Mercer:** You can have statuses associated.
+
+**Jason Mercer:** So, like, all of these sub-data points you can report on out of the box, and then you can also create additional traits that you would want to have more granularity to.
+
+**Andi Bailey:** Okay, yeah.
+
+**Jason Mercer:** Any other questions based off of that use case?
+
+**Andi Bailey:** So, I'm curious, for your existing clients, like, what's time spent on the platform?
+
+**Jason Mercer:** Like, yeah.
+
+**Jason Mercer:** Like, for setup?
+
+**Jason Mercer:** Or, like?
+
+**Andi Bailey:** No, like, once you're a lot up and running, how much time is an individual CSM spending in this platform?
+
+**Jason Mercer:** Like, what do you guys measure as success?
+
+**Jason Mercer:** Yeah, so, success for, like...
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** We want Vitally to be centralized source of truth.
+
+**Jason Mercer:** So actually like more frequency of login and adoption is like one of our key aspects.
+
+**Jason Mercer:** The secondary thing is also the efficiency gain for end users.
+
+**Jason Mercer:** That's like, so to give context, we haven't even touched on this portion yet.
+
+**Jason Mercer:** Like the AI, that's one of our key features that we track of like, hey, how often is your team running AI summaries on their accounts?
+
+**Jason Mercer:** Because we know that is a massive time save versus having to look at call recordings, look at emails, look at notes.
+
+**Jason Mercer:** And so, for example, one of the things that we would hope to have AMs doing is coming in here and saying, hey, I want to generate a default summary about this account.
+
+**Jason Mercer:** I'm not going to, I'll just click to this one here.
+
+**Jason Mercer:** In this example, the AI is looking at meeting transcripts, email conversations, notes on the account, MPS, survey results, and any other custom objects associated to give your team an overview of what's happening with the account.
+
+**Jason Mercer:** This is also a custom summary aspect.
+
+**Jason Mercer:** So, I kind of believe...
+
+**Jason Mercer:** I don't know if I've run it yet in this one, but I have one for account planning.
+
+**Andi Bailey:** Say that again?
+
+**Jason Mercer:** Just about the prompt.
+
+**Jason Mercer:** Yeah, exactly.
+
+**Jason Mercer:** So you can come in and edit.
+
+**Jason Mercer:** And this is where I started to play with, to your point, George, like the ICP fit score.
+
+**Jason Mercer:** I wasn't too sure what that would look like, but you can see that it spits out certain information as it relates to what's happening with the accounts, critical actions, and kind of everything that I've input here.
+
+**Andi Bailey:** And that also provides action plans and next steps.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Actually, that would be really interesting, George, if we could be like, this client is outside of our ICP and the prompt, like have a prompt that's like non-ICP, and then be like, pull an account summary, is the person spending too much time on the account based on everything that we're seeing?
+
+**George Haikal:** Or even just a prompt that we can run recurrently, which is literally like how much time is this person spending on, well, I guess they'd only do for calls.
+
+**Andi Bailey:** Well, yeah, because, like, for, in terms of...
+
+**Andi Bailey:** In of tasks, we thinking, like, George, would this take the place of, like, a GeekBot?
+
+**Andi Bailey:** So instead of GeekBot, you are building out your week plan in Vitally, and then...
+
+**George Haikal:** It's easy to do.
+
+**George Haikal:** I thought that would make it easier for you to manage.
+
+**Andi Bailey:** Yeah, it would.
+
+**Andi Bailey:** Because, well, because otherwise they're not going to do the updates.
+
+**George Haikal:** Like, we need to see all their tasks laid out here.
+
+**George Haikal:** The ticketing system right now, which will be in linear, and maybe this in the future, like, that in and of itself would replace GeekBot.
+
+**George Haikal:** Because it's, like, here are all the things that I'm trying to do over the next week or two weeks, whatever that period is.
+
+**Andi Bailey:** Yeah, but that's on the strategist level.
+
+**George Haikal:** I'm thinking on the Emmy level, too.
+
+**George Haikal:** I mean, how beneficial are the GeekBot reports to you right now?
+
+**George Haikal:** Like, could they just be pulled in here into, like, a project or a task and then all in one place?
+
+**George Haikal:** Yeah.
+
+**George Haikal:** A bit more upfront setup on the Emmy or the...
+
+**Andi Bailey:** Right.
+
+**Andi Bailey:** I mean, I would want them to break it out into individual...
+
+**Andi Bailey:** Tasks of, like, what they're doing.
+
+**George Haikal:** You can do it here.
+
+**George Haikal:** Yeah, exactly.
+
+**George Haikal:** Templates, right?
+
+**George Haikal:** Like, the strategy sprint template could have the project, but then all the different tasks that need to get done.
+
+**George Haikal:** And then they can sign automatically to the ME that's on the account on the strategy sprint.
+
+**Andi Bailey:** Yeah, that's the strategy sprint.
+
+**Andi Bailey:** I'm thinking long-term management.
+
+**Andi Bailey:** Because, like, you know, the other problem is, like, the ramps of the world, right?
+
+**Andi Bailey:** They're – somebody says they're overloaded because they're not using Atlas.
+
+**Andi Bailey:** And so, like, okay, you say you're overloaded.
+
+**Andi Bailey:** What are you actually doing and why is it taking you so long?
+
+**Andi Bailey:** Well, you're not using the tool and so the tool isn't getting better.
+
+**Andi Bailey:** And so, like, we're sort of – but, like, we're just seeing that from, like, we know that they're hiring freelancers.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** I mean, you can do that here, too.
+
+**George Haikal:** Like, by a work stream or by account, you can break down all the different things we're doing.
+
+**Andi Bailey:** Yeah, yeah, yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Okay, so was the pricing here by seat or by how?
+
+**Jason Mercer:** It's by seat and by account.
+
+**Jason Mercer:** So there's two variable components, how many people you want in the platform, and then how many accounts you're tracking.
+
+**Jason Mercer:** My understanding is you guys are about 60 accounts today, but growing fairly quickly.
+
+**Jason Mercer:** Do you know where you'll land?
+
+**Jason Mercer:** Again, I'm happy to share.
+
+**Andi Bailey:** I mean, we're like one to two a week forever.
+
+**Jason Mercer:** For sure.
+
+**Jason Mercer:** And then how many, so, and just as a refresher, Vitally provides unlimited view-only seats, so anyone at the company can log in and access data, but who needs to be, like, completing tasks and, like, engaging with customers?
+
+**Andi Bailey:** How many seats are we talking about there?
+
+**Andi Bailey:** Yeah, a lot.
+
+**Jason Mercer:** A lot.
+
+**Andi Bailey:** A lot, but we've got to think about Wait, hold on.
+
+**Andi Bailey:** Hold on.
+
+**Andi Bailey:** I need to count.
+
+**Andi Bailey:** I can't.
+
+**Andi Bailey:** I
+
+**Andi Bailey:** I don't know how to count in notion.
+
+**George Haikal:** Okay.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** It's like at least 50.
+
+**Jason Mercer:** At least 50.
+
+**Andi Bailey:** Yeah.
+
+**Jason Mercer:** Okay.
+
+**Jason Mercer:** So let me pull this up.
+
+**Jason Mercer:** So what's nice is given that volume, will truly just given your employee size on LinkedIn was not expecting 50 full seats, but absolutely no problem.
+
+**Jason Mercer:** actually have a plan that's going to be fairly cost effective.
+
+**Jason Mercer:** In comparison to the market.
+
+**Jason Mercer:** So let me pull this up really quick.
+
+**Jason Mercer:** And just to forecast, because like we do have an annual contract, right?
+
+**Jason Mercer:** So like if you had to, you know, put finger in the air and say, this is where we'll be in 12 months from number of accounts.
+
+**Jason Mercer:** Are we talking like 200, 150?
+
+**Andi Bailey:** I would say we're at 150.
+
+**Jason Mercer:** 150?
+
+**Jason Mercer:** Okay.
+
+**Jason Mercer:** Not a problem.
+
+**Jason Mercer:** I'm just more so curious to align here.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Well, yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Oh, God.
+
+**Andi Bailey:** Depends on, let's say 200.
+
+**Jason Mercer:** 200?
+
+**Jason Mercer:** Okay.
+
+**Jason Mercer:** That's still not too big of a jump.
+
+**Jason Mercer:** And sorry, I switched tabs.
+
+**Jason Mercer:** Can you guys see, like, TechTouch?
+
+**Jason Mercer:** Okay.
+
+**Jason Mercer:** So we have three separate plan types, but they all come with the exact same functionality.
+
+**Jason Mercer:** I want to be very clear.
+
+**Jason Mercer:** Do not mind the name of the plan too much.
+
+**Jason Mercer:** There's no difference in one plan or the other, other than how it scales.
+
+**Jason Mercer:** To give you context, TechTouch plan starts with one seat and 5,000 accounts, more so for scaled models.
+
+**Jason Mercer:** HighTouch is going to be your best friend because it comes with unlimited full seats and 100 accounts to start.
+
+**Jason Mercer:** It grows in increments of 50 accounts at $1,000 per year versus the TechTouch plan, which grows in increments of 2,500 accounts at $1,000 per year.
+
+**Jason Mercer:** But then there's a cost associated with the seats there.
+
+**Andi Bailey:** So if we're pulling in tickets from, so I saw you integrate with GR, do you integrate with Linear?
+
+**Jason Mercer:** We don't have a native integration with Linear, but we do have...
+
+**Jason Mercer:** Again, same exact thing like Airtable, have a multitude of customers either doing it via Zapier or API.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** So if, like, and is there additional costs for integrations?
+
+**Jason Mercer:** No, no, no additional costs for integrations.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** So I think we would, I mean, still be a lot of seeds, but George, I'm thinking then that we would just make the MEs do everything in linear and just have the directors and strategists sit in high touch or in Vitally.
+
+**Jason Mercer:** How, how many, yeah, what's the it would be like 15 then, probably like 20.
+
+**Jason Mercer:** Yeah, so then you may be a fit for hybrid touch or high touch.
+
+**Jason Mercer:** Again, the only reason I talked about yeah, we, I mean, given the number of accounts that we have, it might still be high touch.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** So, yeah, like, what, what's the price per seat on hybrid touch is $9.60 per year.
+
+**Jason Mercer:** It comes with five seats included and 500 accounts to start.
+
+**Jason Mercer:** Scales and buckets of 500, but then you also have.
+
+**Jason Mercer:** Have the per seat cost as you increase or decrease seats.
+
+**Andi Bailey:** So it's $9.60 per seat.
+
+**Jason Mercer:** Yeah.
+
+**George Haikal:** Well, $9.60 for five seats and then $9.60 per seat?
+
+**Jason Mercer:** No, no.
+
+**Jason Mercer:** $9.60 per seat past the five.
+
+**Andi Bailey:** Oh, okay.
+
+**Jason Mercer:** So what's the baseline?
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** So the base, just to kind of talk numbers here, if you were to start with, quite honestly, 15 seats and 150 accounts, the hybrid touch plan would run you probably close to, like, $40,000.
+
+**Jason Mercer:** Unlimited seats would be, like, $43,000.
+
+**Jason Mercer:** Because, again, your account volume is so low.
+
+**Jason Mercer:** And, like, for 50 seats is what I'm saying.
+
+**Jason Mercer:** Like, you would have unlimited seats.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** So $43,000.
+
+**Andi Bailey:** Yeah, would say...
+
+**Andi Bailey:** That's the starting point.
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** And for context, just to throw it out there, that would be the whole kit and caboodle, every single piece of functionality we have to offer.
+
+**Jason Mercer:** So I'm including...
+
+**Jason Mercer:** Our Vitally AI+, which comes with call recorder seats, our goals, our survey functionality.
+
+**Jason Mercer:** That's every single feature we have to offer.
+
+**George Haikal:** Yeah.
+
+**Andi Bailey:** This is annual paid upfront?
+
+**Andi Bailey:** Annual paid upfront.
+
+**George Haikal:** But this is replaced Fathom, or our call recorder, which we're paying $40 per month per user for.
+
+**Andi Bailey:** $40.
+
+**Andi Bailey:** Okay.
+
+**George Haikal:** Right?
+
+**George Haikal:** Because if Jason, this call recorder could join every one of our calls, it can do everything Fathom and Fireflies does.
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** Yep.
+
+**Jason Mercer:** The only caveat is it's tracking primarily accounts that are in Vitally.
+
+**Jason Mercer:** So think post-sales.
+
+**Jason Mercer:** It doesn't record internal calls.
+
+**Jason Mercer:** It doesn't record internal calls, and it wouldn't track pre-sale.
+
+**Jason Mercer:** If you have, for example, your pilots, as soon as they're pulled into Vitally, we'll start tracking those meetings.
+
+**Andi Bailey:** But pre-sale.
+
+**Andi Bailey:** Yeah, we'll still pay for Fathom.
+
+**Andi Bailey:** And then do we want the Emmy calls recorded?
+
+**Andi Bailey:** Or like...
+
+**Andi Bailey:** And internal calls recorded.
+
+**Andi Bailey:** Well, if it's internal relating to a client, like as long as we title it, or what's the?
+
+**Jason Mercer:** So the way our call recorder joins is based off of email domain matching.
+
+**Jason Mercer:** So we're looking for a customer, like an email associated to an account within Vitally.
+
+**Andi Bailey:** Okay, got it.
+
+**George Haikal:** An email associated to an account within Vitally.
+
+**Andi Bailey:** So an email of one of our clients, or what if one of our team members is?
+
+**Andi Bailey:** Do we have to add the clients in Vitally, like the client email, the stakeholders?
+
+**Jason Mercer:** Well, yeah, you could have, you can, ideally.
+
+**Jason Mercer:** I guess they'd be pulled from HubSpot, so whatever.
+
+**Andi Bailey:** Yeah, it would be like contacted.
+
+**Andi Bailey:** So we don't really have our, all of every stakeholder in HubSpot today.
+
+**Jason Mercer:** Interesting.
+
+**George Haikal:** But it doesn't have to be everyone, right?
+
+**Andi Bailey:** Right, but if it's, so if like somebody that's never, we've never put in Vitally from Ramp joins, it's a call to.
+
+**Andi Bailey:** Vitally, not join.
+
+**Jason Mercer:** If that first meeting is not with, like, let me backtrack.
+
+**Jason Mercer:** Like, let's pretend I'm working RAMP, and the person I'm typically meeting with joins the call there in Vitally, and a new person joins, the call recorder will still join.
+
+**Jason Mercer:** But if someone I've never met and is not living in Vitally, I have a meeting with them, Vitally would not know to create that meeting specifically, because there is no user in Vitally.
+
+**George Haikal:** What if all of us are in Vitally, all of our employees are emails tagged?
+
+**Jason Mercer:** Yeah, so what we're looking for for the call recorder to automatically join is a customer, because that's why we don't record the internal emails.
+
+**Jason Mercer:** So you guys having your emails associated wouldn't really do anything for it.
+
+**Jason Mercer:** We have to have, like, a customer email on the meeting invite.
+
+**George Haikal:** Well, why?
+
+**Andi Bailey:** Who cares?
+
+**Andi Bailey:** So we don't record the internal.
+
+**Andi Bailey:** So, yeah.
+
+**Andi Bailey:** It's...
+
+**Andi Bailey:** Saving space, storage space.
+
+**Jason Mercer:** That could be, I can double check, cause I know there's a manual option to add the call recorder.
+
+**Jason Mercer:** So that could be something that we toy with, but the ideal scenario, just to call it out here is, if I am, again, I'm gonna mess up an ME account director.
+
+**Jason Mercer:** I'm going to create that user if they're not already automatically pulled over from HubSpot, right?
+
+**Jason Mercer:** Because that way my emails will automatically track with that user and all of my meetings with that user will be here now.
+
+**Jason Mercer:** but that's actually good cause we are not doing that anywhere today and our, like the directors are bad at it.
+
+**Andi Bailey:** So like, yeah, I mean, we need it anyways.
+
+**Andi Bailey:** What's the export options here?
+
+**Jason Mercer:** What are the export options here?
+
+**Jason Mercer:** Yeah, so our API full CRUD support so you can extract anything in mass.
+
+**Jason Mercer:** That said, like the biggest thing most teams are looking for is to see
+
+**Andi Bailey:** So if I just wanted to, you know, export to CSV across any data set or table, whether that's account-level data, custom objects, conversations, you can do all of that.
+
+**Andi Bailey:** Good.
+
+**Andi Bailey:** Because, George, then the deep dives could go directly into Atlas, like, from Vitally, and, like, you could get a summary.
+
+**George Haikal:** Deep dives could go directly into Atlas.
+
+**Andi Bailey:** Like, you could download the summary or the transcript, and then...
+
+**George Haikal:** Oh, yeah, no, that's the...
+
+**George Haikal:** Because right now, it's Fathom, but we're not necessarily doing any of it with Fathom.
+
+**George Haikal:** And if we are, manually pulling it into a Cloud Project, massaging it, then play it somewhere else, or manually pulling it into Atlas.
+
+**George Haikal:** Yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** So, 43.
+
+**George Haikal:** Well, can I play around with people for, like, the weekend to see?
+
+**Andi Bailey:** What's the monthly cost?
+
+**Jason Mercer:** Oh, like...
+
+**Jason Mercer:** Like...
+
+**Jason Mercer:** If we don't go annual?
+
+**Jason Mercer:** We only have 12-month contracts.
+
+**Jason Mercer:** I see.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** And there's no, like, opt-outs.
+
+**Andi Bailey:** So it's all paid up front?
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** We're just not going to like that.
+
+**Andi Bailey:** Okay.
+
+**Jason Mercer:** Sorry, George, did you say play around with it for the weekend?
+
+**George Haikal:** Yeah, play around with it for the weekend to see, like, how much you can do.
+
+**Jason Mercer:** Yeah, for sure.
+
+**Jason Mercer:** I mean, to be quite frank, right, and this kind of goes to your line of questioning, Andy.
+
+**Jason Mercer:** The reason we don't provide opt-outs is we offer a free trial motion.
+
+**Jason Mercer:** So we have a seven-day free trial.
+
+**Jason Mercer:** can actually connect HubSpot.
+
+**Jason Mercer:** You guys can do as much as you want with, like, your actual data in the platform, set up the Vitally Call Recorder, test the AI, custom properties, all of that to de-risk the investment, make sure we can align on at least, like, the core use cases, and then after that seven-day process, decide if you want to move forward.
+
+**Jason Mercer:** To answer your question, George, I can definitely send you access to this sandbox environment.
+
+**Jason Mercer:** The only thing is it's obviously dead.
+
+**Jason Mercer:** So that would be the only copy out there.
+
+**George Haikal:** Yeah, no, dummy data is fine.
+
+**Jason Mercer:** just trying to wrap my head around it.
+
+**Andi Bailey:** Yeah, I mean, I just, so much.
+
+**Andi Bailey:** Okay.
+
+**George Haikal:** Like, honestly, Andy, we probably just have to break down everything we think this can do that it isn't doing right now and, like, justify to ourselves why we think it's going to be way better, right?
+
+**Andi Bailey:** Yeah, and then we have to figure out who manages it.
+
+**Andi Bailey:** Like, we might not want to buy this until we have a CS Ops person in place.
+
+**George Haikal:** Yeah, because, yeah.
+
+**George Haikal:** It was good, though.
+
+**George Haikal:** mean, like, yeah, it seems, I just got to think about it.
+
+**George Haikal:** Could we, for these fields, we can create a custom field and pull in, like, we have our own workflows that we can connect via API to, like, a custom field here.
+
+**Jason Mercer:** Yeah, for sure.
+
+**Jason Mercer:** And we, quite honestly.
+
+**Jason Mercer:** We've only scratched the surface as far as like, what's possible.
+
+**Jason Mercer:** I wanted to make sure we talked about it, because I know you guys have like edge use cases, like things like automated, you know, alerting, all of that is 100% possible here as well.
+
+**Jason Mercer:** So for example purposes, like even with those projects that I was alluding to, like this is a built out one, but you can see here, based off of me updating that strategy sprint, we say, hey, customer first signed up at this date, automatically add them to the strategy sprint, lifecycle stager segments.
+
+**Jason Mercer:** Then from here, we split into three advantages based off of like expected revenue or conversion.
+
+**Jason Mercer:** Based off of that, automatically assigned, based off of this type of ME or this type of director, whatever it is, round robin between the teammate that has not been assigned in the longest time or the teammate that has the least managed revenue.
+
+**Jason Mercer:** Automate welcome email, create, and we haven't even touched on docs, which I think is gonna be also very powerful.
+
+**Jason Mercer:** There's so much more that we can do like behind the scenes so that it's not like all of these manual and clicks that the team is doing.
+
+**Jason Mercer:** And the reason that sparks
+
+**Jason Mercer:** The TalkTracks part is like one of those things is within Vitally, it's like you can update specific account traits, you can, you know, push things from one system to the other back to HubSpot and or paying a webhook directly from our automation as well.
+
+**Jason Mercer:** So there's a like, i.e.
+
+**Jason Mercer:** creating linear tickets from like a note within Vitally or triggering off of a custom object.
+
+**Jason Mercer:** So there's more that I think we can explore.
+
+**George Haikal:** Say that again?
+
+**George Haikal:** Ice versa as well, linear to Vitally.
+
+**Jason Mercer:** So yeah, linear can be created in Vitally, but again, that's going to be Zapier API, we don't have a native integration there.
+
+**Jason Mercer:** But that would just spin up one of these custom objects that would be like linear tickets.
+
+**Jason Mercer:** And once you have that created, just going back to playbooks, you'll notice here that I can trigger based off of any object.
+
+**Jason Mercer:** So account level data, user level data, notes on the accounts, even email conversations with a customer, we haven't touched on Goalish this yet.
+
+**Jason Mercer:** Any custom object that we create, you can trigger off of as it.
+
+**Andi Bailey:** Out of points.
+
+**George Haikal:** Great.
+
+**George Haikal:** Yeah, I guess.
+
+**George Haikal:** Yeah, I mean, things.
+
+**George Haikal:** Like, Andy, I'm wondering, like, how much are we going to eventually be able to do in Alice, right, of the tracking, activity tracking, all that, that we could then pull in somewhere, or like, how much of this is needed, but then also exactly what you said.
+
+**George Haikal:** Like, this seems like it can do a ton of what we need it to do, but it also will take a lot of work to set up.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** So, who's the other thing I'm thinking about?
+
+**Andi Bailey:** Yeah, I mean, I don't have, I don't think that the Atlas, like, internal tracking is worth it for us to build, given all the other priorities, like, within six months, unless we're tracking client activities, and like, so we're tracking client activities, then we should also be able to track our own activities, but.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** It's a nice to have, maybe not a nice to have, I don't know.
+
+**George Haikal:** Well, mean, don't know.
+
+**George Haikal:** I think that's, like, one of the two things that they're building after it checked out, but I'll double check.
+
+**Andi Bailey:** Okay.
+
+**Jason Mercer:** One quick proposal for Next Steps.
+
+**Jason Mercer:** Happy to send over Sandbox, but given that, obviously, you guys need a chance to, like, poke around, and I can definitely sense the, what I'll say, the hesitancy of who's going to own this and, like, how long is it going to take to set up?
+
+**Jason Mercer:** I do think, like, a Sandbox session and or a trial will help alleviate some of those concerns, specifically because once you have your actual data in the platform, leveraging these blueprints will get you to, like, what you're looking for, hopefully.
+
+**Andi Bailey:** Yeah, seven days just feels brief, like, given everything else we have going on.
+
+**Andi Bailey:** we'd have to, like, before I started the trial, I would want to say, like, we've cleared our calendars to build this out, but, like, yeah.
+
+**Andi Bailey:** It's not really an option at the moment.
+
+**George Haikal:** Do you all have like videos or like run-throughs of people building with this?
+
+**Jason Mercer:** Not so much videos and I'll drop it in the chat.
+
+**Jason Mercer:** I'll also send it in my follow-up.
+
+**Jason Mercer:** But what is it called now?
+
+**Jason Mercer:** So it's more so a self-guided product.
+
+**George Haikal:** Manage your blog.
+
+**Jason Mercer:** I think it's like Wistia and CircleCI.
+
+**Jason Mercer:** If you guys want a meeting and you guys want to help us refresh some content, feel free.
+
+**Jason Mercer:** I'm going have it always down to make an intro.
+
+**Jason Mercer:** But this Inspiration Gallery is like, again, actual use cases.
+
+**Jason Mercer:** Not all of these are blueprints.
+
+**Jason Mercer:** You'll see some that say community generated, meaning they came from other successful customers.
+
+**Jason Mercer:** But for example, just clicking in here, it'll give you a breakdown of like what they built, the results from what they built, and then same exact thing as like an interactive demo.
+
+**Jason Mercer:** Of like, okay, here's what they were doing, here's how they built it, but again, not a video, just a click-through on product tour.
+
+**George Haikal:** Even this is helpful, though, like, that shows the live.
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** So, yeah, so you have this, this is all public, you have the Blueprints in the Sandbox, and then the other tidbit here, I think it's still Academy, right?
+
+**Jason Mercer:** Yeah, Academy.
+
+**Jason Mercer:** Oh, .
+
+**Jason Mercer:** But these are kind of, like, the initial, like, on-demand courses.
+
+**Jason Mercer:** This is, we also have, like, a certification for our actual customers.
+
+**Jason Mercer:** So, like, in that scenario, you would get, like, full admin training, your end users would get training, all of that.
+
+**Jason Mercer:** But you do have, like, an overview of, like, how to set up, how to create a hub, like, the more standardized things that would happen, like, initially during onboarding.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** I I think, yeah, that's helpful.
+
+**George Haikal:** So, the Sandbox will be out, and then I can look at all these resources, and then, like,
+
+**George Haikal:** Looking forward a bit, if we could get on a call with someone to, like, basically what we did with you is, like, explain everything that we need and then actually have, like, something that we can work off of.
+
+**George Haikal:** Like, okay, these are the workplaces we need to build out of this to help you think about laying it all out.
+
+**Andi Bailey:** Like, that would even be helpful as well.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Do we get access to somebody after we pay for implementation?
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** And so that's where, again, I definitely understand wanting to have clear schedules for the trial.
+
+**Jason Mercer:** But the person that I would loop in to, like, do the integrations would also be the person who manages your implementation.
+
+**Jason Mercer:** That's why we proactively offer the trial, because it de-risks the investment for potential customers.
+
+**Jason Mercer:** But it also allows us to, very similar to you guys, understand if it's actually going to work, right?
+
+**Jason Mercer:** We want you to, like, break things in the trial, try and build these weird use cases, make sure that everything that we're saying we can do, we can do, but with your actual data.
+
+**George Haikal:** That's the biggest piece.
+
+**George Haikal:** If we do the trial, do we get that meeting with the person up front, like, to help someone?
+
+**George Haikal:** Set us up for success to learn as much as possible in those seven days.
+
+**Jason Mercer:** Yes.
+
+**Jason Mercer:** Yep.
+
+**George Haikal:** That's pretty good.
+
+**George Haikal:** And then we can basically test it, Andi, with, like, one field or two fields, like, one account, like, one set of directors, MEs, like, it wouldn't actually take that long to build, but let's see if it actually works.
+
+**Jason Mercer:** Yeah.
+
+**Jason Mercer:** You build one project template, you build one automation, one dashboard, one custom object.
+
+**George Haikal:** I want to become a Vitally expert and, like, learn all this stuff and then do it?
+
+**George Haikal:** Yeah.
+
+**Jason Mercer:** Only time will tell.
+
+**Jason Mercer:** But, no, that's really what it's there for, like, truly getting your data in there and testing.
+
+**Jason Mercer:** But, again, it is time-based because we are pulling in post-sales resources for the trial.
+
+**Jason Mercer:** So I completely agree with you, Andi, that we want time to, like, invest into it.
+
+**Jason Mercer:** And I would say, like, we typically look at three to four calls over the course of the trial.
+
+**Jason Mercer:** So think three to four hours to, like, connect data and then build with Invital.
+
+**George Haikal:** Is it async in between the calls?
+
+**George Haikal:** Like, is there constant async, the ability to, like, Slack, email?
+
+**Jason Mercer:** Yeah, yeah, we can, like, I can set up a Slack channel with you guys.
+
+**Jason Mercer:** It's not something we carry post-sale just to be fully aligned on our side, but definitely something where I can answer questions.
+
+**Jason Mercer:** I'm always happy to hop on, like, once your data's in there and connected, like, as you can see, I'm pretty savvy as far as poking around, but would want to understand, like, ahead of time those edge use cases and how we want to best do that within Vitally.
+
+**George Haikal:** Cool.
+
+**Jason Mercer:** Yeah, so as far as next steps, I'm, again, 100% happy to send over Sandbox along with the resources.
+
+**Jason Mercer:** Maybe we can find some time, like, mid to late next week, maybe a week from today, just to talk about feedback, questions in Sandbox, and talk about trial.
+
+**George Haikal:** Would that be cool?
+
+**George Haikal:** Yeah, I think that makes the most sense.
+
+**Jason Mercer:** Just looking at my Cal, does this same time next week work for you guys?
+
+**Andi Bailey:** Yeah.
+
+**George Haikal:** Sure.
+
+**Jason Mercer:** Yeah, okay, cool.
+
+**Jason Mercer:** So, yeah, I'll share a new invite.
+
+**Jason Mercer:** I'll grab a, I think, did we only have 45?
+
+**Jason Mercer:** I'm so sorry.
+
+**Jason Mercer:** I thought we had a full hour today.
+
+**Jason Mercer:** Apologies for going super over.
+
+**George Haikal:** No, it was on us.
+
+**George Haikal:** Like, we're actually asking, like, later stage questions to try to figure out how it can really work.
+
+**Jason Mercer:** So.
+
+**Jason Mercer:** For sure.
+
+**Jason Mercer:** Again, appreciate you guys hanging out.
+
+**Jason Mercer:** Do you want to do an hour next week as well?
+
+**Jason Mercer:** I'll just keep the momentum and give enough time.
+
+**Andi Bailey:** I would say, well, yeah.
+
+**Andi Bailey:** We can book an hour and then maybe keep it to 30 if we need to.
+
+**Jason Mercer:** If you guys need to hop by.
+
+**Jason Mercer:** I promise I'll make up that 15 plus somewhere as we progress conversations.
+
+**Jason Mercer:** But, yeah, I'll get you guys full recap.
+
+**Jason Mercer:** I'll even send an overview of pricing.
+
+**Jason Mercer:** And just so you're aware, the quote I gave is also for the Vitally Recorder licenses, 450 licenses.
+
+**Jason Mercer:** So there is potential for it to be less than 40 to 43.
+
+**Jason Mercer:** I just wanted to anchor high just to make sure there was no surprises as we progress, just given that you guys are trying to move fast.
+
+**Andi Bailey:** So the recorder licenses could be less?
+
+**Jason Mercer:** Yes, 100%.
+
+**Jason Mercer:** Those are $20 a month per year per seat.
+
+**Andi Bailey:** Oh, that's it.
+
+**Jason Mercer:** Okay.
+
+**George Haikal:** And then can we also get the questions answered of does it require an external client's email for it to join a meeting or if we load all of our emails and it can constantly record or if the manual function can override?
+
+**Jason Mercer:** Yeah, yeah, I'll definitely get an answer because that's going to be the biggest one.
+
+**Jason Mercer:** I know that we do need typically for the automatic join for a customer email to be on the invites.
+
+**Jason Mercer:** That I know it's going to be how we can surpass that.
+
+**Jason Mercer:** Like what I have seen is like one of your users is attached, like the account owner is like technically a user on the account.
+
+**Jason Mercer:** So that way it always joins, but then it kind of duplicates things.
+
+**Jason Mercer:** I've seen that work around.
+
+**Jason Mercer:** I don't want to prescribe that because that doubles up the meeting sync.
+
+**Jason Mercer:** That said, I'll figure that out.
+
+**Jason Mercer:** So, um, and, uh.
+
+**Jason Mercer:** I'll back to you, of course, by next Thursday.
+
+**George Haikal:** Cool, yeah, because that's an easy way for us to find some money.
+
+**George Haikal:** 40 times, what do we have, 60, 65, 2600 a month times 12, 30, yeah.
+
+**George Haikal:** Yeah, that makes a lot of sense if we can figure that part out and, like, replace Fathom.
+
+**Jason Mercer:** Sure.
+
+**Jason Mercer:** Any other questions or any other tidbits that you want for follow-up before I let you guys go?
+
+**Andi Bailey:** I don't think so.
+
+**George Haikal:** No, Andy, do you have two minutes after this to?
+
+**George Haikal:** Sure.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Awesome.
+
+**George Haikal:** All right, thank you, Jason.
+
+**Jason Mercer:** Appreciate it.
+
+**Jason Mercer:** Of course.
+
+**Jason Mercer:** Stay tuned.
+
+**Jason Mercer:** Chat soon.
+
+**Jason Mercer:** You too.
+
+**Jason Mercer:** Bye.
+
+**Jason Mercer:** Bye.

@@ -1,35 +1,47 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Archive
 
-Archived and superseded documents from earlier versions of the knowledge base.
+Archived and superseded documents. These files are kept for historical reference but are no longer the current source of truth.
 
 ---
 
-## How the Archive Works
+## Sections
 
-When a document is significantly rewritten (not just minor edits), the old version moves here. This preserves history while keeping the active directories clean.
+### Legacy Archives
 
-### Versioning Rules
+Previously superseded documents from earlier versions of the knowledge base.
 
-- **Minor updates** to an existing file: edit in place, update `last_updated` in metadata
-- **Major rewrites**: create a new version (e.g., `strategy-overview-v2.md`), move the old file here
-- **Archived files** are kept for reference but are never the current source of truth
+| File | Superseded By |
+|------|---------------|
+| `how-our-business-works.md` | `private-docs/business/overview.md` |
+| `how-we-make-money-v2.md` | `private-docs/business/business-model.md` |
+| `how-we-measure-client-success.md` | `private-docs/business/success-metrics.md` |
+| `organic-growth-strategy.md` | `private-docs/finance/organic-growth-strategy.md` |
+| `overview.md` | `private-docs/business/overview.md` |
+| `pricing-monetization-strategy.md` | `private-docs/finance/pricing-and-monetization-strategy.md` |
+| `the-big-picture.md` | `private-docs/company/the-big-picture.md` |
+| `the-customer-journey.md` | `private-docs/business/customer-lifecycle.md` |
+| `the-delivery-model.md` | `handbook/delivery/teams-and-operations.md` |
+| `who-we-sell-to.md` | `private-docs/business/ideal-customer-profile.md` |
 
-### File Format
+### Pre-Handbook Sync (March 2026)
 
-Archived files should note what replaced them:
+Original docs/ files that were replaced when the handbook sync was established. These are the growthx-context versions of content that now comes from handbook.growthx.ai.
 
-```markdown
-> **Archived:** This document has been superseded by [new-file.md](../path/to/new-file.md).
-```
+| Directory | Contents |
+|-----------|----------|
+| `pre-handbook-sync/company/` | Mission, vision, culture (original context versions) |
+| `pre-handbook-sync/delivery/` | 8-week plan, call playbooks, teams |
+| `pre-handbook-sync/epd/` | Engineering, product, design docs |
+| `pre-handbook-sync/how-we-work/` | Async, meetings, documentation |
+| `pre-handbook-sync/people/` | Policies (time-off, parental leave) |
+| `pre-handbook-sync/products/` | CheckThat overview, ecosystem strategy |
 
 ---
 
-## Current Archives
+## Access
 
-*This directory is empty in the starter template. Files will accumulate here as you iterate on your documentation.*
+**Default access:** `build-team`
 
 ---
 
-**Last updated:** 2026-02-22
+**Last updated:** March 2026

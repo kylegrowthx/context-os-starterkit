@@ -1,0 +1,161 @@
+---
+description: After pulling any meeting transcript, automatically update contact dossiers, tag transcripts with contact links, and update all relevant README/INDEX files
+globs: records/transcripts/**/*.md, records/contacts/**/*.md
+---
+
+# Contact–Transcript Linking
+
+**Trigger:** Every time a transcript is created or updated in `records/transcripts/` — including via the pull-meeting skill, batch pulls, or manual creation.
+
+This is NOT optional. Every pulled meeting triggers this full post-processing chain.
+
+---
+
+## Step 1: Identify People in the Transcript
+
+Extract all named participants from:
+- Transcript metadata (participants list)
+- Speaker labels in the transcript body
+- Names mentioned in the summary or action items
+
+Separate into:
+- **GrowthX team** — anyone with `@growthxlabs.com` or `@growthx.ai` email, or known employees in `records/contacts/employees/`
+- **External contacts** — everyone else
+
+---
+
+## Step 2: Match Against Existing Contact Dossiers
+
+Search `records/contacts/` for matching `firstname-lastname-v1.md` files.
+
+For each external person, check:
+1. Exact filename match: `firstname-lastname-v1.md`
+2. Partial name match (first name + last name grep)
+3. Email match if available (grep metadata blocks)
+
+---
+
+## Step 3: Update Existing Contact Dossiers
+
+For each person who HAS a contact dossier:
+
+1. **Add transcript to `## Meeting Transcripts` section** (if not already listed):
+   ```markdown
+   - `records/transcripts/YYYY-MM/YYYY-MM-DD-meeting-name.md`
+   ```
+
+2. **Add timeline entry** to `## Timeline` table:
+   ```markdown
+   | YYYY-MM-DD | Meeting: descriptive meeting name — one-line summary of what was discussed |
+   ```
+
+3. **Extract and merge new details** into appropriate sections:
+   - New role/title → update Career Background
+   - New personal details → update Personal section
+   - New quotes → add to Key Quotes
+   - New team members mentioned → update Their Team table
+
+4. **Update metadata** — set `last_updated: YYYY-MM-DD`
+
+5. **Don't overwrite** — only add new information, never remove existing content
+
+---
+
+## Step 4: Create Dossiers for New Significant Contacts
+
+For people who appear significant but have NO contact file:
+
+**Auto-create a dossier** (don't ask) if they meet ANY of these criteria:
+- They speak directly in the meeting (not just mentioned)
+- They're a decision-maker, client contact, or prospect
+- Personal details are shared about them
+- They appear in 2+ transcripts total
+
+**Skip** dossier creation for:
+- Passive attendees with no speaking role and no context
+- People only mentioned by first name with no identifying info
+- Bots, AI assistants, or automated participants
+
+Create the dossier using the contact-dossier skill template at `.cursor/skills/contact-dossier/SKILL.md`. Set `confidence: low` for auto-created dossiers.
+
+---
+
+## Step 5: Tag the Transcript with Contact Links
+
+Add a `## Related Contacts` section to the transcript file, placed **after the metadata block and before the Summary section**:
+
+```markdown
+## Related Contacts
+
+- [Brian Mullen](../contacts/brian-mullen-v1.md) — CMO, Coralogix
+- [Jon Kowieski](../contacts/jon-kowieski-v1.md) — Content Lead, Brex
+```
+
+Rules:
+- Only link contacts that have dossier files (existing or just-created)
+- Include role and company after the name
+- Skip GrowthX employees — they have dossiers in `employees/` but don't need transcript cross-links
+- If a `## Related Contacts` section already exists, merge new contacts into it (don't duplicate)
+
+---
+
+## Step 6: Update INDEX and README Files
+
+After all dossier changes are complete:
+
+### `records/contacts/INDEX.md`
+- Add rows for any newly created contact dossiers
+- Format: `| [filename](filename) | Full Name | Company | Role | Tags |`
+- Keep alphabetically sorted
+
+### `records/transcripts/INDEX.md`
+- Add row for the new transcript if not already listed
+- Follow existing format
+
+### `records/contacts/README.md`
+- Update document count if README tracks it
+- No structural changes needed for individual additions
+
+### `records/transcripts/README.md`
+- Update document count if README tracks it
+
+---
+
+## Cross-Link Format Reference
+
+**In contact dossier** → Meeting Transcripts section:
+```markdown
+- `records/transcripts/2026-01/2026-01-28-growthx-coralogix.md`
+```
+
+**In transcript** → Related Contacts section:
+```markdown
+- [Firstname Lastname](../contacts/firstname-lastname-v1.md) — Title, Company
+```
+
+---
+
+## Batch Pull Mode
+
+When pulling multiple meetings at once:
+
+1. Pull all transcripts first
+2. Then run contact linking as a batch:
+   - Collect all participants across all new transcripts
+   - Deduplicate against existing contacts once (not per-transcript)
+   - Create all new dossiers
+   - Update all existing dossiers
+   - Tag all transcripts with Related Contacts
+   - Update INDEX.md files once at the end (not per-transcript)
+
+This avoids redundant file reads and INDEX rewrites.
+
+---
+
+## What NOT to Do
+
+- Don't skip this process — it runs after EVERY pull-meeting
+- Don't remove existing content from contacts or transcripts — only add
+- Don't create dossiers for people with only a first name and no other context
+- Don't bulk-rewrite INDEX files per transcript — batch the updates
+- Don't add Related Contacts links for people without dossier files

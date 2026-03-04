@@ -1,0 +1,3386 @@
+{
+    "title": "Jessalynn <> Vivek looker",
+    "meeting_title": "Jessalynn <> Vivek looker",
+    "url": "https://fathom.video/calls/402516091",
+    "created_at": "2025-09-08T14:31:21Z",
+    "scheduled_start_time": "2025-09-08T14:00:00Z",
+    "scheduled_end_time": "2025-09-08T14:30:00Z",
+    "recording_id": 85587966,
+    "recording_start_time": "2025-09-08T14:00:07Z",
+    "recording_end_time": "2025-09-08T14:31:13Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Hey, good.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Good, good.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thanks for taking the time to walk through this today.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "I invited Jakub to this as well, so hopefully he can join us in a moment, because I feel like he maybe has a clearer idea of what he wants to get out of these reports.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "I was just seeing if he messaged me.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "But kind of the big thing that we're looking for, which I'm sure you saw in Linear, was just that two of our clients, both Tiro and Webstacks, they really want to be able to see, like, the full pipeline impact of what we're doing, and namely integrating HubSpot is kind of, like, the first step for that.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So, what I'm hoping we can get from you, well, maybe",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Maybe we can kind of describe what we're looking for, and then you can tell us what fields you need exported from HubSpot in order to integrate those into Looker, and or what's even possible in Looker, because I think that's like a little bit of an unknown for us too.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, I think it might be faster if we just discuss the WebStacks issue, or not the issue, but the ticket, and then that sheet that you'd sent me, let me get my screen.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So this sheet, this thing here, so I'm assuming GX produced blogs is not relevant for reporting purposes, and there's these three tabs, right?",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So my question was, and you know, just to give more context, the, I think your request was what, no, they just need to track all leads, basically.",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the question was, do they want to track overall leads as well as GrowthX leads, right?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think that would be helpful, but Jakub, do you have a different perspective on that?",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I think the GrowthX, the leads from GrowthX pages is what we really care about.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "They can look at the overall leads in Hubsfotten thing, so that's where I would focus.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right, so my question was, this leads month on month.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I thought this was a formula table, but it doesn't look like it.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I mean, this is, yeah, like, does this need to go into reporting as well?",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Is this like overall, or is this, I don't think this is GrowthX, so do we need this at all?",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah, so this is, I think, overall leads, because for web stacks, we actually are not getting a ton of leads specific to our blogs, so I was reporting overall leads for them, too.",
+            "timestamp": "00:02:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Um, this is,",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So our other client, Tiro, they get a decent amount of leads, and we basically have produced their entire blog at this point, and so they're all from us, so it makes it a little bit easier, but with Webstacks, like, I guess my concern, and Jakub, like, you can, you know, offer your input here, is if we are only reporting Webstacks leads, that's not a lot each month.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Like, we already are not getting a lot of leads directly from the blog, and then if we filter down even further to just leads from GrowthX blogs, it's not a lot, and so I wanted to try to, like, capture the value of just us creating volume on their blog, even if the leads are not coming specifically from our blogs.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "I don't know if that makes sense, but I just, I'm concerned that if we show them zero leads, like, each month.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "What that might look like.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah, I think that's fair.",
+            "timestamp": "00:04:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "They, I mean, some of it's that they don't have any, I guess probably how they're tracking it, and they don't have any conversion points on most of those blogs, and there's just like a bunch of things.",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "But I do think like having the same kind of functionality of the traffic, like cohorts of like leads, like a leads page with all Webstacks, Webstacks blog, Webstacks, GrowthX pages, or something like that makes sense.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So you can see the whole scope, because if they're, they don't have leads anywhere on their blog, like that's not just us either, that's a larger picture.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So it is, idea, it would help tell the bigger story regardless.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So basically, yeah, that should be easy.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like you're just combining these two tags essentially, and then cohorting in GrowthX versus non-GrowthX.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I guess if I understand you correctly, Jessalynn, you're creating.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, so this can be replicated in Looker pretty easily.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The next question is, when they send the export, right?",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Because I'm trying to figure out how to minimize the work for you.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "When they send the export, does it come in separate tabs like this, lead than GX leads, or is it just one big data dump?",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's just one big data dump.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So right now, this GX leads tab is basically a filtered list of the total leads tab.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So I basically just put in a formula that takes GX produced blogs and filters all the leads on the leads tab and then spits it out into the GX only leads.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay, so you look at this first page scene.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If it's a GX, if it's one of the blogs we produce, then it's a GX lead, basically.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the process that I'm thinking of is basically, and they'll send this every week, right?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And it'll be just, they'll just append it.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So for next week or whatever, they'll just append it to this list, right?",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So right now, I basically asked them if we could get export access to their HubSpot.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "And they said for security reasons, they're not sure.",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "But they've set up a similar export for one of their other ad vendors.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "And it's actually like a 24-hour renewal.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So basically, every 24 hours, it automatically pulls the new leads.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "We can tell them what fields we want and in what format.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So I just...",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah, the fields and format is not an issue.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "We can always pull that in.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "My concern is more like, Looker doesn't do real-time data feeds very well.",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like, it'll just break, right?",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So we can't connect to HubSpot out of the box.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Because we'll need like a special third-party connector for that.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, you know, that's out of scope.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The only way to do this is basically the simplest way is for you to come in each week and just upload the sheet for that week, right?",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Whatever the export is, you just upload it and the Looker page will automatically pull data from whatever sheet you're uploading.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Charts are set up and you'll have data presented the way you want it.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, the easiest way to do that would be for them to send you an export of this sheet, all these leads, right?",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Basically, the entire list of leads from whatever date that we started working together till the current date.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And with these fields, or they can include any fields that they want.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's fine.",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And then once the sheet comes in, I'm afraid you'll have to do the GX leads filtering.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Definitely.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Fantastic.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like, you know, if this is a URL that we have produced, then maybe a column over here that says GX lead, and then GX lead or something over here.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So this kind of an export.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay, so we can't filter, like, you don't want it filtered into another tab, you need it all in one tab.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Am I hearing that correctly?",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So, I guess my question is, so, I hear you that we can't do a HubSpot direct integration with a live, live updates, necessarily.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "But what, what our client was describing was basically, I think it's some kind of, like, API that basically auto-populates a spreadsheet.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So, it wouldn't be, like, direct, it wouldn't be a direct API to HubSpot to look up.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "It would be basically some kind of API that basically connects HubSpot to a spreadsheet, and then we could connect the spreadsheet to Looker.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Does that work for live updates, if we have a spreadsheet that's live updated versus directly connecting?",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah, that can work.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay, so we could automate this as long as it's the same spreadsheet, and the spreadsheet is what's getting the auto-updates versus trying to connect HubSpot directly.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Correct, yes.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yes, and for the cohorts to work, we need this field filled out.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "They're just letting us know which is the growthx URL, because, yeah, like, we can't build this logic into Looker.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like, Looker is a very basic kind of a tool, and it breaks if you look at it the wrong way.",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah, the only thing is we need this column.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Filled out.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If it's not filled out, it's not a big deal.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It'll just go under like a miscellaneous or whatever.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So in terms of a process for you, I'm thinking like maybe have a sheet in the sheet to which they export this HubSpot data to.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It can live in the Teams growthx folder, right?",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That Google Drive.",
+            "timestamp": "00:10:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And then so they just keep updating it whenever.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Reporting happens, I think, each week based on, you know, whenever you sync with the client.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And then before you report, basically, you just fill out, is this a GX lead or is it not, basically.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So there will still be like manual tagging of what blogs are ours, but otherwise, it'll be at least somewhat automated?",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "And we can do, so Jacob, is there anything else that.",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "That you want to get out of this besides just straight up leads from HubSpot?",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I mean, leads is like the one that they've asked for, and I have no experience building into Looker, just like the way we have to do it.",
+            "timestamp": "00:11:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I don't know who this question is for, or maybe it's just an idea, just something for us to like look into, but I feel like some of that could be automated in like with Zapier or something.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So like, I don't know what, as we figure out what that process is, potentially we can remove some of that manual work.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I don't know exactly how to do this.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "just like, we could do like a VLOOKUP formula that would populate like GX leads or not.",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "I think, Vivek, do you know, like, is Looker okay with formula fields?",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Like, for example, if we have like a lookup.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "A formula that basically would mark whether it's a GX blog or not in that field.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Would it read the formula or would it read the output?",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Like is Vivid or like is Looker able to differentiate?",
+            "timestamp": "00:12:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It won't work, Looker, unfortunately.",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It just literally takes what you already have and just displays it.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "That's it.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "What you could do maybe is, so I think Suleiman can help this.",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And this was like, I don't know, Suleiman and I were going to get to this in whatever the next stage is once we're done with these initial requests, but they just keep coming.",
+            "timestamp": "00:12:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So what we were thinking of doing was, so to your process, right, you have your Airtable, you have this sheet that's being updated constantly live.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You can have a second tab over here, which is GX produced blogs.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This can be connected to Airtable.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So you can have a script that just pulls it from Airtable.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if.",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Maintains the latest list of published logs over here, right, in this tab.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And then over here, you can have a formula VLOOKUP or an index or whatever.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And then, you know, you could run a script, basically, that just updates this URL field at certain predefined timelines.",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That's how the automation would work.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And Looker is just reading this data and showing it as a chart or whatever.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I don't know if that makes sense.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I can explain it again.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So, I think maybe my original question, maybe I didn't explain it very well.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So, we can do VLOOKUP formulas here in the spreadsheet.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "And Looker will be able to understand the outputs.",
+            "timestamp": "00:13:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "You're just saying we can't do VLOOKUPs in Looker.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Correct.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah, that was my original question.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So whether it's, like, some kind of, like, automation that automatically populates it from Airtable, or whether it's us manually updating that list, and then the VLOOKUP formula pulling it, it would be able to read that.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So that kind of leads me to another question, though, because, like, we're still manually updating these new Looker reports with, like, the rejects formulas.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So if we're able to, like, is there any way of automating that?",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Like, I'm assuming you guys have already looked into that, but I just wanted to add.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah, we did.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The problem is that it's the reason why the previous Lookers were failing, the old ones, because what happens is if we automate it, we'll need to sort of blend.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I mean, I Looker calls it a data blend.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's basically combining the data from Airtable and...",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You know, GSC and GA4, and essentially telling Looker that, listen, this is the entire world of analytics data that we have, but we only care about these URLs from Airtable, and so it joins it.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "When we do that join, Looker goes absolutely nuts, and it starts sampling data from GSC and GA4.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It doesn't show the absolute numbers, so the numbers are all wrong, which was why the original reports didn't really work.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So that's why we had to remove that automation, unfortunately.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The closest automation we can have is maybe automating the case statement generation for you, but that's not really much of an addition, I would say.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like, it takes us two minutes to generate those things anyway.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah, unfortunately, no.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay, yeah, that makes sense.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "When you're talking about just pulling, like, automating the list of URLs, like, getting pulled into this spreadsheet.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "right.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "right.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "be willing.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "or from Airtable into a spreadsheet.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "What tool do you use for that?",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think you can do it in Airtable.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You can have it export to a particular CSV.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I think Suleiman can do that.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "He can sort of build that script or whatever.",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if you need that, we can create a separate ticket for it and then sort of can ask Suleiman about it.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay, sounds good.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So basically what I'm hearing like coming out of this is if we can get together with our client, basically just create a spreadsheet in the Teams folder and have them export to that and then create a column for GX leads indication, that should be enough for you guys to hook this up?",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I mean, they don't need to create the column GX leads.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You can create it yourself.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'll just update it here.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Well, sounds good.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "And then just like create date and first page scene, and then whether it's a GX lead or not is probably enough.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "We probably don't need like name and email even for those leads.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's up to you.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "If you wish to see the list of people and their emails in Looker, you know, like it doesn't make any difference to Looker.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Do you have any instinct on that, Jakub, what you would like to see?",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Can you see that one again?",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Apologies.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Basically, do you want like names, emails, company data, or anything like that, or strictly like the Nisker?",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "That is the first thing.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I just want like totals, like how we have for like what you've exported for Tiro with that graph.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Like that's the simplest form to show a month over month.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So we can show how that's changing, growing, et cetera.",
+            "timestamp": "00:17:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "We",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "You have those tables at the bottom, like for other pages that I don't look at the individual URLs there as much, but if you, I'd have to see.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah, I wouldn't care about the, for our purposes, names, industries, it's really just volume.",
+            "timestamp": "00:18:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Maybe if there's some sort of like more macro piece of data in there that we could pull, like if we had fleets by industry stacked, but it doesn't sound like we have the volume to justify like figuring out how to do that at this point.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "But that's like the type of thing that I would want.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "It's like, they should look at the individual lead more specifically, or just trying to report like blog traffic turned into lead somewhere.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So it's simpler than like Webstacks would use, but for our purposes.",
+            "timestamp": "00:18:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I if you don't care about the name and email, I would actually ask them, like, I'm sure HubSpot will have an export for this exact report here.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like, we don't need to do any data transformation.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "They can literally just like send us a report that says this.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Because if you don't care about name and email, AppSpot can easily roll up that data and present it.",
+            "timestamp": "00:19:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah, it's the only thing we would, I'm sorry, the only thing we would care about is, I think the URL, like the first touch URL, right?",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And then that's, this type of view is the macro view, then the table below, just like you have Jessalynn for the TRO report, it's just like, here's all the URLs, and then the total number, the date, date, and then if that had the cohort, just like we do with the blog traffic, we could add the cohort of GrowthX created, and probably blogged too, but yeah, same.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay, in that case, I think their export would contain this, because this is the, like, this is the unique key, basically.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, okay, it's not a big deal either way, I mean, you don't have to display it, so yeah.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So the export might include name and email, but we don't need that in Looker, I think is kind of the takeaway here.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "I'm basically just, all of and at some point, sorry.",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "GX versus, like a GX cohort versus a total.",
+            "timestamp": "00:20:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And at some point, if you want to add fields to this, that's not a problem.",
+            "timestamp": "00:20:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "You just let us know and we'll just add it into the code.",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "it's not an issue.",
+            "timestamp": "00:20:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:20:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Great.",
+            "timestamp": "00:20:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Well, I will reach out to our client.",
+            "timestamp": "00:20:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "I think for Tiro, I still need to reach out to them about export.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "But for sure, Webstacks is, like, kind of waiting to hear from us what we want exported.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So I'll reach out to them today.",
+            "timestamp": "00:20:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "I'll reach out to both of them today and then get you spreadsheet links in the next couple days as soon as they get back to me.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:20:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Thanks, Could I pause really quickly before we hang up?",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Jesse asked for one other thing.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Do you remember what that was?",
+            "timestamp": "00:20:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I'm, like, in there.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I should probably look this up.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I like, here, and he's like, actually, go back to the cohorts taverns.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And I was like, wait.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "He had one suggestion that was pretty good, and why it took a no.",
+            "timestamp": "00:21:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Let me just go back.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "That's not ringing.",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And then the only other thing, and I don't know if this is you or, oh, there's the, it's like cohorts.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Let me pull up.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "It's like our old web stacks, the rolling report, super wide.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "You can just look at this big, like, chunk of time.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And then here, we get obviously very limited to, like, at best, we're looking at, I don't know, six or seven weeks.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Eventually, like, you can't push any further in the bars.",
+            "timestamp": "00:21:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Like, you just, if we go back any further.",
+            "timestamp": "00:21:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Let me look at that real quick.",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "This is WebStacks, right?",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah, and this is all my clients have this kind of limitation.",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So it's four, five, six, seven, eight, nine.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So it must be 10 weeks that you max out at.",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "That's one piece that just the, this one, I get, when we're looking at all of 2025, for instance, it's so much easier for me to tell a story like that.",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And then a related piece to that is like, I would love to have a tab up here that's week or month.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "or even day, guess.",
+            "timestamp": "00:22:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "But really, if I had the ability to go to month, that would solve that to some extent anyway.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "when we have a client like...",
+            "timestamp": "00:22:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Sorry, just, I just fixed the bar issue.",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Can you check?",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Can you just go back to like January or something?",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:22:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah, I'll request.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "It should work now.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like I'm looking at it.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's showing stuff all the way back to November, et cetera.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So it should be good.",
+            "timestamp": "00:22:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Oh, sick.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So, whatever that was, that's annoying, but that's...",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Okay, I'll tell Suleman to make that fix.",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "There's basically, there was a limit of like 10 bars or something on this chart.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "probably should go.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "It'd be like this for me.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Like, oh my gosh, now I can like, what a better story.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So, thank you.",
+            "timestamp": "00:23:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "That was an easy fix.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And then having like month versus week would be an awesome one too.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Like this is...",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Sorry, can you expand on that?",
+            "timestamp": "00:23:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Month as in...",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, right now we just have, these are all week.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "These bars are all weeks.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I would love for a July, a June.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Like if I'm looking at reporting.",
+            "timestamp": "00:23:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And then eventually you'd even want like, Webstacks would be to the point where we'd almost want to start sharing quarters.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So you could look at quarter over quarter.",
+            "timestamp": "00:23:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "They're just, you know, these big data sets.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And so when you have like a July 4th, I don't know, any week that's monthly will be more standard reporting in my experience, SEO wise, especially once you move on.",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Out of like the first 12 weeks of engagement, just seeing that grow over time, I can like get some of that, but like Webstacks, when we've been sharing like this last report that we did on Friday, like, I'm struggling to be able to tell him how much we've grown month over month.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And that's what they're looking at.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And so, I don't know if it could be like, I'd rather have that here if it was like, there's no choice, but if in the best case with my look or knowledge being too limited, I dropped down to toggles.",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "mean, if you're, so the way look or works is like, we can't build a monthly view into this chart.",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Like it's not going to automatically refilter this chart or reorganize the data by month.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It needs to be a separate chart.",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if you don't care about the weekly, we can just change the grouping to monthly instead.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And I would even just duplicate it.",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So we have a weekly and a monthly, like, and I've done in the past, just do like, yeah, we have a day, week, month or week month.",
+            "timestamp": "00:24:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "know?",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "know.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "know, cu\u1ed9c",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "But week and month would be enough.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "if I had this exact same thing duplicated, but it was months instead, I would want that kind of across.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And I think that that would be useful for everyone.",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "But otherwise, this helps tremendously already.",
+            "timestamp": "00:25:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "But having that month would be even a next step for me.",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "And just to understand, you want this only in the cohorts tab, right?",
+            "timestamp": "00:25:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Or do you want it in overall and everything else?",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Probably overall.",
+            "timestamp": "00:25:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I would want both.",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "It's like we do do some reporting at the weekly level, but really with Jessalynn's pods, I think it's been a good move.",
+            "timestamp": "00:25:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "It's trying to move to reporting at the monthly level.",
+            "timestamp": "00:25:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "And yeah.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Let me look into that.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "See if we can do it in one chart.",
+            "timestamp": "00:25:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That might be clean.",
+            "timestamp": "00:25:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Or else we're going to have massive reports with every single thing.",
+            "timestamp": "00:25:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "For sure.",
+            "timestamp": "00:25:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And again, the extension of the dates solves that.",
+            "timestamp": "00:25:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So I wouldn't like prioritize.",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "That, like, tremendously, but I think it would be a really good addition.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So not completely backlog, but also don't run and jump to do that today, necessarily.",
+            "timestamp": "00:26:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Makes sense.",
+            "timestamp": "00:26:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:26:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:26:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I will wait for you with regards to those inputs for the sheet, etc.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'll look into the monthly stuff, and I'll fix the bar limit or whatever for basically all the lookers.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'll tell Suleiman to fix it.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Just one more sort of request.",
+            "timestamp": "00:26:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'm actually out of office for the next two weeks, like next week and the week after that.",
+            "timestamp": "00:26:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So if you have any other requests, just throw it in there.",
+            "timestamp": "00:26:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Anything that's especially related to custom requests, kind of like the ones we discussed here, just throw it in there.",
+            "timestamp": "00:26:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'll need to spec it out before I send it to Suleiman because he knows Looker, but he doesn't know the presentation part of it.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So just an FYI.",
+            "timestamp": "00:26:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:26:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I'll get on this, and I'll let you know how we get on.",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "you very much.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Jacob, pulled up our Fathom recording from the meeting this last week, and it looks like what Jesse requested was adding a pie chart of showing content distribution across cohorts.",
+            "timestamp": "00:27:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah, that's right.",
+            "timestamp": "00:27:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:27:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "We asked for a more detailed landing page analysis with impressions, clicks, and position data.",
+            "timestamp": "00:27:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So content distribution across cohorts is number of articles produced?",
+            "timestamp": "00:27:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah, the cohorts of like this, well, I'm really, you know, a pie chart would work, but also even just like a table with, like for him, we have these four or five cohorts, like he, he's like, we can make assumptions that the traffic, like we've done more website and design.",
+            "timestamp": "00:27:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah, because there's more you are.",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "just like he wants to.",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So the first table over there, we could just add a count of the number of URLs in each category.",
+            "timestamp": "00:28:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Would that help?",
+            "timestamp": "00:28:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "That would do it.",
+            "timestamp": "00:28:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:28:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Smart solution to that.",
+            "timestamp": "00:28:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The second one was per URL, he wants, okay, so basically in the, if I hear you correctly, what he's saying is in the overall tab, the table that's present, instead of just sessions and engage sessions, he wants clicks, impressions, CTR, positions, the same table, but with different columns, right?",
+            "timestamp": "00:28:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Yes, I believe so.",
+            "timestamp": "00:28:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So I just dropped it in the chat, but those were kind of the things that were listed.",
+            "timestamp": "00:28:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "So conversion tracking from GA4 events, and then detailed landing page analysis with impressions, clicks, position data.",
+            "timestamp": "00:28:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So I'll go through this one by one.",
+            "timestamp": "00:29:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "The conversion tracking is already here.",
+            "timestamp": "00:29:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "It's in these events.",
+            "timestamp": "00:29:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:29:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "I mean, it's already present.",
+            "timestamp": "00:29:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Was there something specific he mentioned?",
+            "timestamp": "00:29:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Usually when I see this kind of request, it's usually clients saying something like, okay, we want to see conversion events from the URLs that you produced.",
+            "timestamp": "00:29:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Is that just the summary from Fathom?",
+            "timestamp": "00:29:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah, it is.",
+            "timestamp": "00:29:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I think that one is us talking about like us adding the HubSpot conversions.",
+            "timestamp": "00:29:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So that's, I think, I think we've already covered that one.",
+            "timestamp": "00:29:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "I think we were good there.",
+            "timestamp": "00:29:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "And that was me saying it, if I'm remembering.",
+            "timestamp": "00:29:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So I'm good with that.",
+            "timestamp": "00:29:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "landing page analysis, that's fine.",
+            "timestamp": "00:29:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "LLM referral tracking by source, that's in the LLM tab.",
+            "timestamp": "00:29:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "So it's literally that table there.",
+            "timestamp": "00:29:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Fideshot visualization content distribution, this one is just a simple column instead of a Fideshot, which I think will stay realistic.",
+            "timestamp": "00:29:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Yeah, I think this, the one I was remembering was the pie chart.",
+            "timestamp": "00:30:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "I think the other ones are things that like we, I can hear what I said that would have triggered these like bullet points, but I don't think that these, the detailed landing page, like I said, like I only use this for specific, like I can hear my pitch on our, like how to use this, summarizing them this way.",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "So I think we, I'll go back and double check those, but I'm pretty sure that we've covered the additional requests.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:30:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:30:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Thank you for pulling that though.",
+            "timestamp": "00:30:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "That's really helpful.",
+            "timestamp": "00:30:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:30:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:30:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Well, I will touch base with our clients again and get those spreadsheets over to you and I'll send them in, in linear for you.",
+            "timestamp": "00:30:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:30:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:30:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thank for the time.",
+            "timestamp": "00:30:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vivek Shankar",
+                "matched_calendar_invitee_email": "vivek@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:30:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:30:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessalynn Jones",
+                "matched_calendar_invitee_email": "jessalynn@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:30:58"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss integration of HubSpot lead data into Looker reports for GrowthX clients (Tiro and Webstacks)](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [HubSpot data will be exported to a Google Sheet, which Looker can then access for reporting](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=328.0)\n  - [Manual tagging of GrowthX-produced content will be required, but can be aided by VLOOKUP formulas](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=479.0)\n  - [Additional visualizations requested: monthly view option and content distribution across cohorts](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1342.0)\n  - [Vivek will address the bar chart limitation and explore adding monthly data views](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1359.0)\n\n## Topics\n\n### HubSpot Integration Process\n\n  - [Clients (Tiro and Webstacks) to export HubSpot data to a Google Sheet in the Teams folder](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=374.0)\n  - [Sheet to include: create date, first page seen, and GX lead indication](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1030.0)\n  - [GrowthX team to manually tag GX-produced content](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=499.0)\n  - [Looker will read and display data from this sheet](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=499.0)\n\n### Data Visualization Requests\n\n  - [Extended historical data view (bar chart limitation fixed)](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1365.0)\n  - [Monthly view option in addition to weekly](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1401.0)\n  - [Content distribution across cohorts (simple column added to existing table)](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1682.0)\n  - [Detailed landing page analysis with impressions, clicks, and position data (to be implemented in overall tab)](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1700.0)\n\n### Automation Limitations\n\n  - [Direct HubSpot to Looker integration not feasible due to data sampling issues](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=407.0)\n  - [Some automation possible through Airtable exports and VLOOKUP formulas in Google Sheets](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=749.0)\n  - [Looker unable to perform complex data transformations; pre-processing required](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=733.0)\n\n### Reporting Focus\n\n  - [Emphasis on total lead volume and leads from GrowthX-produced content](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=104.0)\n  - [Monthly reporting becoming more important than weekly for most clients](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1534.0)\n\n## Next Steps\n\n  - [Jessalynn to contact Tiro and Webstacks about HubSpot data exports](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1234.0)\n  - [Vivek to fix bar chart limitation across all Looker reports](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1359.0)\n  - [Vivek to explore adding monthly view option to reports](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1549.0)\n  - [Vivek to implement content distribution column in cohorts tab](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1682.0)\n  - [Team to consider future enhancements like industry-based lead reporting when volume justifies it](https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L?tab=summary&timestamp=1565.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Create spreadsheets in Teams folder for Webstacks + Tiro HubSpot data. Include column for GX leads indication.\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:16:21",
+            "recording_playback_url": "https://fathom.video/calls/402516091?timestamp=981.9999",
+            "assignee": {
+                "name": "Jessalynn Jones",
+                "email": "jessalynn@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Contact Webstacks + Tiro re HubSpot exports. Specify fields needed (create date, first page seen, GX lead indicator). Request auto-export to Teams folder spreadsheet.\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:06",
+            "recording_playback_url": "https://fathom.video/calls/402516091?timestamp=1206.9999",
+            "assignee": {
+                "name": "Jessalynn Jones",
+                "email": "jessalynn@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Fix bar limit issue for all Looker reports to show full historical data.\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:22:50",
+            "recording_playback_url": "https://fathom.video/calls/402516091?timestamp=1370.9999",
+            "assignee": {
+                "name": "Vivek Shankar",
+                "email": "vivek@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Investigate adding monthly view option to Looker reports (overall + cohorts tabs). Consider single chart w/ toggle or separate charts.\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:23:10",
+            "recording_playback_url": "https://fathom.video/calls/402516091?timestamp=1390.9999",
+            "assignee": {
+                "name": "Vivek Shankar",
+                "email": "vivek@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Add count of URLs per category in first table of cohorts tab for content distribution analysis.\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:27:51",
+            "recording_playback_url": "https://fathom.video/calls/402516091?timestamp=1671.9999",
+            "assignee": {
+                "name": "Vivek Shankar",
+                "email": "vivek@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Jakub Rudnik",
+            "email": "jakub@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": true,
+            "matched_speaker_display_name": "Jakub Rudnik"
+        },
+        {
+            "name": "jessalynn@growthx.ai",
+            "email": "jessalynn@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Jessalynn Jones"
+        },
+        {
+            "name": "Vivek Shankar",
+            "email": "vivek@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Vivek Shankar"
+        }
+    ],
+    "recorded_by": {
+        "name": "Vivek Shankar",
+        "email": "vivek@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/nPn8QXxPAfKoTvd9FJPGWWxyaxa_1D-L",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

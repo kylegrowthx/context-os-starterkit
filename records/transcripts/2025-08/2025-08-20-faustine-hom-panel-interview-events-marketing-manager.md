@@ -1,0 +1,950 @@
+# Faustine Hom -Panel Interview | Events Marketing Manager
+
+<metadata>
+date: 2025-08-20
+time: 18:19 UTC
+duration: 43 minutes
+organizer: Marcel Santilli
+participants: Faustine Hom, Jason Gong, Marcel Santilli
+fathom_recording_id: 81857284
+fathom_url: https://fathom.video/calls/385040524
+share_url: https://fathom.video/share/ksXyNYTkCd9WL1XCv92aXsWdS_mxRMBy
+source: fathom
+enriched_on: 2026-03-03 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX conducted a panel interview with Faustine Hom for the Events Marketing Manager position, where she presented a comprehensive events strategy spanning CMO breakfasts ($1.5K budget), executive dinner series ($3-5K), industry happy hours ($1-2K), and an annual summit ($24K). Faustine emphasized community-building and relationship focus over hard selling, drawing on her experience running 19 events in 90 days at Notion where virtual workshops proved highest ROI. GrowthX currently succeeds with breakfast events and virtual workshops but sees opportunity in improved promotion, follow-ups, and exploring hybrid formats with speaker sessions.
+
+---
+
+## Context
+
+Faustine Hom is a candidate for GrowthX's Events Marketing Manager role. She brings direct experience from Notion, where she led an aggressive events program (19 events in 90 days) and previously worked at ThoughtSpot in events. This panel interview with Jason Gong and Marcel Santilli aimed to assess her strategic thinking on events as a go-to-market lever for GrowthX—specifically, how to scale beyond the company's current success with breakfast events and workshops to build deeper relationships with high-ACV prospects and customers through experiential marketing. GrowthX's events focus is relationship-building with CMOs and growth leaders, making her experience with audience selection, promotion strategies, and logistics highly relevant to the role.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Faustine's framework for event types (CMO breakfasts, executive dinners, happy hours, annual summit) with documented budgets and execution timelines provides immediate operational playbooks. Her emphasis on roundtable formats over pitches and strategic seating for relationship-building aligns with GrowthX's consultative positioning. Her hybrid format proposal (speaker sessions + workshops) directly addresses GrowthX's current gap in promoting value beyond breakfast format.
+
+- **To GrowthX Business Development:** Virtual workshops show 5x better ROI than in-person events (scalable, no direct cost), while in-person dinners focus on relationship deepening with top prospects/customers. Her audience-building approach (Clay/Apollo for list building, Luma for registration, ambassador model for geographic scaling) provides tactical expansion playbook for GrowthX's growth and CMO communities.
+
+- **To Hiring:** Faustine demonstrated product-thinking about event mechanics (table dynamics, personalized invitations, place cards), comfort with budget ownership ($24K summit), and systematic measurement (ROI lookback calendars across 19 events). Her ambassador-delegation model and willingness to lean on partners for execution shows scalability thinking relevant to a solo events hire.
+
+---
+
+## Overview
+
+- Faustine presented a comprehensive events strategy, including CMO breakfasts, executive dinners, industry happy hours, and an annual summit
+- She emphasized creating value through community building and experiential marketing rather than hard selling
+- GrowthX currently finds most success with breakfast events and virtual workshops, but sees potential for improvement in promotion and follow-ups
+- Budget flexibility exists for high-impact events, with a focus on relationship-building given GrowthX's high ACVs
+
+---
+
+## Key Topics
+
+### Faustine's Event Strategy Overview
+
+  - Proposed four main event types: CMO breakfasts, executive dinner series, industry happy hours, and annual summit
+  - Emphasized creating frameworks and playbooks for each event type
+  - Focused on selecting the right audience, promotion strategies, and day-of logistics
+  - Suggested a cadence of 1-2 monthly CMO events, quarterly happy hours, and an annual summit
+
+### CMO Breakfast Format
+
+  - Target audience: CMOs, growth leaders (director+) from early to mid-stage growth companies
+  - Venue: San Francisco office to save costs
+  - Format: 2.5-hour event, roundtable discussions, no panels or pitches
+  - Attendee mix: 70% prospects, 30% existing customers as advocates
+  - Promotion: Use Clay/Apollo for list building, Luma for registration
+  - Budget: Approximately $1.5K for food, swag, and signage
+
+### Executive Dinner Series
+
+  - Focus: CEOs and founders, more intimate setting
+  - Venue: High-end restaurant private rooms
+  - Format: 3-hour event, strategic seating arrangements, icebreaker questions
+  - Partnerships: Potential co-hosting with VCs or partners
+  - Logistics: Personalized invitations, table questions, place cards
+
+### Annual Summit
+
+  - Scale: 150-200 growth leaders, full-day event plus evening reception
+  - Venue options: Shack 15, Terra Gala, The Pearl
+  - Content: Keynote, case studies, panels, interactive workshops, breakout sessions
+  - Special elements: VIP dinner for 20 selected CMOs, interactive stations (e.g., Robo coffee station, AI genius bar)
+  - Budget: Around $24K for full-day venue, meals, and VIP dinner
+
+### Event ROI and Priorities
+
+  - Faustine's experience: Virtual workshops and webinars showed highest ROI at Notion
+  - GrowthX current success: Breakfast events (low effort, high quality) and virtual workshops
+  - Challenge: Ensuring consistent attendance for in-person events
+  - Opportunity: Improving promotion and follow-up processes for virtual workshops
+
+---
+
+## Action Items
+
+**Jason Gong (GrowthX)**
+- Review Faustine's event planning doc, particularly audience selection strategies for breakfasts and dinners
+
+**Marcel Santilli (GrowthX)**
+- Consider integrating speaker/CEO talks into workshop formats to boost attendance and value
+- Evaluate budget flexibility for proposed events, especially dinners and executive summit
+- Review Faustine's event planning doc in detail, focusing on budget proposals and event formats
+- Discuss internally with team about Faustine's event proposals and next steps in hiring process
+
+---
+
+## Transcript
+**Faustine Hom:** We did a hackathon.
+
+**Faustine Hom:** I created an app where I fed Claude basically the tone and feel of how Notion writes, the brand guidelines who are target audiences, and then it generate things like landing pages, email copy, social copy for me.
+
+**Faustine Hom:** So I was able to kind of present that idea to the team.
+
+**Faustine Hom:** And so kind of in the same breath, I guess like those are kind of running in parallel to like what you guys do at Growthx funny enough.
+
+**Jason Gong:** Hey, Marcel.
+
+**Marcel Santilli:** Hey, so sorry.
+
+**Marcel Santilli:** I hate being late.
+
+**Marcel Santilli:** I was on with the CEO of like our biggest customer and he asked me for advice on something really important.
+
+**Faustine Hom:** And so I like, I really couldn't get off any sooner, but I'm so sorry for being a little bit late, but excited to connect.
+
+**Faustine Hom:** Yeah, we're just doing introductions.
+
+**Faustine Hom:** I did mention I have a hard stop at 12, so I'll keep an eye on timing and try to breeze through these things and still let you guys answer questions.
+
+**Faustine Hom:** But yeah.
+
+**Faustine Hom:** Jason and were just talking about what we do for each one of our roles in the company itself.
+
+**Jason Gong:** Love it.
+
+**Jason Gong:** Yeah, that's perfect.
+
+**Marcel Santilli:** Keep going.
+
+**Jason Gong:** Yeah, no, but I'll keep mine short.
+
+**Jason Gong:** I mean, I lead growth here, you know, work with Marcel super closely.
+
+**Jason Gong:** have our very unique and to me, like, honestly, like one of the best kind of forms of marketing, you know, that I've seen like a kind of a startup do.
+
+**Jason Gong:** So I help Marcel drive that.
+
+**Jason Gong:** And then on the other end, I work with some of our biggest customers doing, you know, sounds like exactly what you were doing at Notion, creating content.
+
+**Jason Gong:** But for us, it's, you know, a lot of workflows, a lot more kind of engineering and deep dives with the customers to create like great kind of, you know, content for them that helps them build audiences, drive signups, you know, and moves their business forward.
+
+**Jason Gong:** My background is basically doing head of growth for a bunch of different companies.
+
+**Jason Gong:** I started my own.
+
+**Jason Gong:** Founder of my own DevTools startup, really technical.
+
+**Jason Gong:** And I met Marcel at a dinner for people that were like kind of using AI.
+
+**Jason Gong:** Sounds like, you know, during the early days, but, you know, not even sure anymore.
+
+**Jason Gong:** And we hit it off and I thought what he was building was just incredible.
+
+**Jason Gong:** So joined him a few months after.
+
+**Jason Gong:** Awesome.
+
+**Jason Gong:** Great to hear.
+
+**Faustine Hom:** Longstanding relationship.
+
+**Jason Gong:** Yeah, almost a year now.
+
+**Jason Gong:** Yeah, don't know.
+
+**Jason Gong:** Marcel, do you want to go?
+
+**Marcel Santilli:** then, yeah, we'll have to hear from you too, Faustine.
+
+**Marcel Santilli:** I don't know what context would be the most helpful, but it's been a wild, fun journey as well.
+
+**Marcel Santilli:** And I think we've been at it now for just about a year as a company.
+
+**Marcel Santilli:** And, you know, officially passed eight digits in revenue run rate.
+
+**Marcel Santilli:** And a company is now a little over 70 people.
+
+**Marcel Santilli:** So it's been like pretty awesome.
+
+**Marcel Santilli:** And we get to work with some awesome brands as well.
+
+**Marcel Santilli:** But I think a lot of the way we've grown has been very organic and community driven.
+
+**Marcel Santilli:** And just because of how the company started with like me doing workshops, you know, online.
+
+**Marcel Santilli:** And people are kind of learning from it.
+
+**Marcel Santilli:** then like, you know, building relationships, building community, and just finding these opportunities to just like create value.
+
+**Marcel Santilli:** And so like fundamentally, I've always believed in like, how do you truly create value in marketing instead of just using marketing as a way to just promote something?
+
+**Marcel Santilli:** You know, and so like, and then when you do that, like, I think one of the biggest testaments to that is like when people pay for your marketing.
+
+**Marcel Santilli:** Like, in other words, like people literally like will pay for workshops or they'll pay for sessions.
+
+**Marcel Santilli:** And it's like really cool.
+
+**Faustine Hom:** Like, and then we launched this community.
+
+**Marcel Santilli:** Yeah, like growth.com.
+
+**Marcel Santilli:** didn't get anything and people just like started swiping credit.
+
+**Marcel Santilli:** We had like 50 people pay 50 bucks.
+
+**Marcel Santilli:** And I was like, people are just tipping us, you know, like for our marketing.
+
+**Faustine Hom:** And I was like, it's kind of cool, you know?
+
+**Marcel Santilli:** So like when you have the stuff.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** There's like, okay, cool.
+
+**Marcel Santilli:** Now like this thing is working when you have the right signals and how do we like to start to bring in help to really like mature this, this program and everything we're doing.
+
+**Marcel Santilli:** And for me, I don't think of events as events.
+
+**Marcel Santilli:** I think of it as more of like experiential and community building with the right substance and the right way to like people experience like your brand and your people and for you to connect people and things like that.
+
+**Marcel Santilli:** You know, so I think of like, is it more like programs and also how all these things need to be, have compounding impact, right?
+
+**Marcel Santilli:** Like so that every, if everything we do as a company helps make other things better, faster, cheaper, and, you know, more impactful, then it's like everything has compounding impact, you know?
+
+**Marcel Santilli:** And so it's like one thing makes the other better, you know?
+
+**Faustine Hom:** And so that's a lot of how we approach events.
+
+**Marcel Santilli:** It's not just like one-off things or community building, not just one-off things, but it's like, hey, we can do this.
+
+**Marcel Santilli:** It's all recorded.
+
+**Marcel Santilli:** Let's turn it into a series.
+
+**Faustine Hom:** We're going to do a series.
+
+**Faustine Hom:** That's how I feel, yeah.
+
+**Faustine Hom:** I always think it's like, the way I explain it, it's like doing life cycle marketing or in a sense like events marketing.
+
+**Faustine Hom:** You're squeezing the juice out of like all these events because not only is it, okay, one day, but it kind of, how do we prolong the content side of things outside of just like the day of event on site?
+
+**Faustine Hom:** How do we turn it into a video?
+
+**Faustine Hom:** How do we do bite-sized content?
+
+**Faustine Hom:** Like how do we turn it into a podcast?
+
+**Faustine Hom:** Podcast and like pretty much broadcast it that way throughout all of your channels.
+
+**Faustine Hom:** You mentioned some really great points.
+
+**Faustine Hom:** I like that you guys are thinking backwards in a sense because not a lot of companies start off investing a lot in like community and brand building where I think that's kind of where my passion lies and is like the events, building the mindshare, the brand awareness.
+
+**Faustine Hom:** Not so much pitching and hard selling, but more so like creating.
+
+**Faustine Hom:** Creating a community, creating like network with the right people in the room, right?
+
+**Faustine Hom:** Because I think, you know, co-founders, CMOs, they get pitched to maybe once a week to sign up for different events and workshops.
+
+**Faustine Hom:** How do we bring value to them specifically?
+
+**Faustine Hom:** And what is it going to get them to come and raise their hand and be like, that sounds like a cool event.
+
+**Faustine Hom:** Or, you know, I know a friend that's going or there's an account in the room that I really want to speak to, so I'm going to go.
+
+**Faustine Hom:** So those are all things I think through when I put an event on select account list and decide who to do one-on-one outreach to.
+
+**Faustine Hom:** So those things are all kind of like part of my event's overarching strategy.
+
+**Jason Gong:** Makes sense.
+
+**Jason Gong:** Yeah, we'll have to just like dive into this.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I'll shoot you a link in the chat.
+
+**Jason Gong:** But, yeah, basically, I mean, maybe you could also give them a review with...
+
+**Jason Gong:** The assignment was just to give us a little bit of context and then, yeah, feel free to dive right in.
+
+**Faustine Hom:** Yeah, definitely.
+
+**Faustine Hom:** So the context of the assignment was to kind of create a framework and playbooks within the four different events, event types.
+
+**Faustine Hom:** That includes a CMO breakfast and executive dinner series, industry happy hours, and annual summit.
+
+**Faustine Hom:** And in my plan and playbook, I'm thinking through how do we select the audience, how do we promote it pre-show and post-show, and what do we do for, like, the day of logistics, and what are some of our activations for each one of these programs.
+
+**Faustine Hom:** I normally like to kind of lay out instead of doing events ad hoc of, like, okay, this month we want to do one happy hour, one dinner, and then maybe, like, consider, like, a workshop here.
+
+**Faustine Hom:** There for some of our meetups, things like that.
+
+**Faustine Hom:** And I think I have to kind of think through like each one of these event types, like what is going to be our target audience and how do we kind of select for like each one of these events?
+
+**Faustine Hom:** So a lot of times at Notion, we look at tier one and tier two cities.
+
+**Faustine Hom:** Where are the accounts sitting in terms of geographic locations?
+
+**Faustine Hom:** Most of our tier one events have been in San Francisco and then some in New York as well.
+
+**Faustine Hom:** We started looking into doing LA.
+
+**Faustine Hom:** There's some movement there and like some founders as well.
+
+**Faustine Hom:** And then tier two cities like Seattle, Austin, and Chicago.
+
+**Faustine Hom:** I've also done meetups there.
+
+**Faustine Hom:** And those are definitely up and coming cities that I would like to kind of experiment and test in for across like some of these events.
+
+**Faustine Hom:** And then in terms of like the event types, you know, these are just some key metrics I would like.
+
+**Faustine Hom:** The cadence would be like once or twice a month, as I mentioned, for SEMO breakfasts and dinners, happy hours, once a quarter, paired alongside if there's a conference in town with the right target audience, and then the once a year annual summit, where it's going to be around 100 folks.
+
+**Faustine Hom:** There's, you know, a budget that I probably run like 10k to spend.
+
+**Faustine Hom:** And then kind of what are some activations, workshop topics, speakers, partners that we can kind of think through for that summit.
+
+**Faustine Hom:** I'll pause there before I kind of dive into each one of these buckets.
+
+**Faustine Hom:** Are there questions so far?
+
+**Faustine Hom:** All right.
+
+**Faustine Hom:** For SEMO breakfasts, I kind of just had some photos in here too.
+
+**Faustine Hom:** So no panels, no pitches.
+
+**Faustine Hom:** Like I said, like these are formats to build mindshare and come up with really A-level topics that what is kind of a challenge for CMOs these days around content and how can we build a community through it for like the small group of people.
+
+**Faustine Hom:** So it's about 15 or 20 people in the room.
+
+**Faustine Hom:** I usually like a long shaped table where we can have a few series of like discussion topics around breakfast.
+
+**Faustine Hom:** And I usually like to have like a barista bar around.
+
+**Faustine Hom:** We'll hold it in the San Francisco office to save money on venue costs.
+
+**Faustine Hom:** And then in terms of like the outline, you know, one hour before it will be set up, this will be about a two and a half hour event, half day.
+
+**Faustine Hom:** And then these are just kind of like the run through of what I think we should do for like the breakdown to facilitate that roundtable discussion.
+
+**Faustine Hom:** Some key topics.
+
+**Faustine Hom:** Here that are trending in the AI space, how are we cutting down on what doesn't scale, you know, how are we going to be heating up new channels, testing new channels, that all in the realms of like marketing and what these CMOs really care about.
+
+**Faustine Hom:** In terms of promotional channels, I have laid out a kind of an executional timeline and these are kind of like the format I like to follow.
+
+**Faustine Hom:** I like to have ample time to create the topic if it's going to be a half day breakfast and then invite the CMOs, usually like use Clay or Apollo to kind of pull lists and then create the Luma page with registration forms and then have vetting questions within the form.
+
+**Faustine Hom:** then, based on what people want to know, we can kind of shape the topics around it too during the breakfast.
+
+**Jason Gong:** Any like, I'm just, since we're talking about like.
+
+**Jason Gong:** The invite part, like any thoughts around how you would, let's say it's 20 people, like shape the attendance list?
+
+**Jason Gong:** Like what types of people to have in there?
+
+**Faustine Hom:** CMOs, growth leaders, probably anyone, director plus.
+
+**Faustine Hom:** And pretty much like, I would say early stage growth companies to mid-size growth companies.
+
+**Faustine Hom:** That's kind of who I would be targeting.
+
+**Jason Gong:** And then in terms of like, because I guess, you know, like we have our existing customers and the CMOs there versus like people kind of outside of our network, even like, would you, like, how would you kind of create that mix?
+
+**Faustine Hom:** Um, I think through Luma, there is a really awesome way to capture registrations where you can open it up to like, you know, whoever can register, but then...
+
+**Faustine Hom:** And in the last two weeks, you kind of decipher, okay, I have 100 people that signed up for this event.
+
+**Faustine Hom:** Let's cherry pick the top accounts matching on the title that we want, the size of the company we want, and the stage of the company.
+
+**Faustine Hom:** And then everybody else can be waitlisted.
+
+**Faustine Hom:** So if we look at the past attendance rates of, like, previous growthx events, you know, let's say it's, like, 50% attendance, we would open it up to invite, to accept 40, but realistically, we would want 20 in the room.
+
+**Jason Gong:** That part, that part's true, pretty straightforward, I think.
+
+**Jason Gong:** I'm thinking more, like, like, because, you know, like, the profile makes sense, but we can invite, you know, existing customers, for example, to build a relationship.
+
+**Jason Gong:** We can invite, like, people in the funnel to, like, push them a little further to, you know, close.
+
+**Jason Gong:** Clothing deals, we can invite people that are almost a little bit cold.
+
+**Jason Gong:** I guess for a smaller group like that, how would you create that mix of how many from each group or focus even on one group?
+
+**Faustine Hom:** How would you think through that?
+
+**Faustine Hom:** Yeah, I would pretty much say I would want it to be 70% prospects, people that might be warm leads.
+
+**Faustine Hom:** And then 30% would be customers, someone that can be in the room to advocate for us, like how great the product is that has been in the tool before.
+
+**Faustine Hom:** There are somewhat champions as well of the product.
+
+**Faustine Hom:** So I would definitely have a mix of both, but still within the same realms of target audience.
+
+**Faustine Hom:** Yes.
+
+**Faustine Hom:** And then pretty much four weeks before, we would promote it through the different channels.
+
+**Faustine Hom:** So like LinkedIn, newsletter, emails.
+
+**Faustine Hom:** And then finalize catering, map out the layout of the room, order like kind of event logistical things from Amazon, and then finalize discussion guides with Marcel if you are going to be hosting, kind of go through the workshop details and the content behind it.
+
+**Faustine Hom:** So we would do the content prep and dry run two weeks before, and then one week before, prepare all the name tags, finalize all the registrations, send finalized confirmation, and like logistics as well.
+
+**Faustine Hom:** Day of, I usually like to get into the room an hour before, I would probably want four or five volunteers from the team to kind of just help me run like the day of, someone be an usher, someone be in charge of the food station, somebody help me with check-in and greeting guests, and then test out the AV equipment a few hours before, if that is something.
+
+**Faustine Hom:** That we need for presentations post event I like to send thank you emails within 48 hours and NPS survey to all attendees to get feedback on what they liked about the content and then any resources like templates, guides that came out of the workshop as along with photos and then personalize any follow ups that might have raised a hand or asked some questions to qualify them as And then a week after post show, analyze like what are some of the engagement metrics that we have in the funnel, document any lessons learned, pretty much create like a one pager of things that went well and then things that we could improve on and then follow up schedule up meetings with like interested prospects with the sales team.
+
+**Faustine Hom:** So that's pretty much like the run of the show and like the playbook that I would do for like the CMO breakfast track.
+
+**Faustine Hom:** We're looking about, you know, $1.5K for, like, investments of just, like, the food and the swag and signage.
+
+**Faustine Hom:** So I'll pause there before I hop into the other sections.
+
+**Faustine Hom:** Any other questions before I move on to dinner series?
+
+**Jason Gong:** I guess for me, it's just, like, I mean, thinking about the audience a little bit, like, you know, pre-senior CMOs of pretty successful companies.
+
+**Jason Gong:** Like, anything, I don't know, to, like, make the experience, I think, special for them?
+
+**Jason Gong:** Because I think for the most part, almost all the people in our network get invited to, like, a bunch of events, right?
+
+**Jason Gong:** Like, you know, after coming to, like, one breakfast, it's, like, some of them are, like, why do I, you know, need to come to another one?
+
+**Faustine Hom:** Yeah, so other things I've done before is send out the registration guest list of confirmed registrants so they know exactly who's going to be in the room if there is, like, a target.
+
+**Faustine Hom:** I've talked to CMOs and they want to do something active too.
+
+**Faustine Hom:** So maybe it's a yoga and juice bar in the morning opposed to coffee, or maybe it's like doing headshots and providing like a digital copy of like headshots as an extra activation.
+
+**Faustine Hom:** I've also done direct mail boxes before where we send them a QR code to redeem like a free juice at like the event.
+
+**Faustine Hom:** So then that way they get excited.
+
+**Faustine Hom:** They learn a little bit more about the event itself.
+
+**Faustine Hom:** And then during the event, they can kind of take with them what they were sent to like redeem something at the event.
+
+**Jason Gong:** Got it.
+
+**Jason Gong:** Have you done something like this before?
+
+**Jason Gong:** Like I was looking at, I guess, Notion, you know, not super kind of in this persona, but you're at Apollo.
+
+**Jason Gong:** Was that the sales tool, Apollo or another?
+
+**Faustine Hom:** Yeah.
+
+**Jason Gong:** Sales tool, Apollo.
+
+**Jason Gong:** so maybe that one's like sales leaders and stuff, Intercom too.
+
+**Faustine Hom:** Like, have you done anything similar to this at those places?
+
+**Faustine Hom:** I'm curious.
+
+**Faustine Hom:** Yeah, so the direct mail play we've done before for conferences, we've done like the QR code and like the direct mailbox where they get some swag.
+
+**Faustine Hom:** They get their like bracelet, kind of you think of like outside lands or like festivals.
+
+**Faustine Hom:** They get like their bracelet and pretty much a little like postcard with like the QR code in it.
+
+**Faustine Hom:** And then they take it with them to the event itself to redeem a free gift.
+
+**Jason Gong:** Okay, cool.
+
+**Jason Gong:** Yeah, no more questions on this event.
+
+**Jason Gong:** Let's see what put together for the other ones.
+
+**Faustine Hom:** Yeah, so the dinner series, we are hosting it in more so of like a private room.
+
+**Faustine Hom:** Very much CEO and founders focused.
+
+**Faustine Hom:** And we would have a three hour time frame.
+
+**Faustine Hom:** Typically in a private room in a high-end restaurant, these are places I've done dinners at before that I come to really like in terms of like pretty much all that they provide is like the space, where to get to the registration, like some of them have like AV needs that like we would want for these dinners.
+
+**Faustine Hom:** This would be around 20 founders where I would curate the room based on their titles and place, strategically place them like where they sit with like name cards.
+
+**Faustine Hom:** We would have, you know, either you or Marcel or Kyle kind of lead some of these dinners as well.
+
+**Faustine Hom:** Um, I've done these also name cards as kind of, um, a really fun way to do, uh, breakouts, like in, um, at Notion we've done like icebreaker questions before kind of discussing like hot that.
+
+**Faustine Hom:** AI topics, you know, what would you wish AI could do to help you more so at work, just so there's like conversation starters in the beginning of the night when people are still arriving.
+
+**Faustine Hom:** These are put on top of their dinner plates as well.
+
+**Faustine Hom:** So each, everybody has a different card that they're given with, with different questions.
+
+**Faustine Hom:** We run this dinner for about two and a half hours, all the way from arrival to dessert and open networking.
+
+**Faustine Hom:** And then we would have open remarks and pretty much like leave this event with like not real, a total agenda and keep it more so on like purely networking.
+
+**Faustine Hom:** In terms of executional timeline, again, wanted to start vetting venues since we won't be able to do it at our office.
+
+**Faustine Hom:** Vetting venues six weeks earlier to kind of secure a private dining hall, send personalized invitations to our targeted founders.
+
+**Faustine Hom:** venues.
+
+**Faustine Hom:** vetting going vetting venues.
+
+**Faustine Hom:** We're We're We're going to
+
+**Faustine Hom:** And then work in partnerships to co-hosts with either a partner or a VC to kind of host these dinners would be awesome.
+
+**Faustine Hom:** And then four weeks before, kind of create a brief.
+
+**Faustine Hom:** For every event that I do, I like to have like a brief that highlights the agenda, who's going to be speaking, what's going to be like the content going to be about, what's the format.
+
+**Faustine Hom:** So I like to put that together if there's a partner or VCs involved so they can get a clear sense of like when to show up and what to expect.
+
+**Faustine Hom:** Two weeks before, create the table questions, the place cards and brief, like pretty much a growth team, like what are the roles and key prospects that are going to be sitting in the room.
+
+**Faustine Hom:** And then just like the day before and day of running more so on like logistics and set up there, greeting guests and directing them to the seat.
+
+**Faustine Hom:** And then post.
+
+**Faustine Hom:** Show, again, following it with, like, the thank you for attendees, and then sharing any professional photos and follow-up on, like, conversations.
+
+**Jason Gong:** And then from there, measuring the results from ROI.
+
+**Jason Gong:** I guess for this one, I guess same question as the CMO breakfast, like, how would you think about filling, like, this one's a little bigger, I'd say, like, 50 or 60.
+
+**Jason Gong:** Or I'd say 40, I don't know if you had a number up here.
+
+**Jason Gong:** Yeah, like, how would you think about filling this room?
+
+**Jason Gong:** Or 20, okay, let's say it's the same size again.
+
+**Jason Gong:** But, like, for dinner versus a breakfast, like, would you think about that any differently in terms of who to bring?
+
+**Faustine Hom:** Yeah, so I would say kind of, like, going back to, like, the strategical, like, deciding factors.
+
+**Faustine Hom:** It's, like, first of all, like, if we want to do a partner or a VC in the room, like, how do we prioritize, like, which accounts do we want for, like, partners to be in the room with us?
+
+**Faustine Hom:** And then for targeted alignment, like, we look out.
+
+**Faustine Hom:** out.
+
+**Faustine Hom:** out.
+
+**Faustine Hom:** we
+
+**Faustine Hom:** I guess at Notion, we look at, you know, Series B and younger founders, you know, within the 100-person company size.
+
+**Faustine Hom:** We look at, like, are they a trendy, like, AI company, like, hot new AI company right now?
+
+**Faustine Hom:** So that's kind of, like, our P1 that we target.
+
+**Faustine Hom:** And then our P2 would be, like, operators, if we don't get enough registrations from, like, the first batch.
+
+**Faustine Hom:** And then it'd be, we'd be opening up to operators and VCs in the room.
+
+**Jason Gong:** Right.
+
+**Jason Gong:** And let's see.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I mean, that makes sense.
+
+**Jason Gong:** And then, I mean, kind of, like, a different question, but, like, in terms of picking the venues, like, you know, have you had an experience where, like, there was kind of a more intense, you know, negotiation?
+
+**Jason Gong:** With one that you could share in terms of security?
+
+**Jason Gong:** Speaking of NU, getting them to, you know, do something a little bit different, just from, like, your past experiences.
+
+**Faustine Hom:** Like, outside of, like, a restaurant, or?
+
+**Jason Gong:** No, it could be a restaurant, it could be a breakfast spot, it could be, like, a conference space, anything.
+
+**Jason Gong:** I'm just looking for, like, an experience before where you've kind of had to negotiate pretty hard, you know, anything like that.
+
+**Faustine Hom:** Are you familiar with the One Courtney in San Francisco?
+
+**Faustine Hom:** That's where we host a lot of our Notion, like, first block series.
+
+**Faustine Hom:** It's around, it hosts around, like, 100 people, it has, like, a rooftop, and it has, like, a space where you could present, like, with AV setup and a panel, and then inside there is also a networking space.
+
+**Faustine Hom:** So because we were, we wanted the entire venue itself, originally they were going to charge us 10k for the entire venue, but because it was the first time we've ever worked with them, we told them, hey, this is going to be serious.
+
+**Faustine Hom:** We're going to do six of these this year.
+
+**Faustine Hom:** Can you give us like a discounted rate?
+
+**Faustine Hom:** So we kind of like went back and forth for a while.
+
+**Faustine Hom:** I got it down to 6.5K all the way from 10K.
+
+**Faustine Hom:** And that includes people like helping out with cleanup.
+
+**Faustine Hom:** That includes like staffing.
+
+**Faustine Hom:** And that wasn't thrown in before.
+
+**Faustine Hom:** So I've to negotiate pretty hard on that.
+
+**Faustine Hom:** And given like the factors of we are going to be coming back, this isn't just an ad hoc event.
+
+**Faustine Hom:** This is going to be a series.
+
+**Faustine Hom:** We are going to keep doing business with you over and over again.
+
+**Faustine Hom:** So, you know, we got it to like lock down at a certain rate.
+
+**Faustine Hom:** So that was a really fun win.
+
+**Jason Gong:** Yeah, it sounds like, I mean, Notion, especially, you you got a bunch of like events and they know who you are.
+
+**Jason Gong:** So you can leverage that pretty hard, I think.
+
+**Faustine Hom:** It's like downtown San Francisco, literally across from the Notion office.
+
+**Faustine Hom:** I can just push a card and drag all my, like, event stuff across the street.
+
+**Jason Gong:** So that was great.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And then, again, slightly different question, but, like, I guess for a lot of these events, there's always, like, no shows.
+
+**Jason Gong:** Like, say you're doing 40 people, right?
+
+**Jason Gong:** Like, or 40 invites, and then 20 people show up.
+
+**Jason Gong:** think it's, like, a number you shared.
+
+**Jason Gong:** And, like, a lot of these are, yeah, and a lot of these are a little bit more intimate.
+
+**Jason Gong:** So, like, you're trying to kind of plan a little bit, like, even where people sit.
+
+**Jason Gong:** Like, how do you kind of manage that when, like, you know, some of them might not even show up, I guess?
+
+**Faustine Hom:** Yeah.
+
+**Faustine Hom:** So a lot of these are, like, the person to the left and right of you, it's usually the same target, like, the same title of people or, like, the same size or same industry.
+
+**Faustine Hom:** So I like to group people together that way.
+
+**Faustine Hom:** Usually about 30 minutes before dinner starts, if I see there's a name card that no one's sitting at.
+
+**Faustine Hom:** I usually take it away and then ask anyone that's like trickling in to see if they want to be like still sat at the same table or like move to the other side.
+
+**Faustine Hom:** Because there are like new school chairs sometimes, especially if you deal with like, oh, like someone like knows someone in the room that they didn't know was coming.
+
+**Faustine Hom:** So I usually am OK making those switches as long as like the other person that their name card is there, they're OK switching to.
+
+**Faustine Hom:** So that's not really an issue.
+
+**Faustine Hom:** It's something I keep an eye on pretty actively throughout the check-in process, which is like the first hour of the night.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** And I know we're kind of like, you know, you said you had a hard stop.
+
+**Jason Gong:** So I'd love to spend maybe the rest of the time on the summit because I think that's probably like the, you know, hairiest one to plan.
+
+**Jason Gong:** Yeah, would you be able to go through your thoughts on that one?
+
+**Faustine Hom:** Yeah, so in terms of like the event formatting, it's going to be a full day.
+
+**Faustine Hom:** Three to six, and then plus like an evening reception paired with it, that's going to be the format of the summit.
+
+**Faustine Hom:** Some options I've worked at in terms of putting together summits is like Shack 15, Terra Gala, the Pearl.
+
+**Faustine Hom:** Just because like these hit all our AV needs, it hits like the spacing requirement as well if we're going to be going for 150 to 200 growth leaders.
+
+**Faustine Hom:** And then in terms of like the breakdown, we would have like the keynote on the main stage, a breakfast, and then the midday was like would be kind of starting with like the case study panels and then like just story panels in general between like maybe two or three CMOs or co-founders.
+
+**Faustine Hom:** It would pretty much lead into interactive workshops and breakout sessions.
+
+**Faustine Hom:** Some of the content here I've covered is like around AI, how to build a like high-performing growth team, turning content.
+
+**Faustine Hom:** And subscribers, kind of like hashing that, those breakout sessions out in terms of topics.
+
+**Faustine Hom:** And then it would close off with a happy hour of the evening, everybody's invited to.
+
+**Faustine Hom:** And then from the 150 to 200 people that attend, we cherry pick about 20 CMOs to join us for a VIP dinner.
+
+**Faustine Hom:** That's like invitation only.
+
+**Faustine Hom:** Thinking through, you asked me about like activations, where are some of the things that can get people excited?
+
+**Faustine Hom:** I've seen where people could have this like robo station before at Coffees, where I've gone to, you upload something, print it out.
+
+**Faustine Hom:** That's something really cool to like put in the activation as like part of the breakfast.
+
+**Faustine Hom:** And then kind of these interactive AI station of like a genius bar, where people can come in, ask questions they might have.
+
+**Faustine Hom:** Challenge whiteboard would be also a really cool one where attendees can come in with, like, their most thought-through challenge that they see on a day-to-day basis on their team and then kind of work through that with, like, maybe a hackathon where it's like other people might answer questions.
+
+**Faustine Hom:** It could be, like, on a FigJam board where people post a question or a problem and then attendees can come up with an answer.
+
+**Faustine Hom:** So, last one is kind of a fun one that I've done this at a conference when I worked at ThoughtSpot because you guys have the bulldog mascot having a puppy in a photo station just for the sake of social posting.
+
+**Faustine Hom:** And, you know, we could work with an organization that I know in the Bay Area that works with bulldogs to take photos and create that, like, memorable experience.
+
+**Faustine Hom:** We can have it kind of, like, labeled here with, like, our logo in it, too.
+
+**Faustine Hom:** So, that's, like, kind of a fun execution we can think through outside of just workshops and panels.
+
+**Faustine Hom:** Execution timeline, because this is a summit, it is just...
+
+**Faustine Hom:** Once a year, I like to start planning things three months ahead of time, if not even sooner.
+
+**Faustine Hom:** That's when we start with, like, the beginning of speaker outreaches, think preliminary about the budget that we need, sponsorships, and then developing, like, a brand and theme around it.
+
+**Faustine Hom:** And, of course, like, securing the date.
+
+**Faustine Hom:** Leading up to about a month out, continuing to do, like, those one-on-one outreaches, inviting people through Luma that have, like, come to past events in our space that might fit the right target audience.
+
+**Faustine Hom:** Create a volunteer ask, because it is a big summit.
+
+**Faustine Hom:** We probably need quite a few GrowthX employees, so I kind of create an agenda of what we need at each station.
+
+**Faustine Hom:** Order a speaker, gifts, book the videography, photographer.
+
+**Faustine Hom:** We probably want to capture some bite-sized content if we want to be thinking about event, like, life cycle for the summit.
+
+**Faustine Hom:** Okay.
+
+**Faustine Hom:** And then the day before, day of, again, running logistics, making sure we have a note before you go email that's sent out of where everything is, like what are the workshops that are available, and then post show, like send the thank you notes, the NPS survey, and then kind of create a look back doc of like what went well and what we need to improve on, and then follow up with like qualified leads there.
+
+**Faustine Hom:** The budget here, around 24k is like what I've worked with before for like other summits for like a full day venue that provides breakfast, lunch, coffee, and then the VIP dinner to like pair this up with.
+
+**Faustine Hom:** And then promotional channels hosted on Luma, LinkedIn, we can pretty much create a plan where we partner with the clients and the speakers to decipher like what we need to do from like handshake agreement of like how are we going to promote this and what are the.
+
+**Faustine Hom:** Timelines is it could be in a newsletter that we both promote to be a post, are ready to like invest in some like LinkedIn ads, things like that.
+
+**Faustine Hom:** So that's pretty much all of it.
+
+**Faustine Hom:** I know I like sped through a lot of this.
+
+**Faustine Hom:** So the last five minutes, maybe we can open up for questions.
+
+**Marcel Santilli:** Yeah, this is super, super helpful.
+
+**Marcel Santilli:** Great job.
+
+**Marcel Santilli:** I think like, maybe just some, we'll have your kind of take on the relationship building piece, you know, or something that of the programs you ran and things you've done, that if you could only do one thing again in the last 12 months, what is the most impactful thing you think you did, you know, program, event?
+
+**Faustine Hom:** Yeah, so in terms of event programming, webinars and workshops, virtual workshops have see
+
+**Faustine Hom:** I did 19 events in the last 90 days at Notion, which is kind of crazy, but we did a look-back calendar of measuring the format and the ROI behind each one of the events.
+
+**Faustine Hom:** Workshops and virtual events was number one, where it doesn't cost anything besides just time and resource, but you can reach so many people across like different channels and geography time zones by just having a workshop and then sending out like templates and a one-pager to follow up with that.
+
+**Faustine Hom:** So I would say I would invest mostly in workshops because it's scalable and repeatable.
+
+**Faustine Hom:** The second thing I would say is like the meetups.
+
+**Faustine Hom:** I think people after COVID also really crave interaction, shaking someone's hand or just, you know, getting outside like their nine-to-five job to go to a happy hour.
+
+**Faustine Hom:** People have really enjoyed that.
+
+**Faustine Hom:** And it's scalable.
+
+**Faustine Hom:** We are able to use some of our ambassadors.
+
+**Faustine Hom:** Like if I'm not in Austin, I'm able to lean on someone on the community team to help me co-host where I offer them virtual support and logistics, create the Luma page for them, and then let them kind of run it alongside with a partner.
+
+**Faustine Hom:** So that's kind of like the best combo is like a happy hour plus a partner.
+
+**Faustine Hom:** You get to marry the two of them sourcing for audiences as well and targetless, and then our side too to kind of fill the room on both ends.
+
+**Marcel Santilli:** Any questions for...
+
+**Marcel Santilli:** Yeah, sorry, go ahead, Jason.
+
+**Jason Gong:** Oh, no, I know we have like four minutes.
+
+**Jason Gong:** So yeah, yeah.
+
+**Jason Gong:** Any questions for us?
+
+**Faustine Hom:** I won't take any more time.
+
+**Faustine Hom:** Yeah, out of all four, I guess, like out of all four different formattings and investments, like where do you see kind of like the most traction thus far?
+
+**Faustine Hom:** I know I've taken a look at your Luma page.
+
+**Faustine Hom:** It seems like you guys do a little bit of each.
+
+**Faustine Hom:** I'm curious to hear, like, what's your P1 and P2, I guess?
+
+**Marcel Santilli:** Oh, man, that's a tough one.
+
+**Marcel Santilli:** Not in a bad way.
+
+**Marcel Santilli:** It's just I think the breakfasts are the lowest efforts for what we get and a lot of high quality.
+
+**Marcel Santilli:** It's just that there are certain people that are not going to come to breakfast or people that are not going to come to a dinner.
+
+**Marcel Santilli:** And I think both of those is just more of a capacity of filling the room.
+
+**Marcel Santilli:** Like, if we could guarantee to fill the room in both with, you know, almost on autopilot, then we would do them way more often even, right?
+
+**Faustine Hom:** Where it's a playbook and scale it.
+
+**Marcel Santilli:** But then, like, to your point, like, the virtual workshops, there are a lot of work to generate the content and keep the content fresh.
+
+**Marcel Santilli:** But then they pay a lot of dividends.
+
+**Marcel Santilli:** But I think there's a lot more work we can do in both, like, the promotion and the follow-ups and have, like, all the steps kind of ready and everything else.
+
+**Faustine Hom:** Thank you.
+
+**Marcel Santilli:** Thank
+
+**Marcel Santilli:** To extract more value.
+
+**Marcel Santilli:** Like we had a thousand people sign up for our last workshop.
+
+**Marcel Santilli:** 500 actually came.
+
+**Marcel Santilli:** It was two hours.
+
+**Marcel Santilli:** And then we individually sent links to people like through my EA and things like that.
+
+**Marcel Santilli:** And, you know, in our community and there's already a thousand views in it, you know, like, so, so it's like, that's very organic.
+
+**Marcel Santilli:** It's like, we're not blasting it out there, you know?
+
+**Marcel Santilli:** And so, but there's like, I think a lot more that we can do there.
+
+**Marcel Santilli:** Like the substance is there and it's resonating with the community.
+
+**Marcel Santilli:** It's more of like, okay, how do we, you know, create an engine around before, during, and after, you know?
+
+**Faustine Hom:** Yeah.
+
+**Faustine Hom:** So we have something at Notion that we started called First Block, where every single month we have, it's a live event, live taping, I should say.
+
+**Faustine Hom:** We have usually a really hot, trendy CEO come speak.
+
+**Faustine Hom:** So we've had Mercor, we've had Clay.
+
+**Faustine Hom:** Now we're doing Decagon to speak at our next one.
+
+**Faustine Hom:** Make with Notion.
+
+**Faustine Hom:** So those are the things that capture people to come.
+
+**Faustine Hom:** Cursor CEO barely gives podcast interviews.
+
+**Faustine Hom:** the fact that he signed up with Notion, a lot of people were trying to get in.
+
+**Faustine Hom:** We had 600 people RSVP for a 100-person room.
+
+**Faustine Hom:** So we definitely had to turn people away.
+
+**Faustine Hom:** But it's like maybe it's like going back to the breakfast.
+
+**Faustine Hom:** Maybe it's like pairing it with a 45-minute chat and then leads into the workshop session.
+
+**Faustine Hom:** So then that way there's a little bit of a networking opportunity and listening to a really cool, trendy company.
+
+**Faustine Hom:** And then it leads into actually hands-on experience that, okay, you listened about how to use AI for your day-to-day.
+
+**Faustine Hom:** Let's put it into action in the next hour at the workshop we're going to be heading into.
+
+**Faustine Hom:** So maybe it's like changing up the format and testing it that way.
+
+**Faustine Hom:** And maybe it's making it a little bit longer of a day.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** That's awesome.
+
+**Faustine Hom:** Yeah.
+
+**Marcel Santilli:** My question was- hard stop, so I want to be respectful of that, but super excited.
+
+**Marcel Santilli:** Maybe we'll also read through the doc even in more details as well, but this is super helpful.
+
+**Faustine Hom:** Yeah, for sure.
+
+**Faustine Hom:** I do have one more question, and that's really around like the budgeting and resourcing.
+
+**Faustine Hom:** What is kind of- do you feel like the budgets that I kind of outlined in each one of these make sense?
+
+**Faustine Hom:** Do we have kind of wiggle room for some of these events?
+
+**Marcel Santilli:** Yeah, I think the way we approach it is a little bit different.
+
+**Marcel Santilli:** We don't spend a ton of money on marketing and sales right now, meaning there's more room to invest more aggressively, but I think for us it's mostly like- How do we do it in a way that we feel is also smart and not just like paying?
+
+**Marcel Santilli:** For the sake of paying, because we don't want to do some of the work ourselves, kind of, you know, like, and so I've just seen events, like, before in the past, where it's just, like, you can do a conference for 200 grand, and you can do a conference or a summit for, like, $2 million, like, and there's some level there where there's diminishing returns.
+
+**Marcel Santilli:** It's just finding, like, if we're going to do it, like, make it really impactful.
+
+**Marcel Santilli:** Like, so, for instance, and, like, I think there's trade-offs on the format.
+
+**Marcel Santilli:** So, for instance, like, we're looking at Quince.
+
+**Marcel Santilli:** Okay, you can do a room at Quince for 23K for 18 people.
+
+**Marcel Santilli:** Or you can do, you know, a room in Lamar that's really nice for 23K for 45 people.
+
+**Marcel Santilli:** Well, like, depending, like, it's less about the budget.
+
+**Marcel Santilli:** It's more like, okay, these, like, we can attract a certain audience here that will come just for the three-star Michelin restaurant, you know, like, and so then, like, that can give us leverage and just trying different things, then doubling down on what's working, you know, and so at the end of the day, it's like, we have very high ACVs, almost 200 grand a year.
+
+**Marcel Santilli:** And so we can afford.
+
+**Marcel Santilli:** Or the relationship building part, you know, and relationships are the most important part for us, you know, yeah.
+
+**Faustine Hom:** Awesome.
+
+**Faustine Hom:** No, that's really great to hear that there is support, as long as it makes sense for the ROI piece, that there is some wiggle room.
+
+**Faustine Hom:** But I would say most of these events, we can host in our own office, besides maybe the dinners and the executive summit.
+
+**Faustine Hom:** But I mean, maybe the dinners too, maybe it's catering, and it's more so a low lift dinner.
+
+**Faustine Hom:** There's definitely different ways to do it.
+
+**Marcel Santilli:** Yeah, yeah, absolutely.
+
+**Faustine Hom:** Awesome.
+
+**Faustine Hom:** Well, I've got it, Yeah, I appreciate it.
+
+**Marcel Santilli:** We'll regroup internally and kind of read through the doc and more details as well.
+
+**Faustine Hom:** Okay, sounds great.
+
+**Faustine Hom:** Thank you so much, Marcel.
+
+**Faustine Hom:** Thanks, Jason.
+
+**Faustine Hom:** Thanks.
+
+**Faustine Hom:** Talk soon.
+
+**Faustine Hom:** All right, bye.

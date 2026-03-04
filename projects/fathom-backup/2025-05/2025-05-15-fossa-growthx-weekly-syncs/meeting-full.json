@@ -1,0 +1,1576 @@
+{
+    "title": "Fossa <> GrowthX Weekly Syncs",
+    "meeting_title": "Fossa <> GrowthX Weekly Syncs",
+    "url": "https://fathom.video/calls/300738962",
+    "created_at": "2025-05-15T18:20:03Z",
+    "scheduled_start_time": "2025-05-15T18:00:00Z",
+    "scheduled_end_time": "2025-05-15T18:30:00Z",
+    "recording_id": 62912918,
+    "recording_start_time": "2025-05-15T18:01:16Z",
+    "recording_end_time": "2025-05-15T18:19:51Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Regarding the CVE vulnerability pages that we were going to set up on your site, I'm going to drop a link to the Google Doc that Jacob initially shared, and I added some extra stuff to it.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I just generated a quick, like, HTML code of what a CVE vulnerability page could look like, just to, like, help us kind of frame, you know, like, the initial idea, I guess.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But, yeah, the main idea is just to basically have individual pages for each vulnerability that would contain specific, like, information, I'm assuming based on my very, like, I don't have a technical background, but this could be pulled in from an API, but I'll let you guys take it from here and curious to see, like, what the FOSSA team needs.",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "from us and sort of vice versa.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, I mean, I think I can start.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Like, I think we like the idea of doing, you know, a bunch of these CVE pages.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It's complementary to some of what we're working on or thinking about for FOSSA registry.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "You know, I think the thought, the hope was that it's something where you might be able to kind of build and deliver kind of the pages that are almost fully ready for us.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "if that's at all possible.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so, you know, I provided kind of that list of different sources that we could integrate.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And yeah, I mean, I think I think that's kind of where the discussion lies is, you know, what are you able to kind of build on your end?",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "What's realistic?",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "What information would you need from us?",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So on and so forth.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Uh.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Uh.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Okay, as I start, what is with generating the content, and also how we should publish or send you the page?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, so we don't have a CMS today.",
+            "timestamp": "00:02:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "What we have is a collection of kind of static pages that we manage through GitHub.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Most of our pages are written in Markdown, but I don't think that's a hard and fast requirement.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But Aaron, I guess I would kind of defer to you here, not defer, but I think you might have some additional good context on, like, technical requirements for us to be able to publish.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Mute, mute, mute.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "Okay, yes, no, think you hit the important parts.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "The entire site itself is hosted in a GitHub repo.",
+            "timestamp": "00:02:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "So that gives us a fair amount of API flexibility, but doesn't give us a lot of CMS flexibility.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "So we would want to work with you to figure out kind of what's the best structure for these pages, maybe starting with what you think the design of the page should look like.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "And then that can help us instruct us whether we need to go through the markup route or whether we need to go turn these into full-fledged landing pages.",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "And so I think the key for us right now is we can work with you to figure out the right technical way to get the pages out of the site.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "But we would want to figure that out and have you deliver us kind of the pages into the repo.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "We don't have, you know, and between Andy and I, we don't have a whole lot of technical kind of depth.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "We'd really like to be able to kind of hand that off and have you help us build all the way from design to actually getting it into the repo.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah, that helps.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "It's kind of flexible.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So first we'll have it to just like publishing mark, so mark.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "We were able to do that, like, supply a markdown of the content.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "The only, like, something that must be defined is how we're going to present, how is the layout, the page, if you're going to require, like, a more advanced components and styling.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So that's, like, and we have to define that first, if we're going to have to change the...",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "how the publishing process is going to go.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So you would essentially need a mock-up of not only the content, but what the page design and page layout looks like?",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah, how the final product should be.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So, so, because if you just, like, regenerate it.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "If a markdown is enough, just so we can generate a markdown file and we can try to push to the...",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "We pull automatically, and then we just review the pull request and publish.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "I don't know if it's how we are deploying the website right now, but then we can find this final way of publishing the content.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So, yeah, I was trying to look, I was looking at the Google Docs to see if there's anything on the page, on the content that would be like complex that we need to build like a JavaScript company or something more advanced.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Like just going quickly, I didn't see anything like too advanced.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So, yeah, so we can start, let's start imagining just, we're going to provide you a markdown.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "We can put it on the website and then as soon as we get more clear the idea of design, if it's going to be more advanced, then we can use it.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "I think that makes sense, too.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "Did you have a wish list of interactive elements, or were you thinking that we could get away with kind of flat text, or like, you know, mostly text?",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, I mean, I think, you know, there's always the balance between speed and quality.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I, for these, lean towards speed.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so, you know, I think it needs to be on brand for the rest of our site, obviously, which is basically dark mode.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Like, that's our brand right now.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But aside from that, you know, the harder part right now is making sure that we are able to kind of appropriately synthesize all of the different CVE information from all the different sources.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so, you know, it's really two things that need to be tackled, right?",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It's page layout design, and then...",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It's how do we programmatically take all these different CVE data sources and combine them into a really good page.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So I think those are the two things that we need to tackle.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So, yeah, we have how we generate the content and the publishing, so, and the design.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So those, like, three buckets of things to define something.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "But, yeah, I think that just to generate page, it's kind of straight, it is straightforward, so, like, you have a easy way to publish a new page, then we have the content, so then I...",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So, yeah, I think, so, like, publishing the pages is simple, it's easy, it looks really good.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So it's just more like defining the content.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, I found a GitHub doc that is accessible, I think, via an API that allows us to pull like information about different CVEs.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And I think we could use that for these pages.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Now, how, I mean, I'm not sure how we would integrate that into the pages.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That's for the engineering team.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But I did find this as a resource and I added it to the doc.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "How do you usually work?",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I mean, I guess, Aida, what are your initial thoughts on like how we kind of start to tackle these two challenges, right?",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "The layout and the design and then the actual, you know, data sources and content generation.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So.",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "so.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "From.",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Design standpoint, how have you been, for example, how did you design the registry?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That's sort of because if you already have a way that you like things to look like, is there a design team involved or do you have like a template for a page that we could kind of use, but maybe tweak a little bit?",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "No, and kind of, but probably not.",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Our CEO of I've coded everything.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So, you know, I think the recommendation would essentially be, you know, feed the registry page structure to V0 and tell it to create something similar and then export the code.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, Marcus, have, FOSSA has on their website, they have these, like these registry pages.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I'll send them to you and you can take a look to see if that's like something similar that we could do as like a.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Not as a template, but just as inspiration.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "From a content generation standpoint, I just need to know what data is going to be pulled via an API about a specific CVE, and what data is not going to be pulled, what data we have to generate.",
+            "timestamp": "00:10:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So we just need to decide what is the data source that we're going to use for these pages.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I have the GitHub link here, but this is something that I think Marcus can take a look at and then let me know what is probably the best data source we can use for these pages, and what types of information are going to be pulled in programmatically.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Once I know that, I can give suggestions for additional like H2.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "These H3s we can add to each page.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And that is relatively, like, it's a straightforward process for me.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "It's not super complex.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I think the biggest thing is just, like, understanding, like, deciding which data source we're going to integrate with and how we're going to do that and where that plugs into our internal workflows in Aeroops, which is something that we have to figure out internally.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Talking to Jacob about this originally, think his thought, which was exciting to us, was that you have, like, kind of individual data sources for CVE pages, but the ability to potentially kind of combine the best of, you multiple data sources into a more comprehensive page.",
+            "timestamp": "00:11:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so I think that, directionally, is very interesting to us.",
+            "timestamp": "00:11:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But, you know, I guess the question is just, like, what the next step looks like there.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Marcus, so from your side, what do you think could be the next step or is there any other information that you need from me or from FOSSA to put this together?",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah, publishing the page is simple, so there's nothing more that I need on technical details, so probably just to see a template, a model that we have now, then should be okay.",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "So on the coatings, that's, yeah, that's a little bit more, you have just to define, you have to figure out the source of CVs and how you're going to generate each page.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, so you want us to pick basically the data sources, and then you're going to basically just like pull the data, right?",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah, and how, what should be a page, what's the content of the one page, and then we make the workflows for that.",
+            "timestamp": "00:13:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Mm-hmm, okay, okay, that makes sense, okay, I understand.",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, I guess to you it doesn't seem like an overly complex project?",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "No, or making the fish, no, but the content, it is like the CVS is, like each one has one ID, they have like some tech related, so you just have to make sure that the content is valid and correct.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah, that's, that's my concern.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, exactly, yeah.",
+            "timestamp": "00:13:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, that's my job, okay.",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, so, all",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Right, so I think we just need to decide on the data sources and put together a template for what, just like a content mock-up of a template of what these CDEs should look like, and then you can, what's the best way to preview this, though?",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Like, if I were to, like, put something together next week for, like, one CDE, how can we preview this to, like, show it to the FOSSA team?",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "If we can get access to the GitHub, and then we make a copy, or have a staging environment that we can, or we can just provide the markdown file for you, etc.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "That's what I would suggest, like, for what, uh, uh, uh, It, it would, it would be nice if we could create, um, a branch where, like, we could play with this stuff, um, so, um,",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "Andy, don't see any issues with that, you?",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "No.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "Okay, let's make that happen, and that way we can make sure that we can see it in full context and not kind of have it as a separate thing.",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "Yeah, yeah, yeah, absolutely.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, do you guys have, like, any other questions or concerns?",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Like, right now I'm pretty clear on what I have to do.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I don't think you guys have to do anything, so now it's, like, up to me to, like, just decide on the data sources and put together, like, the template, but do you have any other questions or, like, concerns?",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "No, no.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Okay, okay, great to hear.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I am excited because it's been a long time coming to, like, put something together, so I'm excited to get started with this.",
+            "timestamp": "00:15:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'll try to put something together tomorrow and share it with Marcus as soon as possible.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But my goal is to have, like, this ready, hopefully.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Next week, Marcus, what's your schedule looking these days?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah, we can talk about it.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah, I'm...",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "You're flexible.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, they updated our AirOps grid today, and their notifications are blowing up on Slack.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So the engineering team is pretty busy today, but we can definitely work something out next week.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "On the editorial content front, the 10 CWE blogs, they are done, but I am reviewing them today and tomorrow.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So those are also going to be ready for you soon.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Excellent.",
+            "timestamp": "00:16:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Is that something where you will be able to get an engineer or something to look over the code again?",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, yeah, for sure.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I can send that.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Marcus, can you send a look over code snippets?",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, great, great.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank Thank you.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, and on our end, it's been a real challenge to figure out, not to figure out, but to actually build the series in the way we want to build it.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It happens when you don't have a CMS.",
+            "timestamp": "00:17:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "We are working on it.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So our hope is to get everything up sooner than later.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, I totally get it.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "The most important thing is I'm happy that we're going to finish out the series.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I'm happy about that.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But yeah, I think, let me take a look at another look at the agenda.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, no, mean, I think from our end, those are the two things, right?",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "The CWE editorial series and then, you know, making sure that we're on the same page about a plan to move the CVE PSEO initiative forward.",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So those are my two priorities.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I think we are all aligned on that front.",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So you are all basically waiting for me.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Give you next steps.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I'll sync up with Marcus internally and then get back to you tomorrow or early next week with like some next steps.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:18:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Well, thank you, guys.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Have a great rest of your day.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And if you have any questions, let me know in Slack.",
+            "timestamp": "00:18:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Will do.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thanks, Aida.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thanks, Marcus.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aaron Williams",
+                "matched_calendar_invitee_email": "aaron@fossa.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:18:22"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss progress and next steps for CVE vulnerability pages and CWE blog series for FOSSA's website.](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [CVE pages: GrowthX to provide content template and data sources; FOSSA to grant GitHub access for staging/preview](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=66.0)\n  - [CWE blogs: 10 articles completed, under review; code snippets to be checked by GrowthX engineer](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=167.0)\n  - [Next steps: Aida to finalize data sources and content template for CVE pages, sync with Marcus, and update FOSSA team](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=724.0)\n\n## Topics\n\n### CVE Vulnerability Pages Development\n\n  - [GrowthX to create individual pages for each vulnerability](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=66.0)\n  - [Content generation: Need to decide on data sources (e.g., GitHub API) and what information to pull programmatically](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=399.0)\n  - [Page design: Aim for speed over complexity; should match FOSSA's dark mode brand](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=385.0)\n  - [Publishing process: Initially using markdown files, with potential for more advanced components later](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=233.0)\n  - [FOSSA to provide GitHub repo access for staging/preview of pages](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=134.0)\n\n### Technical Requirements and Workflow\n\n  - [FOSSA's website: Static pages managed through GitHub, mostly in Markdown](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=134.0)\n  - [No current CMS, but API flexibility available](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=174.0)\n  - [GrowthX to deliver pages into the repo after finalizing structure and design](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=205.0)\n  - [Marcus (GrowthX) confident in handling technical aspects of publishing](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=228.0)\n\n### Content Generation and Data Sources\n\n  - [Aida found potential GitHub doc accessible via API for CVE information](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=485.0)\n  - [Goal: Combine multiple data sources for comprehensive CVE pages](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=689.0)\n  - [Next step: GrowthX to define data sources and generate content for each page](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=743.0)\n  - [Aida to create content mock-up and template for review](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=840.0)\n\n### CWE Blog Series Progress\n\n  - [10 CWE blog articles completed, currently under review by Aida](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=989.0)\n  - [Code snippets in articles to be reviewed by Marcus (GrowthX engineer)](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=1013.0)\n  - [FOSSA facing challenges in publishing series due to lack of CMS, but working on it](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=1020.0)\n\n## Next Steps\n\n  - [Aida to finalize data sources and create content template for CVE pages](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=724.0)\n  - [GrowthX to set up GitHub branch for CVE page development and preview](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=873.0)\n  - [Aida to share CVE page mock-up with Marcus ASAP, aiming for next week](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=949.0)\n  - [Aida to complete CWE blog review and send code snippets to Marcus for technical review](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=1012.0)\n  - [FOSSA to provide GitHub access for GrowthX team to work on staging environment](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=900.0)\n  - [Aida to sync with Marcus internally and provide next steps to FOSSA team by early next week](https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1?tab=summary&timestamp=1080.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Select data sources for CVE info, create content template for CVE pages",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:10:22",
+            "recording_playback_url": "https://fathom.video/calls/300738962?timestamp=622.9999",
+            "assignee": {
+                "name": "Aida Kne\u017eevi\u0107",
+                "email": "aida@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Set up GitHub branch/staging env for GrowthX team to test CVE pages",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:14:22",
+            "recording_playback_url": "https://fathom.video/calls/300738962?timestamp=862.9999",
+            "assignee": {
+                "name": "Aaron Williams",
+                "email": "aaron@fossa.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Review and finalize 10 CWE blogs, send to Marcus for code snippet review",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:16:18",
+            "recording_playback_url": "https://fathom.video/calls/300738962?timestamp=978.9999",
+            "assignee": {
+                "name": "Aida Kne\u017eevi\u0107",
+                "email": "aida@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Review code snippets in 10 CWE blogs once received from Aida",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:16:42",
+            "recording_playback_url": "https://fathom.video/calls/300738962?timestamp=1002.9999",
+            "assignee": {
+                "name": "Marcus Derencius",
+                "email": "marcus@growthxlabs.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Andy Drukarev",
+            "email": "andy.drukarev@fossa.com",
+            "email_domain": "fossa.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Andy Drukarev"
+        },
+        {
+            "name": "Aaron Williams",
+            "email": "aaron@fossa.com",
+            "email_domain": "fossa.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Aaron Williams"
+        },
+        {
+            "name": "Daniel Lopes",
+            "email": "daniel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jakub Rudnik",
+            "email": "jakub@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kevin Wang",
+            "email": "kevin@fossa.com",
+            "email_domain": "fossa.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "kirkland@growthxlabs.com",
+            "email": "kirkland@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "marcus@growthxlabs.com",
+            "email": "marcus@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcus Derencius"
+        },
+        {
+            "name": "Aida Kne\u017eevi\u0107",
+            "email": "aida@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Aida Kne\u017eevi\u0107"
+        }
+    ],
+    "recorded_by": {
+        "name": "Aida Kne\u017eevi\u0107",
+        "email": "aida@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/FZJWKpZo7yaThYgFCYn7ngB2Y2xd-sp1",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

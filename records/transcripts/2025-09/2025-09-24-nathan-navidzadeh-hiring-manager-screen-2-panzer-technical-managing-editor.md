@@ -1,0 +1,1223 @@
+# Nathan Navidzadeh -Hiring Manager Screen 2 - Panzer | Technical Managing Editor
+
+<metadata>
+date: 2025-09-24
+time: 17:43 UTC
+duration: 45 minutes
+organizer: matthew@growthx.ai
+participants: Matthew Panzarino (GrowthX), Nathan Navidzadeh (Candidate)
+fathom_recording_id: 89575614
+fathom_url: https://fathom.video/calls/418286474
+share_url: https://fathom.video/share/_NZzj9z35-1VgmPo2LNUWRZF2x4oJAzz
+source: fathom
+enriched_on: 2026-03-03 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Matthew Panzarino (CCO at GrowthX) conducted a hiring manager screen with Nathan Navidzadeh for the Technical Managing Editor role. Matthew explained GrowthX's AI-assisted content pipeline model—where human content managers oversee AI-generated draft workflows that handle research, drafting, fact-checking, linking, and metadata—and emphasized that the ME role requires deep understanding of both content strategy and LLM capabilities to identify and articulate pipeline improvements. Nathan walked through his relevant experience building AI-assisted workflows at Resalta, including rapid content generation for breaking news, prompt engineering for persona-based content repurposing, and hands-on work with LLM training at Outlier, which aligned closely with GrowthX's near-term focus on composable, modular content processes that can eventually scale to a SaaS product.
+
+---
+
+## Context
+
+This was the second hiring manager screen for a Technical Managing Editor position at GrowthX, a B2B content marketing services company. Matthew Panzarino, who serves as Chief Content Officer, led the conversation. He previously worked as editor-in-chief of TechCrunch for roughly 10 years and brings both editorial and pipeline engineering expertise to GrowthX. The company's core business involves AI-assisted content pipelines managed by humans (content managers) that produce high-quality client deliverables at scale. The Technical Managing Editor role emerged from Matthew's recognition that successful pipeline performance directly correlates with business results—requiring someone who can blend traditional editorial management skills with hands-on understanding of LLM capabilities, prompt architecture, and context engineering to identify blockers and articulate improvements. Nathan Navidzadeh came to the conversation with a hybrid background spanning creative writing, scientific research (master's in biology), SEO content strategy, and recent hands-on experience prompt engineering and LLM training, making him a strong cultural and technical fit for the role's requirements.
+
+---
+
+## Relevance
+
+### To GrowthX Delivery
+
+- Nathan's proven experience building workflow systems to boost productivity (repurposing reviews for multiple personas, rapid content creation for breaking news) directly maps to the core work of refining content pipelines for client scalability.
+- His hands-on work at Outlier training LLMs gives him rare insight into how models respond to specificity and context—critical for the ME's role in articulating prompt and architecture improvements to engineering.
+- His background in scientific writing and research synthesis (master's biology, sports science, Deloitte courses) provides depth in translating complex technical information into clear content, which aligns with GrowthX's differentiator of human-readable, accurate output that stands up to close reads.
+- Nathan's demonstrated ability to isolate what's slowing down manual processes (e.g., rewriting reviews for different personas) and architect AI solutions mirrors the ME's day-to-day work of identifying pipeline slack and filing improvement tickets.
+
+### To GrowthX Business Development
+
+- Nathan's background managing multiple website properties and affiliate content portfolios, combined with his SEO expertise, positions him to work closely with content managers on client strategy and identify upsell opportunities (e.g., directories, advanced content types).
+- His experience running rapid content cycles (from law change to published article in one afternoon) demonstrates project velocity and client value delivery—skills that will inform account strategy and retention conversations.
+- Early signal of strong alignment with GrowthX's long-term vision: Nathan proactively asks about the company's 95% pipeline maturity point, the path to SaaS, and how modular approaches scale—indicating the kind of strategic thinking that drives account growth.
+
+### To Hiring and Company Culture
+
+- Nathan's multifaceted background (scientist, writer, musician, entrepreneur, AI trainer) matches GrowthX's stated preference for people who bring diverse perspectives and can adapt across client needs and project types.
+- His ability to clearly articulate complex workflows and ask clarifying questions (e.g., "How does the pipeline start? Does the content manager begin with a prompt?") suggests strong communication and intellectual curiosity—table stakes for the role.
+
+---
+
+## Overview
+
+- GrowthX uses AI-powered content pipelines managed by humans to produce high-quality, client-ready content at scale
+- Technical ME role involves overseeing content managers, improving pipelines, and driving client strategy
+- Company vision: Develop composable content generation process, eventually offer SaaS product alongside services
+
+---
+
+## Key Topics
+
+### GrowthX's Content Production Model
+
+  - Uses AI pipelines managed by humans (content managers) to produce client content
+  - Pipelines handle research, drafting, proofreading, fact-checking, linking, metadata, image generation
+  - Content managers review/edit pipeline output, identify improvements
+  - Managing Editors (MEs) oversee strategy, clear blockers, articulate pipeline improvements
+
+### Technical Managing Editor Role
+
+  - Combines traditional ME duties with technical understanding of AI/LLM capabilities
+  - Articulates process improvements to engineering team
+  - Drives client strategy, analyzes performance, identifies upsell opportunities
+  - Requires deep understanding of content creation and AI pipeline capabilities
+
+### Nathan's Relevant Experience
+
+  - Developed AI-assisted workflows for rapid content creation on breaking news
+  - Created system for efficiently repurposing product reviews across multiple sites/audiences using ChatGPT
+  - Background in biology, sports science writing, and SEO content strategy
+
+### GrowthX's Vision and Challenges
+
+  - Near-term: Refine content generation process, make it more composable
+  - Mid-term: Develop public-facing SaaS product for basic content needs
+  - Long-term: Expand to other business processes beyond content
+  - Challenge: Differentiating from competitors by focusing on high-quality, human-readable content
+
+---
+
+## Action Items
+
+- **GrowthX Hiring Team** — Follow up with Nathan Navidzadeh regarding next steps in the hiring process for Technical Managing Editor role; evaluate fit based on demonstrated experience with LLM workflows and prompt engineering.
+- **Nathan Navidzadeh** — Consider how his experience building content workflows, training LLMs, and managing content scalability aligns with GrowthX's near-term focus on composable pipelines and longer-term SaaS vision.
+
+---
+
+## Transcript
+**Matthew Panzarino:** Hello.
+
+**Matthew Panzarino:** Hello.
+
+**Nathan Navidzadeh:** How are you?
+
+**Nathan Navidzadeh:** Hi, Nathan.
+
+**Matthew Panzarino:** How are you?
+
+**Matthew Panzarino:** Very good.
+
+**Nathan Navidzadeh:** Very good.
+
+**Matthew Panzarino:** Excellent.
+
+**Matthew Panzarino:** Excellent.
+
+**Matthew Panzarino:** Thanks for taking the time.
+
+**Matthew Panzarino:** Happy to chat a little bit about the role.
+
+**Matthew Panzarino:** My name is Matthew.
+
+**Matthew Panzarino:** I'm the chief content officer here at GrowthX.
+
+**Matthew Panzarino:** Normally that would be an external facing role at a lot of companies, but here it is mostly internal facing.
+
+**Matthew Panzarino:** I work with our teams to ensure that the client deliverables are high quality, understand the needs and desires of the content managers and how that affects our pipelines, and enact improvements into the pipelines to help improve the quality and output.
+
+**Matthew Panzarino:** So basically context engineering, prompt engineering, pipeline engineering, and helping to understand how that affects content quality.
+
+**Matthew Panzarino:** I'm bringing my brain and editorial background together.
+
+**Matthew Panzarino:** And making sure that the pipelines reflect the best practices, basically.
+
+**Matthew Panzarino:** I had a background in content.
+
+**Matthew Panzarino:** I was the editor-in-chief of TechCrunch for about 10 years, ran our editorial operations there, and our global events.
+
+**Matthew Panzarino:** So I'm kind of bringing that content world and then putting it into a more composable format that we can use to produce work for clients.
+
+**Matthew Panzarino:** Yeah, so that's me.
+
+**Matthew Panzarino:** And happy to hear a little bit about you and your background and kind of where you're coming from.
+
+**Matthew Panzarino:** Yeah, absolutely.
+
+**Nathan Navidzadeh:** I'm kind of a dual-sided brain type of guy where I have this big creative side, you know, where I play music, I love to write, I love to tell stories.
+
+**Nathan Navidzadeh:** But then my background in education is in the sciences, so I have my master's degree in biology.
+
+**Nathan Navidzadeh:** And when I came out of university, I was trying to find ways to kind of merge the two, and I found this kind of sports science company startup where I had to essentially do deep research.
+
+**Nathan Navidzadeh:** So I'd have to really understand the technicalities of different scientific topics and then simplify that research for athletes and coaches to understand.
+
+**Nathan Navidzadeh:** So I got to really kind of merge the two there.
+
+**Nathan Navidzadeh:** That's kind of how I got my entry into writing professionally.
+
+**Nathan Navidzadeh:** And then from there, I moved on to different gigs from writing for courses.
+
+**Nathan Navidzadeh:** was writing courses for Deloitte was one of our clients at the time.
+
+**Nathan Navidzadeh:** And so I would interview various subject matter experts, learn all about their field.
+
+**Nathan Navidzadeh:** And then we would help basically research and write a course with them and then iterate over that content with them to make sure that it was good for the course.
+
+**Nathan Navidzadeh:** So that was, again, it was, you know, internal for them.
+
+**Nathan Navidzadeh:** From there, I eventually moved into writing to rank on Google.
+
+**Nathan Navidzadeh:** So that's where I got all my SEO knowledge.
+
+**Nathan Navidzadeh:** It was essentially a company that managed a bunch of affiliate marketing websites.
+
+**Nathan Navidzadeh:** So they would buy different websites that were doing fairly well.
+
+**Nathan Navidzadeh:** And then they would help them.
+
+**Nathan Navidzadeh:** They would just grow them even more for more revenue.
+
+**Nathan Navidzadeh:** And I joined that team as a content strategist.
+
+**Nathan Navidzadeh:** And I got to learn a lot about SEO and would manage different content managers.
+
+**Nathan Navidzadeh:** That had their own set of writers until eventually they decided to scale back on the content managers, kept all the writers.
+
+**Nathan Navidzadeh:** And then they were like, Nathan, can you just do what all the content managers were doing?
+
+**Nathan Navidzadeh:** So then I was essentially managing six websites.
+
+**Matthew Panzarino:** Wow, that old story, yeah.
+
+**Nathan Navidzadeh:** Yeah, yeah.
+
+**Nathan Navidzadeh:** And then, I mean, you know, AI was, ChatGPT was at like, I think, 3.5, kind of around the time that I left or maybe a few months after that.
+
+**Nathan Navidzadeh:** But, you know, with AI, we were trying to find new ways to, to essentially like, you know, boost productivity and kind of scale up the capacity of production, you know, with a linear team.
+
+**Nathan Navidzadeh:** So I was able to, you know, there was different ways that I was able to do that.
+
+**Nathan Navidzadeh:** And then eventually I was like, I can't do this anymore because this is not, it wasn't the focus of it, the AI part of it.
+
+**Nathan Navidzadeh:** And then, then I started essentially freelancing for, I don't know if you know, like Outlier.
+
+**Nathan Navidzadeh:** So I joined them pretty early on on the outlier platform because they were paying really well comparatively to what the company I was working for previously was.
+
+**Nathan Navidzadeh:** And so that was really cool.
+
+**Nathan Navidzadeh:** So then I got all my experience in kind of learning how to write a prompt to get what you want out of a model, learning how you're going to, how we're actually going to improve the model, like train the model.
+
+**Nathan Navidzadeh:** So there's all these different projects that you're on and you kind of get a sense of, I see the direction.
+
+**Nathan Navidzadeh:** This is, you know, we're focusing on training it on reasoning here.
+
+**Nathan Navidzadeh:** We're focusing on training it on its knowledge recall with a stylistic tone of, you know, you're going to feed the, you know, the model needs to write this out for 13-year-olds or college students and, you know, the different kind of audiences that you'd want the model to target.
+
+**Nathan Navidzadeh:** So it was really, really interesting because I got to learn how to train the models. And before that I was learning how to use models to output. All of it.
+
+**Nathan Navidzadeh:** Then I found GrowthX and I was like, well, this is cool.
+
+**Nathan Navidzadeh:** This is like merging that aspect of it.
+
+**Nathan Navidzadeh:** Like I get, you know, you guys both output the content and you're also developing that in-house tool to, to improve how we can use AI and combine it with experts.
+
+**Nathan Navidzadeh:** I mean, that's, I guess me in a nutshell, there's like, there's lots more to me, obviously, but.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah.
+
+**Nathan Navidzadeh:** You know, it's like, it's like a LinkedIn profile.
+
+**Matthew Panzarino:** What is in between the lines is always 10 times as interesting.
+
+**Matthew Panzarino:** And, you know, that's, that's kind of the way that we work.
+
+**Matthew Panzarino:** And we'd like to bring in people who are multifaceted because, you know, we do a doing client work, you know, you never know what's going around the pike.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** So if you have a biology background, my mind's already like, Hmm, I know some clients that you'd be great to work with.
+
+**Nathan Navidzadeh:** Right.
+
+**Matthew Panzarino:** Just because gut checking, scientific thinking in articles and things like that, or not just, we don't just do articles.
+
+**Matthew Panzarino:** So like any output that we have, like having somebody with a background in that kind of thinking is helpful.
+
+**Matthew Panzarino:** And then, you the rest of the work we do is very much a two-hander, where you are working with the same kinds of content processes that you have probably worked with many times in the past, from ideation, keyword research, generation, drafting, fine-tuning, proofing, et cetera.
+
+**Matthew Panzarino:** And then also working with writers to do that work, or content managers, right?
+
+**Matthew Panzarino:** So let me explain our stack really quickly to you.
+
+**Nathan Navidzadeh:** This is a good context.
+
+**Matthew Panzarino:** So the pipelines are the writers.
+
+**Nathan Navidzadeh:** They are doing the writing.
+
+**Matthew Panzarino:** The content managers are managing the pipelines.
+
+**Matthew Panzarino:** That's why manager is in their title.
+
+**Matthew Panzarino:** They are not managing people.
+
+**Matthew Panzarino:** They are managing the pipelines.
+
+**Matthew Panzarino:** They, of course, are the elastic part of that review process.
+
+**Matthew Panzarino:** So whatever the pipeline can't do yet, either we haven't engineered it or it's not capable of it, whatever, they take up that slack.
+
+**Matthew Panzarino:** Sometimes that slack is deep, right?
+
+**Matthew Panzarino:** Sometimes it's like a taut rubber band, right, for a particular client at a particular site.
+
+**Matthew Panzarino:** Then hopefully we build automations in and build improvements to the pipeline in to where that elasticity comes down and they're able to then take on more or produce more for a client, et cetera.
+
+**Nathan Navidzadeh:** Can you give me an example of that, like a concrete, what that kind of challenge was and then, you know, what Slack was?
+
+**Matthew Panzarino:** We have a client that is an unlaunched, but we're preparing content for their launch, women's supplement company.
+
+**Matthew Panzarino:** And they have three products for perimenopausal, postmenopausal, and premenopausal women.
+
+**Matthew Panzarino:** And those products have deep dossiers on each of them that outlines why all the ingredients are in there, what they do, know, their product positioning, all of that.
+
+**Matthew Panzarino:** They also have an ingredients list.
+
+**Matthew Panzarino:** And so what ingredients are in each product?
+
+**Matthew Panzarino:** What are the brand names of those ingredients?
+
+**Matthew Panzarino:** What are their dosages?
+
+**Matthew Panzarino:** What is all the specifics you could want about those ingredients?
+
+**Matthew Panzarino:** Our default pipelines, we're not really equipped to take all of that because that's a lot of context.
+
+**Matthew Panzarino:** I mean, these are 20,000, 30,000 token documents, you know, that are, they're just huge.
+
+**Matthew Panzarino:** And so you can't really just dump those into a chat and hope, right?
+
+**Matthew Panzarino:** You can, but it won't work.
+
+**Nathan Navidzadeh:** So you have to do a handful of things to that.
+
+**Matthew Panzarino:** You have to build a knowledge base that can either do a light rag or a vectorization of that data in order for queries to be run against it in a relatively time-sensitive order.
+
+**Matthew Panzarino:** Then you have to build workflows that can, that know the right questions to ask and adjustments to make to the articles.
+
+**Matthew Panzarino:** And then you have to architect it in the right way.
+
+**Matthew Panzarino:** When are those occurring?
+
+**Matthew Panzarino:** Is that occurring before or after fact-checking?
+
+**Matthew Panzarino:** Is some fact-checking going to elide something that exists for Biologica because it doesn't know that the Biologica product exists on the public web?
+
+**Matthew Panzarino:** Like, you know, all of the thought press, that's engineering, right?
+
+**Matthew Panzarino:** That, from a, from a...
+
+**Matthew Panzarino:** Lowercase e, engineering, right?
+
+**Matthew Panzarino:** The uppercase e is, okay, let me write the code, let me write the prompts, and all that stuff.
+
+**Matthew Panzarino:** The content managers in MEs aren't really responsible for engineering the pipelines from a capital e perspective, but from a lower e perspective, you would be involved in like, oh, we need, this is missing, right?
+
+**Matthew Panzarino:** Like your content manager is telling you, hey, it's taking me an hour to get these client ready after they come out of the pipeline, so like per piece of content, and we have 10 do this week, and it's driving me nuts.
+
+**Matthew Panzarino:** It's like, hey, what's going on?
+
+**Matthew Panzarino:** Why, what are you missing?
+
+**Matthew Panzarino:** What isn't the pipeline doing?
+
+**Matthew Panzarino:** Well, I have to go through it and manually add like TM to all these ingredients.
+
+**Matthew Panzarino:** Well, that's an automatable process, right?
+
+**Matthew Panzarino:** Let's talk about that.
+
+**Matthew Panzarino:** Let's articulate it clearly, aka prompt engineer it, and then let's make sure that the context is properly formatted, aka context engineering, to be able to access and pull the correct information, and then let's build that into the pipeline.
+
+**Matthew Panzarino:** Now the pipeline does that, and you no longer have to do that manually.
+
+**Matthew Panzarino:** you.
+
+**Matthew Panzarino:** recently.
+
+**Matthew Panzarino:** So that is a lease of analysis, right?
+
+**Matthew Panzarino:** So that's one example.
+
+**Nathan Navidzadeh:** Yeah, that totally makes sense.
+
+**Nathan Navidzadeh:** So I'm getting a better sense now of what the content manager and what the pipeline does.
+
+**Nathan Navidzadeh:** The interaction there, how does it start?
+
+**Nathan Navidzadeh:** Does the content manager start with a prompt?
+
+**Nathan Navidzadeh:** Or how does the pipeline begin?
+
+**Nathan Navidzadeh:** Yeah.
+
+**Matthew Panzarino:** Yeah, quick, 30-second synopsis of, like, steady state client engagement.
+
+**Matthew Panzarino:** The content manager gets tactical information from the ME.
+
+**Matthew Panzarino:** ME is like, hey, I talked a little bit with a client.
+
+**Matthew Panzarino:** They really want to go after this new cluster.
+
+**Matthew Panzarino:** They want to lean into this world.
+
+**Matthew Panzarino:** They're going after engineers.
+
+**Matthew Panzarino:** They were going after architects before, right?
+
+**Matthew Panzarino:** We need to adjust our strategy here.
+
+**Matthew Panzarino:** So we've come up with a new strategy.
+
+**Matthew Panzarino:** There's a cluster of content here that I'd like you to dive into and start working on.
+
+**Matthew Panzarino:** Could you run a keyword analysis on this cluster, pull out some keywords?
+
+**Matthew Panzarino:** I'll do a review of those keywords to make sure that I feel with my taste and sensibilities.
+
+**Matthew Panzarino:** That they are the right ones to go after.
+
+**Matthew Panzarino:** Now you've got a list.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** We need to deliver five pieces from that list this week to the client for review so that they can approve it.
+
+**Matthew Panzarino:** Let's assume this client has a review process.
+
+**Matthew Panzarino:** Some of them just are like, publish, please.
+
+**Matthew Panzarino:** know.
+
+**Matthew Panzarino:** So the keyword research is still heavy.
+
+**Nathan Navidzadeh:** We still do the heavy lifting on that.
+
+**Nathan Navidzadeh:** You're going to use Ahrefs or something, SEMrush.
+
+**Matthew Panzarino:** like we have some tools for it that are automated, and we will eventually build all of that tooling into our platform because SEMrush or Ahrefs are kind of like, they're okay, but like, you know, they can be better because they do have like a very strong like SEO-centric take on things, and our clients often have like a structure-based take on things, and so those can sometimes collide where you can get, oh, yeah, this is a great keyword, but it actually sucks for the client's goals, you know.
+
+**Matthew Panzarino:** Like it's attackable, it's accessible keyword, it's challengeable, but it doesn't really drive towards their goal.
+
+**Matthew Panzarino:** So anyhow, long and short, yes, we use Ahrefs or SEMrush right now.
+
+**Matthew Panzarino:** We can pull via the API and we have some tooling that does that, or you can just log on to our enterprise account and run your SERP analysis, right?
+
+**Nathan Navidzadeh:** I just want to say, I love that, but that's the first, that is the approach that we're starting with, is get that information first, get that approved, and then that drives the rest of the pipeline, is what I'm hearing, right?
+
+**Matthew Panzarino:** Yeah, because what you end up with is if people are making ad hoc decisions on a day-to-day basis, you have to then answer for those goals six months from now, or 12 months from now, and you can't go back and fix all of the tactical stray, right?
+
+**Matthew Panzarino:** The tactical lack of adherence over the last six months.
+
+**Matthew Panzarino:** That's not the way content works, right?
+
+**Matthew Panzarino:** Content is future prediction, and you cannot predict the future accurately based on hand-waving.
+
+**Nathan Navidzadeh:** Now you need data, yeah.
+
+**Matthew Panzarino:** You'll be, and then watch the data, right?
+
+**Matthew Panzarino:** Like, have a close read of the data.
+
+**Nathan Navidzadeh:** And so, yes, start with that keyword analysis.
+
+**Matthew Panzarino:** Start with some grounding in what we think we can actually drive results for at a base level.
+
+**Matthew Panzarino:** Of course, results could be traffic.
+
+**Matthew Panzarino:** It could be time on page.
+
+**Matthew Panzarino:** could be a variety of things.
+
+**Matthew Panzarino:** And those things are tackled starting with a strong POV, then through to keyword research to back it up with data, then through to execution by making sure that the format plays and it works for the stated goals.
+
+**Matthew Panzarino:** And, of course, the client input.
+
+**Matthew Panzarino:** Like, hey, we want to.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** Or we want glossary posts.
+
+**Matthew Panzarino:** Fine.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** Let's make sure that those are structured properly.
+
+**Matthew Panzarino:** We also have a point of view.
+
+**Matthew Panzarino:** And that's why most of our clients hire us.
+
+**Matthew Panzarino:** So that they say, hey, we've been hearing a lot about geo.
+
+**Matthew Panzarino:** We're like, yeah, no kidding.
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** Obviously.
+
+**Matthew Panzarino:** We're taking care of that in these four ways for these articles.
+
+**Matthew Panzarino:** We're making sure they have a TODR.
+
+**Matthew Panzarino:** We're making sure that they have questions and answers that are grouped by section.
+
+**Matthew Panzarino:** Whatever.
+
+**Matthew Panzarino:** You know, whatever tactics we employ.
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** But we start with the keywords.
+
+**Matthew Panzarino:** Then, once that keyword research has been done, the...
+
+**Matthew Panzarino:** You have a cluster of topics to go after.
+
+**Matthew Panzarino:** Those topics are generally formatted as titles, let's call it, right?
+
+**Matthew Panzarino:** So rather than just a bare keyword, it's, hey, what is like a potential title of an article that would drive the desired result for this keyword?
+
+**Matthew Panzarino:** And that could be something like, you know, how to do pricing analysis for A&E firms, right?
+
+**Matthew Panzarino:** Cool.
+
+**Matthew Panzarino:** We can write an article about this for you.
+
+**Matthew Panzarino:** We have all the context of your company.
+
+**Matthew Panzarino:** We know what personas you're going after.
+
+**Matthew Panzarino:** We understand your writing guidelines.
+
+**Matthew Panzarino:** These have all been established through prior, you know, work.
+
+**Matthew Panzarino:** We're not talking about the sprint process.
+
+**Matthew Panzarino:** We're talking about steady state.
+
+**Matthew Panzarino:** These have already been established.
+
+**Matthew Panzarino:** Then your CM would drop the topic into the beginning of the pipeline.
+
+**Matthew Panzarino:** There would generally be a pre-filled prompt or assignment direction or article direction that comes with understanding of what that client wants for that cluster of content.
+
+**Matthew Panzarino:** So that would sort of be ready to go.
+
+**Matthew Panzarino:** They wouldn't have to manually.
+
+**Matthew Panzarino:** do that every time, but they can adjust it or replace it entirely if you want a specific outcome for that article or group of articles.
+
+**Matthew Panzarino:** Then that is your prompt, effectively your user prompt, and the system prompt is, okay, write a good article, Dan, don't just mess around with it.
+
+**Matthew Panzarino:** And then it has its own steps, yeah, that it goes through, yeah, yeah.
+
+**Matthew Panzarino:** So then you fire that off into the pipeline, and then it does a bunch of stuff.
+
+**Matthew Panzarino:** Research, article drafting, proofreading, adherence, like as we mentioned with the supplements company, adherence to any post-processing or proofreading steps.
+
+**Matthew Panzarino:** Fact-checking, we have our own fact-checker, we built it, it's really good, that removes hallucinations or flags them.
+
+**Matthew Panzarino:** Then internal linking, external linking, metadata tagging, staging for publishing, image generation, so we have a lead image that's tailored to their tone and style from their brand guidelines.
+
+**Matthew Panzarino:** And then output.
+
+**Matthew Panzarino:** The CM's job is then to make sure there's a couple of human interactive steps I'm skipping.
+
+**Matthew Panzarino:** Like, okay, check the path, approve it, move forward, you know.
+
+**Matthew Panzarino:** But at the end, their job is to take that output, then look at it and read it and adjust it and do the human thing of like, you know what?
+
+**Matthew Panzarino:** Semantically, I don't think this plays.
+
+**Matthew Panzarino:** Or we should swap these sections, right?
+
+**Matthew Panzarino:** I think this makes more sense from a narrative perspective.
+
+**Matthew Panzarino:** If they do those things and they are doing them consistently from article to article, they should really be part of it.
+
+**Nathan Navidzadeh:** Yeah.
+
+**Matthew Panzarino:** Like, if you're writing instructions on how to make the pipeline better, every time you edit or artifact it or adjust anything, I personally recommend that most of our pods have a cloud project specifically for each task related to a client.
+
+**Matthew Panzarino:** So not one cloud project for everything, but like, hey, are you editing articles?
+
+**Matthew Panzarino:** Make sure there's a specific project for that, that has the exact context needed.
+
+**Matthew Panzarino:** As you prompt and mess around with an article in there to get the desired result, you are effectively building a prompt library that we can then use to improve the pipeline.
+
+**Matthew Panzarino:** So if you spent 20 minutes today, you should spend 15 minutes tomorrow, and then 10 minutes the next day, until it gets down to like five minutes, where you're like, hey, I'm doing the human thing of like, nah, my gut says this headline stinks.
+
+**Matthew Panzarino:** I'm going to change your thing.
+
+**Matthew Panzarino:** What a creative free song that happens when you look at an article.
+
+**Matthew Panzarino:** Like, that's the job.
+
+**Matthew Panzarino:** The job should not be, let me remove this damn period that appears every time.
+
+**Matthew Panzarino:** That's stupid.
+
+**Matthew Panzarino:** You know, it's a waste of human potential to do so.
+
+**Matthew Panzarino:** So we architect the pipelines, hopefully, long enough and in a stringent enough fashion in order to get it into that state.
+
+**Matthew Panzarino:** And that's the CEM's day to day.
+
+**Matthew Panzarino:** So the ME's job is to clear blockers, help them understand where their process is falling down.
+
+**Matthew Panzarino:** Articulate improvements to the pipeline, file tickets with engineering on the internal facing side.
+
+**Matthew Panzarino:** On the client facing side, it's drive strategy.
+
+**Matthew Panzarino:** Talk to them about their goals.
+
+**Nathan Navidzadeh:** Make sure that they're read in on their reporting.
+
+**Matthew Panzarino:** Make sure you're read in on the reporting so that when you do the weekly check-in calls, you're like, we noticed this really cool uptick.
+
+**Matthew Panzarino:** Are you cool if we do more articles in this cluster?
+
+**Nathan Navidzadeh:** Welcome to me.
+
+**Matthew Panzarino:** You know, just actively listening to them, understanding where there are opportunities to, for lack of a better term, upsell.
+
+**Matthew Panzarino:** They're like, oh, this is great.
+
+**Nathan Navidzadeh:** This is awesome.
+
+**Matthew Panzarino:** We'd really love to do X1.
+
+**Matthew Panzarino:** You know what would be really good for that?
+
+**Matthew Panzarino:** Like a directory.
+
+**Matthew Panzarino:** We could build you out of spec for that.
+
+**Matthew Panzarino:** And then they look at, oh, I love this.
+
+**Matthew Panzarino:** Cool.
+
+**Matthew Panzarino:** We built your lovable prototype.
+
+**Matthew Panzarino:** Here it is.
+
+**Matthew Panzarino:** Take a glance.
+
+**Matthew Panzarino:** And they're like, oh, this is awesome.
+
+**Matthew Panzarino:** Awesome.
+
+**Matthew Panzarino:** That'll be like an extra 15K, please.
+
+**Matthew Panzarino:** And that kind of thing is like part of keeping them engaged long-term.
+
+**Matthew Panzarino:** They view us as a partner.
+
+**Matthew Panzarino:** They view us as so essential.
+
+**Matthew Panzarino:** That they're like, I have to spend so much money to do what these people are doing for me.
+
+**Nathan Navidzadeh:** And spend so much time and labor, right?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** So that's kind of how we work.
+
+**Matthew Panzarino:** I love that.
+
+**Nathan Navidzadeh:** I love that you guys are in a state where you have, you need a role like that.
+
+**Nathan Navidzadeh:** Was that a, like, is that why this role existed?
+
+**Nathan Navidzadeh:** Because that was a challenge.
+
+**Nathan Navidzadeh:** You guys saw an opportunity for somebody to look after all of the different kind of output that the content managers come up with, like pipeline changes that they come up with and to oversee that.
+
+**Nathan Navidzadeh:** Because there was kind of a demand or was it more of a demand for the client?
+
+**Nathan Navidzadeh:** Or were you, like, how did this role kind of emerge in that context?
+
+**Nathan Navidzadeh:** The technical ME role?
+
+**Matthew Panzarino:** That's right.
+
+**Nathan Navidzadeh:** Yeah.
+
+**Matthew Panzarino:** So originally this role was managing editor.
+
+**Matthew Panzarino:** We added the technical part because we realized, like, hey, a lot of results-driven outcomes at this company are tied really closely to pipeline performance performance and ability.
+
+**Matthew Panzarino:** We to articulate where inputs are the problem, where process is the problem, or where architecture is the problem, right?
+
+**Matthew Panzarino:** Like where is the issue, right?
+
+**Matthew Panzarino:** Because at a steady state, you and the CM both get to spend most of your time thinking about the client and not a whole lot of time thinking about, you know, the way the pipeline's working because it's functioning for you.
+
+**Nathan Navidzadeh:** But that's not where most of the pipelines start.
+
+**Matthew Panzarino:** You know, most of them start in some state between really rough and like barely able to get the client work out.
+
+**Matthew Panzarino:** And you're like, cool, I can spend a ton of time getting this in client-shippable shape.
+
+**Matthew Panzarino:** So we added the technical component and are trying to match our outreach to folks who have done a lot of work with LLMs, a lot of understanding of the way that they react to inputs and to sensory requests and semantics, so that they know how to speak to them.
+
+**Matthew Panzarino:** It's not that you are in charge of engineering them. But if you understand the specificity necessary, the context necessary to achieve a certain outcome from them, it's going to make everyone's lives so much easier when it comes time to fix an issue.
+
+**Nathan Navidzadeh:** Got it, got it.
+
+**Nathan Navidzadeh:** Because I'll be able to look at it with that perspective of like, oh, this wording here, it's probably doing it because of this.
+
+**Matthew Panzarino:** Or it's probably losing this context. These kinds of conflicts happen all the time.
+
+**Matthew Panzarino:** Like, oh, don't use bullet points.
+
+**Matthew Panzarino:** And then later on, you're like, make sure that you use at least one bullet point per section.
+
+**Matthew Panzarino:** it's a very important example, but like, it happens, you know?
+
+**Matthew Panzarino:** And writers, you get in your head because the client is like telling you all these things that you want. You're like, okay, cool.
+
+**Matthew Panzarino:** That's the writing guidelines.
+
+**Matthew Panzarino:** And let's make sure it's in there, right?
+
+**Matthew Panzarino:** They're like, we never want to say, you know, it's a game changer.
+
+**Matthew Panzarino:** Cool.
+
+**Matthew Panzarino:** Okay, we'll add it there.
+
+**Matthew Panzarino:** And then later on, you're like, make sure you use really declarative language that's bold.
+
+**Matthew Panzarino:** And it's like, game changer's bold, you know?
+
+**Matthew Panzarino:** And like, you get these conflicts and you just have to like, it's prompt engineering, right?
+
+**Nathan Navidzadeh:** But then that's architecture.
+
+**Nathan Navidzadeh:** So you might want down the tone, and then you're going to want the double check afterwards to be like, if you use Game Changer, change that to something else.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** Right, yeah, I got it.
+
+**Matthew Panzarino:** But just the order that the steps are executed in, like understanding the concept of a pipeline, frankly, is still rare.
+
+**Matthew Panzarino:** It's still vanishingly rare in the overall scheme of things for people that we go out and talk to.
+
+**Matthew Panzarino:** There's plenty of people that are amazing at content, and they understand the process of working with writers and developing content from a keyword through a brief and outline and then to drafting.
+
+**Matthew Panzarino:** They get that, they grok that.
+
+**Matthew Panzarino:** That has to be hip pocket.
+
+**Matthew Panzarino:** That's table stakes.
+
+**Matthew Panzarino:** You have to be able to add a link, go like, there's a structural issue with this content, or there's like a narrative flow problem, or isolate and identify.
+
+**Matthew Panzarino:** It is the other stuff that is harder to find.
+
+**Matthew Panzarino:** It is, okay, how do you articulate that clearly for a combination of human and machinery to properly develop into a pipeline that saves everybody time.
+
+**Matthew Panzarino:** Because just to be very frank, this company does not exist unless we build enough leverage to work at a higher scale than a human is capable of doing.
+
+**Nathan Navidzadeh:** So if I just wanted to run a content agency, I would just hire 40 content managers and then like task them all with producing 10 pieces a week.
+
+**Matthew Panzarino:** And now, you know, 400 pieces to play with.
+
+**Matthew Panzarino:** Now I can get, you know, 25 clients.
+
+**Matthew Panzarino:** But you're building your product too.
+
+**Nathan Navidzadeh:** Yeah.
+
+**Nathan Navidzadeh:** Yeah, that's cool.
+
+**Matthew Panzarino:** But we want to service hundreds of clients.
+
+**Matthew Panzarino:** And we are absolutely capable of doing it if the pipelines work, right?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** So that's kind of where it is.
+
+**Matthew Panzarino:** And yeah, there's a bit of product development, you know, in it.
+
+**Matthew Panzarino:** It is what it is.
+
+**Matthew Panzarino:** That's cool.
+
+**Matthew Panzarino:** But that's the part that gets me really excited, actually.
+
+**Nathan Navidzadeh:** It's super, it's super interesting.
+
+**Nathan Navidzadeh:** But so what's the, what's the vision then?
+
+**Nathan Navidzadeh:** So once, once the pipeline gets to a certain point where we figured out, do you think there's always going to be that kind of, you know, how did you just.
+
+**Nathan Navidzadeh:** Describe it to Slack and the, you know, the challenges that come with every new client and the pipeline.
+
+**Nathan Navidzadeh:** Do you think those challenges will always be there with every new client?
+
+**Nathan Navidzadeh:** Or do you think there'll be a certain point where the pipeline will be like 95% there and it'll require almost no, like very little input to improve it for that specific client?
+
+**Nathan Navidzadeh:** Do you think we're going to get there?
+
+**Nathan Navidzadeh:** And then if so, what do you, you know, where do you see this going?
+
+**Nathan Navidzadeh:** What's the vision for GrowthX at that point?
+
+**Matthew Panzarino:** Yeah, cool.
+
+**Matthew Panzarino:** So like there's longer term vision stuff, but we don't really have enough time to talk about it.
+
+**Matthew Panzarino:** But you can imagine the longer term vision being, hey, if we can do this for one business process, we can probably do it for others, right?
+
+**Matthew Panzarino:** We are building a mechanic for understanding process.
+
+**Matthew Panzarino:** It just so happens we're starting with a really, really hard process, which is the creative process of writing something that is human readable, architecturally sound, decent content that also is performant.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** And that's tough.
+
+**Matthew Panzarino:** I'm sure you've worked with really great writers and you gave them an outline and they come back with a draft and you're like, crap, this is amazing.
+
+**Matthew Panzarino:** Like really great logical flourish on this.
+
+**Matthew Panzarino:** Great style.
+
+**Matthew Panzarino:** Like I never would thought to do it.
+
+**Matthew Panzarino:** This is good.
+
+**Matthew Panzarino:** You're like, great.
+
+**Matthew Panzarino:** How did you do this?
+
+**Matthew Panzarino:** And they're like, I don't know.
+
+**Matthew Panzarino:** Right?
+
+**Nathan Navidzadeh:** Like you're like, really?
+
+**Matthew Panzarino:** How you do it?
+
+**Nathan Navidzadeh:** And they're like, I don't know.
+
+**Matthew Panzarino:** I just started here and then I kind of wrote this stuff and then this came out.
+
+**Matthew Panzarino:** Right?
+
+**Nathan Navidzadeh:** Oh, that's awesome.
+
+**Matthew Panzarino:** How do we capture that?
+
+**Nathan Navidzadeh:** Yeah.
+
+**Nathan Navidzadeh:** Yeah.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** So our process is really capturing that.
+
+**Matthew Panzarino:** So near-term goals is pulling apart the writing process in enough granular detail to make it composable and to make it so that we can reliably produce content that's within a handful of minutes of delivering to a client for review or publishing once it comes out of the pipeline.
+
+**Matthew Panzarino:** Most of the pipelines are not there.
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** Just because there's not enough sophistication in the product, et cetera.
+
+**Matthew Panzarino:** In the near term, our job is to, yes.
+
+**Matthew Panzarino:** Articulate the process to make sure we have enough poseable joints, right?
+
+**Matthew Panzarino:** GI Joe, and like, how many joints do I need to like do an action pose?
+
+**Matthew Panzarino:** You know, you got the old Mattel figures, which had one joint and they could do up and down, right?
+
+**Matthew Panzarino:** That was it.
+
+**Matthew Panzarino:** Then you got GI Joe's, you're like, oh my God, you know, I can do all sorts of things.
+
+**Matthew Panzarino:** That's the way we need to do.
+
+**Matthew Panzarino:** We need to have enough articulation points to make sure that we can pose them in all the ways that we want.
+
+**Matthew Panzarino:** So as we go through this iterative process with clients, what we're finding is that there is an enormous amount of modularity to it.
+
+**Matthew Panzarino:** What one client needs, most likely almost every client needs at this point, at this stage in our development.
+
+**Matthew Panzarino:** Now there's always some specificity for the client.
+
+**Matthew Panzarino:** So the goal is, yes, identify the things that are repeatable needs.
+
+**Matthew Panzarino:** For instance, proofreaders, knowledge bases.
+
+**Matthew Panzarino:** These are things that didn't exist three months ago that exist now because they had a client need.
+
+**Matthew Panzarino:** And then other people, oh yeah, my client needs it too.
+
+**Matthew Panzarino:** Well, so.
+
+**Matthew Panzarino:** So like that idea of building up the product in the near term, there's going to be a lot of fruit that's so low it's this far off the ground, right?
+
+**Matthew Panzarino:** There's a lot still left.
+
+**Matthew Panzarino:** But once we've cleared the decks of all of that stuff, what we probably end up with is a product that is good enough to be public facing.
+
+**Matthew Panzarino:** So we can say, hey, we have a SaaS product for you that can do a decent amount of what GrowthX has been doing for clients over the past year, whatever.
+
+**Matthew Panzarino:** Then if you need something more advanced or you need to execute more advanced engagements, let us talk to you about our services, which can help you with this.
+
+**Matthew Panzarino:** So one example of a base thing that we may offer to clients or that it seems is fairly predictably on the horizon for clients is that a content driven blog post workflow that a client should be able to operate themselves by inputting.
+
+**Matthew Panzarino:** The appropriate artifacts using an on-prem artifact builder.
+
+**Matthew Panzarino:** Most of them have no clue how to build artifacts, right?
+
+**Matthew Panzarino:** Like company contacts, voice and tone guidelines, or what we call writing guidelines, personas, they have no clue how to build those right, right?
+
+**Matthew Panzarino:** Like even people who are good at AI, talk to them about their artifacts and I'm like, these are terrible.
+
+**Matthew Panzarino:** Like we are at the bleeding edge of like artifact engineering for content delivery.
+
+**Matthew Panzarino:** And so like the tools that we can build them to do that, we should be able to ship something for them on the nearer term that allows people to do things like, oh my gosh, I can get a really coherent, adherent to style blog post that's out of this tool.
+
+**Matthew Panzarino:** And this is probably one of the better tools I've ever used to do this, right?
+
+**Matthew Panzarino:** So we feel we can deliver that fairly soon.
+
+**Matthew Panzarino:** The longer term is like, hey, I want to analyze my site for geo visibility, track metrics, and do complex engagements like ship whole product hubs, glossary directories, or even developer documentation.
+
+**Matthew Panzarino:** We'll be able to do that, but we haven't articulated those processes clearly enough yet to offer them to the public.
+
+**Nathan Navidzadeh:** That's cool.
+
+**Nathan Navidzadeh:** I like that.
+
+**Nathan Navidzadeh:** That's cool.
+
+**Matthew Panzarino:** Yeah, so I guess like now that you know a lot about that, like talk to me about relevant experience you've had with workflows, building processes, things like that.
+
+**Matthew Panzarino:** So I think those are the things we're most interested in.
+
+**Nathan Navidzadeh:** Yeah, so when I was working for the company Resalta, where ChatGPT was just kind of coming out and starting to become more useful in the content world, I came up with a couple of workflows. One was where a law article came out—a bylaw in the States. One of our major revenue websites was essentially selling VPN services through affiliate marketing.
+
+**Nathan Navidzadeh:** And so that bylaw was going to affect potentially VPN usage.
+
+**Nathan Navidzadeh:** And so the article came out, the law came out that morning.
+
+**Nathan Navidzadeh:** And so we all saw it.
+
+**Nathan Navidzadeh:** was all on our radar.
+
+**Nathan Navidzadeh:** was sent over Slack.
+
+**Nathan Navidzadeh:** Everybody was like, oh, this came out.
+
+**Nathan Navidzadeh:** We've got to figure out what we've to do.
+
+**Nathan Navidzadeh:** And I was like, let me see this article.
+
+**Nathan Navidzadeh:** We're going to see this law document because it was out there.
+
+**Nathan Navidzadeh:** I'm looking at it.
+
+**Nathan Navidzadeh:** I'm like, this is like a big document that I don't understand.
+
+**Nathan Navidzadeh:** But I was like, I wonder if ChatGPT understands it or can summarize it for me.
+
+**Nathan Navidzadeh:** And so I got it to essentially summarize it in the context of how it would affect VPN usage.
+
+**Nathan Navidzadeh:** So that it would be a useful blog for us or a useful article post.
+
+**Nathan Navidzadeh:** And it did an excellent job essentially of pulling information out because I was trying to fact check as well as I could within a couple of hours.
+
+**Nathan Navidzadeh:** Got it to draft an outline.
+
+**Nathan Navidzadeh:** This is usually my workflow when I was working with ChatGPT on that context.
+
+**Nathan Navidzadeh:** I usually get it to create an outline for me of what it thinks it should do based on something that I send it in a specific kind of subject.
+
+**Nathan Navidzadeh:** Like, how does this bylaw affect VPN usage, for example, if that was the topic?
+
+**Nathan Navidzadeh:** Like, get it to generate an outline.
+
+**Nathan Navidzadeh:** Then I look through the outline and I kind of figure out the flow, if that sounds good, or if it needs to touch on something that it didn't include in its outline.
+
+**Nathan Navidzadeh:** Get it to modify the outline, retweak that.
+
+**Nathan Navidzadeh:** Then I would get it to, okay, now let's flesh this out.
+
+**Nathan Navidzadeh:** Can you write this article for me?
+
+**Nathan Navidzadeh:** And then I would write it out.
+
+**Nathan Navidzadeh:** And I also would ask it to provide citations—it could do this at the time. And then a ChatGPT update stopped letting people do this. That kind of thing happens.
+
+**Matthew Panzarino:** Yeah, yeah.
+
+**Nathan Navidzadeh:** But at that time, I was able to actually cite all of the references.
+
+**Nathan Navidzadeh:** I was like, any claim that you make, make sure you give me a link to where you got that information, or a direct quote from the article that I sent you, that I, you know, the law article and what have you.
+
+**Nathan Navidzadeh:** So then I got all the references.
+
+**Nathan Navidzadeh:** And, you know, we got all of the article kind of written out.
+
+**Nathan Navidzadeh:** I made any kind of edits manually that I thought was good.
+
+**Nathan Navidzadeh:** We posted it that afternoon.
+
+**Nathan Navidzadeh:** And then we were ranking first on Google for, like, the first two weeks for, like, really high-ranking keywords that had to do with that new bylaw that came out.
+
+**Nathan Navidzadeh:** You know, until finally, like, you know, either a TechCrunch or a Forbes or somebody, you know, with a high authority in the space.
+
+**Nathan Navidzadeh:** Because we didn't have that high authority.
+
+**Matthew Panzarino:** I think it was, like, 65 or something.
+
+**Nathan Navidzadeh:** You know, they posted something.
+
+**Nathan Navidzadeh:** And then, you know, then we started ranking lower and lower until eventually we were no longer there.
+
+**Nathan Navidzadeh:** But it was a cool proof of concept that, like, hey, look, we can just take something that's really complicated, simplified in the context that we want using ChatGPT, push it out, bam.
+
+**Nathan Navidzadeh:** You know, we've got so many organic clicks because of that.
+
+**Matthew Panzarino:** So that was a really cool one.
+
+**Nathan Navidzadeh:** Another workflow was because of an issue we were having with all these different websites. They'd often do product reviews, and then we would sell them to clients saying we can publish across three or four different websites.
+
+**Nathan Navidzadeh:** One of them's for Australians, one of them's for Americans, one of them's for new moms, for example.
+
+**Nathan Navidzadeh:** There's all sorts of different websites that we had.
+
+**Nathan Navidzadeh:** And so we would get somebody to do an actual product review, and then they would have to rewrite that review for the different websites and making them sound completely different, like they were written differently.
+
+**Nathan Navidzadeh:** But still give a similar review.
+
+**Nathan Navidzadeh:** And so that was both costly for us, because we had to pay the writer to write essentially the same article multiple times.
+
+**Nathan Navidzadeh:** It was also just really annoying for the writer, because that's not a fun thing for them to do.
+
+**Nathan Navidzadeh:** They were not interested in doing that.
+
+**Nathan Navidzadeh:** So, yeah, I was like, ah, ChatGPT can do that.
+
+**Nathan Navidzadeh:** So I would essentially get the writer to do a really detailed review with a lot of different information that I would want that wouldn't necessarily get used for each one of the posts.
+
+**Matthew Panzarino:** But then I would take that huge one.
+
+**Nathan Navidzadeh:** Then I would use ChatGPT to really modify for each of those websites.
+
+**Nathan Navidzadeh:** Make sure using Canadian English here, American English here, whatever style guide differences for each of the websites, whatever tonal differences, make sure this appeals to pregnant women, make sure this one appeals to whatever other audience.
+
+**Nathan Navidzadeh:** And then, you know, it would pump out a different version of the same review, and that would just, it would really require very little editing at that point.
+
+**Nathan Navidzadeh:** And I would be able to publish it on multiple different websites and cut down our costs, and everybody's happy, writers are happy.
+
+**Nathan Navidzadeh:** So that was great, because then writers could focus on another product review, and they loved getting products, right?
+
+**Matthew Panzarino:** Because they get free products every time they get to review it, so.
+
+**Matthew Panzarino:** Yeah, yeah, exactly.
+
+**Nathan Navidzadeh:** It was a fun little, yeah, change.
+
+**Nathan Navidzadeh:** Cool, that makes sense.
+
+**Matthew Panzarino:** Yeah, I mean, I think there's definitely some allegories there to some of the ways that we work. Our pipeline, for instance, incorporates a researcher that uses a combination of local knowledge that we've collected from a client in a knowledge base and then vectorized—it's light RAG.
+
+**Matthew Panzarino:** Actually, it's not really, but it's basically takes a document that may be 20,000, 30,000 tokens and then breaks it down into component parts that make it easily searchable.
+
+**Matthew Panzarino:** And then it also combines that with public facing search using Researcher and then combines that into basically a body of information.
+
+**Matthew Panzarino:** That can be used to write the articles, but that body of information can be composed in any number of ways, depending on the internal prompt to the pipeline.
+
+**Matthew Panzarino:** So as an example, write this article for new moms, for the new mom's persona, right?
+
+**Matthew Panzarino:** And we define that persona in an artifact and it pulls that persona from the artifact.
+
+**Matthew Panzarino:** Or we could say, hey, write this for the gadget enthusiast, right?
+
+**Matthew Panzarino:** Oh, we've got a gadget.
+
+**Matthew Panzarino:** I see you've got your gadget enthusiast persona here.
+
+**Matthew Panzarino:** Let me pull that and write for that persona.
+
+**Matthew Panzarino:** Yeah, I did exactly that.
+
+**Matthew Panzarino:** Yeah, it's like, I'm encouraged that you think that way. That definitely matches more up with the way we work versus the way that a lot of people work, which is generally speaking, okay, let me compose this from scratch.
+
+**Matthew Panzarino:** But the idea of taking more information than you could possibly need to write the article, but still in the domain, and then making it fit into a particular audience, that's kind of the way the pipelines work.
+
+**Nathan Navidzadeh:** Yeah, I love that.
+
+**Nathan Navidzadeh:** That's really cool.
+
+**Matthew Panzarino:** Any last questions for me?
+
+**Matthew Panzarino:** I do have to bounce pretty soon.
+
+**Nathan Navidzadeh:** Yeah, no, we're over time.
+
+**Nathan Navidzadeh:** Yeah, you spoke to it a little bit, the vision.
+
+**Nathan Navidzadeh:** I mean, was there any kind of, what are the bigger challenges, not necessarily for this role, but for the company as a whole that you might foresee?
+
+**Matthew Panzarino:** Yeah, I mean, I think there are a lot of people heading towards the same outcome from a lot of different directions, just from a business perspective.
+
+**Matthew Panzarino:** Everybody's trying to do content from different angles, everybody from Prophecy to Ahrefs to SEMrush and Scrunch and everybody else just trying to eat at this problem because they're like, oh, if we analyze it, we should help you generate the content too.
+
+**Matthew Panzarino:** That's great, guys, but you're doing the easy part.
+
+**Matthew Panzarino:** Like the easy part is sending 700 prompts into an LLM and then reading the results and then giving people some sort of visibility score, right?
+
+**Matthew Panzarino:** I could write, I could vibe code that in an afternoon and that's cool.
+
+**Matthew Panzarino:** I'm glad you're doing that and I'm glad you're putting forth the effort into that.
+
+**Matthew Panzarino:** But the hard part is actually generating good content because they're like, like Prophecy is sending emails now where they're like, oh, we have a brief that we've generated for you based on what we think will rank well for this.
+
+**Matthew Panzarino:** Cool, like I'm so glad you one shot a brief from an LLM call, but that's not really all that useful.
+
+**Nathan Navidzadeh:** So it's a...
+
+**Nathan Navidzadeh:** It's interesting.
+
+**Matthew Panzarino:** I have no time at all.
+
+**Matthew Panzarino:** And I'm so glad somebody did something for me.
+
+**Matthew Panzarino:** But if you break it down, it's really like, okay, it was 30 seconds to write a prompt into a chat GPT and get this back out of it.
+
+**Matthew Panzarino:** And they just did it for you.
+
+**Matthew Panzarino:** Congratulations.
+
+**Matthew Panzarino:** If you don't want to think about your content at all, then you don't care.
+
+**Matthew Panzarino:** And you're probably not our customer, right?
+
+**Matthew Panzarino:** If you care deeply about brand authority and not squandering what you have built and putting a foundation of BS onto the web just in the hopes of gathering near-term traffic, then you really want human-readable content that's actually accurate, that'll stand up to close reads.
+
+**Matthew Panzarino:** I mean, our content stands up to close reads.
+
+**Matthew Panzarino:** Like, we'll publish stuff, and then they'll be like, wait, which of these did we hire somebody to write?
+
+**Matthew Panzarino:** Which one did you write?
+
+**Matthew Panzarino:** Like, it's impossible to tell, right?
+
+**Matthew Panzarino:** It's not like, oh, I can see this is all the generated crap.
+
+**Matthew Panzarino:** Like, we don't stand for that.
+
+**Matthew Panzarino:** Like, we're not shipping that kind of content.
+
+**Matthew Panzarino:** And then the challenge, of course, aside from that, is how to get there.
+
+**Matthew Panzarino:** And right now, there's a lot of people...
+
+**Nathan Navidzadeh:** Arguably, though, Matthew, because I looked up engine.com, which you guys said you guys said right now.
+
+**Nathan Navidzadeh:** And I was looking at, obviously, there was like, I don't know, five articles being published, like a day.
+
+**Nathan Navidzadeh:** And I was like, okay, these are generated.
+
+**Nathan Navidzadeh:** And I was like, these look AI generated.
+
+**Nathan Navidzadeh:** They're written well, but I was like, they look super AI generated.
+
+**Nathan Navidzadeh:** So is that, is there, I don't know, really out of time, but do you guys revamp old articles that you've already generated?
+
+**Nathan Navidzadeh:** Yeah, like they had existing content, and then we're going through and fixing a lot of it.
+
+**Matthew Panzarino:** We'll take stuff from them that they were basically generating, like one-shotting almost.
+
+**Matthew Panzarino:** And then we'll run it through, we have an article refresh workflow.
+
+**Matthew Panzarino:** And that refresh basically says, hey, fix the LLM portions of this.
+
+**Matthew Panzarino:** And then also update it.
+
+**Matthew Panzarino:** You know, new dates, new links, refresh this according to best practices for article refresh.
+
+**Matthew Panzarino:** So we do a lot of that with clients.
+
+**Matthew Panzarino:** That's so cool.
+
+**Nathan Navidzadeh:** Yeah, that's great.
+
+**Matthew Panzarino:** We're fixing their boat trash.
+
+**Matthew Panzarino:** I was like, is this what's being generated?
+
+**Nathan Navidzadeh:** Because I'm like, there's a lot to improve here.
+
+**Matthew Panzarino:** Yeah, yeah.
+
+**Matthew Panzarino:** Now, some of it, some of it's us, some of it's not.
+
+**Matthew Panzarino:** And like, you know, the one thing I will never claim is that we have everything perfect and everything is right.
+
+**Nathan Navidzadeh:** Yeah. We're always going to be improving in every way we possibly can.
+
+**Matthew Panzarino:** So there's always room for improvement.
+
+**Matthew Panzarino:** So you might have read some stuff on there that we published and you're like, oh, this could be better.
+
+**Matthew Panzarino:** Good.
+
+**Matthew Panzarino:** I'm glad you think so.
+
+**Matthew Panzarino:** Come work here and help it make it better.
+
+**Nathan Navidzadeh:** You know, like, and that's, that's basically that what we want Emmys to be thinking like, like, hey, how could this be better?
+
+**Matthew Panzarino:** You know, I have a high standard and I want the pipeline to live up to it, you know?
+
+**Matthew Panzarino:** But what I, what I don't have is obviously the data.
+
+**Nathan Navidzadeh:** Did that actually increase traffic on those pages getting, you know, settled?
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** But yeah, but that's cool.
+
+**Matthew Panzarino:** Yeah, yeah.
+
+**Nathan Navidzadeh:** No, that's awesome.
+
+**Nathan Navidzadeh:** I always have questions, but, you know, I don't want to, I don't want to.
+
+**Nathan Navidzadeh:** Yeah, I unfortunately have to bounce.
+
+**Nathan Navidzadeh:** But thank you so much for your time.
+
+**Nathan Navidzadeh:** Appreciate it.
+
+**Matthew Panzarino:** And really, we'll each back out and have you chat.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Cheers, man.

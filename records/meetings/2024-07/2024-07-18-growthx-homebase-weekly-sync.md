@@ -1,0 +1,35 @@
+# GrowthX <> Homebase - Weekly Sync
+
+<metadata>
+date: 2024-07-18
+time: 14:00 ET
+duration: 45 minutes
+organizer: marcel@growthxlabs.com
+attendees: Kgaudreau (kgaudreau@joinhomebase.com), Marcel (marcel@growthxlabs.com), Sadira (sadira@growthxlabs.com), Npokhrel (npokhrel@joinhomebase.com), Sramachandra (sramachandra@joinhomebase.com), Kmccreadie (kmccreadie@joinhomebase.com), Jimmy Pal (jimmy@growthxlabs.com)
+calendar_event_id: 4bc1d2d140df4c7196e36cd19b2d1b12_20240718T180000Z
+has_transcript: false
+fireflies_id: 
+transcript_url: 
+transcript_file: 
+last_updated: 2026-02-26
+</metadata>
+
+---
+
+## Attendees
+
+| Name | Email | Role | Company | Contact File |
+|------|-------|------|---------|--------------|
+| Kgaudreau | kgaudreau@joinhomebase.com | — | Joinhomebase | — |
+| Marcel | marcel@growthxlabs.com | Team | GrowthX | (internal) |
+| Sadira | sadira@growthxlabs.com | Team | GrowthX | (internal) |
+| Npokhrel | npokhrel@joinhomebase.com | — | Joinhomebase | — |
+| Sramachandra | sramachandra@joinhomebase.com | — | Joinhomebase | — |
+| Kmccreadie | kmccreadie@joinhomebase.com | — | Joinhomebase | — |
+| Jimmy Pal | jimmy@growthxlabs.com | Team | GrowthX | (internal) |
+
+---
+
+## Notes
+
+_No notes yet._

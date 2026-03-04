@@ -1,0 +1,1412 @@
+# Content strategy alignment
+
+<metadata>
+date: 2025-09-24
+time: 21:01 UTC
+duration: 54 minutes
+organizer: Kyle Gaudreau (GrowthX)
+participants: Justin Luebke (Udemy), Kyle Gaudreau (GrowthX)
+fathom_recording_id: 89650015
+fathom_url: https://fathom.video/calls/418953232
+share_url: https://fathom.video/share/Q4bwNy9eFfZBrF9w7ve7Zhmt5Y8GFjpc
+source: fathom
+enriched_on: 2026-03-03 16:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Kyle Gaudreau (GrowthX) and Justin Luebke (Udemy) aligned on content strategy structure, focusing GrowthX's efforts on AI transformation pillars while Justin prioritizes technical upskilling and L&D topics. They discussed the calibration article and established a division of labor: GrowthX will restructure content around AI subtopics as main topics with semantic clusters, while Justin's team will handle technical upskilling content, aiming for five or more pieces per week. Key immediate priorities include improving page speed (currently critical blocker), establishing clear authorship workflows, and ensuring internal linking strategy drives value to pillar pages first.
+
+---
+
+## Context
+
+GrowthX provides content marketing services to Udemy's B2B business unit (UB), a new relationship that's requiring both teams to navigate organizational structures and align on strategy. Justin reports to Krista (SEO director), who reports to Glenn, while also collaborating with Patricia and Jen's UB content team under Steph. Kyle is new to understanding Udemy's reporting structure and organizational complexity. The engagement kicked off with Justin's already-approved content strategy built on AI transformation, technical upskilling, and L&D as core pillars, which was approved by both Udemy's SEO and UB leadership but never deeply reviewed by all stakeholders, creating some confusion about how GrowthX's content strategy differs and aligns. Kyle's recent ramping of Katya to help on the Udemy account uncovered critical infrastructure issues—the blog's page speed is severely hindering performance. Justin has been advocating for speed improvements and a proper blog homepage, but these haven't been prioritized on the dev team's roadmap yet.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Division of labor on AI transformation (GrowthX focus) vs. technical upskilling/L&D (Justin focus) reduces coordination friction and provides operational clarity. Content authorship workflow decisions (instructor-led vs. UB-business-people-led) are critical to scaling from current 50-100 blog plan to 5+ pieces/week production; GrowthX's effectiveness depends on solving this. Internal linking strategy needs sophisticated alignment—GrowthX uses semantic relevance scoring, but Justin manually curates links with high bar for relevance, which may require workflow integration. FAQ implementation is an experimental bet Justin has been trying to push internally; GrowthX has case studies showing traction on some accounts.
+
+- **To CheckThat:** MCP (Model Context Protocol) was discussed as a high-priority AI topic—Ahrefs MCP server enables AI agents to access SEO data, creating competitive moat for content ideation. Kyle will be building experimental content sourcing workflows using Udemy's gated course descriptions to inform B2B-focused content, which could yield insights for CheckThat's AI visibility capabilities.
+
+- **To GrowthX Business Development:** Account health signal: Udemy's page speed crisis is depressing conversion rates on all content, creating a hidden ceiling on contract impact. Kyle is planning to escalate this in tomorrow's meeting with senior Udemy stakeholders (likely Steph) to drive urgency. Content authorship model still unresolved—if Udemy mandates instructor involvement where it doesn't fit B2B intent, GrowthX's partnership model ("square peg round hole" risk Kyle mentioned twice) may not be sustainable. Justin's strong approval of the content strategy and tactical alignment (pillars, clusters, keyword focus, .edu/.gov credibility sources) is positive signal for retention and expansion.
+
+---
+
+## Overview
+
+- Focus on AI transformation pillars (e.g. AI upskilling, implementation, literacy) with semantic clusters
+- Prioritize fixing critical technical issues like page speed before complex content structure changes
+- Need to determine content authorship approach balancing instructors, UB team members, and editing process
+- Align on internal linking strategy and incorporate .edu/.gov sources for credibility
+
+---
+
+## Key Topics
+
+### Content Strategy Alignment
+
+  - Justin's approved strategy focuses on AI transformation, technical upskilling, L\&D
+  - Pillars: AI upskilling, implementation, literacy with semantic clusters underneath
+  - Prioritize B2B-focused, low-volume keywords to differentiate from consumer blog
+  - GrowthX to focus on AI transformation content, freeing Justin for technical upskilling
+
+### Calibration Article Feedback
+
+  - Add primary keyword and target link at beginning
+  - Make anchor text more descriptive (e.g. "upskilling manufacturing businesses" vs just "manufacturing")
+  - Include 1-2 .edu/.gov external sources for credibility
+  - Ensure all internal links are relevant to anchor text
+  - Make CTAs more action-oriented and UB-focused
+
+### Content Production Workflow
+
+  - Need to determine authorship approach (instructors vs UB team members)
+  - Establish editing/approval process to scale to 5+ pieces per week
+  - GrowthX has capacity to produce higher volume if needed
+
+### Technical Priorities
+
+  - Critical to improve page speed (currently very poor, affecting conversions)
+  - Need blog homepage and better pillar/cluster structure
+  - Consider emphasizing technical fixes over complex new content structures for now
+
+### Collaboration Process
+
+  - Justin's strategy approved internally, provides good direction
+  - GrowthX to adapt workflows to align with Udemy's needs
+  - Regular alignment needed as teams navigate new partnership
+
+---
+
+## Action Items
+
+**Kyle Gaudreau**
+- Refocus AirTable on AI transformation topics; restructure to cover AI subtopics as main topics
+
+- Develop pillars for AI upskilling and AI implementation/literacy; focus on B2B intent, avoid consumer-related topics
+
+- Add primary keyword to top of content briefs; prioritize primary link at beginning of content
+
+- Use more bullet points in content to balance out numbered lists
+
+- Make anchor links more descriptive, keyword-heavy (e.g. "upskilling manufacturing businesses" instead of just "manufacturing businesses")
+
+- Include 1-2 .gov or .edu external sources in content for credibility
+
+- Ensure all internal links are relevant to the linked content (e.g. AI readiness link should mention AI readiness)
+
+- Bring up blog page speed issues in tomorrow's meeting; emphasize impact on content productivity
+
+
+**Justin Luebke**
+- Consider UB people as primary content authors for B2B-focused blogs instead of instructors
+
+---
+
+## Transcript
+**Kyle Gaudreau:** Monday, I feel like that was like a week ago, almost to me.
+
+**Kyle Gaudreau:** We were chatting about, you said you had some thoughts on the calibration article, as well as just like alignment on like how we can think about some of the topics that we have in air cable and things of that nature.
+
+**Kyle Gaudreau:** Anything else top of mind for you?
+
+**Justin Luebke:** Those are the main things.
+
+**Justin Luebke:** I feel like maybe those will be broken out as we talk about it into like further things, but that's what's on my mind at the moment.
+
+**Kyle Gaudreau:** One thing before we jump into it, I'm trying to get my head around and just curious your take.
+
+**Kyle Gaudreau:** Still trying to like get my head around and navigate the structure and the team and things of that nature.
+
+**Kyle Gaudreau:** And, you know, you know, I think I've been like pretty transparent about it.
+
+**Kyle Gaudreau:** just like, you know, encouraged by some of the momentum recently, but I was like, oh man, would be nice if we had these, we were talking with these.
+
+**Kyle Gaudreau:** These people earlier on, and I certainly felt that talking with you and Krista two weeks ago, and I still think that's positive, but then now we have Steph into the mix, and clearly, you know, seems well-intentioned, but also strong opinions, and so how should I think about this from your perspective, and where do you report up into?
+
+**Kyle Gaudreau:** Do you report into Steph's team, or?
+
+**Justin Luebke:** These are all good questions.
+
+**Justin Luebke:** So I report to Krista.
+
+**Justin Luebke:** Krista, have you met Glenn?
+
+**Justin Luebke:** I have, yes.
+
+**Kyle Gaudreau:** Krista reports to Glenn.
+
+**Justin Luebke:** So we live in the middle of Consumer and UB, just because we help both.
+
+**Justin Luebke:** I work only on UB, though, so I work closely with, like, Patricia, who you have not met, who does content.
+
+**Justin Luebke:** She works under Jen, who reports to Steph.
+
+**Justin Luebke:** So I work closely with their teams based on, like, UB strategy.
+
+**Justin Luebke:** Krista is my direct manager, though, who does.
+
+**Justin Luebke:** right help
+
+**Justin Luebke:** She's the SEO director, so it's a little bit of everywhere.
+
+**Justin Luebke:** I will say a lot of the things that Steph was mentioning and a lot of the things that Patricia was talking about to us, I guess not to you, is very similar to what I have kind of prepared.
+
+**Justin Luebke:** So I brought them through and got approval for my content strategy, but they never did a deep dive into it, so when I talk about it still, they still need reminded of the different aspects of what I'm doing, how it fits into the strategy, even sometimes how it was put together.
+
+**Justin Luebke:** So it is stuff that will align with what I think that we can cover here.
+
+**Justin Luebke:** I think that this relationship is just so, like, not new.
+
+**Justin Luebke:** But new to us and like we are just kind of trying to integrate because we already had like a plan to launch a blog with this content strategy and then this.
+
+**Justin Luebke:** So I think we're all just a little bit confused, which is probably why she is coming in with a lot of questions and just confused as to how our content strategy differs from yours, how they align and like I guess why there is two.
+
+**Justin Luebke:** So I think that we could in this call work together to just sort this all out because yeah, it's been it's been a lot.
+
+**Kyle Gaudreau:** Yeah, for sure.
+
+**Kyle Gaudreau:** And like, yeah, it's a very interesting, you know, you work with bigger companies, you know, naturally, this is the different things you can see.
+
+**Kyle Gaudreau:** You know, so we certainly see that with some of our bigger customers and it's just not gonna, you know, at times, you know, we may have someone working directly with like a founder and it's just like a very, very different dynamic.
+
+**Kyle Gaudreau:** Thank you.
+
+**Kyle Gaudreau:** Thank you.
+
+**Kyle Gaudreau:** But, yeah, at the end of the day, yeah, the intention here is not to have separate strategies in any sense or another.
+
+**Kyle Gaudreau:** Like, we just look at it as, like, we can be an effective partner in helping build strategy, refine strategy.
+
+**Kyle Gaudreau:** What that means for each customer is going to be very different, how hard we need to lean into that.
+
+**Kyle Gaudreau:** Some customers, they just, they need us to do that end-to-end.
+
+**Kyle Gaudreau:** And they don't have any experience around that.
+
+**Kyle Gaudreau:** Like, you know, you're working with folks who have a very clear perspective, have been very thoughtful about this for a while, but have very real challenges.
+
+**Kyle Gaudreau:** And so, like, how can we help them and be a good partner to them to, you know, get the right stuff done?
+
+**Kyle Gaudreau:** Yes.
+
+**Kyle Gaudreau:** And I would really very much prefer to this noddle to feel like we're consistently trying to, like, do a square peg round hole thing and just, you know.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** So, you know, continue to try to navigate that and think about that.
+
+**Kyle Gaudreau:** because...
+
+**Kyle Gaudreau:** It also gives us a lot of operational clarity of, like, what should I have the team focus on and execute on?
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** It's been harder here than I would say my average account for sure.
+
+**Justin Luebke:** I'm hoping this call clears it up.
+
+**Justin Luebke:** I will say that I have been just coming on and, like, this is, like, being the first content strategy that I worked on.
+
+**Justin Luebke:** I was specifically nitpicky on this one.
+
+**Justin Luebke:** So I really hope to help, like, guide yours and, like, understand yours, but also, like, integrate the complexities of mine, which, as I talk about, will make more sense, I think, because I thought I was working on this alone.
+
+**Justin Luebke:** So there are a lot of things, there's a lot of context missing from my sheets that you don't know because I didn't know other people were going to be functioning in here.
+
+**Kyle Gaudreau:** Okay, interesting.
+
+**Kyle Gaudreau:** So, yeah.
+
+**Kyle Gaudreau:** So the onion keeps peeling.
+
+**Kyle Gaudreau:** No, it sure does.
+
+**Justin Luebke:** But I'm really hoping this will be the call where we're like, yes, this is it.
+
+**Kyle Gaudreau:** We got it.
+
+**Kyle Gaudreau:** Let's just roll with it.
+
+**Kyle Gaudreau:** Yeah, I love it.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Well, should we start there?
+
+**Kyle Gaudreau:** we just dive into that?
+
+**Justin Luebke:** Yeah, like start with the content strategy rather than the review of the calibration.
+
+**Kyle Gaudreau:** Yeah, think so, because to me, like that should be a framing of like how to think about the actual article itself.
+
+**Kyle Gaudreau:** Like what does it actually support?
+
+**Kyle Gaudreau:** Yeah, I totally agree.
+
+**Kyle Gaudreau:** The way we think about it is like the intention of this like sprint process or really like any strategy we're building is like, you know, we need to understand the opportunities and challenges and the unique ways we can help.
+
+**Kyle Gaudreau:** What is like, how does that, what are the objectives, of course, we're trying to influence, how do we build a strategy and then the calibration is like, how do we execute on that and provide examples.
+
+**Kyle Gaudreau:** It less theoretical and more like, this is how this takes shape.
+
+**Kyle Gaudreau:** And we agree, like, this is the way it should take shape.
+
+**Justin Luebke:** Yeah, I agree.
+
+**Justin Luebke:** With that, I'm going to go through this from the top level down, just for, like, full clarity of where all this came from and everything.
+
+**Justin Luebke:** I know I went through it very briefly before, but I'll just spend a little bit more time and jump in with any questions.
+
+**Kyle Gaudreau:** Yeah, that sounds good.
+
+**Justin Luebke:** And so this all started based on the sales analysis that I had mentioned to you, as well as a resource.
+
+**Justin Luebke:** Hold on, let me see if I can find this.
+
+**Justin Luebke:** Oh, it's just sourced from content.
+
+**Justin Luebke:** So this is all of our old content.
+
+**Justin Luebke:** And this is how much pipeline came from each of that.
+
+**Justin Luebke:** This is the topics from those.
+
+**Justin Luebke:** And we have decided on new topics for the Resource Center, which are these, except no professional.
+
+**Justin Luebke:** Professional services, leadership, development, and management are going to be one.
+
+**Justin Luebke:** So leadership and management.
+
+**Justin Luebke:** And then these three are going to be turned into learning modalities.
+
+**Justin Luebke:** Wait, sorry.
+
+**Kyle Gaudreau:** Oh, all of those, the purple list?
+
+**Kyle Gaudreau:** Yeah, so these are learning modalities.
+
+**Justin Luebke:** And then these two are leadership and management.
+
+**Justin Luebke:** Got it, got it.
+
+**Kyle Gaudreau:** Okay.
+
+**Justin Luebke:** So for the sake of being able to actually segment all of this, I kept them as is and just color-coded.
+
+**Justin Luebke:** And then I based the priority scoring for all of our content to be heavily more focused on the sales analysis.
+
+**Justin Luebke:** This is what we're actually bringing up in calls.
+
+**Justin Luebke:** This is what is going to be our top priority, which really makes sense.
+
+**Justin Luebke:** It's AI, technical upskilling.
+
+**Justin Luebke:** And then I know we have mixed feelings on L&D, but that is a high priority topic.
+
+**Justin Luebke:** So I was planning on doing when I thought it was just...
+
+**Justin Luebke:** Just me making this content, and me and Jay, like 80% AI transformation, a little bit more of this, and then just maybe sprinkling these throughout as I go.
+
+**Justin Luebke:** And then once I have some type of content engine or resources, just building out more for these bottom keyos later.
+
+**Justin Luebke:** So that is where the prioritization comes from, which in the keyword universe, you'll notice that a lot of these are still empty.
+
+**Justin Luebke:** And that is because those are lower priority.
+
+**Justin Luebke:** And I was thinking that we could do maybe 50 to 100 blogs, even in like six months, which is just two of us.
+
+**Justin Luebke:** So that's why there are very few topics at the moment.
+
+**Justin Luebke:** So moving into how I wanted this part to work.
+
+**Justin Luebke:** So each topic I had broken down into subtopics that came up in conversations.
+
+**Justin Luebke:** And that was just like pretty, pretty high level stuff.
+
+**Justin Luebke:** So like upscaling.
+
+**Justin Luebke:** as a whole, literacy as a whole, implementation, and this is all for AI specifically, because a lot of this, like, we have a whole upskilling section that is not AI.
+
+**Justin Luebke:** This is only for AI intent.
+
+**Justin Luebke:** And what I was planning is for each subtopic to have, it'll obviously will have its one pillar page, which is the bolded, you know, the bolded sections here.
+
+**Justin Luebke:** So that one will be, its primary link will be linking into the AI upskilling product page.
+
+**Justin Luebke:** So every single blog will have a primary link of which would be linked first, and potentially at the end of every single blog.
+
+**Justin Luebke:** So any of them that are these bolded ones would be linking directly into AI upskilling.
+
+**Kyle Gaudreau:** Makes sense.
+
+**Justin Luebke:** And then from there, this whole pillar blog is, like, meant to be comprehensive, as you know.
+
+**Justin Luebke:** And then I would be using all of these topics, plus more, as, like...
+
+**Justin Luebke:** Semantic keywords.
+
+**Justin Luebke:** So these, anything under implementation should be linkable within your main blog.
+
+**Justin Luebke:** And therefore, all of these should be able to link into AI implementation as a, like a first link.
+
+**Justin Luebke:** So these all pillar into, you know, this page.
+
+**Kyle Gaudreau:** So transferring the value that way.
+
+**Justin Luebke:** With each of these, I wanted to create, ideally, at least five, but with like a large programmatic content engine, anywhere from like five to 15 would be ideal.
+
+**Justin Luebke:** And then just having each little cluster build up, specifically building value up into its product page.
+
+**Justin Luebke:** That is one thing I noticed missing from the calibration article.
+
+**Justin Luebke:** And also one thing that I noticed in like the air table, which I can kind of dive into shortly, but wanted to stop.
+
+**Justin Luebke:** I guess, and see what you're thinking and if you have questions.
+
+**Kyle Gaudreau:** Yeah, so far so good.
+
+**Kyle Gaudreau:** Following for sure.
+
+**Kyle Gaudreau:** One thing I've had in the back of my mind, I've spent some time on this, not a ton.
+
+**Kyle Gaudreau:** I don't care if you thought about it more.
+
+**Kyle Gaudreau:** What you mentioned of like, you know, AI upscaling as that example makes total sense.
+
+**Kyle Gaudreau:** Are there scenarios you've found where, you know, there are potential topics that could be theoretical in the AI universe, but not a direct qualifier of intent of AI?
+
+**Kyle Gaudreau:** Meaning that like, if you are thinking about this, well, AI must be, you know.
+
+**Kyle Gaudreau:** Like a next search type thing?
+
+**Kyle Gaudreau:** You know, so, you know, yeah, it is a, it is almost like that is a subtopic of a critical thing of that, you know, of that pillar and that discussion.
+
+**Kyle Gaudreau:** And so, it's been something I've been thinking.
+
+**Kyle Gaudreau:** Thinking about a little bit, I haven't quite appreciated exactly where that takes shape yet, but I have a hunch it exists.
+
+**Kyle Gaudreau:** Yeah, I love that.
+
+**Justin Luebke:** That is all the semantic things that I want to cover.
+
+**Justin Luebke:** I don't want all of the queries to be, or the keywords to be AI this, AI that.
+
+**Justin Luebke:** This section specifically, I think, shows that.
+
+**Justin Luebke:** I know automation is still AI, but how to scale operations without hiring.
+
+**Justin Luebke:** That could be an AI list.
+
+**Kyle Gaudreau:** Yeah, that's a great idea.
+
+**Justin Luebke:** Or this MCP.
+
+**Justin Luebke:** This is something that we really need to cover because it's a new program feature, but people, I mean, I don't even know what MCP is.
+
+**Justin Luebke:** Oh, it's funny.
+
+**Kyle Gaudreau:** literally worked on a plan earlier today for someone who's in the security space, very different.
+
+**Kyle Gaudreau:** And we're going to talk about MCP content, but there is a lot of low difficulty opportunity to capture here.
+
+**Kyle Gaudreau:** Basically, if an MCP, a model context protocol, it's like a, it is a way you can set up these servers to interface with different systems that are uniquely positioned to enable agents to like access data.
+
+**Kyle Gaudreau:** So, and it's like one of the compelling things I really want to experiment with us here is Ahrefs now has an MCP server.
+
+**Kyle Gaudreau:** And, you know, I'm sure you've dabbled in leveraging a chat chat or a cloud to try to like think of different topical ideas.
+
+**Kyle Gaudreau:** And at times it's like pretty good for sure, depending on the context you give it, but what it lacks is the data.
+
+**Kyle Gaudreau:** And there's different ways to solve for that, of course.
+
+**Kyle Gaudreau:** But with an MCP, now you can have it connect and start to prompt it in a sense to say, hey, here's what I'm trying to do.
+
+**Kyle Gaudreau:** Help me understand this.
+
+**Kyle Gaudreau:** Like, help me like understand this cluster and go deeper, find the research.
+
+**Kyle Gaudreau:** Who's, who's winning here?
+
+**Kyle Gaudreau:** You know, what does that look like?
+
+**Kyle Gaudreau:** And like, it has more meaningful like data-driven insight through that platform.
+
+**Kyle Gaudreau:** And so like MCP.
+
+**Kyle Gaudreau:** FTPs are a way of providing access, so it is very relevant, and yeah, a good example of like, yeah, it doesn't have AI in it, but it's like a critical AI to that.
+
+**Justin Luebke:** Okay, that, mean, that's good to know, and I think it would be a high-priority blog.
+
+**Kyle Gaudreau:** Agreed.
+
+**Justin Luebke:** Also, these green ones, just for context, these are ones that I prioritize for Jay and I to work on first, just to get some stuff out the door, so no worry.
+
+**Justin Luebke:** About any of that.
+
+**Justin Luebke:** So, I guess, moving on, I have a question or statement or something, but I'm wondering what you guys will be working on, and I know you had mentioned AI like heavily as a topic, so I'm wondering if we could like restructure in a way like the air table to really just cover this whole AI transformation.
+
+**Justin Luebke:** So you cover this, you cover my subtopics as main topics, and then add more as you go.
+
+**Justin Luebke:** And using just a similar strategy, where we have one that is the exact same as the subtopic, and then building in the semantics under that link up.
+
+**Justin Luebke:** But if you focus only on AI transformation, I will be freed up to do my technical upskilling down here, which are just completely non-AI related.
+
+**Kyle Gaudreau:** And then that way, we can kind of divide and conquer on it.
+
+**Kyle Gaudreau:** Yeah, I think that makes sense.
+
+**Kyle Gaudreau:** You know, still aligns where our minds were at.
+
+**Kyle Gaudreau:** What I've been talking about with the team this week is starting to just work on additional articles.
+
+**Kyle Gaudreau:** The one that, for whatever reason, the other is skipping my memory at the moment, but the one that we did talk about was AI readiness.
+
+**Kyle Gaudreau:** That's a next topic, but generally that in itself is relatively broad.
+
+**Kyle Gaudreau:** There's a lot of different even things we could probably break out underneath that.
+
+**Kyle Gaudreau:** But yes, in the broad sense of AI transformation is where we want to prioritize.
+
+**Kyle Gaudreau:** So what we're trying to do now is also blend in experiments with how do we source the content for this?
+
+**Kyle Gaudreau:** You know, when you like basically like, you know, we got things from Veronica, like the course descriptions, which are like quite rich and have some context.
+
+**Kyle Gaudreau:** And, you know, of course, there's other sources and it's just now starting to like blend in.
+
+**Kyle Gaudreau:** How can that help us as we think about such a broad topic like that?
+
+**Kyle Gaudreau:** Like, what is the perspective we want to share?
+
+**Kyle Gaudreau:** And like, how does that flow?
+
+**Kyle Gaudreau:** And, you know, we, of course, could not go that route and just come up with something.
+
+**Kyle Gaudreau:** And maybe that's good, but.
+
+**Kyle Gaudreau:** But it just, our hope is that that becomes more informed and is also like, you know, captures Udemy's perspective in a meaningful way.
+
+**Kyle Gaudreau:** That's, yeah, that's tricky.
+
+**Justin Luebke:** I've been like looking into similar things, like trying to figure out where to get these things from.
+
+**Justin Luebke:** And a lot of it, we don't have a lot of content.
+
+**Justin Luebke:** A lot of the content we have is gated.
+
+**Justin Luebke:** So I have been kind of thinking of this as net new completely, because I know like one huge thing that we have been talking about is the AI literacy.
+
+**Justin Luebke:** Like that, that keeps coming up and up and up over and over again, or AI, like, and I know I have something in here that's like AI fluency versus AI literacy.
+
+**Justin Luebke:** Um, or maybe it's just fluency versus literacy, but either way, um, like that's something that we're talking about all the time, but we really don't have anything on it.
+
+**Justin Luebke:** Like I have looked up site searches and.
+
+**Justin Luebke:** Other things like that.
+
+**Justin Luebke:** And it is like a huge topic, but it's just something I think that we have to create.
+
+**Kyle Gaudreau:** Yeah, that's a fair point.
+
+**Kyle Gaudreau:** Yeah, there's going to be something that's just going to be completely nut new.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** And not to say that, like, to be clear, like, I don't think that the experiments I shared is the only way for us to create content.
+
+**Kyle Gaudreau:** It is more how do we learn of, like, what's possible with that.
+
+**Kyle Gaudreau:** Because really we want, you know, the intention behind this was that, you know, you all have a lot of, to your point, like, content that is gated in a variety of different ways, but also could, like, theoretically, like, provide more value if it's ungated in a sense.
+
+**Kyle Gaudreau:** not, it is seeding other, you know, content that is created in other ways.
+
+**Kyle Gaudreau:** so, but that also takes, that also adds complexity, right?
+
+**Kyle Gaudreau:** And so, like, you know, it's going to take us a little bit more time to refine those workflows and build it and make it repeatable.
+
+**Kyle Gaudreau:** know, like, know, like, you
+
+**Kyle Gaudreau:** Because, you know, if we're not going that road and we can hit a topic like AI, you know, fluency relatively, you know, effectively without adding all sorts of fancy bells and whistles, like, you know, we can probably move faster.
+
+**Kyle Gaudreau:** So, yeah, certainly try to balance those two things.
+
+**Kyle Gaudreau:** And that's, again, like, just, like, this is, like, the kind of, like, mindset we want to apply at this phase is just, like, we don't know until we start doing this and, like, start to get, like, this all sounds good theoretically and we need to.
+
+**Kyle Gaudreau:** That's fair.
+
+**Kyle Gaudreau:** You know, actually start to execute.
+
+**Kyle Gaudreau:** Yeah.
+
+**Justin Luebke:** And I also, like, with the calibration article, like, I know there's a lot of, like, Udemy things in there, like, how Udemy can do something.
+
+**Justin Luebke:** For a lot of these ones that I've been starting, I do like that.
+
+**Justin Luebke:** But a lot of the ones that I've been starting are not mentioning Udemy at all until the very end.
+
+**Justin Luebke:** And that's just, like, kind of, like, a call out, like, if you, you know.
+
+**Kyle Gaudreau:** I we want to be, mostly, to be clear.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** I like that.
+
+**Justin Luebke:** I want to talk.
+
+**Justin Luebke:** I guess, so in regards to aligning ours, like our stress.
+
+**Kyle Gaudreau:** Before get into that, because I think it's actually probably relevant, what you're going into.
+
+**Kyle Gaudreau:** I hear you on the AI transformation part, reflecting on an air table, focusing on it.
+
+**Kyle Gaudreau:** How should I think about the things that are green in it?
+
+**Kyle Gaudreau:** Like you already have that color?
+
+**Kyle Gaudreau:** Do not worry about green.
+
+**Justin Luebke:** Oh, well, so I guess we have...
+
+**Justin Luebke:** In that specifically is kind of what I'm meaning, you know.
+
+**Justin Luebke:** I mean, none of it is complete.
+
+**Justin Luebke:** So if, I mean, if you have a flow, like a workflow for something already, and you can throw these in, I mean, you could, if you wanted, you could use like, I think I made this upskilling brief.
+
+**Justin Luebke:** Feel free to use it as like context if needed.
+
+**Justin Luebke:** But I mean, if you have a better flow going, use it because none of these are done.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Totally fair.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Um, Okay.
+
+**Justin Luebke:** Did you have another question?
+
+**Justin Luebke:** No, that was the main thing.
+
+**Kyle Gaudreau:** Because it's just to me, like, I'm just trying to connect what's in NarrowTable and how to think about what should be there and all that.
+
+**Justin Luebke:** Yeah, no worries on the green.
+
+**Justin Luebke:** That was a Justin thing.
+
+**Justin Luebke:** So I guess what I'm wondering in here is if these could be more so related directly to AI.
+
+**Justin Luebke:** Not like they don't have to have it in it by any means, but like skills-led learning and course solutions.
+
+**Justin Luebke:** Like when I look through that, a lot of this is not, I don't know, not that it is not something, but more so that this could be split, I think, into better and smaller pillars.
+
+**Justin Luebke:** Like hands-on practice is something that we have already written about, and that is in the technical upskilling one as a pillar.
+
+**Justin Luebke:** And like core leadership skills will be in leadership and development.
+
+**Justin Luebke:** And career development programs would be in like L&D.
+
+**Justin Luebke:** So I'm wondering if we could do, I'm not saying it has to be like exactly, but more so similar to like, rather than having four big topics, having a bunch of them, like AI upscaling, you know, exactly like this with like, you know, 10 different keywords in it.
+
+**Justin Luebke:** So rather than trying to do a bunch, just doing some really high value ones that send all of those signals into its main pillar page.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** And actually, yeah.
+
+**Kyle Gaudreau:** So that reminds me of a question I didn't mean to ask.
+
+**Kyle Gaudreau:** So the way you'd be thinking about this would be, I could, we would do something to the effect of, and I'm just using this phrasing for illustrative purposes, like the ultimate guide to AI literacy, where.
+
+**Kyle Gaudreau:** A pillar in the sense of there's varying things that cover that, like biases in AI, readiness, AI fluency, et cetera, teasing them and then clustering below that and then linking back to that top level pillar, you know, as you would in any pillar cluster.
+
+**Kyle Gaudreau:** Exactly.
+
+**Justin Luebke:** And then that pillar cluster to the AI upscaling page.
+
+**Justin Luebke:** But exactly.
+
+**Justin Luebke:** Anything that is semi-relevant or semantic to that and only that, where there would be no other intent for like one of these other topics.
+
+**Kyle Gaudreau:** Yeah, that makes sense.
+
+**Kyle Gaudreau:** Yeah, no, we can definitely work with that.
+
+**Kyle Gaudreau:** It aligns with how we like to think as well and as well thought out.
+
+**Kyle Gaudreau:** Yeah, I hadn't realized that actually in how it was organized.
+
+**Kyle Gaudreau:** So yeah, it's the talk.
+
+**Kyle Gaudreau:** But by anyways, criticizing how it's worked.
+
+**Kyle Gaudreau:** No, I mean, it's fair because I, again, this was for my eyes.
+
+**Justin Luebke:** Like I knew what was going on, but coming into this would be confusing.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** 100%.
+
+**Kyle Gaudreau:** No, no, this is good.
+
+**Kyle Gaudreau:** This is helpful.
+
+**Kyle Gaudreau:** Yeah, I'm aligned with that.
+
+**Kyle Gaudreau:** It does feel like it helps give us a little bit more focus as well.
+
+**Kyle Gaudreau:** Yes.
+
+**Kyle Gaudreau:** Like, let's calibrate on the pillars, because if we don't nail the pillars, we can't do the clusters.
+
+**Kyle Gaudreau:** And so.
+
+**Kyle Gaudreau:** Exactly.
+
+**Justin Luebke:** And I will also say that, like, I already have these specifically tracked, like all of these keywords tracked in BrightEdge.
+
+**Justin Luebke:** So I was hoping to build up, like, each of these categories alone to see the progress made within each subtopic that would relate directly to a business service.
+
+**Justin Luebke:** So rather than, like, kind of splitting it out into 50 different keywords, it is just very focused into the semantics of one.
+
+**Kyle Gaudreau:** Yeah, yeah, that's, I remember seeing reference to BrightEdge at one point.
+
+**Kyle Gaudreau:** I forget how that you all were using it.
+
+**Kyle Gaudreau:** But yeah, good to know.
+
+**Kyle Gaudreau:** So like some of those dashes they build are pretty useful.
+
+**Kyle Gaudreau:** It's been a really long time since I used Sprite Edge.
+
+**Kyle Gaudreau:** been like, what was that, Anaplan?
+
+**Kyle Gaudreau:** Man, that was like 10 years ago.
+
+**Kyle Gaudreau:** I hope they've improved it a lot since then.
+
+**Kyle Gaudreau:** Probably not enough, to be honest.
+
+**Kyle Gaudreau:** I guess.
+
+**Kyle Gaudreau:** The thing that I did like about it, especially that was easily the biggest team I worked on within, the ability to like make exec level type of dashes that can like, you know.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** They're very helpful with that all too.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** But anyways, I digress.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** This is helpful.
+
+**Kyle Gaudreau:** This helps.
+
+**Kyle Gaudreau:** How many pillars would we have in this at the moment then?
+
+**Justin Luebke:** So this one, I guess it's kind of ignorable, but one, two, three, four, five.
+
+**Justin Luebke:** But this is not comprehensive.
+
+**Justin Luebke:** I did this many because I am one person.
+
+**Justin Luebke:** And did not expect to have you here.
+
+**Kyle Gaudreau:** Yeah, more capacity equals more opportunity.
+
+**Kyle Gaudreau:** Exactly.
+
+**Justin Luebke:** And I will also say, this exact content strategy has been signed off on by SEO and UB.
+
+**Justin Luebke:** So if it follows this, it is good.
+
+**Justin Luebke:** Yeah, yeah.
+
+**Kyle Gaudreau:** And I don't want to underappreciate the value in that, all considering, you know.
+
+**Kyle Gaudreau:** It took me a while.
+
+**Kyle Gaudreau:** Yeah, I'm sure.
+
+**Kyle Gaudreau:** I'm sure.
+
+**Kyle Gaudreau:** I know.
+
+**Kyle Gaudreau:** I like it.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Yeah, I think that, you know, that can provide us some direction of focusing on developing those specific clusters, or sorry, pillars.
+
+**Kyle Gaudreau:** I don't know.
+
+**Kyle Gaudreau:** I guess the way I would probably typically think about this is building a couple pillars, aligning on getting feedback on them, and then starting to build.
+
+**Kyle Gaudreau:** Clusters underneath.
+
+**Kyle Gaudreau:** Generally, the model that I like to do as much as possible is have two bets where we're spending like 80, 90% of our time.
+
+**Kyle Gaudreau:** What a bet is, it's just like it can be different things, but like a focus area, theme, whatever.
+
+**Kyle Gaudreau:** And then 10, 20% for like experimentation.
+
+**Kyle Gaudreau:** Experimentation can be topics we're not sure about that we want to validate if there's something there or not.
+
+**Kyle Gaudreau:** And can we get traction?
+
+**Kyle Gaudreau:** They can also be like, what if we add FAQs to the applicable articles?
+
+**Kyle Gaudreau:** Like, does that help with AEO?
+
+**Kyle Gaudreau:** And, you know, how does that take shape?
+
+**Kyle Gaudreau:** And so like, you know.
+
+**Kyle Gaudreau:** Can I say something really quick?
+
+**Kyle Gaudreau:** Of course.
+
+**Justin Luebke:** Do you have FAQ?
+
+**Justin Luebke:** Do you have any FAQ case studies or anything like that?
+
+**Kyle Gaudreau:** Not yet.
+
+**Kyle Gaudreau:** We're talking about basically we're at this phase where we are working with a variety of different like how would I categorize their skills?
+
+**Kyle Gaudreau:** Just people are general data badasses.
+
+**Kyle Gaudreau:** And, you know, helping us craft more, like, experiments that we can learn about more holistically.
+
+**Kyle Gaudreau:** But we are doing that with our customers.
+
+**Kyle Gaudreau:** Yes, doing FAQs and, you know, seeing some traction for sure.
+
+**Kyle Gaudreau:** It doesn't always work.
+
+**Kyle Gaudreau:** But the way I'm thinking about it recently has been, you know, there's this blend of different qual quant signals we can use to identify different questions.
+
+**Kyle Gaudreau:** That's still true if think about keywords, but it's, you know, different as you think about how people search in AI.
+
+**Kyle Gaudreau:** We've been doing things like scraping Reddit for, like, relevant subreddits to a persona and time bounding based off, like, recency and, like, just kind of get a pulse of, like, these are, like, active, important questions people have.
+
+**Kyle Gaudreau:** Sales call analysis, like you did, is another angle we do as well.
+
+**Kyle Gaudreau:** But anyway, as long as I'm to make a long story short.
+
+**Kyle Gaudreau:** um
+
+**Kyle Gaudreau:** So we'll use that both to inform prompts where FAQs can be used, but also it's just like generally like how do we make sure these questions are answered effectively, essentially.
+
+**Justin Luebke:** On that, I have been trying to sell FAQs since I started in May.
+
+**Justin Luebke:** So if you can get a case going.
+
+**Justin Luebke:** If there are FAQs, those should be answered in content.
+
+**Justin Luebke:** And I said, but we can link the content in the FAQ.
+
+**Justin Luebke:** So I think it's just seeing either a case study or data that something is backing it and why we want to do it.
+
+**Justin Luebke:** So if that's something you could help with, I would love to test FAQs.
+
+**Justin Luebke:** You might see pushback there elsewhere, but I'm into it.
+
+**Kyle Gaudreau:** And regarding the, if I may.
+
+**Kyle Gaudreau:** One quick thing do with that, actually.
+
+**Kyle Gaudreau:** I will try to help you.
+
+**Kyle Gaudreau:** From a data perspective, I think the critical thing to understand in the way you just framed that, LLMs are inherently lazy and built to be lazy.
+
+**Kyle Gaudreau:** They have to synthesize a lot of different information.
+
+**Kyle Gaudreau:** That is why you see the TLDRs, the FAQs, the putting your content higher in the page, and this and that, because you're optimizing for the snapshot, knowing that they aren't going to read every single word, extract every single word.
+
+**Kyle Gaudreau:** And so, you know, that, like, I, debatable, obviously, but understand the mindset of, like, answering the question in that way as you framed it.
+
+**Kyle Gaudreau:** But if you're talking about, like, optimizing for those surface areas, like, that's just not how they work.
+
+**Justin Luebke:** Preaching to the choir.
+
+**Justin Luebke:** Yeah, okay.
+
+**Justin Luebke:** I would recommend, if you are going to start with two, AI upskilling, and then, I guess, implementation or literacy, that would go pretty hand in hand.
+
+**Justin Luebke:** I know I accidentally put AI
+
+**Kyle Gaudreau:** So I'm where would I put that, it kind of works with both, like, hmm, let me think about it.
+
+**Kyle Gaudreau:** But yeah, okay, cool.
+
+**Kyle Gaudreau:** I mean, theoretically, you can have a, you can have a cluster that extends across a pillar.
+
+**Kyle Gaudreau:** It's different intent.
+
+**Kyle Gaudreau:** It's different intent.
+
+**Kyle Gaudreau:** It's relevant to both topics, right?
+
+**Kyle Gaudreau:** It's not...
+
+**Kyle Gaudreau:** It doesn't happen.
+
+**Kyle Gaudreau:** Or it, you know...
+
+**Justin Luebke:** I would just request that it is very specific towards the intent.
+
+**Justin Luebke:** So if you were to search whatever the keyword is, it doesn't show up with AI literacy if it's supposed to be an implementation guide.
+
+**Justin Luebke:** I guess if that makes sense.
+
+**Kyle Gaudreau:** Yeah, yeah, no, I follow you.
+
+**Kyle Gaudreau:** Yeah, that makes sense.
+
+**Kyle Gaudreau:** Cool.
+
+**Justin Luebke:** And then what else did I have?
+
+**Justin Luebke:** Oh, I wanted to say something about the competitors.
+
+**Justin Luebke:** I'm going to try to talk really fast since we only have 10 minutes.
+
+**Justin Luebke:** The competitors that I saw...
+
+**Justin Luebke:** Within here, within the keywords, I would say be mindful of when using this, this is also their consumer blog.
+
+**Justin Luebke:** And we want to heavily diversify from anything consumer related.
+
+**Justin Luebke:** Like we, I mean, this is an obvious one, but like we don't want anything like jobs or even like OpenAI versus ChatGPT.
+
+**Justin Luebke:** We will be competing with our own blog, which would be a extremely lost cause.
+
+**Justin Luebke:** So I wanted to specifically do pretty low volume, very B2B focused keywords, which I think is already shown in the target keywords.
+
+**Justin Luebke:** But I did want to reiterate just in case.
+
+**Kyle Gaudreau:** Yeah, I think, I think some of that came by like a secondary whole research Matt did.
+
+**Kyle Gaudreau:** And he's just like sourcing from a few different things.
+
+**Kyle Gaudreau:** But yeah, that's a really helpful call out.
+
+**Kyle Gaudreau:** Anytime you have sources that you believe someone.
+
+**Kyle Gaudreau:** Is kicking  just to your knowledge of, you know, obviously we can try to find these things, but if you just have anything like these people are like doing this really well, whatever that is on this topic, if you have that, like that's always good for us, not only but always helpful.
+
+**Kyle Gaudreau:** Okay.
+
+**Justin Luebke:** If you scroll in here, it is few and far between because most of them are consumer related, but I do have competitor ranks in here if they are available.
+
+**Justin Luebke:** It's just like a find and replace type thing, which is not many, but that could be useful.
+
+**Justin Luebke:** Another thing is I built this sheet for building outlines for Jay when he started, but I have an entire section on my linking guidelines.
+
+**Justin Luebke:** If this would help you just to like note this part specifically.
+
+**Kyle Gaudreau:** Yeah, this is something we'll definitely need to spend some time thinking about for sure.
+
+**Kyle Gaudreau:** Because so, um, we actually have like.
+
+**Kyle Gaudreau:** Like a pretty sophisticated workflow that is honestly probably one of our most complex workflows we have to handle internal linking.
+
+**Kyle Gaudreau:** It's just such a meaty thing.
+
+**Kyle Gaudreau:** I won't go too in the weeds of it, but basically it's just like about like scoring and semantic relevance and trying to help us more programmatically identify opportunities that doesn't mean we can't override.
+
+**Kyle Gaudreau:** So this is something I'll definitely need to think about and refine with the team of like how to be much more aligned with what you want.
+
+**Kyle Gaudreau:** Yeah, it's really helpful to know that that's there.
+
+**Kyle Gaudreau:** I don't know what the solution is yet, but yeah, like we should definitely.
+
+**Kyle Gaudreau:** I'll at share it for now.
+
+**Kyle Gaudreau:** Yep.
+
+**Justin Luebke:** Cool.
+
+**Justin Luebke:** And then in here, just a few things to kind of go through.
+
+**Justin Luebke:** Question.
+
+**Justin Luebke:** Are you using like for a tool to put this together?
+
+**Justin Luebke:** Is this Aerox?
+
+**Kyle Gaudreau:** That's actually where we started, but we actually have our own platform.
+
+**Kyle Gaudreau:** So it has some, we just hit a lot of limitations with AROPs.
+
+**Kyle Gaudreau:** The flow in some ways is similar, but very different from the end user experience.
+
+**Kyle Gaudreau:** But yeah, some similarities in that, like the idea of that you can take a set of repeatable workflows and point them to different sources and leverage the best of these different platforms.
+
+**Kyle Gaudreau:** Like think of it as like, you know, we have researcher workflows.
+
+**Kyle Gaudreau:** We have ones that do briefs, internal linking, create images, all that, the different things.
+
+**Kyle Gaudreau:** And like each one of those, like there's just different systems that do, are better at doing that stuff.
+
+**Kyle Gaudreau:** And so we have one like meta tags and this and that.
+
+**Kyle Gaudreau:** And so we can always like continue to refine it in a whole variety of ways.
+
+**Kyle Gaudreau:** So yeah, it's all very customizable.
+
+**Justin Luebke:** Nice.
+
+**Justin Luebke:** Okay.
+
+**Justin Luebke:** I had just used it in the past and the output reminded me.
+
+**Justin Luebke:** So I was wondering if up here, and I'm just going to go through these quick, just adding which keywords we have in here, or at least what the primary keyword is, and also not including, if possible, any links in the beginning, unless it is the primary link.
+
+**Justin Luebke:** Like, I love that this is in here, but I would love to send value first and foremost to our primary link, which is like the one we were just talking about before.
+
+**Justin Luebke:** This is just kind of nitpicky, so no worries there.
+
+**Justin Luebke:** Nothing there.
+
+**Justin Luebke:** There's another one that I just wanted to...
+
+**Justin Luebke:** A lot of these are numbered.
+
+**Justin Luebke:** If we could use some bullets on some, but that's already in there.
+
+**Kyle Gaudreau:** It's just very number heavy.
+
+**Kyle Gaudreau:** Yeah, agreed.
+
+**Kyle Gaudreau:** This one did skew pretty heavy that direction.
+
+**Justin Luebke:** I also wanted to talk about the, which is, it is a bullet up here, like the anchor links, I would love them to be a little bit more descriptive.
+
+**Justin Luebke:** So rather than just having like manufacturing businesses and linking to our manufacturing page, something that is more like upskilling manufacturing businesses to like pull that value or like push the value directly to that page.
+
+**Justin Luebke:** So more just like keyword heavy, or for like the gen packed one, which I know, makes sense in context, because that is the, you know, the case study, but rather than that, having like something more diverse, like this, like immersive 12 week AI program linking into it.
+
+**Justin Luebke:** So that was just a little thing.
+
+**Justin Luebke:** Oh, I want to make sure if possible, that we could have like one or two.gov or edu external sources, just to build like user trust and credibility.
+
+**Kyle Gaudreau:** Like
+
+**Kyle Gaudreau:** Behind stats.
+
+**Justin Luebke:** I really don't love that our consumer blog has no external links besides in the footer.
+
+**Justin Luebke:** I think having them in the content behind substantiated stats is a goldmine of value.
+
+**Kyle Gaudreau:** Yeah, that's a good call.
+
+**Justin Luebke:** Oh, they fixed that.
+
+**Justin Luebke:** Oh, no, they didn't.
+
+**Justin Luebke:** So this is nitpicky also.
+
+**Justin Luebke:** I love the end when it's more action-oriented.
+
+**Justin Luebke:** Also, if it could include UB, that's ideal.
+
+**Justin Luebke:** And then my last thing was this, which was part of the anchor linking, just making it more descriptive, especially for a CTA, like an inline CTA, by doing that.
+
+**Justin Luebke:** And then lastly, noting that some of these links are not incorrect, but not relevant, I guess.
+
+**Justin Luebke:** So like this AI readiness one doesn't say AI readiness anywhere.
+
+**Justin Luebke:** It only talks about AI fluency.
+
+**Justin Luebke:** And there's this L&D one.
+
+**Justin Luebke:** One that does not mention L&D anywhere.
+
+**Justin Luebke:** That's all I, that's what I thought too.
+
+**Justin Luebke:** Cause I mean, all the other ones, very relevant and they were good, good links, but some of them just, yeah, did not make.
+
+**Kyle Gaudreau:** I missed this one.
+
+**Kyle Gaudreau:** I had looked at, yeah.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Interesting.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Intern ranking, always a tricky one.
+
+**Kyle Gaudreau:** Okay, cool.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** And also I kind of like, maybe you have this in your, your process though.
+
+**Kyle Gaudreau:** How do you generally feel about number of links on a page?
+
+**Kyle Gaudreau:** Like, do you have, do you care?
+
+**Kyle Gaudreau:** Do you want, yeah.
+
+**Justin Luebke:** I do care, but I don't have a number.
+
+**Justin Luebke:** I feel like it's a feel it out type of thing.
+
+**Justin Luebke:** Like, don't add too many, which I know is the most vague thing in the world.
+
+**Kyle Gaudreau:** Right.
+
+**Justin Luebke:** This seems like, this seems
+
+**Justin Luebke:** For me, I guess my philosophy would be using an internal link where it's relevant.
+
+**Justin Luebke:** I usually just manually go through and do all the internal links just because I want it to be useful and descriptive.
+
+**Justin Luebke:** So if it is descriptive enough that someone will click on this useful link and guide them to where I want them to go, then that means that they are further engaging in the site in a journey that we already know they might want to do.
+
+**Justin Luebke:** So specifically linking like next search keywords or the pillar content or just like different conversion pages, that is my ideal.
+
+**Justin Luebke:** I don't know about what value it sends or does not send, but as a user experience, I think linking relevant pages can only be helpful.
+
+**Justin Luebke:** Yep.
+
+**Justin Luebke:** Agreed.
+
+**Kyle Gaudreau:** Agreed with that.
+
+**Kyle Gaudreau:** Yeah, that makes sense.
+
+**Kyle Gaudreau:** Coming back to user experience more often than not, it tends to be the answer.
+
+**Kyle Gaudreau:** Exactly.
+
+**Kyle Gaudreau:** Exactly.
+
+**Kyle Gaudreau:** And it's been a large part of my SEO philosophy for a long time.
+
+**Kyle Gaudreau:** Random question somewhat related to links or very much related.
+
+**Kyle Gaudreau:** Do you have anything set up outside of a just straight up in text internal link to handle clusters at this point?
+
+**Kyle Gaudreau:** Like similar posts?
+
+**Kyle Gaudreau:** can't recall seeing.
+
+**Kyle Gaudreau:** You may.
+
+**Kyle Gaudreau:** I just can't.
+
+**Kyle Gaudreau:** I don't know.
+
+**Kyle Gaudreau:** Say that again.
+
+**Kyle Gaudreau:** Sorry.
+
+**Kyle Gaudreau:** So as you think about the pillar cluster, you know, hierarchy, hierarchy, do you have anything today in how the blog is set up that helps enable that?
+
+**Kyle Gaudreau:** Or are you doing that purely with like in-line internal links?
+
+**Justin Luebke:** Right now that, and this whole blog thing is so new.
+
+**Justin Luebke:** Yeah.
+
+**Justin Luebke:** We just like migrated old blogs over.
+
+**Justin Luebke:** So we really have no, like, this is kind of a build the plane as we're flying or whatever they say type thing.
+
+**Justin Luebke:** So that is something I want to build out that I have not built out.
+
+**Justin Luebke:** Oh, all good.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Just curious.
+
+**Kyle Gaudreau:** Obviously, we can make recommendations as well.
+
+**Kyle Gaudreau:** Obviously,
+
+**Kyle Gaudreau:** How do you feel about this?
+
+**Kyle Gaudreau:** Do you feel like you're going to get your concerns addressed in the not-too-distant future on the page of its feeds?
+
+**Kyle Gaudreau:** I know I'm preaching to the choir.
+
+**Kyle Gaudreau:** It's bad.
+
+**Kyle Gaudreau:** It's one of the worst.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** I have a hard time talking about it.
+
+**Justin Luebke:** I get, like, I'm trying to just, like, go through to check a page, and I can't even load it.
+
+**Justin Luebke:** It makes me so mad.
+
+**Kyle Gaudreau:** That's what happened with, I was walking, or, you know, I was ramping up Katya, as I mentioned, to start helping us here, and I was walking her through some stuff, and I was, like, pretty sure I clicked this.
+
+**Kyle Gaudreau:** Yeah, right?
+
+**Justin Luebke:** Yeah, so that's something that's on the dev team's radar.
+
+**Justin Luebke:** I don't know where that's falling in priority.
+
+**Justin Luebke:** I tried to prioritize that as one of my first projects to, like, work with them to do.
+
+**Justin Luebke:** That got key prioritized for some reason.
+
+**Justin Luebke:** So I'm, yeah.
+
+**Justin Luebke:** I'm itching for it.
+
+**Justin Luebke:** I'm trying to get people to work on it.
+
+**Justin Luebke:** Yeah.
+
+**Kyle Gaudreau:** I'm preaching to the choir, obviously, but yeah, it should be very high on the list.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** It's no doubt affecting your conversion rates.
+
+**Kyle Gaudreau:** No doubt.
+
+**Kyle Gaudreau:** Yeah.
+
+**Justin Luebke:** mean, none of this stuff, I mean, it will rank, but it is going to have a hard time ranking against those page speeds.
+
+**Justin Luebke:** Yeah.
+
+**Justin Luebke:** Big time.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Which isn't looking good for either of us.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Interesting.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** It makes me think more and more.
+
+**Kyle Gaudreau:** just like, I guess I think of it as like the solution that you all need in the short, medium, longer term and, you know, how this all can progress.
+
+**Kyle Gaudreau:** And if we are putting more on your web team play, that isn't that, is that really better?
+
+**Kyle Gaudreau:** Is the, is the impact for effort there beyond that?
+
+**Kyle Gaudreau:** Enough to just, so like what I'm meaning as saying kind of a confusing way is like there is a path to us just aligning and creating content that fits in within your current blog structure and just like cranking on that and just like making it really solid and good.
+
+**Kyle Gaudreau:** And not that it can evolve in other ways, but like if I am pushing you all and getting alignment and buy-in to, you know, the rippling like examples or the, I forget the other brand now off the top of my head, but just like creating this visual, you know, hey, you need to create a very different experience to support this.
+
+**Kyle Gaudreau:** And that takes some effort and time and coordination, like all that time and attention, not going to that issue doesn't feel like the right move.
+
+**Justin Luebke:** But anyways, you know, that's, yeah, I would, I mean, no matter what, we need a blog homepage because what we have now.
+
+**Kyle Gaudreau:** It's temporary.
+
+**Justin Luebke:** So I think that we need to move forward with that.
+
+**Justin Luebke:** If I could make a recommendation when we are on a larger call with larger titles, making it very clear how less productive the content will be at its current level and that something like that needs to be addressed.
+
+**Justin Luebke:** I think hearing that will put pressure on them to do that because I have been saying this anytime I talk to them.
+
+**Justin Luebke:** Like, so, we figured this out yet?
+
+**Justin Luebke:** I think that might be a way to do it.
+
+**Justin Luebke:** I know that it's on Steph's radar, but I don't know at what level.
+
+**Justin Luebke:** So maybe seeing the real implications of that would help.
+
+**Justin Luebke:** Yeah, noted.
+
+**Kyle Gaudreau:** Yeah, I think is something I will likely want to bring up in the meeting tomorrow.
+
+**Kyle Gaudreau:** Because, yeah, I mean, you know, I don't want to push you all in a direction that's less effective.
+
+**Kyle Gaudreau:** And, you know, I know, like, things that are different in us coming in and providing something that obviously has some excitement.
+
+**Kyle Gaudreau:** But, like, we got to not lose touch of some of the basics and foundational things that make you all successful.
+
+**Justin Luebke:** Yeah, for sure.
+
+**Kyle Gaudreau:** Interesting.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Well, I know we have this call, soon.
+
+**Kyle Gaudreau:** I think the one thing there that's an open question, and curious how you think about this, and we can pick that up in that call.
+
+**Kyle Gaudreau:** But, like, it sounds like there's a strong perspective of, like, where instructors are woven into the content in a variety of ways.
+
+**Kyle Gaudreau:** Like, how are you thinking about doing that in what we were walking through?
+
+**Kyle Gaudreau:** Yeah, so that's a great question.
+
+**Justin Luebke:** And I talked to Krista about this a little.
+
+**Justin Luebke:** And I think her bigger question.
+
+**Justin Luebke:** Overarching.
+
+**Justin Luebke:** The pillar page to this question is who is writing the content?
+
+**Justin Luebke:** We have like a Udemy editor program that we mostly use, and that's honestly what I was assuming we would do, or using people within the business, because a lot of our consumer blog, it makes complete sense that instructors are writing this and it's linked directly in, because it is tied directly to their courses.
+
+**Justin Luebke:** Whereas for UB, it is a lot different where we're talking to business people, and they will be, they're more interested, I guess, in all of these courses for their people rather than taking the courses.
+
+**Justin Luebke:** So I think that it will be a, like a pick and choose type thing.
+
+**Justin Luebke:** So maybe we do have instructors do things on topics that they can address in a B2B sense.
+
+**Justin Luebke:** So I think it is going to be more so UB people, and less so.
+
+**Justin Luebke:** Instructors.
+
+**Justin Luebke:** Krista may have different mindset on it, but that's kind of what I was thinking.
+
+**Justin Luebke:** Because I don't want an instructor just plugging their course for a B2B blog where it does not make sense.
+
+**Justin Luebke:** Oh, yeah.
+
+**Justin Luebke:** That's a fair point.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** There's natural biases to be conscious of there.
+
+**Kyle Gaudreau:** Yeah.
+
+**Justin Luebke:** So if it is a B2B intent and doesn't really focus on learning one specific skill, unless that's the B2B intent, then I think we just focus on someone in UB.
+
+**Justin Luebke:** But I think, yeah, the main question is, who's writing the blogs?
+
+**Justin Luebke:** Yeah.
+
+**Kyle Gaudreau:** It's an important question to answer.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Because, like, frankly, like, if it, like, depending on that answer, like, it just may not make sense for us to, like, the way we operate for us to be an effective partner for y'all.
+
+**Kyle Gaudreau:** And that isn't, like, you know, it is what it is.
+
+**Kyle Gaudreau:** Like, we don't want to, like, you know, square peg round hold this.
+
+**Kyle Gaudreau:** So, you know.
+
+**Kyle Gaudreau:** Like, that that is what we.
+
+**Kyle Gaudreau:** A big part of what we do, but if it's not a fit, then it's, you know, so that's what I'm doing.
+
+**Kyle Gaudreau:** I mean more so not who's writing the blog, but like who is, who's authored?
+
+**Justin Luebke:** Who's the author of the blog?
+
+**Justin Luebke:** Oh, okay.
+
+**Kyle Gaudreau:** A little bit different.
+
+**Justin Luebke:** So, yeah, so like, because we have, again, the program where we have to have someone go through and like read it, make sure it makes sense.
+
+**Kyle Gaudreau:** and editing process, and I got you.
+
+**Kyle Gaudreau:** Yeah, okay.
+
+**Kyle Gaudreau:** All that fun stuff.
+
+**Justin Luebke:** So that is our main concern, and that's something that we were going to have a really slow rollout on being, again, just me and Jay.
+
+**Justin Luebke:** So that's something we will really have to figure out fast if we're going to have five pieces of content per week.
+
+**Justin Luebke:** Totally.
+
+**Kyle Gaudreau:** Yeah, and to be clear, like, we look at that as like a bare minimum, like, which I know that seems like a lot, but like, you know, we find that with certain brands, like we can get to like quite a bit.
+
+**Kyle Gaudreau:** It's higher than that and it's repeatable.
+
+**Kyle Gaudreau:** Obviously, it needs to make sense.
+
+**Kyle Gaudreau:** It's not just the sake of doing it.
+
+**Kyle Gaudreau:** But anyways, yeah, these are all really critical things to sort through.
+
+**Kyle Gaudreau:** So anyways, I'll see you at the next meeting.
+
+**Kyle Gaudreau:** But yeah, this is good.
+
+**Kyle Gaudreau:** We're starting to get my head around certain things.
+
+**Kyle Gaudreau:** The one we're talking about pillar-wise is really, really helpful.
+
+**Kyle Gaudreau:** I can take that back with the team in a lot of ways.
+
+**Kyle Gaudreau:** Because I know that some of the things we'll talk about next will also be something to adapt to.
+
+**Kyle Gaudreau:** Perfect.
+
+**Kyle Gaudreau:** Yeah.
+
+**Justin Luebke:** Big reminder that this scorecard has been approved.
+
+**Justin Luebke:** Yes.
+
+**Kyle Gaudreau:** Yeah, I know.
+
+**Kyle Gaudreau:** I hear you loud and clear on that.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** I'm looking for paths to move faster wherever.
+
+**Kyle Gaudreau:** Yeah, trying to reduce as much friction as possible.
+
+**Justin Luebke:** Yes.
+
+**Kyle Gaudreau:** I love it.
+
+**Kyle Gaudreau:** Well, I appreciate it.
+
+**Kyle Gaudreau:** Really, yeah, your intent.
+
+**Kyle Gaudreau:** And thoughtfulness through this has been great.
+
+**Kyle Gaudreau:** I appreciate it.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Awesome.
+
+**Kyle Gaudreau:** I'll talk to in six minutes.
+
+**Kyle Gaudreau:** All right.
+
+**Kyle Gaudreau:** See you there.
+
+**Kyle Gaudreau:** Bye.

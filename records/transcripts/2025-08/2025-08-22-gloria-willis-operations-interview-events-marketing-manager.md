@@ -1,0 +1,1696 @@
+# Gloria Willis -Operations Interview | Events Marketing Manager
+
+<metadata>
+date: 2025-08-22
+time: 20:27 UTC
+duration: 58 minutes
+organizer: Bridget McGillivray (GrowthX)
+participants: Bridget McGillivray, Gloria Willis
+fathom_recording_id: 82458960
+fathom_url: https://fathom.video/calls/387468260
+share_url: https://fathom.video/share/KMkcnAs1Mh2E5xzKGhXxj1qcqRJLg7yo
+source: fathom
+enriched_on: 2026-03-03 12:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Bridget McGillivray conducted a first-round interview with Gloria Willis, an experienced event planner with 10+ years managing high-touch executive experiences at Pavilion and Drone Deploy, for GrowthX's Events Marketing Manager role. The conversation centered on Gloria's event portfolio (everything from intimate dinners to 700-person conferences), GrowthX's immediate needs (executive dinners, CMO breakfasts, conference presence, and a potential 100-person user conference), and the role's scope—taking full ownership of event execution to free up CEO Marcel's time while building playbooks from scratch in a fast-moving startup. Cultural fit around proactivity, pushing back respectfully on stakeholder requests with data, and embracing AI/automation emerged as key themes. Gloria will move to the next round with an exercise planning 1-2 potential GrowthX events and interviews with Jason and Marcel.
+
+---
+
+## Context
+
+Gloria Willis is a seasoned event operations professional actively interviewing for the Events Marketing Manager position at GrowthX, a B2B content marketing services firm. This first-round interview with Bridget McGillivray was part of GrowthX's hiring process for this newly created role. GrowthX runs B2B SaaS content marketing engagements with annual contract values of $200k+, and is expanding into the AI visibility space with CheckThat. As the company has grown, executing high-touch executive events—dinners, conferences, community-building activities—has become a strategic priority but is consuming significant CEO bandwidth. GrowthX is seeking someone to fully own event execution and build repeatable processes, handling everything from day-of logistics to ROI measurement. Gloria's experience at Pavilion (global salons, summits, large conferences) and Drone Deploy (high-touch proprietary programs) positions her as a strong technical fit for both intimate client dinners and larger public events.
+
+---
+
+## Relevance
+
+**To GrowthX Hiring & Culture:**
+- Gloria's track record at Pavilion and Drone Deploy (both high-growth B2B SaaS) makes her relevant to GrowthX's startup environment and scaling needs
+- Demonstrated ability to manage executive stakeholders (Sam Jacobs at Pavilion) and push back on ideas with data — critical for working with Marcel in a startup setting
+- Strong signals on proactivity and leverage-building mindset (e.g., "If they're asking for something crazy, I still do the research and present the facts")
+- Familiarity with using virtual assistants and automation to scale operations — aligns with GrowthX's emphasis on AI and efficiency
+
+**To GrowthX Revenue & Account Health:**
+- Executive dinners and CMO breakfasts are positioning tools for high-ticket B2B services; Gloria's expertise here directly supports client acquisition and retention for $200k+ engagements
+- Planning a 100-person user conference positions GrowthX as an authority in AI-led growth — could expand market presence and generate pipeline
+- Events ROI mindset (focusing on prospect/customer mix, attribution) supports business case for the function and client satisfaction metrics
+
+**To GrowthX Community & Content:**
+- "AI-led growth community" webinar series could feed content distribution and thought leadership strategy, supporting both CheckThat visibility and service marketing
+- Gloria joining next week's webinar and reviewing past content suggests quick integration into GrowthX's messaging and community positioning
+
+---
+
+## Overview
+
+- Gloria has extensive experience in high-touch event planning for executives, including at Pavilion and Drone Deploy
+- GrowthX is seeking someone to fully own event execution, with a focus on creating premium experiences for high-level clients
+- The role involves building out processes/playbooks from scratch, as the company is early-stage and growing rapidly
+- Cultural fit around proactivity, speaking up, and leveraging AI/automation will be important
+
+---
+
+## Key Topics
+
+### Gloria's Relevant Experience
+
+  - Led events at Pavilion, including global salon dinners, summits, and a 700-person go-to-market conference
+  - Currently at Drone Deploy managing high-touch proprietary programs
+  - Expertise in executive-level events, from intimate dinners to large conferences
+  - Strong focus on ROI, metrics, and proving event value
+
+### GrowthX's Event Needs
+
+  - Regular executive dinners and CMO breakfasts
+  - Presence at industry conferences (e.g. happy hours, meetups)
+  - Potential small user conference (\~100 people) next year
+  - Building out AI-led growth community with webinars/content
+
+### Role Expectations
+
+  - Take full ownership of event execution, freeing up Marcel's (CEO) time
+  - Create premium, high-end experiences aligned with GrowthX's service offering
+  - Build processes/playbooks from scratch as an early employee
+  - Leverage network and industry connections
+  - Eventually take on more strategic planning
+
+### Company Culture
+
+  - Fast-paced startup environment with opportunity to build and create
+  - Values proactivity, speaking up about challenges, and leverage-building mindset
+  - Uses AI and virtual assistants extensively to drive efficiency
+
+---
+
+## Action Items
+
+**Gloria Willis**
+- Join GrowthX webinar next Thursday
+- Watch previous GrowthX webinar on YouTube for context
+- Complete interview exercise: plan 1-2 potential GrowthX events (submittable for second-round interview)
+
+**Bridget McGillivray (GrowthX)**
+- Send Gloria details for next interview round with event planning exercise
+- Send Gloria link to AI-led growth community website
+- Coordinate with Tucker to schedule second-round interviews with Jason and Marcel for Gloria
+
+---
+
+## Transcript
+
+**Bridget McGillivray:** Hi, Gloria.
+
+**Gloria Willis:** Hi there.
+
+**Bridget McGillivray:** How are you?
+
+**Bridget McGillivray:** Good.
+
+**Gloria Willis:** Nice to meet you.
+
+**Gloria Willis:** Nice to meet you as well.
+
+**Bridget McGillivray:** Happy Friday.
+
+**Gloria Willis:** Yes, happy Friday.
+
+**Gloria Willis:** And hopefully you can't hear too much background noise.
+
+**Gloria Willis:** This is the day that my apartment decided to have people working in the trees right outside of my apartment.
+
+**Bridget McGillivray:** Well, let me know.
+
+**Bridget McGillivray:** I can't hear it, but let me know if you can't hear me or something.
+
+**Gloria Willis:** Perfect, perfect.
+
+**Bridget McGillivray:** Nice.
+
+**Bridget McGillivray:** Well, I was watching your interview with Tucker already, so we can probably skip some of the resume stuff.
+
+**Bridget McGillivray:** But I did want to start.
+
+**Bridget McGillivray:** Okay, first, let me introduce myself.
+
+**Bridget McGillivray:** So I'm Bridget.
+
+**Bridget McGillivray:** I run the ops teams here.
+
+**Bridget McGillivray:** And then my background is a bit more in go-to-market, so I always, like, gravitate towards helping with go-to-market stuff.
+
+**Bridget McGillivray:** So we're closely with – we have a very small go-to-market team.
+
+**Bridget McGillivray:** We have one AE, who just started, and then Marcel, who does 80% of everything.
+
+**Bridget McGillivray:** And then we have Jason, who's our head of growth.
+
+**Bridget McGillivray:** And that's pretty much it.
+
+**Bridget McGillivray:** Like, we have –
+
+**Bridget McGillivray:** We used some contractors on the side here and there, but pretty lean team for sure.
+
+**Bridget McGillivray:** So yeah, so we're very excited about this role.
+
+**Bridget McGillivray:** Marcel's marketing vision in general is very events heavy and very community focused.
+
+**Bridget McGillivray:** He's huge on like his network is like his everything and it's brought all the business we have so far.
+
+**Bridget McGillivray:** So he's very like, it's very important to him to like have good connecting experiences and to me and try to build up as big of a orbit as we can across like GTM people.
+
+**Gloria Willis:** So yes, yeah, I looked at his LinkedIn last night and noticed we have, I think, like 12 connections, one of which is Sam Jacobs, which was the CEO of Pavilion, which was my last role.
+
+**Gloria Willis:** So I did there, so I was like, oh, they're connected.
+
+**Bridget McGillivray:** Interesting.
+
+**Bridget McGillivray:** I would not be surprised if they're like friends or something that Marcel knows everyone.
+
+**Bridget McGillivray:** It's so crazy, but he puts in
+
+**Bridget McGillivray:** My gosh, that guy is, like, networking nonstop.
+
+**Bridget McGillivray:** Oh, yeah.
+
+**Bridget McGillivray:** Cool.
+
+**Bridget McGillivray:** Well, so I have a few questions we can go through in a bit.
+
+**Bridget McGillivray:** But, like, I actually was, like, very curious about, like, hold on.
+
+**Bridget McGillivray:** I was just pulling back up your resume.
+
+**Bridget McGillivray:** So, yeah, tell me about the Pavilion stuff.
+
+**Bridget McGillivray:** Like, super interested to hear about that.
+
+**Gloria Willis:** Yes.
+
+**Gloria Willis:** So Pavilion is actually the reason why I'm looking for another role right now.
+
+**Bridget McGillivray:** So let me tell you a little bit about the role.
+
+**Gloria Willis:** So I was hired on as their, I was actually recruited by them to, as their director of events.
+
+**Gloria Willis:** And they kind of had an events team, but they were mostly, like, customer service people kind of just, like, doing events on the side.
+
+**Gloria Willis:** So I was their first event hire.
+
+**Gloria Willis:** So it was my job to kind of come in and build out what the event platform, what event experience would feel like and experience would be.
+
+**Gloria Willis:** So I came in.
+
+**Gloria Willis:** had a team of three.
+
+**Gloria Willis:** So
+
+**Gloria Willis:** And we managed all of their salon dinners, which was global, global events.
+
+**Gloria Willis:** did them all over the world.
+
+**Gloria Willis:** We also had their, we had the CMO Summit, CRO Summit, and the CEO Summit.
+
+**Gloria Willis:** And then the year that I left, I had just finished doing the go-to-market.
+
+**Gloria Willis:** Go-to-market 2023 is the one that I did.
+
+**Gloria Willis:** And that was an event for 700 people or so, several sponsors, several speakers, obviously 700 attendees, three different tracks.
+
+**Gloria Willis:** Not really tracks, but we have three different lines that people can go through with their choice of sessions.
+
+**Gloria Willis:** So I managed, I managed everything.
+
+**Gloria Willis:** I built it, built it from the ground.
+
+**Gloria Willis:** And then a lot of what they're doing today is because of the work that, the work that I helped build.
+
+**Bridget McGillivray:** Amazing.
+
+**Bridget McGillivray:** What were the, and these dinners, what was that for?
+
+**Gloria Willis:** Or like, what was this?
+
+**Gloria Willis:** Mm-hmm.
+
+**Gloria Willis:** So it was, it was actually, it served.
+
+**Gloria Willis:** So purposes.
+
+**Bridget McGillivray:** So one, obviously, Pavilion is a community.
+
+**Gloria Willis:** So we want to make sure we're creating environments where the executive level people can actually have dinner with someone, learn from each other.
+
+**Gloria Willis:** Sometimes we actually have a speaker come in.
+
+**Gloria Willis:** And then the other portion of that was actually it was helping drive revenue.
+
+**Gloria Willis:** So we would have sponsors for those.
+
+**Gloria Willis:** So we would get sponsors.
+
+**Gloria Willis:** They would pay for a portion.
+
+**Gloria Willis:** They would pay for a certain amount of dinners per year.
+
+**Gloria Willis:** And then we would cover the dinners.
+
+**Gloria Willis:** And we would plan them in-house.
+
+**Gloria Willis:** And then the sponsor would get like five to seven minute max to be able to kind of introduce themselves, tell them about what they do.
+
+**Gloria Willis:** And then the rest of the program was completely about a roundtable.
+
+**Gloria Willis:** So we always had a moderator host.
+
+**Gloria Willis:** So whatever host city was, if it was in San Francisco, the chair for that, for San Francisco, would go to the dinner and would help moderate.
+
+**Gloria Willis:** And rest of And they would have- And
+
+**Gloria Willis:** They would go ready with, like, maybe three to five questions, and they would go around each table, depending on how many people were there, and really just present the questions and have real, real down-to-earth, raw, quick conversations.
+
+**Bridget McGillivray:** And was it, like, was it for a specific audience or all the audiences?
+
+**Bridget McGillivray:** Because you mentioned, like, some of the summits were for CROs versus CMOs versus CEOs.
+
+**Gloria Willis:** Yes.
+
+**Gloria Willis:** So originally, they were just for any executive that was a part of being a member.
+
+**Gloria Willis:** And then they have now moved into being, like, whatever the sponsor is.
+
+**Bridget McGillivray:** If the sponsor is more on AI, then they'll specifically target a different team.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** Or, like, a finance SaaS company or something for CFOs.
+
+**Gloria Willis:** I see.
+
+**Bridget McGillivray:** Yes.
+
+**Bridget McGillivray:** Cool.
+
+**Bridget McGillivray:** Okay.
+
+**Bridget McGillivray:** So I see.
+
+**Bridget McGillivray:** Because I'm looking at the pavilion site now.
+
+**Bridget McGillivray:** So the private salon dinners is included in the, like, executive membership.
+
+**Gloria Willis:** Yes.
+
+**Bridget McGillivray:** So how many?
+
+**Gloria Willis:** I'd love to go.
+
+**Bridget McGillivray:** How many a year are there?
+
+**Gloria Willis:** It had to, it was a lot.
+
+**Bridget McGillivray:** I mean, if you're scrolling through.
+
+**Bridget McGillivray:** civilian members are there?
+
+**Gloria Willis:** Well, when I left, we were just shy of 10,000.
+
+**Gloria Willis:** So yeah, a lot, a lot of members, but that, that ranged from the entry level all the way up to the executive level members, as well as one more tier above that, which was their CEO membership, which was a little, little different from the offerings for the rest of them.
+
+**Bridget McGillivray:** Okay.
+
+**Bridget McGillivray:** Then one of my questions, which maybe it could be related to this or something else, doesn't have to be Pavilion, but what's like a very unique event that you've designed?
+
+**Gloria Willis:** Unique event.
+
+**Gloria Willis:** I mean, they've all been really fun.
+
+**Gloria Willis:** I did one at, I don't know if it was unique, but it was, it was very fun.
+
+**Gloria Willis:** It was, I did an event with Opus Bank.
+
+**Gloria Willis:** Unique event.
+
+**Gloria Willis:** partnered with a former RMIT.
+
+**Gloria Willis:** We're Thank
+
+**Gloria Willis:** Basketball player.
+
+**Gloria Willis:** And he actually came in and did a fireside chat with our CEO.
+
+**Gloria Willis:** And we gave the executives who went to that, to that event, the opportunity to kind of engage with this former NBA player.
+
+**Gloria Willis:** And it was like, it was just a really special experience because you don't always get access to those kind of, those kind of people, especially ones that are like out of the game because you don't get to see them play anymore.
+
+**Bridget McGillivray:** So that was, that was fun.
+
+**Bridget McGillivray:** Was that for prospects or clients or investors or what?
+
+**Gloria Willis:** It was predominantly for prospects.
+
+**Gloria Willis:** So when I was at Opus, we did, most of our events were for B2B.
+
+**Gloria Willis:** So we were a bank that didn't really focus on like the consumer side.
+
+**Bridget McGillivray:** We were a bank for businesses.
+
+**Gloria Willis:** So we, I did a lot of events that were just for like local businesses looking to find a new bank.
+
+**Bridget McGillivray:** Got it.
+
+**Bridget McGillivray:** Was that expensive getting the NBA player?
+
+**Gloria Willis:** Well, yes.
+
+**Gloria Willis:** Yeah.
+
+**Gloria Willis:** Yeah.
+
+**Gloria Willis:** Yeah.
+
+**Gloria Willis:** It is expensive.
+
+**Gloria Willis:** But, you know, the unique events usually are.
+
+**Gloria Willis:** Bespoke experiences are, they're priced, but they're worth it.
+
+**Gloria Willis:** I mean, I did one where we worked with this company called Resident in New York, where they rent out private houses, and then they bring in a chef, and then they moderate the conversation.
+
+**Gloria Willis:** So you get access to this, like, penthouse in New York, and you have this sit-down dinner with bartenders serving, and it was for, like, 14 people.
+
+**Gloria Willis:** So it was very intimate, very cool.
+
+**Gloria Willis:** I did a CEO, the CEO Summit that I did, their winter program.
+
+**Bridget McGillivray:** They went to Ireland.
+
+**Bridget McGillivray:** So I helped that entire trip, and that trip included helicopter rides.
+
+**Gloria Willis:** And, yeah, so, like, it was, I've done some interesting and fun experiences.
+
+**Bridget McGillivray:** Marcina loves all these things.
+
+**Bridget McGillivray:** Like, not because he's, like, super fancy or anything.
+
+**Bridget McGillivray:** He's just, like, he's, like, I'm, he's a known CMO, and so he gets invited.
+
+**Bridget McGillivray:** It's everything.
+
+**Bridget McGillivray:** And he's like, at this point, like, he's like, I have a two-year-old, like, I need to go home.
+
+**Bridget McGillivray:** I need to, like, I got to go to the, I want to go to the cool stuff these days.
+
+**Gloria Willis:** Yep, yep.
+
+**Gloria Willis:** I was, it's funny you say that.
+
+**Gloria Willis:** I was actually just putting together Drone Deploy.
+
+**Gloria Willis:** We're looking to do more executive activations in 2026, if I'm here.
+
+**Gloria Willis:** Mm-hmm.
+
+**Gloria Willis:** So they have tasked me with kind of thinking through what it is that actually executives want to experience at their events.
+
+**Gloria Willis:** And I just took the time to just boil it down to one sentence.
+
+**Gloria Willis:** And that one sentence is, is like, they want to do things that's worth their time.
+
+**Gloria Willis:** Yeah.
+
+**Gloria Willis:** We cannot have them going to something that they can do on their own.
+
+**Gloria Willis:** And if it's something that they can do on their own, those little details are going to be what makes it a special standout.
+
+**Gloria Willis:** So it could be, they're always going to get wine at something, but are they going to get a wine that has their logo on it, etched in it from the year that they opened up?
+
+**Bridget McGillivray:** Like, no, probably not.
+
+**Gloria Willis:** But that's the kind of things that you want to be doing for these.
+
+**Bridget McGillivray:** Really cool bespoke events.
+
+**Bridget McGillivray:** I know.
+
+**Bridget McGillivray:** Yeah, it's funny because I also run finance here, so it's taken me months to get used to the ideas.
+
+**Bridget McGillivray:** I'm always like, oh my God, Marcel, I'm going to have a heart attack at that idea.
+
+**Bridget McGillivray:** And he's like, got to trust me.
+
+**Bridget McGillivray:** What about, okay, what else was I going to ask?
+
+**Bridget McGillivray:** Oh yeah, what about, have you, well, first of all, Drone Deployer, like how big is that company?
+
+**Gloria Willis:** How many people work there?
+
+**Gloria Willis:** We're at, I believe, a little over 300 people now.
+
+**Bridget McGillivray:** Okay, and are there other events people or is it just you?
+
+**Gloria Willis:** I have one direct report to me.
+
+**Bridget McGillivray:** And what do they do?
+
+**Gloria Willis:** She focuses on our trade shows.
+
+**Gloria Willis:** So I manage our high touch proprietary programs and she handles all of our industry events.
+
+**Bridget McGillivray:** Got it.
+
+**Bridget McGillivray:** We haven't really done industry events.
+
+**Bridget McGillivray:** So we're going to
+
+**Bridget McGillivray:** Like in two weeks, we're going to do a happy hour during an industry event, but not like to do with it.
+
+**Bridget McGillivray:** Like we rented a roof bar in SF, I think it's called 25 Lusk or something.
+
+**Bridget McGillivray:** That'll be during inbound is what the conference is called.
+
+**Bridget McGillivray:** But yeah, I don't know.
+
+**Bridget McGillivray:** I don't know if Marcel, what he thinks about trade shows, actually.
+
+**Bridget McGillivray:** I feel like ours is kind of different because like, because you're like a platform, like a set more of the SaaS play where we're like kind of like, like an agency at the moment, like an agency play with very like high touch, like high, like you got to get into the CMO.
+
+**Bridget McGillivray:** And they're not usually the ones walking around the trade show floor.
+
+**Gloria Willis:** Well, they are when it's go to market 2025.
+
+**Gloria Willis:** So that is one.
+
+**Gloria Willis:** The Lens event is just for executives.
+
+**Gloria Willis:** They actually, they, we looked at every single registration that came in.
+
+**Gloria Willis:** And if they didn't have the right title, they were automatically declined.
+
+**Gloria Willis:** So you do have CMOs going to that event.
+
+**Bridget McGillivray:** Yeah, that's true.
+
+**Gloria Willis:** So yeah.
+
+**Gloria Willis:** Yeah.
+
+**Gloria Willis:** Their sponsorships are, I mean, when I was there, they were a little bit more reasonably priced.
+
+**Gloria Willis:** I don't know what they are now because I haven't looked.
+
+**Gloria Willis:** But I can see that being, if you're going to do one, I would say that that could be an interesting one to do.
+
+**Bridget McGillivray:** Where is it?
+
+**Gloria Willis:** This year it's in Washington, D.C.
+
+**Bridget McGillivray:** I don't know where they're going to have it next year.
+
+**Bridget McGillivray:** Yeah, that's cool.
+
+**Bridget McGillivray:** I mean, it would be also amazing to get Marcel speaking.
+
+**Bridget McGillivray:** He's such a good speaker.
+
+**Bridget McGillivray:** Maybe they usually get you to pay for a sponsorship to get a speaking slot.
+
+**Gloria Willis:** No, they actually source their speakers.
+
+**Gloria Willis:** So the breakouts, yes, you do have to pay to get a spot there.
+
+**Gloria Willis:** But they do source all of their speakers.
+
+**Gloria Willis:** And I'm still very close with the CMO of there, Kathleen.
+
+**Gloria Willis:** So I could absolutely reach out and see him.
+
+**Bridget McGillivray:** Absolutely.
+
+**Gloria Willis:** And on the partnership side, was very close with Aaron.
+
+**Gloria Willis:** He's the one who manages the partnerships for sponsorships.
+
+**Gloria Willis:** Very close.
+
+**Bridget McGillivray:** Just reach out.
+
+**Bridget McGillivray:** Is your current company going to that?
+
+**Gloria Willis:** Or is it not really the right audience?
+
+**Gloria Willis:** It's not the right audience.
+
+**Gloria Willis:** So right now I went from full-blown all things go-to-market to construction workers, oil and gas, and drones, which is why I'm looking for my role.
+
+**Bridget McGillivray:** Because I miss the go-to-market people.
+
+**Bridget McGillivray:** Like, I want to go back to that world.
+
+**Gloria Willis:** So, I mean, everything's fine with my current role.
+
+**Gloria Willis:** So everything's fine, except that I miss building something, and I miss my go-to-market people.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** Tell me, like, okay, if we were doing a dinner, like an executive dinner, a happy hour, something like, what are you normally doing when those events are happening?
+
+**Bridget McGillivray:** Like, you're there, obviously, but, like, what's your – I don't know.
+
+**Gloria Willis:** How do you like to be at the events?
+
+**Gloria Willis:** I am the watcher.
+
+**Gloria Willis:** So I am – I'm making sure that people are comfortable.
+
+**Gloria Willis:** I am watching to see if somebody's kind of, like, noticing that the table's wiggly or whatnot, and then I'm going immediately to the restaurant.
+
+**Gloria Willis:** Fathom being like, you guys need to fix this.
+
+**Gloria Willis:** I'm the one where if I overhear someone saying, this actually just happened at one of my last events in Chicago, he was talking about this amazing steak that he had from that restaurant, but it wasn't on my prefix menu.
+
+**Gloria Willis:** So I was like, we're going to make it happen.
+
+**Gloria Willis:** So I just went over to the venue staff and was like, we got to get this guy the steak that he wants.
+
+**Gloria Willis:** Just charge us for whatever it is, but we need to make sure that he gets it.
+
+**Gloria Willis:** So I am the one who's making sure that things are moving on time.
+
+**Gloria Willis:** I'm the one who's tapping my CEO's shoulder being like, okay, it's time to do your presentation.
+
+**Gloria Willis:** It's time to make your comments.
+
+**Gloria Willis:** So I'm really, I'm there to watch.
+
+**Gloria Willis:** And then once everything's settled, if they want me to stay and sit in there, great.
+
+**Gloria Willis:** If they're like, nope, this is closed door.
+
+**Gloria Willis:** We just want executives to have conversations that are private.
+
+**Gloria Willis:** I'm going to go over to the bar and sit down within ear distance.
+
+**Gloria Willis:** So I can kind of hear if there's kind of mic issues going on or anything like that so that I can still close enough to fix anything.
+
+**Gloria Willis:** But giving them enough privacy that they can still feel like they can really have some open conversations.
+
+**Bridget McGillivray:** Yeah, awesome.
+
+**Bridget McGillivray:** Have you had to, like, I'm sure you have.
+
+**Bridget McGillivray:** So what is there an event where you or like a series of events where you've designed it, the whole concepts from scratch, like it didn't exist.
+
+**Bridget McGillivray:** The reason I'm asking is because like, we're this company is like, basically, everyone's only worked here for six months.
+
+**Bridget McGillivray:** So like, we need to do everything from scratch.
+
+**Gloria Willis:** So I'm curious, like, if you've had to do that, and like, had success there.
+
+**Gloria Willis:** Yeah, two times.
+
+**Gloria Willis:** I'll give you both of those examples.
+
+**Gloria Willis:** So once at Pavilion, that was the roadshow.
+
+**Gloria Willis:** My lessons learned is that you don't do nine events over nine weeks across the country.
+
+**Bridget McGillivray:** You don't do that.
+
+**Bridget McGillivray:** Oh, yeah, no.
+
+**Bridget McGillivray:** Sounds terrible.
+
+**Gloria Willis:** Yeah, we did it.
+
+**Bridget McGillivray:** And we survived.
+
+**Bridget McGillivray:** Why?
+
+**Bridget McGillivray:** Were you trying to like, condense pipeline generation or something?
+
+**Gloria Willis:** Yeah, we wanted to, we wanted to.
+
+**Gloria Willis:** We also just wanted to have a lot of the same speakers over and over again, so we didn't want to, like, lose the opportunity of having them, so we kind of just, like, piled it all in.
+
+**Gloria Willis:** Yeah.
+
+**Gloria Willis:** No, it was 12 weeks, but still, nine events over 12 weeks is rough.
+
+**Gloria Willis:** So I worked with the marketing team, and we concept out, like, where we wanted these events to go, and that was first looking at what were the communities that had the biggest executive practice.
+
+**Gloria Willis:** And then making sure that we are then targeting those areas to have these events because they're the ones that need it.
+
+**Gloria Willis:** And then we worked together with the content team to ensure, like, what we wanted to talk about and sourced the speakers.
+
+**Gloria Willis:** I did all the sourcing for the venues.
+
+**Gloria Willis:** I did all the negotiations of the venues and the contracts and vendors, all of that fun stuff.
+
+**Gloria Willis:** And then, so everything basically from cradle to grave.
+
+**Gloria Willis:** On those ones, when it came to planning logistics, I managed.
+
+**Gloria Willis:** I even helped support the team with the emails.
+
+**Gloria Willis:** It's not, I can do it, and I do it well and do it fine.
+
+**Bridget McGillivray:** It's not my favorite thing to do.
+
+**Gloria Willis:** I root for logistics, but I am absolutely capable and successful at writing the emails for these events and helping with kind of drive the people to the events.
+
+**Gloria Willis:** And then I also partnered very closely with the head of community here at Drone Deploy to launch what we're calling our Deploy Days.
+
+**Gloria Willis:** So these are similar to a roadshow, but it's definitely spread out.
+
+**Gloria Willis:** We do one a month, and again, we're looking at where we have the most active products or projects, and then those are the places that we're going to go and host the events.
+
+**Gloria Willis:** We're also taking that list of the cities that have the most active projects, and then we're putting it in front of the sales team and saying, okay, which of these do you guys want to host events in?
+
+**Gloria Willis:** Because we need your buy-in just as much as we have buy-in on these events.
+
+**Gloria Willis:** It's because they're your people and we're making the environment for your opportunities.
+
+**Gloria Willis:** So then we worked together to identify where to do them.
+
+**Gloria Willis:** And then I go out and I start finding the cool venues and doing all of the planning and helping with managing the registrations, working with the creative team to build out the websites, helping them design, like figuring out what to actually have on the websites, even as far as if I have to do the research to find a registration platform, doing all that or working with the team to build up something like we use Marketo right now, Marketo Forms.
+
+**Gloria Willis:** So working with the team to build out all of that.
+
+**Gloria Willis:** These events are fun because we don't want it to just be like another lunch and learn.
+
+**Gloria Willis:** So I pick places that are fun.
+
+**Gloria Willis:** So we have one on Monday that's a, it's at a brewery.
+
+**Gloria Willis:** So we're doing networking on the front end.
+
+**Gloria Willis:** And then they, we do about a 45 minute presentation.
+
+**Gloria Willis:** We always have a customer come and speak because we don't.
+
+**Gloria Willis:** We want them just hearing from us.
+
+**Gloria Willis:** We want them to hear from people who they care about, projects that they care about.
+
+**Gloria Willis:** And then they're doing a brewery tour and tasting right after.
+
+**Gloria Willis:** So I've done brewery tour and tastings.
+
+**Gloria Willis:** I've done, I mean, obviously Topgolf because everybody does Topgolf.
+
+**Gloria Willis:** I've done go-kart racing, which was way more successful than I thought it was going to be.
+
+**Gloria Willis:** Those guys really loved getting in those go-karts.
+
+**Bridget McGillivray:** What is the person who goes to the event?
+
+**Bridget McGillivray:** Is it like a head of construction or like?
+
+**Gloria Willis:** Yeah, it could be anything from a superintendent or a chief technology officer all the way down to like the pilots that are running.
+
+**Gloria Willis:** So we're targeting all of them for these events.
+
+**Gloria Willis:** And it's both prospects and customers.
+
+**Gloria Willis:** Our goal is 70% customers and then 30% prospects for those events.
+
+**Bridget McGillivray:** Very different from the marketer event types though, I would assume.
+
+**Bridget McGillivray:** I'm like go-karting versus like Michelin dinner.
+
+**Gloria Willis:** Yes, it's been interesting to kind of go through these type of events when I've done very different events in my past.
+
+**Bridget McGillivray:** How do you deal with, like, different stakeholders jumping in at random times?
+
+**Bridget McGillivray:** Like, Roussel loves events, too, and, like, has a lot of opinions and thoughts and ideas.
+
+**Gloria Willis:** But you know how CEOs are.
+
+**Bridget McGillivray:** They can, like, they're really in it one minute, and then they're just, they've got a million things going on.
+
+**Bridget McGillivray:** like, I don't know, have you had to manage different stakeholders like that?
+
+**Bridget McGillivray:** And do you have a good system to, like, get what you need from them, but also, like, you know, push back on some things, too?
+
+**Gloria Willis:** Yeah, so I did work very closely with Sam Jacobs at Pavilion, and he's the CEO.
+
+**Gloria Willis:** So, and he is, he's got ideas.
+
+**Bridget McGillivray:** He's got ideas and maybe a smaller group than ideas.
+
+**Gloria Willis:** So, so really what it comes down to.
+
+**Gloria Willis:** For me, the executive brain wants to see figures and they want to see what's the bottom line.
+
+**Gloria Willis:** What's the impact?
+
+**Gloria Willis:** So if they're asking for something that's kind of crazy, I'm still going to go do the research and present to them, like, this is what it's going to cost.
+
+**Gloria Willis:** This is what we will either gain or lose out by doing it.
+
+**Gloria Willis:** It's your choice.
+
+**Gloria Willis:** But let me educate you on what that means, what the implications or positive outcomes will be.
+
+**Gloria Willis:** So it's really just hearing what they are thinking and then providing the right kind of guidance to either reel it in or push it forward.
+
+**Bridget McGillivray:** Yeah, because sometimes at the end of the day, it's like, all right, we're just going to go for it.
+
+**Gloria Willis:** Like, there's that balance.
+
+**Bridget McGillivray:** I mean, this is not even related to events, just in general, working in small companies where the CEO is in the weeds of, like, picking between, like,
+
+**Bridget McGillivray:** Like, they're just wanting to move so fast.
+
+**Bridget McGillivray:** That's usually the underlying thing.
+
+**Bridget McGillivray:** It's just like, move faster.
+
+**Bridget McGillivray:** Let's get this done.
+
+**Bridget McGillivray:** So, you know, when to just go with the flow with what they're suggesting versus, like, really push back and try something different.
+
+**Gloria Willis:** And, like, it's totally situational.
+
+**Gloria Willis:** It is.
+
+**Bridget McGillivray:** Yeah.
+
+**Gloria Willis:** It is.
+
+**Gloria Willis:** But I find as long as you're coming in with facts and solutions, that seems to me.
+
+**Bridget McGillivray:** And you just have to, like, disagree and commit all the time.
+
+**Bridget McGillivray:** I'm like, okay, I'd do it differently, but let's try it.
+
+**Bridget McGillivray:** And honestly, I always find, like, usually it's actually, they have great ideas.
+
+**Gloria Willis:** There's a reason they're, like, CEOs, right?
+
+**Gloria Willis:** It's like, okay, that was way cooler than I thought.
+
+**Gloria Willis:** Exactly.
+
+**Gloria Willis:** Yes.
+
+**Gloria Willis:** Diversity of opinion.
+
+**Bridget McGillivray:** I'll take it.
+
+**Bridget McGillivray:** Exactly.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** Okay.
+
+**Bridget McGillivray:** So speaking of, like, measuring, like, numbers or ROI, or, like, what are some of the things you look at when an event's done, if, like, if it was successful or not?
+
+**Bridget McGillivray:** And I'm less about I'm less worried
+
+**Bridget McGillivray:** Are about like specific metrics or something?
+
+**Bridget McGillivray:** I'm just like, what are ways you can look back and be like, I think that was awesome and we shouldn't do it again or not?
+
+**Bridget McGillivray:** Yeah.
+
+**Gloria Willis:** So first and foremost, it's, it's always going to be.
+
+**Bridget McGillivray:** Sorry.
+
+**Bridget McGillivray:** I don't know why they're connected right now.
+
+**Gloria Willis:** It's always the line pipeline and close one opportunities that, that is, you cannot get away from them.
+
+**Gloria Willis:** You have to be able to prove the ROI on the event.
+
+**Gloria Willis:** So that's, that's one thing that you were, I'm always looking at.
+
+**Gloria Willis:** I'm also looking at attendance to see actually how many people registered versus how many people actually showed up.
+
+**Gloria Willis:** That's usually the satisfaction score.
+
+**Gloria Willis:** So CSAT and looking at what, what people's had feelings about the event, if they were good or bad.
+
+**Bridget McGillivray:** How do you do that?
+
+**Bridget McGillivray:** Like from a, like surveys or?
+
+**Gloria Willis:** Survey.
+
+**Gloria Willis:** You can do it from a survey.
+
+**Gloria Willis:** can do it from live polls during the, during the event, which is usually your best bet is to do live polls.
+
+**Gloria Willis:** Cause you're.
+
+**Gloria Willis:** I'm also measuring the impressions that we see on social media.
+
+**Gloria Willis:** So if we're seeing people getting out there and posting and saying great things about the event, that's just to me.
+
+**Gloria Willis:** And then it depends on, well, and then staying on budget.
+
+**Gloria Willis:** For me, that's very important is to stay on budget for the event.
+
+**Bridget McGillivray:** So those would be very budget fluid here.
+
+**Gloria Willis:** Okay, well, that's good.
+
+**Bridget McGillivray:** But I, it's not my favorite thing.
+
+**Bridget McGillivray:** It's just that we're, we don't have, we're so early, don't have the infrastructure to measure even like, like, literally, we still don't measure like conversion and pipeline and whatever.
+
+**Gloria Willis:** We don't have that all set up yet.
+
+**Bridget McGillivray:** So it's like a little bit going on vibes.
+
+**Bridget McGillivray:** So there's no even, I can't really push back on budget too much either.
+
+**Bridget McGillivray:** It's like...
+
+**Bridget McGillivray:** We do try to split the cost with people though.
+
+**Gloria Willis:** Like we love co-hosting stuff.
+
+**Bridget McGillivray:** So that helps for sure.
+
+**Bridget McGillivray:** But, you know, I think like over time, we'll start figuring out how to measure it better.
+
+**Bridget McGillivray:** But for now, yeah, it's funny.
+
+**Bridget McGillivray:** It's a little bit like, but like we, like, they're always asking me like, how much should we spend?
+
+**Gloria Willis:** I'm like, I don't know.
+
+**Gloria Willis:** There's, you tell me.
+
+**Gloria Willis:** Oh, no.
+
+**Gloria Willis:** That gives me, that makes me like uncomfortable.
+
+**Bridget McGillivray:** I absolutely will be line item everything that comes.
+
+**Gloria Willis:** And like my budget for Horizons, which is our big user conference.
+
+**Gloria Willis:** think it's like 80 lines long of like everything that I know I'm going to spend on these things.
+
+**Bridget McGillivray:** Cost it out right down to, I know for the break, I'm probably going to need to have seven gallons of coffee.
+
+**Bridget McGillivray:** So I'm going to cost it what that's going to be like.
+
+**Bridget McGillivray:** I break it down to that level.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** Awesome.
+
+**Bridget McGillivray:** Um, what, what's, um, so you mentioned like, you want to get back to working with marketers or anything, what else are you looking for in a next role?
+
+**Gloria Willis:** I
+
+**Gloria Willis:** Yes, definitely trying to get back into the go-to-market world with all of my people again.
+
+**Gloria Willis:** I am looking for a role that allows me the opportunity to kind of build, build something.
+
+**Gloria Willis:** I have, I found myself in that role many times over my career where I'm like the first one in.
+
+**Gloria Willis:** And I, I like that.
+
+**Gloria Willis:** I like innovating.
+
+**Gloria Willis:** I like creating.
+
+**Gloria Willis:** I love building a process like toolkit.
+
+**Gloria Willis:** Toolkits.
+
+**Gloria Willis:** That is my jam.
+
+**Gloria Willis:** I love building a good toolkit.
+
+**Gloria Willis:** So, and doing out a policies and procedures document.
+
+**Bridget McGillivray:** Those, those things I, I actually really enjoy doing, which is weird, but, you know.
+
+**Bridget McGillivray:** Me I'm weird too.
+
+**Bridget McGillivray:** I like thoughts.
+
+**Gloria Willis:** So that's, that's the, that's what I'm looking for.
+
+**Gloria Willis:** And I took the time to kind of look back through the, the job description last night and it was just like, check.
+
+**Gloria Willis:** Yep.
+
+**Bridget McGillivray:** That's what I want.
+
+**Bridget McGillivray:** That's what
+
+**Gloria Willis:** I want all those things, somebody who can roll up their sleeves and put out name badges, but also can kind of concept out new ideas and think about strategy and think about ROI and metrics and what have you.
+
+**Gloria Willis:** I just want to do more of that.
+
+**Gloria Willis:** I want to do a lot of events because that's what I do.
+
+**Gloria Willis:** I'm always juggling events at once.
+
+**Gloria Willis:** And I want my world to be events and I want to be known as the subject matter expert in that.
+
+**Gloria Willis:** And that's, I think, where this role comes in because I really do think that I can do that when it's a completely new role and I can kind of come in and build and help guide and lead.
+
+**Bridget McGillivray:** Yeah, that's exactly what, I mean, we're just so early.
+
+**Bridget McGillivray:** I mean, even the work or maybe have our first renewals like coming up in a few months.
+
+**Gloria Willis:** So everything's very early, like creating playbooks.
+
+**Bridget McGillivray:** One reason I like it, this job a lot and working here is like, I like the blank slate, basically everything is a blank slate and you can approach it from like first principles of how it should operate versus like, I actually, one thing I'm having to do actively is like unlearn my SaaS playbooks a little bit because it's a very different like buying journey when it's really, really high touch, really, really quick deal cycles, but like high ACVs.
+
+**Gloria Willis:** It's all of these CMO people who know Marcel.
+
+**Bridget McGillivray:** So it's just like completely different from like the traditional, like get this really long, like nine month deal cycle and the AE is working it and like doing all these demos and whatever.
+
+**Gloria Willis:** It's just so different.
+
+**Bridget McGillivray:** So for me, I'm trying to like, every time we go to design something new, I'm like, wait, let's just take it from our business model, which is like, everything should be AI native.
+
+**Bridget McGillivray:** And like, everything is about like, how can you make this efficient and fast and repeatable and then start.
+
+**Bridget McGillivray:** So that's one thing I've liked.
+
+**Gloria Willis:** It's like a new challenge for sure.
+
+**Bridget McGillivray:** And then it's a very interesting role because I've never worked on a team where there's so many marketers in the leadership.
+
+**Bridget McGillivray:** Like Marcel's a marketer, obviously.
+
+**Bridget McGillivray:** And then Jason is a growth.
+
+**Bridget McGillivray:** He's more like growth hacky.
+
+**Bridget McGillivray:** He's very into the go-to-market engineering stuff and all that.
+
+**Bridget McGillivray:** Kyle, who runs a lot of our account stuff, post-sale.
+
+**Bridget McGillivray:** And he was helping with sales for a bit.
+
+**Bridget McGillivray:** He is like was a VP of growth as well.
+
+**Bridget McGillivray:** So he's owned a lot of pipe gen stuff.
+
+**Bridget McGillivray:** So like there's three already who are like marketers like in the room who have like done events.
+
+**Bridget McGillivray:** So there's definitely like lots of ideas.
+
+**Bridget McGillivray:** There's no shortage of ideas floating around.
+
+**Bridget McGillivray:** But like there's just no time.
+
+**Bridget McGillivray:** Like the getting it right, doing it well, like making it repeatable.
+
+**Bridget McGillivray:** Just details that make it like, like you said, it's like people.
+
+**Bridget McGillivray:** People need it to be special, and, like, you have to put that special touch on things to make it worth people's time.
+
+**Bridget McGillivray:** And, like, speaking of metrics of success, we don't really have ways to track a lot of it, but one thing Marcel thinks about a lot is, like, who's posting, like, who posts that they went to his event and stuff.
+
+**Bridget McGillivray:** Like, it's kind of like a word of mouth, like, oh, I'm in the crew situation.
+
+**Bridget McGillivray:** Like, he does, yeah, there's, we hosted a CMO breakfast last week in our office.
+
+**Bridget McGillivray:** So we have a big office, by the way, that's, like, basically an event space.
+
+**Bridget McGillivray:** There's a few desks, but it's, like, we can just use it for events.
+
+**Bridget McGillivray:** And we hosted a CMO breakfast, which we've done three of in, like, the whole, this year.
+
+**Gloria Willis:** So, I don't know, every quarter.
+
+**Bridget McGillivray:** Super chill, like, order breakfast.
+
+**Bridget McGillivray:** We had a barista who was, like, cringy.
+
+**Bridget McGillivray:** Printing pictures on the coffee, and everybody was printing Marcel's face on the lattes, taking photos.
+
+**Bridget McGillivray:** It was funny.
+
+**Gloria Willis:** So people posted on LinkedIn, like, I love that.
+
+**Bridget McGillivray:** It was good.
+
+**Bridget McGillivray:** Yeah, so anyways, so there's, like, we want to do, I definitely want you to move, if you're still interested, I definitely want to move you forward to the next round.
+
+**Bridget McGillivray:** And, like, what, the next thing, the next thing we have, we'll have you do is just, like, an exercise to, like, look at one or two of the events we want to do and think about how you would sort of, like, go about executing it, basically.
+
+**Bridget McGillivray:** So, like, and this will all be sent to you, but, like, some of events we host are, like, we do want to do executive dinners and, like, get a good routine of doing them.
+
+**Bridget McGillivray:** And those could be wherever, like, SF is easy because it's just where Marcel is, but, like, I know he wants to do more.
+
+**Bridget McGillivray:** And then these CMO breakfasts, which are super, they're so simple.
+
+**Bridget McGillivray:** Honestly, like, it's just, like, come hang out in the office, basically, kind of situation.
+
+**Bridget McGillivray:** But then we might do some meetups.
+
+**Bridget McGillivray:** We want to be at event, like, conference events, at least.
+
+**Bridget McGillivray:** I don't know about sponsoring, but, like, at least be there and have a happy hour or dinner on the side, like, be where people are.
+
+**Bridget McGillivray:** And then we want to do a user conference maybe next year, but small, like, probably 100 people.
+
+**Bridget McGillivray:** And it would be, like, a one-day, like, go to market.
+
+**Bridget McGillivray:** I think, so we have a, I don't I'll send you the website.
+
+**Bridget McGillivray:** We have a community we just built called AI-led growth.
+
+**Gloria Willis:** Okay.
+
+**Bridget McGillivray:** Is this ours?
+
+**Bridget McGillivray:** That's not it.
+
+**Bridget McGillivray:** I'm like, what's the website?
+
+**Bridget McGillivray:** But the idea is to, like, have a community, like, long tail play as well.
+
+**Bridget McGillivray:** So, I don't know, I'm sure it's super familiar with the whole Pavilion thing, but, like, you know.
+
+**Gloria Willis:** Sounds like the roadshow we did.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** So, one more.
+
+**Bridget McGillivray:** SSL does these webinars too.
+
+**Bridget McGillivray:** We're actually doing one.
+
+**Bridget McGillivray:** You should join it.
+
+**Bridget McGillivray:** We're doing it next Thursday.
+
+**Bridget McGillivray:** And the previous one is available on YouTube as well.
+
+**Bridget McGillivray:** He does these online webinars and then we are going to put them all on circle and like sell a subscription to join our community and have access to all the videos and podcasts and stuff.
+
+**Bridget McGillivray:** But then that will be like kind of like the start of a community side of our business as well.
+
+**Bridget McGillivray:** So.
+
+**Gloria Willis:** Yep.
+
+**Gloria Willis:** All this sounds so familiar.
+
+**Bridget McGillivray:** Yeah, I know.
+
+**Bridget McGillivray:** It's funny.
+
+**Bridget McGillivray:** My site profile is like, wow, this is so cool.
+
+**Bridget McGillivray:** Oh, I can't find What platform did you all use for your webinar?
+
+**Bridget McGillivray:** Sorry?
+
+**Gloria Willis:** What platform did you use for your webinar?
+
+**Bridget McGillivray:** Zoom.
+
+**Gloria Willis:** Okay.
+
+**Bridget McGillivray:** Zoom and we um, we send everything out on Luma.
+
+**Gloria Willis:** Okay.
+
+**Bridget McGillivray:** Yeah.
+
+**Gloria Willis:** Um, really cool.
+
+**Gloria Willis:** Thank you.
+
+**Bridget McGillivray:** Bye, Bye.
+
+**Bridget McGillivray:** Can you see that if you click on that?
+
+**Bridget McGillivray:** I don't know if it's gated or not.
+
+**Gloria Willis:** It is not.
+
+**Gloria Willis:** says workshops, clear, technical, and no fluff.
+
+**Bridget McGillivray:** There you go.
+
+**Bridget McGillivray:** So, like, you could watch the old one and get a sense of what it's like.
+
+**Bridget McGillivray:** And then I think this is where eventually we'll put, like, gated and put pricing.
+
+**Bridget McGillivray:** Oh, but then down on the bottom left is, like, the link to all of the Luma events we've done.
+
+**Bridget McGillivray:** So you can get a sense of, like, well, there's not too much.
+
+**Bridget McGillivray:** Oh, it's because we got a new Luma account.
+
+**Bridget McGillivray:** I was like, why is there nothing?
+
+**Bridget McGillivray:** You can't see the past accounts on here or the past events.
+
+**Gloria Willis:** Oh, maybe you can.
+
+**Gloria Willis:** Yeah, I can see it down at the bottom.
+
+**Bridget McGillivray:** Oh, yeah.
+
+**Bridget McGillivray:** There you go.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** So those are sort of the stuff.
+
+**Bridget McGillivray:** Like, we haven't done a ton yet because nobody's had time.
+
+**Bridget McGillivray:** But, yeah, and then we're starting, like, a newsletter we're going to send and stuff.
+
+**Bridget McGillivray:** So, anyway, it's all in motion, but baby steps kind of just, like, chipping away.
+
+**Bridget McGillivray:** And then we actually have...
+
+**Bridget McGillivray:** One client who we're helping with events as well.
+
+**Gloria Willis:** Okay.
+
+**Gloria Willis:** Who's helping now?
+
+**Gloria Willis:** Do you have anyone in there who's helping them with events?
+
+**Bridget McGillivray:** We just signed the contract and it's effective today.
+
+**Bridget McGillivray:** So we're kind of doing it.
+
+**Bridget McGillivray:** Yes.
+
+**Bridget McGillivray:** Sorry.
+
+**Bridget McGillivray:** Jason mentioned to me someone who was helping them just for a few weeks.
+
+**Bridget McGillivray:** Her name is, hold on, I have her LinkedIn.
+
+**Bridget McGillivray:** She's like, so they're a big AI company and she's kind of like an AI personality sort of.
+
+**Bridget McGillivray:** So in helping with the events, I don't think she's planning it.
+
+**Gloria Willis:** I think she is bringing people is my understanding.
+
+**Gloria Willis:** Okay.
+
+**Gloria Willis:** So she's helping drive attendees?
+
+**Bridget McGillivray:** I think so.
+
+**Gloria Willis:** Okay.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** I don't really remember.
+
+**Bridget McGillivray:** Her name was Gabriella something, but I don't know where, I don't know her last name, but we're all, we just kind of are figuring it out on the fly, trying to hire this role.
+
+**Bridget McGillivray:** Quickly.
+
+**Gloria Willis:** Well, that is super exciting for me.
+
+**Gloria Willis:** I love the idea of being able to move forward and kind of concepting out some ideas of what you all can do for the programs that you already have.
+
+**Gloria Willis:** I would love to hear just a little bit more if you have a few more minutes.
+
+**Bridget McGillivray:** Yeah, I've got some time.
+
+**Gloria Willis:** To kind of, can you walk me through what your hope is for the role and what you're looking for?
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** And I think I will answer the same as them, but you can always ask them too next time.
+
+**Bridget McGillivray:** But yeah, so like, definitely, at least for now, I feel like there's a decent level of like what the strategy is for the next six months, let's call it.
+
+**Bridget McGillivray:** So I feel like for the next six months, like there is sort of a roadmap in place.
+
+**Bridget McGillivray:** And it's a lot of just like, things, you know, let's do this three times sort of thing.
+
+**Bridget McGillivray:** And so in that, for that, it's just like, completely.
+
+**Bridget McGillivray:** Take the execution off of Marcel's plate, basically, like, every day he's, like, just drowning and, like, I need time back in my life and, like, you know, so, but he gets tempted to be involved because he really likes it, but then you've got to, like, pull him away.
+
+**Bridget McGillivray:** So, like, the more that it's just, like, done and in a way he likes it, it'll be just, like, so much easier.
+
+**Bridget McGillivray:** So, execution heavy for sure, like, just not dropping the ball, like, getting  done, like, but, like, approaching it with this, like, understanding.
+
+**Bridget McGillivray:** I mean, you would know exactly how it is, like, it's quite high-level people, right?
+
+**Bridget McGillivray:** So, like, approaching it with, like, that balance of, like, okay, just got to get it done, but also have to make it very special and meaningful and stuff.
+
+**Bridget McGillivray:** So, like, putting yourself in the shoes of, like, yeah, we have, like, pretty, like, we have, our clients are, like, Webflow and Ramp, like, pretty big companies.
+
+**Bridget McGillivray:** Like, we're going to hopefully knock on wood, sign, like, no.
+
+**Bridget McGillivray:** Motion reached out this week to be a client.
+
+**Bridget McGillivray:** so some of the people that will go are like really legit.
+
+**Bridget McGillivray:** So, so Marcel wants, he said this to before, and this is why our office is stunning.
+
+**Gloria Willis:** And like, I would live, I would move in and live there if I could.
+
+**Bridget McGillivray:** Our like agency, like our services are like really high end.
+
+**Gloria Willis:** So he wants like the whole experience to feel high end as well.
+
+**Bridget McGillivray:** So like, if you go to a high end event, you feel like the service you're paying for is worth that price point.
+
+**Bridget McGillivray:** So it's, I'm sure it's the same with Pavilion, right?
+
+**Bridget McGillivray:** Where it's like, okay, this is what I'm paying for kind of situation.
+
+**Bridget McGillivray:** I know it's a weird way to measure it.
+
+**Gloria Willis:** It's like, you're not doing box lunches.
+
+**Bridget McGillivray:** You're not.
+
+**Gloria Willis:** Yeah, exactly.
+
+**Gloria Willis:** Yeah.
+
+**Bridget McGillivray:** Something to suggest to Marcel is like, oh my God.
+
+**Bridget McGillivray:** No.
+
+**Bridget McGillivray:** And then I think the other piece is like, which I just was talking to them about earlier this week is like that community side of things, which is like, his whole thing is like about connecting people and bringing people together and like, forming like not even relationships with us, but like other people.
+
+**Bridget McGillivray:** Performing relationships.
+
+**Bridget McGillivray:** to the extent we approach everything with this bigger community vision in mind, I think, is going to be pretty important.
+
+**Bridget McGillivray:** And I know that's vague, and I don't know how to unpack that super well, because it was just sort of, we were all spitballing earlier this week, and we've just launched this community, but a way to tie it all together.
+
+**Bridget McGillivray:** And then I think the other thing is, I'm sure you know a ton of people in the industry, but exactly that.
+
+**Bridget McGillivray:** You have connections, or you know who to go through for certain things, and all of that will be super valuable as well, too.
+
+**Bridget McGillivray:** So that's probably how I would distill it.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** I think longer term, there's more, there will be more space for the strategy stuff, too.
+
+**Bridget McGillivray:** I think that could be the next thing that comes off Marcel's plate.
+
+**Bridget McGillivray:** So he doesn't have to feel like he has to drive, like, you know, the exact vision, we can bring it to him.
+
+**Bridget McGillivray:** And like, he's involved, but like, so, yeah, so for now, since we didn't have anyone, he just kind of
+
+**Gloria Willis:** It's like, here's what we got to do for the year.
+
+**Gloria Willis:** Okay.
+
+**Bridget McGillivray:** Yeah.
+
+**Gloria Willis:** But anyway, getting in there and planning, which is my jam.
+
+**Bridget McGillivray:** Yeah.
+
+**Gloria Willis:** I love to just get in there and just start to hammer out the details.
+
+**Bridget McGillivray:** Awesome.
+
+**Bridget McGillivray:** Anything else I can answer for you?
+
+**Gloria Willis:** Yes.
+
+**Gloria Willis:** It's going to be a couple of the same questions that I asked Tucker, but I always like answers from a couple of different people.
+
+**Gloria Willis:** Let me get my notes here.
+
+**Gloria Willis:** Um, okay.
+
+**Gloria Willis:** What kind of values have you seen celebrated there?
+
+**Bridget McGillivray:** Oh, um, that's a good question.
+
+**Bridget McGillivray:** Definitely like prioritizing clients and like making them feel one showing our value to them.
+
+**Bridget McGillivray:** then two, making them feel valued.
+
+**Bridget McGillivray:** Like we have a kudos channel and it's a lot of it's like, like showing different, like, like, so our clients, doesn't even to
+
+**Bridget McGillivray:** Or, like, know Marcel and are on texting basis with him a lot.
+
+**Bridget McGillivray:** So when they text him that, like, somebody on the team went above and beyond on something, like, that's huge.
+
+**Bridget McGillivray:** Because Marcel's selling to them.
+
+**Bridget McGillivray:** And we don't, to an extent, we want them to think they're buying mini Marcel's.
+
+**Bridget McGillivray:** But, like, we don't want to overpromise you're not actually getting Marcel's CMO.
+
+**Bridget McGillivray:** So, like, it's been, like, when we have other people who can, like, fill that gap a little bit, it's awesome.
+
+**Bridget McGillivray:** So that really helps us.
+
+**Bridget McGillivray:** So I think that, and then, and then I would say the one main thing that's been standing out to me lately is just been, like, proactiveness.
+
+**Bridget McGillivray:** Just not, there's just too much to be done that, like, just not waiting to be told what to do, you know?
+
+**Bridget McGillivray:** Like, I have never seen anyone, like, raise their hand or just go do something and, like, be, like, slapped on the wrist.
+
+**Bridget McGillivray:** Right?
+
+**Bridget McGillivray:** It's, like, just, like, if you have an idea, it's not like, hey, I have this idea, could I do it?
+
+**Gloria Willis:** It's, like...
+
+**Gloria Willis:** It's,
+
+**Gloria Willis:** Hey, I have this idea, and I already did it, and it's done.
+
+**Bridget McGillivray:** So, like, that is really celebrated because then I think it, like, inspires everybody.
+
+**Bridget McGillivray:** It obviously keeps us moving super fast, and then we just don't have to go back and forth or something.
+
+**Bridget McGillivray:** It just, like, it makes everyone, like, oh, thank God.
+
+**Bridget McGillivray:** Wow, it's already done.
+
+**Bridget McGillivray:** Oh, somebody did that.
+
+**Gloria Willis:** So I think those are some of the things that are, like, that come to mind at least in the last few weeks.
+
+**Gloria Willis:** Okay.
+
+**Gloria Willis:** Now, it sounds like things are always extremely busy there.
+
+**Gloria Willis:** Like, everybody's kind of building planes while flying them.
+
+**Gloria Willis:** What does leadership do to ensure that the team kind of feels supported and can kind of maintain that kind of work level?
+
+**Bridget McGillivray:** That's such a good question.
+
+**Bridget McGillivray:** I was talking about this with someone earlier today because we actually had someone leave today very transparently, and, like, she mentioned that she was, like, working too much.
+
+**Bridget McGillivray:** And we're...
+
+**Bridget McGillivray:** We're...
+
+**Bridget McGillivray:** We're...
+
+**Bridget McGillivray:** Both kind of like, ah, it's hard because like, I wish you'd said something, you know, like nobody wants that.
+
+**Bridget McGillivray:** It's, that is absolutely not the objective to like overwork at all.
+
+**Bridget McGillivray:** But it's so hard to, when you're moving so fast and everybody is kind of an IC, it's really hard to help.
+
+**Bridget McGillivray:** I think the difference is maybe like some people are not, one, maybe people are not comfortable speaking up.
+
+**Bridget McGillivray:** So we need, we do need to solve for that.
+
+**Bridget McGillivray:** So like Marcel is going to go on a listening tour next week with like a certain group of employees and just like pull information out of them.
+
+**Bridget McGillivray:** Because sometimes you need to do that, just pull it.
+
+**Bridget McGillivray:** But the second part is just like, we try to hire people who have like the leverage building mindset.
+
+**Bridget McGillivray:** Because like, if you're always trying to like do more, but not spend more time, like obviously that would be a great outcome.
+
+**Bridget McGillivray:** You're always thinking about like, ah, spending too much time on this or like, I don't know why it's
+
+**Bridget McGillivray:** I wish I had more help here.
+
+**Gloria Willis:** wish I could automate this.
+
+**Bridget McGillivray:** speaking up about it, that's what's most helpful because then we can all brainstorm together.
+
+**Bridget McGillivray:** We also literally build AI workflows as a product.
+
+**Gloria Willis:** We can maybe come up with a solution.
+
+**Bridget McGillivray:** We have a lot of VAs in the company, which is something that's new to me.
+
+**Bridget McGillivray:** They're amazing.
+
+**Bridget McGillivray:** I have the most amazing VA.
+
+**Bridget McGillivray:** She lives in Nairobi.
+
+**Bridget McGillivray:** Her name's Alice, and she helps me with everything.
+
+**Bridget McGillivray:** Right now, she's cleaning up all of our HubSpot and adding new deals, and she loves HubSpot, and she's running pipeline reports.
+
+**Bridget McGillivray:** So just more people who are really excited to take on more, I would say that.
+
+**Bridget McGillivray:** So she builds a lot of leverage for me as well.
+
+**Bridget McGillivray:** So things like that.
+
+**Bridget McGillivray:** And then I was like, I had a meeting with our chief of staff earlier, and he was like, I'm feeling really overwhelmed.
+
+**Bridget McGillivray:** And he wrote out the list of everything he's doing.
+
+**Bridget McGillivray:** And we just went through it.
+
+**Bridget McGillivray:** And we're like, okay, there's nothing like we cannot take anything off immediately.
+
+**Bridget McGillivray:** But let's have
+
+**Bridget McGillivray:** So in the next, next week, take one thing off the next week, two things off, like, you don't need to be doing this role, or like, why don't we just deprioritize this thing completely?
+
+**Bridget McGillivray:** It's like, I don't think it's going to be a big deal to kick that out two months, you know, so, but he spoke up.
+
+**Bridget McGillivray:** So that helped, right?
+
+**Bridget McGillivray:** Then we just had the combo.
+
+**Bridget McGillivray:** So it's, I don't know if that answers your question.
+
+**Bridget McGillivray:** But it's like, a mix of like, we definitely want people who are okay, speaking up and like thinking about leverage.
+
+**Gloria Willis:** But if we can't get it, then we do need to do these things.
+
+**Gloria Willis:** Like listening tours, and like, pull it out of people.
+
+**Gloria Willis:** Yeah, yeah.
+
+**Gloria Willis:** I, I just had my, I'm sorry, you can hear the lawn people.
+
+**Gloria Willis:** I just had my media review with my, with my boss, and she actually called out that she really appreciates that I'm, I'll be the first one to be like, no, no, let's talk about this.
+
+**Gloria Willis:** Here's my workload.
+
+**Bridget McGillivray:** I'm not sure about that.
+
+**Gloria Willis:** Yeah, so I'm, I'm always one who will Yeah.
+
+**Gloria Willis:** Either stand up for myself or if I see that something is not right either for a customer or for a colleague, I will always speak up because I have a very strong, like, moral ground of how I think, like, of what is right.
+
+**Bridget McGillivray:** So I will always, I'll always speak up for myself and for others whenever it's needed.
+
+**Bridget McGillivray:** Yeah, it's even, like, we have, so that some of the people who run, like, our client accounts, it even sometimes happens from the clients putting too much on them.
+
+**Bridget McGillivray:** So we were, like, running and we were hiring still for that, like, for client-facing roles, but we were, like, feeling capacity strapped last month, like, what's going on?
+
+**Bridget McGillivray:** Like, okay, let's break this down into pieces and see how we can get people more, you know, more time back and efficient.
+
+**Bridget McGillivray:** And we were, like, one of the main things we realized is just the scope creep from the clients.
+
+**Bridget McGillivray:** It's, like, it's, like, hold on, what are you actually doing for the client?
+
+**Bridget McGillivray:** And they list, like, all of these side projects.
+
+**Bridget McGillivray:** It's, like,
+
+**Bridget McGillivray:** That's not in the contract, like, oh boy, first of all, we can fully push back, or, like, let's get paid more, then we can hire more, and then, right?
+
+**Bridget McGillivray:** Yeah, but it wasn't, their instinct was to just, like, say yes and please the client, versus, like, even just asking about it would have stopped it.
+
+**Bridget McGillivray:** Because they would have asked, like, Andy or me or someone, we've been like, whoa, whoa, whoa, like, we're going to charge for that.
+
+**Gloria Willis:** Yeah, yeah, but it's also being brave enough to, or comfortable enough to say, you know, let me, let me look into that, and I will get back to you as soon as possible.
+
+**Gloria Willis:** That's way, when you can take it away, and that was something that I actually had to learn this year.
+
+**Gloria Willis:** It was, it was something that my boss asked me to work on, that I sense completely corrected, is, like, when I didn't know the answer to something, I was like, uh, and then, and she was like, it's okay to say, I'm not sure.
+
+**Gloria Willis:** So, or let me get back to you, and that's a perfectly valid.
+
+**Gloria Willis:** Valid answer for someone because you're going to be able to provide them with a more valuable answer.
+
+**Gloria Willis:** So that's what I now do.
+
+**Gloria Willis:** So for me, it'd be like, okay, let me take this back.
+
+**Bridget McGillivray:** Let me look at the contract.
+
+**Bridget McGillivray:** Let me see what we can do.
+
+**Gloria Willis:** Let me look at the schedules and then get back to you and see what we can help you with.
+
+**Gloria Willis:** So it's not telling the customer no right out, but just like letting them know, hey, I'm on your side, but let me just make sure that we're all good to be able to support you in the best way possible.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** And sometimes if you just kind of repeat it back to them, they realize what they asked for.
+
+**Gloria Willis:** Or yeah, sometimes Marcel like comes up with some idea.
+
+**Bridget McGillivray:** This is like not even about like ever asking me to do anything, but it comes up with the idea he's talking about when I'm like, hold on.
+
+**Bridget McGillivray:** So let me just play that back.
+
+**Bridget McGillivray:** You want us to do this and this and this and this and this?
+
+**Bridget McGillivray:** And then he was like, no, no, I don't actually want that.
+
+**Gloria Willis:** Nevermind.
+
+**Bridget McGillivray:** So, you know, people just like, don't think about it first, but.
+
+**Gloria Willis:** Just got to get the exciting ideas out of them.
+
+**Bridget McGillivray:** That's all.
+
+**Bridget McGillivray:** Yes, exactly.
+
+**Gloria Willis:** Um, and then I.
+
+**Gloria Willis:** I think, last question, I know I think we're over time, is what's your favorite part about working at growthx?
+
+**Bridget McGillivray:** I think it's, I think it's the blank slate thing I mentioned earlier, and like getting to create stuff, it's very satisfying.
+
+**Bridget McGillivray:** Like in these, I've been here for like eight or nine months, and it's, I feel like I could literally point to like triple the things I've created or artifacts or like things I've done.
+
+**Bridget McGillivray:** Then I did in like multiple years before, just like a lot of opportunity to like build things.
+
+**Bridget McGillivray:** So I really like that.
+
+**Bridget McGillivray:** And then I really like the pace.
+
+**Bridget McGillivray:** Honestly, I question my sanity why I like startups all the time, but like I know they're roller coasters and there's good days and bad days, but overall, like really enjoy how fast we're moving and everyone's super smart.
+
+**Bridget McGillivray:** So it's like unlearning the SaaS world and learning this new like AI, like.
+
+**Gloria Willis:** Efficiency world.
+
+**Bridget McGillivray:** But everything's first principles.
+
+**Bridget McGillivray:** I really like that.
+
+**Bridget McGillivray:** So it's been good for me.
+
+**Bridget McGillivray:** I feel like I feel a lot more capable even just being here for like nine months.
+
+**Bridget McGillivray:** Like I feel like I could tackle like a lot more things because I have a different mindset.
+
+**Gloria Willis:** Okay.
+
+**Gloria Willis:** Yeah.
+
+**Gloria Willis:** Forward mindset.
+
+**Gloria Willis:** Like how can I optimize this?
+
+**Gloria Willis:** How can I build a process that's going to do this on its own?
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** Yeah.
+
+**Bridget McGillivray:** And you, yeah, it took a while to get used to that.
+
+**Bridget McGillivray:** Even something like, like Alice, like who I mentioned earlier, it was uncomfortable for me to ask her to do stuff from the beginning.
+
+**Bridget McGillivray:** Cause I was like, I could do it too.
+
+**Bridget McGillivray:** I'm just like, and then I realized like, first of all, she's like, loves all the projects.
+
+**Bridget McGillivray:** Like for her, that's really exciting work.
+
+**Bridget McGillivray:** And like, she's learning so much too.
+
+**Bridget McGillivray:** So it's like getting used to that.
+
+**Bridget McGillivray:** And then just leveraging AI, like as much as I can, like different projects and plot and Chachapiti.
+
+**Bridget McGillivray:** So it's like storing memory and I have like my sales area and like where I do contracts and stuff and just like forcing myself to like.
+
+**Bridget McGillivray:** So spend a little bit of time setting it up, and then I'm like 10x faster going forward.
+
+**Gloria Willis:** Nice.
+
+**Bridget McGillivray:** Yeah, that's helped.
+
+**Gloria Willis:** I want to dig more into AI.
+
+**Gloria Willis:** My company right now, we are definitely, we do full week long AI hackathons so that we can kind of find ways to use it.
+
+**Gloria Willis:** And we just launched Glean so that we can start to.
+
+**Gloria Willis:** Oh, nice.
+
+**Gloria Willis:** Yeah, it's been pretty cool, but I feel like I'm just barely scratching the surface.
+
+**Bridget McGillivray:** There's just so much more cool stuff out there to learn.
+
+**Bridget McGillivray:** I know.
+
+**Bridget McGillivray:** It's nuts.
+
+**Bridget McGillivray:** And then I see what we're doing for clients.
+
+**Gloria Willis:** I'm like, whoa, that's a lot to learn.
+
+**Bridget McGillivray:** Yeah, so I kind of, I just wanted, I definitely also wanted to be in like an AI native company from the get-go.
+
+**Bridget McGillivray:** I don't know.
+
+**Bridget McGillivray:** I just thought, I'm like, there's no better time to get into that wave, basically, and learn.
+
+**Gloria Willis:** So, absolutely.
+
+**Bridget McGillivray:** Awesome.
+
+**Bridget McGillivray:** Well, it was so
+
+**Bridget McGillivray:** Nice to meet you.
+
+**Bridget McGillivray:** I'll just chat with Tucker.
+
+**Bridget McGillivray:** don't know if he might have already logged off.
+
+**Bridget McGillivray:** He's two hours ahead of me.
+
+**Bridget McGillivray:** But we could, yeah, we'll try to set that up next week or something like that.
+
+**Gloria Willis:** And it would be with Jason and Marcel.
+
+**Bridget McGillivray:** And hopefully it would be a fun exercise.
+
+**Bridget McGillivray:** And you get to meet them and see what it's like as well.
+
+**Gloria Willis:** Yeah, definitely.
+
+**Gloria Willis:** I'm excited.
+
+**Gloria Willis:** Look forward to getting the details.
+
+**Gloria Willis:** Okay, great.
+
+**Gloria Willis:** Well, have a great weekend.
+
+**Gloria Willis:** Thank you.
+
+**Gloria Willis:** You as well.
+
+**Gloria Willis:** Nice to meet you.

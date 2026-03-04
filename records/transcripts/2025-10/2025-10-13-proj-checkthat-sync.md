@@ -1,0 +1,1602 @@
+# Proj: CheckThat Sync
+
+<metadata>
+date: 2025-10-13
+time: 18:30 UTC
+duration: 72 minutes
+organizer: Daniel Lopes
+participants: Marcel Santilli, Jose Farias, Estevão Mascarenhas, Daniel Lopes
+fathom_recording_id: 93772669
+fathom_url: https://fathom.video/calls/437944049
+share_url: https://fathom.video/share/2wvHQqak9AdoaS4d4KcpTs4pEdodqXRF
+source: fathom
+enriched_on: 2026-03-02 18:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+The CheckThat team aligned on MVP priorities: public pages (home, categories, subcategories, brand) targeting SEO launch within a week, and a logged-in experience focused on brand setup, prompt tracking, and basic analytics. Marcel reviewed mockups of both public and logged-in UIs built in the codebase using ShadCN components for consistency, while Daniel committed to preparing funnel stage prompts by Wednesday and Jose outlined the urgency of starting to track historical data with real prompts before the public launch.
+
+---
+
+## Context
+
+CheckThat is GrowthX's strategic software product—an AI visibility index for B2B that surfaces how various competitors rank on AI-generated content queries. The core team (Marcel as CEO/product, Jose and Estevão as developers, Daniel as product/prompts) is building the MVP to ship public pages and a logged-in experience. The project is at a critical phase: they're moving from design discussion and prototyping into actual implementation, with Marcel having now coded mockups directly into the codebase and the team starting to coordinate around data pipelines (prompt tracking, historical data) and feature prioritization. The public pages launch timeline is tight—aiming for the following week—which is driving prioritization decisions and forcing the team to make hard trade-offs about what ships in the MVP.
+
+---
+
+## Relevance
+
+**To CheckThat Product:**
+- Public page launch targeting next week with SEO-optimized home, categories, subcategories, brand pages to enable Google indexing
+- MVP logged-in experience scoped to brand setup, prompt tracking, basic analytics (removing non-essential features for speed)
+- UI leveraging ShadCN components exclusively for consistency and "Vercel-like" aesthetic; custom components only for specialized charts
+- Critical: need to start tracking data with real prompts before public launch to avoid losing historical data for existing clients
+- Daniel preparing prompts for first three (possibly all five) funnel stages by Wednesday for system import
+
+**To Technology/Engineering:**
+- Developers (Jose and Estevão) coordinating on Rails development patterns, debating domain-driven design vs. business-first modeling
+- Prompt tracking system requires coordination between Scrunch export (current prompts) and new system import pipeline
+- Marcel working directly in codebase with mockups rather than design tools, requiring team code review to catch inconsistencies
+- Team aligning on ShadCN as primary component library to reduce custom development burden
+
+---
+
+## Overview
+
+- Public pages (home, categories, subcategories, brand) prioritized for SEO; aiming for next week launch
+- Logged-in MVP experience focused on basic brand setup, prompt tracking, and analytics
+- UI to leverage ShadCN components for consistency and efficiency
+- Marcel to create MVP mockups for both public and logged-in experiences
+
+---
+
+## Key Topics
+
+### Public Page Development
+
+  - Estevão working on public pages: home, categories, subcategories, brand
+  - SEO considerations: ensure all content is indexable, avoid hidden elements
+  - Categories page to be updated with tile-based layout for better UX
+  - Search functionality to start simple with ShadCN combobox component
+
+### Logged-in Experience MVP
+
+  - Focus on basic brand setup, prompt tracking, and simple analytics
+  - Jose to prioritize building bare-bones logged-in features by month-end
+  - Marcel to create mockups for MVP logged-in screens, removing non-essential features
+
+### UI Component Strategy
+
+  - Leveraging ShadCN components as much as possible for consistency
+  - Custom components only when necessary (e.g., specialized charts)
+  - Aim for a "Vercel-like" aesthetic for efficiency and modern look
+
+### Data Migration and Tracking
+
+  - Urgency to start tracking data for existing clients to avoid historical data loss
+  - Plan to export current prompts from Scrunch and import into new system
+  - Daniel to prepare prompts for the first three (possibly all five) funnel stages by Wednesday
+
+### Search Functionality
+
+  - Initial implementation to use ShadCN combobox for simplicity
+  - Future iterations may include more advanced modal-based search experience
+  - Aim for Notion-like efficiency in search results presentation
+
+### Onboarding and Sign-up Flow
+
+  - To be addressed after public pages are live
+  - Consider various paths: immediate sign-up vs. "hooked" experience leading to sign-up
+  - Marcel to mock up basic onboarding flow if time permits
+
+---
+
+## Action Items
+
+- **Marcel Santilli (GrowthX):** Create MVP mockups for logged-in experience and document MVP requirements
+- **Estevão Mascarenhas (GrowthX):** Continue development of public pages (home, categories, subcategories, brand)
+- **Jose Farias (GrowthX):** Shift focus to developing bare-bones logged-in experience
+- **Daniel Lopes (GrowthX):** Prepare prompts for funnel stages by Wednesday
+- **Team (GrowthX):** Review Marcel's branch for any potential issues in mockup implementation
+
+---
+
+## Transcript
+**Estevão Mascarenhas:** Thank you.
+
+**Jose Farias:** Hey, how's it going?
+
+**Estevão Mascarenhas:** How are you doing?
+
+**Jose Farias:** Pretty good.
+
+**Jose Farias:** Went to play tennis this morning, a bit tired, but yeah, feeling good about the PR.
+
+**Jose Farias:** I just now pushed the last tests, and I'm planning to merge right now.
+
+**Jose Farias:** After the call, I know you mentioned you had a refactor among the same files, so that's probably going to cause a conflict.
+
+**Estevão Mascarenhas:** Sorry about that.
+
+**Estevão Mascarenhas:** Yeah, no worries.
+
+**Estevão Mascarenhas:** So I already, I rebased the branch that I was working on with yours.
+
+**Estevão Mascarenhas:** Yeah, we'll do that again when it's on me.
+
+**Estevão Mascarenhas:** You already merged, right?
+
+**Estevão Mascarenhas:** So yeah, no worries about that.
+
+**Estevão Mascarenhas:** I forgot to check GitHub, so I was doing the same refactor, and then I saw your PR, you already did it, and I was okay.
+
+**Estevão Mascarenhas:** I should have seen earlier.
+
+**Jose Farias:** No, no worries.
+
+**Jose Farias:** Like, for what it's worth, if that happens, like, in your branch, like, I don't mind at all.
+
+**Jose Farias:** Like, those kinds of conflicts.
+
+**Jose Farias:** Of course, they're conflicts, but they're, like, super simple, so it's whatever.
+
+**Jose Farias:** Yeah, thanks for reviewing that, by the way.
+
+**Jose Farias:** I had a, I posted, like, a pretty long message about, like, some reasoning there.
+
+**Jose Farias:** It's not like I'm aware long messages look like I care about this a lot.
+
+**Jose Farias:** It's not that.
+
+**Jose Farias:** It's just like I'm sharing lots of context in case it's useful.
+
+**Jose Farias:** But even if you wanted to rename, we can rename.
+
+**Jose Farias:** It's fine.
+
+**Jose Farias:** I don't care enough about it.
+
+**Jose Farias:** I thought it was helpful to share the whole reasoning because it does guide a lot of what I do in the future.
+
+**Jose Farias:** Like it's going to be this similar like same frame of thought.
+
+**Estevão Mascarenhas:** Yeah, no, that's helpful.
+
+**Estevão Mascarenhas:** Like I didn't see it yet.
+
+**Estevão Mascarenhas:** I haven't checked that, but yeah, thanks.
+
+**Estevão Mascarenhas:** I will read it.
+
+**Estevão Mascarenhas:** It's been, yeah, I'm trying to change the way that I think to understand that better.
+
+**Estevão Mascarenhas:** Like I saw the DHH talk that Daniel posted on channel last week about crude.
+
+**Estevão Mascarenhas:** And I was like, it's, I'm having to change my mind again because like I was, but so most of my career.
+
+**Estevão Mascarenhas:** worked with Rails, but then I deviated from it.
+
+**Estevão Mascarenhas:** I was working with something else.
+
+**Estevão Mascarenhas:** And now, most of my time in the past years, I was working with a different paradigm where the models are not so important, and it's more important like the operations about it, like the controller part.
+
+**Estevão Mascarenhas:** And then now I have to readjust my mind, and it's helpful to, if you can explain what's your reason, that helps me understand and internalize what we should do here.
+
+**Estevão Mascarenhas:** Because I know, like, we must follow Rails' conventions.
+
+**Estevão Mascarenhas:** So I think I've lost my way at some point.
+
+**Jose Farias:** It's all good.
+
+**Jose Farias:** I totally appreciate that.
+
+**Jose Farias:** For what it's worth, I think it's like, it's a little bit of DHH's fault, because there is like a very good way, like there is a way to build with Rails.
+
+**Jose Farias:** And it's the way DHH builds, because like he created the thing, right?
+
+**Jose Farias:** And he guides, he's still to this day, like guides all the decisions.
+
+**Jose Farias:** So...
+
+**Jose Farias:** So if he were to be more open about the way that he does that, that would be like super beneficial to the whole ecosystem.
+
+**Jose Farias:** Because what I'm thinking is the one thought that I have in my mind that I haven't expressed yet is it's super common for Rails apps in the wild to not be the way that DHH codes.
+
+**Jose Farias:** And I had a conversation about this with him at some point and I told him like, if we were to like set aside some time to like share more, like Jorge does, Jorge is very good about that.
+
+**Jose Farias:** And I was like, if you were to do that a little bit more or like I can do that and then you can just like retweet or something, that would be helpful.
+
+**Jose Farias:** And he was like, eh, I'm not worried about it.
+
+**Jose Farias:** So it's like, yeah, it's just like, I wish he would do that more because the only way that I learned how to do that was to work with him directly.
+
+**Jose Farias:** You can't ask every single Rails developer to do that.
+
+**Jose Farias:** They don't hire that many people.
+
+**Jose Farias:** Anyway, all that to say, I think the way others build Rails apps is valid.
+
+**Jose Farias:** It's a way.
+
+**Jose Farias:** I do think the DHH approach, I won't call it that because he's a better programmer than I am.
+
+**Jose Farias:** I won't claim that my approach is his approach.
+
+**Estevão Mascarenhas:** It's just like I try to follow in his footsteps.
+
+**Jose Farias:** I do think like that's more productive in Rails specifically.
+
+**Jose Farias:** And I think Daniel feels similarly.
+
+**Estevão Mascarenhas:** So it's worth like just giving it a shot, I think.
+
+**Estevão Mascarenhas:** Yeah, yeah, sure.
+
+**Estevão Mascarenhas:** No, no, I definitely see a value on it.
+
+**Estevão Mascarenhas:** And also like this reasoning, like, so for example, the issue that I see with just crude is that this is very friendly for developers.
+
+**Estevão Mascarenhas:** We are used to that.
+
+**Estevão Mascarenhas:** But when you talk with business people, they don't like it's...
+
+**Estevão Mascarenhas:** It creates some friction on the communication.
+
+**Estevão Mascarenhas:** If you have very good developers, like more experienced developers, we can connect the dots.
+
+**Estevão Mascarenhas:** Like, okay, if someone talks about that sparkline, for example, that you were working, okay, I can connect that to the snapshots, the portrayal model, but they don't know about that.
+
+**Estevão Mascarenhas:** So I assume, I don't know how 37 signals work, but I assume that they don't have this kind of separation of business people.
+
+**Estevão Mascarenhas:** And developers, I think it's more close.
+
+**Estevão Mascarenhas:** But like, if you have a team that you need, like developers and business are separated, this kind of path, that creates a lot of friction.
+
+**Estevão Mascarenhas:** So my reason over the past few reasons is how that I can get it closer.
+
+**Estevão Mascarenhas:** Like, prevent the developer to create the interpretations of the domain and doing whatever on the modeling.
+
+**Estevão Mascarenhas:** So how do we connect both worlds?
+
+**Estevão Mascarenhas:** And I mean, like, for developers to have signals, I don't think that that's working.
+
+**Estevão Mascarenhas:** Because they don't work that way.
+
+**Estevão Mascarenhas:** But most companies, they do.
+
+**Estevão Mascarenhas:** they do.
+
+**Jose Farias:** No, no.
+
+**Estevão Mascarenhas:** Oh, they haven't.
+
+**Jose Farias:** For what it's worth, I don't think that's an accurate assessment of 37 Signals.
+
+**Estevão Mascarenhas:** Okay.
+
+**Jose Farias:** They do have, not, I wouldn't call it business people, but product people.
+
+**Jose Farias:** And they don't know how the thing is built.
+
+**Jose Farias:** So there is some of that.
+
+**Jose Farias:** I think my opinion on that, just to be clear, that's a valid concern.
+
+**Estevão Mascarenhas:** Like, in my experience, you have, like, sort of, like, two choices.
+
+**Jose Farias:** And it's model the thing based on how business people talk about it exclusively.
+
+**Jose Farias:** And let the developer, like, let the design pay the price.
+
+**Jose Farias:** Or build it in a domain-driven design, like, flexible way that'll be good for building and maintaining.
+
+**Jose Farias:** And maintaining.
+
+**Jose Farias:** Mm
+
+**Jose Farias:** Hey Marcel, and just expect a developer to be able to be the translating layer, and if the developer is good, like, they should be able to do it, and if not, then it's just not good enough.
+
+**Marcel Santilli:** Yeah, yeah, yeah, yeah, yeah, Marcel, we're just chatting about code stuff, all good, all good, yeah, casually, hopefully, yeah, Daniel and I were just on another quick sync with another project, but I'm sure he's hopping in here.
+
+**Marcel Santilli:** a second, but hopefully, um, don't get a chance to see the, um, what I submitted, not, I can walk you through it as well, and it's a lot.
+
+**Marcel Santilli:** I haven't seen the code, I saw the screenshots, I didn't realize it was, like, actually coded, I thought it was, like, lovable or, or, like, No, Daniel got me set up last week, so now I'm fully, fully in, uh, check that in Atlas, you know, so, um, but I'm doing it in a slash INTRO
+
+**Marcel Santilli:** Fathom's folder, obviously there might be a few things that ended up like  up , you know, so you all will be my filter on that, but hopefully, yeah, happy to walk you all through the thought process, things like that, anything you think could be helpful as commentary while we're waiting for the end.
+
+**Jose Farias:** Awesome.
+
+**Jose Farias:** Let me look at the screenshots more closely, and Daniel's here too, so.
+
+**Marcel Santilli:** This meeting is being recorded.
+
+**Marcel Santilli:** The screenshots even were pretty outdated, based on what I submitted, just because, like, I sent the screenshots and then I kept working until, like, midnight, so hopefully that helps, but I can walk through just the thought process a little bit, if you think could be helpful, just because it's a lot, you know, it'll probably take a minute.
+
+**Daniel Lopes:** The quick update on my side, like, I did not want to work on the prompts this weekend, but I'm going to work on that on Wednesday.
+
+**Daniel Lopes:** See.
+
+**Daniel Lopes:** See.
+
+**Daniel Lopes:** Okay, we're going to generate all the prompts for the three first stages of the funnel.
+
+**Daniel Lopes:** Probably going to generate all five stages of the funnel, and then we can use that.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Like for the study prompts and the app prompts, I think they're the same.
+
+**Daniel Lopes:** So that's all that.
+
+**Daniel Lopes:** It's like that on Thursday morning.
+
+**Jose Farias:** About the prompts, since we're talking about it real quick.
+
+**Jose Farias:** Like, we're obviously, we're working with some prompts that aren't the final ones.
+
+**Jose Farias:** So that allows us to like keep building.
+
+**Jose Farias:** The one thing to be aware of, which maybe everyone here is already aware of, but worth mentioning, is we don't have, we're not building up that historical data yet with the actual like real prompts.
+
+**Jose Farias:** And so I know we want to publish public pages soon-ish just so that Google starts indexing them and whatnot.
+
+**Jose Farias:** Yeah, I need to go.
+
+**Jose Farias:** And I think the prompts will be good for, I mean, not necessarily.
+
+**Jose Farias:** Don't really rush, just calling that out, like, once we have that, we can start building that actual historical pages that we're going to publish eventually.
+
+**Daniel Lopes:** Yeah, I'll work on that this week, for sure.
+
+**Marcel Santilli:** To that point, like, essentially, like, I haven't started building the individual prompt pages, but what I did was just build the overview.
+
+**Marcel Santilli:** The view, I love this, it's a little buggy, but what I think it's getting close, right?
+
+**Marcel Santilli:** The prompts, and I'll go through why prompts slash topics and potentially what we want to call things, which is by prompts versus by topic.
+
+**Daniel Lopes:** Just to give you guys context, I don't know if you know that, but, like, like, last week I was, like, setting up Marcelo Quad code on the project itself.
+
+**Daniel Lopes:** And so this is in our real code base, and he's working on a mock ops.
+
+**Marcel Santilli:** Yeah, and I pushed everything to the branch, and so the branch name is misleading.
+
+**Marcel Santilli:** It's not just about tools, but it started with the cat going.
+
+**Marcel Santilli:** And then sources by domain versus URL, and I'll explain it in a little bit.
+
+**Marcel Santilli:** And then big more tools.
+
+**Marcel Santilli:** Tools is just a fun test just to kind of see if we could take, like, one of our workflows and appify our workflows.
+
+**Marcel Santilli:** And if one works, then it's like you can essentially appify and workflow it.
+
+**Marcel Santilli:** But okay, so maybe we start with prompts really quickly, kind of the thought process and things like that.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So all the other apps, they do this thing that's like super overwhelming, which is this, which is just like, I don't know what to do with this, you know, which is just like all, every single response.
+
+**Marcel Santilli:** Every single variant of every single prompt across every single service, right?
+
+**Marcel Santilli:** And it's just, like, so overwhelming and useless that it's just, like, what am I supposed to do with all this data, you know?
+
+**Marcel Santilli:** And so I think the idea here is, like, and this is what would be good to discuss, is, like, let's take an example.
+
+**Marcel Santilli:** What are the best corporate credit cards for startups, right?
+
+**Marcel Santilli:** Is the idea that, like, within this, we can have variants that have similar, like, intent, if you will, or similar things?
+
+**Marcel Santilli:** Or is the idea that every single little one of these would be separate ones, right?
+
+**Marcel Santilli:** Like, in the dashboard, the logged in experience, right?
+
+**Marcel Santilli:** Like, we can go through the logged out experience.
+
+**Marcel Santilli:** I would advocate for us to be able to have the ability to have variants that are grouped within an actual, like, question, if you will.
+
+**Marcel Santilli:** Like, you know, like...
+
+**Marcel Santilli:** And then it's just like, it allows us to track everything individually as individual prompts, but then in the way we present it, potentially have like kind of a primary prompt, kind of how keywords work.
+
+**Marcel Santilli:** You can have a primary keyword and then it can have like, you know, like groupings of the keyword, if you will, but they're all collecting the same data.
+
+**Marcel Santilli:** Nothing changes with the database, ideally.
+
+**Marcel Santilli:** It's just mostly like how we present the information and maybe you just have like one way to just like correlate them, right?
+
+**Marcel Santilli:** Like, but they're all like, it shouldn't change the scope of what we're tracking ideally, you know?
+
+**Marcel Santilli:** But again, like, I'm loosely helping.
+
+**Daniel Lopes:** And we could ship without this and we can add it as you like, you create one prompt that would be like the defined set groupie, you know?
+
+**Daniel Lopes:** And then it's like a self-association kind of thing, Jose, like I think, you know?
+
+**Daniel Lopes:** But I'm thinking like the backend here doesn't need to.
+
+**Daniel Lopes:** Or it could be like a separate model.
+
+**Daniel Lopes:** It doesn't have to replace the ones we have.
+
+**Daniel Lopes:** think it could just add to the ones that we have.
+
+**Daniel Lopes:** Then we can present this later.
+
+**Jose Farias:** Yeah.
+
+**Jose Farias:** Oh, so quick food for thought.
+
+**Jose Farias:** But the one thing that comes to mind there is when we're assuming that variants aren't necessarily going to have materially different outcomes.
+
+**Jose Farias:** But if they do, like, how do we account for that in analytics and that kind of thing?
+
+**Jose Farias:** Like, it's, is it, does it stop being a variant at that point when it, when the results actually deviate?
+
+**Marcel Santilli:** Honestly, it's less about, in my opinion, it's less about how significantly different they are because even between services, it's, I'm calling it services, right?
+
+**Marcel Santilli:** Providers, platforms, or whatever.
+
+**Marcel Santilli:** It is so freaking different.
+
+**Marcel Santilli:** Like, if you look, for example.
+
+**Marcel Santilli:** It varies by the day.
+
+**Marcel Santilli:** Yeah, it varies by the day, but also, like, if you
+
+**Marcel Santilli:** Look at model performance, PK mentions is actually like probably, if I had to pick only one to keep right now, between all of them, I think mentions.so is the best, by the way, but just to give you an idea, like this is comparing these three, visibility, like 48, 37, 15, you know, sentiment, fairly close, position score, fairly close, but like visibility is like all over the place, right?
+
+**Jose Farias:** Okay, like so, so it varies, obviously that means that the answers are going to vary quite a bit as well, right?
+
+**Marcel Santilli:** Okay, makes sense.
+
+**Marcel Santilli:** And so, so then the idea here is like, this is all being tracked, obviously, for your primary brand, so if later on, we can actually allow people to see their competitors' view of the same thing, you know, because you're really tracking everything, so this is like sentiment, position, and, you know, citation, visibility is all related to who, which one is your brand.
+
+**Marcel Santilli:** one brand.
+
+**Marcel Santilli:** Thank
+
+**Marcel Santilli:** Does that make sense, like, so for instance, like, in a lot of these services, like, you can actually change to see, like, if you were expensify what that same view would look like this, I did an ad this year, right, but just know that that's, like, all related to whatever your brand is, right, like, all these views are in relation to that.
+
+**Marcel Santilli:** and so the idea is, like, over time, we can show, like, the, I think the other stage is what Scrunch calls it.
+
+**Daniel Lopes:** That's what we have for this study as well, like, we have the five stages, you know.
+
+**Marcel Santilli:** Yeah, they have advice, I don't know if we're doing that or something else, but they have one that's, like, functional.
+
+**Marcel Santilli:** The rest here is just, like, mostly showing, like, the idea is to show the average position for your brand.
+
+**Marcel Santilli:** Trend easily, and then show the actual order of the logos, and this is like a thing that I implemented kind of everywhere, although it needs to be standardized, it's like anywhere where we show logos, having this like really nice like brand fetch like experience, you know, and over time we can cross link.
+
+**Marcel Santilli:** And then the topics like, it's still kind of broken when you would, it's essentially just grouping the prompts, right?
+
+**Marcel Santilli:** And so it's kind of more of like a list, and I think Profound has the better experience of this, where if you go into the prompts, it's so overwhelming, like this is the experience I was trying to create, which is like, you know, it feels like, group, yeah, and it has summarize version of it.
+
+**Marcel Santilli:** So I'll try to build the prototype to be more like this, you know.
+
+**Marcel Santilli:** And so
+
+**Marcel Santilli:** So that's pretty much it.
+
+**Marcel Santilli:** The main thing is, like, I think we need to figure out what we want to name things.
+
+**Marcel Santilli:** It feels to me like if we call this topics, then we should probably call this, like, lists or something else, you know, or, like, prompt groupings.
+
+**Marcel Santilli:** Like, we should call it something else because I think this is going to change often and people are going to want to change the name differently and group it differently, you know?
+
+**Daniel Lopes:** What do you mean by list or by?
+
+**Marcel Santilli:** So, for instance, in Scrunch, like, Scrunch is opinionated about, like, I think the, it makes it kind of very different or very hard to add, like, groups of prompts, right?
+
+**Marcel Santilli:** So, if you go to prompts, like, you want to add all these groups, all of these to, so, so, to, to groups, right?
+
+**Marcel Santilli:** But then even how we.
+
+**Marcel Santilli:** Do groups, which, I don't even know where it is.
+
+**Daniel Lopes:** There's no way to change the ad group.
+
+**Marcel Santilli:** Yeah, there's no way to change it.
+
+**Daniel Lopes:** The auto group, I think.
+
+**Marcel Santilli:** Yeah, like, this thing's awesome.
+
+**Marcel Santilli:** Okay, there we go.
+
+**Marcel Santilli:** There's no barata crump, so there's no way to go back.
+
+**Marcel Santilli:** But, like, I think people are going to want to group it differently.
+
+**Marcel Santilli:** At least for all our customers, it's going to be different.
+
+**Marcel Santilli:** So it's not the same.
+
+**Marcel Santilli:** Like, the AI developer's tools is not to list the calls for lovable, blah, blah, blah.
+
+**Daniel Lopes:** You know, like, it might be completely.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** You know, the house That, I think, people need to control it.
+
+**Marcel Santilli:** You know, like, they need to be able to create their own buckets, essentially.
+
+**Marcel Santilli:** In which case, it's not about topics.
+
+**Marcel Santilli:** This is about grouping and tagging, essentially, right?
+
+**Marcel Santilli:** Like, you're just grouping it together in a way that makes sense to you personally, you know, for your account, you know?
+
+**Marcel Santilli:** So, so, so in this case, like, the closest experience to that is this, which is, like, allows you to.
+
+**Marcel Santilli:** Thank
+
+**Marcel Santilli:** Like, just have, like, these tags, and then, like, you can kind of, you know, whether you call it a tag or a group or whatever, you know, and then the only difference is, like, some of these, you can kind of group it by tags, you know.
+
+**Marcel Santilli:** So I think, and this doesn't have the views as much for the tags, but I think that's what people are going to want to do, right?
+
+**Marcel Santilli:** It's just, like, group it under a tag or something, and it's just a matter of what we call it.
+
+**Marcel Santilli:** Okay, so one quick thing here.
+
+**Daniel Lopes:** Do we have a model and everything for topics already, what's that?
+
+**Jose Farias:** Do we have a what?
+
+**Daniel Lopes:** Sorry, you cut off.
+
+**Daniel Lopes:** A model for topics or whatever is grouping the prompts.
+
+**Jose Farias:** Yes, we have a model.
+
+**Jose Farias:** It's what we call a sproutable model, so there are seeds, and then you can create your own.
+
+**Jose Farias:** I'm thinking of it sort of, like, the Spotify playlists function, where Spotify has some playlists, and you can follow them, or you can create your own playlists, playlists.
+
+**Jose Farias:** So And then you
+
+**Jose Farias:** The that you create are just for you, whereas the Spotify ones are for everyone.
+
+**Jose Farias:** sort of that kind of concept.
+
+**Jose Farias:** But then there's the tag concept that's interesting.
+
+**Jose Farias:** That's like a separate thing that we haven't built out yet, but we can do it.
+
+**Jose Farias:** We can do it.
+
+**Marcel Santilli:** Let's explore.
+
+**Marcel Santilli:** Exactly playlists, right?
+
+**Marcel Santilli:** It's just that you're creating your own playlists, whereas the Spotify playlists you can't modify, which is our industry category.
+
+**Marcel Santilli:** So if you add a category to your library or whatever you want to call it, then you're following.
+
+**Marcel Santilli:** It's all added to your tracker, and then it says customers to say custom.
+
+**Marcel Santilli:** But the idea is like it doesn't count towards this quota assumption, which is your quota of what you can track.
+
+**Daniel Lopes:** The category ones, yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Cool.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So overview.
+
+**Marcel Santilli:** I think the main thing I'm pretty happy with.
+
+**Marcel Santilli:** Although the UI can be cleaned up and there's a lot of bugs still in the UI, but it's this idea of, like, having a better experience to see both the table and the chart and the trends.
+
+**Marcel Santilli:** So this allows you to kind of, like, click and click and, you know, again, like, super buggy right now, but I think it's, like, pretty unique.
+
+**Marcel Santilli:** I've played around with every single service and all of them give you one little thing that's good and everything else that's garbage.
+
+**Marcel Santilli:** so I was, like, trying to, like, speak with this and so I got to the version that I'm, like, seeing everything I want to see and be able to visualize it in the right way.
+
+**Marcel Santilli:** And then ideally, like, with dates, we can just have, like, predefined dates over time so that it's, like, super easy to have just, like, the beginning and end.
+
+**Marcel Santilli:** Like, I mean, it could, but it's, like, you can make that super easy.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** And like, yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then filters, like, for MVP, think we barely need any.
+
+**Marcel Santilli:** Yeah.
+
+**Daniel Lopes:** Initial.
+
+**Daniel Lopes:** Right.
+
+**Marcel Santilli:** And we'll, like, just do that later.
+
+**Marcel Santilli:** Just for visual reference points.
+
+**Marcel Santilli:** then I think what's cool is the more we can standardize on these mini-modules of the splint things, then those things can be added anywhere where there's a table, we can add it to the top.
+
+**Marcel Santilli:** It's kind of like summer metrics kind of thing.
+
+**Marcel Santilli:** But these are the ones we can swap them or change them, whether we like them or not.
+
+**Marcel Santilli:** But they're kind of like ideally like these pretty much, except this goes more into citations.
+
+**Marcel Santilli:** And then citations data is just like a preview a little bit.
+
+**Marcel Santilli:** And then you go into show all, and it will link you to the actual sources.
+
+**Marcel Santilli:** So this is just like more of like a preview.
+
+**Marcel Santilli:** And then sources is really just standard, like almost all of them.
+
+**Marcel Santilli:** Every single app, the thing they have in common mostly is like an overview of prompts and sources, right?
+
+**Marcel Santilli:** So those are the basic MVP things we need to get out for.
+
+**Marcel Santilli:** A locked-in experience, you know.
+
+**Marcel Santilli:** But I think it's actually, like, fairly straightforward, and we can just clean up the views, right?
+
+**Marcel Santilli:** Like, sources is ultimately by domain or anywhere else, and it's just, like, that's it.
+
+**Marcel Santilli:** It's just, and then you just have summarized experiences.
+
+**Marcel Santilli:** I think the data here might still be off, but, you know, the best example here is probably Peak, where they have sources, you know, and then it's mostly, like, like I said, the data in the one I have is actually not the right data, but this is mostly, like, how often this is shown, you know, and what type it is, versus, like, URLs, mostly, like, average citations, like, number of times used in the end, like, not part of MVP, you know, like, it can just be, like, a list.
+
+**Marcel Santilli:** The number of times the show was kind of, you know, like, last updated, things like that, you know.
+
+**Marcel Santilli:** And so, that's that overview.
+
+**Marcel Santilli:** And then I started on the topics, but I didn't realize how gnarly it was.
+
+**Marcel Santilli:** It's this is so  long.
+
+**Marcel Santilli:** This is so  hard.
+
+**Marcel Santilli:** And so, the cards, like, the intent for the cards, I created cards in list views, you know.
+
+**Marcel Santilli:** For now, but the intent for it is to show both the brands and the sources, you know.
+
+**Marcel Santilli:** And so, and then, like, the question and whatnot.
+
+**Marcel Santilli:** But then I think the part that's really hard about this is figuring out the right layout and experience.
+
+**Marcel Santilli:** And, you know, just because it's just like, in my mind, you have the question.
+
+**Marcel Santilli:** And I'm actually thinking, if you, to, maybe we should rename this instead of topics to answers.
+
+**Marcel Santilli:** And it's really a library of answers, and we're showing, like, the best answers and insights on answers, maybe, because, like, this is the public area, right?
+
+**Daniel Lopes:** Yeah, this is the public area, sorry, yeah, he's, like, here.
+
+**Daniel Lopes:** Instead of topics would be answers, and then this is just, like, my aggregate of the...
+
+**Marcel Santilli:** In we can group answers into topics and have insights into topics, you know?
+
+**Marcel Santilli:** But that's, like, an order of abstraction higher than answers themselves, you know?
+
+**Marcel Santilli:** Yeah, that makes sense to me.
+
+**Marcel Santilli:** And the way I think about this is, like, this...
+
+**Marcel Santilli:** What I was mirroring this experience on, this is where, like, I kind of ran out of time, is mostly, like, a perplexity answer, except when you turn an answer into this cover page, kind of.
+
+**Marcel Santilli:** Of, like, you know, like, pages, essentially, right?
+
+**Marcel Santilli:** Like, I was mirroring it on this, and...
+
+**Marcel Santilli:** And then the experience, ideally, that I wanted to kind of start to create is a little bit more, that feels a little bit more like this, where you have some kind of like header that has a lot of like rich information, you know, actions to take.
+
+**Marcel Santilli:** And then modules, and these modules, you can have things that are locked, essentially, you know, so that like you can preview certain modules, but that they might be locked because you don't have access to it, you know, and you can still show what's possible what data we have, like, for example, like historical, maybe show like the last seven days, but then like see the full history of, you know, like things like that.
+
+**Marcel Santilli:** And then over time, know, there could be lists, it could be like, you know, a bunch of other things you can start showing within this, you know, but the MVP of this experience would be like, I think, I don't know, like, and this is where I'm still exploring.
+
+**Marcel Santilli:** An answer that's mostly like R generated answer that is like for access, right?
+
+**Marcel Santilli:** And then a summary of like all the top sources, but then if you want to see all sources, it's also locked, related answers, and then start to build out the insights, which I have in another lockup, I think.
+
+**Daniel Lopes:** Yeah, so that, like, the way to generate that answer, we could just take all the different answers that we got from the different models and mesh them together in like a workflow that generate an answer out of those, you know?
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Generate the best answer out of those combined, you know?
+
+**Marcel Santilli:** Yeah, and the part I really want to try to get it down perfectly, and this has been really hard, is getting dimensions, like, to render beautifully.
+
+**Marcel Santilli:** Like, for instance, like, sometimes I might say American Express, sometimes I might say Amex, right?
+
+**Marcel Santilli:** Like, the way things are...
+
+**Marcel Santilli:** And Brian's got mentioned is not an easy thing, how you display it, so that you start to correlate everything, and then the citations, the goal was to make it to where it's closer to this experience, right, like where it's at the end, and it has just the name of the source, and a plus, and then like some.
+
+**Daniel Lopes:** I might have to drop some of this stuff to  first, because we're two weeks out of like.
+
+**Marcel Santilli:** Yeah, yeah, and like, all of this is like, none of it is like, building out, this is like, where, obviously, I'm trying to visually.
+
+**Marcel Santilli:** It looks awesome, I'm not pushing back on anything, I'm just like, this looks great, like, looks good, Hopefully, at least, like, we have like, maybe two or three cycles out of what it will look like in our minds, so that as we're building and sprinting through it, it gives us more clarity, ideally, and then it's just like, cut, cut, cut, cut, cut.
+
+**Marcel Santilli:** Like, even if this is the answer, like, you don't show the brand, who cares?
+
+**Marcel Santilli:** the Okay?
+
+**Marcel Santilli:** about We've want run we're, MVP.
+
+**Marcel Santilli:** It that I'm spending the time on the details because I do think it matters how you visually see the answers and the sources and this page for it to rank really high.
+
+**Marcel Santilli:** If it has a beautiful experience with a ton of rich data over time, that's what's going to make a difference, right?
+
+**Marcel Santilli:** Because it's essentially like a rich article with data, proprietary data on it.
+
+**Marcel Santilli:** And then the part that's really hard to figure out is like where and how do you show the responses themselves, like the actual collective responses.
+
+**Marcel Santilli:** Yeah, right.
+
+**Marcel Santilli:** That's the part that what I was going to potentially do is just have somewhere, like, anyways, I won't even say that.
+
+**Daniel Lopes:** You can have like a table on there, like on that page, like a hidden area that shows that, you know, it's just like an ugly table, you know?
+
+**Marcel Santilli:** Yeah, so it's kind of like this.
+
+**Marcel Santilli:** And so what I'm trying to figure out the experience overall is like, if you have a single column for everything, like Crunchbase, you have two columns and you treat them differently, but then you don't.
+
+**Marcel Santilli:** I have like jump links because it's hard to do three columns, right?
+
+**Marcel Santilli:** So that's like kind of what I'm experimenting with a little bit.
+
+**Marcel Santilli:** And also the fact that the recent chats, you just do something like this, which is like sequential, all of them.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Daniel Lopes:** I think just like a dumb table like this, even on the tab on that screen you have.
+
+**Daniel Lopes:** So like our combined answer is the core one.
+
+**Daniel Lopes:** And then you just have some metrics and then you have like see the actual answers, you know?
+
+**Daniel Lopes:** And then.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** But I think like the more we make this experience, which is visibility plus like the table, right?
+
+**Marcel Santilli:** Like a first class like experience.
+
+**Marcel Santilli:** I think this is really what's going to make her break this whole thing.
+
+**Marcel Santilli:** It's just like how good this experience is of like anywhere we show charts, anywhere we show tables.
+
+**Marcel Santilli:** And, you know, like that's where I spent most of my time.
+
+**Marcel Santilli:** Because like if it's great, like it.
+
+**Marcel Santilli:** just makes the whole experience so smooth and so nice, you know, and then later on, you can start learning filters everywhere, you know, for the logged in experience, you know, and so, sorry, that was a lot, yeah.
+
+**Daniel Lopes:** What do you guys think?
+
+**Daniel Lopes:** Because you were in the cycle of understanding the model and the code base, we're just like, here's some more stuff.
+
+**Estevão Mascarenhas:** Yeah.
+
+**Estevão Mascarenhas:** Yeah, I was just going to mention that this part of topics is what got me confused, because I was working on those cards, very similar to what you did, Marcel, and I was thinking, okay, if I click that, what we were going to have in the public area, like, because we have topics and prompts, like, what exactly is either, but I think we're naming two answers makes, at least for me, makes a lot of sense.
+
+**Estevão Mascarenhas:** So, yeah, I think that's super helpful, by the way, like, what do you need, what do you want to see on those pages are basically, like, the most important part, so that, yeah, I think that's super helpful.
+
+**Jose Farias:** Yeah, I haven't yet seen anything that worries me in terms of, like, oh, can we build that?
+
+**Jose Farias:** Like, I'm confident we can take the product in the direction that we want.
+
+**Jose Farias:** Like, just reiterating, the version one is probably going to be, like, very pared down, and it's up to us to, like, identify, like, what are the important parts that we absolutely need in order to ship a V1.
+
+**Jose Farias:** And then we can go from there.
+
+**Jose Farias:** I'm trying to be very cognizant that I won't be here next month for maternity leave.
+
+**Jose Farias:** So let's, like, stay in communication and prioritize based on that, right?
+
+**Jose Farias:** Like, hopefully have the backend stuff mostly figured out so we can, like, have a public launch.
+
+**Jose Farias:** And, yeah, I'll be back soon enough to take care of the rest.
+
+**Daniel Lopes:** Yeah, and I think the...
+
+**Daniel Lopes:** the...
+
+**Daniel Lopes:** in chat.
+
+**Daniel Lopes:** and I'll Yeah, So Thank
+
+**Daniel Lopes:** I'm talking to Jacopo on Wednesday, so I'll try to close him as possible.
+
+**Daniel Lopes:** Good.
+
+**Daniel Lopes:** Another thing I was going to say is that for just putting a website up, we probably just need the brand page.
+
+**Daniel Lopes:** And that's it.
+
+**Daniel Lopes:** Each company and the data tracking property to come up with the problem and the category.
+
+**Daniel Lopes:** The categories already have some categories too, just need to come up with the prompts.
+
+**Daniel Lopes:** I need to also categorize all of our clients to see if their categories work and see how that goes.
+
+**Daniel Lopes:** And then adding the brand pages, I think that's what we need just to have the website up.
+
+**Daniel Lopes:** And then we'll put waiting lists on everything else.
+
+**Daniel Lopes:** And then Google does a job we don't announce.
+
+**Daniel Lopes:** We just let it sit there and submit the sitemap and all that will do a search close.
+
+**Daniel Lopes:** It just keeps improving it.
+
+**Daniel Lopes:** Thank you.
+
+**Daniel Lopes:** We should, for that, for next week, I think we're in a good Fathom.
+
+**Marcel Santilli:** Yeah, like, based on that, like, so the category pages, I saw the latest, I think that looks great, the, can you, can y'all walk me through kind of how you're thinking on the ideal experiences when you go to browse categories?
+
+**Marcel Santilli:** Because I think the experience right now is good, I'm just trying to think, like, right now it's kind of like alphabetical order, right, which makes sense, but it's also like, should we, you know, the likelihood of someone going through 300 categories is low, too, right, like, so I'm trying to figure out for launch, what is the MVP experience for people to like?
+
+**Daniel Lopes:** I I think the final number of categories you got was 160.
+
+**Daniel Lopes:** 160.
+
+**Daniel Lopes:** 160.
+
+**Marcel Santilli:** We reduced quite a bit, right, like for, like, I guess we just got to figure out from launch, what is the MVP that will expose the things that people are going to gravitate towards the fastest, right?
+
+**Marcel Santilli:** And you can have, like, a browse-all experience versus, like, browse-all categories experience, which can be different, which feels a bit more like what this experience is, like, browse-all or something like that versus, like, more accessible way to explore, you know?
+
+**Daniel Lopes:** I was thinking that the categories for it is more like, it's just a necessary thing to have, just, like, just for semantics, but then we need to figure out the homepage, what we feature on the homepage, and I think we can even have featured, you know, that we manually pick the ones we want to show.
+
+**Daniel Lopes:** And then also, like, Estevão was working on, like, a search that is not really a search, it's more like the stuff that the mob has, where you can...
+
+**Daniel Lopes:** Type stuff, and then it will reduce to that feature that you typed.
+
+**Daniel Lopes:** I think that can help.
+
+**Daniel Lopes:** And then, but then the categories is just, the categories index page is more like a hub for, like, a patch all, the same way that G2 has, you know, but we don't make that the poor thing.
+
+**Marcel Santilli:** Because, like, one of the things that I think this version of the experience, and this is super small in my prototype, but this is not an actual prototype, just a Figma version, right, which is similar to what we had before.
+
+**Marcel Santilli:** The other one is, like, really nice when you're quickly scrolling through, and you can preview that part as, like, really nice that you can mouse over and preview everything.
+
+**Marcel Santilli:** What's cool about this is that it maximizes the number of logos in your face for streaming, kind of, you know, and allows you to, like, quickly kind of find the categories.
+
+**Marcel Santilli:** And then you can, like, to your point, Daniel, can put, like, Tom has this.
+
+**Marcel Santilli:** Filter here or something like that.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** You've got the top ones and then you can go see all 160 categories or browse all 160 categories.
+
+**Marcel Santilli:** But it gives us a couple of filter views to just show as quickly as possible.
+
+**Marcel Santilli:** And I think this is going to be really critical for launch because in a lot of ways, this is the leaderboards that we're showcasing.
+
+**Marcel Santilli:** Right.
+
+**Jose Farias:** So one thing I'd like to say about that is that tracks at all tracks.
+
+**Jose Farias:** I like this experience that you just showed, Marcel.
+
+**Jose Farias:** In deciding what we're going to work on next and creating tickets in linear, it would be helpful to call out whenever something is like, quote unquote, shaped.
+
+**Jose Farias:** Like, oh, we know we want it to look this way.
+
+**Jose Farias:** I don't know that we had that when we first filled out this, the current categories and subcategories experience.
+
+**Jose Farias:** That's all good.
+
+**Jose Farias:** That's all That's You
+
+**Jose Farias:** If we would rather have what you just showed, Marcel, let's just make that call because we're going to have to build that, right?
+
+**Jose Farias:** Yeah.
+
+**Jose Farias:** Is that what we're doing?
+
+**Jose Farias:** We're going to rework that stuff?
+
+**Marcel Santilli:** Okay.
+
+**Daniel Lopes:** So do you think, Estevão, because you're the one actually working on that stuff.
+
+**Estevão Mascarenhas:** Yeah, sorry, I lost a bit of the conversation, but I can walk through all my reasoning here with the categories page.
+
+**Estevão Mascarenhas:** So let me, sorry, let me quickly just share my browser here.
+
+**Estevão Mascarenhas:** So, yeah, the first thing, so the reason why I started with this, because this page, although I don't think it's very important for users, I think this is, like you mentioned, I don't think people are going to navigate here a lot, like scroll like this.
+
+**Estevão Mascarenhas:** This is huge.
+
+**Estevão Mascarenhas:** I believe, like my feeling is that when we have the search working, and I'm talking about that in a bit, I don't, I think that would be mainly how the users were going to...
+
+**Estevão Mascarenhas:** Use the tool once they are familiarized.
+
+**Estevão Mascarenhas:** Other than that, I think in the homepage and in a brand page specifically, we're going to have a part where we can lead the user to explore further categories, like related categories and so on.
+
+**Estevão Mascarenhas:** So I think this page is not very important.
+
+**Estevão Mascarenhas:** Maybe it's not very important for users, but already doing that, I worked in a few components that I can reuse in other pages.
+
+**Estevão Mascarenhas:** So this category spill, for example, when I go to the category page, I hear here and the subcategory page, I'm sorry, let me show you locally.
+
+**Estevão Mascarenhas:** So in the supercategory page, then we're going to have like the leaderboard and then we're going to have more data.
+
+**Estevão Mascarenhas:** This is more, I think this will be more useful.
+
+**Estevão Mascarenhas:** And then we're going to have, we're going to end up with more hooks that the users can navigate.
+
+**Estevão Mascarenhas:** When they get familiarized enough, this search experience, I think it's going to be, we can make it the main way that users can explore and search for categories and related things that they want to see.
+
+**Estevão Mascarenhas:** If there's available, so I don't think this page is very useful.
+
+**Estevão Mascarenhas:** Maybe for SEO purposes, this can be fine.
+
+**Estevão Mascarenhas:** So that was the reasoning.
+
+**Estevão Mascarenhas:** So nothing here, I thought about specific use cases.
+
+**Estevão Mascarenhas:** just having this component here that I can...
+
+**Estevão Mascarenhas:** Oh, sorry, go ahead.
+
+**Daniel Lopes:** No, no, I was just going to say, like, maybe, like, this category of pages, we can swap the bottom part to be closer to Marcel's mockup, the one that he just showed on Stigma make, and then the subcategory one you have, I think that one is pretty good already, you know?
+
+**Estevão Mascarenhas:** I'm sorry, reach one?
+
+**Daniel Lopes:** I don't think this is...
+
+**Daniel Lopes:** This, like, Marcel was showing a Figma make that has, like, tiles.
+
+**Estevão Mascarenhas:** Oh, okay, okay.
+
+**Daniel Lopes:** So you have, like, a ton of tiles.
+
+**Marcel Santilli:** the lovable one, if you go under...
+
+**Daniel Lopes:** I was lovable, sorry.
+
+**Estevão Mascarenhas:** Wait, sorry.
+
+**Estevão Mascarenhas:** Is this one?
+
+**Estevão Mascarenhas:** Sorry.
+
+**Marcel Santilli:** Or the...
+
+**Daniel Lopes:** It was a Figma make.
+
+**Marcel Santilli:** Figma.
+
+**Marcel Santilli:** know.
+
+**Marcel Santilli:** Um...
+
+**Estevão Mascarenhas:** All What's to scary.
+
+**Estevão Mascarenhas:** know.
+
+**Estevão Mascarenhas:** You can also share again if you have time.
+
+**Daniel Lopes:** Because I think that one can fit a  ton of categories.
+
+**Daniel Lopes:** And to me that makes sense.
+
+**Marcel Santilli:** Let me know.
+
+**Marcel Santilli:** Click on this link I put in the chat.
+
+**Daniel Lopes:** Like if you want to screen share again, Estevão, and then we can walk together.
+
+**Marcel Santilli:** So if you go to categories on that one.
+
+**Estevão Mascarenhas:** Okay, I see.
+
+**Marcel Santilli:** So the idea is like all, but you could also just have anchor things like top or trending kind of thing or feature or something like that, you know?
+
+**Estevão Mascarenhas:** And so like the beginning is something like that.
+
+**Daniel Lopes:** But I do really like that.
+
+**Marcel Santilli:** It's just when you have 160 of those like less effective, right?
+
+**Marcel Santilli:** But it's going to work well, you know?
+
+**Marcel Santilli:** But I can't put that.
+
+**Marcel Santilli:** Sorry.
+
+**Marcel Santilli:** Sorry.
+
+**Marcel Santilli:** So anything that is hidden, like meaning like each part of that component does not get indexed because like there's a lot of things not in sight.
+
+**Marcel Santilli:** And so from an SEO perspective, that page wouldn't be very effective.
+
+**Marcel Santilli:** Whereas like this page is like a static page and each one of these filters can be a static page in itself.
+
+**Marcel Santilli:** Like they get to indexed, right?
+
+**Marcel Santilli:** So like the version you have, all the different tabs inside of each module wouldn't be indexed.
+
+**Marcel Santilli:** And anything that's not loaded immediately also is not indexed, you know, or called.
+
+**Daniel Lopes:** And this one, we can cache it very aggressively so we can keep it fast, you know?
+
+**Daniel Lopes:** And then I think when you click on the category, those are subcategories.
+
+**Daniel Lopes:** And when you click on the subcategory, and I think the view that you have today, that works.
+
+**Daniel Lopes:** Like if you go back to your local host, and you click on one of those, like I think this is pretty nice, you know?
+
+**Estevão Mascarenhas:** Got it, got it.
+
+**Daniel Lopes:** Makes sense, yeah.
+
+**Daniel Lopes:** And if you could explain the search as well, what you're thinking about the search, because I think what your idea there is important to the navigation.
+
+**Estevão Mascarenhas:** Yeah, sure.
+
+**Estevão Mascarenhas:** So I was thinking about the search because we see a search bar here, and we're probably going to have a search already on the homepage, categories page.
+
+**Estevão Mascarenhas:** So instead of having like a specific implementation for all of those, I was thinking and following kind of what mobbing does, that basically the search bar here, it acts as a button.
+
+**Estevão Mascarenhas:** It has this component here that you can kind of search everything.
+
+**Estevão Mascarenhas:** Like I can search, maybe I want like a sign up, sign up page, sign up flows here.
+
+**Estevão Mascarenhas:** But also like if I type Airbnb, I can see the brand itself.
+
+**Estevão Mascarenhas:** So I was thinking of having this kind of multiple purposes, let the user types, the category, the brand.
+
+**Estevão Mascarenhas:** And then we can show that in the same prompt.
+
+**Estevão Mascarenhas:** And when it's not released yet, when the app is not released yet, we can have like a call to action for the waitlist and gather people domain and email.
+
+**Estevão Mascarenhas:** So basically that's the idea.
+
+**Estevão Mascarenhas:** I created a task just for that because then we can add this kind of call to action to search like Bobby does.
+
+**Estevão Mascarenhas:** And then we'd have this pop-up that users can search and we can make it command K for people that are like when people are using the logging experience.
+
+**Estevão Mascarenhas:** I'm not sure if Marcel, you'll like to do that, but I know it's that lots of power users like to have command K and then navigate.
+
+**Marcel Santilli:** But it's going to be like a full-on feature, right?
+
+**Marcel Santilli:** Like I could see this being a whole thing for like a whole team to work on eventually.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** The lovable one.
+
+**Marcel Santilli:** In other words, I don't think we're going to get that done and working really well.
+
+**Marcel Santilli:** So if you go to the lovable one and this one and the, yeah, so if you go to home, click home.
+
+**Marcel Santilli:** And then just type the letter A.
+
+**Marcel Santilli:** I think that's MVP, which is just like, it just quickly pulls up brands, categories, subcategories, and prompts as you type was what I was thinking, which feels like easier.
+
+**Daniel Lopes:** I think you could have the modal experience using the ShedCN modal, search modal thing.
+
+**Daniel Lopes:** And then we do this inside of the modal, and then we keep evolving the modal to be like, then have screenshots and stuff like that over time.
+
+**Marcel Santilli:** Yeah, that works.
+
+**Marcel Santilli:** It's just like the Mobin one, I've been using it a lot lately, and I actually find it a little bit funny because it just doesn't normalize things.
+
+**Marcel Santilli:** So then it shows everything's separate, and then it's a very heavy cognitive load where it's like, you know, it's not like notions, right?
+
+**Marcel Santilli:** Like where if you do Command K, and you start typing, like, to me that's...
+
+**Marcel Santilli:** that's the best experience on the planet, it's like communicating Notion, like, you know, like that's good as hell, you know, it is Modo, right, like, so if we can do that, like, think Notion is the inspiration than the Moven, just because I've been using Moven a lot lately, and I've been kind of having a hard time looking for it, actually.
+
+**Estevão Mascarenhas:** Sure, yeah, I don't know, that's the idea, like, I should just for the direction of not having, like, an inline search, like we have here, but we can have a model that we can use in all the pages, but it can start really simple, like, I should see, and have, have this.
+
+**Daniel Lopes:** Yeah, built a command key, just like Notion, yeah, Canopy, super hard, because I'm often gonna have, to do it, like, properly with everything, you know, yeah, the entire code.
+
+**Jose Farias:** So, for what it's worth, Shadzian, I'm sure, I'm actually, I'm 100% sure it has a combo box.
+
+**Jose Farias:** So we can just use that component in both, I would say, for version one.
+
+**Jose Farias:** Just the simplest thing, it's inlined, and the idea that we want to reduce the amount of components that we maintain, and having a component from the sidebar and another for the hero, that resonates.
+
+**Jose Farias:** For version one, though, I think just drop in the chat, see, and combo box in both and call it good.
+
+**Daniel Lopes:** I think it makes sense.
+
+**Daniel Lopes:** Yeah, yeah.
+
+**Marcel Santilli:** You might be right.
+
+**Marcel Santilli:** Just remember, like, the main goal here is for a user that lands on the page, which is not going to be that famous, ideally will come from, not ideally, but a lot of them will come from SEO, lending one, either a brand or a category or someone sharing with them, right?
+
+**Marcel Santilli:** All the answers.
+
+**Marcel Santilli:** To push them to the, yeah, answers, to take the actions.
+
+**Marcel Santilli:** So, like, the actions are, like, link this brand or add to your tracker and, you know, like, when you land on the nail.
+
+**Marcel Santilli:** So it's like, you know, add it to my list kind of thing, you know, and that will be kind of everywhere.
+
+**Marcel Santilli:** And then over time having these modules everywhere that will be kind of like, almost kind of like gated, right?
+
+**Marcel Santilli:** Like, like crunch based style, you know, and so, and then keep opening up more and more of this, this data.
+
+**Marcel Santilli:** And so the, the only thing that I think we need to figure out and let, let me know if we've done already, it's just like the onboarding experience or the signup experience, because there's kind of like a multiple paths.
+
+**Marcel Santilli:** One path is you just sign up and you call it a day and then you land on something and then you got to do something or you make it to where it's almost like required to, to onboard a certain way.
+
+**Marcel Santilli:** Like for instance, like so that if you click on claim this brand from, from somewhere, it kind of pulls that already into the, the experience, you know?
+
+**Marcel Santilli:** So those are, that's more of kind of how like scrunch and a few other services work, you know, it's like, and then it's mostly.
+
+**Marcel Santilli:** Deciding if we want to create an account and then the experience or you do a little bit of the experience and then they feel like they're hooked and now they have to sign up or they're going to lose their work kind of thing.
+
+**Marcel Santilli:** But we can also, I can mock that up a little bit later, but it did use, I think it was the, let me see which one, I think it was the Figma one that had the, the signup experience working.
+
+**Marcel Santilli:** me see.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So, so if you pull up the Figma one, it has like a little bit of that signup experience, like loaded already.
+
+**Marcel Santilli:** It's not great, but it's just like, it's just one screen pretty much, you know, but it's like, this could be the MVP, which is just like, or not the MVP, but I don't know how you guys were thinking about it.
+
+**Marcel Santilli:** You know, like the, I know right now it's just the, um, you
+
+**Marcel Santilli:** The clerk stuff, but then, like, after you sign up, it's really unclear what you're supposed to do at all, you know?
+
+**Jose Farias:** That is a big question mark.
+
+**Jose Farias:** We're, of course, prioritizing the public pages first, so we have time to figure this out.
+
+**Jose Farias:** And even then, I would expect us to, like, iterate on, like, oh, do we give you some access and then lock you out?
+
+**Jose Farias:** Or is it, like, completely walled off?
+
+**Jose Farias:** Like, that'll be a whole thing on its own.
+
+**Jose Farias:** All that to say, we have time to figure this out.
+
+**Jose Farias:** I would like to propose that Marcel, obviously, is kind of like the user persona that we're trying to cater to, marketers, in terms of, like, the Explorer side of the page.
+
+**Jose Farias:** So, let's say, whenever we're building a new functionality, if Marcel has already coded it in the prototype, let's just assume that's the experience.
+
+**Jose Farias:** as we want and use that framing all the way to finishing the public side of the page and then reconvene.
+
+**Jose Farias:** That sounds about good.
+
+**Estevão Mascarenhas:** Yeah.
+
+**Estevão Mascarenhas:** So it good.
+
+**Estevão Mascarenhas:** Makes sense.
+
+**Jose Farias:** Cool.
+
+**Daniel Lopes:** All right.
+
+**Marcel Santilli:** Do you guys need help with anything else or yeah.
+
+**Marcel Santilli:** Like for me, I just want to understand kind of a little bit of the timeline.
+
+**Marcel Santilli:** So, um, or ideal timeline, right?
+
+**Marcel Santilli:** It's next week.
+
+**Marcel Santilli:** The goal is to have the public version out, right?
+
+**Marcel Santilli:** Of the MVP pages.
+
+**Marcel Santilli:** And if there's no doc that kind of clarifies what that is, like meaning, like I'm happy to, because I'm already kind of shaping it in my head just to understand like what, what is within, within that, right?
+
+**Marcel Santilli:** Like the public.
+
+**Marcel Santilli:** Um, and then the week after I'm assuming the goal would be to, push back if not to you have.
+
+**Marcel Santilli:** You have a.
+
+**Marcel Santilli:** The experience that allows one of us, like me, to set up an account for like Augment Code or someone, right?
+
+**Marcel Santilli:** Like basic experience, like super basic, but just that it works end-to-end in whatever is shipped.
+
+**Marcel Santilli:** Is that a fair assumption?
+
+**Daniel Lopes:** I think, like, I'm not sure how you guys, I haven't followed the project close enough, but I'm thinking that if we shoot for next week to have the website, just like if you couldn't log in, and you just could click around in all the categories and have all the prompts and all that, and it would be just like seven days worth of data, but enough to block the charts and all that.
+
+**Daniel Lopes:** And to me, that would be the ideal goal.
+
+**Daniel Lopes:** And then, because that alone, we have all the little stuff, like line, fab icons, deploying and like a sitemap, all this stuff that it's like takes time.
+
+**Daniel Lopes:** And then, I'm not sure if we're going to be able to.
+
+**Daniel Lopes:** If we would be able to have the logged in experience as Fathom, maybe the logged in experience would be something that we try to get out before, like we count another cycle, and then we release within the cycle instead of like the end of it.
+
+**Daniel Lopes:** We try to release within the cycle instead of the end.
+
+**Daniel Lopes:** But in that, by releasing, I mean like we start using it ourselves for all of our clients.
+
+**Daniel Lopes:** So like maybe like a couple of weeks after we make the website ready, we try to swap all of our clients.
+
+**Daniel Lopes:** And then, in the meantime, we're collecting waitlist emails.
+
+**Daniel Lopes:** And then like maybe by, because like it doesn't sound like, there's quite a few things to build.
+
+**Daniel Lopes:** So like I'm not sure if we can log that, log the next experience ready before like November, you know.
+
+**Daniel Lopes:** Is that, what do you guys think?
+
+**Daniel Lopes:** Because you're.
+
+**Daniel Lopes:** For the sake of coding the whole thing.
+
+**Jose Farias:** That tracks with what I'm thinking.
+
+**Jose Farias:** I would say, Marcel, if you have a rough idea of what you would like to see as a version one, let's get that written down and we can go from there.
+
+**Jose Farias:** That would be helpful.
+
+**Jose Farias:** I have a feeling that what you will end up writing is achievable within this month for the public experience.
+
+**Jose Farias:** The one thing I'm, the one caveat there is it'll work.
+
+**Jose Farias:** It's ready to be deployed.
+
+**Jose Farias:** I don't know if it will be useful yet because we don't have the prompts yet, which it sounds that we're close.
+
+**Jose Farias:** But until we have the prompts, we need to start actually prompting, right, to build that catalog of responses.
+
+**Daniel Lopes:** I'll get the prompts ready on Wednesday.
+
+**Marcel Santilli:** Yeah, like, I guess, like, for me, the number one thing that I'm trying to accelerate is an ability for a client, us just set up an account for our clients that has just basic context in there because you need a company description kind of, right?
+
+**Marcel Santilli:** Like, which is the brand page.
+
+**Marcel Santilli:** And, you know, that's it.
+
+**Marcel Santilli:** The profound air ops everybody has and they're racing, you know, ahead.
+
+**Marcel Santilli:** And then ability to just, like, add prompts and then have an overview like that just, like, aggregates that.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Which is very close to what we already had.
+
+**Marcel Santilli:** It's just the overview was kind of empty, right?
+
+**Marcel Santilli:** Even if, like, so in my, if possible, right?
+
+**Marcel Santilli:** Like, the sooner we just have, like, some version of basic context here, which is just, like, the brand page, right?
+
+**Marcel Santilli:** That you can edit.
+
+**Marcel Santilli:** Like, and part of this includes, like, just the basic, like, just what you're tracking, which competitors doesn't need to have any data at all, right?
+
+**Daniel Lopes:** Well, the context should be a clone of your public page.
+
+**Daniel Lopes:** But not, you can.
+
+**Daniel Lopes:** We're not adding the public one, you're just adding in your private one.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** Yeah, it's very much like...
+
+**Marcel Santilli:** Yeah, it's of like this, essentially.
+
+**Marcel Santilli:** It's taking whatever we have, and then they can come here and...
+
+**Daniel Lopes:** You know, whatever.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** But then, like, the MVP to me is really just, like, this page.
+
+**Marcel Santilli:** Like, even if you couldn't click on this page at all, and you couldn't, like, have any of this at all, maybe just date filters.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Because it's like, that's what we have.
+
+**Marcel Santilli:** But, like, that's it.
+
+**Marcel Santilli:** Like, nothing else.
+
+**Marcel Santilli:** And just the ability to add more prompts, right?
+
+**Marcel Santilli:** And then sources is kind of, like, just...
+
+**Marcel Santilli:** Yeah, just the grouping.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Like, and you can remove a bunch of the metrics out of this as well.
+
+**Marcel Santilli:** And the overview is just a summary of all those things, right?
+
+**Marcel Santilli:** Like, with just the date things, right?
+
+**Daniel Lopes:** I think, like, for us, for ourselves, for our clients, we can have that pretty fast.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Because, like, then we start tracking the data because every week that goes by that we're not doing it for 60 clients is a week that the second we switch over to this, we're going to lose all the data from scratch because it's really hard to export and import.
+
+**Marcel Santilli:** They don't give you the full export experience, which means it's, like, we're going to go from being able to tell them, hey, look at the historical, look how amazing the work we've been doing to, like, hit a reset, lose all those metrics, pretty much, because Scrunch is going to be pissed that we're doing this and offer access.
+
+**Marcel Santilli:** And then we're going to have zero data for our clients, right?
+
+**Marcel Santilli:** Like, so I'm more concerned about making sure we take these thousands of problems and starting to create a way to start tracking that data.
+
+**Daniel Lopes:** I think that's another ticket.
+
+**Daniel Lopes:** Another ticket, again, you can do both, as in, like, I come up with the category prompts and all that, all that.
+
+**Daniel Lopes:** And then we also export all the prompts from our clients and we start tracking the prompts from our client.
+
+**Daniel Lopes:** You know, because we have all the prompts in Scratch that we need to retroactively add to the system.
+
+**Jose Farias:** If we can get that export, that would be great.
+
+**Jose Farias:** So I have up to this point been prioritizing the public side of things.
+
+**Jose Farias:** I can immediately switch focus to prioritize the logged in experience and create a bare bones, just like add prompts, track them, basic analytics before the end of the month.
+
+**Jose Farias:** I can do that.
+
+**Jose Farias:** Does that sound good?
+
+**Marcel Santilli:** Yeah.
+
+**Daniel Lopes:** Marcel, do you want to write the scope document for us?
+
+**Daniel Lopes:** I think for the public side, we can, we can, we kind of know on the private side, like what is, like, that would be nice if you just, you know.
+
+**Daniel Lopes:** I can take a stab if you're short on time, but if you are...
+
+**Marcel Santilli:** I have today, I'm just trying to figure out, like, I can't, the trade-off here is, like, I either take the rest of the day to figure out the individual, like, answer page, because that page is, like, really gnarly, you know, and I'm, like, starting...
+
+**Daniel Lopes:** I think that's a better use of your time, and, like, and we can continue to just, like, sync up like this, and...
+
+**Daniel Lopes:** It is early.
+
+**Daniel Lopes:** I think it is, like, you're figuring out the answers is...
+
+**Marcel Santilli:** That page is really hard.
+
+**Marcel Santilli:** Yeah, because that page...
+
+**Daniel Lopes:** What do you think, Jose?
+
+**Jose Farias:** I was going to say, it is hard.
+
+**Jose Farias:** I think it's worth Marcel's time.
+
+**Jose Farias:** I just don't, like, I don't see us implementing answers soon before I leave for paternity.
+
+**Jose Farias:** So if we, if you have thoughts about the login experience, like we just said, like, the bare bones one that gets off, gets us out of Scrunch and into this, I would rather have your input on that.
+
+**Daniel Lopes:** Nice.
+
+**Jose Farias:** And I can't...
+
+**Jose Farias:** And I can't...
+
+**Daniel Lopes:** You can probably focus on just like the really minimum, like, like you just said, remove this metric.
+
+**Marcel Santilli:** Let me do that.
+
+**Marcel Santilli:** Like, I think what I could do is I can just fork the slash mockups that I have in my branch into a mockups-MVP or something.
+
+**Marcel Santilli:** And then a full, like, remove, remove, remove, remove, remove, remove, remove from everything.
+
+**Marcel Santilli:** That would be ideal.
+
+**Marcel Santilli:** And then just, like, do an end-to-end mockup experience of every single thing to where, like, all the screens actually work with some fake data.
+
+**Daniel Lopes:** Yeah.
+
+**Marcel Santilli:** And I think if I do that and nothing else for the next, like, four hours, I think I might get to, like, a okay place.
+
+**Marcel Santilli:** Like, because I think, like, some of it is, like, pretty, pretty standard.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** I think that would be perfect.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** That is essentially designing everything we need.
+
+**Marcel Santilli:** I just need to put it in a doc for myself because, like, there's the, you know, and I think, like, if I'm kind of like, oh, we can do this.
+
+**Marcel Santilli:** That and like you all are probably even more in that front as well, you know, but I've been using all these tools and like I have a lot of confidence in like and I've been using Scrunch for two months on augment code and I know exactly the views I wish I had and the views that I don't use and the drill downs that I don't use that I don't give a .
+
+**Marcel Santilli:** Like I never go through answer by answer and read response by response, like unless it's truly like the one query I can give a  I'm trying to optimize for, but like they care about the summaries of like the aggregates of the, like no one is going like, let me see the historical the last 90 days one by one, like that is not required in order to track that, it's just like the loading up the prompts.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** All right.
+
+**Estevão Mascarenhas:** That sounds good.
+
+**Estevão Mascarenhas:** Yeah.
+
+**Estevão Mascarenhas:** just go from a reminder said like, so for the end of this month, we're not going to release both the public area and the private signing experience with the answers part.
+
+**Daniel Lopes:** So we're going to leave that for later.
+
+**Daniel Lopes:** mean, I mean, it depends.
+
+**Daniel Lopes:** Like, I think we can divide and conquer here.
+
+**Daniel Lopes:** Where, like, if you can continue to power through the public area, Estevão, and Jose starts to build the private area, then we can see how it goes.
+
+**Marcel Santilli:** Yeah, like, to Jose's point, Estevão, it's like, if we can get the, like, home, I think, right?
+
+**Marcel Santilli:** Like, home, categories, and individual brand page.
+
+**Marcel Santilli:** You already have subcategories, too.
+
+**Marcel Santilli:** Like, so let's just add that.
+
+**Estevão Mascarenhas:** Like, but those are the four views.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And remove anything from there that's less, like, you know, things are not ready, like references to, like, prompts or references to, like, topics or anything like that, right?
+
+**Marcel Santilli:** Like, for the MVP.
+
+**Marcel Santilli:** So if you can fork that, and it's, like, and then, like, right now.
+
+**Marcel Santilli:** know?
+
+**Marcel Santilli:** Well...
+
+**Marcel Santilli:** I think what I'll focus on for the rest of today, and I'll jump, I can jump on those four later, but like, is the logged in experience in MVP screens.
+
+**Marcel Santilli:** And then if I finish that, I'll work on the signup experience, and then I'll come back to these four, because these four are already in a decent place.
+
+**Marcel Santilli:** And it's just like, it's fine.
+
+**Marcel Santilli:** It's just like, let's ship it and get an index kind of, you know, and so the MVP for public launch is home, brands, categories.
+
+**Marcel Santilli:** Resell categories.
+
+**Marcel Santilli:** It's four pages, essentially, views, right?
+
+**Marcel Santilli:** The MVP for, like, the getting client data loaded up, and getting client accounts signed up is what I'll work on.
+
+**Marcel Santilli:** So I'll have a better view of that, and then I'll write it in a doc as I'm doing it as well.
+
+**Marcel Santilli:** And then from there, then we can start making trade-offs of, like, public versus here, you know?
+
+**Marcel Santilli:** And ideally, Daniel, if there's...
+
+**Marcel Santilli:** Anyone that we can throw at this that could help with these components because some of these components are like kind of gnarly.
+
+**Marcel Santilli:** Like you can spend a month on one component, like the table and the visualization components, like they're pretty like critical because they're going to be everywhere all the time, right?
+
+**Daniel Lopes:** Like, and these are components that hopefully we can use it in Atlas too because- Yeah, we can get GP on this, but GP is the React person, so that would be like focused on the UI.
+
+**Daniel Lopes:** And like, and hopefully if I get a table one, it's a 10 stack data table usually works really well, but if we get Jacopo on this, then Jacopo can help Jose on the backend and then we have save on the UI plus GP.
+
+**Marcel Santilli:** you thinking about like, is there, well, we did when I was at HashiCorp, although it was like very different, but we had like, well, well, well, well, well,
+
+**Marcel Santilli:** whole site components, and then we had global components, because we had like 11 open source sites, and we have like a massive footprint, you know, and then there's like some global components that could be used across domains, essentially, right, and they're like fairly standardized, it's like, yeah, is that kind of how we're, just so I know mentally.
+
+**Daniel Lopes:** We're like, we're trying to not pull anything custom as much as possible, and just use like ShedCN as our global components, essentially, and then, so that's the thing in Atlas, and I think like CheckDat would be like, probably close to that, and then, but then you have things that are unique, like the chart that you have, the line chart, for example, it's still probably going to use like ShedCN chart, and, but then your customization of that, you can wrap as like a custom chart for like the CheckDat, you know, but it's, we're not building anything from scratch, we're just building off of their design system, so it's not as gnarly as it sounds.
+
+**Daniel Lopes:** All right.
+
+**Daniel Lopes:** So you're building something that's like the command K that would be fully custom, for example, like that would be different.
+
+**Daniel Lopes:** And some of the things, I think I'm expecting more to pull front check that into Atlas than Atlas into check that, you know, because Atlas, we're just moving faster.
+
+**Daniel Lopes:** Unless it's the analytics section that the guys are doing.
+
+**Daniel Lopes:** So if we ever wanted to have an analytics section inside of check that, we could just copy the front end, but the back end will probably, what was that?
+
+**Marcel Santilli:** So Simone, is that kind of how you're doing for a lot of the stuff you're doing, is like, mostly trying to pull from ShadCN?
+
+**Estevão Mascarenhas:** Yeah, yeah.
+
+**Estevão Mascarenhas:** Like, like lower level design components are ShadCN based.
+
+**Marcel Santilli:** the blocks too?
+
+**Estevão Mascarenhas:** Yeah, yeah, yeah.
+
+**Estevão Mascarenhas:** Like we're using ShadCN and they win for everything, but mostly like ShadCN for, try not to customize it a lot, just changing colors and stuff.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** It's just like the more we can make tech that feel a little bit more bland.
+
+**Marcel Santilli:** If you will, more like a Vercel app, then that like, I think that's the delta between like, even like if you look at Scrunch and then like, like Profound.
+
+**Daniel Lopes:** It's, it's, like underestimate the amount of effort that it takes to build like world-class design and they might as well just go with world-class Vercel design system.
+
+**Daniel Lopes:** Like we don't have the designers like Jose had, you know, to like own the entire thing.
+
+**Estevão Mascarenhas:** Yeah.
+
+**Daniel Lopes:** And then once I think they do, you ended up with Scrunch, you know?
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** That is just look a little, little, little, little, standard of every bottle.
+
+**Marcel Santilli:** continuously decopying what works.
+
+**Marcel Santilli:** It's just that right now we're Frankenstein-ing what works because all the apps, some things work for one and are really sure for others.
+
+**Marcel Santilli:** That's what I'm doing is mostly Frankenstein-ing  to like what I wish they all did consistently because they all are very consistent.
+
+**Marcel Santilli:** But I can tell you for certainty, like all of these  is like complete.
+
+**Marcel Santilli:** They're all ingesting the same data and making up these numbers as they go and giving people like, you know, different versions of it, you know, so cool.
+
+**Marcel Santilli:** All right, I'll get on that.
+
+**Marcel Santilli:** And then I'll add a doc and I'll share in the channel once I have the docs going.
+
+**Marcel Santilli:** I have one in my private notion, but I'll start sharing.
+
+**Jose Farias:** All right, cool.
+
+**Jose Farias:** Before we wrap up, want to say, Marcel, I can reasonably fill in quite a few blanks.
+
+**Jose Farias:** So don't feel like you need to spend a lot of time on things.
+
+**Jose Farias:** I just do need that like marketer insight that I don't have about like what flows work.
+
+**Jose Farias:** And then I'll fill in the blanks.
+
+**Marcel Santilli:** Cool.
+
+**Marcel Santilli:** Yeah, like what I'll do is, I'll, I'll do a, I'll quickly do a mockups dash, like MVP right now.
+
+**Marcel Santilli:** And I think Daniel, should I just keep going in the same branch?
+
+**Daniel Lopes:** Yeah, you can, you can just create a new folder in the same branch, you know, like, you can, you can ask.
+
+**Marcel Santilli:** That's so cool.
+
+**Marcel Santilli:** Oh, create a new route called mock-up slash, mock-up MVP, and then it will do it for you, and just stay in the same branch, and give the guys the branch.
+
+**Marcel Santilli:** Just like, if any of you review my branch, and you see that I'm  up on something really bad, that's gonna create more work for us later, just let me know so I stop doing it.
+
+**Marcel Santilli:** No worries.
+
+**Marcel Santilli:** Cool.
+
+**Marcel Santilli:** Awesome.
+
+**Marcel Santilli:** Cool.
+
+**Marcel Santilli:** Cheers, y'all.
+
+**Marcel Santilli:** Thanks, guys.
+
+**Marcel Santilli:** Cheers.

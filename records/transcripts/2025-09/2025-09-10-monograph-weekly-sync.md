@@ -1,0 +1,882 @@
+# Monograph Weekly Sync
+
+<metadata>
+date: 2025-09-10
+time: 17:01 UTC
+duration: 33 minutes
+organizer: matthew@growthx.ai
+participants: Matthew Panzarino (GrowthX), Chris Morgan (Monograph), Robert Yuen (Monograph)
+fathom_recording_id: 86338600
+fathom_url: https://fathom.video/calls/405003372
+share_url: https://fathom.video/share/YRwsg3D-AzhAUYN3vMZ5MC25XJthE5Yg
+source: fathom
+enriched_on: 2026-03-03 18:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Monograph aligned on content strategy execution while Monograph onboards 3 new hires (2 demand gen, 1 content marketer) over the next 2 weeks. Matthew shared tools and approaches for competitive intelligence using AI and documentation analysis, while the team finalized Reddit content strategy emphasizing original data and authentic tone. They also designed an experiment testing TLDRs vs FAQs in blog posts, with a focus on time-on-page metrics as the key indicator of reader engagement and content quality.
+
+---
+
+## Context
+
+Monograph is a construction project and budget management platform that has engaged GrowthX for content marketing services. This weekly sync brings together Monograph's leadership (Chris Morgan heading content, Robert Yuen handling demand gen and SEO distribution) with Matthew Panzarino from GrowthX to discuss ongoing content production, strategic initiatives, and the upcoming team expansion. The engagement is active and collaborative, with Monograph preparing to staff internally while GrowthX continues executing on their content roadmap and experimenting with new channels like Reddit. The meeting reflects a maturing partnership where both teams are testing experimental approaches (blog format variations, Reddit positioning) to find what resonates best with Monograph's target audience.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Successfully managing client content pipeline during hiring transitions — continuing 5+ articles per week output while client onboards new team
+- Executing experimental content formats (Reddit posts, blog TLDR/FAQ variations) to test channel effectiveness and optimize for both machine (citations) and human (time on page) metrics
+- Demonstrating tooling agnosticism approach in practice: recommending Exa for historical data retrieval and Cloud Code for competitive intelligence analysis rather than forcing pre-built service offerings
+- Client team structure maturing with clear content/demand-gen separation, allowing GrowthX to hand off relationship leadership to new demand-gen hire
+
+**To CheckThat:**
+- Reddit mentioned as strategic channel with "content deals in place" — opportunity for CheckThat visibility index to monitor Reddit data as primary source
+- Focus on original data anchoring in Reddit content (e.g., "helping firms cut budget overruns by 44%") highlights importance of proprietary data in AEO strategies
+- Blog experiment design validates GrowthX's research approach: testing time-on-page vs citation metrics for content effectiveness
+
+**To GrowthX Business Development:**
+- Account health strong: active weekly syncs, collaborative experimentation, commitment to 2-3 week content pipeline maintenance through transition
+- Potential for service expansion: Monograph asking GrowthX for competitive intelligence methodology suggests expansion beyond content into strategic research
+- New hire onboarding creates touchpoint opportunity for GrowthX to deepen relationship with demand-gen team and establish best-practices coaching
+
+---
+
+## Overview
+
+- Monograph hired 3 new team members: 2 demand gen, 1 content marketer
+- GrowthX published 5 articles, will continue publishing until new hires onboard
+- New content clusters added to Airtable for consideration
+- Reddit content strategy in development, with focus on original data and appropriate tone
+- Experiment planned to test efficacy of TLDRs vs FAQs in blog posts
+
+---
+
+## Key Topics
+
+### New Hires and Onboarding
+
+  - 3 new team members starting in 2 weeks: 2 demand gen, 1 content marketer
+  - GrowthX will assist with onboarding and context-sharing
+  - Robert to assign one demand gen hire to lead relationship with GrowthX
+
+### Content Production and Strategy
+
+  - 5 articles published by GrowthX
+  - New content clusters added to Airtable under "Considering" tab
+  - Healthy "Approve to Start" queue (2-3 weeks of content)
+  - Focus on Considering tab for new strategy alignment
+
+### Reddit Content Strategy
+
+  - Pipeline in development for Reddit posts
+  - Emphasis on original data and authoritative information
+  - Tone being fine-tuned to balance between personable and professional
+  - Topics based on popular posts, pain points, and traction keywords
+
+### Blog Post Experiment
+
+  - Proposed test: 15 articles split into 3 groups (no FAQ, TLDR at top, standard with FAQ)
+  - Goal: Measure impact on citations and time on page
+  - Robert cautioned about statistical significance with small sample size
+  - Focus on time on page as key metric for reader engagement
+
+### Competitive Intelligence
+
+  - Chris exploring AI-driven approach using product documentation and release notes
+  - Matthew suggested using Exa for historical data retrieval and Cloud Code for analysis
+
+### Team Structure and Roles
+
+  - Content team now led by Chris, who made first hire
+  - Demand gen team to oversee SEO as distribution channel
+  - Discussion on balancing content creation and channel management
+
+---
+
+## Action Items
+
+**Matthew Panzarino (GrowthX)**
+- Post published articles to Slack channel, including last week's batch
+- Share 2-3 Reddit post samples for Monograph team review
+- Review new hire profiles and recommend liaison for GrowthX relationship (assess which of the 2 new demand gen hires should lead the Monograph-GrowthX partnership)
+- Compile detailed thoughts on content/channel management approach and send to Chris Morgan
+
+**Robert Yuen (Monograph)**
+- Review "Considering" section in Airtable for new content clusters aligned with updated strategy
+- Send LinkedIn profiles and final presentations of 2 new demand gen hires to Matthew Panzarino
+
+---
+
+## Transcript
+**Chris Morgan:** Hey, Matthew.
+
+**Chris Morgan:** How's it going?
+
+**Matthew Panzarino:** Good to see you.
+
+**Matthew Panzarino:** Good to see you.
+
+**Chris Morgan:** It's going pretty well.
+
+**Chris Morgan:** So we have three people starting in two weeks, two demand gen, one content marketer.
+
+**Matthew Panzarino:** Great.
+
+**Chris Morgan:** So big relief over that, but now we're focused on onboarding them.
+
+**Chris Morgan:** And yeah.
+
+**Matthew Panzarino:** That's awesome.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** And we have, you know, we're publishing for you while that's happening.
+
+**Matthew Panzarino:** So we'll keep things flowing.
+
+**Matthew Panzarino:** keep the spice flowing.
+
+**Matthew Panzarino:** And then once they come in, happy to jump in with them, bring them up to speed, give them whatever context they need and, you know, keep working with them.
+
+**Chris Morgan:** Cool.
+
+**Chris Morgan:** You know, one thing I've been doing this week is I'm trying to scale our competitive intelligence.
+
+**Chris Morgan:** And so my thought here is that, like, what's the best way to scale, like, an AI understanding approach.
+
+**Chris Morgan:** And my sense is that it's probably going to be the docs.
+
+**Chris Morgan:** So like if you take our products, full docs, like support docs, and our competitors support docs, that should be like the source.
+
+**Chris Morgan:** And then there's a series of other transformations that you're doing on that.
+
+**Chris Morgan:** But I'm kind of in that world at this moment where it's like docs are a key source, huge source.
+
+**Chris Morgan:** Like we have like 120 docs and our competitor is like 2,000.
+
+**Chris Morgan:** And then release notes.
+
+**Chris Morgan:** So like I have like my whole changelog history for five years.
+
+**Chris Morgan:** And then they have a recent look back on release notes.
+
+**Chris Morgan:** And then, you know, I'm kind of layering in other things.
+
+**Chris Morgan:** But it's been kind of an interesting process because it's so much content that I need to work in.
+
+**Chris Morgan:** Inside of Cursor to be able to like, because if I try to load it in as project files, it can't take all that context.
+
+**Chris Morgan:** So anyways, maybe we don't need to talk about it right now, but just something that I might want to be, if you could think about that a little bit, because it's on my mind.
+
+**Chris Morgan:** It will be on my mind, especially even more in the future.
+
+**Matthew Panzarino:** Yeah, absolutely.
+
+**Matthew Panzarino:** There's a handful of things I think that could be interesting there.
+
+**Matthew Panzarino:** One, like for, we just built a pipeline that grabs historical pricing information.
+
+**Matthew Panzarino:** We have a client that is building a pricing index for, actually a pricing model index.
+
+**Matthew Panzarino:** They are like a usage-based pricing company.
+
+**Matthew Panzarino:** And so they want to build an index of pricing.
+
+**Matthew Panzarino:** And they need, one of the elements that we need on the page is historical pricing.
+
+**Matthew Panzarino:** So it's like, how have they changed their pricing models over time?
+
+**Matthew Panzarino:** And we built a pipeline that goes out and uses...
+
+**Matthew Panzarino:** Exa as a researcher.
+
+**Matthew Panzarino:** So you might want to investigate that.
+
+**Matthew Panzarino:** Exa is incredible.
+
+**Matthew Panzarino:** It is very, very good, 10 times as good as Perplexity, and may be able to find you historical release notes and patch lists and things like that for those companies that you may not be able to find with, like, a standard web scraper or something like that.
+
+**Matthew Panzarino:** And then they can just drop them into Markdown files, and you can start parsing those.
+
+**Matthew Panzarino:** I also highly recommend Cloud Code in general.
+
+**Matthew Panzarino:** If you're comfortable working with Cursor, that is totally cool.
+
+**Matthew Panzarino:** But you can work with Cloud Code inside Cursor, obviously, and as your IDE.
+
+**Matthew Panzarino:** But I have had great luck building things like simple Python scrapers that grab historical documentation and then, like, organizing those and doing that kind of work and analyzing them.
+
+**Matthew Panzarino:** We've used it.
+
+**Matthew Panzarino:** I've used it for, like, I built a clone of myself as an editor, and I did that by grabbing all of my articles, pulling out, like,
+
+**Matthew Panzarino:** Commonalities in my tone and stuff like that.
+
+**Matthew Panzarino:** So I can now write like myself without having to write.
+
+**Matthew Panzarino:** But it's an interesting project for sure.
+
+**Matthew Panzarino:** And I think we're doing some work that is related.
+
+**Matthew Panzarino:** So if I come up with stuff, I'll definitely, I'll just DM, I'll send it in the channel, any interesting scraps of things that I can think about.
+
+**Matthew Panzarino:** But yeah, try XA to pull historical data if it's not already available.
+
+**Matthew Panzarino:** If it's available on the public web and in a finite place, you can just build a quick Python scraper to grab the information.
+
+**Matthew Panzarino:** But if you're like having a hard time finding it and they're like inconsistent about where they put those, that documentation, then XA can help, I think.
+
+**Matthew Panzarino:** So maybe give it a sniff.
+
+**Matthew Panzarino:** Thanks.
+
+**Matthew Panzarino:** Yeah, for the large documentation thing that, yeah, you're right.
+
+**Matthew Panzarino:** You got to systematize it and think of it in code.
+
+**Matthew Panzarino:** And then you're going to want to context engineer them, the context window that you can work with data all at once is about 200,000.
+
+**Matthew Panzarino:** Tokens with the base, like tier one clod, that's about, I don't know, that's about like 200 pages, you know what I mean?
+
+**Matthew Panzarino:** So I think it's worth thinking about in those contexts, work on it in chunks, you know, and then combine and collate the data.
+
+**Matthew Panzarino:** But yeah, I'll definitely, if I think of anything, I'll pass it along, or if we have any tooling that could work for you, happy to experiment with it.
+
+**Matthew Panzarino:** And if you give me sources or things like that, I can see what our researchers can do for you.
+
+**Chris Morgan:** Yeah, suppose like the real quick way to generalize it is like, when you were trying, when you were working for clients on bottom of funnel, detail for detail differences between like head to head competitors, how do you approach it?
+
+**Chris Morgan:** I think that's kind of the, maybe a more generalizable way to put it.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah, I gotcha.
+
+**Matthew Panzarino:** Yeah, I'll think about it.
+
+**Matthew Panzarino:** I'll get back to you.
+
+**Matthew Panzarino:** We definitely are doing some of it.
+
+**Matthew Panzarino:** it.
+
+**Matthew Panzarino:** Remarkably, a lot of our competitors are like, pretend our competitors don't exist.
+
+**Matthew Panzarino:** And I'm like, you know, that's like, our clients are like, I'm like, I don't know, you know, I don't know if that's the right approach.
+
+**Matthew Panzarino:** But I'll think about it.
+
+**Matthew Panzarino:** I know we have some people that are doing some comparals, so I'll look at some of our tooling there.
+
+**Matthew Panzarino:** I'm going to get back to you.
+
+**Matthew Panzarino:** Thanks.
+
+**Matthew Panzarino:** Robert, how's going?
+
+**Matthew Panzarino:** Let's see.
+
+**Matthew Panzarino:** A couple of things, updates.
+
+**Matthew Panzarino:** Okay, we published five articles.
+
+**Matthew Panzarino:** So we're going to keep publishing until we've got a new person.
+
+**Matthew Panzarino:** So the spice will keep flowing.
+
+**Matthew Panzarino:** You'll see those, of course, in the air table.
+
+**Matthew Panzarino:** So anytime you want to look at what's going on there, we will keep doing that.
+
+**Robert Yuen:** We...
+
+**Robert Yuen:** Small favor.
+
+**Matthew Panzarino:** Yeah, of course.
+
+**Robert Yuen:** When things do go live, can you post to the Slack channel?
+
+**Matthew Panzarino:** Oh, yeah, we should.
+
+**Matthew Panzarino:** And if we missed last week, I'm sorry.
+
+**Robert Yuen:** We'll make sure we do that.
+
+**Robert Yuen:** Yeah, it's just I don't have air table pulled up all the time.
+
+**Matthew Panzarino:** Yeah, no, totally.
+
+
+**Matthew Panzarino:** Yeah, got it.
+
+**Matthew Panzarino:** Actually, I'm going to make a note of that so that I remember that.
+
+**Robert Yuen:** We'll make sure it goes in there.
+
+**Robert Yuen:** We'll put the list that we did last week.
+
+**Matthew Panzarino:** Yeah, might be like a Zapier automations, like, yeah, we can do that.
+
+**Matthew Panzarino:** We can build it on Airtable.
+
+**Matthew Panzarino:** So when we move something to publish, you can just put it in there.
+
+**Matthew Panzarino:** The only downside to that is it gets super noisy.
+
+**Matthew Panzarino:** So let me figure out a way to make it collated because it's like it does it article by article.
+
+**Matthew Panzarino:** So if we publish five, it's like blasts like five blocks of stuff and it pushes our conversations around.
+
+**Matthew Panzarino:** So let figure out how to do that.
+
+**Matthew Panzarino:** Appreciate it.
+
+**Matthew Panzarino:** Yeah, of course.
+
+**Matthew Panzarino:** We have updated the Airtable, speaking of Airtable, with new content clusters.
+
+**Matthew Panzarino:** So these are new topics that we would pursue. They're under the Considering tab, or Considering section.
+
+**Matthew Panzarino:** And let's see here.
+
+**Matthew Panzarino:** Let's do, oh, here we go.
+
+**Matthew Panzarino:** I've got a lot of tabs open, as you can imagine.
+
+**Matthew Panzarino:** So we've got, under the Standard Client view, the Ready for Review here, we've got our Considering, under Considering section here, we refresh this with new topics and new subjects.
+
+**Matthew Panzarino:** I do not require, really, I'm pretty confident in the adherence here.
+
+**Matthew Panzarino:** So I, there is no real requirement on my part for you to prioritize these, Robert, because I know you have limited time.
+
+**Matthew Panzarino:** It's not necessary that you do.
+
+**Matthew Panzarino:** You absolutely can, if you would like to, or if you have a motion, you can flag it for me, and we can prioritize those, right?
+
+**Matthew Panzarino:** So if you're like, hey, we're about to do a sprint on this kind of marketing, I would love more establishing content for that kind of thing, leave it to me and we'll prioritize those for you, right?
+
+**Matthew Panzarino:** So it is not required that you do go through here and flag all of these by priority or any of that, but these are the new clusters that are related to the new kind of strategy that we talked about, both new clusters and clusters that support existing ones.
+
+**Matthew Panzarino:** You'll see topics in here about AI-related A&E topics for that new cluster, and then some bolstering clusters for your existing content.
+
+**Matthew Panzarino:** So once again, no real action needed on your part, but I just wanted to know the new stuff is in here.
+
+**Matthew Panzarino:** Feel free to take a look, and of course, when your new content person comes along, they'll be able to see all the things we're kind of working on and going through there.
+
+**Matthew Panzarino:** We'll just start working our way through here, and...
+
+**Matthew Panzarino:** Unless you want to prioritize, in which case, we'll take the stuff you prioritize.
+
+**Robert Yuen:** Great.
+
+**Robert Yuen:** How are we doing on Approve to Start?
+
+**Matthew Panzarino:** Do you still have a healthy amount?
+
+**Matthew Panzarino:** Yeah, the Approve to Start is, I think, decent.
+
+**Matthew Panzarino:** Yeah, we've got enough for two weeks, three weeks, it looks like.
+
+**Matthew Panzarino:** So we'll keep you through those.
+
+**Matthew Panzarino:** And then the moment that you want to release any of these new batches, you can do so.
+
+**Matthew Panzarino:** Or I can, you know, release some for you.
+
+**Matthew Panzarino:** If you're like, hey, just pick someone, go, you know.
+
+**Robert Yuen:** That's fine, too.
+
+**Robert Yuen:** Yeah.
+
+**Robert Yuen:** Do you want me to work on Considering or Backlog, or both?
+
+**Matthew Panzarino:** Good question.
+
+**Matthew Panzarino:** I'm pretty sure we put them in Considering.
+
+**Matthew Panzarino:** Let me double check.
+
+**Matthew Panzarino:** Yeah, it's Considering.
+
+**Matthew Panzarino:** This is, this Backlog was older stuff from the older clusters.
+
+**Matthew Panzarino:** It's not necessarily that they're bad.
+
+**Robert Yuen:** Just these align with our new strategy, the new content strategy we talked about.
+
+**Matthew Panzarino:** Got it.
+
+**Matthew Panzarino:** Yeah, so Considering.
+
+**Matthew Panzarino:** Short answer.
+
+**Robert Yuen:** Got it.
+
+**Matthew Panzarino:** Then we also have...
+
+**Matthew Panzarino:** We've been working on the Reddit stuff.
+
+**Matthew Panzarino:** So we are tweaking our pipeline currently.
+
+**Matthew Panzarino:** I'm not quite ready to share early drafts for you, although I will.
+
+**Matthew Panzarino:** I'll share some samples so that you can see what we're thinking of.
+
+**Matthew Panzarino:** We're still working on getting the tone exactly right and the shape of the stuff right.
+
+**Matthew Panzarino:** But this is the tab right here under ready for review Reddit.
+
+**Matthew Panzarino:** This is the tab where we're putting the topics that we're gonna write about.
+
+**Matthew Panzarino:** And then we have included this hook thing in here just to give you an idea about what kind of question we're answering or why we're writing this topic.
+
+**Matthew Panzarino:** And that hook is basically like the setup for the Reddit post.
+
+**Matthew Panzarino:** Like, why are you posting on Reddit about this?
+
+**Matthew Panzarino:** What's the hook?
+
+**Matthew Panzarino:** And the idea here is not like to worry too much about this hook.
+
+**Matthew Panzarino:** It's more for visibility so that you can see what we're doing here.
+
+**Matthew Panzarino:** It's like, hey, here's the reason we're writing the post.
+
+**Matthew Panzarino:** Here's the body content we're gonna break down.
+
+**Matthew Panzarino:** On how budget visibility transforms client management, we're going to share a little thing, and then here's our sources, right?
+
+**Matthew Panzarino:** We've got anonymous quotes, we've got this quote from your clients, and it's basically how can we anchor these topics, I should just do this, I'm sorry.
+
+**Matthew Panzarino:** We can anchor these topics around authoritative pieces of information that you have gathered.
+
+**Matthew Panzarino:** Because this information is your personal data, like helping firms cut budget overruns by 44%, it's anchoring on like original data, right?
+
+**Matthew Panzarino:** And original data tends to play really well on Reddit, as opposed to publicly available data that you're just commenting on.
+
+**Matthew Panzarino:** So we're going to work on this, but I think we're in pretty decent shape as far as the content that we're going to go after.
+
+**Matthew Panzarino:** And then do not take this to mean that this is the style in which we will write.
+
+**Matthew Panzarino:** This is just giving you the architecture of these pieces of content.
+
+**Matthew Panzarino:** The style we're still working on, and I've got some early results, and I think are pretty positive.
+
+**Matthew Panzarino:** With how we're able to write, we don't want to like, hey, fellow kids it up, you know, where it's like, yo, Reddit, what's up, bro?
+
+**Matthew Panzarino:** You know, you don't want to do that.
+
+**Matthew Panzarino:** But you have to find a tone that does not read like a blog post on the site, but of course on the opposite end does not read as you're trying to be something you're not, right?
+
+**Matthew Panzarino:** It's like a direct, personable tone that I think will play well on Reddit, and we're still fine-tuning there.
+
+**Matthew Panzarino:** But we have done the work to get ready to start producing the content once the pipeline is ready.
+
+**Matthew Panzarino:** So the next step will be, let me start getting you some calibration content, basically.
+
+**Matthew Panzarino:** Like, hey, here's two or three Reddit posts.
+
+**Matthew Panzarino:** Take a look.
+
+**Matthew Panzarino:** Tell us what you think.
+
+**Matthew Panzarino:** Would you be comfortable with us representing you this way on Reddit or with Monograph representing itself this way on Reddit?
+
+**Matthew Panzarino:** And like that, I think, is fairly low risk.
+
+**Matthew Panzarino:** We can try some stuff.
+
+**Matthew Panzarino:** We're going to try like two or three major approaches and then see if anything resonates and then just double down on the ones that work.
+
+**Matthew Panzarino:** I'm excited, though.
+
+**Robert Yuen:** Yeah.
+
+**Robert Yuen:** I can tell.
+
+**Matthew Panzarino:** You love Reddit.
+
+**Matthew Panzarino:** I do.
+
+**Matthew Panzarino:** Well, I just think it's like, I don't think anything is like a magic bullet when it comes to geo recognition, but it's very clear that Reddit has the content deals in place.
+
+**Matthew Panzarino:** They're heavily cited.
+
+**Matthew Panzarino:** It's just like crazy not to try it.
+
+**Matthew Panzarino:** So I'm excited about that possibility.
+
+**Matthew Panzarino:** We'll see how it goes.
+
+**Matthew Panzarino:** Oh, just as an overview, those topics are like popular posts tied to pain points, project management subreddits, new keywords have traction.
+
+**Matthew Panzarino:** That's how we built out that cluster on Reddit.
+
+**Matthew Panzarino:** I know we didn't go really deep on like keyword strategy for Reddit, but it's not really keyword strategy, it's a different kind.
+
+**Matthew Panzarino:** So that's the basic pillars that we're working with there.
+
+**Matthew Panzarino:** I did want to talk to about one other experiment.
+
+**Matthew Panzarino:** This is something.
+
+**Matthew Panzarino:** This something.
+
+**Matthew Panzarino:** That I would love to try with you, but it is absolutely optional.
+
+**Matthew Panzarino:** I want to try to publish the next three batches of content.
+
+**Matthew Panzarino:** So 15 articles, and I want to try batching five with no FAQ, five with a TODR at the top, and then five standard, like as we have been publishing with the FAQ in relatively short order.
+
+**Matthew Panzarino:** And then see whether we get any variants in geo citations for those.
+
+**Robert Yuen:** It's all about the blog articles.
+
+**Matthew Panzarino:** Yes, the blog articles, correct.
+
+**Matthew Panzarino:** So for your next 15 blog articles, we would basically just do five with a TLDR, five with the standard FAQ, and five with no FAQ. And this just gives us an idea of whether the ones with no FAQ were not cited at all, or if the TLDRs were cited twice as much as the ones with the FAQ, or if ones with both were cited three times as much. That would help us understand the impact.
+
+**Matthew Panzarino:** And this just provides us with a path forward of a recommendation.
+
+**Matthew Panzarino:** Obviously, just to be clear, this will help all of our clients, but it will help you.
+
+**Matthew Panzarino:** Like, if we can figure out whether Monograph's content resonates better with a TLDR and an FAQ, or with just one or just the other, with neither, then we'll double down on that strategy for you.
+
+**Robert Yuen:** I don't have any issues with it.
+
+**Matthew Panzarino:** Okay.
+
+**Robert Yuen:** Yeah, I don't have any issues with it.
+
+**Robert Yuen:** My only, my words of caution for you is I don't think you're doing enough statistically enough to have any type of, like, degree of confidence if one is true or not.
+
+**Robert Yuen:** Because there's actually other variables at play, because obviously they're all different topics, 15 topics, with 15 different, like, search volumes, question volumes, keyword volumes.
+
+**Robert Yuen:** So you have a whole bunch of moving variables that with only five each in each category, you're probably not going to get your answer. You might get some leading indicators, but you could get false positives very easily. As long as you're aware of that, I don't have an issue with it.
+
+**Matthew Panzarino:** I'm just pointing out that I think you might see a bunch of false positives and false negatives.
+
+**Matthew Panzarino:** Yeah.
+
+**Robert Yuen:** Because five isn't enough, and then you have all these external factors that it's going to weigh in on if those articles get cited at all.
+
+**Robert Yuen:** Yeah.
+
+**Robert Yuen:** The only way to truly do it, which is actually would never work, is to do the exact same article 15 times.
+
+**Robert Yuen:** Yeah.
+
+**Robert Yuen:** And, you know, in all those categories.
+
+**Robert Yuen:** But that means you're producing 15 of the exact same articles to see what  happens.
+
+**Robert Yuen:** That never logically make any sense.
+
+**Robert Yuen:** Yes.
+
+**Matthew Panzarino:** So we are still designing this experiment.
+
+**Matthew Panzarino:** It's not going to happen right away.
+
+**Matthew Panzarino:** And I agree with you.
+
+**Matthew Panzarino:** The reason I just used five is because I was trying to, like, scope out, how would this even feel like?
+
+**Robert Yuen:** I'm still feeling it out.
+
+**Robert Yuen:** Fine.
+
+**Matthew Panzarino:** Fine.
+
+**Matthew Panzarino:** My gut is, like, if we engine...
+
+**Matthew Panzarino:** We literally have a data scientist, and I'm not going to do this without engineering the program with them first.
+
+**Matthew Panzarino:** So they will probably tell me the same thing you did.
+
+**Matthew Panzarino:** They're like, what?
+
+**Matthew Panzarino:** Five is not going to do anything, which is fine.
+
+**Matthew Panzarino:** We'll figure it out.
+
+**Matthew Panzarino:** But I think what we're going to do is try to engineer it so that we are writing.
+
+**Matthew Panzarino:** Yes, there will be different topics.
+
+**Matthew Panzarino:** I don't think the same article is the right way to go.
+
+**Matthew Panzarino:** It would never work.
+
+**Matthew Panzarino:** But we'll do topics with similar, very close, keyword difficulties and volumes.
+
+**Matthew Panzarino:** So, yes, it won't be like a one-to-one, but it will reduce the variance in that, at least in that world, a little bit.
+
+**Matthew Panzarino:** So we'll design that experiment, and we'll come back to you with it.
+
+**Matthew Panzarino:** And we'll, of course, let you know when we start running it.
+
+**Robert Yuen:** Yeah.
+
+**Robert Yuen:** Mai asked you when you present the results of this experiment.
+
+**Robert Yuen:** Yes.
+
+**Robert Yuen:** The one thing that I would care more about is time on page.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Yeah.
+
+**Robert Yuen:** Let me make a note of that. Right. Like, there's a bunch of variables that impact the top of the funnel in terms of it being cited, and I just talked about it.
+
+**Robert Yuen:** There's a lot of variables there.
+
+**Robert Yuen:** But once things do get started and we do get traffic and attention to that page, we know the person who got there wanted to be there. Then the thing that really matters is who's staying the longest? Is the Q&A a really good design format because people like having Q&As? Do people really like TLDRs at the top?
+
+**Robert Yuen:** The time on page is a much better measure based on human experience and not just citation performance from LLMs.
+
+**Robert Yuen:** Yeah.
+
+**Robert Yuen:** And I would almost always weigh, even if we might get better performance on the top end, as long as it's reader friendly and we're averaging longer duration of time on page, that's probably the right answer.
+
+**Matthew Panzarino:** Yeah, I agree.
+
+**Matthew Panzarino:** I mean, human readability at the end of the day is going to bring you more attention, improve your rank, and have a higher likelihood of an actual qualified lead.
+
+**Robert Yuen:** I'm going to remind everyone that obviously, we do a lot of things to optimize the mechanics of the business, but at the end of the day we serve people.
+
+**Robert Yuen:** And we can measure how well we serve people based on sales and CX metrics, but in this case, how long someone stays on page and reads the content is the metric.
+
+**Robert Yuen:** If someone just lands and leaves, the average duration is like two seconds, it's probably bad content.
+
+**Robert Yuen:** If someone stays for a minute or two to five minutes, or even 10 minutes, then we have a much higher degree of confidence that the content is good.
+
+**Matthew Panzarino:** Yeah.
+
+**Robert Yuen:** Legible and exciting and all the above.
+
+**Matthew Panzarino:** Yep.
+
+**Matthew Panzarino:** We'll make sure that's part of the experiment.
+
+**Matthew Panzarino:** I think it's...
+
+**Matthew Panzarino:** That's a very valid reminder.
+
+**Robert Yuen:** We do spend a lot of time in optimizing for machine land, and it's always nice to tie it back.
+
+**Matthew Panzarino:** Yeah, sounds good.
+
+**Matthew Panzarino:** OK, anything for me?
+
+**Matthew Panzarino:** Anything that we need assistance with, aside from your experiment, Chris, were talking about?
+
+**Robert Yuen:** No, not for me.
+
+**Robert Yuen:** Chris?
+
+**Chris Morgan:** Nope.
+
+**Matthew Panzarino:** OK, cool.
+
+**Matthew Panzarino:** All right, we'll keep cruising.
+
+**Matthew Panzarino:** Should have some Reddit samples for you, think, later this week.
+
+**Matthew Panzarino:** And then I think we'll be ready to start publishing next week, as long as we can build the publishing pipeline.
+
+**Robert Yuen:** I'm we could.
+
+**Matthew Panzarino:** Great.
+
+**Robert Yuen:** Yeah.
+
+**Robert Yuen:** Actually, I got one quick question for you, Panzo.
+
+**Robert Yuen:** Yes.
+
+**Robert Yuen:** In your other relationships with other clients, who's your point of contact on the marketing team?
+
+**Matthew Panzarino:** Oh.
+
+**Robert Yuen:** Head of growth.
+
+**Matthew Panzarino:** Head of growth.
+
+**Robert Yuen:** growth.
+
+**Robert Yuen:** Head
+
+**Matthew Panzarino:** It's variable, head of growth, CMOs sometimes, obviously, if the company is a little bit smaller, head of content, head of content marketing is a lot of them, you know, very specifically, but that scales, obviously, as the company gets bigger, there's just more cooks in the kitchen, more people that need to, you know, validate their job for existing.
+
+**Matthew Panzarino:** So, I have like one client with like six people on every call, and I'm like, you know, you have to read the room and who's actually making the decisions, things like that.
+
+**Matthew Panzarino:** But yeah, I think head of content or head of growth is the most common.
+
+**Robert Yuen:** Okay, cool.
+
+**Matthew Panzarino:** And if you need something with a bigger statistical sampling, I can, I can poll internally.
+
+**Matthew Panzarino:** If you're trying to figure out who to assign, who to like, how to file this job, you know, happy to gather some internal marketing intelligence for you.
+
+**Robert Yuen:** Well, I've hired two demand gen individuals.
+
+**Robert Yuen:** want to separate the two.
+
+**Robert Yuen:** My deal was one of them will own the relationship with GrowthFacts, and I can hand the baton over.
+
+**Robert Yuen:** And then they'll lead essentially all of our SEO, GEO, keyword, website, traffic, CT, is it CRO?
+
+**Robert Yuen:** There's a lot of acronyms.
+
+**Matthew Panzarino:** Efforts.
+
+**Matthew Panzarino:** Yeah.
+
+**Robert Yuen:** And I was just curious if that's like a common persona that you normally see.
+
+**Matthew Panzarino:** Yeah, I think that would be like a GTM or head of growth type, right?
+
+**Matthew Panzarino:** And I think that's absolutely who we would interface with a lot.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Especially in your stage.
+
+**Robert Yuen:** What I'm going to do is send you both of their LinkedIn profiles and their final presentations that they gave me before we extended the offer letter. I'm asking if you could spend five minutes and look over both of them, then tell me who you'd like to be your liaison.
+
+**Robert Yuen:** I like you, but like I can't be here forever.
+
+**Matthew Panzarino:** No, no, I get it. Yeah, sounds good. I appreciate that.
+
+**Robert Yuen:** Happy to.
+
+**Matthew Panzarino:** Yeah, my pleasure.
+
+**Matthew Panzarino:** Yeah, and if you ever need any content people, I just know a lot of people in that universe, too, so always happy to run up the flag for you if it comes down to that and you end up needing to build a team internally.
+
+**Robert Yuen:** But yeah, sounds good.
+
+**Robert Yuen:** Chris runs all of our content now.
+
+**Robert Yuen:** He just made his first hire, which I'm really excited for.
+
+**Matthew Panzarino:** Ooh, awesome.
+
+**Matthew Panzarino:** Congrats.
+
+**Chris Morgan:** Yeah, so the SEO, unless we kind of prove it out otherwise, we are considering it like a distribution channel for sure.
+
+**Chris Morgan:** And so for the time being, content will still oversee organic social as a channel and maybe like a podcast.
+
+**Chris Morgan:** But we're trying to get to a place where the demand gen folks oversee distribution channels.
+
+**Matthew Panzarino:** Yeah, makes sense. So we focus on content engineering for all those channels.
+
+**Chris Morgan:** Well, I guess I'd be kind of curious from how growthx operates, because you're basically, you have two sides.
+
+**Chris Morgan:** You have the working backwards from these different channels, like Reddit, GEO, SEO.
+
+**Chris Morgan:** Those are all channels, but you do have these content engineers that are constructing a model of the client, and then turning it into packaging for those channels.
+
+**Chris Morgan:** But the packaging is not just that content person's worldview, but it is also the channel manager's worldview, and they're coming together.
+
+**Chris Morgan:** That's how Robert and I have been talking about this, that those two sides are sufficiently complex at either end, but they do always have to work together.
+
+**Chris Morgan:** But I'd be kind of curious to hear how growthx thinks about this problem.
+
+**Matthew Panzarino:** I think, yeah, let me put some thoughts together for you, Chris. I do have some thoughts on this, obviously, but I don't know if two minutes is the right time frame. Let me put some thoughts together — they may be helpful to you, or they may not, because it's not a one-on-one overlap, obviously, the way we work.
+
+**Matthew Panzarino:** But I think that a lot of it really boils down to working, always working backwards from outcomes and then being agnostic about application.
+
+**Matthew Panzarino:** I think that we have one of the advantages of being like a tooling company is that we don't, like the form that things take does not dictate whether or not we want to tackle the task.
+
+**Matthew Panzarino:** Because I think a lot of, like, agencies, as an example, are like, oh, we have a bunch of subject matter experts in this kind of content or this kind of channel.
+
+**Matthew Panzarino:** And so, therefore, that's what we
+
+**Matthew Panzarino:** Sell, right?
+
+**Matthew Panzarino:** And instead, we are trying to sell the outcomes, like being honest about reporting, being transparent about that, and then pushing in ways that we know, obviously, intellectually and quantitatively can affect those outcomes, but then being agnostic about the form that it takes.
+
+**Matthew Panzarino:** It's like, okay, cool, we're doing this Reddit experiment, like, what, are you going to hire a Reddit agency?
+
+**Matthew Panzarino:** You can, but are they also going to help you with content?
+
+**Matthew Panzarino:** No.
+
+**Matthew Panzarino:** And now there's an additional channel you have to liaise with and, like, align with your goals, right?
+
+**Matthew Panzarino:** So I think working, like, outcomes backwards and then being agnostic about application is generally the way that we work.
+
+**Matthew Panzarino:** I don't know if that really meets up with the approach of a company that has, like, a finite set of goals and people that can take on tasks, but just as an example, if somebody's like, hey, we really need to work on, evergreen domain authority.
+
+**Matthew Panzarino:** Uh, if I, if we, if they contracted us for a work stream to write editorial, you know, Bofug blog posts to drive conversions, I can tell them, Hey, I can just do something completely different for you.
+
+**Matthew Panzarino:** This is probably not going to achieve those goals, right?
+
+**Matthew Panzarino:** Like, maybe a previous marketing person had contracted us to do this.
+
+**Matthew Panzarino:** But now you've got a new person in, you've got a new outlook on life and you want to do like evergreen link generation, demand generation, domain authority stuff.
+
+**Matthew Panzarino:** We can just scrap that stream of work and then fire up a new stream of work that builds you out an index.
+
+**Matthew Panzarino:** Like a programmatic index of 300-500 pages that provides domain and link back authority, and maybe even functions as a tool that drives people to cite it, link it, and utilize it externally.
+
+**Matthew Panzarino:** And that kind of thing is like the way we work.
+
+**Matthew Panzarino:** It's agnostic in those terms.
+
+**Matthew Panzarino:** We want to drive the right outcomes.
+
+**Matthew Panzarino:** We don't really care about the way, not care, care is the wrong word, but we are not concerned with like, oh, well, this is all we have to sell.
+
+**Matthew Panzarino:** So I need to hard sell you on this particular work stream.
+
+**Matthew Panzarino:** So when you're thinking about this internally, don't get too wrapped up in a person's specialized experience.
+
+**Matthew Panzarino:** Like if you're bringing in new demand gen people and they have done like a lot of content work in the past and have worked in a certain modality, I would encourage them to be like flexible tooling agnostic and even content shape agnostic and try to really just first principles backwards from the outcomes that you want, because that will provide you, I think, with long-term benefits that far outweigh any near-term wins you might have in SEO or, you know, traffic or anything like that.
+
+**Matthew Panzarino:** So agnostic execution, I think, is the way to summarize it. Work backwards. Think about your goals. What are some interesting ways to do this?
+
+**Matthew Panzarino:** And don't just hew to your previous experience.
+
+**Matthew Panzarino:** What if you had to do it all over?
+
+**Matthew Panzarino:** What if nobody ever told you this is the right way to do it?
+
+**Matthew Panzarino:** Was this the way you would do it?
+
+**Chris Morgan:** Cool, thanks for sharing that.
+
+**Matthew Panzarino:** And yeah, if you want to send us some more thoughts and keep going, that'd be great. Happy to.
+
+**Matthew Panzarino:** And hopefully it's not too much board salad.
+
+**Matthew Panzarino:** It's just, it is, it's really fun.
+
+**Matthew Panzarino:** Like I find it incredibly energizing after like 15 years working in content where there were a lot of accepted standards of the ways that you had to make things and the way things were created to work at a place where we are incredibly tools agnostic, very automation forward, very interested in whatever gets the job done.
+
+**Matthew Panzarino:** And it allows me to package all of the stuff that I dislike or find annoying into automations, which then allows me to spend more time on the things I love, like strategy.
+
+**Matthew Panzarino:** Taking a few minutes to step back from something and think about the philosophy of a piece of content that we're about to ship.
+
+**Matthew Panzarino:** Does this actually match with the goals that we're putting out there?
+
+**Matthew Panzarino:** And when you get in the content world and people are cranking out work, you get into these ruts — either from the way you approach content, what you're good at, or what the public perceives you as good at.
+
+**Matthew Panzarino:** And then you end up having to run that road forever. And that sucks because you get bored, and you honestly miss opportunities because you think the opportunity cost is too high to do something else.
+
+**Matthew Panzarino:** But if you find a way to automate that or use the right tooling, the opportunity cost could be zero, which is pretty fun.
+
+**Robert Yuen:** We got to run.
+
+**Matthew Panzarino:** Sorry, guys. I did say two minutes was too short. Thanks, folks. Have a good one.

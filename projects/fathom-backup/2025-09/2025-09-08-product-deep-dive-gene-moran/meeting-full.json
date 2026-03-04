@@ -1,0 +1,4334 @@
+{
+    "title": "Product Deep Dive (Gene Moran)",
+    "meeting_title": "Product Deep Dive (Gene Moran)",
+    "url": "https://fathom.video/calls/401822619",
+    "created_at": "2025-09-08T20:54:44Z",
+    "scheduled_start_time": "2025-09-08T20:00:00Z",
+    "scheduled_end_time": "2025-09-08T21:00:00Z",
+    "recording_id": 85757380,
+    "recording_start_time": "2025-09-08T20:00:35Z",
+    "recording_end_time": "2025-09-08T20:54:35Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How's your Monday starting?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, pretty good.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "A fast start to the week.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "A lot of things cooking right now.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I'm in the same boat.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We have a lot of counterparts in London, like a lot of people I work with.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So day starts at, you know, as soon as you wake up, pretty much the team's messages are flying in.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I've got a little bit of that.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Some of the people that are working with me on hyperexponential are in India, one's in Africa, one's in Bosnia.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So it's just like somebody's working all around the clock.",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So at some point I just drop my notifications.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "You get the every time zone covered there pretty much.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "A blessing and a curse.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But thanks for taking the time today.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm not sure how much or how little context David provided prior to my outreach.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Happy to.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I spoke with David.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Big kind of in passing, you mentioned a little bit of the context around this, and yeah, happy to dive into it.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I have a bit of an idea, but any additional context you can provide I think would be helpful.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, so you can kind of treat this as like a customer demo or sales kind of product walkthrough, but for us, it's really just kind of understanding core features, functionality, and like for each one of the products, like who are the main buyers, personas that it addresses.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But yeah, overall, you can kind of just treat it like a, you know, if it was a sales demo or product demo.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Got it.",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Anything else before we go into it?",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I don't think so.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Unless you got any questions I can answer.",
+            "timestamp": "00:01:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Maybe one question.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Maybe this is.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's something I have to straighten out with David.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So something you were asking was about our portfolio intelligence capabilities that are coming out as well as submission triage.",
+            "timestamp": "00:02:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I'm just wondering what the end product of this looks like because those two products in particular are a bit like nebulous roadmap type items that are evolving a little bit.",
+            "timestamp": "00:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But like portfolio intelligence, probably more so.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We're really like launching submission triage next week or the week after next at a big like U.S.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "summit we're having called HX Live.",
+            "timestamp": "00:02:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We're really like unveiling it there.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But those two in particular are kind of like in their infancy as far as like products that we're coming out with.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So I'd say a little context on GrowthX.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we're going to be helping.",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think both in the U.S.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "kind of break into the market, but also for like your legacy kind of U.K.",
+            "timestamp": "00:03:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "business, more so putting out content that's relevant to the audiences in which you guys serve.",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So a lot of actuarial audiences underwriting chief information or chief digital officers here in the U.S.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so the content that we generate is going to be based off like what are their needs, pain points, how are they kind of thinking about products like yours?",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so for us to get just the context around these products helps us just to kind of identify, you know, what are the pain points that they, you this product or product suite is trying to solve for them.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So even if it's, you know, nebulous or kind of a roadmap item, there's probably still some insights that you have on like, why are we building this product?",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What's, what's it solving?",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How are we going to push it to the market?",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And so, yeah, a lot of, a lot of the content we will generate is.",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Very audience focused.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "so I'm going to dig into like the product was built for X reason for X audience.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I think then probably for this session, makes sense to speak to those two items, portfolio analysis and submission triage and our thoughts around that and why that's coming out.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then for the core platform of HX Renew, which really focuses on the pricing and rating, that I can dive into a little bit deeper, show some of the product here, give our normal, usual top track around that.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, sounds great.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I can open up my screen then.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Kind of go through a typical HX Renew top track here.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is going to give me an issue.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Shoot.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Google me.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I the screen sharing permissions.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You might have to grant permission and then leave and join again.",
+            "timestamp": "00:05:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Looks like I might need administer permissions as well.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I don't typically use Google Meet.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Would Zoom be better?",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Let me see.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Do I have the desktop version of that?",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Maybe a question to the outputs here.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "The way David described them is like it takes the transcripts.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Growthx would take the transcripts and then like put those into, like use those as the input.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Essentially, is the screen share component of it like something that's an input as well?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "No, I think that's just for human understanding.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we won't see the video into it.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We just take the transcript.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Let just see here.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Let's see if that works.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Are you seeing that now?",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Oh, cool.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's good, then.",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I'll back up and figure it out.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So I'll walk through this.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is a typical demonstration that we gave.",
+            "timestamp": "00:07:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It doesn't have a lot of tailoring around it, but what, yeah, a typical process of demoing HX Renew.",
+            "timestamp": "00:07:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So HX Renew, essentially what it is, is the pricing and rating platform, both for underwriters and actuaries.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Now, as a part of the entire underwriting workflow, there's a number of steps that happened prior to this, usually in an upstream system, like a policy administrator.",
+            "timestamp": "00:07:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Now, what we usually see is people doing a process like this in an Excel rater that has all of these different inputs from third parties.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "You need manual re-keying.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "There's a lot of pain in the process of an underwriting.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "The writer moving throughout their Excel rater to come up with a price that they eventually pass on that.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Within HR Renew, the actuary on their side uses Python to build out the entire process that you're seeing here that goes from the inputs and outputs, the different actual positioning of the different items you see on the screen here, and can put it into a paginated view where you step up.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Page by page through the underwriter workflow to come out with a price at the end that you'll eventually move back into one of the systems of records that you have as part of your architectural stack there.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we'll start off this.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is a professional indemnity line of business specifically.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And there's a number of different inputs we're going to use to ultimately come up with a premium that we'll move forward with.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So one of the big parts of HX Renew that makes it incredibly valuable for the underwriting workflow is the ability to connect with the other systems.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So in this first example here, we actually have a policy administration system that sits above this, a duck creek, a guide wire, something of that nature.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And we're actually going to pull all of the records there that we then we can use as reference material.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "For everything to come after this.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So I'll choose an example here.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And we're just going to pull this data.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is the kind of high-level data that we're then going to import to get a better view exactly of what's in there.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we can see all of this information is in one place here without having the underwriter having to re-key any of that.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "What we can do now is take this and then move it and use it again in each subsequent step that we have for the entire life of the workflow there.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Once we have a little bit of the policy details, we're going to do a few steps here.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Sanction screening, financial API, Moody's analytics, which essentially just brings in third-party data sources that we have.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And make sure that everything looks correct prior to actually moving forward with it.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And we're enriching the data that exists within there.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So this one might be actually that that talk track.",
+            "timestamp": "00:11:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, we'll skip through that.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's OK if I bounce around a little bit, right?",
+            "timestamp": "00:11:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, yeah, absolutely.",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "OK, yeah.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "OK, yeah, let's change this.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We're going to change the assured name to Apple Inc here.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Then this is going to change here in one of our fields that we can use here.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So this Apple Inc, this is the assured name.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "You can actually see in this top right here, this is a calculated field, but we can manually override this.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "If an underwriter wants to change this for whatever reason, usually you'll see that.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "With different fields, actual.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So values that are calculated, sometimes there's a case where we might manually override them.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I'll show what that looks like a little bit later on.",
+            "timestamp": "00:12:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But we have this information here.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Now I'm going to call to a third-party API, specifically a financial API that's going to look at all of the companies that match Apple.",
+            "timestamp": "00:12:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And we're actually going to pull a stock ticker here.",
+            "timestamp": "00:12:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then now we're enriching this with two third-party data sources.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "One is actually ChatGPT, where we can get information on this specific brand, Apple, some of the things it does at a high level.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This information can be useful for a number of different things.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And you can imagine having a prompt here where this can be tweaked essentially to have any type of information that you want coming in that's relevant to the pricing journey.",
+            "timestamp": "00:12:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Along with it, we have a financial API in here where you can actually see the stock history and the ticker data.",
+            "timestamp": "00:13:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Once again, fully customizable to whatever makes most sense for the information that the underwriter will want to get across here.",
+            "timestamp": "00:13:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Just to confirm, these steps, it's underwriters are the main user.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's right.",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So I can go into it a little bit after what it looks like for the actuary side, but essentially they are building everything that you see here.",
+            "timestamp": "00:13:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We have a development environment that's embedded directly in the platform where the underwriter, the actuaries would use pure Python to build everything that you're seeing here.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "You is I'm Thank",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is another example of a third-party integration that we see people use.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we're actually looking at Moody's here.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That is actually, let me change the city and country here.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Once we change that information, it's going to pull the correct apple here.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then we're going to get all of this data that we can enrich the price and journey with.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Should be the right one.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Let me move through this one.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But essentially this is, oh, here we go.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So this is a connection with Moody's.",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So all of this information would be, it's like stored in a place you can access.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Like if you have a Moody subscription here, we're making it easier, even less of a touch, where we can just put this on a single pane of glass in a dashboard here for someone to look at.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And now actually these inputs here, like operating revenue, that might be an input that goes into the algorithm that affects what the professional indemnity premium that eventually goes forward for this carrier.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So not only are we surfacing this information, but we can actually take this, use them as inputs further down as we're coming up with pricing and rating, so on and so forth.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Usually as well within the demo, there's like, think That's Of I",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "A good amount of like back and forth, give and take too.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "If you have any like questions as well, like I know I'm kind of just doing the monologue here just because, you know, just trying to get the information across.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But if you do have any questions, please let me know.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, we'll do.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Moving on a little bit through this then as well.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We'll go through this.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So this revenue number here, that's a good example of something we pulled from the financial API.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That number comes directly in here now.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And now we can kind of move through the actual work split details.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Now this is specific to this line of business of professional indemnity.",
+            "timestamp": "00:16:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we're going to fill out certain things here.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "figure it",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Like a percentage of the type of work that they do.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "The validations are going to come in place here.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "You know, so that term from red to green.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Now that this is validated, we can actually move things through a state where if we want to move this from a draft to a bind, those actual statuses can reflect real parts of the workflow.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So like sending it back to a policy administration system where it ultimately gets quoted and bind and moves forward there.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "All of these validations that we put in place kind of protect the underwriter, the actuary, making sure that we have strong governance in place.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Just to make sure that nothing's slipping through the cracks here where some of the alternatives don't have the same type of validation to make sure that we're only moving forward with things that we are actually pricing and are real policy options.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So some of what that also looks like is the history here.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is a good time to show this.",
+            "timestamp": "00:18:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So every single step that I have shown so far actually shows up in a history pane here where this is auditable, searchable.",
+            "timestamp": "00:18:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is all API driven as well.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we can call on this information too.",
+            "timestamp": "00:18:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And that's a stark difference to some of the realities of what a lot of big carriers have who are not pricing on HX for new.",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "There's not a lot of information around the changes that are made as an underwriter is going through the pricing.",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Now, this is helpful for the auditability, as I mentioned, but also for the ability to have a relationship between the underwriter and actuary.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "If we can actually kind of look at a replay like this and see how the underwriter is actually using.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "The pricing tool in Raider that has been put forth, it can actually add to the synchronicity of what changes we want to make.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "How do we iterate on this?",
+            "timestamp": "00:19:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "How do we improve it?",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's a very big part of it as well.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "A lot of times, we'll advise customers on putting out the rating tools quickly, getting feedback, iterating on that, and making it better continually.",
+            "timestamp": "00:19:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And we have the technology guardrails in place, where we put them in a position that they feel very comfortable to do that fast generation without worrying if things will break or what will happen as far as a version history perspective.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So, we'll do a last part of this risk information, where we just look at the account assessment.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We can see we're going to give them a grade essentially on each of these items here.",
+            "timestamp": "00:20:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And this is an area where the rating adjustment, given years in business, for example, is going to change the actual rating adjustment here.",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But if we want to override this directly and, you know, for whatever reason, change the weights, we can do that.",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's going to ask us to provide a comment here.",
+            "timestamp": "00:20:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And once we've done that, that's a satisfactory response.",
+            "timestamp": "00:20:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And we're actually incorrect validation with the model.",
+            "timestamp": "00:20:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So it's essentially saying that, yeah, you're in bounds here.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Even a comment, there's an area we can look at just to make sure that you're not incorrectly using the model.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And all of these tasks have been finished, when they're validated, it's saying the policy must be peer-reviewed before being bounced.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's the last validation error.",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Not so much an error, but before we can move on from this, that's what's in place there, just to put some guardrails around it there.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is the actual pricing of the option itself.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "From each of the previous steps, we have everything in here from the revenue to the base rate, all of the account assessment adjustments that we've made.",
+            "timestamp": "00:21:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And with this, we have the base premium calculations that have been put out.",
+            "timestamp": "00:21:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Out here, and now we can start putting options together for this.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So, I think that's a good limit.",
+            "timestamp": "00:22:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So, I've put together one option here.",
+            "timestamp": "00:22:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "You can add additional rows if you'd like to have other options.",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's usually the relationship between carriers who are pricing here.",
+            "timestamp": "00:22:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They'll often want to go to a broker with a number of different options and work backwards from there.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So, you can provide an area on here where you can do that price multiple options at once directly within this policy option, or you can actually...",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So, you...",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So that in another way within the platform where you have multiple options going outside of themselves and kind of like start this up again.",
+            "timestamp": "00:23:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So there's a few different ways to do that.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But, you know, we have a team of model developers ultimately who can advise on all of that.",
+            "timestamp": "00:23:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we're happy with our options pricing, we can go forth and do a bit of portfolio analysis.",
+            "timestamp": "00:23:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So this is a big portion, I would say, here of portfolio analysis at the point of pricing.",
+            "timestamp": "00:23:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we are going to look.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's actually not right.",
+            "timestamp": "00:23:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:23:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's not right as well.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Let's get these numbers right.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So now we're looking at a portfolio analysis where we achieve the, we look at the loss ratios for this risk in particular and see how it stacks up against the rest of our book.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And underwriters can do this before they actually go ahead with the book, with the, with the pricing rather.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we can see, you know, we want to compare it to all policies within.",
+            "timestamp": "00:24:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "In the United States, or specifically for accountants, we can look at the different things here.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And all of this is just like pure Python in the background, using a library where you can have these type of charts put in directly.",
+            "timestamp": "00:25:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So that's helpful.",
+            "timestamp": "00:25:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And this is a number of other analytics that we can look at where you can see, you know, what the strength of this risk looks like versus some of the other stuff in our book.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And all the charts here are useful in a number of different ways.",
+            "timestamp": "00:25:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And as I mentioned, fully customizable here.",
+            "timestamp": "00:25:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is a last one real quick that we can look at.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So a lot of people have processes in place where they want to get something reviewed by a peer before they can move forward with it.",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So this is actually an integration with a third.",
+            "timestamp": "00:25:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Group party system like Teams, where this is going to go send a message off into a channel or an individual.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I actually have that.",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I don't have to show it right now, but we'll get a message.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We can look at that, pull it up.",
+            "timestamp": "00:26:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's going to open up the UI of HX for New.",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They can peer review it, market as peer reviews, and then it's good to go from there.",
+            "timestamp": "00:26:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That would happen from somebody actually clicking an email option here as well.",
+            "timestamp": "00:26:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, and then we can move on from there, quote it.",
+            "timestamp": "00:26:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is another ability to create a quote document here.",
+            "timestamp": "00:26:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We actually get a file from this that we can look at that shows all the inputs that came in here.",
+            "timestamp": "00:26:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Some people use that actually for an auditability standpoint, like we want to see the inputs in here.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "In some cases, in some U.S.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "admitted markets, they actually need something like that.",
+            "timestamp": "00:26:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Some people use like a workbench for that capability.",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "workbench?",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "use use but",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Others can do it directly within here using the Python backend.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They have that full optionality as well.",
+            "timestamp": "00:27:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, and that's essentially high level, quick, what the platform looks like.",
+            "timestamp": "00:27:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "An example, one underrated workflow for a professional indemnity model.",
+            "timestamp": "00:27:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, for, can give me just like a two sentence, like, HX Renew is for actuaries and underwriters, the purpose of?",
+            "timestamp": "00:27:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, best in class pricing and rating for insurance carriers and MGAs.",
+            "timestamp": "00:27:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:27:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, I just like to get those little snippets into the transcript.",
+            "timestamp": "00:28:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:28:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we've seen HX Renew.",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So all that right there is really the flagship product that is what was built eight years ago.",
+            "timestamp": "00:28:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So it's really like, you know, what most people use us for.",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:28:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And typically, I think you mentioned it during the early part of the demo.",
+            "timestamp": "00:28:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Most teams that don't have a platform like HX Renew are doing this in Excel.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, that's the biggest, I'd say, competition that we face.",
+            "timestamp": "00:28:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Usually it's people that have accelerators in place.",
+            "timestamp": "00:28:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Peace.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Peace.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Peace.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Peace.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Peace.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Peace.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Peace.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And they want to, we want to convince them to move off of that.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Do you have like an estimate of like how much time they would save using your guys' products versus continuing to use it in Excel?",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So, yeah, that one's a bit tricky because honestly, the initial investment, the time savings are not like, you don't see the time savings initially.",
+            "timestamp": "00:29:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Initially, actually, there's a bit of investment to get up and running on this.",
+            "timestamp": "00:29:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "The benefit can come from the scalability that we offer.",
+            "timestamp": "00:29:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So a lot of the problems people face in Excel is like if you have super complex risk, which that's actually probably also in the one liner, like where the pricing and rating platform specifically built for complex.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "The more complicated the risk gets and the more complicated the model gets, those workflows don't really scale in Excel.",
+            "timestamp": "00:30:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Excel isn't built for integrating the other data sources that you have in there.",
+            "timestamp": "00:30:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then if you want to get up quicker, you'll probably use Excel, but you're starting a new line of business from Fresh and you do it in Renew, you give yourself a lot of ability to capture that scale in the long run too.",
+            "timestamp": "00:30:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Because a lot of problems these big carriers face is actually around, they can't actually write all the business that comes to them.",
+            "timestamp": "00:30:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's why they're using like MGAs and other sources.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "There's just too much to write.",
+            "timestamp": "00:30:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Half of what comes to them, they just have to get rid of because they don't have, there's not enough hours in the day to get through all of this.",
+            "timestamp": "00:30:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we give you the option to get through things quickly, safely, reliably, in a way where",
+            "timestamp": "00:30:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "You can put changes to pricing models that you can feel confident in actually putting together technical premiums for everything that's coming through.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That, yeah, you can just do it in a more reliable, scalable way.",
+            "timestamp": "00:31:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:31:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then, yeah, if we can just talk through submission, ingestion, triage, and then whatever you have on portfolio intelligence.",
+            "timestamp": "00:31:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, have a tip.",
+            "timestamp": "00:31:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So those two items are really outside of pricing and rating specifically.",
+            "timestamp": "00:31:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So if you look at the insurance pricing workflow, portfolio analysis kind of happens at the end once everything's been priced and done there.",
+            "timestamp": "00:31:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Submission triage is a pre-pricing capability at the front end.",
+            "timestamp": "00:31:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And that kind of a little bit what I just spoke to earlier, like a lot of the big carriers face the problem of not being able to give their underwriters the correct things to even, first of all, they have a problem with the actual volume.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Like there's too much business out there.",
+            "timestamp": "00:32:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So when underwriters ultimately do decide to work on pricing certain risks, we want to make sure that they have the best things in front of them to work on.",
+            "timestamp": "00:32:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we have, and this goes in tangent with the data ingestion agent, which is another capability that we have.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And this one's live, but this looks at submissions.",
+            "timestamp": "00:32:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Usually these are like for property, it's like an accord submission, which is essentially just a giant PDF with a bunch of information in it about actual like properties.",
+            "timestamp": "00:32:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And that gets submitted into our data ingestion agent, which uses.",
+            "timestamp": "00:32:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "AI to take out all the information that's within there and then can actually map that to what I just showed earlier, the actual data schema of the model that has been built before.",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And with that, we can use that Python engine in the backend to calculate a lot of the different information that's in these submissions and we can extract, enrich it, and then prioritize those broker submissions to automatically reject certain things.",
+            "timestamp": "00:33:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "If we need to flag things for underwriter review, or we can, in some cases, automatically accept submissions, quote things, move it forward if a carrier wanted to prioritize speed in particular.",
+            "timestamp": "00:33:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:34:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I'm taking notes to fill in some gaps with the transcript.",
+            "timestamp": "00:34:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it not catching everything?",
+            "timestamp": "00:34:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, it may, but I have like a personal note taker that.",
+            "timestamp": "00:34:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Oh, cool.",
+            "timestamp": "00:34:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:34:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "To fill in the stuff.",
+            "timestamp": "00:34:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:34:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So is that good for submission, ingestion, and triage?",
+            "timestamp": "00:34:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I guess, is there a different audience outside of like who would be looking to?",
+            "timestamp": "00:34:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So that's a good question.",
+            "timestamp": "00:34:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's interesting the way we've seen it evolve in the U.S.",
+            "timestamp": "00:34:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So a lot of large carriers who are a lot of our current customers, that's Stompo, Markel, Munich Re.",
+            "timestamp": "00:34:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "AIG, all these giant carriers that we've captured first in the UK with our UK-based business.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "These are all like behemoths who, from a tech stack perspective, want to go after the best in class for each point solution.",
+            "timestamp": "00:35:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That means having the best policy administration, the best underwriting workbench, the best claim system, broker portal, and then pricing and rating as well.",
+            "timestamp": "00:35:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So for them, because they, you know, have so much capital and revenue, like they can justify the cost of doing something like that.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And the Lloyd's market is the biggest market in insurance, essentially, which is the UK business.",
+            "timestamp": "00:35:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So a lot of like, a lot of just insurance runs through that.",
+            "timestamp": "00:35:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "The US market actually has a lot, they have like large insurers too.",
+            "timestamp": "00:35:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Of course, they have huge ones.",
+            "timestamp": "00:35:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But for, like, ENS risk and, like, large, complex PNC, property and casualty insurance, we see a lot of, like, MGAs are popping up, which I forgot to ask, Erik, too, like, do you have, like, a big involvement with insurance in particular, or, like, knowledge?",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "You don't.",
+            "timestamp": "00:36:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:36:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So probably some of the stuff I'm saying here is, yeah.",
+            "timestamp": "00:36:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's not to be dangerous, but, like, for these types of conversations, I like to act like I know nothing because it's better for the transcript anyway.",
+            "timestamp": "00:36:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "A hundred percent, yeah.",
+            "timestamp": "00:36:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So the MGAs are these managing general agents, which, taking on the capital risk, but can write the business on a carrier's paper on behalf of them.",
+            "timestamp": "00:36:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And what that allows them to do is actually solve for them some of that.",
+            "timestamp": "00:36:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's issue where the carriers can't write enough.",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They have the capital.",
+            "timestamp": "00:37:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They just don't have the capacity to write everything.",
+            "timestamp": "00:37:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So they'll hand some stuff off to these MGAs who can take it and be very specific on one thing, like Inland Marine in Mississippi or something.",
+            "timestamp": "00:37:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "If they're very good at that, they can take that and run with that.",
+            "timestamp": "00:37:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So those MGAs we're speaking to a lot, and there's a ton of them in the U.S., and that model is actually really getting popular right now.",
+            "timestamp": "00:37:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Those customers in particular are asking for their insurance software to do a lot more.",
+            "timestamp": "00:37:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They want the pricing and rating.",
+            "timestamp": "00:37:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They want that tied in with the source of truth in the policy administration system.",
+            "timestamp": "00:37:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's something they have to solve first, ultimately.",
+            "timestamp": "00:37:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then they may want a submission triage as well, where they have some pre-pricing here so they can actually decide what to work on.",
+            "timestamp": "00:37:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "If they're working with multiple carriers, they have a lot.",
+            "timestamp": "00:37:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I mean, in, they want AI and automation to decide what are the best risks for them to even look at in the first place.",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So we see the more down market we go, the more people are asking for out of their insurance technology solutions that they're buying.",
+            "timestamp": "00:38:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So the submission, ingestion, and triage, those guys, MGAs are kind of core audience for that specific or will be kind of audience for that specific product line.",
+            "timestamp": "00:38:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, but I'd be careful.",
+            "timestamp": "00:38:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I don't want to say it's not for the big boys either, like the people at the top.",
+            "timestamp": "00:38:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It is for everybody, but I think we see the smaller you are, the more you're asking from us.",
+            "timestamp": "00:38:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Not just pricing rating, but...",
+            "timestamp": "00:38:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Portfolio analysis, you want us to be a source of truth, want us to be a data platform, you want us to be an underwriter workbench and pricing, where the larger companies are more comfortable with having just point solutions at each set.",
+            "timestamp": "00:39:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Gotcha, that makes sense.",
+            "timestamp": "00:39:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And that's unique to what we're hearing in the U.S.",
+            "timestamp": "00:39:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "too.",
+            "timestamp": "00:39:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right, and then any talk tracks or specifics on portfolio analysis, any kind of differentiators that we need to know about there?",
+            "timestamp": "00:39:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, so portfolio analysis is something we're hearing a lot in the U.S.",
+            "timestamp": "00:39:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "that people are pretty attuned to.",
+            "timestamp": "00:39:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So I actually showed a little bit in the demonstration.",
+            "timestamp": "00:39:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "What we call the portfolio intelligence part of it, or portfolio analysis, kind of interchangeable there.",
+            "timestamp": "00:40:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's at the point of pricing, where in that example, you can pull information from a source of truth, get it into a portfolio analysis chart there, and look at everything before you bind a risk.",
+            "timestamp": "00:40:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Portfolio intelligence, the capabilities we're coming out with, actually gives you the ability to view, analyze, steer your business, not just at the point of pricing, but at a higher level.",
+            "timestamp": "00:40:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We can look at the whole portfolio at any given moment, really, not just as we're writing something.",
+            "timestamp": "00:40:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So there's a few big parts of the capabilities within this.",
+            "timestamp": "00:40:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Batch rating is something that you can do in the platform currently, but it's like, there's stuff coming out around this, where it...",
+            "timestamp": "00:40:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So, yeah, there's a lot more coming for batch ratings in particular.",
+            "timestamp": "00:41:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Let me just look at a few notes here.",
+            "timestamp": "00:41:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That's where David was mentioning, like, say there's a new cybersecurity threat.",
+            "timestamp": "00:41:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I can go into my portfolio and look at, like, what's the risk across everyone versus just having to go in each individual account.",
+            "timestamp": "00:41:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Exactly, yeah.",
+            "timestamp": "00:41:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So you can re-rate large groups of policies at one moment to see where you're essentially exposed.",
+            "timestamp": "00:41:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Where's the, like, what would this look like with this new information?",
+            "timestamp": "00:41:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:41:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then, yeah, there's ways where you can look at granular portfolio metrics, like, and ultimately what you're trying to achieve as a business, so you can segment things out by line of business, where it's written.",
+            "timestamp": "00:41:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "What underwriters writing it, anything you have as an input, you can dig into that and see how your book looks, how different scenario analysis could affect it.",
+            "timestamp": "00:42:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's like an impact analysis or dislocation analysis.",
+            "timestamp": "00:42:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I've heard it called as well.",
+            "timestamp": "00:42:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's when you can use like, what if scenarios simulate changes across the portfolio too.",
+            "timestamp": "00:42:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "That's kind of all tied together there, the batch rating, the dislocation analysis.",
+            "timestamp": "00:42:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But it adds on like a whole nother layer outside of what we see in, in the actual just pricing and rating module, which forever, like that was the platform, like just that pricing and rating piece that I showed you.",
+            "timestamp": "00:42:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It adds a whole new module where you can see a reporting layer with everything that's been written.",
+            "timestamp": "00:42:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It adds like.",
+            "timestamp": "00:43:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "you.",
+            "timestamp": "00:43:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Data management, it replaces a large swath of BI tools and other ways that people were already doing this in the past, but it directly puts it on the platform.",
+            "timestamp": "00:43:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So this, I think, this capability in particular will be big, again, with those down market folks that are asking for more out of any tech spend that they have, where some of the bigger carriers, they're going to continue to use data platforms like Databricks, Snowflake, Palantir.",
+            "timestamp": "00:43:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "A lot of those large ones do have those in place and probably might do some portfolio analysis with us, but largely are going to aggregate everything into a data warehouse or a data lake and use that as a source of truth.",
+            "timestamp": "00:43:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "For all the reporting that goes on.",
+            "timestamp": "00:44:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So they can use it for, like you said, the big data providers and clouds for what's happening, but are they able to do kind of that batch rating?",
+            "timestamp": "00:44:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, so, yeah, no, that's a good point.",
+            "timestamp": "00:44:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They wouldn't, yeah, unless they like use our APIs within that platform, which is something they can do.",
+            "timestamp": "00:44:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Everything you saw through that little demo and like anything that an underwriter can do on the platform can also be an API that's called in any other system.",
+            "timestamp": "00:44:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So that's like a huge part of the architecture, but they wouldn't be able to do that without like some level of lift and involvement there.",
+            "timestamp": "00:44:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So there is an advantage just to having that directly on the platform.",
+            "timestamp": "00:45:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:45:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Anything else we haven't chatted through yet?",
+            "timestamp": "00:45:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I think that's a big part of it right there.",
+            "timestamp": "00:45:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I hope the demo is all right.",
+            "timestamp": "00:45:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I'm myself, I'm a solutions architect, so I'm not giving the demos like day in and day out.",
+            "timestamp": "00:45:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "have before, but it's, yeah, that's like a high level, quick and dirty one.",
+            "timestamp": "00:45:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:45:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think we've got what we need.",
+            "timestamp": "00:45:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If it ever comes to light that we need more, I'll ask David.",
+            "timestamp": "00:45:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I think we got to the key features and functionality.",
+            "timestamp": "00:45:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "functionality.",
+            "timestamp": "00:46:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We've got got We've got got",
+            "timestamp": "00:46:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let's through the three big ones that David wanted us to touch on.",
+            "timestamp": "00:46:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Actually, there's one thing I'm remembering now that maybe we didn't discuss is the actual back end for the actuaries themselves.",
+            "timestamp": "00:46:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:46:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So everything I showed in the beginning, the underwriters as they go through the actual pricing journey of the inputs, calling the different information, all of that, that's all enabled and built here in the back ends by the actuaries or, you know, the model developers on a team.",
+            "timestamp": "00:46:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then we're going in, everything you see here is just like native Python.",
+            "timestamp": "00:46:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "If you make a change in here, it's going to show up in the actual model itself.",
+            "timestamp": "00:46:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And then...",
+            "timestamp": "00:46:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And there's like a secret sauce within here too and how all this works.",
+            "timestamp": "00:47:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So like the rating.py, for example, I assume in here, this is like a deterministic algorithm that every single time there's a keystroke or a click in the platform or an underwriter makes a change, this rating.py file runs through.",
+            "timestamp": "00:47:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So it means anytime you're doing anything in there, it constantly is updating, making sure that the price and everything in there is updating right away.",
+            "timestamp": "00:47:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Where we also have like a tasks file in here where this is where like async tasks run.",
+            "timestamp": "00:47:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So like a button I clicked for different things in there.",
+            "timestamp": "00:47:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "These happen anytime you want to take an action that would be done in a different file here for things to move forward in that way.",
+            "timestamp": "00:47:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "There's a few clever things within here.",
+            "timestamp": "00:48:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's not like a pure development environment or an IDE.",
+            "timestamp": "00:48:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "There's specific things in here that are unique to HX, where it's really the three components of the algorithms, the actual data schema itself, so the data that goes into it, and then we have the view as well, where we have custom React components, which is JavaScript here, but it's, like, only within the HX world of what goes in here, but this just is what the front end looks like, and that's just the other component to it.",
+            "timestamp": "00:48:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:48:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So these, you said this is specific to actuaries?",
+            "timestamp": "00:48:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:48:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is, yeah, this is only really the actuary side of the platform.",
+            "timestamp": "00:48:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They'll come in, do this, underwriters will use the outputs.",
+            "timestamp": "00:48:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:48:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:48:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:49:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And having, like, an integrated development environment like this has a lot of advantages, too, where you can have version history, you have a lot of controls around it, you understand who is working on what.",
+            "timestamp": "00:49:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But, and, like, the alternative to that is an Excel model where, sure, there might be, like, some version history, but it's, like, very spotty as opposed to, like, a development environment like this.",
+            "timestamp": "00:49:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yes, I can imagine Excel, you know, auto-stating every five to ten minutes, and you get every five to ten minute version of it, but then you can't see exactly what changes are made.",
+            "timestamp": "00:49:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, yeah, we've heard a lot of horror stories there, people trying to update these models that are probably, like, the biggest Excel files you've ever seen, just, like, beasts, and it's, like, trying to maintain version history with this.",
+            "timestamp": "00:49:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Good luck.",
+            "timestamp": "00:50:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Sounds like something that I would be interested in.",
+            "timestamp": "00:50:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:50:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:50:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Anything else on this kind of integrated workspace?",
+            "timestamp": "00:50:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is something, too, which is something we're coming out with, the actuarial agent.",
+            "timestamp": "00:50:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's actually in beta stages now, so we do have some customers using this, actually.",
+            "timestamp": "00:50:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But this is essentially a chatbot that is aware of the context of your model, and you can ask it to build something, and it's actually going to come in here and build out the Python directly in your file.",
+            "timestamp": "00:50:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "If you say, I want a professional indemnity model that has a financial API call in there to this specific website, Yahoo Finance, or something like that, it can then go in there and build all of that for you.",
+            "timestamp": "00:50:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Now, this is a pretty cool capability.",
+            "timestamp": "00:50:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We're pretty excited about it.",
+            "timestamp": "00:50:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's in beta.",
+            "timestamp": "00:51:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's not...",
+            "timestamp": "00:51:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "It's like perfect right now, but it's like something that's can go a very long way for helping people get up on the platform pretty soon.",
+            "timestamp": "00:51:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Like some of the pushback we hear sometimes is that certain people are a little bit scared of like the Python, for example.",
+            "timestamp": "00:51:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Like we speak to teams who have actuaries that don't know Python, they'd have to learn it.",
+            "timestamp": "00:51:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "This is a way to get a shortcut for people who want to like build stuff quickly.",
+            "timestamp": "00:51:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "They can use AI directly in the platform that's aware of some of that specific syntax that's unique to HX that was mentioning earlier and get a head start and like spin things up like new lines of business very quickly.",
+            "timestamp": "00:51:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "And it's only going to get better as the frontier models get better and the capability just expands.",
+            "timestamp": "00:51:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's pretty awesome.",
+            "timestamp": "00:51:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:52:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:52:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "A cloud code for actuaries.",
+            "timestamp": "00:52:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:52:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:52:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "No, this is really cool.",
+            "timestamp": "00:52:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I think that's pretty much everything now.",
+            "timestamp": "00:52:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:52:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:52:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Well, Gene, appreciate the time and the walkthrough.",
+            "timestamp": "00:52:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We'll use all this to kind of update some of our artifacts that will generate some content for you guys.",
+            "timestamp": "00:52:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess I'll be in touch if David wants us to go another deeper route, but I think for his product deep dive past, this is good enough.",
+            "timestamp": "00:52:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:52:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:52:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Happy to help, Erik.",
+            "timestamp": "00:52:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:52:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Happy to help again, too, if we need anything.",
+            "timestamp": "00:52:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We have a team of, as I mentioned, I'm a solutions architect.",
+            "timestamp": "00:52:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We have a broader field engineering team.",
+            "timestamp": "00:52:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "My job is, like, mostly focusing on the integrations.",
+            "timestamp": "00:52:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:53:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Customers look at with their other systems.",
+            "timestamp": "00:53:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Our solutions engineers are really only focused on like HX Renew and the platform itself.",
+            "timestamp": "00:53:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "We have a lot of people that are like ex-actuaries that work within the platform and just like demo it all day.",
+            "timestamp": "00:53:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "So maybe if like you need like a second pass or something like that or a follow-up, I can put you in touch with some of those guys.",
+            "timestamp": "00:53:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Utsav and Pernob on our team are, you know, world class at that.",
+            "timestamp": "00:53:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:53:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:53:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "I will keep you posted on that one.",
+            "timestamp": "00:53:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "But if we need to get another deep dive, more of like a sales call one, then we'll let you know.",
+            "timestamp": "00:53:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:53:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Gene",
+                "matched_calendar_invitee_email": "gene.moran@hyperexponential.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:53:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, appreciate the time, Gene, and enjoy the rest of your Monday or hopefully not too much longer.",
+            "timestamp": "00:53:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, likewise.",
+            "timestamp": "00:53:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thanks, Erik.",
+            "timestamp": "00:53:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Have a good one.",
+            "timestamp": "00:53:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You too.",
+            "timestamp": "00:53:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "See you.",
+            "timestamp": "00:53:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:53:56"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Product deep dive on hyperexponential's insurance technology platform, focusing on HX Renew, submission triage, and portfolio intelligence capabilities.](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [HX Renew is a best-in-class pricing and rating platform for complex insurance, used by actuaries and underwriters](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=458.0)\n  - [New capabilities in development include submission triage (for pre-pricing workflow) and portfolio intelligence (for post-pricing analysis)](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=1917.0)\n  - [Platform offers significant advantages over Excel-based workflows, particularly for complex risks and scalability](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=1809.0)\n  - [Target customers range from large carriers to smaller MGAs, with varying needs for integrated vs. point solutions](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2086.0)\n\n## Topics\n\n### HX Renew Overview\n\n  - [Core pricing and rating platform for insurance carriers and MGAs](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=458.0)\n  - [Replaces Excel-based workflows with a more robust, integrated system](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=469.0)\n  - [Key features:](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=557.0)\n      - [API integrations with policy admin systems and third-party data sources](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=582.0)\n      - [Customizable workflow with Python-based backend for actuaries](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=823.0)\n      - [Real-time pricing updates and validations](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=517.0)\n      - [Auditability through comprehensive change history](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=1086.0)\n      - [Portfolio analysis capabilities at point of pricing](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=1412.0)\n\n### Submission Triage and Ingestion\n\n  - [Pre-pricing capability to manage high volumes of submissions](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=1917.0)\n  - [Uses AI to extract and map data from PDFs (e.g., ACORD forms) to pricing models](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=1975.0)\n  - [Allows for automatic rejection, flagging for review, or acceptance of submissions](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2015.0)\n  - [Particularly valuable for MGAs and smaller insurers seeking integrated solutions](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2253.0)\n\n### Portfolio Intelligence\n\n  - [Post-pricing analysis tool for viewing and steering business at a portfolio level](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2386.0)\n  - [Key capabilities:](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2451.0)\n      - [Batch rating for rapid portfolio-wide updates (e.g., in response to new cyber threats)](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2495.0)\n      - [Granular metrics segmentation by various factors (LOB, geography, underwriter)](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2521.0)\n      - [Scenario and impact analysis for portfolio changes](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2535.0)\n  - [Competes with dedicated BI tools, especially attractive for smaller insurers](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2595.0)\n\n### Actuarial Development Environment\n\n  - [Integrated Python-based environment for actuaries to build and maintain pricing models](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2808.0)\n  - [Features version control and collaborative tools](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=2944.0)\n  - [Includes \"Actuarial Agent\" (beta) - an AI assistant to help build models using natural language prompts](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=3039.0)\n\n## Next Steps\n\n  - [GrowthX to use information to update content artifacts for hyperexponential](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=3145.0)\n  - [Potential follow-up deep dive with solutions engineers if more detailed product information is needed](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=3152.0)\n  - [Gene available to assist with any questions about system integrations](https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi?tab=summary&timestamp=3169.0)\n"
+    },
+    "action_items": [],
+    "calendar_invitees": [
+        {
+            "name": "gene.moran@hyperexponential.com",
+            "email": "gene.moran@hyperexponential.com",
+            "email_domain": "hyperexponential.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Gene"
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        }
+    ],
+    "recorded_by": {
+        "name": "Erik O'Brien",
+        "email": "erik@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/6xycUVwRKoC4ZfiJw_hHpx71dxLZLshi",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

@@ -1,0 +1,3964 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Hey everyone, Ritesh is Abhishek joining us, I believe he should be joining us, but let me Slack him.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay, Cameron, Dylan, just wanted to check why, like we generally are doing a couple of redirects like www, then we have right now removed the www subdomain.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, any reason for it?",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "Sorry, this is something that you're seeing that we have done on our end?",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "Yep, on the text side.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Like, the blogger first getting indexed with the www subdomain, but now, the domain gets redirected to the naked domain, there is no subdomain anymore.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That shouldn't matter though, right?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "Like all browsers use www as the default.",
+            "timestamp": "00:01:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "So whether it redirects to www.firework.com or just firework.com, like is there a functional problem?",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "No, so the idea is whenever we keep doing this redirects, we are eventually creating redirect chains like list.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So that's I just want to check on that.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "Are we going to redo it?",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "What's the plan?",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "So I can alter the redirects, no problem.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "I definitely don't mind doing that.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "My fear, since you're just bringing this up to me now, is like we've had a couple more stakeholders, namely the Japan team being a lot more active in the site.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "And these are some of the things that I've",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "Tried to tell them to not edit, but that's the only thing that I can think of, because I haven't made any major changes to any 301 redirects recently, so do you have that info, what redirect chains are problematic, and what I should sort of focus on, because otherwise it's sort of like a needle in a haystack situation, right?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Got nothing problematic, I'm just worried, like, so, okay, I'll just say you just overlooked somebody.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "Dude, I know what you mean, like, creating near infinite or infinite redirects chains is bad for SEO, so I do want to tackle this problem, but I just, yeah, I don't know where to begin searching, so if you have any sort of, like, reproducible cases.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, let me look at that and get back to you on that, on the exact cases.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay, thank you, that would be great.",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Prateek, have pinged Abhishek, I think he wasn't like sure if we would have the data this week because you were not keeping well.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "I did let him know that, you know, we are going ahead with the call, so I'll just see if he's able to join.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I'll, so shall I start sharing?",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, I think let's, let's go ahead and we'll see if Abhishek is also able to join.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So updates from last week, overall 430 articles are developed, nothing developed post our last week's call.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "The backlog of last week 10 articles will be pushed by Wednesday and this week's articles will be pushed by the weekend.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So there's a backlog running because I was not available.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That backlog I'll cover it by Wednesday and this week's articles which will have to be published actually.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Before the Thursdays call, I'll push it by the weekend.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Prateek, can you share those list of articles on the growthx channel if you haven't?",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "I'll do that.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Yeah, because there's so many discussions happening, and we want to make sure everybody has visibility in terms of what we are publishing for last week and week.",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Done.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Done.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Abhishek had asked to audit the blog performance against US leads specifically.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That is done.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "I'll be sharing that too.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Add date to the top lead generating blogs.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That's also done.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Then he had also asked for last quarter's blog performance.",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That's also done.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "And the tariff blogs related to industry and e-commerce.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I have done that.",
+            "timestamp": "00:04:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We have the below topics, which I'm suggesting, the new topics.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So we have already done on footwear and footwear and industry.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "These two have already been done.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We can work on Beauty, CPG, Electronics, and Passion, that's another one.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Apart from that, these are industry-specific, and then some are e-commerce-specific, like Global Detail e-commerce.",
+            "timestamp": "00:05:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Then one is a generic one on all kinds of brands, and then one is on the small e-commerce businesses.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay, and this is what you plan to publish next week?",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Yep, this week.",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So if these are approved, then I'll be publishing them by this weekend.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay, and the ones that are done are part of the lab.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "being published.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "They're already being published.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Yeah, Abhishek just told me he's going to be joining in a minute or two, so maybe we can also run this by him once he joins.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Let's just wait.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "What was your suggestion?",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Yeah, he said he's just joining in a minute or two, so I think it might be a good idea for us to just quickly wait before we get.",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Especially I know like he's looking forward to that data analysis, so that's something I think I'm sure he would have feedback on about it.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Winnie Ng",
+                "matched_calendar_invitee_email": "winnie@fireworkhq.com"
+            },
+            "text": "Let me wait for Abhishek.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Winnie Ng",
+                "matched_calendar_invitee_email": "winnie@fireworkhq.com"
+            },
+            "text": "Sorry if I missed it.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Winnie Ng",
+                "matched_calendar_invitee_email": "winnie@fireworkhq.com"
+            },
+            "text": "Did we have any VivaTech blogs published last week?",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "No, no.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "What was the update?",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "It will be published by Wednesday.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Winnie Ng",
+                "matched_calendar_invitee_email": "winnie@fireworkhq.com"
+            },
+            "text": "Oh, okay, okay.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Winnie Ng",
+                "matched_calendar_invitee_email": "winnie@fireworkhq.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "was not, I was a bit unwell this whole week.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So that's where the backlog has come in and I'll be publishing it by Wednesday.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay, got it.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Yeah, I think Prateek that's why we all need visibility to every week like which blogs we are publishing because I think we need to know like what are you focusing on because there's so many action items.",
+            "timestamp": "00:06:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "So every week and so many priorities.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "So So",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "So, yeah, let's use the Slack channel for all this communication, I feel like, you know, we have a weekly meeting, but we can always be proactive and share these things on Slack.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Can we start, like, performance for last week?",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Oh, Abhishek is here, perfect.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "So, Abhishek, TLDR, Prateek has a backlog of, like, 10 blogs from last week, and 10 blogs he's supposed to publish this week, so he's aiming for, like, publishing 20 blogs this week, so.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "So, why was the last week's blogs not published, like, technical issue, or?",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "No, not technical issue, I was out of office, I was sick, so I'll get them done by this Wednesday, and then this week's 10 blogs.",
+            "timestamp": "00:07:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Weekend, I should be able to publish them.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay, got it.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Regarding the blog performance against US leads, I'll be sharing the research.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I've added the date and I've also did the last quarter's blog performance.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I've done that also.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "These are some tariff blogs which you had suggested related to industry and e-commerce that we had to find.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, we have already published two on footwear and foot and beverage industry.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We can work on beauty, CPG, electronics, fashion is another one.",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, that becomes industry specific.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I have two on e-commerce.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "One is on global retail e-commerce and one is on small scale e-commerce.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "And then one is a generic one which is not on any specific industry but neutral.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Can you send me some of these articles, Prateek?",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Prateek, Ritesh, and Sam.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "What we need to be aware of here is, while the tariffs are there, we need to give people alternatives.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "What can we, what can they do efficiently?",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "That is where I want to make sure like we introduce firework or we introduce like video as a channel, things like that.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Sometimes direct, sometimes in a subtle way, we need to introduce those things.",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So, because while tariffs sounds crazy, which it is, we just cannot make the blog very negative.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So, I want say like, hey, this is how firework can help.",
+            "timestamp": "00:09:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "This is how we can make it efficient.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In, in general, behavior of the, of the consumer is changing from image to content to image to videos.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "We'll, we'll have to get some of those things.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So, Prateek, if you can send us some of these things, we can make some edits.",
+            "timestamp": "00:09:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And send it back.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Done, Prateek.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, I'll be.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, sharing this by the Friday or something.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I should be able to share the content for these.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And going forward, what I would like, Prateek, is maybe, Sam, you can take lead on this because you are also, on our end, Sam is also working on thought leadership content, Prateek.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So it would be good for us to sort of cross-pollinate where we feel like we can better the blog by adding these things.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In the same way, can also use, like, I want to take a look at, like, what you are publishing, which could be helpful for us also.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Sam working more, getting more inputs from each other, basically.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Done.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, Abhishek.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "In terms of the performance, overall monthly performance, month A, we were able to publish 46 articles.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We have generated 8,200 clicks with 3 million impressions, 30% growth in impressions.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Upclicks have been stagnant.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "There has not been a major growth or anything compared to the growth in impressions.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In terms of the leads.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Sorry, the leads that you are talking about.",
+            "timestamp": "00:11:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "This is in the month of May.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Ritesh, who is handling this 47 leads?",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Can we take a look at what occurred to those leads?",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "I think, yes, we can look at it, but I have to manually pull it.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Like, this is HubSpot data.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "I'll have to just check it with.",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Salesforce and figure out.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Let's do that.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And if, if it works better, maybe we can hand it off to Celine, who can do this also.",
+            "timestamp": "00:11:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, because some of it, at least gated content will be, anyway, she is the one who is handling it.",
+            "timestamp": "00:11:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And it's only the Heidi's piece that she may have to take over.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "But she is, since she is well versed, we can give these, we can find out who, these leads.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And rather, she can give more information on what happened to these.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, most of this would be gated content because the way we've designed these blocks is like most of these things, we are sharing playbooks and pieces of content.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So it'll work well for what we discussed today.",
+            "timestamp": "00:12:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Go ahead, Prateek.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Out of the 255 leads that we have generated, I've done an analysis of like country-wise how many leads we have generated.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So, is this 255 leads that we are talking about in this year?",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Total total?",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "From, yeah, August 2024, yeah.",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "What I would say is let us look at only January, Prateek, because we can, we are tracking more consistently since January.",
+            "timestamp": "00:12:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, I'll have this data updated from January.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, update this data and let us look at it.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, IP by country.",
+            "timestamp": "00:12:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "India 51.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, I'll just note it down.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Just give me a second.",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Sure, sure.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "I can try to analyze this data while we are on the call.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "will take me like five minutes probably, but I can do that.",
+            "timestamp": "00:13:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "So we have 51 from India.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So I don't get that.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "We have 51 from India, and for example, only six from Japan or China.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Is it more of a language barrier?",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Or, like, I'm thinking out loud here, Prateek.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Are your blog indexing higher from Indian IP than US IP?",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "No, from US IP.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Vincent was, when Vincent was there, he had some calls with the Indian people, the leads that were generated.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "And he found that people had the.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "randomly filled it.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "They were just like they were very early in the stage of the journey they were just thinking at volume like that that file exists across all countries.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Why are we seeing that only in India compared to China or Japan?",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Is it language?",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "it like United Kingdom technically is not language?",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "China?",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We don't rank it on language.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Definitely.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "In China, there's no Google.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "It's Baidu, right?",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So Baidu is the language.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "are not even there.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Japan again, our blogs are not like local language.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "are not.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So again, our ranking is minimal there.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Because mostly our blogs are in English.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Is there a ranking score that you guys do Prateek?",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "By country?",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "No, but if needed, I can do something around that.",
+            "timestamp": "00:14:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "do around like that.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "If you're asking for clicks by country, I can do it like for the top five, top ten countries.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "let's do that.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "a manual one.",
+            "timestamp": "00:15:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, let's do one, but can do it.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Should I pick up these top ten itself?",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yes, yes, yes.",
+            "timestamp": "00:15:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "You can pick up those top ten itself.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Done.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "These are the blogs that have generated the leads for US specifically, not for global.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We are looking at it right now.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Abhishek, one very important point to note is we migrated from Word, no, we were on WordPress to, sorry.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, we were on WordPress, migrated to Webflow in September.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So the creation date is when we migrated.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So it's not like, it's not that accurate, like a few blogs would have been published in July.",
+            "timestamp": "00:15:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "also got it, but my surprising piece is nothing that you have published this year.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "This year has generated anything, forget this year, nothing that you have published after November has not generated anything.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Cameron Brown",
+                "matched_calendar_invitee_email": "cameron@fireworkhq.com"
+            },
+            "text": "Just one blog in web.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So that means we'll have to re-look at what our blog strategy, Prateek.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "This is what I was hoping to find.",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Like the volume of blogs, all of that, to be very blunt, is meaningless.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "If these are the numbers that we are looking at.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So generating 40 blogs a month is meaningless if you are not even able to generate even 30 clicks.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "30 clicks?",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "As an example.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Clicks are in the...",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Now what you have here, your lowest is what, 10 clicks.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So, I don't want to assume, but, yeah.",
+            "timestamp": "00:16:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Let me rephrase that.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Like we, we can't even generate two leads out of probably a 200 blog content that you, that you have written, right?",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "If you do 40 per month, we have five months of data.",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "That is 200 blog contents.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Out of 200 blog contents, we have not been able to generate even two leads anywhere.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In a, in a one specific blog.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "You, even in any one specific blog.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In US, yes.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In US.",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "That's what I'm trying to say.",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So that means something is drastically, we need to, we need to cut the blog content.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And for me, even if I keep leads separate, even on the click side, I don't know what the top 10 clicks are.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "We can have that data.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "know what?",
+            "timestamp": "00:18:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Actually, you're right.",
+            "timestamp": "00:18:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Even if you do clicks, it's meaningless because out of three and a half thousand clicks, we got only two leads.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Two leads.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, we need to take a deeper look there, Prateek.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "From a content point of view, in terms of the kind of blogs we select in terms of research, that's something which you can look at.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Like what type of blogs that we publish that will generate more like position ourselves with the right PA that we are able to generate more leads.",
+            "timestamp": "00:18:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, we need to understand that.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Why we generate so much content that is not leading to leads.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "This is in terms of the last quarter.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "This is the blogs which have been published for April.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "add to has and",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "May, June, so June, just May, just got concluded right now, so that's where we see the performance from April, we started publishing them, and that's where the performance started coming in, and the performance, look, what does performance mean here, clicks, clicks and impressions, so you had asked for this quarter's block performance of what's happening to the recent published articles, are they ranking, are they generating any clicks or not, so these are the recent published articles, and they too are slowly improving in terms of the clicks and impressions.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "No, no, hold on for a second.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "This is not normalized, this is cumulative.",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "No, it is normalized.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So, so when you say recent published blogs, when, what is the time period of publishing the blog?",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "April, May, June.",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "April,",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Just one second, yeah, April, so it's, just one second, this I took it from April and May, these are the two months, yeah.",
+            "timestamp": "00:20:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "For the April and the May month, the blogs that we have published, what clicks and impressions they have generated.",
+            "timestamp": "00:20:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So this is where I feel it's cumulative, it's not normalized.",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "The reason is, you have eight weeks of data for blogs published in the first week of April.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "You have only one week of data for things published in the third month of May, so it is cumulative, you are combining everything.",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So the chart will always go up into the right, it will continue to go up into the right.",
+            "timestamp": "00:20:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Normalize means I want to understand which is the week for when the blogs are created that are...",
+            "timestamp": "00:20:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Leading to high engagement.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "As we dive deeper to understand what blocks are resonating, it becomes critical for us to identify those blocks.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So that's why we need to normalize this in some way, Prateek, because I want to understand, the reason why I asked for this data is I want to understand two things out of this.",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "When do we get the maximum maturity of engagement on a blog?",
+            "timestamp": "00:21:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "You mean by the time period?",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "By the time period.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Is it the first?",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Is it week three to week six?",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Is it week two to week four?",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "The one, I want to understand that.",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "The second one is which weekly performance?",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "No, no, the second one, actually, you answered.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "You answered, looking at the other one, looks like nothing from November has given as leads.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "three coming We'll in the",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I mean, only except for one, nothing from September has given us the leads.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So what I want to understand here is for this case, I think clicks can be the measure of metrics.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "We can look at like which week or which set of weeks do we get the maximum clicks?",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Not sure if I will be able to do that.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Let me check.",
+            "timestamp": "00:22:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "You have the data.",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "You have the data.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "The problem is the data is a bit like the problem is we have done lots of changes in the URLs.",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So it's very difficult to map it on week on week level.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So there have been a lot of changes in the URL.",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So that's a problem.",
+            "timestamp": "00:22:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "But why will there be changes in the URL?",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Because when you launch a blog, it has a URL.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Why will you change that URL?",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "No, I haven't changed it.",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So...",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Sometimes we have, that's what I was speaking, before you joined in, I was speaking with Cameron and Aram at itself.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We had the WW subdomain before, now we have removed that WW subdomain.",
+            "timestamp": "00:23:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "There's another instance.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "When you say now, when is now?",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In the last month, something around that.",
+            "timestamp": "00:23:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "One to two months.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, that is a month to two months.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, that is fine.",
+            "timestamp": "00:23:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Ah, before that, there's another change where, there was a forward slash, now a forward slash has been remote.",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Like, automatically, these are auto read Alex that have been done.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Except that there have not been any changes.",
+            "timestamp": "00:23:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "But, because of these changes.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "But at the end of the day, we can still map it, Prateek, because you already know the changes.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "If everything else is the same, except for www and forward slash, you can club all of that into one.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "It's the same article, same blog.",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Let me just see how to do it.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Currently, I'm doing it manually.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Let me see if I can do it or can I automate it?",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "me just have a look.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Take a look at it because for me this is really, really concerning that since September we have not gotten much from a lead standpoint.",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Lead point standpoint.",
+            "timestamp": "00:24:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And if we are optimizing for the lead, we need to work backwards.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So here what we can look at is anything when we are talking about like not video as a topic, right?",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Couple of articles are on video marketing, those kinds of things.",
+            "timestamp": "00:24:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Those are the keywords which I can concentrate more on in terms of the topics.",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I don't completely agree there Prateek because I don't have the data in front of me that Hey, in the last two months have we had these type of content.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:25:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "If you have had, then that doesn't say much.",
+            "timestamp": "00:25:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In the last two months?",
+            "timestamp": "00:25:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, in the last two months, you just now said video as a keyword.",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In the last two months, have we published articles where video has been the keyword?",
+            "timestamp": "00:25:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Hmm.",
+            "timestamp": "00:25:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "The reason why I say this here is, it's, I'm just a little, actually not a little, extremely concerned, that none of the articles, none of the articles after September has given us more than two leads.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:25:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "There are a lot of articles with single leads, I've just ignored them.",
+            "timestamp": "00:25:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Correct, correct, correct.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "More than two leads.",
+            "timestamp": "00:25:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "That is really concerning.",
+            "timestamp": "00:25:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "We are almost eight months since October, and we have not even one article giving us more leads.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "That is the reason why I want to understand the maturity of the article.",
+            "timestamp": "00:25:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So, I Yes, don't you.",
+            "timestamp": "00:25:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Let's check Khabhishek on that.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, check like that because what we feel is if these leads have come in like within a frame, most of these leads come in, I'm just making it up between week three and week five, that is a good indicator for us.",
+            "timestamp": "00:26:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Your basic theory is if it's between week three and week five of the blog publishing, the JANs week three and week five, maybe if it is March or April, by that time we should have generated that lead.",
+            "timestamp": "00:26:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, we should generate it.",
+            "timestamp": "00:26:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "want to understand when is that because for me, if you tell me like, hey, that what is that three leads, video marketing solution for success, I know it went in in September, but if the three leads came in October and nothing have come since, that is exactly what I want to know.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I'll give you the data.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "All the impressions that we gain on that is useless.",
+            "timestamp": "00:26:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So let, before I do that.",
+            "timestamp": "00:26:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "And this is on the week three and week five or something like that on the publishing.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Let me just give you on when this leads were generated.",
+            "timestamp": "00:27:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yes, do that.",
+            "timestamp": "00:27:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Let me just deep back to you.",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, okay, cool.",
+            "timestamp": "00:27:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Ritesh, do you have anything there or are you, remember you said you'll be able to find out?",
+            "timestamp": "00:27:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, just give me a moment.",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I'm just putting up a pivot table now.",
+            "timestamp": "00:27:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Got it, got it, got it.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Okay, okay, cool.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So, basically, okay, this is what my, in a way, concern was, Prateek, but it is okay.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I don't mind getting one lead for 40 articles each.",
+            "timestamp": "00:27:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "My only question is the lead volume should increase.",
+            "timestamp": "00:27:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And if you scroll up, if you scroll up the monthly leads, it is good that, say, for example, between April and May, we got like so much more leads.",
+            "timestamp": "00:27:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "good.",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "You",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "But it's a global level.",
+            "timestamp": "00:28:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "That's the only problem.",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Can we do this at US?",
+            "timestamp": "00:28:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, I'll have a look at it.",
+            "timestamp": "00:28:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Can we do this?",
+            "timestamp": "00:28:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, please do it at US.",
+            "timestamp": "00:28:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:28:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I think we have some takeaways here.",
+            "timestamp": "00:28:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "We already also know directionally there are a few issues that we need to address.",
+            "timestamp": "00:28:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "In terms of performance on the clicks and impressions basis, we have seen a dip in the clicks and impressions this week across all the articles like our existing articles while we were doing 300 almost we have come down to 50% and our growthx articles around from 1800 weeks have come to 1500.",
+            "timestamp": "00:28:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "A big challenge doing an audit of which blocks it is leading to.",
+            "timestamp": "00:28:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I'll be able to share it in more on Thursday's call because of change in URLs are not able to act.",
+            "timestamp": "00:28:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We articulate that, but I'll be able to share it in the Thursdays call, more detail insight, but can be one of the reasons is the AI mode has more B2B players, like if people start trying AI mode, then the clicks and impressions eventually will fall down, just have to closely monitor what's happening there.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I'm less concerned about, let me rephrase that, if we can maintain or grow leads, I'm less concerned about clicks and impressions, but if there is a correlation, and that is the reason why I want to know the time period.",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Got a time period, actually, the problem with time period is each blog has its own time period, can't just like categorize it, but that's why I'm just thinking, let the data speak, let the data speak, yeah, not sure how I'll do that analysis, let me just think about it.",
+            "timestamp": "00:29:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Slack me if you need help.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I know.",
+            "timestamp": "00:30:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I know how to do that.",
+            "timestamp": "00:30:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Slack me if you need help.",
+            "timestamp": "00:30:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "can.",
+            "timestamp": "00:30:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Abhishek, I have the data for this year's FormFills month.",
+            "timestamp": "00:30:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I can quickly share my screen.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So this is broken down by IP country.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "United States total 36 leads.",
+            "timestamp": "00:30:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "This is month-on-month breakup.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "June, again, not much data.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "I only had like a day's data, but this is.",
+            "timestamp": "00:30:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "and then India is closed second with 15 leads, followed by UK, and then Turkey and Canada.",
+            "timestamp": "00:30:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Something is not adding up here, Ritesh.",
+            "timestamp": "00:30:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "In Prateek's numbers, he had 75 for US, 51 for India.",
+            "timestamp": "00:30:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Because he looked at like a longer time window.",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "just looked at last.",
+            "timestamp": "00:30:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:30:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Because here.",
+            "timestamp": "00:30:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "the line there's the I that.",
+            "timestamp": "00:30:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "This sort of makes sense to me because I was surprised at how India was so close.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Here it's like 50% difference.",
+            "timestamp": "00:31:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Like US is like 2x India, more than 2x India.",
+            "timestamp": "00:31:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "This makes sense.",
+            "timestamp": "00:31:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "But here also this is throwing up its own issues.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Why Turkey?",
+            "timestamp": "00:31:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Why not other countries?",
+            "timestamp": "00:31:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "What about Japan?",
+            "timestamp": "00:31:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Japan is not even there in the top 10.",
+            "timestamp": "00:31:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Japan, I think they are hosting their content in a different place altogether.",
+            "timestamp": "00:31:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "So I don't know whether that is getting counted here or not.",
+            "timestamp": "00:31:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:31:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:31:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "No, this is good to know.",
+            "timestamp": "00:31:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I mean, at least one thing got validated.",
+            "timestamp": "00:31:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So yes, United States is still so much larger.",
+            "timestamp": "00:31:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "The next thing is maybe once Celine gets involved, I want to understand like what are the disqualification criteria?",
+            "timestamp": "00:31:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Or whatever, what are all of those things?",
+            "timestamp": "00:31:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, she did message.",
+            "timestamp": "00:31:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "So maybe you can just want to take a look at it.",
+            "timestamp": "00:31:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Thanks, Prateek.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Let's make sure on Thursday we have some of those data points.",
+            "timestamp": "00:32:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "But for me, at a high level, while there are leads increasing, for the volume and the effort, I would like to see a lot more leads.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And two, there is no patterns for us.",
+            "timestamp": "00:32:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I'm not telling there should be, but I would like to believe that we should be able to get a pattern because only then we can start scaling.",
+            "timestamp": "00:32:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "And it is for us to figure that out.",
+            "timestamp": "00:32:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I say, as all of us to figure that out.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:32:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "If you're able to find a pattern, then we should be able to double, triple down on it.",
+            "timestamp": "00:32:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "That's why I said keywords.",
+            "timestamp": "00:32:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "That's why I want to know the time period.",
+            "timestamp": "00:32:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I want to understand as much, as much metrics as possible.",
+            "timestamp": "00:32:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So for this Thursday, first thing is, I'll have this by month on month for US.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We are growing at global level and US level.",
+            "timestamp": "00:32:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Second thing is the leads which have come in 3, 3, 2.",
+            "timestamp": "00:32:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Whatever these leads have come in, what was the last date on when this lead was generated?",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:33:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "And as you told, if this was generated in October and post-October, nothing has generated, then that also does not mean anything.",
+            "timestamp": "00:33:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So we'll discuss that.",
+            "timestamp": "00:33:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, let us discuss that.",
+            "timestamp": "00:33:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "What it means is like, hey, the lifetime of the blog is very narrow.",
+            "timestamp": "00:33:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Like if everything, everything has been generated in October, then that means within the first eight weeks, we got the maximum.",
+            "timestamp": "00:33:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Got, uh, let's just see that.",
+            "timestamp": "00:33:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Yeah, let's see.",
+            "timestamp": "00:33:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "So there are two things.",
+            "timestamp": "00:33:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "One is, if it is still ranking and generating clicks, then as a user behavior change, because people came in in the first, people are still coming in.",
+            "timestamp": "00:33:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "It's not, it's not decent volume also there, Prateek, 134, if you look at it.",
+            "timestamp": "00:33:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "I, I suspect it is.",
+            "timestamp": "00:33:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Going to be peaking in the first few weeks itself, I can buy that argument for the 3,000 and the 2,000 clicks, but let us see, again, I don't want to assume anything, this is a hypothesis, but let the data prove or disprove the hypothesis.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "I'll add the date, I'll add the date here, when was the last time when the deal was in.",
+            "timestamp": "00:34:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Yeah, but what I want to address more importantly is how to develop a scalable pattern here, how to identify and develop a scalable pattern.",
+            "timestamp": "00:34:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:34:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Done.",
+            "timestamp": "00:34:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:34:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:34:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:34:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:34:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Thank you, Vishif.",
+            "timestamp": "00:34:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "We also have two points, I'll pick it up on Thursdays call, one is the custom backlinks, and then the author profiles.",
+            "timestamp": "00:34:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:34:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:34:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:34:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Prateek Gupta",
+                "matched_calendar_invitee_email": "prateek@growthxlabs.com"
+            },
+            "text": "Ritesh, do you need me on the other call?",
+            "timestamp": "00:34:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Ravav?",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "There was a loop of first 5-10 minutes, you can be there, just like follow-ups from last week.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:35:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Ritesh Kewlani",
+                "matched_calendar_invitee_email": "ritesh@fireworkhq.com"
+            },
+            "text": "Okay, thank you, Prateek.",
+            "timestamp": "00:35:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Abhishek Anjanappa",
+                "matched_calendar_invitee_email": "abhishek@fireworkhq.com"
+            },
+            "text": "Thank you, guys.",
+            "timestamp": "00:35:09"
+        }
+    ]
+}

@@ -1,0 +1,803 @@
+# Meeting with GrowthX
+
+<metadata>
+date: 2025-10-24
+time: 15:32 UTC
+duration: 30 minutes
+organizer: tyler@growthx.ai
+participants: Tyler Pavlas, Michael Katz, Ali Bury
+fathom_recording_id: 96637634
+fathom_url: https://fathom.video/calls/451551784
+share_url: https://fathom.video/share/ksZD4cX6CMXABFzbNjvDSpNoLfsrap7T
+source: fathom
+enriched_on: 2026-03-02 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Tyler Pavlas demonstrated GrowthX's AI-powered content creation platform to Michael Katz and Ali Bury at BitSight, showcasing how the "Content OS" approach combines sophisticated AI workflows with human expert oversight to scale content creation for LLM-related search queries. GrowthX commits to an 8-week strategy sprint to build custom personas, content roadmaps, and SEO analysis, then moves to daily publishing with fact-checking, cross-linking, and direct publishing to `bitsight.com`. BitSight can opt out before the 12-month execution phase, with GrowthX booked until end of 2025 but potentially available January/February 2026.
+
+---
+
+## Context
+
+BitSight is a cybersecurity and risk analytics company looking to scale their content marketing efforts to capture demand in the growing AI and LLM space. They currently have one full-time content person and are using basic ChatGPT, but are constrained by internal resources and uncertain whether hiring another dedicated person is the right path. This call was Michael Katz's second conversation with GrowthX — the first was a brief intro with their CMO (through introduction). Michael brought Ali Bury, their SEO lead, to the meeting to evaluate GrowthX's platform and workflows. Christie Ott, their content strategist, was also invited but couldn't attend due to end-of-quarter scheduling conflicts. Tyler Pavlas, a GrowthX salesperson, led the product demo, walking through the Engine case study and the article generation workflow to show how GrowthX can deliver daily publishing at scale.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- BitSight is interested in AEO (AI Engine Optimization) alongside SEO, a key differentiator for GrowthX's approach. Ali specifically asked about how GrowthX factors in LLM ranking factors and content structure differences for LLM consumption.
+- The workflow demo showcased GrowthX's multi-loop validation process (research → drafting → fact-checking), which addresses a critical concern Michael raised about proving ROI and knowing if content drives business results.
+- Potential for 100+ guides similar to the Engine case study (currently ~100 guides published), indicating scalable delivery model.
+
+**To GrowthX Business Development:**
+- BitSight is evaluating GrowthX earnestly (Michael is procurement-focused, brought in SEO and content leadership). Strong fit with stated need for scalable content OS rather than hiring another person.
+- Deal timing: Michael mentioned it's end of fiscal quarter (Oct 31), creating urgency. GrowthX is fully booked through 2025, but January/February 2026 are potential kickoff windows.
+- Capacity constraint: Tyler noted GrowthX limits to two kickoffs per week due to human-heavy delivery model, indicating premium positioning and scarcity.
+
+**To CheckThat:**
+- Ali's question about LLM ranking factors shows strong market awareness and demand for AEO visibility. BitSight is actively thinking about how to optimize for LLMs, not just Google.
+- GrowthX is already using custom knowledge bases and semantic search for content creation — potential case study for CheckThat's AI visibility platform.
+
+---
+
+## Overview
+
+- **End-to-End Partnership:** GrowthX acts as an extension of the BitSight team, handling all content creation, SEO/AEO optimization, and direct publishing to `bitsight.com`.
+- **AI-Powered, Expert-Guided:** The service uses sophisticated AI workflows for drafting and fact-checking, but all strategy, setup, and final review are managed by human experts (e.g., a former TechCrunch EIC).
+- **Phased Engagement:** An 8-week Strategy Sprint builds a custom content OS (personas, voice, roadmap). Publishing begins in week 5, and BitSight can opt out before the 12-month execution phase.
+- **Limited Availability:** Due to high demand and a human-heavy model, new client kickoffs are booked through the end of 2025, with the next openings in January/February 2026.
+
+---
+
+## Key Topics
+
+### BitSight's Content Challenge & Goals
+
+  - **Goal:** Scale content creation to capture a vast number of LLM-related search queries.
+  - **Constraint:** Limited internal resources (one full-time content person, basic ChatGPT use).
+  - **Need:** A scalable solution that avoids hiring another dedicated person and provides clear ROI reporting.
+
+### GrowthX's Solution: The "Content OS"
+
+  - **Model:** A "services as software" partnership combining AI workflows with human expertise.
+  - **Process:**
+    1.  **8-Week Strategy Sprint:**
+          - **Goal:** Build a custom "Content OS" to align AI output with BitSight's brand and audience.
+          - **Deliverables:**
+              - **SEO Analysis:** Keyword research (Ahrefs/SEMrush) and content refresh opportunities.
+              - **Topic Clusters:** A roadmap of assignments to build authority.
+              - **Artifacts:** Detailed personas, company context, and writing guidelines.
+              - **Knowledge Base:** Ingests BitSight assets (decks, transcripts) to ground AI output.
+          - **Timeline:** Publishing begins in week 5 after quality calibration. BitSight can opt out before the 12-month execution phase.
+
+### Execution: AI Workflows & Human Oversight
+
+  - **Brief Generation:** An agentic workflow creates detailed briefs from a topic, artifacts, and SEO data.
+  - **Article Generation Workflow:**
+      - **Research:** An agent generates a research plan and synthesizes findings, looping until a quality score is met.
+      - **Drafting:** An agent drafts the article, looping until it meets writing guidelines.
+      - **Fact-Checking:** An agent validates every sentence against sources. If validation fails, it suggests a rewrite for a human editor.
+  - **Human Oversight:** Experts manage workflows, make edits, and provide instructions.
+  - **Publishing:** GrowthX publishes directly to `bitsight.com` (blog section) to ensure seamless execution.
+
+### Reporting & ROI
+
+  - GrowthX provides dashboards to track performance and demonstrate ROI.
+      - **Looker Dashboard:** For content performance analytics.
+      - **Scrunch Dashboard:** For AI monitoring and performance.
+
+---
+
+## Action Items
+
+**Tyler Pavlas (GrowthX)**
+- Send Michael Katz the meeting recording, presentation deck, and content examples from the Engine case study
+- Follow up with Michael via email to keep the conversation going
+
+**Michael Katz (BitSight)**
+- Share the recording and deck with Ali Bury (SEO Lead) and Christie Ott (Content Strategist)
+- Review materials and follow up via email to continue evaluation
+
+---
+
+## Transcript
+**Michael Katz:** Hey, this meeting is being recorded.
+
+**Tyler Pavlas:** Yeah, great to meet you as well.
+
+**Tyler Pavlas:** Got any fun plans this weekend?
+
+**Michael Katz:** I don't think so.
+
+**Michael Katz:** Loki is okay with me.
+
+**Tyler Pavlas:** I feel you there.
+
+**Tyler Pavlas:** Sometimes, like, that's the best possible weekend that you can have, right?
+
+**Michael Katz:** Absolutely.
+
+**Michael Katz:** I think I forwarded this to two other members of the team.
+
+**Tyler Pavlas:** Yeah, and maybe you could just kind of catch me up to speed on, I guess, where things are at today.
+
+**Tyler Pavlas:** I spoke with Marcel briefly, but we are honestly experiencing the most demand I've ever seen in my life, which is a great problem to have.
+
+**Tyler Pavlas:** So I just kind of need you to catch me up a little bit on just the first conversation and how you guys are thinking about this evaluation.
+
+**Michael Katz:** Yeah.
+
+**Michael Katz:** So we had just a really brief intro call.
+
+**Michael Katz:** So we didn't get into a lot of depth.
+
+**Michael Katz:** We didn't really get into the product very much.
+
+**Michael Katz:** We didn't get into sort of things like pricing to understand level of commitment.
+
+**Michael Katz:** I think this call was really just to go a little bit deeper in terms of, you know, we spoke to him around our goals growing content.
+
+**Michael Katz:** And the one takeaway in terms of product was content creation at scale was sort of what I took away and the ability to maintain the content and to really help us create content specifically to address like the tons of different queries that are showing up within the LLM space.
+
+**Tyler Pavlas:** That's perfect.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** Um, I'm prepared to, you know, go deep into the product and give you complete clarity around pricing.
+
+**Tyler Pavlas:** Um, I think one thing Marcel mentioned like.
+
+**Tyler Pavlas:** Coming out of that last call is just maybe like a little bit of concern around, you know, the belief that content is the best channel to invest in.
+
+**Tyler Pavlas:** Just that being a bit unclear if, you know, you know, that I can't remember if it was like the head of marketing that was on the last call or the CMO.
+
+**Tyler Pavlas:** But, yeah, did you have a chance, I guess, to talk more about, you know, like why we believe content is like the best channel to invest in and what the ROI could be there?
+
+**Michael Katz:** So we, it was our CMO.
+
+**Tyler Pavlas:** Okay, that's right.
+
+**Michael Katz:** He was given an introduction through someone.
+
+**Tyler Pavlas:** Thank you.
+
+**Michael Katz:** Thank you.
+
+**Michael Katz:** Yes.
+
+**Michael Katz:** That obviously knew the GrowthX team well.
+
+**Michael Katz:** Content is something critically important to us.
+
+**Michael Katz:** I think what we were trying to understand is when you keep talking about content at scale — we have a full-time content person, we are using things like ChatGPT, but I think where we're struggling is creating the content needed for the vast number of queries that we might want to show up for, and then how do we maintain all of this content?
+
+**Michael Katz:** So no concern, we definitely believe in the value of content, so I'm not sure where that statement came from.
+
+**Michael Katz:** Maybe it was we didn't understand, which is the purpose of the call today, is to really understand how your platform enables us to do it in sort of like a scalable way, because we have limited resources, limited full-time people.
+
+**Michael Katz:** And so we're like, are we going to need like another dedicated person that manages this, or is this something that your platform helps with?
+
+**Tyler Pavlas:** I think that's where we were getting a little bit lost.
+
+**Tyler Pavlas:** That makes perfect sense, yeah, thanks for clarifying and just having a candid conversation with me on that.
+
+**Tyler Pavlas:** Until you've actually seen like the workflows that we use and how the experts are in the loop, yeah.
+
+**Tyler Pavlas:** Like, it is a, huh, like, how are they able to do this?
+
+**Tyler Pavlas:** Quality at scale and publishing daily and, like, you know, they're not experts on BitSight, right?
+
+**Michael Katz:** Like, how is that possible?
+
+**Michael Katz:** Exactly.
+
+**Tyler Pavlas:** So we can absolutely accomplish that.
+
+**Tyler Pavlas:** There's nobody in the waiting room on this side.
+
+**Tyler Pavlas:** It looks like Ali was the only one that accepted.
+
+**Michael Katz:** Did you ping her?
+
+**Michael Katz:** Let's just continue without her.
+
+**Michael Katz:** I know you're recording this, and so maybe if you could share the recording, I can share it with her.
+
+**Michael Katz:** Just a little bit of context to who I invited, and schedules have just been crazy.
+
+**Michael Katz:** End of October is our end of fiscal quarter, so it has been an exceedingly difficult, very busy time for us.
+
+**Michael Katz:** But Ali is on my team, and she leads our SEO efforts.
+
+**Michael Katz:** And Christy Ott, who I also invited that I saw declined, is our content strategist.
+
+**Michael Katz:** And so definitely relevant for.
+
+**Michael Katz:** The two of them.
+
+**Michael Katz:** And just everyone said they could make this time.
+
+**Michael Katz:** And then, of course, you find out like a day or two beforehand.
+
+**Michael Katz:** I'm like, I had you.
+
+**Michael Katz:** So I'm like, we'll just, you know, move forward.
+
+**Michael Katz:** And if we need to regroup, we can.
+
+**Tyler Pavlas:** Yeah, no problem at all.
+
+**Tyler Pavlas:** Cool.
+
+**Tyler Pavlas:** Well, let's jump in then.
+
+**Tyler Pavlas:** Should I just go right into like the platform and talk more about that?
+
+**Tyler Pavlas:** What would be most helpful for you today?
+
+**Michael Katz:** Yeah.
+
+**Michael Katz:** mean, so I think you have a sense of where we left off in terms of wondering how this can actually help us in where within what we're trying to do, this would play.
+
+**Michael Katz:** So like, as you show the platform, if you want to sort of like indicate those directions.
+
+**Michael Katz:** And then obviously reporting is another really big piece, which is we're trying to understand like we're creating all this content.
+
+**Michael Katz:** And one of the hardest things that people ask you is like, is it working like.
+
+**Michael Katz:** How do we know if the content we're creating is the right content, is driving business results?
+
+**Michael Katz:** So anything that you have to share along that line would be great too.
+
+**Tyler Pavlas:** Perfect.
+
+**Tyler Pavlas:** I'm going to pull up just a few specific resources around that and then we'll jump in.
+
+**Tyler Pavlas:** All right.
+
+**Michael Katz:** And thanks so much for your time.
+
+**Tyler Pavlas:** Yeah, absolutely.
+
+**Tyler Pavlas:** Absolutely.
+
+**Tyler Pavlas:** And I apologize.
+
+**Tyler Pavlas:** I've been running around all over the place a little bit and I'm actually leaving a little early today.
+
+**Tyler Pavlas:** So I went to Texas A&M and I'm a huge football fan and it's like the best year they've had since I've been alive.
+
+**Tyler Pavlas:** And so my aunt's picking me up and we're going to the game.
+
+**Tyler Pavlas:** They're playing at LSU and that's like a stadium I've always wanted to go to.
+
+**Michael Katz:** So amazing.
+
+**Tyler Pavlas:** In my head, I'm like already in the weekend a little bit.
+
+**Michael Katz:** That's all right.
+
+**Tyler Pavlas:** Hey, those are some fun plans.
+
+**Tyler Pavlas:** Definitely, definitely.
+
+**Michael Katz:** My weekend's a little dirty.
+
+**Tyler Pavlas:** For the near weekend, but I also enjoy the relaxing as well.
+
+**Tyler Pavlas:** Okay, cool.
+
+**Tyler Pavlas:** So I want to start with talking about Engine because it'll help you see the process and then we'll move into the platform and I'll show you the workflows and how the experts are in the loop.
+
+**Tyler Pavlas:** And I'll also show you how we report, how you're able to see how your content's improving over time.
+
+**Tyler Pavlas:** Definitely like a big part of the way that we work.
+
+**Tyler Pavlas:** So Engine, we've done pretty much all these business travel guides.
+
+**Tyler Pavlas:** And you can see that some of the content is like industry specific.
+
+**Tyler Pavlas:** And again, we're trying to optimize for quality at scale.
+
+**Tyler Pavlas:** So we will publish daily as long as there's no bottleneck around reviews.
+
+**Tyler Pavlas:** And again, we start off with like the eight week strategy sprint so that we can really align on quality and the roadmap of assignments that we would execute on before we move into that daily publishing type of engagement.
+
+**Tyler Pavlas:** And so, you know, with Engine and that strategy sprint, what we first did was.
+
+**Tyler Pavlas:** We did a lot of keyword analysis, going in and looking at search volume, intent, difficulty to rank, and competitor content.
+
+**Tyler Pavlas:** And then from there, we're also looking at your existing web pages to see where there's an opportunity to refresh, because we'll also refresh content.
+
+**Tyler Pavlas:** And after we've done some of that initial SEO analysis, then we're thinking in terms of, you know, what are those topics where we can cluster the assignments that we're creating content around so that we can be very specific about the topics where you want to be the authority, the topics where you want to have expertise.
+
+**Tyler Pavlas:** And so for engine, it makes total sense that like travel disruptions and crisis management, travel trends and marketing intelligence.
+
+**Tyler Pavlas:** It's travel management and corporate travel, travel booking reservations, practical travel research, like all of this makes sense to what their business model is.
+
+**Tyler Pavlas:** But we also have industry-specific content, which was super important for their use case.
+
+**Tyler Pavlas:** And so we're doing this initial work in the strategy sprint so that we can be very focused around what we create content for and so that we can be audience-first relative to your ICP.
+
+**Tyler Pavlas:** And so we're looking at their personas, the top industries that they would target.
+
+**Tyler Pavlas:** And so in the strategy sprint, you know, our focus is setting up, doing that analysis, setting up that roadmap of assignments, and then creating these really rich artifacts.
+
+**Tyler Pavlas:** And so this is Engine's workspace in our platform.
+
+**Tyler Pavlas:** But what we'll do is we'll create artifacts to give our workflows the context engineering that makes them hyper-relevant towards the company, the client that we're working with.
+
+**Tyler Pavlas:** And so in Engine's situation, they were like, growthx, we know exactly which industries we want to target.
+
+**Tyler Pavlas:** And instead of just creating one personas artifact,
+
+**Tyler Pavlas:** We would love it if you could create personas artifacts across all of those target industries, because we're going to create content that is focused on those industry verticals.
+
+**Tyler Pavlas:** It's going to be directly for construction folks.
+
+**Tyler Pavlas:** And so you can see like this feeds into our workflows.
+
+**Tyler Pavlas:** And we start off here with, you know, what makes engine special, right?
+
+**Tyler Pavlas:** Like why are, you know, what's kind of a high level on engine, but then we go in and we take three different, specific titles, the operations manager, the finance manager, and the project manager.
+
+**Tyler Pavlas:** And this is like an evolving, living, breathing document.
+
+**Tyler Pavlas:** And every, every clients might be structured a little bit differently, but the idea is that all the information here is as relevant as possible so that we can be very focused in how we use, right, AI in the content creation process.
+
+**Tyler Pavlas:** And so thinking about, you know, AI.
+
+**Tyler Pavlas:** Search, right?
+
+**Tyler Pavlas:** It's a much larger surface area.
+
+**Tyler Pavlas:** You have to solve for the long tail.
+
+**Tyler Pavlas:** We're going in here and we're thinking about, for this construction's operations manager, what's everything that can be relevant to the way that they might go in and search that's going to be connected to your product, right?
+
+**Tyler Pavlas:** So it's the construction operations manager.
+
+**Tyler Pavlas:** What's their fears and uncertainties?
+
+**Tyler Pavlas:** What's their motivation?
+
+**Tyler Pavlas:** How do you win or lose their trust?
+
+**Tyler Pavlas:** What do they care about the most in their job?
+
+**Tyler Pavlas:** What's their pain points and frustrations?
+
+**Tyler Pavlas:** And then why would they choose engine?
+
+**Tyler Pavlas:** And so we created these audience artifacts, a company context artifact, a writing guidelines artifact.
+
+**Tyler Pavlas:** And once we've got this prepared, then we can start calibrating on quality and using these in the workflows where we're actually creating and drafting the content that we would publish in your CMS.
+
+**Michael Katz:** And how does that piece work?
+
+**Michael Katz:** Because if you're talking about publishing daily, do you create the article and then someone on my team...
+
+**Michael Katz:** The team then needs to like copy and paste the article and actually get it into the website.
+
+**Tyler Pavlas:** We prefer to stage and publish for you because that last mile execution can be tedious and time consuming. Our goal is to be an extension of your team and free up bandwidth so that your team can focus on strategy.
+
+**Michael Katz:** So to train you how to create pages in our CMS.
+
+**Tyler Pavlas:** You wouldn't even need to do that.
+
+**Tyler Pavlas:** No, we would just like leverage the existing blog template that you have in place today.
+
+**Tyler Pavlas:** And we have folks on our team who have operated, you know, most CMSs that you could think of.
+
+**Tyler Pavlas:** And as long as you don't have some sort of crazy CMS set up, we probably would be good to go on our own.
+
+**Michael Katz:** Just to make sure I'm clear, you are saying that someone from GrowthX would be responsible for like publishing it inside of our CMS.
+
+**Michael Katz:** Or are you saying that all of this would live on like a subdomain and you would just make the pages look like our website?
+
+**Tyler Pavlas:** Nope, it would live on bitsight.com, and yes, the GrowthX person would be the one publishing directly to your site. I'm guessing you guys have a blog section at the top of your website?
+
+**Tyler Pavlas:** There we go. They would be publishing primarily to the blog.
+
+**Michael Katz:** Okay.
+
+**Tyler Pavlas:** Oh, got it.
+
+**Tyler Pavlas:** There's Ali.
+
+**Michael Katz:** I can bring her in.
+
+**Michael Katz:** Oh, perfect.
+
+**Tyler Pavlas:** Hey, Ali, how's it going?
+
+**Ali Bury:** Hey, guys.
+
+**Ali Bury:** Sorry I'm late.
+
+**Tyler Pavlas:** Yeah, no worries.
+
+**Tyler Pavlas:** I was just kind of giving Michael the rundown on our platform and, you know, how we're creating content.
+
+**Tyler Pavlas:** I guess, how much context do you have on growthx, just so I'm not, you know, jumping into, right, like 50% of the way through an intro when maybe you need the first part?
+
+**Michael Katz:** Well, with 15 minutes left, because we only have a half hour time, you just keep going.
+
+**Michael Katz:** get the recap notes,
+
+**Ali Bury:** Go ahead.
+
+**Michael Katz:** I'll give Ali the context at the end.
+
+**Ali Bury:** Yep, that works.
+
+**Tyler Pavlas:** Would it be helpful to do maybe like one minute on just an intro to who we are?
+
+**Tyler Pavlas:** Do you know that, like who we are and what we do?
+
+**Tyler Pavlas:** I feel like I should tell you that before I keep demoing.
+
+**Tyler Pavlas:** Do you have that context, Ali?
+
+**Ali Bury:** I know that you lean towards the content creation of it all.
+
+**Ali Bury:** And that's kind of the gist I'll go with.
+
+**Michael Katz:** Yeah, essentially show like what, in fact, just utilizing the platform, showing like how you did the research, some of those screens that you just showed me.
+
+**Michael Katz:** I think that would give Ali a lot of context.
+
+**Michael Katz:** They would take over like creating all of these articles.
+
+**Michael Katz:** They would take over actually publishing them on our website, talking about like a daily publishing schedule.
+
+**Tyler Pavlas:** Oh, okay.
+
+**Michael Katz:** They would be creating net new and updating existing potentially with a focus on like blog.
+
+**Michael Katz:** type content that we would gear them to.
+
+**Ali Bury:** Okay.
+
+**Ali Bury:** So as scalable as every day.
+
+**Michael Katz:** Yep.
+
+**Ali Bury:** Okay.
+
+**Ali Bury:** Okay.
+
+**Tyler Pavlas:** Great.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** Essentially, Ali, we are like an extension of your team, an end-to-end partner that leverages very sophisticated AI workflows and experts in the loop so that we can help you create quality content for SEO and GEO at scale.
+
+**Ali Bury:** Okay.
+
+**Ali Bury:** Okay.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** Perfect.
+
+**Tyler Pavlas:** And I think part of what makes us a bit different here is our CEO and founder, Marcel, he's built organic content engines at every step in his career.
+
+**Tyler Pavlas:** He's always believed brands should be more like publishers.
+
+**Tyler Pavlas:** He's never spent much on paid.
+
+**Tyler Pavlas:** And he's been like CMO at scale through the acquisition by Meta, marketing leader at HashiCorp from six to 100 million.
+
+**Tyler Pavlas:** And then at DeepGram, he replicated that process using AI workflows, spent like thousands of hours of building them.
+
+**Tyler Pavlas:** And just had like some tremendous results.
+
+**Tyler Pavlas:** And
+
+**Tyler Pavlas:** As you can see, 24x-ing their traffic, 4x-ing their revenue, and he started hosting these workshops, and there was just so much interest from folks that wanted his help that he started GrowthX as this services as software type of partner, right?
+
+**Tyler Pavlas:** Like the quality of services, but at the scale of software, and we're solving for like the traditional SEO agency, they're probably not doing nearly as much execution.
+
+**Tyler Pavlas:** If you tried to maybe build this in-house, it'd be very difficult to connect all these different tools and models and not just be, right, relying on ChatGPT, or if you're using a tool like Aerox, you know, refactoring it, what would the cost look like?
+
+**Tyler Pavlas:** What would the time to value be?
+
+**Tyler Pavlas:** And so we have this internal platform that powers all of our work with experts in the loop, and the experts are all folks that come from SEO and content marketing backgrounds.
+
+**Tyler Pavlas:** And just like for context, our chief concept.
+
+**Tyler Pavlas:** He was the editor-in-chief of TechCrunch for over a decade.
+
+**Tyler Pavlas:** And so this is like why we've been able to work with really technical companies to scale quality.
+
+**Tyler Pavlas:** And it's not to say we would publish every day if there was a big bottleneck on the review side, but our goal is certainly to publish, you know, five articles per week.
+
+**Tyler Pavlas:** Does that give you a little bit better like initial context?
+
+**Tyler Pavlas:** just didn't want to do you a disservice by jumping right in.
+
+**Ali Bury:** All right.
+
+**Ali Bury:** Thank you.
+
+**Ali Bury:** And I appreciate that.
+
+**Ali Bury:** I, yeah, definitely want to be cognizant of time, but that was a great enjoy there.
+
+**Michael Katz:** Yeah.
+
+**Tyler Pavlas:** Thank you.
+
+**Tyler Pavlas:** Awesome.
+
+**Tyler Pavlas:** Yeah, you bet.
+
+**Tyler Pavlas:** You bet.
+
+**Tyler Pavlas:** And the way that we partner, we do an eight-week strategy sprint and then a 12-month growth execution.
+
+**Tyler Pavlas:** And the focus on the strategy sprint is we want to develop these really rich artifacts around your ICP, your company, and your brand voice guidelines so that we can give the workflows the context that's necessary to be hyper-relevant.
+
+**Tyler Pavlas:** We can also ingest resources like one-pagers, positioning and messaging documents, sales decks, and transcripts. All of this can be stored in our knowledge base.
+
+**Tyler Pavlas:** And so that accompanies the artifacts.
+
+**Tyler Pavlas:** And the example I was going through with Michael here, engines in like the business travel space.
+
+**Tyler Pavlas:** And for their engagement, it was really important to create verticalized personas artifacts.
+
+**Tyler Pavlas:** And these artifacts with AI search, it's just going deep into the mind of everything that could be relevant to this title that is connected to where your product can fit in as the solution.
+
+**Tyler Pavlas:** So like fears and uncertainties, motivations, winning and losing their trust.
+
+**Tyler Pavlas:** What do they care about their job?
+
+**Tyler Pavlas:** What's their pain points?
+
+**Tyler Pavlas:** Why would they choose engines specifically?
+
+**Tyler Pavlas:** And so we will do this in the strategy sprint and we will start to create calibration articles so that we can align with you on quality before we move into daily publishing.
+
+**Tyler Pavlas:** And we give our clients the ability to opt out.
+
+**Tyler Pavlas:** At the, by the end of that eight week sprint, so that like, you make this educated decision about, okay, here's the roadmap of assignments growthx is going to work on, here's the quality bar that they can hit, do we want to continue into, into scaling the content creation, or do we just want to take these artifacts and use them for our own purposes.
+
+**Tyler Pavlas:** So that's the flexibility behind the partnership.
+
+**Ali Bury:** So nothing would be like published within the eight weeks, but it would be the, the strategy, essentially like the content calendar and like, and then at the end of the eight weeks, that's when we would decide on like publishing either like on our own or with you guys.
+
+**Tyler Pavlas:** Yeah, it's up until the last week of that eight week engagement, just so we have like a week of lead time to know how to deploy our resources, since it's very services heavy.
+
+**Tyler Pavlas:** But one thing to kind of confirm, we will publish during the strategy sprint, we absolutely want to do that we'll have the artifacts by like week two week three, we'll start to create the calibration articles week four.
+
+**Tyler Pavlas:** Week five, once we've calibrated on quality, then we will start publishing content.
+
+**Ali Bury:** So it's not just strategy.
+
+**Ali Bury:** Okay.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** And so to show you how the workflows are involved in the content creation process, I'm to jump to AugmentCode.
+
+**Tyler Pavlas:** AugmentCode is a great example because we've created a ton of content for them.
+
+**Tyler Pavlas:** It's really driven results in terms of traffic, in terms of conversions.
+
+**Tyler Pavlas:** We'll create a Looker dashboard for you.
+
+**Tyler Pavlas:** We'll have a scrunch dashboard set up for all of the AI monitoring and performance analytics.
+
+**Tyler Pavlas:** And everything that you see in this slash guide section, we created for AugmentCode, including all of the imagery.
+
+**Tyler Pavlas:** And so we've published about like 100 guides.
+
+**Tyler Pavlas:** They're pretty technical also.
+
+**Tyler Pavlas:** And when you look into their workspace here, what you can see is that we've got these artifacts that go deep into templates for articles, products.
+
+**Tyler Pavlas:** Services, even this proofreader checklist that helps us validate that the research is only connected to certain sources and has some specific instructions also.
+
+**Tyler Pavlas:** And then we've got these pipelines where we set up the workflows.
+
+**Tyler Pavlas:** So if I jump into the editorial pipeline, we've got a workflow for generating assignments or briefs.
+
+**Tyler Pavlas:** We've got a workflow for refreshing existing content.
+
+**Tyler Pavlas:** And then we've got agentic workflows around article generation.
+
+**Tyler Pavlas:** And so to show you the workflow around generating a brief, what's happening here is we've built everything in code.
+
+**Tyler Pavlas:** And so it looks like, you know, there's nine minutes running and it's sort of confusing, like, what's happening, right, to deliver this output.
+
+**Tyler Pavlas:** But the reality is, you we're taking the inputs and we're looking at keyword traffic.
+
+**Tyler Pavlas:** We're looking at organic results.
+
+**Tyler Pavlas:** We're looking at SERP ranking factors and competitor content, search intent.
+
+**Tyler Pavlas:** And all of that informs the brief that we create. These workflows are flexible, so we can change the inputs. The direction is given by a managing editor who comes from a content marketing and SEO background.
+
+**Tyler Pavlas:** And we're really just feeding a topic for the article in, all of the artifacts, and then that's generating the brief for the assignment that we would go out and draft, you know, an article for.
+
+**Tyler Pavlas:** Any questions about kind of this first step in the process?
+
+**Ali Bury:** Yeah, where do you, so I know you said we pull like in the SEO elements, like what we know about AI.
+
+**Ali Bury:** Where do you pull that data from?
+
+**Ali Bury:** I'm just curious.
+
+**Tyler Pavlas:** Yeah, I know the team is going to use like Ahrefs and SEMrush.
+
+**Tyler Pavlas:** We set up this content OS and we're doing, you know, keyword analysis around search volume, difficulty to rank, competitor content.
+
+**Tyler Pavlas:** We'll look at opportunities for refresh on your site, and then we'll basically create these topic clusters where we'll generate all these assignments from.
+
+**Ali Bury:** The topics where you want to be the expert.
+
+**Ali Bury:** Okay.
+
+**Ali Bury:** And is this all like through your AI, or is this manual as well?
+
+**Tyler Pavlas:** Yeah, this is our team manually putting this together.
+
+**Tyler Pavlas:** The AI is involved in helping us generate the brief or the content assignment and actually creating the content.
+
+**Tyler Pavlas:** But the difference with us, right, is that we do so much work up front to try to become experts on your business.
+
+**Tyler Pavlas:** And we do so much context engineering that makes it hyper-relevant.
+
+**Ali Bury:** Okay, cool. For content creation these days, we want to focus on both SEO and AEO.
+
+**Ali Bury:** How do you guys incorporate what you know about ranking in the LLMs into the content output?
+
+**Tyler Pavlas:** Can you clarify that question a bit more for me?
+
+**Ali Bury:** Yes, basically how to rank in different LLMs — ranking factors for LLMs similar to ranking factors in SEO.
+
+**Ali Bury:** Does that get factored in at all to the final, or how you guys like will write the page here?
+
+**Ali Bury:** Just because I know there's, it's slightly different, like technical things that do perform well in the LLM.
+
+**Ali Bury:** So do you incorporate that into like the final, like what gets written?
+
+**Tyler Pavlas:** Absolutely, is like the short answer to the question.
+
+**Tyler Pavlas:** More granularly, we make sure these workflows, and when I show you the workflow around article generation, I think it'll make a lot of sense.
+
+**Tyler Pavlas:** We basically make sure we run through the most important factors for GEO and AEO, and the structure is a big part of that, right?
+
+**Tyler Pavlas:** The structure of how LLMs are going to consume content is going to be way different, right, than Google.
+
+**Tyler Pavlas:** Yeah, got it, okay, great.
+
+**Tyler Pavlas:** And so-
+
+**Tyler Pavlas:** Looking at this article generation workflow, there's all these different steps in the process where we'll do deep research on the content assignment.
+
+**Tyler Pavlas:** We'll run this in a loop so that it has to hit a certain score.
+
+**Tyler Pavlas:** We'll draft the article, and again, that's agentic.
+
+**Tyler Pavlas:** needs to hit a certain score around your writing guidelines, the groundedness of the article.
+
+**Tyler Pavlas:** We'll include cross-linking, which is super helpful for SEO, GEO.
+
+**Tyler Pavlas:** We'll include source links from those sources that are relevant to what you want us to leverage.
+
+**Tyler Pavlas:** We'll validate against your writing guidelines.
+
+**Tyler Pavlas:** We'll make it SEO-optimized.
+
+**Tyler Pavlas:** We'll fact-check AI, you know, hallucinations is a lot of people's biggest concerns.
+
+**Tyler Pavlas:** We'll fact-check every sentence, and if we can't validate each sentence, we'll suggest a rewrite for our team to be able to change, cover images, content images, et cetera.
+
+**Tyler Pavlas:** And so just inspecting, like, the researcher, the drafter, and the fact-checker, you can see on the research side,
+
+**Tyler Pavlas:** You know, what we're doing is we're including the brief that was generated.
+
+**Tyler Pavlas:** We're including a ton of information around those artifacts that we've stored.
+
+**Tyler Pavlas:** And then we're actually having this generate a research plan.
+
+**Tyler Pavlas:** And so there's a target audience.
+
+**Tyler Pavlas:** There's an objective.
+
+**Tyler Pavlas:** There's questions to answer and success criteria.
+
+**Tyler Pavlas:** There's source requirements.
+
+**Tyler Pavlas:** We can connect this to that custom knowledge base that we've got set up.
+
+**Tyler Pavlas:** And there's a knowledge graph, so it's optimized for retrieval, right?
+
+**Tyler Pavlas:** It's semantic.
+
+**Tyler Pavlas:** It's writing about this.
+
+**Tyler Pavlas:** Let me jump right to this content that's in the knowledge base.
+
+**Tyler Pavlas:** There's success criteria.
+
+**Tyler Pavlas:** You get it.
+
+**Tyler Pavlas:** There's a lot going on.
+
+**Tyler Pavlas:** And when we're synthesizing the results, we're going to evaluate the quality.
+
+**Tyler Pavlas:** And again, because this is agentic, it will run in a loop addressing the specific gaps to ensure that we can meet a certain threshold, generating additional questions if needed, and then storing that research so that this gets better and better and better.
+
+**Tyler Pavlas:** Over time, we got one minute left, so I'm just going to breeze through the last part, and then I got to jump to another call, but with the drafter, very similar, right?
+
+**Tyler Pavlas:** We're starting with the research data and generating an initial draft.
+
+**Tyler Pavlas:** If we don't meet that threshold, we're going to run this in a loop until we can generate content that's got the right scores and is able to, you know, create the content the way the team needs.
+
+**Tyler Pavlas:** But the fact checker will extract passages, so we'll split the article into chunks, and then we'll do deep research on every passage and even suggest a rewrite if we can't validate it against a certain confidence score.
+
+**Tyler Pavlas:** And so all of this is happening with our experts in the loop.
+
+**Tyler Pavlas:** They can make changes to any of the drafts, or they could even use specific artifacts that we have to just add.
+
+**Tyler Pavlas:** Ask instructions or commands around, you know, change this to bullets, add, you know, this or that.
+
+**Tyler Pavlas:** And so that's probably the fastest demo I've ever given.
+
+**Tyler Pavlas:** But I wanted to make sure that you, you know, could at least understand, like, why we're a little different and why these workflows are much more involved than using a custom GPT or something like that.
+
+**Ali Bury:** Yeah, awesome.
+
+**Ali Bury:** Yeah, thanks for the detail through the, especially the end part of that tool.
+
+**Ali Bury:** So I can really visualize.
+
+**Tyler Pavlas:** I appreciate it.
+
+**Tyler Pavlas:** Yeah, 100%.
+
+**Tyler Pavlas:** And Michael, definitely want to keep the conversation going.
+
+**Tyler Pavlas:** Just want to be transparent about we are booked until the end of the year.
+
+**Tyler Pavlas:** And so, you know, we're looking at January and February with clients.
+
+**Tyler Pavlas:** We're doing a lot of work on our side to make this more scalable.
+
+**Tyler Pavlas:** The thing is, like, we have a lot of human involvement in our delivery.
+
+**Tyler Pavlas:** We're not just, like, using workflows and that's it.
+
+**Tyler Pavlas:** And so that's why we, limit to two kickoffs a week right now.
+
+**Tyler Pavlas:** But let's definitely keep the conversation going and just let me know.
+
+**Michael Katz:** I can be most helpful.
+
+**Michael Katz:** No, that sounds great.
+
+**Michael Katz:** Yeah, if it's possible to share the recording and then that deck that you walked through since Marcel didn't send it, that would be fantastic.
+
+**Michael Katz:** And then, yeah, we'll just follow up by email and have fun at the game.
+
+**Tyler Pavlas:** Yeah, thanks for bearing with me.
+
+**Tyler Pavlas:** I know it was a little all over the place today, but I will send you all these resources and content examples and looking forward to it.
+
+**Michael Katz:** Sounds good.
+
+**Michael Katz:** Have a good weekend, Tyler.
+
+**Michael Katz:** Thank you.
+
+**Michael Katz:** Thank you.
+
+**Michael Katz:** Bye-bye.

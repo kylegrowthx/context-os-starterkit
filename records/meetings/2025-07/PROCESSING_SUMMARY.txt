@@ -1,0 +1,88 @@
+JULY 2025 CALENDAR PROCESSING SUMMARY
+=====================================
+
+Date Processed: 2026-02-26
+Source: /sessions/determined-funny-bell/mnt/.claude/projects/-sessions-determined-funny-bell/d7e946a9-e58f-4e35-944a-4605df31c8ed/tool-results/mcp-fb2f9beb-85cb-482b-b628-0395ba118784-gcal_list_events-1772137957335.txt
+
+FILTERING RESULTS
+=================
+Total July 2025 calendar events: 248
+
+Excluded Events by Category:
+  - All-day events: 6
+  - Personal/Admin/Routine keywords: 86
+  - Single attendee (only Marcel): 13
+  - Marcel declined or not responded: 27
+  - Duration out of range (<10 min or >4 hours): 0
+  
+Total Excluded: 132
+Qualifying Meetings: 116
+
+FILTERING CRITERIA APPLIED
+==========================
+✓ Duration: 10 minutes to 4 hours
+✓ Attendees: 2 or more (including Marcel)
+✓ Marcel Response: Accepted or Tentative
+✓ NOT all-day events
+✓ NOT matching exclusion terms:
+  - Personal: deep work, buffer, lunch, break, focus time, heads down, blocked, hold, commute, gym, workout, personal
+  - Admin: OOO, out of office, PTO, vacation, holiday
+  - Routine: prep, travel, dinner, breakfast, coffee chat, end of day, morning routine, wind down, wrap up, do not book, block, busy, reserved
+  - Appointments: therapy, family time, daycare, coaching, reservation at, reservation for
+  - Tasks: set up social, set up posting
+
+MEETING RECORDS CREATED
+========================
+Directory: /sessions/determined-funny-bell/mnt/growthx-context/records/meetings/2025-07/
+
+Total files created: 116
+
+Naming convention: YYYY-MM-DD-descriptive-name.md
+  - Lowercase
+  - Hyphens for word separation
+  - Special characters removed
+  - Example: 2025-07-01-ftf-madrona-meeting-karan.md
+
+FILE FORMAT
+===========
+Each meeting record includes:
+
+<metadata>
+  - date: YYYY-MM-DD
+  - time: HH:MM ET
+  - duration: X minutes
+  - organizer: organizer_email
+  - attendees: list with response status
+  - calendar_event_id: Google Calendar event ID
+  - has_transcript: false (no transcripts for July 2025)
+  - fireflies_id: (empty, to be populated when transcript pulled)
+  - transcript_url: (empty)
+  - transcript_file: (empty)
+  - last_updated: 2026-02-26
+
+Attendees Table:
+  - Lists all participants
+  - Internal GrowthX attendees marked (internal)
+  - External attendees with contact file links if exist
+  - Format: Name | Email | Role | Company | Contact File
+
+Notes Section:
+  - Placeholder for manual notes or transcript integration
+  - Instructions to use "pull meeting" skill
+
+NEXT STEPS
+==========
+1. Run "pull meeting" skill on individual meetings to fetch transcripts from Fireflies
+2. Manually add notes to meetings as needed
+3. Update contact dossiers for external attendees (if contact files created)
+4. Cross-link transcripts with contact files per contact-transcript-linking rule
+
+SAMPLE RECORDS
+==============
+Examples created:
+  - 2025-07-01-ftf-madrona-meeting-karan.md (6 attendees)
+  - 2025-07-02-matthew-marcel-weekly-sync.md (2 attendees)
+  - 2025-07-16-growthx-superhuman-deep-dive.md (13 attendees)
+  - 2025-07-23-strategy-sprint-standup.md (18 attendees)
+
+All records follow the standard template with metadata tags for machine readability.

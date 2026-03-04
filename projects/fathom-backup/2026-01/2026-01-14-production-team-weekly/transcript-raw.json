@@ -1,0 +1,3372 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Good morning, folks.",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "How's everyone doing today?",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Good.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jenn Peters",
+                "matched_calendar_invitee_email": "jenn@growthxlabs.com"
+            },
+            "text": "How are you?",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Lovely January 14th.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Oh, man.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's give me a couple things in order here.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I am a little out of the weather, so if I sound a little froggy, that is what it is.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's the typical January malaise when you have kids.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And when you don't, too.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's just going around right now, it seems.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, handful of things.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I want to talk through a few new things and some new workflows and then kind of a larger topic.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "are you?",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, one, there is a new pipeline, this will be in the agenda, available.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Nana kind of worked on it a little bit and developed this with Marcus based on a project that we had been using in Claude to scrape comments from articles, from docs.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Basically, you know, we all get client feedback in Google Docs and other forms, but Google Docs is a lot, is very common across all of the clients.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And we needed a way to grab those comments and the context in order to be able to parse them and understand whether or not they are applicable to artifacts or other pipeline inputs.",
+            "timestamp": "00:02:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, this pipeline will be available.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You can grab it, put it in your workspace, and then use it to parse comments from clients.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's just tooling that now will exist in Atlas that many of us were",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Doing ad hoc in various ways.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We're going to work on doing this for a lot of common tools and common processes so that we don't end up all having non-standard ways of doing this.",
+            "timestamp": "00:03:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's what we'll try to kind of work on generating best practices around this stuff.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We have collated all of the various, let's call them, you know, hacks or processes or just off-the-books things that you folks are doing.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And there's over 200 different ways that people are accomplishing these things.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And, you know, knowing Nana pulled together that list, I was not shocked, but at the same time, a little bit appalled.",
+            "timestamp": "00:03:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Not that you're doing it.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's great.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I'm happy about the agency and that everybody's just getting the job done.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But it's clearly an opportunity for us to clear up some lanes, to combine the different ways that people are doing things, to come to a best practice, and to move that stuff into Atlas and out of Claude and out of, you know, various processes that, for whatever reason,",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "are probably less efficient than they should be.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Even though you're getting the job done, it's unlikely that it's probably the best or fastest way to do it.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So we'll help you kind of clean that up over time.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So anyhow, this is a great first kind of tranche of this.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We have to add this pipeline to WorkSpaces, and it must be configured a little bit.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So it would most likely be a ticket.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I have to kind of wrap my head around exactly how to add it, but I would guess a ticket where if you are already ready on how to create pipelines, you should be able to create it.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Nana, how would you characterize setting it up?",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "I didn't set up that one.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Actually, it was Martha, so I haven't looked at the YAML yet, but I believe it will pull each account's artifacts, so there should be some personalization happening in the YAML.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, okay, so it may have to be a ticket file that we can roll out.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I'll take a look at it a little deeper.",
+            "timestamp": "00:05:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "hadn't had a chance to analyze what's actually being pulled, but it looks like, yeah, just for a quick scan, looks like it might not be that complex to roll out.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Marcus, are you here?",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "I'm so sorry.",
+            "timestamp": "00:05:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "I could have just asked you.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "Are you around?",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "How would you characterize rolling this out, Marcus?",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "I'm sorry?",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I would just say, like, for that comment pipeline that we have, that Felix is already testing, that you built for Nana, like, how would you characterize that if somebody else wanted to utilize that pipeline in their workspace?",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "How hard is it to set up for a new workspace?",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "Oh, the one I made for Biologica?",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Yeah, the comments one.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "Okay, the comments one, the...",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Yeah, there are two comments.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Yeah, the comments one that we give the article, like, we give the docx file, and then it does...",
+            "timestamp": "00:05:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "Yeah, it is generic, so it is easy to set up for anyone, so it's...",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "Yeah, yeah, it is.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcus Derencius",
+                "matched_calendar_invitee_email": "marcus@growthx.ai"
+            },
+            "text": "is simple, so, yeah.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Great.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So if you've set up a pipeline for yourself before, we can, you can look at the pipeline, it will be in the agenda, it'll be linked, and then you can copy and paste that into your workspace, and then you should have a comments pipeline.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If you are unfamiliar with that or uncomfortable with that, just file a ticket for it, and then we will triage that.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Um, okay, uh, artifact conflicts checks, um, we've kind of just, you know, they're, they're, we've definitely talked about this a lot, um, but there is a pretty detailed document that Nana put together on artifact conflict checks, I want you to check that over, and make sure you've actually done those things.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We've talked about various ways to do it and emphasize the importance here, um, kind of, uh, a handful of times, but I just want to kind of reemphasize that it is vital, uh, because it will...",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "save you time.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It has direct impact on how efficient the pipelines are in generating things, but also direct impact on how sloppy they are and how clean their output can be, because even if it is able to accomplish the task, it may not be accomplishing the task the best way it knows how, because it is trying to reconcile conflicts.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So please check that over.",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I don't want to be over the head with that.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It is very important, and I can't stress enough how many performance wins I have seen there for people that could clear the decks for you in ways that are unexpected.",
+            "timestamp": "00:07:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, you may think, oh, actually, I don't think that's my problem at all, but it actually may be your problem.",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, I just want to make sure you understand that, that it's an easy way to attempt to get a nice win for yourself on efficiency, because it can create these weird tangles of logic trees and issues that don't seem related to conflict.",
+            "timestamp": "00:07:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "make make you that, that",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Between the artifacts or instructions, but in fact are.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So once again, please check that, check that guide.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But I wanted to get kind of around to the most important thing, and that is we are going to be instituting some time tracking for the edits.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And the time tracking is very specifically about the amount of time it takes you to edit something once it exits the pipeline.",
+            "timestamp": "00:08:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "To the moment that you are ready for client delivery.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's the window.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's what we're measuring.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We're going to be using a piece of software called Time Doctor.",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We're going to be using it in basically manual Pomodoro timer style mode.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So it is not an overall tracker.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's not going track everything you do on your machine.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's not going to take any screenshots.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's not going to take any video.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's not going to take any key logging.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We basically paired it down to the bare minimum, which is you manually start a timer when you start editing your content.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "For the week, for that, for your client, so let's say you run five articles, and you're going to edit those five articles to a state of good, you're going to start a timer when you start doing that work, and you're going to end a timer when you finish doing that work.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "The way that it will work is that you will have a project that's populated with all of the deliverables for your account.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We've already put all of those deliverables into the system, so as an example, if you are running Biologica, Felix has tested this for us.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Thank you, Felix.",
+            "timestamp": "00:09:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So if you're running Biologica, and they expect five articles or six articles per week, you will have those six articles as generic items in your project when you click on Time Doctor, and each of those are generic to start.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But then we also built a really cool Atlas pipeline that basically says, hey, just give me your five article titles for the week, and then it updates those in Time Doctor for you.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So it'll be about a one and a half minute process for you to actually.",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Click Play on a pipeline in Atlas that will then populate the actual article name.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So instead of like article one, article two, article three, you actually have the article names in there for you or the content names in there.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And the reason for that is, of course, for ease of tracking later on, we're like, you know, why did this article take so long?",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "What article was this?",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Well, article three is hard to remember for anybody, right?",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So it'd be like, oh, okay, it's specifically this article, you know, the effects of perimenopause or saffron perimenopausal heat flash.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Or whatever, and you will be able to look at that article and see what that actual title is.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We have a full guide on this, obviously, all written out, so you don't have to remember all of this.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But the long and short of it is you'll download Time Doctor, you'll install it.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It will not record anything.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "98% of the time, if it's on your machine, it'll only record when you actually hit, I'm ready to start editing my articles.",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So the process will be, you will...",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Run your generations.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If you want to run one at a time, if want to run all at a time, however your process is, you don't want to change that.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But the moment you start editing any piece of content, you're going to start the timer on that piece of content.",
+            "timestamp": "00:11:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You're going to edit that piece of content to good, and then you're going to stop the timer.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If this requires some reorganization of your editing process where you need to, like, cluster it or, you know, get a focus time on it, do so, right?",
+            "timestamp": "00:11:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Because we need to understand exactly how long it's going to take from beginning to end.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "By beginning, I mean exiting the Atlas pipeline to client delivery.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And we need to understand it not in an ad hoc kind of way where, you know, I've all asked you, but we need to understand it empirically, right?",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We need to know exactly what that is because then the plus side, what do I get out of it, is we can deploy engineering resources.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can deploy, you know, client ops resources, can deploy human resources to you.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So to help you improve that time.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So if we're like, oh, wow, like you're at 15 minutes, cool, sorry, I love you, but we're going to move you low on the priority list.",
+            "timestamp": "00:12:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If somebody else is at two and a half hours, we're going to say, okay, you know, let's get the engineers on this.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's figure out what's going on with the pipeline, why it's taking so long to get this done.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And this is not about like, you know, oh, who's slow?",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's whose processes are slow.",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You know, what pipelines are not adherent?",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "What pipelines are not performing to SPAC?",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And this is going to tell us a lot about what, you know, what Atlas pipelines are actually delivering stuff close to client ready, where they're bottlenecks in the workflow, improve and optimizing the pipelines, where's the low-hanging fruit, where are the biggest issues?",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And that's basically will drive all of our decisions on how to deploy engineering resources.",
+            "timestamp": "00:12:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Because right now, you know, I've definitely told plenty of you, like, oh, file a ticket for this, or, or you should tap so-and-so on the shoulder for that.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Or deployed Nana, or Hassan, or myself, or someone else to help you, or a peer review.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "There's just no way for us to understand where the fires are without tracking this time.",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So the brass tacks of it is, it's manual tracking.",
+            "timestamp": "00:13:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So you have to start and stop the timer.",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I know people will forget, but you can adjust the timing.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But you've got to do it, right?",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's mandatory.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We have to know.",
+            "timestamp": "00:13:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Right now, we have no visibility.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "This is a black box for us that I have to, like, collect when my personal calls with you, or somebody has to just raise it up at a channel.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Oh, it's taking me X long, right?",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We need to know, right?",
+            "timestamp": "00:13:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Because this will allow us to effectively deploy these resources.",
+            "timestamp": "00:13:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "This setup, I have done it myself.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's very simple.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's pretty straightforward.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "The timer, when you start it, when you start the timer, it will record the apps that you're using to do it.",
+            "timestamp": "00:13:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It will record the amount of time it takes to do it.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's basically it.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's not going to take screenshots, even during the timer.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It does not take screenshots.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It does not take video recordings, and it does not keylog.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I just want to emphasize that to everybody, just from a privacy perspective.",
+            "timestamp": "00:14:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's not about that.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's just about, like, hey, how long did it take you?",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Oh, okay, cool.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It took you two and half hours.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You used Claude.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You used Atlas.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You used Google Docs.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It makes sense, right?",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, used Safari to do some searching because you're trying to verify links, yada, yada.",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's what we kind of want to know.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's like, hey, okay, cool.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, this is two and half hours.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You spent so much of it in Atlas using SGI.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "spent so much of it in Google Docs, and then that's it, right?",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, like, we have to kind of understand that basically we want to be honest with ourselves.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "How good is Atlas, right?",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, how good is it at these jobs, at these tasks we've given you?",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "How much better can it be?",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And where can we deploy the resources to make it better?",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And this is what we find to be the least intrusive way to gather that empirical evidence.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "They're just like, hey, we need to, like, start...",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "...",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You manually start and stop even the timer.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We have definitely come up with a handful of questions about this and tried to answer those in an FAQ, but I'm sure there will be more, and I'm happy to answer some after I finish my rant, but we will address those as we come up across it, because there's definitely been some process questions, and the answer is your process may have to adapt a little bit to this, right?",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You may have to just set aside a block if you don't block now.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If you do processes in parallel, start them in parallel, right?",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "If you edit all your articles at once, fire them all off, and then start editing and doing all that.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's cool.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I get it, right?",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, because we can treat that as a block.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And sometimes it's like, okay, am I supposed to keep this running if, like, Claude is working?",
+            "timestamp": "00:15:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, you know, you're still in edit mode.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's basically that gap that we're measuring between the time Atlas says, hey, here's something I think is good, and you're like, no, no, no, this is actually good, you know, for the client.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So that's what we want to measure.",
+            "timestamp": "00:15:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yes, you can pause it, Patricia.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You can pause it.",
+            "timestamp": "00:16:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You do not have to, like, continue all the way through.",
+            "timestamp": "00:16:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then I'm still debating on whether we're going to allow manual edits or you can just request an edit.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So if you're like, oh, shoot, like, I need an edit to this, you can probably just fire off a request of the week and tweak it for you.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I don't know about enabling manual edits, not because of you, but because I don't know how Time Doctor handles them.",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, but regardless, of course, you can pause it at any time.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We have it set to the default, which is that if you stop moving your mouse for 15 minutes, it will pause automatically.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So if you stop not moving your mouse, that's, we don't even care about that.",
+            "timestamp": "00:16:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But if you stop doing stuff, you're like, walk away from your computer, it's like, it'll pause the timer, and then you can go back and then restart it, and then we can make a 15 minute adjustment or whatever, if you really want to.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But like the stop and start thing is totally fine.",
+            "timestamp": "00:16:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So if you're like working on it, you're like, I'm going to take lunch, pause, you go eat lunch, and you come back and you restart, that's totally fine.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Any other questions on the type tracking stuff?",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Happy to answer.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Felix Morgan",
+                "matched_calendar_invitee_email": "felix@growthx.ai"
+            },
+            "text": "Just can confirm it sounds more complicated than it is.",
+            "timestamp": "00:17:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Felix Morgan",
+                "matched_calendar_invitee_email": "felix@growthx.ai"
+            },
+            "text": "I also tried it out, and it was just like very simple, and I do do batch like post-processing that's not editing, but like I have like six articles that I'm like running through cloud, like I start one, start one, start one, and it was really easy to just keep it open and just hit play on the first one, play on the second one, play on, you know, and it didn't affect the times at all.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Felix Morgan",
+                "matched_calendar_invitee_email": "felix@growthx.ai"
+            },
+            "text": "So, I thought at first I was like, this sounds so complicated, but it actually was very easy to say, you know.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, and the Atlas pipeline for like populating those is also very simple.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's just a field with however many entries of deliverables you have.",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Oh, one question that I anticipated was that like, oh, I've got a PSEO engaged with me.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "My cat is tearing up my chair.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Hey, cut it out.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's okay.",
+            "timestamp": "00:17:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's vintage, but it's only a replica.",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Anyhow, the question...",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's like, oh, I'm PSEO, and it's like 30 pieces, right?",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We don't need you to track, like, 30 spot checks on a PSEO engagement.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Instead, it will be a block.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, okay, I'm starting my PSEO checks, and then I'm ending my PSEO checks.",
+            "timestamp": "00:18:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And we'll just average that out over, like, your 20 or 30 or whatever it is, programmatic pieces.",
+            "timestamp": "00:18:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Because I know some of you have engagements that are really about, like, spot checking data or making sure fields are filled out properly.",
+            "timestamp": "00:18:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And that's a little bit different level of granularity.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "The primary interest for us is, like, just what does that whole block take you?",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So just throw that out there.",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Updating the content OS.",
+            "timestamp": "00:18:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's a good question.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I would say no.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "This is specifically about the editing component of it or the good for client delivery.",
+            "timestamp": "00:18:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Although, I reserve the right to adjust that there because I just was, like, talking with somebody today.",
+            "timestamp": "00:18:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Good day.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Who, or yesterday, who, where, like, the process of actually updating it was pretty laborious.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, we do need to improve those, those processes, but I think that should really be a separate task.",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, I don't, I think it's like, if you, yeah, Carrie's right.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And, like, if you're firing off automations, like, and stuff that's part of your editing, I would say that's fine.",
+            "timestamp": "00:19:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, keep it in there.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then, if we come around to and we're like, oh, wow, a two and a half hour process, like, what's going on here?",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And you're like, well, 30 minutes of that is, you know, populating this metadata and making sure it's an air table and all this stuff.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And I'm like, oh, well, okay, let's tackle that, right?",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's find an automation there.",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "The only reason that I'm not too concerned, not concerned is the wrong word, but I'm not too focused on that part of it, is that we are not going to be in our table forever, right?",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That will live an atlas.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We're in the process of making air table obsolete for us, for our process.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Right now, we're working on that, and that will ship in Q1.",
+            "timestamp": "00:20:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So I'm not obsessed about optimizing for Airtable, because hopefully, you know, gets canned.",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You know, so that's that.",
+            "timestamp": "00:20:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yes, Nathan.",
+            "timestamp": "00:20:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Similar to Lawrence's question, so my process also requires, like, it doesn't auto post, it posts automatically to Webflow from Atlas, but I still need to go into Webflow and click Publish.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "And before I click Publish, I also, like, just check some of the fields, because sometimes there's been little issues.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So it doesn't add a lot per article, but sometimes it kind of does, because I'll publish it, and then I'll look at the article, and for whatever reason, some things are weird, and then I have to either file a linear ticket, or see if there's, and I can figure out what went wrong.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So that's part of my getting it ready for the client right at the end.",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, don't that.",
+            "timestamp": "00:20:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Don't include that, okay.",
+            "timestamp": "00:20:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, for two reasons.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "One, it's really about this is ready for client delivery.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So the end state where you want to stop the timer is I would be happy for the client to look at this, not like it's on their site.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's different.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And that second reason is that process you're talking about is being actively worked on by the eng team.",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And we're like, we want to make sure all these automations are actually functioning correctly, right?",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Now, yes, there will always be some spot checks and your instincts are great because you want to look at it live on the page.",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I would, you know, I have to.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's a compulsion.",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I have to look at it live because I know just how wonky things can happen.",
+            "timestamp": "00:21:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "However, that's a publishing process, not an editorial process.",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So I would say like the end state for your timer when you stop is like, okay, cool.",
+            "timestamp": "00:21:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I'm happy for the EM to pass this on to the client.",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I'm happy for the client to look at this if they looked at it right now, I would be copacetic with that, right?",
+            "timestamp": "00:21:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "In its current state, not like live or whatever.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's the way I would say.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Got it.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Carrie, yes, we are going to look at averages.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, for sure.",
+            "timestamp": "00:22:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And once again, like, even the one where it's like, wow, dang, you know, wait, why did your time go up?",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Oh, this one article was like a bear, right?",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That actually is great.",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's great news.",
+            "timestamp": "00:22:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Not great news, but it's great for us to see because then we can say, why?",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You know, why was this article so tough?",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And it's like, maybe the pipeline produced some really wonky results in that one instance, right?",
+            "timestamp": "00:22:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "In that case.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And we can analyze that run of the pipeline.",
+            "timestamp": "00:22:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And this is why it matters that we populate the item names, right?",
+            "timestamp": "00:22:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So it's like, oh, that article on, you know, identity states and stateless security or whatever, that one took forever to edit correctly.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's look at the pipeline run.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's pull the logs because we have now, thanks to Marcus, we have a log dump we can pull of that pipeline run.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And, and.",
+            "timestamp": "00:22:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Edge team can look at it, right?",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We can flag for the Edge team, hey, this took us forever.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I pinged them to ask them why this one took a long time, and they were like, oh, man, it was just like all over the place, or the links were really bad, or whatever it was.",
+            "timestamp": "00:23:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then we have something to hand the Edge team.",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's like, here's logs, here's a pipeline that's anomalous, and here's your thing.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Rather than you suffering, and you're like, oh, well, it was just one out of my six this week, I'll just, you know, manual labor this thing and get it out to the client.",
+            "timestamp": "00:23:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's lovely, I'm very happy you're doing that.",
+            "timestamp": "00:23:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But I don't want you to have to do that.",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And want you to have to do it forever.",
+            "timestamp": "00:23:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And in fact, it's bad, right?",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, long term, that affects efficiency, it affects your capacity, it affects our ability to deliver clients, and it does not improve Atlas.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, that's a big one.",
+            "timestamp": "00:23:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, if you manually, you know, cajole an article into shape over the space of an hour and a half to two hours in a variety of tools, or by hand, so to speak, artisanally crafted.",
+            "timestamp": "00:23:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's great.",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "for the client because they get good work.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You've done the job.",
+            "timestamp": "00:24:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You've done good work.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's great for GrowthX as a company because the client is happy with the work.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's bad for Atlas.",
+            "timestamp": "00:24:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's bad for you.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's bad for the efficiency level.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's bad for everything else, right?",
+            "timestamp": "00:24:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So it's like I don't want it to be like, oh, you're doing something wrong by doing that, but you are doing something you probably don't have to do because if your other article, especially if there's an anomaly where one article is bad and the other ones are good, what's the statistically significant thing there?",
+            "timestamp": "00:24:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's like obvious that that's an outlier.",
+            "timestamp": "00:24:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And why is it?",
+            "timestamp": "00:24:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's figure it out, right?",
+            "timestamp": "00:24:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's run some IngePass on it.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Let's run some client ops on it, that sort of thing.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then overall, if your times are high, don't be alarmed.",
+            "timestamp": "00:24:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "This is just like your opportunity to log that honestly so that we can help, right?",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That we can like do not be in any way like worried about it or try to fudge the time lower by thinking, oh, well, this I could just.",
+            "timestamp": "00:24:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Do this and off the books.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Don't do that, like, because that just basically makes it your job harder every day, right?",
+            "timestamp": "00:25:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "For no reason.",
+            "timestamp": "00:25:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It just makes it so that you're not getting the help that we can offer and we want to offer because it makes the product better and it makes your job easier every day.",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So help us to do that.",
+            "timestamp": "00:25:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Any other questions about that?",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I don't have a question, but I do want to add to what you just said, which is that, like, because I know I'm hearing it.",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Because I'm thinking it, I would have been thinking it, is that skepticism about getting fixed if you do give something to engineering, because I know we've all been there, where, like, it took forever to get something fixed.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "I can tell you that because we were trying to stand up to check that stuff so quickly, we were submitting tons and tons and tons of feedback to the engineering team on those workflows, which they're very similar, except for they're directly in the CMS for that.",
+            "timestamp": "00:25:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "And giving them, like, what it looked like, where it came wrong.",
+            "timestamp": "00:25:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Out of the pipeline and your final draft is helpful.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "They know what the end state's supposed to be and they know what they need to tweak versus you giving them little tidbits.",
+            "timestamp": "00:26:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "That's also very helpful.",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So it doesn't have to be time consuming either to submit a ticket.",
+            "timestamp": "00:26:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Like if you do encounter one that requires like an hour of finessing to get it where you need to be, like, hey, we do this type of article a lot.",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Can you look at this and see how we can modify?",
+            "timestamp": "00:26:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Do we need a new pipeline?",
+            "timestamp": "00:26:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Do we need, you know, do we need to just edit our overall assignment instructions?",
+            "timestamp": "00:26:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Like, what is this?",
+            "timestamp": "00:26:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "They've done some amazing stuff.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "You guys wouldn't believe we're publishing without reviewing on some things for Check That.",
+            "timestamp": "00:26:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Granted, we're still finding little tiny errors, but I'm talking about tiny errors.",
+            "timestamp": "00:26:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "Like fact checking is good.",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "You know, we get a full, like, research report and everything in there.",
+            "timestamp": "00:26:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "It's pretty awesome.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carrie Chowske",
+                "matched_calendar_invitee_email": "carrie@growthx.ai"
+            },
+            "text": "So the capability is there and I know that they want to do it.",
+            "timestamp": "00:26:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "It's just that if we don't tell them, they don't have the information to do it.",
+            "timestamp": "00:26:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:26:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And that's the reason why we've built things like logging into the pipelines now where we can dump, like, kind of a run of the pipeline with all of the attention.",
+            "timestamp": "00:26:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then I also wanted to flag that we have hired additional client ops engineers.",
+            "timestamp": "00:27:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So Kirkland's team is growing, which is just a capacity issue on their part, right?",
+            "timestamp": "00:27:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like poor Kirkland and Marcus running around is not enough, you know?",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like they're trying to put out fires, stamp out little ones and, you know, kind of try to figure out how to take on bigger ones.",
+            "timestamp": "00:27:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But we've got additional members of the team.",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Andy and I sit in on that meeting every week and the team is growing.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "They're getting bigger.",
+            "timestamp": "00:27:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "They're getting better able to tackle all of your issues as you bring them up.",
+            "timestamp": "00:27:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So don't be disheartened if you go like, oh, man, this has been kind of wonky for a while.",
+            "timestamp": "00:27:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Well, we're getting help, you know?",
+            "timestamp": "00:27:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "We're getting people to do it.",
+            "timestamp": "00:27:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But the ability for them to improve it does depend on documentation and clear articulation of the problem, right?",
+            "timestamp": "00:27:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So remember that.",
+            "timestamp": "00:27:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "is on you.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "The part that's on you is...",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "we're",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Very clearly articulating your standards of good, I would like it to be like this, your current state, it is currently like this, and of course, any data that you can provide them, and always, always, of course, link to as specific items as you can, link to a specific workflow, link to a specific pipeline, those are all URLs you can copy right out of the address bar at any point in Atlas.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, don't just say like, oh, this account is bad because of X, it's like, okay, where, like, show me why, show me specifically what's going on, and of course, the timing will help us, you know, with this, but if you are filing tickets, or if say, oh, wow, you had an outlier here, let's file a ticket and get this analyzed, or get this pulled out, or whatever, include specific links, because hunting for those just eats into the edge time that they would spend fixing the problem, right?",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Because then they have to diagnose where the problem is first, and then they could actually start addressing it, so please do include specific links.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "I think that's the big ones for this.",
+            "timestamp": "00:29:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And, like, you know, the overall goal, I don't want to belabor it too much because we will have some more data on this and more information about this because I mentioned that we kind of tried to collate all of the external processes everybody was using.",
+            "timestamp": "00:29:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And, you know, the end goal, of course, is to move off of those processes and into Atlas, but we know that that can't be, like, some sort of mandate without the actual functions being present in Atlas or they're being articulated properly to Atlas in order for them to do.",
+            "timestamp": "00:29:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, we'll work on it, but that is the goal, right, is move off of, like, the dozens of different external processes that most of you probably use on a weekly basis and make Atlas do more and more of that and take on more and more of that labor.",
+            "timestamp": "00:29:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's the goal.",
+            "timestamp": "00:29:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, we'll work towards it.",
+            "timestamp": "00:29:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Any more questions or anything on that?",
+            "timestamp": "00:29:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Can I just add something about this?",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Just to give you guys, like, concrete examples.",
+            "timestamp": "00:30:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "For example, the pipeline that Panzar mentioned in the beginning about comments and implementing comments to the article, what happened was, I started doing this manually, and I really mean manually, I would go into the Google Doc, I would copy it to a Word Doc, copy the comment, copy a sentence or a paragraph that was related to that comment, I would make a doc so I could look at all of them, and then I would start editing.",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Then, after all of this got too much, I built a project in Cloud that did that for me, and it worked well for a long time, but then at the end, I was like, why am I doing this in Cloud?",
+            "timestamp": "00:30:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "I can do this in Atlas.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Of course, I, Mariana, Nana, couldn't do it, so I was like, Marcos, can you kindly do this?",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "But what I really mean is that, like, of course, this is an extreme example.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "What I really mean is that we, and I did this a little for Biological, I think Felix will remember, I would do things in Cloud, I would like do post-processing in Cloud, and once I got to a good state of it, I would try to implement it in the artifacts that I already had in Atlas.",
+            "timestamp": "00:31:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "So, my proofreader checklist was always kind of evolving, and I was always trying to add things there, so I didn't need to rely on Cloud that much, you know, and also assignment direction.",
+            "timestamp": "00:31:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "So, I think basically, of course, in terms of pipelines, we will need and just help, but at the same time, there are many things that you guys probably can implement in your artifacts right now and give it a go and see if it will save you some time of doing that in Cloud.",
+            "timestamp": "00:31:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Mariana Marins",
+                "matched_calendar_invitee_email": "mariana.marins@growthx.ai"
+            },
+            "text": "Cloud.",
+            "timestamp": "00:31:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And then, you know, the articulation of where those things belong in the artifacts and where they belong in the pipelines, et cetera, they may not always be clear.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "And that's a case for funding a ticket.",
+            "timestamp": "00:32:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "You know, you've got your desired outcomes, your desired results, or desired things you're doing externally, and you'd like to move those internally.",
+            "timestamp": "00:32:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "File a ticket, make it detailed, get it in the EPD pipeline, and they will triage it and work on it.",
+            "timestamp": "00:32:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, all right.",
+            "timestamp": "00:32:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "That's about all I have today, and I'll let you folks go, unless any other burning questions anybody has?",
+            "timestamp": "00:32:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "I had a question.",
+            "timestamp": "00:32:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, I had a question.",
+            "timestamp": "00:32:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "was mostly for Marcus, actually, regarding what Nanau was saying.",
+            "timestamp": "00:32:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "So, the pipeline that we've created now for the comment, like, taking all the comments out, putting it into a doc, I guess, is what happens, and then feeding that comment doc to, is that my understanding correctly?",
+            "timestamp": "00:32:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, it takes the comments.",
+            "timestamp": "00:32:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "You should just take look at the documentation we have for it, and then ask your questions based on that, yeah.",
+            "timestamp": "00:32:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:32:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "I'll look at that, but what, like, is that the end vision for it, or are we going to move forward with, like, idea of, like, literally creating, like, a Google Doc version, but it's not Google, it's Atlas.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Like, basically, like, the output that comes out of Atlas, to have that be a collaborative, like, exported as, like, a link that can then be, that can be given to the client, and they can provide their comments on that, whatever that Atlas document is, that's a shareable link, so that that can then just feed those, those comments can directly then be fed.",
+            "timestamp": "00:33:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, yeah, that's, we're getting, yeah, we're getting over our skis a little bit on that.",
+            "timestamp": "00:33:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "This is just really just a bare bones tool to help you now.",
+            "timestamp": "00:33:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "In the future, the content OS is how clients will view content.",
+            "timestamp": "00:33:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Like, the Atlas, they will view content in Atlas, so, yes, comments that they make will be harvested from there, etc., rather than having to do this separate process.",
+            "timestamp": "00:33:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "This is a hack, right?",
+            "timestamp": "00:33:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "But it's an Atlas hack, not an external tool hack.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:34:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:34:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:34:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Nathan Navidzadeh",
+                "matched_calendar_invitee_email": "nathan@growthx.ai"
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:34:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:34:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:34:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Peace.",
+            "timestamp": "00:34:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:34:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Panzarino",
+                "matched_calendar_invitee_email": "matthew@growthx.ai"
+            },
+            "text": "Ciao.",
+            "timestamp": "00:34:10"
+        }
+    ]
+}

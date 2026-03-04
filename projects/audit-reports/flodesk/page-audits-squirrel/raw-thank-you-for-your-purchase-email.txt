@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audit version="0.0.38">
+<site url="https://flodesk.com" crawled="1" date="2026-02-28T15:47:15.734Z"/>
+<score overall="43" grade="F">
+ <cat name="Accessibility" score="75"/>
+ <cat name="Images" score="51"/>
+ <cat name="Performance" score="72"/>
+ <cat name="Crawlability" score="90"/>
+ <cat name="Security" score="60"/>
+ <cat name="E-E-A-T" score="58"/>
+ <cat name="Links" score="74"/>
+ <cat name="Core SEO" score="91"/>
+ <cat name="Content" score="91"/>
+ <cat name="Analytics" score="100"/>
+ <cat name="Internationalization" score="100"/>
+ <cat name="Legal Compliance" score="100"/>
+ <cat name="Mobile" score="100"/>
+ <cat name="Structured Data" score="100"/>
+ <cat name="Social Media" score="100"/>
+ <cat name="URL Structure" score="100"/>
+</score>
+<summary passed="98" warnings="37" failed="8"/>
+<issues>
+ <category name="Crawlability" errors="1" warnings="2">
+  <rule id="crawl/sitemap-valid" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/crawl/sitemap-valid">
+   8 error(s) in 8 sitemap(s)
+   Items (5/8):
+    - /sitemap.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap_index.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap-index.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemaps.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap1.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+  </rule>
+  <rule id="crawl/canonical-chain" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/crawl/canonical-chain">
+   Page redirects before content is served
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (1):
+    - /blog/thank-you-for-your-purchase-email/ (https://flodesk.com/blog/thank-you-for-your-purchase-email (301) → https://flodesk.com/blog/thank-you-for-your-purchase-email/ (200)) [finalUrl: https://flodesk.com/blog/thank-you-for-your-purchase-email/, chain: {&quot;sourceUrl&quot;:&quot;https://flodesk.com/blog/thank-you-for-your-purchase-email&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/thank-you-for-your-purchase-email/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;https://flodesk.com/blog/thank-you-f…]
+  </rule>
+  <rule id="crawl/sitemap-coverage" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/crawl/sitemap-coverage">
+   1 indexable page(s) not in sitemap (100%)
+   Items (1):
+    - /blog/thank-you-for-your-purchase-email
+  </rule>
+ </category>
+ <category name="Core SEO" errors="0" warnings="2">
+  <rule id="core/og-tags" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/core/og-tags">
+   Missing og:image - social shares will lack imagery
+   Pages (1): /blog/thank-you-for-your-purchase-email
+  </rule>
+  <rule id="core/twitter-cards" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/core/twitter-cards">
+   summary_large_image card requires an image
+   Pages (1): /blog/thank-you-for-your-purchase-email
+  </rule>
+ </category>
+ <category name="Security" errors="0" warnings="6">
+  <rule id="security/leaked-secrets" severity="error" status="warn" docs="https://docs.squirrelscan.com/rules/security/leaked-secrets">
+   2 potential secret(s) detected (verify manually)
+   Items (2):
+    - Generic API Key Assignment: API_KE********************b27&apos; (Found in inline-script (https://flodesk.com/blog/thank-you-for-your-purchase-email))
+    - Amplitude API Key: a20221********************1b27 (Found in inline-script (https://flodesk.com/blog/thank-you-for-your-purchase-email))
+  </rule>
+  <rule id="security/csp" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/csp">
+   No Content-Security-Policy header
+  </rule>
+  <rule id="security/hsts" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/hsts">
+   Missing Strict-Transport-Security header
+  </rule>
+  <rule id="security/x-frame-options" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/x-frame-options">
+   No clickjacking protection
+  </rule>
+  <rule id="security/new-tab" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/new-tab">
+   10 external link(s) missing rel=&quot;noopener&quot;
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (5/10):
+    - https://twitter.com/intent/tweet?url=https://flodesk.com/blog/blog/thank-you-for-your-purchase-email/&amp;text=‘Thank you for your purchase’ email templates: examples and tips&amp;via=&amp;hastags=
+    - https://www.facebook.com/sharer.php?display=page&amp;u=https://flodesk.com/blog/blog/thank-you-for-your-purchase-email/
+    - https://www.linkedin.com/sharing/share-offsite/?url=https://flodesk.com/blog/blog/thank-you-for-your-purchase-email/
+    - http://twitter.com/home/?status=‘Thank you for your purchase’ email templates: examples and tips - /blog/thank-you-for-your-purchase-email/
+    - http://www.facebook.com/sharer.php?u=/blog/thank-you-for-your-purchase-email/&amp;t=‘Thank you for your purchase’ email templates: examples and tips
+  </rule>
+  <rule id="security/http-to-https" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/http-to-https">
+   2 HTTP URL(s) redirect to HTTPS
+   Items (2):
+    - http://flodesk.com/ (http://flodesk.com/ → https://flodesk.com/ (301)) [statusCode: 301, chain: {&quot;sourceUrl&quot;:&quot;http://flodesk.com/&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;http://flodesk.com/&quot;,&quot;statusCode&quot;:301,&quot;type&quot;:&quot;http&quot;},{&quot;url&quot;:&quot;https://flodesk.com/&quot;,&quot;statusCode&quot;:200,&quot;type&quot;:&quot;http&quot;}…]
+    - http://flodesk.com/blog/thank-you-for-your-purchase-email (http://flodesk.com/blog/thank-you-for-your-purchase-email → https://flodesk.com/blog/thank-you-for-your-purchase-email/ (301)) [statusCode: 301, chain: {&quot;sourceUrl&quot;:&quot;http://flodesk.com/blog/thank-you-for-your-purchase-email&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/thank-you-for-your-purchase-email/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;http://flodesk.com/blog/thank-you-for…]
+  </rule>
+ </category>
+ <category name="Links" errors="0" warnings="4">
+  <rule id="links/broken-external-links" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/broken-external-links">
+   2 broken external link(s): 1 with 520, 1 with 500
+   Items (2):
+    - http://twitter.com/home/?status=%E2%80%98Thank%20you%20for%20your%20purchase%E2%80%99%20email%20templates:%20examples%20and%20tips%20-%20/blog/thank-you-for-your-purchase-email/ (http://twitter.com/home/?status=%E2%80%98Thank%20you%20for%20your%20purchase%E2%80%99%20email%20templates:%20examples%20and%20tips%20-%20/blog/thank-you-for-your-purchase-email/ (520)) [status: 520] (from: /blog/thank-you-for-your-purchase-email, /blog/thank-you-for-your-purchase-email)
+    - http://www.facebook.com/sharer.php?u=/blog/thank-you-for-your-purchase-email/&amp;t=%E2%80%98Thank%20you%20for%20your%20purchase%E2%80%99%20email%20templates:%20examples%20and%20tips (http://www.facebook.com/sharer.php?u=/blog/thank-you-for-your-purchase-email/&amp;t=%E2%80%98Thank%20you%20for%20your%20purchase%E2%80%99%20email%20templates:%20examples%20and%20tips (500)) [status: 500] (from: /blog/thank-you-for-your-purchase-email, /blog/thank-you-for-your-purchase-email)
+  </rule>
+  <rule id="links/https-downgrade" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/https-downgrade">
+   8 link(s) downgrade to HTTP
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (5/8):
+    - http://twitter.com/home/?status=‘Thank you for your purchase’ email templates: examples and tips - /blog/thank-you-for-your-purchase-email/
+    - http://www.facebook.com/sharer.php?u=/blog/thank-you-for-your-purchase-email/&amp;t=‘Thank you for your purchase’ email templates: examples and tips
+    - http://www.linkedin.com/shareArticle?mini=true&amp;title=‘Thank you for your purchase’ email templates: examples and tips&amp;url=/blog/thank-you-for-your-purchase-email/
+    - http://twitter.com/home/?status=‘Thank you for your purchase’ email templates: examples and tips - /blog/thank-you-for-your-purchase-email/
+    - http://www.facebook.com/sharer.php?u=/blog/thank-you-for-your-purchase-email/&amp;t=‘Thank you for your purchase’ email templates: examples and tips
+  </rule>
+  <rule id="links/anchor-text" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/anchor-text">
+   9 link(s) have empty anchor text
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (5/9):
+    - https://twitter.com/intent/tweet?url=https://flodesk.com/blog/blog/thank-you-for-your-purchase-email/&amp;text=‘Thank you for your purchase’ email templates: examples and tips&amp;via=&amp;hastags= | &lt;a class=&quot;social-link&quot; href=&quot;https://twitter.com/intent/tweet?url=https://flodesk.com/blog/blog/thank-you-for-your-purch...
+    - https://www.facebook.com/sharer.php?display=page&amp;u=https://flodesk.com/blog/blog/thank-you-for-your-purchase-email/ | &lt;a class=&quot;social-link&quot; href=&quot;https://www.facebook.com/sharer.php?display=page&amp;u=https://flodesk.com/blog/blog/thank-you-...
+    - https://www.linkedin.com/sharing/share-offsite/?url=https://flodesk.com/blog/blog/thank-you-for-your-purchase-email/ | &lt;a class=&quot;social-link&quot; href=&quot;https://www.linkedin.com/sharing/share-offsite/?url=https://flodesk.com/blog/blog/thank-you...
+    - http://twitter.com/home/?status=‘Thank you for your purchase’ email templates: examples and tips - /blog/thank-you-for-your-purchase-email/ | &lt;a class=&quot;social-link&quot; href=&quot;http://twitter.com/home/?status=‘Thank you for your purchase’ email templates: examples and...
+    - http://www.facebook.com/sharer.php?u=/blog/thank-you-for-your-purchase-email/&amp;t=‘Thank you for your purchase’ email templates: examples and tips | &lt;a class=&quot;social-link&quot; href=&quot;http://www.facebook.com/sharer.php?u=/blog/thank-you-for-your-purchase-email/&amp;t=‘Thank you ...
+  </rule>
+  <rule id="links/redirect-chains" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/redirect-chains">
+   1 page(s) redirect to another URL
+   Items (1):
+    - /blog/thank-you-for-your-purchase-email (https://flodesk.com/blog/thank-you-for-your-purchase-email (301) → https://flodesk.com/blog/thank-you-for-your-purchase-email/ (200)) [targetUrl: https://flodesk.com/blog/thank-you-for-your-purchase-email/, chain: {&quot;sourceUrl&quot;:&quot;https://flodesk.com/blog/thank-you-for-your-purchase-email&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/thank-you-for-your-purchase-email/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;https://flodesk.com/blog/thank-you-f…]
+  </rule>
+ </category>
+ <category name="Content" errors="0" warnings="1">
+  <rule id="content/keyword-stuffing" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/content/keyword-stuffing">
+   1 word(s) may be overused
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (1):
+    - your (&quot;your&quot; (5.9%)) [count: 130, density: 5.925250683682772]
+  </rule>
+ </category>
+ <category name="Images" errors="2" warnings="3">
+  <rule id="images/image-file-size" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/images/image-file-size">
+   3 image(s) exceed 1.0 MB; 4 image(s) exceed 200.0 KB
+   Items (5/7):
+    - /blog/wp-content/uploads/2023/08/image-4.png [sizeBytes: 1521679, size: 1.5 MB, status: 200, contentType: image/png] (from: /blog/thank-you-for-your-purchase-email)
+    - /blog/wp-content/uploads/2023/09/Fer_Headshot.png [sizeBytes: 1321611, size: 1.3 MB, status: 200, contentType: image/png] (from: /blog/thank-you-for-your-purchase-email)
+    - /blog/wp-content/uploads/2024/03/BlogInline@2x-1.png [sizeBytes: 1234569, size: 1.2 MB, status: 200, contentType: image/png] (from: /blog/thank-you-for-your-purchase-email)
+    - /blog/wp-content/uploads/2023/09/image2.png [sizeBytes: 385820, size: 376.8 KB, status: 200, contentType: image/png] (from: /blog/thank-you-for-your-purchase-email)
+    - /blog/wp-content/uploads/2023/09/image1.png [sizeBytes: 274974, size: 268.5 KB, status: 200, contentType: image/png] (from: /blog/thank-you-for-your-purchase-email)
+  </rule>
+  <rule id="images/alt-text" severity="warning" status="fail" docs="https://docs.squirrelscan.com/rules/images/alt-text">
+   3 image(s) missing alt text
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (3):
+    - /blog/wp-content/uploads/2023/01/imgcard-checkoutdesign.jpg
+    - /blog/wp-content/uploads/2023/08/image-4.png
+    - /blog/wp-content/uploads/2023/09/Fer_Headshot.png
+  </rule>
+  <rule id="images/dimensions" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/images/dimensions">
+   2 image(s) missing width/height (causes CLS)
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (2):
+    - /blog/wp-content/uploads/2023/01/imgcard-checkoutdesign.jpg | &lt;img src=&quot;https://flodesk.com/blog/wp-content/uploads/2023/01/imgcard-checkoutdesign.jpg&quot; alt=&quot;&quot;&gt;
+    - /blog/wp-content/uploads/2023/08/image-4.png | &lt;img src=&quot;https://flodesk.com/blog/wp-content/uploads/2023/08/image-4.png&quot; alt=&quot;&quot;&gt;
+  </rule>
+  <rule id="images/svg-inline" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/images/svg-inline">
+   2 large inline SVG(s) (&gt;4KB each)
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (1):
+    - /blog/thank-you-for-your-purchase-email (2 large inline SVG(s) (&gt;4KB each))
+  </rule>
+ </category>
+ <category name="Performance" errors="1" warnings="7">
+  <rule id="perf/js-file-size" severity="error" status="warn" docs="https://docs.squirrelscan.com/rules/perf/js-file-size">
+   1 JS file(s) exceed 250.0 KB
+   Items (1):
+    - /blog/wp-content/themes/seachange-flodesk-wp/dist/main.js?ver=1765442095 [sizeBytes: 360091, size: 351.7 KB, status: 200, contentType: application/javascript] (from: /blog/thank-you-for-your-purchase-email)
+  </rule>
+  <rule id="perf/lcp-hints" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/lcp-hints">
+   2 potential LCP image(s) without preload
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (2):
+    - /blog/wp-content/uploads/2023/01/imgcard-checkoutdesign.jpg
+    - /blog/wp-content/uploads/2023/08/image-4.png
+  </rule>
+  <rule id="perf/cls-hints" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/cls-hints">
+   2 image(s) without width/height (CLS risk)
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (2):
+    - /blog/wp-content/uploads/2023/01/imgcard-checkoutdesign.jpg
+    - /blog/wp-content/uploads/2023/08/image-4.png
+  </rule>
+  <rule id="perf/dom-size" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/dom-size">
+   Element with 175 children found
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (1):
+    - /blog/thank-you-for-your-purchase-email (Element with 175 children found)
+  </rule>
+  <rule id="perf/total-byte-weight" severity="warning" status="fail" docs="https://docs.squirrelscan.com/rules/perf/total-byte-weight">
+   Total tracked resources: 6617KB (very heavy)
+  </rule>
+  <rule id="perf/critical-request-chains" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/critical-request-chains">
+   4 critical request chain(s) found
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (4):
+    - CSS: /blog/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.8
+    - CSS: /blog/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5
+    - CSS: /blog/wp-content/themes/seachange-flodesk-wp/dist/screen.css?ver=1765442095
+    - JS: https://transcend-cdn.com/cm/b022c246-e40c-4b32-b749-35faaa65cbe9/airgap.js
+  </rule>
+  <rule id="perf/unminified-js" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/unminified-js">
+   2 JavaScript file(s) appear unminified
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (2):
+    - inline script (2.6KB, ~0.3KB savings) [reason: high newlines (1.98%), formatted code, excessive whitespace]
+    - main.js (351.7KB, ~229.7KB savings) [reason: 12 comments]
+  </rule>
+  <rule id="perf/cache-headers" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/cache-headers">
+   No caching headers found
+   Pages (1): /blog/thank-you-for-your-purchase-email
+  </rule>
+ </category>
+ <category name="Accessibility" errors="4" warnings="7">
+  <rule id="a11y/button-name" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/button-name">
+   Buttons without accessible names
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (2):
+    - button.close-btn
+    - button.toc-close-btn
+  </rule>
+  <rule id="a11y/aria-command-name" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/aria-command-name">
+   11 command element(s) without accessible names
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (5/10):
+    - button[type=&quot;submit&quot;]
+    - button[type=&quot;submit&quot;]
+    - a[href=&quot;https://twitter.com/intent/twe...&quot;]
+    - a[href=&quot;https://www.facebook.com/share...&quot;]
+    - a[href=&quot;https://www.linkedin.com/shari...&quot;]
+  </rule>
+  <rule id="a11y/aria-labels" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/aria-labels">
+   2 button(s) without accessible names
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (2):
+    - close-btn
+    - toc-close-btn
+  </rule>
+  <rule id="a11y/color-contrast" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/color-contrast">
+   3 potential color contrast issue(s)
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (3):
+    - a: #C0DFF5 on #5A71B6 (3.38:1)
+    - White text (verify background): 6 instance(s)
+    - Very light text color: 6 instance(s)
+  </rule>
+  <rule id="a11y/landmark-one-main" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/landmark-one-main">
+   Page has no main landmark
+   Pages (1): /blog/thank-you-for-your-purchase-email
+  </rule>
+  <rule id="a11y/heading-order" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/heading-order">
+   1 heading level skip(s) detected
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (1):
+    - H3 after H1
+  </rule>
+  <rule id="a11y/identical-links-same-purpose" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/identical-links-same-purpose">
+   2 link text(s) lead to different destinations
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (2):
+    - &quot;flodesk&quot; → 2 different URLs
+    - &quot;categories&quot; → 2 different URLs
+  </rule>
+  <rule id="a11y/link-text" severity="warning" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/link-text">
+   9 link(s) with no accessible text; 2 link(s) with generic text
+   Pages (1): /blog/thank-you-for-your-purchase-email
+   Items (5/10):
+    - https://twitter.com/intent/tweet?url=https://flode (svg-no-name)
+    - https://www.facebook.com/sharer.php?display=page&amp;u (svg-no-name)
+    - https://www.linkedin.com/sharing/share-offsite/?ur (svg-no-name)
+    - http://twitter.com/home/?status=‘Thank you for you (svg-no-name)
+    - http://www.facebook.com/sharer.php?u=/blog/thank-y (svg-no-name)
+  </rule>
+  <rule id="a11y/skip-link" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/skip-link">
+   No bypass mechanism for repetitive content
+   Pages (1): /blog/thank-you-for-your-purchase-email
+  </rule>
+  <rule id="a11y/landmark-regions" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/landmark-regions">
+   No &lt;main&gt; landmark found
+   Pages (1): /blog/thank-you-for-your-purchase-email
+  </rule>
+ </category>
+ <category name="E-E-A-T" errors="0" warnings="5">
+  <rule id="eeat/about-page" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/about-page">
+   No About page found
+  </rule>
+  <rule id="eeat/author-byline" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/author-byline">
+   No content pages have author attribution
+  </rule>
+  <rule id="eeat/contact-page" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/contact-page">
+   No Contact page found
+  </rule>
+  <rule id="eeat/privacy-policy" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/privacy-policy">
+   No Privacy Policy page found
+  </rule>
+  <rule id="eeat/content-dates" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/content-dates">
+   No content pages have datePublished
+  </rule>
+ </category>
+</issues>
+</audit>

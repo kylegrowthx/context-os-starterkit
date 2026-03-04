@@ -1,0 +1,882 @@
+# Briefing Call — Marketing Academy US Alumni Day (NYC)
+
+<metadata>
+date: 2025-09-11
+time: 18:30 UTC
+duration: 33 minutes
+organizer: Marcel Santilli (GrowthX)
+participants: Marcel Santilli (GrowthX), Sally Barton (Mondelez), Simge (Plotis), Jason Gong (GrowthX)
+fathom_recording_id: 86700487
+fathom_url: https://fathom.video/calls/406570792
+share_url: https://fathom.video/share/LBUeJsvcUhYVJEekUu9KQE8MNLCygo8o
+source: fathom
+enriched_on: 2026-03-03 14:22 UTC
+</metadata>
+
+---
+
+## Summary
+
+Sally Barton and Simge from the Marketing Academy briefed Marcel Santilli on his upcoming 60-minute speaking session at the Marketing Academy US Alumni Day at the Whitney Museum in New York. The session centers on reinvention and becoming AI-native: Marcel will deliver a 30-minute personal keynote on his career journey through layoffs and setbacks, followed by a 30-minute fireside chat with audience Q&A moderated by Candy. Key themes include overcoming adversity, delegating to build leverage, building "AI muscles" as a competitive necessity, and the urgent need for knowledge workers to reinvent themselves in the AI era.
+
+---
+
+## Context
+
+The Marketing Academy US Alumni Day (held at the Whitney Museum in New York) is an annual summit for alumni of the Marketing Academy fellowship program, focused on professional and personal development for marketing leaders. Sally Barton, a Mondelez marketing executive and 2019/2020 Marketing Academy scholar, is helping organize the event alongside Simge, another alumni from the same cohort. Both Sally and Simge worked previously at Reckitt (a consumer goods company). The call serves as a briefing and strategy session to prepare Marcel Santilli, founder of GrowthX, for his keynote presentation. Marcel was referred to the event by Candy from the Marketing Academy. The broader context is that marketing leaders and knowledge workers across the industry are grappling with how AI and agentic AI are rapidly transforming their roles, and many are at different stages of adoption and capability-building. The "Art of Leadership" theme of the day aims to ground marketing excellence in personal growth, vulnerability, and authentic leadership — values that align well with Marcel's emphasis on storytelling and vulnerability in his talks.
+
+---
+
+## Relevance
+
+**To GrowthX Business Development:**
+- Strong positioning opportunity: Marcel's personal story (layoffs, setbacks, reinvention) combined with GrowthX's $11M revenue and Series A funding demonstrates viable path to AI-native marketing leadership
+- Reference potential with Marketing Academy alumni network at major CPG and enterprise brands (Mondelez, Reckitt, etc.)
+- Audience at Whitney event includes marketing leaders evaluating AI adoption strategies — direct conversation starters for GrowthX services
+
+**To GrowthX Delivery:**
+- Reinforces Marcel's core message about the "messy middle" — importance of human judgment, expertise, and thought processes in AI workflows, not just prompts/tools
+- Marketing teams need to understand that building "AI muscles" requires both delegation and first-principles thinking — useful framing for client workshops and training
+- Decay of knowledge worker value is accelerating — urgency messaging resonates with clients evaluating AI workflow adoption
+
+**To GrowthX Marketing & Community Building:**
+- Vulnerability and personal storytelling drive community engagement (Marketing Academy model mirrors GrowthX's workshop and community approach)
+- Session format (personal keynote + fireside chat) tested successfully in past workshops — proven to resonate with audiences
+- Practical, actionable takeaways critical — avoid high-level talks, focus on concrete next steps people can implement
+
+---
+
+## Overview
+
+- Marcel will deliver a 60-minute session on personal reinvention and becoming AI-native
+- Format: 30-min keynote on Marcel's journey, followed by 30-min fireside chat/Q\&A
+- Key themes: Overcoming career setbacks, leveraging AI for personal growth, and the urgency of reinvention for knowledge workers
+- Session will blend personal storytelling with practical AI demonstrations
+
+---
+
+## Key Topics
+
+### Marcel's Background and GrowthX
+
+  - Started at IBM, built content hubs for major brands
+  - Transitioned to startups (HashiCorp, Scale.ai, DeepGram)
+  - Founded GrowthX, applying AI workflows to marketing
+  - Rapid growth: $11M revenue, Series A funding
+  - Working with brands like Lovable, Ramp, Reddit, Webflow
+
+### Session Structure and Content
+
+  - First 30 minutes: Marcel's personal journey and lessons learned
+      - Career setbacks (layoffs, equity clawbacks)
+      - Strategies for reinvention (delegating tasks, building leverage)
+      - Becoming AI-native and building AI workflows
+  - Second 30 minutes: Fireside chat and audience Q\&A
+      - Moderated by Candy (Marketing Academy)
+      - Focus on practical applications and audience engagement
+
+### Key Messages for Attendees
+
+  - Urgency of reinvention for knowledge workers in the AI era
+  - Importance of building "AI muscles" and thinking from first principles
+  - Balancing vulnerability and expertise in leadership
+  - Practical steps for leveraging AI in marketing and personal growth
+
+### Alignment with Marketing Academy Values
+
+  - Emphasis on personal growth and leadership development
+  - Vulnerability and authentic storytelling
+  - Practical, actionable insights for attendees
+  - Connection to the "Art of Leadership" theme (held at Whitney Museum)
+
+---
+
+## Action Items
+
+**Sally Barton (Mondelez)**
+- Share links to Marcel's previous workshops/sessions demonstrating personal journey and AI reinvention
+
+- Confirm 60-min timeslot for Marcel's session at Marketing Academy event at Whitney Museum
+
+**Marcel Santilli (GrowthX)**
+- Prepare 30-min keynote-style presentation on personal journey, lessons learned, and AI native reinvention for Marketing Academy event
+
+**Jason Gong (GrowthX)**
+- Follow up via email regarding logistical details for Marcel's Marketing Academy presentation
+
+---
+
+## Transcript
+**Simge:** Hi, Marcel.
+
+**Marcel Santilli:** Hey, how's it going?
+
+**Simge:** Good, thank you.
+
+**Marcel Santilli:** How are you?
+
+**Marcel Santilli:** Pretty good.
+
+**Marcel Santilli:** A busy as usual, but, you know, all good.
+
+**Simge:** Where are you based at it?
+
+**Marcel Santilli:** I am in the Bay Area, so the office of San Francisco, but I live in Oakland.
+
+**Simge:** Oh, how do you like it?
+
+**Marcel Santilli:** I love it.
+
+**Marcel Santilli:** Yeah, it's nice to be able to leave the city every day versus staying in the city.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** I like the city, but it's nice to.
+
+**Marcel Santilli:** Get out and go into somewhere more quiet.
+
+**Simge:** Yeah, yeah.
+
+**Simge:** Yeah, we're in Brooklyn versus Manhattan, and it's, like, not the same level, but it's, like, a similar level of, like, it's nice to, when you're back home, it's, like, quiet, and then it's nice to have the energy of the city as well.
+
+**Simge:** Hey, Sally.
+
+**Sally:** Hey there.
+
+**Sally:** Hi, Marcel.
+
+**Marcel Santilli:** Hey, how's it going?
+
+**Sally:** Going well, thank you.
+
+**Marcel Santilli:** How are you?
+
+**Marcel Santilli:** Pretty good.
+
+**Marcel Santilli:** Can't complain.
+
+**Sally:** Almost Friday.
+
+**Sally:** It is, indeed.
+
+**Sally:** I like to think of it as
+
+**Sally:** Friday already, to be honest, I'm ready.
+
+**Marcel Santilli:** My dad joke is Friday junior, is what we call it.
+
+**Sally:** I see.
+
+**Simge:** I like that.
+
+**Marcel Santilli:** I have really horrible dad jokes.
+
+**Sally:** I welcome them.
+
+**Sally:** I love them.
+
+**Sally:** Please bring them to the alumni day.
+
+**Marcel Santilli:** I mean, others may complain, but I will not.
+
+**Simge:** I'm here for it.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Sally:** Well, we really appreciate you making the time today, but of course, more than that, we really appreciate you coming to our alumni day.
+
+**Sally:** We're really excited.
+
+**Sally:** We're so thankful that Candy made the introduction.
+
+**Sally:** And yeah, we'd just love to take some time to prepare you for the session, to give you all the context and information you need.
+
+**Sally:** And just, you know, we'd love to shape the session with you, however you, you know, would like to see that coming to light.
+
+**Sally:** There's no kind of hard rules or agenda that we have.
+
+**Sally:** I think the key things that, you know, from the Marketing Academy side, we just love to learn.
+
+**Sally:** Be inspired.
+
+**Sally:** So there's a very broad brief there.
+
+**Sally:** But shall I start with, should we do some full introductions before I kind of dive right in?
+
+**Marcel Santilli:** Yeah, yeah, that'll be lovely.
+
+**Sally:** So while I'm talking, I'll start, I'll kick off.
+
+**Sally:** I'm Sally Barton.
+
+**Sally:** So by day, I work at Mondelez International.
+
+**Sally:** So I lead marketing excellence, which is all about building capabilities for our team.
+
+**Sally:** I've got the kind of very traditional CPG marketer background.
+
+**Sally:** I've worked on a number of brands at Reckitt Benckiza, Cadbury, Kraft, Mondelez.
+
+**Sally:** My highlight of my career was probably working on Cadbury Chocolates, just such an amazing brand and product.
+
+**Sally:** But now I have the nice combination of working with both brands and our teams to really build capabilities, which puts me in a nice spot to volunteer to support the Marketing Academy.
+
+**Sally:** So I'm proud alumni.
+
+**Sally:** I was a scholar in 2019, 2020.
+
+**Sally:** And we were the COVID year, so we really needed this community back then.
+
+**Sally:** We did a lot of virtual connects.
+
+**Sally:** So, yeah, I raised my hand to support the team in pulling together this alumni day.
+
+**Sally:** It's like a summit, a one-day summit.
+
+**Marcel Santilli:** It's something I do in my day job with my team.
+
+**Marcel Santilli:** We just had a whole session this week, which was super fun.
+
+**Marcel Santilli:** That's kind of why I'm ready for Friday.
+
+**Marcel Santilli:** But I'm a glutton for punishment.
+
+**Sally:** I've signed myself up for another.
+
+**Sally:** So, yeah, that's me, and that's my role.
+
+**Sally:** I'm helping to shape the agenda, shape, you know, the order of the day.
+
+**Simge:** And Simge, I'll hand over to you.
+
+**Simge:** Yeah.
+
+**Simge:** Oh, my God.
+
+**Simge:** I love that intro.
+
+**Simge:** We actually have similar backgrounds.
+
+**Simge:** We both, Salon and I both worked at Reckitt.
+
+**Simge:** That's the similarity.
+
+**Simge:** And then we both work at, like, a global snacking company.
+
+**Simge:** I work at Plotis.
+
+**Simge:** We actually never overlapped at Reckitt, but we have a lot of, like, friends and friends in common.
+
+**Simge:** But, yeah, I, we are both from the...
+
+**Simge:** Scholarship class of, is it 2020 or 2019?
+
+**Marcel Santilli:** One or the other, the COVID year, it all became a blur.
+
+**Marcel Santilli:** It's all the same year.
+
+**Marcel Santilli:** It's just one really long year.
+
+**Simge:** One really long year.
+
+**Simge:** So yeah, alumni, and I'm Sally's minion.
+
+**Simge:** She's leading the alumni day, and I'm helping out as well as part of being an alumni.
+
+**Simge:** Yeah.
+
+**Simge:** And really excited to connect with you, Marcel.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** And I can do a little bit of background.
+
+**Marcel Santilli:** So let's see.
+
+**Marcel Santilli:** I started a career early on at IBM, and I think probably one of the things that kind of set my trajectory was just realizing how brands were spending billions of dollars in marketing, and it just felt really empty.
+
+**Marcel Santilli:** And so for me, I always had this thing of, why don't we become the publisher, the creator?
+
+**Marcel Santilli:** Why don't we become the source of trust for the space that we're serving and the audiences we're serving versus renting their audience or renting or leasing their trust or their distribution, right?
+
+**Marcel Santilli:** And so I built the first non-IBM.com content hub called SecureIntelligence.com.
+
+**Marcel Santilli:** We grew that to almost $17 million in revenue the first year from just $300K in investment.
+
+**Marcel Santilli:** And then from there, I just kept doing that my whole career, building, you know, essentially organic engines and helping brands be more like publishers.
+
+**Marcel Santilli:** And, you know, it kind of catapulted from there.
+
+**Marcel Santilli:** Then I was kind of done with large corporations and went into the startup world and was lucky enough to be at a few that did well.
+
+**Marcel Santilli:** So HashiCorp went public, serviced that and went public, Scale.ai was their first and only CMO for two years.
+
+**Marcel Santilli:** And they, you know, I was kind of acqui-hired or whatever by Meta recently.
+
+**Marcel Santilli:** And then when I was at DeepGram, my last CMO job before I started GrowthX, I started to just take everything I had learned and start to build AI workflows.
+
+**Marcel Santilli:** And these AI workflows were really like me just sitting there and going, all right, what is my thought process for this?
+
+**Marcel Santilli:** Like, how do I?
+
+**Marcel Santilli:** How about this?
+
+**Marcel Santilli:** How do I analyze opportunities?
+
+**Marcel Santilli:** How do I learn more about my audience?
+
+**Marcel Santilli:** How do I figure out their jobs to be done?
+
+**Marcel Santilli:** How do I then research those topics?
+
+**Marcel Santilli:** How do I then become the best answer to those questions?
+
+**Marcel Santilli:** Essentially decomposing everything into first principles and recomposing it as AI workflows and then figuring out where do I need human judgment in this process?
+
+**Marcel Santilli:** And then hiring those people and putting them in the loop.
+
+**Marcel Santilli:** So I started by hiring.
+
+**Marcel Santilli:** I said, you know, what if I take a junior editor, hire a person, you know, and put them in the loop?
+
+**Marcel Santilli:** And then between me and him, we were essentially a hundred times more productive.
+
+**Marcel Santilli:** And so within six months, we 24x our traffic and 4x our revenue.
+
+**Marcel Santilli:** And it was insane.
+
+**Marcel Santilli:** And we built this newsletter, almost 300,000 subscribers.
+
+**Marcel Santilli:** And then from there, a lot of people, I posted one day on LinkedIn.
+
+**Marcel Santilli:** And I was like, hey, people want to learn how I did this?
+
+**Marcel Santilli:** And everyone's like, holy shit. Yes, absolutely.
+
+**Marcel Santilli:** And so I hosted these workshops. We had about 170 people that paid 500 bucks to come to these workshops.
+
+**Marcel Santilli:** And that's how GrowthX got started. I was still CMO.
+
+**Marcel Santilli:** And people were like, you know, I don't want you to just teach me how to build workflows.
+
+**Marcel Santilli:** I want you to just do the whole thing.
+
+**Marcel Santilli:** Like, help me with the strategy, help me with hiring the right people for the last mile execution and being output bar raisers, but also build the AI workflows that I need in order to scale this thing.
+
+**Marcel Santilli:** And that's how we started.
+
+**Marcel Santilli:** And then we said about a year ago, I quit my CMO job.
+
+**Marcel Santilli:** We were already over a million in revenue.
+
+**Marcel Santilli:** And then kept scaling it.
+
+**Marcel Santilli:** And we just crossed 11 million in revenue this month.
+
+**Marcel Santilli:** And then we raised our Series A in March.
+
+**Marcel Santilli:** And we're working with some awesome, awesome brands.
+
+**Marcel Santilli:** And so we get a lot of cool stories to tell, if you will, just from a lot of the kind of the work that we're doing.
+
+**Marcel Santilli:** And so, yeah.
+
+**Marcel Santilli:** Hopefully that gives you a little bit of kind of the high level of kind of what we're doing.
+
+**Marcel Santilli:** So the way to think about it, like we're working with like Lovable or Ramp, Surge, Diligent, Udemy, let's see, Webflow, Reddit, a bunch of different brands.
+
+**Marcel Santilli:** And probably not as many in the consumer side, although like we do have a new one that's launching called Biologico is the guy that started Allbirds, Joey.
+
+**Marcel Santilli:** He's launching a supplement for women in different age groups of like fertility, premenopausal, postmenopausal.
+
+**Marcel Santilli:** And so it's like we've done a lot of beautiful content there.
+
+**Marcel Santilli:** We also are talking to like The RealReal and a bunch of other kind of like e-commerce brands and things like that.
+
+**Marcel Santilli:** And so, but, but it's pretty cool because what we build the platform that we build is kind of this agentic workflow, but with experts in the loop, but also like we're forward deploying all these AI native businesses like Lovable is the fastest growing.
+
+**Marcel Santilli:** Business in history, you know, to hit 100 million in revenue.
+
+**Marcel Santilli:** And so I think there's a lot of that we can, I can also share from working directly with these brands, you know.
+
+**Sally:** Wow, that's incredible.
+
+**Marcel Santilli:** Yeah, and then Jason just joined as our VP of GoToMarket and he is helping just kind of like coordinate some of the events and things we're doing and just kind of helping us kind of make sure I'm not dropping the ball and being a bottleneck.
+
+**Marcel Santilli:** If there's things that require, you know, attention a little bit.
+
+**Jason Gong:** Yeah, sorry, I'm late.
+
+**Sally:** Nice to meet you all.
+
+**Sally:** No worries.
+
+**Sally:** Well, I'm already jealous that you have no takers because I think part of the thing of being at Mondelez is we're very, you know, deliberate and, you know, cautious about bringing in AI into our workflows.
+
+**Sally:** And so I'm always looking for like the workarounds, you know, when I'm in a non-Mondelez kind of environment, it's always super helpful.
+
+**Sally:** And I think we're so far behind.
+
+**Sally:** What you're talking about right now, it's, it's blowing my mind, right?
+
+**Sally:** It's, and it's, I think what's incredible is the growth rates that you're, you're talking about just seem crazy, but they're real.
+
+**Marcel Santilli:** Yeah, and like, I don't know if we'll be, would it be helpful to, I know like for the session, like we don't want to do like demo or pitch or anything like that, but I do think it helps a little bit just like mentally think about kind of some of the topics to just show maybe like some of the work a little bit and, or what do you think would be helpful the time we have?
+
+**Sally:** Yeah, I'm, I'm very, I think there's two areas that are coming to mind.
+
+**Sally:** And I think these areas already kind of like embed, like kind of embedded a little in the initial discussions.
+
+**Sally:** This, there's this kind of career developments and this career growth and trajectory that you just talked about, which is so interesting.
+
+**Sally:** And there's so many elements of it, which I think are.
+
+**Sally:** Interesting to our community.
+
+**Sally:** So the risk taking, you know, the push for growth, like the finding these prictions and solving them.
+
+**Sally:** I know that you talked on email into Candy also about when there were setbacks.
+
+**Sally:** And I think that's something that's very real as well.
+
+**Sally:** And I think it's, it's really interesting to talk about that in the context of we now see you in this place where you've certainly overcome that.
+
+**Sally:** And you've, you know, it's not been a really like, oh, just the straight line and everything was easy.
+
+**Sally:** I got to where I am now.
+
+**Sally:** So, so there's this whole career development area, which is super interesting.
+
+**Sally:** And then on the other side, there's the area of, you know, the rapid pace of how AI and gen AI and agentic AI is like changing the work, the way in which we're operating as marketers and as humans, as professionals.
+
+**Sally:** And I think we're all, I think we're all coming to it at different places.
+
+**Sally:** I think some people are super advanced and know, you know, what you just talked about, they're going to get it.
+
+**Sally:** And there's going to be people that are, you know, not.
+
+**Sally:** Not yet in the in the same point in the growth curve.
+
+**Sally:** And I think it's really helpful to to bring these ideas and kind of blow our minds or blow everyone's minds around like how this is really revolutionizing.
+
+**Sally:** Like you would not have had, you know, two people driving this amount of growth or, you the small teams that you have driving the growth that, you know, 10 years ago.
+
+**Sally:** And so, like, what's changed?
+
+**Sally:** What should we be taking away from this as leaders, as marketers?
+
+**Sally:** And the Marketing Academy just I know Candy's probably giving you some context.
+
+**Sally:** It's not really just about purely how do we become really great marketers?
+
+**Sally:** How do I go back to Mondelez and sell more candy bars?
+
+**Sally:** It's really about how can we as a community be great humans, great leaders?
+
+**Sally:** How do we elevate ourselves and others and like the idea of leadership?
+
+**Sally:** And I think so the specifics of like AI will come into that as marketers and as leaders and then the career side and that personal touch.
+
+**Sally:** It comes into the humanity and how do we become better?
+
+**Marcel Santilli:** So I'm trying to think, like, how do I take those two areas and bring them together in this session?
+
+**Marcel Santilli:** There's maybe, like, let me think.
+
+**Marcel Santilli:** So I always try to share and be vulnerable as far as, like, the journey.
+
+**Marcel Santilli:** I've been laid off for fire three times.
+
+**Marcel Santilli:** I've had equity claw back.
+
+**Marcel Santilli:** I had, you know, three months before my daughter was born, you know, went through this horrible, like, you know, exit from a company, dealt anxiety, things like that.
+
+**Marcel Santilli:** We went, and that was, like, my wife had just taken medical leave.
+
+**Marcel Santilli:** We went through a hard IVF journey.
+
+**Marcel Santilli:** So there's, like, all these kind of, like, paths that, like you said, like, wasn't this just kind of, like, straight path.
+
+**Marcel Santilli:** And I think, like, it definitely, we, a lot of the community we've been able to build has been probably because we've been sharing more openly and they see that it's a bit more, more genuine than.
+
+**Marcel Santilli:** Just trying to get a dollar out of people, you know, kind of thing.
+
+**Marcel Santilli:** And so I think that is a great place to, like, try to lead with or just tell the best story a little bit.
+
+**Marcel Santilli:** And then I think, like, in that process, like, one of the things that really kind of ended up leading to what the company does and what we do now is ultimately, like, when I came back from my path leave, and I had already been super burned before and, you know, I found ways to just, like, delegate a lot of things away so that I create a space to then retool myself is one way to kind of think about it, you know.
+
+**Marcel Santilli:** And so then that kind of just allowed me to get, like, two days back in my week.
+
+**Marcel Santilli:** And that's when I started to just, like, experiment with AI and play with it and kind of build a lot of the things.
+
+**Marcel Santilli:** And build leverage for myself, you know, but none of that would have been possible if I didn't have the, like, thought processes and expertise and experience either.
+
+**Marcel Santilli:** So that's kind of like a little bit of the catch is, like, people that are trying to, like, shortcut the actual, like, thought processes and what great outputs look like.
+
+**Marcel Santilli:** I like to call it, like, kind of, like, the messy middle, right, where the way I talk about it a little bit is you can go to a three-star Michelin restaurant and you can have this amazing experience and meal.
+
+**Marcel Santilli:** And then you can even, you know, take all the pictures, all the videos in one of that dish.
+
+**Marcel Santilli:** And then you can go back in the kitchen and they can give you the entire list of ingredients.
+
+**Marcel Santilli:** And, like, they can even give you the recipe.
+
+**Marcel Santilli:** And I almost guarantee you won't be able to replicate it, you know.
+
+**Marcel Santilli:** And so that's kind of it, right?
+
+**Marcel Santilli:** Like, I can give you the prompts, I can give you the inputs, and I can give you what the final thing should look like.
+
+**Marcel Santilli:** But if you don't have the...
+
+**Marcel Santilli:** The experience, the human judgment, the creativity in the mix, like you're not going to be able to like essentially scale great outputs that drive the right outcomes that you want, you know?
+
+**Marcel Santilli:** So that's a little bit kind of how I think about it.
+
+**Marcel Santilli:** But I've done so many of these workshops are like two, three hours, five hours and shared a lot.
+
+**Marcel Santilli:** And I can also share some of the links to and like our YouTube channel and our community as well.
+
+**Marcel Santilli:** So like obviously you guys all have your day jobs and are busy.
+
+**Marcel Santilli:** And so for whatever is helpful, we're happy to kind of shape that, give you the right questions or things or let it flow organically.
+
+**Marcel Santilli:** I do think that one thing that lacks quite a bit in these types of events and things is just like not being practical enough.
+
+**Marcel Santilli:** Like, you know, of just like staying at the high level and not being actionable and trying to get to a point where people walk away with something and they're like, I'm going to go do this thing differently.
+
+**Marcel Santilli:** So even in my talk at Sester last time I was there, was like, even though it was a fireside chat, I was trying to make it as actionable as possible.
+
+**Marcel Santilli:** Otherwise, it stays too high level and unreachable for people maybe.
+
+**Simge:** So one build on my side is now I'm actually going to remove the mask in a vulnerable moment.
+
+**Simge:** I'm actually technically a Plattis employee right now, but my role was like eliminated.
+
+**Simge:** And so October 1st is going to be my last day.
+
+**Simge:** And then I have some separates and stuff.
+
+**Simge:** But so actually on that topic of like that personal hardship and you're saying like you can give you, I can give you the recipe, but you have to actually go through the experiences.
+
+**Simge:** But you can go through the experiences and like one way in that trajectory can go like down or up.
+
+**Simge:** And it's like, how do you, I think, how did you, what was your mentality?
+
+**Simge:** What were some, what are some practical tips on when you're going through hardships that you actually kind of made a diamond out of the pressure?
+
+**Simge:** Like instead of breaking down, like.
+
+**Simge:** But are there some, like, you know, that could be a difference, I think.
+
+**Marcel Santilli:** I think what I realized is I was exposed to, when I was skill AI, super  toxic.
+
+**Marcel Santilli:** And, you know, we were going through our IVF journey and multiple miscarriages and all of that.
+
+**Marcel Santilli:** And I'm working my  off for the world's youngest billionaire, you know, and just interacting with all these billionaires that truly are, you know, I wouldn't say this in front of everybody, but, you know.
+
+**Marcel Santilli:** So, psychopaths, maybe, you know, borderline that, or sociopaths, however, you know, or both, a little bit of both.
+
+**Marcel Santilli:** And I think what you realize, like, one, they're not that different in terms of, like, what you could be capable of.
+
+**Marcel Santilli:** They just, like, went for it.
+
+**Marcel Santilli:** Also, like, they don't give a  about people.
+
+**Marcel Santilli:** Everybody's just kind of at me to an end.
+
+**Marcel Santilli:** And so, going through that and then having been through all these companies that were super successful, the strategy I put in place ended up working.
+
+**Marcel Santilli:** And whether I ended up having the job and having to show for it or not, in every case, like, still worked.
+
+**Marcel Santilli:** Like, at Service Titan, you know, they hired this big-shot CMO, and then nine months in, like, laid me off because they weren't happy with the CMO.
+
+**Marcel Santilli:** But then they capped my whole team, and the guy I hired became the CMO, and the head of content kept going with my strategy, you know?
+
+**Marcel Santilli:** Like, you know, and so it's like, it's great.
+
+**Marcel Santilli:** Their execution, their credit, that's great.
+
+**Marcel Santilli:** But, like, for me, I was like, okay, I know what the  I'm doing now.
+
+**Marcel Santilli:** Like, you know, and so for me, I was like, I need an insurance policy to not put my family through more  anymore.
+
+**Marcel Santilli:** And I have a daughter, and I have, you know, like, a mortgage, and I want a wife that had stopped working.
+
+**Marcel Santilli:** And so I'm like, I just, like, when I came back from pat leave, I was just like, I just need to never again be in a position where I'm at somebody's mercy, even though I know what I'm doing.
+
+**Marcel Santilli:** And so I just figured the only way to do that was to build my own distribution and reinvent myself.
+
+**Marcel Santilli:** But at first I needed the room to reinvent myself.
+
+**Marcel Santilli:** And so I hired this EA offshore from an agency.
+
+**Marcel Santilli:** It was like 3K a month, had the company pay for it.
+
+**Marcel Santilli:** And I just delegated the F out of my days and freed up two days a week.
+
+**Marcel Santilli:** And then I literally like was advising and decided I don't want equity anymore.
+
+**Marcel Santilli:** F equity.
+
+**Marcel Santilli:** Equity is worth nothing to me.
+
+**Marcel Santilli:** And I turned one of my advisories into paid.
+
+**Marcel Santilli:** And so on Wednesdays, I was essentially making the same amount of money as I was as a CMO. That helped me build my savings up so that if I lost my job again, I wouldn't be worried.
+
+**Marcel Santilli:** But I was still killing it at DeepGram. And with the other free day I had, I started spending more time with family. Eventually I was ready and in a better place to start building stuff.
+
+**Marcel Santilli:** I started building these AI workflows and built this AI catalog that blew up. Then I did the workshops, not because I thought it was going to become a company, but because I wanted to build my distribution and do things that energize me.
+
+**Marcel Santilli:** And then I quickly realized, like, the only CMOs, the only marketing leaders that have leverage are the ones that have distribution.
+
+**Marcel Santilli:** And so I was like, I got to do that.
+
+**Marcel Santilli:** But the only way to build distribution is by actually having something that is meaningful and helpful to people.
+
+**Marcel Santilli:** But then can I do it in a way that's my own way where I'm vulnerable?
+
+**Marcel Santilli:** I kind of, like, lead with empathy and try to be kind and try to, like, you know, show people a little bit and not try to hide the messy parts too much.
+
+**Marcel Santilli:** And I think that just resonated so much that now, like, we got to 11 million and we don't, like, we just hired a first salesperson, like, four weeks ago.
+
+**Marcel Santilli:** And, you know, the only marketing we do is just, like, we host breakfast.
+
+**Marcel Santilli:** We, you know, like, in our community, it's just, like, they're so, like, oh, my God, like, thank you for sharing that.
+
+**Marcel Santilli:** Oh, by the way, let me tell you about this thing that happened to me immediately, you
+
+**Marcel Santilli:** And it's just like, everyone has their story of like being in a  up place or being fired or being like, you know, all of that.
+
+**Marcel Santilli:** And so, so I don't know if that helps a little bit.
+
+**Sally:** I love it.
+
+**Sally:** Yeah, it does.
+
+**Sally:** And I liked what you said about what separates the billionaires from, you know, us mortals.
+
+**Sally:** And some of it is that they went and did it, they did the thing.
+
+**Sally:** And I think that action that you took is inspiring.
+
+**Sally:** And I think it's something I think folks in the room who are, you know, assessing where they are in their careers and thinking about, well, is it, you know, am I fulfilled?
+
+**Sally:** Am I, do I feel like I have, you know, all of the means and things to keep myself and my family, you know, safe and comfortable?
+
+**Sally:** And, you know, I think it's a, it's a really nice reflection that I think folks can take.
+
+**Sally:** And what I'm thinking, because I know we're closing on time and I want to make sure you leave clear on what we're going to be doing on the day.
+
+**Sally:** So we have just as context, we have an hour in the afternoon on the day.
+
+**Sally:** And I know.
+
+**Sally:** And we can confirm this with your team as well.
+
+**Sally:** I did send the slot and I'll make sure that it works for you.
+
+**Sally:** But we had 60 minutes.
+
+**Sally:** And the idea was that it was a fireside chat type of format because then Candy could be your moderator and share questions.
+
+**Sally:** And or we're happy to not do it that way and happy to give you the floor.
+
+**Sally:** It's whatever format works best for you.
+
+**Marcel Santilli:** I'd love to get your preference and your thoughts.
+
+**Marcel Santilli:** Yeah, I think like it would be nice to like, if there's any format or any time to just show things a little bit and not because we need to demo anything.
+
+**Marcel Santilli:** It's just mostly like I've done these sessions with teams.
+
+**Marcel Santilli:** A lot of our customers ask me to just come and talk to their entire marketing team of like how to be more AI native, how to reinvent themselves a little bit.
+
+**Marcel Santilli:** And I think at the bottom, the way I think about it is every single knowledge worker on the planet needs to reinvent themselves.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Their value as a knowledge worker contributor is decaying faster than ever.
+
+**Marcel Santilli:** And that decay is just like accelerating.
+
+**Marcel Santilli:** It's like the half-life of that decay is getting shorter.
+
+**Marcel Santilli:** And so the longer they wait to reinvent themselves, like truly, and become more native to this tech and how it works and the limitations, but also like applying it to the way they think about it, being creative and understanding how like those interactions work a little bit.
+
+**Marcel Santilli:** But like the longer they delay that, the harder it's going to be for them to like reinsert themselves into like being valuable again and being indispensable in the workforce.
+
+**Marcel Santilli:** And it's just like the people that are like, I'll give you an example.
+
+**Marcel Santilli:** Mandagos is a guy that works for Lovable. We almost hired him, but he was vibe coding for the last couple of years. He started building things and sharing his experience. He didn't even go to college, right? Now he's hosting an event with Will.i.am in LA next week, working at Lovable, all because he's prompting, vibe coding, building, sharing his experience, and learning how to do it. He's going deep, right?
+
+**Marcel Santilli:** Like none of that knowledge required like a PhD when it wasn't because he was like higher IQ than anyone else.
+
+**Marcel Santilli:** I think marketers just need to be so good at certain things. I have a video we did about this. I don't know if you guys have experienced this, but I would hire teams and say, "Hey, write this."
+
+**Marcel Santilli:** And they're like, well, I'm not good at writing.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Well, I'm not good with numbers.
+
+**Marcel Santilli:** Well, I'm not that creative.
+
+**Marcel Santilli:** And eventually you're like, okay, then you got to be good at something.
+
+**Marcel Santilli:** Like, you know, you got to go build those muscles.
+
+**Marcel Santilli:** Some of these things are muscles and you do need to think about things from a first principles and you need to be the amazing delegator.
+
+**Marcel Santilli:** And if you suck at delegating and you suck at writing.
+
+**Marcel Santilli:** And you're not structuring your thinking and thinking from first principles, guess what?
+
+**Marcel Santilli:** You're going to be really, really  at using AI, not because of the tools, but just because, like, you haven't built those muscles.
+
+**Marcel Santilli:** And if you are going to build those muscles, you might as well build those muscles with AI and becoming native with the technology in that process, you know?
+
+**Marcel Santilli:** So, anyways, I think it is nice to kind of, like, show, and I usually, like, do it, like, with, like, off-the-shelf tools, like, like, Claude or Perplexity or, you know, like, so it's nice to have that as an option.
+
+**Marcel Santilli:** So maybe we do, like, Fireside Chat, but with an option to just be like, well, let me show you something, kind of, you know, and, like, try to mix it up would be kind of cool.
+
+**Sally:** But if not, a Fireside Chat is fine.
+
+**Sally:** And sometimes I suggest Fireside Chat because I feel like it takes pressure off.
+
+**Sally:** Some people don't have, like, the talk or the thing ready to go.
+
+**Sally:** And so I can kind of help with that.
+
+**Sally:** But I think it's, yes, I think it's both of the, I want to do everything.
+
+**Sally:** And one thing you said really sparked off some thoughts.
+
+**Sally:** The whole day is going to be at the Whitney, which is a fantastic art gallery.
+
+**Sally:** I'm sure you're aware of it.
+
+**Sally:** And it's, you know, easily we're calling the day the art of leadership.
+
+**Sally:** But you said the word reinvention.
+
+**Sally:** And for me, that just feels like it's the thread that ties everything that you talked about, which I think you knew, but now it was just, you know, it clicked with me.
+
+**Sally:** And I think reinvention is what, you know, artists and art has been doing, you know, century after century, right?
+
+**Sally:** It's how do we see the world and how do we engage with it and experience it and express it.
+
+**Sally:** And I think that's a really nice thread of how you personally have reinvented and how we as leaders are going to reinvent the way that we show up as, you know, as, as leaders, as marketers.
+
+**Sally:** And so I would love to, and I think, yes, for sure, let's demo, let's show stuff, let's, you know, engage people with the practical reinvention that they're going to need to do.
+
+**Sally:** It does stem from this personal mission. One thing for us to take away and think about is how we help you shape the session to bring yourself. One thing we do at the Marketing Academy is these sessions where we sit around and do something very similar.
+
+**Sally:** We're vulnerable.
+
+**Sally:** We tell people our story like, you know, all the nuts and bolts and the things you wouldn't normally tell your co-workers.
+
+**Sally:** We're very, you know, we're very open.
+
+**Marcel Santilli:** And so you build these immense bonds.
+
+**Marcel Santilli:** You build that trust and vulnerability.
+
+**Marcel Santilli:** So that's something we're really familiar Everyone that's done the program has done that.
+
+**Sally:** They've done this whole taking the mask off session.
+
+**Sally:** So I think if you're comfortable and if you prefer to take the reins, I think the session would work nicely if we start with taking the mask off and you bring yourself and then bring that personal journey.
+
+**Sally:** You know, you're your OG, you know, this kind of, yeah, the kind of understanding of who you are and what brought you to where you are now.
+
+**Sally:** And then let's take that reinvention and let's show where it's going next.
+
+**Marcel Santilli:** And then seamlessly kind of go into that future.
+
+**Marcel Santilli:** How does that sound to you?
+
+**Marcel Santilli:** Like, what do you think?
+
+**Marcel Santilli:** That sounds good.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So we can start with that.
+
+**Marcel Santilli:** And maybe like the first half can be more of like kind of a reinventing yourself to be AI native a little bit, kind of meaning, you know, presentation, talk, things like that.
+
+**Marcel Santilli:** And then maybe then the second half of that hour could be like handy, moderating, but also maybe trying to do a lot more like audience questions, involvement, and kind of letting it flow more organically or something like that, potentially.
+
+**Sally:** So you prefer to go with the AI story first and kind of jump in?
+
+**Marcel Santilli:** No, we can lead with like my journey and like reinventing myself through like the hardships.
+
+**Marcel Santilli:** And, but then like also a huge part of that was reinventing myself using AI and building leverage for myself, you know, as well.
+
+**Sally:** I think, yeah, well, I, I don't mean to like push.
+
+**Marcel Santilli:** Yeah, no, I love it.
+
+**Marcel Santilli:** It's what I've done in a lot of our workshops and sessions, you know, and so, like, if you, maybe Jason, I can't remember which one, there's a couple that we could share with you that they're just in case, like, you guys want to kind of listen to some shorter versions of that that I've done before that I think really resonated with people.
+
+**Sally:** And what do you think about reinvention as, like, the theme?
+
+**Marcel Santilli:** Yeah, I like that.
+
+**Sally:** The kind of, one of the core ideas.
+
+**Sally:** Again, it's your story.
+
+**Sally:** I'm just, I'm bouncing off where I, where I'm like a moth, like, to these flames.
+
+**Marcel Santilli:** Yeah, I think reinvention is, is a cool, like, theme to, to kind of revolve around, you know, at the end of, like, and I always, I always say it's, retooling reinvention, like, reinvention feels like a better even word of just, like, you need to reinvent yourself.
+
+**Marcel Santilli:** And, and, and and if you're not taking.
+
+**Marcel Santilli:** And, and.
+
+**Marcel Santilli:** This
+
+**Marcel Santilli:** mean, that those thousand hours to do it, like, you know, you're essentially going to become way less valuable and it's better to do it now than be disrupted by it later, you know.
+
+**Sally:** Absolutely.
+
+**Sally:** Simge, do you have any thoughts?
+
+**Simge:** No, I think this sounds great.
+
+**Simge:** So it sounds like maybe the first 30 minutes, is it like around like first 30 minutes, it's like a fireside where you're talking about your own personal journey and then the last 30 minutes is more like a demo.
+
+**Sally:** Kind of a thing.
+
+**Sally:** Is that what you're?
+
+**Sally:** I think it was flipped.
+
+**Simge:** Oh, go ahead.
+
+**Simge:** It starts with a demo.
+
+**Marcel Santilli:** Yeah, video story.
+
+**Marcel Santilli:** Talk a little bit about, like, some lessons learned and how to think about it and how I reinvented myself and how, like, to be more AI native.
+
+**Marcel Santilli:** And then the second half, be more fireside chat, questions, and then also try to have an audience be able to, like, ask questions and be more, feel like more a conversation than a lecture, you know.
+
+**Marcel Santilli:** Yeah.
+
+**Sally:** So it's like your story, kind of a keynote, type approach. Then we move to Fireside to dig into themes that Marketing Academy might want to explore.
+
+**Marcel Santilli:** I have to drop, unfortunately, to a customer meeting.
+
+**Marcel Santilli:** But we'll follow up via email.
+
+**Marcel Santilli:** And then we might have a couple of questions on our end, too, on just like logistical stuff.
+
+**Sally:** Yes, for sure.
+
+**Sally:** Okay, sounds great.
+
+**Marcel Santilli:** Thank you for connecting. We'll speak to you soon, guys. See ya.

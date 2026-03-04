@@ -1,40 +1,33 @@
-# Customers (Archived)
+# Customers
 
-<metadata>
-purpose: Archive for past/inactive client engagements
-audience: AI agents and team members referencing historical client work
-summary: Archived client records. Active clients live in clients/ at the workspace root.
-token_estimate: small
-related: clients/README.md, records/transcripts/README.md, docs/context-routing.md
-domain: records
-confidence: canonical
-context_tier: 3
-last_updated: 2026-02-22
-</metadata>
+GrowthX client accounts, organized by status.
 
-Archive for **past or inactive** client engagements. When a client engagement ends, move their directory here from `clients/`.
-
-**Active clients live in `clients/` at the workspace root.** Do not create new client directories here.
-
-## Directory Structure
-
-```
-records/customers/
-  [client-name]/
-    [client-name]-client-context-v1.md    # Overview and key context
-    transcripts/                           # Client-specific meeting transcripts
-      YYYY-MM-DD-meeting-description.md
-```
+---
 
 ## How to Use
 
-1. **Search by client name** to find historical engagement context
-2. **Start with the client context file** for an overview of the past engagement
-3. **Search transcripts/ subdirectory** for specific meeting discussions
-4. **Never bulk-load** — read files individually
+1. **Active clients** live in [active/](active/) — one folder per client.
+2. **Churned clients** live in [churned/](churned/) — one flat file per client.
+3. **Search first.** Use grep/search to find clients by name, ME, or topic.
+4. **Load individually.** Read specific client files — never bulk-load.
+5. **Notion is source of truth.** Client Workspaces DB in Notion has the latest contract details, health scores, and pod assignments.
 
-## Adding a New Client
+## Notion Source
 
-**Don't.** New clients go in `clients/` at the workspace root. Use the template at `clients/client-context-template-v1.md`.
+- [Client Workspaces DB](https://www.notion.so/growthxlabs/14f2ba60bc74808799a9f49603d6882c) — master database with all client workspaces, contracts, MEs, status
+- [Client DB](https://www.notion.so/growthxlabs/1f22ba60bc7480bcac19efcbce270c93) — health scores, pod assignments, weekly updates
 
-When an engagement ends, move the client directory from `clients/` to `records/customers/`.
+## Subdirectories
+
+| Directory | What's There |
+|-----------|-------------|
+| [active/](active/) | 69 current client accounts |
+| [churned/](churned/) | 48 former client accounts sourced from HubSpot |
+
+## Counts
+
+**69 active** | **48 churned** | **117 total**
+
+---
+
+See [INDEX.md](INDEX.md) for directory listing.

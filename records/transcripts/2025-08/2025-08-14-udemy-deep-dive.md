@@ -1,0 +1,1395 @@
+# Udemy deep dive
+
+<metadata>
+date: 2025-08-14
+time: 21:30 UTC
+duration: 63 minutes
+organizer: kyle@growthxlabs.com
+participants: Veronika Benkeser, Kyle Gaudreau
+fathom_recording_id: 80744043
+fathom_url: https://fathom.video/calls/379688244
+share_url: https://fathom.video/share/Hyj7phzjsXzxxiDsW_ZcKwBbvSMzyseZ
+source: fathom
+enriched_on: 2026-03-03 06:33 UTC
+</metadata>
+
+---
+
+## Summary
+
+Kyle Gaudreau (GrowthX) and Veronika Benkeser (Udemy) explored the complex landscape of Udemy's content management and skills mapping capabilities. Veronika walked through how Udemy's 38,000-course Business catalog is organized by categories and tags today, but the team is working toward a skills-first approach that helps customers understand the breadth of Udemy's offerings and better identify expansion opportunities. GrowthX and Udemy discussed gaps in internal tooling for curation (comparing course performance within skill clusters), opportunities to tell a more compelling story around Udemy's marketplace scale and instructor quality, and next steps including connecting with other stakeholders on learner recommendations, trial optimization, and first-to-market competitive positioning.
+---
+
+## Context
+
+Udemy is a leading online learning platform offering a massive marketplace of courses. Veronika works on Udemy's content strategy and curation team, which manages the Udemy Business (UB) catalog for corporate customers. The relationship: GrowthX is exploring AI-powered content opportunities with Udemy as part of a potential engagement. Kyle initiated this deep dive to understand Udemy's internal processes around content curation, skills mapping, and trial experience—both to identify ways GrowthX can support and to find hidden opportunities that Udemy may not have flagged directly. This was an exploratory scoping call to build context before diving deeper into specific use cases like building a skills graph, automating collection management, or improving trial-to-expansion conversion.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Udemy is exploring a major shift from category-based content discovery to skills-first organization—a complex information architecture challenge that touches both internal processes (curation, course mapping) and customer-facing product (how L&D leaders discover content)
+- The team's current workflow around skills mapping is heavily manual (hand-mapped courses to skill frameworks, spreadsheet-driven), creating bottlenecks when launching new verticals like AI readiness packages or expanding into business and soft skills
+- There's strong demand from the sales team to tell more compelling stories around Udemy's competitive advantages: marketplace scale (38,000 curated vs. 250,000 on consumer platform), instructor quality, course freshness, and the breadth needed for enterprise upskilling
+- Trial experience redesign underway—focus on guiding users to relevant, high-quality content aligned with skills and job roles is a potential area for AI-assisted recommendations
+
+**To CheckThat:**
+- Udemy is deeply interested in how to position itself as a skills authority—similar to the AEO positioning challenge CheckThat tackles (helping companies answer "what do we know about?" in AI, skills, verticals, etc.)
+- The skills graph build is essentially a domain expertise problem: connecting 38,000 courses to a coherent skills taxonomy is similar to the semantic understanding CheckThat provides for technical expertise and authority signals
+- Udemy's Global Learning & Skills Report and content positioning are key marketing assets for expansion—understanding trending topics and skills gaps is central to their messaging
+
+**To GrowthX Business Development:**
+- Strong account health signal: Udemy is actively investing in new product capabilities (trial redesign, AI readiness packages, expanded business/soft skills coverage) and actively seeking external partnerships to move faster
+- Expansion opportunity: If GrowthX can support the skills graph build or trial experience optimization, the relationship could deepen into larger strategic work
+- Reference potential: Successfully helping Udemy position its marketplace model and skills capabilities in a more data-driven way could be a strong reference for similar enterprise platforms in the L&D space
+
+---
+
+## Overview
+
+- Udemy's content management involves complex processes for curating courses into various collections, with opportunities to enhance skills-based organization and automation
+- The trial experience is being redesigned to better guide users to relevant, high-quality content aligned with skills
+- There's a need to build more confidence with L\&D leaders about Udemy's value proposition, especially regarding course freshness and instructor credibility
+- Udemy's marketplace model and scale are key differentiators, but require effective storytelling to overcome potential objections
+
+---
+
+## Key Topics
+
+### Content Management and Curation
+
+  - Udemy Business (UB) catalog contains \~38,000 English courses, curated from 250,000 on Udemy.com
+  - Curation process involves minimum criteria (e.g., 4.35 rating for English courses) and collection-specific criteria
+  - Courses are added based on gaps identified by content strategy team and top instructor offerings
+  - Automated and manual processes for curating out underperforming courses (e.g., below 4.0 rating)
+  - Opportunity to improve scalable collection management and automate more processes
+
+### Skills Mapping and Organization
+
+  - Current course organization primarily based on categories, subcategories, and tags
+  - Desire to shift towards more skills-based organization and presentation
+  - Manual process for mapping courses to skills and creating skill frameworks (e.g., AI skills breakdown)
+  - Opportunity to develop a more comprehensive skills graph to improve various processes and customer-facing features
+
+### Trial Experience and Optimization
+
+  - Current trial experience being redesigned to guide users to relevant, high-quality content
+  - Adding showcase paths and AI starter paths to highlight breadth and freshness of collection
+  - Monitoring leading indicators like user engagement and AE best practice completion
+  - Opportunity to develop more marketing-driven tactics to improve trial performance
+
+### Data and Analytics
+
+  - Various dashboards and SQL queries used for collection management and analysis
+  - Opportunity to improve linkage between search queries and content availability
+  - Need for better tools to identify gaps in collection based on user searches and market trends
+  - Potential to leverage AI for more responsive content recommendations and gap identification
+
+### Marketing and Customer Education
+
+  - Blog, business.udemy.com, and other ungated content used to drive interest
+  - Global Learning and Skills Report showcases trending topics and Udemy's offerings
+  - Opportunity to improve storytelling around Udemy's marketplace model, scale, and instructor quality
+  - Need to educate customers on the value of course freshness over high production quality
+
+---
+
+## Action Items
+
+**Kyle Gaudreau (GrowthX)**
+- Connect with Nev re. email motions for trial users and learner recommendations
+- Schedule deep dive with Veronika re. first-to-market and competitor comparison processes
+
+**Veronika Benkeser (Udemy)**
+- Share link to most recent Global Learning & Skills Report in Slack channel
+- Connect Kyle with Niamh in Slack re. communication and recommendations investigation
+
+---
+
+## Transcript
+**Kyle Gaudreau:** So, yeah, if we ever need to catch up, I'm usually in office on Tuesdays as well.
+
+**Kyle Gaudreau:** Okay, great.
+
+**Kyle Gaudreau:** But I really appreciate you taking the time.
+
+**Kyle Gaudreau:** You know, I have a lot I wanted to cover and jump into today.
+
+**Kyle Gaudreau:** You know, there's so many different directions of different things that we need to, like, get our heads around.
+
+**Kyle Gaudreau:** And, you know, on one side, from my perspective, I want to kind of try to find opportunity to refine and focus.
+
+**Kyle Gaudreau:** But I also want to be careful in, like, jumping too much into that and making sure we're focusing on the right things.
+
+**Kyle Gaudreau:** And so I'm trying to find that right altitude in these first conversations to hopefully identify where we can dig in a bit deeper.
+
+**Kyle Gaudreau:** And I would love, you know, you have, it sounds like so much experience there and valuable perspective.
+
+**Kyle Gaudreau:** So, you know, would love any advice as we're going through it.
+
+**Kyle Gaudreau:** But for now, that's my mindset going into this is really trying not to narrow.
+
+**Kyle Gaudreau:** I too much yet because there's so much we still need to understand.
+
+**Kyle Gaudreau:** And so thank you so much for sending over all those different files.
+
+**Kyle Gaudreau:** had a chance to open and peruse through all of them full transparency.
+
+**Kyle Gaudreau:** There's a lot for me to digest and really make sure I'm actually appreciating all that's in there.
+
+**Kyle Gaudreau:** And so actually, I think the way I was thinking about it is coming out of this and having added perspective is probably more helpful for me to dive back into those docs afterwards based off of what we kind of go through today.
+
+**Kyle Gaudreau:** So I put together a variety of different questions I'll drop in the chat.
+
+**Kyle Gaudreau:** No way I'd be shocked if we get through all of these.
+
+**Kyle Gaudreau:** So that is not the intention.
+
+**Kyle Gaudreau:** You know, let me share my screen real quick.
+
+**Kyle Gaudreau:** So the idea is to go through a few different key areas and, you know, we can kind of pick different questions over time.
+
+**Kyle Gaudreau:** And I'm recording this.
+
+**Kyle Gaudreau:** So what.
+
+**Kyle Gaudreau:** I'll likely do is I'm not the best at taking notes live, so I'll go back and enrich this after and share with the team.
+
+**Kyle Gaudreau:** But there's a few key themes I wanted to touch on.
+
+**Kyle Gaudreau:** One is around just understanding your team and how you all operate, how your success is measured.
+
+**Kyle Gaudreau:** You know, I know there's very specific things around what you've done around the spreadsheet and skill mapping, and so I want to understand that.
+
+**Kyle Gaudreau:** Also helpful for me to just appreciate your bottlenecks a bit more.
+
+**Kyle Gaudreau:** A reason for this is, like, at times there could be very specific things our customers come to us with and ask us for support on, but we also find at times if we can, like, understand things like bottlenecks and challenges more, there may be things we can help with that just may not be top of mind for you, and so I'm trying to, like, you know, see where some of those opportunities may be.
+
+**Kyle Gaudreau:** We very briefly talked about trials.
+
+**Kyle Gaudreau:** We
+
+**Kyle Gaudreau:** During the kickoff, but we really didn't get into it too deeply.
+
+**Kyle Gaudreau:** And then anything around, like, if we have time around, like, how you think about, like, additional, like, insights and data around, like, how people are interacting with courses and other things related to probably that skill mapping work.
+
+**Kyle Gaudreau:** Is there anything in those themes that would not be captured that would, from your perspective, be critical to cover?
+
+**Veronika Benkeser:** Yeah, I think, well, I think we should figure out whether we want to focus on skill mapping or internal curation processes.
+
+**Veronika Benkeser:** Those two are very different.
+
+**Veronika Benkeser:** So the skill mapping is more about how our customers understand what content we have on the platform.
+
+**Veronika Benkeser:** And that's the functionality of the product itself.
+
+**Veronika Benkeser:** Curation team does not do any skill mapping for customers, etc.
+
+**Veronika Benkeser:** So it's...
+
+**Veronika Benkeser:** If we're talking about like what tools, internal tools, the team needs, the answer to that would be very different than what should the customer see in order to perceive Udemy as a skills-based organization.
+
+**Veronika Benkeser:** So I believe Jennifer has mentioned both of those as potential use cases, but depending on which one we want to tackle first, the answers or, you know, the scope would be very, very different.
+
+**Veronika Benkeser:** So if we're talking about, hey, how do we make expansions easier?
+
+**Veronika Benkeser:** How do we, you know, showcase our content in a way that is based on skills that is kind of related to curation processes?
+
+**Veronika Benkeser:** But, you know, so for example, potentially a page outside of Udemy.com that shows the skills graph, et cetera, right?
+
+**Veronika Benkeser:** So it's not really about any type of internal process.
+
+**Veronika Benkeser:** It's more about what people perceive Udemy to be.
+
+**Veronika Benkeser:** So if we, if so,
+
+**Veronika Benkeser:** If that's what we want to tackle first, then, you know, the list of questions would be different.
+
+**Veronika Benkeser:** And so, yeah, I wanted to see, you know, whether you had more context or, you know, which area you'd like to start with.
+
+**Veronika Benkeser:** Is it more about, like, see how to align our courses to skills and help customers understand what we offer in terms of skills?
+
+**Veronika Benkeser:** Or is it, like, kind of internal processes that we do and, you know, can augment?
+
+**Kyle Gaudreau:** A bit of a cop-out answer.
+
+**Kyle Gaudreau:** It's a bit of probably of both, but I would say probably more of the former.
+
+**Kyle Gaudreau:** Where the latter is useful is just making sure we have context of how we can operationalize this a bit.
+
+**Kyle Gaudreau:** But going back to making sure I can understand this.
+
+**Kyle Gaudreau:** So I would have looked at, would it be inaccurate to say that in some ways the skills...
+
+**Kyle Gaudreau:** Mapping can be a prerequisite to helping on the curation front?
+
+**Veronika Benkeser:** Yes, it's a necessary element of accomplishing additional processes, you know, in terms of curating the collection, so that'd be kind of dual purpose.
+
+**Veronika Benkeser:** So, yeah, I mean, it would serve both, or it could serve both, depending on how it's implemented.
+
+**Kyle Gaudreau:** And is that because curation would go beyond things like skills, and that's just a subset of the many things you would think about when you're curating these varying courses together?
+
+**Veronika Benkeser:** I think maybe, yeah, maybe we can start with, I can share my screen and just go to me and Udemy that comment and talk a little bit about that.
+
+**Veronika Benkeser:** So, um, um, um,
+
+**Veronika Benkeser:** Cream, oh, whatever, how do I, okay.
+
+**Veronika Benkeser:** Chrome system setting, we usually use, I have to enable this.
+
+**Veronika Benkeser:** Okay, open system setting, okay, just a minute.
+
+**Veronika Benkeser:** Hopefully, that doesn't mean you have to leave him.
+
+**Veronika Benkeser:** Yeah, hopefully, let's see.
+
+**Veronika Benkeser:** All right.
+
+**Veronika Benkeser:** All right, and I think it does want me to restart.
+
+**Veronika Benkeser:** So I can maybe rejoin in a minute.
+
+**Veronika Benkeser:** Yeah, I'll hang out here.
+
+**Veronika Benkeser:** Okay.
+
+**Veronika Benkeser:** Thank you.
+
+**Veronika Benkeser:** Thank you.
+
+**Veronika Benkeser:** you.
+
+**Veronika Benkeser:** All right, let's try this again.
+
+**Kyle Gaudreau:** Anyway, let me try to share this tab.
+
+**Kyle Gaudreau:** Yeah, cool.
+
+**Kyle Gaudreau:** Okay.
+
+**Veronika Benkeser:** So when you go to Udemy, this is our D2C arm, and you'll see a bunch of courses, things like that.
+
+**Veronika Benkeser:** So the best courses essentially make it into our UB instance, which is the Udemy business instance where our corporate customers have access to these courses.
+
+**Veronika Benkeser:** The way that the customer
+
+**Veronika Benkeser:** What currently explore this is either via this menu that groups things into categories and subcategories, so for example, cybersecurity and offensive security, et cetera.
+
+**Veronika Benkeser:** These are, if you look at that sheet that I had attached of course metadata, you'll see things like the course name, category, subcategory, description, et cetera, as well as tags.
+
+**Veronika Benkeser:** So tags are not visible in this window, but they are visible internally.
+
+**Veronika Benkeser:** So for example, a tag for this course is probably going to be NMAP and ethical hacking, et cetera.
+
+**Veronika Benkeser:** And so this is one way that customers explore our collection.
+
+**Veronika Benkeser:** So if I'm a director of cybersecurity and I want to know what Udemy has, I can try to go to the menu and see.
+
+**Veronika Benkeser:** There is a way for them to look at topic.
+
+**Veronika Benkeser:** They're kind of at different levels and, you know, different levels and different kind of scope, et cetera, for the topic, or they can just search.
+
+**Veronika Benkeser:** So Python.
+
+**Veronika Benkeser:** or what have you.
+
+**Veronika Benkeser:** And they'll see what we have.
+
+**Veronika Benkeser:** So that's kind of how they currently explore.
+
+**Veronika Benkeser:** So this is more on a course level versus kind of a more skills-based exploration.
+
+**Veronika Benkeser:** So one of the assets that I had shared is this view of, hey, what does Udemy offer in terms of AI, for example?
+
+**Veronika Benkeser:** So this is a more skill-based, you know, mapping of our entire collection.
+
+**Veronika Benkeser:** So versus if we go to learning.udemy.com, basically there's a category for generative AI, subcategory, generative AI for tech, and then, you know, there's a bunch of topics on the left that are really the same type of skill-based exploration as some of these things are.
+
+**Veronika Benkeser:** So for example, for cybersecurity, here's how it breaks down into skills and sub-skills.
+
+**Veronika Benkeser:** And then each of these, basically there is a different software that helps.
+
+**Veronika Benkeser:** Map the courses.
+
+**Veronika Benkeser:** Well, they're actually mapped by hand.
+
+**Veronika Benkeser:** But yeah, the courses are then mapped to each of these skill buckets.
+
+**Veronika Benkeser:** And so then we're able to tell the story of, hey, for a particular role, here's the skills that we need.
+
+**Veronika Benkeser:** Again, all of this is done by hand.
+
+**Veronika Benkeser:** Here's the skills, etc.
+
+**Veronika Benkeser:** And then as you progress, I don't want that slide anymore.
+
+**Veronika Benkeser:** But there was one slide of like, as you progress, you know, in your seniority level, here's how you Udemy can support you.
+
+**Veronika Benkeser:** Again, kind of like skill-based, more skill-based view of this.
+
+**Veronika Benkeser:** So the objective is, hey, what if we were able to talk more about, instead of saying, hey, we have this library of courses, which we have about 38,000 English or English plus international courses in the UBIT catalog on udemy.com is 250,000.
+
+**Veronika Benkeser:** Thank
+
+**Veronika Benkeser:** On the curation side, some of the challenges are we want to be able to manage the collection in terms of performance of courses.
+
+**Veronika Benkeser:** so if there is a particular area that is saturated like Python, we want to be able to see the performance of the courses next to each other and basically say, hey, how many do we really need for the skill of Python programming?
+
+**Veronika Benkeser:** Is Python for AI applications versus like Python for data science, what have you, right?
+
+**Veronika Benkeser:** But if we just do Python, then we don't get this type of, there's a little bit of that view here, but not kind of like.
+
+**Veronika Benkeser:** Yeah, it's a pretty complex data challenge.
+
+**Kyle Gaudreau:** You have so many different layers and I imagine all, like just as you've been walking through it, just different questions that were in my mind, like I wonder how they answer questions about this and that.
+
+**Kyle Gaudreau:** And I can imagine it's quite complex to try to figure that out.
+
+**Kyle Gaudreau:** And so it sounds like you are getting the answers that you would ideally have.
+
+**Kyle Gaudreau:** Of, like, really appreciating, like, the finer level of, like, this, within this subcategory is driving outsized performance, therefore we should double down, cut back, whatever, you know, the trend is.
+
+**Kyle Gaudreau:** You're just not getting that level of insight.
+
+**Kyle Gaudreau:** Right.
+
+**Veronika Benkeser:** And also be able to talk about our collection in terms of skills.
+
+**Veronika Benkeser:** So we currently have tags which kind of have a correspondence to skills, but many of them are more tool-based versus, hey, this really is about agentic AI.
+
+**Veronika Benkeser:** So agentic AI is a tag as well as crew AI is a tag.
+
+**Veronika Benkeser:** It's a flat list of tags, right?
+
+**Veronika Benkeser:** And so there isn't a way for us, well, manually, there is a way for us to talk about what skills we have, which is what are some of the assets that I had shown you.
+
+**Veronika Benkeser:** But in terms of holistically, to be able to say, hey, instead of just the tag of Python...
+
+**Veronika Benkeser:** So if you if you look by tag of Python, we have 446 courses.
+
+**Veronika Benkeser:** That's one of the other things that that but if you classify it into skill domains, that'll be like, okay, 82 skill clusters and 22 domains.
+
+**Veronika Benkeser:** And there is these 14 kind of skills within these domains, etc.
+
+**Veronika Benkeser:** And so on the curation side, they won't we would want to go this granular because we're trying to figure out, you know, where we have maybe gaps or where we have too much content, so saturation concerns, etc.
+
+**Veronika Benkeser:** But if you're if we're just talking about presenting to the customer, hey, Udemy knows what skills you may need within Python, here's kind of the overview, they don't need they don't necessarily need to be super, super granular.
+
+**Veronika Benkeser:** So the granularity would matter as well.
+
+**Veronika Benkeser:** So we can kind of, you know, as we undertake this project, we can figure out, you know, what's the right level of granularity to start to start right.
+
+**Veronika Benkeser:** And that's my question of like, hey, my recommendation would be, let's build for the customer first, you know, to make it more understandable for customers, why they should expand with Udemy, what it is about AI, everybody needs AI, but it's like, okay, well, what's the next level down that, that slide with that framework of how AI breaks down has been really successful in helping us get the customer to think about what other use cases Udemy can help us.
+
+**Veronika Benkeser:** So basically, an L&D or whoever, leader, the feedback we've gotten from the field is that, oh, like, oh, I didn't even think about these other use cases that Udemy can help with, right?
+
+**Veronika Benkeser:** And so we want to be able to talk very much in terms of the skills and be the authority on that.
+
+**Veronika Benkeser:** We have dashboards in terms of like, what are the most consumed topics, because, you know, it's not yet the line to skills, but, you know, what are the most consumed topics, what are the most consumed courses, etc.
+
+**Veronika Benkeser:** And so so we
+
+**Veronika Benkeser:** We some data on that, we do reports on that, but I think we can do more in terms of actually tying it to the current, you know, what's trending right now, where are these industries going, where are the industries going, et cetera, et cetera, and like going at a level above courses.
+
+**Veronika Benkeser:** So yeah, I think right now one of the major motion for our sales team is expansion within business and soft skills, basically for business roles, expansion in terms of AI.
+
+**Veronika Benkeser:** Hey, everybody needs AI, your tech team is already using Udemy, how about your other 20,000 employees?
+
+**Veronika Benkeser:** And so we have one of the assets that are attached is the AI readiness package, and that's a package of about 50 courses that we're selling as a separate SKU to those organizations in order to help them upscale just, you know, non-tech employees and AI.
+
+**Veronika Benkeser:** And so I think that's...
+
+**Veronika Benkeser:** It's an opportunity as well to say, hey, here's to basically make L&D feel more comfortable.
+
+**Veronika Benkeser:** Hey, Udemy knows what they're talking about, and here's how it breaks down, things like that.
+
+**Veronika Benkeser:** Got it, got it.
+
+**Kyle Gaudreau:** Super helpful.
+
+**Kyle Gaudreau:** When those type of opportunities come up, how is it your team that is helping to, so a theme is identified, you know, AI readiness or maybe some subset or whatever it is.
+
+**Kyle Gaudreau:** What does the process look like for starting to identify what you have and narrowing in some way because of kind of what we've been talking about, that there's going to be some duplicative courses in some sense or another or however you want to frame it.
+
+**Kyle Gaudreau:** But how do you generally think about that and approach that?
+
+**Kyle Gaudreau:** Because I imagine it comes up from different teams, right?
+
+**Kyle Gaudreau:** Like maybe when you're working with SEO or sales driven motion or whatever it may be.
+
+**Veronika Benkeser:** A lot of it is self-serve in terms of our dashboards.
+
+**Veronika Benkeser:** It's true.
+
+**Veronika Benkeser:** Currently, when somebody starts a trial, they will basically go to this page of, hey, you can search for something.
+
+**Kyle Gaudreau:** just to clarify and make sure, probably didn't ask this in the most clear way, but less about the end user experience and trying to self-serve and more about if there is some internal initiative, campaign, whatever that may be, and you're focusing on the topic, how do you all approach weeding through all the different courses you have and packaging up the right stuff based off all the context you just shared?
+
+**Kyle Gaudreau:** Is that something your team helps with or is that another team?
+
+**Kyle Gaudreau:** I'm just trying to get my head around it because that theoretically is a place we'll come into in different forms as we're coming up with ideas and like, okay, how do we support this?
+
+**Kyle Gaudreau:** What's available?
+
+**Kyle Gaudreau:** How do we get that content and use it in a variety of ways?
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Veronika Benkeser:** So there is only one content team for Udemy.
+
+**Veronika Benkeser:** I'm part of that team.
+
+**Veronika Benkeser:** My team specifically is curation.
+
+**Veronika Benkeser:** There's also content strategy for tech business international as well as instructor partnerships.
+
+**Veronika Benkeser:** So this is the only team that does any, that has any like content specialization.
+
+**Veronika Benkeser:** And so when we are supporting the marketing initiative, basically marketing will reach out to us, usually to content strategy and say, hey, we are doing a, I don't know, there's like an event or something like that for new managers.
+
+**Veronika Benkeser:** What are your top five recommendations?
+
+**Veronika Benkeser:** And the content strategy team will just know that which courses to recommend.
+
+**Veronika Benkeser:** And then we'll give that recommendation.
+
+**Veronika Benkeser:** There is also the RFP process, which is, we have tools for that, which is essentially content mapping based on the requirements.
+
+**Veronika Benkeser:** So for example, say somebody is looking for React courses, how many hours of that do you have?
+
+**Veronika Benkeser:** There is a
+
+**Veronika Benkeser:** tool they can use, the AEs would use themselves, that would pull up from the library, but basically do an API call to figure out how many courses, how many hours, what are some top courses based on how our search works internally.
+
+**Veronika Benkeser:** And then if it's an expansion, et cetera, we provide a slew of self-serve options like these AI starter paths, basically across tech and business.
+
+**Veronika Benkeser:** So that when somebody is expanding with an AI, they would use that deck that I showed you for tech.
+
+**Veronika Benkeser:** There are some assets for business as well, but basically like those assets that are already built out.
+
+**Veronika Benkeser:** So some starter paths, some showcase paths, which kind of are subsets of the collection, as well as the multi-threading deck and similar deck for soft skills in order to self-serve.
+
+**Veronika Benkeser:** But yeah, a lot of it is just like, hey, can you recommend some best courses?
+
+**Veronika Benkeser:** Yes, yes, here's some best courses, know, that sort of stuff.
+
+**Veronika Benkeser:** In addition to that tool that maps it, but again, the tool kind of is, the tool links to essentially our search.
+
+**Veronika Benkeser:** if somebody says, how many Python courses do you have that will utilize that same, you know, calling the same search service that this, that the website has, and then we'll pull in some of these courses.
+
+**Kyle Gaudreau:** Got it, got it.
+
+**Kyle Gaudreau:** Okay, helpful.
+
+**Kyle Gaudreau:** So how do you view, like, in terms of, like, your core objectives and success metrics, your team specifically, what does that look like?
+
+**Kyle Gaudreau:** Like, to ensure you're at the right place at the end of the quarter and you've crushed it, like, how do you get measured?
+
+**Veronika Benkeser:** Yeah, so I think we will be, you know, revisiting this as a company, but for the team, it's basically, are we providing the...
+
+**Veronika Benkeser:** Are we curating any low quality content out in a reasonable amount of time?
+
+**Veronika Benkeser:** So if there's a customer who escalates an issue, you know, are we taking action, which is like we'll reach out to the instructor to try to modify the course, et cetera.
+
+**Veronika Benkeser:** It is also, are we supporting the content strategy team in terms of checking the marketplace for any gap courses?
+
+**Veronika Benkeser:** And there is a lot of untapped potential here as well, because currently we rely on one team to identify gaps in the collection.
+
+**Veronika Benkeser:** And we do not have a link between unmatched searches and content in Udemy business, sorry, in content on Udemy.com.
+
+**Veronika Benkeser:** So for example, say we don't have content in Udemy business on, on LengChain, we see, okay, a lot of people searched for LengChain, but we don't have anything in Udemy business.
+
+**Veronika Benkeser:** There's actually no.
+
+**Veronika Benkeser:** Dashboard currently that even tells us that information.
+
+**Veronika Benkeser:** And then we actually do have...
+
+**Veronika Benkeser:** Sorry to jump in, I just want to make sure I'm interpreting correctly.
+
+**Kyle Gaudreau:** A dashboard that tells you how many people search that?
+
+**Kyle Gaudreau:** You don't have that?
+
+**Kyle Gaudreau:** No, we have how many people searched it, but not the match of whether or not it actually is included in Udemy.
+
+**Kyle Gaudreau:** I got you.
+
+**Kyle Gaudreau:** Okay, got it.
+
+**Veronika Benkeser:** Because the match is on the topic level.
+
+**Veronika Benkeser:** Anyway, there is no LLM type of match.
+
+**Veronika Benkeser:** And so that's why there isn't a way to be able to say, hey, these are on, you know, unset, like search queries that do not correspond to any supply.
+
+**Veronika Benkeser:** So currently there's no linkage because there's no LLM check on that.
+
+**Veronika Benkeser:** And so that's one opportunity.
+
+**Veronika Benkeser:** Another one is on Udemy.com, we may have this content already.
+
+**Veronika Benkeser:** But again, there is no link to say, match everything that people searched for that was on my, that were, there wasn't.
+
+**Veronika Benkeser:** There's no current course to everything that is available on Udemy.com.
+
+**Veronika Benkeser:** So basically the searches right now is a pool versus a push of like, oh, okay, now there's something else new that people searched for, right?
+
+**Veronika Benkeser:** So there's no push like that.
+
+**Veronika Benkeser:** There's a pool of, hey, content strategy team, basically three humans.
+
+**Veronika Benkeser:** Have you, like, what is your list of courses?
+
+**Veronika Benkeser:** What is your list of new skills that we need to add?
+
+**Veronika Benkeser:** And we will go and look for those things via the current tools rather than being able to rely on an LLM to do all of that.
+
+**Veronika Benkeser:** But that's an internal, you know.
+
+**Veronika Benkeser:** And so obviously we want to be able to meet more customer needs.
+
+**Veronika Benkeser:** And so the lack of that delays how fast we can curate things into Udemy business to provide more of that value and feel more of that more specific, specific, know, et cetera, vertical gaps.
+
+**Veronika Benkeser:** And is your hunch that there?
+
+**Kyle Gaudreau:** There's just like some pretty notable gaps there.
+
+**Kyle Gaudreau:** Like I have no doubt there's probably a lot, but in terms of just like, do you feel like you've covered some of like the biggest broadly?
+
+**Kyle Gaudreau:** Or I'm trying to kind of upsize it in my mind a little bit.
+
+**Veronika Benkeser:** Yeah, I mean, the biggest topics particularly for tech are covered, but we have a lot of customers who might need something like manufacturing content or say there is Llama 4, right?
+
+**Veronika Benkeser:** We are, we pride ourselves in being first to market on many of these hot topics.
+
+**Veronika Benkeser:** And so, but again, that relies on humans who like need to remember that this update is coming in to check on the marketplace for it rather than like, oh, okay, this is like the new topic here.
+
+**Veronika Benkeser:** Like it's right away in Udemy business.
+
+**Veronika Benkeser:** It's not a huge issue or anything like that, but we do have customers who submit requests for courses to be curated from udemy.com to Udemy business.
+
+**Veronika Benkeser:** So we do see that like the...
+
+**Veronika Benkeser:** You know, yes, we were checking for anything, any skills that were identified, but there is an opportunity to have this kind of a more responsive system to say, hey, like this course is now trending or this topic is now trending, what have you, and make it a smoother experience for the customer where they don't have to look on the marketplace.
+
+**Veronika Benkeser:** And the conference strategy team doesn't necessarily have to identify all of the, you know, more specific, we call them gaps, but opportunities, you know, to provide even more value because we have an extensive catalog.
+
+**Veronika Benkeser:** And so we always are trying to say, hey, like, what are some additional things?
+
+**Veronika Benkeser:** Okay, we cover this angle of it, but not that angle, et cetera.
+
+**Veronika Benkeser:** So, but there aren't like glaring, like, obviously we'll have a lot of stuff within AI, like LinkedIn or what have you.
+
+**Veronika Benkeser:** So a big part of it is how to be curated to get a log down versus up, but, but yeah, it makes sense.
+
+**Kyle Gaudreau:** What does it look like for an end user as you're tackling some of those gaps?
+
+**Kyle Gaudreau:** Like, is that communicated to them in some way?
+
+**Kyle Gaudreau:** Is there any motions to how to do that?
+
+**Veronika Benkeser:** Yeah, so there are some slides that we share with our customers in terms of, hey, now we have these topics.
+
+**Veronika Benkeser:** We didn't have them before, but now we have them.
+
+**Veronika Benkeser:** Um, we also try to go back to the customer who requested a particular, you know, particular topic that we now have, but that's a very, uh, you know, involved process in terms of humans remembering to do that and sheets and things like that.
+
+**Veronika Benkeser:** There isn't, there isn't, for example, um, a way for them to say, Hey, I'm interested in these types of topics.
+
+**Veronika Benkeser:** Whenever you have something new, let me know, right?
+
+**Veronika Benkeser:** There isn't that type of system in place or like kind of more one-off, like, okay, content strategy again, things of like, oh.
+
+**Veronika Benkeser:** Yeah, I remember we added this thing, let's surface these five new courses to them every month or every quarter, and like we will.
+
+**Veronika Benkeser:** But again, we surface these, say, five courses within tech to admins, and the courses are not grouped by a skill.
+
+**Veronika Benkeser:** They're just kind of random.
+
+**Veronika Benkeser:** They're probably all within AI, maybe.
+
+**Veronika Benkeser:** Sometimes they're like one cybersecurity, one AI, one whatever else.
+
+**Veronika Benkeser:** And so the admin gets this recommendation, they're like, cool, and some forward it to their learners and some don't.
+
+**Veronika Benkeser:** And so it's not really like, oh, here's how it looks by skills, like why you should care, and how it will impact your organization, and what kind of roles you should send these recommendations to, and why.
+
+**Veronika Benkeser:** Like why should they take time out of their day to even look at this email, right?
+
+**Veronika Benkeser:** There is an email motion of, we email learners who are subscribed to our emails with some recommendations.
+
+**Veronika Benkeser:** I'm currently, currently the marketing person.
+
+**Veronika Benkeser:** The is looking into it as to how we are doing that.
+
+**Veronika Benkeser:** You know, if we're looking at what courses they've taken before, like how are the recommendations provided?
+
+**Veronika Benkeser:** So she's investigating.
+
+**Kyle Gaudreau:** Who's that person?
+
+**Kyle Gaudreau:** It sounds like that'd be a great person for me to talk with.
+
+**Kyle Gaudreau:** Yeah, yeah, Nev.
+
+**Veronika Benkeser:** What is her last name?
+
+**Veronika Benkeser:** I can link her in the channel.
+
+**Veronika Benkeser:** yeah, she's listening to this right now about what motions exist in terms of us letting the learner know.
+
+**Veronika Benkeser:** So I talked about the admin as well as the CSM.
+
+**Veronika Benkeser:** So we will, on the admin, we have an admin newsletter where we only actually feature two tech tool business courses.
+
+**Veronika Benkeser:** But to the CSMs, we'll provide essentially a list of five tech five business courses.
+
+**Veronika Benkeser:** But again, it relies on the CSM to tell the admin, to tell the learner, and not group by scale, right?
+
+**Veronika Benkeser:** It matters.
+
+**Veronika Benkeser:** But yeah, I'll connect Nev to you with you to talk more about that motion where we're targeting.
+
+**Veronika Benkeser:** Yeah.
+
+**Veronika Benkeser:** That'd be great.
+
+**Kyle Gaudreau:** Yeah, I really appreciate it.
+
+**Kyle Gaudreau:** Yeah, that sounds like there's a lot of friction points there, which is usually good use cases for AI if you can connect some of the dots.
+
+**Kyle Gaudreau:** But cool.
+
+**Kyle Gaudreau:** Follow-up question that I lost.
+
+**Kyle Gaudreau:** Shoot.
+
+**Kyle Gaudreau:** It'll come back to me.
+
+**Kyle Gaudreau:** Definitely some questions I want to dig in on the email front, so I'll save those for them.
+
+**Kyle Gaudreau:** In terms of the notorious spreadsheet we were talking about that you had sent over, I want to make sure we have a chance to look at that.
+
+**Kyle Gaudreau:** I had a chance to look at it.
+
+**Kyle Gaudreau:** know, there's a lot of, you know, information in there.
+
+**Kyle Gaudreau:** We'd love to just understand how you approach managing that.
+
+**Kyle Gaudreau:** You kind of touched on it a little bit, I believe, but...
+
+**Kyle Gaudreau:** One of the things I'm curious about is if there's an opportunity for us to help enriching that in some way or improve that process.
+
+**Kyle Gaudreau:** I'm not sure.
+
+**Kyle Gaudreau:** At the very least, me understanding how it comes together could be useful.
+
+**Veronika Benkeser:** Yeah, let me share my screen here.
+
+**Veronika Benkeser:** Yeah, since I cannot share the entire screen, I have to find it.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Why not?
+
+**Kyle Gaudreau:** Well, there is a window share.
+
+**Kyle Gaudreau:** A window?
+
+**Veronika Benkeser:** It's still system settings, which I did, but it's not.
+
+**Veronika Benkeser:** We need to do it, unfortunately.
+
+**Kyle Gaudreau:** I have it somewhere as well.
+
+**Kyle Gaudreau:** Let me see if I can pull it up.
+
+**Kyle Gaudreau:** Mm-hmm.-hmm.-hmm.-hmm.
+
+**Kyle Gaudreau:** Okay, no, this is just a PDF.
+
+**Kyle Gaudreau:** It should say it's a CSV.
+
+**Kyle Gaudreau:** Yeah, I have it now.
+
+**Kyle Gaudreau:** Here we go.
+
+**Kyle Gaudreau:** Okay, this is the correct one, right?
+
+**Kyle Gaudreau:** Yes.
+
+**Veronika Benkeser:** So in terms of the Google Sheet, so this is an overview of some of the data that we have for our collection.
+
+**Veronika Benkeser:** In terms of collection management, there are a few different parts to that.
+
+**Veronika Benkeser:** The first part is, I'll kind of describe it and then we'll go into this data.
+
+**Veronika Benkeser:** Sure.
+
+**Veronika Benkeser:** The first part of collection management is how do you even add courses into UB?
+
+**Veronika Benkeser:** And that is that pool that I described from the marketplace, right?
+
+**Veronika Benkeser:** We're looking at the right courses in the marketplace based on two sets of criteria.
+
+**Veronika Benkeser:** One set of criteria is kind of minimum criteria.
+
+**Veronika Benkeser:** criteria that all courses need to meet, and we have that, so for example, it's like 4.35 for English courses and, you know, certain other criteria for instructor rating, etc.
+
+**Veronika Benkeser:** has to be met.
+
+**Veronika Benkeser:** And then it is curation-based criteria, which is for, there are different collections, essentially, that we offer for business customers.
+
+**Veronika Benkeser:** There is the Udemy business collection, but there are some additional ones like AI fluency.
+
+**Veronika Benkeser:** This is what I attached as PDFs to AI.
+
+**Veronika Benkeser:** Fluency is a different package we sell.
+
+**Veronika Benkeser:** Udemy business is a different package.
+
+**Veronika Benkeser:** And then AI readiness is a different one.
+
+**Veronika Benkeser:** And there's a slew of multi, multi, essentially, international collections as well.
+
+**Veronika Benkeser:** And so we will look on the marketplace to see what courses meet this criteria.
+
+**Veronika Benkeser:** We will then take courses that match with the gaps identified by the content strategy team, as well as any courses by our top instructors.
+
+**Veronika Benkeser:** We will then take courses.
+
+**Veronika Benkeser:** courses.
+
+**Veronika Benkeser:** We take courses.
+
+**Veronika Benkeser:** courses.
+
+**Veronika Benkeser:** We take We
+
+**Veronika Benkeser:** For VIPs, who are our top instructor partners, and we'll put that into the suitable collections based on the matches.
+
+**Veronika Benkeser:** And the way that it works, it has a software component or, you know, it has something built out in the system, essentially, that lets us do that.
+
+**Veronika Benkeser:** As well as Google queries, as well as some queries for these matches.
+
+**Veronika Benkeser:** So, once something is in there, we need to be able to curate it out if it falls below a certain rating threshold.
+
+**Veronika Benkeser:** For example, it falls below 4.0, we'll give it three months for them to improve their rating, or we will put it on the, essentially, staging area to be curated out in another three months, so that organizations know that this will be leaving the collection.
+
+**Veronika Benkeser:** So, this is some of the data that we have for that.
+
+**Veronika Benkeser:** And we are currently...
+
+**Veronika Benkeser:** We're adding some additional signals that can, you know, tell us more about the quality of the course.
+
+**Veronika Benkeser:** Definitely, we've relied on that last updated date very heavily, as well as the rating and number of enrollments.
+
+**Veronika Benkeser:** So each collection has its own curation out and curation in criteria.
+
+**Veronika Benkeser:** Some of the parts are, you know, automated.
+
+**Veronika Benkeser:** Others are more SQL-based queries, etc.
+
+**Veronika Benkeser:** So it kind of depends on the collection in order to, so in order to manage the collection, there isn't a, there isn't a fully, there are some opportunities for, for scalable collection management.
+
+**Veronika Benkeser:** So yeah, so for the Google Sheets, this is kind of like the data that we can use for that kind of skills mapping.
+
+**Veronika Benkeser:** But the team will usually rely on.
+
+**Veronika Benkeser:** And SQL to figure out, okay, what are the courses that we need to add, you know, pull that list, upload it via the tool to the right collections, and then curating out that functionality is automated for some, but not all different uses, and like, whatever it's not automated for that, again, we'll use SQL or compare lists to figure out what needs to be curated out.
+
+**Veronika Benkeser:** So that's, yeah, that's a bit of not happy to answer any questions.
+
+**Kyle Gaudreau:** Yeah, interesting.
+
+**Kyle Gaudreau:** So I imagine then you're making a request to some sort of data team, then, whenever you're having, how does that part work whenever you're needing to manage and pull and update and things of that nature?
+
+**Veronika Benkeser:** Yeah, so basically the curation team has operations managers who are doing these SQL queries, as well as some tools that they use.
+
+**Veronika Benkeser:** we?
+
+**Veronika Benkeser:** Yeah.
+
+**Veronika Benkeser:** Yeah.
+
+**Veronika Benkeser:** Yeah.
+
+**Veronika Benkeser:** the Thank
+
+**Veronika Benkeser:** You know, some dashboards and things like that, that help us find these courses that would be curated in and then, you know, that'd be using another tool to like kind of get those into the collection, essentially.
+
+**Kyle Gaudreau:** Got it, got it.
+
+**Kyle Gaudreau:** So primarily the users of this is going to be the content team, it sounds like.
+
+**Kyle Gaudreau:** This isn't necessarily serving other functions, it's just to make sure you have a central place to be able to have the right data points, filter through, you know, identify things, et cetera.
+
+**Veronika Benkeser:** Yeah, mean, the sheet itself, this is more like for self-serve with our, so sometimes our go-to-market team will say like, hey, how many courses do you have on this one skill?
+
+**Veronika Benkeser:** And so we'll have a dashboard that will generate essentially the sheet for that particular topic or, you know, for a specific collection.
+
+**Veronika Benkeser:** How much has it grown?
+
+**Veronika Benkeser:** So it will basically just query the database and figure that out.
+
+**Veronika Benkeser:** So yeah, the sheet itself is more something we download from the database, but yeah, the team would use a SQL query to get a CSV of it, of like what the suitable content would be that we need to add.
+
+**Kyle Gaudreau:** Is there any other things that can theoretically be pulled in here that he at times would like, for example, I'm just making sure I'm not missing it.
+
+**Kyle Gaudreau:** Like maybe this just has complexity I'm not appreciating, but like a URL associated.
+
+**Veronika Benkeser:** I mean, that dashboard doesn't give that to us by default.
+
+**Veronika Benkeser:** Yeah, that's just how that particular dashboard was built to do it.
+
+**Veronika Benkeser:** But yeah, I think if we pull from just a record.
+
+**Veronika Benkeser:** From the database, might be there, yeah.
+
+**Veronika Benkeser:** Got it.
+
+**Veronika Benkeser:** Okay.
+
+**Kyle Gaudreau:** Yeah, no problem.
+
+**Kyle Gaudreau:** And I'm not sure how often this would come up, but if we have an ask of show us a filter down view of this, what does that turnaround typically look like for you all?
+
+**Kyle Gaudreau:** Just to make sure I can appreciate the lift.
+
+**Veronika Benkeser:** Yeah, so if we're trying to say, hey, can you show us all of the courses with a particular tag?
+
+**Veronika Benkeser:** There's a dashboard already built by the data analytics team that would be able to filter by that tag or by any course name that contains that word.
+
+**Veronika Benkeser:** And then the go-to-market team would be able to download the sheet and send it to the customer or refer to it themselves.
+
+**Kyle Gaudreau:** Do you guys have that in Looker or something like that?
+
+**Kyle Gaudreau:** Yeah, in Tableau.
+
+**Kyle Gaudreau:** Oh, Tableau.
+
+**Kyle Gaudreau:** Okay, cool.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** That is helpful.
+
+**Kyle Gaudreau:** Um...
+
+**Kyle Gaudreau:** Tell me a little bit about Trials.
+
+**Kyle Gaudreau:** You're also helping out here.
+
+**Kyle Gaudreau:** I guess what I didn't quite understand is, is that a more D to C, UB side?
+
+**Kyle Gaudreau:** Yeah, UB side.
+
+**Kyle Gaudreau:** Got it.
+
+**Veronika Benkeser:** So in Trials, we basically currently are redesigning some of that, some of that experience to make it more intuitive to, well, to make it better in terms of guiding people to the right, relevant, high quality content instead of just, you know, letting them go to the search bar.
+
+**Veronika Benkeser:** So currently, if you enter a trial, you'll see the search bar and not much else.
+
+**Veronika Benkeser:** This page would look differently.
+
+**Veronika Benkeser:** So as a part of the trial redesign, we will, we already have some AI starter paths and some paths that contain hands-on components.
+
+**Veronika Benkeser:** And we will be adding here essentially.
+
+**Veronika Benkeser:** The showcase paths, which is, you can think of it as sub-collections of courses, basically what I showed you in this multi-threading deck of how, say, secure coding, and then kind of courses under that.
+
+**Veronika Benkeser:** So a view of that.
+
+**Veronika Benkeser:** So I'll show you an example.
+
+**Veronika Benkeser:** Let's see.
+
+**Veronika Benkeser:** An example of this could be.
+
+**Veronika Benkeser:** So, for example, something like this.
+
+**Veronika Benkeser:** It's going to take a little while to load.
+
+**Veronika Benkeser:** So, yeah, you can think of it as a sub-collection of skills and sub-skills that are needed by a particular domain, such as cyber security.
+
+**Veronika Benkeser:** So, for example, secure architecture.
+
+**Veronika Benkeser:** Here's some of the best courses we have on that.
+
+**Veronika Benkeser:** And again, this is about secure coding.
+
+**Veronika Benkeser:** So I was previously on the content strategy team, so I did this one.
+
+**Veronika Benkeser:** So I broke that down into the different skills.
+
+**Veronika Benkeser:** And then each skill has...
+
+**Veronika Benkeser:** That's different, you know, sub-skills.
+
+**Veronika Benkeser:** So for example, this one's application security, so it's microservices security.
+
+**Veronika Benkeser:** So it's not like they're interchangeable.
+
+**Veronika Benkeser:** These courses are not interchangeable, right?
+
+**Veronika Benkeser:** It's breaking it down into the different skills and sub-skills, as well as, you know, different stacks, you know, secure coding for Java is different than secure coding for JavaScript.
+
+**Veronika Benkeser:** So if the person, we don't know, you know, what stack that user's coming with, or, you know, as they're progressing in the trial, we'd want to ask them and build something custom, but as a preset set of learning paths, or as a preset set of kind of collections, we will be sharing this with these trial users.
+
+**Veronika Benkeser:** So basically the objective is to guide them towards seeing the freshness and breadth of our collection and how it helps them accomplish, you know, up-skill in the skills that they care about across teams.
+
+**Kyle Gaudreau:** And what, are there certain signals?
+
+**Kyle Gaudreau:** That you're monitoring for with active trials to understand, you know, how you're moving them along.
+
+**Kyle Gaudreau:** I mean, I would assume obviously getting them to pay, but is there like leading indicators you're paying attention to?
+
+**Veronika Benkeser:** there are leading indicators as a part of this project, more so more on the internal side of, you know, are AEs completing like the steps, the best practices that need to be completed?
+
+**Veronika Benkeser:** Are they, are the trial users being engaged in here?
+
+**Veronika Benkeser:** For example, X percent of the users actually searched for something or, you know, took some action during the trial versus not would be, would be an example of that.
+
+**Veronika Benkeser:** Yeah, but we, we will be monitoring some additional leading indicators as a part of this project.
+
+**Veronika Benkeser:** But again, it's kind of more, I mean, yeah, what, what, what action the user takes, but again, like kind of more.
+
+**Veronika Benkeser:** Only like, are you following up enough?
+
+**Veronika Benkeser:** Like, are you doing all these things enough?
+
+**Veronika Benkeser:** So that at the end of the trial, you have, well, before the trial really started, you figured out like, okay, what are they trying to achieve?
+
+**Veronika Benkeser:** What skills are needed?
+
+**Veronika Benkeser:** What is their definition of quality?
+
+**Veronika Benkeser:** And then during the trial that they have enough people in the trial that they're actually engaging with the product, they're, they have something recommended, you know, to start with, that they're engaging with, and then things like that.
+
+**Veronika Benkeser:** So yeah, that, that's kind of how we're thinking about it.
+
+**Kyle Gaudreau:** And that's someone on the sales side who's monitoring those patterns in a sense, and their book of business in a, in a sense, and, and helping almost from like a CS perspective around some of those things that you were just sharing?
+
+**Kyle Gaudreau:** Yeah, yeah.
+
+**Veronika Benkeser:** The, part of this is the kind of sales dashboard, essentially, that's tracking those leading indicators of the performance during the trial and then the, the end result.
+
+**Veronika Benkeser:** And, and, and, is there a team?
+
+**Kyle Gaudreau:** Maybe not your team that's, like, actively working on projects to help with, what's the right way to put this, tactics that address some of those leading indicators and kind of, like, moving the needle there?
+
+**Veronika Benkeser:** Yeah, I mean, I have a counterpart as a part of this project who is on the sales team and is, you know, helping enable the best practices from the sales side.
+
+**Veronika Benkeser:** Got it.
+
+**Kyle Gaudreau:** But nothing that's, like, marketing-driven at the moment.
+
+**Kyle Gaudreau:** No, nothing marketing-driven.
+
+**Veronika Benkeser:** The only thing we're doing with the trial environment is that we're putting that, we're putting that learning, showcase learning paths folder essentially here where we're going to be guiding them to some additional content that is aligned to skills that isn't just, like, letting them search for anything you want type of thing.
+
+**Veronika Benkeser:** And then we'll have Pando guides to point out, pay attention.
+
+**Veronika Benkeser:** That's kind of the marketing engagement from that side.
+
+**Veronika Benkeser:** then, of course, for all of our sales and trials and things like that, we have a slew of decks that many of them I attached in my past message that the team relies on for positioning and going through our model, our packages, and AI capabilities, all of that.
+
+**Veronika Benkeser:** Got it, got it.
+
+**Kyle Gaudreau:** Outful.
+
+**Veronika Benkeser:** But if you'll notice, none of it is really like a skills graph, right?
+
+**Veronika Benkeser:** Or here's where it's domain-based.
+
+**Veronika Benkeser:** Here it is in terms of skills.
+
+**Veronika Benkeser:** The closest is that PDF of courses, but that's just it.
+
+**Veronika Benkeser:** It's just that PDF of courses, not really like what skills for what roles or what have you.
+
+**Kyle Gaudreau:** Got it, got it.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** This is helpful, man.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** We'll
+
+**Kyle Gaudreau:** So many different directions I want to go here.
+
+**Kyle Gaudreau:** One thing I'm curious to understand better is I'm getting a better understanding of the surface areas, but I'm not sure I fully appreciate it all yet.
+
+**Kyle Gaudreau:** But, you know, what are some potential places where you have a more ungated experience of content that's driving eyeballs to this?
+
+**Kyle Gaudreau:** Or, you know, whether those be blogs that are going out, I'm going to just limit to something as simple as blogs, but just as an example of kind of the flavor.
+
+**Kyle Gaudreau:** I'm curious to just to make sure I can appreciate some of the tactics that surround that drive people into this, you know.
+
+**Kyle Gaudreau:** Certainly, I imagine that's like where your SEO folks would be playing a bit.
+
+**Kyle Gaudreau:** But, you know, as I think about potential opportunities, I want to make sure I kind of appreciate like tactics that are covered to what degree and then, you know, where we may be able to.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** In some way.
+
+**Veronika Benkeser:** Yeah.
+
+**Veronika Benkeser:** Yeah.
+
+**Veronika Benkeser:** I can share the blog.
+
+**Veronika Benkeser:** So we have a blog marketing, you know, marketing site.
+
+**Veronika Benkeser:** Somebody from the marketing team would be the best person to walk you through that and explain, you know, what other ungated areas, you know, that we're using.
+
+**Veronika Benkeser:** But let me see here.
+
+**Veronika Benkeser:** Where's the chat here?
+
+**Veronika Benkeser:** Okay.
+
+**Veronika Benkeser:** I'll drop it in here.
+
+**Veronika Benkeser:** So like the blog.
+
+**Veronika Benkeser:** That's what I'm familiar with.
+
+**Veronika Benkeser:** Yeah.
+
+**Veronika Benkeser:** But, yeah, so.
+
+**Veronika Benkeser:** I think there is another website, too, where we.
+
+**Veronika Benkeser:** Where do we have things?
+
+**Veronika Benkeser:** Let me just look it up really quickly.
+
+**Kyle Gaudreau:** Yeah, no worries.
+
+**Veronika Benkeser:** Okay, here go.
+
+**Veronika Benkeser:** Business of the Udemy.
+
+**Veronika Benkeser:** Okay, so here's the second one.
+
+**Veronika Benkeser:** Yeah, so for example, here on business.udemy, this is Good Vibes.
+
+**Veronika Benkeser:** This is a series that the marketing team did with some of our instructors and internal folks to capitalize on the vibe coding trend.
+
+**Veronika Benkeser:** And they build this marketing site.
+
+**Veronika Benkeser:** This is ungated and is managed by our marketing team.
+
+**Kyle Gaudreau:** Okay, interesting.
+
+**Kyle Gaudreau:** Yeah, there could be some fun stuff we could do with some of those potentially.
+
+**Kyle Gaudreau:** Because, yeah, if we do go a newsletter route, which...
+
+**Kyle Gaudreau:** You know, that is like the leading hypothesis of where we may be able to start through just the conversations with Jennifer.
+
+**Kyle Gaudreau:** You know, it's part of the things I'm trying to connect of like, what's existing content?
+
+**Kyle Gaudreau:** Where can there be new?
+
+**Kyle Gaudreau:** How can we understand like how all these systems come together and drive people into critical, you know, points of action that you all care about?
+
+**Kyle Gaudreau:** And so this is, this is helping a bit.
+
+**Kyle Gaudreau:** certainly a lot more I need to dig into, but I think.
+
+**Kyle Gaudreau:** Yeah, great, great.
+
+**Veronika Benkeser:** Let me look up one more thing here.
+
+**Veronika Benkeser:** Yeah, so I think a good resource is going to be that Udemy, business.udemy site, marketing site.
+
+**Veronika Benkeser:** I'll stack you one more page or put it, I'll put it in the comments here.
+
+**Veronika Benkeser:** We're AI starter paths.
+
+**Veronika Benkeser:** So AI is a big motion for us.
+
+**Veronika Benkeser:** We're trying to expand by using these AI packages.
+
+**Veronika Benkeser:** Just...
+
+**Veronika Benkeser:** And this is how we're talking about our starter paths.
+
+**Veronika Benkeser:** The starter paths is what I showed you in the product.
+
+**Veronika Benkeser:** It's basically a slew of courses within different roles or domains to help business leaders or tech leaders design learning paths to upskill their workforce.
+
+**Veronika Benkeser:** And you see, you know, what Udemy offers, right?
+
+**Veronika Benkeser:** Some of the best content that we offer.
+
+**Veronika Benkeser:** So you'll see some of the paths here on this page.
+
+**Veronika Benkeser:** Yeah, but as I mentioned, I think one area, one big area of opportunities, you know, building that confidence with L&D leaders that we are the right partner because some of our courses are not high production value, particularly, well, for business leader, for business folks, for L&D folks, that matters more than for tech.
+
+**Veronika Benkeser:** So it's mostly on that side.
+
+**Veronika Benkeser:** But So
+
+**Veronika Benkeser:** Having, building more confidence that, hey, we have this AI readiness package of these AI courses, here's how, here's why your organization needs them, here's how to, you know, basically helping them see Udemy as that right skills provider.
+
+**Veronika Benkeser:** Because for them, they hear freshness, and that definitely helps, but sometimes we do hear about production quality and just saying, like, hey, I want to have something that I just, you know, looks good, I can just send out to me as an employee, you know, and so I think some education regarding why freshness matters in this space in particular, you know, why it matters more than a beautiful old course, that is an opportunity.
+
+**Kyle Gaudreau:** I imagine if you combine that with both freshness and, my brain is not working, like cachet of that instructor.
+
+**Kyle Gaudreau:** On top of that and trust and lean into that on top of that.
+
+**Kyle Gaudreau:** I would imagine that's probably a pretty good recipe for y'all.
+
+**Kyle Gaudreau:** I know that was something you mentioned before, like how to, during the kickoff of like how to bring those people more front and center a bit.
+
+**Kyle Gaudreau:** Because, yeah, like to me, you know, I'm not one of those folks.
+
+**Kyle Gaudreau:** So, you know, hard for me to say, but I would assume I would care less about production value.
+
+**Kyle Gaudreau:** If I think this person's super legit and I feel like I'm getting the latest and greatest and I'm getting true value of substance more than anything.
+
+**Kyle Gaudreau:** It could be a very plain deck.
+
+**Kyle Gaudreau:** Lives are walking through amongst other things and I'm getting true value.
+
+**Kyle Gaudreau:** I'm probably still very excited.
+
+**Kyle Gaudreau:** I could certainly be alone in that compared to like an LOD leader at an enterprise.
+
+**Kyle Gaudreau:** I realize there's probably a lot of complexity, especially when you have a decent price point to add on top of that.
+
+**Kyle Gaudreau:** So, well, I have two last questions.
+
+**Kyle Gaudreau:** Is there anything I haven't asked?
+
+**Kyle Gaudreau:** And I'm just like missing something critical here that we should be digging more into.
+
+**Veronika Benkeser:** No, I think this is right on point.
+
+**Veronika Benkeser:** I will emphasize the marketplace model that is very, very different from competitors.
+
+**Veronika Benkeser:** And so the fact that anybody can create a course is very unique and also is harder sometimes for customers to grasp.
+
+**Veronika Benkeser:** And so that is a point that we emphasize one of the decks that I sent to you is talking about that marketplace model.
+
+**Veronika Benkeser:** And so instructor background wise, sometimes an instructor isn't going to list a lot of stuff on their profile for Udemy.
+
+**Veronika Benkeser:** And so the way that we usually, so we usually have slides that will highlight a few really good, great instructors.
+
+**Veronika Benkeser:** But the way that we overcome that objection is via our ratings and reviews.
+
+**Veronika Benkeser:** And we'll say, hey, look at this course that has literally 1.6 million learners that is getting like 20,000 enrollments from UB customers who trust us to upskill their employees.
+
+**Veronika Benkeser:** And so we heavily rely on those ratings and reviews and just the sheer volume of people that we upskill in order to help build that confidence.
+
+**Veronika Benkeser:** And so I think when that story is told well to L&D leaders, what we have seen is that they kind of start understanding like, oh, yeah, there is like a huge scale that no other competitor has.
+
+**Veronika Benkeser:** And what that scale helps achieve is that fresh content, you know, because they can just film it and there is no, there's some meeting on our end, but, you know, they have a chance to compete and outcompete each other.
+
+**Veronika Benkeser:** And that's why they update it because they want to be able to compete better for these huge amounts, huge numbers of enrollments.
+
+**Veronika Benkeser:** And so we...
+
+**Veronika Benkeser:** We rely on our go-to-market team, you know, to be able to tell that story and tell it well.
+
+**Veronika Benkeser:** But, yeah, they just wanted to highlight that that's a key.
+
+**Kyle Gaudreau:** That's super helpful.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** It has now forced me to lie here.
+
+**Kyle Gaudreau:** And now I have two more questions.
+
+**Kyle Gaudreau:** I promise the last one is very quick.
+
+**Kyle Gaudreau:** Is there some sort of angle, some sort of emotion in place of trending topics, engagement?
+
+**Kyle Gaudreau:** And, like, what you were mentioning around data points is really interesting.
+
+**Kyle Gaudreau:** So, you know, it my gears here in a little bit of how we can lean into that.
+
+**Kyle Gaudreau:** What does that look like today?
+
+**Kyle Gaudreau:** Is that something that's a bit more manual or is there something curated around that already today?
+
+**Veronika Benkeser:** So it's pretty, I mean, we do have a dashboard that the marketing team relies on to pull this data.
+
+**Veronika Benkeser:** We basically do this global learning and skills report.
+
+**Veronika Benkeser:** I'll send you a link here.
+
+**Veronika Benkeser:** And the way that that's done, we will...
+
+**Veronika Benkeser:** So marketing will rely on this dashboard, and they will get together with the content strategy team to get any more context.
+
+**Veronika Benkeser:** They'll do some research as well on these topics, and it looks like you have to sign up to view it.
+
+**Veronika Benkeser:** But essentially, it's a report of, hey, what are the trending skills, et cetera, why do they matter?
+
+**Veronika Benkeser:** I think we have an opportunity to do more with this data.
+
+**Veronika Benkeser:** I haven't looked at the most recent iteration of the report.
+
+**Veronika Benkeser:** But at least previously, the way that we've done it, we'll outline a particular skill like LengChain and say, okay, it's surging by 4,000%.
+
+**Veronika Benkeser:** That's fine.
+
+**Veronika Benkeser:** And then we will write up a little paragraph about it.
+
+**Veronika Benkeser:** But I think, so yeah, I need to look at the most recent copy.
+
+**Veronika Benkeser:** I'll dig that out and share it with you in the Slack channel.
+
+**Kyle Gaudreau:** I appreciate it.
+
+**Veronika Benkeser:** But I think, like, making sure...
+
+**Veronika Benkeser:** Tailoring it to different audiences, making sure that it's visible, like why it actually, why that matters, and opportunities to showcase when we were first to market with it or how much, how we differ from competitors.
+
+**Veronika Benkeser:** That angle is also done by the content strategy team manually of like, hey, we have this content that they don't, you know, or we were first to market on these five key topics that other people weren't.
+
+**Veronika Benkeser:** Again, that's a manual task that's done by humans.
+
+**Veronika Benkeser:** So there's an opportunity there as well.
+
+**Kyle Gaudreau:** Who leads that effort?
+
+**Veronika Benkeser:** Well, I used to do it for the tech content strategy team when I was on that team.
+
+**Veronika Benkeser:** So content strategy team.
+
+**Kyle Gaudreau:** I'm trying to remember, I didn't, forgive me, there was so many folks I met last time.
+
+**Kyle Gaudreau:** Who, were they on the kickoff, someone who owns that?
+
+**Kyle Gaudreau:** No, no.
+
+**Veronika Benkeser:** So basically, the rest of the folks are from the marketing team, content team.
+
+**Veronika Benkeser:** So now I'm on curation, but I used to be on content strategy.
+
+**Veronika Benkeser:** So I'm very familiar with, with that.
+
+**Kyle Gaudreau:** Content strategy.
+
+**Kyle Gaudreau:** The strategy is separate from marketing?
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Oh, okay.
+
+**Kyle Gaudreau:** That's what I was missing.
+
+**Kyle Gaudreau:** I get it.
+
+**Kyle Gaudreau:** That's true.
+
+**Kyle Gaudreau:** Yeah, yeah, yeah.
+
+**Kyle Gaudreau:** Because usually in my world, I think of that as a critical part of marketing, but I understand why.
+
+**Kyle Gaudreau:** Yeah.
+
+**Veronika Benkeser:** The tech or the content strategy I should have specified within the content team, which is basically looking at the different skills and, you know, gap skills, things like that.
+
+**Veronika Benkeser:** That content strategy on the content team is the team that would look at that.
+
+**Veronika Benkeser:** Yeah.
+
+**Veronika Benkeser:** So basically every quarter, the content strategy team on the content team would come up with, you know, what are the examples of being first to market?
+
+**Veronika Benkeser:** How do we compare it to competitors along XYZ dimension within a particular domain, things like that.
+
+**Veronika Benkeser:** Makes sense.
+
+**Veronika Benkeser:** Cool.
+
+**Kyle Gaudreau:** Well, thank you so much.
+
+**Kyle Gaudreau:** I really appreciate your time.
+
+**Kyle Gaudreau:** You know, I certainly know there's a million other.
+
+**Kyle Gaudreau:** There are deep dives I could do.
+
+**Kyle Gaudreau:** I'm trying to get my head around that a little bit of where to go next.
+
+**Kyle Gaudreau:** I don't know if you have any strong opinions there.
+
+**Kyle Gaudreau:** Certainly Krista, I think, is probably someone I should be digging in deeper with.
+
+**Kyle Gaudreau:** But, yeah, I don't know if you have any strong perspective on that.
+
+**Veronika Benkeser:** Yeah, I mean, I think one thing that is in common in some of these use cases is basically having a skill-based view.
+
+**Veronika Benkeser:** Or a skill-based graph of sorts.
+
+**Veronika Benkeser:** then, you know, we can kind of, you know, if we have something to work with, we can say, hey, can this be more granular?
+
+**Veronika Benkeser:** We can use it for X.
+
+**Veronika Benkeser:** Can this be, can this also have, you know, I don't know, how it maps to skills or whatever else, right?
+
+**Veronika Benkeser:** And so I think that's going to be our best kind of starting point.
+
+**Veronika Benkeser:** But in terms of people to talk to, I'll link you with Niamh who is doing the communication or investigating how we are doing the recommendations.
+
+**Veronika Benkeser:** I'm happy to walk you through the first-to-market, that sort of stuff, how it compared to competitors, or how that process works, that would be the right point of contact for that.
+
+**Veronika Benkeser:** Yeah, maybe, I think you mentioned Krista on the marketing team, right?
+
+**Veronika Benkeser:** I think she'll be a good point of contact.
+
+**Veronika Benkeser:** Yeah, I'm not sure, not sure who else.
+
+**Kyle Gaudreau:** No, it's okay, totally fine.
+
+**Kyle Gaudreau:** And, you know, I think this will crystallize more over time.
+
+**Kyle Gaudreau:** So, you know, my aim is at the very least to have one of these a week, hopefully maybe two next week.
+
+**Kyle Gaudreau:** And so I'm also trying to get the ongoing meeting next week.
+
+**Kyle Gaudreau:** So hopefully we can coordinate with the team on that.
+
+**Kyle Gaudreau:** Sounds good.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** But I appreciate your time.
+
+**Kyle Gaudreau:** Thank you so much.
+
+**Kyle Gaudreau:** I'm sure you're super busy.
+
+**Kyle Gaudreau:** So I really appreciate you giving me an hour of your time.
+
+**Kyle Gaudreau:** Sure thing.
+
+**Veronika Benkeser:** Well, thank you so much.
+
+**Veronika Benkeser:** I'm looking forward to collaborating more.
+
+**Kyle Gaudreau:** Thanks again.
+
+**Kyle Gaudreau:** Likewise.
+
+**Kyle Gaudreau:** All right.
+
+**Kyle Gaudreau:** Take care, Veronica.
+
+**Kyle Gaudreau:** Bye.

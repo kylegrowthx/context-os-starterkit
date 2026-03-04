@@ -1,0 +1,1007 @@
+# David - Technical Managing Editor
+
+<metadata>
+date: 2025-08-25
+time: 19:19 UTC
+duration: 45 minutes
+organizer: jason@growthx.ai
+participants: Jason Gong, David DeLallo
+fathom_recording_id: 82758571
+fathom_url: https://fathom.video/calls/390427792
+share_url: https://fathom.video/share/bBDnF1zp8mrxyhFJfux_FtSpH_qffs-T
+source: fathom
+enriched_on: 2026-03-03 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Jason Gong (GrowthX Head of Growth) and David DeLallo, a senior content strategist with 15+ years of experience and 6 years at McKinsey, had an initial recruitment conversation to assess fit for a Technical Managing Editor role. David shares GrowthX's vision of combining high-quality, research-backed content with AI-driven efficiency—exactly what he'd build if scaling his agency independently. Both see strong alignment on how to balance volume strategies with quality, use of AI tools (ChatGPT, Claude, MidJourney), and the future of content marketing as models improve; Jason emphasized GrowthX's main challenge is delivery consistency across pods, while David expressed strong interest in helping build that scalable engine alongside client work.
+
+---
+
+## Context
+
+This is a recruitment conversation between Jason Gong (GrowthX's Head of Growth) and David DeLallo, a senior content marketing strategist with 15+ years of experience. David is a candidate for GrowthX's Technical Managing Editor role. The meeting is an initial screening to assess David's background, approach to content strategy, and cultural fit with GrowthX's vision of combining high-quality, research-backed content with AI-driven efficiency. David has deep expertise from IBM (AI thought leadership) and 6 years at McKinsey building their AI-focused content and thought leadership program—exactly the pedigree GrowthX is trying to emulate. The conversation covers David's technical background, GrowthX's current operational challenges, and shared perspectives on the future of AI-augmented content marketing.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- David's 6-year track record at McKinsey building AI-focused content marketing and thought leadership programs directly addresses GrowthX's stated challenge: improving delivery consistency and scaling high-quality content production
+- Candidate has hands-on experience with systematic workflows using ChatGPT, Claude, and MidJourney—the exact tools GrowthX uses to balance AI efficiency with human expertise
+- Early AI adopter (since late 2022) who understands the transition from manual content creation to AI-augmented production at scale
+
+**To GrowthX Business Development:**
+- Account expansion signal: If hired, David has expressed strong interest in applying his expertise to GrowthX's own marketing, positioning him as a potential strategic asset beyond client delivery
+- Reference potential: David's background at McKinsey and IBM makes him credible with enterprise clients and could strengthen GrowthX's ability to serve large, complex organizations
+- Delivery confidence: David's experience building content engines for enterprise clients (McKinsey, IBM) suggests he can help GrowthX systematize the pod-based delivery model Jason flagged as a key challenge
+
+**To GrowthX Strategy:**
+- Validates GrowthX's "McKinsey-style quality + AI efficiency" positioning: David independently identified GrowthX as the company executing exactly what he'd build if scaling his agency
+- David's skepticism of pure volume strategies (100 pieces, iterate later) and emphasis on research-backed content suggests he could help GrowthX optimize the balance between SEO volume and quality
+- Future-of-work perspective: David's thinking on platform innovation and "bringing the human forward" aligns with GrowthX's exploration of building a presence-management SaaS product
+
+---
+
+## Overview
+
+- David has 15+ years of content marketing experience, including significant AI-focused work at IBM, McKinsey, and his own agency
+- GrowthX is seeking to improve delivery consistency and scale their AI-powered content creation capabilities
+- Both see potential in combining high-quality, McKinsey-style content with AI-driven efficiency and distribution
+- Cultural fit and shared vision for AI-augmented content marketing appear strong
+
+---
+
+## Key Topics
+
+### David's Professional Background
+
+  - 15+ years in content marketing, currently running his own agency
+  - Worked at IBM (2 years) on AI thought leadership during early Watson days
+  - 6 years at McKinsey building out AI-focused content marketing and thought leadership
+  - Early adopter of AI tools for content creation since late 2022
+
+### GrowthX's Current Operations
+
+  - 6-10 "pods" serving clients, structure still evolving
+  - Challenges in consistent delivery and scaling high-quality content production
+  - Clients include Webflow, Surge AI, and Augment (AI companies)
+  - Office in San Francisco, hybrid work model with some in-office presence
+
+### Content Creation Approaches
+
+  - GrowthX aims to mimic McKinsey-style quality while leveraging AI for efficiency
+  - Balancing high-quality, research-backed content with SEO-driven volume strategies
+  - Experimenting with interactive content experiences inspired by McKinsey and NYT
+  - Using AI tools (ChatGPT, Claude) for initial drafts, then refining with human expertise
+
+### Industry Trends and Challenges
+
+  - Increasing AI adoption may commoditize basic content, emphasizing quality and uniqueness
+  - Potential for new platforms to emerge, centralizing digital presence and "bringing the human forward"
+  - Balancing immediate growth tactics with long-term, high-value content strategies
+
+---
+
+## Action Items
+
+**David DeLallo (candidate)**
+- Email Jason Gong with any additional questions about the role or company
+
+---
+
+## Transcript
+**Jason Gong:** Hey, how are you?
+
+**David DeLallo:** Can you hear me?
+
+**David DeLallo:** How are you?
+
+**Jason Gong:** Okay, I hear you now.
+
+**Jason Gong:** My bad.
+
+**Jason Gong:** I'm good.
+
+**Jason Gong:** How are you doing?
+
+**Jason Gong:** Whereabouts are you calling from?
+
+**David DeLallo:** I'm in Stanford, Connecticut.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** It's about 30 miles outside of New York City.
+
+**Jason Gong:** Yeah, awesome.
+
+**Jason Gong:** We have, I think we have one other person around New York.
+
+**David DeLallo:** She's in Rhode Island.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Maybe in a different direction.
+
+**Jason Gong:** I'm not super familiar.
+
+**David DeLallo:** Yeah, it's more east.
+
+**Jason Gong:** Okay, cool.
+
+**Jason Gong:** I'm in our office.
+
+**Jason Gong:** I live in Oakland, but I'm originally from Toronto.
+
+**David DeLallo:** So I haven't seen a winner in a while, you know, but.
+
+**David DeLallo:** I'm not a big fan.
+
+**David DeLallo:** I have a little place in Florida that I try to escape to periodically in the winter.
+
+**Jason Gong:** Awesome.
+
+**Jason Gong:** I know a lot of folks have moved out there to, I don't even know, like, when COVID, because I was here when COVID happened, and, like, everyone went to, like, Seattle, Miami, like, Austin, and, like, for the most part, they've kind of stayed there.
+
+**Jason Gong:** So it's, like, always wanted to visit to see how those places are.
+
+**David DeLallo:** These are good spots.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** I mean, it's really good to meet you.
+
+**Jason Gong:** I think, really, the goal today was just to, like, chat, you know, like, I think everyone said, like, amazing things about you.
+
+**Jason Gong:** For context, I think we'll probably work together.
+
+**Jason Gong:** If you do end up working here, I lead, I mean, just, I guess, a little bit about me, because I don't know if anyone else has shared anything.
+
+**Jason Gong:** I lead growth here, which is kind of, like, two main facets, I guess, like, on one side, I lead growth for, like, the company itself.
+
+**Jason Gong:** So, like, growth X, agency, we have, like...
+
+**Jason Gong:** We we're launching, have a community, kind of, like, the whole marketing of GrowthX.
+
+**Jason Gong:** I also spend a bunch of time just on, like, the services of what we deliver.
+
+**Jason Gong:** Like, for example, three months ago, we didn't really do much around kind of LM mentions and citations.
+
+**Jason Gong:** And now it's, like, honestly, like, become almost the core of, like, what we do.
+
+**Jason Gong:** So I spend a bunch of time there.
+
+**Jason Gong:** And then the other half, I work on some of the bigger clients that we have, especially the ones that are, like, a little bit more white gloves and, like, the engagements aren't, like, totally standard.
+
+**Jason Gong:** So right now that's Webflow, like the CMS company, this company called Surge AI, which is kind of like Scale AI, but comfortable and better.
+
+**Jason Gong:** Or at least that's how we've been trying to market them.
+
+**Jason Gong:** And then the last one's Augment Code, which is a Cursor competitor, basically.
+
+**Jason Gong:** Yeah, and then my background's like, I had a growth for a bunch of different startups.
+
+**Jason Gong:** I had my own, found my own dev tool company.
+
+**Jason Gong:** was like an open source network security company.
+
+**Jason Gong:** I raised some money into YC.
+
+**Jason Gong:** And then I met Marcel.
+
+**Jason Gong:** I'm not sure if you've spoken to yet, but I met him because I was like, same with him, I guess, like really early.
+
+**Jason Gong:** I'm just using AI for everything.
+
+**Jason Gong:** And see, like this time last year, there was a dinner that, funny enough, the Aerofs guys held, where I met him there and then told me about what he was building.
+
+**Jason Gong:** And I was like, oh, yeah, that sounds like a great idea.
+
+**Jason Gong:** Joined him a few months after.
+
+**Jason Gong:** Yeah, I think that's it.
+
+**Jason Gong:** I don't know if have any questions, but I saw, yeah, if you have any questions.
+
+**Jason Gong:** And then I saw your LinkedIn, I was told very little in general, but like, you know.
+
+**Jason Gong:** Other than just, you seem great, but I'd love to hear about kind of your background too.
+
+**David DeLallo:** Yeah, sure.
+
+**David DeLallo:** So I've been in content marketing for a good 15 years now.
+
+**David DeLallo:** Right now I have my own small agency.
+
+**David DeLallo:** I mean, it's really just me plus contractors.
+
+**David DeLallo:** I don't have full-time employees where I'm creating content marketing programs for my clients or just working on, you know, point assets for them if that's what they need.
+
+**David DeLallo:** But usually that flows into something bigger, as you know.
+
+**David DeLallo:** So I generally, content-wise right now, focus on technology because that's where I've been for the past 10 years.
+
+**David DeLallo:** I worked at IBM for a couple of years and was on the Center for Applied Insights.
+
+**David DeLallo:** Team, which at the time was a thought leadership center of excellence that was running parallel to the big one that they have, IBV, because that was just for consulting.
+
+**David DeLallo:** And so we pretty much picked up everything else.
+
+**David DeLallo:** So there I worked on content marketing campaigns, mostly, largely based on research, surveys, et cetera.
+
+**David DeLallo:** And that was around cloud and business resilience.
+
+**David DeLallo:** And then eventually, actually only about six months after I started, they picked us up and put us into corporate communications because that was their initial launch of Watson.
+
+**David DeLallo:** And so I worked on the thought leadership that was coming out of IBM early on around that.
+
+**David DeLallo:** And that's where I really started to get my AI education. For my first project, I proposed and interviewed 30 experts both inside and outside of IBM, including Yoshua Bengio and Margaret Bowden, among others.
+
+**David DeLallo:** And I kind of learned about AI just like that.
+
+**David DeLallo:** And then I was kind of hooked.
+
+**David DeLallo:** And from there, went to McKinsey only because IBM did the, hey, everybody has to come back into the office.
+
+**David DeLallo:** And they wanted me to come back into New York City.
+
+**Jason Gong:** So you were working remote, like even back then?
+
+**David DeLallo:** Yeah, I'm like, you know, OG on remote working.
+
+**David DeLallo:** So I actually joined IBM fully remote.
+
+**David DeLallo:** Oh, I never even had an office assigned to me and would have been happy to work in their headquarters, which is only 20 minutes away.
+
+**Jason Gong:** But I was not interested in going back into what I had done in the past.
+
+**David DeLallo:** So that they gave.
+
+**David DeLallo:** But some time, basically, if you said no, they were like, okay, fine, we'll give you three months leeway here and you can go find another job.
+
+**David DeLallo:** So that's what I did.
+
+**David DeLallo:** And that's how I ended up at McKinsey.
+
+**David DeLallo:** And they were just maybe a year before I joined, they had started what was then called McKinsey Analytics, which was sort of their first foray into becoming a consultancy that can focus on AI implementation and such.
+
+**David DeLallo:** So I built out their content marketing and thought leadership program around AI, and I did that for six years, which was great.
+
+**David DeLallo:** And then, you know, when everything exploded in 2022, I'm thinking, okay, like my services and my expertise would be needed broadly.
+
+**David DeLallo:** So I started to just contemplate, you know, going off on my own, which I then did in 2023.
+
+**David DeLallo:** So that's what I've been doing.
+
+**David DeLallo:** So that's, that's how I got into this space.
+
+**David DeLallo:** And I too, of course, then was an early adopter of AI and have been using some of the tools pretty regularly since, you know, they came out in late 2022.
+
+**Jason Gong:** Yeah, that's awesome.
+
+**Jason Gong:** And then how, I guess, did you, did we find you or did you find us and like the interest for growthx, I guess?
+
+**David DeLallo:** Yeah, I've been, you know, I kind of keep my eye on roles in my area just to see if anything tickles my fancy.
+
+**David DeLallo:** And when I saw first just the name of this role, I was thinking, what is that?
+
+**David DeLallo:** And I looked at it and I was thinking, this is exactly where it's got, you know, the ball is moving.
+
+**David DeLallo:** And where if I were to take my agency to the next level, it's exactly what I would do.
+
+**David DeLallo:** So, I thought, hey, you know, why not join up with a company that's already off and running in that way?
+
+**David DeLallo:** So, and I actually had met.
+
+**David DeLallo:** Marcel briefly when he was at Scale AI through an acquaintance that we had from McKinsey.
+
+**David DeLallo:** So, you know, I felt comfortable that he would be, you know, a good leader in this space.
+
+**Jason Gong:** That's awesome.
+
+**Jason Gong:** Yeah, he's got such a strong network, honestly.
+
+**Jason Gong:** Trying to, like, a lot of the marketing that we do is, like, taking what he does kind of naturally, like, building relationships and, like, yeah, just, like, sharing, like, a lot of what he does and just, like, 10xing that, you know, and amplifying it.
+
+**Jason Gong:** So it's been kind of interesting.
+
+**Jason Gong:** Let's see.
+
+**Jason Gong:** And then just, like, I mean, please ask me anything.
+
+**Jason Gong:** I want to, like, it's, like, you know, going both ways.
+
+**Jason Gong:** Like, ask me anything you think would help you figure out, you know, if the work here is interesting or, like, just to learn what we're doing.
+
+**Jason Gong:** As I ask you a bunch of stuff, but at McKinsey, like, what, like, was it all under one umbrella, like, the content you guys publish, or are there different kind of lanes?
+
+**Jason Gong:** Because, like, I feel like almost at all my, like, but before I started in startups, I used to work in, like, corp dev, like, M&A stuff, and we would always just come back to, like, the white papers that you guys wrote to understand an industry.
+
+**Jason Gong:** So, like, honestly, just, like, always super familiar and impressed with, like, the quality, you know, of what you put into it.
+
+**Jason Gong:** Like, was that just one big org, or was, like, white papers a separate thing from, like, certain other things?
+
+**David DeLallo:** A little bit of both.
+
+**David DeLallo:** So there is a global publishing function that's pretty big.
+
+**David DeLallo:** I don't know how many people work there today.
+
+**David DeLallo:** It's probably easily 75 minimum, and so they have all the capabilities.
+
+**David DeLallo:** In terms of design and web development and, you know, there's a staff of writers and copy editors and all the whole nine.
+
+**David DeLallo:** But, you know, McKinsey is like a funny animal.
+
+**David DeLallo:** It's, you know, let a thousand flowers bloom is a phrase that you hear a lot.
+
+**David DeLallo:** So every single practice sort of is its own entity in a way.
+
+**David DeLallo:** So when they hired me, I was hired directly into the McKinsey Analytics practice at the time, which then subsumed into their whole technology practice.
+
+**David DeLallo:** And because we were so prolific and because it was a growth area, they had their own dedicated staff to that particular function.
+
+**David DeLallo:** And we still would leverage the global team sometimes.
+
+**David DeLallo:** So sometimes we would go to them and get design and web development done.
+
+**David DeLallo:** But we also had a couple of like longstanding.
+
+**David DeLallo:** Contractor agencies as well.
+
+**David DeLallo:** So we were kind of able to just pick basically based on whether the global team had capacity or, you know, if it's something super high profile, generally would keep it in-house, but otherwise would outsource.
+
+**David DeLallo:** So that's, it was a mix.
+
+**Jason Gong:** And like, what would an example, like publication or piece of analysis be like that you guys put out?
+
+**David DeLallo:** I mean, it's everything that you see on their site, basically, from, you know, a 90 page report to, you know, interactive experience that's a little bit more visual than textual.
+
+**David DeLallo:** And then I, you know, I would also create social assets and essentially if we had, you know, for example, a big report or like a series of reports in one area.
+
+**David DeLallo:** Yeah, would create the content marketing plan for that and all of the assets that we would do around that.
+
+**David DeLallo:** So it might be blogs or guest op-eds that we would do on, you know, an MIT review or something like that.
+
+**Jason Gong:** And then was your kind of, like, how did they coordinate all that?
+
+**Jason Gong:** Did, like, one person kind of drive that project and facilitate all of it?
+
+**Jason Gong:** Or is it pretty kind of, like, parallel tracks just all kind of pointing towards the same outcome?
+
+**David DeLallo:** Again, it's a bit of a mix.
+
+**David DeLallo:** But, I mean, we had our own marketing team within digital that I would be coordinating with.
+
+**David DeLallo:** But if it was a big, like, company-wide, high-profile thing, then I would also be coordinating with, like, the brand team that's at the corporate level as well.
+
+**David DeLallo:** So that's generally...
+
+**David DeLallo:** that's generally...
+
+**David DeLallo:** How it would work.
+
+**Jason Gong:** And your role was like more on, I don't know, like which part was it like kind of packaging and writing the story of it or is it more?
+
+**David DeLallo:** I mean, everything started with like the strategic level.
+
+**David DeLallo:** So I ran an editorial board that had, you know, several people in the practice on it and we would come together and decide what our themes would be for the year.
+
+**David DeLallo:** So we would try to have like three to four themes and then we would create a marketing campaign, usually in line with the themes.
+
+**David DeLallo:** sometimes it would go, you know, there would be opportunities to go across them.
+
+**Jason Gong:** Yep.
+
+**David DeLallo:** You know, mix of bottom up and top down.
+
+**David DeLallo:** So that would make me sometimes say, hey, we should do a report on XYZ.
+
+**David DeLallo:** But meanwhile, there's other stuff coming in that the partners wanted to write about.
+
+**David DeLallo:** And so I would try to steer those towards something that would fit in with the campaign.
+
+**David DeLallo:** And then down to then, yeah, like working on the actual pieces.
+
+**David DeLallo:** So either I would write it myself or if I was really busy, which was, you know, 90% of the time, I would be sort of the editor-in-chief and would outsource, you know, the bulk of the writing to a freelancer or somebody on the global staff.
+
+**Jason Gong:** And then CERB is like the top editor for it.
+
+**Jason Gong:** That's so cool.
+
+**Jason Gong:** I mean, I guess the reason I have so many questions is like, I feel like a lot of what we try to do is mimic that in a lot of ways.
+
+**Jason Gong:** Like I think for the longest time and still today, like outside of McKinsey, people that write for the purpose of like growing a business, it's like very robotic SEO type stuff.
+
+**Jason Gong:** And my take has always been, I mean, writing just like consumes a
+
+**Jason Gong:** Resources and not everyone charges a million dollars for a six-week engagement, you know?
+
+**Jason Gong:** So like the type of content you can produce, like your budget goes towards the writing of it and to pay for a relatively  writer at that.
+
+**Jason Gong:** And a lot of what we try to do is like, you know, like once you set the strategy for what type of content you want to make, like we try to make the act of writing like zero, you know, like cost zero.
+
+**Jason Gong:** So you can put all your effort into actually like generating some useful information, you know, that's worth writing about.
+
+**Jason Gong:** Yeah, so that's why I think I'm just like so fascinated by McKinsey because like, I mean, I'm sure if you broke down budget per word, like you guys probably spend probably more than anyone, you know, for that type of writing.
+
+**David DeLallo:** The good thing is because they're doing all of these engagements and they're having to make all these decks and do all this research, you know, it's right there.
+
+**David DeLallo:** So I work for one of their competitors right now.
+
+**David DeLallo:** Um, Um,
+
+**David DeLallo:** And it's just not like that.
+
+**David DeLallo:** They, you know, you're really pulling for something, or we just commission research and do it ourselves.
+
+**David DeLallo:** Yeah, yeah, yeah.
+
+**Jason Gong:** So, like, that's also interesting, because, like, I mean, that's, like, as an inherent kind of advantage to making good content, like, that's, yeah, that's interesting.
+
+**Jason Gong:** Because, like, I mean, the people we compete against, for the most part, like, we're the most, like, white glove variant, because, like, we, I mean, people are paying us for the full service instead of a tool that they use themselves.
+
+**Jason Gong:** So, like, for the most part, we are doing the interesting work that, you know, to write about.
+
+**Jason Gong:** I guess I'm thinking about for ourselves and not for our clients.
+
+**Jason Gong:** So, like, okay, so you write about almost, like, the work a lot of times, which is cool.
+
+**Jason Gong:** And then, like, when you do a campaign to come.
+
+**Jason Gong:** How did McKinsey usually think about that?
+
+**Jason Gong:** Because again, your audience, I imagine, is pretty narrow, right?
+
+**Jason Gong:** At least if you're targeting people that could pay for your service.
+
+**Jason Gong:** How did you guys think about distributing?
+
+**David DeLallo:** Yeah, mean, it was C-suite audience.
+
+**David DeLallo:** So basically, we're just putting content where they are, right?
+
+**David DeLallo:** So we didn't do a lot of paid placements.
+
+**David DeLallo:** But if we did, it would be, you know, in like the Wall Street Journal.
+
+**David DeLallo:** Or, you know, for the other C-levels, like any of the kind of trade publications that they read, like CIO Journal or something like that.
+
+**David DeLallo:** So, yeah, it was always expensive.
+
+**David DeLallo:** But, you know, we all had a lot of contacts, too, with like Harvard Business Review and MIT.
+
+**David DeLallo:** You know, we work with all those organizations, too.
+
+**Jason Gong:** So it was...
+
+**David DeLallo:** It slightly easier than it would be, you know, if we were just reaching out to some of them.
+
+**David DeLallo:** But the campaign, you know, campaigns were heavily focused on LinkedIn.
+
+**David DeLallo:** I mean, we just stopped doing Facebook at some point.
+
+**David DeLallo:** And, you know, obviously we do Twitter or X, but like really heavily focused on LinkedIn and events, right?
+
+**David DeLallo:** We've created a lot of content that would seed events or we would have our own events where we would create the small roundtables.
+
+**David DeLallo:** And then that would require, you know, some thought provoking piece that we would give to people to start and questions, you know, to facilitate this discussions, et cetera.
+
+**Jason Gong:** Yeah, so cool.
+
+**Jason Gong:** There's so many parallels, I think.
+
+**Jason Gong:** I heard like getting so excited talking to you, like the stuff that I think we're already trying to do.
+
+**Jason Gong:** We we haven't had the like horsepower to like.
+
+**Jason Gong:** Do more of it, you know, cool.
+
+**Jason Gong:** mean, okay, anything I can tell you about what we work on?
+
+**David DeLallo:** I forgot to ask people, like, how many pods?
+
+**Jason Gong:** I know you're working in kind of pods and that I would be.
+
+**Jason Gong:** Yeah, that's a good question.
+
+**Jason Gong:** I feel like Andy would have been the right person to ask that.
+
+**Jason Gong:** But I think roughly we have, like, I mean, to be honest, we've been, like, experimenting and, like, trying to figure out the right structure to serve clients.
+
+**Jason Gong:** a little bit.
+
+**Jason Gong:** So right now, I think we have, let's see, maybe, like, eight?
+
+**Jason Gong:** Like, maybe, like, six to ten pods, somewhere in there.
+
+**Jason Gong:** actually have no idea what the exact number is.
+
+**Jason Gong:** Yeah, yeah, six to ten.
+
+**David DeLallo:** It's essentially, like, five others of what I would be doing in the same role.
+
+**Jason Gong:** Um, see, like, that, I'm.
+
+**Jason Gong:** I'm not really sure because I feel like we've, I mean, I don't think there's anyone here that looks anything like your background and what you do where, again, I feel like this was a better question for Andy.
+
+**Jason Gong:** Like I know we're trying to figure out like what the right roles are in collaboration to like serve customers because I'd like some of the challenges we've had is like, I mean, we're trying to figure out what we're doing a lot of times too.
+
+**Jason Gong:** Where, so like for our client, usually the counterpart is a marketing leader of some sort, like a CMO or a VP of marketing.
+
+**Jason Gong:** And then what we do is like pretty, it's, it's like a bet.
+
+**Jason Gong:** So, so you constantly have to like kind of communicate, justify, and, and align to like, you know, make sure people kind of understand what we're doing and are on board with it.
+
+**Jason Gong:** Cause the, the results don't come like super quickly.
+
+**Jason Gong:** And then, so it's.
+
+**Jason Gong:** Like that's one side of the challenge with the client and the other side is like, I mean, like a lot of these engagements don't look the same.
+
+**Jason Gong:** Like, I mean, it's all words and content out the other end, but like to make it, there's a lot of variability in how you set things up and control for quality and keep iterating.
+
+**Jason Gong:** And that's also been a challenge.
+
+**Jason Gong:** So like to find a pod that can do all those things has been really difficult.
+
+**Jason Gong:** So yeah, I mean, just being transparent, I guess.
+
+**Jason Gong:** mean, I think for the most part, I guess I've been generally pretty successful because like I have bits of all the things needed there.
+
+**Jason Gong:** So like for the marketing leader part, you need somebody either with experience or just somehow understands how to like always have that back and forth and to push back and to like, I guess, have trust for you to be able to say something like, hey, you know, like we should, put a bet here.
+
+**Jason Gong:** It's going to take two months.
+
+**Jason Gong:** We're going to create this sort of content.
+
+**Jason Gong:** And this is what you expect at the other end and get them to like nod their head.
+
+**Jason Gong:** And then you need somebody who like, I don't know, this weird like combination of like AI workflows and working with humans and to like kind of create this machine that's able to produce kind of like an order of magnitude more content per person than like any other agency you would work at.
+
+**Jason Gong:** So for me, like I'm very technical and I can work with engineers.
+
+**Jason Gong:** So like that's also been helpful, but like to be able to find that in a repeatable way across kind of 10 different pods has been really challenging we've found.
+
+**David DeLallo:** Yeah, I can imagine.
+
+**David DeLallo:** And that's usually the spot that I've fallen into because I do have kind of both of the content creation and also can communicate technically.
+
+**David DeLallo:** I kind of fell into it right away at McKinsey because I was, I want.
+
+**David DeLallo:** And to create an interactive, so this was like eight years ago when they were really just like big reports or, you know, small reports.
+
+**David DeLallo:** Like that was what the content was on the menu.
+
+**David DeLallo:** And I had the, I saw the opportunity to create something actually around AI and just explaining how it works.
+
+**David DeLallo:** And like back then, difference between machine learning and AI and deep learning and how about all these models that you hear about and the techniques like, you know, all these words started to swirl around and executives were like, I don't know what any of this means.
+
+**David DeLallo:** So one of the partners said, oh, we should create like a vocab guide.
+
+**David DeLallo:** And I'm like, oh, that's boring.
+
+**David DeLallo:** But if we do this in the form of an interactive and make it, you know, more interesting, like, he's like, all right, you know, that was the great thing about McKinsey.
+
+**David DeLallo:** They gave you a lot of latitude to really like try stuff out.
+
+**David DeLallo:** So I.
+
+**David DeLallo:** Started down the road and then like quickly find out, we don't even have the technical capability to build it.
+
+**David DeLallo:** We don't have the templates in our system to accommodate it if I have it built elsewhere.
+
+**David DeLallo:** So immediately was involved with the technical crews trying to figure that out.
+
+**David DeLallo:** And a lot of time I would be spending time with like the web developers or engineers and such to try to like get to get the platform like to where we needed.
+
+**David DeLallo:** And I enjoy that part of it.
+
+**David DeLallo:** I like doing both, you know, heavy content lifting and then also, you know, building stuff.
+
+**David DeLallo:** Even at my first job, which I didn't talk about in content marketing, which is at a market research firm, I helped build out like an insights benchmarking tool, which was really fun to jump into.
+
+**David DeLallo:** And then we gave it to, at the market.
+
+**David DeLallo:** Research firm, obviously, that really depends on people responding, right, to your market research, and those numbers were going down, and they were like, I don't know why, you know, the numbers are going down, and then I'm like, well, what are you giving these people in return?
+
+**David DeLallo:** And they were like, oh, we just give them the report that we make, which would not be geared to them whatsoever, right?
+
+**David DeLallo:** It was just like dumping it on their desk, and we're like, okay, we've got to do like a standard, if you're not going to pay them, we're going to do a standard content marketing program here, and start giving them back value in the form of insight.
+
+**David DeLallo:** So we did a whole bunch of different things, and one of the bigger bets we made was on this, building out this benchmarking platform.
+
+**David DeLallo:** And it's funny, because if we had the technologies that you have today, it would have been so much easier.
+
+**David DeLallo:** I remember we were working with narrative science at the time, and there was like really early days, you know, and so there was some like automated ways that they could put up.
+
+**David DeLallo:** Copy, you know, related to, like, how a benchmark would turn out, but it was very primitive.
+
+**David DeLallo:** And I always reflect on that, like, oh, if we did that now, man, that would be pretty cool.
+
+**Jason Gong:** Yeah, no, mean, like, I think the two inspirations for, like, what we're trying to build for our content is just, like, the Kinsey interactive and the, like, New York Times interactive stuff.
+
+**Jason Gong:** If you look at theirs, like, just the super kind of rich experiences.
+
+**Jason Gong:** But then at the same time, when it's, like, like, I feel like you guys in New York Times especially, there's, like, a respect for, like, words.
+
+**Jason Gong:** Or, like, you read any other blog and there's, like, all this garbage, like, everywhere.
+
+**Jason Gong:** But, like, for New York Times, it's, like, when it's words, it's words.
+
+**Jason Gong:** And when it's beneficial to have, like, a graphic or something immersive, that's, like, all you see.
+
+**Jason Gong:** You know, there's, like, a confidence in that a little bit.
+
+**Jason Gong:** So.
+
+**Jason Gong:** I mean, that's, so you started that, or like, that was like a project that you like, kind of drove?
+
+**David DeLallo:** Yeah, I mean, it was literally the first, like, interactive that they did.
+
+**David DeLallo:** I don't know if it's still functioning now, actually, I have to look it up, but it was called An Executive's Guide to AI.
+
+**David DeLallo:** Probably looks pretty good since that was eight years ago.
+
+**David DeLallo:** But I did a bunch of other ones, too, since then.
+
+**Jason Gong:** I'm looking at it right now.
+
+**Jason Gong:** Oh, okay, this one's, like, more of, like, a one slide.
+
+**Jason Gong:** Sorry, I'm just poking around at An Executive's Guide.
+
+**Jason Gong:** It's, like, almost like a clicking experience, like, it's contained within, like, a slide, almost.
+
+**Jason Gong:** Is that the one?
+
+**Jason Gong:** Yeah, it's, like, interesting.
+
+**Jason Gong:** Oh, that froze.
+
+**David DeLallo:** I'm going to see you.
+
+**David DeLallo:** You
+
+**David DeLallo:** Yeah, they may not be, like, maintaining it.
+
+**Jason Gong:** Yeah, okay, cool.
+
+**Jason Gong:** I was like, yeah, this one.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Yeah, but to answer your question, I don't think, so, like, I feel like we have a few, like, I don't know, we have, like, different flavors of people at this point, but we have, like, some who are, like, previous marketing leader type people.
+
+**Jason Gong:** We have some who are almost, like, deep, like, like, type people, and then, yeah, again, I don't know if we have anything, kind of, or anyone with your specific background, but I think it's good to know that you're technical, because I think, I mean, if we work together, I mean, a lot of what I work on, I guess, is, like, kind of trying to create repeatability, but by, like, doing it first, like, just to have...
+
+**Jason Gong:** Like hack together whatever works because again like most of my clients are like just totally not like the other ones like for example, Surge is probably the only one that looks like probably what McKinsey's clients pay them but they pay us like it's like two and a half million dollars a year essentially because we just run their marketing almost like we're their like outsourced marketing department and like their content.
+
+**Jason Gong:** I guess same level as McKinsey's of like super kind of detailed like it's not something you can write unless you did like a thousand hours of work behind it you know type stuff and it's I haven't really figured out how we facilitate that right now it's just like we make it look nice you know same as it's nice as McKinsey Interactive but like you know like right now we're kind of working on a blog and having some nice like components you know like for example they do a lot of
+
+**Jason Gong:** You have a prompt, and then you have response A and response B, and they kind of annotate what's exactly going on when the human's in there, picking, I guess, which one's better.
+
+**Jason Gong:** Yeah, so I don't if answers your question.
+
+**David DeLallo:** I'm super familiar with all of what they're doing, and just AI in general, so that would be totally up my alley.
+
+**Jason Gong:** Yeah, I mean, I feel like based on what you said, like, the part that might be more new is like, once you get into the generic, kind of, like, if you looked at the writing in a bubble, you would say this is crap.
+
+**Jason Gong:** But at the same time, like, that's what you need to do if you're trying to drive growth, you know, with the resources you have, and not having your  together.
+
+**Jason Gong:** I think that's the part where it's like, you know, I
+
+**Jason Gong:** think it'll be hard to balance where like, you know what good content looks like and how to get there, but like the client or just, mean, the reality of the business, you know, is like not somebody to invest in that.
+
+**Jason Gong:** What they want instead is a directory of 500 terms that just, you know, mimic what somebody else is doing and just executing on that well.
+
+**David DeLallo:** Yeah.
+
+**David DeLallo:** At some point though, you know, everybody's going to start using these tools, right?
+
+**David DeLallo:** And cranking out a ton of stuff.
+
+**David DeLallo:** So what's going to make it stand out?
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I guess the approach we've been doing is like, I mean, again, it depends on the client.
+
+**Jason Gong:** The client's bar is like, it has to be incredible.
+
+**Jason Gong:** Like for search, for example, they're not going to publish anything wacky.
+
+**Jason Gong:** We'll, we'll do that.
+
+**Jason Gong:** But for a lot of clients, our approach has more been like, let's publish a hundred things and then go back and like, edit, like make them better later.
+
+**Jason Gong:** And it's been relatively like, you know, successful, I guess, doing that.
+
+**Jason Gong:** Cause cause I
+
+**Jason Gong:** It takes time for your stuff to get indexed, you know, and for the LMs to pick it up.
+
+**Jason Gong:** It just gives you signal a lot faster.
+
+**David DeLallo:** Yeah, content marketing is definitely a long-term game, but, you know, stickier.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Anything else?
+
+**Jason Gong:** I'm trying to think.
+
+**Jason Gong:** I mean, what are you interested in working on, I guess?
+
+**Jason Gong:** Like, was there anything specific about working here that was exciting?
+
+**David DeLallo:** Yeah, I mean, just the balance of, like, helping to build your engine to do more as you're doing the work.
+
+**David DeLallo:** I mean, I just have an idea of that workflow.
+
+**David DeLallo:** mean, I'm kind of doing it in a very rough way, you know, as I'm using, you know, ChatGPT and Claude and MidJourney and all of that.
+
+**David DeLallo:** But to try to do it, like, in a systematic way and create, you know, an actual, like, SaaS offering off of it, you know, was intriguing.
+
+**David DeLallo:** Thank you.
+
+**Jason Gong:** Yeah, we're getting closer to that.
+
+**Jason Gong:** So it's still, I mean, even internally, that's what we do.
+
+**Jason Gong:** Like, you start in Claude and Deep Research, ChatGPT, and, like, once it looks kind of repeatable, then, like, you do the workflow.
+
+**David DeLallo:** I've been finding lately that, and everyone tells me, you know, Claude is better for writing.
+
+**David DeLallo:** Claude is better for writing.
+
+**David DeLallo:** But maybe it's just how I've tuned ChatGPT, because that's what I'm doing all the time.
+
+**Jason Gong:** I do, I think Claude kind of sucks.
+
+**Jason Gong:** Like, Claude, like, it degrades, like, really fast.
+
+**David DeLallo:** Yeah, and it doesn't do well when I'm iterating with it with the, I forget what they call it, artifact.
+
+**David DeLallo:** Yeah, canvas is what.
+
+**Jason Gong:** Yeah, yeah, agreed.
+
+**David DeLallo:** Iterations with that are, with, like, yeah,
+
+**David DeLallo:** Canvas and ChatGPT, to me, are much, they advance much faster, and it's, like, taking into account, like, all the things.
+
+**David DeLallo:** Again, this may be the way that I'm prompting, but I don't think so, because I'm trying to do it in ChatGPT, in Cloud2, where I'll do the same kind of prompting.
+
+**David DeLallo:** It just, it seems like it needs something different to make it work, like, more effort with Cloud.
+
+**Jason Gong:** Yeah, I feel the same.
+
+**Jason Gong:** I think it's just, I think people just use Cloud projects, because that experience is a little bit better, but, yeah, I think I use ChatGPT almost, most of the time.
+
+**Jason Gong:** Like, the deep research is, like, way better.
+
+**Jason Gong:** I don't even think I've used Cloud deep research more than, like, two, three times.
+
+**David DeLallo:** I think I tested it once.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** I mean, I think if there's anything else.
+
+**David DeLallo:** Where is your office?
+
+**Jason Gong:** it?
+
+**Jason Gong:** Say that again?
+
+**David DeLallo:** Who's the office that you...
+
+**Jason Gong:** the office?
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** San Francisco.
+
+**Jason Gong:** We're in South Park.
+
+**Jason Gong:** If you've been on second, across from this blue bottle.
+
+**Jason Gong:** If you walk to the end of the street, it's the baseball stadium.
+
+**David DeLallo:** Oh, okay.
+
+**Jason Gong:** Yeah, super convenient.
+
+**Jason Gong:** We try to do a lot of events.
+
+**Jason Gong:** We do a lot of, like, video.
+
+**Jason Gong:** If you've seen any of it on YouTube, like, that's something we're investing in a lot.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I would say, like, most days, there's probably, like, three or four people in the office, but it's a really big, big office.
+
+**Jason Gong:** That's cool.
+
+**David DeLallo:** I would like to spend more time with people, given my 10 years working at home.
+
+**David DeLallo:** So, happy to travel out there.
+
+**Jason Gong:** Yeah, I mean, there's so much to do out here.
+
+**Jason Gong:** I think that's fine.
+
+**David DeLallo:** I didn't have my family here.
+
+**David DeLallo:** I'd be out there.
+
+**David DeLallo:** I really like Denver.
+
+**David DeLallo:** I could see myself living there.
+
+**David DeLallo:** I know it's not fully west coast, but way more west than I am now.
+
+**David DeLallo:** And I enjoy San Francisco area as well.
+
+**David DeLallo:** Just as long as my mom is here, I'm probably, and my girlfriend's mom, at least part time here.
+
+**Jason Gong:** Yeah, I mean, if you got where you're at now in Florida, that seems hard to beat, honestly.
+
+**Jason Gong:** I don't know.
+
+**Jason Gong:** But it's good.
+
+**Jason Gong:** I think it's like, I thought about moving away for a while, like, because I'm not from here.
+
+**Jason Gong:** Like, we lived in LA a couple years during, like, when COVID happened and thought about moving back to LA.
+
+**Jason Gong:** But I think, I guess for the work type stuff, it's kind of hard to beat, you know, just like bumping into people working on things.
+
+**Jason Gong:** Culture here for working.
+
+**Jason Gong:** It's like very low ego for the most part.
+
+**Jason Gong:** And I really enjoy it.
+
+**David DeLallo:** Yeah.
+
+**David DeLallo:** What are the things that kind of are lighting you up right now and what are the things that are keeping you up?
+
+**Jason Gong:** Oh, for growthx?
+
+**Jason Gong:** I mean, like, we need to get our delivery together.
+
+**Jason Gong:** Like, honestly, like, I think we built a pretty good machine.
+
+**Jason Gong:** And reputation, I mean, there's a lot more work to be done, like, getting more clients.
+
+**Jason Gong:** Like, that's generally not the problem.
+
+**Jason Gong:** think the problem is just, like, doing a good job delivering.
+
+**Jason Gong:** Like, there's kind of too much variability in our delivery.
+
+**Jason Gong:** And I think it's fixed through, I guess, just figuring out, like, what pods should even be a little bit.
+
+**Jason Gong:** And also through, like, there's a lot of things that should just be encoded in workflows that we just either haven't had the bandwidth to do or we haven't figured out how to figure
+
+**Jason Gong:** Yeah, that's probably the one that keeps me up the most.
+
+**Jason Gong:** And then maybe there's some looming, like, is everything just a temporary thing before the models just get smarter and, like, you know, it's unnecessary.
+
+**Jason Gong:** But, like, I think of all the companies that I've seen, like, we're probably the best position just because we've decided to, like, wrap the people.
+
+**Jason Gong:** And I don't think that ever goes away.
+
+**Jason Gong:** So, like, when the models get better, think we benefit a lot more than, like, other people, you know.
+
+**Jason Gong:** Like, other people can get replaced, but until the, like, relationship building and, like, you know, the people part gets replaced, like, I think what we're really doing is, like, I don't even know.
+
+**Jason Gong:** I mean, we're providing a service and then the act of providing the service is, like, you're coordinating just, like, people where, like, AI is also a person, you know.
+
+**Jason Gong:** And, like, we're just getting really, really good at that.
+
+**Jason Gong:** And.
+
+**Jason Gong:** Eventually, when there's no more people, it's still fine.
+
+**Jason Gong:** Like, that's still, you know, what we're doing is still incredibly valuable, I guess.
+
+**Jason Gong:** Yeah, so as I said, I think about that sometimes, but that one feels a little bit, like, by the time we get killed by that, I feel like so many products will get completely demolished.
+
+**Jason Gong:** So it's kind of a problem for later.
+
+**David DeLallo:** Yeah, well, you'll still, like you said, have some people.
+
+**Jason Gong:** just, I think so many people just like dealing with other people.
+
+**Jason Gong:** But there are, I mean, like, everything is shifting.
+
+**Jason Gong:** It is kind of scary and exciting.
+
+**Jason Gong:** It's like, I mean, search is still around, you know, but like, in a year, I don't even know what that looks like.
+
+**Jason Gong:** I mean, I guess at a fundamental level, like, you sell a product, and you need to, like, tell people about it and solve their problems, you know.
+
+**Jason Gong:** So, like, that should never go away.
+
+**Jason Gong:** And if that holds true, I think what we're doing is valuable.
+
+**Jason Gong:** Because, again, think, like, I mean.
+
+**Jason Gong:** Like, what is marketing anyway, right?
+
+**Jason Gong:** Like, I feel like if the act of writing words is just, like, consuming all your bandwidth, you never have time to, like, provide value.
+
+**Jason Gong:** So if writing becomes effortless, then everyone just spends their time figuring out how to give their customer something valuable.
+
+**David DeLallo:** Yeah, I'm wondering, like, I feel like there's some big platform innovation on the horizon.
+
+**David DeLallo:** Because when you think about it, okay, so the, where is kind of, like, the relationship building happening outside of this?
+
+**David DeLallo:** It's on social media.
+
+**David DeLallo:** But it's already, like, super fragmented.
+
+**David DeLallo:** And, you know, there's just so many people out there.
+
+**David DeLallo:** Like, what is, I feel like there's some innovation to come that's going to, like, I don't know, bring the human forward more, create more, like, signal in the noise.
+
+**Jason Gong:** I just don't know what it is yet.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah, I do agree with that.
+
+**Jason Gong:** mean, like, this isn't, like, super far ahead, but, like, I feel like what we're trying to build is, like, I mean, you have your CMS, I guess, but, like, CMS is, like, kind of just a database, but, like, how we think about it is your kind of online presence in terms of your content should just be more, like, captured in one thing where, like, you're iterating that forward and you're tracking signals around it.
+
+**Jason Gong:** You know, it's, like, it's, like, almost your presence in, like, a little, like, contained within a product and then that product lets you kind of iterate, build, and measure, like, what's happening with that presence.
+
+**Jason Gong:** I feel like for the near-term future, like, that's something we're trying to do, you know?
+
+**Jason Gong:** And then to your point of, like, yeah, how do you bring the person forward?
+
+**Jason Gong:** I don't know.
+
+**Jason Gong:** I mean, I guess your digital clone is, like, online, right?
+
+**Jason Gong:** And it's, like, but it's kind of...
+
+**Jason Gong:** All over the place, but maybe that kind of centralizes at some point and you have more control over it instead of, I feel like what you're doing is you're just sprinkling bits of yourself like everywhere and you like, it just kind of lives out there, right?
+
+**Jason Gong:** But maybe you get more control of it at some point.
+
+**Jason Gong:** I don't know.
+
+**Jason Gong:** Anyway, shoot me an email if you have any other questions.
+
+**Jason Gong:** I gotta hop for another call, but yeah, it was great.
+
+**Jason Gong:** Talking to you, feel like your experience is super interesting.
+
+**Jason Gong:** Like if you did join, I would really love to work with you on like our own marketing, just as much as the client stuff.
+
+**Jason Gong:** So I think a lot of it, I do want to model after like what McKinsey does well anyway.
+
+**Jason Gong:** So yeah, I mean, appreciate your time.
+
+**David DeLallo:** Yeah, same.
+
+**Jason Gong:** Good meeting you.
+
+**Jason Gong:** All right, David, we'll chat.
+
+**Jason Gong:** See you later.

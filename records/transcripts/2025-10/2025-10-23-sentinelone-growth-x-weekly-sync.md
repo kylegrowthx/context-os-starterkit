@@ -1,0 +1,779 @@
+# SentinelOne <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-10-23
+time: 14:01 UTC
+duration: 28 minutes
+organizer: team@growthxlabs.com
+participants: Aida Knezevic (GrowthX), Katya Luscomb (GrowthX), Ankit Pahuja (SentinelOne), Mansi Bhalothia (SentinelOne), Mahati Rapol (SentinelOne)
+fathom_recording_id: 96274519
+fathom_url: https://fathom.video/calls/449547994
+share_url: https://fathom.video/share/tLaedPxgie989Sz2RGArMJ3TDZqn85gT
+source: fathom
+enriched_on: 2026-03-02 20:08 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and SentinelOne aligned on imminent CVE database launch: 808 pages publishing over two weeks starting next Monday, with 30-50 pages published daily by SentinelOne in ContentStack. Katya unveiled a new Content OS Airtable view streamlining reviews and visibility across SentinelOne's editorial workflow. SentinelOne's AI visibility surged 91% over 12 weeks with exceptional 12% citation rate (vs. 3-5% industry average), demonstrating strong LLM positioning; team discussed plans for Atlas-to-ContentStack automation and multi-language localization support.
+
+---
+
+## Context
+
+SentinelOne is a cybersecurity platform company engaged with GrowthX on a comprehensive content and AI visibility strategy. The engagement centers on positioning SentinelOne as a trusted resource in LLM responses through high-quality, answer-rich content. GrowthX previously launched "Cybersecurity 101" foundational content and is now executing a major CVE (Common Vulnerabilities and Exposures) database publication—a strategic asset to capture long-tail vulnerability-related searches and drive LLM citations. Marcus Derencius leads engineering on GrowthX's side; Aida Knezevic manages the SentinelOne account with delivery oversight; Katya Luscomb handles content operations and tooling. The team has been coordinating with SentinelOne's product and marketing leadership (Ankit Pahuja, Mahati Rapol, Mansi Bhalothia) to align on timelines, workflows, and measurement. This sync marks the convergence of technical unblocking (GitHub and ContentStack API access) and operational readiness for the largest content launch to date.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- CVE launch workflow refinement: Manual publishing of 30-50 pages daily over two weeks is a template for similar scale projects; future state is Atlas-to-ContentStack automation to reduce SentinelOne's operational burden.
+- Content OS tooling maturing: Airtable view addresses the systematic need for streamlined editorial workflows across multi-stakeholder reviews; potential blueprint for future accounts.
+- Multi-language localization: SentinelOne requesting support for 7-language content distribution; requires coordination between ContentStack workflows and translation pipeline.
+
+**To CheckThat / AI Visibility:**
+- SentinelOne's 12% citation rate (vs. 3-5% industry baseline) validates GrowthX's content strategy; demonstrates that deep, domain-focused coverage drives LLM trust and answer-richness.
+- 91% visibility growth over 12 weeks across 235 tracked prompts; ChatGPT is top LLM referrer with 58% engagement rate, indicating strong product-market fit for content approach.
+- New Scrunch dashboard tracking competitive presence; Profound competitive tool identified as parallel—SentinelOne wants to align Scrunch prompts (235) with internal Profound tracking (200+) for comprehensive AEO visibility.
+
+**To GrowthX Business Development:**
+- SentinelOne account health strong: Expanding scope beyond CVEs to continuous production workflow and localization; renewal confidence high based on visibility results.
+- Automation request (Atlas→ContentStack) signals readiness for more sophisticated, hands-off delivery model—opportunity to position CheckThat insights and AEO services as next-phase value drivers.
+- Reference potential: SentinelOne's 12% citation rate is a compelling case study for prospects evaluating LLM-driven visibility strategies.
+
+---
+
+## Overview
+
+- **CVE Launch Imminent:** The project is unblocked with ContentStack access; a demo tomorrow will finalize the 808-page launch plan.
+- **New Content OS Live:** A new Airtable view streamlines SentinelOne reviews, providing clear status updates and feedback channels.
+- **Strong AI Performance:** S1's visibility grew 91% in 12 weeks, with a 12% citation rate (vs. 3–5% competitor average) and a high 58% engagement rate from LLM traffic.
+- **Automated Workflow Proposed:** SentinelOne requested an automated push from GrowthX's Atlas platform to ContentStack to streamline publishing and enable localization.
+
+---
+
+## Key Topics
+
+### CVE Project Launch
+
+  - **Status:** Unblocked. GrowthX now has GitHub and ContentStack management token access.
+  - **Launch Plan:**
+      - **Phase 1:** Publish 808 CVE pages over two weeks.
+      - **Cadence:** 30–50 pages published manually by SentinelOne daily.
+      - **Rationale:** Pages were selected for recency and high search volume.
+  - **Continuous Production:**
+      - **Workflow:** GrowthX will use the Atlas platform to push new CVEs as drafts to ContentStack.
+      - **Future Cadence:** GrowthX will propose a plan for ongoing publishing, balancing speed with site indexing.
+
+### Content Workflow & OS
+
+  - **New Airtable View:** A new "Content OS" view is live to streamline SentinelOne's review process.
+  - **Key Tabs:**
+      - **Topic Spending Approval:** Update status and add feedback directly.
+      - **Articles for SentinelOne Review:** Track articles with GrowthX; add revision notes.
+      - **CVE Pages by Status:** View launch pages ("In Progress") and the full database ("Backlog").
+  - **Action:** SentinelOne will review \~30 assignments lacking status updates.
+
+### AI Performance & Tracking
+
+  - **Scrunch (Competitive Analysis):**
+      - **Visibility:** +91% over 12 weeks for 235 tracked prompts.
+      - **Citations:** +17% over 12 weeks, reaching 12% of responses.
+          - **Significance:** This high rate (vs. a 3–5% competitor average) indicates S1 is a trusted, "answer-rich" resource for LLMs.
+  - **Looker (On-Site Engagement):**
+      - **Traffic:** ChatGPT is the top LLM referrer.
+      - **Engagement Rate:** 58% of LLM users are "engaged" (spent \>10s, scrolled, or clicked).
+      - **Top Pages:** Homepage, Cybersecurity 101 articles, and platform pages.
+  - **Action:** SentinelOne requested a list of Scrunch's 235 prompts to align with their internal Profound tool.
+
+---
+
+## Action Items
+
+**Aida Knezevic (GrowthX)**
+- Review Ankit's comments on CVE release doc; update approvals/dates after Marcus demo
+- Send Scrunch PDF export + prompt list to Mahati/Ankit
+- Confirm w/ Marcus CVE ingest + 30-50/day cadence; then coordinate 808 CVEs in 2 weeks
+- Draft CVE production cadence (prioritization, indexing, new-CVE alerts) for next sync
+- Email Marcus re: Atlas→ContentStack auto-draft for articles + CVEs; then enable localization
+
+**Ankit Pahuja (SentinelOne)**
+- Mark rejected assignments in Topic Spending Approval; archive
+
+**Katya Luscomb (GrowthX)**
+- Build 1-2 week content plan view in Content OS
+- Draft CVE production cadence (prioritization, indexing, new-CVE alerts) for next sync
+
+---
+
+## Transcript
+**Aida Knezevic:** This meeting is being recorded.
+
+**Aida Knezevic:** Okay, great.
+
+**Aida Knezevic:** So I think we can get started with the CVE updates and then Katya can share the content updates for Cybersecurity 101.
+
+**Aida Knezevic:** So the update is that we have now access to GitHub.
+
+**Aida Knezevic:** We also have the management token for ContentStack.
+
+**Aida Knezevic:** I think we were given that yesterday.
+
+**Aida Knezevic:** Marcus was going to join this call, but he's on a flight right now, so he couldn't make it.
+
+**Aida Knezevic:** But my understanding is that you're meeting him tomorrow to do just a presentation of the work that they've done so far.
+
+**Aida Knezevic:** Right now, they're updating the publishing workflow, and then they will update the demo website.
+
+**Aida Knezevic:** And George Main is also updating the filter UI on like.
+
+**Aida Knezevic:** The demo site to make sure that everything's ready for launch.
+
+**Aida Knezevic:** And we have already generated CVEs in Atlas, so those should be good to go as soon as the developers, like Marcus and team, they're ready setting up the database.
+
+**Ankit Pahuja:** Sounds good.
+
+**Ankit Pahuja:** Yeah, I'm really excited for tomorrow to actually see what we have.
+
+**Ankit Pahuja:** And both, how far are we and how soon we can go live.
+
+**Ankit Pahuja:** So that's good to see.
+
+**Aida Knezevic:** Yeah, same here.
+
+**Aida Knezevic:** It's been a long time coming, so I'm just really happy to kind of push this over the finish line.
+
+**Ankit Pahuja:** Absolutely.
+
+**Ankit Pahuja:** Yep.
+
+**Ankit Pahuja:** I made some comments on the release document here put together.
+
+**Ankit Pahuja:** Oh, okay.
+
+**Ankit Pahuja:** I've added a few folks from our end and then some approval.
+
+**Ankit Pahuja:** And some comments for you to look at.
+
+**Ankit Pahuja:** Possibly you could just go through those.
+
+**Ankit Pahuja:** And I think after our meeting with Marcus tomorrow, after the demo, we could also put in dates and timelines.
+
+**Aida Knezevic:** Yes, yes, that works.
+
+**Aida Knezevic:** I think that, yeah, that meeting is going to get recorded, so I'll have access to it regardless.
+
+**Aida Knezevic:** But I'll go through the release plan and update it accordingly.
+
+**Aida Knezevic:** Yeah, the most important thing is that they have access to content stack.
+
+**Aida Knezevic:** They can push everything live.
+
+**Aida Knezevic:** So, yeah, some of this stuff is a little too technical for me to grasp, but for me, I was being very annoying internally, just like asking them for updates every day.
+
+**Aida Knezevic:** Like, okay, what's happening now?
+
+**Aida Knezevic:** What's happening now?
+
+**Aida Knezevic:** Because I'm like, it's hard to understand, like, what are the next steps when you're not a developer?
+
+**Aida Knezevic:** You think, oh.
+
+**Aida Knezevic:** Are we ready to push things live now?
+
+**Aida Knezevic:** And they're like, no, we need still like the management token.
+
+**Aida Knezevic:** We're waiting for this.
+
+**Aida Knezevic:** So it's been kind of like back and forth internally, just making sure that everybody has like the information they need and that they're communicating with the right people to move things along.
+
+**Ankit Pahuja:** But I think we're in a good place now.
+
+**Ankit Pahuja:** Like I said, moving forward.
+
+**Aida Knezevic:** Yeah, cool.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** And then, Katya, want to do the content updates?
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** And actually, I'm going to share my screen.
+
+**Katya Luscomb:** The first thing on the agenda was a new content OS view.
+
+**Katya Luscomb:** It was actually a handful that I've created.
+
+**Katya Luscomb:** Let's see.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** And then I will also share the link to this in the chat just for easy access.
+
+**Katya Luscomb:** There we go.
+
+**Katya Luscomb:** So what we've got going here is essentially just a different view of some of the other information that we have. But it should provide easier access to provide comments and update statuses.
+
+**Katya Luscomb:** So you all should be able to change a lot of these drop-down columns.
+
+**Katya Luscomb:** So when it comes to reviewing assignments, instead of having to go in manually and add an individual comment, you can just update this status here and then add some feedback in here as well.
+
+**Katya Luscomb:** So I just wanted to share this, hopefully, to help streamline your process and for our visibility as well.
+
+**Katya Luscomb:** And I can answer any questions about this specific tab.
+
+**Katya Luscomb:** And there's a couple others that I wanted to go through.
+
+**Katya Luscomb:** But before I jump to these other tabs, were there any questions about this piece here?
+
+**Katya Luscomb:** Cool.
+
+**Katya Luscomb:** And this also relates to another point I had on the agenda, that we do have about 30 assignments that I hadn't seen comments on for either approval or rejection.
+
+**Katya Luscomb:** And so I wanted to make sure that those hadn't actually been reviewed.
+
+**Katya Luscomb:** If they have and they're rejected, I can archive them.
+
+**Katya Luscomb:** But
+
+**Katya Luscomb:** Otherwise, I wanted to make sure that they're still up so that there's visibility for them.
+
+**Katya Luscomb:** And hopefully we can get some more assignments approved for the next couple of weeks as well.
+
+**Ankit Pahuja:** We can go ahead and mark the rejected methods.
+
+**Katya Luscomb:** Okay, great.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** Then there's a couple other views here as well that I have organized just to sort of see our process as we're moving articles through our pipeline.
+
+**Katya Luscomb:** So this one, there's just a broad overview of where all of our different content is at.
+
+**Katya Luscomb:** Pretty minimal.
+
+**Katya Luscomb:** If there's more information that you all want added to these views that were in the original Airtable view, I can also add that in.
+
+**Katya Luscomb:** I just wanted to keep it streamlined for easy at a glance perspectives.
+
+**Katya Luscomb:** And then here we've got the articles that are specifically with us here at GrowthX, either that I'm doing an initial review before I pass it along, or they've come back to us for revision.
+
+**Katya Luscomb:** And you can see I also added a column where the specific...
+
+**Katya Luscomb:** Bits of feedback that we've gotten, these are from the chat this week that I just added in here for visibility, and it'll also help us streamline our process so we can automate some of these edits from this chart.
+
+**Katya Luscomb:** And you can add those edits in this SentinelOne review view here, and update a status.
+
+**Katya Luscomb:** So if you want us to take an article back, you can pick that if it's going to PMM or onto publication, and this will help me also be able to track down URLs to add them into our Looker quickly for all of our tracking.
+
+**Katya Luscomb:** And in here, you can add any specific revisions, or adding them in the article as well.
+
+**Katya Luscomb:** Those are both really easy for us to pull and incorporate in, so whatever's easier for you guys there.
+
+**Katya Luscomb:** And then just a general overview of published content.
+
+**Katya Luscomb:** And I also added a view of the CDE pages based on Backlogger, just all of the content that we don't have in our pipeline yet.
+
+**Katya Luscomb:** And then there's everything that we've got in progress, and there will also be another view for...
+
+**Katya Luscomb:** When they're completed and published as well in here.
+
+**Katya Luscomb:** I moved kind of fast.
+
+**Ankit Pahuja:** Any questions about any of that?
+
+**Ankit Pahuja:** Yeah.
+
+**Ankit Pahuja:** think only changes we, or rather only edits we need to make is inside of Topic Spending Approval tab and articles for SentinelOne Review.
+
+**Katya Luscomb:** Yes, exactly.
+
+**Katya Luscomb:** And there's limited access so that, like, anything that we need to make sure stays consistent on our end for, like, our internal tracking, you guys shouldn't be able to edit.
+
+**Katya Luscomb:** So it should be fairly straightforward.
+
+**Katya Luscomb:** If there's, you know, if you can make a change, it's totally okay to make those adjustments.
+
+**Ankit Pahuja:** Okay, got it.
+
+**Ankit Pahuja:** Yeah, I just wanted to make sure that we don't mess up anything in here.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** Yeah, yeah, no worries.
+
+**Katya Luscomb:** And if have any questions, I'm happy to answer over Slack at any point as well.
+
+**Ankit Pahuja:** Okay.
+
+**Ankit Pahuja:** And anything inside of CVE pages by status?
+
+**Ankit Pahuja:** This, so backlog has the entire database and all.
+
+**Ankit Pahuja:** that we will be launching with phase one sits in progress.
+
+**Katya Luscomb:** Yes.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** So this is everything.
+
+**Katya Luscomb:** I pulled all of this data from the database that you had prepared as well.
+
+**Katya Luscomb:** So it should all be aligned.
+
+**Katya Luscomb:** And then these are the page.
+
+**Katya Luscomb:** Whoops.
+
+**Katya Luscomb:** I don't know why I'm scrolling.
+
+**Katya Luscomb:** There we go.
+
+**Katya Luscomb:** And then these are the original 500 that we had prepared based on the recency and the search volume.
+
+**Katya Luscomb:** And we can add more to this as well.
+
+**Katya Luscomb:** So if you want to buff that up to 800, I can, you know, expand the search volume as well.
+
+**Ankit Pahuja:** All right.
+
+**Ankit Pahuja:** Yeah.
+
+**Ankit Pahuja:** No, that's fine.
+
+**Ankit Pahuja:** I think let's prep up for phase one first.
+
+**Ankit Pahuja:** And then I think we could start to think about the next steps and the next plan for next set of publishing for database.
+
+**Ankit Pahuja:** So will it be ongoing?
+
+**Ankit Pahuja:** What frequency, I mean, for sure it would be ongoing, but what frequency do we set?
+
+**Ankit Pahuja:** Should it be daily?
+
+**Ankit Pahuja:** While we complete the database that we have, or do we complete the database at all that we have, and what will be the workflow for new CVEs that get discovered week on week, month on month?
+
+**Katya Luscomb:** I believe that we can pull new CVE IDs from GitHub.
+
+**Katya Luscomb:** That's something that we can look at automating so that it's just added into our system here.
+
+**Katya Luscomb:** And then I can do a little bit of math, if you'd like, as far as calculating, you know, how long it would take us to get through.
+
+**Katya Luscomb:** It was like 9,000, so we potentially churn out quite a few.
+
+**Katya Luscomb:** Also keeping in mind indexing so that we're not just flooding your site as well.
+
+**Ankit Pahuja:** Sounds good, yeah.
+
+**Ankit Pahuja:** I think next time when we meet, we could probably discuss that area.
+
+**Katya Luscomb:** Totally.
+
+**Ankit Pahuja:** All right.
+
+**Aida Knezevic:** Okay.
+
+**Katya Luscomb:** Go ahead.
+
+**Aida Knezevic:** Yeah, just on the publish.
+
+**Aida Knezevic:** Content side, I think you all published 10 blogs this week?
+
+**Mansi Bhalothia:** That's correct.
+
+**Mansi Bhalothia:** We published 10 blogs and we are about to publish 3.
+
+**Aida Knezevic:** Okay, perfect.
+
+**Aida Knezevic:** Thank you.
+
+**Ankit Pahuja:** I just wanted to make sure that this view can be accessed by myself, Mahansi, and Mahindra from the team.
+
+**Katya Luscomb:** Yes, I was testing because I can see how other folks would view it, and you should be able to have viewing and editing.
+
+**Katya Luscomb:** If you don't for some reason, please let me know, and I will do some digging into making sure that access is there.
+
+**Ankit Pahuja:** Okay.
+
+**Katya Luscomb:** Any other questions about this?
+
+**Ankit Pahuja:** I think this looks good.
+
+**Ankit Pahuja:** We'll also have visibility across the flow, so I'm glad we have this now.
+
+**Katya Luscomb:** Thank you.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** Yeah, no worries.
+
+**Katya Luscomb:** Something else in my mind that I want to build in as well.
+
+**Katya Luscomb:** is a look at content that we have planned, both for the future week and for the next two weeks, et cetera, so that we can see a longer content schedule.
+
+**Katya Luscomb:** So that's something that I'll be building in probably next week.
+
+**Katya Luscomb:** As for this week, we've got these five articles that I'm reviewing right now and should be over to you by the end of the week, and then the four that came back to us with some revisions that will also be done by Friday.
+
+**Ankit Pahuja:** All right.
+
+**Ankit Pahuja:** Sounds good.
+
+**Aida Knezevic:** Perfect.
+
+**Aida Knezevic:** Okay, so if you don't have any other content updates, Katya, can do a quick kind of walkthrough of your Scrunch dashboard and show you what the latest data is there.
+
+**Aida Knezevic:** So let me share my screen.
+
+**Aida Knezevic:** So yeah, this is, okay, so Scrunch is updated.
+
+**Aida Knezevic:** If you remember, like, when I was sharing these updates a few weeks ago, the dashboard looked a little bit different.
+
+**Aida Knezevic:** Um, so
+
+**Aida Knezevic:** And now they've kind of updated it.
+
+**Aida Knezevic:** So they have like a chart here that breaks down competitive presence.
+
+**Aida Knezevic:** The good news is that your overall visibility over the last 12 weeks for the prompts, like for the 235 prompts that we have been tracking, has grown by 91%.
+
+**Aida Knezevic:** The sentiment has overall stayed the same, but the amount of citations has grown by 17% as well over the last 12 weeks.
+
+**Aida Knezevic:** So now your website is being cited more often than your competitors.
+
+**Aida Knezevic:** And this is actually quite high.
+
+**Aida Knezevic:** So 12%, what I'm usually seeing with other clients, even those in the security and cybersecurity space, is a citation range of about like between 3% to 5%.
+
+**Aida Knezevic:** So the fact that you're being cited, like 12% of the time, it's pretty good.
+
+
+**Aida Knezevic:** Pretty good.
+
+**Aida Knezevic:** It means that your site has high quality content, and obviously your high domain authority, and like the topical coverage that you have, it enables you to be cited in this, like in this manner.
+
+**Aida Knezevic:** And also, LLMs, especially ChatGPT, they now favor websites that are answer-rich, so they will default to pulling answers from websites like Wikipedia because they associate them with long-form educational content.
+
+**Aida Knezevic:** And the fact that your citations are so high, it also means that your website is considered kind of an answer-rich resource, even though it is like a brand website.
+
+**Aida Knezevic:** And yet, you're leading sort of like, you have the highest visibility out of all the competitors that we're tracking.
+
+**Aida Knezevic:** To go into prompts.
+
+**Aida Knezevic:** We can kind of see how your presence has grown for different topics, so overall it's been overwhelmingly positive.
+
+**Aida Knezevic:** For example, in AI-driven cybersecurity solutions, the visibility has grown by 5% over the last 12 weeks, while citations have grown 15%.
+
+**Aida Knezevic:** And I remember when we first started working together that visibility around AI and cybersecurity was a little bit of an issue, so we've been able to gain some ground there.
+
+**Mahati Rapol:** I had a quick question, Aida.
+
+**Mahati Rapol:** So, I mean, the citation data is really great.
+
+**Mahati Rapol:** Can we double-click into it?
+
+**Mahati Rapol:** Again, this is me trying to understand different tools work.
+
+**Mahati Rapol:** So, if we know that we are cited like a thousand times, let's say, okay, do we know if the click-through happens?
+
+**Mahati Rapol:** Because the way I understand the citations is impressions, right?
+
+**Mahati Rapol:** Just a quick comparison.
+
+**Mahati Rapol:** And then what happens after that?
+
+**Mahati Rapol:** Like we were cited, but did a click-through happen for that person to come to our site?
+
+**Mahati Rapol:** Like do we get that data or how do we get that data?
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** So that is, we use Looker to track this data because Scrunch just has access to the prompt responses that LLMs provide and it analyzes them.
+
+**Aida Knezevic:** If you want to see the actual like click-through data, you can go to your Looker dashboard and I'm going to send the link in chat.
+
+**Aida Knezevic:** And then you go to LLMs.
+
+**Aida Knezevic:** Okay, let's just wait a minute for it to load.
+
+**Aida Knezevic:** This page, it pulls data from Google Analytics.
+
+**Aida Knezevic:** Because Google Analytics 4 can actually measure which sources are sending traffic to your site.
+
+**Aida Knezevic:** So, for example, the top refer among LLMs, obviously, is ChatGPT, followed by Perplexity, and Google Gemini.
+
+**Aida Knezevic:** Note that this is data for the entire year.
+
+**Aida Knezevic:** You can change.
+
+**Aida Knezevic:** You should be able to have access via your company email, and you can change the date range here.
+
+**Aida Knezevic:** So, this is kind of a breakdown of your LLM traffic over the entire year.
+
+**Aida Knezevic:** And then if you scroll down, what's interesting here is that you can see the engagement rate of different referral sources.
+
+**Aida Knezevic:** The engagement rate refers to the number of users who spent more than 10 seconds on your site or scrolled on a page or clicked on a link on your website.
+
+**Aida Knezevic:** So, they count as an engaged user.
+
+**Aida Knezevic:** And an engagement rate of 58% is actually quite high.
+
+**Aida Knezevic:** Some of...
+
+**Aida Knezevic:** Them are, you know, getting even higher, but this is actually really, really good because it means that, you know, they're actually staying on the website.
+
+**Aida Knezevic:** And then you can actually scroll down and see all of the landing pages that are getting traffic from different LLMs.
+
+**Aida Knezevic:** So your homepage is at the top.
+
+**Aida Knezevic:** The not set dimension is unfortunately something that plagues a lot of websites in Google Analytics 4.
+
+**Aida Knezevic:** It means that the Google Analytics tag was unable to track a specific session for, it could be for multiple reasons.
+
+**Aida Knezevic:** Most of the time, it's maybe a cookie blocker.
+
+**Aida Knezevic:** They're using like a web browser that limits tracking.
+
+**Aida Knezevic:** So it wasn't like, it wasn't able to measure where the user landed on your site.
+
+**Aida Knezevic:** But your homepage is getting most of the referral traffic followed by a lot of cybersecurity one-on-one articles. You also have like platform packages, your frequently asked questions page, so you can kind of get dive into the data here.
+
+**Aida Knezevic:** I think I showed a breakdown of this to Ankit last week.
+
+**Aida Knezevic:** So, yeah, we were kind of happy to see that a lot of the cybersecurity one-on-one content is getting a lot of impressions here.
+
+**Aida Knezevic:** I mean, clicks.
+
+**Aida Knezevic:** So, this data in combination with the Scrunch data can give you a kind of a better picture of your overall AI visibility because GA4, it can only give you information about your own website.
+
+**Aida Knezevic:** It can give you insight about your competitors, but Scrunch can do that.
+
+**Aida Knezevic:** So, it's kind of complementary in that sense.
+
+**Mahati Rapol:** Okay.
+
+**Mahati Rapol:** Can we, like, does, do we have a non-login accessible report for Scrunch or is it what you share?
+
+**Aida Knezevic:** So, I can give...
+
+**Aida Knezevic:** If you, I can export this as a PDF and send it to you, yeah.
+
+**Mahati Rapol:** Oh, okay.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Ankit Pahuja:** So while you do that, can you also share a list of prompts?
+
+**Ankit Pahuja:** Because, so we make use of Profound, another tool, Neo tool that we have.
+
+**Ankit Pahuja:** So we also have some 200 plus prompts in there.
+
+**Ankit Pahuja:** I'd like to match those and make sure that we have similar prompts that we have on scrums and maybe we add on top of your list.
+
+**Ankit Pahuja:** Yeah.
+
+**Ankit Pahuja:** So that we get more like comprehensive visibility for the prompts that really matter to us as well.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** Profound is a scrunch competitor.
+
+**Aida Knezevic:** I think we were also evaluating it when we were trying to figure out which platform we wanted to use, but there were some technical reasons why we decided to pick scrunch.
+
+**Ankit Pahuja:** All right.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** I'm just exporting the data right now to send.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** It over as quickly as possible.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Any other, yeah, we also uploaded, let me share my screen again.
+
+**Aida Knezevic:** So the 10 blogs that were published this week, we uploaded those URLs into your Looker dashboard.
+
+**Aida Knezevic:** So within a couple of days, once those blogs get indexed, we should also start seeing some traffic and impressions come in for those blogs as well.
+
+**Aida Knezevic:** For organic search traffic, so far, the blog posts that we have published, they've attracted over 100 clicks from just Google and sessions are closer to 200.
+
+**Aida Knezevic:** And this encompasses not just organic traffic, but also traffic from.
+
+**Aida Knezevic:** Other sources, could be email, direct traffic, things like that.
+
+**Aida Knezevic:** But yeah, we've uploaded those URLs.
+
+**Aida Knezevic:** So we should be able to see these numbers grow in the next week.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** I think those are the performance updates that I had.
+
+**Aida Knezevic:** Do you have any other questions, anything else you wanted to discuss?
+
+**Mahati Rapol:** I think I wanted to ask, like, what was the decided number for the go-live for the first CBE database?
+
+**Mahati Rapol:** I may have seen the number somewhere, but I just wanted to discuss about it.
+
+**Aida Knezevic:** We landed on, let me actually find the vulnerability, like, product release plan.
+
+
+
+
+
+
+
+
+**Aida Knezevic:** So yeah, our goal is to publish 808 CVEs in two weeks.
+
+**Mahati Rapol:** Okay.
+
+**Aida Knezevic:** Yeah, so we will have to adjust these dates.
+
+**Aida Knezevic:** This was just a preliminary date that I set when I was creating this document.
+
+**Aida Knezevic:** It's likely going to be maybe from next Monday, and then for two weeks after that.
+
+**Aida Knezevic:** We're going to be publishing them every day, so I think we're going to push, I have to double check this with Marcus, but I think we're going to push all of these CVEs to your content stack, and they're going to be drafted in your content stack, and then you can, every day, you can go in and manually publish, like, between 30 to 50, depending on, you know, what you feel comfortable with.
+
+**Mahati Rapol:** Okay.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Great.
+
+**Aida Knezevic:** Yeah, and if you're wondering about which ones are the CVEs that we're publishing, that is in the content OS that Katya was presenting earlier.
+
+**Aida Knezevic:** Yeah.
+
+**Ankit Pahuja:** Yeah.
+
+**Ankit Pahuja:** Just to add more context, Mahati, we have chosen CVEs that are recent and that have more volume.
+
+**Ankit Pahuja:** Okay.
+
+**Ankit Pahuja:** To add to the good.
+
+**Ankit Pahuja:** Yeah.
+
+**Mahati Rapol:** And then after that, what is the production schedule?
+
+**Mahati Rapol:** Let's say we go live, a month passes by and everything's smooth.
+
+**Mahati Rapol:** Did we discuss what is the continuous production plan for it?
+
+**Mahati Rapol:** How does it flow?
+
+**Aida Knezevic:** We, Katya, sorry, Ankit, go ahead.
+
+**Ankit Pahuja:** Oh, no, please go ahead.
+
+**Ankit Pahuja:** I think we discussed right in this call, so.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** So, Katya and I are going to brainstorm, like, a production cadence.
+
+**Aida Knezevic:** For the next couple of weeks and how that is going to work, like we just really generating the CVEs isn't the difficult part because it's all hooked up to different APIs, but we just want to prioritize the right CVEs and we also have to loop in engineering to understand how are we going to be notified of new CVEs that are being published.
+
+**Aida Knezevic:** So those are just some things that we have to iron out internally before we can give you like a plan for like the weeks following the launch.
+
+**Mahati Rapol:** Okay, okay.
+
+**Mahati Rapol:** Sorry, I may be like multitasking, but so that's the part that I think I was kind of trying to figure it out in my head is, is there a possibility to have the connection from growthx to content stack like RCMS, the code, you you guys hit publish or you
+
+**Mahati Rapol:** You guys give an approved check, and they automatically get flowed into ContentStack.
+
+**Mahati Rapol:** Can we have it set up so that every time I feel like, you know, the engineering, or is it possible that way, or does it have to go through your engineering?
+
+**Aida Knezevic:** Um, so my understanding is that once we build the database, and once we hook up, um, Atlas, which is our platform to ContentStack, we will be able to, like, publish the content on our end, and it will be automatically drafted in your ContentStack, and that's going to be, like, how we're going be operating, yeah, continuously.
+
+**Mahati Rapol:** We're not going to have to, like, redo things.
+
+**Mahati Rapol:** Okay, okay, that's exactly how I was hoping it will be set up, so that, yeah, the content keeps flowing from your Atlas system into our ContentStack, not just for CBE database, but also the other articles, the SEO articles that you are going to be.
+
+**Mahati Rapol:** That you are actively working on.
+
+**Mahati Rapol:** Did we talk about that, Ankit?
+
+**Aida Knezevic:** Yeah, I think we were talking about this, I think, early in our engagement.
+
+**Aida Knezevic:** I think that is a possibility.
+
+**Aida Knezevic:** We would just have to talk to Marcus about it.
+
+**Aida Knezevic:** And I think it would be fairly easy to set up.
+
+**Aida Knezevic:** We would just have to copy the final draft from Google Docs back into Atlas and then stage it in CS101.
+
+**Aida Knezevic:** So I think we can bring this up with engineering and see.
+
+**Aida Knezevic:** I assume it's not going to be difficult, but again, I can't.
+
+**Aida Knezevic:** I don't want to speak out of turn, but I think it's going to be fairly straightforward.
+
+**Mahati Rapol:** Got it.
+
+**Mahati Rapol:** Yeah, whatever is the final draft on the Atlas system, if it can, like if a workflow step on your end can flow the content into content stack, then it just makes life easy for everybody.
+
+**Mahati Rapol:** And the reason I'm thinking about it is, again, once it goes into content stack, then...
+
+**Mahati Rapol:** And we can hit a button on our end for it to be localized.
+
+**Mahati Rapol:** So I'm just thinking like three steps down the lane.
+
+**Mahati Rapol:** Can it be localized again?
+
+**Mahati Rapol:** The one CS101 article, I wanted to go live and also get localized in the seven different languages that we have.
+
+**Mahati Rapol:** So the process is continuous.
+
+**Mahati Rapol:** Okay.
+
+**Aida Knezevic:** Got it.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Yeah, that makes sense.
+
+**Aida Knezevic:** Okay, perfect.
+
+**Aida Knezevic:** So I'll reach out to Marcus about that.
+
+**Aida Knezevic:** And yeah, we'll keep you posted on everything that's happening on our end.
+
+**Mahati Rapol:** And feel free to reach out if you have any questions in the meantime, if there's any confusion.
+
+**Mahati Rapol:** Sure.
+
+**Mahati Rapol:** Sure.
+
+**Mahati Rapol:** Thank you.
+
+**Aida Knezevic:** Thank you.
+
+**Aida Knezevic:** All right.
+
+**Mahati Rapol:** I'll see you next week.
+
+**Ankit Pahuja:** Bye.
+
+**Ankit Pahuja:** Bye.

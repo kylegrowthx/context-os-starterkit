@@ -1,0 +1,1371 @@
+# CodeRabbit <> GrowthX - Kick Off
+
+<metadata>
+date: 2025-09-22
+time: 17:59 UTC
+duration: 60 minutes
+organizer: erik@growthx.ai
+participants: Marcel Santilli, Erik O'Brien, Amanda
+fathom_recording_id: 88929573
+fathom_url: https://fathom.video/calls/416327471
+share_url: https://fathom.video/share/UWWdvzowH4wMCgSPh2m2cpUFPs7BG7je
+source: fathom
+enriched_on: 2026-03-03 02:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and CodeRabbit kicked off an eight-week content strategy sprint to position CodeRabbit as a thought leader in AI coding topics. Amanda (CodeRabbit's head of brand, content, and comms) and Erik O'Brien (GrowthX account strategist) discussed CodeRabbit's market position, customer acquisition model, product objections, and content priorities, establishing alignment on how GrowthX will supplement CodeRabbit's existing SEO program with high-quality, minimal-editing content. The engagement focuses on capturing untapped opportunities in open source communities and broader AI topics rather than competing head-to-head on product reviews.
+
+---
+
+## Context
+
+CodeRabbit is an AI-powered code review tool that recently closed a Series B funding round. The company operates in a market leadership position and primarily targets mid-tier to senior developers, with 50% of their customer growth coming through self-serve adoption and 50% through sales-driven enterprise deals. Product adoption often flows from open source projects into enterprise teams. Amanda acknowledged the team is lean—they lack a VP of Marketing and rely on a small content team—so they're bringing in GrowthX for strategic content development and execution. This is a classic case where growth has outpaced internal content capacity, and the client needs high-quality work that requires minimal editorial revision from their team.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Eight-week sprint structure involves strategy definition (weeks 1-2), content gap analysis, and execution calibration; this is GrowthX's proven 50+ engagement model with rework-reduction methodology
+- Amanda wants high-quality, minimal-editing content; GrowthX will introduce Ada (managing editor) to handle production and quality control
+- CodeRabbit targets developers, so content must balance casual, fun brand voice with credibility and substance
+- Key content areas: AI coding topics, open source adoption narratives, and developer education (NOT product comparison content, since CodeRabbit leads the market)
+
+**To CheckThat:**
+- CodeRabbit's AI visibility ranking, AEO positioning, and search intent around AI code review tools are all relevant for reference data
+- Opportunity to study how open source adoption drives B2B SaaS growth in the AI/developer tools space
+
+**To GrowthX Business Development:**
+- Strong account health signals: Series B funding, team expansion (hiring content manager), clear revenue/lead generation metrics as success measures
+- Potential for long-term engagement beyond the eight-week sprint if execution exceeds expectations
+- Amanda mentioned their Series B announcement, indicating the client is growing and likely has budget for content investment
+
+---
+
+## Overview
+
+- CodeRabbit wants to focus on broader AI coding topics beyond just code review tools
+- Open source projects drive significant growth; opportunity for targeted content
+- Current content strategy in place; GrowthX to supplement with fresh perspective
+- Need for high-quality content requiring minimal editing from Amanda
+
+---
+
+## Key Topics
+
+### CodeRabbit's Current Content Strategy
+
+  - Existing SEO program with assigned writers for competitor/review content
+  - Focus on "offensive" content (broader AI coding topics) vs. "defensive" (product-specific)
+  - Limited direct competitor comparisons due to market leader position
+  - Open source projects as key growth driver, but untapped content area
+
+### Customer Profile and Acquisition
+
+  - Mid-tier to senior developers, often from open source projects
+  - 50% self-serve growth, 50% sales-involved
+  - Product-led growth from open source to enterprise adoption
+  - Minimal direct competitor displacement; often chosen in "bake-offs"
+
+### Product Positioning and Objections
+
+  - More comprehensive reviews than competitors
+  - Verbose comments seen as both positive (educational) and negative (time-consuming)
+  - Speed concerns due to thorough review process
+  - Main competitors: BugBot, Graphite, Greptile (mentioned in \~25% of sales conversations)
+
+### Content Creation Challenges
+
+  - Limited capacity for content creation and editing
+  - Amanda's expanded role beyond just content (brand, comms, ads)
+  - Need for high-quality content requiring minimal editing
+
+### GrowthX Engagement Expectations
+
+  - Revenue and lead generation as key metrics
+  - High-quality content production with minimal editing required
+  - Fresh perspective on content opportunities, especially in broader AI coding topics
+
+---
+
+## Action Items
+
+**Amanda (CodeRabbit)**
+- Send unpublished content examples, links to liked pieces, ad campaign materials, brand/messaging/product info to GrowthX team
+
+**Erik O'Brien (GrowthX)**
+- Send Slack list of typical ingestion materials to Amanda
+
+---
+
+## Transcript
+
+**amanda:** Hi, how are you?
+
+**Erik O'Brien:** Doing well.
+
+**Erik O'Brien:** How's your Monday going?
+
+**amanda:** Um, okay, I'm not feeling terribly well, so I'm just going to keep things, my, my video off, if that's okay.
+
+**amanda:** I'm not trying to be unfriendly.
+
+**amanda:** I typically, but I just feel like garbage today.
+
+**Erik O'Brien:** But well enough to work.
+
+**Erik O'Brien:** Yeah, I've been dealing with a bit of a sinus infection last week, and it's just one of those things where, like, I'm fine enough to work, but I'm not feeling great.
+
+**amanda:** Yeah, yeah.
+
+**amanda:** Exactly.
+
+**amanda:** Um, okay, are we expecting, who are we expecting?
+
+**amanda:** Because I'm going to be honest with you, and I don't think that anyone else is joining from our end.
+
+**amanda:** I know we have Bishu and Gur, but they both feel like this is kind of all me.
+
+**Erik O'Brien:** Okay, wonderful.
+
+**Erik O'Brien:** Yeah, I believe Marcel is going to be joining us.
+
+**amanda:** Okay, so we can just wait until Marcel comes then.
+
+**amanda:** Let's not wait for them.
+
+**Erik O'Brien:** Yeah, was checking out the channel.
+
+**Erik O'Brien:** looks like they were...
+
+**amanda:** They kind of even said that on the channel.
+
+**Erik O'Brien:** Yeah, putting it on for you to handle this one.
+
+**amanda:** Yeah, they're just so busy, honestly.
+
+**amanda:** I don't even meet with them very often.
+
+**amanda:** We don't have a VP of marketing yet, so Gur handles all of the sales and...
+
+**amanda:** Well, we do have a VP of sales.
+
+**amanda:** Yes, just...
+
+**amanda:** Gur just messaged me saying he's skipping this call.
+
+**amanda:** He's just going to miss it?
+
+**amanda:** He's skipping, yeah.
+
+**Erik O'Brien:** Okay.
+
+**Erik O'Brien:** So make sure we won't wait for him then.
+
+**amanda:** And then Vishu's really busy as well.
+
+**amanda:** How did your, what is it?
+
+**amanda:** Inbound.
+
+**amanda:** Is that the one that you went to?
+
+**amanda:** guys went to?
+
+**amanda:** How did that go?
+
+**Erik O'Brien:** We did.
+
+**Erik O'Brien:** I wasn't there, but Marcel could tell you.
+
+**amanda:** Oh, okay.
+
+**Marcel Santilli:** Hello.
+
+**Erik O'Brien:** Hey, hey.
+
+**Marcel Santilli:** Happy Monday.
+
+**amanda:** Happy Monday.
+
+**Marcel Santilli:** How are you?
+
+**amanda:** Good.
+
+**amanda:** I just finished mentioning that I'm not being antisocial by not having my camera on.
+
+**amanda:** I'm not feeling great today, but I'm feeling perfectly fine to work.
+
+**amanda:** So I'm just going to be partly recumbent on my couch while I'm working here.
+
+**Marcel Santilli:** All good.
+
+**Marcel Santilli:** I hope you feel better.
+
+**amanda:** Thanks.
+
+**Marcel Santilli:** Are we waiting for anyone in your head?
+
+**Marcel Santilli:** So on our end, no.
+
+**Marcel Santilli:** no.
+
+**Marcel Santilli:** Gurr and Vishu are not intending to come, so it's just me from our side.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** Sounds good.
+
+**Marcel Santilli:** So, Erik, do you want to do a quick intro, and then we can jump in?
+
+**Erik O'Brien:** Absolutely.
+
+**Erik O'Brien:** So, Erik O'Brien, I'm an account strategist here at GrowthX, so I'll be working pretty closely with you as you go through the strategy sprint.
+
+**Erik O'Brien:** I'm kind of working on all things content, artifacts, and getting you guys set up with a content strategy.
+
+**amanda:** Okay.
+
+**Marcel Santilli:** And just to give you a quick high level on the strategy sprints, and then we can jump in, but I'd love to, if you don't mind, also doing a quick background and context before we jump in.
+
+**Marcel Santilli:** But, so, this eight weeks, the way to kind of think about it, it's not just strategy, it's not only jumping to execution, like, ultimately, it's us figuring out the context on your company, and, you know, the who you're for.
+
+**Marcel Santilli:** And the definition of done, the right strategy, and then starting to calibrate because as part of that, that's where we learn quite a bit, you know, and so ultimately it's like, how do we go through this process?
+
+**Marcel Santilli:** So we remove any bottlenecks, we align on expectations on both ends and align on what great looks like.
+
+**Marcel Santilli:** That way, from the moment the strategy sprint and execution sprint passes, we know we're really confident that we can be mutually successful, you know, and not get out of the park for you.
+
+**Marcel Santilli:** So this is what we're doing.
+
+**Marcel Santilli:** And I think there's always kind of this, like, let's just start doing stuff, which is we move really, really fast.
+
+**Marcel Santilli:** At the same time, there's just a lot of lessons we learned in doing over 50 of these, you know, with a lot of companies of, like, there's certain things that the deeper we go earlier in the first week or two, the more it's going to avoid rework later and avoid mistakes later, you know, on our end.
+
+**Marcel Santilli:** And so that's kind of the, the.
+
+**Marcel Santilli:** Here for what we're doing.
+
+**Marcel Santilli:** And this is the beginning where we're not meant to go as deep on everything.
+
+**Marcel Santilli:** It's mostly knowing what we don't know a little bit more.
+
+**Marcel Santilli:** And so if you want to do, I'll pass it over to you, Amanda, to just do maybe a quick high level for Erik as well, and then we can get started.
+
+**amanda:** Yeah, so I am the head of brand content and comms now.
+
+**amanda:** And at CodeRabbit, we do AI code reviews.
+
+**amanda:** And we primarily market to individual developers.
+
+**amanda:** So a lot of our marketing is going to be focused on that.
+
+**amanda:** Although we also have some enterprise accounts, everything usually percolates up from individual developers.
+
+**amanda:** So we are, you know, looking to be relevant to them and to speak their language.
+
+**amanda:** We have a bit of a casual and fun brand voice, but also one that's very helpful and serious as well in how we approach giving offerings.
+
+**amanda:** value in content.
+
+**amanda:** We don't like mentioning our competitors very much because we're the head, we're kind of like the market leader.
+
+**amanda:** And more recently, just last week, we announced our Series B funding.
+
+**amanda:** So that is the next stage of our growth.
+
+**amanda:** And we're still a pretty small shop, but we're growing.
+
+**amanda:** So I'm hiring a content manager who will work underneath me.
+
+**Marcel Santilli:** That's amazing.
+
+**Marcel Santilli:** I just saw that too the other day.
+
+**amanda:** So congrats.
+
+**amanda:** That's super, super exciting.
+
+**Marcel Santilli:** I'm sure it wasn't a hectic to do the announcement at all for you, you know?
+
+**amanda:** It was not at all.
+
+**amanda:** There was absolutely no moments when we almost canceled it at the last minute or rescheduled it.
+
+**amanda:** There was nothing like that.
+
+**amanda:** It was just incredibly smooth.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**amanda:** Well, so the funny story is you'll notice, like, if you look at there,
+
+**amanda:** It's another company that launched their series A the day after that it does primarily code reviews, but slightly more.
+
+**amanda:** And originally they were going to launch it the same day.
+
+**amanda:** And we got tipped off by someone, by a journalist, that there was going to be at least one or two other companies launching funding news that day in our exact space.
+
+**Marcel Santilli:** Oh my God.
+
+**amanda:** It was fun.
+
+**Marcel Santilli:** It was fun.
+
+**Marcel Santilli:** Is it Ona?
+
+**amanda:** No, it was a company called Macroscope.
+
+**amanda:** I've of them.
+
+**amanda:** I know.
+
+**Marcel Santilli:** No one has.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**amanda:** They like went from, they've been in like quiet mode, like stealth mode until they suddenly raised a series A.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** Well, I am super, super excited.
+
+**Marcel Santilli:** I feel like one of the reasons I wanted to jump on and Erik will lead the way on the questions, but I might jump in here and there.
+
+**Marcel Santilli:** just because I've been marketing to developers and technical audiences pretty much my whole career.
+
+**Marcel Santilli:** So it's like near and dear to my
+
+**Marcel Santilli:** And I think what y'all are doing is pretty awesome.
+
+**Marcel Santilli:** And so there's like a ton of cool ideas.
+
+**Marcel Santilli:** And like some of my favorite customers to work with are the ones that have like an awesome brand and they already have things that are working.
+
+**Marcel Santilli:** But most of their growth come from people searching for their brand because then it's just kind of like this greenfield, this like massive, you know, opportunity to go be super aggressive, you know.
+
+**Marcel Santilli:** So really, really excited.
+
+**Marcel Santilli:** And then hopefully also the other part is when there's like really lean teams, aka like you, you know, where when we come in, they kind of hopefully in a few weeks, you're like, oh, thank goodness, I have an extension of me here, you know, that hopefully is what we're aiming to do, you know.
+
+**Marcel Santilli:** And we have this kind of mentality, which is the best hire mentality.
+
+**Marcel Santilli:** So our goal is to be your best hire ever in your life.
+
+**Marcel Santilli:** And so it's a high bar, but that's what we're aiming for.
+
+**Marcel Santilli:** So with that, I'll pass it over to Eric to start digging in and asking a bunch of questions.
+
+**Erik O'Brien:** Absolutely.
+
+**Erik O'Brien:** So.
+
+**Erik O'Brien:** I shared a link to our collaboration space, which I think you should have been invited to before, but in case not, let us know.
+
+**Erik O'Brien:** We can get you in there.
+
+**Erik O'Brien:** But this is kind of where everything we do will live.
+
+**Erik O'Brien:** So once we start publishing content, we'll have performance reports.
+
+**Erik O'Brien:** We track all of our meetings and have recordings to them.
+
+**Erik O'Brien:** Then our docs.
+
+**Erik O'Brien:** So this is the space where we'll have, like I mentioned earlier, artifacts.
+
+**Erik O'Brien:** So your company brief, audience personas, writing guidelines, et cetera.
+
+**Erik O'Brien:** Anything that we need you to review or give feedback on, we'll be living here.
+
+**Erik O'Brien:** So we'll be in here quite a bit.
+
+**Erik O'Brien:** But for meetings, we will jump straight into our strategy sprint kickoff.
+
+**Erik O'Brien:** And this is where we have plenty of questions to kind of get deeper on the company, some context, customers, et cetera.
+
+**Erik O'Brien:** But I think we'll start at, you know, and these, again, are broad questions by design.
+
+**Erik O'Brien:** I think we have some context we gather from sales, but we will.
+
+**Erik O'Brien:** Continue to ask these kind of questions just to kind of hear straight from your voice.
+
+**Erik O'Brien:** But I think we'll dig in for the first question is what's driving this engagement now?
+
+**Erik O'Brien:** And why engage with growthx and ny content?
+
+**amanda:** To be completely transparent, one of our funders suggested it.
+
+**amanda:** And generally my feeling is always do what your funders suggest if they're saying that it's, you know, helpful.
+
+**amanda:** Oh, as long as it's not going to be harmful, especially if you can try it out and see if it works.
+
+**amanda:** So that's basically it.
+
+**amanda:** We actually had another SEO strategy, which we're going to continue because it's where we were working with developers to write content, like original content, non-AI generated.
+
+**amanda:** We are not anti-AI generated content.
+
+**amanda:** We just like editing it.
+
+**amanda:** But yeah, so we also want, I think we talked on the info call.
+
+**amanda:** There are some of the pieces that we really want, like a developer's opinion and more hands-on stuff.
+
+**amanda:** So that's...
+
+**amanda:** So we're still going to be doing that as well.
+
+**amanda:** So we're doing both of those things.
+
+**Erik O'Brien:** Anything else from kind of what's driving more of the kind of engagement with growthx and kind of more, I guess?
+
+**Marcel Santilli:** I mean, especially, like, anything around, from my experience, right, you raised around, and there's additional layer of new pressures of execution, you know, and continue to do well.
+
+**Marcel Santilli:** Are there any of those that have trickled down to you yet?
+
+**amanda:** Well, I think, so currently are, to be entirely transparent, the back, like, the bottleneck isn't writing content.
+
+**amanda:** It's getting it edited and live right now, which is why we're hiring another content marketer to help with that.
+
+**amanda:** currently, we actually are, like, we, I'm not exactly sure.
+
+**amanda:** I mean, it's probably good that there's a bit of...
+
+**amanda:** I am of calibrating, because I don't currently have capacity to get much more edited and live than I currently am.
+
+**amanda:** Luckily, I think there's going to be, now that the launch is over, there might be a bit of a time where I can catch up, which tends to happen.
+
+**amanda:** And so hopefully, my concern is, is misplaced, because I'm actually pretty quick when I actually am not working on a million things.
+
+**amanda:** But, but yeah, there is, there's definitely some desire to have more SEO content, to have SEO content being, you know, something that is a driver of growth and leads and, and kind of like all of those things.
+
+**amanda:** And just to present us as, as I, you know, thought leader within the space, and having an opinion on different things that matter to the developers that, that we're trying to target.
+
+**Marcel Santilli:** And one thing else I noticed is I think about like 95% of your traffic, organic traffic is your homepage.
+
+**Marcel Santilli:** And then the rest is primarily like pricing and whatnot, which is usually indicative of like mostly branded people knowing already about you and your brand, right?
+
+**Marcel Santilli:** It's kind of like we're seeing this with Lovable, one of our customers, right?
+
+**Marcel Santilli:** They're like 99% of brand searches pretty much.
+
+**Marcel Santilli:** And as much as they're growing super fast, they're like, yeah, we know that we can't rely on this forever.
+
+**Marcel Santilli:** Is that at like consideration at all or kind of how are you thinking about that?
+
+**Marcel Santilli:** Like AKA great traction through word of mouth, which is an amazing sign versus like people that are searching for other topics that are non-branded.
+
+**amanda:** Yeah, I mean, I think that we are a incredibly ambitious company.
+
+**amanda:** We've been growing at an average of 20%.
+
+**amanda:** Month over month in 2025, and that's a growth that we want to continue, but after a certain point, 20% becomes quite a significant amount to scale, right?
+
+**amanda:** And you need to bring in all of the guns.
+
+**Erik O'Brien:** All right, so if we were to talk to kind of three of your best customers or archetypes of your customers, what would they say CodeRabbit is uniquely good at, maybe compared to other tools or maybe not using a CodeRabbit type tool at all?
+
+**amanda:** Yeah, I mean, this is an interesting question for us, only because what our customers would say we're uniquely good at, we don't actually agree, are the things that we're uniquely good at.
+
+**amanda:** And the issue is that we have bad product marketing right now, which is a problem that we're trying to solve.
+
+**amanda:** So I want to answer this, but it's not, it's, it's, it's, I think there's two answers.
+
+**amanda:** There's what we think our customers would think we were uniquely good at if we had good product marketing, and what they actually think we're uniquely good at now.
+
+**amanda:** So like now, if you were to talk to any of our customers, they'd say they like our, some of the, like almost, like I do talk, I help run the case studies, and when we talk to them, they love our sequence diagrams.
+
+**amanda:** So we have a visual diagram of the code and how it fits in with the rest of the code base, and a lot of developers find that that saves them, that and the summaries that we offer saves them a lot of time when they're doing, when they get to the manual part of the review, right?
+
+**amanda:** Because no one's just using AI code reviews and then putting things live.
+
+**amanda:** They're using AI code reviews to clean up as much as possible, and then a human's coming in.
+
+**amanda:** And they're finding that that, you know, saves them a lot of time, and that's almost like, it's kind of like funny because it's not a huge, it's not a huge feature that we.
+
+**amanda:** We're necessarily marketing, but it is something that people, you know, that's unique, that's different than our competitors, and that people, like, genuinely love and will often say.
+
+**amanda:** The other thing that they love is the fact that, you know, we work across a number of different platforms.
+
+**amanda:** You can use us in IDE, in the CLI now, as of last week, and in a PR.
+
+**amanda:** So that gives people the ability to do reviews at different stages.
+
+**amanda:** We're also the only one that does that.
+
+**amanda:** And then they also like that they feel like our review comments are often better.
+
+**amanda:** They catch more things than other competitors.
+
+**amanda:** So those are, like, the things that I think that our customers would actively say.
+
+**amanda:** But we would say, we would say that what, if they, if we had good product marketing, they probably should be saying that, you know, we bring in more points.
+
+**amanda:** The context, then, like, significantly more points of context than our competitors, meaning that our reviews are much more comprehensive.
+
+**amanda:** The other point, sorry, would probably be that we offer a lot of additional add-on services to that process.
+
+**amanda:** So we have, we have docstring generation, and we have unit test generation, and kind of, like, the ability to do a lot of the, of the, the, the, the stuff that you do after coding.
+
+**amanda:** So it just, it just makes it much simpler.
+
+**amanda:** And then what else do you feel like they never say?
+
+**amanda:** Oh, yeah, we also have, our, our reviews actually get better over time, and this is something that no one really understands or knows about our product, and we're trying to get better at, at, at teaching them that, and that you can, like, chat with our chat.
+
+**amanda:** And tell them a review comment that you don't like.
+
+**amanda:** And then it will actively stop posting review comments like that.
+
+**amanda:** So the conflate with a lot of these kinds of review products is that they're often very noisy.
+
+**amanda:** And there's not a lot of opportunity to, like, tweak it to what you need.
+
+**amanda:** Or the opportunities that you have to tweak, they're not very responsive.
+
+**amanda:** So a lot of people might try us, they don't know about the learnings.
+
+**amanda:** And then once they actually do learn about the learnings, they might have thought that we were a bit noisy and giving a lot of irrelevant comments.
+
+**amanda:** And so not helpful.
+
+**amanda:** But then over time, they're able to make our reviews better.
+
+**amanda:** And none of our competitors have that.
+
+**amanda:** So I think those would be, like, the three things.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** So this one's maybe very specific to you.
+
+**Erik O'Brien:** But could be pulling me in broader context from the rest of
+
+**Erik O'Brien:** Leadership Team.
+
+**Erik O'Brien:** What are some pressures that you guys are feeling or kind of any specific outcome that would make it feel like, you know, in six months from now that we've nailed this kind of engagement with you guys?
+
+**amanda:** Yeah, so for them, they really just want to see like revenue like that.
+
+**amanda:** I think that's the biggest priority right now is, you know, trials, number one, because we convert trials pretty well at a good rate.
+
+**amanda:** But then also like the revenue it would generate.
+
+**amanda:** And that said, have, there's a lot of debate about like what generates, what type of content, what type of SAO content generates revenue at our company.
+
+**amanda:** There's, we had this whole debate in early August about different types of content.
+
+**amanda:** And, you know, there's a bunch of stuff that I think is kind of offensive content.
+
+**amanda:** Anything that you, not like offensive isn't horrible, but I mean like offensive isn't defense, offense, where you kind of have to, to protect yourself.
+
+**amanda:** And it's all those comments, those stuff around like your actual name and things where people are doing research, trying to find the right product or things about your very specific space.
+
+**amanda:** And then there's, you know, broader things that people who are interested in you are going to be searching for anyways, right?
+
+**amanda:** So some examples of that might be, you know, comparing Cursor versus Cloud, which one is performing better, like an article like that.
+
+**amanda:** And we, there were some people on the leadership team that felt like those types of articles, the comparing Cursor versus Cloud, they would have like a larger group of people searching for them.
+
+**amanda:** So we should go after those topics.
+
+**amanda:** So there's a lot of, you know, interest in doing that kind of content work.
+
+**amanda:** um, and then...
+
+**amanda:** then...
+
+**amanda:** Finally, everyone came on board once they realized that some of our competitors were honing in on some of our key SEO terms that we were getting a lot of traffic from.
+
+**amanda:** And they got a bit concerned about what that would mean in the future.
+
+**amanda:** So now we can do both of them, but there's definitely a leadership preference for doing the type of stuff that is not directly related to our space, but kind of positions us as thought leaders on issues around AI coding, issues around AI coding tools, and stuff like that.
+
+**Erik O'Brien:** Any other thoughts from that debate of what content you guys kind of have preference for kind of, you know, as we get started?
+
+**Erik O'Brien:** There's definitely some that have preferences of, like, we want to do comparison for sure, but then others are also around those comparisons.
+
+**amanda:** So we're still, we're, I actually flag it as like four stages.
+
+**amanda:** I had to like flag it for my company.
+
+**amanda:** It's four stages of competitor content, right?
+
+**amanda:** One, when you're the market leader, you don't, and no one is talking to you about like other competitors in sales conversations.
+
+**amanda:** You don't do competitor content because actually you're giving people, like, especially if your competitors aren't well known, which ours were for a lot of time, for a lot of time.
+
+**amanda:** So we, we did not want to compare ourselves.
+
+**amanda:** We're at the point where about 25% of people are listing one of our competitors.
+
+**amanda:** So for us, that means that we're willing to do competitor content, but we're probably going to do sponsor content.
+
+**amanda:** It's probably not going to be on our site.
+
+**amanda:** Um, and then I see like a second term where you get to about 50% of people are doing it, then you might put it on your site, but you might not putting it in the navigation.
+
+**amanda:** It's just, um, it's just for SEO.
+
+**amanda:** And then fourth is anything above 50.
+
+**amanda:** probably need it directly on your site.
+
+**amanda:** So we're at the 25% point.
+
+**amanda:** So we're not doing explicit competitor content.
+
+**amanda:** Like, the type of competitor content that we're willing to do is stuff like best code review tool, where we might still hide that on our site if we do it on our site.
+
+**amanda:** But we're not willing to do, like, CodeRabbit versus blank.
+
+**amanda:** But we might pay someone to do that externally.
+
+**Marcel Santilli:** Gotcha.
+
+**Marcel Santilli:** And just so I kind of understand, you – so there's a couple of things, right?
+
+**Marcel Santilli:** One is, even if you pay someone to do it, often the citations that are getting pulled into AI Answers, like, are going to try to use a lot of that language.
+
+**Marcel Santilli:** And you have less control of, like, what that language is like, you know?
+
+**Marcel Santilli:** And so, like, is the hesitation to do it because
+
+**Marcel Santilli:** Yeah, like maybe help me understand a little bit more on the, like, comparison, direct comparisons.
+
+**Marcel Santilli:** And the only reason I bring it up is, like, when I was at HashiCorp, was kind of the same thing.
+
+**Marcel Santilli:** We never mentioned competitors, and that was just, like, a principle that you wanted to follow.
+
+**Marcel Santilli:** Except now, if, like, 50% of the people are going in AI answers and typing that in the language that's being pulled, describing you, is, like, really bad or not accurate.
+
+**Marcel Santilli:** You're essentially missing out on the opportunity to actually accurately describe yourself, you know, to the market.
+
+**Marcel Santilli:** And so, not a pushback.
+
+**amanda:** I completely understand if you want to.
+
+**amanda:** Yeah, no.
+
+**amanda:** I mean, I think, I mean, I'm not sure if you have a full view of how sponsored content is done.
+
+**Marcel Santilli:** You just said that we wouldn't have control over it.
+
+**Marcel Santilli:** A lot of sponsored content, we could write it ourselves.
+
+**amanda:** Cool.
+
+**amanda:** Right?
+
+**amanda:** So, like, we could absolutely write the content ourselves and just get it published on another site that has a high domain authority.
+
+**amanda:** And then...
+
+**amanda:** And then oftentimes, even if it's written by someone else, would have, like, if we're paying for sponsored content, we would have the ability to edit and accept it.
+
+**amanda:** So not just, like, I guess not paying an influencer to do it, where sometimes those influencers would go, but there's a whole, like, sponsored content arena, like, area where you have a lot of influence, if not complete control over what gets published, and sometimes it's not even listed as sponsored content.
+
+**Marcel Santilli:** Got it.
+
+**Marcel Santilli:** Okay, cool.
+
+**Marcel Santilli:** That makes, that makes sense.
+
+**amanda:** That said, a lot of the stuff that's, like, so the SEO stuff that is more about the offensive content, which is, like, best code review tool, we have already assigned that to writers.
+
+**amanda:** So there are some stuff that we've already assigned, and we just need to make sure that we, there's no,
+
+**Marcel Santilli:** overlap between what you guys are doing and what they're doing.
+
+**Marcel Santilli:** Cool.
+
+**Erik O'Brien:** Yeah, that sounds good.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And those writers, can you tell us a little bit more about that process a little bit more?
+
+**Marcel Santilli:** Like, yeah, just overall, how you identify the opportunities and, you know, what their background or what they're best at versus like what you're hoping we should help with?
+
+**amanda:** Yeah, I mean, so we had a whole SEO.
+
+**amanda:** So just to give some background, we had a whole SEO program like planned out.
+
+**amanda:** And then, you know, one of our investors was like, oh, you should try this.
+
+**amanda:** It's worked for some other companies.
+
+**amanda:** So we're like, okay.
+
+**amanda:** So I'm not really sure how we're going to divide that because I haven't really had time to think about it.
+
+**amanda:** We just decided to go ahead and give it a try and see what it's like.
+
+**amanda:** But the, so one of the people, one of the writers is someone I've worked with in the past.
+
+**amanda:** He helped me triple, he's very good at SEO.
+
+**amanda:** So he helped me triple blog traffic and conversions at my last company in like three or four months.
+
+**amanda:** So, you know, I have a lot of faith in him.
+
+**amanda:** And he's a former game dev.
+
+**amanda:** So definitely has a technical background and has that kind of, and then has since like moved into SEO and been really good at it.
+
+**amanda:** So a lot of experience there.
+
+**amanda:** Also does a lot of landing page copy and stuff like that.
+
+**amanda:** That's very successful and ranks well as well.
+
+**amanda:** So that's someone who I've, you know, worked with for a very long time.
+
+**amanda:** And then we have someone internally who's a developer influencer who also, who writes these really good technical, thorough articles.
+
+**amanda:** So if go to our site, he wrote the one, his name's Anker, and he wrote the one on like best practices with Copilot, I think.
+
+**amanda:** And he just gives like, it's very, very thorough as to like how to get the best out of Copilot.
+
+**amanda:** It has screenshots for everything.
+
+**amanda:** It has like, kind of like, first person accounts of how it helped him with.
+
+**amanda:** Examples.
+
+**amanda:** So stuff like that is just very thorough.
+
+**amanda:** So he would do stuff like that.
+
+**amanda:** And then we have an agency who I haven't really worked with them yet.
+
+**amanda:** So they just submitted their first articles about a week and a half ago, and I haven't had a chance to look at them because we were working on the launch.
+
+**amanda:** So they do kind of a bit of everything, but they're all developers as well.
+
+**amanda:** And we'll see the quality.
+
+**amanda:** I haven't had a chance to look at it.
+
+**amanda:** I mean, I definitely did see some.
+
+**amanda:** We worked with them in the past, and I've seen some articles that they submitted previously, and they're variable quality.
+
+**amanda:** Some of them are very good.
+
+**amanda:** Some of them are, you know, okay.
+
+**amanda:** And so just working with them, probably like the split would be like, you know, these people would work on very specific, more technical content, or, you know, I might get if something is a really critical keyword for us, I might get my
+
+**amanda:** And the person that I've worked with in the past to do it, because I know he can rank for it and he can rank quickly.
+
+**amanda:** And it's going to be a really thorough and good article.
+
+**amanda:** And so that's like, that seems very straightforward to me as like him being the right person for that.
+
+**amanda:** Whereas anything in between or anything that we don't have, we haven't been able to do, maybe some of the stuff that, you our CEO was talking about wanting to do is like things that are in the broader scope of AI and coding, you know, those types of articles would be a good fit.
+
+**amanda:** And we could just supplement them sometimes with some internal opinions and stuff like that before putting them live.
+
+**Marcel Santilli:** Got it.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Um, so just to play it back is, um, we definitely want to make sure that, um, you, you feel like this was a force on you, you know?
+
+**amanda:** I just need to be transparent with you because otherwise it doesn't make sense why we have like a separate, a whole content program that exists.
+
+**amanda:** So, like, to be fair, like, we, there is, there is a lot of, there is a lot of pressure to get a lot of content out ASAP, and I don't have the ability to write all that, or even necessarily brief all of it, so there's some ways in which, you know, this is good.
+
+**amanda:** I don't have the ability currently to get it all online, so either have to, I might have to train one of my direct reports to help me with, she's not, she's not going to be good at editing, but help me with, like, content, anyway, something.
+
+**Marcel Santilli:** And, and I, I guess, like, one, one maybe way to think about it is, like, what, what we've seen in the past that tends to not work very well is when it's like, hey, there's these three or four no-go zones, and then everything else, the rest that no one wants to touch, like, my SEO agency doesn't want to touch, my writers don't want to touch, here you go.
+
+**Marcel Santilli:** Like, usually that's, like, the losing category, kind of, and there's no amount of amazingness things we can do to win, because it's just, like...
+
+**Marcel Santilli:** They're just not good opportunities.
+
+**Marcel Santilli:** It's like the opportunities that we don't care about.
+
+**Marcel Santilli:** But what we've seen in like, for instance, like Augment Code, where we've like 3X their traffic, non-branded organic traffic in the last three months, is it's really going after like the opportunities really aggressively, where now they're showing up with a lot of like the right things, you know, or like with Lovable and a few others.
+
+**Marcel Santilli:** It's like really like figuring out ways to collaborate with those groups and trying to, you know, really argument like what you're already seeing it's working or finding additional opportunities.
+
+**Marcel Santilli:** For instance, like right now, your site has about 199 pages and none of the blogs are actually getting any traffic at all.
+
+**Marcel Santilli:** Like only one or two of those blogs are actually getting any traffic at all, right?
+
+**Marcel Santilli:** So I think there's like a huge opportunity if you look at Codo and a few others that have done this aggressively.
+
+**Marcel Santilli:** Where they have over a thousand pages that there's just like so much, so many topics, right?
+
+**amanda:** No, interestingly.
+
+**amanda:** enough, CodeRabbit actually does not get, I actually did a deep dive into CodeRabbit.
+
+**amanda:** It gets most of traffic from exactly two pages, two blogs, maybe three.
+
+**amanda:** It has one blog that gets 20,000 to 30,000 hits a month.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**amanda:** Yeah, so that, we're going after that topic.
+
+**amanda:** It's the AI coding agent, but we're probably going to do that internally.
+
+**amanda:** it's going, because theirs is actually very, very well done.
+
+**Marcel Santilli:** Theirs is like, it's about trials.
+
+**Marcel Santilli:** It talks in depth about things.
+
+**Marcel Santilli:** So we are going after that one, but we're going to do that one internally.
+
+**Marcel Santilli:** Got it.
+
+**Marcel Santilli:** And so what, I guess like, I promise I'm not pushing back, but it's like, I want to make sure like, this is just won't be successful if it's like, we're not, like, where should we play essentially, you know, because it's like not super clear.
+
+**Marcel Santilli:** And like, I guess like, it seems like you already have all the help, you know, and we should have qualified this probably better in the sales process.
+
+**Marcel Santilli:** But it's like, I want to make sure like that.
+
+**Marcel Santilli:** We have a lane that is super clear that we can go execute versus like if we have to check three different stakeholders and say like all the leftovers essentially.
+
+**amanda:** I mean, I'm the only stakeholder you'd have to talk to because I'm the one assigning everything.
+
+**amanda:** I'm one doing the research to assign it.
+
+**amanda:** It's not like we have another SEO agency that's doing the SEO research and then giving the terms to me.
+
+**amanda:** So you don't have to consult with them.
+
+**amanda:** Essentially, like, I mean, the area that I think like RC, like, so I think when this was brought to me and as like, this is a great opportunity, let's try this.
+
+**amanda:** The area that seemed like the most critical to me and the best use of this would be like, okay, so Harjit was the one when we're having these conversations about the offensive content versus the, and the offensive content where the stuff that we have to protect, we should be, we should be there, we should be ranking for it.
+
+**amanda:** And then kind of like things that are directly related to buying decisions.
+
+**amanda:** So that was stuff that I think like has to be done, has to be done really, really well.
+
+**amanda:** Then there's like Harjit wanted to do, Harjit was the one who didn't want to do that.
+
+**amanda:** And he's our CEO and he wanted to do, and he's changed his mind, just so you know.
+
+**amanda:** It was like a funny three days where he was very against it to the point where he was upset about it.
+
+**amanda:** And then he then saw that like some other competitors were ranking for those terms, and he got upset about that.
+
+**amanda:** So he's on board with that.
+
+**amanda:** And a lot of that content has already been, you know, briefed and assigned.
+
+**amanda:** And then there's, so what he wants is, and I think his strategy is really interesting, which is that in the past he, so he's a third time founder.
+
+**amanda:** So he's had three other companies and past companies, his strategy was not to go after, like he was also in an emergent space.
+
+**amanda:** So the interesting thing about.
+
+**amanda:** But being an emergent space is that a lot of the keywords are directly related to you.
+
+**amanda:** They might have growing traffic, but they're not going to be huge compared to, like, kind of adjacent spaces that might exist that you can potentially go after.
+
+**amanda:** And so, like, for him, his thought is, like, we shouldn't be writing about best code review agents.
+
+**amanda:** We should be writing about, you know, like, a review of cursor or cursor versus blank.
+
+**amanda:** Or we should be writing about linters or we should be writing about, like, you know, different things that people who would be interested in us are likely to be searching for, but in larger numbers.
+
+**amanda:** And his thought is, like, if you have a bigger funnel and you're getting more attention and more traffic kits, then you're still going to convert a certain amount.
+
+**amanda:** And in the end, it's going to be more.
+
+**amanda:** Right.
+
+**amanda:** So that's that's kind of his strategy for that.
+
+**amanda:** But it does become harder.
+
+**amanda:** Sometimes to rank for those larger traffic keywords, but you can sometimes find like smaller, like longer tail keywords, so not cursor, but cursor versus blank, right?
+
+**amanda:** Sometimes that one is going to be still a large group of people searching for it and larger than a lot of the AI code review tools terms, but you're going to get a lower difficulty rating for ranking for it, so it's much more possible.
+
+**Marcel Santilli:** That makes sense.
+
+**Marcel Santilli:** Yeah, I think like, so just to kind of play back to make sure I'm hearing the right lane, because like normally like what we like to do and tell me if this is okay with you is like really take like a broader view and do a full analysis, full audit, all the competitors, everything else, right?
+
+**Marcel Santilli:** And come to you with, here's what we would do if we were running this, like essentially.
+
+**amanda:** Yeah.
+
+**amanda:** Yeah.
+
+**amanda:** Yeah.
+
+**amanda:** We've already done that, like, I mean, we've already done a competitor, like, a review of our competitors' content, and we're not really interested, like, all of our competitors have pretty bad content, I'm to be honest, right?
+
+**Marcel Santilli:** Yeah, and sorry, like, just to finish this thought, it's like, I guess, like, we have to run our process.
+
+**Marcel Santilli:** If we don't run our process, like, even for a week or two, it's like, it becomes really hard for us to be able to tell you, like, we're doing this for the best friend.
+
+**amanda:** I think what would actually be helpful for us is if you looked instead at AI coding tools.
+
+**amanda:** Sorry, say that again, if instead of what?
+
+**amanda:** So rather than doing, like, competitor research into other AI code review tools, I think that the type of content that Harjet would like us to have is content that AI coding tools are more likely to have.
+
+**amanda:** So that would actually be a better, like, if you want to do a competitor analysis as part of your process, and that would be aligned with the content strategy that we'd want you to take forward.
+
+**amanda:** And you're better off looking, doing, like...
+
+**Marcel Santilli:** I just want to make sure, like, that we can add value, you know, because if you have everything kind of somewhat figure out, you have the staff, you have everything, it's like, it's completely okay to, like, you know, like, to, to, like, just maybe, like, not proceed with the engagement.
+
+**Marcel Santilli:** You know, we love to work with you and, and things like that, but I, I just, it's, like, I would rather, like, you feel really confident that we can help you and that you want us to help versus, like, oh, man, like, I feel like our investor, like, asked us to do this, and now I get, I have to work with these people versus working with people I've worked with.
+
+**Marcel Santilli:** Well, just to be, just to be, just to be, so we are going to continue working with the other people, right?
+
+**amanda:** So, two things.
+
+**amanda:** One, we are absolutely going to continue working with the other people, because even in our onboarding call, there were certain types of content that you guys flagged as not being able to, to do well, right?
+
+**amanda:** So, like, obviously, we, we do need people who are going to do that, right?
+
+**amanda:** So, we're going to continue that content program.
+
+**amanda:** We also
+
+**amanda:** So a lot of these pieces of competitor content, they have been assigned.
+
+**amanda:** They are being written, right?
+
+**amanda:** There's not a ton of keywords for that kind of competitor content in our space right now because it's still relatively small.
+
+**amanda:** And I think it'll continue to grow.
+
+**amanda:** And we're also seeing that growth around keyword traffic and average monthly keyword traffic for different terms in our space.
+
+**amanda:** But I do think that it's still not that mature.
+
+**amanda:** So there's not a huge amount of keywords.
+
+**amanda:** And probably there'll be more keywords if we'd be willing to talk about our competitors, but we don't want to do that.
+
+**amanda:** So there is a limited amount, and that's already been assigned.
+
+**amanda:** And that plan was in place well before any of our competitors, sorry, our investor kind of brought this up.
+
+**amanda:** The reason why I'm telling you this is that we had this plan.
+
+**amanda:** And so I do want it to be clear that...
+
+**Marcel Santilli:** That this has already been taken care of, right?
+
+**amanda:** You know, like my background is before I came into agencies, I, sorry, before I came into in-house, I worked for agencies for years.
+
+**amanda:** I did content strategies for, you know, some of the top 10 biggest companies in the Forbes list of companies with these agencies.
+
+**amanda:** So that's my background.
+
+**amanda:** So I'm very used to creating content strategies.
+
+**amanda:** I'm very good at it.
+
+**amanda:** What often happens because of that, when we try to go out and, you know, get external firms to help us out, is that, you know, they want to do work that we've already done, right?
+
+**amanda:** And they want their process to cover over that work.
+
+**amanda:** And it's kind of like, well, that would actually not be helpful for me, right?
+
+**amanda:** So, like, we do want to go to you.
+
+**amanda:** We do want to work with you.
+
+**amanda:** Like, I think there's this other track of content that I haven't started working on, I haven't looked into, that I think could be a green space for you.
+
+**amanda:** Yeah.
+
+**amanda:** Yeah.
+
+**amanda:** But what I don't want to do is go over work that we've already done.
+
+**Marcel Santilli:** That makes sense.
+
+**Marcel Santilli:** And sorry to probe too much.
+
+**Marcel Santilli:** And I can tell you know your stuff.
+
+**Marcel Santilli:** And so I hope this doesn't come across as me necessarily pushing back.
+
+**Marcel Santilli:** It's just maybe what we could do is go through all these questions, kind of seek a deeper understanding.
+
+**Marcel Santilli:** And then we don't want to cover over what you've done already.
+
+**Marcel Santilli:** It's just for us to gain the right context.
+
+**Marcel Santilli:** We still need to gain that context, if you will, just for our own good.
+
+**Marcel Santilli:** Oh, sure, sure, sure.
+
+**Marcel Santilli:** We've done that work.
+
+**Marcel Santilli:** We need to have that understanding a little bit too.
+
+**Marcel Santilli:** And so then it will help inform the other stuff that we do.
+
+**Marcel Santilli:** And I think there's like so much opportunities here as well.
+
+**Marcel Santilli:** You know, so we'll make it our mission to earn your trust.
+
+**amanda:** Yeah, sounds good.
+
+**Erik O'Brien:** Right.
+
+**Erik O'Brien:** So let's get into customer a little bit.
+
+**Erik O'Brien:** Does this have a way to define kind of ICP or how you look at maybe archetypes of customers?
+
+**amanda:** Yeah, so, like, I think the most, like, do we have a distinct way?
+
+**amanda:** I'm not entirely sure, but I can tell you exactly who our customer generally is.
+
+**amanda:** So we've actually seen a lot of our growth come from open source projects.
+
+**amanda:** We give our software for free to open source projects, people use them, and then they're like, wow, this is really cool.
+
+**amanda:** I should use this at work, and then they go into their companies, and they recommend it.
+
+**amanda:** So a lot of our growth has been product-led growth from people trying it out in open source.
+
+**amanda:** And they're not always, like, the people who are in open source doing this, the people who bring us into their companies or start advocating for us in their companies, they're not always people who are engineering managers.
+
+**amanda:** In fact, typically, they're just average developers.
+
+**amanda:** Maybe they're, you know, mid-tier just.
+
+**amanda:** Maybe maybe they're junior developers, but that's generally the type of person who is driving our growth.
+
+**amanda:** So not necessarily the, not necessarily solo developers, but developers who work at companies, but individual developers who are plugged into open source software spaces and then, you know, bring us into their companies.
+
+**amanda:** And then, and then sometimes we see like very organic growth from, you know, zero people to like 50 states suddenly, and we've done nothing to actually engage them.
+
+**amanda:** Then we find out that it comes from, from using us in open source.
+
+**amanda:** So, so there's definitely, so open source, we haven't done a lot of content for that.
+
+**amanda:** That's another green area of, of, of content to think about as well, because that is, that is like essentially where the majority of our growth is coming from.
+
+**amanda:** As we are kind of like moving.
+
+**amanda:** More towards a sales, like building a better sales-led growth process and sales infrastructure.
+
+**amanda:** We do have, I think a lot of our growth will start coming from enterprises.
+
+**amanda:** And in that case, we're, you know, talking directly to engineering managers and other people.
+
+**amanda:** But for now, you know, a lot of our content is, and a lot of, especially the SEO content, is kind of aimed at mid-tier to senior developers who, and not necessarily engineering managers.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** So I guess when you guys are working with maybe some of those mid-tier to senior devs,
+
+**Erik O'Brien:** And they are pulling you into kind of like the, I work here and we're interested in using this.
+
+**Erik O'Brien:** Is there something that you guys hear when you win deals, or like which competitors you're displacing?
+
+**amanda:** Yeah, so interestingly enough, a lot of those OSS people actually convert to like full teams without us having any interaction with them at all.
+
+**amanda:** So like, so they aren't, so they don't always, you know, tell us anything.
+
+**amanda:** We just suddenly see, you know, that they've bought, you know, 20, 25, 50 seats.
+
+**amanda:** We do, like if someone is over 20 seats that they suddenly buy, we do involve our sales team at some point to retouch them.
+
+**amanda:** Some of them don't have any desire to talk to sales and they just stay on as 20 plus seats.
+
+**amanda:** And then eventually, you know, like keep renewing and stuff.
+
+**amanda:** So I think there's a lot of, a lot of our growth is actually self-serve.
+
+**amanda:** So,
+
+**amanda:** Um, and, uh, like about 50%.
+
+**amanda:** Um, and then the other 50% is, uh, sales involved, and that includes that people are coming in from trying us or hearing about us.
+
+**amanda:** Um, and I say, like, OSS converts the most, but we also do a lot of outreach, uh, and people often hear about us from, like, their favorite influencers.
+
+**amanda:** So I say that that, like, OSS is one way that people hear about us and try about us, try us, and then, uh, people also hear about us from influencers or word of mouth, and then try us, um, for that reason.
+
+**amanda:** And a lot of times, you know, sales is not involved at all.
+
+**amanda:** When we do talk to them, um, the, uh, we aren't typically displacing anyone.
+
+**amanda:** Uh, sometimes people will have, like, the most common, I guess, would be, like, people have co-pilot at work, because a lot of people have co-pilot at work, and they, co-pilot does have, um, a code review tool.
+
+**amanda:** But it's kind of pretty universally thought to not be that great.
+
+**amanda:** So, like, it's not that they've been using co-pilot reviews, and then they're like, I should try us, and then we're displaced in co-pilot reviews.
+
+**amanda:** Typically, it's like, oh, like, months ago, I tried co-pilot reviews, and we tried it a couple times, and then we hated it, and we were like, no.
+
+**amanda:** And when we do hear about our competitors, it's not that they're using our competitors, and they're looking to move to us.
+
+**amanda:** It's sometimes, like, BugBot, I think, is the one that is the most well-known, because it kind of came out more recently.
+
+**amanda:** People started using it.
+
+**amanda:** Some people like it.
+
+**amanda:** Some people hate Some it.
+
+**amanda:** But it is better than co-pilot, and it is from one of the larger companies.
+
+**amanda:** So that, you know, is...
+
+**amanda:** This is good and bad, but people generally feel like that we're more comprehensive, that we provide better reviews than they do.
+
+**amanda:** And our competitors that people are trying, like often people do bake-offs, so they haven't used any of them.
+
+**amanda:** And so when they're doing bake-offs, the other two companies that we often hear are Graphite and Greptile.
+
+**amanda:** And typically, I think Reptile often is liked more than Graphite, but I'm not entirely sure.
+
+**amanda:** But like I said, that's still only 25% of sales conversations where anyone comes up.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** Sorry, it's Greptile, not Reptile.
+
+**Erik O'Brien:** Sorry.
+
+**amanda:** Reptile.
+
+**amanda:** Reptile.
+
+**amanda:** Reptile.
+
+**amanda:** CREP is a pun.
+
+**Erik O'Brien:** I have that right there.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** CREP, okay.
+
+**Erik O'Brien:** So those are the top three.
+
+**Erik O'Brien:** Any other competitors you guys look to in the space?
+
+**amanda:** No.
+
+**amanda:** I mean, I think, like you guys mentioned, Coto, no one really uses them.
+
+**amanda:** Very rarely they come up, and they don't really do what we do.
+
+**amanda:** So do something, and it's cute, but they do something slightly adjacent, but it's not the type of comprehensiveness.
+
+**amanda:** They've existed for a long time, and they weren't using generative AI for a while.
+
+**amanda:** They were using other forms of AI, and then I think they upgraded, but it's still not, it's not the same product exactly, but some people see it as kind of the same product and in the same space.
+
+**amanda:** Some people use both, I think, too.
+
+**amanda:** you.
+
+**amanda:** Thank you.
+
+**Erik O'Brien:** Let me cover it off on this.
+
+**Erik O'Brien:** I guess, do you guys have any, when you do hear from prospects in the sales conversations, like any objections or concerns that come up for EasyCodeRabbit?
+
+**amanda:** Some people feel like we are noisy.
+
+**amanda:** There's a lot of irrelevant comments, but we have our, like I said, we have different ways to learn and reduce that, but they don't understand how to use that part of the product.
+
+**amanda:** We are a bit more verbose in our answers than some of our competitors.
+
+**amanda:** And developers, when they're using this, they want to save time, so they don't want to read a lot.
+
+**amanda:** And that's like some people, whereas there's other people who see code reviews as a way to teach.
+
+**amanda:** So we often, I think the difference that I see is that in our comments, we'll give a tiny bit of background as to why we're making this comment and why you shouldn't be doing what you were doing.
+
+**amanda:** Whereas others will just say, should write this without the context of like, what?
+
+**amanda:** And so some people actually find that as a positive where they're like, great, this like part of code review is actually to teach junior developers.
+
+**amanda:** And these other products aren't doing that because they're not giving the context, but you guys are.
+
+**amanda:** And so I think that's, it's like, like with many of our, the objections that we get, they are positives to other people.
+
+**amanda:** And so it's, it's not that there's anything that's really, the other thing that people say is that we're slow.
+
+**amanda:** And this is something that we're going to own.
+
+**amanda:** Part of it is that it's the way we do the code reviews and they're engineered, the pipeline is engineered to be more comprehensive.
+
+**amanda:** That's it.
+
+**amanda:** And to reduce noise, even though people say we're noisy, but people say everyone's noisy.
+
+**amanda:** But yeah, so we do an entirely different pipeline.
+
+**amanda:** We have a number of different checks that other people don't use.
+
+**amanda:** And also there's an expectation in code reviews that you don't necessarily get answers back immediately.
+
+**amanda:** So there's that affordance that we can take more time.
+
+**amanda:** So that's something we're going to more directly own in the future.
+
+**amanda:** But right now, we just switched over to OpenAI, and their new model is actually quite slow.
+
+**amanda:** So we're slow, but then with their new model, we're even slower.
+
+**amanda:** And so we don't want to be focused on that right now.
+
+**Erik O'Brien:** Yeah, makes sense.
+
+**amanda:** But other than that, that's basically the only objections we really get.
+
+**amanda:** Sometimes they'll say that it's not helpful.
+
+**amanda:** They don't find them that helpful or that we miss things.
+
+**Erik O'Brien:** And those are just, like, 2% or smaller outliers?
+
+**amanda:** Yeah, mostly because, like, I think that's, like, I think, like, the idea that an AI code review is going to find everything is actually an unreasonable expectation for the product.
+
+**amanda:** And so I don't think that that is ever going to be met.
+
+**amanda:** And so, like, I think that's more of the customer not being well positioned to know what to evaluate.
+
+**amanda:** But, yeah.
+
+**Erik O'Brien:** Gotcha.
+
+**Erik O'Brien:** What would you say maybe your three best pieces of content are today?
+
+**Erik O'Brien:** Or do you guys have content that you point to regularly?
+
+**amanda:** We have not had a ton of time to make content.
+
+**amanda:** I actually, like, spent most of my – I've only been here for five months.
+
+**amanda:** And I spent, like, a month and a half making ads.
+
+**amanda:** Netz küç And I just I Nice.
+
+**amanda:** I
+
+**amanda:** That, like, an ad campaign that's done very well, and I guess that would be a piece of content that I think, unfortunately, is, like, very good for talking about what kind of brand you want to be in the place, but not necessarily a good example of content.
+
+**amanda:** Let me get back to you on that.
+
+**amanda:** Okay.
+
+**amanda:** Yeah.
+
+**Erik O'Brien:** Do you guys have, I guess, maybe a list of keywords you use for the ad campaign, or is that kind of content that will be covered by the other teams?
+
+**amanda:** The ad campaign is an in-person ad campaign.
+
+**amanda:** took over a station in, a BART station, with ads, and people are still talking about it months later.
+
+**amanda:** Gotcha.
+
+**amanda:** This is very successful.
+
+**amanda:** But again, send you some links as to, like, which pieces we like.
+
+**Erik O'Brien:** Okay, yeah, that'd be awesome.
+
+**Erik O'Brien:** Current state of marketing, think we talked through that, kind of this limited capacity for review of and editing.
+
+**Erik O'Brien:** Yeah, yeah.
+
+**amanda:** I was hired as the head of content, but as I mentioned at beginning of my call, my scope has always expanded, and now my title has expanded to reflect it.
+
+**amanda:** So I've been doing brand and comms as well, and ads, like in-person ads.
+
+**amanda:** So, yeah, it's been, so we definitely need more, more staff, but we are currently hiring.
+
+**Erik O'Brien:** All right, so we kind of touched on, you know, six months.
+
+**Erik O'Brien:** Once from now, you know, revenue leads kind of being metrics that we'd want to influence anything else that would be specific to kind of you, your goals of like, what would make this the best decision you made this year?
+
+**amanda:** If the content was really high quality for me.
+
+**amanda:** And also if it didn't take a ton of editing.
+
+**Erik O'Brien:** Yeah, next week we can introduce you to our managing editor, Ada will be on this account and so she will do most of the editing for you, at least on the first few passes.
+
+**Erik O'Brien:** So hopefully minimal editing is needed once it gets to your plate.
+
+**Erik O'Brien:** Anything else that we didn't ask that we should have asked?
+
+**Erik O'Brien:** next week.
+
+**Erik O'Brien:** this point, two minutes left.
+
+**amanda:** No, I think this is a good overview.
+
+**amanda:** Yeah.
+
+**amanda:** I might send you some copies of content that's not out yet, that people all really, really like, but it hasn't been published as of yet.
+
+**Erik O'Brien:** That'd be awesome.
+
+**Erik O'Brien:** Marcel, any other last questions on your end?
+
+**Marcel Santilli:** No.
+
+**Marcel Santilli:** think we, yeah, like, the main thing is just digging in.
+
+**Marcel Santilli:** So anything you can send us that will help us kind of come up to the same context that you have and a lot of the work you've done internally already that will help us just be able to get to work even faster.
+
+**amanda:** I appreciate it.
+
+**amanda:** Awesome.
+
+**amanda:** Yeah, I'm sure I can send you guys some stuff.
+
+**Erik O'Brien:** Sweet.
+
+**Erik O'Brien:** Bye.
+
+**Erik O'Brien:** Anything around brand, messaging, product, all stuff that we love to ingest and kind of use as context as we're getting started.
+
+**Erik O'Brien:** So anything in those arenas, I'll send it through Slack as well.
+
+**Erik O'Brien:** So we'll have the list of things we typically use for ingestion into our process.
+
+**Erik O'Brien:** But other than that, it's been great to meet you, Amanda.
+
+**Erik O'Brien:** Appreciate the time as always.
+
+**Erik O'Brien:** And we will be in touch with Next Steps.
+
+**amanda:** Awesome.
+
+**amanda:** Thanks, Amanda.
+
+**amanda:** soon.
+
+**amanda:** Great to meet you as well.
+
+**Erik O'Brien:** Take care.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** You too.
+
+**Erik O'Brien:** Bye-bye.

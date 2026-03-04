@@ -1,0 +1,1152 @@
+# N-Able <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2025-10-15
+time: 14:30 UTC
+duration: 45 minutes
+organizer: Erik O'Brien (erik@growthx.ai)
+participants: Erik O'Brien (GrowthX), Aida Knezevic (GrowthX), Andrew Proft (N-Able), Andrew Beyer (N-Able), Nicholas Smarrelli (N-Able), Elaine Duhaylungsod (N-Able)
+fathom_recording_id: 94321086
+fathom_url: https://fathom.video/calls/441261195
+share_url: https://fathom.video/share/Xrp5FaixVRtB5wCL4UnNhfqz-wz4ejeG
+source: fathom
+enriched_on: 2026-03-02 18:35 UTC
+speaker_note: Nicholas Smarrelli is addressed as "Rick" early in the transcript by his colleagues. All other speakers correctly identified from participants.json and transcript context.
+</metadata>
+
+---
+
+## Summary
+
+N-Able and GrowthX aligned on a content strategy centered around 5 topic clusters (N-Central Remote Monitoring, MDR, Data Backup/Compliance, MSP Scaling, Cyber Resilience Culture) to build demand for MDR and scale N-Able's MSP customer base. GrowthX presented its Atlas AI platform that uses Claude for writing, SEMrush for keyword research, and a human-reviewed pipeline (Brief → Research → Outline → Draft → Fact Check → Human Review). N-Able agreed to refresh outdated blog content, prune low-performing posts, and explore non-blog formats (benchmarks, long-form resources). Next steps include keyword research starting end of week, content calendar delivery next week, GA4/Search Console access setup, and clarification on CMS access requirements.
+
+---
+
+## Context
+
+N-Able is a managed service provider (MSP) platform undergoing a brand and category shift toward positioning itself as a "cyber resilience" company. The company has a crowded competitive landscape with roughly a dozen established competitors in the managed detection and response (MDR) space. N-Able's content operations have historically been reactive—focused on optimizing content created elsewhere rather than proactively building SEO demand. This engagement represents a strategic shift: GrowthX is helping N-Able build an internal content machine that can generate high-quality, SEO-optimized content at scale across five key product and category verticals.
+
+N-Able already has significant existing content across multiple properties (blog, resources section, and Cyber Encyclopedia), including some content from 2022 that still ranks in search. The team is currently in planning mode for 2026 and open to exploring new content formats beyond traditional blog posts. Access and integration challenges remain—particularly around GA4/Search Console connectivity and CMS publishing permissions—which will need to be resolved before content delivery begins.
+
+---
+
+## Relevance
+
+### To GrowthX Delivery
+
+- **5-cluster content strategy** positioned around jobs-to-be-done aligned to N-Able's products and market positioning—requires ongoing monitoring and refinement based on search/LLM performance tracking
+- **Hybrid content refresh approach**: decision matrix for when to refresh vs. rewrite existing content, with flagging of underperforming content for removal ("refresh and prune")
+- **Non-blog content exploration** (benchmarks, long-form resources) requires R&D on pipeline customization and asset creation workflows
+- **Cyber Encyclopedia separation**: Keeping "what is" definitional content separate from blog content—will inform similar client segmentation strategies
+- **SEMrush and Looker integration**: Setting up performance dashboards to track rankings by topic cluster; may surface insights on comparative efficacy of AI-written content
+
+### To CheckThat
+
+- **SEMrush API integration** for keyword volume extraction—opportunity to test CheckThat prompts on N-Able's keyword research and validate AI visibility scoring against real SERPs
+- **LLM content optimization**: Discussion of Claude's superior performance for writing and AI preference for recent content suggests validation opportunity for CheckThat's freshness signals
+- **Competitor gap analysis**: GrowthX conducted SEMrush analysis of ~12 N-Able competitors; could inform CheckThat's market coverage in cybersecurity/MSP verticals
+
+### To GrowthX Business Development
+
+- **Strong account momentum**: N-Able is committing to a multi-cluster, multi-month engagement with content delivery, dashboard setup, and resource sharing
+- **Expansion opportunity**: Non-blog content formats and potential expert review pipeline customization could increase scope and engagement value
+- **Access barriers flagged**: CMS access challenge may require escalation to N-Able security/legal team—early identification prevents delivery delays
+- **Reference potential**: If keyword research and initial content performs well, N-Able success case could demonstrate GrowthX's ability to support MSP/cybersecurity B2B demand generation
+
+---
+
+## Overview
+
+- GrowthX presented the Atlas platform's AI-powered content pipeline: Input → Brief → Research (Perplexity) → Outline → Draft (Claude) → Fact Check → Human Review, with SEMrush integration for keyword/competitor analysis and customizable steps (e.g., expert review, image generation)
+- Content strategy organized around 5 topic clusters: N-Central Remote Monitoring, MDR, Data Backup/Compliance, MSP Scaling, and Cyber Resilience Culture—designed to drive organic demand and support N-Able's shift toward cyber resilience positioning
+- N-Able to refresh outdated blog content (2022-era posts still ranking), prune underperforming content, and share lead generation data from blog/resources/Cyber Encyclopedia sections
+- N-Able open to exploring non-traditional formats (benchmarks, long-form resources, downloadable assets) beyond blog posts to create differentiated content
+- Access requests outstanding: Google Analytics 4, Google Search Console, and potentially CMS access for publishing (CMS access requires security/legal review per Nicholas Smarrelli)
+- Looker dashboard setup will monitor performance by topic cluster; keyword research starts end-of-week with content calendar and blog ideas delivered following week
+
+---
+
+## Key Topics
+
+### GrowthX Team Introduction
+
+  - Aida introduced as editorial account strategist, responsible for content strategy and primary point of contact
+  - Erik handles overall account management and strategy
+
+### Content Generation Process Overview
+
+  - Uses in-house Atlas platform with multiple AI models (Claude for writing)
+  - Pipeline: Input \> Brief \> Research \> Outline \> Draft \> Fact Check \> Human Review
+  - Incorporates SEMrush data for keyword/competitor analysis
+  - Can be customized based on client needs (e.g. adding expert review step)
+
+### Content Strategy Presentation
+
+  - 5 topic clusters aligned with N-Able products:
+    1.  N-Central Remote Monitoring
+    2.  MDR
+    3.  Data Backup/Compliance
+    4.  MSP Scaling
+    5.  Cyber Resilience Culture
+  - Mix of high/low volume keywords, focus on LLM visibility
+  - Open to feedback on clusters and content focus areas
+
+### Content Types and Distribution
+
+  - Primary focus on blog posts, but open to exploring other formats (e.g. long-form resources, benchmarks)
+  - N-Able team to clarify preferred content distribution (blog vs. resources vs. cyber encyclopedia)
+  - Discussion on potentially refreshing/pruning existing content
+
+### Image Assets for Content
+
+  - N-Able uses mix of custom graphics and stock photos for blog headers
+  - GrowthX can provide placeholder images if needed
+  - N-Able team to confirm internal process for image creation
+
+### Access and Workflow
+
+  - GrowthX requesting access to Google Analytics, Search Console
+  - CMS access to be clarified - N-Able prefers to handle publishing internally
+
+---
+
+## Action Items
+
+**Nicholas Smarrelli (N-Able)**
+- Review and provide feedback on GrowthX's draft content strategy doc within 1 week
+- Grant GrowthX access to Google Analytics and Search Console for Looker dashboard setup
+- Verify if CMS access for GrowthX was part of original contract; consult security/legal team
+
+**Andrew Proft (N-Able)**
+- Format and share lead generation data from resource section, blog, and cyber encyclopedia with GrowthX
+- Check internally for bank of visual resources to share with GrowthX; confirm if team wants to handle images themselves
+- Send recent topic research and next few months' content plans to GrowthX team
+
+**Elaine Duhaylungsod (N-Able)**
+- Share tracker sent to Pete and list of Cyber Encyclopedia topics with GrowthX team
+
+---
+
+## Transcript
+
+**Nicholas Smarrelli:** Doing all right.
+
+**Erik O'Brien:** How's your week going?
+
+**Nicholas Smarrelli:** We're moving.
+
+**Nicholas Smarrelli:** It's already Wednesday.
+
+**Erik O'Brien:** Is that right?
+
+**Erik O'Brien:** I have no idea what day it is.
+
+**Nicholas Smarrelli:** About to tell you all, we're like deep in 26 planning right now, trying to work through all of that.
+
+**Erik O'Brien:** So a little tricky.
+
+**Erik O'Brien:** Yeah.
+
+**Nicholas Smarrelli:** I believe two others should be coming from my side.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** I shared the agenda with you over email, so you should have access to it already.
+
+**Nicholas Smarrelli:** Let's make sure.
+
+**Aida Knezevic:** When did you send that?
+
+**Aida Knezevic:** Sorry?
+
+**Aida Knezevic:** Maybe 15, 20 minutes ago, but I'll drop it in the chat as well.
+
+**Nicholas Smarrelli:** Okay.
+
+**Nicholas Smarrelli:** Don't see it unless it ended up in my junk.
+
+**Aida Knezevic:** Yeah, should be like a Notion doc notification.
+
+**Nicholas Smarrelli:** Yeah.
+
+**Nicholas Smarrelli:** Yeah, gotcha, gotcha.
+
+**Nicholas Smarrelli:** Ah, yes, there it is.
+
+**Nicholas Smarrelli:** Cool.
+
+**Nicholas Smarrelli:** Andrew?
+
+**Andrew Proft:** Hello, everyone.
+
+**Aida Knezevic:** Hi.
+
+**Nicholas Smarrelli:** Cool.
+
+**Nicholas Smarrelli:** I think this will be it for the day, for us today.
+
+**Aida Knezevic:** All right, awesome.
+
+**Aida Knezevic:** So we have everyone here.
+
+**Aida Knezevic:** just wanted to introduce myself really quickly, because I wasn't at your kickoff call.
+
+**Aida Knezevic:** I'm Aida.
+
+**Aida Knezevic:** I'm an editorial account strategist at GrowthX.
+
+**Aida Knezevic:** With Erik, I build content strategies for our clients during the eight-week sprint.
+
+**Aida Knezevic:** I am responsible for setting up your content calendar, planning, like the blogs that we want to focus on for the initial, like, eight weeks.
+
+**Aida Knezevic:** And I also, you know, I'm your, like, primary point of call.
+
+**Aida Knezevic:** Contact for anything content-related.
+
+**Aida Knezevic:** So I joined GrowthX in December.
+
+**Aida Knezevic:** Before I joined GrowthX, I was a freelance content writer and marketer, and I've also worked at another content marketing agency.
+
+**Aida Knezevic:** I've worked with a lot of different B2B SaaS startups.
+
+**Aida Knezevic:** So, yeah, it's nice to meet everyone today.
+
+**Nicholas Smarrelli:** Awesome.
+
+**Nicholas Smarrelli:** Nice to meet you.
+
+**Nicholas Smarrelli:** Let just quickly give you the background over here.
+
+**Nicholas Smarrelli:** I manage the performance marketing team, so everything from paid search, SEO, paid social, the whole team.
+
+**Aida Knezevic:** Background's pretty heavy in paid search, but definitely familiar with SEO and the instant outs there.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** Perfect.
+
+**Aida Knezevic:** Yeah, it's great to meet everyone.
+
+**Aida Knezevic:** I'm going to share my screen so you can see the agenda.
+
+**Aida Knezevic:** I already saw that you were looking at the content strategy that we put together for you, but I wanted to kind of take a step back.
+
+**Aida Knezevic:** And share just a little bit of the update progress that we've made.
+
+**Aida Knezevic:** So we did share...
+
+**Aida Knezevic:** Three artifacts with you yesterday.
+
+**Nicholas Smarrelli:** These are just your company context, audience personas, and writing guidelines.
+
+**Nicholas Smarrelli:** I was wondering if you had any sort of high-level feedback to provide for us.
+
+**Nicholas Smarrelli:** Obviously, we'll be updating these on an ongoing basis.
+
+**Nicholas Smarrelli:** Yeah, initial input is that they look really good, very in-depth.
+
+**Nicholas Smarrelli:** I assume that was all taken from you all had the calls with the PMM team and with the brand team.
+
+**Aida Knezevic:** Is that correct?
+
+**Erik O'Brien:** Yes.
+
+**Erik O'Brien:** We've done the PMM, still need to schedule the brand team.
+
+**Erik O'Brien:** That's on me to follow up with them.
+
+**Nicholas Smarrelli:** Okay, cool.
+
+**Nicholas Smarrelli:** Yeah, mean, initial review, they look pretty thorough.
+
+**Nicholas Smarrelli:** I do want to get everybody's input over here.
+
+**Nicholas Smarrelli:** So I don't know when an ideal timeline for you all getting that back and getting approval on, but I was thinking a week or so, if that's reasonable.
+
+**Aida Knezevic:** Yes, that actually is perfect.
+
+**Aida Knezevic:** We want to get them in good shape before we start generating content, and we won't start generating content for at least another week.
+
+**Nicholas Smarrelli:** So that's a good time.
+
+**Nicholas Smarrelli:** Okay, cool.
+
+**Aida Knezevic:** Awesome.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** So, Erik shared a little bit about, like, why we use the artifacts and why they're important, but I also wanted to give you a walkthrough of your Atlas workspace so you can actually see why they're important and how we use them.
+
+**Aida Knezevic:** So, Atlas is a content generation platform that we built in-house.
+
+**Aida Knezevic:** We launched it about four months ago.
+
+**Aida Knezevic:** before this, we were using AirOps, and we've been, we're constantly making improvements and changes to it.
+
+**Aida Knezevic:** So, what you're seeing right now might get even better in, like, a couple of weeks from now.
+
+**Aida Knezevic:** But, yeah, this is, like, your workspace.
+
+**Aida Knezevic:** Right now, the interface is very simple, but we have these context artifacts right here, and we can update them whenever we need to.
+
+**Aida Knezevic:** So, we also have a version history, so we can revert back.
+
+**Aida Knezevic:** Back to previous versions that we find that a newer version isn't doing that good of a job and these the company context and the audience personas specifically they influence the content generation process from the very beginning and the writing guidelines are only applied at the article draft stage so I can actually walk you through the article generation pipeline that we have set up for you.
+
+**Aida Knezevic:** So it's made up of different components, so the way we, what we've done with the writing process is we've broken it up into individual chunks and it starts with an input which can be a single keyword or it can even be a title.
+
+**Aida Knezevic:** Typically we will use the title here and we provide not just a topic, but we also give it an assignment direction.
+
+**Aida Knezevic:** Now, because this is a test, I just added a very simple direction.
+
+**Aida Knezevic:** It's just one sentence about like just an informational blog post that explains cyber resilience.
+
+**Aida Knezevic:** Usually we will drop entire outlines here based on our own research of the top ranking content of your industry.
+
+**Aida Knezevic:** So this is a step where we spend a lot of time on because it allows us to get to really good drafts faster.
+
+**Aida Knezevic:** Once we provide the input, the article generation pipeline will generate a brief.
+
+**Aida Knezevic:** And this assignment brief step is connected to a SEMrush API.
+
+**Aida Knezevic:** The SEMrush API pulls, analyzes the top ranking content for that keyword.
+
+**Aida Knezevic:** It returns SEO metadata.
+
+**Aida Knezevic:** It analyzes the target audience.
+
+**Aida Knezevic:** And it also does a keyword analysis.
+
+**Aida Knezevic:** And it gives us insights into like the average word count.
+
+**Aida Knezevic:** What is the search intent?
+
+**Aida Knezevic:** And it also picks out related keyword opportunities that we should incorporate.
+
+**Aida Knezevic:** into the final draft to improve SEO and just make the content more comprehensive.
+
+**Aida Knezevic:** And this also is helpful for AI optimization, just to improve the comprehensiveness of the content.
+
+**Aida Knezevic:** At this stage, the workflow is also going to generate a proposed content structure, which we edit heavily.
+
+**Aida Knezevic:** So we provide an outline at the beginning, and that outline is already taken into account at the draft level.
+
+**Aida Knezevic:** Right now, it looks pretty, like, it's not edited by a human at all.
+
+**Aida Knezevic:** So it follows, like, a pretty formulaic structure.
+
+**Aida Knezevic:** But we will, you know, make any changes here.
+
+**Aida Knezevic:** We can provide additional input.
+
+**Aida Knezevic:** Yeah, sorry, go ahead, Andrew.
+
+**Andrew Proft:** Yeah, I just had a few questions.
+
+**Andrew Proft:** So you said that this product is something that you have built in-house.
+
+**Andrew Proft:** Is there a specific LLM that you've leveraged for this?
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Many.
+
+**Aida Knezevic:** I know from our dev team, they're using a combination of, like, a lot of different LLMs during the entire pipeline.
+
+**Andrew Proft:** We do use Claude to do the writing.
+
+**Aida Knezevic:** Yeah, we find that it performs best.
+
+**Andrew Proft:** Okay, great.
+
+**Andrew Proft:** And just one thing, just like a general note, you know, for an informational blog, we have a directory that we're calling our cyber encyclopedia that we kind of house what is content in, which is I think that something like this would fall under.
+
+**Andrew Proft:** So just a general thing to think about when we're, you know, moving forward with our content strategy that we typically keep content like that outside of the blog.
+
+**Aida Knezevic:** Yeah, yeah, that's one of the things I wanted to discuss today because we do, for every client that we start working with, we pull a list of URLs that are related to, like, blog posts.
+
+**Aida Knezevic:** And I did see you have resources, blogs, and the cyber encyclopedia.
+
+**Aida Knezevic:** So, okay, yeah, yeah, that makes sense.
+
+**Andrew Proft:** Okay, great.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** So, yeah, we'll, like, edit it here.
+
+**Aida Knezevic:** Once we're happy with it, we move to the research stage.
+
+**Aida Knezevic:** The research step, it uses, I think, perplexity, but it might also use different other research agents, and it uses the brief outline, and then it asks questions about the brief and gathers all of that information, all of those answers, in a very comprehensive research document that the LLM can refer to while writing the draft.
+
+**Aida Knezevic:** This ensures that the content is detailed, so it's not, like, surface level.
+
+**Aida Knezevic:** We also are working on an additional, like, even more improved pipeline that we are looking to roll out, and that has an even more advanced research step where the AI is evaluating its own research and, you know, like, labeling it as, like, on a scale of
+
+**Aida Knezevic:** One to five.
+
+**Aida Knezevic:** So whether it's providing the right sources, the right information based on criteria that we give it.
+
+**Aida Knezevic:** So we are kind of improving this step, like, right now.
+
+**Aida Knezevic:** So it might not look like this in the next couple of days.
+
+**Aida Knezevic:** Once, I mean, we don't really edit the research.
+
+**Aida Knezevic:** We move forward with the outline, which we also do another round of editing.
+
+**Aida Knezevic:** Once we're happy with the outline, we generate the article draft.
+
+**Aida Knezevic:** The content manager will also run the fact checker and the internal links.
+
+**Aida Knezevic:** And that's when we, that person will edit the final draft.
+
+**Aida Knezevic:** Then they will set it, send it to an editor who will do another round of human review.
+
+**Aida Knezevic:** And then we paste it in a Google Doc and send it to you.
+
+**Aida Knezevic:** We can also add an additional step at the end of this workflow that generates featured images for the blog.
+
+**Aida Knezevic:** So like the hero images, we can use AI for that.
+
+**Aida Knezevic:** We have in-house.
+
+**Aida Knezevic:** designers who can use your design assets and then create just an extra step at the end that generates images, but we can also discuss that later.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** Any questions about the pipeline?
+
+**Elaine Duhaylungsod:** Yeah, go ahead, Elaine.
+
+**Elaine Duhaylungsod:** Yeah, I'm just curious to know where is it pulling data to show the keyword volume?
+
+**Elaine Duhaylungsod:** Is there like a SEMrush integration?
+
+**Aida Knezevic:** So good question.
+
+**Aida Knezevic:** So the keyword volume is, yeah, there's a SEMrush API that's connected here from the assignment brief.
+
+**Aida Knezevic:** And it, for example, for Cyber Resilience Strategy, it's showing that it has like 210 monthly searches.
+
+**Aida Knezevic:** Yeah, but we also do, next week, I'm going to present you with your content calendar and the process of filling it.
+
+**Aida Knezevic:** Your content calendar is a lot more manual, and you will also see the search volume there and the keyword difficulty as well.
+
+**Elaine Duhaylungsod:** So we'll provide all of that information.
+
+**Elaine Duhaylungsod:** Okay, cool.
+
+**Andrew Proft:** Thanks.
+
+**Andrew Proft:** Just to follow up there too, I haven't worked with the SEMrush API too closely, but I know that they typically segment their databases by country.
+
+**Andrew Proft:** Do you know if the search volume metrics that are being shown there are just for the U.S., or is there a combination there?
+
+**Aida Knezevic:** Like, is there some way of having that be a global number, or?
+
+**Aida Knezevic:** I would wager this is probably the U.S., but I can check with our dev team if it's global, but I do think it's probably the U.S.
+
+**Andrew Proft:** That's my assumption too.
+
+**Aida Knezevic:** I just wanted to check.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Great.
+
+**Aida Knezevic:** So this is what the pipeline looks like.
+
+**Aida Knezevic:** This is what we're going to be using when we create your very first blog.
+
+**Aida Knezevic:** This is where we're going to create it, and yeah.
+
+**Aida Knezevic:** But, you know, you can look at this pipeline as kind of a starting point.
+
+**Aida Knezevic:** We can modify it depending on your needs.
+
+**Aida Knezevic:** So, for example, we might start generating content and you find that there are some things that are missing that someone who's a cybersecurity expert would provide in the content.
+
+**Aida Knezevic:** And then we can take your feedback and we can add an additional, like, expert review step that reads the draft flags, for example, any paragraphs that should be improved or, you know, provide, like, information that's too general or too abstract and then improves them.
+
+**Aida Knezevic:** So, anything, I mean, this is just, like, an example, but depending on, you know, the feedback that we get to the first couple of pieces that you give us, we can work with our dev team to further improve the pipeline.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** So if you don't have any other questions, I can kind of give you a quick overview of the draft content strategy that we put together for you.
+
+**Aida Knezevic:** So you can find it in our Notion space, but I've also linked it in our agenda.
+
+**Aida Knezevic:** So the idea for this content strategy, this is not the final version, so it's very much open to your feedback, for your thoughts.
+
+**Aida Knezevic:** I kind of gave it to kind of just set the stage.
+
+**Aida Knezevic:** did, you know, a quick breakdown of like why we're starting this engagement, what's important to make sure that we have the, we're building off of the same foundation.
+
+**Aida Knezevic:** So we understand that you are kind of undergoing like a shift in terms of your brand and your category.
+
+**Aida Knezevic:** You need to grow your MDR customer base and acquire more customers there.
+
+**Aida Knezevic:** And we also know that the market is crowded and complex.
+
+**Aida Knezevic:** I was doing a competitor gap analysis.
+
+**Aida Knezevic:** In SEMrush, and, you know, we have, I think, at least maybe close to a dozen different competitors that we analyze.
+
+**Aida Knezevic:** So it is a very big market to target.
+
+**Aida Knezevic:** And you also want to scale your internal content machine.
+
+**Aida Knezevic:** You want to add more, I think, from the kickoff call, you want to add more sort of top and middle of the funnel content that grows demand.
+
+**Aida Knezevic:** I know that you said that paid search is capturing the demand, but you actually want to create more of it with organic content.
+
+**Aida Knezevic:** And this strategy is based around different jobs to be done.
+
+**Aida Knezevic:** So I thought that that would be the easiest way for us to understand which products we want to prioritize with the content.
+
+**Aida Knezevic:** I did a quick analysis of your existing content.
+
+**Aida Knezevic:** So a lot of your content is product-centric.
+
+**Aida Knezevic:** But there is also the cyber encyclopedia, and there's also, I think, maybe not the blog content, but the resource content.
+
+**Aida Knezevic:** There's also a lot of SEO blog posts there about different topics related to cybersecurity.
+
+**Aida Knezevic:** So you already do have like a good foundation of content on your website.
+
+**Aida Knezevic:** And my suggestion is to also refresh articles that are relevant for our current strategy and kind of improve their rankings.
+
+**Aida Knezevic:** Because I did see you have blog posts from like 2022 that are still ranking.
+
+**Andrew Proft:** Go ahead, Andrew.
+
+**Andrew Proft:** Yeah, just was going to say, not a question, but feel perfectly, you know, definitely incorporate that into your approach.
+
+**Andrew Proft:** It's something we've discussed for quite some time about revisiting blog posts that are very old now at this point.
+
+**Andrew Proft:** Just, again, the resources that you allow us to, you know, have by our partnership is, that's great.
+
+**Andrew Proft:** So definitely feel free to include that in the.
+
+**Andrew Proft:** Yeah, the content strategy, we're completely open to that.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Perfect.
+
+**Aida Knezevic:** No, I mean, this is not just, you know, for SEO, but also LLMs.
+
+**Aida Knezevic:** They tend to prefer content that's relatively recent.
+
+**Aida Knezevic:** So, you know, considering you already have a lot of content on your website, we want to make sure that we're making the most out of it.
+
+**Aida Knezevic:** Some of them might not be even refreshes.
+
+**Aida Knezevic:** We might just rewrite them from scratch.
+
+**Aida Knezevic:** And this is something that we decide on a case by case basis.
+
+**Aida Knezevic:** So, if a blog post is already well optimized for SEO and just needs, you know, maybe additional sections, it needs, like, removing outdated information, we refresh it.
+
+**Andrew Proft:** But if it's a blog post that's quite short, was written by someone who was once, like, working at the company and, like, decided to write, like, a 500 blog post, then we might rewrite it.
+
+**Andrew Proft:** So that's kind of the approach we take to refreshes.
+
+**Andrew Proft:** But that's something that we're going to be talking about in more detail next week.
+
+**Andrew Proft:** Great.
+
+**Andrew Proft:** Okay.
+
+**Andrew Proft:** And if there are, when you're going through, if there are...
+
+**Andrew Proft:** Samples of blogs that are not providing value or are outdated to the point of potentially being detrimental, feel free to flag those as well.
+
+**Andrew Proft:** We're also interested in culling content that might not be doing much of anything for us at this point anymore.
+
+**Andrew Proft:** So if that's part of the process where you're going through that keep, refresh, rewrite entirely process, if blogs can be flagged that aren't doing anything, that would be amazing too.
+
+**Aida Knezevic:** Yeah, we can do that.
+
+**Aida Knezevic:** We've done that for clients before.
+
+**Andrew Proft:** It's kind of like a refresh prune approach.
+
+**Aida Knezevic:** Exactly.
+
+**Aida Knezevic:** Yep.
+
+**Aida Knezevic:** So one piece of information that I would need is just data on lead generation from the resource section, the blog, and also the cyber encyclopedia.
+
+**Aida Knezevic:** I know the cyber encyclopedia is new, so you might not have a lot of data on...
+
+**Aida Knezevic:** lead generation from that section, but the blog and other content, would love to have that.
+
+**Aida Knezevic:** It's helpful to decide what to prune, what to leave.
+
+**Andrew Proft:** Definitely.
+
+**Andrew Proft:** Yeah, I'll look into formatting that table.
+
+**Aida Knezevic:** Okay, perfect.
+
+**Aida Knezevic:** Awesome.
+
+**Aida Knezevic:** Okay, so yeah, going into the topic clusters that we're recommending.
+
+**Aida Knezevic:** So, I mean, this is a very, like, very old, not old, but it's a very popular SEO strategy, and we do it here as well, because we can produce content, high-quality content at scale, but we still want to make sure we're not, like, doing a spray-and-pray approach and, like, just targeting, like, we don't want to target, like, everything that your competitors are ranking for, because that's just not a good approach.
+
+**Aida Knezevic:** You know, we're going to miss unique angles, and, you know, we might end up creating content that, like, doesn't serve what you're trying to do, and it also makes it easier to monitor search and LLM performance.
+
+**Aida Knezevic:** We're going to be creating a looker.
+
+**Aida Knezevic:** Dashboard for you, and we're going to be monitoring the performance of individual clusters, so we can see which ones are doing better in search, and that kind of helps us kind of tailor our approach further on and like into the engagement.
+
+**Aida Knezevic:** And we can align clusters with your individual audience personas, business priorities, and in your case, products.
+
+**Aida Knezevic:** So it's easier just to prioritize content, and, you if you're like, okay, next month we really want to focus on like the data backup product, like we know, okay, this is a cluster that we need to populate, and it's just easier for organization.
+
+**Aida Knezevic:** We do want to include content at all stages of the funnel for all of these clusters, and I did improve example keywords for each cluster.
+
+**Aida Knezevic:** They are taken from SEMrush, so they have been like verified, they exist.
+
+**Aida Knezevic:** We do use AI to help out with like some seed keyword research, but again, the keyword research process is still very much.
+
+**Aida Knezevic:** Another thing that I wanted to flag is that we, so since the clusters will include content at different stages of the funnel, we will recommend doing a lot of listicles around like best of roundup posts or comparisons or alternatives blog posts.
+
+**Aida Knezevic:** And I know that sometimes some companies, they don't want to do them or they feel like they don't want to be mentioning their competitors at all on their website, which is totally understandable and fair.
+
+**Aida Knezevic:** However, LLMs are citing these blog posts heavily.
+
+**Aida Knezevic:** And the good thing about these blog posts is that you're kind of giving LLMs a talking script for how to reference your product, especially in relation to your competitors.
+
+**Aida Knezevic:** So they are very valuable.
+
+**Aida Knezevic:** We've had clients who, you know, had their competitors publish blog
+
+**Aida Knezevic:** Blog posts about their platform and, you know, said some pretty like damaging things about their platform and it was getting picked up by LLMs and then we had to kind of pivot and they were like, no, we actually need to do a bunch of these to kind of offset the messaging that their competitor had injected into LLMs with their blogs.
+
+**Aida Knezevic:** So it's just, just wanted to throw that out there as you're kind of reviewing the content calendar next week.
+
+**Aida Knezevic:** There will be a lot of these types of blogs.
+
+**Andrew Proft:** Yeah, go ahead, Andrew.
+
+**Andrew Proft:** Yeah, that's a great call out.
+
+**Andrew Proft:** Definitely something that we have, I would say, avoided in the past.
+
+**Andrew Proft:** I think LLMs definitely introduce another element, especially if they're using those sources as, you know, authoritative options when choosing how to surface that content about, you know, products that are not your own or, you know, if a competitor wrote something about ours that wasn't necessarily true, those sorts of things.
+
+**Andrew Proft:** So like, I, I'm
+
+**Andrew Proft:** I'm more open to it now, I suppose, than I have been in the past.
+
+**Andrew Proft:** What would be helpful for me?
+
+**Andrew Proft:** Do you have a few examples that you can send our way of pieces of content that you've done that follow that structure?
+
+**Andrew Proft:** I'd just be curious to see, you know, what they've ranked for and, you know, maybe test the LLMs myself to see, like, how they pull content from those pieces.
+
+**Aida Knezevic:** I think that'd be helpful for validating that within the strategy.
+
+**Aida Knezevic:** Yeah, yeah, sure.
+
+**Aida Knezevic:** I think, yeah, we can send over a couple of examples.
+
+**Aida Knezevic:** And then, I mean, we have actually, we don't use the article generation pipeline for those blogs.
+
+**Aida Knezevic:** We have a dedicated, like, comparison if we're doing versus blogs.
+
+**Aida Knezevic:** So we will use a separate pipeline for that.
+
+**Aida Knezevic:** And for those types of blogs, we like to set up a product feature matrix.
+
+**Aida Knezevic:** So it's like an additional artifact where we, like, list all.
+
+**Aida Knezevic:** All of your features, like in all of the messaging that's important for your platform, and then we will also cover your direct competitors.
+
+**Aida Knezevic:** And that's where we can like provide, you know, like angles, like what they do well, what they don't do as well.
+
+**Aida Knezevic:** So that's kind of how we are able to control the output so that it's not accidentally making your competitors look better in the output.
+
+**Andrew Proft:** But yeah.
+
+**Andrew Proft:** Okay.
+
+**Andrew Proft:** So makes perfect sense.
+
+**Andrew Proft:** And if you may have seen some of these when you were pulling URLs, but we don't have tons of them yet, but I just put an example of one of our one-to-one comparison pages in the chat so you can see the approach that we've taken in the past for, you know, versus queries.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Did you send it to everyone in the chat?
+
+**Andrew Proft:** Oh, I messaged the note taker.
+
+**Andrew Proft:** I messaged the note taker.
+
+**Aida Knezevic:** That's not helpful for everyone.
+
+**Aida Knezevic:** Yeah, I actually.
+
+**Aida Knezevic:** Also sent the agenda earlier today, and it ended up being delivered to the notetaker, which is annoying.
+
+**Andrew Proft:** Sorry about that.
+
+**Andrew Proft:** We're a Teams internal company, Microsoft everything, so I'm a little bit not the most versed with Zoom.
+
+**Aida Knezevic:** Yeah, I'm a Google Meet person.
+
+**Aida Knezevic:** Okay, yeah.
+
+**Andrew Proft:** They're all just a little bit different, too, which is fun.
+
+**Aida Knezevic:** Yeah, yeah, yeah.
+
+**Aida Knezevic:** All right, cool.
+
+**Aida Knezevic:** I'll take a look at that page.
+
+**Aida Knezevic:** And get you some feedback.
+
+**Aida Knezevic:** All right, so just to cover the clusters really quickly.
+
+**Aida Knezevic:** So we have five clusters.
+
+**Aida Knezevic:** They're not ranked in order of importance or priority.
+
+**Aida Knezevic:** The order is random.
+
+**Aida Knezevic:** So the first one is focused on the N-Central Remote Monitoring and Management product.
+
+**Aida Knezevic:** You can see the audience that we are targeting here.
+
+**Aida Knezevic:** I know that mid-market enterprises are 20% of your audience right now, but you are looking to.
+
+**Aida Knezevic:** Grow it.
+
+**Aida Knezevic:** So we can recommend articles that are more targeted towards this audience if this is still a priority for you.
+
+**Aida Knezevic:** I did share a little bit of the content focus for this cluster, but this is obviously, these are just suggestions.
+
+**Aida Knezevic:** So if you want to provide additional inputs, feel free to leave comments or just write directly in this document.
+
+**Aida Knezevic:** We have some keyword examples here.
+
+**Aida Knezevic:** So for example, like Endpoint Automation Solutions.
+
+**Aida Knezevic:** Again, like these are like the more like LLME blog posts that are Roundup based.
+
+**Aida Knezevic:** Some of these keywords are, we try to, I try to provide a list of keywords that are a mix of higher and lower search volume.
+
+**Aida Knezevic:** I mean, the lower search volume ones are also great for LLM visibility and it helps us just rank very quickly.
+
+**Aida Knezevic:** But your website also has good domain authority.
+
+**Aida Knezevic:** So we can also target higher volume keywords and, you know, shouldn't have issues ranking.
+
+**Aida Knezevic:** effective thing.
+
+**Aida Knezevic:** in the
+
+**Aida Knezevic:** First page.
+
+**Aida Knezevic:** The first, the second cluster would be focused on the MDR product, and we were going to focus a lot of keyword research for this cluster.
+
+**Aida Knezevic:** So the audience that we'd be targeting are MSPs and MSSPs that are adding MDR to their service catalog, but also mid-market security and IT leaders who don't have in-house analysts, and they're looking for a solution that they can use for detection and response.
+
+**Aida Knezevic:** And I have to say, the clusters are based around the products, and then the content focus is built around the different product features.
+
+**Aida Knezevic:** So this allows us to kind of create content that we can always link directly back to your product features.
+
+**Aida Knezevic:** And, you know, it allows us to organically mention Enable in the content that we create.
+
+**Aida Knezevic:** Which, you know, it's different compared to producing like more top of the funnel content where it might be very separated from, you know, the product that we want to suggest.
+
+**Aida Knezevic:** The third one is related to data, the data production, the data backup product.
+
+**Aida Knezevic:** So it would center around data backups and compliance for MSPs, but also IT and compliance leaders.
+
+**Aida Knezevic:** Again, the content focus is built around the different product features, like backup and compliance alignment, data security and sovereignty, like ransomware and recovery trends.
+
+**Aida Knezevic:** So it is covering a range of different topics within a cluster that's focused primarily on data backup and compliance.
+
+**Aida Knezevic:** The fourth one is, might not be as big of a priority for you.
+
+**Aida Knezevic:** I do know that you already have some content around this cluster, which...
+
+**Aida Knezevic:** Which is, you know, how to scale profitably as an MSP.
+
+**Aida Knezevic:** So it's more, might not even be that related to cybersecurity, but it might be, we might be like providing content around how to retain customers, how to lower payment processing costs.
+
+**Aida Knezevic:** Which again, might not be like a super high priority, but we did want to throw it out there.
+
+**Aida Knezevic:** And the last one is actually a really important one.
+
+**Aida Knezevic:** So it's focused on building a culture of cyber resilience.
+
+**Aida Knezevic:** I know that you're repositioning right now as a cyber resilience platform, and this one targets like the enterprise leaders.
+
+**Aida Knezevic:** I've already noticed from the competitor gap analysis that I was doing that some of your competitors, I forget which ones exactly, but I did see one or two are already publishing content around cyber resilience.
+
+**Aida Knezevic:** So we do, I would recommend tackling this type of content.
+
+**Aida Knezevic:** right.
+
+**Aida Knezevic:** Thank you.
+
+**Aida Knezevic:** right away so that we can kind of start building this out.
+
+**Aida Knezevic:** I know that you have a cyber resilience page on your website that we could already link to, which is great.
+
+**Aida Knezevic:** So we can already start building authority in this cluster.
+
+**Aida Knezevic:** The search volumes here are like mid to low, but again, it's important for your positioning.
+
+**Aida Knezevic:** And yeah, go ahead, Andrew.
+
+**Andrew Proft:** Yeah, just wanted to reinforce that resiliency is a big topic that we're not just trying to approach from like an organic angle.
+
+**Andrew Proft:** It's also like what we're leaning for, leaning with our brand in that direction.
+
+**Andrew Proft:** So, you know, not just cyber resiliency, but endpoint data resiliency, like all of those sorts of things.
+
+**Andrew Proft:** So if that can work into this cluster too, just additional food for thought, that that's like a very big brand, like enable brand focus, and how we're positioning our company.
+
+**Aida Knezevic:** Mm-hmm.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Great.
+
+**Aida Knezevic:** No, I mean, I'm definitely open to feedback and, like, feel free to leave comments here.
+
+**Aida Knezevic:** Do you guys have any other questions just related to the clusters, the approach?
+
+**Andrew Proft:** Only other one for me is, so are, the way that you're thinking about this, are these all blog type content or is there others that might be, you know, a better fit for our resource catalog or I'm just trying to, you know, there's a difference between blog content and then, like, lead magnet-esque content, so I didn't know what your approach has been for other clients in the past and if typically most of the content produced ends up in the blog.
+
+**Aida Knezevic:** Yeah, so, so far we have primarily focused on blogs, however, if you do have additional content needs, you know, you're welcome to share them, and then we can talk with our dev team and see what we can do.
+
+**Aida Knezevic:** you.
+
+**Aida Knezevic:** I think it's just a matter of seeing if we can build a pipeline that can do that type of content in a way that doesn't require you to provide a lot of input or a lot of human editing.
+
+**Andrew Proft:** So if you have any suggestions, we're happy to discuss.
+
+**Andrew Proft:** Sure.
+
+**Andrew Proft:** Yeah, no, it sounds good.
+
+**Andrew Proft:** Yeah, I just, I can see blogs being effective in like a, you certain content length, but I also know that like a very long form resource that could be shared amongst our customer base, you know, there's also value there.
+
+**Andrew Proft:** So I just didn't know what, you know, typically the approach was you've taken in the past.
+
+**Aida Knezevic:** Yeah, no, I mean, we've kind of really nailed down blogs.
+
+**Aida Knezevic:** The thing with long form content and white papers is that I have read, not white paper, I mean, we haven't done white papers for clients or any type of long form content.
+
+**Aida Knezevic:** I have read long form content and I could tell it was written.
+
+**Aida Knezevic:** By AI, because I have written like white papers for clients in the past.
+
+**Aida Knezevic:** And one thing where LLMs struggle with is weaving like a single thought or insight throughout the content without being repetitive.
+
+**Aida Knezevic:** And I've read a white paper recently that was like I could tell it was written by an LLM because it would keep repeating the same point over and over again.
+
+**Aida Knezevic:** it kind of felt a little bit repetitive.
+
+**Aida Knezevic:** So that's something that we would have to solve for, just kind of like connecting the dots and providing like 4,000, 5,000 words, but still like making sure that every section is unique and kind of stands on its own ground.
+
+**Andrew Proft:** Makes perfect sense.
+
+**Andrew Proft:** Yeah, I was looking back at a few of the, you know, initial ideas that were pitched when we were going through the contract phase.
+
+**Andrew Proft:** And I was just, you know, again, curious about, there was an idea.
+
+**Andrew Proft:** For mid-market security trends and benchmarks, security transformation stories, like those are really good ideas in my head as they don't feel like blog pieces.
+
+**Andrew Proft:** So it's just, again, something to think about when we're considering where we live.
+
+**Aida Knezevic:** Okay, yeah, yeah.
+
+**Aida Knezevic:** Those are good suggestions.
+
+**Aida Knezevic:** I think, Erik, we can talk about this with Andy.
+
+**Erik O'Brien:** Yeah, I think, yeah, if there's specific, like, proprietary or unique data that you guys have that could kind of tell those stories, then that's something that we could definitely ingest and run within more of, like, a programmatic SEO play.
+
+**Erik O'Brien:** So I think that's probably some of the ideas that were shared during the sales and kind of contracting phase.
+
+**Erik O'Brien:** But, yeah, those are definitely something we can explore.
+
+**Andrew Proft:** Great.
+
+**Andrew Proft:** Yeah.
+
+**Andrew Proft:** And again, you know, we'll defer to your expertise.
+
+**Andrew Proft:** And what the opportunity looks like, but just wanted to, again, state that we're open towards, you know, other pieces of content.
+
+**Andrew Proft:** That are like that.
+
+**Andrew Proft:** And I know that ideas such as those were, you know, very, it was a big part of the reason why we like, you know, ended up wanting to have a business partnership together.
+
+**Aida Knezevic:** Like they're, they're great ideas and looking forward to seeing everything that we, we do together.
+
+**Aida Knezevic:** Yeah, yeah, for sure.
+
+**Aida Knezevic:** And I know that you already have published some gated resources that with like benchmarks.
+
+**Aida Knezevic:** So I think we can use those in the existing content, especially if have any like unique, like proprietary data, that's going to be helpful because the content that performs really well with LLMs is content that references data.
+
+**Aida Knezevic:** So anything that we could use there is good.
+
+**Andrew Proft:** Great.
+
+**Andrew Proft:** Yeah, we have a few very recent reports that we, you know, ran independent research alongside of, you know, a well-regarded firm.
+
+**Andrew Proft:** In our space.
+
+**Andrew Proft:** So yeah, there's, there's lots of good nuggets of information we can pull from a few.
+
+**Andrew Proft:** Like our recent cyber report, and I forget what the exact name of the other one was, but we can get that over to you.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** Thank you.
+
+**Aida Knezevic:** Okay, so I wanted to, we have around 10 minutes left, so I'm open to any sort of questions that you might have, or we can jump to talking about the image and setup, or I can walk you through your scrunch.
+
+**Aida Knezevic:** Dashboard.
+
+**Nicholas Smarrelli:** No preference on mine?
+
+**Nicholas Smarrelli:** Mm-hmm.
+
+**Elaine Duhaylungsod:** All good.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** All right, I wanted to really quickly, let me take a look at your website again.
+
+**Aida Knezevic:** So, yeah, we do want to get the ball rolling on, um,
+
+**Aida Knezevic:** Like featured images as soon as possible because we do want to also start publishing, you know, as soon as possible and featured images can sometimes be an unexpected blocker and we are happy to provide them, even if it's a placeholder that you replace, but, you know, I'm looking at, so I'm in resources right now.
+
+**Aida Knezevic:** So let's go to, I think if I go to your, okay, let's go to your blog.
+
+**Aida Knezevic:** So I'm like seeing different type of, different types of imagery.
+
+**Aida Knezevic:** So some of it is based on illustrations, graphics, but I also see like some photography.
+
+**Aida Knezevic:** So do you have any like visual assets that you could share with us around like your brand guidelines and, and anything like that in like a Figma file or a Google Drive folder?
+
+**Andrew Proft:** I'm sure we do.
+
+**Andrew Proft:** Typically, there's a unique blog header image.
+
+**Andrew Proft:** Some of them aren't sized perfectly, as we see right there.
+
+**Andrew Proft:** But, you know, there's assets that our creative team works with.
+
+**Andrew Proft:** And, you know, that's typically the one requirement for blogs.
+
+**Andrew Proft:** I can check internally to see if there's, like, you know, a bank of resources that could be shared for that kind of thing.
+
+**Andrew Proft:** We also need to see, I think, internally, if that's something we want to include within the process.
+
+**Andrew Proft:** Like, our team might think that they could handle the images on their own.
+
+**Andrew Proft:** So we'll try and iron that out, too.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** No, because, yeah, I think this is, yeah, these are stock images.
+
+**Aida Knezevic:** So there's a mix there.
+
+**Aida Knezevic:** mean, we're also happy just to use stock images and, you know, as a placeholder.
+
+**Aida Knezevic:** And then your team can go in.
+
+**Andrew Proft:** And once they have a design ready, they can replace it.
+
+**Andrew Proft:** Okay.
+
+**Aida Knezevic:** Okay, let me check the cyber encyclopedia.
+
+**Aida Knezevic:** Okay, this is very, like, this is all text, so no images here.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** One thing I also wanted to clarify is, are you using an internal content calendar?
+
+**Aida Knezevic:** And if yes, could we get access to it?
+
+**Aida Knezevic:** Since we're going to be starting keyword research for you this week, and we just want to make sure that we're not suggesting anything that you're already planning to publish.
+
+**Andrew Proft:** I wish we could say yes.
+
+**Andrew Proft:** Elaine has tried to start getting something going for a blog, but we typically have played more of a supporting role where content is provided to us that we then help to, or Elaine now mostly, helps to review and optimize for search.
+
+**Andrew Proft:** So, if we could get...
+
+**Andrew Proft:** Choose something that had, like, the next few months planned?
+
+**Andrew Proft:** Would that be, like, is anything helpful, or would we need to look more long-term to, for it to be valuable?
+
+**Aida Knezevic:** No, I mean, you know, the next couple of months would be, actually, be perfect.
+
+**Aida Knezevic:** So that's, that's enough, because we also provide, like, the first batch of ideas that we provide, we usually send, send around 40 or 50 blog ideas at a time.
+
+**Andrew Proft:** So that, that would be good.
+
+**Andrew Proft:** Okay.
+
+**Andrew Proft:** Elaine, you know, correct me if I'm wrong, but I think we can feel comfortable sending over what you had provided in terms of recent topic research.
+
+**Andrew Proft:** Just know, for the GrowthX team, that this won't encompass everything in the pipeline for blog, unless we can get that from the specific blog manager.
+
+**Andrew Proft:** Like, this is really areas of focus.
+
+**Andrew Proft:** I'm rambling.
+
+**Andrew Proft:** Basically, we helped to provide topics that, you know, we think could supplement the existing blog content.
+
+**Andrew Proft:** Content.
+
+**Andrew Proft:** That being said, it's not everything that they're planning on doing.
+
+**Aida Knezevic:** So we can at least send that in the short term.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Yeah, that works too.
+
+**Elaine Duhaylungsod:** Yeah, I we can provide the tracker that we sent to Pete.
+
+**Elaine Duhaylungsod:** And then I can also give you the list of topics lined up for Cyber Encyclopedia.
+
+**Elaine Duhaylungsod:** But also just to clarify, we're moving away from doing Cyber Encyclopedia articles, right?
+
+**Elaine Duhaylungsod:** That's still, okay.
+
+**Elaine Duhaylungsod:** All right.
+
+**Aida Knezevic:** Yeah, I mean, the Cyber Encyclopedia, from what I'm seeing right now, it's all like what is content, which we will not be.
+
+**Aida Knezevic:** Outside of like maybe cyber resilience, which you would have to have like a definitional blog post, but everything else is going to be like more, this is very like general.
+
+**Andrew Proft:** All right.
+
+**Andrew Proft:** Exactly.
+
+**Andrew Proft:** And that's perfectly fine.
+
+**Andrew Proft:** And I think that having cyber resilience...
+
+**Andrew Proft:** It's outside of the encyclopedia, especially as this is a new, a very new niche, like you were saying, compared, you know, with the search volume numbers there.
+
+**Andrew Proft:** I think having like a foundational blog post to speak to a newer topic is a better place for that.
+
+**Aida Knezevic:** Okay, cool.
+
+**Aida Knezevic:** So, yeah, just to reiterate, so our next steps are going to be, so feel free to leave any feedback on the strategy, like the content focus areas.
+
+**Aida Knezevic:** We're going to start doing keyword research towards the end of this week.
+
+**Aida Knezevic:** And then next week, we're going to come back to you with a content calendar with some blog ideas for you to review and kind of tell us if we're headed in the right direction, provide feedback there.
+
+**Aida Knezevic:** We're also going to look into doing additional non-blog ideas, like you suggested.
+
+**Aida Knezevic:** So we're going to, Erik and I are going to discuss this internally to see what kind of pipelines we can set up for you.
+
+**Aida Knezevic:** And I'm also going to brainstorm some assets that we could create for you.
+
+**Aida Knezevic:** They're not traditional blog posts, but are still valuable enough for someone to download because we do want to provide like something like super unique so that people want to download it.
+
+**Aida Knezevic:** So that's going to be on my to-do list.
+
+**Aida Knezevic:** We have set up Scrunch.
+
+**Aida Knezevic:** I think I can show that to you next week just to monitor your AI visibility.
+
+**Aida Knezevic:** We're also going to be setting up your Looker dashboard for performance monitoring.
+
+**Aida Knezevic:** And yeah, so those are, that's our to-do list for the next couple of days.
+
+**Erik O'Brien:** And Nick, I don't know if you got that email I sent over yesterday for the access to like Google Analytics Search Console and CMS.
+
+**Nicholas Smarrelli:** I don't know if I did, to be honest with you.
+
+**Erik O'Brien:** Okay.
+
+**Erik O'Brien:** Yep.
+
+**Erik O'Brien:** So those are, we just need access to the, at least Google Search Console and Google Analytics to set up the Looker dashboard and then CMS prior to us being able to publish.
+
+**Nicholas Smarrelli:** I see it here.
+
+**Erik O'Brien:** Cool.
+
+**Nicholas Smarrelli:** Was you guys getting CMS access part of the original contract?
+
+**Nicholas Smarrelli:** Like, was that language in the contract?
+
+**Erik O'Brien:** I would have to check on that.
+
+**Nicholas Smarrelli:** Okay.
+
+**Nicholas Smarrelli:** Because I was not aware of that.
+
+**Nicholas Smarrelli:** And I would have a really hard time believing that our security and legal team signed off on that.
+
+**Nicholas Smarrelli:** I would imagine my understanding was that it was going to go from you all to us where we would publish.
+
+**Aida Knezevic:** Okay.
+
+**Erik O'Brien:** Yeah, we'll double check.
+
+**Erik O'Brien:** We'll double check.
+
+**Erik O'Brien:** But I think either way, we have other clients that do the same.
+
+**Erik O'Brien:** So whatever is most comfortable for your kind of your security team is what we can work with.
+
+**Nicholas Smarrelli:** Okay.
+
+**Nicholas Smarrelli:** Yeah, sounds good.
+
+**Erik O'Brien:** Wonderful.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Cool.
+
+**Aida Knezevic:** Well, thank you very much for your time.
+
+**Aida Knezevic:** I'll be on the lookout for your comments.
+
+**Nicholas Smarrelli:** And, yeah, I'll see you next week.
+
+**Andrew Proft:** Cool.
+
+**Andrew Proft:** Thanks, Thanks, all.
+
+**Aida Knezevic:** Bye.
+
+**Aida Knezevic:** See ya.
+
+**Aida Knezevic:** Bye.

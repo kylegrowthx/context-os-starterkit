@@ -1,0 +1,1022 @@
+# Prophecy <> GrowthX Weekly Syncs
+
+<metadata>
+date: 2025-07-02
+time: 16:59 UTC
+duration: 32 minutes
+organizer: Ehtisham Hussain
+participants: Darrell Etherington, Ehtisham Hussain, Cody Carmen, Matt Turner
+fathom_recording_id: 71869284
+fathom_url: https://fathom.video/calls/340439853
+share_url: https://fathom.video/share/LD9PRyfmtuT61nsiZBQ7ux9uu2ssBcgz
+source: fathom
+enriched_on: 2026-03-03 02:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Prophecy aligned on the evolution of Prophecy's positioning from "data transformation co-pilot" to "AI native analytics and automation platform," discussing the shifting buyer landscape toward analytics leads who own end-to-end data processes rather than siloed technical roles. The team detailed content strategy progress (6 pre-approved articles, 3 delivered, 2 live) with steady traffic growth, and committed to implementing a weekly featured blog process to support demand generation campaigns, starting in early July with a first campaign piece built from their "AI native analytics" e-book.
+
+---
+
+## Context
+
+Prophecy is a data integration and analytics platform undergoing rapid positioning evolution in response to market shifts. GrowthX is supporting them with content marketing and positioning strategy. This is a recurring weekly sync where the two teams align on content deliverables, discuss messaging strategy, and plan distribution channels. The broader context is the fundamental shift in how enterprise data teams are organized: moving away from siloed technical specialists toward "hub and spoke" models where analytics leaders and business units share more ownership of data processes, enabled by tools that democratize data access while maintaining governance. This shift is changing not just Prophecy's product story, but also the types of buyers they need to reach and the content strategies that resonate with those buyers.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Insight into how fast positioning can shift in technical B2B spaces and the importance of content that addresses governance/self-service tradeoffs. Darrell noted that this level of messaging volatility is unprecedented from a marketing perspective — a key case study for how to build flexible, layered positioning (stable core product story + adaptable outer messaging). The "balance between self-service and governance" is a core narrative thread worth developing across other clients.
+
+- **To GrowthX Business Development:** Prophecy's expansion motion and willingness to invest in content/demand generation signals strong growth trajectory. Willingness to commit to weekly featured content process starting in July shows they're operationalizing distribution channels beyond organic. Relationship is warm and collaborative (newsletter strategy discussion, offer of insider expertise from Darrell's TechCrunch/Shopify background).
+
+- **To CheckThat:** Discussion of AI-native positioning, data democratization, and governance as core buyer concerns all reflect the AI visibility landscape. Prophecy's adoption of "AI native" language and focus on how AI enables self-service within guardrails is relevant to how B2B buyers are thinking about AI adoption across functions.
+
+---
+
+## Overview
+
+- Prophecy has evolved positioning to "AI native analytics and automation platform", reflecting broader industry shifts
+- Focus on balancing self-service and governance in messaging, addressing data democratization challenges
+- Plans to improve content distribution through targeted campaigns, social media, and potentially newsletters
+- Aim to select 1-2 featured articles weekly for broader promotion and sales enablement
+
+---
+
+## Key Topics
+
+### Positioning and Messaging Evolution
+
+  - Shifted from "data transformation co-pilot" to "data integration platform" to current "AI native analytics and automation platform"
+  - Core product stable, but outer messaging layer adapting rapidly to market changes
+  - Analytics now refers to end-to-end data process, not just analysis/BI
+  - Emphasizing balance between self-service and governance
+
+### Customer Landscape Changes
+
+  - Trend towards hub-and-spoke model in organizations for data management
+  - Buyers shifting from siloed technical roles to higher-level analytics leads
+  - Increased acceptance of data complexity and need for flexible solutions
+  - Challenge: enabling data democratization while maintaining governance
+
+### Content Strategy and Distribution
+
+  - Currently relying heavily on SEO for blog content
+  - Plans to improve internal sharing and social media distribution
+  - Considering newsletter and/or blog roundup email
+  - Aim to select 1-2 featured articles weekly for broader promotion
+  - Developing process to create additional collateral (LinkedIn posts, sales enablement) for featured content
+
+### Performance and Next Steps
+
+  - Traffic showing steady upward trend
+  - Working on 6 pre-approved articles, 3 delivered for review last week
+  - 2 articles staged for publishing this week
+  - Plan to start new featured content process next week, with first campaign piece in July
+  - Will use "Main Index Select" field in content planning doc to flag featured articles
+
+---
+
+## Action Items
+
+**Cody Carmen (Prophecy)**
+- Schedule time w/ Darrell Etherington (GrowthX) to discuss newsletter strategy & best practices
+
+- Coordinate w/ Matt Turner on weekly blog feature selection; ensure post gets highlighted internally & on social
+
+- Add extra "payload" to featured blog posts (campaign context, LinkedIn post draft, data leader/analyst blurbs)
+
+**Matt Turner (Prophecy)**
+- Implement process to select & feature 1 blog post/week; include in campaign/outbound sequences
+
+- Identify first blog post for new featuring process next week
+
+- Schedule longer meeting time for next week's sync
+
+---
+
+## Transcript
+**Ehtisham Hussain:** I haven't tried it, but I feel like there's AI upon AI upon AI and everything now.
+
+**Ehtisham Hussain:** There is, yeah.
+
+**Darrell Etherington:** I would be curious because, I mean, that would solve a lot of problems if the one is very effective.
+
+**Ehtisham Hussain:** Yeah, exactly.
+
+**Ehtisham Hussain:** It's built in.
+
+**Darrell Etherington:** I think I let it do.
+
+**Darrell Etherington:** Let's see.
+
+**Darrell Etherington:** I'll try it on this one.
+
+**Darrell Etherington:** We'll see how it goes.
+
+**Darrell Etherington:** How was the early week?
+
+**Ehtisham Hussain:** Hey, Cody.
+
+**Ehtisham Hussain:** Hi.
+
+**Cody Carmen:** Sorry.
+
+**Cody Carmen:** I forgot that sometimes Google Meet mutes you and you enter if there's already like four people in.
+
+**Cody Carmen:** Hey, guys.
+
+**Cody Carmen:** How are you?
+
+**Darrell Etherington:** Good, good, good, good.
+
+**Darrell Etherington:** Yeah, like I was up early in the week because we, the Canadian holiday is yesterday.
+
+**Darrell Etherington:** gotcha.
+
+**Darrell Etherington:** Yeah, yeah, yeah.
+
+**Darrell Etherington:** Yeah, we have similarly timed independents, I guess.
+
+**Darrell Etherington:** Ours is that too, but ours was just like politely asking the queen, like, can we go do our own thing?
+
+**Darrell Etherington:** She was like, sure, yeah, yeah.
+
+**Darrell Etherington:** Yeah, it's been long enough, yeah.
+
+**Darrell Etherington:** Yeah.
+
+**Cody Carmen:** You guys, you know, maybe if we could just ask nicely, things would have gone different, but.
+
+**Darrell Etherington:** Different time, yeah.
+
+**Darrell Etherington:** Yeah, thanks for sending all this over, this was super helpful.
+
+**Darrell Etherington:** I'm glad.
+
+**Darrell Etherington:** Yeah, like, especially the, I mean, the e-book thing that you guys have is like, very substantive, so that.
+
+**Cody Carmen:** Yeah, Matt and I were chatting, and we're like, instead of trying to translate all of that over, let's just make a copy of that document and send it to them.
+
+**Cody Carmen:** So, yeah, yeah, because I think we'll probably, like, I don't know if you had a chance to look at the artifacts that Ehtisham sent over, but.
+
+**Darrell Etherington:** So, uh
+
+**Cody Carmen:** I mean, based on this, I did a super quick skim and I'm like, most of that's great, but let's just add some new and then, you know, that'll, that'll get us going.
+
+**Cody Carmen:** Yeah.
+
+**Cody Carmen:** I think Matt will still be joining in just a second.
+
+**Cody Carmen:** Yeah, he doesn't, he often manages to join.
+
+**Cody Carmen:** Um, okay.
+
+**Darrell Etherington:** Yeah, that's what I was thinking.
+
+**Darrell Etherington:** I will take that.
+
+**Darrell Etherington:** We don't throw it entirely because it seems like there's still a lot of good relevant stuff in there, but we'll make sure that it's aligned with reality with what you're actually doing.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** Yeah.
+
+**Cody Carmen:** I think that's the way to think about it.
+
+**Cody Carmen:** Um, and you know, I can, I can start kind of explaining, um, you know, I know you guys have gotten the download on your end and, you know, I'm sure, you know, Rebecca and Mara explained that, you know, when you, when we started working together, we were the data transformation co-pilot.
+
+**Cody Carmen:** then in March, we became, we, we started the shift towards, uh, like data.
+
+**Cody Carmen:** integration platform, and we have our 4.0 launch.
+
+**Cody Carmen:** have recently, I don't know if we're technically calling it a 4.1 or if it's a functional 4.1.
+
+**Cody Carmen:** Nothing in the product has really changed all that much, although software always changing, et cetera.
+
+**Cody Carmen:** But we are now rolling with, let me make sure I get it 100% right.
+
+**Cody Carmen:** I'm still training myself.
+
+**Cody Carmen:** So now if you look at our homepage, we're the AI native, you know, analytics and automation platform.
+
+**Cody Carmen:** Yes.
+
+**Cody Carmen:** Does that mean anything technically different?
+
+**Cody Carmen:** No.
+
+**Cody Carmen:** So our stance on a lot of like data integration topics hasn't really changed.
+
+**Cody Carmen:** ETL hasn't overall changed really.
+
+**Cody Carmen:** We still think that, you know, the TLDR is legacy tools, at least at enterprise scale, are not good at doing what you need to, you know, to wrap it, enable like, you know, rapid self-service.
+
+**Cody Carmen:** That's why prophecy.
+
+**Cody Carmen:** We are, you know, we have bounced around, obviously, with name conventions a little bit on what that is.
+
+**Cody Carmen:** But, you I think one thing that's really worth noting from that e-book we dropped off, and I think I left a comment or two in the doc that I shared, was that with that AI native, like, analytics and automation approach in particular, and not only referring to ourselves as data integration, I think it's really worth noting that analytics as a term has kind of shifted towards the end-to-end data process.
+
+**Cody Carmen:** And analytics used to often mean data analysis, BI.
+
+**Cody Carmen:** Now we're thinking a lot more along the lines of analytics is often the whole process.
+
+**Cody Carmen:** There might be an analytics lead who's owning something like this.
+
+**Cody Carmen:** There might be multiple teams owning it as an enterprise.
+
+**Cody Carmen:** But, you know, that's largely when we say analytics platform, we are thinking that end-to-end approach, and we are enabling that, you know, analysis and, you know, data viz, all of that down.
+
+**Cody Carmen:** We're enabling the AI and, you know, ML models downstream.
+
+**Cody Carmen:** So, you know, is that technically any different than we were with the data integration platform?
+
+**Cody Carmen:** Probably not, but a little bit of messaging around that, you know, has changed.
+
+**Cody Carmen:** Yeah, that makes sense.
+
+**Cody Carmen:** I think it makes sense to me too.
+
+**Darrell Etherington:** You're like, you're positioning differently for like a slightly different audience because I think like the thing and what you just said that is particularly insightful to me is like the customer is changing because it used to be a much more distributed function and like the customer side is thinking about like actually like what we used to think of as a bunch of siloed things can be handled by maybe one buyer and they're not necessarily like the traditional more technical folks, but they are enabled by a lot of these tools to own more of the process as opposed to just one small slice of it, right?
+
+**Darrell Etherington:** Yeah, I think so.
+
+**Cody Carmen:** And there's times still where we're going to a central data platform later and there's times where we're going to be going into someone, with a high ranking.
+
+**Cody Carmen:** Analytics title, we're still influencing data analysts and business analysts and data engineers, and they're going to influence the deals.
+
+**Cody Carmen:** So all of that kind of framework on who the audience is that you guys have, I think is still, at least for now, functional in the end of the show.
+
+**Cody Carmen:** Matt, would you add anything to that?
+
+**Matt Turner:** So I haven't had a chance to go through your docs.
+
+**Matt Turner:** I pretty much shared the Dummy's book and then a few of our more recent blogs.
+
+**Cody Carmen:** And the homepage.
+
+**Cody Carmen:** Yeah.
+
+**Matt Turner:** Cool.
+
+**Matt Turner:** Yeah, I think we've probably, looking at the personas, we want to try to keep it simple, and we are converging stuff, but just coming back to what's changing with the customers.
+
+**Matt Turner:** So, yeah, it's been an evolution over the last three years around even more.
+
+**Matt Turner:** mean, this has been going on for 30 years.
+
+**Matt Turner:** There's data warehousing, operational databases, data warehousing, you know.
+
+**Matt Turner:** data.
+
+**Matt Turner:** And now everybody's kind of on the same page that this isn't a us-or-them scenario anymore, that technology is pervasive in the organization.
+
+**Matt Turner:** And central teams are now about enabling, and so you'll see it in governance, you'll see it in quality, you'll see it in even like what Databricks is trying to do, you know, and we're sort of following the, we're following maybe even a little bit leading some of the platform guys, because they can kind of rely on that.
+
+**Matt Turner:** Okay, at some point it's going to be big enough and we're going to talk to one person.
+
+**Matt Turner:** But actually, any reasonable organization has tens of these instances, often started by the line of business people.
+
+**Matt Turner:** So that perspective that, okay, it's pervasive in the organization, it's critical to the organization, and we need it to be managed and correct, is this balance between the central.
+
+**Matt Turner:** So we're back, so you can kind of see our messaging working in layers.
+
+**Matt Turner:** We're back to self-service and governance.
+
+**Matt Turner:** We're back to data transformation and a...
+
+**Matt Turner:** AI, which is where a lot of that, so if you look at a lot of the original artifacts we gave you guys, was data transformation co-pilot.
+
+**Matt Turner:** It was very much describing the function of the thing, which is crazy how fast things are changing.
+
+**Matt Turner:** It felt great a year ago.
+
+**Matt Turner:** Yeah, yeah.
+
+**Matt Turner:** Yeah, like that was a year ago, right?
+
+**Matt Turner:** Well, then we need to think about that because it has, what's really critical about that?
+
+**Matt Turner:** Well, self-service and governance are, all of a sudden we're getting all these people, we're going to layer up in that.
+
+**Matt Turner:** Native AI analytics is the top, is the latest kind of wrapping on it, but everything is kind of inside.
+
+**Matt Turner:** But it is responding pretty quickly to that change in the, at the customers where we're looking for those buyers.
+
+**Matt Turner:** Where before, we, if you're talking native co-pilot, we were, we had this experience of changing data engineer job.
+
+**Matt Turner:** And we were right in the room and we were like, you got to change your job.
+
+**Matt Turner:** But that was only like, it turned out to be a slice.
+
+**Matt Turner:** And as we got going and learning from our customers.
+
+**Matt Turner:** I mean, can list them off, like, you know, Ruffloran, HSBC, every single one of those started with that conversation, actually became this other conversation of, you know what, we want to hang on to this control, but we need to enable thousands of people to get data.
+
+**Matt Turner:** Right, right.
+
+**Matt Turner:** And so that's, anyway, story short, you're exactly right on to it.
+
+**Matt Turner:** We're all riding a wave of change.
+
+**Matt Turner:** The product in our core stuff is going to be more stable than our outer layer.
+
+**Matt Turner:** Yeah.
+
+**Darrell Etherington:** Well, I mean, that's good, right?
+
+**Darrell Etherington:** Like, that seems like a good place to be if the foundations are stable throughout, and then you do the outside changes.
+
+**Darrell Etherington:** It is, but it's a little inverse what you would be comfortable with in a traditional marketing.
+
+**Matt Turner:** You know, you want to set something and be really consistent, and consistency is key.
+
+**Matt Turner:** turns out, no, it doesn't work, because if you're consistent on something that doesn't make any sense, you're screwing yourself.
+
+**Matt Turner:** Yeah, yeah.
+
+**Darrell Etherington:** I mean, yes, I think this is unprecedented from like a marketing perspective in terms of how quickly that the message to market changes.
+
+**Darrell Etherington:** And how quickly something becomes irrelevant or sounds outdated or, you know, like out of step with the current vibes.
+
+**Cody Carmen:** I joined Prophecy March 17th and we're on our third positioning.
+
+**Cody Carmen:** So, you know, so outer layer, outer layer.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** Stable core.
+
+**Darrell Etherington:** Self-service data prep is still in there somewhere.
+
+**Cody Carmen:** there you go.
+
+**Cody Carmen:** And I feel like we've been we've been sort of I don't know, that's a big thing about acceptance.
+
+**Matt Turner:** I don't know if, you know, the idea of acceptance, like, you know, the stoic stuff, like the world is that.
+
+**Matt Turner:** So there's been a lot of that in the data world recently because the original data idea is we're going to solve this thing.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** We're going to get the single version of the truth.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** We're going to get out there.
+
+**Matt Turner:** We're going to nail it.
+
+**Matt Turner:** Like, and that's what warehousing ran up against and failed.
+
+**Matt Turner:** And what the data duplication and data lakes ran up against and failed, and the data lakehouse failed.
+
+**Matt Turner:** And so there's been this little period of acceptance of being like, actually, the world is really, really horribly complex.
+
+**Matt Turner:** Fires come from all over the place, and we're not going to be able to control that.
+
+**Matt Turner:** I think a lot of what the AI stuff is doing is just pointing out that you can do it.
+
+**Matt Turner:** Like, you can have this flexibility.
+
+**Matt Turner:** So the changing is happening, but it's also this perspective of kind of acknowledging the space we're in.
+
+**Matt Turner:** Those currents have been there, but they just suddenly came to the front once anybody could open.
+
+**Matt Turner:** I mean, you literally can just take a dump of Excel, put it in ChatGPT, and have charts like to maybe an hour.
+
+**Matt Turner:** It might take an hour.
+
+**Matt Turner:** Yeah.
+
+**Darrell Etherington:** Yeah, I think that is what's changed.
+
+**Darrell Etherington:** Like, now we're realizing you don't have to do the big monolithic solve.
+
+**Darrell Etherington:** Like, you're just like, oh, we can actually, now these tools have enabled us to be able to move fast enough to be adaptable to every need for every audience.
+
+**Matt Turner:** But they're rooted in the governance and the stability of the central team because there's this need for that.
+
+**Matt Turner:** Our buyers are, so we're kind of teaching these buyers who are like, I don't to touch it.
+
+**Matt Turner:** Well, actually, you have to touch it, but you need to do it in this.
+
+**Matt Turner:** So we're.
+
+**Matt Turner:** That, that, that, because if it was just fine, then we'd all be out of business.
+
+**Matt Turner:** Yeah, right, right, Right, but you can't have it.
+
+**Matt Turner:** So then I'm trying to tell you our core story, which is a self-service governance thing.
+
+**Matt Turner:** We're fitting it under this AI native thing, and we want to, we want to actually give you guys an exercise about, about what you, Cody, probably you saw the beginning of that book.
+
+**Matt Turner:** We're fitting it under that because the impact of it is so much broader.
+
+**Matt Turner:** Wait, there's one more thing about the governance.
+
+**Matt Turner:** Yeah, so the data leaders who kind of get it, that's what we've heard.
+
+**Matt Turner:** That's what I've heard over the last two years is people coming, and they're not like, I want to change my team.
+
+**Matt Turner:** Like, I want to change the whole org.
+
+**Matt Turner:** I want to change the whole org.
+
+**Matt Turner:** We're going to go, and it's, it's been happening.
+
+**Matt Turner:** You want to go to a hub and spoke thing where we have things here, but they're principles.
+
+**Matt Turner:** I don't know if you remember the data, if you guys are up in Data Mesh.
+
+**Matt Turner:** Data Mesh Ideas.
+
+**Matt Turner:** Okay, Data Mesh Ideas is like, it was, it was way out.
+
+**Matt Turner:** It was like four years ago, all of a sudden, everybody's talking about a cultural change where there's lots and lots of data and people just publish in a mesh.
+
+**Matt Turner:** So nobody owns everything.
+
+**Matt Turner:** Nobody centrally owns one thing.
+
+**Matt Turner:** Everybody owns their own piece.
+
+**Matt Turner:** A little bit too much, probably.
+
+**Matt Turner:** But there's a different version of that, which is hub and spoke, which is there's a team in here.
+
+**Matt Turner:** But that team, that team just set standards, sets concepts.
+
+**Matt Turner:** You know, they're not actually enforcing stuff because the finance team does their stuff.
+
+**Matt Turner:** But the finance team, because they're part of this, they can share stuff with the production team or the shipping team.
+
+**Matt Turner:** so hub and spoke is kind of the...
+
+**Matt Turner:** Anyways, there's a lot to talk about with this stuff.
+
+**Matt Turner:** And we want to...
+
+**Matt Turner:** I guess we're trying to give you guys an update on the pieces.
+
+**Matt Turner:** What was the...
+
+**Matt Turner:** There's one more piece of this thing.
+
+**Matt Turner:** Oh, right.
+
+**Matt Turner:** The single version of the truth.
+
+**Matt Turner:** It got so bad where there's actually a movie with puppets called Journey to the Center of the It's single version of a a single truth.
+
+**Darrell Etherington:** Well, I need to find this.
+
+**Darrell Etherington:** Yeah, well, you want...
+
+**Matt Turner:** I'll put...
+
+**Matt Turner:** The movie's never actually going to get made.
+
+**Matt Turner:** It's this guy who's an ex-Gartner analyst decided that he was going to do this with puppets.
+
+**Matt Turner:** And it is really funny.
+
+**Matt Turner:** And it actually sets the stage for a lot of people to, a lot of people now in the data are like, we're just relaxed.
+
+**Matt Turner:** Kind of post that, we're going to solve it.
+
+**Matt Turner:** We're going to meet people where they are and put tools in the hands of people.
+
+**Matt Turner:** And so that whole democratization thing is coming true, but not in the like very academic way.
+
+**Matt Turner:** It's just like a practical thing.
+
+**Matt Turner:** Right.
+
+**Darrell Etherington:** Right.
+
+**Darrell Etherington:** You know, and we're suffering from it.
+
+**Matt Turner:** I mean, we're now setting off on a whole thing where we're trying to, we're in our team.
+
+**Matt Turner:** We're like, we're like six people with no data.
+
+**Matt Turner:** And we're like, you know what?
+
+**Matt Turner:** Let's start this process.
+
+**Matt Turner:** Let's go get a database and just start doing our own reporting.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** We had a similar, I mean, we just.
+
+**Darrell Etherington:** I can't imagine what it looks like you guys internally.
+
+**Matt Turner:** Oh, mean, internally right now here.
+
+**Matt Turner:** Yeah.
+
+**Darrell Etherington:** Huge mess.
+
+**Darrell Etherington:** But I mean, even when I was at Shopify, large database organization.
+
+**Darrell Etherington:** It was always the fight, and we were always trying to do this, but nobody had the language to talk about it.
+
+**Darrell Etherington:** And this was six, seven years ago, right?
+
+**Darrell Etherington:** And then now, it's because we were seeking that one perfect bullet solution, because that was the moment everybody was looking for that.
+
+**Darrell Etherington:** Right, right, right.
+
+**Darrell Etherington:** Yeah, journey to the center of the single version of the truth.
+
+**Matt Turner:** Okay, I got it.
+
+**Matt Turner:** I'll get it for you in a minute.
+
+**Matt Turner:** It's just terrible.
+
+**Matt Turner:** It's a good...
+
+**Matt Turner:** Anyway, so long story short, Cody, you said you went into their docs.
+
+**Matt Turner:** I haven't had time to, but I do think that's a very important thing to do.
+
+**Cody Carmen:** I outlined more things that I think, Matt, I probably shared with you.
+
+**Cody Carmen:** And then, yeah, I guess the only other thing that I've really emphasized is that with that, like, everyone's striving for data democratization, striving for self-service.
+
+**Cody Carmen:** Context is often helpful to sprinkle into the content we're working on.
+
+**Cody Carmen:** The consequences of doing this, you know, if you don't try...
+
+**Cody Carmen:** You know, do the self-serve thing.
+
+**Cody Carmen:** you don't try to, you know, basically increase speed is, you know, it's the classic bottleneck problem.
+
+**Cody Carmen:** No one gets their, no one, like data doesn't get to people who need it in time.
+
+**Cody Carmen:** You don't end up making data-driven decisions.
+
+**Cody Carmen:** You don't have access to data, so you can't do it.
+
+**Cody Carmen:** Or if it's, or if you go too fast without the governance, the story we kind of tell is the classic, you know, ungoverned data has costs, has like financial costs associated with it, with models spiraling by control and queries and compute costs.
+
+**Cody Carmen:** You have security issues with like, you we work a lot like healthcare and finance companies that have like PII issues and all that.
+
+**Cody Carmen:** But then also you run into data quality issues.
+
+**Cody Carmen:** And then the real thing with data quality isn't just that you make the wrong decision once.
+
+**Cody Carmen:** It's that you stop trusting the data so you don't try to make data-driven decisions in the future.
+
+**Cody Carmen:** Bad data culture.
+
+**Cody Carmen:** Like data culture can be bad for a bunch of reasons.
+
+**Cody Carmen:** But the last thing you need is like downstream business units saying, I don't trust the data.
+
+**Cody Carmen:** So I'm going to like do it on.
+
+**Cody Carmen:** tuition.
+
+**Cody Carmen:** You know, so that's a lot of the kind of like context we kind of sprinkle into a lot of the pieces that we really like to, you know, when we think about making content feel real and accessible and not just factually correct, examples around that tend to, I think, resonate at least with our team.
+
+**Cody Carmen:** I mean, as you said, it resonated with me immediately.
+
+**Darrell Etherington:** Like all of what you just described was the Shopify problem, right?
+
+**Darrell Etherington:** And then you're like, okay, well, but it sounds like what you're arriving at is like, hey, these things, it's not an either or.
+
+**Darrell Etherington:** Like you, you, them both in a generative pension that serves all stakeholders best.
+
+**Darrell Etherington:** Yeah, I like that.
+
+**Matt Turner:** Yeah, there's a lot of, yeah, we're the, the, that's why governance and self-service are a nice, again, lower in our sort of platform.
+
+**Matt Turner:** Um, yeah, it's, there's a long story about something called polarities, but it's, it's a go fast to go, go slow to go fast.
+
+**Matt Turner:** There are lots of things like that.
+
+**Matt Turner:** Um, that can be fun to talk about, but, but that actually have real meaning in this context.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** Yeah.
+
+**Ehtisham Hussain:** Require a lot of feedback in order of revisions, but we will ramp up and we will pick up pace this week and the next.
+
+**Ehtisham Hussain:** We are working on six pre-approved articles here.
+
+**Ehtisham Hussain:** We delivered three articles for review last week.
+
+**Ehtisham Hussain:** have stage two publishing as well.
+
+**Cody Carmen:** I believe we did get those two that are staged published this week.
+
+**Cody Carmen:** I can confirm that, but those should be live now.
+
+**Cody Carmen:** Yeah, yeah, I saw at least one of them.
+
+**Ehtisham Hussain:** Awesome.
+
+**Ehtisham Hussain:** And the traffic seems to be going up.
+
+**Ehtisham Hussain:** It's a nice little upward trend.
+
+**Ehtisham Hussain:** There was a kind of like an abnormal spike over here, but other than that, the overall trend is steady.
+
+**Ehtisham Hussain:** going up.
+
+**Ehtisham Hussain:** The views are going up.
+
+**Ehtisham Hussain:** The clicks are going up.
+
+**Ehtisham Hussain:** So overall, things are holding steady.
+
+**Ehtisham Hussain:** Nothing new or dramatic to report.
+
+**Ehtisham Hussain:** I did have some questions, though, about.
+
+**Ehtisham Hussain:** Distribution.
+
+**Ehtisham Hussain:** So currently, how are you guys distributing the content that we are publishing?
+
+**Ehtisham Hussain:** Is it just, are we relying heavily on SEO?
+
+**Ehtisham Hussain:** Or are you guys doing a newsletter?
+
+**Ehtisham Hussain:** Do you have a sales team?
+
+**Ehtisham Hussain:** Are you handing it to your sales team?
+
+**Cody Carmen:** Overall, most of the blogs were relying heavily on SEO.
+
+**Cody Carmen:** We are trying to do a little bit better job of highlighting the, you know, out of every batch, we're trying to send at least one usually kind of door featured section.
+
+**Cody Carmen:** It's kind of our favorite of them that we think is going to resonate the most.
+
+**Cody Carmen:** So one, sometimes that one is getting shared internally.
+
+**Cody Carmen:** That is a process that we're going to in the coming, I'd say sometime this month, we're trying to kind of, like, scale that internally where we can do a better job sharing, hey, here is the new content that is worth looking at.
+
+**Cody Carmen:** Right now, is not, and occasionally those are getting thrown out on, like, social, on, like, the corporate...
+
+**Cody Carmen:** LinkedIn or something like that, but that is not a consistent process yet.
+
+**Cody Carmen:** It's something we're working on.
+
+**Cody Carmen:** As far as the newsletter, we are kicking around the idea right now of a newsletter.
+
+**Cody Carmen:** We're kicking around the idea of a kind of separate like blog roundup that like Databricks does a really nice job of like, you know, every week or two, they shoot out like their top five blogs in the last, you know, whatever time period.
+
+**Cody Carmen:** So we do want to, you know, kind of operationalize the process of getting this out into email as well, whether that is in just a newsletter, and we pick just a couple of them, and it goes out monthly, or if it's a newsletter plus a blog roundup that goes out a little bit more frequently, it's a little bit lower lit.
+
+**Cody Carmen:** But, you know, that is, that is, that's an upcoming task for us, but it is not, it's not yet.
+
+**Darrell Etherington:** Yeah, I think, I think it's good to have that, but it's just, I don't know if you're going to address this, but like, you know, it's just generally trend wise, we're seeing the more distribution channels that you can own the better, right?
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** You know, everyone's search, Google search to zero, right?
+
+**Darrell Etherington:** It was like the, the trend.
+
+**Darrell Etherington:** So we do recommend that.
+
+**Darrell Etherington:** And if you have, if you would like opinions on like the newsletter for any stuff, like I have experience building those out for TechCrunch and we did ones that were like destination driven and we did ones that were like conversion driven, right?
+
+**Darrell Etherington:** Like, yeah, like link.
+
+**Darrell Etherington:** Yeah, I would, I would love any, any insights on, on that.
+
+**Cody Carmen:** And maybe we can spend a few minutes on the next call or something chatting newsletter.
+
+**Cody Carmen:** But yeah, it's been, it's been a while since I've had to assemble a newsletter.
+
+**Cody Carmen:** And I want to, I want to think about something that for our, you know, our leads in particular, that is going to drive so much actual value for them.
+
+**Matt Turner:** So the, the, yeah, the short answer is no, right?
+
+**Matt Turner:** We haven't done anything.
+
+**Matt Turner:** We're trying to get this going.
+
+**Matt Turner:** I actually think there, we do have a process to identify one a week.
+
+**Matt Turner:** So Cody, mentioned this.
+
+**Matt Turner:** I just want to pull this thread out.
+
+**Matt Turner:** Our current idea that we didn't execute exactly once a week, but we're going to because we really need to, is we would sort of like look at it and this one would go on the index.
+
+**Matt Turner:** was supposed to be a LinkedIn post.
+
+**Matt Turner:** And that was about it.
+
+**Matt Turner:** And so even if that, let's just assume that really didn't happen.
+
+**Matt Turner:** But programmatically, that's actually something we do want to take on where we don't not only look at what's being generated, but actually go like, look at the schedule.
+
+**Matt Turner:** So I think there, I think if I'm right, we sort of do a topic that becomes a blog that gets published.
+
+**Matt Turner:** We're sort of like on a three week window.
+
+**Matt Turner:** And so we want to do is get in the topic thing and say this topic, either you've surfaced one or we've seen one.
+
+**Matt Turner:** One that's going to become that one.
+
+**Matt Turner:** And then our destination for it is we're making, we're trying to structure things a lot more in our outbound demand and demand.
+
+**Matt Turner:** So our destination is that it won't only just get natural organic traffic, we'll actually put it into the sequences, it'll become a piece of content that's specifically a funnel for this message, for this audience.
+
+**Matt Turner:** And we're going to write out, and this is where we can collaborate, but we want to write out that brief that tells people how to use the content.
+
+**Matt Turner:** Yeah, yeah.
+
+**Matt Turner:** And so that's, I think that's probably, and I know newsletter sounds great, but I also know it's going to take a while.
+
+**Matt Turner:** this is not taking a while.
+
+**Matt Turner:** This is like, in the current cycle, we want to start doing that.
+
+**Darrell Etherington:** Yeah, so you want to just kind of like, like, multi-channel takeout cutdowns of all the stuff, like, relevant to particular topics for the week, that then you can have your distributors that are not reading it.
+
+**Matt Turner:** No, no, no, we're thinking, okay, we're still going to write articles.
+
+**Matt Turner:** Yeah, yeah.
+
+**Matt Turner:** One of those articles is going to be selected as going into what you would say the campaign.
+
+**Matt Turner:** Gotcha, okay.
+
+**Matt Turner:** So it'll get organic, which is, hey, we're going to do some LinkedIn posts about it, but it's actually.
+
+**Matt Turner:** We're going to get pushed potentially with LinkedIn ads and everything else.
+
+**Matt Turner:** Okay, yeah.
+
+**Matt Turner:** Because we do a lot of pay right now, and it's relying on this kind of hodgepodge of content, and we don't want to redo all the old stuff.
+
+**Matt Turner:** We want to go forward, and so we want to use this mechanism to put stuff out there.
+
+**Matt Turner:** I mean, I'll just say, yeah, you're looking at where we are.
+
+**Matt Turner:** What we have in mind to kick it off is take a slice out of that dummies book and make a piece of content about AI native analytics.
+
+**Matt Turner:** What is it?
+
+**Matt Turner:** Oh, it's really important.
+
+**Matt Turner:** Where are some proof points?
+
+**Matt Turner:** Well, guess what?
+
+**Matt Turner:** At the summit, Jamie Dimon from JPMC said, this is part of everybody's life.
+
+**Matt Turner:** It's too important to lead to the technologists.
+
+**Matt Turner:** What does that mean?
+
+**Matt Turner:** Well, it means that analytics is really important for everybody.
+
+**Matt Turner:** Here are five things you need to do.
+
+**Matt Turner:** Democratize it, make sure it's secure, blah, blah, blah.
+
+**Matt Turner:** I just wrote the blog post in my head.
+
+**Matt Turner:** But it's more, no, but it is more important.
+
+**Matt Turner:** So we want to, you know, I don't want to just be casual about that, but there are ideas like that.
+
+**Matt Turner:** And so we want to introduce that process.
+
+**Matt Turner:** So kind of more than just one feature blog, it's a feature blog that also is helping the management.
+
+**Matt Turner:** Yeah, that makes ton of sense.
+
+**Matt Turner:** I like it more and more.
+
+**Darrell Etherington:** I want us internally to be thinking about, like, all of these things should be collateralized in whatever destination clients want.
+
+**Matt Turner:** Like, that is the real value of this thing.
+
+**Matt Turner:** And we should be able to build that into the product.
+
+**Darrell Etherington:** And we are working on building that into the product.
+
+**Matt Turner:** and so what that says, though, is that we've been looking at those three to six a week as being building the SEO base.
+
+**Matt Turner:** Not as, it's really great this way.
+
+**Matt Turner:** I mean, there's editorial questions and value questions.
+
+**Matt Turner:** know, like, there's a really great article, which is, like, the top skills for a data analyst.
+
+**Matt Turner:** But there are 20 of them, or 11, actually.
+
+**Matt Turner:** And that makes total sense.
+
+**Matt Turner:** But that's not something that we want to float in front of somebody.
+
+**Matt Turner:** We want to do top three things, you know, to impress your boss.
+
+**Matt Turner:** So we're going to be sharp.
+
+**Matt Turner:** So, but that's a collective effort.
+
+**Matt Turner:** And then I, but I think we need to do both.
+
+**Matt Turner:** So, so, so, Thank
+
+**Matt Turner:** And so it means paying a little bit more attention to the topics, the articles, but reasonably within what we can handle.
+
+**Matt Turner:** So one or two a week is kind of what we didn't exactly execute on one, so we're trying to make the commitment that we're going to execute so we can start this next week.
+
+**Matt Turner:** And then I think, Cody, you had it right.
+
+**Matt Turner:** The first one of these things will go out in July.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** So we'll identify something next week and do that.
+
+**Matt Turner:** Okay, cool.
+
+**Matt Turner:** And I don't know how to work that into what you guys want as a process.
+
+**Matt Turner:** Cool.
+
+**Matt Turner:** I think it'll be a easier once we have the first one.
+
+**Darrell Etherington:** There's a couple examples to work backwards from, and then we can say, like, we can actually probably, like, make this another just output destination of this for specific ones that we tag.
+
+**Darrell Etherington:** And then hopefully it'll be lower left for everybody.
+
+**Darrell Etherington:** But, yeah.
+
+**Matt Turner:** Yeah, right now we were, right now if you go to the left, there's a in main index select field.
+
+**Matt Turner:** Yep.
+
+**Ehtisham Hussain:** So when you look at the index...
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** And made the login like this one.
+
+**Matt Turner:** So that was kind of our tag for the one that we were featuring in one way.
+
+**Matt Turner:** And I think, you know, we just want to make more of that, which is those articles need a little bit of extra payload so they can be properly put into the context of this campaign.
+
+**Matt Turner:** They also need a LinkedIn, but we need to make it super easy for our execution team.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** They need a LinkedIn post, this or that.
+
+**Ehtisham Hussain:** Yeah, have LinkedIn formatters.
+
+**Ehtisham Hussain:** Oh, go ahead, Ehtisham.
+
+**Ehtisham Hussain:** Yeah.
+
+**Ehtisham Hussain:** So I was saying you guys can just mark it over here, like in this column.
+
+**Ehtisham Hussain:** We can just use it as our North Star for seeing which of the casuals articles are going to be featured on LinkedIn.
+
+**Ehtisham Hussain:** And then we can include the LinkedIn post in the document as well that you can, you know, just use and just copy.
+
+**Ehtisham Hussain:** And we We can can use it.
+
+**Ehtisham Hussain:** Or just tweak a little bit.
+
+**Ehtisham Hussain:** Yeah, if you find there...
+
+**Matt Turner:** We have a recipe.
+
+**Matt Turner:** Yeah, we want a LinkedIn post, data leader.
+
+**Matt Turner:** So coming back, using some of the stuff, a data leader post, an analyst post, you know, like a blurb.
+
+**Matt Turner:** We haven't done our own, so I think we won't try to run right now today.
+
+**Matt Turner:** But let's use that mechanism, and then we can just monitor it, like, next week.
+
+**Matt Turner:** Unfortunately, the reason I'm mentioning that is that we were cut from another call, and we've got to get back on a fire here.
+
+**Matt Turner:** I hate to do all this right before the vacation, but that's what it It's your vacation.
+
+**Matt Turner:** Me and Ehtisham are here, so don't worry about it.
+
+**Matt Turner:** You guys are working all the way through July 4th.
+
+**Darrell Etherington:** I'm Canadian, and Ehtisham's in Pakistan.
+
+**Darrell Etherington:** I'm from Pakistan, yeah.
+
+**Ehtisham Hussain:** Oh, all right.
+
+**Ehtisham Hussain:** Yeah, all right.
+
+**Matt Turner:** Yeah, you guys still have that royalty thing going on up north.
+
+**Matt Turner:** That's right.
+
+**Darrell Etherington:** This is the only holiday that I can make fun of other countries.
+
+**Matt Turner:** Also, no one else does.
+
+**Matt Turner:** Yeah.
+
+**Matt Turner:** So, like, every other holiday, you guys are like, we have a bank holiday.
+
+**Matt Turner:** It's true.
+
+**Matt Turner:** Like, had Tuesday off.
+
+**Matt Turner:** Like, you know, Tuesday, my kid is in the camp, and she arrives on Canada Day every day.
+
+**Matt Turner:** So that's the only one I can say that for.
+
+**Matt Turner:** Enjoy.
+
+**Matt Turner:** The other one is Cody and I are, no, Cody's in Montana.
+
+**Matt Turner:** If you guys are, if this isn't a great time, are you really, Ehtisham, you're really coming in from India?
+
+**Matt Turner:** I'm from Pakistan.
+
+**Matt Turner:** Like, I'm based in Pakistan.
+
+**Ehtisham Hussain:** It's a good time for me.
+
+**Ehtisham Hussain:** It's, like, 10.30 p.m., but I usually work.
+
+**Ehtisham Hussain:** So, yeah, these are my working hours.
+
+**Ehtisham Hussain:** Yeah, I'm happy to be flexible.
+
+**Matt Turner:** I know how the different parts of the world go.
+
+**Matt Turner:** So, okay.
+
+**Matt Turner:** Well, much more to do, but nothing, no dramatic changes this week.
+
+**Matt Turner:** We'll pick up that idea with you guys next week.
+
+**Matt Turner:** Yeah, that sounds great.
+
+**Matt Turner:** All right.
+
+**Matt Turner:** Cody, any other, was there any other hot things on that table?
+
+**Matt Turner:** I don't think so.
+
+**Matt Turner:** I'm sure we'll surface some more, and, you know, you guys can always get a hold of us and Slack and vice versa if there's any questions.
+
+**Matt Turner:** If you want to do a longer meeting next week, just find, you can go forward from this time or back.
+
+**Matt Turner:** Let me schedule some more time.
+
+**Matt Turner:** I think we're just going to, you know, as we kind of work in, we're going to need a little bit more time.
+
+**Matt Turner:** And I'm happy to make these not only just update, but get into some of these working.
+
+**Matt Turner:** Yeah, yeah, yeah, we can add some time.
+
+**Darrell Etherington:** And, yeah, and I'll take away, don't worry about going too much into depth in those artifacts, because based on the feedback you provided, we'll like flush them out already and then look at them.
+
+**Darrell Etherington:** Oh, okay.
+
+**Matt Turner:** All right.
+
+**Matt Turner:** So we'll do another run.
+
+**Matt Turner:** Okay, great.
+
+**Matt Turner:** Yep.
+
+**Matt Turner:** All right.
+
+**Matt Turner:** Thanks a lot.
+
+**Matt Turner:** Thanks, guys.
+
+**Matt Turner:** Later, guys.
+
+**Matt Turner:** Happy 4th of July.
+
+**Ehtisham Hussain:** Thanks, Dave.
+
+**Ehtisham Hussain:** Bye.

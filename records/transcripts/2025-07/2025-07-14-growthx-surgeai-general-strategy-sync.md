@@ -1,0 +1,1584 @@
+# GrowthX | SurgeAI General Strategy sync
+
+<metadata>
+date: 2025-07-14
+time: 22:02 UTC
+duration: 68 minutes
+organizer: Marcel Santilli (GrowthX)
+participants: Marcel Santilli (GrowthX), Edwin Chen (Surge AI), Scott Heiner (Surge AI), Bradley Webb (Surge AI), Nick Heiner (Surge AI)
+fathom_recording_id: 74076976
+fathom_url: https://fathom.video/calls/350928442
+share_url: https://fathom.video/share/t1xf6pBzRwo7U_5PH5hmsDePu43esAm5
+source: fathom
+enriched_on: 2026-03-03 13:36 UTC
+</metadata>
+
+---
+
+## Summary
+
+Marcel Santilli and the Surge AI leadership team designed a 12-month brand and distribution strategy to position Surge AI as the undisputed leader in AI training data. The core insight: Surge works with OpenAI, Anthropic, and Google at massive scale, yet competitors like Scale AI own the narrative. The strategy spans three phases—short-term media coordination (podcasts with Sarah Gual, Tim O'Reilly, Nathan Lambert), mid-term research initiatives (blog revival, August benchmark launch), and potential hiring of a DevRel professional—to establish Surge as the smartest, most trusted AI data provider and steer industry conversation toward the importance of post-training data investment.
+
+---
+
+## Context
+
+Surge AI is an AI training data company that works with major AI labs—OpenAI, Anthropic, Google, Meta, Amazon—at significant scale. Despite this, the market doesn't recognize Surge's role in the progress of leading AI models. Edwin Chen (founder) framed it starkly: Surge was working with Anthropic when others thought Anthropic used Scale AI; Google was spending hundreds of millions with Surge while the world believed Google relied on Turing. This brand gap creates friction—customers like Amazon run competitive RFPs treating Surge as one option among body shops, and senior leaders initially dismiss Surge's technical guidance as arrogance rather than expertise. GrowthX is engaged as a strategic advisor to fix this perception problem through a coordinated brand and distribution campaign that spans 12 months, combining earned media, research publication, industry events, and eventually a high-impact DevRel hire.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Full-funnel brand strategy engagement: demand gen → earned media → research publication → executive visibility. Clear extension of GrowthX's content marketing playbook from SaaS into AI infrastructure.
+- Demonstrates GrowthX capability in fixing narrative gaps for technical founders (Edwin) who are uncomfortable with self-promotion but understand the business impact of brand perception.
+- Strategy mirrors approaches GrowthX has used for other clients: leverage existing distribution (customer relationships, expert credibility) before paid media.
+
+**To CheckThat / AEO:**
+- Surge's research publication and benchmark roadmap opens opportunity for CheckThat positioning in "AI evaluation" and "model safety assessment" narratives—areas Surge flagged as underserved (evals, benchmarks, dataset quality).
+- Podcast and research blog become distribution channels that could feature CheckThat use cases, particularly around model behavior evaluation.
+
+**To GrowthX Business Development:**
+- Validates demand for full-funnel strategic marketing in infrastructure/AI space—potential positioning for similar engagements with other data/compute providers or AI safety companies.
+- Edwin's hesitation to build personal brand, coupled with recognition that absence of brand perception creates business friction, models a common founder challenge in technical spaces.
+- Account expansion potential: podcast coordination, research content production, event execution, and potential DevRel hire all represent phased engagements.
+
+---
+
+## Overview
+
+- Surge AI aims to be recognized as the leading AI data provider, correcting misconceptions about their role in major AI advancements
+- Strategy involves increasing public presence through podcasts, events, and strategic partnerships with key AI companies
+- Plans to launch research blog, benchmarks, and potentially open datasets to showcase expertise and drive industry conversations
+- Considering hiring a high-impact DevRel professional to bridge internal knowledge with external communication
+
+---
+
+## Key Topics
+
+### Current Brand Perception Challenges
+
+  - Despite working with major AI labs (OpenAI, Anthropic, Google), Surge AI lacks brand recognition
+  - Competitors like Scale AI have stronger brand associations with AI progress
+  - Missed opportunities to be known as the top company for AI training data
+
+### 12-Month Brand Goals
+
+  - Establish Surge as the smartest, most trusted AI data provider used by top labs
+  - Create FOMO effect for companies not working with Surge
+  - Position Surge to steer industry conversations through research, benchmarks, and datasets
+  - Gain more access to senior leaders in AI companies
+
+### Short-term Strategy
+
+  - Leverage upcoming media appearances (Forbes, podcasts) to create momentum
+  - Coordinate podcast appearances to maximize impact and create FOMO
+  - Launch research blog with regular content
+  - Release benchmark/leaderboard efforts (planned for August)
+
+### Mid-term Strategy
+
+  - Organize executive dinners and AI community meetups
+  - Consider hosting a curated, off-the-record AI industry event
+  - Explore creating demonstrative open datasets or model comparisons
+
+### Potential Hire Consideration
+
+  - Discussed value of hiring a DevRel professional (similar to Logan Kilpatrick at Google)
+  - Role would bridge internal expertise with external communication, saving leadership bandwidth
+
+### Execution Constraints
+
+  - Monetary resources less constrained than bandwidth of key team members
+  - Team open to high-leverage activities (e.g., appearing at pre-organized events)
+  - Need to carefully manage Edwin's public appearances to maintain exclusivity perception
+
+---
+
+## Action Items
+
+**Marcel Santilli (GrowthX)**
+- Draft 6-12 month roadmap for Surge AI brand/distribution strategy. Include ground game tactics, event planning, research blog revival, podcast coordination.
+
+- Create short-term plan for reviving Surge AI research blog, establish content cadence
+
+- Coordinate podcast appearances (Sarah Gual, Tim O'Reilly, Nathan Lambert, Gradient Descent). Create FOMO, manage scheduling/exclusivity.
+
+
+**Scott Heiner (Surge AI)**
+- Prepare first benchmark/leaderboard effort for August release
+
+
+**Nick Heiner (Surge AI)**
+- Continue work on blog post for Surge AI research blog revival
+
+
+**Edwin Chen (Surge AI)**
+- Loop Marcel into details of pending podcast requests for coordination
+
+---
+
+## Transcript
+**Marcel Santilli:** Normal, crazy, busy.
+
+**Bradley Webb:** I mean, it's always crazy busy.
+
+**Bradley Webb:** So like, it's like the, that's like, just like a normal state of being.
+
+**Bradley Webb:** The nature of the crazy busy is different because now we're getting like interesting inbound and things like that.
+
+**Bradley Webb:** So that's good, right?
+
+**Bradley Webb:** Or at least inbound that we're at least like willing to talk to.
+
+**Bradley Webb:** I think we often, we often got like inbound, but it just like was, wasn't ever people we were going to talk to.
+
+**Marcel Santilli:** That's, that's music to our ears, right?
+
+**Marcel Santilli:** Scott, can you tell them about the yachts?
+
+**Scott Heiner:** Oh, we got an inbound request to label like a million yachts for like the type of engine they had, which is not really the business we're looking for, but at least the sound we're getting out to the market.
+
+**Marcel Santilli:** I don't think the video we're producing is going to help with that one.
+
+**Marcel Santilli:** I'm going to go back.
+
+**Nick Heiner:** I'm going to strike through all the feedback I gave Will and ask.
+
+**Nick Heiner:** We're exclusively nautical B-roll.
+
+**Nick Heiner:** Yeah.
+
+**Bradley Webb:** I mean, like, you know, you just go bust out my Omega, you know, Seamaster, really like lean into the nautical theme.
+
+**Bradley Webb:** Yeah.
+
+**Marcel Santilli:** You have a million pictures of yachts and you need to label four billionaires, not billionaires.
+
+**Bradley Webb:** That's it.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** we're going to get rid of like the wine metaphor, every metaphor and make it nautical.
+
+**Marcel Santilli:** Oh, my God.
+
+**Marcel Santilli:** I love that so much.
+
+**Marcel Santilli:** That's awesome.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So what we're trying to get at today, I want to be respectful of everyone's time, is thinking a little bit about the last next 30 days and more about like longer term picture strategy for the company overall and how, I don't even like to think about like marketing.
+
+**Marcel Santilli:** I think more about like brand and distribution overall, right?
+
+**Marcel Santilli:** Like marketing can mean so many things.
+
+**Marcel Santilli:** Like to me, it's the most.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** People know who you are, like brand, and your brand is actually a valuable asset if you do it right.
+
+**Marcel Santilli:** And we just kicked off with Okta, and it's for their Auth0 group.
+
+**Marcel Santilli:** And it's just like Okta tried to fold in Auth0, and then they found out that anytime they were selling to the developers, and they attached the word Okta to anything, like Auth0 by Okta, they would lose deals.
+
+**Marcel Santilli:** And then anytime they would remove that, they would win deals.
+
+**Marcel Santilli:** And so that is, to me, I see it as like that's what a good brand does, right, like sometimes.
+
+**Marcel Santilli:** And then the other piece is just like distribution, a.k.a.
+
+**Marcel Santilli:** like having the right shots on goals to win the kind of businesses you want to have more of, you know.
+
+**Marcel Santilli:** And so maybe it would be helpful to just like as a starting point, just like kind of fast forward 12 months from now, and maybe we can work backwards a little bit.
+
+**Marcel Santilli:** It's just, and then I can kind of guide the conversation, and then like think, and then we can get kind of like more tactical, you know.
+
+**Marcel Santilli:** But let me pause here, Nick, know like.
+
+**Marcel Santilli:** You and I were talking after Edwin hopped off, but does that sound good?
+
+**Marcel Santilli:** Is there anything else you want to make sure we cover today?
+
+**Marcel Santilli:** I think everyone's on mute.
+
+**Edwin Chen:** Yeah, I think definitely the 12-month goal will be great.
+
+**Edwin Chen:** think it would be good to, I mean, whether it's this week or next week, just understand a little bit more about the, even the, not like the one-week plan, but the one-to-three-month plan will be good.
+
+**Edwin Chen:** But we can definitely start with the 12-month goal, because obviously that will open one-week plan.
+
+**Bradley Webb:** And one other just, like, thought on that is, in the, like, one-to-three-month time frame, is it, is this a situation where we would, we should go hire someone to help execute all of this stuff on our side, or are we fine to just, like, kind of, like, you, Nick, Scott, Edwin, me, kind of, is this model the right model?
+
+**Bradley Webb:** Like, what's the right model for executing all of this?
+
+**Marcel Santilli:** Yeah, and that's why, like, I feel like I don't have yet the full, like, 12-month picture to even, like, give you, like, a good answer, what I can tell, like, like, for instance, like, if we go from, oh, we want to do three events and we want to do this, like, that's one view of things, but then if we understand, like, what we're trying to accomplish, then we can kind of work backwards, because I feel like I have pretty decent context for, I've done every job in marketing and I've hired every job in marketing, so I can give you, like, a pretty, like, straight-to-the-point answer on, like, hey, this is what it's going to cost, this is what it would, like, take, this is if want to do internal, this if you want to, you know, like, I can give you, like, the full picture and then, like, be a more informed decision, maybe, you know, but.
+
+**Marcel Santilli:** Let's jump in to 12 months ago.
+
+**Marcel Santilli:** Cool.
+
+**Edwin Chen:** Also, and then obviously others are going to jump in.
+
+**Edwin Chen:** So if I think about our goal at the highest level from a brand standpoint, it's like, I think it is this.
+
+**Edwin Chen:** Through that lens, we had a missed opportunity that we ceded to others to be known as the number one company for AI training data.
+
+**Edwin Chen:** The fact that we have been working with, the fact that we were working with OpenAI, the fact that we were Anthropic's biggest vendor, and the fact that Gemini, Google was totally telling us, there's no way we could have done it without you.
+
+**Edwin Chen:** The fact that all of these things happened, and continue to happen, and yet, people don't know who we are.
+
+**Edwin Chen:** Like someone at Google has kind of been, Google was spending hundreds of millions of dollars on us.
+
+**Edwin Chen:** And one time someone at Google was like, yeah, I think you guys are really good, one day you guys could be as big as Appin.
+
+**Edwin Chen:** He literally said that to me.
+
+**Edwin Chen:** Or I was talking to, like I was literally just talking to somebody at Apple.
+
+**Edwin Chen:** It was like, yes, but why did everybody think that OpenAI and Anthropic use scale?
+
+**Edwin Chen:** Like Anthropic literally hates scale.
+
+**Edwin Chen:** Like, they hate them just as much as you do, Marcel.
+
+**Edwin Chen:** And the fact that, again, like, They can feel better that I only use Anthropic any time I can pick.
+
+**Edwin Chen:** And the fact that we had a case study with Anthropic, we were co-authors on a lot of Anthropic reviews.
+
+**Edwin Chen:** It's sort of, I mean, you get it.
+
+**Marcel Santilli:** But the fact that people don't notice.
+
+**Edwin Chen:** And so, like, what we want is, okay, yeah, everybody knows it.
+
+**Edwin Chen:** But also, if think about the annoying things with our business right now, so take Amazon.
+
+**Edwin Chen:** Amazon is like, every time they have a request, they will run it through an RFP where they compare us and Turing and Invisible and all these other companies.
+
+**Edwin Chen:** Like, why are you using these body shops?
+
+**Edwin Chen:** It's because sometimes people think that Turing has this image, I guess, of being the company that OpenAI uses.
+
+**Edwin Chen:** And that's, like, the only reason people use Turing.
+
+**Edwin Chen:** Like, the company that OpenAI uses for coding.
+
+**Edwin Chen:** And that's, like, only reason people use Turing.
+
+**Edwin Chen:** Yeah.
+
+**Edwin Chen:** again, probably all the people think that we're.
+
+**Edwin Chen:** And so anyways, what we want instead is like, if you're not working with Surge, you have a FOMO effect of, like, Surge is the smartest, it's the one all the other labs use, they really understand things, et cetera, et cetera.
+
+**Edwin Chen:** Like, we can go more into, like, exact brand conditions that we want, but it's like, at the end of the day, we just want to be known as the biggest and to be this actually real FOMO effect, because unlike others in this space, we can actually deliver upon all the problems that we make.
+
+**Edwin Chen:** I would say that that's one big thing.
+
+**Edwin Chen:** And then maybe a secondary thing to that, which is kind of a new effort, but a secondary aspect of that is, one of the things that we want to start doing is, it's like, we want to steer the industry, kind of for the sake of steering industry, like, as a good thing in and of itself, regardless of how it helps our business almost, it's like, we have the opportunity to be key, neutral player in this space that publishes a lot of research, that publishes interesting benchmarks, publishes interesting data sets, set the AI industry, like, towards the right of job, like, all the things that we're discussing for the video, but we
+
+**Edwin Chen:** I to be the player in the space that is, I don't know if you think about it, open source or research or just like open, open, open, like, whatever it is, like, we want that as well.
+
+**Edwin Chen:** And that's like, I'm also saying everything that hopefully feeds up to the former, but it's like a thing that it's off.
+
+**Edwin Chen:** I'll stop there.
+
+**Edwin Chen:** Anything else you guys want to add?
+
+**Nick Heiner:** Yeah, I'll add, you know, Marcel, as we previously mentioned, we want more access to the most senior leaders of these companies.
+
+**Nick Heiner:** So, like, when Zuck realizes that his AI situation is a disaster, like, we want Edwin to be top of mind of, like, you know, he's the guy I'm going to call to dig me out of this hole.
+
+**Nick Heiner:** As opposed to today where we send Mark emails that have to begin with introducing ourselves.
+
+**Marcel Santilli:** And then finally, hiring a brand.
+
+**Nick Heiner:** Like, we just want to get more inbounds of higher quality people.
+
+**Nick Heiner:** And we want to do that by establishing ourselves as the leaders.
+
+**Edwin Chen:** Yeah, because maybe to add on to your point, Nick, um, so it's like there are two, I don't think narrative.
+
+**Edwin Chen:** That we want to spin off, which again, I think are true, but like one narrative is, like, Surge is the, like, Surge just knows how to fix, Surge knows how to take you to the next level.
+
+**Edwin Chen:** And so Zoc, whoever it is, like, yeah, Zoc, you too should be calling us when you face problems.
+
+**Marcel Santilli:** Yeah.
+
+**Edwin Chen:** And again, like, that's, like, in theory, that's like the nominal reason that, one of the reasons he acquired, yeah, whatever it is.
+
+**Edwin Chen:** Like, you could get advice from nobody else could.
+
+**Edwin Chen:** Like, we should be the ones giving you better advice, and that should be a narrative that becomes known.
+
+**Edwin Chen:** And the other narrative that we want to become known is that people should be spending a lot more on post-training data.
+
+**Edwin Chen:** I don't know how we get that narrative out there.
+
+**Edwin Chen:** It's almost like people, like, if people just knew that XYZ companies spend hundreds of millions of dollars, then everybody would spend more hundreds of millions of dollars as well.
+
+**Edwin Chen:** But until that, like, narrative comes out, people just don't know how much money they should spend.
+
+**Edwin Chen:** Like, a lot of times, like Amazon, for example, they were just.
+
+**Edwin Chen:** Asking us, how much money does Android spend?
+
+**Edwin Chen:** How much money does Google spend?
+
+**Edwin Chen:** They just literally didn't know.
+
+**Edwin Chen:** Yeah.
+
+**Nick Heiner:** And also, Marcel, along those lines, like, so, yeah, and you should also be spending more on evals, right, where you see things like XAI can't seem to change their system prompt without having this, like, massive PR blowback or other situations where people's models get out of hand.
+
+**Nick Heiner:** You know, OpenAI has their sycophancy problem.
+
+**Nick Heiner:** Like, it is hard to control these systems.
+
+**Nick Heiner:** Our evals would really help them have visibility into what's going on.
+
+**Nick Heiner:** People are understanding, they?
+
+**Marcel Santilli:** That's really interesting.
+
+**Marcel Santilli:** Like, so, if you think about X, uh, Grok4, right, like, they just pick the whole, like, big announcement and stuff like that.
+
+**Marcel Santilli:** Um, obviously, like, people love to pick apart, uh, uh, that, that's the, you're out there and you also become a target, right?
+
+**Marcel Santilli:** Um, but, like, what do you think made the biggest difference on this?
+
+**Marcel Santilli:** Their performance improvements, but also in the things that didn't go well.
+
+**Nick Heiner:** So the Hitler thing, I don't think was related to Grok 4, actually.
+
+**Marcel Santilli:** Okay, so that's just like the media.
+
+**Marcel Santilli:** I haven't read too much.
+
+**Marcel Santilli:** I just look at the benchmarks and tweets.
+
+**Marcel Santilli:** it was just timing.
+
+**Marcel Santilli:** was like a media report.
+
+**Nick Heiner:** I think the short form of the narrative I would give is like every AI behavior example is, or every AI behavior disaster could have been avoided with just more human evils.
+
+**Nick Heiner:** Like, you know, all of these were just a failure to, you know, do your due diligence.
+
+**Nick Heiner:** Yeah, that makes sense.
+
+**Marcel Santilli:** Okay, so I would love to kind of unpack some of these things.
+
+**Marcel Santilli:** So there's the, there's this missed opportunity for being the number one brand that is associated with the progress towards of these labs.
+
+**Marcel Santilli:** That they're making, right?
+
+**Marcel Santilli:** Like, and being associated with, like, you are a meaningful contributor to that progress, you know?
+
+**Marcel Santilli:** Yeah, and can I just give you one specific example of that?
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** When we see, for instance, Ablebox gets to go on podcasts, like, that is sort of a missed opportunity in terms of us establishing ourselves as the leaders because it's like, those podcast hosts don't know that we are so much more interesting to talk to than Ablebox.
+
+**Nick Heiner:** It's like, we want to get to a world where it's like, if you want to talk about post-training data, Surge is the only company that's worth talking to.
+
+**Nick Heiner:** And like, yeah, you're not going to invite Merkur or Turing on the podcast because you know that they're just not serious.
+
+**Nick Heiner:** Yeah.
+
+**Marcel Santilli:** Yeah, but like, you take, for example, like, Merkur, they're playing to a completely different audience, right?
+
+**Marcel Santilli:** Like, where they're just playing on their zero to 100 million story and, you know, and their founding journey and things like that as if it was like this, like, crazy thing.
+
+**Marcel Santilli:** But like, everybody in the data labeling space knows that it was like, pretty much like two customers and or, you know, it was just.
+
+**Marcel Santilli:** Anyways, but I think now they're being more and more open about it, but I don't think, like, when you think about the brands that are out there, people think of, like, how would you think about which ones are closest to where you want to be?
+
+**Marcel Santilli:** And it's okay to tell me, like, all of them are garbage, but it's like, is there anyone that's perceived, or there's attributes of how they're perceived that are attributes that you would want as well to be perceived as?
+
+**Marcel Santilli:** I don't know if that makes sense.
+
+**Marcel Santilli:** Does it have to be a labeling company?
+
+**Marcel Santilli:** it can be anything, yeah, yeah, that's fair.
+
+**Marcel Santilli:** mean, I'll say two things.
+
+**Edwin Chen:** So one is, I mean, it is true at the end of data, scales branding with it.
+
+**Edwin Chen:** Yeah.
+
+**Edwin Chen:** Yeah, I mean, yeah, so that is true.
+
+**Edwin Chen:** Another is, like, I don't want to index too much on this.
+
+**Edwin Chen:** I'm not, like, in love with Anthropics image, but it is true that Anthropics projects this image of DataGuys who knows what's going on.
+
+**Edwin Chen:** At least in some circles, people think of Claude or Anthropica as, in some sense, a smarter, more responsible.
+
+**Edwin Chen:** Yeah, more principled, at least.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Edwin Chen:** Those are thoughts off my head.
+
+**Edwin Chen:** That makes sense.
+
+**Marcel Santilli:** Can I just double-click on the scale one really quickly?
+
+**Marcel Santilli:** What aspects do you think made the biggest difference as you all were observing from the outside?
+
+**Marcel Santilli:** And things that, when you saw, even though you probably rolled your eyes a little bit, too, but it's like, when you saw, like, we're like, oh, damn, wish we were doing this.
+
+**Marcel Santilli:** Or, like, any positive things, you know, outside of, like, Alex just shaking hands and kissing babies kind of thing.
+
+**Marcel Santilli:** Let's see.
+
+**Edwin Chen:** So various things would include, I mean, just as, like, micro-events.
+
+**Edwin Chen:** It would be things like, yeah, you you mentioned the ScaleX conference that you ran it, right?
+
+**Edwin Chen:** It's like that thing.
+
+**Edwin Chen:** Yeah.
+
+**Edwin Chen:** Things like, yeah, mean, a lot of our customers often tell us, like, yeah, we got invited to these events, and literally one of them was telling me a couple weeks ago, like, yeah, and I went, and I realized how Smoky Mirror was, but yeah, I got invited, like, I had fun, I went there, and presumably it worked.
+
+**Edwin Chen:** Other things like, like literally, if you look at your homepage, Zuck is on your homepage, and Anthropic is on our homepage, and OpenAI on homepage, et cetera, et cetera, so they have done a good job, associating yourselves with these companies.
+
+**Marcel Santilli:** Yeah, yeah, like, so, there's just brand association with the right people and the right brands, right, yeah.
+
+**Bradley Webb:** Yep, I mean, and they, in my opinion, they always seemed like they were all, the right place you know I'm in kind of like non-trite way like what we occasionally see was it invisible or during one
+
+**Bradley Webb:** At SFO, and they have these just like, yeah, these like, it doesn't seem like, it seems trite and silly and, but if Scale had done that, wouldn't, it would have been like more serious, right?
+
+**Bradley Webb:** Like, you get the sense that like, oh yeah, these guys are players and they know what they're doing and, and it probably wasn't just because you'd see it there, it's because you'd see it in five different players and the, the execution on it was always better.
+
+**Bradley Webb:** Like, Turing's just feel kind of cheap and, uh, silly.
+
+**Bradley Webb:** Um, but I, it felt like they were just kind of always everywhere they needed to be in the right place, kind of with the right presentation, the right execution on it.
+
+**Bradley Webb:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Sorry, go ahead.
+
+**Nick Heiner:** It is sort of like Alex's ground game, like, you know, yeah, Deep Seek, everyone's freaking out.
+
+**Nick Heiner:** Does this mean that China is gonna, you know, defeat America and Alexander Wang is on CNBC and then he's on, you know, separately, he's like on every podcast.
+
+**Nick Heiner:** Like whenever anyone has a question about AI, like he's always there answering questions.
+
+**Nick Heiner:** Everyone's always.
+
+**Nick Heiner:** It's framed in every article as like the boy genius who's telling us all about AI.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Nick Heiner:** And it just creates a sense of like, yeah, this guy, you know, knows what he's doing.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** Yeah, exactly.
+
+**Marcel Santilli:** It's like at some point that becomes just the reality, right?
+
+**Marcel Santilli:** Of like you kind of hear enough and then you're just like assuming like there's got to be something to it.
+
+**Marcel Santilli:** Every AI lab can't be wrong, like kind of thing, you know?
+
+**Marcel Santilli:** It's like, it's like, yeah, but that makes sense.
+
+**Edwin Chen:** Actually, maybe one extra point to add here in terms of this 12 months ago, it is like this question of, okay, so like everything we mentioned earlier was goals around a company brand.
+
+**Edwin Chen:** There's a question of, okay, so to what extent is it also important for me to have a certain brand?
+
+**Edwin Chen:** Especially when, I mean, as you guys all know, it's like I'm more reluctant to have such a brand.
+
+**Edwin Chen:** And, you know, I'm willing to do certain things, but at the of day, I'm not going to be good at XYZ.
+
+**Edwin Chen:** Like, I'm just throwing it out there.
+
+**Edwin Chen:** Like, just.
+
+**Edwin Chen:** I mean, especially because I am probably in the weeds to do work.
+
+**Edwin Chen:** Is there an importance to elevate my own growth?
+
+**Marcel Santilli:** Yeah, I think I've always been of the mentality is that we always play to our advantages in our strengths.
+
+**Marcel Santilli:** Like that's just like how I've always played the game or always try to do.
+
+**Marcel Santilli:** It's just like you're not going to take someone's like it's a lot better to just amplify like a company's strength and a person's strength.
+
+**Marcel Santilli:** And, you know, and that's okay.
+
+**Marcel Santilli:** You don't need to play other people's game, you know, to win.
+
+**Marcel Santilli:** And I think we've all proven that more than anyone else.
+
+**Marcel Santilli:** And so, like, for instance, I had no marketing budget when I joined Skate.
+
+**Marcel Santilli:** And our strength was Alex had a Rolodex of a lot of people that happened to be very influential.
+
+**Marcel Santilli:** And I literally ghost wrote a bunch of  emails to get people to agree to come to, you know, to do a Zoom recording.
+
+**Marcel Santilli:** And I recorded that and packaged that and created FOMO around it.
+
+**Marcel Santilli:** Like, you know, mean, like that was the.
+
+**Marcel Santilli:** Only strength I had, I had no budget, nothing, right?
+
+**Marcel Santilli:** Like, I hit up some freelancers, like, you know, like, and so it's kind of like HashiCorp was, like, open source.
+
+**Marcel Santilli:** They had 10 million visitors a month.
+
+**Marcel Santilli:** Like, I created an educational site for open source to learn how to use Vault and Terraform and all of that, you know, like, so that was, like, kind of, like, we always play to the strength.
+
+**Marcel Santilli:** And in this case, like, it's just that the absence of anything doesn't, won't always play to your advantage moving forward, right?
+
+**Marcel Santilli:** And that's, like, it's a, you know, like, essentially, can you play to your strength while also sucking the oxygen out of the room so that you don't have a bunch of, like, bottom feeders, I like to call them, you know, that are owning the airwaves, you know, but.
+
+**Marcel Santilli:** But, okay, so this is helpful, like, if you play back last 12 months, what, how would the.
+
+**Marcel Santilli:** I hate looking back, but this is just a mental exercise here.
+
+**Marcel Santilli:** What do you think would have been different if you did what you're doing now 12 months ago?
+
+**Nick Heiner:** Yeah, so guys, one more point to an earlier thing you were asking, Marcel, about other brands we admire.
+
+**Nick Heiner:** So from a hiring brand perspective, if you look at the generational companies in the early days, like Facebook in the late 2000s, Google about four years earlier, Microsoft in the 90s, like there's just this sense of like this team is really successful and they're also all insanely smart.
+
+**Nick Heiner:** And like their success comes from the fact like anyone who's anyone is working there and it's just such a desirable place to be.
+
+**Nick Heiner:** And I would love if, you we had some of that reflected on us.
+
+**Nick Heiner:** And I think we have the business results to, you know, make a credible claim to that.
+
+**Nick Heiner:** I love that.
+
+**Nick Heiner:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Like in some ways, like, are y'all afraid of people trying to poach your talent?
+
+**Marcel Santilli:** Or is that less of a concern?
+
+**Marcel Santilli:** We don't live in fear.
+
+**Scott Heiner:** I love it.
+
+**Scott Heiner:** No, I don't know.
+
+**Scott Heiner:** I don't think we're afraid of that.
+
+**Marcel Santilli:** Offense is the best defense.
+
+**Marcel Santilli:** I like it.
+
+**Nick Heiner:** I would rather, you know, we're poaching from other labs because we have this impression of like, we're a bunch of geniuses, work with the geniuses.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And people that are motivated by the right things would be attracted to that.
+
+**Marcel Santilli:** The reason I say is like, there is a little bit of like, in the absence of building only your personal brand, Edwin, you know, there is maybe a way to kind of build the whole because we're not talking about a thousand people.
+
+**Marcel Santilli:** talking about, you know, a hundred or less, you know, like potentially.
+
+**Marcel Santilli:** So that makes sense.
+
+**Marcel Santilli:** But like, really quickly, we don't need to spend a lot of time on this, but outside of having more of these conversations at the right place, what do you think would have made a difference if you had more brand awareness and people need?
+
+**Marcel Santilli:** This will be more like at the level of individual examples, but I'll give a couple that may be a little bit different.
+
+**Edwin Chen:** Like for example, we think on Meta here, so it's like a year ago, we were working with Meta, and our contact there is somebody named Drew, and he sees me jumping on the calls, and he's like, search must be really tiny.
+
+**Edwin Chen:** He like tells Nick, hey, I want a real account manager.
+
+**Edwin Chen:** And so it's like, instead of being, I think some of our other customers would actually, so it sounds like he was just like a drawn guy.
+
+**Edwin Chen:** Like our other customers would be like, oh yeah, I'm impressed.
+
+**Edwin Chen:** I am thankful that Edwin jumps on calls.
+
+**Edwin Chen:** But I think we had the right branding.
+
+**Edwin Chen:** Like if he knew that we were so big and so successful, he would have taken it as a positive sign.
+
+**Edwin Chen:** oh yeah, I didn't care so much about Meta.
+
+**Edwin Chen:** Instead of, okay, why is this dumb  company?
+
+**Edwin Chen:** Like that's so small, that their CEO literally has to dump on calls?
+
+**Marcel Santilli:** So that's who we're spending money on?
+
+**Marcel Santilli:** mean Okay, Thank Thank
+
+**Scott Heiner:** Also, were coming in hot with all your advice and hot takes, and if you had had the impression of legitimate genius in this space, like, we would have gotten a lot further than, like, they basically were like, why is Edwin being an  telling us what to do, telling us how to do our jobs, as opposed to, we're getting wisdom from the God himself.
+
+**Scott Heiner:** And so, that could have been way different if we had had all this.
+
+**Marcel Santilli:** I've had a similar, but obviously not the same level, experience of, like, when I'm talking to a junior person, and I jump on a call, and I'm involved in an account, and they're, like, pushing back, and you're just like, you know, it's like, it's like it's your second job in a college, I don't know what to tell you now.
+
+**Nick Heiner:** So, just add another example with Meta, you know, several weeks after what Edwin's talking about, I was on, as a Meta's campus, sort of trying to, like, prepare the relationship, because we'd all come in a little hot, and there was a moment.
+
+**Nick Heiner:** where one of their senior PM directors said to me in so many words, like, we are an A-team, we have like world-class researchers, published in all these papers, who the  are you?
+
+**Nick Heiner:** Why are you telling us any of this stuff?
+
+**Nick Heiner:** And yeah, you know, 12 months playing it back, what would have been different?
+
+**Nick Heiner:** I would have said, well, Edwin is one of time's most influential 100 AI people.
+
+**Nick Heiner:** And it would have been like, no, you're lucky to get our attention.
+
+**Nick Heiner:** You're lucky to get our advice.
+
+**Nick Heiner:** And then to also just go through 12 months of dealing with meta, it's like, we work with all these new teams, many of them haven't really heard of us, or are just dimly aware of like different labeling company options, don't really know what the deal is with anything.
+
+**Nick Heiner:** And we're really starting from ground zero, like starting from scratch every time to build trust.
+
+**Nick Heiner:** And it causes a lot of little pilots, a lot of back and forth, and a lot of like, you know, when things are ambiguous, you kind of hope they just defer to us after a certain point.
+
+**Nick Heiner:** Thank
+
+**Nick Heiner:** And, you know, when I gave my tech talk, one of the questions they had was, like, why are we so slow?
+
+**Nick Heiner:** Like, how are the other labs able to move so much faster?
+
+**Nick Heiner:** I'm like, well, after years and hundreds of millions of dollars of business, the other labs actually trust us, and you guys always start from zero.
+
+**Nick Heiner:** And so, like, if we had this sort of public brand, like, Surge guys are the geniuses, you know, we're lucky that they're choosing to take our project.
+
+**Nick Heiner:** But, you know, that's, I think, I think that would just give us a lot of, like, tailwinds on a day-to-day basis.
+
+**Nick Heiner:** Yeah.
+
+**Marcel Santilli:** So, and then, let me give a couple other examples.
+
+**Edwin Chen:** So, one in a similar vein would be, it's like, okay, so I mentioned how a lot of people use Turing because they hear that Turing, or, like, OpenAI uses Turing for coding.
+
+**Edwin Chen:** I mean, well, Anthropic is the better coding model, and so, for that reason alone, people should be using us, but people just don't know that we are, like, Anthropic's provider.
+
+**Edwin Chen:** So, like, we're missing out.
+
+**Edwin Chen:** Like, I can't.
+
+**Edwin Chen:** Remember, okay, so you pick up Meta, like one of the Meta VPs that we talked to, and we met him for the first time, was like, do you guys work with Cure Opic at all?
+
+**Edwin Chen:** Yeah, I'm so there's that.
+
+**Edwin Chen:** What I'm blanking.
+
+**Edwin Chen:** Let just put one more example on the top of my head.
+
+**Scott Heiner:** I mean, while you're thinking, Edwin, like we had an engagement with ByteDance that essentially petered out because we could never talk to anyone besides the most junior people on their side, and I think we tried reaching out to more senior people, and we essentially just got ghosted.
+
+**Scott Heiner:** And so again, if we had the reputation, if they realized that we're getting a legitimate reach out from Edwin, like we don't work with them anymore, but they could have been a $100 million customer.
+
+**Scott Heiner:** Like if we had, if they actually had ambitions and we could steer the ship, so.
+
+**Scott Heiner:** Yeah, mean, I mean, to get that example, like Mark, right?
+
+**Edwin Chen:** Supposedly Mark is working with every single company in the world just to get advice.
+
+**Edwin Chen:** He literally doesn't talk to us, like we, of all the companies, we have the most advice to give them, most real advice, and we just can't get it.
+
+**Marcel Santilli:** Yeah, like the, okay, so what I'm, what I'm hearing, and adding a little bit of my opinion too here, but it's, how do you create the right opportunities to where it creates the right people and brand associations, even when there are situations where they can't talk about the work itself, but people just draw the line for you, you know.
+
+**Marcel Santilli:** I think that was always like the trickiest thing, like early on a scale, like try to push the, let's just do more content, let's go do like more, can we do more open data sets, can we, you know, like all of that, and it was just like, no one ever had the time, because there was always like a crazy project popping up that require all the heroics, you know, so it's like, okay, that's gone.
+
+**Marcel Santilli:** So, so then it was like the easiest thing, was like, what is the fastest path to building authority?
+
+**Marcel Santilli:** The in the space is just by brand association and people association, you know, and then how do you get those?
+
+**Marcel Santilli:** just have to, like, kind of play the domino game of, like, hey, if I got this person, then getting the next one is easier.
+
+**Marcel Santilli:** If got those two people, getting the third one is easier.
+
+**Marcel Santilli:** And then, like, you kind of keep playing.
+
+**Marcel Santilli:** It's like these podcasts, right?
+
+**Marcel Santilli:** Like, they didn't, like, Alex didn't get, like, Mark Zuckerberg on the first episode.
+
+**Marcel Santilli:** You know what I mean?
+
+**Marcel Santilli:** Like, yeah.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Nick Heiner:** And to your point about drawing the lines for them, it's, like, the number of times when Alex would go on a podcast and the hosts, where he would just say, we are the only major player, you know, we're responsible for all AI progress, and the hosts would just uncritically accept that.
+
+**Nick Heiner:** Or the hosts would say it themselves.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** Yeah, and they would correct it.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** And the way, I actually remembered my other examples.
+
+**Edwin Chen:** So, for example, think, I think we hadn't realized this, but there's a narrative as some of our companies that we don't have enough capacity, which is actually completely untrue, but, like, if.
+
+**Edwin Chen:** They just knew how big we were.
+
+**Edwin Chen:** They may not think that like a lot like of times they just don't hate for us because they think that for over capacity.
+
+**Edwin Chen:** And then another, again, going back to Amazon and Turing, but it wasn't just that they thought that Turing was an opening eyes coding fighter.
+
+**Edwin Chen:** I guess like literally someone said to me, like, yeah, Turing has a lot of, like, they have the most special position in coding.
+
+**Edwin Chen:** have a lot of experience.
+
+**Edwin Chen:** We have way more experience.
+
+**Edwin Chen:** Yeah, that's really interesting.
+
+**Marcel Santilli:** So if you had all these people in the same room, what do you think would change their minds short of saying, take my word for it?
+
+**Marcel Santilli:** You know, like what stats, what things, you know, short of saying, well, we work with Anthropics.
+
+**Marcel Santilli:** Let's assume you can't say that.
+
+**Marcel Santilli:** We'll try to say that.
+
+**Marcel Santilli:** But like, are there things that you think would make a difference?
+
+**Marcel Santilli:** When you do have the conversation and they're open to listening or what changes their perspective on you don't have.
+
+**Marcel Santilli:** enough reputation, you're not the biggest driver in this space, or you don't have enough specialty or specialization or experience in this use case or, you know, type of data.
+
+**Marcel Santilli:** I feel like it is true that there are two things that work.
+
+**Edwin Chen:** One is the pilots themselves, where we show the quality, and then there's somebody on their end, like a champion who understands it, and can champion us.
+
+**Edwin Chen:** Then two, it is just the association.
+
+**Edwin Chen:** Like, I remember when we first worked with Amazon for the first time, like, the guy we're talking to, the VP, he was like, yeah, I've heard you guys are really good.
+
+**Edwin Chen:** I've heard you guys take 2 a.m.
+
+**Edwin Chen:** phone calls and just we'll do whatever it takes to make something work.
+
+**Edwin Chen:** Like, he had heard about us from other people in the industry.
+
+**Edwin Chen:** Yeah, that makes sense.
+
+**Edwin Chen:** Like, he's not, like, looking at it himself, so he would never, like, know that we had quality, but he would trust from others that he's talked to, because he knows what they've achieved.
+
+**Marcel Santilli:** Yeah, it's almost like, is there a way to also leverage stats more openly and draw more, you know, where?
+
+**Marcel Santilli:** I don't know.
+
+**Edwin Chen:** Because I feel like everybody just says the same stats.
+
+**Edwin Chen:** Like, I don't know what stat we would say.
+
+**Edwin Chen:** Like, other kind of, Turing is saying, we have four million coders.
+
+**Edwin Chen:** That's obviously untrue.
+
+**Edwin Chen:** But it would just say it.
+
+**Edwin Chen:** Okay.
+
+**Nick Heiner:** I mean, what about this, like,-based things of, like, you know, co-marketing, where, like, Grok just says, and the way that we got to this HLE score was a lot of data from Surge.
+
+**Marcel Santilli:** Yeah, because, like, the, like, it really depends, like, what lever you're trying to optimize for.
+
+**Marcel Santilli:** But there are levers on, if you have leverage, obviously, like, with some of these contract negotiations or things or deals or if there's anything that's of interest to them, that's the only time you can
+
+**Marcel Santilli:** Really get them to agree to say anything publicly or do anything publicly.
+
+**Marcel Santilli:** And so it's like, it's just really, really hard, right?
+
+**Marcel Santilli:** Like, I'll give you an example.
+
+**Marcel Santilli:** Scale  up so much with Waymo that Waymo wrote into their contract anytime any employee of Scale or contractor Scale says the word Waymo, Scale has to pay Waymo $500,000.
+
+**Marcel Santilli:** That was literally in their  contracts.
+
+**Marcel Santilli:** Like, I swear to God.
+
+**Marcel Santilli:** But so it was like this big thing.
+
+**Marcel Santilli:** like, don't say the Waymo word.
+
+**Marcel Santilli:** So like, how do we get around that?
+
+**Marcel Santilli:** It's like having the CEO talk to Alex, you know?
+
+**Marcel Santilli:** And eventually the CEOs slip up, you know, all the  time, you know?
+
+**Marcel Santilli:** Because also in the process of prepping for the talk, like, you talk about, like, the work you're doing together and things like that.
+
+**Marcel Santilli:** And then they slip up.
+
+**Marcel Santilli:** And once they do, that's it.
+
+**Marcel Santilli:** That's yours.
+
+**Marcel Santilli:** That's public knowledge, you know?
+
+**Marcel Santilli:** And really, like, it was almost like prospecting top down by...
+
+**Marcel Santilli:** Bye.
+
+**Marcel Santilli:** Doing things publicly with the person, you know, where it's just like Waymo was pissed at scale all the time, but then, you know, like Drago was like on two of our events and then like came to our dinners and then it's like, you know, like, and then it made the relationship a little bit better because they were always pissed at scale, you know, like.
+
+**Scott Heiner:** Just out of curiosity, why is he rolling up to an event of company that they're always pissed at?
+
+**Scott Heiner:** Because there's like greater reasons than that?
+
+**Scott Heiner:** wants to be part of the scene?
+
+**Scott Heiner:** Disconnected from the work.
+
+**Marcel Santilli:** Because what?
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Like the CEO, they're disconnected from the work.
+
+**Marcel Santilli:** The CEO is trying to think about how they're going to get enough permits to drive around like San Francisco, right?
+
+**Marcel Santilli:** Like they're thinking about like manufacturing assembly issues.
+
+**Marcel Santilli:** They're thinking about like, you know, like my head of research over here just quit.
+
+**Marcel Santilli:** I need to go find a new one.
+
+**Marcel Santilli:** Like, and then they're like, who can help make an introduction?
+
+**Marcel Santilli:** And they'll hit up Alex.
+
+**Marcel Santilli:** Hey, Alex, who should be like the next VP of research here?
+
+**Marcel Santilli:** You know, like that type of thing.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Like they care more about that level.
+
+**Marcel Santilli:** They're
+
+**Marcel Santilli:** Not like, oh, I had a listening tour with 37 of my 43 AI researchers about their quality.
+
+**Marcel Santilli:** It's just like, it has to be really bad, but then whoever brought that player in usually doesn't want to take responsibility for being like, I brought them in and they  suck.
+
+**Marcel Santilli:** They all want to tell the CEO that everything sucks.
+
+**Edwin Chen:** Did Drago even know and he just didn't care or did he just didn't know at all about them?
+
+**Marcel Santilli:** Um, I don't, I never saw him like mention anything like frustrated at or anything like that.
+
+**Marcel Santilli:** And, and like, I'll give you an example, like in one of the dinners, I was connected with him and I think he had like a young family or something and you know, it's like, and I made, I made some comment or something.
+
+**Marcel Santilli:** then after that we were connected on LinkedIn and he was super friendly to me, like, you know, so he wasn't like the standoffish guy, like, and all it took was like trying to get to know the person at a human level and that's it.
+
+**Marcel Santilli:** Now you're like, like, you're you're yeah.
+
+**Marcel Santilli:** You the person likes you, you know, it's like, I think for a lot of those people, like, it's more of that, I don't think they're like, that connected, it didn't seem like any of them, I was in, you know, all the rooms, like, none of them mentioned anything related to the work that they were doing, at all, like, there was so, I think, like, maybe, like, their meta was maybe the only one where I heard, but not in the room, like Chris, right, and, or, like, there's a few comments of different players when we were in pipeline reviews, where they would mention, okay, let me hit up this person and see if I can, but then most of them, like, all the comments that I heard in the pipeline reviews, and the weekly reviews were more like, let me escalate to this person, but this person keeps telling me, just talk to my leader, don't talk to me about it, you know, like, so there was a lot of that, like, but Alex's contacts, even if they were aware, they always defaulted to their VPs or to their leaders, and it was like, well, I trust their to their judge.
+
+**Marcel Santilli:** Man, like if they're pissed, like, let me just give you some insight on how to navigate it.
+
+**Marcel Santilli:** But it was more like, I can tell you how to try to resolve the situation, but I'm not going to go over their heads, you know, it's like the dynamic that helps.
+
+**Nick Heiner:** Okay, so zooming out a little bit, in terms of, you know, us defining what the next one to three months looks like, know, what the next 12 months looks like, sort of working backwards, as you had said, what else can we tell you?
+
+**Nick Heiner:** Like, do you need to hear more from us to come up with a plan?
+
+**Marcel Santilli:** Yeah, so I think the big goal makes sense.
+
+**Marcel Santilli:** But then, like, what I'm trying to kind of think through a strategy and resolve is, like, even as we were working through this, and I know, like, there's a comfort level that we're building.
+
+**Marcel Santilli:** Like, there's still, like, a lot of things that were already outside of walls, like comfort level, right?
+
+**Marcel Santilli:** Like, and we're kind of building towards that.
+
+**Marcel Santilli:** So I just want to be mindful of, like, you know, in order to have that level of association, the number of people that will be out there, the number of things out there, their external facing will have to go up.
+
+**Marcel Santilli:** Like, it doesn't
+
+**Marcel Santilli:** Maybe trash, right, and watered down, but it definitely won't be, like, by doing one thing a month, we'll move the needle.
+
+**Marcel Santilli:** It's kind of definitely compounding, you know, and so, like, how do we kind of think through, like, obviously, you all have a great business that requires a lot of focus.
+
+**Marcel Santilli:** Like, how do we think about the constraints of, like, how much capacity can help on the, you know, being out there talking and, you know, putting out content and, like, hosting events.
+
+**Marcel Santilli:** Even, I assume logistics can all be taken care of, but, like, actually showing up, you know.
+
+**Nick Heiner:** Yeah, can you just give us a sense of, like, what, you know, if you could wave a magic wand.
+
+**Marcel Santilli:** Yeah, I mean, if I could wave a magic wand, I would probably, if I was your CMO, let's put it that way, what I would do is probably build a studio or have a studio available where in maybe two locations, like SF in New York or something that's easy and constantly trying to get researchers.
+
+**Marcel Santilli:** In of a camera talking because that's where you're going to get gold and no one's going to ever share publicly and, you know, and try to just put the motion around that.
+
+**Marcel Santilli:** I would pick like where there's your biggest clusters of like customers and things and do like series of like exec dinners that are like really high end on like at least at every other month cadence, if not every month.
+
+**Marcel Santilli:** And combine that with like meetups that you don't need to necessarily host but that just get like the broader AI audiences to know about you and just like briefly associate and they don't need to talk about data at all kind of, you know, but just to kind of build the like the people that are coming up, you know, and kind of word of mouth.
+
+**Marcel Santilli:** And then I would try to work towards a, some type of bigger but not too big event that you try to, once you build enough momentum in relationships, try to fill a room with like, you know, an unconference style having all, because what you want.
+
+**Marcel Santilli:** Like what will speak more volumes is like an off the record like place where everybody's there talking all about the same things.
+
+**Marcel Santilli:** It's highly curated and you have the anthropic person sharing something like, you know, that will speak more volumes than even you talking about it.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Like in like having queen knows environments.
+
+**Marcel Santilli:** And I know it's tricky because like everybody's competing against each other.
+
+**Marcel Santilli:** So that's where like there's some dynamics there.
+
+**Marcel Santilli:** But maybe there's a way to do it where, you know, the community.
+
+**Marcel Santilli:** You got to remember like, Zuck doesn't want to share anything like Musk and all of these don't want to share anything.
+
+**Marcel Santilli:** But all these people came from academia, right?
+
+**Marcel Santilli:** They like, so they all want to share everything.
+
+**Marcel Santilli:** You know, they all fundamentally, at least from my experience, I like they all fundamentally believe in sharing and that's how you make progress.
+
+**Marcel Santilli:** You know, it's just that now they're all working for people that don't believe in that, you know.
+
+**Marcel Santilli:** Yeah.
+
+**Nick Heiner:** Is this like the events that scale would have in like Napa Valley?
+
+**Nick Heiner:** Yeah, like I didn't manage that one specifically.
+
+**Marcel Santilli:** I think that one was after I left.
+
+**Marcel Santilli:** But back that way.
+
+**Marcel Santilli:** I managed that one, which was like, there's one that they did, it was invite only, and, you know, I had pitched that idea, but it was like too big of a bill, it was going to come out to like three grand an attendee, and, you know, and I was like, oh, that's crazy, you know, my budget for the year was less than that, so it's like, and, but, like, it's not hard to pick, like, let's say like a Presidio or something, something that's like, you kept, like the first one, I wouldn't do travel, like, because travel just requires, if like 90% of your audience has to travel, or 100% of your audience has to travel, it's like a much bigger thing, like for instance, like we, when we were trying to coordinate with Fei Fei Li to do just like a one hour, like recording, like she had, and it was like six months out, she had like two one hour blocks for the next six months at the airport, like Eric Schmidt was like the same thing, you know, and it was like, like, you know, it's like just insane, these people are just insane, and they're scheduled.
+
+**Marcel Santilli:** And so like, you need like, ideally, like the way I kind of think about it is like, who's the warmest, highest quality signal that you can get, that even if you have to pull all the  strings to get that, you get that.
+
+**Marcel Santilli:** But then that's the domino effect to getting everybody else, you know, is like, is this going to make the second one easier, the third one easier?
+
+**Marcel Santilli:** And then like, how do you associate with them publicly, or in a closed door type of thing?
+
+**Marcel Santilli:** And then like, how do you build that relationship from there?
+
+**Marcel Santilli:** And then over time, get more and more comfortable, like Waymo, probably like at the peak of when they were pissed, probably wouldn't have gone for something.
+
+**Marcel Santilli:** And then they wanted nothing to associate with scale.
+
+**Marcel Santilli:** And then after we did the first event, then we're like, hey, is it okay if we send a tweet with your name on it?
+
+**Marcel Santilli:** And like, yeah, that's fine for this.
+
+**Marcel Santilli:** Like, you know what I mean?
+
+**Marcel Santilli:** Like, it was like baby steps.
+
+**Marcel Santilli:** Like, yeah, like,  you, we hate you to like, yeah, we, and they were literally on their brand account promoting the talk, you know, eventually, you know, So then it's just like,
+
+**Nick Heiner:** Yeah, so is all this in terms of like working model, is this like you sort of come up with an outline of like generally things that you think should happen and then like we're supposed to execute them or like will you just drive, you know, a whole schedule of events and activities and you sort of pull us in as needed?
+
+**Marcel Santilli:** Yeah, I can come up with like the bare bones.
+
+**Marcel Santilli:** I think I don't have enough like yet.
+
+**Marcel Santilli:** Like I know what to draft up.
+
+**Marcel Santilli:** I don't feel like I have enough of what the possible inputs can be to this.
+
+**Marcel Santilli:** Like, you know, like, and I have a sense, but like this is where like, for instance, you mentioned research, you mentioned like, like you, your, you guys' availability, like I have some rough sense, but I think a lot of this is like we start with something and kind of build, right?
+
+**Marcel Santilli:** Like, so like just to be specific, right?
+
+**Marcel Santilli:** Like if we wanted to kind of have like the first thing, the starting point is like let's
+
+**Marcel Santilli:** So like the research blog and start doing like regular things, right?
+
+**Marcel Santilli:** So that's like the next short term thing, right?
+
+**Marcel Santilli:** And then like from there, it's like, okay, now like can we start like doing one or two events and then kind of build up from there?
+
+**Marcel Santilli:** There is a scenario where if you tell me, hey, we think we have a leverage point with Amthropic and we can do something really big with them.
+
+**Marcel Santilli:** And then that's like a leverage point that we can, you know, but like the challenge is like, I don't know what your closest leverage point to be here.
+
+**Marcel Santilli:** But like my recommendation is like, if you can tell me that, like you can see, right?
+
+**Marcel Santilli:** Like we use the leverage point of the information article to now, you know, starting to pay off.
+
+**Marcel Santilli:** And it's not obviously us working, but it's like, it's your story.
+
+**Marcel Santilli:** And, you know, the PR you guys did, like, you know, it's like, and then like now it's a lot easier.
+
+**Marcel Santilli:** Once those two podcasts go live and like the Forbes thing goes live, then now all of a sudden like getting in front of someone else might be a little bit easier.
+
+**Marcel Santilli:** But if you have like.
+
+**Marcel Santilli:** A thing where a customer's coming and saying, I need you, you know, to pull some crazy thing off.
+
+**Marcel Santilli:** And it's like, hey, man, like, or gal, like, we need, you need you to give a little too.
+
+**Marcel Santilli:** Like, we need to have, you know, do something external here and talk about it externally or be a case study and then we can do anything like that.
+
+**Marcel Santilli:** Like, we just need one big one, like anthropic would be the best one, you know, or some association to a meaningful event that happens.
+
+**Marcel Santilli:** And in the absence of that, we just got to do the ground game, which just like means, you know, a lot more steps.
+
+**Marcel Santilli:** And as long as we're consistent with that, I think it pays off.
+
+**Bradley Webb:** Well, should we, I mean, again, so going back to the, like, how we've plugged into this, is the right next thing to say, given what we said around our kind of full year goal, do you, like, here's a, here's like a menu of things that I would suggest for a ground game.
+
+**Bradley Webb:** Yeah.
+
+**Bradley Webb:** And then, and then the four of us can figure out what of that can we staff, like, how, how can we.
+
+**Bradley Webb:** Okay, how much resources and time and effort do we want to put into that?
+
+**Bradley Webb:** And then we can come back to you and figure out how and then if there are leverage events, then we can be like, oh, by the way, Anthropic said they're willing to let us talk about, you know, Claude Opus or Grok said they're willing to let us talk about Grok 4 or whatever.
+
+**Bradley Webb:** Yeah, yeah, that works.
+
+**Marcel Santilli:** then like, no matter what, I think we got to focus on what we can control and what we can execute to just get something going, right?
+
+**Marcel Santilli:** And that's like another super quick short term.
+
+**Marcel Santilli:** And then the next thing is like continuing on this like roadshow as much as possible and saying yes to as many opportunities and getting out there.
+
+**Marcel Santilli:** And it's one of those things that the more you do within a short period of time, the more it piles up because people are seeing you mentioned in three or four different places and it just like kind of piles up really quickly, you know.
+
+**Marcel Santilli:** And so like the more so I would say like the
+
+**Marcel Santilli:** So P0, almost, in my mind, I'm talking out loud now, like, a little bit, but, like, is the first million plus 20 VC, those are great points, plus the Forbes story, and then wait until the first one of those comes out, plus the video we're producing, and then use those things as a leverage to us to go, like, get to, like, try to get 20 more of those.
+
+**Marcel Santilli:** And then in parallel, use very strategic ways to amplify those things as they're happening, you know, in a way that's more, like, friends and network kind of thing, you know, even some are paid, you know, to just, like, pile up, right?
+
+**Marcel Santilli:** It makes a big, big difference, you know, and that creates, I think, enough, like, rising tide effect that then we get the research blog going, see if there's, like, research things we can do that, like, at the ground level of, like, working with other researchers or data and things like that, or things that get people to draw the line and assume they know who it is, like, hey, we did this.
+
+**Marcel Santilli:** And then when you mention the scale of what you did, they are going to know that it's either opening AI on topic or something like that, you know, like, and then in parallel, then we come up with, like, the longer term things, you know, as far as, like, both events and also finding ways to publicly associate with, like, Anthropic and others, you know.
+
+**Marcel Santilli:** I mean, the obvious thing is, like, anytime you can have association with the highest level of either X, AI, or Anthropic, or any of those, or even if you're, like, if you have to, like, I think you mentioned you might be doing work with the cursor, for example, like, any way to thrive that way.
+
+**Marcel Santilli:** Like, anything like that, you know, like, would make a huge, huge impact, you know.
+
+**Nick Heiner:** Yeah, so I'll you one example of that, the Grok 4 announcement livestream, they had some, like, partner groups come up on stage.
+
+**Nick Heiner:** Like, they had, like, their Grok vending machine people.
+
+**Nick Heiner:** come up on stage and Edwin was like we definitely could have gone to that live stream if we had tried to get invited and like frankly we probably could have gone on stage and it's like yeah I think that would be a great sort of co-operating thing if we can post it.
+
+**Marcel Santilli:** Yeah exactly it's just knowing like you all know with the ones you're working when I think like did y'all know that like when did you know that Grok 4 was going to be announced like did you have sense or it was kind of like a little bit capture?
+
+**Marcel Santilli:** We had a sense it was coming.
+
+**Nick Heiner:** mean now they have specifically said that over the next few months there's going to be like a big thing coming out every month.
+
+**Nick Heiner:** I don't know if it's going to have a live stream or not then.
+
+**Nick Heiner:** Yeah okay all right okay that's that's helpful.
+
+**Marcel Santilli:** Okay so for action on my end is taking all this ingesting everything and coming up with at least like a 6 to 12 month roadmap.
+
+**Marcel Santilli:** I already did a bunch of research on a lot of the conferences that like you mentioned Nick so I'll send you all that.
+
+**Marcel Santilli:** Yeah and like like
+
+**Marcel Santilli:** Help me think through scope.
+
+**Marcel Santilli:** I don't mean scope for us.
+
+**Marcel Santilli:** Growthx, mean scope overall of how much you guys are thinking through this.
+
+**Marcel Santilli:** And I mentioned this as far as at scale, it was kind of like, hey, this is what you have.
+
+**Marcel Santilli:** Figure out the most you can do with this.
+
+**Marcel Santilli:** And then there's others that are like, go crazy over here.
+
+**Marcel Santilli:** And then there's somewhere in the middle.
+
+**Marcel Santilli:** You know, I think most of the things I mentioned don't actually require a lot of investment and cost outside of events.
+
+**Marcel Santilli:** Like events really add up really quickly.
+
+**Marcel Santilli:** You know, it's just like you can't go to a conference really well for, you know, it's like a good booth plus like, you know, all the logistics.
+
+**Marcel Santilli:** It's like, it's not crazy, but it's like hundreds of thousands, you know, and then that adds up if you want to go to every conference.
+
+**Marcel Santilli:** But then like the logistics of that is like pretty, pretty hard.
+
+**Marcel Santilli:** And so there's like experiential and events are the ones that consume the most.
+
+**Marcel Santilli:** Most human resources and.
+
+**Marcel Santilli:** But then it's also like when everyone's at the same place at the same time, right?
+
+**Marcel Santilli:** And you can have kind of a lot more of these conversations.
+
+**Marcel Santilli:** But like, can you all give me just any sense of like, you know, like scope or like for this plan?
+
+**Marcel Santilli:** it's kind of like, give us the max and we'll choose.
+
+**Marcel Santilli:** Like, you know.
+
+**Marcel Santilli:** I mean, I think it is.
+
+**Edwin Chen:** I mean, there's like two cuts cost.
+
+**Edwin Chen:** There's a monetary cost and then there's like the bandwidth cost.
+
+**Edwin Chen:** Yep.
+
+**Edwin Chen:** I think monetary cost.
+
+**Edwin Chen:** Yeah, go to the max.
+
+**Edwin Chen:** Bandit cost.
+
+**Edwin Chen:** is.
+
+**Edwin Chen:** I mean, it's basically constrained by the four of us and, you know, maybe one or two other folks.
+
+**Edwin Chen:** Until we hire more people.
+
+**Edwin Chen:** Yeah.
+
+**Edwin Chen:** Like to the extent that we can just delegate something to you guys or others, then hopefully we can avoid that.
+
+**Marcel Santilli:** But.
+
+**Marcel Santilli:** One.
+
+**Marcel Santilli:** One.
+
+**Marcel Santilli:** One.
+
+**Marcel Santilli:** One.
+
+**Marcel Santilli:** I would say that probably has made the biggest difference of any hires that I've seen any of these labs make.
+
+**Marcel Santilli:** You guys know Logan, the guy that Google hire?
+
+**Marcel Santilli:** Yeah, from OpenAI, Logan Kilpatrick, the DevRel guy.
+
+**Marcel Santilli:** That's probably the most valuable hire Google has made in a long time.
+
+**Marcel Santilli:** He single-handedly has changed the perception of Gemini.
+
+**Marcel Santilli:** That's my opinion, right?
+
+**Marcel Santilli:** And so I think you were asking, Bradley, think you mentioned, are there hires or whatever?
+
+**Marcel Santilli:** And I would say that kind of role is one that I wouldn't delegate if I was in your shoes.
+
+**Marcel Santilli:** It's really high leverage, someone that can be the translator with the public-facing, where they capture the voice.
+
+**Marcel Santilli:** It's just really hard to find a person like that.
+
+**Marcel Santilli:** What role is this?
+
+**Scott Heiner:** Yeah, it's this guy, Logan.
+
+**Scott Heiner:** He was at OpenAI.
+
+**Marcel Santilli:** I think it was OpenAI, right?
+
+**Marcel Santilli:** Yeah, he was head of DevRel at OpenAI.
+
+**Marcel Santilli:** Twitter game is really good.
+
+**Marcel Santilli:** He was building a lot of things.
+
+**Marcel Santilli:** He had the right voice.
+
+**Marcel Santilli:** Voice, the right, like, transparency, and even when he joined Google at first, he was like, guys, we're getting a lot of things wrong, but like, you know, and he kind of played this like, yeah, we're  up a lot, but like, look at this, this, and this, and then eventually he's like, hey, look at this, this, and this, and then like, eventually people forgot that Gemini used to be hated on.
+
+**Marcel Santilli:** So he just like tweets from his personal account?
+
+**Marcel Santilli:** He, he's just kind of like the external, like, facing, like, voice of Gemini, if you will, or Google AI initiatives, and he was just like, really good, really connected to the community, a lot of people like him, he has a good voice, he strikes the right balance of like, speaking to the audience that they cared about, but this is just an example of like, how one person with the right approach can make a huge difference, and it wasn't just about the money, you know, it was more about like, having a translator.
+
+**Marcel Santilli:** I don't know to speak the right language, you know.
+
+**Marcel Santilli:** And he's just tweeting, or is he like, doing partnership?
+
+**Marcel Santilli:** Yeah, collaboration.
+
+**Marcel Santilli:** It's mostly...
+
+**Marcel Santilli:** He's what's happening internally at Google in a way that appeals to a broader audience.
+
+**Marcel Santilli:** So he does a bunch of things like that.
+
+**Marcel Santilli:** It's kind of like your traditional developer advocate, kind of.
+
+**Nick Heiner:** Just like any other DevRel role, he's doing the podcast Ground Game.
+
+**Nick Heiner:** He's making YouTube clips explaining how to use Gemini.
+
+**Nick Heiner:** I think he's authoring blog posts about, here he is on some release video interviewing some guy or some engineer.
+
+**Marcel Santilli:** Yeah, and I don't think there's like an insane number of these that are like, I think the best one is the guy from Together AI.
+
+**Marcel Santilli:** I try to poach him a few times, but he's too happy.
+
+**Marcel Santilli:** But maybe you all will do a better job.
+
+**Marcel Santilli:** I'm trying to remember.
+
+**Marcel Santilli:** But anyway, it's like just something, if you all are open for at least one hire, if there was only one hire in a wish list, this would be kind of like the hire.
+
+**Marcel Santilli:** His name is Hassan.
+
+**Marcel Santilli:** This is the closest to Logan I've found so far, but we can look more, you know, this is kind of gives you an idea.
+
+**Marcel Santilli:** This one's, he's a lot more like, you know, vibe coder type thing, you know, building a bunch of things, but he's essentially like showing more than telling and building these really cool apps and things that kind of show what's possible with Together AI as opposed to talking about Together AI.
+
+**Marcel Santilli:** And so just an example of like, some of the things he's built has gotten like 200,000 users, you know, and it's like insane, you know, and so it's just like kind of building awareness by just like creating things in the open and talking about it.
+
+**Marcel Santilli:** So a lot of like the things we were talking about, like, I feel like there could be a play here.
+
+**Marcel Santilli:** This is more midterm, I would say, but it's like, that is the role that it would require just an obscene amount of time from any of you.
+
+**Marcel Santilli:** And it would be good to have somebody that serves at that like bridge between the inside world and the outside world, you know, a little bit.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** For sure.
+
+**Nick Heiner:** And so as I was saying earlier about the bandwidth, like, I think if you're able to do something where it's like, I've, you know, put together this dinner or this thing and all I need is for Edwin and maybe a handful of people to show up, but like everything else is settled.
+
+**Nick Heiner:** I think we probably have a pretty decent appetite for that.
+
+**Nick Heiner:** Um, you know, if it's internally us having to like plan what the gift bag is going to be, like, we don't want to do that.
+
+**Nick Heiner:** Yeah, yeah, exactly.
+
+**Marcel Santilli:** It's like, um, okay, let me put together a plan, um, that thinks through it.
+
+**Bradley Webb:** We do have people, you know, Sully, et cetera, where also if some of the, like, the capacity constraint on your side is like, we can tell you what the gift bag should be, but like, I don't have anybody that can go like pull all that  together.
+
+**Bradley Webb:** You know, we have people that could actually do that.
+
+**Bradley Webb:** So like, I think there are, there are probably some resources that we can, can allocate to this too.
+
+**Bradley Webb:** Yeah.
+
+**Marcel Santilli:** Like the, the, the, one thing you can't delegate is like 90% of the invites have to come from one of you like that.
+
+**Marcel Santilli:** You can't delegate.
+
+**Marcel Santilli:** It's It's great.
+
+**Marcel Santilli:** It's great.
+
+**Marcel Santilli:** it.
+
+**Marcel Santilli:** Thank 17s.
+
+**Marcel Santilli:** you.
+
+**Marcel Santilli:** And that was the biggest bottleneck because even though everybody would be like, no, no, don't worry, we'll invite.
+
+**Marcel Santilli:** And then like comes to it, like people were just always like too busy and you're like, guys, we're two weeks out and we haven't filled in half of the RCPs.
+
+**Marcel Santilli:** Let's go.
+
+**Marcel Santilli:** Like anyways, that was the most painful thing.
+
+**Marcel Santilli:** if there's like, that's the bottleneck, right?
+
+**Marcel Santilli:** Like everything else was like easy.
+
+**Marcel Santilli:** Like that piece is the hard piece is like filling the room, you know, especially when like Alex was MIA for like a month and we're like, , like, like we can't use his email.
+
+**Marcel Santilli:** So then like, like Transport Max, which is our in-person conference, 300 of the 500 SVPs was me sending LinkedIn recruit and emails to a bunch of AI researchers.
+
+**Marcel Santilli:** It worked, but I sent them out to 2000 before my account got blocked temporarily, but it worked.
+
+**Marcel Santilli:** And so, okay, cool.
+
+**Marcel Santilli:** And I think I have a good, a good directive and then I'll follow up with the kind of like more of the, the short term plan as far as like getting the, the blog back up and, and.
+
+**Marcel Santilli:** Starting that cadence and then also like I think we're making amazing progress on the video so hopefully like we can get it to a good like first version that can go out and then like we got the podcast going so I'll like regroup everything because I know there's a lot going on so and connect all the dots for us here in the next couple days if that works.
+
+**Scott Heiner:** We also I think we should be able to get out our first benchmark slash leaderboard effort sometime in August.
+
+**Scott Heiner:** So that that'll be a nice dubstep because I think one thing that's gonna be important to us is like we do the whole ground game but we also have super interesting timely stuff to say so getting the blog back up to speed which I know next work on a blog post getting like leaderboard benchmark stuff out that will just give us lots of fodder on things to talk about beyond just our our once the basic like spiel of surge we've done that whole cycle this will give us new stuff too.
+
+**Bradley Webb:** I mean I think that that will be when you're talking about leverage points I think those will be like
+
+**Bradley Webb:** If the momentum builds there, that will be the place where we will find the most momentum, because it's the place where we're most authentic, uniquely us, and have something interesting and healthy to say that other people will care about hearing us say.
+
+**Marcel Santilli:** Are there, like, I know we're at time, but are there things where potentially, like, smaller but really high-quality open data sets that, or anything that someone could, like, take an open-source model and, like, leverage the data somehow, a small subset of the data or something, or, you know?
+
+**Scott Heiner:** Yeah, we've tossed around this idea before, because we've always, I think long ago, we sort of had the dream of, like, could we train two identical models, like, same architecture, one on  data, one on good data, just put both up on a web app, and just say, look, like, this is the only difference is good data versus bad data, like, you know, try it, try it.
+
+**Scott Heiner:** I think there's something there.
+
+**Scott Heiner:** I don't know exactly what it is, but there's some opportunity to do something like that.
+
+**Marcel Santilli:** I was taking open data sets.
+
+**Marcel Santilli:** I think it was Nick or Edwin that mentioned this, taking open data sets that have really  label data and fixing it and showing the fixes.
+
+**Marcel Santilli:** We used to do that back in the day.
+
+**Marcel Santilli:** Yeah, those are great, but cool.
+
+**Marcel Santilli:** Anything else that we didn't cover that you want to make sure I'm thinking about as well?
+
+**Scott Heiner:** Edwin, you have any, like, in terms of your personal involvement in some of this stuff, do you have any red lines that are you open for anything at the moment?
+
+**Edwin Chen:** Yeah, I'm open for anything.
+
+**Scott Heiner:** Cool.
+
+**Scott Heiner:** So maybe just while I have you.
+
+**Edwin Chen:** So concretely, so you actually think that it's better to kind of spike a bunch of things all at once, like, you know, in terms of all the podcast requests?
+
+**Edwin Chen:** So maybe just to enumerate.
+
+**Edwin Chen:** You're the ones that people have reached out about.
+
+**Edwin Chen:** So there's Sarah Gual.
+
+**Edwin Chen:** She's like, yeah, think you've a very long connection.
+
+**Marcel Santilli:** So she reached out yesterday.
+
+**Marcel Santilli:** There's Tim O'Reilly.
+
+**Edwin Chen:** Oh, Tim O'Reilly was more of a video series that I don't know.
+
+**Edwin Chen:** It was Nathan Lambert.
+
+**Edwin Chen:** So he's like a decently well-known RLHF blogger.
+
+**Edwin Chen:** There's Gradient Descent.
+
+**Edwin Chen:** So like a former Weights Advises CEO of his podcast.
+
+**Marcel Santilli:** Yeah, he's legit.
+
+**Edwin Chen:** Yep.
+
+**Edwin Chen:** Okay.
+
+**Edwin Chen:** So I should just like do all those as soon as possible.
+
+**Edwin Chen:** Those are as good as you can get for AI audiences, man.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Maybe Lex is the only other one that like could be a little bit higher than that as far as distribution.
+
+**Marcel Santilli:** But then 20VC and My First Million will get like the general audience and the like AI curious, you know, just enough there.
+
+**Marcel Santilli:** And I think like what I love about Weights and Biases, I almost.
+
+**Marcel Santilli:** I almost took a job there before I joined DeepGram.
+
+**Marcel Santilli:** They were the most OG technical content for ML researchers.
+
+**Marcel Santilli:** And so they did that for so long that they were kind of like the only ones.
+
+**Marcel Santilli:** All the other ones were like  ML app tools that never survived and never did anything.
+
+**Marcel Santilli:** And they were the only ones that were like, and then Hugging Face was coming up, but they never really were.
+
+**Marcel Santilli:** They were more like community.
+
+**Marcel Santilli:** They were never like really good ML content.
+
+**Marcel Santilli:** And so like that podcast and the content they've done is literally the only hardcore ML, you know, that's up around, you know, so, so he's got a great distribution and, um, yeah.
+
+**Edwin Chen:** And then, but we should let, should we let Harry Stebbings be, because he asked me on call today to let him know if we were having any podcasts released before two weeks.
+
+**Edwin Chen:** Do we want him to be the first one?
+
+**Edwin Chen:** Yeah, yeah, we can, we can do that.
+
+**Marcel Santilli:** I mean, I think my first million was the first one, right?
+
+**Marcel Santilli:** Like, but I never, I actually had a reschedule when they haven't.
+
+**Edwin Chen:** Okay.
+
+**Edwin Chen:** What would help?
+
+**Marcel Santilli:** I know you have the PR company.
+
+**Marcel Santilli:** Is there anything we could do to help coordinate those?
+
+**Marcel Santilli:** I think it is nice that you're personally involved, obviously, but it's essentially to create a little bit of FOMO between these.
+
+**Marcel Santilli:** Or if they're saying, hey, we want to have an exclusivity on the next two weeks to be the first one out, like there's a little bit of like coordination or give and take.
+
+**Marcel Santilli:** Or if my first million is a little bit like slow to respond, like it's better that it's someone else responding instead of you being like, hey, just want to give you a heads up that we have recording schedule with like 20 BC with like this, this, this, this, this.
+
+**Marcel Santilli:** And then like we might have to.
+
+**Edwin Chen:** We haven't moved in to PR folks at all for any of the podcasts.
+
+**Edwin Chen:** Okay.
+
+**Edwin Chen:** So I would say it's like, do you want to?
+
+**Edwin Chen:** Do you guys want to handle this, or do you want us to ask the PR folks to handle it?
+
+**Edwin Chen:** Yeah, like, I can jump in as well.
+
+**Marcel Santilli:** I just wanted to make sure, like, I don't know if they have the full context yet, like, of our...
+
+**Marcel Santilli:** I think we haven't told them about the podcast at all.
+
+**Edwin Chen:** Yeah.
+
+**Marcel Santilli:** No, I think it's obvious that Marcel should handle it.
+
+**Nick Heiner:** I mean, the PR guys, not only do they have specific context, they will never have heard of any of these podcasts even.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** like, Marcel just knows what to do.
+
+**Marcel Santilli:** Yeah, because, like, I can, because I can also backchannel, too.
+
+**Marcel Santilli:** Like, for example, like, the producer of My First Million, Ben, hit me up on, like, last Sunday or last Saturday.
+
+**Marcel Santilli:** And it was kind of, like, backchanneling a little bit because Greg is really good friends with Ben.
+
+**Marcel Santilli:** And so it's, like, Greg came and held out with us and then was, like, put in a good word.
+
+**Marcel Santilli:** So it's, like, you see how all these things kind of connect, you know?
+
+**Marcel Santilli:** And so, but the main thing with these is just, like, creating the FOMO.
+
+**Marcel Santilli:** It's, like, it's the perfect combination of storms.
+
+**Marcel Santilli:** Like, hey, Forbes wants to do a cover story and 20VC wants an exclusive on the podcast, but they only want to go out.
+
+**Marcel Santilli:** But before I respond to them, I wanted to give you a first and if you wanted to record before them, but if you are okay with releasing podcasts weeks from now, then that's okay.
+
+**Marcel Santilli:** And then that creates this like, holy , like we better jump on it.
+
+**Marcel Santilli:** This thing's gonna get big, you know, and then they tell other people about it.
+
+**Marcel Santilli:** And, you know, it's like, but then if you're the ones doing that, then it comes across a little bit like you're, you're bragging about yourself a little too much, you know, like, whereas if I do it, it's completely okay.
+
+**Marcel Santilli:** I got it.
+
+**Marcel Santilli:** Oh, yeah.
+
+**Edwin Chen:** I mean, if you can do that, that would be great.
+
+**Edwin Chen:** can loop you into the other ones.
+
+**Edwin Chen:** Okay, cool.
+
+**Marcel Santilli:** And we have like five different EAs that support me and others on our side too.
+
+**Marcel Santilli:** So it's like, they can, they can help with the logistics, you know, it's like.
+
+**Marcel Santilli:** Cool, Yeah, that's all good.
+
+**Nick Heiner:** And then to answer your question specifically, I kind of doubt even if you go full speed ahead with trying to do the other podcasts, that any of them would actually be ready to publish faster than 20 BC.
+
+**Nick Heiner:** I mean, we can set it up if it looks like even a real possibility, but I think it probably won't be a, I don't think it'll actually matter.
+
+**Nick Heiner:** Yeah.
+
+**Marcel Santilli:** The main thing is, like, controlling the narrative as far as, like, we have intense customer demand, not overwhelming, right?
+
+**Marcel Santilli:** And because of that, like, all these AI labs won a lot of high-quality data, and they won it yesterday, and they won a lot of it.
+
+**Marcel Santilli:** And so, like, Edwin, you know, that's Edwin's and the company's, like, main focus.
+
+**Marcel Santilli:** But so, like, we're doing this for a limited time period kind of thing.
+
+**Marcel Santilli:** Like, kind of, like, that should be the perception, not that, like, we're not going to be here forever.
+
+**Marcel Santilli:** Like, you want to talk to us, like, this is the time to talk to us.
+
+**Marcel Santilli:** We're making an exception because, you know, and then, like, we use that plus the FOMO of, like, all these players to then go get, like, cherry-pick everybody else.
+
+**Marcel Santilli:** And then take, like, everyone else that didn't make the, you know, tier one.
+
+**Marcel Santilli:** And, I mean, tier two sounds bad, but it's, like, think of it as, like, tier two should be everyone else in the company other than Edwin and fill in those spots as much as possible.
+
+**Marcel Santilli:** And then, like...
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then get our ground game started.
+
+**Marcel Santilli:** That's the air game.
+
+**Marcel Santilli:** And then we'll get our ground going too.
+
+**Marcel Santilli:** It sounds perfect.
+
+**Nick Heiner:** Is there some, I mean, I love the framing of like, we're coming to talk to people for a limited time and then we're going back to building.
+
+**Nick Heiner:** Does that kind of paint us into a corner though?
+
+**Nick Heiner:** If you decide next month, we want to keep doing podcast hits.
+
+**Marcel Santilli:** I don't see Edwin wanting to, like, no offense, that's a good thing.
+
+**Marcel Santilli:** Wanting to do five podcasts a week and definitely.
+
+**Marcel Santilli:** I don't think it's a lie that Edwin is not going to be doing podcasts every single week for the rest of his existence, you know?
+
+**Marcel Santilli:** Okay, yeah, I like the framing of that.
+
+**Nick Heiner:** Yeah, yeah.
+
+**Marcel Santilli:** But also, who cares?
+
+**Marcel Santilli:** No one's measuring.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** Awesome.
+
+**Marcel Santilli:** Thank you.
+
+**Marcel Santilli:** I'll follow up by tomorrow with, like, a lot more of, like, the recap and details.
+
+**Marcel Santilli:** But this gave me a ton to go by.
+
+**Marcel Santilli:** I appreciate it.
+
+**Marcel Santilli:** Thanks so much, Marcel.
+
+**Nick Heiner:** Good.
+
+**Nick Heiner:** I'm really excited.
+
+**Nick Heiner:** I'm excited.
+
+**Marcel Santilli:** Nice.
+
+**Marcel Santilli:** Bye.

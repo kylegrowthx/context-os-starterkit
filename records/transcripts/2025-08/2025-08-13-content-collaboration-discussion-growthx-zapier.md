@@ -1,0 +1,862 @@
+# Content Collaboration Discussion — GrowthX & Zapier
+
+<metadata>
+date: 2025-08-13
+time: 22:17 UTC
+duration: 33 minutes
+organizer: tyler@growthx.ai
+participants: Kaveh Motamed (Zapier), Marcel Santilli (GrowthX), Kyle Gaudreau (GrowthX), Tyler Pavlas (GrowthX), Angela Ferrante (Zapier), Michal Sennett (Zapier)
+fathom_recording_id: 80458473
+fathom_url: https://fathom.video/calls/378467461
+share_url: https://fathom.video/share/_vcNsRFvExosNscLx-T3s5zs_vLWzHML
+source: fathom
+enriched_on: 2026-03-03 05:51 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Zapier explored a potential collaboration to address Zapier's shift toward enterprise sales motion, where a 9-12 month sales cycle requires keeping prospects engaged through content and demand generation. Marcel outlined GrowthX's 8-week strategy sprint ($30K) plus ongoing execution to build industry-specific content, LLM-optimized materials, and sales enablement assets. Key collaboration opportunities include newsletter development for AI transformation leadership, content optimization for AI tool visibility, and programmatic refreshes to improve prospecting and conversion. Next steps: Kaveh will email 3-5 priority bets for Zapier over the next 6 months, GrowthX will send a calendar invite for a Tuesday 10am PT deep-dive meeting, and they'll establish a shared Slack channel.
+
+---
+
+## Context
+
+Zapier is a no-code automation platform shifting its go-to-market from product-led growth (self-serve SMB) to a sales-led enterprise motion. Kaveh Motamed leads demand generation and growth marketing, building their sales enablement and content strategy as a zero-to-one motion. GrowthX—founded by Marcel Santilli and now with 55+ people—builds content and growth programs for B2B SaaS companies, having worked with brands like Ramp, Webflow, Normal Security, Sentinel One, and Augment Code. The GrowthX team includes Marcel (CEO with prior CMO experience at ScaleAI, HashiCorp, and HP), Kyle Gaudreau (who led growth at Trey, a Zapier competitor), and Tyler Pavlas (founding AE from Segment). The relationship has multiple connection points: Kyle studied Zapier's growth playbook at Trey and was GrowthX's first customer, while Marcel is personally connected to Zapier's leadership through investors and relationships. This exploratory meeting aimed to assess whether GrowthX could help Zapier accelerate their enterprise sales motion through strategic content and demand generation capabilities.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Large, organized marketing team at Zapier (similar profile to other enterprise clients like Ramp, Sentinel One) indicates potential for sizable engagement
+- Enterprise sales motion creation is a proven GrowthX competency; Kyle's experience at Trey validates deep understanding of go-to-market transitions
+- Newsletter and content distribution (Beehive/email programs) are core GrowthX service lines; Zapier's AMAs and hackathons present similar execution opportunities
+- LLM content optimization aligns with CheckThat and AEO work; significant opportunity to position Zapier content for AI tool visibility
+
+**To CheckThat:**
+- Zapier's interest in LLM content optimization and AI tool visibility directly applies CheckThat's core value prop—understanding how Zapier appears in AI-powered search
+- Potential for CheckThat integration into Zapier's demand gen workflow if engagement converts to execution phase
+- Reference potential: successful engagement with Zapier could serve as case study for AI visibility impact on enterprise pipeline
+
+**To GrowthX Business Development:**
+- Strong account health signals: Kaveh's organization size, engaged leadership, clear budget allocation for strategy sprint ($30K), and executive sponsorship (involvement of multiple stakeholders)
+- Expansion potential: Initial 8-week sprint positions follow-on execution work (estimated $50-150K+) if priority areas warrant
+- Renewal and upsell opportunity: Zapier's enterprise motion is in "zero to one" phase; success creates ongoing need for content production and optimization
+- Strategic fit: Working with Zapier elevates GrowthX's portfolio and strengthens relationships with founder network (Marcel's investor connections)
+
+---
+
+## Overview
+
+- Zapier is transitioning from product-led growth (self-serve SMB) to an enterprise sales motion with a 9-12 month sales cycle; their focus is on keeping prospects engaged through content, AMAs, and hackathons while showing them multiple use cases
+- GrowthX specializes in strategy sprints (8 weeks, $30K) plus execution services for organic growth, content creation, and thought leadership; they've worked with companies like Ramp, Webflow, Sentinel One, and others
+- Potential collaboration areas include AI transformation newsletters (Beehive-style), LLM content optimization for AI tool visibility (CheckThat-related), sales enablement through industry-specific content, and programmatic content refreshes with CTA optimization
+- Engagement would start with a deep-dive meeting (Tuesday 10am PT) after Kaveh emails 3-5 priority bets; GrowthX will create a shared Slack channel for ongoing collaboration
+
+---
+
+## Key Topics
+
+### Zapier's Current Focus and Challenges
+
+  - Shifting focus from self-serve SMB to enterprise sales motion
+  - 9-12 month sales cycle requires keeping prospects engaged
+  - Conducting AMAs and hackathons to demonstrate product value
+  - Challenge: Getting prospects to see multiple use cases beyond initial problem-solving
+
+### GrowthX's Approach and Services
+
+  - Strategy sprint: 8-week engagement to create artifacts and execute initial projects
+  - Persona and industry-specific content creation
+  - Interactive experiences (e.g., use case pages, vendor catalogs)
+  - Newsletter development and distribution (e.g., Beehive)
+  - LLM content optimization for better visibility in AI-powered search
+
+### Potential Collaboration Areas
+
+  - Newsletter development for AI transformation leadership
+  - LLM content optimization to improve Zapier's visibility in AI tools
+  - Sales enablement through industry and account-specific artifacts
+  - Programmatic content refreshes and CTA optimization
+
+### Engagement Process and Next Steps
+
+  - Strategy sprint: 8 weeks, $30K one-time fee
+  - Follow-up growth execution based on identified work streams
+  - Kaveh to email 3-5 priority areas for Zapier in the next 6 months
+  - GrowthX to create a shared Slack channel for communication
+
+---
+
+## Action Items
+
+**Kaveh Motamed (Zapier)**
+- Email Marcel 3-5 priority areas/bets for next 6 months, ranked by importance
+- Decide additional attendees for Tues 10am PT deep-dive meeting after receiving calendar invite
+
+**Marcel Santilli (GrowthX)**
+- Send calendar invite for Tues 10am PT deep-dive meeting
+- Create shared Slack channel and add Kaveh
+
+---
+
+## Transcript
+**Kaveh Motamed:** If you don't already know if I'm talking to Angela, I don't know if you guys talked to Angela about Zapier and emotions and what we're doing and the gaps, but yeah, let me know.
+
+**Marcel Santilli:** I'd love to, maybe a cool starting place would be just a little bit of intro background yourself and then just kind of saying hi, we can do it fast.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** And then just, yeah, like get a little bit more context.
+
+**Marcel Santilli:** Obviously, I've been customer, user, fan of Zapier and Wade.
+
+**Marcel Santilli:** We, and then one of our investors, Karan, has known Wade since before funding and everything and they're, they go back a lot and are really close.
+
+**Marcel Santilli:** And so, heard a lot of like the journey and then, and then I've been connected with Angela for a while as well separately.
+
+**Marcel Santilli:** And so, but there's always a lot of context.
+
+**Marcel Santilli:** let's just maybe start with a quick intro and then we can give a little background too if you're helpful.
+
+**Kaveh Motamed:** No, no, amazing.
+
+**Kaveh Motamed:** Sweet.
+
+**Kaveh Motamed:** Yeah, so I've been, I've been here for four years and a few months.
+
+**Kaveh Motamed:** I pretty much for the past 15 years of my life been in performance.
+
+**Kaveh Motamed:** Marketing, Custom Acquisition at various B2B, B2C companies.
+
+**Kaveh Motamed:** I joined Zapier four years ago and they had no paid program because everything was very organic, word of mouth and content SEO.
+
+**Kaveh Motamed:** So they wanted me to come spin up the program to see like, can we actually acquire users profitably?
+
+**Kaveh Motamed:** So we can have been scaling that program pretty effectively on the various different channels.
+
+**Kaveh Motamed:** And then over the past four years, my scope has like broadened and changed where SEO, programmatic content, event is now under me.
+
+**Kaveh Motamed:** And really the lens is essentially two different pillars.
+
+**Kaveh Motamed:** One is like continuing to go on the self-serve AR side of the business.
+
+**Kaveh Motamed:** And the other one, which we've been recently getting into is a sales led motion of like, hey, moving up market.
+
+**Kaveh Motamed:** How do we develop like demand gen pipeline motion for our sales team?
+
+**Kaveh Motamed:** And yeah, and then before that, there's different companies, just mostly don't like the paid side, honestly.
+
+**Kaveh Motamed:** Yeah.
+
+**Marcel Santilli:** Well, congrats on the, all the, you know, the, the journey there.
+
+**Kaveh Motamed:** That's, that's very, yeah, it's a good, and I'm sure there's always more work than, I know, time for, but.
+
+**Kaveh Motamed:** 100%, it's a double-edged sword.
+
+**Kaveh Motamed:** You get someone and you're like, I have no time to do all this stuff.
+
+**Kaveh Motamed:** Yeah, it's like, can we give you three more jobs and a third of the people?
+
+**Kaveh Motamed:** I get jealous of the IC.
+
+**Kaveh Motamed:** They're like, should I just go be an IC and just do that?
+
+**Marcel Santilli:** I know, that's like my biggest advice when people come to me, it's like, how can I become a CMO?
+
+**Marcel Santilli:** I like, why the  would you want to?
+
+**Kaveh Motamed:** It's such a, it's such a, yeah, no, I, I regret raising my hand.
+
+**Kaveh Motamed:** My team is fairly large.
+
+**Marcel Santilli:** My team is 55 people right now.
+
+**Marcel Santilli:** Holy smokes, dude.
+
+**Kaveh Motamed:** So, it's like, yeah, so I don't, I don't have time.
+
+**Marcel Santilli:** I don't.
+
+**Kaveh Motamed:** No, Zapier's marketing team in general is fairly large.
+
+**Kaveh Motamed:** Just because our PMM and content, and before all this AI stuff, like, you know, it was larger because we were, like, leaning on towards building content.
+
+**Marcel Santilli:** And now we're shifting some of the roles.
+
+**Marcel Santilli:** Yeah.
+
+**Kaveh Motamed:** Does that make sense?
+
+**Kaveh Motamed:** Hey, I could do a lot of that stuff for you now.
+
+**Kaveh Motamed:** Yeah.
+
+**Marcel Santilli:** We'll do, we can do super, super quick because I don't spend too much time on intros, but TLDRs, my whole career, built content programs and been a marketing leader, did it at IBM and then HP, and then was at a few companies that did pretty decent, HashiCorp went public, ServiceSighten went public, and then ScaleAI was a crazy company to work for as their first and only CMO, the only one that survived, the only one that made it.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** But I have the scars to show for it, and then, you know, they did pretty decent as a company as well, and yeah, and then been building, fast forward a little bit, GrowthX started as me building workflows and then doing workshops, teaching people how I built workflows to grow organically, and then after a bunch of people came to workshops, including Kyle in one of them, and then we started to just take on clients, and then fast forward now, we raised Series A at the beginning of the year.
+
+**Marcel Santilli:** We, we, we're, we're seven.
+
+**Marcel Santilli:** Many people, we just crossed 10 million in revenue in one year.
+
+**Marcel Santilli:** And yeah, we get to work with like some cool brands, not as cool as Zapier, I'd say, but you know, some decent ones like Ramp and Webflow, Normal Security, Sentinel One, Augment Code, a bunch of others, you know.
+
+**Marcel Santilli:** And so we know how to handle the tricky ones, the complex ones, and the fun ones.
+
+**Marcel Santilli:** And yeah, so I'll pass it over to Kyle real quick.
+
+**Kyle Gaudreau:** Yeah, appreciate it.
+
+**Kyle Gaudreau:** Excited about this chat because I have an interesting related journey to Zapier.
+
+**Kyle Gaudreau:** was actually at one of your competitors for a while, leading growth at Trey for two and a half years.
+
+**Kyle Gaudreau:** And so I spent a lot of time studying the Zapier program.
+
+**Kyle Gaudreau:** I did not have a team nearly as big.
+
+**Kyle Gaudreau:** So how to be scrappy and was able to find a lot of success, helped them triple in my first year in revenue, double in the next.
+
+**Kyle Gaudreau:** A lot of different things in paid and organic.
+
+**Kaveh Motamed:** Actually, it was a bit of a reverse of what you mentioned.
+
+**Kaveh Motamed:** It was for sales-led, and I helped them stand up their PLG motion.
+
+**Kaveh Motamed:** Got it.
+
+**Kaveh Motamed:** And so had a lot of experimentation around both sides.
+
+**Kaveh Motamed:** And so, you know, for me, I wanted to jump in on this because I had no doubt there's likely a lot of context and history.
+
+**Kaveh Motamed:** I can be valuable here in a variety of ways.
+
+**Kaveh Motamed:** But, yeah, my background is a digital growth, spent 20 years there, also as the first customer at GrowthX, helped lead the client services side for a while, just worn a variety of different hats here, help wherever I can.
+
+**Kaveh Motamed:** Cool.
+
+**Tyler Pavlas:** And great to meet you, Kaveh.
+
+**Tyler Pavlas:** Tyler Pavlis.
+
+**Tyler Pavlas:** I'm the founding account executive here at GrowthX.
+
+**Tyler Pavlas:** So first sales hire and started my career in strategy consulting at PwC, moved to enterprise software after that, was at Segment, through the acquisition by Twilio, and then some companies in the content marketing space.
+
+**Tyler Pavlas:** So when I saw what Marcel was doing, combining, you know, the quality of services with the speed of AI and scalability of software, I just was like, this is a no-brainer. This is the best job I could go out and get. So I'm here.
+
+**Kaveh Motamed:** We agree.
+
+**Marcel Santilli:** you know, we're expecting him to, I'm just kidding.
+
+**Marcel Santilli:** Tyler's awesome.
+
+**Marcel Santilli:** And yeah, man, we'll love some context.
+
+**Marcel Santilli:** I think we have all the context on from an outsider perspective of the, of our backgrounds, but we'd love any additional context on like, what's keeping you up at night?
+
+**Marcel Santilli:** What are the bottlenecks?
+
+**Marcel Santilli:** What is the things you had imagined when you wish, you know, all of that good stuff.
+
+**Kaveh Motamed:** Yeah, I would say, so like, you know how there's like two, the self-serve SMB side and enterprise, the PLG side, that's pretty much like lock and loaded.
+
+**Kaveh Motamed:** We've been doing it for a while.
+
+**Kaveh Motamed:** Like optimization is there and like, it's more like keep the lights on and maintain it.
+
+**Kaveh Motamed:** I don't think that's at all the focus for me or the company.
+
+**Kaveh Motamed:** Then most of the focus is around like driving pipeline, demand, general growth on the sell side.
+
+**Kaveh Motamed:** That's a fairly new motion for a company has been very much PLG focus.
+
+**Kaveh Motamed:** And so most of the team reorient them, them to.
+
+**Kaveh Motamed:** Think about how to run an experiment, how to think about the funnel end-to-end, what are the right hooks in the call to action.
+
+**Kaveh Motamed:** We have a longer sales cycle.
+
+**Kaveh Motamed:** It's like roughly around 9 to 12 months.
+
+**Kaveh Motamed:** How do you keep that customer engaged?
+
+**Kaveh Motamed:** What type of use cases can you provide?
+
+**Kaveh Motamed:** And what type of programs can you activate?
+
+**Kaveh Motamed:** That's all essentially is infancy zero to one.
+
+**Kaveh Motamed:** We're kind of building it as we speak right now.
+
+**Kaveh Motamed:** And so I don't have a lot of data and I can tell you this works or this doesn't.
+
+**Kaveh Motamed:** The only thing that we've seen pretty effective are we do various different AMAs with our executive of like, hey, you want to transform your team and bring AI into your department.
+
+**Kaveh Motamed:** Don't worry.
+
+**Kaveh Motamed:** Look at how our HR team has done it and come to an AMA.
+
+**Kaveh Motamed:** They're going to walk through it.
+
+**Kaveh Motamed:** Come talk to our marketing leaders, our finance leader.
+
+**Kaveh Motamed:** And we're kind of like open sourcing our own playbook of how we got the entire company to really lean into and build different workflows.
+
+**Kaveh Motamed:** And that's like one of our hooks. The other one that we've had that has shown like good traction early on is hackathons—where it's mostly like prospects, people that we like and we're trying to close.
+
+**Kaveh Motamed:** We'll say, you know what, we're going to actually fly someone to your company.
+
+**Kaveh Motamed:** It's more like the old McKinsey model, like we're going to have one or two folks there, bring your laptop, let's get into it.
+
+**Kaveh Motamed:** Like what workflows you want built within Zapier and we'll just build them for you and we'll just talk through it and create that stickiness.
+
+**Kaveh Motamed:** So for us, I mean, you guys have used our product.
+
+**Kaveh Motamed:** It's a lot of like seeing it and believing it.
+
+**Kaveh Motamed:** And once you see it, you have that aha moment, getting people to that stage is like what we're trying to do.
+
+**Kaveh Motamed:** And then once they get to that stage, how do you get them to come up with the second, third, fourth, and the use case?
+
+**Kaveh Motamed:** Most people aren't actually that creative and they just tap out because they have a problem with my lead management.
+
+**Kyle Gaudreau:** I come and use you and I'm like, I can't, I don't know what else to do.
+
+**Kaveh Motamed:** That sounds familiar.
+
+**Kaveh Motamed:** That's like the thing.
+
+**Kaveh Motamed:** It's a very hard problem for us.
+
+**Kaveh Motamed:** It's like when you have a horizontal business and there's so many different use cases, so many different like job functions.
+
+**Kaveh Motamed:** It's like, how do you go to market and really present that in the right way?
+
+**Kaveh Motamed:** Um, on, on the sales front.
+
+**Kaveh Motamed:** So that's kind of like, and then like, you know, stuff that's maybe, I don't know if you guys handle or do, but just like, Hey, there's data issues and like, that's not synced up with that table.
+
+**Kaveh Motamed:** And when we look at like our leads or MQLs, it's like, that's like a rev up and data team are working to fix that.
+
+**Kaveh Motamed:** But that's like, just for transparency, we're just building everything.
+
+**Kaveh Motamed:** And like, it's not perfect.
+
+**Kaveh Motamed:** we don't have all of it.
+
+**Kaveh Motamed:** But I'm trying to jumpstart a team to essentially over index on velocity of test that we go to market with versus like, I don't really care so much about the rigor right now.
+
+**Kaveh Motamed:** Like just get stuff out the door and let's start shipping things and getting learnings and iterating.
+
+**Kaveh Motamed:** And then eventually we'll get to a place where we'll have a lot of the data and historic context and we'll be smarter about it.
+
+**Kaveh Motamed:** But like, I don't want people to like spin their wheels for like three weeks trying to perfect the plan.
+
+**Kaveh Motamed:** We're like, I don't, we don't have anything.
+
+**Kaveh Motamed:** We're just all guessing right now.
+
+**Marcel Santilli:** Yeah, so yeah, that makes that makes sense.
+
+**Marcel Santilli:** And like,
+
+**Marcel Santilli:** So maybe there's a couple things we could do here.
+
+**Marcel Santilli:** One is I could kind of show you, I could start with kind of how we work normally.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** I could start with like what we've done and then work backwards to how we work.
+
+**Kaveh Motamed:** What do you prefer?
+
+**Kaveh Motamed:** Let's, let's, maybe like how you guys like work would be great just to get a sense.
+
+**Marcel Santilli:** Yeah, cool.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So let me share my screen and I talk fast.
+
+**Marcel Santilli:** If I go too fast, let me know.
+
+**Kaveh Motamed:** No, no, it's all good.
+
+**Marcel Santilli:** If I like, yeah, go, go fast.
+
+**Marcel Santilli:** I like listening to podcasts at one and a half to two X, you know, kind of.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** But okay.
+
+**Marcel Santilli:** So the main way to think about it is, if you're familiar with Harvey AI or kind of Palantir, we're that for organic growth and content, right? Like, what we found is a lot of the process that are really critical is to start by surfacing the right artifacts in the right context.
+
+**Marcel Santilli:** So think of it as like context engineering, regardless of what workflows you're building or what you're doing, like, or to enable you to scale is generating the right artifact, which requires us to go like super deep, not just deep into like your company and the market overall, but also understanding like the different verticals.
+
+**Marcel Santilli:** And I can kind of show you a bunch of kind of examples.
+
+**Marcel Santilli:** And then from there, like what we do is kind of this strategy sprint that's only eight weeks, but we actually do a ton of execution as part of it.
+
+**Marcel Santilli:** And what we're doing is creating these artifacts in order for us to scale different programs that we would work on for you, right?
+
+**Marcel Santilli:** And so part of what we do, and I'll give you a ton of examples here, is start to map out like your audience personas.
+
+**Marcel Santilli:** Obviously in a PLG, that's one thing, but then in an enterprise play.
+
+**Marcel Santilli:** So for instance, like take abnormal security, Sentinel One, or like Outreach, or Udemy, we just kicked off, right?
+
+**Marcel Santilli:** Yeah, or take Auth0, Okta—they're very verticalized. And so it's not just the personas, it's also how that persona is adapted to different industries, right?
+
+**Marcel Santilli:** And then what that means in creating the artifacts for that angle.
+
+**Marcel Santilli:** And then what we're doing from there is then starting to map out different opportunities, whether it's like from a content perspective, but also give you examples of things that can be more thought leadership, more personalized, more, you know, kind of ABM-ish, you know, that we're doing.
+
+**Marcel Santilli:** But the foundation is kind of similar where we're really trying to understand, like, what are all the things that those people really, really care about?
+
+**Marcel Santilli:** And then starting to kind of place some bats down, right?
+
+**Marcel Santilli:** And so, like, under the hood, what we built is this, think of this as, like, a workflow, like, a coding agent that ingests a lot of these artifacts and can produce a lot of the, like, outputs with an expert in the loop, right?
+
+**Marcel Santilli:** So, like, for instance, like, this is examples around content, but just to kind of give you an idea here.
+
+**Marcel Santilli:** So let's say like augment code where we identify opportunity in the audience.
+
+**Marcel Santilli:** And what we're doing is like going through like and doing deep research on the topic, all the topics of your company, right?
+
+**Marcel Santilli:** But then like, let's say like you take something kind of like this as a deep research and the final output, you know, you, it's like, it's not just like search.
+
+**Marcel Santilli:** It's also how you're being positioned in, in AI and LLM and, you know, AI overall, right?
+
+**Marcel Santilli:** And so like what we're finding is almost kind of like inception in some ways, right?
+
+**Marcel Santilli:** Where like you want to be mentioned, especially from an enterprise context or different industries and different angles, like you want to start inserting yourself.
+
+**Marcel Santilli:** And so the way I kind of think about it is like, you guys did an amazing job of research.
+
+**Marcel Santilli:** When it comes to like AI visibility, it's about like, not just your first impression, but also your first sales call is happening in LLM.
+
+**Marcel Santilli:** Yeah, if you were not searching like workflow automation tool and search what they're doing.
+
+**Marcel Santilli:** It's like, hey, I'm processing these documents in insurance, and I'm trying to do X, Y, and Z.
+
+**Marcel Santilli:** What are some ways I can do it using AI, right?
+
+**Marcel Santilli:** And now that's, like, use case specific, right?
+
+**Marcel Santilli:** Now that's, like, very, very detailed.
+
+**Marcel Santilli:** And so, like, that's kind of a little bit of what we do, but then how that translates can look very different, right?
+
+**Marcel Santilli:** Like, sure, there's parts that are, like, content and different programs, but then there's, like, different angles that we've done.
+
+**Marcel Santilli:** So, for instance, like, we've done these interactive plays where we mapped out all the use cases based on product usage for VAPI, and then we created these use case pages with interactive components that show their product, right?
+
+**Marcel Santilli:** Got it.
+
+**Marcel Santilli:** It's, like, AI voice agent for wellness clinics.
+
+**Marcel Santilli:** And then, like, there's 2,600 use cases we mapped out based on everything we know about them in all their contexts, right?
+
+**Marcel Santilli:** And so now, like, if you go into, like, chat to PT or perplexity and you're looking for that...
+
+**Marcel Santilli:** specific use case, this starts to show up, right?
+
+**Marcel Santilli:** Or for instance, like for Ramp, it's like we've done these like vendor catalogs.
+
+**Marcel Santilli:** know you guys done similar plays before.
+
+**Marcel Santilli:** And so this is not new to you, but I think it's like specific in that, like we're pulling in their very detailed data.
+
+**Marcel Santilli:** And so it's like adding the context of like Ramp into it.
+
+**Marcel Santilli:** So it's not, you don't want to just show up from an informational perspective.
+
+**Marcel Santilli:** It plugs into the transaction or commercial perspective as well.
+
+**Kaveh Motamed:** Right.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then like a lot of what we do is kind of this combination of like strategy, organic growth, placing down bets and moving really quickly.
+
+**Marcel Santilli:** So this is like a play we did for augment code.
+
+**Marcel Santilli:** We're like, hey, let's test out like creating these interactive like catalogs for people to find like MCP servers or rules, you know, but then it's like creating these kind of interactive experiences as well.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And, um, and then there's like a bunch of different things.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** We've done, so for instance, like let's take like town.com, there's like pieces of content as well, but also like trying to find like, are there additional areas that you can pull in AI features within that experience that you have so that you allow people to kind of navigate further, you know, as well and put them in, pull them into the product or pull them into the content experience that you're generating that would be specific to, to that.
+
+**Marcel Santilli:** And then, and then like, for us, like the reason we're able to scale that, like, I think there's like really a cool example here.
+
+**Marcel Santilli:** So let's say like engine is that we start to create these artifacts that are like industry specific, for instance, right?
+
+**Marcel Santilli:** So it's like, once you have a foundational one, then you can create artifacts that are like industry specific or use case specific.
+
+**Marcel Santilli:** And that allows you to just kind of scale things, things out, right?
+
+**Marcel Santilli:** Like, so those are some of the things, but then that can have different kind of presentation layers or different ways we go about it.
+
+**Marcel Santilli:** So for instance, like for augment code.
+
+**Marcel Santilli:** We launched a Beehive newsletter for them, you know, that's doing really, really well.
+
+**Marcel Santilli:** So it's kind of like, think of it as like a curation.
+
+**Marcel Santilli:** So I know like Wade has all these posts and you guys are doing a lot of that.
+
+**Marcel Santilli:** Like you mentioned, like open sourcing, you know, kind of like how the company's approaching things.
+
+**Marcel Santilli:** And so this is mostly like, how can you take like your massive, massive distribution that you have in terms of number of emails and whatnot and start to create like a weekly edition that resonates with people and it feels more highly editorialized, right?
+
+**Marcel Santilli:** Or, or for instance, like right now, we're, we're talking to a few different companies to do something similar to this that we've done for ourselves, which is like a publication that feels like really like highly editorialized that features, you know, the interviews.
+
+**Kaveh Motamed:** I know Wade, I think has a podcast, right?
+
+**Marcel Santilli:** Yeah, yeah, yeah.
+
+**Marcel Santilli:** So it's like, how can you make sure we're repurposing it in the right way, building distribution and amplifying the thought leadership, right? Like, also just the brand reputation, the reach to amplify, right?
+
+**Marcel Santilli:** And so those are some of the things we've done for different companies.
+
+**Marcel Santilli:** But hopefully it gives you kind of like a high level.
+
+**Marcel Santilli:** Yeah, yeah, yeah.
+
+**Marcel Santilli:** Other things, but that's a little bit of the TLDR, and then we can kind of like dig in and explore, you know?
+
+**Kaveh Motamed:** No, no, no, this is awesome.
+
+**Kaveh Motamed:** No, thank you.
+
+**Kaveh Motamed:** And then I guess what does a typical engagement look like if we work together?
+
+**Marcel Santilli:** Yeah, so all engagements start with a strategy sprint.
+
+**Marcel Santilli:** And the main reason is like when you, these conversations, can have like five more of these, and we're not ever going to get as deep as we need to.
+
+**Marcel Santilli:** And so the strategy sprint is just eight weeks.
+
+**Marcel Santilli:** It's only kind of 30K one time, eight weeks.
+
+**Marcel Santilli:** And what we do as part of that is like do all the artifacts, the entire strategy, and identify any additional opportunities, but also start to execute.
+
+**Marcel Santilli:** So like that code library site example was one we built during a strategy sprint for Augment Code.
+
+**Marcel Santilli:** But then we actually produced newsletters for them and started to create a bunch of guides—enterprise guides for what they're trying to figure out.
+
+**Marcel Santilli:** We built some programmatic plays for them.
+
+**Marcel Santilli:** We've done programmatic refreshes.
+
+**Marcel Santilli:** You guys have a massive surface area.
+
+**Marcel Santilli:** And I know a lot of that is like, you might think of it as POG, but the way we kind of think about it is, if you wanted tomorrow to go through the 3,000 plus pages you have on content, let's say, and figure out which ones to put the right CTAs, they're more kind of like Enterprise CTAs, for instance, right?
+
+**Marcel Santilli:** That would be like a really time-consuming thing to do or just to maintain kind of like the surface area you have up to date.
+
+**Marcel Santilli:** Even if you have it down on lock, like what we found is like usually people's cost to do that at scale with really good quality is like decently high.
+
+**Marcel Santilli:** You know, it's probably like a mini army of people or like, you know, or you end up just like having to prioritize certain things and not be able to like maintain the whole thing.
+
+**Kaveh Motamed:** You know, don't know.
+
+**Kaveh Motamed:** Got it.
+
+**Marcel Santilli:** Got it.
+
+**Marcel Santilli:** Got it.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** From there, we go into growth execution and it's really like based on how many work streams.
+
+**Marcel Santilli:** And so, for instance, like newsletter, editorial, programmatic, sales enablement, like for instance, like for Auth0 and Okta, like we're doing essentially like kind of generating these artifacts by industry and then by account.
+
+**Marcel Santilli:** So that reps know how to essentially like, essentially have like an assistant that has all these artifacts generated so they know how to talk about the different use cases and products by industry or within a certain account that's strategic, you know.
+
+**Kaveh Motamed:** Got it, got it, got it.
+
+**Kaveh Motamed:** Yeah, yeah, yeah.
+
+**Kaveh Motamed:** No, I think that the team, the team has already kind of built like an agent for that, for our sales team, kind of like teases information internally as well as like just public information about whatever that client prospect is for them to be able to like engage and have like a conversation.
+
+**Kaveh Motamed:** The newsletter one is interesting. Beehive—can you talk me through what you guys have done with that? We've actually talked about it today with Angela. Like, how do we own the audience? And our goal is to essentially be the leader when it comes to AI transformation for leaders within the organization.
+
+**Kaveh Motamed:** And there is a sense of, like, we want to kind of, like, lean in on this fear of missing out, exclusivity, if you're falling behind and, like, your job is at risk and you need to, like, move fast.
+
+**Kaveh Motamed:** But there's just so much content out there as an executive.
+
+**Kaveh Motamed:** There's no way you can be up to speed.
+
+**Kaveh Motamed:** So join this newsletter, Substack, Slack group, whatever, right?
+
+**Kaveh Motamed:** We don't know the medium of, like, we will show you how, we will guide you and kind of give you the TLDR information.
+
+**Kaveh Motamed:** So we've been thinking about that, but I'm just curious to see, like, that could actually be an interesting thing for us to work on.
+
+**Kaveh Motamed:** Because also from, like, a resource level, we don't have anyone at our company who could actually dedicate, like, to build that.
+
+**Marcel Santilli:** And what does that look like as a mechanism?
+
+**Marcel Santilli:** So there's a couple components to that, right? The first component is thinking through what we want to achieve.
+
+**Marcel Santilli:** So in your case, you have Wade, you have others that have the thought leadership and have like actually interesting, unique things to say.
+
+**Marcel Santilli:** So that's like a huge advantage already, right?
+
+**Marcel Santilli:** And you also have the distribution already, or you have the reach and the emails, if you will, right?
+
+**Marcel Santilli:** And so what we've done is like, you can certainly send it the same way you send any email.
+
+**Marcel Santilli:** But what we found is like, if you can position it as kind of like a publication as a brand and have like almost like a franchise behind it, in our case, like we have what's called the output, you know?
+
+**Marcel Santilli:** And then like, you can almost think of it as like, we've studied very deeply information products, like people that are like semi-influencers that sell like courses, for example, right?
+
+**Marcel Santilli:** And that's kind of mirror on that, which is like, you have your, you know, your front end offers, ways to drive distribution there.
+
+**Marcel Santilli:** You have a newsletter that nurtures your audience and points them to different offers.
+
+**Marcel Santilli:** And you start to think of it like, how do you build your brand or a subset of your brand as like an information product instead?
+
+**Marcel Santilli:** And in that case, what you're doing is creating these like super crazy compelling offers.
+
+**Marcel Santilli:** Like it's the whole concept of like you're open sourcing your business in order because people find value with the playbooks.
+
+**Marcel Santilli:** But then that pulls them into wanting to use you as well.
+
+**Kaveh Motamed:** Right.
+
+**Marcel Santilli:** And so, so like, for instance, like for us, we, you know, we have the, the output, which is like this newsletter that's like highly editorialized.
+
+**Marcel Santilli:** And, you know, then we have a, like a podcast, right.
+
+**Marcel Santilli:** That that's like really nicely put together, you know, that, that can kind of generate distribution.
+
+**Marcel Santilli:** And then we started to do these workshops.
+
+**Marcel Santilli:** So the last one we did was two Fridays ago.
+
+**Marcel Santilli:** We have over a thousand people come to it, which maybe for Zapier is not a ton, but for us.
+
+**Marcel Santilli:** No, Yeah, yeah, yeah.
+
+**Marcel Santilli:** And, and it was two hours.
+
+**Marcel Santilli:** And then, then.
+
+**Marcel Santilli:** Like we put that in our community and, and, you know, in our case, like we're starting to give it away, but then we have just a small hook for people to pay that way kind of like funds us essentially like growing the community.
+
+**Marcel Santilli:** But in your case, you don't need to do that.
+
+**Marcel Santilli:** And then think of it as like, you're creating almost like kind of this ecosystem because the machine of Zapier is so amazing and big, but also it's like hard for people to find the value that they're looking for from a content perspective, you know?
+
+**Marcel Santilli:** And so you're packaging it in more like, kind of like you said, like that FOMO of like, hey, you want to know how we do it?
+
+**Marcel Santilli:** We're open sourcing it right now, you know?
+
+**Marcel Santilli:** Like it's an example of like where we just went through how we work and everything we do here, you know?
+
+**Marcel Santilli:** And, and it was like, people loved it, you know?
+
+**Marcel Santilli:** And, and, and so it's kind of like, you already have almost like the pieces.
+
+**Marcel Santilli:** And then the Beehive piece is really like the fact that Beehive is the biggest network in, for newsletters.
+
+**Marcel Santilli:** And so what we've done for customers is like take either subset.
+
+**Marcel Santilli:** Or a good chunk of their subscriber base and put it into a newsletter in Beehive and then doing a weekly edition.
+
+**Marcel Santilli:** And so what that does is like one, they have insane deliverability, but two, like you start to be promoted within that network because people want to be featured in your newsletter and they also start to recommend people to your newsletter.
+
+**Marcel Santilli:** So there's this kind of like natural growth, but you can also buy subscribers.
+
+**Marcel Santilli:** And so essentially the way it works with Substacks and Beehive and others is anytime somebody signs up for a newsletter that is, you know, up to, to promote you, they recommend you, your newsletter.
+
+**Marcel Santilli:** And then if someone subscribes and opens an email, yeah, yeah, yeah.
+
+**Marcel Santilli:** So it's like way better than buying a click because buying a subscriber, you know, you know, got it.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So that's what we're doing for Udemy.
+
+**Marcel Santilli:** We're doing frogman code and we're doing for ourselves as well.
+
+**Kaveh Motamed:** Got it.
+
+**Kaveh Motamed:** Okay.
+
+**Kaveh Motamed:** The thing you mentioned about getting your content into different LLMs is something that's interesting as we're thinking about this. Right now we're leaning into off-site Reddit communities and different channels to get citations, and we use Profound internally to track how we show up in different AI tools. So that's something I think you guys do?
+
+**Marcel Santilli:** I'm just curious, so let's say you get an insight in Profound.
+
+**Marcel Santilli:** So like, can you tell me more about like what you guys do with that insight?
+
+**Kaveh Motamed:** I don't, so I don't think we've had any insight yet.
+
+**Kaveh Motamed:** The idea is, hey, we have a subset of like themes and topics that we care about that we want to be able to rank fairly high or at least show up more frequently in this different LLM tools.
+
+**Kaveh Motamed:** We're tracking that to see what that number is.
+
+**Kaveh Motamed:** And then on our end, what we're kicking off Workstream is-
+
+**Kaveh Motamed:** Let's start seeding these topics into different communities.
+
+**Kaveh Motamed:** Let's look at different content syndication plays.
+
+**Kaveh Motamed:** Let's look at PR from both national and local play.
+
+**Kaveh Motamed:** And essentially, the topics that we care about, how do we show them more frequently?
+
+**Kaveh Motamed:** And then track profound and see, once we do this, do we actually see an uptick in the mentions or not?
+
+**Kaveh Motamed:** So how quickly are you?
+
+**Marcel Santilli:** One of the things we found is that it's almost like Inception, right?
+
+**Marcel Santilli:** So the exact language ends up being used, you know, that you use, right?
+
+**Marcel Santilli:** And so that's the part that was kind of like shocking to us a little bit was, you know, like I think I showed, but it's like, you know, like it's not just ranking at the top for this, but if you go into AI mode, it's actually using the exact like terminology that you use.
+
+**Marcel Santilli:** Some tools like augment code address that.
+
+**Marcel Santilli:** It's like this inception of like, oh, okay, this is how it's talked about, right?
+
+**Marcel Santilli:** But then within enterprise topics, it's like way more nuanced, right?
+
+**Marcel Santilli:** Because it's like use case specific as well, right?
+
+**Marcel Santilli:** Yeah, yeah, yeah.
+
+**Marcel Santilli:** And so it's not just like how to build a workflow kind of thing or how to automate X or Y or Z or how to use this tool and sync this tool to that tool.
+
+**Marcel Santilli:** It's more like open-ended and job specific and use case specific, right?
+
+**Marcel Santilli:** And so a lot of this, what we found is if you don't actually map out your personas and then your topics, that's most of the work of one, what to track, but then two, what to do about it, right?
+
+**Marcel Santilli:** And kind of try to like reverse engineer the stuff, know what I mean?
+
+**Kaveh Motamed:** Yeah, yeah, yeah.
+
+**Kaveh Motamed:** No, no, no.
+
+**Kaveh Motamed:** I understand.
+
+**Kaveh Motamed:** Yeah, this is really interesting.
+
+**Kaveh Motamed:** I'm trying to see.
+
+**Marcel Santilli:** Are there any areas that like...
+
+**Marcel Santilli:** Um, so, so I guess like maybe just take a step back, like what's cool about our strategy sprint is that it's a very low or, you know, commitment because it's only eight weeks and at the end you can fire us, we can fire you.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Um, and then a lot of this stuff, and that's why it's so hard.
+
+**Marcel Santilli:** I can sit here and tell you like 50 things, but then a lot of it is like, it's going to come out as we're working with your teams, talking to them, understanding the bottlenecks.
+
+**Marcel Santilli:** And then at the end of it saying like, Hey, these are all the things we can do and start to execute it, you know?
+
+**Marcel Santilli:** Um, and, and so that's usually what I would recommend, but also because it's Zapier and because like of the relationship as well, it's like, we're super flexible and, and, um, and having any opportunity to prove ourselves to, to you guys, you know?
+
+**Kaveh Motamed:** Yeah.
+
+**Kaveh Motamed:** No, no, no, no.
+
+**Kaveh Motamed:** I really appreciate that.
+
+**Kaveh Motamed:** Let me, what I can do is let me think.
+
+**Kaveh Motamed:** What I could do is email you three to five different areas and bets that we're making as a company over the next six months.
+
+**Kaveh Motamed:** And I'll rank order them of, like, the most important to the least important.
+
+**Kaveh Motamed:** And then maybe that's a good starting point.
+
+**Kaveh Motamed:** And that's kind of like our framing.
+
+**Kaveh Motamed:** And also, like, what we'll probably be continuing to focus on going into next year.
+
+**Kaveh Motamed:** And then once you see that, if there's anything that pops out at you, it's like, oh, like, we can do that, like, easily.
+
+**Kaveh Motamed:** Within the time frame of, like, six to eight weeks, I'll, like, actually show something.
+
+**Kaveh Motamed:** Let's just, like, hone in and focus on that.
+
+**Kaveh Motamed:** And then create, like, whatever, a simple SoW, and then we'll tackle it that way.
+
+**Kaveh Motamed:** That might be a good way to frame it.
+
+**Kaveh Motamed:** Because, yeah, I think we go off, like, so many different tangents.
+
+**Kaveh Motamed:** I'd rather just keep the scope as simple and, like, laser-focused, like a SWAT team, just to be able to, like, get something off the ground versus, like, bogging us down with a massive, like, scope.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So, yeah, that sounds good, man. Do you want to pencil in something for a deep dive next week or so? Or how's your schedule?
+
+**Marcel Santilli:** Just that we can always change it and just to kind of pencil it in.
+
+**Kaveh Motamed:** No, we could do Tuesday at 11 a.m. Pacific time, if you guys are down. Does that work?
+
+**Marcel Santilli:** Yeah, we'll make it work.
+
+**Marcel Santilli:** If you can do 10, even better, but...
+
+**Kaveh Motamed:** 10, I can do 10.
+
+**Marcel Santilli:** You can?
+
+**Kaveh Motamed:** Okay, perfect.
+
+**Marcel Santilli:** We'll send out an invite then for that.
+
+**Kaveh Motamed:** Yeah, send me an invite then, and then I'll see who on my side makes sense to be there, and I might just invite them as well too, just so we get like a more like robust conversation.
+
+**Marcel Santilli:** Cool.
+
+**Marcel Santilli:** What we'll do on our end, if you can send us two, three bullets—but also we can set up a shared Slack channel. Would that work?
+
+**Kaveh Motamed:** Or do you guys do that at all? We do. Yeah, if you want to create one, that's fine too.
+
+**Marcel Santilli:** We'll create one and add you.
+
+**Marcel Santilli:** The only reason is we prefer not to use email for this kind of collaboration.
+
+**Kaveh Motamed:** No, we don't do anything in email.
+
+**Kaveh Motamed:** So yeah, no, go ahead and create it.
+
+**Kaveh Motamed:** Go ahead and create it, and then add me, and then yeah, we can just have the conversation there.
+
+**Marcel Santilli:** Yeah. We can send you stuff, you can send me stuff, we can brainstorm, do some looms, you know what I mean?
+
+**Kaveh Motamed:** Yeah, we just want to show you how we work a little bit too, so it doesn't feel overwhelming.
+
+**Kaveh Motamed:** No, no, no, sounds good, sounds good, let's do that.
+
+**Marcel Santilli:** Awesome, cool, man. Thank you so much. I appreciate the connection.
+
+**Marcel Santilli:** Yeah, talk to you guys later.
+
+**Marcel Santilli:** All right, see ya.

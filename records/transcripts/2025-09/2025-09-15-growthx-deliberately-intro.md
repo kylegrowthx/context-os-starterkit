@@ -1,0 +1,721 @@
+# GrowthX <> Deliberately - Intro
+
+<metadata>
+date: 2025-09-15
+time: 22:01 UTC
+duration: 29 minutes
+organizer: tyler@growthx.ai
+participants: Tyler Pavlas, Hans Guntren
+fathom_recording_id: 87392410
+fathom_url: https://fathom.video/calls/409396410
+share_url: https://fathom.video/share/3j_Yspo-msMoydj7TzyG7QHyF-wKu9k_
+source: fathom
+enriched_on: 2025-03-03 08:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+Tyler Pavlas introduced GrowthX's end-to-end content marketing services to Hans Guntren at Deliberately.ai, a legal tech startup aiming to shift from product development to active sales and organic growth. GrowthX pitched a two-phase engagement (20K strategy sprint + 15K/month execution) with daily publishing at 5 articles/week, leveraging AI workflows with expert editors (including a former TechCrunch EIC) to drive high-intent organic traffic. Hans committed to discussing the proposal with his co-founder this afternoon and will follow up via email; Tyler agreed to send the Statement of Work, with mid-October as the earliest available kickoff given GrowthX's four-to-six-week waitlist.
+
+---
+
+## Context
+
+Deliberately.ai is a legal tech startup in early growth stage, with ~10 production customers and plans to begin active sales within 30 days. Hans Guntren, the founder, has been handling content creation himself (blog, industry publications, podcasts) but sees limited organic traffic growth despite SEO efforts. The startup is pursuing a balanced go-to-market strategy: longer-term organic/inbound growth via content marketing and shorter-term outbound growth via BDRs. This introductory call was facilitated by Allison (likely a mutual connection). Tyler Pavlas, GrowthX's founding Account Executive, presented the company's AI-powered content marketing services and demonstrated how GrowthX has helped similar early-stage companies like Augment achieve 10x organic traffic growth in six months.
+
+---
+
+## Relevance
+
+**To GrowthX Business Development:**
+- Strong early-stage prospect: Deliberately.ai has product-market fit (10 customers), is entering active sales phase, and prioritizes organic growth alongside outbound — ideal timing for content partnership.
+- Decision speed required: Hans must secure co-founder buy-in this afternoon and commit by late September to land mid-October kickoff (GrowthX's next available slot). Follow-up email expected within 1-2 days.
+- Demonstrated interest in both editorial and programmatic content plays (glossary, comparison guides) — shows openness to creative strategy beyond standard blog publishing.
+- CMS integration ready: Deliberately.ai uses Framer, one of the platforms GrowthX commonly supports (Framer, Webflow, Sanity).
+
+**To GrowthX Delivery:**
+- Reference potential: If engagement closes and delivers results comparable to Augment (10x growth in 6 months), Deliberately.ai could become a strong reference for other early-stage SaaS in legal/professional services verticals.
+- Workflow stress-test: Legal tech content requires high accuracy and fact-checking rigor (similar to Town's accounting content challenge) — opportunity to demonstrate GrowthX's fact-checker agent and research QA processes.
+
+---
+
+## Overview
+
+- GrowthX is an end-to-end content marketing partner specializing in AI-powered editorial content creation with subject-matter experts in the loop (e.g., TechCrunch's former Editor-in-Chief), offering services from SEO/GEO strategy through daily CMS publishing and fact-checking.
+- Deliberately.ai (legal tech startup) has 10 production customers, is beginning active sales within 30 days, and seeks to balance short-term outbound growth (BDRs) with long-term organic/inbound growth via content marketing.
+- GrowthX engages in two phases: 20K strategy sprint (1-2 weeks) with weekly syncs, audience persona artifacts, and sample content; then 15K/month growth execution with daily publishing of 5 articles/week, fact-checking, and quarterly content refreshes.
+- Customer success highlighted: Augment Code achieved 10x organic traffic growth in 6 months via GrowthX guides; Ramp and Town examples showed programmatic PSEO and high-accuracy editorial approaches.
+- Pricing and timeline: GrowthX is 4-6 weeks booked out; mid-October is the earliest kickoff window. Hans committed to co-founder discussion this afternoon and follow-up email; Tyler will send Statement of Work.
+
+---
+
+## Key Topics
+
+### Deliberately.ai's Current Content Marketing Status
+
+  - Hans has been handling content creation himself, finding it time-consuming
+  - Current efforts: blog posts, contributing to publications, podcasts
+  - Limited organic traffic growth despite SEO efforts
+  - \~10 production customers, hardening product based on feedback
+  - Aiming to start selling "in earnest" within 30 days
+
+### GrowthX's Approach and Differentiators
+
+  - End-to-end partner: SEO/GEO strategy, content creation, daily CMS publishing
+  - Focus on driving high-intent organic traffic through editorial content
+  - Leverages AI workflows with experts-in-loop (e.g., ex-TechCrunch editor)
+  - Two-phase engagement: Strategy sprint (20K) + Growth execution (15K/month)
+  - Daily publishing targeting 5 articles/week
+  - Handles entire process including CMS staging/publishing (e.g., in Framer)
+
+### GrowthX's AI-Powered Content Creation Process
+
+  - Develops rich artifacts on company and audience personas (deeply understanding who personas are, what motivates them, what wins/loses their trust, career impact, pain points)
+  - Multi-step workflow: brief, research, outline, draft, and fact-checking with agentic loops ensuring research quality hits specific benchmarks
+  - Research step includes generating research questions, validating against credible third-party sources, and flagging accuracy concerns with confidence intervals
+  - Fact-checker agent extracts article passages and validates each against independent research, suggesting rewrites if accuracy cannot be proven
+  - Knowledge base integration (structured as knowledge graphs) for leveraging client resources and making research retrieval easier
+  - Platform supports direct team edits and instructions (e.g., "add bullets to intro"), with activity feeds, LLM visibility dashboards, and looker reports for transparency
+
+### Client Engagement and Results
+
+  - Weekly syncs during strategy sprint
+  - Shared Slack channel, Notion page, and internal platform for collaboration
+  - Demonstrated success stories (e.g., Augment's 10x organic traffic growth in 6 months)
+  - No specific guarantees, but emphasis on trust in the process and expert team
+
+---
+
+## Action Items
+
+**Hans Guntren (Deliberately.ai)**
+- Discuss GrowthX proposal with co-founder this afternoon
+- Email Tyler Pavlas after co-founder discussion with decision and next steps
+
+**Tyler Pavlas (GrowthX)**
+- Send Statement of Work to Hans Guntren
+
+---
+
+## Transcript
+**Tyler Pavlas:** This meeting is being recorded. My college football team won a big game on Saturday, so that was a great way to head into the next work week.
+
+**Hans Guntren:** Good, you're high on life. I love it.
+
+**Tyler Pavlas:** I love it. Well, it's a pleasure to meet you. Just as a quick intro, I'm the founding AE here at GrowthX, so I'm going to do my best to give you as much context on who we are, how we partner, and what to expect from GrowthX in this call today.
+
+**Hans Guntren:** Wonderful. I'd love to hear about it.
+
+**Tyler Pavlas:** Great. So, I know Allison introduced you. How much do you know about what we do here?
+
+**Hans Guntren:** Very high level only. She described it to the best of her ability, but it didn't go into great detail. You can assume a fresh start.
+
+**Tyler Pavlas:** I think at a high level, just to give you some initial context, you could see GrowthX as an end-to-end partner — an agency partner with everything from SEO and GEO strategy to content creation to daily publishing in your CMS.
+
+**Tyler Pavlas:** A lot of what we focus on is really helping clients drive organic traffic and, you know, doing that through like editorial content creation.
+
+**Tyler Pavlas:** I guess, you know, where would you say like the company's at in their content journey, given that you guys are a little more early stage than some of the clients that we typically work with?
+
+**Hans Guntren:** I've been doing that myself, which is, it's a lot of work and I can use some help.
+
+**Hans Guntren:** I have, you know, at this moment, I have a blog on the website that we publish too.
+
+**Hans Guntren:** I'm a contributing author to a number of different publications, so I, you know, I get content out that way.
+
+**Hans Guntren:** Uh.
+
+**Hans Guntren:** I do some podcasts, you know, but all in all, we haven't seen a lot of organic graphic yet, you know, like it's, I have somebody helping with a website on SEO, you know, we're always updating that.
+
+**Hans Guntren:** There's a million things that I hear we should do to improve SEO, which we do, and, you know, the difference that it makes is fairly small, and so I'm learning as I go.
+
+**Hans Guntren:** But, you know, it's a, it kind of takes a village, I think.
+
+**Hans Guntren:** It's a lot of, there's a lot to do.
+
+**Tyler Pavlas:** Absolutely, and I guess when you think about, like, your priorities in general, like, do you see, you know, creating, like, a broader blog and, you know, building out more content as high on your priorities, or, you know, are you focused on some other things right now?
+
+**Hans Guntren:** just kind of want to get a sense of, you know, like, when we might be the right partner for you.
+
+**Hans Guntren:** There's, there's two...
+
+**Hans Guntren:** In my mind, two sides to the equation.
+
+**Hans Guntren:** There's driving organic traffic and building pipeline that way.
+
+**Hans Guntren:** And I see that as sort of a long game, right?
+
+**Hans Guntren:** Yep.
+
+**Hans Guntren:** It's slowly build momentum there, but eventually have, you know, regular stream of new customers coming and signing up on our website.
+
+**Hans Guntren:** And then the other half is, you know, I'm the process of looking at how to bring in some BDRs and get them on the phone and start doing outreach to our customer base to build pipeline that way, which I see more as a short-term game.
+
+**Hans Guntren:** And we're both, we're getting started, really just getting started on both of those fronts.
+
+**Hans Guntren:** We've primarily over the last year been focused on product, getting the product developed, raising money, know, all the things.
+
+**Hans Guntren:** Just getting foundations in place.
+
+**Hans Guntren:** But we're at a point now where we've got 10 or so production customers, and we're hardening the product based on their usage and their feedback.
+
+**Hans Guntren:** And I would say in the next 30 days, we'd like to start selling in earnest.
+
+**Tyler Pavlas:** That's awesome.
+
+**Tyler Pavlas:** That's some great traction, and you guys are moving quick.
+
+**Tyler Pavlas:** Love to see it.
+
+**Tyler Pavlas:** How about I go through a quick presentation on GrowthX?
+
+**Tyler Pavlas:** I'll go through some, you know, customer examples, and then I'll show you like the workflow, the AI workflows that we leverage to actually create the content.
+
+**Tyler Pavlas:** Would that give you kind of that full context?
+
+**Hans Guntren:** Yeah, that'd be great.
+
+**Tyler Pavlas:** That'd be great.
+
+**Tyler Pavlas:** Perfect.
+
+**Tyler Pavlas:** Let's do it.
+
+**Tyler Pavlas:** Just share my screen here.
+
+**Tyler Pavlas:** Awesome.
+
+**Tyler Pavlas:** So, you know, a lot of the reason why we're seeing so much demand at GrowthX, our services are so impactful, is the broader change in content marketing that you've been seeing.
+
+**Tyler Pavlas:** Really the way that like every website in the world is getting disrupted by AI search, even like B2B software companies are getting disrupted by AI on a daily, weekly basis.
+
+**Tyler Pavlas:** And so what we're seeing, right, is clicks are disappearing.
+
+**Tyler Pavlas:** Your potential audience is spending a lot of that first sales conversation with ChatGPT or something similar.
+
+**Tyler Pavlas:** And so as a result, when people do hit your website and they come from AI search, they're showing a lot more intent.
+
+**Tyler Pavlas:** SEMrush did a study about how they're 4.4 times more likely to convert.
+
+**Tyler Pavlas:** They spend three times as long.
+
+**Tyler Pavlas:** And so with GrowthX, our approach that's very audience-centric, it benefits both sides of search marketing, right?
+
+**Tyler Pavlas:** The traditional SEO side where someone's just going to go in and maybe have like a simple query and you want to rank high.
+
+**Tyler Pavlas:** Monograph is one of our customers here.
+
+**Tyler Pavlas:** Or the AI search where the long tail is longer than it's ever been, every single person can go in and tell their...
+
+**Tyler Pavlas:** Entire narrative.
+
+**Tyler Pavlas:** And if you're not in the answer, it's almost like you don't exist.
+
+**Tyler Pavlas:** And so what we do here is as we create content, we start audience first.
+
+**Tyler Pavlas:** We go really deep into your business, your product, your ideal customer.
+
+**Tyler Pavlas:** And then we leverage experts in the loop with our AI workflows to create content that satisfies the most important characteristics for GEO.
+
+**Tyler Pavlas:** So we do deep research.
+
+**Tyler Pavlas:** We make sure all the content can be attributed to objectives like third-party sources.
+
+**Tyler Pavlas:** We'll make sure that it's comprehensive, up-to-date.
+
+**Tyler Pavlas:** We'll even do refreshes on like a three- to six-month basis on the content.
+
+**Tyler Pavlas:** And that's what's allowing us to see super quick results, right?
+
+**Tyler Pavlas:** Like our customers, they don't want to hire big teams.
+
+**Tyler Pavlas:** They don't want to try to buy tools like AirOps and then spend, you know, months trying to assemble the right workflows only to have that go out of date when a new model comes into the picture or, you know.
+
+**Tyler Pavlas:** Maybe their costs scale out of control with all the tokens and API calls they're using.
+
+**Tyler Pavlas:** And they're looking for an agency partner that can do much more than strategy or much more than content creation.
+
+**Tyler Pavlas:** And so that's the high level around who we are, what we do, why it's different.
+
+**Tyler Pavlas:** Any questions or anything you want me to double click on?
+
+**Hans Guntren:** No, not so far.
+
+**Tyler Pavlas:** That sounds good.
+
+**Tyler Pavlas:** Perfect.
+
+**Tyler Pavlas:** And then do you know much about Marcel's background?
+
+**Tyler Pavlas:** Because I would say that he's like a huge reason like we are a different or a differentiated like agency than your average one.
+
+**Hans Guntren:** So I could give you a quick summary of kind of his expertise.
+
+**Hans Guntren:** I don't know much about Marcel, so I'd love to hear it.
+
+**Tyler Pavlas:** Yeah, you bet.
+
+**Tyler Pavlas:** So Marcel, he's always believed that brands should act more like publishers.
+
+**Tyler Pavlas:** He likes to talk about how when he was working at IBM, you know, back in like 2011, 2012, they were in a position where they could just buy every publication with the if they wanted to with the size of their ad budget.
+
+**Tyler Pavlas:** And so what he did is he built organic content engines at every stop.
+
+**Tyler Pavlas:** In his career.
+
+**Tyler Pavlas:** So at IBM, he built securityintelligence.com, which was their highest ROI marketing channel.
+
+**Tyler Pavlas:** It drove like 17 million in pipeline in the first year.
+
+**Tyler Pavlas:** It lived separately from ibm.com for over 10 years before they finally brought it back into the parent site.
+
+**Tyler Pavlas:** And then at every company after that, you know, he did a version of the same thing.
+
+**Tyler Pavlas:** So he was a marketing leader at HashiCorp from 6 million to 100 million.
+
+**Tyler Pavlas:** He was the first and last CMO at scale through the acquisition by Meta.
+
+**Tyler Pavlas:** And then at Deepgram, he did what he, you know, he did what brought him success at all these other stops.
+
+**Tyler Pavlas:** But this time he built AI workflows instead of building out that big team of like editors, right, managing directors, people who could actually create the content at scale.
+
+**Tyler Pavlas:** And so that's really the approach we have here at GrowthX is, you know, we're really services as software.
+
+**Tyler Pavlas:** Start with this outcome of you want to drive higher intent organic traffic, leverage an internal platform that we're bringing our customers.
+
+**Tyler Pavlas:** This is where all of our workflows are housed.
+
+**Tyler Pavlas:** And then we have experts in the loop.
+
+**Tyler Pavlas:** So our chief content officer, he was the editor-in-chief at TechCrunch for 10 years.
+
+**Tyler Pavlas:** And then we've also got folks who ran SEO for Fanatics and TripAdvisor.
+
+**Tyler Pavlas:** We've got a managing editor who built the G2.com website.
+
+**Tyler Pavlas:** Every customer we work with gets a managing director, a managing editor, and a content manager as part of the engagement.
+
+**Tyler Pavlas:** And then we really just focus on making sure the engagement is split into two pieces.
+
+**Tyler Pavlas:** The first phase is the strategy sprint, where we're going to develop the artifacts that provide the context necessary to make the workflows effective.
+
+**Tyler Pavlas:** We'll also do publishing during this first phase.
+
+**Tyler Pavlas:** So you really understand what you'd be getting out of phase two, which is daily publishing.
+
+**Tyler Pavlas:** And that's where we're really just putting the foot on the gas, right, and trying to create content at scale across all the opportunities, all the bets we want to make, all the opportunities we've aligned with you around.
+
+**Tyler Pavlas:** And then you've got the ability to opt out, you know.
+
+**Tyler Pavlas:** By the last week of phase one, if you didn't want to move into phase two.
+
+**Tyler Pavlas:** So that's a little bit about how we work and, you know, what's happening under the hood with our team.
+
+**Hans Guntren:** Okay.
+
+**Tyler Pavlas:** In terms of content we've created for some of our customers, so Town is an example of, like, an earlier stage company.
+
+**Tyler Pavlas:** They're seed stage and they're in the accounting space.
+
+**Tyler Pavlas:** So for them, like, accuracy is everything.
+
+**Tyler Pavlas:** You can't get tax information wrong, right?
+
+**Tyler Pavlas:** And so, you know, people like to talk a lot about, like, AI hallucinating or how can we validate the accuracy of the content.
+
+**Tyler Pavlas:** I'll show you our fact checker agent and how that works.
+
+**Tyler Pavlas:** But Town is, like, an example of a customer who we ran, who we've created everything in their blog.
+
+**Tyler Pavlas:** And, you know, you can see that, like, anything about the content we're creating for them, we're bringing in, like, quotes and, or, sorry, quotes from their team, customer quotes.
+
+**Tyler Pavlas:** what, what,
+
+**Tyler Pavlas:** But we're also getting very technical and very specific around the content itself.
+
+**Hans Guntren:** So your team is publishing to their blog, is that?
+
+**Tyler Pavlas:** That's correct.
+
+**Hans Guntren:** Cool.
+
+**Hans Guntren:** Okay.
+
+**Hans Guntren:** Makes sense.
+
+**Hans Guntren:** Sorry, go ahead.
+
+**Hans Guntren:** Keep going.
+
+**Tyler Pavlas:** So editorial is our sweet spot for sure.
+
+**Tyler Pavlas:** But it doesn't necessarily mean we're just going to do blogs.
+
+**Tyler Pavlas:** For Augment Code, we've created, like, 90 guides over the last three months for them.
+
+**Tyler Pavlas:** And these guides have, like, 2x the traffic of their blog in that time.
+
+**Tyler Pavlas:** And they also had 300 signups last week that came from the guides that we've created.
+
+**Tyler Pavlas:** So these guides, they're, like, thought leadership.
+
+**Tyler Pavlas:** They're comparing, you know, tools in the AI coding space.
+
+**Tyler Pavlas:** You know, and everything that you're seeing here from, like, the image generation to the content itself is...
+
+**Tyler Pavlas:** It's content that we worked on for Augment.
+
+**Tyler Pavlas:** You'll see that with Augment, right?
+
+**Tyler Pavlas:** We had like a fast ROI.
+
+**Tyler Pavlas:** So, you know, they partnered with us in April.
+
+**Tyler Pavlas:** They've seen their organic traffic 10x in almost a six-month period.
+
+**Tyler Pavlas:** They're starting to see our content show up in some of the main searches, right?
+
+**Tyler Pavlas:** So like enterprise AI coding tools, there's two articles that we wrote for them right in the citations.
+
+**Tyler Pavlas:** You'll also see that Augment's starting to come up in the answer.
+
+**Tyler Pavlas:** And if we get like a bit more specific, you know, then they're starting to get quoted in the answer.
+
+**Tyler Pavlas:** And so that's really our main goal is to make sure that we have a, you know, a very wide surface area for the topics you want to be the expert in.
+
+**Tyler Pavlas:** And then once we've gotten that foundation in place, you know, then we can think about programmatic plays.
+
+**Tyler Pavlas:** Or if you have like a programmatic play up front that you want us to tackle, we could also have that conversation.
+
+**Tyler Pavlas:** So like Ramp, we created these.
+
+**Tyler Pavlas:** Per Diem calculator pages, and for every city in America, you know, there's a page that we created for Ramp that allows someone to go in and calculate what's the Per Diem in Houston versus San Francisco, or, you know, we did their vendor database as well.
+
+**Hans Guntren:** Can you say a little bit more about programmatic, please?
+
+**Hans Guntren:** Help me understand what you mean by that.
+
+**Tyler Pavlas:** Yeah, programmatic just meaning if there's an opportunity for us to create content at scale where each page is going to be slightly different, but we know what the inputs are up front, then we can do that for you to create, you know, a large breadth of content quickly as opposed to how every editorial piece, every blog post, it's going to be different, right?
+
+**Tyler Pavlas:** So it's just like a PSEO use case where we're creating content at scale and helping you, you know, show up for every iteration, right?
+
+**Tyler Pavlas:** of how someone might search.
+
+**Tyler Pavlas:** What's the per diem in Houston versus San Francisco for this Ramp use case?
+
+**Tyler Pavlas:** But also we did their expense classifier.
+
+**Tyler Pavlas:** So, you know, what's the expense category for like every type of expense?
+
+**Tyler Pavlas:** So that now like Ramp has content that shows up for every version of how someone might search.
+
+**Hans Guntren:** Got it.
+
+**Hans Guntren:** Got it.
+
+**Hans Guntren:** Okay.
+
+**Hans Guntren:** And you guys, you guys came up with this whole scheme, like the whole, the whole, like the idea of doing expense.
+
+**Tyler Pavlas:** The categories, for example.
+
+**Tyler Pavlas:** Yeah, it's a combination, like sometimes just us, sometimes us and the client, that strategy sprint allows us to get really collaborative.
+
+**Tyler Pavlas:** And then, you know, these sales conversations, if there's like use cases that you have in mind, I can obviously pass that by the team.
+
+**Tyler Pavlas:** I'm curious, I guess, like for some of the content that you guys would work on, have you thought of any plays like that?
+
+**Tyler Pavlas:** Or is the main goal just to create as much editorial content as you can?
+
+**Tyler Pavlas:** And for...
+
+**Tyler Pavlas:** Or, you know, the topics that your audience would be searching.
+
+**Hans Guntren:** I like the idea of both, really.
+
+**Hans Guntren:** I like the idea of both.
+
+**Hans Guntren:** You know, like one advisor that we had said, oh, you guys should create a legal term, a glossary, right, on your website, right?
+
+**Hans Guntren:** It's very easy to create a bunch of content that way.
+
+**Hans Guntren:** And it probably does get some traffic, though maybe not the right time.
+
+**Hans Guntren:** You know, there's probably better opportunities, you know, with some brainstorming.
+
+**Hans Guntren:** We'd probably think of better ways to do that.
+
+**Tyler Pavlas:** Yeah, 100%.
+
+**Tyler Pavlas:** Glossaries, we've seen those before.
+
+**Tyler Pavlas:** I think, like, Lovable, who's a customer, like, they're working on some glossary use case with us right now for a lot of the different, like, ways people would prompt, right, with, like, an AI coding platform.
+
+**Tyler Pavlas:** So definitely, like, you know, we're down to get custom and down to think outside the box.
+
+**Tyler Pavlas:** We just typically, like, focus on editorial. That's that first piece since it's so important to driving that initial traffic.
+
+**Tyler Pavlas:** So I can show you a little bit around the workflows themselves if that helps.
+
+**Hans Guntren:** Yeah, that'd be great.
+
+**Tyler Pavlas:** Perfect.
+
+**Tyler Pavlas:** So the first step in that strategy sprint is to develop these really rich artifacts around your company and around your audience personas.
+
+**Tyler Pavlas:** And so Engine, they're in the business travel space, and they had target verticals they were going after.
+
+**Tyler Pavlas:** And so what we did was we created artifacts for each of those verticals.
+
+**Tyler Pavlas:** And these artifacts, know, this is what's giving the context engineering to our workflows and also helping our team, right, become experts on your business.
+
+**Tyler Pavlas:** And you can see that we go super deep into the mind of that persona.
+
+**Tyler Pavlas:** Like, who are they?
+
+**Tyler Pavlas:** What motivates them?
+
+**Tyler Pavlas:** How do you win or lose their trust?
+
+**Tyler Pavlas:** What's going to get them promoted, fired?
+
+**Tyler Pavlas:** What's their pain points and frustrations?
+
+**Tyler Pavlas:** And so once we've got these artifacts ready to go, well, that's when we can start creating.
+
+**Tyler Pavlas:** creating content against the keyword opportunities that you see, against the topics that you want to have authority around.
+
+**Tyler Pavlas:** And so moving into just an example of like a piece of content that we created, Biologica, they're in the supplement space in healthcare.
+
+**Tyler Pavlas:** And so this is an example of an article that we're generating where we start with a keyword, a direction, and then the artifacts that I went over.
+
+**Tyler Pavlas:** And then each step here is informing, you the creation of the publish ready piece.
+
+**Tyler Pavlas:** So we'll create a brief as a first step.
+
+**Tyler Pavlas:** We'll do deep research against that brief.
+
+**Tyler Pavlas:** We'll put together an outline, a draft, and all the while our team has the ability to make edits directly in our platform with that context that I was talking about.
+
+**Tyler Pavlas:** So they can, right, like make changes directly to the content, or they could even just give instructions, right?
+
+**Tyler Pavlas:** Like add bullets to the intro section.
+
+**Tyler Pavlas:** But what's cool about what I'm showing you here is that with each step, there's tons of things happening in the background. For this brief step, we're actually going in and fetching keyword traffic, looking at organic results, analyzing SERP factors, and competitor content — all of that informs the brief you're seeing in step one. With the research step, we're generating research questions, performing deep research against each question, and validating it against credible third-party sources. And then with the fact checker, we'll take the entire article, extract passages, and do that same research against different research questions on every single passage, validating it against a confidence interval and suggesting a rewrite if we can't prove the accuracy of what we're saying.
+
+**Tyler Pavlas:** And so it's a lot of this, you know, that goes into the systematic way that we're helping customers with GEO.
+
+**Tyler Pavlas:** And we're always improving our platform and our workflows.
+
+**Tyler Pavlas:** And so, you know, just for that research example that I was showing you, I could show you an example for Augment Code here where we've got this agentic workflow now.
+
+**Tyler Pavlas:** And for that agentic workflow, we're actually going in and doing the research against a research plan where if we don't hit a certain quality score, we'll actually go in and run the research again until we hit a certain benchmark.
+
+**Tyler Pavlas:** And so there's a lot that we're doing to just, you know, continue to make this systematic, quick time to value.
+
+**Tyler Pavlas:** And then we're also doing as much as we can to bring any resources that you have that you want to be leveraged in the content creation directly into the platform.
+
+**Tyler Pavlas:** So we've got a knowledge base.
+
+**Tyler Pavlas:** And with all the knowledge base, we'll actually make retrieval easier by having it exist like in this knowledge graph.
+
+**Tyler Pavlas:** So there's a lot to growthx, obviously, but I just wanted to give you, you know, as much coverage as I could here, given how busy your schedule is.
+
+**Hans Guntren:** Yeah, yep.
+
+**Hans Guntren:** So your team is doing this work?
+
+**Tyler Pavlas:** Exactly.
+
+**Hans Guntren:** Yeah, okay.
+
+**Hans Guntren:** And what's the engagement like with myself?
+
+**Hans Guntren:** How do I work with those folks?
+
+**Hans Guntren:** What's typical?
+
+**Tyler Pavlas:** So phase one strategy sprint, we'll do an hour kickoff, and then we'll do weekly syncs with you and your team.
+
+**Hans Guntren:** You'll align with us around the assignments that we're going to create content for and the prioritization of the topics.
+
+**Hans Guntren:** Thanks.
+
+**Tyler Pavlas:** And then on a weekly basis, you would be able to review the drafts for the articles that we've written, recommend any feedback, and you can be as involved or just give a thumbs up in Slack if you were feeling good about the way that we were working.
+
+**Tyler Pavlas:** And so we do a lot of collaboration with a shared Slack channel, shared Notion page.
+
+**Tyler Pavlas:** We'll also have the content OS, so all the different assignments and what's the search volume, what's the keyword difficulty, right?
+
+**Tyler Pavlas:** All that would be in the Airtable spreadsheet that we put together.
+
+**Tyler Pavlas:** But then at the same time, we're bringing a lot of it into the platform, right?
+
+**Tyler Pavlas:** So this activity feed is going to show anything that's happening relative to the assignments that we're working on for you.
+
+**Tyler Pavlas:** The dashboard is going to help show you LLM visibility, and you'll be able to go and track certain prompts.
+
+**Tyler Pavlas:** We do a lot of this through, like, looker reports.
+
+**Tyler Pavlas:** It's like an LLM partner of ours, but the vision is like, you know, bring it out of these collaborative tools and bring it into our internal platform.
+
+**Hans Guntren:** Got it.
+
+**Hans Guntren:** Got it.
+
+**Hans Guntren:** Okay.
+
+**Hans Guntren:** Is it only publishing on our website or elsewhere?
+
+**Tyler Pavlas:** Mainly websites, but what else did you have in mind?
+
+**Tyler Pavlas:** Because there are some scenarios where we've, you know, created a newsletter for a client.
+
+**Hans Guntren:** Yeah, social media, things like this.
+
+**Tyler Pavlas:** Yeah, newsletter.
+
+**Tyler Pavlas:** Yeah, I think in certain scenarios, we'll do newsletters for clients if, you know, it makes sense on both sides.
+
+**Tyler Pavlas:** And if we're aligned on price, we haven't done too much social media posting.
+
+**Tyler Pavlas:** We'll, you know, create content that allows your team to repurpose for social media pretty easily, pretty quickly.
+
+**Tyler Pavlas:** But our bread and butter, just to keep things scalable and stay focused on, you know.
+
+**Tyler Pavlas:** back.
+
+**Tyler Pavlas:** We'll back.
+
+**Tyler Pavlas:** That's, you know, what we've consistently delivered results around is going to be your website, mainly the editorial use cases, unless we've aligned on something that makes sense for both sides.
+
+**Hans Guntren:** Yeah, got it.
+
+**Hans Guntren:** And you guarantee some results somehow?
+
+**Hans Guntren:** How do we know what we get out of this?
+
+**Tyler Pavlas:** Yeah, for sure.
+
+**Tyler Pavlas:** I mean, we definitely got like lots of success stories in terms of like the reporting that we do for clients that show the lift that we've had on growthx specific content.
+
+**Tyler Pavlas:** We've got like a waitlist that's like four to six weeks out in terms of strategy sprint kickoffs.
+
+**Tyler Pavlas:** A lot of logos that you might recognize that we're working with combined with the experts we've got on our team.
+
+**Tyler Pavlas:** But, you know, at the end of the day, right, content's a long-term investment and there has to be, you know, some level of trust in our process that you see during the strategy sprint.
+
+**Tyler Pavlas:** Being something that, you know, you believe in ultimately, right?
+
+**Tyler Pavlas:** Yeah.
+
+**Hans Guntren:** Do you have any clients in the legal tech space?
+
+**Tyler Pavlas:** You know, not off the top of my head, but I'm definitely going to dive a bit deeper.
+
+**Tyler Pavlas:** We've got quite a few clients in the security space.
+
+**Tyler Pavlas:** So Sentinel-1, Abnormal Security, but I don't know of any legal tech-specific clients at the moment.
+
+**Hans Guntren:** Okay, okay.
+
+**Hans Guntren:** Very good.
+
+**Hans Guntren:** Well, this is helpful.
+
+**Hans Guntren:** We are doing a lot of these things, but I suspect in a less organized way, you know, and so if I understand correctly, what this really boils down to is sort of weekly or is it typically weekly publishing of some content to the website or is it more frequent?
+
+**Hans Guntren:** But what's typical?
+
+**Tyler Pavlas:** typical?
+
+**Tyler Pavlas:** More frequent, so phase one strategy sprint, it's 20K fixed fee, and then phase two growth execution, it's 15K per month.
+
+**Tyler Pavlas:** We do daily publishing for all of our clients.
+
+**Tyler Pavlas:** You can expect that we're going to target five articles per week.
+
+**Hans Guntren:** Wow.
+
+**Hans Guntren:** That's a lot.
+
+**Hans Guntren:** Okay.
+
+**Hans Guntren:** I imagine that moves the needle.
+
+**Hans Guntren:** So, okay.
+
+**Hans Guntren:** I'm to think what else I would want to know.
+
+**Hans Guntren:** You said you're six weeks out to start a new project?
+
+**Tyler Pavlas:** Yeah, we're doing two client kickoffs a week, and we're hiring super quick right now, so we're definitely trying to increase capacity, but we just really want to focus on, for every client we bring on, being able to, right, hit quality, being able to have retention in a great spot.
+
+**Tyler Pavlas:** Our revenue in a year, it's gone over 10 million.
+
+**Tyler Pavlas:** So we're just trying to be really smart about not taking on more than we feel like we've got the human resources to handle.
+
+**Tyler Pavlas:** The AI workflows can do quite a bit, but yes, right now we are like mid-October as like the earliest kickoff.
+
+**Hans Guntren:** Okay.
+
+**Hans Guntren:** Great.
+
+**Hans Guntren:** One more question.
+
+**Hans Guntren:** Does your team do the work, the publishing work on the website, or do we have to do that?
+
+**Tyler Pavlas:** Yeah, great question.
+
+**Tyler Pavlas:** We will stage and publish all the content in your CMS.
+
+**Tyler Pavlas:** We would ask for credentials so that we could do all of that autonomously.
+
+**Tyler Pavlas:** But yes, we would have the ability to handle that on your behalf.
+
+**Hans Guntren:** Okay.
+
+**Hans Guntren:** We use Framer, if you know Framer.
+
+**Tyler Pavlas:** Yeah, Framer is a good one.
+
+**Tyler Pavlas:** I like Framer.
+
+**Tyler Pavlas:** I feel like, you know, Framer, Webflow, what else?
+
+**Tyler Pavlas:** Sanity.
+
+**Hans Guntren:** Those are probably like the most common ones we've seen.
+
+**Hans Guntren:** Yeah, okay.
+
+**Hans Guntren:** We like it a lot.
+
+**Hans Guntren:** It works great.
+
+**Hans Guntren:** Okay.
+
+**Hans Guntren:** I would love to have a conversation with my co-founder about it, but it sounds pretty slick.
+
+**Hans Guntren:** What works best in terms of next steps?
+
+**Tyler Pavlas:** Do I send you an email?
+
+**Tyler Pavlas:** Yeah, for next steps, if you want me to, I'm happy to send our SoW over so you can start taking a look at the terms.
+
+**Tyler Pavlas:** And we can even agree upon a sensitive kickoff date.
+
+**Tyler Pavlas:** If you wanted us to do a follow-up with your co-founder or dive a little deeper into the platform itself or any part of the partnership, we could do that as a next step. Obviously, we don't want to put you in a position where you feel like you have to sign just to kick off in a reasonable timeframe. But we do need to schedule those meetings fairly quickly if this is something you want to explore fully so you can secure a kickoff before November.
+
+**Hans Guntren:** Thank you so much. I really appreciate it. Let me chat with him this afternoon and send you an email. Does that work?
+
+**Tyler Pavlas:** Yeah, sounds great. I'm happy to send our SoW over so you have it handy.
+
+**Hans Guntren:** Yeah, that'd be great.
+
+**Tyler Pavlas:** Well, pleasure meeting you, Hans. Thanks for making the time.
+
+**Hans Guntren:** Thanks, Tyler. Talk soon.
+
+**Tyler Pavlas:** Talk soon.

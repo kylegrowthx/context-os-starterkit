@@ -1,0 +1,2039 @@
+{
+    "title": "Impromptu Zoom Meeting",
+    "meeting_title": "Impromptu Zoom Meeting",
+    "url": "https://fathom.video/calls/170569248",
+    "created_at": "2024-10-24T19:02:22Z",
+    "scheduled_start_time": "2024-10-24T18:37:51Z",
+    "scheduled_end_time": "2024-10-24T18:52:51Z",
+    "recording_id": 33059279,
+    "recording_start_time": "2024-10-24T18:38:03Z",
+    "recording_end_time": "2024-10-24T19:01:42Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's see how it goes, and there it is.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's analyzing the pages, let's see the results, and we can see here what it actually did.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "it's searching Google for these combined scale queries, and then scrape the first one, which in this case was actually Arabs, so it looks like Arabs got in the first position here, and then the second one compared them, and then said, oh, okay, you should use maybe these keyboards, and said, oh, okay, maybe add the keywords for ACO, which are combined scale queries, union operator, and then it has some suggestions for you to do in your site, so you get bound to that first position.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This will probably be coming soon in the",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "completes.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, I expect those.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I see you kind of your raised.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Go ahead.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, appreciate it.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, still learning a few different things that are capable we can do with grids, but I would imagine I could do something where, you know, you pull the source data here, so I have all the different queries, different rows.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "common use case to me would be actually synthesizing across the rows instead of on an individual row basis, because what I've found in the past is there's usually a lot of different permutations that come through, so that's like a perfect use for LLM of like, help me find the common threads, and then basically apply like a similar workflow.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, I would imagine we could do something similar where it's like, here's the grid, here's essentially the database reference done in a broader workflow that would read across the rows.",
+            "timestamp": "00:01:42"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, we actually have a white mirror step, which is the width from grid step.",
+            "timestamp": "00:01:54"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, you can actually read",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "contents of the grid and then try and summarize those and say, okay, maybe these kind of sites are getting the most structured and these are not.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So maybe using that you can accomplish what you're saying.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you guys.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "is a suggestion.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think as Matt and I were talking about the content refashes that we've done.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is tool called, and again, we can both listen to the workflows too, but I think if it's a part of the template.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if you see what they've done is they essentially do everything that you've done, but instead of saying these are the suggestions, they actually just write the paragraphs because they've scanned the article and be like, okay, this is what you've written about, but this is what you're missing.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So they categorize answers into questions you answer better, questions your competitor answers better, questions that you both answer, right?",
+            "timestamp": "00:02:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this way, when we're doing content refreshes, the person who's doing it, they just have to copy paste into the article.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "it's just like,",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "every day I can do 20-clock at refreshes and it's just like the best thing ever.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We put that into testing and then things to start to skyrocket.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I believe if you copy your sites from WordPress, right?",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or I think it's Webflow.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have some steps for that for writing into Webflow, even the human review step.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or maybe this could be improved.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For example, you run this workflow, you get the suggestions and then you can go through the human review step so that you can see the difference, maybe access them or change them and then publish them to Webflow if you want to.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Any other questions on this there is kind of these fixed state range.",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we can pull off of.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if I wanted to analyze trends of queries over time, it sounds like based on the current integration, have to pull multiple grids based off of those different filters and just compare, is that correct?",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, adding custom dates is something that we can definitely explore.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think it wouldn't be such a heavy lift doing that, but having the ability to have custom dates, so you can see, for example, one week and then the week prior to that one, the week prior to that one, which was prior to the first one, we can do something like that.",
+            "timestamp": "00:04:20"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "then, yeah.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then like having a workflow grid from those grids and then summarize that.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, most probably.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, don't know.",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that would be hope.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sorry.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then the other.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think I wanted to ask like how often is this data being updated?",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What's such in the grid?",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is it like every day it's being updated?",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so currently we don't have a refresh.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For example, from WordPress, I know if you have used it into the grid.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's one of the features we have that has a refresh and we can do something similar.",
+            "timestamp": "00:05:17"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Currently, it's based on the import and you can even see here one hidden column, which is this one.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I see it was fetched on October 24th at 17.35.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can see the date you imported, but it's not currently refreshed.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's good.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And Marcel, I think, had a question.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know if that's probably the right time to discuss, the SEMrush API while we're discussing integrations.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jimmy",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or we could put that at the end, depending on how you",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sure, I'm happy to hop in on that now, Alpa for the J.I.D.O.",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Marcel, just make sure I'm understanding, is this for the utility step or for the template?",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Could you share more on what they have that you one of the things we started to do is work gap analysis between different competitors.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so I can, let me try that.",
+            "timestamp": "00:06:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Share my screen here.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But part of our process, what we do is, and by the way, like with some of the stuff that's a little bit more proprietary to what we're doing, please please don't share with other agencies or anybody else, like it's that part of like a little bit of our secret sauce, if you will.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You know, so so just want us to be really, really mindful of that.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But one of one things we do here is like we found all the competitors they they have.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And, and then,",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "we went and looked at the keyword gap analysis between them.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we did use the workflow to identify a lot of those.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then we started running into a lot of issues.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So ended up just going back to SCM Rush immediately exporting the CSV files from everything.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so I'll show you here in a second what that CSV file looks like, but OK.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "the CSV files essentially like the export of the keyword gap analysis between the client or the prospect and then how all the other competitors rank.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And because we had a list of, let's say, 15, just did speed up the process.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We did like four of these to tackle them all.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I used ChatGP to essentially consolidate this into one single CSV that I can import.",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I split that CSV into two because AirOps says AirTable has a limit of 5 megabyte to import.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But this is what ultimately we want to have.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just a bunch of keywords that the competitors rank for.",
+            "timestamp": "00:08:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And what is the URL that that ranks for that keyword for the competitor?",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "All of this to then cluster those keywords into these pages, essentially competitive pages.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "ended up with 3,700 potential assignments.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "then from there, what we want to do is then create this, these competitive assignments.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so, sorry, I lost the grid here.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "me second.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "When you see assignment, you're meeting a keyword cluster?",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It is a keyword cluster, but it's a keyword cluster based on the URL that ranks for that.",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Got it.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Sorry, one second.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Here it is, it's another contaminant here.",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So then these assignments are like, we go through and we do like the user intent and a bunch of other research on that keyword based on that URL.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then from there, we then create a relevance score.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But a lot of this is because we don't have a lot of ways to filter some of these reports.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Right.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "we go through this whole process, but really like the 62,000 keywords.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We want to narrow down to maybe 10 or 20 of those because like 20,000 because it's like their.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so much garbage here or so many things are not relevant.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, for example, this one, they focus on schools, a lot of other competitors focus on churches and a bunch of other stuff, right?",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, so we only want to look at the things that are relevant to them.",
+            "timestamp": "00:10:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "For example, this one is not relevant to them.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We shouldn't have run all these processes to get to this conclusion, right?",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But part of this is because the keyword gap analysis, there's not a lot of the controls that we can have when we're doing it in their ops.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's either all or nothing.",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so a lot of what we do is like, we're looking at, like, we're filtering.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So we're going into SCM rush and we're filtering a lot of those and exporting it.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So those one potential here is like giving more controls.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "A lot of that APIs for SCM rush, like, it's either all or nothing, right?",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "either look at every keyword or look at nothing.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then the problem is when you get a return, like 10,000 keywords, like, that's too much and you max out on context windows, so then you can't use that, right?",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So then we ended up just doing it manually because of that and we can't automate this process.",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "much, because a lot of the the scm rush stuff, we don't have filters or controls that you would have in the scm rush UI, you know, so that's something.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then just like that process of, and then creating clusters is like a little bit messy right now, like it's it's nice that you guys have the cluster creation.",
+            "timestamp": "00:11:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then like, there's some of these things that like would be super beneficial because for us, like what we're trying to do is just programmatically find every opportunity possible for them, and then cluster it into assignments, and then stack rank those assignments based on relevance and and a lot of the the potential volume, and then present it to them.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And when we do, they're like, well, this is awesome.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, there's two years worth of work here.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We're good.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, here's a 12 month contract instead, you know, like, and that's the goal is to like, we want to move all engagements to 12 months plus, but then show them there's plenty of work for years to come, you know, just like one, because like, they see the volume without we can do in their life.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, but there's no way we can do more than",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "three months worth of content with you, right?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And we want to kind of change the mentality for people.",
+            "timestamp": "00:12:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This really helpful feedback myself.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I guess what I'm hearing, I forward to distill that, is the two things that can help.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But this would be one more filter than control in the SEMrush API, like call results, such that you're getting maybe the most relevant ones, or you can filter based on, like, cut it off at a certain volume, such that you can actually use that in workflow.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then the second piece was around cluster creation.",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Did I understand that right?",
+            "timestamp": "00:12:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, I think the clustering is really helpful, but it's really like, it's a little bit finicky, because it's just like, it's hard to do it.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like when you're doing operations times 55,000, or even 5,000 or 10,000, like, you can't use the LLMs, right?",
+            "timestamp": "00:12:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Because like, there's just too many keywords.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then you do it on a one on one.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "basis, then it gets what's going to get too expensive because you're running an LLA, even on like a mini LM call for one single keyword times 55,000 will be kind of nuts, right?",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, okay, we can't burn like, you know, it's just like not not doable.",
+            "timestamp": "00:13:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So you're in this like situation where you're trying to do operations across like tens of thousands of keywords, but like kind of get stuck so we end up doing manually doing view look up and messing with files and then running it in chat DPT to then like be able to do modifications to the CSV files and then importing them and and kind of and you know, so like there's a lot of potential there.",
+            "timestamp": "00:13:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But then also some of the APIs like for example the keyword gap analysis, no, we didn't have filters but like I spent like a few hours a couple nights back and just gave up because sometimes it would just fail on looking at cross domains no matter what I did and then sometimes it would work.",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so was like pretty unreliable in some cases, some of them.",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So then like",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Continue just to make the SCM rush one, like, or any other SEO related APIs more reliable and more robust in terms of controls would help us because then it would open up a lot of use cases that we're spending a lot of human hours on.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's really helpful feedback.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I took some notes.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can look at this and we'll make sure you're kept on the loop with any updates that we make there.",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, it's almost like some of these things are starting to become easier if we have steps that write SQL queries and work with, like, as opposed to, like, steps that deal with the individual data itself and tries to format the into a certain thing.",
+            "timestamp": "00:14:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's almost like, you know, some of these things are probably better done with SQL queries than anything else, you know.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I think we have some database connectors, actually.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I know what kind of.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "that is you're using.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I believe we have some Postgres connectors, so you can use that from your own database.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Correct me if I'm wrong.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe Matt or Justin.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But we may do something with that though.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, yeah, so we can definitely go back to this, maybe later just if you want.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:25"
+        },
+        {
+            "speaker": {
+                "display_name": "juan",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, we can definitely take a closer look at what we have and how that could be applied for us.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks for all the appreciate the feedback.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Great, I'm gonna hand it over to Hopi to show our Q&A review comparison.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, let's start with the demo.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't think this window should be the correct.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, I guess you can all see in the screen.",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Here we have workflow, a test workflow.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me walk you through it.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it starts with a level I'm writing an article.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This could be like in a real scenario, imported from inputs or script or web page or anything.",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just to get some text into the mix.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then another Lamb takes the content from the previous step and rewrites it.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I told it to make it more likely or something.",
+            "timestamp": "00:16:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here's the new part.",
+            "timestamp": "00:16:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we've always had the humor review step.",
+            "timestamp": "00:16:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "before you would be able to check what the LLM wrote and edit and basically that's it.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And now there's a new step, a new step or new option, where you take like that before.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "and the after content and let's see how it looks when you run it.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, okay, review content and there's only a single review step with compare before and after.",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Check out changes, this is the description I am.",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So here, because the changes are pretty small and defaulted to word code.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There could be sentence or paragraph code here.",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, obviously words are there.",
+            "timestamp": "00:17:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, yeah, I like this change.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't like this one.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can pick each of the changes or you can scroll down and find the reject remaining or accept remaining to a little more together.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Here, I accept all this would accept this step, but also any other.",
+            "timestamp": "00:17:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, compare for human review steps here, so you could be comparing this, but also reviewing some text or some images.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, okay, I want to confirm all changes.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's fine.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now the step will finish.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We can continue on with the work.",
+            "timestamp": "00:18:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the workflow follows like this.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It takes the article from the human review step and adds some other links.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me run it because this output is new.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "just accepted it.",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, yeah, sure.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "finishes.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now we have another human review step.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this one is not configured, so we'll show you how to configure it.",
+            "timestamp": "00:18:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me click before after.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is the output from the human review step.",
+            "timestamp": "00:18:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "with a little line, so like this, and after we have this the output from the step five.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, and now let's test it.",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm here, it shows sentence for the default behavior because the changes are longer.",
+            "timestamp": "00:19:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But since I'm adding links, I think I prefer the word mode.",
+            "timestamp": "00:19:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So here on word mode, you can see that this is artificial intelligence AI and added this link.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll keep this one, reject this one.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, this is markdown, but if my LOM step added HTML links instead, that would also work, or that actually you could work with any text, but for HTML and markdown links with special processing.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is only a single change instead of like one for the other.",
+            "timestamp": "00:19:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "type in one for the closing thing, okay, except oh, it's an output.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here's article with the links.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that's basically it.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Actually, I'm make a huge impact for what we're doing, you know, because like there's a lot of like us copying pasting stuff and then editing and then we built some feedback steps as well and some of our flows to try to do some things that are kind of somewhat similar to this.",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But I think with the what the feedback steps like we can build it with this type of like approach, right, where we can start to take like the final output and then start to break down the improvement steps for each one of them, right, but CMS.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, this is awesome.",
+            "timestamp": "00:20:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Are these things",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "activated already in our instance.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Javi",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think it's globally named.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "they should it should be like for you.",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:21:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, this is this is awesome.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So Dura, maybe you can help make sure that I'll work with the team on trying to figure out how do we incorporate this like as quickly as possible, especially like the human review stuff, because that one will give us just like a ton of improvements.",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think we can start to distill some of the human editing steps into like workflows, and then having the editor just accept or reject those those things will be a little easier than like it will probably save us time instead of spending one or two hours and editing at the end that we do like maybe 10, 15 minutes step.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, should love to hear that.",
+            "timestamp": "00:21:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, what do you think?",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So Dura, I know you like, like, yeah, definitely for like the last feedback step, if you could have this, it would be perfect because then like any of the edits that they had as the last point, I think.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, if we can get Daniel to put this in there, it will be perfect.",
+            "timestamp": "00:22:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, that's awesome.",
+            "timestamp": "00:22:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Sweet.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I got to run too, but this is awesome.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm excited to.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I just realized, I know we have our channel that is like, like we discussed a lot of different things, with the leadership teams, respect the leadership teams, we have a channel, yes, up, or maybe we have all like everyone from both of our teams in one channel.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's more about product feedback and like, like more about like support and questions on both ways versus like the other channel is like, like, it is a little bit more like the relationship between.",
+            "timestamp": "00:22:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "two companies versus one channel that's more like everyone can be there and get feedback and vice versa and share things and you guys can send the lumes or at-channel when updates go live and things like that.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, definitely.",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We could send something like that off.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It doesn't exist today, it's my knowledge, but we can definitely set something up.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool, sounds good.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, the final demo I give, I can just record a quick bloom and can send it in there.",
+            "timestamp": "00:23:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You guys can see.",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, sounds good.",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I got to run, but if others want to stay on, but if not, bloom works too.",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think we have a couple of items.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right, see y'all.",
+            "timestamp": "00:23:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks all.",
+            "timestamp": "00:23:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Justina Breen",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "00:23:38"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Impromptu Zoom meeting to discuss and demo new features in a workflow tool, addressing user feedback and exploring potential improvements.](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=2.0)\n\n## Key Takeaways\n\n  - [New human review step with compare before/after functionality introduced, allowing for efficient content editing and approval](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=6.0)\n  - [SEMrush API integration challenges discussed, highlighting need for improved filtering and control options](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=11.0)\n  - [Keyword clustering and gap analysis processes currently manual due to API limitations and large data volumes](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=15.0)\n  - [Team agreed to set up a new communication channel for product feedback and updates between companies](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=20.0)\n\n## Topics\n\n### New Human Review Step Demo\n\n  - [Introduced compare before/after functionality in human review step](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1028.0)\n  - [Allows word-by-word or sentence-by-sentence comparison](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1045.0)\n  - [Users can accept/reject individual changes or bulk approve/reject](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1052.0)\n  - [Works with various text formats, including HTML and Markdown](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1080.0)\n  - [Marcel expressed excitement about potential time savings (1-2 hours \u2192 10-15 minutes) in editing process](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1219.0)\n\n### SEMrush API Integration Challenges\n\n  - [Current limitations in filtering and control options when using SEMrush API](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=639.0)\n  - [Issues with keyword gap analysis between competitors (unreliable results, lack of filtering)](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=428.0)\n  - [Need for more robust controls to handle large volumes of keywords (e.g., 55,000+) efficiently](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=646.0)\n  - [Suggestion to explore SQL query-based approaches for data manipulation](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=883.0)\n\n### Keyword Clustering and Analysis Process\n\n  - [Current process involves manual export of CSV files from SEMrush](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=435.0)\n  - [Use of ChatGPT to consolidate data into a single CSV for import](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=466.0)\n  - [Creation of \"competitive assignments\" based on keyword clusters and ranking URLs](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=499.0)\n  - [Challenge: Processing large volumes of keywords (e.g., 62,000) to identify relevant opportunities (10-20k)](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=589.0)\n  - [Goal: Programmatically find and rank opportunities to present long-term value to clients](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=681.0)\n\n### Communication and Feedback\n\n  - [Proposal to create a new Slack channel for product feedback and updates](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1349.0)\n  - [Channel to include team members from both companies](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1366.0)\n  - [Purpose: Facilitate open communication, share updates, and gather feedback](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1380.0)\n\n## Next Steps\n\n  - [Set up new Slack channel for product feedback and updates between companies](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1393.0)\n  - [Explore implementation of new human review step in existing workflows (Sadira and team to lead)](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1393.0)\n  - [Investigate potential improvements to SEMrush API integration, focusing on filtering and control options](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=639.0)\n  - [Consider SQL query-based approaches for handling large datasets in workflows](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=883.0)\n  - [Record and share a Loom video demonstrating final features discussed in the meeting](https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J?tab=summary&timestamp=1402.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Work w/ team to incorporate new human review feature into workflows, esp. for final feedback step. Coordinate w/ Daniel.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:21:43",
+            "recording_playback_url": "https://fathom.video/calls/170569248?timestamp=1303.9999",
+            "assignee": {
+                "name": "Sadira Sittampalam",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Set up new Slack channel for FWD.digital team - product feedback, support Qs. Include all team members from both cos.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:22:18",
+            "recording_playback_url": "https://fathom.video/calls/170569248?timestamp=1338.9999",
+            "assignee": {
+                "name": "Justina Breen",
+                "email": null,
+                "team": null
+            }
+        },
+        {
+            "description": "Record & send Loom video of final demo (Q&A review comparison feature) to new Slack channel",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:23:02",
+            "recording_playback_url": "https://fathom.video/calls/170569248?timestamp=1382.9999",
+            "assignee": {
+                "name": "Justina Breen",
+                "email": null,
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcel Santilli"
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/RTdz_XzUUpvbuo959LMz_i4cvdoRy_5J",
+    "crm_matches": {
+        "contacts": [],
+        "companies": [],
+        "deals": [],
+        "error": null
+    }
+}

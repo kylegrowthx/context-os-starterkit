@@ -1,0 +1,1083 @@
+# Meeting Scheduler (Atul Ashok)
+
+<metadata>
+date: 2025-09-09
+time: 15:32 UTC
+duration: 40 minutes
+organizer: Sydney Go (GrowthX)
+participants: Atul Ashok (Ambient.ai), Sydney Go (GrowthX)
+fathom_recording_id: 85968111
+fathom_url: https://fathom.video/calls/404464528
+share_url: https://fathom.video/share/KEitwzFrTE66nc6BGT8uAiC1_r6XY3L9
+source: fathom
+enriched_on: 2026-03-02 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Sydney and Atul aligned on clarifying Ambient.ai's product positioning and messaging strategy for upcoming content. Key focus: distinguishing between Access Intelligence (false alarm suppression in access control) and Advanced Threat Detection (behavioral AI analysis across 150+ threat signatures), and avoiding overgeneralization across the two product lines. Sydney will edit existing documentation to fix messaging distinctions and remove vague language like "mid-enterprise," while Atul will provide supporting resources (messaging PDF, presentation videos, threat signature slides) and feedback on CMS integration.
+
+---
+
+## Context
+
+GrowthX is producing content strategy and articles for Ambient.ai, a physical security software company offering behavioral AI threat detection. Sydney Go (GrowthX) is leading the content and messaging work, while Atul Ashok (Ambient's Marketing/Product) provides technical guidance and product positioning. The two are working to create clear, differentiated content for Ambient's two main products: Access Intelligence (integrating with existing physical access control systems to reduce false alarms from door sensors) and Advanced Threat Detection (analyzing real-time video feeds for behavioral threats even when weapons aren't visible). Previous messaging guidance from Alberto and Mau needed clarification to prevent product confusion in published articles.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Content distinction between Access Intelligence and Advanced Threat Detection is critical to avoid client confusion in published articles and messaging materials
+- Site-specific configuration requirements for threat signatures mean security positioning varies widely by deployment context (data centers vs. retail vs. government facilities)
+- Three draft articles due this week with messaging alignment; Sydney sending to Atul for feedback before publishing
+
+**To GrowthX Business Development:**
+- Ambient positions itself beyond simple object detection (like competitors ZeroEyes and Volt.ai) through contextual behavioral analysis—strong differentiation story for enterprise sales
+- Content cadence increasing from current to 5 articles per week starting next week—indicates high content demand and potential for expanded engagement
+- Access Intelligence suppresses 95% of false positives from door sensors—quantifiable ROI metric for buyer conversations
+
+**To CheckThat:**
+- Ambient's 150+ threat signatures across behavioral contexts could be useful reference data for security AI visibility research
+- Site-dependent threat configuration approach reflects complexity in how AI models adapt to different physical environments
+
+---
+
+## Overview
+
+- Ambient's AI visual detection system analyzes behaviors beyond simple object detection, setting it apart from competitors
+- Access Intelligence (formerly Signals Intelligence) focuses on reducing false alarms from access control systems, while Advanced Threat Detection handles visual threat detection
+- Content strategy should differentiate between products, avoid overgeneralizing capabilities, and maintain a balanced tone on traditional vs. AI-enhanced security
+
+---
+
+## Key Topics
+
+### Product Differentiation
+
+  - Ambient analyzes behaviors and context, not just object detection
+  - Can detect threats even when weapons aren't visible (e.g., crowd reactions)
+  - Positioned as more advanced than competitors like ZeroEyes and Volt.ai
+
+### Access Intelligence (formerly Signals Intelligence)
+
+  - Focuses on reducing false alarms from access control systems
+  - Claims to suppress 95% of false positives from door sensors
+  - Integrates with existing Physical Access Control (PAC) systems
+  - Automates verification process previously done manually by security staff
+
+### Advanced Threat Detection
+
+  - Visual AI-based threat detection system
+  - Includes 150+ threat signatures for various scenarios
+  - Analyzes real-time video feeds to detect potential security issues
+  - Provides contextual awareness through "pulse tab" feature
+
+### Content Strategy Refinements
+
+  - Differentiate between Access Intelligence and Advanced Threat Detection in articles
+  - Avoid overgeneralizing capabilities across different products
+  - Focus on relevant product features based on article topic
+  - Maintain a balanced tone on traditional vs. AI-enhanced security
+  - Attribute articles to Atul, Mau, and Alberto in rotation
+  - Target enterprise-level organizations, avoid specifying company size
+
+### Technical Integration
+
+  - Working on Strapi CMS integration for content publishing
+  - Planning API-based automated staging process
+  - Initially will manually stage content for quality control
+
+---
+
+## Action Items
+
+**Sydney Go (GrowthX)**
+- Edit existing documents to separate Access Intelligence and Advanced Threat Detection messaging, adjust language around traditional security, remove "mid-enterprise" references
+- Coordinate with content publisher regarding Strapi CMS uploads and feedback
+- Send 3 draft articles this week for messaging alignment review with Atul
+
+**Atul Ashok (Ambient.ai)**
+- Send Sydney YouTube links of recent SME presentations, new messaging PDF, and slide deck showing 150 threat signatures
+- Provide feedback on Strapi uploads to Sydney
+
+---
+
+## Transcript
+**Sydney Go:** Hey, how's it going?
+
+**Sydney Go:** Good.
+
+**Atul Ashok:** Thank you for your patience.
+
+**Atul Ashok:** We're running a little late here.
+
+**Sydney Go:** No worries.
+
+**Sydney Go:** We're all busy.
+
+**Sydney Go:** It's a Tuesday morning.
+
+**Atul Ashok:** How are you doing?
+
+**Sydney Go:** Good, okay.
+
+**Sydney Go:** It's little bit gray out, so now it brings the mood down.
+
+**Atul Ashok:** Where are you based at all?
+
+**Sydney Go:** I'm in Vancouver, so.
+
+**Sydney Go:** Okay.
+
+**Atul Ashok:** Yeah, it's great.
+
+**Atul Ashok:** Bay Area.
+
+**Sydney Go:** Oh, you're in the Bay Area?
+
+**Atul Ashok:** Yeah.
+
+**Atul Ashok:** Oh, nice.
+
+**Atul Ashok:** Yeah, it's supposed to be a little sunny, but right now it's gray and gloomy, but I don't know which I prefer more right now because yesterday when it was hot, it was really hot, and now it's a little nice and cold.
+
+**Atul Ashok:** I like this, but anyway.
+
+**Atul Ashok:** Yeah, the Bay Area is weird like that.
+
+**Atul Ashok:** Yeah, it is.
+
+**Atul Ashok:** It is.
+
+**Atul Ashok:** So many micro-plements.
+
+**Atul Ashok:** Have you been here before?
+
+**Atul Ashok:** Yes, I grew up in LA, and I have family there.
+
+**Sydney Go:** I was actually there in June-ish.
+
+**Sydney Go:** Yeah,
+
+**Atul Ashok:** Okay, so you did take the brunt of the heat then?
+
+**Sydney Go:** Actually, so they told me that there would be a heat wave, but it was like 50 degrees, and I'm like, this is not what I packed for.
+
+**Atul Ashok:** Yeah, so that was fun.
+
+**Sydney Go:** Good to hear that.
+
+**Atul Ashok:** Okay, so for this session, I was thinking we could take it in a couple of ways.
+
+**Atul Ashok:** I actually, hold on, I had written down some, thanks.
+
+**Atul Ashok:** Okay, first, any questions that you have about the product, fire them away, and I can clear that and fill the knowledge gaps.
+
+**Atul Ashok:** Then we can walk through how you see the product today and how you understand it, so that I can maybe make the corrections as needed.
+
+**Atul Ashok:** That way I understand, okay, where you're coming from and where we need to pivot.
+
+**Atul Ashok:** And then we have an update to the messaging doc.
+
+**Atul Ashok:** It's not that much of a leap from what Mau and Alberto had shared before.
+
+**Atul Ashok:** It's just finding off a couple of that.
+
+**Atul Ashok:** Or models of credit signatures from one to the other.
+
+**Atul Ashok:** So yeah, over to you, fire away any questions that you have.
+
+**Sydney Go:** So I actually didn't prepare a bunch of questions, but I did look through the docs and I wanted to go through the comments, if that's possible.
+
+**Sydney Go:** But then I think that would start with the messaging, because a lot of Alberto's comments are about the messaging.
+
+**Sydney Go:** So this, yeah, I can share my screen.
+
+**Sydney Go:** That'll help.
+
+**Sydney Go:** Yeah.
+
+**Sydney Go:** Let me just share it so that I'm not missing anything.
+
+**Sydney Go:** Yeah.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** Yeah.
+
+**Sydney Go:** This is the one.
+
+**Sydney Go:** Can you see my screen?
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** So this is the first time I've actually heard any of these tools referred to as Gen 1 or Gen 2.
+
+**Sydney Go:** Is this new according to the new messaging guide, or is this something that I missed?
+
+**Sydney Go:** I just want to make sure on that front.
+
+**Atul Ashok:** No, it's something that Alberto is trying to make a distinction on to try and set us apart.
+
+**Atul Ashok:** It's not even necessarily inherently as part of the messaging document, more about how we are trying to pitch ourselves compared to the competition in the market.
+
+**Atul Ashok:** Because solutions like Xero, I, Volt, AI, they're very similar in nature, wherein they can detect a gun if it's in the frame.
+
+**Atul Ashok:** And that's pretty much it.
+
+**Atul Ashok:** They don't look for the behaviors beyond it.
+
+**Atul Ashok:** I think Volt AI goes one step further, where they're also able to detect health emergencies.
+
+**Atul Ashok:** But from the literature that I've seen, it pretty much boils down to, okay, has a person fallen down?
+
+**Atul Ashok:** So that's pretty much what we would classify as two threat signatures, right?
+
+**Atul Ashok:** One, gun detection, gun being in the frame.
+
+**Atul Ashok:** Someone has fallen down, camera has caught it, and Volt was able to capture it.
+
+**Atul Ashok:** So pivoting, pitching against zero eyes.
+
+**Atul Ashok:** Zero eyes.
+
+**Atul Ashok:** It's a very singular, it's only, hey, if a gun is visible in the frame, only then.
+
+**Atul Ashok:** So it's pretty much like an advanced object detection piece, wherein like five, ten years ago, we had these object detection tools where you could upload an image and the system would identify, okay, it's an object, it's an apple, it's a car, and so on, right?
+
+**Atul Ashok:** So it's very, very limited in that nature, whereas Ambient goes beyond that, right, where even if a gun is not visible in the frame, it's able to analyze the surroundings and see, okay, are there any behavioral changes, and then tell that, okay, some event is happening that requires attention, and that's where Ambient kind of shines.
+
+**Atul Ashok:** Like, for example, this is an example that actually Ma likes to give, too, where let's say a camera is pointed, a camera is at the back of, or behind me, right, pointed towards the back of my head.
+
+**Atul Ashok:** If I take out a gun over here, it's not in the view of the camera, but all the people who are in front of me who notice the gun in my hand,
+
+**Atul Ashok:** They're bound to run away from me.
+
+**Atul Ashok:** So that's the behavior that the camera would be able to capture that's behind me.
+
+**Atul Ashok:** So even though the gun is not visible, it's able to capture the behavior that's happening around me and then raise an alert.
+
+**Atul Ashok:** Like, okay, there's a crowd-forming or group of people running away from something.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** That makes a lot of sense.
+
+**Atul Ashok:** So that's where Alberto is trying to make the distinction of gen and gen too.
+
+**Atul Ashok:** Not necessarily how we use it in the literature, but just the differentiation of our product versus their product.
+
+**Atul Ashok:** Okay.
+
+**Sydney Go:** All right.
+
+**Sydney Go:** That kind of makes sense.
+
+**Sydney Go:** So I figured I could just correct me if I'm wrong, but the way that I'm understanding it is that Ambient is a software that layers over security cameras.
+
+**Sydney Go:** So if you have existing security cameras that fit into like what the specs that Ambient needs, then you can layer it into them.
+
+**Sydney Go:** And then from there, those, the software can detect different kinds of signals based on context, but not by location, right?
+
+**Sydney Go:** That's not something Ambient can.
+
+**Sydney Go:** What do you mean by location?
+
+**Sydney Go:** So in an earlier draft, I had it set up where if this is like the entryway, then you can set up that this is the entryway.
+
+**Sydney Go:** We have stricter like guidelines here.
+
+**Sydney Go:** If people are moving in certain ways in the entryway, then it will detect that.
+
+**Sydney Go:** But if it's like, I don't know, in a supply closet, then it won't detect that as a specific behavior.
+
+**Atul Ashok:** Okay, so those are pretty much dependent on our customer sites and how they want to configure their individual spaces.
+
+**Atul Ashok:** One moment.
+
+**Atul Ashok:** Okay, no worries.
+
+**Atul Ashok:** Yeah, so all those classification of environments and where they want to deploy individual signatures are very much site dependent.
+
+**Atul Ashok:** Like for example, let's take data center as an example, right?
+
+**Atul Ashok:** So data centers, you have multiple layers of security, especially in remote areas where you have a fence line that is probably can in I'm
+
+**Atul Ashok:** Like a couple of hundred meters away from the front door, where you'll have cameras mounting, people jumping with the fence and such.
+
+**Atul Ashok:** But as and when you get closer to the data center, enter itself, the security protocols increases.
+
+**Atul Ashok:** You have guards at the gate, you have people scanning for badges, scanning your vehicles and everything.
+
+**Atul Ashok:** But once you get inside the building, it's even more stringent, where the specific area where the servers and the power generators are stored need specific access control permissions.
+
+**Atul Ashok:** So it's very much associated with your badge, your level of experience, your level of access within the building itself.
+
+**Atul Ashok:** So as and when you get into the building towards a closer and secure asset, the level of permissions that you need to access that also increases.
+
+**Atul Ashok:** So you're able to actually monitor that as well within Ambient.
+
+**Atul Ashok:** So when a customer like data center comes and says that, hey, I want perimeter protection only, and that's what I want to focus on, then that's why we will deploy outside signatures only.
+
+**Atul Ashok:** We can deploy Ambient to monitor all the cameras, and depending on what side signatures they want to focus on, we deploy that there.
+
+**Atul Ashok:** For example, at the perimeter, if they're saying that we're worried only about people jumping over the fence, we deploy that side signature over there.
+
+**Atul Ashok:** Within the building itself, if they say that, okay, we have this one secure cabinet in this one corner, which we don't want anyone to touch, we can deploy a signature over there as a person interacting with a secure asset.
+
+**Atul Ashok:** anytime anyone goes and touches that, an alert is sent to the Security Operations Center.
+
+**Atul Ashok:** Okay.
+
+**Sydney Go:** And the way that this works is, for example, if you're on a floor with a very secure protocol, it's like only specific people can go onto that floor.
+
+**Sydney Go:** Is Ambient able to detect who is on that floor, and then if that person doesn't belong on that floor?
+
+**Sydney Go:** Because I know that goes into PII, which I know we're trying to stay away from, right?
+
+**Atul Ashok:** Yeah, so not yet, but that is something that we are...
+
+**Atul Ashok:** We're trying to figure out how, because our platform right now, when you tie in both the Signals Inclusions product and TDNR together, we are able to detect tailgating, which is very much prevalent in corporate campuses.
+
+**Atul Ashok:** So tailgating, one-person badges in, but multiple people go a doorway, right?
+
+**Atul Ashok:** So our camera sees that, okay, we see the action of one-person badging, and now, recently, we were also able to ingest the badge data from the PAC system to see if, who was the person who badged in, and then multiple people entered.
+
+**Atul Ashok:** a camera catches it, okay, three other people followed.
+
+**Atul Ashok:** So we were able to tell the SOC operator, hey, person XYZ badged in, but they let three other people follow with them through the doorway.
+
+**Atul Ashok:** That is something we were able to detect today.
+
+**Atul Ashok:** So if an office were to say that, deploy the badge reading and tailgating threat signature at multiple floors, then we can...
+
+**Atul Ashok:** and actually detect, okay, who's going through the doorway to access that particular floor and so on, but not on its own, just because a person walked through an entryway.
+
+**Atul Ashok:** There has to be a data read event.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** All right, that makes sense.
+
+**Sydney Go:** I think I have an understanding of how this works.
+
+**Sydney Go:** After the context is set, if it's suspicious behavior that Ambient picks up on, then it will send an alert to the SOC, but also to authorities, right?
+
+**Sydney Go:** Authorities only depending on how the system is set up.
+
+**Atul Ashok:** So we are working on a rapid SOS integration, which will send an integration to 911.
+
+**Atul Ashok:** I don't think that integration is complete yet.
+
+**Atul Ashok:** Actually, no, it's not complete yet.
+
+**Atul Ashok:** And even in the initial phases, we will be sharing it only with schools and education because they are the ones who are more worried about it rather than enterprises.
+
+**Atul Ashok:** In that instance, they are able to share...
+
+**Atul Ashok:** Share the information via the system using a secure link, like, for example, let's say an incident has happened and the SOC operator wants to share the video clip with the authorities, right?
+
+**Atul Ashok:** They are able to do that within the system, but by extracting a link, like how you would share a Google Doc, right?
+
+**Atul Ashok:** Like you click the share button, copy link, and then you draft an email, place a link in that, and send it.
+
+**Atul Ashok:** Some, some similar to that.
+
+**Atul Ashok:** That's how we were able to share it today.
+
+**Atul Ashok:** Okay.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** And then I remember, sorry.
+
+**Atul Ashok:** The one-click dispatch itself, that is pretty much limited to folks on the ground as part of the organization's SOC who are already onboarded onto Ambient.
+
+**Atul Ashok:** Like, for example, we have the mobile app as well, right?
+
+**Atul Ashok:** So if we have a patrol guard who has our app on his phone, and someone in the...
+
+**Atul Ashok:** Operation Center clicks the dispatch button, then the patrol guard will get a notification on his phone saying, hey, this incident has happened in your sector, go take a look at it, here are the details, with a video clip as well to go with it, so he sees exactly, okay, what is he responding to.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** Okay, that makes sense.
+
+**Sydney Go:** And I remember someone mentioning in the first draft that the human intervention step or the human verification step in the middle is very important there, is that correct?
+
+**Atul Ashok:** For firearm detection, yes, because we don't want any false alarms, so yes, and that's a pretty quick turnaround time, since we have well-equipped TDAC, to give you some background context, initially when Ambient launched, the number of alerts, like in terms of percentages, right, the number of alerts that were verified by TDAC was somewhere around 25%, and the Ambient software itself was 75%, but over the last year, it has shifted so much.
+
+**Atul Ashok:** Right now it is like 97%, 95, 97% something, Ambient software, and the last two to three person where the object is not really discernible in the frame, but that's where the human comes in the picture for that last edge cases.
+
+**Atul Ashok:** Okay.
+
+**Atul Ashok:** All right.
+
+**Sydney Go:** I think that makes sense to me.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** So this one is the, going back to the article, sorry.
+
+**Sydney Go:** This one's the new messaging guide.
+
+**Sydney Go:** And so this one's like our internal knowledge, and we don't need to refer to these tools as Gen 1 or Gen 2.
+
+**Sydney Go:** But when we do phrase it, then we have to say that this is the first layer, blah, blah, blah, where ZeroEyes comes in, and they're just very object detection, very simple kind of software.
+
+**Sydney Go:** And then you layer in, like the smarter layer would be like Ambient, Vault.ai, can detect actual like behaviors from humans and not just the objects.
+
+**Atul Ashok:** I wouldn't even place Vault.ai in the same category.
+
+**Atul Ashok:** Yeah.
+
+**Atul Ashok:** I would say Vault.ai is somewhere between us and ZeroEyes.
+
+**Atul Ashok:** Okay.
+
+**Atul Ashok:** All right.
+
+**Atul Ashok:** ZeroEyes, Albert.
+
+**Atul Ashok:** I have written a blog on why context matters when it comes to detecting images or detecting people and motion.
+
+**Atul Ashok:** I think I've seen that.
+
+**Sydney Go:** Is that Context is Queen or Content is King, Context is Queen?
+
+**Sydney Go:** Yeah, I've seen that one.
+
+**Sydney Go:** I actually link to that one a lot.
+
+**Sydney Go:** It's a really good one.
+
+**Atul Ashok:** The title was a little cheesy, but I figured, okay, that must be the most I can do.
+
+**Sydney Go:** Yeah, and I remember it, so it works.
+
+**Sydney Go:** Yeah.
+
+**Sydney Go:** Also, yeah, yeah.
+
+**Sydney Go:** We also use content a lot.
+
+**Sydney Go:** Content is Queen or Content is King or something.
+
+**Sydney Go:** So it is something that does stick.
+
+**Sydney Go:** There was another one in here.
+
+**Sydney Go:** I think that one was just, okay.
+
+**Sydney Go:** Okay, so I think one of the things that I want to clarify is how to talk about Ambient and the content.
+
+**Sydney Go:** Text of these articles.
+
+**Sydney Go:** So what we have currently is we just put Ambient at the end, and then kind of added in as related to the topic as possible, you know, but then also pushing Ambient really hard.
+
+**Sydney Go:** So I think what we're going to do is we're going to start pivoting these conclusions to make sure that they're more natural and they don't mention Ambient in the H2, and then just add like a book a demo CTA at the bottom, and then only mention Ambient here if it makes sense.
+
+**Sydney Go:** And then mention Ambient more throughout the article versus at the end, because I do have it subtly here, like this is to a resource doc and all that, but none of this in the actual article, I'm not sure if anything here mentions Ambient outright.
+
+**Sydney Go:** It might, but I do remember trying to keep it as clean as possible on the sales side, and then just hard sell at the very end.
+
+**Sydney Go:** So does that make more sense?
+
+**Atul Ashok:** It does, yeah.
+
+**Atul Ashok:** Okay.
+
+**Atul Ashok:** Especially since we want these articles to be very thought leadership-based and not as much as sales-based.
+
+**Atul Ashok:** We don't want the readers to feel like, okay, we're making a hard sell.
+
+**Atul Ashok:** Yes, okay.
+
+**Sydney Go:** So at the very end here, or throughout the article, I have some idea about how you position Ambient in this conversation.
+
+**Sydney Go:** So the way that, sorry, have you read this article already, or?
+
+**Atul Ashok:** I have skimmed through it the way last minute, sorry, but I did go through it.
+
+**Atul Ashok:** no, no, no.
+
+**Sydney Go:** No, I just don't want to repeat myself or repeat information you already know if you've already seen this.
+
+**Sydney Go:** But so the way that I have it set up is gunshot detection is acoustic.
+
+**Sydney Go:** Ambient layers it in as an AI visual weapons detection system.
+
+**Sydney Go:** And then so we talk about gunshot detection, like how it works and all that.
+
+**Sydney Go:** And then we kind of layer in, I know it's two different things, but this is how the other competitors have done it as well.
+
+**Sydney Go:** But we layer in.
+
+**Sydney Go:** The visual AI detection system in there as well.
+
+**Sydney Go:** And then we talk about reactive versus proactive detection systems.
+
+**Sydney Go:** And then Ambient is a proactive detection system in this case.
+
+**Sydney Go:** And so the way that I'm thinking of adding this in here is enable proactive security, and then just remove Ambient from there, make it probably a nicer H2.
+
+**Sydney Go:** And then, so this part, is what I have a question about.
+
+**Sydney Go:** So the way that we want to talk about this is that acoustic sensors are nice if you have them, but then Ambient makes your system so much more secure.
+
+**Sydney Go:** Is that correct?
+
+**Sydney Go:** Yep.
+
+**Atul Ashok:** But also it's not the, and so for this particular article, since it is purely based on the visual detection of the pyromic context around it, is the signals intelligence product does, or
+
+**Atul Ashok:** Play as much of a role.
+
+**Atul Ashok:** Okay.
+
+**Atul Ashok:** Because signals intelligence is primarily about helping the guard force and the SOCs monitor the entryways and maybe the window sensors and so on.
+
+**Atul Ashok:** Not so much the visual detection.
+
+**Atul Ashok:** So I think that's where even Alberto mentioned about the 95% false.
+
+**Atul Ashok:** Oh, yeah, this comment over here where threat detections are all about accurate real-time alerts on what's exactly happening on the scene.
+
+**Atul Ashok:** Whereas the 95% of suppressing 95% false positives is a data point we use specifically only to the signals inclusions product.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** I got it.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** Thank you.
+
+**Sydney Go:** That makes this so much more clear.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** In my head that they were kind of the same thing because to me the gun was a signal.
+
+**Sydney Go:** And so this kind of makes more sense now.
+
+**Sydney Go:** Yeah.
+
+**Sydney Go:** This conversation is super, super helpful.
+
+**Sydney Go:** Thank you so much.
+
+**Sydney Go:** And also with the...
+
+**Atul Ashok:** The messaging talk that I'll share with you, you'll see that we have changed the names as well, like we are hoping to announce it on Friday, but we're moving away from signals intelligence and calling it access intelligence, just to make it that much more clear that, hey, it's only with the access events that we are actually, you know, helping you suppress the 95% of false positives.
+
+**Atul Ashok:** Do you know the, has anyone shared the story behind the 95% or where that number came from?
+
+**Sydney Go:** No, actually, that was also going to be a question I had for you today.
+
+**Sydney Go:** This time, the 150 threat signatures, I couldn't find that almost anywhere as well.
+
+**Sydney Go:** Like I saw a news story from a while back that said we added 25 new threat signatures, but then I can't find a document that says we have 150.
+
+**Sydney Go:** So I couldn't find the 95% and on any external facing or at least Google index pages.
+
+**Atul Ashok:** Right, the 150 plus threat signatures, it's purely for the threat detection and response product, which will soon be called just advanced threat detection.
+
+**Atul Ashok:** Right.
+
+**Atul Ashok:** So...
+
+**Atul Ashok:** I can share a slide with you that gives an overview of what are the different set signatures that we classify under that 150 plus bucket.
+
+**Atul Ashok:** 95% of, or suppressed 95% of false positives, it's purely for the Signals Intelligence product, soon to be called Access Intelligence.
+
+**Atul Ashok:** And that is because whenever you go into an enterprise building, right, when you enter the door, whether it be the sliding door or where you have to put people, there's usually a sensor attached to the door, right?
+
+**Atul Ashok:** And sensors are, for lack of a better term, dumb sensors.
+
+**Atul Ashok:** They don't have any intelligence to it or any processing to it.
+
+**Atul Ashok:** It's based on our contact.
+
+**Atul Ashok:** So if there's a shift in the contact, even a tiny bit of friction, it will send an alert to their system that, hey, someone is trying to force open the door, right?
+
+**Atul Ashok:** Like, even when you have a bad system, like, when you're trying to go to the office, you try to badge in.
+
+**Atul Ashok:** The first time you badge in, you think that's green and you try to pull.
+
+**Atul Ashok:** It doesn't happen.
+
+**Atul Ashok:** It doesn't have to badge again.
+
+**Atul Ashok:** That's all.
+
+**Atul Ashok:** So false positive, where it's not exactly a threat because an employee is trying to enter the premises he's allowed to enter, but the system, for whatever reason, saw that the contacts operated and raised an alert.
+
+**Atul Ashok:** These sensors are so fickle that sometimes even a gust of wind can cause that contact to break and alert.
+
+**Atul Ashok:** So every single time, because of the security regulations and audit trails and every other rules that the security teams have to adhere to, they are actually required to verify every single time that alert goes off.
+
+**Atul Ashok:** So during the day, for every five real alerts, there are like 95 false alerts because, okay, someone bumped into it, or even someone is just leaning against the door talking to a colleague, right?
+
+**Atul Ashok:** It's the contact broken, there's no real threat, but it happens.
+
+**Atul Ashok:** So that's an alert too.
+
+**Atul Ashok:** So security guards have to go into the system, pull up the alert, open the camera.
+
+**Atul Ashok:** Feed that's actually pointed at the sensor, verify that, okay, it's not an alert, go back to the system, back to the system again, and mark it as, okay, false alarm, and close that ticket.
+
+**Atul Ashok:** That's where the 95% comes in, where if we have a camera pointed at the entryway where that sensor is, our system can detect, okay, is it just a gust of wind?
+
+**Atul Ashok:** It's that someone actually trying to force the door open, which is called the door forced open alert, and see that, okay, someone is actually trying to force the door open.
+
+**Atul Ashok:** That's an actual alert.
+
+**Atul Ashok:** So a system tells the SOC team that, hey, someone is actually trying to break in, take a look.
+
+**Atul Ashok:** But if it's just a gust of wind, our camera will say that, okay, there's no person at all near the door who's trying to open the door.
+
+**Atul Ashok:** We'll go back to the PAC system, automatically clear it, and also have an audit log for the SOC team to look at it at the end of the day that, okay, so many false alerts were cleared in case they want to take a look at double verify.
+
+**Sydney Go:** Okay, so ambient lays, but ambient doesn't detect.
+
+**Sydney Go:** The forced entry, right?
+
+**Sydney Go:** It would be, so it would hook up to the PAC system, and then it will talk to, basically talk to the PAC system and do what the security guard is doing with the verification and all of that.
+
+**Sydney Go:** Is that correct?
+
+**Sydney Go:** Pretty much, yeah.
+
+**Atul Ashok:** So contact sensor breaks, it generates a signal for the alert in the PAC system.
+
+**Atul Ashok:** From the PAC system, the alert goes to the Ambient.
+
+**Atul Ashok:** Ambient system looks at the camera feed, checks if there's an actual person who's trying to break in or not.
+
+**Atul Ashok:** If there is, send an alert to the SOC.
+
+**Atul Ashok:** If there is no person over there, and it looks all clear, then suppress the alert, send a message back to the PAC system saying, hey, there's a false alarm, let's auto clear it.
+
+**Atul Ashok:** Okay.
+
+**Atul Ashok:** Okay, that makes a lot of sense.
+
+**Sydney Go:** And for the door held open as well.
+
+**Atul Ashok:** Like, for example, someone opens the door, right?
+
+**Atul Ashok:** And the PAC system, if it sees that, okay, contact hasn't been broken, but it hasn't reestablished the contact after whatever period, it raises a door held open alert.
+
+**Atul Ashok:** Now, this could be because, let's say, the cleaning crew has dropped the door open because they want to vacuum the doorway and whatnot, right?
+
+**Atul Ashok:** So there are multiple real reasons why there should not be an alert.
+
+**Atul Ashok:** So that's also something that we can actually detect, analyze, and send an alert back saying, okay, is it an actual door held open incident?
+
+**Atul Ashok:** Or is the sensor actually broken where the door is closed, but the contact is broken?
+
+**Atul Ashok:** So, you know, that's something that the security team should look at.
+
+**Atul Ashok:** So that's a whole different type of alert.
+
+**Atul Ashok:** Okay.
+
+**Sydney Go:** All right.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** That actually gives me a lot of clarity on how the system works.
+
+**Sydney Go:** I did want to ask you one more question before we broke.
+
+**Sydney Go:** So in this article originally, the AI draft that came out was something along the lines of gunshot, like traditional gunshot detection versus AI gunshot detection or something to that effect.
+
+**Sydney Go:** I am still very clear of that kind of language of traditional security systems are broken.
+
+**Sydney Go:** So we need a new one.
+
+**Sydney Go:** So what I've tried to do is make sure that traditional...
+
+**Sydney Go:** ...
+
+**Sydney Go:** ...
+
+**Sydney Go:** ...
+
+**Sydney Go:** The way that I framed it is traditional security systems exist for a reason, but you can make it so much better if you layer in Ambient.
+
+**Sydney Go:** Is that messaging correct, or should we be a little bit more hard on like traditional security systems are broken?
+
+**Atul Ashok:** We are trying to pick and choose where we go a little harder on that language, on where we are saying that, okay, security systems are broken.
+
+**Atul Ashok:** Because even the recent webinars that we have hosted or the events where SMEs have presented, we go with, hey, the traditional security tools have existed for a long time, but the amount of data they've generated is something that humans cannot keep up with.
+
+**Atul Ashok:** Like at the maximum, you can have one human operator monitoring four to maximum 12 video feeds at a time, and that too for like 20 minutes something beyond the security is bound to miss something.
+
+**Atul Ashok:** So, we have tried to figure out what's the best way to balance it, and we're still trying to stock it out.
+
+**Atul Ashok:** So, in the blog.
+
+**Atul Ashok:** itself, I would say take that middle ground where you can, but just a little bit.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** All right.
+
+**Sydney Go:** That makes sense.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** And then we have two minutes.
+
+**Sydney Go:** This is the other article that we sent over.
+
+**Sydney Go:** So for this one, I think there's a lot of verification that we have to do and a lot of reframing here.
+
+**Sydney Go:** So we will do the verification on this and then maybe, so I think I understand now where this comment is coming from, is that we've kind of taken false alarm in the general sense of false alarms for both the weapons detection system and your access.
+
+**Atul Ashok:** Sorry, I'm sorry.
+
+**Atul Ashok:** Access system.
+
+**Sydney Go:** The access detection system.
+
+**Sydney Go:** Oh, so I've kind of combined the two ideas here, but what Alberto is saying is these two are separate things.
+
+**Sydney Go:** And if we're going to talk about it, then we have to be very clear that these are two separate things.
+
+**Sydney Go:** Is that.
+
+**Sydney Go:** Am I understanding this comment correctly?
+
+**Atul Ashok:** A hundred percent, yes.
+
+**Atul Ashok:** So whenever you are creating a topic or content moving forward, if it's predominantly visual-based topic, focus the end paragraph on threat detection.
+
+**Atul Ashok:** If it's more about access control-based, like, what's a good access control example?
+
+**Atul Ashok:** So I guess that would be more about hidden cost or the false alarms itself.
+
+**Atul Ashok:** So this one, focus the end paragraph on the access intelligence product.
+
+**Atul Ashok:** But one more product that you can actually weave in here is maybe the forensics, because you potentially could, but not necessarily.
+
+**Atul Ashok:** So that's one more thing that Alberto had mentioned in passing, that we are not talking much about the forensics product either.
+
+**Atul Ashok:** Maybe it's because we haven't level yet in the whole portfolio of articles that you're building, or it could be just something else, but that's also something that we could include, not specifically in this article, because this for the packs, I don't think for this one, but yeah, we should start talking about that too.
+
+**Atul Ashok:** It will help both for the proactive investigation as less reactive.
+
+**Atul Ashok:** Like, for example, a platform has a real indexing capability, which means that as soon as a product is, or a video feed is ingested, you're able to run search queries against it.
+
+**Atul Ashok:** So, for example, let's say that an employee in an organization puts a complaint to the SOC that, hey, someone's from a laptop in the gap area.
+
+**Atul Ashok:** The SOC, the SOC can pull up forensics and type in the query in everyday English that, okay, person taking laptop in cafeteria.
+
+**Atul Ashok:** Noon today or known yesterday, whatever the timeframe be, but in very simple language.
+
+**Atul Ashok:** So if the incident happened right now, like two minutes ago, our system is still able to process that video feed and get you the results.
+
+**Atul Ashok:** Okay.
+
+**Atul Ashok:** So something that you could include as a part of the proactive investigation or even quick investigation after the event has already occurred.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** That makes sense.
+
+**Sydney Go:** I know we're a little bit over time, but I did have one question on this article, and I don't think nobody's read it or left any comments on it yet.
+
+**Sydney Go:** So I'm not sure that if anybody has read it.
+
+**Sydney Go:** I don't think we have gotten this one yet.
+
+**Atul Ashok:** Yeah.
+
+**Atul Ashok:** I just sent it the other day.
+
+**Sydney Go:** So honestly, I'd be surprised if there was already detailed feedback on it, although you guys are all very, very fast.
+
+**Sydney Go:** It's great.
+
+**Sydney Go:** Honestly, I really, really, really appreciate it.
+
+**Sydney Go:** And the detail of feedback is super, super, duper helpful.
+
+**Sydney Go:** But for this one, the way that I've kind of framed it is that...
+
+**Sydney Go:** Traditional weapons detection system inundates your team with a lot of data that you can't really keep up with.
+
+**Sydney Go:** But I think, now that you've told me all this, I think I may have married the two systems again, your two detection systems again, in that the weapon is basically treated as a signal.
+
+**Sydney Go:** So one of the things that this thing mentions is that with traditional security, with traditional CCTV cameras, people have to watch the screens for a long time, and they can't focus on all of those things all at once.
+
+**Sydney Go:** Whereas in a weapons detection system, Ambient can watch the screens.
+
+**Sydney Go:** But I don't think that's as accurate as I thought it was.
+
+**Sydney Go:** Is that correct?
+
+**Atul Ashok:** No, I would say that is accurate, because we have Ambient to analyze all the video feeds and tell the customers what exactly...
+
+**Atul Ashok:** They should be aware of, like, for example, within our product itself, we have the pulse tab, which gives you the contextual awareness of all the events that the security may be interested in, like people walking into the front door or people exiting a particular walkway.
+
+**Atul Ashok:** They're not alerts per se, they're event notifications, but we have the alerts where, okay, someone fell down when they were exiting the restroom, like there was a wet floor, they slipped, and they fell.
+
+**Atul Ashok:** That's an actual alert that they should be aware of.
+
+**Atul Ashok:** That's something that is easily missed if a guard is just monitoring the cameras, but our system can actually analyze the footage in real time and tell you, give you an alert that, hey, someone fell down, they may need help, send help.
+
+**Atul Ashok:** Okay.
+
+**Sydney Go:** All right.
+
+**Atul Ashok:** I think you're right in that segmentation.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** But so would this still be somewhat accurate?
+
+**Atul Ashok:** Okay.
+
+**Atul Ashok:** I'm going try to spend a few I'm going to protect some of this here in our videos.
+
+**Atul Ashok:** I'm going to at the real time.
+
+**Atul Ashok:** What do
+
+**Atul Ashok:** Okay, yeah, tried to keep it as concise as possible.
+
+**Sydney Go:** There was a lot of things going on in this paragraph.
+
+**Sydney Go:** I was like, I need to make sure that all of this is correct.
+
+**Sydney Go:** So there was a little bit of massaging to go into the system that I have already fed back into the system on my end.
+
+**Sydney Go:** But also, you know, if I had fed the system a little something incorrect, then I would like to know now so I can take that part out of it.
+
+**Sydney Go:** Yeah, no, this is pretty spot on.
+
+**Atul Ashok:** And this is what our SMEs say on stage as well.
+
+**Atul Ashok:** Speaking of which, I can actually send you a couple of YouTube links of the most recent presentations that they've given, which talked about, okay, why context?
+
+**Atul Ashok:** Why is it important?
+
+**Atul Ashok:** The places where traditional security systems fail and so on.
+
+**Atul Ashok:** So, yeah, let me send.
+
+**Atul Ashok:** Those to you as well along with the PDF of the new messaging document.
+
+**Sydney Go:** Okay, and the slide with the features and the 95%.
+
+**Atul Ashok:** Okay, let me, what part about the 95%?
+
+**Atul Ashok:** Oh, actually, you've already messaged the 90, you've already told me about the 95%.
+
+**Sydney Go:** That's, yeah, it's just the 150 threat signals, think, is the slide.
+
+**Atul Ashok:** All right, I will send those to you as soon as I'm done with my next meeting.
+
+**Atul Ashok:** have some time.
+
+**Sydney Go:** Okay, okay, thank you, thank you so much.
+
+**Sydney Go:** This was super duper helpful.
+
+**Sydney Go:** So I'm going to get to editing all the documents and then hopefully they're better on the next round.
+
+**Sydney Go:** Thanks, Sydney, and so far this has been really good.
+
+**Atul Ashok:** Oh, before we kind of disconnect, have two more things to mention.
+
+**Atul Ashok:** So who's, oh.
+
+**Atul Ashok:** Who on the team is right now loading all these documents into Strapi?
+
+**Sydney Go:** Into Strapi?
+
+**Sydney Go:** I think we're still building out that pipeline, but we can do it manually for now if we have access.
+
+**Sydney Go:** I'll have to double check that we have access.
+
+**Sydney Go:** You do have access because someone uploaded the- Oh, a publisher.
+
+**Sydney Go:** Okay, our publisher is already doing it.
+
+**Sydney Go:** Oh, okay, great.
+
+**Atul Ashok:** So do I give you the feedback for them or do I share it with them directly?
+
+**Atul Ashok:** I don't know who they are.
+
+**Sydney Go:** You can share it with me and then I'll coordinate with them.
+
+**Sydney Go:** Okay.
+
+**Atul Ashok:** But it's a pretty smooth flow on the back end.
+
+**Sydney Go:** And what we're hoping to happen down the line is we can get an API key and then just do the automated staging and then you can hit publish from there.
+
+**Atul Ashok:** All right.
+
+**Sydney Go:** Or, yeah, or we can even publish it automatically if you would like that.
+
+**Sydney Go:** But if you would like us to just stage, that also really works.
+
+**Atul Ashok:** The initial three to five of them, let's stage it so that, you know, figure out all the quality control and everything.
+
+**Atul Ashok:** You guys can take over automatically.
+
+**Atul Ashok:** But one thing was on the blog, right?
+
+**Atul Ashok:** Could you actually put on
+
+**Atul Ashok:** Or website, if you don't mind.
+
+**Sydney Go:** Um, let me go, AI.
+
+**Sydney Go:** Okay.
+
+**Atul Ashok:** To the blog page, yeah, open any of them.
+
+**Sydney Go:** Okay, I'll just open this one then.
+
+**Atul Ashok:** Yep, so right there, next to the date, you see the 11 minutes read?
+
+**Sydney Go:** Yes.
+
+**Atul Ashok:** So, the publisher had just put the number seven in the previous document, so the minutes read was missing.
+
+**Atul Ashok:** Okay.
+
+**Atul Ashok:** the second one was, going forward, instead of attributing all the articles to me, have them cycle between me, Mao, and Alberto.
+
+**Atul Ashok:** Okay.
+
+**Sydney Go:** Sorry.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** That's right, okay.
+
+**Atul Ashok:** And...
+
+**Atul Ashok:** Do, do, do, do.
+
+**Atul Ashok:** Oh, one other thing that Alberto had mentioned was the tax issue.
+
+**Atul Ashok:** It's usually phased by large enterprises, not so much on the midsize.
+
+**Atul Ashok:** Like, for example, startups and midsize enterprises, they're not really that worried about tailgating as an issue and such since they're still in the growing phases.
+
+**Atul Ashok:** But it's enterprises who really care about it.
+
+**Atul Ashok:** I think in one of the two drafts that you had shared, you had mentioned mid-enterprise, I think, once or twice, and that caught us away.
+
+**Atul Ashok:** Yeah, okay.
+
+**Atul Ashok:** All right.
+
+**Sydney Go:** I think that was an overcaution on our part.
+
+**Sydney Go:** We didn't want to go hard on the large, just in case that the medium-sized enterprises were also included in this.
+
+**Sydney Go:** But, yes, that is good to know.
+
+**Atul Ashok:** So we're talking about that as just not mentioning the size of the organization at all.
+
+**Atul Ashok:** But we just covered those businesses and organizations.
+
+**Atul Ashok:** Keep it as neutral as possible.
+
+**Atul Ashok:** Yeah, I'm going to.
+
+**Sydney Go:** That was the next step for me.
+
+**Sydney Go:** I think.
+
+**Sydney Go:** I it's to just go, let's just not describe this.
+
+**Sydney Go:** There's actually a lot of that with these articles is not mentioning data that we can't back.
+
+**Sydney Go:** And we're still refining the system to make sure that it does indeed follow those instructions because it likes to be as precise as possible, which is good.
+
+**Sydney Go:** But that precision also sometimes introduces inaccuracies and we're trying to balance.
+
+**Atul Ashok:** Yeah, I faced that too when I was going to draft a couple of blogs with Gemini, at least in the early years.
+
+**Atul Ashok:** The amount of hallucinations and when I asked for the sources for the data, just to return with a blank or non-existent links, very weird.
+
+**Atul Ashok:** Yeah.
+
+**Sydney Go:** I'm not sure if anyone, I don't I don't think anybody would have walked your team through.
+
+**Sydney Go:** We've got this pretty cool researcher that we're currently testing and it actually tells you like what percent of confidence it has in the stats that it gives in.
+
+**Sydney Go:** So sometimes it's 0% confidence and
+
+**Sydney Go:** in my head.
+
+**Sydney Go:** I'm like, then why are you using it?
+
+**Sydney Go:** But it is very cool from our end that we can actually verify everything.
+
+**Sydney Go:** And in most cases, since we're still testing, it can verify that if it's 0% confidence, then it won't include it.
+
+**Sydney Go:** But it will still present that I did find this, but I'm not really sure, that kind of thing.
+
+**Sydney Go:** And it's very cool.
+
+**Sydney Go:** So we're getting more and more accurate by the day, which is really nice to see.
+
+**Atul Ashok:** I would actually love to get a look at that at a later time, of course.
+
+**Sydney Go:** Yes, yeah, I'll, yeah, it's really early stages.
+
+**Sydney Go:** So I actually don't even know if we have it in a presentable state that I can understand as a not super technical person.
+
+**Sydney Go:** So I probably won't be the best person to ask on that front because I'm not sure if I can explain everything.
+
+**Sydney Go:** But yeah, as soon as we can, I'll ask Ada if she can run the team through that because that'd be really cool.
+
+**Atul Ashok:** Sounds good.
+
+**Atul Ashok:** I think I've covered all the points I wanted to share with you too.
+
+**Atul Ashok:** Notes on that and integrated features.
+
+**Atul Ashok:** Yeah, that's pretty much everything that I want to share.
+
+**Atul Ashok:** Any last questions that I can answer for you?
+
+**Sydney Go:** Nope, but we will be sending over three drafts this week instead of five so that we can really just pin, there'll be calibrations still to make sure that we get the messaging right.
+
+**Sydney Go:** And then by next week, hopefully you can get the five-week cadence.
+
+**Sydney Go:** It's just I'm hesitant to give you a full dump of like five articles without verifying that our messaging is already completely aligned.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** Yeah.
+
+**Sydney Go:** Okay.
+
+**Sydney Go:** Awesome.
+
+**Atul Ashok:** Thanks, Sydney.
+
+**Atul Ashok:** Thank you so much.
+
+**Atul Ashok:** Bye.

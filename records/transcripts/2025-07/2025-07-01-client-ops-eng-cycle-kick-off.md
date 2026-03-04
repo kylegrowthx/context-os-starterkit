@@ -1,0 +1,1520 @@
+# Client Ops Eng: Cycle Kick Off
+
+<metadata>
+date: 2025-07-01
+time: 16:30 UTC
+duration: 63 minutes
+organizer: nicolas.castellanos@growthx.ai
+participants: Daniel Lopes, Marcus Derencius, Kirkland Gee, George Haikal, Andi Bailey, Ben Church, Gianpiero Puleo, Pedro Steimbruch, Nicolas Castellanos
+fathom_recording_id: 71582917
+fathom_url: https://fathom.video/calls/339949933
+share_url: https://fathom.video/share/qW1ynHi6Pf1kwDHh8DWyDVEjPqbVkKF_
+source: fathom
+enriched_on: 2026-03-03 09:23 UTC
+</metadata>
+
+---
+
+## Summary
+
+Kick off the new development cycle for the Client Ops Engineering team, discussing priorities and assigning tasks.
+
+---
+
+## Context
+
+The Client Ops Engineering team at GrowthX runs regular cycle kick-off meetings to plan delivery work. This team builds and maintains the internal tooling and content generation workflows that power GrowthX's client delivery. The team includes both GrowthX engineers and Daniel Lopes from GrowthX Labs, their partner organization. The meeting focused on planning tasks for the current development cycle across multiple clients (Biologica, InnerWell, Airbyte, and others) and internal tools like the Augment Code MCP.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Cycle planning for client-facing tools: document storage solutions for Biologica medical content, localized SEO for InnerWell, and legacy page enrichment for Airbyte (2,600+ pages)
+- Image generation workflows are now a cross-client need, indicating standardization opportunity
+- Templated article workflows will improve delivery efficiency and consistency
+- Google Search Console integration will provide better SEO reporting and visibility for clients
+
+**To GrowthX Business Development:**
+- Biologica, InnerWell, and Airbyte feature requests signal active engagement and expansion opportunities
+- Cross-client need for image generation (cover images, content images) indicates potential upsell or new service line
+- Successful delivery on these cycles will strengthen client relationships and reference potential
+
+---
+
+## Overview
+
+- Focus on client-side needs, including document storage, localized SEO, and content enrichment
+- Prioritize tasks for Biologica, InnerWell, Airbyte, and image generation workflows
+- Implement Google Search Console integration for improved SEO and reporting capabilities
+- Address ongoing client requests and bug fixes while balancing new feature development
+
+---
+
+## Key Topics
+
+### Client Priorities
+
+  - Biologica: Research and implement document storage for medical content creation
+  - InnerWell: Develop location-based content generation for localized SEO
+  - Airbyte: Enrich 2,600 legacy pages and implement Webflow publishing integration
+  - Multiple clients: Create image generation workflows for content and cover images
+
+### Workflow Improvements
+
+  - Implement templated article workflows for efficient content creation
+  - Explore Google Search Console integration for enhanced SEO capabilities
+  - Develop Gong sales call workflows to inform artifacts and improve customer insights
+
+### Task Distribution
+
+  - Assigned key tasks to team members based on expertise and availability
+  - Kirkland to lead thinking on InnerWell and audit tasks
+  - Ben to handle Airbyte integration and legacy page refresh
+  - GP to work on image generation workflows
+  - Pedro to research vector storage solutions for Biologica
+
+### Ongoing Projects
+
+  - Continue work on Augment Code MCP directory
+  - Address bug fixes and support requests as needed
+  - Explore efficiency improvements for strategy sprint workflows
+
+---
+
+## Action Items
+
+**Pedro Steimbruch** (GrowthX)
+- Research/plan Biologica doc storage/fact-check sol. Consult w/ Kirkland. Prep for Atlas feature
+
+
+**Daniel Lopes** (GrowthX Labs)
+- Push templated article workflow to shared repo. Prep config for Kirkland
+
+
+**George Haikal** (GrowthX)
+- Write detailed info on Gong sales call workflows. Share w/ Daniel for prioritization
+
+
+**Kirkland Gee** (GrowthX)
+- Lead initial pass on prog SEO audit. Prioritize clients. Delegate subtasks
+
+
+**Ben Church** (GrowthX)
+- Set up Airbyte workflow integ/pub. Implement legacy page refresh. Sync w/ Kirkland/Jason re Webflow
+
+
+**Gianpiero Puleo** (GrowthX)
+- Work on img gen workflows for content/covers. Pair w/ Daniel. Review existing solutions
+
+
+**Marcus Derencius** (GrowthX)
+- Check fact-check formatting bug. Set up Webflow pub for Firework. Ref Ben's Airbyte work
+
+---
+
+## Transcript
+**Gianpiero Puleo:** Hey, Cliff.
+
+**Nicolas Castellanos:** Hey.
+
+**Gianpiero Puleo:** Nice to meet you.
+
+**Nicolas Castellanos:** Gianpiero?
+
+**Nicolas Castellanos:** How do you say it?
+
+**Gianpiero Puleo:** Yeah, that was perfect, but you can also go 4GP for short.
+
+**Nicolas Castellanos:** Okay.
+
+**Nicolas Castellanos:** Nice to meet you.
+
+**Gianpiero Puleo:** Likewise.
+
+**Daniel Lopes:** Hey, how's it going, guys?
+
+**Nicolas Castellanos:** Hey.
+
+**Gianpiero Puleo:** Hey, Daniel.
+
+**Gianpiero Puleo:** All good.
+
+**Gianpiero Puleo:** How about you?
+
+**Daniel Lopes:** Good.
+
+**Daniel Lopes:** It's good.
+
+**Daniel Lopes:** Everybody.
+
+**Daniel Lopes:** Almost everyone's here already.
+
+**Daniel Lopes:** Mr.
+
+**Daniel Lopes:** Ben.
+
+**Daniel Lopes:** Good morning.
+
+**Ben Church:** Good morning, good morning.
+
+**Pedro Steimbruch:** I have an army of GrowthX notetakers.
+
+**Daniel Lopes:** Yeah.
+
+**Pedro Steimbruch:** Nothing's going to be sick.
+
+**Daniel Lopes:** Exactly.
+
+**Daniel Lopes:** It's going to definitely be recorded.
+
+**Daniel Lopes:** Again, the transcript of the transcript of the test.
+
+**Ben Church:** I'm always surprised that, like, Zoom hasn't made it for their bots, like, a little sidebar for them, you know, just get them out.
+
+**Daniel Lopes:** Yeah, I wonder if they even have, like, a distinction if it's a bot or not, it doesn't look like.
+
+**Kirkland Gee:** Not right now, no.
+
+**Kirkland Gee:** I don't know if they know, you'd think if they saw, you know, six users with the same name, I don't know, you'd think maybe that would do something, but I guess not.
+
+**Daniel Lopes:** Message Marcus real quick.
+
+**Ben Church:** At the same time, I think Zoom's got, like, the slowest velocity of product changes out of any company out there.
+
+**Daniel Lopes:** Like, it is shocking.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** I bet they exploded super fast during the pandemic, and now it's been, like, four years to recover from the fast growth.
+
+**Daniel Lopes:** I think we can wait for Mark a couple weeks.
+
+**Daniel Lopes:** There it is.
+
+**Daniel Lopes:** All right.
+
+**Daniel Lopes:** I will just share my screen and then we go to the board in linear.
+
+**Daniel Lopes:** I have a meeting right after at 10.30, but I think we can go through everything.
+
+**Daniel Lopes:** We don't have to go through everything, all the tickets or anything, but just if we get enough for the cycle to start, then I think that's a good starting point.
+
+**Daniel Lopes:** But to everybody that is joining that you haven't been here, we only did like a proper cycle kickoff once and then we switched to the launch of Atlas and then we paused the cycle for a couple of weeks.
+
+**Daniel Lopes:** But the idea is not to do like the normal estimates and anything.
+
+**Daniel Lopes:** It's just more like for us to see what the team, the client side needs.
+
+**Daniel Lopes:** Sometimes it would be like stuff that's anticipated by the strategy sprint.
+
+**Daniel Lopes:** So like George is here, he's like being very involved with all the strategy sprint, so he knows more or less what is the context there.
+
+**Daniel Lopes:** For all the new ones, there are some other clients that we're putting back into like setting up their works properly.
+
+**Daniel Lopes:** So like some of the work would be like creating documents for context for LLMs and stuff like that.
+
+**Daniel Lopes:** Some other stuff, it's like a thing we've been trying to do for a while and then we haven't really finished.
+
+**Daniel Lopes:** Like image generation is one of those.
+
+**Daniel Lopes:** So there's a bunch of different tickets and then we can just go through all the tickets and then we can decide.
+
+**Daniel Lopes:** Like who can take what based on preference or best experience or availability or whatever.
+
+**Daniel Lopes:** But I was planning like for all of you here, I know like some of you guys were doing a lot of bug fixes and stuff on the Atlas side for a bit.
+
+**Daniel Lopes:** Maybe like this, at least this week or most of the next, if we can focus on all the client stuff would be good.
+
+**Daniel Lopes:** Because I think the other side would have already like Felipe, Stefano, and Brad.
+
+**Daniel Lopes:** But if something shows up there that needs attention.
+
+**Daniel Lopes:** attention.
+
+**Daniel Lopes:** or something urgent, then we can ask for help, but I'm more concerned about this side, because you guys can see the amount of tickets we have, it's just like a lot.
+**Daniel Lopes:** So let me share my screen, one sec.
+
+**Daniel Lopes:** How bad is the screen sharing for this giant monitor?
+
+**Pedro Steimbruch:** Can you guys see the two sides?
+
+**Gianpiero Puleo:** Yeah, it's good.
+
+**Ben Church:** Yeah, it's fine.
+
+**Daniel Lopes:** Good.
+
+**Daniel Lopes:** Yeah, so like, I don't know if you have familiar your, your, your, with linear, so like our linear, have EPD, is our whole team, and then you have EPD client ops, that's where, when folks file tickets, they usually will file using a template that will put in the all issues of the client ops, and sometimes they will file requests that actually bugs for the, for the, for the platform, platform, so sometimes it'd be a bug on studio, sometimes it'd be a bug on Atlas, now we're getting a lot of bugs on Atlas, like when I triage, I mean,
+
+**Daniel Lopes:** Move to the different projects.
+
+**Daniel Lopes:** And the projects we have buffer are the small tasks.
+
+**Daniel Lopes:** So if you go to EPD issues, all issues, we have support requests.
+
+**Daniel Lopes:** Those come in as part of the template.
+
+**Daniel Lopes:** We have buffer for the flow area.
+
+**Daniel Lopes:** And then we have another buffer for Atlas.
+
+**Daniel Lopes:** So the buffer for Atlas is what Felipe, Stefan, and Brad are focused on.
+
+**Daniel Lopes:** And they're doing whatever it is to do.
+
+**Daniel Lopes:** And then on the client top side, we have all issues.
+
+**Daniel Lopes:** And then we just look at the backlog and the to do.
+
+**Daniel Lopes:** I triaged everything we had.
+
+**Daniel Lopes:** So we're just going to look through those two columns here and pick whatever we want and add to the cycle.
+
+**Daniel Lopes:** So the cycle is currently empty.
+
+**Daniel Lopes:** So we just have this.
+
+**Daniel Lopes:** So just to give you the navigation of the thing.
+
+**Daniel Lopes:** And we'll keep this up.
+
+**Daniel Lopes:** And we'll we have some...
+
+**Daniel Lopes:** There's clients that are either they've been here for a bit and there were some bumps or some mistakes we've made there.
+
+**Daniel Lopes:** Then we had to change the team and they had to change the director and some things like that.
+
+**Daniel Lopes:** So that's the case of an inner well.
+
+**Daniel Lopes:** And then we have some new clients like Biologica, and AirBite.
+
+**Daniel Lopes:** AirBite has been with us for a bit, but they were mostly...
+
+**Daniel Lopes:** Yeah, I think...
+
+**Daniel Lopes:** opening.
+
+**Daniel Lopes:** Sorry.
+
+**Pedro Steimbruch:** Did we cut off the...
+
+**Pedro Steimbruch:** Yeah, sorry.
+
+**Daniel Lopes:** Sorry about that.
+
+**Daniel Lopes:** My internet is unstable.
+
+**Daniel Lopes:** That's not good.
+
+**George Haikal:** We just got you back, though.
+
+**Daniel Lopes:** We can hear you.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** So, yeah, we have Biologica is an interesting one.
+
+**Daniel Lopes:** We'll also go to Kirkland, the stuff that Kirkland has here.
+
+**Daniel Lopes:** but Kirkland is doing some stuff for augment code so if you're not familiar augment code is like one of competitors of cursor and windsurf and like some of those editors
+
+**Daniel Lopes:** And we've viewed this product for them.
+
+**Daniel Lopes:** And it's like an MCP directory.
+
+**Daniel Lopes:** We also have rules, cursor rules, and you can create your own rule based on the stack that you use and all that.
+
+**Daniel Lopes:** George May built the UI for this.
+
+**Daniel Lopes:** Kirkland did a lot of the other side of the work.
+
+**Daniel Lopes:** But they still have some things that we want to do.
+
+**Daniel Lopes:** The idea that that will get merged into there as one of their properties in the future.
+
+**Daniel Lopes:** And so like some of things that they're asking is, can I scrub all the dimensions to cursor and things like that?
+
+**Daniel Lopes:** If I'm understanding this right, Kirkland, this is about removing all dimensions of competitors when it gets merged, right?
+
+**Kirkland Gee:** So, yes, probably.
+
+**Kirkland Gee:** We're still figuring out a couple things.
+
+**Kirkland Gee:** Because that text in this ticket is, I would say,
+
+**Kirkland Gee:** A little out of date, like that was the initial, we had a conversation with a guy on their team.
+
+**Kirkland Gee:** I'm already in their repos working on some stuff.
+
+**Kirkland Gee:** For this sprint, really, it's getting, which one of these is already done, like getting the guide section set up on their site.
+
+**Kirkland Gee:** And we're basically going to port the MCP server over to there on augment code and just basically do the exact same thing.
+
+**Kirkland Gee:** I had that drafted already this morning.
+
+**Kirkland Gee:** Their designer just needs to look at the UI side of it.
+
+**Kirkland Gee:** But really, the structure there, like they're going to use the same, like super base and everything, the way you're doing Sanity.
+
+**Kirkland Gee:** Everything from Sanity.
+
+**Kirkland Gee:** we'll just do it that way.
+
+**Kirkland Gee:** It's a little bit different, but at the end of the day, it's pretty much the same idea.
+
+**Kirkland Gee:** It's just instead of super base columns, it's going to be Sanity fields and we'll sort of do everything.
+
+**Daniel Lopes:** And today, what's the work on our side?
+
+**Daniel Lopes:** So we have like a Marisol manually exporting PSP from Atlas and loading into Superbase.
+
+**Kirkland Gee:** And then it will be the same with Sanity.
+
+**Kirkland Gee:** you.
+
+**Kirkland Gee:** I think so, yeah.
+
+**Kirkland Gee:** mean, I'm pretty sure we'll basically just export the entire Superbase and then just translate it into, you know, however it needs to look insanity and do it that way.
+
+**Kirkland Gee:** I still got to figure that piece of it out, but in terms of, like, getting their website ready, I made a lot of progress on that this morning already.
+
+**Daniel Lopes:** Oh, nice.
+
+**Kirkland Gee:** So I think this is closer to, like, two or three points than five for this cycle.
+
+**Kirkland Gee:** We may have some more stuff after that, but.
+
+**Daniel Lopes:** God, okay.
+
+**Daniel Lopes:** So I was, like, just looking at this and I'm thinking, like, man, Kirkland would be, like, the whole week on this.
+
+**Kirkland Gee:** Yeah, there's a lot of stuff on there that, like, we're thinking about doing, but, like, in terms of this, George, correct me if I'm missing anything, but I think if we can get those things done, we'll feel pretty good.
+
+**Kirkland Gee:** And then we might do the comparison pages, but I also think, like, that's really just, like, copying the Bolt workflow and just changing a couple of things.
+
+**Kirkland Gee:** Like, I don't think that's a big ask.
+
+**George Haikal:** Got it.
+
+**George Haikal:** Yep, yep, yep.
+
+**Kirkland Gee:** So I already have four PRs up on their repos for their guide to merge in today.
+
+**Daniel Lopes:** Yeah, that makes me feel a little better.
+
+**Kirkland Gee:** Yeah, it's not as crazy as that text looked.
+
+**Daniel Lopes:** Okay, good.
+
+**Daniel Lopes:** Nice.
+
+**Daniel Lopes:** All right.
+
+**Daniel Lopes:** So I'm just going to give you guys a quick rundown through all the tickets I had to do, and then I can go deeper in each one.
+
+**Daniel Lopes:** So Biologica, it's in the medical space.
+
+**Daniel Lopes:** So they cover, like, supplements, they cover, like, things that are, they have, they need to have a high level of accuracy, and a really good way to do that is to focus on repurposing or using certain documents for either content, the content creation itself, or for fact-checking.
+
+**Daniel Lopes:** So I'm not really sure what would be the right approach here.
+
+**Daniel Lopes:** Like, the request here basically is that they came up with a bunch of topics, and they will cover things like hormonal replacement therapy, menopause, perimenopause, all this.
+
+**Daniel Lopes:** Things, and the request that came in from the team was, like, can we use papers as the original, like, medical papers, and we use, like, published papers as, like, the foundation, but it's not that we would be repurposing the papers, as far as I can tell, based on the topics that they want to cover.
+
+**Daniel Lopes:** It would be, like, we'll probably be using, like, manually picking, like, two or three papers on that topic, and then you can write something from that, and then you extract things from that.
+
+**Daniel Lopes:** So I'm not really sure what would be the approach there.
+
+**Daniel Lopes:** It's like, I'm not sure if we have to build, like, a document storage for PDFs in Atlas that can be, like, accessible to flow.
+
+**Daniel Lopes:** I'm not sure if we should be doing, like, just repurposing your papers and extraction.
+
+**Daniel Lopes:** Actually, I think we have to figure that out, but just based on the topics that they have, is how can we make this subject be not free flow on the internet?
+
+**Daniel Lopes:** It's based on perplexity.
+
+**Daniel Lopes:** It could be, like I'm saying, like repurposing existing documents that we manually peek.
+
+**Daniel Lopes:** It could be also like supporting perplexity, you only search on certain domains that are maybe like PubMed and some other like places, and that could work.
+
+**Daniel Lopes:** So I think it would be, this would be like a little bit of like researching and figuring out what to do.
+
+**Daniel Lopes:** One common request we get all the time is, can we have a place to upload documents for the client and have that be used in the content creation or the fact checking or both, you know?
+
+**Daniel Lopes:** So, and we have a place in the sidebar of Atlas called Knowledge Base, and that was the place where ideally you would start being able to do that.
+
+**Daniel Lopes:** So it's just a place to store anything, because today we have ways to create content out of PDFs and things like that, but we go through GINA, for example.
+
+**Daniel Lopes:** So you just input the URL, convert it to Markdown using GINA.
+
+**Daniel Lopes:** And that gets lost.
+
+**Daniel Lopes:** So you do once.
+
+**Daniel Lopes:** So this one we're having to figure out.
+
+**Daniel Lopes:** There's quite a few things to it.
+
+**Daniel Lopes:** So I'm splitting this into research and then execute.
+
+**Daniel Lopes:** And they want to ramp up content production there next week, but not ramp up to insanity.
+
+**Daniel Lopes:** It would probably be still like, I need to check what kind of expectations they have there.
+
+**Daniel Lopes:** But my hunch there is that it would be like a few articles.
+
+**Andi Bailey:** But even if we have to, like, sorry, go ahead, Andy.
+
+**Andi Bailey:** text on that.
+
+**Andi Bailey:** So they're not, like, publishing anything until the end of August.
+
+**Andi Bailey:** And so the total number is 35 that we want to have ready for them by then.
+
+**Andi Bailey:** So, like, that's, like, setting a timeline and expectations.
+
+**Daniel Lopes:** Nice.
+
+**Daniel Lopes:** Yeah, that makes things feel a lot better.
+
+**Daniel Lopes:** Because we can, if we want to have, yeah, this ticket would be, like, a bit of.
+
+**Daniel Lopes:** What do you actually want to do with the document?
+
+**Daniel Lopes:** Because the kind of requests you get from the team is just like, I want to use documents, but you would need to know what are you going to do with the documents, and that will impact everything.
+
+**Daniel Lopes:** So this one will be like a little bit to decide.
+
+**Daniel Lopes:** And another one is InnerWell.
+
+**Daniel Lopes:** So InnerWell wants to do location-based content creation.
+
+**Daniel Lopes:** So it would like localized SEO.
+
+**Daniel Lopes:** So it would be doctor or clinic for a certain thing in that certain city, and that's super granular.
+
+**Daniel Lopes:** So we need to figure out the data source here.
+
+**Daniel Lopes:** Like, do they have the data source?
+
+**Daniel Lopes:** And if they do, how do we create the permutations?
+
+**Daniel Lopes:** And where do we put it?
+
+**Daniel Lopes:** So where do we put it?
+
+**Daniel Lopes:** They already gave us some, like the API token and everything for the CMS.
+
+**Daniel Lopes:** I haven't looked into that, but they have the CMS.
+
+**Daniel Lopes:** They have everything that's possible to publish.
+
+**Daniel Lopes:** So it probably...
+
+**Daniel Lopes:** They're very similar to the kind of stuff we did with, like, Webflow clients and some other Xenity or, like, anything that we can trigger API calls.
+
+**Daniel Lopes:** I think this one, the main challenge, will be figuring out where the data comes from and how do we build the permutations.
+
+**Daniel Lopes:** So it would probably be a pipeline in Atlas that takes in some variables and things like that.
+
+**Daniel Lopes:** And then you can change permutations.
+
+**Daniel Lopes:** These clients, they have been with us for a while.
+
+**Daniel Lopes:** We kind of mismanaged the account.
+
+**Daniel Lopes:** And we didn't really handle it as programmatic the way we should have done.
+
+**Daniel Lopes:** So we are kind of, like, trying to catch up to the promise that we had there.
+
+**Daniel Lopes:** So it's a little bit of a rescue project mixed with, like, doing everything right from the start.
+
+**Daniel Lopes:** And then we have Airbyte.
+
+**Daniel Lopes:** So Airbyte is a few things.
+
+**Daniel Lopes:** Airbyte would be, they have a ton of pages that they want to enrich.
+
+**Daniel Lopes:** So that would be.
+
+**Daniel Lopes:** First thing, so figuring out ways to, very similar to what we did with Webflow, I can go deeper later, but very similar to what we did with Webflow, would be get existing pages, their integrations, their connectors, and explain things in that, enrich that page.
+
+**Daniel Lopes:** So, and they have 2,600 legacy pages with declining traffic, so that's an important thing that we could make it, make these pages up to date.
+
+**Daniel Lopes:** So it's like a mix of refreshing and enriching the pages that matter.
+
+**Daniel Lopes:** And then we can, this is just a request from Marcel, that usually what Marcel posts, it's not exactly how we're going to do things, it's just the context that he's sharing from the client meetings and things like that.
+
+**Daniel Lopes:** So, this is like, this three, this four things here, like, I think Augment is the one that's like more, and this three things here, it's like, it's a mix of like research and figuring out and like finding the shortest.
+
+**Daniel Lopes:** So it's kind of almost super hard to estimate this.
+
+**Daniel Lopes:** So it's almost like anybody that takes, like, I think we're going to have to distribute these.
+
+**Daniel Lopes:** And like anybody that takes one of these would be like, yeah, we're going to be on this for like a few days.
+
+**Daniel Lopes:** And that will like essentially block that person.
+
+**Daniel Lopes:** And then we have some other smaller things before we jump into the smaller things.
+
+**Daniel Lopes:** There's a big one that's the need for generating images, content, for the content and for the cover of the articles.
+
+**Daniel Lopes:** So we have quite a few things for doing that.
+
+**Daniel Lopes:** So we have for cover images, we have workflows that do things with recraft.
+
+**Daniel Lopes:** have workflows that do things with chat over APT image.
+
+**Daniel Lopes:** We have also stock image stuff.
+
+**Daniel Lopes:** And we have a few workflows that will do HTML manipulation.
+
+**Daniel Lopes:** So you can feed in like a default template and it will try to turn that template, adapt the template.
+
+**Daniel Lopes:** So if you have a template that has a header, and a background color, and a grid, and you have certain content, it will try to place it, and cut down the size of the text, truncate things, or trim the content to fit into the template.
+
+**Daniel Lopes:** So, but we, like, we got really close, and I think what we have there today is already usable, but the challenge is actually doing the design work to look at what the client has in their Figma standards, and try to create a template, an HTML template that's both adaptable, and close to the original guideline.
+
+**Daniel Lopes:** So, for example, for AirBike, it's super easy, because some of the stuff is, GPT image, like, really gets the illustration, like, immediately, right?
+
+**Daniel Lopes:** So they have this mascot here.
+
+**Daniel Lopes:** A GPD image can generate this mascot in many different positions, doing many different things, and it's pretty much 100% amazing accurately.
+
+**Daniel Lopes:** But we would probably, in this case, probably create, like, templates for, like, this without the text, and this without the text, and maybe don't want to, I create, like, four or five templates like this, and we can feed that into the workflow.
+
+**Daniel Lopes:** But the main, the main work here is just, like, transforming some of them in HTML and setting up the pipelines for them.
+
+**Daniel Lopes:** So, but then it's the labor work of doing it for each one of those.
+
+**Daniel Lopes:** And some might not work, some of might have to, like, mix in some stock image stuff.
+
+**Daniel Lopes:** So, let's see, Sniff AI is one that has stock imaging, I think.
+
+**Daniel Lopes:** Yeah, so they use cover images, we'll go deeper on this later, but it would be generating things that are like this, that would add to the content of the article, or as a cover image.
+
+**Daniel Lopes:** But they have like things like that, for example, stock image, a few things on top, and some clients will be able to do it easier and faster, like AirBuy, some other ones will be trickier, like would this be like multiple calls to a stock image, I don't know.
+
+**Daniel Lopes:** So if it becomes too hard, then we can try to simplify the cover image and come up with a template that's just close enough, know, it doesn't have change.
+
+**Daniel Lopes:** It just has to be close enough and try to clear the bar there.
+
+**Daniel Lopes:** It was super simple, they don't have a strong opinion on their things.
+
+**Daniel Lopes:** So we just have to figure out what's the priority order here, and who is more blocked, and then start from those, or which one is easier to do, and start from those.
+
+**Daniel Lopes:** But I was doing some of that, and I paused, because it requires some design work, and I was the only person that could do workflows and do some design work in the mix as well, when we had the last cycle.
+
+**Daniel Lopes:** But I never really shipped anything, because we moved to Atlas.
+
+**Daniel Lopes:** And then we have some other things that are, like this, I think it's fixed, but it's probably worth checking.
+
+**Daniel Lopes:** The bug, just this small bug filed.
+
+**Daniel Lopes:** We don't have sentry on the flow project, so this would be like an interesting one.
+
+**Daniel Lopes:** This could, I could give this to Quinn.
+
+**Daniel Lopes:** As well, it doesn't have to be on this team, so less stuff on you all.
+
+**Daniel Lopes:** And then we have some stuff that is spending, like we're pipeline management stuff that we're adding some extra steps.
+
+**Daniel Lopes:** So that's what Kirkland is doing there.
+
+**Daniel Lopes:** So we're adding like a new workload to the good call pipeline.
+
+**Daniel Lopes:** There's this client here that is complaining, the team is complaining, the client is essentially complaining that it doesn't match their perspective, doesn't match their tone, and doesn't use the right terminologies.
+
+**Daniel Lopes:** And you can see a document that they shared here at the end.
+
+**Daniel Lopes:** And the document is not super, super helpful, but it gives you a sense of what they think that they're struggling with.
+
+**Daniel Lopes:** And my gut feeling here, my first reaction is that this workspace is just not well set up.
+
+**Daniel Lopes:** So it's probably missing the writing guidelines, it's probably missing the personas, it's probably missing the context of what they do.
+
+**Daniel Lopes:** Sorry, Kirkland, go ahead.
+
+**Kirkland Gee:** I actually talked to Panzer briefly about this, because he had...
+
+**Kirkland Gee:** A couple questions.
+
+**Kirkland Gee:** It's not quite that.
+
+**Kirkland Gee:** It's more that this client has, like, very, very particular ways they want to describe very, very niche things.
+
+**Kirkland Gee:** I don't think this is going to be impossible, but I do think it's probably going to need, like, a separate step, like a fact checker, but for a glossary of things they care about.
+
+**Kirkland Gee:** So I don't think it's going be too complicated, but you can probably throw me on this because I already have, I've been in a bunch of conversations about it in Slack and stuff.
+
+**Daniel Lopes:** Sounds good.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Like, let's just go through other things first because I'm kind of aware that because, like, you have context for everything here.
+
+**Daniel Lopes:** And, like, if anything, like, we give you less stuff and you just guide everybody.
+
+**Daniel Lopes:** Fair point.
+
+**Daniel Lopes:** That makes sense.
+
+**Daniel Lopes:** That sounds even easier.
+
+**Daniel Lopes:** But it might be worth also double checking their artifacts and the pipeline set up and then add the extra step at the end.
+
+**Daniel Lopes:** And then we have Webflow Publishing.
+
+**Daniel Lopes:** For Airbyte, that would be similar to the kind of stuff that we've done before, that we use, yeah right, so we have a, we usually want, just for context for the other guys, like we usually have, when we have a CMS in the mix, we'll create a custom workflow, and map their fields, and then map the fields to the, to the pipeline in Atlas, and then when that runs, we publish, and we put a human review step before, so it doesn't automatically publish, and, but like Kirkland has done this, this quite a bit, and it can guide people to learn how to do that too, if it doesn't take this one, and then, this one, I don't know, answer, to me this sounds fixed, but I put it there just in case, and then we have, let's see, ...
+
+**Daniel Lopes:** Is this the one that I, sorry, go ahead.
+
+**Ben Church:** I was just going to say on those past Airbyte ones, I'm happy to take those on.
+
+**Ben Church:** I'm sure I've got a lot of context on it.
+
+**Ben Church:** Only thing is, I think they know I came over here to GrowthX.
+
+**Ben Church:** Yeah, I was going to ask that.
+
+**Daniel Lopes:** If you're comfortable taking that or if it's better to leave it to someone else, but we can just hide you from them.
+
+**Ben Church:** Yeah, I can be Dan, you know, if you want.
+
+**Daniel Lopes:** Yeah, sounds good.
+
+**Kirkland Gee:** My long-lost twin brother, Dan Church.
+
+**Daniel Lopes:** Dan Church.
+
+**Daniel Lopes:** Cool, yeah.
+
+**Daniel Lopes:** And then we have Strapi.
+
+**Daniel Lopes:** started setting up their pipeline.
+
+**Daniel Lopes:** They have a fact checker that we built for them.
+
+**Daniel Lopes:** And this one, if you could take, Kirkland, because this one, you build a fact checker.
+
+**Daniel Lopes:** And I tried to add another step just to see if it would be possible to do a code review step.
+
+**Daniel Lopes:** But just repurposed this one.
+
+**Daniel Lopes:** Some of the other things, I don't think it worked, but I stopped halfway through because I had some other stuff, but I think their pipeline is not even working end-to-end, I'm not sure.
+
+**Kirkland Gee:** Okay.
+
+**Kirkland Gee:** Yeah, I know there were a couple of bugs who had different things with them, so, yeah, I can take a look at that.
+
+**Kirkland Gee:** Yeah, and then there was one thing where, like, they flagged an issue to us about our fact checker, they're like, hey, this got this wrong, and I ran the exact same query we sent through their AI assistant in their own docs, which is what we're using, and it gave the same answers.
+
+**Kirkland Gee:** Like, it's not necessarily our fact checker, it's that their Kappa AI is not perfect.
+
+**Kirkland Gee:** Yeah, I bet.
+
+**Kirkland Gee:** makes it really hard, when, like, literally the best source we could have to fact check their code is not right, I mean.
+
+**Daniel Lopes:** Yeah, we're never going to get our thing 100% right there, if that's the case.
+
+**Kirkland Gee:** But I'll make sure that we at least have it working and try to just check.
+
+**Kirkland Gee:** Fathom about where there are potential, like, you know, common issues coming up, not the weird one-off, like, oh, this pulled the wrong code snippet.
+
+**Kirkland Gee:** Like, I think that sort of thing is just going to happen sometimes.
+
+**Kirkland Gee:** But if we can make it infrequent.
+
+**Daniel Lopes:** Right.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** I just bumped the priority of this.
+
+**Daniel Lopes:** So we have, I just bumped the priority of this ticket as a bunch of custom stuff.
+
+**Daniel Lopes:** But I'll go back to that.
+
+**Daniel Lopes:** I'm not custom stuff, but I have a bunch of, like, sub tickets.
+
+**Daniel Lopes:** But I'll come back to that later.
+
+**Daniel Lopes:** We have, so we have Fathom there's some, like, this sounds like you were already checking it quickly.
+
+**Daniel Lopes:** And it was the, anything that's, like, it sounds like anything that's related to statistics might be, like, not doing great, right?
+
+**Kirkland Gee:** So we got this feedback from a couple of people at different times times of just, like, there were at least two unique scenarios.
+
+**Kirkland Gee:** Yeah.
+
+**Kirkland Gee:** It was like different people, different clients, but articles that were like, yeah, statistics focused, and the linking and the sourcing was just really off.
+
+**Kirkland Gee:** There were some like hallucinated stats and some little things like that.
+
+**Kirkland Gee:** So I don't know, like, I haven't looked into like, was there an issue with that particular execution and something in the direction led to an issue?
+
+**Kirkland Gee:** Or is it just that there's something about statistics that our workflow isn't handling as well?
+
+**Kirkland Gee:** So I just put this in as like, something to try to look at.
+
+**Daniel Lopes:** Like, the ideal path here, in my mind, would be to have an accuracy metric in like, something like LengthFuse, and just let it run for a bit and see how it gets flagged.
+
+**Daniel Lopes:** I don't know, like, I saw the LengthFuse changed quite a bit recently, and they worked on that part of the project.
+
+**Daniel Lopes:** So this might be worth spending like an hour just to see if we can set a metric there.
+
+**Daniel Lopes:** Okay.
+
+**George Haikal:** know.
+
+**George Haikal:** know.
+
+**George Haikal:** I don't I know.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Because if you think about that, it's probably failing at the draft stage, and the draft stage would have the research material that you can use.
+
+**Kirkland Gee:** From some of the, yeah, if you look at the Elvis's note there, it actually seems to be not the research, but the brief.
+
+**Kirkland Gee:** So, like, maybe the assignment brief is actually hallucinating some things.
+
+**Kirkland Gee:** And then that is just taking precedent over what's in the actual research.
+
+**Kirkland Gee:** I think that's where the issue is.
+
+**Kirkland Gee:** But that goes back to, like, so you could really put this, it actually probably goes in line with just looking at the assignment brief in general, because there's another issue in here somewhere of, like, exploring, essentially having two different versions of it, of, like, one, for we need an assignment to look nice to customers, and two, we need an assignment to actually feed into the article draft workflows, because they're kind of two different things.
+
+**Kirkland Gee:** And we don't necessarily need everything from.
+
+**Daniel Lopes:** Yeah, that's interesting, because that's something that George Mayne is working on, is like figuring out how we turn, like scrape the website from the client, figure out the pages, figure out the assignments, like the opportunities, and then figure out the assignments out of that, so we could have a user interface in that area as a separate feature that would like show different versions, you know, so you could have like a human-friendly thing, and like the thing that would actually be used, and So that could be handled at that level, I guess, but, okay, so this one is worth like time boxing and not spending too much, spending too much time on it, and then we have, and then we go into helping the strategy team be more efficient, so this is a few things that Marisol was asking, like how to do, how they do the research for competitors, is better, and and it's better.
+
+**Daniel Lopes:** Reviews from sources like Reddit and stuff like that, and that is less pressing for sure compared to the stuff we have at the top.
+
+**Daniel Lopes:** And then we go into smaller things, like there's a request for social media repurposed for some bit.
+
+**Daniel Lopes:** We have that already, the workflow, so this will probably be like a half an hour or like an hour to see if that works.
+
+**Daniel Lopes:** If it doesn't work, then just put it back, because we have a LinkedIn repurposed, and it kind of works exactly the way that they were trying to do.
+
+**Daniel Lopes:** It's just not set up for any client.
+
+**Daniel Lopes:** And then we have some other things like publishing, Firework wants the web flows, CMS publishing, and Superhuman also wants the repurposed for social media.
+
+**Daniel Lopes:** So it's the same ticket.
+
+**Daniel Lopes:** It's like I should have probably Marcus related.
+
+**Gianpiero Puleo:** As a side note, I don't know if it's going to affect it in any way.
+
+**Gianpiero Puleo:** I work with them, but they've just been acquired by Grammarly, I think I saw this morning, Superhuman.
+
+**Daniel Lopes:** Oh, Superhuman got acquired?
+
+**George Haikal:** I think so, by Grammarly.
+
+**Daniel Lopes:** Oh, wow.
+
+**Ben Church:** That's crazy.
+
+**Daniel Lopes:** God.
+
+**Kirkland Gee:** That's crazy.
+
+**Kirkland Gee:** Wow.
+
+**Gianpiero Puleo:** Yeah, think Grammarly went on an acquisition sprint with Coda, and now Superhuman.
+
+**Gianpiero Puleo:** And I'm sure there's going to be more.
+
+**Gianpiero Puleo:** think they just, I think they raised one billion, I don't know, like a few weeks ago.
+
+**Daniel Lopes:** Nice.
+
+**Daniel Lopes:** Okay, so that covers all the things that I had to do.
+
+**Daniel Lopes:** I think I can just go through real quick everything we have in the backlog.
+
+**Daniel Lopes:** So backlog would be like add sentry to the code library, so that's a ticket that Pedro added.
+
+**Daniel Lopes:** Makes sense.
+
+**Daniel Lopes:** then, Kirkland had an idea of letting people select the content type at the assignment brief.
+
+**Daniel Lopes:** This can be exposed as an input to the pipeline, for example.
+
+**Daniel Lopes:** Then we had audio transcription, audio repurposing.
+
+**Daniel Lopes:** So we already have transcription for podcast repurposing to create an article out of a section of the podcast if people talk for more than a few minutes on that subject.
+
+**Daniel Lopes:** There are many other ways of doing repurpose.
+
+**Daniel Lopes:** This could be just a recap of the podcast.
+
+**Daniel Lopes:** could be, like, if it's a sales call, it could be a case study.
+
+**Daniel Lopes:** So this one has, like, a bunch of, like, sub things in it, but I'm putting it for later.
+
+**Daniel Lopes:** Another thing would be, like, having a starter repo for microapps.
+
+**Daniel Lopes:** And the way I was thinking about this, like, the same way we could create a code library, we could have a bunch of things predefined on the GitHub repo that we use to start microapps like this with the same things that we use all the time.
+
+**Daniel Lopes:** Ben.
+
+**Daniel Lopes:** And we could also have a set of rules, cursor rules or augment rules, whatever, that will be helping you generate some of the things that are common.
+
+**Daniel Lopes:** Like we're building always a bunch of directories, building like features, search, detail pages, all these things.
+
+**Daniel Lopes:** They could be like rules that you automatically, that you manually load if you're creating that.
+
+**Daniel Lopes:** And if you have a common, like if you're using Shad Sien or Tailwind or like Redix or something, you can just let it, like we pre-bake that into rules.
+
+**Daniel Lopes:** And then it would be able to have people like Marcel and the other folks be able to provide code stuff into an environment like lovable or even like just use cursor or augment.
+
+**Daniel Lopes:** And that would be a better starting point than us pulling stuff from their V0 and trying to retrofit that to a production level thing.
+
+**Daniel Lopes:** So that was the idea of this.
+
+**Daniel Lopes:** And then we have some other things like.
+
+**Daniel Lopes:** Some minor bugs, like the fact-checking messing up the formatting sometimes, you guys talked about similarity of URLs as a way for overlapping things, I think, right, Kirkland and Jason?
+
+**Kirkland Gee:** That has to do, yeah, that has to do with, like, AI optimization.
+
+**Kirkland Gee:** Me and Jason had a brief Slack chat about it.
+
+**Kirkland Gee:** I do forget all of the details, but there is an idea there.
+
+**Daniel Lopes:** But I need to read up on it a bit to remember what we were talking about.
+
+**Daniel Lopes:** And then another one would be the, we started on this, but we never really pushed forward.
+
+**Daniel Lopes:** So I removed the assignment from New Marks, because I know you were doing some other things.
+
+**Daniel Lopes:** But there was, like, an idea there was to have, like, a code fact-checker that doesn't have to run the code, but would be, like, just really focused.
+
+**Daniel Lopes:** The prompt would be, like, specific for certain, identify the language, and then try to see if it's correct.
+
+**Daniel Lopes:** And maybe also do, like, some perplexity calls or, like, check the official website documentation and things like that and see if there's anything that stands out that's potential.
+
+**Daniel Lopes:** The blog, some other things we had was a little bug on rephrasing quotes in the article generation, we had an idea of using Google Search Console for improving the internal link workflow, that's something that we will also need during the, like, having access to people's Google Search Console will be something we'll need during the scraping for opportunities, and.
+
+**Kirkland Gee:** Yeah, we probably need to just, like, start figuring this out, because if you open that up, I did a, there's a Gemini Deep Research, like a whole document I linked in here, TLDR, like, we need to use a service account to make this work in any sort of server-side workflow situation, and that means we have to get all our clients to grant access, basically to add the service account as a user in their search consoles, and so until we have every client that has that, we can't do this across the board, right?
+
+**Kirkland Gee:** It can't replace, can just, like, we still have to fall back.
+
+**Kirkland Gee:** So I think we need to start with, like, are there any issues with that?
+
+**Kirkland Gee:** Are any clients going to push back on that?
+
+**Kirkland Gee:** I don't think so, because it's really no different than adding team at GrowthX.
+
+**Daniel Lopes:** It's just going to be adding data at gim.serviceaccount.whatever.
+
+**Daniel Lopes:** Right, right.
+
+**Kirkland Gee:** And then from there, like, we can swap this into the internal linking workflow.
+
+**Kirkland Gee:** We can swap this into a lot of keywords.
+
+**Kirkland Gee:** Like, we can do some really, really cool keyword research stuff with query data from Search Console.
+
+**Kirkland Gee:** Like, it would unlock so, so, so many cool SEO things that we just can't do right now because we don't have the data.
+
+**Daniel Lopes:** Right.
+
+**Daniel Lopes:** Yeah.
+
+**Pedro Steimbruch:** We could possibly, we could possibly automate the, the understanding of how we are, we are, and this, you will answer better, how we are performing for improvements we are doing, right?
+
+**Kirkland Gee:** So closing the feedback will come.
+
+**Kirkland Gee:** Correct.
+
+**Kirkland Gee:** Then every article we publish, we can just add in Atlas a way to query that article's performance directly from Search Console.
+
+**Kirkland Gee:** Like, it's like this key that unlocks so many things.
+
+**Kirkland Gee:** There are still some limits we have to deal with of, like, you can only get 50,000 rows of data per day per property per search type, no matter what, through the API.
+
+**Kirkland Gee:** So for really big websites, we have to figure out some sort of weird data ingestion pipeline to get around that.
+
+**Kirkland Gee:** But we can cross those bridges when we get to them.
+
+**Kirkland Gee:** Like, to start, we don't need to replace all of our reporting.
+
+**Kirkland Gee:** It's just being able to make those calls for specific things to enhance, you know, part A and part B, not rethinking everything from the ground up.
+
+**Daniel Lopes:** Annie, you raise your hand.
+
+**Andi Bailey:** Yeah, do we know the inputs that we need?
+
+**Andi Bailey:** Because we can start asking for that stuff, like, at a high level from all of our clients and collecting it somewhere.
+
+**Kirkland Gee:** There's a place we can start putting it or, you know, what we can ask for.
+
+**Kirkland Gee:** It's as simple as adding another email to the search console properties.
+
+**Kirkland Gee:** I mean, I can, I have a service account.
+
+**Kirkland Gee:** I can probably give it a better name because right now it's just like...
+
+**Kirkland Gee:** Search Console, whatever name we want to give it.
+
+**Kirkland Gee:** And I think it's in, I guess we have a Google Cloud Platform.
+
+**Kirkland Gee:** I don't remember if I was just experimenting or if it's like a company one or what the situation was.
+
+**Kirkland Gee:** But I can get a service account email that you can just start asking clients to add.
+
+**Kirkland Gee:** And if even get one or two, that's enough to like prototype and get everything working.
+
+**Daniel Lopes:** And then we can just retain SEMrush or whatever our alternative is as a fallback until we get everything.
+
+**Daniel Lopes:** Right.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Right.
+
+**Daniel Lopes:** That makes sense.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** And then the last two things we have here was some stuff with data grid.
+
+**Daniel Lopes:** I don't think that's important anymore because we have another ticket here for programmatic audit pass and everything.
+
+**Daniel Lopes:** And then some stuff with ramp that would be similar to the other CMS stuff we did.
+
+**Daniel Lopes:** But we can get back to that later if we already have so much stuff to do.
+
+**Daniel Lopes:** One of the tickets that we didn't cover is this one.
+
+**Daniel Lopes:** So this one, we've had.
+
+**Daniel Lopes:** have.
+
+**Daniel Lopes:** I've Absolutely.
+
+**Daniel Lopes:** I
+
+**Daniel Lopes:** And the teams, those are clients that most of them, what they want is a way to generate content that follows a very tight outline and template and have that be something that can be usually added to the CMS after.
+
+**Daniel Lopes:** And those are things we can do, and those are things that we talked about yesterday in the call, and we can do that in different ways.
+
+**Daniel Lopes:** Like Kirkland was doing the way that works, I was just doing it another way, but I did essentially the same.
+
+**Daniel Lopes:** It's just like what I was showing yesterday was just like an additional workflow that would just adapt to the template.
+
+**Daniel Lopes:** I haven't shipped that yet, but the idea would be to go through, this is the stuff that I was talking about.
+
+**Daniel Lopes:** It's like, I'm just going to add that to the, our workspace as a, as a basic template that we can try to copy and reuse.
+
+**Daniel Lopes:** But the goal here would be to go through all these accounts and see.
+
+**Daniel Lopes:** If the workspace is set up correctly, and if the pipeline is set up for, if we were trying to do horn the editorial one into the programmatic templated pipelines, and this one has so much context, that this might be the case for splitting this with somebody, or maybe just like, maybe a Kirkland.
+
+**Daniel Lopes:** Or how you were thinking about it?
+
+**Daniel Lopes:** Or a recap, and then to delegate if we need to do more, or if things are moving slow, you know, because we have so many of the other things.
+
+**Kirkland Gee:** What do you think Kirkland?
+
+**Kirkland Gee:** I mean, this one, it's funny because I think they're just going to be different.
+
+**Kirkland Gee:** Like, each of these subcasks could be a different amount of work.
+
+**Daniel Lopes:** Yeah.
+
+**Kirkland Gee:** But I think generally, it's pretty straightforward.
+
+**Kirkland Gee:** So maybe, like, like once we...
+
+**Kirkland Gee:** Have that first thing of having the templated workflow and you just swap in the artifacts and the research questions.
+
+**Kirkland Gee:** I think anybody could do this for pretty much all of them unless they need some like super custom workflow.
+
+**Daniel Lopes:** Right.
+
+**Daniel Lopes:** Right.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Maybe the way to tackle this could be like, maybe I just finished this stuff today.
+
+**Daniel Lopes:** And then if you could do a pass cross and then add your thinking on each one of those and then we reconsider and then we tackle the ones that are.
+
+**Daniel Lopes:** Easier and more possible.
+
+**Daniel Lopes:** One thing that would be important here would be like to know which ones are more pressing.
+
+**Daniel Lopes:** That's part of the business that I don't have.
+
+**Daniel Lopes:** Like maybe George and Andy would be able to get that for us.
+
+**Daniel Lopes:** Like which are the clients that are like more upset or like they were like falling behind or I might be more tight.
+
+**George Haikal:** priority on this list.
+
+**Andi Bailey:** We can do that.
+
+**Daniel Lopes:** Yeah.
+
+**Kirkland Gee:** Yeah.
+
+**Kirkland Gee:** Because I think some of these are like in various stages of in progress.
+
+**Kirkland Gee:** Like I know DataGrid kind of has a PSEO.
+
+**Kirkland Gee:** Oh, red, that's, like, working, so that's probably lower on priority, because, like, it's working, it's just not, you know, perfect, versus, you know, maybe Sunbit or Scully, I have nothing.
+
+**Kirkland Gee:** Yeah, if we just get, because, Daniel, you have that templated article workflow, is that just something you're running locally right now?
+
+**Daniel Lopes:** yeah.
+
+**Daniel Lopes:** I'll push that.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** That wasn't my computer at home.
+
+**Kirkland Gee:** And just give me that config that you were working with, just to save me the, like, sorting all of that out, I can go from there.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Okay, so now we can actually start adding things to the cycle.
+
+**Daniel Lopes:** I already added all the strategy sprints once, and we can think about who would be a volunteer for each.
+
+**George Haikal:** Hey, Daniel.
+
+**George Haikal:** Daniel, before you jump in there, you might have actually left it out, but you and I this week talked about the Gong sales call workflows.
+
+**George Haikal:** I reconnected with Marcel yesterday on it, and it would inform all of our artifacts.
+
+**George Haikal:** For ourselves as well, getting that granular level data on the customer and sales calls, and we have five clients right now also asking for it.
+
+**George Haikal:** So I know it's on your radar.
+
+**George Haikal:** I don't see it here, which is fine if we want to push it if you don't think it's valuable or scalable, but I just wanted to bring it up again before we move on.
+
+**Daniel Lopes:** I will expand on this later.
+
+**George Haikal:** I can write it up and give you some more info for that too.
+
+**Daniel Lopes:** Yeah, that would be great.
+
+**Daniel Lopes:** I'll just add it here, and I'll sign it.
+
+**Daniel Lopes:** Yeah, so I left it out because I'm kind of worried about this, like, there's four things here, plus the image, those are, like, not small, and they could rabbit hole.
+
+**Daniel Lopes:** So, and on top of the usual stuff that we get on the regular, plus the SEO audit, that sounds like not, it's not insane to do, like, to make progress on all of them, but you never know what happens on, like, news, complaints, stuff, and things like that.
+
+**Daniel Lopes:** So it's just meant to be a little bit more conservative.
+
+**Daniel Lopes:** Just push this down so you all can see things.
+
+**Daniel Lopes:** And, like I was saying, the plan here is not to, like, estimate anything and hold everybody accountable if it doesn't get delivered by the end of the two sprints or anything.
+
+**Daniel Lopes:** It's more like, this is all the priorities, these are the things that we're thinking, we just make progress on it, you know, and see how far we can go, and to the point of just getting the client.
+
+**Daniel Lopes:** API, or we can move in that direction.
+
+**Daniel Lopes:** That is the goal.
+
+**Daniel Lopes:** So I already added airbyte.
+
+**Daniel Lopes:** I added a cover image.
+
+**Daniel Lopes:** This one, we should check it today.
+
+**Daniel Lopes:** This one makes sense to add, it's a small one.
+
+**Daniel Lopes:** You were already there, Kirkland.
+
+**Daniel Lopes:** The PSEO audit as well.
+
+**Daniel Lopes:** This one is worth checking.
+
+**Daniel Lopes:** Doesn't look happy.
+
+**Daniel Lopes:** This one sounds like an easy one, too, because we have all the Webflow stuff.
+
+**Daniel Lopes:** Not an important one.
+
+**Daniel Lopes:** This is more like a support ticket than anything.
+
+**Daniel Lopes:** It's probably like less than a half an hour.
+
+**Daniel Lopes:** This one's trap is kind of blocked.
+
+**Daniel Lopes:** But less than an hour probably.
+
+**Daniel Lopes:** changed to a day.
+
+**Daniel Lopes:** And this, this is more like a nice to have if we have time that would be like just trying to figure out the statistics or maybe adding metrics out and more info to this after this call.
+
+**Daniel Lopes:** I'm not typing things here, look, you guys.
+
+**Daniel Lopes:** And this is Jimmy.
+
+**Daniel Lopes:** I'm talking about data today.
+
+**Daniel Lopes:** I'm talking the you.
+
+**Daniel Lopes:** This is just the exploration, I think it's worth trying to do it if we have time, but if we don't have time, it's not.
+
+**Daniel Lopes:** Oops, put it in the wrong cycle.
+
+**Daniel Lopes:** Let's see, so efficiency workflows, this is like, in my mind, it's stretch goal, so I'm just going to label that, like, stretch goal, it's probably not going to happen.
+
+**Daniel Lopes:** But, same thing for this, anything that's not, like, super priority, I'm just going to put the tag there so folks can know how to not prioritize that.
+
+**Daniel Lopes:** We can pick a different priority order as well.
+
+**Daniel Lopes:** Webflow for fireworks, to me, sounds a little bit more of a higher price.
+
+**Daniel Lopes:** All right, there's everything else, I'll this to the side.
+
+**Daniel Lopes:** And I can just sort here things after.
+
+**Daniel Lopes:** this one's like, low.
+
+**Daniel Lopes:** Oh, then I just print this low side.
+
+**Daniel Lopes:** And yeah, I think the prior order looks correct, in my mind.
+
+**Daniel Lopes:** Pedro, I was thinking like the biological one, because you have experience with the VVA, Valen, Cleary, Reg, and all that stuff.
+
+**Daniel Lopes:** And you also have experience with both Rails and the TypeScript side of things too.
+
+**Daniel Lopes:** Like, we can talk, we can have like...
+
+**Daniel Lopes:** Call out after this to just think about this, and then we think about the research set there, how we can handle that.
+
+**Daniel Lopes:** And we can loop in Kirkland as well, and we discuss this together.
+
+**Pedro Steimbruch:** How do you feel about that?
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Because I think this could also be like, if we can pave it in a way that it can be a future inside of Atlas, it doesn't have to be now just for biological, just think a step ahead and how it could make that be something we use for everybody after.
+
+**Daniel Lopes:** That would be like, a good.
+
+**Pedro Steimbruch:** Yeah, actually, actually, that's what I thought from the start.
+
+**Pedro Steimbruch:** It should be on Atlas layer, so, and we can feed the results into the workflow, but it's probably an Atlas feature.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** We could use like flow to just like parse the documents or like make like LLM calls and things like that, but then store the result to Atlas.
+
+**Daniel Lopes:** There's a transactional side of it, but you know, well, one.
+
+**Kirkland Gee:** Some kind of.
+
+**Daniel Lopes:** Got it, sorry.
+
+**Daniel Lopes:** The Innoel one on Kirkland, that one is like, to me, it's just like, a challenge, and I know you have the augmented stuff too, but you also have a ton of experience with localized SEO.
+
+**Kirkland Gee:** So I'm just trying to figure out what you're doing with this.
+
+**Kirkland Gee:** I might eat this later, but I do think Innoel is simpler than we think it is.
+
+**Daniel Lopes:** Yeah, that's what I wanted to do.
+
+**Kirkland Gee:** That's my read, is that there's actually some, like, I think there's a lot of layers of talking around different things that's, like, a little confusing.
+
+**Kirkland Gee:** But when we get down to, like, the core of what we actually need to do for them, I don't think it's that crazy.
+
+**Kirkland Gee:** And I think I have a good grasp of what that looks like, so I'm happy to take that too.
+
+**Daniel Lopes:** Yeah, like, I think, like, you have so much context.
+
+**Daniel Lopes:** whatever I assign to you here, like, you don't have to carry all the way to the end.
+
+**Daniel Lopes:** Like, if you can just, like, help us think about, and then you delegate to the other folks.
+
+**Daniel Lopes:** Thank on
+
+**Daniel Lopes:** The group here, including myself, that would be great.
+
+**Daniel Lopes:** Just curping to lead the thinking there.
+
+**Kirkland Gee:** What time is that call, Andi?
+
+**Andi Bailey:** It is at 2 p.m.
+
+**Kirkland Gee:** 2 Pacific?
+
+**Andi Bailey:** No, 2 Eastern.
+
+**Kirkland Gee:** That I can do, yes.
+
+**Kirkland Gee:** Okay, I'll add you.
+
+**Kirkland Gee:** That would be sick.
+
+**Daniel Lopes:** The Airbyte one, do you think you want to take this one, Ben?
+
+**Daniel Lopes:** Like, can, you can sync up with Kirkland and Jason on some of the stuff that we did for Webflow and others.
+
+**Daniel Lopes:** It has some similarity.
+
+**Ben Church:** Sure.
+
+**Ben Church:** That's specifically the Webflow integration, not the, there was the MCP, like, backlog refresh.
+
+**Daniel Lopes:** I saw there's, like, some catalog stuff in there.
+
+**Daniel Lopes:** Yeah, no, this one would be more like figuring out the, the integrations, the legacy pages refresh.
+
+**Kirkland Gee:** Yeah, Ben, think, so Clint and I and Jason, a lot of iteration on the workflow for Webflow to create, like, to enrich their integration pages, doing some research, and then writing based on a template.
+
+**Kirkland Gee:** I think this is going to be pretty similar to that, of just, like, at least that piece of it.
+
+**Kirkland Gee:** So, yeah, we can chat, but I think Jason's going to probably have the context on, like, what we actually want those pages to look like.
+
+**Kirkland Gee:** But technically, I don't think there's a super complex, uh, there's something crazy.
+
+**Kirkland Gee:** And then MCPs, we can basically just, I, we did it on Code Library, I'm currently copying it over to Augment, but if we do it once, it shouldn't be hard to then just copy it over to the Airbus.
+
+**Daniel Lopes:** Make some changes, okay, we're not, you know, copying it.
+
+**Daniel Lopes:** Adapt.
+
+**Daniel Lopes:** Yeah, like, the MCPs stuff, I think it can be, like, even, like, for the next cycle or something like that, you know, like, it's more like, what do we do for them fast?
+
+**Daniel Lopes:** So it's not just publishing 10 to 5 articles a week, you know, and, like, refreshing or improving the integrations, like the legacy pages that we have listed here would be, like, a good starting point.
+
+**Daniel Lopes:** So that is going from the tutorial mode to going programmatic.
+
+**Ben Church:** All right.
+
+**Ben Church:** So do we declare two things?
+
+**Ben Church:** One is, like, set up their workflow integration and properly publish, and then the other side of it, which is prior to that, like, go and just set up a little refresh on their legacy pages.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** So, like, the Webflow I had as a separate one, but if you want to take that as well, it's essentially, like, copying some of the workflows that Kirkland did.
+
+**Kirkland Gee:** you can probably see that in the code base.
+
+**Kirkland Gee:** If you want to ask me about it, hit me up.
+
+**Kirkland Gee:** You literally can copy one of the Webflow publishing, and then you just have to change the field mappings in some of the enums to match what their Webflow stuff looks like.
+
+**Kirkland Gee:** But the actual workflow activities, you should be able to keep almost exactly the same.
+
+**Ben Church:** Awesome.
+
+**Kirkland Gee:** Awesome.
+
+**Ben Church:** Yeah, I'll link up there just to get an idea of this.
+
+**Ben Church:** Yeah.
+
+**Ben Church:** That's
+
+**Ben Church:** So I don't end up, like, blasting out, messing up their marketing page.
+
+**Kirkland Gee:** Yeah, there's some weird quirks, but it's not that bad.
+
+**Daniel Lopes:** GP, I was thinking, the image stuff, can bear with you on this, and we can try to tackle some of those together, just for you to get the context of all the workflows that I was building here.
+
+**Daniel Lopes:** But because you have the design background, you're probably going to move faster than some of the R backend guys here.
+
+**Gianpiero Puleo:** Yeah, I was thinking about this one, too, and I'm happy to take it.
+
+**Gianpiero Puleo:** As you said, like, I will need some pairing, maybe on the first few ones, because I have no idea right now what is exactly what we're doing for these workflows.
+
+**Gianpiero Puleo:** But from the sound of it, it should be fine.
+
+**Daniel Lopes:** Yeah, we can talk about that.
+
+**Daniel Lopes:** I think I have a name with you today, and I can push, I can go, I don't have to stop at 2.15.
+
+**Daniel Lopes:** I'll give it to you.
+
+**Daniel Lopes:** Well, no, thank you.
+
+**Daniel Lopes:** Thank you.
+
+**Daniel Lopes:** And then for the audit, Kirkland to lead the first pass, I'm just going to assign the top ticket to you, Kirkland, and then we can delegate some there.
+
+**Daniel Lopes:** Marcus is the one that we'll be having more bandwidth here compared to everyone else.
+
+**Daniel Lopes:** I think the ones we can leave unassigned.
+
+**Daniel Lopes:** Marcus, if you could check this bug for us, and if you could, the Firework one might be, like, maybe it's the same way as that Ben is trying to figure out the Airbyte one.
+
+**Daniel Lopes:** Maybe we can give this one for you to figure out how Kirkland did for this stuff, Marcus.
+
+**Daniel Lopes:** So we don't have Kirkland on all the tickets.
+
+**Daniel Lopes:** Does that work?
+
+**Marcus Derencius:** Yeah.
+
+**Marcus Derencius:** Yeah.
+
+**Marcus Derencius:** Also, there's a thing for a ramp for their piece.
+
+**Marcus Derencius:** Yeah, so they just send it.
+
+**Daniel Lopes:** Yeah, so they are binging.
+
+**Daniel Lopes:** Okay, so let me add that to the cycle.
+
+**Daniel Lopes:** saw that, and I didn't know the firework for that.
+
+**Daniel Lopes:** Give that back to me.
+
+**Daniel Lopes:** And this repurpose ones, I'll just leave it there if anybody has time.
+
+**Daniel Lopes:** And it would be cool, Marcus, if you have time.
+
+**Daniel Lopes:** Like, think this one will be just, like, worth, like, adding a step and see what happens.
+
+**Daniel Lopes:** So maybe I just, but I also, like, I know you're always, like, tackling a lot of the support requests as well.
+
+**Daniel Lopes:** So you get more pulled into random stuff.
+
+**Daniel Lopes:** And you can also fix the bugs in Atlas whenever we get bugs there.
+
+**Daniel Lopes:** So I don't want to overload you.
+
+**Daniel Lopes:** But if you have time on those that are unassigned, then the strategist sprint efficiency one as well is worth looking to.
+
+**Daniel Lopes:** know.
+
+**Daniel Lopes:** So don't So don't So
+
+**Daniel Lopes:** And Marisol put a lot of really good context, like I think we basically like take her context, turn it into a plan, run the generator, and it's probably mostly going to work out.
+
+**Daniel Lopes:** How do you feel, side of Pedro or GP, like this could be an interesting one for you guys to just play with internal things, you know, because it has no impact on clients, just a way to learn how to create workflows and all that, and has like business level of that too.
+
+**Gianpiero Puleo:** We're talking about the strategy sprints, right?
+
+**Gianpiero Puleo:** Yeah, this one.
+
+**Daniel Lopes:** So they do a lot of stuff in manual, and like they post stuff in custom GPT, and they do stuff with like complexity, like, and we have the workflows for those things, you know, so it could be like just like a pipeline, but then the Atlas that has a couple of custom workflows, and that would be a problem for it.
+
+**Gianpiero Puleo:** Yeah, as for me, as long, and I think that's what you're saying as it's sort of second priority.
+
+**Gianpiero Puleo:** Yeah, like, you know, after the, yeah, I'm happy to play with this.
+
+**Gianpiero Puleo:** You said Pedro too, I mean, I'll be happy to pair as well, think it would be, it would be good.
+
+**Daniel Lopes:** Yeah, yeah.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** Just keep that to you there.
+
+**Daniel Lopes:** Pedro, think, I think you, on just the vector stuff for the storage, depending on how we find the solution there, you might be stuck on that once or two weeks, or it might be like a couple of days, hard to know.
+
+**Pedro Steimbruch:** Yeah, I think it probably depends what we want to accomplish right from this ticket, if it's an implementation or just a guideline for implementation, no research or.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Yeah, let's talk about that.
+
+**Daniel Lopes:** Do we have a meeting somewhere?
+
+**Daniel Lopes:** We can push it to earlier.
+
+**Pedro Steimbruch:** We have a one-on-one on Thursday.
+
+**Daniel Lopes:** Yeah, it's a 24.
+
+**Daniel Lopes:** Yep.
+
+**Daniel Lopes:** I'll write a thumb in that ticket, and I can maybe try to have a meeting tomorrow, if that's it, if that works for you, I don't know what to, we can figure that out after, or if we're a little bit of like a rushed meeting, everybody, best, this gives you like a good sense of like, what to like try to do next, and verify things a bit.
+
+**Daniel Lopes:** I know it's a little bit hand-wavy, and like not really like, the tickets are not super well-defined, or anything, hope to have a good starting point.
+
+**Kirkland Gee:** Annie?
+
+**Kirkland Gee:** Annie, you can tell us.
+
+**Andi Bailey:** Yeah, I think one thing that I'm not seeing here, Marcus, Vivek said that before the Atlas transition, he had put in something to automate publishing for Ramp, Insanity, and I don't think the ticket is in here, so I just realized, oh, yeah, I think this one, like we have to repurpose it for the new environment, but that's the one that Marcus is.
+
+**Andi Bailey:** Okay, cool.
+
+**Andi Bailey:** Thank you.
+
+**Daniel Lopes:** Sorry.
+
+**Daniel Lopes:** I'll pop the priority.
+
+**Daniel Lopes:** It's just like have a priority set.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** All right.
+
+**Daniel Lopes:** Thanks, everybody.
+
+**Daniel Lopes:** And now we can use the APD client engineering channel for discussing all the things.
+
+**Daniel Lopes:** I removed all the Atlas conversation from there and moved the guys to their channel for the buffer stuff.
+
+**Daniel Lopes:** There's quite a lot of things here that are like Kirkland has a  ton of experience or conflicts.
+
+**Kirkland Gee:** So just reach it.
+
+**Kirkland Gee:** Go, just come by my office and gather in our virtual office space.
+
+**Kirkland Gee:** Knock on my door.
+
+**Kirkland Gee:** We'll hop in a meeting.
+
+**Daniel Lopes:** All right.
+
+**Kirkland Gee:** Thanks, everybody.
+
+**Daniel Lopes:** Thank you.
+
+**Daniel Lopes:** Nicholas, I didn't assign anything to you.
+
+**Nicolas Castellanos:** Yeah, know.
+
+**Nicolas Castellanos:** No, I'm still on a boarding, so I guess that's...
+
+**Daniel Lopes:** Yeah, exactly.
+
+**Daniel Lopes:** Yeah, so, like, just go through the onboarding this week, see how far you get there, and then we can pick some of the ones that we did in the design and get your help.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** All right.
+
+**Daniel Lopes:** Thanks, everybody.
+
+**Daniel Lopes:** See you.
+
+**Daniel Lopes:** See you, Jason.

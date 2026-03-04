@@ -1,0 +1,1081 @@
+# Exec <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-08-08
+time: 20:30 UTC
+duration: 35 minutes
+organizer: Elvis Goren
+participants: Sean Linehan (Exec), Megan Dickey (GrowthX), Garett McDonald (Exec), Elvis Goren (GrowthX)
+fathom_recording_id: 79506810
+fathom_url: https://fathom.video/calls/373566751
+share_url: https://fathom.video/share/g77kPDGKUrbaPKzpfYbUeGzzuNk2kmUQ
+source: fathom
+enriched_on: 2026-03-03 12:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Exec aligned on content and technical strategy for Exec's AI roleplay platform, with focus on SEO visibility, LLM referral optimization, and competitive differentiation. The teams reviewed a new article structure for onboarding content, discussed GA4 event tracking and Looker integration for conversion insights, and prioritized competitor research on similar platforms like Hyperbound and Second Nature. Key decision: accelerate creation of long-tail, product-specific pages to better capture AI roleplay search queries, while revising messaging to emphasize "best AI roleplay platform" and expanding anchor text strategy beyond narrow roleplay focus.
+
+---
+
+## Context
+
+Exec is an AI roleplay platform that enables sales teams and enterprises to train employees through realistic, AI-powered roleplay scenarios. GrowthX is supporting Exec's go-to-market strategy with SEO and content marketing services. This weekly sync is a standing touchpoint to align on content strategy, technical implementation (GA4 tracking, Looker dashboards), and product positioning. The conversation reveals that Exec is competing in a crowded AI training space and needs to differentiate through both SEO visibility (capturing searches for "AI roleplay," "sales training," etc.) and superior scoring/analytics capabilities compared to generic ChatGPT prompting. The teams are working through a new article template structure that guides users through building AI scenarios with Exec, including key configuration options and measurement capabilities.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- New content production model emerging: article templates with configurable sections, allowing GrowthX to scale content production for Exec with consistency while personalizing examples per use case (onboarding, legal, sales, etc.)
+- Technical implementation layer critical: GA4 events (sign-ups, demo bookings), Looker dashboards need to capture user progression from search → article → conversion, providing GrowthX with measurable attribution data
+- Content accuracy essential: detailed product knowledge required on Exec's scoring/analytics capabilities (the key differentiation vs. ChatGPT) to authentically represent this in articles and comparisons
+
+**To GrowthX Business Development:**
+- Strong execution and feedback signals from Exec team suggest mature, engaged partnership with clear deliverables and weekly accountability
+- Product innovation at Exec is proceeding (new templates, feature refinement), indicating continued investment and likely expansion of content needs
+- Competitive landscape: Hyperbound, Second Nature, Utley are identified as direct competitors — similar playbook could apply to other AI training platforms in GrowthX pipeline
+
+**To CheckThat:**
+- Exec is optimizing for LLM referrals (ChatGPT search behavior) as core channel, not traditional SEO — signals broader market shift where AI visibility matters as much as organic search
+- "AI for sales," "sales enablement," "AI sales training" are emerging search queries with commercial intent; CheckThat could track these as signals of buyer interest in similar platforms
+- Exec's challenge with anchor text strategy and category-specific positioning mirrors broader B2B SaaS issue: how to rank for high-volume generic terms while maintaining product differentiation
+
+---
+
+## Overview
+
+- GA4 events added to track sign-ups and demo bookings, to be integrated into Looker reports
+- Competitor research and battle card creation for AI roleplay platforms prioritized for next week
+- Content strategy focuses on both AI-aware and AI-curious audiences, with emphasis on LLM visibility
+- ChatGPT's search behavior provides insights for keyword targeting and content optimization
+
+---
+
+## Key Topics
+
+### GA4 Event Tracking and Looker Integration
+
+  - New GA4 events added to track sign-ups (individual/organization) and demo bookings
+  - Garrett to integrate these events into existing Looker reports for SEO
+  - Will provide deeper insights beyond traffic metrics, enabling sorting by signups/demo conversions
+
+### Content Strategy and SEO Focus
+
+  - Two target audiences: AI-aware (understand roleplay) and AI-curious (exploring implementation)
+  - Emphasis on LLM visibility over traditional SEO, treating it as a "PR campaign" for ChatGPT
+  - Current high-performing content includes handling objections (e.g., "your price is too high")
+  - Exploring ChatGPT's search behavior for keyword insights (e.g., "sales training AI agent 2025 best practices")
+
+### Competitor Research and Differentiation
+
+  - Garrett to conduct competitor research on AI roleplay platforms (e.g., Hyperbound, Second Nature)
+  - Focus on testing platforms, reviewing G2 reviews, and analyzing demo videos
+  - Goal: Create internal resource on key differentiators and competitive advantages
+  - Plan to develop "alternative" blog posts, starting with category overview then specific competitors
+
+### Product Page Optimization
+
+  - Identified need for dedicated AI roleplay product/marketing page
+  - Current content may not be effectively surfacing Exec in AI roleplay platform searches
+  - Team to accelerate creation of specific, long-tail product pages
+
+### Content Refinement and Keyword Targeting
+
+  - Revising Exec's description in comparison articles (e.g., changing "rapid AI platform creation" to "best AI roleplay platform overall")
+  - Considering breaking out industry-specific comparisons (e.g., sales, customer service) to better target searches
+  - Reviewing backlinking strategy, potentially expanding anchor text beyond "AI roleplay"
+
+---
+
+## Action Items
+
+**Garett McDonald (Exec)**
+- Update Looker report with new GA4 events (sign-ups, demo bookings) as sortable columns for traffic, sign-ups, and demo conversions
+- Research competitors (Hyperbound, Second Nature, Utley): test platforms, review G2 ratings, watch demo videos, create bullet points on key differentiators vs. Exec
+- Create dedicated product/marketing page for "AI roleplay" optimized for SEO with long-tail keyword focus
+
+**Elvis Goren (GrowthX)**
+- Send Looker report with edit access to Garett, including SEO data (organic clicks, content performance, LLM referrals)
+- Review and surface current backlinking anchor text; evaluate potential shift from "AI roleplay" to broader keywords like "AI for sales" or "sales enablement"
+
+**Sean Linehan (Exec)**
+- Review and edit Exec section of onboarding article, focusing on dynamic response mapping accuracy; use Claude for revisions and document changes with comments
+
+---
+
+## Transcript
+**Megan Dickey:** I'm going to Outside Lands, which is just like this music festival in Golden Gate Park in San Francisco, and yeah, Dochi and Doja Cat are performing, so I'm looking forward to that, yeah.
+
+**Elvis Goren:** I'm assuming there's lots to do in SF. Like, it seems like.
+
+**Megan Dickey:** Yeah, for sure. Yeah, lots going on.
+
+**Megan Dickey:** Hey, Garrett.
+
+**Megan Dickey:** Hey, how's it going?
+
+**Elvis Goren:** Good, how are you doing?
+
+**Garett McDonald:** I'm doing good. Yeah, forgot to ask, where are you based again?
+
+**Elvis Goren:** I'm in Fort Lauderdale, Florida, over on the East Coast.
+
+**Garett McDonald:** We were actually just in San Francisco or Sonoma for an offsite. I got back last night.
+
+**Elvis Goren:** Oh, cool. I'm adjusting with the time zone down a little bit. Is that your home base?
+
+**Garett McDonald:** Yeah, this is home base.
+
+**Elvis Goren:** Is it like rainy season down there now, or not so much?
+
+**Garett McDonald:** It actually hasn't been that rainy. It's hot season.
+
+**Megan Dickey:** Yeah, and like muggy, humid. It's very humid.
+
+**Garett McDonald:** It doesn't get that high—like 92, low 90s—but it definitely feels a little bit hotter. I don't know if it's just me.
+
+**Elvis Goren:** I love the humid, muggy weather because I have bad skin, and that stuff hydrates my skin.
+
+**Megan Dickey:** I love it. I remember spending some time in Miami and I was just like, oh my God, I can't.
+
+**Elvis Goren:** I love it. I cannot hang. Put on a silk shirt, a gold chain.
+
+**Garett McDonald:** Some linen, yeah.
+
+**Elvis Goren:** That's not good.
+
+**Elvis Goren:** All right.
+
+**Elvis Goren:** I'm going to keep this one short today.
+
+**Elvis Goren:** Garrett, wanted to actually ask you about your, what you mentioned with the GA4.
+
+**Elvis Goren:** Can you just give me like a little, like what you did there?
+
+**Elvis Goren:** Yeah, so basically.
+
+**Garett McDonald:** In our GA4 events, we're kind of just looking at traffic as our furthest KPI.
+
+**Garett McDonald:** So I just added, and we can just put these on all of our reports, I added two new events that will start populating, and we'll be able to see when someone signs up for our product, whether it's through an individual organization, and then also if they book a demo.
+
+**Garett McDonald:** So it's not going to be for, like, a backlog, but new leads going forward, we should start, or new traffic coming forward, we should be able to see, like, that next dimension is if they sign up or if they book a demo.
+
+**Elvis Goren:** So are you going to be, are you setting that up in Looker as well?
+
+**Elvis Goren:** Like, is it possible, like, when you create that new tag to update into a new Looker report, it's just going to take some time?
+
+**Elvis Goren:** Do you use Looker in general?
+
+**Elvis Goren:** We don't, yeah.
+
+**Garett McDonald:** If I could set it up in Looker, yeah, it would just basically be pulling out some reports.
+
+**Garett McDonald:** Do we have any Looker reports for SEO that we're using?
+
+**Elvis Goren:** You're asking me?
+
+**Elvis Goren:** I can send it to you.
+
+**Elvis Goren:** It's just one that I have ongoing.
+
+**Elvis Goren:** I just kind of customized it myself just to show what I find is relevant.
+
+**Elvis Goren:** But obviously, the next step, we haven't gotten that.
+
+**Elvis Goren:** Yeah.
+
+**Garett McDonald:** I mean, if you share that with me with Edit Access, I can definitely add it as a column in some of the tables.
+
+**Elvis Goren:** Yeah, even better.
+
+**Elvis Goren:** I mean, it's kind of the same one that I showed last time, right?
+
+**Elvis Goren:** Page one is just total clicks, organic clicks for the entire website.
+
+**Elvis Goren:** And then I have some here that I haven't fully calibrated.
+
+**Elvis Goren:** This is just views and sessions.
+
+**Elvis Goren:** This one's not great.
+
+**Elvis Goren:** And then the performance of our content.
+
+**Elvis Goren:** So, yeah, just updating as we post more content each week, every other week, just adding to this report.
+
+**Elvis Goren:** LLM referrals.
+
+**Elvis Goren:** That's a big one that we've been tracking.
+
+**Elvis Goren:** So yeah, that'd be great.
+
+**Elvis Goren:** Once that's up, I'll send this to you with edit access.
+
+**Elvis Goren:** We can do that.
+
+**Elvis Goren:** Yeah.
+
+**Elvis Goren:** Okay.
+
+**Garett McDonald:** Well, yeah, I'll probably just throw it.
+
+**Garett McDonald:** The metric's going to be a lot smaller than traffic.
+
+**Garett McDonald:** So I probably won't throw it on any of the charts, but I could definitely throw it as a column on a lot of these tables so that we can just sort it by like, all right, these are our top landing pages.
+
+**Garett McDonald:** And then we could sort it by how much traffic we get and then also by signups or demo conversions.
+
+**Elvis Goren:** I didn't know you were able to track like an external link click because that's what we're doing with the booking, right?
+
+**Elvis Goren:** Or is it directly on your site?
+
+**Garett McDonald:** It's talentally embedded on our website.
+
+**Garett McDonald:** Okay.
+
+**Garett McDonald:** Well, either way, yeah, I'll send this to you.
+
+**Elvis Goren:** I welcome any additional data we can use.
+
+**Elvis Goren:** I don't know if you guys had a chance to check out.
+
+**Elvis Goren:** The article that I sent you, which is kind of going to be the foundation of, you know, kind of this game plan going forward.
+
+**Elvis Goren:** you guys get a chance to see that?
+
+**Elvis Goren:** Yeah, I did.
+
+**Sean Linehan:** Yeah.
+
+**Garett McDonald:** Thoughts?
+
+**Elvis Goren:** What up?
+
+**Sean Linehan:** I thought overall I liked it.
+
+**Sean Linehan:** Garrett, I'm curious your reaction.
+
+**Sean Linehan:** Yeah, I think it's good.
+
+**Garett McDonald:** Yeah, so, and it sounds like, just so I understand, like, the flow of this, so, like, we'll get a draft, and then, is it, like, on every article, we'll personalize it a little bit?
+
+**Garett McDonald:** Like, I think for this example, you want us to give us, like, more specifics on our actual product?
+
+**Elvis Goren:** Correct.
+
+**Elvis Goren:** So, the goal of this exercise was for you guys to check out the exec section and to make sure that the way that we're talking about these configurations is correct.
+
+**Elvis Goren:** Like, we're not over- Like,
+
+**Elvis Goren:** We're not saying you can do something you can't to make sure that's accurate.
+
+**Elvis Goren:** And then going forward, that's going to be the structure.
+
+**Elvis Goren:** So whether it's, so this one is AI, how to build an AI bot for onboarding.
+
+**Elvis Goren:** The other one can be, you know, how to build an AI agent to train employees in this field.
+
+**Elvis Goren:** So whatever topic we pick from this cluster, it's going to have the same structure, but obviously the context is going to be different.
+
+**Elvis Goren:** The examples are going to be different.
+
+**Elvis Goren:** So, you know, as we produce more articles, we'll get a better idea.
+
+**Elvis Goren:** The examples will be more tailored to, you know, this one's onboarding.
+
+**Elvis Goren:** Another one's going to be, if it's legal, it's going to have legal examples.
+
+**Elvis Goren:** And yeah, we just need this information in this early stage because this is going to influence our inputs into our workflows.
+
+**Elvis Goren:** So this is a really crucial part.
+
+**Elvis Goren:** Yeah.
+
+**Sean Linehan:** And what I'll do is I'll go through and I have some changes.
+
+**Sean Linehan:** I don't think it makes sense to go.
+
+**Sean Linehan:** In depth on the, on this call, but I'll go through and what I'll probably do is just work on it a little bit with Claude and then just put like a revised version and drop some comments that take, I'll keep most of it the same and then just put the changes in, like one of the bigger areas was like the dynamic response mapping, like it's like right, but not, not like exactly right, where yes, we do that, but we're not literally, it said something about like building a node based tree with probability, we're like not actually doing any of that.
+
+**Sean Linehan:** And so I don't want to say that we are, instead, it's actually better than that.
+
+**Elvis Goren:** You don't even have to do that.
+
+**Sean Linehan:** We just do it automatically, magically.
+
+**Sean Linehan:** So yeah, I'll make an edit on this.
+
+**Elvis Goren:** Yeah, that'd be great.
+
+**Elvis Goren:** I'm also thinking that maybe you were right, like 20 configurations is a bit much.
+
+**Elvis Goren:** Maybe I went overboard.
+
+**Elvis Goren:** Maybe we can just have like 10 because as I'm reading it, I'm like, okay, the most important thing is like you can customize the person that you're speaking to, which means, you know,
+
+**Elvis Goren:** Emotional state, like it's probably five that makes sense for everything, but I'll just have a few extra options so that, you know, basically every article written, it's going to choose logically which one of those configurations is going to fit the best.
+
+**Elvis Goren:** And then I said, basically, hey, if you don't know which one fits best, just default to one, two, and three, because those are the biggest ones.
+
+**Sean Linehan:** So if we can, the other, the other thing I'll say is that the most important thing, the other most important thing is the scorecarding.
+
+**Sean Linehan:** And so, you know, like with ChatGPT or whatever, scorecarding is super hard, or not possible.
+
+**Sean Linehan:** And so it's the scorecarding element where it's like, oh, you're getting organizational analytics and visibility from Exec, that if you're using ChatGPT, you can't, you're not getting organized, like it's not even possible.
+
+**Sean Linehan:** You could, in principle, rig it up with Zapier or NADN, but yeah.
+
+**Sean Linehan:** So those are going to be the two areas that I'll talk about is like, what are the other things that you as a...
+
+**Sean Linehan:** What organization cares about?
+
+**Sean Linehan:** Because the actual playing of the scenario is very important for like a solo user who just wants practice.
+
+**Sean Linehan:** But as an organization, what you really want to know is that visibility and analytics and certification so that you can date people's progression through your org on the basis of whether or not they've done these trainings.
+
+**Sean Linehan:** And we do all that.
+
+**Elvis Goren:** And that's another staple that should be thrown into each one of the five configurations.
+
+**Elvis Goren:** Like analytics is huge.
+
+**Elvis Goren:** And also into the section before where, you know, we're talking about you can use ChatGPT, but here's another limitation.
+
+**Elvis Goren:** Like you can't score.
+
+**Elvis Goren:** You can't score.
+
+**Elvis Goren:** Or if you're going to get scoring, like you as an organization can't get scoring.
+
+**Sean Linehan:** Like you can ask it to score the call, but every scoring is going to be different.
+
+**Sean Linehan:** There's no standardization.
+
+**Sean Linehan:** There's no, you know, automatic flowing of that.
+
+**Sean Linehan:** Like imagine what you'd have to do.
+
+**Sean Linehan:** You'd have to like give everybody the prompt that they're going to use to score it and then ask them to copy and paste.
+
+**Sean Linehan:** It back to you.
+
+**Sean Linehan:** It just doesn't work.
+
+**Elvis Goren:** Yeah.
+
+**Elvis Goren:** And how does, can you explain how your scoring system works?
+
+**Elvis Goren:** organizationally, what are the baselines that they could potentially use as scoring metrics?
+
+**Sean Linehan:** When you set up your scenario, you choose what you want to evaluate on.
+
+**Sean Linehan:** And we can evaluate on any observable behavior during the course of the conversation.
+
+**Sean Linehan:** And so that can both be things like, I think the scoring is actually pretty interesting because it could be both soft skills, right?
+
+**Sean Linehan:** How well did they practice active listening?
+
+**Sean Linehan:** As well as more hard information, like did the rep correctly describe our pricing plan?
+
+**Sean Linehan:** Where correct has a very specific meaning, right?
+
+**Sean Linehan:** And so you can actually do, you know, specifically as if you were a teacher where you're like, on one hand, I'm grading you on like grammar, which is very specific.
+
+**Sean Linehan:** And I'm
+
+**Sean Linehan:** the other hand, I was grading you on ideas, which is a little less specific, right?
+
+**Sean Linehan:** But we could do all of that within the system.
+
+**Sean Linehan:** And then obviously you have, I think the biggest benefit of our system over anything else is that standard setting where every rep, every new employee is being judged by a unbiased or at minimum consistently biased greater.
+
+**Sean Linehan:** Greater, where it's like, you know, if there's a bias, it's applied to everybody, not like the 15th person that went through the system because, you know, the greater was tired or something.
+
+**Elvis Goren:** It must be tough to like eliminate that ambiguity when you're scoring, right?
+
+**Elvis Goren:** Like, do you get those scenarios, where, like, how do you know how to score it?
+
+**Elvis Goren:** Like if it's, you have to mention these five words, if you mention three of them, you get this percent, you know, like that's easier.
+
+**Elvis Goren:** But what if there's like a bit of, like, how do you overcome that?
+
+**Sean Linehan:** It's not that hard.
+
+**Sean Linehan:** I don't
+
+**Sean Linehan:** If you know what you want to look for, you just type that in.
+
+**Sean Linehan:** Even if it's kind of vague, that's the really powerful thing about the system.
+
+**Sean Linehan:** So for example, practice is active listening.
+
+**Sean Linehan:** The rubric for that could be a good score.
+
+**Sean Linehan:** So there's basically three levels.
+
+**Sean Linehan:** There's good, mid, and bad.
+
+**Sean Linehan:** Good would be consistently played back what they heard from the other party.
+
+**Sean Linehan:** If the other party said something sort of complicated, does not play back, but did not play back trivial details that would have been annoying, right?
+
+**Sean Linehan:** And you're like, okay, that sounds like active listening.
+
+**Sean Linehan:** And then advance the conversation in the context of their, of what they had mentioned.
+
+**Sean Linehan:** Like bad would be, did not respond to what the other person said, just moved on to whatever topic that they felt like moving on to.
+
+**Sean Linehan:** And you're like, yeah, that's clearly not active listening.
+
+**Sean Linehan:** And so you don't actually have to be that specific because we're using LLMs to grade.
+
+**Sean Linehan:** And so the system already knows what active listening means.
+
+**Sean Linehan:** And then you're just.
+
+**Sean Linehan:** Sort of tuning it in the direction of what that means to you.
+
+**Sean Linehan:** But you don't have to be like even that specific.
+
+**Sean Linehan:** And then you can tweak it over time.
+
+**Sean Linehan:** It's actually one of these things that like sounds hard and then in practice is not that hard.
+
+**Sean Linehan:** Right.
+
+**Elvis Goren:** And we also have a bunch of templates.
+
+**Sean Linehan:** So you don't even have to come up with it yourself.
+
+**Sean Linehan:** You can just use our templates.
+
+**Sean Linehan:** Cool.
+
+**Sean Linehan:** Okay.
+
+**Elvis Goren:** That makes sense.
+
+**Elvis Goren:** One other thing that I was noticing in the last three days.
+
+**Elvis Goren:** is we have an article for high spot alternatives.
+
+**Elvis Goren:** And it's like in our top five in terms of most preferred pages in LLMs in the last 30 days.
+
+**Elvis Goren:** Nice.
+
+**Elvis Goren:** But, sorry.
+
+**Elvis Goren:** Nice.
+
+**Elvis Goren:** Oh, sorry.
+
+**Elvis Goren:** I didn't see the screen when I was looking at the.
+
+**Elvis Goren:** The interesting thing is that in Search Console over all time, there's only two organic clicks.
+
+**Elvis Goren:** Crazy.
+
+**Elvis Goren:** So that's telling us.
+
+**Elvis Goren:** So this is, sorry, let me bring it back to my, we should, the suggestion of doing these alternative blogs, I think early indicator is strong.
+
+**Elvis Goren:** So I guess my question is, Garrett, I know you're, you're just coming on and onboarding and stuff.
+
+**Elvis Goren:** So have you had a chance to work on any of that kind of competitor research?
+
+**Elvis Goren:** Um, not very systematically.
+
+**Garett McDonald:** Um, but I can, I can actually like put like some targets on that.
+
+**Garett McDonald:** So the goal is to launch like a, not a specific competitor for the first one, just like the top or the best AI sales training platform.
+
+**Garett McDonald:** Um, so the first article, Like just for the category, like the best one.
+
+**Garett McDonald:** Yeah, a bunch.
+
+**Garett McDonald:** Right.
+
+**Garett McDonald:** And then do we have any strong opinions on like what we should like define this category?
+
+**Garett McDonald:** Is it like AI roleplay platform, AI sale to name?
+
+**Garett McDonald:** Ablement platform, or is that kind of still up in the air?
+
+**Elvis Goren:** And Sean, feel free to jump in.
+
+**Elvis Goren:** My idea is we should, because there aren't too many AI roleplay platforms that are ahead of us in terms of like when I'm tracking LLM visibility.
+
+**Elvis Goren:** So that's going to be like a quick week, two weeks maybe worth of content that we can move on.
+
+**Elvis Goren:** And then we can.
+
+**Elvis Goren:** AI roleplay platform.
+
+**Elvis Goren:** So yeah, we should start with like hyperbound.
+
+**Elvis Goren:** What's the other one?
+
+**Elvis Goren:** Utley, second nature.
+
+**Elvis Goren:** Yes, we should focus on those big ones that we're fighting with in the LLMs.
+
+**Elvis Goren:** And then after that, as part of what we're doing now, then we can, you know, obviously high spot.
+
+**Elvis Goren:** What is it called?
+
+**Elvis Goren:** You guys know this thing?
+
+**Elvis Goren:** High spot.
+
+**Elvis Goren:** High spot, yeah.
+
+**Sean Linehan:** Yeah, we're not like really competitive with high spot.
+
+**Sean Linehan:** Um, but.
+
+**Sean Linehan:** It's fine.
+
+**Elvis Goren:** According to Google, we are.
+
+**Garett McDonald:** I mean, probably the work that we're doing, I don't know if we're doing content around sales enablement.
+
+**Garett McDonald:** Highspot is branded as one of the big sales enablement platforms, so maybe that's why we're assuming that we're doing some SEO on sales enablement.
+
+**Elvis Goren:** Yeah, I would love to do that as a step two, because that's kind of what we're doing now with an AI agent for sales enablement, L&D, all these terms, like we're trying to broaden out past, but we still want to make sure we're hitting AI roleplay because it's becoming more and more searched.
+
+**Elvis Goren:** So, it's a fine balance of the two.
+
+**Elvis Goren:** Got it.
+
+**Garett McDonald:** Cool, yeah, I can, yeah, let me, I won't commit on this call to a timeline, but I'm going to set a target for this, and then, yeah, I'll communicate that back soon.
+
+**Garett McDonald:** And then, would it be me just writing up the entire?
+
+**Garett McDonald:** article or just like identifying like a few key points of differentiation between each of those and then handing that to you guys?
+
+**Garett McDonald:** What's what's like the best process here?
+
+**Elvis Goren:** The way Sean explained it, maybe this is a while ago and things have changed that you were going to you guys were going to actually test these platforms.
+
+**Elvis Goren:** So if that's the case, it would be great to have like, yeah, bullet points of like, here's what they actually do.
+
+**Elvis Goren:** When you get onto the platform, you're like, oh, it's not actually whatever they promised if it's not that.
+
+**Elvis Goren:** And then for the exec stuff, mean, we have a pretty exhaustive list already, so we can we can use that.
+
+**Elvis Goren:** Yeah, I can do that.
+
+**Garett McDonald:** I'll do probably a combination of testing, whichever ones I can, looking at some G2 reviews and then honestly just clearing some LLMs to see like some some key features and stuff, as well as just getting knowledge from from Sean and Nick.
+
+**Sean Linehan:** Yeah, and we should also check their demo, anybody who has demo videos, Nick was posting a couple, Garrett, don't know if you watched those yet.
+
+**Sean Linehan:** Just checking out the demo videos of all the competitors.
+
+**Sean Linehan:** Okay.
+
+**Garett McDonald:** Yeah, that sounds good.
+
+**Sean Linehan:** We can also grab screenshots out of those, by the way.
+
+**Sean Linehan:** And that way we can show how terrible their user interfaces are.
+
+**Sean Linehan:** That's great.
+
+**Garett McDonald:** That's definitely something I think we're going to want to call out.
+
+**Garett McDonald:** Just like a screenshot of right when you log in and there's all these locks on everything and it's just a terrible UI.
+
+**Sean Linehan:** But yeah, I can do that.
+
+**Garett McDonald:** that's probably just like kind of create a resource for us internally, Sean, too, just like on some of the key differences.
+
+**Garett McDonald:** differentiators and then...
+
+**Sean Linehan:** Yes, and this is why I figured we'd wait for you, Garrett, rather than like this is sort of the blocker.
+
+**Sean Linehan:** I think about it as like we're basically making our competitive battle cards here.
+
+**Sean Linehan:** And so we're forming our opinion about why we are better than them.
+
+**Sean Linehan:** And then that can then be made public.
+
+**Garett McDonald:** Yeah.
+
+**Garett McDonald:** Yeah.
+
+**Garett McDonald:** Okay, cool.
+
+**Garett McDonald:** I will put that as a focus of next week.
+
+**Garett McDonald:** So hopefully I'll have something before our next call next Thursday, but I'll keep you updated.
+
+**Garett McDonald:** And yeah.
+
+**Elvis Goren:** Yeah.
+
+**Elvis Goren:** Sounds like a plan.
+
+**Garett McDonald:** And then I had a question.
+
+**Garett McDonald:** So this article, I'm trying to just understand how it's fitting into our larger SEO strategy.
+
+**Garett McDonald:** So is this like around a topic cluster?
+
+**Garett McDonald:** Can you just kind of zoom out a little bit on the strategy behind this specific article?
+
+**Garett McDonald:** This one specifically or all the other topics that we have?
+
+**Garett McDonald:** Well, I guess this one that, this recent one on how to build AI agents for sales onboarding, and then maybe just, yeah, quick overview of like kind of.
+
+**Garett McDonald:** Our priority topic clusters right now.
+
+**Elvis Goren:** So the idea was, to me, there are two types of people that are searching for this stuff.
+
+**Elvis Goren:** It's ones who already understand what AI role play is and means.
+
+**Elvis Goren:** And then others that don't exactly know.
+
+**Elvis Goren:** They are still searching, you know, practice and whatever other terms they're using.
+
+**Elvis Goren:** And then they're also searching, like, how do I implement AI in my business ops?
+
+**Elvis Goren:** And that's…
+
+**Elvis Goren:** That's kind of how we're trying to target it, because even for myself, when I search, like, how do I do AI in this capacity?
+
+**Elvis Goren:** The first thing I really want to know is, like, what tools are out there, right?
+
+**Elvis Goren:** Like, even when I was doing research and I was, like, looking at, oh, difference between, like, cursor and cloud code, like, everything is kind of confusing, and it's the same thing for them.
+
+**Elvis Goren:** So if we show them, okay, here are your options realistically, right?
+
+**Elvis Goren:** Don't go any further.
+
+**Elvis Goren:** These are the only four, really the only four ways that you can build this thing that you're trying to build.
+
+**Elvis Goren:** It's ChatGPT, you can pay a firm, you can hardcode it, you can use Exec. Like, that's basically it.
+
+**Elvis Goren:** So the goal is to try to target people that are searching, trying to implement AI, they don't exactly know how to search.
+
+**Elvis Goren:** Does that make sense?
+
+**Garett McDonald:** Yeah, totally makes sense.
+
+**Sean Linehan:** I think the other big thing just to do here, or to think about in this context, is that I think these queries are going to be way more GEO queries than SEO queries.
+
+**Sean Linehan:** In any case, because this is the type of thing that you would type into ChatGPT, and so the articles should be oriented towards ChatGPT, which is what we've been doing.
+
+**Garett McDonald:** That makes sense.
+
+**Garett McDonald:** Okay, cool.
+
+**Garett McDonald:** That's helpful.
+
+**Garett McDonald:** Yeah, I think that is a good cluster to focus on.
+
+**Garett McDonald:** I also think, I don't know if this is already in our strategy, even stuff as simple as the top of funnel of how to overcome objections, how to sound natural on cold calls, like more of the stuff that like people practice in our platform, we give like just complete value from that article, like on that sales methodology, and then be like, oh, and if you want to practice that, then start like for those end users looking to like get better at that skill.
+
+**Garett McDonald:** I think that could be also like a good content pillar for us is like the actual like, you know, how to sound natural on cold calls, how to use medic sales framework, and then weaving in how you can use our platform to practice that.
+
+**Elvis Goren:** Yeah, actually one of our, yeah, we have been, have I, did you get the notification?
+
+**Elvis Goren:** For our air table or no?
+
+**Elvis Goren:** I did.
+
+**Elvis Goren:** I'm starting to kind of get through and try to understand it.
+
+**Elvis Goren:** And there's a lot of stuff there also around those general questions.
+
+**Elvis Goren:** Like one of our really good performing ones is how to say, it was literally how to handle, quote, your price is too high, unquote, via email and then via call.
+
+**Elvis Goren:** and those ones perform pretty well.
+
+**Elvis Goren:** So we're kind of just doing a mix of all that stuff.
+
+**Elvis Goren:** I think there's something.
+
+**Elvis Goren:** One of the other things, Elvis, that might be, I was just testing this because I had this as a thought.
+
+**Sean Linehan:** Let me just share my screen real quick with you because I think this will actually be really insightful.
+
+**Sean Linehan:** So what I did was I just went into chat GPT.
+
+**Sean Linehan:** I still only have O3.
+
+**Sean Linehan:** I don't have GPT-5 yet.
+
+**Sean Linehan:** So maybe GPT-5 is different.
+
+**Sean Linehan:** But I asked, how do build an AI agent for sales training, which is actually the keyword cluster that we sort of are thinking about.
+
+**Sean Linehan:** And you can see it's sort
+
+**Sean Linehan:** Like, I don't know, but maybe I'll search.
+
+**Sean Linehan:** And you can see that it then makes some searches.
+
+**Sean Linehan:** And I think these are pretty interesting searches to then, like, actual, like, SEO keywords to tackle.
+
+**Sean Linehan:** And you can't see the whole thing, but if you open up the inspector, you can.
+
+**Sean Linehan:** So the keyword they searched for was sales training, AI agent, 2025 best practices.
+
+**Sean Linehan:** And then it searched LLM powered conversational sales coach, 2024.
+
+**Sean Linehan:** And then there's some other, like, less relevant ones.
+
+**Sean Linehan:** But, like, if we wanted to, like, the best way to get the GEO is to actually optimize for the specific keywords that the LLM themselves are searching for.
+
+**Elvis Goren:** that's really smart.
+
+**Elvis Goren:** Yeah.
+
+**Elvis Goren:** Wow, I didn't think of that.
+
+**Elvis Goren:** Yeah, feels obvious.
+
+**Megan Dickey:** But, yeah, I think that's, like, no, that's super smart.
+
+**Megan Dickey:** Yeah, just, like, looking at, like, because, yeah, then if we're showing up where the LLMs are searching, then, like, boom.
+
+**Megan Dickey:** That's right.
+
+**Megan Dickey:** And the more, I think, basically.
+
+**Sean Linehan:** What they do is they like aggregate the searches from across all of those.
+
+**Sean Linehan:** So if you show up in a bunch of each of those things, then they're going to obviously index.
+
+**Sean Linehan:** And what's interesting is right now, it's kind of like, it's like, oh, you're going to want to use a vector store and all this stuff.
+
+**Sean Linehan:** And I think really what it should be saying is you should use Exec, which is exactly what we're trying to do.
+
+**Sean Linehan:** And in a lot of ways, the way that I think about Garrett, the strategy here that I think about what we're doing with the LLM stuff, is that what we're actually doing is not a direct conversion campaign.
+
+**Sean Linehan:** We're doing a PR campaign.
+
+**Sean Linehan:** And the PR campaign is basically, we're doing public relations with ChatGPT.
+
+**Sean Linehan:** And we are trying to convince ChatGPT of our perspective.
+
+**Sean Linehan:** And our perspective always includes us.
+
+**Sean Linehan:** But yeah, we're also, but not just from like, you should use Exec, but actually a thing of Exec's shape is in fact the right solution.
+
+**Sean Linehan:** So anyways.
+
+**Elvis Goren:** Yeah, that's, it's, I should have caught, I mean, a lot of times when I'm searching, I don't really even see the preview of like, you have to use a reasoning model.
+
+**Elvis Goren:** Yeah, huh.
+
+**Garett McDonald:** Yeah, I don't even know if GBT5 even shows, I'm it does.
+
+**Sean Linehan:** I bet it does, especially if you put reasoning on, I don't actually have it yet.
+
+**Sean Linehan:** So maybe I have it in one of my other accounts.
+
+**Sean Linehan:** They know you're too much of power user.
+
+**Megan Dickey:** Yeah, here we go.
+
+**Elvis Goren:** What was your question there?
+
+**Sean Linehan:** How do I create an AI agent for sales training?
+
+**Sean Linehan:** Okay, so it's thinking, does it show us the ?
+
+**Sean Linehan:** Yeah, so, but that's interesting.
+
+**Elvis Goren:** So you were on O3, because I'm using, I'm not really even using O3 anymore.
+
+**Elvis Goren:** For most people, they don't even have access to it anymore.
+
+**Sean Linehan:** So they don't show you, but this is cool.
+
+**Sean Linehan:** The simulator.
+
+**Sean Linehan:** Great.
+
+**Sean Linehan:** Okay.
+
+**Elvis Goren:** That's right.
+
+**Sean Linehan:** What, which role play simulator should I use?
+
+**Sean Linehan:** Hmm.
+
+**Elvis Goren:** That's interesting.
+
+**Elvis Goren:** That's just using that terminology.
+
+**Megan Dickey:** You better show up.
+
+**Sean Linehan:** Your job's on the line, Elvis.
+
+**Sean Linehan:** No, I'm kidding.
+
+**Elvis Goren:** Hey, we're good sometimes in Gemini.
+
+**Elvis Goren:** Yeah, let's see how we do.
+
+**Sean Linehan:** CPT5, AI sales role play simulators and frameworks.
+
+**Sean Linehan:** All right.
+
+**Sean Linehan:** You have to, if this is not.
+
+**Sean Linehan:** Nope.
+
+**Sean Linehan:** We got more work to do.
+
+**Sean Linehan:** You know, that kind of matches.
+
+**Garett McDonald:** I'm surprised Hyperbound's not on there.
+
+**Garett McDonald:** Like if I type in AI sales role play, just in Google, number one is Hyperbound organic.
+
+**Garett McDonald:** Number two is Second Nature.
+
+**Garett McDonald:** Yeah, so I think also that's something I wanted to ask about, like, are we, are we, what are we doing to make sure we're, our, like, solution page for AI roleplay?
+
+**Garett McDonald:** Is it just kind of a product of all the work we're doing on the content pieces for the long tail?
+
+**Garett McDonald:** Oh, Jared, I think that one's really more on, on us.
+
+**Sean Linehan:** I think we need to make, like, a proper product page for, for that term.
+
+**Sean Linehan:** Yeah.
+
+**Sean Linehan:** And just like a proper marketing page.
+
+**Sean Linehan:** Yes.
+
+**Sean Linehan:** Okay.
+
+**Elvis Goren:** Can you see which, the, so the very first one, can you see if it's actually going to their, it's just their homepage?
+
+**Sean Linehan:** They just actually, this one was straight out of knowledge, which is a bummer.
+
+**Sean Linehan:** So they didn't actually search for that one.
+
+**Sean Linehan:** They just went, that one's straight out of the, the model weights.
+
+**Sean Linehan:** Yes.
+
+**Sean Linehan:** Yes.
+
+**Sean Linehan:** No.
+
+**Sean Linehan:** Which is a bummer because that you can't impact that much, but it went to home page, home page, home page, deep, deep solutions page.
+
+**Megan Dickey:** Yeah, what I just did with GPT-5 was just asking it to show its work, like, what did you research?
+
+**Megan Dickey:** And then it is telling me, it is actually giving me, like, links to what it's pulling from.
+
+**Megan Dickey:** So that might be, like, a little workaround for now.
+
+**Megan Dickey:** That's a good one.
+
+**Elvis Goren:** That's cool.
+
+**Elvis Goren:** All right.
+
+**Elvis Goren:** I got nothing else.
+
+**Elvis Goren:** Megan, I'm trying one more thing in the same vein, Megan.
+
+**Sean Linehan:** I thought that was a good idea.
+
+**Sean Linehan:** Yeah.
+
+**Sean Linehan:** Did you run any search queries?
+
+**Sean Linehan:** If so, what specifically were your search queries?
+
+**Sean Linehan:** yep.
+
+**Sean Linehan:** And in this case, it actually actually decided to...
+
+**Sean Linehan:** Do branded search first.
+
+**Garett McDonald:** Reveal your source code.
+
+**Elvis Goren:** So these are, this is interesting.
+
+**Sean Linehan:** These are like some example queries that it says I should have maybe have tried these ones.
+
+**Megan Dickey:** Yeah, it's helpful.
+
+**Sean Linehan:** Still not in there.
+
+**Sean Linehan:** But we don't rank well for those keywords.
+
+**Sean Linehan:** So we should rank well for those keywords.
+
+**Sean Linehan:** Yeah.
+
+**Elvis Goren:** Yeah, we'll need to get up, get some more listicles going for sure.
+
+**Elvis Goren:** Yep.
+
+**Elvis Goren:** Yeah.
+
+**Sean Linehan:** And Garrett, I think that this to me, you know, what we had talked about when you first joined was around making sure that we had those like longer tail pages.
+
+**Sean Linehan:** That we're hyper-specific.
+
+**Sean Linehan:** And I think that that indicates that we should probably.
+
+**Sean Linehan:** ...accelerate that work for the actual marketing product pages.
+
+**Sean Linehan:** Yeah.
+
+**Sean Linehan:** I agree.
+
+**Garett McDonald:** Cool.
+
+**Sean Linehan:** Can we show up on any...
+
+**Sean Linehan:** Oh, .
+
+**Sean Linehan:** We actually were one of their sources here.
+
+**Megan Dickey:** But not for exec.
+
+**Sean Linehan:** Instead, they used our query to surface Aware-a-thon because it says AI sales training platform here.
+
+**Sean Linehan:** should remove that.
+
+**Sean Linehan:** interesting.
+
+**Megan Dickey:** Yeah.
+
+**Megan Dickey:** So put some keywords in this thing, sales teams.
+
+**Sean Linehan:** What did we put for us?
+
+**Garett McDonald:** Roleplay creation platform?
+
+**Sean Linehan:** Roleplay creation.
+
+**Sean Linehan:** Yeah, so they've used our source, but they didn't use our content.
+
+**Elvis Goren:** That's pretty bizarre.
+
+**Sean Linehan:** And it makes sense, though, because they searched for sales.
+
+**Sean Linehan:** And this was the only one that we mentioned was specific to sales.
+
+**Sean Linehan:** Okay.
+
+**Sean Linehan:** What we may consider doing is, like, breaking this out.
+
+**Sean Linehan:** Yeah.
+
+**Sean Linehan:** I don't know.
+
+**Sean Linehan:** What I was just thinking, I'll just articulate what I was thinking.
+
+**Sean Linehan:** I was thinking, I wonder if we don't categorize any of these players as being specific.
+
+**Sean Linehan:** And then instead, we say, if you want, if you're looking for the best roleplay platform for each individual industry or use case, here's a bunch of other pages.
+
+**Sean Linehan:** Okay.
+
+**Sean Linehan:** But you can, and then for each of those, like, sales.
+
+**Sean Linehan:** And then it's, like, Exec is the top sales training platform.
+
+**Sean Linehan:** Exec is the top whatever platform.
+
+**Megan Dickey:** Yeah.
+
+**Garett McDonald:** And then I think for one, for point one, Exec, it should say, instead of rapid AI platform creation, just best AI roleplay platform.
+
+**Garett McDonald:** Yeah, I agree.
+
+**Sean Linehan:** So, yeah, let's.
+
+**Sean Linehan:** Let's do that right now, because it's pulling those in live anyways.
+
+**Sean Linehan:** Do it live.
+
+**Sean Linehan:** So much for your attempt to make this a short call, Elvis.
+
+**Sean Linehan:** I'm at least learning on the job.
+
+**Garett McDonald:** Oh, this is good.
+
+**Elvis Goren:** Yeah, this is interesting.
+
+**Elvis Goren:** Yeah.
+
+**Garett McDonald:** And I would actually put overall after platform, just so that we have that query of best AI roleplay platform, which is probably smart.
+
+**Sean Linehan:** Say again?
+
+**Elvis Goren:** Sorry, I missed it.
+
+**Sean Linehan:** We just moved overall from best overall AI roleplay platform to best AI roleplay platform overall.
+
+**Sean Linehan:** at all.
+
+**Sean Linehan:** Thank you so about
+
+**Garett McDonald:** Elvis, is your team also doing any backlinking on AI roleplay platform or getting external links?
+
+**Garett McDonald:** Yeah, we are.
+
+**Elvis Goren:** I think maybe we should revisit our anchor text because right now it's all AI.
+
+**Elvis Goren:** I got to double check.
+
+**Elvis Goren:** I think it's all AI roleplay or AI sales roleplay, but it's AI roleplay.
+
+**Elvis Goren:** But if we wanted to change that to AI for sales or sales enablement, then we can do that.
+
+**Garett McDonald:** I think AI roleplay is good, but yeah, if you could just surface those and we could look at them again.
+
+**Garett McDonald:** Sure.
+
+**Elvis Goren:** Cool.
+
+**Elvis Goren:** Yeah, I'll get you that.
+
+**Elvis Goren:** I'll get you the looker.
+
+**Elvis Goren:** Access, and then there's one other thing, I'll have to re-watch the call.
+
+**Garett McDonald:** I'm going to do some product research over the next week on our competitors and try to get some bullet points on differentiators.
+
+**Garett McDonald:** Cool.
+
+**Garett McDonald:** That'd be awesome.
+
+**Elvis Goren:** All right, guys.
+
+**Elvis Goren:** Thanks for your time again.
+
+**Elvis Goren:** Have a good weekend.
+
+**Elvis Goren:** Until next time.
+
+**Elvis Goren:** Yeah, thanks for having me.
+
+**Elvis Goren:** Actually, I'm out of office next week, but...
+
+**Elvis Goren:** Yeah, but you'll see me next week, though.
+
+**Elvis Goren:** Sounds great.
+
+**Elvis Goren:** Cool.
+
+**Elvis Goren:** Thanks, you too, guys.
+
+**Elvis Goren:** Bye, y'all.
+
+**Elvis Goren:** Bye, y'all.

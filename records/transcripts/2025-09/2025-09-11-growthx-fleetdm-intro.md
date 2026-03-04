@@ -1,0 +1,861 @@
+# GrowthX <> FleetDM — Intro
+
+<metadata>
+date: 2025-09-11
+time: 19:05 UTC
+duration: 32 minutes
+organizer: tyler@growthx.ai
+participants: Marcel Santilli, Tyler Pavlas | GrowthX; Mike McNeil | Fleet CEO, Sam Pfluger | Fleet Head of Digital Workplace & GTM Systems
+fathom_recording_id: 86713567
+fathom_url: https://fathom.video/calls/406570919
+share_url: https://fathom.video/share/QR1xEBuS5SphFpfw1sgk3caNcMQM9Mtv
+source: fathom
+enriched_on: 2025-03-03 18:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX pitched its AI-powered content creation services to Fleet, focusing on improving visibility in LLM/AI search results for device management and MDM topics. Marcel and Tyler presented GrowthX's methodology — combining agentic workflows, human expertise, and credible content at scale — walking through examples from Augment Code (80 guides driving 2x blog traffic) and demonstrating research, fact-checking, and editing workflows. Fleet, currently led by CEO Mike McNeil (who's also running marketing until a new marketer starts in two months), committed to an 8-week strategy sprint ($20k) followed by ongoing growth execution ($12k/month), with GrowthX adapting to Fleet's markdown-based, pull-request-driven publishing workflow.
+
+---
+
+## Context
+
+FleetDM is an open-source device management platform (MDM) serving Linux and Mac admins in enterprise environments. The company has product-market fit in a niche but strategic market segment — IT operations teams at large enterprises like NVIDIA that manage hundreds of Mac and Linux machines. Fleet was founded by Mike McNeil, who is currently doubling as CEO and head of marketing, with a new dedicated marketer joining in approximately two months. Fleet has historically under-invested in SEO despite growing evidence that enterprise buyers are increasingly discovering solutions through LLM-based AI search (ChatGPT, Claude, Gemini) and traditional search. The meeting was introduced by Reed Hoffman (an investor in both Clerk and Fleet), connecting Fleet to GrowthX's content expertise. GrowthX brought Marcel Santilli (founder/CEO) and Tyler Pavlas (founding AE) to present its content-at-scale services.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Fleet's MDM/Linux-Mac admin niche mirrors Augment Code's verticalization success; GrowthX can replicate the 80-guide, 2x-traffic playbook in a new domain
+- Fleet's open-source, markdown-based CMS with pull-request workflows (similar to osquery adoption pattern) aligns well with GrowthX's publishing SOP approach
+- Fleet's strict writing guidelines (capitalization, formatting standards) dovetail with GrowthX's proofreader checklists — should accelerate calibration phase
+- Fact-checking workflows will be critical given Fleet's technical audience (IT ops, infrastructure); no wrong answers on device compatibility, compliance, or deployment procedures
+
+**To CheckThat:**
+- Fleet's core audience discovery problem is CheckThat's exact market: discovering enterprise software solutions through LLM search
+- Opportunity to audit Fleet's positioning in LLM responses for "MDM", "device management", "Mac admin tools", "Linux server management"
+- Fleet's success with content-driven organic growth feeds into AEO research and visibility playbooks
+
+**To GrowthX Business Development:**
+- Strong expansion potential: 8-week sprint ($20k) + 12-month growth execution commitment = $164k ACV; 100% conversion rate on growth execution suggest high post-sprint retention
+- Fleet's open handbook positioning and transparent GTM (Sam Pfluger's RevOps oversight) align with enterprise buyer expectations; reference-ability high
+- Mike McNeil is decision-maker and time-boxed (new marketer arriving in ~2 months) — creates urgency and quick learning cycle for GrowthX's processes
+
+---
+
+## Overview
+
+- Fleet seeks to increase visibility in LLM/AI search results and traditional organic search for device management and MDM topics, competing against established vendors
+- GrowthX offers an 8-week strategy sprint ($20k) to understand the business, build content artifacts, and calibrate approach, followed by ongoing growth execution ($12k/month) for continuous content production
+- GrowthX's approach combines agentic AI workflows (research agents, fact-checkers, context-aware editors), human expert review, and credible content at scale — demonstrated through 80+ guides for Augment Code driving 2x blog traffic and 300+ signups in under 2 months
+- Fleet's open-source, markdown-based CMS with pull-request workflows and documented writing guidelines (similar to osquery adoption) align well with GrowthX's publishing SOP and proofreading processes, reducing setup friction
+- Fleet's commitment to reviewing and merging PRs within one business day, plus Sam Pfluger's RevOps oversight, enables rapid content iteration and fast feedback loops during the strategy sprint
+
+---
+
+## Key Topics
+
+### Fleet's Current Marketing Challenges
+
+  - Mike (CEO) is currently running marketing, with a new marketer starting in about two months
+  - Fleet has a niche audience of Linux and Mac admins in enterprise settings
+  - They haven't invested much in SEO to date but see increasing conversions driven by LLMs
+  - Fleet wants to show up more in relevant searches and be considered a "real option" in the MDM space
+
+### GrowthX's Content Creation Approach
+
+  - Uses a mix of AI-powered workflows and human expertise to create high-quality, targeted content
+  - Creates detailed audience personas and maps topics to audience pain points and jobs-to-be-done
+  - Employs fact-checking and expert review processes to ensure accuracy, especially for technical content
+  - Focuses on creating credible content at scale to answer audience questions comprehensively
+
+### GrowthX's Service Offering
+
+  - 8-week strategy sprint ($20k) to understand the business, create artifacts, and begin content creation
+  - Ongoing growth execution phase ($12k/month) for continued content production and optimization
+  - Handles end-to-end content creation, including publishing directly to the client's CMS when possible
+  - Provides weekly monitoring and reporting on content performance
+
+### Integration with Fleet's Existing Processes
+
+  - Fleet uses a markdown-based CMS with pull requests for content updates
+  - GrowthX will adapt to Fleet's existing publishing workflow and writing guidelines
+  - Fleet commits to reviewing and merging pull requests within one business day
+
+---
+
+## Action Items
+
+**Tyler Pavlas**
+- Send contracts to Mike McNeil via DocuSign for 8-week strategy sprint ($20k) + growth execution ($12k/mo)
+
+- Email Mike McNeil next available kickoff dates (typically 4 weeks out, 2 kickoffs/week max)
+
+- Send calendar invites for kickoff + weekly 30-min checkpoints to Mike McNeil (cc his EA)
+
+
+**Marcel Santilli**
+- Add Mike McNeil, Brock (email provided), Sam Pfluger to GrowthX<>Fleet Slack channel
+
+
+**Mike McNeil | CEO**
+- Sign GrowthX contract via DocuSign upon receipt
+
+---
+
+## Transcript
+**Marcel Santilli:** Hey, Mike, good to see you.
+
+**Marcel Santilli:** Sorry, I think you might have been in the weight room.
+
+**Marcel Santilli:** I apologize.
+
+**Marcel Santilli:** I wasn't looking.
+
+**Marcel Santilli:** But cool, Tyler, I'll let you lead.
+
+**Tyler Pavlas:** Yeah, no problem.
+
+**Tyler Pavlas:** Well, great to meet the team here, Sam and Mike.
+
+**Tyler Pavlas:** As a quick introduction, you know, my name is Tyler, based in Houston.
+
+**Tyler Pavlas:** I'm the founding account executive here at GrowthX.
+
+**Tyler Pavlas:** So, I really work alongside Marcel to help folks like yourself understand more about what we do, how we work, and the services that we offer.
+
+**Tyler Pavlas:** I don't know if you and Mike maybe want to just give a quick intro.
+
+**Tyler Pavlas:** know Reid introduced us, but Marcel and I would love to learn a little bit more about, you know, what you guys are hoping we might be able to help out with.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** Yeah, I mean, Mike will be the main proponent, but I can jump in.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** I mean, the reason that I'm on the call is since there's been kind of, you know, Mike and myself, you can think of us as like the meta.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** Yeah.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** Marketing, the meta head of marketing.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** I am in whatever you want to call it, RevOps, SalesOps.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** I'm the head Salesforce crash test dummy, the one and only Salesforce admin, and I've been kind of Mike's right hand in terms of making sure that our GTM tools and processes are happening and as up to date as we can keep them.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** We've gone through, gone through a few, let me see.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** What's Mike?
+
+**Mike McNeil | CEO:** Hey, sorry about that.
+
+**Mike McNeil | CEO:** Awesome.
+
+**Mike McNeil | CEO:** Well, really, I know I'm coming into this late, so I'm sorry if I won't repeat anymore or do too much with intros right now because they only have so much time.
+
+**Mike McNeil | CEO:** But I know, you know, we were at a board meeting.
+
+**Mike McNeil | CEO:** My VC, Reed, was like, yo, like, I know some guys that, you know, have created good results with AI.
+
+**Mike McNeil | CEO:** I don't what the heck, you guys probably know it out of a better name.
+
+**Mike McNeil | CEO:** But basically, you know, better LLM, like, AEO.
+
+**Mike McNeil | CEO:** And so, yeah, I mean, and I think you kind of talked about a six to eight week time frame, you know, a way to kind of do a pilot project.
+
+**Mike McNeil | CEO:** So from our end, like we, I'm still running marketing for another month or two here.
+
+**Mike McNeil | CEO:** So excited to kind of learn more about that and hopefully a quick decision.
+
+**Marcel Santilli:** that's awesome.
+
+**Marcel Santilli:** And Reid is great.
+
+**Marcel Santilli:** And I met Reid because he was an investor in a friend of mine's company that just got acquired by, by Cursor and or acqui-hired by Cursor.
+
+**Marcel Santilli:** And, and the founder is one of my best friends and who introduced me to my CTO co-founder as well.
+
+**Marcel Santilli:** So there's like kind of a lot of full circle things.
+
+**Marcel Santilli:** And then he introduced to a few different companies.
+
+**Marcel Santilli:** So Clark is a customer, he's on the board of Clark, and then they hear like great things about it.
+
+**Marcel Santilli:** And then he introduced us to CodeRabbit and now they're a customer just kicking off as well.
+
+**Marcel Santilli:** so, so, so Reid is...
+
+**Marcel Santilli:** It's been a great, you know, deal flow for us.
+
+**Marcel Santilli:** So I appreciate that so much, you know, but obviously take that very, you know, the bar is very high for us to make sure we don't break his trust and that we live up to our reputation a little bit, you know, so I appreciate you guys taking the time.
+
+**Marcel Santilli:** But that's a little of the backstory, you know, but maybe before I jump in, we'd love to just really quickly just understand, I know, Mike, sounds like you're running marketing.
+
+**Marcel Santilli:** So as in addition to probably another half, another dozen jobs, you know, as a fellow CEO here.
+
+**Marcel Santilli:** And what do you think are some of the growth bottlenecks for the company or like some of the, you know, the things that ideally if you had a kind of a magic one, that way it's like kind of think of, I show you and talk about what we do.
+
+**Marcel Santilli:** I keep that in a little bit of the context, you know?
+
+**Mike McNeil | CEO:** Yeah, think the goal with partnering up with you guys would be we want to increase the, you know, if you do.
+
+**Mike McNeil | CEO:** A relevant prompt about Fleet, or about Fleet's subject in our area, which is device management.
+
+**Mike McNeil | CEO:** You know, we can give you guys kind of a word cloud.
+
+**Mike McNeil | CEO:** I'm sure you guys have a way you like to do that.
+
+**Mike McNeil | CEO:** But yeah, we'd like to be showing up more results.
+
+**Mike McNeil | CEO:** You know, we see conversion on the website increasingly driven by LLMs as it is.
+
+**Mike McNeil | CEO:** I use them all the time myself, and a lot of us do.
+
+**Mike McNeil | CEO:** I'm sure you guys do too.
+
+**Mike McNeil | CEO:** So we haven't really done much investment in the way of SEO to date.
+
+**Mike McNeil | CEO:** And I know that and this are both longer term investments, but we'd love to pilot something together, like and see, hey, like, can we see some results from this?
+
+**Mike McNeil | CEO:** And my new marketer starts in about two months, which maybe is like almost enough time to start to do some stuff together.
+
+**Mike McNeil | CEO:** So my thought was like, hey, let's do something fast and easy now.
+
+**Mike McNeil | CEO:** That way, when he comes in, we'll have sort of a path about like, hey, here's what we've invested so far.
+
+**Mike McNeil | CEO:** Here's the results we've seen.
+
+**Mike McNeil | CEO:** That playbook could continue running.
+
+**Marcel Santilli:** Okay, awesome.
+
+**Marcel Santilli:** That's super helpful.
+
+**Marcel Santilli:** And I think maybe I can give you a little bit of the backstory, and then really quickly I'll just show you what we build and how we work.
+
+**Marcel Santilli:** But at the TLDR, I built these content engines at IBM and several other companies at IBM.
+
+**Marcel Santilli:** I built a site called SecretIntelligence.com.
+
+**Marcel Santilli:** It grew to be the biggest source of a pipeline for that business.
+
+**Marcel Santilli:** HP, I built this Contributor Network site that grew to a million visitors a month.
+
+**Marcel Santilli:** And then I was at HashiCorp, we grew from $600 million there, heading up growth and in service site, and I built their content programs, had a growth there.
+
+**Marcel Santilli:** And then the scale is their first and only CMO for two years.
+
+**Marcel Santilli:** And then when I was at DeepGram, I essentially started taking like all the ways I would scale content engines and help brands.
+
+**Marcel Santilli:** And like publishers and build distribution on top of that and distill it into workflows.
+
+**Marcel Santilli:** And so then these workflows, I started, I hire someone.
+
+**Marcel Santilli:** said, could I take a junior editor content person and put that person in the loop?
+
+**Marcel Santilli:** Someone that's like normally wouldn't be able to be this effective.
+
+**Marcel Santilli:** And then it worked.
+
+**Marcel Santilli:** We essentially published about 3,000 pages over six months, built a newsletter called AIMines.com.
+
+**Marcel Santilli:** It's 24x our traffic.
+
+**Marcel Santilli:** Now, like Karan, who's also on the board of Clerk with Reed, is our main investor and he was on the board of DeepGram.
+
+**Marcel Santilli:** So he saw that firsthand, you know.
+
+**Marcel Santilli:** And so from there, what I started to do is just do workshops.
+
+**Marcel Santilli:** And I was still CMO at DeepGram.
+
+**Marcel Santilli:** And so about 170 people paid 500 bucks to take these workshops.
+
+**Marcel Santilli:** And I thought people just wanted to learn how to build workflows.
+
+**Marcel Santilli:** And it turns out they wanted growth and outcomes, not more work.
+
+**Marcel Santilli:** And so that's kind of like what we heard and saw.
+
+**Marcel Santilli:** And then like on...
+
+**Marcel Santilli:** On top of that, I think part of the issue is you're busy, you're trying to hire marketing, but then you're ahead of marketing or whoever is going to come in and it's like, what are my options to extend the work we need to do?
+
+**Marcel Santilli:** It's like hire agencies, hire freelancers, buy tools, and none of it actually delivers more work.
+
+**Marcel Santilli:** It's just like, it's kind of slow and inefficient.
+
+**Marcel Santilli:** But then like compounding in that is the fact that like a lot of what used to happen in sales calls, especially for B2B, is happening inside of these answers, like you said, right?
+
+**Marcel Santilli:** And so like it's a customer bars monograph, but people, some people are still searching software for architects or something like that.
+
+**Marcel Santilli:** And like, it's so important to show up in organic as well and grow organically, but also the average session in ChatGPT is 15 to 20 minutes.
+
+**Marcel Santilli:** That's a full sales call, right?
+
+**Marcel Santilli:** And people are not using three keywords.
+
+**Marcel Santilli:** They're putting, you know, 500 words of a prompt and going back and forth and engaging with it.
+
+**Marcel Santilli:** And so now-
+
+**Marcel Santilli:** The long tail is way, way longer, right?
+
+**Marcel Santilli:** And to win, you need to be part of that answer.
+
+**Marcel Santilli:** And the way we think about it is, like, content is the atomic unit there, and credible content at scale that kind of goes deeper into answering all the questions that your audience has is how you win, right?
+
+**Marcel Santilli:** So I love giving you this example.
+
+**Marcel Santilli:** This is Augment Code.
+
+**Marcel Santilli:** We've been working with them for, like, 14 weeks, essentially.
+
+**Marcel Santilli:** And we've produced about 80 really high-technical, high-quality guides for them.
+
+**Marcel Santilli:** And these are, like, really, really high-quality, and they're vetted by someone that actually is a developer as well.
+
+**Marcel Santilli:** So we have experts in loops, so it's not, like, junk, you know?
+
+**Marcel Santilli:** But then, like, you can see things like this, AI coding tools for enterprises, Augment Code is showing up now.
+
+**Marcel Santilli:** But then the three, four, five, six are links, essentially.
+
+**Marcel Santilli:** All content that we created in the last, like, you know, eight weeks or so, being cited in the same answer, right?
+
+**Mike McNeil | CEO:** like, depending.
+
+**Mike McNeil | CEO:** wrap my head around it, like, so I know, you know, at end of the day, what we want is, you know, organic traffic, top-level metrics.
+
+**Mike McNeil | CEO:** So, like, understand, like, you know, SEO, it was all about backlinks and, you know, headings and using the right, like, text inside the H tags, like, things that were generally just better for humans.
+
+**Mike McNeil | CEO:** I'm it's the same, like, how should we understand, sort of, like, the tactics?
+
+**Mike McNeil | CEO:** And the reason I'm asking is, like, for example, our tutorials, we have such a niche audience at Fleet, so we have these, they're these MDM, well, there's a few, but they're either sort of Linux people, or they're these Mac admins, basically.
+
+**Mike McNeil | CEO:** The people that ran the K-12 Mac computer lab, everybody started using Mac in the enterprise, and now they have, like, this very important core.
+
+**Mike McNeil | CEO:** There's really only, like, three of them at NVIDIA, for example.
+
+**Mike McNeil | CEO:** And so the skill set is relatively niche.
+
+**Mike McNeil | CEO:** Like, what we've found so far is that we have to find people from the community or sort of bring people from our team to add that credibility.
+
+**Marcel Santilli:** Like, these are not...
+
+**Marcel Santilli:** yeah, exactly.
+
+**Marcel Santilli:** They're like IT admin techies that go super deep into the hardware and the software and everything in between, kind of.
+
+**Mike McNeil | CEO:** Is that maybe one way to think about it a little bit?
+
+**Mike McNeil | CEO:** Yeah, I mean, they're asking, you know, their leaders and then the individual Mac admins are asking questions like, hey, does Fleet support this.
+
+**Mike McNeil | CEO:** We have competitors claiming we're not, like, a real MDM, right, because we weren't for years.
+
+**Mike McNeil | CEO:** And now we are.
+
+**Mike McNeil | CEO:** So we kind of have...
+
+**Marcel Santilli:** We've hit product maturity in this established product category.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Mike McNeil | CEO:** I think a lot of what we're after is to show up in the list as, like, a real option.
+
+**Mike McNeil | CEO:** Some of that's, like, potentially...
+
+**Mike McNeil | CEO:** So that might be...
+
+**Mike McNeil | CEO:** relevant to the kind of content we'd create together, maybe more so than the technical stuff.
+
+**Mike McNeil | CEO:** Although, yeah, I'm just curious, like, how do you guys think about, you know, what content to create and, like, what sort of tactics are y'all using to create the results?
+
+**Marcel Santilli:** Yeah, like, so the way we think about it is more, it's, I think, kind of different from, it is like taking an audience first approach, right?
+
+**Marcel Santilli:** And so, like, let me just show you a quick example here.
+
+**Marcel Santilli:** So, I just searched, like, I just did this right now, best AI coding tools for context understanding, right?
+
+**Marcel Santilli:** Like, and I just did it live, so you see, they weren't showing up to this at all before.
+
+**Marcel Santilli:** And this is live, so this is not, like, you know, and you can see, like, there's all these, like, links that are being pulled here, but, you know, these two are the ones influencing the most, right?
+
+**Marcel Santilli:** And so a lot of this is like, hey, this is a piece of content, a lot of nuance of how to talk about their product, you know?
+
+**Marcel Santilli:** And that's kind of like not something that's out in the web, right?
+
+**Marcel Santilli:** Like you can't write about how they think about context understanding of a complex code base based on like search Google about it, right?
+
+**Marcel Santilli:** This comes from like contextual understanding of their business.
+
+**Marcel Santilli:** And so in order to gain that, you do need like to have this understanding of, and so we go through and I'll show you, I can maybe show you live really quickly, but think of it as like we're creating these artifacts and we're defining our personas and gaining a deeper understanding of their pain points and things like that.
+
+**Marcel Santilli:** And then we're mapping all the topics that persona cares about, that audience cares about, like the jobs to be done, the questions they have, like everything you described, right?
+
+**Marcel Santilli:** And then we're mapping that against like the topics and the opportunities we should go create for you.
+
+**Marcel Santilli:** we're we're we're mapping that we're we're we're we're mapping on.
+
+**Marcel Santilli:** And how you see the world, you know, and how those things will eventually lead to your product.
+
+**Marcel Santilli:** And then we're figuring out like how do we prioritize it and how do we keep doing that every single day in and day out, not just planting a seed, but planting and improving that, right?
+
+**Marcel Santilli:** So maybe like I can jump in here and show you a few examples of like of that.
+
+**Marcel Santilli:** So like because you mentioned like the technical complexity, maybe I'll start with like clerks.
+
+**Marcel Santilli:** So this is our internal platform that we that powers our services.
+
+**Marcel Santilli:** And so these dashboards will be exposed to you in the next month or so.
+
+**Marcel Santilli:** But like think of it as like this is what's powering like our services, right?
+
+**Marcel Santilli:** So do you use like cloud code or cursor or anything like that at all?
+
+**Marcel Santilli:** Or have you kind of play with it a bit?
+
+**Mike McNeil | CEO:** Okay.
+
+**Mike McNeil | CEO:** Our audience, I think, is more likely to be using ChatGPT, Gemini, or Claude.
+
+**Marcel Santilli:** Yeah, all good.
+
+**Marcel Santilli:** I think that the main thing here is like we're creating these artifacts.
+
+**Marcel Santilli:** So think of these artifacts as context engineering.
+
+**Marcel Santilli:** Think of this as like incursor.
+
+**Marcel Santilli:** You have, like, cursor rules, essentially, that explains your whole project and the whole context of your project, you know?
+
+**Marcel Santilli:** And so this is, like, kind of similar to that, essentially.
+
+**Marcel Santilli:** And what we're doing here, like, so this is an example where we use one of our agents to research all their docs and extract every code snippet from their docs.
+
+**Marcel Santilli:** And to create kind of this cheat sheet as we're creating content for Clerk.
+
+**Marcel Santilli:** And Reid is on the board of Clerks, so, you know.
+
+**Marcel Santilli:** And so, like, this is one example where it's, like, as we were scaling this type of content, we're, like, there's no way we can be success guidelines, the audience personas, like, what are their fears and expectations and whatnot.
+
+**Marcel Santilli:** But then, like, we're storing a lot of this knowledge here, right?
+
+**Marcel Santilli:** And our knowledge base, and so this is, like, a graph rag, so you can do retrieval based on kind of, like, almost like a knowledge base.
+
+**Marcel Santilli:** And then you can kind of see kind of the nodes and things like that, you know?
+
+**Marcel Santilli:** But, and then what the core of what we do is a mix of both humans, experts that understand your business, their output bar raisers, and these workflows, but these workflows are agentic, right?
+
+**Marcel Santilli:** Like, so think of this as like, I'll give you maybe a few examples here.
+
+**Marcel Santilli:** So under the hood, we have our workflow engine as code.
+
+**Marcel Santilli:** So all our workflows are represented in code.
+
+**Marcel Santilli:** So we have a coding agent that builds these workflows.
+
+**Marcel Santilli:** But then what this does is like, it loops through.
+
+**Marcel Santilli:** So in this case, it's like a research agent that's going to go through and come up with a research plan.
+
+**Marcel Santilli:** And it has like even source requirements, like what are the sources of information that you want to synthesize it, and then evaluate itself.
+
+**Marcel Santilli:** So for instance, right now, it's 4.3 on this.
+
+**Mike McNeil | CEO:** And this is why.
+
+**Mike McNeil | CEO:** And these are the part, but is that basically like, because I just put in the chat, like an example of a prompt that like came to mind, right?
+
+**Mike McNeil | CEO:** And like, where Fleet doesn't show up at all.
+
+**Mike McNeil | CEO:** So I guess one of these.
+
+**Mike McNeil | CEO:** Workflows here, you would, like, that would be the thing you're testing it against as a prompt like this, right?
+
+**Marcel Santilli:** Like, what are my options for MDM that can do back-end windows?
+
+**Marcel Santilli:** Yeah, so this is a great example, right?
+
+**Marcel Santilli:** Like, hey, what are options for MDM?
+
+**Marcel Santilli:** But, like, this looked at 20 results.
+
+**Marcel Santilli:** And not all of these are actually great sources.
+
+**Marcel Santilli:** If you're, they might be the sources that they're pulling, and that's great.
+
+**Marcel Santilli:** There's things for us to learn here, if you're showing up or not in Monitor, which we do.
+
+**Marcel Santilli:** But when you're actually doing research on a topic, and you want to be authoritative on that topic, like, you actually want to use, like, legit sources, right?
+
+**Marcel Santilli:** So, like, so this is the research.
+
+**Marcel Santilli:** And you can see, like, according to AICPA Trust Services Criteria, entities must implement centralized identity management, blah, blah, blah.
+
+**Marcel Santilli:** It's like, this is expert opinion, right?
+
+**Marcel Santilli:** Like, and you want to have confidence scores on, like, the sources you're using in a bunch of things.
+
+**Marcel Santilli:** Then if you look...
+
+**Marcel Santilli:** Think here at the citations, right?
+
+**Marcel Santilli:** You have tier one sources, highest authority.
+
+**Marcel Santilli:** You have tier two sources, high authority.
+
+**Marcel Santilli:** And then you have examples and case studies and things.
+
+**Marcel Santilli:** And we can point these types of, you know, research engines towards like anything.
+
+**Marcel Santilli:** So this is how we scale quality, right?
+
+**Marcel Santilli:** This is only one step.
+
+**Marcel Santilli:** So then like, shoot, sorry, I just closed that out.
+
+**Marcel Santilli:** But I'll show you another example here in a second.
+
+**Marcel Santilli:** This is for Okta, but let me just go back where, was.
+
+**Marcel Santilli:** But then like, along the way, this is for augment code.
+
+**Marcel Santilli:** So you actually have experts that are going in here and raising the bar.
+
+**Marcel Santilli:** And we have things like fact checking, for example, right?
+
+**Marcel Santilli:** Like, so it's an example of comparing Codo versus cursors versus augment code, right?
+
+**Marcel Santilli:** And it's very nuanced, and it has to be fact checked.
+
+**Marcel Santilli:** So we've built a fact checker, for example, workflow.
+
+**Marcel Santilli:** And what it does is split and it has change.
+
+**Marcel Santilli:** Junk extracts the passages, right, and then comes up with questions and needs to answer in order to verify if it's true, and then does deep research on each one of those, and then verifies with evidence.
+
+**Marcel Santilli:** And if anything is not true, it will suggest the rewrite based on some nuances here, right?
+
+**Marcel Santilli:** And then along the way, what we built is kind of like this context-aware assistant where our editors can come in here and, you know, say, let's say, add bullets or something.
+
+**Marcel Santilli:** Like, just a silly thing.
+
+**Marcel Santilli:** But this pulls all those artifacts that I showed you earlier in the context, right?
+
+**Marcel Santilli:** So this is, instead of having to copy and paste stuff over, it can just go in here and say, okay, cool.
+
+**Marcel Santilli:** Like, now it added these bullets, and it's like, this is super specific bullets, right?
+
+**Marcel Santilli:** Like, this is not, like, completely out of the blue hallucination.
+
+**Marcel Santilli:** Like, it's because it has all those contexts.
+
+**Marcel Santilli:** It has access to the knowledge base and a bunch of things, right?
+
+**Marcel Santilli:** And you saw how quick that was, and it can save and keep guiding that process along.
+
+**Marcel Santilli:** And so then the end result, what it looks like,
+
+**Marcel Santilli:** It's like things like this, where we're able to scale it out for, and I can show you just a quick example for like Webflow, we've done all our integration pages.
+
+**Marcel Santilli:** So if you go to Webflow, we can see that.
+
+**Marcel Santilli:** For VAPI, we've done these like use case pages with like interactive components as well.
+
+**Marcel Santilli:** So every word on this page is personalized.
+
+**Marcel Santilli:** We've done hundreds of these pages.
+
+**Marcel Santilli:** For Augment Code, we built this code library that's like a directory of MCP servers and rules, you know.
+
+**Marcel Santilli:** So for RAMP, we built this vendor catalog as well.
+
+**Marcel Santilli:** And so we've done over 800 different pages between this and several others where it even ingests custom data, right?
+
+**Marcel Santilli:** Like, so there's a bunch of different cool examples like that that we've done for different customers.
+
+**Marcel Santilli:** Like we, some of, for like, but also like we do things that are very technical.
+
+**Marcel Santilli:** So town.com is like taxes for small businesses.
+
+**Marcel Santilli:** And so like this stuff is like very, very specific.
+
+**Marcel Santilli:** I you can't give wrong tax advice to SMBs, especially if that's your business, like you'll completely destroy the trust, right?
+
+**Marcel Santilli:** Like the stuff has to be fact-checked and vetted and things like that, you know?
+
+**Marcel Santilli:** Like on August 28th, the IRS released this, laying out exactly how small business is going to unlock refunds from prior years, blah, blah, blah.
+
+**Marcel Santilli:** And it's like, this is like super specific content, you know?
+
+**Marcel Santilli:** And so anyways, that's kind of what we build and kind of how we scale.
+
+**Marcel Santilli:** And I think what's really cool about our model is like, and this is, it sounds like Reid mentioned this to you, is what we do is an eight-week strategy sprint before we go into growth and execution.
+
+**Marcel Santilli:** And so the strategy sprint, we are executing as well, but think of it as like first week, we're doing a kickoff and understanding your business, your audience, ingesting all the docs you have, any sales calls, anything we can get our hands on and also researching.
+
+**Marcel Santilli:** Then week two, we're creating all these artifacts we showed you, as well as shaping all the content clusters that your audience will care about.
+
+**Marcel Santilli:** And then by week three, we're starting calibration of like,
+
+**Marcel Santilli:** Here's one piece of content.
+
+**Marcel Santilli:** Does this sound right?
+
+**Marcel Santilli:** this right?
+
+**Marcel Santilli:** Doing some iterations.
+
+**Marcel Santilli:** And hopefully by week four, we're starting to plant seeds, publish, but we see content as like the start, not the end.
+
+**Marcel Santilli:** Like you're planting seeds and you're constantly nurturing those seeds and improving and learning from those signals, you know?
+
+**Marcel Santilli:** And then the last thing I'll just show you super quick is like Augment Code.
+
+**Marcel Santilli:** You know, this has only been three months and we started publishing July 22nd.
+
+**Marcel Santilli:** So, um, less than two months and this is already almost 2x the traffic that their entire blog gets for these guides that we've created, you know?
+
+**Marcel Santilli:** Um, and, and it's driven almost, uh, hundreds of signups.
+
+**Marcel Santilli:** Last time we checked last week was over 300 signups.
+
+**Mike McNeil | CEO:** It's kind of like, is any of this placed content?
+
+**Mike McNeil | CEO:** And then all separately from that, like the content that's hosted on our domain, like, how do you guys go about publishing that, uh, normally?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah, so great questions.
+
+**Marcel Santilli:** First of all, everything, we try to take it on ourselves.
+
+**Marcel Santilli:** I would say 95% of customers will let us, and we'll do it, including Webflow and RAM.
+
+**Marcel Santilli:** So every page here, we publish on the CMS ourselves, and we vet it, we QA it, we do all the metadata, everything, right?
+
+**Marcel Santilli:** And we also do all the monitoring and reporting weekly as well.
+
+**Marcel Santilli:** And then most customers, like, the content lives on their site, but for, like, Udemy, we're doing a newsletter.
+
+**Marcel Santilli:** For Augment Code, we also run their weekly newsletter on Beehive.
+
+**Marcel Santilli:** For Hypergrowth, we actually do, like, a substack for them as well.
+
+**Marcel Santilli:** And, yeah, and then it looks like for your CMS, you're doing, like, an MDX kind of thing, setup.
+
+**Mike McNeil | CEO:** Yeah, it just is markdown file, so there's, like, it'll be, there's, like, some custom meta tags at the bottom that you'll be able to match off of pretty easily.
+
+**Mike McNeil | CEO:** All of the content, handbook, docs, and articles are there.
+
+**Mike McNeil | CEO:** We're unusual in that we have an open handbook like GitLab, so we make everything public by default.
+
+**Marcel Santilli:** Love it.
+
+**Mike McNeil | CEO:** That's cool.
+
+**Mike McNeil | CEO:** The good news is it turns up a lot of traffic now.
+
+**Mike McNeil | CEO:** I would love ideas you guys have.
+
+**Mike McNeil | CEO:** I'll be more opinionated in that area.
+
+**Mike McNeil | CEO:** And then in the docs, I think there will be a little bit more opinionated.
+
+**Mike McNeil | CEO:** I'll tell you, we were built on this thing called osquery.
+
+**Mike McNeil | CEO:** It's got 300 tables.
+
+**Mike McNeil | CEO:** I used that playbook for SEO in my last open source project, and we copied basically those tables over, made documentation.
+
+**Mike McNeil | CEO:** It's the same format, like same basic way of editing it.
+
+**Mike McNeil | CEO:** So that's another thing you guys could have to work with.
+
+**Marcel Santilli:** Yeah, we've done that a few times.
+
+**Mike McNeil | CEO:** Okay, cool.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** So it actually probably makes our lives even easier a little bit.
+
+**Marcel Santilli:** I think the only bottleneck we've run into with kind of similar setup like that is sometimes...
+
+**Marcel Santilli:** It's like, obviously, it's like a pull request and you have to merge it.
+
+**Marcel Santilli:** And then who can merge it sometimes can be bottlenecked because engineers.
+
+**Marcel Santilli:** Yeah, so anyways, that's the only bottleneck, really.
+
+**Marcel Santilli:** It's just like if someone, over time, as we build trust with you, like, hopefully that doesn't cause, you know, Sam to hate us because he's got to spend half of his time betting.
+
+**Mike McNeil | CEO:** Merge pull requests within one business day.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** So that's the only thing we ran into in the past of, like, just, like, if there's, like, little nuances of over time, like, if we want to streamline that process.
+
+**Marcel Santilli:** And so what we'll do is week one and two is do just a walkthrough of how you do it today.
+
+**Marcel Santilli:** Just make sure we have all the same, you know, make sure, like, this is how we do it.
+
+**Marcel Santilli:** Walk us through.
+
+**Marcel Santilli:** We'll record that and create an SOP.
+
+**Marcel Santilli:** And that's what our team will follow is that SOP that we created, you know, based on that walkthrough of how you do publishing today.
+
+**Marcel Santilli:** And then if there's ways for us to streamline and automate it, that will allow us to, like, you know, redirect that bandwidth towards other things, a.k.a.
+
+**Marcel Santilli:** more content.
+
+**Marcel Santilli:** Our content enriching it and doing things like that.
+
+**Mike McNeil | CEO:** It'll be pull requests with us forever, but we're very, these are not engineers reviewing them.
+
+**Mike McNeil | CEO:** Everyone who starts here has to learn how to do this.
+
+**Mike McNeil | CEO:** So like I said, it's either Sam or I forget, it's either Sam or Mike Thomas or Eric.
+
+**Mike McNeil | CEO:** And yeah, we merge things super fast.
+
+**Mike McNeil | CEO:** You'll find that we're picky about capitalization a little bit.
+
+**Marcel Santilli:** So we might nitpick that a little bit, but other than that, yeah, it's funny you say that because we have a lot of customers that are kind of like that.
+
+**Marcel Santilli:** And so one of the things we've figured out really quickly is like having like a proofreader step makes a huge, huge difference.
+
+**Marcel Santilli:** So what we have is like proofreading checklists that we generate for you to just like make sure capitalization, formatting, things like that, you know, are.
+
+**Mike McNeil | CEO:** Yeah, I mean, Sam just linked to, so if you guys want.
+
+**Mike McNeil | CEO:** Work on that prompt.
+
+**Marcel Santilli:** That's our kind of writing guidelines from the handbook as well.
+
+**Marcel Santilli:** You guys are ahead of the curve.
+
+**Marcel Santilli:** So that means we just get to execution even faster, man.
+
+**Sam Pfluger | Head of Digital Workplace & GTM Systems:** That's awesome.
+
+**Mike McNeil | CEO:** Can you have an eight-week sprint with us?
+
+**Mike McNeil | CEO:** I think I'm guessing you guys probably have some materials where you can lay out like, hey, here's the time commitment and the people you'll need.
+
+**Marcel Santilli:** We'd love to have that.
+
+**Marcel Santilli:** That'll help us be more efficient.
+
+**Marcel Santilli:** Like what kind of pricing would we look at for this kind of like?
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** So I think the first caveat that I will say is that this is not a short-term thing, right?
+
+**Marcel Santilli:** Like, and you know this, you've done SEO plays before, but I can show you just an example of a company, Tierup, that we worked with.
+
+**Marcel Santilli:** They're super early on, but they didn't have a blog when they started working with us, right?
+
+**Marcel Santilli:** And then like today, like it's the majority of their business is coming from organic, you know, or datagrid.com, kind of similar thing.
+
+**Marcel Santilli:** Like they've grown and like literally like all their revenue is coming from traffic that's organically coming.
+
+**Marcel Santilli:** And so that's the same hope.
+
+**Marcel Santilli:** So the strategy spread is eight weeks.
+
+**Marcel Santilli:** And what you want to see is the quality, working with the team, and the right signals, as opposed to if you think you can realize full ROI in eight weeks, that's kind of the wrong mentality.
+
+**Marcel Santilli:** But you've done this before, so you kind of know this.
+
+**Marcel Santilli:** But I think we're the fastest and high quality possible.
+
+**Marcel Santilli:** And then so the eight weeks is 20k fixed fee.
+
+**Marcel Santilli:** And for those eight weeks, and in some cases, like we're publishing 10s of articles, you know, it's all about like, how quickly can we calibrate how quickly can we get alignment and sign off and, you know, on everything, the time commitment on your end is really ability for us to do the deep dives on the product, deep dives on your audience, you know, so it's a couple of those deep dives in addition to an hour kickoff.
+
+**Marcel Santilli:** And then after that, it's about 30 minutes, 30 minutes a week checkpoint with someone yourself or Sam, right?
+
+**Marcel Santilli:** Like, just make sure we're heading in the right direction.
+
+**Marcel Santilli:** And I would say like it ideally decreases the time of like the calibration, you know, but it is a process, right?
+
+**Marcel Santilli:** The first time around, we might get it wrong and you might be like, what the ?
+
+**Marcel Santilli:** Like, you know, and we're like, oh , where do we get wrong?
+
+**Marcel Santilli:** Why?
+
+**Marcel Santilli:** And then we'll calibrate, you know?
+
+**Marcel Santilli:** And so it's just like knowing that it's a process and the idea is not to go from zero to perfect, press a button, call it a day and it's done, but rather like continue to improve it and build leverage along the way, you know?
+
+**Marcel Santilli:** And then after that, we go into growth execution.
+
+**Marcel Santilli:** It's about, you know, 12K a month.
+
+**Marcel Santilli:** And the way to think about it is like, ultimately, like we're publishing daily for you and you don't have to hire, you know, an agency, a head of content, multiple editors, buy a bunch of tools, like we're doing it end to end, you know?
+
+**Mike McNeil | CEO:** Cool.
+
+**Mike McNeil | CEO:** Well, I think that sounds like, I think I'm probably the guy that you'll work with for most of the initial bits.
+
+**Mike McNeil | CEO:** Might bring you guys an example of...
+
+**Mike McNeil | CEO:** So you can hear the words they use, that kind of thing.
+
+**Mike McNeil | CEO:** Exactly.
+
+**Mike McNeil | CEO:** So me and this guy Brock, so let me give you his email.
+
+**Mike McNeil | CEO:** I think these are the two, and Sam evaluates all our new tools, so he probably won't be as involved that much after this.
+
+**Mike McNeil | CEO:** This is more of like a service, you know, related services relationship.
+
+**Mike McNeil | CEO:** So, yeah, I mean, if you guys could send over, if you guys wouldn't mind sending the contracts to me for the...
+
+**Marcel Santilli:** Yeah, yeah, we'll send that over.
+
+**Marcel Santilli:** And then the only thing, and I promise it's not BS, it's like we're usually like four weeks out on kickoffs because we only do two kickoffs a week, you know.
+
+**Marcel Santilli:** But I'll send you, we'll, Tyler will send you over like the next kickoffs available, but we can move super, super fast once we nail that down.
+
+**Marcel Santilli:** But like we're super streamlined, the process is super de-risk because, you know, the commitment is those eight weeks.
+
+**Marcel Santilli:** And then at that point, you can fire us, we can fire you, and then it opts into a 12-month commitment, you know, from...
+
+**Marcel Santilli:** From there, and so far, knock on wood, we've had 100% conversion, but we'll share all of those details, and then if we want to do another deep dive, we can do that, and we can, you know, go from there, and, you know, we're super, super excited, and also, like, to prove it out also, because a friend of Reed's is, you know, a portfolio company is, as like VIP, if you will, you know, so we want to make sure we do a really good job.
+
+**Mike McNeil | CEO:** Cool, I'm just trying to think of all the logistical stuff I can, and dump it in the chat for you.
+
+**Mike McNeil | CEO:** I'm a signer.
+
+**Marcel Santilli:** If you guys wouldn't mind going straight to DocuSign, that'll save us even more time.
+
+**Mike McNeil | CEO:** Honestly, after that, if you guys wouldn't mind just sending calendar events for when you want those things to be, that'll get my EA, we'll start working on fixing it, and we'll work with you guys on that, and that way she'll know what she'll do.
+
+**Marcel Santilli:** And we can add you guys to a Slack channel as well, so that it's super easy to communicate, and things like that, and so, we have, I have to run, but, we'll, we'll send you all the details, and, and then.
+
+**Marcel Santilli:** Like, we can coordinate everything.
+
+**Marcel Santilli:** Everything is super standard, clear, but also, like, I'm sure you might have questions, so we're happy to kind of work through those as well.
+
+**Mike McNeil | CEO:** Yeah, and I'm happy to do the Slack channel.
+
+**Mike McNeil | CEO:** I mean, no need to do it immediately, but yeah, as far as I'm concerned, we can, I'll see you at the kickoff, and I'll sign it whenever, and then if you have it on the calendar, I'll be there.
+
+**Mike McNeil | CEO:** Awesome, man.
+
+**Marcel Santilli:** Mike, I'm super excited, man.
+
+**Mike McNeil | CEO:** Same here.
+
+**Marcel Santilli:** See you guys later.
+
+**Tyler Pavlas:** All right, see ya.
+
+**Tyler Pavlas:** Thanks, Mike.

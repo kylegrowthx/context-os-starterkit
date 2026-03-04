@@ -1,0 +1,241 @@
+# Abnormal <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-10-23
+time: 17:56 UTC
+duration: 6 minutes
+organizer: mariana@growthxlabs.com
+participants: Mara Leighton (GrowthX), Mariana Montezzana (GrowthX), Meaghan Winston (Abnormal), Emily Burns (Abnormal), Abdallah AlHakim (Abnormal)
+fathom_recording_id: 96380269
+fathom_url: https://fathom.video/calls/449944963
+share_url: https://fathom.video/share/-ez7yEAyyk5xizuz5cxxUShHsfPN2yCB
+source: fathom
+enriched_on: 2026-03-02 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+Meaghan Winston (Abnormal's Head of Content) briefed GrowthX on an accelerated website replatform from Craft to Contentstack with a March 1st go-live—compressed from an original June/July timeline. Abnormal has never done SEO on evergreen content and has significant technical issues flagged by a Screaming Frog audit, presenting a major opportunity to implement keyword strategy, improve Core Web Vitals, add schema markup, and unify fragmented content (currently split across two glossaries). GrowthX will lead keyword strategy research while Abnormal handles content framework development and CRO optimization, with both teams coordinating over Slack as Abnormal builds its site map.
+
+---
+
+## Context
+
+Abnormal Security is a cybersecurity company that GrowthX has been working with for some time. The relationship includes past SEO work (a prior site audit by GrowthX identified some foundational issues) and ongoing delivery support. Abdallah AlHakim (who drives traffic growth as a key goal) and Meaghan Winston (Head of Content, leading the technical replatform project) are spearheading the website transformation.
+
+The motivation for this meeting was to align on SEO strategy before the replatform launches. Abnormal has been constrained by Craft CMS (which proved painful to use) and saw an earlier domain name change that temporarily hurt traffic. Now with Contentstack as the new platform, they have a rare window to fix foundational SEO problems—no existing evergreen SEO strategy, poor Core Web Vitals, fragmented content structure, and two separate glossaries that confuse users. The March 1st go-live is aggressive, making early alignment on keyword research critical.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- New engagement type: keyword strategy research for Abnormal's replatform (first-time keyword work internally for the client). GrowthX owns this workstream starting immediately.
+- Tight timeline coordination required — March 1st go-live means all keyword recommendations must feed into Abnormal's content framework and site map before launch.
+- Opportunity to implement full SEO stack: technical optimization (Core Web Vitals, schema markup, site structure) integrated with keyword strategy during CMS migration.
+
+**To GrowthX Business Development:**
+- Abnormal is expanding GrowthX's scope from audit-only to hands-on SEO delivery, indicating stronger trust and account depth.
+- Account health signals are positive: client is investing in major platform upgrade and seeking GrowthX partnership on critical path workstreams (not peripheral tasks).
+- Potential for content strategy expansion — Meaghan mentioned developing multi-series blog content and unified content framework, areas where GrowthX could add value beyond keyword research.
+
+---
+
+## Overview
+
+- **Website Replatform:** Abnormal is replatforming from Craft to Contentstack, targeting a **March 1st go-live**. This expedited timeline requires immediate SEO collaboration.
+- **SEO Focus:** The replatform is a chance to fix major SEO issues (e.g., no prior evergreen SEO, poor Core Web Vitals) and implement a comprehensive strategy, including keyword research and schema markup.
+- **Content Strategy:** The content team will create a new framework to ensure a unified strategy across all content types. Blog content may be scaled back to simplify the difficult migration.
+- **GrowthX Role:** GrowthX will provide SEO support, starting with keyword strategy, to help Abnormal achieve its primary goals: increasing traffic (Abdallah) and improving conversion (Meaghan).
+
+---
+
+## Key Topics
+
+### Website Replatform & Timeline
+
+  - Abnormal is replatforming from Craft CMS to Contentstack.
+      - **Rationale:** Contentstack offers a scalable, efficient CMS with better content governance and guardrails.
+  - The go-live date is **March 1st**, an expedited timeline from the initial June/July estimate.
+
+### Current SEO & Content Issues
+
+  - **SEO:** No prior SEO on evergreen content; a recent Screaming Frog audit confirmed significant technical issues.
+  - **Content:**
+      - **Disorganized:** Two separate glossaries (AI and general) create a poor user experience.
+      - **Fragmented:** The content team was not involved in the last redesign, resulting in a disconnected strategy.
+      - **Migration Risk:** Blog content is the most difficult to migrate, prompting consideration of scaling it back.
+
+### SEO & Content Strategy for the New Site
+
+  - The replatform is a strategic opportunity to implement a full SEO and content strategy.
+  - **SEO Improvements:**
+      - **Technical:** Better Core Web Vitals → improved indexing.
+      - **On-Page:** New templates and modules for schema markup (e.g., FAQ schema).
+      - **Site Structure:** Stronger sitemaps.
+  - **Content Strategy:**
+      - Develop a unified content framework (evergreen, landing pages, blog).
+      - Create multi-series blog content for the new site.
+      - Consolidate the two glossaries into one.
+  - **CRO:** Meaghan will develop a Conversion Rate Optimization (CRO) framework to improve user journeys.
+
+### GrowthX Collaboration
+
+  - GrowthX will provide SEO support throughout the replatform.
+  - **Initial Focus:** Keyword strategy, as Abnormal has not performed this internally.
+  - **Process:** GrowthX will review pages and provide recommendations; Abnormal will share its site map for this work.
+
+---
+
+## Action Items
+
+**Meaghan Winston (Abnormal)**
+- Draft CRO framework for new site
+- Complete site map (Screaming Frog vs Craft); share with Mara Leighton (GrowthX) for keyword strategy research
+
+**Mara Leighton (GrowthX)**
+- Coordinate with Meaghan on keyword strategy delivery; review site map as it becomes available
+- Offer support over Slack for ongoing collaboration during the replatform build
+
+---
+
+## Transcript
+**Meaghan Winston:** Um, so aligned with this conversation, um, one, I know that we have not done any SEO on our evergreen web content, which is super problematic.
+
+**Meaghan Winston:** Um, we have Screaming Frog internally now.
+
+**Meaghan Winston:** So I, I ran an audit yesterday and like have an issues report.
+
+**Meaghan Winston:** I'll be putting together a technical audit.
+
+**Meaghan Winston:** And so like, that'll kind of inform a little bit of our like evergreen strategy.
+
+**Meaghan Winston:** Um, but importantly, uh, we are actually replatforming the website from craft to a new CMS.
+
+**Meaghan Winston:** Um, it's looking, you guys don't know this yet.
+
+**Meaghan Winston:** It's like, I'm 99% sure it's going to be content stack.
+
+**Meaghan Winston:** Um, which is great.
+
+**Meaghan Winston:** In my opinion, I've worked with content stack before.
+
+**Meaghan Winston:** I love it.
+
+**Meaghan Winston:** It's, um, a super efficient, like highly scalable CMS, which will also give people, um, a lot better like governance over their own content creation while still putting in really strict guardrails.
+
+**Meaghan Winston:** so, you know, I think we'll have a little bit more flexibility, but the content that we, sorry, if can hear.
+
+**Meaghan Winston:** Right.
+
+**Meaghan Winston:** With the type of content that we're putting out.
+
+**Meaghan Winston:** And so there's a couple of things here.
+
+**Meaghan Winston:** You know, I think we're going to need some like SEO input, obviously, on web page optimization.
+
+**Meaghan Winston:** I think this is a good time to like align on blog strategy and looking at what's successful.
+
+**Meaghan Winston:** Like I said, creating some multi-series blog content that we can kind of carry over into the new site.
+
+**Meaghan Winston:** The reason why I mentioned potentially scaling back is because we're going to also have to port all of this over.
+
+**Meaghan Winston:** And blog content is probably the most difficult to migrate from CMS to CMS.
+
+**Meaghan Winston:** I really want to work with Emily and the content team on actually creating a content framework.
+
+**Meaghan Winston:** And so that's also where maybe this work will come into play.
+
+**Meaghan Winston:** Because from what I understand, unfortunately, the content team wasn't really involved in the second redesign that we had.
+
+**Meaghan Winston:** And so I think this is a really good opportunity for like a really strong content strategy.
+
+**Meaghan Winston:** across the board from evergreen content to landing pages to blog content.
+
+**Meaghan Winston:** We're going to get a much more efficient website, which means that our core web vitals are going to be better, which means that our indexing is going to be better.
+
+**Meaghan Winston:** We have a lot more opportunity to build out like modules with schema and ensuring that we're using like FAQ schema, like strong site maps.
+
+**Meaghan Winston:** We're going to be looking at new templates and all of that.
+
+**Meaghan Winston:** So I think that there's going to be a lot of area for improvement.
+
+**Meaghan Winston:** And so I just want to figure out how all of us with the agreement that you have can like kind of work together on the right SEO strategy.
+
+**Meaghan Winston:** So the go live is by March 1st.
+
+**Meaghan Winston:** I wanted to do this, but I wasn't thinking it would be March. I was thinking more like June or July. So it's an expedited timeline, but I'm very, very excited for this.
+
+**Emily Burns:** I'm just so ready to not use Craft anymore.
+
+**Meaghan Winston:** The other thing I want to do, I hate that we have two glossaries.
+
+**Meaghan Winston:** I don't think that it makes any sense.
+
+**Meaghan Winston:** think AI and the regular one.
+
+**Mariana Montezzana:** It just needs to be one.
+
+**Meaghan Winston:** Yeah.
+
+**Meaghan Winston:** So that's my first thing is like, you know, I think we have too much content and we don't have a good user journey because we take people in too many different directions.
+
+**Meaghan Winston:** And so, you know, another thing we're looking at developing a little bit more.
+
+**Meaghan Winston:** So I'll be building a CRO framework for all of this.
+
+**Meaghan Winston:** Um, yeah, it's, we're, we're deciding on our CMS this week and pretty much running straight to launch.
+
+**Meaghan Winston:** So, um, yeah, that's great.
+
+**Mara Leighton:** Um, also thank you, A, for letting us know B, that's very exciting.
+
+**Mara Leighton:** Um, also we would love to be helpful and be involved.
+
+**Mara Leighton:** So whatever the most like efficient way of doing that is like, even if it's going through each individual version or like page and we can just go through recommendations, um, we'd be happy to do that.
+
+**Mara Leighton:** So, um, yeah, think definitely keyword strategy is like first for us because.
+
+**Meaghan Winston:** I've never really done that before internally, so I'm already pulling together a site map, a list of all of our pages.
+
+**Meaghan Winston:** I've got that started.
+
+**Meaghan Winston:** Screaming Frog just doesn't pull everything, so I've got to map that out against what's in craft, but yeah, there's definitely a lot of work to do, so very exciting.
+
+**Meaghan Winston:** That's awesome.
+
+**Mara Leighton:** Okay, well, yeah, feel free to ping us over Slack if there's anything that you want to discuss while you're working on things, and we would love to be helpful.
+
+**Meaghan Winston:** Thank you, Abdallah, for letting me steal a couple of minutes of your time.
+
+**Abdallah AlHakim:** Yeah, they've been through a lot with it.
+
+**Abdallah AlHakim:** When we started with them, we did the whole website redesign and the domain name change, which probably hurt us for a month or so.
+
+**Abdallah AlHakim:** They went through pattern.
+
+**Abdallah AlHakim:** They had to go through, unfortunately, and use craft CMS, which was painful.
+
+**Abdallah AlHakim:** They're not doing that anymore.
+
+**Abdallah AlHakim:** So it will be good.
+
+**Abdallah AlHakim:** It's worth noting the GrowthX team did an audit before the launch and identified some issues we faced—low hanging fruit. It's worth doing another full audit once we're onboard with the new platform too.
+
+**Abdallah AlHakim:** So, but yeah, and I think the journey part is really important for conversion part and stuff like that.
+
+**Abdallah AlHakim:** I still want to get like more traffic on the page, on the website.
+
+**Abdallah AlHakim:** That's still my goal.
+
+**Abdallah AlHakim:** I think the conversion journey will help us with conversion, which is really important too, but I want to get more traffic.
+
+**Meaghan Winston:** Yeah, 100%.
+
+**Mara Leighton:** Anything else?
+
+**Abdallah AlHakim:** Thanks, everyone.
+
+**Mariana Montezzana:** Thank you.

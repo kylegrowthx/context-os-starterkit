@@ -1,0 +1,583 @@
+# Frank / Georgemaine: Lovable Templates
+
+<metadata>
+date: 2026-02-26
+time: 08:01 UTC
+duration: 28 minutes
+organizer: georgemaine@growthx.ai
+participants: Georgemaine Lourens (GrowthX), Frank Slangen (35), Bob Wassermann (35)
+fathom_recording_id: 125505242
+fathom_url: https://fathom.video/calls/580519402
+share_url: https://fathom.video/share/K8WdfEJ8Yg6LMfiQeNaC6zE32qwTpNQQ
+source: fathom
+enriched_on: 2026-03-01 00:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+Georgemaine brought Frank Slangen and Bob Wassermann from 35 into a call to discuss GrowthX's Lovable template creation workflow. The current process is inefficient: Georgemaine manually generates prompts for 10 templates weekly, but the freelancers producing the templates deliver low-quality work that requires extensive feedback. Frank and Bob will take ownership of the entire workflow—from keyword to final template—aiming to produce high-quality, "almost custom-made" designs that attract SEO traffic. The team agreed on a 2-week discovery phase starting the following week, with Georgemaine providing all assets and arranging compensation through Renato.
+
+---
+
+## Context
+
+GrowthX partners with Lovable, a React-based no-code platform, to create SEO-driven templates targeting non-technical users (wedding planners, pet shop owners, small business owners) with Wix/Squarespace-level simplicity and quality. Each week, Georgemaine spins up 10 templates for different keywords and use cases, then coordinates with contractors to build them in Lovable. The current contractor arrangement produces mediocre results, forcing Georgemaine to invest significant time in feedback loops and revisions. This meeting was called to onboard 35—an external design and development firm with design expertise (Frank) and development/AI tools proficiency (Bob)—to take over the template creation workflow entirely. This is strategically important because Lovable has also expressed interest in app templates, so scaling template creation opens new revenue opportunities.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Template creation workflow is bottlenecked by Georgemaine's personal involvement; outsourcing to 35 frees up capacity for strategic work.
+- Tech stack alignment: 35 can work with React/Tailwind/ShadCN (35's preferred stack) or connect their own repo; either approach works with Lovable's API.
+- Quality bar is visual appeal and polish—designs must look "almost custom-made," not generic AI output.
+
+**To GrowthX Business Development:**
+- Lovable has already requested app templates as a future product. Scaling template creation with 35 positions GrowthX to capture this opportunity.
+- Templates drive SEO traffic and onboard new users to Lovable. SEO performance and user acquisition metrics directly reflect engagement quality.
+
+**To 35 Partnership:**
+- Two-week discovery phase is paid by GrowthX (via Renato) to define the scalable workflow and validate 35 can meet quality expectations.
+- Potential for ongoing, recurring work if the discovery phase succeeds (10 templates weekly minimum, possibly more).
+- Team has direct access to all GrowthX assets and tools; Georgemaine available for real-time feedback during discovery.
+
+---
+
+## Overview
+
+- **The Problem:** Growthx's current freelancers deliver low-quality templates, creating a feedback loop that consumes more of Georgemaine's time than if he built them himself.
+- **The Solution:** 35 will take ownership of the template creation workflow, aiming to produce high-quality, "almost custom-made" templates that attract SEO traffic.
+- **The Plan:** A 2-week discovery phase starts next week for 35 to define a scalable workflow. Georgemaine will provide all necessary assets and arrange payment via Renato.
+
+---
+
+## Key Topics
+
+### The Problem: Inefficient Template Creation
+
+  - Growthx creates SEO-driven templates for Lovable, targeting non-technical users (e.g., wedding planners, pet shop owners) with Wix/Squarespace-level quality.
+  - The current workflow is inefficient:
+      - Georgemaine manually generates prompts for 10 templates weekly.
+      - Freelancers produce low-quality results that require extensive feedback, making the process a net time loss.
+  - **Goal:** Offload this entire workflow to 35 to ensure consistent quality and free up Georgemaine's time.
+
+### The Solution: 35 Takes Ownership
+
+  - 35 will own the workflow from keyword to final template, focusing on high-quality, "almost custom-made" designs.
+  - **Tech Stack:** Lovable is React-based, with strong support for Tailwind and ShadCN.
+      - 35 can use this stack or connect a custom repo.
+      - The team agreed this stack is ideal, as AI tools (e.g., Cursor) are effective with it.
+  - **Scaling:** Lovable has expressed interest in app templates, creating a potential future opportunity.
+
+---
+
+## Decisions & Commitments
+
+**Georgemaine Lourens (GrowthX)**
+- Send green-light email to Frank & Bob by end of week, including onboarding package and system access
+- Email Renato to arrange compensation for 35's 2-week discovery phase
+- Make all necessary GrowthX assets available by the following Monday (start pack: design specs, keyword lists, example templates, Lovable access)
+- Remain available for feedback and input throughout the discovery phase
+
+**Frank Slangen & Bob Wassermann (35)**
+- Begin 2-week workflow discovery phase starting the following week
+- Define a scalable template creation workflow from keyword to final template
+- Aim to produce high-quality, "almost custom-made" designs using Tailwind/ShadCN stack
+- Explore workflow efficiency and whether React/connected-repo approach is better than design-tool approach
+
+---
+
+## Open Questions
+
+- How will 35 handle the Lovable design-tool vs. external-repo workflow trade-off? Will they use both approaches for different template types?
+- What is the quality bar for "almost custom-made"? 35 should establish visual examples or guidelines during discovery.
+- How much do templates typically get customized after delivery by Lovable users? (Georgemaine noted he doesn't have full insight into this.)
+- Will 35 be able to scale beyond 10 templates/week, or is that the sustainable target?
+- What does the Lovable app template opportunity look like? Should 35 scope this into discovery or handle separately?
+
+---
+
+## Transcript
+**Frank Slangen:** We had gestart vanuit het idee dat we allemaal vanuit onze eigen disciplines werken, engineers, designers.
+
+**Frank Slangen:** En we dachten van ja, weet je, als we daar gewoon één vlak boven zitten, kunnen we best wel gave dingen doen.
+
+**Frank Slangen:** Dus we hadden 35 eigenlijk begonnen, vanuit mijzelf dus als designer.
+
+**Frank Slangen:** En ik heb ernaartoe eigenlijk al sinds 2009 of zo, toen hij zelf net nog klaar was met zijn studie.
+
+**Frank Slangen:** Een beetje gefreelanced en leuke dingen gedaan samen en toen elkaar even een paar jaar uit het oog verloren.
+
+**Frank Slangen:** En sinds kort weer met growthx, ja, even leuker samengewerkt voor de jaarwisseling.
+
+**Frank Slangen:** En ja, goed, mijn achtergrond is vooral branddesign en de laatste jaren natuurlijk ook heel veel UI en UX en dat soort zaken.
+
+**Frank Slangen:** Want dat hoort daar gewoon bij.
+
+**Frank Slangen:** Dus ja, dat een beetje mijn persoonlijke achtergrond.
+
+**Georgemaine Lourens:** Leuk.
+
+**Bob Wassermann:** En ik ben Bob.
+
+**Bob Wassermann:** Ik, ja, vanzelf zei je al, opkoop van 35.
+
+**Bob Wassermann:** En ik ben voornamelijk verantwoordelijk voor de development-gerente.
+
+**Bob Wassermann:** En inderdaad ook...
+
+**Bob Wassermann:** AI tools als Cursor en Cloud en al die dingen.
+
+**Georgemaine Lourens:** Ik ga dat nu in ieder geval te grappen.
+
+**Georgemaine Lourens:** Oké, nou fijn.
+
+**Georgemaine Lourens:** Leuk om te horen.
+
+**Georgemaine Lourens:** En ook leuk dat jullie ook zelfvertig gaan met elkaar, met Renato enzo.
+
+**Georgemaine Lourens:** Ja.
+
+**Georgemaine Lourens:** Nou, waar ik een beetje tegenaan loop, is dat wij werken samen met Lovable.
+
+**Frank Slangen:** Ik weet niet of je van hun gehoord hebt.
+
+**Georgemaine Lourens:** Ja, zeker.
+
+**Georgemaine Lourens:** En een van onze workstreams voor hun is dat wij hun templates maken met de AI tools.
+
+**Georgemaine Lourens:** Ik kan wel even mijn scherm delen.
+
+**Georgemaine Lourens:** Misschien is dat wat makkelijker.
+
+**Georgemaine Lourens:** Dus, veel topjes.
+
+**Georgemaine Lourens:** Dus hun hebben templates, die zijn wij eigenlijk als het ware begonnen.
+
+**Georgemaine Lourens:** En dit zijn eigenlijk, het doel van die templates is natuurlijk gewoon via SEO klanten opvangen.
+
+**Georgemaine Lourens:** En dit
+
+**Georgemaine Lourens:** Dat het gebaseerd is op dit soort dingen van Wix.
+
+**Georgemaine Lourens:** Echt de meest basic templates ever.
+
+**Georgemaine Lourens:** Dit is dan een cv-agent, ziet er gewoon heel leuk uit en dat is dan op.
+
+**Georgemaine Lourens:** En wat wij dan vervolgens doen elke week is dat wij één zo'n ding aanpakken en dan gaan wij er tien templates voor maken.
+
+**Georgemaine Lourens:** En het proces dat wij meestal dan volgen is dat wij die keywords nemen en dan gaan we naar onze interne tool.
+
+**Georgemaine Lourens:** En hierin hebben wij heel veel context verzameld rondom wat Loveboy is.
+
+**Georgemaine Lourens:** Dus over het bedrijf, hoe we voor hun kunnen schrijven en welke persona's hun hebben en wat hun fears zijn en al dat soort dingen.
+
+**Georgemaine Lourens:** En hier hebben wij een hele AI omheen gebouwd en dit is ook afgestemd met hun.
+
+**Georgemaine Lourens:** En op basis van dat gaan we dan een aantal use cases verzinnen voor die templates.
+
+**Georgemaine Lourens:** Dus dan ga ik gewoon hierin en dan voelt hij hier.
+
+**Georgemaine Lourens:** Het document is dan nu verdwenen.
+
+**Georgemaine Lourens:** ook een aantal
+
+**Georgemaine Lourens:** Dan ik gewoon even kletsen met de AI om te kijken van oké, wat zijn nog veel die 10 use cases die we kunnen verzinnen voor zo'n template.
+
+**Georgemaine Lourens:** En daar komt dan een hoop uit.
+
+**Georgemaine Lourens:** En vervolgens gaan we dan aan de hand van hoe ingewikkeld de template is, dan gooi ik dat gewoon in onze AI generator, om het zo te zeggen.
+
+**Georgemaine Lourens:** En wat deze dan output is, op basis van wat je vraagt, dus stel je voor, ik zou zeggen van single pager, CV.
+
+**Georgemaine Lourens:** En dan kan je nog iets dieper erop ingaan.
+
+**Georgemaine Lourens:** En dan kan je ook hier wat extra context geven, dan krijg je een prompt.
+
+**Georgemaine Lourens:** En die prompt geven we dan aan Lovable zelf.
+
+**Georgemaine Lourens:** En dan gaan we daarvan een template genereren.
+
+**Georgemaine Lourens:** Zit ik nu in Lovable?
+
+**Georgemaine Lourens:** Ik kan me even een leuk voorbeeldje geven, misschien.
+
+**Georgemaine Lourens:** Ja, dit is wel leuk.
+
+**Georgemaine Lourens:** Ja, dan...
+
+**Georgemaine Lourens:** Ga ik een hele hoop back and forth en uiteindelijk komt dan hier iets uit en dat leveren wij dan op en daarnaast wordt dit vervolgens ook op lovable zelf gezet en daar hebben wij ook een workflow voor.
+
+**Georgemaine Lourens:** Dus dit is dan één workflow die de spec maakt en als je het niet volgt moet je het even zeggen want dit is heel goed.
+
+**Frank Slangen:** Zeker.
+
+**Frank Slangen:** Maar even voor mijn beeld, je maakt dus echt de hele template van de UI zelf dus het gaat niet om de themes die je in lovable kunt maken want dat heb je natuurlijk ook nog om de prompt een beetje een richting te geven van kleuren, typografie, dat soort zaken.
+
+**Frank Slangen:** Dat is niet wat je ermee bedoelt.
+
+**Georgemaine Lourens:** Nee, dat zit er wel in.
+
+**Georgemaine Lourens:** Want als je kijkt naar zo'n spec die wij genereren, even kijken, dan zit er wel een soort van design systeempje in.
+
+**Georgemaine Lourens:** Dus lovable werkt heel goed met Tailwind.
+
+**Georgemaine Lourens:** En heel erg goed met ShadCN.
+
+**Georgemaine Lourens:** Dus onze AI schrijft dan ook gewoon daar een team voor.
+
+**Georgemaine Lourens:** En hoe beter je daarmee om kan gaan in je prompt, hoe makkelijker het wordt.
+
+**Georgemaine Lourens:** Maar eigenlijk kan je templates maken voor Lovable hoe je het ook wilt.
+
+**Georgemaine Lourens:** Je kan ook gewoon een repo connecten en dan kan je gewoon een cloud of cursor koppelen.
+
+**Frank Slangen:** En dan kan je vanuit daar gaan werken als je wilt.
+
+**Frank Slangen:** Of je kan gewoon via de design tool.
+
+**Georgemaine Lourens:** Ik deed dat in het begin heel erg veel.
+
+**Georgemaine Lourens:** Maar op een gegeven moment ben je er ook wel klaar mee.
+
+**Georgemaine Lourens:** En dan wil je er gewoon zo min mogelijk tijd aan besteden.
+
+**Georgemaine Lourens:** En zoveel mogelijk output uitkrijgen.
+
+**Georgemaine Lourens:** In plaats van dat je de mooiste, beste dingen gaat maken.
+
+**Georgemaine Lourens:** Maar goed.
+
+**Georgemaine Lourens:** Nou, wanneer deze template een beetje klaar is.
+
+**Georgemaine Lourens:** En het moet gewoon een beetje een simpele use case hebben.
+
+**Georgemaine Lourens:** Bijvoorbeeld zo'n wedding ding.
+
+**Georgemaine Lourens:** Dat is best wel simpel.
+
+**Georgemaine Lourens:** Dan gaan we ook nog een pagina ervoor genereren.
+
+**Georgemaine Lourens:** Dus die pagina, die zijn...
+
+**Georgemaine Lourens:** ...
+
+**Georgemaine Lourens:** ...
+
+**Georgemaine Lourens:** Die pagina's zijn eigenlijk gewoon volgepropt met keywords.
+
+**Georgemaine Lourens:** Dus je hebt een paar highlights, hebt hier gewoon een hoop teksten waar hopelijk iemand op Google naar zoekt.
+
+**Georgemaine Lourens:** En hier heb je nog wat features.
+
+**Georgemaine Lourens:** En dit zijn allemaal dingen die wij gewoon automatisch genereren.
+
+**Georgemaine Lourens:** En daar is deze workflow voor.
+
+**Georgemaine Lourens:** Dus zodra die template klaar is, dan assign ik hem hier aan iemand.
+
+**Georgemaine Lourens:** Want deze zijn nu dus teruggegooid naar mij.
+
+**Georgemaine Lourens:** En dan gaat die hiermee aan de slag.
+
+**Georgemaine Lourens:** En dan krijgen we dan kopieën voor.
+
+**Georgemaine Lourens:** En daarna kunnen we nog een workflow aanzetten die hem dan publiceert op lovable.com.
+
+**Georgemaine Lourens:** En dan hopelijk gaan we dan de resultaten tracken.
+
+**Georgemaine Lourens:** Dat is ongeveer de hele workflow.
+
+**Georgemaine Lourens:** En waar ik heel erg hulp bij nodig heb, is eigenlijk dit hele stukje van keyword naar template.
+
+**Georgemaine Lourens:** een maakpleet.
+
+**Georgemaine Lourens:** Met
+
+**Georgemaine Lourens:** Overnemen, want ik ben hier nu elke week 10 dingen voor aan het maken en op een gegeven moment hebben we geprobeerd samen te werken met wat freelancers, alleen hun kwaliteit gaat gewoon een beetje omlaag.
+
+**Georgemaine Lourens:** Dus om een beetje een voorbeeld te geven, de allereerste contract waarmee wij hebben gewerkt, wacht nee dit is verkeerd.
+
+**Georgemaine Lourens:** Dit is een beetje het kwaliteit dat hij deze week heeft opgeleverd.
+
+**Georgemaine Lourens:** Nou ja, ik denk dat je al aan de thumbnails kan zien dat dit niet echt super aantrekkelijk is of spannend.
+
+**Georgemaine Lourens:** En ja, ik kan hier weinig mee en ik denk dat het mij heel erg veel tijd kost om hem feedback te geven, om dit op een punt te krijgen waarin het a, bruikbaar is, maar daarnaast ook een beetje visueel aantrekkelijk.
+
+**Georgemaine Lourens:** Want ik denk die twee dingen zijn heel belangrijk.
+
+**Georgemaine Lourens:** En dat zou ik het liefst willen overdragen aan jullie.
+
+**Georgemaine Lourens:** Dat jullie dit eigenlijk gewoon een beetje kunnen ownen.
+
+**Frank Slangen:** En daarbij gewoon goede kwaliteit opleveren.
+
+**Georgemaine Lourens:** En Renato heeft altijd gezegd dat het gewoon vrij weinig input van hem nodig heeft om jullie op dat niveau te krijgen.
+
+**Georgemaine Lourens:** Dus dat is gewoon helemaal top.
+
+**Georgemaine Lourens:** En daarbinnen zie ik ook nog wel, er is wel ruimte om dit een beetje op te schalen in die zin.
+
+**Georgemaine Lourens:** Want wij, Laffable geeft ons wel die ruimte om dat zo te zeggen.
+
+**Georgemaine Lourens:** Dus wat wij op dit moment vooral aan het doen zijn, zijn websites.
+
+**Georgemaine Lourens:** Maar hun hebben al meerdere keren gevraagd of wij niet ook kunnen werken aan appjes.
+
+**Georgemaine Lourens:** Dus in hun eigen...
+
+**Georgemaine Lourens:** Eigen...
+
+**Georgemaine Lourens:** Maar dat is het een beetje in de nutshell.
+
+**Georgemaine Lourens:** Ik zou het liefst dit willen overdragen aan jullie, zodat jullie gewoon elke week gewoon op basis van een keyword minimaal tien van deze dingen kunnen opleveren.
+
+**Georgemaine Lourens:** Of vijf.
+
+**Georgemaine Lourens:** Ik vind het ook niet erg om het te splitten.
+
+**Georgemaine Lourens:** Zolang het mij maar gewoon minder tijd kost dan het het nu kost.
+
+**Georgemaine Lourens:** En als jullie willen zeggen, op een gegeven moment denken wij dat we meer aan kunnen als jullie dit überhaupt willen doen.
+
+**Georgemaine Lourens:** Dan is daar ook ruimte voor.
+
+**Georgemaine Lourens:** Dus ik ga even hier pauzeren.
+
+**Georgemaine Lourens:** En misschien kun je even vertellen hoe jullie hier over nadenken of wat je wil weten.
+
+**Frank Slangen:** Ja, het klinkt heel gaaf.
+
+**Frank Slangen:** Ik moet als designer denk ik dan altijd van, ik wil een hele huisstijl opwerpen en een design system creëren.
+
+**Frank Slangen:** Dat is hier niet per se het geval.
+
+**Frank Slangen:** Het gaat wel even om de styling echt scherp te krijgen en gewoon echt gelikt.
+
+**Frank Slangen:** Je ligt de template te designen.
+
+**Frank Slangen:** Dus ik denk zeker dat dat mogelijk is.
+
+**Frank Slangen:** Ik denk dat dat gewoon nog iets is dat je gewoon moet gaan doen en moet gaan zien hoe het werkt.
+
+**Frank Slangen:** En kijk, de voorbeelden die je laat zien, dat schreef gewoon een beetje AI, zeg maar.
+
+**Frank Slangen:** Als ik eerlijk ben, die laatste dan, die laatste paar voorbeelden.
+
+**Frank Slangen:** En ik denk dat je dat, dat moet je gewoon niet hebben.
+
+**Frank Slangen:** Je moet eigenlijk iets hebben staan dat je echt laat zien alsof het bijna custom made is, zeg maar.
+
+**Frank Slangen:** En ja, ik denk zeker dat dat dat mogelijk is.
+
+**Frank Slangen:** Ik denk ook even naar Bob.
+
+**Bob Wassermann:** Ja, zeker weten.
+
+**Bob Wassermann:** Misschien nog twee vragen.
+
+**Frank Slangen:** Super gaaf overigens.
+
+**Frank Slangen:** Maar de vraag die het had is, Georgemaine, is er een bepaalde stack waar we ons aan moeten houden?
+
+**Bob Wassermann:** het allemaal react-based of het maakt niet zo heel veel uit?
+
+**Georgemaine Lourens:** Ik, dat is een goede vraag.
+
+**Georgemaine Lourens:** Ik denk dat, ja, Lovable is natuurlijk heel moeilijk om te weten wat we allemaal intern doen.
+
+**Bob Wassermann:** Maar wat wij hebben begrepen is dat...
+
+**Georgemaine Lourens:** Het vooral, het runt op fight en het gebruikt React en ja, Tailwind werkt natuurlijk heel goed, maar ik denk dat je ook natuurlijk, het ligt eraan hoe je het gaat benaderen.
+
+**Georgemaine Lourens:** denk dat je even je eigen workflow daarbinnen moet zoeken.
+
+**Georgemaine Lourens:** Als jij gewoon vooral technisch bent en daarbinnen je eigen workflow kan vinden, dan kan je in principe gewoon een kaal project opzetten en Lovable heeft ook een API waarmee je kan kletsen en dan kan je gewoon dat opzetten.
+
+**Georgemaine Lourens:** En ja, het ligt eraan.
+
+**Georgemaine Lourens:** Je hoeft je niet ergens aan te houden.
+
+**Georgemaine Lourens:** Ik denk dat het wel makkelijker is om gewoon React, Fight, Tailwind, Firmermotion, dat soort dingen te doen.
+
+**Georgemaine Lourens:** Maar als je daar creatief in wil gaan worden, ligt eraan hoeveel tijd je eraan wil besteden, maar ik vond tien templates.
+
+**Bob Wassermann:** Ik denk dat dat een prima stack is die ook AI kan begrijpen.
+
+**Bob Wassermann:** Ja, dus.
+
+**Bob Wassermann:** AI staan voor deelwerking van CSSN, dat is een hele goede vertrekpunt, dat is duidelijk.
+
+**Bob Wassermann:** Tweede puntje dat ik had is, en dat is misschien een beetje meer over de workflow die mensen hebben met die templates, openen de mensen zo'n template en gaan dan heel veel aanpassen, dus dat je vooral invullen en dan is het van hun.
+
+**Bob Wassermann:** Heb je daar enig ideeën, hoe ze daarmee omgaan?
+
+**Georgemaine Lourens:** Ja, dat is een goede vraag.
+
+**Georgemaine Lourens:** Daar heb ik even heel weinig inzicht in.
+
+**Georgemaine Lourens:** Wat ik denk is dat het voornamelijk een beetje wordt gebruikt als een marketing tool op dit moment.
+
+**Georgemaine Lourens:** Gewoon mensen aantrekken en dan hopelijk dat ze Lovable meer gaan gebruiken als een prototyping tool.
+
+**Georgemaine Lourens:** Niet zozeer dat het een template is waar hun echt een bedrijf moet bouwen, maar ik kan daar wel even achter nagaan als dat zou helpen.
+
+**Frank Slangen:** Dus het is vooral een binnenkoma, toch?
+
+**Frank Slangen:** Voor nieuwe klanten eigenlijk, zoals je kunt zien.
+
+**Georgemaine Lourens:** Ja, inderdaad.
+
+**Bob Wassermann:** kunnen ook gewoon meer experimenteren, dat komt ook wel uit.
+
+**Georgemaine Lourens:** Ja, ik zou vooral even proberen.
+
+**Georgemaine Lourens:** Ik denk dat er heel veel mogelijkheden zijn en dat je gewoon even moet kijken waar je ongeveer heen wilt gaan en wat het beste werkt voor jullie, als je weer interesse in.
+
+**Frank Slangen:** Een van mijn beeld, die templates.
+
+**Frank Slangen:** Wat is de doelgroep exact, zeg maar?
+
+**Frank Slangen:** Zijn dat echt de eenpitters, de kleine freelancers?
+
+**Frank Slangen:** Ik heb het gevoel, ook als je kijkt naar growthx, de dashboard dat je net liet zien, zie je dat vergelijking met Wix, Wix en dat soort websites, frame-up.
+
+**Frank Slangen:** Zijn dat dan ook de mensen waar je die wil binnenhalen, zeg maar?
+
+**Frank Slangen:** Ik neem aan dat je daar niet de grote agencies mee wil aantrekken, zeg maar.
+
+**Georgemaine Lourens:** Nee, klopt.
+
+**Georgemaine Lourens:** Wij hebben de personas binnengekregen van Lovable zelf.
+
+**Georgemaine Lourens:** En waar hun vooral een beetje op zitten, zijn dan als ICP.
+
+**Georgemaine Lourens:** En dat is ook heel fuzzy en ook goed in.
+
+**Georgemaine Lourens:** Maar wat ik persoonlijk een beetje heb gemerkt, en dat is mijn eigen gevoel, is dat de mensen die hun willen targeten en de mensen die waarschijnlijk de templates gaan gebruiken, zijn heel verschillend.
+
+**Georgemaine Lourens:** ik denk dat je hier op de ene bitters inderdaad moet gaan zitten.
+
+**Georgemaine Lourens:** En bijvoorbeeld de meest populaire keywords zijn dan echt weddingwebsites of zo.
+
+**Frank Slangen:** Ja, ja.
+
+**Georgemaine Lourens:** Een pet shop, echt van die mensen die eigenlijk gewoon nul technische kennis hebben en gewoon een templateje willen fixen.
+
+**Georgemaine Lourens:** En dat is niet per se de mensen die ze willen hebben, maar het zijn wel de mensen waar de vraag groot bij is.
+
+**Georgemaine Lourens:** En daarom gebruiken we vooral Squarespace een beetje als voorbeeld.
+
+**Frank Slangen:** Ah ja, natuurlijk.
+
+**Georgemaine Lourens:** Ik denk dat een beetje heel erg aanspreken en Wix is nou eenmaal heel erg groot daarbinnen.
+
+**Georgemaine Lourens:** Omdat we wel die use cases coveren.
+
+**Georgemaine Lourens:** ja, ik denk dat voor mensen zoals Framer is dat niet zo.
+
+**Frank Slangen:** Even een soort proces achter elkaar nu te zetten.
+
+**Frank Slangen:** En ik denk als je dat echt hebt staan, dan kun een heel krachtige output leveren, bedenking.
+
+**Georgemaine Lourens:** Ja, ik vind dat dan wel een stukje makkelijker, omdat ik niet hoef te ontdekken of jullie goed werk kunnen opleveren.
+
+**Georgemaine Lourens:** Ik denk dat het meer zo is van hoe kunnen wij een workflow opzetten waarin dit gewoon heel makkelijk gaat schalen.
+
+**Georgemaine Lourens:** En daar wil ik best wel even ruimte voor geven.
+
+**Georgemaine Lourens:** En Renato, qua vergoedingen en zo, Renato regelt dat meestal met jullie.
+
+**Georgemaine Lourens:** Maar ik zal hem daar ook even voor inschakelen.
+
+**Georgemaine Lourens:** En dan kunnen jullie dat even onderling oplossen.
+
+**Georgemaine Lourens:** Maar ik denk dat dat wel goed komt.
+
+**Frank Slangen:** Ja, zeker.
+
+**Georgemaine Lourens:** Maar mocht je daar nog vragen over hebben, dan moet je het maar even laten weten.
+
+**Frank Slangen:** Maar je hebt ook gedacht dat het zo'n Renato, toch?
+
+**Frank Slangen:** Nee, ja, zeker.
+
+**Frank Slangen:** Ik heb volgens vertrouwen dat dat goed komt.
+
+**Frank Slangen:** Ik denk dat Bob en ik gewoon even gaan brainstormen van, goh, hoe kunnen we nu de meest iets...
+
+**Frank Slangen:** Ja, kan ik met u zijn natuurlijk.
+
+**Frank Slangen:** Ja, ook wat daar het handigste in is voor jullie, dat klinkt wel logisch eerlijk gezegd, denk ik.
+
+**Frank Slangen:** Dat zou het handigste zijn, ja, zoals je dat kunt bedenken, ja.
+
+**Georgemaine Lourens:** Oké, en is dat dan iets wat jullie misschien ergens, weet ik of wat, volgende week willen oppikken of over twee weken?
+
+**Georgemaine Lourens:** Ik weet niet wat jullie timeline, jullie schema is, als het ware.
+
+**Frank Slangen:** Ik kijk ook even naar Bob, we zouden volgende week al lang kunnen starten, denk ik.
+
+**Bob Wassermann:** Maar ik kijk ook even naar jouw agenda, Bob.
+
+**Bob Wassermann:** Ja, we hebben vaak twee weken dat we aanvrieken, maar we kunnen volgende week al afsteltjes aan starten en de week daarna kunnen we ook wel iets meer opscherven.
+
+**Georgemaine Lourens:** Oké, zullen we dan even losjes afspreken dat ik ergens volgende week een pakketje naar jullie mail, waarin jullie zo goed als alles nodig hebben.
+
+**Georgemaine Lourens:** Hebben om op te starten en dat we dan even misschien twee weken besteden aan het ontdekken van de ideale workflow en dan ben ik gewoon de hele tijd beschikbaar om inputs te geven waar nodig is en dan zal ik ook even met Renato kletsen om te zorgen dat jullie in ieder geval een vergoeding krijgen voor alle tijd die jullie hierin stoppen.
+
+**Georgemaine Lourens:** Is dat een idee?
+
+**Frank Slangen:** Super.
+
+**Frank Slangen:** Dat klinkt perfect.
+
+**Frank Slangen:** Leuk.
+
+**Georgemaine Lourens:** Oké, top.
+
+**Georgemaine Lourens:** Dan zal ik even voor het einde van deze week even een mail sturen naar jullie.
+
+**Georgemaine Lourens:** In ieder geval dat jullie de green light hebben, maar dat komt wel goed.
+
+**Georgemaine Lourens:** En dan zullen jullie ergens, ook maandag ofzo, stuur ik je wel toegang tot alles.
+
+**Frank Slangen:** Ik zit nog ergens in jullie Google-accounts, bij de een of andere growthx Gmail.
+
+**Frank Slangen:** Maar ik weet even niet of de rest, ja, als het goed is.
+
+**Frank Slangen:** Dus ik bedoel.
+
+**Frank Slangen:** Maar ik weet niet of dat, want rond de jaarwisseling werd bekend dat het even stilgelegd werd.
+
+**Frank Slangen:** Ik weet even niet of dat ook teruggetrokken is weer.
+
+**Frank Slangen:** Maar in principe hebben we al redelijk wat onboarding gehad.
+
+**Georgemaine Lourens:** Oké, top.
+
+**Georgemaine Lourens:** Dat is alleen maar goed.
+
+**Frank Slangen:** Dat helpt, ja.
+
+**Georgemaine Lourens:** Ja, ik ga even met Renato kletsen en dan komt het allemaal goed, ja?
+
+**Frank Slangen:** Helemaal goed.
+
+**Georgemaine Lourens:** Oké, top.
+
+**Frank Slangen:** Leuk.
+
+**Georgemaine Lourens:** Dan leuk jullie te ontmoeten en dan wens ik jullie nog een fijne dag en tot binnenkort.
+
+**Georgemaine Lourens:** En het is gelijks.
+
+**Georgemaine Lourens:** is gelijks.
+
+**Georgemaine Lourens:** Tot zo.
+
+**Georgemaine Lourens:** Goed, ciao.
+
+**Georgemaine Lourens:** Doei, doei.

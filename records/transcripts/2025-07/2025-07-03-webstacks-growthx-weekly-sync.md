@@ -1,0 +1,621 @@
+# Webstacks<>GrowthX Weekly Sync
+
+<metadata>
+date: 2025-07-03
+time: 16:30 UTC
+duration: 44 minutes
+organizer: Jessalynn Jones
+participants: Jessalynn Jones, Jakub Rudnik, Jesse Schor, Rachel Pasche
+fathom_recording_id: 72132703
+fathom_url: https://fathom.video/calls/341994310
+share_url: https://fathom.video/share/1LF9vxeyPojLUQgBaXnWF_yWGCmsiFjP
+source: fathom
+enriched_on: 2025-03-03 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Webstacks and GrowthX aligned on near-term content priorities and a new AI-powered workflow for content ideation. Jessalynn highlighted an upcoming Google algorithm update and LLM traffic trends showing strong impressions growth, while Jakub reviewed Webstacks' traffic metrics and led discussion on a formal style guide that GrowthX will create to improve consistency and quality. Jesse unveiled an experimental system connecting Webstacks' Gong call recordings to Claude for extracting sales insights, client pain points, and differentiators that can immediately inform content strategy, CTAs, and website copy.
+
+---
+
+## Context
+
+Webstacks is a B2B SaaS agency focused on website design and strategy for high-growth companies. GrowthX is providing content marketing services as part of an ongoing engagement. This weekly sync is part of regular cadence check-ins to align on content velocity, traffic trends, and strategic initiatives. The team is executing on a multi-quarter content plan that includes style guide development, a conversion-optimized website redesign, and a programmatic "Best B2B SaaS Websites" microsite launching later in 2025. Webstacks' website is performing well across organic and LLM referral channels—a key metric in evaluating content ROI for the engagement.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Formal style guide is becoming essential as teams scale content production—demonstrates client need for structured brand voice and LLM-friendly constraints
+- LLM referral traffic optimization is a competitive differentiator; Webstacks' success here (with LLM traffic matching or exceeding organic) is valuable case study for future clients
+- Gong-to-Claude integration signals growing demand for sales conversation analysis and extraction—potential service extension for GrowthX
+
+**To CheckThat:**
+- Webstacks' strong LLM referral performance validates AEO approach; impressions growing despite CTR declining as user confidence in LLM answers increases
+- Jesse's Gong + Claude workflow is practical example of MCP adoption in client context; could inform CheckThat workflows and demonstrate real-world applications
+
+**To GrowthX Business Development:**
+- Webstacks generated 5 new leads in June from content efforts (2 from GrowthX content, 3 from internal AI blog), indicating healthy account momentum
+- Programmatic "Best B2B SaaS Websites" microsite launching Q4 2025 is major expansion project that may require additional GrowthX support on planning and execution
+- Account shows strong expansion potential: style guide work, conversion optimization, new tool exploration, and programmatic site development all point to deepening partnership
+
+---
+
+## Overview
+
+- New Google update may cause traffic fluctuations; team to monitor and optimize accordingly
+- LLM referral traffic trending positively, mirroring or surpassing organic traffic
+- Webstacks received 5 new leads in June from content efforts
+- Jesse introduced a new tool using Claude AI to analyze Gong call recordings for content insights
+
+---
+
+## Key Topics
+
+### SEO and Traffic Updates
+
+  - New Google update rolling out, may cause traffic spikes/drops
+  - LLM referral traffic trending well, matching or exceeding organic traffic
+  - Team still working to understand which content strategies drive LLM success
+  - 5 new leads generated in June: 2 from GrowthX content, 3 from Webstacks' AI design examples blog
+
+### Content Workflow and Style Guide
+
+  - Team to maintain content velocity while ensuring quality
+  - GrowthX to create a formal style guide for Webstacks, incorporating existing POV framework
+  - Jesse to share additional style examples and voice/tone guidance
+
+### Programmatic Content Site
+
+  - Development paused but still planned for completion next quarter
+  - Goal to launch before Thanksgiving as new "Best B2B SaaS Websites" microsite
+  - Will be digital version of annual PDF asset, Webstacks' highest lead driver
+
+### Conversion Optimization
+
+  - Team to follow up on sidebar widget options for CTAs
+  - Will continue to make micro-changes and recommendations as more conversion data becomes available
+
+### New AI Tool for Content Insights
+
+  - Jesse introduced tool connecting Gong recordings with Claude AI
+  - Analyzes sales calls, client meetings, and stakeholder interviews
+  - Provides insights on differentiators, client problems, and Webstacks' solutions
+  - Team to explore ways to incorporate these insights into content creation and Atlas workflows
+
+---
+
+## Action Items
+
+**Jessalynn Jones (GrowthX)**
+- Add more topic ideas to Airtable for Jesse's review by EOD
+- Review Claude outputs from Gong recordings once shared by Jesse
+
+**Jesse Schor (Webstacks)**
+- Share voice/tone deck + article style examples with Jessalynn and Jakub
+- Follow up on newsletter/sidebar conversion suggestions and plan widget design
+- Share Claude outputs from Gong recordings with team (copy/paste into doc)
+
+**Jakub Rudnik (GrowthX)**
+- Review Claude outputs from Gong recordings once shared by Jesse
+
+---
+
+**Jakub Rudnik:** How are you?
+**Jessalynn Jones:** Good.
+**Jessalynn Jones:** We're trucking away.
+**Jessalynn Jones:** Yeah.
+**Jessalynn Jones:** Fast.
+**Jessalynn Jones:** Fast week.
+**Jessalynn Jones:** Short weeks are always, like, nice, but it's always, like, okay, yeah, get a long weekend, but we're also cramming everything into one last day.
+**Jessalynn Jones:** So, yeah, I don't know if we'll get through it, though.
+**Jessalynn Jones:** I think the biggest thing right now, honestly, is just trying to get, like, help Rachel gets, oh, hey, Rachel.
+**Jessalynn Jones:** I was just talking with Rachel about this.
+**Jessalynn Jones:** We're working through the last batch of Flowsome content, and once that's through, that'll be good.
+**Jessalynn Jones:** It just needs a lot of things, so.
+**Jesse Schor:** Hey, Jesse.
+**Jesse Schor:** What's going on?
+**Jessalynn Jones:** Not a whole lot.
+**Jessalynn Jones:** Just getting ready for the long weekend.
+**Jessalynn Jones:** Do you have any fun plans for the 4th?
+**Jessalynn Jones:** Thank you.
+**Jesse Schor:** Um, not really, which is kind of the plan, you know what mean?
+**Jesse Schor:** Yeah.
+**Jesse Schor:** Gonna just like grill up a little bit, uh, just at home and kind of keep it low key.
+**Jesse Schor:** Nice.
+**Jesse Schor:** What are you gonna grill?
+**Jesse Schor:** Um, probably some tri-tip.
+**Jesse Schor:** Uh, I don't know if they have, if you guys are familiar with that.
+**Jesse Schor:** Um, it's like, um, I don't know, it's a big piece of steak.
+**Jesse Schor:** Um, but it's really good for like sandwiches and stuff.
+**Jesse Schor:** Um, that's usually my go-to.
+**Jesse Schor:** We don't, we didn't have it on the East Coast.
+**Jesse Schor:** I don't know if it's like, just like a California thing or what, but.
+**Rachel Pasche:** Yeah, I never had it.
+**Rachel Pasche:** And then when I lived in California, I was like, did California just invent the best cut of meat?
+**Jesse Schor:** It's so good.
+**Jesse Schor:** Um, yeah, they're just like holding out.
+**Jesse Schor:** I guess the rest of the country, but yeah, that's usually my go-to, but I'm also big at over-cooking, or I guess not over-cooking, but cooking too much for my wife and I, so I'm sure there will be other things that are added.
+**Jesse Schor:** Yep, that's me.
+**Jesse Schor:** How about you guys, any plans?
+**Jesse Schor:** Probably just the usual, like, parade stuff, or whatever.
+**Jessalynn Jones:** My three older stepkids are gone, so it'll just be our nine-year-old, so we'll probably do a parade for him.
+**Jessalynn Jones:** I'm not really, like, a parade person, though, so it's like, you go, and I'm like, this is, like, the worst invention of mankind, but he'll enjoy it.
+**Jessalynn Jones:** I think, Jakub, you said you have big plans, though, don't you?
+**Jessalynn Jones:** I have medium plans.
+**Jessalynn Jones:** My wife, sister,
+**Jakub Rudnik:** And her husband are coming in from Florida this evening.
+**Jakub Rudnik:** So we'll hang out with them.
+**Jakub Rudnik:** Then we're going to Cubs, Cardinals on the 5th.
+**Jakub Rudnik:** So it'll be a lot of, like, in-law time, family time.
+**Jakub Rudnik:** Someone's going to bring, like, a kiddie pool for our son, and he's, like, the exact age to love that.
+**Jakub Rudnik:** Like, he figured out how to blow bubbles last night.
+**Jakub Rudnik:** My wife has, like, the cutest video.
+**Jesse Schor:** Came home from soccer.
+**Jakub Rudnik:** He's just, like, blowing bubbles.
+**Jakub Rudnik:** The dog's chasing the bubbles.
+**Jakub Rudnik:** So, like, all the summer backyard stuff is basically it.
+**Jakub Rudnik:** No smoking or grilling anything.
+**Jakub Rudnik:** My, like, grill is on his last legs.
+**Jakub Rudnik:** My smoker, I have an electric smoker.
+**Jakub Rudnik:** It's, like, shorts out every time I try to turn it on.
+**Jakub Rudnik:** So I'm waiting until I move to, like, upgrade all those.
+**Jakub Rudnik:** It's, like, my Father's Day gift in careers or something.
+**Jakub Rudnik:** But I'm also a grill guy.
+**Jakub Rudnik:** But I'm, like, my legs have been cut out from under me.
+**Jakub Rudnik:** So I can't do any of that.
+**Jakub Rudnik:** Like, this summer, I'm just, like, missing it very much.
+**Jakub Rudnik:** And I have to wait, like, few months to get back to it.
+**Jakub Rudnik:** Yeah.
+**Jakub Rudnik:** what, what, what Let's
+**Jesse Schor:** That's all right, though.
+**Jesse Schor:** You've got enough on your plate right now with the move going on.
+**Jesse Schor:** I was talking to someone about that last night, and they were like, that's the dream.
+**Jesse Schor:** The dream situation is like moving next to your friends.
+**Jesse Schor:** And I was like, oh, I was like, it gets better.
+**Jesse Schor:** I was like, you've got another friend.
+**Jesse Schor:** Waiting, waiting in the wind.
+**Jakub Rudnik:** I just looked at that friend last night, and they're like, they've always been very certain of it, but they're like very certain.
+**Jakub Rudnik:** And then we sent them an article we found from The Atlantic, like unintentionally just kind of stumbled on it.
+**Jakub Rudnik:** was like people that literally moved three houses down.
+**Jakub Rudnik:** Like they bought three houses in a row, three couples.
+**Jakub Rudnik:** We sent it to them.
+**Jakub Rudnik:** They were like, that made us even more convicted that we have to be like right as close as possible.
+**Jakub Rudnik:** So they're like, our radius is two miles, and we don't even want to be that far away.
+**Jakub Rudnik:** So I'm like, we're going be walkable or bikeable.
+**Jakub Rudnik:** We already have the people on the block.
+**Jakub Rudnik:** It's like the guy that lives next door, his sister lives five minutes away.
+**Jakub Rudnik:** She just moved to Cleveland Heights, and she ran.
+**Jakub Rudnik:** There this morning, like, sent us a picture of the new house.
+**Jakub Rudnik:** And it's like, all of sudden, like, our old Chicago crew is just finding themselves in this random Cleveland suburb.
+**Jakub Rudnik:** But that's awesome.
+**Jakub Rudnik:** I know we just keep talking about me, but yeah, it's it's pretty sick that we get there.
+**Jakub Rudnik:** Nice.
+**Jesse Schor:** All right.
+**Jesse Schor:** Well, you have any fun plans.
+**Rachel Pasche:** I'm pretty aggressive on Fourth of July.
+**Rachel Pasche:** I'll be honest.
+**Rachel Pasche:** I live for this holiday.
+**Rachel Pasche:** My family used to always go really hard for it.
+**Rachel Pasche:** Like, we had a bunch of traditions and now everyone's separate.
+**Rachel Pasche:** So it's just my husband that has to deal with me, unfortunately.
+**Rachel Pasche:** But I usually go to the parade and I bring face paint and I paint faces at the parade.
+**Rachel Pasche:** Like, that's, I can't describe it.
+**Rachel Pasche:** I love it.
+**Rachel Pasche:** I think it's so fun.
+**Rachel Pasche:** So I'll probably do that.
+**Rachel Pasche:** And then we usually grill out because I feel like that.
+**Rachel Pasche:** It's every man's, like, checklist on the 4th of July.
+**Rachel Pasche:** It's like, you know, grill meat.
+**Rachel Pasche:** And it'll be Michael paddleboarding.
+**Rachel Pasche:** There's a drone show here because they don't allow fireworks in the West, which is a huge L.
+**Rachel Pasche:** But they're doing a drone show, which I think, I don't know.
+**Rachel Pasche:** We'll see.
+**Rachel Pasche:** I'm not a hater yet.
+**Jessalynn Jones:** That would be fun.
+**Jessalynn Jones:** Yeah, I'm sure my husband's going to grill something, but I'm a vegetarian, so I'll probably have, like, a black bean burger or something, like, really generic and boring.
+**Jessalynn Jones:** Nothing like a special cut of meat like you're talking about, Jesse.
+**Jessalynn Jones:** But anyway.
+**Jessalynn Jones:** Don't try to end me.
+**Rachel Pasche:** I used to always beg my father-in-law to make it.
+**Rachel Pasche:** We'd go to his house.
+**Rachel Pasche:** I was like, Mike, what's up?
+**Jesse Schor:** I got a huge agenda item.
+**Jesse Schor:** Yeah, I'll send some or take some pics to show you guys next time.
+**Jesse Schor:** Good stuff.
+**Jesse Schor:** Cool.
+**Jessalynn Jones:** Wow.
+**Jessalynn Jones:** Well, without further ado, I guess we can jump in here.
+**Jessalynn Jones:** We'll, we can go over the Looker Report in a second.
+**Jessalynn Jones:** think, Jakub, you're going to walk us through that.
+**Jessalynn Jones:** But just wanted to mention, I'm sure you've seen this.
+**Jessalynn Jones:** We have yet another Google update coming out, Jesse.
+**Jessalynn Jones:** And so I'm sure you've seen that.
+**Jessalynn Jones:** Like usual, it's probably going to create some random spikes and drops in traffic.
+**Jessalynn Jones:** So we're going to keep an eye on that.
+**Jessalynn Jones:** And then as things fluctuate and the kind of final rollout, I think, was happening this last week, we'll kind of see how that affects everything and optimize from there.
+**Jessalynn Jones:** But I just kind of wanted to call that out ahead of time.
+**Jessalynn Jones:** There was also an interesting, like, cloud, cloud flare conversation that somebody shared with me this last week that was also talking about LLM traffic and not really anything surprising.
+**Jessalynn Jones:** But basically, just as user confidence is growing in LLM results, the.
+**Jessalynn Jones:** The click-through rate on sources cited is getting less and less.
+**Jessalynn Jones:** So we also might be seeing a drop in LLM traffic.
+**Jessalynn Jones:** But the good news is the traffic will go up even if the CTR is going down.
+**Jessalynn Jones:** So just kind of something to be aware of, I guess, that you might see some drops in the LLM CTR, but impressions should be going up as people have more confidence in that.
+**Jessalynn Jones:** So I just wanted to call those two things out before we jump into the looker report here.
+**Jessalynn Jones:** Jakub, do you want to share your screen or do you want me to share it?
+**Jessalynn Jones:** Yeah, can do it.
+**Jakub Rudnik:** Pretty cool.
+**Jakub Rudnik:** Webstacks.
+**Jakub Rudnik:** Traffic update.
+**Jakub Rudnik:** I mean, we're still trending.
+**Jakub Rudnik:** That's why impressions growing clicks all look fairly good.
+**Jakub Rudnik:** I think we...
+**Jakub Rudnik:** Well, let's see.
+**Jakub Rudnik:** And then LLM, Justin, I don't know if you've seen or how much time you spend here, but we're still seeing LLM referral traffic in the...
+**Jakub Rudnik:** So I think as you mentioned to Marcel, Jesse, it's like, don't exactly know what like the broader content moves is making this.
+**Jakub Rudnik:** think that's the black box that everybody's dealing with.
+**Jakub Rudnik:** But the trendline looks really good in this mirroring, if not like now increasing past the actual organic traffic, like true organic.
+**Jakub Rudnik:** And so I don't know, websites kind of like are one of the clients and like we were pointed, like what we're doing is working for LMS.
+**Jakub Rudnik:** And like, that's been intentional.
+**Jakub Rudnik:** It's just a little bit of like, which part of it is working.
+**Jakub Rudnik:** So we'll probably get closer to that answer over time.
+**Jakub Rudnik:** But it's okay to not know if it's driving traffic and revenue.
+**Jakub Rudnik:** So I think what, so additional like things with like the HubSpot reporting, I just need more, we need more time with our director who's working in the analytics side now.
+**Jakub Rudnik:** There's just a bunch of customer requests coming out of like some looker dashboard launches that we've had recently.
+**Jakub Rudnik:** And then I need to.
+**Jakub Rudnik:** We over to what we have, some more custom requests, so just bear with us as we get that built.
+**Jakub Rudnik:** His looker experience is much better than mine, but he's one person and has all the, you know, he's kind of like agnostic across these.
+**Jakub Rudnik:** So we'll get some of that that we talked about built over the following weeks.
+**Jakub Rudnik:** And I don't, I mentioned what we talked, I don't think we talked much.
+**Jakub Rudnik:** He's also working on kind of like GrowthX's view on LLM, SEO, or Geo, whatever you want to call it.
+**Jakub Rudnik:** And so we're already implementing some things, but he's got like a work in progress for us internally that we'll share externally on like how we're thinking about stuff.
+**Jakub Rudnik:** But he's like running tests across a few different clients on like trying to be as A-B testing as is possible with LLMs.
+**Jakub Rudnik:** But what changes can we make with one client to see what actually happens, like testing hypotheses that he's seeing on LinkedIn or hearing webinars or whatever else to implement across content.
+**Jakub Rudnik:** So I think, I don't know.
+**Jakub Rudnik:** I'm sure I'll be examining what we've done with you all since it's worked on the LLM front, but just we'll keep you in the loop on those things.
+**Jakub Rudnik:** It's going to be a thing we probably talk about once a month forever because it's just way more important than or is becoming way more important than SEO is in those learnings.
+**Jakub Rudnik:** So I just want to give you the head of like we have him plus a smaller team like implementing, testing, running.
+**Jakub Rudnik:** Like, you know, it's important to everybody.
+**Jakub Rudnik:** It's just going to be an ongoing thing behind the scenes.
+**Jakub Rudnik:** Cool.
+**Jesse Schor:** So this is this stuff that is going to like impact the content workflow that we have or?
+**Jesse Schor:** Yeah, we'll make it.
+**Jakub Rudnik:** So there'll be like universal stuff that when we feel as close to 100% as we need to, like we'll be rolled out in Atlas and like we'll just be baked into everything and every piece of content across clients.
+**Jakub Rudnik:** Like we'll give you updates when that happens, if it's meaningful enough, but it'll be tweaks here, big changes there.
+**Jakub Rudnik:** Then it'll be like, so some of that will happen there, but we'll also be testing, I think, across.
+**Jakub Rudnik:** Individual clients and how that's working.
+**Jakub Rudnik:** Maybe it's at the industry level or vertical or I, you know, I don't know exactly those like directions that will go.
+**Jakub Rudnik:** One thing that he's been really bullish on and it gets past like the testing stage, but the idea of like chunking content.
+**Jakub Rudnik:** So, you know, LOMs aren't reading, depending on the length of content, don't always ingest like all 3,000 words of a blog, for instance.
+**Jakub Rudnik:** Like they can't use, they don't want to use like, they have a limit of tokens per piece of content.
+**Jakub Rudnik:** So they're trying to find ways to like scrape chunks and get context from things.
+**Jakub Rudnik:** doing like bullets is a really simple example, but like tables and images and making sure like sections have, can like live on their own as a chunk or an artifact for an LLM.
+**Jakub Rudnik:** There's little details that I think we do a decent job because those would be things that are good for UX anyway.
+**Jakub Rudnik:** They're good for skimmability.
+**Jakub Rudnik:** So it's like built into what we've done.
+**Jakub Rudnik:** But I think there's tweaks or little pieces on the editing side for like Rachel or Jesselyn that will be.
+**Jakub Rudnik:** Some of will be baked into Atlas, but, you know, it doesn't always, like, we'll still need that human in the loop piece.
+**Jakub Rudnik:** So that's the type of stuff that, like, I don't think content will look, at least not in the short term, drastically different, but there will be changes to how we format or, like, think about those, like, chunks to set up LLM success even more than we're doing already.
+**Jakub Rudnik:** Cool.
+**Jesse Schor:** That makes sense.
+**Jesse Schor:** Yeah, there's, if there's anything, too, that you guys are maybe finding that is more of, like, a technical implementation on the page structure, structured data that you think would be beneficial, even if they're things you guys are hearing, like, just let me know.
+**Jesse Schor:** We can implement those things on our end, and I'd rather, like, if you guys are hearing about some of these things, too, that.
+**Jesse Schor:** And, like, we're going to be kind of, like, bottlenecked just by, like, testing on your guy's side or rolling it out just to everyone.
+**Jesse Schor:** Like, I'd be happy to, like, have our team, like, get that stuff implemented.
+**Jesse Schor:** One of the things, like, I just did a couple weeks ago was our, like, LLMs.txt file and, like, adding all of our structured data to that.
+**Jesse Schor:** So I'm curious to see how, like, that impacts things.
+**Jesse Schor:** But that's something, like, we didn't have before.
+**Jesse Schor:** You know, we were able to get implemented.
+**Jesse Schor:** And then I'm looking at a lot of our structured data that we have now across the site.
+**Jesse Schor:** And we have, I mean, a good amount just by the nature of how we set up our CMS.
+**Jesse Schor:** But there's definitely, like, more opportunities given content that we have or content, like, we could have.
+**Jesse Schor:** And with RCMS.
+**Jesse Schor:** It's very easy to implement those things.
+**Jesse Schor:** So more on like the technical SEO side of things, but if you guys are hearing things like that, yeah, happy to like get those implemented.
+**Jesse Schor:** Yeah, for sure.
+**Jakub Rudnik:** I think at the high level, I think that's where Jessalynn's like highlighting, you know, those type of articles, videos, et cetera.
+**Jakub Rudnik:** But from our internal side, we should implement that as well.
+**Jakub Rudnik:** That's a great note.
+**Jakub Rudnik:** I mean, here, but, you know, for some other clients as well, potentially Jessalynn's just thinking out loud.
+**Jakub Rudnik:** I pinged Dave, the director, so I know where he's having those conversations in the experiment with the board.
+**Jakub Rudnik:** Like, I just don't have, I should know that, but I just pinged him as you were chatting so I can get that and make sure you're the front lines.
+**Jakub Rudnik:** I mean, you'll be doing things on the website front for clients as well that like this will be really valuable for like the content we're producing.
+**Jakub Rudnik:** But like at large, it'll help your business to know those things or be the forefront.
+**Jakub Rudnik:** Also, like you learning things like those experiments you're doing can help inform both ways.
+**Jakub Rudnik:** So, So, um.
+**Jakub Rudnik:** I love that collaboration, like, and knowledge share in both directions.
+**Jakub Rudnik:** Definitely.
+**Jesse Schor:** Yeah.
+**Jesse Schor:** Sweet.
+**Jessalynn Jones:** And kind of on that front, know that one of our, one of the folks on our leadership team, Jason Gong, he is developing kind of some thought leadership content around GEO right now.
+**Jessalynn Jones:** And I think he's going to be putting that out by the end of the month.
+**Jessalynn Jones:** So as soon as that's live, I'll share that with you too.
+**Jessalynn Jones:** But he's got a really strong perspective on, like, GEO and kind of the building blocks to implement.
+**Jessalynn Jones:** I was also going to share, just dropped it in the chat, but Search Engine Journal just came out with a pretty good overview, I think, of, like, AI, GEO visibility and kind of some of the building blocks for that.
+**Jessalynn Jones:** So I think they do a really good job breaking it down as a concept and kind of, like, some of the building blocks you should be looking for, like schema markups and things like that, that help with GEO.
+**Jessalynn Jones:** Or LLM Visibility.
+**Jessalynn Jones:** So that might be worth taking a look at.
+**Jessalynn Jones:** But we'll also be sharing Jason's content as soon as he has that ready for your eyes.
+**Jessalynn Jones:** But yeah.
+**Jessalynn Jones:** I did look at the leads for this month in HubSpot using that new list that you sent over.
+**Jessalynn Jones:** So thank you for getting us access to that.
+**Jessalynn Jones:** That was super helpful.
+**Jessalynn Jones:** We did get five new leads in June.
+**Jessalynn Jones:** Two from content that we've written for you guys.
+**Jessalynn Jones:** then three leads from that AI design examples blog that y'all did.
+**Jessalynn Jones:** So good to see traction there.
+**Jessalynn Jones:** I'm really like excited for the new looker report.
+**Jessalynn Jones:** So we can kind of get a better end to end view of where these leads are actually going and like the quality of them.
+**Jessalynn Jones:** Once we kind of delve deeper into attribution modeling and are reporting them.
+**Jessalynn Jones:** So that'll be interesting to see, but it's nice to see some leads come through here.
+**Jessalynn Jones:** And then I saw that you went ahead and approved those ideas this morning for topic ideation.
+**Jessalynn Jones:** I'll be adding some more by the end of the day for you to take a look at for the coming week.
+**Jessalynn Jones:** Because we're kind of getting a later start in the week and it's a short week, I think we're only going to be able to do probably five getting published today.
+**Jessalynn Jones:** But then we'll do an extra five this coming week, if that's okay with you.
+**Jessalynn Jones:** I just want to make sure the quality is there and we're not rushing it through just to get 10 published in a day.
+**Jessalynn Jones:** Yeah, totally.
+**Jesse Schor:** That's fine.
+**Jesse Schor:** That's my bet.
+**Jesse Schor:** I didn't see the UMS yesterday.
+**Jesse Schor:** Oh, that's cool.
+**Jessalynn Jones:** And you had like a hectic couple of weeks.
+**Jesse Schor:** So I think like next week, things will kind of be back to normal a little bit.
+**Jesse Schor:** But with the.
+**Jesse Schor:** But like new process or with the like changes to on our side, I think like we can kind of do a little bit more or like a new process or approach.
+**Jesse Schor:** I think like once we kind of like get aligned on the broader like topic and direction, I think you guys have enough now and like know us well enough now that like you're going to probably be like on point with the like recommendations.
+**Jesse Schor:** And I'm, I'm more concerned, I guess, about making sure we don't lose velocity than I am about like putting something together that like we, we wind up like not necessarily like leveraging as much.
+**Jesse Schor:** We can always change it later or, you know, adjust it or like, you know, not use it.
+**Jesse Schor:** So like I'd rather that like we maintain that velocity.
+**Jesse Schor:** So what I think is helpful is like if we can get aligned on the topic on, you know.
+**Jesse Schor:** So in these meetings, and then if you guys want to kind of like keep at it to the air table and move forward, I'll leave comments in there.
+**Jesse Schor:** If I see anything that really jumps out, but I mean, I trust you guys to like kind of know the direction that like we want to go in, and I want to make sure we don't like lose any steam.
+**Jesse Schor:** Got it.
+**Jessalynn Jones:** Yeah, that's super helpful.
+**Jessalynn Jones:** And yeah, I know, I know you've got a ton on your plate, especially with Devin leaving.
+**Jessalynn Jones:** So yeah, we can definitely just take that on and let us know if there's anything that, you know, isn't quite adding up for you.
+**Jessalynn Jones:** But otherwise, we'll just keep plugging ahead then.
+**Jesse Schor:** Awesome.
+**Jessalynn Jones:** One of the things that we've been looking at as we've been sweeping platforms is we're really optimizing all of the inputs for our workflows.
+**Jessalynn Jones:** And one of the things that I noticed is that I don't think we ever got an actual style guide for you guys.
+**Jessalynn Jones:** And so we've been kind of like making.
+**Jessalynn Jones:** Picking up some of the rules as we go along based on content that we've already seen.
+**Jessalynn Jones:** But I checked with Ada, and I don't think we ever actually bought a style guide.
+**Jessalynn Jones:** Do you guys have one that we could plug in just to make sure we're being more consistent?
+**Jesse Schor:** What do you mean by like a style guide?
+**Jessalynn Jones:** Just like voice and tone and like copy guide, like formatting for headers, for example.
+**Jessalynn Jones:** Do you like title case or sentence case?
+**Jessalynn Jones:** Something as simple as that.
+**Jessalynn Jones:** But one example of like a question that I had that I went to look for a style guide for is I noticed in some of Devin's briefs, he had a section that he said he wanted the in brief or in a nutshell, like kind of excerpt at the top of each blog.
+**Jessalynn Jones:** I can pull up an example here.
+**Jessalynn Jones:** And I can show you this.
+**Jessalynn Jones:** So this in a nutshell, like summary at the top of the blog.
+**Jessalynn Jones:** But we noticed that it wasn't actually in a lot of your blog.
+**Jessalynn Jones:** And from our perspective, it kind of interrupted the flow of the article, especially because it was like after the introduction.
+**Jessalynn Jones:** So, I mean, my recommendation would be to not include this, but I didn't have an official style guide to reference, you know, if this was something that you wanted in every piece or if it was just in a couple of pieces that Devin had given us briefs on and mentioned it in.
+**Jesse Schor:** Um, yeah, I'm fine with not, we, there hasn't been, I would say like a level of consistency with something like that.
+**Jesse Schor:** I mean, yeah, we, we don't, we don't normally, I wouldn't say like that's like part of like our brand to do something like that.
+**Jesse Schor:** So I would prefer to like your recommendation there, but, yeah, I can definitely share, uh, like voice tone, things like that.
+**Jesse Schor:** Um, and we put together a doc, I don't know, probably.
+**Jesse Schor:** I don't know, few months back, but I can take a look at that too.
+**Jesse Schor:** And then I have to like dig for it, but Jakub, maybe you remember the meeting.
+**Jesse Schor:** We did like the extended meeting and I kind of just like brain dumped a bunch of stuff to you and Ada to like kind of be used with like a bit of just like the webstacks approach.
+**Jesse Schor:** And that recording might be also helpful, Jessalynn.
+**Jessalynn Jones:** Yeah, that's cool.
+**Jessalynn Jones:** I think we have this like webstacks POV framework and maybe it was related to that.
+**Jakub Rudnik:** I think that was, I think it was whatever the, that helped to frame here.
+**Jakub Rudnik:** was like one of the, this is, that call is probably the genesis to this.
+**Jakub Rudnik:** Yeah, exactly.
+**Jesse Schor:** Okay.
+**Jakub Rudnik:** I'll just Yeah, and we have.
+**Jessalynn Jones:** Sorry, was just going to say, we do have that POV doc incorporated into our inputs for the workflows.
+**Jessalynn Jones:** I just wanted to know if there was anything more direct, a more concrete document that you had for voice and tone and all of that.
+**Jessalynn Jones:** We've obviously kind of synthesized it because we've been working with you guys for a while, but I just wanted to know if there was any guidance on that that we could as well.
+**Jakub Rudnik:** Jesse, if you have anything that we've sent to you, whether it's a contractor or whatever, even if they're half-baked, that would all be good.
+**Jakub Rudnik:** think we can then take what we've learned.
+**Jakub Rudnik:** And since there isn't a formal thing like we've kind of built as we've been, or whatever, we can create that and it'll be an ongoing living document.
+**Jakub Rudnik:** But good to know.
+**Jakub Rudnik:** We just didn't want to be missing something and I think, Jessalyn, point of there's inconsistency across.
+**Jakub Rudnik:** So things are going well, like those type of things probably don't matter for like the average reader, but there will be some nuance that.
+**Jakub Rudnik:** That will impact.
+**Jakub Rudnik:** So let's continue to up the quality and the consistency.
+**Jakub Rudnik:** So we'll take those inputs and create one and then get that into Atlas.
+**Jakub Rudnik:** It's really, you know, it's just one of those documents that will inform.
+**Jakub Rudnik:** I don't think it's as important as getting the company contacts and POV, but still it matters in the larger scheme.
+**Jakub Rudnik:** Yeah, it's about improving consistency overall.
+**Jessalynn Jones:** It's not like, obviously, you know, like I said, we've been working with you guys long enough.
+**Jessalynn Jones:** We have a pretty clear perspective on most of it, but just to kind of put it in writing and give the LLM a really concrete guidance for that can be really helpful.
+**Jessalynn Jones:** So cool.
+**Jesse Schor:** Yeah, I'm sharing with you guys now.
+**Jesse Schor:** So that deck is generally pretty much like accurate.
+**Jesse Schor:** It's a little bit outdated in the sense of like, we did it maybe
+**Jesse Schor:** 10 months ago, 12 months ago, not a ton has shifted broadly from like our voice tone that like you'll see there.
+**Jesse Schor:** There's not a ton of detail.
+**Jesse Schor:** So like there's probably more that can like be extracted.
+**Jesse Schor:** So take a look at that.
+**Jesse Schor:** If you're looking for more, let me know.
+**Jesse Schor:** And I can always put something together pretty quickly.
+**Jesse Schor:** My ChatGPT is very much familiar with lots of things, webstacks.
+**Jesse Schor:** So yeah, I can probably put something together if you guys are looking for something more of us.
+**Jesse Schor:** Okay.
+**Jesse Schor:** Yeah, that'll be a great starting point.
+**Jessalynn Jones:** And I mean, we can always like pull even from stuff that we've done too.
+**Jessalynn Jones:** But if I have questions as we're doing that, I'll definitely reach out.
+**Jesse Schor:** So thank you for that.
+**Jesse Schor:** I'll share.
+**Jesse Schor:** These are a few examples.
+**Jesse Schor:** Uh, ones, two.
+**Jesse Schor:** Of just like other articles and things like that, if that's helpful, like the style that we've been trying to go for.
+**Jessalynn Jones:** Okay.
+**Jessalynn Jones:** Yeah, that's super helpful.
+**Jessalynn Jones:** Thank you.
+**Jessalynn Jones:** Cool.
+**Jesse Schor:** So...
+**Jessalynn Jones:** Do you me to jump in on the last?
+**Jessalynn Jones:** Cool.
+**Jakub Rudnik:** I just had a good call, like cleaning up and going through some of these documents.
+**Jakub Rudnik:** Like, what are these?
+**Jakub Rudnik:** And I had to go back to some of the discussions we've had and where some stuff stood.
+**Jakub Rudnik:** So we were curious on programmatic.
+**Jakub Rudnik:** know I got kind of pushed to that back burner, but that like subfolder or subdomain, depending on which direction we went, if that, just where that is, or if there's any thoughts on where that fits into the next couple of quarters.
+**Jakub Rudnik:** Yeah.
+**Jakub Rudnik:** So we finished designs for it.
+**Jesse Schor:** We started development and then we...
+**Jesse Schor:** We working on that go-to-market launch for our new service offering.
+**Jesse Schor:** It's still like something that I want us to get done.
+**Jesse Schor:** It's just not getting the development resources at the moment.
+**Jesse Schor:** I would probably say that's something that like we'll have completed sometime next quarter.
+**Jesse Schor:** Our goal, like my like kind of like new timeline for it is to have something before like Thanksgiving.
+**Jesse Schor:** Because we want to kind of launch that as our new like best B2B SaaS websites, like microsite, which Rachel, Jessalynn, if you guys aren't familiar, we have like this asset we pretty much put together every year for the last three years.
+**Jesse Schor:** It's like our highest driver of leads.
+**Jesse Schor:** And it's just kind of like a hundred page like PDF of like the best B2B SaaS websites.
+**Jesse Schor:** hundred page.
+**Jesse Schor:** It's hundred then
+**Jesse Schor:** And it's usually like 50 or so different companies we have broken up based off like different types of pages for categories.
+**Jesse Schor:** We have like our methodology.
+**Jesse Schor:** And so what we put together for the programmatic site is basically like a digital version of that.
+**Jesse Schor:** So, yeah, that's kind of the goal.
+**Jesse Schor:** want to launch it as like the 2026 towards like the end of the year.
+**Jessalynn Jones:** Sweet.
+**Jessalynn Jones:** Thank you for that.
+**Jessalynn Jones:** It's helpful.
+**Jakub Rudnik:** think it like takes a lot of the editorial, but just scales it and gets into a bunch of the long tail in a way that wouldn't make sense editorially.
+**Jesse Schor:** Cool.
+**Jesse Schor:** Just keep us in the loop.
+**Jakub Rudnik:** And if you need any support on the SEO front on those.
+**Jakub Rudnik:** And then we did some of that kind of conversion type of analysis, know, like adding CTAs over to the sidebar, changing the like email sign up to, you know, talk to us.
+**Jakub Rudnik:** Talk
+**Jakub Rudnik:** I'm curious on that and or I think we should be thinking more on the conversion front.
+**Jakub Rudnik:** Sometimes I'll just be dropping in like a CTA here and there, but if there's like development or design, ask like what the best process would be at this stage as we just make those like conversion related upgrades or tests.
+**Jakub Rudnik:** Yeah, you're talking about like what is the newsletter.
+**Jakub Rudnik:** Yeah, was like did that one like write up of like some suggestions, but I think there's like additional next steps following that as well.
+**Jakub Rudnik:** So it's like a twofold.
+**Jesse Schor:** Yeah, I honestly kind of forgot about that.
+**Jesse Schor:** So let me make a note for us to follow up on it.
+**Jesse Schor:** Because what I want to do actually for that is give up the option to choose what the sidebar is.
+**Jesse Schor:** it's kind of like a widget.
+**Jesse Schor:** So I'll need to get some stuff designed out for that.
+**Jesse Schor:** But yeah, I'll take that off.
+**Jesse Schor:** That's like a follow-up.
+**Jesse Schor:** Okay, cool.
+**Jakub Rudnik:** I think there will be like that one's the most obvious because it's universal and there's just, you know, all the traffic applies there, but then there will be more micro changes and things.
+**Jakub Rudnik:** So we'll just keep it locked on that as we get more of the conversion data and can get like dug in there and make some recommendations.
+**Jakub Rudnik:** cool.
+**Jakub Rudnik:** I think that that's that other bullet point, Jessalynn, on the metrics.
+**Jakub Rudnik:** Let's just talk about more of that next week because I've gotten more on that.
+**Jakub Rudnik:** Cool.
+**Jesse Schor:** Do you guys have like two more minutes?
+**Jesse Schor:** I wanted to just quickly show you guys something too.
+**Jesse Schor:** Yeah.
+**Jesse Schor:** So something I've been doing over the last like, I don't know, week and a half or so that I've been playing around with.
+**Jesse Schor:** Um, so I've been utilizing the like, uh, and like MCP (Model Context Protocol) server for.
+**Jesse Schor:** to You're spending or… participation.
+**Jesse Schor:** Connecting our Gong with Claude, so all of our Gong recordings are accessible over the API for us to like extract whole information from.
+**Jesse Schor:** I've been doing a lot of this like in Gong and obviously with like recordings and stuff I've shared with you guys, like kind of like trying to like create that opportunity to use those recordings.
+**Jesse Schor:** But it's hard to like do it not on like a individual to individual basis.
+**Jesse Schor:** So I've been using Claude here to like analyze our call recordings, differentiators, using it for like a combination of things from like ad headlines to like copy on our site to like analyzing our sales process.
+**Jesse Schor:** I've gotten some like pretty good and like interesting stuff and I've only.
+**Jesse Schor:** I've done this so far with our sales calls.
+**Jesse Schor:** I started doing it as well, like with some of our client calls and basically kind of breaking it up based off discipline.
+**Jesse Schor:** So we have web strategists who have calls.
+**Jesse Schor:** We have designers who are having calls.
+**Jesse Schor:** We have developers that are having calls and leading calls.
+**Jesse Schor:** I'm kind of like creating segments based off the data and having it analyzed as far back as I can or for like specific accounts that like I know we had really good meaningful calls with.
+**Jesse Schor:** And it's producing like a good amount of both like our voice and perspective as like up to date as possible.
+**Jesse Schor:** So even like now, like Jessalynn, like when you're hopping on this call, talking about some of the like new Google updates, things.
+**Jesse Schor:** We're working on, we're doing the things that like you guys are thinking about on your end or hearing within your networks.
+**Jesse Schor:** It's capturing all of like that information from the experts on our end.
+**Jesse Schor:** But it's also like capturing problems that our clients are having or running into and solutions that like we have or like our perspective on those things.
+**Jesse Schor:** And some of the most like meaningful calls I've gathered so far have been with our web strategists.
+**Jesse Schor:** They do these stakeholder interviews during our discovery process, incredibly like going incredibly deep into the things that each of those like business stakeholders cares about.
+**Jesse Schor:** And I shared some of those Gong recordings, but I think that this can be really useful.
+**Jesse Schor:** And I'm like looking for new ideas and ways to use it.
+**Jesse Schor:** So.
+**Jesse Schor:** I want to just like to like show you guys this stuff.
+**Jesse Schor:** I'm thinking of ways that like I can produce things that are going to help you guys.
+**Jesse Schor:** But if you guys have any ideas about these things, let me know.
+**Jesse Schor:** Or if it's like producing something that would be helpful to you or the content you're putting together, and you don't want to like go through the list of 15 or so Gong calls that I sent you, like let me know.
+**Jesse Schor:** Because this produces it really fast and like it's pretty like interesting.
+**Jesse Schor:** Like some of these things are like, you know, this is like specific to Nikon, some of the like strengths and things that he's hitting on.
+**Jesse Schor:** But then it's like, all right, what are some of the key differentiators that like we're hitting on?
+**Jesse Schor:** What are some of the like problems or challenges folks are running into?
+**Jesse Schor:** And I think like all of these things can be used to influence the content that we have.
+**Jesse Schor:** Thank you.
+**Jessalynn Jones:** Yeah, this is amazing.
+**Jessalynn Jones:** Yeah, that's really smart.
+**Jesse Schor:** Sorry if I missed it.
+**Jakub Rudnik:** Do we have one of those, not transcripts, but one of the outputs from Claude somewhere?
+**Jesse Schor:** No, I literally just, I set it up, I don't know, a week and a half ago or a week ago when I was in New York, and really just this week kind of been playing around with it when I have ideas.
+**Jesse Schor:** I've given, like, a few of these things to my team and used it to, like, make some updates to some ads.
+**Jesse Schor:** But, like I said, there's, I think, like, a lot of, there's a lot here, and it's accessible.
+**Jesse Schor:** And the thing that, like, is going to block me is, like, ideas to use it.
+**Jesse Schor:** Yeah.
+**Jesse Schor:** And so that's why I'm letting you guys know about it and know that, like, it exists and that if you have any, like,
+**Jesse Schor:** Interesting questions, ideas, things that you think will supplement an article that you're putting together, like producing an outline or like a one-pager from something like this is pretty quick.
+**Jesse Schor:** And I can shoot that over Slack as you're kind of working through it or thinking through it.
+**Jesse Schor:** And yeah, you guys can have that as like a direct reference.
+**Jakub Rudnik:** Yeah, would you just copy one of the outputs right there, even just like slap it into Notion or Google Docs just so I can look at that with some depth.
+**Jakub Rudnik:** But some things are already coming, like there's definitely like conversion related notes, like some of the language that they're talking.
+**Jakub Rudnik:** I think that there's some ideas pop in my brain right away.
+**Jakub Rudnik:** just want to spend some time with like the details in there and reading through that will be helpful.
+**Jakub Rudnik:** But anyone on the growth side, is your like take some time looking through those and what's outputting and then where like that hyper specificity is going to be what like makes our articles like.
+**Jakub Rudnik:** Just that much better than the generic piece that LMs are creating off the bat.
+**Jakub Rudnik:** then we should think about probably stuff that we can input that into Atlas.
+**Jakub Rudnik:** just don't know exactly where or how, but we can ideate on that and even show the internal team like Panzer or someone on that side what's there.
+**Jakub Rudnik:** And then ideate on that both here, but then it's a really smart idea.
+**Jakub Rudnik:** So it's good.
+**Jessalynn Jones:** So we have an artifact actually in Atlas where we can feed the workflows like company context.
+**Jessalynn Jones:** And this would be ideal because right now we have like company context that's kind of broader and more general about like your key personas and things like that.
+**Jessalynn Jones:** And there are pain points based on what we understand of your product and conversations we've had with you.
+**Jessalynn Jones:** But if we could pull those like those direct quotes of like key pain points that you're seeing in conversation.
+**Jessalynn Jones:** And feeding that into the company context for our workflows, that would be super powerful because it's just going to make every CTA and every output that much more tailored to those pain points.
+**Jesse Schor:** So we could definitely use those.
+**Jessalynn Jones:** I mean, even if you just like copied and pasted like the key pain points that are talked about in each of those sales conversations and who the person is that brought them up, like what their role is, that would be super helpful context.
+**Jessalynn Jones:** I also think about like, I saw that you had some like some of the key selling points that you guys brought up in the conversation that would be super helpful for developing CTAs and also incorporating that language into pieces.
+**Jessalynn Jones:** And that's all things we can feed in through artifacts as well.
+**Jessalynn Jones:** So I agree with Jakub.
+**Jessalynn Jones:** think seeing it like in more detail would be super helpful.
+**Jessalynn Jones:** And then we can maybe give you a more succinct list of how we could use it.
+**Jessalynn Jones:** But there's so many ways to use this.
+**Jessalynn Jones:** I agree with you.
+**Jessalynn Jones:** I think it'll be.
+**Jessalynn Jones:** We could do some pretty, pretty great stuff with this.
+**Jessalynn Jones:** And I think it'll just make the content that much better.
+**Jessalynn Jones:** And as far as topic ideation too, I think like knowing those key pain points, but not just the key pain points, but how they're talking about them will really inform the language that we're using and the type of topics that we're choosing.
+**Jessalynn Jones:** So, especially as we're talking about like GEO, we want to make sure that we're not just targeting keywords that we're seeing in SEMrush, but that we're also taking that a step further and making sure that we're using like the phrasing and language being used in LLMs, which is the phrasing and language that we're going to be seeing in those sales calls, I'm sure.
+**Jessalynn Jones:** So that'll be super helpful.
+**Jessalynn Jones:** Yeah, 100%.
+**Jesse Schor:** And yeah, I can definitely like send to you guys some of the like, yeah, like what I'm prompting it with and some of the outputs and stuff I'm getting.
+**Jesse Schor:** And then if there's more questions that you guys have, or like interesting takes or angles.
+**Jesse Schor:** And then just let me know and we can kind of like add into it.
+**Jesse Schor:** But yeah, I think there's a lot here and being able to view it across like a multitude of our clients.
+**Jesse Schor:** That's what's like so powerful for me on it because it's not just like we've done it like there's been like a really good sales call or really good strategy call where we just like went deep.
+**Jesse Schor:** We got really good, rich responses and then like can take that single call and get some topic ideas from it.
+**Jesse Schor:** But it's very like, you know, single point.
+**Jesse Schor:** And then we're kind of like taking a guess based off like contextual knowledge we have of just like, oh, I've heard this before, but I haven't heard it like described this way.
+**Jesse Schor:** And so this gives us a way to kind of consolidate across all of the calls that we're having and pulling from.
+**Jesse Schor:** And also look at like life cycles of some of our clients.
+**Jesse Schor:** So.
+**Jesse Schor:** Because we have, you know, like a year's worth of calls with a client.
+**Jesse Schor:** And so, like, we can capture from the very beginning of when they kicked off their website project to, you know, every step of that project to launch, to post-launch, what they focused on, why it mattered.
+**Jesse Schor:** And, like, I think there's, like, you know, a lot there that, like, we can extract and from, like, different perspectives even.
+**Jesse Schor:** Yeah, that's super powerful.
+**Jessalynn Jones:** I'm going to be really excited to see some of the, some of the outputs from that.
+**Jessalynn Jones:** That's really cool that you've, like, set that up.
+**Jessalynn Jones:** Because, like you said, I've seen a lot of people use, like, individual, like, recording transcripts and feeding that into LLMs.
+**Jessalynn Jones:** It's cool that you've, like, been able to feed, like, your entire Gong recording database into Cloud and analyzing it from there.
+**Jessalynn Jones:** That's really cool.
+**Jessalynn Jones:** Sweet.
+**Jesse Schor:** Well, thanks for staying.
+**Jesse Schor:** Hoover and taking a look at that.
+**Jesse Schor:** Yeah, keep me posted on any of the articles today if you guys need me to take a look at anything.
+**Jesse Schor:** And yeah, otherwise we'll talk next week.
+**Jesse Schor:** Hope you guys have a good long weekend.
+**Jesse Schor:** You too.
+**Jesse Schor:** Thanks, Jesse.
+**Jessalynn Jones:** Bye, guys.
+**Jessalynn Jones:** See you guys.
+**Jessalynn Jones:** Bye.

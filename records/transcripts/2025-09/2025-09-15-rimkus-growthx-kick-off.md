@@ -1,0 +1,1570 @@
+# Rimkus <> GrowthX - Kick Off
+
+<metadata>
+date: 2025-09-15
+time: 20:59 UTC
+duration: 62 minutes
+organizer: erik@growthx.ai
+participants: Erik O'Brien, George Haikal, Jennifer Bulmash, Alishia Natiello, Nohora Davila, Vitali Edrenkine
+fathom_recording_id: 87380505
+fathom_url: https://fathom.video/calls/409443280
+share_url: https://fathom.video/share/6F8syswVbrZ4DuvdzNRHU9mtvZPnUoSY
+source: fathom
+enriched_on: 2026-03-03 06:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX kicked off an 8-week strategy sprint with Rimkus to develop SEO/AEO strategies for their two distinct business segments: reactive forensics (where clients seek expertise after disasters) and proactive Built Environment Services (structural consulting sold via education and thought leadership). Rimkus is shifting to holistic, leadership-backed marketing after competing firms increasingly appear in search and AI answer results, requiring distinct content strategies for each business segment. The engagement will focus on customer discovery, brand voice definition, and content strategy framework in the first 3-4 weeks, with lead generation and measurable results tracking starting week 5-8.
+
+---
+
+## Context
+
+Rimkus is a multi-disciplinary engineering and expert consulting firm serving two distinct markets: forensics (investigating failures, damages, and liability) and Built Environment Services/BES (proactive building design, safety, and compliance). The firm is led by Vitali Edrenkine (recently hired marketing leader) and includes marketing teams for each segment: Jennifer Bulmash (interim marketing lead for forensics, corporate communications background) and Nohora Davila (BES marketing lead, based in Toronto). This is GrowthX's first engagement with Rimkus, structured as an 8-week strategy sprint. The engagement was initiated because new company leadership now prioritizes marketing and lead generation after seeing competitors gain visibility in search and AI answer results. The team has strong executive alignment for the first time, brand reputation, and some historical SEO efforts, but lacks a cohesive, data-driven marketing strategy spanning both business segments.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Strategy sprint structured around customer discovery first (3-4 weeks) before content production, demonstrating the discovery-first approach George pitches to prospects.
+- Client has clear brand reputation and historical SEO work to build on (not a blank-canvas situation); this is a reference-able pattern for B2B professional services firms.
+- Two distinct customer segments requiring separate content strategies, personas, and keywords — complexity that showcases GrowthX's ability to segment markets and tailor messaging.
+- Strong client stakeholder alignment and participation (Jen, Nora, Alishia, Vitali all hands-on) indicates high likelihood of execution and feedback velocity — predictive of successful engagement outcome.
+
+**To GrowthX Business Development:**
+- Rimkus exhibits multiple renewal/expansion signals: new VP-level leadership focused on marketing ROI, competitive pressure (seeing JS Held, HKA, EFI, Exponent, Vista, Thornton Tomasetti rank higher), and budget re-allocation to lead generation.
+- Firm is mission-critical to several high-value sectors (structural engineering, forensics, life sciences); 100% win rate when engaged indicates strong sales fundamentals that marketing improvements will directly unlock.
+- Early evidence of collaboration flywheel: Vitali asked George specific strategic questions about handling two business segments in SEO/AEO strategy, signaling thoughtful leadership and likelihood of becoming a reference.
+- 8-week sprint structure creates natural expansion point: after Phase 1 success metrics, Rimkus will likely extend to content production, paid media, or ongoing optimization (CheckThat opportunity if they explore AI answer visibility deeply).
+
+**To CheckThat:**
+- Direct mention: Vitali explicitly requested expertise in "Answer Engine Optimization" alongside SEO, and asked how AI answer visibility maps to their two business segments.
+- Use case validation: Rimkus is an ideal CheckThat prospect — multiple business segments, strong brand, but uncertain AI answer visibility across forensics vs. BES keyword sets.
+- Engagement roadmap: If week 3-4 discovery surfaces that competitors (JS Held, HKA) rank heavily in AI answers for both segments, Rimkus will have budget and executive urgency to address this before month 5.
+
+---
+
+## Overview
+
+- Rimkus has two main business segments: Forensics (reactive) and Built Environment Services (BES, proactive)
+- BES is the priority for growth, with structural services as the initial focus
+- Key challenges: limited team bandwidth, expert availability for content, and multi-level review process
+- Success metrics: increased leads, improved attribution, and growth in targeted territories/expert utilization
+
+---
+
+## Key Topics
+
+### Rimkus Business Overview
+
+  - Two main segments: Forensics (reactive) and Built Environment Services (BES, proactive)
+  - Life Sciences as a smaller segment
+  - Forensics: larger, established business; covers diverse areas (e.g., toxicology, construction claims)
+  - BES: newer, growing segment; covers entire lifecycle of built assets
+  - Value proposition: expertise, cost savings, proactive planning, code compliance
+
+### Growth Priorities and Challenges
+
+  - BES identified as main growth area by leadership
+  - Structural services within BES as initial focus for content strategy
+  - Challenges:
+      - Limited marketing team bandwidth
+      - Reliance on technical experts for content creation
+      - Multi-level review process (marketing, technical, legal considerations)
+      - Difficulty in communicating full range of services to existing clients
+
+### Current Marketing Landscape
+
+  - Website as primary lead source, mostly organic traffic
+  - Webinars and in-person seminars effective for engagement
+  - Some paid advertising (Google Ads, LinkedIn) - currently paused
+  - Case studies and thought leadership content as growth opportunities
+  - Need for better attribution and measurement of marketing efforts
+
+### Customer Acquisition and Retention
+
+  - 100% win rate when able to engage with potential clients
+  - Loss of opportunities due to slow response times on inquiries
+  - Manual process for routing inquiries causing delays
+  - Competitors often local, smaller firms offering lower prices
+  - Clients sometimes return after negative experiences with cheaper alternatives
+
+### Content Strategy Opportunities
+
+  - Develop targeted content based on seminar/webinar attendance
+  - Create more relevant, updated case studies
+  - Improve storytelling to connect different services offered
+  - Educate clients on full range of Rimkus capabilities
+  - Optimize existing content, especially evergreen pieces
+
+---
+
+## Action Items
+
+**Jennifer Bulmash (Rimkus)**
+- Send list of experts for key strategic initiative representation + territories targeted for strategic growth to Erik/GrowthX team
+
+---
+
+## Transcript
+**Erik O'Brien:** Hey, Jen.
+
+**Jennifer Bulmash:** Hey, how's it going?
+
+**Erik O'Brien:** Good.
+
+**Erik O'Brien:** How's your Monday starting?
+
+**Jennifer Bulmash:** Monday-ish.
+
+**Jennifer Bulmash:** How about yours?
+
+**Jennifer Bulmash:** One of those.
+
+**Erik O'Brien:** Yeah, busy since I woke up.
+
+**Jennifer Bulmash:** Mm-hmm.
+
+**Jennifer Bulmash:** Yeah, exactly.
+
+**Jennifer Bulmash:** I also am not super familiar with Notion, so I'll fully admit this on the call, but I'm too dumb to figure out how to add docs.
+
+**Jennifer Bulmash:** I tried to do it and then couldn't figure it out and then was just like, you know what, we'll just ask on the call.
+
+**Erik O'Brien:** So I may have to have someone walk me through adding actual docs into there.
+
+**Erik O'Brien:** Okay.
+
+**Erik O'Brien:** Not a problem.
+
+**Jennifer Bulmash:** Appreciate that.
+
+**Jennifer Bulmash:** Hey, Vitali.
+
+**Jennifer Bulmash:** Oh, go ahead.
+
+**Jennifer Bulmash:** Oh.
+
+**Jennifer Bulmash:** I didn't see you joined.
+
+**Jennifer Bulmash:** But yeah, we've got like actual brand documents and things we're going to add pretty easily as well.
+
+**Jennifer Bulmash:** Wonderful.
+
+**Jennifer Bulmash:** Once we learn.
+
+**Erik O'Brien:** Just trying to find that specific doc.
+
+**Erik O'Brien:** Oh, there it is.
+
+**George Haikal:** Hello, hello.
+
+**Jennifer Bulmash:** How are we doing?
+
+**Jennifer Bulmash:** Hi.
+
+**Jennifer Bulmash:** Not too bad.
+
+**Jennifer Bulmash:** Happy Monday, if there is such a thing.
+
+**George Haikal:** Yeah, feel like this Monday flew by.
+
+**George Haikal:** It's already, yeah, that's unbelievable.
+
+**George Haikal:** I think that's a good thing.
+
+**Jennifer Bulmash:** Yeah.
+
+**George Haikal:** Rather than taking much longer.
+
+**George Haikal:** Awesome.
+
+**George Haikal:** Are we waiting for anyone else on your all's end?
+
+**Jennifer Bulmash:** I don't think so.
+
+**Jennifer Bulmash:** I think it's the four of us today.
+
+**George Haikal:** Great.
+
+**George Haikal:** Fantastic meeting you all.
+
+**George Haikal:** I'm super excited.
+
+**George Haikal:** We are super excited to kick this off.
+
+**George Haikal:** I know we've heard great things from y'all from sales.
+
+**George Haikal:** If you all are cool with it, something that is helpful for us, there's just like a very quick intro.
+
+**George Haikal:** From each of you to better understand, you know, what you do and the position and the role and help give us a little context before we jump right in.
+
+**Jennifer Bulmash:** Sure.
+
+**Jennifer Bulmash:** Yeah, I'd be happy to start.
+
+**Jennifer Bulmash:** So I'm Jen Bulmash.
+
+**George Haikal:** Jen is fine or Jennifer.
+
+**George Haikal:** I don't care.
+
+**George Haikal:** Either one.
+
+**Jennifer Bulmash:** I'm currently our corporate communications manager at Rimkus, which doesn't historically line up with that same title at a lot of other companies.
+
+**Jennifer Bulmash:** So with a lot of my role involvements, you can just basically assume that if it's involved writing or editing in the past with Rimkus, I've probably been involved.
+
+**Jennifer Bulmash:** As of now, my role is shifting and I'll probably be your main point of contact here, but will definitely be supported by the others that you're about to meet.
+
+**Jennifer Bulmash:** And yeah, really going to spend a lot of my efforts focusing on how to drive some more traffic to Rimkus.
+
+**Jennifer Bulmash:** So Alicia, see you're off.
+
+**Jennifer Bulmash:** I'll pop corn over to you if you want.
+
+**Alishia Natiello:** Sounds good.
+
+**Alishia Natiello:** Hi, I'm Alicia Maniello, brand manager.
+
+**Alishia Natiello:** At Rimkus, similar to Jen, brand manager doesn't give the full story.
+
+**Alishia Natiello:** I also manage our website for the rimkus.com domain, along with any other domains as part of our M&A projects.
+
+**Alishia Natiello:** So, yeah, we're from the marketing department overall.
+
+**Alishia Natiello:** All of us are working on a bunch of new research into technology platforms and the like for different things that can help us drive qualified leads across the pipeline, starting from top and bottom of the funnel.
+
+**Alishia Natiello:** So, that's why I'm here.
+
+**Alishia Natiello:** Nora.
+
+**Nohora Davila:** Thank you, Alisha.
+
+**Nohora Davila:** Hi, everyone.
+
+**Nohora Davila:** My name is Nora Davila.
+
+**Nohora Davila:** I'm located in Toronto.
+
+**Nohora Davila:** I've been with the company for over five years.
+
+**Nohora Davila:** And as you guys may know,
+
+**Nohora Davila:** So, rimkus.com has the proactive and the reactive side of the business.
+
+**Nohora Davila:** I support the proactive side of the business that is building environment solutions, and it's going to be a huge priority for us to just push for that business, and I'm looking forward to working with everyone.
+
+**Nohora Davila:** Amazing.
+
+**Vitali Edrenkine:** Hi, and I'm Vitali.
+
+**Vitali Edrenkine:** I lead marketing at rimkus.
+
+**George Haikal:** Nice.
+
+**George Haikal:** Love it.
+
+**George Haikal:** Erik, you can go ahead.
+
+**Erik O'Brien:** Yeah, so, Erik O'Brien.
+
+**Erik O'Brien:** I am an account strategist here at GrowthX, so I'll be working with you guys pretty in-depth over the next eight weeks.
+
+**Erik O'Brien:** You'll get to meet a few of our other team members next week, but for this kickoff call, it's me and George.
+
+**George Haikal:** Amazing, and yep, I'll keep it very short.
+
+**George Haikal:** Amazing to meet you all.
+
+**George Haikal:** I'm George.
+
+**George Haikal:** I'm the chief of staff here, so I help with a lot of different parts of the business, but most recently it's been, I think we've put 28...
+
+**George Haikal:** 28...
+
+**George Haikal:** 29...
+
+**George Haikal:** 30...
+
+**George Haikal:** 22...
+
+**George Haikal:** 22...
+
+**George Haikal:** 31...
+
+**George Haikal:** Maybe 25 clients through the strategy sprint that we're on now, the kickoff call for.
+
+**George Haikal:** So really excited to dive deep.
+
+**George Haikal:** My background prior to this was in customer discovery and helping early stage companies find product market fit.
+
+**George Haikal:** So I kind of kept the same mindset of trying to get to the root of why things are happening, what's driving, like what are our North Star goals and all that.
+
+**George Haikal:** so it kind of is a perfect fit for this.
+
+**George Haikal:** I'll just introduce you kind of into the process now is basically this is the start of this eight-week sprint.
+
+**George Haikal:** And we want to treat it as we need to gain as much context as possible on your business, on how you operate, on how you want to sound.
+
+**George Haikal:** So we can create these artifacts that help enable and enhance all the workflows that we have.
+
+**George Haikal:** so data in is only as good as data out is only as good as data in.
+
+**George Haikal:** And so we dive really, really deep in this call and then for the first two, three, four weeks of this engagement to really understand.
+
+**George Haikal:** we're going back
+
+**George Haikal:** What does great look like on the content side for you all?
+
+**George Haikal:** How do you want to sound?
+
+**George Haikal:** Writing guidelines, brand style, tone, all of that.
+
+**George Haikal:** And so this call specifically is more about we don't know what we don't know.
+
+**George Haikal:** And so I saw you all do the homework on the kickoff call.
+
+**George Haikal:** So thank you so much.
+
+**George Haikal:** But it's like it's also very valuable to run through it still in a live discussion to understand the language you use and how you actually describe the things and kind of follow the energy there.
+
+**George Haikal:** And so treat this as a context dump and we'll kind of go from there, if that sounds good.
+
+**Jennifer Bulmash:** George, thank you for the intro.
+
+**Vitali Edrenkine:** And in the 20 to 25 kickoffs that you've led so far, what stands out as things that kind of were an indicator of success, what ended up working well or vice versa, things that kind of the whole project went off the rails?
+
+**George Haikal:** Great question.
+
+**George Haikal:** We've had 100, knock on wood, 100% success rate and conversion out of the sprint.
+
+**George Haikal:** to do a full-time contract.
+
+**George Haikal:** So yeah.
+
+**George Haikal:** Nothing has gone off the rails too bad, too poorly.
+
+**George Haikal:** I think the best thing up front on both sides is just the level of collaboration and buy-in that we have.
+
+**George Haikal:** Because we're going to do all this work to go understand your customer, your business, your goals.
+
+**George Haikal:** And like the more you can give us, the better.
+
+**George Haikal:** And then when we collaborate and actually calibrate on the content and what it looks like, that feedback that you give us is extremely valuable because we just ingest it and add it to our instructions.
+
+**George Haikal:** or writing guidelines just to make it better.
+
+**George Haikal:** And so it's this like flywheel of comments plus engagement.
+
+**George Haikal:** just continually improves the output.
+
+**George Haikal:** And early on, the clients who have leaned in the most have started seeing results the most and overall just been better off for it.
+
+**Vitali Edrenkine:** Excellent.
+
+**Vitali Edrenkine:** Well, I think you have the right people here from our side for this.
+
+**Vitali Edrenkine:** Alisha, obviously, who's responsible for the website.
+
+**Vitali Edrenkine:** Jen, specifically responsible for our partnership on search engine optimization.
+
+**Vitali Edrenkine:** Answer Engine Optimization on this work.
+
+**Vitali Edrenkine:** And Jen has another role as well.
+
+**Vitali Edrenkine:** She's our interim marketing leader for the forensics part of our business, which is the biggest one.
+
+**Vitali Edrenkine:** And Nora is the marketing leader for the second biggest and the highest potential or highest management attention, let me put it this way, part of our business, which we call the BES, Built Environment Services.
+
+**Vitali Edrenkine:** So you have the right people for people who have the expertise and Jen and her capacity of owning this collaboration as well.
+
+**George Haikal:** So we'd love to hear.
+
+**George Haikal:** Without further ado, let's jump right into it.
+
+**Jennifer Bulmash:** Let me share my screen.
+
+**Jennifer Bulmash:** I wanted to provide a quick caveat, by the way.
+
+**Jennifer Bulmash:** I started to go in and enter in a lot of the answers in the homework section, but I kind of specifically told Alisha and Nora that we would discuss on this call.
+
+**Jennifer Bulmash:** Also, these comments in here are more just a jumping off point.
+
+**Jennifer Bulmash:** They don't reflect the entirety of-
+
+**Jennifer Bulmash:** Just level setting here.
+
+**Jennifer Bulmash:** As you've kind of heard Vitali describe that these businesses, business sectors are comprehensive for our clients, but not necessarily every single client.
+
+**Jennifer Bulmash:** So there's going to be a ton of room here for us to really break down.
+
+**Jennifer Bulmash:** You know, you have questions about clients, honestly, client types and personas.
+
+**Jennifer Bulmash:** didn't even touch them because it depends on which area of the business you're speaking about.
+
+**George Haikal:** So just caveat, don't take this as a complete answer.
+
+**George Haikal:** They're just meant for us to start from.
+
+**George Haikal:** A hundred percent.
+
+**George Haikal:** No, we love that.
+
+**George Haikal:** We're on the same page there.
+
+**George Haikal:** And before we dive right in, just how we work is on Slack and then through Notion.
+
+**George Haikal:** And so this is your Notion workspace right now.
+
+**George Haikal:** We're on the strategy sprint kickoff.
+
+**George Haikal:** But within this workspace, all the documents we're creating, the contacts we're building, the artifacts we're building will all be here.
+
+**George Haikal:** When they're ready for review, we'll ping you.
+
+**George Haikal:** Like we really just want to act as an extension of your team, you know, and save time.
+
+**George Haikal:** so it's all organized in here.
+
+**George Haikal:** And then every meeting that we have is also going to be organized in here.
+
+**George Haikal:** Agenda, meeting recording, follow-up notes, and you can just click in and stay up to date with everything that we do.
+
+**George Haikal:** try to make it, again, as easy as possible for you all.
+
+**Jennifer Bulmash:** Can you show us real quick where to add documents if we want to add our brand guidelines and whatnot?
+
+**George Haikal:** Yes.
+
+**George Haikal:** So you can go to the docs, and then there's a space for clients, docs, files, and shared content.
+
+**George Haikal:** And then you can either add it as a sub-item or open this and include it here.
+
+**Jennifer Bulmash:** Okay.
+
+**Jennifer Bulmash:** I saw that and started to add those, but I didn't see a way to specifically add in, like, a file as opposed to, like, a URL.
+
+**Jennifer Bulmash:** So I figured it was something on my end, user error.
+
+**Erik O'Brien:** So I added a few there at the bottom.
+
+**Erik O'Brien:** Thank you.
+
+**Jennifer Bulmash:** Then you just hit backslash and type in file, and it'll add more of those for you to upload.
+
+**Erik O'Brien:** Thank you.
+
+**Erik O'Brien:** Good looking out.
+
+**George Haikal:** I appreciate it.
+
+**George Haikal:** No problem.
+
+**George Haikal:** And then any hesitation, on Slack as well, feel free to just throw anything over the fence, and, like, we'll figure out how to use it and incorporate.
+
+**Jennifer Bulmash:** Thank you.
+
+**George Haikal:** I appreciate it.
+
+**George Haikal:** course, don't let that be a blocker.
+
+**George Haikal:** All right.
+
+**George Haikal:** So, again, we'll just run for the top, brought by design, but I'm super excited to get your thoughts on, we can start with, like, what, why now?
+
+**George Haikal:** Why the why now with GrowthX?
+
+**George Haikal:** I know you said why now for AEO as well, but we can start with, yeah, why GrowthX?
+
+**Jennifer Bulmash:** Why now?
+
+**Jennifer Bulmash:** I'll chime in with some of my answers here, but then please, y'all, feel free if I'm missing things.
+
+**Jennifer Bulmash:** I think primarily, you know, growth goals.
+
+**Jennifer Bulmash:** That's what seems to be the overwhelming factor is that we want to increase traffic and visibility.
+
+**Jennifer Bulmash:** We're supporting business development.
+
+**Jennifer Bulmash:** Marketing has shifted a focus to prioritize, you know, bringing in new leads.
+
+**Jennifer Bulmash:** So that's our primary goal.
+
+**Jennifer Bulmash:** There is, there hasn't historically been a ton of leadership support for this sort of initiative in the past.
+
+**Jennifer Bulmash:** We've had leadership team shifting, and they really understand the importance of this now.
+
+**Jennifer Bulmash:** And so now that we've got that support.
+
+**Jennifer Bulmash:** And they're sort of seeing competitors who are showing up in this space.
+
+**Jennifer Bulmash:** They want to both remain, like, keep pace as well as, you know, differentiate ourselves.
+
+**Jennifer Bulmash:** So those were kind of my primary answers.
+
+**Jennifer Bulmash:** Others, please feel free.
+
+**Jennifer Bulmash:** If I haven't covered.
+
+**George Haikal:** Sounds like you covered most of it.
+
+**George Haikal:** What were some of the competitors that are most top of mind to you?
+
+**George Haikal:** And, like, if you can get as granular as, you know, is leadership looking at AI answers and seeing that we're not coming up?
+
+**George Haikal:** And that's been, like, one of the main focal points.
+
+**Jennifer Bulmash:** Like, any level of granularity you can add there is super helpful on competitors.
+
+**Jennifer Bulmash:** Sure.
+
+**Jennifer Bulmash:** Yeah.
+
+**Jennifer Bulmash:** So we have a bunch of competitors in this space.
+
+**Jennifer Bulmash:** I'd be happy to upload a list for you of the big ones.
+
+**Jennifer Bulmash:** I can tell you this is immediately where you'll start to see that segmentation we were talking about.
+
+**Jennifer Bulmash:** What you'll find about Rimkus is that our overall messaging seems to align with wanting to be a single-source solution for our clients.
+
+**George Haikal:** It's kind of a one-stop shop of comprehensive services.
+
+**Jennifer Bulmash:** There are a few players in that space where it's sort of consulting companies that offer a huge variety of both proactive and reactive services.
+
+**Jennifer Bulmash:** You can look at JS Held, I think, is a good example.
+
+**Jennifer Bulmash:** You can look at HKA as a good example of a very large expert consulting group.
+
+**Jennifer Bulmash:** You can look at EFI, an exponent, and in Vista.
+
+**Jennifer Bulmash:** Those are all competitors in the forensic space.
+
+**Jennifer Bulmash:** Thornton, Tomasetti.
+
+**Jennifer Bulmash:** Again, I know I'm throwing names out here, so we can go through.
+
+**Jennifer Bulmash:** send you the list.
+
+**George Haikal:** But Thornton, Tomasetti, Wisjani, Elsner, those are big ones in the BES space.
+
+**Jennifer Bulmash:** These are a lot of the competitors I know would be top of mind.
+
+**Jennifer Bulmash:** thanks, Alisha.
+
+**Jennifer Bulmash:** Throw them in there for us.
+
+**Jennifer Bulmash:** So, yeah, those would be good ones to look at.
+
+**Jennifer Bulmash:** I think what we're hearing, though, is, you know, even not even in AEO, but in SEO as well, we want to assure
+
+**Jennifer Bulmash:** Show up higher, you know, page one of Google.
+
+**Jennifer Bulmash:** We want to see ourselves show up there.
+
+**Jennifer Bulmash:** But yeah, in search results for AI queries as well.
+
+**George Haikal:** And what does that currently look like for you all?
+
+**George Haikal:** SEO, channels, where you're putting your current focus now?
+
+**George Haikal:** And is that shifting with leadership kind of becoming more invested in marketing in general?
+
+**Jennifer Bulmash:** When you say SEO, okay, go ahead.
+
+**Alishia Natiello:** I was just going to say, we're really starting at the basic foundation here.
+
+**Alishia Natiello:** We've had some SEO strategy in the past, but it's been very focused on one part of our business.
+
+**Alishia Natiello:** And so we're really just fresh into it from a holistic viewpoint.
+
+**Alishia Natiello:** And the leadership is Vitali here on the call, who's come in fresh after joining the past couple months.
+
+**Alishia Natiello:** And so that's the direction we're taking.
+
+**Alishia Natiello:** And then, and in turn, like, we'll be partnering more with our business development team as the sellers who are out there in the marketplace, right?
+
+**Alishia Natiello:** They know the latest and greatest from their conversations with clients, potential clients.
+
+**Alishia Natiello:** And so that's kind of the shift overall is from, like, the company perspective as well as Vitali's leadership.
+
+**Alishia Natiello:** And just wanting to, yeah, get more insights to drive what our content is as opposed to where we were kind of just, like, speaking with some people.
+
+**Alishia Natiello:** And, of course, you know, if you're in one part of the business or, you know, one specific service, you're going to say that's a priority.
+
+**Alishia Natiello:** But it might not be one of the priorities from an overall company standpoint into what's going to bring us the greatest ROI.
+
+**George Haikal:** What's going to drive the most users or the most.
+
+**George Haikal:** Customers.
+
+**George Haikal:** It completely makes sense.
+
+**George Haikal:** This is helpful.
+
+**George Haikal:** This is very helpful.
+
+**George Haikal:** Anything else top of mind for this engagement before we kind of move on?
+
+**George Haikal:** High-level goals?
+
+**George Haikal:** Any numbers you'd love to see moving in the next, you know, three to six months that would really make it feel like a home run here?
+
+**Vitali Edrenkine:** I mean, go ahead.
+
+**Vitali Edrenkine:** The numbers ultimately, this is a leading indicator, right?
+
+**Vitali Edrenkine:** And from this, it needs to translate into traffic that converts to essentially our prospects finding us.
+
+**Vitali Edrenkine:** And then that translates into our leads and opportunities and new business.
+
+**George Haikal:** 100%.
+
+**George Haikal:** And this is amazing because, you know, while there's kind of a blank canvas on the SEO and AEO strategy front, you all have a brand and have, you know, a reputation.
+
+**George Haikal:** so that's a really good starting point for us.
+
+**George Haikal:** It's we work with clients who have been
+
+**Vitali Edrenkine:** And stealth or they're releasing a product and they don't have different story.
+
+**George Haikal:** Yeah, correct.
+
+**George Haikal:** And so this is really good because, yeah, the first thing we'll try to do is drive reach and awareness, right, which is kind of like top of funnel impressions, clicks.
+
+**George Haikal:** And then what we're finding is like kind of speaking to the collaboration piece in the beginning, when we can collaborate and start acting on the early signals that we're seeing on the content side, then we double down on what's working.
+
+**George Haikal:** And so it's focusing on the signal tracking at first and the actions we're taking on those signals versus right away, like what is this one piece of content that's driving dollars?
+
+**George Haikal:** Like it really takes understanding each step in the process of what the user is interacting with and then what overall is starting to convert.
+
+**George Haikal:** And then that's when, you know, by week seven or eight, we can start kind of understanding the ROI when we built that foundation from the beginning, starting with reach and awareness.
+
+**George Haikal:** so that's, it is very good to hear.
+
+**Vitali Edrenkine:** Hey, and Eric, there's one.
+
+**Vitali Edrenkine:** One thing I want to emphasize, I want to make sure you're clear on this and kind of get your reaction, maybe not right away, but pretty quickly.
+
+**Vitali Edrenkine:** So when I introduced Jen as the interim marketing leader for our forensics business and Nora as the marketing leader for our BES, Built Environment Services business, it's important to understand that while there is cross-sell among these businesses, it's fundamentally a different motion.
+
+**Vitali Edrenkine:** One of them is reactive, another is proactive.
+
+**Vitali Edrenkine:** The reactive is a disaster happens, and people need to figure out what happened, and they need expertise.
+
+**Vitali Edrenkine:** They need experts who tell them what happened, and that's why they come to us.
+
+**Vitali Edrenkine:** And the proactive, it's more like, well, we know why buildings collapse, so let us help you make sure your building doesn't collapse.
+
+**Vitali Edrenkine:** It's a proactive approach.
+
+**Vitali Edrenkine:** People don't inherently search for that.
+
+**Vitali Edrenkine:** They're like, how do I make sure my building doesn't collapse?
+
+**Vitali Edrenkine:** You know, that's not how it works.
+
+**Vitali Edrenkine:** We have to proactively sell that.
+
+**Vitali Edrenkine:** And so, if you look at the chat, you'll see the message from Nora with the list of main competitors.
+
+**Vitali Edrenkine:** These are two distinct lists.
+
+**Vitali Edrenkine:** So what does it mean, right?
+
+**Vitali Edrenkine:** There's, I want to make sure, there's no overlap, is there?
+
+**Jennifer Bulmash:** Oh, JSHell does a little bit of both, right?
+
+**Vitali Edrenkine:** Yeah, there's some overlap.
+
+**Vitali Edrenkine:** But I want to get clarity again, not necessarily right away, but clarity from you.
+
+**Vitali Edrenkine:** How do you think about us?
+
+**Vitali Edrenkine:** Do you think about, or, and how does this translate into our SEO, AO strategy?
+
+**Vitali Edrenkine:** Do we need to have two lists of keywords?
+
+**Vitali Edrenkine:** Do we operate as two sub-companies?
+
+**George Haikal:** Do you know what I mean?
+
+**George Haikal:** A hundred percent.
+
+**George Haikal:** I mean, that's an amazing question.
+
+**George Haikal:** I think the way we think about it at the root is the content you create is only as valuable as how well you're solving the problem of the audience that's actually absorbing it and reading it.
+
+**George Haikal:** And so, like, it sounds like these two different sides of the business and we're going to jump into the customer discovery.
+
+**George Haikal:** Every portion of this call, which we'll go deep here.
+
+**George Haikal:** think that's where we should spend the bulk of this call.
+
+**George Haikal:** Like, it sounds like you're solving two different problems and pain points, and you're meeting these people in different areas of where they're struggling.
+
+**George Haikal:** They're struggling.
+
+**George Haikal:** That's right.
+
+**George Haikal:** So we'll make sure to, like, moving from, okay, the audience and the value you're driving, like, at the top of that are the keywords, the topics we're going to select, kind of the clusters that we're going to put together.
+
+**George Haikal:** And those will be different because at the end of the day, we're speaking to different people that are having a different set of problems.
+
+**George Haikal:** While there's some overlap, and it will be good to create content for that overlap, I think it's very good to keep some things separate as well.
+
+**Vitali Edrenkine:** Yeah.
+
+**Vitali Edrenkine:** And you should mostly listen to Jen and Nora because they've been here longer than I have.
+
+**Vitali Edrenkine:** So Jen or Nora, if you have some caveats to what I just said or straight out pushback and rebuttal, then you should communicate that.
+
+**Jennifer Bulmash:** No.
+
+**Jennifer Bulmash:** I think you said that well.
+
+**Jennifer Bulmash:** I think it'll make more sense, honestly, when we go in through the.
+
+**Jennifer Bulmash:** will you know and.
+
+**Jennifer Bulmash:** negative.
+
+**Jennifer Bulmash:** go.
+
+**Jennifer Bulmash:** Our.
+
+**Jennifer Bulmash:** Our.
+
+**Jennifer Bulmash:** Our.
+
+**Jennifer Bulmash:** Okay.
+
+**Jennifer Bulmash:** Our.
+
+**Jennifer Bulmash:** The current approach and the differences in our clients, because there are some situations, like there are certain examples you can give where we really can, from start to finish, give you examples of what every aspect of our business does.
+
+**George Haikal:** I mean, these are two parts.
+
+**George Haikal:** We're not even including life sciences, which is an additional area of the business.
+
+**Jennifer Bulmash:** You know, there's a lot of nuance to it.
+
+**Jennifer Bulmash:** But for the most part, I think he has a very strong point, Vitali, you do in the way that you've framed that.
+
+**Jennifer Bulmash:** And you'll see this later in just a base level.
+
+**Jennifer Bulmash:** In BES, we promote services.
+
+**Jennifer Bulmash:** As he said, everything is very service-oriented.
+
+**Jennifer Bulmash:** As long as the person is qualified, people don't tend to care who it is.
+
+**Jennifer Bulmash:** They just want the person with the right qualifications performing the services to help them achieve their goal.
+
+**Jennifer Bulmash:** Versus on the forensic side, people really want a unique expert, with a unique set of, you know, experiences, certifications, skills.
+
+**Nohora Davila:** Exactly.
+
+**Jennifer Bulmash:** Yeah, like primary is just one of the services, the experts.
+
+**Jennifer Bulmash:** That's
+
+**George Haikal:** And we can jump into that right now because I think it's important for that to take most of the time.
+
+**George Haikal:** But after this call, any materials, documentation, call transcripts that you have that can help add a little bit of color, we're happy to ingest all of that because essentially we're going to become experts in both parts of that business.
+
+**George Haikal:** And so the more, the better.
+
+**George Haikal:** And we're more than happy to meet and do deep dives on each one of these sections as well of the business to get, you know, as specific as possible.
+
+**George Haikal:** So because it sounds like there's a lot of nuance and it's almost treating it like it's two different strategies that then have different points where they converge.
+
+**Alishia Natiello:** I'm going to jump in and say as well, George, how we get these leads or projects or work can vary as well.
+
+**Alishia Natiello:** And those are differentiators for the business on the website, we have, I'll just share in the chat, our contact page, which has our form and.
+
+**Alishia Natiello:** The majority of those inquiries from that form are forensic related because it's the nature of they're just trying to find someone quick, whether it's like a law firm or insurance carrier, they're just Googling, right?
+
+**Alishia Natiello:** And that's part of like the strategy, of course, of we want to always be top of that list when they're like fire accident expert or whatever.
+
+**Alishia Natiello:** And so, yeah, I would say that's the main, the main driver for forensics right now.
+
+**Alishia Natiello:** And of course, like speaking with Nora, you know, more in depth about like BES and others, some of it's word of mouth with life sciences, some of it's, you know, searching through LinkedIn, but just wanted to point that out as well.
+
+**George Haikal:** No, no, no, that's helpful.
+
+**George Haikal:** We can just follow that track.
+
+**George Haikal:** So tell me more about the drivers for BES.
+
+**George Haikal:** It sounds like inquiries on the website are the majority of where leads are coming from.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Forensics, what's the case for BES?
+
+**Jennifer Bulmash:** I can start if it's helpful.
+
+**Jennifer Bulmash:** Nora, jump in.
+
+**Jennifer Bulmash:** I think this is exactly where you'd go with it.
+
+**Jennifer Bulmash:** One of the things you need to know is that, you know, even though we call, don't get caught up in the semantics of proactive versus reactive, because there are some reactive things that BES, that we can respond to that will bring in leads for clients.
+
+**Jennifer Bulmash:** So, as you have facade ordinances or local code ordinances that are, that have certain deadlines, you know, hey, you must have your building inspected by this date in New York City or else you start to get fined, things like that.
+
+**Jennifer Bulmash:** We can, we offer qualified engineers, architects, technical consultants in those certain regions who are well-versed in all of the requirements of that area.
+
+**Jennifer Bulmash:** And that's a huge untapped resource Nora can likely tell you about way better than I can.
+
+**Jennifer Bulmash:** We want to go after them maybe on a seasonality basis or a deadline.
+
+**Jennifer Bulmash:** Basis for those certain compliance issues.
+
+**Nohora Davila:** don't, Nora, jump in.
+
+**Jennifer Bulmash:** Is that kind of better?
+
+**Nohora Davila:** And just to provide some context, over the last five years, BES have grown with this business structure of acquiring small companies around US and Canada that get into the rimkus umbrella and provide different services for the BES area.
+
+**Nohora Davila:** So that's how we have been, like, growing our footprint, and we have carried all these clients.
+
+**Nohora Davila:** So that has been, like, very impactful.
+
+**Nohora Davila:** Right now, the goal is to expand and just reach out for more because we have all the capabilities.
+
+**Nohora Davila:** The thing here is, yes, building codes and regulations, it's something that is out there that they have to be, like, they're fined.
+
+**Nohora Davila:** We have the experts that we can perform these building codes and regulations and perform the different services.
+
+**Nohora Davila:** So it's something that we want to promote, like highly promote.
+
+**George Haikal:** We have a couple of landing pages on the website, but definitely we can create more content regarding articles and the services that we can provide.
+
+**Nohora Davila:** We have also developed email marketing campaigns around these topics.
+
+**Nohora Davila:** And like in terms of just building condition assessment, every building needs a building condition assessment.
+
+**Nohora Davila:** Structural is that type of the market that if you go to a big city, the business is there.
+
+**Nohora Davila:** And I can go very granular.
+
+**Nohora Davila:** I have my list of all the services under different practice areas.
+
+**Nohora Davila:** We have 10 different practice areas on BES.
+
+**Nohora Davila:** And under these each practice areas, we have different services that we provide.
+
+**Nohora Davila:** That we...
+
+**Nohora Davila:** So definitely a lot of content that you will be receiving from me.
+
+**Vitali Edrenkine:** An example of how Nora said every building needs a building condition assessment is when there is a transaction for a large property, right?
+
+**Vitali Edrenkine:** And there may be financing involved.
+
+**Vitali Edrenkine:** Well, the bank that backs the financing may request a building condition, property condition assessment or building condition assessment.
+
+**Vitali Edrenkine:** It's kind of what in our real estate world, what's it called, residential real estate, know, banks also request some sort of review or assessor.
+
+**Vitali Edrenkine:** Well, in the financial, that's where we come in because we are certified to do those.
+
+**Jennifer Bulmash:** Think of me as like every, every phase of the building, like the built assets lifecycle, we can assist.
+
+**Jennifer Bulmash:** If it's needing to be renovated, we can help provide, you know, design recommendations.
+
+**Jennifer Bulmash:** It's a historic building that needs to just be maintained, but, you know, keeping in those historic elements, they've got those experts.
+
+**Jennifer Bulmash:** it's really anywhere in a building lifecycle or any kind of property lifecycle, that's BES.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** And so we can touch on life sciences too, but just so I can have a mental model here, it sounds like forensics and BES are the two biggest priorities for you all.
+
+**George Haikal:** What is the breakdown of, like, what is the breakdown currently within those two categories?
+
+**George Haikal:** 50-50?
+
+**George Haikal:** I mean, obviously not if there's life sciences, but, like, what do those numbers look like?
+
+**Nohora Davila:** And then where do you want to put more of the effort?
+
+**Jennifer Bulmash:** You're talking about the breakdown of our current priorities or our current amount of it.
+
+**Jennifer Bulmash:** Right now, I think BES needs the biggest push.
+
+**Jennifer Bulmash:** That's going to be our main area of focus from leadership.
+
+**Jennifer Bulmash:** That's the area they've identified as needing a large push.
+
+**Jennifer Bulmash:** Forensics is historically a much larger part of our business.
+
+**Jennifer Bulmash:** But because of that, they're more established.
+
+**Jennifer Bulmash:** And then they also require a more unique approach because forensics is like an umbrella term that captures a bunch of different service areas of expertise under that one umbrella.
+
+**Jennifer Bulmash:** So some of the things under forensics may be related.
+
+**Jennifer Bulmash:** They may not be related.
+
+**Jennifer Bulmash:** Forensics could include anything from like toxicology to construction claims and disputes versus BES being one area of the business where everything is related.
+
+**Jennifer Bulmash:** That's historically, that's the new-ish part of, it came from forensics.
+
+**Jennifer Bulmash:** had clients who essentially said, great, you've made all these recommendations for our buildings that are falling apart or that have failed or whatever.
+
+**Nohora Davila:** Can you help us with the next steps?
+
+**Nohora Davila:** And BES was born.
+
+**Jennifer Bulmash:** So now that they're building out this practice, that's the one that needs, I mean, it's established, but that's the one that needs the, is getting the big push from leadership at the moment.
+
+**George Haikal:** That's helpful, that's helpful, and then.
+
+**Jennifer Bulmash:** I just was, I was going to try and quantify with numbers for you.
+
+**Jennifer Bulmash:** I don't, I would say, I mean, maybe, Nora, or unless you've heard, you know, someone say how big of a push it might more about BES has a lot of potential of growing, and that's where we should put our efforts and get first as a priority.
+
+**Nohora Davila:** Agreed.
+
+**George Haikal:** Makes sense.
+
+**George Haikal:** Makes sense.
+
+**George Haikal:** And then, so, within here, and we can do a customer-specific slash persona-specific deep dive later as well, but would love to hear a little bit more about, so this is broad, right?
+
+**George Haikal:** Like, you're serving a lot of different people, and those people have different moments that trigger the need to use you all, and essentially, you have different, slightly different value props for each one.
+
+**George Haikal:** So, I guess, tell me what the outliers are, yeah, you definitely have plenty of information, I can see your smile, and, like, the nuances, and, like, how much information is here, but...
+
+**George Haikal:** Let me understand a little bit more about the nuances within these categories.
+
+**Nohora Davila:** Well, I mean, we can give you something more like the list is very large, but basically value added is we have the expertise.
+
+**Nohora Davila:** We can help them save money.
+
+**Nohora Davila:** That's the main key of what we sell.
+
+**Nohora Davila:** We can save for these buildings to collapse or to get future repairs that are going to cost the double.
+
+**Nohora Davila:** That's something like in terms of timing or planning.
+
+**Nohora Davila:** We have, we promote something that is reserve fund studies for condominiums.
+
+**Nohora Davila:** And it's basically help you plan in terms of money and what you're building will need in the next five years.
+
+**Nohora Davila:** So, it's more about money and you're
+
+**Nohora Davila:** Being proactive, safe money, and follow codes and regulations.
+
+**Jennifer Bulmash:** Basically for like building managers, or excuse me, building owners, property managers, actually really HOAs and condo boards as well.
+
+**Jennifer Bulmash:** Like Nora said, it's about sort of, you know, meeting safety requirements, making upgrades to buildings to both protect like the safety, like safeguard spaces for tenants, occupants, you know, clients, et cetera, the employees.
+
+**Jennifer Bulmash:** But then, as Vitali was saying, know, as places are, as entities are buying buildings, helping ensure that the building that they have purchased is a sound investment or that they're meeting all the legal requirements as part of the deal.
+
+**Jennifer Bulmash:** There are services we provide that, you know, maybe somebody wants to optimize a building.
+
+**Jennifer Bulmash:** Perhaps they need it, they know that they will need a roof in the next couple of years.
+
+**Nohora Davila:** It's a roof replacement, but, you know, rimkus prioritizes sustainability, maintainability, resilience.
+
+**Jennifer Bulmash:** So, you know, if they're not just working with us to replace the roof, but like Nora said, perhaps they have to plan for it and have to set aside, you know, figure out how much money to set aside for a repair of that nature or a total replacement.
+
+**Jennifer Bulmash:** Or perhaps they have a growing demand from tenants in, you know, HOA's tenants or condo building's tenants to upgrade certain aspects of the building for more energy efficiency to lower, you know, monthly bills, et cetera.
+
+**Jennifer Bulmash:** Any of these things that would come up in the life cycle of a building, we can probably help with.
+
+**Jennifer Bulmash:** We just, there are a couple examples that would be better fit probably for a client deep dive, but Nora and I can tell you a little bit about our target, like our territory growth plans related to some of the code compliance issues, things that'll come up.
+
+**Jennifer Bulmash:** For both, really for one through three on our segment breakdown list here, these specific regions that have specific laws that they must abide by.
+
+**Jennifer Bulmash:** And so being able to meet them at the deadlines and provide the services they need, but not just those services, then expanding to provide them with whatever sort of comes from those services.
+
+**Jennifer Bulmash:** So if your building has been deemed unsafe, we don't just leave you there.
+
+**Jennifer Bulmash:** We then can help provide the recommendations to fix the repairs or to help you budget for repairs to help you forecast your future needs, et cetera.
+
+**Jennifer Bulmash:** I don't know if that helps or if that convolutes things, but it's definitely worth a separate deep dive.
+
+**Jennifer Bulmash:** 100%.
+
+**Jennifer Bulmash:** You took the words out of my mouth.
+
+**George Haikal:** But everything you just said, it's gold because all of those things that you do, value that you provide, that correlates directly with the content that we want to create because we want to be able to communicate that value to the right audience.
+
+**George Haikal:** And so speaking to as many of these moments as possible is going to be extremely helpful, but I can tell there's a lot there, and so we can definitely put a small pin in it for like a client and segment-specific deep dive, but very helpful and it's impressive, like just the level of understanding you all have on all these different nuances.
+
+**George Haikal:** So great job there.
+
+**George Haikal:** then one question here might not be as applicable, but what I've seen before, what we've seen before with other clients is when they're choosing a new solution, when they're choosing rimkus, they're switching from something else.
+
+**George Haikal:** Here it might be more nuanced because it's kind of activity-driven or event-driven, but presumably a lot of these customers have either used something else, a competitor, or their first time that, you know, they got hit with this struggle, this painful moment that they then sought out a solution for.
+
+**George Haikal:** Where are most
+
+**George Haikal:** of your customers switching from, like what is that switching moment that you're seeing?
+
+**Jennifer Bulmash:** I can't necessarily speak to all of them, but I know what we've heard in the past is that, you know, these services are not cheap.
+
+**Jennifer Bulmash:** And a lot of times people will go with someone local who gives them a quote, you know, and says, hey, I, you know, don't that I can quote you something lower.
+
+**Jennifer Bulmash:** You don't need to go with that big firm and their people won't necessarily be as qualified.
+
+**Jennifer Bulmash:** You know, there's some real nuance to the qualifications you need for certain inspections.
+
+**Jennifer Bulmash:** And these people will try to save money, you know, in the short run because they work with maybe a local or smaller firm.
+
+**Jennifer Bulmash:** And it ends up costing them money in the long term because, you know, something that should have been identified wasn't.
+
+**Jennifer Bulmash:** Or a simple solution that they thought they had included in their approach was not so simple and was, in fact, harmful.
+
+**Jennifer Bulmash:** So I can't speak to all of the others, I'm sure we'll think of others.
+
+**Jennifer Bulmash:** But we have heard that previously, a lot of times people come to us after sort of trying.
+
+**Nohora Davila:** Cheaper option first, and it blowing up in their faces.
+
+**Nohora Davila:** Correct.
+
+**Nohora Davila:** That happens a lot here in Canada.
+
+**Nohora Davila:** You know, we get a lot of snow.
+
+**Nohora Davila:** And roofers will promote, like, we can do roof condition assessments.
+
+**Nohora Davila:** We can test the materials of your roof.
+
+**Nohora Davila:** And then the roof collapse, or you end up with a bunch of leaks.
+
+**Nohora Davila:** And then it's, that's the opportunity for rimkus experts to come and, look, this is what you should have done.
+
+**Nohora Davila:** In the first place.
+
+**Nohora Davila:** So that happens a lot because a price point, definitely, we cannot be compared as a roofer or a contractor.
+
+**George Haikal:** So basically that.
+
+**George Haikal:** And then the other side of that coin, it sounds like where customers are making, you know, mistakes and they're coming to you is from when they mess that up.
+
+**George Haikal:** But where are you seeing the opposite end, where you're losing to customers?
+
+**George Haikal:** Like when they're.
+
+**George Haikal:** Choosing something else, usually after you, but what are competitors doing or value that's being provided to these customers that you're seeing sometimes you lose against?
+
+**Alishia Natiello:** I would say, kind of like what I said with the contact page form, is just not quick enough response time from our team.
+
+**Alishia Natiello:** So, either we're taking too long just to acknowledge that they've reached out or that we're taking too long to find the correct person who would be their point of contact, like internally.
+
+**Alishia Natiello:** Like, you know, kind of saying, oh, is this, you know, really up George's alley or would it be Erik?
+
+**Nohora Davila:** I don't know.
+
+**Nohora Davila:** I'm not sure.
+
+**Nohora Davila:** And like I said, for those cases, for, you know, attorneys and the like, they're moving on, you know, right away.
+
+**Alishia Natiello:** They're going back to their Google search or wherever and just finding the next one available.
+
+**Vitali Edrenkine:** Yeah, when we engage, we don't lose.
+
+**Vitali Edrenkine:** That's what I've heard from the team, really.
+
+**Vitali Edrenkine:** And for George, if you're more familiar with the software world, it'll sound interesting or surprising to you.
+
+**Vitali Edrenkine:** Like we have a 100% win rate from the, if we're able to engage.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** And so I guess this, this is definitely important.
+
+**George Haikal:** Like what, what is, what are the blockers on this response time issue?
+
+**Alishia Natiello:** They're coming from our, yeah, they're coming from, um, the, the contact page form, um, which is something that we're working on, uh, as a project of mine, um, with Tally for the website is there, um, is either we're not getting it quick enough through the filters, um, or we just have to have a manual process.
+
+**Alishia Natiello:** So the right, right now they submit a form, um, it gets,
+
+**Alishia Natiello:** Automatically sent through after layers of qualification spam filtering, and it gets sent to a real person on our client relations team, and that person has to manually read through the message and then make that determination to say, yes, I think this is a life sciences project, and I think this team specifically, the human factors team, would need to respond.
+
+**Alishia Natiello:** And then they call, email, whatever, get a hold of that person, and then the response comes afterwards.
+
+**George Haikal:** Interesting.
+
+**George Haikal:** Sounds like a lot of steps.
+
+**George Haikal:** It sounds like a lot of steps.
+
+**George Haikal:** I'm not, obviously our focus here is content and editorial, but just to give you a little insight from other clients, and what we do on their behalf is we have, and this is in the context of writing, but it can be applied to any.
+
+**George Haikal:** Any time you need to essentially score or add criteria to a set of decisions you want to make.
+
+**George Haikal:** So our agentic researcher essentially adheres to the brand style tone and writing guidelines, lines of each one of our client, and it will continue to loop until it hits the criteria that we set.
+
+**George Haikal:** And then it will evaluate itself on that score.
+
+**George Haikal:** And so that same logic and set of workflows and steps in my head can be applied here because essentially when you break it down to the steps your team is actually taking, right?
+
+**George Haikal:** It's they're reading and understanding a message until they get to a point where they need to identify an issue type and then who is best equipped to handle that issue.
+
+**George Haikal:** And each one of those can be steps that loop until it gets something correct or at least help aid that process and then pull the human in like we do with our editors when it's like you really need to sign off and to confirm.
+
+**George Haikal:** But it has saved us so much time, which is the only reason I mention it.
+
+**George Haikal:** And, you know,
+
+**George Haikal:** On the side, I'll do a little more digging on what can be done here, but completely understand the pain because we've had to solve it ourselves in some ways.
+
+**Alishia Natiello:** Yeah, and that's something that we're looking into, you know, transparently with other solutions.
+
+**Alishia Natiello:** But if you have anything on that, that's always helpful.
+
+**Alishia Natiello:** And I would say, yeah, we already kind of have those steps, like from, you know, our team members, right?
+
+**Alishia Natiello:** They have a lookup sheet, I'm sure, of when you see these keyword terms, this means this group and this service.
+
+**Alishia Natiello:** When you see, you know, X, Z, this, that sort of thing.
+
+**Alishia Natiello:** And that's exactly what we're trying to do is automate it so that it can go, hopefully, you know, just right to that person and take out the additional steps in between of the manual determination.
+
+**George Haikal:** Interesting.
+
+**George Haikal:** Very cool.
+
+**Alishia Natiello:** I'm getting excited.
+
+**George Haikal:** I'm excited.
+
+**George Haikal:** Okay, Erik, did I miss anything on the customer stuff that you wanted to dig more into?
+
+**Erik O'Brien:** Just taking a quick look.
+
+**Erik O'Brien:** No, I think most of, at least for today, we're good.
+
+**Erik O'Brien:** We'll definitely do a deep dive on both forensics and BES.
+
+**Nohora Davila:** And I'm planning to, like, get more detailed answers for you in terms of BES, so at least you have that picture.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** Like I said, throw anything over the fence and we'll figure out how to deal with it.
+
+**George Haikal:** Okay, and then we can go into the current state a bit, and then I want to leave some time towards the end to kind of define success and the next steps here.
+
+**George Haikal:** But anything else on, you know, where your best user are coming from today?
+
+**George Haikal:** know they're hitting your way.
+
+**George Haikal:** Website first, but that signals there can help us understand where we want to double down.
+
+**George Haikal:** So we can start there.
+
+**George Haikal:** there any areas that are like super outliers that you'd want more priority and focus on if you could 10x the output here?
+
+**Jennifer Bulmash:** I dropped in some of those examples here.
+
+**Jennifer Bulmash:** I don't know necessarily if there's one in particular.
+
+**Jennifer Bulmash:** All the examples of content dropped in, by the way, I don't know if I would say there are three best.
+
+**Jennifer Bulmash:** They're just three new-ish.
+
+**Jennifer Bulmash:** top two, I can give you more details into how they perform.
+
+**Jennifer Bulmash:** Basically, we don't have a ton of ways to measure if it is actually us who are driving these leads here.
+
+**Jennifer Bulmash:** I think that overall is huge for me.
+
+**Jennifer Bulmash:** I mean, the top two may have a more clear idea, but this is something that just.
+
+**Jennifer Bulmash:** In the past, we haven't had that attribution.
+
+**Jennifer Bulmash:** You know, we've known what we've, we know the efforts that we've put in and we've heard, you know, word of mouth kind of back from consultants as people have said, oh, this helps drive business or, oh, I now reuse this URL and send it to clients as a marketing piece.
+
+**Jennifer Bulmash:** And that, you know, has helped me support my book of business.
+
+**Jennifer Bulmash:** And that's been awesome.
+
+**Jennifer Bulmash:** But yeah, even just at the baseline of clear attribution so that we can better understand where these leads are coming from would be helpful for me because we do a lot.
+
+**Jennifer Bulmash:** We have a fair amount that we likely won't even cover on this call.
+
+**Jennifer Bulmash:** You we have, I think one of the questions asked sort of what our marketing landscape looks like right now.
+
+**Jennifer Bulmash:** yeah, down there for 11.
+
+**Jennifer Bulmash:** I tried to drop in as many of the things that we've got going on that we can, I can think of.
+
+**Jennifer Bulmash:** And there's probably a couple I haven't covered here, but a fair amount of this really, you know, there are plenty of places that offer the opportunity to build out some really nice organic content or to even opt.
+
+**Jennifer Bulmash:** Optimize existing content, some of it which is relatively evergreen.
+
+**Jennifer Bulmash:** So being able to optimize those things, use the processes that we already have in place, and, you know, some of the programs that this greater rimkus organization already has buy-in with would be huge.
+
+**Jennifer Bulmash:** Opening the floor for others, but I don't know if that helps answer the question or not.
+
+**Alishia Natiello:** Yeah, I was just going to say, I think the majority of our website traffic is organic versus the paid.
+
+**Alishia Natiello:** On traffic, as well as kind of what's in down here, that can come from, like, I guess it would be technically organic, I would say, but it's, like, made by us, is, like, the webinar seminars.
+
+**Alishia Natiello:** So we get a lot of leads out of those.
+
+**Alishia Natiello:** And I know we're pausing right now on our Google Ads, but we've run those.
+
+**Alishia Natiello:** In the past, as well as LinkedIn ads.
+
+**Jennifer Bulmash:** Which are also the best.
+
+**Alishia Natiello:** Yeah.
+
+**Alishia Natiello:** And webinars and seminars, meaning like seminars, live in-person events is what we do.
+
+**Alishia Natiello:** And a lot of those are very like one-on-one with clients or potential clients.
+
+**Alishia Natiello:** And those can help like filter or provide leads as well.
+
+**George Haikal:** Which totally makes sense if you're solving for engaging someone and getting their attention.
+
+**George Haikal:** then you have 100% after that, like the fact that in-person or these more interactive experiences are working is not surprising at all.
+
+**Jennifer Bulmash:** You know, it's interesting though on that point, I've been having some conversations lately with forensics leaders as part of this kind of interim forensics role.
+
+**Jennifer Bulmash:** And some of the feedback that we've gotten is that we will have long Long
+
+**Jennifer Bulmash:** Long-time clients who have been to multiple events and they won't fully grasp the range of services we offer.
+
+**Jennifer Bulmash:** We'll have someone who will have been to multiple live crashes where we talk about injury biomechanics of low-speed collisions and really illustrate our transportation team and our injury biomech team.
+
+**Jennifer Bulmash:** And then they will just have never grasped that we also offer so many other services that may or may not have been related if they didn't come out.
+
+**Jennifer Bulmash:** So a lot of what we could do here is figure out, yes, we have, you know, this engagement portion, but how do we take even an engaged audience and not overwhelm them with the sheer amount of things that we do?
+
+**Jennifer Bulmash:** Have, like, really connect the dots, tell stories a little bit better so that people understand, you know, with VES, it's a great place for us to start because everything is related and we are able to kind of draw a line through that entire life cycle of the built asset.
+
+**Jennifer Bulmash:** But on the forensic side or the life sciences side, it really does take some connection between.
+
+**Jennifer Bulmash:** You know, to helping existing clients better understand that they don't have to go outside of Rimkus for an additional service they might need, both helping them understand, hey, you actually need this, you just, it hasn't come up for you yet, but you will need this.
+
+**Jennifer Bulmash:** And guess what?
+
+**Jennifer Bulmash:** Rimkus has it.
+
+**Jennifer Bulmash:** And not only do we have it, we've been offering it for, you know, 40 plus years.
+
+**Jennifer Bulmash:** So drawing those connections, I think, is a big deal.
+
+**George Haikal:** Yeah, that's super interesting.
+
+**George Haikal:** There's so much, the brain's already moving on the different types of opportunities, because it's like, there's a portion of it that's almost education in, like, around and then pre and post the event or, like, action that takes place.
+
+**George Haikal:** It sounds like there's a lot of opportunity there to position some of the content in a way where it helps kind of show people what they're actually going to come up against in the near future, and position Rimkus as the solution that can help them.
+
+**George Haikal:** Not now, but in the future, or both, right?
+
+**George Haikal:** Exactly.
+
+**Jennifer Bulmash:** You ask, I think, in one...
+
+**Jennifer Bulmash:** Some of the questions you asked about kind of a customer journey, something that would be interesting, for example, with our continuing education team, which is who puts on the webinars and seminars, it'd be great if we had better ways to kind of create targeted content for them based off of the seminars or webinars that they attended and draw those connections and help, you know, provide case studies that really bolster maybe what they just saw and how it could tie in exactly to their type of role.
+
+**Jennifer Bulmash:** Or, you know, ways, case studies are a huge element of marketing material that I know I was drawn to when I first started at Rimkus, and Alisha will tell you, we've got a bunch of old, sad ones on the website, if being really candid, they just are from a previous marketing time, but as we've added newer ones that have, you know, been more relevant to the business, we really have seen, I think, an uptick in interest.
+
+**Jennifer Bulmash:** And case studies are one of those facets of the business where it doesn't matter if you need our services, you might still find what we do pretty interesting, as you said, your wheels are turning.
+
+**Jennifer Bulmash:** So, um, that's a huge.
+
+**Jennifer Bulmash:** Huge area for growth, you know, on the website with our case studies, our blog posts, and then our thought leadership initiative is being able to kind of tell the rim kiss stories to increase that brand awareness and spread that message of being the comprehensive like one stop shop.
+
+**Jennifer Bulmash:** That's the stuff that sticks with people.
+
+**Jennifer Bulmash:** I mean, when we all give our elevator pitch about what we do, I think inevitably, we all have that discussion and it ends with someone going, oh, that's cool.
+
+**Jennifer Bulmash:** I didn't know that that company or that industry existed.
+
+**Jennifer Bulmash:** I think capitalizing on that and the fact that what we do is interesting to people, it's messaged the right way.
+
+**Jennifer Bulmash:** It's kind of bottom line.
+
+**Jennifer Bulmash:** The way that I approach our marketing strategy is how do we just make it interesting, even if it's not relevant to that specific person at that specific time.
+
+**George Haikal:** I love it.
+
+**George Haikal:** I love it.
+
+**George Haikal:** For the sake of time, we'll move down the list here.
+
+**George Haikal:** just so you all know, I have to jump four or five minutes early.
+
+**George Haikal:** I just have another back to back that I have to get to in person, but Eric will be able to close us out for sure.
+
+**George Haikal:** much.
+
+**George Haikal:** Talk to us a little bit more about the biggest blockers right now or constraints.
+
+**George Haikal:** Is it team capacity?
+
+**George Haikal:** Is it like, yeah, I guess what are the biggest blockers?
+
+**Jennifer Bulmash:** I'll just really quickly, I added those three internal resources.
+
+**Jennifer Bulmash:** We're just a limited team.
+
+**Jennifer Bulmash:** have a big amount of projects.
+
+**Jennifer Bulmash:** So any sort of help with some of the administrative or more repetitive tasks is incredible.
+
+**Jennifer Bulmash:** Bandwidth, you know, speaking specifically to experts, they're the source of our technical truth.
+
+**Jennifer Bulmash:** As you've seen, we all have a fair amount of knowledge here, but we obviously are not, we weren't the ones who went to school for engineering and architecture, et cetera.
+
+**Jennifer Bulmash:** So, you know, relying on experts for that content is sometimes difficult.
+
+**Jennifer Bulmash:** And then our review process for a lot of what we do, it can be brought up in a deposition.
+
+**Jennifer Bulmash:** Our clients serve as expert witnesses, most often on the forensic side.
+
+**Jennifer Bulmash:** The other two areas of the business that we've discussed, it's not as big of a deal, but anything that we put out publicly can be used against us.
+
+**Jennifer Bulmash:** So we have to be really nuanced.
+
+**Jennifer Bulmash:** A large part of what you learn about the rimkus voice is the nuance of what we can and cannot say so that we avoid promising.
+
+**Jennifer Bulmash:** Overall, that's what you need to know.
+
+**Jennifer Bulmash:** We can't promise anything.
+
+**Jennifer Bulmash:** We are an impartial third party.
+
+**Jennifer Bulmash:** We don't tell people what they want to hear.
+
+**Jennifer Bulmash:** We don't really say that we meet anyone's needs, for example, because if your need as a client is that you get the right answer on this matter.
+
+**Jennifer Bulmash:** If that's not what happened, we're not going to tell you it is.
+
+**Jennifer Bulmash:** you know, really that not just the review process, but having to make sure that everything is reviewed multiple times to avoid that legal issue could be quite a bottleneck as well.
+
+**George Haikal:** Interesting.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** And like any more context you have, guidelines, any documents or processes you have written up that you've enabled the team with, that would be helpful for us as well.
+
+**George Haikal:** I guess, speaking to it, like what's the process right now?
+
+**George Haikal:** Like how many levels of review?
+
+**George Haikal:** Are there, know you said you've reviewed and seen yourself personally, pretty much like all the content, if it had to do with content.
+
+**George Haikal:** And so like, help me understand what that process currently looks like.
+
+**Jennifer Bulmash:** It depends on the project, but essentially working with whoever has written it, myself, a member of this team or a technical lead, if they've shared it with us, working with them to kind of iron out all of the initial details and then ensuring that a technical or practice leader that is just a peer or a superior to the author has reviewed and approved.
+
+**Jennifer Bulmash:** And then in some instances, depending on the content, it does tend to go a little bit higher, but we've historically had a much heavier review process in the past.
+
+**Jennifer Bulmash:** And ownership is being, I think, given back fairly a little bit more to the marketing team.
+
+**Jennifer Bulmash:** So I imagine as long as we've had sort of a marketing team review and approval and then a technical approval, both for accuracy and for kind of those legal concerns, we're good to post.
+
+**George Haikal:** Got it.
+
+**George Haikal:** Got it.
+
+**George Haikal:** Something we'll definitely want to stay on top of early and better understand.
+
+**George Haikal:** And that's why the collaboration up front is really, really helpful.
+
+**George Haikal:** Back and forth, levels of review, incorporating the comments and iterating on it as we're getting them.
+
+**George Haikal:** So we'll be proactive and communicating a lot, which is exciting.
+
+**George Haikal:** Appreciate that.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** I do have to drop, but this was fantastic.
+
+**George Haikal:** Erik can kind of close us out and go through like what a home run looks like in this engagement.
+
+**George Haikal:** And then he can lay out, you know, what the next one or two weeks of expectations.
+
+**George Haikal:** It shouldn't look like, but it was fantastic meeting you all.
+
+**George Haikal:** And you'll be seeing me a bit throughout the next couple of weeks as well.
+
+**Vitali Edrenkine:** So thank you, George.
+
+**George Haikal:** Thank you.
+
+**Nohora Davila:** Yep.
+
+**Nohora Davila:** Thank you.
+
+**Nohora Davila:** All right.
+
+**Erik O'Brien:** So, yeah, like you said, just a couple more questions and we will get this wrapped.
+
+**Erik O'Brien:** So we talked about it a little bit in the beginning of kind of the overall motivation for why we're here and what, you know, success looks like.
+
+**Erik O'Brien:** But.
+
+**Erik O'Brien:** But.
+
+**Erik O'Brien:** But.
+
+**Erik O'Brien:** But.
+
+**Erik O'Brien:** But.
+
+**Erik O'Brien:** But.
+
+**Erik O'Brien:** You
+
+**Erik O'Brien:** If we were to kind of say, like, home run, what would that look like for you guys?
+
+**Jennifer Bulmash:** I dropped those first couple in there.
+
+**Jennifer Bulmash:** I mean, to me, they're the easy ones.
+
+**Jennifer Bulmash:** know, slow hanging fruit.
+
+**Jennifer Bulmash:** What do you want?
+
+**Jennifer Bulmash:** More leads?
+
+**Jennifer Bulmash:** What do you want?
+
+**Jennifer Bulmash:** Like, a way to measure them and really show their efforts are causing the needle to move.
+
+**Jennifer Bulmash:** I don't know if I stole the good ones, but.
+
+**Alishia Natiello:** I think, Nora, like, any insight, right, on, like, BES specifically, since that's our priority.
+
+**Alishia Natiello:** Like, maybe we internally want to think on any numbers, like, to associate with that.
+
+**Alishia Natiello:** That might be a good measure.
+
+**Nohora Davila:** Yeah.
+
+**Nohora Davila:** And as we dive in into this initiative, we will come up with some more clear goals.
+
+**Nohora Davila:** The main practice area will be, for now, structural, which is a lot of content that we can develop and work on.
+
+**Alishia Natiello:** And.
+
+**Alishia Natiello:** Yeah, we'll go from there.
+
+**Alishia Natiello:** BES.
+
+**Alishia Natiello:** I just want everything.
+
+**Alishia Natiello:** Yeah, and from a website visitor's perspective, I can look into our information now, and like we said, as we continue the planning process, kind of help Nora, Jen, with the different sides of the business and say, okay, you know, this many users come to forensic pages or BES pages, and let's improve this by XML.
+
+**Alishia Natiello:** You or, you know, some other kind of things from there.
+
+**Jennifer Bulmash:** Then on the forensic side, I won't make you type all these, but I've got a list of experts who currently maybe are established in their fields, but are not established at our company.
+
+**Jennifer Bulmash:** They're new-ish to our team.
+
+**Jennifer Bulmash:** Would love to use them as kind of key strategic initiative representation, you know, for supporting, like, how much of a job increase have they seen?
+
+**Jennifer Bulmash:** How much is their bandwidth decreasing so that we're able to say, hey, we are causing this increase in activity.
+
+**Jennifer Bulmash:** Similarly, there are some territories that have been targeted for strategic growth.
+
+**Jennifer Bulmash:** I can provide you that list as well, but those would be areas that we would want to see an increase in job volume.
+
+**Jennifer Bulmash:** That would be a good measurement of our success.
+
+**Jennifer Bulmash:** But I can send you, again, all of these if that's helpful for both the experts and the territories.
+
+**Jennifer Bulmash:** Yeah, that would be awesome.
+
+**Erik O'Brien:** With the last two minutes, does anybody else have anything to add here?
+
+**Erik O'Brien:** No?
+
+**Erik O'Brien:** Okay.
+
+**Erik O'Brien:** Anything we haven't asked that you feel like we should have or just we should know in general?
+
+**Erik O'Brien:** I mean, there's a lot we need to know, but for today's kickoff.
+
+**Nohora Davila:** you.
+
+**Nohora Davila:** Yeah.
+
+**Nohora Davila:** Thank
+
+**Nohora Davila:** I think this is a good starting point.
+
+**Nohora Davila:** It will be a lot of layers, but we're giving you the big picture, and it will come into a lot of details.
+
+**Nohora Davila:** But this is good for our first call.
+
+**Nohora Davila:** I believe so.
+
+**Nohora Davila:** So, same.
+
+**Jennifer Bulmash:** Agreed.
+
+**Jennifer Bulmash:** Well, I think we'll be able to provide you with more insights as well once we have a little bit bigger picture of what we don't know or what you don't know, what we need to, how we need to fill in the gaps for you.
+
+**Jennifer Bulmash:** I will say in, within the questions where I was able to provide answers, you'll see a couple of our ongoing initiatives or new key strategic initiatives that may influence what we're doing.
+
+**Jennifer Bulmash:** So, you know, we didn't touch on it, but when I've used platforms to kind of look into our AEO presence right now, able to, we've been able to identify some expert databases where we'd like to get our experts listed or.
+
+**Jennifer Bulmash:** Um, legal databases where, you know, we can pull warm leads from related to insurance, excuse me, to legal clients.
+
+**Jennifer Bulmash:** So there are several different things going on that may have, um, low hanging fruit for us in terms of optimizing content or, you know, having an approach for, um, specific types of, you know, keyword targeting, et cetera, um, to help those initiatives, which will then help this initiative.
+
+**Jennifer Bulmash:** So, um, more to come on those, but obviously much longer phone calls.
+
+**Erik O'Brien:** Yes, absolutely.
+
+**Erik O'Brien:** Um, wonderful.
+
+**Erik O'Brien:** Well, from here, we will send a recap and kind of link to this meeting just so we all have it.
+
+**Erik O'Brien:** Um, we'll reach out to do some of the deep dives as well.
+
+**Erik O'Brien:** And then starting next week, you'll meet a little bit more of the team.
+
+**Erik O'Brien:** Like I mentioned, um, our content manager and managing editors, um, which will be kind of the people that are experts in the loop with our AI content generation platform.
+
+**Erik O'Brien:** Um, so more to come.
+
+**Erik O'Brien:** More conversations do we had, but appreciate everyone's time for today's kickoff.
+
+**Erik O'Brien:** was super enlightening for both me and George.
+
+**Erik O'Brien:** And we will follow up in Slack.
+
+**Erik O'Brien:** And again, if anything, any issues of sharing to Notion or whatnot, just feel free to ping us or throw it in Slack and we'll get it sorted out.
+
+**Alishia Natiello:** So let us know if you have questions.
+
+**Alishia Natiello:** Thank you.
+
+**Jennifer Bulmash:** Thank you, Erik.
+
+**Nohora Davila:** so much.
+
+**Nohora Davila:** Thank you.
+
+**Jennifer Bulmash:** Bye.
+
+**Nohora Davila:** Bye.
+
+**Nohora Davila:** Bye.
+
+**Nohora Davila:** Take care.
+
+**Nohora Davila:** Bye.

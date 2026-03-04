@@ -1,0 +1,1079 @@
+# pod Jason weekly
+
+<metadata>
+date: 2025-10-09
+time: 16:30 UTC
+duration: 46 minutes
+organizer: Liz Kushnereit
+participants: Nathalie Schrans, Jason Gong, Marisol Smith, Sydney Go, Liz Kushnereit, Edin Abazi
+fathom_recording_id: 93097929
+fathom_url: https://fathom.video/calls/430758113
+share_url: https://fathom.video/share/np_5xcGU39HMnw22T3xLSTczxz3vcyHN
+source: fathom
+enriched_on: 2025-10-09 17:16 UTC
+</metadata>
+
+---
+
+## Summary
+
+Jason's pod reviewed content delivery and account health across three core clients. Augment is pausing content production for one week to refine workflows and launch Augie CLI; Webflow is progressing smoothly with integration pages and use case guides, with a QBR Wednesday; Surge is shifting to a high-quality "Art of Post-Training" content series after earlier struggles. The team flagged workflow challenges with Neural (now replaced by agentic pipeline) and identified that approvals attribution remains a key blocker across accounts.
+
+---
+
+## Context
+
+This is Jason Gong's weekly pod standup — a recurring check-in with Nathalie (Augment lead), Sydney (Webflow lead), Liz (Surge lead), Marisol (CheckThat/ops), and Edin (external collaborator or advisor). The pod owns content delivery across three strategic B2B tech clients: Augment (AI code generation tooling), Webflow (visual development platform), and Surge (AI post-training platform). The meeting happens during peak delivery crunch: Augment is mid-pivot to enterprise positioning, Webflow is in a critical week of integration work leading to a client QBR, and Surge is in recovery mode after relationship strain. Broader context: GrowthX is testing new workflow methodologies (agentic pipelines over vendor solutions like Neural), and team is collecting feedback on metrics attribution and approvals visibility that could inform product strategy for CheckThat.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Workflow methodology shift: Agentic pipeline outperforming Neural for Webflow. Signals opportunity to standardize on in-house/lightweight solutions vs. vendor dependencies.
+- Content quality blocker: Augment requesting calibration articles to refine EPD workflow. Nathalie assigned to create v1 article with team feedback loop.
+- Blog architecture patterns: Augment's /learn, /tools subpath restructuring (with 301 redirects) is reusable pattern for other clients.
+- Technical writer resource gap: Jason tasked with sourcing technical writer/developer to improve content quality — indicates team capacity constraint.
+
+**To CheckThat:**
+- Approvals attribution challenge: Webflow flagged that approvals are hard to attribute to specific pages; team agreed to focus on early-signal metrics before conversion data. This is a live use case for CheckThat's visibility index.
+- Agentic pipeline insights: Webflow success with agentic pipeline (vs. Neural) suggests demand for AI visibility into content workflows and agent decision-making.
+
+**To GrowthX Business Development:**
+- Augment account health: Relationship healthy; Sil (client) now more involved in content process, signaling increased engagement and potential expansion signals around enterprise positioning.
+- Webflow expansion: Multiple opportunities flagged (use case guides, integration pages, blog category optimization). QBR Wednesday is critical moment for upsell conversation.
+- Surge account risk: Still "post-challenges" per meeting notes. Team focusing on delivering high-impact "Art of Post-Training" series to rebuild trust. Monitor for renewal risk if content doesn't land.
+
+---
+
+## Overview
+
+- Augment: Pausing content production for 1 week to refine workflows, clean up existing content, and launch Augie CLI
+- Webflow: Integration pages progressing well; SEO articles paused after initial 5 for monitoring
+- Surge: Developing "Art of Post-Training" content series; aiming for high-quality, Hacker News-style articles
+
+---
+
+## Key Topics
+
+### Augment Content Strategy
+
+  - Pausing 30 articles/week production for 1 week (week after next) to:
+      - Refine workflows for better content quality
+      - Clean up/consolidate existing content
+      - Launch Augie CLI (100+ workflows)
+  - Experimenting with refreshing existing high-performing content
+  - Restructuring blog: new subpaths (/learn, /tools, etc.) with 301 redirects
+  - Dev team working on blog optimizations (categories, CTAs, table of contents)
+
+### Webflow Updates
+
+  - Integration pages progressing smoothly
+  - Stopped working with Neural due to slow delivery; agentic pipeline performing well
+  - SEO articles: Pausing after initial 5 for performance monitoring
+  - Use case guides: Updating artifacts based on Vic's feedback, generating new sample for review
+  - QBR deck preparation underway (Liz and Sydney)
+
+### Surge Content Strategy
+
+  - Developing "Art of Post-Training" series
+  - Aiming for high-quality, Hacker News-style content
+  - Focus on creating 1-2 excellent articles to prove capability
+
+### Development Updates
+
+  - Augment Code Library ready; waiting for content and Augie CLI integration
+  - Augment blog optimizations in progress (table of contents, CTAs, categories)
+
+### Client Relationship Management
+
+  - Augment: Sil more involved in content process; company shifting towards enterprise focus
+  - Webflow: Healthy relationship; multiple expansion opportunities
+  - Surge: Challenges persist; team focusing on delivering high-impact projects to rebuild trust
+
+---
+
+## Action Items
+
+**Nathalie Schrans (GrowthX)**
+- Pick 1 Augment content type; create v1 article; add comments for improvement; share with EPD team for workflow iteration
+
+- Create doc/linear ticket for Augment blog restructuring (new subpaths, 301 redirects); CC Jason and Ed
+
+- Generate 1-2 calibration articles for Data Annotation (pick from topics 2, 3, or 4)
+
+**Sydney Go (GrowthX)**
+- Upload Webflow integration pages tomorrow
+
+- Send over current SEO articles to Webflow team; confirm pause on production next week
+
+- Update artifacts/assignment direction for Webflow use case guides based on Vic's feedback; generate new guide for review next week
+
+**Liz Kushnereit (GrowthX)**
+- Start working on Webflow QBR deck with Sydney; prepare for Wednesday presentation
+
+- Begin content strategy doc for Surge Art of Post-Training series; focus on creating 1 high-quality article for Edin's review
+
+**Marisol Smith (GrowthX)**
+- Map all published Augment articles; refresh/add new prompts in Crunch
+
+---
+
+## Transcript
+**Sydney Arin Go:** Thank you.
+
+**Sydney Arin Go:** Thank you.
+
+**Sydney Arin Go:** Hey.
+
+**Marisol Smith:** Hey.
+
+**Edin Abazi:** Hello.
+
+**Marisol Smith:** Hi, how's everyone?
+
+**Edin Abazi:** How are you guys?
+
+**Marisol Smith:** Good.
+
+**Sydney Arin Go:** Thank you.
+
+**Sydney Arin Go:** you.
+
+**Sydney Arin Go:** time.
+
+**Sydney Arin Go:** Getting tired.
+
+**Sydney Arin Go:** It's 1230.
+
+**Sydney Arin Go:** And I'm on my fifth call, I think.
+
+**Marisol Smith:** And I have this one and one more after this.
+
+**Sydney Arin Go:** Three hours of calls.
+
+**Sydney Arin Go:** Back to back.
+
+**Sydney Arin Go:** But it's fine.
+
+**Sydney Arin Go:** How's everyone else doing?
+
+**Edin Abazi:** I'm not as bad as you.
+
+**Sydney Arin Go:** I'm not doing bad.
+
+**Marisol Smith:** How's your baby, Ed?
+
+**Edin Abazi:** Good, good.
+
+**Edin Abazi:** He just woke up like 10 minutes ago and just like started crying out of nowhere.
+
+**Edin Abazi:** Sometimes when he wakes up and like he's alone in the room, he just starts crying like crazy.
+
+**Edin Abazi:** It takes like 15 minutes to calm him down.
+
+**Liz Kushnereit:** How old is he?
+
+**Edin Abazi:** Four months.
+
+**Liz Kushnereit:** Oh.
+
+**Liz Kushnereit:** Yeah.
+
+**Edin Abazi:** Poor guy.
+
+**Edin Abazi:** Like full on, like tears and everything.
+
+**Edin Abazi:** It's just so dramatic.
+
+**Edin Abazi:** Sorry.
+
+**Marisol Smith:** Oh.
+
+**Liz Kushnereit:** You could just strap him to you while you work, you know, that's always, you know.
+
+**Edin Abazi:** Yeah, he's heavy.
+
+**Edin Abazi:** He's really heavy.
+
+**Edin Abazi:** Crazy heavy for his age.
+
+**Edin Abazi:** Like, the doctor was like, he weighs, and he's as big as, like, a seven-month-old.
+
+**Edin Abazi:** Yeah.
+
+**Edin Abazi:** My niece, my niece is turning one, and she's the same weight as him.
+
+**Edin Abazi:** Yeah.
+
+**Marisol Smith:** Hi, Nathalie.
+
+**Nathalie Schrans:** Hi, everyone.
+
+**Nathalie Schrans:** Hey.
+
+**Nathalie Schrans:** I guess we're just waiting for our illustrious leader, Jason.
+
+**Marisol Smith:** Hi, Nathalie.
+
+**Marisol Smith:** Thank you.
+
+**Sydney Arin Go:** Natalie, did you guys already do the QPR for Augment?
+
+**Nathalie Schrans:** Yes, was yesterday in the office.
+
+**Nathalie Schrans:** I was there for part of it.
+
+**Nathalie Schrans:** think Liz was also there, but we were like cameras off mute.
+
+**Nathalie Schrans:** And I, it was really long though.
+
+**Nathalie Schrans:** I think it was like two hours long, but we, we didn't, I didn't stay the whole time because I had to.
+
+**Nathalie Schrans:** We even do some other work.
+
+**Nathalie Schrans:** I think it went well.
+
+**Nathalie Schrans:** I don't know.
+
+**Nathalie Schrans:** It sounded good.
+
+**Nathalie Schrans:** It was hard to focus on listening to the conversation, but also trying to get work done for Augment, ironically.
+
+**Nathalie Schrans:** I think it's good.
+
+**Sydney Arin Go:** Yeah, I think we have to do one.
+
+**Nathalie Schrans:** And Liz and I are going to work on one for Webflow next week.
+
+**Nathalie Schrans:** Yeah.
+
+**Nathalie Schrans:** So that's Webflow going overall.
+
+**Sydney Arin Go:** I assume it's going to be on Wednesday because Wednesday is our regular meeting time.
+
+**Jason Gong:** Hello.
+
+**Liz Kushnereit:** Yeah.
+
+**Jason Gong:** Hi, everyone.
+
+**Nathalie Schrans:** Hi, Jason.
+
+**Jason Gong:** I just came from another call, so let me open up our talk.
+
+**Jason Gong:** Did everybody get their chance to fill...
+
+**Jason Gong:** Maybe we can spend, like, two minutes just jotting some notes down.
+
+**Jason Gong:** think today we just keep it short.
+
+**Jason Gong:** mean, we're all super busy on, like, the accounts that we're on, but we could do a quick update on just, like, each of the accounts because there's a lot of flux for almost all of them.
+
+**Jason Gong:** And just talk about priorities.
+
+**Jason Gong:** Not Fathom, okay.
+
+**Jason Gong:** Yeah, so let's take, like, two minutes to fill out whatever notes you want to talk about for your client.
+
+**Jason Gong:** Thank you.
+
+**Jason Gong:** Thank you.
+
+**Jason Gong:** Oh, it looks like most people aren't done.
+
+**Jason Gong:** I think probably we can talk through just, like, everyone's main, like, concerns and questions, and then I can give kind of some high-level thoughts on probably Surge is the biggest one, but then also the other accounts.
+
+**Nathalie Schrans:** So the main update is that now that we have these new content types mapped out for augment code, we need to create, maybe like experiment with workflows.
+
+**Nathalie Schrans:** So right now, I think, I mean, the thing that we have the most clarity on and that I think that we could do best at is these really structured product alternatives and comparison pieces.
+
+**Nathalie Schrans:** We have a lot of them already.
+
+**Nathalie Schrans:** So I think the one thing that I'm not sure about is that whether we'd be refreshing content that we've already published or should we just publish, like explore new topics.
+
+**Nathalie Schrans:** I don't know really.
+
+**Nathalie Schrans:** mean, Marisol, you might have more context on this.
+
+**Nathalie Schrans:** I don't even know if there's many alternatives or comparisons left that we could do that we haven't done already.
+
+**Nathalie Schrans:** Otherwise, maybe we need to experiment with a different workflow for a different content type.
+
+**Nathalie Schrans:** I just don't feel as confident with those other content types as I would with the product alternatives and comparisons.
+
+**Jason Gong:** Yeah, I think the process to figure out there for everyone is what it takes to go for a certain content type.
+
+**Jason Gong:** Kind of an article that's not that great to one that gets better.
+
+**Jason Gong:** I feel like Sydney and I probably are the, or Sydney is probably the person, at least here, that's like spent the most time on that.
+
+**Jason Gong:** And generally our approach there has been, I think, again, like looking at the agentic workflow, seems like it's actually like quite good and all it takes is just like the right inputs as far as like instructions and artifacts to get that to be better.
+
+**Jason Gong:** Sure.
+
+**Jason Gong:** I would say for this workflow, we have the benefit in iterating it.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I think what we should try to do is pick, I would say, one content type for augment that you want to do this for, and then do a similar process.
+
+**Jason Gong:** So, you know, do your own passive, like the artifacts and the inputs to create version one, and then kind of just like read through it and do this where you're commenting more on like your own thoughts for like, why this article needs to be better.
+
+**Jason Gong:** I would say when you're commenting, try to like generalize the things you're saying so that, you know, when Kirkland or Stevie reads it, they can kind of like improve the workflow in a way that doesn't just improve for this one article, it like carries over to every other list of colors.
+
+**Jason Gong:** Like, yeah, I mean, I don't know if we need to make it into the sprint or just...
+
+**Jason Gong:** We'll escalate this, but we'll do a few passes back and forth, and hopefully we can get that workflow to a state where it's really good.
+
+**Jason Gong:** then, again, looking at what it took to get this one to be better, I think, once you see how that's done, you can probably start to do that yourself with the other workflows.
+
+**Jason Gong:** Yeah, so that would be, I think, my approach, just like pick one of the categories and then just do it be one, and then create a threat to the EPD teams.
+
+**Jason Gong:** Like, hey, you know, here is a pipeline we're trying to iterate to make better, like here is our feedback, like how do we kind of proceed?
+
+**Nathalie Schrans:** Does that make sense?
+
+**Nathalie Schrans:** Yeah, yeah, no, that definitely makes sense.
+
+**Nathalie Schrans:** I guess my main question being that if I were going to, you know, build up.
+
+**Nathalie Schrans:** Or experiment with these workflows for product alternatives.
+
+**Nathalie Schrans:** I think the best way of doing that would be to refresh content that we have already published that we know is doing well.
+
+**Nathalie Schrans:** And I'm just wondering how, in terms of production volume, how that would work.
+
+**Nathalie Schrans:** Because right now we're at 30 new pieces a week.
+
+**Nathalie Schrans:** And I do think it's worth spending time, of course, on these workflows to make our content better.
+
+**Nathalie Schrans:** I just don't know how to navigate that with Sill if the expectation is still 30 new pieces a week.
+
+**Nathalie Schrans:** Or if you think there is some flexibility there to...
+
+**Jason Gong:** Well, I think, I mean, for the most part, he's letting us manage that.
+
+**Jason Gong:** Do you think of, instead of a new piece, we're rewriting an existing one.
+
+**Jason Gong:** Like, we'll be able to do 15 new and 15 existing, like...
+
+**Nathalie Schrans:** I mean, Marisol, what do you think?
+
+**Nathalie Schrans:** Because, I mean, if we...
+
+**Nathalie Schrans:** I think if we spend time on the workflows, it'll be less editing for the refreshed pieces.
+
+**Nathalie Schrans:** And if we just kind of do what we've been doing, which isn't really editing these new pieces, then we definitely can.
+
+**Nathalie Schrans:** But I'll leave it up to you, Marisol.
+
+**Nathalie Schrans:** You're the one who's actually going to be doing this.
+
+**Marisol Smith:** Yeah.
+
+**Marisol Smith:** I mean, if we could stop for a week generating the 30 articles, it would be awesome.
+
+**Marisol Smith:** Awesome.
+
+**Marisol Smith:** So we can focus on improving the pipelines and refreshing articles, merging.
+
+**Nathalie Schrans:** Because we need to figure out a plan for merging all these things.
+
+**Nathalie Schrans:** I mean, it would just be setting up 301 redirects.
+
+**Nathalie Schrans:** And then there's also kind of like planning out the blog restructuring as well.
+
+**Nathalie Schrans:** And that could give us more time to experiment with not just these two content types, not just product alternatives and product comparisons, but maybe Marisol, we can do like one or two other content types if we're able to spend.
+
+**Jason Gong:** Okay, let's do that, I'll, yeah, mean, the ask, I mean, it's not even an ask, we're basically just going to tell them, like, hey, we're going to pause, I think, next week or the week after, I guess either one of those weeks, and then what we're going to do that week is, like, do some kind of cleanup, like, I think we should look at all the stuff we published and try to, like, see if there's just some stuff that doesn't make sense that needs to be, like, consolidated, we're going to use that week to launch the Augie CLI stuff, and then, for the most part, like, all the workflows I was playing around with creating them, and I'll invite you guys, but then I can just say, like, hey, this week, we're going to kind of clean up, we're going to launch Augie CLI, which has, like, you know, whatever, like, 100 odd workflows, and then
+
+**Jason Gong:** And we'll kind of, like, he gets the whole concept of, like, what our workflows do.
+
+**Jason Gong:** And then we'll just feel like, hey, we're going to retool some of our workflows to try to create better content that gets cited, you know.
+
+**Jason Gong:** So let's do that.
+
+**Jason Gong:** Yeah.
+
+**Nathalie Schrans:** Do you guys want that to be next week or the week after, you think?
+
+**Nathalie Schrans:** I mean, I think it is a good idea to have it aligned with the Auggie CLI launch.
+
+**Nathalie Schrans:** So if that's going to be next week or the week after, I don't know, Marisol, what do you think?
+
+**Nathalie Schrans:** Yeah.
+
+**Nathalie Schrans:** It's a holiday for us in the U.S.
+
+**Nathalie Schrans:** on Monday, so we'd have one day less.
+
+**Marisol Smith:** But then we could do, like, I could catch up the fall on Monday.
+
+**Marisol Smith:** Maybe we could postpone for the week after, so next week we can strategize on how to do it.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** So, and also what we could do is, I know.
+
+**Jason Gong:** We've been wanting to migrate to this, like, couple paths on the website, like, slash tools, I think, or slash guides, slash questions.
+
+**Nathalie Schrans:** You know, like, I think we could try to do that as well.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I guess the week after next, like, allocate time on your end to kind of support this.
+
+**Jason Gong:** Do you know if that works for you?
+
+**Edin Abazi:** you have anything big coming in the backlog for what we've got after next?
+
+**Edin Abazi:** I was just going to say, like, dev bandwidth is, like, fainting up a little right now.
+
+**Edin Abazi:** So if you guys have any dev-related stuff, go free to throw it over here.
+
+**Nathalie Schrans:** Okay, awesome.
+
+**Nathalie Schrans:** Yeah, basically, we're going to create new subpaths for Augment's blog.
+
+**Nathalie Schrans:** And then so that'll just mean setting up, like, I mean, I don't know if this is the best way of doing it.
+
+**Nathalie Schrans:** So, you know, feel free to suggest other ideas.
+
+**Nathalie Schrans:** if this is the best of doing
+
+**Nathalie Schrans:** We need to set up 301 redirects, because everything is under slash guides now, but things would move into slash learn or slash tools or something like that for all the content that we've already done.
+
+**Nathalie Schrans:** So let me know if you have questions.
+
+**Nathalie Schrans:** I don't know how that would work technically.
+
+**Jason Gong:** I haven't done something like that before.
+
+**Jason Gong:** I think if we could just start a doc for it or a linear ticket and just CC me and Ed, we can fill that one.
+
+**Nathalie Schrans:** Okay, I'll start that just so it's there.
+
+**Edin Abazi:** We just started working on the augment code blog optimizations the day before.
+
+**Edin Abazi:** And right now, the way we're building it is the slug for the blog categories is going to be slash blog slash category and then the slug of the category.
+
+**Edin Abazi:** Or do we want it in a different way?
+
+**Jason Gong:** Oh, I didn't even know we had categories.
+
+**Jason Gong:** I feel like that one, I don't know.
+
+**Edin Abazi:** We don't.
+
+**Edin Abazi:** Yeah, we don't have any right now, but that was like part of the ticket, like one of the augment code optimization tickets, basically like implementing some of the CTAs in the blog itself, the table of contents, and then the blog categories themselves.
+
+**Edin Abazi:** So if we don't have like a preferred method, like we'll just continue doing it the way we were.
+
+**Edin Abazi:** Yeah, I think that's fine.
+
+**Jason Gong:** I mean, I don't know if it's any harder to remove the word category if most people like don't.
+
+**Edin Abazi:** The only reason we do that is that there's a chance of like a blog post slug having the same name as a category slug.
+
+**Edin Abazi:** It's a rare thing, but like if it happens, it can, yeah.
+
+**Jason Gong:** That sounds good.
+
+**Nathalie Schrans:** So are you saying, sorry, I'm just going to type it out to make sure you understand, so it's the blog, slash blog, slash category, and then URL slug?
+
+**Edin Abazi:** Yeah.
+
+**Nathalie Schrans:** Or the category page.
+
+**Nathalie Schrans:** Because we basically decided...
+
+**Nathalie Schrans:** Classes that we've mapped out are guides, learn, tools, and I think industry news is the other one.
+
+**Nathalie Schrans:** So do you think it would be worth swapping out category for any of, like you do blog slash guides, and that would be the category in the blog?
+
+**Edin Abazi:** Does that make sense?
+
+**Edin Abazi:** We can't do that without the category keyword, but I think we have to match them under blog.
+
+**Jason Gong:** But I this might be like just a different ask.
+
+**Jason Gong:** Like did we give this ask or did Sil ask for this?
+
+**Jason Gong:** Because for the most part, we don't actually even publish on their blog.
+
+**Jason Gong:** Like we only publish under guides.
+
+**Jason Gong:** I mean, we can take this one offline, but maybe pay me in the tickets so I can take a look.
+
+**Jason Gong:** Because again, yeah, like we don't even touch their blog.
+
+**Marisol Smith:** The guides is the parent.
+
+**Jason Gong:** Unless you...
+
+**Jason Gong:** I unless you mean guides category, I'm not really sure.
+
+**Jason Gong:** And then I think what we're moving towards is like, like now these will be just subpaths.
+
+**Jason Gong:** feel like this is, like it won't be like blog category learn.
+
+**Jason Gong:** Like that's, yeah.
+
+**Nathalie Schrans:** Yeah, and if you can tag me that linear ticket as well, just on the loop.
+
+**Edin Abazi:** Yeah, of course.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And then data annotation, just to move it along.
+
+**Jason Gong:** I think have to hop a little bit after that.
+
+**Jason Gong:** Yeah, how's the data annotation kind of content strategy going?
+
+**Nathalie Schrans:** It's going well.
+
+**Nathalie Schrans:** Liz built out a lot of the strategy and the topic clusters.
+
+**Nathalie Schrans:** have, I can actually share it.
+
+**Nathalie Schrans:** It's, oops, that's not what I wanted to do.
+
+**Nathalie Schrans:** We have a draft in the document.
+
+**Nathalie Schrans:** You were working in yesterday, basically talking about the overview and our goals.
+
+**Nathalie Schrans:** I think something that we want some feedback on is just for tactical KPIs.
+
+**Nathalie Schrans:** Since we don't have access to any of their data analytics, like Java or anything, we can't really give super specific goals.
+
+**Nathalie Schrans:** Do you think they'd be okay with saying, oh, if we can, like, here's the production volume, here's kind of like loose goals, but we can't do anything concrete in terms of, like, monthly organic visits to qualify for signups since we don't know what's happening now.
+
+**Jason Gong:** I general, like, I guess I don't know how they communicate about this stuff, but, like, I think everyone knows, like, you can't promise anything.
+
+**Jason Gong:** So, I think I just want to show, like, hey, here is a real-life thing that is essentially this cluster built out and done, like, pretty well.
+
+**Jason Gong:** You can hear something. How traffic they're getting, like, this is what we're aiming for, you know, that was this stuff.
+
+**Jason Gong:** It's like, like, nothing I saw on HackerRank would be like, oh my God, we can't do this, right?
+
+**Jason Gong:** So it's just like, hey, if we replicated it, you know, HackerRank's getting like 23,000 visits.
+
+**Jason Gong:** We know that, you know, other customers we have, like this sort of top of the funnel type of content converts maybe like, you know, a quarter of a percent.
+
+**Jason Gong:** This is how much, you know, traffic we can expect and, like, how many signups we could get, you know, after we build this out.
+
+**Nathalie Schrans:** Okay, yeah, that makes sense.
+
+**Jason Gong:** No need to be, like, super granular with the, like, how much impact could this drive, you know?
+
+**Nathalie Schrans:** Okay.
+
+**Nathalie Schrans:** And then just generating calibration articles, I'll do that today, like one or two articles.
+
+**Nathalie Schrans:** Are there any, just based on kind of these topics that we have so far, is there anything that you think we should prioritize?
+
+**Nathalie Schrans:** Otherwise, I'm happy to, like, you know, decide and move forward on that.
+
+**Jason Gong:** I'm not my own, but if there's any insights you have.
+
+**Jason Gong:** Let's see.
+
+**Jason Gong:** I guess this one's kind of like, byte byte go.
+
+**Jason Gong:** This one is more hacker rank, guess, or leak code, perhaps.
+
+**Nathalie Schrans:** Yeah, think based on what we talking about earlier.
+
+**Jason Gong:** Yeah, leak code.
+
+**Jason Gong:** Cautions.
+
+**Jason Gong:** Honestly, I feel like all these will work.
+
+**Jason Gong:** I guess if we're trying to start easy, I think, like, two to four is definitely easier than one.
+
+**Nathalie Schrans:** Like, one, I think.
+
+**Jason Gong:** I mean, I feel like just knowing Cache and their team, they won't scrutinize it too hard, hopefully.
+
+**Jason Gong:** Like, they won't be like, oh my god, this is the wrong approach to designing a database, or something like that.
+
+**Jason Gong:** Yeah, I think two and three.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** But I think as a topic, this one is harder than like two to four, four I think, I want to say four is probably the easiest, maybe, yeah, I don't know, like I guess if I was to propose doing any of these first, would probably be two, three, or four, so maybe take your pick.
+
+**Nathalie Schrans:** I think that's it in terms of questions, maybe we can talk later about, because I know we're kind of running out of time, and I don't want to take over too much, but there's still like the Art of Post-Training series for Surge itself.
+
+**Nathalie Schrans:** Yeah, that one, yeah, maybe we can take that offline, or set another call a bit later in the day.
+
+**Nathalie Schrans:** On your calendar, but yeah, I don't want to
+
+**Nathalie Schrans:** Yeah, because I know there's other stuff to discuss.
+
+**Jason Gong:** Oh, no.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Should we move to Webflow, Sydney?
+
+**Sydney Arin Go:** Yeah, so Webflow integration pages are going smoothly.
+
+**Sydney Arin Go:** I just have to upload them tomorrow.
+
+**Sydney Arin Go:** I've stopped working with Neural on that.
+
+**Sydney Arin Go:** They delivered their last batch of articles this week.
+
+**Sydney Arin Go:** I've also told Stephen that we're going to stop.
+
+**Sydney Arin Go:** Just partially because they were getting quite slow and delivering content, but also because our agentic pipeline is actually doing really good.
+
+**Sydney Arin Go:** So I don't really see the need to add an extra step in there.
+
+**Jason Gong:** Like, I think between Augment and Webflow, like, I can see a world where, like, we get a on-call, like, developer, dev rel person who can just write and fill in.
+
+**Jason Gong:** Like, do you still see a need for that, like, to replace Neural?
+
+**Sydney Arin Go:** Currently, for the integration page, it's probably not.
+
+**Sydney Arin Go:** I don't
+
+**Sydney Arin Go:** Just because they are a little bit more straightforward.
+
+**Sydney Arin Go:** I think with the use case guides, maybe.
+
+**Sydney Arin Go:** Probably, actually, yes.
+
+**Sydney Arin Go:** Because those ones are a little bit more technical.
+
+**Jason Gong:** Do you think it's helpful to get a developer who can be responsible for like, like, hey, we just wrote an article on some technical concept that we're not the most familiar with.
+
+**Jason Gong:** You know, like, another technical Marisol, but like, and then they can go in and actually make it better.
+
+**Jason Gong:** Do you find a need for that at all?
+
+**Marisol Smith:** There are some articles that would be beneficial if they had the developer view to just to assess if they're right or wrong.
+
+**Jason Gong:** We'll go get one, then.
+
+**Jason Gong:** And...
+
+**Jason Gong:** Yeah, and again, I think I've said this before, my thought of all this is like, we're probably going to burn some money and we're just going to be pissed off of me, but then, like, it's always like, whatever edit this person did, why didn't our workflow do that?
+
+**Jason Gong:** And then just over time, we need to close that loop, essentially.
+
+**Jason Gong:** So, yeah, I'll kind of figure out how to get that resource for us.
+
+**Jason Gong:** And then, keep your, yeah, sorry, go ahead.
+
+**Sydney Arin Go:** Sorry, so just on the SEO articles, I think we're going to pause for the week because Luke said that we'll publish the first five and then monitor.
+
+**Sydney Arin Go:** So, I'll have them in the, I'll send them over, like, whatever we have for this week, just so that we close the loop then and confirm with them next week that we're going to stop.
+
+**Sydney Arin Go:** And observe.
+
+**Sydney Arin Go:** Vivian's been really slow on publishing there.
+
+**Sydney Arin Go:** I've been paying her, like, to an annoying degree, I think.
+
+**Sydney Arin Go:** How good?
+
+**Jason Gong:** How do you feel about those five articles?
+
+**Jason Gong:** Like, out of ten where ten is, like, if you spent, like, as much time as you needed to make them perfect, like, where do you think those are?
+
+**Sydney Arin Go:** I think they're actually pretty good.
+
+**Sydney Arin Go:** Luke reviewed all of them and had no feedback.
+
+**Sydney Arin Go:** They're optimized for SEO.
+
+**Sydney Arin Go:** They're very top of funnel.
+
+**Sydney Arin Go:** So I get what Colin's saying where he wants to focus on other things.
+
+**Sydney Arin Go:** So they'll get top of funnel traffic, but beyond that.
+
+**Jason Gong:** Yeah, okay.
+
+**Jason Gong:** I mean, just for, Liz, for context on Webflow, they have, like, I guess you can treat them as two sides of the company.
+
+**Jason Gong:** have their, like, whole marketing side of their blog, and they don't actually work with us at all.
+
+**Jason Gong:** They work with one of our competitors, Graphite, which, again, like, honestly, like, great, great agency, great founders there.
+
+**Jason Gong:** They're smart.
+
+**Jason Gong:** But we've kind of been, like, creeping into their territory a little bit with this, like, blog content.
+
+**Jason Gong:** So, like, my thought is, I mean, it's probably not anytime soon, but, like, as you heard yesterday, like...
+
+**Jason Gong:** Their product team's totally bought into the quality of what we do.
+
+**Jason Gong:** I think there is a future where we replace that part and it'll be a pretty big contract.
+
+**Jason Gong:** So I guess my thought is if these are the only five who get to publish to see if there's results, let's make sure these are the five that'll actually be a good reference point for their team once we try to start that conversation.
+
+**Jason Gong:** So, yeah, so Sydney, I guess if you think they can be better, it doesn't even have to be your time, just flag that for me and then I'll try to find resources to just do that because we'd be willing to burn, like, you know, money to just manually write these just to make a good case for ourselves.
+
+**Sydney Arin Go:** Okay.
+
+**Sydney Arin Go:** I think these articles are in a good place, the SEO ones, because I did spend a bunch of time editing them.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** That sounds good.
+
+**Jason Gong:** I mean, if you could just share it in the channel, just like, hey, here are the five.
+
+**Jason Gong:** And then just do one last pass, and then I think we're, yeah, sounds like we're good to go.
+
+**Sydney Arin Go:** And then for the use case guides, I will generate, I'll just update the artifacts of the assignment direction based on what Vic said, and then generate another one for the review next week.
+
+**Sydney Arin Go:** So at least we have three in their queue.
+
+**Sydney Arin Go:** And then we'll continue, like, just all three of those, just see if there is any improvement for the last iteration.
+
+**Sydney Arin Go:** And I do have to hop in a minute, the QBR deck, Liz and I will start working on it this week.
+
+**Jason Gong:** Sorry, I have another call with a customer.
+
+**Sydney Arin Go:** No problem.
+
+**Sydney Arin Go:** Thanks for the update.
+
+**Sydney Arin Go:** Sorry.
+
+**Jason Gong:** See you tomorrow.
+
+**Jason Gong:** Bye.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Is everyone else good for another five minutes, or you guys have back-to-backs?
+
+**Jason Gong:** Okay, cool.
+
+**Liz Kushnereit:** Liz, anything you want to talk Basically, they've already covered everything.
+
+**Liz Kushnereit:** I'll just meet with Sydney and get the QBR deck done tomorrow for your review, and that presentation's on Wednesday, right?
+
+**Liz Kushnereit:** Next one, say it, yeah.
+
+**Liz Kushnereit:** Yeah, and then we'll talk later about the art of post-journey, but I think I have time to get started on that before our call.
+
+**Liz Kushnereit:** So can I just start making this?
+
+**Liz Kushnereit:** A similar content strategy doc, and then we'll just go from there, yeah.
+
+**Jason Gong:** Yeah, I mean, I think, yeah, I mean, like I'll talk about that a little bit maybe at the end about search, but like specifically for that one, like I think what we really need to get to them is just like one article where like Edwin reads it and be like, okay, this is actually really good.
+
+**Jason Gong:** Like you guys can do more of this.
+
+**Jason Gong:** Like for the most part, I don't think our post-training, like it might have like 10 or 20 topics, but it won't look, you know, like, or maybe I'm wrong, but I assume it won't look like the augment or the Webflow content strategy.
+
+**Jason Gong:** No.
+
+**Jason Gong:** It'll be more kind of white glove.
+
+**Liz Kushnereit:** Yeah.
+
+**Liz Kushnereit:** Hacker news type content.
+
+**Liz Kushnereit:** way to move forward.
+
+**Liz Kushnereit:** Yeah.
+
+**Liz Kushnereit:** Okay.
+
+**Jason Gong:** Okay, cool.
+
+**Jason Gong:** Add anything on your side?
+
+**Edin Abazi:** We finished the augment code library stuff, like we're just waiting for the, like.
+
+**Edin Abazi:** Do you guys know how the content is going to start coming in?
+
+**Jason Gong:** Yeah, that's something I'm working on.
+
+**Jason Gong:** It seems like they're bonnet on their side, which is why I haven't just spent the time to finish this.
+
+**Jason Gong:** But I guess, yeah, maybe we can try to get it live.
+
+**Jason Gong:** It sounds like it won't be blocked by anything you're doing, so as long as that's the case, it'll probably actually go live maybe at end of next week or the week after.
+
+**Edin Abazi:** sounds good.
+
+**Edin Abazi:** Like, our part is fully ready, the content's missing, and then the augmenting just has to implement the little curl function that we did.
+
+**Edin Abazi:** Basically, mask it underneath the Augie install command name command.
+
+**Edin Abazi:** Like, we built everything, like, it's ready.
+
+**Edin Abazi:** And the download tracking is ready as well.
+
+**Edin Abazi:** Apart from that, I started working on the Augie code blog stuff.
+
+**Edin Abazi:** But I just typed in the linear ticket.
+
+**Edin Abazi:** So, yeah.
+
+**Edin Abazi:** Basically adding table of contents to the blog posts, adding a CTA like in the sidebar as well as, so what we did was for post, like we added a component where they can like add a CTA in the middle of a blog post, but then we also added a function where if there's no custom CTA in a blog post, it'll just auto insert it like in the middle of a blog post.
+
+**Edin Abazi:** And that's one thing, the categories, the category page listing that's like still in a work in progress should be ready by end of day tomorrow, I think.
+
+**Edin Abazi:** Yeah, like August, like this pod related stuff, like that's all there is to it.
+
+**Jason Gong:** Sounds good.
+
+**Marisol Smith:** Marisol?
+
+**Marisol Smith:** Just wanted to mention that Sil reached out last week on Friday.
+
+**Marisol Smith:** He booked a call with me, he...
+
+**Marisol Smith:** he...
+
+**Marisol Smith:** He told me that he was a little bit out of the loop in the article generation and he wanted to be more involved.
+
+**Marisol Smith:** So he wanted to know more about our process.
+
+**Marisol Smith:** So I basically explained the whole thing.
+
+**Marisol Smith:** I showed him Atlas, like the pipeline and everything.
+
+**Marisol Smith:** He was very happy.
+
+**Jason Gong:** Yeah, he mentioned it in the office yesterday when he came by.
+
+**Marisol Smith:** Cool.
+
+**Marisol Smith:** And he said that he was going to send some ideas if he comes up with any.
+
+**Marisol Smith:** Yeah, that's cool.
+
+**Jason Gong:** Okay, that's great.
+
+**Jason Gong:** We'll send you the call we had yesterday.
+
+**Jason Gong:** It went a little long, but in general, was trying to figure out what he was trying to prioritize as a company.
+
+**Jason Gong:** It seems like they're changing a lot, essentially, almost like making their company more enterprise.
+
+**Jason Gong:** Um, so I think there will be a lot.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** To do, I think there's going to be a lot to do to like update our artifacts.
+
+**Jason Gong:** They asked them to share their call recordings and also they use this thing called Octave, I think.
+
+**Jason Gong:** It's almost like, it's almost the same thing as our artifacts, but like, yeah, but it's like made for go-to-market teams to like create copy and things like that.
+
+**Jason Gong:** So I'm going get access to that and then I think we need to like probably do a pass on our artifacts to update for all the changes they want to make.
+
+**Jason Gong:** Yeah, but otherwise, good job on the, I honestly was like really happy about what you showed them on Atlas.
+
+**Jason Gong:** I didn't even know you, you guys had that call, so thanks for, thanks for doing that.
+
+**Jason Gong:** Let's see, yeah, I know, so I'll just like break up a little bit on the different clients.
+
+**Jason Gong:** Clients have.
+
+**Jason Gong:** I'll do search last, but like Webflow, I think honestly, like, unless you guys feel different, I feel like it's pretty healthy.
+
+**Jason Gong:** think they have the right expectation because we deal with their product team, but they kind of get what we're doing and their feedback kind of generally makes sense.
+
+**Jason Gong:** They never ask for anything.
+
+**Jason Gong:** They almost like adjust themselves and ask for things that are reasonable, which is great.
+
+**Jason Gong:** I think the goal of that account is just like to keep them as happy as possible, like if we need to like pull in other resources, because I think there's just multiple lanes for expanding that account that's already happening.
+
+**Jason Gong:** And again, most of those links don't feel like search, like they feel like things we can do really well, repeatably.
+
+**Jason Gong:** So that's kind of Webflow augment.
+
+**Jason Gong:** I think, I mean, just based on still like the conversations you have, I do feel like in the next quarter, like at the end of that quarter.
+
+**Jason Gong:** We do need to, like, prove our value a little bit more than we've been doing so far.
+
+**Jason Gong:** Like, he gets everything ramps up, but I have a feeling, just based on, like, what stage their company is at, like, we're going to have pretty aggressive targets there.
+
+**Jason Gong:** So just keeping that in mind, but, like, we're going with the content strategy.
+
+**Jason Gong:** So, yeah, I think we'll be able to, like, make a pretty big impact for them.
+
+**Jason Gong:** But think it's also healthy.
+
+**Jason Gong:** I mean, I think in any case, it'll never feel, like, blindsided.
+
+**Jason Gong:** Sil's very close.
+
+**Jason Gong:** He's a part of this thing called Hypergrowth Partners, which is an investor in us.
+
+**Jason Gong:** And we're really friendly with the founders.
+
+**Jason Gong:** So that kind of collective, I guess, I don't even know what you call them.
+
+**Jason Gong:** So, yeah, just for context.
+
+**Jason Gong:** And then Serge, just, yeah, still crazy.
+
+**Jason Gong:** Liz, really appreciate you taking that call yesterday.
+
+**Jason Gong:** I watched it, and I'm like, sorry, couldn't be on that with you.
+
+**Jason Gong:** I think, like, with all the problems, basically, the search is, like, 10 times the size of most of our other accounts.
+
+**Jason Gong:** So minus how crazy, like, the services for them, I think, before we give up on certain things.
+
+**Jason Gong:** I guess the ask from ourselves, like, hey, did we put 10 times the effort as what we do for what flow just just to attempt to kind of make it, you know, like a stable account?
+
+**Jason Gong:** And I think the answer is no.
+
+**Jason Gong:** So I've been trying to figure out how to at least give that a try before, you know, like, again, if they, for a variety of reasons, are out of our control, like, if they end up, you know, downsizing, it's, like, it's totally, yeah, I mean, that is what it is.
+
+**Jason Gong:** But what I'm trying to do is, you know, now that with Liz...
+
+**Jason Gong:** trying our control.
+
+**Jason Gong:** Thank
+
+**Jason Gong:** Yeah, I've been trying to figure out how to do that.
+
+**Jason Gong:** I do think one path there is this benchmark site that it seemed like Nick was somewhat happy with.
+
+**Jason Gong:** If we can flush that out and just build that into the website we've been building for them, maybe we can use content as a way to force that through, build it so well that there's no way Gene can go up it on Webflow.
+
+**Jason Gong:** you know, like I think that might be one path to like unblocking that because I think the unfortunate thing is like, I mean, it's just the way Edwin works, I guess, you know, like you lose trust a little bit and it's hard to get it back.
+
+**Jason Gong:** And I think for certain things we've done for them, that's happened.
+
+**Jason Gong:** So, like, I guess my job is to try to dig this out and just prove something.
+
+**Jason Gong:** Like, so I think that this content stuff is one, I think a lot of what Gloria is working on for events, like doing some of these like...
+
+**Jason Gong:** Z-Mansion kind of dinners is another one.
+
+**Jason Gong:** then I think trying to pull some back channel stuff to get him a slot to speak at AI engineer, I'm kind of working on that as well.
+
+**Jason Gong:** We basically need to just be like, oh, wow, I can't believe they did that.
+
+**Jason Gong:** You know, I'm trying to create that sort of reaction from them.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Is there somebody else going to say something or?
+
+**Jason Gong:** Okay, cool.
+
+**Jason Gong:** And then the last thing with workflow, I think, I mean, the approach, I guess we covered at the beginning, just like take a content type and just do this exercise of iterating.
+
+**Jason Gong:** I think that'll be the first step to kind of creating some repeatability for making workflows better.
+
+**Jason Gong:** So let's try doing that.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** I think that's everything.
+
+**Jason Gong:** Anything else?
+
+**Jason Gong:** Okay, I might add, like, another 15 to this call because it feels like we always go over and then, in terms of how we run the meeting, I think as much as we can, like, doing the notes beforehand and then everyone spent, like, two minutes to just read it before the meeting would be good.
+
+**Jason Gong:** I'll do the same.
+
+**Jason Gong:** I clearly have not done that either.
+
+**Marisol Smith:** Does anyone have a guideline on how to add prompts in the crunch?
+
+**Nathalie Schrans:** Like, how to find them?
+
+**Jason Gong:** Uh, you can, like, you have an account?
+
+**Jason Gong:** so.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah, if you just go here, I guess, like, Webflow, you go to prompts, and then you just add prompts.
+
+**Marisol Smith:** Simple.
+
+**Nathalie Schrans:** And they have a way of, like, if you put in the keywords, it'll turn them into prompts.
+
+**Nathalie Schrans:** I like to use, like, quad or chat, QPT, to come up with questions.
+
+**Nathalie Schrans:** Um, but, yeah.
+
+**Nathalie Schrans:** Let me know if you have questions, Marcel.
+
+**Marisol Smith:** I've worked in the scrunch, so.
+
+**Marisol Smith:** Yeah.
+
+**Marisol Smith:** I think we should just map all the articles we have published and refresh the prompts for augment.
+
+**Nathalie Schrans:** Yeah.
+
+**Nathalie Schrans:** Yeah, we'll just leave in the old prompts so we can maintain that history.
+
+**Nathalie Schrans:** But yeah, we'll start tracking new ones that are probably better.
+
+**Marisol Smith:** Cool.
+
+**Marisol Smith:** And I have a question.
+
+**Marisol Smith:** Do we have to map the published URLs in Looker Studio?
+
+**Jason Gong:** I think that's the way we like pull that tab that's like, here's the performance of our content.
+
+**Jason Gong:** I'm kind of out of the loop for how we do that or if anyone's even maintaining that.
+
+**Jason Gong:** I think that would be a question for, I don't even know who maintains that now.
+
+**Jason Gong:** I think it's probably a question for Andy.
+
+**Marisol Smith:** Okay.
+
+**Marisol Smith:** Because I know we have to do that for Sentinel one now, but I'm not sure for augment.
+
+**Jason Gong:** I think it would be good to do it for everyone.
+
+**Jason Gong:** mean, I think the nice thing about Ackman is like, like,
+
+**Jason Gong:** Like, our content is nicely separated in a different path, but for a lot of the other customers where it's all muddled together with, like, their content, like, you need to pull it out, basically, by mapping URLs.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** So, yeah, so I guess the answer is not really for augment, but, yeah.
+
+**Jason Gong:** Thank God.
+
+**Nathalie Schrans:** Okay, it's a lot of URLs.
+
+**Nathalie Schrans:** Yes.
+
+**Nathalie Schrans:** Okay, all right.
+
+**Nathalie Schrans:** Thank you all for your time.
+
+**Nathalie Schrans:** Thanks, everyone.
+
+**Nathalie Schrans:** Chat with you all later.
+
+**Nathalie Schrans:** Thank you.
+
+**Nathalie Schrans:** Bye.
+
+**Nathalie Schrans:** Bye.
+
+**Nathalie Schrans:** Bye.

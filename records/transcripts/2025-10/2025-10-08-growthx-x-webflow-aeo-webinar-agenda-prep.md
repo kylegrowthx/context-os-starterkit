@@ -1,0 +1,1274 @@
+# GrowthX x Webflow — AEO Webinar Agenda Prep
+
+<metadata>
+date: 2025-10-08
+time: 22:16 UTC
+duration: 45 minutes
+organizer: Jason Gong
+participants: Marcel Santilli, Jason Gong, Guy Yalif (Webflow)
+fathom_recording_id: 92893028
+fathom_url: https://fathom.video/calls/434781150
+share_url: https://fathom.video/share/BJK-TVkhFvoY1122bmy-A6PfSzqvVT3j
+source: fathom
+enriched_on: 2026-03-02 12:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Webflow aligned on a unified presentation strategy for their joint AEO webinar, with Guy Yalif from Webflow presenting Webflow's AEO framework (covering content, authority, technical, and measurement) followed by Marcel and Jason walking through GrowthX's content strategy and quality approach. The team agreed to build a shared Google Slides deck, established clear handoffs between presentations to create a cohesive narrative around audience understanding and comprehensive content, and confirmed Guy would arrive early at the GrowthX office on Friday for final prep.
+
+---
+
+## Context
+
+This was a planning call between GrowthX's Marcel Santilli and Jason Gong and Guy Yalif from Webflow to prepare a joint AEO webinar scheduled for Friday of that week. Webflow is a no-code web design platform that's strategic to GrowthX's content work and AEO (AI-Enabled Optimization) messaging. The webinar represents a significant partnership opportunity where both companies showcase complementary expertise—Webflow's technical AEO framework and GrowthX's content strategy and quality methodology. The timing was tight (a few days out), and both teams needed to align on presentation structure and handoffs to create a seamless audience experience.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Webinar format and collaborative presentation methodology—shows how GrowthX positions content strategy within larger AEO framework alongside technical partner
+- Emphasis on audience understanding and jobs-to-be-done as foundational to content strategy—core methodology to reinforce with clients and market
+- Real-world examples and case studies approach—practical method for demonstrating CheckThat and AEO visibility in client work
+
+**To CheckThat:**
+- Webflow visibility and measurement as table stakes—reinforces CheckThat's core value proposition in AEO stack
+- Non-branded citations and AI-generated responses discussion—key metrics CheckThat tracks for visibility assessment
+- Partnership potential with Webflow—technical integrations and co-marketing opportunities around AEO
+
+**To GrowthX Business Development:**
+- Webflow partnership strengthens GrowthX's positioning in AEO space and opens doors with Webflow's customer base (design and development shops)
+- Strong working relationship with Guy Yalif at Webflow—potential for ongoing collaboration and co-marketing
+
+---
+
+## Overview
+
+- Guy and Marcel will collaborate on a unified presentation, combining Webflow's AEO framework with GrowthX's content strategy insights
+- The webinar will focus on actionable AEO strategies, emphasizing audience understanding and high-quality content creation
+- Guy will present in-person at GrowthX's office, allowing for a more cohesive presentation setup
+
+---
+
+## Key Topics
+
+### Webinar Structure and Content
+
+  - Guy will present Webflow's AEO framework, covering 4 key categories: content, authority, technical, and measurement
+  - Marcel/Jason will follow with GrowthX's approach to content strategy and quality for AEO
+  - The presentation will transition from Guy's overview to GrowthX's detailed content creation process
+  - Both teams will use real examples, including Webflow case studies and GrowthX's work for clients
+
+### AEO Strategy Insights
+
+  - Shift focus from keywords to answering audience questions throughout the funnel
+  - Emphasize the importance of understanding target customers and their jobs to be done
+  - Highlight the need for high-quality, comprehensive content that addresses multiple angles
+  - Discuss the impact of content on non-branded citations and AI-generated responses
+
+### Collaboration Process
+
+  - Teams will work on a shared Google Slides deck to refine the presentation
+  - Guy will adapt his presentation to tee up GrowthX's content more effectively
+  - Both parties aim to create a unified narrative that showcases their complementary expertise
+
+### Webinar Logistics
+
+  - The event will be held at GrowthX's office with their A/V setup
+  - Guy will arrive early to finalize details in person
+  - Teams are comfortable with last-minute adjustments if needed
+
+---
+
+## Action Items
+
+**Guy Yalif (Webflow)**
+- Create/share copy of presentation as starting point for collab deck
+- Arrange travel to arrive at GrowthX office early on Friday for webinar prep
+
+**Jason Gong (GrowthX)**
+- Set up Google Slides deck with GrowthX template; share access with Guy and Marcel
+- Send rough webinar agenda and start collaborative slide deck; share with team
+- DM/email Guy links to previous GrowthX workshop recordings
+
+---
+
+## Transcript
+**Guy Yalif:** Hey, guys, how are you?
+
+**Marcel Santilli:** Is that a menu in the back?
+
+**Marcel Santilli:** couldn't tell if you were at a conference that was a stage behind you or a menu.
+
+**Marcel Santilli:** Looks like an airplane.
+
+**Jason Gong:** That is a menu.
+
+**Guy Yalif:** This Monday, Tuesday, Wednesday of this week, I am working before my 17-year-old gets up.
+
+**Guy Yalif:** I'm going in the afternoon and the evening.
+
+**Guy Yalif:** And in the middle of the day, I'm in New York City with her, taking her to do college tours.
+
+**Guy Yalif:** And she's also a Broadway fan.
+
+**Guy Yalif:** And so every night, she's been going to a show.
+
+**Guy Yalif:** And so I am sitting in a...
+
+**Guy Yalif:** Copper Bells in Brooklyn across the street from a theater where she is going to see Ryan Reynolds and Hugh Jackman record a TV special today as they do, I guess, recreating the Wolverine 3, whatever, you know, or the other character.
+
+**Marcel Santilli:** scene from the Deadpool?
+
+**Marcel Santilli:** Deadpool, thank you.
+
+**Guy Yalif:** Well, I don't know what the special is on, but the fact that it's those two guys is definitely going to, like, pull on that history they have together.
+
+**Guy Yalif:** Have you seen Deadpool 2?
+
+**Guy Yalif:** Yeah.
+
+**Guy Yalif:** That scene, that opening scene?
+
+**Marcel Santilli:** Oh, no, it's Deadpool and Wolverine.
+
+**Guy Yalif:** Sorry.
+
+**Marcel Santilli:** Oh, yeah, yeah, Deadpool and Wolverine.
+
+**Marcel Santilli:** Yeah, yeah, sorry, yeah, yeah, sorry, that's the one.
+
+**Marcel Santilli:** But that opening scene was, like, one of the, like, best freaking things ever.
+
+**Marcel Santilli:** hilarious, like.
+
+**Marcel Santilli:** I found that movie beyond funny.
+
+**Guy Yalif:** I am, I like slapstick, and I actually, like.
+
+**Guy Yalif:** Well, actually, let's hear it too, which did not come into that movie, but the scene where, so the opening scene I thought was beyond epic, and then the scene where they killed the, like, hundred dead tools, I am laughing on the floor, and my family's like, why are you laughing?
+
+**Guy Yalif:** I'm like, because this is hilarious slapstick.
+
+**Marcel Santilli:** the same thing, I was just like, no, I didn't like it, it was too graphic, I was like, that was the funniest movie I've seen since, I don't know, Superbad or something, like, I don't know.
+
+**Marcel Santilli:** I am with you, I have not laughed out loud like that in a very long time.
+
+**Marcel Santilli:** Yeah, I love his stuff, man, Randall Reynolds is funny as hell.
+
+**Guy Yalif:** Yeah, talented human beings.
+
+**Guy Yalif:** Sounds good.
+
+**Marcel Santilli:** All right, I think we have a thing on fire.
+
+**Guy Yalif:** Yeah, I think we're going to do a little thing in a couple of days, and I think a couple of people might show up, and I think, although on the one hand, we could do it 30 seconds from now and be just fine, on the other hand,
+
+**Guy Yalif:** And I don't actually think we have one level of people on what each one of us is going to say.
+
+**Guy Yalif:** And I think it'd be helpful to quote myself.
+
+**Guy Yalif:** And like, if we're going to do a deck and, you know, how I think I'm going first.
+
+**Guy Yalif:** So how can I tie my stuff to your stuff?
+
+**Guy Yalif:** And I looked in the notion and yeah, good.
+
+**Guy Yalif:** I'm glad you're going there.
+
+**Guy Yalif:** I put a bunch of comments in.
+
+**Guy Yalif:** I don't even remember.
+
+**Jason Gong:** I mean, I think what we need to do is like, we've kind of given our talk and I think you've done the same, but we've not shared kind of any structure or deck for this webinar on Friday.
+
+**Jason Gong:** So I think we need to get there.
+
+**Jason Gong:** I would like that.
+
+**Guy Yalif:** Can I, I could share deck and structure if that's helpful.
+
+**Guy Yalif:** Cause I think, I think we're both doing our stump speeches with just time that we get.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Like, yes.
+
+**Marcel Santilli:** And the, the area that I'm seeing as a potential like gap.
+
+**Marcel Santilli:** the,
+
+**Marcel Santilli:** Maybe that is, like, all these companies are saying that by measuring the visibility, you're improving visibility, right?
+
+**Marcel Santilli:** And I think, combined, we tell a stronger story of, like, you know, where you're, you know, what Webflow is and does.
+
+**Marcel Santilli:** But also, like, how we, like, think about mapping your content strategy, your audience, understanding more deeply your audience.
+
+**Marcel Santilli:** And it all comes from a deeper understanding of your audience.
+
+**Marcel Santilli:** And kind of, like, I think, Ayo, when positioned right, is a great way to go away from keywords and towards, you know, what are the...
+
+**Marcel Santilli:** Marcel, I apologize.
+
+**Guy Yalif:** I dropped my video because I...
+
+**Guy Yalif:** Everything froze on my end.
+
+**Guy Yalif:** It's my tethering here in Brooklyn.
+
+**Guy Yalif:** I lost almost...
+
+**Guy Yalif:** I apologize.
+
+**Guy Yalif:** And basically 30 seconds.
+
+**Marcel Santilli:** Could you please do that again?
+
+**Marcel Santilli:** Sorry.
+
+**Marcel Santilli:** Oh, good.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** TLDR, was going say, it's just like, I think it would be great for us to tie into this being the most actionable thing that anyone has ever joined for related to AEO.
+
+**Marcel Santilli:** And for me, the gap that I'm seeing in all the talks and all the things that people are saying about AEO, I was talking to Sydney, CMO of G2 today.
+
+**Marcel Santilli:** She said, there's officially now a little over a hundred startups in the category of AEO now in G2.
+
+**Marcel Santilli:** And so all those tools are all saying the same damn thing.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And, and I think like, I would love to use this as more of kind of like examples and on our end of like how to have an audience first strategy.
+
+**Marcel Santilli:** And I think AEO allows people to go from keyword based to audience space and, and gaining a deeper understanding of your audience is the foundation of a good AEO strategy.
+
+**Marcel Santilli:** Thank you.
+
+**Marcel Santilli:** Maybe.
+
+**Marcel Santilli:** I don't know.
+
+**Guy Yalif:** So I agree totally with having something actionable.
+
+**Guy Yalif:** I feel fortunate that folks have walked out of the thing we've been doing and have been like, that was the most actionable thing.
+
+**Guy Yalif:** Like I can actually go do something with that.
+
+**Guy Yalif:** I'm betting they can from yours too, full stop.
+
+**Guy Yalif:** I've been framing it more as, hey, you focused on topics before, and those were clusters of keywords.
+
+**Guy Yalif:** Topics are now clusters of questions, questions that your prospects are asking throughout the funnels.
+
+**Guy Yalif:** And if that's the big change, I do agree that you need to understand your audience.
+
+**Guy Yalif:** I think because there's a poor job hasn't changed, right?
+
+**Guy Yalif:** We are, we are persuading our target customer to say.
+
+**Guy Yalif:** And I think that's another one of the insights of like, the world hasn't changed.
+
+**Guy Yalif:** The world has changed, but like the core job to be done has not.
+
+**Guy Yalif:** We now have new tools in our toolbox.
+
+**Guy Yalif:** These tools are an evolution, not a revolution.
+
+**Guy Yalif:** And you need to have a few things in mind when you use them.
+
+**Guy Yalif:** So at least for me saying, you know what, it used to be keywords, now it's audience.
+
+**Guy Yalif:** My head's not there.
+
+**Guy Yalif:** It used to be keywords, topics are now questions.
+
+**Guy Yalif:** And the audience insights underpins all of it and always has, is at least where my head goes on that.
+
+**Guy Yalif:** How does that land for you?
+
+**Marcel Santilli:** Yes, but you can't predict questions because unless you know who the person that's going to probably ask that question is and why they care about that question, because there's no, you know, search console for chat GPT tool that actually predicts that, right?
+
+**Marcel Santilli:** Like, so, so, so like the whole point is more.
+
+**Marcel Santilli:** You have to be audience first because there's no keyword research tool.
+
+**Marcel Santilli:** And all the ones, even Profound and others, are saying they give you volume and things like that.
+
+**Marcel Santilli:** They're doing that in a vacuum where it's just like, hey, if you're a head of digital marketing and you're struggling with the fact that you need several editors to be able to edit different pieces of content across your website and package those things together beforehand and publish, like that's an actual job to be done and pain point that's going to come with a bunch of questions and potential solutions for that then will lead to potentially Webflow or a competitor, right?
+
+**Marcel Santilli:** Having a deeper understanding of the jobs to be done of that audience leads you to knowing what those questions are, which are the topics.
+
+**Marcel Santilli:** I think we're saying the same thing, just coming at it slightly different for different reasons, right?
+
+**Marcel Santilli:** Like where people are coming up with topics without the relevance of...
+
+**Marcel Santilli:** Who the audience is, and any piece of content needs to be crystal clear who the audience is, right?
+
+**Guy Yalif:** I agree with everything you said, except the very beginning.
+
+**Guy Yalif:** I agree completely that it's right, it's fact.
+
+**Guy Yalif:** The LLMs are not giving us any context at all.
+
+**Guy Yalif:** I do think you can have a clear view of the questions being asked in this funnel through different means.
+
+**Guy Yalif:** What we have said to people is, go run an LLM on your Gong call recordings, or whatever your call recording is.
+
+**Guy Yalif:** Go run an LLM on your sales emails, on your CS emails.
+
+**Guy Yalif:** That will give you a decent read, the best read actually you can get today, on what are the actual questions people are asking?
+
+**Guy Yalif:** One, two, as a second level, not as good.
+
+**Guy Yalif:** Go look where the LLMs are crawling on your site at inference time.
+
+**Guy Yalif:** For the LLMs that tell you, hey, it's inference time, not trading.
+
+**Guy Yalif:** And that'll give you a sense.
+
+**Guy Yalif:** And then go look at where the humans are going, because that you can always tell different than a bot.
+
+**Guy Yalif:** And those are signals to figure out what are the questions people are asking.
+
+**Guy Yalif:** Yes, it all begins with audience, but it always has.
+
+**Guy Yalif:** If you want to know the questions, yeah, if you don't know who your audience is and who you're selling to, you shouldn't even be thinking about a CRM network.
+
+**Guy Yalif:** It's where my head goes.
+
+**Guy Yalif:** How does that land for you?
+
+**Guy Yalif:** And can you even hear me or is my internet so bad?
+
+**Marcel Santilli:** Yeah, no, that's great.
+
+**Marcel Santilli:** It's better now.
+
+**Marcel Santilli:** Yeah, that makes sense.
+
+**Marcel Santilli:** maybe, like, okay, so if we think about it for, like, Webflow, is there a specific example that we can use that goes from, like, beginning to end of that, where it drove a thing that was changed?
+
+**Marcel Santilli:** And it's okay if not.
+
+**Marcel Santilli:** It's like, I have a few that I can use from our customers as well that are, like, here's how we did research on the audience.
+
+**Marcel Santilli:** Here's how we found this out.
+
+**Marcel Santilli:** Here's...
+
+**Marcel Santilli:** It's how we, you know, where they didn't have the footprint, you know, and even, like, Lovable and others, like, where we're working with, like, they don't have the footprint.
+
+**Marcel Santilli:** It's all branded.
+
+**Marcel Santilli:** Like, so they don't actually have the footprint of, like, anything beyond people searching for Lovable itself or direct traffic.
+
+**Marcel Santilli:** And so all the signals they have are the ones that they have to go research, you know, and they don't have sales calls, pretty much.
+
+**Marcel Santilli:** I mean, they do kind of enterprise stuff, but it's, like, that's not all their segments, you know.
+
+**Marcel Santilli:** So I don't know.
+
+**Marcel Santilli:** Is there anything on the Webflow, within Webflow that you think could be a good example of, like, kind of how you're describing it to illustrate?
+
+**Marcel Santilli:** What you said, Lance, very well.
+
+**Guy Yalif:** We have a few examples to use.
+
+**Guy Yalif:** The one that most record comes to mind is, you did it for SEO, but the same, for example, similar principles we're about for SEO.
+
+**Guy Yalif:** For SEO.
+
+**Guy Yalif:** SEO, we used Aerofs to go say, hey, here are the keywords we care about, what are the top 10 links for those, what are the destinations of those links, what's the content on those pages, do we have that content, let's go create that content.
+
+**Guy Yalif:** And so we did all that in one agentic flow, and you would say, hey, you could apply a similar mental model here, where you would say, hey, you know, here are the questions being asked, do we have coverage for them or not, should we create some?
+
+**Guy Yalif:** I also wonder, maybe could I spend 120 seconds walking into the flow, we would go through, by default, should tailor whatever we want here, and then I'd love to see the same for you, and then maybe that'll help us piece together, you know, where we want to emphasize.
+
+**Jason Gong:** I think the work I'm actually doing for you guys, like, does tie what both you're saying together, like, like, essentially what I'm hearing.
+
+**Guy Yalif:** wonderful.
+
+**Jason Gong:** Like, I mean, we're going from, you know, like, keywords to questions.
+
+**Jason Gong:** And there's places and proxies for like finding what those topics are.
+
+**Jason Gong:** I think what Marcel's saying is like, I mean, there are a lot of things that like, there's not a perfect way to mine that topic, right?
+
+**Jason Gong:** So you think about it more first principles, like here's a person, here are their problems.
+
+**Jason Gong:** And like, what is that journey?
+
+**Jason Gong:** And what do they ask?
+
+**Jason Gong:** You know, like, I mean, I feel like we can reconcile those together.
+
+**Jason Gong:** And then like what we're doing for you now is, hey, you know, you guys are trying to kind of win the hearts of developers.
+
+**Jason Gong:** And at the moment, there's really nothing much on the internet about like how you use Webflow in this way, like to build essentially.
+
+**Jason Gong:** So what we're doing is like, I mean, we mine topics, we mine Reddit, kind of like some of what you're suggesting, Guy.
+
+**Jason Gong:** But like we built these like crazy kind of comprehensive artifacts of like who your audience is, like these developers and what they're trying to do.
+
+**Jason Gong:** And then we're using that to essentially like, you know.
+
+**Jason Gong:** Generate at scale, like, these kind of docs for how you use Webflow with, like, you know, every other tool under the sun you can integrate with to, like, do real things, right?
+
+**Jason Gong:** And this is, like, just categorically different than, like, if you look at Zapier, you know, they just have these, like, kind of programmatic landing pages.
+
+**Jason Gong:** don't really tell you how to do anything.
+
+**Guy Yalif:** Yeah, not super useful, their pages.
+
+**Jason Gong:** Yeah, this is actually kind of useful.
+
+**Jason Gong:** And the only way we get here is by, like, understanding the people we're writing for and what they're actually trying to do.
+
+**Jason Gong:** You know, like, there's nowhere on the internet that is, like, telling me, you know, to create this specifically.
+
+**Jason Gong:** Like, these use cases, like, your product team has given us the feedback, like, wow, these are really good.
+
+**Jason Gong:** Can we create docs and guides for these?
+
+**Jason Gong:** And that's what we've started doing now.
+
+**Jason Gong:** So, like, I know this is a little long-winded, but, like, you know, like...
+
+**Jason Gong:** I I love it.
+
+**Guy Yalif:** I love the, like, look, ultimate...
+
+**Guy Yalif:** Unfortunately, the way to lose people to a funnel and persuade them to buy is to address the jobs to be done that they have and how you can differentially solve them.
+
+**Guy Yalif:** And I hear you talking about doing that here.
+
+**Guy Yalif:** So maybe we do both.
+
+**Guy Yalif:** I especially love the meta, Jason, talking about the work you're doing for us, like the works we're doing together.
+
+**Guy Yalif:** I especially like that at a meta level.
+
+**Guy Yalif:** Let me share with you for a minute, if I may.
+
+**Guy Yalif:** Yeah, sure.
+
+**Jason Gong:** This is very, very cool.
+
+**Guy Yalif:** Here is.
+
+**Guy Yalif:** So in tuning up the problem, I had that as one of the comments would say, hey, like you're not telling your brand story anymore.
+
+**Guy Yalif:** By the way, this is SEO, this is AEO, let's make sure we're all level set.
+
+**Guy Yalif:** And now what's the problem?
+
+**Guy Yalif:** We lost brand narrative control, one.
+
+**Guy Yalif:** Two, we're all seeing less traffic, Nazi.
+
+**Guy Yalif:** Headline, gravity, and drops.
+
+**Guy Yalif:** I'm sorry, we all sound the same.
+
+**Guy Yalif:** For us, this has become quite significant.
+
+**Guy Yalif:** 8% of our signups, let me see if I have that set here.
+
+**Guy Yalif:** No, 8% of our signups come from LLMs.
+
+**Guy Yalif:** If you look at LLM traffic and non-branded traffic, it went from basically zero a year ago to like 42% now.
+
+**Guy Yalif:** That's quite a bit.
+
+**Guy Yalif:** We recommend that you think about this in store buckets.
+
+**Guy Yalif:** And I think this is the one where we would overlap the most.
+
+**Guy Yalif:** And basically, I would walk through, give me a second, I would walk through these words.
+
+**Guy Yalif:** would say, look, the content you're going to shift from clusters of keywords to answering questions.
+
+**Guy Yalif:** Really relevant to personalization.
+
+**Guy Yalif:** I understand the structure of your site with metadata.
+
+**Guy Yalif:** And you better do that on a super fast site globally.
+
+**Guy Yalif:** On authority, you go from backlinks, which are still important, to repetitive, widespread, positive mentions in some text.
+
+**Guy Yalif:** you.
+
+**Guy Yalif:** Some are the sites that point to visually stunning experiences that engage humans, because that's a sign of authority.
+
+**Guy Yalif:** And finally, on measurement, you go from keyword ranking, which no longer exists, to what I mentioned.
+
+**Guy Yalif:** And when you mature further, you go to share a voice and sentiment.
+
+**Guy Yalif:** And that rubric, we would then say, hey, people know this is important, but folks, the practitioner don't know what it means.
+
+**Guy Yalif:** And then, depending on the audience, we will or won't go through the different levels of maturity for each.
+
+**Guy Yalif:** We would share some stats about how, like, the human created is important, recent is important.
+
+**Guy Yalif:** Here, we would talk about a Webflow example of, we took a bunch of pages and 5x the speed of updating and got 24% more AEO traffic.
+
+**Guy Yalif:** We then, in technical, we'll talk about schema.
+
+**Guy Yalif:** We would talk about a half dozen product pages where we added, and by we...
+
+**Guy Yalif:** need I'll FPCon
+
+**Guy Yalif:** Guy Yalif, added FAQs at the bottom of the pages and put structured schema and 50% of the incremental citations we got like two weeks following came from those pages.
+
+**Guy Yalif:** For measurement, we would mention some of those firms.
+
+**Guy Yalif:** We would say our own research, survey research has said marketers are first looking at traffic to their site, then what's the conversion rate of that traffic, and then using a third-party tool.
+
+**Guy Yalif:** Then we would say, hey, here's what puts all that together, the four categories, these five made-up levels.
+
+**Guy Yalif:** Don't expect you to remember this, just go here.
+
+**Guy Yalif:** Put in your domain name, and we'll email you a few minutes later, a customized report, what we see on your site, what we see off your site, what we recommend you do next.
+
+**Guy Yalif:** By the way, Webflow can help you on all of these, automated schema, automated alt text, automated metadata, and we'll talk about all four of these categories.
+
+**Guy Yalif:** That tends to be our stump speech.
+
+**Guy Yalif:** And so we will have.
+
+**Guy Yalif:** I have, you know, a Webflow example here in speed of updating, a Webflow example here in schema, and the importance of structured metadata.
+
+**Guy Yalif:** I do not add the example of, we crawled Gong and chose these questions.
+
+**Guy Yalif:** Here, we just chose high traffic pages.
+
+**Guy Yalif:** And forgive me, I'm just seeing your chat now.
+
+**Marcel Santilli:** No, I'll go, I think this is good.
+
+**Marcel Santilli:** This gives us a good, like, foundation.
+
+**Marcel Santilli:** I think if you're comfortable with it, it would be great for us to kind of, like, potentially, like, take this.
+
+**Marcel Santilli:** We won't mention our office, yeah, because they're a competitor of yours.
+
+**Guy Yalif:** Yeah, we won't do that.
+
+**Marcel Santilli:** And, like, I think there's cool examples we can show with the work we're doing for Webflow itself, right?
+
+**Guy Yalif:** Right.
+
+**Marcel Santilli:** And then show it in, like, more specific examples that maybe we do, like, we'll find one other maybe customer if we need to have one other example that is a Webflow customer as well.
+
+**Marcel Santilli:** anyways, you know, that's one of our customers, that overlap kind of thing, you know?
+
+**Marcel Santilli:** customers, one of that's that's that's that's
+
+**Marcel Santilli:** And that could be like, if we need That sounds great.
+
+**Guy Yalif:** Yeah.
+
+**Marcel Santilli:** And to over-communicate, we are a thousand percent aligned.
+
+**Guy Yalif:** I wouldn't even dream of bringing up a competitor to this.
+
+**Guy Yalif:** Like, it would, like, yes, we would never, like, that will never happen, period, ever.
+
+**Guy Yalif:** Thank you for calling it out.
+
+**Guy Yalif:** Oh, no, I'll get, I'll get, yeah.
+
+**Marcel Santilli:** It's just like, it's not that we're like a crazy direct competitor, it's just mostly like.
+
+**Guy Yalif:** I know, but not even, like, why even, like, you mentioned Lovable, right?
+
+**Guy Yalif:** I'd love it if you did not mention Lovable.
+
+**Marcel Santilli:** You know what I mean?
+
+**Marcel Santilli:** Like, it's, yeah.
+
+**Guy Yalif:** Yeah, exactly.
+
+**Marcel Santilli:** That's the exact same thing.
+
+**Marcel Santilli:** Like, we don't run into them, but still, it's just somebody might think.
+
+**Marcel Santilli:** so, yeah, the same thing.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** Yeah, that's perfect.
+
+**Guy Yalif:** Do you want to, any chance you have for doing the same, just so I get a sense of, like, how do you frame it?
+
+**Guy Yalif:** What does the framework look like?
+
+**Guy Yalif:** Somebody posted today on LinkedIn a couple of slides of framework pointing to this thing we're doing on Friday, putting both of our logos on a slide, and I'm like, I've never seen this before.
+
+**Guy Yalif:** We're
+
+**Guy Yalif:** Is that growthx's framework?
+
+**Guy Yalif:** Did they make up their own framework and try to pretend they're part of this whole thing?
+
+**Guy Yalif:** And so I was curious to see your framework.
+
+**Marcel Santilli:** Yeah, yeah, that's kind of, I think, an influencer that we did to try to...
+
+**Marcel Santilli:** You know that person?
+
+**Jason Gong:** Yeah, we've worked with them before.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** So he's legit.
+
+**Guy Yalif:** That wasn't him trying to...
+
+**Jason Gong:** Well, I'll say the framework he put together is kind of, like, his own design.
+
+**Jason Gong:** Interesting.
+
+**Marcel Santilli:** There's two things we've done, right?
+
+**Marcel Santilli:** Like, which are, like, content strategy for AEO and content quality for AEO.
+
+**Marcel Santilli:** So those are the two things that we're really focused on.
+
+**Marcel Santilli:** But they're, like, way long and way too detailed and way in the weeds, you know?
+
+**Marcel Santilli:** And I think, like...
+
+**Guy Yalif:** I would love to cite some of the details you have in our stuff to point...
+
+**Guy Yalif:** Just shine more spotlight on you if that's something you want.
+
+**Marcel Santilli:** Yeah, that would be perfect.
+
+**Marcel Santilli:** And I think that's what some of the homework we need to do.
+
+**Marcel Santilli:** But this is like a lot of like what we talk about is like how we kind of take all those signals you mentioned and kind of come up with like the finding your personas better, creating these artifacts, the finding the topic clusters, where you can find it, how you can find this.
+
+**Marcel Santilli:** Topic clusters, right?
+
+**Marcel Santilli:** And yes, like forums, social listening, like sales calls, like all of those are different ways, you know?
+
+**Marcel Santilli:** And then we do talk a little bit about like the kind of like most important factors, you know, that we kind of see.
+
+**Marcel Santilli:** And I think they're fairly like aligned to what you've shown.
+
+**Marcel Santilli:** What's the source of this?
+
+**Guy Yalif:** This is mostly from our own observations.
+
+**Marcel Santilli:** And like...
+
+**Marcel Santilli:** And like...
+
+**Marcel Santilli:** We searched pretty much, but focus less on the numbers and we can use your framework, but these are the factors.
+
+**Marcel Santilli:** Oh, sorry.
+
+**Guy Yalif:** I wasn't pushing back on it at all.
+
+**Guy Yalif:** I love additional data-driven insights into what matters and what doesn't.
+
+**Guy Yalif:** I was excited to see it not pushing back off.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** These are just some of the things that we try to optimize for and that we see strong correlation with.
+
+**Marcel Santilli:** And one quick example of this, like augment code, we've seen a lot of really cool things here, but where they're ranked pretty high here, but then sometimes in AI mode, and this obviously always varies, right?
+
+**Marcel Santilli:** But what we see is like, we've seen cases where there's one, two, sometimes there might even be up to five citations.
+
+**Marcel Santilli:** all the things on Thank
+
+**Marcel Santilli:** From content we've created, there are different angles, and it's pulling from a very long tail of those answers, right?
+
+**Marcel Santilli:** And how it's talking about your product is very nuanced, and it's almost like the more voices you have informing that answer from multiple different angles, the higher the chances that it will say the thing you want it to say in the right order in the right way, essentially.
+
+**Marcel Santilli:** So it's not like one page for one answer anymore, you know, like, best AI coding tools for complex code base, like, this is another example, right?
+
+**Marcel Santilli:** Like, it's like, what we see, and we can give examples, we'll try to come up with some examples of, like, this is the number one they wanted us to optimize for, is this one.
+
+**Marcel Santilli:** And you can see, like, augment code number one, and you can see one, two, three, four, five.
+
+**Marcel Santilli:** Can you guys do the work of going?
+
+**Guy Yalif:** Is that the LLM referencing their own site?
+
+**Marcel Santilli:** Is the LLM referencing six different pieces of content we created for them?
+
+**Marcel Santilli:** On their own site?
+
+**Marcel Santilli:** Holy , that's great.
+
+**Marcel Santilli:** That's impressive.
+
+**Marcel Santilli:** Nice work.
+
+**Guy Yalif:** And we created this as well.
+
+**Marcel Santilli:** So that's what we're seeing.
+
+**Marcel Santilli:** And then the results of that is essentially a 3,000% increase in non-branded citations and presence in the thousand prompts we're monitoring.
+
+**Guy Yalif:** That does not suck.
+
+**Guy Yalif:** That's a great base study.
+
+**Marcel Santilli:** And so that was just one that they're the most aggressive of our customers that allow us to publish and do everything we want.
+
+**Marcel Santilli:** And so that's why we have so much more results to show.
+
+**Marcel Santilli:** I've only been working with them for three.
+
+**Guy Yalif:** And I think it's really great that you do that.
+
+**Guy Yalif:** It's like, and none of this matters if you don't know who you're talking to.
+
+**Marcel Santilli:** Yeah, like, okay, so like, let me give you one example here, right?
+
+**Marcel Santilli:** And I, we have thousands of these examples.
+
+**Marcel Santilli:** Like, you can't say, and when I say you, don't mean you, but like, people say, oh, it's quality is really important.
+
+**Marcel Santilli:** Or they'll say, well, research is really important.
+
+**Marcel Santilli:** And it's like, okay, show me how you're doing that.
+
+**Marcel Santilli:** And, and a lot of what we're doing is taking all these artifacts, all those contexts, and then coming up with the research plan, like, agentically, that comes up with the objectives, the queries we need to answer, the success criteria, the source requirements for each one of those, right?
+
+**Marcel Santilli:** And we have medical examples, we have a bunch of examples where like, truly, you would, and then how it's synthesizing the results, and then in a loop, evaluating the quality of the research, and continuously improving.
+
+**Marcel Santilli:** And then just.
+
+**Marcel Santilli:** Generating additional questions programmatically, you know, to enrich the research even further.
+
+**Marcel Santilli:** And then what you get in result for that is this research brief that is obscenely detailed, you know, that has 70 high quality sources, you know, in a bibliography that's highly cited.
+
+**Marcel Santilli:** And then a drafter that's going through and looping through and doing this, an internal linker, one that's adding all these sources back.
+
+**Marcel Santilli:** And so you see the citation of all the sources to validating things, to validating your internal accuracy in case it mentions like code or anything like that, to even fact checking, right?
+
+**Marcel Santilli:** And then the other part too is just like programmatically enriching that content with the right graphics and infographics so that the images also get cited, you know, and shown in some of the results.
+
+**Marcel Santilli:** And so like, that's one example that we can show that's like an actual example, you know, or something like that, that would kind of show quality in action.
+
+**Marcel Santilli:** And to achieve that quality.
+
+**Marcel Santilli:** And regardless of like, they don't need to use us, they can just take the thought process and apply the thought process using any tool they want or manually doing it, you know?
+
+**Guy Yalif:** Super powerful.
+
+**Guy Yalif:** And so like incredibly powerful, as you know, and you know it works.
+
+**Guy Yalif:** So is it right to think that your framework, it is the problem.
+
+**Guy Yalif:** It is what you just ran through.
+
+**Guy Yalif:** Like the things you want to guide the people on, the things you want to teach them is actionable is some version of following your rubric, your methodology, or just hire you.
+
+**Guy Yalif:** Is that right?
+
+**Guy Yalif:** Or is there something else sitting in slide where that you're like, here's the thing I want you to walk away with again.
+
+**Guy Yalif:** Here's the thing I want you to do differently.
+
+**Marcel Santilli:** If I'm oversimplifying, please just tell me.
+
+**Guy Yalif:** No, not at all.
+
+**Marcel Santilli:** I think the thing that seems...
+
+**Marcel Santilli:** And I talked to like, you know, five to 10 CMOs a week as well.
+
+**Marcel Santilli:** You probably talked to 10 times more, but like, you know, the thing that kind of unlocks in these conversations is the fact that they're like, yes, this, I've been getting the pitch from all these visibility players and things like that.
+
+**Marcel Santilli:** And all of them are giving me like either ideas or things, but I don't have bandwidth in my team to execute that at all.
+
+**Marcel Santilli:** And I certainly know that this quality bar needs to hit our CEO's quality bar.
+
+**Marcel Santilli:** And if it doesn't, we can't even publish, which means we can't possibly even improve the numbers, you know?
+
+**Marcel Santilli:** And so like, but then my team doesn't even know where to start.
+
+**Marcel Santilli:** Like, do they need to build a custom GPT?
+
+**Marcel Santilli:** Do they need to build these gnarly workflows?
+
+**Marcel Santilli:** Do they need to buy a tool?
+
+**Marcel Santilli:** What do we need to do?
+
+**Marcel Santilli:** And so like the unlock is mostly like kind of simplifying how to think about it and mapping the strategy and then thinking about sequentially how to achieve that quality bar.
+
+**Marcel Santilli:** You know, and.
+
+**Marcel Santilli:** And.
+
+**Marcel Santilli:** And then the conclusion does end up being you can go build this or you can go partner with someone.
+
+**Marcel Santilli:** Or if you have a really good team internally that's already building a bunch of this stuff, like it tends to also help them because like, oh, I really like how you're thinking about this.
+
+**Marcel Santilli:** It's kind of where my head was going.
+
+**Marcel Santilli:** This validates that it's worth spending the time building this essentially, you know, to build the leverage.
+
+**Guy Yalif:** That sense.
+
+**Guy Yalif:** It's a very thoughtful, here's what you should do that leads to a, it's not a pitch, but it's a pitch.
+
+**Guy Yalif:** It's very thoughtful.
+
+**Guy Yalif:** And do you then tend to walk through the rubric in the product like you just did with me?
+
+**Guy Yalif:** Do you tend to do it in slides?
+
+**Guy Yalif:** It's fear.
+
+**Guy Yalif:** Did I lose you?
+
+**Jason Gong:** I feel like Marcel's cutting out.
+
+**Jason Gong:** mean, generally in our workshops, we tend to just walk through like exactly how Marcel did it.
+
+**Jason Gong:** Like we like to do it kind of raw to show the work itself.
+
+**Jason Gong:** But I think we can.
+
+**Jason Gong:** yep, yep.
+
+**Jason Gong:** So maybe that's it.
+
+**Guy Yalif:** So maybe.
+
+**Jason Gong:** Oh, sorry.
+
+**Jason Gong:** Go ahead.
+
+**Guy Yalif:** Oh, no.
+
+**Jason Gong:** I was saying we can very easily make a slide as well.
+
+**Jason Gong:** Like I think maybe that one of the more productive things we could do is like come up with a structure that we agree on and then, you know, divide and conquer a little bit to say who kind of drives which part.
+
+**Jason Gong:** I think the flow that makes sense to me is I don't know if you can share that like four step framework that you shared.
+
+**Jason Gong:** Like, you know, one one chunk of it is around measurement.
+
+**Jason Gong:** Understandably, one is around kind of like performance.
+
+**Jason Gong:** I can't remember what the last one was, but and then there's one.
+
+**Jason Gong:** I think like at least, you know, from the work that we do, like the content piece is the one that requires quite a bit of investment because ultimately that's the thing that gets cited and mentioned and, you know, drives the traffic.
+
+**Jason Gong:** And I think maybe that's the progression.
+
+**Jason Gong:** Like the beginning is about painting kind of like the world that we're in.
+
+**Jason Gong:** And then I think your framework and your approach to it segues very nicely because we're essentially the kind of last mile of that, you know, like not last mile, but like the latter chunk of that where it's about creating content.
+
+**Jason Gong:** And then that's where we can take over and then show our framework, right?
+
+**Jason Gong:** It's like, Hey, you've measured all these things, you know what the opportunity is, but like capitalizing on it, you know, is what takes some of the stuff that like Marcel is showing.
+
+**Jason Gong:** And then we can show the Webflow example, right?
+
+**Jason Gong:** Like this is what kind of us working together looks like creating content.
+
+**Guy Yalif:** My head went to the same place, Jason, and I think it's roughly what we have in the outline of me going first, me going second, because of that framing, because I'd be able to say, here are these four categories, here's how you should think about those.
+
+**Guy Yalif:** Sometimes I didn't really make content worse.
+
+**Guy Yalif:** Like this was a, you know, junior varsity view, maybe a varsity view.
+
+**Guy Yalif:** What if you wanted to play in the pros?
+
+**Guy Yalif:** How would you do that well?
+
+**Guy Yalif:** What's proven work?
+
+**Guy Yalif:** And then you turn to the work that you're doing.
+
+**Guy Yalif:** And it even made me think, we normally start with content, given its importance.
+
+**Guy Yalif:** Maybe I just cover that one last on purpose, because it'll just segue so naturally into what you're talking about.
+
+**Guy Yalif:** And so I had very similar thoughts.
+
+**Guy Yalif:** And, you know, was, leading up to this call, was like, is there anything I could say a bit different, relative emphasis kind of thing to tee up what we were doing more?
+
+**Guy Yalif:** And I'd say, talking about, you know, you really need to understand.
+
+**Guy Yalif:** You're targeting the customer and not going deeper than that and say, hey, the core jobs to be done haven't changed, you know, even though we have new tools and not going deeper than that, which would tee up the rubric you use even better.
+
+**Guy Yalif:** Like, I don't know if that lands for you.
+
+**Guy Yalif:** And then do you want to use slides or the product itself?
+
+**Guy Yalif:** I'm always a fan of seeing a live product.
+
+**Guy Yalif:** However, my two cents is if you slideify it, it looks less like a pitch.
+
+**Guy Yalif:** It looks less self-serving.
+
+**Guy Yalif:** You're like, well, of course, this is the way you would do it.
+
+**Guy Yalif:** Of course, you would want to do these things.
+
+**Guy Yalif:** And then, by the way, if you want to follow that, like, we've built that already.
+
+**Guy Yalif:** And I don't feel strongly at all.
+
+**Guy Yalif:** You've delivered your pitch a trillion times more than I have.
+
+**Guy Yalif:** This is like peanut galleries on the sidelines.
+
+**Guy Yalif:** So feel free to say, that's cute.
+
+**Guy Yalif:** We're going to show the real thing.
+
+**Guy Yalif:** But that's where my head goes.
+
+**Guy Yalif:** How does all that sit with you?
+
+**Guy Yalif:** None of those are strongly held points of view.
+
+**Jason Gong:** I don't know if you're there, Marcel.
+
+**Jason Gong:** I mean, think that makes sense.
+
+**Jason Gong:** mean, this general, like, let's paint the landscape and then transition into what we're doing.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And then I think that transition, maybe as we like make the slides, we'll figure that out.
+
+**Jason Gong:** I think we're fine with slides.
+
+**Jason Gong:** I do think like some of the, you know, stuff that you thought was pretty cool, like Marcel showing the augment citations, I'm sure we can find some for Webflow.
+
+**Jason Gong:** Like, that's always nice live.
+
+**Jason Gong:** Totally.
+
+**Guy Yalif:** That's valid.
+
+**Guy Yalif:** And if we can do that, by the way, in time for me to bounce it off Vivian's for her to be like, I've less this, because I don't want to put your and her stuff out without her being like, yep, yep, I'm on board, which I'm sure she will be.
+
+**Guy Yalif:** I just want to say mechanically.
+
+**Guy Yalif:** Dude, you're wearing a pendant from Limitless.
+
+**Guy Yalif:** Yeah, I got one after I saw you wear it.
+
+**Guy Yalif:** We can talk more about that at a time.
+
+**Guy Yalif:** Sorry, I just saw.
+
+**Guy Yalif:** Apologies for the distraction, given that we're running over.
+
+**Guy Yalif:** So then maybe I'll take, since we're doing 40 minutes, I'll go more briefly on the walk through the four categories.
+
+**Guy Yalif:** Not the overview.
+
+**Guy Yalif:** The overview, I'll do like we did now.
+
+**Guy Yalif:** But you saw I broke up the five levels for each of the four categories to sort of give that a walkthrough.
+
+**Guy Yalif:** I'll cover that much more briefly.
+
+**Guy Yalif:** And I'll bring up a couple of the third-party data points and I'll put content last.
+
+**Guy Yalif:** And then that'll tee you up beautifully.
+
+**Guy Yalif:** And I'll invite you to jump in throughout.
+
+**Guy Yalif:** If you're like, hey, here's a natural place for me to chime in and vice versa.
+
+**Guy Yalif:** If you either want to slide a fire, if you don't slide a fire, if you're just comfortable with me, in.
+
+**Guy Yalif:** Because I think it'd be, I would love for the audience not to hear me talk and then you talk.
+
+**Guy Yalif:** I would love for you to jump in and just to make it more interesting for them.
+
+**Jason Gong:** Yeah, no, that sounds good.
+
+**Jason Gong:** I mean, we can do, I guess.
+
+**Jason Gong:** Maybe one like logistics question.
+
+**Marcel Santilli:** Real quick, but is there a Google slide we can work against or what is your preferred source?
+
+**Marcel Santilli:** I'm indifferent.
+
+**Guy Yalif:** I'll take the thing I just shared visually.
+
+**Guy Yalif:** I'll make a copy of it.
+
+**Guy Yalif:** We can then treat that as our deck.
+
+**Guy Yalif:** can slice it, dice it, do anything we want with it.
+
+**Guy Yalif:** Just with a canvas for us to tear apart.
+
+**Guy Yalif:** And I'm not worried about like templates or anything like that.
+
+**Guy Yalif:** Feel free if you've got yours to like paste and keep original style and just keep it easy.
+
+**Guy Yalif:** Does that sound good?
+
+**Marcel Santilli:** We can take some of the like work on the design part on ourselves as well and try to keep it really pretty neutral so that it's like doesn't like take, you know, modify too much.
+
+**Marcel Santilli:** And then that way it's like if there's a Google slide because I tend to be so heads down on certain things that then like if I'm working crazy hours like three in the morning, then I can work on something that's our source of truth, you know.
+
+**Jason Gong:** Yeah, I can set that up with our template and like sure right after.
+
+**Jason Gong:** And then, yeah, and we'll work through the kinks.
+
+**Jason Gong:** Like, I think there's some stuff about, like, setting up kind of the current situation where I think there's, like, slightly different things being said, you know, or ways of framing it.
+
+**Jason Gong:** And I think we'll work through it in the slides.
+
+**Jason Gong:** And then that transition, I think, I'm sure we'll iterate a tiny bit.
+
+**Jason Gong:** But I think the one logistics question is, do you want to come to our office, Guy?
+
+**Jason Gong:** Like, we usually set up one of our conference rooms as the room for this.
+
+**Jason Gong:** And then we all kind of just, like, sit at the table.
+
+**Jason Gong:** And it feels, you know, very cohesive.
+
+**Jason Gong:** And not many people that do webinars try doing something like that.
+
+**Jason Gong:** Would you be open to that?
+
+**Guy Yalif:** I am supposed to be in Colorado for XAM.
+
+**Guy Yalif:** And so I was going to do it remotely.
+
+**Guy Yalif:** And I agree with you.
+
+**Guy Yalif:** Doing it in person is better.
+
+**Guy Yalif:** And your A-B setup is just so extraordinary.
+
+**Guy Yalif:** Yeah, I'll come up.
+
+**Guy Yalif:** Yeah, I'll be back.
+
+**Guy Yalif:** Oh, you're going to be here?
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Awesome.
+
+**Jason Gong:** Well, just let me know how I can make that easy.
+
+**Jason Gong:** Easy for you, if any.
+
+**Jason Gong:** Teleportation, please.
+
+**Jason Gong:** Wait, sorry, say that again?
+
+**Jason Gong:** I was making, I was just joking.
+
+**Guy Yalif:** You were like, how can I make it easier?
+
+**Guy Yalif:** I'm like, teleportation, please.
+
+**Jason Gong:** It can be done.
+
+**Jason Gong:** Cool, I think.
+
+**Jason Gong:** So we'll reiterate actively tonight and tomorrow.
+
+**Guy Yalif:** And again, even if we did this 30 seconds from now, I know it'll go beautifully.
+
+**Guy Yalif:** And yes, it'd be lovely to iron out those tanks.
+
+**Guy Yalif:** And then if you guys are game, we can rinse and repeat, right?
+
+**Guy Yalif:** We can do this again.
+
+**Guy Yalif:** In person, online, all the above.
+
+**Guy Yalif:** We've got great stories to tell together.
+
+**Marcel Santilli:** Love it.
+
+**Marcel Santilli:** Yeah, agreed.
+
+**Jason Gong:** All right, I'll follow up right after this call.
+
+**Jason Gong:** Like, I mean, I think we've roughly mapped out the agenda for webinars.
+
+**Jason Gong:** I'll send that along and then I'll start like a little slide deck that we can work on collaboratively.
+
+**Jason Gong:** Awesome.
+
+**Marcel Santilli:** Thanks, team.
+
+**Marcel Santilli:** This feels good to me, like we are creating this.
+
+**Guy Yalif:** Something unified together that takes bits from each, just as you said.
+
+**Guy Yalif:** Oh, he's got to go.
+
+**Guy Yalif:** Okay, I was going to ask, how does it feel to you?
+
+**Guy Yalif:** I wanted your opinion together, yeah.
+
+**Guy Yalif:** What do you think, Jason?
+
+**Guy Yalif:** It feels great.
+
+**Jason Gong:** I think just, you know, our usual process involves last-minuting it.
+
+**Jason Gong:** So this is a nice...
+
+**Guy Yalif:** Okay, well, then if this feels normal for you, totally fine for me.
+
+**Jason Gong:** Oh, no, this feels way ahead of time for us.
+
+**Jason Gong:** Oh, cool.
+
+**Guy Yalif:** Then ignore the week-ago comment.
+
+**Guy Yalif:** So, I personally am totally fine with last-minute again.
+
+**Jason Gong:** Yeah, but I'm glad you kind of, like, scoped it down a little bit.
+
+**Jason Gong:** I think, you know, we'll keep iterating on this one.
+
+**Jason Gong:** I think there is a version where we get a little bit more into the weeds.
+
+**Jason Gong:** So, yeah.
+
+**Jason Gong:** Were you thinking this might be that on your end?
+
+**Guy Yalif:** And if so, was that going to be more, like, product detail walkthrough stuff?
+
+**Jason Gong:** No, like, honestly, I don't know if you've watched some of the workshops.
+
+**Jason Gong:** We just, like, make it generic.
+
+**Jason Gong:** Are they online?
+
+**Jason Gong:** I would love to watch them.
+
+**Guy Yalif:** Yeah, yeah, yeah.
+
+**Jason Gong:** I'll shoot some of them over.
+
+**Guy Yalif:** Oh, dude, if you can DM or email me links, yes, that's the missing piece for me.
+
+**Guy Yalif:** I'm like, wait, what's the it?
+
+**Jason Gong:** I didn't realize I could see the it.
+
+**Jason Gong:** I'll share it in the channel right after.
+
+**Jason Gong:** But we literally, like, we try to make things as generic as possible.
+
+**Jason Gong:** So we're literally working out of, like, ChatGPT and Claude.
+
+**Jason Gong:** And we make it clear, like, hey, this is, you know, 60% of, like, what you can get.
+
+**Jason Gong:** But it's, you know, you can see kind of the results of, like, just taking this approach and even using, like, the most simplest tools.
+
+**Jason Gong:** And then what we do is, like, take that to 90 by, like, you know, like all the steps that Marcel showed, like, nobody's going to do that.
+
+**Jason Gong:** And Claude, you know, to polish something to that degree.
+
+**Jason Gong:** So, yeah.
+
+**Jason Gong:** It reminds me of the Launched Darkly pitch.
+
+**Guy Yalif:** It's like, you could do this, but why would you?
+
+**Guy Yalif:** Actually, no, that's not true.
+
+**Guy Yalif:** It's not the same.
+
+**Guy Yalif:** Launched Darkly said that because they.
+
+**Guy Yalif:** We were like, why would you invest the time in this non-strategic stuff?
+
+**Guy Yalif:** Your point is this is hugely strategic, but like, you're not going to find a time or the expertise to go do this.
+
+**Guy Yalif:** You're not saying the expertise part, you're not trying to do that, but you're like, you're not going to take the time to do this.
+
+**Guy Yalif:** So never mind, the parallel was wrong.
+
+**Jason Gong:** I think we like feel sometimes we're giving too much away, but I think that that's become kind of our brand.
+
+**Jason Gong:** It's like, my God, I can't believe they're showing what they do for, you know, this company and that company.
+
+**Jason Gong:** So, um, yeah, but I'll you, send you, uh, I'll that marketing out in the open of screens.
+
+**Guy Yalif:** Yeah.
+
+**Jason Gong:** that was great, man.
+
+**Guy Yalif:** I appreciate it.
+
+**Guy Yalif:** And I'm excited to co-create together.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Uh, likewise, we'll see you here on Friday and then, um, yeah, I mean, tomorrow we can do async.
+
+**Jason Gong:** Do you feel like we, we need to do like a quick, you know, 15 minutes?
+
+**Jason Gong:** Uh, I think the other option is like, if you end up coming here a little bit early, we can kind of hash it out in the hour.
+
+**Guy Yalif:** I'd be happy to come there early, and I am on an airplane until about 5 p.m.
+
+**Guy Yalif:** tomorrow afternoon.
+
+**Guy Yalif:** I'm in New York, and I'm flying back during the day.
+
+**Guy Yalif:** So Fathom Live will be up until unless you want to talk about Fathom, Eastern Pacific, which I don't think you need.
+
+**Guy Yalif:** Yeah, no, let's do it.
+
+**Jason Gong:** Let's do it, Deo.
+
+**Jason Gong:** We'll be here quite early, so whenever you want to hop by.
+
+**Jason Gong:** But again, we're great at on-the-fly, you know, improvising, so I think in any case, this is going to be really good.
+
+**Guy Yalif:** And vice versa, because we're fortunate to all be in these topics, which is great, and I look forward to chatting live about the Fathom.
+
+**Jason Gong:** Yeah, no, I've been loving it.
+
+**Jason Gong:** I think just like the friction of like asking people if it's okay.
+
+**Jason Gong:** to record them is like a little annoying.
+
+**Jason Gong:** Yes, that's the thing.
+
+**Guy Yalif:** And I want to talk about that when we get a chance.
+
+**Guy Yalif:** I need to hop to another call, but I want to talk about that if that works for you.
+
+**Jason Gong:** I'll talk to you when you get here.
+
+**Jason Gong:** See you, Guy.
+
+**Jason Gong:** Great goodness together, Jason.
+
+**Guy Yalif:** See you on Friday.
+
+**Guy Yalif:** Bye.

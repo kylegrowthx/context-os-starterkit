@@ -1,0 +1,1648 @@
+# You.com <> GrowthX | Customer Deep Dive
+
+<metadata>
+date: 2025-10-28
+time: 18:01 UTC
+duration: 68 minutes
+organizer: erik@growthx.ai
+participants: Erik O'Brien (GrowthX), Brooke Grief (You.com), Doug Duker (You.com), David Wacker (You.com), Kady Srinivasan (You.com)
+fathom_recording_id: 97407214
+fathom_url: https://fathom.video/calls/454646213
+share_url: https://fathom.video/share/XuLR2Ezj7YzAySyaGzqTqqxDxg-5DYe5
+source: fathom
+enriched_on: 2026-03-02 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+Erik O'Brien and Brooke Grief (You.com's VP of Marketing) conducted a discovery deep dive with Doug Duker (Customer Success), David Wacker, and Kady Srinivasan to identify customer use cases and market dynamics for You.com's content strategy. Key learnings: customers need AI automation (not just productivity tools), workforce AI literacy programs require role-specific training, and enterprise buyers are buying on security, multi-LLM access, and You.com's de-risking value proposition. GrowthX will produce 20 pieces of content monthly across two audiences: technical (API features, evals) and enterprise (AI transformation ROI and organizational change). Critical blocker: You.com's internal product naming (E2E vs. AI Factory) is causing market confusion that must be resolved before content launches.
+
+---
+
+## Context
+
+You.com is a B2B AI/search platform that provides access to all major LLMs (GPT, Claude, Gemini) via a single secure, data-retention-free API. They operate in the rapidly-growing enterprise AI space competing against Google SERP APIs, Perplexity, and other search/research tools. Brooke Grief leads marketing and is working with GrowthX to scale content production in support of You.com's enterprise sales motion. This discovery call was the second major touchpoint — Erik and team had already heard from Brooke about You.com's platform and strategy, and this deep dive was designed to talk to customer success and product teams to understand what customers actually build with the platform, what they struggle with, and what messaging would resonate in the market. The goal is to create 20 high-quality content pieces monthly that position You.com as a thought leader in enterprise AI adoption, not just as an API vendor.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Content strategy must address two distinct buyer personas: technical teams (API/developer-focused) and enterprise leaders (transformation/ROI-focused). One 20-piece/month plan won't work — need to split by audience.
+- You.com's internal product naming confusion (E2E vs. AI Factory) is a critical blocker. GrowthX cannot create coherent external messaging until You.com resolves this internally. This is a pre-work item, not a content problem.
+- Accuracy and latency tradeoffs are emerging as a key selling point. You.com's upcoming API feature (accuracy/latency toggle) is a content opportunity for use-case-driven thought leadership.
+- Workforce AI literacy is table stakes for enterprise deals. Customer success uses You.com's partnership with Pair as a proof point that training must be personalized and role-specific, not generic LLM training.
+
+**To GrowthX Business Development:**
+- You.com is a mid-stage customer with 5-figure monthly spend and high expansion potential. Brooke Grief is empowered to invest in content and is collaborating openly. Renewal risk is low; upsell opportunity around expanded content and consulting services is moderate-to-high.
+- The customer success team (Doug, David, Kady) is engaged and willing to participate in interviews and case studies. This is a key selling point for reference-ability and account health.
+- You.com's founder narrative (Richard and the You.com URL) is a credibility driver in the market. Reference conversations with early customers (Amazon, Alibaba) should be part of content strategy.
+
+**To CheckThat / AEO:**
+- Enterprise AI adoption requires current, accurate data. You.com's proprietary web and news indexes (versus stale LLM training data) are table stakes for accuracy in AI applications. This is a key edge case for CheckThat — AI visibility must account for real-time data quality.
+- Competitive landscape: Google SERP (10-result limit), Bing (sunset API), Perplexity (unofficial scraping). You.com's security and data retention policies are material competitive advantages worth studying as case studies on why data governance matters in enterprise AI.
+
+---
+
+## Overview
+
+- **Enterprise customers seek automation, not just productivity.** They want AI to trigger actions and run workflows autonomously, not just assist with manual tasks.
+- **You.com's core value proposition is de-risking AI adoption.** This is achieved through a secure, data-retention-free platform offering access to all leading LLMs, hedging against the risk of choosing the wrong one.
+- **A critical internal product naming issue (E2E vs. AI Factory) is causing market confusion.** This must be resolved to create a unified, clear external message.
+- **A major content opportunity exists in educating enterprises on AI transformation.** This includes explaining the required investment and organizational change needed to ensure project success and secure future budgets.
+
+---
+
+## Key Topics
+
+### Customer Use Cases & Needs
+
+  - **Workforce AI Literacy:**
+      - Training employees on prompt engineering for writing, research, and image generation.
+      - Success depends on personalized training (e.g., You.com's partnership with Pair) with role-specific exercises to drive adoption beyond the 5-7% of early adopters.
+  - **Data Integration & RAG:**
+      - Connecting AI to internal data via APIs (Salesforce, ServiceNow) or vectorized indexing for conversational search.
+      - **Private RAG:** Effective for unstructured data (PDFs, articles), but not for structured data (rows/columns) requiring API queries.
+      - **MCP Server (Roadmap):** Aims to solve the challenge of querying highly configurable structured systems (Salesforce, SAP) conversationally.
+  - **API Embedding:**
+      - SaaS companies and developers embedding You.com's APIs (web index, news index) into their own products.
+      - The RE API for deep research is a popular use case.
+
+### Enterprise vs. Developer Needs
+
+  - **Enterprise:**
+      - Focus on automation to trigger actions and run workflows autonomously.
+      - Goal: Shift from AI-assisted productivity to AI-driven task completion.
+  - **Developer:**
+      - Focus on control and composability.
+      - Needs: API access to all UI features, robust file handling, and the ability to include/exclude websites from searches.
+
+### Market Challenges & You.com's Differentiators
+
+  - **Primary Challenge: Low Brand Awareness**
+      - Most prospects are unfamiliar with You.com.
+      - The story of its founder (Richard) and the You.com URL quickly builds credibility.
+  - **Competitor Weaknesses (SERP APIs):**
+      - **Bing:** Sunset its API, forcing migrations.
+      - **Google SERP:** Limits results to 10, reducing accuracy by missing relevant data on later pages.
+      - **Perplexity:** Scrapes data unofficially.
+  - **You.com's Differentiators:**
+      - **Security & Privacy:** Zero data retention and no model training on customer data, negotiated for all LLMs.
+      - **Model Access:** Access to all leading LLMs (GPT, Claude, Gemini) on one platform, hedging against the risk of choosing the wrong one.
+      - **Freshness & Accuracy:** Proprietary web and news indexes provide current data, avoiding factual errors common in models trained on older datasets.
+      - **Scalability:** Proven enterprise-grade scale (1B+ API calls/mo) is a key decision factor for large clients like Amazon and Alibaba.
+      - **Extensibility & Support:** A consultative approach ("AI Factory") helps clients build solutions, which differentiates You.com from pure API providers.
+
+### Product Roadmap & Content Opportunities
+
+  - **Upcoming Feature: Accuracy/Latency Toggle**
+      - A new API parameter will let developers choose between speed and accuracy.
+      - **Content Opportunity:** Position You.com as a thought leader in next-gen search APIs, creating use-case content around this flexibility.
+  - **Customer Request: Self-Serve Orchestration**
+      - Demand for a drag-and-drop UI for multi-agent workflows and system-triggered actions (e.g., update Salesforce → trigger agent).
+  - **Content Opportunity: AI Transformation Thought Leadership**
+      - Educate enterprises on the investment and organizational change required for successful AI adoption.
+      - **Goal:** Help companies plan budgets for AI transformation, preventing projects from failing due to lack of resources.
+
+---
+
+## Action Items
+
+**Erik O'Brien (GrowthX)**
+- Schedule interview w/ David Lee (You.com) to get data and nuance on competitive evaluations for content
+
+---
+
+## Transcript
+**Brooke Grief:** Hi, Erik.
+
+**Brooke Grief:** How's it going?
+
+**Erik O'Brien:** Busy day.
+
+**Erik O'Brien:** How's your day going?
+
+**Brooke Grief:** Same.
+
+**Brooke Grief:** Busy, but glad we were able to connect.
+
+**Brooke Grief:** Hi, Doug.
+
+**Doug Duker:** How are you?
+
+**Brooke Grief:** Good.
+
+**Brooke Grief:** How are you?
+
+**Brooke Grief:** I appreciate you taking the time to run through some stuff.
+
+**Doug Duker:** Yeah, no worries.
+
+**Brooke Grief:** Glad to help.
+
+**Brooke Grief:** Cool.
+
+**Brooke Grief:** I'm not sure if Kady can join, but since scheduling is always so tricky, I figured I'd keep this and I know David might join in a bit.
+
+**Brooke Grief:** I'm going to hop off another call.
+
+**Brooke Grief:** But just for some context, Doug, we're in the discovery phase of working with GrowthX, who will be helping to scale up our content production and help us churn out a bunch of high quality content.
+
+**Brooke Grief:** And we wanted to make sure we were talking to a bunch of people internally on the U.com side to get the information needed to make sure that what we spit out will be helpful to everybody.
+
+**Doug Duker:** Yep.
+
+**Doug Duker:** Sounds like a great plan.
+
+**Doug Duker:** You're, you've already produced a whole bunch of content, which is amazing, but happy to, happy to help tailor it.
+
+**Brooke Grief:** Sweet.
+
+**Brooke Grief:** Yeah, no, that's helpful.
+
+**Brooke Grief:** The, the growthx team, I think the goal, correct me if I'm wrong, Erik, was about 20 pieces a month.
+
+**Erik O'Brien:** That is correct.
+
+**Brooke Grief:** Yeah.
+
+**Brooke Grief:** So that's, that's a lot of content, which is awesome.
+
+**Brooke Grief:** But yeah, having the right inputs, as we all know, from the AI world will be very helpful to creating the correct content on the end.
+
+**Brooke Grief:** So yeah, Erik, I don't know if, if you had a plan on how you want to tackle some of this.
+
+**Erik O'Brien:** Erik No plan at all.
+
+**Erik O'Brien:** Just going to do a live.
+
+**Erik O'Brien:** Oh, I'm kidding.
+
+**Erik O'Brien:** I've got a lot of questions.
+
+**Erik O'Brien:** Well, hopefully you used some form of AI to produce your list of questions.
+
+**Doug Duker:** And if you send them to me ahead of time, then I could use my AI to reply to you and the two of us wouldn't have to meet.
+
+**Erik O'Brien:** Man, I should have thought of that.
+
+**Erik O'Brien:** Erik O' Yeah, we've got a, a list of questions that I kind of.
+
+**Erik O'Brien:** of.
+
+**Erik O'Brien:** Erik Yeah.
+
+**Erik O'Brien:** I use for customer deep dives, and then I just layer in kind of what we've already heard from Brooke and team, and so, hopes to make them a little bit more nuanced, but, and then do my own research, of course, but I think we can start just at the high level, kind of what I put into the agenda is just around customer use cases and any other kind of requests that you guys get.
+
+**Erik O'Brien:** So, I'd really just like to start there, I guess, from customer success side, what are the typical kind of use cases that customers are seeing today, or like if they're coming to you, what are they actually really trying to build with different APIs?
+
+**Doug Duker:** Yeah, so, I mean, I think there's, there's like three different tiers to this, or pillars to this, kind of the way I look at it, right?
+
+**Doug Duker:** One is what I would call, like workforce AI literacy.
+
+**Doug Duker:** is like workforce AI literacy.
+
+**Doug Duker:** Do
+
+**Doug Duker:** Teach all the employees how to prompt, and that's usually for writing and research, maybe image generation, where something personal you're working on, for the most part, maybe you create a little agent and share it with some colleagues, but it's largely around, hey, I got this thing I got to do, AI can do it faster, teach me how to think that way and how to be productive using AI as a new tool in my tool belt, right?
+
+**Doug Duker:** And we see this, we have a great, great, great training program that we've done, we've done this kind of joint partnership with this company called Pair, and the thing with AI that's so important is you have to make it personal, right?
+
+**Doug Duker:** If I'm in HR, and we demo a bunch of sales and marketing things, then this isn't for HR.
+
+**Doug Duker:** If I'm in sales and marketing, I demo a bunch of legal stuff, it's not for sales and marketing.
+
+**Doug Duker:** So, one of the things we do with our training program is everything's tailored to each individual person.
+
+**Doug Duker:** So, each individual person,
+
+**Doug Duker:** I was in, here's my role, here's my industry, here's my objectives for the year, and then the hands-on training is customized to that person, giving them real-world industry exercises to prompt and practice with.
+
+**Doug Duker:** Many of those end-users will say that something they did in their certification class, they're still using professionally to that.
+
+**Doug Duker:** And so that really gets folks going in, and this is, you know, Erik, this is the other challenge, right?
+
+**Doug Duker:** Is, those of us who hang out in the AI world is such a small part of the population, estimated five to 7% of any company is kind of a first responder, early adopter in AI, and the other 90 plus percent, man, they're working a 50 hour a week, they've got Cub Scouts and softball and all kinds of other crap going on in their life, and they don't give two  about who all the different LLMs are, and which one I should use versus another one.
+
+**Doug Duker:** And, you know, you know, if it's not accessible.
+
+**Doug Duker:** It just doesn't happen, right?
+
+**Doug Duker:** And so our goal is to get, not only the enthusiasts excited, but the other 90 plus percent.
+
+**Doug Duker:** And so this personalized training has really crossed that barrier with our customers where we're seeing deeper adoption across lots of knowledge workers when those organizations want that.
+
+**Doug Duker:** If they don't want it, there's not a lot we can do, but if they promote it, they incent it, they, you know, gamify it in some way within their organization, it goes really well.
+
+**Doug Duker:** So that's the first kind of pillar to what we see.
+
+**Doug Duker:** You know, the second one is really around bringing in customers' data into the equation.
+
+**Doug Duker:** Either, either API into some system like a Salesforce or a ServiceNow or something else, or data sets, you know, large data sets that we can index with our vector.
+
+**Doug Duker:** Thank you.
+
+**Doug Duker:** Vectorized technology to bring that generative AI conversation to internal datasets, as well as what you can do publicly with external, just tremendous success with this, customers really like, everyone's disappointed in the search tools that are native in most datasets, if there are any at all, and so our ability to really index and bring a conversation to their data is huge.
+
+**Doug Duker:** And, and many times that's external, that's, build this out and make it into a chat bot, stick it on our website, stick it behind a paywall, monetize it, right, there's lots of different ways you can do it, whether it's be internal or external.
+
+**Doug Duker:** Part of that also is just more complicated end to end processes, right, so, you know, we're doing a bunch of stuff for a media company right now where we're building AI into their system.
+
+**Doug Duker:** So we're, we're building it with an API, it's plugging into their system.
+
+**Doug Duker:** They're authoring software and things like fact checking and headline creation and style guide are all things that have been done by editors and still will, but we're going to kind of surface, you know, advice for their humans to be more productive and faster.
+
+**Doug Duker:** So those types of things.
+
+**Doug Duker:** And then the third one is just a pure API play where it's more embedding AI into a piece of technology, right?
+
+**Doug Duker:** So that's usually more on the software company front or someone who has some kind of SaaS application that may want AI, may not know how to do it, or might just want more options, those sorts of things.
+
+**Doug Duker:** And so our platform becomes a place to bring news, the web, our web indexes, some of our more proprietary indexes to the market where they don't possess the skills or the resources to build those things themselves.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** And would you say there's any major differences?
+
+**Erik O'Brien:** As in kind of what enterprises are asking for versus the developer audience?
+
+**Doug Duker:** Oh, I think it's completely two different scenarios entirely, right?
+
+**Doug Duker:** It's, I mean, the enterprises are looking for productivity, right?
+
+**Doug Duker:** They're looking for, how do I make my people more efficient?
+
+**Doug Duker:** How do I get rid of people, if we're being honest?
+
+**Doug Duker:** You know, it's, everybody wants AI to do something for them.
+
+**Doug Duker:** I think one of the big challenges with prompting is prompting is something you have to initiate yourself.
+
+**Doug Duker:** And they're really looking for what can I schedule?
+
+**Doug Duker:** What can I trigger?
+
+**Doug Duker:** What can take an action on my behalf without me having to get involved or teeing it up for just review so that it's, you know, you wake up in the morning, you have a queue of things, review, review, review, review, and it all goes off and does, does its thing for the day.
+
+**Doug Duker:** Um, it's all really about kind of automation at this point.
+
+**Doug Duker:** And how do you, you know, take tasks off of a human's plate, not just make a human themselves more productive.
+
+**Doug Duker:** .
+
+**Doug Duker:** .
+
+**Doug Duker:** .
+
+**Doug Duker:** .
+
+**Doug Duker:** .
+
+**Doug Duker:** Does that make sense?
+
+**Erik O'Brien:** Absolutely.
+
+**Erik O'Brien:** Cool.
+
+**Erik O'Brien:** Take some notes here.
+
+**Erik O'Brien:** Is there any kind of examples of creative or unexpected use cases that you've seen, either enterprise or developer?
+
+**Doug Duker:** I mean, the sky's the limit, right?
+
+**Erik O'Brien:** It's the limit of your imagination at this point.
+
+**Doug Duker:** It really is.
+
+**Doug Duker:** I mean, if it's something you do that involves writing or research or image generation or programming, you know, it's all possible.
+
+**Doug Duker:** And so we see people writing whole software programs who may not possess those skills themselves.
+
+**Doug Duker:** You see people all the time doing really, really, you know, bespoke research for their organizations.
+
+**Doug Duker:** You know, deep, deep, deep research that you couldn't do before.
+
+**Doug Duker:** You know, we see consulting companies who are producing.
+
+**Doug Duker:** see about things a a of amazing..
+
+**Doug Duker:** You know, days and days and days of labor in minutes and seeing that very regularly.
+
+**Doug Duker:** And it may not be a final product, but something to really push them in the right direction.
+
+**Doug Duker:** You know, I think there's, it's interesting if you look across our spectrum of customers, because there are some that are very prompting heavy and they just, they don't care about agents.
+
+**Doug Duker:** They don't care about automation.
+
+**Doug Duker:** They just want to prompt, prompt, prompt, prompt, prompt.
+
+**Doug Duker:** And those people are doing mostly writing and research.
+
+**Doug Duker:** And then there are people who are much more automation focused.
+
+**Doug Duker:** Here's some big task.
+
+**Doug Duker:** That's a burden for me.
+
+**Doug Duker:** please take it off my plate.
+
+**Doug Duker:** Right?
+
+**Doug Duker:** It's the same 17 steps every single time.
+
+**Doug Duker:** I don't want to do it anymore.
+
+**Doug Duker:** Can technology do it for me?
+
+**Doug Duker:** Right?
+
+**Doug Duker:** And that's, that's really where, where customers are coming to us now much more and be like, Hey, look, you know, this is something I don't want to do anymore.
+
+**Doug Duker:** I was at a customer the other day and they have status reports from each of their business units and they're, they're in SharePoint someplace, right?
+
+**Doug Duker:** All over the place.
+
+**Doug Duker:** And they're like, we want a summary of all the status reports.
+
+**Doug Duker:** We don't want to hear that.
+
+**Doug Duker:** We don't want to, we don't want to read the same item.
+
+**Doug Duker:** So and over again, aggregate them all together, pull out the outliers, and give us one status report for the whole business that pulls it all together, but they wanted us to go to all these different places and get these documents and bring them together into one place and then synthesize it and then produce a new one and put it out someplace else.
+
+**Doug Duker:** They would also like us to have an agent that would run their executive staff meeting, taking meeting minutes and proposing the agenda for the next meeting.
+
+**Doug Duker:** Like, they literally want to automate, you know, leadership.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** Decision-making, yeah.
+
+**Doug Duker:** More kind of like a project management side of it, right?
+
+**Doug Duker:** Like, the meetings would still happen, decisions would still be made by humans, but the action items, the follow-ups, the collection of status, and the aggregating it back, they want to automate that whole thing.
+
+**Brooke Grief:** Yeah, something too that I should call out is something that I find unique to my experience here so far is that we actually can use the product ourselves internally to build a...
+
+**Brooke Grief:** Agents and stuff to help our enterprise be more efficient and effective, so while there are customer stories, there are also internal customer stories that we are creating agents for, like the marketing team even just has like agent building labs where we get together and try to figure out agents to help the marketing team be more efficient.
+
+**Brooke Grief:** that could also be an opportunity to talk about.
+
+**Doug Duker:** I mean, my org chart is inclusive of agents.
+
+**Doug Duker:** Here's the entire customer success department, and in each of the business units, here are the agents that support us as well.
+
+**Doug Duker:** Is I think, you know, we talk a lot about the agentic workforce of the future, but, you know, it's really starting to appear now, and the more you start thinking about agents being a part of your team, I think it's really a kind of a profound way of starting to think about, you know, what agents do we need that we don't have, and what agents are we relying on to run some function for us.
+
+**Brooke Grief:** Right, definitely.
+
+**Brooke Grief:** And then for like a content creation perspective, Erik, like if you are looking for, you know, first-hand experience with an agent or something, we can always tap our team internally versus relying solely on customers.
+
+**Brooke Grief:** I know some customers are not super willing to share how much AI they're using yet.
+
+**Doug Duker:** A lot of them want to keep it a secret.
+
+**Doug Duker:** A lot of our customers are like, wow, you know, we're, we're killing it and we don't want our competition to not.
+
+**Brooke Grief:** Yeah, I came from a healthcare AI space where they were very like hush-hush about using AI just because of the general perception of how it's being used.
+
+**Brooke Grief:** So there's a lot of that too that might come into play of just people thinking like it's bad or, you know, that, so changing that perception could be part of this content and showing how we use it at you.com to make us more efficient could be a really good threshold to cross and open that door.
+
+**Erik O'Brien:** Yep.
+
+**Erik O'Brien:** Yep.
+
+**Erik O'Brien:** Yep.
+
+**Erik O'Brien:** Thank you.
+
+**Doug Duker:** I think, to me, one of the biggest decisions organizations are going to to make, and it's not a win-lose thing, it'll be somewhere on the spectrum, but everyone has a little Gen.AI in their products these days, right, or are coming to market.
+
+**Doug Duker:** So you get your HR with a little Gen.AI, and got your sales and marketing with a little, and then you got your, you know, your customer service and, you know, all these different ones, people are going to repurchase ChatGVT capacity over and over again, right?
+
+**Doug Duker:** And the other way of doing that is to use a platform like us, where, you know, you, you support lots of use cases across your organization from one centralized place, where you're consolidating your spend for AI.
+
+**Doug Duker:** Um, I think that's something that, I mean, we're kind of betting on, but, um, I think a lot of people overbuy, um, and, and it's, and it's not cheap generally.
+
+**Doug Duker:** So if you have an AI enabled, you know, you go to Salesforce and you want to go buy Asian force, man, that's, that's a big, that's a big price tag.
+
+**Doug Duker:** Um, yeah, but.
+
+**Doug Duker:** But, you know, if you have an agentic workforce that can connect to Salesforce, like, you know, so you have to, I think one of the things that people are going to need, going to wrangle with is how many times do have to buy ChatGPT over and over and over again and how much capacity have I bought in each of those vendor relationships versus having a platform that does it all.
+
+**Brooke Grief:** Yeah, that's a big one.
+
+**Erik O'Brien:** Yeah, think we talked a little bit during the kickoff of kind of the transactional basics of cost, accuracy, latency.
+
+**Erik O'Brien:** Are those typically big drivers in customer conversations, like if they're looking to switch or if they're looking to, like you said, kind of consolidate spend across AI tools?
+
+**Erik O'Brien:** Can you just tell me a little bit about kind of what maybe some drivers or triggers from customers could be?
+
+**Doug Duker:** I mean, first and foremost is security.
+
+**Doug Duker:** You know, the fact that we have so many different LLMs, that we have the most recent releases of each, and they're all...
+
+**Doug Duker:** We've already negotiated zero data retention and no learning for each of them.
+
+**Doug Duker:** So many businesses, they have a camp of cloud users and a camp of Gemini users and a camp of GPT users, and they want one vendor.
+
+**Doug Duker:** They're tired of negotiating all these contracts.
+
+**Doug Duker:** They're scared to death to pick one and pick the wrong one.
+
+**Doug Duker:** And so our ability to secure all of their data so that it's safe for business, while at the same time giving them ongoing access to all the new models, frankly, is one of the first driving decisions for most customers is everyone's scared to death that they're going to pick the wrong one.
+
+**Doug Duker:** We're going to go with Gemini and then, you know, it fizzles out.
+
+**Doug Duker:** We're to with Wama and, you know, ugh, right?
+
+**Doug Duker:** And so the ability to be like, oh, ChatGP 5 came out.
+
+**Doug Duker:** We have it.
+
+**Doug Duker:** You know, Cloud 4 on 5 comes out.
+
+**Doug Duker:** We have it.
+
+**Doug Duker:** You know, they feel like they're really hedging their bets with us on also a secure platform.
+
+**Doug Duker:** And those two factors largely outweigh.
+
+**Doug Duker:** And for other aspects for a lot of our customers, as they think about value and being concerned in the short term, at least in the next, you know, three to five years of, do we pick ChatGPT all in and then, you know, what if they lose, what if DeepSeek comes in and, you know, takes everybody out and so, you know, our ability to help them hedge those bets and also satisfy all those constituent users that if you're dying, to use Gemini, do.
+
+**Doug Duker:** If you're dying to use Cloud 4.5, do.
+
+**Doug Duker:** Like, that's fine.
+
+**Doug Duker:** So, you know, generally, those are, those are some of the early drivers in the sales cycle.
+
+**Doug Duker:** And then it, and then it comes back to the credibility of our, of our leaders, right?
+
+**Doug Duker:** And the fact that they've pioneered all of this technology, and that they continue to pioneer regularly, things we, we bring to market, the rest of the market follows.
+
+**Doug Duker:** So, you know, that's, that's always a good.
+
+**Doug Duker:** I as well, to be with the leaders and the folks who really, truly understand what's under the hood on how all this AI stuff works, you know, there's five, six, seven hundred AI startups in the Bay Area just this year, but only one of them has Richard, and that's us.
+
+**Doug Duker:** So, you know, it's, it is not to be underestimated.
+
+**Brooke Grief:** So, would you, sorry, Erik, don't mean to cut you off.
+
+**Brooke Grief:** I was just going to say, for the security and the freshness of the models, would you say that that's mostly enterprise customers, end-to-end?
+
+**Doug Duker:** Erik'Brien, business customers, yeah, for sure.
+
+**Doug Duker:** Although, on the API side, that's, that's attractive as well, right?
+
+**Doug Duker:** You know, no one wants to build a tool that, that their end users' data has.
+
+**Doug Duker:** It gets learned on.
+
+**Doug Duker:** It's not great.
+
+**Doug Duker:** You know, the other thing, Erik, that's big, though, with us is our news index, our news index and our web index, which comp
+
+**Doug Duker:** Well, that's the LLMs, right, because, you know, last summer when you asked who the Pope was, most of the LLMs got it wrong because we had a new Pope and we had it, you know, current as of next day and, you know, that kinds of currency when you're looking for facts and answers is so very important, you know, and our ability to combine current data with large language model data that's been trained as well brings us a really other nice, unique benefit.
+
+**Doug Duker:** uh, for anyone who's looking for, you know, the most current, the most valuable insights.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** And then we talked a little bit about control and composability, um, that really gives developers flexibility and better building blocks.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** Can you tell me just a little bit more about that and kind of how it plays out in that developer experience?
+
+**Doug Duker:** Yeah, I mean, there's, there's, there's several things.
+
+**Doug Duker:** There's, you with our U.com, uh, enterprise product.
+
+**Doug Duker:** There's,
+
+**Doug Duker:** We're evolving to a point that anything you can do in our UI, you can do via an API.
+
+**Doug Duker:** So, you know, that means more than just, you know, hit Claude with a prompt, but, you know, maybe you've built an agent in u.com and then exposed that with an API, taking advantage of more of our layers of technology so that you can pull in our web index, our news index, and an LLM, you know, one cohesive thing.
+
+**Doug Duker:** You can do that in our UI.
+
+**Doug Duker:** You can build it yourself and try to do all those things all on your own, but we've already built it.
+
+**Doug Duker:** And so the ability to expose that via an API is one great example.
+
+**Doug Duker:** Another great example is our file handling.
+
+**Doug Duker:** So we've built the technology to ingest files, tokenize them, embed them into prompts.
+
+**Doug Duker:** That's not trivial.
+
+**Doug Duker:** A lot of people struggle with that.
+
+**Doug Duker:** And so the ability to have, like, access to our file ingestion as a part of an API play is really unique as well.
+
+**Doug Duker:** So that all of our indexes.
+
+**Doug Duker:** How we deal with web content.
+
+**Doug Duker:** Again, most of the LLMs, you go to ChatGPT and try to do a prompt, you can't include or exclude websites, but you can with us.
+
+**Doug Duker:** Again, you can do that either via API or in our UI as well.
+
+**Doug Duker:** So we're bringing more functionality and more features to help people really refine their questions and their prompts and their searches to get at the information they're looking for.
+
+**Doug Duker:** Even one of the big popular APIs that's coming out is our RE API.
+
+**Doug Duker:** our deep, deep, deep research via API.
+
+**Doug Duker:** A lot of people want to do this in batch and do a bunch of them and take that data and maybe train something else on it or whatever.
+
+**Doug Duker:** But that has been very popular with people who see the value in deep research and want to leverage it in other places.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** Someone I've used probably most often from you guys.
+
+**Erik O'Brien:** It's awesome.
+
+**Erik O'Brien:** Previous job, but we jump into different industries left and right.
+
+**Erik O'Brien:** I would be like, I don't know.
+
+**Erik O'Brien:** I anything about this industry, do a deep research, teach me what I need to know, read the white paper.
+
+**Doug Duker:** You know, to Brooke's point about that, you know, I lead pre-sales, and so, same thing, like, gosh, I'm demoing to this industry, this dude who does this thing, and so I have an agent that you put in your role in your industry, and it gives me the top ten prompts, the top ten agents, and the top ten private reg use cases with ROI, so that I can be like, oh, well, here's how you should use this in your industry, right?
+
+**Doug Duker:** And that kind of stuff makes us really smart and intelligent and informed without having to be an expert in every industry, every role in every industry, right?
+
+**Doug Duker:** It's, that's, that's a, that's a tall order, so it helps.
+
+**Doug Duker:** And it helps just with, you know, with people who are, you know, who don't believe there's an AI use case for them.
+
+**Doug Duker:** I did this for my, for my chiropractor, ran it, printed it out, took it into my appointment.
+
+**Doug Duker:** She's like, I don't need AI.
+
+**Doug Duker:** You start going through the list, and she's like, I do this, I do this.
+
+**Doug Duker:** this.
+
+**Doug Duker:** Oh my God, this is really time-consuming.
+
+**Erik O'Brien:** That would save me time.
+
+**Erik O'Brien:** I could get home and see my kids, and by the end of it, where do I sign up?
+
+**Doug Duker:** People don't know, right?
+
+**Doug Duker:** And so that's a big part of it.
+
+**Brooke Grief:** Yeah, there's something about people not understanding the difference between AI and automation and where they overlap, and not understanding that they are already interfacing with AI in different places, but they just see it as automation.
+
+**Brooke Grief:** So if there's a way through content that we can sort of explain, like, AI helps automate, and you're already dealing with it, it just does it better, and it can do it in a more intelligent way and sort of help people ease into the AI and be okay admitting that they use it because they already do.
+
+**Brooke Grief:** Like, that might be an interesting content, you know, theme that we dive into as well.
+
+**Erik O'Brien:** Hi, David.
+
+**Doug Duker:** And now our evangelist is here, so, you know, you didn't wear your choir robe today, David.
+
+
+**David Wacker:** What are you talking about, Willis?
+
+**Brooke Grief:** I'm just messing with you.
+
+**Brooke Grief:** David, for context, we're just running through.
+
+**Brooke Grief:** Erik is here from GrowthX and we're working to give some background and fill out some discovery info to help give our content generation engine all the information that it needs and the GrowthX team to create a massive amount of content for us at scale, which will be very helpful.
+
+**David Wacker:** David, example, cool.
+
+**Erik O'Brien:** David, example, just running through some questions.
+
+**Erik O'Brien:** anytime you got any input, just feel free to chime in.
+
+**Erik O'Brien:** I think we've talked a little bit about kind of all the feature sets, but is there anything that customers are requesting that you guys currently don't have or is there something in the roadmap you guys are looking forward to releasing that people have been asking for?
+
+**Doug Duker:** I think there's...
+
+**Doug Duker:** there's...
+
+**Doug Duker:** And there's a huge market in kind of drag and drop orchestration tools that we don't have yet today, we can build orchestrations and we do, but I think there's a spot in the industry where people are looking for this to be a little more self-serve and a little less bespoke, I think that'll come, but that is probably our biggest observation from prospects of, we don't want to hire you to do this, we want you to teach us and we want to do it ourselves.
+
+**David Wacker:** I would agree with that.
+
+**David Wacker:** On that front, I would be specific with multi-agent workflows, triggers.
+
+**Doug Duker:** Yeah.
+
+**David Wacker:** So, agents running in the background, not, not person or human trigger.
+
+**David Wacker:** I set up an agent.
+
+**David Wacker:** And everyone.
+
+**David Wacker:** Yes.
+
+**David Wacker:** Yes.
+
+**David Wacker:** Every time this Salesforce record gets updated, auto-trigger, blah, blah, blah, to create a, like, anything that is system-oriented with multiple agents that are triggered based on any basic inbound or inbound and outbound or any sort of action, systemic action, I think, in the systems.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** People, people don't want to have to ask AI to do something.
+
+**Doug Duker:** They want to just do it.
+
+**Doug Duker:** All those, it varies.
+
+**Doug Duker:** A lot of people want that.
+
+**Doug Duker:** A lot of people don't want the consequences of that.
+
+**Doug Duker:** I I think we see this, right, with the Replit example and others where, you know, AI gone wild, maybe not the greatest idea either.
+
+**Doug Duker:** So there's, there's some rigor that needs to go into what you're asking AI to do and how much autonomy you give it.
+
+**Doug Duker:** But, but in general, that's what people want.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** I'm going to coin that.
+
+**David Wacker:** AI gone wild, we need a check, no comment, I wish you luck in your endeavor, I think you'll do well in the Midwest, I'm from the Midwest, so I'm not, you know, I think, I think it'll do well there.
+
+**Erik O'Brien:** Yeah, actually, yeah, I'm actually in Iowa, I think it would do well here, for sure, for sure.
+
+**David Wacker:** Just has to do with all the college sounds, right?
+
+**Doug Duker:** Yeah, all you need, I need the Big Ten campus and you're all set.
+
+**David Wacker:** Okay, let's move off of this last night, yeah.
+
+**Erik O'Brien:** Yeah.
+
+**David Wacker:** Well, I'm trying to think of like, what other things we get requests for, I think, I think not necessarily drag and drop, but just click to deploy RAG, like we're talking about doing an MCP server to Salesforce.
+
+**David Wacker:** Okay, but like.
+
+**David Wacker:** Um.
+
+**David Wacker:** Um.
+
+**David Wacker:** Okay.
+
+**David Wacker:** Everyone uses SharePoint, or Salesforce, or NetSuite, you know, there's the very common systems, GitHub, being able to set up an agent that real-time does rag, you know, or a real-time or an automated vectoring of data, we do that manually in large datasets, but how can we do it quickly in smaller datasets and smaller use cases, I think that's a big one.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** When we do, it'll change the game completely.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** I think we touched on private rag just a little bit, but can you tell me more about kind of what the, if you had to break it down of like percentage of enterprise customers asking for private rag, is it, you know, an 80%, 90%, is it 50%?
+
+**Doug Duker:** Oh, don't know that, I don't know that that many enterprises fully understand it.
+
+**Doug Duker:** I think they all want their data indexed, or they want to be able to search on their data.
+
+**Doug Duker:** nhservice are-time But actually Sorry, the to it's in
+
+**Doug Duker:** If you wanted to index all of your Salesforce, it's unlikely you're going to export all of Salesforce, every time there's a record change, export it again, build a comparable model in a vectorized data structure someplace else.
+
+**Doug Duker:** I think every customer wants us to search over their data, bar none, like everybody in the world.
+
+**Doug Duker:** I think Private Rag is one solution.
+
+**Doug Duker:** Private Rag is a solution for mostly unstructured or semi-structured data.
+
+**Doug Duker:** It's not great for rows and columns.
+
+**Doug Duker:** If you can write a query, you probably want to do it with some other technology.
+
+**Doug Duker:** Or if there's an API, you probably want do it with some other technology.
+
+**Doug Duker:** But where you have this unstructured data, you know, lots of PDFs or, you know, in the media, every article a newspaper has ever written, right?
+
+**Doug Duker:** Those sorts of things are just treasure troves of insight.
+
+**Doug Duker:** alwaysリ which...
+
+**Doug Duker:** That aren't indexed correctly, and we can do that really effectively with a vectorized private rag solution, but I think that it's a misnomer to think that private rag as a label is the gateway into all enterprise data.
+
+**Doug Duker:** And so I think, but I also, and this is where MCP server is so important, because that is going to bring agentic conversation to data that's historically been via an API.
+
+**Doug Duker:** I mean, if you think about Salesforce, Salesforce is a great example.
+
+**Doug Duker:** Salesforce, SAP, NetSuite, all of them, every customer's configured it differently.
+
+**Doug Duker:** You know, in ours, I created a custom object the other day called projects, right?
+
+**Doug Duker:** No one else knows about it or what's in it.
+
+**Doug Duker:** And so to productize something connecting to a system that's highly configurable is very hard to do.
+
+**Doug Duker:** MCP is supposed to help with that because it's supposed to bring in a conversation layer to it.
+
+**Doug Duker:** And so that's going to be really important as well, because the challenge is, I want to ask a
+
+**Doug Duker:** If conversationally, something has to understand that and translate it into what the data actually is behind the scenes and go get that data and produce it back and then reformat into something conversational.
+
+**Doug Duker:** That is not trivial.
+
+**Doug Duker:** Private RAG is a great way of doing it for semi-structured and unstructured data, but the structured stuff is what everybody wants and it is very hard to do.
+
+**Doug Duker:** You can do it once, but to do it at scale is, you know, is, is where it gets challenging.
+
+**Doug Duker:** Or we're getting better at it.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** When, I guess we'll stick with kind of the enterprise organizations.
+
+**Erik O'Brien:** When they come to you.com for the first time, are they more likely to begin with somewhere in the API land or do they go straight to agents or is it a mix of both?
+
+**David Wacker:** is.
+
+**David Wacker:** The
+
+**David Wacker:** Now it's API, predominantly.
+
+**David Wacker:** That's just by virtue of our website and how everything is going, API first.
+
+**David Wacker:** Heavy focus on web search.
+
+**David Wacker:** We still get a lot of folks coming to us for agents, I think, or like, I do think that API is a quick win because if you're an engineer or a developer coming to the site, you can just immediately embed it and start testing it.
+
+**David Wacker:** There is no learning curve.
+
+**David Wacker:** It's like, oh, cool.
+
+**David Wacker:** It's a, you know, webhook or an endpoint.
+
+**David Wacker:** I can plug that in and test it immediately.
+
+**David Wacker:** Easy, fast adoption.
+
+**David Wacker:** I do think differentiation on that front, overhauling our use cases, our doc section, and more clearly, I think, iterating on the types of APIs or the variables associated with our APIs.
+
+**David Wacker:** So it's not just a web search API.
+
+**David Wacker:** We can do multiple types of searches or context that I think there's a lot.
+
+**David Wacker:** What we can do to build out our API product to make it more flexible, more easily usable by engineers and developers.
+
+**Doug Duker:** Just more accessible from a content perspective as well, right?
+
+**Doug Duker:** So that people are seeing, they're seeing something that they can imagine using.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** I think I heard it in the kickoff.
+
+**Erik O'Brien:** was like, developers want something more like open AI is always like, here's a, you know, agent that can book your next trip.
+
+**Erik O'Brien:** It's like, cool.
+
+**Erik O'Brien:** We've seen this a thousand times.
+
+**Doug Duker:** What are the other use cases we can use?
+
+**Doug Duker:** Yeah, exactly.
+
+**Erik O'Brien:** And then are they, are these customers kind of starting from nothing or are they switching from other services?
+
+**David Wacker:** Both.
+
+**David Wacker:** It's a mix.
+
+**David Wacker:** They, if they're a large company, they already have.
+
+**David Wacker:** Maybe they already have, I think it depends on the vertical, if they're a tech company, early adopter of AI, chances are they're moving off of a Bing or a SERP, the same company might be spinning up a brand new AI product, I mean, and they need a web search in order to make the LLM intelligent to real-time web lookup, okay, so, I mean, it's just gonna depend.
+
+**David Wacker:** A lot of times, you get out of the tech-forward sector, and tech-forward sector, I mean, like, it could be any industry, but they are a tech leader, they're an early adopter within that place, once you get out of those, which I think is a finite number right now, it's gonna continue to grow into, like, the big area of the bell curve, but it's few and far between, we're gonna, now we see, which is why we have what we call, I don't know if we're officially supporting this, but I still sell it every single day, is the AI factory, because a lot of times
+
+**David Wacker:** Sometimes if we want someone to be successful using our APIs and actually scaling consumption on our APIs, we got to build the  that's actually going to consume the APIs.
+
+**David Wacker:** And so that's like Royal Caribbean where like we're building an entire chat experience.
+
+**David Wacker:** The long term benefit is there's 5,500 people per cruise ship at least.
+
+**David Wacker:** They cruise 360 days a week, a year.
+
+**David Wacker:** And, you know, you extrapolate that out.
+
+**David Wacker:** That's hundreds of millions of queries.
+
+**David Wacker:** If we don't build that, we lose out on hundreds of millions of queries, right?
+
+**David Wacker:** That's significant revenue.
+
+**David Wacker:** So there's a lot of times we need to build it.
+
+**David Wacker:** What that is, we can easily productize pieces of that.
+
+**David Wacker:** So like one of the things, if we do fully go to market with this AI factory, I would love to modularize, that's not a word I don't think, correct me if I'm wrong.
+
+**David Wacker:** But it sounds good.
+
+**David Wacker:** I want to make it repeatable.
+
+**David Wacker:** want to like look at like you go to a invisible.co, they have all the
+
+**David Wacker:** These sections, this is what they do, they do $20 million custom AI deals, they're all ex-McKinsey folks, and the idea is they're actually white labeling a majority of what they're selling, and so like, can we get to 70, 80% of this  is just repeatable, and then we're customizing the last mile, and productize that, right, I think that's a big piece, because when you say we're going to build a custom scenario, the spoke, this, that, people get scared, because they're used to spending millions on an Accenture, Deloitte, or a McKinsey, we want to come in and say, oh, no, no, we have all the platforms in place, we have the technology partnerships, we're going to build everything for you, really, it's an architecture we know well, we're going to customize the last mile, it gives them warm and fuzzies, we don't know how to market that yet, that can be a massive, massive differentiator for us, and mind you, I believe the company is actually talking about this at the executive offsite right now, so hopefully,
+
+**David Wacker:** We have a better direction on where we're going with this.
+
+**David Wacker:** I'm leading with it and it's landing.
+
+**David Wacker:** So I'm gonna continue selling it until they tell me not to.
+
+**Doug Duker:** And I'll keep delivering it until you tell me not to.
+
+**David Wacker:** As long as there's a fat dollar sign on it, we're good to go.
+
+**Doug Duker:** Yeah, pretty much.
+
+**David Wacker:** For every 500,000 in ARR, we can hire a forward deployed engineer.
+
+**Doug Duker:** There you go.
+
+**Erik O'Brien:** And then, when customers are switching from another provider or kind of legacy SERP API, what do they say isn't working?
+
+**Erik O'Brien:** Or is there kind of same frustrations across industries?
+
+**David Wacker:** Are they?
+
+**David Wacker:** It's very similar.
+
+**David Wacker:** Bing, biggest, best, most expensive web search API in the industry.
+
+**David Wacker:** Sunsetted theirs.
+
+**David Wacker:** They brought it in house.
+
+**David Wacker:** Very smart of them from a competitive standpoint.
+
+**David Wacker:** So now, co-pilot is, you know, smarter.
+
+**David Wacker:** Um.
+
+**David Wacker:** So.
+
+**David Wacker:** Similar, Google does not expose theirs via API, they have SERP, so basically the LLM or the API is basically doing a human web search, Google search, in real time.
+
+**David Wacker:** They used to bring back 100 results, which is pretty good for LLMs, they've reduced that to 10.
+
+**David Wacker:** So similarly, if you want to use Google, your LLM and web search combo is going to be pretty poor, because a lot of times when you need an LLM to respond very, very accurately, the data that it may need may be buried in, you know, pagination number five, and it's like the, you know, 58th result on Google, you're not going to get that anymore.
+
+**David Wacker:** Whereas ours, we can go easily up to 100, you're going to get more contextual responses and accuracy, and that's where the accuracy really plays.
+
+**David Wacker:** And so a lot of players like Salesforce, we can't talk about this publicly until they launch for AgentForce.
+
+**David Wacker:** They are using same thing.
+
+**David Wacker:** Bright Data.
+
+**David Wacker:** Bright Data was on Bing.
+
+**David Wacker:** When Bing sunset, they had to migrate to SERP.
+
+**David Wacker:** They had a seven-day outage.
+
+**David Wacker:** And so, Agent Force agents had zero visibility to the web for seven days.
+
+**David Wacker:** It's a reason that everyone talks  about Salesforce's AI components.
+
+**David Wacker:** It's because of their downstream providers.
+
+**David Wacker:** We're coming in and saving the day there.
+
+**David Wacker:** And so, it's a great example of we have this window of all of the competitors out there are shitting the bed.
+
+**David Wacker:** There's a lot of new ones coming in.
+
+**David Wacker:** Obviously, perplexity.
+
+**David Wacker:** Just launched their web search API.
+
+**David Wacker:** Apparently, they scraped a bunch of data in a negative and not official way.
+
+**David Wacker:** Parallel is coming in as well.
+
+**David Wacker:** I don't know much about parallel.
+
+**David Wacker:** But ours is, I'll consider ours is enterprise grade.
+
+**David Wacker:** And it's a big differentiator from a scale perspective.
+
+**David Wacker:** We're doing over a billion API calls a month.
+
+**David Wacker:** So, I find it easy to sell against them.
+
+**David Wacker:** We typically will run, we actually...
+
+**David Wacker:** We actually do the evaluation.
+
+**David Wacker:** We actually offer, like, hey, we'll do the evaluation for you and show you why we're better.
+
+**David Wacker:** Surprisingly, people let us run our own evaluation, which is great because we control the narrative, but we crush everyone.
+
+**David Wacker:** We just, you know, we closed multiple deals at Amazon, multiple deals at Alibaba.
+
+**David Wacker:** Massive tech forward companies are using our API because it's the best.
+
+**David Wacker:** How long it's the best?
+
+**David Wacker:** I don't know.
+
+**David Wacker:** So we need to capitalize and differentiate as fast as possible.
+
+**David Wacker:** I just had a coffee, so I'm, like, on one and I apologize if I'm rambling too fast.
+
+**Erik O'Brien:** No, not at all.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** We got, we got the AI note takers here, so they're captioning everything.
+
+**Doug Duker:** Sweet.
+
+**Doug Duker:** All right.
+
+**Doug Duker:** right.
+
+**Erik O'Brien:** Are there any misconceptions about you.com or things that customers have heard in the industry that they come to you guys with concerns?
+
+**David Wacker:** They haven't, the problem is they haven't heard of us.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** Hmm.
+
+**David Wacker:** That's a cool domain name.
+
+**Doug Duker:** How'd you get that?
+
+**David Wacker:** Yeah, exactly.
+
+**David Wacker:** That's honestly...
+
+**Brooke Grief:** That's when I first interviewed.
+
+**David Wacker:** I was on site at Visa, and the global project lead for AI, like, basically, he's the guy that goes into, he's trying to embed AI everywhere.
+
+**David Wacker:** His subordinate, Yua, she knew of us before when we were like Perplexity, when we were a search company.
+
+**David Wacker:** And she just said, I'm so happy you pivoted the enterprise.
+
+**David Wacker:** I've been wanting to work with you.
+
+**David Wacker:** I was like, how did you know that?
+
+**David Wacker:** You were the only person I've ever heard of that knew that.
+
+**Doug Duker:** Yeah, that's crazy.
+
+**David Wacker:** That's the biggest issue.
+
+**Doug Duker:** Yeah, that is easily the biggest issue.
+
+**Doug Duker:** And then you start telling our story, and between Benny off giving us the URL and who Richard is, and it doesn't take long for people to be like, oh, we'd like to do work.
+
+**David Wacker:** Like even our founder slide, the way we talk about the timeline.
+
+**David Wacker:** Um...
+
+**David Wacker:** It's hieroglyphics to people because they're like, what is, what is NLP and NVIDIA GPU?
+
+**David Wacker:** It's like, we need to dumb it down.
+
+**David Wacker:** It's like on one of them where it's like contextualized, contextualized word graphs or whatever.
+
+**David Wacker:** I'm like, they invented prompt engineering.
+
+**David Wacker:** Can we just say, we invented prompt engineering?
+
+**David Wacker:** They get that.
+
+**David Wacker:** And so a lot of times we, we are too smart for our own good in the way we market.
+
+**Doug Duker:** Yeah.
+
+**Brooke Grief:** That's helpful for content.
+
+**Brooke Grief:** I'm sure, Erik, too, that you can relate to this, but for content, I'm getting, there's sort of two different audiences that we're talking to, obviously, the end-to-end and the API.
+
+**Brooke Grief:** And API, you know, that's the more technical audience.
+
+**Brooke Grief:** That's, they already know.
+
+**Brooke Grief:** So we're not dumbing anything down.
+
+**Brooke Grief:** We're speaking directly to people that understand this stuff.
+
+**Brooke Grief:** But then my struggle has been how, I guess, how much do I dumb it down?
+
+**Brooke Grief:** Like, I don't want to seem, you know, you don't want to seem condescending or, you know, treating people like they don't know anything.
+
+**Brooke Grief:** But what level of education do you think there needs to be for enterprise?
+
+**Brooke Grief:** How much does it switch between industries?
+
+**Doug Duker:** I think for enterprise, you should assume that even the people that have the vocabulary aren't using it correctly.
+
+**Doug Duker:** And I think, you know, a footnote with a little definition is never harmed.
+
+**Doug Duker:** You know, you can over explain for sure and you want to walk that fine line.
+
+**Doug Duker:** But even when you say chatbot or AI, everyone's using words that they don't understand and they think they do.
+
+**Doug Duker:** And you're like, oh, we're really locked in with this person.
+
+**Doug Duker:** And then they go away and they come back with the stupidest questions on the face of the earth.
+
+**Doug Duker:** You're like, you were just talking about private rags and vectorization.
+
+**Doug Duker:** And they're like, you know, they don't get it, right?
+
+**Doug Duker:** They just they've plucked these words out of out of media.
+
+**Doug Duker:** And that's what I want.
+
+**Doug Duker:** Like, why?
+
+**David Wacker:** I don't know.
+
+**Doug Duker:** Well, that's what that's why I put it in two buckets.
+
+**Doug Duker:** You have the early adopters actually know what the hell is going on.
+
+**David Wacker:** Exactly.
+
+**David Wacker:** Very small, finite group, right?
+
+**David Wacker:** Fast adopt multi-million dollar deals like that scale.
+
+**David Wacker:** Everyone else.
+
+**David Wacker:** They think they've been using AI for the last 10 years.
+
+**David Wacker:** Really, it's just machine learning.
+
+**Doug Duker:** It's not AI.
+
+**Doug Duker:** And everyone's marketed it as AI.
+
+**Doug Duker:** And so we have to re-educate quite a bit.
+
+**David Wacker:** And the nice thing is, even if the people we talk to, like Visa, know what's up, we need to educate them on how to dumb it down for their entire organization because they're the only ones that actually know what's up.
+
+**David Wacker:** And they're like, no one understands what I'm trying to do.
+
+**David Wacker:** So we need to be their consultative advocates internally.
+
+**David Wacker:** So the better we do at helping them, the better.
+
+**Brooke Grief:** Yeah.
+
+**Brooke Grief:** Does that feel like a differentiator?
+
+**Brooke Grief:** Like, are, you know, the perplexities and the parallels and the tablies, are they assuming a level of knowledge that maybe we could?
+
+**David Wacker:** They're not doing forward-deployed engineering.
+
+**David Wacker:** We have a very, very, the way I look at it is we have expertise across the board, and we're willing to lend them that expertise in order to facilitate the achieving of their end solution.
+
+**David Wacker:** I'm not...
+
+**David Wacker:** not...
+
+**David Wacker:** not...
+
+**David Wacker:** I'm building, I'm not saying services, I'm staying away from, like, all of that.
+
+**David Wacker:** Right.
+
+**David Wacker:** We're still, we're still going to build the  and it'll be services, but we're not going to build them for it, right?
+
+**David Wacker:** And so that's a huge, huge differentiator is, you know, our customer experience and our AI factory.
+
+**David Wacker:** And Brooke, what are you defining as E to E?
+
+**David Wacker:** I want to make sure, like...
+
+**Brooke Grief:** It's a great question.
+
+**Brooke Grief:** I, my understanding is enterprises and we can offer them the services that they need to get everything up and running versus developers would just be able to take an API and run with it.
+
+**David Wacker:** We're saying, this is how you do it.
+
+**David Wacker:** This is how we can help.
+
+**David Wacker:** And we're consultants in that.
+
+**David Wacker:** I've learned internally that E to E is using our chat UI, like our chat product and building custom solutions built on that, like custom rag is E to E.
+
+**David Wacker:** AI factory, like what we're doing with Royal Caribbean is AI factory.
+
+**Brooke Grief:** Royal Caribbean is not EDE.
+
+**Brooke Grief:** Okay.
+
+**David Wacker:** And so the way I look at the two things, I, okay, take notes, like, we should all go back to our higher uppers and figure out what the hell it is, because I was told by Sara, by Peter, that E2E is basically custom, building everything custom on top of our chat platform, and then I was just like, I look at AI Factory as building custom  in order to facilitate the usage and consumption of our APIs.
+
+**David Wacker:** Separate, not, and that's not, absolutely not using the chat.
+
+**Doug Duker:** I could be wrong, but I think it's just the opposite.
+
+**Doug Duker:** Factory is, is on top of our platform.
+
+**David Wacker:** Well, okay.
+
+**David Wacker:** So this is a, this is a good example of, I'm the guy who writes all the statements work.
+
+**Brooke Grief:** Yeah.
+
+**Brooke Grief:** Okay.
+
+**Brooke Grief:** When you say the factory is on top of the chat UI, or if, and if it's not, what do you mean by that?
+
+**Doug Duker:** Well,
+
+**Doug Duker:** So there's a difference between just taking all of our APIs and building something and building things off of, off of our chat platform.
+
+**Doug Duker:** So, so like the UI or just the backend platform, just the backend, but, oh, okay.
+
+**Doug Duker:** But, the two should be the same.
+
+**Doug Duker:** That's kind of the point is there, they should be unifying, right?
+
+**Doug Duker:** You should, not today, but you should be able to build our, our enterprise chat engine entirely on top of our APIs, if, if we get all the APIs done the way that we're supposed to, right?
+
+**Doug Duker:** Like our, our graphical user interface should sit on top of all of the APIs, and that should be the enterprise product.
+
+**Doug Duker:** We're not there yet.
+
+**David Wacker:** Like the, I mean, on, on, on product and sales and friends or whatever, Saurabh said that E to E specifically for our chat product, our UI.
+
+**Doug Duker:** Hmm.
+
+**David Wacker:** This is a problem internally.
+
+**Doug Duker:** He's unclear on what we're selling.
+
+**David Wacker:** I, I, I know.
+
+**David Wacker:** So this is my frustration, I don't say E to E, I actually call it UChat, I don't care if we have a product name for it or not, we need to call it something, ESL, ESL, like I messaged Justin and Peter, I was like, let's call it lowercase UChat, UFactory, UAgents, UAPI, like, we have an awesome name, let's do a lowercase U and then the product names, let's just product.
+
+**Doug Duker:** I mean, I've historically called it U.com for business.
+
+**David Wacker:** Yeah, I just, I'm just calling it UChat from now on, because when you go to our product, it says chat.
+
+**Doug Duker:** Right.
+
+**Brooke Grief:** So you're saying like, for Royal Caribbean, they would have a chat bot on their website.
+
+**David Wacker:** They're not using our chat interface at all, that's my whole point of not calling it E to E.
+
+**David Wacker:** As a SKU, I'm calling it AI Factory, Center of Excellence AI Factory, because the experience that we're building is a, they are owning the UI and the UX, it is basically a custom chat experience.
+
+**David Wacker:** частophonous.
+
+**David Wacker:** abouthnliches.
+
+**David Wacker:** Yeah, okay鑑�,
+
+**David Wacker:** It's in their mobile app that what you see and what the end guest or consumer sees is all on them.
+
+**David Wacker:** All we're doing is the back-end tuning, agent building, RAG, and data-oriented.
+
+**David Wacker:** That's no different than DPA or WBV, which are also EDE customers.
+
+**David Wacker:** We need to find this stuff, dude.
+
+**David Wacker:** I hear you.
+
+**Doug Duker:** Nobody knows is the honest answer, and it changes every day.
+
+**David Wacker:** And so this is a good point of how do we market it if everyone's saying something different.
+
+**David Wacker:** But I'm legit saying you chat.
+
+**David Wacker:** Like, we need to call it something other than ESL, Enterprise Site License.
+
+**David Wacker:** Some people even say Enterprise Seat Licenses.
+
+**Doug Duker:** Like, which one is it, I know?
+
+**Doug Duker:** Well, and we don't sell seats or site licenses, either one.
+
+**Doug Duker:** So it's kind of like, you know, what a dumb name.
+
+**Doug Duker:** But I think at the end of the day, the way I understand it, though, David, is APIs are self-serve.
+
+**Doug Duker:** And E-D-E is something we're building for it.
+
+**David Wacker:** Yeah.
+
+**David Wacker:** I can get behind that.
+
+**David Wacker:** I can get behind that.
+
+**David Wacker:** I just don't want E-D-E to have an inherent requirement of our user interface.
+
+**David Wacker:** Oh, it doesn't.
+
+**David Wacker:** It doesn't.
+
+**David Wacker:** Okay.
+
+**David Wacker:** We need to make a better name for it publicly facing them.
+
+**Doug Duker:** Because you can create an agent in our UI with an API key, right?
+
+**Doug Duker:** That's kind of the whole point, right?
+
+**David Wacker:** I got it.
+
+**David Wacker:** Yeah, yeah, yeah.
+
+**David Wacker:** We just need to position it differently than E-D-E, though.
+
+**Doug Duker:** Totally agree.
+
+**David Wacker:** I think we need to stop having different naming conventions for internal versus external.
+
+**Doug Duker:** We need to just decide on what they are and talk about them in a unified manner.
+
+**Doug Duker:** That would be great.
+
+**David Wacker:** This turned into a venting session, and I very much apologize.
+
+**Brooke Grief:** That's good.
+
+**Brooke Grief:** That's nice to see that.
+
+**Brooke Grief:** I'm not the only one that's confused, so it's reassuring.
+
+**David Wacker:** But yeah, Doug, we should really try to, hopefully they come out of this planning this week.
+
+**David Wacker:** I'm very confused as to what we're calling what, so.
+
+**Doug Duker:** Yeah, pretty wild.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** A few more questions here for you.
+
+**Erik O'Brien:** So beyond kind of the commodity specs of latency, accuracy, and cost that most competitors are kind of converging on, what would you say U.com or kind of the entire platform has as like differentiation opportunities?
+
+**David Wacker:** What are the three?
+
+**Erik O'Brien:** Latency, accuracy, and cost.
+
+**David Wacker:** Another recency and fresh.
+
+**David Wacker:** Scalability, for sure.
+
+**Doug Duker:** Well, and privacy, security.
+
+**David Wacker:** Privacy, security, scalability.
+
+**Doug Duker:** Yeah.
+
+**David Wacker:** And I think extensibility.
+
+**David Wacker:** Extensibility is not necessarily a quantitative.
+
+**David Wacker:** It's kind of quality.
+
+**David Wacker:** But extensibility speaks to the crossing of chasm of just consuming versus we can also help build.
+
+**David Wacker:** It's one of those things that bridges that because it makes, with our experience and expertise internally, we can make our APIs extensible in any customer solution they want to build.
+
+**Doug Duker:** Yeah, mean, our claim to fame is we want to solve your hardest problem.
+
+**Doug Duker:** Like, and you know, if you can't solve it with anything else, bring it to us and we'll take care of it.
+
+**David Wacker:** I thought it was answer tough questions.
+
+**David Wacker:** That's a joke, I apologize.
+
+**Brooke Grief:** We also have been talking and a lot of like the evals that come out, like the blog post that we've published, a trade off that generally comes up between accuracy and latency and cost.
+
+**Brooke Grief:** And I think what I've heard is that we're okay saying we might not be the most, we might not be the fastest and produce stuff in the fastest way, but we are the most accurate.
+
+**Brooke Grief:** So like when we.
+
+**Brooke Grief:** Leaning farther into that bucket, when it comes to like RE and stuff, that we can do deep versus just shallow, I think the goal obviously is to have it be the fastest and the most cost efficient and most accurate, but for now.
+
+**David Wacker:** This is where I'm talking about productizing our APIs, because it depends on use case, right?
+
+**David Wacker:** And so you're entirely correct.
+
+**David Wacker:** However, if a customer wants the most accurate response via API, and is okay, and it's not a time constrained scenario, they're okay waiting a few extra seconds, 10 seconds, whatever, I would love the API to be programmatic in, like right now we actually on very large scale scenarios, we will cut, we have the ability to customize, like David Lee will go in and say, okay, we're actually going to give you much more accurate answers.
+
+**David Wacker:** It's going to take longer.
+
+**David Wacker:** He's like hard coding that.
+
+**David Wacker:** If we had products that allow the customer or the developer to do that, we could actually say, we have the fastest results, but here's the correlating accuracy hit.
+
+**David Wacker:** If you want, and allow them to control the dial of, do you want 99% accuracy?
+
+**David Wacker:** I don't know if you can say that, 96% accuracy?
+
+**David Wacker:** Okay, it's going to take this long.
+
+**David Wacker:** And if we can allow them to customize that, and that's what I was mentioning earlier, Erik, on the expansion on functionality within the API, right?
+
+**David Wacker:** It could just be an endpoint attribute of pull within three seconds, irrespective of quality or accuracy.
+
+**David Wacker:** Or maybe you want to actually pivot off of accuracy, no matter how long it takes.
+
+**David Wacker:** Or maybe you want a joint of give me the intermediary between both or the median or mean.
+
+**David Wacker:** I don't know what the use case is, but there's tremendous value in allowing the customer to actually customize that themselves, rather than having us go to David Lee to do it.
+
+**Brooke Grief:** We do have that toggle, right, on the multi-step, the unification that's coming out, right?
+
+**David Wacker:** That toggle that's, like, being added.
+
+**David Wacker:** that being productized, Doug?
+
+**Doug Duker:** Are we already doing that?
+
+**Doug Duker:** Yeah, it's coming out soon.
+
+**David Wacker:** That's programmatic, though, or in the UI?
+
+**Doug Duker:** It's in the UI, but it's only in the UI because it's available in the API, or nothing shows them the UI in the future that doesn't have an API to support it.
+
+**David Wacker:** So that is a great way for us to take our fresh QA, all of those, the evals, and really put content around the subjective nature of all of the evals.
+
+**David Wacker:** Because every search provider out there is going to run the eval that provides them the best results.
+
+**David Wacker:** We can then say, oh, by the way, we can actually do better than them just by toggling our search API function or parameters.
+
+**Doug Duker:** Right.
+
+**Brooke Grief:** Yeah.
+
+**David Wacker:** Ed, when's that coming out?
+
+**Doug Duker:** You know...
+
+**David Wacker:** Okay.
+
+**Brooke Grief:** We do have a blog post on it that I have queued up that I've worked on with product, and we do have plans to have an interview, I believe, with Richard about it, with PR, so that'll be pitched out.
+
+**David Wacker:** Just content-wise, I love that specific, it's not that difficult of a product, it's, you know, just a way to figure out the parameters and the context around it, it's what it powers across a myriad of use cases, because all of a sudden as people start adopting like just basic web search, their use cases in which they're using the web search is so diverse that they may want the different parameters and the results based on what What they need to achieve.
+
+**David Wacker:** And so we can pump out a lot of content and use case and industry scenarios based on the flexibility of this, I think.
+
+**Doug Duker:** Yeah.
+
+**David Wacker:** We get to be subject matter experts and almost be thought leaders on the adoption of like the next gen of search APIs, being able to customize accuracy, recency, even freshness, because how often do you want to run it?
+
+**David Wacker:** Yeah.
+
+**David Wacker:** Yeah.
+
+**David Wacker:** If it's...
+
+**David Wacker:** Something that's like a ongoing.
+
+**Doug Duker:** How fresh is the data that's being pulled?
+
+**Doug Duker:** Right.
+
+**David Wacker:** I'm excited for that.
+
+**David Wacker:** That's gonna be a good one.
+
+**David Wacker:** We get a lot of requests for that, Doug.
+
+**Doug Duker:** Oh, know, all the time.
+
+**Doug Duker:** Even in the UI, we get requests for that.
+
+**Erik O'Brien:** And then, that'd be selective with my question here.
+
+**Erik O'Brien:** I guess when you're looking at kind of EXA or Tavli or other competitors, where do you guys think you kind of win with them?
+
+**Erik O'Brien:** I know we've talked about some of the differentiators for security, extensibility, kind of the eval superiority.
+
+**Erik O'Brien:** But I guess when it comes to just kind of head-to-head competition, is there places where you guys are winning versus where you're losing?
+
+**David Wacker:** We won't lose on purpose.
+
+**David Wacker:** Price, first and foremost.
+
+**David Wacker:** We don't lead with that by any means, but, and I actually wouldn't want to put that in marketing, but it's good to know from a context standpoint, we can get very low on our cost per CPM, a thousand queries.
+
+**David Wacker:** Um, typically it's the ability to scale.
+
+**David Wacker:** And if our accuracy is within reason of a tablet of a, um, uh, we're just now seeing parallel, but, um, or, or, uh, EXA, typically they'll go with us because they know we can scale because we have massive logos and it's a St.
+
+**David Wacker:** LeBet.
+
+**David Wacker:** Um, again, I don't know how long that'll last as a differentiator, but like in an eval scenario, um, Alibaba, we're talking hundreds of millions of queries, massive throughput.
+
+**David Wacker:** They're like, as long as you're with, if you're within reason of accuracy, we know you can scale.
+
+**David Wacker:** So we'll go with you.
+
+**David Wacker:** As long as you can hit this price point.
+
+**Erik O'Brien:** And we say yes.
+
+**David Wacker:** Yeah.
+
+**David Wacker:** Um,
+
+**David Wacker:** That's as much as I can say about it.
+
+**David Wacker:** For these types of questions, you may want to talk to David Lee as well and really dive into the nuance of, he's the one that runs the evals.
+
+**David Wacker:** When they say yes, he'll actually put the eval together and run it with, I think, Zyra.
+
+**David Wacker:** So I think you should talk to, I think you should talk to David Lee.
+
+**David Wacker:** He can give you a ton of data that you might be able to spin in the content.
+
+**David Wacker:** Awesome.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** So I know we're at time.
+
+**Erik O'Brien:** Is there any other questions I should have asked that I didn't?
+
+**Erik O'Brien:** Other highlights?
+
+**Doug Duker:** I think those are the big pieces.
+
+**David Wacker:** I mean, based on decisions being made this week, we should, you know, probably hold that question to find out what's changed.
+
+**Doug Duker:** For sure.
+
+**David Wacker:** Right.
+
+**David Wacker:** Yeah.
+
+**Brooke Grief:** Something, to consider, Doug and David, is if there is, like, any ABM.
+
+**Brooke Grief:** the
+
+**Brooke Grief:** Content, like if there's specific content that would be helpful for a specific deal or industry, that could be helpful to tell the GrowthX team that if we want to pivot to focus on an industry or use cases, we could try to work some of that in.
+
+**David Wacker:** I think, again, when you think about it, I know we're at time, but two buckets, one, super technical, API driven, super technical, they'll adopt it fast, even talk about how we can run the evail, things like that.
+
+**David Wacker:** I think there's probably flashy marketing we can do, but then the second bucket, Global 2000, Fortune 500, probably even expanding out to 5,000 is like, how to make like literally AI for dummies, how to make the right AI decision without having paralysis analysis, like, you know what I mean?
+
+**David Wacker:** Like, we're talking basics, where people are going to make multi-million dollar decisions.
+
+**David Wacker:** They already are.
+
+**David Wacker:** Well, yeah.
+
+**David Wacker:** Royal Caribbean have spent millions on like an Accenture and Microsoft Co-Pilot and it's failing miserably because they don't know what they're doing and Mike and you know what I mean and so there's an opportunity for us to educate, I think, on a per use case per industry basis.
+
+**Doug Duker:** I also think, I have a couple of thoughts on that actually, and one is, you know, we should be constantly instilling confidence that if you have something you want to do with AI, we can, we'll find a way to get it done.
+
+**Doug Duker:** I would also say, though, that there is, and this will get better as, as, as the year passes, I probably, but there is, there's a misconception here about needing to spend money on AI at all, right?
+
+**Doug Duker:** Like, this is the biggest transformation mankind will ever go through.
+
+**Doug Duker:** This is bigger than Y2K, it's bigger than ERP, it's bigger than supply chain, it's bigger than any of these other things, because it touches every single now.
+
+**Doug Duker:** We'll not.
+
+**Doug Duker:** And what we're seeing is that, you know, the 95% of all these things failing thing is the customer who buys Gemini and puts it on everyone's desktop and says, done.
+
+**Erik O'Brien:** Right?
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** And that is, that's not going to get it done.
+
+**Doug Duker:** And so, you know, I do think there's an educational opportunity of like- I got to drop guys.
+
+**David Wacker:** Yeah.
+
+**David Wacker:** I'm happy to jump on and follow on if you guys want to do another one.
+
+**Doug Duker:** Happy to do that.
+
+**Doug Duker:** Sorry, I was late.
+
+**Doug Duker:** No worries.
+
+**Doug Duker:** So I do think there's an educational, this is bigger than a bread box.
+
+**Doug Duker:** It is more profound than anything anyone has ever experienced.
+
+**Doug Duker:** I mean, if you guys think about this, free AI, the suite of productivity tools that we're all accustomed to, word processing, spreadsheets, presentation graphics, Googling, all that has been around since the 1980s.
+
+**Doug Duker:** And I was alive for it, so I'll tell you they were there.
+
+**Doug Duker:** But, you know, my 80 year old mom knows how to do this stuff, as does my
+
+**Doug Duker:** And Brooke, you've probably never been to a Microsoft Word class, like, you know, this is just part of your DNA, it's the way you grew up, here's the tool, you learn more about it, you figured it out on your own, but now we're asking people to set aside all those tools and try a new one.
+
+**Doug Duker:** And that's going to take a long time, I think it's going to take a lot of reprogramming of people, and yeah, it'll go faster than some of the other things have, and that's great.
+
+**Doug Duker:** But it's one thing to do pop culture, hey, I'm going to London, what should I go see, you know, blah, blah, blah on vacation, and it's another thing to deliver a profound ROI business use case, right?
+
+**Doug Duker:** And I think that so much of the stuff online, reels and everything else is all pop culture stuff, pop culture AI all day long, right?
+
+**Doug Duker:** How are you going to make, how are going to automate your content so that you, you know, get rich as an influencer on YouTube?
+
+**Doug Duker:** Is like every reel that's out there, right?
+
+**Doug Duker:** But there's so little content on this  is really powerful for business, but it is not, it's not easy.
+
+**Doug Duker:** It's, you know, there's, there's work that has to go into this.
+
+**Doug Duker:** And there's, there's organizational change that has to go into this, right?
+
+**Doug Duker:** Where you read the books about the agentic workforces, where you're going to have managers of AI, and people are going to supervise AI, like we need to start talking about what that looks like.
+
+**Doug Duker:** Because that's like, you're going to need a new vice president level in HR or something who's completely dedicated to AI, right?
+
+**Doug Duker:** Like these sorts of things are where 95% of the projects are failing, is because they haven't understood what it takes to bring this kind of transformation to knowledge workers.
+
+**Doug Duker:** We could be a huge thought leader there in content.
+
+**Doug Duker:** And because that's going to help someone who reads that content today, might still have time to put money in the budget for next year, that isn't there, that says, oh.
+
+**Doug Duker:** I need, you know, $500 per employee to get them all on board, and that's, that's millions of dollars and, you know, like, if people aren't planning for that, then we're, we're having, part of our sales challenge is going and finding budget for something that wasn't planned, right, and the more that we could get businesses planning to make an investment in this, and that the ROI is there, and that it's worthwhile, but that it's not, this isn't Slack, where you just give everyone Slack, and they figure it out for themselves, and away you go, right, like, it's, it's much more complicated than that, and so, I just think there's a huge opportunity to, to be thought leaders, and what, what it takes for businesses to get ROI out of this, yeah, good for thought, yeah, absolutely, you can, you can, you can read more about it on my TED talk, I would say, you got a good outline there, well, it's, we're living every day, like, you know, the, the companies who are prepared and willing to that money, are,
+
+**Doug Duker:** You're great outcomes, and the ones you talk to and they're like, oh, this would be amazing, you're like, oh, it's a million bucks, they're like, oh, forget it, like, you know, this, this stuff should all pay for itself instantaneously, and no one should have heartburn over spending money on it, but it's not budgeted, so, you know, who's willing to stick their neck out and, you know, go up the ladder and ask for a big investment in something, it's, it's hard.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Helping people think about, you know, the ROI comes with an investment.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** Do you guys do any of that business case support for customers?
+
+**Doug Duker:** We're starting to, but the, again, the problem is it's too late.
+
+**Doug Duker:** Like, when we're talking to them about buying, like, top of funnel stuff has got to have gotten to them six or eight or 10 months in advance, so that it's in the budget, right?
+
+**Doug Duker:** And, you know, this, this is a great opportunity to start filling up those mines with, you know, this is what it takes.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Yeah.
+
+**Doug Duker:** Without the budgetary support for this, it kind of dies on the vine.
+
+**Erik O'Brien:** Right?
+
+**Doug Duker:** Everyone gets a seat.
+
+**Doug Duker:** They go to the webinar.
+
+**Doug Duker:** Hey, this is really cool.
+
+**Doug Duker:** And then they go back to their day job.
+
+**Doug Duker:** And it's just, it's not, it's not in their instincts.
+
+**Erik O'Brien:** Yeah, awesome.
+
+**Doug Duker:** Anyway, I have a jump too.
+
+**Erik O'Brien:** We'll talk to you guys later.
+
+**Erik O'Brien:** Nice to see All right.
+
+**Erik O'Brien:** Appreciate it, Doug.
+
+**Doug Duker:** All right.
+
+**Doug Duker:** Take care.
+
+**Doug Duker:** Bye.
+
+**Doug Duker:** Thanks.
+
+**Doug Duker:** Bye.

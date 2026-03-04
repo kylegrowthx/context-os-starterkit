@@ -1,0 +1,1468 @@
+# Leadership Weekly
+
+<metadata>
+date: 2025-07-02
+time: 21:04 UTC
+duration: 54 minutes
+organizer: Marcel Santilli
+participants: Andi Bailey, Jason Gong, Kyle Gaudreau, Matthew Panzarino, Renato
+fathom_recording_id: 71954406
+fathom_url: https://fathom.video/calls/340948250
+share_url: https://fathom.video/share/8Dheym85kBrLidvxUR7a9DDZFq-dcYuV
+source: fathom
+enriched_on: 2025-03-03 10:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX leadership discussed critical operational issues: client artifact management failures, particularly with AIMBIT whose materials hadn't been updated in months despite director responsibilities; the need for strategic sprint resource planning; and opportunities to package PSEO offerings into tiered upsells (blog posts, templated pages, directories/hubs, tools/calculators). The team aligned on introducing daily director standups with a structured format, Andi shadowing client calls to verify account health claims, and immediate artifact regeneration for AIMBIT and Smith accounts.
+
+---
+
+## Context
+
+This is GrowthX's weekly leadership standup, bringing together Delivery (Matthew Panzarino, Andi Bailey), Business Development (Jason Gong, Kyle Gaudreau), and Design/Operations (Renato) to align on account management, staffing, and service delivery. The meeting occurs as GrowthX scales its B2B content marketing services and develops CheckThat, its AI visibility index product. Key context: several major accounts (AIMBIT, Smith, Interwell) are in critical phases where delivery quality and expectation management directly impact renewal and expansion risk.
+
+The underlying tension is between GrowthX's desire to deliver premium, custom-built strategy sprints and the reality of steady-state delivery — what clients expect from a full-service agency partner. Directors are failing to update client artifacts (strategy docs, personas, content roadmaps), creating friction in client conversations and putting delivery quality at risk. Marcel and the leadership team are focused on creating systems and processes that scale delivery without falling into a commodity service trap.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Client artifact maintenance is a systemic issue — directors have deprioritized updates despite Matthew's repeated calls, creating misalignment with client expectations. Regenerating AIMBIT and Smith artifacts is urgent.
+- Daily director standups (new format copied from strategy sprints) are being introduced as an accountability mechanism. Andi is shadowing all client calls to verify account health claims and identify contract-delivery gaps.
+- PSEO needs packaging into a clear, tiered offering (blog posts → templated pages → directories/hubs → tools/calculators) to enable sales conversations and set expectations. Jason owns this.
+- Resource constraints from strategy sprints are real (Sydney, Nem, Matthew all pulled in). Ada transitions back to front-end work after 6-8 weeks; Kyle likely leads sprints in August.
+
+**To GrowthX Business Development:**
+- Upsell opportunities are buried because directors aren't tracking contract vs. actual delivery. Kyle and Andi need to shadow calls and have transparent conversations about expectation gaps and what the bar should be.
+- Clients like AIMBIT and Smith need reset conversations — Andi's approach is to ground baseline expectations in the contract, then move forward on PSEO execution.
+- Kyle flagged risk: the team often anchors too heavily on client satisfaction signals without comparing to GrowthX's performance bar. Needs intentional conversations using QBR-like checkpoints to clarify where accounts stand.
+- Hiring constraints: Renn is bringing in Kadia (graphics production) and another design engineer for client ops, but there's still a need for a PM-like role to manage complex client requests and expectations.
+
+**To GrowthX Leadership:**
+- Marcel's strategy sprint model is working for custom engagements but is beginning to strain delivery capacity and blur the line between premium and commodity work.
+- Broader systemic issue: without clear artifact maintenance, clear service tiers, and transparent account health metrics, the team can't scale delivery or build repeatable processes. Current state is too reliant on individual relationships and memory.
+
+---
+
+## Overview
+
+- Urgent need to update and maintain client artifacts, especially for AIMBIT
+- Strategy sprints are effective but require careful resource management
+- PSEO offerings need clear definition and packaging for upsell opportunities
+- Design and client ops processes require streamlining and potentially additional staffing
+
+---
+
+## Key Topics
+
+### Client Artifact Management
+
+  - Directors failing to update client artifacts, causing issues with client expectations
+  - AIMBIT artifacts particularly problematic, requiring immediate attention
+  - Need for a systematic approach to artifact updates and maintenance
+
+### Strategy Sprints and Resource Allocation
+
+  - Strategy sprints proving effective but creating resource constraints
+  - Sydney, Nem, and Matthew pulled in to support sprints
+  - Plans to transition Ada back to front-end implementations after 6-8 weeks
+  - Considering bringing Kyle into sprint leadership in August
+
+### PSEO Offerings and Upsells
+
+  - PSEO identified as a key area for upsell opportunities
+  - Current PSEO offerings not clearly defined or standardized
+  - Jason to take ownership of shaping PSEO work stream into cohesive, tiered offerings
+  - Potential tiers: blog posts, templated pages, directories/hubs, and tools/calculators
+
+### Client Management and Expectations
+
+  - Issues with overpromising features without proper internal stakeholder checks
+  - Need for better calibration of client expectations, especially for high-value accounts
+  - Importance of maintaining trust and delivering on promises (e.g., Smith design issues)
+
+### Design and Client Ops Processes
+
+  - Hiring Kadia next week to focus on graphics production and workflow optimization
+  - Plans to hire another design engineer for client ops
+  - Potential need for a dedicated PM-like role to manage complex client requests and expectations
+
+---
+
+## Action Items
+
+**Andi Bailey (GrowthX)**
+- Shadow client calls and meet directors individually to identify upsell opportunities
+
+**Jason Gong (GrowthX)**
+- Collaborate with Matthew on updating AIMBIT artifacts
+- Add Kyle as host for next week's event to enable inviting prospects
+- Shape PSEO workflow into cohesive, tiered offering with clear deliverables for each tier
+
+**Kyle Gaudreau (GrowthX)**
+- Follow up with Connor re: Galileo upsell opportunity, add Andi to thread
+
+**Matthew Panzarino (GrowthX)**
+- Regenerate and update artifacts for AIMBIT, integrating feedback from recent calls
+
+**Renato (GrowthX)**
+- Bring Kadia (graphics production) onboard next week and establish reproducible graphics workflows
+- Hire another design engineer for client ops and establish similar productization mandate
+
+---
+
+## Transcript
+**Andi Bailey:** And I was like, look, we can pull these artifacts in.
+
+**Andi Bailey:** And she was like, what the  is that?
+
+**Andi Bailey:** Because she was like, this is like months and months old.
+
+**Matthew Panzarino:** When was the last time somebody updated this?
+
+**Andi Bailey:** I can't believe I made it into your new system.
+
+**Andi Bailey:** And so, I mean, I think that's also like a flag of like, what's Elvis doing?
+
+**Andi Bailey:** Like, why hasn't even just like copy pasted in?
+
+**Andi Bailey:** She's like, the company brief has our personas.
+
+**Andi Bailey:** Like, he could have just pasted that.
+
+**Andi Bailey:** So, yeah.
+
+**Matthew Panzarino:** Yeah, they need to be updated and they haven't been.
+
+**Matthew Panzarino:** the directors, they've just stopped this thing.
+
+**Andi Bailey:** Yeah, but Elvis has had it for a while.
+
+**Matthew Panzarino:** Correct.
+
+**Matthew Panzarino:** And it's been.
+
+**Andi Bailey:** Yeah.
+
+**Matthew Panzarino:** But the thing is, who do we want to own this, right?
+
+**Matthew Panzarino:** So if it's something that needs to own those, great.
+
+**Matthew Panzarino:** I don't know if they should own the original creation of them.
+
+**Matthew Panzarino:** I'm not sure if they're supposed to be enough about it.
+
+**Matthew Panzarino:** But they should update them regularly.
+
+**Andi Bailey:** Yeah, I mean, at least like, the personas were just wrong.
+
+**Andi Bailey:** Like, that's not even.
+
+**Andi Bailey:** Like, that's not even.
+
+**Andi Bailey:** So, like, an Emmy can delete that.
+
+**Matthew Panzarino:** Yeah, I agree.
+
+**Matthew Panzarino:** There's lots of fun on there.
+
+**Matthew Panzarino:** But I don't know how many times I can say to everyone on every call, like, update your artifacts.
+
+**Andi Bailey:** I mean, that's why I'm just joining every call.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah.
+
+**Kyle Gaudreau:** Panzer, for what it's worth, I feel like you're wearing headphones, but they're not connected.
+
+**Matthew Panzarino:** Oh, really?
+
+**Kyle Gaudreau:** You sound distant.
+
+**Matthew Panzarino:** Really, the mic is my AirPods.
+
+**Matthew Panzarino:** Let me see.
+
+**Matthew Panzarino:** Is that any better?
+
+**Kyle Gaudreau:** It's not a huge deal.
+
+**Matthew Panzarino:** Is that better?
+
+**Kyle Gaudreau:** There you are.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** We'll use that one.
+
+**Matthew Panzarino:** So many inputs to choose from.
+
+**Matthew Panzarino:** But, yeah, the artifacts are embarrassing, but it's like, yeah.
+
+**Matthew Panzarino:** I would say for your sanity's sake, Andy, check them before you do any of those sneak peeks.
+
+**Matthew Panzarino:** Thank Okay.
+
+**Matthew Panzarino:** Thank
+
+**Matthew Panzarino:** Because they're all over the map.
+
+**Matthew Panzarino:** Some of them are going to be great.
+
+**Matthew Panzarino:** Some of them are not right now.
+
+**Matthew Panzarino:** So, yeah.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** So the Smith thing I can help with.
+
+**Matthew Panzarino:** The AIMBIT thing is ongoing.
+
+**Matthew Panzarino:** And if they are still unable to get there, I I've helped them a lot.
+
+**Matthew Panzarino:** And so has Daryl.
+
+**Matthew Panzarino:** And I just don't know if David is unable to, like, manipulate the workflows enough to get where we need to go.
+
+**Andi Bailey:** I mean, if we make it out of Friday, we're for sure pulling David off this account.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** We've given him a lot of chances to get this right.
+
+**Matthew Panzarino:** And I have provided assistance and feedback.
+
+**Matthew Panzarino:** So has Daryl.
+
+**Matthew Panzarino:** It's just he seems unable to, like, make that mental leap to, like, get it where he needs to get it.
+
+**Matthew Panzarino:** So it's a tough one.
+
+**Matthew Panzarino:** So I'm going to just set aside some things I had planned for this afternoon.
+
+**Matthew Panzarino:** And then I'm going to go fix those artifacts.
+
+**Matthew Panzarino:** fix those So I'm going
+
+**Matthew Panzarino:** Regenerate them, start from scratch, basically, and then integrate calls and feedback that they've had with them for the writing instructions.
+
+**Matthew Panzarino:** So I'll take all those and synthesize those together.
+
+**Matthew Panzarino:** So I'll create a fresh new set of artifacts, and we can start from there.
+
+**Matthew Panzarino:** They are, yeah, there is Jason, actually.
+
+**Matthew Panzarino:** So the one bit that they have talked about is that they have AIMBIT, and in their defense, in David's defense and Jacob's defense here, AIMBIT is incredibly picky, like very, very, very, very, very picky, especially about definitions of specific technical terms.
+
+**Matthew Panzarino:** And their definitions do not always hew to the Internet's definitions of these terms.
+
+**Matthew Panzarino:** So while we can go Google the definition of a term, and it's like, oh, this is what this is.
+
+**Matthew Panzarino:** They're like, no, no, no, that's not what it is.
+
+**Matthew Panzarino:** And we're like, really?
+
+**Matthew Panzarino:** Because you're the only person that thinks that, right?
+
+**Matthew Panzarino:** And that's fine.
+
+**Matthew Panzarino:** But now we need to, like, any article that comes out needs to be compared against a set of these expectations.
+
+**Matthew Panzarino:** definitions of, like, they have a specific definition of secretless security that they prefer.
+
+**Matthew Panzarino:** This is what secretless security is.
+
+**Matthew Panzarino:** This is what we mean by that.
+
+**Matthew Panzarino:** And then any article that integrates that term, which is a lot of them, because this is a core product of theirs, needs to integrate that specific contextual definition of secretless security and definition.
+
+**Matthew Panzarino:** Things like that.
+
+**Matthew Panzarino:** And they've got, like, a list of a dozen of these items.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I heard they did a loom or something like that.
+
+**Jason Gong:** Is that?
+
+**Jason Gong:** Or not a loom, but, like, a recording.
+
+**Matthew Panzarino:** They did a bunch of audio recordings.
+
+**Matthew Panzarino:** Yeah.
+
+**Jason Gong:** I guess I don't know when you're planning to do it, but maybe I'd love to try to help.
+
+**Jason Gong:** I guess the piece I'm trying to help out is, like, I believe that, like, artifacts are enough to get it to some point, but, like, a lot of cases not totally enough, you know?
+
+**Jason Gong:** Like, I think in Webflow's case, like, we just don't have a workflow that could do the thing that they needed.
+
+**Jason Gong:** And even the one that engineering shipped, like, just needed 20 iterations before.
+
+**Jason Gong:** And I don't know, like maybe we can dig at that together.
+
+**Jason Gong:** And I think security, you know, like I'm just coming off of that normal.
+
+**Matthew Panzarino:** So yeah.
+
+**Jason Gong:** Yeah, I do.
+
+**Matthew Panzarino:** I am not, I have no ego about like going in solo on that one.
+
+**Matthew Panzarino:** happy to double team it, pair program, whatever you want to do.
+
+**Matthew Panzarino:** My plan was to basically just start from scratch to some degree and then back in all of the conversations as a part of the process.
+
+**Matthew Panzarino:** a little bit later on, but basically start off with like, okay, let's talk about this company and see what it does.
+
+**Matthew Panzarino:** Let's do some research.
+
+**Matthew Panzarino:** They are also new.
+
+**Matthew Panzarino:** So we're going to have to use a lot of their internal stuff.
+
+**Matthew Panzarino:** They have presented us with a lot of information.
+
+**Jason Gong:** So that's a good thing.
+
+**Matthew Panzarino:** We have some information that we can use to flesh those out.
+
+**Jason Gong:** Good.
+
+**Jason Gong:** Makes sense.
+
+**Jason Gong:** I mean, I guess we don't have Marcel or Bridget.
+
+**Jason Gong:** How do we, like, what are we?
+
+**Andi Bailey:** Well, Jason, watch the rest.
+
+**Andi Bailey:** Of that director call, do you think that's a good format going forward?
+
+**Andi Bailey:** It felt like we started to service stuff.
+
+**Jason Gong:** think so, yeah.
+
+**Andi Bailey:** Okay.
+
+**Jason Gong:** I mean, I guess the director call is good.
+
+**Jason Gong:** Did you share context about that already?
+
+**Jason Gong:** I think that's worth like two minutes.
+
+**Jason Gong:** Oh, thought it a good call also.
+
+**Andi Bailey:** So we're going to start doing daily director stand-ups, and we created a new view in the client database where they can put, but we're making the format very similar to what we're doing for strategy sprints.
+
+**Andi Bailey:** So they can put like lockers, what's happening, what's changed, and we're going to be a little bit more, we're going to check their work on account health a little bit more.
+
+**Andi Bailey:** I'm going to shadow some client, pretty much all the client calls in the next few weeks to get a sense.
+
+**Andi Bailey:** Because, as Marcel said, the self-reporting is not quite.
+
+**Andi Bailey:** time.
+
+**Andi Bailey:** In line with what we're hearing when we get on those calls and ask real questions.
+
+**Matthew Panzarino:** Right.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I wonder what we could do there.
+
+**Jason Gong:** Because I keep, like, you hear a lot of, yeah, the client's happy.
+
+**Jason Gong:** But, like, what does that mean?
+
+**Jason Gong:** You know?
+
+**Jason Gong:** Like, I don't know what the right, like, instrument.
+
+**Andi Bailey:** I mean, I think it's just right now, it has to be fact-checking of jumping.
+
+**Andi Bailey:** Like, this is where I've gotten to.
+
+**Andi Bailey:** It has to be fact-checking with jumping on the calls, asking the questions.
+
+**Andi Bailey:** And then, and then helping, like, setting a strategy and setting it in motion.
+
+**Andi Bailey:** Like, that's essentially what Marcel did with Interwell.
+
+**Andi Bailey:** I think that's what's about to happen with Smith.
+
+**Andi Bailey:** That we left last week and said, reset all your artifacts.
+
+**Andi Bailey:** And then, like, nobody's looked at the Smith artifacts.
+
+**Jason Gong:** I think people are just overwhelmed.
+
+**Jason Gong:** And if nobody's going to read down their necks, they're going to, like, let some stuff slide.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** That makes sense.
+
+**Kyle Gaudreau:** think, I think that, that.
+
+**Kyle Gaudreau:** Probably makes a lot of sense, I mean, in terms of getting away from, like, too much of a status update, like, call, because I know we've fallen into that trap in the past.
+
+**Kyle Gaudreau:** I have no idea how far away we feel and how confident we feel of our ability to, like, that we've actually moved beyond that.
+
+**Jason Gong:** So, like, some of those things, like, how to talk about strategy is important.
+
+**Kyle Gaudreau:** I feel like there's one other key point that I feel like, I don't know, maybe we're working on this and I'm just not aware of it, but, like, there's kind of, like, these anchor points of, like, points in time of, like, where should they be in terms of, like, what we're doing, results, et cetera.
+
+**Kyle Gaudreau:** And I've noticed that occasionally sometimes the team would anchor too much on the expectation of the client and then say, oh, they're good.
+
+**Kyle Gaudreau:** And there needs to be this, like, fine balance of, like, what's the expectation of the client?
+
+**Kyle Gaudreau:** What is the bar worth setting?
+
+**Kyle Gaudreau:** And then, like, having that conversation in a way to understand are those two things diverging and, like, having it like a transparent conversation?
+
+**Kyle Gaudreau:** And so, like, I saw, like, for example, like, you did, like, the QBR thing for abnormal, like, that's, like, one of many ways of, like, trying to, like, tackle that.
+
+**Kyle Gaudreau:** And because, like, it's all like, like, the strategy is great.
+
+**Kyle Gaudreau:** It's like, how do we, like, help them understand where they're at in their journey?
+
+**Kyle Gaudreau:** And, like, are we on track, off track?
+
+**Kyle Gaudreau:** And, like, what is that informing where we're going next?
+
+**Andi Bailey:** Yeah, I mean, one of the things that I started doing this week was pulling just, like, the contract versus what we're actually delivering as, like, I mean, that's a baseline.
+
+**Andi Bailey:** And now that we have the PSEO workflows, we talked earlier in the call, in the director stand up about, like, okay, if they have PSEO, even if they say they're happy, and we're not doing PSEO, now tell them that we're going to start publishing faster without calling to attention that they had PSEO the whole time.
+
+**Andi Bailey:** And we weren't delivering.
+
+**Andi Bailey:** Because that's, like, there's a lot of people that are just, like, comfortable and saying, well, they're happy.
+
+**Andi Bailey:** The client's not going to yell at them every day.
+
+**Andi Bailey:** Nobody wants to yell at people every day.
+
+**Andi Bailey:** And it's just going to be when it comes time to look at what we're doing, even against the contract.
+
+**Andi Bailey:** So starting with against the contract and where we should be, that's going to be where I'm grounding myself.
+
+**Andi Bailey:** But we also started talking about how we shift strategy.
+
+**Andi Bailey:** But when we get to publishing a certain amount of content to get to long tail, like what I was telling you that Jacob did with Webstacks, very few of the directors are doing that.
+
+**Andi Bailey:** But we don't have a clear, like a qualitative sense of how to get or quantitative sense of how to get there.
+
+**Andi Bailey:** So we need to start to quantify that to tell them when they should be.
+
+**Jason Gong:** Yeah, that's where I think about it.
+
+**Jason Gong:** I feel like we can just instrument that very quickly and it'll tell us a story.
+
+**Jason Gong:** I know we came up with like a few metrics, Andy.
+
+**Jason Gong:** Earlier in the week, boil it down to how many articles is your traffic growing, and some measure of quality somehow.
+
+**Jason Gong:** And I feel like we should just do that.
+
+**Jason Gong:** So that would be helpful.
+
+**Jason Gong:** then the other thing is, do you think it's worth, because I think what Kyle's describing is almost these milestones.
+
+**Jason Gong:** I think what we tried doing before was this linear project, and it just had so many tickets in it.
+
+**Jason Gong:** But I think because there's any, as soon as you're like, I don't know what this ticket is this week, and nobody checked it, it just kind of died.
+
+**Jason Gong:** But I think what would have been helpful is just like, there's a week four milestone, week eight, and a week 10, maybe.
+
+**Jason Gong:** And that's, it's just, yeah, well, that's essentially what we're doing with strategy sprints.
+
+**Andi Bailey:** Okay, yeah, strategy sprints, that becomes less of an issue.
+
+**Andi Bailey:** Like right now, it's just, everybody else is supposed to be steady state.
+
+**Jason Gong:** So how do we get them to what we had originally defined as steady state?
+
+**Jason Gong:** So are there basically like no more accounts?
+
+**Jason Gong:** I think AIMBit is one that's still in pilot, but other than that, are there like no more accounts in pilot anymore in our, like, outside of the strategy spread?
+
+**Jason Gong:** I guess I'm just trying to think, is it worth, like, trying to do what we're describing here with, like, milestones, or it just doesn't work?
+
+**Kyle Gaudreau:** I would argue it is for a couple reasons.
+
+**Kyle Gaudreau:** So, one, I realize I don't want to make a mountain out of Moho, the statement of steady state, but, like, the mindset is so critical for, to, like, understand, like, if I am putting myself in, back when I was in-house and I'm paying an agency and my expectations, like, I'm not going to be paying for anything that I consider a steady state, I'm going to bring that in-house.
+
+**Kyle Gaudreau:** Like, like, I am, like, I need to figure out how you're continually going to be pushing me and evolving, and, like, how is that continuing to, like, evolve our roadmap over time and doing things that, like, I couldn't replicate internally.
+
+**Kyle Gaudreau:** I think we have way too many people, and, like, let's remove the pilot.
+
+**Kyle Gaudreau:** At the end of the day, like, if push comes to shove, anyone can get out of it.
+
+**Kyle Gaudreau:** That's the reality.
+
+**Kyle Gaudreau:** We're not going to go have a bunch of lawsuits and this and that.
+
+**Kyle Gaudreau:** Jen was a great example of that.
+
+**Kyle Gaudreau:** And so at month six, eight, whatever, I think there's probably a baseline template.
+
+**Kyle Gaudreau:** This is what we think most accounts should be at at this phase, but that needs to be probably adapted for the space at times.
+
+**Jason Gong:** But it's like an anchor point.
+
+**Jason Gong:** Yeah, think that's the thing, like just trying to adapt it.
+
+**Jason Gong:** But I mean, again, we only have 29 clients, like we should just do it for each one, right?
+
+**Kyle Gaudreau:** Like some might be a little different, lot be the same.
+
+**Jason Gong:** I think we should do that.
+
+**Jason Gong:** Because I think that gets rid of the like, yeah, it seems like the client's happy, so we're doing a good job.
+
+**Jason Gong:** Like we need our own like objective assessment of that, you know?
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** And the other thing too, is like, to keep in mind, is like, we're not always having the key decision maker on these calls.
+
+**Kyle Gaudreau:** And so you may have someone who like is reporting up to...
+
+**Kyle Gaudreau:** I used to talk about this when I was at Homebase.
+
+**Kyle Gaudreau:** I was like, if I get asked particular questions at this point in time, I'm not going to be able to develop a good ROI case study to keep this budget in place.
+
+**Kyle Gaudreau:** So we need to be mindful of that that conversation is around the corner and how do we prep for that.
+
+**Kyle Gaudreau:** And sometimes we're talking to those same people.
+
+**Kyle Gaudreau:** But that's where a case of they can be happy, but they can quickly become unhappy because their boss started asking questions that they weren't anticipating.
+
+**Kyle Gaudreau:** Sorry.
+
+**Matthew Panzarino:** Yeah, we know that's good.
+
+**Matthew Panzarino:** We need to arm them with the ability to like do our work.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** Like here are the five metrics that are showing you why we're so amazing.
+
+**Jason Gong:** I think that would be helpful.
+
+**Jason Gong:** mean, sometimes I'm like, like, shouldn't the directors be able to intuit that that's the case.
+
+**Jason Gong:** But I think like even in the call today, like, you know, a lot of the directors still stretch really thin.
+
+**Jason Gong:** Like I got the sense frame that that Dave is somehow running that account and Jacob just doesn't have time.
+
+**Jason Gong:** Like not every week, but like there would be.
+
+**Jason Gong:** Two-week spans where he would take himself out of the loop for a week, and over time, I think that creates problems.
+
+**Jason Gong:** I mean, even in the strategy sprint, I think it's happening.
+
+**Jason Gong:** I see it with augment code right now.
+
+**Jason Gong:** And I think he's always aware, but again, he also just does not have time.
+
+**Matthew Panzarino:** Can you include me as optional in those director calls, Andy?
+
+**Matthew Panzarino:** Maybe I can send my recorder or look at transcripts.
+
+**Andi Bailey:** I don't think I was on it.
+
+**Andi Bailey:** Yeah, sure.
+
+**Matthew Panzarino:** Thank you.
+
+**Matthew Panzarino:** And only because of, like, visibility, you know, just, I don't know if I'll have a whole lot to add that you are already covering, but I need to know what's up in case it's, like, something I'm already tracking at the CM level.
+
+**Kyle Gaudreau:** I'm sorry, I'm talking about my mouthful.
+
+**Matthew Panzarino:** Something I'm tracking at the CM layer.
+
+**Matthew Panzarino:** The aimbit thing has been going on for a while, right?
+
+**Matthew Panzarino:** And I think I've provided some pretty good directions and instructions to them.
+
+**Matthew Panzarino:** And by the way, updating your artifacts was one of those instructions probably five weeks ago.
+
+**Matthew Panzarino:** Before the director's on set, like several weeks before.
+
+**Matthew Panzarino:** And if they thought these are good, then that's obviously a big reset that needs to happen in Jacob's mind.
+
+**Andi Bailey:** Yeah, well, that's why I'm just saying Jacob's good, right?
+
+**Matthew Panzarino:** Like, he's actually a good director in general.
+
+**Matthew Panzarino:** It's like, this is, no, this is way off.
+
+**Andi Bailey:** Yeah, that's why I'm just saying, like, I'm just going to join every director call, every client call, and, like, make the directors tell me what's happening, and we're, like, I'm just going to start asking.
+
+**Andi Bailey:** asking questions, because telling them is apparently not working.
+
+**Jason Gong:** I think the other helpful thing with the director call, think it's mostly after you left, Andy, where you just, like, went through some examples of places that I can be helpful now that I have time.
+
+**Jason Gong:** I can think about it, like, help the client, obviously, but then use that to just figure out, is there something wrong with the process or the workflow here?
+
+**Jason Gong:** think it's
+
+**Matthew Panzarino:** Several things that have come up like that.
+
+**Matthew Panzarino:** I mean, like the, the, the workflow or pipelines for certain clients are just not, they're not set up, setting them up well for success.
+
+**Matthew Panzarino:** And they, the bridge between them being able to like manipulate them and not is just a matter of whether or not they have a technically, highly technically capable CF or ME, you know, that's right there with them saying, oh, let me help you fix that.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** And the vast majority of them don't.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** Just to be frank.
+
+**Matthew Panzarino:** Even when they know the problems and can articulate them very well, they can't fix them.
+
+**Jason Gong:** You know, I feel like we just tried tag teaming where like, like I found three, I think aimbit was one.
+
+**Jason Gong:** I think superhuman was another one for like kind of a repurposer type workflow.
+
+**Jason Gong:** And then Smith for their PSEO.
+
+**Jason Gong:** Like those are like the three things where.
+
+**Matthew Panzarino:** Yeah, Ventures Group, as an example, needs a specific localization pipeline, and we haven't even built one.
+
+**Matthew Panzarino:** We have a translation workflow.
+
+**Matthew Panzarino:** That's not enough.
+
+**Matthew Panzarino:** There's like a bunch of stuff that needs to happen with localization, like making sure meta tags are the proper length after they've been translated, you know, any additional localization stuff.
+
+**Matthew Panzarino:** That really needs to be its own pipeline, and it needs to attach or take as an input the output of the article generation pipeline.
+
+**Matthew Panzarino:** It shouldn't just be a workflow at the end of that pipeline.
+
+**Jason Gong:** It should really be its own pipeline.
+
+**Kyle Gaudreau:** For what it's worth, too, I've talked to three prospects in the past like two weeks at least that who knows what happens with them, but like there's definitely demand for localization that's going to grow and grow.
+
+**Kyle Gaudreau:** So, you know, when we build that, how the process works, we'll see.
+
+**Kyle Gaudreau:** There's obviously complexity there of like finding the right native speakers and this and that, but just in terms of like thinking about like what we're solving for beyond it.
+
+**Kyle Gaudreau:** There's definitely opportunity.
+
+**Jason Gong:** Do you think that localization one is as important as the PSEO stuff or not?
+
+**Kyle Gaudreau:** No.
+
+**Kyle Gaudreau:** PSEO is way more important.
+
+**Jason Gong:** No, absolutely not.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Sorry, I didn't mean to rank that above, just putting out some additional.
+
+**Jason Gong:** Yeah, I know they have that one.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** My goal there is just like take it to the finish line where the finish line is not shipping a ticket to engineering.
+
+**Matthew Panzarino:** The finish line is actually like getting it deployed.
+
+**Matthew Panzarino:** Yeah.
+
+**Jason Gong:** And then working.
+
+**Jason Gong:** And I'll just, whatever that.
+
+**Matthew Panzarino:** Well, it's, you know, this, this kind of thing, it also bears saying that like Dylan and I have definitely offered parallel advice and we've kind of updated some of their artifacts and things to work well, or not artifacts, but their pipelines and workflows to work better.
+
+**Matthew Panzarino:** But this Klaxon coming two days, three days before their thing is probably the wrong time for the Klaxon, you know, that's just the calibration thing too.
+
+**Jason Gong:** Wait, what is that?
+
+**Matthew Panzarino:** what
+
+**Matthew Panzarino:** Oh, alarm, alert, like big, a klaxon is like a, sorry, it's your word of the day, Jason, it's your word of the day, it's like an electronic horn, like, meh, meh, you know.
+
+**Jason Gong:** Like a tsunami horn?
+
+**Matthew Panzarino:** Yeah, basically, yeah.
+
+**Matthew Panzarino:** Yeah, like a tugboat, meh, like a klaxon.
+
+**Jason Gong:** Cool.
+
+**Matthew Panzarino:** So I'm basically moving all of my linear tickets for today to P1s, and then making aimbit my P0, I'm happy to, like, collab, we can just do a working sesh or something, just to figure it out.
+
+**Matthew Panzarino:** So I would say where we got to start from is, like, I'm going to ask them right now on this, or Jacob, right now on this thread, please give me the most concise, high priority things that you need fixed here, and we'll start.
+
+**Matthew Panzarino:** Aside from the artifacts.
+
+**Jason Gong:** That was good.
+
+**Jason Gong:** Yeah, we could just do that after this call.
+
+**Jason Gong:** If you have time.
+
+**Matthew Panzarino:** Yeah, I think so.
+
+**Matthew Panzarino:** My afternoon was supposed to be focused work on my to-do list, but I'll just show it all back.
+
+**Jason Gong:** Yeah, I don't know if we have an agenda.
+
+**Jason Gong:** I feel like the burning problems seem to be, oh my god, lots of churn.
+
+**Jason Gong:** That's probably the biggest one.
+
+**Jason Gong:** I feel like there's probably pipeline stuff.
+
+**Jason Gong:** I feel like I just haven't spent time there.
+
+**Jason Gong:** I don't know if you feel like, Kyle, we have a stable stream.
+
+**Kyle Gaudreau:** It feels like we don't.
+
+**Kyle Gaudreau:** We're pretty good for at least kickoffs through early August.
+
+**Jason Gong:** Okay.
+
+**Kyle Gaudreau:** But we don't have, like, once some of the deals that close that have been in for a while.
+
+**Kyle Gaudreau:** Like, Send1's closed and now scheduled.
+
+**Kyle Gaudreau:** You to me, we're going.
+
+**Kyle Gaudreau:** Procurement stuff, outreach is assigned today, you know, diligent, like we're going to close all these things like relatively soon that have been in pipe for a while.
+
+**Jason Gong:** And then it's like, okay, what's the pipe that's after that?
+
+**Kyle Gaudreau:** And there's some for sure.
+
+**Kyle Gaudreau:** But it's, I mean, we're getting like, don't hold me to this like exact number, but like, maybe two to two ish good inbounds a week.
+
+**Kyle Gaudreau:** But I'm like, okay, this could close.
+
+**Jason Gong:** It should definitely be more than that if we're trying to kick off to a week.
+
+**Jason Gong:** I think I'm trying to think like, like once I, now that Bianca is kind of ramping up, like, just spend effort there.
+
+**Jason Gong:** We still have not even kicked off like, like our warm funnel of people and just picking people out of that.
+
+**Jason Gong:** Like it's just stuck somewhere in the end where like, somebody needs to send an email, but like nobody's sending an email.
+
+**Jason Gong:** know like Bianca or...
+
+**Jason Gong:** or...
+
+**Jason Gong:** Thank you.
+
+**Jason Gong:** Or Aurelia, maybe, or somebody.
+
+**Jason Gong:** I mean, I could go through emails, too.
+
+**Jason Gong:** Like, that's kind of the state of that.
+
+**Jason Gong:** It seemed like Marcel had desire to kind of, like, get away a little bit from these gigantic, like, 60K things that are super custom and pull people away for, like, a whole week.
+
+**Jason Gong:** So that's kind of where my head's at a little bit more.
+
+**Kyle Gaudreau:** Or do you, I guess.
+
+**Kyle Gaudreau:** like one of the learnings here is we should stop selling 20K plus deals for the most part.
+
+**Kyle Gaudreau:** Because we have, let me know if I'm wrong on this, but I think the only one we've really held down consistently that we feel, like, relatively confident about is, well, maybe even that qualification is incorrect, but it's DataGrid.
+
+**Kyle Gaudreau:** And I think the important caveat is Marcel's relationship with them.
+
+**Kyle Gaudreau:** Yeah.
+
+**Andi Bailey:** Well, and Vivek has 3CMs generating content for them to, like, pretend that we're doing PSEO.
+
+**Kyle Gaudreau:** Yeah, so I'm not trying to like, so even that it's like kind of this like, there's, that's a, for a variety of factors.
+
+**Jason Gong:** How many 20k plus ones do we actually have?
+
+**Jason Gong:** I mean, Vappy was one of them.
+
+**Kyle Gaudreau:** There's one that was just back in there.
+
+**Jason Gong:** Let's see, we have Webflow, Datagrid, Abnormal.
+
+**Jason Gong:** That's it, okay, we have three, and two of them are ones that I just handheld through the pilot.
+
+**Jason Gong:** Webflow, Webflow was super happy today, so I think they're awesome, yeah.
+
+**Jason Gong:** Again, but they can cancel anytime, which I guess is kind of sad.
+
+**Jason Gong:** I thought my job was done.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** So anyways, the point behind that comment was like, it feels like when we get beyond a certain price point, it's just like proving the ROI and impact we have not nailed it.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** And do you think that's like the profile of customers or like even for any of these huge customers, we could have like kind of guided them to a slightly smaller deal that we're more confident in closing?
+
+**Jason Gong:** I'd prefer you to say on that one because a lot of those were like ones Marcel was selling before I jumped into this.
+
+**Jason Gong:** Okay.
+
+**Kyle Gaudreau:** So like most of the time when I'm having these conversations, I'm trying to anchor towards like 12, 15 range.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Like talk about that we can do a whole lot beyond that, but like I frame it as like, you know, starting with editorial, like it's a good foundation for us to like find varying paths that support you beyond that.
+
+**Kyle Gaudreau:** But it's rare that we kick off an engagement without, without starting there.
+
+**Jason Gong:** It's like more biological, kind of?
+
+**Kyle Gaudreau:** Yeah, exactly.
+
+**Kyle Gaudreau:** Yeah, like Ambien should close in like the next day or so.
+
+**Kyle Gaudreau:** And that's like another one that's like right in that mold.
+
+**Kyle Gaudreau:** Like the vast majority of the ones I've been working have been like starting editorial first.
+
+**Kyle Gaudreau:** And there's been some like PSEO things that like we can definitely close if we have more of like a, we feel more confident we can show different things.
+
+**Kyle Gaudreau:** And I can push it harder there and lead with it harder.
+
+**Kyle Gaudreau:** But I've been trying to be like careful and like angle towards editorial and like talk about that we can support PSEO, but not necessarily like, oh, we're going to do all these crazy PSEO things for you.
+
+**Kyle Gaudreau:** And like, yeah, you know, so.
+
+**Kyle Gaudreau:** But back to the part about the emails, like, yeah, I mean, there's different ways kind of like thinking about that.
+
+**Kyle Gaudreau:** There's just like, what does like customize outreach?
+
+**Kyle Gaudreau:** That's just like a touch point.
+
+**Jason Gong:** Like maybe.
+
+**Jason Gong:** I mean, we have HubSpot now, I think.
+
+**Jason Gong:** I think Bridge is the one that's aware of if we're.
+
+**Jason Gong:** I haven't gotten an update of where we're at with it, and I'm catching up on a million things, but I feel like it's just stuck near the end, nobody's kind of like, okay, so that one will kick off, hopefully, so you have more good deals to look at.
+
+**Jason Gong:** Yeah, I think the other topic was like, we talked about this maybe a week or two ago, of the strategy sprints are great, but they're kind of stacking up in a way where like, do we need another person?
+
+**Jason Gong:** Like, I don't know where that's...
+
+**Andi Bailey:** The strategy sprints?
+
+**Andi Bailey:** Well, I just pulled in, well, Sydney's...
+
+**Jason Gong:** Pull in Sydney, yeah.
+
+**Andi Bailey:** Yeah, and then we pulled in Nem and Matthew from the CM standpoint, and we're going to try and transition town.
+
+**Andi Bailey:** And engine, like, in the six-ish week mark.
+
+**Jason Gong:** Okay, if you'll...
+
+**Andi Bailey:** that, so...
+
+**Andi Bailey:** We can start to pull ADA back to the front of the implementations.
+
+**Jason Gong:** But these are like eight-week things where, like, it's an opt-out at the end?
+
+**Jason Gong:** Like, if they don't say anything by week, like seven, that means they're locked in.
+
+**Jason Gong:** yeah, yeah, exactly.
+
+**Kyle Gaudreau:** They're very, some are six, some are eight, but yeah, like seven days' notice, yeah.
+
+**Andi Bailey:** Wait, who's six?
+
+**Kyle Gaudreau:** I'll have to go back and look, but yeah, some.
+
+**Andi Bailey:** Okay, yeah, that would be helpful just to keep track of.
+
+**Jason Gong:** And then I think we're also trying to find another George-type person, is that right?
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** I believe so, yeah.
+
+**Kyle Gaudreau:** And then Marcel mentioned, although we haven't worked out the details, that like some point in August, I probably got pulled into leading some sprints.
+
+**Jason Gong:** So that works for a long time.
+
+**Jason Gong:** Like we're in a good spot.
+
+**Kyle Gaudreau:** I'm just worried because like how many they have, it's like.
+
+**Kyle Gaudreau:** Well, the key, the key there is like who sells in that case.
+
+**Jason Gong:** And like, I'll likely do both, but then like to the point.
+
+**Jason Gong:** Thank you.
+
+**Jason Gong:** Like, giving them the proper attention.
+
+**Jason Gong:** think I'll get pulled in probably, too, just on the outside looking at it, feel like.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Like, Augment worries me a lot, and that's the only one I can actually see, but, like, it's just not.
+
+**Kyle Gaudreau:** Yeah, and so we'll keep us honest.
+
+**Kyle Gaudreau:** mean, like, you know, he was saying at the dinner, he's just like, yeah, I mean, I'm excited about Code Library and this and that, but, like, every day counts from that guy's eyes.
+
+**Kyle Gaudreau:** Like, it's just, like, he really wants to know super fast and see impacts fast, and so we have to show him that we can do that for him to be sticky.
+
+**Kyle Gaudreau:** And there's a huge opportunity if we can do that, but, you know, he's not going to be someone who's going to be, like, just the way we've had to operate and be scrappy and be pulled into different things.
+
+**Kyle Gaudreau:** Like, he's going to feel those days a lot more than the average account will feel those days if we're not coming back with something.
+
+**Jason Gong:** Yeah, I mean, he seems like he's under a lot of pressure to grow, and also he's spending a bunch of money, you know?
+
+**Kyle Gaudreau:** Yep.
+
+**Jason Gong:** So, is anything else we were talking about and scared about?
+
+**Jason Gong:** There's an event next week, Kyle.
+
+**Jason Gong:** I don't know if you would find that valuable at all to invite people from the funnel in.
+
+**Kyle Gaudreau:** I think we're going to do that soon.
+
+**Kyle Gaudreau:** Yeah, can you add me as a host so can actually invite people?
+
+**Kyle Gaudreau:** Have you felt that's helpful to close people at all?
+
+**Kyle Gaudreau:** I think so.
+
+**Kyle Gaudreau:** I think it actually would probably be more helpful than the, not that the dinner wasn't helpful, don't get me wrong.
+
+**Jason Gong:** Like, actually think those things are great.
+
+**Kyle Gaudreau:** But, like, the format of being able to kind of, like, do a happy hour to be able to, like, talk with more varying folks easily, I think, is a better one for trying to get the right combos happening.
+
+**Kyle Gaudreau:** Plus, obviously, like, just having the caliber of, like, those hyper growth dudes helps as well.
+
+**Kyle Gaudreau:** We'll be right back.
+
+**Kyle Gaudreau:** The other thing we have to think about that, like, I've talked about it lightly with Bridget, and we'll start to pick up when she's back, is, like, we have all these varying, like, upsell opportunities that we need to push really hard on.
+
+**Kyle Gaudreau:** It's kind of just, like, falling to me now with the challenge I've had is, like, balancing pushing those and pushing new deals.
+
+**Kyle Gaudreau:** But, like, so there's some things I need to jump into, like, for Ramp, for example, and we're talking about a strategy sprint for Aleo, and this and that, of, like, how we work that into the mix, and, like, you know, is it just the Airbyte model every time?
+
+**Kyle Gaudreau:** I'm not sure, but some good opportunities.
+
+**Kyle Gaudreau:** What worries me about some of those is, like, they can be great if handled right.
+
+**Kyle Gaudreau:** Like, how do we be careful about taking happy customers and making them unhappy?
+
+**Jason Gong:** When do we do those?
+
+**Jason Gong:** Do they, like, loop you in, and then for a week or two you're in there, or there's, like, a meeting where you're in?
+
+**Kyle Gaudreau:** Me?
+
+**Jason Gong:** Yeah, like for upsells.
+
+**Kyle Gaudreau:** Wait, you drunk?
+
+**Kyle Gaudreau:** Usually someone just pings me and they're just like, oh, we do contract stuff, help us.
+
+**Kyle Gaudreau:** And it's just like, oh, okay.
+
+**Kyle Gaudreau:** So I'd say the most ideal state would, the initial intention, we're moving away from this, it seems for a whole variety of reasons, was like, we thought this would be in the director's wheelhouse of like owning that book of business and managing to NRR and finding upsell opportunities.
+
+**Kyle Gaudreau:** I don't think we've properly enabled them to like really do that though.
+
+**Andi Bailey:** I can do that sort of thing if that is, like, that might be me stepping in.
+
+**Kyle Gaudreau:** Okay.
+
+**Andi Bailey:** Up with upsell.
+
+**Jason Gong:** Yeah, really helpful.
+
+**Kyle Gaudreau:** I I'm not just trying to like pass it completely by the way, it's just like.
+
+**Andi Bailey:** No, yeah.
+
+**Andi Bailey:** I mean, like, certainly you should be in the loop for the contract deal, but I think, yeah, they're not the best at like those strategic conversations where they're probing and setting direction.
+
+**Kyle Gaudreau:** Yeah.
+
+**Matthew Panzarino:** And recognizing the opportunity and then taking advantage of it.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** And there's probably.
+
+**Kyle Gaudreau:** That's how to scope it, and there's ways I can try to figure it out.
+
+**Kyle Gaudreau:** For Ramp, I had to think about what do we index on in terms of volume.
+
+**Kyle Gaudreau:** I think I have a relative idea for Mara, and then I'm going to follow up with Luke to get his take.
+
+**Jason Gong:** So is the structure for that kind of ideate, get them interested, and then sell them on the strategy sprint to actually figure it out, or figure it out for, and then just be like, hey, if you paint more, this is what we're going to do.
+
+**Andi Bailey:** I think it's the latter.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** I think it's a little bit of a hybrid, to be honest, and it's probably case-dependent, which is like a non-answer, but I think is the reality of how it works.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** One thing I will flag in here is something for you to watch out for and probably integrate into your discussions with directors, Andy, is that there have been some times where we make promises to deliver additional things, either because they're asking for it or we feel obligated or whatever, that really should be up sales, or even if they are included in or integrated.
+
+**Matthew Panzarino:** In the current scope of work, they need to be like, there's a process.
+
+**Matthew Panzarino:** It doesn't have to be a laborious one, but you need to check with internal stakeholders so that we can actually deliver something.
+
+**Matthew Panzarino:** Because there was one, it was a really good thing.
+
+**Andi Bailey:** I saw that thread, yeah, where we're just like, they keep asking for more.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah, it's like, if they're like, oh, we want checklists at the end of every article, and they're like, cool, and then they're doing it manually, that's eating into our markets, right?
+
+**Matthew Panzarino:** And it's creating problems.
+
+**Matthew Panzarino:** Like, time is money, literally.
+
+**Matthew Panzarino:** So, let's not overpromise.
+
+**Kyle Gaudreau:** It'll be good to, like, eventually get to a point, which is, you know, something we'll figure out how to dial in later on.
+
+**Kyle Gaudreau:** But, like, how do we typically price this and, like, just, like, flag it as, like, we put this at net zero as a discount for now temporarily.
+
+**Kyle Gaudreau:** We have that accounted for, and then we can also frame it that way for the customers so they understand the value they're getting to a degree, and then we can, like, arm ourselves for, like, conversations of when we do need to charge for it.
+
+**Kyle Gaudreau:** And, like,
+
+**Matthew Panzarino:** It all feels a little bit more like, yeah, even if it's something we're providing for now for them for free, we should ascribe a value to it so that it feels valuable.
+
+**Matthew Panzarino:** Even if it's just the only value to get is reputation or relationship or whatever.
+
+**Matthew Panzarino:** But yeah, giving Disney does this like they don't comp things like everything has a price, right?
+
+**Matthew Panzarino:** And it's like, you know, if you get something that's a price, it feels so much like getting a free ticket.
+
+**Kyle Gaudreau:** Like feels like somebody handed you a gold  bar, right?
+
+**Kyle Gaudreau:** Because they just don't do that, you know?
+
+**Matthew Panzarino:** And so I think that's the thing.
+
+**Matthew Panzarino:** So if we're giving it to them, having a value for it makes that conversation much more useful.
+
+**Jason Gong:** So I guess like what would be a concrete next step?
+
+**Jason Gong:** Should we just like pick a customer and just go through the motion?
+
+**Jason Gong:** Because I think there's a lot of gaps right now, right?
+
+**Jason Gong:** From like how we package stuff to how we add it to the contract to like, I guess just doing it.
+
+**Jason Gong:** Because it's like they're kind of committing to something new without knowing what it is, right?
+
+**Kyle Gaudreau:** So I mean, in effect.
+
+**Kyle Gaudreau:** They went up with AirBite now, right?
+
+**Jason Gong:** Right, but they're doing a strategy sprint, which I think is a nice vehicle, because they can still back out in time to figure it out, right?
+
+**Kyle Gaudreau:** But if we want to just sell it, I guess it's up to us how we want to sell it, you know?
+
+**Andi Bailey:** Yeah, I mean, I can dig into that as I'm meeting with the directors more individually, and start shadowing those calls, and identify if there are more opportunities.
+
+**Kyle Gaudreau:** Are you already in the Galileo conversation, Kyle?
+
+**Kyle Gaudreau:** It's like, super direct.
+
+**Kyle Gaudreau:** It's, like, being kind of, like, something that happened a little bit live, and then, like, some side conversations, and so I can pick that up with Connor soon and just, like, add you to the thread, essentially.
+
+**Kyle Gaudreau:** And I think Bridget brought up a good point somewhat related, or I think maybe exactly related to this, like, a challenge in the last leadership meeting of, like, being, like, really strategic and careful of, like, when we offer this, like, strategy sprint stuff for, like, upsells, versus...
+
+**Kyle Gaudreau:** Like, if there's a viable path for us to, like, upsell without a strategy sprint, like, that would be far more beneficial, probably.
+
+**Jason Gong:** I think we just, like, we just don't have that many little things we can, like, bolt on.
+
+**Jason Gong:** I mean, we're kind of close in a lot of areas, I feel like.
+
+**Jason Gong:** Like, there's kind of, like, a newsletter thing.
+
+**Jason Gong:** There's kind of a social ghostwriting thing.
+
+**Jason Gong:** It's kind of a backlink thing, though I wouldn't really push that one.
+
+**Kyle Gaudreau:** I've been basically, like, trying to avoid backlinks as much as possible.
+
+**Kyle Gaudreau:** Yeah, I think.
+
+**Matthew Panzarino:** Like, thank God, because, yeah, we need to build a link magnet program that works before we all start offering.
+
+**Jason Gong:** Yeah, I think something like that would be much better, or something optimized for, like, mental dimensions or something.
+
+**Kyle Gaudreau:** It's just such snake oil, it actually devalues the rest of our offerings, in my opinion.
+
+**Kyle Gaudreau:** I kind of almost frame it, not necessarily in those exact terms, but it's, like, it's a shady world.
+
+**Kyle Gaudreau:** We always want to support our customers in different ways.
+
+**Kyle Gaudreau:** Like, if you really need us to help you, we'll try to.
+
+**Kyle Gaudreau:** But, like, we've just, we've found success with that.
+
+**Kyle Gaudreau:** I'm needing to do this.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** mean, as we figure out that we should really, you know, not lose sight of like the value of these upsets outside of like the pure dollars that we can add.
+
+**Kyle Gaudreau:** I think it's going to be pretty key for us also to like, in terms of retention, I worry that we get like thought of too much as like this price point that you're willing to pay for blogs.
+
+**Kyle Gaudreau:** And that's not a good place to be if that's all we become known as.
+
+**Kyle Gaudreau:** like, I, you know, I'm not saying that is what we are necessarily, but I think that is sometimes what we feel like.
+
+**Jason Gong:** I kind of want to like shift that to just geo a little bit, you know, at least have those two be the core things.
+
+**Jason Gong:** Like you're trying to get organic mentions, right?
+
+**Jason Gong:** It's like search is one, but geo is the biggest one.
+
+**Jason Gong:** It doesn't matter.
+
+**Jason Gong:** Like we're creating content that gets, you know, bring.
+
+**Jason Gong:** It gives you kind of organic journeys from customers.
+
+**Jason Gong:** But, I mean, I guess with Galileo, like, I'm still stuck on, like, exactly what we're doing.
+
+**Jason Gong:** So for Galileo, is that a work stream thing?
+
+**Kyle Gaudreau:** So, Connor was initially impressed with what we were doing for Augment Code, for, like, Code Library, and, like, MCPs, and this and that.
+
+**Kyle Gaudreau:** He saw some potential for us to maybe, like, experiment in some other, maybe somewhat comparable ways, but, you know, that could be useful for them.
+
+**Kyle Gaudreau:** And so, you know, he had some interest in exploring kind of, like, what that would look like and building a similar kind of, like, whether in website or external, like.
+
+**Jason Gong:** Trying to, like, shape our workflows into something that's, like, deliverable.
+
+**Jason Gong:** Like, I feel like a lot of our workflows involve, like, some amount of custom stuff at the beginning, and then, hopefully, like, a consistent.
+
+**Jason Gong:** Then thing after that initial phase and code library is not that it requires a lot of custom a lot of question marks in my head you know like social ghostwriting kind of is that I think I just haven't really had the like a forcing function to make me make it like that like I'm kind of trying to do it for you guys for example right like call you and the directors to get you guys ghostwriting but apart from data grid no other customer is there so I haven't had to do that um newsletter I think we just started George is doing that with um augment I think that that could be a good one it's just like in my head there's no other work stream we even have to sell where I'm curious what the upsells even are you know like I mean I think it's largely the most consistent would be PSEO okay yeah and we I just I don't know it's not like a broken record but like we don't even know it'sThrows don't grow
+
+**Matthew Panzarino:** What it looks like to have 40 functioning PSEO workstrings running, earning this money, what labor it looks like to keep those up and running, which I actually think is very doable, but I don't even know what it looks like because we haven't built them.
+
+**Jason Gong:** Okay, so I think we should shape that then.
+
+**Jason Gong:** Then I'll work on doing that just through doing it for a Smith or whichever customer he's going to do it with.
+
+**Matthew Panzarino:** And then inside the PSEO executions, I think you've got different LODs, right?
+
+**Matthew Panzarino:** And your lowest level of difficulty is we can publish a bunch of blog posts for you.
+
+**Matthew Panzarino:** Then one above that is we can publish a bunch of templated pages for you.
+
+**Matthew Panzarino:** We will help you ideate what kind of templates might make sense for your business or your site.
+
+**Matthew Panzarino:** These things can also be integrated into the third level difficulty, which is directories and, you know, hubs, right?
+
+**Matthew Panzarino:** That are more than just a cluster of content.
+
+**Matthew Panzarino:** It can be a resource that could also.
+
+**Matthew Panzarino:** It attach to link magnets, right?
+
+**Matthew Panzarino:** And it could also attach to thought leadership and newsletters and things like that.
+
+**Matthew Panzarino:** In your newsletter, you can put your hub in there, and every newsletter, you know, it links back to your hub.
+
+**Matthew Panzarino:** So I think that's kind of how we think about the PSEO engagements, but the lowest level of execution and startup effort is, let's just get rapid fire, almost precisely the same construction between blog posts, link, or keyword insertion blog posts, off the ground and running.
+
+**Kyle Gaudreau:** I would say, yeah, we can always figure this out later on.
+
+**Kyle Gaudreau:** There's probably a layer in between that and directories where it's some sort of, like, introduction of a scalable tool within that.
+
+**Matthew Panzarino:** There's a lot of instances.
+
+**Matthew Panzarino:** Yeah, I agree, I agree.
+
+**Matthew Panzarino:** You're right.
+
+**Kyle Gaudreau:** Like, per game calculator for a brand.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah, I think tools, like, I think there's a jump in complexity.
+
+**Jason Gong:** When you start adding tools and when you start adding live data, like, I think those are the two that, like, make a lot more complicated.
+
+**Matthew Panzarino:** Tools are amazing link magnus, though.
+
+**Matthew Panzarino:** They're just so good, you know, if they're properly packaged.
+
+**Kyle Gaudreau:** And, you know, theoretically, there's some reduction in friction with where certain vibe coding things are, but that doesn't, that sounds a lot better than it is in practice at times, too.
+
+**Matthew Panzarino:** Yeah, yeah.
+
+**Matthew Panzarino:** Like, there's a lot of them, but I think there's a very long tail there where, like, pockets of people will discover tools that other people have built through, you know, those kinds of directories, or they'll build their own.
+
+**Matthew Panzarino:** But if you couple the tool building with the sound SEO practices and traffic engine, that mating is going to be thinner on the ground.
+
+**Kyle Gaudreau:** There's not as much of that.
+
+**Kyle Gaudreau:** That's what Homebase is trying to do right now, by the way.
+
+**Kyle Gaudreau:** Like, I met with Kerry recently just as, like, a catch-up.
+
+**Kyle Gaudreau:** Because, like, Kerry and I hired Kerry at Homebase, and they just had a hackathon last.
+
+**Kyle Gaudreau:** Week, I think it was, or I don't know, maybe it was the week before, but they were showing me, like, some of the things they're going through in building and, you know, the top of the engineering team.
+
+**Kyle Gaudreau:** And I remember thinking, was like, God, we should be able to do this kind of stuff for them, but we're just not there and we can't do it.
+
+**Kyle Gaudreau:** But if, like, if Kerry is not technical and is finding a way, we should be able to find.
+
+**Matthew Panzarino:** Right.
+
+**Kyle Gaudreau:** But anyways, yeah, I think easily the lowest hanging fruit, although it probably underscores the complexity for upsell opportunities, PSCO, and also opens up the door for a lot of, like, other interesting, like, just, like, different businesses I talk to.
+
+**Kyle Gaudreau:** Like, I talked to a brand that's, like, going to be a slower moving deal, and I think we could bring in eventually neighbor.com, and they're pretty interesting, and, like, they need some editorial support.
+
+**Kyle Gaudreau:** But if we could, like, show them pretty compelling, like, PSEOs things, I think that's an example of where I can actually close deals faster.
+
+**Kyle Gaudreau:** Because they're like, cool, like, here's where the low.
+
+**Kyle Gaudreau:** How you can enrich all these PSEO things we have, and how you can support while we're building the editorial engine.
+
+**Kyle Gaudreau:** So I definitely have a handful of those that come through.
+
+**Jason Gong:** Makes sense.
+
+**Jason Gong:** I think I can own shaping that work stream, so it's like a cohesive thing you can look at instead of, I still don't know PSEO, doing PSEO for customer means.
+
+**Jason Gong:** So maybe we have like a few tiers, or flavors of PSEO, and just make it clear for ourselves what we're doing.
+
+**Kyle Gaudreau:** Feel free to put me in.
+
+**Kyle Gaudreau:** I'm happy to help.
+
+**Kyle Gaudreau:** I really want us to figure this one out.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I've heard Vague mentions that we have a PSEO workflow, but I don't know who shaped that.
+
+**Jason Gong:** I don't even know what it does.
+
+**Andi Bailey:** It is, well, I don't think we have a formal standardized one.
+
+**Andi Bailey:** Basically, Kirkland's looking at all the clients that are out there.
+
+**Jason Gong:** Contracted for PSEO, and is going to try and build out something that scales for a bunch of them.
+
+**Andi Bailey:** Okay, it.
+
+**Andi Bailey:** So, yeah, they know what they need to do, and now they just need to apply it to the specific clients.
+
+**Jason Gong:** Right.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I think that's, yeah, that's worth looking at.
+
+**Matthew Panzarino:** I think all of these, as far as I understand, all of these fall under either very similar structure blog posts, if not identical structure blog posts, or templated pages.
+
+**Matthew Panzarino:** I think that's pretty much it for the ones we've promised so far.
+
+**Kyle Gaudreau:** I could see Smith easily getting more complicated than that, because...
+
+**Matthew Panzarino:** Oh, yeah, it is technically...
+
+**Jason Gong:** It's like some weird form builder.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** And that one, by the way, guys, that was a little...
+
+**Matthew Panzarino:** That's one of those ones that I'm saying, we've got to be conscious about it.
+
+**Matthew Panzarino:** Because that was like...
+
+**Matthew Panzarino:** Yeah!
+
+**Matthew Panzarino:** This sounds great.
+
+**Matthew Panzarino:** I was like, hey, do you know how hard this is to build?
+
+**Matthew Panzarino:** Did you promise this to the client?
+
+**Jason Gong:** Wait, who promised that?
+
+**Matthew Panzarino:** I can't remember how it developed.
+
+**Matthew Panzarino:** But it was, it may have been during, didn't Bronco have this for a minute?
+
+**Matthew Panzarino:** I can't remember exactly.
+
+**Matthew Panzarino:** Elvis is the keeper of the keys on it.
+
+**Jason Gong:** Because it's been a millstone around his bed.
+
+**Jason Gong:** calls with Elvis.
+
+**Jason Gong:** Actually, for Smith, was showing him the CEO.
+
+**Jason Gong:** And, like, he's always very eager to promise that.
+
+**Jason Gong:** I was a little scared when he did that.
+
+**Jason Gong:** It's like, yeah, we can do that.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** And Maddie has, like, I think, not had the right stakeholder management in a lot of different ways.
+
+**Kyle Gaudreau:** And also is going to be very, like, specific of what she wants.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah, that's the sense I got from her.
+
+**Andi Bailey:** And that she'll, like, push, you know.
+
+**Kyle Gaudreau:** Of, like, hey, this is only, like, 10% of what this should be.
+
+**Kyle Gaudreau:** And I want this.
+
+**Kyle Gaudreau:** I want this included.
+
+**Kyle Gaudreau:** And, like, maybe, like, a lot of that is fair.
+
+**Kyle Gaudreau:** this.
+
+**Kyle Gaudreau:** But like how to have that back and forth and push back and then like land on something that she's satisfied with.
+
+**Andi Bailey:** Well, I mean, we lost a lot of trust because Elvis was building all of their design stuff in Canva and just like generating.
+
+**Andi Bailey:** And she was like, it wasn't even in line, like the templates.
+
+**Andi Bailey:** So I think now she's now she's looking at it with a fine tooth comb because she's like, this is this was bad.
+
+**Matthew Panzarino:** You lose your goodwill like that.
+
+**Jason Gong:** I mean, that's probably one area that requires a person.
+
+**Jason Gong:** I know we're trying to hire like a PM type person, but like, I don't know if you're there, but like design workflows and building pages like requires a little bit, requires somebody in the middle to like facilitate that.
+
+**Jason Gong:** Like I've read some of these tickets and like there's like there's not enough context being transferred.
+
+**Jason Gong:** And I don't know if like the engineers are asking for that.
+
+**Jason Gong:** And like I can only imagine like a lot of back and forth or just poor things being delivered, you know.
+
+**Renato:** Yeah, I mean, we have Kadia starting next week, who will be starting on graphics production pretty much from the get-go, and her underlying mission is to assess as much as possible, where we can come up with reproducible workflows, or at least start productizing some of the graphics, some of the components that we make on a regular basis.
+
+**Renato:** I'm going to be connected at the hip with her, and we're hiring another designer, or design engineer for client ops, whose mandate will be very similar.
+
+**Renato:** So there's more support coming on that end, but I'm also shifting a lot of my purview to this side.
+
+**Jason Gong:** Yeah, I guess my point is like...
+
+**Jason Gong:** It's missing like a, I don't even know what the role would be.
+
+**Jason Gong:** Like, for example, like, we're building, I don't know, I'll just share, like, it might be too much detail, but like, where's my Figma?
+
+**Jason Gong:** Like, we were building this page, right?
+
+**Jason Gong:** And it's like, there's like little nuances of like, okay, what exactly are these tags?
+
+**Jason Gong:** If they don't match, like it flows into like how you search these pages and how they get sorted.
+
+**Jason Gong:** And it's like, if don't think about that and you give it to the client, that could mean like two weeks of just like random back and forth.
+
+**Jason Gong:** And right now in our delivery plus client ops org, I don't think there is a person that would flag or think about that.
+
+**Renato:** And there's like a million decisions like this, you know.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah, no, I agree.
+
+**Renato:** I mean, it's like, we kind of want to like hire the design engineers and, you know, like folks to have enough agency to be able.
+
+**Renato:** example.
+
+**Renato:** PM things like this specifically, but it does seem like we're already at a point where it's becoming so much that it could require its own person.
+
+**Renato:** But I'm going to chat with Daniel as well because we have another indeed George-like person coming over.
+
+**Jason Gong:** I'm not sure.
+
+**Jason Gong:** I don't know if that's the person.
+
+**Renato:** Yeah, yeah.
+
+**Renato:** I mean, it's like we have one candidate in pipeline from there.
+
+**Renato:** But how much we were going to dedicate this person to client ops is, I'm just like, I got to say more with Daniel on that.
+
+**Jason Gong:** Yeah, I don't really know what the answer is.
+
+**Jason Gong:** Maybe it's a little bit of getting the directors to understand they need to think about that and a little bit of empowering the client ops.
+
+**Jason Gong:** Like, hey, should be asking when you see confusion.
+
+**Renato:** Yeah.
+
+**Jason Gong:** Okay.
+
+**Renato:** I'll think about it.
+
+**Jason Gong:** I have to run.
+
+**Jason Gong:** Yeah, no, I'm almost done.
+
+**Jason Gong:** Thanks, guys.
+
+**Jason Gong:** Okay, peace.
+
+**Jason Gong:** Cheers.

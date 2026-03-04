@@ -1,0 +1,1948 @@
+# Deep Dives (Bradford Peirce)
+
+<metadata>
+date: 2025-08-04
+time: 20:01 UTC
+duration: 55 minutes
+organizer: george@growthx.ai
+participants: George Haikal, Sydney Arin Go, Bradford Peirce
+fathom_recording_id: 78363644
+fathom_url: https://fathom.video/calls/371417571
+share_url: https://fathom.video/share/dDuNAtJhhdcPkFXdXnS5HuHC3G3zKsFd
+source: fathom
+enriched_on: 2026-03-03 04:07 UTC
+</metadata>
+
+---
+
+## Summary
+
+Bradford Peirce (Okta Auth0) and George Haikal, Sydney Arin Go (GrowthX) conducted a deep dive into Auth0's retail market strategy to inform GrowthX's SDR enablement program. Bradford shared Auth0's retail go-to-market approach, covering market positioning (avg. $1M ARR per retail account), key differentiators (scalability, omnichannel support, loyalty program integration, peak traffic management), and vertical segments (general retail, travel/hospitality, grocery/food, wholesale). The team discussed Auth0's value proposition beyond security—revenue drivers like easier checkouts and loyalty sign-ups—and current challenges including AI integration concerns (data privacy/security) and the need to educate buyers beyond security teams. Bradford agreed to provide decks and review GrowthX's retail-specific artifacts, while GrowthX will draft SDR objection-handling examples and prepare to onboard Kyle to the project.
+
+---
+
+## Context
+
+GrowthX is working with Okta/Auth0 (via Rachel) to build SDR enablement content for the retail vertical. This is part of GrowthX's service delivery model: start with deep expertise gathering (this call), build reusable artifacts (writing guides, persona research, competitive positioning), and then scale that into personalized workflows for sales teams. Bradford Peirce is Auth0's retail vertical expert and early strategic partner. GrowthX has already drafted initial retail-specific artifacts and wanted Bradford's expert validation and insights to refine them. The meeting was structured as a subject matter expert interview: George and Sydney asked targeted questions about Auth0's market position, customer profiles, value drivers, and sales challenges, while Bradford walked through Auth0's retail-focused deck and shared institutional knowledge about the vertical.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Confirmed that GrowthX's initial retail artifacts (writing guidelines, audience research) align well with Auth0's actual market positioning and messaging
+- Retail vertical targets larger retailers ($1M+ ARR accounts) not SMBs—adjust SDR targeting and persona work accordingly
+- Key messaging shift: Auth0 is not just a security cost center, but drives revenue through easier checkouts, loyalty sign-ups, and omnichannel support—critical for SDR objection handling
+- Four distinct sub-verticals require tailored content: general e-commerce, travel/hospitality (strongest vertical for Auth0), grocery/F&B, and B2B wholesale—opportunity to segment content
+
+**To CheckThat:**
+- AI integration is a major trend in retail identity management; retailers are eager to implement but blocked by data privacy/security concerns
+- Opportunity to audit/validate Auth0's AI security posture and messaging—positioning secure AI as core differentiator
+- Personalization and customer data management are top retail pain points where Auth0 can lean on CheckThat insights
+
+**To GrowthX Business Development:**
+- Strong potential for expanded engagement with Okta/Auth0 beyond this SDR enablement pilot—Bradford indicated appetite for additional content creation and ongoing partnership
+- Rachel (Okta stakeholder) is piloting this relationship and will need to show progress; GrowthX should prepare to onboard Kyle quickly and show early wins
+- Retail is lucrative for Auth0 (substantial portion of revenue) and in-house solutions are the main competitor—GrowthX can position as partner to overcome resource/expertise gaps
+
+---
+
+## Overview
+
+- Auth0 has strong traction in retail, especially with larger retailers (avg. $1M ARR per account)
+- Key differentiators: scalability, omnichannel support, loyalty program integration, peak traffic management
+- Main challenge: Perceived as expensive, but provides revenue-driving benefits beyond just security
+- AI integration and personalization are major trends/opportunities in retail identity management
+
+---
+
+## Key Topics
+
+### Auth0's Retail Market Position
+
+  - Significant portion of Auth0's business comes from retail industry
+  - Average account size of $1M ARR in retail vertical
+  - Strong brand awareness but cost can be a major hurdle for some prospects
+  - Particularly successful in travel/hospitality sub-vertical (e.g. airlines, hotels)
+
+### Key Differentiators for Retail
+
+  - Scalability to handle large customer bases
+  - Omnichannel support (online, in-store, Alexa, Instagram, AI bots)
+  - Loyalty program integration and simplified sign-up
+  - Peak traffic management (e.g. product launches, holiday shopping)
+  - Regulatory compliance (GDPR, CCPA, PCI DSS)
+  - Personalization and customer data management capabilities
+
+### Retail Sub-Verticals
+
+1.  General retail and e-commerce
+2.  Travel and hospitality (hotels, airlines)
+3.  Grocery, food and beverage (including restaurants)
+4.  Wholesale (B2B retail, e.g. Nike selling to Macy's)
+
+### Current Retail Trends and Challenges
+
+  - AI integration: Retailers want to implement but have concerns around data privacy/security
+  - Personalization: Growing demand but challenged by identity management limitations
+  - Security threats: Increasing sophisticated attacks, especially AI-powered bots
+
+### Auth0's Value Proposition
+
+  - Revenue-driving benefits beyond security (e.g. easier checkouts, more loyalty sign-ups)
+  - Secure AI transactions and applications
+  - Simplifies identity management so dev teams can focus on core product
+  - Stays current with evolving regulations, protocols, and features
+
+### Sales Challenges and Strategies
+
+  - Security teams familiar with Auth0, but need to educate CMOs/digital heads on identity's role
+  - In-house solutions are main competitor; emphasize resource savings and expertise of Auth0
+  - Highlight revenue potential to counter price objections (e.g. increased conversions, loyalty)
+
+---
+
+## Action Items
+
+**Bradford Peirce (Okta)**
+- Discuss next steps with Rachel regarding GrowthX partnership
+- Send retail-focused deck shared in meeting plus other relevant Auth0 content to George/Sydney
+- Review GrowthX's retail-specific artifacts and add comments on Google Docs
+
+**George Haikal (GrowthX)**
+- Draft example of using artifacts for SDR objection handling and talk tracks for retail vertical
+- Prep to onboard Kyle to the Auth0/Okta project next week
+
+**Sydney Arin Go (GrowthX)**
+- Review comments from Bradford on retail artifacts (implied from discussion)
+
+---
+
+## Transcript
+**Bradford Peirce:** Where are you based, Brad?
+
+**Bradford Peirce:** This meeting is being recorded.
+
+**Bradford Peirce:** Normally Salt Lake City, but I'm calling from Chicago right now.
+
+**George Haikal:** Nice.
+
+**George Haikal:** I went to school in Milwaukee and spent a year post-grad in Chicago.
+
+**George Haikal:** Right now is the better time to be there for sure in the summer.
+
+**Bradford Peirce:** Yeah, it's great.
+
+**George Haikal:** Love it.
+
+**George Haikal:** Cool.
+
+**George Haikal:** So, again, thanks for the time.
+
+**George Haikal:** mean, Rachel's been fantastic to work with.
+
+**George Haikal:** And what we've been doing on our side is we're trying to figure out, like, how we can best help, whether it's custom workflows, content, whatever that is.
+
+**George Haikal:** We're starting with how can we get as smart as possible and gain as much expertise in the area of retail and start there first.
+
+**George Haikal:** So, start really small, helping SDRs, enabling them in their sales process within the retail industry.
+
+**George Haikal:** And then kind of, like, think about.
+
+**George Haikal:** What we do is we're trying to make you like an expert that we can then include in our workflow.
+
+**George Haikal:** And so right now we have like writing guidelines, an audience specifically for retail, and like how Auth0 specifically helps like the retail businesses that they work with.
+
+**George Haikal:** And we're super excited to meet with you because Rachel said you know more than like any research, any amount of research we could have done.
+
+**George Haikal:** So I guess the purpose of today's call is for us just to kind of pick your brain on all things retail and Auth0.
+
+**George Haikal:** And like the questions start broad, but I think the main things we're looking to hammer down on and fill in if I'm looking at Sydney is like the audience you're serving, like as specific as possible as we can get, a little bit on like how the product actually helps the businesses, and then like the main struggles those customers are facing and then competitors.
+
+**George Haikal:** So that was a lot, but I kind of wanted to like give you context to help.
+
+**George Haikal:** And guide the conversation.
+
+**Bradford Peirce:** Cool.
+
+**Bradford Peirce:** Yeah, sounds good.
+
+**Bradford Peirce:** I've not actually met with Rachel yet, but I know that she's kind of piloting this relationship with you guys and everything that we're trying to do with building out kind of a retail campaign for SDRs, which is great.
+
+**Bradford Peirce:** I don't really know what her goals are.
+
+**Bradford Peirce:** I'm kind of supporting her.
+
+**Bradford Peirce:** So it seems like both you and I, we're both in this kind of support function here.
+
+**Bradford Peirce:** We're both supporting what she's going after.
+
+**Bradford Peirce:** I cover the retail industry here at Okta and Auth0, and I can share with you tons of insights and research that we have from my side.
+
+**Bradford Peirce:** But I was looking through the documents that you guys pulled up, and those are pretty good, pretty spot on.
+
+**Bradford Peirce:** lot of, you know, the story aligns with what we have.
+
+**Bradford Peirce:** But I think you had a list of questions.
+
+**George Haikal:** Yeah, yeah.
+
+**George Haikal:** So a few things.
+
+**George Haikal:** One, shout out to Sydney.
+
+**George Haikal:** She's amazing.
+
+**George Haikal:** She like did a bunch of the work there on those artifacts that you're referencing.
+
+**George Haikal:** So love to hear how like pretty spot on they are.
+
+**George Haikal:** I think on this call, right, if you had like a reach.
+
+**George Haikal:** Retail specific deck or anything you usually take people through, that'd be great.
+
+**George Haikal:** And then we have the questions that we can run through as well to help guide the conversation.
+
+**George Haikal:** And then if you want, it sounds like you already took a look at it, we can either do it async or on this call as well, reviewing those three artifacts, the retail specific ones that we made.
+
+**George Haikal:** And then you kind of live narrating where the gaps are, what really hits home and like infusing, you know, your expertise and anything that we were missing.
+
+**Bradford Peirce:** Cool.
+
+**Bradford Peirce:** Yeah, sounds good.
+
+**Bradford Peirce:** Let me, let's start here.
+
+**Bradford Peirce:** I'll just pull up a quick deck here that's, it's kind of like my Bible for the retail industry.
+
+**Bradford Peirce:** And we share this throughout the organization too.
+
+**George Haikal:** Love that.
+
+**George Haikal:** If you can, and also anything you send over to us is really helpful as well.
+
+**Bradford Peirce:** Okay.
+
+**Bradford Peirce:** I'll have charge you money for this one though.
+
+**George Haikal:** Interest on it.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** Let me just give you like a quick, like two to three minute rundown of what we're doing here.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** Just our view of the retail industry, why we sell Auth0 into the retail industry, the challenges that we're fixing, the solutions we have that fix those challenges, the outcomes.
+
+**Bradford Peirce:** Retail industry, it's a pretty big chunk of the economy.
+
+**Bradford Peirce:** Really, no, nothing really more than that.
+
+**Bradford Peirce:** A lot of our business comes from the retail industry, the accounts in the retail industry that we have averaging about a million dollars per account in ARR.
+
+**Bradford Peirce:** So, a lot of fruit to pick from this industry.
+
+**Bradford Peirce:** Definitely.
+
+**Bradford Peirce:** I know one of your questions on your document was, what makes retail different?
+
+**George Haikal:** So, I'll go through some differences here.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** Customers, retailers have a  ton of customers, a lot more so than your medical offices, although some are very big in the healthcare industry.
+
+**Bradford Peirce:** Financial services, retail tends to be a lot bigger.
+
+**Bradford Peirce:** So, identity platforms need to have that scalability to handle that many customers.
+
+**Bradford Peirce:** Omnichannel, as you know, you can share.
+
+**Bradford Peirce:** Shop online, in-store, through your Alexa, you can shop on Instagram, you can use AI bots now, there are so many channels, they're always evolving, that's a key differentiator in retail as well.
+
+**Bradford Peirce:** Identity's got to work across all these.
+
+**Bradford Peirce:** Loyalty, loyalty's a lot bigger in retail than in other industries, it's a huge KPI for retailers.
+
+**Bradford Peirce:** Auth0 helps make signing up for a loyalty program a lot easier, so that's a big use case there.
+
+**Bradford Peirce:** Seasonal and peak traffic management, Air Jordans, I'm you guys have heard of those, the shoes, they, a couple years ago, released a brand new sneaker, and so many people went to the website that it shut the whole thing down.
+
+**Bradford Peirce:** That's because their identity platform wasn't strong enough.
+
+**Bradford Peirce:** Look at things like product launches, Christmas shopping seasons, sales seasons, things like that, you've got to have that, just peak traffic management.
+
+**Bradford Peirce:** A lot of retail shoppers in November, December, when product launches happen, so that's a big, big use case there.
+
+**George Haikal:** So what are you seeing, sorry to interrupt, what are you seeing with, like, customers as it relates to...
+
+**George Haikal:** Seasonality and just in general spikes in user at different times, like are they coming to you after something has happened and didn't work or is it like a lot preemptive, like what's the breakdown?
+
+**Bradford Peirce:** Good question.
+
+**Bradford Peirce:** I don't know if we've actually ever had a customer come to us.
+
+**Bradford Peirce:** And I just because I don't know, there may very well have been a customer that came after something happened, but I don't really know.
+
+**Bradford Peirce:** This is more of a preemptive selling point that we got to speak to.
+
+**Bradford Peirce:** But yeah, it could be the case where it's happened to a retailer and then they come to us.
+
+**Bradford Peirce:** So, yeah, a lot with the larger retailers, they kind of have this covered, but you've got these like new, you know, retailers.
+
+**Bradford Peirce:** There's one, Skims, Skims, Skims, Skims, yeah.
+
+**Bradford Peirce:** They're like brand new.
+
+**Bradford Peirce:** They've already got a ton of traction, ton of customers, but their digital footprint is pretty small.
+
+**George Haikal:** Like that's a perfect example of a retailer where this could become an issue.
+
+**Bradford Peirce:** Regulatory compliance.
+
+**Bradford Peirce:** Regulatory
+
+**Bradford Peirce:** Not as big in retail.
+
+**Bradford Peirce:** It's a lot bigger in financial services, healthcare, manufacturing.
+
+**Bradford Peirce:** Those more sensitive industries, but they do exist.
+
+**Bradford Peirce:** GDPR, CCPA, PCI, DSS.
+
+**Bradford Peirce:** We get a lot of conversations from retailers about that.
+
+**Bradford Peirce:** And then lastly is the personalization and the data.
+
+**Bradford Peirce:** This is huge in retail.
+
+**Bradford Peirce:** Retailers want every piece of information they can get on their customers.
+
+**Bradford Peirce:** So they can take that and turn that into personalized product recommendations and things like that.
+
+**Bradford Peirce:** If you don't have identity in place, you don't know who your customers are.
+
+**Bradford Peirce:** You can't really personalize anything for people that just check out as guests.
+
+**Bradford Peirce:** So that's a big, big use case there as well.
+
+**Bradford Peirce:** I think you had a question about where we're seeing a lot of success, like what parts of the retail industry.
+
+**Bradford Peirce:** We've kind of divided this into four.
+
+**Bradford Peirce:** So this is your general retail and e-commerce.
+
+**Bradford Peirce:** We also include travel and hospitality.
+
+**Bradford Peirce:** That's like hotels and airlines.
+
+**Bradford Peirce:** We consider those retailers.
+
+**Bradford Peirce:** Grocery, food, and Bev.
+
+**Bradford Peirce:** So grocery stores, and then restaurants, places like Starbucks, they've got POS systems, they can, you know, you can order online and have it delivered, they operate similar to retailers.
+
+**Bradford Peirce:** And then wholesale, so wholesalers don't sell directly to the end consumer, but they sell to other retailers.
+
+**Bradford Peirce:** If you think of like Nike, for example, yes, there's the Nike store, there's the Nike website, but a large part of their business actually comes from selling Nike shoes to Macy's and Foot Locker.
+
+**Bradford Peirce:** and things like that.
+
+**Bradford Peirce:** So those are wholesale retailers.
+
+**Bradford Peirce:** These, this one's kind of a different beast.
+
+**Bradford Peirce:** I kind of, we kind of stick those off to the side a little bit.
+
+**Bradford Peirce:** Most of what we talk about applies to the first three.
+
+**George Haikal:** And what's the breakdown of those three generally?
+
+**Bradford Peirce:** Good question.
+
+**Bradford Peirce:** I'd have to dig that up.
+
+**George Haikal:** No problem.
+
+**Bradford Peirce:** It seems like it's pretty even.
+
+**Bradford Peirce:** We do, we, for some reason, we do a lot of travel and hospitality.
+
+**Bradford Peirce:** The airlines and hotels love us.
+
+**Bradford Peirce:** I think it's their loyalty programs is a big use case that works for them.
+
+**Bradford Peirce:** Interesting.
+
+**Bradford Peirce:** Um, but yeah, I can, I can try to dig those up for you.
+
+**George Haikal:** No, this is, I mean, this is already amazing.
+
+**George Haikal:** Like the, the level of granular, like as specific as we can get, the better.
+
+**George Haikal:** Cause if you think about where we're coming from, I'm trying to put myself in the shoes of the seller and who they're speaking, right?
+
+**George Haikal:** So like the, the more specific, i.e.
+
+**George Haikal:** not just retail, but now, you know, three hyper-specific actual sub-verticals within it.
+
+**George Haikal:** Like that's, those are artifacts we can make and break down and just help enable that salesperson to like actually do really amazing work.
+
+**George Haikal:** And then, yeah, then on the, on the other side of prior to prepping them for the call, right?
+
+**George Haikal:** It's like personalized emails and, um, all those different flows.
+
+**George Haikal:** So it's just super exciting to see how, um, how much more information we're already getting.
+
+**Bradford Peirce:** Sweet.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** We've got tons of this and I've got other decks too that I can send to you, but that's just kind of the overview here, just a brief overview.
+
+**Bradford Peirce:** But if there's anything we can dive into this too, if there's any specific questions you have, like, shoot, I can go, I've got your document here too.
+
+**Bradford Peirce:** can just pull up this.
+
+**George Haikal:** So, like, we covered that one.
+
+**Bradford Peirce:** This one, I just gave you the three.
+
+**Bradford Peirce:** would say, I know you guys are focused on the smaller retailers.
+
+**Bradford Peirce:** Is that right?
+
+**Bradford Peirce:** For this exercise, are you guys doing all?
+
+**George Haikal:** We haven't narrowed it down to just, like, one.
+
+**George Haikal:** I think right now it's smaller, but honestly, open to whatever's, like, the sweet spot or whatever is working better for you within retail.
+
+**Bradford Peirce:** It seems like we get, like, the bigger retailers.
+
+**Bradford Peirce:** It seems to be the case.
+
+**Bradford Peirce:** I think smaller retailers just don't have the budget to go out, and they're not prioritizing identity.
+
+**Bradford Peirce:** And Auth0 generally is more expensive than our competitors.
+
+**Bradford Peirce:** So it tends to be the larger retailers.
+
+**Bradford Peirce:** Retail in general is also a very low-margin industry.
+
+**Bradford Peirce:** There's not a lot of money to be throwing around it.
+
+**Bradford Peirce:** But technologies that aren't absolutely critical.
+
+**Bradford Peirce:** So I think we see a little bit, we skew to the larger side.
+
+**George Haikal:** But that's, that's, that's interesting too, right?
+
+**George Haikal:** Because that's, that's, that's, that's, that's,
+
+**George Haikal:** I completely get that, how much the person cares about the bottom line, especially in retail when the margin is so thin.
+
+**George Haikal:** So like how to paint the story of Auth0 and like how it actually can contribute to either the bottom line directly or avoiding any issues that might affect the bottom line negatively.
+
+**Bradford Peirce:** So that's like another way to help, you know, whoever's selling this.
+
+**Bradford Peirce:** Totally.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** I think speaking to, I think a lot of people view our technology as like security and a cost center.
+
+**Bradford Peirce:** But there's actually like we can make the loyalty signup process easier.
+
+**Bradford Peirce:** We can make the checkout process easier.
+
+**Bradford Peirce:** Like there's a lot of revenue.
+
+**Bradford Peirce:** We add to the revenue side as well.
+
+**Bradford Peirce:** And I think that message isn't as strong.
+
+**George Haikal:** So I think that's a huge opportunity area.
+
+**George Haikal:** Nice.
+
+**George Haikal:** Very cool.
+
+**George Haikal:** What's, yeah, what's challenging or, yeah, I guess start with what's challenging and then like what's an exciting opportunity after that?
+
+**Bradford Peirce:** Retail trends, challenges.
+
+**Bradford Peirce:** I think AI is the big here, the big story here.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** Let me flip to the AI section.
+
+**Bradford Peirce:** A lot of retailers are using AI or planning to use AI.
+
+**Bradford Peirce:** And if you look at the right, I know this is a lot of data here.
+
+**Bradford Peirce:** If you at the right side, the challenges are all, these are the challenges, why retailers are like afraid of using AI.
+
+**Bradford Peirce:** Data privacy, cost, data security.
+
+**Bradford Peirce:** And this is exactly what we do.
+
+**Bradford Peirce:** We secure AI transactions, AI applications.
+
+**Bradford Peirce:** So I think this is a big trend in retail.
+
+**Bradford Peirce:** AI is coming.
+
+**Bradford Peirce:** You're seeing chatbots.
+
+**Bradford Peirce:** You're seeing AI product recommendations, things like that.
+
+**Bradford Peirce:** But a lot of retailers are scared to really implement this because they're not sure about the privacy, the security, the cost.
+
+**Bradford Peirce:** So I think that's one thing we could talk about for that question.
+
+**Bradford Peirce:** I'm trying to think what else.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** Yeah, there's just so much there.
+
+**George Haikal:** Like, there's so much good stuff.
+
+**George Haikal:** know right now, like, a lot of what we do, and it's not what we're doing right now for OutZero, but it's, like, writing content, programmatic SEO, et cetera, for, like, the website.
+
+**George Haikal:** And so I just really like how you guys broke down the use cases and, like, the focus on AI.
+
+**George Haikal:** Because in our heads, right, the way we're looking at it is, oh, that's what people care about.
+
+**George Haikal:** Now you can, like, write content for that.
+
+**George Haikal:** So when they're searching for it or when the question pops in their mind, like, OutZero comes up and, like, clearly demonstrates how they're solving that problem.
+
+**George Haikal:** Yep.
+
+**Bradford Peirce:** So.
+
+**Bradford Peirce:** Yep.
+
+**George Haikal:** I like it.
+
+**Bradford Peirce:** I would say the personalization is another trend.
+
+**Bradford Peirce:** Like, this is really evolving in retail.
+
+**Bradford Peirce:** Just giving people, like, when you go to xyz.com, you know, you're starting to see a lot more personalized products on the homepage.
+
+**Bradford Peirce:** Based on what you've searched in the past.
+
+**Bradford Peirce:** So it's on that website or on a different website.
+
+**Bradford Peirce:** That's really growing and gaining steam.
+
+**Bradford Peirce:** I think the challenge is retailers don't know how to tie an identity to that.
+
+**Bradford Peirce:** You just have random people come to your website.
+
+**George Haikal:** don't know who they are.
+
+**George Haikal:** You don't know what to personalize.
+
+**Bradford Peirce:** So I think that's another big trend and a big challenge that's worth highlighting.
+
+**Bradford Peirce:** And then one more, I would say, just the security environment.
+
+**Bradford Peirce:** There are a lot of AI bots now that are attacking retailers, and a lot of them are getting through the login box, the identity platform.
+
+**Bradford Peirce:** So that's a new trend and a new challenge that retailers have to grapple with.
+
+**George Haikal:** Got it.
+
+**George Haikal:** And you guys paint a picture of how you can help with that?
+
+**Bradford Peirce:** Yep.
+
+**Bradford Peirce:** Yep.
+
+**Bradford Peirce:** We are super secure.
+
+**Bradford Peirce:** The login box is the front door to your online retail website.
+
+**Bradford Peirce:** That needs to be secure, and we provide the security for that to happen.
+
+**Bradford Peirce:** For that to be secure.
+
+**George Haikal:** Nice.
+
+**George Haikal:** Nice.
+
+**George Haikal:** I mean, these kind of get in the weeds.
+
+**George Haikal:** mean, let me know if anything in section two jumps out at you.
+
+**George Haikal:** think you covered a lot of the customer stuff, though.
+
+**Bradford Peirce:** I think retailers, one thing is like, so within a retail organization, you've got these security teams.
+
+**Bradford Peirce:** And these are like the developers, the real smart people, but they really only focus on like security.
+
+**Bradford Peirce:** And then they view the login box as like a security first thing.
+
+**Bradford Peirce:** But every retailer has these departments that know about Auth0.
+
+**Bradford Peirce:** They all know Auth0.
+
+**Bradford Peirce:** They all know what we do.
+
+**Bradford Peirce:** I think a challenge is that a lot of like CMOs or heads of digital or heads of loyalty programs, they don't really know what Auth0 is.
+
+**Bradford Peirce:** They don't know how identity plays a role in what they're working on.
+
+**Bradford Peirce:** That's a big, all the security developer guys know us, but all the product folks and all the marketing folks don't.
+
+**Bradford Peirce:** Really know who we are.
+
+**Bradford Peirce:** So all the security teams know, they all know that they need Auth0, but the other side of the business, they don't really know about it.
+
+**Bradford Peirce:** So, yeah, I guess to answer this question, every retailer knows they need a solution, an identity solution.
+
+**George Haikal:** But then why are they like going to, why would they go to a competitor?
+
+**George Haikal:** Like where is Auth0 losing?
+
+**Bradford Peirce:** That's a good question.
+
+**George Haikal:** It's mostly on price.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** I think Auth0 were viewed very favorably in the industry, but it just comes out.-wise, yeah.
+
+**Bradford Peirce:** Yeah, we have a very strong brand awareness, brand presence, but the cost is a major hurdle.
+
+**George Haikal:** Is there a, so that's clear number one, sounds like by far, but by the way you're saying it, like, is there like a number two or three pain point that you aren't solving?
+
+**Bradford Peirce:** That's a good question.
+
+**Bradford Peirce:** don't...
+
+**Bradford Peirce:** don't...
+
+**Bradford Peirce:** not trying You're to version It's
+
+**Bradford Peirce:** I don't know.
+
+**Bradford Peirce:** I I generally think that Auth0 is top of the market.
+
+**Bradford Peirce:** If you look at like Gartner's Magic Quadrant, we're like, you know, farthest top and right.
+
+**Bradford Peirce:** I think you get a lot of, there's a lot of retailers that build their own, it's like in-house solutions.
+
+**Bradford Peirce:** And I think they've got more control and more customization doing it that way.
+
+**Bradford Peirce:** So that's kind of a big, you know, competitor that we run up against is the in-house solutions.
+
+**Bradford Peirce:** But I think Auth0, yeah, we offer everything that our competitors do and then some.
+
+**George Haikal:** So what do you say to someone who's contemplating building it in-house?
+
+**Bradford Peirce:** Building it in-house requires a lot more resources.
+
+**Bradford Peirce:** You have to hire more people.
+
+**Bradford Peirce:** You have to pay them a lot of money.
+
+**Bradford Peirce:** And the identity environment is always changing.
+
+**Bradford Peirce:** New regulations are coming out.
+
+**Bradford Peirce:** New protocols are coming out.
+
+**Bradford Peirce:** New features are coming out.
+
+**Bradford Peirce:** New applications are coming out.
+
+**Bradford Peirce:** And you can do that all in-house, but it just takes, it's kind of just a pain in the  to do.
+
+**Bradford Peirce:** Or you can outsource it to a dedicated identity platform like OnZero, and we're already on top of all this.
+
+**Bradford Peirce:** We grow when you grow, we grow when regulations grow, we grow when protocols grow.
+
+**Bradford Peirce:** So we're just on top of all that.
+
+**Bradford Peirce:** And the story is, we just make it really easy.
+
+**Bradford Peirce:** You don't even need to worry about identity.
+
+**Bradford Peirce:** We worry about identity.
+
+**Bradford Peirce:** You worry about the other cool  you can do with your developers.
+
+**Bradford Peirce:** Have them go build some cool stuff.
+
+**Bradford Peirce:** We'll take care of the identity piece.
+
+**Bradford Peirce:** Now, that's the same thing a competitor of ours could say as well.
+
+**Bradford Peirce:** But, yeah.
+
+**George Haikal:** No, that's great.
+
+**George Haikal:** Because then, you know, even if they do object to that answer, right?
+
+**George Haikal:** Then you just go into why you think you're better just head-to-head with the product or features or whatever.
+
+**George Haikal:** That's great.
+
+**George Haikal:** Yeah, I'm trying to like pry with questions that like a salesperson would get, which is just why I'm being like a little annoying with them.
+
+**Bradford Peirce:** No, no, keep it coming.
+
+**Bradford Peirce:** This is...
+
+**George Haikal:** Good.
+
+**George Haikal:** It's good for me to think about, too, because no one ever asked me this stuff.
+
+**George Haikal:** Let's see what else we got here.
+
+**Bradford Peirce:** Compelling use cases.
+
+**George Haikal:** I've got it all in this deck.
+
+**Bradford Peirce:** Nice.
+
+**George Haikal:** Got a whole list, so I'll...
+
+**George Haikal:** This is super comprehensive, this deck, man.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** So I've got a list of, like, 10 or so use cases here, but I'll share this with you.
+
+**Bradford Peirce:** Capabilities, consistently underestimate or overlook.
+
+**Bradford Peirce:** I think it's the revenue side.
+
+**Bradford Peirce:** I think that's, as I was saying before, it's, like, Osteo can really make, give you more loyalty members, and it can make your conversion rates higher.
+
+**Bradford Peirce:** It can reduce your card abandonment numbers, and I think that's really overlooked, and a lot of retailers don't see that value.
+
+**Bradford Peirce:** So, and that's, this is something that we're, in the content we create, and, like, the webinars and the blog posts, we're really driving that story home, that there's a whole revenue opportunity here.
+
+**George Haikal:** Love that.
+
+**George Haikal:** Yeah, that completely makes sense.
+
+**Bradford Peirce:** Cool.
+
+**Bradford Peirce:** Rollout timeline and process.
+
+**Bradford Peirce:** You know, I actually don't really know this one too well.
+
+**George Haikal:** No worries.
+
+**Bradford Peirce:** What we say is you can get up and running in like 90 days or less.
+
+**Bradford Peirce:** That's our tagline.
+
+**Bradford Peirce:** The reality is it's not always that fast, but that's our message that we have out there.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** What could be helpful here is maybe do you know someone to talk to or if there's like onboarding resources we could have because like the product can be great and the SDR could do a really good job of like selling, you know, the revenue upside and all the problems it solves.
+
+**George Haikal:** But onboarding is a big piece of friction that like sometimes falls under the radar of, you know, especially people concerned with security, right?
+
+**George Haikal:** They probably really care about that process.
+
+**George Haikal:** And so I'm sure they're on top of it, but anything to help them come up with answers or have like really clear answers to like, oh, what does onboarding look like and how do you overcome?
+
+**George Haikal:** All the frictions, like, what am I going to need?
+
+**George Haikal:** Because ultimately you are putting more work on someone during the onboarding process.
+
+**George Haikal:** like having it crystal clear, I could see it being beneficial.
+
+**Bradford Peirce:** Yeah, that's a good point.
+
+**George Haikal:** Let me see if I can find something on that for you guys.
+
+**George Haikal:** I just did what I said SDRs do for onboarding, which is giving you more work.
+
+**George Haikal:** I apologize.
+
+**Bradford Peirce:** No worries.
+
+**Bradford Peirce:** This is something we should probably have included somewhere in our stuff anyway.
+
+**Bradford Peirce:** So, cool.
+
+**Bradford Peirce:** This one I wouldn't know either.
+
+**George Haikal:** No worries.
+
+**Bradford Peirce:** Tech stack integrations.
+
+**Bradford Peirce:** Auth0 is like really good with our integrations.
+
+**Bradford Peirce:** And we have a whole suite of integrations that we currently are available through our marketplace.
+
+**Bradford Peirce:** That's super easy to connect with.
+
+**Bradford Peirce:** And if there's something that a retailer has that we don't connect to, we are very good about customizing and working with the retailer to make sure that integration exists.
+
+**Bradford Peirce:** So just...
+
+**Bradford Peirce:** Awesome.
+
+**Bradford Peirce:** Make or Break, I've got a list of a few in here somewhere.
+
+**Bradford Peirce:** Here we go.
+
+**Bradford Peirce:** Typical retail stuff.
+
+**Bradford Peirce:** CRM, CDPs, loyalty and marketing, data integrations, e-commerce platforms, checkout and payments.
+
+**Bradford Peirce:** These are all current integrations that we have.
+
+**Bradford Peirce:** The list is huge.
+
+**Bradford Peirce:** have like thousands of integrations, but these are just some of the big ones in retail.
+
+**Bradford Peirce:** So I would say these are the Make or Break, but every retailer is different.
+
+**Bradford Peirce:** A lot of them use different stuff.
+
+**Bradford Peirce:** Shopify is a big one.
+
+**Bradford Peirce:** I'd say there's a lot of smaller retailers use Shopify, so that's big.
+
+**Bradford Peirce:** the payment ones are pretty big, too.
+
+**Bradford Peirce:** But you guys have this.
+
+**Bradford Peirce:** You you can reference this.
+
+**Bradford Peirce:** Amazing.
+
+**Bradford Peirce:** Dynamics and positioning.
+
+**Bradford Peirce:** Unique angle.
+
+**Bradford Peirce:** Let me see if I've got a slide on this.
+
+**Bradford Peirce:** This is kind of our unique angle here.
+
+**Bradford Peirce:** It's all on the deck here.
+
+**George Haikal:** There's that 90 days that I was talking about.
+
+**Bradford Peirce:** Some more unique angle.
+
+**Bradford Peirce:** This is probably the best slide for it, actually.
+
+**Bradford Peirce:** Time to value.
+
+**Bradford Peirce:** It's just quick.
+
+**Bradford Peirce:** You know, we get.
+
+**Bradford Peirce:** You're up and running quickly.
+
+**Bradford Peirce:** Lower progress, easy.
+
+**Bradford Peirce:** Extensibility, we can integrate with your tech stack however you want.
+
+**Bradford Peirce:** Scalable, was telling you about before with those product launches and holiday sales cycles.
+
+**Bradford Peirce:** When you have a lot of customers that come through to your login box, we can handle that.
+
+**Bradford Peirce:** This is well, the flexibility, managing spikes, always on performance.
+
+**Bradford Peirce:** Every tech company says this, but we say it too, 99.99% uptime.
+
+**Bradford Peirce:** And then security built in.
+
+**Bradford Peirce:** So, if you were to really look at what differentiates Auth0, would be these factors here.
+
+**George Haikal:** I love it.
+
+**George Haikal:** Yep.
+
+**Bradford Peirce:** Super clear.
+
+**Bradford Peirce:** Alternatives.
+
+**Bradford Peirce:** Let me go.
+
+**Bradford Peirce:** We've got a bunch of competitive intelligence.
+
+**Bradford Peirce:** Let me try to dig that out and give that to you guys.
+
+**George Haikal:** That'd be great.
+
+**George Haikal:** We have some.
+
+**George Haikal:** I know we did a ton of research as well.
+
+**George Haikal:** But, yeah, anything more specific on, like, you know, the actual problems these competitors are solving that, like, why?
+
+**George Haikal:** Why?
+
+**George Haikal:** So customers are going to them instead, like anything more granular than the research that we've done could be helpful.
+
+**Bradford Peirce:** Yep.
+
+**Bradford Peirce:** Okay, cool.
+
+**Bradford Peirce:** Yeah, let me see what I can find.
+
+**Bradford Peirce:** I think a big thing with this, too, that differentiates us is that we have industry-specific viewpoints.
+
+**Bradford Peirce:** Like we have a whole dedicated retail team, and we have a whole dedicated retail webpage, and we understand the use cases and the challenges of the industry.
+
+**Bradford Peirce:** A lot of our competitors don't have that or are very limited to capability.
+
+**Bradford Peirce:** So I think that's a big differentiator as well.
+
+**George Haikal:** What's the biggest frustration customers are having?
+
+**George Haikal:** It just sparked my mind when you just said that, because is support or level of service, you guys are massive, right?
+
+**George Haikal:** So like, is that kind of sometimes something that might falter?
+
+**George Haikal:** They might be getting a higher touch team or customer support team elsewhere, like where they struggle?
+
+**Bradford Peirce:** Yeah, I've heard from two retailers that they were just not happy with a competitor of ours.
+
+**Bradford Peirce:** They didn't have just the technical expertise.
+
+**Bradford Peirce:** Like if they wanted to roll something out, a new feature out, a new process out, they were having issues with that.
+
+**Bradford Peirce:** And I know that we at Auth0 are very good about that.
+
+**Bradford Peirce:** Like we've got the support teams, we've got the clout, and that doesn't happen as much.
+
+**Bradford Peirce:** Yeah, there was a Macy's, Macy's, I forget who they were using, but they had some real issues with the team that they were working with.
+
+**Bradford Peirce:** Everything was just a big, a big challenge.
+
+**George Haikal:** Which is the opposite of what you're expecting to get when you're paying for someone to handle it for you.
+
+**Bradford Peirce:** Right, right.
+
+**Bradford Peirce:** And I'm sure this happens with Auth0 as well, but I don't think as much.
+
+**George Haikal:** I guess, are there anything, so that was like.
+
+**George Haikal:** Like, competitor to Auth0, are there any things on the flip side?
+
+**George Haikal:** Like, when people churn from you all, what you're hearing?
+
+**Bradford Peirce:** That's a good question.
+
+**George Haikal:** Besides price, I know you mentioned price.
+
+**Bradford Peirce:** I know, I think it usually is price.
+
+**Bradford Peirce:** But I don't know, I don't know what the reasons are.
+
+**George Haikal:** Nowhere's, nowhere's.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** Cool.
+
+**Bradford Peirce:** Let see if I can dig that, dig something up on that as well.
+
+**George Haikal:** Also, like, I mean, I obviously completely believe you on price, but I feel like there's, like, anytime a client of ours mentions price, like, there's always something more as well.
+
+**George Haikal:** Because, like, if it was the best thing in the world, if it really was differentiated, it wouldn't only be price, right?
+
+**George Haikal:** Or, yeah.
+
+**George Haikal:** And so, I'm always interested when I, when I hear that, to learn a little bit more.
+
+**Bradford Peirce:** Yeah, I know.
+
+**Bradford Peirce:** I know.
+
+**Bradford Peirce:** But it could be.
+
+**George Haikal:** I mean, you're massive, very comprehensive solutions.
+
+**George Haikal:** Like,
+
+**George Haikal:** It very well could be.
+
+**George Haikal:** It's just, yeah, it's interesting.
+
+**Bradford Peirce:** Yeah, no, I know.
+
+**Bradford Peirce:** Let me see if I can find some other stuff on that too, because I think we can probably find an angle there with what you guys are working on that can kind of speak to that or mitigate that.
+
+**George Haikal:** Yeah, because what's an SDR going to say if someone's like, this is too expensive?
+
+**George Haikal:** I'm assuming they don't just get off of, like they try some things, right?
+
+**George Haikal:** I would assume, or I would hope.
+
+**George Haikal:** And so being able to help them, because right now I'm at a complete loss for words.
+
+**Bradford Peirce:** Someone asked me that about OnZero.
+
+**Bradford Peirce:** Yeah, cool.
+
+**Bradford Peirce:** And then the bottom here, let's see.
+
+**Bradford Peirce:** Best retail win.
+
+**Bradford Peirce:** We just won Starbucks about six months ago, this is one of our retail logos that we've won.
+
+**Bradford Peirce:** The compelling event was around what I was talking about before, the revenue side, reimagining
+
+**Bradford Peirce:** The login box as a driver of revenue, as a portal for new loyalty members, as a, you know, Starbucks is reinventing the way shoppers shop at Starbucks, where you can, you know, order on your Apple Watch now, and it's, you know, ready when you get there.
+
+**Bradford Peirce:** So the omni-channel experience, the loyalty membership, all of that just revenue side of what identity can do was the compelling event there that really resonated.
+
+**Bradford Peirce:** Um, and that's, this is the story we're trying to kind of remodel and tell, uh, based on that win, so.
+
+**George Haikal:** That's massive.
+
+**Bradford Peirce:** Yeah, yeah, good stuff.
+
+**Bradford Peirce:** Starbucks is having some issues though right now, so we'll see.
+
+**Bradford Peirce:** We'll see how it all rolls out.
+
+**George Haikal:** Issues as a company.
+
+**Bradford Peirce:** uh, as a company?
+
+**George Haikal:** Yeah, yeah.
+
+**George Haikal:** What are you talking about the, the, like they're shutting down the mobile-only locations, or what are you?
+
+**Bradford Peirce:** Uh, just a lot of layoffs.
+
+**Bradford Peirce:** I think they're doing, like, return to office mandates.
+
+**George Haikal:** I think their financial performance hasn't been as great.
+
+**Bradford Peirce:** They're, like, trying to mess.
+
+**Bradford Peirce:** Completely reimagined what their stores look like and the process and all of that stuff.
+
+**Bradford Peirce:** So they're just kind of in a transition period.
+
+**Bradford Peirce:** New CEO as of this year, too.
+
+**Bradford Peirce:** So a period of change.
+
+**George Haikal:** Well put, well put.
+
+**George Haikal:** Yeah.
+
+**Bradford Peirce:** How has customer identity evolved since I've been focused on this vertical?
+
+**Bradford Peirce:** Well, I've only been here 11 months.
+
+**Bradford Peirce:** It hasn't evolved too much.
+
+**Bradford Peirce:** I think the one big story is AI.
+
+**Bradford Peirce:** AI is the big grill in the room that every company talks about.
+
+**Bradford Peirce:** Nobody really knows what it is.
+
+**Bradford Peirce:** But the big question is, like, how do we secure this stuff?
+
+**Bradford Peirce:** If I've got a customer that wants to interact with AI with a retailer, you know, if I'm working with a chat bot and I need to give them my payment information, my, you know, address, things like that, personal information, is this secure?
+
+**Bradford Peirce:** And a lot of customers aren't sure yet.
+
+**Bradford Peirce:** A lot of retailers aren't sure yet.
+
+**Bradford Peirce:** And it's like, how do we get identity involved in this?
+
+**Bradford Peirce:** How do we make sure you are who you say you are when you're talking to a chat bot?
+
+**Bradford Peirce:** And things like that.
+
+**Bradford Peirce:** So that's kind of the big evolution that's happened in the past 12 months.
+
+**George Haikal:** Nice.
+
+**George Haikal:** That's nice.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Do you have any more information there?
+
+**George Haikal:** Tell me a little bit more about like, is there any slides that cover that as well?
+
+**Bradford Peirce:** In this deck that I've got here, it's just the slides that I was showing you before.
+
+**Bradford Peirce:** Okay.
+
+**Bradford Peirce:** You know, people are using AI.
+
+**Bradford Peirce:** This is what they're using.
+
+**George Haikal:** Retailers are using it for.
+
+**George Haikal:** These are the challenges that they're having.
+
+**Bradford Peirce:** And I've got a couple more slides.
+
+**George Haikal:** What you just said was gold, right?
+
+**George Haikal:** If I'm on the phone with someone trying to sell this and they're like, yeah, okay, everyone says AI.
+
+**George Haikal:** Like, what do you mean by that?
+
+**George Haikal:** It's like, well, do you have a chatbot on your website?
+
+**George Haikal:** Like, do you know who that person is?
+
+**George Haikal:** Like writing those words in it?
+
+**Bradford Peirce:** Yeah, exactly.
+
+**Bradford Peirce:** And there's a lot of confusion and people are afraid.
+
+**Bradford Peirce:** So, yeah.
+
+**Bradford Peirce:** Cool.
+
+**Bradford Peirce:** Cool.
+
+**Bradford Peirce:** And then lastly, on-series retail strategy from scratch.
+
+**George Haikal:** What?
+
+**George Haikal:** I focus on, I think I've said it a bunch here, just the revenue side.
+
+**Bradford Peirce:** It's, everybody thinks that a login box is just a pain in the  process you have to do when you go to a retail website.
+
+**Bradford Peirce:** And when you want to sign up for a loyalty program and they ask you 15 different questions, when's your birthday, what do you like, what's your address, it's just a pain in the , no one wants to do it.
+
+**Bradford Peirce:** That hurts retail revenues, you're not getting the loyalty members, you're not getting people to check out, they're checking out as guests.
+
+**Bradford Peirce:** That's, you know, that's kind of an issue because you're not getting the data when, when retail, when customers do that.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** So to reimagine the retail strategy is really like the revenue side, you're going to get easier checkouts, you're going to get more loyalty members, you're going to get more customer data, this is all going to boost your, your revenues and your business.
+
+**Bradford Peirce:** The login box is not just for security, there's more to the story here.
+
+**Bradford Peirce:** And that's, that's how I would, if I were to rebuild it.
+
+**Bradford Peirce:** That's what I would focus on.
+
+**George Haikal:** Great question, by the way.
+
+**George Haikal:** Thank you, Sydney.
+
+**Bradford Peirce:** Great question.
+
+**George Haikal:** Love that.
+
+**George Haikal:** Okay.
+
+**George Haikal:** And then, I guess what, this might be outside of the questions and a little outside of everything we just spoke, but like, is there anything right now that like we, that you're struggling with that is like annoying or taking a bunch of time that like we could help with?
+
+**Bradford Peirce:** Um, not from, not from my side, I don't think.
+
+**Bradford Peirce:** I guess you probably mentioned this in the end of the call, but what, so you guys are, you guys are working with Rachel, right?
+
+**Bradford Peirce:** And she's hired you guys to, you guys are going to be developing plans for more of the SDR side of things.
+
+**George Haikal:** Is that, is that right?
+
+**George Haikal:** To start.
+
+**George Haikal:** So, so we are like an AI led growth agency, uh, like humans at every step of the way.
+
+**George Haikal:** And like the, the majority of what we do right now, our bread and butter is like editorial content and programmatic SEO.
+
+**George Haikal:** So like writing and creating.
+
+**George Haikal:** Content at volume and scale, super high quality on websites, getting really specific, speaking to the audiences, all that stuff.
+
+**George Haikal:** What we're doing with Rachel and you all is right now someone else owns the website and like there's already work being done.
+
+**George Haikal:** And so that's like kind of an upsell that she has to do.
+
+**George Haikal:** So we just want to we have been figuring out how to make the most impact outside of that for her.
+
+**George Haikal:** So like we're just working as a marketing partner for you.
+
+**George Haikal:** And then what we found was, OK, we can get really smart on the problems people and customers in the retail industry are facing, how they're being solved and how we can increase, like how we can help an SDR to sell more.
+
+**George Haikal:** And those numbers flow up to the top in like and you'll be able to see that pretty, pretty clearly once like once we think once we do what we think we can do.
+
+**George Haikal:** And so that is like the starting point is the quickest when are creating these artifacts and materials that can enable SDRs and like the V2 is how can we make workflows to just.
+
+**George Haikal:** Help the SDRs work better, but also faster and more efficiently, so they can be closing more as well.
+
+**George Haikal:** All that to say, we're still open to other ideas on how to help the team, aka you and the rest of the team.
+
+**George Haikal:** So that's our focus right now, but I only ask because we're here to help if we can, wherever needed.
+
+**Bradford Peirce:** So cool.
+
+**Bradford Peirce:** Yeah, that's, that's great.
+
+**Bradford Peirce:** So yeah, let me, let me just, I'll speak with Rachel and just kind of get a better sense of what she's envisioning too.
+
+**Bradford Peirce:** We operate in silos here at Alcero and everyone's kind of, you always find teams working on the same stuff.
+
+**Bradford Peirce:** And so I just got to, I got to talk to Rachel and see what her, her vision here is.
+
+**Bradford Peirce:** But yeah, it was great to meet you guys and great to walk you through this stuff.
+
+**Bradford Peirce:** And I think there's definitely an opportunity for like content creation and things like that, that we can, we can definitely move forward with.
+
+**George Haikal:** So, Oh, no, just cause the brand is already so well-respected.
+
+**Bradford Peirce:** Yeah.
+
+**George Haikal:** That deck, you have such a good handle on it.
+
+**George Haikal:** You have all this knowledge already.
+
+**George Haikal:** Being able to create content that speaks to all these struggling moments the customers are having.
+
+**George Haikal:** The problems they're trying to solve are what each one of these very different looking people, personas, are actually searching for and thinking through.
+
+**George Haikal:** All that plus queries and searches and LLM tracking.
+
+**George Haikal:** It's super exciting.
+
+**George Haikal:** So we're trying to start small and bite-sized so she can show progress and then work it out.
+
+**George Haikal:** But yeah, it's very exciting.
+
+**Bradford Peirce:** Yeah, great stuff.
+
+**Bradford Peirce:** Cool.
+
+**Bradford Peirce:** Well, let me send over, I'll send over the deck that I shared with you guys.
+
+**Bradford Peirce:** And then I might have a couple more little pieces of content too that you guys might find effective.
+
+**Bradford Peirce:** So what's like your next step with all this information now?
+
+**George Haikal:** Yeah, so right now we already have the artifacts that you read through.
+
+**George Haikal:** And if you have a little extra time and there's anything glaring that's off on those, feel free to leave comments in it.
+
+**George Haikal:** Would love it.
+
+**George Haikal:** The formatting is a little weird here in Google Docs.
+
+**Bradford Peirce:** Yeah, yeah.
+
+**George Haikal:** Yeah, yeah.
+
+**George Haikal:** But that'd be helpful.
+
+**George Haikal:** So that was the first step.
+
+**George Haikal:** And Rachel saw these and she was like, check with Brad, he's the expert, but they already look great and beneficial.
+
+**George Haikal:** But we basically want to use these and marry them with, if I'm an SDR, with the prospect and the prospect's company and do a ton of enrichment there, like to the same level of detail as these are.
+
+**George Haikal:** And then with those two resources, you can create a super comprehensive and personalized brief for each salesperson before the meeting and pretty instantaneously.
+
+**George Haikal:** We already have workflows that do that.
+
+**George Haikal:** And then after it, it's like, okay, then you take that call transcript and help enrich and automate any touch when you have post the sales call.
+
+**George Haikal:** So like a super personalized email based on what you talked about, like how Auth0 actually can fit in and solve this problem.
+
+**George Haikal:** So it's like hyper personalized, also saving time.
+
+**George Haikal:** That's kind of the vision of how we want to start helping.
+
+**George Haikal:** But it all starts with these artifacts, one of which you're writing.
+
+**Bradford Peirce:** Yep.
+
+**Bradford Peirce:** Sweet.
+
+**Bradford Peirce:** Yeah, let me, I can read through these quickly and just drop some comments.
+
+**Bradford Peirce:** But I looked at these really quickly before this and they all seem generally, you know, aligned with what we have.
+
+**Bradford Peirce:** So, which is good.
+
+**Bradford Peirce:** Yeah, sweet.
+
+**Bradford Peirce:** So this is all good.
+
+**Bradford Peirce:** I'll send over some, the document, the deck that I shared before and maybe a couple other pieces.
+
+**Bradford Peirce:** And then, yeah, I'll link up with Rachel and we'll see how we'll move forward.
+
+**George Haikal:** So excited for all this stuff.
+
+**George Haikal:** Fantastic, man.
+
+**George Haikal:** We are too.
+
+**George Haikal:** Feel free to ping us with anything over Slack or however you want.
+
+**George Haikal:** If you need help with anything, really appreciate it.
+
+**Bradford Peirce:** Sweet.
+
+**Bradford Peirce:** Sounds good.
+
+**Bradford Peirce:** Yeah.
+
+**Bradford Peirce:** And just Notion, for some reason, I think it just doesn't work at Okta.
+
+**Bradford Peirce:** Like we, I don't know, we don't have a license and we can't get a license.
+
+**Bradford Peirce:** So just FYI.
+
+**George Haikal:** Oh, also, last question.
+
+**George Haikal:** I talked to Rachel about this, but how limited is your all's use of like LLMs and like ChatGPT, Cloud?
+
+**George Haikal:** Like how much are you all using?
+
+**George Haikal:** I know there was like a security issue that happened a few years ago.
+
+**George Haikal:** It was a pretty tight ship being run after.
+
+**Bradford Peirce:** We don't to talk about that.
+
+**George Haikal:** We're keeping in the family here.
+
+**Bradford Peirce:** We are all allowed to use Gemini.
+
+**Bradford Peirce:** So most employees use Gemini.
+
+**Bradford Peirce:** A few of us got ChatGPT.
+
+**Bradford Peirce:** It's a small percentage of the organization.
+
+**Bradford Peirce:** I've got ChatGPT.
+
+**Bradford Peirce:** We've got access.
+
+**Bradford Peirce:** We've got an enterprise account.
+
+**Bradford Peirce:** I don't know if Rachel does, and I don't know if anybody else from Okta that you may be working with do as well.
+
+**Bradford Peirce:** But Gemini is the big one that everyone has access to and that a few of us have ChatGPT.
+
+**Bradford Peirce:** Okay.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** Thanks, Brad.
+
+**George Haikal:** Appreciate the time, man.
+
+**Bradford Peirce:** This was great.
+
+**Bradford Peirce:** Totally, yeah.
+
+**Bradford Peirce:** Thank you guys, and we will speak soon.
+
+**George Haikal:** See ya.
+
+**George Haikal:** That was good, huh?
+
+**George Haikal:** So informative.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** And plus the materials after.
+
+**Sydney Arin Go:** That was amazing.
+
+**Sydney Arin Go:** Oh, yeah.
+
+**Sydney Arin Go:** Yeah, that's what we wanted from...
+
+**Sydney Arin Go:** Who was the last person?
+
+**George Haikal:** Was it Push?
+
+**George Haikal:** Or was Push Sentinel?
+
+**George Haikal:** Oh, that was...
+
+**Sydney Arin Go:** It's like pulling strings, push for us.
+
+**George Haikal:** Like teeth, really?
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** I was like, well, you're not.
+
+**Sydney Arin Go:** Oh, he's great.
+
+**Sydney Arin Go:** I really liked him.
+
+**George Haikal:** It's just nothing to work with.
+
+**George Haikal:** No.
+
+**George Haikal:** I think that's what happens when you're just like pretty high level like that, though, especially at such a big company, too.
+
+**George Haikal:** Like you don't.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** It's less useful for the groundwork we're trying to lay right now.
+
+**Sydney Arin Go:** Yeah.
+
+**George Haikal:** That was great, though.
+
+**George Haikal:** So what I'm seeing is like more and more, it's literally just however, like however much we can just do these, like more of these with all the experts as deep as possible.
+
+**George Haikal:** Like there's no way anyone's ever going to be better at us than us doing this.
+
+**George Haikal:** And it's like it has felt like everyone we've done them with, it has felt like this is a rare thing to them, that a partner comes in here and does this.
+
+**Sydney Arin Go:** So I think we're definitely on the right track.
+
+**Sydney Arin Go:** Mm-hmm.
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** wanted to wait.
+
+**Sydney Arin Go:** Until after a call with Tiffany, but I have no idea if that's actually going to happen.
+
+**George Haikal:** No, she rescheduled it again.
+
+**Sydney Arin Go:** Rescheduled it, we've had now.
+
+**Sydney Arin Go:** But, yeah, I think based off of everything that we heard, the only questions I would have for Tiffany anyways is, here's an artifact, what's missing?
+
+**Sydney Arin Go:** Like, you as the SER who's going to use this, what else do you want from this?
+
+**Sydney Arin Go:** So we can draft the artifact, get it to a place where it's actually usable, and then if we do get on that call with Tiffany, then present it to her, and that will be, like, the whole call.
+
+**Sydney Arin Go:** Like, just, hey, how would you use this?
+
+**Sydney Arin Go:** And then also we could get a, how would you, like, what are the sections do you envision you would actually refer to when you're talking to a customer when you're on a sales call?
+
+**Sydney Arin Go:** And then we can enrich those sections or prioritize them or something.
+
+**Sydney Arin Go:** And then also what's missing, so.
+
+**Sydney Arin Go:** Because she's the one who will actually be using this.
+
+**George Haikal:** No, that's a great, I completely agree.
+
+**George Haikal:** And then, like, for this call Wednesday with Rachel, it's...
+
+**George Haikal:** All
+
+**George Haikal:** Running her through the next iteration of the artifacts, which she already loved, it's updating her on the progress engineering, which right now is minimal, but we'll figure out how to tell her how we're thinking about it and the progress.
+
+**George Haikal:** But then, I think we can probably, and I'll take a stab at it first, is like, exactly what you're saying.
+
+**George Haikal:** Show, okay, here are the artifacts.
+
+**George Haikal:** Here's how, from what we've heard, what we think these SDRs, like the most common objections are going to be, or the things they're going to be faced with.
+
+**George Haikal:** And like, here's how you can take those, and we can update them with whatever you think is best, Rachel, or whatever you're seeing, or any information you have on the SDR side.
+
+**George Haikal:** Like, here's how we can take these artifacts that we made, the company, like the persona, sorry, the prospect, the company they work for, and then create like answers and talk tracks and whatever, whatever like hyper-specific things an SDR would need from that.
+
+**George Haikal:** So that would still be good to show, like a V1 of, even if the, like, because the workflow, like the pipeline is not going to be ready by then.
+
+**George Haikal:** That's how I'm thinking through it.
+
+**Sydney Arin Go:** Did you see the project I created in Claude?
+
+**George Haikal:** Not yet.
+
+**Sydney Arin Go:** Let check it out.
+
+**Sydney Arin Go:** Okay, so I can send that to you.
+
+**Sydney Arin Go:** So what I did was, because I really enjoyed the conversations with Rachel, that there was a lot of not relevant information in there to feed to Claude.
+
+**George Haikal:** Oh my god, yeah, you heard that we talked about 10 minutes about ayahuasca, it hilarious.
+
+**Sydney Arin Go:** Well, not just from that conversation, it's every conversation you've had with her has been, my favorite, personally, my favorite calls to watch on Fathom, but for the AI, probably not the best to feed it.
+
+**George Haikal:** No, yeah, you constantly have to bring her back down to, like, what we're actually trying to do.
+
+**Sydney Arin Go:** That could be insane.
+
+**Sydney Arin Go:** Yeah, I really like her.
+
+**Sydney Arin Go:** She seems like an amazing human being.
+
+**Sydney Arin Go:** 100%.
+
+**Sydney Arin Go:** We're not working on Central.
+
+**George Haikal:** Well, working on Auth0 or Okta.
+
+**George Haikal:** Which one?
+
+**Sydney Arin Go:** This one.
+
+**Sydney Arin Go:** No, this is, okay.
+
+**Sydney Arin Go:** So what I did was, here, I'll send it to you.
+
+**Sydney Arin Go:** Where's George?
+
+**Sydney Arin Go:** These have all of the contacts that you need, all the calls, even, so the deep dives, calls, everything that you need, but they're all edited down so that the AI only has the most important information.
+
+**Sydney Arin Go:** And then I made sure that all of the transcripts were actually correct.
+
+**Sydney Arin Go:** So if Rachel said it, Rachel said it.
+
+**Sydney Arin Go:** And if you said it, you said it, because sometimes in Fathom, those get switched around.
+
+**Sydney Arin Go:** And I feel like for this project, that is, the conversation is actually really, really important.
+
+**Sydney Arin Go:** So this is all up to date.
+
+**Sydney Arin Go:** And then I've also got all of the writing guidelines, the retail target audience, it's all in here.
+
+**Sydney Arin Go:** So you can just see the iterations of them in here as well.
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** And then we can just upload stuff to this too, so that you're not starting from ground zero, basically.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** This is widely helpful.
+
+**George Haikal:** Did you edit those down?
+
+**George Haikal:** In a different project?
+
+**George Haikal:** Like, what's the fastest way you're finding to do that stuff?
+
+**Sydney Arin Go:** I was listening.
+
+**Sydney Arin Go:** I had to listen to it anyways.
+
+**Sydney Arin Go:** So I just had listening on one side and then the transcript on the other side.
+
+**George Haikal:** then if it looked, minus, minus, minus.
+
+**George Haikal:** And then I just changed it around.
+
+**Sydney Arin Go:** So I did it manually.
+
+**Sydney Arin Go:** I don't think there's any way to do it.
+
+**Sydney Arin Go:** Not manually, but I have to watch it anyways.
+
+**Sydney Arin Go:** So I spent 30 minutes watching it, 30 minutes for the hour long one, 15 minutes for 30 minutes one.
+
+**Sydney Arin Go:** Who had it on two times speed.
+
+**Sydney Arin Go:** Generally, it was accurate.
+
+**Sydney Arin Go:** it was just changing around and then taking away the stuff that aren't relevant.
+
+**George Haikal:** it wasn't that hard.
+
+**George Haikal:** Nice.
+
+**George Haikal:** Okay.
+
+**George Haikal:** And then, cool.
+
+**George Haikal:** I'm pretty clear on this.
+
+**George Haikal:** And then, like, Kyle's out this week, but next week, I'm going to start pulling him in.
+
+**George Haikal:** And so he's going to take over, hopefully, in, like, two-ish weeks.
+
+**George Haikal:** But you're crushing it.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** How do you feel about it all?
+
+**George Haikal:** Oh, definitely.
+
+**George Haikal:** I mean, that's the only reason, like, we asked for, like, how you work.
+
+**George Haikal:** Because this is amazing.
+
+**George Haikal:** So let's figure out how to help her work better and save her time.
+
+**George Haikal:** So she's operating in the best, happiest, not overworked way.
+
+**Sydney Arin Go:** Well, I feel like all of us are overworked.
+
+**Sydney Arin Go:** But you know what?
+
+**Sydney Arin Go:** It's a startup.
+
+**George Haikal:** Temporary.
+
+**Sydney Arin Go:** you're not overworked.
+
+**Sydney Arin Go:** Hopefully it's temporary.
+
+**Sydney Arin Go:** Hopefully.
+
+**Sydney Arin Go:** But I don't know.
+
+**Sydney Arin Go:** I feel like when you're at a startup, this is the environment that you sign up to be in.
+
+**Sydney Arin Go:** Because at Sunrush, I think I talked to you about this.
+
+**George Haikal:** I was so bored.
+
+**George Haikal:** I wasn't overworked.
+
+**Sydney Arin Go:** Definitely not overworked.
+
+**George Haikal:** think I was working 24 hours a week.
+
+**Sydney Arin Go:** And then we had like unlimited time, like actually like super duper unlimited time off.
+
+**George Haikal:** And if you didn't take months off at a time, were like, why aren't you taking time off?
+
+**Sydney Arin Go:** No way.
+
+**Sydney Arin Go:** so bored.
+
+**Sydney Arin Go:** And I wasn't learning.
+
+**Sydney Arin Go:** And there was no movement.
+
+**Sydney Arin Go:** And it was just so slow.
+
+**Sydney Arin Go:** And I feel like there's that balance that you have to do, right?
+
+**Sydney Arin Go:** So if you're at a startup and you're doing something new, you're building something different.
+
+**Sydney Arin Go:** And I mean, everyone
+
+**Sydney Arin Go:** Everyone here has front row seats to how AI engines are being built.
+
+**George Haikal:** And that's just an opportunity and amazing experience in itself.
+
+**Sydney Arin Go:** I think this is what we signed up for.
+
+**Sydney Arin Go:** You're going to be a little bit overworked.
+
+**Sydney Arin Go:** That's fine.
+
+**Sydney Arin Go:** This is a learning experience.
+
+**Sydney Arin Go:** You're building something amazing.
+
+**Sydney Arin Go:** At the end of the day, it'll pay off.
+
+**George Haikal:** At least that's the No, that's super positive.
+
+**George Haikal:** That's the way I think about it, too.
+
+**George Haikal:** But not everyone does.
+
+**George Haikal:** So it's like, obviously, have to navigate some different things.
+
+**George Haikal:** But also, like, the stuff we're building can help us, too, if we work smarter.
+
+**George Haikal:** So that's more of what we're trying to figure out now, that, like, the sprints are at a point where there's, like, a bigger team.
+
+**George Haikal:** And, like, we kind of understand how a lot of them are moving.
+
+**George Haikal:** So then how can we make the team that already is great just, like, save more time?
+
+**George Haikal:** And then you'll be able to do more if you save more time.
+
+**Sydney Arin Go:** So that's kind of what we're thinking talking to about it earlier.
+
+**Sydney Arin Go:** And really, the biggest thing that we need is time.
+
+**Sydney Arin Go:** And it's just so, like, we were going through Sentinel-1's ideation.
+
+**Sydney Arin Go:** And, like, Marisol has the base idea of how to do ideation, of how to do keyword research, but she's not as quite keyed in to the customer.
+
+**Sydney Arin Go:** Like, I watch all the Fathom calls.
+
+**Sydney Arin Go:** I make sure that I know the customer inside out before even starting work on it because there's just no way for me to do this properly without doing all that.
+
+**Sydney Arin Go:** And that's because I've been doing this for a while.
+
+**Sydney Arin Go:** And with Marisol, what she did was I had a call with her last Friday.
+
+**Sydney Arin Go:** I told her, hey, they're really not looking for product keywords because it's not, it's, we can't go into that realm.
+
+**Sydney Arin Go:** Otherwise, we're going to have to keep doing, you know, the revisions over and over and over.
+
+**Sydney Arin Go:** So it makes no sense.
+
+**Sydney Arin Go:** And on Monday, came in and she's been online for a while because I'm in PST and she's in an earlier time zone.
+
+**Sydney Arin Go:** And Ada checked all of the keywords and we're probably going have to redo most of them because a lot of them were still product keywords.
+
+**Sydney Arin Go:** A lot of them, like, and it's not on Marisol, like, they were good keywords, just not for what the customer needed.
+
+**Sydney Arin Go:** And if I had four or five hours a day to sit down with her, not even four or five, like two hours a day to sit down with her and actually.
+
+**Sydney Arin Go:** And her on how to do keyword research, specific for Sentinel-1, then we could get to a place where she's doing the keyword research, she's doing the ideation, but I don't.
+
+**Sydney Arin Go:** So what will happen is that instead of her getting trained into doing these things, I say, well, I needed this yesterday, so I'm probably going to do it myself because I needed it faster.
+
+**Sydney Arin Go:** And some things will get pushed to the side, or other things will get delayed or accelerated, or, to be quite honest, half-assed, because I don't have the time to do it.
+
+**Sydney Arin Go:** so it's time, we're really, it's, we're racing against time, it's like we're moving at 100 miles per hour, but our people are at 50 miles per hour, and there's that disconnect of, we need either more skill or more time, like one of those two things that has to happen.
+
+**Sydney Arin Go:** Otherwise, like Marisol already did the work, she's put in the hours, we're going to pay for those hours, I'm going to put in the work again, these are more hours, and we're also going to pay for those hours, which is not helpful to GrowthX.
+
+**Sydney Arin Go:** And I think you already know this, but, you know, just an illustrator to illustrate the point again.
+
+**George Haikal:** Yeah, no, that's super helpful.
+
+**George Haikal:** That's super helpful.
+
+**George Haikal:** Yeah, I mean, if anything, like the video you sent over was helpful, you walking through how you work, like anything else like that.
+
+**Sydney Arin Go:** didn't re-watch it because I was blabbering in the background like, oh , I didn't turn off my mic.
+
+**George Haikal:** No, it's It's hilarious.
+
+**Sydney Arin Go:** I'm so sorry.
+
+**George Haikal:** No, no, no, it's good.
+
+**George Haikal:** It's actually insanely valuable, honestly.
+
+**George Haikal:** And then any other, like what you just told me was valuable to, like any other things that pop up to mind, like, hey, this took a ton of time.
+
+**George Haikal:** Anything like that, that's what we're, like, actively trying to fix and make better and easier.
+
+**Sydney Arin Go:** Not really.
+
+**Sydney Arin Go:** Maybe the only other thing is a standardized handoff, like, workflow.
+
+**Sydney Arin Go:** Because I have my own handoff document that I give to everyone that I hand off to.
+
+**Sydney Arin Go:** And I think it has everything that I would want in a handoff document, but that's me.
+
+**Sydney Arin Go:** I'm pretty sure there's so many things missing in that handoff document.
+
+**Sydney Arin Go:** So, probably just a standardized way of doing that so that we're not just kind of throwing the dart at the next person saying, hey, figure this.
+
+**George Haikal:** You mean hand off to the delivery?
+
+**Sydney Arin Go:** Yes, because I just handed off metronome, actually, which is why I have a lot more time this week, hopefully, which is great.
+
+**George Haikal:** Yeah, that was a crazy one.
+
+**Sydney Arin Go:** That was a crazy one, for sure.
+
+**Sydney Arin Go:** Panzer's going to have a lot of fun with them, I'm sure.
+
+**George Haikal:** Oh, I know.
+
+**George Haikal:** And like yesterday, we had a call with them.
+
+**Sydney Arin Go:** They want a newsletter now, too, so.
+
+**Sydney Arin Go:** Oh, great.
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** But hopefully, if they pay more for it, you know, But you know what?
+
+**Sydney Arin Go:** To be completely honest, I think that metronome is probably one of the ideal customers that we should have.
+
+**Sydney Arin Go:** Because I'm putting in all of this work in the front during the strategy sprint, and by the end of this, I can get them to a place where their artifacts are pretty much doing everything that they want, because they've given me all of this feedback.
+
+**Sydney Arin Go:** And so when we handed off to the wider delivery team, like, hopefully, they should be at that point where it's just...
+
+**Sydney Arin Go:** And I run like a well-oiled engine.
+
+**Sydney Arin Go:** mean, so they are kind of in that ideal.
+
+**Sydney Arin Go:** The not ideal part is them asking for more and more and more and more and more work.
+
+**Sydney Arin Go:** But the amount of feedback that we're getting from them, the amount of care, the amount of, you know, back and forth that we're having, that's what we want from the customers, right?
+
+**George Haikal:** A hundred percent.
+
+**George Haikal:** A hundred percent.
+
+**George Haikal:** Yeah, so it's definitely not all for naught.
+
+**George Haikal:** Even if they don't continue the work streams after and they just go regular and total, it's still not for naught because it's going to make everyone's lives so much easier.
+
+**George Haikal:** We're actually running and managing that account.
+
+**George Haikal:** And we learned so much from doing it, too, so.
+
+**Sydney Arin Go:** Oh, yeah.
+
+**Sydney Arin Go:** No, they're, I know a lot about the finance space now.
+
+**Sydney Arin Go:** More than I probably should know not working in finance.
+
+**George Haikal:** Usage-based billing, baby.
+
+**Sydney Arin Go:** There you go.
+
+**George Haikal:** Oh, God.
+
+**Sydney Arin Go:** I dreamt about their drafts last night.
+
+**Sydney Arin Go:** I dreamt about how to more efficiently edit their drafts using quad.
+
+**George Haikal:** And I actually did it this morning.
+
+**George Haikal:** Oh, my God.
+
+**Sydney Arin Go:** Thanks.
+
+**Sydney Arin Go:** And I was like, what is going on in my life?
+
+**George Haikal:** Wow.
+
+**George Haikal:** Wow.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** You are AI now at this point.
+
+**George Haikal:** God, please don't say that.
+
+**Sydney Arin Go:** I woke up going, was I, did I not, I feel refreshed, but was I working in my dreams?
+
+**George Haikal:** Yeah, no, I have that too, just like hyper-realistic dreams.
+
+**George Haikal:** Like, did I actually do that or was that just a dream?
+
+**George Haikal:** So funny.
+
+**Sydney Arin Go:** Yeah, that's fun.
+
+**George Haikal:** Cool, thank you again so much for all the help.
+
+**George Haikal:** And like anytime something comes up, hey, this is taking me a long time.
+
+**George Haikal:** This is really frustrating.
+
+**George Haikal:** Like, whatever it is, feel free to let me know because that's literally what I'm trying to help with.
+
+**Sydney Arin Go:** Yeah, and congratulations on Chief of Staff.
+
+**George Haikal:** Super exciting.
+
+**George Haikal:** Thank you.
+
+**George Haikal:** I'm a little more tired from the last two months, but it's good.
+
+**George Haikal:** Learning a lot.
+
+**George Haikal:** That's the way I look at it too, similar to you.
+
+**George Haikal:** I just want to learn as much as possible, so.
+
+**Sydney Arin Go:** Oh, yeah.
+
+**Sydney Arin Go:** My old boss at Semrush used to say, this isn't your forever place, but whatever you take here, you're bringing with you forever.
+
+**George Haikal:** Exactly, we're on the front lines, so we're lucky to be able to be learning and exposed to this stuff.
+
+**Sydney Arin Go:** Yeah, there's, off topic, but I'm doing an agentic AI creation thing with MindFlow, MindStudio, Mind something.
+
+**Sydney Arin Go:** I mean, it's a 30-day boot camp, and it's quite interesting.
+
+**Sydney Arin Go:** I'm actually going to try to see if I can create an AI agent that will chat with me about the sales process of customers.
+
+**Sydney Arin Go:** It's like putting in what the ideal persona of a customer is into the AI, and then have it talk to me as if it were a customer, so we can test out the docs that we're creating.
+
+**Sydney Arin Go:** I'm going to try, I'm not sure I can do it, because it's a lot of programming, and my brain is already pretty fried.
+
+**Sydney Arin Go:** But if we can do it, that'd be kind of cool.
+
+**George Haikal:** You have to be pretty technical for that course?
+
+**Sydney Arin Go:** A little bit technical, I think, but not too much.
+
+**George Haikal:** I can send you the link later if you want.
+
+**Sydney Arin Go:** It's pretty cool, though.
+
+**Sydney Arin Go:** I know they're opening Cohort 2, but they've got like...
+
+**Sydney Arin Go:** 14,000 applicants.
+
+**George Haikal:** This is very lucky to get in when there was only like 1,000.
+
+**George Haikal:** Oh, , really?
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Is it live videos?
+
+**Sydney Arin Go:** Is it like live workshops or what is it?
+
+**Sydney Arin Go:** Yeah, every Monday at 9 a.m.
+
+**Sydney Arin Go:** there is a call PST, but then I can't make it because I usually have meetings, but there's a recording afterwards.
+
+**Sydney Arin Go:** And then every week you have homework and then like guides and everything that have to go through.
+
+**Sydney Arin Go:** And then every Friday you have to submit an AI agent that you created based on what you worked on last week.
+
+**George Haikal:** And it's over 30 days, so four weeks.
+
+**George Haikal:** Damn, that's awesome.
+
+**Sydney Arin Go:** Yeah, send me out how you're liking it.
+
+**Sydney Arin Go:** And it's free, which is the best part.
+
+**Sydney Arin Go:** It's free because I think they're still also learning about their customers.
+
+**Sydney Arin Go:** So you also get free access to their AI agent builder, which is really pretty cool, actually.
+
+**George Haikal:** It's pretty intuitive as well.
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** Yeah, I'll send to you.
+
+**Sydney Arin Go:** Super cool.
+
+**Sydney Arin Go:** Good stuff, Sydney.
+
+**Sydney Arin Go:** That's awesome.
+
+**Sydney Arin Go:** Okay.
+
+**Sydney Arin Go:** Cool.
+
+**Sydney Arin Go:** Thanks, George.
+
+**Sydney Arin Go:** We'll talk soon.
+
+**Sydney Arin Go:** Bye.
+
+**Sydney Arin Go:** Bye.

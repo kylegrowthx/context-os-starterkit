@@ -1,0 +1,1962 @@
+[
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Cool, okay, so obviously it's a little bit different to the keyword gap because we're just looking at Airbytes specifically, but you basically start with like the subfolders, right, so data engineering resources was one, and then I'll just load the blog in just so can see, so like this would come up, come on, yeah, so you can see there's like a thousand keywords, right, so this is just searching from the blog folder, and then it's straightforward, like it's a simple export, and you just export them all, right, so this one had a thousand, actually the data resources one had like, this is being slow, yeah, so crazy, but basically all this does is like,",
+    "timestamp": "00:00:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It means we're only, like, scraping from that specific subfolder.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So you export both these files as CSVs, save them, and then, look, I've already built this Airtable, but I'm going to just, like, talk you through step-by-step how you do it.",
+    "timestamp": "00:01:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, so you obviously start with a blank.",
+    "timestamp": "00:01:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I don't know if you need to move the tab or something on the screen here.",
+    "timestamp": "00:01:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:01:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:01:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:01:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Cool.",
+    "timestamp": "00:01:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I've set up a new Airtable base.",
+    "timestamp": "00:01:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "guess, like, if it was, like, if you were starting out with keyword research, would be in the, like, client's content OS.",
+    "timestamp": "00:01:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But the process is the same.",
+    "timestamp": "00:01:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I've obviously already built this.",
+    "timestamp": "00:01:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You can see down here it's 18,500.",
+    "timestamp": "00:01:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So these are our 17 and a half plus thousand.",
+    "timestamp": "00:01:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I've already imported them.",
+    "timestamp": "00:01:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And the way you would do that, again, you probably know.",
+    "timestamp": "00:01:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then you just like map the fields.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So what's important is like before the import, there's going to be a load of like a load of fields from SEMrush, like traffic and whatever, a load of other stuff.",
+    "timestamp": "00:02:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You only really need this.",
+    "timestamp": "00:02:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Marcel had Intense, but like because we're only looking at the URLs, it wouldn't map to that table anyway.",
+    "timestamp": "00:02:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I basically just cut down the things that we like really care about is search volume, keyword difficulty, and then obviously the keyword itself and the URL.",
+    "timestamp": "00:02:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:02:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Sometime, once you've imported like one CSV file in and mapped the fields, there's something about Airtable that like when you then try to import further keywords, like the URL field won't map to the URL column for some reason.",
+    "timestamp": "00:02:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I just like work that around by adding and you just add an extra field.",
+    "timestamp": "00:02:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You can map.",
+    "timestamp": "00:02:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You can map the URLs to the extra field, and then you just have to, like, basically select them all and copy and paste them.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, a little hack.",
+    "timestamp": "00:03:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:03:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "So you imported both CSVs there then?",
+    "timestamp": "00:03:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah, exactly.",
+    "timestamp": "00:03:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I've imported both CSVs.",
+    "timestamp": "00:03:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "When you import the first one, you set the fields, and then the second one will, like, map on.",
+    "timestamp": "00:03:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And you just want to make sure that, like, sometimes the table's funky and it maps the wrong columns.",
+    "timestamp": "00:03:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But you just want to make sure these are the ones you care about.",
+    "timestamp": "00:03:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:03:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And primarily because what we're trying to do here is identify, like, airbytes pages that have, like, the highest potential for search volume and the most amount of keywords.",
+    "timestamp": "00:03:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, this is why search volume is important.",
+    "timestamp": "00:03:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And we also want the keyword difficulty because it's going to average it in the next time.",
+    "timestamp": "00:03:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:03:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:03:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So then once that's loaded in, you basically go to the URL column, and you would edit field, and you basically link, you would press a link to another for you go.",
+    "timestamp": "00:03:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "There go.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And when you press that, it's going to then create a new page.",
+    "timestamp": "00:04:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I'm just going to cancel out, but basically you'd say link to another record, create a new, whatever the term is, guess, table, or link to another record.",
+    "timestamp": "00:04:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then it's going to generate this.",
+    "timestamp": "00:04:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And what's happening is like, you now have all of these, all of these URLs have been pushed over.",
+    "timestamp": "00:04:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And what's important is like, now you have all the keywords from those URLs.",
+    "timestamp": "00:04:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:04:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But like, this is like, this is the crucial step.",
+    "timestamp": "00:04:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So linking to another record, it's going to create a new table.",
+    "timestamp": "00:04:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then when you open this table.",
+    "timestamp": "00:04:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And it just works automatically?",
+    "timestamp": "00:04:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, exactly.",
+    "timestamp": "00:04:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "does.",
+    "timestamp": "00:04:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And what it will actually look like when you first do it is this.",
+    "timestamp": "00:04:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:04:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "That's all you get.",
+    "timestamp": "00:04:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So once you link to another record.",
+    "timestamp": "00:04:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "From the URL column, it's going to create this new URLs view, I guess, table.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And this is what you're going to get.",
+    "timestamp": "00:05:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:05:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So now you have like each page and all the keywords that are related to it.",
+    "timestamp": "00:05:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Because obviously like in that, in this column, sorry, in this table.",
+    "timestamp": "00:05:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Some of the URLs repeat.",
+    "timestamp": "00:05:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Loads, yeah.",
+    "timestamp": "00:05:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Loads repeating, right?",
+    "timestamp": "00:05:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So while we have 18,000 records, keywords...",
+    "timestamp": "00:05:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "One URL might have 400 of them.",
+    "timestamp": "00:05:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Exactly.",
+    "timestamp": "00:05:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, we don't have that many URLs.",
+    "timestamp": "00:05:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So what this view is doing is basically map all those keywords to the URLs.",
+    "timestamp": "00:05:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "And we got what, like 700 or so here?",
+    "timestamp": "00:05:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "728, yeah.",
+    "timestamp": "00:05:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:05:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "And does that sound right?",
+    "timestamp": "00:05:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, I don't know if you've done like a site map for Airbyte yet or anything like that.",
+    "timestamp": "00:05:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I think they have like 2,000 something pages in total.",
+    "timestamp": "00:05:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "It can us",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "But it makes sense for the data engineering directory and blog, you know, because I'm not gonna, it makes no sense for us to, and I can, I'll argue with Marcel about this, to like update their docs, because they have like docs pages and stuff where it's like, yeah, glossary pages, like I'm not gonna refresh those.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "If they want to, we can, but like, especially the glossary pages might be, but I might as well start with something that's like 700 of them, where I know they do the blog and they're, you know, we could have probably added top ETL tools in there as well, you know?",
+    "timestamp": "00:06:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, so that's kind of interesting.",
+    "timestamp": "00:06:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This is kind of a side note, but like we have the same with Bafi, like they had a docs repository that was like really popular with like their user base, because obviously like that's where they're spending a lot of time.",
+    "timestamp": "00:06:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And a lot, when we did like a site audit on SEMrush for Bafi, a load of like the issues were related to the docs pages, like 404.",
+    "timestamp": "00:06:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And broken links and all this kind of stuff.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And I was like, I said the same thing at the time.",
+    "timestamp": "00:07:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, you know, is this, is this stuff worth fixing?",
+    "timestamp": "00:07:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And Panzer made a really good point.",
+    "timestamp": "00:07:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "He was like, a lot of like customer retention and like recommendation, like word of mouth type thing to like other people in the field, like in Baffi's case, like other developers.",
+    "timestamp": "00:07:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's like, if the doc, like the docs experience should also be good.",
+    "timestamp": "00:07:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And so, so I agree, like for like SEO and like, for the, like, I guess the core of like the service that we're doing, then yes, like focus on the blog.",
+    "timestamp": "00:07:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But like, it is quite, it is an interesting topic for a lot of these, like a lot of these clients that have the docs repos, then it is maybe something that we should like think about more, like spending time in those and not optimizing them for like SEO, SEO, but like optimizing experience, yeah.",
+    "timestamp": "00:07:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:07:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I don't disagree with you, I just know in terms of for us at GrowthX, we're trying to get results for Mario to see that these refreshes work, and it's like SEO is the lowest hanging fruit there, but I completely agree with you, and there was a bunch of, the way I did my refresh kind of analysis was through Google Analytics and Google Search Console, and basically finding what pages have, decrease in traffic, what has more traffic, not necessarily keyword based, you know, for our workflows going through by keyword makes more sense, and just finding the actual page itself, because I also have like, you know, let me see how many I had here, refresh, yeah, like, like another, yeah, six, seven hundred, you know, so it's around that ballpark.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, okay, okay, well then, we're like, yeah, think it's, I mean, it's, it's all kind of a mix of like,",
+    "timestamp": "00:08:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Different tools, you know, I was doing research earlier for Monograph, and like, you know, I'm looking at like their top ranking pages in Google's search console, as opposed to just doing, just putting like architecture into SEMrush, like you get, it's like, it's good.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I think it's good to like source from multiple sites, but, okay, cool.",
+    "timestamp": "00:09:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So basically, once you do that, once you do that link to another record, you're going to get this page.",
+    "timestamp": "00:09:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:09:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This says imported table, should, it should say keywords.",
+    "timestamp": "00:09:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's just because I didn't map the name correctly, but I didn't change this name before I did it.",
+    "timestamp": "00:09:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "So that's fine.",
+    "timestamp": "00:09:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I would say like keywords.",
+    "timestamp": "00:09:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:09:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So then, so great.",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We have like all of the URLs that we're like.",
+    "timestamp": "00:09:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And what are those three other columns you added on to?",
+    "timestamp": "00:09:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I'll show you the answer.",
+    "timestamp": "00:09:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, um, so first, like now we have a database of like potential.",
+    "timestamp": "00:09:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But now we need to figure out, okay, which ones do we want to prioritize?",
+    "timestamp": "00:10:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And like Marcel was saying, we want to try and go for the ones that have the highest volume, essentially, like easy wins.",
+    "timestamp": "00:10:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So the first thing you do is we want to know how many keywords are on each page.",
+    "timestamp": "00:10:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I've obviously already created this, but basically this is how you would do it.",
+    "timestamp": "00:10:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'll just reverse engineer it.",
+    "timestamp": "00:10:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So like you would go in here, you'd add a table, and what you want to do is select rollup, okay?",
+    "timestamp": "00:10:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So rollup's here.",
+    "timestamp": "00:10:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's like this little wheel thing.",
+    "timestamp": "00:10:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And we're rolling up this imported table.",
+    "timestamp": "00:10:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "should say keyword, but it's just this column, imported table.",
+    "timestamp": "00:10:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And what we're doing here is a count A.",
+    "timestamp": "00:10:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we're counting, this is like the formula that we're using is count A values, like we're counting how many in",
+    "timestamp": "00:10:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Individual keywords are in here, okay, and that's giving us this number, right, so okay, on the page, we've got whatever this many, and then you can start to see like, okay, some of these pages, know, like this one only has 20, you know, you start to tell like, okay, maybe that's not going to be one that we want to focus on straight away, so and then when you've done that, that now you have an average keyword difficulty, so this is rolling up from, so by the way, all these inputs are coming from the keyword page.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This, like, this, this table is linked from the keywords page, like, we're drawing data from that keyword page, so in here you can see these, like, these choices, these are all from the previous page, from the initial import, right, so we can map it to that, so we're rolling up keyword difficulty, and here we want to find an average, so it's making all of these things, it's looking, it's looking at the previous view, and it's saying, this is like the average difficulty for this page.",
+    "timestamp": "00:11:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Right.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And again, you can start to, this is another good filtering tool, because we can start to go, okay, something up here, this might be difficult to rank for, but then when you start to see lower ones, you get what I mean, get where I'm going.",
+    "timestamp": "00:12:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then the final one is total volume.",
+    "timestamp": "00:12:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And what this is doing is mapping, it's another rollup, and it's mapping from search volume in the previous tab.",
+    "timestamp": "00:12:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we can see here, like, the volume here, it's taking it for each keyword, and basically in here, it's taking 473 keywords.",
+    "timestamp": "00:12:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And it's basically giving us the volume for each one, multiplying it, and there we get the total volume.",
+    "timestamp": "00:12:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:12:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "And the thing is, Lo, like, I'm looking at this and it's like, well, but if I'm ranking first, you know, this has 473 keywords, and I'm ranking first for most of them.",
+    "timestamp": "00:12:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "No.",
+    "timestamp": "00:12:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "kind Perfect.",
+    "timestamp": "00:12:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I've, I've \u043a\u0430\u043a\u0438\u0435 Yeah.",
+    "timestamp": "00:12:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Like, why would we refresh it?",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "You know what I mean?",
+    "timestamp": "00:13:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, so the positioning wasn't in, like, the initial gap.",
+    "timestamp": "00:13:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's a good point.",
+    "timestamp": "00:13:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "mean, I guess, like, because Marcel said, like, they all should be refreshed.",
+    "timestamp": "00:13:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You know, like, refreshing content that's already ranking well, I'm not, like, I really don't know how to give you answers on that.",
+    "timestamp": "00:13:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I don't know what the best, like, practice is.",
+    "timestamp": "00:13:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I get your point.",
+    "timestamp": "00:13:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's like, why would you refresh it if it's already performing well?",
+    "timestamp": "00:13:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And I don't know if there's a more efficient way to do this other than, like, checking page by page.",
+    "timestamp": "00:13:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But it's probably worth now, like, taking, you know, we have a rank here.",
+    "timestamp": "00:13:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What we've done is rank this by, like, the total, like, potential volume for this page, right?",
+    "timestamp": "00:13:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "If we were top...",
+    "timestamp": "00:13:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like all of these, if we were like top for all of these keywords, like here, this is how I want potential volume.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I guess like you wouldn't want to check for the keywords.",
+    "timestamp": "00:14:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You probably just want to like check these pages.",
+    "timestamp": "00:14:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Um, the kind of quality.",
+    "timestamp": "00:14:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:14:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And see, okay, well try and figure out like, okay, if it's ranking well, like how can it be improved?",
+    "timestamp": "00:14:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Because I don't, again, I, I'm, I'm not a hundred percent sure, but, um, it might be worth asking, um, I don't think who would be a good, you know, even, it might be worth asking Panzer that, like in general, I would be quite, I'd be quite interested to know his view on like refreshes of like pages that are like already performing very well, um, from an SEO standpoint.",
+    "timestamp": "00:14:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But like this, this is going to give you, um, so I think in the keyword gap, like it was.",
+    "timestamp": "00:14:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "A while ago when we did this, but basically, like, this would have been competitive pages, right?",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we would have been doing it not for AirBite.",
+    "timestamp": "00:15:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We would have been, like, we would have been taking a load of competitors to AirBite, and we'd have this view.",
+    "timestamp": "00:15:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then we'd be able to, like, start creating assignments based on these competitive URLs, saying, like, okay, this one, like, has a super high potential.",
+    "timestamp": "00:15:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And you start, like, building the gap analysis from that.",
+    "timestamp": "00:15:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But, yeah, like, this is now, I think this is the database that Marcel was, like, talking about on the call.",
+    "timestamp": "00:15:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah, yeah.",
+    "timestamp": "00:15:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Here is your list of, like, the big guys.",
+    "timestamp": "00:15:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then you can, obviously, like, I've sorted by volume, but, you know, you could then, like, add a sort.",
+    "timestamp": "00:15:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's, like, you could sort by difficulty and then by volume or something like that to make it, I guess, go after it however you want.",
+    "timestamp": "00:15:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But I think the right thing should",
+    "timestamp": "00:15:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It was just go from, you know, the top 100 or 150.",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:16:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I'm just trying to, like, figure out if I'm looking at some of these pages where they would kind of show up.",
+    "timestamp": "00:16:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:16:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Now look at this.",
+    "timestamp": "00:16:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Keywords here.",
+    "timestamp": "00:16:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Keywords, like, skewed data set.",
+    "timestamp": "00:16:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah, our byte is first for that, you know.",
+    "timestamp": "00:16:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So this is, like, top page by that.",
+    "timestamp": "00:16:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "And I'm looking at my refresh tool.",
+    "timestamp": "00:16:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "See, because it's.",
+    "timestamp": "00:16:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Also, certain things, like, for example, if you go to the keywords, like, the first one is, like, skewed data.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Here, can show you.",
+    "timestamp": "00:17:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:17:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "It's, like, skewed data set, right?",
+    "timestamp": "00:17:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Position is number one.",
+    "timestamp": "00:17:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "And when I Google it, it's, like, number one when I actually check on Google.",
+    "timestamp": "00:17:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "But when I was working on my refreshes, I could see this page, skewed data, number one, had a decrease of 42%.",
+    "timestamp": "00:17:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, so it's just, like, a non-competitive URL, perhaps?",
+    "timestamp": "00:17:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:17:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Sorry, a non-competitive keyword?",
+    "timestamp": "00:17:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "But, yeah, it decreased, I guess, by 42% was the decrease in terms of in a year.",
+    "timestamp": "00:17:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Humanity, you know?",
+    "timestamp": "00:17:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I mean.",
+    "timestamp": "00:17:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Hang on.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah, mean, I'll run this through, and we'll see what happens.",
+    "timestamp": "00:18:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I mean, look, I think this is what he was talking about.",
+    "timestamp": "00:18:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, this is the way that he would approach it.",
+    "timestamp": "00:18:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I'll send him this air table as well and see what, like, he thinks.",
+    "timestamp": "00:18:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Just to get his opinion and see if, you know, if I'm on the right track.",
+    "timestamp": "00:18:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Because there's a lot of pages here, and some of them 100% should be...",
+    "timestamp": "00:18:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Like, what I do is I wish I could see the change in the actual traffic of the page, let's say, over a period of time, like a year.",
+    "timestamp": "00:18:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I think that would also make it a lot more clear in terms of which one we could touch up, you know?",
+    "timestamp": "00:18:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, mean, like, the rankings are also, like, so much, you know, the rankings?",
+    "timestamp": "00:18:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "so things.",
+    "timestamp": "00:18:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, when I look for skewed data, for example, on SEMrush, like, I see everybody ranking six on first, you know, so that might be, like, my location, there's various different things, but I think his thing is, like, if it's all AI content, like, kind of garbage, like, we can elevate.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So if it's already doing well, like, we can add internal links, we can strengthen the site, we can add a CTA, we can add a FAQ section, you know, like, there's ways to beef it up.",
+    "timestamp": "00:19:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:19:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:19:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:19:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:19:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Let me know, send that to Marcel, let me know if that's, like, the right method, I'm pretty sure that is.",
+    "timestamp": "00:19:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "No, based on what he was explaining, I think it is, because he was explaining the delta and all that kind of stuff, that's what this is, yeah?",
+    "timestamp": "00:19:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah, it's, like, yeah.",
+    "timestamp": "00:19:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Yeah, okay.",
+    "timestamp": "00:19:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "All right, man, I won't keep you any longer.",
+    "timestamp": "00:19:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Feel free.",
+    "timestamp": "00:19:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Have your night back.",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "I really, really appreciate you showing me this.",
+    "timestamp": "00:20:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "It's a much clearer explanation than I've heard.",
+    "timestamp": "00:20:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "It's in HD for a change.",
+    "timestamp": "00:20:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's in HD for sure.",
+    "timestamp": "00:20:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "But like watching it, makes perfect sense.",
+    "timestamp": "00:20:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "And I know exactly where I was kind of getting lost last time.",
+    "timestamp": "00:20:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "And you explained the reasoning really well as well.",
+    "timestamp": "00:20:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And in future, like if you want, I would say, like, I guess some other people might watch this recording.",
+    "timestamp": "00:20:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, it's actually like the easiest thing is to just go and look at, like, I'll put this in the shared folder.",
+    "timestamp": "00:20:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "In the team space, the Airbyte refresh, or like wherever you end up putting it.",
+    "timestamp": "00:20:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's really easy to just go look at the fields and kind of work out, like, okay, how are these generated?",
+    "timestamp": "00:20:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then you kind of know, you know, part it's nice to watch along, but it's also like pretty self-explanatory.",
+    "timestamp": "00:20:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "If you have access to an Airtable that's done this, basically any content OS that's done the keyword gap, like old before the strategy sprint approach, then like the methods just in the, it's in the fields.",
+    "timestamp": "00:20:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like you just can't, you can just go in and see, okay, like this column was generated, like.",
+    "timestamp": "00:20:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Listen, this is the formula here.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, yeah.",
+    "timestamp": "00:21:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Cool.",
+    "timestamp": "00:21:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right, man.",
+    "timestamp": "00:21:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Really appreciate it.",
+    "timestamp": "00:21:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "good night.",
+    "timestamp": "00:21:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Do you want me to share this with George?",
+    "timestamp": "00:21:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, you can drop in that meeting, please, in the Slack.",
+    "timestamp": "00:21:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, okay.",
+    "timestamp": "00:21:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "We'll get the link in Fathom, yeah?",
+    "timestamp": "00:21:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Oh, will we?",
+    "timestamp": "00:21:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I hope so.",
+    "timestamp": "00:21:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I hope to do this again.",
+    "timestamp": "00:21:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Alves-Hill",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right.",
+    "timestamp": "00:21:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:21:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Nemanja Simic",
+      "matched_calendar_invitee_email": "nemanja@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:21:31"
+  }
+]

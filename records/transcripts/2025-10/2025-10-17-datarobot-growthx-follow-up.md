@@ -1,0 +1,778 @@
+# DataRobot <> GrowthX - Follow Up
+
+<metadata>
+date: 2025-10-17
+time: 19:04 UTC
+duration: 38 minutes
+organizer: Tyler Pavlas (GrowthX)
+participants: Marcel Santilli (GrowthX), Tyler Pavlas (GrowthX), Lisa Aguilar (DataRobot)
+fathom_recording_id: 95081473
+fathom_url: https://fathom.video/calls/444237696
+share_url: https://fathom.video/share/Jn8L9FpXL_mRgTv63LQyE4EZ9VneLKGp
+source: fathom
+enriched_on: 2026-03-02 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX (Marcel, Tyler) and DataRobot (Lisa Aguilar) discussed how to create content for rapidly evolving AI concepts that move from research to enterprise grade in months—requiring strategies that don't exist yet in the market. Marcel outlined GrowthX's approach using AI-powered research agents (Exa.ai, Tavly), evaluation loops, and deep collaboration when working on novel topics, emphasizing the importance of establishing baseline content quality first before attempting personalization and repurposing. The team agreed to schedule a follow-up meeting with DataRobot's communications lead to align on processes and explore initial collaboration scope.
+
+---
+
+## Context
+
+DataRobot is an enterprise AI/ML platform company operating at the forefront of AI innovation, where new technologies move from research papers to production in months rather than years. Lisa Aguilar leads their content and communications strategy. The company faces a unique challenge: creating thought leadership content for novel AI concepts (like agentics, RAG, mixture of experts) that have no established language or market understanding yet. Simultaneously, they must balance thought leadership content with conversion-focused content that addresses actual buyer intent. This follow-up call built on an earlier conversation where Tyler introduced GrowthX's content services and Marcel (GrowthX CEO) joined to address DataRobot's core question: how do you create high-quality content for concepts that don't yet exist in the world?
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Novel topic research methodology required for AI/ML companies at the innovation frontier. GrowthX uses Exa.ai and Tavly for deep agent-driven research on topics with limited public information, not just standard search queries.
+- Emphasis on collaborative output loops: clients must invest time in calibration and feedback during the first 2-4 weeks to establish baseline quality before scaling volume.
+- Baseline-first sequencing: establish content quality standards on core concepts before attempting ABM personalization or video repurposing—avoiding overcommitment that stretches research capacity.
+
+**To CheckThat / AEO:**
+- DataRobot mentioned ongoing challenge of LLM search accuracy (still surfacing "DataRobot as AutoML" rather than current platform positioning). Real-world signal of how AI answers products miss nuance in rapidly evolving categories.
+- Video content likely to remain defensible asset despite zero-click search growth and LLM answers because video is harder for systems to index/summarize than text.
+
+**To GrowthX Business Development:**
+- Strong account health signals: Lisa is directly accountable for content strategy outcomes (conversion + thought leadership), suggesting budget authority and multi-year relationship potential.
+- Expansion opportunity: DataRobot interested in content repurposing (topic ideation, video-to-written formats) and ABM personalization after establishing baseline, with no ceiling on scalability of lower-tier offerings.
+- Reference potential: Megan Boone (ThoughtSpot, now GrowthX customer) was mentioned as Lisa's connection, confirming warm reference channel within enterprise AI/ML ecosystem.
+- Next step: scheduling follow-up with DataRobot's corporate comms lead + one additional team member to align on process—indicator of broader stakeholder buy-in and seriousness of engagement.
+
+---
+
+## Overview
+
+- DataRobot faces challenges creating content for rapidly evolving AI concepts that are new to the market
+- GrowthX uses advanced research tools and processes to tackle novel topics, but emphasizes building a strong foundation first
+- Content repurposing and ABM personalization are potential future areas of collaboration after establishing baseline quality
+- Adapting to DataRobot's specific tone and technical depth will require iterative collaboration and feedback
+
+---
+
+## Key Topics
+
+### DataRobot's Content Creation Challenges
+
+  - Unprecedented speed of AI innovation: concepts move from research to enterprise-grade in months
+  - Creating content for ideas that didn't previously exist in the market
+  - Balancing thought leadership with audience maturity and conversion potential
+  - Shifting from AutoML roots to new AI offerings while maintaining SEO presence
+
+### GrowthX's Content Approach
+
+  - Uses AI-powered research agents (e.g., Exa.ai, Tavly) for deep, high-quality source gathering
+  - Implements evaluation loops and confidence scoring during content creation
+  - Builds knowledge bases and company-specific artifacts to improve context over time
+  - Focuses on establishing baseline quality before tackling more complex, personalized content
+
+### Content Distribution and Repurposing
+
+  - Video content likely to remain valuable despite changes in search behavior
+  - GrowthX can assist with topic ideation and repurposing existing video/podcast content
+  - Future potential for end-to-end video production services, though not currently offered
+
+### Account-Based Marketing (ABM) Personalization
+
+  - DataRobot interested in hyper-personalized content for specific accounts/industries
+  - GrowthX has experience creating company dossiers and sales enablement materials
+  - Recommended approach: establish baseline content quality first, then explore ABM options
+
+### Adapting to DataRobot's Voice and Technical Depth
+
+  - Challenge: maintaining a balance between enterprise credibility and approachable tone
+  - GrowthX can iteratively refine writing guidelines, style artifacts, and proofreading checklists
+  - Emphasis on collaborative feedback to improve output over time
+
+---
+
+## Action Items
+
+**Tyler Pavlas (GrowthX)**
+- Email Lisa Aguilar to schedule follow-up meeting with Marcel Santilli, DataRobot's corporate communications lead, and one additional DataRobot team member to align on content creation process and next steps for collaboration
+
+---
+
+## Transcript
+**Tyler Pavlas:** Hey, Marcel.
+
+**Tyler Pavlas:** You're on mute.
+
+**Lisa Aguilar:** Happy Friday.
+
+**Lisa Aguilar:** I apologize for being so late.
+
+**Lisa Aguilar:** We were running over with my executive, so, you know.
+
+**Lisa Aguilar:** Yes, sometimes when they get going, they'll keep going.
+
+**Marcel Santilli:** Talk too much, you know, us people talk too much.
+
+**Marcel Santilli:** So good to see you, Lisa.
+
+**Lisa Aguilar:** How are you?
+
+**Lisa Aguilar:** Good.
+
+**Lisa Aguilar:** It's very nice to meet you.
+
+**Lisa Aguilar:** I saw your video.
+
+**Lisa Aguilar:** So that's why I recognize that face.
+
+**Marcel Santilli:** I think you have a video of yourself explaining growthx, yes?
+
+**Marcel Santilli:** Oh, yes.
+
+**Lisa Aguilar:** Oh, my God.
+
+**Marcel Santilli:** It's been so long I recorded that, I forgot about it.
+
+**Lisa Aguilar:** That's why I was like, you look familiar.
+
+**Marcel Santilli:** I'm like, I know.
+
+**Marcel Santilli:** I saw the video.
+
+**Marcel Santilli:** Funny enough, I was just doing a workshop recording.
+
+**Marcel Santilli:** And so I have like grid lighting and then our video producer Will over there.
+
+**Marcel Santilli:** And so we launch a community called AILEDgrowth.com.
+
+**Marcel Santilli:** So I've been doing essentially open sourcing how we work internally a lot.
+
+**Marcel Santilli:** And our whole premise is just like, if people want to do it internally, they're going to want to do it internally anyways, themselves.
+
+**Marcel Santilli:** So why not help them do it?
+
+**Marcel Santilli:** And it's not like we're doing mad science over here.
+
+**Marcel Santilli:** You know, and then there's a lot of workflows and things.
+
+**Marcel Santilli:** Things that we build that is cool and it helps us do our job better and things like that.
+
+**Marcel Santilli:** But then like it allows us to build a cool community whether they work with us or not, you know, so that's kind of the idea.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** And it's a good segue to, think, like, Lisa, our first conversation, right?
+
+**Tyler Pavlas:** Like we went into GrowthX at a high level, how we work, content we've created for our clients.
+
+**Tyler Pavlas:** And then you brought up like a super valid question around a lot of the content that we would create is like being defined, right?
+
+**Tyler Pavlas:** It's like current innovations.
+
+**Tyler Pavlas:** How would GrowthX approach that?
+
+**Tyler Pavlas:** And so I figured like best person to talk about that would be our CEO, Marcel.
+
+**Tyler Pavlas:** And no worries about being late.
+
+**Tyler Pavlas:** Like I needed to catch up with him anyways.
+
+**Tyler Pavlas:** And we got like 15 minutes to catch up.
+
+**Marcel Santilli:** So all good.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And you were at ThoughtSpot.
+
+**Marcel Santilli:** didn't realize it.
+
+**Marcel Santilli:** Were you, did you work with Megan or it looks like.
+
+**Marcel Santilli:** Megan Boone?
+
+**Lisa Aguilar:** Yeah.
+
+**Lisa Aguilar:** Yeah.
+
+**Lisa Aguilar:** How do you know Megan?
+
+**Marcel Santilli:** Well, she's a customer now.
+
+**Marcel Santilli:** And also I consider her a friend and I've just.
+
+**Marcel Santilli:** I've known her for years, and they just recently signed up as a customer.
+
+**Marcel Santilli:** then did you work with John, who's at Brex now, too?
+
+**Lisa Aguilar:** John, last name.
+
+**Marcel Santilli:** He worked under, I'm trying to remember his last name.
+
+**Lisa Aguilar:** Scott?
+
+**Lisa Aguilar:** Scott Holmes?
+
+**Tyler Pavlas:** It's a long, long last name that starts with a K-O-W.
+
+**Marcel Santilli:** Koweski, Koweski.
+
+**Marcel Santilli:** Koweski, okay, no, I think you might not.
+
+**Marcel Santilli:** I don't see you as a common connection.
+
+**Marcel Santilli:** But anyways, Megan is awesome.
+
+**Marcel Santilli:** And I didn't realize you were at ThoughtSpot before.
+
+**Marcel Santilli:** was just looking up.
+
+**Marcel Santilli:** So that's cool.
+
+**Lisa Aguilar:** Yeah, I know.
+
+**Lisa Aguilar:** I feel like the world of tech is very, very small.
+
+**Marcel Santilli:** It's small world.
+
+**Marcel Santilli:** Like, it's crazy.
+
+**Marcel Santilli:** But I'm super familiar with, well, I don't want to say super familiar, but I'm familiar with DataRobot from my time at SKLEI, you know, marketing there.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And so, but we'd love to, and so understand.
+
+**Lisa Aguilar:** The space decently well.
+
+**Marcel Santilli:** Tell me more about like kind of like the topics and things that you were thinking through that might be more challenging and whatnot, or give me maybe more context in your own words too, because like Tyler did a great job summarizing, but it's always helpful to kind of hear firsthand too.
+
+**Lisa Aguilar:** Yeah.
+
+**Lisa Aguilar:** So it's funny because we're not an AI adjacent company.
+
+**Lisa Aguilar:** We are an AI company, which I'm sure you can appreciate having been at ScaleAI.
+
+**Lisa Aguilar:** And what's interesting is, I hate to use the word, but it's just cheesy because it's true.
+
+**Lisa Aguilar:** It's unprecedented how fast it's moving when you are an AI company at the tip of the AI spear.
+
+**Lisa Aguilar:** So things that historically in our space were research documents that would stay research documents for two years, three years, four years.
+
+**Lisa Aguilar:** These things are now in three months becoming enterprise grade.
+
+**Lisa Aguilar:** So there is no language.
+
+**Lisa Aguilar:** There's no context.
+
+**Lisa Aguilar:** There's no real shape of understanding of that.
+
+**Lisa Aguilar:** And because of that, we have to walk this fine back.
+
+**Lisa Aguilar:** Balance of how do you create content for concepts that just did not exist in the world?
+
+**Lisa Aguilar:** It's like a language you didn't know.
+
+**Lisa Aguilar:** And then all of a sudden you're having to create something.
+
+**Lisa Aguilar:** And it can get kind of tricky sometimes to outsource that.
+
+**Lisa Aguilar:** And then the second thing is, yes, we want to be thought leaders in those things, but we also have to recognize where the market currently is in terms of their maturity when it comes to agentics.
+
+**Lisa Aguilar:** So yes, they may be consuming a lot of information, but are they actually converting?
+
+**Lisa Aguilar:** Because that is the problem they are specifically trying to solve.
+
+**Lisa Aguilar:** And so it's hard because in our space, there's a tremendous amount of search volume because people are just trying to stay informed of like, what is an LLM?
+
+**Lisa Aguilar:** What is a multimodal?
+
+**Lisa Aguilar:** What is a gentic?
+
+**Lisa Aguilar:** What are the things I need to consider for it?
+
+**Lisa Aguilar:** It does not necessarily mean they're in the market for it.
+
+**Lisa Aguilar:** And so we can do a lot of work on creating content.
+
+**Lisa Aguilar:** Which is great, but I need content that's also going to convert and help us tune and understand where our audience is.
+
+**Lisa Aguilar:** And I can't over-index on one versus the other.
+
+**Lisa Aguilar:** then there's, of course, the added challenge of that language in those worlds does not exist.
+
+**Lisa Aguilar:** Like, RAG did not exist.
+
+**Lisa Aguilar:** We knew what it was because we were the tip of the spear, the majority of the world.
+
+**Marcel Santilli:** And then it was like Webster's Dictionary, word of the year, RAG.
+
+**Marcel Santilli:** Yeah, yeah, that's true.
+
+**Lisa Aguilar:** That's what I mean of like.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** And like, there's a couple of things, right?
+
+**Marcel Santilli:** Like, we work with like Surge and, you know, with like, Lovable's not technical artist, but like Augment Code, for example.
+
+**Marcel Santilli:** So there's a lot of concepts within like the topics that we're building.
+
+**Marcel Santilli:** They're like fairly new, like, you know, it's not that they're like necessarily like never been heard of in research papers, but they're not yet part of like how people think about it.
+
+**Marcel Santilli:** And so like how even.
+
+**Marcel Santilli:** Like, the context engine that Augment has and how it kind of understands, like, your entire code base and, like, how things work, you know, and so there are a lot of things there or, like, Galileo AI, there's a lot of things around, like, evals that we create for them that are, like, you know, fairly, I don't want to call it frontier, though, because, like, to me, there's, like, a couple of things.
+
+**Marcel Santilli:** There's things that are novel and not yet widely talked about, but they are talked about in people productizing and applying AI to legit use cases, like RAG being an example, you know, or, like, Laura, for example, was, like, a concept that was kind of, like, kind of very minute or, like, niche at the beginning, and then the second, like, DeepSeq came out and a couple of other things, everybody was like, whoa, whoa, whoa, you can distill models, and, like, you know, and then people were kind of talking more about that, or, like...
+
+**Marcel Santilli:** You know, expert, uh, mixture of expert type of things were like, you know, very unknown.
+
+**Marcel Santilli:** And then all of a sudden it was like, okay, cool.
+
+**Marcel Santilli:** Like, you know, that's a, that's a thing that a lot of people use type of thing.
+
+**Marcel Santilli:** so like, for our work with like base 10, for example, on the inference side, um, and so the way I think about it is like, what we're not going to be great as a partner, most likely are concepts that truly there is no information to research it on, right.
+
+**Marcel Santilli:** Both internally in your company or externally.
+
+**Marcel Santilli:** So we've run into that before where like, there's one that was like non-human identity company and they wanted to have this unique perspective on their space.
+
+**Marcel Santilli:** And I was like, cool.
+
+**Marcel Santilli:** Can we talk to anyone in your space?
+
+**Marcel Santilli:** Like, no, they're too busy.
+
+**Marcel Santilli:** Do you have any docs or anything we can base it on?
+
+**Marcel Santilli:** No.
+
+**Marcel Santilli:** It's like, okay, cool.
+
+**Marcel Santilli:** Like, how can we have unique thought leadership perspective or technical perspective, deep dives into something that you don't even have yourself that's stuck in someone's head.
+
+**Marcel Santilli:** I'm sorry.
+
+**Marcel Santilli:** Like that doesn't work.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so the challenge with that is like, uh, is.
+
+**Marcel Santilli:** It's just like the uniqueness of it.
+
+**Marcel Santilli:** Now, anything that is available, even if it's hard to find, whether it's retrieval based on things that you have internally that haven't been packaged yet to see the light of day, or that requires really deep research, sources that are not your Google search or your perplexity.
+
+**Marcel Santilli:** We use Exa.ai and Tavly, and we have deep research agents I can show you really quickly that go into, and then we can set the agents to the kind of sources that you care about, and validating the criteria and setting evals in the loop for those agents as they're doing research and drafting content and things like that.
+
+**Marcel Santilli:** The way I like to think about it is like, there's a straight off of like, the deeper you go, and the more end up and the more nuance it gets, the more we need to collaborate and probably like the lower the volume of output, because, you know, and the more time requirement it might have on your end.
+
+**Marcel Santilli:** And on just like calibrating and giving us the right insights because you've been there for a minute, you know, and like we're your new employee, right?
+
+**Marcel Santilli:** Like we're extension of your team.
+
+**Marcel Santilli:** We just happen to be an extension of your team that also has amazing system behind it at all.
+
+**Marcel Santilli:** But that's where like when people expect us to reach the same level of understanding you have a DataRobot within two weeks and three weeks or four weeks and have an outcome that's output that's better than what you could generate by spending an obscene amount of time doing it yourself.
+
+**Lisa Aguilar:** Yeah.
+
+**Marcel Santilli:** like that's where we try to be very thoughtful of like being super transparent to of like the expectations, you know.
+
+**Marcel Santilli:** But I don't know if that's helpful, but happy to dig into specific examples of even an actual topic that you care about today, you know, and then we can kind of like even brainstorm it a little bit and just talk through it if you think would be helpful, you know.
+
+**Lisa Aguilar:** No, I think that would be helpful.
+
+**Lisa Aguilar:** The other thing, and Tyler and I, we didn't get a chance to get into it when I got a bit of a demo, is...
+
+**Lisa Aguilar:** think that's it.
+
+**Lisa Aguilar:** No, No, I No, No, No,
+
+**Lisa Aguilar:** Search is changing.
+
+**Lisa Aguilar:** How people find your information is changing.
+
+**Lisa Aguilar:** I do still believe video is still going to be a valuable asset.
+
+**Lisa Aguilar:** think probably more so than written.
+
+**Lisa Aguilar:** think written, everyone's trying to figure out how do I get when an LLM was going to actually show up the right information.
+
+**Lisa Aguilar:** Like, I know when I even look, sometimes it's still referenced DataRobot as AutoML.
+
+**Lisa Aguilar:** I'm like, nope, we still got a lot of work to do to train it to know that we're not AutoML.
+
+**Lisa Aguilar:** And so there, and, you know, in zero click and everything else like that.
+
+**Lisa Aguilar:** But I still think that video is going to remain a viable format that is going to be difficult to eliminate, but it'll probably be much more of a leveraged asset as zero click and LLM search starts to really take off.
+
+**Lisa Aguilar:** And so I'm curious to understand, like, is there your content repackaging aspect?
+
+**Lisa Aguilar:** So not just creating the content, but repackaging in a variety of different ways.
+
+**Marcel Santilli:** I didn't get a chance to dive into that.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** So the way I kind of approached this and we approached this is do we have a reliable engine that is getting net new or refresh content?
+
+**Marcel Santilli:** And when I say refresh, I mean like enrichment, I mean like, you know, bringing up some of your like research fact checking into some of the pages you have live already up to date.
+
+**Marcel Santilli:** You know, is the structure really good?
+
+**Marcel Santilli:** Like, you know, it doesn't necessarily need to be a full rewrite, but it's like, you know, the freshness of content is so important with AI Answers and AU.
+
+**Marcel Santilli:** And then that new, like that meets a quality bar.
+
+**Marcel Santilli:** It's essentially, can you reliably with quality plant new seeds that you feel good about so that you're learning more and you can nurture those seeds and watch those signals?
+
+**Marcel Santilli:** And are you reliably nurturing the seeds that you currently have in your catalog of content?
+
+**Marcel Santilli:** And like, so, so when those two things are true, then like, we're like,
+
+**Marcel Santilli:** Okay, now there's things we can start to do above and beyond the, like, foundation here that is within our control, right?
+
+**Marcel Santilli:** It's like, hey, before you go out there, before you go start to repurpose content and things like that, like, is the foundation really good?
+
+**Marcel Santilli:** And if you have an engine to go put some bets down and want to improve the ones you currently have to increase the chances that it will show up in search and AI answers, right?
+
+**Marcel Santilli:** And then, like, the way we think about it is, like, if you are producing, there's a couple of things.
+
+**Marcel Santilli:** One is, like, do you need ideas and do you need opportunities to be identified that will help you, you know, in whatever you are already going to create in a video format?
+
+**Marcel Santilli:** We can certainly help with that, and that's a lot of what we do with the content strategy.
+
+**Marcel Santilli:** Or do you have a catalog of videos and podcasts like LAOA?
+
+**Marcel Santilli:** We worked with them on their chain of thought podcast they launch, and now they're running it, and we will help with topics and things like that.
+
+**Marcel Santilli:** But then once those are published, like...
+
+**Marcel Santilli:** We actually use that and put it into a knowledge base that we can retrieve as part of our creation process, right?
+
+**Marcel Santilli:** Like, so then we can quote people from the podcast.
+
+**Marcel Santilli:** We can, you know, and that's huge because the authority signals you use in content are becoming more and more important in AI answers, right?
+
+**Marcel Santilli:** Like, so you say you quoting someone that is like a legit person, like an MLAI person or an authority in the space within your content goes a lot further than you just saying the same thing without quoting who it came from, essentially, right?
+
+**Marcel Santilli:** Um, and so those things are, are helpful, but we, we don't do is like, um, although like that's definitely something that in the future we're, we're going to think about is, and we do it for ourselves, but we don't do it for others is like the full end to end, like video production, editing, creation, you know, pre-production, post-production, posting, distributing, all of that other stuff, you know?
+
+**Lisa Aguilar:** Yeah.
+
+**Lisa Aguilar:** Okay.
+
+**Lisa Aguilar:** Um, we are working through some baselines right now.
+
+**Lisa Aguilar:** Um, I think one of the things I keep, uh, trying to make sure my executive.
+
+**Lisa Aguilar:** Leadership Team understands because they want to dive into literally the title of a piece and have a say on it.
+
+**Lisa Aguilar:** And then they want a messaging document about that.
+
+**Lisa Aguilar:** I'm like, okay, it's not what we're trying to achieve here.
+
+**Lisa Aguilar:** It's cost of entry that we're literally trying to get in.
+
+**Lisa Aguilar:** There's that.
+
+**Lisa Aguilar:** I have two competing needs, and I'm curious to hear how you've tackled this right now.
+
+**Lisa Aguilar:** So like I said, there is the cost of entry.
+
+**Lisa Aguilar:** DataRobot is well-known for AutoML, but that is our roots.
+
+**Lisa Aguilar:** That is not where we are.
+
+**Lisa Aguilar:** So we're in this strange area where Databricks went through, where Databricks was really just a data warehouse, and now they're synonymous with an AI company.
+
+**Lisa Aguilar:** They've made that pivot.
+
+**Lisa Aguilar:** We are still the category creators of AutoML, and so we are victims of our own success in there.
+
+**Lisa Aguilar:** So I need us to make sure, because our agentic offering is really robust.
+
+**Lisa Aguilar:** I mean...
+
+**Lisa Aguilar:** Our clientele that uses this are using it because they cannot get those answers anywhere else or solve those problems anywhere else.
+
+**Lisa Aguilar:** But it is a subset of people who are on that part of the maturity journey.
+
+**Lisa Aguilar:** So I need to be able to make sure people who are on that level of the maturity journey know us, find us, and we are there.
+
+**Lisa Aguilar:** The second part of that, and I recognize that is also cost of entry.
+
+**Lisa Aguilar:** It's, you know, we want to make sure we're ranking.
+
+**Lisa Aguilar:** We want to make sure that we're showing up where we want to show up.
+
+**Marcel Santilli:** There's a bit of an awareness aspect of it.
+
+**Lisa Aguilar:** Then I have ABM.
+
+**Lisa Aguilar:** So I don't know how you've done this with your content and the tooling that you have for hyper-personalized.
+
+**Lisa Aguilar:** And I'm not talking about emails.
+
+**Lisa Aguilar:** I'm talking about, I know we're going to create some landing pages.
+
+**Lisa Aguilar:** We're working on, like, different agentic tooling that can take company dossiers that we've created to help create those.
+
+**Lisa Aguilar:** But I'm talking about how can I help my small team curate custom pieces out of baseline pieces that we've created that are specifically targeted to that account, or that
+
+**Lisa Aguilar:** And industry speaking to them in the terms that they want to, because that's where I just have diminishing returns.
+
+**Lisa Aguilar:** And I don't know how you, if you can, or how you've approached it.
+
+**Marcel Santilli:** Yeah, I love that area on the kind of ABM.
+
+**Marcel Santilli:** And we've done things for like Okta and Auth0 around like creating dossiers for the companies doing research.
+
+**Marcel Santilli:** then like even like talking points and guides for like SDRs or strategic accounts.
+
+**Marcel Santilli:** The main thing for us, like one of like, it has been challenging because like my brain immediately is like, yes, let's go do this.
+
+**Marcel Santilli:** This is awesome.
+
+**Marcel Santilli:** But like on the other side, it's like, because we're booked out like six weeks or so and like the amount of demand and like we're trying to make sure like we have a really consistent quality of delivery and service for everyone.
+
+**Marcel Santilli:** Like the more we start with those types of things like that are way more nuanced and require a lot more depth of understanding of your audience, your go-to-market motion.
+
+**Marcel Santilli:** And it has a, tends to have a lot.
+
+**Marcel Santilli:** A lot more stakeholders involved and things like that, that tends to set both of us up for not a quick win, essentially.
+
+**Marcel Santilli:** And I don't want to say failure, but definitely not a quick one, right?
+
+**Marcel Santilli:** And so then in that sense, like it's really hard in that for us to like prove ourselves out in the first eight weeks of our engagement, which is our sprint that then, you know, it's kind of like the what sets everything up.
+
+**Marcel Santilli:** And so that's why we only start with the editorial, because if we can prove out that we can take a new topic that your audience cares about and create a piece of content that you're excited about and take an existing page that is decaying and improve the chances of that page being higher quality and doing well and higher visibility, then we have the foundation of like everything else that in the future we can do everything else if we want to on top of that, right?
+
+**Marcel Santilli:** Like, so that's kind how we think about it is like, do that, which requires for you to gather the same level of context, go just as deep, understand your product, your solutions, like your audience, your personas, the strategy.
+
+**Marcel Santilli:** The topics those people care about, you know, calibrating on the quality, getting to done, and then starting to scale that out, watch signals, and then from that foundation, then we can do everything else.
+
+**Marcel Santilli:** And hopefully that clears your plate a little bit, too, and takes a lot of things off of your plate and your team's plate so that you could also focus on the other things.
+
+**Marcel Santilli:** And then later on, as we build trust with you, then we can explore if we want to tackle those other things, you know.
+
+**Marcel Santilli:** So I just like being transparent because I can be like, yes, we'll do everything for you.
+
+**Lisa Aguilar:** No, I think it's fair.
+
+**Lisa Aguilar:** My other question, now I lost the thread of it.
+
+**Lisa Aguilar:** I think that that's fair, getting the baseline, because those would then require an understanding of a customer plus a foundational understanding of your content.
+
+**Lisa Aguilar:** If you have an example, I think that would be great just to see what you have done.
+
+**Marcel Santilli:** That be awesome.
+
+**Marcel Santilli:** So this is like, I've started doing some stuff on.
+
+**Marcel Santilli:** For ourselves, just which like, because we can't always show every single customer.
+
+**Marcel Santilli:** So just for fun, like we started doing like tech.growthx.ai, just like very recent, just so that I can show you like more openly a lot of things.
+
+**Marcel Santilli:** And so this is an example of like reinforcement learning, you know, and just kind of, this would be a way more custom to DataRobot.
+
+**Marcel Santilli:** But this is the researcher that I mentioned, Ajan, and so what this does here is going to come up, gather all the context on your company and everything else, and what great looks like, and then come up with the research plan, and then synthesize the results as it's fetching it, and then evaluating the quality, and then based on that, either looping through or synthesizing it at the end.
+
+**Marcel Santilli:** So for instance, in this one, the topic is, you know, RLHF, gosh, I clearly need more coffee.
+
+**Marcel Santilli:** And then, like, a lot of it is, like, coming up with the right queries, the success criteria, even the source requirements, like academic papers, official tech documentation, established publications, exclude pure marketing content, right?
+
+**Marcel Santilli:** Like, and this can be tweaked.
+
+**Marcel Santilli:** And then what you could do is also set it up so that it can query from a knowledge base that we built for you, which is like a graph rag.
+
+**Marcel Santilli:** And so it's like a, it's like a, you know, 4G, like, I know what it is.
+
+**Marcel Santilli:** I mean, just the implementation of it is like light graph, or light graph rag.
+
+**Marcel Santilli:** So that's not like the full on so that it allows us to do a lot more things.
+
+**Marcel Santilli:** And so it's like, anyway, so then it like it goes through synthesizes the results, and it has evals in the loop as well, in each section of confidence score that it like actually like hit that.
+
+**Marcel Santilli:** And then evaluating and looping through.
+
+**Marcel Santilli:** And so this is just...
+
+**Marcel Santilli:** It's like one step, right?
+
+**Marcel Santilli:** Like for one piece of content.
+
+**Marcel Santilli:** And so it's like, and then it returns this and you can see kind of like the kind of sources it pulled from, which are tends to be higher quality.
+
+**Marcel Santilli:** Obviously, we can give it a list of white label or white listed sources.
+
+**Marcel Santilli:** Then it's drafting the content, adding links, validating the writing guidelines, doing a bunch of other things, but we can add more processes to it, right?
+
+**Marcel Santilli:** Like this is just meant to be a quick glossary one, right?
+
+**Marcel Santilli:** Yep.
+
+**Marcel Santilli:** And so anyways, that's a little bit of like an example.
+
+**Marcel Santilli:** And then we can also automate, this is like an image generation piece.
+
+**Marcel Santilli:** And then also we've automated a lot of like the infographics to just make the content a little bit richer that like we can actually like put this on.
+
+**Marcel Santilli:** And then like this is like what, you know, a final result will look like there.
+
+**Marcel Santilli:** And it seems to be pretty good.
+
+**Marcel Santilli:** I think.
+
+**Marcel Santilli:** I think it's based on your content and what I've seen, you know, I'm sure this is not the most detailed one, but I would be fairly confident that it would meet this kind of bar.
+
+**Marcel Santilli:** And then as we work together, we can, you know, continue to go deeper and deeper.
+
+**Marcel Santilli:** And then the other thing I would say is also on the, I lost my place here, here we go, is that like on the knowledge base, the benefit of this is that like we're storing everything we're doing in the research as well.
+
+**Marcel Santilli:** And so like over time, like as you're doing the research, like we're just compiling more and more of the research and that way, like you're building up this knowledge base for yourself, you know.
+
+**Marcel Santilli:** And then the other part that's like the really critical part that we do is create this kind of like company, like context and all these artifacts so that it can feed it.
+
+**Marcel Santilli:** Into like a lot, a lot of the context engineering piece that, that is a little trickier to do, not trickier, but it's just like, you want to make, get it right.
+
+**Marcel Santilli:** We help with, and so as we're producing content, if there's nuances of things that we're not getting right, like we're going to go here and update the artifacts, you know, and keep this artifacts up to date.
+
+**Marcel Santilli:** And then you can come and use these artifacts.
+
+**Marcel Santilli:** We can download it for you and you can, you know, use it in however you want to use different AI systems that you have a set of constantly up to date artifacts that, that help you as well.
+
+**Marcel Santilli:** you know, and there's a bunch of other things, but, but just want to kind of give you the big picture.
+
+**Lisa Aguilar:** No, that's good.
+
+**Lisa Aguilar:** think one of the things we've struggled with writing outside with any source, and maybe it's just, everyone has their favorite writer, but our writer that I have now, or my, she's my corporate comms lead.
+
+**Lisa Aguilar:** Nice.
+
+**Lisa Aguilar:** I've been pushing her on the tone.
+
+**Lisa Aguilar:** I'm like, I don't want to sound like an enterprise, but I don't want to sound so crazy, non-enterprise that you can't take us serious.
+
+**Lisa Aguilar:** So she's gotten very good at sharpening the tone.
+
+**Lisa Aguilar:** Yeah.
+
+**Lisa Aguilar:** Of how we speak on our website and things like that.
+
+**Lisa Aguilar:** just wanted you to make sure like that is harder, that gets harder to replicate.
+
+**Lisa Aguilar:** And I'm assuming that what you just showed me is the way that we would try and be able to replicate that a bit easier and faster.
+
+**Marcel Santilli:** Yeah, like so there's a lot of nuances to writing guidelines and style and things like that.
+
+**Marcel Santilli:** You know, like just to give you an example here, like Biologica, which is like kind of in the healthcare space, like the number of like kind of artifacts and things to get it right.
+
+**Marcel Santilli:** Like you might need to decompose it, like intro examples, or you might have like how you talk about their ingredients, for example.
+
+**Marcel Santilli:** There might be like dossiers around like a bunch of different things.
+
+**Marcel Santilli:** And then the writing guidelines might be very like specific.
+
+**Marcel Santilli:** And then the more we have examples as well, the better, you know.
+
+**Marcel Santilli:** And then it's like this is where like over time we're kind of like decomposing it, you know.
+
+**Marcel Santilli:** But then what we started to do as well is like creating proofreading checklists as well.
+
+**Marcel Santilli:** And so like as a post-processing in it as well.
+
+**Marcel Santilli:** So the benefit of doing stuff like that is that like it's going to be, let see, what's the latest one?
+
+**Marcel Santilli:** Yeah, like so this is writing guidelines, for example, and this is integrating the product into the content.
+
+**Marcel Santilli:** And so like there might be some like some nuances where we want to first look at this thing, right?
+
+**Marcel Santilli:** It's drafting and then it adds sources.
+
+**Lisa Aguilar:** then we validate the writing guidelines.
+
+**Marcel Santilli:** Then we can do the proofreading.
+
+**Lisa Aguilar:** Then we validate the medical claims as the last part.
+
+**Marcel Santilli:** Got it.
+
+**Marcel Santilli:** You know, and so like this is just an example of like depending on the level of complexity and whether like our baseline is like where it gets us.
+
+**Marcel Santilli:** If we can work together, we can continuously improve it as long as you're not expecting like the first shot to be.
+
+**Marcel Santilli:** Like better than your writer who's been working with you for a while.
+
+**Lisa Aguilar:** No, no.
+
+**Lisa Aguilar:** Cause it's, yeah, it's taken us a while to get there.
+
+**Lisa Aguilar:** So I not assume that.
+
+**Marcel Santilli:** We move fast and we're super motivated to like get it right, especially for amazing companies like DataRobot.
+
+**Marcel Santilli:** The thing is just like, treat us like an employee that's onboarding, you know, and like, which means like the more context you share, the more you give us feedback, the more it feels like more collaboration.
+
+**Marcel Santilli:** It's like, this is not good.
+
+**Tyler Pavlas:** F you guys.
+
+**Marcel Santilli:** Like, you know, yeah.
+
+**Lisa Aguilar:** Better.
+
+**Lisa Aguilar:** It sounds good.
+
+**Lisa Aguilar:** I am over now and I'm sure you all are as well.
+
+**Lisa Aguilar:** I would love to see a little bit more if you all are okay.
+
+**Lisa Aguilar:** And I'm super curious to see this now, especially how technical the content got.
+
+**Lisa Aguilar:** Cause that's one thing that I always worry about and struggle.
+
+**Lisa Aguilar:** It's like, well, we're not technical.
+
+**Lisa Aguilar:** So then it's a heavy load on my very finite data science team.
+
+**Lisa Aguilar:** Who's busy trying to sell deals.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** Right.
+
+**Tyler Pavlas:** And I think I can lead that follow up.
+
+**Tyler Pavlas:** I just wanted to bring Marcel in so that you can answer some of those bigger, more theoretical questions about how we partner and what it looks like in practice.
+
+**Tyler Pavlas:** I would suggest, Lisa, let's bring in that corporate comms person and maybe like one other person from the team so that we can understand your process and connect it to ours a little bit more granularly.
+
+**Lisa Aguilar:** Great.
+
+**Lisa Aguilar:** All right.
+
+**Marcel Santilli:** Thank you very much for your time.
+
+**Marcel Santilli:** for the time.
+
+**Marcel Santilli:** Enjoy the weekend.
+
+**Lisa Aguilar:** We'll talk soon.
+
+**Lisa Aguilar:** Will do.
+
+**Lisa Aguilar:** Good luck with your videotaping.
+
+**Lisa Aguilar:** Thanks.
+
+**Lisa Aguilar:** Thanks.
+
+**Lisa Aguilar:** Bye.
+
+**Lisa Aguilar:** Thanks, Marcel.
+
+**Lisa Aguilar:** Bye.

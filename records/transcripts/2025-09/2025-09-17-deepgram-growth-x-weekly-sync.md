@@ -1,0 +1,603 @@
+# Deepgram <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-09-17
+time: 17:02 UTC
+duration: 30 minutes
+organizer: aida@growthxlabs.com
+participants: Aida Knežević (GrowthX), Erik O'Brien (GrowthX), Andi Bailey (GrowthX), Hasan Jilani (Deepgram), Praveen Rangnath (Deepgram), Nikko Lobato (Deepgram), Justin Epstein (Deepgram), Patricia Mitter (Deepgram), Sam Lee (Deepgram), Delano Fernando (Deepgram), Jose Francisco (Deepgram), Pippin Bongiovanni (Deepgram), Natalie Abeysena (Deepgram)
+fathom_recording_id: 87950207
+fathom_url: https://fathom.video/calls/414300651
+share_url: https://fathom.video/share/DN9xSGcgzAEBuqKrgMys44wPpMJ7Dk_F
+source: fathom
+enriched_on: 2026-03-03 22:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX presented a comprehensive SEO and content strategy analysis for Deepgram, identifying significant gaps in top-of-funnel content around core voice AI APIs and proposing two new content clusters to boost rankings for priority keywords like "speech-to-text API." The team discussed the critical need for content pruning—Deepgram has 15,000 pages but organic traffic dropped from 122K to 30K monthly after Google algorithm updates—and aligned on next steps: Aida will audit the speech-to-text landing page, Hasan will create wireframes for programmatic language-specific pages (100 languages for both speech-to-text and text-to-speech by year-end), and Deepgram will review and approve blog ideas in the Content OS starting with a calibration post on voice activity detection.
+
+---
+
+## Context
+
+Deepgram is an AI voice API company that experienced a significant organic traffic drop following Google core updates in July and August 2025. Previously generating 122K+ monthly organic visitors, they now see approximately 30K monthly. This is the weekly operational sync where GrowthX (their content marketing partner) presents analysis, recommendations, and coordinates ongoing deliverables. The meeting was led by Aida Knežević from GrowthX, with Deepgram's leadership including Praveen Rangnath and product/web team members like Hasan Jilani weighing in on execution and technical feasibility.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Core voice AI APIs and architecture/intelligence are two distinct content cluster concepts—requires separate writing guidelines and approach. Calibration post on voice activity detection will test voice and tone before scaling to 5 blog posts/week.
+- Programmatic SEO execution for 100+ language-specific pages (speech-to-text and text-to-speech) requires custom Atlas pipeline setup. Dev team coordination needed; 2-3 week setup time with Sanity CMS.
+- Content pruning engagement requires comprehensive audit merging SEMrush and Google Search Console data—scope and timeline impact to timeline.
+
+**To GrowthX Business Development:**
+- Deepgram organic traffic recovery is primary near-term objective. Expected early results 2-3 weeks, full impact 3-4 months. Average MoM lift data to be pulled and reported back.
+- Language-specific pages are low-hanging fruit (competitor Eleven Labs already ranking for Spanish speech-to-text). Volume opportunity: 36 languages for speech-to-text, ramping from 2 to 100 for text-to-speech by year-end.
+- Strong account momentum: client is shipping new product (Flux with VAD) and actively approving calibration content within weekly cycle. Quick turnaround signals healthy engagement and expansion potential.
+
+---
+
+## Overview
+
+- GrowthX analyzed Deepgram's content, identifying gaps in top-of-funnel content and opportunities for keyword ranking
+- Two new content clusters proposed: core voice AI APIs and architecture/intelligence behind voice AI
+- Deepgram plans to create language-specific pages for both speech-to-text and text-to-speech products (100 languages each by year-end)
+- Content pruning recommended to improve SEO, as Deepgram has 15,000 pages with many potentially irrelevant
+
+---
+
+## Key Topics
+
+### Content Analysis and Strategy
+
+  - GrowthX analyzed Deepgram's URLs, blog, learn pages, and AI glossary
+  - Found gaps in top-of-funnel content related to Deepgram's product
+  - Conducted keyword research and competitor analysis (e.g., Eleven Labs)
+  - Proposed two new content clusters:
+    1.  Core voice AI APIs (speech-to-text, text-to-speech, voice agents)
+    2.  Architecture and intelligence for voice AI (technical/developer education)
+  - Goal: Rank higher for key terms like "speech-to-text API" and "speech-to-text"
+  - Next steps: Deepgram to review content ideas in Content OS and approve topics
+
+### SEO Improvements
+
+  - Deepgram experienced a hit in organic rankings in August 2022 (Google core updates)
+  - Current organic traffic: \~30K/month, down from peak of 122,554/month
+  - Recommendation: Content pruning to improve crawl budget and site structure
+  - GrowthX to conduct a comprehensive content audit (requires data from SEMrush and Google Search Console)
+
+### Programmatic SEO
+
+  - Focus on creating language-specific pages for speech-to-text and text-to-speech
+  - Deepgram plans 100 languages for each product by year-end
+  - GrowthX can assist with programmatic page creation (2-3 weeks setup time)
+  - Deepgram to provide wireframes to accelerate the process
+
+### Content Production and Timeline
+
+  - Goal: Ramp up to 5 blog posts per week
+  - Initial results for targeted keywords: 2-3 weeks to 1 month
+  - Overall impact on organic traffic: 3-4 months minimum
+  - GrowthX to provide average month-over-month traffic increase data from other clients
+
+---
+
+## Action Items
+
+**Aida Knežević (GrowthX)**
+- Audit speech-to-text API landing page for SEO optimization, provide recommendations
+- Follow up with GrowthX team on programmatic content creation capacity and timeline
+- Get average monthly traffic increase percentage from GrowthX team, report back to Deepgram
+
+**Praveen Rangnath (Deepgram)**
+- Review Content OS and approve blog ideas for calibration post on voice activity detection
+
+**Hasan Jilani (Deepgram)**
+- Create wireframes for language-specific pages with Patricia Mitter, share with GrowthX for programmatic implementation
+
+---
+
+## Transcript
+**Aida Knežević:** This meeting is being recorded.
+
+**Justin Epstein:** Hello.
+
+**Justin Epstein:** Hi.
+
+**Aida Knežević:** We're waiting on anybody else who think Praveen's also supposed to join.
+
+**Nikko Lobato:** I haven't heard from him, I don't know.
+
+**Nikko Lobato:** He might just be running late from another meeting.
+
+**Aida Knežević:** Okay, no problem.
+
+**Aida Knežević:** We can wait a little more.
+
+**Praveen Rangnath:** Hi, guys.
+
+**Praveen Rangnath:** Sorry I'm enjoying the wait.
+
+**Aida Knežević:** Hi.
+
+**Aida Knežević:** How are you?
+
+**Praveen Rangnath:** Good.
+
+**Praveen Rangnath:** How are you?
+
+**Aida Knežević:** I'm good.
+
+**Aida Knežević:** Busy day.
+
+**Aida Knežević:** All right.
+
+**Aida Knežević:** Perfect.
+
+**Aida Knežević:** So we have everybody in the room.
+
+**Aida Knežević:** Last week, I was not here.
+
+**Aida Knežević:** was out of office, but I caught up on everything that you talked about during the meeting.
+
+**Aida Knežević:** And I already shared the agenda in our Slack, but I'm going to go ahead and share my screen so we can all take a look.
+
+**Aida Knežević:** So I think, you know, one of the biggest takeaways from last week was that we want to take another look at your top of the funnel content and see where are the gaps and where we can provide more coverage.
+
+**Aida Knežević:** So what I did was I pulled all of the URLs from your site, from your blog, so the learn pages, and also the AI glossary.
+
+**Aida Knežević:** Then we analyzed it to really see like how much of it was truly top of the funnel and middle and bottom of the funnel.
+
+**Aida Knežević:** And while there is some coverage there, a lot of like the top of the funnel content isn't related to your product.
+
+**Aida Knežević:** Like there are, you know, super interesting articles about like the impact of AI on climate change and things like that.
+
+**Aida Knežević:** But a lot of the content also, you know, there are a lot of content gaps there.
+
+**Aida Knežević:** So we took that information and went and did manual keyword research just to understand like, okay, where could you be ranking that you aren't ranking?
+
+**Aida Knežević:** And I also did a very kind of traditional keyword gap analysis in SEMrush with your top competitors like Eleven Labs to find additional opportunities where you could be ranking.
+
+**Aida Knežević:** So that uncovered also additional opportunities that we added to Airtable.
+
+**Aida Knežević:** So now we've labeled these two additional clusters as top of the funnel.
+
+**Aida Knežević:** So one just focuses on like the core voice AI APIs.
+
+**Aida Knežević:** And the other one focuses more on the architecture and the intelligence behind voice AI.
+
+**Aida Knežević:** For example, like what is spoken language understanding, low latency voice AI, accent detection voice AI.
+
+**Aida Knežević:** So like super, very like basic explainers.
+
+**Aida Knežević:** Also batched AI transcription.
+
+**Aida Knežević:** And these feed nicely into like the other content that we'll be creating that's a little further down the funnel.
+
+**Aida Knežević:** And then another thing that I wanted to point out is that while we want you to rank for a speech-to-text API. Looking at SEMrush data right now, you're in position seven and you're ranking with a blog post, actually, not this landing page.
+
+**Aida Knežević:** And ideally, this landing page would actually be at the top of the SERP here.
+
+**Aida Knežević:** So I think we can support this product page with, like, a lot of internal links, mentioning this product specifically as many times as possible.
+
+**Aida Knežević:** I mean, you know, within reason, but just to give it a little bit of a boost.
+
+**Aida Knežević:** But I think, you know, in instances like this one, getting a product page like this to rank in position one isn't hard because the search intent is already there.
+
+**Aida Knežević:** Like, the search intent is already pretty much commercial.
+
+**Aida Knežević:** Like, Google's speech-to-text is ranking in position one.
+
+**Aida Knežević:** So the chances are good that you're also going to be ranking for this with this product page.
+
+**Aida Knežević:** Yeah, so let me see if I missed anything.
+
+**Praveen Rangnath:** That last thing you showed us was speech-to-text or speech-to-text API?
+
+**Aida Knežević:** Speech-to-text API.
+
+**Praveen Rangnath:** Okay, all right, excellent.
+
+**Praveen Rangnath:** What about speech-to-text just while we're here?
+
+**Praveen Rangnath:** Like, what are the chances we can rank here as well?
+
+**Aida Knežević:** This is super hard.
+
+**Aida Knežević:** Yeah, super hard.
+
+**Aida Knežević:** It's mostly, like, so, like, homepages.
+
+**Aida Knežević:** I think, like, 11 labs is ranking position 10, so I think it's worth, like, it's worth shooting for this as well.
+
+**Praveen Rangnath:** Yeah, in terms of speech-to-text, they're no better than us, so we should definitely be ahead of them.
+
+**Praveen Rangnath:** So I think let's shoot for this too then.
+
+**Aida Knežević:** Yeah, I've written landing pages before.
+
+**Aida Knežević:** Our workflows right now, they're not optimized for landing pages, but I think we can definitely, if you do end up rewriting them or redoing them, I would be happy to kind of give my input just for the SEO portion of it.
+
+**Aida Knežević:** I think that we can help out in that way.
+
+**Praveen Rangnath:** We don't think we could rank this landing page for speech-to-text search?
+
+**Aida Knežević:** I think I could audit it and see what's missing, like, because I'm sure that there are some things that we could add that searchers are looking for to kind of boost the rankings, but I know that editing landing pages can be a struggle depending on the CMS that you're using and your dev team, so I can do an audit of this page and tell you what I think.
+
+**Praveen Rangnath:** Yeah, because I think our goal would be to rank in speech-to-text API first, and then speech-to-text would also be a goal. A lot of people, even internally, search "speech to text" and they're like, why aren't we here?
+
+**Aida Knežević:** Yeah, yeah, absolutely.
+
+**Aida Knežević:** And I mean, this is something that, you I've been working in content agencies since 2021.
+
+**Aida Knežević:** And I think one of the first things that I hear when I start working with a new client is we want to be ranking on the first position for our product.
+
+**Aida Knežević:** That's like the baseline that people want to see.
+
+**Aida Knežević:** So I totally, totally understand that.
+
+**Aida Knežević:** So I think with internal linking, we can give it a boost.
+
+**Aida Knežević:** And I will also take a look and see what we can do, know, try to make some recommendations to see, you know, if we can like maybe tweak some of the language on the landing page to make it a little more optimized to this.
+
+**Aida Knežević:** And also, what I wanted to talk to you about, and this is something that's a bit, you know, part of, it's a broader SEO issue.
+
+**Aida Knežević:** But for example, know,
+
+**Aida Knežević:** When I go and check out your site in SEMrush, obviously you experienced a hit in organic rankings in August last year, and I'm aware that you have a lot of pages on your site that are no longer ranking very well.
+
+**Aida Knežević:** And something that we recommend, especially in cases like this, is to try and do a pruning of the sites or really see what's no longer getting traffic, what's no longer useful, because a lot of times, you know, you will, we will remove a lot of pages and then it gets a lift in rankings because the crawl budget is bigger and it's just makes your website structure better.
+
+**Aida Knežević:** I mean, Jacob, who's, who was my, who's a managing director at growthx.
+
+**Aida Knežević:** He was my former manager.
+
+**Aida Knežević:** He was working at G2.
+
+**Aida Knežević:** And I think one of the things that he did not, maybe not a G2, but a prior employer was he came.
+
+**Aida Knežević:** And the first thing that he did was remove, like, I think 200 or 300 pages that were no longer getting traffic.
+
+**Aida Knežević:** And they experienced a pretty big lift in traffic just from that.
+
+**Aida Knežević:** So that would be a part of, like, a bigger content audit that we can do for you.
+
+**Aida Knežević:** But it would take a little bit more time because it requires us to pull, like, data from Google Search Console and SEMrush and kind of merge it all together.
+
+**Praveen Rangnath:** Okay, I want to look at this graph. We had one big hit. That's the AI Apps hit. If you just go up a little bit.
+
+**Praveen Rangnath:** okay.
+
+**Praveen Rangnath:** Yeah, that's the AI Apps Google core update. Two core updates—one in January and a bigger one in July-August. And so 122,554 per month aligns to the data we have. We're seeing roughly 30K a month organic traffic.
+
+**Aida Knežević:** Okay.
+
+**Praveen Rangnath:** That makes sense.
+
+**Aida Knežević:** Right, okay.
+
+**Aida Knežević:** So I think I already shared kind of the analysis in Slack, so you can take a look at like our reasoning here and see if something is off.
+
+**Aida Knežević:** Just let us know.
+
+**Aida Knežević:** But these are the two new clusters.
+
+**Aida Knežević:** So in the first one, the core voice AI APIs will be talking about speech-to-text, text-to-speech, voice agents in general, and anything related to that technology that might not include these specific phrases.
+
+**Aida Knežević:** For example, natural-sounding AI voices or like comparing speech recognition, excuse me, to transcription software.
+
+**Aida Knežević:** And then the second one is, like I said, the architecture and intelligence for voice AI.
+
+**Aida Knežević:** So this is more focused on technical and developer education—not general AI concepts, but voice-specific.
+
+**Aida Knežević:** It's talking about like real-time transcription latency and all the things that Deepgram is really good at.
+
+**Aida Knežević:** So the next step is for you to take a look at the content OS.
+
+**Aida Knežević:** You should all have access at this point.
+
+**Aida Knežević:** If you don't have editing access, let me know and I will get it for you.
+
+**Aida Knežević:** But we typically at this stage, we want to do one calibration blog for you.
+
+**Aida Knežević:** So that would be just to test our artifacts, primarily the writing guidelines, to make sure that the voice is on point, that we're talking about your product in the right way and that it just sounds right.
+
+**Aida Knežević:** So what we would need from you is to just go through these blog ideas.
+
+**Aida Knežević:** I know that there are a lot, are around the hundreds, so you can just tackle one cluster if you want, or two, it doesn't matter.
+
+**Aida Knežević:** And just try to pick a couple of blog ideas that you would really like and you would want us to do, and then we'll pick one to calibrate on.
+
+**Praveen Rangnath:** Okay.
+
+**Praveen Rangnath:** So within each of these is a set of blog ideas, I'm assuming 30 blog ideas, and we'll just give you a list of five and you guys will pick one to do, something like that?
+
+**Aida Knežević:** Yeah, yeah, yeah, sure.
+
+**Aida Knežević:** So for example, this is how it works.
+
+**Aida Knežević:** So right now there are different views, so you can change it to cluster, and then there's also by status.
+
+**Aida Knežević:** So I think I personally prefer the cluster one, just because it's easier to kind of navigate.
+
+**Aida Knežević:** So let's say you want to approve, like this blog, you would just change the status to approve to start, and that's it.
+
+**Aida Knežević:** Okay, all right, easy.
+
+**Aida Knežević:** Yeah, you should be able to do that with your permissions, but if you're not, let me know.
+
+**Aida Knežević:** And I'll take care of it.
+
+**Aida Knežević:** Yeah.
+
+**Praveen Rangnath:** Okay.
+
+**Praveen Rangnath:** This voice activity detection, it's interesting because we're launching a product called Flux, which does voice activity detection or VAD, you know, totally different way.
+
+**Praveen Rangnath:** Actually, right there would be a really good article for us.
+
+**Aida Knežević:** Okay, nice.
+
+**Praveen Rangnath:** So we can actually prove it right away.
+
+**Praveen Rangnath:** Okay.
+
+**Praveen Rangnath:** I'll for you for that one.
+
+**Aida Knežević:** I'll look through the rest, but that's a pretty good one.
+
+**Aida Knežević:** Okay.
+
+**Aida Knežević:** Okay.
+
+**Aida Knežević:** Perfect.
+
+**Aida Knežević:** Nice.
+
+**Aida Knežević:** I mean, this is just a first pass.
+
+**Aida Knežević:** Yes, we, you know, at some point we can do, I mean, we will do additional keyword research to find more topics.
+
+**Aida Knežević:** This is just to give you an idea of like all some of the topics that we could do, but we will, you know, go back and do additional research, you know, depending on like what are the kind of assignments that you want to do.
+
+**Aida Knežević:** Okay.
+
+**Aida Knežević:** Yeah.
+
+**Aida Knežević:** So, then, okay, so once we get, we can start working on a calibration block.
+
+**Aida Knežević:** All right.
+
+**Aida Knežević:** Another thing that I know you wanted to talk about was.
+
+**Aida Knežević:** As your programmatic ideas, I went through the programmatic SEO brief that you shared last week.
+
+**Aida Knežević:** And I know that the one that you highlighted was language-specific pages.
+
+**Aida Knežević:** And that one, I mean, this is, you know, you're already working on it.
+
+**Aida Knežević:** And Eleven Labs already has pages that rank for keywords. If I Google Spanish speech to text, they're ranking in position two.
+
+**Aida Knežević:** But this keyword is, like, very low difficulty.
+
+**Aida Knežević:** So, this is a low-hanging fruit for you.
+
+**Aida Knežević:** I know you're, you have over 36 languages.
+
+**Aida Knežević:** So we could create all pages for all of those languages and make sure that the content is, like, not thin so that it's actually, like, valuable and that we're providing the right information.
+
+**Aida Knežević:** I mean, the search volume isn't that high.
+
+**Aida Knežević:** I also looked up, like, German speech text.
+
+**Aida Knežević:** So this one is considerably lower, but it doesn't, you know, we still, it's still valuable for us to rank.
+
+**Aida Knežević:** So we might not recoup the traffic from the AI apps, but it's more valuable traffic.
+
+**Praveen Rangnath:** So I think that's better.
+
+**Praveen Rangnath:** Yeah, agreed.
+
+**Hasan Jilani:** Just to add, we're also introducing languages on text-to-speech as well.
+
+**Hasan Jilani:** So we will have languages for both speech-to-text and text-to-speech.
+
+**Hasan Jilani:** So we could have separate pages for both.
+
+**Aida Knežević:** Okay, this is a lot better.
+
+**Aida Knežević:** I would love to hear how you're going about developing these pages.
+
+**Aida Knežević:** Do you have a wireframe already?
+
+**Hasan Jilani:** What do you think is going to be on the pages?
+
+**Hasan Jilani:** We haven't.
+
+**Hasan Jilani:** We haven't done the wireframes yet for the language pages.
+
+**Hasan Jilani:** We have a general idea and actually looked at 11Labs as inspiration.
+
+**Hasan Jilani:** So we have just a general idea, but we don't have the wireframes yet.
+
+**Hasan Jilani:** We're planning on updating our speech-to-text page in time for our next big product launch, which is October 2nd.
+
+**Praveen Rangnath:** And then as soon as we do that, we're going to transition to the language pages.
+
+**Praveen Rangnath:** So, Hasan, are you saying that our plan is to create a separate web page for every language?
+
+**Praveen Rangnath:** Like, internally, we're going to do that?
+
+**Hasan Jilani:** That's the plan, yeah.
+
+**Hasan Jilani:** 11Labs has the same thing.
+
+**Hasan Jilani:** They have separate pages for each.
+
+**Hasan Jilani:** So, yeah, if you quickly go over to 11Labs, you'll see they do a lot of programmatic with this.
+
+**Praveen Rangnath:** My question is more, should we do that internally or should we have GrowthX do that?
+
+**Hasan Jilani:** Oh, that's not, whoever, it's not.
+
+**Praveen Rangnath:** Yeah, I'm just wondering what would be the more efficient test?
+
+**Hasan Jilani:** Yeah, so if Grotex can take a look at what would work best there and do that for us, that would be great.
+
+**Hasan Jilani:** They'll give us more bandwidth to work on other things.
+
+**Aida Knežević:** Yeah, yeah, I mean, we definitely, I mean, we've done programmatic pages before, and this is right, you know, this is the perfect use case.
+
+**Aida Knežević:** So we can definitely help out with that.
+
+**Aida Knežević:** It's just, it helps to have a wireframe first, and just for our development team.
+
+**Aida Knežević:** Could you remind me, what, what's the CMS that you're using?
+
+**Hasan Jilani:** It's Dato right now, but we're switching over to Sanity, I believe.
+
+**Aida Knežević:** Okay, yeah.
+
+**Aida Knežević:** Okay, that's, that's perfect.
+
+**Aida Knežević:** We've, Sanity is a good CMS to plug into.
+
+**Aida Knežević:** I think the one that I always recommend against is Prismic, just because we've had such bad experiences with it. It was horrible to hook up to for programmatic content, but Sanity is good.
+
+**Hasan Jilani:** Yeah, like if you go up to their languages section and click on the pages, they do a pretty good job, but it's very much programmatic.
+
+**Hasan Jilani:** It's like they just switch out a few things.
+
+**Hasan Jilani:** They have the same exact same wireframe on each page, and they switch out a few things, but it's pretty straightforward.
+
+**Aida Knežević:** Yeah, yeah.
+
+**Aida Knežević:** No, this is very, very standard programmatic.
+
+**Aida Knežević:** Okay.
+
+**Hasan Jilani:** And they have, on the similar side, on the speech-to-text side, they have a similar thing.
+
+**Aida Knežević:** Okay, okay.
+
+**Aida Knežević:** I'll have to try, test this out to see how accurate this is, because Bosnian is my native language, so.
+
+**Aida Knežević:** I'll have to check it out.
+
+**Praveen Rangnath:** Yeah.
+
+**Praveen Rangnath:** Thanks.
+
+**Aida Knežević:** I know you have it too, I think.
+
+**Aida Knežević:** I'm not sure.
+
+**Aida Knežević:** I'll to double check.
+
+**Hasan Jilani:** Oh, and basically we have a plan to have 100 languages each on both sides, speech-to-text and text-to-speech, speech by the end of the year.
+
+**Aida Knežević:** So, we're currently ramping our language support.
+
+**Aida Knežević:** Okay, okay.
+
+**Aida Knežević:** So, it would be, I think you have, how many languages right now?
+
+**Hasan Jilani:** 36 or?
+
+**Hasan Jilani:** Yeah, 36 on speech-to-text.
+
+**Hasan Jilani:** And then for text-to-speech, it's really two.
+
+**Hasan Jilani:** And then in October, we'll have 10 on text-to-speech.
+
+**Aida Knežević:** But again, we're ramping up very fast.
+
+**Aida Knežević:** Okay, okay.
+
+**Hasan Jilani:** Several languages a week.
+
+**Aida Knežević:** Mm-hmm.
+
+**Aida Knežević:** Okay.
+
+**Aida Knežević:** All right.
+
+**Aida Knežević:** That sounds good.
+
+**Aida Knežević:** I can take this back to the team and, you know, see what the bandwidth is like, because we do have to involve our dev team whenever we're doing programmatic content.
+
+**Aida Knežević:** But in the meantime, we can just get started with the blogs and take it from there.
+
+**Aida Knežević:** Okay.
+
+**Aida Knežević:** Great.
+
+**Aida Knežević:** All right.
+
+**Aida Knežević:** So, yeah, those are really the next steps are to deliver the first blog, get your feedback on voice and tone.
+
+**Aida Knežević:** I think what we found works best with reviews is to maybe get three to, like, the initial review can be a larger group of people, but I think as we start scaling, it helps there to be one to two people maximum, just because it can get, the approvals can get quite slow and people are busy, so it helps to keep it to one to two people.
+
+**Aida Knežević:** And then, I think, just to give you an idea of the scale, so our goal is to get up to around five blogs per week once we ramp up.
+
+**Aida Knežević:** So just to, you know, whoever's reviewing is going to have to factor in the fact that they're going to have five blogs coming to them every week.
+
+**Aida Knežević:** But, you know, the goal is to get to a point where the reviews get shorter and shorter, so.
+
+**Praveen Rangnath:** So that's on the blog side. What about the webpage side—language pages like Spanish speech to text? Is that something you guys could do with us?
+
+**Praveen Rangnath:** What kind of speed could we do that in if we did with you guys?
+
+**Aida Knežević:** Yeah, that's difficult to answer right now because I have to talk to Andy and coordinate with the dev team. The actual execution involves going to Atlas, our content generation platform, where we build a custom pipeline for you.
+
+**Aida Knežević:** And that custom pipeline is going to be used, for example, one custom pipeline is probably going to be used for speech to text for the languages, and then another one for text to speech.
+
+**Aida Knežević:** So they're going to be different.
+
+**Aida Knežević:** Once that's set up, we generate the content, but first we have to agree on what it will be. As we're doing that, the dev team works with your web team to build these pages programmatically. It's a matter of a couple of weeks, but depends on their capacity.
+
+**Praveen Rangnath:** Yeah, because I see two different efforts. One is the blog posts—and we write our own blog posts as well. We have a lot of content.
+
+**Praveen Rangnath:** The second is programmatic creation of web pages, like what we did with AI apps. We want to make sure we're doing both—blog posts and programmatic web pages.
+
+**Praveen Rangnath:** Because my question is, if we do five blog posts a week, how long do you think it'll take us to see results in terms of ranking on speech-to-text API, speech-to-text, things like that?
+
+**Aida Knežević:** For the keywords we're targeting, it can take two to three weeks to about a month. To see overall impact, it takes three to four months minimum. But initial rankings can be pretty quick. I've published content for clients, and they start ranking within two weeks on the first page for that target keyword. It really depends on what we're targeting, but the cumulative results will probably be four to five months.
+
+**Praveen Rangnath:** So in four to five months, if our organic traffic is around 100,000 per month now, what do you think we could get that up to?
+
+**Aida Knežević:** That's tough to answer for multiple reasons. One is that one blog post targets one keyword but ranks for multiple keywords. The traffic is not just from that search volume, but also from related keywords we don't have insight into. There's also the impact of AI searches, where AI overviews might eat into some clicks. What I can tell you is I can go back to the team and get the average lift percentage month over month from clients. The most accurate data would be what we don't want to see—clicks going down. I'll get the average month over month traffic increase we're seeing with clients.
+
+**Hasan Jilani:** Is there a way we can accelerate the programmatic by providing example wireframes for the language pages? That way you're not starting from zero—you have an idea and can replicate across languages.
+
+**Aida Knežević:** Yeah, yeah, yeah, that makes sense.
+
+**Aida Knežević:** All right, I think that's it. Did you have anything else that you wanted to discuss today?
+
+**Praveen Rangnath:** No, there's something that you said struck me, which is like, especially when I look at this graph, the top organic traffic graph, and I'm saying this for the benefit of my team as much as anything else, which is like, normally the process to increase organic traffic is to create more pages, is to create more content.
+
+**Praveen Rangnath:** That's like, 101, how do you get more organic traffic, create more content?
+
+**Praveen Rangnath:** We're in the situation where we might actually need to create, we might need to prune our content, not create, like we're at the phase where actually what we need to do to get SEO is to reduce the number of web pages we have, not increase.
+
+**Praveen Rangnath:** And it's such an odd situation to be in, because like, we can't just create new content, we can't just spend our energy in there, we also have to spend our energy reducing irrelevant content, so to speak.
+
+**Aida Knežević:** Yeah.
+
+**Hasan Jilani:** On pruning the content, was there a path laid out on how we're going to go about it?
+
+**Aida Knežević:** We need to do a content audit first, which takes time because we have to pull data from SEMrush and your Google Search Console data, merge it, and see how to proceed. But the recommendation is to prune some of the content on your site.
+
+**Praveen Rangnath:** Well, okay.
+
+**Aida Knežević:** You have 15,000 pages on your site, so it's a lot.
+
+**Praveen Rangnath:** Yeah, we can get rid of the idiom pages—like "as the crow flies" and "that's the way the cookie crumbles."
+
+**Aida Knežević:** Yeah, the idioms. Once we have all the data in one place, we'll have a better idea of what we want to do.
+
+**Aida Knežević:** I'll take a look at the content OS. Approve whatever looks good to you and we'll take it from there. I'll get back to you on the programmatic stuff as well. Thank you guys. See you next week.

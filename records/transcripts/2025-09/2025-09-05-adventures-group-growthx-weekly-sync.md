@@ -1,0 +1,366 @@
+# Adventures Group <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-09-05
+time: 18:40 UTC
+duration: 20 minutes
+organizer: Mara Leighton
+participants: Mariana Montezzana, Isabel Luna, Seo The Adventures Group, Saul Sanz, Copywriter Vallarta
+fathom_recording_id: 85379927
+fathom_url: https://fathom.video/calls/400390854
+share_url: https://fathom.video/share/T_LWyV-NUf5BSnk3EwXFGfBLWXnTNxdy
+source: fathom
+enriched_on: 2026-03-02 22:56 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Adventures Group aligned on content strategy focused on capitalizing on seasonal packing content traffic (100 clicks/week), prioritizing keywords where Adventures Group has poor positioning, and planning content refreshes for seasonal events 5-6 months in advance. The team discussed new attractions at Caletas that could be leveraged for keyword opportunities, technical SEO improvements including URL redirects, and the strategy for displaying packing articles in search results while keeping them hidden from the blog homepage.
+
+---
+
+## Context
+
+Adventures Group operates tour and experience businesses in Puerto Vallarta, Cancun, and Cabo. GrowthX is delivering content marketing and SEO strategy to improve organic visibility for destination-specific keywords. This weekly sync is part of ongoing account management where Mariana (GrowthX SEO strategist) and Isabel (Adventures Group operations/marketing lead) discuss content performance, prioritize next topics, and coordinate implementation with marketing managers and developers on the Adventures Group side.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Demonstrating workflow automation for content scale (packing article replication and customization per destination)
+- Keyword research prioritization methodology — focusing on gaps rather than already-strong positions
+- Strategic timing for seasonal content refreshes (5-6 months pre-event)
+- Technical SEO implementation: URL redirects for duplicate content, content visibility toggles without SEO impact
+
+**To GrowthX Business Development:**
+- Account growth signal: Adventures Group requesting ongoing "What to Pack" content series through April and refresh strategy for future months
+- Client satisfaction: Mark mentioned existing feature success (Marietas ranking #3, top blog article), building confidence in continued strategy
+- Expansion opportunity: New attractions at Caletas (parasailing, hydrophone for whale sounds) present keyword opportunities for fresh content
+
+**To CheckThat:**
+- Long-tail keyword opportunity research: Planning content for Isla Mujeres, Arch of Cabo, sightseeing angles (Los Arcos, malecón) — strategic positioning for AI-driven search visibility
+
+---
+
+## Overview
+
+- Approval sought for publishing "What to Pack" articles to capitalize on current traffic (100 monthly clicks/week)
+- Need to prioritize keywords where Adventures Group isn't well-positioned for future content
+- Planning content refreshes for seasonal articles (e.g., New Year's, Christmas) 5-6 months in advance
+- New attractions at Caletas to be added to tour pages and potentially leveraged for keywords
+
+---
+
+## Key Topics
+
+### "What to Pack" Content Strategy
+
+  - Seeking approval to publish "What to Pack" articles until April
+  - Workflow replicates and adjusts recommendations for specific items
+  - Summer season packing tips for Vallarta (mid-June to mid-November): bug spray, sunscreen, small umbrella
+  - Winter packing tips: sweater, long pants for chilly mornings/nights
+
+### Keyword Strategy and Content Prioritization
+
+  - Marietas page: Already ranking \#3 for "Marieta" keyword
+  - Yalapa page: Currently in 5th position
+  - Next steps: Adventures Group to provide list of next 2 destinations for Cancun, Cabo, and Vallarta
+      - Cancun: Isla Mujeres
+      - Cabo: Arch of Cabo
+  - GrowthX to research keywords and prioritize content creation
+
+### Content Refreshes
+
+  - Recent refreshes: Sunset in Cabo, 4th of July
+  - Planning refreshes for New Year's and Christmas articles
+  - Events articles perform well across destinations
+  - Refresh strategy: Add new headings, update published date, 5-6 months prior to event
+
+### Website Updates and SEO
+
+  - New features for Caletas, especially Kids Adventure section
+  - Potential keywords to explore: parasailing, hydrophone (whale sounds)
+  - "Sightseeing" keyword opportunity for Vallarta (Los Arcos, malecón)
+  - Redirects needed for duplicated content (e.g., "what to do in Cancun" vs "what to do Cancun")
+  - Bullet point issue has been fixed
+
+### Content Display and SEO Focus
+
+  - Discussion on hiding certain articles from blog homepage while maintaining SEO benefits
+  - For "What to Pack" series: Use one main image, add destination-related image in content
+  - Possibility of creating a landing page grouping similar content (e.g., packing lists for different months)
+
+---
+
+## Action Items
+
+**Isabel Luna (Adventures Group)**
+- Ask marketing managers for Vallarta packing recommendations by season; share on Slack
+- Compile list of next 2 destinations for Cancun, Cabo, and Vallarta for keyword research; send to Mariana Montezzana
+
+**Mariana Montezzana (GrowthX)**
+- Conduct keyword research for Isla Mujeres (Cancun) and Arch of Cabo (Cabo)
+- Create list of URL redirects for duplicate content (e.g., "what to do in Cancun" vs "what to do Cancun"); send to Isabel for Oscar to implement
+
+**Copywriter Vallarta (Adventures Group)**
+- Review pending articles for publication today or tomorrow
+
+---
+
+## Transcript
+**Mariana Montezzana:** That's tour cards we have, and the tour cards are based in the information you have on your landing page.
+
+**Mariana Montezzana:** So we are not adding anything new.
+
+**Mariana Montezzana:** So I'm going to, I'm asking for your approval for us to publish the what to pack for this, let's say until April.
+
+**Mariana Montezzana:** So we can surf in this traffic wave, okay?
+
+**Isabel Luna:** Okay, yeah, absolutely.
+
+**Isabel Luna:** Okay, so for Vallarta, let me ask each one of the marketing managers, because I don't think they are here.
+
+**Isabel Luna:** No, nor Lorena, nor Angie, bueno.
+
+**Isabel Luna:** For Vallarta, and Lucero can put this on Slack, is basically during the summer season, which starts, let's say, by mid-June, mid-June all the way to mid-November.
+
+**Isabel Luna:** It's the hot season, you know the weather very well.
+
+**Isabel Luna:** In Brazil, so it's humid, box sprays, sunscreen, super important, and also if you want to pack, let's say, with a small umbrella in case that's important.
+
+**Isabel Luna:** I mean, there's people who doesn't care to get a little bit of rain during their vacations, but if they do, what is the rainy season, right?
+
+**Mariana Montezzana:** The workflow is doing a great job in selecting, because we are saying, when we say, we already did, we have a workflow that replicates the article, so it's doing a pretty good job in, like, sampler and adjusting the recommendations regarding special items for, but there's nothing like two out there.
+
+**Mariana Montezzana:** So I think this is a good way for us to, because we're talking about 100 monthly clicks per week, it's a very good volume, so it's a good opportunity for us.
+
+**Isabel Luna:** Okay, and I was hoping to say during the winter months, because it is important to pack a sweater, maybe long pants, because it can be chilly, especially at night or early morning.
+
+**Isabel Luna:** Yes, especially if we're going out on a tour early morning, it might be pretty cold, and then you will see children in shorts, you know, like freezing in the morning.
+
+**Mariana Montezzana:** Yeah, they're going to be in a hot place.
+
+**Mariana Montezzana:** Yeah, exactly.
+
+**Mariana Montezzana:** I have the ability to be cold.
+
+**Mariana Montezzana:** No matter what the destination is, I always find a way to be cold, eventually.
+
+**Mariana Montezzana:** So about the Marieta's page, I want to bring up how important it is for us to reflect on the keyword strategy.
+
+**Mariana Montezzana:** Remember that I mentioned that you are already...
+
+**Mariana Montezzana:** Yes, if you type Marieta, you are already ranking number three, this changes a lot, but you are in the first page, you have this feature, which is really great, and also, your top performing article, your top performing article for the blog, the Cabo blog, is an article about Marieta's Island.
+
+**Mariana Montezzana:** So, like, we're pretty well served, let's say, with this keyword, but I was checking that for, we were talking about doing the next one for Yalapa.
+
+**Mariana Montezzana:** So, this is a good one, because...
+
+**Mariana Montezzana:** You're not, you're not, it doesn't, you don't show for Yalapa.
+
+**Mariana Montezzana:** Oh, no, here it is.
+
+**Mariana Montezzana:** It is already there.
+
+**Mariana Montezzana:** It's in fourth position, five.
+
+**Isabel Luna:** Yes.
+
+**Mariana Montezzana:** One, two, three, four, five.
+
+**Mariana Montezzana:** So for the next pages, maybe you can send me a list of like naturally what were the next pages you built for the treaties nations, and then I can do a keyword research for us to prioritize.
+
+**Mariana Montezzana:** Guys, I did the first draft for the same thing you did for Marietas and Yalapa.
+
+**Mariana Montezzana:** So we can probably publish this. I'll send you this to approve, and we can work on the next page.
+
+**Mariana Montezzana:** But I think it's important to take into consideration for the next ones to be in keywords where we are not so well positioned.
+
+**Mariana Montezzana:** Yeah.
+
+**Mariana Montezzana:** Is there then anything you need from us?
+
+**Mariana Montezzana:** The list of, let's say, two destinations for, you would, let's say, naturally, if you could pick the next two destinations inside the destination for Cancun, Cabo, and Vallarta, what would it be?
+
+**Mariana Montezzana:** Yalapa, Cancun?
+
+**Isabel Luna:** Bueno, for Cancun, Isla Mujeres will be our first one.
+
+**Isabel Luna:** Uh-huh.
+
+**Isabel Luna:** And then for Cabo, it will be the Arch of Cabo.
+
+**Mariana Montezzana:** I bet you're already pretty well positioned for those. But I'll take a look.
+
+**Mariana Montezzana:** Okay.
+
+**Mariana Montezzana:** And also about refreshes.
+
+**Mariana Montezzana:** We did some refreshes, like the Sunset in Cabo was one of those.
+
+**Mariana Montezzana:** The 4th of July one was one refresh.
+
+**Mariana Montezzana:** And we are planning for a next batch of refreshes based on upcoming dates, the New Year's and the Christmas articles.
+
+**Mariana Montezzana:** Like if we could add something that's happening this year.
+
+**Mariana Montezzana:** I saw that one of the articles that perform really well is the events.
+
+**Mariana Montezzana:** You have the events article, right?
+
+**Mariana Montezzana:** For the three destinations, you have one.
+
+**Mariana Montezzana:** And those perform really well.
+
+**Mariana Montezzana:** So I think it's in like for us to select those articles that we need to come back to every year.
+
+**Mariana Montezzana:** So let's say, I'm understanding that the time frame for people to plan the trip, I thought it was three months, but I'm sensing it's a little bit more.
+
+**Mariana Montezzana:** It's something like five or six months prior.
+
+**Mariana Montezzana:** So this will be an ideal time, six months prior for the 4th of July, for Valentine's, I don't know, those important dates.
+
+**Mariana Montezzana:** And for us to schedule these refreshments, it will be basically just adding more titles, research, whatever is converting well for those keywords and adding new headings, updating the published date.
+
+**Mariana Montezzana:** Okay, so this is something we'll be proposing.
+
+**Mariana Montezzana:** And I remember when we did the 4th of July, you wanted us not to change too much what you had.
+
+**Mariana Montezzana:** So we'll make sure for these refreshes that...
+
+**Mariana Montezzana:** We are like adding more to the content, not rewriting it completely.
+
+**Mariana Montezzana:** Okay.
+
+**Isabel Luna:** Okay.
+
+**Isabel Luna:** Perfect.
+
+**Isabel Luna:** Sounds great.
+
+**Isabel Luna:** Let me think about things we can improve.
+
+**Isabel Luna:** We are adding some new features to Caletas, especially to the Kids Adventure section, so that can help us update some of the articles that mention Caletas, especially when talking about what to do with children or teenagers.
+
+**Isabel Luna:** No, I guess it is just children.
+
+**Isabel Luna:** No, there are some things for teenagers also.
+
+**Isabel Luna:** So let us, let us see how did you change the, are you going to be adding that, those, those attractions to the, the tour page?
+
+**Mariana Montezzana:** Yes, we are.
+
+**Isabel Luna:** We haven't.
+
+**Isabel Luna:** Yet, because they are not in place, they are going to be like in a month or month and a half, probably.
+
+**Isabel Luna:** There are things that are going to be installed once the rainy season ends, so at the beginning of November.
+
+**Mariana Montezzana:** If there are specific stuff we could leverage for keywords, I don't remember exactly the name, but I know that you have one which is like a parasail or something like that.
+
+**Mariana Montezzana:** If we could maybe like where to go parasailing in this nation.
+
+**Mariana Montezzana:** And sometimes there are that other instrument, I don't know if you have that, but something that people go use when diving, it's like a motor that accelerates.
+
+**Mariana Montezzana:** Or the thing that you can use to hear the sounds of the whales.
+
+**Mariana Montezzana:** Yeah, that's the one we do have it, it's called an hydrophone.
+
+**Mariana Montezzana:** Hydrophone, yeah, it's mentioned in
+
+**Mariana Montezzana:** Some of the articles, not saying it's the case, but eventually we can like run into keywords that are super specific and can be opportunities.
+
+**Isabel Luna:** You know, something, a keyword I'm thinking we haven't really used in Vallarta, which is sightseeing.
+
+**Isabel Luna:** For example, in the past, we used to have two tours going to, yeah, going to Los Arcos.
+
+**Isabel Luna:** So, one in Vallarta.
+
+**Isabel Luna:** One is the scuba diving, which is the only one we currently have, and the other one was a combo, like a combination with outdoor adventures.
+
+**Isabel Luna:** So, people will stop first at Los Arcos for snorkeling, and then we'll board the boat again and go to outdoor.
+
+**Isabel Luna:** That one is not available anymore.
+
+**Isabel Luna:** But I was thinking that most of our, or all, I think, all of our sailing tours, the luxury snorkeling and the day sailing, they all pass by.
+
+**Isabel Luna:** Los Arcos and they go slower for sightseeing and they do birdwashing from the boat and everything so it's a good one also also in the sunset sailing people also sightseeing the malecón because they will go like in front of the malecón you will see the church and everything so that's another term we could use.
+
+**Isabel Luna:** Okay, I'll take a look at those. The angle will be like sightseeing Puerto Vallarta from a different angle, which will be from the city.
+
+**Mariana Montezzana:** I'll explore those.
+
+**Mariana Montezzana:** Let me ask about the redirects. For those duplicated URLs like "what to do in Cancun" and "what to do Cancun," could we do this redirect on Sanity, or do you want us to send you a list with the URL mappings?
+
+**Isabel Luna:** Yeah, we need to do it that way. Carlos, do you have any special recommendations for redirects?
+
+**Seo The Adventures Group:** Oscar normally implements those. Okay, I'll do that.
+
+**Mariana Montezzana:** Any news about the bullet point issue?
+
+**Isabel Luna:** Yeah, that was fixed last week.
+
+**Saul Sanz:** Was it? Yeah, we mentioned it at the end of the last meeting. It's not in my notes.
+
+**Saul Sanz:** You said it, let me know — we did double check.
+
+**Mariana Montezzana:** You did fix it. Yeah, let me show you.
+
+**Mariana Montezzana:** Look how beautiful. This is cool. Maybe for the next one we'll use the bullets here too. Since we're in the first ones, we might want to revisit this. For some blogs, eventually, when you do a lot of these articles like "what to pack in December," there are ways that the cards don't show in your home of the blog.
+
+**Mariana Montezzana:** For example, for the programmatic pages, stuff don't need to show on the design of the site.
+
+**Mariana Montezzana:** So if...
+
+**Mariana Montezzana:** Eventually, if we want to use the same image for all the months, for example, it's no, we can set this up so it doesn't show on your navigating the website, but appears on the search.
+
+**Mariana Montezzana:** But for these articles, my, especially Lucero, the goal here is to use one main image, like that we can use for more than one, and in the middle here, use an image related to the destination, but just one, not a lot of information, because our goal here is SEO focus, I think there is no need to add a bunch of images to this.
+
+**Isabel Luna:** Okay, okay, okay, okay, please do, um, so what you're mentioning about not having the thumbnails, um,
+
+**Isabel Luna:** I'm not sure.
+
+**Isabel Luna:** I think we will have to ask Oscar for like an exception to a rule.
+
+**Isabel Luna:** Yes, it will be something like this.
+
+**Mariana Montezzana:** It's not something I could set up like when we publish, doing the publish process, like you can set up, show this as a card, but it can be done.
+
+**Mariana Montezzana:** I know that for some websites this is done, especially to explore these long tail keywords.
+
+**Mariana Montezzana:** So it's a possibility.
+
+**Isabel Luna:** Yeah, I remember I saw something like that in some of the examples, growthx has an agency.
+
+**Isabel Luna:** for example, best neighborhoods in x destination, and then it has like a chart with all the names of the neighborhoods, and then people only click on the one they are interested.
+
+**Isabel Luna:** So I guess it will be something like that, like what to pack in January, February, like a list.
+
+**Isabel Luna:** Instead of listing everything with thumbnails, it could be like a landing page that groups everything?
+
+**Mariana Montezzana:** I remember you mentioned that we were using the same image and you were seeing repetition when navigating the website.
+
+**Mariana Montezzana:** So the idea for the What to Pack series is to do something really for SEO purposes and AI traffic purposes. If it's a problem that it shows the same image on your cards, we can make this article not appear as a card in the website menu, but still receive all the SEO traffic.
+
+**Isabel Luna:** Currently, the only way of doing that, publishing a page that's not linked to the structure, is if we use the content pages option in the content menu. Those pages can be created without being linked, like we did with the Marietta Asylum. But not for the blogs.
+
+**Mariana Montezzana:** I don't see this as a problem, just in case you don't want the repetitive images to show.
+
+**Isabel Luna:** It would be like a toggle, saying we don't want that page to be listed.
+
+**Isabel Luna:** Carlos, do you have any issues with that? They will be published, just not linked.
+
+**Seo The Adventures Group:** No problem.
+
+**Isabel Luna:** Sounds good.
+
+**Mariana Montezzana:** Lucero, will you be reviewing the articles? We have pending review for publication. We didn't publish anything this week, so I'm a little bit concerned.
+
+**Copywriter Vallarta:** We're reviewing right now. I'm going to approve some of them, and Angie is also reviewing some right now. It's going to be today or at least tomorrow.
+
+**Copywriter Vallarta:** Thank you so much.
+
+**Mariana Montezzana:** Okay, thank you. Have a great week, everyone. Bye-bye.

@@ -1,0 +1,1450 @@
+# Spencer Cappelli -Hiring Manager Screen - Jason | SEO and GEO Lead
+
+<metadata>
+date: 2025-10-09
+time: 15:30 UTC
+duration: 65 minutes
+organizer: jason@growthx.ai
+participants: Jason Gong, Spencer Cappelli
+fathom_recording_id: 93066721
+fathom_url: https://fathom.video/calls/435234249
+share_url: https://fathom.video/share/x2yMvUZxSs39-JCsF9EYQchSPtGfcvAK
+source: fathom
+enriched_on: 2026-03-02 17:04 UTC
+</metadata>
+
+---
+
+## Summary
+
+Jason Gong interviewed Spencer Cappelli for GrowthX's SEO and GEO Lead role, diving deep into how GrowthX productizes content marketing using AI and the challenges of maintaining quality across client accounts at scale. Spencer demonstrated sophisticated thinking about GEO strategy, using SEMrush and Profound to identify high-intent prompts and validate claims about LLM traffic quality, while Jason articulated GrowthX's core problem: finding people who can work in a hybrid ops/product role, balancing high SEO standards with rapid content creation and interfacing with engineering. Both discussed the existential challenge facing the industry—the potential shift from Google-driven SEO to LLM-based discovery over the next 6-18 months, and how GrowthX's bet on productizing for smaller businesses (law firms, dentists) at $3k/month could be the path to scale.
+
+---
+
+## Context
+
+This is a hiring manager screen for a critical open role at GrowthX. Jason Gong (team member/organizer) is interviewing Spencer Cappelli, an experienced SEO and content strategist from upstate New York, for the SEO and GEO Lead position. GrowthX is a 1-year-old agency that's building "machines" combining AI and people to produce high-volume, high-quality content for clients like Webflow. The company is at an inflection point: their fastest-growing problem is quality consistency across multiple client-facing pods, and they're experimenting with GEO (AI search optimization) as a new frontier where there are no established best practices. The broader context is existential—the team is grappling with whether SEO as they know it will exist in 6-18 months as LLM-based search (ChatGPT, Gemini) potentially displaces Google. Spencer's background in agency SEO and hands-on experience tackling GEO measurement challenges makes him a potential fit for this hybrid ops/product role.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Spencer demonstrated mature thinking on quality control at scale—proposing automated systems connecting SEMrush, Profound, and GA4 to flag content gaps and consolidate diluted pillar content across accounts. This directly addresses Jason's stated challenge of maintaining inconsistent SEO standards across pods.
+- Spencer's approach to GEO measurement (using SEO proxy metrics via long-tail queries and CTR signals rather than guessing at prompts) is pragmatic and could become a playbook for the team.
+- Highlighted the need for hybrid ops/product thinking—coordinating between analytics, content, and engineering—which Jason emphasized as the hardest role to hire for.
+
+**To CheckThat / AI Visibility:**
+- Spencer's skepticism about unvalidated claims ("LLM traffic is higher intent") and demand for measurement systems is aligned with CheckThat's mission of bringing rigor to AI visibility. His framework for testing prompt quality against real business outcomes could inform product direction.
+- Experience with Profound and emerging GEO tools positions Spencer to help validate or challenge methodologies as the space matures.
+
+**To GrowthX Business Development:**
+- Potential reference or expansion opportunity if hired and successful—Spencer brought outside-in perspective on what smaller businesses (law firms, dentists, contractors) actually need and will pay for ($3k/month vs. current $15k/month model).
+- Discussion of existential SEO risks and LLM adoption trends could help shape product positioning and retention messaging if industry disruption accelerates.
+
+---
+
+## Overview
+
+- GrowthX aims to productize content marketing using AI, creating high-volume, quality content for clients
+- The role involves owning SEO/GEO strategy, improving service quality across accounts, and experimenting with new optimization techniques
+- Challenges include maintaining consistent quality at scale, navigating client relationships, and adapting to rapid changes in search/AI landscape
+
+---
+
+## Key Topics
+
+### GrowthX's Business Model and Approach
+
+  - Productizing content marketing as a service, leveraging AI for scale
+  - Creating "machines" combining AI and human expertise for high-volume content creation
+  - Example: Webflow integration docs (95% AI-generated) and upcoming developer guides
+  - Aim to be at the forefront of AI-driven marketing changes for clients
+
+### Role Overview: SEO and GEO Lead
+
+  - Own significant piece of SEO and GEO strategy across accounts
+  - Improve average quality of service across all customers
+  - Lead experimentation in GEO optimization, which is still an emerging field
+  - Work with team to adopt and implement new strategies
+
+### Content Creation Process and Challenges
+
+  - Content creation mostly automated, with human involvement at key stages
+  - Challenges in maintaining quality and consistency across accounts
+  - Need for people who can work in a hybrid ops/product role, interfacing with engineering
+  - Importance of setting high standards for SEO and content strategy
+
+### Client Management and Engagement Structure
+
+  - Often take over entire content/SEO function for clients
+  - Initial weeks spent on strategy and aligning stakeholders
+  - Need to navigate potential tensions with existing teams/stakeholders
+  - Importance of clear lane-carving and periodic strategy reassessment (e.g., quarterly)
+
+### GEO (AI Search) Optimization
+
+  - Still experimental, with no established best practices
+  - Using tools like Profound for prompt tracking and visibility benchmarking
+  - Challenges in determining valuable prompts and measuring impact
+  - Potential for higher intent traffic from LLM referrals, but needs validation
+
+### Future of SEO and Content Marketing
+
+  - Uncertainty about the future of SEO in 6-18 months
+  - Exploring alternative strategies (e.g., seeding Reddit discussions)
+  - Potential shift in how marketing is done and what the agency offers
+  - Goal to productize and scale service for smaller businesses (e.g., law firms)
+
+---
+
+## Action Items
+
+- **Jason Gong (GrowthX)** — Discuss with team regarding next steps in the hiring process
+- **Spencer Cappelli** — Follow up with any additional questions
+- **Jason Gong (GrowthX)** — Consider how Spencer's quality control and GEO measurement frameworks could be operationalized into playbooks for client-facing pods
+
+---
+
+## Transcript
+**Jason Gong:** Hey, Spencer.
+
+**Jason Gong:** How's it going?
+
+**Jason Gong:** Doing pretty well.
+
+**Spencer Cappelli:** How's it going?
+
+**Jason Gong:** Doing good.
+
+**Jason Gong:** Long week.
+
+**Jason Gong:** Actually, I thought it was a Friday for half a second, but I realize it's Thursday.
+
+**Spencer Cappelli:** Oh, no.
+
+**Spencer Cappelli:** That's like the worst feeling.
+
+**Jason Gong:** We have this webinar, which we always do very last minute.
+
+**Jason Gong:** We'll float tomorrow.
+
+**Jason Gong:** Once that's over, I'll be able to breathe a little bit.
+
+**Jason Gong:** about you?
+
+**Spencer Cappelli:** Yeah, I hear you.
+
+**Spencer Cappelli:** Yeah, just looking to enjoy the weekend.
+
+**Spencer Cappelli:** I'm not sure where you're based, but we're here in upstate New York, and we're getting the nice foliage and wanting to be outside and do some hikes and stuff.
+
+**Jason Gong:** I'm in the Bay Area.
+
+**Jason Gong:** I'm in Oakland, and then I work in SF, but I'm from Toronto.
+
+**Jason Gong:** I don't know what it is with Asian parents and leaves turning yellow and red.
+
+**Spencer Cappelli:** but they'll drive like two hours to go look at some trees.
+
+**Jason Gong:** I'm like, there's trees outside.
+
+**Spencer Cappelli:** That's pretty funny.
+
+**Spencer Cappelli:** Yeah, my wife is super into it too.
+
+**Spencer Cappelli:** So we'll make some road trips and stuff for sure over the next couple of weeks.
+
+**Jason Gong:** Yeah, but it's great to meet you.
+
+**Jason Gong:** I got some context from the team on the conversation so far, but typically, I mean, we'd love to just share a little bit about what we're doing.
+
+**Jason Gong:** Not sure how much context you have.
+
+**Jason Gong:** And then also what we're trying to build, you know, with this role.
+
+**Jason Gong:** And then we'll have to hear more about you as well.
+
+**Jason Gong:** Does that sound good?
+
+**Jason Gong:** That sounds great.
+
+**Spencer Cappelli:** Yeah, I've done some reading on the website, but it's always good to, you know, hear specifically about the systems and stuff and what you're trying to get angled towards.
+
+**Jason Gong:** So that'd be awesome.
+
+**Jason Gong:** Yeah, I think in general, you know, growthx, we're to our customers and agency, but what we're trying to build is essentially to productize content marketing, at least initially as a service.
+
+**Jason Gong:** So what we do for our customers generally is we'll own the chunk of their marketing function entirely that involves content marketing.
+
+**Jason Gong:** Everything from driving the strategy to creating content to measuring results and iterating.
+
+**Jason Gong:** And our whole angle is in 2025, if you're not using LLMs to at least create some leverage in that function of your company, you're leaving quite a lot on the table.
+
+**Jason Gong:** And I think that'll become increasingly more so.
+
+**Jason Gong:** So for our customers, we build machines that are kind of a mix of AI and people to create like certain types of content at an incredible scale, basically.
+
+**Jason Gong:** So like some examples, Webflow, you know, has an integrations part to their website that they just launched.
+
+**Jason Gong:** And essentially it's like, I mean, I think everyone knows that like Zapier play of like, you know, add a bunch of tools together.
+
+**Jason Gong:** But theirs is essentially almost like.
+
+**Jason Gong:** Developer docs for every kind of, like, everything basically you can even build with Webflow and another tool.
+
+**Jason Gong:** So, like, for example, the Stripe one, if you Google Webflow Stripe, we, like, give a bunch of options for, you know, how you can integrate them together.
+
+**Jason Gong:** And then what we're launching soon, because they liked it so much, is, you know, there's a section on that page where we have, like, some ideas for what you could do with it.
+
+**Jason Gong:** So, like, for example, hey, you can build the membership website with Webflow and Stripe, right, where you, like, paywall people and there's a subscription.
+
+**Jason Gong:** And now we're creating kind of the almost, like, documentation guides on, like, how you would build that.
+
+**Jason Gong:** And their goal with that is, like, you know, Webflow historically has been, like, pretty weak on the developer side.
+
+**Jason Gong:** Like, they're really strong designers and we're trying to help them essentially fix that.
+
+**Jason Gong:** So, in their case, we're, like, replacing, you know, honestly, like, a team of DevRel people.
+
+**Jason Gong:** Like, they're telling me, yeah, like, without you guys, we'd be writing, like, two or three of these.
+
+**Jason Gong:** And I think at the moment we're doing like 30 to 50 of these articles, you know, because essentially we've built a machine and then there's places in this machine where we have like actual developers to make sure it's right.
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** So, yeah.
+
+**Jason Gong:** So that's what, I mean, that's what growthx does.
+
+**Jason Gong:** I think we're pretty kind of bullish on marketing, just being completely changed in a variety of ways by AI, like whether that means, you know, what we're doing can last forever, which I don't think it can, like in terms of just dumping content, even if it is really high quality on the internet.
+
+**Jason Gong:** Like we're, our goal is to be at the forefront of that for our clients.
+
+**Jason Gong:** And then what I do here is I lead, I do growth and marketing.
+
+**Jason Gong:** So, you know, because of, I guess what we do as a company, that also means owning a bunch of clients, like Webflow and Surge and Augment Codes, the third one.
+
+**Jason Gong:** And then I also spend a bunch of time just like at the company level marketing what we do.
+
+**Jason Gong:** Um, which I don't know if you've seen, but like involves a lot of, you content podcasts, um, and things like that, but also involves kind of like figuring out how our service should evolve.
+
+**Jason Gong:** Um, so, you know, six months ago when I joined like GEO and AEO wasn't even really a thing that, um, we did.
+
+**Jason Gong:** I think some people maybe use the acronym a little bit and now it's like, you know, I think almost become the focus.
+
+**Jason Gong:** And I think it's just like pushing that further and further, um, is, is my goal.
+
+**Jason Gong:** And, and then this role, um, I, I think is, is meant to own a significant piece of that, like both the SEO and the GEO part.
+
+**Jason Gong:** So like on the SEO side, I mean, I think the playbook there though, it's changing is like, you know, relatively like set at least a little bit, you know, and it's just like, how do we kind of bring up the average quality of service across all of our customers?
+
+**Jason Gong:** Cause like not.
+
+**Jason Gong:** Everybody on the team is an SEO expert, right?
+
+**Jason Gong:** And we need somebody to kind of like centrally own that.
+
+**Jason Gong:** And then on the GEO side, it's the same thing, but maybe a little bit more experimental.
+
+**Jason Gong:** I think for the most part, nobody really knows how to even optimize for this stuff yet.
+
+**Jason Gong:** And it's like being essentially at the forefront of figuring that out, writing about it, and also getting our whole team kind of to adopt it together with me and some other people on the team.
+
+**Jason Gong:** Yeah, so that's kind of the role we're trying to hire for.
+
+**Jason Gong:** And then, I mean, I guess if you see my LinkedIn, I won't waste too much time, but like my background's basically had a growth for a couple startups.
+
+**Jason Gong:** I've been working on AI since 2018 for this company called Kite, which is almost identical to my current customer, Augment Code.
+
+**Jason Gong:** And it's interesting to see kind of the progression of AI.
+
+**Jason Gong:** And then I was also a founder.
+
+**Jason Gong:** And I met Marcel at a dinner like over a year ago with people that were like...
+
+**Jason Gong:** ...
+
+**Jason Gong:** ...
+
+**Jason Gong:** Kind of early on using AI for marketing.
+
+**Jason Gong:** Yeah, joined him a few months after, basically.
+
+**Jason Gong:** That's really cool.
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** I know he's from Brazil.
+
+**Spencer Cappelli:** I was speaking to Marilia, who was the recruiter who basically did my first kind of phone screen.
+
+**Spencer Cappelli:** And we had fun talking about that a little bit because before even my marketing career, I had a background in languages and studied Spanish, studied Portuguese.
+
+**Spencer Cappelli:** And, you know, I was just talking to her about Brazilian music, which I thought she looked at me and she was like, did not think you were going to say those artists that you did.
+
+**Spencer Cappelli:** So, yeah, no, that's fun.
+
+**Spencer Cappelli:** It seems like a great culture, great people.
+
+**Spencer Cappelli:** And it's really fun to kind of, you know, hear you unpack a little bit what you guys are building and what you're angling towards.
+
+**Spencer Cappelli:** Yeah, for sure.
+
+**Jason Gong:** Great culture.
+
+**Jason Gong:** I would say, like, it's interesting.
+
+**Jason Gong:** Like, I don't think any agency, like regular growth agency could build.
+
+**Jason Gong:** Build a team like this, because for the most part, I would never join an SEO agency, because it's not interesting.
+
+**Jason Gong:** The outcomes aren't there, but what we're doing here is kind of dialing that up, and I think it brings together some really cool people.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah, so it's a great team.
+
+**Jason Gong:** Yeah, I totally agree.
+
+**Spencer Cappelli:** Yeah, read the VentureBeat article about Marcel kind of talking through the philosophy of the team, and it's one of the reasons why I was really bullish on starting this interview process and applying was because the idea that AI is here to basically augment expert judgment.
+
+**Spencer Cappelli:** And I think that when you're in a world now where the barrier to produce content is so low, anyone can hop into Claude Sonnet or ChatGPT and they can produce a blog, having that editorial judgment combined with a systems thinking approach around AI is how brands are going to stand apart.
+
+**Spencer Cappelli:** Um, and so felt very aligned on that and excited to, to learn more, but yeah.
+
+**Jason Gong:** And let me know if you have any questions.
+
+**Jason Gong:** I mean, we'd love to hear more about you for sure.
+
+**Jason Gong:** You know, I know a little bit about, about Tuff, uh, just from Googling it, but yeah.
+
+**Jason Gong:** I'd love to kind of hear your background as well.
+
+**Spencer Cappelli:** Yeah, absolutely.
+
+**Spencer Cappelli:** Um, so Spencer Cappelli, um, I've been doing SEO for about six, seven years.
+
+**Spencer Cappelli:** I started doing marketing and in college, even for, uh, like the college of health sciences at the, at the university I went to in Ohio from Cleveland originally now in upstate New York.
+
+**Spencer Cappelli:** Um, and yeah, I've done stints, uh, in-house, um, most recently was at, uh, AppQs where I was the content marketing manager, kind of in charge of SEO, mostly focusing on the blog and like distribution of, uh, learning content.
+
+**Spencer Cappelli:** Uh, but I've also have significant agency experience four plus years, um, kind of how I got into the industry.
+
+**Spencer Cappelli:** I had, uh, a journalism background and a writing background and a guy hired me because.
+
+**Spencer Cappelli:** He was like, we can teach you SEO, you know, you know how to write and you know how to do editorial, and so we can teach you the rest.
+
+**Spencer Cappelli:** And kind of since then, I've started from someone who was like an editorial first, kind of like content first person to someone who has helped manage content migrations, indexing issues for websites with a million plus pages, and kind of bringing that up to speed.
+
+**Spencer Cappelli:** I, you know, most recently at Tough Growth, where I, you know, typically worked with a range of like five to seven clients, but often a lot more when we're talking about like new business opportunities, SEO audits, worked with brands like AARP, did audits for companies like Planned Parenthood, and then ran also SEO content strategies for companies like Multiverse in the UK.
+
+**Spencer Cappelli:** And so I've, you know, I've been doing SEO enough to see, you know, when I started and how everyone was talking about like the arrival of semantic SEO, and where to where we are now, where.
+
+**Spencer Cappelli:** And I have also gone kind of through like the phases of like existential dread where I was like, my God, like AI is going to replace all of us by like the end of 2025.
+
+**Spencer Cappelli:** That's kind of how I felt like a year ago to where I am now, where I think that I do view the human input to being essential in making good content, especially when you can marry that to systems.
+
+**Spencer Cappelli:** And, you know, playing around with tools, you know, understanding how to gauge and how clients value, you know, things like citations, you know, just their visibility in AI platforms, kind of translating that into a tangible business outcome.
+
+**Spencer Cappelli:** So I would, I would probably agree with your assessment of agency life where a lot of it is kind of boring and rote.
+
+**Spencer Cappelli:** And also sometimes you don't get to stick around long enough to prove those results out over a long period of time, which is frustrating.
+
+**Spencer Cappelli:** It's probably the worst part about agency life, but I do think it was a valuable experience for me getting placed in front of so many different, like, you know, whether it's a V.
+
+**Spencer Cappelli:** So I felt like I got a lot of great reps and experience doing that, especially over the last two years of my career.
+
+**Jason Gong:** I mean, I'll just say, I think agency is actually pretty interesting.
+
+**Jason Gong:** I think more of the point I was trying to make is, we have the head of design from Grammarly, we have early engineers from some of the unicorns here.
+
+**Jason Gong:** And I was saying more like, there's no way those people would ever join an SEO agency, but they would join us and build these incredible systems.
+
+**Jason Gong:** So I think categorically, there's maybe one or two agencies in the world that could try to do what we're trying to do, just by function of the team they can assemble.
+
+**Jason Gong:** And then, yeah, but I mean, for the most part, I think it's like super stressful, to be honest.
+
+**Jason Gong:** This is my first like kind of, you know, time.
+
+**Jason Gong:** second time.
+
+**Jason Gong:** Like add an agency essentially, but it's also, yeah, it's also fun.
+
+**Jason Gong:** Like you get to meet a lot of people, like you said.
+
+**Spencer Cappelli:** Yeah, I do think that if like your previous experience is in-house, that transition can be very stressful.
+
+**Spencer Cappelli:** We were kind of like in the beginning feeling like you're always on and kind of like, especially like the end of quarters.
+
+**Spencer Cappelli:** I don't know if you experienced that too, but it's like, you know, everyone's trying to ship at the end of quarters.
+
+**Spencer Cappelli:** Everyone's preparing like, you know, QPS docs and you've got like, you know, all these different clients that are trying to accomplish similar things, but with different goals and, you know, it's, it, that is an adjustment period.
+
+**Spencer Cappelli:** So I think like having that agency experiences has been valuable in my career because of, you know, coming from in-house, there's a lot of like context change compared to when you're like, you're at a SaaS company and you're like, here's, you know, one product, three to four different target audiences, you know, your 10 battle cards that you need against competitors and like, go make content with that.
+
+**Spencer Cappelli:** So definitely, definitely a change, but a good experience.
+
+**Spencer Cappelli:** Is your client.
+
+**Jason Gong:** It's now mostly like consumer e-commerce, B2B, SaaS.
+
+**Jason Gong:** Do they follow like any sort of pattern?
+
+**Spencer Cappelli:** Yeah, I'd say that the majority of the clients that I've worked with during my time at Tuff were B2B, SaaS, a healthy mix of e-commerce, more than a few ed tech companies as well.
+
+**Spencer Cappelli:** You know, and we usually got like a, you know, because we were basically a division of a much larger kind of like prestige agency, I guess you could call it that.
+
+**Spencer Cappelli:** They'd have been around a long time, Goodway Group, you know, and they were really focused on like programmatic media and activation for like big brands, like think Petco, General Motors.
+
+**Spencer Cappelli:** And so occasionally, you know, I would get tapped to like come in and do like work on RFPs for organic for some of those bigger brands.
+
+**Spencer Cappelli:** But I would say for the most part, most of the clients I've worked with were like in that B2B SaaS kind of like growth stage and more rarely like on the enterprise level.
+
+**Spencer Cappelli:** But yeah, was kind of the sweet spot for me.
+
+**Jason Gong:** These giant agencies are super fascinating.
+
+**Jason Gong:** Do you have much interaction with the main company, like I guess the parent company?
+
+**Spencer Cappelli:** have to be totally transparent.
+
+**Spencer Cappelli:** I was actually impacted by essentially a restructuring at the company just a little over 10 days ago.
+
+**Spencer Cappelli:** So I'm kind of looking for my next opportunity.
+
+**Spencer Cappelli:** But that's kind of part of a function of like how messy all of this was.
+
+**Spencer Cappelli:** Like I think they're essentially moving in a direction where they're not doing organic anymore.
+
+**Spencer Cappelli:** And so, you know, that didn't augur well for what I did.
+
+**Spencer Cappelli:** But yes, we would like get called in to, to interact with some of these companies and very like ad hoc ways, which was both like terrifying and exciting.
+
+**Spencer Cappelli:** But yeah, talk to a bunch of different types of clients, which was good, I guess.
+
+**Jason Gong:** So like, I guess for the clients that you did have was...
+
+**Jason Gong:** Like optimizing for AI a big part of the engagements?
+
+**Jason Gong:** Or is that kind of still early?
+
+**Jason Gong:** It increasingly was.
+
+**Spencer Cappelli:** One of the pushes that we had made in recent months was this idea of OneSearch is what like some of the Goodway leadership was branding it as.
+
+**Spencer Cappelli:** Because most of their active accounts revolved around like paid and programmatic media and activation.
+
+**Spencer Cappelli:** And so they were trying to sell them on, you know, kind of like the arrival of GEO as an inflection point in an opportunity to bring organic and LLM search into one umbrella, combining it with insights from like paid.
+
+**Spencer Cappelli:** So, you know, taking a holistic approach to SERPs, you know, in general from paid results down to organic results, and then how that, you know, kind of leveled up to LLM visibility.
+
+**Spencer Cappelli:** And it was really funny because they came up with kind of this proof of concepts and they were like, okay, you need to go in and like make it make sense.
+
+**Spencer Cappelli:** And so I was just kind of thrown in front of these clients and was building doc.
+
+**Spencer Cappelli:** I mean, this is probably.
+
+**Spencer Cappelli:** Most of what I did for like the last month and it was starting to get some traction.
+
+**Spencer Cappelli:** did not think it would, but then this restructuring happened.
+
+**Spencer Cappelli:** So yeah, it was an interesting time.
+
+**Jason Gong:** Got it.
+
+**Jason Gong:** So you weren't actually like, were you guys like actively, you know, like monitoring prompts and like kind of trying to create content optimizing.
+
+**Jason Gong:** Did you guys do any of that?
+
+**Spencer Cappelli:** For sure.
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** So like there were, I guess, two different types of clients, like the tough clients where I had actively like integrated GEO visibility into part of like our work and the other ones where it was more like audit and opportunity based.
+
+**Spencer Cappelli:** But, you know, I guess for that first group, you know, our, our tool preference was profound.
+
+**Spencer Cappelli:** And so, you know, kind of all the things you can get from that a typical workflow would be like, you know, here are some like branded non-branded keywords, you know, keywords that are like, you know, trying to find a good mix between like long tail that are maybe more like Bofu focused and keywords that are, you know, maybe mid funnel or above that higher search volume.
+
+**Spencer Cappelli:** And then integrating those into the prompts that we were basically setting up for ProFound to execute across all the different LLM platforms to benchmark visibility and citations.
+
+**Spencer Cappelli:** And so, yeah, I mean, it was a weird thing because I was reaching a point where I was starting to include this like in monthly reporting and deliverables, even when clients weren't asking for it.
+
+**Spencer Cappelli:** Some of them were, but other ones I, you know, I just had a conversation and I was like, look, I know we're not even like charging for this yet, but we're building out this, you know, workflow.
+
+**Spencer Cappelli:** And, you know, as an SEO professional, I honestly would feel remiss if I didn't mention that.
+
+**Spencer Cappelli:** feel like everything about what we're doing right now is changing and you need to be aware of this.
+
+**Jason Gong:** I think like early days, we were also doing this and the tools early days were like incredibly expensive.
+
+**Jason Gong:** think ProFound was charging like three to five grand to track like a few hundred prompts.
+
+**Spencer Cappelli:** We had a sweet, hard deal with them somehow.
+
+**Spencer Cappelli:** Like we convinced them to, because I think they wanted like an agency to test them out.
+
+**Spencer Cappelli:** So they allowed us for like $500 a month to put like 10 to 15 different websites into and like with different prompts.
+
+**Spencer Cappelli:** But like it was highly problematic for what you said.
+
+**Spencer Cappelli:** Like we didn't want to make a lot of noise in the account because we didn't want them to start charging us.
+
+**Jason Gong:** And so like we would go in and like remove ones that like didn't sign with us or like ones that didn't see.
+
+**Spencer Cappelli:** Yeah, like we were also, yeah, man, I'm curious how you guys structured it.
+
+**Jason Gong:** But like we were also like, yeah, this is kind of expensive.
+
+**Spencer Cappelli:** Like we should pass on the cost or should we just like wrap it and offer it?
+
+**Spencer Cappelli:** And then like as we were thinking about that, the whole like bottom of that market just like fell through.
+
+**Jason Gong:** And now it's like whatever, 200 bucks, you know, for hundreds of prompts.
+
+**Jason Gong:** So now we don't really like we would just bundle it in.
+
+**Spencer Cappelli:** Yeah.
+
+**Jason Gong:** But like what's your take on the whole just like LLM visibility, the kind of way it's done now?
+
+**Jason Gong:** Tracking prompts, you know, what you're doing to optimize.
+
+**Jason Gong:** Like do you have like just in general, I guess, what's your what's your thought on that whole space?
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** No, I think that probably my spiciest take, and this is not a dig at people who are building GEO, AEO strategies, I do think probably 80% of that work is what people who have been practicing good SEO for years would already have been baking into their workflows.
+
+**Spencer Cappelli:** Like, I've seen too many LinkedIn posts from people who are like, you need to be using schema, and you need to be using, you should be like doing EAT, basically, should be doing EAT, like you need to be interviewing your experts.
+
+**Spencer Cappelli:** I'm like, people have been doing this for years, like this is not, that's not GEO.
+
+**Spencer Cappelli:** And so I think that's probably my biggest take, like there are a lot of people who are trying to pass this off as something that's entirely new, and it's not.
+
+**Spencer Cappelli:** But that being said, do think that GEO, AEO, whatever you want to call it, is distinct enough insofar that there are different weights.
+
+**Spencer Cappelli:** You know, there are different, like there are different indicators, like there's been, you know, Kevin Indig, who writes the growth memo, he did a webinar a couple months ago.
+
+**Spencer Cappelli:** And he presented some pretty solid evidence that was like, you know, backlinks are not as important for LLM visibility.
+
+**Spencer Cappelli:** And in fact, you know, now we're seeing that, you you can be cited in LLMs and, you know, you don't need to have a backlink or like it be actually linked.
+
+**Spencer Cappelli:** The brand mentioned is what matters.
+
+**Spencer Cappelli:** But he talks about things like word count and, you know, bolded paragraphs and essentially just like, you know, easy to understand structure so that LLMs can, you know, extract and synthesize from different, from different sources.
+
+**Spencer Cappelli:** And so I think like, it's not entirely new, but there are different weights.
+
+**Spencer Cappelli:** Whereas like, if you're looking at traditional SEO, you know, if you're doing SEO in 2020 and you're starting from like ground zero, like you're probably trying to like stand up a ton of like top of funnel informational articles.
+
+**Spencer Cappelli:** And like, you're also maybe buying links from like link farms that like with websites that have like a 40 to 60 domain authority.
+
+**Spencer Cappelli:** And you're like, this is doing SEO.
+
+**Spencer Cappelli:** You know, I think some of that stuff is going away and it should.
+
+**Jason Gong:** So that's why I'm kind of bullish on all of this.
+
+**Jason Gong:** But I also think there's a lot of people who are trying to like pass off these like unique relevatory insights that are not necessarily unique or relevatory.
+
+**Jason Gong:** That's my hot take, but.
+
+**Jason Gong:** Yeah, I think I'm with you.
+
+**Jason Gong:** Like there's like tactics I'm sure will come and go and maybe at any point in time, like might give you some lift, but like the core of everything, at least to us, I think it's just like, I mean, like the purpose of all this content is to like provide value to somebody.
+
+**Jason Gong:** And like, that's, that's the benchmark, you know, and I think internally for us, like AI helps get there.
+
+**Jason Gong:** Cause like, I mean, again, like don't, don't blow your budget on writing words, you know, from somebody who's using chat GPT anyway, like spend your budget on interviewing people, doing surveys, like digging for like real information that's helpful, you know, testing products and doing research yourself.
+
+**Jason Gong:** Um, but I guess like, like, what about just like the monitoring itself?
+
+**Jason Gong:** Like, I think, um,
+
+**Jason Gong:** Like kind of pinging prompts and then seeing the response and then like tracking that.
+
+**Jason Gong:** Like, do you, do you have a take on that?
+
+**Spencer Cappelli:** Like the efficacy of it essentially?
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** I mean, I guess the efficacy of like pinging these prompts, mean, you could using a tool like Profound to do that is definitely going to be more efficient than trying to do like that sort of manual visibility benchmarking where you're like hopping into chat GPT and you're like, what are the test bend, what are the 10 best CRMs?
+
+**Spencer Cappelli:** You know, I mean, I think that's one of the benefits of those tools is you, you do get the automation, the automation of like, you know, hundreds of those executions a day across different platforms.
+
+**Spencer Cappelli:** I think it only works if you have a really good understanding of what prompts are most valuable to you.
+
+**Spencer Cappelli:** And this is something that is still like, I'll be honest, like you mentioned like six to eight months ago, a lot of people were, were, were kind of working with geo for the first time.
+
+**Spencer Cappelli:** Like this is one of the, maybe the dots I'm still trying to connect.
+
+**Spencer Cappelli:** Like.
+
+**Spencer Cappelli:** Like.
+
+**Spencer Cappelli:** Like.
+
+**Spencer Cappelli:** Like.
+
+**Spencer Cappelli:** Because a lot of these tools, at least the last time I was in there, they don't offer an equivalent of a monthly search value for a prompt that you can find with a SEMrush keyword.
+
+**Spencer Cappelli:** I think it makes sense.
+
+**Spencer Cappelli:** All of these queries, they're not keywords.
+
+**Spencer Cappelli:** Most of them are long-tail expressions, and they're very conversationally oriented on traditional keywords that people would type in Google.
+
+**Spencer Cappelli:** And so I think that's one of the question marks for me is, how do you know which of the prompts is actually valuable?
+
+**Spencer Cappelli:** You can use monthly search volume from an SEO tool as a proxy to understand if a prompt is valuable.
+
+**Spencer Cappelli:** But outside of that, I think it's just having a really strong understanding of the ICP and the customer journey.
+
+**Spencer Cappelli:** Because if you know how someone moves from lack of awareness down to conversion, then you can kind of model that out with the prompts that you select.
+
+**Spencer Cappelli:** But, you know, like agencies, for example, might not always be the ones who are best positioned to do.
+
+**Spencer Cappelli:** Do that, like, you know, or they have to really rely on someone who has a really strong understanding of the customer journey of the product.
+
+**Spencer Cappelli:** So, yeah, all of this, I think it is valuable.
+
+**Spencer Cappelli:** Like, you know, everyone is talking about it.
+
+**Spencer Cappelli:** So it is, I think it's important to start benchmarking these things, but we can't also let it get into an area where, you know, like, I would never be on board with an SEO strategy, for example, that's entirely based on like, okay, how many non-branded organic keywords we have in the top 10 in SEMrush now?
+
+**Spencer Cappelli:** Versus like, how are we actually driving business value and conversions and demos booked?
+
+**Spencer Cappelli:** Like, there's a tendency to use these, like, proxy metrics as like the North Star when they probably shouldn't be.
+
+**Spencer Cappelli:** So, long answer, but I hope that kind of touched on where you are.
+
+**Jason Gong:** No, I think that makes sense.
+
+**Jason Gong:** I think, I mean, that's been like one of our challenges of how to communicate this stuff.
+
+**Jason Gong:** Because depending on the client, some of them might almost obsess over like, hey, when I ask this in ChatGPT, like, I don't show up.
+
+**Jason Gong:** Like, how do we?
+
+**Jason Gong:** And fix that, right?
+
+**Jason Gong:** But then at the same time, it's like, you don't really know.
+
+**Jason Gong:** I mean, there's proxies for it, as you said.
+
+**Jason Gong:** Some of the prompts, I guess, are kind of close to like, you go to your favorite SEO tool and it's like, oh, there's questions in this kind of topic area.
+
+**Jason Gong:** And some of the prompts are kind of similar to that.
+
+**Jason Gong:** But for the most part, you know, like one, how to even guess at how the prompts are worded.
+
+**Jason Gong:** But, you know, and two, like most of them, like you wouldn't find with any search volume, like at least the SEO equivalent.
+
+**Jason Gong:** So we have a hard time kind of figuring out how to like, weigh the importance of it, you know, and also how to communicate it.
+
+**Jason Gong:** Did you have any kind of experience doing that?
+
+**Jason Gong:** sounded like you were being pushed to do it, you know?
+
+**Spencer Cappelli:** I was, like I said, I kind of just like cobbled it together in the way that most made sense to me.
+
+**Spencer Cappelli:** And I think it started, like, like, if we think about like, retrieval, you know, like LLMs, like.
+
+**Spencer Cappelli:** They scan the open web, okay, so like we know that a lot of the same inputs for that, like what causes visibility in SEO to an extent when we're talking about like RAG in particular that can also drive visibility in LLMs.
+
+**Spencer Cappelli:** And so my thought process was if I don't really have any other indicators as to what makes a prompt or the key or the queries within a prompt valuable, then I'm going to use other indicators.
+
+**Spencer Cappelli:** And so essentially that would be like SEO data.
+
+**Spencer Cappelli:** Like I would go into SEMrush and I would say, you know, are there long tail queries?
+
+**Spencer Cappelli:** A lot of them were not, but like, are there like, what are, or I can even go to a website and say like, okay, what are their top 100 organic keywords?
+
+**Spencer Cappelli:** Pull out a selection of them and see what kind of prompts are being reproduced on the other end.
+
+**Spencer Cappelli:** Or like, you know, I would pull out keywords and then have the ChatGPT format those into sentences or prompts that were, you know, conversational information intent driven for the most part.
+
+**Spencer Cappelli:** And then run those through and see how the visibility was benchmarked on the other end.
+
+**Spencer Cappelli:** And I think I recognize that's a very.
+
+**Spencer Cappelli:** That was just kind of one of the ways that, that was one of the solutions I came up with when someone came to me and was like, hey, we need to do this.
+
+**Spencer Cappelli:** I, you know, I think that, like, to your point earlier, like, we're all kind of learning how this works.
+
+**Spencer Cappelli:** And, you know, I think the best thing that you can do as a practitioner of SEO and organic is be, you know, be voracious with, like, how you are reading what other people do with your own experimentation when possible.
+
+**Spencer Cappelli:** Because, yeah, there's a lot of dots that still have be connected, in my opinion.
+
+**Jason Gong:** Is there, like, an experiment you would run to, like, try to figure more of this out?
+
+**Jason Gong:** Have you ever thought about, yeah, like, if you had, you know, resources to do that, like, what would be an interesting way to kind of unpack how all this works?
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** I mean, with resources, I mean, like, so if I think about probably Google Search Console, I think would play a big role.
+
+**Spencer Cappelli:** Like, how are people actually landing on your website?
+
+**Spencer Cappelli:** So you have, like, keywords.
+
+**Spencer Cappelli:** And so I would think about some sort of system workflow that automates the communication between your SEMrushes, between your Profound, and between your Google Search Console instance, so you could pull in all of these different queries and try to map patterns, like, are there different ways, like, what are the queries that are actually generating click through?
+
+**Spencer Cappelli:** So, like, queries with high CTR, you know, does that matter?
+
+**Spencer Cappelli:** Does it not?
+
+**Spencer Cappelli:** I don't know.
+
+**Spencer Cappelli:** I feel like I would need to kind of experiment with it more, but those are the platforms that I'd be looking for, kind of that raw material.
+
+**Spencer Cappelli:** And I think there was another thought, but I lost it.
+
+**Spencer Cappelli:** Yeah, I that's probably where I'm at.
+
+**Jason Gong:** So I guess you're trying to kind of create a system to maybe help you almost, like, bring some, like, measurable quality to the prompts.
+
+**Jason Gong:** I guess it's, like, if you have a vote prompt, that's, like, I mean, for the most part,
+
+**Jason Gong:** Like what are the best CRMs I'm sure has the same as an SEO keyword, but if it was like, you know, what are the best ways to automate your outbound sales process?
+
+**Jason Gong:** Like that sentence probably does not exist in SEMrush, but like outbound sales automation and like there are like keywords that are kind of like related to that topic.
+
+**Jason Gong:** And maybe you can kind of map together some idea of like, hey, this prompt should have a little bit more weight than the other one.
+
+**Jason Gong:** That's like, you know, does your CRM integrate with Slack, which is like kind of important, but less so and probably converts less, right?
+
+**Jason Gong:** Like you're trying to kind of, yeah, like bring some volume and like conversion intent to like the prompts you're tracking.
+
+**Jason Gong:** Is that kind of what you're.
+
+**Spencer Cappelli:** Yeah, I think this also, it kind of, it kind of resonates with like this off repeated claim that I've seen on LinkedIn.
+
+**Spencer Cappelli:** That is like people who have set up their Google analytics so that they can track like LLM referrals.
+
+**Spencer Cappelli:** I've seen a lot of people say that LLM traffic.
+
+**Spencer Cappelli:** Is higher intent than organic.
+
+**Spencer Cappelli:** And that's the kind of claim that myself as a skeptical person, I read that and I'm like, okay, but how and why?
+
+**Spencer Cappelli:** How are you measuring that?
+
+**Spencer Cappelli:** so maybe pulling in the actual click-through and combining it with SEMrush, Longtail, and then you have an agent that kind of interfaces between the two to kind of put stress tests on some of these claims.
+
+**Spencer Cappelli:** I don't know.
+
+**Spencer Cappelli:** I'm sure you've probably seen that claim as well.
+
+**Jason Gong:** Yeah, I mean, I've seen that one.
+
+**Jason Gong:** There's actually somebody on our team who's left now that was very adamant about that claim.
+
+**Jason Gong:** It's like, hey, if you look at the query lengths over a certain number, here are the kind of things people are typing into, like Gemini.
+
+**Jason Gong:** And I feel like that just kind of wasn't totally true.
+
+**Jason Gong:** And then the claim that triggers me the most is like when somebody pastes like a pie chart of like what the most cited sources are.
+
+**Jason Gong:** And...
+
+**Jason Gong:** And...
+
+**Jason Gong:** And they don't talk at all about like what the prompts that they're tracking are.
+
+**Jason Gong:** Because like for the most part, it's not like everyone has the same set of prompts, right?
+
+**Jason Gong:** So if you show me a pie chart, you're like, it's like, my God, it's like 70% Wikipedia and Reddit.
+
+**Jason Gong:** Like, I feel like I could make that any number depending on what prompts I chose, right?
+
+**Jason Gong:** So 100%.
+
+**Jason Gong:** That also confuses me.
+
+**Spencer Cappelli:** Let me think.
+
+**Jason Gong:** Like, okay, I mean, I guess, so like another part of this role is like, like we want to bring the kind of average quality of SEO up in our org.
+
+**Jason Gong:** And just practically like how that works now is like we have a bunch of different like client services teams.
+
+**Jason Gong:** I would say like a lot of them just have strengths in different things.
+
+**Jason Gong:** Like I'm a generalist.
+
+**Jason Gong:** So like, you know, typically my clients get a lot of everything.
+
+**Jason Gong:** But there's some pods, I guess, where the pod leader is like, like their backgrounds and kind of journalism and kind of like that sort of editorial.
+
+**Jason Gong:** the everybody.
+
+**Jason Gong:** you have don't want Thank you.
+
+**Jason Gong:** Style writing where they don't know a ton about SEO.
+
+**Jason Gong:** mean, they're smart and they can learn.
+
+**Jason Gong:** And then we have some other pods where it's like, maybe they were purely SEO and we need to supplement with the writing to be less cut and dry, like keyword stuffing.
+
+**Spencer Cappelli:** Yeah.
+
+**Jason Gong:** So I think on the SEO side, what we've lacked so far is like any like quality standards or playbook for like, hey, every pod, like this is how you should do SEO.
+
+**Jason Gong:** You know, like we like, I think there's some of our pods who don't even use SEMrush.
+
+**Jason Gong:** Like, like, I don't know how they do it, but like, they're literally like, I don't know.
+
+**Jason Gong:** They're, they're just kind of doing it from first principles because of understanding the customer, which, which again is a great way to do it.
+
+**Jason Gong:** It's just like, you should at least open SEMrush, you know, and run some like automated audits.
+
+**Jason Gong:** And then we have some, you know, so like the, the variance and like how much SEO we do is just all over the place.
+
+**Jason Gong:** Is there, like, knowing that's how the team's set up and you have to ask me more questions, like, is there a system you can imagine that tries to, like, bring the floor up?
+
+**Jason Gong:** Like, how would you design or at least think about approaching something like that?
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** I think it gets tricky the more volume is pushed through this.
+
+**Spencer Cappelli:** And I know that Marilia, for example, mentioned when I was chatting with her that there are some accounts where, you know, growthx is producing, like, 80 to 100 or even in excess of that blogs a month, which I think is fine.
+
+**Spencer Cappelli:** I don't think there's anything wrong with that in principle.
+
+**Spencer Cappelli:** I think you're hitting at the thing that's tricky and it's the quality.
+
+**Spencer Cappelli:** And I think there are ways to do it.
+
+**Spencer Cappelli:** I mean, I think that you have to be, I mean, I always look at it from a first principles perspective, when I'm taking my experience in SEO, you have to create content that's valuable to the reader.
+
+**Spencer Cappelli:** I think Google EAT outlines a good.
+
+**Spencer Cappelli:** That's a great starting point, going there and saying, how can we up-level the content on page to be more aligned with these guidelines?
+
+**Spencer Cappelli:** And there's some people who are very skeptical of Google, and they would say that Google is all about do as I say, not as I do.
+
+**Spencer Cappelli:** But I do think that in general, the writing guidelines that Google publishes are helpful.
+
+**Spencer Cappelli:** And I think that that's one of the threads that I've been long on in my entire career, and it's why I've been able to drive success with content and SEO.
+
+**Spencer Cappelli:** You know, you need to talk to your SMEs, need to talk to your customers.
+
+**Spencer Cappelli:** Okay, when you're talking about 80 to 100 articles a month, the way that you talk and interface with them is maybe different.
+
+**Spencer Cappelli:** Like maybe it is like literally exporting transcripts from like gone calls with your customers, and then like you're finding really scrappy ways to include like SME perspectives.
+
+**Spencer Cappelli:** That could look like setting up a custom GPT that already is trained on your brand voice and style guide documents.
+
+**Spencer Cappelli:** Maybe you have like a feedback.
+
+**Spencer Cappelli:** This is something I did.
+
+**Spencer Cappelli:** I created a custom GPT where in addition to that, would also like keep a running doc of things that like a client said like, hey, we don't do it this way.
+
+**Spencer Cappelli:** Or this was a data center client.
+
+**Spencer Cappelli:** So they were very particular about talking about things like co-location and compute and all these like technical terminology that as a lay person was, you know, it was kind of a learning experience for me.
+
+**Spencer Cappelli:** But like running that through custom GPT and then like scanning the articles and say like, you know, where are we, where are we consistently missing this?
+
+**Spencer Cappelli:** Or, you know, like cross-reference the interview that we did with the VP of channel sales from two months ago and incorporate like, how would he characterize this specific part, this specific point about co-location for like Edge AI?
+
+**Spencer Cappelli:** So like things like that, I think you have to find ways to be scrappy to do it.
+
+**Spencer Cappelli:** But just because you're doing volume and scale doesn't mean, doesn't give you an excuse to not produce quality content.
+
+**Jason Gong:** Yeah, I mean, I think at the individual content level, that makes a lot of sense.
+
+**Jason Gong:** So like things like that, you know, like, you like, like, you like, you You
+
+**Jason Gong:** I mean, we tend to kind of partition these programs or outcomes in terms of the quality of content.
+
+**Jason Gong:** We have a whole engineering team that does try to iterate this over time.
+
+**Jason Gong:** And then one of the people on our team used to be the editor-in-chief at TechCrunch.
+
+**Jason Gong:** So he's been kind of spearheading this, like, how do we, whether it's people or workflows or AI, like, kind of just, like, bring, again, the floor up on, like, the content itself.
+
+**Jason Gong:** I think where we're lacking, I mean, there's always improvements on quality content, but where we lack the most is, like, at a kind of account level, like, what is the content strategy that's being set?
+
+**Jason Gong:** And is that, like, being iterated and does it make sense, you know?
+
+**Jason Gong:** That's, like, a gap right now because, again, some accounts do it really well.
+
+**Jason Gong:** Some accounts we don't.
+
+**Jason Gong:** And then on.
+
+**Jason Gong:** On an ongoing basis, like, are we just kind of like keeping a pulse on SEO and geo, whether it's like technical or whether it's like, you know, are we just like completely cannibalizing like certain topics by writing like 20 articles about essentially the same thing?
+
+**Jason Gong:** Like those are the places where, again, for the pods where there are SEO kind of domain experts, that is great.
+
+**Jason Gong:** But then for the pods that are not, we tend to seem like a little bit of drift, you know, especially like at the very beginning of all our engagements.
+
+**Jason Gong:** Like, I think we do a good job of like setting the direction, but like almost all our accounts need some level of adjustment, like whether it's weekly, monthly, you know, and that's where we've seen like, hey, accounts that just don't really know SEO that well.
+
+**Spencer Cappelli:** Like I can see that drift over time.
+
+**Spencer Cappelli:** Yeah.
+
+**Jason Gong:** So is there anything you can, you can say about like, like, let's just say like content strategy or the like technical side of SEO, like how you would, you know, as one person with maybe like a few others.
+
+**Jason Gong:** who can support, like, do this across, like, 60, you know, plus accounts.
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** I mean, the scale is always the tricky part.
+
+**Spencer Cappelli:** mean, I can walk you through how I would approach this, you know, as a content strategist with tough clients.
+
+**Spencer Cappelli:** And, you know, you alluded to, I think, some of, like, that calibration and alignment that comes with onboarding.
+
+**Spencer Cappelli:** And I think that's crucial as well.
+
+**Spencer Cappelli:** Like, what are the goals?
+
+**Spencer Cappelli:** And, you know, when they tell you what they want to achieve, what do they actually mean by that?
+
+**Spencer Cappelli:** So I think it's important to get that down on paper in the beginning.
+
+**Spencer Cappelli:** And then I also think that you have to have, you know, you have to have regular check-ins.
+
+**Spencer Cappelli:** So, like, I would do monthly SEO reporting.
+
+**Spencer Cappelli:** And also, that would feed into quarterly strategic planning for all of our organic accounts.
+
+**Spencer Cappelli:** And so, you know, looking in your SEMrush, your GA4, your Google Search Council, now your Profound, benchmarking the trend lines and all of those things.
+
+**Spencer Cappelli:** But also, like, you know, kind of like whether it's monthly or quarterly,
+
+**Spencer Cappelli:** Like using a tool like a ClearScope or a Surfer SEO to run through and get a content score for like your main like product landing pages.
+
+**Spencer Cappelli:** Like are these optimized?
+
+**Spencer Cappelli:** Like, you know, are there opportunities to expand them?
+
+**Spencer Cappelli:** Should we add FAQ schema?
+
+**Spencer Cappelli:** You know, all of these sorts of questions.
+
+**Spencer Cappelli:** Like you have to find a way to bake that in to the ongoing work so that you can feel confident that you're up leveling their strategy.
+
+**Spencer Cappelli:** I think that when you're talking about executing that at a scale of 60 plus client accounts, the approach would look vastly different.
+
+**Spencer Cappelli:** But, and, you know, this is something I did not really have like internal support or even really the need.
+
+**Spencer Cappelli:** Like we were so, in many ways, we were manual.
+
+**Spencer Cappelli:** Like I sped up the particular instances of my job kind of like to the extent that I felt was right or needed.
+
+**Spencer Cappelli:** But, you we didn't have like agentic workflows going on in the background that were automating all of this.
+
+**Spencer Cappelli:** But I think there's like a, there's a world where that maybe is the approach at a, you know, at an organization like GrowthX with that many accounts.
+
+**Spencer Cappelli:** You know, how can you get these different.
+
+**Spencer Cappelli:** Different analytics accounts, SEMrush, profound to interface with each other, you know, create a version of monthly reporting that proactively flags where there are dips, where there are content gaps, taking like a query fanning model and saying like, okay, here's like 150 possible topics that we need to cover and we've only covered this many.
+
+**Spencer Cappelli:** Or you can say like, okay, this like content pillar, we're writing about CRMs and we have this particular pillar piece that's about, you know, like lead scoring.
+
+**Spencer Cappelli:** I don't know.
+
+**Spencer Cappelli:** And we've covered it like in 20 different ways.
+
+**Spencer Cappelli:** Like maybe we need to like take that, those existing pieces and look at kind of like, we need to, we need to look at consolidating some of that content because we've, we've diluted the topical approach too far.
+
+**Spencer Cappelli:** There are ways to do it.
+
+**Spencer Cappelli:** And so I think that that would be where my head would go in a situation like that, where you're saying we need to keep a layer of quality control going and kind of like being constantly vigilant across all these different accounts.
+
+**Spencer Cappelli:** Might have to go towards automation and, and trying to pull on these disparate, these different data, data points.
+
+**Spencer Cappelli:** To kind of keep that QA going.
+
+**Jason Gong:** Yeah, that makes sense.
+
+**Jason Gong:** I mean, we'll flag like another, like the teams themselves, you know, like if you arm them with the right, like even if it's just telling them like how you're supposed to do kind of keyword strategy or like how you're supposed to prevent, you know, canalization, how you're supposed to write like an H2 properly, you know, like that is also a solution.
+
+**Jason Gong:** Like our solutions tend to be like, you know, like we think about the outcome and then I would say like it's, you know, 50-50, whether it's like a people solution, it's just people need to be trained more, or it's a kind of like workflow or AI solution.
+
+**Jason Gong:** I tend to lean towards like, like over time, I think almost everything will be like an AI solution.
+
+**Jason Gong:** Like I, like just servicing these accounts that I service, like there tends to be not that many things that I don't think like.
+
+**Jason Gong:** A properly set up, you know, like a Gentic or AI workflow can do.
+
+**Jason Gong:** I think it's just a matter of like, hey, do we have the engineering resources to prioritize that, you know, right now?
+
+**Jason Gong:** I think, let me think.
+
+**Jason Gong:** And I don't know if you have a hard stop in minutes.
+
+**Jason Gong:** I can go for another like 15.
+
+**Jason Gong:** But last question before I just, I mean, I'm sure you have a lot of questions as well.
+
+**Jason Gong:** Like this concept of like, you know, instead of, honestly, I don't even know how many SEO like articles a typical agency publishes.
+
+**Jason Gong:** But instead of 10, we're publishing like 100 in a given month.
+
+**Jason Gong:** Like assuming the quality is there, right?
+
+**Jason Gong:** Because I think like, I mean, for the most part, like we're plugged in at companies that are like fast growing and they know their .
+
+**Jason Gong:** Like they won't let crappy information out the door.
+
+**Jason Gong:** Like assuming the quality is there, like just like how would you leverage like an ability to do that?
+
+**Jason Gong:** That the fact that we can publish, refresh, or just like reformat like 100 plus articles a month at very high quality.
+
+**Jason Gong:** Like how would you leverage that?
+
+**Jason Gong:** Because at the end of the day, like these companies care about growing quick.
+
+**Spencer Cappelli:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Like, so, I mean, just very generally, like, how would you think about kind of strategies, assuming that this is the reality that we can publish like at this scale?
+
+**Spencer Cappelli:** yeah.
+
+**Spencer Cappelli:** Yeah, it's a great question.
+
+**Spencer Cappelli:** I think that unless it's truly a type of company that's starting more from like a blank, like a blank space, you know, or a blank slate, I think most companies under index on the amount that they can get out from their existing content by refreshing.
+
+**Spencer Cappelli:** And I think there's a lot of great data about recency, know, slapping a timestamp on a blog to like, you know, actually submitting it for your indexation, like in Google Search Console, and how that plays.
+
+**Spencer Cappelli:** Jason Dellum, visibility in particular.
+
+**Spencer Cappelli:** So I like to start with the existing content library.
+
+**Spencer Cappelli:** And so I guess to answer your question, like, what are the opportunities in refreshing?
+
+**Spencer Cappelli:** What are the low-hanging fruit opportunities that if we're looking at SEO that maybe are sitting in the fourth to like the 15th organic position?
+
+**Spencer Cappelli:** You know, we have benchmark and they're changing all the time because Google AI is changing the organic SERP so drastically.
+
+**Spencer Cappelli:** But, you know, there's, you know, there's some pretty good data about like how you can impact click-through rate by bumping an article that's ranking six into like the third position, for example.
+
+**Spencer Cappelli:** So I think that's where I would probably start.
+
+**Spencer Cappelli:** And then dependent on the topical and semantic gaps that exist for a particular problem space, that's when I'm looking at net new content.
+
+**Spencer Cappelli:** So if it's a Series B startup that is really well-known for one thing, you know, how well does their content library reflect that?
+
+**Spencer Cappelli:** Like, have they covered all the different...
+
+**Spencer Cappelli:** All the different long-tail opportunities.
+
+**Spencer Cappelli:** And so I think it really kind of goes down to content infrastructure and organization.
+
+**Spencer Cappelli:** So I think some people will map this out, literally write it down, but where are the different columns and how they interface with each other?
+
+**Spencer Cappelli:** How does internal linking look?
+
+**Spencer Cappelli:** I think you can so often get so much more out of your existing content assets than by publishing new.
+
+**Spencer Cappelli:** But assuming you can do both, I think you have a great opportunity to to map it out, find all the different semantic topics that have not been covered, all the different entities, find those connections between them, you know, even create new pages.
+
+**Spencer Cappelli:** Like you could have pages that are, you know, maybe they're more of like your 201 or your 301 type, like deep dives into a topic and that ladders up to something that's more of a general blog.
+
+**Spencer Cappelli:** Like you could structure that into, you can work with devs to create like a pillar page that has more internal, that has more intentional internal linking and like a table of contents that branches off to all those pages.
+
+**Spencer Cappelli:** So like,
+
+**Spencer Cappelli:** You know, I think in most sorts of client engagements, I'm trying to do both.
+
+**Spencer Cappelli:** I'm trying to push the needle on NetNew as well as optimizing the existing assets on the page.
+
+**Spencer Cappelli:** You have to start with a content audit.
+
+**Spencer Cappelli:** You know, should be, you know, to your point earlier about like SEMrush, like, yeah, that's where you should be using your SEMrush is you should be using your Screaming Frogs to see where those internal linking opportunities are, where average word counts are low, you know, where flesh scores are overly complicated that could cause you to want to do a rewrite.
+
+**Spencer Cappelli:** So, you know, I think there's a lot of low level kind of low hanging fruit opportunities that a lot of accounts overlook.
+
+**Spencer Cappelli:** And I love to jump into those first because also it's just like most of the time that's where you get faster results.
+
+**Spencer Cappelli:** Like you have these companies are like, we want to get more out of what we already have.
+
+**Spencer Cappelli:** We have a thousand blogs and we're only generating as much traffic or we're ranking our average, you know, position is here.
+
+**Spencer Cappelli:** Like start with your existing content library and then use AI or whatever else you want to use.
+
+**Spencer Cappelli:** You know, competitive keyword research to build out that, that query fan and think about how you do your new content.
+
+**Spencer Cappelli:** But I think when you're talking about that sort of, that sort of volume, that's where the opportunity lies to just, to just push the needle on making those aggressive remediations as well as the net new.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Makes sense.
+
+**Jason Gong:** Any, any, any questions I can answer with what we do to help you kind of think through if this is interesting?
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** You know, I'm curious when I, when I read the website, I know there's all the positioning around, you know, service as software, you know, how much of the system today is like truly human supervised versus fully automated?
+
+**Jason Gong:** It's, I would say it's like very human.
+
+**Jason Gong:** I guess it depends.
+
+**Jason Gong:** I mean, so I, I think the act of like creating the content itself, like that part.
+
+**Jason Gong:** Is mostly mostly AI.
+
+**Jason Gong:** I think, again, it depends at the company.
+
+**Jason Gong:** So for example, the Webflow, I don't know if you ended up looking at it, but that integration doc is probably like 95% AI.
+
+**Jason Gong:** You can look at some of our workshops where we kind of lay it out, but there's a bunch of steps in this.
+
+**Jason Gong:** At the beginning, it's more around shaping the assignment brief and the rough direction of what keywords you're targeting.
+
+**Jason Gong:** And then towards the end, it's more about like tone and like linking and like fact checking.
+
+**Jason Gong:** And like we slot people into individual steps, depending on who's needed.
+
+**Jason Gong:** But in general, I would say most content is, yeah, like mostly automated.
+
+**Jason Gong:** I guess it's hard to say like what percentage, because I don't even know what the benchmark would be like.
+
+**Jason Gong:** Do you do that based on hour?
+
+**Jason Gong:** But like every piece of content has a human in there somewhere.
+
+**Jason Gong:** If you Sure.
+
+**Jason Gong:** Sure.
+
+**Jason Gong:** But I would say that role is getting smaller and smaller.
+
+**Jason Gong:** Like the pieces that I don't think we've done as good of a job at automating is like content strategy is like kind of this, like trying to close the feedback loop as much as possible about like here are the signals we're getting with how stuff is performing currently and knowing how to iterate that in a refresh or in a restructuring of the site.
+
+**Spencer Cappelli:** Right.
+
+**Jason Gong:** And then also what is not automated, which is probably the most painful is like the client aspect of it.
+
+**Jason Gong:** Like I think still today, like the Slack channel, like if you ask the client, like what is growthx, like it would probably be the Slack channel.
+
+**Jason Gong:** Like that's where they get all the information.
+
+**Jason Gong:** That's where they talk.
+
+**Jason Gong:** But I would love to shift that towards like something that feels more like a product, you know, like the results we communicate.
+
+**Jason Gong:** The kind of like task management and feedback we get on what we're doing the week to week of like, like we still spend way too much time.
+
+**Jason Gong:** I'm kind of pulling together information to kind of like regurgitate it back at the client.
+
+**Jason Gong:** Whereas like, I think if we built a great system, like that would be a bit more productized.
+
+**Jason Gong:** And then another thing that we don't, I mean, just trying to be transparent.
+
+**Jason Gong:** The other thing that I think we don't do well is like we've taken clients where like the scope and the engagement is just like a little bit too broad.
+
+**Jason Gong:** And I think for those, like can't really productize a lot of the things we're doing.
+
+**Jason Gong:** Like I think, you know, starting the last couple of months, we've started to do is like really narrow kind of the engagements that we want, at least the average one.
+
+**Jason Gong:** And then if it goes beyond that, like we charge a lot more.
+
+**Jason Gong:** And then those engagements, because of how similar they look, we've done a much better job of like kind of fully automating on our end.
+
+**Spencer Cappelli:** Does that make sense?
+
+**Jason Gong:** That's I feel like the whole purpose of what we're doing is like.
+
+**Jason Gong:** We're selling a service so we can figure it out in the background.
+
+**Jason Gong:** We haven't figured out how to productize this yet.
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** It's very tricky.
+
+**Spencer Cappelli:** I haven't seen anyone who's been able to totally do that, but it definitely should.
+
+**Spencer Cappelli:** In theory, it should be possible, especially as this stuff becomes more mature.
+
+**Spencer Cappelli:** I think it's really interesting, the approach that you guys are taking.
+
+**Spencer Cappelli:** So I appreciate that kind of peek behind the scenes.
+
+**Spencer Cappelli:** Jason, also curious, I'm going through my list of questions here.
+
+**Spencer Cappelli:** I know you just talk a lot about distribution and this kind of feeds into something else.
+
+**Spencer Cappelli:** I know you mentioned earlier that you often kind of like wholesale take on what is the content and SEO function inside of these companies that a lot of them have really large organic programs.
+
+**Spencer Cappelli:** was like, is there tension there?
+
+**Spencer Cappelli:** Like, how does that work where, you know, you have growth?
+
+**Spencer Cappelli:** a of
+
+**Spencer Cappelli:** Fathom comes in, like, is there ever any friction between, like, existing stakeholders that are doing organic?
+
+**Spencer Cappelli:** And I think about that especially, like, not just, like, the content creation itself, but, like, also, like, the distribution.
+
+**Spencer Cappelli:** I'd be curious to know if there's ever any, like, how does that work?
+
+**Jason Gong:** I I mean, I think we've gotten better at kind of, like, structuring these and, like, identifying that when we're selling.
+
+**Jason Gong:** Early days, we got into a lot of accounts where, like, I don't think I fully knew how to, like, place us.
+
+**Jason Gong:** And we didn't do a good job of, like, carving our own lane.
+
+**Jason Gong:** So then, yeah, that tension does exist in the first couple weeks.
+
+**Jason Gong:** Like, we've had cases where, like, you know, people felt like we were brought in to kind of, like, replace what they do, you know.
+
+**Jason Gong:** And honestly, we kind of were.
+
+**Jason Gong:** And there's, like, you know, people being territorial and understandably trying to protect what they do.
+
+**Jason Gong:** I think, I mean, generally.
+
+**Jason Gong:** Yeah, our approach has been like the first couple of weeks around games, our engagements are always spent kind of doing the strategy and like carving a lane where there is like kind of work for at least a few months where it's impactful.
+
+**Jason Gong:** So like, for example, with Webflow, when we first came in, I don't think they really knew what to do with us.
+
+**Jason Gong:** Like, I think they had this initial idea of like what to use this for and which ended up not being kind of what we were used for.
+
+**Jason Gong:** was like totally unclear kind of who owned what, like, you know, Webflow has a whole like SEO marketing side, but like we were working for their product team.
+
+**Jason Gong:** So it was like we were trying to publish in a place the team didn't even own.
+
+**Jason Gong:** Yeah, so I guess to answer your question, I don't think there's like a easy solution a lot of times.
+
+**Jason Gong:** Like we have to kind of create kind of our lane for what to do.
+
+**Jason Gong:** So with Webflow, it was like the first couple of weeks were spent.
+
+**Jason Gong:** Like identifying a bunch of opportunities, spending time in meetings, like aligning people and like getting them to commit, you know, hey, we want to do this.
+
+**Jason Gong:** Here are the resources from our side.
+
+**Jason Gong:** And then kind of setting it up so that, you know, months like two to five or two to six are a bit more like easy, you know, so you don't have to always like struggle with this.
+
+**Jason Gong:** And then, you know, again, like another thing we don't do well is like, we don't even do like QBRs like consistently across all the accounts.
+
+**Jason Gong:** But like I've been doing them for Mind and like, you know, because again, of how quick we publish and how we take a cluster and we just kind of like finish it.
+
+**Jason Gong:** Like every couple of months, like we need to go back and kind of do this process again of like, let's sit down, look at everything we've done, everything you've done as a company.
+
+**Jason Gong:** And figure out what the highest leverage things are.
+
+**Jason Gong:** then we like scope it again and then we carve that lane so that, you know, for a few months we can run.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** So I don't know if that answers your question.
+
+**Jason Gong:** I feel like the reality is we basically have to deal with this at a lot of our companies.
+
+**Jason Gong:** I would say the good ones, their team is set up in a way where we essentially just own it and we just kind of report up to the CMO and they've made it so that there aren't any kind of overlapping responsibilities.
+
+**Jason Gong:** So those are great.
+
+**Jason Gong:** But then in some other companies, we have to like navigate this problem like constantly.
+
+**Spencer Cappelli:** Yeah, that makes sense.
+
+**Spencer Cappelli:** What would you what would you say is like the biggest challenge that is kind of that would if there were one that's hampering growth?
+
+**Spencer Cappelli:** Like, you know, I have questions about like, you know, what does retention look like and how do you know, how successful are like the SEO and the content people and working with engineering to like productize or automate things that, you know, actually like solve client problems.
+
+**Spencer Cappelli:** Like those are kind of where my head's at, but I think it'd probably be more valuable to hear like in your own words, like what are the, what are the biggest challenges?
+
+**Spencer Cappelli:** Like when, you know, the SEO, the kind of health in our little corner.
+
+**Jason Gong:** I think there's like a few, I mean, I think like our biggest challenge generally has been like keeping the quality of delivery constant.
+
+**Jason Gong:** There's like people on the team who are really great or like, you know, like generally if there's churn, it's either because like, I mean, we serve a lot of startups and I think they just pivot and they make changes a lot of times.
+
+**Jason Gong:** Or it's because like, we just didn't deliver well, you know, something that we know we could.
+
+**Jason Gong:** And a lot of that comes from like, just like being able to scale, I guess, this new way of creating content.
+
+**Jason Gong:** I think that's been like a constant problem for us, like finding people that can kind of work in the way that we.
+
+**Jason Gong:** Again, it's like I would say much less like a typical like editorial SEO function and a little bit more like it's like ops or like product in a way like you got to know how to like, you know, talk to engineering because for the most part, if your content doesn't look the way it should, it's not like you going in and just like writing a little style guide so the writer can fix it.
+
+**Jason Gong:** It's like, can you communicate to engineering like in a generalized way, like how to improve the workflow, you know, or create a new work for yourself like that, that does that.
+
+**Jason Gong:** So, yeah, so that's been a huge challenge.
+
+**Jason Gong:** I mean, whatever retention is, honestly, I don't remember the number, but I think, I mean, we do like annual contracts and I think for the most part, retain like 90% plus of the ones that like have renewed.
+
+**Jason Gong:** So, um...
+
+**Spencer Cappelli:** um...
+
+**Jason Gong:** So...
+
+**Jason Gong:** So I think that's good.
+
+**Jason Gong:** But again, like the company's only been around a year, right?
+
+**Jason Gong:** So a lot of companies are still kind of in that first cycle.
+
+**Jason Gong:** But I'll just say anecdotally, like the ones that are happy are the ones that like are getting the service that they should be getting.
+
+**Jason Gong:** And then the ones that are unhappy are like, there's something just like with aligning stakeholders and with their company, the stage they're at that, you know, makes it so that they're just unhappy.
+
+**Jason Gong:** Or like the quality of our service hasn't been consistent, you know, like a lot of times where we look at, because ultimately, you know, six months in, if like traffic's not growing, like nobody's happy, right?
+
+**Jason Gong:** And we look at those cases, it's almost entirely like what we're talking about here.
+
+**Jason Gong:** Like, yeah, did we ever review this content strategy?
+
+**Jason Gong:** made no sense.
+
+**Jason Gong:** Like, or did we ever review like the way they were creating content and like setting that bar, you know, really high on the SEO side, even though the articles read pretty well.
+
+**Jason Gong:** Well,
+
+**Jason Gong:** Like, doesn't, like, is this even targeting a keyword?
+
+**Jason Gong:** Like, why did we write this?
+
+**Jason Gong:** Right.
+
+**Jason Gong:** Yeah, that's where, that's where things go wrong.
+
+**Jason Gong:** So, like, that's, that's, I would say, like, a more immediate kind of problem.
+
+**Jason Gong:** I would say the, like, the problem in my mind, at least for the agency, mean, there's more problems for the company because, like, ultimately what the company is trying to do is a little bit more ambitious than this agency.
+
+**Jason Gong:** Like, this agency isn't even, like, the whole goal of the company.
+
+**Jason Gong:** I know we don't have time to talk about that, but, like, like, we're doing so many other things.
+
+**Jason Gong:** Like, we're building products.
+
+**Jason Gong:** have a community.
+
+**Jason Gong:** We're going to release a profound competitor soon, as everybody else is doing.
+
+**Spencer Cappelli:** Oh, wow.
+
+**Spencer Cappelli:** Yeah.
+
+**Jason Gong:** But, yeah, but, but I would say on the agency, I think, but, like, what does the web look like in 6 to 12 months or 18 months is a little bit scary.
+
+**Jason Gong:** Like, is SEO even going to be a thing?
+
+**Jason Gong:** You know, like, is everybody just going to buy through ChatGPT?
+
+**Jason Gong:** And like, they're going to cut out the middleman, which I've seen, you know, a trend of them doing, middleman being Google.
+
+**Jason Gong:** That's kind of a little bit more existential and probably why, like, again, we're hiring for this role and like, we're going to put a lot more horsepower behind like experimenting, you know, like, for example, like we're seeding Reddit discussions for our customers and testing that out.
+
+**Jason Gong:** Like, don't know, maybe in 12 months, like that becomes like what marketing is, you know, and what our agency does.
+
+**Jason Gong:** I don't know.
+
+**Jason Gong:** But like, that's also something that's on my mind a lot.
+
+**Spencer Cappelli:** I think that's fascinating.
+
+**Spencer Cappelli:** And I mean, you guys have got investors.
+
+**Spencer Cappelli:** So, you know, and, you know, some obviously really smart people believe in it.
+
+**Spencer Cappelli:** And, you know, for what it's worth, I think that search will always exist.
+
+**Spencer Cappelli:** But to your point, it, you know, the weights on how things appear, where they appear, why they appear, it's going to, is probably going to change drastically in the next five years.
+
+**Spencer Cappelli:** I mean, even think to like try to.
+
+**Spencer Cappelli:** Explain to someone in 2022 what AI mode is.
+
+**Spencer Cappelli:** It doesn't even sound real.
+
+**Spencer Cappelli:** So it's fascinating.
+
+**Spencer Cappelli:** It's an interesting time to work in SEO.
+
+**Jason Gong:** I think it will change really fast and also really slowly.
+
+**Jason Gong:** I went back to Toronto for a wedding this weekend.
+
+**Jason Gong:** Sometimes I forget how much of a bubble SF is.
+
+**Jason Gong:** We're kind of thinking about all this stuff.
+
+**Jason Gong:** You go to the average dentist office or law firm who's doing SEO too.
+
+**Jason Gong:** They're not even thinking about this at all.
+
+**Jason Gong:** I think success for us, one mode of success for us would be we crack this productized version of this and we figure out how to sell it to the tens of thousands of smaller companies that could pay.
+
+**Jason Gong:** Right now we charge $15,000 a month, which is a lot.
+
+**Jason Gong:** But if we could charge $3,000 a month, but every law firm could.
+
+**Jason Gong:** Like, I'm pretty sure, like, that's the way we actually get to, like, I don't know, a billion in revenue or something crazy, you know?
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** I totally agree.
+
+**Spencer Cappelli:** And you're right.
+
+**Spencer Cappelli:** So many people aren't even thinking about this.
+
+**Spencer Cappelli:** And it is fascinating.
+
+**Spencer Cappelli:** And I definitely saw that in the agency side when people were like, you know, they need to publish more, like, not information gain, top of funnel, like, keyword driven content.
+
+**Spencer Cappelli:** And like, that's always, that's the classic tension.
+
+**Spencer Cappelli:** Like, how do I, it's selling.
+
+**Spencer Cappelli:** So, like, you know, we have to continue to sell it and, like, do what our client wants.
+
+**Spencer Cappelli:** But we also need to look out for their long-term interests.
+
+**Jason Gong:** And I think the only way you get to that is, like, if you trivialize the act of writing, like, where gathering information becomes what SEO becomes, you know?
+
+**Jason Gong:** Like, if I have to write a bunch of words, like, I don't think any company ever gets to the point where they do these, like, expert interviews and, like, you know, works that into the content.
+
+**Jason Gong:** Like, like,
+
+**Jason Gong:** The ones I've seen, you know, like even, even the ramps and web flows of the world, like the way they write has very little, like, knowledge gain, like I think.
+
+**Spencer Cappelli:** Yeah, that's true.
+
+**Spencer Cappelli:** That's true.
+
+**Spencer Cappelli:** But some websites have all that, you know, ingrained authority so they can get away with things that are maybe less.
+
+**Jason Gong:** That's fair.
+
+**Jason Gong:** I got to hop, but yeah, if you have any other questions, let me know.
+
+**Jason Gong:** And then I'll chat with the team to figure out next steps.
+
+**Spencer Cappelli:** Awesome.
+
+**Spencer Cappelli:** Yeah.
+
+**Spencer Cappelli:** Well, thank you so much for the time today, Jason.
+
+**Spencer Cappelli:** It was a, it was a pleasure to get to chat with you.
+
+**Spencer Cappelli:** Hope you have a good rest of your day.
+
+**Spencer Cappelli:** Take care.
+
+**Spencer Cappelli:** You too.

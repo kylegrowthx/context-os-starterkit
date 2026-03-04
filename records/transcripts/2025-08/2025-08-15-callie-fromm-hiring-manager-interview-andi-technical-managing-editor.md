@@ -1,0 +1,695 @@
+# Callie Fromm -Hiring Manager Interview - Andi | Technical Managing Editor
+
+<metadata>
+date: 2025-08-15
+time: 17:47 UTC
+duration: 30 minutes
+organizer: andi@growthx.ai
+participants: Andi Bailey, Callie Fromm
+fathom_recording_id: 80910926
+fathom_url: https://fathom.video/calls/380714091
+share_url: https://fathom.video/share/pGypa5QhW4z8Js-7yWzsFGGGcz4V6Grs
+source: fathom
+enriched_on: 2026-03-03 12:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+Andi Bailey interviewed Callie Fromm for GrowthX's Technical Managing Editor position, a hybrid project management and editorial role responsible for leading client-facing pods. Andi outlined the dual responsibilities: day-to-day project management and quality control via content editing, plus providing technical feedback to the engineering team on the 2-month-old internal platform. Callie, with 20+ years in content creation and current consulting work for Microsoft on AI systems, demonstrated strong alignment with both pillars — project management expertise and deep familiarity with AI tooling — and discussed her approach to juggling client complexity and team capacity challenges that GrowthX faces as it scales rapidly post-webinar customer wins.
+
+---
+
+## Context
+
+GrowthX is a B2B content marketing agency that recently launched its own proprietary platform (two months old as of this interview). The company is experiencing rapid growth driven by Marcel's webinars, which regularly generate 5+ new client wins. Andi Bailey, responsible for delivery operations and process standardization, is hiring 2-3 Technical Managing Editors to expand capacity and unify how clients are served. Callie Fromm is an experienced marketer and content producer being evaluated for this role; she was previously VP of Marketing for a commercial real estate association where she rebuilt the marketing function from scratch and implemented AI tools during COVID.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Identified critical hiring need: 2-3 Technical Managing Editors required to manage rapidly scaling client workload and reduce team burnout during vacation periods
+- Candidate (Callie) brings proven experience rebuilding processes from ground up, implementing project management tools (Asana, Monday, Airtable), and automating workflows — directly applicable to standardizing delivery pods
+- Delivery team currently "bursting at the seams"; multiple clients rely on Airtable and Linear for project tracking; need unified PM approach
+
+**To GrowthX Business Development:**
+- Strong candidate pipeline signal: Callie's 20+ years in content, commercial real estate marketing expertise, and proven ability to build teams suggests low onboarding risk
+- GrowthX's ability to scale delivery (hiring multiple MEs) directly unlocks capacity for new client wins from webinar pipeline
+- Current team strain suggests near-term bottleneck on revenue expansion until capacity is addressed
+
+**To CheckThat:**
+- Platform feedback loop highlighted as critical: Callie and Andi both emphasized importance of providing context, guidance, and iterative refinement to AI tools — core value prop for CheckThat's AI visibility platform
+- Callie's consulting work for Microsoft AI group demonstrates familiarity with LLMs and AI workflows; potential early reference for AEO/CheckThat positioning
+
+---
+
+## Overview
+
+- Role involves project management, client-facing work, and AI/technical feedback
+- GrowthX is growing rapidly, facing challenges with standardization and capacity
+- Candidate (Callie) has strong content, AI, and project management background
+- Company uses Airtable for project tracking, Linear for engineering tasks
+
+---
+
+## Key Topics
+
+### Role Overview
+
+  - Core part of client-facing delivery team
+  - Managing editor leads pods with content managers and account strategists
+  - Responsibilities:
+      - Project management for client deliverables
+      - Content editing and quality control
+      - Client communication and meeting management
+      - Providing feedback on AI platform to engineering team
+
+### Company Status and Challenges
+
+  - Rapid growth with high client interest from webinars
+  - Recently paused hiring to catch up with client acquisition
+  - Challenges:
+      - Standardizing processes across differently-trained pods
+      - Balancing workloads during vacation periods
+      - Matching team members' skills (editorial, technical, project management) within pods
+
+### Candidate Background (Callie)
+
+  - 20+ years in content creation
+  - Recent experience:
+      - VP of Marketing for commercial real estate association
+      - Rebuilt marketing from ground up, including team building
+      - Implemented AI tools for content production during COVID
+      - Automated marketing processes and campaigns
+  - Current consulting work includes AI project for Microsoft
+  - Strong project management background with various tools (Asana, Monday, etc.)
+
+### AI Insights
+
+  - Callie's perspective: AI requires human expertise to be effective
+  - Importance of providing context and guidance to AI tools
+  - Need for refinement and iteration in AI-generated content
+
+### Team Structure and Workload
+
+  - Pods consist of managing editors, content managers, and account strategists
+  - Currently at capacity with client workload
+  - Hiring 2-3 new Technical Managing Editors
+  - No perfect system for monitoring workloads; mix of self-reporting and management oversight
+
+---
+
+## Action Items
+
+- Maria to follow up regarding next steps in the hiring process
+- GrowthX to continue evaluating hiring needs based on incoming client deals
+- Potential implementation of a system to better track team capacity and workloads
+
+---
+
+## Transcript
+**Callie Fromm:** This meeting is being recorded.
+
+**Andi Bailey:** I thought,
+
+**Andi Bailey:** I started at two, and then.
+
+**Callie Fromm:** That's okay.
+
+**Callie Fromm:** I've had kind of a crazy morning, too, and I'm like, okay, I'm here.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** I am at a coffee shop, which I didn't mean to be for this conversation, but I think we're good.
+
+**Andi Bailey:** Like, I'm in an open space, and there's nobody around.
+
+**Andi Bailey:** But I'm going to turn off my camera just because, like, for the sake of internet, because I don't think the Wi-Fi is great here.
+
+**Andi Bailey:** Sure.
+
+**Andi Bailey:** So I'm really sorry about that, but I'm happy you're here.
+
+**Andi Bailey:** It's really great to meet you, and I'm excited to chat.
+
+**Andi Bailey:** So I'll just start by giving you a really quick overview of this role within GrowthX, and then we can talk about you, and then I'll try and leave some time for questions at the end.
+
+**Andi Bailey:** So this role, the technical managing editor role, is kind of a core part.
+
+**Andi Bailey:** of our Delivery area, which is the, you know, exactly what it sounds like, the client facing aspect of the organization.
+
+**Andi Bailey:** And so our delivery team is made up of pods that serve clients.
+
+**Andi Bailey:** Managing editor is kind of the crux or the core of the pods.
+
+**Andi Bailey:** Sorry.
+
+**Callie Fromm:** Got it.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** I'm a little frazzled.
+
+**Callie Fromm:** That's okay.
+
+**Callie Fromm:** Okay.
+
+**Andi Bailey:** Carry on.
+
+**Andi Bailey:** Anyways, it's the core of the pods.
+
+**Andi Bailey:** And basically, there are two kind of areas of focus or two lanes that make would make somebody really, really good at this role.
+
+**Andi Bailey:** So our pods are made up of managing editors, content managers, and account strategists or account directors.
+
+**Andi Bailey:** The managing editor is kind of the.
+
+**Andi Bailey:** The project manager making sure that we're hitting our day-to-day deliverables for the client.
+
+**Andi Bailey:** The account strategist is kind of a long-term strategic vision person who's working with the client on kind of setting goals, orderly goals, thinking about strategy, tracking metrics, and making sure that we're kind of like starting in the right direction.
+
+**Andi Bailey:** The managing editor is the person that kind of builds the railroad tracks as we're going and make sure that, you know, we are on track to get to that vision.
+
+**Andi Bailey:** And then the content manager is the person who's day-to-day in our platform, which is what we use to develop all of the deliverables that we send to clients through GrowthX.
+
+**Andi Bailey:** So the content manager is, you know, putting together the, like running the workflows and putting together first drafts, managing editor.
+
+**Andi Bailey:** We'll edit all that content, usually the person sending it to clients, oftentimes managing meetings, leading agendas, making sure on a weekly basis, we're on track.
+
+**Andi Bailey:** So there's a little bit of client-facing work and project management work there.
+
+**Andi Bailey:** And then on the other side, because we are developing everything on our own platform, you know, and the managing editor is literally the editor.
+
+**Andi Bailey:** For the client and for, you know, making sure that our content is really hitting a high bar.
+
+**Andi Bailey:** We're looking for someone who has some level of AI experience and experience working with technical teams to help empower or enable the feedback loop back to our engineering team who's developing, who's like kind of keeping the platform running.
+
+**Andi Bailey:** And our platform is very young.
+
+**Andi Bailey:** It's two months.
+
+**Andi Bailey:** We've had it up and running for two months.
+
+**Andi Bailey:** Um.
+
+**Andi Bailey:** So there's a lot of feedback that still needs to happen, a lot of refinement for each workflow as we're developing content, and because the managing editor is the person that really knows what the client's looking for, is like the owner of the context, artifacts, all of the things that go into delivering really good, solid content for our clients.
+
+**Andi Bailey:** Like, they're also the person who can help refine the pipelines and workflows that are developing that platform.
+
+**Andi Bailey:** And so knowing how to like give clear feedback and say kind of what needs to improve is going to be really useful for making sure that the platform's looking for you too.
+
+**Andi Bailey:** I know I hopped around and I got a little lost there, but hopefully you have some good context now.
+
+**Andi Bailey:** Are there any questions I can answer?
+
+**Callie Fromm:** I think I'm fairly clear. I did, of course, hop on the website and listen to Marcel's videos, and, you know, dig around and use AI to sort of really put out a clear and concise picture of what this role is about.
+
+**Callie Fromm:** This is what the company's doing, competitors, all of that.
+
+**Callie Fromm:** So I think I'm pretty well versed.
+
+**Callie Fromm:** I think the questions, and I think, too, like in getting into it, as you said, there's like the two pillars that are really important for the job.
+
+**Callie Fromm:** And I definitely think I'm strong in both of those.
+
+**Callie Fromm:** I've worked with tech folks pretty much all of my career.
+
+**Callie Fromm:** So I know how to speak the language.
+
+**Callie Fromm:** I don't, you know, obviously I'm not a technical person.
+
+**Callie Fromm:** I'm a content person, but I understand, and I understand how AI and, you know, LLMs work and machine learning, all of that.
+
+**Callie Fromm:** I've done projects on that for Microsoft as well for recruiting machine learning folks.
+
+**Callie Fromm:** So, I'm pretty solid there as well.
+
+**Callie Fromm:** I guess the biggest thing is going through it is really just understand, like, more of the day to day, like how it's going, what's good, you know, since you are so new, and only two months in, like, what are the real challenges that you're facing as you're onboarding new clients?
+
+**Callie Fromm:** And what are the wins?
+
+**Callie Fromm:** What's going really well?
+
+**Callie Fromm:** And then, also, how do you, how do you assemble that pod, right?
+
+**Callie Fromm:** And how do you assign folks to clients?
+
+**Callie Fromm:** Is it expertise?
+
+**Callie Fromm:** Or is it just, we have new people, and we need you to cover off on these five to 10 clients, and it's just whoever, as they roll in, you're just picking them up and jumping in.
+
+**Andi Bailey:** Yeah, well, let's cover that.
+
+**Callie Fromm:** I want to make sure that we have time to talk about you, because we only have 30 minutes.
+
+**Andi Bailey:** So, like, let me, let me make, like, I will try and make sure that
+
+**Andi Bailey:** But there's some time at the end to address at least like some of those.
+
+**Callie Fromm:** I think the answer will kind of roll all into one, but good questions, but I don't want us to run out of time.
+
+**Callie Fromm:** No worries.
+
+**Andi Bailey:** So specifically.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** So, yeah, give me a little bit of like the overview of your background, most recent experience, and then I'd love to know like what you're looking for next or what excites you about this role.
+
+**Callie Fromm:** Sure, sure.
+
+**Callie Fromm:** So let's see.
+
+**Callie Fromm:** I, as I, as I said, I'm, I'm definitely a content person, have been doing content for more than 20 years, I guess.
+
+**Callie Fromm:** And it's my latest role.
+
+**Callie Fromm:** Sorry, I'm trying to just like figure out how to parse this exactly in a succinct way.
+
+**Callie Fromm:** I feel like I was sort of a little bit of a mini like growthx.ai for, I was the VP of marketing for an association that is for commercial.
+
+**Callie Fromm:** And they've been around for like since the mid-70s and basically had never really done marketing in a significant and serious way.
+
+**Callie Fromm:** They brought me in to do some consulting work around some strategic comms that they were having to phase out a tool that they offered brokers to do legal contracts.
+
+**Callie Fromm:** And they knew that it was going to be something that was really upsetting to their clients.
+
+**Callie Fromm:** So they brought me in to kind of help smooth that over and figure out how to frame that and then also help them roll out the new tool, their proprietary tool, and just really also help them sort of finesse that and get the interface as clean and clear as possible to help because it was a lot more clunky than what people were used to using.
+
+**Callie Fromm:** And then they just asked me to stay on because they were looking to expand and grow into new markets and really didn't have any idea how to do that from a market
+
+**Callie Fromm:** Marketing perspective.
+
+**Callie Fromm:** And so I basically rebuilt everything that they had from the ground up for marketing, which included building a team, right?
+
+**Callie Fromm:** As COVID hit, I literally hired folks and gave them their computers and then never saw them in person again.
+
+**Callie Fromm:** That was fun.
+
+**Callie Fromm:** And then, you know, just from there, obviously, during COVID, the whole commercial real estate market kind of tanked, especially here in Seattle.
+
+**Callie Fromm:** So we wound up kind of having to pare back, which then led to me getting really familiar with a lot of different AI tools to continue producing content and, you know, quality content, making sure that we were really customizing things for the different silos of customers that we had and doing it basically all by myself.
+
+**Callie Fromm:** So I really had to roll up my sleeves and figure out, right? Build out the process from the ground up.
+
+**Callie Fromm:** What are we going to do?
+
+**Callie Fromm:** How are we going to replicate content, you know, across all of these different channels that we have, social media, newsletters, emails on the website.
+
+**Callie Fromm:** So basically, redid the entire website, rewrote all the copy.
+
+**Callie Fromm:** They were doing everything manually, everything.
+
+**Callie Fromm:** So I really had to, like, work at also evangelizing, I guess, what was possible.
+
+**Callie Fromm:** They weren't super tech-savvy, despite having technical tools just around the marketing side of things.
+
+**Callie Fromm:** So helping them see, you know, you can automate all of these things, like your, you know, membership applications and all of these other things that you're doing in a superman.
+
+**Callie Fromm:** And also then, you know, drip campaigns and onboarding emails, that sort of stuff, and getting it so that all of that was automated as well.
+
+**Andi Bailey:** yeah.
+
+**Andi Bailey:** Awesome.
+
+**Andi Bailey:** And then it looks like you've been doing some consulting work more recently.
+
+**Callie Fromm:** Yes.
+
+**Callie Fromm:** So as I said, the market crashed, and we sort of came to the realization and understanding that it wasn't going to be super feasible for me to continue on there.
+
+**Callie Fromm:** So we parted ways amicably, and then I just shifted.
+
+**Callie Fromm:** I had been consulting before that, and so I shifted back into consulting.
+
+**Callie Fromm:** And right now, I can't go into too much detail, but I'm doing a project for Microsoft in their AI group as well.
+
+**Callie Fromm:** So just around, yeah, conversations and chatbots and whatnot.
+
+**Callie Fromm:** So just getting more and more information about how this works and what it can do and where, you know, kind of the direction things are going.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** What's the most, like, surprising thing you've learned about?
+
+**Andi Bailey:** Sorry, you broke up at the very end of that.
+
+**Andi Bailey:** What's the most surprising thing you've learned, kind of, about AI as you've learned in your systems?
+
+**Callie Fromm:** Huh, that's a good question.
+
+**Callie Fromm:** I guess, you know, at the outset, like very many people, you know, I was doing a lot of pearl clutching around AI being rolled out and how it was going to eliminate jobs and, you know, which to some extent is true.
+
+**Callie Fromm:** But once I got into it and started using it more, I just realized how much it's like, you know, the saying the tool is only as good as the master.
+
+**Callie Fromm:** You have to have people in the mix.
+
+**Callie Fromm:** And I think so many people think that they can just jump on and ask it to do something.
+
+**Callie Fromm:** And it's going to spit out something fabulous that they can just take, you know, part and parcel and use.
+
+**Callie Fromm:** And I ran into that at SEBA with people, oh, I can do this, right?
+
+**Callie Fromm:** I can use AI to create this, whatever that we need to do.
+
+**Callie Fromm:** And they would give it to me.
+
+**Callie Fromm:** I'd be like, this is terrible, right?
+
+**Callie Fromm:** This is terrible.
+
+**Callie Fromm:** They'd be like, why?
+
+**Callie Fromm:** It sounds fine.
+
+**Callie Fromm:** And like, you have to actually have someone who understands, right, that what makes a good piece of content, what it is that you're trying to do, that you need to give very specific context and guidance to the AI so that it gives you what you need.
+
+**Callie Fromm:** And then how, and then how do you refine it, right?
+
+**Callie Fromm:** How do you keep saying to it, that's really close, but I need you to do, you know, this now, and I need you to take out this, and I need you to put in this and add more of this, change your tone, make it right, where I think most people don't really get that.
+
+**Callie Fromm:** So that was, that was kind of surprising to me that I was actually like, oh, I, it's not, it's not what people think it is, right?
+
+**Andi Bailey:** Once you get into it, you understand how it all works.
+
+**Callie Fromm:** So, and it's not, it's not this scary monster.
+
+**Callie Fromm:** It's actually a very useful tool, but you still have to have the knowledge and education to use it the right way.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Yeah, that makes a lot of sense.
+
+**Andi Bailey:** I mean, like, that's, I think that's the thing that surprises people continually is, like, how much input there really has to be with, like, myself says, you know, you have to know how to do it manually if you want or how to do it automatically because you have to know all the steps that go in and where it's going to mess and, like, be on the lookout for that stuff.
+
+**Andi Bailey:** Yes.
+
+**Andi Bailey:** That makes a lot of sense.
+
+**Andi Bailey:** So I would love to, like, learn a little bit more about kind of your, like, client-facing and project management experience.
+
+**Andi Bailey:** I know, like, it sounds like with the commercial real estate, you led kind of a little big transition in projects.
+
+**Andi Bailey:** So less about the project management and more about, like, managing multiple clients at once and how you think about and approach that.
+
+**Andi Bailey:** Also, if that's something that you're, like, interested in because that juggling is a big part of this role.
+
+**Callie Fromm:** Yeah, yeah.
+
+**Callie Fromm:** I feel like that's also sort of been a part of every week I've had since the beginning, right?
+
+**Callie Fromm:** I don't know.
+
+**Callie Fromm:** There's something about, too, I think, as media and journalism and whatnot have shifted, like, I feel like, right, you just wear many hats because there's, you know, the consolidation of everything.
+
+**Callie Fromm:** There aren't all the people that there used to be doing all the different roles.
+
+**Callie Fromm:** So when I was, like, at the beginning of things, I worked for one of the first online agencies in New York as a creative producer.
+
+**Callie Fromm:** So that was all that I did mostly was, you know, interface with all of the different roles on the team, build out the project plan, and then, you know, manage folks and report out to clients.
+
+**Callie Fromm:** So that, I actually did, I almost got my project management certification.
+
+**Callie Fromm:** So just learning how to do a work breakdown structure, how to really get, like, clear and concrete on what are the steps to go from A to B, getting everyone in a room.
+
+**Callie Fromm:** Having them all put their post-it notes on the wall and say, this is what, you know, what my part of this project is, this is how long it takes, right?
+
+**Callie Fromm:** And then really learning how to shape that from like, you know, the time, you know, the actual time it takes versus the duration and how all the different pieces fit together.
+
+**Callie Fromm:** So I'm very solid in that.
+
+**Callie Fromm:** I have used many different project management tools.
+
+**Callie Fromm:** I've used Asana.
+
+**Callie Fromm:** I don't know what, do you guys have a tool that you use in-house for all of this?
+
+**Andi Bailey:** Or is that linked into your...
+
+**Andi Bailey:** We use Airtable right now to track kind of like status of projects, keywords, kind of like, yeah, where just content is in the publishing process.
+
+**Andi Bailey:** We have linear to track engineering tests and sometimes we use it for like larger projects that are more templated as well.
+
+**Andi Bailey:** Like, you know, we have an implement, specific implementation team.
+
+**Andi Bailey:** And so anytime something gets handed off for them.
+
+**Callie Fromm:** Implementation, there's like a linear project that people can follow, things like that.
+
+**Callie Fromm:** Gotcha.
+
+**Callie Fromm:** Yeah.
+
+**Callie Fromm:** So I've used Airtable, I've used Asana, I've used Monday, you know, all the things.
+
+**Callie Fromm:** And really, like, I don't know, I just like to mess around with new tools, too.
+
+**Andi Bailey:** It's fun.
+
+**Callie Fromm:** So when I started at SEVA, they had zero project improvement tools, too.
+
+**Callie Fromm:** I don't really know how they were functioning.
+
+**Callie Fromm:** They had a lot of Excel spreadsheets that they used. So I just migrated everything over.
+
+**Callie Fromm:** I used Monday at the time there and, you know, automated things so that people would get notifications when someone, you know, and actually then built out the processes, right?
+
+**Callie Fromm:** And, like, this is how we do this.
+
+**Callie Fromm:** It goes here, then it goes here.
+
+**Callie Fromm:** This person approves that person, and then it gets published.
+
+**Callie Fromm:** So having all that be automated as people checked off that they were finished doing it versus having it be manual.
+
+**Callie Fromm:** And so, yeah, I'm totally comfortable with that.
+
+**Callie Fromm:** And I like...
+
+**Callie Fromm:** I like a, like, I would say for me, I like a blend.
+
+**Callie Fromm:** I don't like to be, like, solidly all in the project management lane.
+
+**Callie Fromm:** That's not, that's not me, but I don't mind doing it as a, like, a component of other work as well.
+
+**Andi Bailey:** Yeah.
+
+**Callie Fromm:** Awesome.
+
+**Callie Fromm:** Sorry, you, there were, like, I feel like there was another part to the question.
+
+**Andi Bailey:** No, no, no, no, I think I got, I got a good sense of it.
+
+**Andi Bailey:** Okay, so we have seven minutes left, so I, we can transition to, to answering some of your questions.
+
+**Callie Fromm:** Yeah.
+
+**Andi Bailey:** Yeah, let's go back to that.
+
+**Callie Fromm:** Okay, okay.
+
+**Callie Fromm:** I'm mostly, like, super curious, like, you know, as, as a new company and a startup, like, you know, how, how it's going, where your, like, pain points are, where the struggles are, that, you know, you're trying to refine and, and smooth out as you go.
+
+**Callie Fromm:** And then how things, you know, if I were to come in, like, how do you decide what, what project.
+
+**Callie Fromm:** Check.
+
+**Callie Fromm:** I'm assigned to, and, you know, what, which of the, you know, content managers would be assigned to me, you know, to either content, like, is it, is it strategic, or is it just like, we're just kind of going and trying to.
+
+**Andi Bailey:** Uh, so, those, those answers are kind of, uh, tangled up in each other.
+
+**Andi Bailey:** So, I'll, you know, um, I think the, the challenges right now are, we're growing incredibly quickly.
+
+**Andi Bailey:** We have a lot of, like, really good interest. I mean, Marcel does a webinar and we get, like, five new clients. I just saw it on the last one.
+
+**Andi Bailey:** So, yeah.
+
+**Andi Bailey:** So, it's, I mean, like, just the trust and, and interest that people have in what we're doing is really, really positive.
+
+**Andi Bailey:** We, um, we hired really quickly to kind of keep up with our, like, client acquisition.
+
+**Andi Bailey:** We didn't want to say no to anybody.
+
+**Andi Bailey:** And so I think like there is a batch and we paused hiring so that we could kind of catch up with this.
+
+**Andi Bailey:** But the challenge maybe in the spring was we had a bunch of people that came on immediately, like pretty much right as a bunch of clients were coming on.
+
+**Andi Bailey:** And we threw them in the deep end.
+
+**Andi Bailey:** And they were really, you know, people, our team was scrappy and they figured it out and they did kind of whatever they needed to do to get us through.
+
+**Andi Bailey:** You know, this was before we had our internal platform.
+
+**Andi Bailey:** So we were using like a couple of external, like we were kind of cobbling together a bunch of LRDs.
+
+**Callie Fromm:** Yeah, I was going to ask that too.
+
+**Andi Bailey:** What were you using before?
+
+**Andi Bailey:** Yeah, we were using, we were using Aerox.
+
+**Andi Bailey:** And so we were building like Aerox workflows, but it just a little bit different.
+
+**Andi Bailey:** You know, they weren't customized to us, things like that.
+
+**Andi Bailey:** And so people were thrown in the deep end and did whatever they needed to do to get stuff out the door, which was great.
+
+**Andi Bailey:** Now that means that we have like a bunch of pods that kind of have done things differently and now need to like relearn after being on the job for a little while.
+
+**Andi Bailey:** So I think like that unifying is a bit of a challenge, a bit of a like growing pain.
+
+**Andi Bailey:** But that's my whole job is like to try and get our processes in a place where it's like repeatable and scalable.
+
+**Andi Bailey:** Um, and everybody knows kind of like what needs to be done, how it needs to be done, the order it needs to be done in.
+
+**Andi Bailey:** Um, so that their job is a little bit less stressful, hopefully, fingers crossed.
+
+**Andi Bailey:** Um, so, uh, that leads me to like part two, which is, um, in that hiring, I think we knew like we needed people with some experience within like the areas that I initially described.
+
+**Andi Bailey:** But, uh, the balance of those two is not.
+
+**Andi Bailey:** It's the same for everyone.
+
+**Andi Bailey:** And I mean, I think that's true even of like whoever the people that we'll hire now, right?
+
+**Andi Bailey:** Some people are like stronger editorially, some people are really strong technically, and some people are like really great project managers, and like you're not going to get all three.
+
+**Andi Bailey:** And so we try and match content managers who have like, they need like similar, at least like editorially versus technically like strengths.
+
+**Andi Bailey:** And like some people can like execute a workflow and figure it out and get it done and like know kind of a lot about SEO and things like that.
+
+**Andi Bailey:** And some people are like very editorial and strong from like journalism about that, things like that.
+
+**Andi Bailey:** So you try and, and like, make sure that those skill sets are, each other out when we put like a CM and an ME, and even the account strategists, same, same thing, like, you know, that those three are in differing levels necessary for everyone.
+
+**Andi Bailey:** Remember the pod.
+
+**Andi Bailey:** And so we try and make sure that we have like a strong representation across those three pieces.
+
+**Andi Bailey:** And I was like, it's not perfect.
+
+**Andi Bailey:** Because we kind of like came up with this rubric a little bit after like we had the team.
+
+**Andi Bailey:** And also, we continued to add clients and we slowed down hiring so that we could be more intentional about who we were bringing on.
+
+**Andi Bailey:** So capacity is like, we're bursting at the seams in terms of like the amount of work that people are taking on, which is why we're hiring for multiple people in this role.
+
+**Callie Fromm:** It's a good problem to have.
+
+**Andi Bailey:** Yeah, it's a good problem to have.
+
+**Andi Bailey:** I think like right now is vacation time.
+
+**Andi Bailey:** And so when somebody goes out of office, everybody's like, oh my God, I'm going to ground and work.
+
+**Callie Fromm:** Um, which, you know, that's, that's a hard thing to like ask people to do.
+
+**Andi Bailey:** Um, but.
+
+**Andi Bailey:** Hopefully, we will, and that means that sometimes it's just throw whatever person has an extra couple of hours at the problem that's in front of us.
+
+**Andi Bailey:** So that's why I say those problems are kind of intertwined.
+
+**Callie Fromm:** Yeah.
+
+**Callie Fromm:** How do you triage that?
+
+**Callie Fromm:** How do you know, are you monitoring people's workloads and just checking in and saying, do you have bandwidth?
+
+**Callie Fromm:** Or is there a system that tracks everything?
+
+**Andi Bailey:** Um, we are thinking about implementing a system because self-reporting is hard.
+
+**Andi Bailey:** Like, you know, that self-reporting piece is sometimes people say, like, they're overloaded and then you look at, like, what they're doing and, you know, capacity and skill levels and things like that.
+
+**Andi Bailey:** That are, again, trying to, like, standardize something that wasn't accounted for when people came on board can be a little bit tricky.
+
+**Andi Bailey:** Um, so, yeah.
+
+**Andi Bailey:** So, I mean, again, our team, like I said, they're really good.
+
+**Andi Bailey:** They're really staffy.
+
+**Andi Bailey:** And so, like, when somebody has extra capacity, they will often raise their hand and say, like, hey, can I help out somewhere for right now?
+
+**Andi Bailey:** But it's also just, like, looking at clients, understanding, like, okay, this client's super healthy.
+
+**Andi Bailey:** Like, maybe we pull somebody else into, like, you know, one of our pickier clients while there's vacation.
+
+**Callie Fromm:** And, you know, a happy client gets two weeks of a little bit less attention.
+
+**Andi Bailey:** So, yeah, there's no perfect system right now, say.
+
+**Callie Fromm:** Got it.
+
+**Callie Fromm:** How many technical managing editors are you hiring right now?
+
+**Andi Bailey:** I think that number is continually in flux.
+
+**Andi Bailey:** depends on, you know, an ongoing conversation.
+
+**Andi Bailey:** think, like, two to three is what we're looking at right now.
+
+**Andi Bailey:** But I think, like, yeah, we'll see how many deals get closed in the next.
+
+**Andi Bailey:** Two weeks might change my, two to three is the number.
+
+**Callie Fromm:** Okay.
+
+**Callie Fromm:** And also, I guess, too, like, I always like to ask, you know, if you, without naming names, like, thinking about people that you have in this position right now, like, who is, who's knocking it out of the park, and who's really struggling, and what is the difference with their backgrounds or the skills that they bring to the table?
+
+**Andi Bailey:** Well, I am sadly just realizing that we are one minute over, I do have a hard stop.
+
+**Andi Bailey:** I'm sorry.
+
+**Andi Bailey:** Lots of questions.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** I mean, yeah.
+
+**Andi Bailey:** So it was great chatting with you.
+
+**Andi Bailey:** I think Maria will be in touch on Next Steps, but thank you so much for your time.
+
+**Callie Fromm:** Sorry that I was a little bit late, and this was a really good discussion, so thank you.
+
+**Callie Fromm:** That's okay.
+
+**Callie Fromm:** I've enjoyed it, and I hope you have a calm rest of your day.
+
+**Andi Bailey:** Okay.
+
+**Callie Fromm:** Technically, this is my day off, so yeah.
+
+**Callie Fromm:** Oh, no.
+
+**Callie Fromm:** Oh, gosh.
+
+**Andi Bailey:** I'm so sorry.
+
+**Andi Bailey:** No, it's okay.
+
+**Andi Bailey:** We need these people.
+
+**Andi Bailey:** We need you guys on the job.
+
+**Callie Fromm:** So I will do interviews.
+
+**Andi Bailey:** Perfect.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Great.
+
+**Andi Bailey:** Enjoy your day off.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Thanks.
+
+**Andi Bailey:** Bye.

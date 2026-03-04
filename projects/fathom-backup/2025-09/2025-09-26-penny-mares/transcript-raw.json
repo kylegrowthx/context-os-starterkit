@@ -1,0 +1,2180 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That's really fun.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It sounds like you're really deeply integrated into the companies you're helping.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is it just one at a time, or are you doing this with multiple?",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's typically one at a time.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One time I was balancing two, and it was really hard.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It feels like having two full-time jobs.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's where I'm at right now.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm kind of like Serge AI is head of marketing at the moment.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have two clients on top of that.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, my God.",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, my God.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I had an idea that I wanted to share with you and maybe get your help on, which obviously you have so much time right now, so much spare time.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But what I'm wanting to do is put together a kind of go-to-market engine package.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For our portfolio companies for once they've achieved product market fit, and they're in growth hypothesis phase, and they're actually ready to go sell, I feel relatively confident that I've learned about each kind of step in the evaluation process that happens from like showing up in chat GPT to SEO, making sure you're showing up in Google, like LinkedIn, Reddit, brand recognition, being a thought leader on LinkedIn, and use it like, I'm thinking about all the steps, and then like all the pieces that growthx does as part of it.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like what I'd love to be able to do is come up with like a recommended stack, and maybe even to the point where it's like, hey.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, we can't necessarily, like, guarantee results, but we can, like, put everything in place for you.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And maybe even to the point of, like, it's, like, 100K if you want to do it, and we're just going to install everything, and, like, you're going to be, like, cooking with gas, basically.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, like, first, if we're going to do that, I need to, like, win the hearts and minds at my firm to basically say, like, here's my proposal.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is what I think it would look like.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "These are the components under the hood that would be a part of that.",
+            "timestamp": "00:02:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I'd love GrowthX to be a part of that recommended kind of stack.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, that would be awesome.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And is this, like, like, kind of private thing you're offering to your founders, or is this, like, kind of how you guys have that incredible kind of field guide, more of, like, a public kind of guide on how to...",
+            "timestamp": "00:02:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Once you hit PMF, how do you pour gas on the market?",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I it should be both.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think it should start private and let's get some proof points of this thing actually is effective and it works.",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we've got some results in our portfolio that we can point to.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, I think it should be both.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, that's awesome.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Do we have any of your companies in our customers?",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, I tried.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like I introduced Marcel to my whole founder services team and like we were wanting to do it for a different portfolio company and it ended up falling through at the time.",
+            "timestamp": "00:03:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And again, I think it does go back to like you play very well at like kind of growth, slightly latest.",
+            "timestamp": "00:03:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "A little later stage, yeah.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But like reality is, is like we've got plenty of companies in our portfolio that are at that stage and they do need to start pouring.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, like, I'm thinking about those, those companies.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I mean, I, I guess I was asking mostly because, I mean, obviously, it's nice to have a proof point that's, like, close to home.",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But we have proof points for, like, I mean, it'll just be with, like, other types of customers, you know?",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Webflow, log in the code, those guys.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, but that's what I'm thinking about.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, like, really, I'm, like, in my head, I kind of have this, like, architecture diagram, like, workflow diagram, kind of Figma-type thing of, like, first you do this, then you do this, this, this, and this.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, like, then, you know, your footprint is healthy, your digital footprint is, like, what it should be overall.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I mean, this just sounds cool.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I guess it's, yeah, like, the shape of it, it sounds like you're still thinking through.",
+            "timestamp": "00:04:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, yeah, I don't know how you, I remember one of the things we anchor, like, our code market on, which I honestly.",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's not perfect because there are these people on YouTube that create these information businesses.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It'll just be one guy, maybe with a few contractors, and they're just making $10 million plus million in revenue a year, just selling information.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And they just have this very fun web, here are the offers, here is how I gain impressions.",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And they all just kind of work together in this flywheel.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We have one of these internally that I could send you.",
+            "timestamp": "00:05:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But like, I'm almost imagining something like that, you know, but maybe a bit more general for like a startup.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's like the anatomy of like, what a growth machine should look like once you're at this stage.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Exactly.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Exactly.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like, with that, it's like, how do you show up in ChatGPT?",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's like the new thing, right?",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And still, like, how do you show up in Google?",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, all of those things.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's what I'm thinking about.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's what I want to just come up with and just propose internally and come with a list of, like, here's some portcos that are in this stage that I think that we should, like, talk to and see who wants to, like, give it a try as, like, a guinea pig kind of a thing.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yep.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, yeah.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I mean, that sounds awesome.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think I'm trying to think of the best way I could help.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I could help, like, I guess, however you get it started, you know, if you'd share with me, I think I can, just from my side, even just contribute ideas.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And, like, I mean, to be honest, like, this is how we think of our community, even.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's, like, a little bit different.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's, like, hey, you know AI is going to change basically everything about go-to-market and, you know, sales and marketing.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, where do you get started?",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We're trying to make that the resource, you know, but more for, like, an IC type person and not a founder.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So we do think about this problem quite a bit.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "about Like, Like, Like,",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think like, just understand, I think educating people on intent and just timing and how to warm your funnel and like the importance of warm leads versus like cold outreach and what those differences are and brand awareness.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like, it's a flywheel, right?",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, you know way better than I do.",
+            "timestamp": "00:07:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like I'm such a novice compared to you.",
+            "timestamp": "00:07:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So like whatever expertise you can share with me, I'll, I'll totally, uh, take it.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think, um, yeah, I feel like, I mean, it definitely needs something to get started.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So if like, I think it would be really helpful for me to know is like the, the audience you're thinking of and just, even if you have an example, just like what stage they're at.",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It sounds like series B or, you know, somewhere a little bit further along.",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So like, I'm really good friends with the head of sales at Vizcom.",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Oh, cool.",
+            "timestamp": "00:07:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "They're a designer.",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'm really good friends with Emily.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, okay, cool.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, because he was actually my predecessor.",
+            "timestamp": "00:08:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like he was in founder services at Unusual and I filled his, I basically backfilled his spot.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like, so even though we never worked together directly, we've like kept like a monthly sync going just to like share notes and stay in touch and stuff.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so there at that point, like they have enterprise pipeline, they have brand awareness, they have a lot of the things, but it's like, where are there gaps that they fill in?",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like now he has a big team of AEs to feed, like how is he keeping that inbound machine going?",
+            "timestamp": "00:08:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like, what are the missing pieces where it's like, you know, for some companies, they have nothing on the flywheel, right?",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They need the whole thing.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But like for something like Viscom, it's like, they're like 60, 70% of the way there.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But like, as he's trying to scale up and they've got certain metrics that we as an investor would, of course, love them to hit.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like if we can help them.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Pour gas and identify where the gaps are and fill those in, then I think we could have...",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's one possibility.",
+            "timestamp": "00:09:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Goldcast is another one.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But if you're friends with someone at Vizcom and I'm friends with the head of sales, that could be a really decent one.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I haven't even shared the idea with Al yet, but I can chat to him and just be like, hey, bro, what do you think?",
+            "timestamp": "00:09:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And what would be the most helpful thing from my side?",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like if I just give you the scaffolding for like, hey, if we did do this, here's what that might look like.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That would be helpful, yeah.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like content, a webinar, just whatever.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Or like, what is the information from our side that would help a company at that stage?",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, is that helpful?",
+            "timestamp": "00:09:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, are you trying to kind of like, like you see us kind of in content?",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "that want the door open Alright, we're Thank",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And I guess, you know, like cold calling and sales, there's like another, like, are you trying to piece this together where we're one part of like something?",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Exactly.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like I'm trying to piece something together where I'm like, this is the flywheel.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's the ideal.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, who knows if I'll pull it off?",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But it's an idea at this point.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think, like, I'm just trying to think how we can get started.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's just, what do you think a good next step?",
+            "timestamp": "00:10:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, if you could just send me maybe just some case studies or examples, and then just any information that you send to first time prospects of like, this is what we do and how we, how we do it.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm going to work more so on like other parts of the flywheel.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't remember.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I feel like when we met last week, I mentioned Adam X to you, how they have, yeah, like I love.",
+            "timestamp": "00:10:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I that because I feel like that's kind of the starting point to evaluate what's missing, like where your gaps are.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, that one's super interesting.",
+            "timestamp": "00:11:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'd love that to feed a part of the content we create, you know, like that was what came to mind when you mentioned that.",
+            "timestamp": "00:11:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "you, it could be super powerful for benchmarking.",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like if you run that before you engage, and you run it again after you've completed a project, and then you can show the clear differences in the graph, like that would be quite sweet.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, it's almost like a, because I think, I mean, like people try to form that, like by asking ChatGPT, right?",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's like they ask ChatGPT, like, hey, what's the best tool for X or Y?",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, Atomex feels like the step further, I guess.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's like closer to a human, even still, than like deep research.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, and it's like, it's helping you to see your brand.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And at every point of the buyer journey of someone, not buyer, but like evaluation journey of like, some people are looking on ChatGPT, sure, that's important.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Other people are looking on LinkedIn or Reddit, like.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I gotta try it.",
+            "timestamp": "00:12:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Is it one of those things where you gotta like, you know, go through some sales calls and stuff?",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think so, yeah, yeah, I think so.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Because I mean, like, from our side of how we even decide what content to create is exactly that.",
+            "timestamp": "00:12:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We take the person they're trying to target and go through their journey and just like, every step of the way, we want content to kind of be exposed to them.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So, yeah, I mean, if they end up working on this too, I think it'll be a nice collab.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think so too, and I haven't talked to them yet.",
+            "timestamp": "00:12:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, like I said, this is really early.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just like ideation stage at this point.",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I think it could be something really cool that like, maybe eventually could become its own thing.",
+            "timestamp": "00:12:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, I don't know, but I think at least like to start.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For Portco's and kind of go from there.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think my next step is I'm going to chat to Al at Vizcom and just see like, would he be willing to like be a bit of a guinea pig here?",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then I'm going to kind of piece together like a flywheel kind of workflow.",
+            "timestamp": "00:13:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, but yeah, any info you can send me on like the role that growthx plays and like parameters are of like what you do and don't do.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's great.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I also have relationships with, um, several demand marketers that do Google ads and things like that.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cause that's of course just a necessary piece of the puzzle.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, another interesting demo that I had was with this company that basically has like the cookie, like search history of everybody.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it's kind of creepy and scary, but like the idea is, is like also at Paxton, their demand marketer used to be at Hexclad, which is, if you didn't know, I didn't know, was the best, is the best selling cookware in America.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's one of the biggest grossing direct-to-consumer brands.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so he's really on the consumer advertising side.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But what he's been experimenting with at Paxton is taking direct emails of contacts that we're trying to target and putting that into meta ads.",
+            "timestamp": "00:14:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we know that we're targeting like specific individuals with ads on meta.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So now instead of it just being brand awareness, it's direct targeting.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like, if you're able to kind of scrape very high.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Intent contacts that you know are searching for your solution, and then put that into meta ads, like, what does the conversion look like on that?",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I know the, yeah, I think, like, consumer and gate naming are, like, at the forefront of doing things like that.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "think B2B is almost, like, a little behind.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "behind, like, with such dinosaurs compared to what they're doing in direct-to-consumer.",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, it's just, it's so funny because it used to be, like, so different, and it's still perceived as so different.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But the reality is, is the way people are buying today, it's not different.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if you're not marketing the right way, like, you're not going to see the exponential growth that you need to be seeing if you're not efficiently marketing.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, I agree.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "That's really cool.",
+            "timestamp": "00:15:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You're really, like, I feel like you're just exploring right now because you have so many of these cool.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Companies in your sphere.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think defining what the motion should look like for a company at that stage sounds like a good initiative.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I haven't really seen anyone publish anything deep on that.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "They'll just have a little hot take or a soundbite.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, same.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I haven't seen anything and I'm like, it seems weird.",
+            "timestamp": "00:16:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think it'd be worthwhile.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "mean, honestly, like the reason I even think about Unusual is like the field guide.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And if you're thinking of that being the final form, I would love to be a part of it.",
+            "timestamp": "00:16:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Kind of how we think about content and stuff like that.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It'd be that chapter.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For sure.",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, the field guide has gotten us extremely far, even just with the deals we've been able to get.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, we have so many people come through.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's like, I love your field guide.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it just, it just has helped with brand awareness so much.",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "very Thank you",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, yeah, I just sent you a link.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "don't know if you'll be able to open it or not, but it's like Audience Lab is this company, like, very tiny, out of the UK, but they apparently have, like, the recent search history of, like, everybody in America.",
+            "timestamp": "00:17:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's really terrifying, actually.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, really terrifying.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "What do they do with that?",
+            "timestamp": "00:17:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Do they try to, like, unpack the journeys, or do they try to, like, what are they?",
+            "timestamp": "00:17:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Basically, they try to help you identify high intent leads, like, who's been searching for your thing?",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, like, they're primarily selling to SMB, like, home services companies, like, who's looking for roofing in your area?",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so I'm trying to pass through, like, it's on my list to watch this video, because I asked him, like, okay, but what about voice AI?",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, how do I know if someone's searching voice AI?",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, that's nowhere in your platform.",
+            "timestamp": "00:17:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is a video of, like, how to create a custom model.",
+            "timestamp": "00:17:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know what it is or if it works and like there's no free trial it's like you want it or not and um I want it but in order to get that like I feel what I want to do is piece together an entire like flywheel.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "As a right yeah.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah cool I think I think I understand I'll try to like send over a bunch of stuff also send over just some thinking for like maybe how we can contribute as well.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You know, that'd be great.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, take this as it goes.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, this is exciting.",
+            "timestamp": "00:18:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I think if we're working on anything our end that would like be interesting to collaborate on I mean, I think it's like like I don't know if you've looked at our community.",
+            "timestamp": "00:18:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's still such a like crazy work.",
+            "timestamp": "00:18:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I and I'll admit.",
+            "timestamp": "00:18:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "But um, it's like, I guess that uh,",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I don't know if you've ever done anything with like Reforge.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "They do like these, they're more on the like product side, I would say.",
+            "timestamp": "00:19:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'm definitely familiar with the name.",
+            "timestamp": "00:19:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, but I guess, I mean, I think the problem with RSpace is like, it's just hard to find good information the same way that, you know, I can go and Google any kind of developer facing concept and get like an absolute masterclass, you know, whatever I search for.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And I feel like that's going to change.",
+            "timestamp": "00:19:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So we're trying to be that, you know, for just like using AI as like a growth person or a marketer, like an operator, essentially.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So we do like a bunch of courses, you know, we do like these workshops, you know, we do courses.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And then a part of what we're doing is like collaborating with people that are an expert in a certain part of this.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So like, for example.",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "We have a webinar with Webflow because they see like millions of websites, right?",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "So they know kind of that part of the stack of like how you host your website, what the best thing you should do is.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "maybe, yeah, like I feel like you're so deep into sales that maybe when we get to that part, it's like, hey, you built this tremendous audience.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like what is that last mile to like get them on a call and actually get them to sign, you know, and close the deal.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And we can do like a webinar or like a little course there.",
+            "timestamp": "00:20:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Like, yeah, I mean, I don't know if you know these guys much, I guess if you're at DeepPrim.",
+            "timestamp": "00:20:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I don't know if you guys did a course together, but it's like, like this community is about learning about AI.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "And for every topic, they all see a similar thing where they like partner with the expert.",
+            "timestamp": "00:20:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "It's like, hey, if you're thinking about like workflows, like here's a course we did with Blankchain.",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You know, if you're thinking about voice AI, like here's the course that we did with, you know, DeepGram or Vap.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Or, you know, 11 labs.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah, 11 labs, yeah.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're thinking about doing something like this, basically.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Very cool.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Early days.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Love it.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Super cool.",
+            "timestamp": "00:21:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Great.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thanks so much for taking this.",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "I'll send you a bunch of stuff and then continue the convos.",
+            "timestamp": "00:21:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Let's both of us get deeper into this.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Penelope Mares",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:21:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Have a good weekend.",
+            "timestamp": "00:21:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "You too.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:21:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Take care.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jason Gong",
+                "matched_calendar_invitee_email": "jason@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:21:30"
+        }
+    ]
+}

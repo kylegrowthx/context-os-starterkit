@@ -1,0 +1,1504 @@
+# SpecterOps <> GrowthX - Kick Off
+
+<metadata>
+date: 2025-10-08
+time: 20:30 UTC
+duration: 62 minutes
+organizer: Erik O'Brien
+participants: Bryce Hein, Meshach Cisero, Ric Nguyen, Jason Wolfe, Kirsten Gibson, Teofi, Erik O'Brien, George Haikal
+fathom_recording_id: 92870954
+fathom_url: https://fathom.video/calls/434042854
+share_url: https://fathom.video/share/nvdj9Go8h3N9GWztR2DgkWVZvvkD-ubV
+source: fathom
+enriched_on: 2026-03-02 10:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX kicked off a content strategy engagement with SpecterOps to build awareness for "Identity Attack Path Management" as a new category and reach identity teams and CISOs who currently aren't well-served by SpecterOps' existing technical/red-team-focused content. The core challenge: SpecterOps has deep credibility with offensive security practitioners but lacks content that resonates with identity team practitioners and decision-makers; GrowthX will create new content streams to fill that gap while maintaining SpecterOps' authentic, technical voice. Success metrics include increased LLM referral traffic, more marketing-qualified leads, category leadership in search results, and pipeline growth.
+
+---
+
+## Context
+
+SpecterOps is a security software and services company best known for pioneering offensive security research and tools like Bloodhound (the de facto standard for Active Directory attack path analysis used by ~90% of red teamers). The company started as services-first, grew for six years without a formal marketing team (allowing research teams to build authentic, long-form technical content), and recently launched commercial software products. Bryce Hein (CMO, joined 5 months ago) and Meshach Cisero (Director of Growth Marketing, joined 2 months ago) are leading a market repositioning: moving from positioning as a "red teaming tools vendor" to establishing "Identity Attack Path Management" as an industry category and securing mindshare among identity security teams and C-suite buyers (CISOs, Chief Identity Officers). The GrowthX engagement was triggered by a shift in buyer research behavior—B2B security professionals increasingly use chat LLMs (ChatGPT, Claude, etc.) to research solutions before clicking on websites—and SpecterOps wants to ensure strong brand presence in LLM responses for identity-related security queries.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Category creation playbook: GrowthX is building out content methodologies for establishing entirely new categories (not just repositioning existing ones). Identity Attack Path Management is a greenfield category with no market definition yet.
+- Authentication of technical credibility: SpecterOps has 6 years of authentic researcher-authored content; GrowthX will need to study and distill those writing patterns, tone, and brand voice into new content templates.
+- Persona-specific content gaps: The client needs separate content streams for three distinct buyer personas (red team/technical practitioners, identity practitioners, C-suite decision-makers) that all must sound authentic to their respective audiences.
+
+**To CheckThat:**
+- LLM visibility opportunity: SpecterOps is explicitly optimizing for inclusion in chat LLM responses (ChatGPT, Claude, others). The content will need to be trained-data-friendly to maximize LLM citations.
+- Attack path terminology: Content around "attack path management" is directly relevant to CheckThat's AI visibility research (AEO/AI-driven visibility).
+
+**To GrowthX Business Development:**
+- Category-first engagement: This is the first major engagement focused on category creation rather than demand generation within an existing category; potential template for future B2B SaaS clients building new markets.
+- Long-term strategic account: Meshach Cisero (2 months in growth role) and Bryce Hein (5 months as CMO) are newly hired executives with influence. Early success here could expand into broader marketing services (campaigns, sales enablement, product marketing).
+- Reference account potential: SpecterOps' brand reputation in security makes them valuable as a GrowthX reference if engagement succeeds.
+
+---
+
+## Overview
+
+- SpecterOps aims to establish "Identity Attack Path Management" as a new category, targeting identity teams and CISOs
+- Current content excels with technical audiences; need to expand reach while maintaining authenticity
+- 80% of demand is inbound/marketing-driven; looking to develop outbound strategies
+- Success metrics: increased referral traffic from LLMs, more MQLs/demos, leadership in attack path management searches
+
+---
+
+## Key Topics
+
+### Current Marketing Landscape
+
+  - 80% of demand comes from inbound marketing efforts
+  - Strong community engagement, especially in offensive security
+  - Events (e.g., Black Hat, RSA) are significant lead generators
+  - Podcasters and influencers perform well in paid marketing
+  - Blog content, especially technical/practitioner-focused, drives high engagement
+
+### Target Audience Expansion
+
+  - Current strength: Offensive security teams (e.g., red teams)
+  - Key growth areas: Identity teams and CISOs/decision-makers
+  - Challenge: Translating technical credibility to broader, decision-maker-friendly content
+  - Need: Content that speaks to identity teams' day-to-day struggles and trigger events
+
+### Content Creation Process
+
+  - Technical creators (researchers) publish with minimal oversight
+  - Marketing team content undergoes extensive review by research, product, and service heads
+  - Lack of formal brand/writing guidelines; opportunity for documentation
+
+### Competitive Landscape
+
+  - Often co-exist with Microsoft Defender and CrowdStrike Falcon Identity
+  - Directly compete with Tenable Identity Exposure
+  - VEZA creates some market confusion
+
+### Growth Bottlenecks
+
+  - Limited awareness of the "Identity Attack Path Management" category
+  - Crowded security tool market with constrained budgets
+  - Need for more effective outbound sales enablement materials
+  - Balancing technical depth with broader appeal for new audiences
+
+### LLM Strategy
+
+  - Recognize shift in buyer research behavior towards chat LLMs
+  - Aim to appear as a top result for "attack path management" and related prompts
+  - Goal: Increase referral traffic from chat LLMs, leading to more MQLs and demos
+
+---
+
+## Action Items
+
+**Bryce Hein (SpecterOps)**
+- Gather/compile existing brand guidelines & writing guidelines for GrowthX team
+
+**Meshach Cisero (SpecterOps)**
+- Provide list of technical deep dive contacts to Erik/George
+- Coordinate scheduling of product & technical deep dives with GrowthX team
+- Ensure weekly sync meetings are scheduled with GrowthX team
+
+---
+
+## Transcript
+**Bryce Hein:** Hi, Erik.
+
+**Bryce Hein:** Hey, Bryce.
+
+**Bryce Hein:** How are you today?
+
+**Erik O'Brien:** Doing well.
+
+**Bryce Hein:** about yourself?
+
+**Bryce Hein:** Good.
+
+**Meshach Cisero:** Hello, everyone.
+
+**Bryce Hein:** Hey.
+
+**Erik O'Brien:** Hello, hello.
+
+**Erik O'Brien:** A couple other people, I think, joining from my side.
+
+**Bryce Hein:** They're just wrapping up another call.
+
+**Bryce Hein:** Got it.
+
+**Bryce Hein:** Eric, where are you based?
+
+**Erik O'Brien:** I am based in Burlington, Iowa.
+
+**Bryce Hein:** Oh, okay.
+
+**Erik O'Brien:** Got it.
+
+**Erik O'Brien:** Small little town south of the Quad Cities.
+
+**Bryce Hein:** Yeah.
+
+**Erik O'Brien:** Spent 15 years in Chicago and just moved here a couple months ago.
+
+**Bryce Hein:** Oh, wow.
+
+**Erik O'Brien:** Taking a break from city life for a little bit.
+
+**Bryce Hein:** Yeah, yeah.
+
+**Meshach Cisero:** Nice.
+
+**Erik O'Brien:** What about you?
+
+**George Haikal:** Where are you based?
+
+**Erik O'Brien:** Here's George.
+
+**Bryce Hein:** I'm up in Seattle.
+
+**Bryce Hein:** We're pretty distributed, though.
+
+**George Haikal:** Very cool.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Let's jump in.
+
+**George Haikal:** Sorry, I was a minute or too late, but we've been excited for this kickoff.
+
+**George Haikal:** It's good to meet you all.
+
+**George Haikal:** I think maybe since we have four people here, would it be best if just really quick intros so Eric and I kind of get an understanding of you all and then roles in the org and how we'll all be working together and then Eric and I can go quickly and then we can jump into the discovery session.
+
+**George Haikal:** How does that sound?
+
+**Ric Nguyen:** Cool.
+
+**Meshach Cisero:** That's me.
+
+**George Haikal:** Not everyone at once, please.
+
+**Bryce Hein:** Yeah.
+
+**Meshach Cisero:** was going to say.
+
+**Meshach Cisero:** I guess I can start.
+
+**Meshach Cisero:** My name is Meshach.
+
+**Meshach Cisero:** You call me Shaq for short.
+
+**Meshach Cisero:** I joined SpecterOps about two months ago, exactly.
+
+**Meshach Cisero:** do something.
+
+**Meshach Cisero:** I
+
+**Meshach Cisero:** I'm based in Washington, D.C., and I lead the growth marketing team here.
+
+**Bryce Hein:** Hey, George.
+
+**Bryce Hein:** I'm Bryce, CMO.
+
+**Bryce Hein:** Joined about five months ago, and I'm based in Seattle.
+
+**George Haikal:** Nice.
+
+**Ric Nguyen:** Okay, next.
+
+**Ric Nguyen:** My name is Rick.
+
+**Ric Nguyen:** I am based in L.A.
+
+**Ric Nguyen:** Joined SpecterOps two and a half years ago, and I'm a senior content marketing manager here.
+
+**Jason Wolfe:** Hey, I'm Jason.
+
+**Jason Wolfe:** I am a senior product marketing manager based in Colorado Springs.
+
+**Jason Wolfe:** I've been here, I guess, unofficially about a year and a year and three quarters now.
+
+**Kirsten Gibson:** Is it my turn?
+
+**George Haikal:** Yeah, go for it.
+
+**Kirsten Gibson:** Everyone's like, yeah.
+
+**Kirsten Gibson:** Hi, I'm Kristen.
+
+**Kirsten Gibson:** Sorry, I'm on a work trip right now in Charleston, so I'm not on camera, but I'm looking forward to working with you guys.
+
+**Kirsten Gibson:** I'm a product.
+
+**Kirsten Gibson:** Marketing Manager at SpecterOps, and in a past life, did a lot of content management as well.
+
+**Erik O'Brien:** See, I forgot one more, yeah.
+
+**Teofi:** Can everyone hear me?
+
+**Erik O'Brien:** Yep.
+
+**Teofi:** Okay, great.
+
+**Teofi:** My name is Teofi.
+
+**Teofi:** I've been here at SpecterOps since May, and I do account-based marketing.
+
+**Erik O'Brien:** Wonderful.
+
+**Erik O'Brien:** It's great to meet you all.
+
+**Erik O'Brien:** So I'm Erik O'Brien.
+
+**Erik O'Brien:** I'm an account strategist here at GrowthX.
+
+**Erik O'Brien:** I'll be with you the first few weeks here, get you guys set up with an account strategy, introducing you to the editorial team.
+
+**Erik O'Brien:** We'll get into that next week, but looking forward to working with you.
+
+**George Haikal:** And very quickly, good to see you all.
+
+**George Haikal:** George, I'm the chief of staff here, so I kind of help in a lot of different areas of the business.
+
+**George Haikal:** But most recently, it's been this kickoff call with all of our new clients.
+
+**George Haikal:** We put...
+
+**George Haikal:** 35 clients through the strategy sprint process.
+
+**George Haikal:** I think that's in the last month and a half, two months.
+
+**George Haikal:** So we've learned a lot, been able to dial in the process and truly understand what from both sides is needed to set everyone up for success and signals as early as possible.
+
+**George Haikal:** And so just use this call, this deep dive as one of many times we're going to download a ton of contacts from you all.
+
+**George Haikal:** So after this call, we'll identify like, do we need to jump into a product deep dive, customer deep dive, et cetera.
+
+**George Haikal:** And we'll also ingest any materials, documents, customer pain points, sales calls, any of that we'll also take as well.
+
+**George Haikal:** And we'll start building out our artifacts that feed into our workflows.
+
+**George Haikal:** To get to a really good definition of done.
+
+**George Haikal:** And for this call specifically, I'll just say, treat it as, you know, we don't know what we don't know.
+
+**George Haikal:** And we're here to become experts on your business.
+
+**George Haikal:** Each part of your business and the questions are brought by design so we can pry into the different areas and really uncover the why behind who your customer is, what problems you're solving for them, your current content creation process, all of that.
+
+**George Haikal:** So we'll jump into it.
+
+**George Haikal:** And again, the questions are brought by design, but we'll make sure we go really deep on it.
+
+**George Haikal:** Awesome.
+
+**Erik O'Brien:** Let's jump into it.
+
+**Erik O'Brien:** So I think some of you have access to this collaboration space.
+
+**Erik O'Brien:** I just dropped a link in the chat.
+
+**Erik O'Brien:** If you don't have access, just drop your email.
+
+**Erik O'Brien:** We will make sure you can get it in.
+
+**Erik O'Brien:** But we do everything here in Notion.
+
+**Erik O'Brien:** So once we get content rolling, we'll have performance reports here.
+
+**Erik O'Brien:** We save all of our meetings.
+
+**Erik O'Brien:** So with recordings, with notes, everything there for your access to kind of refer back to.
+
+**Erik O'Brien:** And we also have our docs section.
+
+**Erik O'Brien:** So this will be where we'll have some things for you to review and we'll tag you just to kind of go in here and do your reviews.
+
+**Erik O'Brien:** We also gave a lot of different deep dives and what we heard from kickoff, so you'll see that shortly after today's meeting, but for now we will jump straight into today's meeting.
+
+**Erik O'Brien:** And again, like George said, these questions we have here are broad by design, kind of just more to prime the pump and get you guys talking about parts of your business, but I think we'll start off with just question number one, what's really driving the engagement now, kind of what's pushing you towards working with GrowthX?
+
+**Bryce Hein:** You want me to take this one to start, Meshach?
+
+**Meshach Cisero:** Sure.
+
+**Bryce Hein:** Yeah, that works.
+
+**Bryce Hein:** Oh, no, go for it if you want.
+
+**Meshach Cisero:** Okay.
+
+**Meshach Cisero:** So the reason why I think we're looking to partner with these, it's kind of a multi-prong, I guess, reason, right?
+
+**Meshach Cisero:** It's first, right, we're understanding the changing of dynamics of consumer behavior as...
+
+**Meshach Cisero:** Users and audience members are using chat LMs to do most of their research, right?
+
+**Meshach Cisero:** So even before they click onto your webpage, we understand that a very technical, savvy audience member would likely have put, you know, beyond just, you know, Google search, have put a question or some sort of, you know, prompt into a chat LM to identify and help them kind of do research and hone on their top priorities.
+
+**Meshach Cisero:** So that's number one.
+
+**Meshach Cisero:** Number two, we understand that as a result of that, there is going to be a more qualified, ultimately more qualified customer that is going to come out of these chat LMs.
+
+**Meshach Cisero:** So we want to be able to bubble up our brand name and share a voice within these chat LMs so we could take a bigger share of these users who are doing their research.
+
+**Meshach Cisero:** And I think, you know, as, as this kind of, you know, use of AI for kind of, you B2B communication.
+
+**Meshach Cisero:** As consumer research continues to grow, we want to make sure that we are, you know, not lagging behind any competitors in that space, right, and continue to kind of produce content that is going to ultimately drive engagement out on these chat elements so that when they come through these chat elements to validate what they've read, they've already, you know, know a lot about our services, our products, our philosophy on attack path management, and ultimately will bring a shorter time to sales engagement.
+
+**Meshach Cisero:** Did I hit on all of it?
+
+**Meshach Cisero:** I think I hit on all of it.
+
+**Bryce Hein:** Yeah, I might add a couple of things.
+
+**Bryce Hein:** Yeah, you nailed it.
+
+**Bryce Hein:** We definitely want to stay progressive here, for sure.
+
+**Bryce Hein:** I think we also, there's a couple dynamics in our way we go to market and so on that I think are somewhat unique that we want to capture.
+
+**Bryce Hein:** Number one, we're super authentic in our content.
+
+**Bryce Hein:** The company went six years without having a marketing team.
+
+**Bryce Hein:** So, you know, when when research creates content.
+
+**Bryce Hein:** When researchers create content in long form, it's typically really well read.
+
+**Bryce Hein:** People respond to it well.
+
+**Bryce Hein:** So we do have a bench or a depth of long form content that I think has served us really well with certain audiences.
+
+**Bryce Hein:** And I think if I was to speak to, so we want to maintain that authenticity big time.
+
+**Bryce Hein:** Like it's an absolute bar, it's got to get across.
+
+**Bryce Hein:** But we also see as we've kind of dissected our buying center versus who sort of champions us versus where do we enter an account, we see a need to build our identity content for the identity team.
+
+**Bryce Hein:** It's like a persona that we're underdeveloped on, but yet is arguably the most important one in terms of being a buying center.
+
+**Bryce Hein:** So we usually come in through an offensive security team, somebody like red team.
+
+**Bryce Hein:** Okay.
+
+**Bryce Hein:** Yeah.
+
+**Bryce Hein:** Okay.
+
+**Bryce Hein:** Project or something like that.
+
+**Bryce Hein:** We have a ton of credibility with that group, like a lot of following, et cetera, open source, blah, blah, blah.
+
+**Bryce Hein:** But when it comes to the actually buying center of identity, we feel a need to do a sprint there and fill that gap.
+
+**Bryce Hein:** I would say another audience in that same vein is CISO.
+
+**Bryce Hein:** So we're really, or let's just call it decision maker.
+
+**Bryce Hein:** We're really good at speaking tech.
+
+**Bryce Hein:** Very, very good at it.
+
+**Bryce Hein:** We need to bolster kind of how we, and I don't want to say simplify, how we abstract the right level while keeping the tech cred at the CISO, CISO minus one kind of level.
+
+**Bryce Hein:** So two audiences are really important for us to build out, identity and decision maker.
+
+**Erik O'Brien:** Gotcha.
+
+**Erik O'Brien:** So just to read that back, the shift of kind of LLM visibility.
+
+**Erik O'Brien:** Geo, you guys want to remain kind of present there with your shared voice in that space as it continues to shift and consumers continue to go to, you know, black cities and chat communities of the world.
+
+**Erik O'Brien:** Super authentic content for go-to-market, maintaining that kind of super authentic voice, and then building and filling these gaps with identity teams and CISOs for the decision-maker kind of audience and where decisions are being made within those identity teams.
+
+**Bryce Hein:** Maybe if I'll add one more.
+
+**Bryce Hein:** We are building out our campaigns and attaching, we're creating a new category.
+
+**Bryce Hein:** So, and in order to do that, we're having to reframe things from an attacker's point of view for our customers.
+
+**Bryce Hein:** And so some of this reframing is important.
+
+**Bryce Hein:** And as we build out our campaigns, we need more sort of just content at certain personas to be more effective.
+
+**Erik O'Brien:** Gotcha.
+
+**Erik O'Brien:** Can you tell me more about that, kind of creating this new category?
+
+**Bryce Hein:** Yeah.
+
+**Bryce Hein:** There's been a lot of focus in security programs around how do you instrument your things?
+
+**Bryce Hein:** Do I have my endpoints instrumented so I can tell if an attacker is accessing them?
+
+**Bryce Hein:** Do I log things appropriately?
+
+**Bryce Hein:** Do I have network security?
+
+**Bryce Hein:** And so it's sort of been an internal out point of view from a security perspective.
+
+**Bryce Hein:** The gap that we see is people are not actually looking at it from an attacker's point of view.
+
+**Bryce Hein:** And when you do, you see the gaps through those toolings.
+
+**Bryce Hein:** You see attack paths that people can take.
+
+**Bryce Hein:** You see the way that they would take one identity, yours, Eric, and exploit you to get to George, which exploits you to get.
+
+**Bryce Hein:** To Meshach, which provides a complete path to maybe it's your databases, your customer information, whatever it might be, your critical assets.
+
+**Bryce Hein:** So we need to get people to think about how people, how attackers misuse relationships and identities and snowball them to get the goods.
+
+**Bryce Hein:** And so we are carving out a new space called Identity Attack Path Management, and we're helping people cut those paths off proactively.
+
+**Bryce Hein:** And so there's this really important just overall meta message we want to get to the market.
+
+**Bryce Hein:** That's my last comment, Meshach, in this section is I just think like this isn't just about turning a micro campaign.
+
+**Bryce Hein:** This is about a industry campaign that we're trying to develop into the market.
+
+**Meshach Cisero:** Yes.
+
+**Meshach Cisero:** Very well said.
+
+**Bryce Hein:** We have passion around us here.
+
+**Erik O'Brien:** I love it.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** Anything else to add to question one?
+
+**Erik O'Brien:** think kind of pretty comprehensive, but anybody else, anything else to add?
+
+**Erik O'Brien:** Don't want to follow up Bryce there?
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** So if we interviewed three of your best customers, not necessarily your biggest customers, what would they say?
+
+**Erik O'Brien:** You guys are uniquely good at.
+
+**Bryce Hein:** Jason, do you want to take a first shot at this one?
+
+**Jason Wolfe:** Yeah, say finding risk that they would have never been aware of without the solution.
+
+**Jason Wolfe:** So really, like the unknown unknowns, I guess.
+
+**Jason Wolfe:** That's one of the big ones we always hear.
+
+**Jason Wolfe:** The actionable remediation.
+
+**Jason Wolfe:** And so, you know, they're actually able to make progress on the problems that we identify and harden there.
+
+**Jason Wolfe:** Before we
+
+**Jason Wolfe:** Their identity, security posture.
+
+**Jason Wolfe:** Three, if anyone else has a third one on the tip of their tongue.
+
+**Kirsten Gibson:** know.
+
+**Kirsten Gibson:** Sorry, just because I saw Justin speak.
+
+**Kirsten Gibson:** Prioritization of said problems, right?
+
+**Kirsten Gibson:** Finding where it's most efficient to make that remediation to solve as many attack paths as possible.
+
+**Bryce Hein:** And I think it's important to capture a third.
+
+**Bryce Hein:** Oh, maybe we already did, but to wrestle with a third, because this is an important part of our business that may be unique.
+
+**Bryce Hein:** A company started in services, and we actually have some massive environments.
+
+**Bryce Hein:** I was just with Exxon last week.
+
+**Bryce Hein:** They're barely getting started with our product, but they've been using our services for quite some time.
+
+**Bryce Hein:** So the thing I would summarize in terms of what they would say we're uniquely good at, we're absolutely great at advanced offensive.
+
+**Bryce Hein:** Offensive security services, call it pen testing, penetration testing.
+
+**Bryce Hein:** We go into some of the biggest and most important companies in the world, and we own them in 30 minutes.
+
+**Bryce Hein:** So I'm exaggerating, but they rely on us to then help them get better at what they do.
+
+**Bryce Hein:** So our offensive security services provide a lot of value on where their gaps are.
+
+**Bryce Hein:** And by the way, I bring this up as one of the three, if you will, because it's both a, it's, it's absolutely a blessing, but how do we turn it into like value for identity attack path management?
+
+**Bryce Hein:** It isn't always a straight path.
+
+**Erik O'Brien:** Yeah.
+
+**Bryce Hein:** Am I off base there?
+
+**Bryce Hein:** there something you would tweak to what I said?
+
+**Jason Wolfe:** No.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** Whoops.
+
+**Erik O'Brien:** I'll do that.
+
+**Bryce Hein:** Hey, when we're talking, Erik and George, when we're talking security jargon, part of why we partner with you guys is because you have security customers and, you know, actually built the IBM content engine, all that.
+
+**Bryce Hein:** Please stop us if we're using stuff that's like, you know, we're speaking French.
+
+**George Haikal:** We will.
+
+**George Haikal:** We will.
+
+**George Haikal:** And probably worth noting here is, yeah, we have a ton of experience with other clients in the space and what has helped in the past and what we've learned from those is the level of documentation you already have about your writing guidelines, you know, how authentic you already sound.
+
+**George Haikal:** We can go distill that through our research as well, and we can figure that out during the calibration process, but if you already have writing guidelines, style, tone.
+
+**George Haikal:** Brand guidelines, examples, positioning documents, product marketing stuff, all of that is super useful.
+
+**George Haikal:** And then we'll distill that into artifacts that we'll then create your content from.
+
+**Bryce Hein:** so more of that upfront, the EZR calibration process with you all will be the back and forth.
+
+**Bryce Hein:** great.
+
+**Bryce Hein:** Thanks.
+
+**Erik O'Brien:** Yeah, if you throw out anything else that we're not aware of, we'll make you spell it out.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** So I guess we kind of know what the reason for Engage with GrowthX is, but what would you say matters most to leadership right now?
+
+**Erik O'Brien:** Kind of any pressures you're feeling or specific outcomes that leadership would say, you know, we've nailed this six months from now?
+
+**Bryce Hein:** There's the obvious ones of like pipeline creation, because we are in a super high growth market like you guys.
+
+**Bryce Hein:** And so, you know, how do we double the business next year?
+
+**Bryce Hein:** So there's that, which is, can we make sure we get high growth, high leverage, you know, inorganic kind of activity going in our pipeline?
+
+**Bryce Hein:** But broader than that, it's how do we land this category?
+
+**Bryce Hein:** Because if we can land this category with identity teams, decision makers, and the people who love and follow us, then good things are going to happen.
+
+**Bryce Hein:** And so we've got to drive awareness and urgency around this category.
+
+**Erik O'Brien:** So obviously pipeline creation, I think that's one of our most common answers here.
+
+**Erik O'Brien:** But yeah, the category itself and what would you say the current awareness of the category is today?
+
+**Erik O'Brien:** For your kind of ideal customers, which we'll get to in a second.
+
+**Bryce Hein:** Jason, Kirsten, do you want to, I mean, the way I would say is it's very early.
+
+**Jason Wolfe:** Yeah, I think the problem is very well known.
+
+**Jason Wolfe:** Our approach to the solution is becoming increasingly more well known because of us and because other folks are starting to incorporate some of the things we do and say.
+
+**Jason Wolfe:** So I think it's starting to take form a little bit, but it's still early, as Bryce said.
+
+**Bryce Hein:** Yep.
+
+**Bryce Hein:** I like that answer.
+
+**Bryce Hein:** I think that's the right one.
+
+**Bryce Hein:** It's like the problem, you know, how to solve the problem may not be.
+
+**Bryce Hein:** And that's what we're doing.
+
+**Bryce Hein:** Yeah.
+
+**Meshach Cisero:** Bryce, do you think there's a third one here, maybe around community evangelism or engagement?
+
+**Meshach Cisero:** As a key kind of third thing that's really important to be, to continue to know.
+
+**Bryce Hein:** Yeah, really important.
+
+**Bryce Hein:** So we have a really strong community.
+
+**Bryce Hein:** Guys, when we launch something, it's like we pulse the market and we do see a response from website traffic to downloads and everything.
+
+**Bryce Hein:** Uh, but we don't formally go and work while we're starting, but conversion opportunities.
+
+**Bryce Hein:** So if we could take a strong community that knows us for services and red teaming and kind of go over or around to the identity and decision makers, we think that's a faster path than, you know, just kind of the passive wait, wait for it to happen.
+
+**Bryce Hein:** So, yes, I do think Meshach, it's like, how do we get to identity and CISO's personas within the community companies?
+
+**Meshach Cisero:** Yeah.
+
+**George Haikal:** I like that.
+
+**Erik O'Brien:** When you say community, like how, how big is this community?
+
+**Bryce Hein:** Well, it's a, that's.
+
+**Bryce Hein:** Good question.
+
+**Bryce Hein:** I don't know.
+
+**Bryce Hein:** Let's say 15 to 25, 20,000 on Slack, but more importantly, we're still trying to figure out where they live, Erik.
+
+**Bryce Hein:** Yeah, I guess I'll leave it at that.
+
+**Meshach Cisero:** Yeah, open source has been downloaded millions of times.
+
+**Meshach Cisero:** It's just kind of hard to identify who are, or who in the past have downloaded, who's continuing to still use it.
+
+**Erik O'Brien:** It's kind of, because it's open source, there's a little bit of nebula.
+
+**Meshach Cisero:** There we go.
+
+**Meshach Cisero:** It's kind of hard to pinpoint.
+
+**Meshach Cisero:** We are working to kind of identify and de-anonymize some of that, but I think that's only like the tip of the iceberg in terms of like who's actually, you know, used or actively using the open source tool.
+
+**Bryce Hein:** Erik, maybe one supporting point is that Bloodhound's used by probably 90 plus percent of red teamers, even if it's not SpecterOps employees.
+
+**Bryce Hein:** In way more use it than don't in terms of us, our team.
+
+**Bryce Hein:** So it's really.
+
+**Bryce Hein:** Really, really well known in that group.
+
+**Bryce Hein:** I'm guessing that there's probably, you could measure red teamers in the tens or hundreds of thousands, but some, some, Jason, do you think I'm off there?
+
+**Jason Wolfe:** You mean like that have engaged or that do consistently, or what's the metric we're kind of thinking of here for the size?
+
+**Jason Wolfe:** I mean, it's, I mean, it's sort of, it's essentially the Kleenex of what it is.
+
+**Jason Wolfe:** So, as far as popular, you know, I mean, it just, there's, there's a handful like mini cats, like there's a handful of, of hacker slash type tools that everyone knows in the red team community.
+
+**Jason Wolfe:** And we are absolutely on like the top five of that ones.
+
+**Bryce Hein:** Yeah.
+
+**Bryce Hein:** If you were to take a swag at how many red teamers there are that kind of use us.
+
+**Jason Wolfe:** Globally, I mean, we have about 20,000 just in the, just who come to us consistently for support and for, for questions.
+
+**Jason Wolfe:** have look.
+
+**Jason Wolfe:** All
+
+**Jason Wolfe:** I mean, yeah, probably 50,000 plus.
+
+**Jason Wolfe:** I don't know.
+
+**Jason Wolfe:** mean, a lot, you know, like, because we also have the community addition is also a bit of an education tool for folks who are getting into security.
+
+**Jason Wolfe:** So you have people who use it as a practitioner.
+
+**Jason Wolfe:** You have people who use it for hobby type purposes, for research.
+
+**Jason Wolfe:** So there's a lot of different aspects that people use it for.
+
+**Erik O'Brien:** Gotcha.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** So good transition into kind of how do you guys define your ICP or ideal customers today?
+
+**Erik O'Brien:** It sounds like identity teams and decision makers and CISOs are the audiences we want to reach.
+
+**Erik O'Brien:** But how else would we kind of identify these archetypes for customers?
+
+**Jason Wolfe:** So I'd say an ideal would be...
+
+**Jason Wolfe:** Ten years or older, as far as the organization's age.
+
+**Jason Wolfe:** Over 2,000 users, I'd say over 1,000 or 1,500 employees.
+
+**Jason Wolfe:** So you're actually managing an IT enterprise.
+
+**Jason Wolfe:** It's not just a small shop.
+
+**Jason Wolfe:** You actually have, like, big shop problems.
+
+**Jason Wolfe:** And, I mean, an ideal would be somewhat security mature.
+
+**Jason Wolfe:** Like, they have the, they have some of the baseline, lot of the commoditized stuff in place already.
+
+**Jason Wolfe:** Somebody else probably has stats that might have proved me wrong on some of those.
+
+**Jason Wolfe:** That was kind of a good guess.
+
+**Jason Wolfe:** Sorry, stepped on toes there.
+
+**Kirsten Gibson:** Yeah, that's pretty accurate.
+
+**Kirsten Gibson:** And, like, any industry, really.
+
+**Kirsten Gibson:** But I would say that, like, our, where we, our bread and butter, right, is, like, services, healthcare, industries that have a lot of private information.
+
+**Jason Wolfe:** Yeah, good call.
+
+**Jason Wolfe:** Anything highly regulated?
+
+**Jason Wolfe:** Yep.
+
+**Erik O'Brien:** The government?
+
+**Jason Wolfe:** Yeah, we are a grant certified, so yes, very much so.
+
+**Erik O'Brien:** Any other ways you guys would define kind of ideal customer outside of some metrics around the orgs?
+
+**Bryce Hein:** It's a, one of the reasons why you hear hesitation, I think Jason captured it, that they've got to be, have a certain amount of sort of maturity to their, like, Active Directory or Microsoft shop.
+
+**Bryce Hein:** It used to be that we would, we would add some firm graphics like, or demographics like Microsoft environments, et cetera, but we're broadening so quickly that.
+
+**Bryce Hein:** I don't want to put too narrow of a scope on it.
+
+**Erik O'Brien:** Gotcha.
+
+**Erik O'Brien:** And then if there's any trigger events of like, you know, customers trying to get something done or something happens, what would typically be those trigger events when they kind of reach out?
+
+**Bryce Hein:** One would be...
+
+**Bryce Hein:** Oh, sorry.
+
+**Bryce Hein:** Oh, go ahead.
+
+**Jason Wolfe:** I was going say, failed pen tests.
+
+**Jason Wolfe:** So we get a good number of folks who they hire an outsider internal firm to test their systems and identities or Active Directory consistently comes back.
+
+**Jason Wolfe:** So we'll hear from them.
+
+**Jason Wolfe:** Mergers and acquisitions are another big one for us.
+
+**Jason Wolfe:** You know, you do want to maintain your timeline and not introduce an attack because you've acquired a risky environment.
+
+**Jason Wolfe:** And sorry, Bryce, what were you going to say?
+
+**Bryce Hein:** I cut you off there.
+
+**Bryce Hein:** Oh, no.
+
+**Bryce Hein:** No, you nailed it.
+
+**Bryce Hein:** What would you think?
+
+**Bryce Hein:** think...
+
+**Bryce Hein:** Jason, like, how would you describe sort of, I don't want to call it zero trust initiatives, maybe least privilege?
+
+**Jason Wolfe:** Yeah, I mean, as hokey as it sounds, digital transformation is like the catch-off for like the zero trust, the digital migration, the, a lot of that stuff, like the security that comes with that.
+
+**Jason Wolfe:** So yeah, zero trust, least privilege application by like tiering, things like that.
+
+**Bryce Hein:** Identity breaches, like if they're in the region or in their, their cohort.
+
+**Erik O'Brien:** I think it's about privileges, there we go.
+
+**Erik O'Brien:** And these all sound kind of almost reactive.
+
+**Erik O'Brien:** Is there any proactive triggers that you guys have customers engaging for?
+
+**Jason Wolfe:** AD hardening, like a lot of organizations are aware.
+
+**Jason Wolfe:** So, what?
+
+**Jason Wolfe:** So, what?
+
+**Jason Wolfe:** We talk about attack paths.
+
+**Jason Wolfe:** Those are made up of tech debt.
+
+**Jason Wolfe:** That's identity-based tech debt that gathers in an organization over years.
+
+**Jason Wolfe:** Folks are aware of it, but they don't always get around to fixing it, I guess.
+
+**Jason Wolfe:** And some folks do start to get either pressure from the board because identity breaches are in the news, or they start to hear things and they start to ask why.
+
+**Jason Wolfe:** So we will hear from people sometimes who just want to do an AD hardening or an identity hardening project.
+
+**Jason Wolfe:** And that's about, yeah, that's very proactive.
+
+**Jason Wolfe:** That's the, those are, again, those are the folks that, I mean, that's a great customer because they've probably already done some of the baseline stuff.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** I guess this one kind of touched on it a little bit.
+
+**Erik O'Brien:** I wouldn't.
+
+**Erik O'Brien:** I
+
+**Erik O'Brien:** When you guys win deals, which competitors are you guys displacing?
+
+**Jason Wolfe:** We don't really displace.
+
+**Jason Wolfe:** Yeah, so we commonly see Microsoft Defender and CrowdStrike, Falcon Identity.
+
+**Jason Wolfe:** Those are the two most common.
+
+**Jason Wolfe:** You would call them competitors, but we consistently close those deals, and they maintain both pieces of software.
+
+**Jason Wolfe:** So it's, you know, it might be perceived as competition up front, but once they see what each solution offers, they start to understand that they're better together and layered security.
+
+**Jason Wolfe:** Yeah.
+
+**Jason Wolfe:** So Tenable Identity Exposure would be the one product that we are often, I know I've been on a handful of calls, and I'm not even in sales, talking to Tenable reps about displacing Tenable.
+
+**Jason Wolfe:** So that's one that we do actually displace if we see them in an environment.
+
+**Bryce Hein:** I think from a mindshare perspective, I would add VEZA to this list.
+
+**Jason Wolfe:** Yeah, we have market confusion with them, more than direct competition, but yeah, I would agree with that.
+
+**Erik O'Brien:** VEZA, V-E-S-A or?
+
+**George Haikal:** I-Z.
+
+**Kirsten Gibson:** V-E-D-A.
+
+**George Haikal:** And then what are you hearing when you're, so you're talking to someone who displays Tadable, like what are you hearing that you all are doing better, or like why are they, what's that switching moment that they're having, or what trade-offs are they making when they choose you all?
+
+**Jason Wolfe:** Yeah, so cost is a big one, so licensing model slash cost is a big one.
+
+**Jason Wolfe:** It's an acquired product, and there's been degradation that comes with that while we're hyper-focused on what we do, and we're, you know, as we mentioned earlier, like we're discovering new ways to attack and defend, and they're sort of playing catch up at best.
+
+**Jason Wolfe:** you.
+
+**Jason Wolfe:** you.
+
+**Jason Wolfe:** Thank
+
+**Jason Wolfe:** So the solution is kind of outdated, and it's increasingly, it's part of a larger platform that you sort of have to be all in on if you want to get what's sold as being the features of the product.
+
+**Bryce Hein:** By and large, I would say, guys, that we go after incremental budget, which is part of the challenge.
+
+**George Haikal:** And then where are you all losing to competitors?
+
+**Jason Wolfe:** I think do nothing.
+
+**Jason Wolfe:** I think our biggest is, you know, this is an old problem that they've lived with for over a decade.
+
+**Jason Wolfe:** So if something doesn't happen, if there's no impetus, then we're essentially, you know, IT folks are busy.
+
+**Jason Wolfe:** They don't have a lot of downtime, and we're proposing that they do more work just for the sake of security or risk reduction.
+
+**Jason Wolfe:** And if you're not properly motivated, that's just more work on your plate.
+
+**Jason Wolfe:** So we get folks, if we...
+
+**Jason Wolfe:** If don't have the right champion, or if we're not selling at the right level, we risk wasting a lot of time on somebody whose goal is essentially to waste time.
+
+**Bryce Hein:** I would say we also lose to our own open source, similar to do nothing.
+
+**Jason Wolfe:** Then the other is, it's the traditional, the CISO goes to a conference, meets somebody from CrowdStrike, or Microsoft gets wowed by the onslaught of love and affection you can get in that situation.
+
+**Jason Wolfe:** And, you know, you're, they already exist in the environment, so there's already an incumbent that you're trying to complement.
+
+**Jason Wolfe:** So it doesn't, we don't lose those necessarily, but it definitely delays things or can temporarily create a loss.
+
+**George Haikal:** Got it.
+
+**George Haikal:** And then if we scroll up a bit, so all of this is good.
+
+**George Haikal:** Good and it's helpful information, guess still what's not, where I feel a gap in the way I'm thinking about it is your audience and personas as it relates to the problems that you're solving for them.
+
+**George Haikal:** So essentially, right, we're going to create content that is audience first, that speaks to these decision makers at CISOs and these identity teams at the different stages of the funnel, the different interest levels.
+
+**George Haikal:** When they're ready to buy your product, when they're thinking about the problems that arise before they need to buy your product, when they're trying to get ahead of their transformation mandate, like whatever it is.
+
+**George Haikal:** So could you speak a little bit more to the nuanced, more individual problems that identity teams face and then that decision makers at CISOs face?
+
+**George Haikal:** And just trying to fill that out a little bit for ourselves.
+
+**Jason Wolfe:** Yeah, you want me to?
+
+**Bryce Hein:** Sure.
+
+**Jason Wolfe:** So, like again, I mentioned earlier, the problem is this.
+
+**Jason Wolfe:** It's like everyone knows that there's the skeletons in the closet that are misconfigurations, overprivileged, administrators doing the wrong things with their accounts, going to the wrong places and leaving their passwords and hashes all over environments.
+
+**Jason Wolfe:** Because all of this is out there.
+
+**Jason Wolfe:** We protect critical assets in the environment from that.
+
+**Jason Wolfe:** So we take all of that, we map it to what are your critical assets, whether those are identity assets like domain admin accounts, whether that's regulatory data.
+
+**Jason Wolfe:** We look at those individually and say, what is the risk of this asset to this mountain of identity tech debt that creates this giant mess that attackers can just, if you can hop on and take advantage of something that was misconfigured, now you can own five or six accounts instead of the one you have.
+
+**Jason Wolfe:** Now you start picking from those and where else can I go?
+
+**Jason Wolfe:** And what we do is we put those into logical groupings so that we're constantly finding what's the most critical.
+
+**Jason Wolfe:** and highly exposed attack path in this environment that if I'm an attacker and I fish a random user and I land in this environment, I want to make sure that it's very unlikely that they land on an active attack path to a critical asset.
+
+**Jason Wolfe:** So we put all those in logical groupings.
+
+**Jason Wolfe:** We call those choke points.
+
+**Jason Wolfe:** And that's where you can go in with a couple of changes.
+
+**Jason Wolfe:** You've now eliminated often tens to hundreds of thousands of attack paths.
+
+**Jason Wolfe:** So you're solving these problems at this massive scale that people, A, they've lived with it, but they've also lived with it because they didn't think this was possible.
+
+**Jason Wolfe:** So it's not a, don't need this.
+
+**Jason Wolfe:** When we show people, we did a marketing program or a lead gen program, and the most common feedback was, I don't have a budget for it because I didn't know it existed.
+
+**Jason Wolfe:** I will put budget in for it because now I know it exists.
+
+**Jason Wolfe:** So it gives a programmatic, manageable way to go after this huge problem that's been lurking in the dark for years.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** That's helpful.
+
+**Jason Wolfe:** And for a defender, it's a scale management problem.
+
+**Jason Wolfe:** So, like, if I'm an attacker, I just want to get from my account to a domain admin account, so that's their game or whatever they're trying to get to.
+
+**Jason Wolfe:** If I'm a defender, I have to have a topological understanding of my users and my assets and what's in between those, so we give them that visibility as well.
+
+**Jason Wolfe:** Just, it's more data for them to consume and make those security decisions.
+
+**Erik O'Brien:** Gotcha.
+
+**Erik O'Brien:** Super helpful.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** We already talked about a little bit of common objections, which is mainly do nothing or get wowed by Microsoft and CrowdStrike.
+
+**Erik O'Brien:** So let's go to current state.
+
+**Erik O'Brien:** Where are your best leads or users coming from today?
+
+**Erik O'Brien:** guys, go here,
+
+**Erik O'Brien:** Our community.
+
+**Erik O'Brien:** Community.
+
+**Kirsten Gibson:** Definitely community.
+
+**Kirsten Gibson:** Yeah.
+
+**Kirsten Gibson:** Yeah.
+
+**Bryce Hein:** From a paid perspective, it's actually podcasters and influencers are really, really good for us.
+
+**Bryce Hein:** Most of our demand comes inbound.
+
+**Bryce Hein:** So we've established really good content to a specific audience, though.
+
+**Bryce Hein:** So about 80% of our funnel is marketing slash inbound.
+
+**Erik O'Brien:** 80% of demand comes from inbound.
+
+**Erik O'Brien:** What would you say?
+
+**Erik O'Brien:** Podcasters, influencers, how that paid?
+
+**Erik O'Brien:** 10%, 5%?
+
+**Bryce Hein:** No, I would say marketers, marketing and inbound.
+
+**Bryce Hein:** And so podcasters would be a seller.
+
+**Erik O'Brien:** Ah, there you go.
+
+**Erik O'Brien:** Then what's the percentage on the community?
+
+**Erik O'Brien:** The other 20?
+
+**Bryce Hein:** I think they're part of the inbound is the hard part.
+
+**Bryce Hein:** Okay.
+
+**Bryce Hein:** The answer.
+
+**Kirsten Gibson:** Because they're following, they're downloading content, they're going to our site, they're, you know, so it's...
+
+**Kirsten Gibson:** Yeah, it's hard to attribute one motion.
+
+**Erik O'Brien:** Gotcha.
+
+**Bryce Hein:** And we tried, in some ways, to avoid attribution right now.
+
+**Bryce Hein:** I've done attribution left and right and center and all over the place, and it's, I don't, I think it's hard for this company to trace it.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** it's able
+
+**Erik O'Brien:** So community marketing, inbound, do you guys have an outbound motion?
+
+**Bryce Hein:** Not yet.
+
+**Bryce Hein:** Meshach is in the process of building that to your fee and team.
+
+**Kirsten Gibson:** But we do have like field, you know, field events and regional events and industry-specific events and security-specific events.
+
+**Bryce Hein:** We're actively building outbounding.
+
+**Erik O'Brien:** Gotcha.
+
+**Bryce Hein:** Oh, thank you for bringing that up, Kirsten.
+
+**Bryce Hein:** So events are still a big part.
+
+**Bryce Hein:** You know, we'd love to do more with digital just because we have great, you know, long form and all that.
+
+**Bryce Hein:** But man, Black Hat as an example is awesome for us.
+
+**George Haikal:** Yeah.
+
+**Bryce Hein:** We're a small company, but we can get 1,000 people registered for our party.
+
+**Bryce Hein:** Like, just like that.
+
+**Bryce Hein:** You know, it's crazy.
+
+**Jason Wolfe:** RSA is a big one as well.
+
+**Jason Wolfe:** Like, basically, we, if it's a traditional security conference, we're very much a known quantity and we're, like, we're just part of the gang.
+
+**Jason Wolfe:** And we're trying to extend that to the sort of the identity conferences and some of the more traditional, like, business side conferences.
+
+**George Haikal:** Nice.
+
+**George Haikal:** For the last probably 15 minutes here would be helpful to better understand, like, the current state of how you all are operating and, like, trying to better understand your definition of done and good and your bar of quality.
+
+**George Haikal:** already spoke to how you want to sound and being authentic and technical.
+
+**George Haikal:** But I guess first, help me understand, like, what's outperforming in terms of editorial content on the site now.
+
+**George Haikal:** Like, what do you think is a really good example of, this is great, either yourselves or something that someone else is doing?
+
+**Bryce Hein:** Misha.
+
+**Bryce Hein:** Sorry, Kirsten, go ahead.
+
+**Kirsten Gibson:** Oh, I was just going to say, like, anecdotally, I can't speak to performance.
+
+**Kirsten Gibson:** I'll let Meshach handle that.
+
+**Kirsten Gibson:** But I will say we commissioned a survey, and we did a called Trends and Identity Report.
+
+**Kirsten Gibson:** And that did really well in the sales motion.
+
+**Kirsten Gibson:** And, of course, I want to say the state of attack path management since I did that project.
+
+**Kirsten Gibson:** But I don't know if the numbers match.
+
+**Bryce Hein:** Oh, they do.
+
+**Bryce Hein:** I'd say more broadly, we, in that one, would just say our research.
+
+**Bryce Hein:** That's a great goal in parentheses there.
+
+**Bryce Hein:** And then our blogs.
+
+**Bryce Hein:** In fact, we see, we can trace very directly.
+
+**Bryce Hein:** Go ahead, Meshach.
+
+**Meshach Cisero:** I cut you off.
+
+**Meshach Cisero:** No, go ahead.
+
+**Meshach Cisero:** I was just saying, I was going to say exactly what you're saying.
+
+**Meshach Cisero:** I think our blogs are bread and butter when it comes to really kind of driving website engagement.
+
+**Meshach Cisero:** right.
+
+**Meshach Cisero:** All
+
+**Meshach Cisero:** Especially our practical and technical blogs, whether that is a form of like a case study.
+
+**Meshach Cisero:** know that sales life blog did really, really well that Jared published, I believe, last week.
+
+**Meshach Cisero:** So I think anything along that's really technical, but also has like a very kind of practitioner focus, I think, has been really driving a lot of engagement for our site.
+
+**Meshach Cisero:** But I'm not sure if that's the direction you're taking in, but that's not.
+
+**Jason Wolfe:** I think you're exactly right, though, Shaq.
+
+**Jason Wolfe:** think, like, if you think, if I think of the stuff, I mean, we do stuff that makes waves, like, temporarily.
+
+**Jason Wolfe:** But if you look at the stuff that really stands the test of time here, like certified pre-owned, the Attack Path Manifesto, like, there are things that were written by the folks here that are essentially, like, their lore in cybersecurity.
+
+**Jason Wolfe:** And I think a lot of that exists in that space.
+
+**Jason Wolfe:** Space, the stuff that Jared writes, stuff that, some of the stuff that Justin writes, there's some really amazing stuff out there.
+
+**George Haikal:** What, what, so outside of field events, the blog right now, a little bit of the influencer, the paid stuff, what, have you guys placed any other bets on the organic side or anything you've been experimenting with in terms of content?
+
+**George Haikal:** Any, like, experimental marketing bets you guys have taken or are thinking about?
+
+**Meshach Cisero:** Not yet, but I do think that we have some appetite to see if what we can do with channels like Reddit and kind of like these third-party sites that we know we have an existing presence and audience on, how do we continue to grow that?
+
+**Meshach Cisero:** How do we engage in that authentically and how do we figure out a way to then, you know, as we grow that community, like we've grown our Slack community, how, how then we
+
+**Meshach Cisero:** Can we take this audience and drive that into, like, a commercial flow?
+
+**Erik O'Brien:** No.
+
+**Jason Wolfe:** I think that's being aggressive with your timeline, Bryce.
+
+**Jason Wolfe:** think we're, like, a year and seven months or something.
+
+**Jason Wolfe:** Yeah, yeah, yeah, yeah, yeah.
+
+**Bryce Hein:** Hey, finding our – one of the things we're trying to do right now is figure out where does our community hang out.
+
+**Bryce Hein:** And so we're trying to analyze within Reddit and others where they are.
+
+**Bryce Hein:** We haven't, as Shaq mentioned, we haven't progressively gone out and sort of served up content off our site.
+
+**Bryce Hein:** Oh, except for Medium.
+
+**Bryce Hein:** Medium?
+
+**Bryce Hein:** Yeah, we had a big presence on Medium for a long time.
+
+**Bryce Hein:** And we've actually pulled that, kind of insourced it.
+
+**Meshach Cisero:** And this isn't necessarily organic, but we have content on TechTarget.
+
+**Meshach Cisero:** As well.
+
+**Meshach Cisero:** But that's more, I think, more kind of a play kind of.
+
+**Bryce Hein:** Yeah.
+
+**Bryce Hein:** But I think, George, I mean, we would love to avoid some of the normal plays people run, you know, syndication and so on in order to do it organically.
+
+**George Haikal:** Definitely.
+
+**George Haikal:** I'm like, always interested to hear, like, how you all are thinking about it, you've done in the past.
+
+**George Haikal:** That's helpful for us as we're shaping the strategy.
+
+**Meshach Cisero:** Yeah.
+
+**Meshach Cisero:** Yeah, to even echo on that, like, bringing up TechTarget, like, I don't think we've had a lot of success with the relationship there.
+
+**Meshach Cisero:** Some of these, even the leads that we've gotten there, it just seems a little disconnected to what stage they are and the process of being delivered.
+
+**Meshach Cisero:** So I definitely would like to see us do more investment on the organic side of things to really kind of champion our own brand and our own name and really drive first.
+
+**George Haikal:** And engagement.
+
+**George Haikal:** Couldn't be more lines.
+
+**George Haikal:** That's why we're here.
+
+**George Haikal:** I'd love to hear it.
+
+**George Haikal:** On this, so on the current state of how you all do things, we can specify it to the blog itself.
+
+**George Haikal:** Like, what does the content creation process for the blog look like right now?
+
+**George Haikal:** Like, from ideation to publishing, like who's reviewing, how many levels of review are there?
+
+**George Haikal:** Curious how that currently operates, because ultimately we want to take work off of your plates and be an extension of your team, so it's helpful.
+
+**Bryce Hein:** mean, I'll just speak real bluntly.
+
+**Bryce Hein:** When it comes to our technical creators, those that did it for six or seven years, the researchers and so on, they create content and publish, and we try to stay out of the way.
+
+**Bryce Hein:** When it comes to the marketing team, there's a higher bar for content that we create, and it's reviewed extensively.
+
+**Bryce Hein:** By?
+
+**Bryce Hein:** By the researchers, um...
+
+**Bryce Hein:** By, I would say heads up.
+
+**Bryce Hein:** So heads of research, heads of product, heads of service.
+
+**George Haikal:** That's super helpful.
+
+**George Haikal:** Have any materials or brand guidelines, writing guidelines come out of that process?
+
+**George Haikal:** It sounds like you guys have a lot of trust and obviously the experts to push it out right away, but then everyone likes being involved in reviewing.
+
+**George Haikal:** so has there been like any documentation to help support that process thus far?
+
+**Bryce Hein:** I think we're behind on that.
+
+**Bryce Hein:** I mean, maybe Kirsten and team, maybe you've seen more of it.
+
+**Bryce Hein:** I think we tried to took a shot at brand guidelines, but we're working on it again.
+
+**Bryce Hein:** Is there anything fresh on that side, Kirsten, that you're aware of?
+
+**Kirsten Gibson:** No.
+
+**Bryce Hein:** I'd have to go back to, I'd have to go back to Elena and corporate marketing on that one.
+
+**George Haikal:** Sorry.
+
+**George Haikal:** No, totally fine.
+
+**George Haikal:** And I'm just saying this because I'm close to why I just got off a call with Lovable, who's another one of our clients right before this one.
+
+**George Haikal:** And although completely different spaces, they have some pretty intricate feature matrix, we're doing like product and competitor comparisons where you really have to go in and understand their product, all the features, how they're different from the competitors.
+
+**George Haikal:** etc.
+
+**George Haikal:** So what we've done with them is we got with their PMM and their brand team to help understand and create this like foundational, here are all the features and things that Lovable can do.
+
+**George Haikal:** And what I'm wondering is who, if it doesn't already exist, which is fine, who's the best person on your team for us to go do, we can call it like a technical deep dive that's separate from our product.
+
+**George Haikal:** It's more so like, what do want to say?
+
+**George Haikal:** What don't you want to say?
+
+**Bryce Hein:** Yeah.
+
+**Bryce Hein:** So Meshach, you can provide the list, but it would be our CTO for sure, Jared Atkinson.
+
+**Bryce Hein:** It would be our CPO, Justin Kohler.
+
+**Bryce Hein:** It'd probably be our CEO.
+
+**Bryce Hein:** He's very passionate that we keep our credibility and he's a technical guy by nature.
+
+**Bryce Hein:** So then maybe Robbie on the service side.
+
+**Bryce Hein:** Yeah, maybe.
+
+**Bryce Hein:** Although I think the content we'll be creating is, is, is.
+
+**Kirsten Gibson:** Mainly BHE.
+
+**Meshach Cisero:** Yeah.
+
+**Bryce Hein:** I think we could probably skip Robbie, but who else, uh, you guys have created content and had it gone through the machine.
+
+**Jason Wolfe:** I think Jared and Justin are going to give you, uh, really helpful feedback.
+
+**Jason Wolfe:** So, uh, CPO, CTO, I mean, Indeed.
+
+**Jason Wolfe:** Different ways, like, Jared's amazing at giving you, like, actionable examples that you can immediately use.
+
+**Jason Wolfe:** Like, I love sending him stuff, because I know I'm going to get back some, like, product image he made just for me, for my request, and it's going to save me.
+
+**Jason Wolfe:** So.
+
+**Erik O'Brien:** Love that.
+
+**George Haikal:** Helpful.
+
+**Erik O'Brien:** So, we got a content creation process, technical deep dive contacts.
+
+**Erik O'Brien:** I'll provide a couple.
+
+**Meshach Cisero:** I'll provide you the names following the call.
+
+**Meshach Cisero:** Thanks.
+
+**Meshach Cisero:** I'll work with you to kind of make sure they are a part of the review process.
+
+**George Haikal:** I'll be your point of contact.
+
+**George Haikal:** Yeah, thanks.
+
+**George Haikal:** And at the end of the day, right, like, it's this, we're doing this deep dive, and this calibration process for a reason, there's going to be back and forth, and there's going to be comments from your side that we're going to clear.
+
+**George Haikal:** We're trying to do as much work up front as we can to, you know, get into.
+
+**Meshach Cisero:** Better spot earlier.
+
+**Erik O'Brien:** Let's see.
+
+**Erik O'Brien:** Last couple questions here.
+
+**Erik O'Brien:** We've got seven minutes.
+
+**Erik O'Brien:** What are some of the bottlenecks preventing you guys from growing 3x faster, kind of creating more demand?
+
+**Kirsten Gibson:** Awareness of the category.
+
+**Kirsten Gibson:** And then, I guess, awareness of the solution on top of that.
+
+**Kirsten Gibson:** And then the last thing I'll say, and I'll let others join in, is there's so many security tools.
+
+**Kirsten Gibson:** There's such a diversity of security tools.
+
+**Kirsten Gibson:** And there's such limited budget.
+
+**Kirsten Gibson:** So teams really have to decide, you know, what tools they're going to bring on, whether it's worth sacrificing that budget, and then whether they're going to integrate So it creates an easier workflow.
+
+**Bryce Hein:** Thank you.
+
+**Bryce Hein:** I mean, I think you nailed it.
+
+**Bryce Hein:** We have the capacity and we're growing the sales team.
+
+**Bryce Hein:** We're going to double the sales team this year.
+
+**Bryce Hein:** We can process it.
+
+**Bryce Hein:** We need just more of it.
+
+**Bryce Hein:** And it starts with category development.
+
+**Jason Wolfe:** I think having the political capital in organizations, because they know who we are, it's just getting to, once people get to us and they finally understand that the job is much easier, it's just, again, kind of falls under the categorization, though.
+
+**Jason Wolfe:** But yeah.
+
+**Jason Wolfe:** And I think.
+
+**Bryce Hein:** Go ahead.
+
+**Jason Wolfe:** Go for it, Jason.
+
+**Jason Wolfe:** can't talk about it.
+
+**Jason Wolfe:** You know, I think there's something that we're actively working on, which is why, you know, there's so many folks on this call from our growing marketing team is, you know, giving the right tools to our sellers so they can have a more.
+
+**Jason Wolfe:** Functional outbound effort.
+
+**Jason Wolfe:** We have a team that's been able to get by on inbound for a number of years, and it's transitioning them to understanding, like, what are the materials that are going to hit?
+
+**Jason Wolfe:** What are the things that are going to get the next call, the next meeting?
+
+**Jason Wolfe:** So it's kind of trying to figure out what that secret sauce is for them and how we kind of get that started.
+
+**Jason Wolfe:** So I think that's something we're all working on actively, but I think that's probably one of our biggest things that we need to get right.
+
+**George Haikal:** And that's helpful.
+
+**George Haikal:** And in my head, I'm assuming the reason for that is a lot of the content to date has been super authentic, very technical, more like what has outperformed is the stuff that's on the research side.
+
+**George Haikal:** And so to reach more people and expand to more channels, the type of content needs to be slightly broader, you need to communicate to more audiences.
+
+**Jason Wolfe:** Am I hearing that right?
+
+**Jason Wolfe:** Yeah.
+
+**Jason Wolfe:** Yeah, so that's actually a big thing that Bryce...
+
+**Jason Wolfe:** When he got here, we started focusing on is maintaining, I think he alluded to it earlier, giving the research team, we don't touch their stuff, they have their own content editing team, like we stay away from it by design, but making sure we have the right balance, I think it's making sure we have the balance of technical enough to explain what we're doing and not just sound like another identity or security company, communicate that value, but at a broader level to more people who don't already know us, who don't just see the logo and say, I'm already half convinced.
+
+**Bryce Hein:** Yeah, I think a true constraint of ours, in addition to the category stuff, is getting to identity for the teams, as opposed to like getting there through happenstance.
+
+**Kirsten Gibson:** Yeah.
+
+**Kirsten Gibson:** Yeah.
+
+**George Haikal:** This makes sense.
+
+**George Haikal:** Yeah, that's helpful.
+
+**George Haikal:** I mean, we'll go through, um, the audience, um,
+
+**George Haikal:** Essentially, like, map out every struggling moment someone in that role is going to have how they're feeling, what motivates them, what are they doing day to day, what are these trigger events that happen in their jobs where it triggers them to go seek out a solution, right?
+
+**George Haikal:** What does do nothing look like?
+
+**George Haikal:** And then we're going to back into that, into topic clusters, and then present, like, hey, this is where we see all these audience, this is what they care about.
+
+**George Haikal:** Here are the actual assignments, the blogs that we want to write to speak to them, and here are the different stages in the funnel that we think.
+
+**George Haikal:** We'll reach the market, and we'll make sure to cover all of those.
+
+**George Haikal:** So that's how we'll break it down and think about it.
+
+**Erik O'Brien:** Absolutely.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** Last question.
+
+**Erik O'Brien:** Defining success, what winning looks like.
+
+**Erik O'Brien:** So six months from now, you I think we talked about pipeline earlier, moving that metric a little bit, but what other metric would make you feel like this is the best decision you've made this year?
+
+**Erik O'Brien:** And then going after, you know, working with GrowthX.
+
+**Erik O'Brien:** What do you think, Meshach?
+
+**Meshach Cisero:** Yeah, so I think, I'm thinking, obviously, if we can increase our referral traffic from these chat LMs will be a great early indicator.
+
+**Meshach Cisero:** If I can track that down to an increase in both, like, MQLs and demos, then I know I'm doing, then I know we're doing a great benefit to the business, right?
+
+**Meshach Cisero:** I think those are, like, the two, I guess, more downstream metrics I would like to influence as a result of this partnership.
+
+**Bryce Hein:** And I would say, like, prompts around attack path management and identity attack path management, we show up as one of the leaders.
+
+**Bryce Hein:** One of the top three or something like that.
+
+**Bryce Hein:** By the way, do, when you do prompts around, searches around red teaming and things like that, but not yet for this category.
+
+**George Haikal:** Yep.
+
+**Erik O'Brien:** One minute left.
+
+**Erik O'Brien:** Anything that we didn't talk about that you think we should have asked about?
+
+**Bryce Hein:** I don't think so.
+
+**Meshach Cisero:** No, I think it's pretty thorough.
+
+**Meshach Cisero:** I don't know.
+
+**Erik O'Brien:** All right.
+
+**Erik O'Brien:** Well, from here, we will package up kind of what we heard today and send over just a quick summary of that. We'll try to coordinate some product deep dives and the technical deep dive.
+
+**Erik O'Brien:** So get those on the calendar, help influence, like George said, some of our artifacts that we create that go into the content generation system.
+
+**Erik O'Brien:** We'll have Digg, our assistant, reach out and schedule the weekly meetings.
+
+**Erik O'Brien:** So we'll get something on the calendar to sync up with you guys weekly.
+
+**Erik O'Brien:** From there, next week, you'll get to meet some of the editorial team.
+
+**Erik O'Brien:** We'll have at least a high-level strategy of kind of what's top at clusters we want to go after based off the audience and personas that we kind of uncovered through research.
+
+**Erik O'Brien:** And I think that's at least a preview of the next week and a half for you.
+
+**George Haikal:** Anything I missed there, George?
+
+**George Haikal:** No, sounds great.
+
+**George Haikal:** We're super excited.
+
+**George Haikal:** A lot more work to do and a ton of research the team will do this weekend next.
+
+**George Haikal:** And we'll start shaping the strategy and really going into understanding each part of the business.
+
+**George Haikal:** These technical deep dives, I think, are going to be, if not done, would have been one of the biggest blockers, right, is aligning on how to sound.
+
+**George Haikal:** What grade looks like, and so super excited to get those done, and then again, just expect back and forth during the calibration process, but yeah, that seems really good, super excited.
+
+**Bryce Hein:** Cool.
+
+**Erik O'Brien:** Thank you.
+
+**Erik O'Brien:** In the meantime, any questions that come up, hit us up through Slack.
+
+**Meshach Cisero:** Great to meet you guys.
+
+**Kirsten Gibson:** Awesome, thank you.
+
+**Kirsten Gibson:** Bye.
+
+**Erik O'Brien:** Bye.
+
+**Erik O'Brien:** Bye.

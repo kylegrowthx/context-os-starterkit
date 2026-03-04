@@ -1,0 +1,2065 @@
+# Jose Farias -Executive Interview | Full Stack Engineer (Product focus)
+
+<metadata>
+date: 2025-08-14
+time: 22:32 UTC
+duration: 82 minutes
+organizer: Daniel Lopes
+participants: Daniel Lopes, Jose Farias
+fathom_recording_id: 80752371
+fathom_url: https://fathom.video/calls/379820938
+share_url: https://fathom.video/share/zUw45RCo1UyWRPkVdze3o943DvfAKAs6
+source: fathom
+enriched_on: 2026-03-03 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Daniel Lopes conducted an executive interview with Jose Farias, a highly experienced Rails engineer from 37signals (Basecamp) and Harvest, for a Full Stack Engineer role focused on building a new analytics product. Jose expressed strong interest in joining GrowthX, driven by the opportunity to use his full skill set on AI-powered products and the company's mission to build an agency OS with AI workflows. Daniel outlined a potential start date in early September with a competitive offer to be extended within days, and Jose committed to providing a reference from Rosa (37signals) while navigating his transition from Harvest post-acquisition by Bending Spoons.
+
+---
+
+## Context
+
+This is a recruitment conversation for a Full Stack Engineer position focused on product development at GrowthX. Jose Farias is an accomplished Rails engineer with deep experience at major codebases: he spent 2.5 years as the primary Basecamp programmer at 37signals, gaining expertise in high-scale systems with millions of users and a strong culture of code quality, and more recently worked at Harvest (now acquired by Bending Spoons). Daniel Lopes, a technical leader at GrowthX, is evaluating Jose's fit for a new analytics product that would be part of GrowthX's larger platform strategy — a system designed to extract standalone products from the core agency OS, similar to how 37signals develops new products. The conversation covers Jose's deep technical background, his philosophy on balancing code quality with iteration speed, and GrowthX's ambitious vision to build AI-powered workflows and services-as-software products. The context is particularly relevant because Jose previously worked with DHH (David Heinemeier Hansson) at 37signals, whom Daniel has been in communication with about product architecture and potential collaboration.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Jose brings expertise in scaling Rails applications to millions of users (Basecamp) and experience with code quality standards that could influence platform architecture; his previous consulting background (Magma Labs) and startup experience (Arrows/HubSpot integration) provide perspective on building products for both internal and external use.
+- His direct experience with the Recordings polymorphic architecture pattern in Basecamp provides architectural insights applicable to GrowthX's feature reusability and domain modeling.
+- Jose's experience building with React (Arrows, Harvest) alongside Rails provides full-stack perspective for GrowthX's current React/Rails hybrid stack using Hotwire.
+
+**To GrowthX Business Development:**
+- Jose's strong professional network includes Rosa (37signals), Jeff, Jorge, and Jeremy — all high-caliber technical leaders who can serve as references and potential advocates.
+- His prior consulting relationships with companies like Retail SipLine and his current discussions with Circle and Zipline show he networks within enterprise B2B spaces that could align with GrowthX's target clients.
+- Jose is motivated by creative product work and long-term stability rather than compensation alone, suggesting strong retention potential, especially with planned November fundraising and early equity vesting consideration.
+
+**To CheckThat/AI Infrastructure:**
+- Jose has demonstrated hands-on experience evaluating AI-assisted coding tools (CloudCode, Cursor, Claude Code) with nuanced perspective on their strengths (junior code, prototyping) and limitations (scaling and architecture); he's already thinking about building flexible AI pipelines for his own project.
+- His interest in Shopify's Roast gem and Temporal workflows for AI orchestration shows alignment with GrowthX's infrastructure interests; he can contribute to evaluating and implementing AI workflow systems.
+
+---
+
+## Overview
+
+- Jose has extensive experience with Rails, including work at 37signals (Basecamp) and Harvest
+- GrowthX is developing an agency OS with AI-powered workflows and potential spin-off products
+- Jose is interested in joining GrowthX, pending a competitive offer and timing considerations
+- GrowthX plans to fundraise in November, making early September an ideal start date for new hires
+
+---
+
+## Key Topics
+
+### Jose's Background and Experience
+
+  - Started career as a Rails developer in Mexico, quickly advancing to CTO/COO role
+  - Worked at Magma Labs, then Arrows (early-stage startup)
+  - Spent 2.5 years at 37signals as the primary Basecamp programmer
+  - Currently at Harvest, which was recently acquired by Bending Spoons
+
+### GrowthX's Product Vision and Strategy
+
+  - Developing an agency OS with 200+ AI workflows for content creation and marketing
+  - Planning to extract standalone products from agency tools (e.g., analytics, image generation)
+  - Building an AI infrastructure for automating various tasks and processes
+  - Exploring "services as software" model, leveraging AI to enable one person to do the work of many
+
+### Potential Role and Responsibilities
+
+  - Jose could join the team working on a new analytics product, starting in early September
+  - Project aims to have a usable version by end of September
+  - Team would include Daniel, Ren (head of design), possibly Brad, and potentially Pedro
+
+### Compensation and Timing Considerations
+
+  - Jose's current compensation at Harvest is around $219k (including benefits)
+  - GrowthX is preparing an offer, aiming to be competitive and near the top of the position's range
+  - Potential start date in early September, allowing for paternity leave benefits (due in November)
+  - GrowthX is considering fundraising in November, making earlier start dates more advantageous for equity
+
+### Cultural Fit and Work Style
+
+  - Jose values the opportunity to use his full skill set, which aligns well with GrowthX's needs
+  - Discussion about balancing code quality with speed of iteration, contrasting with 37signals' approach
+
+---
+
+## Action Items
+
+- **Daniel Lopes (GrowthX):** Prepare and send competitive job offer to Jose Farias by tomorrow morning, with discussion about paternity leave (30 days fully off in October/November, or 16+ days if starting in early September with continued part-time support)
+- **Jose Farias:** Connect Daniel with Rosa (37signals) for reference check via direct introduction; also identified Jeff and Jeremy as alternative references from 37signals team
+- **Jose Farias:** Review offer from GrowthX; if competitive and clearly the best opportunity, give two weeks' notice at Harvest on Monday to enable early September start date
+- **Both parties:** Coordinate early September start date (first week preferred) to allow Jose to participate in new analytics product development with Daniel, Ren (head of design), possibly Brad, and potentially Pedro
+
+---
+
+## Transcript
+**Jose Farias:** Hey.
+
+**Jose Farias:** Hey, Daniel.
+
+**Daniel Lopes:** How's it going?
+
+**Daniel Lopes:** Good.
+
+**Daniel Lopes:** Good to see you.
+
+**Daniel Lopes:** Good to see you, too.
+
+**Jose Farias:** Doing pretty good.
+
+**Jose Farias:** I'm at the beach now with the fam, and it's been great.
+
+**Jose Farias:** Got lots of sun, played some paddle, which under the hot sun was a lot, but it was fun.
+
+**Daniel Lopes:** Nice.
+
+**Daniel Lopes:** Where are you at?
+
+**Jose Farias:** So we're at Puerto Vallarta in Mexico.
+
+**Jose Farias:** Oh, nice.
+
+**Jose Farias:** Yeah, much further south than I'm used to.
+
+**Daniel Lopes:** Give me one sec.
+
+**Daniel Lopes:** just popped a bunch of water on my...
+
+**Daniel Lopes:** Oh, no.
+
+**Jose Farias:** Yeah, of course.
+
+**Daniel Lopes:** That was funny.
+
+**Daniel Lopes:** Another thing is my computer crashed, like, right before.
+
+**Jose Farias:** That's why I'm...
+
+**Jose Farias:** No way.
+
+**Jose Farias:** Yeah, no, no worries at all.
+
+**Jose Farias:** It happens.
+
+**Daniel Lopes:** Where do you usually live?
+
+**Daniel Lopes:** Are you still...
+
+**Daniel Lopes:** No?
+
+**Daniel Lopes:** So you're based in Mexico or?
+
+**Jose Farias:** Yes, Mexico.
+
+**Jose Farias:** usually live in Monterey.
+
+**Daniel Lopes:** Monterey.
+
+**Jose Farias:** Yeah, northeast.
+
+**Daniel Lopes:** Nice.
+
+**Jose Farias:** Yeah.
+
+**Daniel Lopes:** Yeah, I've been only to the touristic areas.
+
+**Daniel Lopes:** I've been to Cabo Pumo, which is not, I don't know where that is, inside the Sea of Cortez, up north from the touristic area.
+
+**Jose Farias:** Nice.
+
+**Daniel Lopes:** And I lived in Cozumel for almost a couple of months.
+
+**Jose Farias:** No way.
+
+**Daniel Lopes:** That's really cool.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** It's all the scuba diving places.
+
+**Jose Farias:** Nice.
+
+**Jose Farias:** Yeah, I gotta love it.
+
+**Jose Farias:** We certainly have quite a few of those.
+
+**Daniel Lopes:** You guys are very lucky.
+
+**Daniel Lopes:** Were you born in Mexico?
+
+**Jose Farias:** Yes, I was.
+
+**Daniel Lopes:** Born and raised.
+
+**Daniel Lopes:** Oh, cool.
+
+**Daniel Lopes:** Man, you have no accent.
+
+**Daniel Lopes:** Like, how come?
+
+**Daniel Lopes:** Did you live here when you were a kid or something?
+
+**Jose Farias:** No, I appreciate that.
+
+**Jose Farias:** Thanks.
+
+**Jose Farias:** But no, I think I just, I just grew up watching TV, you know, that's pretty much, that's pretty much it.
+
+**Jose Farias:** I did do a year abroad in North Carolina when I was in high school, but just, just that one year.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Nice.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** You got, I, I don't have the same skills.
+
+**Jose Farias:** I still have the very thick.
+
+**Jose Farias:** Nah, you're good.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Sorry for the mishaps here and like the computer and water.
+
+**Jose Farias:** And all that, but I think I'm always good.
+
+**Jose Farias:** No worries at all.
+
+**Daniel Lopes:** I hope you had a, I didn't meet with Marcel or Brad, but they, they just sent me like the messages.
+
+**Daniel Lopes:** I hope you had a good conversation with them.
+
+**Daniel Lopes:** you have any questions, anything I can clarify up front or like from my end, that just would be nice to just hear a little bit more about your old projects and stuff that you did at 37 and maybe Harvest as well.
+
+**Jose Farias:** Of course.
+
+**Jose Farias:** So, first off, about the calls with Brad and Marcel, I think they were great.
+
+**Jose Farias:** Marcel definitely answered all of the remaining questions that I had about the company.
+
+**Jose Farias:** So, yeah, no further questions about that.
+
+**Jose Farias:** Do you want to, should we talk about what we did, what I did at 37 Signals?
+
+**Jose Farias:** Yeah.
+
+**Daniel Lopes:** That would be cool.
+
+**Daniel Lopes:** Like, before, like, you were at Arrows, and then like, let me just pull up your, like, walk me a little bit through your backstory and how you got to 37signals. I know how they work in general really well.
+
+**Daniel Lopes:** I'm going to ask you to learn your, your story a little bit up to that point.
+
+**Daniel Lopes:** And then, then, um, kind of projects you like doing, that kind of projects you had in the past that you didn't enjoy and that kind of stuff.
+
+**Jose Farias:** Right.
+
+**Jose Farias:** Of course.
+
+**Jose Farias:** I'll start from the very beginning of my Rails career, which was at an agency-slash-consulting firm, local in Monterey, sort of like a boutique sort of situation, not very huge.
+
+**Jose Farias:** I started as an individual contributor there as a Rails-like primarily backend developer.
+
+**Jose Farias:** And I worked my way through the ranks really quickly at that company and became sort of like a CTO-slash-COO of that boutique agency in a matter of like two and a half years, something like that.
+
+**Jose Farias:** Yeah, and that was pretty fast.
+
+**Jose Farias:** But what happened there is like, honestly, the bar, the technical bar in Mexico is like slower, to be quite honest.
+
+**Jose Farias:** So it just like, Rails just came to me naturally.
+
+**Jose Farias:** And so I was very appreciated at the company like really quickly and became like...
+
+**Jose Farias:** Very instrumental to the company.
+
+**Jose Farias:** So that's what happened there.
+
+**Jose Farias:** I, at some point in that journey, realized like, you know what, I could, I think I have the chops to make it internationally.
+
+**Jose Farias:** And that's like a whole different market, right?
+
+**Jose Farias:** So that was very appealing to me, like salary wise.
+
+**Jose Farias:** So I met the, I made the jump to a consulting firm that does work worldwide, which is Magma.
+
+**Jose Farias:** One of the partners at Magma is O.B.
+
+**Jose Farias:** Fernandez.
+
+**Jose Farias:** He was, he's the author of the Railsway.
+
+**Jose Farias:** Yeah.
+
+**Jose Farias:** So I worked under him.
+
+**Daniel Lopes:** And that must have been an interesting experience.
+
+**Daniel Lopes:** He's an interesting guy.
+
+**Jose Farias:** Oh yeah, absolutely.
+
+**Jose Farias:** He's, he's a guy.
+
+**Jose Farias:** Yeah, for sure.
+
+**Jose Farias:** He's got an experience.
+
+**Jose Farias:** And so I worked for, that was my first like experience with a global size Rails app.
+
+**Jose Farias:** My customer, my assigned customer was Retail SipLine.
+
+**Jose Farias:** Um.
+
+**Jose Farias:** Coincidentally, he's one of the companies that I've been speaking to in this last couple weeks when I've been job-seeking.
+
+**Jose Farias:** In any case, so I did work for them.
+
+**Jose Farias:** And then I worked – I was offered a position at SipLine, but I ultimately rejected it because I wanted a startup sort of experience, which is what I got at my next job, which is Arrows.
+
+**Jose Farias:** Very early stage, like they had just raised seed funding when I joined and sort of got that green field experience, right?
+
+**Jose Farias:** Like brand new product, brand new ideas.
+
+**Jose Farias:** And I was fortunate to actually completely pivot the product while I was there.
+
+**Jose Farias:** So I got to build like the foundation of their current offering, which is doing very well.
+
+**Jose Farias:** I'm happy to say, yeah.
+
+**Jose Farias:** And I've stayed friends with everyone at the company.
+
+**Jose Farias:** They're such great guys.
+
+**Jose Farias:** Their CTO is –
+
+**Jose Farias:** Matt Swanson, he's sort of like Twitter famous, quote unquote, in the ecosystem.
+
+**Jose Farias:** He's such a great guy.
+
+**Jose Farias:** I enjoyed working with him as well.
+
+**Daniel Lopes:** And then I made the jump to 37signals, which...
+
+**Daniel Lopes:** So you were at Magma for like six months.
+
+**Daniel Lopes:** What made you want to jump so quick?
+
+**Jose Farias:** Okay.
+
+**Jose Farias:** So Magma, what happened there is I wanted...
+
+**Jose Farias:** I saw the reality that consulting work always has to have a margin, you know?
+
+**Jose Farias:** And then Zipline made it very evident that they were willing to like hire me directly.
+
+**Jose Farias:** And I'm like, why am I going through an intermediary and giving them a part of a cake, if you know what I mean?
+
+**Daniel Lopes:** Yeah, yeah, yeah.
+
+**Jose Farias:** So I started conversations with Zipline and then Arrows reached out because they had read some of my posts online.
+
+**Jose Farias:** And it just happened that I chose to go with Arrows, but that's what it was.
+
+**Daniel Lopes:** Yeah, so like they were doing consulting, enterprise consulting with like folks allocated, basically dedicated to that client, right?
+
+**Jose Farias:** Exactly, exactly.
+
+**Jose Farias:** And they were paying like wages that were good in Mexico, but like not worldwide, right?
+
+**Jose Farias:** So when I realized like I could be hired internationally, so I figured why not do that?
+
+**Daniel Lopes:** Yeah, that's very similar to the experience that I had like in Brazil.
+
+**Daniel Lopes:** like I had a small dev shop, me and four other guys, and then eventually we got acquired by a bigger one called CodeMiner that has a bunch of like the, it was like 50 people or 60 people at the time, and it was the same place.
+
+**Daniel Lopes:** It's just like you're using folks that are like still early in their career, and maybe they have like a language barrier, and you're like make a margin on that.
+
+**Daniel Lopes:** And then you have the whole, the whole dynamic of sometimes you put like super senior people first, and then you flip to more junior.
+
+**Daniel Lopes:** Once it's allocated, it's not, it shouldn't exist in my mind.
+
+**Daniel Lopes:** At least tech companies should have their teams internally.
+
+**Daniel Lopes:** But yeah, I was just curious, because so many folks who do consulting and they love it, and I was completely the opposite for most of the time.
+
+**Daniel Lopes:** Cool, so like arrows, did you guys, so during all this time, like I was kind of like in this different setup where like 2013, React was coming up, and then I started doing some stuff at it, and then I switched.
+
+**Daniel Lopes:** I took over Trevor's code base from another company and Jonas, and it was all vanilla Rails.
+
+**Daniel Lopes:** So I didn't get to like touch React for like six, seven years, but the whole market was already like doing like Rails and sometimes React in the front.
+
+**Daniel Lopes:** So was it arrows already?
+
+**Daniel Lopes:** Because I know they are big on React now, right?
+
+**Jose Farias:** Right, that's a good question, actually.
+
+**Jose Farias:** What happened there is that the app is hotwire, but when I mentioned the pivot, what we did with that pivot was very deeply integrate with HubSpot specifically.
+
+**Jose Farias:** So previously we would integrate with like tons of CRMs.
+
+**Jose Farias:** After the pivot, was just HubSpot.
+
+**Jose Farias:** And they have like a React SDK thing where you can like embed your app into their own, right, into HubSpot.
+
+**Jose Farias:** So that's why they're big on React.
+
+**Jose Farias:** Last I talked about that with Matt, they're like, they're still doing both.
+
+**Daniel Lopes:** But yeah.
+
+**Daniel Lopes:** Got it, got it.
+
+**Daniel Lopes:** That makes sense.
+
+**Daniel Lopes:** Oh, that's interesting.
+
+**Daniel Lopes:** Yeah, and then like you joined 37 and like were you on the prod, were you on the hey team or were on the base team?
+
+**Jose Farias:** Because they had the split at the time, right?
+
+**Jose Farias:** So yeah, so I was primarily assigned to base camp.
+
+**Jose Farias:** I was.
+
+**Jose Farias:** The way 37signals works is kind of, it's really cool.
+
+**Jose Farias:** I really like that part of the job.
+
+**Jose Farias:** It's essentially one or two programmers, tops, per product.
+
+**Jose Farias:** So I was, when I was there, like two and a half years, I was the Basecamp guy.
+
+**Jose Farias:** Like no one else, people came and went, but I was like the Basecamp programmer.
+
+**Daniel Lopes:** That's crazy.
+
+**Daniel Lopes:** Did they still do that?
+
+**Daniel Lopes:** It's like every, oh man.
+
+**Jose Farias:** And then like I did, like we did on-call rotations every eight-ish weeks, something like that.
+
+**Jose Farias:** Eight or seven weeks.
+
+**Jose Farias:** And when you're on call, you touch every single product.
+
+**Jose Farias:** So I did get exposure to like every single thing through that Hay and also like the legacy products, like Campfire, the original Campfire.
+
+**Jose Farias:** Right, Yeah.
+
+**Jose Farias:** And also got to work, towards the end, I was unassigned from Basecamp and assigned to what is now a publicly known cup.
+
+**Jose Farias:** Coming product, which is Fizzy.
+
+**Jose Farias:** So evergreen, like new product stuff.
+
+**Jose Farias:** It was fun.
+
+**Jose Farias:** I did that for like four months, something like that before leaving.
+
+**Daniel Lopes:** Well, how many people, how many people on the product team are?
+
+**Daniel Lopes:** What are they doing?
+
+**Daniel Lopes:** There was one person on Basecamp.
+
+**Jose Farias:** What are everyone else doing?
+
+**Jose Farias:** Right.
+
+**Jose Farias:** So there's like, there were like two or three assigned to Hey, and that's, it's different with Basecamp because it's like, it's been around or, you know, so it wasn't, I think it sort of like depends on what Jason and David want to work on.
+
+**Jose Farias:** And when they have tons of ideas for Basecamp, like they'll assign more people.
+
+**Jose Farias:** But usually what I saw is like Basecamp got a steady flow of like upcoming of like new features, but like not enough to justify like a whole team.
+
+**Jose Farias:** was just like, it was just Jose and a designer and like, we would push that.
+
+**Jose Farias:** But the whole, like the bulk of the new ideas were going into Hey.
+
+**Jose Farias:** They might have gone into new products.
+
+**Jose Farias:** They've started working on products and then scrapped them.
+
+**Jose Farias:** That happened.
+
+**Jose Farias:** So people were assigned to those and then not.
+
+**Jose Farias:** And yeah, just basically that.
+
+**Jose Farias:** And then the team isn't really big at all, right?
+
+**Jose Farias:** I forget how many programmers there were.
+
+**Jose Farias:** want to say like 10, maybe 10 product programmers.
+
+**Jose Farias:** And then there's like ops folks, which they deal with the databases and whatnot, but servers.
+
+**Daniel Lopes:** It's always wild to me that they always have like almost the same amount of people doing ops and people doing product.
+
+**Jose Farias:** Yeah.
+
+**Daniel Lopes:** Yeah, that's cool.
+
+**Daniel Lopes:** And like, yeah, when I was like, I've talked to David many times, but he was big on the idea of like creating a new code base for every new version.
+
+**Daniel Lopes:** So like when I was creating a new version of when I was doing the pivot from the original, you recover.
+
+**Daniel Lopes:** And to know your team, he's like, you guys should create a new product and just keep the other one running and don't do anything else on the other code base.
+
+**Daniel Lopes:** So, like, it's very easy to scrap products if you do like that.
+
+**Daniel Lopes:** And we ended up not doing it.
+
+**Daniel Lopes:** I don't regret not doing that because it ended up being, like, an evolution of another company anyway.
+
+**Daniel Lopes:** But, yeah, so that's interesting.
+
+**Daniel Lopes:** And they also always have, like, the rewrites, right?
+
+**Daniel Lopes:** So, like, we have Basecamp 2, Basecamp 3, that's usually separate.
+
+**Jose Farias:** Yeah, they are different code bases.
+
+**Jose Farias:** And I'll say one thing I learned about that approach is that they do treat the new version as a completely new product.
+
+**Jose Farias:** And that's, like, part of the reason.
+
+**Jose Farias:** It's, like, they'll start, they'll literally start from scratch, like, questioning every single thing about what they previously knew.
+
+**Jose Farias:** And, of course, coming at it a second or third time, you know that much more about that domain model.
+
+**Jose Farias:** And so, Basecamp is just a beautiful code base.
+
+**Jose Farias:** Because of that, right?
+
+**Jose Farias:** Because we had Basecamp 1 and 2 before.
+
+**Jose Farias:** And so the domain model is just perfectly suited to what it does.
+
+**Jose Farias:** And I know for Basecamp 4 and 5, 5 is what they're working on currently.
+
+**Daniel Lopes:** I think they've tweeted about it once or twice.
+
+**Daniel Lopes:** Yeah, Basecamp essentially for the two years that you were there and like some newer product at the end.
+
+**Daniel Lopes:** Like what were some of the challenges that you have like working on?
+
+**Daniel Lopes:** Like I kind of, I got...
+
+**Daniel Lopes:** An experience of like working on the Basecamp kind of came, I think Basecamp 3 came off of a lot of stuff that Jonas and Trevor were doing with Honcho that they renamed to another company.
+
+**Daniel Lopes:** So I have, and I've seen the code base of Basecamp 3 as well a couple of times by pairing with Trevor when he was still there.
+
+**Daniel Lopes:** Like what were the, the, of the challenges that you guys, that you're dealing with, like it wasn't just building new features or like maintaining the thing, the number of users or.
+
+**Jose Farias:** Yeah, that's a good question.
+
+**Daniel Lopes:** Millions of users.
+
+**Jose Farias:** Yeah, exactly.
+
+**Jose Farias:** I think that's like a multi, I can give a multifaceted answer because day to day, I think I can think of two things that were always top of mind.
+
+**Jose Farias:** And one is yes, the scale for sure, like millions of users, hundreds of thousands of requests for, I'm going to say minutes.
+
+**Jose Farias:** But sometimes second, and depending on which endpoint.
+
+**Jose Farias:** And so like the scale for sure, you need to consider every single thing.
+
+**Jose Farias:** It's always funny to me when people rediscover database indexes in Twitter, and they're like, I just created an index and it's so much faster.
+
+**Jose Farias:** I'm like, dude, that's like table stakes.
+
+**Jose Farias:** You can't deploy a feature without an index, especially working in something like Basecamp.
+
+**Jose Farias:** So yes, and I came up also with database migrations, and you need to be like very thoughtful of how to go about those because of the throughput.
+
+**Jose Farias:** But also the second thing that comes to mind is code quality.
+
+**Jose Farias:** Like I've never worked at somewhere where that is number one priority for programmers.
+
+**Jose Farias:** I became so much better at programming.
+
+**Jose Farias:** Like I learned a ton.
+
+**Jose Farias:** But even like even the most experienced programmers on the team will tell you like Rosa, Jeff, they'll steal the guy like there.
+
+**Jose Farias:** They worry about that because David will come in, in the PR and be like, he'll find something regardless of who's working on it.
+
+**Jose Farias:** Even Jeremy, Jeff, Rosa, Jorge, all these like big names.
+
+**Jose Farias:** And of course myself, like we're all thinking about the code quality and that can sometimes slow you down a little bit.
+
+**Jose Farias:** So I found out like when working at Harvest, I needed to tone it down a little bit so I can move a little bit faster.
+
+**Jose Farias:** So, but in, in the end, like my code is that much better for that experience, you know?
+
+**Jose Farias:** Yeah, those are two things that come to mind.
+
+**Jose Farias:** And then there are other like technical stuff that we could go into about like what's hard in Basecamp specifically, but that's like, that would be in the weeds, but we can talk about it if you want.
+
+**Daniel Lopes:** Yeah, that would be cool.
+
+**Daniel Lopes:** But like, I'm always like nerdy, I like nerdy about this stuff.
+
+**Daniel Lopes:** But yeah, in my mind, like, especially dealing with Rails, like the nature of the thing being a monolith, it does make a lot of sense.
+
+**Daniel Lopes:** It's to worry about organization and code quality, or at least shielding things so they don't leak everywhere.
+
+**Daniel Lopes:** But yeah, to a certain extent, like one thing that in my mind, like there's, at least like, because I had David and Jason as board advisors for another company for so long.
+
+**Daniel Lopes:** And it was, we always had a little bit of like, you guys are alive, you know, like, and you guys are not in survival mode.
+
+**Daniel Lopes:** So you can get to move a little slower, or you get all the, you are an unicorn in itself.
+
+**Daniel Lopes:** It's very hard to reproduce the stability you have and the pace that you can have, where other places you're like, ah, better move.
+
+**Jose Farias:** Absolutely.
+
+**Jose Farias:** Yeah, for sure.
+
+**Jose Farias:** That's a big thing.
+
+**Jose Farias:** That's one of the things that allows them to like, scrap products, again, like we talked about, like they can do that.
+
+**Jose Farias:** Because business is healthy, they're profitable, they can, they can allow themselves time.
+
+**Jose Farias:** I'm to explore ideas and be like, nah, you know?
+
+**Jose Farias:** Yeah, yeah.
+
+**Daniel Lopes:** That's a luxury.
+
+**Daniel Lopes:** There's a few big, small companies, small, quote unquote, that can do that.
+
+**Jose Farias:** Exactly, yep.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** How was the recording system that you guys had?
+
+**Daniel Lopes:** That's one part of the code base I was always like, how does this thing work?
+
+**Daniel Lopes:** And I can remember Trevor was there in the beginning and we were talking about it.
+
+**Jose Farias:** Yeah, recordings are great.
+
+**Jose Farias:** I was going to say pattern, but the recording itself is not the pattern.
+
+**Jose Farias:** It's just polymorphism taken to a very extreme, not extreme, but very advanced level.
+
+**Jose Farias:** And that is actually what I was thinking about when I was alluding to what's difficult in Basecamp.
+
+**Jose Farias:** Recordings enable so much behavior sharing, and that's great.
+
+**Jose Farias:** That is super power.
+
+**Jose Farias:** Like, you can, when we implemented new features in.
+
+**Jose Farias:** Basecamp, which is rare, but we did do that.
+
+**Jose Farias:** Every now and then we would create a new type of recording.
+
+**Jose Farias:** It was so easy to just like plug into the existing system and immediately you already have notifications, have threaded comments, you have like every single thing that comes with any other tool in Basecamp.
+
+**Jose Farias:** What's difficult about it sometimes is that they create like this nested architecture that is sometimes like it can get a little bit deep.
+
+**Jose Farias:** And so you need to be smart about like, oh, how deep can this hierarchy go?
+
+**Jose Farias:** Because if I'm going to be querying this in the database, like if you, it's essentially like a branch system, like there's a trunk and there are branches and there are leaf nodes.
+
+**Jose Farias:** If you want to go from the leaf to the trunk, that is very, not hard, but consuming resource intensive when you have billions of database records, right?
+
+**Jose Farias:** But if you go from the trunk outwards, then it's lightning fast.
+
+**Jose Farias:** Um...
+
+**Jose Farias:** So yeah, just something that you need to think about.
+
+**Daniel Lopes:** Yeah, that's interesting because I remember there's so much normalization in this.
+
+**Daniel Lopes:** Like this must be a nightmare for maintenance, but it was an interesting idea.
+
+**Jose Farias:** Pros and cons with anything, know, trade-offs, but it did enable us to move very quickly when implementing new stuff for sure.
+
+**Jose Farias:** And also, this was one thing that I wanted to mention when you were talking about like monolith.
+
+**Jose Farias:** But it is a good way to enable maintainers to keep the whole system in their minds.
+
+**Jose Farias:** Yeah, because like a single person can feasibly understand Basecamp as a whole.
+
+**Jose Farias:** And partly because there aren't that many models because they're all recordings.
+
+**Jose Farias:** David needs to, he's alluded to wanting to, yeah, he's been meaning to like record a video on that pattern.
+
+**Jose Farias:** And he really needs to get into it because it's a great, it's a great pattern.
+
+**Jose Farias:** It gets to go.
+
+**Jose Farias:** I don't know if you can tell, but I'm getting excited.
+
+**Daniel Lopes:** Yeah, that was one of the things that Trevor was like, oh, David just put this  recording things in the project.
+
+**Jose Farias:** I was getting fed up by that.
+
+**Daniel Lopes:** And then it was just the beginning.
+
+**Jose Farias:** So he wasn't sure if it was going to work.
+
+**Daniel Lopes:** And I remember looking at it, too.
+
+**Daniel Lopes:** But cool.
+
+**Daniel Lopes:** then, so you, like, yeah, it's like the Vanilla Rails experience is super nice.
+
+**Daniel Lopes:** Like, that's one thing that I was so torn about when, like, I switched it to, to GrowthX.
+
+**Daniel Lopes:** And I was toying with a bunch of different stuff in between and, like, building little apps there.
+
+**Daniel Lopes:** Like, the React ecosystem, at least to me, is, like, so mature that at least the UI side of things, you get it done so fast.
+
+**Daniel Lopes:** While, like, at Basecamp, it made sense because, like, you always, they always had, like, design.
+
+**Daniel Lopes:** Like, it was, I don't know if you guys continue to do that, but at least know your company for Base.
+
+**Daniel Lopes:** There's almost no sharing.
+
+**Daniel Lopes:** Like, there's, like, like.
+
+**Daniel Lopes:** By design, everything was scoped by almost like the file, the viewer, like the feature itself, and not a lot of thinking to like componentization or design systems and stuff like that.
+
+**Daniel Lopes:** And that is nice because you change a lot of stuff without thinking about breaking other places.
+
+**Daniel Lopes:** But when you get something like ChedCN and you get something like Claude trained in ChedCN, you get people like back-end programmers building like beautifully looking things.
+
+**Daniel Lopes:** It's like, okay, that's a different level of productivity.
+
+**Daniel Lopes:** So I've made the jump to like use React.
+
+**Daniel Lopes:** I don't love it, but I also don't want to go back.
+
+**Daniel Lopes:** I don't know if you, like if you, like I think of Harvest is React, right?
+
+**Daniel Lopes:** Like almost everything that's not Basecamp is like Moostag, like it's this split.
+
+**Daniel Lopes:** Or React somewhere.
+
+**Jose Farias:** Yeah, I know what you mean.
+
+**Jose Farias:** I think, like, we used React at Harvest.
+
+**Jose Farias:** And I think it has its place.
+
+**Jose Farias:** Like you said, like, your considerations for using React, I think, are sound.
+
+**Jose Farias:** I think going back to the luxury of being a thriving company that can have, like, the luxury of taking your time with things, I think the vanilla Rails approach is really well suited for that because they're not going to use ChatCN components, right?
+
+**Jose Farias:** They're going to want to build their own.
+
+**Jose Farias:** And so you have the luxury of starting from scratch and just building the thing yourself.
+
+**Jose Farias:** If you want to go fast, I do think it makes sense to use any number of React libraries, component libraries, for sure.
+
+**Jose Farias:** Price to pay in terms of...
+
+**Jose Farias:** Of build complexity, for sure.
+
+**Jose Farias:** And then sometimes just like fighting the impulse to have too much state on the front end, you know?
+
+**Daniel Lopes:** Yeah.
+
+**Jose Farias:** Because React has so much tooling for that.
+
+**Jose Farias:** You're like, should I do this on the client side?
+
+**Jose Farias:** It requires good judgment on the part of the implementer, which is very rare, unfortunately.
+
+**Daniel Lopes:** Yeah, I agree.
+
+**Daniel Lopes:** Like we were essentially using the inertia setup where like every controller has its own screen and we only like fall back to like full React when we really need.
+
+**Daniel Lopes:** So there's a couple of places in the product where we use state management and everything.
+
+**Daniel Lopes:** And that's like, it's the worst part of the code base, but it's so live.
+
+**Daniel Lopes:** Like there's like things bubbling up in real time.
+
+**Daniel Lopes:** Like a text editor with an AI editor on the side and like that stuff, it would be a nightmare to do.
+
+**Daniel Lopes:** you.
+
+**Daniel Lopes:** Thank
+
+**Daniel Lopes:** Total streams, but if it was not in this setup, but cool, man, like that makes a lot of sense.
+
+**Daniel Lopes:** How was the transition from working from a pretty themed, super nice code base, and I assume Harvest is a much bigger company with probably a very old code base as well.
+
+**Daniel Lopes:** They've been around.
+
+**Jose Farias:** You know, it was interesting for sure because, to be completely honest, I'll put it this way, try to be very diplomatic about it.
+
+**Jose Farias:** Harvest wasn't nearly as rigorous engineering wise.
+
+**Jose Farias:** So even with, it's not about the legacy code.
+
+**Jose Farias:** It's not about the React in the front end.
+
+**Jose Farias:** It's just like you can immediately see some questionable decisions, which trade-offs, you know.
+
+**Jose Farias:** You can only assume they had to go fast for whatever reason.
+
+**Jose Farias:** They're obviously very capable and intelligent programmers, but they didn't spend as much time thinking about the maintainability of it.
+
+**Jose Farias:** And you do spend more time reading code than you do writing it.
+
+**Jose Farias:** So I think there's merit to thinking and caring about that.
+
+**Jose Farias:** One thing I'm very thankful for in my career as a programmer is having gone through that 37signals phase, my baseline implementations are usually pretty good, if I might say so myself.
+
+**Jose Farias:** So I'm able to, even if I don't painstakingly polish everything the same way I would if DHH was going to review my PR, even when I don't do that, like the, I can still go pretty fast.
+
+**Jose Farias:** And also like the code is pretty, it's clean enough.
+
+**Jose Farias:** Yeah.
+
+**Jose Farias:** It's like, it's, it's ship.
+
+**Jose Farias:** It's definitely shippable.
+
+**Jose Farias:** So more than shippable.
+
+**Jose Farias:** It's like, it's me.
+
+**Jose Farias:** Containable, it's very clean, maybe not like DHH grade polish, but if I, again, like trade-offs, like if I spent another day or two on this, I could get it that way, or we can just ship and start the next feature, especially at some place like GrowthX where we're getting started, right?
+
+**Daniel Lopes:** We need to go quickly.
+
+**Daniel Lopes:** Yeah, that's funny, because like I was, I was actually like, I was listening to David's next interview a week after we talked, and then I forgot how picky he is about all these things.
+
+**Daniel Lopes:** Oh yeah, like, and I'm thinking like, I don't know, that's nice, like thinking about code poetry and everything, that sounds great, like it makes a lot of sense in your setup, and I think Fathom, like we need to do the feature like every couple of weeks here.
+
+**Daniel Lopes:** Yeah, so that's a completely different reality, but, so like, that's my whole, my whole approach to recruiting everybody was...
+
+**Daniel Lopes:** Get folks that are super experienced and tell them, like, don't worry about it.
+
+**Daniel Lopes:** Your baseline is going to be good enough, probably.
+
+**Daniel Lopes:** So you don't even have to, like, there's no requirement for mandatory PRs.
+
+**Daniel Lopes:** If you need a review or if you think you're going to benefit, ask that in the beginning when we can still change the architecture.
+
+**Daniel Lopes:** And then if you need a second pair of eyes, then ask at the end for review.
+
+**Daniel Lopes:** The reviews are not mandatory because everybody here can probably hold a baseline to stay gainable enough.
+
+**Daniel Lopes:** And then we revisit.
+
+**Daniel Lopes:** And, like, my hope is that we have the sandbox where GrowthX is the tool for GrowthX.
+
+**Daniel Lopes:** We were actually just discussing this yesterday.
+
+**Daniel Lopes:** What are we going to do?
+
+**Daniel Lopes:** Big picture of the company.
+
+**Daniel Lopes:** And I don't know if you, Marcel, covered that.
+
+**Daniel Lopes:** But we have, and I can walk you through that later if you want.
+
+**Daniel Lopes:** But the plan is to have GrowthX be a services business.
+
+**Daniel Lopes:** It's with our own internal tool that most of the clients were not going to interact with that.
+
+**Daniel Lopes:** I think you probably spent time with Brad figuring out the magic link and all that stuff because we don't want to give people access to the whole thing because we're doing too many things.
+
+**Daniel Lopes:** We're testing too many things.
+
+**Daniel Lopes:** Maybe the UI is janky.
+
+**Daniel Lopes:** Maybe the feature idea is not sound.
+
+**Daniel Lopes:** But out of that, we want to start extracting the stuff that we want to give access to other folks.
+
+**Daniel Lopes:** And then that part extracted should have the same level of care that any self-serving product would have.
+
+**Daniel Lopes:** And so ideally, it would be that kind of similar to Basecamp where they have the opportunity to try things out, like Honcho, and then some things came back into Basecamp and Honcho spun off.
+
+**Daniel Lopes:** Or every couple of years, you get a chance to do a rewrite because it's a new version.
+
+**Daniel Lopes:** So in our case, ideally, would be like the sandboxes where we try everything for ourselves.
+
+**Daniel Lopes:** Then we spin out the stuff that we know are useful to the whole team.
+
+**Daniel Lopes:** So that's how we're approaching things.
+
+**Daniel Lopes:** So I'm less concerned about the big monolith that we're building super fast for ourselves and more concerned about the little stuff that we're going to pull out.
+
+**Daniel Lopes:** And that will require a little bit more attention.
+
+**Daniel Lopes:** But still, it's going to be like smaller teams on this and will be like the same team shared.
+
+**Daniel Lopes:** And then you have the framework team that's trying to figure out our infrastructure for AI workflows.
+
+**Daniel Lopes:** And I don't know if I don't, my memory sucks now.
+
+**Daniel Lopes:** I don't know, I've been meeting so many people.
+
+**Daniel Lopes:** I don't know if I've showed you the whole thing, but.
+
+**Jose Farias:** Yeah, we went through it.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** So that's kind of, that makes sense.
+
+**Daniel Lopes:** So, cool.
+
+**Daniel Lopes:** What are the, what are the things that, a couple of questions that I, that I've always like asking everybody, like what's, what are the things?
+
+**Daniel Lopes:** are the
+
+**Daniel Lopes:** So the first one is like, how are you feeling about the whole impact of AI-assisted coding or coding agents and things like CloudCode, Cursor, Augment, and all that stuff, both lovable.
+
+**Daniel Lopes:** There's a whole spectrum of different tools.
+
+**Jose Farias:** Yeah.
+
+**Jose Farias:** Good question.
+
+**Jose Farias:** I'm for them.
+
+**Jose Farias:** Like, I'm optimistic about them.
+
+**Jose Farias:** I do use them.
+
+**Jose Farias:** I've found, especially at the very beginning of a project, if the ambition is to build something that is flexible and scalable, I have had a very hard time getting them, meaning the LLMs, to come up with something that is, yeah, the design of the architecture that's worthwhile.
+
+**Jose Farias:** So what I've done usually...
+
+**Jose Farias:** And I have this, I'll use this as an example.
+
+**Jose Farias:** have this project that I'm toying with that very feasibly could become a side business at some point.
+
+**Jose Farias:** But it's AI tools for YouTube creators.
+
+**Jose Farias:** So things like creating your thumbnail, but also like A-B testing them, putting tons of, yeah.
+
+**Jose Farias:** And then titles and then comments, sentiment analysis on the comments and whatnot.
+
+**Daniel Lopes:** So things like that.
+
+**Daniel Lopes:** If you were to join, we should definitely help you launch that.
+
+**Jose Farias:** Yeah, we could do that, of course.
+
+**Jose Farias:** And then, so to use as an example, it was important for that product to be able to use the same infrastructure and workflows for creating like tons of different media, right?
+
+**Jose Farias:** From thumbnails to titles to scripts to like videos potentially.
+
+**Jose Farias:** But at the end, it's all like, it's an AI pipeline, right?
+
+**Jose Farias:** Yeah.
+
+**Jose Farias:** So they just couldn't do it.
+
+**Jose Farias:** Like, whatever I threw at it, like, it came back.
+
+**Jose Farias:** And I'm like, this is not going to be flexible enough that it can produce any type of media.
+
+**Jose Farias:** It would, like, narrow down on thumbnails or videos.
+
+**Jose Farias:** So I started with, like, the flexible, polymorphic, robust architecture.
+
+**Jose Farias:** And once I had that, I had it, I had cloud code go into my code and document it, or rather, like, extract guidelines from it.
+
+**Jose Farias:** And about how I used polymorphism and how I designed the system, put it in a markdown file.
+
+**Jose Farias:** And then, only then, was it able to, like, go into that, use that as context, and provide something that is 80% of the way there for, like, a principle-level code base.
+
+**Jose Farias:** For junior stuff, it's great.
+
+**Jose Farias:** But if you're going to do something that you want to, like, put on the market and scale reasonably well, then it has some heart.
+
+**Jose Farias:** It has a hard time with that, is what I do.
+
+**Daniel Lopes:** Yeah, yeah.
+
+**Daniel Lopes:** No, I agree.
+
+**Daniel Lopes:** And I don't know if I showed you much of how we create the workflows, but essentially, the beginning was, like, Marcel built all this stuff in AeroOps.
+
+**Daniel Lopes:** My next step was, like, okay, I need to migrate 100-plus workflows out of this tool into code base, because they were getting complicated, and I wanted to make it more complicated.
+
+**Daniel Lopes:** So I ended up creating, like, a set of conventions on how to create AI workflows, and came up with the folder structure, and I spent the bulk of the work just, like, documenting everything, writing a ton of readme's, and, like, structuring how AI could work with that.
+
+**Daniel Lopes:** So Cursor, at the time, was using Cursor, so Cursor could automatically load the folder, and all the supporting documents, and all the rules, and generate the workflows 80% there.
+
+**Daniel Lopes:** But it took, like, took a month to figure out what is the right runtime.
+
+**Daniel Lopes:** What's the folder structure and all that.
+
+**Daniel Lopes:** Once that was done, then it's like, no, it's pretty fast.
+
+**Daniel Lopes:** And we're trying to figure out to build an agent to do that even better.
+
+**Daniel Lopes:** So we run the tests, try the workflow, see if it gets the output right.
+
+**Daniel Lopes:** And we're probably typing that on top of Cloud Code, but we're probably going to build custom around that.
+
+**Daniel Lopes:** Good out of Cloud Code afterwards.
+
+**Daniel Lopes:** But yeah, that's definitely the same experience.
+
+**Daniel Lopes:** Yeah, like one last question.
+
+**Daniel Lopes:** You can flip the table and you can ask me whatever you want and I can show you other things too.
+
+**Daniel Lopes:** But what are the things that you think are like, you're looking for for your next job?
+
+**Daniel Lopes:** And what are the things that you consider super important, like day to day?
+
+**Daniel Lopes:** And yeah, I think those two usually cover.
+
+**Jose Farias:** Yeah, so.
+
+**Jose Farias:** So.
+
+**Jose Farias:** I went over this with Marcel as well.
+
+**Jose Farias:** He asked a similar question, and I'll just tell you what I told him, which is, I don't know if we've talked about this, but before I was a programmer, I was a musician.
+
+**Daniel Lopes:** Oh, no, I didn't talk about that.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** I remember seeing the guitars behind it, but I forgot to ask.
+
+**Jose Farias:** Right, yeah.
+
+**Jose Farias:** So that was my first job.
+
+**Jose Farias:** And so there's like this, there is a creative slash artsy side to me that I find creating in software sort of scratches the same itch.
+
+**Jose Farias:** And by creating, I do mean like, yes, new products, but also just like new features and existing products usually works as well.
+
+**Jose Farias:** Just like having this thing, like this doesn't exist.
+
+**Jose Farias:** Let's make it exist.
+
+**Jose Farias:** I love that.
+
+**Jose Farias:** So I want that, essentially.
+
+**Jose Farias:** That's like, that's my primarily way, primary way on how I feel fulfilled and motivated in a job.
+
+**Jose Farias:** So that's what I'm looking
+
+**Jose Farias:** And also, I am at a point in my life where I'm looking for some stability, like we have a second kid on the way, you know, so I do want my next job to be like a long term thing.
+
+**Jose Farias:** That's what I was looking for with Harvest.
+
+**Jose Farias:** I was like, I had this impression that it's like an established company is going to be here for a while.
+
+**Jose Farias:** And then it got acquired.
+
+**Jose Farias:** And I don't like the buyers like that wasn't in the cards at all.
+
+**Jose Farias:** Like that was a surprise.
+
+**Jose Farias:** But in any case, I just want to stick around, you know, for whatever is next.
+
+**Daniel Lopes:** Yeah, no, that makes sense.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Do you have any questions, anything that Marcel didn't cover or from the technical side that I could share?
+
+**Jose Farias:** You know, I did.
+
+**Jose Farias:** I was thinking about GrowthX and doing, I was reading up on Shopify's gems that they put out.
+
+**Jose Farias:** They put out a couple of AI gems, and they have this roast gem.
+
+**Daniel Lopes:** Have you heard about that yet?
+
+**Daniel Lopes:** No, I have not.
+
+**Daniel Lopes:** I haven't had the time to check.
+
+**Jose Farias:** Yeah, they put out – both Obi and Shopify have put out some stuff, and it's like I need to make some time to actually dive deep into each of them.
+
+**Jose Farias:** But I have looked at every one of them superficially, and then this roast one caught my eye because it's for architecting and running AI workflows.
+
+**Jose Farias:** And so I know I think I saw that in the beginning, but I read the readmeat.
+
+**Jose Farias:** Right.
+
+**Jose Farias:** I know GrowthX uses this JavaScript library temporal, I think is what it's called.
+
+**Jose Farias:** And I was like, ooh, that's – it would be great if it was Ruby, but whatever.
+
+**Jose Farias:** And then this came across my desk, and I was like, ooh, that's really cool.
+
+**Jose Farias:** Not to suggest that we should switch or anything, but something to keep an eye out for.
+
+**Jose Farias:** The one thing, though, is it seems like Obi isn't working at Shopify anymore, and I think he was the one that was spearheading that.
+
+**Jose Farias:** In any case, I'm not super worried about using that gem specifically, but we could just scour it, you know, and be like, what did I do here?
+
+**Daniel Lopes:** And sort of like save some steps if we wanted to replicate it internally.
+
+**Daniel Lopes:** Yeah, yeah.
+
+**Daniel Lopes:** Yeah, that's interesting.
+
+**Daniel Lopes:** The effort that the team has been running this week, like actually, I forgot about the one from Shopify.
+
+**Daniel Lopes:** I was actually in the AI Ruby community, Discord, where Obi was super active, and he shared the gem there.
+
+**Daniel Lopes:** He shared that they were doing it before they shared the gem, and then he shared the project like a couple of months ago, I think.
+
+**Daniel Lopes:** And I didn't have the time to look much, but what the team has been doing this week was looking into a bunch of different tools.
+
+**Daniel Lopes:** So it's just Maester is another one that's very popular in TypeScript.
+
+**Daniel Lopes:** But we're...
+
+**Daniel Lopes:** We're...
+
+**Daniel Lopes:** We're...
+
+**Daniel Lopes:** We're...
+
+**Daniel Lopes:** We're...
+
+**Daniel Lopes:** We're...
+
+**Daniel Lopes:** Temporal is essentially a runtime that will, it's almost like Sidekick, but if Sidekick didn't have to, if you could restart or you could pause jobs for unlimited time, or you could, by design, the option to pause proactively.
+
+**Daniel Lopes:** So it will be in steady state waiting for somebody to interact with it, for example.
+
+**Daniel Lopes:** So they kind of do that for microservices at Amazon and some other places, and they extract as an open source thing.
+
+**Daniel Lopes:** It's in goal, and they have a cloud that you send all the jobs and they maintain a state there, and they just bring you back.
+
+**Daniel Lopes:** So they essentially build this amazing runtime for running APIs that have different latencies and stuff like that.
+
+**Daniel Lopes:** And we are doing the wrapper around the worker in TypeScript, mostly because we want to launch it as open source.
+
+**Daniel Lopes:** And there's a much bigger community for JavaScript than, there's a lot of stuff in Python already.
+
+**Daniel Lopes:** So you have LinkChain, have DSPy, you have all that stuff in there.
+
+**Daniel Lopes:** Some of that is interesting, but this week, like, we were doing, like, a research on, like, what is out there?
+
+**Daniel Lopes:** Like, is what we're doing better?
+
+**Daniel Lopes:** And, but essentially, I think what we want to build, it's pretty hard to do on top of other people's stuff.
+
+**Daniel Lopes:** So, yeah, essentially, the, we're designing, I can actually show you the code a little bit.
+
+**Daniel Lopes:** And then you're probably going to get a better idea of what I'm saying.
+
+**Daniel Lopes:** But let me pull up my notion here.
+
+**Daniel Lopes:** Actually, real quick, just to give you a glimpse of the thing.
+
+**Daniel Lopes:** But I was actually writing that yesterday for the rest of the team.
+
+**Daniel Lopes:** I don't know, that's my cursive.
+
+**Daniel Lopes:** I'll put it in this.
+
+**Daniel Lopes:** So, we have, what we want to do is essentially, we have two businesses.
+
+**Daniel Lopes:** We have, not two businesses, have like, first horizon in my mind is what is happening to all the websites.
+
+**Daniel Lopes:** Every content you put on the internet is getting consumed different now.
+
+**Daniel Lopes:** And I don't know if I showed you Profound.
+
+**Daniel Lopes:** Profound is a, yeah, I'll give you the full story.
+
+**Daniel Lopes:** But let me close this.
+
+**Daniel Lopes:** So, this fuckers, they, this is like one of the hottest companies in Silicon Valley now, outside of all the foundational models.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** And look at their, what they do is essentially analytics for LLMs.
+
+**Daniel Lopes:** So, you can see how many times your company is getting cited.
+
+**Daniel Lopes:** And you can see citations for your URLs.
+
+**Daniel Lopes:** It's like think of a Google Analytics or Google Search Console, but for all the different LLMs.
+
+**Daniel Lopes:** And technically, there's no way to do that properly because they don't have APIs.
+
+**Daniel Lopes:** So it's essentially a guessing game.
+
+**Daniel Lopes:** So you run a bunch of prompts and you see how many times a company was mentioned and you extract that and count.
+
+**Daniel Lopes:** So it's not that hard to do.
+
+**Daniel Lopes:** The thing is that the case study that they have on their homepage is Ramp.
+
+**Daniel Lopes:** And if I open this, this is part of the roadmap of content that we created for Ramp.
+
+**Daniel Lopes:** So there's a cluster of topics.
+
+**Daniel Lopes:** So Ramp has been a customer for almost a year.
+
+**Daniel Lopes:** We came up with the whole roadmap and a bunch of like all the pages that are performing the best in LLMs are pages that we created.
+
+**Daniel Lopes:** And everything that they mentioned here in the screenshots, we wrote this content.
+
+**Daniel Lopes:** And they're saying, you got 7x more visibility on Ramp because we did it.
+
+**Daniel Lopes:** Yeah, exactly.
+
+**Daniel Lopes:** So just because they track the traffic doesn't mean that they know how to make the traffic work.
+
+**Daniel Lopes:** So there's all these things happening.
+
+**Daniel Lopes:** And like just visualizing what's happening to traffic is an important part of the picture.
+
+**Daniel Lopes:** There's all the other things around that Marcel kind of like cracked the code for that.
+
+**Daniel Lopes:** And he's been building the same system for the last 10 years, essentially, where you have, you take inventory of what your company has as content produced.
+
+**Daniel Lopes:** And let's say you have 500 pages.
+
+**Daniel Lopes:** So you take inventory of all these 500 pages and keep an eye on that on the regular.
+
+**Daniel Lopes:** And then you take inventory of who your personas are, who they care about, what are their concerns, their real pains, their feelings, what they're considering.
+
+**Daniel Lopes:** And then you create a roadmap for those folks.
+
+**Daniel Lopes:** And then you become alternative.
+
+**Daniel Lopes:** And then you become
+
+**Daniel Lopes:** In that space, and there's a whole way of doing that.
+
+**Daniel Lopes:** And sometimes you're going to do gap analysis in your competitors, but sometimes you're going to come from thought leadership from an angle that doesn't exist yet.
+
+**Daniel Lopes:** So that was what he did at HashiCorp, for example, where DevOps was becoming a new thing.
+
+**Daniel Lopes:** What do people even care about that?
+
+**Daniel Lopes:** Who are the people thinking about DevOps?
+
+**Daniel Lopes:** How?
+
+**Daniel Lopes:** And then they ended up creating a publication for DevOps under HashiCorp's brand.
+
+**Daniel Lopes:** So you figure out the whole system and it has a bunch of components.
+
+**Daniel Lopes:** the components are definitely analytics, one of the top ones.
+
+**Daniel Lopes:** And before it was SEO analytics.
+
+**Daniel Lopes:** Now it's SEO and LLMs.
+
+**Daniel Lopes:** And then you have keeping tabs on everything that you created versus everything that is maybe decaying or things that need improvement or things that get traffic but could be better.
+
+**Daniel Lopes:** So that's another part.
+
+**Daniel Lopes:** Another part is keeping an eye on the market so it's a knowledge base.
+
+**Daniel Lopes:** You can keep an eye on your content, but you also keep an eye on like different sources of content that matter to your audience.
+
+**Daniel Lopes:** So we're building like a reg, a graph reg using Neo4j and a vector database combined.
+
+**Daniel Lopes:** So you can just collect data from many different places, including internal data.
+
+**Daniel Lopes:** So if have a case studies documents and stuff like that.
+
+**Daniel Lopes:** So there's all these things.
+
+**Daniel Lopes:** And then you have all the things around creating the content itself and updating the content.
+
+**Daniel Lopes:** And that's where a lot of the AI workflows go.
+
+**Daniel Lopes:** But everything around that above also have a lot of AI workflows.
+
+**Daniel Lopes:** If you're thinking first principles now, if you can build an app that can think to a certain point, almost everything changes.
+
+**Daniel Lopes:** Like you can read the pages and guess, is this good for my persona?
+
+**Daniel Lopes:** If not, what would be better?
+
+**Daniel Lopes:** And then create both pages.
+
+**Daniel Lopes:** So that kind of changes the whole game.
+
+**Daniel Lopes:** And I was like, if you're building analytics, you can read the analytics and like suggest, you know?
+
+**Daniel Lopes:** So we were thinking like.
+
+**Daniel Lopes:** If we were to view the system that Marcel wanted, but like in today's age, how would that look like?
+
+**Daniel Lopes:** So that's the first horizon that we're thinking about.
+
+**Daniel Lopes:** And then the second one, ideally, we'll have all the things that we're automating for growthx internally.
+
+**Daniel Lopes:** So we automate things like research of competitors, research of a sales lead.
+
+**Daniel Lopes:** We automate transcription of the calls we have with the clients.
+
+**Daniel Lopes:** A lot of stuff is automation of the agency running the business.
+
+**Daniel Lopes:** And all that is just like a  ton of process automation.
+
+**Daniel Lopes:** And ideally, the person that's doing the process would be able to just come in and type in plain text, like, I need this.
+
+**Daniel Lopes:** And then you would be able to generate that automation to a point where it's usable already.
+
+**Daniel Lopes:** Maybe it's not going to be fully capable of scaling or parallelization or like tapping into APIs that it's not integrated yet.
+
+**Daniel Lopes:** But I don't
+
+**Daniel Lopes:** Maybe it would be like 80% there.
+
+**Daniel Lopes:** And then you can hand it off to somebody that can do the rest.
+
+**Daniel Lopes:** So the way we're thinking is that just with the stuff we have, we get 80% there with all the automations we get.
+
+**Daniel Lopes:** So like all the things that we get from our clients, like we have clients asking for, like literally like today we did sales automation for Auth0 for their sales team, using the same researcher we use for content creation, but adding a small wrapper around that would come up with the questions that the sales team get once out of the transcript.
+
+**Daniel Lopes:** But that we generated almost by just talking to the cloud agent in a plan file, because we have the framework to do all those things under the hood.
+
+**Daniel Lopes:** So we were like doing all this product creation here for grow effects, and the hood we have the framework for the automations as well.
+
+**Daniel Lopes:** So the way we would be ideal.
+
+**Daniel Lopes:** And I'm essentially thinking that the way we will code changed quite a bit because a lot of the stuff when you're doing VLMs is like non-optimistic.
+
+**Daniel Lopes:** So what would happen if we embrace that as instead of like writing unit tests, you're writing observations and the system can self-suggest improvements on prompts, for example, based on observations or based on labeling.
+
+**Daniel Lopes:** So if you don't process self-judgment scoring, can we erase that to a person and the person makes the decision?
+
+**Daniel Lopes:** And over time, that decision suggests how the code changes in the prompt or suggests a completely different new workflow.
+
+**Daniel Lopes:** So that's kind of like the way we're thinking.
+
+**Daniel Lopes:** So let's say we would have a code base.
+
+**Daniel Lopes:** I'll show you the storage spec, actually.
+
+**Daniel Lopes:** So we're thinking about, we're rewriting our framework.
+
+**Daniel Lopes:** Today, it works a little bit like this.
+
+**Daniel Lopes:** So we have...
+
+**Daniel Lopes:** Workflows folder.
+
+**Daniel Lopes:** Each folder has its own workflow.
+
+**Daniel Lopes:** Each workflow is around four files where you have the steps, you have the branching, you have the prompts, and you have types.
+
+**Daniel Lopes:** Types just happens to be really good for coding agents to know what to do.
+
+**Daniel Lopes:** And so that's also one of the reasons why we chose Typescript.
+
+**Daniel Lopes:** It's much easier for something that's non-dynamic to be generated.
+
+**Daniel Lopes:** So in our system, we have workflows, steps, prompts are files in the system.
+
+**Daniel Lopes:** So similar to what you're saying about videos on Twitter.
+
+**Daniel Lopes:** And these are YAML files, essentially, inside with a front matter on top.
+
+**Daniel Lopes:** And the front matter has the details about the model, has the model name, has the temperature, has all those things.
+
+**Daniel Lopes:** And then you have a system and you have a user's tags in the YAML file.
+
+**Daniel Lopes:** And then you also have scenarios, like you will have like a list of things that you want to run.
+
+**Daniel Lopes:** And starting point and see what happens at the end.
+
+**Daniel Lopes:** And you also have the history of the executions, so you can replay them or you can start at certain points.
+
+**Daniel Lopes:** That's essentially what we're doing as the workflow for, the framework for our automations layer, essentially for our AI automations layer.
+
+**Daniel Lopes:** But the next feature, the next project we wanna do next, maybe this year, we'll be able to pull like a prototype, like an alpha version out, would be something like similar to the lovable or bold, but for this kind of environment where like, instead of creating a graph, like a user interface where you stitch nodes together, we have, everything's under there with this code and everything's essentially text files.
+
+**Daniel Lopes:** And you have a user interface on top of an agent that's trained on this type of code.
+
+**Daniel Lopes:** And you can generate the code out of that, you know?
+
+**Daniel Lopes:** So like Marcel or Jason, the folks that...
+
+**Daniel Lopes:** They're less technical, but still pretty technical, but they wouldn't be able to think about their workflows in this way.
+
+**Daniel Lopes:** So that's essentially the three things we're doing.
+
+**Daniel Lopes:** So we're doing the agency OS, and then from that, we might extract a couple of products.
+
+**Daniel Lopes:** And then we're also doing the AI infrastructure for the future, where we want folks to be able to automate whatever they want.
+
+**Daniel Lopes:** Does that make sense?
+
+**Jose Farias:** But conceptually, absolutely, absolutely makes sense.
+
+**Jose Farias:** Do you know, like, is Marcel thinking about all this as, like, agency OS first, and then if we're able to monetize the product, that's great?
+
+**Jose Farias:** Or, because when I spoke to him, he seemed to want to do both things, and it seems like that's what you want as well.
+
+**Jose Farias:** So I don't know if I'm communicating this correctly.
+
+**Jose Farias:** It's like there's the agency side of the business, and then are we seriously pursuing the product part of the business as well, or is it like more in service to the agency part of the business?
+
+**Daniel Lopes:** Does that make sense?
+
+**Daniel Lopes:** Yeah, it does.
+
+**Daniel Lopes:** I think the big bet that we have is that LLMs for AI agents enabled services as a software, as one person can do the job of many, for many roles.
+
+**Daniel Lopes:** And for that, and that's essentially what we've been trying to validate the whole time, and that's how we ended up with 200 AI workflows, because it's like I was trying to automate essentially everything that Marcel was doing.
+
+**Daniel Lopes:** And, but then you hit the wall where you actually, there's only so much you can do in like AI workflows if you don't have like a data storage system, or you don't have a user interface for certain things.
+
+**Daniel Lopes:** So the way I'm thinking, it's almost all things are the same, but we started with AI automations, but now we're missing the user interface for more folks to be able to collaborate.
+
+**Daniel Lopes:** So the agency OS is essentially that, but that product on itself, I don't think we'll be able to sell it as is, because it's too tied to how Marcel does those things.
+
+**Daniel Lopes:** It's and Jason and the folks that we're training.
+
+**Jose Farias:** And it's also a little bit like the secret sauce, a little bit.
+
+**Daniel Lopes:** Yeah, exactly.
+
+**Daniel Lopes:** So that part of the business, if we figure out the automations for one person or two to be able to do their work really well without being overwhelmed, then we can say, today our contract value is usually $10,000 per month.
+
+**Daniel Lopes:** And it's usually three people, and they work on multiple accounts.
+
+**Daniel Lopes:** We think we can, if we can reduce.
+
+**Daniel Lopes:** That to one person, and they still be able to do the work really well without just squeezing more hours in the day.
+
+**Daniel Lopes:** We can lower that price to maybe 5K, and then you can scale that quite a bit.
+
+**Daniel Lopes:** And if the system becomes easier and easier to use, then we can grow through services.
+
+**Daniel Lopes:** So we would always be selling somebody that's trained in the system to use the system so well.
+
+**Daniel Lopes:** And we would be training them, triaging them, building the team properly.
+
+**Daniel Lopes:** And that, I think, is a scalable way of creating a service as a subscription, essentially, if the outcome is expected.
+
+**Daniel Lopes:** But then there's all the other things that are essentially impossible to come up with exactly what they want as a product.
+
+**Daniel Lopes:** And that's where we're thinking, like, if we have a framework like this, that's essentially what we're validating with our client ops engineering team.
+
+**Daniel Lopes:** Like, they get all the custom requests from clients.
+
+**Daniel Lopes:** It's like the Okta off zero today, for example.
+
+**Daniel Lopes:** We got the call.
+
+**Daniel Lopes:** We're in the call with them, and they're like, oh, we don't need to create content.
+
+**Daniel Lopes:** But that part is great.
+
+**Daniel Lopes:** The guys are doing great.
+
+**Daniel Lopes:** We actually have some need here for the sales team.
+
+**Daniel Lopes:** Could you help?
+
+**Daniel Lopes:** And usually they would say no, because that's not part of our product.
+
+**Daniel Lopes:** But for us, that would be like a half a day of Kirkland.
+
+**Daniel Lopes:** And we have Kirkland and a couple of other folks on the team dedicated to this kind of like, can we do that, actually?
+
+**Daniel Lopes:** And then it was possible.
+
+**Daniel Lopes:** But there was no way off zero would be able to do that themselves.
+
+**Daniel Lopes:** They would spend like one person to take a whole week, and it would probably look like .
+
+**Daniel Lopes:** know, like the output wouldn't be great, because they're not doing like that level of like understanding the systems.
+
+**Daniel Lopes:** So that part of the business, we think, can be like a consulting business as AI for deploy engineers that can help your company figure out how to automate things.
+
+**Daniel Lopes:** And that can be consulting, can be open source in a certain way.
+
+**Daniel Lopes:** They can have platforms to help folks debug things.
+
+**Daniel Lopes:** There can be like a training.
+
+**Daniel Lopes:** For custom models, let's say you build a workflow using our ecosystem, we can run that in production for you, and if you allow us to get telemetry data, we can see all the things that perform, and then perform it, and then train a micro model for that specific thing.
+
+**Daniel Lopes:** Maybe it's method descriptions for articles, maybe it's image generation with HTML like we do sometimes.
+
+**Daniel Lopes:** There's all these micro tasks that you could either fine-tune a ton or get to the right prompt if you have the scale for that.
+
+**Daniel Lopes:** And we also think there's a big play here where a lot of the stuff we do is people interacting with the output.
+
+**Daniel Lopes:** So ideally, and we're switching things to be more agentic and less sequential as workflows, but they get stuck in loops, you know?
+
+**Daniel Lopes:** It's like ideally, and there are things that they need human agency.
+
+**Daniel Lopes:** If we build a system where you can ask for help outside of the runtime, and that person interacts with the agent in the right way, there's...
+
+**Daniel Lopes:** There's a marketplace for people with collaboration, you know, and we can staff that.
+
+**Daniel Lopes:** So that's also something we're doing.
+
+**Daniel Lopes:** So we have, if we move all of our, we have publishers, we have writers, we have editors, and we move them out of our Slack, where they're like, just like looking at like, they don't need to know like how many GitHub podcasts we're doing a day and things like that.
+
+**Daniel Lopes:** They don't need to know how many clients we're closing.
+
+**Daniel Lopes:** Like they are writers and editors.
+
+**Daniel Lopes:** Like that's what they like doing.
+
+**Daniel Lopes:** That's their job.
+
+**Daniel Lopes:** Could we just, whenever there is a need, they get involved in that part of the process and they don't have to be involved in like  daily meetings or stand-up meetings and all that.
+
+**Daniel Lopes:** And they just do their creative part of the work.
+
+**Daniel Lopes:** Like ideally, like for example, today, like a lot of our work will start with an assignment.
+
+**Daniel Lopes:** So like, I need somebody that's like, understand that field to look at this assignment and like edit it, like get the right topic, get the right angle.
+
+**Daniel Lopes:** Understand the persona.
+
+**Daniel Lopes:** Does the outline look right?
+
+**Daniel Lopes:** We're writing this for Sentinel One or Okta, and I need somebody that's been writing for a security space to look at this.
+
+**Daniel Lopes:** Yep, makes sense.
+
+**Daniel Lopes:** This part here is bad, bad, bad, good, rewrite, and then send it back.
+
+**Daniel Lopes:** And then maybe a day from now or half an hour from now, it comes back and says, does this look good to you now as a draft for the article?
+
+**Daniel Lopes:** And then they can just edit the whole article and send it back.
+
+**Daniel Lopes:** And then maybe we do that to three people and we get the combined version of the better version of all three, for example.
+
+**Daniel Lopes:** And that person is working with us, working as part of the agency, but doesn't have to deal with the day-to-day management part of it.
+
+**Daniel Lopes:** So that I think will be like a very common thing that will happen over and over with agents that we're hitting ourselves because we're trying to automate the agency from the first principles.
+
+**Daniel Lopes:** So we're getting exposed to all the things that they will eventually happen.
+
+**Daniel Lopes:** And I think I should tackle everything, but in a way that's possible to continue to make money as a business.
+
+**Daniel Lopes:** So I don't know if that is, that's a long-winded way to answer your question, but I think it's like one, yeah, so services as software, I think it's the big bet.
+
+**Daniel Lopes:** And the first service we chose also happens to be the service that's getting disrupted by LLMs immediately.
+
+**Daniel Lopes:** So that won't make sense to like try to extract the products more.
+
+**Daniel Lopes:** So if we're doing like something for lawyers, for example, like Harvey, Harvey is another player that did something similar that we were doing to Harvey AI.
+
+**Daniel Lopes:** So if we're doing that, that would be slightly different.
+
+**Daniel Lopes:** Maybe we would never extract products for self-services and stuff like that.
+
+**Daniel Lopes:** But because we started with websites and like pages on a website, and now you have analytics is a big part of it.
+
+**Daniel Lopes:** And like another one is writing, the writing process.
+
+**Daniel Lopes:** Maybe there's an AI text.
+
+**Daniel Lopes:** Editor here that has a knowledge base embedded into it, you know?
+
+**Daniel Lopes:** And there's a bunch of little things that we're doing as well that other folks could use.
+
+**Daniel Lopes:** Like our image generation, for example, is a wrapper around a bunch of different things, but that could be a product on itself.
+
+**Daniel Lopes:** Our fact checker as well.
+
+**Daniel Lopes:** So, like, there's all these little products that we're hitting.
+
+**Daniel Lopes:** like, okay, like, everybody has the same need.
+
+**Daniel Lopes:** So there's almost an infinite amount of little things that could be, like, micro apps on itself that I think we're just going to spin everything.
+
+**Jose Farias:** I like, separate products.
+
+**Daniel Lopes:** And they will have revenue.
+
+**Daniel Lopes:** I don't think they're going to hit the same level of revenue as $10,000 a month for services, but they will probably hit subscription level fees of, like, 50 bucks a month or something like that.
+
+**Daniel Lopes:** And it eventually becomes a good business if the whole thing makes sense.
+
+**Jose Farias:** Right, exactly.
+
+**Jose Farias:** At least, like, I was going to say it should at least subsidize the engineering department or something like that.
+
+**Jose Farias:** But not, like, it could go further than that even.
+
+**Jose Farias:** But yeah, nice.
+
+**Jose Farias:** Okay, that answers my question for sure.
+
+**Daniel Lopes:** Yeah, so like the thing, how you're thinking about your job search, like we would be ready to make an offer like this week.
+
+**Daniel Lopes:** It would be nice if I could talk to like one of your managers or if Rose is available or something like that.
+
+**Daniel Lopes:** But like we would be definitely ready to make an offer.
+
+**Daniel Lopes:** Or the, yeah, the thing that I was saying in the email is essentially we have, like we really want to, we have an analytics project going on inside of our platform for ourselves.
+
+**Daniel Lopes:** And like we basically finished the SEO part of it.
+
+**Daniel Lopes:** So you don't have, so our team doesn't have to open Looker, doesn't have to open Analytics, Google Analytics.
+
+**Daniel Lopes:** And we are starting to do the GEO part.
+
+**Daniel Lopes:** All right.
+
+**Daniel Lopes:** So that was already scoped and all that.
+
+**Daniel Lopes:** And then, but it's becoming such a big thing and that we want to make a GEO.
+
+**Daniel Lopes:** So that's the project that I'm starting, like, essentially next week as a separate product from, so we have, from the platform, from the agency, and they will share the code base, we'll probably copy things back from the, from the free one back into the, to the premium one, because we want to do more things like that.
+
+**Daniel Lopes:** Like, to give you an example, tools like Profound and Scrunch, which is the other one, they will start by guessing your prompts based on what your website does, and we have an agent for that that costs $3 to run, because it will scrape the universe to understand what your company does, and all your personas and everything.
+
+**Daniel Lopes:** And we can't make that free, but we can, we can make a forked version of those workflows, that would be super cheap, and that we could make a free part of the onboarding, of the, the, the premium one.
+
+**Daniel Lopes:** So, so that, but they will share the code base.
+
+**Daniel Lopes:** Based on the user interface, maybe they will share maybe the models, and not sharing as in like gems or anything, but just copying things, you know.
+
+**Daniel Lopes:** And that product, like I'm trying to start next week, and ideally we would have something that's like usable in like by end of September.
+
+**Daniel Lopes:** And it would be probably me, Ren, which is our head of design, maybe Brad as well, once he finishes the stuff that he's working on.
+
+**Daniel Lopes:** And one more person, have Pedro that's working on the knowledge base that could join this team as well if we need to.
+
+**Daniel Lopes:** But, and like if you were to join, that would be like the perfect product to get your help sooner than later.
+
+**Daniel Lopes:** Because I know Tucker said that you want to, you're thinking about waiting for the harvest acquisition and the right potential severance there and all that.
+
+**Jose Farias:** Yes.
+
+**Jose Farias:** So, first of all, that sounds like a.
+
+**Jose Farias:** Great product.
+
+**Jose Farias:** honestly, that product and all of this as well, like getting to know GrowthX, like it sort of, it kind of fits like a glove to my skill set.
+
+**Daniel Lopes:** That sounds great to hear.
+
+**Jose Farias:** Yeah, I mean, it's honestly, I get really excited talking to you and talking to Marcel.
+
+**Jose Farias:** And kind of like in contrast to Harvest, which didn't really use my full set of capabilities, like think like at GrowthX, like I would be able to like use the whole suite of things that I know how to do.
+
+**Jose Farias:** And that's very exciting to me.
+
+**Jose Farias:** About timing, yes, there is that thing about Harvest.
+
+**Jose Farias:** I'll tell you real quick, we are on overtime, like do you still have time to talk about that?
+
+**Jose Farias:** Okay, okay, good.
+
+**Daniel Lopes:** I had a meeting with my, with the RPO.
+
+**Daniel Lopes:** I'm just going to send her a message.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** I don't know if you haven't met her.
+
+**Daniel Lopes:** Sometimes it's part of the process, but you know what, wait a few, one sec.
+
+**Daniel Lopes:** Yeah, sorry.
+
+**Jose Farias:** Yeah, no rush.
+
+**Daniel Lopes:** Just give me one sec, just to make sure.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** There you go.
+
+**Daniel Lopes:** Nice.
+
+**Daniel Lopes:** Terrific.
+
+**Daniel Lopes:** Sounds good.
+
+**Jose Farias:** Sorry.
+
+**Jose Farias:** No, no worries.
+
+**Jose Farias:** So the story with Harvest is that it got acquired by Bending Spoons.
+
+**Daniel Lopes:** Are you familiar with Bending Spoons?
+
+**Daniel Lopes:** No.
+
+**Jose Farias:** Bending Spoons.
+
+**Jose Farias:** Yeah, they're a Milan-based private equity company.
+
+**Daniel Lopes:** Oh, no.
+
+**Jose Farias:** Yeah, so they have a little bit of playbook.
+
+**Jose Farias:** Yeah, exactly.
+
+**Jose Farias:** They've done this like five or six times, and their playbook is
+
+**Jose Farias:** It's specific and clear.
+
+**Jose Farias:** They've talked about this in podcasts and everything.
+
+**Jose Farias:** Their playbook is essentially buying U.S.
+
+**Jose Farias:** companies with cash flow, buy it, fire everyone, replace them with Italian talent, which is cheaper, and then raise the prices.
+
+**Jose Farias:** That's the playbook.
+
+**Jose Farias:** They're very transparent about it.
+
+**Jose Farias:** So we're all just waiting for the axe to fall at this point.
+
+**Jose Farias:** And we're having – like our whole week consists of meeting with them and them asking questions about everything.
+
+**Jose Farias:** Yeah, so they'd be like, no, let's share it so they can just fire everyone.
+
+**Jose Farias:** So anyway, like that's the background.
+
+**Jose Farias:** We're all expecting layups pretty soon, and that comes with a liquidation package essentially.
+
+**Jose Farias:** So that's the story there.
+
+**Jose Farias:** Getting that would be nice.
+
+**Jose Farias:** I did say to Tucker, if an opportunity like
+
+**Jose Farias:** If growthx is very obviously the best opportunity that I could get, then I would be happy to just go with growthx.
+
+**Jose Farias:** And yes, I am talking to other companies currently.
+
+**Jose Farias:** Circle and Zipline would be the frontrunners there.
+
+**Jose Farias:** But again, like if it's very obviously the best choice, then I'm happy to go with it.
+
+**Jose Farias:** Like I think it would be a good fit.
+
+**Jose Farias:** Now it's just a matter of like determining if you guys want to make an offer.
+
+**Jose Farias:** It would be a matter of determining like, is this the best move for me and my family at this point, right?
+
+**Jose Farias:** I need to make a decision to make the most money that I can to be completely transparent.
+
+**Daniel Lopes:** Yeah, especially with the second kid on the way.
+
+**Daniel Lopes:** Yeah, no, for sure.
+
+**Daniel Lopes:** Yeah, I think there's a couple of few things we could do there.
+
+**Daniel Lopes:** Like let me talk to the team and then come up with an offer number and all that.
+
+**Daniel Lopes:** Yeah, and another thing is the pet leave.
+
+**Daniel Lopes:** Like we could definitely, like if you were to join us, like let's say like, I don't know if that would be realistic.
+
+**Daniel Lopes:** It's like, but like, let's say like first week of September or something like that, that would be like for us the best timeline.
+
+**Daniel Lopes:** And then we could definitely, you said your kid is on the way for November, right?
+
+**Daniel Lopes:** Yes.
+
+**Daniel Lopes:** Yeah, we could definitely base that in as well.
+
+**Daniel Lopes:** So like, like if you were to join us, like, you know, in like in October, that would be, or November, that would be harder to like have like the 16 days bad leave we have.
+
+**Daniel Lopes:** Because it's essentially four months are done.
+
+**Daniel Lopes:** Your help.
+
+**Daniel Lopes:** But yeah, if you join in September, it would be like much, much easier for us to do like the same amount or at least like a 30 days fully off.
+
+**Daniel Lopes:** And then like maybe part time just to help like redo PR or something like that on the second month.
+
+**Daniel Lopes:** That would be something we could do for sure.
+
+**Jose Farias:** That sounds very reasonable.
+
+**Jose Farias:** I think if we can get an offer out like this week, I was.
+
+**Jose Farias:** was to say today, tomorrow, that would be great because then I can give my two weeks on Monday and then join the first week of September.
+
+**Jose Farias:** That works for me.
+
+**Jose Farias:** Again, being completely transparent, it would have to be the obvious choice, right?
+
+**Jose Farias:** It's like you don't even have the calls with the other companies to be completely transparent.
+
+**Jose Farias:** But yeah, I think that timeline should work for me, like joining early September, if I can give my two weeks on Monday.
+
+**Daniel Lopes:** Sounds good.
+
+**Daniel Lopes:** Yeah, just a few things.
+
+**Daniel Lopes:** To be full transparent, we're thinking about fundraising again.
+
+**Jose Farias:** I don't know if I've told you that last time.
+
+**Daniel Lopes:** Yeah, because I think if I show you the full picture of how we're thinking about the AI framework and the potential platforms, don't know if...
+
+**Daniel Lopes:** But think are mentioned.
+
+**Daniel Lopes:** But yeah, we
+
+**Daniel Lopes:** Ecosystem around that, plus the platform for GrowthX itself, plus the extract products, like that is not a small surface area.
+
+**Daniel Lopes:** And there is a lot of that is also like training models.
+
+**Daniel Lopes:** It's a lot of the traditional AI ML space that will require quite a bit of money.
+
+**Daniel Lopes:** And we don't want to not take that, at least attempt to do that.
+
+**Daniel Lopes:** And it doesn't mean we're going to succeed, but at least we'll try to like act on all the things and not play defense.
+
+**Daniel Lopes:** So we're thinking about trying to fundraise probably beginning of November.
+
+**Daniel Lopes:** So now it will be like a good time for you to join because we still have like a small strike price.
+
+**Daniel Lopes:** We have all that stuff and we're thinking about what can we do to help the team that hasn't gone through the whole vesting.
+
+**Daniel Lopes:** We're thinking it.
+
+**Daniel Lopes:** like...
+
+**Daniel Lopes:** Cliff of their equity yet.
+
+**Daniel Lopes:** So we were like, we're still talking to what is possible and what is the investor, the board, I'm part of the board, me, Marcelo, and one investor.
+
+**Daniel Lopes:** So what can we do there for early exercise if folks want to exercise?
+
+**Daniel Lopes:** We're figuring out all this stuff still and we're not fully in fundraising mode.
+
+**Daniel Lopes:** But joining us now is better than joining October or later.
+
+**Jose Farias:** Yeah, no, that makes sense.
+
+**Jose Farias:** We can make September happen, I think.
+
+**Jose Farias:** If we can get the offer this week, then I would be happy to look you over and potentially start September.
+
+**Daniel Lopes:** Yeah, that sounds good.
+
+**Daniel Lopes:** One last thing.
+
+**Daniel Lopes:** I was meaning to invite David for a podcast for our lives.
+
+**Daniel Lopes:** So I messaged him after our call because I was actually listening to Lex Freeman as well.
+
+**Daniel Lopes:** I guys, thanks.
+
+**Daniel Lopes:** you.
+
+**Daniel Lopes:** And then I asked him about you, then he said, and I mentioned him, like, I worked with multiple people from 37signals, and I mentioned him, like, few people, and he said, Jose is very similar to Trevor, and I had a great time working with Trevor, so, and he actually sent me the message and everything that how they shared the news internally and when they discovered I decided to terminate you, and I was like, yeah, I could use somebody with, like, Trevor skills again.
+
+**Daniel Lopes:** That would be amazing.
+
+**Daniel Lopes:** So, so I talked to David, just, like, via email, not in a phone call, just to give you the context there, and that doesn't, like, I'm still super excited to work with you and everything, so it doesn't matter, but, so it was funny that you were talking about, like, David's level of stamp, and I'm like, yeah, I actually don't want David.
+
+**Daniel Lopes:** Somebody that's like David in our context, that would be like, that's going to  us over.
+
+**Jose Farias:** Yeah, that's actually one thing where we buttheads, David and I, specifically with Fizzy, the new product, when I was working on that, I was like, we should iterate quickly and move fast.
+
+**Jose Farias:** He was like, no, the code has to be perfect.
+
+**Jose Farias:** And I'm like, it doesn't matter.
+
+**Jose Farias:** We're going to remove it anyway.
+
+**Jose Farias:** And he's like, no, like, we just buttheads enough that he decided quite unilaterally to terminate.
+
+**Daniel Lopes:** Yeah, I see.
+
+**Jose Farias:** Yeah, I couldn't imagine that.
+
+**Jose Farias:** But yeah, cool, man.
+
+**Daniel Lopes:** Like, if you could, if you could just message, I don't know who would be the best person that we always do the, we talk to one manager of somebody like David, like, I was just going to message him anyway, for the podcast.
+
+**Daniel Lopes:** And he ended up saying like, you could do next year, like, I always wanted to do like, I don't know if you've seen that, but I'm there's computer history museum here.
+
+**Daniel Lopes:** And the video area has a
+
+**Daniel Lopes:** A series called Oral History, where they interview people for like six hours straight, and sometimes many times.
+
+**Daniel Lopes:** And I've always wanted to do something similar to that about the beginning of Rails.
+
+**Daniel Lopes:** And Growthx now has a podcast, and we have the whole setup and everything.
+
+**Daniel Lopes:** So I reached out to David about that.
+
+**Daniel Lopes:** And when I saw him on Lex Friedman, that's when I reminded the memory of doing that.
+
+**Daniel Lopes:** And I wanted to do that for a few other folks, too.
+
+**Daniel Lopes:** But just to give you the context of like the conversation that I had via email.
+
+**Daniel Lopes:** Is there anything that you want to, like just to give you like the ballpark on, so you said that you were looking for something around the minimum was like 210 value-wise, right?
+
+**Jose Farias:** So, yes, I did say that number.
+
+**Daniel Lopes:** After After you've seen seen it.
+
+**Jose Farias:** it.
+
+**Jose Farias:** Right.
+
+**Jose Farias:** So actually, after that call, I went back to review my harvest compensation and looking at like after benefits and that kind of thing, it does put me like at more close to like 219, which is what I'm just, that's just what I'm making right now.
+
+**Jose Farias:** It does sound like this position has quite a bit more responsibility, which I'm happy to take on.
+
+**Jose Farias:** So I would love it if we could do like closer to the top of the range of the position, of course.
+
+**Jose Farias:** I would say, I'll say this, like, obviously you are somewhat familiar with or pretty familiar with like my code, what I can do.
+
+**Jose Farias:** Brad took a look, like, I think one way to judge that would be like just to see who's in the team currently and sort of like weigh me against.
+
+**Jose Farias:** I think that is usually what works best for me, especially when at Harvest I would come in and get to know everyone.
+
+**Jose Farias:** I'm like, oh, I'm getting paid the same as this guy, and this guy is not very good.
+
+**Jose Farias:** Of course, I'm sure that wouldn't happen at GrowthX because the team sounds very experienced, but I think that sort of framing would work for me.
+
+**Daniel Lopes:** Sounds good.
+
+**Daniel Lopes:** Yeah, we haven't had the option to have super-established levels yet with the salary bands, but everybody's kind of in the same range of salary.
+
+**Jose Farias:** Right.
+
+**Daniel Lopes:** And it varies just a little bit, like $5,000 to $10,000 at most.
+
+**Daniel Lopes:** there's nobody getting like, the folks that are on different levels, they're like different kinds of work.
+
+**Daniel Lopes:** So, and then we're going to, like, the plan is to, like, eventually make all that a lot more transparent over time.
+
+**Daniel Lopes:** Cool, man.
+
+**Daniel Lopes:** That sounds good.
+
+**Daniel Lopes:** Let me get back to the team and we can send you an offer tomorrow morning, I think.
+
+**Jose Farias:** Awesome.
+
+**Jose Farias:** Sounds great.
+
+**Jose Farias:** And I can talk to Rosa about the reference for sure.
+
+**Jose Farias:** I'll message her.
+
+**Jose Farias:** Actually, I'll put you two in touch if that sounds good.
+
+**Jose Farias:** And then you can work out a call or whatever you want to do.
+
+**Jose Farias:** David.
+
+**Daniel Lopes:** Yeah, don't worry about it.
+
+**Jose Farias:** Yeah, David isn't a great reference for me.
+
+**Jose Farias:** Not because we didn't work together.
+
+**Jose Farias:** It's the thing.
+
+**Jose Farias:** I don't think he knows me.
+
+**Jose Farias:** Or not very well.
+
+**Jose Farias:** Anyway, but Rosa knows me for sure.
+
+**Jose Farias:** And Jeff does as well.
+
+**Jose Farias:** But just if we're going to pick one, Rosa works since you know her already.
+
+**Daniel Lopes:** So I'll put you two in touch.
+
+**Daniel Lopes:** Perfect.
+
+**Daniel Lopes:** Yeah, I think from the folks that were there.
+
+**Daniel Lopes:** Did you work with Flora?
+
+**Daniel Lopes:** Flora?
+
+**Jose Farias:** No, she left before I joined.
+
+**Daniel Lopes:** Okay.
+
+**Daniel Lopes:** Because that was another person that I was thinking of reaching out.
+
+**Daniel Lopes:** Yeah, from the folks that were there, like, that you might have overlapped.
+
+**Daniel Lopes:** I think it was just Jeremy.
+
+**Daniel Lopes:** Rosa never met her, but we exchanged emails during my canopy days.
+
+**Daniel Lopes:** So she'll probably remember me.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** Thanks, man.
+
+**Daniel Lopes:** Thanks for your time.
+
+**Daniel Lopes:** Sorry for going over.
+
+**Daniel Lopes:** Like, I'm the master of going over all the meetings.
+
+**Jose Farias:** No worries.
+
+**Jose Farias:** No worries.
+
+**Jose Farias:** I enjoy the conversation.
+
+**Jose Farias:** So.
+
+**Daniel Lopes:** All right.
+
+**Daniel Lopes:** See you.
+
+**Daniel Lopes:** Have a good time.
+
+**Daniel Lopes:** Enjoy your trip.
+
+**Jose Farias:** I will.
+
+**Daniel Lopes:** Thanks.
+
+**Daniel Lopes:** Take care.
+
+**Daniel Lopes:** See you.
+
+**Jose Farias:** All right.
+
+**Jose Farias:** Bye-bye.

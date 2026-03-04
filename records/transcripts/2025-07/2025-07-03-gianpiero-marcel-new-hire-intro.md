@@ -1,0 +1,1342 @@
+# Gianpiero / Marcel - New hire Intro
+
+<metadata>
+date: 2025-07-03
+time: 16:32 UTC
+duration: 54 minutes
+organizer: Marcel Santilli
+participants: Marcel Santilli, Gianpiero Puleo
+fathom_recording_id: 72136133
+fathom_url: https://fathom.video/calls/340948240
+share_url: https://fathom.video/share/7MFc_mQcsKXhEatURdCVcKopFx8j1dsi
+source: fathom
+enriched_on: 2026-03-03 16:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Marcel introduced Gianpiero, a new GrowthX engineer, to the Flow product and discussed his vision for workflow creation. Gianpiero asked about the biggest weaknesses in Flow from both Marcel's perspective as a power user and from client/delivery needs, outlining his plan to spend significant time on Flow alongside Ren and Daniel. The conversation explored limitations in Flow's current structure—including rigidity, lack of semantic understanding, and inability to make post-creation changes—and sketched a vision for more intuitive, chat-like workflow creation with customizable building blocks, better human intervention mechanisms, and stronger context/artifact integration.
+
+---
+
+## Context
+
+Gianpiero Puleo is a new engineer joining GrowthX and was onboarded by Marcel Santilli, GrowthX's founder/CEO. This is their introductory 1:1 meeting, conducted as part of Gianpiero's first week onboarding. Gianpiero indicated that his background made him pick up the business and agency model quickly, but he's spending more time understanding the technical stack—a different pattern than some other new hires who came in stronger on content/marketing knowledge.
+
+Gianpiero is being allocated to work on Flow, GrowthX's internal workflow/AI assistant product, alongside Ren and Daniel. He indicated he plans to speak with power users like Jason and Q to understand product needs. The conversation serves as Marcel's direct feedback to a new technical lead on Flow's strategic gaps and his vision for the product's next generation.
+
+---
+
+## Relevance
+
+**To Flow Product Development:**
+- Marcel sees workflow triggering as critical gap—specifically end-of-meeting triggers that auto-invoke transcript processing workflows
+- Context/artifact integration is a key differentiator: custom knowledge bases should integrate processed transcripts (not raw 60-min dumps) with artifacts for better retrieval
+- Flow needs a chat-like, iterative interface allowing users to refine workflows post-creation, not just static definition and execution
+- Balancing MVP features vs. differentiators: Marcel wants to know how to prioritize what makes Flow truly compelling vs. basic blocking/tackling
+- Customizable building blocks (question generation, research steps, approval types) are table-stakes for both internal power users and future client-facing offerings
+
+**To GrowthX Delivery:**
+- Gianpiero's feedback suggests new hire onboarding should be tailored by background (technical vs. marketing/agency knowledge)
+- Flow will likely become a client-facing product offering, so early design choices now determine what capabilities GrowthX can confidently sell
+- Transcript processing workflows (auto-triggered at end of delivery calls) could dramatically improve artifact quality and knowledge retention across the agency
+
+**To GrowthX Business Development:**
+- Gianpiero indicated strong interest in understanding client needs and agency delivery model, suggesting potential to expand his role beyond engineering into product strategy/delivery
+- Flow's maturity directly impacts GrowthX's ability to scale service delivery and retain clients through tooling differentiation
+
+---
+
+## Overview
+
+- Current Flow experience lacks flexibility and deep understanding of knowledge work processes
+- Need for more granular, customizable building blocks in workflow creation
+- Importance of human interventions, signal collection, and evaluation mechanisms in the system
+- Desire for a chat-like experience that allows for iterative refinement of workflows
+
+---
+
+## Key Topics
+
+### Current Flow Limitations
+
+  - Flow's current structure is too rigid and doesn't allow for easy iteration or customization
+  - Lack of semantic understanding and context awareness in the current system
+  - Inability to make changes or refine workflows once created
+  - Missing the nuanced understanding of knowledge work that humans bring to the process
+
+### Vision for Improved Workflow Creation
+
+  - Desire for a more intuitive, chat-like experience for creating and refining workflows
+  - Need for smaller, more customizable building blocks (e.g., question generation, research steps)
+  - Ability to seamlessly move between high-level planning and granular prompt-level adjustments
+  - Incorporation of context and artifacts to inform workflow creation and refinement
+
+### Human Intervention and Evaluation
+
+  - Importance of defining types of human interventions (e.g., approval, comments, open-ended input)
+  - Need for mechanisms to evaluate the quality and effectiveness of human inputs
+  - Desire for a system that knows when to ask for clarification or human input
+  - Collecting signals to improve confidence levels and decision-making in the workflow
+
+### Context Engineering and Artifact Creation
+
+  - Emphasis on creating and refining artifacts as a key part of the workflow process
+  - Importance of context in generating high-quality outputs (e.g., company research, founder profiles)
+  - Need for better integration of various data sources (e.g., transcripts, public information) into the workflow
+
+### Technical Considerations
+
+  - Exploration of markdown as a potential interface for both technical and non-technical users
+  - Discussion of balancing complexity with usability in the user interface
+  - Consideration of a dual code/UI experience to cater to different user skill levels
+
+---
+
+## Action Items
+
+- **Gianpiero Puleo (GrowthX)** — Set up calls with Jason and Q to understand power user needs and pain points in Flow
+- **Gianpiero Puleo (GrowthX)** — Explore ways to incorporate more flexible, customizable building blocks (e.g., question generation, research steps, approval types) into Flow
+- **Gianpiero Puleo & Marcel Santilli (GrowthX)** — Investigate methods for integrating context and artifacts more seamlessly into the workflow creation process, including end-of-meeting triggered workflows
+- **Gianpiero Puleo (GrowthX)** — Develop a prototype for a more chat-like, iterative workflow creation experience that allows post-creation refinement
+- **Gianpiero Puleo (GrowthX)** — Define and prioritize types of human interventions (approval, comments, open-ended input) and evaluation mechanisms to incorporate
+- **Marcel Santilli (GrowthX)** — Consider how to balance MVP features vs. potential differentiators (client-facing capabilities, markdown interface options) in the product roadmap
+
+---
+
+## Transcript
+**Marcel Santilli:** This meeting is being recorded.
+
+**Marcel Santilli:** Hello.
+
+**Gianpiero Puleo:** Hey, Marcel, how are you?
+
+**Marcel Santilli:** Hey, my friend.
+
+**Gianpiero Puleo:** Good.
+
+**Gianpiero Puleo:** I'm finally in the first meeting with more AI notetakers than actual participants.
+
+**Marcel Santilli:** I just want to build our own notetaker, man, because it's just like, it's just, all these notetakers are garbage and they don't process it right.
+
+**Marcel Santilli:** I'm driving more company, you know, so I'm like...
+
+**Gianpiero Puleo:** Have you found anyone that you like?
+
+**Gianpiero Puleo:** I don't mind Fathom. It's pretty good to me, but yeah, the other ones are, yeah, the ones that are not specialized in that, they're not great.
+
+**Marcel Santilli:** Yeah, I wish I could trigger, like, workflows more, you know, from them, and also, like, just be able to ask questions of the whole database, but also of a, call it a folder, you know, and then almost kind of like cloud projects, where we have, we take some of our artifacts and we put it into a cloud project.
+
+**Marcel Santilli:** And then if you have a custom knowledge base, and that custom knowledge base has a transcript, you don't just want, like, a 60-minute transcript shoved in there, you kind of want to do a little bit of processing so that you can retrieve it a little bit better, and so that it can kind of, like, refresh the artifacts we have, you know, but.
+
+**Gianpiero Puleo:** Well, that in itself could be a workflow, like, end of meeting triggered the workflow with steps to process your notes the way that you like it, and then you get the final product.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** How are you feeling, man? How's it going?
+
+**Gianpiero Puleo:** How are things?
+
+**Gianpiero Puleo:** Pretty good.
+
+**Gianpiero Puleo:** Thank you for asking.
+
+**Gianpiero Puleo:** I'm enjoying it. It was definitely a lot of material to digest.
+
+**Gianpiero Puleo:** I think the funny part is that given my background, I definitely think I got up to speed on the business more than way more quickly.
+
+**Gianpiero Puleo:** Like everything that you were saying, what I'm not familiar with is like the, obviously the specifics of like, I'm not a marketing and content expert, but in terms of like how we service them, like in the agency model and why we do things in a certain way, et cetera, that clicked like very, very easily for me.
+
+**Gianpiero Puleo:** And I'm spending like a little bit more time on the technical side instead.
+
+**Gianpiero Puleo:** And I think for some of the other joiners in my same, it was like little bit opposite.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** That's cool, man.
+
+**Marcel Santilli:** That's awesome.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** I want to pick your brain a bunch of the agency side sometime too, but yeah, anytime.
+
+**Gianpiero Puleo:** And then I'm obviously.
+
+**Gianpiero Puleo:** We are now on site in July, so I'm assuming you'll be there in few days.
+
+**Marcel Santilli:** for that, yeah.
+
+**Gianpiero Puleo:** Yeah, thank you.
+
+**Gianpiero Puleo:** Yeah, I'm looking forward to it.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Are there any areas that would be helpful to kind of jump in, dig in a little?
+
+**Marcel Santilli:** Yeah, anything, any context, anything that you think would be helpful?
+
+**Gianpiero Puleo:** Yeah, I think from my perspective, two things.
+
+**Gianpiero Puleo:** But if that kind of gives you an idea of like, oh, this could be useful, please feel free to go there as well.
+
+**Gianpiero Puleo:** Well, the first one for me is I want to understand a little bit from your perspective.
+
+**Gianpiero Puleo:** Basically, I want to focus a little bit more on Flow because my understanding is that that's where both Ren and Daniel probably will want me to spend a bunch of my time.
+
+**Gianpiero Puleo:** And I know that people like Q and Jason are power users, so actually I'm going to set up like a call with Jason too.
+
+**Gianpiero Puleo:** From your perspective, sort of in Flow, I want to kind of have like two themes.
+
+**Gianpiero Puleo:** One is for you.
+
+**Gianpiero Puleo:** You as a user, where do you think we have the biggest weaknesses right now?
+
+**Gianpiero Puleo:** The stuff that really kind of like the work life changing for you in the way that you need to use flow.
+
+**Gianpiero Puleo:** And sort of like the flip side of that instead, what are we missing today in flow for our clients?
+
+**Gianpiero Puleo:** And the client part can be, take it any way you want.
+
+**Gianpiero Puleo:** Like what goes through my mind is like capabilities in terms of things that we want to offer our client.
+
+**Gianpiero Puleo:** But I know that at some point we might actually want to open flow to clients directly, not yet.
+
+**Gianpiero Puleo:** And so if you think that way, what are some areas that definitely like, you know, we're not there yet if we want to do that.
+
+**Gianpiero Puleo:** That's sort of like top of mind.
+
+**Gianpiero Puleo:** But added to that, feel free to go anywhere.
+
+**Marcel Santilli:** Okay, that's super helpful.
+
+**Marcel Santilli:** So I think like the way I kind of think about it, so just to go back a little bit, the way I was working before, whether it's Aeroops or even more recently, like with Cloud Projects is like, if library.
+
+**Marcel Santilli:** We'll
+
+**Marcel Santilli:** So, you know, like I find a certain pattern, a certain way to think through something, right?
+
+**Marcel Santilli:** And then like, then once I find that pattern, then I want to repeat that same pattern with some test data, right?
+
+**Marcel Santilli:** Like, so for instance, like with a customer or something, right?
+
+**Marcel Santilli:** But in most times, like that pattern requires research and requires fetching information and it requires fetching context as well, right?
+
+**Marcel Santilli:** And so right now, the reason I don't use our workflows at all is because like, I don't have a way to do that and shape and play with it, right?
+
+**Marcel Santilli:** But I have, I think, really good taste for this stuff.
+
+**Marcel Santilli:** And so like, and I think a good, a good like...
+
+**Gianpiero Puleo:** I mean, it's too complicated to actually go and create flows for you, like in terms of like translating your way of thinking flows.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** And so like, you know, a lot of what I've been doing is like, just to show you a
+
+**Marcel Santilli:** A bit of my process right now, a little bit, Ray, like, let me see Surge, for instance, like, okay, so I had a bunch of calls with, like, with the Surge CEO and a bunch of things, and then I used Manus to do research, used Proplastic to do deep research, right?
+
+**Marcel Santilli:** And then I put, like, all of this here, I just said, hey, write a company context with the following sections, right?
+
+**Marcel Santilli:** And it was pretty good, and it was already really good, essentially, right?
+
+**Gianpiero Puleo:** What you have to do here, I just want make sure I follow, I also, like, use projects almost for everything, like, these days, so you're essentially creating an artifact by yourself, each of them with a different tool, so, like, you created, like, a research artifact with perplexity and so forth, then you added them all to the context of the project, and then once you had, once you collected everything you think was needed as context, only then you went to Claude and asked, like, okay, now, do this, given everything that I'm providing.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** So, I.
+
+**Marcel Santilli:** I essentially created this one that had three examples of good contacts or artifacts.
+
+**Marcel Santilli:** And then I just put a little bit of instructions of like, hey, these are not great prompts.
+
+**Marcel Santilli:** just like, you're an editor-in-chief, essentially, you know, like, this can be better.
+
+**Marcel Santilli:** And then this is how I generated all the artifacts for our customers and for the strategy sprints, you know, like, as a first shot, right?
+
+**Marcel Santilli:** And this one, like, I did that, but I also, like, because there's a lot of nuances to the industry and their website was one page, I had to go, like, do research on data labeling and, you know, like, research on search, like, deep research on search, right?
+
+**Marcel Santilli:** Like, a little bit more, their competitors, like, and then, so then I just, like, did this and I was a bit more specific on the sections I wanted to have.
+
+**Marcel Santilli:** So, I was like, okay.
+
+**Marcel Santilli:** And then I took all the transcripts from the calls we had or notes from the calls
+
+**Marcel Santilli:** We had impromptu with them and essentially like re-ran the context, right?
+
+**Marcel Santilli:** Then it created a much better version of the context that was actually very specific to them, right?
+
+**Marcel Santilli:** And then I just created like a couple of more artifacts here for like summarizing the calls that we had with them, just to organize them a little bit more, right?
+
+**Marcel Santilli:** All we're doing is processing a lot of noise into more information-dense like artifacts, right, essentially.
+
+**Marcel Santilli:** Now, then I was like, okay, this is so specific to the founder.
+
+**Marcel Santilli:** I'm going to create now a version of the artifact for the founder, you know?
+
+**Marcel Santilli:** And then, so then after I had all of that, I came in here and I put it into the docs, right?
+
+**Marcel Santilli:** So now you can see some of the docs here, like for instance, like his profile.
+
+**Marcel Santilli:** And so that really helped, right?
+
+**Marcel Santilli:** slide.
+
+**Marcel Santilli:** And you can see, like their their comments coming...
+
+**Marcel Santilli:** And commenting on it, you know, like, hey, how do we scale this back, we're now generating Hive, should we go back to it, right?
+
+**Marcel Santilli:** So then I took this, and then I created another project, right?
+
+**Marcel Santilli:** Keep in mind, like, Surge has 100,000 people that are kind of like our managing editors.
+
+**Marcel Santilli:** Like, they are tasting the data, they're creating things.
+
+**Gianpiero Puleo:** Right.
+
+**Gianpiero Puleo:** they do, they do mostly annotation, like scale, right?
+
+**Marcel Santilli:** That's sort what they focus on.
+
+**Marcel Santilli:** Very different from scale.
+
+**Marcel Santilli:** Scale was like started as bounding boxes, essentially, and then try to scale the, like, super cheap labor to try to get to, like, really good data.
+
+**Marcel Santilli:** They took the complete opposite approach, which was like, they only have 50 people in the company.
+
+**Gianpiero Puleo:** So they go after experts and then find, like, a test to figure out how to assess these experts.
+
+**Gianpiero Puleo:** And it's, like, all automated.
+
+**Marcel Santilli:** They have a crazy data science, like, you It's actually similar more to us, but the difference is that.
+
+**Gianpiero Puleo:** Exactly.
+
+**Gianpiero Puleo:** What they do.
+
+**Gianpiero Puleo:** Annotation, like scale, but their approach is more like ours.
+
+**Gianpiero Puleo:** Exactly.
+
+**Marcel Santilli:** In order to do annotation.
+
+**Marcel Santilli:** right.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And his background, Edwin's background, as he did, he built a lot of the recommendation systems at like Facebook, Twitter, and YouTube.
+
+**Marcel Santilli:** And so it's like, and it requires a lot of data science.
+
+**Marcel Santilli:** And then he figured out like if you optimize for click, these systems, you start getting garbage recommendations for people because like you start serving them clickbaits.
+
+**Gianpiero Puleo:** As they are.
+
+**Marcel Santilli:** yeah, and so exactly.
+
+**Marcel Santilli:** So then what he did is that he figured out like it's way better to try to get human preference data, you know, and make it a lot better to go a deeper understanding of you.
+
+**Marcel Santilli:** Hey, you like soccer?
+
+**Marcel Santilli:** I don't want to just send you like this clickbaity things of like whatever.
+
+**Marcel Santilli:** I want to go deeper, you know, into like.
+
+**Gianpiero Puleo:** What do you like about soccer?
+
+**Marcel Santilli:** Why is it?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So then I created this project and I started taking like all those artifacts.
+
+**Marcel Santilli:** These are transcripts from the recordings.
+
+**Gianpiero Puleo:** know.
+
+**Gianpiero Puleo:** This is
+
+**Marcel Santilli:** But it was mostly these over here, right?
+
+**Marcel Santilli:** This, this, this, and this.
+
+**Marcel Santilli:** And then this is the part that's like kind of crazy.
+
+**Marcel Santilli:** So I did this, right?
+
+**Marcel Santilli:** And look at this thing.
+
+**Marcel Santilli:** Where's the one that I did?
+
+**Marcel Santilli:** Let me just find it really quickly.
+
+**Marcel Santilli:** But, okay, so then I said, write a manifesto from Edwin on the importance of data and high quality human expertise, capturing data for the progress of AI.
+
+**Marcel Santilli:** Okay?
+
+**Marcel Santilli:** And it generated this.
+
+**Marcel Santilli:** Like, read this, just the first, like, few.
+
+**Gianpiero Puleo:** It is really good.
+
+**Gianpiero Puleo:** I mean, I don't know how Edwin sounds, but I can say I can.
+
+**Marcel Santilli:** So this is what I sent them, right?
+
+**Marcel Santilli:** This is Saturday, right?
+
+**Marcel Santilli:** We talked to them for the first time on Thursday, and we did all of this, and it's like company brief, data manifesto, and founder profile, and this is the master Somali era of data, amazing, heading home to look closer, but this looks amazing.
+
+**Gianpiero Puleo:** Who wrote this?
+
+**Marcel Santilli:** It's so good.
+
+**Marcel Santilli:** On my phone right now, I can't tell if this is LLM generated.
+
+**Gianpiero Puleo:** Yeah, that's what I meant.
+
+**Marcel Santilli:** The master Somali era of like  data says this is really good.
+
+**Marcel Santilli:** And on his own writing, like, yeah, you know, and then like all his teams, like data is the crystallization of human intelligence.
+
+**Marcel Santilli:** damn, that's so good.
+
+**Marcel Santilli:** You know, it's like, oh, I see Nick's influence in this writing, you know, like, and then like, I wrote this other thing, which was like, a love letter to human intelligence.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** And, and this is like so crazy.
+
+**Marcel Santilli:** So, so, so then I just said like, anyways, I did, I did this, it was okay.
+
+**Marcel Santilli:** And then I was like, okay, now let's write a love letter to human intelligence.
+
+**Marcel Santilli:** And the idea was like, hey, they're all about capturing human intelligence and how it's like an infinite thing.
+
+**Marcel Santilli:** It's not like a well-defined thing that you're going to run out of intelligence to capture.
+
+**Marcel Santilli:** Like humans, you know, are an infinite thing.
+
+**Marcel Santilli:** It's not a, like a finite set of data.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And it wrote this, like, like, read this.
+
+**Gianpiero Puleo:** Yeah.
+
+**Gianpiero Puleo:** Again, I don't know how he writes, but it is really good.
+
+**Gianpiero Puleo:** Yeah.
+
+**Marcel Santilli:** So, so it's like, it was, but the point was like, none of this was like this.
+
+**Marcel Santilli:** Crazy  workflow thing, a lot of it was just like, so there's this confidence starting concept that I guess like people started talking about, like context engineering.
+
+**Gianpiero Puleo:** Yeah, I was watching a video today about that actually.
+
+**Marcel Santilli:** Yeah.
+
+**Gianpiero Puleo:** Usually vibe coding is dead, it's all about context engineering now.
+
+**Marcel Santilli:** Yeah, right, but like what we're doing is we're vibe coding context engineering.
+
+**Gianpiero Puleo:** I mean, yeah, yeah, I agree.
+
+**Gianpiero Puleo:** Yeah, because essentially what you're saying here, the work, well, I guess there is a workflow when you look at it, but really your workflow is about getting the best possible context for a code to then perform the actual task that you wanted to perform.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And so I think like a big unlock for us, like remember we were talking here and we're like artifacts and I think artifacts was just a big unlock mentally for me personally, right?
+
+**Marcel Santilli:** Like it's like this idea of like if you generate the right artifacts and you have the engine.
+
+**Marcel Santilli:** To continue to refresh those artifacts and keep them up to date, you know.
+
+**Marcel Santilli:** And those artifacts can be preferences, can be like guidelines, they can be rules, they can be all of those things, you know, facts.
+
+**Marcel Santilli:** Like, then everything else downstream just becomes  magic.
+
+**Marcel Santilli:** Like, this is magic because we got the artifacts right.
+
+**Marcel Santilli:** Getting the artifacts right means I spent four hours asking them questions.
+
+**Marcel Santilli:** Yeah.
+
+**Gianpiero Puleo:** And getting to, like, the meat, like, getting...
+
+**Gianpiero Puleo:** But if you can automate that.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** But then, so then, like, the way I kind of started to just think about it is, like, a little bit like this, right?
+
+**Marcel Santilli:** Like, so there's, like, three roles for humans.
+
+**Marcel Santilli:** Process architects, input calibrators, and production refiners, almost, you know.
+
+**Marcel Santilli:** So, so one, the process architects, like, they define how work should be done.
+
+**Marcel Santilli:** That's kind of like meat.
+
+**Marcel Santilli:** And you don't need a million of these people, right?
+
+**Marcel Santilli:** And then the input calibrators extract the right strategy and content.
+
+**Marcel Santilli:** From the customers, you know, whether it's extracting from verbal communication or extracting from their docs or extracting from information publicly available.
+
+**Marcel Santilli:** And then production refiners are like the, like execute, not just execute the last mile, but they're, they're kind of like the data, the expert data labelers, right?
+
+**Marcel Santilli:** Like they're doing the reinforcement learning, they're doing the preference, they're, you know, explaining why something turns them off or not in that final output.
+
+**Marcel Santilli:** They're checking things, they're doing things, but the goal here is to ensure quality and also understand where the artifacts might be falling short, where the processes can be improved, right?
+
+**Marcel Santilli:** It's not to just like do this forever, right?
+
+**Marcel Santilli:** Like, and, and so in a lot of ways, like you're trying to find, like, they are almost like edge case scenario seekers, right?
+
+**Marcel Santilli:** Like they're trying to correct the edge cases, they're trying to find.
+
+**Marcel Santilli:** Like, so in data labeling, there's this concept of failure modes.
+
+**Marcel Santilli:** And so a lot of models have very common failure modes.
+
+**Marcel Santilli:** And you're trying to seek those failure modes and fix failure modes by more examples, more data, or improving the artifacts and things like that, right?
+
+**Marcel Santilli:** Like, so a failure mode of the model might be, it doesn't know, like, it's pulling the wrong examples, or it's saying a thing in a way that it's really bad for the audience, or it's positioning a claim as a medical claim that can be great legal liability for them.
+
+**Marcel Santilli:** Yeah, yeah, yeah, yeah, yeah.
+
+**Marcel Santilli:** This can be, like, the failure modes, right?
+
+**Marcel Santilli:** Or it's making up code that doesn't actually work in production, like, you know.
+
+**Marcel Santilli:** And that's kind of, like, what we're trying to try to figure out, right?
+
+**Marcel Santilli:** Like, so all of that to essentially, like...
+
+**Gianpiero Puleo:** And you can, you can use the, you can use the customers themselves, even unknowingly, for this.
+
+**Gianpiero Puleo:** Yeah.
+
+**Gianpiero Puleo:** Because, like...
+
+**Gianpiero Puleo:** When you deploy some of this at scale, for example, let's say for search, and you start like outputting stuff, let's say something like the blog post that you show me or that letter, and even just the fact that let's say Edwin or another employee says, this is good, but in a formalized way, like, you know, check or like thumbs up, then you can actually feed that back in fine tuning the model itself if you wanted to deploy a model specifically for that company.
+
+**Gianpiero Puleo:** And so they can't do annotation for you, even for the failure modes and for the success modes as well, just by using the content.
+
+**Marcel Santilli:** Exactly, exactly.
+
+**Marcel Santilli:** And so, so then today, like, I think like, what is really, really valuable right now is what's really hard today is like, I'm going in perplexity, I'm going in madness, I'm going in this, I'm doing research, right?
+
+**Marcel Santilli:** then, then I'm grabbing all that information.
+
+**Marcel Santilli:** And I don't, I have some way.
+
+**Marcel Santilli:** But it's like the ideal scenario would be like you almost have these workflows that then go grab all those contexts, right?
+
+**Marcel Santilli:** And they're just like creating like an universe of context, you know, that it just helps.
+
+**Marcel Santilli:** And a huge part of this input is transcripts, by the way.
+
+**Marcel Santilli:** Like transcripts, the last three weeks just became like our biggest unlock on making things amazing.
+
+**Marcel Santilli:** It's just like, you know.
+
+**Gianpiero Puleo:** You mean, you're talking about, sorry, transcripts from actual meetings with clients.
+
+**Marcel Santilli:** Yeah.
+
+**Gianpiero Puleo:** Like that sort of transcript.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So like one of the things we do is like for a lot of these clients is like we're going and saying like, so like Engine, for example.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** We go through it and then after we do all these artifacts, I create a custom like project in Cloud and then we take the transcript of the first meeting and then we say, hey, process it into what we heard and then we go through it with them.
+
+**Marcel Santilli:** But like this is very summarized and just make sure we heard everything correctly.
+
+**Marcel Santilli:** do.
+
+**Marcel Santilli:** You
+
+**Marcel Santilli:** And then we'd go and reprocess all the artifacts from Based on that, yeah.
+
+**Marcel Santilli:** You know, and so it's almost like kind of this reinforcing thing where it's like you start with basic research, you start with just what you have, you've created enough artifacts that are good enough to just like set the agenda and the questions you want to ask in the kickoff.
+
+**Gianpiero Puleo:** And then during the kickoff, you ask really good And then you keep refining constantly.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Gianpiero Puleo:** This, like I I'm trying to also connect some dots with discussions that I had with Daniel.
+
+**Gianpiero Puleo:** This, I guess, is then what would feed into the certain knowledge base concept that we have.
+
+**Gianpiero Puleo:** When we start developing like a knowledge base, for example, for a client, everything that you say as we refine it, it will probably refresh and feed into the knowledge base.
+
+**Marcel Santilli:** Yeah, like so the way I kind of think about it is like a library of 900 transcripts and all the docs they ever sent us, like that's the knowledge base, right?
+
+**Marcel Santilli:** Almost like the raw knowledge base.
+
+**Marcel Santilli:** But then the artifacts are the still outputs that then become the inputs in the context, right?
+
+**Gianpiero Puleo:** But that I think to me, if I'm thinking more from the client perspective, that is the knowledge base.
+
+**Gianpiero Puleo:** That's what I care about because I got plenty of ways already to store the raw data.
+
+**Gianpiero Puleo:** I don't need more.
+
+**Gianpiero Puleo:** In fact, actually, if I imagine this rolled out, I would even tell you, sure, keep it on Google Drive.
+
+**Gianpiero Puleo:** Sure, keep it on Gleam, wherever.
+
+**Gianpiero Puleo:** It doesn't matter to us because what we add uniquely is that layer of distilled knowledge.
+
+**Gianpiero Puleo:** That's what's proprietary to us.
+
+**Gianpiero Puleo:** You're right.
+
+**Marcel Santilli:** You're right.
+
+**Marcel Santilli:** But keep in mind, then when you're in production and you're actually creating things, then you actually do need to go fetch the knowledge from these things.
+
+**Gianpiero Puleo:** Oh, 100%.
+
+**Gianpiero Puleo:** I'm saying that those become more like connectors.
+
+**Gianpiero Puleo:** Like, you want to keep it on everything on Google Drive or Microsoft, whatever version, whatever the alternative is for Google Drive?
+
+**Gianpiero Puleo:** Like, essentially, I don't think, like, I don't think, again, I'm not just thinking out loud with you, Marcel, I don't know enough about the business, but it's like the storage itself is really, like, we could do it, but it becomes like actually asking clients, like, keep your documents in yet another place.
+
+**Gianpiero Puleo:** Whereas instead, we can even, we can be even smoother and say, you keep your documents or you keep your documents, we'll go get them from there.
+
+**Gianpiero Puleo:** But then our knowledge base sort of builds on that.
+
+**Marcel Santilli:** Yeah, like, that's fair.
+
+**Marcel Santilli:** But I would say, like, I think from a business perspective, though, like, like, Aerofs had the knowledge base, whatever, right?
+
+**Marcel Santilli:** Like, how you vectorize that, and then how you, how that unlocks different ways to retrieve it is, like, really, really important.
+
+**Marcel Santilli:** Right?
+
+**Gianpiero Puleo:** How you chunk it, how you process
+
+**Marcel Santilli:** That's it, you know, and so we want to do, like, for instance, like Airbyte right now, they're like, hey, we have like all of Gong, Engine.com is like, hey, we have a bunch of Gong calls.
+
+**Marcel Santilli:** Like, all these companies are like, hey, we have a lot of calls, and there's like a sea of insights that can enrich our articles, but also give us ideas and also like help you generate artifacts.
+
+**Marcel Santilli:** And we want it, we want a place to have them all that is not Gong, because Gong sucks, essentially.
+
+**Gianpiero Puleo:** But they want to keep, what they want is literally we want a place to keep everything that is the raw output of that?
+
+**Gianpiero Puleo:** No, they want to process so that it can be used without them having to tell us how to use it, right?
+
+**Gianpiero Puleo:** Yeah, exactly.
+
+**Gianpiero Puleo:** And that's what I'm saying, like, because I'm assuming that if they use Gong, it is because they like using it for, not for the output itself, but more for like, it's a good way to collect that raw input for them.
+
+**Gianpiero Puleo:** Yep.
+
+**Gianpiero Puleo:** And then what I'm saying is, for us, we-
+
+**Gianpiero Puleo:** And we can pick, like, okay, let's take everything from Gong and dump it into our own storage, or let's write a connector from Gong.
+
+**Gianpiero Puleo:** So, like, if you're using Gong, then it's like, we go and get your stuff from there.
+
+**Marcel Santilli:** So you don't even need to care But you still get the stuff, essentially, right?
+
+**Marcel Santilli:** Absolutely, 100%.
+
+**Gianpiero Puleo:** Like, we need access to the raw stuff.
+
+**Gianpiero Puleo:** I'm just suggesting that we don't care about storing it, and we don't want to ask the clients to...
+
+**Gianpiero Puleo:** Because, again, like, right now we do it for them, so who cares?
+
+**Gianpiero Puleo:** Like, go collect the stuff, and we store it.
+
+**Gianpiero Puleo:** But in a world where it's kind of like self-service, we don't want them to ask to duplicate, like, okay, you know everything they have in Gong, take it, and regularly dump it into this other thing, because we need it to process our knowledge base.
+
+**Gianpiero Puleo:** Instead, it's like, no, we just grant us access with our connector, and it's going to be part of our knowledge base.
+
+**Marcel Santilli:** Yeah, and, like, so I think, like, going back to the flow, right?
+
+**Marcel Santilli:** I think you're right.
+
+**Marcel Santilli:** And so then going back to the flow, I think, like, for me, the thing that...
+
+**Gianpiero Puleo:** So that's one thing that we should change, growthx.ai, login.
+
+**Marcel Santilli:** Okay, so then, like, when I look at some of these, well, this looks up.
+
+**Gianpiero Puleo:** Yeah, now group them in folders.
+
+**Marcel Santilli:** Yeah, that's cool.
+
+**Marcel Santilli:** Like, when I think about this, right, a lot of times, like, what I'm doing in Claude, it's almost like, hey, I have these artifacts already for this client, right, and for this project.
+
+**Marcel Santilli:** Now I want to grab some of these, and I kind of want to, like, shape what I want to do, you know, I want to shape the process.
+
+**Gianpiero Puleo:** I don't want to, like, and I don't know what the right You don't want to use the deep search.
+
+**Gianpiero Puleo:** The deep
+
+**Gianpiero Puleo:** Research Assistant Flow, you want to be able to build your version of the Research Assistant Flow specifically for that client because it's specific to how you want to do research for them.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** But then the thing is, you almost have these things.
+
+**Gianpiero Puleo:** Let me give you an example.
+
+**Marcel Santilli:** This is a start, and then it generates the questions.
+
+**Gianpiero Puleo:** Right?
+
+**Gianpiero Puleo:** Yeah.
+
+**Marcel Santilli:** It's great.
+
+**Marcel Santilli:** But then I want to shape things, for instance, like, hey, really quickly, okay, so the questions, here's the questions I'm thinking.
+
+**Marcel Santilli:** And then I want to take the context of what I have over here and be like, okay, what other questions do you think should be good here?
+
+**Marcel Santilli:** Okay, cool, yeah.
+
+**Marcel Santilli:** And then you're like, okay, now I have the questions, right?
+
+**Marcel Santilli:** The types of questions I want to ask, right?
+
+**Marcel Santilli:** And then it's like, now, like, go process these questions and go find information for them.
+
+**Marcel Santilli:** But by the way, look for these sources and go really heavy on these sources.
+
+**Gianpiero Puleo:** I want you to go really heavy on YouTube videos.
+
+**Marcel Santilli:** I want you to go really heavy on podcasts.
+
+**Marcel Santilli:** I want you to go...
+
+**Marcel Santilli:** Really heavy on Reddit that talk about how skill.ai is a .
+
+**Marcel Santilli:** Like, you know, like, you know what mean?
+
+**Gianpiero Puleo:** Yeah, yeah.
+
+**Marcel Santilli:** And so it's kind of like, kind of like that level of shaping a little bit.
+
+**Gianpiero Puleo:** It's too rigid this way for you.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then like once it's created once, then like you can kind of like deploy and then everyone else is going to use it the same way.
+
+**Gianpiero Puleo:** Kind of like.
+
+**Gianpiero Puleo:** But when you say everyone else, that is for that client.
+
+**Marcel Santilli:** Our teams, right?
+
+**Marcel Santilli:** So like once I've done it like then, like, so for instance, like the process I created with the artifacts now, the entire strategy pod team is using it exactly as this.
+
+**Marcel Santilli:** Like they go and applaud, they set up an editor-in-chief project, they do this, this, this, and this, and then they create these artifacts.
+
+**Marcel Santilli:** They create a separate project and put those artifacts there.
+
+**Marcel Santilli:** Then they ask this prompt, you know, specifically, like they go here, they go into like, and then they say, okay, this is the prompt.
+
+**Marcel Santilli:** Like this is the prompt.
+
+**Marcel Santilli:** Let research, put this in there.
+
+**Marcel Santilli:** Okay, now take that and then do now research 100 quotes and then do this.
+
+**Marcel Santilli:** And then like now find the style.
+
+**Marcel Santilli:** And then once you find the authors that make sense, then you pick which ones are the closest to what you want to do.
+
+**Marcel Santilli:** And then you do this and now you create the writing guidelines from this, right?
+
+**Gianpiero Puleo:** But then Marcel, I just want to understand, I want to make sure they understand like the nuance of what you're saying.
+
+**Gianpiero Puleo:** So if you look at, for example, the deep research flow as it is right now, like I understand this is essentially like, for lack of a better description, this is too simple.
+
+**Gianpiero Puleo:** Like it doesn't really capture what you need because like you have like actually more steps, more inputs, et cetera.
+
+**Gianpiero Puleo:** But as a user of flow, like are you imagining that you simply want to be able to build another version of deep research, of the deep research flow?
+
+**Gianpiero Puleo:** Or like that in of itself, like you think flow should allow you to shape your own.
+
+**Gianpiero Puleo:** Because what you described, for example, for the strategy sprint, we could go in now and create a new work, automated workflow that does exactly that.
+
+**Gianpiero Puleo:** With exactly the steps that you want.
+
+**Gianpiero Puleo:** But I guess what you want is you want to be able to do it yourself from flow.
+
+**Marcel Santilli:** Yeah, it's almost like, like, I want to do things like maybe things like this, but then I wanted to already have the context, some level of context already when I'm shaping, right?
+
+**Marcel Santilli:** So it's not like a blank thing with no context.
+
+**Marcel Santilli:** And I think, like, I want to have more input on this, you know, because like, they just go off for 20 minutes.
+
+**Gianpiero Puleo:** And it's just like, .
+
+**Gianpiero Puleo:** Yeah, I think you want to understand, you want to shape the, you want to shape the workflow itself.
+
+**Gianpiero Puleo:** Because then, like, what you're saying is also, like, then everybody's going to use it that way.
+
+**Gianpiero Puleo:** And that is true, because we are one company.
+
+**Gianpiero Puleo:** But I guess the point is, if you spin up another company that also does strategy sprints, but for whatever reason, I don't know, they don't do it in the content space, they do it for e-commerce, then you might actually have a different version of that flow for them.
+
+**Gianpiero Puleo:** But then once you shape it, then they go and run it.
+
+**Marcel Santilli:** The way to kind of think about it is almost like atomic design, right?
+
+**Marcel Santilli:** And so it might be slightly different.
+
+**Gianpiero Puleo:** It might ask more questions, different types of questions.
+
+**Marcel Santilli:** The output of those questions can be different.
+
+**Marcel Santilli:** Where you fetch the answers to those questions might be different.
+
+**Marcel Santilli:** But then this as a thing...
+
+**Gianpiero Puleo:** You want the right building blocks.
+
+**Marcel Santilli:** Exactly.
+
+**Gianpiero Puleo:** like deep research is a good building blocks.
+
+**Marcel Santilli:** Processing transcripts is a good building blocks.
+
+**Gianpiero Puleo:** A deep research for me, what you're telling me now, or what I'm hearing at least, is that deep research is too...
+
+**Gianpiero Puleo:** So it's too big of a building block for you, like a good building block for you, and again, I'm spitballing it, but a good building block for you is the question block, because then you can compose, you want one question, or you want 20 questions for this step, and for each question is like, what inputs do you want, and what outputs do you want?
+
+**Gianpiero Puleo:** And it sounds for me like your, to your point in atomic design, like your atoms are different.
+
+**Gianpiero Puleo:** They are sort of questions, they are, I mean, I would have to work with you on defining what they are, but essentially those Lego pieces right now, they're big for you, because deep research, you can't use it as is.
+
+**Gianpiero Puleo:** It's just, like, yes, it kind of makes sense that you want to do deep research, but what you really want is to go in and say, yes, I do want to do deep research, but I want to ask different questions, I want to ask more questions, I want to actually kind of, like, do these other things.
+
+**Marcel Santilli:** That's what I'm interested in.
+
+**Marcel Santilli:** Yeah, and it's kind of like, yeah.
+
+**Marcel Santilli:** I don't know what the right experience is.
+
+**Marcel Santilli:** I just know that when I was building workflows, the outputs became really good, but they became really good because I was playing with inputs, hitting play, tweaking the thought processes, hitting play again, and then taking that and going and building the next block and the next block and the next block, except that experience became hard to maintain.
+
+**Marcel Santilli:** But if you had that similar experience in a more intuitive way, where at the end, it's a pattern, and you don't need to maintain it ever again, then it's a lot easier.
+
+**Marcel Santilli:** It's almost like, okay, so imagine this, right, or this execution.
+
+**Marcel Santilli:** And then imagine when I click here, there's a prompt here, and I'm like, actually, make these questions more like this.
+
+**Marcel Santilli:** And then it's like, it's this entire block.
+
+**Marcel Santilli:** And then it's like, hey, and then there's like a generic one.
+
+**Marcel Santilli:** That's just like, hey, this flow is good, but let's rethink this flow to be more focused on this or that.
+
+**Marcel Santilli:** Or, hey, I want to pull different artifacts here or whatever.
+
+**Marcel Santilli:** So you can almost control it at that level, but then be able to go deeper really quickly.
+
+**Marcel Santilli:** But be able to go deeper really quickly with an assistant that has the full context of what you're building and the full context of the artifacts in some ways.
+
+**Marcel Santilli:** You know, so it's vibrant to me, but like, I don't know, like, have you ever played with Tempo, for example?
+
+**Marcel Santilli:** So Tempo is kind of interesting because you're just kind of like, hey, you're building this thing, but then you have the PRD, the design, and the code.
+
+**Marcel Santilli:** And I haven't spent so much time here, right?
+
+**Gianpiero Puleo:** What does it do?
+
+**Gianpiero Puleo:** Sorry, I do not know this tool.
+
+**Marcel Santilli:** that to build websites?
+
+**Marcel Santilli:** coding, but instead of by coding, like lovable, it's like you start with the PRD, and then there's...
+
+**Gianpiero Puleo:** Yeah, it's kind of like a bit of a process as opposed to just kind of build me this.
+
+**Gianpiero Puleo:** Like, yeah, okay, gotcha.
+
+**Marcel Santilli:** Yeah, and so like in some ways, it's kind of like this is a little too complex.
+
+**Marcel Santilli:** But that's a little bit of what we're doing.
+
+**Gianpiero Puleo:** Have you tried Relay?
+
+**Marcel Santilli:** Yeah, I played Relay a while back, but I haven't used it in a while.
+
+**Gianpiero Puleo:** But is it a really good experience now?
+
+**Gianpiero Puleo:** Well, I don't know if I would call it really good, but I think it's kind of closer to what you're describing.
+
+**Gianpiero Puleo:** Okay.
+
+**Gianpiero Puleo:** And I think it would be good to get it as an inspiration point in terms of, like, do we want to take anything from here?
+
+**Gianpiero Puleo:** Because the one thing that I think we should reconcile, though, is that they definitely went the no-code route.
+
+**Gianpiero Puleo:** And I know that Daniel, for example, feels strongly that we want to do the code route.
+
+**Gianpiero Puleo:** But then, if we go too deep into the code route, then it's going to be very difficult, for example, for you, let's say, to really go in and tinker the way that you want. Or actually, not you specifically, because I understand that you're pretty technical, but we can't expect that from every single customer that we're going to have.
+
+**Gianpiero Puleo:** And so one thing that I remember, but I don't know if we want to go that route, is some work that I did at Splunk, we had a similar challenge, obviously a completely different domain.
+
+**Gianpiero Puleo:** But essentially, Splunk had their own domain-specific language for scripting, and it was so complicated.
+
+**Gianpiero Puleo:** To be honest, it isn't that it's not complicated, it's more it's proprietary.
+
+**Gianpiero Puleo:** So either you learn it or you don't know it.
+
+**Gianpiero Puleo:** And so what you would have is like, yeah, like the IT manager in the organization knows how to use it, then everybody else needs to go to the IT manager to do it.
+
+**Gianpiero Puleo:** And then we developed this sort of like dual experience where you can switch between code and UI, but it's like it's always two ways.
+
+**Gianpiero Puleo:** Like if you do something on the UI, it's reflected in code, and if you do it in code, it's reflected.
+
+**Gianpiero Puleo:** And essentially, like, then people with different levels of technicality can decide how they want to do it.
+
+**Gianpiero Puleo:** So in your case, for example, you could do everything in the UI, but then when you reach the limit for what you can do in the UI, can switch to code and sort of, like, put the finishing touches there or vice versa.
+
+**Gianpiero Puleo:** And I wonder if maybe that's where we want to kind of sit with our product.
+
+**Marcel Santilli:** Yeah, like, I think it's like, I don't know, it's like, I don't think that far.
+
+**Marcel Santilli:** Like, I think if we think about, like, the concept of, like, building a flow, right?
+
+**Marcel Santilli:** The way I kind of was thinking about it, like, maybe even, like, to keep it even simpler, right?
+
+**Marcel Santilli:** It's understanding, like, if you build semantic understanding on both this level right here and then this level right here, which is just a little bit better than...
+
+**Gianpiero Puleo:** That's kind of right.
+
+**Marcel Santilli:** Like, you look at this, like, this doesn't, like, go into, like, the, like, let's just riff on this.
+
+**Gianpiero Puleo:** On the code side, I agree.
+
+**Marcel Santilli:** It's more that from here, you don't have any way to go and make changes to this.
+
+**Marcel Santilli:** Yeah, but, like, but just, like, bear with me for a sec.
+
+**Marcel Santilli:** Just, like, riff on this really quickly.
+
+**Marcel Santilli:** Okay, so, so imagine, like, you have something like this.
+
+**Marcel Santilli:** Here's a workflow that is a deep researcher, and I want to understand what is the different use cases, how this could be used, and help me build more semantic and deeper understanding of what this is.
+
+**Marcel Santilli:** Like, I don't know, like, some version of this, right?
+
+**Marcel Santilli:** Like, I bet you, like, that alone.
+
+**Marcel Santilli:** Probably give you, like, more context, right?
+
+**Marcel Santilli:** Like, let's just play with this for a sec, right?
+
+**Gianpiero Puleo:** Yeah.
+
+**Marcel Santilli:** And then, like, then the idea is, like, okay, this is already, like, better, right?
+
+**Gianpiero Puleo:** Yeah.
+
+**Marcel Santilli:** Obviously, like, the use cases are going to be garbage or whatever, right?
+
+**Marcel Santilli:** Then you can say, okay, now take each step in this workflow and describe it further in detail so that an AI system knows how to use the sub-steps within this workflow, right?
+
+**Marcel Santilli:** Like, and then, like, now you're creating kind of the semantic understanding, right?
+
+**Marcel Santilli:** Like, and now it's just, like, a retrieval thing, right?
+
+**Marcel Santilli:** Pretty much, where it's just, like, you're trying to come up with a plan, and then you're taking the plan and going against this catalog of patterns or blocks that, Which would be the atoms that we talked about before, though.
+
+**Gianpiero Puleo:** Exactly.
+
+**Gianpiero Puleo:** Like, how can you compose these pieces in a way that...
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** But then, as you go into this, you can start to go even deeper, where it's just like, hey, question types to generate, right?
+
+**Marcel Santilli:** And now you can have a whole other workflow that's just creating really good  questions that are way better positioned questions that you can tap into.
+
+**Marcel Santilli:** So even at that granularity level, which is like, almost at the prompt level, you're like, hey, let's have these mini prompt generator workflows that just like, go fetch, what are the right questions to ask here based on this context, right?
+
+**Marcel Santilli:** Like, and so it's not just like, you're going to use that.
+
+**Marcel Santilli:** There's also on the prompt level as well.
+
+**Marcel Santilli:** And so I see, I see.
+
+**Marcel Santilli:** That makes sense.
+
+**Marcel Santilli:** So then, like, what's missing to me in something like madness, like madness is  impressive as hell, right?
+
+**Marcel Santilli:** But what's missing to me is like, when I put something here, and it goes off and does a bunch of things, it's like, it lacks like this, like, like, understand, deeper understanding of the knowledge work.
+
+**Marcel Santilli:** That I'm into and like how to perform that where it really is decomposed in first principles, right?
+
+**Marcel Santilli:** Like, so let me give an example that Serge gave us, right?
+
+**Marcel Santilli:** Like, so they were looking at tweets and trying to figure out which tweets were like toxic or bad, right?
+
+**Marcel Santilli:** Or whatever, right?
+
+**Marcel Santilli:** Or offensive.
+
+**Marcel Santilli:** And so then it's like, if you hired a PhD in sociology or something, right?
+
+**Marcel Santilli:** Like, and they see a tweet and the tweet said like,  you, man.
+
+**Marcel Santilli:** It's like, it completely like thinks it's like offensive, right?
+
+**Gianpiero Puleo:** Like, oh, you're a bad .
+
+**Gianpiero Puleo:** Like, it's offensive, right?
+
+**Marcel Santilli:** Like, like if you hire a meme lord kind of person, like the term, that's cool.
+
+**Marcel Santilli:** You know, they'll be like, they know that that's like, you know, that's actually different, you know?
+
+**Marcel Santilli:** And so, so it's kind of like that, that's the thing that's missing, I think, from these systems.
+
+**Marcel Santilli:** It's like, they try to do it at such a shallow level.
+
+**Marcel Santilli:** And then when you get into knowledge work and you do these.
+
+**Marcel Santilli:** Little things that I did, and then you hit magic, you're like, , that's so good.
+
+**Marcel Santilli:** But it was good because, like, not because I wrote the question the best way possible, but I just knew what question to ask.
+
+**Marcel Santilli:** And I knew how to, like, connect those dots, and I knew where to go find that information and things like that.
+
+**Marcel Santilli:** And so we're trying to, like, figure out.
+
+**Gianpiero Puleo:** it's not, it's not.
+
+**Marcel Santilli:** Oh, there you I lost your audio.
+
+**Gianpiero Puleo:** I think my headphones are dead.
+
+**Gianpiero Puleo:** But it's not the prompting, because the prompting is more the how.
+
+**Gianpiero Puleo:** Like, for example, what you were showing me, let's say there is the first question about what to know about Edwin.
+
+**Gianpiero Puleo:** Like, the prompt can help you ask that question in a way that is going to give you a good result with the LLM.
+
+**Gianpiero Puleo:** But the fact that you know you should ask that question, and that's the right question to ask, that is still coming from you.
+
+**Gianpiero Puleo:** And the LLMs don't have that yet.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah, and so in some ways, it's kind of like, so...
+
+**Marcel Santilli:** So going back to this experience, right?
+
+**Marcel Santilli:** So imagine like I'm here and I say like, you know, like some version of like, hey, I want to do research on, you know, like my plan is I want to create context for this company.
+
+**Marcel Santilli:** This is a company of all of lot or whatever, like or some version of that.
+
+**Marcel Santilli:** Or I want to create a workflow that does research companies, right?
+
+**Marcel Santilli:** Then it can kind of come in here and hopefully like find some versions of this.
+
+**Marcel Santilli:** But then at this level where it starts to generate the questions, it's like it has a little bit more understanding of like kind of similar to this, right?
+
+**Marcel Santilli:** Like where it's just like, okay, so where is it?
+
+**Marcel Santilli:** Okay, like generate research questions, purpose, transform initial topic into specific research questions that comprehensively cover the subject.
+
+**Marcel Santilli:** Okay, types of questions, blah, blah, blah, criteria, right?
+
+**Marcel Santilli:** Like then it can almost like pull this in and see like, hey, these are the types of questions.
+
+**Marcel Santilli:** And that we've seen historically are good questions based on the context I have here, right?
+
+**Marcel Santilli:** Like, let's work through this.
+
+**Marcel Santilli:** And then I can almost like take this as an artifact and be like, hey, actually like do this, this, and this.
+
+**Marcel Santilli:** I think these questions, blah, blah, blah, are not great, you know, like, and then you're like, okay, cool.
+
+**Marcel Santilli:** Now, okay, now let's keep going, right?
+
+**Marcel Santilli:** Okay, this is the next step in the step, right?
+
+**Marcel Santilli:** And so being able to go from plan, refining the plan, to then doubling down on the plan, to then like re-ordering the plan, then like actually refining the plan so that it's actually like at the prompt level, and then tweaking the inputs.
+
+**Marcel Santilli:** How do we make that experience so that it feels more like a chat, more like a, but then it's like.
+
+**Gianpiero Puleo:** Yeah, it's kind of like this, really, right?
+
+**Gianpiero Puleo:** It's like this, but with the chat a little bit more, I think, you know?
+
+**Gianpiero Puleo:** Well, yeah, chat for sure, like, but either way, what I'm hearing from you is that.
+
+**Gianpiero Puleo:** Sure, this can be the starting point, but then I don't have a way to actually iterate on this in a meaningful way, leveraging, in fact, as much as possible, like the LLM itself.
+
+**Gianpiero Puleo:** Yeah, that makes sense.
+
+**Marcel Santilli:** I think that's the big vision.
+
+**Marcel Santilli:** I think the true MVP here is just the ability to be able to almost vibe code it a little bit.
+
+**Marcel Santilli:** So it's like, if you think about like, you know, like even Cursor, the fact that I can, you know, Kirkland can respond to a thread and say, do this, and it just does it, you know?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then the only difference is like, you know, if I'm a normal user, I don't know what I'm looking at here as much, right?
+
+**Gianpiero Puleo:** Yeah, you wouldn't go in here, yeah.
+
+**Marcel Santilli:** It's just translating this in a way that's more presentable, right?
+
+**Marcel Santilli:** So that you can kind of like tweak this.
+
+**Marcel Santilli:** But if like, if this was just a markdown and like, you don't need to see this.
+
+**Marcel Santilli:** You know, like then I can just add the markdown and there's a processor between, you know, this and that.
+
+**Marcel Santilli:** Then I think like we were not that far from this plan, you know.
+
+**Gianpiero Puleo:** Yeah, markdown for that is something that I suggested to Daniel because I think it's a good sweet spot for technical and non-technical people.
+
+**Gianpiero Puleo:** Because it's structured enough that we can translate it into code, but it's natural enough that non-technical people can just learn how to go in there.
+
+**Gianpiero Puleo:** The other thing that I would say is that my mind now, based on what you described to me, keeps going into those smaller building blocks.
+
+**Gianpiero Puleo:** Yeah.
+
+**Gianpiero Puleo:** Because I can see like now I'm going maybe a little bit too far in there, but like let's say that we have a question building block.
+
+**Gianpiero Puleo:** And then for each building block, you have a set of parameters.
+
+**Gianpiero Puleo:** There are four DLLM, but you don't need to know them as a, as a user, but it's more like, what's the purpose of this block?
+
+**Gianpiero Puleo:** What are, where do you go and get examples of this block?
+
+**Gianpiero Puleo:** And all of that, so that then the LLM can actually recommend to you which blocks to use.
+
+**Gianpiero Puleo:** Like if you're iterating in there on the deep research, for example, and you say like, Hey, I want to ask better questions.
+
+**Gianpiero Puleo:** The LLM will have its catalog of building blocks and say, we could use a bunch of these blocks.
+
+**Gianpiero Puleo:** And here's some good questions that we could ask, like for this particular step.
+
+**Gianpiero Puleo:** And you can keep everything in the conversation in there.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** And okay.
+
+**Marcel Santilli:** So, so I wanted to just show you this really quickly.
+
+**Marcel Santilli:** I think this is like, so here, I said this, right?
+
+**Marcel Santilli:** First of all, this doesn't have context on me.
+
+**Marcel Santilli:** So by this point, it should have already had context on me, which is the artifacts.
+
+**Marcel Santilli:** We created, right?
+
+**Marcel Santilli:** Like, so assuming it has artifacts on me, right?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** The fact that it did this and didn't even think to add.
+
+**Marcel Santilli:** Any clarifying questions, this is stupid, I should spend 30 minutes on this, then it took this, and it just created a markdown file called todo, which is kind of genius, that's what I'm saying, markdown can do so much, it just went and executed this, but there's no way it's going to get every one of these steps right, and it's going to go on for 20 minutes and spend all this compute and all this stuff, it's going come up with like, you know, it's impressive, like the fact that it's grabbing all these URLs already, and doing all these things.
+
+**Gianpiero Puleo:** Yeah, it can, it can be right the first time around, and so then you want.
+
+**Marcel Santilli:** but it's not useful, you know what I mean?
+
+**Marcel Santilli:** Unless you, you know how to put the plan together, and you prompt it the right way, and you tell it to don't  go off on your own, and you know where to stop it, and you're here babysitting it, but that's not, that defeats the purpose, right?
+
+**Marcel Santilli:** For sure, yeah, yeah, So, anyways, like, this is, I think, not a bad experience here, it's just like, how do we take ...
+
+**Marcel Santilli:** And this experience feels more like, the way it's browsing right now, feels a little bit more like it's the workflow generation, and then you can modify at this level, and then you can modify it, like, at, you know, like, this level too, you know, a little bit, you know.
+
+**Marcel Santilli:** Yeah, makes sense.
+
+**Marcel Santilli:** But I also don't want to overcomplicate it either, you know.
+
+**Gianpiero Puleo:** No, I think, you know, at this point, it needs a little bit more complexity, but yeah, we need to balance it.
+
+**Gianpiero Puleo:** And yeah, this was super useful, Marcel.
+
+**Marcel Santilli:** Thank you.
+
+**Marcel Santilli:** I appreciate it.
+
+**Marcel Santilli:** Yeah, I'm super excited.
+
+**Marcel Santilli:** One last thing I'll just say, just so that it's in the back of your mind.
+
+**Marcel Santilli:** So, okay, so one of the things that made, I think, Search and others, like, do really well, and not need, you know, thousands and thousands of people to manage, a network of 100,000 humans.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** That they, they were just, like, collecting every  signal and everything, man.
+
+**Marcel Santilli:** And so, so, so, like, there's, like, two ways you can approach a problem, right?
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So most people, when they approach data labeling, it's a very linear thing.
+
+**Marcel Santilli:** You can throw anyone breathing, and eventually you can get to the final output if you just throw enough processes at it.
+
+**Marcel Santilli:** It's the workflow mentality only.
+
+**Marcel Santilli:** And then Serge and others were like, okay, actually, I know that if I just optimize for the wrong objective, we're .
+
+**Marcel Santilli:** And so if I optimize for clicks, I get bad behavior.
+
+**Marcel Santilli:** And so what I want to do is I need to understand you as a user, which means I need to collect the right signals.
+
+**Gianpiero Puleo:** I need to figure out how to evaluate you.
+
+**Marcel Santilli:** need to figure out a...
+
+**Marcel Santilli:** So in a lot of ways, the signals and the evaluations of these things and of the humans intervening and things like that are just as important.
+
+**Marcel Santilli:** For sure.
+
+**Marcel Santilli:** Because there's no way to do this without that.
+
+**Marcel Santilli:** So I think that's something we need to really, really figure out from the beginning.
+
+**Marcel Santilli:** It's like...
+
+**Marcel Santilli:** like...
+
+**Marcel Santilli:** How get the right inputs?
+
+**Marcel Santilli:** How do you get the right context?
+
+**Marcel Santilli:** Create the right experience?
+
+**Marcel Santilli:** Sure.
+
+**Marcel Santilli:** But also, like, how do we evaluate these things?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** For instance, right?
+
+**Marcel Santilli:** In labeling, they have this signal, which is like, are people copying and pasting  over it?
+
+**Marcel Santilli:** And if they are, like, it's a signal that they're not actually doing the test, right?
+
+**Marcel Santilli:** Like, or whatever, like mouse movement and things like that.
+
+**Marcel Santilli:** In this case, it's like, you know, how do we collect the signals that it's like, hey, there is almost like this, it exceeded this bar of confidence level, you should stop and ask questions, you know, kind of thing, you know, like, so these like traffic controllers, in self-driving, it's like, there's the controls, you know, and like the controls, like, they determine if you're going to slam the brakes or not, right?
+
+**Marcel Santilli:** Or the determinant, like, it needs to be escalated to something or whatever, you know, and I feel like these systems are just really bad of knowing, like, they're just like arrogant and then pricks.
+
+**Marcel Santilli:** That think they know everything, but they're like the overconfident interns, you know, like, it's like, dude, you're an intern, you don't know , ask questions, like, you know, don't just go off on your own, you know.
+
+**Gianpiero Puleo:** Yeah, that's why I keep having to tell both Claude and GPT, like, like you said in the prompt, like the only way that I found right now to do it is in prompting.
+
+**Gianpiero Puleo:** Like I need to literally, as you said, babysit them and say like, no, like, don't go into code net, like, like, just ask more questions, ask more questions in this area, then they do a good job.
+
+**Gianpiero Puleo:** But the process is a bit tedious, and definitely taking longer than it should.
+
+**Marcel Santilli:** Yeah, yeah, exactly.
+
+**Marcel Santilli:** And then, sorry, one last thing.
+
+**Marcel Santilli:** So we need to think about the human interventions in these steps, and what kind of interventions there are, and how do you evaluate these human interventions, right?
+
+**Marcel Santilli:** Like, so for instance, like, there's this area where you come back with an output of a research brief, let's say, right?
+
+**Marcel Santilli:** It's just like, okay, like.
+
+**Marcel Santilli:** But before that, maybe the human intervention is like the questions, right?
+
+**Marcel Santilli:** And so then like when you're formulating the workflow, you know, at first it can just be a manual thing where I say, this is where I want the human intervention.
+
+**Gianpiero Puleo:** Sure.
+
+**Marcel Santilli:** You want to create a like, what kind of intervention?
+
+**Marcel Santilli:** Is it just like approving or rejecting?
+
+**Marcel Santilli:** Is it providing a comment and then rerunning that step?
+
+**Marcel Santilli:** Is it like a completely open-ended with some instructions?
+
+**Marcel Santilli:** Is it, you know, like ordering them, selecting which ones to keep, which ones to leave, right?
+
+**Marcel Santilli:** Like, and like the more we standardize that, then there's like human intervention.
+
+**Marcel Santilli:** Then there's like a way to figure out if this one requires human intervention or not, what kind of intervention, how do you create the instructions for the interventions, and how do you take the input back from those interventions?
+
+**Marcel Santilli:** What do you do with those inputs essentially, you know?
+
+**Marcel Santilli:** Although it might not be an MVP thing, it's one that's like super critical because if we solve for that, then the interaction between workflows and the humans like operating them, not the humans are architecting, the refiners.
+
+**Marcel Santilli:** It becomes a lot easier to manage over time, you know.
+
+**Gianpiero Puleo:** That makes sense.
+
+**Gianpiero Puleo:** And the only thing that I would add on top of that is, like, right off the bat, I know that it feels like some of these things are not MVP.
+
+**Gianpiero Puleo:** But I think in some of our, like, strategy work or offsites, like, at some point, I think maybe some of them will bubble up as a differentiator.
+
+**Gianpiero Puleo:** Like, I don't know yet what they are.
+
+**Gianpiero Puleo:** But, like, if you get to a point where maybe some of our competitors are doing, like, a similar thing and, like, making that bit of the experience, like, smoother because we understand you better is actually a differentiator.
+
+**Gianpiero Puleo:** They become, like, more important than MVP.
+
+**Gianpiero Puleo:** Like, right now, obviously, we're still a functional level.
+
+**Gianpiero Puleo:** I understand that.
+
+**Gianpiero Puleo:** But I think it's not too far down the line that we're going to have to pick some of these and kind of be opinionated about how we want the thing to work.
+
+**Marcel Santilli:** Yeah, I agree, man.
+
+**Marcel Santilli:** Well, I appreciate it.
+
+**Gianpiero Puleo:** No, thank you.
+
+**Marcel Santilli:** I appreciate it.
+
+**Marcel Santilli:** need anything, inputs or anything, this is fun for me.
+
+**Gianpiero Puleo:** So I appreciate you setting the time.
+
+**Gianpiero Puleo:** Have a good rest of your week.
+
+**Gianpiero Puleo:** All right, man.
+
+**Gianpiero Puleo:** See you later.

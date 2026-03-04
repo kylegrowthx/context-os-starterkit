@@ -1,0 +1,1051 @@
+# Rapyd <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-07-02
+time: 17:29 UTC
+duration: 35 minutes
+organizer: Vivek Shankar (GrowthX)
+participants: Vivek Shankar (GrowthX), Mark Stiltner (Rapyd), Nicolette Mychajluk (Rapyd), Vanessa Laymon Johnson (Rapyd)
+fathom_recording_id: 71882860
+fathom_url: https://fathom.video/calls/340537353
+share_url: https://fathom.video/share/SpzXtsrRJrNaXjWNZ1KojAP7WS9wgm9g
+source: fathom
+enriched_on: 2026-03-03 20:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+Vivek Shankar led Rapyd's first weekly sync as the new GrowthX account lead, reviewing content production progress (10 articles delivered last week, 7 on track for this week), new performance dashboards built in Looker showing Google Search Console data, and critical strategy refinements. GrowthX articles are gaining traction with increasing impressions and clicks, though LLM referral traffic remains low (less than 10% of clicks). The team identified that current content is too high-level and informational, requiring a pivot toward more granular, product-tied, ICP-focused content informed by persona data and sales insights. Next steps include Rapyd sharing persona decks with additional buyer roles (CEO, CFO, CTO, Chief Compliance Officer, Head of Commerce, Product Lead), HubSpot contact form submission data from 2025, sales ops data on meeting attendees and contract signers, and a curated "swipe file" of payment industry publications and thought leaders.
+
+---
+
+## Context
+
+Rapyd is a payment processing platform (headquartered in Europe but with most of their US marketing team based in the Bay Area and Denver). GrowthX has been delivering content to support Rapyd's B2B marketing, targeting payment operations professionals and fintech decision-makers. This was Vivek Shankar's first week leading the account after transitioning from previous GrowthX leads. Vivek built out a comprehensive Looker dashboard pulling Google Search Console data to give Rapyd visibility into how their website—including GrowthX-written articles—is performing in search. The partnership is testing new processes (automated XML generation, performance dashboards) while the content strategy is being refined. GrowthX's Ismail handles day-to-day content operations across different time zones.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Testing automated XML generation workflow to streamline article publishing at scale, with Ismail managing QA and fixes
+- Moving from high-level, informational content to granular, product-tied, ICP-focused content requires sales and data inputs from clients
+- New Looker dashboard approach for performance tracking is reusable across other clients; demonstrates value of Google Search Console integration
+- Article refresh strategy: monthly analysis looking at 3-4 month lag (publish date to performance review) before deciding what to refresh
+
+**To GrowthX Business Development:**
+- Account expansion signal: Vivek identified 7+ additional buyer personas beyond current "Head of Payment Ops" focus (CEO, CFO, CTO, Chief Compliance Officer, Head of Commerce, Product Lead), suggesting room to expand content and service scope
+- Performance improving: GrowthX articles showing rising impressions and clicks week-over-week, though Swift Alternatives article is dominant traffic driver
+- Risk flag: LLM referral traffic to GrowthX articles is <10% of total clicks (3-6 sessions vs. 118 total), indicating content may not be resonating for AI-powered search behaviors
+- Sales collaboration opportunity: Nicolette flagged need for sales ops data on who's actually buying (meeting attendees, contract signers) to refine personas and ICP targeting
+
+**To Content Strategy & CheckThat:**
+- Hot topics for payment vertical: improving authorization rates (core pain point), authorization benchmarks by region, AI in authorization optimization
+- ICP relevance is critical: with AI overviews and LLM answers replacing traditional SERPs, content must be hyper-relevant to specific personas or it won't surface in either channel
+- Mark offering "swipe file" of payment industry publications, newsletters, associations, and social media accounts that payment professionals follow—valuable research input for content ideation
+
+---
+
+## Overview
+
+- GrowthX delivered 10 articles last week, on track for 7 new ones this week
+- Performance improving: impressions and clicks increasing for GrowthX-created articles
+- Content strategy shift: moving from high-level informational to more granular, ICP-focused content
+- Need for more persona-specific data and industry insights to refine content approach
+
+---
+
+## Key Topics
+
+### Content Production Update
+
+  - 10 articles delivered last week, 7 new ones coming this week
+  - Addressing Rapyd's edits for reviewed articles
+  - Testing automated XML fixes for smoother publishing process
+  - XML batch including all approved articles by tomorrow to be sent end of week
+
+### Performance Reporting
+
+  - New Looker dashboard provides comprehensive view of website and GrowthX article performance
+  - Data sourced from Google Search Console, showing impressions, clicks, CTR, and position
+  - Swift Alternatives blog post currently driving most traffic
+  - LLM referral traffic still low for GrowthX articles (\< 10% of total)
+
+### Content Strategy Refinement
+
+  - Current content deemed too high-level and informational
+  - Shift towards more granular, product-tied, and ICP-focused content
+  - Request for updated persona information and sales insights to tailor content better
+  - Hot topics identified: improving authorization rates, benchmarks by region, AI in authorization
+
+### Data Collection for Content Improvement
+
+  - Plan to pull HubSpot data on recent contact form submissions for insights
+  - Request for sales ops data on meeting attendees and contract signers to refine ICP
+  - Mark to share "swipe file" with relevant publications and social media accounts
+
+---
+
+## Action Items
+
+**Mark Stiltner (Rapyd)**
+- Review assigned articles by tomorrow for XML batch — critical for mass publishing end of week
+- Share older persona deck with additional personas (CEO, CFO, CTO, Chief Compliance Officer, Head of Commerce, Product Lead) to team@growthxlabs.com
+- Share "swipe file" of payment industry publications, newsletters, associations, and social media accounts to GrowthX for content research and idea sourcing
+
+**Vanessa Laymon Johnson (Rapyd)**
+- Review assigned articles by tomorrow for XML batch
+
+**Nicolette Mychajluk (Rapyd)**
+- Review assigned articles by tomorrow for XML batch
+- Request HubSpot data dump for 2025 contact form submissions from MOPs team (to identify recent customer inquiries and pain points)
+- Request sales ops data on meeting attendee titles and contract signers, focusing on high-value deals (to refine ICP and identify key buying personas)
+
+---
+
+## Transcript
+**Vanessa Laymon Johnson:** Hi!
+
+**Vanessa Laymon Johnson:** Who are you?
+
+**Vivek Shankar:** I'm good.
+
+**Vivek Shankar:** But we didn't get a chance to interact.
+
+**Vanessa Laymon Johnson:** I'm one of the writers on the content team at Rapyd.
+
+**Vanessa Laymon Johnson:** Awesome.
+
+**Vivek Shankar:** Nice to meet you.
+
+**Vivek Shankar:** Very nice to meet you.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** This is officially my first week over the Rapyd account.
+
+**Vivek Shankar:** So, yeah, there's going to be intros all over.
+
+**Vivek Shankar:** So, yeah.
+
+**Vanessa Laymon Johnson:** Where are you based?
+
+**Vivek Shankar:** I am based in Lisbon, Portugal.
+
+**Vanessa Laymon Johnson:** Oh, cool.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** What about you?
+
+**Vanessa Laymon Johnson:** Bay Area, San Francisco.
+
+**Vanessa Laymon Johnson:** Ah, okay.
+
+**Vivek Shankar:** Nice.
+
+**Vivek Shankar:** Seems like everybody is either based out of Bay Area or New York.
+
+**Vivek Shankar:** Always.
+
+**Vivek Shankar:** There's research
+
+**Vivek Shankar:** There's, like, no in-between.
+
+**Vanessa Laymon Johnson:** Yeah.
+
+**Vanessa Laymon Johnson:** We have a few people on our team that are in Denver, but...
+
+**Vanessa Laymon Johnson:** Hmm.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** I always wanted to check, like, how did this happen at Rapyd?
+
+**Vivek Shankar:** Like, you're an EU company, but your entire marketing is in the States.
+
+**Vivek Shankar:** Like, how did that come to happen?
+
+**Vivek Shankar:** An interesting story that I suspect.
+
+**Vanessa Laymon Johnson:** Right?
+
+**Vanessa Laymon Johnson:** It was before my time, so I'm not really sure.
+
+**Vivek Shankar:** I don't think that I...
+
+**Vanessa Laymon Johnson:** And we actually aren't.
+
+**Vanessa Laymon Johnson:** We have creative services team.
+
+**Vanessa Laymon Johnson:** Part of the team is in Tel Aviv, and...
+
+**Vanessa Laymon Johnson:** Yeah, there's...
+
+**Vanessa Laymon Johnson:** I would say...
+
+**Vanessa Laymon Johnson:** You know, almost half of the people are in Europe.
+
+**Vanessa Laymon Johnson:** big of Hmm.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** Hey, Mark.
+
+**Vivek Shankar:** Hey, how's it going?
+
+**Vivek Shankar:** Good, good.
+
+**Vivek Shankar:** How are you?
+
+**Mark Stiltner:** Good.
+
+**Mark Stiltner:** Oh, let's see here.
+
+**Mark Stiltner:** Are we waiting for anybody else from GrowthX?
+
+**Vivek Shankar:** No, Mara is out of office, so it'll be me and she'll be joining next week.
+
+**Vivek Shankar:** All right.
+
+**Mark Stiltner:** Well, then we can just go ahead and jump into it.
+
+**Mark Stiltner:** All right, cool.
+
+**Vivek Shankar:** So I've sent the agenda.
+
+**Vivek Shankar:** It's not mistakenly sent the agenda like yesterday, so I was worried it got lost in the Slack thread.
+
+**Vivek Shankar:** Hopefully, you saw the latest message where I just kind of tagged it.
+
+**Vivek Shankar:** So let's kind of walk through some quick updates before we get into performance and address some of the questions that dropped last week.
+
+**Vivek Shankar:** So we delivered 10 articles last week for your review.
+
+**Vivek Shankar:** We're on track to deliver seven new ones this week.
+
+**Vivek Shankar:** We are addressing your edits.
+
+**Vivek Shankar:** And just to clarify here, think Rapyd has a two-step review process on our end.
+
+**Vivek Shankar:** So we're reviewing the ones, Mark, where you tagged us saying it's good to go and it's in that status.
+
+**Mark Stiltner:** Yeah, that's usually how we've done it is we provide revisions to you.
+
+**Mark Stiltner:** And then unless I specify otherwise, after you make those revisions, you can smooth them into the staging queue.
+
+**Vivek Shankar:** Yep.
+
+**Vivek Shankar:** Speaking of which, we are testing the automated XML fixes.
+
+**Vivek Shankar:** I think Ismail is the CM on the account.
+
+**Vivek Shankar:** He's the one who will be involved on a daily basis just generating your articles, et cetera.
+
+**Vivek Shankar:** He's in a different time zone, which is why he's not present on this call, but you'll see him in Slack quite a bit.
+
+**Vivek Shankar:** He's testing the automated XML flow.
+
+**Vivek Shankar:** I think we do have a flow.
+
+**Vivek Shankar:** It's just a question of matching the output system, whether it's in the ideal state or not, should be fixed.
+
+**Vivek Shankar:** Not expecting too much of a hit.
+
+**Mark Stiltner:** Did message you about what he said was missing in the XML file?
+
+**Mark Stiltner:** Yes.
+
+**Vivek Shankar:** So the stuff that was missing was because we, I think Rachel last week, she generated it manually.
+
+**Vivek Shankar:** And there was a lot of things missing.
+
+**Vivek Shankar:** So we just took a call saying, okay, let's fix the automation and then, you know, make sure it's good.
+
+**Vivek Shankar:** We can send it in batches.
+
+**Vivek Shankar:** Okay.
+
+**Mark Stiltner:** So it was because it was manual.
+
+**Mark Stiltner:** Gotcha.
+
+**Mark Stiltner:** Yeah.
+
+**Mark Stiltner:** So we're waiting on the next batch of XML to come from you then, right?
+
+**Mark Stiltner:** Yes.
+
+**Vivek Shankar:** We should have it for you at the end of this week.
+
+**Vivek Shankar:** Okay.
+
+**Mark Stiltner:** So essentially, we'll get that batch of XML and then we'll be able to mass publish everything.
+
+**Vivek Shankar:** Yep.
+
+**Mark Stiltner:** And will that batch, what all will that batch include?
+
+**Mark Stiltner:** Will it include things that we review and have ready to publish?
+
+**Mark Stiltner:** Will
+
+**Mark Stiltner:** This week also, or not?
+
+**Mark Stiltner:** Like, if we review things between now and Thursday, will that stuff make it in there?
+
+**Vivek Shankar:** Everything that you review and sign off by tomorrow will be in there.
+
+**Vivek Shankar:** Okay, great.
+
+**Mark Stiltner:** So from my team's standpoint, Vanessa and Nicolette, and me also for that matter, if we can just try to get our three done today and tomorrow, that'll be good and that'll keep us on top of this.
+
+**Mark Stiltner:** I don't think there were any more available.
+
+**Nicolette Mychajluk:** I've reviewed as many as I could that were in that rapid review section.
+
+**Nicolette Mychajluk:** They added more.
+
+**Mark Stiltner:** More today?
+
+**Mark Stiltner:** Okay.
+
+**Mark Stiltner:** Yeah, and what happened, actually, I think there was a filter on there that had filtered it down to, like, one person, and so you couldn't see a lot.
+
+**Mark Stiltner:** So when I took the filter off, you could see them all again.
+
+**Vivek Shankar:** Okay.
+
+**Mark Stiltner:** So now you can go in there and use the bunch.
+
+**Nicolette Mychajluk:** Now I can see the ones assigned to Coral, Kristen, or Sujata.
+
+**Mark Stiltner:** There's nothing in there that's not assigned.
+
+**Nicolette Mychajluk:** Right, I've been editing them as they come up.
+
+**Mark Stiltner:** Well, you guys are producing some.
+
+**Mark Stiltner:** Writing, writing, writing, see.
+
+**Mark Stiltner:** Okay, let me, I think I'm looking at the right thing.
+
+**Nicolette Mychajluk:** Should I walk to the air table real quick?
+
+**Vivek Shankar:** Would that help?
+
+**Mark Stiltner:** Yeah, am I, yeah, because you just said that you put new ones in, but I'm not seeing any new ones to that point.
+
+**Vivek Shankar:** I know, they will be coming over the next few days.
+
+**Vivek Shankar:** will be coming, okay.
+
+**Vivek Shankar:** Yeah, so it'll just keep updating throughout the week.
+
+**Vivek Shankar:** We usually schedule all of our deliveries for Thursday, Friday.
+
+**Vivek Shankar:** So everything that's in writing over here that you see with these delivery dates, so this is for tomorrow.
+
+**Vivek Shankar:** So these will come in by tomorrow or by Friday, latest.
+
+**Vivek Shankar:** So all of these are basically in the pipeline.
+
+**Vivek Shankar:** That's kind of how it is.
+
+**Vivek Shankar:** All right.
+
+**Mark Stiltner:** Well, in that case, I might say, let's just all, we might get a little bit behind this week.
+
+**Mark Stiltner:** Nicolette, batch payment processing, Nicolette reviewed, that one's waiting on me.
+
+**Nicolette Mychajluk:** Yeah.
+
+**Nicolette Mychajluk:** Yeah.
+
+**Mark Stiltner:** And there's no other ones for Vanessa in here, so.
+
+**Mark Stiltner:** Do you want to switch some of the, I don't know, like.
+
+**Nicolette Mychajluk:** I might just swap some of those, honestly.
+
+**Mark Stiltner:** I don't mind if you assign them to me.
+
+**Vanessa Laymon Johnson:** I didn't hate the process when you just put my name on them, because I am not, I get confused in the spreadsheet, so.
+
+**Vanessa Laymon Johnson:** Okay.
+
+**Vanessa Laymon Johnson:** I think it's also that I'm not taking up too much of the time with Vivek.
+
+**Mark Stiltner:** I will just reassign some of these to us so that we can start jamming on this week. And if we can each try to get through our three, that would be great.
+
+**Vivek Shankar:** Would it help if I just created a field in Airtable so that you can write the name of the reviewer?
+
+**Mark Stiltner:** Oh, you know, I could just put it in feedback.
+
+**Mark Stiltner:** Cool.
+
+**Vivek Shankar:** Because we kind of do that internally in the assignee field over here.
+
+**Vivek Shankar:** I was wondering if, you know, if we created a Rapids reviewer field or something that might make it easier for you, maybe?
+
+**Vivek Shankar:** I don't mind just putting it in feedback.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** So, yeah, we will start taking a look at the ones you've edited and get those out.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** So, yeah, plenty of stuff coming VXML this week.
+
+**Vivek Shankar:** I just wanted to move on to the looker and the performance report because it's kind of changed a little bit.
+
+**Vivek Shankar:** We have been sort of revamping this here.
+
+**Vivek Shankar:** And, you know, this will keep evolving over the next few weeks because we're adding a bunch of stuff.
+
+**Vivek Shankar:** There's still a lot that needs to go in here, like non-branded search and LLM data. Just wanted to give you a brief overview—there are some things that might be a little confusing.
+
+**Vivek Shankar:** The first thing is this report, it reflects the performance of your entire website and it pulls in data from the search console.
+
+**Vivek Shankar:** So it is only data that is coming from Google, right?
+
+**Vivek Shankar:** It's not including Bing, it's not including whatever, the other search engines, et cetera.
+
+**Vivek Shankar:** If you come into this folder here and you click uncategorized, this gives you the performance of the entire rapid website.
+
+**Vivek Shankar:** And, of course, there's this date field over here, I filtered it from April 1st to the Saturday of last week.
+
+**Vivek Shankar:** If you uncheck uncategorized, this is the growthx articles only.
+
+**Vivek Shankar:** And then there are content pillars as well over here.
+
+**Vivek Shankar:** These are the sort of pillars that we've been working on from the table.
+
+**Vivek Shankar:** And, of course, we can refine these and change these as and when it happens.
+
+**Vivek Shankar:** The landing page sort of table over here gives you a per URL performance.
+
+**Vivek Shankar:** So it gives...
+
+**Vivek Shankar:** So it gives you the impressions, the TTR, the click-through rate, gives you the position.
+
+**Vivek Shankar:** It also gives you the number of clicks.
+
+**Vivek Shankar:** This little delta over here sign is a comparison.
+
+**Vivek Shankar:** So whatever period that you choose in the looker on top over here, it just compares it to the equivalent period before that.
+
+**Vivek Shankar:** So if you choose four months in here, it will compare it to the previous four months, right?
+
+**Vivek Shankar:** So let's say, for example, I picked last week.
+
+**Vivek Shankar:** So I say June 22nd to June 28th.
+
+**Vivek Shankar:** This lets me see like week-on-week performance.
+
+**Vivek Shankar:** So we can see like the Swift Alternative blog, the impressions fell by 2.6%, clicks increased by 12.2%, CTR increased by 15% and so on.
+
+**Vivek Shankar:** If you want to look at performance for one particular URL, you can just copy it from this table here and put it into this field and hit enter.
+
+**Vivek Shankar:** And then, of course, you change the dates, et cetera, and this gives you, like, performance throughout time for that.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** Yes.
+
+**Vivek Shankar:** So this is kind of like, you know, it has a few moving parts, but we see it's kind of modular.
+
+**Vivek Shankar:** You can, we can dive in and we use this for analysis as well, which is why I just wanted to introduce you to it.
+
+**Vivek Shankar:** This is where we're pulling our performance data from, et cetera.
+
+**Vivek Shankar:** So that's how the first page works.
+
+**Vivek Shankar:** The second page is diving a bit deeper into the categories and also the search queries that is bringing us traffic.
+
+**Vivek Shankar:** So, again, we just exclude uncategorized.
+
+**Vivek Shankar:** If you check this off, this will show you performance for the whole website.
+
+**Vivek Shankar:** And there is a date filter over here and similar table, impressions, clicks, CTR, and position changes as well.
+
+**Vivek Shankar:** And then the query breakdown is basically the search terms and which ones are driving traffic to us.
+
+**Vivek Shankar:** Something to note over here, Google does not give us...
+
+**Vivek Shankar:** that's it.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** Curate search query data.
+
+**Vivek Shankar:** So all these numbers are actually sampled, especially the URL clicks.
+
+**Vivek Shankar:** The impressions in our experience have largely been correct, looking at this, you know, across all clients.
+
+**Vivek Shankar:** But the URL click numbers are a little weird.
+
+**Vivek Shankar:** They don't add up to the actual page.
+
+**Vivek Shankar:** That's just something to keep in mind.
+
+**Vivek Shankar:** So even though it says four over here, this is a sample thing.
+
+**Vivek Shankar:** The actual sort of traffic might be 10x.
+
+**Vivek Shankar:** You know, we don't know.
+
+**Vivek Shankar:** There's no way to go, unfortunately.
+
+**Mark Stiltner:** Is that because they're not tracking individual users across the site now?
+
+**Vivek Shankar:** Google doesn't track it.
+
+**Vivek Shankar:** So it doesn't give us that data.
+
+**Vivek Shankar:** So, yeah, none of Google's tools actually do that.
+
+**Vivek Shankar:** So it's just one of those limitations, unfortunately.
+
+**Vivek Shankar:** However, if you look at the deltas, it usually does reflect changes across particular queries.
+
+**Vivek Shankar:** So while the overall number might not be accurate, the change percentages are usually accurate.
+
+**Vivek Shankar:** So.
+
+**Vivek Shankar:** Look at this on a weekly basis, you know, I just filter this, and then the query table will take a while, but if you look at the deltas, usually it's kind of actually, obviously this 400% is a bit ridiculous, but then the numbers are low.
+
+**Vivek Shankar:** So, you know, kind of take it with a grain of salt, but then over a long period, it gives you a nice little thread.
+
+**Vivek Shankar:** So we just include this data over here as well.
+
+**Vivek Shankar:** So the third page, again, we just exclude uncategorized.
+
+**Vivek Shankar:** This shows us LLM referral traffic.
+
+**Vivek Shankar:** It shows us where the traffic is coming from, whether it's perplexity, GPT, Gemini.
+
+**Vivek Shankar:** I included a breakdown in Notion. This pie chart shows the different LLM sources: 37% Perplexity, 37% GPT, and 22% Gemini.
+
+**Vivek Shankar:** Also, this table over here shows us the landing pages where users went after receiving a referral from LLM.
+
+**Vivek Shankar:** So basically, they clicked on a link in the LLM, and they landed on these pages on the website.
+
+**Vivek Shankar:** So for the blogs that GrowthX has created, obviously, the number of LLM referrals are a little low.
+
+**Vivek Shankar:** It's only like six sessions.
+
+**Vivek Shankar:** This past week was three sessions, which is kind of lagging.
+
+**Vivek Shankar:** And I'll cover this on how to improve this shortly.
+
+**Vivek Shankar:** We just want to present this first.
+
+**Vivek Shankar:** If I check this off, it shows me data for the entire website.
+
+**Vivek Shankar:** So we can see the 118 referrals from LLMs, almost 86% of them from ChatGPT, right?
+
+**Vivek Shankar:** That's the leader in the game right now, so that's not surprising.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** And almost all of them went to the homepage over here, according to this table.
+
+**Vivek Shankar:** The login page to some of your product pages as well.
+
+**Vivek Shankar:** That's pretty good news.
+
+**Vivek Shankar:** So, yeah, generally, you know, this Looker, it's quite versatile.
+
+**Vivek Shankar:** It shows you a lot of data in there.
+
+**Vivek Shankar:** But just want to walk you through some of the filters in case you're interested in digging in because there's quite a lot of data to, like, break down, et cetera.
+
+**Vivek Shankar:** I've been talking for a while.
+
+**Vivek Shankar:** Any questions I can answer about any of this, any clarifications, et cetera?
+
+**Mark Stiltner:** I have a couple, but I know we've got a few other people on the call here.
+
+**Mark Stiltner:** Marc, Vanessa, anybody?
+
+**Mark Stiltner:** Nope.
+
+**Mark Stiltner:** The one, that column that had the click URL data in it, that's inaccurate.
+
+**Mark Stiltner:** Why is that even there?
+
+**Nicolette Mychajluk:** So, yeah, good question.
+
+**Vivek Shankar:** So the reason we track this is because we want to see which keyword we're showing up for.
+
+**Vivek Shankar:** So even if the overall number of clicks are not accurate, it's sample data.
+
+**Vivek Shankar:** So if it's showing up here, it's kind of relevant.
+
+**Vivek Shankar:** If we see that, for example, over the past, I don't know, three months, we've been showing up for this particular that, it's video.
+
+**Vivek Shankar:** So,
+
+**Vivek Shankar:** Right.
+
+**Vivek Shankar:** And we weren't showing up before.
+
+**Vivek Shankar:** That is significant.
+
+**Vivek Shankar:** And we can actually map up to which page traffic is going to.
+
+**Vivek Shankar:** And that gives us an idea for like refresh, for example.
+
+**Vivek Shankar:** So we look at this particular page and we see that, OK, we're getting some traffic from this new keyword.
+
+**Vivek Shankar:** Are we improving that well?
+
+**Vivek Shankar:** Like, is there some information we can add to maybe gain even more traffic on that particular topic or that particular subject?
+
+**Vivek Shankar:** So it's more for analysis purposes.
+
+**Vivek Shankar:** But in the long term, it shows us that, OK, are we showing up for the right kinds of keywords over here?
+
+**Vivek Shankar:** You know, or are we showing up for completely the wrong things?
+
+**Vivek Shankar:** A good example for this is like it's also kind of a sanity check on the kind of content we're producing.
+
+**Vivek Shankar:** Right.
+
+**Vivek Shankar:** So I can give you an example of one of our other clients, actually, when they came to us.
+
+**Vivek Shankar:** They introduced this one article about like career skills for, I don't know, X, right, whatever role they were aiming for.
+
+**Vivek Shankar:** And that one article was such a huge.
+
+**Vivek Shankar:** A lot of traffic compared to their actual product-oriented articles that in their keyword table over here, it was just like, you know, this particular role skills, the future of this role, right?
+
+**Vivek Shankar:** They don't want to be showing up for that.
+
+**Vivek Shankar:** So it's kind of like a nice sanity check just to make sure that, okay, our content is on point, pillars are on point, topics are good, et cetera.
+
+**Mark Stiltner:** So right now you're filtered to just one blog post, right?
+
+**Vivek Shankar:** No, I have filtered to all growthx blog posts.
+
+**Mark Stiltner:** Okay, so if we look at that right now, most of what we're seeing here is all, it is kind of off of one blog post, at least the top one, two, three, four, five, are all off of the Swift Alternatives blog post.
+
+**Mark Stiltner:** Yes.
+
+**Mark Stiltner:** So that's a situation where it's not irrelevant to Rapyd, like we do do payouts and we do card payouts and things like that that are relevant to this, but it's not our core offering of card acquiring.
+
+**Mark Stiltner:** So what we'd want to see here is more things around.
+
+**Mark Stiltner:** So credit card payments in this top of the list.
+
+**Vivek Shankar:** Yes.
+
+**Vivek Shankar:** I will point out one caveat, though.
+
+**Vivek Shankar:** This is weekly data.
+
+**Vivek Shankar:** So this is just one week.
+
+**Vivek Shankar:** So the broader you go, the more the signal change.
+
+**Vivek Shankar:** If I look at it for, like, say, two days or three days, obviously, there's going to be, like, granular data that kind of doesn't make sense.
+
+**Vivek Shankar:** In the long term, generally, it should even out.
+
+**Vivek Shankar:** And it's going to be reflective of what kind of content we've been producing.
+
+**Vivek Shankar:** So let's say I change this to April 1st, which is kind of where we started.
+
+**Vivek Shankar:** It's still the Swift thing.
+
+**Vivek Shankar:** Largely speaking, that's been our best-performing blog.
+
+**Vivek Shankar:** But you can see here, we're showing up for rapid alternatives.
+
+**Vivek Shankar:** You know, alternative Swift, a lot of sort of API payment gateway.
+
+**Vivek Shankar:** Yeah, that's one that we want to show us is API payment gateway.
+
+**Mark Stiltner:** Yeah.
+
+**Vivek Shankar:** Correspondent was the intermediary bank.
+
+**Vivek Shankar:** This is like an educational search.
+
+**Vivek Shankar:** Crosswater payment trends.
+
+**Vivek Shankar:** Yeah, foreign remittance gaming payment.
+
+**Vivek Shankar:** Processors, that's a good one to show up for.
+
+**Mark Stiltner:** So why are they, so I guess my question is, the impressions are, oh, I see, the impressions are high on gaming payments, but the clicks are really low.
+
+**Mark Stiltner:** And even though those clicks are inaccurate.
+
+**Vivek Shankar:** Yeah, it's kind of an indication, okay, maybe it could be like, you know, some of these articles, we could sort of look at a refresh, potentially.
+
+**Vivek Shankar:** So why aren't we just showing the page rank here, too?
+
+**Vivek Shankar:** Because the page rank is on the first page.
+
+**Vivek Shankar:** So over here, this shows the average position for each page.
+
+**Vivek Shankar:** But that's per article, not per keyword.
+
+**Mark Stiltner:** Yes.
+
+**Vivek Shankar:** Over here, this.
+
+**Vivek Shankar:** Oh, there's your average for keywords, okay.
+
+**Vivek Shankar:** Yeah, this shows it.
+
+**Vivek Shankar:** But this is not per page.
+
+**Vivek Shankar:** Like, this is across every page.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** But if I wanted to see, like, where do we rank for a search for API payment gateway?
+
+**Vivek Shankar:** Yeah, you can see it in this particular table. Let me check—API Payment Gateway, we're ranking in 34th position.
+
+**Vivek Shankar:** This is where we look at it and go like, okay, that's one that we really want.
+
+**Mark Stiltner:** Maybe we need to go double down on that post kind of thing.
+
+**Mark Stiltner:** Yep.
+
+**Mark Stiltner:** Okay.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** And that's pretty much how we're looking at, that's the logic behind refreshes, really.
+
+**Vivek Shankar:** We're just looking at what happened before, what's happening now.
+
+**Vivek Shankar:** Usually what we do is gather this data and then present you a final list of articles we think should be refreshed, with the logic behind it. That's more efficient than going through all 3,000 pages right now.
+
+**Mark Stiltner:** And is that something that you would do weekly or monthly or like how often would you do that?
+
+**Vivek Shankar:** We do it monthly.
+
+**Vivek Shankar:** So we do it monthly and because SEO takes some time to build, we kind of look at the publish date.
+
+**Vivek Shankar:** Everything that was published, say, three to four months back, we look now, basically.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** So that is Luca.
+
+**Vivek Shankar:** And as I said, you know, we're going to be building this up a bit more.
+
+**Vivek Shankar:** If you, you know, please do feel free to dive in.
+
+**Vivek Shankar:** If you have any questions, I'm more than happy to answer.
+
+**Vivek Shankar:** So again, this chart, as we can see, like performance is increasing, impressions as well as clicks increase this past week for the articles that we've created so far.
+
+**Vivek Shankar:** The Swift alternative is the sort of biggest traffic driver at this point.
+
+**Vivek Shankar:** And that's why the keywords as well are reflecting all of that.
+
+**Vivek Shankar:** The LLM sort of proportion of traffic that we're getting into our articles, it is a bit low because we're looking at almost 118 clicks from Google.
+
+**Vivek Shankar:** And, you know, for the blogs that we have been creating at Profex, it's like three, six.
+
+**Vivek Shankar:** I mean, it's, it's barely registering.
+
+**Vivek Shankar:** It's like less than 10% right now.
+
+**Vivek Shankar:** Which is on the lower end.
+
+**Vivek Shankar:** So this kind of ties into the.
+
+**Vivek Shankar:** Thanks, Marc.
+
+**Vivek Shankar:** This kind of ties in the direction that we want to take with our content, which is getting more focused on the ICP and tying it to the products in a much more, let's say, granular way.
+
+**Vivek Shankar:** Because one of the things that, as part of the transition that happened, we reviewed the content that has been published so far.
+
+**Vivek Shankar:** We felt it was kind of high level, but we're informational, perhaps.
+
+**Vivek Shankar:** So we just wanted your input on that.
+
+**Vivek Shankar:** Like, is there any particular persona other than the head of payment ops right now that we're focusing on?
+
+**Vivek Shankar:** Is there any other persona we can dive in on?
+
+**Vivek Shankar:** Is there any updated decks that you can share with us about this persona, et cetera?
+
+**Vivek Shankar:** Because that would be super helpful in terms of tailoring the content.
+
+**Mark Stiltner:** I mean, you've got the personas that we created.
+
+**Mark Stiltner:** I do have an older persona deck, actually, that has like more personas in it that I can share with you.
+
+**Mark Stiltner:** It does have more personas.
+
+**Vivek Shankar:** It's not so much more.
+
+**Vivek Shankar:** It's like if there's any additional data points, any updates to that persona at all, that would be super helpful.
+
+**Mark Stiltner:** So I'm going share this with you.
+
+**Mark Stiltner:** Vivek, what's your email, Vivek?
+
+**Vivek Shankar:** Can you share it to team@growthxlabs.com and drop me the link?
+
+**Mark Stiltner:** team@growthxlabs.com, got it.
+
+**Vivek Shankar:** So here are additional rapid personas.
+
+**Mark Stiltner:** This covers like CEO, CFO, chief technology officer, chief chief compliance officer, head of commerce.
+
+**Mark Stiltner:** Product lead and gives a little bit more insight into what they're thinking about.
+
+**Mark Stiltner:** I will agree with you that our posts right now are maybe a little bit too high level and informational.
+
+**Mark Stiltner:** I've been kind of viewing it as like foundational in a sense, like laying the groundwork very broadly, which is fine.
+
+**Mark Stiltner:** And we do want to get a little bit more granular.
+
+**Mark Stiltner:** I can give you like some topics that would be things that we've recently done decks on, that we've got information on, that potentially could get more granular for you.
+
+**Mark Stiltner:** If you want like a list of things you maybe work with to start thinking through how those become either categories or content pieces.
+
+**Mark Stiltner:** Yeah, would be super helpful.
+
+**Vivek Shankar:** mean, honestly, anything that you can give us, even if you have snippets from sales calls, you know.
+
+**Vivek Shankar:** Insights from there, any questions that you're getting asked, we can definitely create content around that.
+
+**Vivek Shankar:** Okay, let's start there.
+
+**Mark Stiltner:** Nicolette, are we still using Outreach?
+
+**Mark Stiltner:** We've still got access.
+
+**Mark Stiltner:** They haven't shut that down yet, right?
+
+**Nicolette Mychajluk:** Yeah, we still have access to it, but I think some people are using it.
+
+**Nicolette Mychajluk:** I don't know.
+
+**Nicolette Mychajluk:** I have to ask, Mikael, I think we're shutting it down soon.
+
+**Mark Stiltner:** So there's a bunch of sales conversations in there, though, right?
+
+**Mark Stiltner:** Sales emails?
+
+**Mark Stiltner:** Yeah.
+
+**Mark Stiltner:** Well, or, yeah, like, could we just, like, pull some of, could you pull, like, a list of common sales type, sales inquiries that come in from Outreach for GrowthX?
+
+**Mark Stiltner:** We could pull a list.
+
+**Nicolette Mychajluk:** So what we did one time is that we had our MOPs team pull a HubSpot list of anyone who's ever...
+
+**Nicolette Mychajluk:** We first submitted a contact us form to Rapyd, and then we got a huge data dump of what they were requesting and stuff like that.
+
+**Nicolette Mychajluk:** Do you have that file?
+
+**Mark Stiltner:** That was from last year.
+
+**Nicolette Mychajluk:** I can ask them again, just so we can see what's updated, and we can ask them for a very specific time.
+
+**Nicolette Mychajluk:** Yeah, mean, just doing this year.
+
+**Nicolette Mychajluk:** Yeah, because if I gave it to you, it would be like what we were doing last year, and a lot of it's like, oh, how do I log in?
+
+**Nicolette Mychajluk:** But yeah, that's the only thing I could think of, because that way we don't even need outreach, because it goes to HubSpot first, and then that pushes to outreach.
+
+**Mark Stiltner:** Pull that report, because that can help you.
+
+**Nicolette Mychajluk:** I have ask.
+
+**Nicolette Mychajluk:** You can just aggregate those, and that would give us some insight.
+
+**Mark Stiltner:** Yes, ask about that. Here are the hot topics we've been discussing a lot.
+
+**Mark Stiltner:** One is improving authorization rates.
+
+**Mark Stiltner:** So that's a big one for us, and it's a really hot topic in terms of card acquiring in general.
+
+**Mark Stiltner:** That's the most important thing for companies is just making sure that transactions that should get approved actually get approved, not declined.
+
+**Mark Stiltner:** And so improving authorization rates, improving authorization rates with AI, what your authorization rate should be.
+
+**Vivek Shankar:** Benchmarks, yeah.
+
+**Mark Stiltner:** Different authorization rates in different regions, like what's a good authorization rate when doing business in Latin America?
+
+**Mark Stiltner:** Or what's a good authorization rate when doing business in Colombia or France or Mexico or wherever?
+
+**Mark Stiltner:** People do look for that, because they want to know if they're performing well.
+
+**Vivek Shankar:** Do you have any internal data on that?
+
+**Vivek Shankar:** Or I'm assuming that kind of data is not just available anywhere, right?
+
+**Mark Stiltner:** Uh, well, that's, I mean, it kind of, I don't, we don't have any internal data on that.
+
+**Mark Stiltner:** Like, it's all proprietary for processor.
+
+**Mark Stiltner:** Like, it really, I would say, like, online would be the right way to do that.
+
+**Mark Stiltner:** Just doing searches and trying to find out, like, what a consensus benchmark rate is.
+
+**Mark Stiltner:** Yeah, sure.
+
+**Vivek Shankar:** So I would say that that is more public data kind of stuff.
+
+**Vivek Shankar:** I think in terms of strategy, we are in a good place.
+
+**Vivek Shankar:** Like, we have a good pipeline of content.
+
+**Vivek Shankar:** And then there is, there's a lot of potential for refreshments just from an ICP standpoint, getting it really narrowed.
+
+**Vivek Shankar:** Because one of the changes that we've been seeing is with LLMs coming onto the scene and people preferring AI overviews more over the users.
+
+**Vivek Shankar:** Google, that sort of ICP relevance, product to ICP relevance is, like, super crucial these days.
+
+**Vivek Shankar:** And, you know, clicks by themselves, they don't tell the whole story.
+
+**Vivek Shankar:** Like, more often than not, like, if you get a good impression and you're showing up.
+
+**Vivek Shankar:** AI overviews a ton, right?
+
+**Vivek Shankar:** Which we track also.
+
+**Vivek Shankar:** If you show up there, it's going to show up as impressions on your chart.
+
+**Vivek Shankar:** So you can look at that and be like, oh, I'm not getting any clicks.
+
+**Vivek Shankar:** But the reality is you're right on top of Google.
+
+**Vivek Shankar:** The key to showing up there and also across these LLMs is having like really relevant content for the persona.
+
+**Vivek Shankar:** So the more focused we are, the better.
+
+**Vivek Shankar:** So a lot of the refreshes that I'm kind of looking at, keeping my eye on is like, not selling SEO.
+
+**Vivek Shankar:** It's more about, okay, it's more editorial, if that makes sense.
+
+**Vivek Shankar:** Like, we just need to get the narrative right.
+
+**Vivek Shankar:** And that's what fueled some of the deeper questions about authorization workflows and processor capabilities.
+
+**Nicolette Mychajluk:** I wonder if it would be helpful for us to get a sales ops request for data around titles who attend sales meetings with our sales reps and then people who are signing the contract.
+
+**Nicolette Mychajluk:** Where can we see, like, if that's really ICP lately, or do we see more, like, the types of businesses, right?
+
+**Nicolette Mychajluk:** Who's actually attending meetings with our sales reps? We're seeing more Heads of Product lately versus Heads of Technology. And then, who's actually signing the contracts? If we can filter by contract value, we could see what titles are driving the biggest deals.
+
+**Vivek Shankar:** That would be really helpful. From my experience, these high-opportunity folks follow a lot of industry journals or really esoteric sources that most people have never heard of.
+
+**Vivek Shankar:** I was wondering, do you have like that kind of information or, I mean, we will do our research as well.
+
+**Nicolette Mychajluk:** Are you talking like Reddit threads and like media, like medium, like?
+
+**Nicolette Mychajluk:** Yeah, exactly.
+
+**Vivek Shankar:** Like any Reddit threads, any medium, like for example, accountants have this one journal called Going Concern, right?
+
+**Vivek Shankar:** It's a really snarky website that makes fun of the big four, et cetera.
+
+**Nicolette Mychajluk:** But it's great because we get anecdotes from it and that really enriches content.
+
+**Vivek Shankar:** Something similar, you know, it doesn't exist great, but something like that would be super helpful.
+
+**Vivek Shankar:** Because the idea is we just want to speak the language, you know?
+
+**Vivek Shankar:** Yeah, and just like appear like conversational and relevant and like relatable.
+
+**Mark Stiltner:** So what I have in that regard—I don't have industry-specific data, but I have what I call my swipe file. It's focused on payments professionals and where they go for information.
+
+**Mark Stiltner:** It's like where I go to find third-party articles on payments and stuff like that.
+
+**Mark Stiltner:** And I've got a bunch of newsletters in there, paid publications, press and associations, and social media.
+
+**Mark Stiltner:** Closers that people follow is essentially what I've got.
+
+**Vivek Shankar:** That would be great because we, as part of our flows, what we actually do is we do sort of scrape from a lot of sources to give us this little idea bank.
+
+**Vivek Shankar:** So the more you give us, the better, you know, and everything that we do, like, you know, to Nicolette's point, like the HubSpot sort of dump, the who's signing, you know, sales ops data, everything.
+
+**Vivek Shankar:** Like, the more the better.
+
+**Vivek Shankar:** So, yeah, I won't say no to any of that.
+
+**Vivek Shankar:** So, let's
+
+**Mark Stiltner:** Oh, there's publications, or I'll send it with a message, publications and social media accounts, payment pros, follow.
+
+**Mark Stiltner:** Yep, that would be helpful.
+
+**Mark Stiltner:** White file is the name of the file, but we'll give you some of that.
+
+**Mark Stiltner:** Yep, that would be great.
+
+**Vivek Shankar:** I do want to be mindful of your time.
+
+**Vivek Shankar:** know we're over.
+
+**Vivek Shankar:** Didn't get a chance to hit the talking points, which was, you know, takeaways from last week.
+
+**Vivek Shankar:** I know Mara's going to set up something with Marc on Monday to sort of discuss the AI lead qualification that he was mentioning to her.
+
+**Vivek Shankar:** And yeah, I think on that call, we can also discuss the other topics that came about, like element visibility, competitors, shifting content to align with your ABM, et cetera.
+
+**Vivek Shankar:** We can definitely do that.
+
+**Vivek Shankar:** Include me on that.
+
+**Mark Stiltner:** Make sure I'm included on that call if I'm not.
+
+**Mark Stiltner:** for sure.
+
+**Vivek Shankar:** Pink put me on there.
+
+**Vivek Shankar:** Me too.
+
+**Vivek Shankar:** me I don't don't know.
+
+**Nicolette Mychajluk:** It's There's been a...
+
+**Mark Stiltner:** I think that will be, I think that'll be, I got to jump to my next meeting actually too, Vivek.
+
+**Mark Stiltner:** No worries, no worries.
+
+**Vivek Shankar:** Yeah, we'll send takeaways from this meeting and I'll make sure everybody's on that Monday meeting, which Mara sets up.
+
+**Vivek Shankar:** So we'll continue over there.
+
+**Nicolette Mychajluk:** All right.
+
+**Nicolette Mychajluk:** Thank you so much.
+
+**Nicolette Mychajluk:** Bye.
+
+**Nicolette Mychajluk:** All right.
+
+**Nicolette Mychajluk:** Thanks everyone.
+
+**Nicolette Mychajluk:** Bye-bye.
+
+**Vivek Shankar:** Bye.
+
+**Vivek Shankar:** Bye.

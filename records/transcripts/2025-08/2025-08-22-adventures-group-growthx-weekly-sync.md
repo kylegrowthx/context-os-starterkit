@@ -1,0 +1,421 @@
+# Adventures Group <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-08-22
+time: 19:31 UTC
+duration: 16 minutes
+organizer: Mariana Montezzana (GrowthX)
+participants: Mariana Montezzana (GrowthX), Isabel Luna (The Adventures Group), Saul Sanz, Carlos G. Martinez
+fathom_recording_id: 82446797
+fathom_url: https://fathom.video/calls/387207344
+share_url: https://fathom.video/share/9zpx8JddcSyjnVqZ7BzsB54ocPBGcPxW
+source: fathom
+enriched_on: 2026-03-03 10:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and The Adventures Group reviewed record-breaking SEO performance (400k impressions) and aligned on destination landing page content strategy. Mariana shared new copy with SEO-optimized sections (location, distance, how to get there, what to see, best time to visit, travel tips) plus four FAQs and tour-specific information; the team agreed to exclude generic "where to eat" and "where to stay" sections to avoid audience mismatch, but may move these to FAQs. Isabel awaits vertical video versions from the videographer to begin building landing pages for Yelapa, Caletas, and Mahahuitas.
+
+---
+
+## Context
+
+This is a weekly sync between GrowthX and The Adventures Group, a tour operator specializing in Mexican destination experiences (Vallarta, Cancun, Cabo, and other coastal areas). The meeting focused on landing page development, SEO performance, and content strategy alignment for The Adventures Group's destination pages. Mariana Montezzana leads GrowthX's SEO and content work on the account; Isabel Luna leads strategy and creative on The Adventures Group side.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Landing page design/build process uses vertical video format and responsive layouts; content strategy for tour destination pages requires careful section hierarchy and keyword research to avoid page cannibalization across tour offerings; new technical consideration around spacing issues in content management system.
+
+- **To GrowthX Business Development:** Account showing strong organic growth (400k impressions, record clicks in Vallarta, Cancun, Cabo); content strategy is being systematized with FAQ sections and tour-specific information; mobile traffic represents 70-75% of audience, indicating mobile-first design is critical for user experience.
+
+- **To GrowthX Content:** Multi-location content strategy requires destination-specific angles (location, distance, how to get there, what to see, best time to visit, travel tips) integrated with tour benefits; FAQ strategy being deployed; keyword strategy includes low-volume terms with long-tail potential; cannibalization avoidance discipline needed across destination vs. tour pages.
+
+---
+
+## Overview
+
+- New landing page videos in progress; vertical versions pending for mobile optimization
+- Record-breaking SEO performance: 400k impressions, improvements in Vallarta, Cancun, and Cabo
+- Content strategy refinement: focusing on destination-specific info, tour details, and FAQs while avoiding cannibalization
+
+---
+
+## Key Topics
+
+### Landing Page Video Progress
+
+  - Videographer working on new header videos for Yelapa, Caletas, and Mahahuitas
+  - Vertical versions for mobile pending; Isabel awaiting these to start landing pages
+  - 70-75% of traffic is mobile, but desktop experience is notably superior
+  - Mobile landing page design praised for its stunning appearance
+
+### SEO Performance Update
+
+  - New record: 400,000 impressions achieved
+  - Clicks recovering from previous dip
+  - Specific article success: "drinking age in Mexico" (Cancun) performing well
+  - Vallarta showing significant improvement after targeted content creation
+  - Cabo also hitting record clicks and impressions
+
+### Content Strategy and Copywriting
+
+  - New version of copy with SEO considerations sent for review
+  - Added terms from previous research and four FAQs
+  - Content tailored for hotel zone visitors and day-trip perspective
+  - Debate on including "where to eat" and "where to stay" sections:
+      - Concern about relevance and potential to mislead target audience
+      - Suggestion to move these topics to FAQs if necessary
+
+### Destination Page Structure
+
+  - Agreed sections: location, distance from main destination, how to get there, what to see, best time to visit, travel tips
+  - Emphasis on highlighting tour benefits vs. independent travel
+  - Inclusion of tour-specific information (e.g., what to bring, inclusions, duration)
+  - Suggestion to add photos within text blocks for visual appeal
+
+### SEO Tactics and Considerations
+
+  - Discussion on including low-volume keywords for potential future traction
+  - Focus on avoiding cannibalization with existing tour pages
+  - Flexibility in page structure based on destination and angle
+
+---
+
+## Action Items
+
+**Isabel Luna (The Adventures Group)**
+- Review new version of copy with SEO considerations shared by Mariana
+
+**Lucero (The Adventures Group)**
+- Add photos to break up text blocks in landing page content
+
+---
+
+## Transcript
+**Mariana Montezzana:** So we just have Mariana, hola, hola, como vai?
+
+**Mariana Montezzana:** Tired, a little bit tired, but it was a good week.
+
+**Mariana Montezzana:** How about you?
+
+**Mariana Montezzana:** Very well, very well.
+
+**Isabel Luna:** Excited about these landing pages.
+
+**Isabel Luna:** Our videographer is already working on the next videos for the header.
+
+**Isabel Luna:** I love those.
+
+**Isabel Luna:** I know we already have Yelapa, Caletas, and what else?
+
+**Isabel Luna:** Yelapa, Caletas, I'm missing one, I think, and Mahahuitas.
+
+**Isabel Luna:** I gave him some feedback regarding Mahahuitas, but he's working on it.
+
+**Isabel Luna:** So I'm just waiting for the vertical versions, and once those are done, I'll be ready to start the landing pages.
+
+**Isabel Luna:** Yes, I was checking today.
+
+**Mariana Montezzana:** I didn't remember what was...
+
+**Mariana Montezzana:** is your radio, radio desktop to mobile, and like, it's a lot, you have a lot of mobile traffic, right?
+
+**Mariana Montezzana:** 70, 75?
+
+**Mariana Montezzana:** Yeah, yeah.
+
+**Mariana Montezzana:** And we see videos on the desktop, so beautiful, and like, they work on mobile as well, but the experience is so much better on the, on desktop, right?
+
+**Mariana Montezzana:** It's, it's a shame that people can, like, super wide format.
+
+**Isabel Luna:** But both, I mean, both.
+
+**Isabel Luna:** I also, have you checked that landing page in mobile?
+
+**Isabel Luna:** I think it looks stunning.
+
+**Isabel Luna:** No, they do.
+
+**Mariana Montezzana:** I'm just, I was just comparing desktop versus mobile.
+
+**Mariana Montezzana:** Everything works for both formats, that's great.
+
+**Mariana Montezzana:** But of course, the experience on, on desktop is so much better.
+
+**Mariana Montezzana:** If you say so.
+
+**Mariana Montezzana:** And I was, because I was creating, um, tracking, a position tracking on SEMrush, and I did it for.
+
+**Mariana Montezzana:** Because it doesn't make sense to create for Omba.
+
+**Mariana Montezzana:** Okay, I don't have a lot.
+
+**Mariana Montezzana:** I was publishing some articles for you now, but just to share the numbers.
+
+**Mariana Montezzana:** And I don't have a lot more topics other than that.
+
+**Mariana Montezzana:** Well, so we hit a new record of impressions.
+
+**Mariana Montezzana:** Okay, so we hit the 400,000 impressions mark.
+
+**Mariana Montezzana:** The clicks, like, gain a little bit back of what we missed.
+
+**Mariana Montezzana:** And this is one specific article, the drinking age in Mexico that we posted in Cancun.
+
+**Mariana Montezzana:** Like, it's still performing really well, but there was this search.
+
+**Mariana Montezzana:** Vallarta, improving a lot.
+
+**Mariana Montezzana:** We were like...
+
+**Mariana Montezzana:** A little bit slow in Vallarta, but then we did a task force to create more articles to Vallarta, and it's working, so record impressions, Cancun, that issue, and Cabo, also record clicks and impressions, okay?
+
+**Mariana Montezzana:** And that's it, that's all I had, was like, do we have any, I sent you the new version of the copy with the considerations for SEO, I added some more stuff, it's, it's, I started adding there, but, like, with the spacing issue, it would be really great if we could solve that before, or else we're going to have to manually add, and then go back again, and, uh, take out the spaces when we have that fixed.
+
+**Isabel Luna:** Yeah, yeah, I understand. I haven't seen it yet, so I need to give you feedback about the copy.
+
+**Isabel Luna:** Did you like it?
+
+**Isabel Luna:** Do you think that's...
+
+**Isabel Luna:** I haven't seen it.
+
+**Isabel Luna:** I can share more.
+
+**Isabel Luna:** I can open here.
+
+**Isabel Luna:** Okay.
+
+**Isabel Luna:** can do this.
+
+**Mariana Montezzana:** So all those terms that were in the list of the research, that we did, I added.
+
+**Mariana Montezzana:** Okay.
+
+**Mariana Montezzana:** I added the FAQs as well.
+
+**Mariana Montezzana:** Mm-hmm.
+
+**Isabel Luna:** Okay.
+
+**Isabel Luna:** Four.
+
+**Mariana Montezzana:** Four FAQs.
+
+**Mariana Montezzana:** And I also like made sure we are communicating, we're talking to people that are staying in the hotel zone.
+
+**Mariana Montezzana:** Mm-hmm.
+
+**Mariana Montezzana:** Okay.
+
+**Mariana Montezzana:** Like it was a day trip.
+
+**Mariana Montezzana:** Mm-hmm.
+
+
+**Mariana Montezzana:** What else?
+
+**Mariana Montezzana:** Also, we changed the angle here for the best time to visit.
+
+**Isabel Luna:** Mariana, I think we have agreed that those titles of where to eat or where to stay, we were not going to include them.
+
+**Mariana Montezzana:** Let me see the original.
+
+**Mariana Montezzana:** Where to eat?
+
+**Isabel Luna:** Uh-huh, for instance, in my email, I said that we should keep on where it's located, how long does it take, what is to see there.
+
+**Mariana Montezzana:** But do you think it's a problem if we keep it for the search volume sake?
+
+**Mariana Montezzana:** Let's take a look at the, let's see if it has.
+
+**Isabel Luna:** I don't want to post content that doesn't make sense.
+
+**Isabel Luna:** Okay.
+
+**Isabel Luna:** I don't want to insist, of course, but like the way it is here, it's, or is it, I don't know, this, where to eat.
+
+**Mariana Montezzana:** There are no restaurants or food vendors as they are part, and then we recommend like full day eco-discovery tours include barbecue lunches and open bars, so we leverage this search to talk about, to mention the fact that the, in this case, you wouldn't need to go to any restaurants because the tours already include food.
+
+**Mariana Montezzana:** Okay, but we can take it out, I'm just thinking out loud, not necessarily thinking about Maria.
+
+**Isabel Luna:** But the rest of the destinations, like, for example, if we're talking about Chichen Itza, I'm pretty sure there are vendors outside, but it's not a recommendation we are going to give, as in our tour, people will have, you know, the option to, and people won't go there to eat, you know what I'm saying?
+
+**Isabel Luna:** And there are other destinations.
+
+**Isabel Luna:** Sayulita, for example, is a super cool destination for dining.
+
+**Isabel Luna:** However, I'm not sure.
+
+**Isabel Luna:** Again, I'm not sure.
+
+**Mariana Montezzana:** And I'm also not sure, since we're going to, to need to manually add each one of these pages, it's not a problem if we add this section to some of the pages and, and don't Not necessarily to all.
+
+**Mariana Montezzana:** It wouldn't be like a huge problem since it's kind of like a.
+
+**Mariana Montezzana:** Manual, the process of putting, but I totally get your point of the where to, like there's no search volume for that keyword where to eat in Marietta's Island, but the fact that I've seen too many times, sometimes you add an article, for example, things to do in November in Puerto Vallarta, you think there's, because it shows zero and sometimes you end up getting a lot of traction from that.
+
+**Mariana Montezzana:** article that was showing, for that keyword that was showing zero, but I think it's not like, it wouldn't, it's not a make or break the success of the pages issue, okay?
+
+**Mariana Montezzana:** And it's going to be the same thing with where to stay.
+
+**Isabel Luna:** First, well, in Marietas in particular, there's no place to stay, but in other destinations where there is, the problem we are going to encounter is that there's, that's,
+
+**Isabel Luna:** a subject in itself, know, let's say Sayulita or Todos Santos, there is a huge variety of places, huge variety of restaurants, and people that we want to attract is not people who's looking for staying there, you know.
+
+**Mariana Montezzana:** Yeah, we will be missing the target in the sense of we will be talking to people that want to stay in Sayulita when, in fact, we want to talk to people that are staying the main destination.
+
+**Mariana Montezzana:** Yeah, I get it.
+
+**Mariana Montezzana:** Do you think we should replace for other types?
+
+**Isabel Luna:** I think you already covered the ones we recommended, it's a shorter list, but we, at the same time, we are trying to avoid cannibalization, so we don't need to, know, like, cover every single topic regarding that destination.
+
+**Isabel Luna:** Because some of those topics are already in the tour pages, right?
+
+**Isabel Luna:** The ones I recommended based on Carlos's recommends were...
+
+**Isabel Luna:** A ver, donde lo puse.
+
+**Isabel Luna:** Ay, ya lo perdi.
+
+**Mariana Montezzana:** Sorry, look at other, like, different sections to add more, like, cultural...
+
+**Mariana Montezzana:** Maybe the name of the species, can be...
+
+**Isabel Luna:** have two words to add.
+
+**Isabel Luna:** Yeah, so I was saying, where is located, that I think you already got it, how far it is from Puerto Vallarta, or the main destination, how to get there, that's important, especially for people who think they can get there by themselves, and in some cases they would be able to.
+
+**Isabel Luna:** So, for example, to go to Sayulita, you can take a public transportation bus, it will cost...
+
+**Isabel Luna:** Nothing like $2, but it will take you two hours to get there, so maybe, and there's no AC, so there's a pros and cons, you know.
+
+**Isabel Luna:** It would be the best experience.
+
+**Isabel Luna:** Exactly.
+
+**Isabel Luna:** So we can talk about those, like, less ideal ways to go there, and then we will highlight the benefits of going with us in a tour in general.
+
+**Isabel Luna:** What is there to see in that place?
+
+**Isabel Luna:** Where is the best moment to visit, or you already put, like, places to see, and travel tips to visit.
+
+**Isabel Luna:** And we can travel tips, maybe the packing list can be part of the travel tips.
+
+**Mariana Montezzana:** Yeah, when I redid this, I have this part where I have the information for all the tours, and I pasted the information of the tours we're recommending.
+
+**Mariana Montezzana:** So, let me just a second.
+
+**Mariana Montezzana:** So, I have this, like, cards with all the tours, with the information that's in the page, what to bring, inclusions, duration, so I copy and pasted it, and so that is reflected, for example, here.
+
+**Mariana Montezzana:** For example, how long is the boat ride to Marietta's Island?
+
+**Mariana Montezzana:** It added some information from the tours, so more connected to the tours.
+
+**Mariana Montezzana:** Yep.
+
+**Mariana Montezzana:** Okay.
+
+**Mariana Montezzana:** And I think, like, since we're launching different pages, different angles, it's not just the main destinations, I think we can, and this is a block of text, I think it's not, we don't need to have the same structure here, okay?
+
+**Isabel Luna:** Another thing Lucero can do is to add photos in the middle of that text block.
+
+**Mariana Montezzana:** Yeah, that's good.
+
+**Mariana Montezzana:** That's a good idea.
+
+**Mariana Montezzana:** And let's say another alternative, again, I'm not insisting, just bringing in the alternatives, is to bring this to the FAQs.
+
+**Mariana Montezzana:** Not this, but the...
+
+**Mariana Montezzana:** The word to say and what to eat.
+
+**Mariana Montezzana:** Yeah, these two.
+
+**Mariana Montezzana:** Just quick FAQs at the end.
+
+**Isabel Luna:** Yeah.
+
+**Isabel Luna:** Can I stay at the Zosmaria?
+
+**Isabel Luna:** No, you can't.
+
+**Mariana Montezzana:** You need to stay at the Hotel Zone and take a tour.
+
+**Isabel Luna:** Because it's a question, right?
+
+**Isabel Luna:** Yeah, sure.
+
+**Isabel Luna:** That's something someone might ask.
+
+**Isabel Luna:** In the past, before the Neurigo...
+
+**Isabel Luna:** Congratulations.
+
+**Isabel Luna:** People could step into the islands.
+
+**Isabel Luna:** Right now, they can't.
+
+**Isabel Luna:** Uh-huh.
+
+**Isabel Luna:** Yeah, better like that.
+
+**Mariana Montezzana:** Bueno, Carlos or Saul or Lucero, if some of you have any questions.
+
+**Isabel Luna:** Hi, guys.
+
+**Isabel Luna:** I'll have to escape for a second, but please continue.
+
+**Mariana Montezzana:** Okay.
+
+**Mariana Montezzana:** I don't have any topics.
+
+**Mariana Montezzana:** don't know if you have anything else you want to add.
+
+**Mariana Montezzana:** Not really.
+
+**Saul Sanz:** Did that make sense to you, Carlos?
+
+**Saul Sanz:** No, I don't have anything for that.
+
+**Seo The Adventures Group:** Okay.
+
+**Seo The Adventures Group:** that's good, though.
+
+**Seo The Adventures Group:** Okay.
+
+**Seo The Adventures Group:** Okay.
+
+**Seo The Adventures Group:** Then let's wrap it up.
+
+**Seo The Adventures Group:** I guess that's it.
+
+**Seo The Adventures Group:** Yeah.
+
+**Mariana Montezzana:** So, 15 minutes back.
+
+**Mariana Montezzana:** Okay.
+
+**Mariana Montezzana:** Thank so much.
+
+**Mariana Montezzana:** See week.
+
+**Mariana Montezzana:** Bye-bye.
+
+**Seo The Adventures Group:** Thank you.
+
+**Seo The Adventures Group:** Bye.
+
+**Seo The Adventures Group:** Thanks.
+
+**Seo The Adventures Group:** Bye.
+
+**Seo The Adventures Group:** Bye.
+
+**Seo The Adventures Group:** Bye.

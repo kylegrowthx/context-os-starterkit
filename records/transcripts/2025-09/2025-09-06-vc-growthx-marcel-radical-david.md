@@ -1,0 +1,2038 @@
+# VC: GrowthX (Marcel) // Radical (David)
+
+<metadata>
+date: 2025-09-06
+time: 15:31 UTC
+duration: 78 minutes
+organizer: Marcel Santilli (GrowthX)
+participants: Marcel Santilli (GrowthX), David Katz (Radical Ventures), Richa Mehta (Radical Ventures), Natasha Lim (Radical Ventures)
+fathom_recording_id: 85446292
+fathom_url: https://fathom.video/calls/402664676
+share_url: https://fathom.video/share/xCyjKF5KwkxhL4kdn1HkrFL-uKDyqsMt
+source: fathom
+enriched_on: 2026-03-02 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Marcel Santilli pitched GrowthX to Radical Ventures partners David Katz, Richa Mehta, and Natasha Lim, showcasing the company's AI-powered content creation platform and ambition to become the operating system for expert knowledge work across industries. The conversation centered on GrowthX's differentiated approach—combining proprietary AI workflows with human expertise to deliver $9,000-$30,000/month services—and its technical advantage built on a custom AI agent orchestrator with runtime capabilities for complex workflows. David articulated Radical's thesis on early-stage AI businesses: rapid revenue spikes are possible with the right team, but durability comes from spotting and capitalizing on broader opportunities, which requires founders with the ambition, first-principles thinking, and resilience to scale beyond the initial product.
+
+---
+
+## Context
+
+Radical Ventures is an early-stage AI fund founded and run by AI specialists, with many partners who are former founders with deep operational experience. This is an introductory pitch meeting between GrowthX (a one-year-old AI services and software company founded by Marcel Santilli) and the Radical investment team. Richa Mehta initiated the introduction and facilitated the meeting with David Katz, who has an extensive background building and scaling businesses in digital marketing, creative networks, and affiliate marketing. Marcel came to this meeting looking for investors who understand AI deeply and have empathy for the founder journey—specifically valuing first-principles thinking and the ability to look beyond traditional venture patterns. The timing is significant: GrowthX only received its first institutional capital in March 2025 (six months prior), and everything the company has built—the technology, team, and client base—was developed in just 12 months.
+
+---
+
+## Relevance
+
+**To GrowthX Business Development:**
+- Radical Ventures is founder-friendly and explicitly supportive through its Velocity program, offering hands-on help beyond capital—David Katz articulated this as "we want to be helpful in the build"
+- David's experience scaling two previous companies to significant revenue ($130M in affiliate marketing, exit to Capital One in insurance tech) maps directly to GrowthX's scaling challenges
+- Radical's model is to invest in early traction (10-20M revenue range) but bet on teams with the resilience, thinking, and vision to build durably beyond initial product success
+- Team composition matters deeply to Radical—they explicitly value founders and investor partners with operational empathy, which aligns with how Marcel positions GrowthX's founding team
+
+**To GrowthX Delivery:**
+- Marcel emphasized that no investor has gone this deep into GrowthX's thinking and methodology before, suggesting a gap in investor understanding of the company's architectural decisions and competitive positioning
+- The conversation highlighted GrowthX's "first-principles thinking" as a core differentiator—this appears to be a message worth reinforcing to other potential investors
+
+**To CheckThat / AI Visibility:**
+- David articulated a clear investment thesis on AI businesses: rapid revenue spikes are possible, but defensibility requires spotting broader opportunities early and building for scale with the right team
+- The conversation centered on how GrowthX's approach—codifying expert knowledge work through AI—is defensible precisely because it requires deep domain understanding (marketing, content, workflows) combined with AI infrastructure
+- This positions CheckThat (GrowthX's AI visibility product) as a natural extension: if GrowthX is the OS for knowledge work, visibility into what AI models "see" becomes infrastructure
+
+---
+
+## Overview
+
+- GrowthX has built an AI-powered content creation and workflow automation platform, leveraging Marcel's extensive marketing experience
+- The company aims to codify expert knowledge work processes, going beyond just content marketing to become a core operating system for businesses
+- GrowthX sees potential to expand into other areas of business operations and become a platform for AI-assisted knowledge work across industries
+- The team's deep expertise in AI, infrastructure, and marketing gives them a unique advantage in building this new paradigm
+
+---
+
+## Key Topics
+
+### Marcel's Background and Experience
+
+  - Started as a designer/developer, built marketing agencies and platforms
+  - Worked at major tech companies (IBM, HP, HashiCorp) building content engines and driving growth
+  - Developed expertise in content marketing, SEO, and building high-performing marketing teams
+
+### GrowthX's Current Business Model
+
+  - Offers AI-powered content creation and marketing services to companies
+  - Uses proprietary AI workflows and human expertise to produce high-quality content at scale
+  - Charges $9,000-$30,000 per month for services, seen as cost-effective vs. traditional agencies
+  - Growing rapidly through word-of-mouth and delivering strong results for clients
+
+### GrowthX's Technology Platform
+
+  - Built an AI agent orchestrator with runtime layer for complex workflows
+  - Created coding agents that can generate and modify AI workflows
+  - Developed tools like AI editor, deep researcher, and fact-checker
+  - Focusing on capturing expert process data and learning from outputs
+
+### Vision for Future Growth
+
+  - Expand beyond content marketing to become a platform for codifying expert knowledge work
+  - Potential to offer self-hosted solutions for enterprises or power other agencies
+  - Build out marketplace for expert human interventions in AI workflows
+  - Leverage accumulated data and learnings to train more advanced AI models
+
+### Competitive Advantage and Defensibility
+
+  - Team's deep expertise in AI, infrastructure, and marketing
+  - Proprietary workflow engine and tools built for AI-native processes
+  - Accumulating valuable data on expert knowledge work processes
+  - Strong reputation and results driving word-of-mouth growth
+
+### Investor Fit and Partnership
+
+  - Looking for investors who understand AI and have empathy for operators
+  - Value first-principles thinking and willingness to see beyond traditional patterns
+  - Appreciate Radical's AI expertise and founder-friendly approach
+
+---
+
+## Action Items
+
+- **Radical Ventures team**: Follow up with Marcel Santilli (GrowthX) on investment terms and next steps; explore Velocity program fit
+- **David Katz (Radical Ventures)**: Continue deep-dive conversations on GrowthX's infrastructure strategy and scaling playbook
+- **Marcel Santilli (GrowthX)**: Prepare detailed technical documentation on the AI agent orchestrator and workflow engine for Radical technical diligence
+- **Both teams**: Schedule follow-up call to discuss Radical's specific value-add beyond capital (partnerships, technical expertise, network introductions)
+
+---
+
+## Transcript
+**Natasha Lim:** This meeting is being recorded.
+
+**Marcel Santilli:** The main cave.
+
+**Richa Mehta:** Oh, wow.
+
+**Marcel Santilli:** Slash the office.
+
+**Richa Mehta:** Oh, it looks amazing.
+
+**Marcel Santilli:** Yeah, my wife did all the renovations and stuff, you know, so I take no credit for it.
+
+**Richa Mehta:** Yeah, I am not surprised seeing the state of your office.
+
+**Marcel Santilli:** It makes sense.
+
+**Marcel Santilli:** very agency-esque.
+
+**Marcel Santilli:** David, it's so nice to see you, man.
+
+**David Katz:** Nice to see you, Marcel.
+
+**Marcel Santilli:** How are you doing?
+
+**Marcel Santilli:** Really good.
+
+**Marcel Santilli:** Thanks for taking the time on a Saturday, man.
+
+**David Katz:** Sorry to take it away from me.
+
+**David Katz:** No, it's good.
+
+**David Katz:** mean, look, now I have instant office envy, home office envy.
+
+**David Katz:** I like organize my bookshelves to try to make me look super cool.
+
+**Marcel Santilli:** It's like you look at the output and you're like, that was easy, right?
+
+**Marcel Santilli:** But if you look at the messy middle to get here, I don't know if anyone would have want to gone through it.
+
+**David Katz:** That's why this is all of the house I'm showing you.
+
+**Marcel Santilli:** I like it.
+
+**Marcel Santilli:** If you go upstairs, my two-year-old has things everywhere.
+
+**David Katz:** Well, it's very different.
+
+**David Katz:** I have a 22-year-old, so I came down to bottles of bourbon open and clean up.
+
+**Marcel Santilli:** You just added two, and that's it, right?
+
+**David Katz:** Yeah.
+
+**David Katz:** My morning cleanup is basically, it feels like I'm cleaning up a bar.
+
+**Marcel Santilli:** That is hilarious.
+
+**Marcel Santilli:** Something for me to look forward to, I guess.
+
+**David Katz:** Yeah.
+
+**David Katz:** Actually, it is.
+
+**David Katz:** It is.
+
+**David Katz:** It's fun.
+
+**Richa Mehta:** Excited for you both to connect and meet.
+
+**Richa Mehta:** We've obviously shared a bunch about GrowthX with the team.
+
+**Richa Mehta:** David spent many years in this space, has built businesses in this space, so excited for you to get a chance to connect with him, pick his brain, maybe learn more about Radical as well.
+
+**Richa Mehta:** But we'll let maybe David introduce himself first, and then, Marcel, if you want to introduce yourself and GrowthX, and then, you know, we can go from there.
+
+**Richa Mehta:** Natasha and I will sort of listen in and guide the conversation.
+
+**Marcel Santilli:** That's perfect.
+
+**David Katz:** That's great.
+
+**David Katz:** And I'll do a little bit of a more, because you're like, I mean, you've been living this stuff for so long.
+
+**David Katz:** know, I...
+
+**David Katz:** I'll do a little bit of expanded background for me, just so that you can get a sense for where I'm coming from.
+
+**David Katz:** So I started my startup career as a founder in the insurtech space.
+
+**David Katz:** And I actually, I was a lawyer.
+
+**David Katz:** I left to go run a startup with a couple other folks.
+
+**David Katz:** It was backed by Warburg, Pincus, and Onyx.
+
+**David Katz:** And the idea was, can we build an online insurance marketplace, private labeled, for banks and financial institutions to sell insurance to their own customers under their brand name?
+
+**David Katz:** They have these great, they have these massive customer bases, think like Ford, Citibank, but they don't have like a digital offering for them.
+
+**David Katz:** So we built the online front end, we built the relationships with all the carriers across the US, and built this sort of competitive market.
+
+**David Katz:** Place where you can get comparative quotes.
+
+**David Katz:** We built marketing programs.
+
+**David Katz:** Ford Credit was the biggest customer that I signed, and we were their exclusive provider in the U.S.
+
+**David Katz:** So they got all the red truck, you know, marketing pieces online.
+
+**David Katz:** They would call up or they would either come to call center online, get a competitive quote.
+
+**David Katz:** Then I built a call center in Tennessee, staffed with 350 licensed agents to close all the business that came off the web and did that for Schwab, did that for Capital One, did that for Citibank, did that for Sears, sold the business to Capital One Bank in 2005.
+
+**David Katz:** So ran it from like, basically, I gave up my law practice and joined them.
+
+**David Katz:** After I negotiated my equity package with Onyx and everyone, the market crashed a month later.
+
+**David Katz:** So I built all this during the biggest headwinds of the dot-com crisis, which also was like an insane education.
+
+**Marcel Santilli:** Backable timing.
+
+**David Katz:** Yeah, yeah.
+
+**David Katz:** I've never been accused of great timing, but it was a...
+
+**David Katz:** It was a really good outcome.
+
+**David Katz:** That's cool.
+
+**David Katz:** Then I realized that I love these marketing platforms that leverage like low costs of acquisition and the power of brands.
+
+**David Katz:** So my next idea was, what if I build, well, actually, first I went through a phase where I said I just want to run a paperclip company.
+
+**David Katz:** I don't want anything digital or anything technology related ever again.
+
+**David Katz:** But then I had this idea that if I built a network of creatives, we were starting to get into the digital creatives space or era, I thought like if I can aggregate all of these creatives, designers, art directors, creative directors, illustrators, writers, photographers, and build a critical mass of them online where they can show their work and then market it to ad agencies and publishers.
+
+**David Katz:** The higher off the site, I thought that was like a really compelling model because sort of the creative.
+
+**David Katz:** Evolution was starting to happen and it was moving digital.
+
+**David Katz:** And so I built a company called Portfolios.com.
+
+**David Katz:** And I went at that for a couple of years and I realized I  up because you can't have creative people as your customers because they don't make sound business decisions.
+
+**David Katz:** And so I was like getting all these people, tons of work.
+
+**David Katz:** I grew it to about 240,000 members in 18 months.
+
+**David Katz:** And, but like they would pay me a couple hundred dollars to be on the site for the year.
+
+**David Katz:** They'd get thousands of dollars of jobs.
+
+**David Katz:** And then I'd say, okay, are renewing?
+
+**David Katz:** They're like, I think I want to try something else this year.
+
+**David Katz:** And I'm like, no, you do this and something else.
+
+**David Katz:** That's how you build your business.
+
+**David Katz:** Like, so I, as soon as that was happening, those renewal cycles, I said, I got to get out of this business.
+
+**David Katz:** And then I realized actually, why don't I flip it?
+
+**David Katz:** Because what I did was I syndicated all their content through Condé Nast and all these other big publications.
+
+**David Katz:** So you go to Condé and ask what.
+
+**David Katz:** And there was a tab for portfolios, and you'd see all these people.
+
+**David Katz:** And I said, this is a backwards model, I should flip it.
+
+**David Katz:** And I should have all these creatives promoting Condé Nast, and all these other businesses that, you know, because they can do the creative, they can build blogs, they can go out and, and basically syndicate out these offers.
+
+**David Katz:** And so I flipped it into an affiliate network.
+
+**David Katz:** And then I sold it to a company in Canada, a public company that was looking to move from just being a digital marketing agency, to something more powerful, where they can control distribution.
+
+**David Katz:** And, and then I was there on an earn out and scaled that business.
+
+**David Katz:** When I sold it, it was like, I think it was like a few million dollars in revenue, like low, and scale it to 130 million dollars of revenue in, 14 months.
+
+**David Katz:** And then I realized, and this is the worst business in the world, because um,
+
+**David Katz:** You're a middleman between advertisers who are getting shadier and shadier and shadier in performance marketing.
+
+**David Katz:** So think like a sock berry and all that kind of crap, diet pills and all that.
+
+**David Katz:** And then, you know, credit card offers too and some of that.
+
+**David Katz:** then these like 12, 13 year old, like black hat affiliates that were generating, building blogs and promoting these offers in a very brand unsafe way.
+
+**David Katz:** And we were caught in the middle.
+
+**David Katz:** I had to pay these people net one day.
+
+**David Katz:** I was wiring the money every day to do Google search and whatever, generate.
+
+**David Katz:** And on the other side, the brands were like paying, you know, 60 days and saying, if you shut down my volume, I'll lose my processing power.
+
+**David Katz:** And so I'll only pay you if you continue to maintain this volume.
+
+**David Katz:** And I was like, okay, this is the worst business ever, but it was good that I was in an earn out.
+
+**David Katz:** And so when that, so then what I said was, okay, I want to now.
+
+**Marcel Santilli:** see.
+
+**Marcel Santilli:** You
+
+**Marcel Santilli:** I to build programmatic media so I can control my own distribution.
+
+**David Katz:** I started building DSPs, data management platforms, SSPs, and built a pretty good business there really quickly to offset that risk.
+
+**David Katz:** And then after my earner, I said, okay, I want to go do another startup.
+
+**David Katz:** So then I realized the bar was super low, still in insurance.
+
+**David Katz:** So I built a health benefits company, like a third-party administrator of health benefits.
+
+**David Katz:** And then I built my own distribution, my own agents.
+
+**David Katz:** I went direct also, sold that to a company in France.
+
+**David Katz:** And then during my earn out, realized I was trapped in a company for four years, and that was just not something I wanted to do.
+
+**David Katz:** And they were awful owners, I realized very quickly.
+
+**David Katz:** And so I convinced them, if I launch another startup, move all this business onto a new platform that's super digital and  and cool, and I can sell it a second time, are you into that?
+
+**David Katz:** Actually, that was my plan from the beginning.
+
+**David Katz:** And they were like, okay.
+
+**David Katz:** Because they were getting acquired by private equity.
+
+**David Katz:** So I did that and I sold it to a company in Canada.
+
+**David Katz:** And then I joined Radical four and a half years ago.
+
+**David Katz:** So I think the longer context is I love marketing platforms.
+
+**David Katz:** I love anything that drives customer acquisition.
+
+**David Katz:** I think there's always room to build giant businesses in this space, but no one has really built a giant business in this space yet.
+
+**David Katz:** And I see every one of these new paradigms as an opportunity to reset what a marketing business can look like, an agency can look like.
+
+**David Katz:** But super curious about how this becomes a giant business.
+
+**Marcel Santilli:** I am so pumped right now.
+
+**Marcel Santilli:** I swear to God.
+
+**Marcel Santilli:** I'm not just saying that.
+
+**Marcel Santilli:** Because I think as I tell you my journey, you'll totally get, right?
+
+**Marcel Santilli:** Okay, so is that okay if I go through a little bit?
+
+**David Katz:** Yeah, yeah, yeah.
+
+**Marcel Santilli:** I love that.
+
+**Marcel Santilli:** I love that.
+
+**Marcel Santilli:** It's super relevant so it's not like, oh, Marcel just started thinking about this yesterday.
+
+**Marcel Santilli:** So I'm originally from Brazil.
+
+**Marcel Santilli:** Born and raised in Sao Paulo, moved to Texas when I was 11, and then I learned how to use Photoshop when I was 14, and started doing flyers and websites, and then Dreamweaver and all that, you know, and paid my way through college doing that.
+
+**Marcel Santilli:** I thought I was going to go do advertising and realize that I got an internship and they wouldn't be paying me in Red Bulls, and I was like, I can't pay my rent in Red Bulls or my tuition, so no, thank you.
+
+**Marcel Santilli:** So I built this agency, it's called Fusion20.com, and it was just like a website, this is like, you know, first year in college, and then I was like, how do I get customers so I don't have to go work in a restaurant, because I was horrible at it.
+
+**Marcel Santilli:** And so I was like, oh, there's this thing, Google Ads, and so I learned how to do Google Ads really quickly, and it was like, people started emailing me, thinking I was this big agency, because I made the website look really nice.
+
+**Marcel Santilli:** And so I started getting customers like, oh, this is sweet, I can be in class half listening to a lecture.
+
+**Marcel Santilli:** Doing the work.
+
+**Marcel Santilli:** so I took my way through college doing that, which is a lot of fun.
+
+**Marcel Santilli:** But then realized I didn't want to be the person getting directions from the client, aka advertising and the creative, because half of the time I didn't agree with what they were saying.
+
+**Marcel Santilli:** And I was like, you have no clue what you're talking about.
+
+**Marcel Santilli:** No, I'm not going to move this to the right.
+
+**Marcel Santilli:** And so I decided to do the marketing side instead, you know.
+
+**Marcel Santilli:** And so I graduated early and started working at IBM.
+
+**Marcel Santilli:** And I had already built some logs and websites and things like that too, right?
+
+**Marcel Santilli:** And so at IBM, I was part of this, eventually I was part of this division called IBM Security.
+
+**Marcel Santilli:** And we had just bought Qradar and Trustio, two security companies in Israel.
+
+**Marcel Santilli:** And my job was to consolidate them.
+
+**Marcel Santilli:** And I used to manage all our social media and our blogs and content, right?
+
+**Marcel Santilli:** And I was like, we get no clicks on this stuff.
+
+**Marcel Santilli:** Like, it's just like buried.
+
+**Marcel Santilli:** This  IBM.com, like intranet thing, you know, and so the VP of marketing from the company that we acquired was like, hey, we have this domain, secureintelligence.com.
+
+**Marcel Santilli:** I don't know if you guys want to do anything with it.
+
+**Marcel Santilli:** Just let me know.
+
+**Marcel Santilli:** And it's like, oh, my God.
+
+**Marcel Santilli:** It was like this light bulb moment.
+
+**Marcel Santilli:** I get to go build my website myself.
+
+**Marcel Santilli:** So I went to the GM and I was like, please let me do this.
+
+**Marcel Santilli:** Like, you don't need to give me any budget.
+
+**Marcel Santilli:** I'll figure it all out.
+
+**Marcel Santilli:** And in six months, if it's not super successful, please fire me.
+
+**Marcel Santilli:** Because in my head, I'm just like, this is brutal to be an IBM, you know, 200,000 person company.
+
+**Marcel Santilli:** And so I launched the site and I figured out a way to get every single person with the word security, their title, their email from the intranet.
+
+**Marcel Santilli:** And they started recruiting people like crazy.
+
+**Marcel Santilli:** And then eventually convinced our X-Force research group to move all their content over.
+
+**Marcel Santilli:** And so I launched the site, just like a WordPress site.
+
+**Marcel Santilli:** Within one year, we spent just under 300K in content overall.
+
+**Marcel Santilli:** We got over 15,000 leads and generated 15 million in revenue.
+
+**Marcel Santilli:** Like, attributed revenue.
+
+**Marcel Santilli:** That alone was hard to do because no one had marketing attribution.
+
+**Marcel Santilli:** You think, like, IBM had, like, marketing automation.
+
+**Marcel Santilli:** It was just, like, I had to, like, do so many different things to figure out how the hell can I get a number that says what we contributed.
+
+**Marcel Santilli:** And it lasted 15 years.
+
+**Marcel Santilli:** It just got folded back into IBM.com.
+
+**Marcel Santilli:** A good friend of mine, Brian Casey, who was, like, helping me as well at the time is still at IBM and owns all of IBM.com now.
+
+**Marcel Santilli:** And he's, like, dude, this started the movement.
+
+**Marcel Santilli:** And so that gave him the keys to change all of IBM.com and restructure to be a content-first site.
+
+**Marcel Santilli:** And they more than, like, you can see the organic traffic for IBM.com.
+
+**Marcel Santilli:** But it started with that site, you know.
+
+**Marcel Santilli:** It won Best B2B website award as some random thing, not that it matters.
+
+**Marcel Santilli:** But, and so I was in the Bay Area.
+
+**Marcel Santilli:** got invited by this vendor that we were using to find and source writers.
+
+**Marcel Santilli:** So I realized, like, the bottleneck to growing wasn't the site necessarily.
+
+**Marcel Santilli:** It was the fact that I needed to produce more high-quality content, right?
+
+**Marcel Santilli:** And to do that, there were some bottlenecks.
+
+**Marcel Santilli:** I never liked being an editor, so I had to get a managing editor, essentially, right, to edit the content and make the content better, right?
+
+**Marcel Santilli:** And then there's all these little steps that had to happen to go from, hey, here's a topic, here's an idea, here's an opportunity that our audience cares about, all the way to getting it published.
+
+**Marcel Santilli:** And then you can build distribution once you have actually quality themes, right?
+
+**Marcel Santilli:** And every step of the way, IBM wouldn't let me hire, and so it was, like, brutal.
+
+**Marcel Santilli:** had to go find, you know, like, an agency that then had to recruit writers and experts, and it was just, like, didn't work.
+
+**Marcel Santilli:** So then when HP offered me to move to the Bay Area and build something similar from the ground up for HP Software, it's like, this is perfect.
+
+**Marcel Santilli:** So I launched a site called techbeacon.com, and we built it.
+
+**Marcel Santilli:** I went and poached four of the best editors from Computer World and Wired, and, you know, I spent, like, a month training them on how I would think about it and, you know, essentially developing, like, who are
+
+**Marcel Santilli:** The audiences were going after, and we were kind of like the service unit for all of HP Software.
+
+**Marcel Santilli:** So, and so the whole model was like, okay, how do we build network effects into it?
+
+**Marcel Santilli:** So I said, let's go after every single person that speaks at conferences or that is legit in these topic areas, right?
+
+**Marcel Santilli:** So that's what we did.
+
+**Marcel Santilli:** I built a recruiting engine.
+
+**Marcel Santilli:** And so I would go to like David Lenticum, this guy in the cloud that had a bit of distribution and some authority in the space.
+
+**Marcel Santilli:** And I'll say, David, I can pay $1.50 a word.
+
+**Marcel Santilli:** And said, oh, that's great, you know?
+
+**Marcel Santilli:** And then he would give a piece of content, but I actually didn't need 50 pieces of content from him, right?
+
+**Marcel Santilli:** I just needed to say that I was using him and that he was legit, you know?
+
+**Marcel Santilli:** And so we kind of did this mix.
+
+**Marcel Santilli:** And the whole idea was like, you might have to start with 80% paid.
+
+**Marcel Santilli:** And of those 80, maybe 40% are experts and 40% are ghostwriters and journalists or, you people that are reporting.
+
+**Marcel Santilli:** And then over time, hopefully you can kind of get like a highly editorialized contributor network.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so we did that.
+
+**Marcel Santilli:** We built it.
+
+**Marcel Santilli:** We, and within about three years, it was about a million organic visits a month, all organic.
+
+**Marcel Santilli:** We had built a newsletter of almost 300,000 subscribers and it outlasted HP Software because HP Software started breaking out.
+
+**Marcel Santilli:** Then it was part of Micro Focus and eventually they F it up, but it lost it quite a while.
+
+**Marcel Santilli:** And what was really cool was that, that I saw was like year four, right?
+
+**Marcel Santilli:** We, the incremental visit to the site was costing us eight cents.
+
+**Marcel Santilli:** So if you took the overall monthly cost of the site and, and the increment and divided it by the number of visits per month, it was less than eight cents.
+
+**Marcel Santilli:** And the average visitor was spending over five minutes.
+
+**Marcel Santilli:** So it was 50 cents for someone to spend an hour on the site.
+
+**Marcel Santilli:** was insane.
+
+**Marcel Santilli:** Like there's no channel on the planet.
+
+**Marcel Santilli:** The quality was insane.
+
+**David Katz:** What year would this have been?
+
+**Marcel Santilli:** Uh, 2015 to 2020, uh, this was like hard spaces like that box.
+
+**Marcel Santilli:** Ups, security, data, you know, like dev-related things.
+
+**Marcel Santilli:** And the cool thing that happened was like, so I'm inside of this massive organization, constantly corporate markets, constantly trying to kill us.
+
+**Marcel Santilli:** Why do we have a site outside of hp.com?
+
+**Marcel Santilli:** And then what I started to do is like the GM for security, Jennifer, she's not the same of Udemy and the customer now because she's solid working.
+
+**Marcel Santilli:** It's really cool.
+
+**Marcel Santilli:** Do you guys want to talk to her?
+
+**Marcel Santilli:** I'm not happy to make an intro.
+
+**Marcel Santilli:** And so essentially we became a service unit.
+
+**Marcel Santilli:** So we were internal agency to them because the, like these agencies were charging a hundred grand for a white paper and they're like, this is insane.
+
+**Marcel Santilli:** We can do it for 10K and then they would transfer budget to our unit, which then would fund the rest of the operations and keep me alive inside of this, this company, you know?
+
+**Marcel Santilli:** So it was, it was a blast.
+
+**Marcel Santilli:** Like it was some of the most fun I had, you know?
+
+**Marcel Santilli:** And, and so from there though, was like sick of corporate.
+
+**Marcel Santilli:** It was just insane.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And I had this one experience.
+
+**Marcel Santilli:** I quit.
+
+**Marcel Santilli:** I essentially put in my notice.
+
+**Marcel Santilli:** And the SVP of marketing, Susan Popper, calls me on a Friday.
+
+**Marcel Santilli:** I was like, you can't quit.
+
+**Marcel Santilli:** Like, we really need to move to corporate marketing.
+
+**Marcel Santilli:** And I did.
+
+**Marcel Santilli:** I get there and they say, we've been trying to launch a content hub inside of HPE.com.
+
+**Marcel Santilli:** Now that we're migrated to HPE.com.
+
+**Marcel Santilli:** And I who are you working with?
+
+**Marcel Santilli:** Razorfish.
+
+**Marcel Santilli:** He's like, okay, cool.
+
+**Marcel Santilli:** So they're like, I need your help.
+
+**Marcel Santilli:** was like, okay, I will stay.
+
+**Marcel Santilli:** One, need to give me a raise and give me a retention bonus, but I'll stay for six months at least.
+
+**Marcel Santilli:** But my only condition is I need to be able to have full say on driving this project.
+
+**Marcel Santilli:** Hire, fire, whatever.
+
+**Marcel Santilli:** And you need to say that to everyone.
+
+**Marcel Santilli:** And then that way I can drive decisions.
+
+**Marcel Santilli:** Because the reason I was quitting is because like no one would make a decision, you know?
+
+**Marcel Santilli:** And anyways, to say, long story short, I go in, it had been eight months.
+
+**Marcel Santilli:** Razorfish was charging us $250,000 a week.
+
+**Marcel Santilli:** And still had to launch a content hub for them.
+
+**Marcel Santilli:** And I was like, this is insane.
+
+**Marcel Santilli:** I asked them to send me a spreadsheet of how they were coming up with $250K a week.
+
+**Marcel Santilli:** There was over 20 SVPs in the list of people I had never met, charging $750 to $2,500 an hour.
+
+**Marcel Santilli:** I was like, this is a crime.
+
+**Marcel Santilli:** This is insane.
+
+**Marcel Santilli:** So this kind of like just reinforced like my whole view of like, what the  is wrong with agencies?
+
+**Marcel Santilli:** This is insane.
+
+**Marcel Santilli:** Like this is literally insanity.
+
+**Marcel Santilli:** This is the definition of insanity that right as this was happening, the CMO of HPE signed a $50 million a year contract with the mother, the company that owns, I forget the name, the company that owns Razorfish, like the, you know, and laid off 40% of marketing.
+
+**Marcel Santilli:** And I was like, this is crazy.
+
+**Marcel Santilli:** This is literally insanity.
+
+**Marcel Santilli:** And so I was like, just seeing this inefficiency, right?
+
+**Marcel Santilli:** Like, so, so I think that kind of helped inform.
+
+**Marcel Santilli:** But the reason I've been successful at HP at HashiCorp, it was like, I was a very early Upwork customer.
+
+**Marcel Santilli:** And so I would build like a little like bench of amazing freelance.
+
+**Marcel Santilli:** Graphic designers, writers, editors, it was like my cheat.
+
+**Marcel Santilli:** I would just get  done.
+
+**Marcel Santilli:** And that's how I kept getting promoted.
+
+**Marcel Santilli:** People were like, how the hell do you move so fast?
+
+**Marcel Santilli:** I was like, yeah, I just have my people.
+
+**Marcel Santilli:** And they just do work.
+
+**Marcel Santilli:** We just pay them.
+
+**Marcel Santilli:** And I hire internationally.
+
+**Marcel Santilli:** So all these things, I think, help inform later on.
+
+**Marcel Santilli:** So I was at HashiCorp.
+
+**Marcel Santilli:** We went from six to a hundred million.
+
+**Marcel Santilli:** And I built this learn site, learn.hashiCorp.com.
+
+**Marcel Santilli:** It's still, to this day, it's still there.
+
+**Marcel Santilli:** And it took them all the way public.
+
+**Marcel Santilli:** And part of that, I built these reusable component systems, figure out what headless CMSs were, relaunched the whole HashiCorp.com.
+
+**Marcel Santilli:** And so in my mind, too, I started to learn, first of all, open source, distribution, community.
+
+**Marcel Santilli:** And then, you know, I started education drives adoption because it's open source.
+
+**Marcel Santilli:** We went from 10 to almost 100 million downloads a year in open source, right?
+
+**Marcel Santilli:** And it was all through education and content and things like that.
+
+**Marcel Santilli:** And so this is a different type of content now, right?
+
+**Marcel Santilli:** And so fast forward, service diet, and I get poached to go work there.
+
+**Marcel Santilli:** The CEO is like, contractors don't read.
+
+**Marcel Santilli:** This doesn't work.
+
+**Marcel Santilli:** was like, month three that I'm there, I missed my numbers by a lot because Facebook was sending us spam leads.
+
+**Marcel Santilli:** And eventually they credited us to 100 grand, but I missed my numbers, right, as I had a growth.
+
+**Marcel Santilli:** And I was like, this is crazy.
+
+**Marcel Santilli:** We're being like blackmailed by  Capterra and software advisors.
+
+**Marcel Santilli:** This is stupid, first of all.
+
+**Marcel Santilli:** They're literally, we're paying them and all our competitors are paying them.
+
+**Marcel Santilli:** And they're literally taking the leads and bidding on our own keywords.
+
+**Marcel Santilli:** And then, you know, sending it to all our competitors, you know, for a buck.
+
+**Marcel Santilli:** And I was like, and then Facebook's all garbage leads.
+
+**Marcel Santilli:** Like, we got to get off the drug.
+
+**Marcel Santilli:** Like, the only way is to build an organic engine.
+
+**Marcel Santilli:** So I launched this whole idea of the toolbox.
+
+**Marcel Santilli:** It's there.
+
+**Marcel Santilli:** So you go surfside.com slash toolbox.
+
+**Marcel Santilli:** And I was like, guys, like, we need to like, be like the, the resource for the industries, right?
+
+**Marcel Santilli:** Like, like HVAC, plumbers, all of those.
+
+**Marcel Santilli:** So we launched the toolbox and we started launching like a bunch of different content.
+
+**Marcel Santilli:** I hired Scott, who's still there after company went public.
+
+**Marcel Santilli:** He had built that at Engie's List, the content.
+
+**Marcel Santilli:** He comes in and he's like, you know, we draft like, I repeated the playbook essentially, right?
+
+**Marcel Santilli:** And I was like, Scott, like, we got to get people that understand like HVAC and plumbing and things like that.
+
+**Marcel Santilli:** You can't just like, it's like, that doesn't exist.
+
+**Marcel Santilli:** Just get journalists.
+
+**Marcel Santilli:** I have a bunch of them.
+
+**Marcel Santilli:** They're pretty cheap.
+
+**Marcel Santilli:** And we're paying like 500 bucks an article, right?
+
+**Marcel Santilli:** Because it had to be a little bit cheaper because we needed to do like 50 a week because there's so many topics and you needed to grow fast.
+
+**Marcel Santilli:** And I started to realize like, this is stupid.
+
+**Marcel Santilli:** Like, why?
+
+**Marcel Santilli:** Like, how is a random as writer, like, like knowledgeable on this industry?
+
+**Marcel Santilli:** And that's how this industry started to be created, right?
+
+**Marcel Santilli:** Like, and so in my mind, I was also like, man, I've got to solve for that later.
+
+**Marcel Santilli:** So anyways, fast forward to the scale AI.
+
+**Marcel Santilli:** I built this franchise called Transform with Sam Altman, Kevin Scott at this conference.
+
+**Marcel Santilli:** I ended ended up up doing
+
+**Marcel Santilli:** Three virtual conferences, 10, 23, and 35,000 people virtually, you know, built a studio in the office with videos, and it's still out there on YouTube if you go to Scale's YouTube channel, and it just blew up.
+
+**Marcel Santilli:** And then I built a community called AI Exchange.
+
+**Marcel Santilli:** I got to 50,000 members, and it just put Scale even more on the map, right, of being, even though it was like a bunch of human labor in the background, it made it seem like we were the it for all the AI labs, right?
+
+**Marcel Santilli:** And so when I was at DeepGram, I took all of that.
+
+**Marcel Santilli:** Sorry, I know it's a super long time.
+
+**David Katz:** No, it's super interesting.
+
+**David Katz:** Like, I'm already, like, you're opening some wounds in the story, and like, like, when you were talking about building, like, a network, building out the articles, because you're recording the session, I won't say it, but I actually believe I was responsible for fake news.
+
+**David Katz:** And that's a story from around the time.
+
+**David Katz:** Because I basically had, like, this team that was just creating blogs for market for all of these brands to drive leads.
+
+**David Katz:** I was creating hundreds and hundreds of blogs and articles, and then people started calling them farticles because they were just, it was like, not good content.
+
+**Marcel Santilli:** There's a lot of garbage out there, right?
+
+**Marcel Santilli:** Yeah, for sure.
+
+**David Katz:** I might be responsible for a lot.
+
+**Marcel Santilli:** But like, genuinely, like, that's my playbook that worked at every company, right?
+
+**Marcel Santilli:** It was always like, I just, this is silly.
+
+**Marcel Santilli:** Like, we can't just be ads and outbound.
+
+**Marcel Santilli:** This is stupid.
+
+**Marcel Santilli:** Like, come on.
+
+**Marcel Santilli:** And so for me, I always believed in, like, for you to win, you need to build trust with your audience.
+
+**Marcel Santilli:** To build trust with your audience, just like with any humans, you need to give value.
+
+**Marcel Santilli:** My dad always says, right, like, give more than you take.
+
+**Marcel Santilli:** And that's just like marketing, one-on-one for me, right?
+
+**Marcel Santilli:** And how do you create value?
+
+**Marcel Santilli:** No one will ever pay for a product announcement of yours.
+
+**Marcel Santilli:** Now, this is one of my proudest things ever right now, is that, and I'll show you because this is kind of, this is kind of cool.
+
+**Marcel Santilli:** But so we've been doing a lot of these workshops.
+
+**Marcel Santilli:** And so we launched.
+
+**Marcel Santilli:** We a community called, like, literally, AI-ledgrowth.com, right?
+
+**Marcel Santilli:** And this is just like, we do these workshops and whatnot, right?
+
+**Marcel Santilli:** And look at this.
+
+**Marcel Santilli:** We haven't gated anything.
+
+**Marcel Santilli:** 40 people just paid.
+
+**Marcel Santilli:** Like, just literally, they're paying for our marketing, essentially, you know?
+
+**Marcel Santilli:** Which I know is not a lot of money, right?
+
+**Marcel Santilli:** But it's kind of like, literally, like, 40 people out of nowhere are just like, here you go.
+
+**Marcel Santilli:** Like, I'm going to sign up because this content is really good, right?
+
+**Marcel Santilli:** Like, so for me, that's kind of the bar.
+
+**Marcel Santilli:** And so when I was at DeepGram, what I started to do was, like, taking every single step of how my processes, I would inform my editors of how to come up with the right opportunities, like, how to create briefs that were really good, how to plan the content, how to find the gaps of the content that was already there, all the steps.
+
+**Marcel Santilli:** And I put it into workflows, hire the same people that I used to hire, put them in the loop, and scale the F out of it.
+
+**Marcel Santilli:** And then with 24 XR traffic in six months, which was insane, right?
+
+**Marcel Santilli:** And then from...
+
+**Marcel Santilli:** From there, I started doing workshops because people wanted to learn how I did it, right?
+
+**Marcel Santilli:** And one of the ways, I'll just show you really quickly what I built, is like this AI apps catalog, which was like kind of this product hunt, you know, for AI apps.
+
+**Marcel Santilli:** And then I built a startup program around it.
+
+**Marcel Santilli:** I built this newsletter called AIMines.com, rich with 300,000 subscribers.
+
+**Marcel Santilli:** So it wasn't just garbage content.
+
+**Marcel Santilli:** I built a glossary as well of every single term in AI possible, you know, and so, and it worked, right?
+
+**Marcel Santilli:** It wasn't just one little thing.
+
+**Marcel Santilli:** It wasn't just garbage content.
+
+**Marcel Santilli:** It was like a combination of things.
+
+**Marcel Santilli:** And I had technical people recruited as well to vet the content and manage the workflows.
+
+**Marcel Santilli:** So then the workshops, I charged 500 bucks and we had 170 people come like and attend them, which was crazy because they didn't have a ton of distribution.
+
+**Marcel Santilli:** And then that's how RealTax got started because people said, first of all, building workflows is effing hard.
+
+**Marcel Santilli:** This is crazy.
+
+**Marcel Santilli:** Like there's no effing way in hell.
+
+**Marcel Santilli:** I'm going to have time to do it or my teams are going to do it.
+
+**Marcel Santilli:** So that was the first insight was like, I thought building workflows was the thing.
+
+**Marcel Santilli:** And it was like, no, like, and then the second part was like, I need a strategy.
+
+**Marcel Santilli:** Like, I need you to get the input.
+
+**Marcel Santilli:** I need you to help me think of like my audience, what topics will they serve, map it out.
+
+**Marcel Santilli:** And I really like how you think about it.
+
+**Marcel Santilli:** And just so you understand, like, it's not shallow.
+
+**Marcel Santilli:** Like I can send you the last two workshops we did there two hours each that I walked through the entire process.
+
+**Marcel Santilli:** And just the love we get from the community, mean, Richa has seen it, right?
+
+**Marcel Santilli:** Like, it's just like, people are like, oh my God, you're giving away so much.
+
+**Marcel Santilli:** You're giving away the farm.
+
+**Marcel Santilli:** And then they just come and tell other people.
+
+**Marcel Santilli:** And so that's how we've grown, like just word of mouth, right?
+
+**Marcel Santilli:** It's not a hack.
+
+**Marcel Santilli:** It's not because we figure out a quick hack, you know?
+
+**Marcel Santilli:** It's like genuine, like, expertise I built the last 15 years, like really giving a  and trying to do the right thing, you know?
+
+**Marcel Santilli:** And then they also need a last mile execution.
+
+**Marcel Santilli:** And they didn't want to go to Upwork and vet a thousand  freelancers and then train them.
+
+**Marcel Santilli:** And then ask their HR departments how the hell to pay these people and do background checks and do all this stuff.
+
+**Marcel Santilli:** And so then when we come and we say, hey, we're charging $9,000 to $30,000 a month, they're like, oh, my God, this is like half of what we're paying this  agency over here.
+
+**Marcel Santilli:** Wait, you actually go all the way to the end and you do this and this and this and this and this and this?
+
+**Marcel Santilli:** Wait, and you do all the workflows and you do this.
+
+**Marcel Santilli:** And it's just like a no-brainer.
+
+**Marcel Santilli:** It's just like, oh, my God, this is literally a haven't said because it's what I wish I could have bought.
+
+**Marcel Santilli:** And it's what I stitched together so many times over and over again.
+
+**Marcel Santilli:** Sorry, I know it was long.
+
+**David Katz:** It was just like, I'm about my life's work.
+
+**Marcel Santilli:** It's great context.
+
+**David Katz:** It's great context.
+
+**David Katz:** mean, like essentially growth hacking through content creation.
+
+**David Katz:** And do you think it's important that going forward in the new world as you're doing this at scale using AI for content creation, it's getting better and better and better better
+
+**David Katz:** Which I think really turns this service model on its head.
+
+**David Katz:** How do you think about the agencies as customers?
+
+**David Katz:** Because I think a lot of them will say like, oh my God, there's some magic happening here.
+
+**David Katz:** Why don't we work with this company?
+
+**David Katz:** We don't need as many people on our desk anymore.
+
+**David Katz:** It's a different model than SEO, SEM was where it is people heavy.
+
+**David Katz:** But as they become more workflow oriented and they have their own platforms and systems and they realize, hey, I can probably generate some pretty good content based on our CMS and these tools.
+
+**David Katz:** Do you feel like your customer changes, the customer profile changes, the ACVs change over time?
+
+**David Katz:** How are you thinking about the progression or the learning curve of AI and the adoption curve in agencies and large brands?
+
+**Marcel Santilli:** Yeah, so maybe I can share a couple of things just to give you like a little bit of a visual.
+
+**Marcel Santilli:** So what we realized along the way, we were growing, and we were not trying to build tech for the sake of tech, but we were using these AI workflow tools like NAPN and others, and everything broke.
+
+**Marcel Santilli:** It was just insane.
+
+**Marcel Santilli:** Every time any model would come out, was like weeks of refactoring.
+
+**Marcel Santilli:** was a full-time engineering job, and we realized every single company is going to hit the same thing.
+
+**Marcel Santilli:** That's using local tools like drag and drop and things like that, right?
+
+**Marcel Santilli:** And so for us, and then at the same time, like our CTO, engineers are using cursor, augment code, plot code.
+
+**Marcel Santilli:** It's just like, this is insane.
+
+**Marcel Santilli:** Like, why is knowledge work not doing this?
+
+**Marcel Santilli:** Like, and why?
+
+**Marcel Santilli:** Like, the main thing here, it's like, why are coding agents giving all this productivity that has real, real productivity?
+
+**Marcel Santilli:** Because you had all these repo, open source repos that were out there that could have changed logs.
+
+**Marcel Santilli:** You had the comments, the pull requests, you had all this stuff, and you can test the thing, right?
+
+**Marcel Santilli:** And you can see.
+
+**Marcel Santilli:** It's working or not.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And I was like, this is it.
+
+**Marcel Santilli:** Like, we just need to figure this  out for, you know, just figure it out.
+
+**Marcel Santilli:** But it was like, this is the right primitive.
+
+**Marcel Santilli:** Like, we need to codify knowledge work more.
+
+**Marcel Santilli:** Except like for us, as we win this journey, like, I think part of why we didn't lead with this as we have an investor conversation is just because it becomes like, oh, you're not focused, you know, like, but this is our series A slide.
+
+**Marcel Santilli:** So this is not like, you know, and I can share a lot of the memos.
+
+**Marcel Santilli:** But it was like, the first thing you need to do, sure, content is the wedge.
+
+**Marcel Santilli:** Marketing is where the budgets are and where the pain is and where people are willing to pay.
+
+**Marcel Santilli:** But like, the way we're approaching it is more like, service allows us to understand what great outcomes looks like and works backward from it to create the process data.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And then you need to describe the work.
+
+**Marcel Santilli:** And I was at HashiCorp, Terraform, config, you know, Terraform, config, you know, it's like, how do we create this kind of config format for knowledge work?
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And I'll show you exactly.
+
+**Marcel Santilli:** And then how do you assemble all these tools?
+
+**Marcel Santilli:** And then create a runtime layer that has observability, right, that you can understand and track performance, so that's part of what we build.
+
+**Marcel Santilli:** And then how do you start to collaborate with the expert as both process architects, output bar raisers, as well as, like, last mile executors, you know, and input calibrators, right?
+
+**Marcel Santilli:** They're getting the input from customers as well, right?
+
+**Marcel Santilli:** And then how do you do it to where, and I was in data labeling, right, OSCLA, ID, print, have trained their own models.
+
+**Marcel Santilli:** Like, how do you start to create these loops with experts where, you know, maybe a workflow now that's a coding agent, which is what we built, it's in code.
+
+**Marcel Santilli:** So if you get feedback, that coding agent can rewrite five or six different versions immediately, right, and give you all different alternatives for it.
+
+**Marcel Santilli:** And then you can pick the best one, and then someone can review that work from that person if it's the right or not.
+
+**Marcel Santilli:** It's exactly how data labeling reinforcement learning works.
+
+**Marcel Santilli:** Surge is our biggest customer as well.
+
+**Marcel Santilli:** And so that's what we built under the hood, right, is like, and I can kind of show you that really quickly.
+
+**David Katz:** And also, I'm going to say a little bit about
+
+**David Katz:** The attribution model and how it works, like, once you're driving, like, real engagement through the plot, how do you attribute it to certain pieces of content?
+
+**David Katz:** How do you, like, and I think you probably know where I'm going with this in terms of, like, how you can supercharge a financial model based on performance.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** And so the main thing we started to do is, like, well, I'll step back a little bit and show you kind of, like, at a high level.
+
+**Marcel Santilli:** This is an internal platform right now, right?
+
+**Marcel Santilli:** Internally called Atlas, probably need to give it a better name.
+
+**Marcel Santilli:** But one of the first things we realized is that context is what drives better outputs because you need to understand the big picture.
+
+**Marcel Santilli:** You don't hire an intern and say, hey, here's the task.
+
+**Marcel Santilli:** Like, you need to tell the intern, hey, this is the big picture.
+
+**Marcel Santilli:** This is why we're doing what we're doing.
+
+**Marcel Santilli:** And companies just don't have that, right?
+
+**Marcel Santilli:** Like, even down to, like, the personas that you can see.
+
+**Marcel Santilli:** Like, there's a whole history here.
+
+**Marcel Santilli:** We were basing it to chat to be teach if to polish something, or they were taking that, putting it to Notion AI to edit it, right?
+
+**Marcel Santilli:** So we just built an AI editor ourselves.
+
+**Marcel Santilli:** And so this is kind of like a cursor context-aware editor, so you can see all the artifacts here.
+
+**Marcel Santilli:** But then, like, you can, like, comment and, like, be able to kind of do shortcuts or different things, but this is all extensible.
+
+**Marcel Santilli:** And what's cool about this is that now we can not only track the changes, but also their interactions with the AI so they're not copy and pasting it somewhere else.
+
+**Marcel Santilli:** And you can still use all the models you want, right?
+
+**Marcel Santilli:** Like, and then it's, like, context-aware.
+
+**Marcel Santilli:** And so the way to think about these artifacts, as you're, you know, working within, like, a project, it can start to auto-adapt and auto-learn.
+
+**Marcel Santilli:** Right now, it's a bit more manual.
+
+**Marcel Santilli:** Like, if there's, like, a change in the output, it's like, oh, let me go update.
+
+**Marcel Santilli:** This artifact over here.
+
+**Marcel Santilli:** But the goal is
+
+**Marcel Santilli:** To then start to create more auto loops, right?
+
+**Marcel Santilli:** Like where as you're getting comments from a customer, it auto learns like what it's doing and either rewrites the workflows or updates the artifacts and or ingest knowledge, additional knowledge into the knowledge base, right?
+
+**Marcel Santilli:** But this is so much more efficient because that's where the waste was, right?
+
+**Marcel Santilli:** It's a lot of what we, the way we've been building is like as we're scaling, we're seeing like our customers are our employees, you know?
+
+**Marcel Santilli:** And so, so then we're able to see where the friction is and continue to build leverage.
+
+**Marcel Santilli:** And one of the reasons we're going to start with the marketplace is because you need to be in there.
+
+**Marcel Santilli:** They need to have the context, you know, and you need to know that it's a high quality signal you're getting back.
+
+**Marcel Santilli:** So you're not building the wrong thing.
+
+**Marcel Santilli:** But one of the benefits is like we have zero, like, like we're not building anything that's not, we're not already getting paid for, essentially, you know, which is great.
+
+**Marcel Santilli:** So then you have things like knowledge base where, you know, as you start to run research and things like that, it's just ingesting that knowledge and curating.
+
+**Marcel Santilli:** The knowledge and, you know, and you're able to kind of like do a graph rag and start to do retrieval based on a semantic understanding of every single piece of content, you know, and everything you're doing.
+
+**Marcel Santilli:** And so, and how things are related and makes like these very semantic retrievals.
+
+**Marcel Santilli:** This is like, you know, just more kind of in the weeds a little bit, right?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** But you have assisted and then we're tracking all the activity.
+
+**Marcel Santilli:** We're not yet using, to be clear, like to like do anything with it.
+
+**Marcel Santilli:** We're just tracking right now.
+
+**Marcel Santilli:** It's, you know, still early, but that's part of the goal of what we want to, we're doing, right?
+
+**Marcel Santilli:** And then you have like pages, opportunities, assignments, briefs, all of that good stuff, you know?
+
+**Marcel Santilli:** And then the core of what we've done is built this, right now, it looks like a grid a little bit, if you will, but under the hood, what we built is a coding agent and a framework to represent workflows as code.
+
+**Marcel Santilli:** And so every single workflow we have is code, right?
+
+**Marcel Santilli:** So you can see here, this is literally written code.
+
+**Marcel Santilli:** Um, and...
+
+**Marcel Santilli:** And...
+
+**Marcel Santilli:** The beauty of that is that I don't need to know how to code.
+
+**Marcel Santilli:** I can just get instructions and it's writing the code in this framework.
+
+**Marcel Santilli:** This framework is a file system and also a way to observe the runs and everything else, right?
+
+**Marcel Santilli:** And so we're, you know, under the hood, we're using Temporal as a runtime layer.
+
+**Marcel Santilli:** You know, we wouldn't tell anyone that, but, you know, like you guys, I trust you guys.
+
+**Marcel Santilli:** And you can see, like, this kind of usage, like, just in the last, let's say, like, 120 days, like, we've done over 3 million runs for our customers.
+
+**Marcel Santilli:** Like, that is literally 30 million hours, probably, worth of stuff, right?
+
+**Marcel Santilli:** Like, and the ability to just be able to run things in parallel is really insane.
+
+**Marcel Santilli:** Like, this workflow, for example, is an agentic workflow.
+
+**Marcel Santilli:** And you can see all the things that happen in just this one workflow, right?
+
+**Marcel Santilli:** And so this one, for example, it's also, by the way, auto-documented by the coding agent as well.
+
+**Marcel Santilli:** And, you know, so all of this is, like, crazy.
+
+**Marcel Santilli:** Created and published, right?
+
+**Marcel Santilli:** And then in this one, what it's doing, it's like, it's running a flow where it's drafting based on the research, but then also running evaluations on itself.
+
+**Marcel Santilli:** And it has a bunch of different evals that it's essentially based on groundness or writing guidelines.
+
+**Marcel Santilli:** And that's why if you have the wrong context or the wrong instructions, you can't evaluate against it, you know?
+
+**Marcel Santilli:** But also why humans in the loop are so important, because you need validate that evals are accurate, but also guide this process along, right?
+
+**David Katz:** So you're here and you're guiding this process along as an editor, you know?
+
+**Marcel Santilli:** And then even things like a fact checker, right?
+
+**Marcel Santilli:** So it's not that you, is there anything, you know?
+
+**Marcel Santilli:** It's like, we're scaling this content, and we're for top brands like Sentinel-1 of normal web flow, and they're like, oh, this is wrong here, or this is there.
+
+**Marcel Santilli:** It's like, okay, how do we solve this, right?
+
+**Marcel Santilli:** But it's...
+
+**Marcel Santilli:** It's so much easier for us to solve because we have a coding agent that can write these workflows and a runtime layer that runs it and very soon, like an engine to learn from every month, right?
+
+**Marcel Santilli:** And experts in the loop as well, right?
+
+**Marcel Santilli:** And so, but you can see how this is so, like, can be useful.
+
+**David Katz:** Yeah, it's like, yeah, there's so many of steps that you've automated in a way that's so clever.
+
+**David Katz:** How do you think about, like, what would a typical customer engagement look like?
+
+**David Katz:** I'm curious, like, I would imagine you engage with them, you try to understand their ICPs, understand their personas, help them build that out as well.
+
+**David Katz:** And stop me when I'm wrong, you probably would get them in their brand guidelines and their brand books if you need them.
+
+**David Katz:** You would try to understand sources, who experts are in the field, all that kind of stuff.
+
+**David Katz:** And then you would just start with that.
+
+**Marcel Santilli:** That's probably the heaviest lift part.
+
+**Marcel Santilli:** Yeah, so we do an eight-week strategist print.
+
+**Marcel Santilli:** This is literally a live customer.
+
+**Marcel Santilli:** Like, and we should know, it's like, I try.
+
+**Marcel Santilli:** I've got be as transparent as possible.
+
+**Marcel Santilli:** Like, there's nothing to hide.
+
+**Marcel Santilli:** You know, like, we're not trying to hide our services right now or anything like that.
+
+**Marcel Santilli:** But the most important thing is the inputs.
+
+**Marcel Santilli:** So you come in, and this is Biologica.
+
+**Marcel Santilli:** It's Joey.
+
+**Marcel Santilli:** He started Allbirds, and then he left a while back as the CEO now.
+
+**Marcel Santilli:** He started this company called Biologica with his wife.
+
+**Marcel Santilli:** It's near to my heart because my wife and I went through IVF, and she has PCOS.
+
+**Marcel Santilli:** And, you know, this is, like, these beautiful supplements and pouches that are meant to help counterbalance women's hormones throughout the different phases of life, like pre-hormonal or pre-mental.
+
+**Marcel Santilli:** This is, like, what a kickoff would look like for us, right?
+
+**Marcel Santilli:** Like, there's all these nuances of, like, hey, like, trigger points towards supplements.
+
+**Marcel Santilli:** Why have you had more experience with PCOS and fertility, blah, blah, blah.
+
+**Marcel Santilli:** Why did you start the company?
+
+**Marcel Santilli:** Like, there's all these nuances that we're asking.
+
+**Marcel Santilli:** This is input that doesn't live anywhere on the planet, right?
+
+**Marcel Santilli:** But then they get...
+
+**Marcel Santilli:** We gave us like hundreds of interviews that they've done as part of their supplement research, you know.
+
+**Marcel Santilli:** And then we use workflows to process this and update the artifacts and start to create the artifacts.
+
+**Marcel Santilli:** And then we do these deep dives.
+
+**Marcel Santilli:** This was with Maggie, their chief medical officer.
+
+**Marcel Santilli:** You can see like we're going super deep, but even coming up workflows, ingest the kickoff call, and then ingest all this content and do a bunch of research to figure out what questions should we even ask this doctor?
+
+**Marcel Santilli:** I know nothing about supplements, you know.
+
+**Marcel Santilli:** And so this is the process for our strategist and managing editors follow.
+
+**Marcel Santilli:** And then like every single week we're meeting with them, but then what you end up getting is like you come in here and you see like we're sharing these artifacts with them, right?
+
+**Marcel Santilli:** And so for instance, this is the personas one, and it's like the overwhelmed reproductive years professional.
+
+**Marcel Santilli:** And the reality, the fears of certainties, their motivations.
+
+**Marcel Santilli:** locations.
+
+**Marcel Santilli:** You know, and there's workflows, but like our customer doesn't even care if there's a workflow.
+
+**David Katz:** Like here's a notion that how we interact with them.
+
+**David Katz:** Marcel, do you feel like this section alone is something that AI through voice AI platforms and interview platforms and LLMs, even this is going to be something that's automated and scalable and you won't need people.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** Like right now it's not the, like the highest priority point of leverage for us to at this scale, right?
+
+**David Katz:** You know what mean?
+
+**David Katz:** You're building a brand, you're building trust, you're like showing that you can actually understand their business and develop great content.
+
+**David Katz:** Yeah.
+
+**David Katz:** Over time.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So let me just pull up maybe biologics so you kind of see it as well.
+
+**Marcel Santilli:** But like we're in the weeds.
+
+**Marcel Santilli:** This is Brian and like we're, you know, sharing, like we're interacting with them, like they're, you know, we're automating image generation, getting their feedback, you know.
+
+**Marcel Santilli:** This is like, since we started the engagement, you know, like, so like, it feels like an extension of their team, you know, and it's like, it's really cool.
+
+**Marcel Santilli:** They're sharing things with us, and we're interacting, and so this process, standardizing and streamlining between, you know, it is part of operational too.
+
+**Marcel Santilli:** It's not just like tech, right?
+
+**Marcel Santilli:** it's part of like standard operating procedures, standardizing things, but part of it is just like, now you're super deep in there, and so what we're seeing, like, Metronum just came with us, it's not even been eight weeks, and asked for an upsell.
+
+**Marcel Santilli:** Like, Monograph also asked for an upsell.
+
+**Marcel Santilli:** All these companies are coming, because now we know their business better than they do, you know, and they're just like, I don't want to go hire another person and go through this whole thing.
+
+**David Katz:** So how do you think, maybe we can just talk to the part that I'm most curious about.
+
+**David Katz:** The one thing that I've experienced in my years in sort of the marketing space is that...
+
+**David Katz:** So you do have these paradigm shifts, and a really smart, clever people can figure out things like what you've done here.
+
+**David Katz:** take all the experience of how you've learned to scale these businesses, and you start realizing the commonalities and the playbooks and automating them.
+
+**David Katz:** And I've seen companies, and I'm sure you have too, that can do this, and then they sprint very quickly to great revenue and very profitable business.
+
+**David Katz:** And then there's lots of people in the space that realize, hey, it's easier than ever now for me to start using these tools to automate my workflows and go out and compete.
+
+**David Katz:** And you can run from like zero to 20, 30, $40 million in revenue.
+
+**David Katz:** And then you start hitting that point where there's compression, competition, but you have these great customers, and you have the trust of them.
+
+**David Katz:** And so you were in a position where you can then catapult it to the next level.
+
+**David Katz:** And I think what we've all seen from marketing agencies, they only get so big.
+
+**David Katz:** Before, I, you know, there's kind of nowhere else to turn.
+
+**Marcel Santilli:** How do you see the growth of this business to become like something that's like generational?
+
+**Marcel Santilli:** I want to show you this so you know it's not  because it's like this is our handbook and our company, right?
+
+**Marcel Santilli:** This is what everyone sees, right?
+
+**Marcel Santilli:** Like this is like everything's documented here.
+
+**Marcel Santilli:** So when I walk you through this, this is not something I just wrote for you, you know?
+
+**Marcel Santilli:** But I think like maybe this helps a little bit on like so services, first of all, just so massive, you know, this, I don't need to repeat that.
+
+**Marcel Santilli:** But I think outcomes, right, allows us to figure out working backwards how it works and build the engine that builds the engine.
+
+**Marcel Santilli:** But then, like, I think one part that is kind of the, what we're building towards in this common core that can power so many different things is, in a lot of ways, it's like, I don't
+
+**Marcel Santilli:** And so this common core is around like your process data and I'll show you some examples of how this has been already powering other things.
+
+**Marcel Santilli:** Like all our hiring process, for example, we're using our own workflows, right?
+
+**Marcel Santilli:** Like image generation, creative, like there's so many things it's already powering because it's not just words.
+
+**Marcel Santilli:** It's like, it's tool calling, it's prompts, it's chaining together all these things and you can apply this to almost anything, right?
+
+**Marcel Santilli:** And then from the defensibility perspective, it's like there's a lot of layers I think of defensibility that enable us to have, not just be more embedded, but also start to learn from everyone, right?
+
+**Marcel Santilli:** And so I think from our perspective, like, I'll show you actually, I think there's another one that might be a bit better, the big picture one's a little bit more summarized, but
+
+**Marcel Santilli:** So, like, the way we think about it is, like, from a brand defensibility, economies of scale, embedding, and network effects, and the way is, like, the services to where it can, services allows us to build a technology that gives us this scalability, right?
+
+**Marcel Santilli:** And then the marketplace, it made more efficient, but also had network effects.
+
+**Marcel Santilli:** And what we found is, like, as we're vetting a lot of these people, like, the process of actually vetting people and giving them assignments and calibrating if they're good, and a lot of those things, it's like, it's really actually hard to get right.
+
+**Marcel Santilli:** And, like, Upwork is not doing, like, Contra, others, like, their network that, they don't work in the AI age at all.
+
+**Marcel Santilli:** Like, you've done marketplaces, you know those better than I do, right?
+
+**Marcel Santilli:** Like, how are you going to go and figure out, like, what is the right expert that can be the process of?
+
+**Marcel Santilli:** And then, who is the right expert to be the output bar raiser in this step over here, right?
+
+**Marcel Santilli:** And internal teams are not well suited for that, and freelancer networks are not either, you know?
+
+**Marcel Santilli:** And so we really think, like, the way, like, you know, many other things, it's our expert marketplace, right?
+
+**Marcel Santilli:** We haven't started building, but we really thought through this a lot.
+
+**Marcel Santilli:** This is just a prototype just to give you a visual of what we're talking about.
+
+**Marcel Santilli:** But the way to think about it is, like, you have these workflows, and they're all in code, right?
+
+**Marcel Santilli:** And then you have the human interventions.
+
+**Marcel Santilli:** And for you to do the right human intervention, there's all the vetting process and everything else, but you need to give them what they need to do and how they're going to be evaluated, right?
+
+**Marcel Santilli:** And then you need to evaluate if they did the right thing, either by another human or by an LLM as a judge in the loop, right?
+
+**Marcel Santilli:** But then that data is reinforcement data.
+
+**Marcel Santilli:** It's fine-tuning data.
+
+**Marcel Santilli:** And the difference between, you know, Surge, one of our biggest customers, how they're getting paid to generate human expertise data to train...
+
+**Marcel Santilli:** Models is that they're hoping to take that data, train the model that one day will be used to do the work.
+
+**Marcel Santilli:** We're getting paid to do the work.
+
+**Marcel Santilli:** And the byproduct of this messy middle is amazing freaking frontier expert data, you know, that we're capturing every single day, except we started with content, but it's like it can be anything.
+
+**Marcel Santilli:** Like right now for Octanoff Zero, it's like sales enablement and prospecting and account research and, you know, outbound calls.
+
+**David Katz:** Okay, I get that.
+
+**David Katz:** So it's a vision in that this becomes.
+
+**David Katz:** It's platform for all companies, all industries.
+
+**David Katz:** It's not just, it goes beyond marketing.
+
+**David Katz:** It's at this point, it's, it's your workflow generation.
+
+**Marcel Santilli:** It's your rev ops.
+
+**Marcel Santilli:** It's your everything.
+
+**David Katz:** It all starts with the best content and the best view of what the customer looks like.
+
+**Marcel Santilli:** And you can work back from that into anything.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** So I see what we're doing almost more of like a P.E.
+
+**Marcel Santilli:** meets.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** An accelerator or incubator long-term, then we are growthx.
+
+**Marcel Santilli:** Like growthx is not like the thing where we're not building growthx into a rippling, massive, monolithic platform at all, right?
+
+**Marcel Santilli:** Like, and I'll show you our series A slide that we told investors, you know, on this.
+
+**Marcel Santilli:** It's like, we redid this to just make it easier to understand, but it's like content OS, which is like what I showed you, is like one iteration, right?
+
+**Marcel Santilli:** Like there can be a hiring OS, they're under growthx banner, they can be agencies, we can buy agencies, we can, you know, like spin up new services that, and not put all the brand reputational risk on growthx as a brand, right?
+
+**Marcel Santilli:** The task hub, it's called expertlayer.com, we haven't launched it yet, but we have the domain and, you know, but this is also a human layer API that people will want to use as well.
+
+**Marcel Santilli:** So as a component, it's going to power up.
+
+**Marcel Santilli:** A of this, but it's also, and then the learn engine, like there's so much, and it's all about increasing high quality data, process data, reinforcement data, human feedback data, right?
+
+**Marcel Santilli:** And so right now, the highest quality signal is for us to do it ourselves, because we can't trust  agencies to do it for us.
+
+**Marcel Santilli:** But over time, as the platform gets better, this certainly can empower other agencies.
+
+**Marcel Santilli:** And so we're not like tied to one approach, but if you have a really strong common core, you can have a lot of different ways to do it.
+
+**Marcel Santilli:** Both like apps that you're putting out there, like our fact checker or other things, as well as multiple different types of services that are hybrid, right?
+
+**David Katz:** So I'm just trying to understand, like, what the company looks like and who the clients are, like, once you have these components built out, modular, and essentially, like, people might take pieces of this, whatever they feel they need to augment their workforce to help produce.
+
+**David Katz:** It's in the kind of content and data that they need in order to make good business decisions and find customers and all that kind of stuff.
+
+**David Katz:** You can either go one way where you're like the all-inclusive agency doing this, or you can essentially build it the platform and people can just take pieces of it.
+
+**David Katz:** And you're getting smarter and smarter by more usage and by learning how new industries are doing it.
+
+**David Katz:** And you're essentially becoming like a true platform in that sense.
+
+**David Katz:** You can license it to agencies, you can license it to teams, marketing teams at companies.
+
+**David Katz:** It doesn't even have to be marketing teams.
+
+**David Katz:** It could be sales teams.
+
+**David Katz:** could be anyone.
+
+**David Katz:** could be S&B.
+
+**David Katz:** could be anything.
+
+**David Katz:** How then, like, do you view it then as like, this is basically a platform and apps company that goes well beyond marketing and your revenue model is very different?
+
+**David Katz:** Or do you think you're building like just a massive agency?
+
+**David Katz:** you're building like you're you're like like you're building you Thank
+
+**Marcel Santilli:** What we're motivated by is building a really amazing common core that hopefully will help to codify a lot of expert-led knowledge work.
+
+**Marcel Santilli:** Marketing is where we have the most expertise and there's the most opportunity and the most budget and also where we have the biggest reputation already.
+
+**Marcel Santilli:** And the agencies out there are mostly garbage.
+
+**Marcel Santilli:** And so we haven't seen the opportunity to go use them because they would not actually do the right things necessarily, even if you gave them all our tools.
+
+**Marcel Santilli:** Even if we open source everything and said, here you go, free, they still would not follow the right process.
+
+**Marcel Santilli:** And so once we have confidence that people can actually be successful, like Palantir has not open sourced our platforms and self-service, right?
+
+**Marcel Santilli:** Because of the complexity.
+
+**Marcel Santilli:** But what we're finding instead that our modules and components, like our AI editor with assistant, is freaking amazing.
+
+**Marcel Santilli:** Our deep researcher is way better than purpose.
+
+**Marcel Santilli:** Our fact-checker is the best fact-checker in the planet, in my opinion.
+
+**Marcel Santilli:** Like, you know, like, those are the things that every single, I think, person might want to use.
+
+**Marcel Santilli:** Like, there's so much garbage out there that needs to be fact-checked, you know?
+
+**Marcel Santilli:** That's kind of how we think about it, is, like, there will be plays like that, that, but right now, we also need to stay focused.
+
+**Marcel Santilli:** But that's also one of the reasons why I think we're being really dumb not to seize the opportunity.
+
+**David Katz:** Like, I do not want to be talking to investors, no offense, you know what I mean?
+
+**Marcel Santilli:** Like, we had a just closed law level yesterday, like, this is doing really well.
+
+**Marcel Santilli:** But it's, like, the reason we're doing this and sacrificing the time from the business is because, like, it is, like, the biggest shift to ever happen.
+
+**Marcel Santilli:** And I'm not saying AIS is the biggest shift.
+
+**Marcel Santilli:** I'm saying, like, how marketing gets done.
+
+**Marcel Santilli:** Every CMO we talk to, every founder, it's like, the teams are not productive.
+
+**Marcel Santilli:** They haven't, like, retrained themselves.
+
+**Marcel Santilli:** The tools, they're overwhelmed.
+
+**Marcel Santilli:** The tools all suck.
+
+**Marcel Santilli:** Like, it's all a  set.
+
+**Marcel Santilli:** That's calling themselves AI, you know, services is getting worse and worse.
+
+**Marcel Santilli:** And it's just like, it's the biggest thing that I'm just like, why are more companies not thinking this way, you know?
+
+**Marcel Santilli:** And approaching it to what we're seeing now is like companies actually moving towards service, you know, because they're realizing like they need to figure out how to make customers' success first, you know?
+
+**Marcel Santilli:** No, no, no.
+
+**David Katz:** From my perspective, I'm always thinking like, how, like just being a marketing agency, yeah, you can be the best if you can figure all this out.
+
+**David Katz:** But along the way, you're building things that each one in and of themselves could be a business.
+
+**Marcel Santilli:** Exactly.
+
+**David Katz:** And so the paradigm is marketing agencies never get too big.
+
+**David Katz:** Like like they, at some point, it's just, it becomes crowded, the tools get better, more people figure it out.
+
+**David Katz:** In the past, they get taken out by the big agencies.
+
+**David Katz:** Big agencies aren't buying anymore because...
+
+**David Katz:** They're terrified, they don't know what they're buying, and they're just like, , we've got to build a guy and figure it out ourselves.
+
+**David Katz:** But meanwhile, you're collecting all this amazing data, and you're building all these workflows, and you're learning tons about the underlying businesses that they're serving, that you're serving.
+
+**David Katz:** And so, like, what do you do with that?
+
+**David Katz:** Like, how does this become billions of dollars in terms of enterprise value, as opposed to getting stuck as a $500 million agency, which is, by the way, a great thing.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**David Katz:** fact, depending on how you raised your capital, like, could be amazing, but that giant outcome is what I'm, like, super curious about.
+
+**David Katz:** I just see so many businesses in the past hitting that wall, right, that ceiling.
+
+**Marcel Santilli:** So, in all transparency, the advice we got was don't go this deep, because, like, literally, like, our business has so many layers, you know, so I'm excited to actually go this deep, because we've thought about it a lot.
+
+**Marcel Santilli:** So, in the infrastructure layer, what we built is a better agent orchestrator with a runtime layer that...
+
+**Marcel Santilli:** This alone, like, it's gonna, it's called output.ai, we haven't launched it yet, but this part, think of it as like cursor meets way dev version of this, which is what our actual forward deploy AI engineers use every day to build and deploy these, call it agents, but also deterministic AI workflows with tool calling and things like that.
+
+**Marcel Santilli:** We have things like fallbacks, we have observability, this stuff is hard, and a lot of these components, Temporal is probably, you know, the only one that was like, whoa, this is an amazing runtime, and I don't, you know, our CTO didn't have to go rebuild it, because that's what he had built at IFTT, you know, but, so this is like part of launching it as building workflows that are actually really useful, but then the services are essentially creating templates, or, not templates, maybe the, they're creating patterns and blueprints that are also expert tested, so that as the
+
+**Marcel Santilli:** This, you know, lovable, you know, workflow builder is building based on very, you know, basic prompts.
+
+**Marcel Santilli:** point C is this entire infrastructure you see here could be literally self-hosted inside of a company because the reason, like you have a GitHub repo for every company, right?
+
+**Marcel Santilli:** And you can learn and test and you can have pull requests and things like that.
+
+**Marcel Santilli:** Knowledge work means the equivalent of that.
+
+**Marcel Santilli:** Knowledge work means the docs, aka the context, you know, artifacts, it needs custom knowledge bases, it needs patterns of, like, what is the expert process that drives, right?
+
+**Marcel Santilli:** Like Deloitte has processes, McKinsey has processes, but they're not reproducible workflows that AI plus humans can use.
+
+**Marcel Santilli:** Also, their people, like, they don't understand what their people are doing.
+
+**Marcel Santilli:** They're certainly not using because every single day when someone's in chat GPT, copy and paste in context, open AI is learning, not the company.
+
+**Marcel Santilli:** The company's not learning from those interactions, right?
+
+**Marcel Santilli:** And that's what we're building is, like, what does this look like?
+
+**Marcel Santilli:** I just don't know yet what it will look like because the tech has moved me so fast that if you try to build a platform first, you're building in 10.
+
+**Marcel Santilli:** Next week, it's going to look different, you know?
+
+**Marcel Santilli:** And so we're not doing service because we like service, you know what I mean?
+
+**Marcel Santilli:** It's like, it's the way to actually just be pragmatic about how we approach it, but by also building the right primitives that are reusable, you know, components that really can apply to multiple, that can be consumed, right?
+
+**Marcel Santilli:** Our expert marketplace can be a human layer, expert layer API that can be consumed for human interventions and expert access, right?
+
+**Marcel Santilli:** There are self-serve products and things like that, like the visibility tool that we've already built that will launch soon, the AI editor, there's things like that that we can pass here, which is both launching businesses and agencies under different umbrellas that will do similar things, right?
+
+**Marcel Santilli:** Right?
+
+**Marcel Santilli:** But also powering other agencies or powering other services or self-hosted, this whole thing, you know, self-hosted inside of a McKinsey or inside of, you know, a larger enterprise.
+
+**Marcel Santilli:** Because they're all struggling.
+
+**Marcel Santilli:** They're all buying the NANs of the world.
+
+**Marcel Santilli:** They're all still using freelancers.
+
+**Marcel Santilli:** They're all doing it the wrong way.
+
+**Marcel Santilli:** And none of those are AI natives, you know.
+
+**Marcel Santilli:** And then because of everything I just described, at the end of the day, what we want is expert process data at scale, right, and be able to learn from the outputs.
+
+**Marcel Santilli:** And then, and so the way to do that, right now we're optimizing for quality signals versus scale of data, right, but over time, if we have confidence that we can start putting this stuff out into the world in different ways and be able to, you know.
+
+**David Katz:** Do you think this becomes a CMS in some ways?
+
+**David Katz:** Or does it replace the CMS?
+
+**Marcel Santilli:** Or does it tie into a company's CMS?
+
+**Marcel Santilli:** Or do you think CMSs are going to die?
+
+**Marcel Santilli:** I don't
+
+**Marcel Santilli:** I CMSs are going to die right away.
+
+**Marcel Santilli:** Webflow, Rachel, the CPO, is our angel investor.
+
+**Marcel Santilli:** She's a customer, super, super fan.
+
+**Marcel Santilli:** her.
+
+**Marcel Santilli:** I think what's going to happen is we're the intelligence layer that sits on top of it that can ingest every single page, but also ingest your analytics, but also ingest your visibility and understand from it.
+
+**Marcel Santilli:** But the difference is, right, when you send a piece of text or an image into a field in a CMS, that's just that, right?
+
+**Marcel Santilli:** It's just the output.
+
+**Marcel Santilli:** So if you go to a Michelin star restaurant and you get a beautiful dish, you don't know the messy middle journey that happened in order to get to that point, right?
+
+**Marcel Santilli:** We do.
+
+**Marcel Santilli:** We know all the AI stuff, the inputs and outputs, all the processes, the iterations, the human interventions, and everything else.
+
+**Marcel Santilli:** So we have the inputs, the messy middle, both the AI and expert messy middle, and you have the outputs, and you have the outcomes.
+
+**Marcel Santilli:** And so it's like, this is like the most powerful value you can learn.
+
+**Marcel Santilli:** From the signals at the end, you can learn from the output itself, can learn from human interventions, and you can learn from the workflows, and you can figure out, like, what do I change and what do I tweak along the way?
+
+**Marcel Santilli:** And, yeah, and so that's the part that, like, really gets me pumped, you know?
+
+**David Katz:** Yeah, it's really cool.
+
+**David Katz:** It's really cool.
+
+**David Katz:** Yeah.
+
+**David Katz:** I mean, like, what you've done is fantastic.
+
+**David Katz:** It's like, once you live these journeys of playing this role, you realize that you have so much mess in your own head.
+
+**David Katz:** But if you're able to sort it out, and then automate it, and think about how to make and build a process around it, that's not an easy thing.
+
+**David Katz:** I can't, I would never be able to do that with all the crap in my head.
+
+**Marcel Santilli:** And that's why, like, I think, when you think about how could someone reproduce what we've done, it's like, man, you, first of all, you would need a Daniel, who's built distributed infrastructure at F that was running a billion runs, who happens to have taken a year off and go been the most AI native of every person in the planet.
+
+**Marcel Santilli:** You would have to go figure out as an agency, right, like, how the hell...
+
+**Marcel Santilli:** Would you hire this kind of team, right?
+
+**Marcel Santilli:** Early Coinbase, early Stripe, early HashiCorp and Terraform, had a design from Grammarly, from Framer, from Pitch, from, you know, Airbuy, like the caliber of principal engineers and builders that we'd be able to attract.
+
+**Marcel Santilli:** And it's like, I think that speaks to these ex-CTO founders that joining us.
+
+**Marcel Santilli:** It's like, they wouldn't have taken a bat on us instead of taking another CTO position, right?
+
+**Marcel Santilli:** Like, Rand had literally an offer to go be head of design for, oh my God, Intercom.
+
+**Marcel Santilli:** And, you know, and join us.
+
+**Marcel Santilli:** We're honestly like, last money, you know?
+
+**Marcel Santilli:** And it's like, and I think like that part, plus the infrastructure, plus the reputation starts to build like compounding layers of like, this is not a overnight, but also all these SaaS, all these workflow tools and platforms, like Aerox pivoted five times already.
+
+**Marcel Santilli:** Like they, like they, they're corner because they built it a certain way and not with the right primitives, you know?
+
+**David Katz:** Yeah.
+
+**David Katz:** So it's great.
+
+**David Katz:** What, what is, what do you like in an investor?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So the most important thing for me is someone that doesn't try to like fit us into a pattern.
+
+**Marcel Santilli:** Cause like we're inventing, not me, but, like patterns are being invented.
+
+**Marcel Santilli:** You know what I mean?
+
+**Marcel Santilli:** Like, like there's no like, oh, you don't look like HubSpot.
+
+**Marcel Santilli:** It's like, you know, it's like, of course not.
+
+**Marcel Santilli:** It better not look like HubSpot.
+
+**Marcel Santilli:** You don't, we don't, there's so much that.
+
+**Marcel Santilli:** And so I think it's like first principle thinkers that, but also to have empathy for the space we're in, but also understand a little bit more about AI.
+
+**Marcel Santilli:** That's why I've like, I've been very transparent with what I really like about Radical.
+
+**Marcel Santilli:** It's just like, you, you, you all are a lot more AI native and I've been at these companies, right?
+
+**Marcel Santilli:** Like, and, and so we know how mall, like how the sausage is made.
+
+**Marcel Santilli:** And, and so like, what we're seeing is like, there's this, this spectrum of investors.
+
+**Marcel Santilli:** I don't know if you're seeing this, right there, the ones that are not AI native.
+
+**Marcel Santilli:** The next.
+
+**Marcel Santilli:** Don't understand fundamentally how the technology works at all and have no empathy for how messy things are in production as you were to get to, like Waymo, right?
+
+**Marcel Santilli:** Like, and then on the other end, there's like this, like, operator go-to-market understanding, not just, you know, marketing in the space, but also having empathy for operators.
+
+**Marcel Santilli:** Like, I was the operator, right?
+
+**Marcel Santilli:** Like, it's like, we get fired a lot as marketers, you know?
+
+**David Katz:** I've like, you know, I've carried a bag into way too many client meetings and walked out, like, and needed to either take a shower or have a good cry or, you know, hold on to payroll on fumes, like I've done it all.
+
+**Marcel Santilli:** So I get it for sure.
+
+**Marcel Santilli:** Well, I'm personally really, really excited about potentially partnering with you guys, you know?
+
+**Marcel Santilli:** So I probably shouldn't be saying this, but, you know, it's like, I don't know, these things are so weird for me because, like, like, I try to be a genuine person and with investment.
+
+**Marcel Santilli:** It's always like, oh man, should I say this?
+
+**Marcel Santilli:** Would I not say this?
+
+**Marcel Santilli:** it's always like, you know.
+
+**David Katz:** Can I ask you like, so maybe just it's a tough question to answer because like, I really feel like you're on this journey of probably on a weekly basis, uncovering new opportunities or new realizations that like any one of them could be a different direction for the company or a bigger direction than what you think you're working on today.
+
+**David Katz:** If you like were to look back in a few years and say like, what was the one thing that I thought if it could happen, could turn this into a completely different kind of company?
+
+**David Katz:** Like, is there, is there something that, you know, in every industry or in every path you take, there's always like one, one more step that the world has to take that all of a sudden turns this into a very different kind of company.
+
+**David Katz:** Like, is there a limiting factor out there?
+
+**David Katz:** Or is there something that you say, like, if these things roll out the way I think it could, this company could be a completely different kind of company.
+
+**David Katz:** We wouldn't even be comparing them.
+
+**David Katz:** HubSpots and things like that.
+
+**David Katz:** What is that big, like, accelerator?
+
+**Marcel Santilli:** I really think the biggest unlock possibly here is if the core that we're building truly becomes the, again, like, I hate using these analogies, but the GitHub meets cursor, but with a more approachable interface, like, that's why I think Replit is probably closer than Lovable, right?
+
+**Marcel Santilli:** Like, you have more controls that can truly be part of the nervous operating system inside of companies that can help codify their processes, right?
+
+**Marcel Santilli:** The way I think about it is, like, every single day, inside of companies, you would be crazy if you let an engineer walk away with the source code.
+
+**Marcel Santilli:** And you'd be crazy if there was no pull request and no documentation, too.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then knowledge work, right, marketing, everything.
+
+**Marcel Santilli:** It's like, that's what's happening.
+
+**Marcel Santilli:** They're letting people put all that knowledge and all the activity into CHEDGPT.
+
+**Marcel Santilli:** They're letting that...
+
+**Marcel Santilli:** They away in people's head or their internal docs and they're not learning.
+
+**Marcel Santilli:** So every single day that there's an output being generated by a company and they're not learning and not codifying what's working and evaluating in a way that's AI native.
+
+**Marcel Santilli:** And what I mean by that is like, it's no longer like a human versus AI.
+
+**Marcel Santilli:** It's like, how are the two interacting and learning and creating this virtual cycle to make one better than the other, one better for the other and vice versa, you know?
+
+**Marcel Santilli:** And so for me, that's the unlock is like, can we eventually get there and what is the best distribution path while not trying to just go for the hype, you know, but building like a sustainable, primitive foundation that actually can scale.
+
+**Marcel Santilli:** And that's why we've hired all these like legit input people, you know, like Airbuy, Terraform.
+
+**David Katz:** It feels like it's not really about marketing.
+
+**David Katz:** Like we have, we have an paradigm shift where you have answer engines now presenting a new opportunity because we can move away from the world of search and different channel marketing and content marketing and all that kind of stuff.
+
+**David Katz:** And we have.
+
+**David Katz:** To figure out this new bizarre thing that's all of a sudden like eating the world and you're positioned well to help companies shine in a market where there is this shift.
+
+**David Katz:** There is this new channel.
+
+**David Katz:** You have to figure out how to develop content that's being recognized there in order to build audience and grow.
+
+**David Katz:** But that's just enabling this wedge product.
+
+**David Katz:** After you get into the company, what you're really doing is you're understanding.
+
+**David Katz:** How is knowledge accessed, stored, created in that company and automated?
+
+**David Katz:** And it feels like that is...
+
+**Marcel Santilli:** Codified, maybe.
+
+**David Katz:** Not automated, but codified, I think.
+
+**Marcel Santilli:** Sorry, sorry.
+
+**David Katz:** Yeah, yeah, yeah.
+
+**David Katz:** No, no, no.
+
+**David Katz:** That's an important point.
+
+**David Katz:** Because it's essentially you're building the infrastructure for that.
+
+**David Katz:** And I think that's what you mean by codification.
+
+**Marcel Santilli:** It's like, how is this getting hardwired into the...
+
+**Marcel Santilli:** How do we take, engineers have been 100x, like, if you look at the last 10 years of, like, the best in class engineer 10 years ago, and you take the best class AI native engineer today, it's at least 100x more productive, at least.
+
+**Marcel Santilli:** And you take 10 years ago, not 20, 30, 40 years ago, you take the best in class knowledge worker, and you look at that person inside of a really complex organization today, there's no way they're 100x more productive.
+
+**Marcel Santilli:** Okay.
+
+**David Katz:** Keep in mind, 10 years ago, Google Docs was already there, right?
+
+**Marcel Santilli:** So I'm not talking about that.
+
+**Marcel Santilli:** I'm talking about, like, what is the delta between 10 years ago when people were using Google Docs, Gmail, productivity tools, Slack, to today?
+
+**Marcel Santilli:** Like, it's definitely not 100x.
+
+**David Katz:** Right, right, right.
+
+**Marcel Santilli:** Maybe if you spend this crazy amount of time trying to build things for yourself and whatever, you know, which most knowledge workers don't have the luxury.
+
+**Marcel Santilli:** And we're trying to figure out, how do we do that without having to teach, you know, every knowledge worker how to code?
+
+**David Katz:** Right.
+
+**David Katz:** Right.
+
+**Marcel Santilli:** And I think...
+
+**Marcel Santilli:** Inc.
+
+**Marcel Santilli:** like that's part of it.
+
+**Marcel Santilli:** And you have companies like Glean doing super well, but they're doing one part that's important inside of companies, ingesting all their knowledge base and trying to expose retrieval and, you know, and things like that, right?
+
+**Marcel Santilli:** You have like Notion doing a very basic version of an AI editor that's like, okay, this is cool, but then their retrieval sucks, right?
+
+**Marcel Santilli:** Like, and they have to use cheap models because people are paying 20 bucks a month, you know?
+
+**Marcel Santilli:** So then you have like a bunch of people hacking away with cloud code and, you know, in the learning cursor, which is great, right?
+
+**Marcel Santilli:** Like, it, you know, like we think there might be something there.
+
+**Marcel Santilli:** It's just that if you go do that in a vacuum and you don't actually have work that you're doing in delivery, it's going to be wrong, you know?
+
+**Marcel Santilli:** And it just so happens that the business that we're in today happens to be a massive $500 billion opportunity to, you know, but, and so we, we need partners that can also help us think about it, right?
+
+**Marcel Santilli:** And not just like go be an AEO stupid tool.
+
+**Marcel Santilli:** It's like, like, you
+
+**David Katz:** Yeah, I think I'm, I think I'm coming around to the thinking.
+
+**David Katz:** It's, it's interesting.
+
+**David Katz:** And honestly, congratulations for having this sort of like broad view of the opportunity, because I think that's, that's a lot of people would probably just stop at content creation.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And I, I really like, I'm so like, so, so thankful for, for you all wanting to go this deep because no one has yet, you know, and it's just so hard to get to this depth with anyone that, even, even internally at the company, right?
+
+**Marcel Santilli:** Like much more like externally to just like the depths of like our thinking and how much we, it's gotten us here.
+
+**Marcel Santilli:** And this is like 12 months.
+
+**David Katz:** Like we've been at this for 12 months.
+
+**David Katz:** Yeah.
+
+**Marcel Santilli:** Everything you see has been built in 12 months.
+
+**Marcel Santilli:** didn't raise our first dollars until money didn't hit the bank until March 1st of this year.
+
+**Marcel Santilli:** So like we were 10, 15 people at that point, you know, and.
+
+**Marcel Santilli:** And so hopefully placing a bet on us is placing a bet on the first principles thinking that we have and the people, but also the slope of change and the ambition.
+
+**Marcel Santilli:** But I like to say we have this thing in our docs, three things are important, vision, ambition, and execution.
+
+**Marcel Santilli:** And if you over dial any one of those, I think you don't want to achieve your fullest potential, right?
+
+**Marcel Santilli:** You can have an amazing vision and then not be ambitious enough to go for it.
+
+**Marcel Santilli:** Or you can have both, but then suck at execution, you know, trying to constantly balance those three things, you know?
+
+**David Katz:** Yeah, I feel like for us anyway, not that you're asking, but maybe I'll just give like a minute on the way we think about this is, like, it's so such early days in AI that businesses can spike very quickly and show some great revenue potential and great traction and great customer love and all that kind of stuff.
+
+**David Katz:** So,
+
+**David Katz:** But things are moving so quickly that what that does for a lot of companies is it gives you a little bit of a head start that if you're the right team, you're going to spot the opportunities to turn that into something bigger and more durable.
+
+**David Katz:** And that's the way I sort of look at a lot of these businesses in MarTech and AdTech or whatever is like, okay, you can get to 10 million in revenue or 20 million in revenue because you are bringing to bear all your experiences and you're figuring them out in a system that's making life really easy for people who don't have the time to understand this paradigm shift.
+
+**David Katz:** You're doing it for them and you're helping them like get through it and actually capitalize on it.
+
+**David Katz:** But what's next?
+
+**David Katz:** Because everyone's going to be nipping at your tail and trying to figure it out as well.
+
+**David Katz:** And then it becomes a team bet.
+
+**David Katz:** Like you're really betting on the people that have the ambition and have the steady hand.
+
+**David Katz:** And, you know, it's that roller coaster ride of being a founder where.
+
+**David Katz:** At 11 a.m., you're like, yay, this is great.
+
+**David Katz:** And then by 2 p.m., you're like nauseous and vomiting.
+
+**David Katz:** And then by 4 o'clock, you're kind of going back up.
+
+**David Katz:** And the next day is the same, right?
+
+**Marcel Santilli:** It depends what time of day.
+
+**Marcel Santilli:** I'm not CEO.
+
+**Marcel Santilli:** I am chief janitor of the office, I like to call it, because it's just like people come with the garbage that no one else was able to clean up.
+
+**David Katz:** And the final decisions is just like...
+
+**David Katz:** Yeah.
+
+**David Katz:** Oh, no, for sure.
+
+**David Katz:** Like, we know it.
+
+**David Katz:** Like, our Radical is a fund of AI specialists.
+
+**David Katz:** But I'd say half of us were founders and lived this journey and have a different level of empathy when it comes to this stuff.
+
+**David Katz:** And so we, like, when we invest, we, the reason we built our Velocity program was, like, we want to help build.
+
+**David Katz:** We want to be helpful in the build.
+
+**David Katz:** Let me say it that way.
+
+**David Katz:** You can take as little or as much of it as you want, but you kind of get a partner that is...
+
+**David Katz:** And on this journey and understands the importance of like, you know, resilience.
+
+**David Katz:** And so I think it's super interesting what you've done.
+
+**David Katz:** And I think, you know, a lot of congratulations are owed to you.
+
+**Marcel Santilli:** And one thing I'll say is like, not that I know Fei-Fei Lee very well at all, but we've done two or three interviews with her as a speaker for the conferences that we've organized.
+
+**Marcel Santilli:** And so just like hearing it firsthand, kind of like the human side of how she approaches things is like, it's pretty remarkable.
+
+**Marcel Santilli:** And like, there's a lot of like mercenaries out there in AI and people that, the way I think about it, like AI is going to change every single interaction that my daughter is going to have in the future.
+
+**Marcel Santilli:** And I want the models and people behind AI to be more like Fei-Fei Lee and less like certain other people that will remain unnamed.
+
+**Marcel Santilli:** You know what I mean?
+
+**David Katz:** No, I get it.
+
+**Marcel Santilli:** I get it.
+
+**Marcel Santilli:** And so that also is a huge positive signal for, you know, from me.
+
+**David Katz:** That's great.
+
+**David Katz:** Oh, crap.
+
+**Marcel Santilli:** I'm three minutes late for another call.
+
+**David Katz:** so sorry.
+
+**David Katz:** Yeah, no, no, Don't apologize.
+
+**Marcel Santilli:** You guys are spending way more time on a Saturday than you probably should have.
+
+**David Katz:** But I really enjoyed this and we'll speak more.
+
+**Richa Mehta:** Sounds good.
+
+**Richa Mehta:** great.
+
+**Richa Mehta:** Thank you so much, Marcel.
+
+**Marcel Santilli:** soon.
+
+**Marcel Santilli:** Bye.

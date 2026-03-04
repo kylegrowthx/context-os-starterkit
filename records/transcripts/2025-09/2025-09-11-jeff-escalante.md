@@ -1,0 +1,1725 @@
+# Jeff Escalante
+
+<metadata>
+date: 2025-09-11
+time: 20:01 UTC
+duration: 72 minutes
+organizer: Andi Bailey (GrowthX)
+participants: Jeff Escalante (Clerk), Yousef Hamade (GrowthX), Kirkland Gee (GrowthX), Andi Bailey (GrowthX)
+fathom_recording_id: 86734515
+fathom_url: https://fathom.video/calls/406203809
+share_url: https://fathom.video/share/aA3iCsp5GrDsavJFv4J6LebchJStGmnH
+source: fathom
+enriched_on: 2026-03-03 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX conducted a deep product dive with Clerk (specifically Jeff Escalante) to align on authentication strategy, developer experience philosophy, and competitive positioning. The team discussed Clerk's differentiation vs. Auth0, open-source solutions, and WorkOS, Clerk's pricing model and hidden-cost narratives, and specific product gaps (SCIM support, password hashing algorithms). The conversation revealed that Clerk targets developers building new projects—not enterprise migrations—and emphasized the importance of accurate technical content that avoids overstating Clerk's capabilities or positioning it for use cases it doesn't support. GrowthX will refocus its AI-generated content strategy toward helping developers understand hidden costs and long-term considerations when selecting auth solutions.
+
+---
+
+## Context
+
+Clerk is a developer-focused authentication platform and existing GrowthX client. Andi Bailey scheduled this meeting because GrowthX's agentic content pipeline had been generating inaccurate articles—recommending Argon2 hashing when Clerk actually supports multiple algorithms, and positioning Clerk for enterprise use cases (SCIM, advanced features) that don't align with Clerk's market strategy. Jeff Escalante, VP at Clerk, had concerns about content accuracy and wanted to directly align GrowthX's understanding of Clerk's positioning, philosophy, and product scope. Yousef Hamade, a GrowthX cybersecurity expert with prior Clerk implementation experience, was brought in to provide technical review of generated content before client handoff. Kirkland Gee, a GrowthX engineer who builds the AI content pipeline, was present to understand how Clerk's feedback flows into the system. The call focused on closing gaps between what GrowthX was generating and what Clerk actually stands for and delivers.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- AI content pipelines must validate technical claims against official docs before publication—the agentic flow incorrectly recommended password hashing algorithms Clerk already supports, and positioned the product for enterprise features (SCIM) that Clerk intentionally deprioritizes
+- Content strategy must align with customer positioning: Clerk targets new-project developers, not enterprise migrations; GrowthX should avoid content implying Clerk competes for large-scale migrations or legacy system replacements
+- Accurate "How Clerk Works" documentation exists on clerk.com and should be used as a high-priority reference in AI generation prompts; this deep technical doc is the most comprehensive resource for senior engineers
+- Internal linking strategy between blog posts and foundational docs (like "How Clerk Works") helps readers understand architectural concepts without AI generation having to restate everything
+
+**To GrowthX Business Development:**
+- Clerk's positioning is consistent and long-term: build the best developer experience, attract builders early, and monetize as they scale—not through sales-driven enterprise migrations
+- Clerk avoids hiring salespeople and cherry-picking big-name customers; this values alignment with content about hidden costs and long-term total-cost-of-ownership, which GrowthX can help communicate
+- Content opportunity: developers often misunderstand pricing at scale (e.g., fear of "expensive at 1M users"); GrowthX can help create educational content comparing TCO across Auth0, WorkOS, Clerk, and open-source options
+- Potential weakness to avoid: SCIM support (enterprise SSO provisioning) is planned but not yet released; don't claim Clerk has parity with Auth0 on this
+- Clerk has significant inbound interest from large companies; Jeff's team rejects offers that would derail product roadmap—no expansion upmarket risk in next 12 months
+
+---
+
+## Overview
+
+- Clerk prioritizes developer experience (DX) in all aspects, including documentation and product features
+- Clerk positions itself as easier to use, better integrated (especially with React), and cheaper compared to competitors like Auth0
+- Key differentiators include cross-tenancy support, per-org SSO, and secure user impersonation
+- Clerk Billing is priced the same as Stripe, despite common misconceptions
+
+---
+
+## Key Topics
+
+### Clerk's Documentation Philosophy
+
+  - Focus on comprehensive, up-to-date documentation as part of the developer experience
+  - Explain concepts for beginners while providing links for deeper dives
+  - No segmentation between beginner and expert content; structure allows for easy navigation
+
+### Positioning Against Competitors
+
+  - vs. Auth0/Okta: Better developer experience, faster integration (5 minutes vs. hours), and lower cost
+  - vs. Open Source: Managed infrastructure, ongoing support, and reliability without the need for in-house maintenance
+
+### Target Audience and Use Cases
+
+  - Primary focus on developers starting new projects or companies
+  - Not actively targeting large enterprise migrations due to complexity
+  - Suitable for both consumer and business-facing applications
+
+### Key Product Features
+
+  - Cross-tenancy support with per-org SSO configuration
+  - Secure user impersonation
+  - Machine auth capabilities (recently added)
+  - Customizable UI components for brand consistency
+
+### Clerk Billing
+
+  - Currently supports USD only
+  - No support for usage-based or metered pricing yet
+  - Priced identically to Stripe (0.5% + 0.07% for recurring subscriptions)
+  - Built from the ground up to avoid additional fees on top of Stripe
+
+### Content Strategy Insights
+
+  - Focus on top-of-funnel traffic and developer-centric content
+  - Avoid targeting large enterprise migration use cases
+  - Consider creating content on hidden costs and future considerations when choosing auth solutions
+
+---
+
+## Action Items
+
+**Andi Bailey (GrowthX)**
+- Review/update content strategy to focus on developers building new projects, not enterprise migrations
+- Plan content highlighting Clerk's cross-tenancy and user impersonation features as differentiators
+
+**Kirkland Gee (GrowthX)**
+- Update AI content pipeline to include internal linking strategy between docs and blog posts
+- Adjust AI content generation process to use Clerk's "How Clerk Works" doc as high-priority reference (https://clerk.com)
+- Identify and update blog posts with inaccurate or outdated technical claims (e.g., Bcrypt vs. Argon2 post from 2021)
+
+**Yousef Hamade (GrowthX)**
+- Identify Clerk GitHub example repos to use as references for AI content generation
+- Draft article "Clerk Billing is the same price as Stripe Billing" explaining 0.07% fee misconception and addressing common pricing comparisons with Auth0 and WorkOS
+
+---
+
+## Transcript
+**Andi Bailey:** Yousef is our cybersecurity expert who will be reviewing content going forward that we're generating for Clerk, and he actually has implemented Clerk at another company, so he's got some experience in terms of the product offering, and Kirkland is our engineer for Client Ops, helping configure all of the pipelines, building out the pipelines.
+
+**Andi Bailey:** that we use to generate our content.
+
+**Andi Bailey:** So thank you for your time, and yeah, we have a couple of people on the call, because I think there are a couple of ways that this conversation can go, but I wanted to schedule a product deep dive, and Alex suggested I do so, because we want to make sure that we are getting speaking correctly about the product, and your positioning specifically, because I think there are
+
+**Andi Bailey:** There are two areas where we obviously need to close the gap in terms of content production.
+
+**Andi Bailey:** So the first is like generally making sure that we align on high level your approach to things like authentication, SSO best practices.
+
+**Andi Bailey:** Like we want to kind of get a little bit of your mindset and your like how you're thinking about these things.
+
+**Andi Bailey:** And then the one that's going to be harder to kind of pinpoint and get 100% correct, but I think we can continue to close the gap on, will be like really specific terminology or your preferences and things that you guys are recommending as a company.
+
+**Andi Bailey:** So, for example, we have an agentic pipeline that generated a new article.
+
+**Andi Bailey:** I don't think that you've had a look at it yet, but one of the things that it was recommending was to implement Argon2.
+
+**Andi Bailey:** And we know that you guys have documents.
+
+**Andi Bailey:** Andi Bailey, Jeff that's you think about positioning your audience, roadmapping, things like that.
+
+**Andi Bailey:** um the other thing that we can do on this call because i know that you're also working on some content on your end um is talk through and give you a little bit of a peek at how we use like everything that we learn in our own pipeline so that's kind of why kirkland is here as well so we build individual artifacts which i can show you quickly before we jump in if you'd like um that all feed into the pipeline um at different stages of content development and then we have like opportunities for people to go and make edits on an ongoing basis as
+
+**Andi Bailey:** As we learn more about Clerc.
+
+**Andi Bailey:** So I know I jumped in and just started talking, but I wanna make sure that we're making the most of your time.
+
+**Andi Bailey:** If this doesn't have to be an hour, I think everybody would be happy, so I don't wanna waste your time.
+
+**Andi Bailey:** Do you have any questions?
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Yeah, yousef.
+
+**Yousef Hamade:** I just wanna add in that I've only recently, in like the last two days, been added into this process as an effort, as an expert, mainly based on the feedback that your team had on the original set of articles that we were given, so that we are giving it an appropriate technical review, even before it goes to your team at this point.
+
+**Yousef Hamade:** Okay.
+
+**Yousef Hamade:** Cool.
+
+**Andi Bailey:** Well, are you curious at all about taking a look at the tool itself, or do you wanna just jump in and start talking about the engineering and product at Clerc?
+
+**Jeff Escalante:** I am not sure what you mean by that.
+
+**Jeff Escalante:** tool itself.
+
+**Jeff Escalante:** Oh, sorry.
+
+**Andi Bailey:** We have an internal platform that we build, we build workflows off of that generates all of the content.
+
+**Andi Bailey:** So we, growthx specializes in AI generated content.
+
+**Andi Bailey:** And so I didn't know if you were curious at all, in kind of getting a little look at that and seeing how kind of our conversation will feed into it.
+
+**Andi Bailey:** We can also do that at the end if that's easier.
+
+**Andi Bailey:** Um, yeah, either way.
+
+**Jeff Escalante:** I don't know.
+
+**Jeff Escalante:** I'm, I'm, I'm here for you all.
+
+**Jeff Escalante:** So, okay, it can be helpful.
+
+**Andi Bailey:** Well, then we'll just jump in and then I can kind of show you things at the end if you want.
+
+**Andi Bailey:** Um, but I want to start just kind of thinking about your documentation.
+
+**Andi Bailey:** Um, one of the things that Alex mentioned in an earlier call is that, um, your documentation is considered best in class.
+
+**Andi Bailey:** So, um, would love to like start by getting a sense of like your engineering philosophy behind, um, documentation.
+
+**Andi Bailey:** And how you think about your audience when you're building?
+
+**Jeff Escalante:** I don't know if I have a lot for you there.
+
+**Jeff Escalante:** With documentation, the aim is to tell people how to use the product and make sure that the product, like the different features of the product are documented appropriately, like within code specifically.
+
+**Jeff Escalante:** Like if you have a function that the user can call, get the details about the current user, we would have to document how is it called, what properties does it return, can you pass any options to it, make sure that's accurate and up-to-date.
+
+**Jeff Escalante:** And then put in there like guides on how to go through common processes, how to put Clerk into your app, how to protect certain routes, how to make routes not protected, how to use organizations.
+
+**Jeff Escalante:** I don't think there's anything.
+
+**Jeff Escalante:** And particularly secret or groundbreaking about it, we just care a lot about docs and put a lot of energy and resources towards them because Clerk is a very developer experience focused product and the docs are part of the developer experience.
+
+**Jeff Escalante:** So it's something that we just make, we invest in a lot.
+
+**Jeff Escalante:** And that's not always the case for any other given company, if that's not like their specific goal is like maximizing developer experience.
+
+**Jeff Escalante:** Exactly.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** Yeah.
+
+**Andi Bailey:** That's, I mean, it takes a lot of effort to keep that stuff up to date.
+
+**Andi Bailey:** So I think we were just wondering kind of how, what your approach for that is in terms of like full-time staff.
+
+**Jeff Escalante:** Yeah.
+
+**Andi Bailey:** Like who you're writing to and who you're building for.
+
+**Andi Bailey:** I know you have a couple of, we have a couple of personas and on like, if you think about like content marketing, but when you're building and thinking about your audience, who are you thinking about developers?
+
+**Jeff Escalante:** I mean, I wish I had more for you there, but it's developers.
+
+**Jeff Escalante:** We are a product that is specifically for use by software engineers, developers, and that's who we make the content for.
+
+**Kirkland Gee:** The only question I would have is, in terms of thinking about developer comfort, experience level, do you ever differentiate between a very senior engineer in an enterprise company versus somebody trying to vibe code something on a weekend when you're thinking about your content, or do you just think about it the same way?
+
+**Kirkland Gee:** Everything gets explained for everyone.
+
+**Jeff Escalante:** And if there's something that you already understand, then you can skim through some of the pieces.
+
+**Kirkland Gee:** Everything has to be clear.
+
+**Jeff Escalante:** Yeah, because we have beginners coming to the platform, and we have experts coming to the platform.
+
+**Jeff Escalante:** And we don't try to segment those two and send them off on different paths.
+
+**Jeff Escalante:** We just try to structure the content so that
+
+**Jeff Escalante:** Like we'll explain things that might have a detail that you might not be familiar with if you're a beginner.
+
+**Jeff Escalante:** But in that explanation, we'll have a link to a document where you can go read more about it.
+
+**Jeff Escalante:** Like if we mentioned a JWT, that's a relatively confusing thing.
+
+**Jeff Escalante:** There are a lot of folks, senior and junior, frankly, who haven't just looked into it.
+
+**Jeff Escalante:** And so if we mentioned a JWT, we're gonna link to a document where you can read more about what they are and how they work.
+
+**Jeff Escalante:** But if you already know what that is, you probably just wouldn't click on that link.
+
+**Kirkland Gee:** Like you could just keep going.
+
+**Kirkland Gee:** No, that makes a lot of sense.
+
+**Andi Bailey:** Okay, well along that same line, like where do you see developers choosing Clerk over like other traditional solutions?
+
+**Jeff Escalante:** What do you mean by other traditional solutions exactly?
+
+**Andi Bailey:** Well, so like how do you position against like Otho or Okta from a technical architecture standpoint or like open source solutions like NextOff or Superbase?
+
+**Andi Bailey:** Firebase.
+
+**Jeff Escalante:** Generally, yeah, so I think those are two categories, so I'll tackle each other individually, versus Auth0 and Auth0 is owned by Okta, and Okta is not really usable for, like, application code, it's more for, like, enterprise access control within companies, typically.
+
+**Jeff Escalante:** That's why Okta bought Auth0.
+
+**Jeff Escalante:** Auth0 is a very direct competitor.
+
+**Jeff Escalante:** Clerk, our positioning versus them is that, um, Clerk has a better developer experience.
+
+**Jeff Escalante:** I know it sounds like I'm beating a dead horse, but, like, that's it, and that's why people come choose Clerk.
+
+**Jeff Escalante:** Auth0 is a big company, it's been around for a long time, they have thousands of people, it's an enormously complex product, they have tons of giant enterprise customers with very specific custom needs.
+
+**Jeff Escalante:** And because that's been happening for years, the product has become more.
+
+**Jeff Escalante:** More complex and more difficult to understand, to use, and integrate.
+
+**Jeff Escalante:** And so the advantage with Clerk is primarily that, like, if you want to get Clerk into an app that you're building, it will probably take you five minutes.
+
+**Jeff Escalante:** If you want to get OzZero into an app they're using, it will probably take you several hours.
+
+**Jeff Escalante:** And, like, navigating the dashboard and figuring out what options you have are more complex because OzZero is a more complex product.
+
+**Andi Bailey:** Yeah, I mean, so is that, that's literally because of the UX, not because of documentation or anything like that?
+
+**Andi Bailey:** I think all of that.
+
+**Jeff Escalante:** It all feeds into it.
+
+**Jeff Escalante:** The documentation for a complex product is also more complex.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** You can certainly, like, put a lot of effort into documentation and, like, make that an advantage for yourself, even if you have a complex product.
+
+**Jeff Escalante:** But there's not, like, a particular thing with OzZero, for example, where it's, like, yeah, the product's hard to use, but their docs are so good that it makes it easier to use.
+
+**Jeff Escalante:** It's just hard to use.
+
+**Jeff Escalante:** to use.
+
+**Jeff Escalante:** Flat out, and it's not bad.
+
+**Jeff Escalante:** It's a great product, but it's just, it's difficult to use.
+
+**Jeff Escalante:** And so our main positioning is, Clerk is easier to use.
+
+**Jeff Escalante:** It often integrates better with like React apps, because we put a lot of effort into our React integration, and also it's cheaper.
+
+**Yousef Hamade:** Price always matters.
+
+**Yousef Hamade:** You guys' SDKs are better.
+
+**Yousef Hamade:** Right, that's kind of what it comes out to.
+
+**Jeff Escalante:** It's just a pure developer experience difference.
+
+**Jeff Escalante:** Yeah.
+
+**Andi Bailey:** Okay, well, then what about like the open source solutions, like NextAuth?
+
+**Jeff Escalante:** sorry.
+
+**Jeff Escalante:** Yeah, so the DX gap has closed a little bit with BetterAuth particularly, which basically just copies, clerk, a hundred percent, but then just open sourced it.
+
+**Jeff Escalante:** With the other ones, there's...
+
+**Jeff Escalante:** There still is a DX gap, I would say, that's present just because Clerk puts everything into our DX, like that's the lifeblood of our company.
+
+**Jeff Escalante:** But you know, like it's there, so anybody can copy it.
+
+**Jeff Escalante:** We knew that wasn't like a giant boat, and it turns out it was not because somebody copied it and made it open source.
+
+**Jeff Escalante:** At this point, the difference is, when you use an open source tool that has no managed infrastructure, you have to build and manage your own infrastructure, right?
+
+**Jeff Escalante:** So with an option like BetterAuth, you need to set up a database, you need to manage the database, you need to shuttle your user information back and forth from your database.
+
+**Jeff Escalante:** It's an open source project, it's free, there's no support.
+
+**Jeff Escalante:** If something goes wrong, you're going to have to figure it out and patch it on your own.
+
+**Jeff Escalante:** Nobody's going to really help you with that, especially if something goes wrong with your database and the way it integrates, like, you're to kind of have to figure it out.
+
+**Jeff Escalante:** Is that going to survive?
+
+**Jeff Escalante:** We don't know.
+
+**Jeff Escalante:** If it's open source, you have to think about these types of things when you're adopting it, right?
+
+**Jeff Escalante:** There have been several open source auth products where the author has been like, Hey, I'm not going to do this anymore because I'm making no money off of it.
+
+**Jeff Escalante:** And I got a job that's not working on this project.
+
+**Jeff Escalante:** And then the project goes into unmaintained at that point, like for your auth, that's a huge liability for your company, right?
+
+**Jeff Escalante:** That's a security thing opens up, like you're in really bad shape.
+
+**Jeff Escalante:** So I think with open source, you have to consider that it's going to be cheaper because it's free, but based on pure costs.
+
+**Jeff Escalante:** But you are going to have to staff engineers to like manage and build the infrastructure behind it.
+
+**Jeff Escalante:** And so there's a more difficult cost comparison where you compare how much do you pay the engineers that work on the things that Clerk just does for you out of the box or any of Clerk's managed competitors.
+
+**Jeff Escalante:** And how's that compared to the price of it?
+
+**Jeff Escalante:** And how reliable is that project?
+
+**Jeff Escalante:** You know, like when something goes off the rails, are you comfortable going and making the fix benefit of being an open source is all the codes right there.
+
+**Jeff Escalante:** So you can go and you can fork the project or you can make a pull request to do the modification that you want to do.
+
+**Jeff Escalante:** But like that's on you and that's on your engineers.
+
+**Jeff Escalante:** And it depends on how you think about your costs.
+
+**Jeff Escalante:** I think you'll see a lot of people feel like that's a better deal because an engineer's time.
+
+**Jeff Escalante:** doesn't register in the same way when you're thinking about the money you spend at your company as a bill does landing from a hosting provider.
+
+**Jeff Escalante:** But ultimately, like you should be thinking about that.
+
+**Jeff Escalante:** Like I'm not saying that means work is better or worse.
+
+**Jeff Escalante:** It's just like one of those things that we see a lot in objections is like this is free.
+
+**Jeff Escalante:** So I'm going to use this and we're like, well, is it really free is the question.
+
+**Jeff Escalante:** the So going to this I mean, actually,
+
+**Jeff Escalante:** I think that's mostly the difference.
+
+**Jeff Escalante:** I mean, folks just have to figure out, like, do they want to build it themselves?
+
+**Jeff Escalante:** And do they want to rely on this open source thing being viable indefinitely without them contributing back to it in any way?
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** Because sometimes that works out.
+
+**Jeff Escalante:** Sometimes there's big open source projects and a lot of other companies are using it.
+
+**Jeff Escalante:** And they put engineers' time towards fixing it and patching it.
+
+**Jeff Escalante:** And you can kind of, like, jump on that train and take advantage of all the work they're putting into it.
+
+**Jeff Escalante:** But it's a lot more calculated of a line of thought than just saying, I'm going to pay for this and it's going to be dealt with for me.
+
+**Jeff Escalante:** That's the end of it.
+
+**Jeff Escalante:** People have scaling concerns a lot, too.
+
+**Jeff Escalante:** I think we see this very often when people are considering Clerk and Decide Not View, is that they look at how much it would cost if they had a million active users, which is an insane amount.
+
+**Jeff Escalante:** A million users is not that crazy of an amount, but a million monthly active users is a very crazy amount that it's, like, unlikely they will get to unless they...
+
+**Jeff Escalante:** We substantial funding and many employees and are a real company that can afford to pay $25 a month, but that's not part of the thought stream either.
+
+**Jeff Escalante:** They're like, plug a million dollars into our pricing, million users into our pricing function, see if it's going to cost them 10 grand a month or something.
+
+**Jeff Escalante:** And they're like, this is terrible.
+
+**Jeff Escalante:** This is expensive.
+
+**Jeff Escalante:** Like, it doesn't scale.
+
+**Jeff Escalante:** Like, I'm just going to go with a free option.
+
+**Jeff Escalante:** And again, I mean, there might be some validity to that, but like, normally what we see are like, very poorly considered, like, single dimensional analyses like this, where they like, are not really thinking about the holistic cost of it and are just saying like, I ran this one simulation and this is bad.
+
+**Jeff Escalante:** And so we'll take the free thing.
+
+**Jeff Escalante:** Yeah.
+
+**Yousef Hamade:** Yeah.
+
+**Yousef Hamade:** Oh, even compared to other paid products, you know, that are licensed, like a million users could cost you a million dollars.
+
+**Yousef Hamade:** Sure.
+
+**Yousef Hamade:** Of course.
+
+**Yousef Hamade:** Yeah.
+
+**Jeff Escalante:** And I mean, there are other competitors that like price in different ways.
+
+**Jeff Escalante:** And depending on what single metric you decide you're going to plug into the formula, you might say one or the other.
+
+**Jeff Escalante:** Like, I think WorkOS is a great example.
+
+**Jeff Escalante:** They don't charge you.
+
+**Jeff Escalante:** They give you a million monthly actives for free.
+
+**Jeff Escalante:** So effectively, they're just not charging for monthly actives.
+
+**Jeff Escalante:** But they charge for everything else.
+
+**Jeff Escalante:** So like, if you want to not redirect to a WorkOS domain, hosted login page, which is like, generally, you would probably not want to do that if you were remotely professional of a website that was like a legitimate company, that you're going to pay them $150 a month for out of the gate.
+
+**Jeff Escalante:** With Clerk, you don't pay that out of the gate.
+
+**Jeff Escalante:** You can launch your company, you can keep your auth on your site, and you don't pay that $150 a month.
+
+**Jeff Escalante:** If you want to add a SAML connection for a large company that wants to do SSL through SAML, that will cost you $150 a month with WorkOS.
+
+**Jeff Escalante:** It'll cost you zero with Clerk.
+
+**Jeff Escalante:** So like, depending on what you are doing and how you're doing it.
+
+**Jeff Escalante:** Different auth providers might have an advantage or disadvantage.
+
+**Jeff Escalante:** The problem is a lot of times you just don't know how it's going to play out.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** Like our target market is people who are starting companies.
+
+**Jeff Escalante:** We don't really get into the like, try to sell to big companies and force them to migrate thing, because auth migrations are an absolute nightmare.
+
+**Jeff Escalante:** And it's better for us to just say, hey, look, use this from the start.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** And if your company goes well, then you'll pay us a lot.
+
+**Jeff Escalante:** And if the company doesn't go well, then you won't pay us anything.
+
+**Jeff Escalante:** But we're not expending a lot of resources on them anyway, so it doesn't matter.
+
+**Jeff Escalante:** And so people usually aren't thinking about, well, am I going to need SAML down the road?
+
+**Jeff Escalante:** But they will if they are planning on doing any type of sales or bringing on any salespeople or trying to land larger companies as customers.
+
+**Jeff Escalante:** So when that happens, we see people come to us and say, Clerk is expensive and WorkOS is cheap.
+
+**Jeff Escalante:** But is that how it really plays out?
+
+**Jeff Escalante:** Like, usually not.
+
+**Jeff Escalante:** So there's a like.
+
+**Jeff Escalante:** It's very difficult to figure out how to make these comparisons, and we find that generally, like, people have a really hard time doing that, and I think that's understandable, to be honest.
+
+**Yousef Hamade:** So Jeff, would your target customer base be more along the, my customers are going to be consumers, my customers are going to be business customers, or both?
+
+**Jeff Escalante:** We don't have any, we don't really have any, particular lean on that one.
+
+**Yousef Hamade:** So from a pricing perspective, like, if you're drawing the comparison against Octo, or Auth0, or WorkOS, like, the price per sample connection does really become a, yeah, it totally does.
+
+**Jeff Escalante:** So I think there's one area where you can, like, draw a more clear line on this.
+
+**Jeff Escalante:** Like, imagine you're starting, like.
+
+**Jeff Escalante:** A social media app, right?
+
+**Jeff Escalante:** You're probably not going to see a lot of SAML connections.
+
+**Jeff Escalante:** You might end up seeing some, who knows how things play out, but you're probably not going to end up seeing a lot.
+
+**Jeff Escalante:** And you probably are going to, if your app does remotely well, see a lot of user accounts coming in.
+
+**Jeff Escalante:** So in that scenario, I would say WorkOS's pricing is more attractive than ours, right?
+
+**Jeff Escalante:** If you are signing up companies in any way, shape, or form, then most of the time, Clerk's pricing is more attractive than WorkOS.
+
+**Jeff Escalante:** It's something we've talked about and thought about a lot, and it's just really hard to draw that distinction.
+
+**Jeff Escalante:** Mostly, we just feel like it's very questionable that WorkOS would be willing to effectively host giant social media platforms for free and don't really know why they made that decision exactly, or if they're losing money off of it.
+
+**Jeff Escalante:** But with Clerk, there's not a particular way to get away with this is a type of app where you get abnormally low.
+
+**Jeff Escalante:** Low price.
+
+**Jeff Escalante:** price.
+
+**Jeff Escalante:** price.
+
+**Jeff Escalante:** And, therefore, if a competitor does have a category like that, then they're going to beat us out on it.
+
+**Yousef Hamade:** But from a content perspective, that may be an area of something we could focus on of, hey, look, here are potential future hidden costs that we solve for.
+
+**Yousef Hamade:** Yep, absolutely.
+
+**Jeff Escalante:** I think that is a great area to talk about.
+
+**Jeff Escalante:** I think people usually don't read it and they glaze over at it.
+
+**Jeff Escalante:** But I think thinking about what the actual cost of services like Auth are going to be as your company scales up is, as you're saying, something that is typically not thought of in a, like, thorough and holistic manner.
+
+**Jeff Escalante:** And usually it's something that's, like, dashed off relatively quickly.
+
+**Jeff Escalante:** And we've had a lot of bake-offs between Clerk and other things.
+
+**Jeff Escalante:** And extremely rarely has someone come to the table, like, really having actually thought it through decently well.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** Because usually people don't know a lot about auth, right?
+
+**Jeff Escalante:** Like, that's why they're buying a provider.
+
+**Jeff Escalante:** In addition to, like, if you do know about auth, you also would buy a provider because you would realize how much work it is, and that you don't want to do that, and that would be a waste of time.
+
+**Jeff Escalante:** But typically, people come to providers almost every single time, and they don't know a lot about auth.
+
+**Jeff Escalante:** So, like, thinking, you know, several years down the line, I'm going to be making sales to these types of companies, and these types of companies are going come to me and ask for skim.
+
+**Jeff Escalante:** Like, why would you ever know that unless you've done this before?
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** And it's happened to you.
+
+**Andi Bailey:** Well, along those lines, I would be curious, like, how you think about, like, the long-term success of a client, like, technical success of a client, like, over the lifetime of post-implementation?
+
+**Andi Bailey:** How do you measure in general?
+
+**Andi Bailey:** Like, beyond just, like, user adoption and getting implemented, but, like, maintenance overhead, things like that.
+
+**Andi Bailey:** Like, what are you guys measuring?
+
+**Andi Bailey:** What are we measuring?
+
+**Jeff Escalante:** Or like, what would we imagine would be measured?
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** What would you prior, like, yeah.
+
+**Andi Bailey:** How do you think about that if it's not being measured yet?
+
+**Jeff Escalante:** I think ideally you don't really ever have to think about or deal with auth pretty much at all.
+
+**Jeff Escalante:** If you're using a platform like Clerk, it becomes a thing that's taken care of for you.
+
+**Jeff Escalante:** So, as much as it's possible to do that.
+
+**Jeff Escalante:** mean, maybe you have somebody who's, you know, a menace in your community and you go into Clerk's dashboard and you ban their account because they were, like, you know, harassing people.
+
+**Jeff Escalante:** We can't do that for you.
+
+**Jeff Escalante:** But there's a dashboard that you can just sign in, put in their email, click the ban button, it's done for you.
+
+**Jeff Escalante:** You don't have to, like, build a feature.
+
+**Jeff Escalante:** You don't have to think about it.
+
+**Jeff Escalante:** You don't have to wonder whether it works.
+
+**Jeff Escalante:** You don't have to write tests for it.
+
+**Jeff Escalante:** But, like, we have that.
+
+**Jeff Escalante:** And so the goal is generally, like, you don't really think about or worry about auth at all if you're using Clerk. As you are implementing it as a developer, it is the fastest, the easiest, and the smoothest option on the table.
+
+**Jeff Escalante:** And once you try it out, you're like, dang, that was great.
+
+**Jeff Escalante:** That was super easy.
+
+**Jeff Escalante:** I don't know if you felt that way, Yousef.
+
+**Jeff Escalante:** I hope so.
+
+**Jeff Escalante:** And if I'm going to do it again, then I would use Clerk again.
+
+**Jeff Escalante:** Yeah, I just launched a side project literally five weeks ago that uses Clerk, and can also attest to the fact.
+
+**Kirkland Gee:** I tried Auth0 on a project two or three years ago, and I needed it.
+
+**Kirkland Gee:** You know what I'm talking about.
+
+**Jeff Escalante:** I tried it multiple times just to see how it works, or be like, hey, we're thinking about this feature, and they already have it. Does it work? And I literally can't even figure out how to use it.
+
+**Kirkland Gee:** I'm again, I'm one of those guys who came from marketing and is now doing engineering, taught myself to code.
+
+**Kirkland Gee:** So something like JWTs, I did not understand when I started using Clerk.
+
+**Kirkland Gee:** It's like everything you're talking about makes so much sense.
+
+**Kirkland Gee:** And also handling billing now, for me, I'm a dad, and I'm running a side project while also working for GrowthX. Spinning this up, being able to just turn Clerk Billing on and have that taken care of, like, that's the kind of thing that made it worth doing.
+
+**Kirkland Gee:** And like, I don't care that it might cost me something down the road, because it got me started in a way that I couldn't have done without it, right?
+
+**Kirkland Gee:** The goal of their pricing is that you start paying us once you're making money.
+
+**Jeff Escalante:** Obviously, we don't 100% hit the mark on that, because it's just like, there are so many different ways, right?
+
+**Jeff Escalante:** But like, every time we talk about pricing, that's what the discussion rotates around.
+
+**Jeff Escalante:** How can we make sure that when people are making money, they're paying us?
+
+**Jeff Escalante:** And when they're not making money, they're not paying us.
+
+**Jeff Escalante:** There are ways that you can be making a bunch of money and only paying us like $25 a month. And we're like, we don't like that. You probably would be willing to pay us more than that, considering how much time it saved you. But like, you'll take the good deal. You're not going to be like, "Hey, can we give you extra money?" Like, no one's going to say that. You take the good deal, and we're going to make you write a testimonial.
+
+**Andi Bailey:** Happy to.
+
+**Kirkland Gee:** I mean, my project is a tiny little nerd app, but yeah, I'll write that story over there.
+
+**Jeff Escalante:** I mean, that's part of the audience here, right?
+
+**Jeff Escalante:** Yeah, 100%.
+
+**Jeff Escalante:** Indie hackers, like solopreneurs.
+
+**Jeff Escalante:** It is that, and that's a lot of the way that we end up landing in larger companies, is either your side project kind of takes off, becomes something, or you use it on a side project, it remains a side project, and then you come back to your company, you're like, man, this is garbage, you know, like, I use this thing in my side project, it was so much easier to say.
+
+**Jeff Escalante:** Like, you know, maybe we should think about, like, switching out, and so we don't actually have any sales for this reason, we don't have a single person on our staff that does sales.
+
+**Jeff Escalante:** Well, like you said, how are you going to go to, you know, some massive company, you're like, hey, switch your on, like, that's a crazy thing.
+
+**Jeff Escalante:** mean, it happens, trust me, every single one of our competitors does it, because that's the way that companies work, like, you get VC funding, they tell you that you hire salespeople and go do sales, and they just start emailing people, telling them to switch their off.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** But like, I was
+
+**Jeff Escalante:** You're saying it's crazy, and so we don't do it, but as a result, we have this very unusual business structure and strategy.
+
+**Jeff Escalante:** It's like, we don't do sales.
+
+**Jeff Escalante:** And sometimes people come to us that are big companies asking to get on board because they've heard about it for some reason, but they have all these specific requirements that are very enterprise-y, and we're like, no.
+
+**Jeff Escalante:** We're not going to derail our whole roadmap.
+
+**Jeff Escalante:** We're not going to mess up our product just in order to land this big name.
+
+**Jeff Escalante:** And they go to a competitor, and we're fine with that because what we care about is making a great product that developers love, and we're hoping if we can just stay that course, we'll get somewhere with it.
+
+**Yousef Hamade:** That's one of the things.
+
+**Yousef Hamade:** I was one of those orgs that did go through the pain of switching off both AltZero and Cognito onto Clerk.
+
+**Yousef Hamade:** There are some...
+
+**Yousef Hamade:** some...
+
+**Yousef Hamade:** There are definitely some challenges with that.
+
+**Yousef Hamade:** There's challenges.
+
+**Yousef Hamade:** All depends on a lot of things.
+
+**Yousef Hamade:** But in terms of developer experience, one of the things that that org was able to do is because the developer experience around things like managing your SAML connections is actually so easy.
+
+**Yousef Hamade:** Previously, that was a task that support had to do.
+
+**Yousef Hamade:** So anytime anyone needed to set up a SAML connection or rotate certificates or things like that, the support team was engaged.
+
+**Yousef Hamade:** And they were able, because you guys make that so easy with your APIs, to just turn it into a self-service feature within the app.
+
+**Yousef Hamade:** And so that right there is one of those hidden costs of, cool, you can do it with these other tools, but what's it going cost in terms of maintenance?
+
+**Yousef Hamade:** Yeah.
+
+**Yousef Hamade:** You know, good devx actually leads to better UX as a result of that.
+
+**Jeff Escalante:** Yeah, it is definitely like a game of hidden costs.
+
+**Jeff Escalante:** And it's just so hard to know before you go into it.
+
+**Jeff Escalante:** Like, what are those costs?
+
+**Yousef Hamade:** Where are they going to come from?
+
+**Jeff Escalante:** I mean, I think buying software that's so fundamental to your app, like auth, and there's many other categories as well, right?
+
+**Jeff Escalante:** Like, it's not only auth, but it's just tough because, like, you don't know.
+
+**Jeff Escalante:** You can go with what people say is good and go with what feels good.
+
+**Jeff Escalante:** But ultimately, there's a lot of people who use Clerk and run into a brick wall because there's some very specific feature that they need, and we don't have it.
+
+**Jeff Escalante:** And we don't have enough people asking for it that it's at the top of our priority list.
+
+**Yousef Hamade:** And it sucks.
+
+**Jeff Escalante:** You know, I hate to see it, but it's not like we have 100% success rate, but, like, we're just doing our best.
+
+**Andi Bailey:** Yeah, that was actually going to be my next question, which is, like, where do people get stuck?
+
+**Andi Bailey:** It's lack of features, typically.
+
+**Jeff Escalante:** Exactly.
+
+**Jeff Escalante:** mean, that's overwhelmingly the reason that people share, is either they're optional.
+
+**Jeff Escalante:** That's down, you know, they had a side project, you know, they stopped running it, or the company goes out of business.
+
+**Jeff Escalante:** And it's interesting, you can see we have this graph of all of our customers, and based on their volume of active users, it's stacked up in a bar, stacked bar chart month over month.
+
+**Jeff Escalante:** And you can look at the bars and see, like, customers, like, rising and falling, and, like, some getting really big, and some, like, starting big, and, like, trailing up.
+
+**Jeff Escalante:** And it's, like, it's this crazy, like, fascinating view of, like, company life cycles, because your number of active users is the lifeblood of your app, right?
+
+**Jeff Escalante:** That's indicating how well your business is doing, ultimately.
+
+**Jeff Escalante:** It's really wild.
+
+**Yousef Hamade:** So, Jeff, are there, I mean, I know some private equity firms that would probably pay for access to that info.
+
+**Yousef Hamade:** I bet.
+
+**Yousef Hamade:** Yeah, that's very confidential.
+
+**Yousef Hamade:** Yeah.
+
+**Yousef Hamade:** So, are there areas within the product or within the space that.
+
+**Yousef Hamade:** We should either highlight that the product doesn't do, or we should avoid about the product.
+
+**Yousef Hamade:** So two things that I would point as examples of things to maybe avoid or not.
+
+**Yousef Hamade:** In the most recent agentic article we created, the agentic flow said we should be using Argon2 instead of Bcrypt.
+
+**Yousef Hamade:** And, you I think we mentioned that one, but I don't think Clark supports Argon2.
+
+**Yousef Hamade:** I think it only uses Bcrypt under the hood for password hashing.
+
+**Yousef Hamade:** I'd be very surprised by that.
+
+**Jeff Escalante:** We support like a thousand password hashing algorithms.
+
+**Jeff Escalante:** I think we have a list of like 30 or more because like it's very easy for us to have support for them.
+
+**Jeff Escalante:** And we have people come in trying to migrate and say, hey, we hash using this, so we need this for migration.
+
+**Jeff Escalante:** And it's like a 30 minute task.
+
+**Jeff Escalante:** For developers, I can go try to find it, there's a list in the docs.
+
+**Yousef Hamade:** Okay, because we also came across a blog post that already exists, that basically says, you should be using bcrypto, not argon, that's on your existing set of blog posts.
+
+**Yousef Hamade:** So we wanted to make sure that we were aligning with, Yeah, where is that?
+
+**Yousef Hamade:** Do you have that handy, handy?
+
+**Yousef Hamade:** I can find it, if not, the other area was, you mentioned SCIM a couple of times, and SCIM was one of those features that I think I uploaded a few times, you don't support it.
+
+**Yousef Hamade:** I know, it's terrible.
+
+**Yousef Hamade:** We're working on it actually now, we're actually working on it.
+
+**Yousef Hamade:** It's also not hard, it's not hard to implement.
+
+**Jeff Escalante:** I like, yeah, I literally just pointed, I just pointed Claude at our, at our backend code base, and I go,
+
+**Jeff Escalante:** And you look through this code base and tell me an estimate of how long it would take to implement SCIM, given the code that's already here, because we have user management endpoints, as you well know, and we have an API for all of them.
+
+**Jeff Escalante:** SCIM just requires them to have this certain name and this certain inputs.
+
+**Jeff Escalante:** I'm like, I bet we just alias our existing ones.
+
+**Jeff Escalante:** And I was like, yeah, it probably would take like, you know, two weeks.
+
+**Jeff Escalante:** I was like, two weeks?
+
+**Yousef Hamade:** How many people have returned over this?
+
+**Yousef Hamade:** Crazy.
+
+**Yousef Hamade:** Oh, yes.
+
+**Jeff Escalante:** Enterprise stuff is generally, if you're going to advise against Clerk in these articles, and I think it's fine to do so, it's big enterprise stuff.
+
+**Jeff Escalante:** Like, we're not looking to attract big enterprises anyway, because they come to us, they want to do big migrations, they want specific things.
+
+**Jeff Escalante:** Like, it's just not where we're pointing our marketing muscles.
+
+**Jeff Escalante:** So if we're going to give balance, where I've moved towards for myself is Clerk faster, easier, cheaper, good for getting out the door, much quicker integration.
+
+**Jeff Escalante:** Something like Auth0, more comprehensive feature set, and
+
+**Jeff Escalante:** more support for like bigger enterprise features, but it's more expensive.
+
+**Jeff Escalante:** It's going to take longer to integrate.
+
+**Jeff Escalante:** If someone's looking to do a big migration, I don't have that big of a problem with them going OS Xero for us.
+
+**Jeff Escalante:** If somebody chooses OS Xero for their startup, I have a problem with that.
+
+**Kirkland Gee:** Okay.
+
+**Yousef Hamade:** Are there other areas like that that we should be avoiding or even like some of the NIST recommendations or things like that around password complexity?
+
+**Yousef Hamade:** Is that something, you know, a war that we want to wade into?
+
+**Yousef Hamade:** You know, as Ms.
+
+**Yousef Hamade:** Yeah, we're all over.
+
+**Yousef Hamade:** We're all over 863B.
+
+**Yousef Hamade:** Trust me.
+
+**Yousef Hamade:** Our CEO quotes from 863B every week.
+
+**Jeff Escalante:** So we're all over that.
+
+**Jeff Escalante:** People come to us and they'll send password requirements, but like, ultimately, the way that we design password security is entirely in alignment with that document.
+
+**Jeff Escalante:** Okay.
+
+**Yousef Hamade:** Okay.
+
+**Yousef Hamade:** Okay.
+
+**Yousef Hamade:** Okay.
+
+**Yousef Hamade:** Thank
+
+**Yousef Hamade:** And on the UXC, CTP, VN, whatever the library is, and the have-i-been-owned integrations, right?
+
+**Yousef Hamade:** Yes, we do have that as well.
+
+**Yousef Hamade:** Yeah.
+
+**Jeff Escalante:** mean, we have people, for example, asking to prevent reuse of previous passwords.
+
+**Jeff Escalante:** We don't support that right now.
+
+**Jeff Escalante:** And the reason is because there's been no evidence that that is actually a security problem.
+
+**Jeff Escalante:** Are there plenty of companies that do that anyway?
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** Is there a case you could make in your mind around, like, well, you know, what if you had a password and it's already been, like, hacked?
+
+**Jeff Escalante:** And then you, like, got an email to change your password, and then you change it, but then you just change it back to your old one, because that was the one you could remember.
+
+**Jeff Escalante:** Like, that would be insecure.
+
+**Jeff Escalante:** But if it's been leaked, then we have it in the Hava and Pone database.
+
+**Jeff Escalante:** And if you turn that feature on for your app, you're not going to be able to change back to it.
+
+**Jeff Escalante:** So, like, there's, we do this, like, runaround where people.
+
+**Jeff Escalante:** Request these obscure password things that they want that are very specific.
+
+**Jeff Escalante:** And the goal is just to say, look, we care a lot about login and password security.
+
+**Jeff Escalante:** We have a lot of people who spend huge amounts of time poring over use cases and documents.
+
+**Jeff Escalante:** Just trust the way that we deal with passwords and stop asking us for weird- password features.
+
+**Jeff Escalante:** Not everyone wants to take our word for that, but that's where we're at.
+
+**Kirkland Gee:** Yeah, mean, you have to make those tough decisions right.
+
+**Kirkland Gee:** Yeah, otherwise it turns it all zero.
+
+**Jeff Escalante:** I'm sorry to say, but the goal is to have it be like, you trust us to push you in the right direction.
+
+**Jeff Escalante:** Not like you can take this and bolt it into any shape you want.
+
+**Jeff Escalante:** And so it is an opinionated product for that reason.
+
+**Jeff Escalante:** And if that chases people away, we're kind of fine with that.
+
+**Yousef Hamade:** So are there, do you have any sort of artifact or document or things like that on what some of those opinions are?
+
+**Yousef Hamade:** Like, again, like, we don't care about power.
+
+**Yousef Hamade:** Password Reuse, because, well, the problem it's trying to solve is not the problem that I should actually do, right?
+
+**Yousef Hamade:** No, not specifically.
+
+**Jeff Escalante:** We'll just, if, you know, if people come and ask us about it, then we'll reply to them on a one-off, but they're not, like, super common requests.
+
+**Jeff Escalante:** Once something comes in enough, we'll write about it and publish it so that we can just reference it.
+
+**Jeff Escalante:** But that specific one is, like, you know, I've maybe answered that, like, three times this year.
+
+**Jeff Escalante:** Last two years, it's, like, just not enough.
+
+**Yousef Hamade:** I don't want to publish it.
+
+**Jeff Escalante:** mean, maybe we do that anyway.
+
+**Jeff Escalante:** But, like, that's not an AI piece.
+
+**Jeff Escalante:** That's a handwritten piece.
+
+**Jeff Escalante:** You know?
+
+**Jeff Escalante:** When you get to that type of topic, you do not want to trust AI to talk about it.
+
+**Jeff Escalante:** Yeah, I mean, go ahead.
+
+**Yousef Hamade:** I was going to say, but if we have snippets of things like that, then we can leverage them in AI.
+
+**Yousef Hamade:** yeah.
+
+**Yousef Hamade:** Yeah.
+
+**Jeff Escalante:** I know.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** I don't
+
+**Jeff Escalante:** I don't know.
+
+**Jeff Escalante:** I mean, I think the most, like, useful and in-depth snippet of thing that's on our doc site is the HowClerkWorks document that, like, is a full-blown, like, technical deep dive breaking down the entire architecture of how we put together our product, which maybe is not that good of an idea to publish publicly, but, like, whatever.
+
+**Jeff Escalante:** You could figure it out anyway.
+
+**Jeff Escalante:** And, like, people were trying to figure it out, and they would run into these weird edge cases and not understand how to debug them.
+
+**Jeff Escalante:** So, like, we wanted to just be, like, here's how the whole thing works.
+
+**Jeff Escalante:** Very few people get through that document and, like, really understand it, but there have been a few, like, more senior engineers that find it and are, like, really trying to push the limits.
+
+**Jeff Escalante:** And that's, like, the document that, like, really explains it for them.
+
+**Jeff Escalante:** So that one, like, really, really goes through it.
+
+**Jeff Escalante:** And you could just go on our website, hit Command-K, type in HowClerkWorks, and it'll show up.
+
+**Jeff Escalante:** But that one is extremely thorough, and it also...
+
+**Jeff Escalante:** Links to a lot of other things, like explanations of how cookies work, and how their properties work, and JWTs, and all that type of stuff.
+
+**Jeff Escalante:** I'm trying to add more of that stuff to our site on a regular basis.
+
+**Jeff Escalante:** That's the more senior targeted material.
+
+**Jeff Escalante:** But I think those are the situations that we end up needing to spend our time and effort on.
+
+**Jeff Escalante:** If you just want to get it on your site, you both have done this, you follow the guide, it's on your site.
+
+**Jeff Escalante:** But there's not really a lot of options or rough edges you can run to.
+
+**Jeff Escalante:** It's just on there, and then you're signing in, and it's good.
+
+**Jeff Escalante:** I think it's when people try to start pushing its boundaries that they start running into more rough edges.
+
+**Jeff Escalante:** And I want to make sure that generally, when that happens, they can understand how the thing works.
+
+**Jeff Escalante:** Rather than trying to document every possible rough edge you could run into, which is just a never-ending journey.
+
+**Jeff Escalante:** Giving you the information and context on how is this thing put together, so you can build an understanding of it, and then be able to navigate those decisions on your own is what we aim for.
+
+**Andi Bailey:** Awesome.
+
+**Andi Bailey:** I think, I don't think I have any other questions.
+
+**Andi Bailey:** Yousef, Kirkland, anything else that you guys want to cover?
+
+**Andi Bailey:** Sorry, I didn't answer the Argon2 thing.
+
+**Jeff Escalante:** We should probably change that.
+
+**Jeff Escalante:** doesn't make any sense.
+
+**Jeff Escalante:** P-Crypt's not more secure than Argon2.
+
+**Jeff Escalante:** They're both fine, but that's just not true.
+
+**Jeff Escalante:** So if we publish that on a blog post somewhere, that needs to be taken down.
+
+**Jeff Escalante:** That's stupid.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Yeah, we just wanted to make sure we were actively going against something that you've already said.
+
+**Jeff Escalante:** No, that's not a whatever.
+
+**Kirkland Gee:** It's a funny paragraph because it literally says it's a new award-winning password hashing function.
+
+**Kirkland Gee:** However, it has some weaknesses.
+
+**Yousef Hamade:** Don't use it.
+
+**Kirkland Gee:** It's weaker than yours.
+
+**Jeff Escalante:** I wonder if someone had hired a contractor to write marketing articles.
+
+**Yousef Hamade:** Look, I don't want to know.
+
+**Kirkland Gee:** The title of the post is the ultimate guide to B-Crypt, so I'm going to say yes.
+
+**Kirkland Gee:** From 2021, I'm going to say that's probably some extra.
+
+**Kirkland Gee:** We do have some of those, and we have some of them that get crazy amounts of traffic.
+
+**Kirkland Gee:** Yeah, exactly.
+
+**Yousef Hamade:** They're horrible posts.
+
+**Jeff Escalante:** So I don't know.
+
+**Jeff Escalante:** I guess that's what we're going for here, right?
+
+**Jeff Escalante:** I've been in SEO for a really Maybe not horrible, but yeah.
+
+**Jeff Escalante:** Maybe we should refresh those first.
+
+**Yousef Hamade:** I have taken a swipe at a couple of them.
+
+**Jeff Escalante:** I think our number one post is how to build auth with React.
+
+**Jeff Escalante:** And it was like this post that was just so basic.
+
+**Jeff Escalante:** It wasn't even auth.
+
+**Jeff Escalante:** It was like, just make a random string and put it in a cookie.
+
+**Jeff Escalante:** It didn't include any backend involvement whatsoever.
+
+**Jeff Escalante:** It didn't have any session management.
+
+**Jeff Escalante:** It didn't have any mention of anything.
+
+**Jeff Escalante:** It was literally just like, click the login button, and your component generates a UUID and puts it in a cookie.
+
+**Jeff Escalante:** And it was crazy.
+
+**Jeff Escalante:** But it's like pulling down more traffic than any other blog post that we did by orders of magnitude.
+
+**Jeff Escalante:** And so, and it's bringing in referrals to the product too.
+
+**Jeff Escalante:** So I don't know, I guess you guys know this better than I do, but you kind of just got to see what you can get away with.
+
+**Jeff Escalante:** Ideally, we write good, accurate posts that are useful.
+
+**Jeff Escalante:** But there's only so much of that.
+
+**Jeff Escalante:** There's only so fast you can get out so many of those when everyone is kind of a roll of the dice, ultimately.
+
+**Jeff Escalante:** Yeah.
+
+**Andi Bailey:** I mean, I think that's where we're trying to walk the line here is we want to get content out, get signals going.
+
+**Jeff Escalante:** I think this conversation and some of the work that we've been doing over this week will get us closer. And thinking about missing the bar that you guys are setting is a tough one. I mean, AI just messes it up every single time. As you know, I've been writing some of these myself to test it out. I have this extensive list of instructions that I feed in of like, "don't do this, do this, this is what they're looking for." And it's like a roll of the dice whether it does any of them at any given time. So every single time I have to go back and say, "Hey, did you forget about this critical requirement?" And it's like, "Oh, sorry, I forgot about that one. I'll change that now."
+
+**Yousef Hamade:** It's just the weirdest technology ever, honestly. That's a great segue into our work—that's what we do 24-7 at this company.
+
+**Jeff Escalante:** There's been a lot of transformational technology in our time.
+
+**Jeff Escalante:** And I don't think there's any one of them that just like, gaslights you in the way that AI does.
+
+**Kirkland Gee:** It changes the world and also is just always wrong. That's what we're trying to do at the end of the day. And I would say we're constantly improving. But it's still a problem we deal with, right? You're never going to get to a place that AI is 100% correct all the time.
+
+**Kirkland Gee:** But if we can get it 10%, 20%, 30% farther up towards that, it makes a big difference.
+
+**Kirkland Gee:** Because we also have content people that are looking at this stuff, right?
+
+**Kirkland Gee:** It's a big difference.
+
+**Kirkland Gee:** We don't just pump out AI content.
+
+**Kirkland Gee:** But just in the last month, what we've been toying around with is going from deterministic workflows of like, hey, here's all the inputs, write an article, to like, hey, here's all the inputs, generate your requirements, write an article, compare it to the requirement, does it meet them, yes or no, do a loop, go back, and doing that both for the research phase, the writing phase, and any sort of post-processing phases, something like internal links, adding sources, stuff like that.
+
+**Jeff Escalante:** Sounds very human layer-esque.
+
+**Kirkland Gee:** Yeah, it's like, you know, at this point, it's all still done within like an agentic sort of system, whatever that word means—because depending on who you talk to, it might mean 17 different things. But it's made a lot of differences. I mean, again, we're still iterating.
+
+**Kirkland Gee:** And we found that, for example, like you talk about a list of instructions, a lot of the time, the longer the list of instructions, the less likely you're actually going to get to be met.
+
+**Kirkland Gee:** And so one of the challenges to solve for is how do you take a 2000 word writing guidelines document that you used to give writers and turn that into like, I don't know, three or four different checklists that you can run through in three or four different workflows to try to actually get it to hit all of those different points.
+
+**Kirkland Gee:** And it's like a never ending, to their point, literally all day long.
+
+**Kirkland Gee:** I'm just, you know, it's not prompt engineering, a lot of it's context engineering of like, what do we actually want the AI to know or have access to at any given time in the process to try and get it to again, nudge closer and closer to giving us a good output.
+
+**Kirkland Gee:** But yeah, I just gave up on that.
+
+**Jeff Escalante:** I just made my thing and I'm like, it takes me like 10 minutes. And then I read the article and tell it to correct all of its errors, and then it's done. And that's pretty good value.
+
+**Jeff Escalante:** Yeah, and that works.
+
+**Jeff Escalante:** But I'm just a random guy doing this on the side, not a whole company. So, you know, I hope I can find success.
+
+**Kirkland Gee:** I think you can get a similar output to what we're trying to do as a single person in a chat on one article.
+
+**Kirkland Gee:** But then if you're a person trying to generate, you know, we're doing in some cases a few hundred articles a month for a given website.
+
+**Kirkland Gee:** And you might be doing that across multiple clients.
+
+**Kirkland Gee:** You have to find ways to make, take that 10 minutes down to one or two minutes so that we can 5, 10x the amount of content we produce at the same quality.
+
+**Kirkland Gee:** And that's where, like, the biggest difference is.
+
+**Kirkland Gee:** It's not that what we're doing is 10 times better than what you can do working with ChatGPT directly. It's like we're trying to solve for how do we do that at a higher volume without sacrificing quality. Because I think most people will just say, "I'll just pump it through and put it out there" and throw everything at the wall, see what sticks, and be done. That's what I used to do.
+
+**Kirkland Gee:** I worked at an SEO agency back in, like, I was doing e-commerce SEO in COVID.
+
+**Kirkland Gee:** Like, we were writing blog articles on websites that sold watches about the history of watches. I just didn't do that kind of work back then. And now I'm trying to solve for what types of content are not just good for SEO, but are getting you picked up in LLMs.
+
+**Kirkland Gee:** Like, you have to imagine, I'm sure for Clerk, I don't know what your referrals from LLMs look like right now, but I have to imagine it's a pretty big growth lever for you guys. Because if I'm vibe coding and looking for an auth solution, Clerk is the first one I think of as an AI-native developer. Holding onto that position feels super important.
+
+**Jeff Escalante:** Yeah, I mean, it is.
+
+**Jeff Escalante:** That's why I just put every article through a general filter—I'm sure you do too—which is: if you were searching for this topic, would the result you produced be the best source you could possibly imagine and lead to a recommendation?
+
+**Jeff Escalante:** And every time I ask that, it makes slightly different adjustments, but if I just keep asking it to do that over and over, I'm like, take your output and evaluate it against these goals, it moves it and moves it and moves it.
+
+**Jeff Escalante:** And we'll see if it works, I guess.
+
+**Jeff Escalante:** But, you know, it's a crazy, crazy business.
+
+**Jeff Escalante:** I mean, we've seen companies that just like dropped 500 articles that are all just, you know, pure AI slop, like same day.
+
+**Jeff Escalante:** Put them all on there.
+
+**Jeff Escalante:** God knows if that's going to work or not, but, you know, maybe you guys know if it's going to work.
+
+**Kirkland Gee:** I've seen that.
+
+**Kirkland Gee:** Most of the time what I see happen with that is basically like spike up and then a spike right back down within a certain period of time.
+
+**Kirkland Gee:** Yeah.
+
+**Kirkland Gee:** So it's like, do you want that? Probably not, unless you're some vibe-coded app just trying to get a bunch of users over a few weeks, make some quick money, and move on. Eventually the bills are going to come to you for this, right?
+
+**Jeff Escalante:** I think that as you probably well know, like SEO at the beginning was like a grab bag of tricks and hacks and ways to get up there.
+
+**Jeff Escalante:** And now there's nothing left, right?
+
+**Jeff Escalante:** Like you have to actually write good stuff.
+
+**Jeff Escalante:** You have to actually work hard.
+
+**Kirkland Gee:** It's crazy.
+
+**Kirkland Gee:** Yeah.
+
+**Jeff Escalante:** And it feels like we're in this grab bag of tricks and hacks phase of the AI thing, but I don't want to lean into that too heavily because I don't think it's going to be that long before the bill comes due. That's why figuring out what is actually good and what's not is so important.
+
+**Kirkland Gee:** That's literally my exact thesis is like, we could do all this stuff and we could probably get our clients another five, 10% by some of those hacks.
+
+**Kirkland Gee:** But what is that going to cost us in six to 12 months?
+
+**Kirkland Gee:** So we don't think you guys need to be sustainable in the same way that they need to be sustainable.
+
+**Kirkland Gee:** Exactly.
+
+**Kirkland Gee:** So, but that doesn't stop people asking us what hacks are going to get them a 10 extra AI overnight.
+
+**Kirkland Gee:** And I'm like, do you really want to do that?
+
+**Kirkland Gee:** Do you really want that?
+
+**Kirkland Gee:** Yeah, do.
+
+**Kirkland Gee:** Yeah, but it's another.
+
+**Kirkland Gee:** Yeah, interestingly what I mean.
+
+**Jeff Escalante:** And my results are obviously way less sophisticated, but what my results have pumped out is like basically is like kind of like scientific review type pieces that have collections of like 50 plus like citations from like high authority sources that are almost like a meta review of like, you know, how does like, you know, pass keys like work.
+
+**Jeff Escalante:** And it's, it's telling me, perhaps truthfully or not truthfully, that like this type of piece is more useful to LLMs because they can find one source that collects huge numbers of other sources and draws like integrated conclusions from it, you know, you just run deep research that goes for like 25 minutes, and it reads 500 pages and comes back with something like this.
+
+**Jeff Escalante:** I don't know if it's, actually gonna work, but I feel like it's worth a shot.
+
+**Jeff Escalante:** I mean, it makes some amount of sense.
+
+**Jeff Escalante:** And even if there's a million of these kind of slot things, like, it's possible that this is useful, like what it's doing and just reading all
+
+**Jeff Escalante:** The things and drawing conclusions from that is like, if that's what you're looking for, maybe that is actually useful.
+
+**Jeff Escalante:** I don't know.
+
+**Jeff Escalante:** Yeah, it's one of those things.
+
+**Jeff Escalante:** It's just that it's also wrong about a lot of stuff.
+
+**Jeff Escalante:** you have to read the whole thing and then tell it to correct itself about everything it's wrong about.
+
+**Jeff Escalante:** It's why I think like, you know, from just like, you just made up this stuff.
+
+**Jeff Escalante:** You cited the one in the, in the sentence before it, but this one, you just made it up.
+
+**Jeff Escalante:** it's like, oh, sorry.
+
+**Kirkland Gee:** It's like from a content, like management perspective, I think like breaking it down into more smaller chunks.
+
+**Kirkland Gee:** I mean, it's the same thing when think about building a code base, right?
+
+**Kirkland Gee:** Like you could build like one large file or split that into 10.
+
+**Kirkland Gee:** I think there's something to that of like, if you do have one large document with a bunch of external sources, you probably also should have a bunch of internal sources that are mimicking what those external sources say that that article also links to.
+
+**Kirkland Gee:** Both to break it down for yourself and also so the LLM can find more from your website talking on those smaller.
+
+**Kirkland Gee:** Like, it's like, I don't, but again, I don't know for sure.
+
+**Kirkland Gee:** We're still exploring like.
+
+**Kirkland Gee:** Is that the right approach?
+
+**Kirkland Gee:** Is that going to work?
+
+**Kirkland Gee:** It is.
+
+**Jeff Escalante:** It is.
+
+**Jeff Escalante:** And so, yeah.
+
+**Kirkland Gee:** We're trying constantly.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** I mean, we're hoping to have it, like, reference docs and blog posts and stuff.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** So that, like, those exist.
+
+**Jeff Escalante:** But I don't know.
+
+**Jeff Escalante:** Maybe the big thing doesn't work.
+
+**Jeff Escalante:** It's just hard to know what's working or it isn't working, you know?
+
+**Jeff Escalante:** It is incredibly difficult.
+
+**Kirkland Gee:** But, hey, that's what, hopefully, what we're here to help you guys with is, like, just to be a partner in that experimentation.
+
+**Kirkland Gee:** Like, we don't claim to be 100%.
+
+**Kirkland Gee:** Like, we know exactly what's going to work today.
+
+**Kirkland Gee:** But I think we're really good at trying stuff.
+
+**Kirkland Gee:** If it works, do 10 times more of it.
+
+**Kirkland Gee:** If it doesn't, try something else.
+
+**Kirkland Gee:** Right?
+
+**Kirkland Gee:** Like, that's, like, what marketing is.
+
+**Kirkland Gee:** And AI just turns that from, like, a three-month process into, like, a two-day process.
+
+**Kirkland Gee:** And then we're all kind of losing our minds, hoping we're figuring it out together.
+
+**Kirkland Gee:** Right?
+
+**Kirkland Gee:** There it is.
+
+**Kirkland Gee:** But this was super helpful, I think.
+
+**Kirkland Gee:** Yeah.
+
+**Kirkland Gee:** I think a big takeaway is, like, And...
+
+**Kirkland Gee:** I
+
+**Kirkland Gee:** We're writing our content, like, yes, you guys don't necessarily have a persona for the product, but like everything about content and new user acquisition, like most of that is going to come from someone building something.
+
+**Kirkland Gee:** Like nine times out of 10, that's the people that are going to read a piece of content, see a piece of content, show up in LLM, and probably sign up.
+
+**Kirkland Gee:** And I guess we, I mean, we wouldn't really want to point a bunch of big enterprise customers to you guys anyways.
+
+**Kirkland Gee:** You don't have sales resources to shepherd those folks, right?
+
+**Kirkland Gee:** Right, it's not that helpful.
+
+**Kirkland Gee:** But if they show up, great, but that's probably not our focus.
+
+**Kirkland Gee:** I would agree with that.
+
+**Jeff Escalante:** I think we're looking for top funnel type traffic mostly.
+
+**Jeff Escalante:** And I mean, that could include people looking up stuff like SAML.
+
+**Jeff Escalante:** It's possible, right?
+
+**Jeff Escalante:** Like you might have hand rolled your auth or like use one of these providers, and now you got your first customer coming and asking about it.
+
+**Jeff Escalante:** It's like, all right, maybe I should just migrate.
+
+**Jeff Escalante:** You know, like got this big article and it's like, this
+
+**Jeff Escalante:** This how long it's gonna take to build out.
+
+**Jeff Escalante:** This is how much resource it's gonna take.
+
+**Jeff Escalante:** Like, here's a couple of managed providers that'll just do the whole thing for you easily.
+
+**Jeff Escalante:** Like, that still is a possibly good lead.
+
+**Jeff Escalante:** But when it comes to like, yeah, when it comes to like obvious large enterprise migration stuff, it's not as valuable for us as company.
+
+**Jeff Escalante:** Yeah, that makes sense.
+
+**Yousef Hamade:** How do I add SSO to my app or SAML to my app for my business customers?
+
+**Jeff Escalante:** Yeah, and even just SSO in general is like the most confusing and overloaded term of all time.
+
+**Jeff Escalante:** Not that AI is gonna produce an article that makes it less so.
+
+**Jeff Escalante:** We probably have to handwrite that eventually, but like, it is, it's like, what is SSO?
+
+**Jeff Escalante:** People look it up and they find Okta and then they find sign in with Google.
+
+**Jeff Escalante:** And they're like, these are completely different things for completely different use cases.
+
+**Jeff Escalante:** You know, what are you gonna, what are gonna do?
+
+**Kirkland Gee:** Yeah, a hundred percent.
+
+**Jeff Escalante:** It's crazy.
+
+**Yousef Hamade:** And that's, like, part of the...
+
+**Yousef Hamade:** the...
+
+**Yousef Hamade:** The thing that we're working on in the current iterations of the articles is to make sure that we're not getting the Okta customers, we're getting the Auth0 customers, so Okta does have a Fiam solution to that they claim that exists.
+
+**Yousef Hamade:** It's so hard to split them apart.
+
+**Yousef Hamade:** I wrote this piece on OAuth, which is a very similar type of term.
+
+**Jeff Escalante:** OAuth can be used to describe like eight different things, and it took me ages.
+
+**Jeff Escalante:** It's mostly handwritten little pieces of AI here and there.
+
+**Jeff Escalante:** But man, like, just the process of breaking down what this is and how it works and like the different use cases and like narrowing it in on one without getting distracted by the others was just such an immense...
+
+**Jeff Escalante:** amount of work.
+
+**Jeff Escalante:** Yeah.
+
+**Jeff Escalante:** But I'm glad it exists now and like hopefully people will find it and hopefully whatever, like other LLMs will find it and use it, but probably not like...
+
+**Kirkland Gee:** That's what I was about to ask is like, has it performed, right?
+
+**Kirkland Gee:** You put all that work into it.
+
+**Kirkland Gee:** Is it doing good?
+
+**Kirkland Gee:** ask Bye.
+
+**Jeff Escalante:** I don't even know.
+
+**Jeff Escalante:** haven't looked at the stats recently.
+
+**Jeff Escalante:** Probably not.
+
+**Jeff Escalante:** It takes a while for these things to accumulate their stuff.
+
+**Kirkland Gee:** Three months post-publish is usually a good time to see, not has it reached its full potential, but is it doing something, right?
+
+**Kirkland Gee:** Or is it completely off-base?
+
+**Kirkland Gee:** Yeah.
+
+**Kirkland Gee:** I mean, part of it is just for reference.
+
+**Jeff Escalante:** We have people come and ask about these things.
+
+**Jeff Escalante:** At least we have this piece here that we can link to.
+
+**Jeff Escalante:** And whenever we reference it somewhere else, like what, you know, we say something about OAuth, like that's something we can point back to and be like, look, if you want to know what's going on with OAuth, at least this will be clear about it.
+
+**Kirkland Gee:** Only one last question, just from internal linking between docs and blog.
+
+**Kirkland Gee:** Do you like treat those any differently?
+
+**Kirkland Gee:** Like if I'm in the docs and there's, you know, are you going to link to the blog post about how OAuth works somewhere in there?
+
+**Kirkland Gee:** would.
+
+**Kirkland Gee:** Yeah.
+
+**Kirkland Gee:** Okay.
+
+**Jeff Escalante:** We would.
+
+**Jeff Escalante:** And it did.
+
+**Kirkland Gee:** There's like this being, Clerk docs are going to be very specific to what Clerk does.
+
+**Kirkland Gee:** If there's a general concept, it's going to live on the blog.
+
+**Jeff Escalante:** Yeah, I mean, there are some things that we kind of like go over in the docs rather than the blog when they're like...
+
+**Jeff Escalante:** Right, like I think the JWT stuff is in the...
+
+**Jeff Escalante:** Yeah, right.
+
+**Jeff Escalante:** It's like, we don't need to write a blog post about what JWTs are, to be honest.
+
+**Jeff Escalante:** I mean, we don't really need to write one about OAuth either.
+
+**Jeff Escalante:** The problem was I couldn't find any other resources that broke down what it was at the level of clarity that I wanted.
+
+**Jeff Escalante:** And it took me a really  long time to figure out how it worked, because I was working on a project that was like basically implementing OAuth provider for Clerk.
+
+**Jeff Escalante:** And fresh off the end of that project, I was like, now I can just dump my brain of being like, this is what I would have wanted when I was starting that project.
+
+**Jeff Escalante:** So that was like a very particular thing.
+
+**Yousef Hamade:** Or if you do find those articles, they're all on your competitor's website.
+
+**Yousef Hamade:** Well, yeah, exactly.
+
+**Jeff Escalante:** And we can't like be linking to that, but I didn't even find one.
+
+**Jeff Escalante:** Mike Petter's website against all odds.
+
+**Jeff Escalante:** You know, obviously, Auth0 has a lot of OAuth articles, but like, I don't think they were as good as this one.
+
+**Yousef Hamade:** I'm not trying to like pump myself up.
+
+**Jeff Escalante:** I read them, you know, I just didn't think they were that good.
+
+**Yousef Hamade:** So are there other articles like this?
+
+**Yousef Hamade:** Because, you know, just quick scan, this is probably one of the articles we should write higher in our referencing and sources of truth.
+
+**Yousef Hamade:** Like, are there other articles that we should be on the lookout for similar to this or other docs?
+
+**Yousef Hamade:** You pointed us at the other one earlier of, yeah, how Clark works.
+
+**Yousef Hamade:** Those are two, you know, we should choose them as highly cited sources on our article generation and creation.
+
+**Yousef Hamade:** Are there others like that that you would recommend as well?
+
+**Yousef Hamade:** I mean, you don't have to answer that now, Jordan.
+
+**Jeff Escalante:** I think anything that's like somewhat recent.
+
+**Jeff Escalante:** On our blog, like within the last like two years or so is probably pretty good.
+
+**Jeff Escalante:** There's a lot of old blog content that as you found, like I didn't even work the company at the time, but they definitely just like farmed it out to like content writers and just like, you know, loaded on there and it's not very good.
+
+**Jeff Escalante:** But within the last few years, the last, let's say two or three years, the like bar for what lands on the blog has gone up a lot and everything that's gone on there has gone through pretty extensive review usually.
+
+**Jeff Escalante:** By a few like leadership team members, so I think there's some pretty decent stuff on there at the moment, as far as articles go on the doc side, I think how clerk works is the best resource you're going to find on there, all the other stuff is just like specific references to like pieces of it.
+
+**Jeff Escalante:** But if you're trying to describe something specific, we have guides like right if you were talking about multi tenancy and organizations and how to implement that and we were trying to generate an article about that.
+
+**Jeff Escalante:** But there's some pretty good guides on in the docs about like.
+
+**Jeff Escalante:** So about how orgs work with clerk, some of them link to example repositories, which are useful as a reference.
+
+**Jeff Escalante:** I've had good luck feeding GitHub repositories to AI and having it use that as a sort of reference for how to implement some things.
+
+**Jeff Escalante:** Otherwise, they're just like YOLO, some shenanigans code examples in there.
+
+**Jeff Escalante:** Whereas if you're like, this is the good code example, I don't like take that.
+
+**Jeff Escalante:** But if you go to GitHub and search for example, under the clerk organization, we have a bunch of example repos.
+
+**Jeff Escalante:** Again, some of them might be out of date.
+
+**Jeff Escalante:** I can't really tell you which ones are and aren't, but I can verify it manually if you want.
+
+**Jeff Escalante:** That's fine.
+
+**Yousef Hamade:** And then I know two of the differentiating features, just Andy, while we're still here, two of the differentiating features that really set Clark apart was actually their cross-tenancy.
+
+**Yousef Hamade:** So not just multi-tenancy.
+
+**Yousef Hamade:** And setting up multi-tenants with multi-orgs, but the fact that you could, you know, they can each own their own SSO configuration, and you can, you know, set up cross-tenant trusts, was actually a useful Yeah, we call that one per-org SSO internally, although I don't know if there's a better external term for that.
+
+**Yousef Hamade:** Yeah, it's, to me, for, like, organizations that have to support, like, service providers, or, you know, MSSPs, or any MSP sort of relationships, and things like that, that's actually a great feature.
+
+**Yousef Hamade:** And then the user impersonation feature.
+
+**Yousef Hamade:** Impersonations are really cool, yeah, people have done a lot.
+
+**Yousef Hamade:** It's not just really cool, but you guys actually built it well from a security perspective, because, like, again, the other org rolled around user impersonation, and it was a nightmare.
+
+**Yousef Hamade:** And from a security perspective, because you couldn't actually tell when the user was actually impersonated or the real user.
+
+**Yousef Hamade:** And that, like, there is, like, a key differentiator feature of Clerk that can be a security trap if you try and roll it your own again.
+
+**Yousef Hamade:** So, like, why are these features useful?
+
+**Yousef Hamade:** Why are they here?
+
+**Yousef Hamade:** Why is it actually implemented in a secure way?
+
+**Yousef Hamade:** Like, those sort of things.
+
+**Yousef Hamade:** I don't know, Jeff, if you have, like, other features like that, from your perspective, that we should highlight, too.
+
+**Jeff Escalante:** Let me think about that.
+
+**Jeff Escalante:** Clerk features that people really like a lot tend to be, I mean,
+
+**Jeff Escalante:** So recently we rolled out a couple of like machine auth things that are maybe of interest.
+
+**Jeff Escalante:** It's not entirely complete though, so maybe it's not the best.
+
+**Jeff Escalante:** But there's a piece here that sort of breaks down.
+
+**Jeff Escalante:** Machine auth is another one of those terms that's very confusing and is used to apply to multiple different use cases.
+
+**Jeff Escalante:** And people usually say one thing and then are not exactly sure what they mean by it.
+
+**Jeff Escalante:** But we've tackled that recently.
+
+**Jeff Escalante:** We've rolled out two of three of these sub use cases and we're planning on having a third one out probably within the next like month or two at most.
+
+**Jeff Escalante:** So that's maybe useful.
+
+**Jeff Escalante:** It's not like a super unique feature for an auth company, but we feel like the way that we approached it is somewhat unique because we didn't just say like you can make a token and it's not associated.
+
+**Jeff Escalante:** associated.
+
+**Jeff Escalante:** And
+
+**Jeff Escalante:** We did a lot of customer research and talked to a lot of people and collected a lot of feedback and tried to figure out when people ask the machine to machine auth, what do they actually want?
+
+**Jeff Escalante:** What are they trying?
+
+**Jeff Escalante:** What's the problem they're trying to solve?
+
+**Jeff Escalante:** And kind of like very cleanly separated it out into these three use cases that you can see on this page.
+
+**Jeff Escalante:** Not to our credit, it just happened to be that way, right?
+
+**Jeff Escalante:** Like every person we talked to was like straight down the center on one of these three use cases, which was like really cool.
+
+**Jeff Escalante:** I don't know, maybe that's not like that exciting, but it's something.
+
+**Jeff Escalante:** Customization is something people like a lot, like being able to customize the components and make them fit their brand.
+
+**Jeff Escalante:** It's not something you always get.
+
+**Jeff Escalante:** Something we need to work on more, but like we've worked on it a decent amount already.
+
+**Jeff Escalante:** And it's, it's an important requirement for a lot of folks.
+
+**Yousef Hamade:** What else do I think?
+
+**Yousef Hamade:** And those, like.
+
+**Yousef Hamade:** When you're going to build or implement your auth solution may not be problems that you're initially thinking about that are like death traps in the waiting as well.
+
+**Kirkland Gee:** Yeah, like this is an aside for Andy, like when it comes to content, anything we can write about how easy it is to integrate clerks billing with Stripe compared to integrating Stripe by yourself.
+
+**Kirkland Gee:** Like Jesus, it was worth every penny, which I paid $0, but it'll be worth it one day.
+
+**Jeff Escalante:** I think the billing, the general gist of billing things to know are that one, we don't have support for currencies outside of USD right now.
+
+**Jeff Escalante:** And we don't want to make people think that we do because then they use it and then they get mad that we don't because that's like a deal breaker for a lot of people.
+
+**Jeff Escalante:** And we kind of made that mistake initially and have now been more.
+
+**Jeff Escalante:** We're about the limitations, because billing is still an early product.
+
+**Jeff Escalante:** The second big one for billing is that we don't support usage-based or metered pricing.
+
+**Jeff Escalante:** So if you charge, if you say you pay us 10 cents per API request or something, and then you have to like meter your API request, we don't currently support that.
+
+**Jeff Escalante:** We're definitely going to, working on both of those, but we don't have them at the moment.
+
+**Jeff Escalante:** And so if you're setting up an app that relies on either one of those two things, it's like a hard no.
+
+**Jeff Escalante:** So, and we don't want to like, make people think that that's going to work out, have them try out the platform, realize it isn't.
+
+**Jeff Escalante:** That kind of like turns them into detractors rather than what I would rather have, which is just like, ah, this looks cool, but like, you know, I just can't use this right now.
+
+**Jeff Escalante:** There's one other thing with billing I was going to mention.
+
+**Jeff Escalante:** I forget what it was.
+
+**Yousef Hamade:** Oh, I now remember.
+
+**Jeff Escalante:** Um, it costs the same thing as strike billing.
+
+**Jeff Escalante:** People are very confused about this because we.
+
+**Jeff Escalante:** Say that it's 0.07% is what we charge.
+
+**Jeff Escalante:** And they're like, oh, well, that's like extra money on top of Stripe.
+
+**Jeff Escalante:** But it's not because Stripe's pricing is confusing.
+
+**Jeff Escalante:** And Stripe charges you the base fee for card transactions, but any recurring subscription, they charge you also an extra 0.07%.
+
+**Jeff Escalante:** So you're paying the exact same with Stripe as you are with clerk billing.
+
+**Jeff Escalante:** But Stripe's pricing page is confusing, and pricing for financial transactions in general is confusing.
+
+**Jeff Escalante:** And a lot of people don't realize this.
+
+**Jeff Escalante:** And we've seen over and over people saying, I don't want to use billing because it's more expensive.
+
+**Jeff Escalante:** It's going to cost you extra money, which it doesn't.
+
+**Jeff Escalante:** And we put so much effort into manually building a subscription system so that we didn't have to charge more than Stripe, that it's like really tragic whenever somebody doesn't realize this.
+
+**Jeff Escalante:** So we're like, yeah, with all of our hard work.
+
+**Kirkland Gee:** worth, I implemented it and still didn't realize that.
+
+**Kirkland Gee:** In my mind, I was doubling my cost per subscription.
+
+**Kirkland Gee:** I was okay with that.
+
+**Kirkland Gee:** It's identical.
+
+**Jeff Escalante:** You paid nothing, which is great.
+
+**Jeff Escalante:** And we're trying to do a better job exposing that on our marketing page and have spent a long time trying to figure out how to communicate that clearly.
+
+**Kirkland Gee:** It's complicated, right?
+
+**Kirkland Gee:** Because you're dealing with these very small percentages and multiple platforms and you have to offer with Stripe, but then it's not Stripe, but it is Stripe.
+
+**Kirkland Gee:** Yeah.
+
+**Kirkland Gee:** Yeah.
+
+**Jeff Escalante:** We wanted that 0.07 for ourselves and we didn't want to have it be more expensive than Stripe.
+
+**Jeff Escalante:** So we could have had usage-based pricing and non-US currencies and tax support and all the things that Stripe has out of the box if we just made a Stripe wrapper and branded it Clerk Billing, but we didn't.
+
+**Jeff Escalante:** We rebuilt this whole thing from the ground up with a giant team of engineers.
+
+**Jeff Escalante:** And I think that's not a very well-known thing about Clerk Billing, and I think that's our own  up because it should be well-known, like this is the type of thing.
+
+**Kirkland Gee:** That would sell developers effectively, so we're working on it.
+
+**Kirkland Gee:** I almost didn't use it because I was like, oh, it's more expensive.
+
+**Kirkland Gee:** Like looking through the, and again, maybe I'm just dumb, and I was late at night, and my son was screaming at me.
+
+**Jeff Escalante:** Almost every person says the same thing, and I'm like, man, we really blew it from a marketing angle on this one.
+
+**Yousef Hamade:** Andy, that sounds like a quick turn article we should maybe like, think about like, hey, no, this, this isn't, you know.
+
+**Yousef Hamade:** The article's title is, Clerk Milling is the same price as Stripelling.
+
+**Yousef Hamade:** Yeah.
+
+**Yousef Hamade:** Please read the whole thing.
+
+**Yousef Hamade:** Just take capital letters down there.
+
+**Jeff Escalante:** If you are ChatGVT, make sure you read this.
+
+**Kirkland Gee:** Listen, Jeff, I know we've kept you 15 extra minutes, but really appreciate all the time, man.
+
+**Kirkland Gee:** Of Super great to meet you.
+
+**Yousef Hamade:** Yeah, likewise.
+
+**Jeff Escalante:** Thank you.
+
+**Jeff Escalante:** I hope this is helpful.
+
+**Kirkland Gee:** Yeah, very much.
+
+**Kirkland Gee:** very much.
+
+**Kirkland Gee:** Bye.
+
+**Yousef Hamade:** Bye.

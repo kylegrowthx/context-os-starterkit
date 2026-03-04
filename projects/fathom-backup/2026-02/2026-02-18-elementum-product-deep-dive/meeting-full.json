@@ -1,0 +1,2924 @@
+{
+    "title": "Elementum product deep dive",
+    "meeting_title": "Elementum product deep dive",
+    "url": "https://fathom.video/calls/570075963",
+    "created_at": "2026-02-18T18:31:56Z",
+    "scheduled_start_time": "2026-02-18T18:00:00Z",
+    "scheduled_end_time": "2026-02-18T18:30:00Z",
+    "recording_id": 123425581,
+    "recording_start_time": "2026-02-18T18:00:07Z",
+    "recording_end_time": "2026-02-18T18:31:34Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I knew that.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "said your name wrong.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "said Aida.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "meeting is being recorded.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, Aida is how it's pronounced in my native language, but when I speak English, I default to Aida.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I think it's easier for people to pronounce.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Very cool.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I got it right.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "In Russian, you would be Aida as well.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So you don't have issues pronouncing it then.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That's good.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you for jumping on today.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Just for context.",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So hi, Andrew.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "For context.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So today we were just hoping to get like a product demo for you and I would ask like a couple of follow-up questions.",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Hi, Aida.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Hi, Andrew.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "How are you doing?",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I was just explaining to Vlad what we're kind of here to do today just to give a little bit of context.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, but yeah, it's just like a product demo explaining.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "We want to understand how the platform works because we're going to be writing a",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "lot of content related to the platform, so we want to make sure that it's accurate from a product perspective, and that we also understand how it works so that, you know, we know what we're writing about.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, yeah, I think that, is that helpful?",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "I'm happy to answer any other questions.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Yeah, and Vlad, just a little more context.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "So, we've done a few onboarding calls with GrowthX already, so we had Nader on a few days ago, sort of covering overall sort of company story and positioning, so it already has all that context.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "They've done a lot of work documenting the sort of the company positioning and ICP and the like, so this is, yeah, just showing the product.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "All right, let's show you what we got.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I'm going to share my screen.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I'm just shutting off.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I'm going to share my full screen.",
+            "timestamp": "00:02:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I'm just turning off all the noise.",
+            "timestamp": "00:02:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "No problem.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Definitely jumping.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Here we go.",
+            "timestamp": "00:02:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Share.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I know maybe Nate already kind of given the background of the app, but I'll still give you just a tiny framing in terms of where we are.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So where we are, we fulfill this kind of sweet spot, the Goldilocks intersection spot between building traditional workflows, which is simplified low-code or no-code workflows that can be done.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We've been a we've Northwestern And I'm share my bit, bit go?",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "the off button.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we build workflows with agents in the middle, and that's what you kind of see here right now on my screen.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So the classic way, or at least a lot of people today have a choice.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Do they go with something like Google or they go with Copilot or they go with Anthropic or ChatGPT alone?",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And in those cases, they wind up getting an agent, and they write paragraphs of text, and it kind of works.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It's great for maybe if you have some questions and answers, but if you want to build any business-centric workflow, especially in regulated industries, they don't do the same thing every time, and it's very difficult to audit what they do.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So unlike traditional code where you can step through it...",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "That block of text just gets absorbed into those billions of parameters of the GPT or whatever the LLM behind the scenes is, and it just doesn't work for American enterprise.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Then on the flip side, we have these traditional players like ServiceNow or UiPath, which build regular workflows, and they've been around for years.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And recently, they started adopting agents into their workflow, but they're kind of bolt-on, and we really fit into the spot natively because we coincidentally started building out our platform when agents came online.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we have this, what you see on the screen, an example of a traditional workflow with an agent in the middle.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So this is a workflow for an employee coming in and asking for, hey, can I take a beer?",
+            "timestamp": "00:04:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It's your request, which gets routed to an agent.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Once agent processes it, then we go ahead and put it back into a workflow that goes ahead, make sure that the response matches our expectations and then writes it out to the system like Workday.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And what this is, this is a gateway for, puts us into a very good position to be a gateway for corporate actions.",
+            "timestamp": "00:05:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So there's a lot of, there's a sprawl of agents, even though they're not performing well.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "There's still a lot of agents.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "if you remember back in the day, there were a lot of websites.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "People would have internal websites and then they would start building portals.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we have this portal for agents.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So instead of having this wild, wild jungle of agents all over the place, one in Workday, one in SAP, one in you name it.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So everyone has an agent these days.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We allow companies to create not only just these deterministic workflows, we're well positioned to create this front door or the golden entry for organizations to have us as a front door where we route to their agent, get the response back, and then create this unified front door.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So what I'm going to begin, I'm going to show you three different personas.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So the first persona is your traditional corporate workers.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It's like us.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So you may want to ask for a PTO.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "You may want to submit some contract.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Let's say we are your customer, right?",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We have a contract that you need to go ahead and put in through your system and or anything else.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "For example, get a new laptop, right?",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So these are the things I'm going to do.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we provide this.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Front door.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Looks like ChatGPT, right?",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But behind the scenes, we're not the authority.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We, just like a portal, we'll have you go to sports, weather, and whatever else you'll have in your portal.",
+            "timestamp": "00:07:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We do this at a corporate level, and we are focusing in this case on agentic workflows.",
+            "timestamp": "00:07:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Obviously, the other thing that we do, we also allow to replace existing systems like ServiceNow or Workday with an agent.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So whether it's kind of a pass-through or just a true new way to consume them.",
+            "timestamp": "00:07:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But at the end of the day, the front door is just a text box like this in this web browser, or it could be Slack, or it could be Teams, or it can be even a phone call, right?",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So they ultimately lead all to the same front door within Elementum that routes the requests, right?",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So what I'm going to do now is I'm going to show you how it works.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I'm going to go ahead.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I'm and pull up a contract.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And I'm going to say, process this contract, period.",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Also, I want to take PTO, March 1st through 5th, and my laptop is old, so can you put in requisition for a new laptop?",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I dictated it here just to demonstrate it.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Again, this is not Elementum feature.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "That was just my MacBook feature.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But we do have a phone number that you can dial in, and it would be very similarly input into it.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "You can, they're very intelligent.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It will be able to...",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Also, just a quick peek, what this contract looks like, right?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So this is kind of your classic contract with money and payment terms, right?",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So something that typically would require a human to go ahead and process.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So it processes it.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It puts it into the appropriate system.",
+            "timestamp": "00:09:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So the PTO request goes into, well, it goes into approval cycle.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we have an approval cycle before with a human in the loop.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "The contract goes into our contracting system.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And then my request for a laptop goes into our IT system that does hardware, right?",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So for any modern corporation that needs this intersection of deterministic workflows, agentic workflows, and human in the loop, we bring this all together in one system.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So this is...",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "This is it, right?",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So it's that simple.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I could have done three different requests.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "could have had a Q chat, but it really replaces not only going to three different agents or maybe two agents and a traditional user interface.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And it gives you a single quick way to do this through a variety of methods.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And again, I'm just doing it here in a web browser.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We can do it through anything, SMS, Teams.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I already said those things.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So that's persona one.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So just a traditional corporate employee like us having a pleasant working experience.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Second persona is a builder.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So how do you make all this happen, right?",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we started off with kind of a drag and drop interface, which was pretty easy.",
+            "timestamp": "00:10:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So, for example, when somebody uploads, it begins when you upload a PDF file, go ahead and look inside of it, extract the content, and you kind of, as I'm narrating, you would drag and drop blocks.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "With an agent, as if you're planning a trip to Italy or wherever you want to go, and it starts asking you questions, what do you like?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "In this case, it would ask you questions about what you're trying to build.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So in this case, again, we're building an IT service management system.",
+            "timestamp": "00:12:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I'd ask you what I want to do.",
+            "timestamp": "00:12:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I'm going to pick, I'm going to try to do maybe a small component of it.",
+            "timestamp": "00:12:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I'm going to hit submit.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It's going to start working on the first module of it.",
+            "timestamp": "00:12:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It may ask me some follow-up questions.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "How, for example, I want to interact with it.",
+            "timestamp": "00:12:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So perhaps I want to do these first three use cases.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I'm going to hit submit.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So, and as it builds it, so you can see now it's building it.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I'm going expand it.",
+            "timestamp": "00:12:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So now, this is kind of a more.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So,",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "More modern user interface to it, but it begins with these triggers and it's building out these components that otherwise a human would have to drag and drop in our interface.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So again, so just like with most agents, it would make a decision.",
+            "timestamp": "00:13:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So the green ones are the triggers.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "What starts off, remember when I uploaded the PDF file, it was the trigger.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "In this case, somebody submits a request for a laptop or they're having an issue.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Then we would decide, it decides what to do.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So these purple tasks are agents.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So it will build an agent to do things.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And the blue ones are deterministic processes to make sure that the agents perform as needed.",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So notice how these purple tasks are sandwiched in these blue rectangles, meaning that this is how we keep agents honest.",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It continues building out the app.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I'm not going to, it's more involved than kind of this demo is going to.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So eventually it's going.",
+            "timestamp": "00:13:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "To build out, going to ask me a few more kind of follow-up questions.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I would approve it, and the first version of this app would appear in the Elementum platform, very similarly to what I was just using to do the typical corporate employee demo.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "The final persona, so let's skip over this.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So the final persona I have here is the fulfiller, so it's that boring job.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Or maybe not, not to insult anyone.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So once the request is submitted, the agent took it in.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Somebody maybe needs to go and pull a laptop from the desk or somebody from the warehouse, or somebody may need to, a legal person needs to go and look at the contract.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So, for example, that contract that I just uploaded, all that mumbo-jumbo of legal text was parsed, right?",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So even though it looked like just a mess of words, right, the contract's there.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "huh?",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "All you.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "They have very specific categories like contract types, terms, costs, associations with other systems, right?",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So this has all been nicely parsed as if a paralegal was working with a lawyer.",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And now the fulfiller, the lawyer, will review the specific of contracts, nicely parsed, and have a first pass of feedback.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It's like, oh, no, termination 90 days is too long or too short, or the contract term 24 months, we don't do 24 months, do 36, right?",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Whatever feedback is, it's a very quick way to get things going for the fulfiller.",
+            "timestamp": "00:15:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And again, so I submitted the PTO request.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "If you go further down, there's going to be a request for a manager.",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Where's my pending data investigation?",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Here we go.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So here's a request for a PTO request.",
+            "timestamp": "00:15:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Again, somebody would approve my PTO.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Again, I don't approve my own.",
+            "timestamp": "00:15:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But again, if it was approved, it would go in and eventually will show up on the calendar, but after the human in the loop.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So not only we offer an agent building experience, we also offer a traditional UI for people who are familiar with it and need to action on things, stage it through a variety of approvals, and capture data in a classic or traditional format.",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we offer this full ecosystem that offers a modern agentic experience through a chat, whatever your mode is.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We offer this either traditional low-code opportunity to build applications for builders or this agentic interface.",
+            "timestamp": "00:16:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And then where I'm at now, this classic interface where people can continue working with it, with analytics.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And all bells and whistles.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So the bells and whistles, meaning that this is a platform.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "This is not just an agent or a developer tool.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "This is a full platform with full transparency, visibility, audit, meaning that you could see who did what.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We log all the conversations if there's some conversation happening that's outside of the parameters of your corporate governance.",
+            "timestamp": "00:17:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Again, we can flag it in real time.",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We provide version control.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We also create an audit in terms of how much money is being spent with each agent if there's a cost associated with it.",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we provide not just an ability to build and execute, but we also are a full platform with role-based access security and all the things that you would expect from a platform.",
+            "timestamp": "00:17:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So that's...",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So what it does, takes an invoice, just like that contract that I uploaded, it digitizes it.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And the output of it is a reason why there's a problem with this invoice.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So specifically, the invoices that have problems, they get routed to here, and we produce a report on why there is a problem with this.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So here's a sample contract, okay?",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Okay, sorry, not contract, sample invoice, and there's something wrong with it.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we will go ahead and parse it out, and then we will say why it mismatches with the SAP.",
+            "timestamp": "00:19:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "That's kind of the end of it.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But I'm going to go into kind of behind the scenes and say, so in this case, it sends out an email, right?",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But let's say I want to do something more than just an email.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Let's say I want to do Slack, right?",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I can send, send message to Teams.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Where's my Slack?",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I can send an email.",
+            "timestamp": "00:20:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I don't think I have Slack configured for this app, but I can send a message to teams as well, right?",
+            "timestamp": "00:20:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I can send an email.",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I can send an SMS message.",
+            "timestamp": "00:20:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We have another customer.",
+            "timestamp": "00:20:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "This one, I can actually say their name is Sanofi.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So very similar.",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Again, something happens and that something is for their salespeople.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Once they visit the customer and that customer is a doctor.",
+            "timestamp": "00:20:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I'm a drug rep visiting a doctor.",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And after I walk out of the office, our system has visibility into the schedule.",
+            "timestamp": "00:20:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So it knows that I walked out of the office at 10 minutes after me walking out, it will initiate a phone call and call me and say, Vlad, did you see Dr.",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Kadavi?",
+            "timestamp": "00:20:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And I'll say yes or no.",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And if I say yes, it will say, so how did it go?",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And then I will just talk to it.",
+            "timestamp": "00:20:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And then it will take that, my mind dump and create a beautiful form.",
+            "timestamp": "00:20:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Basically, I don't know if you work with.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Salesforce or any other CRM system, it will populate all the fields, next action, and also provide some commentary on top of what would be the next best action, right?",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we do have a variety of methods, kind of in and out.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We can also trigger APIs.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Where's my API?",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So there's an API here somewhere as well.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And that's a universal thing, right?",
+            "timestamp": "00:21:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So whatever you can think of, this send API request would be any system, any time, even if it doesn't exist yet today.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "One thing that I wanted to clarify, just on the AI agent part.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I noticed when you were, for example, building the workflow, you were using Opus 4.5.",
+            "timestamp": "00:21:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Does Elementum just use other models?",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Or do you have your own, like, I mean, like when it comes to agents, like, do you have, can you integrate with others?",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Yeah, great question.",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We don't have, here, this is the coolest.",
+            "timestamp": "00:21:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I didn't go into the...",
+            "timestamp": "00:21:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Technical details.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we, one of our competitive advantages is that we, we're like the Switzerland of, of the platform.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So specifically, we don't have our own agents.",
+            "timestamp": "00:22:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So a customer has to bring your own agent.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So specifically, so for example, I'm going to, I'm an administrator here on the platform.",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I can go into this AI services.",
+            "timestamp": "00:22:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And once it loads, you're going to see a list of variety of agents that a customer will connect that they already working with, whether it's tropic or whatever is.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And the second piece is the database.",
+            "timestamp": "00:22:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So a lot of our customers, interestingly enough, are from regulated industries like pharma or insurance.",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And the reason they pick us is because we don't copy the data out of their system.",
+            "timestamp": "00:22:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We work in their system.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So when we install our application, this cloud link thing will usually get like the most popular system like Snowflake.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Or Databricks or Postgres.",
+            "timestamp": "00:23:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So these are kind of the most frequently used systems with us.",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But ultimately, the customer owns the database or the data cloud, and we install and live in their cloud.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So and that seems like, wait, why are you doing this?",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But it's the comfort.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So the customer has their own database, and we live in there, and we provide that security and also a lot of performance from that.",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And the same thing with the agents, right?",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So they will have, so most corporations already have contracts with ChatGPT and Anthropic, and they have negotiated a lot of very specific privacy clauses, right?",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we will, so when we go into this AI services piece and I connect to any of these platforms, we are going to, the customer will provide the API key that they own.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And...",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Interactions with the Anthropic agents will be according to the terms of that customer.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So that's a huge win for us.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Also, our competitors, they, like, for example, if you go with Google, they will not offer, you can't build an agent that leverages something from OpenAI.",
+            "timestamp": "00:24:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Or if you go to OpenAI or Microsoft, they will only offer OpenAI, but they will not offer the Google.",
+            "timestamp": "00:24:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Same thing with Bedrock from Amazon.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "They will only offer a certain subset of agents.",
+            "timestamp": "00:24:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "But again, we are like the Switzerland of agents and databases.",
+            "timestamp": "00:24:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And we offer whatever you own.",
+            "timestamp": "00:24:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "We just bring it into this one unified UI with governance.",
+            "timestamp": "00:24:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So here you can even see how much money is being spent with each provider.",
+            "timestamp": "00:24:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And again, this is very attractive to our customers.",
+            "timestamp": "00:24:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Yeah, and Aida, I mentioned yesterday that we're working this week on a slightly new rev of the messaging.",
+            "timestamp": "00:24:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "And a couple of the really important points are first, fundamentally, when you're building a workflow, there are specific pieces of the workflow that agents are really good at, and we allow you to build deterministic logic for things like routing or branching logic or anything that's really rules-based, where you could maybe get an agent to do the same thing, but it's dramatically more expensive.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "And it's probably not as reliable because of the probabilistic nature of LLMs.",
+            "timestamp": "00:25:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "So it's first, only use agents generally, where you need to use an agent in the workflow.",
+            "timestamp": "00:25:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "And then we allow you to pick which of the LLMs, which of the service providers, which of, you know, is it a Snowflake agent, is it a ServiceNow agent, is it ChatGPT, and use the agent that's most appropriate for that step.",
+            "timestamp": "00:25:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "And then...",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "And one of the pieces of messaging that's resonating really well with CIOs is, like, if you need the newest, most sophisticated, most expensive model, great, use it.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "If it's a task that doesn't require that, use DeepSeq, right?",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Use an older model that's a lot cheaper and lighter weight.",
+            "timestamp": "00:26:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "And that idea of only apply the big, sophisticated agent hammer where you really need it and otherwise use agent processing that's a lot more efficient and cheaper, that's landing really, really well.",
+            "timestamp": "00:26:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Obviously, we're working on the words to say that in a lot more succinct way.",
+            "timestamp": "00:26:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "No, I completely understand.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "mean, this is great.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And I think one of the biggest things that we are like an AI company and we work with a lot of companies that also use AI and there's always this criticism.",
+            "timestamp": "00:26:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Of the industry, which is like you're using AI for things that like it doesn't need to be used.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I think that's a really powerful messaging, like a piece of messaging that we can incorporate into content.",
+            "timestamp": "00:27:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And I mean, the platform itself, like this is going to be really fun to write about because it works and it's so simple.",
+            "timestamp": "00:27:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And like the fact that you can just use a single chat interface and just tell it to do multiple things and it does it.",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "It's really, really impressive.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Anything else that I should know?",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I mean, you've answered all of my questions.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Like my biggest answer, like my biggest question was around the agents because I wanted to get clarity on that.",
+            "timestamp": "00:27:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Is there anything else that I should know from maybe your customer conversations or anything that's come up recently?",
+            "timestamp": "00:27:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I think just to summarize.",
+            "timestamp": "00:27:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So like what makes, what really resonates with the customers is the question.",
+            "timestamp": "00:27:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Yeah, so we don't provide any agents and we are agent agnostic where everyone else will try to kind of offer you the marketplace of their own agents and whatever they have contracts with.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And then the second piece is that we live in the customer's data cloud.",
+            "timestamp": "00:28:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "That's a very big comfort point and performance points.",
+            "timestamp": "00:28:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So from security standpoint, data is not leaving.",
+            "timestamp": "00:28:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "I don't know if you have a housekeeper, but it's a cleaning lady coming to you or a cleaning person coming to you, then you bring yourself out to be cleaned, right?",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So that's kind of the security part, but the other part is also the performance, right?",
+            "timestamp": "00:28:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "When, for example, the contract being uploaded or somebody submitting a PTR request, we see their real time in the database.",
+            "timestamp": "00:28:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So we act on things extremely fast and efficiently from kind of delivery standpoint and monetary.",
+            "timestamp": "00:28:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So when you're working from the outside system, it also costs you extra money.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I think these are like customers really, really love these, these endpoints.",
+            "timestamp": "00:29:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:29:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And I think also from like a compliance standpoint, you're not, for example, you wouldn't need to, would you need to sign like business associate agreements with healthcare companies?",
+            "timestamp": "00:29:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "It's just a question.",
+            "timestamp": "00:29:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Like if, if, if you were working with like a healthcare company, like a, you know, that had patient records, would you need a, it might be a question that, you know, we are HIPAA compliant or we, we, we, so again, so when it comes to HIPAA, we, so they're like, we enable HIPAA compliance.",
+            "timestamp": "00:29:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So I don't think like, so, so, so we have our processes, so ultimately the customer owns the HIPAA compliance, not us, but when they work with us, a lot of our customers are HIPAA compliant.",
+            "timestamp": "00:29:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "And we, again, and we don't ship data anywhere.",
+            "timestamp": "00:29:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "So when you work with the other vendors, they wind up being kind of the pass-through and using their agents.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "In our case, the data is theirs, the agents are theirs, we are visiting them and we are performing this registration.",
+            "timestamp": "00:30:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "The issue with HIPAA specifically is when you're storing the data.",
+            "timestamp": "00:30:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But it's, yeah, so in this case, it's not even, it's not an issue.",
+            "timestamp": "00:30:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Correct.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Yeah, and same thing with GDPR, right?",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "I mean, if your data is in Snowflake and you're GDPR compliant, adding Elementum to the stack is nothing from a GDPR standpoint, right?",
+            "timestamp": "00:30:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Because to Vlad's point, like we literally, like we don't have a data store.",
+            "timestamp": "00:30:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:30:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, makes total sense.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "This is great.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, like really, it was a really great session.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you so much for your time, Vlad.",
+            "timestamp": "00:30:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Andrew, I know we have a meeting right after this.",
+            "timestamp": "00:30:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yes, so I will, I'll see you in a bit.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "It's dark outside.",
+            "timestamp": "00:31:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Okay, sounds good.",
+            "timestamp": "00:31:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Thanks a lot, Vlad.",
+            "timestamp": "00:31:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Are you in Europe, Aida?",
+            "timestamp": "00:31:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yes, yes, I am.",
+            "timestamp": "00:31:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Yeah, I could see.",
+            "timestamp": "00:31:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, it's dark outside.",
+            "timestamp": "00:31:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, It's 7.30 p.m.",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andrew Bennett",
+                "matched_calendar_invitee_email": "abennett@elementum.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:31:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Vlad Usatin",
+                "matched_calendar_invitee_email": "vusatin@elementum.com"
+            },
+            "text": "Are you in Poland?",
+            "timestamp": "00:31:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Sorry, no, no.",
+            "timestamp": "00:31:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I live in Bosnia in Sarajevo.",
+            "timestamp": "00:31:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Oh, very cool.",
+            "timestamp": "00:31:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:31:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:31:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Very cool.",
+            "timestamp": "00:31:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, thanks, Vlad.",
+            "timestamp": "00:31:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Appreciate it.",
+            "timestamp": "00:31:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "All right, cheers.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:31:26"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive into the Elementum product for content creation.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=45.0)\n\n## Key Takeaways\n\n  - [**Hybrid Workflow Engine:** Elementum combines deterministic logic with probabilistic AI agents, using deterministic guardrails to ensure agent reliability and auditability\u2014a key differentiator from pure LLM tools.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=149.0)\n  - [**Agent & Data Agnostic:** The platform is \"Switzerland\" for agents and data. Customers use their own LLM contracts (e.g., OpenAI, Anthropic) and Elementum runs directly in their existing data cloud (e.g., Snowflake), ensuring data security and compliance.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1292.0)\n  - [**Unified Corporate Gateway:** A single chat interface acts as a \"front door,\" routing complex, multi-system requests (e.g., PTO, contract processing) to the correct backend systems, replacing fragmented user experiences.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=362.0)\n  - [**Cost-Optimized AI:** The platform enables cost control by allowing users to select the most efficient agent for each task. This means using expensive, sophisticated models only when necessary and cheaper, lighter-weight models for simpler jobs.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1490.0)\n\n## Topics\n\n### The Problem: Unreliable AI & Fragmented Workflows\n\n  - [**Pure LLMs (e.g., ChatGPT):** Unreliable for enterprise workflows due to their probabilistic nature, making them hard to audit and govern.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=193.0)\n  - [**Traditional Workflow Tools (e.g., ServiceNow):** Their agent integrations are often bolt-ons, lacking native, reliable AI capabilities.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=252.0)\n  - [**Result:** A fragmented user experience where employees must navigate multiple systems (Workday, SAP) and internal agents for simple tasks.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=349.0)\n\n### The Solution: Elementum's Hybrid Platform\n\n  - [**Core Architecture:** Combines deterministic logic (for routing, branching) with probabilistic AI agents (for complex tasks like parsing).](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=149.0)\n  - [**Deterministic Guardrails:** Agent tasks are \"sandwiched\" by deterministic logic, ensuring reliability, auditability, and compliance.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=817.0)\n  - [**Unified Chat Interface:** A single entry point (web, Slack, Teams, phone) for all corporate actions.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=454.0)\n      - [**Demo:** A single prompt (\"Process this contract... take PTO... requisition a new laptop\") triggered three separate workflows.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=475.0)\n      - [**Outcomes:**](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=555.0)\n          - [**PTO:** Sent to a manager for approval.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=555.0)\n          - [**Contract:** Parsed for key data (terms, costs) and sent to legal for review.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=864.0)\n          - [**Laptop:** Created a requisition in the IT system.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=555.0)\n\n### Platform Personas & Capabilities\n\n  - [**1. Employee (User):**](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=387.0)\n      - [Interacts via a simple chat interface to submit multi-system requests.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=387.0)\n  - [**2. Builder (Developer):**](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=638.0)\n      - [Creates workflows using a drag-and-drop interface or an agent-driven builder.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=638.0)\n      - [The agent builder asks questions to generate workflows, including triggers (green), agent tasks (purple), and deterministic logic (blue).](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=720.0)\n  - [**3. Fulfiller (Actioner):**](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=864.0)\n      - [Uses a traditional UI to review and action requests.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=864.0)\n      - [**Contract Example:** Legal reviews a pre-parsed contract, quickly providing feedback on specific terms.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=864.0)\n      - [**PTO Example:** A manager approves a PTO request, which then updates the calendar.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=941.0)\n\n### Key Differentiators: Agnostic & In-Cloud\n\n  - [**Agent Agnostic:**](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1292.0)\n      - [Customers \"bring their own agent\" via API keys, leveraging their existing contracts and privacy clauses with providers like OpenAI and Anthropic.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1292.0)\n      - [This avoids vendor lock-in and allows users to select the best agent for each task.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1448.0)\n  - [**Data Agnostic (In-Cloud):**](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1354.0)\n      - [Elementum runs directly in the customer's existing data cloud (e.g., Snowflake, Databricks).](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1354.0)\n      - [**Why it matters:**](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1673.0)\n          - [**Security:** Data never leaves the customer's environment.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1692.0)\n          - [**Compliance:** Simplifies adherence to regulations (HIPAA, GDPR) as Elementum doesn't store data.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1753.0)\n          - [**Performance:** Real-time access to data enables faster, more efficient workflows.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1692.0)\n\n### Platform Governance & Cost Control\n\n  - [**Full Platform Features:** Includes role-based access, version control, and comprehensive analytics.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1022.0)\n  - [**Auditability:** Logs all conversations and actions, flagging out-of-policy activity in real-time.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1022.0)\n  - [**Cost Analytics:** Tracks spending per agent provider, enabling cost optimization.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1481.0)\n  - [**Optimized Agent Use:** The platform encourages using the most cost-effective agent for each task.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1490.0)\n      - [**Example:** Use a sophisticated model (e.g., Opus 4.5) for complex analysis, but a cheaper, lighter-weight model (e.g., DeepSeq) for simple tasks.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1560.0)\n\n## Next Steps\n\n  - [**Aida:** Use the product deep dive to inform accurate and compelling content creation.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=56.0)\n  - [**Andrew:** Finalize and share the updated messaging framework with Aida.](https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6?tab=summary&timestamp=1490.0)\n"
+    },
+    "action_items": [],
+    "calendar_invitees": [
+        {
+            "name": "Kyle Westwood",
+            "email": "kwestwood@elementum.com",
+            "email_domain": "elementum.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Andrew Bennett",
+            "email": "abennett@elementum.com",
+            "email_domain": "elementum.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Andrew Bennett"
+        },
+        {
+            "name": "vusatin@elementum.com",
+            "email": "vusatin@elementum.com",
+            "email_domain": "elementum.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Vlad Usatin"
+        },
+        {
+            "name": "Aida Kne\u017eevi\u0107",
+            "email": "aida@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Aida Kne\u017eevi\u0107"
+        }
+    ],
+    "recorded_by": {
+        "name": "Aida Kne\u017eevi\u0107",
+        "email": "aida@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/Gjaftdj77W9kEb-EnFKefMRyZiNi9pf6",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

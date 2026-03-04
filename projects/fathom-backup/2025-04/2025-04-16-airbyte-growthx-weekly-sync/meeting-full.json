@@ -1,0 +1,1348 @@
+{
+    "title": "Airbyte <> GrowthX Weekly Sync",
+    "meeting_title": "Airbyte <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/277025637",
+    "created_at": "2025-04-16T19:15:01Z",
+    "scheduled_start_time": "2025-04-16T19:00:00Z",
+    "scheduled_end_time": "2025-04-16T19:30:00Z",
+    "recording_id": 57719615,
+    "recording_start_time": "2025-04-16T18:59:34Z",
+    "recording_end_time": "2025-04-16T19:14:46Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Hey, Nico.",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Did you have the time to recover?",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "A little bit.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Just petted my dog a little bit.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Oh.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah, I did the same with my cats.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Oh, man.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "We might need a...",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Technical briter or a briter.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Okay, there are four note takers.",
+            "timestamp": "00:00:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Anything?",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Nithin",
+                "matched_calendar_invitee_email": "nithin.mahalingam@airbyte.io"
+            },
+            "text": "I do.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "I do.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Nithin",
+                "matched_calendar_invitee_email": "nithin.mahalingam@airbyte.io"
+            },
+            "text": "I all go good.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "you?",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Pretty good.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Pretty good.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Is everybody else joining?",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Who?",
+            "timestamp": "00:01:17"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "We're taking this as your entire work format.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "You",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Jacob is some issues, loving him.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "in how are things over there, how's the weather and how are you?",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nithin",
+                "matched_calendar_invitee_email": "nithin.mahalingam@airbyte.io"
+            },
+            "text": "Yeah, it's, it's almost here, but it's",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Nithin",
+                "matched_calendar_invitee_email": "nithin.mahalingam@airbyte.io"
+            },
+            "text": "I mean, it's been raining for the past couple of days.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "I read it.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Nithin",
+                "matched_calendar_invitee_email": "nithin.mahalingam@airbyte.io"
+            },
+            "text": "Yeah, that's a bit weird, but how is it there?",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "It's actually kind of raining too.",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah, we had been like the whole week rain.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "So, yeah, it's actually worse.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Today here was hot, and I guess they were pretty cold.",
+            "timestamp": "00:03:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Nithin",
+                "matched_calendar_invitee_email": "nithin.mahalingam@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "And I dressed completely wrong for the day, so I left the house in like a long-sleeve shirt and a jacket, and then I worked at a co-working place, and I was just at like four.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "was like, I have to go home and change this isn't working.",
+            "timestamp": "00:03:41"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "So, I came here to go home, here's where I am.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "A.K.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So, was down for some reason.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Oh, there's Mario.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So, joining from my laptop here.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Jacob's having had some issues getting into the meeting as well, so we can start we can start without him I don't know if we know where the first 10 may or Yeah, hi, there he is We got two for one coming in the corner.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Oh, sorry.",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah All right, let me just get our let me share my screen I can You You guys can all see the meeting notes Yeah, yeah, great.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah, cool.",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:04:42"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah, so I think so far so good.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "We're going pretty good velocity As What's Niko has been doing lot of the publishing so If you guys have had a chance to take a look make sure everything, know, looks good.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "did",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "I had a refresher so far published in five new blog posts, and he has two to still publish that are finished, and then we have a few more that we're still working on.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "The seven new refreshers are mostly done, but there's going to be a little bit more editing.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "I saw a 10-minute made some comments about long paragraphs of stuff.",
+            "timestamp": "00:05:14"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah, that's going to get some final editing before it's ready to get published.",
+            "timestamp": "00:05:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "So, anything in terms of publishing that we need to look out for?",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "No, I think we are good, like, we are doing, like...",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Okay, here's Jacob.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "In terms of, like, seven article refresh and three new articles, so I think we are good.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "I saw that seven topics were refreshed, so those are fine and good to go.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "good.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah, so that you added some new ones as well.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "Yeah, and thank you for you for interrupting.",
+            "timestamp": "00:05:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "you very much for the video, also for marketing the tables.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "That was really, really useful, so I hope that everything",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Nicolas Fernandez",
+                "matched_calendar_invitee_email": "nicolas@growthx.ai"
+            },
+            "text": "It's right with those.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "In terms of the two new ones that I finished this week, I just had a couple of questions because they're like 10 data integration platforms and stuff like that.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Where do you guys stand on?",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "It's kind of like unavoidable to add editors to these types of what's the thing?",
+            "timestamp": "00:06:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I'm fine.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So we need to like all those listical topics.",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "We need to mention definitely our competitors.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "But we have to get the top and it should look like how we are positioning and messaging about our byte.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And like it looks better compared to your competitors like those kind of articles.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "From like a profile analysis, what I am currently finding is where is the gap.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So there are multiple content cluster where we are not ranking or getting much visibility on these platforms.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "From there we are trying to find out caps and identify the topics for this class and then suggesting you the new ones.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "The only thing about these is that like a full term like AI data integration platforms doesn't really have a lot of volume or right now so we're just trying to manipulate it like say I will target a keyword that's like AI data integration and then work around because has like more volume and then mentioned platforms somewhere else like in the title and also mention it like within within the body of the post itself so okay so in terms of competitors like nobody is like off limits and uh okay so that's it let us maybe maybe one thing that we can do here is like whenever there is like a competitor article or double checklist we should do that first",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Reviewing those just a thumbs up like and but like besides that we're good.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "like okay It might be a bit slower than respond.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "My slack is like exploding at times.",
+            "timestamp": "00:08:07"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah Just you know, um, but like yeah, like let's make sure that I I review personally like anything that is competitive related and we should be good And there's no Sorry, uh, if you don't mind me jumping on.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Sorry, on my phone.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I have no idea what's going on Uh, so anyway, um, do you all have I don't know battle cards or any those compared like any competitor anything you can I literally have a meeting after this call to discuss that, uh with our sales enablement team.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So Okay, um, yeah if you have anything that's like Like even v1 or anything historically that we can feed in Uh to our work streams like that would be useful if not, we'll obviously take the crack and then we'll have you review that's right on Um, but anything we can feel",
+            "timestamp": "00:08:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "there or even when you get those in the future, we can rerun and re-update things once those have been created.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So whatever you have, but that would be useful.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, so currently we have some product comparison pages, but those are not updated and outdated.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So we need to create new templates for those pages and update those.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, okay.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "And also anytime, we can even right now when we already wrote like 10 competitors, as soon as you check that out, if you see there's something we should change, you can make a recommendation, know, these guys in instead and we'll fix it pretty quickly.",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "And the other thing I wanted to ask is, should we avoid pricing in these types of things?",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Because I feel like it might change a lot over the of the time.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "mean, the thing though is that we actually just introduced new pricing that is not volume based and like all of our competitors price by volume.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So we are not going to change it that much.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But like we can't then control like if our competitor change it right and like we don't as you said like it's it's Volatile because we don't control like what other companies do Is that a differentiator like it's a huge yeah, we should talk about yeah We should be setting that up in the intro and like any so there's any other different traders Maybe we already have the topologies if we do but Those for this type of articles and then we should be setting that up and even highlighting the pricing like if competitor changes That's way less of a big deal than like look at how different the pricing is way better So let's ensure that that's in there and then highlight it in like the early section That's like how to select with that's at the top or the bottom But let's make sure we're like focusing on that plus any other differentiator's team that we can Really it's and I think that'll be different slightly like product by product list right like each like little category or Different way of sifting the products will have different different",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Traders free also if we can highlight those it's nail those that's key to obviously the conversion side of each list That makes all the sense.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah I'm definitely gonna ask but we need to like do more we need a one behavior of different shaders, okay?",
+            "timestamp": "00:11:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Let me just say Okay, I'll ask my team to do it.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Yeah, and then we can put that in our workflow.",
+            "timestamp": "00:11:18"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "It's there awesome.",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah Right Cool.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "So yeah, as soon as we get those a little edited now and updated with the things we talked about Send it over and I beg you as to check it out Then can goes for the the refreshes.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "There's gonna be a little bit more editing and then they should be ready to be put that and ready to get published and We also we have our list of three ones for for next week which I tend to make That we're good and the refreshes you so from that's being good.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "also gonna set up We're also gonna set up a looker studio dashboard",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "this at the end of this week and then have it for you next week we're just going to be able to you know track the progress of the things we're refreshing in the new and the new blog post for creating so you know I think we have enough stuff right now to you know start doing that and get a sense of how we're doing great yeah yeah I appreciate it yeah appreciate it awesome cool I don't know if Jake if you want to talk about the backlink strategy a little bit just really quickly tell me if you want to if you'd like I'd like to offer you know 30 minutes or something if you want to go through what you've been doing backlinking it can be now gonna be in the future but just feel free to lock me and set something up have to talk over I mean I see the list but understand what you're doing and like how I can whether it's send you contacts or get you in you know there's plenty of stuff I can do there I've been doing links on my own for a long time so happy to support if that makes sense but on your time there",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Anyway, and then one question I didn't add here But curious like what you all have done if you've done any like Pending or you know evaluation of like the existing content before we came in I know we're doing a bunch of refreshes super important But wondering if that is has been done if it's needed just something that popped in my brain in like the last hour or so Always eating so I wanted to check on that So we have done some content revamp some months back, but not totally so currently we are doing it And there is a process like we are picking seven articles a week, right?",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "And there are like huge content library that we have on our website.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "So It will take some time, but I think gradually Main traffic and lead generation pages.",
+            "timestamp": "00:13:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "have to revamp those and refresh those to make sure that those are still generating Traffic and leads and then parallelly benefit the other new option on opportunities, which we are creating Well, I'll take a look and see because I think we are doing this",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "the micro level and fixing traffic obviously, but I'll take a look a little bit at the more macro level and sync in the next week or so on that.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "think there's more that we're not quite, we're doing like the micro and at the macro, I'll still there.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "would be appreciated, Jacob, for sure.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "No problem at all, okay, cool.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "yeah, your answer is like, I think we should do it.",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Yeah, I think you're right.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "hear you.",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "We can connect this week or next week, some like talking.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, she means like, she means like, we'll figure it out.",
+            "timestamp": "00:14:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "That's good.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Thanks, Joe.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "I want to let you guys know that I'm going to refresh the content OS to kind of get rid of the stuff we kind of figured out.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "We don't need and add some of the suggestions that you've sent our way as well.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "So get that refreshed, get it, you know, about today and looking better and even more easier to follow.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Okay, awesome, sounds good.",
+            "timestamp": "00:14:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Thanks, Joe.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "I'll say anything else.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "David Galic",
+                "matched_calendar_invitee_email": "david@growthxlabs.com"
+            },
+            "text": "Thanks, Greek and easy.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Mario Moscatiello",
+                "matched_calendar_invitee_email": "mario.moscatiello@airbyte.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik\u2019s iPhone (2)",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:15:02"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Weekly sync between Airbyte and GrowthX to discuss content strategy, progress, and next steps.](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=3.0)\n\n## Key Takeaways\n\n  - [Content production on track: 5 new blog posts published, 2 ready to publish, 7 refreshers nearly complete](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=300.0)\n  - [Competitor mentions allowed in listicles; David to review competitor-related content](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=364.0)\n  - [New non-volume-based pricing is a key differentiator; to be highlighted in content](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=587.0)\n  - [Macro-level content audit needed; Jacob to review and sync next week](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=840.0)\n  - [Content OS to be refreshed with recent updates and suggestions](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=873.0)\n\n## Topics\n\n### Content Production Progress\n\n  - [5 new blog posts published](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=300.0)\n  - [2 finished posts ready for publishing](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=300.0)\n  - [7 refreshed articles nearly complete, pending final edits](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=310.0)\n  - [3 new topics identified for next week](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=697.0)\n  - [Looker Studio dashboard to be set up for tracking progress](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=717.0)\n\n### Content Strategy for Competitor Mentions\n\n  - [Competitors can be mentioned in listicle-style articles](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=390.0)\n  - [Airbyte should be positioned favorably compared to competitors](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=399.0)\n  - [David to personally review all competitor-related content](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=562.0)\n  - [Team to create list of key differentiators for each product category](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=600.0)\n\n### Pricing Strategy in Content\n\n  - [Airbyte's new non-volume-based pricing is a significant differentiator](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=587.0)\n  - [Pricing to be highlighted in introductions and \"how to select\" sections](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=579.0)\n  - [Focus on pricing difference and other key differentiators in content](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=600.0)\n\n### Backlink Strategy\n\n  - [Jacob offered to discuss backlink strategy in a separate 30-minute meeting](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=523.0)\n  - [David expressed willingness to support with contacts and experience](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=562.0)\n\n### Content Audit and Revamp\n\n  - [Some content revamp done months ago, but not comprehensive](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=780.0)\n  - [Current process: refreshing 7 articles per week](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=814.0)\n  - [Focus on main traffic and lead generation pages](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=818.0)\n  - [Jacob to review content at a macro level and sync next week](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=840.0)\n\n### Content OS Update\n\n  - [David to refresh Content OS](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=873.0)\n  - [Remove unnecessary items](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=873.0)\n  - [Incorporate recent suggestions](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=881.0)\n  - [Aim for easier navigation and clarity](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=886.0)\n\n## Next Steps\n\n  - [David to review and update competitor-related content in listicles](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=562.0)\n  - [Mario's team to create list of key differentiators for product categories](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=673.0)\n  - [Jacob to schedule 30-minute meeting to discuss backlink strategy](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=523.0)\n  - [Jacob to conduct macro-level content audit and sync findings next week](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=840.0)\n  - [David to refresh and update Content OS](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=873.0)\n  - [Set up Looker Studio dashboard for content progress tracking](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=717.0)\n  - [Continue with planned content production and refresh schedule](https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq?tab=summary&timestamp=697.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Personally review all competitor-related content before publishing",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:06:09",
+            "recording_playback_url": "https://fathom.video/calls/277025637?timestamp=369.9999",
+            "assignee": {
+                "name": "David Galic",
+                "email": "david@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Create new templates for product comparison pages, update outdated ones",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:01",
+            "recording_playback_url": "https://fathom.video/calls/277025637?timestamp=541.9999",
+            "assignee": {
+                "name": "Mario Moscatiello",
+                "email": "mario.moscatiello@airbyte.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Request list of key differentiators from team, esp. new pricing model vs competitors",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:10:43",
+            "recording_playback_url": "https://fathom.video/calls/277025637?timestamp=643.9999",
+            "assignee": {
+                "name": "Mario Moscatiello",
+                "email": "mario.moscatiello@airbyte.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Set up Looker Studio dashboard to track progress of refreshed/new blog posts",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:11:46",
+            "recording_playback_url": "https://fathom.video/calls/277025637?timestamp=706.9999",
+            "assignee": {
+                "name": "David Galic",
+                "email": "david@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Schedule 30-min meeting w/ Mario to discuss backlinking strategy",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:12:27",
+            "recording_playback_url": "https://fathom.video/calls/277025637?timestamp=747.9999",
+            "assignee": {
+                "name": "Jakub Rudnik\u2019s iPhone (2)",
+                "email": "jakub@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Analyze content strategy at macro level, prepare insights for next meeting",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:13:49",
+            "recording_playback_url": "https://fathom.video/calls/277025637?timestamp=829.9999",
+            "assignee": {
+                "name": "Jakub Rudnik\u2019s iPhone (2)",
+                "email": "jakub@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Refresh content OS: remove unnecessary items, add new suggestions, improve usability",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:14:22",
+            "recording_playback_url": "https://fathom.video/calls/277025637?timestamp=862.9999",
+            "assignee": {
+                "name": "David Galic",
+                "email": "david@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Tanmay Sarkar",
+            "email": "tanmay@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Nithin M ",
+            "email": "nithin.mahalingam@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Nithin"
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Mario Moscatiello",
+            "email": "mario.moscatiello@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Mario Moscatiello"
+        },
+        {
+            "name": "Jimmy Pal",
+            "email": "jimmy@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jakub Rudnik",
+            "email": "jakub@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Jakub Rudnik\u2019s iPhone (2)"
+        },
+        {
+            "name": "nicolas@growthx.ai",
+            "email": "nicolas@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Nicolas Fernandez"
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "David Galic",
+            "email": "david@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "David Galic"
+        }
+    ],
+    "recorded_by": {
+        "name": "David Galic",
+        "email": "david@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/Vc-L6B3M2Bhzuij4bdkyvzpoiCJTfdHq",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

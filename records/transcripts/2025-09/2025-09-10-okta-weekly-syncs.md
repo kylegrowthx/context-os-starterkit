@@ -1,0 +1,1688 @@
+# Okta Weekly Syncs
+
+<metadata>
+date: 2025-09-10
+time: 20:30 UTC
+duration: 57 minutes
+organizer: Kyle Gaudreau
+participants: Kyle Gaudreau, Sydney Go, George Haikal, Rachael Tiow
+fathom_recording_id: 86424838
+fathom_url: https://fathom.video/calls/405126079
+share_url: https://fathom.video/share/7qvPQxEUFVyq-zv3YksSiC82ffhv9fJC
+source: fathom
+enriched_on: 2026-03-03 22:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Okta discussed progress on building a comprehensive sales acceleration system (Okta's "growth engine") designed to reduce SDR research time and improve conversion rates 2x. Kyle and Rachael aligned on the phased approach: completing brief refinement in Phase 1, followed by MVP rollout with enablement and measurement in Phase 2. A key insight emerged from Nick's SDR testing: the team needs to lock down brief structure and AI prompting guardrails before scaling across Okta's 300-person SDR org, since most reps lack the contextual judgment of high performers. The team agreed to design a Notion workspace (Kanban-style experiment board, async tracking) and resolve data security constraints around sharing account information between Okta and GrowthX.
+
+---
+
+## Context
+
+Okta is a major identity and access management (IAM) company with a large enterprise sales organization (300+ SDRs). Rachael Tiow, leading sales strategy at Okta, is building what she calls a "growth engine" — a system to modernize how SDRs prospect and research accounts. This multi-quarter engagement with GrowthX started with an initial workshop (featuring Hank Taylor, who introduced Rachael to Marcel). The relationship is strong; both sides share a philosophy around building intelligence systems that respect SDR limitations while leveraging AI and data enrichment. Kyle Gaudreau and Sydney Go from GrowthX are designing the account research briefs, data scraping workflows, and AI prompts that will power this system. The retail vertical (accounts with loyalty programs) is the initial launch target, with plans to expand across verticals. Eric Campos, a previous team member at Okta, departed this week, so Rachael is carrying forward solo on Okta's side for continuity.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Phased delivery model (brief refinement → MVP rollout → scaling) is working; evidence from Nick's testing proved the value of locking guardrails before scaling to 300 SDRs. Rachael explicitly validated Kyle's earlier concern: "I told you so" moment on the need for brief refinement first.
+- Account brief structure is critical leverage point. GrowthX is designing the information architecture that constrains what Gems (Okta's AI tool) can do; the better the brief, the fewer hallucinations.
+- Prompting guardrails and enablement instructions for SDRs are not yet formalized; both need to be locked down in Phase 1 before rollout.
+- Notion workspace architecture (Kanban experiment board) will be the project management backbone; Kyle owns the design.
+
+**To GrowthX Business Development:**
+- Okta contract is multi-quarter (at least through Phase 2 MVP rollout) with a 300-SDR scaling opportunity beyond Phase 1 pilot.
+- Expansion potential: Okta is planning to expand beyond retail vertical (e.g., considering Shopify partnerships, manufacturing, other verticals). Each vertical may require new brief structures and workflows — ongoing revenue opportunity.
+- Customer reference potential: Okta is concerned about Nordstrom reference ethics (contractual sensitivity). This signals strong results and a desire to publicize wins, but governance is needed.
+- Risk signal: Eric Campos's sudden departure this week; Rachael is now solo owner. Continuity and relationship depth with Kyle/Sydney are critical to momentum.
+
+**To CheckThat:**
+- Gems (Google's in-Okta AI tool) has known limitations (processing power, hallucination proneness) compared to ChatGPT. This is a real-world case study of deploying AI in constrained environments; insights could inform CheckThat positioning around prompt engineering and output reliability.
+- Okta's security constraints (no ChatGPT API access) reflect enterprise risk posture. CheckThat should monitor this pattern across accounts.
+
+---
+
+## Overview
+
+- Rachael is developing a comprehensive "growth engine" to enhance Okta's sales processes, integrating AI, data enrichment, and contextual insights
+- The team is refining account briefs and prompts for AI tools (Gems) to improve SDR efficiency and effectiveness
+- There's a focus on the retail vertical for initial implementation, with plans to expand to other industries
+- Challenges with data access and security need to be addressed for seamless collaboration
+
+---
+
+## Key Topics
+
+### Growth Engine Development
+
+  - Rachael is building a "growth engine" to streamline sales processes
+  - Components include:
+      - Data enrichment (e.g., loyalty programs, login portals, tech stack)
+      - Contextual insights (e.g., growth initiatives, security concerns)
+      - AI-powered messaging
+  - Goal: Reduce research time and improve conversion rates (aiming for 2x improvement)
+  - Future plans include expanding to other verticals and integrating with marketing efforts
+
+### AI Tool Implementation (Gems)
+
+  - Currently testing with Nick (high-performing SDR) for initial feedback
+  - Challenges:
+      - Limited processing power of Gems
+      - Need for clear instructions to prevent hallucinations
+  - Focus on refining prompts and account briefs to improve output quality
+  - Plan to roll out to more SDRs after initial testing and refinement
+
+### Retail Vertical Focus
+
+  - Initial focus on retail accounts with loyalty programs
+  - Scraping for specific data points:
+      - Login portals
+      - Loyalty program details
+      - Mobile app presence
+      - Social login availability
+  - Targeting accounts using legacy setups (e.g., email/password only)
+  - Considering partnerships (e.g., Shopify) for additional opportunities
+
+### Data Access and Security Challenges
+
+  - Difficulty in sharing Okta's internal data with GrowthX team
+  - Exploring options:
+      - Virtual machine setup
+      - CSV exports as a temporary solution
+  - Need to balance data access with security concerns
+
+### Collaboration Tools
+
+  - Moving from Google Docs to Notion for better organization and async work
+  - Planning to create a Kanban-style board for tracking ideas and progress
+
+---
+
+## Action Items
+
+**Rachael Tiow (Okta)**
+- Send filtered list of retail accounts to Sydney (within next hour)
+
+**Kyle Gaudreau (GrowthX)**
+- Design Notion workspace architecture for project mgmt (Kanban, ideas, backlogs, statuses)
+- Schedule meeting with Nick and Rachael to discuss Nick's experience using GrowthX tools and gather SDR feedback on brief quality and prompt clarity
+
+---
+
+## Transcript
+**Rachael Tiow:** How's it going?
+
+**Rachael Tiow:** You know, wait, hold on.
+
+**Kyle Gaudreau:** Do you know Hank Taylor?
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Not like super well, but like our paths have crossed a variety of times.
+
+**Rachael Tiow:** You have similar vibes to him.
+
+**Kyle Gaudreau:** Similar vibes?
+
+**Rachael Tiow:** Interesting.
+
+**Rachael Tiow:** Yes.
+
+**Rachael Tiow:** Okay, this is how I read Hank Taylor's vibes.
+
+**Rachael Tiow:** Stoic.
+
+**Rachael Tiow:** He's funny when you get to know him.
+
+**Rachael Tiow:** Kind of like that weird dry humor kind of thing.
+
+**Rachael Tiow:** I shouldn't say weird dry humor, but he has dry humor and good listener.
+
+**Rachael Tiow:** And then out of nowhere, he'll bust out a joke.
+
+**Rachael Tiow:** And I'm like, wow, I didn't expect that because he's so stoic.
+
+**Kyle Gaudreau:** I can see some similarities for sure.
+
+**Kyle Gaudreau:** I think he skews the more stoic side than me.
+
+**Rachael Tiow:** You have more expressions than he does.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** He's hard to read sometimes.
+
+**Rachael Tiow:** He's pretty hard to read.
+
+**Rachael Tiow:** And I think it's his operational background because...
+
+**Rachael Tiow:** I've noticed that ops people tend to be very, like Sydney.
+
+**Rachael Tiow:** She's just very even-keeled.
+
+**Rachael Tiow:** What, there's a hurricane?
+
+**Kyle Gaudreau:** Yeah, everything is fine.
+
+**Sydney Arin Go:** I'm all over the place.
+
+**Kyle Gaudreau:** Ask Kyle.
+
+**Sydney Arin Go:** I'm just muted usually.
+
+**Kyle Gaudreau:** Sydney's awesome.
+
+**Kyle Gaudreau:** Yeah, it's weird.
+
+**Kyle Gaudreau:** He was at Trey before I was there.
+
+**Kyle Gaudreau:** Doing some of the same things I was doing.
+
+**Kyle Gaudreau:** Although some differences, for sure.
+
+**Kyle Gaudreau:** And I would see his name all over Salesforce and all the little things, just Hank Taylor this, Taylor that.
+
+**Rachael Tiow:** I was like, who is this Hank Taylor guy?
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** then randomly we crossed paths when I was doing an interim role for Builder.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** was doing the same.
+
+**Kyle Gaudreau:** And so got a chance to collaborate after, like, hearing each other's names over the years.
+
+**Kyle Gaudreau:** And then he so happened to be working with Marcel on the initial first workshop.
+
+**Kyle Gaudreau:** And so the paths kind of crossed again there.
+
+**Rachael Tiow:** And he's been kind of, like, rooting for us on the sidelines a bit.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** Oh, yeah.
+
+**Rachael Tiow:** Yeah, yeah, yeah.
+
+**Rachael Tiow:** He was the one who introduced me to Marcel, actually.
+
+**Rachael Tiow:** Oh, he did?
+
+**Rachael Tiow:** Okay.
+
+**Rachael Tiow:** Yep.
+
+**Rachael Tiow:** It was through Hank, not Ganto.
+
+**Rachael Tiow:** And then when I got to meet with Marcel, I thought, wow, this is a genuinely good human being, which is so rare in the Bay Area.
+
+**Rachael Tiow:** It's definitely tech, yeah.
+
+**Rachael Tiow:** Yeah.
+
+**Kyle Gaudreau:** Tech leadership is not oftentimes the most empathizing side of the business.
+
+**Rachael Tiow:** Yeah, no, seriously.
+
+**Rachael Tiow:** I feel like I was watching this.
+
+**Rachael Tiow:** So he's a CIA intel officer that trains CIA people how to read people, how to read your environment.
+
+**Rachael Tiow:** Like, you know, when they do reconnaissance work, yeah?
+
+**Rachael Tiow:** And then he quit CIA and then went on to pursue being a doctorate and doing research on just humans in general.
+
+**Rachael Tiow:** Mm-hmm.
+
+**Rachael Tiow:** This is his stance, and I do not disagree with him.
+
+**Rachael Tiow:** says, cities is a place that indoctrinates a lot of psychopathic behavior.
+
+**Kyle Gaudreau:** Like, we all have abilities to be psychopathic.
+
+**Rachael Tiow:** It's all varying degrees, right?
+
+**Rachael Tiow:** But when you live in a society where you're fast-paced, it's what's in it for me?
+
+**Rachael Tiow:** What can you do for me?
+
+**Rachael Tiow:** You're wasting my time.
+
+**Rachael Tiow:** You're the weakest link in my chain.
+
+**Rachael Tiow:** Like, it starts to really shape and change the way our neuron starts to wire and fire.
+
+**Rachael Tiow:** And then eventually, you know, we like to think that we are above our environment.
+
+**Rachael Tiow:** Not true.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Very interesting.
+
+**Rachael Tiow:** Very interesting.
+
+**Kyle Gaudreau:** I'm always fascinated by, it comes up in my TikTok feed sometimes of, like, maybe it's the same dude.
+
+**Kyle Gaudreau:** I don't know.
+
+**Kyle Gaudreau:** But, like, CIA people talking about, like, you know, just the varying things related to human psychology.
+
+**Kyle Gaudreau:** And things they've studied.
+
+**Rachael Tiow:** And
+
+**Rachael Tiow:** I don't know.
+
+**Rachael Tiow:** I find it like super, super interesting.
+
+**Rachael Tiow:** Me too.
+
+**Rachael Tiow:** I went to school for psychology and philosophy.
+
+**Rachael Tiow:** I did a double major only to realize there's no money in psychology, no philosophy.
+
+**Kyle Gaudreau:** I almost went that route.
+
+**Kyle Gaudreau:** It's probably part of why it interests me.
+
+**Rachael Tiow:** But yeah, I kind of fell into it somewhere.
+
+**Rachael Tiow:** I like, I don't know.
+
+**Rachael Tiow:** Yeah, my dad told me, like, Rachel, you make no money in those professions.
+
+**Rachael Tiow:** I'm like, you're not wrong, Dan.
+
+**Kyle Gaudreau:** You're not wrong.
+
+**Kyle Gaudreau:** So we sold ourselves and went into business.
+
+**Sydney Arin Go:** I think my dad said the same thing.
+
+**Rachael Tiow:** Because we're Asian.
+
+**Sydney Arin Go:** It's true.
+
+**Rachael Tiow:** Asian fathers cannot have, my dad says, Rachel, I invested so much in your education and you're going to go work a job that pays you a meager wage.
+
+**Kyle Gaudreau:** GTFO.
+
+**Kyle Gaudreau:** It's funny.
+
+**Kyle Gaudreau:** My parents were like old hippies.
+
+**Rachael Tiow:** Whatever you want to do, man, go for it.
+
+**Kyle Gaudreau:** And I'm just like, that's not helpful.
+
+**Rachael Tiow:** I don't know.
+
+**Rachael Tiow:** Maybe in your next life.
+
+**Rachael Tiow:** We might end up with an Asian parents.
+
+**Kyle Gaudreau:** Maybe there's some influence in there somewhere from my grandfather.
+
+**Rachael Tiow:** He did grow up in Shanghai.
+
+**Rachael Tiow:** Oh, interesting.
+
+**Kyle Gaudreau:** Yeah, he's a Jewish family escaping from Ukraine, ended up in Shanghai.
+
+**Kyle Gaudreau:** so, like, actually, like, he was a super fascinating dude.
+
+**Rachael Tiow:** Like, culturally, he had all these different influences and all this, like, different things he was into.
+
+**Kyle Gaudreau:** So I grew up with a lot of that and just weird ways.
+
+**Kyle Gaudreau:** Then he actually came to SF, and then he ended up settling in Connecticut.
+
+**Kyle Gaudreau:** So I ended up inadvertently following his footsteps by moving to SF and, like, some of his family.
+
+**Kyle Gaudreau:** Like, actually, I just found out recently, I think it was his brother, used to live, like, four blocks from my house, which is, like, crazy.
+
+**Rachael Tiow:** Oh, wow.
+
+**Kyle Gaudreau:** Super weird.
+
+**Kyle Gaudreau:** It was not the reason I came out here.
+
+**Rachael Tiow:** But anyway.
+
+**Rachael Tiow:** No, but you know what?
+
+**Rachael Tiow:** There is some Vedantic scriptures that used to.
+
+**Rachael Tiow:** Read, I have to find the exact paragraph, but there's one prose in there that always, it's something that I often think about, which is the subtle pulling strings.
+
+**Rachael Tiow:** You know, in philosophy, always have that debate, do you really have free will?
+
+**Rachael Tiow:** What's the definition of free will?
+
+**Rachael Tiow:** And when you start to look at life and you look back at all the decisions you made, there was something that was what we call the subtle pulling strings.
+
+**Rachael Tiow:** It's quite fascinating.
+
+**Rachael Tiow:** I don't think it's by a coincidence that you ended up in San Francisco.
+
+**Kyle Gaudreau:** That's all I'm trying to say.
+
+**Kyle Gaudreau:** Yeah, I don't know.
+
+**Kyle Gaudreau:** It very well could be true.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** But anyways, I can go on all day about it.
+
+**Rachael Tiow:** Wait, I have to come to San Francisco and we have to make a day where we do not work and all we do is just talk story.
+
+**Kyle Gaudreau:** Let's do it.
+
+**Kyle Gaudreau:** I'm done.
+
+**Kyle Gaudreau:** That would be amazing.
+
+**Kyle Gaudreau:** That would be amazing.
+
+**Rachael Tiow:** But unfortunately, we now have to go back to We got to talk business stuff.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** So of the things on the agenda, what's on your mind, like most important?
+
+**Kyle Gaudreau:** I see you weren't able to finish the thought here, so I can't help you out with that one.
+
+**Rachael Tiow:** This is something Hank would say.
+
+**Kyle Gaudreau:** It's so Hank.
+
+**Rachael Tiow:** Like, you guys have very clean humor.
+
+**Rachael Tiow:** Who is that?
+
+**Kyle Gaudreau:** Oh, have you guys heard of Cheney?
+
+**Kyle Gaudreau:** That's just what I say for the workplace.
+
+**Rachael Tiow:** My wife would not agree with that.
+
+**Rachael Tiow:** okay.
+
+**Rachael Tiow:** Have you watched this comedian, Shang Wang?
+
+**Kyle Gaudreau:** I don't think so.
+
+**Rachael Tiow:** I don't think I've heard of him.
+
+**Rachael Tiow:** Oh, my gosh.
+
+**Rachael Tiow:** Super funny comedian.
+
+**Rachael Tiow:** Clean humor.
+
+**Rachael Tiow:** No dirt.
+
+**Rachael Tiow:** It's all PG-13.
+
+**Rachael Tiow:** Yeah, he cussed, but whatever, right?
+
+**Rachael Tiow:** Yeah, anyway.
+
+**Rachael Tiow:** Yes, I didn't finish my thought, which now I'm thinking about it.
+
+**Rachael Tiow:** I don't even know what I wanted to say.
+
+**Rachael Tiow:** But, real quick, top of mind, Eric Campos' last day is this coming Monday, which is why he's not in this call.
+
+**Kyle Gaudreau:** Oh, sorry to that.
+
+**Rachael Tiow:** Yeah, super sudden.
+
+**Rachael Tiow:** He's got some family emergencies and all that stuff.
+
+**Rachael Tiow:** So, anyway, that's all good.
+
+**Rachael Tiow:** Delivery on SDR docs, then something that ties into that that I want to talk about is, which also ties into my unfinished thought there is, the way I'm thinking about pulling account artifacts, which I want to share with you guys, the first thing I'm thinking about is, hey, I want to scrape before you guys pull the artifacts, because, I don't know, I don't want us to pull account artifacts if they don't meet the criteria for that business narrative and the account characteristic fits.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** And I'm already seeing that right now with some of the SDR accounts.
+
+**Rachael Tiow:** So the way I'm thinking about pulling artifacts is, would it make more sense for us on my side to first scrape and enrich the data on clay tables first, then pass it over to you guys?
+
+**Rachael Tiow:** Or it doesn't matter, Rachel, we're just going to pull them anyways.
+
+**Rachael Tiow:** Anyways, because right now what we've done so far is we have the artifacts for overall what odd zero is, the impact it does, it drives, right?
+
+**Rachael Tiow:** Then we start to get into, okay, here's the verticalized place that we can start to kick off.
+
+**Rachael Tiow:** The issue is some of the accounts right now, as much as I've told the reps to pick retail accounts, I have funny things like manufacturing in there.
+
+**Kyle Gaudreau:** Okay, we can argue that Mazda could technically fall into retail, but Mazda also has distinctively various different businesses.
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** Yeah, it's very different than what the intent is.
+
+**Rachael Tiow:** For this use case, which is retail with loyalty programs, and if they're leveraging loyalty programs to drive business, which a lot of retailers are, they have to modernize part of their business.
+
+**Rachael Tiow:** So this is where it gets tricky, right?
+
+**Rachael Tiow:** I don't want us to be pulling artifacts on accounts that don't even meet the first line of come through, which is, yo, what the ?
+
+**Rachael Tiow:** Why did you pick Mazda?
+
+**Rachael Tiow:** That tells me they're not even, they don't really understand what the hell is going on, which is totally fine.
+
+**Rachael Tiow:** We're all learning, and I'm learning on my side on how to clearly explain to SDRs what they need to do.
+
+**Rachael Tiow:** The other thing, to no fault of their own, even our database information can be misleading.
+
+**Rachael Tiow:** So Rackspace was tagged as a retail account.
+
+**Rachael Tiow:** Thank you.
+
+**Rachael Tiow:** Thank
+
+**Rachael Tiow:** Which is great, because Rackspace is not a retail account.
+
+**Rachael Tiow:** I'm trying to figure out, would it make more sense for us before we submit things over to you guys to build it out?
+
+**Rachael Tiow:** But then this also opens up a bigger discussion, right?
+
+**Rachael Tiow:** Like we've talked about maybe one of the Fridays after you spoke with Brad on Okta Retail, which is what we're working on is one small piece of a bigger puzzle.
+
+**Rachael Tiow:** Would it make sense for us to kind of scope out what the big puzzle is and how this all fits?
+
+**Kyle Gaudreau:** Because we'll have multiple versions of it.
+
+**Kyle Gaudreau:** Right now, we're all working on a video.
+
+**Kyle Gaudreau:** The way I've been thinking about this, I was talking about this with Sydney earlier this week.
+
+**Rachael Tiow:** Give me all your unfiltered thoughts, by the way.
+
+**Rachael Tiow:** I know you guys have your business and all, but, you know, I hope you feel comfortable enough with me.
+
+**Kyle Gaudreau:** Oh, yeah, yeah, yeah, yeah.
+
+**Kyle Gaudreau:** No, for sure.
+
+**Kyle Gaudreau:** Like, for me, like, I just want to, and this is supporting the point, I think you're getting it, by the way.
+
+**Kyle Gaudreau:** Bye.
+
+**Kyle Gaudreau:** Bye.
+
+**Kyle Gaudreau:** But, like, I'm trying to think about this and, like, how can we ensure we have the right focus and, you know, within these experiments, there's going be natural phases and making sure, like, we are feeling we're at a good state to run an experiment, understand it, when we feel good about taking on the next, things of that nature, right?
+
+**Kyle Gaudreau:** And so, I can touch on that in a second, but, like, related to what it seems like is on your mind there, it's like, okay, well, there's an overarching theme, objective, things we're trying to do, and, like, obviously, we've talked about that in varying altitudes, but, like, you know, it sounds like there's some kind of, like, new thinking around that potentially here.
+
+**Kyle Gaudreau:** So, like, just being really aligned on that and thinking about then, okay, what is the intent of this experiment with all that in mind?
+
+**Kyle Gaudreau:** What are we trying to learn?
+
+**Rachael Tiow:** How does that connect back to the initial objective?
+
+**Kyle Gaudreau:** And then as we take it down to, like, this Okta retail example, or OCD or retail example, rather, to me, it's like, you know, the current phase we're in is refining the briefs.
+
+**Kyle Gaudreau:** We can continue to refine the briefs, and what I want to be careful is, like, to me, that work's never done.
+
+**Kyle Gaudreau:** But also, like, when is that, what is that, like, right, like, where do we need to get to with the other phases in mind?
+
+**Kyle Gaudreau:** So then phase two is then starting to think about, like, the MVP, the rollout, getting that out there and aligning on, that's kind of, like, my thought of, like, alignment on the rollout of the SDR experiment of, like, how do we want to think about this?
+
+**Kyle Gaudreau:** How many SDRs?
+
+**Kyle Gaudreau:** What kind of things do they need in terms of instructions, enablement?
+
+**Kyle Gaudreau:** What kind of things are we watching out for?
+
+**Kyle Gaudreau:** What are we learning?
+
+**Kyle Gaudreau:** How are we adapting?
+
+**Kyle Gaudreau:** And then finally, like, how are we measuring the effectiveness of this?
+
+**Kyle Gaudreau:** So, like, there's probably other details.
+
+**Kyle Gaudreau:** I didn't capture in there, but just, like, broadly, like, that's, like, the shape of that experiment, right?
+
+**Kyle Gaudreau:** And so there's naturally going to be a phase where, like, yes, we continue to do things to tweak around the edges of it, but, like, that experiment is running and live.
+
+**Kyle Gaudreau:** And it's not that we can't do anything else there, but then it's like, okay, we feel pretty good that this is in motion.
+
+**Kyle Gaudreau:** What's next?
+
+**Kyle Gaudreau:** Again, going back to that overall objective in mind and, like, what we're trying to accomplish, et cetera.
+
+**Kyle Gaudreau:** And so I was thinking about it almost like George was sharing, like, that Kanban board in motion.
+
+**Kyle Gaudreau:** And, like, to me, I would love to just get to a point where we just have something like that, but it is framed in a sense of, like, experiments.
+
+**Kyle Gaudreau:** Like, this is how I've run it when I've done this stuff in the past.
+
+**Kyle Gaudreau:** It's like, ideas come up, cool, awesome, scope it, put it in there, it's in backlog, it's up next, whatever.
+
+**Kyle Gaudreau:** This one's actively running, et cetera.
+
+**Kyle Gaudreau:** And then it also, you know, just makes it easy for us to have that back and forth with the view of, like, what are we prioritizing?
+
+**Kyle Gaudreau:** And then,
+
+**Kyle Gaudreau:** What are we doing, et cetera.
+
+**Kyle Gaudreau:** It's just what we're talking about.
+
+**Kyle Gaudreau:** And so anyways, that's been something that's been on my mind as I'm trying to think about like shaping this, because even some things I skipped past with like the retail experiment running now is like, as we think about that rollout, we need to really think about to what degree, like how wide are we talking?
+
+**Kyle Gaudreau:** How many SDRs, how many accounts, what does that look like, how do we make it repeatable, and making sure we're solving for that in a meaningful way for you.
+
+**Kyle Gaudreau:** You know, again, like one of my ideas here is like some version of maybe we need to consider configuring our workflows into a clay table that enables you to like kind of back to what you're mentioning on these accounts.
+
+**Kyle Gaudreau:** You don't have to worry about the order of operations as much, and you know, you can run a workflow as needed, and it should be like relatively consistent.
+
+**Kyle Gaudreau:** And it's not like we can't do anything.
+
+**Kyle Gaudreau:** I'm just more trying to make sure we're not the bottleneck for you as well.
+
+**Kyle Gaudreau:** And so anyways, I don't want go too in the weeds on that.
+
+**Kyle Gaudreau:** I'm just like more using an example of like trying to make sure we're thinking about like how this evolves, how it needs to scale.
+
+**Kyle Gaudreau:** When do we feel confident about it reaching that level of scale?
+
+**Kyle Gaudreau:** You know, as we're talking about this customer reference thing, for example, it's like, all right, what are like the gotchas or however you want to put it, the third rails I think I was mentioning to the team recently of just like, oh , don't do that.
+
+**Kyle Gaudreau:** Like, if I'm interpreting that thread correctly that we have before, Nordstrom's a customer that like, you don't want it, you can't talk about publicly, but then they kind of set up this situation where the team would and maybe that like, is not like kosher to the agreement with them or whatever it is.
+
+**Rachael Tiow:** Yeah, but it's also because we have to build it in such a way where at a high level where we're all functioning at a very high level by high level.
+
+**Rachael Tiow:** I mean, we have.
+
+**Rachael Tiow:** Ability to think deeply and exercise awareness and common sense and contextual decision-making, these SDRs often don't have.
+
+**Rachael Tiow:** So the analogy I tell people is, if we're all mere cats, imagine for a moment, a lot of them would not make it past six months of life.
+
+**Rachael Tiow:** They'll be eaten.
+
+**Kyle Gaudreau:** Do you tell this to them actively?
+
+**Kyle Gaudreau:** Selectively, depending.
+
+**Rachael Tiow:** This is why we have two channels.
+
+**Kyle Gaudreau:** Exactly.
+
+**Rachael Tiow:** But you know what?
+
+**Rachael Tiow:** I wonder if I were to tell this at a happy hour slot for open mic night, if people would laugh in the Bay Area.
+
+**Kyle Gaudreau:** I think you'd get some giggles.
+
+**Rachael Tiow:** Yeah, for sure.
+
+**Rachael Tiow:** For sure.
+
+**Rachael Tiow:** So that means we can't reference things where we know, we can discern, right?
+
+**Rachael Tiow:** We know, hey, yo, guys, we're not.
+
+**Kyle Gaudreau:** We're to use this.
+
+**Kyle Gaudreau:** This is really to set the context.
+
+**Kyle Gaudreau:** But the SDRs don't understand that.
+
+**Rachael Tiow:** And this is where too much information could be a detriment to their output.
+
+**Rachael Tiow:** So that's one thing that came up as we're looking at that one.
+
+**Kyle Gaudreau:** And that's kind of what goes back in my mind is like, I just have a hunch that we need to be spending some time on enablement instructions and whatever of just like, cool, you have this brief, you have the gem.
+
+**Kyle Gaudreau:** And maybe you already do this more in your, I don't know.
+
+**Kyle Gaudreau:** I'm just not as familiar with that part.
+
+**Kyle Gaudreau:** But like, the challenge we have is here with this, that system is like, whatever the prompt they choose to go with, like, can greatly determine, well, to some degree of the output.
+
+**Rachael Tiow:** No, it's very true.
+
+**Rachael Tiow:** Very true.
+
+**Rachael Tiow:** So I have to also say, right, after when Nick was going through all of this, it really allowed me to...
+
+**Rachael Tiow:** I a point that you were trying to make to me, which I think a couple weeks ago, we said, hey, Rach, we can definitely start Okta, no problem.
+
+**Rachael Tiow:** But there are so many things that we need to actually get the V1 refined before we even start.
+
+**Rachael Tiow:** Because I could already tell, like Nick is really pretty much one of the high-performing SDRs can think.
+
+**Rachael Tiow:** Yeah, he's definitely not one of the meerkats that will live under six months.
+
+**Rachael Tiow:** But he might be one of those meerkats building a new little, you know, I don't know, underground tunnel somewhere.
+
+**Rachael Tiow:** But most aren't like him.
+
+**Rachael Tiow:** And it really gave me this visceral experience of, , okay, if I have to scale this across 300 SDRs, I can't depend on their ability to be context-switching all the time.
+
+**Rachael Tiow:** So we need to really nail this down.
+
+**Rachael Tiow:** What are the necessary ingredients that should go into the account brief, the necessary ingredients in the prompting?
+
+**Rachael Tiow:** So for adult to work.
+
+**Rachael Tiow:** So that was one part I have to say that you might go, told you so, but I don't want say I told you so.
+
+**Rachael Tiow:** But yes, I said it.
+
+**Kyle Gaudreau:** So anyway, I agree with you on that front.
+
+**Rachael Tiow:** The other part was it got me thinking about the structure of your briefs because it then allows me to really work with you guys on, okay, how do we want to instruct the gems too?
+
+**Rachael Tiow:** Because side note, the gems are so limiting, right?
+
+**Rachael Tiow:** We know we've talked about that.
+
+**Rachael Tiow:** So I don't think Okta's going to open it up to let us use chat GPT.
+
+**Rachael Tiow:** I really wish it would because then we can code an agent in GPT and I think it's reasoning capabilities is far stronger.
+
+**Rachael Tiow:** But then at the same time, the good news is within your account briefs, you already have so much detailed details in there that it, even though Gemini's thinking abilities are a little bit weak, they'll still...
+
+**Rachael Tiow:** Just fine.
+
+**Rachael Tiow:** Better than just relying on the STRs to do it themselves, right?
+
+**Rachael Tiow:** I think it'll be fine for now, but potentially ironing out what needs to go inside the brief, and then what to instruct the gem to do, because then these two can do, which is one of the points there is like, how do we minimize, how do we ensure that gems don't hallucinate as much?
+
+**Kyle Gaudreau:** It's part of the process.
+
+**Kyle Gaudreau:** will happen.
+
+**Kyle Gaudreau:** Oh, it's going to happen.
+
+**Kyle Gaudreau:** It's like, yeah, it sounds like we're thinking about them the same way, which is great.
+
+**Kyle Gaudreau:** It's just like, to me, it's like, what are the hallucinations that we are most worried about?
+
+**Kyle Gaudreau:** And like, how can we proactively, you know, try to address them?
+
+**Kyle Gaudreau:** And I think there is a, I don't know how like repeatable this is, but like, you know, so some of the things that I was taking a look at the instructions, I think Eric had shared.
+
+**Kyle Gaudreau:** For the gems.
+
+**Kyle Gaudreau:** And some of those things, like there's some good stuff in there for sure.
+
+**Kyle Gaudreau:** Some of that, though, I think can be kind of like stripped out into the same way we are incorporating our briefs into the gems as reference documents can also be done in the same.
+
+**Kyle Gaudreau:** Like kind of like here are playbooks, right?
+
+**Kyle Gaudreau:** Because there was a bit of like if this, then that kind of content in there.
+
+**Kyle Gaudreau:** And what we could think about is like how to use the instructions in a way that is structuring outputs.
+
+**Kyle Gaudreau:** Because I have seen and experimented with things that kind of do that, whether it's like a custom GPT or whatever, but the concept is like similar, right?
+
+**Kyle Gaudreau:** So I'm not sure in practicality what that looks like yet.
+
+**Kyle Gaudreau:** It's like more, it's not a super form thought right now, but like, you know, just in that, you know, there's just different layers of instructions of like that we can give that hopefully can make it easier for the average SDR and to get like a useful output.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** It could be structured within the doc, and then the prompt is to pull from the doc itself, period.
+
+**Rachael Tiow:** And then when we instruct the gem, it explicitly states you're to reference the account briefs that are attached.
+
+**Kyle Gaudreau:** Yeah, we can do stuff around experimenting with quotes and things like that.
+
+**Kyle Gaudreau:** It doesn't guarantee it always does it, but I've definitely done that in different versions with other places.
+
+**Rachael Tiow:** With these, with the, Kyle, the reality is this, even before you guys started to build the account briefs, with my minimal, with my blue belt in clay, I don't even have a black belt in clay, with my blue belt in clay, I was able to build.
+
+**Rachael Tiow:** That's true.
+
+**Rachael Tiow:** I get to choke people out now.
+
+**Rachael Tiow:** It was even far superior than what the SDRs are doing on their own.
+
+**Rachael Tiow:** Mm-hmm.
+
+**Rachael Tiow:** So, next.
+
+**Rachael Tiow:** So really, I guess what I'm thinking at is like, what is within, which we're all saying that in the same way, just in a different, saying the same thing in a different way, which is, what are all the pieces when using a gym that we can control, so that the clearer we can control those inputs, the less creative it can be with their output.
+
+**Rachael Tiow:** So they're still, they're going to be within the guardrails that we gave them.
+
+**Rachael Tiow:** So then this leads to how I've been thinking a lot about, I guess it feels like so much is moving because my team is also evolving in a really quick succession as we started, right?
+
+**Rachael Tiow:** If it were five years ago, eight years ago, without all these tools, it'd be a very static team.
+
+**Rachael Tiow:** But my aim is to build out a system and then leverage agentic tools within the team so that, A, I don't need to manage so many humans on my team.
+
+**Rachael Tiow:** I would greatly appreciate that.
+
+**Rachael Tiow:** That one.
+
+**Rachael Tiow:** And then the second thing is things can just work without a whole lot of constantly managing people.
+
+**Kyle Gaudreau:** But now we're managing the process.
+
+**Rachael Tiow:** So that's where things are at right now.
+
+**Rachael Tiow:** Now, what goes into the briefs?
+
+**Rachael Tiow:** We can talk in details of what we can put in there.
+
+**Rachael Tiow:** I've looked through your briefs.
+
+**Rachael Tiow:** I can leave some comments in there.
+
+**Rachael Tiow:** But overarching, how I'm thinking about it is us working together.
+
+**Rachael Tiow:** And I may even potentially leverage because I'm drowning in work right now.
+
+**Rachael Tiow:** I just don't have enough time.
+
+**Kyle Gaudreau:** then with Eric bailing in a very short amount of time, I've got to go back to hire again.
+
+**Rachael Tiow:** Now this gives me a chance of thinking, how do I want to hire?
+
+**Rachael Tiow:** But I might buy some hours from Clay where they can build out the tables the way I want it.
+
+**Kyle Gaudreau:** Because then it can help feed into what you guys are working on.
+
+**Rachael Tiow:** Because the way I'm thinking about it is you have universal triggers, right?
+
+**Rachael Tiow:** Mergers and acquisitions, job.
+
+**Rachael Tiow:** So on and so forth.
+
+**Rachael Tiow:** Those are the same across all industries.
+
+**Rachael Tiow:** But what starts to change is when we start to approach the industries, and that's where we have what I named it, dynamic signals, which is unique to the vertical.
+
+**Rachael Tiow:** And it changes when it's B2B manufacturing, and even within the subgroup of retail that you guys have already identified.
+
+**Kyle Gaudreau:** Hospitality may have similar messaging, but they're going to be new ones, and it's going to be different.
+
+**Rachael Tiow:** So I may hire Clay to help scrape all these pieces out.
+
+**Rachael Tiow:** What I love about your dog is because as you're working with Brad, we have enough insights to understand where OddZero is delivering business impact and also providing security to the company, which then means an area that I'm going to be using Clay to pull.
+
+**Rachael Tiow:** I'm not sure if you guys are pulling as well.
+
+**Rachael Tiow:** I suspect when I look at your camp brief is what are the company's growth initiatives?
+
+**Rachael Tiow:** And security initiatives.
+
+**Rachael Tiow:** And then if there's any security or compliance breaches that they've experienced, because now we can easily position.
+
+**Rachael Tiow:** Because one thing that we're weak in messaging is positioning.
+
+**Rachael Tiow:** So the way I'm thinking about my growth team, not to emulate what you guys are doing, is I'm calling it the growth engine.
+
+**Rachael Tiow:** And what plugs into the growth engine is we have intended signals.
+
+**Rachael Tiow:** Then we have the verticalized signals that are specific to the vertical.
+
+**Rachael Tiow:** And then we're going to have historical data that we're scraping from Salesforce and gone calls and whatnot.
+
+**Rachael Tiow:** And then we're going to have context.
+
+**Rachael Tiow:** So the context is to really weave in what are the roadblocks that these companies are experiencing and how do we then break them down.
+
+**Rachael Tiow:** And then you have messaging.
+
+**Kyle Gaudreau:** That all makes sense.
+
+**Kyle Gaudreau:** I would be curious to see, as we roll this out, how accurate what we find in terms of those growth initiatives are.
+
+**Kyle Gaudreau:** I think there's things.
+
+**Kyle Gaudreau:** It can be inferred, but it's like a thing that's just like classic with LLMs where, you know, they'll just also just make some  up.
+
+**Rachael Tiow:** They can.
+
+**Rachael Tiow:** Hey, Kyle, you know what?
+
+**Rachael Tiow:** This is where I tell people all the time.
+
+**Rachael Tiow:** Could we, the other thing too, as we put into context, one thing that I used to do when I was in SDR or managed SDR teams, I said, set up a, on your Google News, all the, accounts are going after, anything that pings on Wall Street, Financial Times or whatever, scrape them.
+
+**Rachael Tiow:** Anything that impacts the retail industry, scrape them because we want to, market shifts are drivers of change, right?
+
+**Rachael Tiow:** So, like you say, inferences.
+
+**Kyle Gaudreau:** I don't need it to be examined.
+
+**Rachael Tiow:** We're drawing, I'll give you an example.
+
+**Rachael Tiow:** So, a lot of the retail accounts that you guys are pulling right now or have already pulled, a lot of these companies are looking
+
+**Rachael Tiow:** We to break into the Gen Z market.
+
+**Rachael Tiow:** So my job then is to set the context with the context engine, and we're trying to connect the dots.
+
+**Rachael Tiow:** Okay, Gap has loyalty program, has mobile app, they want to break into Gen Z, they want to break into South Korea, Japan, and China, which are heavily mobile companies, right?
+
+**Rachael Tiow:** Mobile device countries, but they don't have social login.
+
+**Rachael Tiow:** So I'm going to make the inference that, Kyle, very exciting news, you guys are looking to break into the Asian market.
+
+**Rachael Tiow:** However, I've noticed that in a highly mobile-centric economy, not having social login could be a deterrent.
+
+**Kyle Gaudreau:** And sometimes the simplest change can have the most significant impact on revenue.
+
+**Rachael Tiow:** Has this come up in your recent conversations?
+
+**Kyle Gaudreau:** That's my job.
+
+**Kyle Gaudreau:** Yeah, that's a good one.
+
+**Kyle Gaudreau:** Yeah.
+
+**Rachael Tiow:** Of course, it's very good.
+
+**Kyle Gaudreau:** It's coming from me.
+
+**Kyle Gaudreau:** No, I dig it.
+
+**Rachael Tiow:** So that's why the context part is so important because it's the positioning and if we can build sort of like a context positioning engine leveraging PMM research and then using outbound frameworks like YUYU now, this will be  powerful.
+
+**Rachael Tiow:** I'm sure you guys already have something like that already, but that's how I'm thinking about it.
+
+**Rachael Tiow:** And then the V10 of this all is it's dynamic.
+
+**Kyle Gaudreau:** It's constantly studying it.
+
+**Rachael Tiow:** Right.
+
+**Rachael Tiow:** And it's just human verifying and making sure that hallucinations are at its all time low.
+
+**Kyle Gaudreau:** How, you may have shared this with us before and I'm just not in the, like, what is the process of rolling out a gem beyond like a NIC?
+
+**Kyle Gaudreau:** Like, let's say you get, you have to get this to 10 SDRs.
+
+**Kyle Gaudreau:** What does that look like?
+
+**Kyle Gaudreau:** Do you have to create one for each one of them?
+
+**Rachael Tiow:** We're not creating it because we cannot share that gem link.
+
+**Kyle Gaudreau:** Or there.
+
+**Kyle Gaudreau:** Or there.
+
+**Rachael Tiow:** Yeah, it will have to create, which is why it's really limited.
+
+**Rachael Tiow:** So one thing I'm evaluating, so just to answer your first question, that's why it's so important that managers within the team are familiar with how to use it.
+
+**Rachael Tiow:** I mean, ultimately, that's the role of a manager is to be a lamppost and a guide to your team, right?
+
+**Rachael Tiow:** Unfortunately, that's not the case.
+
+**Rachael Tiow:** So I'm doing a lot of the hand-holding for the reps, which is why when I'm rolling these experiments out, I've reconfigured how we're going to roll experiments out.
+
+**Rachael Tiow:** We're going to have Nick run through with this for a couple of weeks first, iron out any kinks.
+
+**Rachael Tiow:** Then we're going to have Nick be our megaphone and the marketer to sell this concept and Kool-Aid to the rest of the team.
+
+**Kyle Gaudreau:** I dig it.
+
+**Kyle Gaudreau:** Okay, cool, cool.
+
+**Kyle Gaudreau:** That's kind of how I figured it would work.
+
+**Kyle Gaudreau:** So just going back to like the things we have to be mindful.
+
+**Rachael Tiow:** Love with, like, enablement, instructions, et cetera.
+
+**Rachael Tiow:** Yeah, so one thing, too, so the way we're providing prompts, which we love to work with you on, is, so we're talking about metrics.
+
+**Kyle Gaudreau:** I know we're passing on, I'll end on the metrics part, right?
+
+**Rachael Tiow:** The thing that's super critical for me on the metrics part is if baseline, the way SDRs are doing outbound, takes them two to three hours of research each account, and they're just using templatized emails, their conversions to account to meeting is, let's just say, 5%, and that meeting conversion to op is 5%, but when we introduce the growth pieces, we're now looking that it has 2x, and reduce the research time, that's a big win.
+
+**Rachael Tiow:** That's my argument, that's what I'm going for right now.
+
+**Rachael Tiow:** And then some might say, well, how sure are you going to get there?
+
+**Rachael Tiow:** I'm like, we have to get
+
+**Rachael Tiow:** Right there, regardless.
+
+**Rachael Tiow:** Without making fuzzy numbers up, it can be done.
+
+**Rachael Tiow:** So I have to be very strategic with the SDRs that are going to be the ones taking the lead on the experiment.
+
+**Rachael Tiow:** So everything is intentional.
+
+**Rachael Tiow:** Like, I'm not picking Nick because he looks like, there's a comedian he looks like, a tall guy who's always on Joe Rogan's podcast.
+
+**Rachael Tiow:** Oh, yeah, I know.
+
+**Kyle Gaudreau:** Shane Gillis.
+
+**Kyle Gaudreau:** Shane Gillis, he does look like Shane Gillis.
+
+**Kyle Gaudreau:** That's funny.
+
+**Rachael Tiow:** Shane Gillis, like, now I've got to go look at the call.
+
+**Rachael Tiow:** So that's why, yeah, all this experiment is super critical.
+
+**Rachael Tiow:** And I was just like, the last few weeks have been really rough because I find that a lot of the Ameri team requires so much hand-holding.
+
+**Rachael Tiow:** And then I feel like I'm the one, like, bringing people out of the drowning stage.
+
+**Rachael Tiow:** I'm like, yo, there's only so much I can run back and forth.
+
+**Rachael Tiow:** I'm only one woman show right now.
+
+**Rachael Tiow:** And so I told my boss, I'm like, I am drunk.
+
+**Rachael Tiow:** Drowning in  work because people are not holding up their end of the bargain.
+
+**Rachael Tiow:** So I'm coming in trying to lift everybody up.
+
+**Rachael Tiow:** So that's why building up as an engine, as an operating system is so critical because it naturally becomes that raising tide that raises all ships without me having to do so much.
+
+**Rachael Tiow:** But right now it's just due to the nature of teaching a new approach where a lot of the handholding is happening.
+
+**Kyle Gaudreau:** Yeah, I mean, I'm sure there's so much to unpack there.
+
+**Kyle Gaudreau:** It probably doesn't help how many accounts they have.
+
+**Kyle Gaudreau:** I assume Nick is not alone, but I think he said something like 1,300 accounts in his name or whatever.
+
+**Kyle Gaudreau:** It's crazy.
+
+**Rachael Tiow:** The thing that's even crazier is the fact that we have an ABX team.
+
+**Rachael Tiow:** I have led ABX before.
+
+**Rachael Tiow:** I were the ABX judge.
+
+**Rachael Tiow:** Gladiator.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah, I mean, given some of what you shared and some of the things that haven't been developed, it's usually things I would have expected to be pushed and owned in that world.
+
+**Rachael Tiow:** So if we can keep it between the walls of Rachel Tiow, Kyle, Sydney, and Growthx Lab, my whole thing is, this is very likely my last gig in the tech world.
+
+**Rachael Tiow:** Then I'm going to be a farmer.
+
+**Rachael Tiow:** But what I really want to do is, I really want to put a mark on, you know, Rachel's efforts changed the way we went to business.
+
+**Rachael Tiow:** Am I the smartest in the space?
+
+**Rachael Tiow:** No.
+
+**Rachael Tiow:** But I ain't the  dumbest.
+
+**Rachael Tiow:** And we can change this  tide.
+
+**Rachael Tiow:** We can lift the tide.
+
+**Rachael Tiow:** That's the mark I want to make.
+
+**Rachael Tiow:** It's not even to do with pay, tide.
+
+**Rachael Tiow:** Don't give a  if you keep me as a director.
+
+**Rachael Tiow:** Even better, because the VP has all this, like, elbows and butts to kiss.
+
+**Rachael Tiow:** I ain't got  time for that .
+
+**Kyle Gaudreau:** I dig it.
+
+**Rachael Tiow:** We're building a portfolio, Kyle.
+
+**Kyle Gaudreau:** Elbows to kiss.
+
+**Kyle Gaudreau:** I feel like I've never heard that expression.
+
+**Kyle Gaudreau:** not sure.
+
+**Kyle Gaudreau:** Bring, bring this.
+
+**Kyle Gaudreau:** Oh, I get what you're saying.
+
+**Rachael Tiow:** Do the, okay, okay.
+
+**Rachael Tiow:** Yeah, you know, like, I don't know, wherever people, brown nosers, whatever, they want to kiss these days with their crazy sick proclivities, but, um...
+
+**Kyle Gaudreau:** All right, so, it sounds like you might have some thoughts on the format of the briefs that would be really helpful.
+
+**Kyle Gaudreau:** is great.
+
+**Rachael Tiow:** I think it's just, like, how do we, yeah, because I think what I can do is I can share documents with you and how I'm thinking about what, by the way, when I share my answers, don't just take it as, oh, this is what Rachel is saying.
+
+**Rachael Tiow:** Give me feedback.
+
+**Rachael Tiow:** Like, hey, Rachel, think this is a better way for us to structure things, but because I want to build this growth...
+
+**Rachael Tiow:** Cult at the company.
+
+**Rachael Tiow:** Cult?
+
+**Kyle Gaudreau:** Yeah, it's a cult.
+
+**Kyle Gaudreau:** Interesting.
+
+**Kyle Gaudreau:** Really a cult.
+
+**Rachael Tiow:** Okay, okay, okay.
+
+**Rachael Tiow:** These are all components that plugs into the growth engine because then what this does is ABX can plug in, demand gen can plug in, global campaigns can plug in, webinar and events, right?
+
+**Rachael Tiow:** Because eventually, too, I want to build an engine that is an offshoot of this growth where they can plug in to ideate.
+
+**Rachael Tiow:** Kyle, we have so, like, we've talked about the content.
+
+**Rachael Tiow:** The content is so, I'm like, guys, so that would be, like, V5.
+
+**Rachael Tiow:** Right now, V1 is SDRs.
+
+**Rachael Tiow:** Everything is good right now.
+
+**Rachael Tiow:** It's just I want to have these components that I'm thinking about.
+
+**Rachael Tiow:** I see it on our account brief.
+
+**Rachael Tiow:** The question that really will be critical is how do we know which accounts do we want to move into your scraping, right?
+
+**Rachael Tiow:** Because, yeah.
+
+**Rachael Tiow:** mean, from this
+
+**Rachael Tiow:** In very brief example of me running into clay, I can already safely tell the Strat and Enterprise team, the reason why you guys are not seeing results in your output is because you're using the same message across the different sub-verticals within retail.
+
+**Kyle Gaudreau:** That's it.
+
+**Rachael Tiow:** That's really a big problem.
+
+**Rachael Tiow:** And then we go, okay, well, is it a data enrichment?
+
+**Rachael Tiow:** It's so many things.
+
+**Rachael Tiow:** It's not just data enrichment.
+
+**Rachael Tiow:** You've got to have context.
+
+**Rachael Tiow:** You've got to position well.
+
+**Rachael Tiow:** But this requires common  sense, which a lot of people don't have.
+
+**Rachael Tiow:** So if we can craft that engine, where all we do is we scrape, simplistically putting it, right?
+
+**Rachael Tiow:** We have historical data, behavioral data, market insights, verticalized insights and signals.
+
+**Rachael Tiow:** We pair that up with the PMM research and messaging, use a framework that works.
+
+**Rachael Tiow:** Boom.
+
+**Rachael Tiow:** It just spits out the  email.
+
+**Rachael Tiow:** That easy.
+
+**Rachael Tiow:** Literally, I don't even...
+
+**Kyle Gaudreau:** I just need a button in the C to click the buttons.
+
+**Kyle Gaudreau:** Yeah, yeah, yeah.
+
+**Kyle Gaudreau:** I mean, it's definitely doable, right?
+
+**Kyle Gaudreau:** There's certainly companies that are doing versions of that today.
+
+**Kyle Gaudreau:** It just depends on the level of complexity and all these other factors.
+
+**Rachael Tiow:** But yeah, I think generally...
+
+**Kyle Gaudreau:** A simple version for now, we can always tweak around.
+
+**Kyle Gaudreau:** Also, good to just...
+
+**Kyle Gaudreau:** I mean, it's already happening, Nick's giving feedback, but just would love to hear, you know, how he's thinking about using it, what he's doing, what he feels uncertain, and just, like, you know, again, looking at it from that frame of reference.
+
+**Kyle Gaudreau:** He's running into issues with Jam right now.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** Because that is our temporary wrapper around all this stuff that we're duct taping, the issue he's running with Jam right now is the processing power of the Jam is quite limited.
+
+**Rachael Tiow:** Like, he will ask it to write the emails, right?
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** And punch...
+
+**Rachael Tiow:** And it's just stuck in a loop, like the world of death.
+
+**Kyle Gaudreau:** Yeah, I should probably find time with him next week just to check in and give him a little bit more time to play around with it.
+
+**Kyle Gaudreau:** And I think there's probably some good stuff we can dig into.
+
+**Kyle Gaudreau:** I just want to make sure I can appreciate what his experience is like, especially from the mindset he's probably going to be more thoughtful than the average on this.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** Hey, add me too, because I want to learn and say what he's doing, yeah.
+
+**Rachael Tiow:** What else?
+
+**Rachael Tiow:** So a couple of things, if it's helpful, I can share with you how I'm thinking about these pieces.
+
+**Rachael Tiow:** I've documented my thoughts on various documents on, hey, how do we narrow down total addressable market of retail into a target account list?
+
+**Rachael Tiow:** And within that, what are we looking for?
+
+**Rachael Tiow:** Then in addition to all of that too, right, it is scraping for partner technologies, not just competitive.
+
+**Rachael Tiow:** I still have to get you who is the guy who wrote that code so you guys can run it on your...
+
+**Rachael Tiow:** But partners, like Odd0 does really well when there's AWS because we have a really good relationship with AWS.
+
+**Rachael Tiow:** Workforce for Okta does really well with GCP and we have a partnership there.
+
+**Rachael Tiow:** So I'm thinking like, I'm picking the path that is the cleanest for us to get to a win without webinars, events, digital ads, which doesn't even  perform.
+
+**Rachael Tiow:** It's like gambling at Vegas.
+
+**Rachael Tiow:** You're always guaranteed to lose.
+
+**Kyle Gaudreau:** Sure.
+
+**Kyle Gaudreau:** Yeah, yeah, yeah.
+
+**Kyle Gaudreau:** Yeah, I would be curious to dig in like what kind of signals we can reliably pick up on that.
+
+**Kyle Gaudreau:** You haven't brought that into clay yet or you have tried?
+
+**Rachael Tiow:** I have, I have, yeah.
+
+**Rachael Tiow:** So in the clay tables right now, the things that I'm scraping for are, does it have logins?
+
+**Rachael Tiow:** If so, how many login portals?
+
+**Rachael Tiow:** And give me the exact URL.
+
+**Rachael Tiow:** Does it have loyalty program?
+
+**Kyle Gaudreau:** Exact URL?
+
+**Rachael Tiow:** What is the name of it?
+
+**Rachael Tiow:** What's its...
+
+**Rachael Tiow:** Purpose, what's its retention strategy?
+
+**Rachael Tiow:** And then does it have a mobile app?
+
+**Rachael Tiow:** What kind of logins does it have?
+
+**Rachael Tiow:** So if it doesn't have social for sure, it's email and password.
+
+**Rachael Tiow:** And chances are, if they're using email and password, they're on a legacy setup.
+
+**Rachael Tiow:** And that seems to be the case right now as I'm scraping through.
+
+**Rachael Tiow:** So once I have, does it have loyalty program?
+
+**Rachael Tiow:** Does it have mobile app?
+
+**Rachael Tiow:** Does it have social logins?
+
+**Rachael Tiow:** Any adduction of a agentic tool to drive personalization?
+
+**Rachael Tiow:** Because that's the whole point of having loyalty programs, that personalization piece.
+
+**Rachael Tiow:** Yeah, yeah.
+
+**Rachael Tiow:** But personalization starts at the point of login.
+
+**Rachael Tiow:** When Kyle comes in, boom, CDP activates because odd zero triggers the CDP.
+
+**Rachael Tiow:** CDP then pulls all of Kyle's shopping historical data to then say, hey, this is what in split fraction of a hair second.
+
+**Rachael Tiow:** It's like, this is your experience now on Venn's website, right?
+
+**Rachael Tiow:** Because these are all the things that you like.
+
+**Rachael Tiow:** So everything begins at login.
+
+**Rachael Tiow:** at login.
+
+**Rachael Tiow:** So everything
+
+**Rachael Tiow:** Then we pull in, outside of AI, any security or compliance breach.
+
+**Rachael Tiow:** These are more of the nuts and bolts as unique to the storyline of the loyalty program.
+
+**Rachael Tiow:** Then we want to pull, does it have a 10K report?
+
+**Rachael Tiow:** Great.
+
+**Rachael Tiow:** If it doesn't, just look on reliable sources on growth plans and security plans.
+
+**Rachael Tiow:** And then that's where we start to build in the context, right?
+
+**Rachael Tiow:** How is OddZero driving impact for security and their growth plans based on all this other stuff we've already pulled in the columns?
+
+**Rachael Tiow:** Of course, it's making inferences, but that's where I'm thinking.
+
+**Rachael Tiow:** Not to say that I'm the smartest, but hey, at least I can connect some dots.
+
+**Rachael Tiow:** And that's the dots we're going to be connecting.
+
+**Kyle Gaudreau:** Yeah, no, those make sense.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah, specifically, I was curious about the partnership part of it, but...
+
+**Rachael Tiow:** Yeah, and then we pull on the tech stack.
+
+**Rachael Tiow:** So we pull that stack on, does it use competitive tech stack?
+
+**Rachael Tiow:** And then we're using HG Insights to pull those things because they're much more...
+
+**Rachael Tiow:** Accurate compared to built with.
+
+**Rachael Tiow:** And then we're also pulling, using AG Insights to pull in AWS.
+
+**Rachael Tiow:** mean, what companies do not use AWS?
+
+**Rachael Tiow:** Most of them do, right?
+
+**Rachael Tiow:** So we're pulling that in.
+
+**Rachael Tiow:** For retail, we're actually in final discussions on an official launch of a partnership with Shopify because they're deprecating their old identity provider, which gives chance for us to sell to those customers who are looking for a new IDP, ok?
+
+**Rachael Tiow:** And then, so if they have AWS, Shopify, and then we have a partnership with Akamai specifically on their bot detection.
+
+**Rachael Tiow:** So that's critical because fraud is high in retail.
+
+**Rachael Tiow:** I used to work for one of their competitors, so I know all about it really well.
+
+**Rachael Tiow:** Perfect.
+
+**Rachael Tiow:** So now you know, now we can start to build context around security, growth, right?
+
+**Rachael Tiow:** Ok.
+
+**Rachael Tiow:** So those are the things that we're pulling right now.
+
+**Rachael Tiow:** An area that I haven't started pulling that I want to look into because we have AG Insights to pull through.
+
+**Rachael Tiow:** Clay, is where is the budget center for these tools?
+
+**Rachael Tiow:** Then I know who to  talk to.
+
+**Kyle Gaudreau:** Interesting.
+
+**Rachael Tiow:** Right?
+
+**Rachael Tiow:** Like Shopify, obviously, we know is the CMO.
+
+**Rachael Tiow:** Yeah, yeah.
+
+**Rachael Tiow:** All the other marketing people who owns the budget for using the Identity platform.
+
+**Rachael Tiow:** We like to think that it's always the engineering, but it could very well be in the IT side or the security side.
+
+**Rachael Tiow:** Now, which is interesting, right?
+
+**Rachael Tiow:** Because let's just say right now, for the next quarter, OddZero is going into all these retail accounts.
+
+**Rachael Tiow:** They probably break into 20% of them.
+
+**Rachael Tiow:** The others they couldn't break into, we'll let them breathe for another 90 days.
+
+**Rachael Tiow:** Then we're going to go in because the budget center is in IT.
+
+**Rachael Tiow:** Okta sells well in IT.
+
+**Rachael Tiow:** So we go in and sell Okta Siam in the same account that OddZero couldn't break in.
+
+**Rachael Tiow:** And so when we say in Chinese, Dolls
+
+**Rachael Tiow:** So it's still money in both hands.
+
+**Rachael Tiow:** So it's like left hand, right hand, right?
+
+**Rachael Tiow:** Doesn't matter.
+
+**Rachael Tiow:** The money is still in my hands.
+
+**Kyle Gaudreau:** Sounds like that might not be the way it's always operating over there.
+
+**Rachael Tiow:** No, but then if we can control it.
+
+**Rachael Tiow:** So that's where now the growth engine becomes an architecting GTM motion too, because they don't know how to.
+
+**Rachael Tiow:** My whole thing is if AI is an extension of my consciousness, how do I build all of this to help it work?
+
+**Kyle Gaudreau:** Now you got me thinking about training custom GPT to give me one-liners inspired by what you said.
+
+**Kyle Gaudreau:** I have enough transcripts to make this happen.
+
+**Rachael Tiow:** What would Rachel say in this situation?
+
+**Rachael Tiow:** But yeah, so those are the things that context matters a great deal.
+
+**Rachael Tiow:** So that's what we're pulling in clay right now.
+
+**Rachael Tiow:** And then I'm filtering out, right?
+
+**Rachael Tiow:** I can share, I also have a doc on how we're pulling all
+
+**Rachael Tiow:** So I've broken down on documents where what do we want to pull for every vertical, the top ones that we want to tackle?
+
+**Rachael Tiow:** And then are there differences between commercial and enterprise?
+
+**Rachael Tiow:** Not to add more complexity to the wrench, but there are, like, especially if we're selling SaaS, commercial corporate accounts buy for very different reasons than enterprise accounts.
+
+**Rachael Tiow:** Enterprise are all about unifying, and they have a lot of mergers and acquisitions.
+
+**Rachael Tiow:** In fact, just now today, I was reading early in the morning, PNC Bank is acquiring a regional bank.
+
+**Rachael Tiow:** Osir do not sell well at the large, like, PNCs in a Wells Fargo, but we do really well with regional.
+
+**Rachael Tiow:** So the question now becomes, yo, if I can go into the boss at the way top, can I sell at the regional level?
+
+**Kyle Gaudreau:** Because eventually they'll eat them up, and then we get in from inside.
+
+**Kyle Gaudreau:** Ugh!
+
+**Rachael Tiow:** I love these things.
+
+**Kyle Gaudreau:** It's like a game of chess.
+
+**Kyle Gaudreau:** Yeah, didn't know.
+
+**Kyle Gaudreau:** It's a lot of layers.
+
+**Kyle Gaudreau:** A lot of layers.
+
+**Kyle Gaudreau:** I love it.
+
+**Kyle Gaudreau:** Uh.
+
+**Kyle Gaudreau:** Coming back to focus.
+
+**Kyle Gaudreau:** Retail, what's up with retail first?
+
+**Kyle Gaudreau:** Let's start there.
+
+**Kyle Gaudreau:** Sydney, is there anything particularly you need clarification on before we?
+
+**Sydney Arin Go:** For now, I just want to know if, like, we're good.
+
+**Sydney Arin Go:** So we've already created all the docs for Nix accounts.
+
+**Rachael Tiow:** We only got 20.
+
+**Rachael Tiow:** Yep, no, that's enough.
+
+**Rachael Tiow:** you want me to move on to a different SDR?
+
+**Sydney Arin Go:** Are we good with that for now and then just keep refining and waiting for feedback?
+
+**Rachael Tiow:** right now is I want to see if I can get you guys into our company, Okta, my table for the ones I'm building, specific to my team.
+
+**Rachael Tiow:** Because I can share my screen with you.
+
+**Rachael Tiow:** It's super tiny.
+
+**Rachael Tiow:** Hold on.
+
+**Rachael Tiow:** So this is where it becomes really funny, right?
+
+**Rachael Tiow:** I told the reps to pool retail accounts.
+
+**Kyle Gaudreau:** They pooled oil and gas.
+
+**Rachael Tiow:** Oh, my God.
+
+**Rachael Tiow:** Facilities.
+
+**Rachael Tiow:** So.
+
+**Rachael Tiow:** What this is?
+
+**Rachael Tiow:** I see why Sodexo could be perceived as retail.
+
+**Rachael Tiow:** Now, this could be the fault of our Salesforce data, but this is when I have to say, I ask you to pick 20.
+
+**Rachael Tiow:** Do you have eyes or buttonholes?
+
+**Rachael Tiow:** Ok, alright, that's a one line of...
+
+**Rachael Tiow:** Anyway, so then they have like energy to go, hey, only one retail, and if it has a checkmark, then we're going to process those in your engine there.
+
+**Rachael Tiow:** Put it into your washer and dryer, right?
+
+**Rachael Tiow:** So this is the first wash.
+
+**Rachael Tiow:** This is what I have.
+
+**Rachael Tiow:** And then once I have this enrichment, I then pull through and start scraping on loyalty programs, login, login portals.
+
+**Rachael Tiow:** So I wanted to know if I can share my stuff with you, but I am now officially in my Okta account.
+
+**Rachael Tiow:** I don't think...
+
+**Rachael Tiow:** think...
+
+**Rachael Tiow:** We say that you can play.
+
+**Rachael Tiow:** So I wonder if I can just see.
+
+**Sydney Arin Go:** Would it be possible for us to get an Okta account?
+
+**Rachael Tiow:** Yes, but then now this means we need you to work off an Okta computer.
+
+**Sydney Arin Go:** Yeah, that's the challenge.
+
+**Rachael Tiow:** And then all your beautiful air tables will be gone.
+
+**Sydney Arin Go:** Not my air tables, no.
+
+**Sydney Arin Go:** But we, for one of the other customers, we had like a virtual machine set up on my computer that I accessed their systems from.
+
+**Rachael Tiow:** So it's separate, it would have to be an, there's no other choice, it would have to be 100% off the device.
+
+**Rachael Tiow:** think so.
+
+**Rachael Tiow:** I can check, let me check.
+
+**Rachael Tiow:** That will be the easiest way to bypass security.
+
+**Rachael Tiow:** Otherwise, then now they're going to study, well, what is systems are you plugged into?
+
+**Rachael Tiow:** It is, yeah.
+
+**Rachael Tiow:** Oh, yeah,
+
+**Rachael Tiow:** It'll take a year.
+
+**Rachael Tiow:** I'm kidding you not.
+
+**Kyle Gaudreau:** At a minimum, six months.
+
+**Kyle Gaudreau:** Yeah.
+
+**Sydney Arin Go:** It just opens up this can of arms on the sensitivity of the data.
+
+**Kyle Gaudreau:** That's kind of going back to, and maybe this still doesn't, like, so forward of just, like, us being able to plug in in some way.
+
+**Kyle Gaudreau:** Although I don't know if we can realistically configure it without even opening up this can of arms, but, like, leverage.
+
+**Kyle Gaudreau:** We could work through it in our systems and allow them to access in the right way.
+
+**Rachael Tiow:** So right now the hack would be exported into a CSV and go from there.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** But, yeah, so that's how I've been scraping it so far.
+
+**Rachael Tiow:** So...
+
+**Rachael Tiow:** This will be like what I consider like the initial, so this is my little fancy diagram, right?
+
+**Rachael Tiow:** First, once I scrape, does it meet our target account list?
+
+**Rachael Tiow:** If it does, then it moves into an intent and signal motion.
+
+**Rachael Tiow:** This we can't do yet, but I'm just putting in first party data stuff, and the context is where it starts to happen.
+
+**Rachael Tiow:** Then we have the messaging engine, and then I'll build one for marketing.
+
+**Rachael Tiow:** So, to answer Sydney's question, I think what I'm going to do for now is, I'm going to go back to the SDR and say, yo, there's a lot of them here where it's not retail, we're only going to be scraping for retail because it fits this messaging framework, and then I'll pass that list over to you, and then we can go from there.
+
+**Sydney Arin Go:** And then, yeah, okay, all right, very good.
+
+**Rachael Tiow:** I'll get it over to you by end of day, in fact, maybe in the next hour.
+
+**Rachael Tiow:** Anything else you guys need from me?
+
+**Rachael Tiow:** And I have another question.
+
+**Rachael Tiow:** I know we meet for like 30, 45 minutes once a week, but as we're trying to get focused, is there like a working doc you want me to put all these things in?
+
+**Rachael Tiow:** And then we can really shape out what is the V1 looking like as it becomes directionally pointed towards the ideal version or the Kanban thing that you were mentioning in the notion?
+
+**Kyle Gaudreau:** Yeah, that's a good call.
+
+**Kyle Gaudreau:** Yeah, we were talking about this in some ways earlier.
+
+**Kyle Gaudreau:** So it's good to know you can get access to Notion.
+
+**Rachael Tiow:** That was like a question I had where like, can Rachel access this or not?
+
+**Rachael Tiow:** Yeah, I finally got in.
+
+**Kyle Gaudreau:** Yeah, okay.
+
+**Kyle Gaudreau:** Because like, there's just features that Notion has that makes organizing this type of stuff easier that like Google Docs just sucks at, frankly.
+
+**Kyle Gaudreau:** Yep.
+
+**Kyle Gaudreau:** So I don't know necessarily working.
+
+**Kyle Gaudreau:** Like, in terms of, I guess, thinking from a working doc standpoint, it's more like, I need to think about the architecture of it a bit.
+
+**Kyle Gaudreau:** Like, a Kanban board approach of, like, ideas and, like, backlogs and statuses, etc.
+
+**Kyle Gaudreau:** probably works here.
+
+**Rachael Tiow:** It's just, like, what's the right altitude and organization of it?
+
+**Rachael Tiow:** Simple but good.
+
+**Rachael Tiow:** We don't need it to be too complex.
+
+**Rachael Tiow:** think working through the retail will give us a lot of ideas of what, I mean, even for me, like, as I'm working through this retail stuff, it's giving me a lot of ideas on how do we want to narrow down a total addressable, like, all retail is not the right retail for us either.
+
+**Kyle Gaudreau:** Yeah, yeah.
+
+**Rachael Tiow:** So that gives me this concept of, okay, what is the process for us to really get refined on a target account list, like a real one, based on what?
+
+**Rachael Tiow:** What is the guiding star, which is the business use case that we're solving for?
+
+**Rachael Tiow:** Great.
+
+**Rachael Tiow:** That then lead into the common basic signals, then the verticalized.
+
+**Rachael Tiow:** Signals that caters to that narrative, so on and so forth.
+
+**Rachael Tiow:** So it gives this like process.
+
+**Rachael Tiow:** And then what do we want to put in?
+
+**Rachael Tiow:** Like just really quickly as we're going through this, I realized, oh, I need to get our partner text to be text stack to be scraped so that Brad can't, I don't know who, I can get that messaging.
+
+**Rachael Tiow:** And then we can plug it into this engine that we're all working towards.
+
+**Rachael Tiow:** And then competitive messaging too.
+
+**Rachael Tiow:** We got competitive messaging.
+
+**Rachael Tiow:** This starts to build this contextual engine that works, right?
+
+**Rachael Tiow:** Right now it's a very simple, this is what they're working on.
+
+**Rachael Tiow:** We're only talking about odd zero.
+
+**Rachael Tiow:** We're not even tackling like all the other parts.
+
+**Kyle Gaudreau:** Yeah, yeah, yeah, totally.
+
+**Kyle Gaudreau:** Yeah, I think the better we can like work in Notion and like leverage some of its features probably makes us easier.
+
+**Kyle Gaudreau:** And so then we can just have like a holistic view.
+
+**Kyle Gaudreau:** Because my beef with Google Docs is just like, they just are so easy to lose track of.
+
+**Rachael Tiow:** Oh, they are.
+
+**Rachael Tiow:** They really are.
+
+**Rachael Tiow:** I think.
+
+**Rachael Tiow:** I feel like my mind is like, wait, I feel so ADD in Google Docs, in my opinion.
+
+**Rachael Tiow:** Exactly.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** 100% agree.
+
+**Kyle Gaudreau:** So, yeah, definitely need to figure out something there, make it easier to focus, work async.
+
+**Kyle Gaudreau:** But anyways, yeah, I'll find some time to chat with Nick next week and include you both, because I think that's going to be a fruitful conversation.
+
+**Kyle Gaudreau:** I think that in itself is probably going to illuminate some areas of focus for us.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** I mean, he's already putting it to the test right now.
+
+**Rachael Tiow:** Yeah.
+
+**Rachael Tiow:** So if you have time on Monday, we can start meeting on Monday and see what's up.
+
+**Kyle Gaudreau:** Cool.
+
+**Rachael Tiow:** Sounds good.
+
+**Rachael Tiow:** All right.
+
+**Rachael Tiow:** Hey, thank you both so much.
+
+**Rachael Tiow:** All right.
+
+**Rachael Tiow:** See you.
+
+**Rachael Tiow:** Bye.
+
+**Rachael Tiow:** Thank you.
+
+**Rachael Tiow:** Thank you.

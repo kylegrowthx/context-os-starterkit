@@ -1,0 +1,1417 @@
+{
+    "title": "Relay Handoff",
+    "meeting_title": "Relay Handoff",
+    "url": "https://fathom.video/calls/448964310",
+    "created_at": "2025-10-22T18:14:53Z",
+    "scheduled_start_time": "2025-10-22T18:00:00Z",
+    "scheduled_end_time": "2025-10-22T18:30:00Z",
+    "recording_id": 96057252,
+    "recording_start_time": "2025-10-22T17:58:53Z",
+    "recording_end_time": "2025-10-22T18:14:46Z",
+    "calendar_invitees_domains_type": "only_internal",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Hi, everyone.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Sorry I'm late.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I was at a client meeting.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I put the link for the handoff documentation in the Google in the calendar meeting.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "But I also just wanted to put time on everyone's calendar to talk through any questions that you had as we hand off.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And also, this is the first handoff I've done.",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And so I also want.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "to make sure that we're kind of capturing everything useful in the Notion talk.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Let me, I'll drop the link here just in case you don't have it.",
+            "timestamp": "00:03:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then I can also share my screen.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "There's the link.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then, Ife, I saw that you put them, you filled out some of the sections in there.",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So thank you.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So, I think the overall goal was just to give you as much context as possible.",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thank Bye.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "The client, where to find all the artifacts, and also kind of what's been working in terms of actually producing the content.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Kelvin, this is mostly for you, so you get a sense of like what's actually happening in Atlas versus what's happening in other places, since I know it's a little bit different for every client.",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So we should have links for where to find everything, sort of some like general do's and don'ts, specific things we're working through for this client.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Like there's a, we just added a new step to the pipeline.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Ife, I don't even know if you know about this yet, but they finished adding the disclosure step to the pipeline.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And so it should be automatically adding sort of the disclosures, the relevant disclosures, but we'll see how it works.",
+            "timestamp": "00:04:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So that's like a bit of.",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "For right now, something that we have to keep an eye on for the content.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then it might be helpful, Ife, for you to talk a little bit, I think, about what's happening where, because I know that's like changed as we've progressed with this client.",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I would also say that, in general, they've been really happy with the content so far.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "We've had sort of minimal feedback, and Ife's been doing a great job generating the articles.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "They haven't required a ton of editing either.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And we're still kind of catching small things as we go.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Like, think we're reactively catching some things, like, in terms of, because it's a regulated industry, like, mentions that we're not supposed to be doing or specific things we have to mention.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And so we're also kind of updating the writing guidelines.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "On a more regular basis for this one, I would say, too, kind of as we catch those.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, so we'll continue to fill this out.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "We're not like 100% done.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And I've also asked Ada and Eric to add any additional kind of feedback they have on the strategy and the client.",
+            "timestamp": "00:06:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Because I joined this client, I think, when they were already on like week three or four.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I don't have the context from the sort of very early, the early days when the strategy was actually developed there.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then in terms of just like a housekeeping, Jakub, do we, if there's like cloud projects and stuff, should we be moving those over to a different account?",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Like, should I be getting added to a different pod and migrating that stuff?",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, haven't migrated across, but assuming it's possible, we should move that over to my pod.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, me confirm that.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I always forget which one.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I'll be back in 10 seconds.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, no worries.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "That's fine.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I can ask Yusuf to add me to whatever the pod is as well.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then I don't know if this is the way things are usually done, but I know it's something that Andy had suggested that, don't know, Kelvin, if you wanted to, like, run one, either try running one of the articles from Relay using, for Relay using, like, ePhase process, or if you wanted to run it, just so we're available to have any, answer any questions.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Like, I don't know what your bandwidth is like this week, but I know that's something that Andy suggested, but I'm not sure if that's, like, the way things are usually done during the handoff or not.",
+            "timestamp": "00:07:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So, obviously, it's kind of up to you, Jakub, how you want to do it.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I'm open to it.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I think what Andy has suggested, let's just go with that, and no need to choose another path there.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, sounds good.",
+            "timestamp": "00:08:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So then, I don't know if you want, Kelvin, it might make more sense for you to, I think, maybe look through the documentation, and then I can, or Ife, if there's a specific article, I don't know where, if you've run everything yet, or if you still have one, do you still have one leftover, or is everything already running now?",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "Yeah, I have one left on that, I was working on Friday.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, so maybe, especially if you're out tomorrow, might be a good idea to, maybe can you, I can add Kelvin to the internal channel, if he's not there already, and then maybe you can let him know which one he should be working on, and then I can be available for kind of any questions and feedback, and we can kind of do a dry run of the process, when you're sort of available for questions too.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "Yeah, sorry, Kelvin, I also added a couple of references.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "conversations from Perplexity and Claude.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "So you can just go over my conversations to get the feel of how I do things.",
+            "timestamp": "00:09:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "But in the end, I think you also, like, if you find that you have a process that works for you, no problem.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "My own process is just really good.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "It's fast and gives consistently good results.",
+            "timestamp": "00:09:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Sure.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Can you maybe tell me where that is, the conversation?",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "You can just check out sections 4.3 and 4.4 in the end of documents.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:09:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "You're welcome.",
+            "timestamp": "00:09:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Great.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I think there's still a couple of missing sections in here.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So Ive and I will work on getting those filled out and you can let us know if you have any questions.",
+            "timestamp": "00:09:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And then, Jacob, I know you are coming to the check-in this week.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I don't know if there's anything you want",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Want to try and cover or I'm sort of, I don't think they, they'll, they have some context for the handover, but I think they got a little bit behind on notifying clients.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So we, I can kind of like introduce you on the call, but I don't think Ada's going to be there.",
+            "timestamp": "00:10:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I think it'll just be me.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Let's just start with a intro and I'll give some of my background and, but that should be pretty straightforward.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "More than do the typical agenda, I am like act like this afternoon and tomorrow morning going to be catching up.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I'm not all the way where I want to be, but I'll, I'll have some questions.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I think leaving, like if we cover or use all 30 minutes, it's okay, but I'll try to bring some things on understanding their higher level and their goals.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I'll have some, some things to dig into or get clarification on.",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I just don't know what all of those will be at this point.",
+            "timestamp": "00:10:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And so I'll sync with you in the morning if there's specifics I want on the agenda.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Otherwise I'll just come with a list of questions.",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "you.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Thank Thank Thank",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And get to what we get to and kind of like spread those out over the next couple of weeks as they get up to speed.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, that sounds good.",
+            "timestamp": "00:11:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I think because publishing has been blocked for so long, there's not a ton to talk about in terms of performance.",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So I imagine that we'll have time to get to it because mostly we'll just be like looking at content.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "I see that there's scrunches set up.",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Is everything, I'm just getting to these resources.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Is there Looker all good?",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "It should be.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I'll make sure that I'll add the links to that if it's not.",
+            "timestamp": "00:11:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "But yeah, it should be Looker and scrunch should be set up and Ada walked them through both.",
+            "timestamp": "00:11:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So they've seen them both.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Okay, perfect.",
+            "timestamp": "00:11:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, it looks like they've done like a decent amount of content before us, know, 250 pages or so.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "And yeah, I remember that.",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Where I want to understand, and it's probably in the past calls, I'll just use transcripts in chat to help me summarize, but understanding what they've tried, where they're trying to go, what metrics matter the most to them, and then where we're headed and if there's any opportunities either to focus us or, I think what I was mentioning to you, looking through their blog layout for opportunities on conversions.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Like I, you there's CTA opportunities and some tweaks that we can recommend.",
+            "timestamp": "00:12:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "don't know if I'll get to all that or want to even do all that tomorrow as we're like just trying to unblock some of these things, but I'm to build that list of here's all the things I would want them to do to, if I was running this myself and just start giving them that like as a drip.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So we don't overwhelm, but also we're giving them value on top of the other things.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Yeah, no, that sounds really good.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "And yeah, one thing I was going to talk to them about tomorrow and put on the agenda was the that.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Seeing about adding those CTAs like in Contentful in the way that I think we have for Webflow to see if that might help unblock the publishing process.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So that is something I'll put on the agenda, but just so it's in your mind too.",
+            "timestamp": "00:13:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Smart.",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Well then, Ife and I will work on getting this kind of like 100% filled out.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Did you guys have any other kind of questions?",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "I have a question regarding the project.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Who will I be working with for this client?",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So you'll be as like the managing editor, you mean?",
+            "timestamp": "00:13:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "That'll be me.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Sorry, I should have introduced myself first.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "So yeah, I'm the managing editor on this client.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "What'd you say?",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Sorry, it sounded like like you're transferring the\u2026",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "It's possible to someone else.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I was not clear on that.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "No.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I think it would have been normally, but now I think the way they're running this print says that the managing editor is going to keep the clients.",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So I have lots of contacts on the client and I've been working with Ife, but I just wanted him to make sure that we capture the parts of the process that Ife is owning and make sure you sort of know what's working now.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "So you're not kind of feeling like you're starting over from scratch, but I'm, I'm going to stay the managing editor.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "I'm happy to answer like any questions and as you sort of get up and running as well.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "For some other accounts, there will be a transition from someone in strategy sprints to a managing editor that's outside.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "But our best case is this where Bailey can stay with and keep both the point of contact and all that like contextual knowledge.",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So this should make it a smooth.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Their transition, but yeah, it, and it's going to be some of our transitions, but not all.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "So just, if you have one in the future, there may be a ME to ME transition as well.",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kelvin Gitari",
+                "matched_calendar_invitee_email": "kelvin_njiru@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:15:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "I guess that instead, in terms of next steps, Ife and I will finish filling this out, and then I'll make sure you're added to the internal channel, Kelvin, and then Ife, do you want to just tag him and let him know which article he should be working on for this week?",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Ifeoluwa Adekoya",
+                "matched_calendar_invitee_email": "ifeoluwa@growthx.ai"
+            },
+            "text": "Yeah, I'll tag him in a table.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "That sounds good.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Bailey Seybolt",
+                "matched_calendar_invitee_email": "bailey@growthx.ai"
+            },
+            "text": "In that case, let us know if you have any questions, and have a good afternoon, everyone.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Thank you, Bailey, for putting all this together.",
+            "timestamp": "00:15:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Yeah, of course.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jakub Rudnik",
+                "matched_calendar_invitee_email": "jakub@growthxlabs.com"
+            },
+            "text": "Bye, y'all.",
+            "timestamp": "00:15:51"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Handoff Relay content generation process from Ife to Kelvin.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=158.0)\n\n## Key Takeaways\n\n  - [**Handoff:** Kelvin will take over content generation from Ife, using the Notion doc as the single source of truth for all client context and process details.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=158.0)\n  - [**Dry Run:** Kelvin will process one article with Bailey and Ife available for support, ensuring a smooth transition and validating the documented workflow.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=437.0)\n  - [**Client Management:** Bailey remains the Managing Editor (ME). Jakub will join the client check-in to introduce himself and begin building a list of strategic recommendations.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=592.0)\n  - [**Critical Risk:** A new, untested \"disclosure step\" in the content pipeline requires close monitoring to ensure compliance in this regulated industry.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=278.0)\n\n## Topics\n\n### Handoff Documentation & Process\n\n  - [The Notion doc is the central repository for all client context, including:](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=233.0)\n      - [Links to all client artifacts](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=233.0)\n      - [General do's and don'ts](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=233.0)\n      - [Specific client challenges](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=233.0)\n  - [**Writing Guidelines:** Updated reactively as compliance issues are identified.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=340.0)\n  - [**Ife's Process:** Kelvin can review Ife's Perplexity/Claude conversations in sections 4.3 & 4.4 to see the current, effective workflow.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=536.0)\n  - [**Dry Run:** Kelvin will process one article to validate the process.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=437.0)\n      - [Ife will assign the article.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=916.0)\n      - [Bailey and Ife will be available for support.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=437.0)\n\n### Client Context & Strategy\n\n  - [**Client Status:** Happy with content quality; minimal feedback received.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=322.0)\n  - [**Jakub's Role:** Join the client check-in to introduce himself and gather info on:](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=592.0)\n      - [Client goals and key metrics](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=720.0)\n      - [Past content efforts (\\~250 pages)](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=710.0)\n      - [Opportunities for blog layout improvements (e.g., CTAs)](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=720.0)\n  - [**Publishing Blocker:** Publishing has been stalled.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=668.0)\n      - [**Proposed Solution:** Add CTAs directly in Contentful, mirroring the Webflow process, to unblock the pipeline.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=775.0)\n\n### Team Roles & Logistics\n\n  - [**Managing Editor (ME):** Bailey remains the ME.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=812.0)\n      - [**Rationale:** This retains deep client knowledge and ensures a smoother transition than an ME-to-ME handoff.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=883.0)\n  - [**Cloud Projects:** Jakub will confirm if cloud projects can be migrated to his pod.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=397.0)\n  - [**Access:** Bailey will ask Yusuf to add Jakub to the necessary pod.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=397.0)\n\n## Next Steps\n\n  - [**Bailey:**](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=915.0)\n      - [Finalize Notion doc with Ife.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=799.0)\n      - [Add Kelvin to the internal channel.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=915.0)\n      - [Propose adding CTAs in Contentful at the client check-in.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=775.0)\n  - [**Ife:**](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=915.0)\n      - [Assign Kelvin's dry run article in the internal channel.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=915.0)\n  - [**Jakub:**](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=397.0)\n      - [Confirm cloud project migration feasibility.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=397.0)\n      - [Prepare questions for the client check-in.](https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9?tab=summary&timestamp=627.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Confirm pod for Relay cloud projects; then Bailey coordinate move and ask Yusuf to add her",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:06:26",
+            "recording_playback_url": "https://fathom.video/calls/448964310?timestamp=386.9999",
+            "assignee": {
+                "name": "Jakub Rudnik",
+                "email": "jakub@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Add Kelvin to internal channel; then Ife tag him in table w/ dry-run article",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:08:22",
+            "recording_playback_url": "https://fathom.video/calls/448964310?timestamp=502.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Complete remaining sections of Relay handoff doc",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:28",
+            "recording_playback_url": "https://fathom.video/calls/448964310?timestamp=568.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Complete remaining sections of Relay handoff doc",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:09:28",
+            "recording_playback_url": "https://fathom.video/calls/448964310?timestamp=568.9999",
+            "assignee": {
+                "name": "Ifeoluwa Adekoya",
+                "email": "ifeoluwa@growthx.ai",
+                "team": null
+            }
+        },
+        {
+            "description": "Sync w/ Bailey morning of client check-in re: agenda; then Bailey introduce Jakub",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:10:43",
+            "recording_playback_url": "https://fathom.video/calls/448964310?timestamp=643.9999",
+            "assignee": {
+                "name": "Jakub Rudnik",
+                "email": "jakub@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Add Looker/Scrunch links to handoff doc",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:11:09",
+            "recording_playback_url": "https://fathom.video/calls/448964310?timestamp=669.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Add Contentful CTA proposal to client check-in agenda",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:12:42",
+            "recording_playback_url": "https://fathom.video/calls/448964310?timestamp=762.9999",
+            "assignee": {
+                "name": "Bailey Seybolt",
+                "email": "bailey@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "kelvin_njiru@growthx.ai",
+            "email": "kelvin_njiru@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Kelvin Gitari"
+        },
+        {
+            "name": "ifeoluwa@growthx.ai",
+            "email": "ifeoluwa@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Ifeoluwa Adekoya"
+        },
+        {
+            "name": "Jakub Rudnik",
+            "email": "jakub@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Jakub Rudnik"
+        },
+        {
+            "name": "Bailey Seybolt",
+            "email": "bailey@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Bailey Seybolt"
+        }
+    ],
+    "recorded_by": {
+        "name": "Bailey Seybolt",
+        "email": "bailey@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/wghMVPEV-tXVD7J9xB4QWBVktW6u6Be9",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

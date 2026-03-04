@@ -1,0 +1,2303 @@
+{
+    "title": "Webstacks<>GrowthX Weekly Sync",
+    "meeting_title": "Webstacks<>GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/236325077",
+    "created_at": "2025-02-20T18:04:43Z",
+    "scheduled_start_time": "2025-02-20T17:30:00Z",
+    "scheduled_end_time": "2025-02-20T18:00:00Z",
+    "recording_id": 48237998,
+    "recording_start_time": "2025-02-20T17:31:39Z",
+    "recording_end_time": "2025-02-20T18:04:25Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Not sure if Kyle is going to join.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "How are you liking the new CMS?",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Is it working as expected?",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "We're in the middle of fixing a few bugs, but overall it's pretty smooth for the most part.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I like the design of the new blog post.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "just like the bright background way better than a dark background.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I think it's great.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, I'm a fan of the light mode, for sure, for blogs.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, overall looks much better.",
+            "timestamp": "00:00:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "We're still doing some minor tweaks.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "But yeah, we still have better conversion panels too that we want to use.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And yeah, there's some other little things that we're doing with table contents and some other small fixes, but yeah, overall it's definitely an upgrade.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Did you want to do the walk through right now?",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "do you want us to?",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "over the performance report first and then we can do a walkthrough.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "We just kick it off normally.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "do you want to go through?",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, so I'm going to share my screen.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, so last week, and this isn't something that I'm just seeing on your account, but across two of my other accounts as well.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "There was a significant lift in traffic, so let me zoom in on this screenshot right here.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So last week, you got almost 600 clicks from Google Search, which is like a considerable lift compared to last week.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I pulled a list of the top performing pages and the top 10 are",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "the ones that we worked on in the past couple of weeks.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "for example, the best headless CMS one was published February 7th.",
+            "timestamp": "00:02:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Bank website design, B2B case studies, these were all published like in the past week or not, but like past two to three weeks.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So it seems like they're doing really well.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Nice.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, I think even give them another couple weeks, I think they'll start actually picking up, like from what I'm seeing in Rank Tracker, they're barely even breaking like top 10 yet.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So, Oh, okay.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "they do the really pop up.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "That's great.",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Are you, I forgot, might have asked you this before using Ahrefs or SEMrush.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, Ahrefs.",
+            "timestamp": "00:02:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "yeah, go ahead.",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Just to just say we have both though.",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So yeah, I've been using Rank Tracker for",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Or, um, okay, a week I go in and add the new primary keywords in.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Hey, do you have access to like either of those two on the end?",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Aid learning.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, I have, I mean, I have a semersh account, but it's like my company account.",
+            "timestamp": "00:03:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I don't have access to your, um, like data and a trust.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Is it?",
+            "timestamp": "00:03:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Do you guys have the agency account, uh, you can, you can, like a share of projects and some of them?",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Well, I'll have to check.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, I tried to set up like a position tracking project for you in semresh, but I couldn't, like, I have like a one project limit per account.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So we probably don't have that.",
+            "timestamp": "00:03:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Maybe start a check on, um,",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I'm pretty sure we just like a really good seed and just finished the area.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, we just have to like the professional version.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Because I know there's a way that we can have a big project which might make it a whole for us.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "If not, I'll check and see if we can share even with our address project.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And that way you can kind of follow along in right tracker that we had set up and are monitoring in there too.",
+            "timestamp": "00:04:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay, yeah, that's great.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I mean, I honestly prefer Ahrefs, even though, like, I technically write for summer, but I like their UX better so I do, I do miss sometimes.",
+            "timestamp": "00:04:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "because like the the rank tracking tool I find is just easier to use.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah yeah I totally agree.",
+            "timestamp": "00:05:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay so in terms of the content updates we're working on generating and stating 10 articles for this week.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I like the way that they've been turning out.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I have been doing like a lot of editing after they come out of AirOps because I just find that sometimes we run into issues with length especially with H3s that are quite short and I'm not a fan of that it looks like thin content so I've been like doing a lot of like post AirOps editing in GPT and like doing some editing around that but I'm gonna next week I'll out",
+            "timestamp": "00:05:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'm going to tweak the brand guidelines a little bit, just to kind of adjust the tone.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "You don't see it when it comes out, but I see it, so I think we can improve it a little bit more, to make it sound a little bit more conversational right out of the gate in the airop, so I don't have to do any editing in chat TPT afterwards.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And one thing that I've actually been doing across all of my accounts, and I'm going to start doing it with web stacks as well, is I actually use chat TPT to research specific keyword.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I first tell it to act like it's an expert in web development and SEO, and then I ask it to generate an outline and research a specific keyword.",
+            "timestamp": "00:06:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And I like those outlines a lot better.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "find that they're very like a lot more specific, so like hopefully that gets us like even better results.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So you've been doing that.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Like, do you usually do the outline in hair ops instead?",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "is that like the normal procedure?",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, so that's what I think the account managers have mostly been doing.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And that works for some articles.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I find that it works really well when a keyword is more top of the funnel or middle of the funnel.",
+            "timestamp": "00:07:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But when you're talking, like when you're covering bottom of the funnel topics, you really need like very, very specific article.",
+            "timestamp": "00:07:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "sometimes air ops just goes too broad.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So that's what we really need to kind of pay attention.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I don't know why the differences happen considering it's the same model, but it just does.",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I don't question it a lot.",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "just fix it.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So yeah, those are all the updates that I have for this week.",
+            "timestamp": "00:08:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So if you want to do the CMS walkthrough, you can go ahead.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, one more thing I wanted to touch on.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I noticed from last week's articles, the one before we were missing conversion panels.",
+            "timestamp": "00:08:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, so once we go through the walkthrough, and I make sure like all of them are set up in sanity, if you could help with adding those in.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, but I mean, I'm like 99.9% sure that the articles we published in the last two weeks did have conversion panels.",
+            "timestamp": "00:08:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "It had three, so beginning, middle, end.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, let me double check.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Maybe it didn't come over in the migration, but yeah, I was just checking before.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Oh, yeah, that's possible.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, I am.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "We have a new person that's doing the publishing and I told them like to.",
+            "timestamp": "00:08:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "that is happening similarly and if there's anything from our strategy that we should be considering or no time to even with like this structure.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I've noticed we've had a pretty like steady heat of small rise in traffic from Gemini, perplexity, so like people are finding our content through these like GPG tools and I don't know like how we can optimize for that.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I'm curious like if in like that's a conversation you guys are having or you're better safe possibly.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah that's a that's a good question.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "In terms of the HubSpot thing like they got the where they got in trouble was publishing content.",
+            "timestamp": "00:10:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "strategy or best practice that's going around for that.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "think it sounds really corny and it's like the generic SEO advice, but if content is clear and specific and answers specific questions then it's going to get pulled by the AI.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But I don't believe that there are any official guidelines for how to rank your content in LLMs.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I can do some reading around that because this is what I know from just like talking to people about it, like co-workers and stuff, but I can look into it a little bit more.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, no worries.",
+            "timestamp": "00:12:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I'm curious to have a conversation with us.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I've done some research as well, kind of a lot of what I mean with this, like it's deep into health.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "It's like just deep doing red things, you know, sorts of data, you know, well, stuff and things like that.",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I am just kind of curious if there if there are things that like you're never saying Or things like you did that like you think might be good for us to thrive And see it's like that has an impact it can be Be curious to explore that All right, let me hear my screen conclude you the new CMS I know you're recording this so If we need to we can follow up with it Video or digital walkthrough Have you ever used sanity before as a CMS?",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "No It's gonna be pretty straightforward For you, it's not so different than contentful, so I don't expect that it's gonna be crazy",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "see, you know, pretty secure, you guys.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "You can see we kind of, like, organized our content here on this, this left-hand side.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And when we log in, this is kind of what we'll see.",
+            "timestamp": "00:14:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So you'll be able to go over to the blog.",
+            "timestamp": "00:14:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "We have our blog homepage, which is our missing page.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "This is not quite yet published.",
+            "timestamp": "00:14:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "That's going to be coming next, but we have all of our blog posts all the details here.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So then you're able to kind of like drill down and be able to see all of the different, you know, blog posts here.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "You can search in here.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "If you're ready to like the new entry, you can just add a new document here.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then it'll create a new blog for you.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Like I said, kind of similar to Contentful in that you have kind of all these different sections.",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "We have these tabs here at the",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So, the actual content itself, the title, this is where all the body copy will go, the excerpt.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So, this is that summary that shows up kind of at the top, published date we want to set, adding in authors.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "you know, adding in an author here, you're able to just kind of search, amongst our different authors.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "There's feature images, so those can be uploaded or selected from the library and then all text.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then this is a caption that would go underneath an image, probably to go underneath that in most cases, but you can always do that if you're referencing someone else.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "That needs to So, SEO, metadata, page descriptions, open wrap image.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then this is just to toggle no index, so it probably no case that you would have something like that, clearly, the block.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then under the categories tab, you'd be able to add in the different categories.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So these are categories that you'll see in this page.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So these are essentially some of the 10 tags that you'll see.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So you'll see, like, websites.",
+            "timestamp": "00:16:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "We have additional tags as well that we haven't yet like added in.",
+            "timestamp": "00:16:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "But those, like, when their assets will just be added, you'll see in bottom of the page.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, this again.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So, like, some of these tags that we've",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So the category that it falls on there, you'll be able to select from a few different options that we ask.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "If you try to like find something that's like not here, just let us know, because there's a short ones that you don't need to be added in.",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "You can see here, right now we have some edits that are coming through, so that's why this is funneling, but you can ignore that.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So different blog topics, so these are things that can be added in.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "We can also add additional topics here, so you can either like search to add one in, or you just like start typing one in.",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "It'll either come up for you, or you can add a new item into that.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Use cases, so you can use our apply to",
+            "timestamp": "00:17:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "to the different use case pages that we have on the site.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "These are in here, these probably won't change.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So these can be added, it can be omitted, it's really only if it's relevant, that you should really choose a select one of these options.",
+            "timestamp": "00:18:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "goes with industry.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "These correspond to all of our different industry type pages.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And so same thing, we can add industry tags in, it's relevant, if not, we can use the play.",
+            "timestamp": "00:18:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then same goes with technology.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So these are all different types of technologies that we're identifying.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then if it's relevant, you can select multiple different options that we need.",
+            "timestamp": "00:18:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So editing the actual content, I guess any questions on each of the sections of the data.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "No, no, nothing yet.",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "just need to know how to add conversion panels.",
+            "timestamp": "00:18:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That's a really important thing.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So first thing I'll show you, this editor, you can see we kind of like drill down into like all the different sub folders.",
+            "timestamp": "00:19:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "If you just click on the title, it'll collapse those down.",
+            "timestamp": "00:19:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So that way you have little bit more room here.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then you can click in here for the body.",
+            "timestamp": "00:19:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And if you want to make it even bigger, because this is kind of just like a text, a rich text box.",
+            "timestamp": "00:19:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "It's kind of small here.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "You can just click this, it makes it much bigger if you get added.",
+            "timestamp": "00:19:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "You can like copy, paste, add anything in that you want, right, for all of your content.",
+            "timestamp": "00:19:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And it should auto format, but you might want to clean some of it up here, just using the rich text editor.",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Once you have different components, you'll see these like different component sections here that you can add into the blog.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So if you're adding an image, be little",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "just kind of give you this pop up, you can go ahead and add in your image, give it some alt text, all right, and then keep going, you know, adding the rest of your content in.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So these are all various different components, image gallery is going to be like multiple images in like a gallery format, testimonials can be added in video, and then if you click on these three dots, you'll be able to see like additional components as well, right now show me pretty much all of them.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "The CTA card is the actual like conversion panel that you would be able to add in, and here you can add heading, body, copy,",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then you can add in any actions, so what CTA buttons you want to have in here.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And then when you're looking at the CTA, you'll want to make sure that you go to this internal link section and then just choose the reference for the CTA.",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So here it would be, let's say like this, it would be SAS website's ebook, you would choose that reference and then you would have that link in there with the rest of the text that you would want to have to do.",
+            "timestamp": "00:21:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "The other thing that you might want to add for a conversion panel as well, if you have like an image in the body that you would want to include, so maybe like an image.",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "of the asset, you would be able to put that in, you know, select that often, and then, you know, like I said, any text, you know, if you might want to include it, yeah.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "How do you, how do you select like a CTA that's already been made?",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Like, whatever useful one or do we not have that right now?",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, so that's a feature you don't have just yet, but that will be something that we're updating in here, probably in the next two or so.",
+            "timestamp": "00:22:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "But you can go to another one and copy and paste it in, right?",
+            "timestamp": "00:22:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "You can go to another one and paste one in, but what Devins are referring to is we have shared,",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "components shared CTAs.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So for example on some of our vlogs or some of our other pages we have these shared CTAs.",
+            "timestamp": "00:23:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So this way you don't have to recreate one every single time.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "This is a feature that we didn't have as part of the vlog but it's something that's being added in.",
+            "timestamp": "00:23:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So for right now you'll need to just kind of manually add the conversion panel one by one the way that I just kind of showed you.",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "But probably starting on next week we'll be able to pull in conversion panels that are shared across multiple different vlogs.",
+            "timestamp": "00:23:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So essentially we could have a conversion panel for like the headless BMS implementation checklist and then you're just able to like choose that shared component.",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "and that's going to help say to you time but right now you'll just kind of add a different layer to show you okay um you can copy paste one for one blog to another right now yeah that's what i've been doing all this time actually yeah so you can you can do that like let me hold on let me just see because all of these are kind of haters you know i'm so really sure i'll be using a lot swatch login um let's see try like partner's pager here we go in and out so you can see here is like past the recess ebook um so if i click on this um and we just publish some updates so",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "It's possible if this is not a very important password.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "But you have these three dots here above each of these fields where you can copy the field.",
+            "timestamp": "00:25:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "And so this can be something that you do in order to bring this over into other exceptions.",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "If you do one blog and you get a CTA is the way you want, you can essentially just copy and paste into another blog.",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "One other thing, does the CMS, does the text editor support tables?",
+            "timestamp": "00:25:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Because I know we'll find out tomorrow, but there's one article this week that has a table.",
+            "timestamp": "00:25:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "If...",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "It doesn't work out that I can just take a screenshot and publish it as an image, but a table would be really, really useful.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I know we requested that.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I don't think we come across a scenario with the blog where we need that.",
+            "timestamp": "00:26:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So I'm not 100% sure that we have that in there, but this is like we will be able to.",
+            "timestamp": "00:26:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So I think these are shared, but I'll share this big not otherwise.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I'll share this with you and you can kind of see the different components that we have.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Some of them are still in progress, so that's why I don't see a handful of them right now.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "But those are",
+            "timestamp": "00:26:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "some of the like past follow-up tweets that we're making to it.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Did you, I haven't used the team Gmail today, but did we get an invite to Strobby?",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I have not invited you yet to Sanity.",
+            "timestamp": "00:27:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I wanted to ask you if I should invite you directly or if I should invite a different like team Gmail.",
+            "timestamp": "00:27:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I would prefer if you just use the team email because what I do is I have someone else like a publisher.",
+            "timestamp": "00:27:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "They staged the articles and then I review and publish them myself.",
+            "timestamp": "00:27:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So yeah, I'll just send you the team email.",
+            "timestamp": "00:27:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Was that just like teams that grow that?",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:27:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I keep confusing sanity and strappy, for some reason, I had to do the same thing.",
+            "timestamp": "00:28:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "should be all set.",
+            "timestamp": "00:28:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "you log in, if you have any issues, just let me know.",
+            "timestamp": "00:28:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "But this is going to be the link that you'll want to use.",
+            "timestamp": "00:28:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So once you guys get, you know, the account created and everything, you can just reference this link and it'll take you directly to the production site where you're able to make edits.",
+            "timestamp": "00:28:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I would probably say, so when you guys going to be.",
+            "timestamp": "00:28:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "We're seeing this week's vlogs.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "it going to be tomorrow?",
+            "timestamp": "00:29:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, tomorrow when you're all probably still asleep, like in the AM, my it's going to be in the morning, my time.",
+            "timestamp": "00:29:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So cool.",
+            "timestamp": "00:29:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I would probably just say like we're making a bunch of weeks today.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I would probably say if you guys are running across any issues tomorrow, because I imagine that it might just be questions like using it, but also just like issues that you guys are noticing when you're going through things.",
+            "timestamp": "00:29:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "This is like really help us make sure like we get everything cleaned up.",
+            "timestamp": "00:29:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "If you are able to just like have kind of like a running document or any like issues that you're coming across, that way when we wake up tomorrow, if there's any you guys were running into, I can get that over to our developers and make sure that",
+            "timestamp": "00:29:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "If it's needed, you know, we can make any both fixes or I can just kind of show you how to do certain things that make you add questions about in a content editing.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay, yeah, I will do.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:30:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Any other questions on this?",
+            "timestamp": "00:30:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "know I just went through kind of quickly, but...",
+            "timestamp": "00:30:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "No, it seems like super clear.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I don't think we should have any problems.",
+            "timestamp": "00:30:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'll add conversion panels myself for the headless CMS checklist.",
+            "timestamp": "00:30:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'll let you know if like when we publish, if something doesn't work or if they don't look right, I'll let you know.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:30:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Yeah, and there are couple of things I can be noticed with the bullet points.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "are being worked on right now.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "They're showing up a little bit of a year.",
+            "timestamp": "00:31:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "If you're like those to one of our blogs, and now you'll probably be able to spot a few of the folks.",
+            "timestamp": "00:31:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So there are few things that we are here, kind of like working through.",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "What matters most, I would say, or is most important is like, don't let those things be a blocker for getting content into the CMS here.",
+            "timestamp": "00:31:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "As long as you're putting things in here, for example, like the Emojis for us right now, or not showing up for some reason, but they show up in the editor.",
+            "timestamp": "00:31:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "even if you notice that is like a weird thing, just make sure to get that stuff into the content editor, and then that way, once that gets fixed, you're not having to go back and make updates.",
+            "timestamp": "00:31:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Okay, yeah, sure.",
+            "timestamp": "00:31:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:31:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "All right, any other things that you want to discuss for today?",
+            "timestamp": "00:31:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "No, I just checked and yeah, it looks like it's something on our end for like the conversion panels not come over.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "So Apologies for that.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "I'll uh, I'll go in and make the updates myself once we once we get it sorted out It looks like it was weird.",
+            "timestamp": "00:32:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "It was like random which ones it pulled and which ones it didn't Okay, Those are that's gonna be a lot of conversion panels.",
+            "timestamp": "00:32:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'm sorry.",
+            "timestamp": "00:32:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "It's only it looks like it's it's last week in some of this week So okay, it wouldn't be that many Alright, alright.",
+            "timestamp": "00:32:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Well, thanks guys.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'll keep you updated tomorrow, and I'll see you next week Thanks, Ada.",
+            "timestamp": "00:32:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Devon Wood",
+                "matched_calendar_invitee_email": "dwood@webstacks.com"
+            },
+            "text": "Bye",
+            "timestamp": "00:32:40"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Weekly sync between Webstacks and GrowthX to discuss CMS migration, content performance, and strategy updates.](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [New CMS (Sanity) implementation is mostly smooth with minor bugs being fixed](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=11.0)\n  - [Significant traffic lift last week (\\~600 clicks from Google Search), particularly for recently published content](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=96.0)\n  - [Content strategy evolving: using ChatGPT for keyword research/outlines, focusing on specificity for bottom-of-funnel topics](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=384.0)\n  - [CMS migration caused some conversion panels to be missing; team to address and update](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=501.0)\n\n## Topics\n\n### CMS Migration and Implementation\n\n  - [Overall smooth transition with some minor bugs being fixed](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=11.0)\n  - [Light mode design for blog posts receiving positive feedback](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=19.0)\n  - [Devon walked through Sanity CMS features and content management process](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=780.0)\n  - [Some features still in progress (e.g., shared CTAs, tables in text editor)](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=1187.0)\n  - Team to use <team@growthx.com> for CMS access\n\n### Content Performance\n\n  - [\\~600 clicks from Google Search last week, significant increase](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=96.0)\n  - [Top 10 performing pages were recently published (past 2-3 weeks)](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=109.0)\n  - [Content barely breaking top 10 in rankings yet, indicating potential for further growth](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=145.0)\n  - [Traffic from AI tools (Gemini, Perplexity) showing steady small rise](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=614.0)\n\n### Content Strategy Updates\n\n  - [Generating and staging 10 articles per week](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=310.0)\n  - [Aida doing post-AirOps editing to improve quality, especially for H3 sections](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=325.0)\n  - [Implementing ChatGPT for keyword research and outlines, particularly for bottom-of-funnel topics](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=398.0)\n  - [Tweaking brand guidelines to improve initial output from AirOps](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=360.0)\n\n### SEO Tools and Tracking\n\n  - [Devon using Ahrefs Rank Tracker for keyword monitoring](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=178.0)\n  - [Exploring options to share Ahrefs or SEMrush access with Aida for better collaboration](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=186.0)\n\n### AI and Content Optimization\n\n  - [No official guidelines for ranking content in LLMs](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=720.0)\n  - [Focus on clear, specific content that answers questions to potentially improve AI tool visibility](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=724.0)\n  - [Team to explore strategies for optimizing content for AI tools](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=758.0)\n\n### Conversion Panels\n\n  - [Some conversion panels missing after CMS migration](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=494.0)\n  - [Devon to manually add missing conversion panels](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=527.0)\n  - [Shared CTA feature to be implemented in \\~2 weeks](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=1369.0)\n\n## Next Steps\n\n  - [Aida to test CMS and report any issues encountered during content publishing](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=1744.0)\n  - Devon to send Sanity CMS invite to <team@growthx.com>\n  - [Aida to maintain a document of any CMS issues encountered for quick resolution](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=1744.0)\n  - [Devon to manually update missing conversion panels from recent content](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=527.0)\n  - [Team to explore and discuss strategies for optimizing content for AI tools](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=758.0)\n  - [Implement shared CTA feature in Sanity CMS within \\~2 weeks](https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ?tab=summary&timestamp=1369.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Document issues encountered using new Sanity CMS when publishing tomorrow's blogs; compile running list for Devon",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:24",
+            "recording_playback_url": "https://fathom.video/calls/236325077?timestamp=1764.9999",
+            "assignee": {
+                "name": "Aida Kne\u017eevi\u0107",
+                "email": "aida@growthxlabs.com",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Add missing conversion panels to last week's and this week's blog posts in Sanity CMS",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:31:55",
+            "recording_playback_url": "https://fathom.video/calls/236325077?timestamp=1915.9999",
+            "assignee": {
+                "name": "Devon Wood",
+                "email": "dwood@webstacks.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "dwood@webstacks.com",
+            "email": "dwood@webstacks.com",
+            "email_domain": "webstacks.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Devon Wood"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Nikan Shahidi",
+            "email": "nshahidi@webstacks.com",
+            "email_domain": "webstacks.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Sadira Sittampalam",
+            "email": "sadira@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jesse Schor",
+            "email": "jschor@webstacks.com",
+            "email_domain": "webstacks.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jimmy Pal",
+            "email": "jimmy@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Team GrowthX",
+            "email": "team@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "webstacks@assistant.gong.io",
+            "email": "webstacks@assistant.gong.io",
+            "email_domain": "assistant.gong.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Aida Kne\u017eevi\u0107",
+            "email": "aida@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Aida Kne\u017eevi\u0107"
+        }
+    ],
+    "recorded_by": {
+        "name": "Aida Kne\u017eevi\u0107",
+        "email": "aida@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/_iC5skiyEVNNvssBvCkjVNL5yE_yrqSJ",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

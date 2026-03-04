@@ -1,0 +1,588 @@
+# Udemy <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-09-25
+time: 16:31 UTC
+duration: 24 minutes
+organizer: Kyle Gaudreau (GrowthX)
+participants: Kyle Gaudreau, Matthew Alves-Hill, Katya Luscomb, Justin Luebke, Glenn Lehrman, Krista Chism, Stef Miller
+fathom_recording_id: 89866554
+fathom_url: https://fathom.video/calls/420448733
+share_url: https://fathom.video/share/vDpVXcZJTRc2mWBoVF66qC1rfoH9rrV3
+source: fathom
+enriched_on: 2026-03-03 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+Kyle Gaudreau (GrowthX) aligned Udemy's leadership on content strategy, priorities, and execution, covering four recent deep-dive sessions focused on AI transformation, pillar-cluster content organization, and leveraging webinar transcripts. A critical blocker surfaced: Udemy's page load speeds are 2x above Google's "poor" threshold, affecting both blog and consumer site SEO performance—the team committed to a holistic technical SEO review across all Udemy domains using BrightEdge and OnCrawl. Next steps include getting access to webinar transcripts for content production, starting with two AI literacy and upskilling pillar pieces, with the goal of ramping to five articles per week.
+
+---
+
+## Context
+
+Udemy is a GrowthX content marketing client working to improve their SEO and content production. Over the past month, GrowthX and Udemy have held four deep-dive sessions to align on strategy: an intro with Stef Miller (head of content), a sync with the DemandGen team, and two sessions with Justin Luebke (who owns content strategy) and Krista Chism (SEO lead). This weekly sync served as the main alignment meeting to consolidate findings and agree on next steps for Q4 2025. Key stakeholders present include Kyle Gaudreau (GrowthX account lead), Katya Luscomb (new GrowthX managing editor assigned to the account), Stef Miller (Udemy content head), Justin Luebke (Udemy content strategy), Glenn Lehrman (Udemy leadership), and Krista Chism (Udemy SEO).
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Udemy is shifting to pillar-cluster content architecture for AI transformation topics, requiring GrowthX to build repeatable processes and templates for cluster articles.
+- Technical SEO (page load speed) is now a co-priority alongside content production—GrowthX should position support here or clarify scope boundaries.
+- Webinar transcript sourcing is critical to kickoff; Justin needs to connect with Shane (24Fathom owner) for walkthrough of platform capabilities and transcript export workflows.
+- Katya Luscomb is now primary managing editor on the account, onboarded this week to the program.
+
+**To GrowthX Business Development:**
+- Udemy is a strong reference account—successful pillar-cluster strategy and page speed improvements would be referenceable for other B2B SaaS clients.
+- Udemy leadership (Stef, Glenn) is actively engaged and aligned on content as a business driver, not just SEO. Expansion signal: potential for downstream strategy work on product positioning and skills validation ecosystem.
+- Scope risk: Kyle has committed to five articles per week ramp, but blockers include webinar access delay and Stef's requirement to map content to broader product vision beyond SEO keywords.
+
+**To CheckThat:**
+- No direct CheckThat mentions, but Stef's vision of "ecosystem thinking" for skills validation and foundational competency assessment aligns with AI visibility and AEO thinking—worth monitoring for product fit conversations.
+
+---
+
+## Overview
+
+- Focus on AI transformation content, starting with pillar pieces on AI literacy and upskilling
+- Leverage webinar transcripts and potentially course content to inform high-quality, unique articles
+- Prioritize improving page load speeds across Udemy's web properties to boost SEO and conversion rates
+- Aim to ramp up to producing 5 articles per week, starting with pillar content development
+
+---
+
+## Key Topics
+
+### Recent Deep Dive Sessions Recap
+
+- Four sessions held since last sync: intro with Stef Miller (Udemy content head), meeting with DemandGen team, deep dive with Justin Luebke on content strategy and calibration article, and session with Justin and Krista Chism on authorship and content sources
+- Key takeaway from Stef: need unified SEO strategy to avoid parallel tracks
+- Emphasis on avoiding AI sludge and bringing unique perspective to content
+- Explored leveraging webinar transcripts and lecture content from courses to inform articles
+
+### Content Focus and Structure
+
+  - Concentrate on AI transformation topic, particularly AI literacy and upskilling
+  - Utilize pillar-cluster model for content organization
+  - Create comprehensive pillar pages with related cluster articles
+  - Align with Justin's vision on pillar-cluster organization within the UB content scorecard
+
+### Strategic Content Considerations
+
+  - Stef emphasized need to map content to broader business goals and product vision
+  - Balance SEO-driven topics with showcasing Udemy's full capabilities (e.g., hands-on labs, role-play features)
+  - Incorporate skills validation and ecosystem perspective into content strategy
+
+### Technical SEO Priorities
+
+  - Critical need to improve page load speeds across Udemy properties
+  - Current load times are 2x above Google's "poor" threshold
+  - SEO team taking a holistic view of technical issues across all Udemy domains
+  - Slow speeds affecting blog and consumer performance
+
+### Content Production Plan
+
+  - Start with developing pillar pieces on AI literacy and upskilling
+  - Aim to access webinar transcripts to inform pillar content
+  - Ramp up to producing 5 articles per week
+  - Consider experimenting with different content approaches and formats
+
+---
+
+## Action Items
+
+**Krista Chism (Udemy)**
+- Continue 30,000-foot view analysis of technical SEO issues across Udemy domains using BrightEdge and OnCrawl, taking a holistic view across www, business, blog, community, and support domains
+
+**Kyle Gaudreau (GrowthX)**
+- Update and share revised scope document reflecting focus on content production and page load speed improvements
+
+**Justin Luebke (Udemy)**
+- Contact office/relevant team to get access to webinar transcripts for content creation; target delivery early next week
+- Get walkthrough of 24Fathom platform capabilities for webinar content/transcripts and ancillary content (video clips) from Shane
+- Make requested updates to calibration article and content OS in Airtable
+
+---
+
+## Transcript
+**Katya Luscomb:** This meeting is being recorded.
+
+**Katya Luscomb:** Morning, Justin.
+
+**Katya Luscomb:** Oh, I think you're muted.
+
+**Justin Luebke:** Hey, how's it going?
+
+**Katya Luscomb:** Good, thanks.
+
+**Justin Luebke:** Nice to meet you guys.
+
+**Justin Luebke:** Yeah, you as well.
+
+**Matthew Alves-Hill:** Hello.
+
+**Justin Luebke:** Hey.
+
+**Matthew Alves-Hill:** Let's just find out where Kyle is.
+
+**Kyle Gaudreau:** Hey there.
+
+**Kyle Gaudreau:** Sorry for being late.
+
+**Matthew Alves-Hill:** Oh, there you are.
+
+**Kyle Gaudreau:** I just had one of those meetings where I was just like, this is such a fascinating conversation, but I haven't watched it.
+
+**Kyle Gaudreau:** Hey, everyone.
+
+**Kyle Gaudreau:** I was tempted to say happy Friday.
+
+**Glenn Lehrman:** I don't know why I have it in my head it's Friday.
+
+**Glenn Lehrman:** So do I.
+
+**Glenn Lehrman:** I said that the same thing to my wife this morning.
+
+**Kyle Gaudreau:** I'm like, it's Friday.
+
+**Kyle Gaudreau:** It's happened to me a few times this week.
+
+**Kyle Gaudreau:** I don't know, something in the air, wishful thinking.
+
+**Kyle Gaudreau:** But I hope you're all doing well.
+
+**Kyle Gaudreau:** Shared out the agenda in Slack.
+
+**Kyle Gaudreau:** I'll put that in here as well.
+
+**Kyle Gaudreau:** There you are.
+
+**Kyle Gaudreau:** I'm the typical sharing of the screen.
+
+**Kyle Gaudreau:** So I want to go through a few different things today.
+
+**Kyle Gaudreau:** One was just like aligning, making sure we're on the same page of, you know, some of the discussions that have happened recently.
+
+**Kyle Gaudreau:** We've had four deep dive sessions since our last weekly sync.
+
+**Kyle Gaudreau:** And so a lot of just good discussion.
+
+**Kyle Gaudreau:** One was intro to Steph, just understanding that world and catching her up to speed, hearing any concerns.
+
+**Kyle Gaudreau:** I'll share a little bit of, like, some of our takeaways.
+
+
+**Kyle Gaudreau:** Then one of the key things was, hey, we want to make sure we're chatting with the DemandGen team, met with Jan on Monday.
+
+**Kyle Gaudreau:** Additionally, we had some follow-ups from our last meeting, and so I did a bit of a deep dive with Justin to align on content strategy, get his feedback on the calibration article, how we can focus on particular topics, and then additionally met with Justin Krista to pick up the conversation we had around authorship, content sources, and just generally, like, how do we think about avoiding, you know, AI sludge and having a unique perspective in, like, what we're bringing forward in the content.
+
+**Kyle Gaudreau:** So a few different takeaways, you know, Stef emphasized, you know, not that we hadn't talked about this before, but just making sure that, you know, we have an SEO strategy today.
+
+**Kyle Gaudreau:** Let's be careful to not create parallel tracks and really ensure we have a unified strategy, and that is part of what Justin and I aligned on this week.
+
+
+**Kyle Gaudreau:** I like we're getting a bit of a better perspective on stakeholder clarity here.
+
+**Kyle Gaudreau:** I do have some questions later on, like how we should think about content review cycles that we can cover around content differentiation.
+
+**Kyle Gaudreau:** You know, was able to just go in deeper and understand Krista's perspective, have some takeaways I can share around that.
+
+**Kyle Gaudreau:** But largely, it does kind of blend to this next point of how can we leverage things like webinars that there's such rich thought leadership that exists in those today.
+
+**Kyle Gaudreau:** So how can we get those transcripts to really inform the content that we write?
+
+**Kyle Gaudreau:** And we just have high conviction that that alone should help us just start in far more of a stronger place in our first drafts.
+
+**Kyle Gaudreau:** You know, part of our process now will be experimenting with that, getting feedback, making sure we're hitting all the important notes of tone, structure, you know, the nitty-gritty of SEO, you know, things like internal links, etc.
+
+
+**Kyle Gaudreau:** Additionally, sounds like there's a lot of rich lecture transcripts we can get from the courses, so, you know, we just talked a little bit about, you know, how that could potentially work and where that would fall in.
+
+**Kyle Gaudreau:** I think certainly our starting place, though, is going to be on how do we get access to these webinars, get those transcripts, and start to build our content, leveraging that in different ways.
+
+**Kyle Gaudreau:** In terms of content focus, one of the key takeaways from the discussion this week with Justin was, hey, let's specifically just, yes, there's multiple topics we can help with in a given period of time, and all that's outlined in the UB content scorecard, but let's particularly just focus on AI transformation for now.
+
+**Kyle Gaudreau:** We talked about getting a clear perspective on his vision around pillar cluster organization that lives within that content scorecard.
+
+**Kyle Gaudreau:** That was actually something I hadn't been aware of, but it makes a ton of sense in alliance with how we like to think strategically.
+
+**Kyle Gaudreau:** So our next step here is just going to be.
+
+**Kyle Gaudreau:** Start creating those pillar pieces aligned to that.
+
+**Kyle Gaudreau:** We'll get into that a little bit later as well.
+
+**Kyle Gaudreau:** And actually, keep forgetting at this point here.
+
+**Kyle Gaudreau:** This is essentially where it could be focused on the pillar pieces.
+
+**Kyle Gaudreau:** Next is AI upskilling and AI literacy.
+
+**Kyle Gaudreau:** Think of this as within this, let me see, I have it open here somewhere.
+
+**Kyle Gaudreau:** If we look at how it's organized here, when we say something like AI literacy, that is reflected as the topic again, being AI transformation, AI literacy being a subtopic, think of this as a pillar page that we will create.
+
+**Kyle Gaudreau:** It will have a comprehensive perspective.
+
+**Kyle Gaudreau:** Within that, there are a variety of important, relevant searches or even further subtopics, if you will, to that.
+
+**Kyle Gaudreau:** Biases in AI, AI literacy, AI readiness, et cetera.
+
+**Kyle Gaudreau:** So there's different ways of handling this.
+
+**Kyle Gaudreau:** Sometimes it can be thought of like, you know, you are kind of talking about this more.
+
+**Kyle Gaudreau:** Comprehensively in that pillar piece, and then kind of talking about some of these points from a higher level perspective, and the double click into that is what those cluster articles are.
+
+**Kyle Gaudreau:** So by first starting with these pillar pieces, we can align, make sure we have the right structure and all, it's all come together well, and then we dive in deeper to the additional clusters.
+
+**Kyle Gaudreau:** So if we nail the pillars, the cluster should be easier to make repeatable underneath that.
+
+**Kyle Gaudreau:** And so, you know, net, net between this, you know, we have quite a bit of content we can jam on, but we'll also continue to evolve this topic structure within that.
+
+**Stef Miller:** Hey, Stef.
+
+**Stef Miller:** Hello.
+
+**Stef Miller:** I have a question.
+
+**Stef Miller:** How, as we think about content development, I had all that time to formulate like a really good question, and now it's kind of like feeling nebulous, but we've got some like strategic imperatives, like where we need to win with
+
+**Stef Miller:** Our sales and CS teams, you know, when we're in sales conversations, right?
+
+**Stef Miller:** And an example of that is if we're only focused Udemy on how our courses can drive skills development, that is putting us into a box that we don't want to be in, actually.
+
+**Stef Miller:** We need to think bigger about how Udemy is a solution for driving business outcomes.
+
+**Stef Miller:** And that comes through a range of the modalities that people learn with, right?
+
+**Stef Miller:** Like getting hands-on in one of our labs and putting what you're learning into practice.
+
+**Stef Miller:** It includes, like, our role-play feature, which is very much about, like, practicing the things that you need to say before you get in the room and flub it in front of your boss or the person you're, you know, trying to give a promotion, whatever it is.
+
+**Stef Miller:** Those are some tangible examples.
+
+**Stef Miller:** But bigger picture, when we talk about skills development, there's an ecosystem.
+
+**Stef Miller:** That Udemy plays within, and we're starting to build in more of those capabilities within our own product, as well as attach ourselves to third-party partners who can unlock those capabilities without us having to build the product ourselves.
+
+**Stef Miller:** So when we decide on a topic and a blog post, in this case, I'm looking at our team.
+
+**Stef Miller:** We must be very careful that it's not just an SEO play because of those topics, but that we're mapping to the bigger picture of where we're heading as a business and our product and our vision.
+
+**Stef Miller:** And I don't know how you guys plan to do that, if you're not super plugged into what that roadmap looks like.
+
+**Stef Miller:** And, you know, I'm just, that's it.
+
+**Stef Miller:** That's it. I'm done.
+
+**Justin Luebke:** On that, Stef, this original plan for the scorecard, we had, like, figured in that there would be...
+
+**Justin Luebke:** Multiple topics coming up like that.
+
+**Justin Luebke:** And those are things that we can add as well.
+
+**Justin Luebke:** Like the MCP was something that we specifically added.
+
+**Justin Luebke:** And we recently did the hands-on blog for Sandy.
+
+**Justin Luebke:** So I think that we will probably have like GrowthX focus on building out these really like vast pillar and cluster topics.
+
+**Justin Luebke:** And then if we do have something important that comes up like the MCP or hands-on practice for like the labs, that is something that I could also build out or Jay and I could build out that would be more of like a Udemy play rather than SEO.
+
+**Justin Luebke:** So that's something that we had already kind of figured into our strategy and we could work on for sure.
+
+**Stef Miller:** Okay.
+
+**Stef Miller:** So maybe like, thank you for that.
+
+**Stef Miller:** It does feel like, for example, AI literacy, that's about people needing, I'm assuming I'm reading between the lines here, but like people needing a sort of a foundational understanding of AI and there's a few components.
+
+**Stef Miller:** That, right?
+
+**Stef Miller:** But how do we check for that literacy as an organization, right?
+
+**Stef Miller:** That's where skills validation starts to play in.
+
+**Stef Miller:** So it's one thing to talk about, like, yes, people need foundational AI skills, and these are the, you know, sort of like variations of how that comes out.
+
+**Stef Miller:** And those are probably, like, the spokes of that particular hub of content.
+
+**Stef Miller:** But then I'm assuming Justin or Krista or something, we're thinking about, if we're talking about literacy, and you need to check that someone has that foundational skill set, right, as a company, then we could point to, like, and skills validation, how, like, so we're leading people to that.
+
+**Stef Miller:** Like, yes, it's this, which is an SEO specific topic, but then also how it plays back into, like, the world of how we think about skills development, and et cetera, et cetera.
+
+**Kyle Gaudreau:** I think that makes sense from my perspective. At the end of the day,
+
+**Kyle Gaudreau:** A, like, when we frame it as a, you know, an SEO topic, we really want to consistently come back to value to this audience and ensuring that we're creating something that truly fulfills that intent.
+
+**Kyle Gaudreau:** We're prioritizing the right places we're playing that, and it makes sense for us to, but connecting the journey in that way, in a meaningful way, that isn't just checking the box of, can we rank this initially because it is a topic that is, you know, something people are searching for, like, yes.
+
+**Kyle Gaudreau:** But how does that actually, like, how do you help them through that to, okay, now we've framed this, we've defined this, now how do you actually, like, action upon this and take some of those next steps?
+
+**Kyle Gaudreau:** That, to me, is a good strategy for continual engagement, and typically what will help provide further signal that just helps this program.
+
+**Stef Miller:** Great.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** So, yeah, Justin, happy to continue to partner with you on that, like, how should we think about that?
+
+**Kyle Gaudreau:** How should we eat that then?
+
+
+**Kyle Gaudreau:** Some strong and really good feedback around like how to think about internal links and where all this content kind of like architecturally comes together.
+
+**Kyle Gaudreau:** So, this is a good one to think about for sure.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** So, that's a bit of the summary of some of our conversations.
+
+**Kyle Gaudreau:** Reflecting on some of that, you know, really just wanted to go through a few discussion topics.
+
+**Kyle Gaudreau:** Glenn, thanks for the note right before we hopped on.
+
+**Kyle Gaudreau:** I was encouraged to see that we were very much aligned in what you had put in there and what I had proposed in here.
+
+**Kyle Gaudreau:** The TLDR basically is like, my sense is how we can be the best partner for you right now is just helping your team scale on, you know, creating really high quality, amazing content, making that more repeatable, getting some non-brand traffic growth.
+
+**Kyle Gaudreau:** From, from my perspective, and this kind of really got, you know, hit home as we were ramping up Katia.
+
+**Kyle Gaudreau:** I'm sorry, I'm not even sure if we, did we have a chance to introduce you?
+
+**Kyle Gaudreau:** Oh, my God.
+
+**Kyle Gaudreau:** I'm so sorry.
+
+**Kyle Gaudreau:** I thought we had done that maybe before I hopped on late.
+
+**Kyle Gaudreau:** Katya is one of our newest managing editors here and is going to be helping us out with this program.
+
+**Kyle Gaudreau:** And as I was just getting our dispute on things, walking her through the website, the real thing that just kept coming home, I know I've mentioned this before, is just if we were to spend any web development time on really starting to evolve your website experience in some meaningful way, I highly, highly recommend just focusing that time and tension on page load speeds.
+
+**Kyle Gaudreau:** It's, you know, I know I'm kind of preaching to the choir to a lot of folks here, you're aware of it.
+
+**Kyle Gaudreau:** And, you know, it's not like, what do you mean page load speeds?
+
+**Kyle Gaudreau:** It's just like, if we're really like being intentional about impact for effort and having the right foundation here, this is just so important to address from my perspective.
+
+**Kyle Gaudreau:** You know, I added some data here below in terms of, like, what that, you know, why it's important in this and that.
+
+**Kyle Gaudreau:** But the short of it is, like, what Google would categorize as, like, the lower bounds of poor, in this case, like, you all are, like, 2x above that.
+
+**Kyle Gaudreau:** So that's not an ideal place to be.
+
+**Kyle Gaudreau:** It affects your conversion rates, it affects your SEO.
+
+**Kyle Gaudreau:** And so, you know, I think there's still a lot of foundation building we can help with on the content side.
+
+**Kyle Gaudreau:** But if we were to do anything with web development resources, I mean, you know, I just don't feel like we'd be setting you up for success by putting them onto something else that is not that at the moment.
+
+**Kyle Gaudreau:** So that was one of key takeaways.
+
+**Kyle Gaudreau:** And then, yeah, Glenn aligned on where we layer in the newsletter to this.
+
+**Kyle Gaudreau:** This feels like it's something that would probably be best done in-house or later on, and we're happy to help where that makes sense.
+
+**Kyle Gaudreau:** But I think just really focusing on building that repeatable engine around content and getting that live is where we can be the strongest partner for you right now.
+
+**Glenn Lehrman:** You are absolutely preaching to the choir.
+
+**Glenn Lehrman:** I think...
+
+**Glenn Lehrman:** Krista and I had this conversation 15 minutes ago.
+
+**Krista Chism:** Yeah, I was just going to say, just for the larger group, the SEO team is taking a 30,000-foot view right now of the technical interference that we're experiencing across the suite of Udemy, so both www plus business plus blog plus community and support, and we're just taking a global look at understanding what are the issues, where is the prioritization of all of with the understanding that they're all connected from Google's perspective as well, so the poor page speed times that are happening on Udemy are affecting our blog performance and our consumer performance, so we have right now a work stream to take a very 30,000-foot view of that, using BrightEdge and OnCrawl to try to get at a summary statement across all of those domains.
+
+**Krista Chism:** So it is a conscious understanding on our part and something we are attempting to try to take a look at and see how much we can move
+
+**Kyle Gaudreau:** forward in 2026, for sure.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** It sounds like you all have it covered, but if there's anything we can help with in any way, you're all, you know, doing research around it, whatever it may be, you know, let us know if we can help with some of the technical SEO side of things.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Anything else additionally, Glenn, just related to your note that you sent that we should cover in related to the scope side of things?
+
+**Glenn Lehrman:** It seemed relatively straightforward.
+
+**Glenn Lehrman:** Yeah, no, I don't think so.
+
+**Glenn Lehrman:** I think you have it exactly right.
+
+**Kyle Gaudreau:** Perfect.
+
+**Kyle Gaudreau:** So I will reflect that.
+
+**Kyle Gaudreau:** I'll share that over following this.
+
+**Kyle Gaudreau:** And so, yeah, let me know if any additional questions come up, but that should be easy to reflect in that.
+
+**Kyle Gaudreau:** So W related to like really where we're trying to go, typically how we think about this phase of content production is, you know, we've done the initial pillar piece.
+
+**Kyle Gaudreau:** We've got some good feedback or sorry, calibration piece rather from Justin.
+
+
+**Kyle Gaudreau:** The piece that we shared last week.
+
+**Kyle Gaudreau:** We want to start to build some momentum on some additional pieces.
+
+**Kyle Gaudreau:** While our goal is to get to five articles a week, we like to ramp into that.
+
+**Kyle Gaudreau:** So our next step here would be, as mentioned, really going through and developing these pillar pieces.
+
+**Kyle Gaudreau:** So this is going to be our big focus for us in the next handful of days.
+
+**Kyle Gaudreau:** As we jump into that, I know Justin and Krista, we talked about getting access to those webinar transcripts.
+
+**Kyle Gaudreau:** How quickly could we get something like that?
+
+**Kyle Gaudreau:** Because ideally, we would feed that into these pillar pieces.
+
+**Justin Luebke:** That may be either a Steph question or something that I could talk to someone here in the office about.
+
+**Justin Luebke:** So we could try to get that.
+
+**Justin Luebke:** I have only been sent like transcripts and pieces of that.
+
+**Justin Luebke:** So I like don't have access to it.
+
+**Justin Luebke:** So I could try to give us some more information there.
+
+**Krista Chism:** Kyle, can you clarify for us?
+
+**Krista Chism:** Either now, or we can do this as a follow-up item, the format, like, for example, if we can get access to OnCrawl and export directly from OnCrawl, I'm assuming those are either PDFs or text files.
+
+**Krista Chism:** Like, is there a requirement on your part to serve as inputs into your flow file formats or collections in one versus many?
+
+**Krista Chism:** Like, I'm just trying to figure out, once we figure out how to get it, what do we need to get for you?
+
+**Kyle Gaudreau:** Yeah, we can be pretty flexible, typically, on file type.
+
+**Kyle Gaudreau:** That doesn't tend to be a block or PDFs work, text files, you know, that shouldn't be a problem.
+
+**Kyle Gaudreau:** Okay, cool.
+
+**Kyle Gaudreau:** Yeah.
+
+**Stef Miller:** But for whatever reason, if we run into some friction point, we'll certainly let you know, but I haven't seen that be an issue for us in the past.
+
+**Stef Miller:** I can give the team a heads up, but Jade should be able to pull down anything you guys need.
+
+**Stef Miller:** The other thing we need to consider is that 24Fathom produces things, so if they have AI capabilities built into the platform, yes, we can get the transcript, but there might also be some ancillary content pieces that might be useful—video clips, et cetera.
+
+**Stef Miller:** So I think maybe, Justin, it would be a good idea for you to get a walkthrough of what that looks like, and then we can work out just how to make that as seamless as possible so we can hand it off easily.
+
+**Justin Luebke:** Yeah, let me reach out to Shane.
+
+**Kyle Gaudreau:** Yeah, let me know, Justin, as you go through that, if there's anything we can help or clarify.
+
+**Kyle Gaudreau:** I'm happy to jump in wherever.
+
+**Kyle Gaudreau:** If we can get this into the team's hands, you know, at the latest, like early next week, we should be in fairly good shape.
+
+**Kyle Gaudreau:** Obviously, the sooner the better, but understand that there's some, like, things that we need to sort through.
+
+**Kyle Gaudreau:** So just let me know if I can do anything to help make that easier.
+
+**Justin Luebke:** Sounds good.
+
+**Kyle Gaudreau:** Cool, and, you know, what we talked about related to the lecture.
+
+**Kyle Gaudreau:** Yeah, transcripts that are kind of in the, from the courses in that database, you know, certainly I think that that makes sense exploring, but, you know, given what we're prioritizing now in terms of topics and just let us know if this isn't the case, our mindset has been, you know, focusing on those webinars first.
+
+**Kyle Gaudreau:** Those should give us good coverage on the topics we're focused on.
+
+**Kyle Gaudreau:** It's not that we could not consider going into the courses.
+
+**Kyle Gaudreau:** It's just, you know, in terms of friction, it seems to make most sense to, to start here, build some momentum with the webinars, first and foremost.
+
+**Stef Miller:** Is the goal of the, the webinars, like, converting those into blog content obviously makes a lot of sense, but is the primary CTA and sort of the action that we would include or some sort of a secondary promotion within that to drive people to the webinar that they could watch?
+
+**Kyle Gaudreau:** I think it's worthwhile experimenting with that for sure.
+
+**Kyle Gaudreau:** I'm not sure that would be the play.
+
+**Kyle Gaudreau:** In this particular sense, from a pillar cluster strategy standpoint, unless it's just so highly aligned to like building within that pillar and cluster and that webinar is covering that comprehensively.
+
+**Kyle Gaudreau:** Certainly we do that, though, like, you know, there's plenty of cases we take either podcasts or webinars and are repurposing that and linking the videos and the articles and then creating a piece that is putting that into a story.
+
+**Kyle Gaudreau:** And so you kind of are checking boxes of people like to learn multiple ways and watch videos or read or a bit of both.
+
+**Kyle Gaudreau:** And so it's certainly very effective.
+
+**Kyle Gaudreau:** So I think it's worth exploring.
+
+**Kyle Gaudreau:** My hunch has been just as I shared, I think it's more like informing how to, you know, write the pillar in the most ideal way.
+
+**Kyle Gaudreau:** And then we'll enrich that with other sources as well.
+
+**Kyle Gaudreau:** But open to feedback, like, you know, we can experiment.
+
+**Kyle Gaudreau:** Like, at this phase, we'd like to...
+
+**Kyle Gaudreau:** We'll even do things, you know, if applicable, where, you know, let's create a couple versions of the same piece and say, hey, you know, we took this approach, we took that approach, what do we like, you know, getting feedback on that.
+
+**Kyle Gaudreau:** That could come in all sorts of shapes and fashions, tone, structure, whatever it may be.
+
+**Krista Chism:** Kyle, I was just going to say, when you get to the point or when you're a couple of weeks out from the point of feeling like you may want to tap that lecture article, database, just give us a heads up, and we'll just get, we'll just get Justin on the path of getting up to speed on getting access to the database, the SQL interfaces, the queries, et cetera, et cetera.
+
+**Kyle Gaudreau:** We just, a little bit of lead time, but we can make that happen for you whenever you're ready for it.
+
+**Kyle Gaudreau:** Makes a lot of sense.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Yeah, we'll be mindful of that lead time.
+
+**Kyle Gaudreau:** No problem at all.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** So, we'll make some changes to that.
+
+**Kyle Gaudreau:** So, we get that over to you, Glenn?
+
+**Kyle Gaudreau:** And we'll focus on these two pillar pieces.
+
+**Kyle Gaudreau:** We've been in the webinar transcripts I did not capture in here.
+
+**Kyle Gaudreau:** should add, Justin, will also reflect your requested updates to both the calibration article and the content OS and Airtable.
+
+**Kyle Gaudreau:** So shared that feedback with the team yesterday.
+
+**Kyle Gaudreau:** We're on that.
+
+**Kyle Gaudreau:** Is there anything else on the team's mind, whether it's questions, requests?
+
+**Glenn Lehrman:** Those were the main things on my end.
+
+**Glenn Lehrman:** Nothing from me.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Well, looking forward to building some more momentum here.
+
+**Kyle Gaudreau:** Exciting to start to get some of this out there, get some signals back.
+
+**Kyle Gaudreau:** Appreciate everyone's time and just feedback and jumping in and hoping to guide us in the right direction.
+
+**Glenn Lehrman:** Awesome.
+
+**Justin Luebke:** Thank you, Kyle.
+
+**Justin Luebke:** Thanks, team.
+
+**Justin Luebke:** appreciate it.
+
+**Kyle Gaudreau:** Thanks.
+
+**Justin Luebke:** See y'all.
+
+**Justin Luebke:** Later.

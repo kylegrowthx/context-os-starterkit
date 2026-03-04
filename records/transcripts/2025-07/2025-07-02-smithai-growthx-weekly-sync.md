@@ -1,0 +1,1174 @@
+# SmithAI <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-07-02
+time: 17:30 UTC
+duration: 48 minutes
+organizer: Megan Dickey (GrowthX)
+participants: Elvis Goren (GrowthX), Maddy Martin (Smith.ai), Megan Dickey (GrowthX)
+fathom_recording_id: 71884146
+fathom_url: https://fathom.video/calls/340996931
+share_url: https://fathom.video/share/9VfRouKGYTrYebAxz_8y5yZfQ9eujjBv
+source: fathom
+enriched_on: 2026-03-03 09:41 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Smith.ai aligned on a comprehensive SEO and content strategy to position Smith.ai as the authority on AI receptionists, capitalizing on current search engine confusion between virtual receptionists (VR) and AI receptionists. The team introduced Megan Dickey (GrowthX's new 15-year journalism veteran) and mapped out a multi-track content approach: editorial articles for business owners, programmatic SEO through AI agent use cases, and a glossary to define emerging industry terms like "call flow design," "prompt engineering," and "conversational UX." Key deliverables include a refined strategy presentation and ClickUp library of 200+ Yellow Box Notes (YBN) use cases that showcase Smith.ai's customization capabilities versus competitors requiring engineering expertise.
+
+---
+
+## Context
+
+Smith.ai is a B2B AI receptionist platform that handles inbound calls with customizable logic for scheduling, lead qualification, and customer intake. GrowthX (a B2B content marketing agency) is Smith.ai's content and SEO partner. This weekly sync kicked off with introduction of Megan Dickey, GrowthX's newly hired senior strategist with 15 years at TechCrunch, Business Insider, and Axios. The meeting followed a week of intense strategy work where Maddy Martin (Smith.ai's growth lead) ran an internal exercise revealing that Google and ChatGPT conflate virtual receptionists with AI receptionists — creating a SEO opportunity window. Smith.ai has domain authority, budget, and technical depth that smaller competitors can't match, positioning them to own this emerging keyword space before larger players like RingCentral fully enter the market.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- New content strategy separates editorial (business owner-focused) from programmatic SEO (technical deep dives), requiring distinct tone, format, and distribution approaches
+- Megan Dickey's journalism background enables faster turnaround on authority-building editorial content; need to coordinate with design firm (Raze) on template-based production
+- Yellow Box Notes (YBN) system represents Smith.ai's hidden competitive advantage — customization without engineering; content must explain this clearly without revealing implementation details
+
+**To CheckThat:**
+- AI receptionist space is early-stage and rapidly evolving; LLM confusion between VR and AI offers window to shape how AI tools understand industry terminology
+- Opportunity to audit how CheckThat prompts handle AI receptionist vs. virtual receptionist disambiguation
+- 200+ customer thermometer reviews represent rich training data for building industry-specific AI agents
+
+**To GrowthX Business Development:**
+- Smith.ai is aggressively ramping content production (target: 1-2 months initial run, then scale); strong expansion signal
+- Customer feedback loop (20,000+ call reviews) demonstrates product-market fit and customer engagement
+- Competitive positioning (vs. 30 small startups + RingCentral) is healthy; Smith.ai likely to maintain momentum through 2025
+
+---
+
+## Overview
+
+- GrowthX is developing a comprehensive content strategy to position Smith.ai as the authority on AI receptionists and related topics
+- Smith.ai has a unique opportunity to own the SEO space for AI receptionist content due to their domain authority and technical expertise
+- The content strategy will target business owners curious about AI technology, not engineers or highly technical audiences
+- Smith.ai's AI receptionist capabilities are highly customizable, with human backup for complex tasks like scheduling
+
+---
+
+## Key Topics
+
+### Introduction of New Team Member
+
+  - Megan Dickey joined GrowthX, bringing 15 years of journalism experience
+  - Already contributed to securing a design firm for creating content templates
+  - Will support Elvis with content strategy and programmatic SEO efforts
+
+### Smith.ai's Market Position
+
+  - Opportunity to own SEO space for AI receptionists due to existing authority in virtual receptionist space
+  - LLMs currently confusing virtual receptionists (VR) with AI receptionists, benefiting Smith.ai's search rankings
+  - Smith.ai has higher budget for content creation compared to small startup competitors
+
+### AI Receptionist Capabilities
+
+  - Highly customizable setup for each client, including qualification steps and data collection
+  - Yellow Box Notes (YBN) system allows for specific overrides and customizations without complex product changes
+  - Currently uses human agents for tasks like scheduling, with AI scheduling coming soon
+  - Ability to handle complex logic and customizations that competitors can't match
+
+### Content Strategy Approach
+
+  - Develop a glossary of terms to establish authority in the space
+  - Create content around topics like prompt engineering, AI agents, and call flow design
+  - Focus on being first to market with content, balancing speed and accuracy
+  - Target business owners who are technically curious but not engineers
+  - Separate editorial content from programmatic SEO approach
+
+### Keyword and Topic Ideas
+
+  - Keywords like "prompt modification", "AI quality control", "call flow design", "conversational UX"
+  - Article idea: "AI receptionist is not a virtual receptionist - How they differ"
+  - Explore comparisons between voice providers (e.g. Eleven Labs vs Bappy)
+
+### Content Creation Process
+
+  - GrowthX to refine strategy and develop programmatic approach (prefix, suffix structure)
+  - Aim to create content for 1-2 months initially, then scale up
+  - Explore using demo call recordings or creating new ones to embed in content
+
+---
+
+## Action Items
+
+- **Elvis Goren (GrowthX)**: Present refined content strategy next week (Megan Dickey will be out; Elvis will handle delivery)
+- **Maddy Martin (Smith.ai)**: Export and send ClickUp list with detailed Yellow Box Notes use cases and examples in well-formatted layout
+- **Maddy Martin (Smith.ai)**: Provide keyword themes and topics list (already drafted on paper; to be shared)
+- **Elvis Goren (GrowthX)** and **Maddy Martin (Smith.ai)**: Align on prefix/suffix structure for programmatic SEO to ensure scalability without sacrificing depth
+- **Megan Dickey (GrowthX)**: Complete deep dive into Yellow Box Notes documentation to support content strategy refinement
+- **Elvis Goren (GrowthX)** and **Maddy Martin (Smith.ai)**: Create custom LLM validator (bot or GPT) to ensure content accuracy before publishing, preventing authority damage from incorrect information
+- **Elvis Goren (GrowthX)**: Write high-priority first article: "AI Receptionist Is Not a Virtual Receptionist — How They Differ"
+- **Maddy Martin (Smith.ai)**: Provide demo call recordings (audio or MP3 files) that can be embedded in content pieces
+
+---
+
+## Transcript
+
+[*Brief audio test at start of call; participants confirm audio connection*]
+
+**Maddy Martin:** Good.
+
+**Maddy Martin:** Uh, we have a new member joining us today.
+
+**Elvis Goren:** I know, I know, uh, Mara kind of did a thing, but, um, I'll let, uh, Megan introduce herself, but just if, if I can go for a second, she's already done a lot for the team.
+
+**Elvis Goren:** She was part of the, uh, part of spearheading for this design firm that we're now working with to do the templates.
+
+**Elvis Goren:** We're probably going to be best friends.
+
+**Elvis Goren:** So that's the thing I was most upset about.
+
+**Elvis Goren:** So yeah, so already, yeah, she's helped a lot in the last two weeks just to get that off the ground and the tasks are with them now.
+
+**Elvis Goren:** So, um, yeah, it's going to be, I hope, smooth sailing and we can start actually gearing up on a lot of the content that, uh, we should be doing.
+
+**Elvis Goren:** So I'll let Megan take it from here.
+
+**Elvis Goren:** Yeah, cool.
+
+**Megan Dickey:** Um, yeah.
+
+**Megan Dickey:** Hey Maddy, it's, it's good to meet you.
+
+**Megan Dickey:** Um, yeah, just a little bit about me.
+
+**Megan Dickey:** I think Mara gave you some background, but yeah.
+
+**Megan Dickey:** Um, I've, I've, spent like the last like nearly 15 years in journalism.
+
+**Megan Dickey:** I worked at TechCrunch, Business Insider, Axios, those publications, and then I also spent some time as a chief content officer at Backstage Capital, leading their content efforts.
+
+**Megan Dickey:** And so my role really is to support Elvis with strategy moving forward.
+
+**Megan Dickey:** And also, as he mentioned, working with our design firm, Raze, to ensure that we can actually offer you true programmatic SEO by just having those templates in place.
+
+**Megan Dickey:** And then we can really just, like, crank those out.
+
+**Megan Dickey:** But then, additionally, Elvis and I have been working on just a broader content strategy, just sort of like what you were talking about last week, like wanting more technical content, really wanting to make sure that we're at Smith is, like, the, is having that, is really, like, showing people, like, okay, this is how you, like, implement these voice response softwares in your call centers.
+
+**Megan Dickey:** And really being that, like, expert in that field.
+
+**Megan Dickey:** So, yeah.
+
+**Megan Dickey:** Yeah, and so we've made good progress.
+
+**Megan Dickey:** We're not quite ready to present you the exact plan, but I'm kind of like working on that behind the scenes right now, and we'll have that for you next week.
+
+**Megan Dickey:** Yeah, that said, I actually am off next week, which is not great timing, but Elvis will have everything he needs to.
+
+**Maddy Martin:** Okay, so when you say the plan, are we including SEO and like LLM SEO or, okay.
+
+**Maddy Martin:** Yes.
+
+**Maddy Martin:** Because, you know, there's, I think there's a lot of opportunity just to like tell you a little bit what's in my head for a second.
+
+**Maddy Martin:** Yeah, for sure.
+
+**Maddy Martin:** There's a lot of opportunity for us to own the space because we have a lot of authority in our existing virtual receptionist space, and there's actually a pocket of time, we had an off-site last week and I ran an exercise where we had each member of the marketing, growth, and sales team.
+
+**Maddy Martin:** So just the leadership.
+
+**Maddy Martin:** was there.
+
+**Maddy Martin:** Take a persona and try and buy a receptionist service and specifically look for an AI answering service.
+
+**Maddy Martin:** Now, we come up a lot, but part of the thing that we notice is that Google and ChatGPT and the other LLMs, they actually are confusing VR, virtual receptionists, with AI receptionists, AI answering services.
+
+**Maddy Martin:** And that's to our benefit because we're getting listed above other services, not only because we've been around a while, but because we've probably created some of the confusion around what is the difference.
+
+**Maddy Martin:** Now, they haven't figured that out, but they're going to.
+
+**Maddy Martin:** And because we have a really high domain rating, we can be the authority pretty quickly on this because we know all these other small startups.
+
+**Maddy Martin:** Before the VoIPs, you know where VoIP is, before the VoIPs spend, you know, $100 million on, you know, being the leader.
+
+**Maddy Martin:** They're in the market, and hopefully we'll get there first.
+
+**Maddy Martin:** We know that all these small startups are not budgeting for the level of content that we are, right?
+
+**Maddy Martin:** And they haven't made the investments historically.
+
+**Maddy Martin:** So we have the means to own SEO in a way that these little pipsqueak competitors cannot.
+
+**Maddy Martin:** All their budget is going to Facebook ads.
+
+**Maddy Martin:** They can't afford anything else, right?
+
+**Maddy Martin:** It's a team of like five people.
+
+**Maddy Martin:** We know because we hear, right?
+
+**Maddy Martin:** So there's 30 competitors that have five people, and then there's us, and then soon there's going to be some behemoth like RingCentral is going to come out.
+
+**Maddy Martin:** Well, they already have an AI receptionist, but they're beta.
+
+**Maddy Martin:** So my point is like we have a window right now to not only talk about the use cases and scenarios like yellow box notes, YBN, right, that I shared in the channel.
+
+**Maddy Martin:** But I'll talk all about what that means at another time.
+
+**Maddy Martin:** But we have an opportunity to set the glossary of terms to talk about prompt engineering.
+
+**Maddy Martin:** or AI agents, right, to own that entire space of like, you know, if you look at even the summary doc for the yellow box notes, you see that it's written in a technical sort of internal way, right?
+
+**Maddy Martin:** Like that's not going to be the way that we describe things from an SEO standpoint.
+
+**Maddy Martin:** But I do have another entire ClickUp library of our use cases written exactly for the use case that we've addressed, right?
+
+**Maddy Martin:** And that, I think about like, how can we make a library, like I'll share a link with you, like Gozen has done, where it's just a ton of different agents.
+
+**Maddy Martin:** Now, you can use those as templates.
+
+**Maddy Martin:** We're not talking about something that's that productized.
+
+**Maddy Martin:** But you can imagine that if we could write on all these subjects for use cases, which we can, we have a ton of them, we could have both the glossary and these use cases and use those.
+
+**Maddy Martin:** Terms as a gateway into the actual service that we're delivering, right?
+
+**Maddy Martin:** Yeah, so like having that hub is what you're envisioning.
+
+**Megan Dickey:** Exactly, exactly.
+
+**Maddy Martin:** And that's going to inform the space, the emerging industry, and the emerging search tools like ChatGPT that we know what we're talking about, we're the authority, we're best positioned to deliver on it.
+
+**Maddy Martin:** And we can help clarify what is an AI answering service because we're talking about how these AI agents are crafted, right?
+
+**Maddy Martin:** So that's really where I want to look at for programmatic.
+
+**Maddy Martin:** And then what I also provided Elvis is all of the feedback from the pros on those red light, green light, yellow light, customer thermometer feedback.
+
+**Maddy Martin:** So we use customer thermometer to score calls.
+
+**Maddy Martin:** So every time they get a call summary, they have the opportunity to provide feedback.
+
+**Maddy Martin:** I think there's 20,000 pieces of feedback in there.
+
+**Maddy Martin:** And that is gold.
+
+**Maddy Martin:** Like, there's so many scenarios around, like, what do I want my caller to do?
+
+**Maddy Martin:** Like, we could take all of those and say, what are the themes here?
+
+**Maddy Martin:** What are the desires and needs of that business owner that are reflected in their review commentary, right?
+
+**Maddy Martin:** Like, that's a blog post for a lot of those.
+
+**Maddy Martin:** And then giving industry scenarios, et cetera.
+
+**Maddy Martin:** Absolutely.
+
+**Maddy Martin:** Yeah.
+
+**Megan Dickey:** Yeah, no, that, yeah, that, that, that all sounds great.
+
+**Megan Dickey:** Yeah, I, yeah, Elvis shared with me that doc, I still have to dive a little bit deeper into it.
+
+**Megan Dickey:** But yeah, just kind of looking through all those, all those calls.
+
+**Megan Dickey:** Yeah, it, it really is a goldmine that we can do, that we can do a lot with.
+
+**Maddy Martin:** Awesome.
+
+**Maddy Martin:** So, yeah, I think just how we approach that is really critical to work really closely together on how we're going to approach programmatic content.
+
+**Maddy Martin:** Deep mode that we're going to do, you know, prefix, suffix, like how are we going to approach programmatic in a way that's scalable because we're going to need to produce a wide range of content and not go too deep on certain things.
+
+**Maddy Martin:** And in others, we need to go deep.
+
+**Maddy Martin:** In others, we need to have the glossary, right?
+
+**Maddy Martin:** So we need to properly size these things so that they don't take too long, but that they are comprehensive enough.
+
+**Maddy Martin:** And I think that's where the AI helps us.
+
+**Maddy Martin:** Yeah, absolutely.
+
+**Megan Dickey:** Absolutely.
+
+**Maddy Martin:** You're on mute, Elvis.
+
+**Maddy Martin:** It doesn't look like you're on mute, but I can't hear you.
+
+**Elvis Goren:** You guys hear me now?
+
+**Elvis Goren:** Yeah, we can hear you.
+
+**Elvis Goren:** it's my headphones.
+
+**Elvis Goren:** Yeah, oddly enough, I was working last week on a couple of topics about the differences between AI receptionists and human-backed and then AI and VR.
+
+**Elvis Goren:** So it's funny that you mentioned that. I was just working on that.
+
+**Elvis Goren:** Just to stay on top, because our agenda is kind of wide topic, I'll continue on this.
+
+**Elvis Goren:** I did get a chance to go through a bunch of that stuff, and I just started putting together kind of a GEO way, like a strategy, and this is what we're starting from, basically trying to figure out lanes, right?
+
+**Elvis Goren:** Because there's a lot of different types of content that we have, and I basically, you know, I input all, you know, all of the call information, I input all of the data that we have, and just to try to put a kind of coherent strategy together.
+
+**Elvis Goren:** I know this isn't perfect, but with more time with all those docs, I think we'll have something better.
+
+**Elvis Goren:** Like, for example, like the lane, I know this is all very like product focused, right?
+
+**Elvis Goren:** In terms of, you know, how to build an AI receptionist from scratch.
+
+**Elvis Goren:** The prompt engineering side of it, you know, conditional logic, like the stuff that you had in that doc.
+
+**Elvis Goren:** We'll review this.
+
+**Elvis Goren:** The other one is a complete overview of the yellow box notes.
+
+**Elvis Goren:** So I had a question on this particularly for stuff like this is really good, right?
+
+**Elvis Goren:** In terms of these individual items, is this something that we can simply feed an LLM and create topics?
+
+**Elvis Goren:** Like if I look at this and I see schedule versus transfer logic, I'm sure that if you say, you know, if we have a template, you know, this is what the article is.
+
+**Maddy Martin:** I can provide examples of every single one of these that are categorized.
+
+**Maddy Martin:** So that's what I was talking about.
+
+**Maddy Martin:** Like in ClickUp, I will provide to you.
+
+**Maddy Martin:** I'm just going to export it from ClickUp just depending on what layout I can use because exports suck from ClickUp sometimes.
+
+**Maddy Martin:** I will try and get you all the data in a well-formatted way.
+
+**Maddy Martin:** I'll give you a preview now, actually.
+
+**Maddy Martin:** Let me just go in there and show you what I'm talking about.
+
+**Elvis Goren:** My biggest question here is, because I can certainly take the baton and run with this, but if there are certain things that we want to mention, I need to provide context.
+
+**Elvis Goren:** Right.
+
+**Elvis Goren:** Exactly.
+
+**Elvis Goren:** Okay.
+
+**Elvis Goren:** So we do want to do that.
+
+**Maddy Martin:** Well, even, I mean, like custom color types, like that's not going to be a topic because it's really like, how do you handle custom color types?
+
+**Maddy Martin:** What is the sensitivity of the pro?
+
+**Maddy Martin:** Like, what do they need that's driving us to create a workaround solution?
+
+**Maddy Martin:** And that's why you'll see, I'm just going to share my screen for a second.
+
+**Maddy Martin:** The workaround tracking list is what we're calling it for the yellow box notes, because basically the yellow box is an override on the prompt for the AI agent to do or not do something that it might otherwise do. There's a general instruction, and then we have to create a unique prompt on top of the standard prompt that guides it in a more specific way.
+
+**Maddy Martin:** That's why it's called a workaround, but these are fairly productized at this point.
+
+**Maddy Martin:** So let me go through an example.
+
+**Maddy Martin:** So let's say, and this is like basically a feature request.
+
+**Maddy Martin:** So don't consider it like a workaround for a bug.
+
+**Maddy Martin:** But if I open this, basically, if the caller type is an insurance, sorry, if the caller type is a new lead and their insurance company is one of these, so we must capture and ask for that information, then we follow the instructions for the basically disqualification service offered playbook.
+
+**Maddy Martin:** So it doesn't, like, you're not going to go and look up Dental Smile.
+
+**Maddy Martin:** Savers, because I'm not going to provide to you the name of the pro necessarily, maybe just the industry.
+
+**Maddy Martin:** We can figure that out because this is very, obviously we signed an NDA, but you need to just be very careful, right, that we don't cite any example here specifically.
+
+**Maddy Martin:** So here's another example, like they want us to skip the reason at the end of the call.
+
+**Maddy Martin:** So ignoring instructions about gathering the reason for the call.
+
+**Maddy Martin:** So if it wasn't clear in the conversation, this pro is sensitive to the AI asking like, you know, is there any additional information, you know, that I need to capture?
+
+**Maddy Martin:** They just don't want the AI to be that chatty, right?
+
+**Maddy Martin:** And to have the call persist for any amount of time longer than it has to capture their information.
+
+**Maddy Martin:** So again, that's a sensitivity.
+
+**Maddy Martin:** Like some people.
+
+**Maddy Martin:** People want the AI to be really conversational.
+
+**Maddy Martin:** Others want it to be more like, you know, an IVR.
+
+**Maddy Martin:** Pipe doctor, if they mention that they have an oil heater or need any work related to an oil heater, inform the pipe doctor doesn't service oil heaters.
+
+**Maddy Martin:** So that's because other services they provide might sound like or feel like that to the AI, and we have to specifically call that out.
+
+**Maddy Martin:** So what this allows us to do in the general theme is that any setup of general instructions can be modified down to a very specific level to ensure that the caller experience and the pro experience is exactly how it should be.
+
+**Maddy Martin:** Because you can imagine building all these things into the product itself requires an immense amount of complexity.
+
+**Maddy Martin:** But what we want to convey is that we have the ability to be handling that complexity, and it's not on you to be the...
+
+**Maddy Martin:** Logic Master, like we actually have all the controls we need to adjust this to your specs.
+
+**Maddy Martin:** So, and let me zoom out a little bit more.
+
+**Maddy Martin:** The companies that allow this level of customization, you basically have to be an engineer in order to configure your account.
+
+**Maddy Martin:** And the companies that don't offer it are just very limited in their feature set. What we're saying here is that you should expect to be able to do all these things with an excellent AI answering service that can offer this level of customization. We're actually going to publish these from a product standpoint as capabilities, but from an SEO standpoint, your role is to make sure that we communicate those use cases more broadly so people searching for doing certain things with AI understand that we're capable of doing it.
+
+**Maddy Martin:** And get the guidance that they need.
+
+**Maddy Martin:** Yeah.
+
+**Elvis Goren:** Sorry, I was just making a note.
+
+**Elvis Goren:** Can you explain to me what the difference is between, sorry.
+
+**Elvis Goren:** And I will provide this to you so you can read this all separately.
+
+**Maddy Martin:** Sorry, I just had a bunch of questions.
+
+**Elvis Goren:** I'm trying to remember.
+
+**Elvis Goren:** Okay.
+
+**Elvis Goren:** You said where other software, you basically needed an engineer to do this.
+
+**Elvis Goren:** So with your solution, you're just saying you need to have some decent prompting skills, basically.
+
+**Elvis Goren:** No, you don't.
+
+**Elvis Goren:** We do all this for you.
+
+**Elvis Goren:** Okay.
+
+**Maddy Martin:** What we're trying to convey is that Smith.ai is the expert and we're also the implementer.
+
+**Maddy Martin:** So, and even if you're a marketing agency, right?
+
+**Maddy Martin:** Like you want to sell this to your clients, but you don't want to be the one responsible for setting up and maintaining it.
+
+**Maddy Martin:** We will do all of that.
+
+**Maddy Martin:** It's completely white glove.
+
+**Maddy Martin:** If you look at a company like Phonely, for example, and you get in and you do a free trial, they're going to show you.
+
+**Maddy Martin:** A space that looks like Figma, if you know Figma or FigJam, like it's a big grid.
+
+**Maddy Martin:** You can do whatever you want.
+
+**Maddy Martin:** You can attach all your different nodes and buyer beware because logic is really hard when you start going down all these different paths that you're not trapping someone down one path, right?
+
+**Maddy Martin:** So what this allows us to do is be the experts, implement the solution, and all you did is you told us what you need.
+
+**Maddy Martin:** And we know the logic in the back end that needs to be adjusted, right?
+
+**Elvis Goren:** So you're saying that there's an initial prompt set up basically saying, like, here are all the rules, here are our office hours, et cetera?
+
+**Maddy Martin:** Let me get into the product and show you.
+
+**Elvis Goren:** I'm trying to differentiate what the YBN is versus what the original instructions are.
+
+**Elvis Goren:** So I'm trying to understand from a technical standpoint — what is it?
+
+**Maddy Martin:** The prompt is not the override.
+
+**Maddy Martin:** The prompt is, so there's a few different prompts.
+
+**Maddy Martin:** There are prompts.
+
+**Maddy Martin:** An agentic model is a big topic we should define and talk about separately. ChatGPT can give you good examples, and I can help with that.
+
+**Maddy Martin:** So the agentic model has basically different roles for different AI agents.
+
+**Maddy Martin:** So you would have the general ethos of the AI, right?
+
+**Maddy Martin:** Like how do you approach phone calls?
+
+**Maddy Martin:** And then how do you approach phone calls for this particular client?
+
+**Maddy Martin:** And then you can even get down into an agentic model that has a scheduling AI agent, a new lead intakes AI agent, an existing caller client intake, you know, a customer service agent, right?
+
+**Maddy Martin:** So you could have all those different agents playing different roles on the same call, all with the same voice. You never know they're switching.
+
+**Maddy Martin:** But what we have is a general prompt, and then we have prompts that address the specific needs of this particular prospect.
+
+**Maddy Martin:** So this is just my demo account for Paws and Claws Vet Clinic.
+
+**Maddy Martin:** And you can see here that we can complete this for you, or you can complete it yourself, right?
+
+**Maddy Martin:** It's completely white glove.
+
+**Maddy Martin:** We have the general information that we're collecting. For example, are you calling on behalf of someone else? This is typical for attorney clients where someone might be calling on behalf of an elderly parent or child, or someone who doesn't speak English.
+
+**Maddy Martin:** Location-based qualifications, so you can put in counties, cities, whatever.
+
+**Maddy Martin:** Service-based qualification, so if you're that plumber and you mention certain things that you work on and others, then that would be listed here for a vet clinic, it's types of animals.
+
+**Maddy Martin:** But you could also offer, you know, diagnostic, testing, MRI, like, you know, that would be unique.
+
+**Maddy Martin:** Okay, so that's just...
+
+**Maddy Martin:** How it's been done in here.
+
+**Maddy Martin:** And then at each step, these are qualification steps.
+
+**Maddy Martin:** So if they're not in that area, then they're disqualified. If they have an animal we don't service, then they're disqualified.
+
+**Maddy Martin:** So these are qualification steps.
+
+**Maddy Martin:** And then we have custom qualifications.
+
+**Maddy Martin:** So did you receive a referral from a veterinarian?
+
+**Maddy Martin:** Yes.
+
+**Maddy Martin:** The answer must be yes or no.
+
+**Maddy Martin:** And you can determine which answer qualifies the caller. For example, if they don't agree to a consult fee, they would be disqualified.
+
+**Maddy Martin:** So these are just some examples.
+
+**Maddy Martin:** Again, it's a test account.
+
+**Maddy Martin:** I would never have every caller be asked that, right?
+
+**Maddy Martin:** And then what else should we collect?
+
+**Maddy Martin:** So this is important.
+
+**Maddy Martin:** You have the qualification step, and then you have the data collection step, which is separate from up above.
+
+**Maddy Martin:** You're collecting their name, email, et cetera.
+
+**Maddy Martin:** Here, we're collecting, like, do you have pet insurance?
+
+**Maddy Martin:** What's the pet's name?
+
+**Maddy Martin:** It's not a qualification step because if it's Mickey versus Lincoln, then, you know, it's okay.
+
+**Maddy Martin:** No one's judging you.
+
+**Maddy Martin:** But we need to collect that information to know, like, are you going to be presenting health insurance at this time or no?
+
+**Maddy Martin:** Who are we booking the meeting for, right?
+
+**Maddy Martin:** What should we do next?
+
+**Maddy Martin:** You can take a message.
+
+**Maddy Martin:** You can transfer the call.
+
+**Maddy Martin:** You can schedule an appointment.
+
+**Maddy Martin:** And the options that you have available to you as a user or as our team setting this up for you are to transfer to a team member.
+
+**Maddy Martin:** You can put the phone number and the name to schedule an appointment.
+
+**Maddy Martin:** You would just put the calendar URL.
+
+**Maddy Martin:** And our human agents handle that currently, but we will have very soon AI agents who are doing that scheduling.
+
+**Maddy Martin:** No other competitor in the market has AI scheduling except for, like, one other direct integration with a home services CRM, which is called Service Titan.
+
+**Maddy Martin:** So this is going to be a really big game changer changer for.
+
+**Maddy Martin:** For us.
+
+**Maddy Martin:** But right now, what no other competitor also has is a pool of human agents.
+
+**Maddy Martin:** So we're able to do more on these calls.
+
+**Maddy Martin:** can take payments.
+
+**Maddy Martin:** We can have that human agent take over.
+
+**Maddy Martin:** If it's an escalation or they say, I want to talk to a human, every other competitor is just going to have to either transfer to the team and they're not going to be available probably or take a message.
+
+**Maddy Martin:** Sorry.
+
+**Elvis Goren:** That was one of my questions, Maddy. So when transferring to a human, do they get transferred to your internal team or to the client's staff?
+
+**Maddy Martin:** Clients will have the options shortly of transferring to their staff if they prefer it.
+
+**Maddy Martin:** That's a feature we're releasing.
+
+**Maddy Martin:** From a content standpoint, you don't have to be tethered to our actual delivery. Expect that all these things are possible.
+
+**Maddy Martin:** If you're building it, how would you build it? If it's available, how would it be available? I would recommend building a custom GPT.
+
+**Maddy Martin:** And that you build actually a custom GPT that is like the persona of an AI prompt engineer, like an AI engineer that really can understand the extent of capabilities that are within, you know, Claude, right?
+
+**Maddy Martin:** And within 11 labs and within these tools that we see these AI companies using and that we ourselves may use.
+
+**Maddy Martin:** So, like Twilio, you know, obviously that's the backbone of the phone text infrastructure.
+
+**Elvis Goren:** So the scheduling right now, you said, because you guys have obviously a lot of integrations with like HubSpot and Calendly.
+
+**Elvis Goren:** So where does the AI receptionist appointment scheduling go now?
+
+**Elvis Goren:** If you said it's not like a direct, oh, I want to book a plumbing visit at address, like, so it doesn't fill out a calendar right away.
+
+**Elvis Goren:** What's the task?
+
+**Maddy Martin:** No, we use the human for that.
+
+**Maddy Martin:** So they transfer.
+
+**Maddy Martin:** to our agent, the agent takes, the live agent takes that calendar information and schedules it for them.
+
+**Maddy Martin:** So they will get an invite.
+
+**Maddy Martin:** They will be booked for that.
+
+**Elvis Goren:** Okay.
+
+**Elvis Goren:** Yeah.
+
+**Maddy Martin:** The AI, the AI only scheduling is what we're still releasing.
+
+**Maddy Martin:** But for your purposes, like that is possible.
+
+**Maddy Martin:** And the way that it would work is that the AI contacts the API, you know, through a web hook for that CRM.
+
+**Maddy Martin:** And it says, give me availability.
+
+**Maddy Martin:** And then the AI reports back on that.
+
+**Maddy Martin:** It's basically like text-to-speech and speech-to-text with some process in between, right?
+
+**Elvis Goren:** And it understands availability.
+
+**Maddy Martin:** It regurgitates that availability.
+
+**Maddy Martin:** It understands like what within that frame do the caller say that they can do.
+
+**Maddy Martin:** And then it secures that spot and, you know, ideally books the appropriate tech based on the other information we took on that call, which is location and, you know, job type, et cetera, right?
+
+**Maddy Martin:** So for home services, there's some other factors.
+
+**Maddy Martin:** If you were going to book a meeting on Calendly, you just need to be a human being who's going to show up to a meeting virtually or not, right?
+
+**Maddy Martin:** So the more technical trades, like having a roofer or a pool installer or a solar person come to your house, it's more logistical, right?
+
+**Maddy Martin:** If it's an online consult, there's no logistic to show up to the call on that time, right?
+
+**Maddy Martin:** Yeah.
+
+**Maddy Martin:** I know we're running a bit out of time.
+
+**Elvis Goren:** This has been invaluable for me.
+
+**Elvis Goren:** I think I have a lot of ideas once we start.
+
+**Elvis Goren:** Yeah, that's just a new caller.
+
+**Maddy Martin:** That's just like a new client type of caller.
+
+**Maddy Martin:** We have other types of callers with different sets of instructions.
+
+**Maddy Martin:** Yeah.
+
+**Elvis Goren:** Before I forget, I had a question to ask.
+
+**Elvis Goren:** Do you have any like call samples, like even in MP3 files that we can embed in the content that we're creating just to break up and add some color to the content?
+
+**Elvis Goren:** Yeah.
+
+**Elvis Goren:** that would be.
+
+**Elvis Goren:** Yeah.
+
+**Maddy Martin:** You can also make your own, right?
+
+**Maddy Martin:** Like we have a lot of.
+
+**Maddy Martin:** Demo lines.
+
+**Maddy Martin:** So send demo lines.
+
+**Maddy Martin:** I will also connect you to Danielle, who can, she's our marketing assistant.
+
+**Maddy Martin:** She can make any demo that you need.
+
+**Maddy Martin:** So she can literally like build any account with whatever parameters you want and just send you the phone number for that.
+
+**Maddy Martin:** And you can make those phone calls.
+
+**Maddy Martin:** If you encounter certain things, which you might like, there's latency or it doesn't sound great for whatever reason, because it's still emerging technology, then we can have a different approach, you know, of recording something that's really polished.
+
+**Maddy Martin:** Just depends on like what your, what your output is.
+
+**Maddy Martin:** But we're doing work on that all the time and done a ton of work on that.
+
+**Maddy Martin:** But sometimes you have three seconds of latency and it feels like you're waiting forever for the AI, even though it's only three seconds. We have new demo lines available.
+
+**Maddy Martin:** I will add Danielle and clarify that she is available to help you with new demo lines on your request. Let me just show you what we have available.
+
+**Elvis Goren:** I don't want to add more to people's plates.
+
+**Elvis Goren:** Oh, it's fine.
+
+**Elvis Goren:** She does that for the AEs.
+
+**Maddy Martin:** So as long as she's available, she can do that for you.
+
+**Maddy Martin:** Yeah, cool.
+
+**Elvis Goren:** I would like to just see if there are samples currently, if there's not enough.
+
+**Elvis Goren:** Even if there's five that's something that we can sprinkle throughout the content, if it works, if it's logical, I think there should be something else, which I'd love to test it out anyways.
+
+**Maddy Martin:** We also have demo voices and things like that.
+
+**Maddy Martin:** So listen to the AI.
+
+**Maddy Martin:** You might want to pepper things like that in.
+
+**Elvis Goren:** Yeah, exactly.
+
+**Maddy Martin:** Keep in mind that we're changing voice providers, so we won't be able to update everything every time something updates. I'll send all those things to you and mention it in the channel as well.
+
+**Elvis Goren:** That'd be awesome. I mean, obviously, we'd like to demo what we're doing.
+
+**Elvis Goren:** I totally agree.
+
+**Maddy Martin:** And I think, you know, there's just a lot of fakery out there.
+
+**Maddy Martin:** But really, the most important thing is to prove it.
+
+**Maddy Martin:** So even if there is a little latency, like, the likelihood that someone is going to hear that demo on a blog post and not choose Smith.ai, like, it's very low.
+
+**Maddy Martin:** It's more likely that the LLMs in Google will pick up all this content and we will keep showing up as a result.
+
+**Maddy Martin:** And before they get through the content, they'll determine if they want to, you know, pursue Smith.ai.
+
+**Elvis Goren:** Yeah, the other thing.
+
+**Elvis Goren:** At the very least, we can retarget them.
+
+**Elvis Goren:** Like, it's just about audience building.
+
+**Elvis Goren:** Totally.
+
+**Elvis Goren:** The other thing, Maddy, is time on page. I always get ads for different AI receptionists now, and I listen to the entire call.
+
+**Elvis Goren:** It'd be cool to have listeners actually try a call themselves. That keeps people engaged and on the page.
+
+**Maddy Martin:** Yeah, and we can embed those phone numbers.
+
+**Maddy Martin:** We have prior art, by the way, like, if you look at our, the AI receptionist page, like, those phone numbers that are there, I mean, we can just, you can use different phone numbers.
+
+**Maddy Martin:** You can say, call this number, and all those are demo lines.
+
+**Maddy Martin:** So I love the idea of offering, like, you know, try it.
+
+**Elvis Goren:** Yeah, I think we have to. Okay, so we're a bit over time.
+
+**Elvis Goren:** Our next steps, we're going to refine this strategy.
+
+**Elvis Goren:** My goal is to find a programmatic play on it that's more structural, like prefix, suffix type of thing.
+
+**Elvis Goren:** If we can do it, because there's a lot of content here.
+
+**Elvis Goren:** And the glossary and things like that.
+
+**Maddy Martin:** Yeah.
+
+**Maddy Martin:** Right, but at least, like, let's do.
+
+**Elvis Goren:** Step one and two, that's going to give us content for a month, two months, and then, because I want to get this stuff going right away and not put a whole thing together before I just want to chunk it out so that we can actually execute right away, set that up, and we'll present something.
+
+**Elvis Goren:** I'll present something for you next week since Megan's going to be away. Another thing is we're now more able to flexibly set up workflows for different streams. The idea is something like "how to create your own AI agent to [X]" where the blank can mean different things depending on the use case.
+
+**Elvis Goren:** So we can, so I would be able, I would be set up that prompt internally, and our eng team will actually build out that workflow so that each new topic is following the, we're just able to scale it, right?
+
+**Elvis Goren:** So it's following structure. The workflow gets reused for each new topic.
+
+**Maddy Martin:** When you ask that question, the number one thing in my mind is: who is that person we're writing for?
+
+**Maddy Martin:** Are we writing for an engineer? Probably not. We want to write for the business owner who doesn't want to do it themselves, but wants to have an educated discussion with whoever's implementing it for them — like us.
+
+**Maddy Martin:** So they're technically savvy, technically curious, right?
+
+**Maddy Martin:** Like they're a little bit more risk loving than the average, you know, Joe, who's their peer, right?
+
+**Maddy Martin:** They're just a notch ahead of their competition, right?
+
+**Maddy Martin:** So they want you to use the term, but they want you to like do it in relatable language and they're not an engineer.
+
+**Maddy Martin:** So how do I build a scheduling bot for my law firm?
+
+**Maddy Martin:** Right, right, right, exactly.
+
+**Elvis Goren:** Yeah.
+
+**Elvis Goren:** Because I think engineers or technically savvy people are certainly not searching that way.
+
+**Elvis Goren:** They're looking for...
+
+**Elvis Goren:** And they're not the buyers, right?
+
+**Elvis Goren:** They're not the buyers.
+
+**Elvis Goren:** They're looking for specific things like how to set up a web hook or how to set up API keys and how to...
+
+**Elvis Goren:** Exactly.
+
+**Maddy Martin:** And we want to get into that topic.
+
+**Maddy Martin:** Like as an expert, like as like the thought leader in this space, but we can talk about that separately.
+
+**Maddy Martin:** It's not how do I, it's more like, you know, what is the ideal voice platform for AI agents?
+
+**Maddy Martin:** Like compare 11 Labs and Bappy and some of these other, right?
+
+**Maddy Martin:** Like that is also one of the things that we see marketing agencies starting to get into is like they're thinking about building their own and they are exploring things like that.
+
+**Maddy Martin:** Like some marketing agencies, even ones that we work with, they have like a technical officer who is the one exploring those tools, right?
+
+**Maddy Martin:** They're the ones that would have built a chat bot five years ago, right?
+
+**Maddy Martin:** Yeah.
+
+**Elvis Goren:** And how are they using?
+
+**Maddy Martin:** They're building some of their own agents and then they realize they don't want to maintain and do the upkeep and all that.
+
+**Maddy Martin:** So then they come to us.
+
+**Maddy Martin:** So is the idea to have them for the marketing?
+
+**Elvis Goren:** Cause that one, maybe that's a topic for another day.
+
+**Elvis Goren:** Cause it's a little unclear to me.
+
+**Elvis Goren:** Like I understand they want to build.
+
+**Elvis Goren:** So is the idea for that to have topics that are how to build, you know, be, I mean, be a thought leader.
+
+**Maddy Martin:** Which voice, which voice provider should I use for my AI scheduling agent, right?
+
+**Maddy Martin:** Like, what's the, what are the differences between Eleven Labs and Bappy?
+
+**Maddy Martin:** What are the other, you know, choices available to me, right?
+
+**Maddy Martin:** Like, they might search for Bappy competitors.
+
+**Maddy Martin:** They might search for Eleven Labs comparison, right?
+
+**Maddy Martin:** And we could even write content on that front.
+
+**Maddy Martin:** But we're not going to be G2.
+
+**Maddy Martin:** Like, I'm not going to take bites out of that elephant.
+
+**Maddy Martin:** I just know that they're going to, G2 is very spread thin, right?
+
+**Maddy Martin:** So they're not going to write everything, but their data is going to be structured in the way that Google favors them.
+
+**Maddy Martin:** And, you know, so did the LLMs.
+
+**Maddy Martin:** So we.
+
+**Maddy Martin:** We to do something that's uniquely in our camp where we can win because either we're, the reason that LLMs are explaining things the way that they are, like they're literally trying to copy how we say it, we are the source, which can also be a source of backlinks, right?
+
+**Maddy Martin:** I mean, not technically today, but it will be, and, well, it's in Scrunch, or it will be like directly like Smith.ai is the authority on this, and they will cite us overtly, right?
+
+**Maddy Martin:** Yeah.
+
+**Maddy Martin:** So those are like the three levels that I see.
+
+**Maddy Martin:** Either we're informing like what they actually know, we're being cited, which is related to that, or we're directly quoted or referenced, right?
+
+**Maddy Martin:** Meaning like, well, Smith.ai says this, or Smith.ai is the authority on this, right?
+
+**Maddy Martin:** Being named, right?
+
+**Maddy Martin:** So the marketing agencies are an angle, but it's not a primary.
+
+**Maddy Martin:** Okay, good to know.
+
+**Elvis Goren:** Generally, you're looking at the business owner persona that we went through in the company brief.
+
+**Maddy Martin:** Like, that still stands.
+
+**Maddy Martin:** Good.
+
+**Maddy Martin:** Okay, that makes sense.
+
+**Elvis Goren:** Megan, anything?
+
+**Megan Dickey:** Yeah, no.
+
+**Megan Dickey:** I mean, this has all been super helpful.
+
+**Megan Dickey:** And, yeah, just even having that demo walkthrough was super helpful.
+
+**Megan Dickey:** Yeah, there's a lot more.
+
+**Maddy Martin:** That's just the iceberg.
+
+**Megan Dickey:** For sure.
+
+**Megan Dickey:** Yeah, like, and just clarifying, with what you were showing us earlier with, like.
+
+**Megan Dickey:** That click-up list.
+
+**Maddy Martin:** Yeah, yeah.
+
+**Megan Dickey:** And so I guess I'm wondering, like, where does that information come from in the, like, like, are people giving that feedback, like, at the end of a call?
+
+**Maddy Martin:** Yes.
+
+**Maddy Martin:** So that's the thing to tie in the customer thermometer to all of this.
+
+**Maddy Martin:** Right.
+
+**Maddy Martin:** Here is the progression.
+
+**Maddy Martin:** Someone sets up their account.
+
+**Maddy Martin:** They say, we have this caller type, and we want our calls handled this way.
+
+**Maddy Martin:** And because a small business owner does not document any of this stuff, they're sort of learning it as they're building it.
+
+**Maddy Martin:** So they set up their first receptionist service ever, right?
+
+**Maddy Martin:** Or they used to have a message taker and now we can do more.
+
+**Maddy Martin:** So they're thinking, well, how well can we have these calls handled?
+
+**Maddy Martin:** What does my internal team do?
+
+**Maddy Martin:** Well, they haven't documented it, right?
+
+**Maddy Martin:** The receptionist just answers the calls and they just expect that, well, that person knows all the things, right?
+
+**Maddy Martin:** So we have a huge inventory of FAQ.
+
+**Maddy Martin:** But then what's going to happen is they're going to see a call summary and they're going to rate it.
+
+**Maddy Martin:** And that rating allows you to add a comment.
+
+**Maddy Martin:** And next time, just make a note, Elvis, I can show you how that entire system works.
+
+**Maddy Martin:** But they provide a comment and then in the spreadsheet that I gave you of red light, green light, yellow light, they're going to provide a comment to that context.
+
+**Maddy Martin:** They don't have to provide a comment, but they do.
+
+**Maddy Martin:** And then we can take that and say, well, how are we going to solve for this problem or opportunity?
+
+**Maddy Martin:** It might have been in green light and they might have also said, we'd love it if you could do X, Y, and Z.
+
+**Maddy Martin:** And then we either.
+
+**Maddy Martin:** We can do it in the product, or we have this little extra widget that sits on top of the infrastructure that says, I'm really the extra control arm, and when this happens, do this.
+
+**Maddy Martin:** So don't follow the instructions.
+
+**Maddy Martin:** In this scenario, you've got an override, a workaround, right?
+
+**Maddy Martin:** But to the public, we're not saying workaround, we're saying capability, because who cares how we get it done?
+
+**Maddy Martin:** We get it done, right?
+
+**Elvis Goren:** Right, right.
+
+**Megan Dickey:** Yeah, an example of that would be super cool, but yeah.
+
+**Maddy Martin:** Yeah, there are plenty of examples.
+
+**Maddy Martin:** That'll be in what I send you.
+
+**Maddy Martin:** Awesome.
+
+**Elvis Goren:** I'm so happy you shared all that stuff with us, because I actually get- need the context, because we're getting in the weeds really good.
+
+**Elvis Goren:** That gave me a really intimate view of how it works, which is helpful for writing and proofing content. Let me just digest this for now, and then we'll figure out the rest.
+
+**Elvis Goren:** I'm like, yeah, I'm super excited for this, and we'll ramp the content back up, because once we build the workflows, I think it's just going to be a lot smoother once we have all that context.
+
+**Elvis Goren:** And, yeah, I'm pretty pumped.
+
+**Elvis Goren:** Like, this all looks really awesome to me.
+
+**Elvis Goren:** we've got a lot that we want to produce.
+
+**Maddy Martin:** I think I was looking at the Airtable.
+
+**Maddy Martin:** It said we had almost, like, 200 articles or something like that.
+
+**Elvis Goren:** Yeah, there's more, like, in the backlog of it.
+
+**Elvis Goren:** So we're just, yeah, so.
+
+**Maddy Martin:** I think the most important thing we can do is be first. The main question we have is speed combined with reasonable accuracy.
+
+**Maddy Martin:** So who on your team is going to be able to validate, or can you build a bot to validate, like, that it's reasonably good content that's correct, you know?
+
+**Maddy Martin:** So that we don't contradict what LLMs and Google otherwise would find to be true, because that will diminish our authority.
+
+**Maddy Martin:** That's my only concern.
+
+**Elvis Goren:** Maddy, there's a two-pronged approach.
+
+**Elvis Goren:** I'm sorry for keeping you over. I have a meeting I can skip.
+
+**Elvis Goren:** There's two content approaches here, like guiding the LLMs, like all of these new opportunities that we have, like the comparisons, right?
+
+**Elvis Goren:** Like we get to lead the conversation.
+
+**Elvis Goren:** That's kind of its own, like, okay, we can have 50 topics from there.
+
+**Elvis Goren:** And then the other part of the content is, like, the PSEO side of things and the more technical and the weed stuff.
+
+**Elvis Goren:** So just as I'm just thinking out loud, I think we want to identify that low-hanging fruit and those topics that people are asked, like, what is VR versus AI receptionist?
+
+**Elvis Goren:** Or can I use 11 labs for this?
+
+**Elvis Goren:** Like, they're a bit, they're a bit, like, on the side from, like, what our programmatic approach would be.
+
+**Elvis Goren:** So I'll separate those out. The editorial side of things is one approach, and the programmatic SEO side is another. Does that make sense?
+
+**Elvis Goren:** I think so.
+
+**Maddy Martin:** I think there are different ways to approach this. In the past, I've used categories — glossary, expert, business owner, AI agent — to define who we're writing for and what the topic is.
+
+**Maddy Martin:** Then you plug in content for each persona.
+
+**Maddy Martin:** Yeah.
+
+**Maddy Martin:** You know, and formats because glossary is not going to be a blog post.
+
+**Maddy Martin:** It's going to be a different format entirely.
+
+**Maddy Martin:** Right.
+
+**Maddy Martin:** Right.
+
+**Maddy Martin:** Totally.
+
+**Elvis Goren:** Yeah.
+
+**Elvis Goren:** No, this is, this helps like 200% from the last and from the, from the whole geo doc.
+
+**Elvis Goren:** So that's, I think there's, there's some themes though that I can provide you as a seed.
+
+**Maddy Martin:** So like I wrote a note to myself yesterday around like, what are some keywords that we want to become experts in around that topic?
+
+**Maddy Martin:** Cause if you're an AH refs, they tell you the topic, they don't.
+
+**Maddy Martin:** I'm you all the keywords, right?
+
+**Maddy Martin:** Like, so prompt modification, like call quality control or AI quality control.
+
+**Maddy Martin:** Like, need to be careful with that because it might not be call specific, right?
+
+**Maddy Martin:** Prompt engineering or re-engineering, call flow design, conversational UX.
+
+**Maddy Martin:** Like, those are all things that we're talking about, right?
+
+**Maddy Martin:** And then if you have those, then I would say, chat GPT, give me a hundred more themes that are of this type, right?
+
+**Maddy Martin:** Like, what am I missing if I'm going to build a thematic glossary and then I'm going to drill down into terms under those?
+
+**Maddy Martin:** It's like, those are the umbrellas of topics that we know are, like call flow design is perfect.
+
+**Maddy Martin:** It's just technical enough that a business owner can stumble into it and understand what you're talking about without it being a foreign language.
+
+**Maddy Martin:** People might not search for it directly, but they would understand it in context.
+
+**Maddy Martin:** The real benefit is that LLMs will understand these terms because we're writing about them. When people ask more basic questions, Smith.ai becomes the authority resource.
+
+**Maddy Martin:** It's like being the professor at the dinner party — the authority everyone turns to.
+
+**Elvis Goren:** Do you have that list handy? I'd like to load it down.
+
+**Maddy Martin:** It's in front of me on a piece of paper, but I will send it to you.
+
+**Maddy Martin:** That's awesome.
+
+**Megan Dickey:** Yeah, because based on the last call that y'all had that I wasn't on, I kind of like, I had Claude transcribe the call, and then I asked for some keywords, and some of those definitely came up, but I think, yeah.
+
+**Megan Dickey:** So then I loaded them into SEMrush, came up with like 200 plus keywords, but the issue that I was finding was that there's
+
+**Megan Dickey:** Not necessarily always a lot of search volume, but that said, but that said, it's like, if we're wanting to just focus more on LLMs, like it is kind of how people are talking to them.
+
+**Megan Dickey:** So like, I guess I'm, I'm wanting to clarify, like, even if there's not a ton of search volume, like, we should still go for it.
+
+**Maddy Martin:** Because it's coming.
+
+**Maddy Martin:** I can tell you just, if I look at Ahrefs, we had 500 visits on AI receptionist last quarter, and it was a, it was 100 the previous quarter.
+
+**Maddy Martin:** Like, and that's just coming to Smith.ai, right?
+
+**Maddy Martin:** Yeah, for sure.
+
+**Maddy Martin:** There's one keyword that probably looks like nothing.
+
+**Maddy Martin:** So there's a huge bum rush of traffic that's coming.
+
+**Maddy Martin:** And because the LLMs are confused about AI receptionist versus virtual receptionist, like, it's going to affect other already higher volume keywords is mine.
+
+**Maddy Martin:** You know what I mean?
+
+**Maddy Martin:** sure.
+
+**Maddy Martin:** Yeah, so we're making a bet.
+
+**Maddy Martin:** And yeah, absolutely.
+
+**Maddy Martin:** like a Honda maintenance, right?
+
+**Maddy Martin:** And you're going to get something on brake replacement because it's related, right?
+
+**Maddy Martin:** So how do we get in there early and establish that really strong foundation before the search queries are there?
+
+**Maddy Martin:** And then it's going to be way easier in six months when this becomes just massive.
+
+**Maddy Martin:** Absolutely.
+
+**Maddy Martin:** Cool.
+
+**Elvis Goren:** I think we should literally just do an article where the H1 is AI receptionist is not a virtual receptionist.
+
+**Elvis Goren:** Yeah, think that's a great idea.
+
+**Maddy Martin:** Like how they differ.
+
+**Maddy Martin:** Absolutely.
+
+**Maddy Martin:** absolutely.
+
+**Maddy Martin:** I'll do that, actually.
+
+**Elvis Goren:** Yeah.
+
+**Elvis Goren:** All right.
+
+**Elvis Goren:** Awesome.
+
+**Elvis Goren:** Yeah, that's good.
+
+**Elvis Goren:** that's, this is a- I got my homework.
+
+**Elvis Goren:** I'll send you all the stuff.
+
+**Elvis Goren:** Same.
+
+**Elvis Goren:** Cool.
+
+**Elvis Goren:** All right.
+
+**Elvis Goren:** Thanks, everyone.
+
+**Elvis Goren:** Okay, bye.
+
+**Elvis Goren:** See you guys.
+
+**Megan Dickey:** Cool.
+
+**Megan Dickey:** Yeah.

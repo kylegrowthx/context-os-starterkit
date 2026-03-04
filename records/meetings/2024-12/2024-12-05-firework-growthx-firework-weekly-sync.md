@@ -1,0 +1,38 @@
+# [Firework] GrowthX <> Firework - Weekly Sync
+
+<metadata>
+date: 2024-12-05
+time: 15:00 ET
+duration: 30 minutes
+organizer: marcel@growthxlabs.com
+attendees: Can Ozdoruk (can@fireworkhq.com), Marcel (marcel@growthxlabs.com), Yi Jin (yi@fireworkhq.com), Yi (yi@yaaspartners.com), Jimmy Pal (jimmy@growthxlabs.com), Akash Cillanki (akash.cillanki@fireworkhq.com), Prateek (prateek@growthxlabs.com), Jorge Leon (jorge.leon@fireworkhq.com), Andrej (andrej@growthxlabs.com), Cameron (cameron@fireworkhq.com)
+calendar_event_id: 1740453571bc48769d79b06c3d92ef48_20241205T200000Z
+has_transcript: false
+fireflies_id: 
+transcript_url: 
+transcript_file: 
+last_updated: 2026-02-26
+</metadata>
+
+---
+
+## Attendees
+
+| Name | Email | Role | Company | Contact File |
+|------|-------|------|---------|--------------|
+| Can Ozdoruk | can@fireworkhq.com | — | Fireworkhq | — |
+| Marcel | marcel@growthxlabs.com | Team | GrowthX | (internal) |
+| Yi Jin | yi@fireworkhq.com | — | Fireworkhq | — |
+| Yi | yi@yaaspartners.com | — | Yaaspartners | — |
+| Jimmy Pal | jimmy@growthxlabs.com | Team | GrowthX | (internal) |
+| Akash Cillanki | akash.cillanki@fireworkhq.com | — | Fireworkhq | — |
+| Prateek | prateek@growthxlabs.com | Team | GrowthX | (internal) |
+| Jorge Leon | jorge.leon@fireworkhq.com | — | Fireworkhq | — |
+| Andrej | andrej@growthxlabs.com | Team | GrowthX | (internal) |
+| Cameron | cameron@fireworkhq.com | — | Fireworkhq | — |
+
+---
+
+## Notes
+
+_No notes yet._

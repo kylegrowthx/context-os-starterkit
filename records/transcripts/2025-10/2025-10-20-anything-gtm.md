@@ -1,0 +1,1080 @@
+# Anything GTM
+
+<metadata>
+date: 2025-10-20
+time: 16:00 UTC
+duration: 47 minutes
+organizer: Erik O'Brien (GrowthX)
+participants: Dhruv Amin (Anything), Marcus Lowe (Anything), Zaria Zinn (Anything), Ben Heath (MVPR), Camille Oster (MVPR), Dawson Gibbs (Evo), Drew Mazza (Evo), Canyon Pergande (Sideshift), Leonel Acevedo (Anything), Guillaume Bardet (Anything), Kallie (Anything), Sachin Jha (OceanForYou), Justin Banusing (CloudKitchen), Adriel Yong (CloudKitchen), Shi (CloudKitchen), Eric Aaberg, Ameer Asghar (Trailblazer), Marzooq Asghar (Trailblazer), Katie Perry (UMM Strategy), Claire (UMM Strategy), Vince Mundy, Dylan (Create), Ava (Sideshift), Brandon (Evo), Marty (Evo)
+fathom_recording_id: 95338720
+fathom_url: https://fathom.video/calls/446685226
+share_url: https://fathom.video/share/Z5d7eDTd8r4D5ECp5HS2zGcR7EnWd9LZ
+source: fathom
+enriched_on: 2026-03-02 12:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Anything coordinated with 20+ external agencies and partners on a six-week sprint to grow from $3M to $40M ARR by December 4th, when HFZero's demo day will attract major Silicon Valley investors. Dhruv Amin outlined the company's growth strategy across TikTok/Instagram UGC, paid ads (Google and Meta), X (Twitter), LinkedIn, SEO, PR, and affiliate channels—with multiple teams assigned to each to test and scale aggressively. The team discussed product launches (iOS app, Anything Max at $200/month, RevenueCat integration) and the critical importance of cross-channel content reuse: TikTok UGC feeds Meta ads, press boosts SEO, customer stories centralize in Slack. With $11M Series A funding secured, cash is no longer a constraint—speed and execution are.
+
+---
+
+## Context
+
+Anything is an AI-powered no-code platform that lets non-technical entrepreneurs build and deploy full-stack web and mobile apps—without writing code. Founded by Dhruv Amin and Marcus Lowe, the company launched August 7th and grew to $3M ARR within two months. They closed $11M Series A in mid-September and are now in the HFZero accelerator, which concludes December 4th with a prestigious demo day featuring major Silicon Valley investors. This creates an extreme time pressure and funding opportunity: if Anything can demonstrate strong growth to $10M+ ARR by the demo day, they position themselves for an exceptionally large Series B raise. The company is positioning itself as the tool for entrepreneurs to make money—targeting non-technical founders, freelancers, and agencies who want to build and monetize applications. Anything Max is a $200/month autonomous software engineer feature. The team assembled 20+ external agencies and partners to rapidly test and scale growth channels simultaneously, viewing this six-week window as uniquely high-impact compared to any other growth period.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** GrowthX (via Ameer and Marzooq of Trailblazer) is leading SEO and content strategy for Anything, working alongside Ben Heath and Camille Oster of MVPR. This demonstrates demand for AI-powered no-code platforms from a content/SEO perspective and shows how top-of-funnel content strategy feeds into paid acquisition channels. The partnership underscores the value of content marketing to SaaS GTM—especially in hot categories like AI developer tools.
+
+- **To CheckThat:** Anything is an LLM-powered product in a white-hot space (AI agents, autonomous software engineer). The company's messaging around "reliability," "mobile-first," and "making money with AI" represents competitive positioning in a space CheckThat monitors (B2B software visibility). Their aggressive narrative-building and customer story compilation is worth tracking as a playbook for how emerging AI tools communicate value.
+
+- **To GrowthX Business Development:** This is a high-growth SaaS client in expansion mode. Ameer and Marzooq (Trailblazer, GrowthX's agency partner) are actively involved, and the partnership appears healthy and expanding—they're leading SEO/content strategy for the entire go-to-market push. Opportunity to strengthen the relationship by identifying adjacent services (PR/brand, paid ads strategy) or to reference this engagement as a case study of rapid B2B SaaS scaling in AI category.
+
+---
+
+## Overview
+
+- Anything aims to reach $40M ARR by December, driven by investor demo day opportunity
+- Focus on positioning Anything as the tool for entrepreneurs to build revenue-generating apps
+- Prioritizing rapid scaling of multiple channels, especially TikTok/IG, paid ads, and X (Twitter)
+- Centralizing customer success stories and narratives in \#story Slack channel for cross-channel use
+
+---
+
+## Key Topics
+
+### Company Context and Goals
+
+  - Anything launched August 7th, growing from 0 to $3M ARR
+  - Closed $11M Series A in mid-September
+  - Aiming for $40M ARR by December 4th (HFZero demo day)
+  - Cash no longer a constraint; focus on rapid, efficient growth
+  - Opportunity to potentially raise large Series B if execution is strong
+
+### Core Product and ICP
+
+  - Anything: AI-powered tool for building full-stack, mobile, and web apps without coding
+  - Key differentiators: reliability, best mobile app builder, all-in-one solution, polished designs
+  - Primary ICP: Non-technical, tech-adjacent internet entrepreneurs aiming to make money with apps
+  - Secondary ICPs include freelancers, agencies, and enterprise innovation teams
+
+### Key Product Features and Updates
+
+  - Anything Max ($200/mo): Autonomous software engineer for QA and bug fixing
+  - Upcoming iOS app launch (pending Apple approval)
+  - RevenueCat integration for mobile app monetization
+  - Potential partnerships with Wix and other platforms
+
+### Marketing Channels and Strategies
+
+1.  TikTok/Instagram:
+    
+      - Multiple teams working on UGC and influencer campaigns
+      - Seen as fastest potential scaling channel
+
+2.  Paid Ads:
+    
+      - Google Ads: Claire and Katie leading
+      - Meta Ads: Cloud Kitchen running initial campaign, Vince's team joining
+
+3.  X (Twitter):
+    
+      - Leo leading organic content and UGC creator program
+
+4.  LinkedIn:
+    
+      - Kaylee and Sachin managing organic content
+
+5.  Affiliates and Partnerships:
+    
+      - Guillaume managing affiliate program (30% revenue share)
+      - Contra partnership for expert marketplace launching in November
+
+6.  SEO and Content:
+    
+      - GrowthX and Trailblazer working on strategy
+      - Kaylee leading copywriting efforts
+
+7.  PR and Brand:
+    
+      - MVPR handling press relations
+      - Zaria leading brand redesign
+
+8.  Community and In-Person:
+    
+      - Zaria planning guerrilla marketing in San Francisco
+
+### Content and Narrative Focus
+
+  - Positioning Anything as the tool for entrepreneurs to make money with apps
+  - Emphasizing reliability, mobile capabilities, and all-in-one solution
+  - Showcasing customer success stories and revenue milestones
+  - Centralizing narratives and stories in \#story Slack channel
+
+---
+
+## Action Items
+
+**Dhruv Amin (Anything)**
+- Intro Evo (Dawson Gibbs, Marty, Drew Mazza) to Vince/team re: Meta ads; then Evo shares top UGC for Meta/Spark
+- Share meeting overview doc in #story
+- Add all GTM partners to #story; then post key narratives/launches/customer stories
+- Create and share Google Doc w/ latest users/ARR/apps; update regularly
+
+---
+
+## Transcript
+**Dhruv Amin:** Hey, how's it going, guys?
+
+**Dhruv Amin:** Good, how's it going?
+
+**Canyon Pergande:** Doing well, doing well.
+
+**Dhruv Amin:** I don't know how to get this up there.
+
+**Dhruv Amin:** Do you guys know?
+
+**Dhruv Amin:** Yeah, I do know.
+
+**Dhruv Amin:** Do you have the, um, it's a, oh, it's a Zoom.
+
+**Dhruv Amin:** Yeah.
+
+**Dhruv Amin:** It's easier when it's, we don't need to hear when I can put them in there.
+
+**Dhruv Amin:** Actually, I don't know how to do it when it's not.
+
+**Dhruv Amin:** Oh, my reaction is extremely lazy.
+
+**Dhruv Amin:** Letting everyone in.
+
+**Guillaume Bardet:** Hey, Hey, how's it gone?
+
+**Guillaume Bardet:** Good, how about yourself?
+
+**Dhruv Amin:** Good.
+
+**Canyon Pergande:** Good, good, good.
+
+**Dhruv Amin:** Just one second, guys.
+
+**Dhruv Amin:** trying to get a meeting room set up, situated, and then if not, we'll get it off the computer.
+
+**Guillaume Bardet:** No worries.
+
+**Canyon Pergande:** We're All right, no worries.
+
+**Dhruv Amin:** We'll just do it like this.
+
+**Dhruv Amin:** Sorry, can you be seen by any chance?
+
+**Canyon Pergande:** Let me put it up there real quick.
+
+**Dhruv Amin:** All right.
+
+**Dhruv Amin:** Welcome, everyone.
+
+**Dhruv Amin:** Actually, give me one second, need to admit, people, good to go.
+
+**Dhruv Amin:** All right, let's do this. We'll still see you guys.
+
+**Dhruv Amin:** Cool.
+
+**Dhruv Amin:** Well, welcome, everyone.
+
+**Dhruv Amin:** I just wanted to call this meeting together because I looked up, looked down, and realized that there's now 25 new people, kind of, as you can see from the meeting, across, like, anything and working on different parts of our DTM.
+
+**Dhruv Amin:** Just really fast, I think for this meeting, I'm going to try to give, like, an overview of us, our goals.
+
+**Dhruv Amin:** I think I've done individual sessions with lots of people here, but I think.
+
+**Dhruv Amin:** That sometimes the group seeing, you know, other things being worked on might give you more ideas of other ways of us setting the goal together, and like more ways we can work together kind of across the different things happening across anything.
+
+**Dhruv Amin:** And so I just wanted to make sure that that was coordinated.
+
+**Dhruv Amin:** Really fast, just like for intros on the three people that were like here before, we brought on everyone in the last like two weeks to a month.
+
+**Dhruv Amin:** I'm Dhruv, I'm one of the co-founders.
+
+**Dhruv Amin:** I'm taking on, standing up a lot of the other channels outside of what we've had organically.
+
+**Dhruv Amin:** This is my co-founder, Marcus.
+
+**Dhruv Amin:** Yep, Marcus, I run product engineering.
+
+**Dhruv Amin:** Yeah.
+
+**Dhruv Amin:** And I'm Zaria, I am owning kind of product marketing and brand marketing.
+
+**Dhruv Amin:** Yep.
+
+**Dhruv Amin:** And then the last two weeks, we've also brought on a few new team members on the go-to-market side to kind of own channels.
+
+**Dhruv Amin:** And we've kind of brought on like agencies.
+
+**Dhruv Amin:** And.
+
+**Dhruv Amin:** And people who are working on like very specific pieces, um, zooming out on anything, we launched on August 7th, um, shot very quickly from like zero to 2 million in ARR, uh, and in the time sense, they've kind of grown to about 3 million in revenue run rate.
+
+**Dhruv Amin:** We closed our Series A end of September or mid-September, um, and then very quickly wanted to go straight into go-to-market, uh, uh, go-to-market roles.
+
+**Dhruv Amin:** I think all of you are familiar with like vibe coding, like how competitive it is, how fast the companies are growing here.
+
+**Dhruv Amin:** We actually believe that like anything has the potential to be a 40 million plus ARR company, extremely fast if we hit on all cylinders.
+
+**Dhruv Amin:** Um, and so because there's a small team here, we're like, let's actually go work with a bunch of like the best in each area, each area, kind of stand up a lot of the channels really, really quickly, um, and see if we can get.
+
+**Dhruv Amin:** There, um, for some context for everybody, we are in the midst of a accelerator program called HFZero.
+
+**Dhruv Amin:** Uh, HFZero concludes on December 4th, uh, uh, of this year, so about six weeks away.
+
+**Dhruv Amin:** Um, and on that conclusion, there's, like, a massive demo day with all the major, like, Silicon Valley firms.
+
+**Dhruv Amin:** Um, give me a second, let me actually go ahead and, I actually should record this one, I'm sorry.
+
+**Dhruv Amin:** I think I recorded it, let's say, um, there's a massive demo day with all, like, the major Silicon Valley firms, um, and so we're in this, like, weird zone as a company, and I just want to let everyone know this as well, where if we execute in these next, like, six months on, on going to market, getting more people into the product, uh, raising revenue as quickly as possible, there's, like, an opportunity to actually skip around and go ahead and raise, like, a really, really big Series B.
+
+**Dhruv Amin:** Um.
+
+**Dhruv Amin:** But it's going to require, like, you know, going from a revenue number of like zero,  like the 3 million we are now to like, you know, at least 10, potentially even up to like 40, and then like all options kind of open up.
+
+**Dhruv Amin:** And so I'll pause there.
+
+**Dhruv Amin:** That's like the quick background on anything, the situation we're at.
+
+**Dhruv Amin:** What I would love to throw out there to the group and everyone here as well is we just raised 11 million in Series A cash.
+
+**Dhruv Amin:** For the first time ever in the history of a company, cash is not the constraint, like, speed is for the company of like, how do we get out there, how do we out there quicker?
+
+**Dhruv Amin:** And so part of our goal in these last two weeks has been, how do we actually just attack every possible channel to our ICP as quickly as possible?
+
+**Dhruv Amin:** See which ones are working, like, really, really quickly, and then scale the ones up that are working, like, also incredibly quickly.
+
+**Dhruv Amin:** And so I'll walk through today, like, which are like the channels that we're like prioritizing, what we're actually like going on to go to.
+
+**Dhruv Amin:** Where we've kind of gotten people.
+
+**Dhruv Amin:** But for like the first time in like the company's history, if you're an outside agency owner or you're running like a key part of like the strategy for us, just like know that like we can scale the budgets up here like really, really quickly, assuming that like assuming that it's actually working and it's driving significant growth.
+
+**Dhruv Amin:** And so in some ways, like for the first time ever, it's exciting.
+
+**Dhruv Amin:** I think in the past, if I've negotiated with you guys or I've like talked, I'm like, oh, we have to be really, really careful on like the cash and everything that we're like doing.
+
+**Dhruv Amin:** It's like actually for the first time, that's completely different.
+
+**Dhruv Amin:** And so what Marcus and I are kind of doing right now is just seeing which of these vectors in the first like week or two can actually show promise.
+
+**Dhruv Amin:** And then if it shows promise, then we just want to like double down nonstop.
+
+**Dhruv Amin:** Any questions on that?
+
+**Dhruv Amin:** No.
+
+**Dhruv Amin:** Our suspicion here is that likely if one chance.
+
+**Dhruv Amin:** channel hits that people are, like, taking on right now.
+
+**Dhruv Amin:** We can probably easily 3x to about, like, 10 million in revenue.
+
+**Dhruv Amin:** If multiple channels end up hitting, like, in the same time, we think we can, like, fly through 40.
+
+**Dhruv Amin:** And so we're kind of in this, like, speedrun process to, you know, how do we get multiple channels kind of set up across the board.
+
+**Dhruv Amin:** And then finally, I think a lot of your guys' work will overlap.
+
+**Dhruv Amin:** Like, I think, like, I think done right, I think the thing that we realize bringing on a lot of people independently to go work on channels is that ideally there's a lot of crossover and reuse across these things.
+
+**Dhruv Amin:** For example, we've got some of you guys working on TikTok UGC.
+
+**Dhruv Amin:** We've got another team that's working on meta ads.
+
+**Dhruv Amin:** It turns out TikTok UGC can be, like, a really fantastic source of creative for meta ads.
+
+**Dhruv Amin:** Or we've got some of you guys working on SEO and content there.
+
+**Dhruv Amin:** It turns out press can be really fantastic at, like, boosting our SEO.
+
+**Dhruv Amin:** And so, part of, like, the goal of pulling this together and allowing everyone see the full picture is, one, so you can push back on the full picture after this call.
+
+**Dhruv Amin:** If you're like, hey, Drew, I heard your goals and what you guys are trying to do, I think there's a faster way we could contribute to it and do that.
+
+**Dhruv Amin:** But then, two, if it's like, hey, we could actually use this help of the team that's working on that to do something, then let us know so that we can do a better job.
+
+**Dawson GIbbs:** Yeah, have a question.
+
+**Dawson GIbbs:** So, Dawson, by the way, owner of Evo, glad that we got to finally meet.
+
+**Dawson GIbbs:** I think you were communicating with Jimmy for the last couple of months, and I have Brandon here, have Drew, and also I have Marty.
+
+**Dawson GIbbs:** Marty's my campaign strategist, Drew's the creative director, and then Brandon's my CIO.
+
+**Dawson GIbbs:** We wanted to hop on here to see you guys' biggest plans and what you guys want to do for the next six months so we can help you guys as much as possible.
+
+**Dawson GIbbs:** I know on RN, we're helping with TikTok UGC, and the biggest thing on RN is we're doing so much volume of content, right?
+
+**Dawson GIbbs:** We want to get you guys millions of views and get a lot of notoriety.
+
+**Dawson GIbbs:** Top Funnel Presence on TikTok and potentially Instagram as well down the line.
+
+**Dawson GIbbs:** But, you know, not just millions of views because that's a vanity metric that doesn't convert or doesn't have profile visits or whatever it might be.
+
+**Dawson GIbbs:** So that's our main thing.
+
+**Dawson GIbbs:** Like, first, we want to get the views in order for us to know the format and the messaging that actually connects to the audience.
+
+**Dawson GIbbs:** And then from that, we can really pinpoint the CTA or the conversion metric or whatever we might want to do.
+
+**Dawson GIbbs:** We either pull it into the comics section and be really active in there, and then it goes into the website or whatever it might be, similar to what we did with dupe.com.
+
+**Dawson GIbbs:** But our main thing is really, really, like, while we're testing 600 pieces of content per month for you guys and also to get the results at the same time, working with whoever's doing meta ads in here, I'm not too sure who it is.
+
+**Dawson GIbbs:** If they're not in the Slack chat with us, like, our biggest thing, and we do meta ads and also on top of our TikTok campaigns with a lot of brands, our biggest thing is, okay, top 5%, 10% of the 600 videos that we post, right?
+
+**Dawson GIbbs:** We can put that.
+
+**Dawson GIbbs:** It's a meta ads or put in a spark ad campaign.
+
+**Dawson GIbbs:** So whoever I need to give that over to, and Marty will be over this to give you guys over the creatives.
+
+**Dawson GIbbs:** We've seen that like, hey, testing first organically, right?
+
+**Dawson GIbbs:** Getting the information from the people and then give it, giving some money behind it.
+
+**Dawson GIbbs:** So that's the biggest thing.
+
+**Dawson GIbbs:** Whoever is the meta ad people, would love to connect and stuff.
+
+**Dhruv Amin:** Yeah.
+
+**Dhruv Amin:** So there's two teams in here that are working on different parts of meta ads.
+
+**Dhruv Amin:** And I'll kind of walk through it later.
+
+**Dhruv Amin:** Cloud Kitchens is running a big influencer campaign on TikTok as well this week.
+
+**Dhruv Amin:** And that has also helped us get our meta ads things off the ground.
+
+**Dhruv Amin:** And then Vince and team, who I think weren't able to make this call, but I'll connect to you, are also running with kind of like AI generated ad creative to kind of test and warm up the meta account.
+
+**Dhruv Amin:** But then our ambition is that it actually ends up fueling a lot of what, whatever the two UGC teams we've kind of brought on to bring on UGC.
+
+**Dhruv Amin:** So you'll notice that we're like bringing on multiple teams trying to speed up like the process here.
+
+**Dawson GIbbs:** Yeah.
+
+**Dhruv Amin:** And then I'll say, everyone will work together, so, so, over time.
+
+**Dhruv Amin:** So, I'll pause there.
+
+**Dhruv Amin:** Any other questions about, like, the overall context?
+
+**Dhruv Amin:** Why the goal is, like, 40 million by December?
+
+**Dhruv Amin:** It's driven a little bit by, like, the investor deadline.
+
+**Dhruv Amin:** It's actually really an opportunity.
+
+**Dhruv Amin:** Like, it's kind of unique to actually go get, like, an investor demo day that you can actually know you're going to get the intention of the investor market around, like, early December.
+
+**Dhruv Amin:** And so, any growth that we can show in the, in the, if it has to be efficient, it can't be, like, completely stupid.
+
+**Dhruv Amin:** But any growth we can show in these next, like, six weeks has, like, just an extreme premium compared to even growth we do in January and the rest of it.
+
+**Dhruv Amin:** And then, it's not like the company dies in six weeks.
+
+**Dhruv Amin:** Like, we've got tons of runway.
+
+**Dhruv Amin:** We'll be around.
+
+**Dhruv Amin:** We'll be, we'll be a player in, like, the space for the next, like, six months.
+
+**Dhruv Amin:** And so, we'll continue to, like, like, try to aggressively grow.
+
+**Dhruv Amin:** But I think I just realized, like, over the weekend, like, a lot of people might just be missing context on, like, why are these guys so urgent?
+
+**Dhruv Amin:** About,
+
+**Dhruv Amin:** V6 weeks in particular, compared to other things.
+
+**Canyon Pergande:** I had a quick question, also Canyon here, one of the founders of Sideshift, also going to be helping run some of that TikTok UGC movement.
+
+**Canyon Pergande:** I know you mentioned you guys were launching the Anything Mobile app relatively soon.
+
+**Canyon Pergande:** Do you guys have an updated timeline on that?
+
+**Dhruv Amin:** Because that will kind of layer into some of the strategies and formats that we're running.
+
+**Dhruv Amin:** Yeah, for sure.
+
+**Dhruv Amin:** Sorry, go ahead.
+
+**Dhruv Amin:** Well, I was just going to say, I think it's somewhat dependent on Apple, unfortunately.
+
+**Dhruv Amin:** So, we submitted to the App Store.
+
+**Dhruv Amin:** I believe it was rejected.
+
+**Dhruv Amin:** We submitted an update.
+
+**Dhruv Amin:** I haven't gotten the, like, full latest download.
+
+**Dhruv Amin:** I don't know if you've got, like, the latest from so far, but.
+
+**Dhruv Amin:** Yeah, I think it's a little bit dependent on Apple.
+
+**Dhruv Amin:** in the next, like, week or two, I think right now we're a full go on anything, like, just the web app and anything max.
+
+**Dhruv Amin:** I'd say, like, in this, like, six-week period.
+
+**Dhruv Amin:** it
+
+**Dhruv Amin:** There's at least two, there might be a third, really, really big product updates and launches that are kind of coming out.
+
+**Dhruv Amin:** So the first one we did three weeks ago is Anything Max.
+
+**Dhruv Amin:** It's the autonomous software engineer that runs the background.
+
+**Dhruv Amin:** We actually charge $200 a month for it.
+
+**Dhruv Amin:** So it's actually the fastest path to revenue, the more people that know about Anything Max.
+
+**Dhruv Amin:** The second is the actual iOS.
+
+**Dhruv Amin:** Oh, whoa.
+
+**Dhruv Amin:** Wow, that's nice.
+
+**Dhruv Amin:** We're not hovering around this little camera anymore.
+
+**Dhruv Amin:** Can you guys see us on this screen?
+
+**Dhruv Amin:** I think they still see here, but let me see if we can do it here.
+
+**Dhruv Amin:** Okay, sorry, actually, I might have figured out our Zoom setup.
+
+**Dhruv Amin:** Maybe we just keep going.
+
+**Dhruv Amin:** All right, yeah. The second is the Anything iOS app.
+
+**Dhruv Amin:** So today you can use anything on the web. Imminently, because it's submitted to Apple, an iOS app is coming where people can actually talk on their phone and update their projects. I think it's a cool party trick, extremely viral in how it looks.
+
+**Dhruv Amin:** I also think it's the secret to entrepreneurs actually making real products. It allows us to integrate RevenueCat.
+
+**Dhruv Amin:** And then the third thing is there's probably going to be some news for the end of the year—either a big partnership with Wix or a couple of other product-based things.
+
+**Dhruv Amin:** But for now, I think we're just kind of going across the core benefits of Anything.
+
+**Dhruv Amin:** Let me quickly walk you guys through a quick doc of what I wrote two weeks ago before we went out and decided who we're going to work with kind of across the board.
+
+**Dhruv Amin:** And for some of y'all, I'm sorry if it's additional context.
+
+**Dhruv Amin:** All right, cool.
+
+**Dhruv Amin:** So, I think everyone knows, anything is the world's best agent for building products without coding.
+
+**Dhruv Amin:** It allows you to go from natural language to full stack, mobile, and web apps.
+
+**Dhruv Amin:** There's like three things people really love about it.
+
+**Dhruv Amin:** The first is that the agent is just super reliable.
+
+**Dhruv Amin:** Or four things, sorry.
+
+**Dhruv Amin:** The agent's super reliable.
+
+**Dhruv Amin:** It actually works end-to-end.
+
+**Dhruv Amin:** Two is it actually is the best mobile app builder out there, and that's pretty differentiated compared to everyone else in the market.
+
+**Dhruv Amin:** Three, everything is built in.
+
+**Dhruv Amin:** And so, there's no, like, there's no setting up Superbase or, like, you know, needing to use, like, lovable cloud or any of these other things.
+
+**Dhruv Amin:** It's, like, it's all just, like, right there.
+
+**Dhruv Amin:** And the fourth is that it's Designs Pump, right?
+
+**Dhruv Amin:** there's of this point.
+
+**Dhruv Amin:** Amen.
+
+**Dhruv Amin:** I'm sorry, I talked about the goal, the context.
+
+**Dhruv Amin:** Our honest take, guys, is that, like, we only really hit the goal if we actually ignite real organic UGC.
+
+**Dhruv Amin:** The good thing is that's, like, already happening today at some rate.
+
+**Dhruv Amin:** Like, the product actually, our product launches are going viral.
+
+**Dhruv Amin:** They always drive these massive spikes.
+
+**Dhruv Amin:** People are really resonating with the brand Zarya has created and the creative.
+
+**Dhruv Amin:** People feel like it just doesn't feel as developer-focused.
+
+**Dhruv Amin:** It feels much more mass market as a tool.
+
+**Dhruv Amin:** And as a result, people are coming in, they're actually experiencing their liability to the agent.
+
+**Dhruv Amin:** And then we actually see today at a certain rate, kind of across all channels, people posting, like, I made this thing, look at it.
+
+**Dhruv Amin:** And there's two real share moments for us.
+
+**Dhruv Amin:** Like, they come in and they're super impressed with, like, wow, I can't believe I made this thing.
+
+**Dhruv Amin:** And then the second share moment for us is when they actually, like, build out the entire product.
+
+**Dhruv Amin:** And then they're trying to actually, like, go get customers themselves.
+
+**Dhruv Amin:** And then we see them really start to market the product themselves.
+
+**Dhruv Amin:** Yeah.
+
+**Dhruv Amin:** But yeah.
+
+**Dhruv Amin:** So, entirely to date, we've been primarily focused on organic and just the product itself spreading things.
+
+**Dhruv Amin:** This is the first time we're really wading into, like, okay, what are the other channels for people to kind of come into the product that can just grow the product outside of product launches?
+
+**Dhruv Amin:** And, like, again, we're trying to pull forward which of them are going to work fast, see which ones are showing any sign of heat of, like, hey, this can actually pretty efficiently, like, users in our ICP, and then the ones that are going to show heat, we're going to just double down on them, right?
+
+**Dhruv Amin:** And then we're also, like, laying the groundwork.
+
+**Dhruv Amin:** Like, we think there should be more ways to find about anything than just, you know, hearing about someone making something with it and sending it in.
+
+**Dhruv Amin:** So, like, we want to build it over time.
+
+**Dhruv Amin:** I already talked about roles and on the team as well.
+
+**Dhruv Amin:** Like, there's, like, three things that we're, like, really focused on for the next six weeks.
+
+**Dhruv Amin:** The first is just, like, volume of content we're putting out that kind of enforces our core narratives.
+
+**Dhruv Amin:** Yeah.
+
+**Dhruv Amin:** We've been kind of quiet as a company, I'll be honest with you, compared to others, but just like screaming those things from the rooftop that like make anything super unique.
+
+**Dhruv Amin:** The second is that just like we want to be everywhere.
+
+**Dhruv Amin:** want to be all the channels that our ICP is seeing, and they're just a question of how fast can we actually be there.
+
+**Dhruv Amin:** And then when we're there, we want to actually be cool.
+
+**Dhruv Amin:** Like a huge part of why people are choosing us in a very crowded, almost commoditized like software market of like AI app builders or AI agents.
+
+**Dhruv Amin:** And that people are like, I just like the way anything actually looks and feels and what the brand represents.
+
+**Dhruv Amin:** And so we're going to like double down on that.
+
+**Dhruv Amin:** I kind of mentioned this already.
+
+**Dhruv Amin:** We're going to try and speed up the rate people are actually posting about the product.
+
+**Dhruv Amin:** It happens today just naturally.
+
+**Dhruv Amin:** So we're pretty confident if we can just get, you know, 10x the number of people that are actually coming into the door in the products that like it will actually continue to happen.
+
+**Dhruv Amin:** And I have.
+
+**Dhruv Amin:** At a fast rate, and at some point, it will snowball.
+
+**Dhruv Amin:** And ideally, our goal is, like, enough people at some point making content about it that it starts to tip into its own, its own, its own, like, UGC movement.
+
+**Dhruv Amin:** And so we're doing, like, a lot of this inorganic UGC.
+
+**Dhruv Amin:** The reason why we're doing it is just to, like, it's to, like, speed up, actually, like, real organic UGC.
+
+**Dhruv Amin:** In the product, we're trying to do lots of things that make it easier and easier and easier for people to share and spread the product itself.
+
+**Dhruv Amin:** Wow.
+
+**Dhruv Amin:** And I'll share this out after the call.
+
+**Dhruv Amin:** A lot of this is just me writing stuff, but go on.
+
+**Dhruv Amin:** All right, core narratives for us, right?
+
+**Dhruv Amin:** We really want to focus anything on anything is the one for people who want to make money online.
+
+**Dhruv Amin:** There's lots and lots of AI app builders out there right now.
+
+**Dhruv Amin:** Lots of them are advocating internal tools or prototypes or marketing sites.
+
+**Dhruv Amin:** We actually think the, like, available positioning is, like, if you want to build something that...
+
+**Dhruv Amin:** Production ready, that actually gets users, that actually scales, that actually like can make money, build on anything.
+
+**Dhruv Amin:** The reason that's possible is because it's actually reliable.
+
+**Dhruv Amin:** People are actually going to the product and being like, wow, this agent is like 10x more powerful than like what I see out of a lovable or bolt or a replet or whatever it is.
+
+**Dhruv Amin:** Big reason why is we've done a ton of work on both mobile and everything built in.
+
+**Dhruv Amin:** And a combination of those two things makes it just 10x more reliable for those vectors.
+
+**Dhruv Amin:** Its designs don't look so AI generated because we've kind of built our own AI model.
+
+**Dhruv Amin:** And that's important for this entrepreneur like ICP who's actually trying to launch something real, not just like a prototype.
+
+**Dhruv Amin:** It's like it actually has to look like a real app.
+
+**Dhruv Amin:** And then finally, we just want to like give off the vibe that like this is a frontier AI company on the way up.
+
+**Dhruv Amin:** It's getting better and better.
+
+**Dhruv Amin:** These guys are shipping at just an incredible rate.
+
+**Dhruv Amin:** And so almost like come onto the bandwagon because it's just going to get better.
+
+**Dhruv Amin:** so big launches there, like the anything max launch in the mobile app, just give people that thing.
+
+**Dhruv Amin:** And then finally in our space, like momentum is huge, right?
+
+**Dhruv Amin:** So like everything we do around marketing, like, okay, we're growing fast.
+
+**Dhruv Amin:** Like we actually drove like the most revenue ever by screaming from the rooftops.
+
+**Dhruv Amin:** Like we went from zero to 2 million in like two weeks.
+
+**Dhruv Amin:** As we're kind of crossing these revenue milestones, we want to have like massive success.
+
+**Dhruv Amin:** But then as we start getting real users that are actually making money with their business, we're going to be trying to scream that from the rooftop as well.
+
+**Dhruv Amin:** And kind of position is like, this is the one that that's for people building real, real businesses.
+
+**Dhruv Amin:** We have our, like, these are the things we're kind of prioritizing.
+
+**Dhruv Amin:** And these are the channels we're prioritizing of what we own already, where we already kind of own it.
+
+**Dhruv Amin:** We have a site, it gets a decent amount of traffic.
+
+**Dhruv Amin:** Our blog is starting to get a decent amount of traffic, so we're putting out stories there.
+
+**Dhruv Amin:** Kaylee's actually leading that in our core blog.
+
+**Dhruv Amin:** And I know we're working with two SEO teams right now on the core blog, but the blog is starting to actually convert for candidates and for people just storytelling.
+
+**Dhruv Amin:** And so I think we're to be putting a lot of these narratives out on that blog.
+
+**Dhruv Amin:** X is probably our, like, best channel.
+
+**Dhruv Amin:** If you follow the AnythingX channel, this is probably what we've gotten to pop the most, in the sense that, like, the original launch tweet went viral.
+
+**Dhruv Amin:** We're pretty good at this point at getting, like, product launches to go viral on X.
+
+**Dhruv Amin:** I think we're now trying to build the muscle for everything else.
+
+**Dhruv Amin:** And then starting to actually build up the founders and teams.
+
+**Dhruv Amin:** And then Cesaria is always the reason why we have videos that pop.
+
+**Dhruv Amin:** And so we're going to be doubling down on, like, brand videos and, like, videos that actually make, end up looking good.
+
+**Dhruv Amin:** Email and the natural core app and product.
+
+**Dhruv Amin:** A lot of this, like, today, I think, on the call are a lot of people that are focused on...
+
+**Dhruv Amin:** on channels, um, but there are also people here who focused on content, so just to call that out real quick, Kaylee just came on the team as a copywriter, um, she's going to try to make all of this content make sense across lots and lots of different channels, um, and, like, reinforce these narratives, um, Sachin, I think, is on the call or may not be on the call, he's working on LinkedIn, Leo is working on X, um, across the board, and so we're starting to bring on people in anything, um, and hiring people in anything to, like, basically build, a media company, uh, in addition to a product company, uh, that's constantly putting out content that's reinforcing these narratives, um, and then, uh, in addition to standing up channels.
+
+**Dhruv Amin:** All right, really quick on our core ICP differentiators, I'm just going to emphasize it again, the core, anything's like a pretty horizontal product, um, you can, like, go into it and build whatever you want, but the core ICP, the thing that we get excited about, the thing we tell the most stories about, is this non-technical
+
+**Dhruv Amin:** Technical, tech-adjacent, internet entrepreneur who wants to make money with the apps that they make, right?
+
+**Dhruv Amin:** It's, what I mean by tech-adjacent, it's like not a full-time developer, usually somebody that knows enough about what an app is that like they're not like your mom, but it's like usually like a product manager, designer, marketer, sales, ops.
+
+**Dhruv Amin:** Internet entrepreneur, here I don't mean like YC founder, mean like they actually just want to go make money like online.
+
+**Dhruv Amin:** It's a very similar crowd to people who use WAP, Shopify, whatever it is, and yeah, it's actually making money.
+
+**Dhruv Amin:** Like the idea is like dropshipping, like the goal of actually making an app is that you can actually get to a couple K in MRR and that you can actually like make money, right?
+
+**Dhruv Amin:** We care a ton about like actually high-income countries, US, Europe, English-speaking, or like key Asian countries where it's like more high-income.
+
+**Dhruv Amin:** It's because today our credit model is actually relatively expensive and so we just see that they convert the best.
+
+**Dhruv Amin:** when they're in there.
+
+**Dhruv Amin:** And then more male today, but definitely open to both genders.
+
+**Dhruv Amin:** And so we'll refine this ICP over time.
+
+**Dhruv Amin:** There's other people that actually end up liking anything as well.
+
+**Dhruv Amin:** And so I listed a bunch of them here.
+
+**Dhruv Amin:** These are like secondary ICPs for us.
+
+**Dhruv Amin:** And a lot of our content and what we're talking to, we're talking mainly to this like make money online, almost WAP style, Shopify style creator, except for now the promise is like you can actually make apps, they can get to the app store, they can be, they can actually start to like very quickly acquire a couple, a couple K and MRR.
+
+**Dhruv Amin:** And that's a whole new cool thing.
+
+**Dhruv Amin:** And like, in like, 10 years, there's going to be tons and tons and tons of internet entrepreneurs who don't look anything like the prior generation of internet entrepreneurs, like me and Marcus.
+
+**Dhruv Amin:** Makes sense.
+
+**Dhruv Amin:** All right.
+
+**Dhruv Amin:** I think that's content.
+
+**Dhruv Amin:** Any questions on like content, narrative, brand and vibe, like, like, and then I'll go into like, what are the new channels that we're standing up and how what that
+
+**Dhruv Amin:** I'm imagining them working together and what we're prioritizing, but I know I've done a bunch of individual sessions with everybody here on, like, what is this and how do we build this up and who's doing things, but can answer anything right now.
+
+**Camille Oster:** Quick question from me.
+
+**Camille Oster:** Hi, guys.
+
+**Camille Oster:** PR agency here.
+
+**Camille Oster:** We're always, as I said to Zaria, really interested in any user testimonials, but the ones that go a bit deep.
+
+**Camille Oster:** So, you know, what they built, how much money they're making, are you going to have a, like, a new way to gather, I think you said you would have a new way to gather these and convey these to this group, because from a PR perspective, this is where we see the most potential, especially to convey the key narrative that you've just mentioned.
+
+**Camille Oster:** And there's, like, okay, how do we, like, prove this with the user case studies of, like, the teacher whose life's changed because she can now quit her, you know, evening job to, because she's paying her bills with this app, like, something like that, that.
+
+**Camille Oster:** yeah.
+
+**Camille Oster:** Is, I think, of course, it's kind of long lead time, so we'll settle for something a little bit less dramatic, but like, something like that, and how we get fed those stories on a regular basis.
+
+**Dhruv Amin:** Yeah, this is a good, this is a good point.
+
+**Dhruv Amin:** So, so actually, if you, so one thing, actually, after this call, if people aren't here, we're trying to centralize around a lot of, a lot of different people working remotely, different time zones.
+
+**Dhruv Amin:** I created this channel, right?
+
+**Dhruv Amin:** It's called hashtag story.
+
+**Dhruv Amin:** Um, if for whatever reason you're working with us, and you are not in hashtag story, um, please try to, like, ping me afterwards, and let's get you into it.
+
+**Dhruv Amin:** Um, and the main thing is, like, anyone making content about anything, I'm going to try to centralize, like, comms as quick as, as much as possible, and, like, send out stories we want told across mediums.
+
+**Dhruv Amin:** Um, and so, like, this could be as simple as, like, you know, we just launched anything max, it's, like, the world's best, like, like,
+
+**Dhruv Amin:** Autonomous Software Engineer, right?
+
+**Dhruv Amin:** And that might end up, you know, for you, Camille, driving ideas of like, oh, we should actually get this reporter to cover it, and like these things go do it.
+
+**Dhruv Amin:** Or for like TikTok UGC people, it might be like, oh, okay, actually, we should have creators cover this.
+
+**Dhruv Amin:** Or like, you know, if there's like interesting customer stories, I think I'm going to try and drop it here.
+
+**Dhruv Amin:** Where we're at today, so we have, I'd say we have 10, probably more than 10.
+
+**Dhruv Amin:** We probably have like, somewhere between 30 to 40 people that are making actually significant money.
+
+**Dhruv Amin:** The main reason we see this is because anything actually bakes in Stripe.
+
+**Dhruv Amin:** And so as a result, we see when everyone is actually like making money in our Stripe account, in our Stripe dashboard.
+
+**Dhruv Amin:** It's prosumer on the internet.
+
+**Dhruv Amin:** So like getting in touch with these people has been hard.
+
+**Dhruv Amin:** What I've set up recently is just like, for myself, a like constant, like, like...
+
+**Dhruv Amin:** Actually, last night, like, getting in touch with them, and Kaylee's going to be doing a better job of also just chasing them down, telling stories.
+
+**Dhruv Amin:** We're going to put those stories first on our blog, Camille, but then also it's on my mind to actually get them ready to, like, like, put out in press.
+
+**Dhruv Amin:** And then likely in the next couple weeks, if we can find someone, I think this is probably going to be a full-time role at anything.
+
+**Dhruv Amin:** Like, a community person who's just non-stop looking at people who are, like, having success on the platform and, like, figuring out how to get in touch with them.
+
+**Dhruv Amin:** And just, like, reach out and, like, get their stories and cover them and, like, and then push them out through our own content, other things as well.
+
+**Dhruv Amin:** So, like, the answer is, like, we have them.
+
+**Dhruv Amin:** It's just been very, very, like, sporadic to date on how we collect them.
+
+**Dhruv Amin:** I'm hoping Kaylee coming on makes this just a more regular, like, drum meet of constantly collecting these stories we can push out.
+
+**Dhruv Amin:** I know this is also an ask of SEO teams and things like this, too.
+
+**Dhruv Amin:** Like, I think the GrowthX folks and things, too, are asking the same thing.
+
+**Dhruv Amin:** And same with, like, Trailblazer, which is, like, how do we do
+
+**Dhruv Amin:** centralize all the customer stories, and I know Zarya has worked a ton on that as well, so I think we'll centralize that over time and then push it out across.
+
+**Dhruv Amin:** Any other questions on content, narrative, brand?
+
+**Dhruv Amin:** In case people don't know, I actually made this for the TikTok teams.
+
+**Dhruv Amin:** I keep talking about this thing called Anything Max.
+
+**Dhruv Amin:** Um, I think it actually is one of like the big differentiators these next couple weeks that we need to go talk about, so I think everyone here is familiar with like regular Vibe coding tools.
+
+**Dhruv Amin:** They typically end up like, you know, being, uh, like very synchronous, you basically type a prompt, you get an app back, um, anything right now is the only tool that actually has this thing we're calling anything max.
+
+**Dhruv Amin:** If you pay us $200 a month, um, you can kick off what we're calling an autonomous software engineer.
+
+**Dhruv Amin:** What's cool about it is that it's the first.
+
+**Dhruv Amin:** Type of vibe coding tool, where it will actually go play with your app.
+
+**Dhruv Amin:** And so you'll see here that like it's actually spinning up a browser, and it's trying to like fix, so I can tell it like go QA my entire app, and it will actually go play with the app, figure out where the bugs are, and then actually fix it.
+
+**Dhruv Amin:** And you can kind of like go watch it work, and it's like fixing every single thing and testing on its own.
+
+**Dhruv Amin:** I think Max is one of these like narratives that we just don't talk enough about as a company, we need to push more, push more like focus and features on.
+
+**Dhruv Amin:** Anytime someone subscribes to Max, it's the $200 a month plan, it drives revenue really quickly.
+
+**Dhruv Amin:** But more importantly, it's also like a giant way that anything is just like 10x more reliable than anything else out there, because it actually acts like a software engineer and builds it for you.
+
+**Dhruv Amin:** And so this promise is very real of like, you can actually build a real production app.
+
+**Dhruv Amin:** Now, as of stuff of of of
+
+**Dhruv Amin:** All right, anything else, other questions?
+
+**Guillaume Bardet:** Hey, guys, so I've been helping with the affiliate program, and based on what Camille was just saying, maybe a wall of love could actually be a little bit helpful for her, like something that we could just put on the landing page, and then I was curious about what, because I know a lot of us will be learning a lot of things about a different niche that's actually outperforming, and maybe one that's not on top of mind for everyone, so what would be like a good place to share those coming up, maybe just on the story, channel?
+
+**Dhruv Amin:** Yeah, I mean, obviously, it's like someone sees in their channel that like, hey, this is actually like working really, really well, we're open to it, and it's evolving all the time.
+
+**Dhruv Amin:** I think part of this, why we're putting top down like this, it's the entrepreneur narrative is, we only have six weeks, I guess, to kind of like build up proof points along that, along that narrative, and like vibe and positioning, and so a lot of this is informed by what we saw in the last, and the last
+
+**Dhruv Amin:** And the story we're going to be telling to investors in December of why is this interesting and why is this valuable, it's that actually there's an opportunity to build the new Shopify, that there's entrepreneurs that are out there.
+
+**Dhruv Amin:** And so, it's not that I'm not interested in, like, internal tools or, like, or, like, you know, other stories, but, like, I think in these next six weeks, the focus on, like, what's it take to get to entrepreneur-making app that's actually making significant revenue and the positioning of kind of across our, like, storytelling of that being consistent is almost more important, you got me?
+
+**Dhruv Amin:** But, yeah, of course, like, surface it, like, I don't know, if you see some insight, like, oh, wow, like, like, Korean game communities really, really love, like, like, building, like, small, like, game things, and we should take advantage of that and, and grow there, then by all means, surface it, and we'll change our mind as well.
+
+**Dhruv Amin:** It's just why, why I'm, why I'm emphasizing this is the point of emphasis.
+
+**Leonel Acevedo:** Hey guys, Leo with IDoX Growth.
+
+**Leonel Acevedo:** I have a question maybe for Marcus.
+
+**Leonel Acevedo:** Does the revenue cut integration becomes live when the app is approved on the app store or that's separate?
+
+**Dhruv Amin:** Yes, but not discoverable to the agent.
+
+**Dhruv Amin:** So it will be installed so users could technically use it, but they probably won't get to like full success.
+
+**Dhruv Amin:** That's going to be an entirely new sprint in and of itself as well.
+
+**Leonel Acevedo:** That's good question.
+
+**Leonel Acevedo:** Got it.
+
+**Leonel Acevedo:** Got it.
+
+**Dhruv Amin:** Just so people are aware, RevenueCat is the number one way to collect payments on mobile apps.
+
+**Dhruv Amin:** So we're launching and doing a partnership with them to actually, just in the same way we have Stripe on the web, like you can integrate Stripe by just saying like add payments to my app.
+
+**Dhruv Amin:** We're adding the ability to add RevenueCat and paywalls to your mobile apps.
+
+**Dhruv Amin:** So it's a big part of like this, wow, I built an app.
+
+**Dhruv Amin:** that actually is making significant money on the on the App Store, um, story.
+
+**Dhruv Amin:** Cool.
+
+**Dhruv Amin:** Anything else on narrative?
+
+**Dhruv Amin:** No?
+
+**Dhruv Amin:** Okay, I'll get some channels then and then I like open it up and I think we have like a couple of minutes left so let me just quickly talk about channels.
+
+**Dhruv Amin:** Um, really quickly this is a rough priority order of what we're prioritizing, um, on these vectors.
+
+**Dhruv Amin:** Um, we're standing up a bunch of them in parallel including some of the ones that are slightly longer term, um, but we need to lay the groundwork now like SEO and GEO and Reddit where it might drive traffic in the next like month, but like actually we just need to make sure we're always doing it.
+
+**Dhruv Amin:** Um, really quickly, X, Leo's leading that, um, we're doing two things here, both our own brand stuff and then Leo's actually driving UGC on X and doing a creator program for people to actually go viral on X and actually get our customers to talk about it.
+
+**Dhruv Amin:** LinkedIn, Kaylee and Sachin are running with this for our own content, um, we're working of the and we're
+
+**Dhruv Amin:** I'm finding someone for like UGC of our own customers.
+
+**Dhruv Amin:** TikTok and IG, there's a bunch of teams here that are focused on TikTok and IG.
+
+**Dhruv Amin:** When I kind of did the quick like stack rank of like what's like probably our number one bet is probably TikTok and IG because it can scale the fastest.
+
+**Dhruv Amin:** Zarya is running it on it from like our brand stuff.
+
+**Dhruv Amin:** Both Evo and Slideshift are working on UGC.
+
+**Dhruv Amin:** We're also working on bringing someone in-house to just constantly do like UGC partnerships.
+
+**Dhruv Amin:** On the influencer side of things, Cloud Kitchens is running an initial campaign.
+
+**Dhruv Amin:** And then we're also trying to spin up like internal influencer things.
+
+**Dhruv Amin:** But like TikTok as a big, as a really fast way to get the word out is definitely one of the priorities.
+
+**Dhruv Amin:** And then paired with TikTok and IG is actually paid ads.
+
+**Dhruv Amin:** So here on this call, Claire and Katie are running with Google.
+
+**Dhruv Amin:** And then we're bringing on Vince as well to help over time.
+
+**Dhruv Amin:** Meta Cloud Kitchen has done the initial thing for there.
+
+**Dhruv Amin:** Influencer Campaign, Vincent Team are also coming on board.
+
+**Dhruv Amin:** And then TikTok, we're not actually setting up TikTok ads, but we do want the UGC to help Google and Meta ads.
+
+**Dhruv Amin:** And we've kind of done a lot of work on attribution there.
+
+**Dhruv Amin:** And so I think those are the people, teams you need to know.
+
+**Dhruv Amin:** The X stuff, I think, could feed into the TikTok stuff, but I think Leo's kind of running it kind of independently.
+
+**Dhruv Amin:** Leo's also recruiting creators.
+
+**Dhruv Amin:** And so, like, that's a big part of, like, those might end up having TikTok.
+
+**Dhruv Amin:** Let me pull out a little bit on Vectors.
+
+**Dhruv Amin:** LinkedIn's a little bit separate.
+
+**Dhruv Amin:** On affiliates and, like, influencer partnerships, Vyame, who just spoke up, is running and chasing down lots of those.
+
+**Dhruv Amin:** We actually have an affiliate program on anything.
+
+**Dhruv Amin:** It gives, it's actually the best affiliate program in Vibe Coding, which is, like, one of the most lucrative spaces on the planet.
+
+**Dhruv Amin:** So it gives it.
+
+**Dhruv Amin:** About 30% of the revenue for anyone who subscribes from affiliate content.
+
+**Dhruv Amin:** And so we're, like, getting more and more affiliate creators.
+
+**Dhruv Amin:** But if you're working on TikTok or getting creators of any sort, I think pumping our affiliate deal is, like, a massive priority because it ends up, like, scaling faster.
+
+**Dhruv Amin:** And it's, like, another way to actually make money with anything is just teaching people how to use anything.
+
+**Dhruv Amin:** I'm trying to think of if there's anything else that's, like, really critical people know.
+
+**Dhruv Amin:** Okay, on Reddit, Lyra, I think, is on the call or is there as well.
+
+**Dhruv Amin:** Lyra is running with actually getting Reddit to blow up, kind of independently of the stuff we're doing for SEO and GEO.
+
+**Dhruv Amin:** On SEO and GEO, GrowthX and Trailblazer are both working on content and strategy.
+
+**Dhruv Amin:** I am right now going to do the end work for getting all that stuff coming up.
+
+**Dhruv Amin:** We'll soon have an engineer, like, replace me.
+
+**Dhruv Amin:** This is just landing pages, programmatic.
+
+**Dhruv Amin:** A actual, like, written content kind of at more scale than what we can write with the blog.
+
+**Dhruv Amin:** Zarya is doing a pretty big brand redesign.
+
+**Dhruv Amin:** MVP is working on consistent press kind of across the board.
+
+**Dhruv Amin:** We're not really yet prioritizing IG, YouTube, but we will.
+
+**Dhruv Amin:** And then final pieces as well, we're standing up a partnership program with Contra in early November, which lets them basically spin up experts that can help people with anything.
+
+**Dhruv Amin:** And then there's a ton of potential integrations that we're going to be marketing throughout, like, the next, like, handful of weeks.
+
+**Dhruv Amin:** One is RevenueCat, as Mark just kind of talked about.
+
+**Dhruv Amin:** Another one is potentially WAP and WAP Payments.
+
+**Dhruv Amin:** We're, like, working with a lot of these teams to get that up and running and, like, TBD if they'll land in the next six weeks.
+
+**Dhruv Amin:** But if they do, then it ends up driving a lot
+
+**Dhruv Amin:** Content Link, you can now actually build WAP apps or apps with like WAPs and payments, right?
+
+**Dhruv Amin:** And then Zarya is also working on a ton of kind of like in-person guerrilla marketing style things to get the word out in person in SF.
+
+**Dhruv Amin:** There's likely going to be, I don't know, other vectors we can push that out through, whether that's press or SEO or blog content or TikTok to some extent.
+
+**Dhruv Amin:** I'm trying to think those are like the big key vectors, like the big bets is that we can get TikTok really humming.
+
+**Dhruv Amin:** And so if you guys have ideas of how we can go even harder on TikTok sooner, faster, let us know.
+
+**Dhruv Amin:** X, really humming, and Leo's kind of leading this, paid ads, and then LinkedIn and affiliates.
+
+**Dhruv Amin:** These other vectors, but tell me how I'm wrong, guys.
+
+**Dhruv Amin:** Reddit, SEO,
+
+**Dhruv Amin:** YouTube, community, agency partnerships, well, like, integration partners, um, there's some of these that fall into the bucket of, like, it might just take a while for us to start getting indexed and ranked, um, and we should start that work now, and we're kind of excited for it, for in January and February and March as they start hitting, uh, there's others of it that has a little bit of, like, like, execution risk, for example, like, we're going to start building up a partnership program, we're going to start, like, like, we're going to do these, like, big partnerships, uh, with WAP and stuff, but the timelines are a little bit unclear, um, and so when we, like, look at our, like, overall stack rank, um, what we're really focused on to hit the 40, like, 40 million is all the channels it feels like we kind of have in our own control, uh, which is probably this whole top part, um, like, get the actual product to spread and then get the actual product out there with, like, on
+
+**Dhruv Amin:** tons of awareness.
+
+**Dhruv Amin:** These other ones that are slightly longer term or slightly, like, they're not as guaranteed, let's say, people have to come on board.
+
+**Dhruv Amin:** We want to make sure that we're setting up and, like, you know, making partnerships, doing affiliates, going as far as we can, but they're not, like, key tenants or planks of things that we think will land, for sure, in the six weeks.
+
+**Dhruv Amin:** Sweet.
+
+**Dhruv Amin:** We're almost at time.
+
+**Dhruv Amin:** Anyone else have anything else?
+
+**Dhruv Amin:** I got it, Jim.
+
+**Dhruv Amin:** It's so good to meet everybody, though.
+
+**Dhruv Amin:** I'll be online.
+
+**Dhruv Amin:** I'm mostly supporting all the initiatives.
+
+**Dhruv Amin:** So, if you're struggling with tracking conversion or, I don't know, need certain, like, things implemented in the website or, I don't know, whatever else, then I'm your guy.
+
+**Dhruv Amin:** Anyways, I'll see you guys.
+
+**Camille Oster:** I have two things to do.
+
+**Camille Oster:** One, can we get somewhere a Google Doc with, like, the latest stats, number of users, ARR?
+
+**Camille Oster:** Number of apps built.
+
+**Camille Oster:** The
+
+**Camille Oster:** I think we have something in there that's like a month old, which obviously is not going to be good.
+
+**Camille Oster:** So anything that's live that everyone can access, like publicly facing data that's regularly updated would be awesome.
+
+**Camille Oster:** Then my second thing to this group is you are being interviewed by CNBC next week for the moment.
+
+**Camille Oster:** The content that will come out of that, I suspect, could be leveraged across several channels because it's quite nice visually.
+
+**Camille Oster:** Um, there'll be like, um, the little CNBC logo.
+
+**Camille Oster:** So, um, if I share that, I mean, hopefully we'll get some coverage, but, um, when we do, I'll share it in story.
+
+**Dhruv Amin:** Is that the best way to share it, reach everyone?
+
+**Dhruv Amin:** Yeah, I think that works.
+
+**Dhruv Amin:** I'm going to try and centralize everyone into that channel and then hopefully, uh, if people have things that they think can be used across things, um, then super helpful for you to put it in there to everyone else.
+
+**Camille Oster:** Sounds good.
+
+**Dhruv Amin:** All right.
+
+**Dhruv Amin:** So guys, know there's a lot of content.
+
+**Dhruv Amin:** Um, I hope, um, any other questions from people?
+
+**Dhruv Amin:** Um, we're obviously working together, like, nonstop every day, so I have to continue pushing on, but, um, I think my big ask after this call is, now that everyone knows the context of, like, we're trying to ramp revenue as fast as possible in the next six weeks, if you have additional ideas, as you kind of, like, look at this, um, and you're like, hey, we should do this, or we should really scale this up, or we should, like, we should really make sure we test, x in the first week, so that we, like, you know, have a shot of really scaling it up over, like, weeks three to four to five, um, let me know, um, because I think, like, any one of these channels, I think could easily get us past 10 million in revenue, and then if we get multiple to hit, then I think we'll fly through.
+
+**Camille Oster:** Thanks, guys.
+
+**Ben Heath:** Bye.
+
+**Ben Heath:** See you later.
+
+**Ben Heath:** Nice to meet you all.
+
+**Drew Mazza:** Thank you.
+
+**Drew Mazza:** Nice meeting you.
+
+**Drew Mazza:** Yeah, nice to you.
+
+**Drew Mazza:** Good to meet you.

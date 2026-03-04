@@ -1,0 +1,2740 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, I thought this would just be easier than doing this on Slack, so apologies for slamming you straight away, Ana.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, everyone uses Airtable a little bit differently, maybe I do to Ada, but I think the main thing is like, Rimkus definitely feel very like, kind of they want to see what's going on.",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Some clients don't even look at Airtable, Rimkus is like, what's going on?",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So let me just show you what, how I kind of think about it.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, yeah, because I saw you dropped a question in Slack about it, so let's just clarify everything here.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so basically like it's split, right?",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So client views are, that's for them, it makes like life really easy for them.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So whenever, basically, like at the end of the week, whenever we submit assignments, like we just change the status to reviewing and it goes straight into this view.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We don't have to touch anything else.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then Rimkus get the tag in Slack and they can just go straight in here and they see all the assignments.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In an ideal world, this basically every week, every Friday, we'll have five.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I know it's like a little bit off at the moment because I think we're like, there's a little bit of, yeah, so this one needs to be, oh yeah, this is one they fixed.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so we're like a little bit off, but it's, I mean, it's fine.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think they're quite like nitpicky, but actually like they're also very, they're also being quite slow with us.",
+            "timestamp": "00:01:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's kind of on them.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then publish is like, this is just so they can see like, hey, this is how many we publish.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's all good.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think one of the questions you had was like assignments for approval, right?",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this.",
+            "timestamp": "00:01:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "this section here is basically like this will only be populated really when we've created new assignments that we need them to like sign off on the titles so this like um keyword keyword research that you're doing around like the new forensic topics once you've generated a site have you done that yes that's the result yeah okay okay cool um yeah i'm and on like i know like growthx moves are like really fast and there's loads of tools so if you're like stuck just just let me know but so basically like now you have that sheet so i think let's we can go ahead and import that um it's actually like pretty straightforward to do what you can do is like go into the raw assignments view this has everything um you can group it however you like and then you just import uh the csv file and then like when it um",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And when it prompts to upload, you can map the fields correctly.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In the past, depending on how many assignments it is, I actually find it can be quicker just to do it manually.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's a pain in the , but you can just go in here and copy the title or copy the short description.",
+            "timestamp": "00:03:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once those are in, you can then change their status.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So once they're in and the logic works, then you can change their status to considering.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, no, hang on, assignments for approval.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What is this filtered by?",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, yeah, considering.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, yeah, that's a little bit confusing.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But basically, these are mirrors of each other.",
+            "timestamp": "00:03:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This should really be called considering, too.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's a little bit confusing because the status doesn't match.",
+            "timestamp": "00:03:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But it basically means, like, we've generated.",
+            "timestamp": "00:03:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A load of assignments.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We need you to sign off on them now.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They'll leave a comment in there saying, like, cool or no.",
+            "timestamp": "00:04:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And once they've gone through all of those in here, then we'll change their status to Approve to Start.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then they'll live with all the other topics we have Approve to Start.",
+            "timestamp": "00:04:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's the only thing that this view is really for.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And in theory, like most of the time, it should be empty because we'll send them a load of topics.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They'll approve them.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll move them all into Approve to Start.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then this view will be empty again.",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "then, yeah, mean, like new assignments, in theory, like we should get to a point with them that like we're choosing the topics and we don't have to get sign off from them.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, I assume like with all the assignments you've generated, we're going to have like over 100.",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's a pretty good roadmap.",
+            "timestamp": "00:04:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I want.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Kind get heads down on just like getting into a good steady state with them.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, yeah, go ahead and like upload them.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you want, you can actually like, if you get a bit like stuck with getting them into this view or making sure the logic is there, then just leave them in raw assignments, put them as backlog, and then we can like do, we can do that next week.",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There is kind of a funky thing that like the way these, the way these link.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So with all the keywords, you'll need to put the keywords in the, these are new, no, these aren't the new ones.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the key, the new keywords that you found, you'll have to load these in to this view under the right cluster.",
+            "timestamp": "00:05:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once they're, once they're in, you can then go generate the assignments.",
+            "timestamp": "00:05:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You plug all the assignments into raw assignments.",
+            "timestamp": "00:05:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then what you have to do to like get the, where is it?",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me give you an example.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Gee, some of this isn't working.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But to get, like, the volumes and keyword difficulty into here, it's actually a lookup field.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you actually have to copy the title from here, go back to target keywords, and then copy the title into this cell here.",
+            "timestamp": "00:06:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then the logic, like, works together.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I think the best thing to do is, like, if you upload the keywords in the assignments, then I can, like, I can tidy it up.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I'll record a loom just so that you know for future, like, this is kind of, it took me a while to figure out what was going on.",
+            "timestamp": "00:06:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But there's so many linked fields in Airtable.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's really handy, but sometimes it's, like, super just confusing and it's a bit of a mess.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So I have a question just quickly.",
+            "timestamp": "00:06:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "When I upload these keywords, am I also supposed to be giving suggested titles for the topics?",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Ah, okay.",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so once you put the keywords in, you can then go to...",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Atlas.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So have you generated assignments in Atlas before?",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "That's good to know.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's the gap.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So what you do is get the keywords in here, get them clustered correctly to start with.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's keep this.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's try and keep this target keywords like tidy as possible.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once you've done that, what you do is go into Atlas or RIMCUS.",
+            "timestamp": "00:07:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then in the pipeline, you'll see this assignments pipeline.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So when you go in here, you can actually import.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So what all you need to do is from that CSV that you've generated with the keywords, you actually don't even need to pull this out of Airtable.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can pull it straight out of that CSV.",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You have to create a new CSV with like a keyword as the title column, and then all the, all the keywords below it, save that as a CSV file.",
+            "timestamp": "00:07:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You upload it into here.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "I'm still seeing the OS.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "No, I'm not sharing.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, hang on, hang on.",
+            "timestamp": "00:08:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Classic, classic Google Sheets.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Google me, okay, let me share my entire screen.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, sorry, this isn't like the best.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I should have a better like presentation of this, but okay.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, okay, so from that, let me see if I can give an example.",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, you go into Atlas's pipelines, come on.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Atlas being funny too.",
+            "timestamp": "00:08:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, interim curse, editorial.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, this pipeline here, assignments, which you go in here and basically you add, you can add them one by one.",
+            "timestamp": "00:08:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, let's say it was like the keyword was construction forensics.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can ignore assignment direction unless like you have.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Already have an article idea, and you can prompt the pipeline.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This pipeline basically just generates an article title and a short description based on top-ranking content in the SERP for that keyword.",
+            "timestamp": "00:09:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Wow, okay.",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And honestly, some of the titles are really not good.",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It has gotten better, but it is worth, once you get the output, have a look at these.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Often, look for dates.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sometimes it'll be best tools of 2023 or something like that.",
+            "timestamp": "00:09:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, the titles aren't really something that we're wedded to, because you'll know when it comes to writing the article, you might find, actually, this title needs to be changed.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We don't need to go with exactly what's in the Airtable.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's more for the client just to get an idea, like, this is the kind of angle we can always do later.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can go one by one, or what you can do is you import, you pull that CSV file with all your keywords, and you a...",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And...",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And...",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "you...",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Open it here, and then basically this thing pops up that lets you like map.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it will say like you need to map this field to that field in your CSV.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's really easy.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You just like, I think it's even a drag and drop.",
+            "timestamp": "00:10:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's all you need to do.",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then open this here and then import.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you'll have all 50 or however many keywords you found will load into here.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you just need to run them.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Run them for like, I don't know how long they take.",
+            "timestamp": "00:10:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "These ones are quite long.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is the output.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So now you have your title and short description.",
+            "timestamp": "00:10:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now what you can do is you can export this and then upload it into Airtable.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You'll have to map some fields, et cetera, or you can do it manually.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Literally just like copying the title into a new box here.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Just copy the title, the short description.",
+            "timestamp": "00:10:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's where this is coming from.",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Here and here.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then the keyword list, clearly like some logic broken down in here because, oh no, this is pulling, kind of pulling.",
+            "timestamp": "00:11:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I would just do that.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like I would say if we get the keywords in and assignments generated, that's really the blocker.",
+            "timestamp": "00:11:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We don't need to worry too much about the logic.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That'll be a quick fix.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I do want to share like the new assignments because they've been hot on the forensics.",
+            "timestamp": "00:11:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's that.",
+            "timestamp": "00:11:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Again, if you have any questions, I might have even recorded some looms on some of this Airtable stuff.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll see if I can dig it out for you.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Once you've used it for a few weeks, have you used it before Airtable?",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I used it when I was in animals.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now the other question I had is...",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So in production at the moment, I'm a little bit, so I'm just slightly confused.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is this, so I loaded in five earlier this week.",
+            "timestamp": "00:12:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's eight in here now, and I'm not sure where the other three have come from.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So I may have loaded them, not knowing that you had already preloaded, because I went through the thing and figured out which ones would be the easiest to win, you know, the easy wins.",
+            "timestamp": "00:12:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So I added, actually, I didn't know you were going to, you were going to add to that.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So I added more.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "When I saw that there were yours in there, I think I prioritized it, but I may have, I may have skipped one or two just to get in.",
+            "timestamp": "00:12:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's fine.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So again, just normally with other clients, I wouldn't really worry too much, but Rimka seemed to like one, like we want five this week, then you publish five, then we want five.",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like very corporate, not a vibe.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's completely fine.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like the main point.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We deliver five this week, so I can see that you've got, that's great.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then, so these three, what I'm going to do is say, these three, I'm going to add to our, so I'll send what we're going to write next week in this, like, on basically every Friday, I'll send them a message with like a weekly roundup, and then telling them the titles that we're going to work on next week.",
+            "timestamp": "00:13:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Since you've done these five, I'm going to make sure that these three are in for next week, and then I'm going to add two, two more.",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "can see we've even got a refresh in here, which is great.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'll add two more topics in there.",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or if you have, if you have ideas already about topics that you want to do, that's fine.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't mind setting them.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll pick them and we can, we'll like work that out as we go, maybe.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, okay, cool.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So then basically there will be five, and then each week we have.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Five in production.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's super clear for them.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Again, this isn't one of their views, but they may pop into this to see what's going on.",
+            "timestamp": "00:14:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that clears that up.",
+            "timestamp": "00:14:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's great.",
+            "timestamp": "00:14:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then ready to publish.",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's there.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They have been slow on reviewing.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'm going to push them today.",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm going to see if I can set an automation that like tags us when they comment.",
+            "timestamp": "00:14:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, that would be really helpful.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, it's really not good.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This like setup is good.",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I need to have a look because I might be able to.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, I'll let you know.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then it will ping us in Slack and be like, hey, they left a comment because otherwise, like, it's a lot of manual checking.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's actually really annoying.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know why we can't actually just add them to a table.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But anyway, that's about my station.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, let me see if I can wait.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "wait.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Otherwise, like, we're in a good spot.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "basically means we'll have, yeah, we'll basically be back on track with this, like, five by five by five cadence.",
+            "timestamp": "00:15:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that's everything.",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is there anything, do you have any questions while we're on, like, Rimkus-wise that I can help with or anything?",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "No, so my priority today is to get them these five, which are, right now, they're just in the fact-checking state.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Like, they're written, I've pared them down to what they need to be, but because we had problems with the links, I'm having some agentic AI problems with the links, so I'm trying to figure that out, but I'm going over that meticulously, so we don't have any repeat of them asking for things.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Now, their writing guidelines say that they want .org, .gov, or Rimkus only, yeah, for their citations, but every once in a while,",
+            "timestamp": "00:15:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "We'll put one in that we know speaks exactly to what they're talking about.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Should I notate in that article?",
+            "timestamp": "00:16:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "I know that this isn't one of the links you asked for, because they're asking for test cases, and they don't have the test cases on RIMCIS.",
+            "timestamp": "00:16:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So they asked us to anonymize it, which we have, but the link to what that test case actually goes to is from the Seattle Times.",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "It's from a newspaper.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "It's not .gov or .org or RIMCIS.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "She's been, Alicia has been back and forth with that.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Like, sometimes she'll accept it, and sometimes she'll say, no, take this link out.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Absolutely fine, but I don't want to keep annoying her by putting links in that I know she's going to have an issue with.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So I thought, do we get ahead of that and just make a comment in the document?",
+            "timestamp": "00:16:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Hey, I know this isn't the right link, but it's the only one that goes to this story.",
+            "timestamp": "00:16:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I hear what you're saying.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "To be honest, I would rather",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, try and reduce the amount of back and forth with them because I feel like they're the type that might, we might just end up like in an endless, you know, it's not, it's not helpful for you to have to be like tracking tiny edits that they've made, you know, a week later.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just like, that's not efficient.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'm in the camp that's like, we're the experts here.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're making the calls.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If I will raise, I think for now, like, let's, in those situations, use, just use the link, use the best link.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If they keep raising it, I will add it to the agenda on Wednesday and say, hey, like, we know this is the rule, but in certain cases, it's the only source.",
+            "timestamp": "00:17:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So would you rather us, like, ditch it completely or put it in because we can't have the back and forth, like, every single time?",
+            "timestamp": "00:17:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, but otherwise, like, it's the same with edits, you know, like, they, in my view, they get...",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They get one shot.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Ultimately, we're judged on our cadence and the performance of the blogs, and that means we have to publish.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so they're paying us for that.",
+            "timestamp": "00:18:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So when it comes to review, it's like, hey, here's your chance to review.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You've seen it.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now it's in.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Accept their suggestions, make their edits, and then we push it to publish.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if we come later on and say, oh, we would have wanted more rounds of review on this, we can pull the page.",
+            "timestamp": "00:18:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Which, like, worst case, we pull the page live, but I don't think it's ever going to get to that.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They get a chance to look, that's our, like, buffer zone, now we publish.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We have to, like, show progress on this.",
+            "timestamp": "00:18:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I don't want you, like, just buried and, you know, like, changing punctuation and stuff like that.",
+            "timestamp": "00:18:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "On that point, the 1,400 figure, that's in the company context, right?",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The 1,400.",
+            "timestamp": "00:18:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Now they're saying 900, right?",
+            "timestamp": "00:18:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so I'll change that.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "I'll make sure to change that today.",
+            "timestamp": "00:19:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah, let's change that because Atlas loves just like, I don't know if you've noticed, but even in the copy, like whatever is in the company context, like there are certain phrases that just get repeated over and over again that taken straight out of the company context, which is kind of actually kind of frustrating, but cool.",
+            "timestamp": "00:19:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cool, okay.",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What else?",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm updating Looker today too, because we have new articles in there, so.",
+            "timestamp": "00:19:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, yeah, let's do that on, basically like we have, because we sync on Wednesday, I just want like the most up-to-date Looker Dash by Wednesdays.",
+            "timestamp": "00:19:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So whether you, like I think to do it on Friday is great.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let's see how the cadence goes.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If we start getting a quick review phrase and we're publishing on a Monday, you know, they're reviewing over the weekend or they're reviewing on Monday and we publish on Tuesday, then the more.",
+            "timestamp": "00:19:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The data we get into Looker before the sync, the better the reporting looks, but that's completely fine.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:20:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, so that's Rimkus.",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Next week, so I've seen the layout of the new structure.",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Patricia, I think I'm going to put you on seat instead of Tavern just because Patricia, who's another CM, she joined and basically went straight on to Tavern.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So she's been working on that account for like 13 weeks and there's like a lot of, it will be easier for I think both of you guys to like not have to do that information exchange.",
+            "timestamp": "00:20:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I want to keep her on there, which means you'll probably take over seat.",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The current CM Moses, he's leaving at the end of next week.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I do.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think you're done with LightSource, right?",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just Enable.",
+            "timestamp": "00:21:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "LightSource is out.",
+            "timestamp": "00:21:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "It's just Enable and Remkes right now.",
+            "timestamp": "00:21:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay, rad.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So next week, I'll probably give you a couple of...",
+            "timestamp": "00:21:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll brief you on Seat a little bit, and then maybe we can do a few tasks and split the work with Moses because he is working.",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But it will give you a chance to just get familiar with the brand and maybe one or two pilot articles just to help you get up to speed.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I'll confirm that probably on Monday.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just need to double-check with Adida.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "That's fine.",
+            "timestamp": "00:21:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What do you...",
+            "timestamp": "00:21:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What's the capacity for Enable?",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What's the delivery amount for them?",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So they're five a week, but they're still having issues with the calibration blog, and they're going back and forth with Ada.",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "One of the issues is that they...",
+            "timestamp": "00:21:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "We asked for something to be added to the objective pipeline, that talks about...",
+            "timestamp": "00:21:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Their product because there was no product description or product overview, not an in-depth one.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "The other issue with them is that we wrote blogs for them because we had thought the calibration blog was good.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "And then they decided to bring in PMs to look at the blogs.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "And the PMs and the marketing people do not agree on what these blogs should be like.",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So we're kind of still, we're just waiting for that one piece and then for the ejected pipeline to be done.",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "And then Ada says that they're going to get the, we already produced five for them that they never looked at.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "And she's going to, she said that after we get all of this in, we may rerun the stories and then they can, they can go from there, but there'll be five a week.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:22:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So they're, okay.",
+            "timestamp": "00:22:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What week are they in now?",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like six or something?",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Yeah, you know, they, they came out of strategy sprints.",
+            "timestamp": "00:22:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "So yeah.",
+            "timestamp": "00:22:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Oh, okay.",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, okay.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's fine.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then seat is also five articles.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then there's like real city.",
+            "timestamp": "00:22:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "10 of these tool pages, but it's, like, programmatic, so the pipeline's actually great.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, it's a very minimal lift.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's basically, like, checking the internal links when we go to publish.",
+            "timestamp": "00:23:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's a pretty, like, one.",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I will, yeah, I need to chat to Moses.",
+            "timestamp": "00:23:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So on your radar, like, probably a couple of things to do for Seed next week just to try and get you up to speed.",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then from the following week, then it will be, like, a full takeover.",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll make sure everything is documented for you from Moses for the handover.",
+            "timestamp": "00:23:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that's it.",
+            "timestamp": "00:23:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "If I have any questions, I'll make sure to tag you in Slack.",
+            "timestamp": "00:23:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "I appreciate all the help.",
+            "timestamp": "00:23:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "I mean, I know it's kind of a lot of hand-holding right now, but I think I'm getting it down, and I think that this is all very, very helpful.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, no, seriously, like, I started in March, I think, and it was, like, I remember my...",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The first month, I was just like, what the hell is all of this?",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we weren't even on Atlas yet.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We were still on Aerofs, and it was like, and I was really lucky.",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "had, like, a couple of people just helped.",
+            "timestamp": "00:24:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, I just asked stupid questions, and it made me learn, like, way quicker.",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So please, like, if you have questions, get me on Slack.",
+            "timestamp": "00:24:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Matthew Alves-Hill",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll do all I can to help.",
+            "timestamp": "00:24:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:24:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Thanks, Matt.",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "I appreciate that.",
+            "timestamp": "00:24:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "All right, Lawrence.",
+            "timestamp": "00:24:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Thank you, Ethan.",
+            "timestamp": "00:24:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Go.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Lawrence Neves",
+                "matched_calendar_invitee_email": "lawrence@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:24:36"
+        }
+    ]
+}

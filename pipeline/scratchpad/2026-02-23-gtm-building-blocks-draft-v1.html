@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GrowthX GTM Building Blocks — Draft View</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; background: #0a0a0f; color: #e0e0e0; padding: 40px; line-height: 1.5; }
+
+  .page-header { text-align: center; margin-bottom: 48px; }
+  .page-header h1 { font-size: 32px; font-weight: 700; color: #fff; letter-spacing: -0.5px; }
+  .page-header .subtitle { font-size: 14px; color: #888; margin-top: 8px; }
+  .draft-badge { display: inline-block; background: #f59e0b22; color: #f59e0b; font-size: 11px; font-weight: 600; padding: 4px 12px; border-radius: 20px; border: 1px solid #f59e0b44; margin-bottom: 12px; letter-spacing: 1px; text-transform: uppercase; }
+
+  /* Section Headers */
+  .section { margin-bottom: 56px; }
+  .section-label { font-size: 11px; font-weight: 600; color: #6366f1; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 16px; }
+
+  /* Scoreboard */
+  .scoreboard { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; margin-bottom: 56px; }
+  .score-card { background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 20px; text-align: center; }
+  .score-card .value { font-size: 28px; font-weight: 700; color: #fff; }
+  .score-card .label { font-size: 12px; color: #888; margin-top: 4px; }
+  .score-card.highlight { border-color: #6366f144; background: #6366f108; }
+  .score-card.highlight .value { color: #818cf8; }
+
+  /* The Engine — Customer Journey */
+  .engine { display: flex; align-items: stretch; gap: 0; margin-bottom: 16px; }
+  .engine-phase { flex: 1; background: #13131a; border: 1px solid #1e1e2e; padding: 24px; position: relative; }
+  .engine-phase:first-child { border-radius: 12px 0 0 12px; }
+  .engine-phase:last-child { border-radius: 0 12px 12px 0; }
+  .engine-phase h3 { font-size: 16px; font-weight: 700; color: #fff; margin-bottom: 4px; }
+  .engine-phase .duration { font-size: 12px; color: #6366f1; font-weight: 600; margin-bottom: 12px; }
+  .engine-phase .goal { font-size: 13px; color: #aaa; margin-bottom: 12px; }
+  .engine-phase .metric { font-size: 13px; color: #10b981; font-weight: 600; }
+  .engine-phase .workstreams { margin-top: 12px; }
+  .engine-phase .workstreams li { font-size: 12px; color: #888; margin-bottom: 4px; list-style: none; padding-left: 14px; position: relative; }
+  .engine-phase .workstreams li::before { content: "→"; position: absolute; left: 0; color: #555; }
+  .arrow-connector { display: flex; align-items: center; justify-content: center; width: 32px; flex-shrink: 0; }
+  .arrow-connector svg { width: 20px; height: 20px; fill: #6366f1; }
+
+  /* Product Ecosystem */
+  .products-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
+  .product-card { background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 20px; position: relative; }
+  .product-card.primary { border-color: #10b98144; }
+  .product-card.secondary { border-color: #6366f122; }
+  .product-tag { font-size: 10px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; padding: 3px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; }
+  .tag-revenue { background: #10b98122; color: #10b981; }
+  .tag-leadgen { background: #f59e0b22; color: #f59e0b; }
+  .tag-marketplace { background: #8b5cf622; color: #8b5cf6; }
+  .tag-infra { background: #3b82f622; color: #3b82f6; }
+  .tag-demand { background: #ec489922; color: #ec4899; }
+  .product-card h4 { font-size: 15px; font-weight: 700; color: #fff; margin-bottom: 6px; }
+  .product-card .purpose { font-size: 12px; color: #888; margin-bottom: 10px; }
+  .product-card .model { font-size: 12px; color: #aaa; }
+  .product-card .price { font-size: 13px; font-weight: 600; color: #6366f1; margin-top: 8px; }
+
+  /* Team Structure */
+  .team-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .team-block { background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 24px; }
+  .team-block h4 { font-size: 15px; font-weight: 700; color: #fff; margin-bottom: 6px; }
+  .team-block .desc { font-size: 13px; color: #888; margin-bottom: 12px; }
+  .role-list { list-style: none; }
+  .role-list li { font-size: 13px; color: #ccc; padding: 6px 0; border-bottom: 1px solid #1a1a25; display: flex; justify-content: space-between; }
+  .role-list li:last-child { border-bottom: none; }
+  .role-list .role-name { font-weight: 600; }
+  .role-list .role-focus { color: #888; font-size: 12px; }
+
+  /* Growth Levers */
+  .levers { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
+  .lever { background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 20px; text-align: center; }
+  .lever .icon { font-size: 24px; margin-bottom: 8px; }
+  .lever h4 { font-size: 14px; font-weight: 700; color: #fff; margin-bottom: 6px; }
+  .lever .desc { font-size: 12px; color: #888; }
+  .lever.active { border-color: #10b98144; }
+
+  /* Moats */
+  .moats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .moat { background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 24px; text-align: center; }
+  .moat h4 { font-size: 15px; font-weight: 700; color: #fff; margin-bottom: 6px; }
+  .moat .desc { font-size: 12px; color: #888; }
+  .moat .how { font-size: 12px; color: #6366f1; margin-top: 10px; font-weight: 500; }
+
+  /* Strategic Vectors */
+  .vectors { display: grid; grid-template-columns: repeat(7, 1fr); gap: 12px; }
+  .vector { background: #13131a; border: 1px solid #1e1e2e; border-radius: 10px; padding: 16px; text-align: center; }
+  .vector .num { font-size: 20px; font-weight: 800; color: #6366f1; margin-bottom: 4px; }
+  .vector h4 { font-size: 12px; font-weight: 600; color: #fff; margin-bottom: 4px; }
+  .vector .desc { font-size: 11px; color: #777; }
+
+  /* Flywheel */
+  .flywheel-container { display: flex; gap: 24px; }
+  .flywheel-loop { flex: 1; background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 24px; }
+  .flywheel-loop h4 { font-size: 15px; font-weight: 700; margin-bottom: 10px; }
+  .flywheel-loop.quality h4 { color: #10b981; }
+  .flywheel-loop.efficiency h4 { color: #6366f1; }
+  .flywheel-loop.knowledge h4 { color: #f59e0b; }
+  .loop-chain { font-size: 12px; color: #999; line-height: 1.8; }
+  .loop-chain span { color: #ccc; font-weight: 500; }
+
+  /* Funnel flow */
+  .funnel-flow { display: flex; align-items: center; justify-content: center; gap: 0; margin: 24px 0 8px; }
+  .funnel-step { background: #1e1e2e; padding: 8px 18px; font-size: 12px; font-weight: 600; color: #ccc; }
+  .funnel-step:first-child { border-radius: 8px 0 0 8px; }
+  .funnel-step:last-child { border-radius: 0 8px 8px 0; }
+  .funnel-arrow { color: #6366f1; font-size: 16px; padding: 0 2px; }
+
+  /* Capacity table */
+  .capacity-table { width: 100%; border-collapse: collapse; background: #13131a; border-radius: 12px; overflow: hidden; }
+  .capacity-table th { text-align: left; padding: 12px 16px; font-size: 12px; font-weight: 600; color: #888; text-transform: uppercase; letter-spacing: 1px; border-bottom: 1px solid #1e1e2e; }
+  .capacity-table td { padding: 12px 16px; font-size: 13px; color: #ccc; border-bottom: 1px solid #1a1a25; }
+  .capacity-table tr:last-child td { border-bottom: none; }
+  .capacity-table .gap { color: #f59e0b; font-weight: 600; }
+
+  /* Notes */
+  .notes { background: #13131a; border: 1px solid #f59e0b33; border-radius: 12px; padding: 24px; margin-top: 48px; }
+  .notes h3 { font-size: 14px; font-weight: 700; color: #f59e0b; margin-bottom: 12px; }
+  .notes ul { list-style: none; }
+  .notes li { font-size: 13px; color: #999; margin-bottom: 8px; padding-left: 16px; position: relative; }
+  .notes li::before { content: "⚡"; position: absolute; left: 0; }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <div class="draft-badge">Draft — Starting Point</div>
+  <h1>GrowthX GTM Building Blocks</h1>
+  <p class="subtitle">Strategy, Team Focus, and Growth Architecture — February 2026</p>
+</div>
+
+<!-- SCOREBOARD -->
+<div class="section">
+  <div class="section-label">Where We Are Today</div>
+  <div class="scoreboard">
+    <div class="score-card highlight">
+      <div class="value">~$7M</div>
+      <div class="label">Current ARR</div>
+    </div>
+    <div class="score-card">
+      <div class="value">$22M+</div>
+      <div class="label">Target ARR</div>
+    </div>
+    <div class="score-card">
+      <div class="value">45+</div>
+      <div class="label">Customers</div>
+    </div>
+    <div class="score-card">
+      <div class="value">$157K</div>
+      <div class="label">Avg ACV</div>
+    </div>
+    <div class="score-card">
+      <div class="value">74%</div>
+      <div class="label">Gross Margin</div>
+    </div>
+  </div>
+</div>
+
+<!-- THE ENGINE: CUSTOMER JOURNEY -->
+<div class="section">
+  <div class="section-label">The Engine — Customer Journey</div>
+  <div class="engine">
+    <div class="engine-phase">
+      <h3>Sales</h3>
+      <div class="duration">~6 weeks</div>
+      <div class="goal">Qualify fit. Filter for B2B tech-enabled companies with pressure to grow.</div>
+      <div class="metric">48% win rate · &lt;30 day cycles</div>
+      <ul class="workstreams">
+        <li>3-layer qualification</li>
+        <li>$200K+/yr budget threshold</li>
+        <li>Inbound + word-of-mouth driven</li>
+      </ul>
+    </div>
+    <div class="arrow-connector">
+      <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+    </div>
+    <div class="engine-phase">
+      <h3>Strategy Sprint</h3>
+      <div class="duration">8 weeks · paid</div>
+      <div class="goal">Build trust, calibrate, set up for success. This is where trust is built or broken.</div>
+      <div class="metric">80%+ conversion target</div>
+      <ul class="workstreams">
+        <li>Context Engineering</li>
+        <li>Strategy Development</li>
+        <li>Calibration (voice, quality, product)</li>
+        <li>Baseline Establishment</li>
+      </ul>
+    </div>
+    <div class="arrow-connector">
+      <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+    </div>
+    <div class="engine-phase">
+      <h3>Growth Execution</h3>
+      <div class="duration">12+ months</div>
+      <div class="goal">Drive compounding growth. Every week should get easier. Every page is an asset.</div>
+      <div class="metric">96%+ monthly retention target</div>
+      <ul class="workstreams">
+        <li>Ongoing content production</li>
+        <li>Performance optimization</li>
+        <li>Proactive opportunity surfacing</li>
+        <li>Expansion & upsells</li>
+      </ul>
+    </div>
+  </div>
+  <div class="funnel-flow">
+    <div class="funnel-step">Right Strategy</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">Quality Content</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">Indexed</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">Impressions & Citations</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">Clicks & Traffic</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">Conversions</div>
+  </div>
+</div>
+
+<!-- PRODUCT ECOSYSTEM -->
+<div class="section">
+  <div class="section-label">Product Ecosystem — Multi-Product GTM</div>
+  <div class="products-grid">
+    <div class="product-card secondary">
+      <div class="product-tag tag-leadgen">Lead Gen</div>
+      <h4>CheckThat.ai</h4>
+      <p class="purpose">Open AI visibility index. Our "marketing budget" — plant the flag, generate leads, build data moat.</p>
+      <p class="model">Freemium PLG · Zero-touch · Horizontal</p>
+      <p class="price">$200/mo max</p>
+    </div>
+    <div class="product-card primary">
+      <div class="product-tag tag-revenue">Revenue Engine</div>
+      <h4>ContentOS</h4>
+      <p class="purpose">Core revenue engine. All-batteries-included content operations platform. Make all content agencies obsolete.</p>
+      <p class="model">Enterprise B2B · Self-Operated + GrowthX-Operated</p>
+      <p class="price">$2K–$10K+/mo</p>
+    </div>
+    <div class="product-card">
+      <div class="product-tag tag-marketplace">Marketplace</div>
+      <h4>ExpertLayer.ai</h4>
+      <p class="purpose">Quality layer for AI content. Expert marketplace that creates network effects.</p>
+      <p class="model">Marketplace take-rate · Supply + Demand</p>
+      <p class="price">20% take rate</p>
+    </div>
+    <div class="product-card">
+      <div class="product-tag tag-infra">Infrastructure</div>
+      <h4>Output.ai</h4>
+      <p class="purpose">Technical credibility play. Open source framework for agents and workflows.</p>
+      <p class="model">OSS + Cloud + Marketplace</p>
+      <p class="price">Free → Paid hosting</p>
+    </div>
+    <div class="product-card">
+      <div class="product-tag tag-demand">Demand Gen</div>
+      <h4>AI Led Growth</h4>
+      <p class="purpose">Category creation. Education + community. Talent and consulting pipeline.</p>
+      <p class="model">Education · Content · Recruiting</p>
+      <p class="price">Brand + pipeline value</p>
+    </div>
+  </div>
+  <div class="funnel-flow">
+    <div class="funnel-step">AI Led Growth (Discover)</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">CheckThat (Enter)</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">ContentOS (Convert)</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">ExpertLayer (Quality)</div>
+    <div class="funnel-arrow">→</div>
+    <div class="funnel-step">Output.ai (Extend)</div>
+  </div>
+</div>
+
+<!-- TEAM STRUCTURE -->
+<div class="section">
+  <div class="section-label">Team Structure & Focus Areas</div>
+  <div class="team-grid">
+    <div class="team-block">
+      <h4>Sales Team</h4>
+      <div class="desc">Qualify and close. Inbound + word-of-mouth driven. Low sales cost structure.</div>
+      <ul class="role-list">
+        <li><span class="role-name">Sales Leads</span><span class="role-focus">Pipeline, qualification, closing</span></li>
+        <li><span class="role-name">Marcel / Leadership</span><span class="role-focus">Enterprise deals, founder-led sales</span></li>
+      </ul>
+    </div>
+    <div class="team-block">
+      <h4>Strategy Sprint Team</h4>
+      <div class="desc">Run 8-week sprints. Convert to Growth Execution. Zero trust-busters allowed.</div>
+      <ul class="role-list">
+        <li><span class="role-name">Engagement Managers</span><span class="role-focus">Client relationship, conversion owner</span></li>
+        <li><span class="role-name">Editors / Production</span><span class="role-focus">Calibration content, quality benchmarks</span></li>
+        <li><span class="role-name">FDEs</span><span class="role-focus">Workspace setup, AI workflow customization</span></li>
+        <li><span class="role-name">SEO Specialists</span><span class="role-focus">Baseline audits, technical analysis</span></li>
+      </ul>
+    </div>
+    <div class="team-block">
+      <h4>Delivery Pods (Growth Execution)</h4>
+      <div class="desc">Ongoing execution in pods. System mindset — every week gets easier. Proactive, not reactive.</div>
+      <ul class="role-list">
+        <li><span class="role-name">Engagement Managers</span><span class="role-focus">Renewals, expansion, book of business</span></li>
+        <li><span class="role-name">Editors / Production</span><span class="role-focus">Content pipeline, weeks-ahead pacing</span></li>
+        <li><span class="role-name">CCO</span><span class="role-focus">Quality standards across all teams</span></li>
+      </ul>
+    </div>
+    <div class="team-block">
+      <h4>Shared / Forward-Deployed Resources</h4>
+      <div class="desc">Deployed where needed — not embedded in every account. Leverage, not headcount.</div>
+      <ul class="role-list">
+        <li><span class="role-name">Directors</span><span class="role-focus">Senior strategy, escalations, mentorship</span></li>
+        <li><span class="role-name">FDEs</span><span class="role-focus">AI workflows, pipeline optimization</span></li>
+        <li><span class="role-name">SEO Specialists</span><span class="role-focus">Audits, deep dives, technical fixes</span></li>
+        <li><span class="role-name">Design / Dev</span><span class="role-focus">Web work, implementation, client initiatives</span></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- GROWTH LEVERS -->
+<div class="section">
+  <div class="section-label">The 5 Growth Levers</div>
+  <div class="levers">
+    <div class="lever active">
+      <div class="icon">🚀</div>
+      <h4>More Kickoffs</h4>
+      <div class="desc">Scale Sprint capacity. 4 FTEs per 1 kickoff/week. Biggest multiplier but requires hiring + ramp.</div>
+    </div>
+    <div class="lever">
+      <div class="icon">🎯</div>
+      <h4>Better Conversion</h4>
+      <div class="desc">Convert more Sprints to 12-month contracts. Target 80%+. Zero trust-busters.</div>
+    </div>
+    <div class="lever">
+      <div class="icon">📈</div>
+      <h4>Higher ACV</h4>
+      <div class="desc">Move upstream. More workstreams per customer. Target $200K+/yr.</div>
+    </div>
+    <div class="lever">
+      <div class="icon">🔒</div>
+      <h4>Lower Churn</h4>
+      <div class="desc">4% monthly = lose 40% yearly. 2% = lose 22%. Small changes, massive compound impact.</div>
+    </div>
+    <div class="lever">
+      <div class="icon">🔄</div>
+      <h4>More Expansion</h4>
+      <div class="desc">Grow existing accounts. New workstreams, adjacent services. Right conversation → expansion.</div>
+    </div>
+  </div>
+</div>
+
+<!-- CAPACITY SCALING -->
+<div class="section">
+  <div class="section-label">Capacity — Scaling from 2 to 4 Kickoffs/Week</div>
+  <table class="capacity-table">
+    <tr>
+      <th>Input</th>
+      <th>Current (2/wk)</th>
+      <th>Target (4/wk)</th>
+      <th>Gap</th>
+      <th>Ramp Time</th>
+    </tr>
+    <tr>
+      <td>Sprint FTEs</td>
+      <td>8</td>
+      <td>16</td>
+      <td class="gap">+8 hires</td>
+      <td>2 months</td>
+    </tr>
+    <tr>
+      <td>FDEs</td>
+      <td>2</td>
+      <td>4</td>
+      <td class="gap">+2 hires</td>
+      <td>Shared</td>
+    </tr>
+    <tr>
+      <td>Pods</td>
+      <td>~1/month</td>
+      <td>~2/month</td>
+      <td class="gap">+1 pod</td>
+      <td>2 months</td>
+    </tr>
+    <tr>
+      <td>Pipeline</td>
+      <td>18 opps/week</td>
+      <td>36 opps/week</td>
+      <td class="gap">2x pipeline</td>
+      <td>—</td>
+    </tr>
+  </table>
+</div>
+
+<!-- FOUR MOATS -->
+<div class="section">
+  <div class="section-label">Four Competitive Moats</div>
+  <div class="moats">
+    <div class="moat">
+      <h4>Brand</h4>
+      <div class="desc">Trust compounds. Results speak. Word of mouth drives growth.</div>
+      <div class="how">Customers become your sales team</div>
+    </div>
+    <div class="moat">
+      <h4>Scale</h4>
+      <div class="desc">Unit economics improve with each project. AI workflows get smarter.</div>
+      <div class="how">Marginal cost drops, quality rises</div>
+    </div>
+    <div class="moat">
+      <h4>Embedding</h4>
+      <div class="desc">AI adapts to customer voice, context, processes. Switching = starting over.</div>
+      <div class="how">Switching costs increase over time</div>
+    </div>
+    <div class="moat">
+      <h4>Network</h4>
+      <div class="desc">Cross-client insights feed AI. Better AI attracts better experts.</div>
+      <div class="how">Knowledge compounds across clients</div>
+    </div>
+  </div>
+</div>
+
+<!-- 7 STRATEGIC GROWTH VECTORS -->
+<div class="section">
+  <div class="section-label">7 Strategic Growth Vectors</div>
+  <div class="vectors">
+    <div class="vector">
+      <div class="num">1</div>
+      <h4>New Workstreams</h4>
+      <div class="desc">Lead magnets, pillar pages, conversion assets</div>
+    </div>
+    <div class="vector">
+      <div class="num">2</div>
+      <h4>Distribution & Conversion</h4>
+      <div class="desc">Full growth funnel beyond content</div>
+    </div>
+    <div class="vector">
+      <div class="num">3</div>
+      <h4>Specialized Verticals</h4>
+      <div class="desc">E-commerce, finserv, healthcare, technical</div>
+    </div>
+    <div class="vector">
+      <div class="num">4</div>
+      <h4>New Domains</h4>
+      <div class="desc">Recruiting, ops, consulting functions</div>
+    </div>
+    <div class="vector">
+      <div class="num">5</div>
+      <h4>Acquisitions</h4>
+      <div class="desc">Well-run agencies with exceptional talent</div>
+    </div>
+    <div class="vector">
+      <div class="num">6</div>
+      <h4>Productize APIs</h4>
+      <div class="desc">Enterprise integration layer</div>
+    </div>
+    <div class="vector">
+      <div class="num">7</div>
+      <h4>Platform Play</h4>
+      <div class="desc">Client self-service (à la Cursor)</div>
+    </div>
+  </div>
+</div>
+
+<!-- COMPOUNDING LOOPS -->
+<div class="section">
+  <div class="section-label">Compounding Loops — The Flywheel</div>
+  <div class="flywheel-container">
+    <div class="flywheel-loop quality">
+      <h4>Quality Loop</h4>
+      <div class="loop-chain">
+        <span>Better services</span> → Better data → <span>Better AI</span> → Better experts → <span>Superior outcomes</span> → Better services
+      </div>
+    </div>
+    <div class="flywheel-loop efficiency">
+      <h4>Efficiency Loop</h4>
+      <div class="loop-chain">
+        <span>More projects</span> → Better automation → <span>Greater capacity</span> → Lower costs → <span>More projects</span>
+      </div>
+    </div>
+    <div class="flywheel-loop knowledge">
+      <h4>Knowledge Loop</h4>
+      <div class="loop-chain">
+        <span>Expert insights</span> → Enhanced models → <span>Better decisions</span> → Attract more experts → <span>More insights</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SERVICE-AS-SOFTWARE MODEL -->
+<div class="section">
+  <div class="section-label">The Model — Service-as-Software</div>
+  <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px;">
+    <div style="background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 24px;">
+      <h4 style="color: #fff; font-size: 15px; margin-bottom: 8px;">Services → Technology</h4>
+      <p style="font-size: 13px; color: #888;">Service delivery generates data. Data improves AI. Better AI improves delivery. Each project reduces marginal costs.</p>
+    </div>
+    <div style="background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 24px;">
+      <h4 style="color: #fff; font-size: 15px; margin-bottom: 8px;">Technology → Marketplace</h4>
+      <p style="font-size: 13px; color: #888;">Platform makes experts efficient. Better results attract more experts. Talent network grows.</p>
+    </div>
+    <div style="background: #13131a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 24px;">
+      <h4 style="color: #fff; font-size: 15px; margin-bottom: 8px;">Marketplace → Services</h4>
+      <p style="font-size: 13px; color: #888;">Elite talent enhances reputation. Reputation attracts customers. More customers mean more data. Cycle continues.</p>
+    </div>
+  </div>
+</div>
+
+<!-- KEY RISKS & OPEN QUESTIONS -->
+<div class="notes">
+  <h3>Key Tensions & Open Questions</h3>
+  <ul>
+    <li>Product focus risk: Marcel & Daniel's attention spread across too many products. No independent product leaders yet.</li>
+    <li>Capacity bottleneck: Scaling from 2→4 kickoffs/week requires 2x pipeline and significant hiring ahead of demand.</li>
+    <li>Churn sensitivity: At current scale, every point of monthly churn compounds hard against growth targets.</li>
+    <li>CheckThat vs. ContentOS: Clear separation needed, but integration is the value. Threading this needle is the GTM challenge.</li>
+    <li>Service-as-software positioning: Market hasn't fully understood the category. Education cost is real (hence AI Led Growth).</li>
+    <li>$7M → $22M in one year: ~3x growth requires all levers pulling simultaneously — kickoffs, conversion, ACV, retention, expansion.</li>
+  </ul>
+</div>
+
+<div style="text-align: center; margin-top: 48px; padding: 24px; color: #555; font-size: 12px;">
+  GrowthX GTM Building Blocks — Draft v1 — Feb 23, 2026<br>
+  Built from: strategy-overview.md, vision-and-strategy.md, business-model.md, customer-lifecycle.md, ecosystem-strategy.md, teams-and-operations.md
+</div>
+
+</body>
+</html>

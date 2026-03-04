@@ -1,0 +1,4234 @@
+[
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Hi.",
+    "timestamp": "00:00:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "Hey, hey.",
+    "timestamp": "00:00:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "I will write to you later about some thoughts from the previous one.",
+    "timestamp": "00:00:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:00:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Hi, Chris.",
+    "timestamp": "00:00:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Hey, great to see you both.",
+    "timestamp": "00:00:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Great to see you.",
+    "timestamp": "00:00:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "How did your meeting with Nicholas go?",
+    "timestamp": "00:00:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Oh, thanks for asking about that.",
+    "timestamp": "00:00:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "It was good.",
+    "timestamp": "00:00:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "But, yeah, so we're trying to go through, you know, first batch of content.",
+    "timestamp": "00:00:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "There's a bigger, bigger, bigger, it's like a continuously expanding problem around how to work with a content engine, you know, where, you know, outputs become sources.",
+    "timestamp": "00:00:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "And, you know, get matched to performance, which become sources.",
+    "timestamp": "00:00:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "And, yeah, it's a really fascinating problem.",
+    "timestamp": "00:00:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "It sounds like, you know, he's, he's already.",
+    "timestamp": "00:00:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "We've done thinking on this, but it's still sort of an open space of, you know, and it hasn't been fully resolved industry-wide, like, how to deal with this.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So it's a really interesting problem space, dealing with so much context, trying to create very sharp outputs at scale, you know, and the whole feedback loop with it.",
+    "timestamp": "00:01:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah.",
+    "timestamp": "00:01:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And to give you, like, a little bit of insights where just my experience as a content person, no development experience on my end, it's very, like, coming into this company, I assume that a developer would intuitively know what I wanted a workflow to do.",
+    "timestamp": "00:01:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, I want this type of output, I don't want it to do this.",
+    "timestamp": "00:01:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And you really have to, like, break down your process into very, very small steps to get the best results.",
+    "timestamp": "00:01:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And you really have to, like, over communicate, because most developers, they haven't written content before, they're just not in that space.",
+    "timestamp": "00:01:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We really have to get really good at like explaining what you want it to do.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So that's always an interesting challenge.",
+    "timestamp": "00:02:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "It's amazing.",
+    "timestamp": "00:02:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "It really makes you such a fantastic editor.",
+    "timestamp": "00:02:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "How explicit you have to be about how you think about everything.",
+    "timestamp": "00:02:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah, it really is.",
+    "timestamp": "00:02:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It really is fascinating.",
+    "timestamp": "00:02:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Hi, Gary.",
+    "timestamp": "00:02:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Hi, Rob.",
+    "timestamp": "00:02:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Hey.",
+    "timestamp": "00:02:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right.",
+    "timestamp": "00:02:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So now that we have everyone here, I thought I would dive in with just like a quick overview of what we've done since last week.",
+    "timestamp": "00:02:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we shared a calibration blog for your review.",
+    "timestamp": "00:02:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I know Robert has reviewed it.",
+    "timestamp": "00:02:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Chris, Gary, did you guys have a chance to take a look?",
+    "timestamp": "00:02:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Because we would love to publish it this week.",
+    "timestamp": "00:02:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So if you have any thoughts or feedback, we would love to get it.",
+    "timestamp": "00:02:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Are you talking about the AI for civil engineering one?",
+    "timestamp": "00:02:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yes, exactly.",
+    "timestamp": "00:02:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Yeah, yeah.",
+    "timestamp": "00:02:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "I went through that, too, and approved it.",
+    "timestamp": "00:02:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "I just made like some slight edits, but then approved it.",
+    "timestamp": "00:02:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:02:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Perfect.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Did I miss a step that you were looking for us?",
+    "timestamp": "00:03:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I just marked check on the Slack message.",
+    "timestamp": "00:03:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Oh, yeah.",
+    "timestamp": "00:03:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "No, no, that's enough.",
+    "timestamp": "00:03:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I was just wondering because a lot of \u2013 it's different.",
+    "timestamp": "00:03:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I think this first calibration blog really sort of hit the nail on the head, but sometimes people have comments or feedback that they want to be incorporated into the writing guidelines.",
+    "timestamp": "00:03:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So just for, like, future reference, if we deliver a blog and you come across a paragraph or a tone or whatever, an example that you don't want it to use anymore, you can always tag Jo, and she's going to work that into the writing guidelines so that it doesn't, like, keep happening.",
+    "timestamp": "00:03:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:03:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Well, then, to abstract what my feedback was, what I'm looking for in these cases is how we use the customer, what we're claiming the customer is doing.",
+    "timestamp": "00:03:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "mean, what \u2013 so not every customer do we know are they using a use case that we're trying to promote, and so what I would suggest is",
+    "timestamp": "00:03:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "I sort of try to rephrase it so that they're in the paragraph, but we're not claiming that they use that.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "They use Monograph, but we're not starting to kind of infer extra things.",
+    "timestamp": "00:04:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So you can just kind of shift how you phrase it so that you introduce this, you put them into the mix, but then you start talking to me, the reader, about what Monograph does.",
+    "timestamp": "00:04:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, okay, that's helpful.",
+    "timestamp": "00:04:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We can go back and I think we can take a look at the version changes in the Google Doc to see like what specifically you changed.",
+    "timestamp": "00:04:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Great.",
+    "timestamp": "00:04:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, perfect.",
+    "timestamp": "00:04:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:04:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "I think, Chris, you can leave it as a comment next time if that's the case.",
+    "timestamp": "00:04:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "So it will be easier to incorporate it into artifacts.",
+    "timestamp": "00:04:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, great.",
+    "timestamp": "00:04:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So another thing we delivered, we delivered over 60 blog suggestions for review, and you approved nine.",
+    "timestamp": "00:04:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We were curious if what you thought about the other assignment.",
+    "timestamp": "00:04:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Is there a specific reason why you approved just nine, or is it just the number that you were able to get to at that point?",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "Is this the batch that Robert approved, or did you do this, Chris?",
+    "timestamp": "00:05:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yes, yes.",
+    "timestamp": "00:05:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "I don't know.",
+    "timestamp": "00:05:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "We'd have to get Robert to explain his thought process on it.",
+    "timestamp": "00:05:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, that's fine.",
+    "timestamp": "00:05:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I can send a follow-up message.",
+    "timestamp": "00:05:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I can in Slack later because we would ideally want to approve like 30 to 40 at a time just so we have like content scheduled for the next couple of weeks and that if you, for example, if you found most of the assignment suggestions in the backlog, if you didn't like them or if you wanted them to focus on something else, just let us know and we can, like, we'll find additional ones.",
+    "timestamp": "00:05:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:05:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Got",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, that works too.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right, great.",
+    "timestamp": "00:06:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "It looks like Robert might have stepped away.",
+    "timestamp": "00:06:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "Are we able to record?",
+    "timestamp": "00:06:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "He wanted to make sure that he didn't miss anything from this meeting.",
+    "timestamp": "00:06:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah, yeah.",
+    "timestamp": "00:06:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "We're recording this.",
+    "timestamp": "00:06:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Awesome.",
+    "timestamp": "00:06:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thank you.",
+    "timestamp": "00:06:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah.",
+    "timestamp": "00:06:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We have, I think, one, yeah, we have two note takers in here, which is pretty low considering the average volume of note takers.",
+    "timestamp": "00:06:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "My guess is that Robert may have not even seen the, because it's a little bit, you kind of have to understand what you're looking at.",
+    "timestamp": "00:06:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So it could be that he just got, you know, carried into another thing you had to deal with, or he may have actually missed.",
+    "timestamp": "00:06:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So maybe in a future Slack message, if you could just write, like, how many you're asking for.",
+    "timestamp": "00:06:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:06:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "He may not have known, because, you know, he kind of counted it out, like, I approve nine.",
+    "timestamp": "00:06:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, yeah, that works too.",
+    "timestamp": "00:06:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We can, I can, yeah, I'll provide a screenshot, because I know Airtable, especially when I started using it when I joined, it was really.",
+    "timestamp": "00:06:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Confusing.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we can do that.",
+    "timestamp": "00:07:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, perfect.",
+    "timestamp": "00:07:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This week, we are creating four new blogs, and they're going to be ready for your review by the end of the week.",
+    "timestamp": "00:07:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We can set up an automation.",
+    "timestamp": "00:07:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Oh, Robert just got in.",
+    "timestamp": "00:07:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:07:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:07:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we can set up an automation in Airtable where it automatically sends an email to someone on your team or multiple people when an article is ready for review.",
+    "timestamp": "00:07:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I don't know, do you want all three of you to be in that email or should it just be one person?",
+    "timestamp": "00:07:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All three.",
+    "timestamp": "00:07:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:07:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That works too.",
+    "timestamp": "00:07:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then when you're done reviewing, we're just going to add a new status, which is reviewed by Monograph, so that it's very easy for you to let us know that you're done reviewing.",
+    "timestamp": "00:07:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Hi, Robert.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Hey, sorry.",
+    "timestamp": "00:08:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I was literally just off the plane.",
+    "timestamp": "00:08:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I was in the elevator.",
+    "timestamp": "00:08:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Oh, okay.",
+    "timestamp": "00:08:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "How was your flight?",
+    "timestamp": "00:08:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Good, good.",
+    "timestamp": "00:08:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What did I miss?",
+    "timestamp": "00:08:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we were just talking about the approved assignment.",
+    "timestamp": "00:08:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So this week, or actually last week, you approved nine from the backlog.",
+    "timestamp": "00:08:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We were wondering if it would be possible to approve more.",
+    "timestamp": "00:08:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What were your thoughts on, like, the assignments overall?",
+    "timestamp": "00:08:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I just wasn't clear on how many you can do.",
+    "timestamp": "00:08:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I think in the last meeting, I was going to approve everything, and you said maybe that's too much.",
+    "timestamp": "00:08:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I just need a little bit of guidance of how much you want me to approve.",
+    "timestamp": "00:08:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Oh, okay.",
+    "timestamp": "00:08:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, you know, you produce 50 and you just want five from me, or you produce 50 and you want 25.",
+    "timestamp": "00:08:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I just need a little bit of guidance.",
+    "timestamp": "00:08:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, exactly.",
+    "timestamp": "00:08:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, yeah, sorry.",
+    "timestamp": "00:08:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I should have been more clear.",
+    "timestamp": "00:08:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So what you're approving here are just the ideas, and you can approve literally all 60 of them, but we are going to, once you",
+    "timestamp": "00:08:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Approved them, then we start generating like between five to eight every week.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that's like, that's the difference.",
+    "timestamp": "00:09:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So what you're approving is just the blog idea.",
+    "timestamp": "00:09:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then once the blog idea is approved, then we move to production and our production limit is between five to eight every week.",
+    "timestamp": "00:09:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, great.",
+    "timestamp": "00:09:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I took, I took a intuition selection based on highest priority, highest yield, and probably highest important.",
+    "timestamp": "00:09:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That's how I came up with the first nine.",
+    "timestamp": "00:09:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:09:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:09:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Sounds good.",
+    "timestamp": "00:09:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right.",
+    "timestamp": "00:09:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Well, when you get the chance, you can just go back in and approve additional ones.",
+    "timestamp": "00:09:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That gives us like a head start, especially because it's summer and a lot of people are going to be out of office.",
+    "timestamp": "00:09:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we can plan ahead.",
+    "timestamp": "00:09:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Got it.",
+    "timestamp": "00:09:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So how many are you looking for five a week out of the 60, you're looking for at least what half looking for 30.",
+    "timestamp": "00:09:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, 30 to 40.",
+    "timestamp": "00:09:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Got it.",
+    "timestamp": "00:09:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah, perfect.",
+    "timestamp": "00:09:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "All right, another update that we have.",
+    "timestamp": "00:10:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "Sorry, Aida, just a quick question on this.",
+    "timestamp": "00:10:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "So it looks like Robert went in and approved nine already.",
+    "timestamp": "00:10:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "And if there was some kind of like a prioritization from the ones that he chose to approve in that first batch, if we went to approve a bunch more, would that then deprioritize everything, everything gets lost in the shuffle, or how do we make sure that we focus on the ones that are the highest priority at this point?",
+    "timestamp": "00:10:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Oh, that's a good question.",
+    "timestamp": "00:10:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So yeah, when assignments do get like the status moves, we don't, we aren't able to track which ones were approved first, but we can leave a comment here on these four, just letting the content manager know that these should be prioritized for the next batch.",
+    "timestamp": "00:10:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What's your internal policy?",
+    "timestamp": "00:10:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What kind of comment?",
+    "timestamp": "00:10:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you say priority?",
+    "timestamp": "00:10:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you just put like a number one in front of it?",
+    "timestamp": "00:10:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What's your internal process?",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You can just, we typically just take, leave a comment here, tag the CM, and just say like priority for next week.",
+    "timestamp": "00:11:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Just leave the date.",
+    "timestamp": "00:11:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, but we can do that on our end.",
+    "timestamp": "00:11:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, why don't I do this?",
+    "timestamp": "00:11:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like I can go back there and I can adjust all the titles and put priority in front so we can see it.",
+    "timestamp": "00:11:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then anything that's approved that's not a priority is second priority.",
+    "timestamp": "00:11:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "In that case, I can actually add an additional column here that's like similar to, hold on.",
+    "timestamp": "00:11:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's like similar to this status selection, but it says like high priority, low priority, mid priority.",
+    "timestamp": "00:11:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Would that work better?",
+    "timestamp": "00:11:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's great.",
+    "timestamp": "00:11:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I don't need too many categorizations because it just makes it too complicated.",
+    "timestamp": "00:11:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like two or three, no more than three.",
+    "timestamp": "00:11:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Because it's either like do this first or not do this first.",
+    "timestamp": "00:11:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, that works too.",
+    "timestamp": "00:11:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:11:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thank you.",
+    "timestamp": "00:11:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Sure.",
+    "timestamp": "00:11:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "question, Gary.",
+    "timestamp": "00:11:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, that's important.",
+    "timestamp": "00:12:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "Yeah, don't want to lose the stuff that we've already done.",
+    "timestamp": "00:12:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah, absolutely.",
+    "timestamp": "00:12:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Another thing that we were discussing were featured images for blogs.",
+    "timestamp": "00:12:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And Chris, you shared some of your design assets last week in Framer.",
+    "timestamp": "00:12:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we had our designer, Katya, she went in and collaborated with Nicholas to add an additional step to the article generation workflow, and it will use your assets to generate like an image.",
+    "timestamp": "00:12:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So this is what I came up with.",
+    "timestamp": "00:12:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We're looking for feedback.",
+    "timestamp": "00:12:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So this is for the AI and civil engineering.",
+    "timestamp": "00:12:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "There are nine options in total.",
+    "timestamp": "00:12:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What do you think?",
+    "timestamp": "00:12:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Why is there a drone?",
+    "timestamp": "00:12:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's, you know, it's the interpretation.",
+    "timestamp": "00:12:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:12:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:12:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Maybe no drones?",
+    "timestamp": "00:13:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Maybe no drones, okay.",
+    "timestamp": "00:13:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The drone does look scary, I think.",
+    "timestamp": "00:13:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It looks like it's attacking.",
+    "timestamp": "00:13:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, it does, yeah.",
+    "timestamp": "00:13:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Aida, what do you think of, the first thing you think of when you hear the word civil engineering?",
+    "timestamp": "00:13:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "First thing, don't think about it too much.",
+    "timestamp": "00:13:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I think of people sitting in an office in front of computers.",
+    "timestamp": "00:13:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Doing what?",
+    "timestamp": "00:13:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "in AutoCAD.",
+    "timestamp": "00:13:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What are they drawing in AutoCAD?",
+    "timestamp": "00:13:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Bridges.",
+    "timestamp": "00:13:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It should be a little, it should, it should have that feeling.",
+    "timestamp": "00:13:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You know what mean?",
+    "timestamp": "00:13:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The images should have a feeling of what you might think a civil engineer is doing, which is like, they're working, they're white collar, they're in the office, they're on the computer.",
+    "timestamp": "00:13:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Bridges is one of them, but there's highways, there's dams, there's other things that are infrastructural.",
+    "timestamp": "00:13:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That like larger civil engineering would do.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "then there's also like things that they would do around buildings, homes, multifamily towers.",
+    "timestamp": "00:14:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Drones would not be one of them.",
+    "timestamp": "00:14:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The wavy thing coming out of the gridded 8x8 is probably not that either.",
+    "timestamp": "00:14:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then Golden Gate Bridge, maybe, maybe not.",
+    "timestamp": "00:14:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right.",
+    "timestamp": "00:14:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I feel like you can go into even more detail because I'm going to share the recording with Katya so she can like tweak the workflow.",
+    "timestamp": "00:14:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Got it.",
+    "timestamp": "00:14:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What about the colors?",
+    "timestamp": "00:14:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Too much purple.",
+    "timestamp": "00:14:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Purple is an accent color for Monograph.",
+    "timestamp": "00:14:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So when you make the whole thing purple, either you need to have a different accent color to highlight something, or \u043c\u043d\u0435, or...",
+    "timestamp": "00:14:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'll",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The inverse.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's too monochromonic.",
+    "timestamp": "00:15:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, everything purple doesn't quite work.",
+    "timestamp": "00:15:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Right, right.",
+    "timestamp": "00:15:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, that makes sense.",
+    "timestamp": "00:15:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you want, I mean, like, from, based on, like, the AI, like, graphics that I've seen so far that we've done for other clients, some really prefer humans or to include, like, human-like figures in the images.",
+    "timestamp": "00:15:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you just want to keep it abstract, like, or do you want to include, like, illustrations of humans?",
+    "timestamp": "00:15:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'm not going have my point of view, but I actually would love to hear Chris's point of view, because Chris has been doing a lot of the visual assets.",
+    "timestamp": "00:15:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "He would have probably better intuition than I do.",
+    "timestamp": "00:15:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "My general take is, like, it's either very abstract and no humans, and if you do go humans, probably not AI.",
+    "timestamp": "00:15:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "view, but I'm I'm I'm but not not",
+    "timestamp": "00:15:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "it's just anything in between is kind of like a little wonky.",
+    "timestamp": "00:16:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Yeah, I think, I, I guess I'm, I'm sort of wondering why, what is the purpose of the image serves?",
+    "timestamp": "00:16:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Um, there's the unfurl, which is only going to show up in a few contexts.",
+    "timestamp": "00:16:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "And then there's actually like, we're talking about the hero image, right?",
+    "timestamp": "00:16:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So it's like a major part of what they see in order to scroll down.",
+    "timestamp": "00:16:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Um, I do wonder if text is actually going to serve our purpose more than trying to represent, um, what each article is doing.",
+    "timestamp": "00:16:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Because the, the, the actual representation of the illustration ends up causing sort of a distraction in our production.",
+    "timestamp": "00:16:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "And, and, and potentially kind of a distraction to the reader.",
+    "timestamp": "00:16:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Um,",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So I wonder if, you know, do you have some thinking on if we use text from the article that may increase the likelihood of someone getting what Google perceives to be what they're looking for?",
+    "timestamp": "00:17:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, we'd have to do, like, testing to see if, let's say we're publishing for, we've been publishing for three months, we have blogs, we have, like, 10 blogs or 20 blogs that do really, really well.",
+    "timestamp": "00:17:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We could do a test to do, like, abstract versus text-based images and try to compare the engagement rate or the bounce rate.",
+    "timestamp": "00:17:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "In my personal opinion, I also prefer, I would also prefer something that's text-based because it gives you an opportunity to prove.",
+    "timestamp": "00:17:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Provide like slightly more context into what a blog is about than just the title because the title you're often restricted by the character length.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that's an option that I would consider.",
+    "timestamp": "00:18:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The only thing that we would have to like I would have to discuss with the design and dev team is if text is slightly more complicated to generate programmatically in this way.",
+    "timestamp": "00:18:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Yeah, what I'll say is that I have a hunch that text will actually help us perform.",
+    "timestamp": "00:18:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "And if we solve it, it does solve other problems that I'm trying to solve outside of SEO.",
+    "timestamp": "00:18:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So I think it's worth us leaning into having a good solution for that because it's basically like, you know, headline, sub-headline, you have another opportunity to convey meaning directly, right?",
+    "timestamp": "00:18:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So I like the idea of leaning into the text.",
+    "timestamp": "00:18:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Let's get",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, yeah, that, that helps.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'll, um, all right, so I'll tell Katya to, if we could, like, come up with something that's more text-based, um, and obviously we need to tweak the colors, um, and the rest of, like, the graphics, um, to avoid drones and, and this type of imagery.",
+    "timestamp": "00:19:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, great, well, thank you for the feedback, that was super helpful.",
+    "timestamp": "00:19:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Um, Um, another, uh, thing that's on our schedule for this week, we're gonna set up your Looker dashboard, um, because once we start publishing, we, uh, immediately start tracking, first we start to track clicks and impressions.",
+    "timestamp": "00:19:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Um, we wanna see if the content is getting indexed, um, if people are visiting it, and the Looker dashboard is set up by, uh, Dave, who's, uh, a director on our team.",
+    "timestamp": "00:19:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Um, and you should have that, uh, hopefully next week, um, so then we'll be able to track the performance.",
+    "timestamp": "00:19:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's week over week, basically.",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Is there anything?",
+    "timestamp": "00:20:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'm trying to think.",
+    "timestamp": "00:20:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So the Looker Dashboard is going to be ready next week.",
+    "timestamp": "00:20:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I wanted to do a quick walkthrough of the Atlas Generation Pipeline.",
+    "timestamp": "00:20:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Is that something you'd be interested in?",
+    "timestamp": "00:20:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you have any other questions before we jump into this?",
+    "timestamp": "00:20:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Nope.",
+    "timestamp": "00:20:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right.",
+    "timestamp": "00:20:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Great.",
+    "timestamp": "00:20:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Well, no.",
+    "timestamp": "00:20:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Great.",
+    "timestamp": "00:20:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So our article generation workflow, this is inside Atlas, which is our in-house platform that was built by our engineering team.",
+    "timestamp": "00:20:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And every client has like a workspace like this.",
+    "timestamp": "00:20:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And this is where, Robert, if you remember like the artifacts that you reviewed, this is where they live.",
+    "timestamp": "00:20:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And they influence the workflow at different stages.",
+    "timestamp": "00:20:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And we can edit these at any time.",
+    "timestamp": "00:20:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So whenever we, for example, if update the writing guidelines, we're going to go in here and change them so that the next batch of articles get the new writing guidelines.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then we have like the pipelines here.",
+    "timestamp": "00:21:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We have different pipelines.",
+    "timestamp": "00:21:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So one of them is for just generating assignments.",
+    "timestamp": "00:21:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We have an article refresh pipeline.",
+    "timestamp": "00:21:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I know we're not doing refreshes for you yet, but we do have that set up.",
+    "timestamp": "00:21:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Specifically, article generation workflow, like it's split into different chunks.",
+    "timestamp": "00:21:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And every stage, almost every stage involves human review.",
+    "timestamp": "00:21:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So the first stage is we enter a topic in here.",
+    "timestamp": "00:21:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This can be a keyword or it can be an assignment title.",
+    "timestamp": "00:21:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then that's used to create an assignment brief, which is very similar to what a human writer would get.",
+    "timestamp": "00:21:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "For example, if you're a freelancer working with a client, they would send you something like this.",
+    "timestamp": "00:21:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So who's the target audience?",
+    "timestamp": "00:21:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What is the SEO data?",
+    "timestamp": "00:21:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like the keyword analysis?",
+    "timestamp": "00:21:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "the keyword analysis?",
+    "timestamp": "00:21:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This is generated, we have an API hooked up to SEMrush, so it's pulling data directly from SEMrush regarding like how many monthly searches there are, what's like the content type, is it supposed to be a listicle, so just to help us meet the search intent and increase like our chances of ranking higher in search.",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And this stage also includes a proposed content structure, which is the first version of the outline, and we do a lot of changes even at this stage, because we want to influence the outline that's going to be generated later.",
+    "timestamp": "00:22:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "At this stage, might add, for example, if you have any case studies from you, we'll add it in here, have any quotes from your customers or quotes from subject matter experts, we can add them in here, and they're going to be added to the outline, like they're not going to be, there's not going to be any hallucinations, because the proposed content structure here is like directly transported.",
+    "timestamp": "00:22:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then the next stage is research, which is, this step does like a really deep research using perplexity, and it takes the information from the assignment brief, it does the research, and then it creates a very in-depth research doc, which the workflow references as it's generating the article.",
+    "timestamp": "00:23:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So it's not just like, it's not randomly pulling information from the internet, it's taken via an API call.",
+    "timestamp": "00:23:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "After this stage, we move to the outline, and this is another step where we have heavy manual editing.",
+    "timestamp": "00:23:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It creates a standard outline, it contains like every section contains a word count, it sort of contains all the different points that are going to be included in the blog post.",
+    "timestamp": "00:23:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And at this stage, we might remove section.",
+    "timestamp": "00:23:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We might add sections, like if we feel like a section is too long, we're going to condense it.",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So this is also another part where we are heavily involved.",
+    "timestamp": "00:24:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Once we're happy with the outline, we will approve it, and then it goes to the article draft process.",
+    "timestamp": "00:24:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "At this stage, the writing guidelines get pulled in, so the tone and the voice that you like is reflected in the final content.",
+    "timestamp": "00:24:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "After the article draft, we run a fact checker, and then we also add internal links to the blog.",
+    "timestamp": "00:24:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And usually after we add the internal links, that's when we will do a very deep read-through of the content to check the external links, make sure there aren't any hallucinations.",
+    "timestamp": "00:24:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We will remove, like we will make line edits basically like any other editor.",
+    "timestamp": "00:24:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "if if if if can if we we can we we",
+    "timestamp": "00:24:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And, you know, once we're happy with that draft, we're going to generate the SEO meta tags for the meta description and the meta title.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "A lot of times we will also, like, go in and change this, especially if it's too long for mobile.",
+    "timestamp": "00:25:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But this is what the process looks like from start to finish.",
+    "timestamp": "00:25:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then we basically just import it into a Google Doc and share it with you.",
+    "timestamp": "00:25:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So do you have any questions, comments?",
+    "timestamp": "00:25:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "There's one, like, when it comes to this tool.",
+    "timestamp": "00:25:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "So we use it internally, Robert, to answer your question.",
+    "timestamp": "00:25:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "So we don't share access with customers yet.",
+    "timestamp": "00:25:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Got it.",
+    "timestamp": "00:25:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:25:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That makes sense.",
+    "timestamp": "00:25:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, we built it, like, it was built two, two and a half months ago.",
+    "timestamp": "00:25:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So it's very, like, the UX is minimal.",
+    "timestamp": "00:25:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's very bare bones.",
+    "timestamp": "00:25:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "How do you ensure, or at least not ensure, but, like, track it?",
+    "timestamp": "00:25:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's...",
+    "timestamp": "00:25:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Everything's",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Generative Engine Optimization, like, so that ChatGPT, Pluxly, and all these other platforms are also finding it.",
+    "timestamp": "00:26:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Is there a way?",
+    "timestamp": "00:26:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That's a, yeah, that's a good question because we, like, Generative AI Optimization, it's still something that's evolving.",
+    "timestamp": "00:26:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "For example, when I joined in December, my first client was a dental staffing platform, and we started producing content for them.",
+    "timestamp": "00:26:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And right now, they are getting a substantial amount of referral traffic from LLMs, even though we didn't, like, specifically optimize for LLMs.",
+    "timestamp": "00:26:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Because LLMs, when they are surfacing content, they typically look at brand authority.",
+    "timestamp": "00:26:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that's something that we, like, you can influence via backlinks, like, being mentioned in different, like, newsletters or websites.",
+    "timestamp": "00:26:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then there's, like, making the content readable, easy to understand, comprehensive.",
+    "timestamp": "00:26:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Using like bullet points, making the content skimmable, that's what like LLMs are looking for when they're surfacing content.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And that's also an SEO best practice.",
+    "timestamp": "00:27:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "there's some overlap.",
+    "timestamp": "00:27:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:27:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then a third aspect is like being like mentioned in places other than like maybe being mentioned on Reddit, like community, like community forums, places like that.",
+    "timestamp": "00:27:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That's where perplexity also looks.",
+    "timestamp": "00:27:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like if you're looking for tool recommendations, they go to, they'll typically like go to Reddit and try to find information.",
+    "timestamp": "00:27:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What do you recommend post-production, like once it goes published?",
+    "timestamp": "00:27:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What are the next steps afterwards?",
+    "timestamp": "00:27:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we will, the first step is to check if it's being indexed by Google.",
+    "timestamp": "00:27:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Um, and then.",
+    "timestamp": "00:27:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We will look at referral traffic from LLMs, but there really isn't, like in terms of LLM optimization, it's very, it's very much overlaps with SEO right now, at least the on-page stuff.",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So yeah, there isn't like, there are different best practices flying around.",
+    "timestamp": "00:28:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Schema markup, for example, is really important.",
+    "timestamp": "00:28:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So adding schema to your pages, like FAQs, breadcrumbs, things like that, that's important for LLMs, that Google might not be paying that much attention to.",
+    "timestamp": "00:28:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Is there a preferred way of asking Google to index it, or do you just wait?",
+    "timestamp": "00:28:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we can use, we have access to Google Search Console.",
+    "timestamp": "00:28:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So if we notice that a blog isn't being indexed after a couple of days, we can submit it for manual indexing, but usually Google is very good at discovering pages.",
+    "timestamp": "00:28:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Why wouldn't you submit it to Google immediately after you publish?",
+    "timestamp": "00:29:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "There's a limit to the number of pages you could submit to Google every day.",
+    "timestamp": "00:29:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that's the only reason.",
+    "timestamp": "00:29:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But I've seen content get indexed in 24 hours, especially if you add internal links.",
+    "timestamp": "00:29:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "For example, when we publish a blog and we add internal links to other content on your site, it gets discovered very, very quickly.",
+    "timestamp": "00:29:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you get favored by Google if you have other Google links in it?",
+    "timestamp": "00:29:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "For example, like a YouTube link?",
+    "timestamp": "00:29:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "No, that's not a ranking factor.",
+    "timestamp": "00:29:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I mean, the external links are important just to, like, if you link to credible sources versus non-credible sources, that's going to hurt your rankings.",
+    "timestamp": "00:29:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But it's not a ranking factor in terms of, like, who you link to.",
+    "timestamp": "00:29:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "the I'm you.",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Got it.",
+    "timestamp": "00:30:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "What you could do on your homepage, for example, you could have a section of three latest blog posts, because homepage is the strongest page on your website.",
+    "timestamp": "00:30:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "So in this way, probably these new blog posts would get an instant boost from the homepage.",
+    "timestamp": "00:30:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "So we can implement this kind of optimization if you want.",
+    "timestamp": "00:30:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You would do that, or are you giving us advice that we have to do?",
+    "timestamp": "00:30:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "I think it depends on how complicated it would be.",
+    "timestamp": "00:30:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "It's a matter of introducing a new blog in Webflow.",
+    "timestamp": "00:30:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, we have engineers on our end that are comfortable with Webflow, but at the same time, a lot of companies, they don't want to change their homepage without considering how it might impact the overall visual design.",
+    "timestamp": "00:30:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But we do have Webflow engineers that could do that.",
+    "timestamp": "00:30:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Oh, I'm willing to do anything it takes.",
+    "timestamp": "00:30:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:30:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:31:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I'm willing to run experiments if we think the experiment's worthwhile, especially going after keywords we think we have never owned.",
+    "timestamp": "00:31:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I think we should spend a little bit more energy in that I'm generalizing any topic that's engineering.",
+    "timestamp": "00:31:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We don't rank very high on, so we should try to think through a go-to-market deployment motion in terms of, like, okay, we're publishing engineering plans.",
+    "timestamp": "00:31:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "They all roll up to engineering.",
+    "timestamp": "00:31:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "How do we get this out?",
+    "timestamp": "00:31:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "How do we get indexed faster?",
+    "timestamp": "00:31:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And how do we make sure that the traffic comes to the website, which I'm assuming is 99% architects, start to trend.",
+    "timestamp": "00:31:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Well, architects will start to trend down, and engineers start to trend up.",
+    "timestamp": "00:31:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I think if we leave it to just hope we're not putting our best effort.",
+    "timestamp": "00:31:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And if you have bandwidth with Webflow, I would love to learn more, because that's actually one area.",
+    "timestamp": "00:31:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You know, that we're particularly weak in.",
+    "timestamp": "00:32:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So if you can add extra bandwidth, I got work to get, I have work to prioritize and give out.",
+    "timestamp": "00:32:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, yeah, well, we'll check with our dev team.",
+    "timestamp": "00:32:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you have a couple of minutes or do you have to jump to a different call?",
+    "timestamp": "00:32:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Good question.",
+    "timestamp": "00:32:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "No, I have time.",
+    "timestamp": "00:32:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, great.",
+    "timestamp": "00:32:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I just wanted to flag something really quickly when it comes to LLMs and optimizers.",
+    "timestamp": "00:32:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I think for them, really, like, for a very long time in SEO, it used to be a best practice that you will go after keywords that have a good search volume, monthly search volume.",
+    "timestamp": "00:32:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And that makes sense.",
+    "timestamp": "00:32:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "With LLMs, however, you want to, especially if you're not, like, this super huge brand, it's a good idea to go after what's called, like, zero volume keywords.",
+    "timestamp": "00:32:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So the keywords have very little content on the top.",
+    "timestamp": "00:32:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That's That's good.",
+    "timestamp": "00:33:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "you.",
+    "timestamp": "00:33:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like on the front page of Google, but people are looking for it.",
+    "timestamp": "00:33:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And when you do produce content in that category, if someone looks up like in perplexity, for example, let's use AI and civil engineering, even though that's not a good example.",
+    "timestamp": "00:33:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But a super niche topic related to maybe AI and engineering, perplexity is way more likely to pull up your blog and serve it as a resource.",
+    "timestamp": "00:33:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I've seen this happen with a different client of mine who were, they were in the dental industry, they're in the dental industry.",
+    "timestamp": "00:33:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And they created a bunch of blogs for zero volume searches, and it allowed them to get really good spots in LLMs and got a lot of referral traffic because there's just nothing else on that topic out there.",
+    "timestamp": "00:33:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that's one way you can kind of swoop in and capture that traffic.",
+    "timestamp": "00:33:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'm going to ask you a question because I think it's more complex than just zero volume.",
+    "timestamp": "00:33:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "What they're probably doing, they probably...",
+    "timestamp": "00:33:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Mm",
+    "timestamp": "00:34:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Either got lucky, have spent time thinking about it, is actually thinking what questions people do ask.",
+    "timestamp": "00:34:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yes.",
+    "timestamp": "00:34:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "it's a language model, so people are just asking that question.",
+    "timestamp": "00:34:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The models are actually saying, okay, this is a question, I should go find an answer to that question.",
+    "timestamp": "00:34:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So what's more important is, how do we figure out what are the common questions that people are asking, and not just the keyword?",
+    "timestamp": "00:34:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Now, that's a question back to you, too.",
+    "timestamp": "00:34:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, is there a way to figure that out, or is that mostly intuition right now, in terms of, like, oh, like, if I was a civil engineer, I would ask this question.",
+    "timestamp": "00:34:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, that goes into the audience personas artifact that we have.",
+    "timestamp": "00:34:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that's part of, for example, the engineering persona, their comment, pain points, issues, questions that they would go in that doc.",
+    "timestamp": "00:34:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Typically, when we're generating content, ...",
+    "timestamp": "00:34:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "...",
+    "timestamp": "00:35:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The brief is going to take into account a specific persona, and then it's going to, like, inject their questions and answers to those questions in that brief.",
+    "timestamp": "00:35:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So it's more, it's not just about, like, choosing a keyword and then optimizing for a keyword, it's about optimizing for the intent behind the keyword.",
+    "timestamp": "00:35:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Right.",
+    "timestamp": "00:35:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah.",
+    "timestamp": "00:35:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, yeah, hope that answers your question.",
+    "timestamp": "00:35:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Are we doing the, yeah, go ahead.",
+    "timestamp": "00:35:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, sorry, Chris, I was going to ask you a really quick question, I'll let you ask yours.",
+    "timestamp": "00:35:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you know, there an Antra Architect equivalent for, let's say, structural and MEP?",
+    "timestamp": "00:35:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Well, I would say that there's this one guy, like, Engineering Management Institute.",
+    "timestamp": "00:35:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But is there a forum?",
+    "timestamp": "00:35:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Like, I'm looking for a forum.",
+    "timestamp": "00:35:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Oh, I see, find that.",
+    "timestamp": "00:35:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But forums are the easiest way to essentially say, scrape the forums, anything that ends with a",
+    "timestamp": "00:35:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Question mark is probably a question mark.",
+    "timestamp": "00:36:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Scrape it.",
+    "timestamp": "00:36:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And now we kind of have like a leading indicator of what are common questions.",
+    "timestamp": "00:36:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Sorry, my brain started to go down that route because like we can scrape onto our architect and we can say, look at all the questions that architects ask.",
+    "timestamp": "00:36:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And we now kind of know what they're like looking for from the community.",
+    "timestamp": "00:36:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But Chris and Gary, let's talk about this like in our meeting today because like this could be, this is why Reddit could be really, really useful.",
+    "timestamp": "00:36:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Because like people use Reddit in a way where they're asking a question, typically answered by the community.",
+    "timestamp": "00:36:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You can think of LLM models today as just a way to shortcut all that and say, oh, I don't have to ask Reddit anymore.",
+    "timestamp": "00:36:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like I can just ask my LLM.",
+    "timestamp": "00:36:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, exactly.",
+    "timestamp": "00:36:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Sorry for interrupting.",
+    "timestamp": "00:36:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Chris, you were going to ask something.",
+    "timestamp": "00:36:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Yeah, so you mentioned the schema.",
+    "timestamp": "00:36:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Are you also doing that for the metadata step of the process?",
+    "timestamp": "00:36:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Yes, especially like on like.",
+    "timestamp": "00:36:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Like.",
+    "timestamp": "00:37:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "FAQ schema?",
+    "timestamp": "00:37:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "No, that's something that I think you would have to implement on the back end.",
+    "timestamp": "00:37:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We just do the publishing in your CMS.",
+    "timestamp": "00:37:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I don't think it's very hard to implement an FAQ schema, for example, but I don't have any experience with it.",
+    "timestamp": "00:37:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "But can you incorporate that as a part of your workflow, where you're generating the schema for us, and then we have figured out a way to get it in to the HTML head?",
+    "timestamp": "00:37:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Right, right.",
+    "timestamp": "00:37:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Let me check with the dev team, because you are using Webflow, and we have a way to automate publishing with Webflow.",
+    "timestamp": "00:37:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So there's no, like, we're not going into and, like, copying and pasting stuff.",
+    "timestamp": "00:37:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So we might be able to do that as part of, like, the automated publishing.",
+    "timestamp": "00:37:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Um, another question, uh, for these keywords that we're trying to rank on, what are you, what are your thoughts on trying to dominate the SERP with, like, uh, a YouTube asset that's sourcing from the same research and content from the blog, a podcast asset that's also sourcing, right?",
+    "timestamp": "00:38:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "So what are your thoughts on having, like, multiple properties that are going to dominate the SERP for that keyword?",
+    "timestamp": "00:38:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I mean, that's, yeah, that's, uh, all a part of distribution, and I think the more distribution that a blog gets, the farther it can go.",
+    "timestamp": "00:38:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The one thing that you, I would pay attention to is whether videos appear in the SERP for a specific keyword.",
+    "timestamp": "00:38:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, um, you might not need to have a video, or, like, when you're prioritizing video production, you might not need to prioritize, like, keywords where you just don't have YouTube or Vimeo or what.",
+    "timestamp": "00:38:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Whatever other video platform.",
+    "timestamp": "00:39:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "If it doesn't show up, then it's probably not a priority.",
+    "timestamp": "00:39:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But, yeah.",
+    "timestamp": "00:39:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:39:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Any other questions before I hop?",
+    "timestamp": "00:39:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Any questions for us?",
+    "timestamp": "00:39:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Great.",
+    "timestamp": "00:39:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Well, right now we would love to get any insights on engineers.",
+    "timestamp": "00:39:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you have, like, people on your team that would be willing to, like, could be, we could interview about, like, engineering to get more of their pain points and issues?",
+    "timestamp": "00:39:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I know we're going to scrape some web sources, but it would also be helpful to get in front of someone.",
+    "timestamp": "00:39:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like a customer.",
+    "timestamp": "00:39:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "A customer or just a person, like, maybe a product person on your team that's very familiar with engineers?",
+    "timestamp": "00:39:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Do you think Ashish should be good, or do you think Ashish is still kind of limited there?",
+    "timestamp": "00:39:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "I think Ashish is probably.",
+    "timestamp": "00:39:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "The best that we've got right now.",
+    "timestamp": "00:40:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:40:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So why don't we do this?",
+    "timestamp": "00:40:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Gary, can I ask you to connect Ashish to Eda here and Chris, probably the two or three architecting engineering podcast webinars that we've done recently because that kind of gives it a little bit of insight in how they think and how they speak.",
+    "timestamp": "00:40:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then I'm going to go back to you, Gary.",
+    "timestamp": "00:40:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Can you sync with Eileen and see if there will be a customer that might make sense?",
+    "timestamp": "00:40:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Or maybe Chris, you might know, that have given us, let's say, Adido in the past that's still good to help score and will be willing to kind of like spend 30 minutes with Wilfax.",
+    "timestamp": "00:40:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah.",
+    "timestamp": "00:40:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Who might be a better person?",
+    "timestamp": "00:40:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Is this Gary or Chris on the customer side?",
+    "timestamp": "00:40:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "For the customer side, I think Chris is tied into several engineers from the Flywheel Motions.",
+    "timestamp": "00:40:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:41:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:41:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Gary, Anashish, Chris on the webinars and a customer.",
+    "timestamp": "00:41:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then that might be a lot for you already.",
+    "timestamp": "00:41:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, that's a great start.",
+    "timestamp": "00:41:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "think we could do a lot with that.",
+    "timestamp": "00:41:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:41:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And Aida, Anashish is our CPO.",
+    "timestamp": "00:41:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So you get it from our product perspective of what engineers are, webinars and how they talk and think on our webinars.",
+    "timestamp": "00:41:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then a customer will be you hearing it directly from a source.",
+    "timestamp": "00:41:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:41:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That's perfect.",
+    "timestamp": "00:41:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Can you send their emails via Slack?",
+    "timestamp": "00:41:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Or you can intro us in an email, however you want to.",
+    "timestamp": "00:41:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Probably do both.",
+    "timestamp": "00:41:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I want to make sure we are clear everything on Slack.",
+    "timestamp": "00:41:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Let's try to put everything in Slack and just stay.",
+    "timestamp": "00:41:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We can all stay on top of it.",
+    "timestamp": "00:41:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:41:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Perfect.",
+    "timestamp": "00:41:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Aida Knezevic",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Well, thank you so much for your help.",
+    "timestamp": "00:41:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Any questions, the meantime, feel free to reach out on Slack.",
+    "timestamp": "00:42:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:42:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Jo Kaminska",
+      "matched_calendar_invitee_email": "jo@growthx.ai"
+    },
+    "text": "Thank you so much.",
+    "timestamp": "00:42:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Gary DeBerry",
+      "matched_calendar_invitee_email": "gary.deberry@monograph.com"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:42:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Chris Morgan",
+      "matched_calendar_invitee_email": "chris@monograph.com"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:42:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Bye, everyone.",
+    "timestamp": "00:42:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Robert Yuen",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Bye.",
+    "timestamp": "00:42:09"
+  }
+]

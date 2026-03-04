@@ -1,0 +1,751 @@
+# Apriora <> GrowthX Follow Up
+
+<metadata>
+date: 2025-08-01
+time: 21:02 UTC
+duration: 32 minutes
+organizer: Kyle Gaudreau (GrowthX)
+participants: Kyle Gaudreau (GrowthX), Donald Donckers (Apriora)
+fathom_recording_id: 78069041
+fathom_url: https://fathom.video/calls/368087235
+share_url: https://fathom.video/share/FNr_MUr1zn9-Nsuc_Ym1-yw7ss7Gxya_
+source: fathom
+enriched_on: 2026-03-03 03:54 UTC
+</metadata>
+
+---
+
+## Summary
+
+Kyle followed up with Donald at Apriora on GrowthX's content marketing services, reiterating how GrowthX combines AI with expert human strategy and execution to drive traction by month 3. Donald expressed the need to sell the investment to his CEO and explored whether a 6-8 month contract was possible instead of the standard 12-month commitment, and Kyle agreed to facilitate a conversation between Donald and Aaron (a satisfied Tiro client) while also offering to have Marcel discuss the approach directly.
+
+---
+
+## Context
+
+Apriora is a technical recruiting and staffing platform that recently rebranded to alex.com (completed during the week of this meeting). The company appears to operate in the staffing and AI-in-recruiting space, with a focus on helping companies hire and conduct better technical interviews. Donald Donckers is new in his role at Apriora and is evaluating whether to engage GrowthX for content marketing to drive organic visibility. The core tension is that Apriora is deciding between building an internal content team versus outsourcing to GrowthX — a significant financial and strategic commitment that requires sign-off from Alan (the CEO). Donald values peer feedback and wants to talk to other founders about their experiences with GrowthX before making the decision.
+
+---
+
+## Relevance
+
+**To GrowthX Business Development:**
+- Apriora is a pipeline opportunity with CEO-level decision required. Donald is receptive but needs peer validation, specifically from Ramp's George (VP of Growth) and Tiro's Aaron to overcome internal justification challenges.
+- Contract term flexibility: Standard 12-month engagement may close at 6-8 months (2-month strategy sprint + 6 months execution) if pricing remains around $15k/month. Kyle indicated openness to this compromise.
+- Rebranding to alex.com (completed during this week) creates urgency for content strategy to establish domain authority. Low current authority score (similar to Tiro's starting point of 20) but multiple content opportunities: AI in interviews, technical recruiting challenges, staffing agency focus.
+- Reference customer potential: Aaron at Tiro (grew from 0 blog, 20 authority score to significant traffic in 6 months) is a strong proof point for similar low-authority-score startups.
+
+---
+
+## Overview
+
+- GrowthX AI offers comprehensive content marketing solutions, combining AI tools with expert strategy and execution
+- Apriora is considering GrowthX AI's services but needs to justify the investment and commitment to their CEO
+- GrowthX AI typically sees traction by month 3, with 6-8 month engagements possible instead of standard 12-month contracts
+- Apriora recently rebranded to alex.com, indicating rapid changes in the company
+
+---
+
+## Key Topics
+
+### GrowthX AI's Approach and Differentiators
+
+  - Combines AI tools with deep human expertise in content strategy and execution
+  - Typically starts with a 2-month strategy sprint, producing 15-25 articles while developing a scalable process
+  - Works with high-level talent (e.g., 20+ years SEO experience) that would be costly to hire in-house
+  - Adapts to client needs, working alongside internal teams or taking full ownership of content production
+
+### Case Studies and Results
+
+  - Tiro: Grew from no blog and 20 authority score to significant traffic growth in 6 months
+  - Ramp: Ongoing collaboration with established internal content team
+  - Various clients seeing traction around month 3, with compounding growth thereafter
+
+### Apriora's Situation and Needs
+
+  - Recently rebranded to alex.com
+  - Considering building in-house team vs. outsourcing to GrowthX AI
+  - CEO values talking to other founders about their experiences
+  - Potential content angles: AI in interviews, technical recruiting challenges, staffing agency focus
+
+### Pricing and Commitment Considerations
+
+  - Standard engagements start around $15k/month for 12 months
+  - Possibility of shorter 6-8 month engagement to address commitment concerns
+  - 2-month strategy sprint included in engagements
+
+---
+
+## Action Items
+
+**Kyle Gaudreau (GrowthX)**
+- Facilitate connection between Aaron (Tiro) and Marcel for Q&A/discussion on GrowthX's content strategy and results
+
+- Send proposal, strategy session details, pricing info, and shared doc to Donald. Create shared Slack channel and add Donald + Apriora team members
+
+**Donald Donckers (Apriora)**
+- Review materials from Kyle. Get confirmation from Alan (CEO) re proceeding with GrowthX
+
+- Reach out to George at Ramp for feedback on GrowthX services and outcomes
+
+---
+
+## Transcript
+**Kyle Gaudreau:** You know, we were fortunate to have some just, you know, trust and relationships that, you know, folks we could lean on that brought us in the door and, you know, then just had to prove it and kind of all grew from there.
+
+**Kyle Gaudreau:** It's truly been wild, but, you know, we just saw a lot of opportunity and, you know, just dug in super deep and felt like it was all there in front of us.
+
+**Kyle Gaudreau:** And, you know, we like to do these things to share because, you know, we, I think sometimes, like, you know, it's like trying to separate like our potential bias and obviously we feel confident in like what we're developing.
+
+**Kyle Gaudreau:** And, but it's always good to hear it's resonating, but also like, I think at times because we're so immersed in it, it can be easy to forget, like, maybe we are onto something that's going in a bit more deep than it's even going to be interpreted as we share it more widely.
+
+**Kyle Gaudreau:** So it's always fun to do those sessions because they're like, you know, you see all the comments and people like that, like.
+
+**Kyle Gaudreau:** Super engaged and, you know, that really energizes us.
+
+**Kyle Gaudreau:** So that was a good way to end the week.
+
+**Donald Donckers:** Yeah, it was one of the better workshops that I've ever attended.
+
+**Donald Donckers:** Like, I mean, I'm waiting for all the, what was he gonna, he's gonna send all the.
+
+**Donald Donckers:** He promised a lot.
+
+**Kyle Gaudreau:** He promised a lot.
+
+**Donald Donckers:** I was like, oh, are you gonna send all these prompts for like, to build all this stuff?
+
+**Donald Donckers:** Like Jesus, I'm like waiting for that to start showing off.
+
+**Kyle Gaudreau:** Yeah, no, that, uh, no, we'd like to give away, you know, cause like, I mean, there's obviously different ways of thinking about this.
+
+**Kyle Gaudreau:** Like, you know, some brands may think of it as like, oh, if you give away too much, like, are people gonna want to come and buy and like, does that, you know, at the end of the day, like, uh, we found like, it usually just comes back around when you're open, you share, like that gets paid back, uh, for a new one.
+
+**Kyle Gaudreau:** I think the other.
+
+
+**Kyle Gaudreau:** And I think the other key is giving away that kind of stuff definitely has some value, but what we've learned is it's not the prompts that really make all this home and work.
+
+**Kyle Gaudreau:** It really helps, but it's all that context and thinking and how that helps enrich what we do and how that just helps us move fast and create a structure to build around.
+
+**Kyle Gaudreau:** That's what we've experimented in and around a lot.
+
+**Kyle Gaudreau:** It's just like, who are those right people?
+
+**Kyle Gaudreau:** What is that right process?
+
+**Kyle Gaudreau:** Like, how do we review these outputs?
+
+**Kyle Gaudreau:** How do we extract as much input as possible or extract outputs from you and knowledge that become inputs into what we do and, like, what works, what doesn't?
+
+**Kyle Gaudreau:** And so that's really been a lot of, you know, I'm training a new A.E.
+
+**Kyle Gaudreau:** this week, first one, and I'm like, you know, that was one of the things I really wanted to make sure to hit home.
+
+**Kyle Gaudreau:** It's not just like pure AI.
+
+**Kyle Gaudreau:** It's not just like, hey, we're just doing it.
+
+**Kyle Gaudreau:** It's all the ways.
+
+**Kyle Gaudreau:** It's the key part of differentiation for us, I believe.
+
+**Donald Donckers:** Yeah, because you could probably, like, recreate some of the stuff that you're doing with, like, some of the other tools that are out there, like, like, an aerobs or.
+
+**Kyle Gaudreau:** Totally, yep.
+
+**Donald Donckers:** But, yeah, it's the whole package.
+
+**Donald Donckers:** Like, it's just the experience that you guys have that if you're an organization that's trying to move fast, outsourcing that.
+
+**Donald Donckers:** Yeah, it makes a ton of sense.
+
+**Donald Donckers:** But if you have the scale, right, like, if you're, like, a company.
+
+**Donald Donckers:** Like, that's the thing that, because it is quite the significant commitment.
+
+**Donald Donckers:** Yep.
+
+**Donald Donckers:** So, yeah, I'm just trying to, I need to be able to sell it to our CEO.
+
+**Donald Donckers:** Like, I need to have the tools to go to him and be like, yo, we need to get this and then have it deliver so that, like, you know, I'm new on the job.
+
+**Donald Donckers:** Six months from now, he's, like, saying, like, yo, you got us in this contract.
+
+**Donald Donckers:** It's not delivering.
+
+**Donald Donckers:** Yeah, totally.
+
+**Kyle Gaudreau:** I get it, man.
+
+**Kyle Gaudreau:** It's tricky, for sure.
+
+**Kyle Gaudreau:** How I've typically handled this stuff in the past has been a combination of a few things.
+
+**Kyle Gaudreau:** We can look at opsizing certain things and build assumptions based off of that, and that can help provide just perspective on the opportunity.
+
+**Kyle Gaudreau:** I have some high-level data we can look at today, but there's a double-click into that that we've done.
+
+**Kyle Gaudreau:** Additionally, we can always have Marcel connect if it makes sense at some point to just walk through.
+
+**Kyle Gaudreau:** And, you know, I find a lot of times when it's the right folks, it's the right opportunity, we can put in some of the necessary, like, data points, whether qualitative or quantitative.
+
+**Kyle Gaudreau:** It just helps to, you know, for them to understand why we price at the level we do.
+
+**Kyle Gaudreau:** And I think the additional thing, we don't, like, do this front and center, and perhaps we should more.
+
+**Kyle Gaudreau:** We dabbled in it at one point and just kind of moved away.
+
+**Kyle Gaudreau:** We were just thinking about, like...
+
+**Kyle Gaudreau:** Breaking down the true cost of like, if you consider the folks you get in this engagement, like you, we have folks like Map, the UR Chief Content Officer.
+
+**Kyle Gaudreau:** We have, you know, folks who have like 20 plus years of SEO and growth experience who are at the managing directory level.
+
+**Kyle Gaudreau:** We have really, really amazing managing editors who are like so key in this whole process.
+
+**Kyle Gaudreau:** And those people are, we find are like, there's a lot of really good ones out there.
+
+**Kyle Gaudreau:** They're not super easy to find.
+
+**Kyle Gaudreau:** Anyways, you add up the cost and the like, as well as just the like building these teams.
+
+**Kyle Gaudreau:** It's just, it's a lot.
+
+**Kyle Gaudreau:** It takes time.
+
+**Kyle Gaudreau:** And, you know, so when you frame it from that perspective, while we are obviously not a super cheap solution, it kind of honestly then becomes a deal.
+
+**Kyle Gaudreau:** Like I heard this quote from, I won't name the agency, but it blew my mind.
+
+**Kyle Gaudreau:** We just signed on with Tavern recently.
+
+**Kyle Gaudreau:** They kicked off last week.
+
+**Kyle Gaudreau:** They're like in the legal AI space.
+
+**Kyle Gaudreau:** It's actually a super interesting product, like hearing what they sell for.
+
+**Kyle Gaudreau:** You're not working with Harvey, right?
+
+**Kyle Gaudreau:** No, no, no, no, no.
+
+**Kyle Gaudreau:** So.
+
+**Kyle Gaudreau:** So.
+
+**Kyle Gaudreau:** And interestingly, Harvey's got this, they're so known, they have almost no content.
+
+**Kyle Gaudreau:** So there's actually a pretty interesting opportunity for Tavern.
+
+**Kyle Gaudreau:** I think we're going to be able to crush it for them.
+
+**Kyle Gaudreau:** But they were sharing this quote that they got.
+
+**Kyle Gaudreau:** It was something like 500k for the year, and you're not even getting a lot of content.
+
+**Kyle Gaudreau:** It's like briefs and strategy and all this and that.
+
+**Kyle Gaudreau:** And so, you know, I think we're in this, like, we're certainly not the cheapest out there, but I think we're in this, like, in between of, like, our value when it is, when you have that right context is quite insane.
+
+**Donald Donckers:** And when you were talking about these prices, because, like, I think you mentioned this the last time, because during the demo that Marcel showed, like, he showed some of the RAM pages, you know, you showed me as well, like the map.
+
+**Donald Donckers:** Right, right.
+
+**Donald Donckers:** The map of, like, the 30 and stuff.
+
+**Kyle Gaudreau:** Yep.
+
+**Kyle Gaudreau:** That stuff.
+
+**Kyle Gaudreau:** Yeah.
+
+**Donald Donckers:** Um, but those are not like standard pages, right?
+
+**Donald Donckers:** Like if you get like the lowest plan, you just get like basically standard SEO optimized pages, right?
+
+**Donald Donckers:** Yeah.
+
+**Kyle Gaudreau:** So like for our like smallest accounts that start around 9k, um, essentially what that typically looks like, and this isn't a hard, fast rule, but it is something to the effect of like five, like long form articles a week.
+
+**Kyle Gaudreau:** And for some brands, that's a lot for other brands.
+
+**Kyle Gaudreau:** It's just like, that's not going to move the needle, that might not even be the right strategy.
+
+**Kyle Gaudreau:** The vast majority of our accounts are around 12 to 15k per month.
+
+**Kyle Gaudreau:** Um, and how we think about ranges is a combination of content complexity, as well as just the volume of content.
+
+**Kyle Gaudreau:** And it's, um, as much as I, I would love to have like a very clear matrix to like show you like price breakdown and this and that, because there's so much variability we find.
+
+**Kyle Gaudreau:** That's part of the reason we just like, don't do it in that way.
+
+**Kyle Gaudreau:** Um, but in a case like a ramp.
+
+**Kyle Gaudreau:** In the case of Ramp,
+
+**Kyle Gaudreau:** When we're doing, you know, programmatic experiences and things of that nature, definitely needs to be weighed in the cost.
+
+**Kyle Gaudreau:** And it depends on, like, to what degree are we involved, right?
+
+**Kyle Gaudreau:** Like, so we did some stuff for VAPI where we went, like, and created a lot of the, I don't think I should be the VAPI example, but just to not talk theoretical, I can pull it up.
+
+**Kyle Gaudreau:** But, so, like, for VAPI, we analyzed a lot of their, like, use case, a lot of the usage and tried to identify use cases that were prominent.
+
+**Kyle Gaudreau:** And we identified, like, I think it was 3,500 in that ballpark.
+
+**Kyle Gaudreau:** And our mindset was, like, oh, this is an interesting opportunity for us to hopefully capture search traffic when people are searching for these specific use cases, where we can show off their product in an interesting way and, like, they're an AI voice play.
+
+**Kyle Gaudreau:** And so, like, this one being around managing cancellations and then, like, so we...
+
+**Kyle Gaudreau:** We end-to-end this whole thing, built the whole page, we created the system prompt, we helped them with the template and all this and that.
+
+**Kyle Gaudreau:** We did a lot more of the design and dev than we usually would.
+
+**Kyle Gaudreau:** We were playing around with V0 with some of this.
+
+**Kyle Gaudreau:** The thing is, they also were priced quite a bit higher.
+
+**Kyle Gaudreau:** This is more of a unique project.
+
+**Kyle Gaudreau:** We don't do a lot of these.
+
+**Kyle Gaudreau:** And so for the average, if there is a programmatic play, we would typically more like to be in a place where we are helping you think through wireframes, the general strategy, what opportunity are we executing, building all that out, how are we going to execute it, and that we have some sort of dev support.
+
+**Kyle Gaudreau:** We can help connect you with folks, but we don't have a web dev team, so there's a way we probably do.
+
+**Kyle Gaudreau:** But also, I should note, and this actually touches on...
+
+**Kyle Gaudreau:** A couple of things like we can go through is like, I'm not even sure, like, even if you guys have like, programmatic opportunity, like my hunch is to not start there.
+
+**Kyle Gaudreau:** Like, it might be like, honestly, like a end of year thing, or like, we start an engagement around really focusing on editorial, building topical authority.
+
+**Kyle Gaudreau:** And then, you know, this isn't like, we can experiment, don't get me wrong.
+
+**Kyle Gaudreau:** But when I look at this data, I see a couple of things.
+
+**Kyle Gaudreau:** One is like, y'all have...
+
+**Donald Donckers:** We also just changed our URL, we're now alex.com.
+
+**Donald Donckers:** I saw that, did that happen this week?
+
+**Kyle Gaudreau:** Because I was like, I didn't think it was...
+
+**Kyle Gaudreau:** That happened yet this morning.
+
+**Kyle Gaudreau:** Okay, okay, because I looked at it, and I was like, I swear that wasn't that last time, but okay, I remember you mentioned you were going through...
+
+**Kyle Gaudreau:** We changed our emails yesterday evening in our domain this morning, so...
+
+**Kyle Gaudreau:** Dang, moving fast, all right.
+
+**Kyle Gaudreau:** I assume there's probably more things for you to do, but that was a big step.
+
+**Kyle Gaudreau:** So, yeah.
+
+**Kyle Gaudreau:** You know, when I look at this, you know, like there's headroom for sure.
+
+**Kyle Gaudreau:** There's likely traffic they're not capturing right now that you can.
+
+**Kyle Gaudreau:** So like, you know, this is good to see that you have headroom.
+
+**Kyle Gaudreau:** Probably no surprise at all.
+
+**Donald Donckers:** The guy that I'm sitting next, he literally comes from HireVue and Paradox.
+
+**Donald Donckers:** Oh, okay.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** I love it.
+
+**Kyle Gaudreau:** But now authority score wise, they're quite a bit ahead.
+
+**Kyle Gaudreau:** And so this doesn't mean you can't have track, you can't get traction.
+
+**Kyle Gaudreau:** It's just like, we've worked with one brand.
+
+**Kyle Gaudreau:** Let me pull them up. Tiro is a very different space, but they're very close to you in terms of authority score.
+
+**Kyle Gaudreau:** And I think there's some similarities.
+
+**Kyle Gaudreau:** So like, you know, we've been able to drive like just crazy growth.
+
+**Kyle Gaudreau:** We started working with them right around here.
+
+**Kyle Gaudreau:** was like, yeah, right in January is when we launched.
+
+**Kyle Gaudreau:** They had no blog.
+
+**Kyle Gaudreau:** I think their authority score back then, I don't, I can't remember if it shifted, I don't think it, well, I guess it went up a little bit, yeah.
+
+**Kyle Gaudreau:** So when we first started working with them, they were 20.
+
+**Kyle Gaudreau:** So we've been able to move them up.
+
+**Kyle Gaudreau:** Their referring domains have actually increased.
+
+**Kyle Gaudreau:** What are they now, their authority score? Are you seeing 35?
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Oh, no, they're at, they're at, they were at 20 when we started, now they're at like 26.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** And like referring domains, we're not doing any link building for them, we're just creating good content.
+
+**Kyle Gaudreau:** And so this was an interesting one for me when we started working with them, because it was basically like, okay, you have low authority score, you know, you have no, literally they have no blog.
+
+**Kyle Gaudreau:** And like, can we like drive traction for them?
+
+**Kyle Gaudreau:** And so why I think there's some parallels is even though they're, they're like in the dental hygienist space, it's very different content, but low authority score, no, very little content.
+
+**Kyle Gaudreau:** And then additionally, they have.
+
+**Kyle Gaudreau:** We see a ton of programmatic plays.
+
+**Kyle Gaudreau:** Like, we see all sorts of things we can do.
+
+**Kyle Gaudreau:** We're just not doing it right now because we don't think that's the place to start.
+
+**Kyle Gaudreau:** Now, we can start experimenting with it, and we've been having those discussions, and we'll likely do that at some point this year.
+
+**Kyle Gaudreau:** But, you know, we've been working with them since January, and, like, we feel like now we're developing the foundation for them to do more aggressive stuff, essentially.
+
+**Donald Donckers:** So when you started in January, like, literally, when did it start picking up, when you started working with them?
+
+**Kyle Gaudreau:** Let's just look at it from, like, so, like, we started work with, hold on, sorry.
+
+**Kyle Gaudreau:** Yeah, six months have passed, huh?
+
+**Kyle Gaudreau:** Time flies.
+
+**Kyle Gaudreau:** Yeah, it's crazy.
+
+**Kyle Gaudreau:** So we literally, I remember, like, it was, like, the first kickoff we had after the holidays.
+
+**Kyle Gaudreau:** They had basically no traffic.
+
+**Kyle Gaudreau:** And so, you know, there's some ups and downs and this and that.
+
+**Kyle Gaudreau:** And, you know, some of this is, like, not even, like, if you look at their actual data, it looks a little bit different.
+
+**Kyle Gaudreau:** But point being, it's, like, you know, by, like.
+
+**Kyle Gaudreau:** It starts to grow.
+
+**Kyle Gaudreau:** And usually how I see this is by month three, and I don't think this is the reality of what actually happened, but by month three, this is where you start to see the first uptick in traffic, and then it's starting to compound from there.
+
+**Kyle Gaudreau:** That's been pretty consistent for us, I would say, especially in newer domains.
+
+**Kyle Gaudreau:** But anyway, it's just point being, it's like one that comes to mind where like, you know, like literally, I don't think, you know, of all this here, like, I don't think they've written a single article themselves, we've done this entire blog.
+
+**Kyle Gaudreau:** And this is like, what's driving those referring domains, and they're getting conversions off of this.
+
+**Donald Donckers:** It's just taken a lot. Do you have any sense of an increase in conversions they've been getting?
+
+**Donald Donckers:** Like, because yeah, you can get a lot of traffic, but you know, I've done this in the past at Samsara, and we would drive a lot more traffic, but it wasn't like the same type of like, you know, it was
+
+**Donald Donckers:** And that's as high converting as direct traffic.
+
+**Kyle Gaudreau:** So, oh yeah, yeah, totally, totally true.
+
+**Kyle Gaudreau:** I don't know the, like I, the latest, I don't know the latest in terms of like what they're actually like driving in terms of conversions weekly, monthly.
+
+**Kyle Gaudreau:** I can always check in, but I do know that we've been able to get momentum.
+
+**Kyle Gaudreau:** The thing I would think about related to the comment you just mentioned is like, my take is like, this is sometimes the important aspect of being mindful of like if you're developing these organic programs is I would expect direct and your brand search to always be like way, way, way higher in terms of conversion rate because there's just so much active intent there.
+
+**Kyle Gaudreau:** Like they've probably already gone through the motion in other channels, maybe even reading some of your blogs and then they're coming back, right?
+
+**Kyle Gaudreau:** So like to me, you know, like what is that next?
+
+**Kyle Gaudreau:** best action that you all can start to develop.
+
+**Kyle Gaudreau:** And Marcel mentioned that a little bit today, believe.
+
+**Kyle Gaudreau:** And like, the way we think about that is like, of course, you want them to convert eventually, but based off of where they're at in the journey and what they're engaging with, what would be that next best action to drive them?
+
+**Kyle Gaudreau:** And so that might not even always be a point of conversion, but it is a point of continuing engagement.
+
+**Kyle Gaudreau:** And, you know, for us, I think the additional thing is like, the game is also going to change a little bit in terms of like speed of conversions with like the LLM side, like that augment code example Marcel was showing, it's like insane how quickly that got like picked up and started to, you know, show traction and like stuff with Airbyte recently, where we refresh a ton of their content.
+
+**Kyle Gaudreau:** So we're doing a super heavy refresh.
+
+**Kyle Gaudreau:** They have a lot of content.
+
+**Kyle Gaudreau:** We've done like 300 pages the past few weeks of refreshes.
+
+**Kyle Gaudreau:** And they just told us recently, like through some of the work we were doing, they got 100k.
+
+**Kyle Gaudreau:** And so, like, you get just one of those and, like, the ROI is, like, already there, right?
+
+**Kyle Gaudreau:** And so, you know, it's a little, like, I'm with you, like, traffic can be at times a vanity metric, but I like to think about it of, like, let's build that, let's get some signal, let's figure out what we can learn from that, how do we continue to evolve it?
+
+**Kyle Gaudreau:** And then that is bringing us into a better path and place to be able to analyze how we drive that conversion.
+
+**Kyle Gaudreau:** Where this can be tough is, like, I was just talking to another brand earlier who, you know, they're very early stage, they really want to work with us, but, like, I'm just not sure there's, like, a fit of, like, where they're at in their journey to, like, wanting to invest in organic.
+
+**Kyle Gaudreau:** Like, like, he's, like, can I get to X number of, like, qualified leads by, like, month two with you guys?
+
+**Kyle Gaudreau:** And I'm just, like, I would argue there's nothing.
+
+**Kyle Gaudreau:** Thinking about the right channels, if that's your, like, if that's what you need today, then organic is probably not the place I would be placing the bets.
+
+**Kyle Gaudreau:** But, you know, the game is changing now a bit with GEO, so it's a little bit hard to forecast those things.
+
+**Kyle Gaudreau:** So long way of saying that, you know, I hear that, and I think there's ways of being mindful of that.
+
+**Kyle Gaudreau:** And I think if we are really intentional about being audience first with what we create in terms of content, you know, that hopefully puts our best foot forward in being able to help drive you results early on, right?
+
+**Kyle Gaudreau:** I've put together a few different ideas here, and, like, honestly, like, these may not be, like, the right ideas.
+
+**Kyle Gaudreau:** We've only had one conversation.
+
+**Kyle Gaudreau:** But it seems like there's a variety of angles for you to approach, right?
+
+**Kyle Gaudreau:** Like, there's something around, like, you know, you know, more and more, where does AI play in and around interviews?
+
+**Kyle Gaudreau:** Obviously, that's why you all exist.
+
+**Kyle Gaudreau:** But, like, like.
+
+**Kyle Gaudreau:** What kind of intelligence can be extracted from that?
+
+**Kyle Gaudreau:** There could be theoretically some first party data and content that we could put out there that could kind of, you could almost think about this as category creation to a degree, but I'm not necessarily pushing for like you all to like, you know, obviously thinking of category creation is a whole other bowl of wax and, you know, would make more sense for you all to lean into that.
+
+**Kyle Gaudreau:** I think there's some sort of angle there that could be interesting.
+
+**Kyle Gaudreau:** The other one I was, I was considering is like, from a technical recruiting perspective, I got to imagine there's some relative complexity of that.
+
+**Kyle Gaudreau:** And I don't know how you all think about your place and it fit with more technical teams.
+
+**Kyle Gaudreau:** But just knowing that like, there's a whole set of different topics and special that comes with that and challenges that there could be some interesting content to talk about, like, how do you help solve for those quite unique challenges?
+
+**Kyle Gaudreau:** I've been in part of, you know, this on the, on.
+
+**Kyle Gaudreau:** The side of building these teams in a variety of ways and just have seen, you know, some of the challenges and headaches that in finding the right recruiters and the right process and what tough it can be.
+
+**Kyle Gaudreau:** And so I think there's something compelling there that perhaps you all have an interesting value prop around.
+
+**Kyle Gaudreau:** I would also imagine, like, I don't know how much you would lean into the staffing agency side, but like huge for us.
+
+**Kyle Gaudreau:** Huge.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Cause like, I mean, I feel like there, it's just like, you're unlocking so much scale.
+
+**Kyle Gaudreau:** And so like, you know, is there an opportunity to create particular content that would engage, you know, them and, and, you know, would kind of lean into this, this layer of like, what are they searching for?
+
+**Kyle Gaudreau:** How can we tell a compelling story for them? And then this one I'm less sure about, to be honest.
+
+**Kyle Gaudreau:** I know you have a thing around like cheating in interviews and things of that nature. I got to imagine that's going to be more and more of a common topic.
+
+**Kyle Gaudreau:** Like, I see random videos here and there of people doing stuff.
+
+**Kyle Gaudreau:** And so to me, like, my takeaway is when I saw the headroom, when I, you know, assessed some of the opportunities and there's likely many others we could consider, like, it seems like there's no shortage of, like, of topical things to go through.
+
+**Kyle Gaudreau:** And this is a good, like, this is a good thing for us is, like, basically what I'm trying to figure out outside of, like, finding the right fit for us and making sure you feel comfortable about our fit, et cetera.
+
+**Kyle Gaudreau:** It's also, like, am I setting up our strategy sprint team up for success and something they can execute really well?
+
+**Kyle Gaudreau:** And, like, it seems like there's a lot of signal here of us to be able to, whatever that right strategy is, that there's no shortage of opportunities to tackle.
+
+**Kyle Gaudreau:** But I'm curious how some of that lands with you.
+
+**Donald Donckers:** Yeah, I think related to the cheating aspect, right now the angle
+
+**Donald Donckers:** With, you know, the hiring space right now is that like, yeah, AI is being used by the candidates.
+
+**Donald Donckers:** so to get ahead, like, you know, right now you have these tools where you can just put in your resume and then you put in your job description and they'll basically edit your resume to really fit that job description really well so that you get through all the like filters that they put in, bypass all the filters.
+
+**Donald Donckers:** And so there's a lot of like different things like that, that is an interesting space because you then have, you know, as a, as a high, as a hiring manager or as a recruiter, like as a company, how do you stay ahead when, you know, applicants are really quickly adapting.
+
+**Donald Donckers:** Yep.
+
+**Donald Donckers:** Totally.
+
+**Kyle Gaudreau:** Totally.
+
+**Kyle Gaudreau:** So what would be helpful?
+
+**Kyle Gaudreau:** I'm happy to share like other client examples.
+
+**Donald Donckers:** I've noticed talking to our CEO briefly this week that there's a big commitment.
+
+**Donald Donckers:** Like, I would like to understand, is there a way you say in that, like, you know, after like three months, you start to see it picking up.
+
+**Donald Donckers:** Is there a way to not have to commit to a one-year contract?
+
+**Donald Donckers:** We do it over like, let's say six months.
+
+**Donald Donckers:** And then after six months, we can, if we don't see like it's starting to pick up, we can get out of it.
+
+**Donald Donckers:** So I think that would help us.
+
+**Donald Donckers:** And the second thing is, I've also noticed that, yeah, there's these examples, but maybe if we could, if there's any of your customers that we could talk to and talk about, you know, see what their experience has been like working with you guys.
+
+**Donald Donckers:** I think that could be, what I'm hearing from our CEO is that he really values talking to other founders and what they're doing and more than anything else.
+
+**Kyle Gaudreau:** Yeah, certainly can do a lot of that, you know.
+
+**Kyle Gaudreau:** Related to, like, you know, happy to connect.
+
+**Kyle Gaudreau:** I had their name up before.
+
+**Kyle Gaudreau:** Aaron, right?
+
+**Kyle Gaudreau:** Happy to connect Aaron and Marcel if it's helpful.
+
+**Kyle Gaudreau:** You know, there's probably some, like, just good, you know, conversation and quick questions he can help answer there and just assess fit.
+
+**Kyle Gaudreau:** But related to term, you know, we can definitely explore that, you know, in terms of, like, balance of things.
+
+**Kyle Gaudreau:** Usually, like, what I can do is, so we have the strategy sprint, which is two months.
+
+**Kyle Gaudreau:** Again, through that, like, we will execute content.
+
+**Kyle Gaudreau:** It's not like we're just doing pure strategy for two months.
+
+**Kyle Gaudreau:** For, you know, customers like Engine and Town, like, we've been in the ballpark of, like, 15 to 25 articles, like, in the midst of, like, and they're not even through the strategy sprint.
+
+**Kyle Gaudreau:** But they're getting towards the latter weeks that are published on their website in, on top of all the artifacts and all.
+
+**Kyle Gaudreau:** This and that.
+
+**Kyle Gaudreau:** But essentially what we're doing is we're just trying to find repeatability and hitting that right bar and starting to scale.
+
+**Kyle Gaudreau:** And so that's what the strategy sprint is trying to do.
+
+**Kyle Gaudreau:** And then as we go into the second phase, which to your point is usually 12 months, at times I can get like buy-in to, you know, do that at six months.
+
+**Kyle Gaudreau:** that would be a total of eight months.
+
+**Kyle Gaudreau:** And, you know, perhaps that would help, you know, you all feel more comfortable.
+
+**Kyle Gaudreau:** But, you know, if it then becomes this thing where it's like, hey, you know, our pricing typically is going to start around 15.
+
+**Kyle Gaudreau:** If we want to go, you know, quite a bit lower than that in six months, that's where, you know, Marcel and myself have to kind of like weigh, you know, we have some customers that will pay way above that and a lot of demand.
+
+**Kyle Gaudreau:** And so it's just a matter of like trying to weigh that for ourselves as well.
+
+**Kyle Gaudreau:** But also we try to blend that with like, it's not just a simple.
+
+**Kyle Gaudreau:** It's like, really like, where do we feel like we have the most confidence and that we can, you know, knock it out of the park and just develop a really healthy relationship.
+
+**Kyle Gaudreau:** And that is oftentimes work for us.
+
+**Kyle Gaudreau:** And so going back to part of what I'm trying to assess and that it's part of trying to understand that equation.
+
+**Kyle Gaudreau:** And so I feel like there's certainly some a lot of growth opportunity here.
+
+**Kyle Gaudreau:** So I feel pretty good about that side.
+
+**Kyle Gaudreau:** But I'm happy to connect, you know, Aaron and Marcel, if you think that would be helpful and that we could try to see, you know, if there's any other open questions, how we can address that.
+
+**Kyle Gaudreau:** So I will be out next week on vacation.
+
+**Kyle Gaudreau:** So that might be a way of just like keeping things going and figure out where we go from there.
+
+**Kyle Gaudreau:** Yeah, sounds good.
+
+**Donald Donckers:** If you could send over like the details, like this thing that you just shared with me, I want to take a detailed look, if there's any other material related like to what the strategy session, like those two months entails.
+
+**Donald Donckers:** Um, and then yeah, pricing, that'd be fantastic.
+
+**Donald Donckers:** And okay, so you're going to be out.
+
+**Donald Donckers:** So I would need to get a confirmation from Alan this today, you guys, to me.
+
+**Kyle Gaudreau:** What I can do is what we found works really well.
+
+**Kyle Gaudreau:** I can create a shared Slack channel.
+
+**Kyle Gaudreau:** I can add you to that.
+
+**Kyle Gaudreau:** I'll add other folks from the team on there.
+
+**Kyle Gaudreau:** We can just like quickly, like we can share examples if you have any questions, et cetera, but as well of like figuring out scheduling things.
+
+**Kyle Gaudreau:** So we just find it's a super easy way to help get you all what you need.
+
+**Kyle Gaudreau:** So I can share that.
+
+**Kyle Gaudreau:** I can send a proposal and I'll share this doc we were just looking at as well.
+
+**Donald Donckers:** Yeah, share me the doc and send me the proposal. I'll take a look at it and we can take it from there.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Well, appreciate you taking so much time today with us, you know, between the workshop and myself.
+
+**Kyle Gaudreau:** It was valuable.
+
+**Donald Donckers:** I usually zoom out quickly during sessions. I'll leave when I think it's just crap, but you stayed engaged through the entire thing.
+
+**Kyle Gaudreau:** So I love it.
+
+**Kyle Gaudreau:** I love it.
+
+**Kyle Gaudreau:** love it.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Anything else before we wrap?
+
+**Donald Donckers:** I would love to understand why we should do this versus building out our own team. That's the core trade-off we're weighing right now — do we do it ourselves and hire internally, or do we use you guys?
+
+**Kyle Gaudreau:** I think we can dig into that more and Marcel can certainly share perspective as well. I typically think about it in terms of speed of impact and the complexity of building this stuff in-house, hiring the right team, and coordinating execution.
+
+**Donald Donckers:** People we've tried didn't work out specifically for SEO.
+
+**Kyle Gaudreau:** I know we talked about that — even when you do the math, hiring internally is likely more expensive. But when I was leading growth in-house at various companies,
+
+**Kyle Gaudreau:** I tend to lean more towards internal, but where I think this becomes a little bit different is like when you introduce some of the complexity, like building these organic engines and then AI, and then building those workflows, and like, how can you do that internally?
+
+**Kyle Gaudreau:** That's basically why I ended up hiring Marcel and team — I thought about it differently.
+
+**Donald Donckers:** When you work with Ramp, does Ramp have an internal SEO team?
+
+**Kyle Gaudreau:** They do. This is very different from customer to customer. We have some similar setups like you're operating today with a scrappy team where someone works directly with founders. Brands like Abnormal have a digital marketing director we work with.
+
+**Kyle Gaudreau:** They have a very established content team.
+
+**Kyle Gaudreau:** They do a lot of content themselves.
+
+**Kyle Gaudreau:** Ramp is very similar.
+
+**Kyle Gaudreau:** Luke, their head of growth is who we usually work with.
+
+**Kyle Gaudreau:** And then Luke has a variety of different content people.
+
+**Kyle Gaudreau:** We're in Slack and they join the meetings.
+
+**Kyle Gaudreau:** And then we're coordinating on like, okay, what are you all doing?
+
+**Kyle Gaudreau:** How can we help enrich and help you focus on those priorities?
+
+**Kyle Gaudreau:** What are lanes that we can also just run with and get your take on feedback of like, is this the right things to do?
+
+**Kyle Gaudreau:** So we help support what you're thinking about and lead and enrich that, while also doing things you don't have the capacity for. We coordinate through meetings and Slack. We've gone both directions. George is the VP of growth at Ramp — small world.
+
+**Kyle Gaudreau:** I was literally just chatting where we have a, we just, I was, it's day before yesterday, I think it was.
+
+**Kyle Gaudreau:** Chat with George about scheduling time when I get back on vacation, so we're going to be with him and Luke, but Luke is who we, Luke reports into George and he's who we work with.
+
+**Kyle Gaudreau:** Okay, perfect.
+
+**Donald Donckers:** So I'll reach out to George as well to ask him.
+
+**Kyle Gaudreau:** Yeah, please do. I'll send the proposal and Slack invite, and we'll get things coordinated.
+
+**Donald Donckers:** Perfect. Sounds good.
+
+**Kyle Gaudreau:** All right, thanks, Don.
+
+**Kyle Gaudreau:** Take care, man.
+
+**Donald Donckers:** Bye, see you.

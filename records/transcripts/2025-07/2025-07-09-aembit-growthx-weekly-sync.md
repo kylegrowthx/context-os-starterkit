@@ -1,0 +1,965 @@
+# Aembit <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-07-09
+time: 16:31 UTC
+duration: 34 minutes
+organizer: Andi Bailey
+participants: Apurva Dave, Dan Kaplan, Jakub Rudnik, Matthew Panzarino, Darrell Etherington, Andi Bailey
+fathom_recording_id: 73123112
+fathom_url: https://fathom.video/calls/346396083
+share_url: https://fathom.video/share/bZ-xdzKxpsPb4ZDipRqA5Pj4_Wq1com4
+source: fathom
+enriched_on: 2026-03-03 10:23 UTC
+</metadata>
+
+---
+
+## Summary
+
+Aembit and GrowthX reviewed the refined content strategy focusing on deeper technical content for developer and identity engineering personas, with updated company context, audience personas, and writing guidelines built into GrowthX's Atlas platform. Matthew Panzarino outlined how these artifacts now drive higher-quality article generation, and the team discussed upcoming product launches (GitLab, AI agent access, Kubernetes/Spiffy support) that will each require targeted content clusters. Jakub announced a transition in account management from himself to Darrell Etherington, with Matthew overseeing content quality and a new managing editor (Etisham) joining the team.
+
+---
+
+## Context
+
+Aembit is a security company focused on identity access management, particularly for cloud and Kubernetes environments. They partner with GrowthX for content marketing to reach technical buyers — DevOps engineers, SecOps implementers, and identity protocol experts — at deeper funnel stages where technical depth and credibility matter. This weekly sync is part of an ongoing calibration cycle. GrowthX has been evolving from producing broad, top-of-funnel content to developing deeper technical content that speaks to Aembit's more specialized audiences. After several weeks of feedback cycles and content iterations, GrowthX has now refactored the foundational artifacts (company context, personas, writing guidelines) that feed into their AI-powered content generation platform, and they're ready to show sample articles for review and course-correction before scaling production.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Evolved workflow: refactored foundational artifacts (company context, personas, writing guidelines) now feed into automated content generation pipeline, improving quality and consistency without increasing manual labor
+- Persona-driven generation: demonstrated ability to create separate persona clusters for different audiences (top-of-funnel vs. deep technical) and even micro-target based on specific events or product launches
+- Process clarity: Aembit feedback validated that comments (not suggest mode) work better for asynchronous feedback due to Google Docs API limitations; live edit sessions with clients improve feedback velocity
+
+**To GrowthX Business Development:**
+- Account health: Aembit is satisfied with the strategic direction and willing to invest in review cycles and live editing to refine the model; they're planning multiple product launches and committed to content clusters
+- Team transition: shift from Jakub (operations-focused) to Darrell Etherington (technically experienced writer, ex-TechCrunch/Shopify/Apple) signals confidence in GrowthX's ability to handle account execution with less GrowthX oversight
+- Expansion opportunity: Aembit explicitly planning three major launches (GitLab functionality, AI agent access management, Kubernetes/Spiffy support) with content requirements, positioning GrowthX to be core to GTM strategy
+
+---
+
+## Overview
+
+- GrowthX has refined their content creation process, focusing on deeper technical content and persona-specific writing
+- Aembit to review updated foundational documents and newly generated sample articles
+- Transition of account management from Jakub to Darrell, with Matthew overseeing content quality
+- Focus on creating content clusters for upcoming product launches (GitLab, AI agent access, Spiffy support)
+
+---
+
+## Key Topics
+
+### Content Strategy Refinement
+
+- GrowthX refactored three core foundational artifacts: company context (what Aembit is, product breakdown, competitive positioning), audience personas (identity protocol experts, DevOps, SecOps engineers, cloud security engineers), and writing guidelines (technical depth, accuracy, tone, certification integration)
+- These artifacts are now embedded in the Atlas AI content generation platform as inputs to the pipeline, ensuring every generated article aligns with Aembit's positioning and technical standards
+- Sample articles (fragmented machine IAM, human vs. non-human identities, conference recaps) demonstrate the refined approach; feedback from Matthew shows articles now achieve 7-15 minute technical depth while remaining readable and non-salesy
+
+### Review Process
+
+- Aembit will review three types of articles: (1) rebaselined versions of previously published pieces, (2) pieces that received heavy feedback from Dan and need rework, (3) conference recap content derived from Aembit talks
+- Feedback delivery: comments work better than Google Docs suggest mode due to API limitations; live edit sessions with the managing editor (Etisham) will allow rapid calibration across entire clusters
+- The team noted that persona definitions remain provisional since Aembit has closed only a few deals; guidance refinement expected by year-end
+
+### Upcoming Product Launches and Content Strategy
+
+- **GitLab functionality**: launching next month; GrowthX to prepare 3-5 piece content cluster with live edit review
+- **AI agent access management**: a major expansion; extensive content already written, targeting a significant growth area
+- **Kubernetes/Spiffy support**: launch tied to Kubernetes community event in early November; opportunity to drive pre-launch awareness through problem-specific content
+- **Cloud-specific content clusters**: identified opportunity for endless scalability—AWS S3 bucket access, Azure/GCP equivalents, each with distinct configuration and use case angles for targeted customers
+
+### Team Changes and Account Management
+
+- Jakub Rudnik transitioning from account lead to support role; Darrell Etherington taking primary account management responsibility
+- Matthew Panzarino remains as quality/strategy overseer, bringing 10+ years TechCrunch editorial experience
+- Etisham joining as new managing editor; Darrell has TechCrunch, Shopify, and Apple background, positioning him to handle sniff-testing and technical accuracy reviews without relying on Aembit for as much validation
+- Cluster model: live edits on GitLab content will establish a template for feedback, then applied across subsequent launches to accelerate cycles
+
+---
+
+## Action Items
+
+**Apurva Dave (Aembit)**
+- Review rebaselined articles (fragmented machine IAM, human vs. non-human identities, conference recaps) for quality assessment
+- Review updated Aembit basics docs (company context, audience personas, writing guidelines)
+- Schedule live edit session with GrowthX for GitLab content cluster review
+
+**Dan Kaplan (Aembit)**
+- Review rebaselined articles (fragmented machine IAM, human vs. non-human identities, conference recaps)
+- Create tasks in Monday board for Aembit team to review rebaselined articles
+- Review updated Aembit basics docs (company context, audience personas, writing guidelines)
+
+**Darrell Etherington (GrowthX)**
+- Prepare GitLab-focused content cluster (3-5 pieces) for Aembit review and feedback
+
+---
+
+## Transcript
+**Apurva Davé:** So it worked out pretty well, actually, because you know how those things can go.
+
+**Apurva Davé:** But we had a great time, and we had a lot of fun.
+
+**Apurva Davé:** And we're back.
+
+**Apurva Davé:** Welcome back.
+
+**Apurva Davé:** Hope it was good.
+
+**Jakub Rudnik:** Maybe you came back to, like, new flyers or anything like that.
+
+**Jakub Rudnik:** We did bring new faces.
+
+**Jakub Rudnik:** Thank you for mentioning.
+
+**Jakub Rudnik:** I put it in Slack, but I'll go through these things.
+
+**Jakub Rudnik:** We've spent a bunch of time this last week.
+
+**Jakub Rudnik:** We want to, you all have given us a lot of feedback on content across Google Docs, our conversations here, the voice recordings, et cetera.
+
+**Jakub Rudnik:** There's so much.
+
+**Jakub Rudnik:** You have a lot of documentation.
+
+**Jakub Rudnik:** For me, the problem or the, I don't know, the thing to solve has been how to get that and get that into Atlas in the best ways possible.
+
+**Jakub Rudnik:** And get Atlas to take all that and turn it into really good content on the other side.
+
+**Jakub Rudnik:** I think we've done most of that, not consistently enough.
+
+**Jakub Rudnik:** And so getting that last 10% both on like what comes out for each type of content, that's been the thing to crack for me.
+
+**Jakub Rudnik:** So I called him, folks.
+
+**Jakub Rudnik:** I think that is, frankly, like I think I'm solid there, but there are people at the company better than me at that, Matthew, Darrell, for different reasons, but helping me.
+
+**Jakub Rudnik:** So we've come in kind of tiger, team this.
+
+**Jakub Rudnik:** We want to get across that line for you.
+
+**Jakub Rudnik:** It's been too long of calibration.
+
+**Jakub Rudnik:** But also, everything you've done and we've done together, I think has value, and we've pulled that into what we've done over the last week.
+
+**Jakub Rudnik:** So we've spent a lot of time upgrading our artifacts, polishing our workflows in Atlas.
+
+**Jakub Rudnik:** So we'll talk through those in a second.
+
+**Jakub Rudnik:** That's a big piece of this is just showing you where we've gotten to and then what the next steps and being really clear on those are.
+
+**Jakub Rudnik:** So we have a game plan to like make sure we get to that last 10% as quickly as possible and stop sitting in that like middle.
+
+**Jakub Rudnik:** think we're just sitting right there.
+
+**Jakub Rudnik:** And.
+
+**Jakub Rudnik:** We don't want to be there.
+
+**Jakub Rudnik:** We know you don't want to be there.
+
+**Jakub Rudnik:** then the second piece, so that's those two.
+
+**Jakub Rudnik:** Andy's here.
+
+**Jakub Rudnik:** Andy's been joining calls as like our head of operations.
+
+**Jakub Rudnik:** And so trying to get an understanding of where we are with clients in many different regards.
+
+**Jakub Rudnik:** Andy, if you want to speak to anything else, I just want to introduce you and make sure you're saying hello there.
+
+**Jakub Rudnik:** Yeah.
+
+**Jakub Rudnik:** Hey, Apurva.
+
+**Andi Bailey:** I know we chatted a little bit in the feedback call, so I'm just closing loop, making sure we're all aligned on this going forward.
+
+**Andi Bailey:** Awesome.
+
+**Apurva Davé:** Yeah, you're always welcome.
+
+**Apurva Davé:** It's great to have you.
+
+**Apurva Davé:** So those are the big pieces that we'll show.
+
+**Jakub Rudnik:** We've got, we'll walk through article, refresh those type of pieces and what clear next steps are there, show you a couple different of the types of articles.
+
+**Jakub Rudnik:** We chose a few different, so like something we've already published, like got to publish today, but what we think is now a better version of that just from the outputs we've had.
+
+**Jakub Rudnik:** Like, let's use this as something we know we can get across the line.
+
+**Jakub Rudnik:** How do we take that and show that to my B1?
+
+**Jakub Rudnik:** One, some another piece that.
+
+**Jakub Rudnik:** Dan, put a lot of heavy edits under one, so we're like, okay, we got feedback here.
+
+**Jakub Rudnik:** It didn't quite get to publish date, so let's take this from zero to one again with the new workflows.
+
+**Jakub Rudnik:** And then David had done this kind of ad hoc, but we built it into Atlas, and I think this will be a better product, but taking your webinars and YouTube video.
+
+**Jakub Rudnik:** We have a big library.
+
+**Jakub Rudnik:** I know you've taken some of that and turned it into blog content.
+
+**Jakub Rudnik:** We think this is a way that we can scale kind of some of that breadth content while we're also doing the other pieces.
+
+**Jakub Rudnik:** So we've done that as well.
+
+**Jakub Rudnik:** So we've got these three types of articles we'd like to show you there.
+
+**Jakub Rudnik:** And then have those reviewed, but we've got three very specific use cases.
+
+**Jakub Rudnik:** want to like nail each of those and then push those across the line and make sure we, like, then we can go forward with each of those.
+
+**Jakub Rudnik:** So that's like the big pieces of what I want to talk through here.
+
+**Jakub Rudnik:** And then the last thing is we are going to move the account from me to Daryl and Daryl's ME.
+
+**Jakub Rudnik:** Daryl, better at Atlas, frankly, than me, has spent a lot more time in working on like these educations.
+
+**Jakub Rudnik:** So again, this is the person that I'm going to for how do we make these improvements, the questions.
+
+**Jakub Rudnik:** mean, so.
+
+**Jakub Rudnik:** So where I think I'm not able to get that 10%, I think there's a lot of confidence that Darrell can do that.
+
+**Jakub Rudnik:** I'll be here in this transition.
+
+**Jakub Rudnik:** I'll join all the calls until we feel good.
+
+**Jakub Rudnik:** I just want to say that this is not pulling off or running away.
+
+**Jakub Rudnik:** I'm like, I really think his skills will be better if he's some more technical and your background fits there and the subject matter a little bit more.
+
+**Jakub Rudnik:** I've leaned on you for these things.
+
+**Jakub Rudnik:** So we'll call that out and you've got a new managing editor, so we'll bring them in starting next week.
+
+**Jakub Rudnik:** But those are the changes.
+
+**Jakub Rudnik:** We just want to talk through those.
+
+**Jakub Rudnik:** So that was a lot of information.
+
+**Jakub Rudnik:** just threw out to the group.
+
+**Jakub Rudnik:** Thoughts, comments, anything else to cover before we jump into those agenda items?
+
+**Apurva Davé:** No, that's a, I mean, that's a lot.
+
+**Apurva Davé:** So let's, maybe we will, let's make it more concrete as we walk through some of these issues.
+
+**Apurva Davé:** I think that's probably the kind of cleanest way forward.
+
+**Apurva Davé:** And then I think everyone here is also on our call tomorrow.
+
+**Apurva Davé:** Where we're walking through Atlas itself, and maybe a few other elements, so I just wanted to flag that too.
+
+**Apurva Davé:** So we're going to have a lot of quality time this week.
+
+**Apurva Davé:** Yeah, for sure.
+
+**Apurva Davé:** So we won't do the whole, like, walkthrough on Atlas.
+
+**Jakub Rudnik:** We'll save that for tomorrow.
+
+**Jakub Rudnik:** Andrew, you can do that overview of what you have done, just to level set on how we've pulled in the different pieces of feedback and things into Atlas, and then we can go into the types of content.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** I don't think it's necessary for me to, I mean, you know, you'll get some FaceTime with Marcel, and he can kind of walk you through the way he's thinking about our tooling and all of that stuff.
+
+**Matthew Panzarino:** So I won't belabor the point on that.
+
+**Matthew Panzarino:** What I, the main thing I'll talk through is kind of how we were thinking about your artifacts, right?
+
+**Matthew Panzarino:** So the, I've been, I've been in the external channel, and I've watched all of this stuff go, you know, as an observer, watched all of you give such detailed feedback, which has been amazing, by the way.
+
+**Matthew Panzarino:** I have to say, not every client is like this, and not every client is as articulate.
+
+**Matthew Panzarino:** Or as responsive and so genuinely appreciated because it's actually very, very helpful.
+
+**Matthew Panzarino:** So we refactored your artifacts, specifically the company context, what Aembit is, what its marketing positioning is, the details about your product, competitors, that sort of stuff.
+
+**Matthew Panzarino:** The audience personas, which is who you're writing to, the audiences you're writing for, and then the writing guidelines, how we write about you, the voice and tone, the specificity and the technical depth.
+
+**Matthew Panzarino:** Specifically, we refactored these for your deeper in the funnel content, because it seems like the top of funnel content, we're getting really, really close on within a few percentage points, and we can get over the transom with most of that content.
+
+**Matthew Panzarino:** But the content for your developer ICPs, for DevOps engineers, and for identity engineers or identity leaders, people that just want more technical depth and more understanding, or at the very least, want to land on a page where they can see that telegraph.
+
+**Matthew Panzarino:** They know that you are experts and they feel comfortable going to you.
+
+**Matthew Panzarino:** For those solutions, you know, long-term, we're talking about the conversion end of the funnel, which the deeper technical content can be closer to conversions than the top of funnel content a little further away.
+
+**Matthew Panzarino:** So it's important to think of these things in strata.
+
+**Matthew Panzarino:** So these that I'm going over are specifically targeted towards that deeper in the funnel content, the more technically deep, more sometimes verbose, but more technically deep and accurate content than the top of funnel general content, which would be more in the brief overviews to kind of team set people on major topics and act as top of funnel magnets for traffic.
+
+**Matthew Panzarino:** So I just wanted to think that because it's important to understand, like, this isn't for everyone.
+
+**Matthew Panzarino:** This is for this kind of deeper technical audience.
+
+**Matthew Panzarino:** So if we look at, you can obviously, you can look at my screen or you can jump into the link that Jakub shared in the external channel.
+
+**Matthew Panzarino:** But these three artifacts, the context, personas, and guidelines, I won't go through them in laborious detail here.
+
+**Matthew Panzarino:** It's something...
+
+**Matthew Panzarino:** You can review because you can just click through and check.
+
+**Matthew Panzarino:** You can read them in doc form here at your own leisure.
+
+**Matthew Panzarino:** But these are far more detailed than the ones we were using before.
+
+**Matthew Panzarino:** The company context is probably the one I would love the most feedback on.
+
+**Matthew Panzarino:** If you have anything, I believe it's pretty detailed at this point.
+
+**Matthew Panzarino:** I refactored this based on publicly available information, but also some information that you had given us.
+
+**Matthew Panzarino:** And kind of basically tried to sketch out who Aembit is as a company.
+
+**Matthew Panzarino:** What you do, break down all of the details that you have.
+
+**Matthew Panzarino:** The reason and rationale behind this is that if we properly outline your major product groups and then update those over time and update your offerings to the public, the pooling, the workflows, can then take these components and integrate them when appropriate, right?
+
+**Matthew Panzarino:** And talk about them intelligently and accurately in context with how you describe those products and what they actually are.
+
+**Matthew Panzarino:** So that if they are mentioned or...
+
+**Matthew Panzarino:** If the context is mentioned, it's mentioned in the proper context.
+
+**Matthew Panzarino:** It's not in the context of way one of your competitors does it or in the way that the generally accepted best practices before you guys came along and reinvented this process was.
+
+**Matthew Panzarino:** You don't want to mix and match those.
+
+**Matthew Panzarino:** So we had basically created more detailed company context there.
+
+**Matthew Panzarino:** Then in the audience personas, once again, this is targeted more towards this deeper in the funnel, folks, identity protocol experts, DevOps, SecOps implementers, and then cloud security engineers.
+
+**Matthew Panzarino:** These are kind of like the core ones that we picked.
+
+**Matthew Panzarino:** And then we basically outlined the ways that each of these folks like to be talked to.
+
+**Matthew Panzarino:** You know, what annoys them?
+
+**Matthew Panzarino:** What are their drivers and motivators?
+
+**Matthew Panzarino:** How do they need to be talked about or talked to?
+
+**Matthew Panzarino:** And so that the content can then be factored for that.
+
+**Matthew Panzarino:** And then probably the most important one, because of the specificity of feedback that you've given, is the writing guidelines.
+
+**Matthew Panzarino:** And so the writing guidelines, we have created really detailed dialogue here that.
+
+**Matthew Panzarino:** Effectively acts as a prompt when we're generating the articles.
+
+**Matthew Panzarino:** It allows it to really drill down on the technical differentiators, detail, accuracy with industry-specific context.
+
+**Matthew Panzarino:** Things that are in here are like the certifications that you have earned, understanding how to use those in context.
+
+**Matthew Panzarino:** The options context is like, okay, let's provide balanced coverage of the way that competitors talk about these things, the way that you talk about them.
+
+**Matthew Panzarino:** We know that you, from your feedback, that you don't want to be ham-fisted in like pitching a bit every five minutes and want to be more learning-oriented, which we are totally behind.
+
+**Matthew Panzarino:** Content does perform organically.
+
+**Matthew Panzarino:** Better that way, you get better read depth.
+
+**Matthew Panzarino:** People don't check out because they're like, oh, a sales pitch, you know?
+
+**Matthew Panzarino:** Like, all of that stuff is played in here.
+
+**Matthew Panzarino:** And so the way that these were built is we went through all of the voice notes, all of the feedback that you've given us in the public channel, every single comment you've
+
+**Matthew Panzarino:** And then your calls that you've also had talking over the content and collated out of there all of the feedback that you've given us about how deep the articles were, where they were missing, where they could be better, et cetera, and then architected these new writing guidelines to help and then injected them into our pipeline and produced some results.
+
+**Matthew Panzarino:** So that's what we've done here.
+
+**Matthew Panzarino:** And you can review these at your leisure.
+
+**Matthew Panzarino:** But we took some of the initial topics, like fragmented machine IAM, this comparison between human and non-human identities.
+
+**Matthew Panzarino:** This is a little bit more of an overview, but with a technical edge.
+
+**Matthew Panzarino:** And then we've also done some things like take some of your conference appearances and built some recaps of those that you can use to repurpose.
+
+**Matthew Panzarino:** Some of these you have already done, and that's fine.
+
+**Matthew Panzarino:** know, these one will replace those.
+
+**Matthew Panzarino:** But I actually like that you've already done them because it allowed me to generate something like, hey, you know, how do these compare?
+
+**Matthew Panzarino:** You know, and I think they compare pretty well, in my opinion.
+
+**Matthew Panzarino:** You obviously will have your own opinions about them, but I do feel that they actually did a pretty good job of kind of generating very specific language that actually matches the context of what was talked about on stage, gets to a decent amount of technical depth.
+
+**Matthew Panzarino:** Once again, this would be deeper in the funnel, so this wouldn't be like, oh, the five-minute read.
+
+**Matthew Panzarino:** These are generally speaking seven to 12-minute reads, maybe 15-minute, and so that's okay.
+
+**Matthew Panzarino:** We can produce shorter ones if we need to, but we wanted to make sure that we could produce the longer ones and the more in-depth ones if we needed them.
+
+**Matthew Panzarino:** And so the Fragmented Machine IEM article here especially, I think, integrates a lot of technical detail in accurate ways, as I am not a DevOps engineer, I'm not an identity engineer, but I do have somewhat of a technical background and experience reading technical documentation at scale across hundreds of startups over 15 years.
+
+**Matthew Panzarino:** So that's the context in which I'm reviewing this.
+
+**Matthew Panzarino:** You also will...
+
+**Matthew Panzarino:** Basically, we'll have deeper context, but I believe that we are hitting closer to the core of what an accurate, context-rich document would feel like for somebody who is technically apt at this industry reading this article.
+
+**Matthew Panzarino:** And that was our aim with this exercise.
+
+**Matthew Panzarino:** So you can review these, take a look at them, but I think we have basically gotten to a place where we're able to produce more enriched content that is closer to the technical depth and accuracy that would feel good at that deeper section of the funnel.
+
+**Matthew Panzarino:** And I think that we're in a better place there.
+
+**Matthew Panzarino:** The top of funnel content, I know we were getting really close on and already starting to publish, which is great.
+
+**Matthew Panzarino:** But I would love to start fleshing out these other arenas.
+
+**Matthew Panzarino:** And then the last thing I'll say is like on these writing guidelines, company context, et cetera, these are designed to be living documents.
+
+**Matthew Panzarino:** So anytime you folks are launching a new cluster of products or you're changing your company,
+
+**Matthew Panzarino:** positioning, changing the people that you want to talk to, or even just on a strategy level, saying, oh, you know, we haven't addressed audience X, but we're about to address them with either new tooling, pricing, anything.
+
+**Matthew Panzarino:** It tells us that information, and we will handle integrating it into the company context and the writing documentation, all of that, to make sure that it actually makes its way into the content as soon as possible to seed the ground for any product launches and things like that.
+
+**Matthew Panzarino:** This is cool.
+
+**Matthew Panzarino:** I'm happy to answer any questions.
+
+**Matthew Panzarino:** I don't have a lot of questions at this point.
+
+**Apurva Davé:** think that probably what we need to do is we need to do a deep review of a few of these articles that you've created against an existing baseline.
+
+**Apurva Davé:** I really like that, like both from the perspective of something you've already done and then redoing it, but then also something that we considered good enough to publish on our own, like the seven stages of maturity, and then seeing like, what do you produce?
+
+**Apurva Davé:** And I'm hoping we'll come back and say yours is better.
+
+**Matthew Panzarino:** Thank
+
+**Matthew Panzarino:** That would be my ideal.
+
+**Matthew Panzarino:** That's ideal.
+
+**Matthew Panzarino:** At the very least, clarity or close, but we would hope, you know, a little bit better.
+
+**Apurva Davé:** Okay, so Dan, if you could take an item, we, just a track in our Monday board against each of these articles to make sure that we review them appropriately.
+
+**Apurva Davé:** Between the three of us on the Aembit side, we can review them.
+
+**Apurva Davé:** We should get together and talk about them.
+
+**Apurva Davé:** This feels like a really important exercise for us to, you know, help you guys say, well, okay, you did a bunch of work.
+
+**Apurva Davé:** You did the work, produced the output we wanted.
+
+**Apurva Davé:** What's the best format for feedback against these?
+
+**Matthew Panzarino:** That's a good question.
+
+**Apurva Davé:** One thing I think my team probably needs to address is, like, I think our default is to go in and heavy edit the articles in suggest mode, right?
+
+**Apurva Davé:** And I'm not always sure that's actually the best feedback to give you.
+
+**Apurva Davé:** Yeah, that's a good question.
+
+**Matthew Panzarino:** It's not a bad...
+
+**Matthew Panzarino:** format.
+
+**Matthew Panzarino:** There's one caveat to that, which is that the Google Docs API stinks and does not give suggest mode as an output.
+
+**Matthew Panzarino:** That's been a bear.
+
+**Matthew Panzarino:** And honestly, comments are given as an output.
+
+**Matthew Panzarino:** So commenting might be better.
+
+**Matthew Panzarino:** And if you find something, especially if you have a very specific good and bad state for a particular statement that we missed, something that we've defined clearly in the writing guidelines but didn't make it in.
+
+**Matthew Panzarino:** You know, like your definition of secretless access or whatever your specific definitions are.
+
+**Matthew Panzarino:** We tried to integrate those, by the way.
+
+**Matthew Panzarino:** We know you.
+
+**Matthew Panzarino:** Thankfully, you've given us a knowledge base of the way you want to talk about these things, which is great.
+
+**Matthew Panzarino:** But those things, the before and after, like the good and bad in a comment, that's great.
+
+**Matthew Panzarino:** I would love for suggest mode to just work.
+
+**Matthew Panzarino:** But given the way the API works, it's hard to scrape.
+
+**Matthew Panzarino:** Okay, that's fine.
+
+**Matthew Panzarino:** That's great to know.
+
+**Apurva Davé:** So comments are better than that.
+
+**Matthew Panzarino:** Okay, great.
+
+**Apurva Davé:** Dan, the other thing we should do is there are those foundational documents in terms of who is the Ambit, the company, who is our persona.
+
+**Apurva Davé:** It sounds like we need to go back and re-review those now that you've done the deep dive on those two.
+
+**Matthew Panzarino:** I think that's your most highly impactful point, by the way, because it's basically like any directional change, as you know, if you're off on a degree at the beginning, you're off a million degrees at the end, right?
+
+**Matthew Panzarino:** And so for us, the foundation of these things is those documents.
+
+**Matthew Panzarino:** If we are off there, you're going to find all kinds of weird stuff down the line where we're like, oh, we could fix that.
+
+**Matthew Panzarino:** We just need to understand where we went wrong at the guidance.
+
+**Matthew Panzarino:** So guidance is the most vital.
+
+**Apurva Davé:** And now it's time for an embarrassing little secret, which is we don't truly know who are buying persona.
+
+**Apurva Davé:** Because we're just early.
+
+**Apurva Davé:** We've only closed a few deals.
+
+**Apurva Davé:** They happen to be massive deals.
+
+**Apurva Davé:** But we've only closed a few of them.
+
+**Apurva Davé:** I think this is one of the challenges.
+
+**Apurva Davé:** It's like, when I look at these, the, you know, list of personas, I'm like, objectively, is this, is this a persona that we think is in the zone, and what they care about?
+
+**Apurva Davé:** Yes.
+
+**Apurva Davé:** Is it our persona?
+
+**Apurva Davé:** Nah, I don't really know all the time.
+
+**Matthew Panzarino:** So just be aware of that.
+
+**Apurva Davé:** I hope that, you know, kind of end of the year-ish, we should have more confidence in, in that.
+
+**Apurva Davé:** But for now, we're, we're operating on, you know, kind of a good sense of who they should be, not who they actually are.
+
+**Dan Kaplan:** And I, I know, in lot of cases, companies don't know what, which of their personas should be, so they're figuring stuff out as well.
+
+**Dan Kaplan:** So I, that, that gives us a little liberty that, to help inform them, right?
+
+**Dan Kaplan:** So, yeah.
+
+**Dan Kaplan:** So, let me, let me jump in.
+
+**Matthew Panzarino:** Let me show you something really quick, because I think this is an interesting conversation.
+
+**Matthew Panzarino:** I will, as I mentioned, like, Marcel will go a little bit more into, into Atlas.
+
+**Matthew Panzarino:** But as an example, so we have, you know, these pipelines.
+
+**Matthew Panzarino:** We were experimenting with different ones, so you don't have to take all of these as rote, but the article generation pipeline is essentially built to help us to take a topical direction and then run it through a series of workflows to generate the output, right?
+
+**Matthew Panzarino:** And the output, theoretically, is an article that we're pretty happy with, but probably needs some human intervention at the end, which is normal.
+
+**Matthew Panzarino:** However, what we do, what we take as inputs to these things is very important.
+
+**Matthew Panzarino:** So, obviously, we're taking, you know, your topics, and we're giving it some brief direction, but each of these steps has its own inputs, and unsurprisingly, many of them use the things that I just talked about, these foundational documents.
+
+**Matthew Panzarino:** So, the audience personas, as an example, are taken as an input to creating, like, a brief, like, what are we about to write about?
+
+**Matthew Panzarino:** Like, this is the topic, what are we about to write about it?
+
+**Matthew Panzarino:** Write it for these personas.
+
+**Matthew Panzarino:** There is nothing saying that we can't experiment with various personas.
+
+**Matthew Panzarino:** So, if you want to create a...
+
+**Matthew Panzarino:** cluster of content that is towards a persona that you have in your hope test, that maybe we will be addressing these folks, or we want to address them, but we're not really sure how.
+
+**Matthew Panzarino:** We can build specific personas and make those artifacts, we can create those artifacts as separate personas, so that we can then target a cluster of content towards them.
+
+**Matthew Panzarino:** So we can get as specific as you want, or as broad as you want.
+
+**Matthew Panzarino:** So if you're like, hey, we want to target all CISOs with really broad TOFU or top of funnel content, TOFU content, then we can do that.
+
+**Matthew Panzarino:** If you want to do really narrow content that's like, hey, we have a conference coming up, we want to publish a cluster of content that we can link, the sponsor has offered us a link on their homepage that's a hub of content.
+
+**Matthew Panzarino:** They want to, you know, they're like, hey, part of our packet, whatever.
+
+**Matthew Panzarino:** And we want to target those audience attendees, right?
+
+**Matthew Panzarino:** Cool.
+
+**Matthew Panzarino:** Ask them for their attendees, their attendee.
+
+**Matthew Panzarino:** Every conference organizer has this.
+
+**Matthew Panzarino:** We'll take those personas, ingest them, create those personas, and then build a cluster of content for you to ship so that you're ready for the conference.
+
+**Matthew Panzarino:** And this is the amount of specificity we can get.
+
+**Matthew Panzarino:** So it's open season on the people you want to write for.
+
+**Matthew Panzarino:** That's interesting.
+
+**Apurva Davé:** Okay, that ties into my last comment, which is, you kind of mentioned, like, hey, when you come out with a new product, new persona, so on and so forth, right?
+
+**Apurva Davé:** I think the biggest thing for us in the short term will actually be these, what I would describe as, I would describe them as major launches, but I still think of them as incremental onto our core product, where we're going to add a piece of functionality.
+
+**Apurva Davé:** The thing we're doing right now, which we're hoping to launch next month, is GitLab, GitLab functionality and support.
+
+**Apurva Davé:** We've done some articles on this already, right?
+
+**Apurva Davé:** That's coming.
+
+**Apurva Davé:** Then we're going to, there's three that are on top of my mind.
+
+**Apurva Davé:** If Astra has others, please chime in.
+
+**Apurva Davé:** But the three that are on top of my mind.
+
+**Apurva Davé:** Our GitLab support, some form of AI version of our product, like where we manage access for AI agents, this is going to be a big one.
+
+**Apurva Davé:** We've done a lot of writing on that topic, which if you scroll through our blog, you'll start to see it.
+
+**Apurva Davé:** mean, you literally go on forever in that topic.
+
+**Apurva Davé:** And then the third one, which ties very closely with what you were just talking about is, I'm going to bring a phrase back that those of you who have been around will enjoy, which is, we're going to introduce Spiffy support in our product.
+
+**Apurva Davé:** And that ties really closely to the Kubernetes community, and their major event will be coming up in the beginning of November.
+
+**Apurva Davé:** Nice.
+
+**Apurva Davé:** So, to your point, and I would like to do our launch there, I would love to precede our content with enough such that we're actually driving traffic.
+
+**Apurva Davé:** Traffic and awareness before we ever get to that event, that's like my dream come true, right?
+
+**Apurva Davé:** can do it.
+
+**Matthew Panzarino:** Actually, I will tell you, anecdotally, I detuned the Kubernetes content in a couple of these pieces because I was like, you know, let's, I mean, I had, and I ran it through a code checker and it actually was functional code, but it had very specific code examples that it injected for Kubernetes users to say like, hey, how are you accessing, managing access in these clusters, in these containers?
+
+**Matthew Panzarino:** I, I, I thought it was quite good.
+
+**Matthew Panzarino:** I detuned it a little bit because I was like, hey, I don't want to go, you know, crazy deep on this, but I think actually we're pretty well stanced to, to be able to, to build out content in that way.
+
+**Apurva Davé:** Yeah.
+
+**Apurva Davé:** So I think that, I mean, I think we'll have a series of these that'll just keep on going, right?
+
+**Apurva Davé:** Like, we should be always launching things that appeal to a particular, like, like GitLab is interesting because it's very much targeted.
+
+**Apurva Davé:** If you're a GitLab customer, you might care about this.
+
+**Apurva Davé:** If you're not a GitLab customer, you probably won't.
+
+**Apurva Davé:** Yeah.
+
+**Apurva Davé:** And then, you know, we should be doing a lot of those over time.
+
+**Apurva Davé:** We can hit a ton.
+
+**Matthew Panzarino:** Yeah, absolutely.
+
+**Matthew Panzarino:** I mean, I think that, like, part of this is that, and part of the reason Andy has been so effective so far with a lot of her clients, it's like, she's bringing this new context to a lot of the conversations we're having and helping directors to understand, like, the best use of time for these calls.
+
+**Matthew Panzarino:** Like, hopefully this is a useful use of your time.
+
+**Matthew Panzarino:** But what is, I find to be useful, and I'll let Darrell modulate, you know, over time with you, but I don't find, like, lists of things that are read together to be all that useful for the weekly catch-up calls.
+
+**Matthew Panzarino:** The kinds of things you're talking about are what these calls are about.
+
+**Matthew Panzarino:** It's like, hey, let's brainstorm, let's execute.
+
+**Matthew Panzarino:** And then the async is like, hey, we're delivering this back.
+
+**Matthew Panzarino:** Here's your graphic dashboard.
+
+**Matthew Panzarino:** You know, here's all the stuff that you can review at your leisure in your weekly reviews.
+
+**Matthew Panzarino:** And then if we get together and you have issues about it, of course, let's talk about it.
+
+**Matthew Panzarino:** Like, oh, you know, what's the dip here?
+
+**Matthew Panzarino:** And we're like, hey, we have an explanation.
+
+**Matthew Panzarino:** We'll talk to you about it.
+
+**Matthew Panzarino:** But other than that, these kinds of things that you're talking about, about future-looking plans, forward-looking plans, things that we either need to build stuff for you, ship stuff for you, or even brainstorm a new product for you, whether that's a new work stream or a cluster or a hub or a link magnet, all kinds of stuff that we can build for you.
+
+**Matthew Panzarino:** That's what I'd love to see these calls shaping up to be.
+
+**Matthew Panzarino:** know Andy would, too.
+
+**Matthew Panzarino:** Got it.
+
+**Apurva Davé:** Okay.
+
+**Matthew Panzarino:** Yeah, I didn't say much, but I just wanted to echo.
+
+**Darrell Etherington:** One of the benefits is we're so malleable, we're so adaptable, and we can do it kind of like on demand.
+
+**Darrell Etherington:** And then some of the things that show is longer tail in terms of showing results, right?
+
+**Darrell Etherington:** But you can spin up strategies very quickly and cheaply and easily and scale them in a way that you just couldn't before with traditional content organizations.
+
+**Darrell Etherington:** So that is the kind of stuff we live for.
+
+**Darrell Etherington:** to Matthew's point, like getting that temperature check from you in these is the most valuable use of our time, right?
+
+**Darrell Etherington:** Like figuring out what can we spot test, what can we expect.
+
+**Darrell Etherington:** And how can we even help you figure out your ICP through content campaign?
+
+**Darrell Etherington:** Yeah, that would be fantastic.
+
+**Apurva Davé:** Okay.
+
+**Matthew Panzarino:** I wanted to throw out one other thing.
+
+**Apurva Davé:** I don't think we've ever talked about these as clusters, but, you know, it seems to me like there's an endless amount of content in terms of something to do with access in each cloud.
+
+**Apurva Davé:** So, you know, like for our customers, like their world is AWS, or their world is JCP, or their world is Azure, right?
+
+**Apurva Davé:** Yep.
+
+**Apurva Davé:** And then they have to do all sorts of things to connect to it.
+
+**Apurva Davé:** Or let me give you a very concrete example.
+
+**Apurva Davé:** I've now seen at least three prospect of ours who are talking about connecting something to an AWS S3 bucket.
+
+**Matthew Panzarino:** Mm-hmm.
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** Mm-hmm.
+
+**Matthew Panzarino:** Now, if you replace S3 with almost any AWS service...-hmm.-hmm.
+
+**Apurva Davé:** You literally have endless content.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Right?
+
+**Apurva Davé:** Like, you could go on forever for AWS and for Azure and for GCP.
+
+**Apurva Davé:** And it's very specific.
+
+**Apurva Davé:** It's very concrete.
+
+**Apurva Davé:** And this is, to me, a perfect scale problem.
+
+**Apurva Davé:** Like, we have done some fundamentals to work with anything AWS.
+
+**Apurva Davé:** But how do we talk about it?
+
+**Apurva Davé:** It's not how our customers talk about it.
+
+**Apurva Davé:** Right.
+
+**Apurva Davé:** And actually talk about it in, hey, I have a bunch of it exposed at three buckets.
+
+**Matthew Panzarino:** Mm-hmm.
+
+**Matthew Panzarino:** Right?
+
+**Apurva Davé:** How do I provide access to those within my company and outside my company?
+
+**Apurva Davé:** It's like, you know, it may be purpose-built for what you're doing.
+
+**Apurva Davé:** You know what mean?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Because it's problems.
+
+**Matthew Panzarino:** Like, how do you talk about a thousand problems at once?
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Rather than, like, hey, how do you write about the same product a thousand different times?
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** Or the same solution a thousand different times?
+
+**Matthew Panzarino:** It's like, hey, let's talk about the problems.
+
+**Matthew Panzarino:** getting in.
+
+**Matthew Panzarino:** and
+
+**Matthew Panzarino:** And this positioning could be straightforward.
+
+**Matthew Panzarino:** It's like, let's talk a little bit about the problem and articulate it to hopefully anchor the person in nodding along.
+
+**Matthew Panzarino:** Oh, yeah, this is the problem I have.
+
+**Matthew Panzarino:** This is the problem I have.
+
+**Matthew Panzarino:** And then you talk about, here's how you would solve it yourself and have fun.
+
+**Matthew Panzarino:** Or we've got a button you can push over here, right?
+
+**Matthew Panzarino:** And I think that's a good way to do it.
+
+**Apurva Davé:** Yeah, is the structure right there, right?
+
+**Apurva Davé:** Here's how you solve it yourself.
+
+**Apurva Davé:** We provide you all the code samples.
+
+**Matthew Panzarino:** We provide you this.
+
+**Matthew Panzarino:** We provide you that.
+
+**Apurva Davé:** If you want to do a one and done across all your services, do it right there.
+
+**Matthew Panzarino:** And especially, I mean, with Spiffy support launching, mean, Spiffy is so DIY normally, especially with AWS or Azure or those kind of role management stuff.
+
+**Matthew Panzarino:** It's just like usually a bunch of stuff cobbled together to create solutions.
+
+**Matthew Panzarino:** And so, like, you know, if you...
+
+**Matthew Panzarino:** Doing a turnkey deployment and saying to people, hey, we're going to compare and contrast, but not in a ham-handed way.
+
+**Matthew Panzarino:** It doesn't have to be like a table with like, oh, you could do all this crap or you could just press this button.
+
+**Matthew Panzarino:** But you can outline the problem and then say, you know, if you guys are, if you folks are willing to go through this, we're happy to talk you through that because we're the experts.
+
+**Matthew Panzarino:** But it just so happens we've thought through this problem and have created a repeatable way to do that for you.
+
+**Matthew Panzarino:** So we can do that.
+
+**Matthew Panzarino:** Absolutely.
+
+**Matthew Panzarino:** So we're basically at time.
+
+**Apurva Davé:** I want to just wrap up and make sure we know what steps we need to follow through on here.
+
+**Apurva Davé:** So we've talked about a review of the rebaselined articles.
+
+**Apurva Davé:** We've talked about a review of the Ambit basics, which is like a company positioning personas.
+
+**Apurva Davé:** think those are the primary ones.
+
+**Apurva Davé:** What else?
+
+**Apurva Davé:** What else do we need to do?
+
+**Apurva Davé:** I think those are the big ones.
+
+**Matthew Panzarino:** I think that will help us calibrate.
+
+**Matthew Panzarino:** See how close we got with this refactor, and then we'll go from there.
+
+**Matthew Panzarino:** And then basically, I think if we do that review, I would love to basically take the cluster of the content that you just mentioned, either forward-looking for your Kubernetes event or some of these problem-based things, and we'll burst a cluster of content out for you.
+
+**Matthew Panzarino:** Not a crazy amount, but three to five pieces or so, just to see how those feel to you, calibrate that, and start producing some stuff that you can get out there.
+
+**Matthew Panzarino:** Okay.
+
+**Apurva Davé:** Now, my interest in doing that would be, I mean, our next milestone is GitLab.
+
+**Apurva Davé:** So, I would like to focus on that if we can.
+
+**Matthew Panzarino:** Perfect.
+
+**Matthew Panzarino:** Sounds great.
+
+**Matthew Panzarino:** Okay.
+
+**Apurva Davé:** That makes sense.
+
+**Jakub Rudnik:** The only other addition with Etisham is the new managing editor coming in.
+
+**Jakub Rudnik:** Someone had a suggestion to the directors, but like having, when we get that cluster started doing like a live edit with whoever wants to take that on on your team, whoever's that expert, so we can get like that.
+
+**Jakub Rudnik:** back on that one, and we can apply that to all the rest.
+
+**Jakub Rudnik:** I think the cluster model will work really smartly to get the feedback once really deeply, use your time really effectively, and then we can spread that edit across that cluster, and so we can go much faster, and your review cycle is much lower going forward.
+
+**Jakub Rudnik:** So cluster right, cluster, doing that, especially in this continued calibration, I think that makes a ton of sense, probably the next week thing.
+
+**Jakub Rudnik:** Great, okay.
+
+**Matthew Panzarino:** Great.
+
+**Matthew Panzarino:** Very good.
+
+**Matthew Panzarino:** Sounds good.
+
+**Matthew Panzarino:** Thank you, Appreciate you taking the time.
+
+**Matthew Panzarino:** So who's the new Jakub for us now?
+
+**Dan Kaplan:** It'll be you, Matt?
+
+**Dan Kaplan:** That'll be Daryl.
+
+**Dan Kaplan:** Oh, Daryl.
+
+**Matthew Panzarino:** Yeah, yeah.
+
+**Matthew Panzarino:** I'm always here, by the way, but yeah, Darrell will be the new point person.
+
+**Matthew Panzarino:** So I did recognize your name.
+
+**Dan Kaplan:** You were at TechCrunch at EIC for many years, right?
+
+**Matthew Panzarino:** Yeah, yeah.
+
+**Matthew Panzarino:** About 10 years, yeah.
+
+**Dan Kaplan:** Yeah, so that's great to at least have you kind of overseeing what we're doing from giving you a tech background.
+
+**Dan Kaplan:** That's great.
+
+**Dan Kaplan:** Yeah, exactly.
+
+**Dan Kaplan:** My job is to be the sniff test on content quality, and then to help drill down.
+
+**Matthew Panzarino:** And we're transitioning away from David on that front.
+
+**Dan Kaplan:** No, so we're transitioning out.
+
+**Andi Bailey:** Etisham and Darrell, and again, Darrell was at TechCrunch among many other places.
+
+**Jakub Rudnik:** So has that experience too.
+
+**Jakub Rudnik:** And then, but I'll continue to join it as long as like to make sure this is a smooth handoff and that we've got everything set up for sure.
+
+**Apurva Davé:** Yeah.
+
+**Matthew Panzarino:** The context on Darrell, by the way, is like an incredibly technically apt writer and, and just knows a lot about the industries I think that you target and has worked on both sides of the table.
+
+**Matthew Panzarino:** He's worked at Shopify, Apple, and then also at TechCrunch for many years.
+
+**Matthew Panzarino:** He's very adaptable.
+
+**Matthew Panzarino:** And I think from a technical aspect, he's going to be able to do a lot of the sniff testing so that the labor is more on us and less on you, right?
+
+**Matthew Panzarino:** To get that content to the bar.
+
+**Matthew Panzarino:** So, yeah, that's super.
+
+**Dan Kaplan:** Okay.
+
+**Matthew Panzarino:** Great.
+
+**Matthew Panzarino:** Thanks folks.
+
+**Matthew Panzarino:** Appreciate it.
+
+**Matthew Panzarino:** Thank you.
+
+**Matthew Panzarino:** Ciao.
+
+**Matthew Panzarino:** Talk to you.

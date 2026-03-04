@@ -1,0 +1,1081 @@
+# Udemy <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-10-30
+time: 16:29 UTC
+duration: 33 minutes
+organizer: team@growthxlabs.com
+participants: Kyle Gaudreau (GrowthX), Justin Luebke (Udemy), Katya Luscomb (GrowthX)
+fathom_recording_id: 98065591
+fathom_url: https://fathom.video/calls/458181530
+share_url: https://fathom.video/share/1iX1pXRxsKUxz7_a8nUcWLSBxQYDtVse
+source: fathom
+enriched_on: 2026-03-02 22:02 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Udemy aligned on a new content production workflow designed to publish 5 articles per week. Katya walked through an Airtable-based calendar managing the full lifecycle (topic approval → production → review → publication), while Kyle and Justin confirmed the new blog wireframes (inspired by Mixpanel) will launch on Udemy's current domain to avoid delays. Key operational changes: the team now reports to Jason Ford (Consumer Team) with Justin as day-to-day lead, design assets require 1-2 weeks lead time, and content ships Friday → review Monday-Wednesday → publish following week.
+
+---
+
+## Context
+
+This is a weekly sync between GrowthX's content delivery team (Kyle Gaudreau and Katya Luscomb) and Udemy's content leadership (Justin Luebke). Udemy engaged GrowthX to build a high-velocity content engine targeting specific verticals (General Contracting and HVAC) with SEO-optimized blog content. The meeting focused on operationalizing the workflow after months of setup. Justin recently became the day-to-day contact following a reporting structure change where Udemy's blog team moved under Jason Ford's Consumer Team, replacing the previous reporting line to Glenn Lehrman.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Workflow standardization required: Airtable-based calendar for topic approval, production tracking, and publication triggers. GrowthX must integrate with Justin's publishing workflow and confirm Looker dashboard updates when status changes to "Publish."
+- Design asset lead times critical: Udemy Design team requires 1-2 weeks for hero images. GrowthX should front-load image requests and explore template-based solutions to reduce bottleneck.
+- Publishing cadence established: Friday delivery → early-week Udemy review → revisions → following-week publication. Requires coordination with GA4 reporting and early-signal metrics tracking.
+
+**To CheckThat:**
+- GA4 integration pending: Justin working with Udemy IT to grant GrowthX access to GA4 for performance tracking. Current status uncertain but non-blocking for initial publication.
+
+**To GrowthX Business Development:**
+- Account health signal: Reporting structure change (new leader, Jason Ford) signals organizational growth. Opportunity to align on expanded content scope (pillar pages with senior author input via Loom videos). Content velocity goal (5 articles/week) indicates high confidence in partnership and potential for expansion.
+- New blog launch imminent: Wireframes approved, domain strategy decided (current domain, no migration delay). Expect rapid publication cadence starting immediately.
+
+---
+
+## Overview
+
+- **New Reporting Structure:** The team now reports to Jason Ford (Consumer Team), with Justin as the primary contact for day-to-day approvals.
+- **Airtable Workflow Adopted:** A new Airtable calendar will manage the full content lifecycle (topic approval → production → review → publication), enabling the 5 articles/week goal.
+- **Image Creation Centralized:** All hero images must be created by the Udemy Design team via a formal ticket process, requiring a 1–2 week lead time.
+- **New Blog Wireframes Approved:** The wireframes were approved, with a key decision to launch the new blog on the current domain to avoid delaying content publication.
+
+---
+
+## Key Topics
+
+### New Reporting Structure
+
+  - The team now reports to Jason Ford (Consumer Team), not Glenn.
+  - **Operational Plan:**
+      - **Day-to-day approvals:** Justin
+      - **Strategic input:** Jason Ford
+
+### Content Production Workflow
+
+  - **Goal:** Publish 5 articles/week to generate performance signals quickly.
+  - **Airtable Calendar:** Katya demoed a new calendar to manage the workflow.
+      - **Topic Approval:** Justin approves topics/keywords monthly.
+      - **Production & Review:** A simplified view tracks articles.
+      - **Publication:** Justin updates the status to "publish" to trigger GrowthX's Looker dashboard updates.
+  - **Publishing Cadence:**
+      - **Timeline:** Content delivered Friday → Udemy team reviews early next week → Revisions applied → Publication the following week.
+      - **Rationale:** This cadence allows for thorough review, which is critical for a new partnership.
+  - **Pillar Page Collaboration:**
+      - **Challenge:** Getting input from busy senior authors.
+      - **Solution:** Authors can submit Loom videos or voice notes with feedback, which GrowthX will integrate into the article.
+
+### Image Creation Process
+
+  - **Process:** All hero images must be created by the Udemy Design team via a formal ticket.
+      - **Lead Time:** 2 weeks (ideal), 1 week (last resort).
+      - **Rationale:** Ensures brand consistency.
+  - **GrowthX Proposal:** Explore a template-based system to accelerate the process.
+
+### New Blog Wireframes
+
+  - **Approval:** The wireframes were approved, drawing inspiration from the Mixpanel blog.
+  - **Key Decisions:**
+      - **URL Structure:** `/categories/` folder will be added for better analytics filtering.
+      - **Navigation:** Topic clusters will appear at the top of the homepage.
+      - **Infinite Scroll:** Confirmed over pagination to mirror the Consumer blog's UX.
+      - **Featured Article:** Removed for simplicity; Justin will confirm this with the team.
+      - **Internal Links:** The "Related Articles" section will have a manual override option for strategic linking.
+  - **Launch Strategy:**
+      - **Decision:** Launch the new blog on the current domain immediately.
+      - **Rationale:** Avoids delaying content publication while awaiting a larger site migration.
+      - **Action:** Justin will confirm with Krista that this launch strategy won't negatively impact existing lead-gen content.
+
+---
+
+## Action Items
+
+**Kyle Gaudreau (GrowthX)**
+- Send image calendar to Justin; then Justin submit Design tickets 2 weeks ahead
+
+**Justin Luebke (Udemy)**
+- Confirm with Jay publishing handoff; then update Airtable status to Publish
+- Confirm URL structure with Chris; then share decision with Kyle
+- Review wireframes with Krista; then schedule Dev/Design review and invite GrowthX
+- Confirm with Krista blog vs Resources section; then share decision with Kyle
+- Check GA4 access status with IT; then update Kyle
+
+**Katya Luscomb (GrowthX)**
+- Update Airtable topics to Approved status; then generate 1-month keyword roadmap; ping Justin
+- Set Drive permissions for pillar authors and reviewers; then Justin create Slack group with Loom access
+
+---
+
+## Transcript
+
+**Kyle Gaudreau:** I've dealt with those before.
+
+**Kyle Gaudreau:** I'm so sorry.
+
+**Kyle Gaudreau:** This meeting is being recorded.
+
+**Kyle Gaudreau:** The worst I've had in a while.
+
+**Katya Luscomb:** I'm not sure what was going on.
+
+**Katya Luscomb:** Thanks.
+
+**Kyle Gaudreau:** You know, not the funnest for sure.
+
+**Katya Luscomb:** Yeah.
+
+**Kyle Gaudreau:** My son was very cute about it because I was like in the dark room, like, you know, while he was still awake.
+
+**Katya Luscomb:** And so, you know, Claire, my wife, was saying, oh, he's not feeling well.
+
+**Katya Luscomb:** And so the first thing he said to me this morning was like, oh, are you feeling better now?
+
+**Katya Luscomb:** I'm like, oh, my God.
+
+**Kyle Gaudreau:** I'm so sorry.
+
+**Katya Luscomb:** Love that.
+
+**Katya Luscomb:** Hey, Justin.
+
+**Justin Luebke:** Hey.
+
+**Kyle Gaudreau:** How's it going?
+
+**Katya Luscomb:** Good.
+
+**Justin Luebke:** you doing?
+
+**Justin Luebke:** Not too bad.
+
+**Kyle Gaudreau:** Good.
+
+**Kyle Gaudreau:** I'm trying to check the invite on the Udemy site.
+
+**Kyle Gaudreau:** So we have Veronica who accepted.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Glenn declined.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** It looks like most folks declined.
+
+**Kyle Gaudreau:** So maybe Veronica joins us, but probably us three today.
+
+**Kyle Gaudreau:** But should we wait?
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Thank Thank Thank Thank
+
+**Justin Luebke:** Um, Krista may be joining.
+
+**Justin Luebke:** I'm not positive.
+
+**Justin Luebke:** Or was she not?
+
+**Justin Luebke:** Was she canceled?
+
+**Kyle Gaudreau:** Or whatever on there?
+
+**Kyle Gaudreau:** There's a lot of people on the same page.
+
+**Justin Luebke:** Oh, yeah, they all.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Okay.
+
+**Justin Luebke:** So one bit of news I forgot to say the other day.
+
+**Justin Luebke:** Oh, wait.
+
+**Justin Luebke:** Oh, it's Veronica.
+
+**Justin Luebke:** Glenn is no longer, like, Krista's direct manager.
+
+**Justin Luebke:** We are moving under the consumer team.
+
+**Justin Luebke:** Hey, so we are now under Jason Ford, who I'm not sure if you've met before, but Glenn will probably not be on these calls, I would imagine.
+
+**Kyle Gaudreau:** Okay, got it.
+
+**Kyle Gaudreau:** Yeah, probably a good, I didn't put this in the agenda officially, but yeah, just to, like, clarify operationally how we should be thinking.
+
+**Kyle Gaudreau:** Certainly, like, you're going to be our day-to-day, we'll see most approvals go through you, and then if there's anything that we need to.
+
+**Kyle Gaudreau:** More strategic input into that needs to be escalated.
+
+**Justin Luebke:** sounds like then that would be Jason.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Okay.
+
+**Justin Luebke:** yeah, we'll good.
+
+**Kyle Gaudreau:** But, yeah, just want make sure we have our head around.
+
+**Kyle Gaudreau:** We've met a lot of different folks over there.
+
+**Justin Luebke:** Want to make sure we're looping in the right people at the right time.
+
+**Kyle Gaudreau:** so we'll follow the chat or ask for clarity if needed.
+
+**Kyle Gaudreau:** But, cool.
+
+**Kyle Gaudreau:** Awesome.
+
+**Kyle Gaudreau:** Well, diving right into the agenda.
+
+**Kyle Gaudreau:** A few different things to cover.
+
+**Kyle Gaudreau:** You know, we don't need to talk too much about progress.
+
+**Kyle Gaudreau:** But most of what we want to cover today was on the wireframe side of things.
+
+**Kyle Gaudreau:** Just as a bit of an FYI, we are going to be, we are rather continuing to go through and address the open feedback from the calibration articles.
+
+**Kyle Gaudreau:** We should have that over to you by end of week.
+
+**Kyle Gaudreau:** to you you end and, and And you you know,
+
+**Kyle Gaudreau:** From there, hopefully everything's good to go and we can move to publishing.
+
+**Kyle Gaudreau:** I put this as just like, what are the different steps to take to enable us to get towards publishing five articles a week eventually?
+
+**Kyle Gaudreau:** And that being like our North Star for the coming weeks, essentially, right?
+
+**Kyle Gaudreau:** And so what are those key friction points to getting there?
+
+**Kyle Gaudreau:** First is making sure, you know, you and the team are good with this first batch of articles.
+
+**Kyle Gaudreau:** We'll continue to work on revisions.
+
+**Kyle Gaudreau:** We'll certainly have other articles we'll be sharing in the interim and trying to apply that same feedback within them.
+
+**Kyle Gaudreau:** We were just talking about this earlier in the week, so I won't belabor the point around just making sure we can identify, create images quickly.
+
+**Kyle Gaudreau:** That enables us to, at the very least, have strong hero images.
+
+**Justin Luebke:** Okay, perfect.
+
+**Justin Luebke:** So, I talked to someone from design yesterday, and we will have to put in tickets.
+
+**Justin Luebke:** Tickets.
+
+**Justin Luebke:** So I think it is going to be very helpful to have a calendar so we can have things like two weeks in advance ideally, one week last resort, but like it will take them a few days to like get through those.
+
+**Justin Luebke:** And I told them that there would be like pretty high volume of them coming in and they remain consistent that that is the route that they want to take for images.
+
+**Justin Luebke:** So if we can get a calendar for that, I can either do those individually or set up some type of like bulk ticket, maybe like a weekly ticket where it just kind of goes in and it has each like five of the different topics and maybe like a brief description so they have a good feel as to what to pull for it.
+
+**Kyle Gaudreau:** So if I'm hearing that right, it sounds like there are preferences for us to continue to.
+
+**Kyle Gaudreau:** Us trying to solution around that and generate images that they would approve is probably a non-starter at this point.
+
+**Kyle Gaudreau:** They would prefer that to go through them.
+
+**Justin Luebke:** At this point, yes.
+
+**Justin Luebke:** I was going to say if you want to try to do some images and they could eutimize them, maybe.
+
+**Justin Luebke:** But, like, I don't know.
+
+**Justin Luebke:** It might just be an extra step that is not necessary.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** I mean, we're happy to continue to experiment, propose different solutions here.
+
+**Kyle Gaudreau:** Like, it is a friction point that could slow us down for sure.
+
+**Kyle Gaudreau:** Agreed.
+
+**Kyle Gaudreau:** And, you know, at the end of the day, we're trying to move towards generating signals for you as fast as possible.
+
+**Kyle Gaudreau:** But, at the same time, like, you know, respect things needing to be on brand.
+
+**Kyle Gaudreau:** I wonder also if we can chat more about this down
+
+**Kyle Gaudreau:** But I just wonder if there's, like, some sort of template-based things we can work within that's repeatable in some manner.
+
+**Kyle Gaudreau:** And if we have clear boundaries, you know, at the very least, maybe they can give stamp of approval or we have something to select from rather than needing something bespoke for each article, essentially.
+
+**Kyle Gaudreau:** But we can chat a bit more about that.
+
+**Kyle Gaudreau:** Let's go through some tools, understand how it works a little bit.
+
+**Kyle Gaudreau:** But just calling out, you know, we're happy to continue to try to address that friction point.
+
+**Justin Luebke:** I agree.
+
+**Justin Luebke:** Yeah, it could be a future state.
+
+**Justin Luebke:** Nice to have.
+
+**Justin Luebke:** But with you.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** The other thing, I don't recall us really talking about this in depth, is how to handle the publishing side of things.
+
+**Kyle Gaudreau:** For the vast majority of our clients, we do the publishing.
+
+**Kyle Gaudreau:** For the global haven't mentioned first
+
+**Kyle Gaudreau:** For some of our clients to prefer to own that step, it's similar to images.
+
+**Kyle Gaudreau:** It's just one of those points of friction that we oftentimes offer because it just enables us to move faster and get content out.
+
+**Kyle Gaudreau:** And usually it's like training our teams, clear boundaries, things of that nature.
+
+**Kyle Gaudreau:** I'm assuming your preference would probably be to have your team stage and publish.
+
+**Justin Luebke:** But that's, that's what I was originally thinking.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** So let's, you know, as we approach that, I don't know, like, how that would work on your end, who would be involved.
+
+**Justin Luebke:** That would be Jay.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** It would be Jay.
+
+**Kyle Gaudreau:** So we can make sure we're like very clear on like, how do we deliver that to Jay?
+
+**Kyle Gaudreau:** Like, where does it live?
+
+**Kyle Gaudreau:** How do we address any questions, whatever it may be.
+
+**Kyle Gaudreau:** So that's probably a thing just to discuss as we also like chat about the wireframes with Jay.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** On to the content.
+
+**Kyle Gaudreau:** Calendar, which is certainly relevant to the images discussion.
+
+**Katya Luscomb:** Katya, want to spend on that, please?
+
+**Katya Luscomb:** Yeah, let me share my screen really quick and jump in.
+
+**Katya Luscomb:** Yeah, I was actually appreciating how many parallels we had with the content calendar and the image discussion.
+
+**Katya Luscomb:** So basically, what I have here is a simplified, refined Airtable view of content, and I'll walk through each tab.
+
+**Katya Luscomb:** But this second one shows an overview of content a month out, and we can play with the exact assignments and things.
+
+**Katya Luscomb:** All of these assignments were generated from your content scorecard that you shared like a month ago.
+
+**Katya Luscomb:** And so I've got, you know, the topic cluster and the keyword.
+
+**Katya Luscomb:** I do have an article description included.
+
+**Katya Luscomb:** And a cool feature, if you click on the article title, it will pull up a lot more details.
+
+**Katya Luscomb:** I just wanted to keep the original view pretty simplified for you all.
+
+**Katya Luscomb:** And then over here in the status column, this just shows for the current week articles, it shows where they are in production.
+
+**Katya Luscomb:** And we can adjust what these status options actually say to reflect the process as we go.
+
+**Justin Luebke:** I just wanted to show an idea of how that could generate.
+
+**Katya Luscomb:** Questions on tab at all before I jump on?
+
+**Katya Luscomb:** Cool.
+
+**Katya Luscomb:** Great.
+
+**Katya Luscomb:** This first one, topics to approve.
+
+**Katya Luscomb:** These topics are also all from the content scorecard.
+
+**Katya Luscomb:** I put an asterisk next to them because they all had a draft or like outline, I think, that you had originally started.
+
+**Katya Luscomb:** When we were first talking, you had mentioned that it was probably okay for us to do those.
+
+**Katya Luscomb:** I just wanted to make sure there weren't any that you had already generated that I should take off would just say go for it.
+
+**Katya Luscomb:** If it's in the AI, it's free game.
+
+**Katya Luscomb:** Great.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** All right.
+
+**Katya Luscomb:** I will go ahead and update all of those.
+
+**Katya Luscomb:** As we develop additional keywords and assignments, those will be here.
+
+**Katya Luscomb:** Okay.
+
+**Katya Luscomb:** And then I tried to make this as easy as possible.
+
+**Katya Luscomb:** Possible for review.
+
+**Katya Luscomb:** So in the topic approval, if it's good to go, you just hit approved.
+
+**Katya Luscomb:** If, say, you want a different keyword or the assignment direction isn't quite right, you just click need revision and there's a little topic feedback spot here.
+
+**Katya Luscomb:** And then likewise, if it's rejected, get rid of it.
+
+**Katya Luscomb:** Once I apply any edits to the description or the keyword, I'll go ahead and change to pending review, which will just be a signal for you guys that it's good to look over.
+
+**Katya Luscomb:** Um, how often do you think this is, like, how often do you think someone's going to need to go through this?
+
+**Katya Luscomb:** Ideally, probably generating keywords like once a month.
+
+**Katya Luscomb:** I'd like to keep that content calendar up to date so we have at least a month out of content.
+
+**Katya Luscomb:** Um, and we can see how well keyword generation and things go if we need to do it more often, but I'd love to not pester you guys all the time for this.
+
+**Katya Luscomb:** Okay.
+
+**Justin Luebke:** And I can always send you a ping when there's content.
+
+**Justin Luebke:** That's what I was hoping it for.
+
+**Justin Luebke:** Okay, perfect.
+
+**Katya Luscomb:** Love that.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** Alrighty.
+
+**Justin Luebke:** Questions here?
+
+**Katya Luscomb:** Nope.
+
+**Katya Luscomb:** Cool.
+
+**Katya Luscomb:** I like to move fast, so I just double check.
+
+**Katya Luscomb:** So this content and production tab, pretty straightforward.
+
+**Katya Luscomb:** There's nothing to edit in here for you guys.
+
+**Katya Luscomb:** It's just an overview.
+
+**Katya Luscomb:** So it will show new content that we're generating as well as if things come back to us for revision.
+
+**Katya Luscomb:** So this is the very first calibration piece that we did.
+
+**Katya Luscomb:** There's a few comments from Steph that I still need to close out.
+
+**Justin Luebke:** So that's showing here.
+
+**Katya Luscomb:** And then the next tab, articles review and pending publication.
+
+**Katya Luscomb:** This also shows the articles in revision just for a clear view of kind of where they're at in that revision pipeline.
+
+**Katya Luscomb:** This one does have some options to edit.
+
+**Katya Luscomb:** So these are the two additional calibration articles that we sent right before we went on pause.
+
+**Katya Luscomb:** And there's two spots here that you guys can review.
+
+**Katya Luscomb:** There's an article approval.
+
+**Katya Luscomb:** So if there's revisions that are needed, go ahead and hit pending revisions needed here.
+
+**Katya Luscomb:** And then if once I apply revisions, I'll go ahead and hit that so you guys can see those.
+
+**Katya Luscomb:** And if.
+
+**Katya Luscomb:** If you want to add feedback, just here in Airtable, totally fair game.
+
+**Katya Luscomb:** It's also really easy if you just put it into the Google Doc as well.
+
+**Justin Luebke:** It's kind of whatever's easier for you guys.
+
+**Katya Luscomb:** wanted to give a couple of Probably Google Doc.
+
+**Katya Luscomb:** Cool.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** Similar to the topics, if you click in here, this shows secondary keywords, meta title, meta description, all of those nuances in one view.
+
+**Katya Luscomb:** Again, you need to keep this main view pretty simplified and then provide more details on the side.
+
+**Justin Luebke:** Can you go back to the content calendar for a minute?
+
+**Katya Luscomb:** Sorry.
+
+**Justin Luebke:** No worries.
+
+**Justin Luebke:** is.
+
+**Justin Luebke:** Okay.
+
+**Justin Luebke:** So here it's like approved to start.
+
+**Justin Luebke:** Do these directly correlate with the articles, like content and production?
+
+**Katya Luscomb:** Like is there any tie between the two or are you separately going through them and starting?
+
+**Katya Luscomb:** So anything with the status here.
+
+**Katya Luscomb:** So the current week will always be in production.
+
+**Katya Luscomb:** If we do get a jumpstart, like I'm going to be starting on these three.
+
+**Katya Luscomb:** For next week.
+
+**Justin Luebke:** And so once I move those to in production, they will automatically show in the content in production tab.
+
+**Katya Luscomb:** good.
+
+**Katya Luscomb:** Cool.
+
+**Katya Luscomb:** And I wanted to show this status here for the current week just so that as we're producing things at different paces, you all can see.
+
+**Katya Luscomb:** So I'll probably just end up paying like Thursday or Friday as we deliver content.
+
+**Justin Luebke:** But in case you want to go in and review content a little bit earlier, then you can see what's in progress.
+
+**Justin Luebke:** Question, statement.
+
+**Justin Luebke:** So if we're getting things for the week, like Thursday or Friday, would it be assumed that we're posting them that week or the following week?
+
+**Justin Luebke:** I feel like we may have to do like a following week publish just based on how many people may need to read it for some reason.
+
+**Katya Luscomb:** Yeah.
+
+**Katya Luscomb:** So that's a similar cadence to what I've got with a couple other accounts where I send them content on Friday.
+
+**Katya Luscomb:** They review it early the next week.
+
+**Katya Luscomb:** I apply any revisions and then it goes to publication that following week.
+
+**Justin Luebke:** Perfect.
+
+**Justin Luebke:** That sounds good.
+
+**Kyle Gaudreau:** But, you know, at the end of the day, like, what we're always trying to do is, like, is there anything we can do to shorten that cycle in any way?
+
+**Kyle Gaudreau:** Whether, you know, it's, like, being or, you know, just understanding the patterns of your feedback.
+
+**Kyle Gaudreau:** Like, again, like, we're just trying to always think of what are the friction points to get in content live.
+
+**Justin Luebke:** If we can address them, that means we can help.
+
+**Justin Luebke:** Yeah, I think with you guys being new to us and Jay also being new to us, I think there's just a lot of, I'm going to say skepticism.
+
+**Justin Luebke:** skepticism is the right word.
+
+**Justin Luebke:** just, like, wanting to be sure everything is, like, solid and polished.
+
+**Justin Luebke:** But I think once we're, like, out a couple months, I think that things will go quicker.
+
+**Justin Luebke:** I think that there are going to be different things we could bypass at a certain time.
+
+**Justin Luebke:** But I do think it's going to be a little bottleneck-y at first, unfortunately.
+
+**Kyle Gaudreau:** Yeah, understood and, you know, respect that.
+
+**Kyle Gaudreau:** But, you know, as we go through it, we're happy to share our perspective and see, you know, if that lands or not.
+
+**Justin Luebke:** a lot.
+
+**Kyle Gaudreau:** And, you know, we certainly don't want to put out a bunch of crap content or anything of that nature.
+
+**Kyle Gaudreau:** At the same time, if we, like, try to get too perfectionist with that, that is limiting to growth in itself.
+
+**Kyle Gaudreau:** And so, we very much look at this content as, like, living, breathing.
+
+**Kyle Gaudreau:** Like, it's not done.
+
+**Kyle Gaudreau:** Like, we always can continue to come back and revise it in a whole variety of ways, enrich that content, apply, you know, different experiments or thinking back to it.
+
+**Justin Luebke:** And so, you know, what is that right bar to, like, this is ship ready?
+
+**Kyle Gaudreau:** And, you know, because at times, like, the worst case would be, you know, we have so much to learn, right?
+
+**Kyle Gaudreau:** And we overcycle on something that never actually gets traction.
+
+**Kyle Gaudreau:** And that's not the most ideal use of, like, our time and resources, right?
+
+**Justin Luebke:** Definitely.
+
+**Justin Luebke:** Another thing I'm just thinking about, like, for the pillar pages, how we're going to have a higher up person in UB action.
+
+**Kyle Gaudreau:** to be the author and reviewer of that.
+
+**Justin Luebke:** We may have to have.
+
+**Justin Luebke:** Editing rights or just like maybe they can just comment in like a new section or a quote or something like that.
+
+**Justin Luebke:** But just wanted to, yeah, say that as well.
+
+**Kyle Gaudreau:** But everything's sounded good to me so far.
+
+**Kyle Gaudreau:** Yeah, it's a good call.
+
+**Katya Luscomb:** Correct.
+
+**Katya Luscomb:** Yeah, I can make sure that I'm like in Google Drive, I can make sure they're sharing permissions are set so they can just go in and make those changes.
+
+**Kyle Gaudreau:** One thing we can experiment with as we go through that is, you know, whether it's a staff or whoever it may be.
+
+**Kyle Gaudreau:** We've done things where we take like, say, a voice note, just like, you know, let me just like quickly capture my thoughts and like send this over to GrowthX.
+
+**Kyle Gaudreau:** And we oftentimes can have like, say, the article somewhat like 70% of the way there or whatever, you know, in that ballpark.
+
+**Kyle Gaudreau:** And then, but that last 30% and it being their perspective can really be the thing that brings it over the top.
+
+**Kyle Gaudreau:** And so we've had a lot of success doing things of that nature and it would be easier for
+
+**Kyle Gaudreau:** For a step, rather than like, let me sit down and figure out how I would write this, and how it would live, and like, we can figure out that part, right?
+
+**Justin Luebke:** Okay, yeah, I will add that when I start the Slack group of the people editing, maybe like having Loom as an option, or like a recommended editing tool, not editing tool, but like, so they could just send you a video of like a section or something, and voice note, yeah, that's a good idea.
+
+**Katya Luscomb:** Yep, yep.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** I can jump back into the review tab, if there aren't any other questions about the calendar.
+
+**Katya Luscomb:** Yeah, I'm good.
+
+**Katya Luscomb:** Cool.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** I think we covered most of the pieces here.
+
+**Katya Luscomb:** There's a few statuses that aren't visible, just because articles aren't actually presenting in that status right now.
+
+**Katya Luscomb:** But I believe there's another one that is like growthx revisions applied, just so that there's clarity as far as if it's already been through an initial review with you guys, and then it's ready for that final polish.
+
+**Katya Luscomb:** Pushed publishing so that we can avoid going back and forth constantly with articles, too.
+
+**Katya Luscomb:** Perfect.
+
+**Katya Luscomb:** And then the last tab, very self-explanatory.
+
+**Katya Luscomb:** I just put a sample in here so you actually see something.
+
+**Katya Luscomb:** But this is just going to show an overview of the content as we publish it on a running basis so that we have a good at-a-glance perspective.
+
+**Katya Luscomb:** Similar, you can hop in here and see all of this content as well.
+
+**Katya Luscomb:** One thing with the publishing cadence, if you guys are going to be doing the publishing so that it's really easy for us to update Looker and we have accurate data consistently, it would be helpful for you all to update this article approval to publish.
+
+**Kyle Gaudreau:** And then I can make sure all the data in our backend is updated.
+
+**Kyle Gaudreau:** essentially what we do is we reference the status in here that pulls into the pages we've created into Looker, so then we can look at of the pages we created for you, what's the traffic?
+
+**Justin Luebke:** Mm-hmm.
+
+**Justin Luebke:** Oh, we'll have access to that, right?
+
+**Kyle Gaudreau:** Oh, yeah, yeah, of course.
+
+**Kyle Gaudreau:** Yeah, we'll build all that as we get to, like, having some of the content live and things of that nature.
+
+**Justin Luebke:** So, yeah, totally.
+
+**Justin Luebke:** You'll have access to the LookerDash and all that.
+
+**Katya Luscomb:** Cool.
+
+**Katya Luscomb:** Just one last final note.
+
+**Katya Luscomb:** If you're ever worried about editing something that might break, you can't.
+
+**Justin Luebke:** set permission, so anything you can edit is good for you to change.
+
+**Katya Luscomb:** So don't panic about any of that as well.
+
+**Justin Luebke:** Cool.
+
+**Kyle Gaudreau:** Appreciate the walkthrough.
+
+**Kyle Gaudreau:** Yeah, no worries.
+
+**Kyle Gaudreau:** All right.
+
+**Kyle Gaudreau:** So just jumping into the wireframes with the remaining time we have.
+
+**Kyle Gaudreau:** So for this brief, I kept a lot of what you had in your previous brief.
+
+**Justin Luebke:** I do want to do another double check just to make sure there's nothing I'm missing.
+
+**Kyle Gaudreau:** I had a killer migraine yesterday that threw off my day a little bit.
+
+**Kyle Gaudreau:** But I think most of the key details are there.
+
+**Kyle Gaudreau:** What I also do...
+
+**Kyle Gaudreau:** So was try to call out some of the key changes we're proposing from your initial brief.
+
+**Kyle Gaudreau:** So, for example, you had a call out, and I think this is a debatable point, but how you were handling categories, you had it, actually, I don't know if this is the right way of writing it, but you had it basically where it wouldn't, I would propose that you have slash categories.
+
+**Kyle Gaudreau:** sitting in that URL structure, I realize that pushes it a folder down, but at the same time, I do feel like it makes it a lot easier to kind of, like, filter and look at your data later on.
+
+**Kyle Gaudreau:** Now, this wouldn't be applied at the article level, but I just typically find, like, it makes it easier to look at the data in analytics.
+
+**Justin Luebke:** I wouldn't say that's, like, a must-have in any way, but just propose that as a piece of it.
+
+**Justin Luebke:** I'll talk to Chris about that one.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Like, honestly, like, it's one of those things, like,
+
+**Kyle Gaudreau:** Like, it's some degree of preference and also probably consistency of how you all typically would operate across your website.
+
+**Kyle Gaudreau:** So, you know, I think you can go either way with that easily.
+
+**Kyle Gaudreau:** The callout about Infinite Scroll, I was curious of just, like, your thoughts on that.
+
+**Kyle Gaudreau:** Generally, I've operated under the mindset that pagination is better for SEO.
+
+**Kyle Gaudreau:** But, you know, I don't, you know, it's not one I'm, like, it's, like, a must-have as well.
+
+**Kyle Gaudreau:** It's just generally what I've seen in terms of, like, you know, Google's ability to load things, et cetera.
+
+**Justin Luebke:** so.
+
+**Justin Luebke:** Yeah.
+
+**Justin Luebke:** So the pagination versus Infinite Scroll was a debate on the consumer blog side, actually.
+
+**Justin Luebke:** And landed on, wait, pagination.
+
+**Justin Luebke:** Nope.
+
+**Justin Luebke:** Sorry.
+
+**Kyle Gaudreau:** Infinite Scroll rather than pagination.
+
+**Justin Luebke:** Just due to, like, URL structures.
+
+**Justin Luebke:** And there are a few reasons that I am blanking on right now.
+
+**Kyle Gaudreau:** But.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** I think Infinite Scrolls is going to be the mirror.
+
+**Kyle Gaudreau:** Okay, cool.
+
+**Kyle Gaudreau:** Yeah, that's totally fine.
+
+**Kyle Gaudreau:** I don't think that one's a huge deal, but just generally what we would move towards.
+
+**Kyle Gaudreau:** Generally, the other things here are pretty small.
+
+**Kyle Gaudreau:** Going into the actual wireframe, I actually have it open here.
+
+**Kyle Gaudreau:** Let me go back to home.
+
+**Kyle Gaudreau:** So, again, this is meant to be a wireframe.
+
+**Kyle Gaudreau:** This isn't supposed to be designed elements, just caveating that.
+
+**Kyle Gaudreau:** Again, drawing inspiration from that Mixpanel layout that we've shared in the past.
+
+**Kyle Gaudreau:** If I'm kind of like weighing some pros and cons of this structure, I like this from like a visual standpoint and a usability standpoint.
+
+**Kyle Gaudreau:** It could have some challenges of scalability depending on how many topics we add in the future.
+
+**Kyle Gaudreau:** This layout of topics.
+
+**Kyle Gaudreau:** If we go and look at like how a Mixpanel is.
+
+**Kyle Gaudreau:** It's done this, like, there's ability to do, like, sub tags, like, there is ability to create some structure underneath this that provides some more, it's just that's overkill for where you're at now and content at the moment.
+
+**Kyle Gaudreau:** So to me, like, that's a feature enhancement down the road.
+
+**Kyle Gaudreau:** I agree.
+
+**Kyle Gaudreau:** This is all interactive.
+
+**Kyle Gaudreau:** It will go down to, if you click these, this will go down to the category level.
+
+**Kyle Gaudreau:** As mentioned, you mentioned this would, you know, have a, you know, room for some text here.
+
+**Kyle Gaudreau:** We're largely copying the blog home page.
+
+**Kyle Gaudreau:** The difference here is we remove the featured article.
+
+**Kyle Gaudreau:** I think it's a fair argument to say, like, keep it.
+
+**Kyle Gaudreau:** I know you built that as such in your brief.
+
+**Kyle Gaudreau:** My logic was just, like, that, you know, it adds just some overhead to setting up each one of these.
+
+**Justin Luebke:** And, like, most people aren't actually going to see this.
+
+**Kyle Gaudreau:** And this is more for SEO purposes more than anything.
+
+**Kyle Gaudreau:** So I just leaned a little bit more towards, like, what's
+
+**Kyle Gaudreau:** It's the most simple scalable solution, and so that was the, it's again one of those things like if you all said we really want it, I wouldn't see that as a huge deal.
+
+**Justin Luebke:** I will take that one to the team.
+
+**Justin Luebke:** We also have some things that we're going to need to add into like the cards, but I don't think that is any design element that you would need to add in there.
+
+**Kyle Gaudreau:** I think that's an art team thing.
+
+**Kyle Gaudreau:** Okay, sounds good.
+
+**Kyle Gaudreau:** This also goes down to the article level.
+
+**Kyle Gaudreau:** I know you mentioned that you already had some things in motion, but I just want to have that here just in case.
+
+**Kyle Gaudreau:** I initially put this table of contents here.
+
+**Kyle Gaudreau:** Like, I think I actually probably prefer it more on the side and how you were kind of showing it.
+
+**Kyle Gaudreau:** And I'm trying to think, I think Corsair does something similar where it's on like the left persistently.
+
+**Kyle Gaudreau:** I think that's like, at the same time, I kind of like how they will do it at times where they have like a bit of like, you know,
+
+**Kyle Gaudreau:** And then, like, they form that in different ways.
+
+**Justin Luebke:** just sent a link to our new blog template.
+
+**Kyle Gaudreau:** Oh, you did?
+
+**Kyle Gaudreau:** Let me...
+
+**Justin Luebke:** Cool.
+
+**Justin Luebke:** We're working on site speed, I promise.
+
+**Kyle Gaudreau:** It was loading faster for me yesterday.
+
+**Kyle Gaudreau:** little bit, yeah.
+
+**Kyle Gaudreau:** Like, randomness.
+
+**Justin Luebke:** Okay, yeah.
+
+**Justin Luebke:** I think this is what we're working with on a pretty, like, permanent basis.
+
+**Kyle Gaudreau:** We may add a content summary, though, at the top.
+
+**Kyle Gaudreau:** Yeah, I'd say, like, this is good if we can, but it's not the biggest deal now.
+
+**Justin Luebke:** Like, elements that would be helpful, midline CTAs, billiard tables.
+
+**Kyle Gaudreau:** Yeah, that's how that works.
+
+**Kyle Gaudreau:** you know, CTAs at the bottom, but for EAT, and then also, ideally...
+
+**Kyle Gaudreau:** I saw this was in your brief as well, just having some sort of tile logic at the bottom, just for internal links, and we could play around with cluster-based things.
+
+**Kyle Gaudreau:** The one change I put into the brief was you had built-in standard logic, which I largely agree with.
+
+**Justin Luebke:** I think it would be just helpful to call out the ability to override this as needed, so we can apply whatever tile list we want at that point in time.
+
+**Kyle Gaudreau:** Breadcrumb, of course, here.
+
+**Kyle Gaudreau:** Does the current have a breadcrumb?
+
+**Justin Luebke:** No, it will.
+
+**Kyle Gaudreau:** Oh, wait, yes, it does.
+
+**Justin Luebke:** It will.
+
+**Kyle Gaudreau:** Oh, no, that's not those sorts topics.
+
+**Justin Luebke:** Yeah, breadcrumbs were in the original brief.
+
+**Justin Luebke:** There's like a V1 and a V2.
+
+**Justin Luebke:** V2 is going to be like a lot of the stuff you're mentioning now.
+
+**Kyle Gaudreau:** So let us know if anything seems notably off here.
+
+**Kyle Gaudreau:** Again, this is built on pagination.
+
+**Kyle Gaudreau:** We could always make this infinite scroll, but...
+
+**Kyle Gaudreau:** Yeah, like, part of the logic of this sort of blog homepages are kind of bland.
+
+**Kyle Gaudreau:** There's an argument to be made of the left nav and this and that, but I think this is a pretty good, like, user experience.
+
+**Justin Luebke:** But I think there's a valid argument to be made for, like, moving this into a left nav.
+
+**Kyle Gaudreau:** It's just, like, not overcomplicating.
+
+**Justin Luebke:** At the end of the day, vast majority of people are hitting the articles first.
+
+**Justin Luebke:** For sure.
+
+**Justin Luebke:** I agree.
+
+**Justin Luebke:** I will, I have a meeting with Krista here in a little bit, but I will run this by her as a top priority so we can bring in dev and design, like, a meeting.
+
+**Kyle Gaudreau:** Yeah, and to that piece, I had that as an action item here.
+
+**Kyle Gaudreau:** Just the assumption based off what we talked about earlier, it sounds like the action would be scheduling time.
+
+**Kyle Gaudreau:** And we're happy to meet with them and walk them through or however you want to I'll actually ask them.
+
+**Justin Luebke:** I have Tuesday calls with all of them.
+
+**Justin Luebke:** So I will ask them next Tuesday.
+
+**Kyle Gaudreau:** And we did get approved officially for our dev team to do the work and not outsource the work.
+
+**Kyle Gaudreau:** Awesome.
+
+**Kyle Gaudreau:** One other thing, by the way, before we wrap on this, we talked about this before the pause.
+
+**Kyle Gaudreau:** I just want to make sure we're still on the same page.
+
+**Kyle Gaudreau:** Not sure what the timelines would be to create the new blog.
+
+**Kyle Gaudreau:** So I'm of the assumption that as a blog, are we aligned on that?
+
+**Kyle Gaudreau:** As opposed to what?
+
+**Kyle Gaudreau:** As opposed to waiting for the new migration.
+
+**Justin Luebke:** Okay.
+
+**Justin Luebke:** Yeah, I, yes, with a caveat that I need to sort that out because that is like a big...
+
+**Justin Luebke:** There's a big spot for like Legion for the content team.
+
+**Justin Luebke:** So I am worried that all of our blogs are going to start pushing down high performing content.
+
+**Justin Luebke:** So I'm wondering if like maybe if you click on resources, it shows everything about the blog and then you can check articles.
+
+**Justin Luebke:** But if you go to blog, it is only articles.
+
+**Justin Luebke:** I think that will be an easy ask for dev.
+
+**Justin Luebke:** But I really want to be sure that I'm not messing with my back position team stuff.
+
+**Justin Luebke:** Krista.
+
+**Kyle Gaudreau:** It's a very 80s look.
+
+**Kyle Gaudreau:** It is.
+
+**Kyle Gaudreau:** The color scheme and everything, like the pose.
+
+**Kyle Gaudreau:** that's great.
+
+**Kyle Gaudreau:** Yeah, think that makes sense.
+
+**Kyle Gaudreau:** You know, anything we can do to get content live is ideal.
+
+**Kyle Gaudreau:** By the way, one thing I didn't call out is...
+
+**Kyle Gaudreau:** And the brief, let us know if you were thinking something different, but was operating under the assumption that this would still live here in the nav as it does now?
+
+**Kyle Gaudreau:** It's just that, you know.
+
+**Justin Luebke:** Exactly, exactly that.
+
+**Justin Luebke:** I think as it builds traction, we, I would love to move it towards the top, not towards the top, in the nav by itself.
+
+**Justin Luebke:** So that is something that will come up.
+
+**Justin Luebke:** There might be some sort of website redesign in the coming year or so, so that's going to be something that I'm probably going to be fighting for.
+
+**Justin Luebke:** So, yes, for now, it'll live exactly where it's at.
+
+**Kyle Gaudreau:** Yeah, I do feel like you all would benefit from probably a bit of a refresh on, like, the, yeah, I can always share some more thoughts around this.
+
+**Kyle Gaudreau:** I've spent a lot of time building websites, so if I can ever be helpful, you know, just let me know.
+
+**Kyle Gaudreau:** For sure, yeah, I'll let you know when that's coming up, so.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** All right, cool.
+
+**Kyle Gaudreau:** Anything else top of mind for you that we didn't cover?
+
+**Kyle Gaudreau:** You know, we still got some work to do on articles.
+
+**Kyle Gaudreau:** We'll make sure you get those in your team's hands ASAP.
+
+**Kyle Gaudreau:** Pull us in as needed on the wireframe side and image side.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** If have anything else major pending to just help keep us moving.
+
+**Justin Luebke:** Yeah, I can't think of anything.
+
+**Justin Luebke:** Content calendar looks amazing.
+
+**Justin Luebke:** I think the process will be good.
+
+**Justin Luebke:** I will talk to Jay about what his process is going to be and make sure he's ready.
+
+**Justin Luebke:** I will talk to Krista about the wireframe, make sure that is good.
+
+**Justin Luebke:** I will check with IT about the GA4 and see what's going on there.
+
+**Justin Luebke:** I tried to push that through as fast as possible and the IT is right behind the office where I sit, so I am bugging them about it.
+
+**Justin Luebke:** Cool.
+
+**Justin Luebke:** Yeah, trying to go.
+
+**Kyle Gaudreau:** Yeah, no, appreciate it.
+
+**Kyle Gaudreau:** I mean, right now it's not blocking us as we start to publish and we want to see, you know, how things are working.
+
+**Kyle Gaudreau:** That, of course, would be helpful, but we have a little bit of time.
+
+**Justin Luebke:** Cool.
+
+**Justin Luebke:** Yeah, other than that, I'm good to go on everything.
+
+**Kyle Gaudreau:** Awesome.
+
+**Kyle Gaudreau:** Well, so excited to get things going again.
+
+**Kyle Gaudreau:** Got a lot to do, but excited to see how all this does.
+
+**Justin Luebke:** Awesome.
+
+**Justin Luebke:** Yep, same.
+
+**Kyle Gaudreau:** I appreciate you guys.
+
+**Kyle Gaudreau:** All right, likewise.
+
+**Justin Luebke:** See you, Justin.
+
+**Justin Luebke:** happy health.
+
+**Katya Luscomb:** Later.
+
+**Katya Luscomb:** Bye.

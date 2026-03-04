@@ -1,0 +1,66 @@
+# PageSpeed / Lighthouse Audit: just-checking-in-email-alternatives
+
+URL: https://flodesk.com/blog/just-checking-in-email-alternatives/
+Date: February 28, 2026
+Tool: Lighthouse 12.8.2 (mobile)
+
+## Scores
+
+- Performance: 57/100
+- Accessibility: 80/100
+- Best Practices: 57/100
+- SEO: 100/100
+
+## Core Web Vitals
+
+| Metric | Value | Score |
+|--------|-------|-------|
+| First Contentful Paint | 4.2 s | 20 |
+| Largest Contentful Paint | 9.3 s | 1 |
+| Total Blocking Time | 240 ms | 86 |
+| Cumulative Layout Shift | 0.023 | 100 |
+| Speed Index | 6.4 s | 40 |
+| Time to Interactive | 15.5 s | 7 |
+
+## Failed Audits (score = 0)
+
+- **Browser errors were logged to the console**
+- **Uses deprecated APIs**
+- **Uses third-party cookies**
+- **Minimize main-thread work**
+- **Preconnect to required origins**
+- **Largest Contentful Paint element**
+- **Missing source maps for large first-party JavaScript**
+- **Buttons do not have an accessible name**
+- **Background and foreground colors do not have a sufficient contrast ratio.**
+- **Links do not have a discernible name**
+- **Touch targets do not have sufficient size or spacing.**
+- **Defer offscreen images**
+- **Eliminate render-blocking resources**
+- **Reduce unused CSS**
+- **Reduce unused JavaScript**
+- **Serve images in next-gen formats**
+- **Efficiently encode images**
+- **Properly size images**
+- **Avoid serving legacy JavaScript to modern browsers**
+- **Issues were logged in the `Issues` panel in Chrome Devtools**
+- **Use efficient cache lifetimes**
+- **Font display**
+- **Improve image delivery**
+- **Legacy JavaScript**
+- **Network dependency tree**
+- **Render blocking requests**
+
+## Warnings (0 < score < 1)
+
+- First Contentful Paint (20) — 4.2 s
+- Largest Contentful Paint (1) — 9.3 s
+- Speed Index (40) — 6.4 s
+- Total Blocking Time (86) — 240 ms
+- Max Potential First Input Delay (77) — 170 ms
+- Time to Interactive (7) — 15.5 s
+- Serve static assets with an efficient cache policy (50) — 17 resources found
+
+## Passed Audits
+
+84 audits passed.

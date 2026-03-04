@@ -1,0 +1,1046 @@
+# Ramp Renewal Plan
+
+<metadata>
+date: 2025-10-21
+time: 21:46 UTC
+duration: 39 minutes
+organizer: Tyler Pavlas (GrowthX)
+participants: Marcel Santilli (GrowthX), Mara Leighton (GrowthX), Andi Bailey (GrowthX), Tyler Pavlas (GrowthX)
+fathom_recording_id: 95807101
+fathom_url: https://fathom.video/calls/449104660
+share_url: https://fathom.video/share/ZXsrByHp_D3pbxsaxNzb7ur-G8ATqgrz
+source: fathom
+enriched_on: 2026-03-02 14:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX leadership aligned on a renewal strategy for Ramp, a critical $1M+ customer at risk of churn due to competitive pressure from AirOps and leadership transitions. The team committed to a flat $9k/month annual contract (non-negotiable, no opt-out clause) with flexible scope covering both the Cash Flow Desk project and Ramp.com maintenance work—deliberately designed to prevent AirOps from poaching the relationship. Marcel will personally escalate to George (the budget holder) if Victoria resists the annual term, and the deal must close by end of week before a new stakeholder joins Ramp's team.
+
+---
+
+## Context
+
+Ramp is one of GrowthX's longest-standing and most publicly visible customers—a unicorn fintech company with $1B+ ARR that has been with GrowthX for 14 months and generated roughly 900+ published vendor pages. Marcel frequently uses Ramp as a case study with investors and on the company website. The relationship has been productive: Victoria (main stakeholder) and Matt have been enthusiastic partners, and the vendor pages project delivered measurable results—Ramp even hired a data scientist specifically to optimize the pages GrowthX produced. However, the account is now at critical renewal risk. Luke, who served as a strategic champion and gave visibility above Victoria's level, recently departed, creating a leadership vacuum. Simultaneously, Ramp's internal priorities have shifted toward AI/AEO (unclear to the GrowthX team), and they've paused the high-performing vendor pages work in favor of a new, experimental "Cash Flow Desk" initiative. Victoria appears to be siloed and lacks visibility into broader strategic decisions, and Ramp has begun piloting AirOps (a competitor) for similar work. The current contract expires November 14 and operates on 3-month cycles with a "cancel anytime" clause—an immediate renewal risk. A new stakeholder is joining Ramp's team this week or next, which compounds urgency.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Ramp's silence on vendor page strategy (likely using AirOps instead) signals a need to rebuild the relationship and demonstrate superior execution. Custom workflows and direct involvement can reduce reliance on competitors.
+- The Cash Flow Desk project is experimental with uncertain ROI; flexible scope in the contract allows GrowthX to pivot to core Ramp.com work if it fails.
+- Current 25 articles/week delivery for Ramp.com demonstrates scale; renewal should lock in both the Cash Flow Desk (10/week target) and Ramp.com work (5-10/week) within flat $9k/month pricing.
+
+**To GrowthX Business Development:**
+- Ramp is a logo risk at Series B: losing them to AirOps is a narrative problem with investors (Marcel mentioned this is "really effing bad"). Renewal must happen before Series B fundraising.
+- Account renewal deadline is November 14; new stakeholder arriving this week/next creates a 7-10 day window to lock in the deal before priorities shift.
+- Escalation path identified: if Victoria resists annual term with no opt-out, Marcel will directly contact George (budget holder) to close the deal. Marcel has prior relationship with Ramp's CTO (who is an investor) and former CMO offer from CEO Eric.
+- Post-renewal upsell opportunity: once Cash Flow Desk stabilizes, Ramp may expand to platform-based services (CheckThat, AI workflows) now that George is aware of GrowthX's scope.
+
+---
+
+## Overview
+
+- **Strategic Imperative:** Retain Ramp's `.com` work at all costs. Losing it to competitor AirOps is an unacceptable investor narrative risk, not a financial one.
+- **Renewal Offer:** Propose a flat $9k/mo annual contract. This price is non-negotiable as it matches Ramp's stated budget, but the term must be annual with no opt-out.
+- **Scope & Urgency:** The scope must be flexible to include both the new Cash Flow Desk project and the existing `.com` work. The deal must be closed by EOW before a new stakeholder joins.
+- **Escalation Plan:** If Victoria resists the annual term, Marcel will personally escalate to George, Ramp's budget holder, to secure the renewal.
+
+---
+
+## Key Topics
+
+### Ramp Account Status & Risk
+
+  - **Project Shift:** Ramp paused the high-performing vendor pages project, shifting focus to a new "Cash Flow Desk" initiative.
+  - **Competitive Threat:** The internal team (Victoria, Matt) is siloed and lacks strategic visibility. The shift is suspected to be a move to competitor AirOps, which Ramp has used before.
+  - **Leadership Vacuum:** The recent departure of Luke (Victoria's manager) has created a leadership vacuum, leaving the team without a strategic champion. A new hire is expected soon.
+  - **Renewal Deadline:** The current contract expires Nov 14. Its 3-month cycles with a "cancel anytime" clause are a major risk.
+
+### Renewal Negotiation & Counter-Offer
+
+  - **Initial Proposal:**
+      - Cash Flow Desk only: $18k setup + $9k/mo
+      - Both projects: $18k/mo
+  - **Ramp's Counter-Offer:**
+      - Cash Flow Desk only: $18k setup + $9k/mo
+      - Scope: 10 articles/week (up from our 5/week quote)
+      - Term: Annual contract with a 30-day opt-out clause
+  - **Analysis:** Ramp's counter-offer confirms a $9k/mo budget and a desire for an opt-out due to the project's experimental nature.
+
+### Strategic Directive & Final Offer
+
+  - **Primary Goal:** Retain the Ramp logo and `.com` work. The financial terms are secondary to the strategic value.
+  - **Final Offer:**
+      - **Price:** Flat $9k/mo. This matches Ramp's stated budget and avoids a difficult price increase negotiation.
+      - **Term:** Annual contract with **no opt-out clause**. This is non-negotiable, as an opt-out defeats the purpose of an annual commitment.
+      - **Scope:** Flexible to include both the Cash Flow Desk and `.com` work. This provides Ramp with a low-risk option to continue high-value work if the new project falters.
+      - **Rationale:** Ramp is a 14-month client with a proven track record. The risk is minimal, and an opt-out is unnecessary.
+
+---
+
+## Action Items
+
+**Mara Leighton (GrowthX)**
+- Email Victoria re: AirOps use on vendor pages (clarify if they're using AirOps and understand their current workflow)
+- Present renewal proposal to Victoria by end of week: annual contract, no opt-out clause, flexible scope with 10/wk Cash Flow Desk + 5–10/wk Ramp.com
+
+**Tyler Pavlas (GrowthX)**
+- Draft renewal proposal for Victoria: annual, no opt-out, flexible scope, 10/wk CFD + 5–10/wk ramp.com; coordinate with Mara to send
+- Prepare to escalate to George (budget holder) if Victoria resists the annual term or no opt-out clause
+
+---
+
+## Transcript
+**Tyler Pavlas:** Good to see you.
+
+**Tyler Pavlas:** This meeting is being recorded.
+
+**Tyler Pavlas:** Spending a lot of time together.
+
+**Mara Leighton:** You and me.
+
+**Mara Leighton:** I'm excited for this to be wrapped up.
+
+**Mara Leighton:** I love working with you, but I also feel like it'll feel really good to have it be all tidied up and done.
+
+**Mara Leighton:** I'm sure for you as well.
+
+**Tyler Pavlas:** Totally, totally.
+
+**Tyler Pavlas:** And I'm glad that we're getting Marcel involved just because I know that he's the person, right, that we need to tell us, do we want to go through with the new domain?
+
+**Tyler Pavlas:** Do we want to try to salvage the old work?
+
+**Tyler Pavlas:** So hopefully this is, like, a good way to just get the direction that we need to finish this up.
+
+**Mara Leighton:** Totally, yeah.
+
+**Mara Leighton:** How's your day?
+
+**Tyler Pavlas:** It's been okay.
+
+**Mara Leighton:** How about your day?
+
+**Mara Leighton:** It's been good.
+
+**Mara Leighton:** It's been like a whirlwind, you know, where you have, like, I mean, it's always kind of that way, but you know when you have particular days where you leave and you're just like, what happened?
+
+**Mara Leighton:** Like, was such a whirlwind and so much, like, context switching.
+
+**Mara Leighton:** Today's one of those.
+
+**Mara Leighton:** I feel like I'm, my brain is mush, but.
+
+**Tyler Pavlas:** Oh my God, I feel you.
+
+**Tyler Pavlas:** I feel you there.
+
+**Tyler Pavlas:** Before Marcel jumps in, you shared a lot of context on like why they don't want to continue the ramp.com work.
+
+**Tyler Pavlas:** That's in the internal channel, right?
+
+**Tyler Pavlas:** I just want to like have my ducks in a row for this.
+
+**Mara Leighton:** Totally.
+
+**Mara Leighton:** Okay, cool.
+
+**Mara Leighton:** That is in the internal channel and it's one of our like older accounts.
+
+**Mara Leighton:** So I figure like a lot, some of this like precedes me, not most of the context that I shared, but like I figure it's just helpful to have it all in one place or I find that helpful.
+
+**Mara Leighton:** And, but the TLDR is just, I think like right now there's a vacuum of direction.
+
+**Mara Leighton:** They maybe can't make the decisions in order to determine priority.
+
+**Mara Leighton:** So if we can, like, I think they would love to work with us in the future.
+
+**Mara Leighton:** I get the sense that they don't know what their needs are and that new hire hasn't.
+
+**Mara Leighton:** And I'm assuming that new hire will be a backfill for Luke, and they'll probably set the tone for that team's priorities.
+
+**Tyler Pavlas:** So anyway, that's my shorter summary.
+
+**Tyler Pavlas:** No problem.
+
+**Tyler Pavlas:** I think what we can do when Marcel jumps in is we can start with, like, why they don't want to continue the ramp.com work.
+
+**Tyler Pavlas:** So basically everything you put in that Slack message, because I don't think he's seen it and doesn't have the context.
+
+**Tyler Pavlas:** And then from there, I can tell him, like, what we initially proposed, what we landed on, what we were willing to do for a combined scope.
+
+**Tyler Pavlas:** And he can tell us what we want to try to go for and how we can get it accomplished, since we're not going to be able to do that with Victoria alone, right?
+
+**Tyler Pavlas:** Like, we would need to get a conversation set up with George.
+
+**Tyler Pavlas:** George, it seems like if we want to continue the ramp.com work, I don't think.
+
+**Tyler Pavlas:** She's going to be able to do it for us.
+
+**Mara Leighton:** I, yeah, I think if it's based on priority, like if George has more visibility into strategy that we can piggyback on, for sure.
+
+**Mara Leighton:** Otherwise, I think like they are strong champions for us.
+
+**Mara Leighton:** So if we, it's just like a chicken or the egg thing.
+
+**Mara Leighton:** But I do think they can get something across the line for us if we should have a better sense of what their priorities are.
+
+**Mara Leighton:** Handy.
+
+**Tyler Pavlas:** For sure.
+
+**Andi Bailey:** Marcel was leaving a meeting.
+
+**Andi Bailey:** Cool.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** So.
+
+**Tyler Pavlas:** Sounds good.
+
+**Tyler Pavlas:** When he joins, like Mara is going to give him a quick recap of why they don't want to continue the ramp.com work.
+
+**Tyler Pavlas:** I'm going to go through what we presented to them, what we landed on, and what we were considering as a bundled package.
+
+**Tyler Pavlas:** And then we'll just get direction from Marcel on.
+
+**Tyler Pavlas:** How we want to execute.
+
+**Andi Bailey:** Yeah, I mean, I think the like high level of the proposal, he is approved.
+
+**Andi Bailey:** He's approving, but we'll talk about the rest of it.
+
+**Marcel Santilli:** How's it going?
+
+**Mara Leighton:** Doing well.
+
+**Marcel Santilli:** How about you?
+
+**Marcel Santilli:** Pretty good.
+
+**Marcel Santilli:** All right, let's jump in.
+
+**Marcel Santilli:** I think the, maybe a good, just like high level would be good to just kick us off, Mara, on like ramp and like kind of like, maybe like the last six months.
+
+**Marcel Santilli:** It just like been kind of piecing together from like the upsell conversation, but then like there's things on the like, then Luke left.
+
+**Marcel Santilli:** And then I think AirOps has been pretty aggressive about coming and trying to poach our customers, but then they've been a heavy customer of AirOps, then Profound hosted them in their own office and had, or sorry, ramp hosted Profound in their office and Profound had their conference in
+
+**Marcel Santilli:** And so it's like, clearly, like, ramp is the target, you know, and then, like, it sounds like they don't want to do more.com work for that with us.
+
+**Mara Leighton:** so I try to understand, like, yeah, how they got here.
+
+**Mara Leighton:** And then, like, about like, next steps.
+
+**Mara Leighton:** For sure.
+
+**Mara Leighton:** Apologies.
+
+**Mara Leighton:** Also, if I'm reading from notes, it's been a long day, and I want to make sure that I capture everything perfectly.
+
+**Mara Leighton:** But last six months, priority has been the vendor pages.
+
+**Mara Leighton:** Up until, like, last week, or the conversation that we had with Tyler regarding the cash flow desk, Victoria, who's been the main, like, stakeholder, main owner of that project, was enthusiastic, asked us to compile, like, sorry, the next batch of vendors.
+
+**Mara Leighton:** To execute on once Vivette came back from vacation, which lined up with the conversation regarding the cash flow desk, and then also Luke leaving.
+
+**Mara Leighton:** Simultaneously, it sounds like internal priorities are shifting more towards AEO.
+
+**Mara Leighton:** I think the team that we're working with is, like, decent.
+
+**Mara Leighton:** He's siloed and doesn't really have visibility into some of those bigger or like broader strategy decisions.
+
+**Mara Leighton:** So I think it took them by surprise, which is why we maybe didn't hear about it.
+
+**Mara Leighton:** Also, potentially with Luke gone, there's a little bit of a vacuum there as well.
+
+**Mara Leighton:** So everything kind of coincided at the same exact time.
+
+**Mara Leighton:** So we were learning about it while we were trying to have this conversation regarding an upsell that's more of an AEO play.
+
+**Mara Leighton:** And also just generally, RAMP to us seems very siloed.
+
+**Mara Leighton:** So everyone is really like has their little mini particularities that they own, and they tend to loop us in as execution for that.
+
+**Mara Leighton:** Or that's how it's been since I've joined the account.
+
+**Mara Leighton:** My read on what likely happened is this was decided above Victoria.
+
+**Mara Leighton:** And then with Luke gone, maybe he would have caught it and given or looped us in.
+
+**Mara Leighton:** But instead, it caught everyone by surprise.
+
+**Mara Leighton:** And then there's opportunities.
+
+**Mara Leighton:** Opportunity.
+
+**Mara Leighton:** Opportunity.
+
+**Mara Leighton:** Here would be, there's a new person coming to join the team.
+
+**Mara Leighton:** It's unclear to me if this is a backfill for Luke.
+
+**Mara Leighton:** I did ask Victoria, but she wasn't able to confirm.
+
+**Mara Leighton:** So I set the tone or I set the expectation that once that person joins, we'll have a conversation around what their main priorities are and have like a mini kickoff to see how we can support them.
+
+**Mara Leighton:** Just knowing that the vendor pages was our main priority.
+
+**Marcel Santilli:** Performance was really good.
+
+**Marcel Santilli:** They just hire a data scientist for, they told me for, for the vendors page, right?
+
+**Mara Leighton:** Yeah.
+
+**Marcel Santilli:** I remember someone mentioning it.
+
+**Marcel Santilli:** And, and so how would they stop doing that if they just hire someone for that specifically?
+
+**Mara Leighton:** Yeah.
+
+**Mara Leighton:** So that was my question.
+
+**Mara Leighton:** Victoria mentioned that in the conversation, I believe it was last week regarding the cashflow desk.
+
+**Mara Leighton:** So I followed up with her and just said, Hey, are you basically just like AB testing different ways to optimize these pages?
+
+**Mara Leighton:** And if that's so, if that's the case, should we read this as to I'm quick, you.
+
+**Mara Leighton:** As you're just trying to figure out the optimal way that you want to present this on site.
+
+**Mara Leighton:** And we might be looking at resuming work once you have a sense of what you want to scale.
+
+**Mara Leighton:** And she hasn't gotten back to me yet there.
+
+**Mara Leighton:** But that's one interpretation is they're just trying to figure out how they want to.
+
+**Marcel Santilli:** Victoria's like super junior, right?
+
+**Mara Leighton:** if she's the highest, like have you tried reaching out to George?
+
+**Mara Leighton:** I haven't tried reaching out to George.
+
+**Mara Leighton:** We did, Tyler also, can jump in if you would like, but we did discuss setting up a meeting with George.
+
+**Mara Leighton:** And I think Victoria and Matt's take was he doesn't have a free block of time over the next two weeks.
+
+**Mara Leighton:** And they really, I think we're a little bit protective also of the project.
+
+**Mara Leighton:** So I think we, so anyway, TLDR, we did.
+
+**Marcel Santilli:** So is the vendor's page getting canceled as a project or they're moving that work to someone else?
+
+**Mara Leighton:** It's not clear to me if they are just taking it, if they're taking it in-house and working.
+
+**Mara Leighton:** And I'm like A, B testing different formats, or I don't foresee them being done with it.
+
+**Mara Leighton:** But also we probably in a month or two would have tried to approach a different like content strategy, just knowing that there's a finite amount of vendors, but we haven't gotten to the end yet.
+
+**Mara Leighton:** Got it.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** In the meetings I've joined, it sounded like they found a way to be able to refresh the vendor pages without us. That's AirOps.
+
+**Tyler Pavlas:** Right, right.
+
+**Marcel Santilli:** Have you point blank asked, like, like, hey, are you using AirOps?
+
+**Mara Leighton:** Like, I have it, but I can't.
+
+**Marcel Santilli:** Ramp is like such an important logo.
+
+**Marcel Santilli:** And it's like the fact that now like AirOps earn all of the dot com work away from us.
+
+**Marcel Santilli:** It's like really effing bad.
+
+**Marcel Santilli:** Like, like there, we use this with every VC, we used it on our website, like we bragged about it, like, the CTO is an investor, like, it's like, it's not good, right?
+
+**Marcel Santilli:** Like, like that over time, we kept like, Like.
+
+**Marcel Santilli:** Losing little bits by bits, and it's like, yeah, you're just bringing in a house.
+
+**Marcel Santilli:** Like, really, what they mean by that is, like, they're just using AirOps, and, you know, and, yeah, like, it just, like, we've got to find a way to, like, not lose.com.
+
+**Marcel Santilli:** Like, I don't care about the money.
+
+**Marcel Santilli:** It's just, like, we can't, like, we've to be, like, hey, let me be, like, real with you.
+
+**Marcel Santilli:** Like, we will, like, for the amount of stuff we're doing, even, like, for  accounts, like, I would rather, like, for instance, Sandy, like, lose prophecy, and throw all our things at RAMP, and just be like, okay, cool.
+
+**Marcel Santilli:** Like, let's prove that we're better than AirOps, because we, like, like, they should not beat us at this.
+
+**Marcel Santilli:** And we should also, in parallel, just make Brax amazing, like, when they sign.
+
+**Mara Leighton:** I do think, one thing I'll say, I do think there is, like, we have a really strong relationship with Victoria and Matt.
+
+**Mara Leighton:** I think right now, my sense is that they just don't have a sense of what the internal priorities are.
+
+**Mara Leighton:** But I think they're given,
+
+**Mara Leighton:** Budget and relatively free reign to execute their priorities.
+
+**Mara Leighton:** So I think right now, they just don't know what to give us aside from the cash flow desk.
+
+**Mara Leighton:** So meaning, I think if we can create a compelling like bundle option where we're essentially like, hey, we still really want to be involved with ramp.com.
+
+**Mara Leighton:** My read is that the team loves working together.
+
+**Mara Leighton:** We make your lives a lot easier.
+
+**Mara Leighton:** We would love to continue that work.
+
+**Mara Leighton:** I like defer to you guys and how we structure it.
+
+**Mara Leighton:** But I do think they would love to continue using us.
+
+**Mara Leighton:** And I think it would be smart to write that into the contract.
+
+**Mara Leighton:** But I don't know what it would look like.
+
+**Mara Leighton:** But I do think like Victoria and Matt would go to bat for us.
+
+**Mara Leighton:** And I do think there's still an opportunity.
+
+**Marcel Santilli:** Yeah, I agree with that.
+
+**Marcel Santilli:** But like, what is the strategy that you think they should go execute?
+
+**Marcel Santilli:** Because like, if you're if it's not clear to you, there's no way they can pitch it internally, like their junior, you know, they're like, you know what I mean?
+
+**Marcel Santilli:** It's like, I think we, like, if that's not the...
+
+**Marcel Santilli:** And we need to, like, and you need help, like, we, we need to kind of set a strategy, like, essentially, like, they're not gonna, it's been 14 months, they, you know, it's like, they're one of our longest customers, especially now with home-based churning, they're, other than Strappy, they're technically, like, our, like, you know, longest customer, and definitely the most visible of the longest customers, and the ones we've done the most work for, and they've shown the most results.
+
+**Marcel Santilli:** over time, technically, like, you know, so it's kind of, like, one of those things of, like, like, if we put, I don't know, like, do you have clarity on, like, if they said, hey, we're gonna spend money on you, here's a bunch more money, help me grow, like, what is the dot, dot, dot, okay, we're gonna do this for you, then, you know?
+
+**Mara Leighton:** Yeah, I would say, like, I mean, first of all, let us, like, actually take some time and look into it.
+
+**Mara Leighton:** Thank
+
+**Mara Leighton:** But I think just initially our next play would have been refreshes and doing that in a more like concerted manner.
+
+**Mara Leighton:** But this did take us by surprise and we were planning on continuing vendor pages for them.
+
+**Mara Leighton:** So we'd need to like dig into it a little bit more.
+
+**Mara Leighton:** And I also think like they, this is like an aside, I think they will defer to the, whoever the next, like, whoever their boss is who comes in, whatever their priorities are.
+
+**Mara Leighton:** So it'd be nice to like play off of whatever that is, but that won't be for another like week or so.
+
+**Marcel Santilli:** Okay.
+
+**Tyler Pavlas:** I can give you a little background on like what we proposed and what we talked about price-wise and what they requested after talking to George.
+
+**Marcel Santilli:** If that helps.
+
+**Marcel Santilli:** What did they request after?
+
+**Tyler Pavlas:** So I had detailed conversation with Victoria around what our pricing structure is.
+
+**Tyler Pavlas:** And what kind of deal they were on with the legacy contract.
+
+**Tyler Pavlas:** Started off like price shopping them, basically, on the cash flow desk work.
+
+**Tyler Pavlas:** They gave us that feedback.
+
+**Tyler Pavlas:** We gave them a proposal where there was an option for just the cash flow desk, where it was 18K strategy sprint, 9K per month.
+
+**Tyler Pavlas:** And then the option was 12K per month for just the cash flow desk or 18K per month for both ramp.com and cash flow desk.
+
+**Tyler Pavlas:** And then they came back to us and said, here's how we're thinking.
+
+**Tyler Pavlas:** Fixed 18K for the setup phase, two months or less.
+
+**Tyler Pavlas:** Publishing phase, 9K per month.
+
+**Tyler Pavlas:** So they're asking to maintain what they spend with us on just the cash flow desk.
+
+**Tyler Pavlas:** And they're asking for 10 articles per week instead of five articles per week, which is what we quoted them.
+
+**Tyler Pavlas:** So it seems like they just have nine.
+
+**Tyler Pavlas:** A per month budget for us, and their priority is the cashflow desk over ramp.com, unless we can get a conversation set up with George to basically, you know, have the same conversation we had with Victoria, but instead of through a game of telephone directly to the budget holder.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Okay, so, so is it a one month 18K or two month 18K?
+
+**Tyler Pavlas:** It was going to be two months.
+
+**Marcel Santilli:** So 36,000, one time.
+
+**Tyler Pavlas:** 9K per month, so 18K total.
+
+**Marcel Santilli:** Wait, I'm confused.
+
+**Marcel Santilli:** 18K setup fee for two months?
+
+**Marcel Santilli:** that's 9,000 a month.
+
+**Marcel Santilli:** So that's just a flat 9K.
+
+**Andi Bailey:** No, I think it was 18K per month, Tyler.
+
+**Tyler Pavlas:** Wasn't that the understanding?
+
+**Tyler Pavlas:** We just talked about an 18K fixed fee for a two-month sprint to maintain what they were paying us today.
+
+**Marcel Santilli:** Okay, so this account went from an upsell to potentially churning and at best flat with losing the most critical part of the work and instead starting to work on experimentation that might not even work to begin with because it's a brand new domain with no authority.
+
+**Tyler Pavlas:** It started out as like the normal pricing.
+
+**Marcel Santilli:** Yeah, no, I understand.
+
+**Marcel Santilli:** I'm not frustrated at that because if they were, like they have money.
+
+**Marcel Santilli:** They have over a billion in ARR.
+
+**Marcel Santilli:** They have money.
+
+**Marcel Santilli:** It's not a  budget issue here.
+
+**Marcel Santilli:** There's not a budget issue.
+
+**Marcel Santilli:** They spend a little over like two million a month in ads.
+
+**Marcel Santilli:** Like they have money.
+
+**Marcel Santilli:** Like thousands of rounding error, right?
+
+**Marcel Santilli:** Like.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Um, it's, it's a, you don't see the value of our work.
+
+**Marcel Santilli:** It's not like they don't have money.
+
+**Marcel Santilli:** Like, um, and, okay.
+
+**Marcel Santilli:** Um, I think like, what would be helpful, Tyler is like, and, um, and for all of us, like, okay, if we can, um, um, if there's a way to, um, try to get them to like, Hey, um, do both.com and the new site and, and give them something and like, and vendor pages and like do something that's kind of like, kind of wild, but like for a small upsell.
+
+**Marcel Santilli:** And in 18 months, you know, like, or some some version of that, like, and essentially, like, 12k a month for 18 months, and, and just be like, we'll do both like programmatic and like, essentially do what we normally would do for 25k for like 12, 12k, just to like, literally, like, who cares?
+
+**Marcel Santilli:** It's just like to  with AirOps and not let AirOps win.
+
+**Marcel Santilli:** Like, it's kind of like, can we just earn more of the work?
+
+**Marcel Santilli:** I don't care about the money.
+
+**Marcel Santilli:** It's like at all, like, you know, it's just like, just saying that it's a slight increase is very positive, because for NRR.
+
+**Marcel Santilli:** And, and just because investors keep asking us, wait, you did 900 pages for them.
+
+**Marcel Santilli:** And they only pay 9000, and your other customers are paying 50.
+
+**Marcel Santilli:** Like, why is that?
+
+**Marcel Santilli:** Like, what's wrong with that?
+
+**Mara Leighton:** You know, like, and they just anecdotally, Victoria, Matt have both not batted an eye when we've mentioned adjusting the contract to be annual.
+
+**Mara Leighton:** I think the only reason that there's like right—they want a little bit of an opt-out.
+
+**Mara Leighton:** Is the experimental, to your point, of the cash flow desk?
+
+**Mara Leighton:** It might not work.
+
+**Mara Leighton:** So yeah, if we can bundle editorial and honestly maybe push it through before there's a new stakeholder, I think we couldn't get that longer contract.
+
+**Marcel Santilli:** Yeah, let's just do that.
+
+**Marcel Santilli:** Like as PZRO, give whatever we need to give Tyler and say, hey, we can do like 10 a week on the other site and 5 to 10 a week in like editorial on .com.
+
+**Marcel Santilli:** That can also be like the programmatic and, you know, like, and we're like, we value the relationship more than anything given like for him as an investor and, you know, like, and you all are some of our earliest, like, you know, like customers, you know, and.
+
+**Tyler Pavlas:** Do you feel like the best way to get it done is to set up a conversation between you and George?
+
+**Tyler Pavlas:** just feel like us talking to Victoria is like the issue here, you know, because we actually rolled out the pricing pretty well and helped her understand like what it should cost.
+
+**Tyler Pavlas:** And I mean, this is just proof that like, she just can't get anything done beyond 9K, basically.
+
+**Tyler Pavlas:** Like, like, unless we talk to George, like all these conversations are just going to fall short.
+
+**Tyler Pavlas:** And we're just going to get the bare minimum from them.
+
+**Tyler Pavlas:** Because we're not talking to a decision maker, we're talking to someone who like, wants to keep working with us, but it's only allowed to do it with the current price that they're paying.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** I mean, just like, who's going to sign the contract is George, right?
+
+**Tyler Pavlas:** Exactly.
+
+**Marcel Santilli:** Okay, I think, George, to catch up, like, when is the contract up?
+
+**Andi Bailey:** November 14th.
+
+**Marcel Santilli:** So the 30 days already passed, Or it does not have a 30-day notice?
+
+**Andi Bailey:** Ability to cancel any time.
+
+**Marcel Santilli:** Wait, even in the contract, they can cancel any time?
+
+**Andi Bailey:** Apparently, yeah.
+
+**Andi Bailey:** 30-day, three-month cycles with the ability to cancel any time.
+
+**Marcel Santilli:** Oh, they're in three-month cycle only?
+
+**Tyler Pavlas:** Yeah, just like an old contract.
+
+**Marcel Santilli:** Let's do that.
+
+**Marcel Santilli:** Let's keep it super flexible.
+
+**Marcel Santilli:** Let's just renew flat, like, do the 12 months, get the  signature, and then, like, I don't know, try to create FOMO with making our other customers super successful, making Brex wildly successful, and trying to close Navan, and making Navan successful.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** And I think the only thing that would get their attention is us bragging about work with Brex.
+
+**Tyler Pavlas:** I mean, would you prefer that we just maintain their existing costs and have this new scope?
+
+**Tyler Pavlas:** And they're going to need us on Ramp.com, given all the great work that we did and not having us...
+
+**Tyler Pavlas:** I mean, we're doing 25 articles per week.
+
+**Marcel Santilli:** AirOps is, like, doing whatever to be successful.
+
+**Marcel Santilli:** And they've already built the workflows, and they're building the workflows.
+
+**Marcel Santilli:** And because, like, for the last six months, they kept moving work in-house, aka to AirOps, like, we already lost the work.
+
+**Marcel Santilli:** And, like, if we were staging work and not asking, like, do we ever ask the work that we were staging and publishing where it was coming from?
+
+**Mara Leighton:** Meaning, like, where the data is coming from for the vendors?
+
+**Marcel Santilli:** No, but before, weren't we staging and hitting publishing on their behalf for content that they sent us?
+
+**Mara Leighton:** That might have preceded me.
+
+**Mara Leighton:** So I'm not confident on that.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Okay.
+
+**Tyler Pavlas:** I guess what's the benefit to us continuing to do ramp.com work if they already feel like they have a solution to do that on their own?
+
+**Tyler Pavlas:** Because it just creates more work for us, right?
+
+**Marcel Santilli:** It means that I have to go back to every investor when we do the Series B and tell them, you know, our most successful customer that I bragged about from the beginning of times?
+
+**Marcel Santilli:** Yeah.
+
+**Tyler Pavlas:** AirOps now owns them.
+
+**Marcel Santilli:** And Profound is only doing, and even though I claim that we were doing all the work for and all the content for them, I can no longer claim that.
+
+**Marcel Santilli:** And now we're doing this thing off to the site that's no longer working.
+
+**Tyler Pavlas:** We're still the people that created all those pages though, right?
+
+**Marcel Santilli:** Like even if they work with AirOps on ramp.
+
+**Marcel Santilli:** but like it's only as, I mean, we can still tell it to other customers, but like for investors, it's like a very bad story that your customer, that you're supposed to be successful.
+
+**Marcel Santilli:** Like the main question mark people have on our businesses.
+
+**Marcel Santilli:** Is this quality revenue?
+
+**Tyler Pavlas:** Is this sticky?
+
+**Marcel Santilli:** And over time, are people going to stick it in-house or not?
+
+**Marcel Santilli:** And so what everything here, I'm not concerned long-term with new customers, like platform, like any customers are on board, like I'm less concerned with that because like we'll have all their data, they'll be on the platform, there's a lot more like crawling their site all the time and things like that.
+
+**Marcel Santilli:** But if we don't have access to .com and we don't touch .com and you were not doing anything for .com, we can't even like, like we might not even have access to anything.
+
+**Marcel Santilli:** Like we can't lose access to their search console or like, we have access to their Google Analytics or anything?
+
+**Mara Leighton:** They typically prefer our Looker report, but we are hooked up to their Google search console.
+
+**Marcel Santilli:** So we're like, we're feeding all of that.
+
+**Marcel Santilli:** What about their Google Analytics or their analytics on the pages themselves?
+
+**Mara Leighton:** We typically just use the Looker.
+
+**Marcel Santilli:** But Looker doesn't have like conversion data or page visits beyond clicks, right?
+
+**Mara Leighton:** We just have like engaged sessions, but I don't, yeah.
+
+**Andi Bailey:** That's what all the lookers have.
+
+**Marcel Santilli:** I understand, but engaged sessions have to come from an analytics tool somewhere.
+
+**Mara Leighton:** I would imagine it's hooked up, but I didn't set it up.
+
+**Mara Leighton:** I'm not totally confident.
+
+**Tyler Pavlas:** My point is, like, Victoria would add the ramp.com scope if she could, and she wants to keep working with us, and the only path that she sees is the cash flow desk.
+
+**Tyler Pavlas:** So the only way for us to keep the ramp.com work going is to talk to the person that makes that call, which it sounds like is George, right?
+
+**Marcel Santilli:** Correct, and we'll do that.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah, we will do that, and we will do work for free if necessary, to keep saying that we're doing that.
+
+**Marcel Santilli:** like, and I'm trying to get time with George, and we've got to...
+
+**Marcel Santilli:** Figure out, like, Tyler and Andy, like, maybe there's something we can do.
+
+**Marcel Santilli:** I think he's in Portland.
+
+**Marcel Santilli:** I don't know what the  he's into.
+
+**Marcel Santilli:** Like, I don't know if we'd fly out, like, wine and dine, go to a  Michelin restaurant.
+
+**Marcel Santilli:** I don't know what he's into, but, like, build the relationship, like, essentially, you know.
+
+**Tyler Pavlas:** Samara, maybe we just need to be a little more, like, assertive about, like, number one, we can't do 9K per month on cash flow desk.
+
+**Tyler Pavlas:** 12K was the lowest that we were going to go there.
+
+**Tyler Pavlas:** But number two, we want to keep working on ramp.com.
+
+**Tyler Pavlas:** So if there is a way to continue that work with the cash flow desk, we could look at, you know, we could look at 15 or even 12K instead of 18K if we can have both work streams as part of the agreement.
+
+**Mara Leighton:** Yeah.
+
+**Mara Leighton:** And then the only question I would have also is just to set their expectations on quantity, whatever we're comfortable committing to, and then I can deliver that message.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** What are we?
+
+**Tyler Pavlas:** Comfortable committing to for $12,000?
+
+**Tyler Pavlas:** Is it $10,000 per week on CashflowDesk and $5,000 per week on Ramp.com?
+
+**Andi Bailey:** Yeah, mean, it sounds like that's what we should give them if Aerobs is throwing them everything for free.
+
+**Tyler Pavlas:** And we basically just say, like, we can't do CashflowDesk at $9,000 per month.
+
+**Tyler Pavlas:** And if you just want to do CashflowDesk, it's $12,000 per month.
+
+**Tyler Pavlas:** But if you want to do CashflowDesk and Ramp.com, we can do the exact same price, $12,000 per month.
+
+**Tyler Pavlas:** But we got to do both.
+
+**Mara Leighton:** Yeah, I defer to you guys.
+
+**Mara Leighton:** But I would imagine if we just assume, like, if we just throw in the Ramp.com work as a bonus, they're not going to ask us to take it out.
+
+**Mara Leighton:** So that might be a preferred path forward.
+
+**Mara Leighton:** And then I think also we could make, I would be interested, like, how we could, I know they wanted an opt-out, given that the CashflowDesk is more experimental.
+
+**Mara Leighton:** I would
+
+**Mara Leighton:** Wonder if there's a way for us to be more sort of about, like, the contract itself for the editorial needs to be an annual contract.
+
+**Mara Leighton:** We could dip it down to X cost if the cash flow desk doesn't bear out, but we do need to commit to an annual.
+
+**Mara Leighton:** Like, is there some way we can phrase it so that we still win in that way?
+
+**Marcel Santilli:** Yeah, there's no scenario here where there's an opt-out here that, like, that defeats the purpose of an annual contract.
+
+**Marcel Santilli:** Like, like, there's, like, no opt-out.
+
+**Marcel Santilli:** They've been working with us for 14 months.
+
+**Marcel Santilli:** We've  done a thousand pages.
+
+**Marcel Santilli:** Like, there's no, this is as deep a risk as possible.
+
+**Marcel Santilli:** Like, we're working with all the top brands on the planet.
+
+**Marcel Santilli:** Like, there's nothing here that is risk, right?
+
+**Marcel Santilli:** Like, it's not a new vendor that's completely ridiculous.
+
+**Marcel Santilli:** Like, we're our customer ramp.
+
+**Marcel Santilli:** Like, you know, like, like, you know.
+
+**Mara Leighton:** They also mentioned they hired the data scientists because the vendor pages were performing so well.
+
+**Mara Leighton:** So, like, they know that we perform high quality.
+
+**Marcel Santilli:** The goal here is renew annually, at least at 9K, there's no scenario here where ramp churns, folks, please, I don't give a  what we do, I don't care if you have to spend $90,000 to get George to be our fan, we cannot have ramp churn, period.
+
+**Marcel Santilli:** Like, that is really bad, like, that is really, really, really, really, really bad, like, I would keep ramp, maybe, outside of any other customer, like, ramp is the logo we talked about publicly the most, like, like, you know, it's like, really, really, really, really bad, throw whatever we need to throw at it, do whatever we need to do, like, like, in full transparency, Vivek's not going to be on this account anymore, like, we've got to move it and find a different way, because like,
+
+**Marcel Santilli:** All of this, like, we should have seen this coming for a long time and built the relationships further and, like, had more strategy, like, and approached this differently.
+
+**Marcel Santilli:** And the fact that, like, we did most of the work off Atlas, didn't have a lot to show for them, and kept them excited about the platform, now means, like, they're no longer excited about, you know.
+
+**Marcel Santilli:** I mean, Victoria likes the relationship, but it's like, they don't see a value in our platform at all, clearly, you know, because they think Aerox is better now, you know.
+
+**Marcel Santilli:** Like, so, the thing, like, let's just get, like, at least, like, a flat renewal, but annual without a knockdown, you know.
+
+**Marcel Santilli:** I don't even care about the 18 months, like, we'll prove ourselves out, like, with the platform.
+
+**Marcel Santilli:** The main thing is just, like, leaving it open to saying, like, hey, like, if you, just tell Victoria, like, we have a good relationship with Victoria, say, hey, Victoria, like, we, like, Ramp is, like, you guys are one of our biggest cases.
+
+**Marcel Santilli:** Studies, like, you know, in public about it.
+
+**Marcel Santilli:** And, like, I want to help you get promoted because of this.
+
+**Marcel Santilli:** Like, we're on your team.
+
+**Marcel Santilli:** Like, for us, it's less about the money.
+
+**Marcel Santilli:** It is, like, about us having confidence that you guys are not going to turn around and, like, you know, not use us.
+
+**Marcel Santilli:** And we're willing to be able to do, like, custom workflows and things like that in order for you to not need AirOps.
+
+**Marcel Santilli:** Our goal is to, like, be, like, in the next two months is, like, you don't need AirOps at all.
+
+**Marcel Santilli:** Like, you know, and, like, that is, like, what we need to get to, you know, and, like, and then commercially, Tyler is kind of, like, whatever, just make the scope flexible.
+
+**Marcel Santilli:** It's, like, we'll do this thing.
+
+**Marcel Santilli:** And then in parallel, Andy, I think what would be good for us to do with Ramp is just, like, let's just spin up the site and do it as a part of a strategy sprint.
+
+**Marcel Santilli:** But, like, regardless of Ramp, essentially, like, meaning let's just do with the site.
+
+**Marcel Santilli:** Like, I'll just fight.
+
+**Marcel Santilli:** I could decide myself and like, you know, like kind of like the tech blog that we're doing, like, and I think it could be a good way to just like, something for us to learn how to do it anyways.
+
+**Marcel Santilli:** And also, it's going to take a while for us to do it anyways, and build authority.
+
+**Marcel Santilli:** And, and I think it would be like a fun project to throw it at someone to like, like, essentially have Raze already build a site and have like everything ready, essentially, like, it's all scoped out.
+
+**Marcel Santilli:** It's very simple.
+
+**Marcel Santilli:** It's like a blog, like, you know, the tech blog we spun out in one day, like, you know, so I can help lead that and, and I'll just like, start being involved with, with Ramp moving forward.
+
+**Tyler Pavlas:** Only question is if they could opt out at any moment today, based on the current contract language, and it renews on three month increments, and their ask is like a 30 day opt out.
+
+**Tyler Pavlas:** And that's it.
+
+**Tyler Pavlas:** And the reason they're asking for that is because of like the novelty and experimental nature of the prop.
+
+**Tyler Pavlas:** No, but it's like a flexible scope.
+
+**Marcel Santilli:** Like, they can go to .com, like, we can do work on .com, we can do refresh, we can do work across any function, and as much work as they want.
+
+**Marcel Santilli:** Like, you want 10?
+
+**Marcel Santilli:** Fine.
+
+**Marcel Santilli:** 10 a week.
+
+**Marcel Santilli:** Like, but there's no scenario where, like, no opt-out, yeah.
+
+**Marcel Santilli:** There's no scenario where they turn, but also there's no scenario where, like, we're doing, like, this thing, you know, like, like, we're not giving them more and doing more and allowing them to be three to three months, you know.
+
+**Marcel Santilli:** Like, and, you know, just, like, yeah.
+
+**Tyler Pavlas:** Right, right.
+
+**Tyler Pavlas:** If it was only a 30-day opt-out, but there was a 12-month agreement after that, is that okay with you, or is that not okay at all?
+
+**Marcel Santilli:** Say that again?
+
+**Tyler Pavlas:** So, like, right now, they can cancel at any time.
+
+**Tyler Pavlas:** It renews in three-month increments.
+
+**Tyler Pavlas:** They're asking for a 30-day opt-out, but would sign an annual contract.
+
+**Tyler Pavlas:** You're saying, even though they'd sign an annual contract, no 30-day opt-out, yeah.
+
+**Marcel Santilli:** It was, like, that, that...
+
+**Marcel Santilli:** Like, three to three months with a 30-day opt-out versus annual with a 30-day opt-out is literally the same thing.
+
+**Marcel Santilli:** Like, it makes no difference whatsoever.
+
+**Marcel Santilli:** It achieves the same exact thing, and it doesn't hold them to anything.
+
+**Marcel Santilli:** It doesn't change anything, any commitments whatsoever on their end.
+
+**Tyler Pavlas:** Unless it was just the first 30 days, and that's it.
+
+**Tyler Pavlas:** Like, just the first month is the only time they could opt-out.
+
+**Tyler Pavlas:** The rest, they're stuck after that 30 days.
+
+**Marcel Santilli:** You've been working with us for 14 months.
+
+**Tyler Pavlas:** There's no opt-out period.
+
+**Tyler Pavlas:** Like, they know how we work.
+
+**Marcel Santilli:** We've done so much for them.
+
+**Marcel Santilli:** They've been a loss leader for them.
+
+**Marcel Santilli:** If they want to churn, they need give us notice right the  now if they're going to churn.
+
+**Marcel Santilli:** And that's really bad, and that shouldn't happen.
+
+**Marcel Santilli:** But we can do any work for them, and we can build custom workflows.
+
+**Marcel Santilli:** We're doing work for Lovable.
+
+**Marcel Santilli:** We're doing a template library for Lovable.
+
+**Marcel Santilli:** We can build calculators for them.
+
+**Marcel Santilli:** We can, like, refresh every  page on their site.
+
+**Marcel Santilli:** We can, like, whatever, right?
+
+**Marcel Santilli:** Like, they are a billion-a-year ARR company.
+
+**Marcel Santilli:** I know the CEO, and I know the CTO is an investor.
+
+**Marcel Santilli:** There's no scenario here.
+
+**Marcel Santilli:** Where they need a  30 days out at all.
+
+**Marcel Santilli:** Eric tried to hire me as a CMO of the company a while back.
+
+**Marcel Santilli:** There's no scenario here where it's like they were paying, gee, $2,500 an hour for his consulting and advisory.
+
+**Marcel Santilli:** That is four hours a month is what they're paying us essentially, right?
+
+**Marcel Santilli:** So it's like they hire me to go train their entire company to do AI enablement and training.
+
+**Marcel Santilli:** I've five sessions for their entire company on like how to build AI workflows and things like that, you know?
+
+**Marcel Santilli:** So it's like it's just we let the relationship like get to a point where they felt like it was just like, nah.
+
+**Marcel Santilli:** Like they're not seeing the value and we lost touch with the Riot stakeholder, you know?
+
+**Tyler Pavlas:** Okay, Mara, we've got to find a way to get Victoria on board with like what we need and make it clear that if we can't, you know, find a path forward, a conversation between Marcel and George has to happen.
+
+**Mara Leighton:** Sooner rather than later.
+
+**Marcel Santilli:** She's already committed to annual.
+
+**Marcel Santilli:** It's like the only negotiation point here is no 30-day opt-out.
+
+**Marcel Santilli:** There's no opt-out.
+
+**Marcel Santilli:** This is the annual.
+
+**Mara Leighton:** That's it.
+
+**Mara Leighton:** And I think if we...
+
+**Mara Leighton:** Okay.
+
+**Tyler Pavlas:** And getting the ramp.com work back in and ideally getting it from 9 to 12, right?
+
+**Tyler Pavlas:** Like, we got to do that too.
+
+**Marcel Santilli:** I don't care.
+
+**Marcel Santilli:** Just like sign the annual flat.
+
+**Marcel Santilli:** I don't care.
+
+**Marcel Santilli:** She has a budget for it.
+
+**Marcel Santilli:** Go to that.
+
+**Marcel Santilli:** Say, we've been working with for a while.
+
+**Marcel Santilli:** Like, there's no question on what we can deliver and what we can do.
+
+**Marcel Santilli:** We've done so much for you.
+
+**Marcel Santilli:** Like, and we should freaking summarize that and quantify what we've done for them.
+
+**Marcel Santilli:** Like, we have to do that as part of renewal process.
+
+**Marcel Santilli:** Like, if they're not understanding that, and George didn't even know what we were doing last time I talked to him, like, oh, I don't really know.
+
+**Marcel Santilli:** I'm really not that connected to the work.
+
+**Marcel Santilli:** Like, you know?
+
+**Marcel Santilli:** And then Luke got Ken.
+
+**Marcel Santilli:** And it's like, you know.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** And flexibility to do cashflowdesk or ramp.com.
+
+**Tyler Pavlas:** Like.
+
+**Tyler Pavlas:** That's why, that's even more reason why you don't need an opt-out.
+
+**Tyler Pavlas:** If you're not liking what's happening on Cashflow Desk, which you will, we can just continue to do the great work that we're doing today.
+
+**Tyler Pavlas:** Okay, okay.
+
+**Mara Leighton:** I think too, if we can just make it as like non, like as soft as possible in the sense of like, hey, we can't do the 30-day opt-out, but like really excited to keep working with you, capitalizing on all the work, like reminding them of the work that we've done.
+
+**Mara Leighton:** I would like make it as non much of an issue as possible because I don't think we'll get a ton of resistance from them unless we present it as a big deal.
+
+**Mara Leighton:** Like I don't, so pushback, but I think if we just like say, hey, we can't do this part, but yes, we can meet your other demands.
+
+**Mara Leighton:** I think they'll be excited about it.
+
+**Mara Leighton:** But if we phrase it, like, you know what I mean?
+
+**Tyler Pavlas:** Yeah, I'll draft a message today, Mara.
+
+**Tyler Pavlas:** And if you think it's better to come from you versus me, I can have you send the message, but I'll draft it.
+
+**Tyler Pavlas:** And then like, let's.
+
+**Tyler Pavlas:** Just get Victoria to thumbs up something that is in lines with what we're talking about here.
+
+**Tyler Pavlas:** And from there, we can get SoW working through and the SoW will be better than the current SoW that we have in terms of the terms.
+
+**Mara Leighton:** Yeah, sounds great.
+
+**Mara Leighton:** And yeah, I think they mentioned someone new is joining this week or next week.
+
+**Mara Leighton:** So if we can get it wrapped up by like end of week, I think that would probably be a good goal.
+
+**Tyler Pavlas:** Yes.
+
+**Marcel Santilli:** Okay.
+
+**Tyler Pavlas:** Thanks for the direction.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Mara, that's your P0, nothing more important.
+
+**Mara Leighton:** Yeah, totally.
+
+**Mara Leighton:** hear you.
+
+**Mara Leighton:** All right.
+
+**Mara Leighton:** Thanks, guys.
+
+**Mara Leighton:** Thank you.
+
+**Mara Leighton:** Thanks, everyone.-bye.-bye.-bye.
+
+**Mara Leighton:** Bye Bye Bye

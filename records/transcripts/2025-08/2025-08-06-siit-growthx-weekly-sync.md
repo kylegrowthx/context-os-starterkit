@@ -1,0 +1,1286 @@
+# Siit <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-08-06
+time: 13:02 UTC
+duration: 43 minutes
+organizer: jakub@growthxlabs.com
+participants: Jess Scott (GrowthX), Jakub Rudnik (GrowthX), Carmel Schetrit (Siit)
+fathom_recording_id: 78790709
+fathom_url: https://fathom.video/calls/371975076
+share_url: https://fathom.video/share/33zwahxyCn-LYBUV51vauFdFJgLyW4tf
+source: fathom
+enriched_on: 2025-03-03 02:05 UTC
+</metadata>
+
+---
+
+## Summary
+
+Siit and GrowthX reviewed blog performance (440 clicks in July, 190k keywords at all-time highs) and aligned on critical content improvements: scrapping the vague Workday migration article, fixing HR ticketing system information to properly position Siit, implementing FAQ sections on blog posts to improve LLM visibility, and leveraging Reddit as a content source for articles. The team identified traffic source mysteries (Reddit/LLMs on the "shadow IT prevention" post) and SERP feature drops requiring investigation, while establishing new content workflows for publication dates, read times, and FAQ standardization.
+
+---
+
+## Context
+
+Siit is a modern HR tech company focused on ticketing and workflow integration for HR teams. GrowthX is producing content marketing for their site, operating as the delivery team on an engagement to grow organic traffic and brand visibility. This is a weekly working-session sync between the GrowthX team (Jess Scott, Jakub Rudnik) and Carmel Schetrit from Siit. GrowthX has been running the content program for several months and has achieved solid baseline metrics (190k keywords, growing blog traffic), but the team needed to address quality issues in a few articles and establish better systems for metadata (publication dates, read times) and content standardization (FAQ sections for LLM visibility). Jakub is relatively new to the Siit account and is learning the product and site structure through this engagement.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Established need for stronger content governance (FAQ standardization, publication date/read time systems) and confirmed importance of product-led input on article positioning. Identified new content sourcing opportunity: leveraging Reddit discussions for topic ideation and direct article extraction (with proper attribution). Traffic anomalies (shadow IT prevention post, SERP feature drops) require investigation infrastructure (Snitcher data, analytics review).
+
+- **To CheckThat:** FAQs on blog posts are a direct LLM visibility play — GrowthX is implementing structured FAQ blocks to improve CheckThat's ability to index and surface content in AI visibility rankings. This is live testing of LLM-friendly formatting at scale.
+
+- **To GrowthX Business Development:** Siit account health signals are positive: they're expanding scope (Carmel championing new content angles, team bringing design/developer resources). Product feedback is specific and strategic (Siit integration highlighting, competitive positioning via Freshdesk/Rippling comparisons). Opportunity for reference/case study as blog metrics continue to improve.
+
+---
+
+## Overview
+
+- Blog traffic growing steadily; impressions and keywords at all-time highs
+- Need to implement FAQ sections on blog posts to improve LLM visibility
+- Reddit content offers valuable insights for article topics and enrichment
+- French site redirects causing volatility; focus remains on US/English growth
+
+---
+
+## Key Topics
+
+### Content Performance Update
+
+  - All planned content currently in production
+  - Next round of content in the works, including tool comparisons
+  - Blog traffic growing: 440 clicks last month, up from previous periods
+  - 20 newsletter signups captured in past 2.5 weeks from blog posts
+  - Tool pages already seeing traffic (20+ views) despite recent publication
+
+### SEO Performance Overview
+
+  - Site-wide traffic flat (normal for summer); impressions growing
+  - Keywords at all-time high (190k), though growth slowed in July
+  - Blog healthy growth: 440 clicks, significant room for further growth
+  - Glossary section seeing good traction after fixing indexing issues
+  - AI-related SERP features slightly flat, mirroring general trends
+
+### Content Adjustments and Improvements
+
+  - Workday migration article to be scrapped due to lack of specificity
+  - HR ticketing system article needs correction regarding Bamboo HR
+  - Adding Siit as a solution in ticketing system comparisons
+  - Implementing FAQ sections on blog posts to improve LLM visibility
+  - Re-adding publication dates to blog posts
+  - Correcting inaccurate read time estimates on articles
+
+### Reddit Strategy
+
+  - Siit engaging Reddit agency for comment planting and thread participation
+  - Exploring ways to leverage Reddit content for article topics and enrichment
+  - Considering direct use of Reddit threads as article basis (with attribution)
+  - Potential for posting listicles directly to Reddit profiles for quick indexing
+
+### French Site Update
+
+  - Recent re-translation and redirect implementation causing traffic volatility
+  - Focus remains on growing US/English site; French site considered "gravy"
+
+---
+
+## Action Items
+
+**Jess Scott (GrowthX)**
+- Rework 2 articles w/ Becerra - workday migration (full rewrite) & HR ticketing system (fix Bamboo HR info, add Siit integration details)
+
+- Update content workflow to include FAQs for blog posts - coordinate w/ publisher, retrofit existing posts
+
+- Fix read times on blog posts - update publisher workflow, add Airtable column for accurate times
+
+- Add dates back to blog posts - coordinate w/ publisher, use refresh dates for FAQ updates
+
+- Start convo in EMs/Directors channel re: using Reddit content in articles - discuss extraction methods, attribution, enrichment strategies
+
+**Jakub Rudnik (GrowthX)**
+- Investigate traffic source for "shadow IT prevention" blog post - check Snitcher data, identify potential referrals (Reddit, LLMs)
+
+- Analyze specific pages w/ dropped AI-related SERP features - identify causes, potential fixes
+
+- Send example of Reddit profile posts for SEO to Carmel - include client's successful listicle strategy
+
+**Carmel Schetrit (Siit)**
+- Have developer add FAQ section to blog posts - 5 Q&As per post, same schema as tools pages
+
+- Have developer add publication date back to blog design
+
+---
+
+## Transcript
+**Carmel Schetrit:** Offices today, hence my new background.
+
+**Jakub Rudnik:** So it's a new WeWork, is that right?
+
+**Jakub Rudnik:** Like, by WeWork, we actually moved into a WeWork.
+
+**Jakub Rudnik:** You like it?
+
+
+**Carmel Schetrit:** We've been here for a total of, like, two hours, but yes, we like it more than our old office, for sure.
+
+**Carmel Schetrit:** Oh, good.
+
+**Jess Scott:** Seems like a better vibe.
+
+**Carmel Schetrit:** That's good.
+
+
+**Jess Scott:** I will share my screen, and we can jump in, because I know Jakub has a bit to kind of chat through.
+
+**Carmel Schetrit:** Yes, and I wanted to talk through the upcoming, like, a few things we were talking about in our channel.
+
+**Carmel Schetrit:** There's the upcoming stuff, plus that article, plus, like, all the things.
+
+
+
+
+**Jess Scott:** So just a quick performance or content update.
+
+**Jess Scott:** So, like, this is everything that's in production currently.
+
+**Jess Scott:** And I know we've had, like, a couple of Thank you.
+
+**Jess Scott:** Like back and forth on some of these.
+
+**Jess Scott:** So this is all going live.
+
+**Jess Scott:** And then this is the next round that we have in the works.
+
+
+**Jess Scott:** So hold on.
+
+**Carmel Schetrit:** Workday migration.
+
+**Carmel Schetrit:** I think that's...
+
+**Jess Scott:** thought that was a toxic point.
+
+
+
+**Carmel Schetrit:** I feel like my ticket or my comment like jumped around for some reason.
+
+**Carmel Schetrit:** Anyways, I don't think it makes sense.
+
+
+**Jess Scott:** So I think essentially like the route we can go here is we can like to kind of address all of your concerns.
+
+**Jess Scott:** We will just do a full, probably have to do a full rewrite.
+
+**Jess Scott:** That being said, Jakub, did you want to jump in on anything as far as that?
+
+**Jakub Rudnik:** So workday, sorry, there's a couple of different keywords we talked about yesterday.
+
+**Jakub Rudnik:** Just so I'm going to need a mild refresh.
+
+**Jakub Rudnik:** of different keywords.
+
+**Jakub Rudnik:** I have to Thank you.
+
+**Jakub Rudnik:** Yeah.-hmm.
+
+**Jakub Rudnik:** So,
+
+**Jakub Rudnik:** Oh, can I get the two-sentence rundown of why it doesn't make sense?
+
+**Carmel Schetrit:** Yes, because this is like workday migration to another HRIS, but it's like, here's the steps of how to migrate off of your workday.
+
+**Carmel Schetrit:** But I just don't think it makes sense because I think if this is going to be a migration guide, it would be to a specific HRIS.
+
+**Carmel Schetrit:** Yes, and like we don't have the authority to really talk about the ins and outs of what happens in a migration.
+
+**Carmel Schetrit:** And then Becerra was writing to me, she's like, our AI is just going to hallucinate if we don't give it like specific stuff.
+
+**Carmel Schetrit:** And like we don't know all the things people need to do to migrate off of workday, so it's just not the right content.
+
+**Jess Scott:** Yeah, so I think we can, I think we can go ahead and just swing it into, like, we're probably just going to have to scrap this because the idea was like...
+
+**Jess Scott:** Yeah, kind of create a guide of like how to move, like how to migrate your data from Workday to X, like and keep X kind of more vague.
+
+**Jess Scott:** But I think knowing that we don't have those ins and outs and that like our workflows aren't able to dig out those details.
+
+**Jess Scott:** Just really quickly, I don't think that's incorrect.
+
+**Jakub Rudnik:** I'm just like in the search intent, probably on the, for just for future articles like this or a little bit of context, like I just put in this as a keyword.
+
+**Jakub Rudnik:** Then what am I seeing?
+
+**Jakub Rudnik:** Like we want to match intent on how people are searching.
+
+**Jakub Rudnik:** So there's a couple of landing pages, but then like tips for migrating to Workday, this one's into Workday.
+
+**Jakub Rudnik:** So it's a mixed bag.
+
+**Jakub Rudnik:** It definitely doesn't look like Google knows exactly what people want for this or people don't know what they want if they search.
+
+**Jakub Rudnik:** But migrating into Workday seems like the most common and the thing that we would most be able to do, you know, so that would be like their articles very quickly clicking into them was.
+
+**Jakub Rudnik:** Like, from a legacy system to Workday, I don't know if Siit fits in that.
+
+**Jakub Rudnik:** The thing is, Workday is the legacy system.
+
+**Carmel Schetrit:** So like, if you're looking at, I mean, I've, I've been hardcore in this, like another tip I wanted to give you guys, been leveraging Reddit.
+
+**Carmel Schetrit:** And if you do a quick search, and I think there was even one search on there that you just pulled up on Reddit, it's like, Workday is the monster that everyone's trying to move off of.
+
+**Carmel Schetrit:** So I don't know that we want to put ourselves in that category.
+
+**Carmel Schetrit:** It's more like migrating to one of the cool new sections.
+
+**Carmel Schetrit:** From, from, into.
+
+
+**Jess Scott:** Yep.
+
+**Jess Scott:** I mean, we integrate with Workday too.
+
+**Carmel Schetrit:** Yes.
+
+**Carmel Schetrit:** But I just don't know that's the angle we want to take.
+
+**Jakub Rudnik:** I see what you're saying.
+
+**Jakub Rudnik:** If there was an angle where it's like.
+
+**Jakub Rudnik:** is the legacy tool here.
+
+**Jakub Rudnik:** If there was, because a lot of it is definitely like, we're about to migrate to Workday and I'm so terrified.
+
+**Jakub Rudnik:** That's what I just saw from Reddit posts.
+
+
+**Jakub Rudnik:** So if there was an angle that's like Workday does, has its issues, but this is where, this is an integration that makes things better, potentially there's an angle there.
+
+**Jakub Rudnik:** I still don't know that that's like really worth doing, just spitballing on that.
+
+**Jakub Rudnik:** I think for the, Jess, on the clusters and like how we've had migration penciled in, we should confirm those beforehand and then both with intent and then with Carmel and knowing the product side first that does SimWork.
+
+**Jakub Rudnik:** I think they were, we looked at like all those articles, they're the ones with like lower volume typically.
+
+**Jakub Rudnik:** And then also you're probably furthest from the true like ICP, you'd still, I think we, if they fit, if they do make sense, we would still want them for the clustering.
+
+**Jakub Rudnik:** I think there is some potential intent, but they're the ones we probably should be spot checking more than like the alternatives list.
+
+**Jakub Rudnik:** Like pretty much if we have the right tool, we should just do those.
+
+**Jakub Rudnik:** Um, but I think this one is a little bit more gray and like, should we do it for every tool?
+
+
+**Jakub Rudnik:** Okay, cool.
+
+**Jess Scott:** I'll do a little bit of digging on that, and then I'll circle back with you, Carmel, to make sure that that's like, we're going in the direction that makes the most sense for you guys.
+
+
+**Carmel Schetrit:** And then for the HR ticketing system, I see that my comment wasn't resolved yet.
+
+**Carmel Schetrit:** The best for small and mid-sized companies, Bamboo and HR, or Bamboo HR.
+
+**Carmel Schetrit:** So Bamboo doesn't offer a ticketing system.
+
+**Carmel Schetrit:** It's an HRS that integrates with various ticketing systems, but that part's not accurate in the article.
+
+**Carmel Schetrit:** If you scroll down.
+
+
+
+**Jess Scott:** So that's, we'll resolve that because that was, that's just something this era will have to go in and edit.
+
+**Jess Scott:** That's not too heavy of a lift.
+
+**Jess Scott:** Um, did you see my comment in Slack about the two, about like going from one to the other?
+
+**Carmel Schetrit:** Um, yes.
+
+**Carmel Schetrit:** And that's, that's totally fine with me.
+
+**Carmel Schetrit:** Uh,
+
+**Carmel Schetrit:** Let me open it again, just to make sure, because I looked at it earlier.
+
+**Carmel Schetrit:** Yeah, so we're basically linking the two.
+
+**Jess Scott:** Yeah, so we'll do one of each and try and hit both angles.
+
+
+**Carmel Schetrit:** Yeah, that's fine.
+
+**Carmel Schetrit:** Cool, cool.
+
+**Carmel Schetrit:** I just want to make sure that the ticketing system is addressed, and seat, I don't remember, do we mention seat at the bottom of this?
+
+**Carmel Schetrit:** Because, like, basically, we are the HR ticketing system that integrates with your HRIS really well.
+
+**Carmel Schetrit:** That's the whole point.
+
+**Jakub Rudnik:** Is there even, is there, so then, if seat does this, is it, are we listing seat as one of the solutions in the article?
+
+**Jakub Rudnik:** It's not on there.
+
+**Jakub Rudnik:** So we should be listing it not just at the bottom, but as one of the ticketing systems, and then, there's mixed, like,
+
+**Jakub Rudnik:** And then if there's any, if we integrate with any of these other tools as well, that should be mentioned during those sections.
+
+**Jakub Rudnik:** Like they're, it's your own.
+
+**Jakub Rudnik:** We can integrate with all of We them with our API.
+
+**Carmel Schetrit:** I think even if they're not listed on our site, it's worth calling out, especially with Freshdesk because FreshService is the competitor ITSM, which is by Freshdesk.
+
+**Jakub Rudnik:** So that, yeah.
+
+**Jakub Rudnik:** So we need basically like a bullet point for each of those and how they integrate.
+
+**Jakub Rudnik:** And especially if we can identify why Siit is a upgrade over the existing ticketing system out of the box.
+
+**Jakub Rudnik:** So.
+
+**Jess Scott:** Which I can give insight for if you.
+
+**Carmel Schetrit:** Write it, but it's basically like you can keep all of your legacy workflows and we're the modern, integrated, easy help desk to use on top of what you already have if you don't want to let go of all the previous stuff that you've built, basically.
+
+**Carmel Schetrit:** Gotcha.
+
+
+**Carmel Schetrit:** Yeah, that's easy.
+
+**Jess Scott:** We can definitely have that sorted.
+
+
+**Jess Scott:** Cool, cool, cool.
+
+**Jess Scott:** And then, so for next week, for the next round of content, which we can, I can open that sheet that I sent, but this is the rough outline right now.
+
+**Jess Scott:** But I know you had some concerns over like search volume and stuff like that.
+
+**Carmel Schetrit:** Yeah, I wanted to ask because I like was quickly growing through and I was like, you know what, Carmel, like hold the phone.
+
+**Carmel Schetrit:** Does it matter that the search volume's low?
+
+**Carmel Schetrit:** Because I know that our goal is to do like a mix of stuff so that we rank with low search volume and high search volume.
+
+**Carmel Schetrit:** That's the goal here, right?
+
+**Carmel Schetrit:** Yeah, that's fine.
+
+**Jakub Rudnik:** So, yeah, and the, these type of terms I've found to be, you we're living in AI world where my, like, data of my past is not quite going to be accurate, like, my anecdotal data, but this stuff has typically been, in my experience, two to three times bigger than the actual search volume and the estimated traffic that, like, SEO tools are giving.
+
+**Jakub Rudnik:** They're really low funnel, and so it's, like, a longer explanation, but basically, like, the SEO tools don't account for everything, and if terms are small enough, like, you just have a lot of, like, overflow traffic that doesn't get, if it's really small terms, don't add up to anything in a way that, like, really big terms all get accounted for.
+
+**Jakub Rudnik:** And so, when I've done software lists, alternatives, et cetera, the, these smaller volumes have really low difficulty, typically, because people aren't going after a 20 or a 40, and then you're actually seeing more, like, for a 40 search volume, I'll see 150 people a month, and it's lower in the funnel, and it's more like.
+
+**Jakub Rudnik:** So the conversion rates are better, the traffic's a little bit better than the SEO tools think, and there's low difficulty.
+
+**Jakub Rudnik:** And then on some of these, I think I mentioned last week, or I just can't remember, but have had friends doing similar types of content that have seen really good success with LLMs with these type of terms.
+
+**Jakub Rudnik:** Because this is what people are asking, but there's not a lot of content because people don't see the traffic value.
+
+**Jakub Rudnik:** So there's just like a bunch of reasons that I've had success and been more bullish and going after these smaller terms in this space.
+
+**Jakub Rudnik:** If it's upper funnel or something that's like far away from the product and it's still small, like that's where I would draw a line for sure.
+
+**Jakub Rudnik:** But in this type of keyword, that's where I like to go after small as a mix.
+
+
+**Carmel Schetrit:** That is fine by me.
+
+
+
+**Carmel Schetrit:** And then the ones that I left comments for is for the week after that.
+
+**Carmel Schetrit:** I want to, I can call it out very, very.
+
+**Carmel Schetrit:** So Deal and Bamboo aren't actual comparisons.
+
+**Carmel Schetrit:** It should be Deal versus Rippling.
+
+
+**Carmel Schetrit:** Bamboo is more in the Bamboo versus HiBob.
+
+**Carmel Schetrit:** But Deal and Rippling are more competitors because there's like DealHR, DealIT, and HiBob has kind of the same.
+
+**Carmel Schetrit:** But Shalom had sent me these three tools on the right that I added here that I think we could prioritize.
+
+**Carmel Schetrit:** They're in the IT space and we think we might be able to get traffic with them.
+
+**Carmel Schetrit:** And so I was thinking that we would save this Deal versus Rippling stuff for later and bump these up instead.
+
+**Carmel Schetrit:** We don't really have a lot of, we don't have any content actually about these on our site in general.
+
+**Carmel Schetrit:** I hadn't even heard of them.
+
+
+**Carmel Schetrit:** So we could try that or we could just move up all the other content like the Jamf stuff and then.
+
+**Carmel Schetrit:** Leave this for like the end of the month, either way.
+
+**Jess Scott:** Okay, yeah, yeah, I can rework that and do some digging around those terms because, yeah, well, you're right.
+
+**Jess Scott:** I've never heard of them.
+
+**Jess Scott:** Yeah, okay, cool.
+
+**Jess Scott:** And then I will drop this list of the next round of tool images we need.
+
+**Jess Scott:** And you have these for review, but I can drop them in Slack again.
+
+**Jess Scott:** And these should...
+
+**Carmel Schetrit:** I just started, I just started a review.
+
+**Carmel Schetrit:** I've only left one comment so far, but yeah, I just started reviewing it.
+
+**Carmel Schetrit:** Okay, cool, cool.
+
+**Jess Scott:** Yeah, let me know if you have any questions or like how we'll leverage those and stuff.
+
+**Jess Scott:** But yeah, that's what I have.
+
+**Jess Scott:** Jakub, do you want to take the wheel?
+
+**Jess Scott:** Yeah, for sure.
+
+**Jakub Rudnik:** Okay, so let's see.
+
+**Jakub Rudnik:** A couple things.
+
+**Jakub Rudnik:** One, this is my first time doing this for Seat.
+
+**Jakub Rudnik:** And then for any client like this new style, we're trialing these things, not that I haven't given.
+
+**Jakub Rudnik:** People metric so many times, but it's all been...
+
+**Jakub Rudnik:** Currently, historically.
+
+**Jakub Rudnik:** So what I know and what I have context with, I'm just thinking through this exercise.
+
+**Jakub Rudnik:** There's some things that has been good for me to learn some ins and outs of the site that I wasn't aware of or hadn't spent time thinking about.
+
+**Jakub Rudnik:** So there'll be a little bit more of my getting information back, I think, than I would if I was internal and new, like the whole history of a site.
+
+**Jakub Rudnik:** Two, I've got some stuff here and want to know what else will be useful for either next week and I can follow up with or for future iterations of this type of call.
+
+**Jakub Rudnik:** So please, any of that.
+
+**Jakub Rudnik:** And then please stop me at any point what I have here, like put a hand up if something's unclear or questions.
+
+**Jakub Rudnik:** Like this is the most, like wherever I can get engaged, I think that will really help.
+
+**Jakub Rudnik:** And I want to drive conversation, not just be here's some numbers and then let's move on to our next call next week.
+
+**Jakub Rudnik:** And then, and so that's a lot for us directing most of that come out, but also just, and if, you know, Becerra for future calls, like what I want this to be able to guide new topics, you know, areas that we need to.
+
+**Jakub Rudnik:** We start to do refreshes, if there's ideas like that I don't have on why something is dropping or successful.
+
+**Jakub Rudnik:** So I'm trying to put things into a conversation like out in front of us also if anyone has ideas, questions, concerns that we can talk through these.
+
+**Jakub Rudnik:** So the goal is to get as much in front of everyone and just have that conversation.
+
+**Jakub Rudnik:** And then the last piece is I didn't get to conversion level stuff.
+
+**Jakub Rudnik:** So I'll have to go back through the data that you've pulled historically, and then we'll do that later in the month.
+
+**Jakub Rudnik:** So it's mostly on the traffic front here.
+
+
+**Jakub Rudnik:** So I started just at the site level, and this is not where it's most important to me, but I think there's potential to see trends here.
+
+**Jakub Rudnik:** The site is flat, and that's pretty normal in the summer, even if you're growing.
+
+**Jakub Rudnik:** And if you're flat, even when I have a client that we were working with yesterday that they've lost traffic every month for six months, and they have a really good SEO program.
+
+**Jakub Rudnik:** And so...
+
+**Jakub Rudnik:** AIO reviews, LLM traffic, like killing folks is organic traffic.
+
+**Jakub Rudnik:** To be flat, feels like growth these days, but it's still not growth, but we're flat.
+
+**Jakub Rudnik:** The impression side, like we could pull up, I guess you have the screenshot here in the right corner.
+
+**Carmel Schetrit:** June, July, yeah?
+
+**Jakub Rudnik:** Yeah, this is, yeah, so month over month, and we could look at the larger trend on the traffic.
+
+**Jakub Rudnik:** I have that for not site-wide.
+
+**Jakub Rudnik:** But just looking at the impression, so that's where I think you see, it's getting a little bit murkier in like today's SEO, A, EO, but impressions generally mean future traffic.
+
+**Jakub Rudnik:** Like if you're seeing that growth, that means that you're ranking for new things, Google's testing you, but in a good way.
+
+**Jakub Rudnik:** So those are the trends we want to see.
+
+**Jakub Rudnik:** We can't have, you know, 12 straight months of just saying, we're growing in impressions, there's traffic coming, but these signals still look healthy, and like we're going to see future growth.
+
+**Jakub Rudnik:** So, and then the bottom is our like SEMrush account and.
+
+**Jakub Rudnik:** So keywords, like we're at a best all-time high.
+
+**Jakub Rudnik:** It's good.
+
+**Jakub Rudnik:** It's a little bit flat.
+
+**Jakub Rudnik:** You know, there's still a little bit of growth, but the growth from June to July wasn't as big as over the spring.
+
+**Jakub Rudnik:** But we're still seeing growth here.
+
+**Jakub Rudnik:** Just something I want to monitor that we wouldn't want to see that for multiple months.
+
+**Jakub Rudnik:** We want to pick that growth back up.
+
+**Jakub Rudnik:** And I think there's good reason to believe we will do that.
+
+**Carmel Schetrit:** One of the things I want to call out here in relation to keywords, I feel like in the spring is when we were heavily investing also in Google AdWords.
+
+**Carmel Schetrit:** And it wasn't converting for us, and it was bringing in trash.
+
+**Carmel Schetrit:** So yesterday I spoke to our consultant, and I told him we want to focus the campaign more on impressions and less on conversions.
+
+**Carmel Schetrit:** And so he's going to rejigger it.
+
+**Carmel Schetrit:** But I know Google doesn't say it's correlated, but I think it is that the moment you spend less on ads, there's something there.
+
+**Carmel Schetrit:** There's something there.
+
+**Carmel Schetrit:** And in the spring, April through June, we were spending quite a bit.
+
+**Carmel Schetrit:** And now...
+
+**Carmel Schetrit:** So we've reduced our spend until we get this new strategy up and running.
+
+**Carmel Schetrit:** So I want to also just call that out to you guys.
+
+**Jakub Rudnik:** That answers a question, I think, coming up.
+
+**Jakub Rudnik:** And actually, I kind of misspoke.
+
+**Jakub Rudnik:** So this is our August bar here.
+
+**Jakub Rudnik:** I'm clicked on ahead.
+
+**Jakub Rudnik:** So August to July is flat, but we're only six days in.
+
+**Jakub Rudnik:** Our July to June is actually good.
+
+**Jakub Rudnik:** There was one other bar with a spot.
+
+**Jakub Rudnik:** So the growth is good.
+
+**Jakub Rudnik:** Take back what I said about being a little bit flat here.
+
+**Jakub Rudnik:** I'm concerned in another spot.
+
+**Jakub Rudnik:** But that makes sense from this one.
+
+**Jakub Rudnik:** the page level, it's probably a little hard to see looking.
+
+**Jakub Rudnik:** But one of the pages that has dropped organically, which I don't think is typically an organic thing, is the homepage.
+
+**Jakub Rudnik:** But that would make sense with some of what you're saying.
+
+**Jakub Rudnik:** If you're pulling back budget on ads, that would answer some.
+
+**Jakub Rudnik:** They were going there.
+
+**Jakub Rudnik:** So that makes a ton of sense.
+
+**Jakub Rudnik:** Otherwise, there wasn't a ton of trend-wise outside of blog things.
+
+**Jakub Rudnik:** But other than the French site, which I have not spent.
+
+**Jakub Rudnik:** I haven't thinking about or much time with you discussing, but the French URLs have a ton of volatility right now.
+
+**Jakub Rudnik:** Anything's completely dropping in traffic or gaining.
+
+**Jakub Rudnik:** I don't know if there's redirects or what.
+
+**Jakub Rudnik:** There are redirects.
+
+**Carmel Schetrit:** So what we did in late June, I think it was, was we re-translated our website to French and had this redirect and web flow of all the old French pages to, like, the new French site, which is, like, more in line with our English site in terms of, like, the pages.
+
+**Carmel Schetrit:** I'm not spending a lot of time on our French site, to be honest with you.
+
+**Carmel Schetrit:** I just wanted them to match in terms of style and to be able to have this, like, localization thing turned on that we have in Webflow, where we can push pages in English to the French site without having to, like, rebuild a new page like it was set up previously.
+
+**Carmel Schetrit:** Yes, we have French presence.
+
+**Carmel Schetrit:** We do have a lot of French customers, but I'm not French, and having to translate everything is just a nightmare.
+
+**Carmel Schetrit:** So, to be honest, I'm not super concerned about it.
+
+**Carmel Schetrit:** I'd rather grow our US site.
+
+**Jakub Rudnik:** yeah.
+
+**Jakub Rudnik:** Makes sense.
+
+**Jakub Rudnik:** It makes sense.
+
+**Jakub Rudnik:** Sorry we're not talking about it.
+
+**Jakub Rudnik:** I didn't even think of this, but removing just the French URLs.
+
+**Jakub Rudnik:** I have to do the math, but we are growing when you remove just French.
+
+**Jakub Rudnik:** So, if that's where we're focused, which is, that's better than what just shared.
+
+**Jakub Rudnik:** So, we'll monitor.
+
+**Jakub Rudnik:** We'll keep that, like, large.
+
+**Jakub Rudnik:** we're there.
+
+**Carmel Schetrit:** I mean, like, yeah, we want the French presence in that sense, you know, but, like, I'm not spending a lot of time.
+
+
+**Carmel Schetrit:** It's gravy.
+
+**Jakub Rudnik:** It's definitely a bonus.
+
+**Jakub Rudnik:** That's kind of how it for us at ActiveCampaign with our localization efforts.
+
+
+**Jakub Rudnik:** On the blog, healthy growth, I want to see this continue for the next four months and see a growth rate like this, and we'll be really happy because the clicks are, you know, 440 clicks, I don't think is certainly not.
+
+**Jakub Rudnik:** Not nothing, but there's a lot of upside with how much we've published to date, much, like the impressions, there's a ton of room for growth here, but.
+
+**Carmel Schetrit:** I'm also seeing, by the way, you guys don't have access to this data, but ever since I published that newsletter subscription, I see people come in through blog posts and sign up for the newsletter.
+
+**Carmel Schetrit:** So, so far, there's been, in the past, like, I think two and a half weeks, like 20 captured email addresses of people who've submitted their emails, which is pretty cool.
+
+**Carmel Schetrit:** That is cool.
+
+**Jakub Rudnik:** I'm going to make a note, I would love to see what that, like, looks like over time, and maybe add that as one of these, you know, secondary KPIs, even if it's not our top one that just happened.
+
+**Carmel Schetrit:** Another thing that I would want us to track in the future, I don't know if you have this after the blog or not, but is starting to track the tools pages, I'm already seeing traffic to some of them.
+
+**Carmel Schetrit:** Which is cool.
+
+**Carmel Schetrit:** It's low, but we literally published it last week, and we already got at least 20 or so views to different pages.
+
+**Carmel Schetrit:** So it'd be cool to monitor that as well.
+
+**Carmel Schetrit:** I think it's going to be successful.
+
+**Carmel Schetrit:** I think it is going to drive traffic.
+
+**Carmel Schetrit:** Yeah, I don't have that in here.
+
+**Jakub Rudnik:** It was one that was planned for next month as we've launched more.
+
+**Jakub Rudnik:** But it's a good call, and I want to break into these site sections.
+
+**Jakub Rudnik:** And I think site sections, then even under the blog, Jess, that I want to work with you is figuring out our clusters.
+
+**Jakub Rudnik:** And maybe that's just categories on the blog, but then measuring how those are each performing, both at traffic and then eventually conversion level.
+
+**Jakub Rudnik:** So we can be more, use that data to inform future pieces and topics.
+
+**Jakub Rudnik:** But anyway, this looks really healthy.
+
+**Jakub Rudnik:** I want to see this continue now that there's like, we're going, we went from impressions.
+
+**Jakub Rudnik:** Like, this is the first, like, meaningful, you know, this traffic is much bigger than it was a month ago, definitely than three months ago.
+
+**Jakub Rudnik:** But can we continue?
+
+**Jakub Rudnik:** That trend.
+
+**Jakub Rudnik:** And so it feels really good.
+
+**Jakub Rudnik:** The impressions are there as well.
+
+**Jakub Rudnik:** It's a mix of like some of the French stuff is working, but a lot of the English stuff.
+
+**Jakub Rudnik:** And there's a couple that jumped up really big.
+
+**Jakub Rudnik:** But what I felt good about is a lot of articles jumped up four to 10 visits a month.
+
+**Jakub Rudnik:** Like it looks like we're inching forward with keyword rankings.
+
+**Jakub Rudnik:** You we're picking up, we're moving up a spot here.
+
+**Jakub Rudnik:** We're moving up a spot here.
+
+**Jakub Rudnik:** So it's a lot of like overall site health.
+
+**Jakub Rudnik:** And then what tends to happen is then like one article jumps to the top three spot and that one spikes.
+
+**Jakub Rudnik:** And so you just like get big spikes.
+
+**Jakub Rudnik:** But if you keep that like larger body of content moving in the right direction, that's more healthy than just seeing big spiky articles.
+
+**Jakub Rudnik:** So having both is really where you, when I feel really good.
+
+**Jakub Rudnik:** And I'm seeing that right now.
+
+**Carmel Schetrit:** So we have Snitcher for lead enrichment.
+
+**Carmel Schetrit:** And so I can see how people land on our website.
+
+**Carmel Schetrit:** One of the blog articles that I've been seeing a bit lately, but it's not on this list is how to prevent shadow IT with smart apps.
+
+**Carmel Schetrit:** we're going pass that minute.
+
+**Carmel Schetrit:** And I'm wondering, just in general, how do I look up the rank if that is gaining momentum?
+
+**Carmel Schetrit:** Is it through our Looker dashboard?
+
+**Carmel Schetrit:** That is the gold Looker dashboard.
+
+**Jakub Rudnik:** Let's see if we can do that right now.
+
+**Jakub Rudnik:** Yeah, you could come to the landing page tab and put in that URL.
+
+**Jakub Rudnik:** Maybe just the slug, but it's the whole URL.
+
+**Carmel Schetrit:** Yeah, can you send that URL over and we can do It has, like, UTM attached to it because it's coming from Snitcher, but I'm going to send it to you.
+
+**Carmel Schetrit:** Yeah, problem.
+
+**Carmel Schetrit:** Where's the chat in GChap?
+
+**Carmel Schetrit:** Bottom right.
+
+**Jakub Rudnik:** There we go.
+
+**Jakub Rudnik:** Oh, big.
+
+**Jakub Rudnik:** Yeah, sorry.
+
+**Carmel Schetrit:** Slash shadow dash IT dash prevention.
+
+**Carmel Schetrit:** Yeah, good.
+
+**Jakub Rudnik:** Deleting UTMs is my...
+
+**Jakub Rudnik:** You can also just drop the clean one, Jakub.
+
+**Jess Scott:** I got it.
+
+**Jakub Rudnik:** Are you seeing it?
+
+**Carmel Schetrit:** Oh, so it is growing.
+
+**Jakub Rudnik:** So clicks 11.
+
+**Jakub Rudnik:** Yeah, the keywords.
+
+**Jakub Rudnik:** Impressions are good.
+
+**Jakub Rudnik:** What's this for an average position?
+
+**Jakub Rudnik:** Oh, okay.
+
+**Jakub Rudnik:** Sorry, this is not where I, as I mentioned many times, we're making improvements here.
+
+**Jakub Rudnik:** Yeah, impressions are growing.
+
+**Jakub Rudnik:** Clicks are starting.
+
+**Jakub Rudnik:** I wonder, so you're seeing a ton of it in the I mean, I didn't count, but I've just like seen it a few times and it wasn't an article I really remembered.
+
+**Carmel Schetrit:** But I'm seeing it, yeah, on the, not on conversion side, on just snitcher of like people on lead enrichment, meaning people are landing on our website on that blog somehow through retargeting.
+
+**Jakub Rudnik:** yeah, I'm going to add a note for me to look in, like if we can identify where the track
+
+**Jakub Rudnik:** Graphic source is...
+
+**Carmel Schetrit:** Just in the past week, I've seen it like four times show up on signature.
+
+
+**Carmel Schetrit:** That's really good to know.
+
+**Jakub Rudnik:** That's something that we should definitely do.
+
+**Jakub Rudnik:** And then figuring out where, how to recreate, you know, is this something that's linked on a Reddit post?
+
+**Jakub Rudnik:** Is this coming through LLMs?
+
+**Jakub Rudnik:** Like, that's very real, especially with this type of growth, like showing up.
+
+**Jakub Rudnik:** So...
+
+**Jakub Rudnik:** Showing up somewhere, yeah.
+
+
+
+**Jakub Rudnik:** That's a great...
+
+**Jakub Rudnik:** That's the type of insight that I need to like go do more focused analysis and diving in.
+
+**Jakub Rudnik:** I got that as a note here to take away.
+
+**Jakub Rudnik:** But the...
+
+**Jakub Rudnik:** Yes, you can look in the performance report and for a single URL, that's...
+
+**Jakub Rudnik:** That is a usable function here now.
+
+**Jakub Rudnik:** Quickly on impressions.
+
+**Jakub Rudnik:** I don't think there's so much here.
+
+**Jakub Rudnik:** Again, largely, things are good.
+
+**Jakub Rudnik:** But if...
+
+**Jakub Rudnik:** Calling out maybe for Jess, especially, so if you see anything on this list of like impression drops, know, I'll send the slides after so you don't have to squint right now.
+
+**Jakub Rudnik:** But if there's anything that potentially could be cannibalizing, that's one of the concerns for me.
+
+**Jakub Rudnik:** If we see an article ranking and then it falls off, did we publish something else that's overlapping content or too near?
+
+**Jakub Rudnik:** Sometimes you'll see an article grow and then Google decides this isn't good enough, so then we're falling off.
+
+**Jakub Rudnik:** And so those are a couple of things.
+
+**Jakub Rudnik:** I don't want to overreact to one month of impressions either.
+
+**Jakub Rudnik:** I just want to call these out that this is a list of potential action items, or at least I can investigate furthers.
+
+**Jakub Rudnik:** That's where I often start.
+
+**Jakub Rudnik:** We would do the same thing with traffic too, if there are more articles and more traffic, but this is a starting point.
+
+**Jakub Rudnik:** So we can sync offline on that one.
+
+**Jakub Rudnik:** Glossary want to call it that, as Jess mentioned, I think last week or in the week before, we were having indexing issues that were kind of uncovered, and that's been fixed.
+
+**Jakub Rudnik:** And now impressions and keywords are growing.
+
+**Jakub Rudnik:** That's what it should look like.
+
+**Jakub Rudnik:** Certainly should have had this going earlier.
+
+**Jakub Rudnik:** So, you know, it's one of those spilled milk situations.
+
+**Jakub Rudnik:** But at the same time, like, now we are having really good traction.
+
+**Jakub Rudnik:** I'm more bullish on the glossary.
+
+**Jakub Rudnik:** want to see where this goes from a traffic perspective, because this is shot up very quickly.
+
+**Jakub Rudnik:** We're ranking for the right keywords once we got that figured out.
+
+**Jakub Rudnik:** So, and then the other piece, Jess, I'm like, just making sure new pieces are indexing as we are publishing this.
+
+**Jess Scott:** Jacob, that might be something we want to take into a little bit as well, because just this morning, I was checking the indexing, and it is still, we're still having to manually push everyone.
+
+**Jess Scott:** And for the most part, and it's also the same with the tool pages.
+
+**Jess Scott:** A lot of those aren't indexing.
+
+**Jess Scott:** We might need to do a little digging there.
+
+
+**Jakub Rudnik:** Sounds good.
+
+**Jakub Rudnik:** Thank you.
+
+**Jakub Rudnik:** Carmel, do you have like another couple of minutes?
+
+**Jakub Rudnik:** Yeah, no problem.
+
+
+**Jakub Rudnik:** I'm sorry, Ren.
+
+
+**Jakub Rudnik:** Let's see.
+
+**Jakub Rudnik:** AI stuff, this one's not like terribly concerning, but a little bit flat in the, in the SERP features here, like AI overviews or...
+
+**Carmel Schetrit:** I've been seeing that too on our, like, I look at our HubSpot traffic analysis and it's looked flat on the AI GPT stuff front.
+
+**Carmel Schetrit:** Especially ChatGPT, it's even been down a bit, which I don't know if it's like seasonality.
+
+**Carmel Schetrit:** There was a period of time that it was going up and then it's been kind of flat.
+
+**Jakub Rudnik:** Yeah, so that's what I'm feeling here too.
+
+**Jakub Rudnik:** The top one is one of these blogs.
+
+**Jakub Rudnik:** Yeah, top was just the blog, the bottom was at the site at a whole.
+
+**Jakub Rudnik:** So you've seen, like Spikes said, both were kind of peaking late spring.
+
+**Jakub Rudnik:** In the SERP features, these aren't all AI, you know, AI overview, but also it's image back.
+
+**Jakub Rudnik:** And people also ask, but I think these, from what I'm seeing with clients, tend to be fairly correlated.
+
+**Jakub Rudnik:** Oh my gosh, no, no, it's, I can't stop clicking.
+
+**Jakub Rudnik:** But this is.
+
+**Jakub Rudnik:** There's one that I want to look at, there's specific pages that have dropped here, so I'll take that as an action item.
+
+**Jakub Rudnik:** And then I do a couple of the recommendations here, I think, are things that we believe pretty strongly are helping with LLM referral traffic and visibility.
+
+**Jakub Rudnik:** Oh, I removed the date, I think, a while back.
+
+**Carmel Schetrit:** We should add it back.
+
+**Carmel Schetrit:** think we should put the date back in there.
+
+**Carmel Schetrit:** The issue, it's not a problem.
+
+**Carmel Schetrit:** We can add it back.
+
+**Carmel Schetrit:** The issue was that because we're publishing so many articles on the same day, it was looking weird.
+
+**Jess Scott:** And we should be able to, once we, especially now that our dev team has your API key, we should be able to just space it out, right, Jakub?
+
+**Jess Scott:** I don't, I mean, I think that's right, but don't quote me on that one.
+
+**Jess Scott:** For context, Jakub, when we first started, we were doing, like, even bigger batches than we're doing now.
+
+**Jess Scott:** we're doing 10, at least 10.
+
+**Jakub Rudnik:** Yeah, and now that it's split up across the three different site sections, obviously less of a worry, there's, like, even.
+
+**Jakub Rudnik:** If it's manual, changing the data in four articles, so it's one each day, isn't that big of a deal.
+
+**Jakub Rudnik:** And then the only other thing I'd say is like, we can look at it, but they're like, we're, you know, Oh, the FAQ.
+
+**Jakub Rudnik:** Well, if you come to Bloglike, you don't even see the, I guess you could add this and probably be helpful here.
+
+**Jakub Rudnik:** But even if someone gets here, which most people don't get here.
+
+**Jakub Rudnik:** Where's here?
+
+**Jakub Rudnik:** Like, oh, sorry.
+
+
+**Carmel Schetrit:** So we have the new design coming out.
+
+**Carmel Schetrit:** And so when you say the FAQ, though, it means on the, each blog article or on the homepage of the blog?
+
+
+**Jakub Rudnik:** So for that, I mean, the bottom of each page having a dedicated section.
+
+**Jakub Rudnik:** me pull one up really quickly.
+
+**Jakub Rudnik:** This isn't like a new thing just with LM.
+
+**Jakub Rudnik:** Some sort of people are believing that these are.
+
+
+**Jakub Rudnik:** have this, the way that's marked up with schema.
+
+**Jakub Rudnik:** don't know.
+
+**Jakub Rudnik:** Thank
+
+**Jakub Rudnik:** To say FAQs, people are seeing this a lot in long tails, which are directly associated with Google's, what do people ask?
+
+**Jakub Rudnik:** That's what we have on the tools pages, no?
+
+**Jakub Rudnik:** Yep, yep.
+
+**Jakub Rudnik:** So I would want this implemented on the blog, and possibly even glossary, yeah, and then that would be something that we would need the development to be added to the site, so they're always there, and then we would need to update our atlas, so that way we're writing these for each page, and then probably retrofit as well.
+
+**Jakub Rudnik:** On my end, that's not a problem.
+
+**Carmel Schetrit:** I can have our developer just add that.
+
+**Jakub Rudnik:** Beautiful.
+
+**Jakub Rudnik:** Since he already did that.
+
+**Carmel Schetrit:** If you give me, though, so it's the same rules, though, apply as we have on the tools.
+
+**Carmel Schetrit:** We need to have a certain number of FAQs, and like a certain number of questions and answers.
+
+**Carmel Schetrit:** So we can copy, is it going to be different every time?
+
+**Carmel Schetrit:** No, we can work with that, like five, or whatever that number is.
+
+**Jakub Rudnik:** can just pick the exact number, do five, maybe.
+
+
+
+**Jakub Rudnik:** Just drop that in and let's do the same thing.
+
+**Jakub Rudnik:** mean, in theory, you could have separate, but it does not matter.
+
+**Carmel Schetrit:** I go back and change the existing articles?
+
+**Carmel Schetrit:** We would want to go and do that for existing articles.
+
+**Jakub Rudnik:** And I think Jess, we can work with, yeah, get a workflow to do that for existing, just for the FAQs.
+
+**Jess Scott:** Let's just speed that up.
+
+**Carmel Schetrit:** I'll chat with him about that.
+
+**Carmel Schetrit:** Beautiful.
+
+**Carmel Schetrit:** Thank you so much.
+
+**Jakub Rudnik:** And then to the number, think, largely, we're all in the same, or the date, we're all in the same field.
+
+**Jakub Rudnik:** But with the...
+
+**Jakub Rudnik:** Also, the read time, I feel like it's off.
+
+**Jess Scott:** That's too high.
+
+**Carmel Schetrit:** And it's not, I've, like, read them.
+
+**Carmel Schetrit:** They're not actually 10 minutes.
+
+**Carmel Schetrit:** Yeah, we need to flag that.
+
+**Carmel Schetrit:** That's definitely not 10 minutes.
+
+**Jess Scott:** Yeah, I flagged that to the publisher a while ago, Jakub.
+
+**Jess Scott:** I'll follow up and have him update it, and then I'll, we'll put a column in Airtable so that he's not.
+
+**Jess Scott:** up and and then I'll
+
+**Jess Scott:** So making that decision.
+
+
+**Jess Scott:** Let's take that too.
+
+**Jakub Rudnik:** Because if someone sees 10 minutes, it'd be easy to bounce potentially.
+
+**Jakub Rudnik:** So let's fix those.
+
+**Jakub Rudnik:** And then the last thing I wanted to say on the date is like, if you're coming even to the blog feed page, you don't see all the dates here.
+
+**Jakub Rudnik:** So the only way to see like this.
+
+**Jakub Rudnik:** them.
+
+**Jakub Rudnik:** I removed it because of the issue we were having.
+
+**Jakub Rudnik:** weirdness.
+
+**Carmel Schetrit:** Date isn't relevant, but it's in our design.
+
+**Carmel Schetrit:** Like it's not a problem to add it back.
+
+**Jakub Rudnik:** We're seeing and have heard from others like LMs aren't referencing anything over eight months.
+
+**Jakub Rudnik:** And then the, yeah, it's recent content both for your user and for Google and the LMs.
+
+**Jakub Rudnik:** So I would add it for those purposes.
+
+**Jakub Rudnik:** then.
+
+**Carmel Schetrit:** Can we have your publisher add it back or whatever your workflow, add it back to all the existing articles?
+
+**Carmel Schetrit:** That's what I was about to say, Jakub.
+
+**Jess Scott:** And when we add these FAQs and we're essentially going back in and like updating, do we want to use the refresh date so that.
+
+
+
+**Jakub Rudnik:** And I know that that's a weird thing with like.
+
+**Jakub Rudnik:** If everything's on one day, we published like 100 articles over a weekend at Scribe and never felt like any pain from that of like never got any comments, never had any drops and things.
+
+**Jakub Rudnik:** So I don't know.
+
+**Jakub Rudnik:** It's like one anecdotal piece, but I tend to find that people don't like see that date as much as we think that they do.
+
+**Jakub Rudnik:** They're often coming into that one article via Google and then they're like going to your product pages or something.
+
+**Jakub Rudnik:** then it's not impossible that they would see three, but there's it's more of a market.
+
+**Jakub Rudnik:** Marketers all feel that way.
+
+**Jakub Rudnik:** Just like had this conversation so many times.
+
+**Jakub Rudnik:** I think there's some realness, but we, we over index on that one.
+
+**Jakub Rudnik:** So, um, but if we do refresh a hundred, our blogs and add FAQs to them, we should consider the dates on that type of scale.
+
+**Jakub Rudnik:** Five, five, let's just do five.
+
+**Jakub Rudnik:** No problem.
+
+
+
+**Carmel Schetrit:** I will have, so you on my end for the date, you want me to have the design, uh, the developer just add back the date.
+
+**Jakub Rudnik:** Add it back in and we'll, if it needs to be added, we'll have the publisher do that.
+
+**Jakub Rudnik:** Or figure out a workflow, but just let us know if that, I don't know if that'll repopulate with those old.
+
+**Jakub Rudnik:** It's or what that is, but we'll, we'll take care of that.
+
+**Jakub Rudnik:** Will do.
+
+**Carmel Schetrit:** Last question I have for you very fast.
+
+**Carmel Schetrit:** So I mentioned to you guys in the past that we're going to be kicking off work with a Reddit agency that like helps plant comments and threads and stuff based on our behalf.
+
+**Carmel Schetrit:** I'm wondering though, so I've mentioned this to you guys too in the past.
+
+**Carmel Schetrit:** Reddit is like really where our community's at.
+
+**Carmel Schetrit:** There is super, super relevant threads on there and very relevant information for us.
+
+**Carmel Schetrit:** I've been spending the past few days, which is why I brought it up so many times, going through Reddit, going through the threads, reading what people are writing.
+
+**Carmel Schetrit:** Like it is very, very relevant.
+
+**Carmel Schetrit:** I'm wondering if there's anything we can do with your workflows to leverage that content and that data to help us with our roadmap for like some of our articles or some of our tools pages.
+
+**Carmel Schetrit:** It's gold.
+
+**Carmel Schetrit:** gold.
+
+**Carmel Schetrit:** It's
+
+**Carmel Schetrit:** Honestly, it just takes a lot of time to like scroll and read the stuff, but there's a lot of good  in there.
+
+**Jakub Rudnik:** It's a good question on the actual like individual articles, though.
+
+**Jakub Rudnik:** We started to do this with another client and I moved off, but like taking a Reddit thread and basically just turning it into an article.
+
+**Jakub Rudnik:** was like photo locations, like for wedding photographers, but it was like both of them as well.
+
+**Jakub Rudnik:** So how do we pull that out and extract?
+
+**Jakub Rudnik:** So just, I don't know if that's something that like.
+
+**Carmel Schetrit:** For all the guides, this could like theme a bunch of our guides.
+
+
+**Jakub Rudnik:** And so.
+
+**Jess Scott:** It might just be worth as we move forward with some of these keywords, just like plugging them even into Reddit.
+
+**Jess Scott:** And then because we've done, Carmel, I don't know if you remember, I want to say it was like almost like winter, spring.
+
+**Jess Scott:** We did like a subreddit scrape for topic ideas.
+
+**Jess Scott:** And that was like the subreddits that you were like finding a lot of nuggets in.
+
+**Jess Scott:** And then we scraped those for like topic ideas.
+
+**Jess Scott:** And then we went and did the keyword research and that fueled some of those.
+
+**Jess Scott:** Articles.
+
+**Jess Scott:** I'd be interested, Jakub, to check the timeline on when we did that, because it was way before you, but compare it to the growth that we've seen, because I'm wondering if, like, it's worth.
+
+**Carmel Schetrit:** That's affecting what's, yeah, yeah, because there's very relevant  on there.
+
+
+**Carmel Schetrit:** It's just super time-consuming on our end to, like, go through every single one, but I try, like, at least once a week to go and scrape myself, like, manually and look at all the different channels.
+
+**Jakub Rudnik:** Yeah, but we can do this.
+
+**Jakub Rudnik:** I'm just trying to think of it the best way.
+
+**Jakub Rudnik:** I think with the next article, especially, like, a software list or alternatives or something like that, there's always Reddit posts.
+
+**Jakub Rudnik:** Like, that's where I'll go.
+
+**Jakub Rudnik:** So we should, I think we need to do it, like, manually once and figure out what that looks like, and we can't just, like, dump it into Atlas and hope it works.
+
+**Jakub Rudnik:** So figuring out, like, if we pull this in, is that a matter of just extracting that and repurposing and, like, rewriting, but with, like,
+
+**Jakub Rudnik:** That's expertise.
+
+**Jakub Rudnik:** Is it a matter of like, do we like quotes pulling from Reddit of like here's specific tools and why and like actually just attributing and linking back like there's a couple of different ways to enrich, you know, a list that's like pretty generic otherwise.
+
+**Jakub Rudnik:** I think those I found some good, very good threads on there if you want me to send you as an example, actually send those over and maybe we can talk to someone internal like how we could even just turn that into an article.
+
+**Jakub Rudnik:** And like what that would look like, or if anybody else has done that, Jess, I think that's like a good conversation for the Emmys and Directors channel and see what others like.
+
+**Jakub Rudnik:** I feel like we've had a similar conversation many times.
+
+**Carmel Schetrit:** Reddit's also now like ranking really well on Google.
+
+**Carmel Schetrit:** Really well.
+
+**Carmel Schetrit:** So that's also why we decided we're going to go for this Reddit agency stuff too.
+
+**Carmel Schetrit:** But in general.
+
+**Jakub Rudnik:** It's one of the most cited like sources.
+
+**Jakub Rudnik:** So it's just like every Reddit is, I mean.
+
+**Jakub Rudnik:** That's where I started Googling with Reddit and the keyword, and that's where their partnership really has taken off.
+
+**Jakub Rudnik:** Okay, Jess, let's take that off my head.
+
+**Jakub Rudnik:** We can use Reddit just to figure out the exact way.
+
+**Jakub Rudnik:** think both for keywords like you've done before, but using it to enrich, especially these tool pages, makes a ton of sense.
+
+**Jakub Rudnik:** And so let's just dump that in, have that conversation with larger growthx folks and see what's out there, and then we can fit that to the content.
+
+**Jakub Rudnik:** But Carmel, if you have like, these are two awesome ones, let's use those as use cases.
+
+**Jakub Rudnik:** If you're familiar with those threads, they'd be topics we would want.
+
+**Jakub Rudnik:** And then I'll shoot over, there's just one random thing with Reddit that one of our other clients started just posting, but not to like subreddits, but just like on their profile, like making posts.
+
+**Jakub Rudnik:** And they've been indexed, and they appear in like LLM searches now, even because it's Reddit.
+
+**Jakub Rudnik:** Can you send me?
+
+**Jakub Rudnik:** Yeah, I'll link to it.
+
+**Jakub Rudnik:** I got a couple of notes to send over here after the call, but you can look at like the posts they've done.
+
+**Jakub Rudnik:** They have not all worked.
+
+**Jakub Rudnik:** I don't know if they'll last forever, but they've just like made basically like a software listicle.
+
+**Jakub Rudnik:** And then rank themselves first and post that to Reddit.
+
+**Jakub Rudnik:** And then it was appearing like the next day.
+
+**Jakub Rudnik:** And I forget which one, it wasn't all of them, but like some, and then they were being cited and others like crazy hack that will probably be close at some point, but let's I'm down to try it.
+
+**Jakub Rudnik:** Let's ride the wave.
+
+**Jakub Rudnik:** Yeah, so I'll send it over here.
+
+**Carmel Schetrit:** Perfect.
+
+**Carmel Schetrit:** Okay, great.
+
+**Carmel Schetrit:** This was excellent.
+
+
+**Jess Scott:** Let me know what could be, I've got to do's here, which is part of this.
+
+**Jakub Rudnik:** If there's others that trigger or you want to know something like, let's keep the conversation going and not just isolate it to this single week.
+
+**Jakub Rudnik:** And if there's additions for next time, let me know.
+
+**Jakub Rudnik:** Anyone else have anything?
+
+**Jess Scott:** No, I'm going to go talk to Becerra and get those two articles reworked as fast as we can so that we are on track for publishing.
+
+**Jess Scott:** And then the read times and the dates.
+
+**Jess Scott:** Yeah, I'll talk to our publisher and get those fixed.
+
+**Carmel Schetrit:** And I will do the same for the development stuff and the FAQs.
+
+
+**Carmel Schetrit:** Okay, perfect.
+
+**Jakub Rudnik:** All right.
+
+**Jakub Rudnik:** Thanks, guys.
+
+**Jess Scott:** See ya.
+
+**Jess Scott:** Talk soon.

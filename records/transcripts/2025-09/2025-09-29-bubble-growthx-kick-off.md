@@ -1,0 +1,1229 @@
+# Bubble <> GrowthX - Kick Off
+
+<metadata>
+date: 2025-09-29
+time: 17:30 UTC
+duration: 61 minutes
+organizer: George Haikal (GrowthX)
+participants: Deedi Brown (Bubble), Eunice Ahn (Bubble), Sara Merg (Bubble), Marcel Santilli (GrowthX), Erik O'Brien (GrowthX), George Haikal (GrowthX)
+fathom_recording_id: 90534486
+fathom_url: https://fathom.video/calls/425803309
+share_url: https://fathom.video/share/4BhtjsiAAfFwVsPpxfoH7Jy-MG3aqtxH
+source: fathom
+enriched_on: 2026-03-03 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX kicked off its strategic engagement with Bubble, an AI-powered no-code app development platform, to increase share of voice in a rapidly evolving competitive landscape (Lovable, Replit) and establish visibility for Bubble's unique full-stack capabilities that let builders switch between conversational AI editing and visual development. Bubble is launching major product updates in two weeks—conversational editing (Bubble AI Agent) and AI-generated mobile apps—and needs high-volume, quality content paired with strategic guidance as their small internal team (2 people) scales. The eight-week engagement will balance AI-generated content for volume with expert editorial pieces, while GrowthX develops foundational artifacts (writing guidelines, audience personas, company context) and an AI Visibility Dashboard to track Bubble's emerging position in "AI no-code" development.
+
+---
+
+## Context
+
+Bubble is a no-code/low-code platform that has evolved from a traditional visual app builder into an AI-first platform for building web and mobile applications. Founded and headquartered in Manhattan with remote employees across locations including Brooklyn and the Bay Area, Bubble previously worked with a traditional SEO agency for about 18 months, focusing on high-authority editorial content and category keyword strategy but lacking the content volume needed for a new competitive era. The industry landscape shifted dramatically when AI coding tools (Lovable, Replit) emerged as competitors, forcing Bubble to reposition itself as an "AI no-code" platform—a new category. Bubble's competitive moat is that it's the only platform enabling builders to switch between conversational AI editing and visual development for both front-end and back-end (whereas competitors lock builders into either pure chat or pure visual), and it includes the full infrastructure needed out of the box: database, workflows, APIs, security dashboard. The company is at a critical juncture described internally as "pre-product-market-fit again," with major launches in two weeks reshaping how they'll compete for the "first build" moment when new users choose a platform. Deedi Brown (Head of Content) and Sara Merg (Content Manager) lead content strategy for the company alongside Eunice Ahn (Marketing Analytics & Ops), but with only two content creators, they need external strategic support to move at the pace required by the AI market shift and board-level pressure to establish visibility in the emerging category.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Living document artifact pattern opportunity: comprehensive feature matrix for Bubble's capabilities (web + mobile, back-end, AI Agent, security, APIs) as a foundation for comparison pieces, landing page updates, and editorial content—requires constant updating as product launches roll out
+- Strategy challenge: balancing high-volume AI-generated content with expert editorial pieces in a fast-moving category where positioning shifts monthly; Bubble's small team will handle volume via GrowthX workflows while focusing on strategic pieces
+- Broader GTM pattern: Bubble's strategy mirrors other AI tools redefining categories (similar to how CheckThat positioned AI visibility); insights on category creation and defensibility relevant to GrowthX's own product positioning
+- Content quality calibration: first 4-week strategy sprint will establish "what good looks like" through competitive review and positioning approval cycles—foundational for scaling content production
+
+**To CheckThat / AI Visibility:**
+- Direct application: Bubble is optimizing for AI Visibility through content about its full-stack capabilities and position in the emerging "AI no-code" category; GrowthX will build prompts tracking Bubble's mentions alongside Lovable and Replit
+- Category definition: Bubble explicitly wants to establish "AI no-coding" as a distinct space where it's uniquely positioned; this mirrors AEO strategy of owning category definitions before competitors do
+- Competitor intelligence: Lovable and Replit are launching similar features and have higher current visibility; tracking their content and positioning provides CheckThat use-case validation
+- Prompt engineering: Sales objection documents, positioning guides, and feature matrices will feed into AI Visibility Dashboard prompts; messaging research will inform how to frame Bubble's strengths
+
+**To GrowthX Business Development:**
+- Account expansion signal: Eunice Ahn is tracking marketing analytics and CAC ($180-$200 for subscriptions); data requests suggest deeper analytics partnership opportunity beyond content strategy in future phases
+- Reference and case study potential: Bubble is a high-profile AI platform executing a major repositioning; success metrics (share of voice, first-build conversion, organic traffic from AI searches) could become a compelling GrowthX case study
+- Board alignment: CEO explicitly involved in strategy decisions ("pre-product-market-fit again" messaging); engagement has executive visibility and urgency
+- Volume and velocity: 8-week sprint is structured to generate early wins and momentum; team is highly collaborative and responsive, suggesting strong retention and expansion potential for extended engagement
+
+---
+
+## Overview
+
+- Bubble is transitioning from no-code to AI-powered app development, launching key features like conversational editing and AI-generated mobile apps
+- Main goal: Increase share of voice in new competitive landscape (Lovable, Replit) and win "first build" for users
+- Content strategy needs to emphasize Bubble's unique full-stack capabilities and visual development of both front-end and back-end
+- Team capacity (2 people) is main constraint; GrowthX to provide high-volume, quality content with strategic oversight
+
+---
+
+## Key Topics
+
+### Bubble's Product Evolution
+
+  - Shifting from no-code to AI-powered app development
+  - Launching conversational editing (Bubble AI Agent) in 2 weeks
+  - Introducing AI-generated mobile apps
+  - Only platform for building web and mobile apps with same back-end
+
+### Competitive Landscape
+
+  - New main competitors: Lovable and Replit
+  - Bubble differentiators: full-stack capabilities, visual development of front-end and back-end
+  - Need to establish presence in "AI no-coding" category
+
+### Content Strategy Goals
+
+  - Increase share of voice in new competitive space
+  - Win "first build" for users
+  - Defend and expand on existing comparison content
+  - Leverage AI-generated content for volume, focus on high-quality expertise pieces
+  - Integrate strategy across blog, social, YouTube, and potentially Reddit
+
+### Current Performance
+
+  - Majority of sign-ups and paid subscriptions come organically
+  - CAC for subscription: $180-$200
+  - Most users come through search, primarily branded
+  - Rise in traffic from AI-related searches (e.g., ChatGPT reflexes)
+
+### Key Metrics and User Behavior
+
+  - Week one retention (day 8) is crucial indicator of long-term users
+  - Users who engage with data tab (back-end) more likely to stick around
+  - Recent focus on "winning first build" to combat drop-off
+
+### Content Review Process
+
+  - Deedi or Sara to give first pass on positioning, voice, accuracy
+  - VP of Marketing likely to review initial pieces
+  - GrowthX to calibrate over 4 weeks to align on output quality
+
+---
+
+## Action Items
+
+**Deedi Brown (Bubble)**
+- Share updated positioning guide including new features (Bubble AI Agent, AI-generated mobile apps) with GrowthX team when ready
+
+- Share recent messaging research document with GrowthX team
+
+- Obtain and share sales objection one-pagers with GrowthX team
+
+- Provide GrowthX access to Google Search Console, Google Analytics, and CMS
+
+
+**Eunice Ahn (Bubble)**
+- Send updated CAC numbers and last month's paid marketing spend report to GrowthX team
+
+
+**George Haikal (GrowthX)**
+- Send "what we heard" summary and document requests to Bubble team
+
+- Develop writing guidelines, audience personas, and company context artifacts
+
+- Set up AI Visibility Dashboard with baseline metrics (aiming for week 2)
+
+- Share first draft of content strategy next week
+
+---
+
+## Transcript
+**George Haikal:** Hey, can you hear me?
+
+**Erik O'Brien:** Yep.
+
+**George Haikal:** I have like two Bluetooth headphones connecting, so they always try to jump each other.
+
+**Erik O'Brien:** just had to go old school with just the laptop.
+
+**George Haikal:** No Marcel on either of these, by the way, so it'll be us two on both.
+
+**Erik O'Brien:** Gotcha.
+
+**Erik O'Brien:** Thank you.
+
+**George Haikal:** Hey, Sara, how's it going?
+
+**Sara Merg:** Hey, how are you?
+
+**Sara Merg:** Sorry, it always takes a second to get Zoom up and running on my computer.
+
+**Sara Merg:** We're kind of a Google Meet company.
+
+**Erik O'Brien:** Ooh.
+
+**Sara Merg:** It's not going to be what's taking you a second.
+
+**Sara Merg:** I know.
+
+**Sara Merg:** Controversial.
+
+**George Haikal:** How are you guys? Nice to meet you.
+
+**Sara Merg:** Starting the week off strong.
+
+**Sara Merg:** Nice.
+
+**Sara Merg:** Where are you guys based, out of curiosity?
+
+**George Haikal:** I'm here in San Francisco.
+
+**George Haikal:** Our office is here in SF as well, yeah.
+
+**Sara Merg:** Cool.
+
+**Sara Merg:** Oh, there she is.
+
+**Sara Merg:** How about you?
+
+**George Haikal:** from the Bay Area originally, so.
+
+**George Haikal:** Oh, nice.
+
+**George Haikal:** Are you there now as well or no?
+
+**Sara Merg:** No, I'm in Brooklyn right now.
+
+**Sara Merg:** Bubble's headquarters is in Manhattan, but we have a lot of remote employees, Deedi included.
+
+**Sara Merg:** But I, you know, love California, so happy to hear that.
+
+**Sara Merg:** Nice.
+
+**Sara Merg:** Hi, Deedi.
+
+**Deedi Brown (she/her):** Hi, sorry I'm late.
+
+**Deedi Brown (she/her):** My Zoom needed to update.
+
+**George Haikal:** Of course.
+
+**Sara Merg:** I was having some similar.
+
+**George Haikal:** No problem.
+
+**George Haikal:** We can do Google Meet next time, you know.
+
+**George Haikal:** There's Eunice.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** Is this the team?
+
+**Deedi Brown (she/her):** Are we waiting for anyone else or should we?
+
+**Deedi Brown (she/her):** This is it for today.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** I mean, so I've heard a lot about you all from sales, but would love, I guess, a quick intro, maybe just really quick around so we can understand better.
+
+**George Haikal:** What you do, get to know you a little bit, and then Erik and I can go and we can kind of jump into the discovery part of it.
+
+**Deedi Brown (she/her):** Yeah, sounds good.
+
+**Deedi Brown (she/her):** So my name is Deedi, I'm head of content here at Bubble, which includes not just like the editorial and SEO side, but also pretty much copywriting in general, and also like our newsletters, and also social and video content falls under the content umbrella here, which is a lot of fun.
+
+**Deedi Brown (she/her):** That's a lot.
+
+**Deedi Brown (she/her):** Yes.
+
+**Deedi Brown (she/her):** We have like kind of one person, one person for each thing, which is great.
+
+**Deedi Brown (she/her):** Sarah, I will let them introduce themselves, but they make the magic happen.
+
+**Deedi Brown (she/her):** So I am really excited to kick things off.
+
+**Deedi Brown (she/her):** We are probably overdue to really start paying really close attention to AI search, not that we have been totally ignoring it, but we haven't really been doing much strategically from an SEO perspective for the past six months or so, I'd say.
+
+**Deedi Brown (she/her):** So really excited to get started with you guys. We have some really exciting product updates coming out in two weeks.
+
+**Deedi Brown (she/her):** So timing couldn't be better.
+
+**George Haikal:** Love it.
+
+**George Haikal:** Love it.
+
+**Sara Merg:** We met a second ago a little bit, but, and Deedee covered a lot of what our department does, but I'm content manager.
+
+**Sara Merg:** So I do a lot of the like day-to-day running of various like content platforms.
+
+**Sara Merg:** So I do writing and I work with our writers to do editing for our like newsletters, stuff on the blog, showcase.
+
+**Sara Merg:** And I'm also doing some copywriting on non-SEO landing pages and branded landing pages.
+
+**George Haikal:** Exactly.
+
+**George Haikal:** Nice.
+
+**Eunice Ahn:** Well, hey there.
+
+**Eunice Ahn:** I'm Eunice.
+
+**Eunice Ahn:** I handled the marketing analytics and ops side of things.
+
+**Eunice Ahn:** So anything related to supporting data, visualizations, kind of stuff.
+
+**Erik O'Brien:** And that's it from your guys' side, so yeah, Erik O'Brien, I'm an account strategist here at GrowthX, so I'll be working closely with you guys over the next eight weeks as we get through this first phase.
+
+**Erik O'Brien:** Strategy Sprint is really about kind of us getting calibrated on voice tone, making sure that we understand like what done is the definition of done, what good looks like from your guys' side, so very excited to get started with you guys.
+
+**George Haikal:** Yeah, I'm super, super excited.
+
+**George Haikal:** I've been doing a little research and just some of the clients we've put through this process.
+
+**George Haikal:** I think a lot of the learnings there, we'll be able to share, if not implement some similar strategies here.
+
+**George Haikal:** I mean, I would essentially just treat today and like maybe even the first two weeks as we don't know what we don't know and we want to dive in and become experts on every part of your business from that 60 page brand and positioning document you sent over which was fantastic. There are so many companies that don't have a source of truth like that and I just love reading through it. But yeah, experts on every part of the business and we'll do our best to jump in. This first call is discovery—broad by design. The questions we'll run through are probing and we'll dive deep on each section. We're basically trying to identify where do we need more information, who else do we need to talk to get more information, and then who on our team and what from our side is needed so we can make sure the next eight weeks go as smooth as possible and we can start getting some early wins and moving really fast. That's kind of the goal here.
+
+**Deedi Brown (she/her):** Yeah, let's do it.
+
+**George Haikal:** Cool.
+
+**Erik O'Brien:** So I just shared a link to this, which you guys should have access already.
+
+**Erik O'Brien:** If you don't let us know, we can add you.
+
+**Erik O'Brien:** But our collaboration space, so we do everything in Notion, so we'll be able to find documents, things we want for your review, so some of the artifacts that we'll generate this week.
+
+**Erik O'Brien:** Like George was saying, we have kind of client docs and shared files, which we have your brand voice positioning guide already stuffed in there.
+
+**Erik O'Brien:** Once we run performance, we'll keep performance updates located here.
+
+**Erik O'Brien:** And then, of course, any meetings we have will be in the meetings tab.
+
+**Erik O'Brien:** We'll have recordings, notes, everything stuck here.
+
+**Erik O'Brien:** So today we are starting with our kickoff, and we'll just dive into the Discovery Deep Dive.
+
+**Erik O'Brien:** So we just start, like George said, very broad by design with these questions.
+
+**Erik O'Brien:** But I wanted to just start with kind of what's driving this engagement now and kind of push you guys.
+
+**Deedi Brown (she/her):** To work with growthx.
+
+**Deedi Brown (she/her):** Um, yeah, so we have, uh, we have, had worked with a little bit more of a traditional SEO agency, um, it a small shop, um, that we just ended, um, I believe it was, it was a year and a half or two years there, I can't remember, but, um, I think it was two, well, it doesn't matter, um, year and a half, yeah, year and a half, I went on maternity leave in the middle of that, so time is really wiggly in my brain.
+
+**Deedi Brown (she/her):** Um, but we, uh, so we enjoyed working with them, they, they were great, and they were, um, really, mostly focused on kind of that really high authority, um, type of editorial content, um, that has, like, really high EEAT scores, and, um, then also did some, um, advising for us on, uh, keyword strategy for, um, like, SEO, like, landing pages, that we could try to, um, do, a little bit more, uh, compete a little bit.
+
+**Deedi Brown (she/her):** A bit better on category keyword search, like generic category keywords outside of branded, and it went pretty well, but obviously, AI disrupted in the middle of all this, and us being an AI company, essentially, we wanted to really start pushing the pedal on just the strategies that felt more future forward.
+
+**Deedi Brown (she/her):** You know, we wanted to make sure that we were future proofing ourselves, and in addition to focusing on the things that are still working today, and then also, just frankly, like our board is asking us, like, what are you doing, right, and we are, like I said, we are now at this point an AI company, and then, so the other important context, I would say, for recent is that the industry totally shifted, so you all probably have heard of Lovable and Replit, and those, I would say, are our main competitors these days, but a year ago, we were working on, like, we were really huge content street.
+
+**Deedi Brown (she/her):** We were
+
+**Deedi Brown (she/her):** Sweet, I should say, focus on an entirely different competitors set, like 20 different competitors in the no-code industry.
+
+**Deedi Brown (she/her):** And so we're really moving into this new era where we have gone from, like our CEOs say that we're pre-product market fit again, almost.
+
+**Deedi Brown (she/her):** We have some major product launches that are happening in two weeks that will compete with that.
+
+**Deedi Brown (she/her):** So namely, we are launching conversational editing, which we're calling the Bubble AI Agent.
+
+**Deedi Brown (she/her):** So that will essentially allow you to like chat the way that people are used to with Lovable, but it's doing it in Bubble and not in code, which we still believe is, you know, a massive, like it's fixing the problem rather than putting a Band-Aid on the problem of you not knowing how to code.
+
+**Deedi Brown (she/her):** So we are really excited about that.
+
+**Deedi Brown (she/her):** We're also next week launching AI-generated mobile apps, which like we have AI-generated apps, web apps now.
+
+**Deedi Brown (she/her):** And earlier this year, we launched native mobile.
+
+**Deedi Brown (she/her):** We're the only...
+
+**Deedi Brown (she/her):** It's the only platform that lets you build web and mobile apps with the same back-end, even if you know how to code, which is actually huge.
+
+**Deedi Brown (she/her):** So we've got all these product updates coalescing.
+
+**Deedi Brown (she/her):** We have jumped industries.
+
+**Deedi Brown (she/her):** We are shifting how we identify ourselves.
+
+**Deedi Brown (she/her):** We're trying to establish, like, a smaller section of the industry, that being, like, AI no coding, which I, that's not what we're calling it, but, right, like, vibe coding, but with no code, which we're calling, which we're still figuring out exactly what we want to call.
+
+**Deedi Brown (she/her):** So all of that to say, we've got some competitor comparison pieces on the blog, which we have seen being quoted by AI Search.
+
+**Deedi Brown (she/her):** We need to update those, I'm sure, and we need to defend that and go beyond that.
+
+**Deedi Brown (she/her):** So that's, like, a high-level, a high-level brain dump of, like, what's moving.
+
+**Deedi Brown (she/her):** That's relevant and urgent, but if I missed anything, Sara or Eunice, definitely jump in.
+
+**Sara Merg:** That feels like a pretty good, like, starting point.
+
+**Sara Merg:** That feels like the umbrella to me.
+
+**George Haikal:** Yeah, that was very helpful.
+
+**George Haikal:** I mean, a lot to dig into.
+
+**George Haikal:** They're all good things.
+
+**George Haikal:** I guess what, besides the AI visibility piece, like what was not working really well with the prior, like, agency?
+
+**George Haikal:** Or what would you have liked to see more of?
+
+**George Haikal:** I remember the sales notes, like, maybe volume, more volume, but just to help me understand that a little bit.
+
+**Deedi Brown (she/her):** Yeah, I mean, I think we just think it's a fact that we need to do a higher volume of content.
+
+**Deedi Brown (she/her):** And so, but that's not necessarily, I mean, it would have been a cost prohibitive to do it with them that way.
+
+**Deedi Brown (she/her):** But that's more because I recognize that that is, like, strategy for this.
+
+**Deedi Brown (she/her):** Type of visibility versus, like, I was unhappy with those because we didn't have the capacity to post that many, like, to edit and post, right, like, we were also a bottleneck there.
+
+**Deedi Brown (she/her):** So we know we want a higher volume of content, and so I want, like, I kind of want to use, like, the AI-generated stuff to be, like, to pay the bills, if that makes sense, so that we can have time to focus on that, like, higher quality expertise type of editing.
+
+**Deedi Brown (she/her):** We content that we, like, actually care about while using your platform to make sure that we're just, like, covering our bases, yeah, covering all the, all the other bases that, like, really, like, nobody, it's not art, basically, right, and so that, and then the other thing, which I chatted a lot about with the sales team, and I really want to make sure that I, like, get a, like, I don't, that we don't lose this, and that I get an understanding of how this is going to work, because we went back and forth on that.
+
+**Deedi Brown (she/her):** So W a lot about what types of content you all are going to be creating, which is like largely editorial, but we, like I, it feels very important to me that we are not just like, oh, we're just publishing a bunch of blog content and that's our strategy because like I mentioned in the beginning, the content team oversees so many different services, including social, which is becoming so much more important in AI search, and including YouTube, which is obviously really important.
+
+**Deedi Brown (she/her):** We don't have a Reddit strategy.
+
+**Deedi Brown (she/her):** I want to make sure that what we're doing here is cohesive and takes all of those services into account, even though like I'm not expecting you all to create YouTube content.
+
+**George Haikal:** For example, I want our strategy to include what we, what my team should be doing on YouTube in order to like be comprehensive with the like editorial work that we do with you all.
+
+**George Haikal:** That makes sense.
+
+**George Haikal:** Yeah, that makes sense.
+
+**George Haikal:** We can think through it.
+
+**George Haikal:** mean, I know overall, for us to make the most amount of progress, right, we like focusing on a few different lanes.
+
+**George Haikal:** Is that this next week or two is intended to shape, right?
+
+**George Haikal:** So understanding what's most important to you, like what you just told me, we'll create a strategy that is, hey, this is everything that we want to do, and where we think will have the most impact, and then those other aspects of your team is pretty helpful.
+
+**George Haikal:** YouTube, Reddit, like, are you more so trying to understand what we can help them, help tell them to do or enable them to do, to kind of, like, rising tide lifts all ships on the AEO front?
+
+**Deedi Brown (she/her):** Yeah, just want to make sure that the strategy is, right, and because, because I, the reason why we went with you guys, frankly, is because you are also an agency, like, if we just wanted to put out, like, a high volume of content, I could have done that a hundred different ways, right, and, but I was like, I need, I want a team, a strategy team who's thinking about this, like, beyond just, like, oh, let's put out a bunch of blog content, like, fine, let's put out a bunch of blog content, but I actually, like, really, like, my heart doesn't care about that very much, right, like, we just have to check it off, so.
+
+**George Haikal:** Yeah, no, mean, 100%, I mean, like, so.
+
+**George Haikal:** Oh, three months ago, worked with Bolt briefly, and for them, right, just to kind of speak to not just a volume approach, like, we went in, analyzed all the prompts, session, user data to understand what people are actually trying to build and what their LTV is, like, where the most value is, and then prioritized our strategy based on those templates that we built for them.
+
+**George Haikal:** We did a programmatic play there.
+
+**George Haikal:** So, like, we definitely think through end-to-end, what has the most impact, what do you all care about, and that goes into our strategy.
+
+**George Haikal:** And so, again, the first week, week and a half, we'll start shaping it, and then we'll deliver, like, a super comprehensive strategy, and then that's what we execute against every week and report on, and we're, like, on Slack all the time with you all.
+
+**George Haikal:** So we really want to be an extension of your team as well, and, yeah, we're not just here to post either.
+
+**George Haikal:** Like, we definitely want to, you know, set the strategy and then continue to iterate on it week over week, because what we see is, like, the more we can iterate on what's actually working and then double down the efforts, like, that's where you get the best results.
+
+**George Haikal:** Not just setting a strategy and then just pressing buttons.
+
+**George Haikal:** And, like, executing, it's really when our customers are, like, collaborative with us and then we can iterate week over week is where we see the best results.
+
+**George Haikal:** completely aligned there.
+
+**Deedi Brown (she/her):** Well, last thing I'll just say is that I know that a lot of our content needs to be updated, especially with our product releases.
+
+**Deedi Brown (she/her):** Like, basically, there's probably a ton of stuff that doesn't even have mobile in it, right?
+
+**Deedi Brown (she/her):** Like, we are actually, like, a really different company than we were eight months ago.
+
+**Deedi Brown (she/her):** So besides, like, things needing to be updated for, like, freshness sake, which I know is a really big deal, I guess I would be interested to hear, because I know that's important, but I also want to make sure that we're being mindful of, like, the types of work that you all do and making sure that we're putting resources in the right place.
+
+**Deedi Brown (she/her):** So if, like, you guys find that that needs to be done, but that's something that we can, like, I don't know, use Claude to, like, try to do really quickly on our own instead, like, I would love to, like, hear about that, too.
+
+**Deedi Brown (she/her):** Like, don't want you guys to just be updating all our stuff, basically, is what I'm saying.
+
+**George Haikal:** Yeah, no, mean, we'll do a deep dive on your website, site audit, all that, understand which of the existing pages should be pruned, should be updated, and how to prioritize based on the search volume and all the other metrics there.
+
+**George Haikal:** And, I mean, what we've done is a split, right, in between, like, half refreshing existing content that we think will perform well, because they're getting a lot of impressions or whatever the numbers we're looking at are, and then net new content as we're calibrating.
+
+**George Haikal:** And so, that has helped, because as we're refreshing content, we're also learning a lot about your business, and we're creating these artifacts that are, like, foundational to how you want to sound.
+
+**George Haikal:** And you signing off on a refresh is basically us understanding what great looks like or good looks like on your end.
+
+**George Haikal:** So, it's complimentary, and so we'll go through all that this week as well.
+
+**Deedi Brown (she/her):** Sounds good.
+
+**George Haikal:** Cool.
+
+**George Haikal:** Yeah, Sara?
+
+**Sara Merg:** If I could just add, like, Dee, tell me if this feels right to you, but I think, like, part of our, not even, like, as an issue,
+
+**Sara Merg:** Issue with our previous SEO agency, but I think, like, they really were coming at it from, like, a kind of a traditional SEO approach, which I think, like, we don't want to, like, discount, but I think it was kind of really illustrated by the, like, of all the competitor piece suites that we had, whereas, like, by the time we were finished with those, we had, like, moved into a totally new brand of, like, competitors because, so I think something that I have, like, been trying to keep in mind is, like, how we can be kind of, I don't even know what the word is, like, mobile, like, like, adaptive in a way that feels, like, quick and, like, on time, so we're not, like, playing catch-up, and it feels like we're kind of more at the, at the front of the pack rather than, like, running alongside or behind.
+
+**George Haikal:** Because everything's moving so fast.
+
+**Sara Merg:** Yeah, exactly.
+
+**Deedi Brown (she/her):** Yeah, that's, like, particularly true in our industry.
+
+**Deedi Brown (she/her):** It's a really good call-out.
+
+**George Haikal:** Yeah, I mean, that answer changes based on the type of content that's being created, but what, what I've said
+
+**George Haikal:** We work well with, you know, AI app development tools is, like we're working on one right now, is like a comprehensive feature matrix, like what are all the features of Bubble, price, all the capabilities, et cetera, so like that's one foundational artifact that when you layer the other ones on, you can build comparison pages from, you can reference in like all the other editorial content, and that is like a living document that we constantly update and check against, and so I know you have some info on, in the positioning guidelines, I haven't checked for like how in depth the feature set is on that, but that's a way that we constantly try to stay ahead and like have these living artifacts that we can just come in and update and get your sign up on.
+
+**Deedi Brown (she/her):** Yeah.
+
+**Deedi Brown (she/her):** Got it.
+
+**Deedi Brown (she/her):** Also, that positioning guide is like, we will have a new version of it for you with the new features that we're launching, like very soon.
+
+**George Haikal:** Great.
+
+**George Haikal:** Great.
+
+**George Haikal:** You guys are super on top of it.
+
+**George Haikal:** love it already.
+
+**George Haikal:** Like the questions you're asking me are fantastic.
+
+**Deedi Brown (she/her):** You've been through this before, clearly.
+
+**Erik O'Brien:** We'll skip two for now.
+
+**Erik O'Brien:** I just want to touch on three.
+
+**Erik O'Brien:** So what's kind of, what pressures is leadership feeling are kind of most important to them?
+
+**Erik O'Brien:** Like what specific outcome kind of in the next six months of working with GrowthX?
+
+**Erik O'Brien:** Would you say like we nailed it?
+
+**Deedi Brown (she/her):** The biggest thing right now is share voice.
+
+**Deedi Brown (she/her):** So we are, we went from being the most dominant player in our niche to a new niche where we are forgotten in the option set almost all the time.
+
+**Deedi Brown (she/her):** And so I think that visibility of being like considered when people say, when people talk about like tools that let them use AI to build their own apps, that it's lovable in Repload and Bubble, for example, or whatever, right?
+
+**Deedi Brown (she/her):** Like we just need to reestablish ourselves in this new industry.
+
+**Deedi Brown (she/her):** And that's just far and away the most important thing.
+
+**George Haikal:** Yeah, that makes sense.
+
+**Deedi Brown (she/her):** I would say, like, product-wise, right now our team is really, what they're, the words that what they're using is focusing on winning the first build, AKA, like, where do people start?
+
+**Deedi Brown (she/her):** And a lot of the time they will come, like, without the AI conversational editing that we're about to launch, you know, it's, they can use AI to generate the app, but the learning curve after that, while it's like so much shorter than learning how to code, is now nowhere near the fastest.
+
+**Deedi Brown (she/her):** We used to be, it used to be the fastest, like, viable option, and now people are just so used to that, like, UX of being able to chat with AI to make changes.
+
+**Deedi Brown (she/her):** And so that's when they, why they talk about us being sort of pre-marked product market fit again.
+
+**Deedi Brown (she/her):** And we're, like, sprinting to, like, close that gap, which, like I said, we are really excited to launch in a couple weeks.
+
+**Deedi Brown (she/her):** But yeah, so that idea of winning the first build.
+
+**Deedi Brown (she/her):** And, you know, we want to make sure that people find us and, you know, don't get scared off at the very beginning by the learning curve and that we're really visible at the top of the funnel.
+
+**George Haikal:** Mm-hmm.
+
+**George Haikal:** And kind of on that and then jumping back up to the other question, like, who, you know, I understand the breakdown of, like, solopreneur, developers trying to build SaaS or internal tools.
+
+**George Haikal:** Like, I'm pretty familiar with the breakdown of common people slash personas trying to build these tools.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Like, does Bubble fall into a similar set?
+
+**George Haikal:** I read through the ICP that you've written out somewhere different.
+
+**George Haikal:** Like, is there an area where you play better right now or where you want to have more of an impact in the future?
+
+**George Haikal:** Or does it kind of fall into those similar buckets of?
+
+**Deedi Brown (she/her):** Um, I mean, I think it's a similar bucket.
+
+**Deedi Brown (she/her):** Really, our, like I said, like, our differentiator is that we are, we will be the only, we, uh,
+
+**Deedi Brown (she/her):** The only platform that lets you switch back and forth between chatting with AI and visual development beyond just like the font colors, but into the like database and the workflow logic that like powers the app, all of that is developed individually.
+
+**Deedi Brown (she/her):** And so you are able to like switch back and forth as you need to between chatting with AI and pointing and clicking.
+
+**Deedi Brown (she/her):** And we're going to be the only ones that will let you do that and the result is that you can like actually launch like really big apps like right now the bubble is popping around vibe coding because everybody's realizing that you just can't like launch something real.
+
+**Deedi Brown (she/her):** It's really just good for prototypes and then you just you fall into like these infinite prompt loops, you can't like get it to do exactly what you want so you settle or like you've got all these security vulnerabilities.
+
+**Deedi Brown (she/her):** Um, and so, um, really like launch launch real apps like that's the that's the nexus of it.
+
+**George Haikal:** And who are you finding that that helps the most?
+
+**George Haikal:** Or that?
+
+**George Haikal:** It will help the most.
+
+**Deedi Brown (she/her):** People who want to, like, people who are not just tinkering, I would say, I would say tinkerers, we would welcome tinkerers, but they're, they're definitely not our, right, our, our core people.
+
+**Deedi Brown (she/her):** We're looking for, we're, we're best for people who are trying to launch something viable.
+
+**Sara Merg:** Yeah, I would say like found, like found, like solo founders, first time founders, more so than people who are experimenting.
+
+**Sara Merg:** I think we have labeled those as like non-technical founders, but I think our language on that has, has shifted a bit, but I think if you want to talk like who that is, I think that, that probably sums it up most succinctly.
+
+**Deedi Brown (she/her):** Yeah, but also like, I think more and more it's going to be people who are like maybe building a tool for themselves to use at work that they need to get through security review or whatever, right, so.
+
+**George Haikal:** Yeah, so not externally communicating as for non-technical, but like it's a known that obviously that's a big differentiator, right?
+
+**Deedi Brown (she/her):** Yeah, I mean, we're not like calling people non-technical founders when we address them.
+
+**George Haikal:** But I don't think people would be surprised to hear us say that we use that word.
+
+**Deedi Brown (she/her):** We just have, like, we used to, like, really over-index on founders.
+
+**Deedi Brown (she/her):** would say, like, it was, like, 75% founders and 25%, like, people who are building at work or whatever.
+
+**Deedi Brown (she/her):** And then we also have, there's an entire ecosystem of bubble developers, like, the entire industry of agencies that we also, so those are people we often call developers, but what we really mean by that is, like, freelancers, agencies, people who are building professionally.
+
+**Deedi Brown (she/her):** But now we have shifted our language to talk about builders in general because we want to have a much more even sort of emphasis on that idea of, like, individual founders, but people, also people building at work or, like, what have you.
+
+**George Haikal:** And sorry, I'm digging so deep here, but, like, so of those customers right now, like, when you're doing user interviews or when you're analyzing kind of the data, like, what are they switching from?
+
+**George Haikal:** Like, and what are the reasons why they're stretching?
+
+**George Haikal:** Switching, so it's either someone who hasn't used a tool before that wants to get something done, they come to Bubble, or they're switching from an existing solution, right, like a lovable, a Bolt.
+
+**George Haikal:** And, like, why are they choosing you all over those two, or the other competitors?
+
+**George Haikal:** Same thing, they run into the prompt loops and, like, it's actually not deployable and there's way more issues than they thought, or, like, what are you seeing?
+
+**Deedi Brown (she/her):** Yeah, I think so.
+
+**Deedi Brown (she/her):** mean, like, we're in the middle of writing the keynote for this, um, launch event that's in a couple weeks.
+
+**George Haikal:** Those are in Europe, by the way, those events.
+
+**Deedi Brown (she/her):** Um, and so, so yes, like, you have people who are coming to us from, like, a lovable or something like that, and they just, like, they just got stuck.
+
+**Deedi Brown (she/her):** They, like, realized that it wasn't going to be the infrastructure that they needed.
+
+**Deedi Brown (she/her):** Bubble is also something that we say internally a lot, is that it's batteries included, comes with the back end, it comes with the workflows, comes with the API.
+
+**Deedi Brown (she/her):** It connector, it comes with the security dashboard.
+
+**Deedi Brown (she/her):** Like, don't have to, like, you literally don't have to, like, link any other tools to Bubble, um, in order to
+
+**Deedi Brown (she/her):** So, like, maybe they went to use whichever one of it, like, what, you know, they're like, oh my gosh, like, I have to connect to this, like, super-based thing, like, this is complicated, right?
+
+**Deedi Brown (she/her):** Or they're getting stuck in prompt loops.
+
+**Deedi Brown (she/her):** But then I think, like, you also have, like, the people who have always found us, who were founders, who, like, have often come to us from the other angle, where they were like, I have a business idea, and they assumed that they would need to hire a team of developers, and they were like, I can't afford to do that, there's no way.
+
+**Deedi Brown (she/her):** So then they start Googling, how do I do this myself?
+
+**Deedi Brown (she/her):** And they come across Bubble.
+
+**Deedi Brown (she/her):** And so I think that those are overlapping more these days, and I think that, like, Lovable's, like, virality has helped us in many ways, in that now people know that they can do it themselves, whereas before, a lot of people just didn't know that there were solutions out there that would allow them to build these tools themselves.
+
+**Deedi Brown (she/her):** So I think people still come at it this way, but I think from a positioning perspective, we're really, really focused on...
+
+**Deedi Brown (she/her):** Those people who are, who are coming from like a vibe coding tool.
+
+**George Haikal:** That's helpful, really helpful. Yeah, it's interesting because Bolt and Lovable have a lot of the same customer base, but sometimes the niche problems that you're solving are where you're really best or why they're coming is a really big differentiator. It's basically like a top of funnel thing. Like, why do people want to find you? What problems are they facing? Where they're searching for a solution that's different than what they're already using. So that's really good to kind of get right at the beginning or align on or speak about in content.
+
+**Deedi Brown (she/her):** I really think we're the only ones who are different from all of them in a way that they are not different from each other.
+
+**George Haikal:** It's so hard as someone who's played around with these tools and worked with them on their marketing to get that information right now if it's not right in front of your face. And that's what I'm thinking through—which is a good problem because it means there's a lot of opportunity for this. You're kind of just flooded with marketing and everyone trying to make it sound much easier than it is with cool visuals or videos, but some of it is lacking substance. This is really good.
+
+**George Haikal:** Okay, let's see Erik, anything else on the customer side or?
+
+**Erik O'Brien:** I think we answered most of these just through that kind of discussion there.
+
+**Erik O'Brien:** I just want to go back up to number two.
+
+**Erik O'Brien:** So if we interviewed your best three customers or so, not biggest but just best ones, what would they say you're uniquely good at?
+
+**Erik O'Brien:** I think we have like the future looking, you know, we'll be the only...
+
+**Erik O'Brien:** We'll
+
+**Erik O'Brien:** Platform with AI editing and visual editing, but like if they were to talk to him today, what would they say?
+
+**Deedi Brown (she/her):** I think it's also the full stack, full stack batteries included.
+
+**Deedi Brown (she/her):** Yeah.
+
+**Deedi Brown (she/her):** Um, you know, I, obviously we wouldn't want to say this, but we've heard people say like, oh, like bubbles, like front end is not the best one.
+
+**Deedi Brown (she/her):** It's back end is not the best one, but they're the only ones who do all of it.
+
+**Deedi Brown (she/her):** And they like the way that they connect those things is the best out of all of them.
+
+**Deedi Brown (she/her):** And so, um, it's, it's that like full stack, I would say.
+
+**Deedi Brown (she/her):** Um, and then I don't know.
+
+**Deedi Brown (she/her):** I feel like those two are like the really, the big things.
+
+**Deedi Brown (she/her):** Um, oh, and maybe, uh, they would also talk about like the size of the bubble community.
+
+**Deedi Brown (she/her):** I mean, we've got an entire industry built on top of our product and an unbelievable number of people online who are extremely passionate and sometimes too passionate for our liking, right?
+
+**George Haikal:** They're like, oh, nobody reads everything.
+
+**Deedi Brown (she/her):** And I'm like, no, we've got people who read everything, actually, but, like, that's not to be discounted.
+
+**Deedi Brown (she/her):** Like, our forum is just massive and, like, actually something that I would really be interested to hear y'all's thoughts on whether or not we can be leveraging that in, like, a Reddit type of way for AI.
+
+**Deedi Brown (she/her):** Visibility as well, but, um, yeah, Twitter, the forum, it's, yeah, it's awesome.
+
+**Sara Merg:** Fantastic.
+
+**Sara Merg:** I think one piece we've covered in the AI and conversational editing bucket of what we do best is something we've been trying to tinker with on a messaging level. Yes, you can switch between when you need, but it's also giving you control instead of settling. When you jump between wanting to do exactly what you want versus having to pick one and settle with the results, that's the idea. That's the nitty-gritty of why we're harping on AI editing and visual editing at the same time.
+
+**Sara Merg:** It's that, like, switch between the two.
+
+**Deedi Brown (she/her):** Right.
+
+**Deedi Brown (she/her):** For control.
+
+**Sara Merg:** Yeah, I think some of our messaging research is, like, and precision or something, something along those lines.
+
+**Deedi Brown (she/her):** Yeah, we recently, like, did some research I can share, I can share those, that document with you all, too.
+
+**George Haikal:** Yeah, that'd be helpful.
+
+**George Haikal:** I mean, anecdotal, of course, but, like, when I'm in a Lovable or Bolt and there's this one visual piece of, like, the website I'm trying to build and I click into it and I try to edit it with a prompt and I...
+
+**Deedi Brown (she/her):** We it 10 times and nothing happens, like just showing that next to it actually working in Bubble, like that is the most frustrating, it's like the smallest piece of this project you're building, but not getting to write is so frustrating.
+
+**Deedi Brown (she/her):** Right, but you can just click on it, right?
+
+**Deedi Brown (she/her):** Like in Bubble, you can literally just click on it and change it.
+
+**Sara Merg:** I think something also that we've been talking about is like on the prompting side of things, you can be like, I want to change that button, so it's like, change all the buttons so it's blue, like you want like whatever, Lovable Bolt to be able to do that.
+
+**Sara Merg:** But I think we're also talking about like the visual editing of like the back end as well, which I think sometimes gets lost when we say like visual editor, I think people just assume the front end.
+
+**Sara Merg:** But the idea is that like you can edit the logic visually as well, so you can go back and eventually go back and forth with the AI and the visual editor to do like, not just like I want the button to change, but like I want to change what the button is doing and how it's like functioning.
+
+**Deedi Brown (she/her):** And the database fields that exist, right?
+
+**Deedi Brown (she/her):** Like you can add like new database fields, linking database fields, like it's
+
+**Deedi Brown (she/her):** Not just the design of this.
+
+**Deedi Brown (she/her):** It is like literally, literally a programming language.
+
+**Sara Merg:** Yeah, I think the visual editing of it all, like I think visual, like Loveable sort of did us a favor when they called it visual editing.
+
+**Sara Merg:** But I think something that we've been like trying to test and stuff is how to convey that we mean front-end, back-end visual editing, not just front-end.
+
+**Deedi Brown (she/her):** Right.
+
+**Deedi Brown (she/her):** Which is why we're like kind of leaning toward this phrase of visual development, visual programming.
+
+**Sara Merg:** Yeah, because I think like visual editing on the front-end is kind of like, I think, what does Becky call it, Deedi table stakes, where it's like, yeah, you kind of expect that you should be able to edit the front-end, but like if it didn't, that would be kind of, it wouldn't, you wouldn't be an option, but I think like not everyone can say the same on the back-end of things.
+
+**George Haikal:** That's super interesting, and it's down the line, but I think maybe helpful.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** One to to mention is what we've done in the past is just something as simple as like prompts we understood why people were churning from Bolt like what they were prompting and where they were messing up when they were trying to build whatever they were trying to build was and then we created these essentially educational starter kit templates that explained the different sections of the prompt and what they actually do and then there was like a remix button where you could just one shot it and then go make your edits and so like helping educate the market on this like visual development term but also showing it and then creating these tools, pages, whatever it is to like help educate people on the different steps that they can take or how to actually do it could be like a really, really cool option.
+
+**George Haikal:** create like a library of these how-to guides, templates, whatever it is and then that becomes like a whole loop in itself.
+
+**George Haikal:** People are trying to build these things, you show them how to, they go into the tool and start building them and then they run into different problems that you also have the solutions for so it's a really good way to like interlink.
+
+**George Haikal:** I think that's just one thing that we've done in the past.
+
+**Deedi Brown (she/her):** Yeah, so we actually have like 60-something how to build XYZ blog posts, and they all need to be updated because they all, first of all, they have an outdated screenshots of the editor, but none of them involve AI, I'm kind of like waiting because, well, also like one thing to note is that we are releasing like an overhaul of the property editor, so like the actual interface that you like visually edit with, like kind of like, I don't know, the sidebar on Figma, for example, like later this year.
+
+**Deedi Brown (she/her):** So that's also kind of like something that feels like a little bit silly to like record too much educational content before that changes, but like that is something that I want to, like what they are right now is like really long blog posts with screenshots of like tutorials, and I want a video tutorial embedded at the top with like a summary at the bottom, right?
+
+**Deedi Brown (she/her):** Like, so like that, that's something that like I would absolutely put under this kind of bucket is like that overhaul of our how to build series.
+
+**George Haikal:** Also like getting rid of
+
+**George Haikal:** The ones that we don't want, like, prioritizing which ones we should be updating, and then, like, which ones we want to do now.
+
+**George Haikal:** Makes sense.
+
+**Deedi Brown (she/her):** What's the tag on the blog, Sara?
+
+**Deedi Brown (she/her):** Because there is bubble.io slash how dash to dash build, and that has some of them, but it's also on the blog.
+
+**Deedi Brown (she/her):** They're, like, got, got, got, what are they got?
+
+**Sara Merg:** Tutorials would have them all.
+
+**Sara Merg:** Uh, sometimes they're cross-tagged with guides, um, but tutorials should link you to the how-to-build page.
+
+**Erik O'Brien:** Um, any common objections you guys hear from customers about maybe when they're evaluating or if they choose not to move forward with bubble?
+
+**Deedi Brown (she/her):** Um, I think, well, right now, it's that we don't have conversational editing.
+
+**Deedi Brown (she/her):** Um.
+
+**Deedi Brown (she/her):** So, obviously, we're trying to address that.
+
+**Deedi Brown (she/her):** There is a massive perception out there that you cannot build a serious app on no-code, which is funny given Vibe Coding's rise because you most certainly can build a much more viable app on no-code than you can on Vibe Coding.
+
+**Deedi Brown (she/her):** But I will say that some of our really big enterprise customers, you can launch a serious app, We have a case study with a guy who solo built an app that has a million users.
+
+**Deedi Brown (she/her):** But if we're being honest, there are some limitations when you get to a massive size that often makes it make more sense to connect to different backend, which you can do, but you don't have to do, right?
+
+**Deedi Brown (she/her):** Or those kinds of things.
+
+**Deedi Brown (she/her):** So, I think we're, like, really good in the middle, right?
+
+**Deedi Brown (she/her):** But, like, at that first build, like, right now, we're, like, competing with this lovable and then, like, you get, but,
+
+**Deedi Brown (she/her):** Or if you're trying to go out and, like, raise, like, serious money, there are going to be investors out there who will see it as a liability that you're built on no-code and you don't own your code base.
+
+**George Haikal:** And then, like, how do you overcome those?
+
+**Deedi Brown (she/her):** Someone who tells you that.
+
+**Deedi Brown (she/her):** With, I mean, our sales team has, like, a lot of, is equipped with, like, a lot of the talking points there, and I can certainly grab some of those one-pagers.
+
+**Deedi Brown (she/her):** But, you know, we're SOC 2 certified, we have customers who are massive, right, who are succeeding on no-code, so I think that it's just, like, a lingering perception out there of, like, code purists, right, or people who believe that you should be, like, you know, hiring a developer team to, like, do the thing right, right, but, yeah, I can definitely grab some of those one-pagers from sales.
+
+**George Haikal:** That'd be helpful, yeah, I mean, any materials you all can throw at the fans.
+
+**George Haikal:** We can ingest, take in, and it's going to help when we're building out our artifacts, so super helpful.
+
+**George Haikal:** Is there a moment in time, and the only reason to bring this up is because, like, with Bolt, for example, there was, like, a number of prompts that if a user hit that number and exceeded it, so, like, let's say over 10 prompts, they were way more sticky, they spent way more money.
+
+**George Haikal:** Like, do you have a similar?
+
+**Deedi Brown (she/her):** That is a nice question, because I know there is one, but I forget which one it is.
+
+**George Haikal:** No problem.
+
+**Sara Merg:** And it's, like...
+
+**Sara Merg:** We can get back to you, definitely.
+
+**Deedi Brown (she/her):** Yeah, that'd be great.
+
+**Deedi Brown (she/her):** That you just know.
+
+**George Haikal:** It's beyond just a number, because we can figure out all the steps that they...
+
+**George Haikal:** Everything that has to fall into place for them to get to that point, and then we can build and create content solving each problem in those stages, which is why I ask.
+
+**Eunice Ahn:** Yeah, that...
+
+**Eunice Ahn:** Yeah, I definitely...
+
+**Deedi Brown (she/her):** Like, is it not, like, day, like, week one retention, or...?
+
+**Eunice Ahn:** Oh!
+
+**Deedi Brown (she/her):** Oh!
+
+**Deedi Brown (she/her):** That's the question.
+
+**Deedi Brown (she/her):** Sorry, I thought...
+
+**Eunice Ahn:** Yeah, what's our, what's our, like, what's the point at which we know that people stick around?
+
+**Eunice Ahn:** It's, it's week one retained.
+
+**Eunice Ahn:** Um, yes.
+
+**Eunice Ahn:** So it's day, day, I would say, day eight.
+
+**Deedi Brown (she/her):** Like if they come back and they're in the editor eight days after they joined, they're much more likely to be around for the long term.
+
+**Sara Merg:** I believe that our editor team also has some stats on retention about, like, people, users who, like, work in the data tab, like the backend side of things, as well as just, like, designing in the front.
+
+**Sara Merg:** They're, like, more likely to stick around, which is why, like, we recently launched, like, a, something that would help you generate your, like, data types for your database.
+
+**Sara Merg:** So, like, if your database is, like, established from the beginning, your app is, like, more likely structured to be successful long term.
+
+**Sara Merg:** So it's people who get to that point in the data tab where they're, like, actually on that side of things.
+
+**Sara Merg:** Um, but I.
+
+**Sara Merg:** We could get you, like, maybe we can bug Kate for more specifics on that.
+
+**George Haikal:** Yeah, I don't want to add more work to your plates, but this stuff is definitely helpful.
+
+**George Haikal:** Like, at least to kick off correctly.
+
+**George Haikal:** We've won retained user combat.
+
+**George Haikal:** Yeah, and the only, like, follow-up I would have there is, it totally makes sense.
+
+**George Haikal:** Like, user comes back in between day 7 and 13, but, like, what is happening?
+
+**Deedi Brown (she/her):** They're, like, in editor.
+
+**Deedi Brown (she/her):** They're, like, editing their app.
+
+**Eunice Ahn:** Yeah.
+
+**Eunice Ahn:** Yeah, there's, yeah, there's, um, specific events that trigger this event, so it's, um, yeah, they're, like, creating a new element, they're, like, creating new stuff, so we cover things that are related to the design editor, the data editor, and then the workflow editor, so.
+
+**Eunice Ahn:** Great.
+
+**Eunice Ahn:** We call it, like, DWD.
+
+**George Haikal:** That's good.
+
+**George Haikal:** That's helpful.
+
+**George Haikal:** We'll dig in more.
+
+**George Haikal:** We'll, like, follow-up if we have more questions, but it's a good start.
+
+**Eunice Ahn:** I know that the product team and the data team is working on, like, reworking this metric, too, so, yeah, because this has, this was defined maybe, like, two years ago, one or two years ago, so, and as Deedi mentioned, it's changed a lot since, so, yeah.
+
+**Deedi Brown (she/her):** Well, I also think that it goes with what I was saying about the team being really hyper-focused on winning first build.
+
+**George Haikal:** Yeah, that's good.
+
+**Erik O'Brien:** All right, um, where do your best leads or users come from today?
+
+**Erik O'Brien:** it paid, organic, um, community word of mouth?
+
+**Deedi Brown (she/her):** That, these, this is a unisection for sure.
+
+**Eunice Ahn:** Oh, uh, um, organically, um, I would say majority of our, question Before...
+
+**Eunice Ahn:** I Okay.
+
+**Eunice Ahn:** So,
+
+**Eunice Ahn:** Sign-ups and paid subs come organically, and then our CAC, let get you the updated numbers, is, and then by, how much does it cost this, is this like including our organic, or just like for the paid channels?
+
+**Erik O'Brien:** Um, let's say organic CAC.
+
+**Eunice Ahn:** Okay, um, I would say it's about, uh, for like a subscription, it's about like 180 to 200.
+
+**George Haikal:** Cool, and, and, and, general here, like any wins on the paid, and they're, ready.
+
+**George Haikal:** we're
+
+**George Haikal:** Any side of what's working really well, any information you already have, like, that's helpful for us all.
+
+**George Haikal:** So that's kind of what we're trying to get at here, beyond just, like, the CAC number.
+
+**Eunice Ahn:** Oh, also organically, I would say majority of our users come through search, or that's what they say through, like, our surveys, or we capture them coming through Google.
+
+**Eunice Ahn:** We have seen a rise, we check, like, UTMs with, like, ChatGPT and AI, like, reflexing and things like that, and that has been on the rise lately, too, so AI search is on the rise, I would say.
+
+**Deedi Brown (she/her):** Would you say that the majority of that is branded search, though?
+
+**Eunice Ahn:** Yes, yeah, yeah.
+
+**Deedi Brown (she/her):** And I actually wouldn't be surprised if that was correlated with the rise of ChatGPT.
+
+**Deedi Brown (she/her):** Like, people, like, are asking ChatGPT, and then they're, ChatGPT is telling them about us, and then they Google us, and by name.
+
+**George Haikal:** Mm-hmm.
+
+**Eunice Ahn:** Yeah.
+
+**Deedi Brown (she/her):** But that is one of the reasons why we were focused on generic product category search with our former SEO agency.
+
+**Deedi Brown (she/her):** And it's not really their fault that our product category changed.
+
+**George Haikal:** This is true.
+
+**Eunice Ahn:** Yeah.
+
+**Deedi Brown (she/her):** We haven't pulled an SEO report in a while, have we, Eunice?
+
+**Eunice Ahn:** No, it's been like a couple months, but I would say, yeah.
+
+**Eunice Ahn:** So organically, brand is just stronger with paid.
+
+**Eunice Ahn:** We try not to spend too much on brand.
+
+**Eunice Ahn:** And so we optimize on like keyword or what is it?
+
+**Eunice Ahn:** Non-branded.
+
+**Eunice Ahn:** So like those product categories.
+
+**Eunice Ahn:** And I would say right now we're, I know you asked about what has been working for us, but what's not been working is we're trying to scale spend actually.
+
+**Eunice Ahn:** And having difficulty there with, um, finding like new keywords or just like finding that volume.
+
+**Eunice Ahn:** Um.
+
+**Eunice Ahn:** Um.
+
+**Eunice Ahn:** So that is not working.
+
+**George Haikal:** Do you have, like, a spend report from the last, or just a paid report on your efforts from, like, the last month on, like, terms?
+
+**George Haikal:** Yeah.
+
+**George Haikal:** Or, and then, like, all the way down the funnel to the actual CAC?
+
+**Eunice Ahn:** Yes.
+
+**Eunice Ahn:** Yeah, I definitely have that.
+
+**George Haikal:** That'd be helpful because then when we're looking at, like, our strategy, it's good to, like, put these pieces together.
+
+**George Haikal:** Okay, what's really working good for paid?
+
+**George Haikal:** What's way too expensive right now that isn't, like, to continue to bid on long-term?
+
+**George Haikal:** And, like, how do we build a foundation for that organically?
+
+**George Haikal:** And, like, what content topics do we have to write for audience we have to speak to to, like, start to begin to win those?
+
+**George Haikal:** So that's the only reason I ask.
+
+**Eunice Ahn:** Yes.
+
+**Eunice Ahn:** Well, guess, like, also, like, Google has, we've historically spent a lot on Google.
+
+**Eunice Ahn:** I think we've had, like, we can spend a lot on Facebook or Twitter.
+
+**Eunice Ahn:** Yeah.
+
+**Eunice Ahn:** All these other channels, but it's been hard to get impressions on our website, like just not really seeing the people.
+
+**Eunice Ahn:** Like, I guess maybe it's like the copy is not resonating or I don't know what it is because it's like a completely different channel and audience.
+
+**Eunice Ahn:** So I guess with like the lower antenna or just like more top of funnel people, it's been difficult to capture on the paid side, at least.
+
+**George Haikal:** Makes sense.
+
+**George Haikal:** I mean, yeah, just on point 10, right, like I think we can see organically what's working pretty well, like where most people, most traffic's coming from.
+
+**George Haikal:** Like it looks like outside of just searching for your name or the pricing page, it's the templates, it's the forum, it's the slash mobile.
+
+**George Haikal:** So we have a decent idea of like biggest amount of like most amount of volume, like where they're heading on the website.
+
+**Deedi Brown (she/her):** So.
+
+**Eunice Ahn:** I actually had a question because templates, when I took a look in the past, it felt like a lot of bot traffic all coming from one IP address or just one location.
+
+**Eunice Ahn:** But there has been discussion in the past of can we optimize, can we convert those folks that are visiting to template as well?
+
+**Deedi Brown (she/her):** Erik I also think that templates are going to become less relevant as the AI generator becomes more relevant.
+
+**George Haikal:** Because people will be interacting more with the tool than like selecting a template.
+
+**Deedi Brown (she/her):** Well, you're just going to use the AI generator to make you a CRM.
+
+**George Haikal:** You're not going to use a CRM template.
+
+**George Haikal:** Yeah, yeah.
+
+**Deedi Brown (she/her):** Erik I'll say mobile, like I said, was a feature release.
+
+**Deedi Brown (she/her):** It's just back in June.
+
+**Deedi Brown (she/her):** Erik so that's might still be enjoying that but- Erik
+
+**Deedi Brown (she/her):** Glad to see that that's ranking.
+
+**Deedi Brown (she/her):** The AI app generator page, bubble.io slash AI app generator, that was a landing page that we created with our former SEO agency and has sort of been like the workhorse piece of content from all of that work.
+
+**Deedi Brown (she/her):** But there's a couple of pages like that that are out there.
+
+**Deedi Brown (she/her):** And then in the blog, we've got, I'm just like looking in search council right now, but like best no code app builder, that's comparison blog post.
+
+**Deedi Brown (she/her):** Sorry, I keep clicking the wrong tiny little icon.
+
+**Deedi Brown (she/her):** Yeah, that's like the post that like summarized the massive project that we did where we created a rubric and scored all of the no code competitors.
+
+**George Haikal:** Unfortunately, we don't care about those competitors very much anymore.
+
+**Deedi Brown (she/her):** It is still working.
+
+**Deedi Brown (she/her):** And then, yeah, no code app examples, which one is this?
+
+**Deedi Brown (she/her):** What can you build on bubble 25 examples to inspire?
+
+**Deedi Brown (she/her):** Are you, that's also doing pretty well on the blog, and how to build an app with AI.
+
+**Deedi Brown (she/her):** Looks like our level, so we also did, one of the things that we did with the agency, which I think is paying off, but we did some of, we did do comparison posts of like bubble versus lovable, bubble versus repli, but we also did these XYZ posts, so what, like the one that's like getting the most impressions is lovable versus repli versus bubble, because people are Googling lovable versus repli, so I think that was like actually like the perfect situation for us to use that technique, because we are the underdog in that comparison, and it does seem like it's, like it's grabbing eyeballs, so.
+
+**George Haikal:** Yeah, yeah, and Augment Code is one of our clients, which is not.
+
+**George Haikal:** Right.
+
+**George Haikal:** Your competitor.
+
+**Deedi Brown (she/her):** Right, actually Francois is a, he's a contractor here.
+
+**George Haikal:** Nice.
+
+**Deedi Brown (she/her):** very good.
+
+**Deedi Brown (she/her):** He's like an executive advisor for our VP of marketing.
+
+**George Haikal:** Yeah, he's an advisor for us, too.
+
+**Deedi Brown (she/her):** too.
+
+**George Haikal:** Yeah, very cool, but yeah, I mean, what we found was verses, comparisons, those are working really, really well, especially for AEO, just because people want to actually understand what the differences are, and then the longer, or the more long tail, the better, the more discreet.
+
+**Deedi Brown (she/her):** Right, and I mean, we, I've literally seen, like, the ChatGPT quoting us in its responses, like, I'm like, I know that I wrote that phrase, or whatever, right, like, so it has, but we need, but we haven't done any defense of that, so I'm just cognizant of that.
+
+**George Haikal:** Yeah, no problem at all, and I guess just for the sake of time, the last five minutes here, just what, like, what's the biggest bottleneck for you all right now, the biggest constraint?
+
+**George Haikal:** Is it capacity?
+
+**Deedi Brown (she/her):** Is it?
+
+**Deedi Brown (she/her):** Yeah, I mean, it's the fact that it's, like, just me and Sara.
+
+**George Haikal:** Yeah.
+
+**Deedi Brown (she/her):** I have one, one freelance writer.
+
+**Deedi Brown (she/her):** She's awesome.
+
+**Deedi Brown (she/her):** She's a machine, actually.
+
+**George Haikal:** She's, like, so productive.
+
+**George Haikal:** And then what, what does the review process right now look like?
+
+**Deedi Brown (she/her):** Like, you all, in regards to editorial content.
+
+**Deedi Brown (she/her):** So, like, for something that was written by our SEO agency or the freelancer that we're working with for that content, usually I would give it a first pass, just, like, at a high level, mainly looking at positioning stuff, voice stuff, accuracy, et cetera, structure, and, like, the agency also, if they didn't write it, they would also give it a pass at that time for, like, SEO considerations.
+
+**Deedi Brown (she/her):** And then we'd have one round of edits, and then usually it was good enough for Sara to just give it a line edit and proofread and then out the door.
+
+**Deedi Brown (she/her):** So I would imagine that Tatiana, who's my manager, our VP of marketing, is definitely going to want to review at least the first few that we do here, and then pretty soon she's going to be like, I don't need to see this anymore.
+
+**Deedi Brown (she/her):** And so I will also say that, like, it doesn't have to be me.
+
+**Deedi Brown (she/her):** I also think that Sara would be an awesome first, like, pass editor for these as well.
+
+**Deedi Brown (she/her):** So I would just want to make sure that one of us is involved, you know, in the, like, early.
+
+**Deedi Brown (she/her):** I know your platform also does, like, the outlining phase, and we want to make sure we have checks, like, in there as well, so.
+
+**George Haikal:** Definitely, yeah.
+
+**George Haikal:** That's the whole point of the next, like, call it four weeks is the calibration process.
+
+**George Haikal:** mean, right now we'll start building out the artifacts, ingest all the information you're sending us, and then we'll go back and forth on calibration pieces and blogs that we actually write to get your take on, okay, what, what should we fix here, what should we change here, and why, and then we incorporate all that feedback back into our models and our workflows, and then once we have, like, this really strong set of instructions, writing guidelines, how we want to sound, outline, all that, then we just have a researcher and then a drafting agent that loops until it meets all that criteria.
+
+**George Haikal:** So we find after we calibrate the first couple of weeks, like, and we agree on the output and it looks good, that that's the only reason we can scale.
+
+**George Haikal:** Super fast after that is because we're aligned on the foundation of what's actually made. We'll make sure we have content at each step so we will make sure that's all handled. Is there anything that's top of mind that we didn't ask that we should have for you all?
+
+**Deedi Brown (she/her):** I don't think so. Anything on your end, Eunice? We didn't talk too much about data, but is there anything that you want?
+
+**Eunice Ahn:** Yeah, I am curious about KPIs and how we're going to track those.
+
+**Deedi Brown (she/her):** I think that's more of a next step conversation, which we're definitely going to have, but I mainly meant is there any business context that you might have on your side that I didn't mention?
+
+**Eunice Ahn:** No, I think you covered it.
+
+**George Haikal:** Sweet.
+
+**George Haikal:** No, I mean, that's a good sign.
+
+**George Haikal:** Erik, if you kind of just want to explain the next steps from here and maybe a little bit of the timeline so they know what to expect moving forward.
+
+**Erik O'Brien:** Yeah, absolutely.
+
+**Erik O'Brien:** So first you'll get a kind of what we heard summary of this meeting, today's conversation.
+
+**Erik O'Brien:** We'll share some requests, mainly, you know, things that you guys can throw in that docs space in Notion, some access to Google Search Console, Google Analytics, and your CMS.
+
+**Erik O'Brien:** Not super high priority on those, but just getting them out in front of you.
+
+**Erik O'Brien:** And then from there, we will kind of get into our team developing the artifacts.
+
+**Erik O'Brien:** So writing guidelines, audience personas, and company context.
+
+**Erik O'Brien:** Those are the three kind of pillar pieces that go into our content generation platform.
+
+**Erik O'Brien:** So any feedback and comments on those are very much welcome.
+
+**Erik O'Brien:** It's because we've get those right, then everything downstream is a lot more efficient.
+
+**Erik O'Brien:** So if So,
+
+**Erik O'Brien:** But we'll share those hopefully by the end of this week, and then once we get into next week, we will start to have at least first draft of content strategy.
+
+**Erik O'Brien:** So it'll be very collaborative from here forward, and we also have the Slack channel.
+
+**Erik O'Brien:** So if you guys have any questions or anything that comes up, feel free to ping us there anytime.
+
+**Erik O'Brien:** Did I miss anything, George?
+
+**George Haikal:** No, that was great.
+
+**George Haikal:** Super excited.
+
+**George Haikal:** You guys are awesome.
+
+**George Haikal:** Already seem awesome to work with, so really excited to help here.
+
+**Deedi Brown (she/her):** I think I just want to make sure that there's going to be, like, timing around, like Eunice's question around data ingestion and whatnot.
+
+**Deedi Brown (she/her):** So I don't know if it makes sense to maybe, like, do a 30 to just chat about data in general or, like, if we're, like, genuinely just too early because we have this, like, kind of first four-week block or what you guys think.
+
+**George Haikal:** Yeah, mean, shoot over any questions, and, like, we're happy to pull in anyone on the team if I don't have the answers, and also happy to jump on a call.
+
+**George Haikal:** Like, treat us as another team.
+
+**George Haikal:** Remember, in Slack, like, shooting questions over, we'll constantly be responsive.
+
+**Deedi Brown (she/her):** I'm happy to get whatever questions answered.
+
+**Deedi Brown (she/her):** Okay.
+
+**Deedi Brown (she/her):** How soon do we get to see the, like, Insights Dashboard that you all pulled together?
+
+**George Haikal:** In terms of, like, where we stand right now?
+
+**George Haikal:** Oh, like, like a comprehensive site audit?
+
+**George Haikal:** Yeah, like, yeah, just, like, sort of, like, what's our current, like, citation rate and, like, those kinds of things.
+
+**George Haikal:** Mm-hmm.
+
+**George Haikal:** So we usually pull together, like, the AI Visibility Dashboard, let's see, usually, like, in week two.
+
+**George Haikal:** But let me talk with the team and see, because, right, like, it's from period moving forward versus historical.
+
+**George Haikal:** And so it sounds like the earlier, we get a setup here, the better.
+
+**George Haikal:** so we can prioritize it just to see, like, get a baseline of where you're at.
+
+**George Haikal:** That'd be a good, good level of understanding.
+
+**George Haikal:** We also have to input and track all the prompts that we want for the tool.
+
+**George Haikal:** And so we have to come up with those as well.
+
+**George Haikal:** So having a little.
+
+**George Haikal:** We'll information once we dive into like your brand and positioning guidelines, we'll have more information like how to actually build out all those prompts and then any materials you send over, the sales objections, like all that stuff will help as well.
+
+**George Haikal:** So we can prioritize and get back to you like on an actual day that'll be ready, but I would love to have it ready before our first recurring meeting.
+
+**Deedi Brown (she/her):** Cool.
+
+**Deedi Brown (she/her):** That sounds great.
+
+**George Haikal:** Cool, cool, cool.
+
+**Sara Merg:** Thank you guys.
+
+**Sara Merg:** was great meeting you.
+
+**Deedi Brown (she/her):** Awesome.
+
+**Sara Merg:** Nice to meet you.
+
+**Deedi Brown (she/her):** Looking forward to it.
+
+**Deedi Brown (she/her):** Yes, let's do it.
+
+**Deedi Brown (she/her):** Bye.
+
+**Deedi Brown (she/her):** Thanks, Steve.
+
+**Deedi Brown (she/her):** Thanks, Steve.

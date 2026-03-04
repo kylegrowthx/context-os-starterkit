@@ -1,0 +1,1109 @@
+# Director sync
+
+<metadata>
+date: 2025-07-07
+time: 20:00 UTC
+duration: 48 minutes
+organizer: Marcel Santilli
+participants: Andi Bailey, Darrell Etherington, Dave Capone, Jakub Rudnik, Mara Leighton, Matthew Panzarino, Marcel Santilli
+fathom_recording_id: 72615008
+fathom_url: https://fathom.video/calls/344461181
+share_url: https://fathom.video/share/wDedgn3HCg9JAo5qS-xYBC9zUxNQocgR
+source: fathom
+enriched_on: 2026-03-03 12:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX directors aligned on three critical areas: reorganizing content management layers with CMs now reporting directly to Matthew Panzarino for quality control; introducing a three-role framework (input calibrators, production refiners, process architects) to clarify individual strengths and eliminate mediocre generalists; and addressing two priority accounts—Ambit and Aftershoot—with targeted rescue strategies plus upsell opportunities for WebStacks, Galileo, and Ramp. The team committed to standardizing QBR processes and identified publishers/integrations as the biggest cross-client blocker requiring Linear tickets and prioritization in engineering cycles.
+
+---
+
+## Context
+
+This is a weekly director sync between GrowthX's leadership covering operations, delivery, and business development. The team includes Marcel Santilli (CEO), Andi Bailey (COO), Matthew Panzarino (Chief Content Officer/Panzer), Darrell Etherington (Business Development), Mara Leighton (Account Lead), Jakub Rudnik (Account Lead), Dave Capone (Operations), and Jason Gong (Project Lead). The meeting was convened to close on lingering organizational questions from the previous week—specifically how content managers and managing editors will operate under a new reporting structure—and to discuss current account health and strategic initiatives. Structurally, GrowthX has been scaling content delivery while building AI-native workflows; the challenge has been ensuring human intervention adds measurable value proportional to cost ($150-300 per article in labor) rather than becoming overhead.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- CMs now report directly to Panzer for real-time pipeline quality feedback, tightening the feedback loop between daily execution and strategic direction (preventing "outputs are fine" reports that mask quality issues)
+- Three-role framework clarifies which team members excel at input calibration vs. production refinement vs. process architecture, enabling better role assignment and skill gaps
+- Human intervention cost now explicitly benchmarked at $100/hour equivalent value—any content review must justify its cost relative to automated alternatives
+
+**To GrowthX Business Development:**
+- Ambit (priority rescue): Rebuilding artifacts for technical accuracy while exploring knowledge-based fact-checker integration from Biologica project; success hinges on input calibration depth
+- Aftershoot (priority rescue): Client resistance to experimentation and price sensitivity requires written summaries of decisions to push stakeholder alignment; multi-stakeholder conflicts impeding progress
+- Upsell opportunities: WebStacks (July deep dive), Galileo (October renewal with upsell), Ramp (verbal agreement pending markdown editing access approval); three accounts (Tiro, Ambit, Rapid) flagged for immediate QBRs
+- Publishers/integrations identified as top blocker across portfolio—requires coordinated ENG ops cycle prioritization
+
+**To Process & Operations:**
+- Standardized QBR template needed (Jason/Andi taking ownership); key accounts require immediate QBR cycles
+- Long-term CM strategy evolving toward pooled resources across multiple clients rather than single-client assignments—affects staffing model planning
+- Directors to submit Linear tickets for ENG priorities and WAV cycles to drive publisher/integration work
+
+---
+
+## Overview
+
+- CMs will now report directly to Panzer for improved quality control and people management
+- New framework introduced for categorizing roles: input calibrators, production refiners, and process architects
+- Ambit and Aftershoot identified as priority accounts for rescue efforts
+- QBR process to be standardized and implemented across key accounts
+
+---
+
+## Key Topics
+
+### Organizational Structure Changes
+
+  - CMs now report directly to Panzer for better quality control and feedback loop
+  - MEs not intended to be people managers; focus on automation and process improvement
+  - Long-term vision: CMs may become pooled resources across multiple clients
+
+### New Role Framework
+
+  - Three key roles identified: input calibrators, production refiners, and process architects
+  - Emphasis on excelling in at least one area rather than being mediocre in all
+  - Goal: Ensure human intervention adds significant value beyond LLM capabilities
+
+### Ambit Account Strategy
+
+  - Rebuilt artifacts to improve technical quality and jargon accuracy
+  - Exploring integration of knowledge-based fact checker from Biologica project
+  - Demonstrating improvements by comparing old vs. new article versions
+
+### Aftershoot Account Challenges
+
+  - Client is price-sensitive and resistant to experimentation
+  - Multiple stakeholders with conflicting rules and perspectives
+  - Recommendation: Provide written summary of discussions to push for decision-making
+
+### Upsell Opportunities
+
+  - WebStacks: Schedule deep dive and strategy refresh in July
+  - Galileo: Renewal in October, potential upsell identified
+  - Ramp: Verbal agreement to increase contract value, pending procurement
+
+### QBR Process
+
+  - Identified need for standardized QBR template and process
+  - Key accounts for immediate QBRs: Tiro, Ambit, and Rapid
+
+---
+
+## Action Items
+
+**Jakub Rudnik (GrowthX)**
+- Schedule deep dive with Marcel regarding Ambit rescue strategy. Align Wednesday call with Thursday stakeholder sync to coordinate approach
+- Schedule WebStacks strategy refresh deep dive. Prepare QBR-style content summary and Atlas demo for July
+
+**Darrell Etherington (GrowthX)**
+- Write Aftershoot call summary in director channel. Bullet key decisions, open issues, and next steps needed for stakeholder alignment
+
+**Mara Leighton (GrowthX)**
+- Connect with Kyle regarding Galileo upsell opportunity. Gather details on renewal timing and budget, align on positioning approach
+- Confirm Ramp's approval for Markdown editing access. Update team once confirmed to enable expanded scope
+
+**Jason Gong (GrowthX)**
+- Create standardized QBR template incorporating Abnormal feedback and lessons learned. Design for consistent application across all key accounts
+
+---
+
+## Transcript
+**Matthew Panzarino:** I love the roving Marcel Cam.
+
+**Matthew Panzarino:** Where's Marcel today?
+
+**Matthew Panzarino:** Where in the world is Marcel?
+
+**Matthew Panzarino:** Where in the world is Marcel today?
+
+**Marcel Santilli:** I was just recording a few things, trying to get a few things up.
+
+**Marcel Santilli:** I recorded one on GEO and one on how to be AI native.
+
+**Marcel Santilli:** So we'll see if there's anything good out of it.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** I'm going to go grab some food and be right back.
+
+**Mara Leighton:** How's everyone doing?
+
+**Darrell Etherington:** They're hot.
+
+**Matthew Panzarino:** I'm eating hot.
+
+**Matthew Panzarino:** Raw turkey protein out of a bowl.
+
+**Dave Capone:** That's how I'm doing it.
+
+**Dave Capone:** That's my life.
+
+**Mara Leighton:** That's crazy.
+
+**Mara Leighton:** It's funny, too, that your Zoom blurred it out so far, and it was a surprise.
+
+**Matthew Panzarino:** Censored my turkey.
+
+**Mara Leighton:** Yeah.
+
+**Jakub Rudnik:** It really did look profane.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Pay no attention.
+
+**Matthew Panzarino:** It was in the bowl.
+
+**Mara Leighton:** I just moved, and my fridge slash freezer broke, so I came home to just, like, a ton of rotted food, and they can't switch it out for a while, so I can't eat anything refrigerated, so my diet has been very interesting.
+
+**Mara Leighton:** This meeting is being recorded.
+
+**Darrell Etherington:** That's just a European diet.
+
+**Mara Leighton:** That's how they eat it.
+
+**Mara Leighton:** Exactly.
+
+**Darrell Etherington:** It's a lot of cheese and maybe some bread.
+
+**Mara Leighton:** That's true.
+
+**Darrell Etherington:** Yeah, I had to buy.
+
+**Darrell Etherington:** I just went to Home Depot at lunch and bought a portable air conditioner because it has become unbearable.
+
+**Darrell Etherington:** The embarrassment that it is my fake central air.
+
+**Darrell Etherington:** Can't keep up with this.
+
+**Mara Leighton:** What is it?
+
+**Mara Leighton:** 105?
+
+**Mara Leighton:** 105?
+
+**Darrell Etherington:** Trying to do the, yeah, 105 or something.
+
+**Mara Leighton:** Well, it's kind of you.
+
+**Darrell Etherington:** Yeah.
+
+**Andi Bailey:** Hi, everybody.
+
+**Andi Bailey:** I think we have kind of a lot to do, so I'm going to jump right in.
+
+**Andi Bailey:** Here's the agenda I shared with the director channel as well, but maybe just to get things out of the way, do we want to start with the thread on, we'll start with the thread on CMS reporting to Panzer, just make sure we're closing the loop there.
+
+**Andi Bailey:** In terms of accounts for discussion, we're going to talk about Ambit and Aftershoot as kind of our biggest priorities for rescue right now.
+
+**Andi Bailey:** And then there are a couple of others that I flag for upsells or QBRs that we can talk about.
+
+**Andi Bailey:** And then right now, the thing that seems to be the biggest blocker across the board is publishers, so making sure we're still pushing forward and submitting linear tickets for the right ones that are taking up the most time, and we'll continue to do that in WAVs.
+
+**Andi Bailey:** But do we want, let's start with the CMs reporting to Panzer.
+
+**Andi Bailey:** Panzer, I think you gave a good answer in the channel, but do you want to just summarize here again?
+
+**Matthew Panzarino:** Yeah, yeah, so basically the concept is like, we're looking at the CM layer, the ME layer, what they're responsible for, and the ME layer has a lot to do.
+
+**Matthew Panzarino:** And we are going to be expecting more and more of them.
+
+**Matthew Panzarino:** want them to become more automation focused, more focused on the process, you know, building pipelines, being active in manipulating that stuff and pushing for tactical client success.
+
+**Matthew Panzarino:** And like they, you know, the, the CM's job is significantly different because they are like operating those pipelines and trying to determine precise outputs that match quality expectations.
+
+**Matthew Panzarino:** And that's sort of what I'm here for.
+
+**Matthew Panzarino:** And the loop is.
+
+**Matthew Panzarino:** It's really good for me to have for these CMs actually telling me what's happening because when it's filtered through a couple of pairs of ears, I can end up in scenarios which we've seen over and over where people are like, oh, yeah, the client's happy or, oh, yeah, the output's pretty good or whatever.
+
+**Matthew Panzarino:** And then I talk to a CM and they're like, oh, yeah, it's garbage.
+
+**Matthew Panzarino:** I rewrite everything like manually.
+
+**Matthew Panzarino:** And I'm way behind.
+
+**Matthew Panzarino:** I'm like, oh, cool.
+
+**Matthew Panzarino:** Like, great.
+
+**Matthew Panzarino:** And so, like, I need a tire loop there, which I will maintain with them.
+
+**Matthew Panzarino:** And then they're my ground groups for understanding what the pipeline quality is actually, how it's operating, what it's actually being generated, even if a director or a ME jumps in and, like, you know, does some changes and then runs one and they're like, oh, this is great.
+
+**Matthew Panzarino:** This is looking good.
+
+**Matthew Panzarino:** The CM is the one doing it every day.
+
+**Matthew Panzarino:** And so they see all of the stuff, you know, all the ground level quality issues that are cropping up or process issues.
+
+**Matthew Panzarino:** So it just makes a lot of sense from that perspective.
+
+**Matthew Panzarino:** And then from a people management perspective, you know, hopefully that layer will be relatively low.
+
+**Matthew Panzarino:** Given that they are contractors and many of them are in other countries and remote and all that kind of thing, though, what was happening is that a lot of them were sort of like dive bombing Marcel or other people with requests for raises or promotions or various things like that.
+
+**Matthew Panzarino:** And it just needs to be a central repository for that and somebody who can handle that and some stepping in there.
+
+**Matthew Panzarino:** So that's the story.
+
+**Andi Bailey:** It might be useful to, if we have five minutes in the, like, company all hands tomorrow, to just reiterate this so that the directors don't have to answer these questions.
+
+**Andi Bailey:** I mean, I'm sure that you guys will still get them one-on-one, but just, like, give that, we can give that reasoning, like, more broadly and then everybody can reiterate it as needed.
+
+**Matthew Panzarino:** None of the MEs—just, I'm sorry, I mentioned that in the thread, but none of the MEs were hired with, like, "you're going to be a people manager."
+
+**Andi Bailey:** Yeah.
+
+**Matthew Panzarino:** The term managing is doing a lot of really funny work in our organization.
+
+**Matthew Panzarino:** We probably need to remove those words from our architecture a little bit, because it doesn't make sense.
+
+**Matthew Panzarino:** It's not what they actually do, right?
+
+**Matthew Panzarino:** Content managers don't manage content, right?
+
+**Matthew Panzarino:** They run pipelines.
+
+**Matthew Panzarino:** So they're really pipeline runners, you know, but there are better terms for all of it.
+
+**Matthew Panzarino:** But the managing editors are not people managers.
+
+**Matthew Panzarino:** They were not hired.
+
+**Matthew Panzarino:** Just so you know, for context, when they're coming to you, they were not like hired on with that expectation, or recruited with that experience in mind, right?
+
+**Matthew Panzarino:** We didn't go out and say, okay, let's find some people managers.
+
+**Matthew Panzarino:** None of that was happening.
+
+**Matthew Panzarino:** So them being people managers was never really in the cards.
+
+**Matthew Panzarino:** Them being in the work pipeline of like reporting, oh, hey, your CMs are reporting to you on work product, that still exists, right?
+
+**Matthew Panzarino:** Like if an ME tells a CM that they need a certain thing, and then, you know, and they don't deliver it, then who's the ME going to tell me, right?
+
+**Matthew Panzarino:** So it still exists.
+
+**Matthew Panzarino:** Like that's still, that reporting behavior still exists there.
+
+**Matthew Panzarino:** It's just in terms of people management and reporting to me, there's a cleaner line there.
+
+**Darrell Etherington:** I think the emphasis on that second part is the most important, because to me it's a less clean line, like it's a more confused, noisier line, right?
+
+**Darrell Etherington:** Like you've introduced it to another roundabout layer.
+
+**Darrell Etherington:** Like I understand well dotted line reporting, we've done that, me and you personally have done that in other organizations, but everybody else needs to be clear about it, because the thing right now is, there's some today, but like, you know, like they really do need to feel quite beholden.
+
+**Darrell Etherington:** into the person who is responsible for the work product that they're committed to, and that needs to be very clear, and it shouldn't be routed, right?
+
+**Darrell Etherington:** Like you shouldn't add a junction point that it has to go through to come back, like it should be direct.
+
+**Matthew Panzarino:** mean, I think Marcel maybe could talk a little bit about this, because like, I do know that Darrell, mean, trust me, that's one version of the conversation we had, right?
+
+**Matthew Panzarino:** Because I, there's one version of the organization that can be architected.
+
+**Matthew Panzarino:** People managers inserted into all of those layers.
+
+**Matthew Panzarino:** But because of the way that this is set up and how many CMs we have, the proliferation of people managers we'd have to do to actually embed that would be crazy.
+
+**Matthew Panzarino:** Like you'd have to suddenly train a dozen managers.
+
+**Matthew Panzarino:** And that's pretty hard.
+
+**Matthew Panzarino:** We didn't recruit for them.
+
+**Matthew Panzarino:** And we didn't embed them in the organization.
+
+**Matthew Panzarino:** But Marcel is also thinking about the CM role evolving in a different way in the future.
+
+**Matthew Panzarino:** So we need to kind of also anticipate that, which is where we're at.
+
+**Andi Bailey:** Yeah, want to time box this discussion because we have a lot to get through.
+
+**Andi Bailey:** But just like I think things to note are also that like ultimately the chief content officer is responsible for that output.
+
+**Andi Bailey:** And if you think about long term, who's running those workflows and what those workflows are like doing, it's not there.
+
+**Andi Bailey:** The ME is helping edit them, but the CM is responsible for the workflow itself.
+
+**Andi Bailey:** And so that direct line to Panzer makes a little bit more sense.
+
+**Andi Bailey:** If you.
+
+**Andi Bailey:** about it that way.
+
+**Andi Bailey:** And long-term, CMS are probably not going to report only to one client.
+
+**Andi Bailey:** They're going to be running work like responsible either for a workflow or picking up work ad hoc in a little bit more of like a pooled resource way.
+
+**Andi Bailey:** So if you think about it that way in the long-term planning, that might be helpful.
+
+**Andi Bailey:** I mean, that's not something that we would want to share with CMS or MEs right now, but just like for director context, that's one way to think about it.
+
+**Andi Bailey:** Marcel, do you want to talk about the framework next, or do you want to talk about Ambit and Aftershoot and then go to the framework?
+
+**Marcel Santilli:** Yeah, let's talk about the framework.
+
+**Marcel Santilli:** I have to run a few minutes to connect with Ada on a few things, but because she has to get offline, I might be able to jump back in.
+
+**Marcel Santilli:** But so the way I kind of think about it in what I wrote is there's really, like we have like three layers and three different types of roles, right?
+
+**Marcel Santilli:** Like, so I won't read through the whole, the whole.
+
+**Marcel Santilli:** But just know that, like, the, like, when you think about the three roles, everyone here should fit into one of these three roles, essentially.
+
+**Marcel Santilli:** That doesn't mean you only fit into one of these right now, but certainly if you're, and when I say you, I mean you and people in your team.
+
+**Marcel Santilli:** If you're not peeking into any of these three roles, then you probably want to, like, retool yourself to peek into one of these three roles, right?
+
+**Marcel Santilli:** And so, like, and I think some of the areas where we've had issues in the past is ultimately, like, kind of like that lack of clarity, right?
+
+**Marcel Santilli:** Like, for instance, like, there are certain MEs, there are actually pretty decent production refiners, what I call it here in this framework, but pretty bad at getting the right inputs from customers, connecting the dots, setting the right strategy, right?
+
+**Marcel Santilli:** And sometimes vice versa as well.
+
+**Marcel Santilli:** And it's not about like any of these roles are only CM or MEs or directors, right?
+
+**Marcel Santilli:** And then process architects, like I think all of us should be process architects at some point, but also it's like how do we go about taking something that's kind of like a thought process and just filling it down to the steps?
+
+**Marcel Santilli:** So for instance, like what we're doing with the strategy sprints to get to the artifacts, I didn't use a single workflow, right?
+
+**Marcel Santilli:** It wasn't like, oh, this is a crazy complex workflow.
+
+**Marcel Santilli:** It was mostly like spending an obscene amount of time with AI and playing around with different inputs and tweaking it and thinking through the thought processes, right?
+
+**Marcel Santilli:** It's more about like at that level than that like I'm hard coding a crazy workflow over here, right?
+
+**Marcel Santilli:** And I think that the gap right now that I've noticed in quite a bit, and I can talk through some examples, is really like the input calibrators where...
+
+**Marcel Santilli:** We are often, like, not asking the right questions of customers or getting the right inputs from customers.
+
+**Marcel Santilli:** And that's the biggest delta from, like, great to, like, mediocre, essentially, right?
+
+**Marcel Santilli:** And so we had this experience today, for instance, like, one of our new clients in the strategy sprints with Monograph, right?
+
+**Marcel Santilli:** Where we had a kickoff, and then it just so happens that the only time they had available was today for a week to sync.
+
+**Marcel Santilli:** And so it was a little too fast, plus we had a holiday on Friday, so we weren't as prepared.
+
+**Marcel Santilli:** But it was just so clear that, like, we just jumped to conclusions.
+
+**Marcel Santilli:** We essentially presented them an entire content strategy, like, you know, writing guidelines, and everything was just, like, just off a little bit, right?
+
+**Marcel Santilli:** Not bad, just off.
+
+**Marcel Santilli:** So the process would follow to the teeth.
+
+**Marcel Santilli:** We did everything right, but we just didn't have the depth of understanding.
+
+**Marcel Santilli:** And then it was very clear, like, one of the stakeholders that joined that wasn't around last week had all this additional context and was just, like, ready to give it to us.
+
+**Marcel Santilli:** And it was, like, oh, man, like, we should have gone and done a deep dive on product, a deep dive with this person, and we should have processed more, should have gotten their input a little bit more, you know, and I think that's really the missing piece when you see engagements like with Biologica where they're like over the moon, super excited.
+
+**Marcel Santilli:** It's like us spending the extra two, three, four hours going deeper, and then it makes everything else way easier, better, faster down the line, right?
+
+**Marcel Santilli:** But then if we're not asking questions, we're just talking at people, we're not trying to go deeper, we're not bringing that level of clarity, then like no amount of workflows will actually solve that because we actually don't know which direction to go and in what way, right?
+
+**Marcel Santilli:** And so just think through that a little bit more of like, not to say there's no tasks outside these three things, these three roles, or no other work done in this company outside these three roles.
+
+**Marcel Santilli:** When it comes like to kind of like the core substance, I think like these are the ways that in your teams and for yourself, it should be very clear which bucket like you're.
+
+**Marcel Santilli:** You're playing in and it's completely okay if you're like have amazing taste for content and you're just really good at that and you just want to be really heads down for content, like that's okay.
+
+**Marcel Santilli:** There's still like a very good and important place to play here.
+
+**Marcel Santilli:** There's no like wrong answer here in these three, but what we don't want to have is folks on your teams that are like mediocre at all of these or, you know, and they're not actually raising the bar.
+
+**Marcel Santilli:** And that's the whole point with the CM layer is like, we want to make sure that when there is a human intervention, that there is a very specific reason for that human intervention that only that human can do and that human can do a better job than an LLM.
+
+**Marcel Santilli:** And that's not true.
+
+**Marcel Santilli:** There's no point of that having that intervention, you know, and we need to be able to evaluate that that's actually what's happening, you know?
+
+**Marcel Santilli:** So just to put it into perspective right now, if you took like the entire ME and CM layer and you divided that by the number of articles we're pumping out, we're paying between $150 to $300 per article in human cost.
+
+**Marcel Santilli:** Which means we could be actually hiring an expert to do that intervention and be paying that person $50 to $100 an hour for doing that intervention.
+
+**Marcel Santilli:** And that person can be an expert of that.
+
+**Marcel Santilli:** And so right now, that's the level of output we should be expecting from anyone reviewing content is that the content should be the equivalent of a $100 an hour person spending an hour on it.
+
+**Marcel Santilli:** And, you know, and that's where I think there's like a big disconnect in that, like the production refiners, where are they actually adding value or they're just going about it the wrong way?
+
+**Marcel Santilli:** And I think like Panzar being closer to it now will help.
+
+**Marcel Santilli:** So, sorry, Andy, that was pretty long, but hopefully helpful.
+
+**Andi Bailey:** Yeah, I think this is good.
+
+**Andi Bailey:** Are you going to talk about this at all in the All Hands tomorrow?
+
+**Andi Bailey:** Or how do you want us to circulate this with the pods? How should this show up in our practice, aside from just thinking about the verticals?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Two areas.
+
+**Marcel Santilli:** I don't think we need to make a huge deal with, like, the whole organization tomorrow at all hands.
+
+**Marcel Santilli:** But it's, like, it's more for the individual pods.
+
+**Marcel Santilli:** Just being very, very intentional.
+
+**Marcel Santilli:** It's, like, what is this person in my team great at in one of these three?
+
+**Marcel Santilli:** And most likely, like, we don't need a lot of process architects.
+
+**Marcel Santilli:** So it's, like, they have to be good at one of those two.
+
+**Marcel Santilli:** And if they're not great at one of those two, then we most likely need to recalibrate, you know, because they just need to be really great at one of those two.
+
+**Marcel Santilli:** They're either really good at connecting the dots and getting the right inputs, or they're really amazing at keeping the quality bar.
+
+**Marcel Santilli:** And so those are the two main things we need from everyone.
+
+**Marcel Santilli:** You can't scale something mediocre to greatness.
+
+**Marcel Santilli:** You have to start with something really, really good and then figure out how to scale that to be able to do even more, right?
+
+**Marcel Santilli:** The inverse doesn't work.
+
+**Marcel Santilli:** So you can't take an okay output from a workflow and throw okay editors at it and eventually get to great, you know?
+
+**Marcel Santilli:** And so, like, we need to know, like, who are the people working under us that are just, like, really good.
+
+**Marcel Santilli:** They have really good taste, they have really good, they improve things a certain way, they think about it in a unique way, or they're really good at asking great questions, ingesting those inputs from customers, and then applying it to the right context.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Cool.
+
+**Andi Bailey:** Any other questions from Marcel before he hops?
+
+**Andi Bailey:** Okay.
+
+**Marcel Santilli:** Sorry, one last thing.
+
+**Marcel Santilli:** I got to run, but this, I know some of you are.
+
+**Marcel Santilli:** Don't have the full context, but a lot of this has been pretty inspiring with Surge AI, and spent a lot of time with Jason and I as well, but they essentially have 50 people in the whole company, and they're managing about 100,000 humans, and the tasks that they do are very similar to kind of what we do, except way more complex and way more technical.
+
+**Marcel Santilli:** And so, obviously, that's what we're building towards, is building more of like a task hub that can help with a lot of this process, but if less than 100 people can manage a billion dollars of revenue and 100,000 CMs and MEs, you know, successfully, with really high quality, it is possible.
+
+**Marcel Santilli:** It's just, they took a very different approach than we did, right?
+
+**Marcel Santilli:** We started with fewer people doing more dense work, figured out what great looks like, and then scaled it.
+
+**Marcel Santilli:** That's what we need to do—always figure out what's great and do not scale anything that is not great. I think that's what we're really learning with the strategy sprints: when you scale something from first principles that's really, really good, it makes everything else a lot easier later on.
+
+**Marcel Santilli:** Andy, anything else that, or from directors that would help before I jump?
+
+**Marcel Santilli:** I got to chat with Ada really quickly.
+
+**Jakub Rudnik:** No, I think we just, oh, go ahead.
+
+**Jakub Rudnik:** With Ambit, we're going to talk about them in a moment, and we have a call right after, so there's some timing to consider. We have their deep dive on Atlas scheduled for Thursday, plus our weekly sync on Wednesday and an hour sync on Thursday with different stakeholders. I want to make sure those two Thursday items feel aligned—that we're not being redundant and we should have both of those, so let's think about that now so we can align it.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** All right, that sounds good.
+
+**Marcel Santilli:** Maybe we can do, um,
+
+**Marcel Santilli:** A deep dive then tomorrow afternoon, maybe?
+
+**Marcel Santilli:** Or when would it be a good time for us to sync just to make sure that the deep dive we're doing with them on Thursday and whatever you're sharing on Wednesday is fairly aligned or to help me come up to speed?
+
+**Jakub Rudnik:** Yeah, tomorrow afternoon we'll discuss them again, and we can bring those items together. I'll get that scheduled with you so we make sure those two things are cohesive. We'll see that tomorrow afternoon.
+
+**Marcel Santilli:** Yeah, I think the Thursday one is more about showing them things, kind of like a QBR-ish format, summarizing the value. That was kind of the intent, potentially with an upsell angle.
+
+**Marcel Santilli:** Addressing some of the concerns and things like that, and so it might be a little bit redundant with the Wednesday one, but hopefully the Thursday one feels a lot more like future-looking and getting really excited about continuing to work with us.
+
+**Jakub Rudnik:** Okay, cool.
+
+**Jakub Rudnik:** Thank you.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** Talk soon.
+
+**Andi Bailey:** Thanks, everyone.
+
+**Andi Bailey:** Thanks.
+
+**Andi Bailey:** Okay, so maybe we'll put a pin in this one.
+
+**Andi Bailey:** Jakub, you'll find time with Marcel, and you've been working with Darrell and Panzer. Is there anybody else, aside from people on this call, that you need to talk to about this?
+
+**Andi Bailey:** Because we can use this time to talk a bit, and then you don't have to duplicate.
+
+**Jakub Rudnik:** I mean, I had that, I have a schedule with David, plus those folks for right after this.
+
+**Jakub Rudnik:** Yeah, I don't know if Darrell or Panzer, you want to talk ahead of that?
+
+**Matthew Panzarino:** Yeah, I can give a recap of my angle on it, which is that I needed to rebuild their artifacts before we started anything else, right?
+
+**Matthew Panzarino:** It just needed a real rework of those before we could judge whether or not the pipelines were producing something that could get anywhere near their high expectations for technical quality and technical jargon.
+
+**Matthew Panzarino:** There's still some work to be done on the workflows themselves, which align with some of the work that Kirkland is doing for Biologica.
+
+**Matthew Panzarino:** We're doing that sprint with Biologica, and they have a lot of, like a big knowledge base of medical terms that they want really specific definitions for and that sort of thing.
+
+**Matthew Panzarino:** So the work that he's doing there, I've already flagged it to him, might be interesting for us to tap into for a bit, so he's aware of it.
+
+**Matthew Panzarino:** But if they end up building something like that knowledge-based fact checker, knowledge-based fact checker, we can integrate it into the in-bit workflow as well.
+
+**Matthew Panzarino:** For now, I've basically put that definition library into the writing guidelines, and it seems to be producing some pretty decent results.
+
+**Matthew Panzarino:** I would be more comfortable with it being a separate entity that we can then tweak and observe closely about whether or not it was, you know, operating correctly or not, a separate workflow entity.
+
+**Matthew Panzarino:** So we're working on that.
+
+**Matthew Panzarino:** I have reworked the artifacts, and we've run, I've run some test articles, and I hope David is using them today, like I asked to run a bunch more test articles, as many as possible before he's out, so that we can get a bead on stuff that's good.
+
+**Matthew Panzarino:** And then I would like him to spend the rest of the time that he has running a handful of articles and doing some edits, which we can talk about, Jacob, to make sure that, because I can edit them, but I can't edit them in the context that, as closely as David has, because he's been talking to them so much about what they want.
+
+**Matthew Panzarino:** And then to get a feel for, of course, the difference between what's coming out of these.
+
+**Matthew Panzarino:** The workflow, and then what an edited state for them looks like, and how far off we are.
+
+**Matthew Panzarino:** I think we're pretty close.
+
+**Matthew Panzarino:** I think we're a lot closer than we were.
+
+**Matthew Panzarino:** The articles that are coming out seem to have higher technical acumen.
+
+**Matthew Panzarino:** They're more detailed.
+
+**Matthew Panzarino:** They're more related to their core ACP.
+
+**Matthew Panzarino:** Of course, these would be Bofu, not Tofu, right, Jakub?
+
+**Matthew Panzarino:** These are the more technical articles, not the broader top of funnel topics.
+
+**Jakub Rudnik:** Oh, yeah, I think that's right.
+
+**Jakub Rudnik:** That's all.
+
+**Jakub Rudnik:** I mean, there's a ton there, and especially with your support on the call itself will be really useful.
+
+**Jakub Rudnik:** I think the last piece that maybe that we're just spending the other 30 minutes doing, but it's really like, how do we demonstrate these?
+
+**Jakub Rudnik:** I mean, we've done a ton, and we're saying these things.
+
+**Jakub Rudnik:** How do we show them that change in content in a 30-minute call that makes them feel...
+
+**Jakub Rudnik:** I think we can have the outputs, like the stuff with the webinars and things.
+
+**Jakub Rudnik:** It's like, cool, we have done extra little surprise and delight on the side to make up for...
+
+**Jakub Rudnik:** Some of the gaps, like publishing output, quantity output to date, but that, like, we did all this stuff, like, they, in my mind, they're going to be very skeptical, like, yeah, we've made changes this whole time, but we still haven't reached it.
+
+**Jakub Rudnik:** Like, why would all those things, which we don't fully understand, like, kind of hear you, but, you know, like, how do we show that?
+
+**Jakub Rudnik:** So I think that's the last piece to me.
+
+**Jakub Rudnik:** It's like, we have done so much.
+
+**Jakub Rudnik:** I truly appreciate you.
+
+**Jakub Rudnik:** Everybody's jumped in on that.
+
+**Jakub Rudnik:** Who has more?
+
+**Jakub Rudnik:** Like, of the knowledge of workflows in Atlas at this point, and then, but then how do we, like, bring that in, like, a little container and show them so they feel that they can get that buy-in in that 30 minutes?
+
+**Jakub Rudnik:** Not, like, a fully buy-in in that time, but how do we show and move that forward?
+
+**Matthew Panzarino:** Yeah, I think one straightforward way to do it is to show one of the articles they gave us feedback on, one they said was kind of good but needed improvements, and then show them how we redid it with our latest tooling.
+
+**Matthew Panzarino:** So basically saying, hey, here's the one you gave us feedback on, which, you know, you said we had some input for us, et cetera.
+
+**Matthew Panzarino:** Now here's a version created with our updated, the latest version of our internal tooling, which we just shipped, a new version of our internal tooling, and this is the latest, which Atlas is a new piece of internal tooling.
+
+**Matthew Panzarino:** And here's the version created with that.
+
+**Matthew Panzarino:** And basically, let's talk about the differences.
+
+**Matthew Panzarino:** We think there's more technical depth here.
+
+**Matthew Panzarino:** There's, you know, it's definitely more, more factual events, in relation to this topic.
+
+**Matthew Panzarino:** I mean, the, if you look at the before and afters of the ones that, that we did, they're pretty, it is pretty stark.
+
+**Matthew Panzarino:** So I think that will at least be a beginning of conversation.
+
+**Matthew Panzarino:** And say, hey, I know we have to still calibrate these with you, but we think we're in a much better place that could get closer to what you want your technical documentation, or technical articles to look like.
+
+**Matthew Panzarino:** And that would be attractive to your ICP.
+
+**Matthew Panzarino:** And then we can just start a new round of calibration with them based on the output.
+
+**Matthew Panzarino:** Or from the new articles, basically saying, hey, we've got our upgraded system, and now we'd like to calibrate on this new system with you.
+
+**Matthew Panzarino:** The question in my mind is, between that call and the next day's call, when do we want to demonstrate or talk about Atlas? I can talk about it on that call. I can jump on and do a little demo, or you can handle it, or we can leave it to the next call.
+
+**Andi Bailey:** How do you want to handle that?
+
+**Andi Bailey:** They have seen Atlas in the first feedback call, which is why I'm not so precious about showing it to them, to anybody, because Marcel was just, like, throwing it around, and I think that, like, it's exciting to people.
+
+**Andi Bailey:** So let's talk improvements, and then let's have Marcel do more of the Atlas song and dance.
+
+**Matthew Panzarino:** Yeah, so I don't need to do any Atlas puppetry then.
+
+**Matthew Panzarino:** What I'll instead lean into is just showing them the upgraded artifacts.
+
+**Matthew Panzarino:** And so we've leaned into your definitions, we've included all of your feedback, my messaging to them, or your messaging.
+
+**Matthew Panzarino:** You can do it, Jakub.
+
+**Matthew Panzarino:** I think should be central around the fact that none of what they've done with us is wasted effort.
+
+**Matthew Panzarino:** Like everything that they've done, every bit of calibration work that they have done, and this is not just lip service.
+
+**Matthew Panzarino:** This is true because I took all of the calibration content that they produced for us, whether that's comments in articles or feedback in the channel, anything that they've shared with us for feedback.
+
+**Matthew Panzarino:** With that, it's all fed into this new version of the artifacts that should integrate a lot more detailed feedback and instructions for Atlas.
+
+**Matthew Panzarino:** And now it is producing higher quality content.
+
+**Matthew Panzarino:** So all of the work that they've done has been leading to this point, basically.
+
+**Matthew Panzarino:** That's the messaging.
+
+**Matthew Panzarino:** None of this back-and-forth conversation has gone to waste and, in fact, was extremely valuable.
+
+**Matthew Panzarino:** And now here is the product of that.
+
+**Matthew Panzarino:** Here's the result of all of that work on both our parts.
+
+**Jakub Rudnik:** Okay.
+
+**Jakub Rudnik:** Well, thank you.
+
+**Andi Bailey:** Okay.
+
+**Darrell Etherington:** Just on this, I wanted to clarify what specifically you're hoping I can help with, Jakub?
+
+**Darrell Etherington:** Like, I can be there if we're doing this, the account handoff between MEs, but I don't want to add additional noise, because it sounds like everything else is pretty clear.
+
+**Darrell Etherington:** So I don't want to just be like another voice in the mix.
+
+**Matthew Panzarino:** I want you to be on the call, Darrell.
+
+**Jakub Rudnik:** Okay.
+
+**Matthew Panzarino:** I think, I think, you know, you got to be included on this upcoming call, just because you had some historical context, Darrell, but you can, like, it's optional.
+
+**Matthew Panzarino:** If you have a minute, we can jabberjaw about it.
+
+**Matthew Panzarino:** Just historical context on, like, trying to massage the workflows into a place where it gave us more technical results.
+
+**Matthew Panzarino:** And so I am far from claiming I have nailed it 100%. I've just gotten this closer, I think.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** So any, any additional context is great.
+
+**Matthew Panzarino:** That's all, I think.
+
+**Darrell Etherington:** Okay, cool.
+
+**Darrell Etherington:** Yeah, I just feel like I'm, like, a part of the archaeology from a few strata ago, so.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** I get it.
+
+**Matthew Panzarino:** And if you've other things to do, that's fine, too.
+
+**Matthew Panzarino:** But David and I and Jakub can talk it over.
+
+**Darrell Etherington:** Okay, cool.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** And then after shoot, this, I think, might be a conversation for when we thought Marcel was going to be here for it.
+
+**Andi Bailey:** But right now, it's just keep delivering.
+
+**Andi Bailey:** And maybe we can bring this up in the one-on-one.
+
+**Andi Bailey:** You can bring this up in your one-on-one with him for now.
+
+**Darrell Etherington:** Yeah, that sounds good.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** If anybody else is aware—Jakub, you've been in the backchannel—they're a fun, material, hard to predict client.
+
+**Darrell Etherington:** So, it's more just, like, for awareness and for Marcel's awareness that these don't seem like necessarily super resolvable issues.
+
+**Mara Leighton:** I don't want to take time if we want to move on to anything else, but I would be interested in your assessment, Darrell. Why aren't they a good fit? Just for pattern recognition purposes.
+
+**Darrell Etherington:** But if we want to move on to something else, like I can chat with you one-on-one or whatever.
+
+**Darrell Etherington:** No, yeah, I mean, I'm happy to.
+
+**Darrell Etherington:** Andy, do we have time or do you want to move on to that?
+
+**Andi Bailey:** Yeah, let's talk about it.
+
+**Darrell Etherington:** Okay, cool.
+
+**Darrell Etherington:** Yeah, I think they're just, like, I think they're very price sensitive as part of it.
+
+**Darrell Etherington:** Like, that's just generally like a thing that is not great for our client base, I would say.
+
+**Darrell Etherington:** But they're also, they do not want to go with, they don't have an experimentation mindset.
+
+**Darrell Etherington:** They have a proof first mindset.
+
+**Darrell Etherington:** Like, every single call has been like, show us how you want to do this, backed by numbers.
+
+**Darrell Etherington:** And I'm like, well, I don't have numbers because it's a, it's a hypothesis.
+
+**Darrell Etherington:** Like, that's how hypotheses work, right?
+
+**Darrell Etherington:** So, they're, yeah, like, they're.
+
+**Darrell Etherington:** They want something very highly crafted and like one shot based on data out the gate.
+
+**Darrell Etherington:** And they like want many, many, many revision cycles on each individual piece before it hits.
+
+**Darrell Etherington:** And that seems to be something we can't really shake them from.
+
+**Darrell Etherington:** Like they're just unwilling to do that.
+
+**Darrell Etherington:** And it's not about quality.
+
+**Darrell Etherington:** It's about because like, you know, they'll just seek another reason to.
+
+**Darrell Etherington:** They're doing refinement for refinement's sake on every single thing.
+
+**Mara Leighton:** Right.
+
+**Darrell Etherington:** Which is like maybe just a internal politics job thing.
+
+**Darrell Etherington:** Right.
+
+**Darrell Etherington:** Like job justification thing.
+
+**Darrell Etherington:** But like whatever the reason, like they have all like everything that they want is sort of like the opposite of what our platform offers.
+
+**Darrell Etherington:** Right.
+
+**Darrell Etherington:** Which is high volume experimentation, scalability.
+
+**Darrell Etherington:** Like they don't seem to want any of that.
+
+**Darrell Etherington:** So, yeah, it's interesting.
+
+**Darrell Etherington:** And they're very, we had the last call.
+
+**Darrell Etherington:** You can go watch it.
+
+**Darrell Etherington:** It a fun one if you do want to watch it.
+
+**Darrell Etherington:** But it was a lot on like us getting to a point of the.
+
+**Darrell Etherington:** Beginning a call where we agree that, like, Tofu, like, the top of funnel stuff is going to zero and, like, all search discovery is going to zero, which they, like, fully admitted and bought into.
+
+**Mara Leighton:** And then them saying, we need you to focus on that, though, and not on anything else up the stack.
+
+**Darrell Etherington:** And I was like, oh, okay, because I feel like what we would like to do is deliver you, like, growth results, right?
+
+**Darrell Etherington:** Like, regardless of where they sit in the stack, like, actual conversions.
+
+**Darrell Etherington:** And we have some great ideas about how to do that.
+
+**Darrell Etherington:** But they just want a top of funnel, and they want, like, very extremely detailed reporting on the top of funnel.
+
+**Mara Leighton:** And that's, like, the only thing that they're interested in.
+
+**Mara Leighton:** That's interesting.
+
+**Mara Leighton:** Are they, what stage are they?
+
+**Mara Leighton:** Are they, like, seed stage?
+
+**Mara Leighton:** Or I'm just not familiar with them.
+
+**Mara Leighton:** Because what you're describing sounds like a company that feels, is, like, acting out of fear a bit, which to me says.
+
+**Darrell Etherington:** Oh, they're definitely acting out of fear because they're a feature of Adobe's creative suite.
+
+**Darrell Etherington:** Like, it's over.
+
+**Darrell Etherington:** It's, that, this thing is completely replaced by anything else, like, built in light.
+
+**Darrell Etherington:** So, 100% acting out of fear.
+
+**Darrell Etherington:** would love to see their actual revenue numbers.
+
+**Mara Leighton:** I'm not surprised in that instance that it's like if there are multiple stakeholders and everyone is feeling, this doesn't change anything, it still sucks, but I'm not surprised that no one wants to try something new regardless of understanding that it might be worthwhile.
+
+**Mara Leighton:** No one wants to make the decision to do something else in case like Old Faithful seems safe, so let's go with Old Faithful.
+
+**Mara Leighton:** That's interesting.
+
+**Mara Leighton:** Yeah, cool.
+
+**Mara Leighton:** I'll watch that call.
+
+**Jakub Rudnik:** The only thing...
+
+**Andi Bailey:** Oh, go ahead, Jakub.
+
+**Jakub Rudnik:** I'll just say they have a ton of stakeholders.
+
+**Jakub Rudnik:** They also have a ton of stakeholders that aren't flexible and know enough about SEO or content, but not quite enough.
+
+**Jakub Rudnik:** Exactly.
+
+**Jakub Rudnik:** So they're very rigid on details that aren't quite correct.
+
+**Jakub Rudnik:** And so then you're like, we should actually be doing this.
+
+**Jakub Rudnik:** And they're like, well, our rules say we can't do that.
+
+**Jakub Rudnik:** And also our rules contradict...
+
+**Jakub Rudnik:** My rules contradict his rules, which contradict their rules.
+
+**Jakub Rudnik:** And so we're all fighting. There's no clear perspective, and they're just not willing to move. They're so rigid.
+
+**Jakub Rudnik:** And then they make so many steps.
+
+**Jakub Rudnik:** It's just like a fight every week.
+
+**Jakub Rudnik:** And then Darrell seems to have gotten like the worst of it.
+
+**Darrell Etherington:** But well, not the worst.
+
+**Darrell Etherington:** I just I'm happy to mix it up, which is probably not the best in all cases.
+
+**Darrell Etherington:** But their main brochure doesn't even render correctly. It's a bit of a mess technically.
+
+**Darrell Etherington:** So yeah.
+
+**Andi Bailey:** I think like maybe just one thing that we can do that's sort of low hanging and not a huge lift is reiterate, do like a bit of a what we heard doc or like summary in their channel so that it's all in writing and they can be thinking about it ahead of the next call.
+
+**Andi Bailey:** It might push them one way or the other, and maybe they'll fire us. But I think reiterating in writing and asking them to make a decision will help. Then pushing them again in the call: you're willing to mix it up, so let's mix it up and get them on the same page. We have the call recording, so we can put those key points in bullet points in writing, which can be an impetus for people to move forward.
+
+**Darrell Etherington:** Yeah, for sure. Edisham had specific actions but didn't do the normal summary, so I'll have him do that or do it myself.
+
+**Andi Bailey:** Yeah, I mean, I think coming from you, just given the direction, and the reception of Edisham so far, might be useful.
+
+**Darrell Etherington:** Yeah, yeah, absolutely, good point.
+
+**Andi Bailey:** Not that that's going to solve anything, but, like, then let's keep pushing them, and, like, be, make it difficult until they figure out to make it easy, or they tell us they don't like what we're doing.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Okay, so just highlighting the data grid piece—we have a couple of contracts that don't match deliverables. Data grids are especially tricky because there are four work streams and we're giving Thiago a lot of additional work.
+
+**Andi Bailey:** But because it's not reflected in the contract, he can be a baby about it.
+
+**Andi Bailey:** So we're gonna make sure that we're staying close to that.
+
+**Andi Bailey:** But we're also ramping up, like publishing and production for them.
+
+**Andi Bailey:** So that will help.
+
+**Andi Bailey:** Like, I don't think they're at risk, but, you know, he likes to, he likes to mouth off.
+
+**Mara Leighton:** Also, for Thiago, we've been piloting socials content, and that's been an interesting process. We could discuss that later if useful.
+
+**Mara Leighton:** I think that one has like a good, the input or the investment required from him.
+
+**Mara Leighton:** I mean, this won't work for everyone, but I think for him, the investment it requires from him also like is equivalent to his like buy-in in some way.
+
+**Mara Leighton:** So I think that's one where like it feels like more impactful to a degree as well.
+
+**Jason Gong:** I mean, I think like at this point, I should have offered all the directors the ghostwriter, like the ghostwriter for you.
+
+**Jason Gong:** So I guess once you see what that process is like, maybe it makes it easier if you want to offer it as an upsell or as a way to save a client even.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** So you, you work with.
+
+**Andi Bailey:** Ghostwriter, Jason?
+
+**Jason Gong:** He kind of just works on his own now.
+
+**Andi Bailey:** Okay.
+
+**Jason Gong:** We have one writer, like zero workflows, so that's kind of where my head's at to help streamline what he's doing once it's repeatable.
+
+**Jason Gong:** I don't know further yet.
+
+**Jason Gong:** Right now, he writes for Datagrid and one of my posts a week, and he's also writing for other clients.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Cool.
+
+**Andi Bailey:** So this next part is about upsell conversations. I had a conversation with Kyle and wanted to make sure everybody's across the upsell opportunities in progress.
+
+**Andi Bailey:** I think we need to formalize the upsell process more. For WebStacks, we committed to a deep dive strategy refresh in July, so Jakub, it's probably a good time to schedule that if it's not already on the calendar.
+
+**Andi Bailey:** And, yeah, their renewal is in three-month increments, so we're going to need to update the contract.
+
+**Andi Bailey:** But Kyle thought that he heard that there was an upsell opportunity.
+
+**Andi Bailey:** So I think, like, in the feedback session, you can do a little bit of a deep dive on their plan going forward and ways that we might be able to support an upsell.
+
+**Jakub Rudnik:** Yeah, I connected with them on upsell opportunities. Timelines are unclear for some, but I got conversations started this week.
+
+**Andi Bailey:** I haven't scheduled the larger deep dive, but we'll do that.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** And I don't think we necessarily need Marcel in that.
+
+**Andi Bailey:** We might be able to start pulling what he's doing in the other dives and deliver on our own—a little QBR slash Atlas demo slash three-month strategy plan.
+
+**Andi Bailey:** And then follow up with a more detailed pitch.
+
+**Jakub Rudnik:** Mm-hmm.
+
+**Jakub Rudnik:** Makes sense.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** I can work with you on that if you want.
+
+**Andi Bailey:** And then Galileo, their renewal is in October and Kyle is reaching out to Connor because he sees an upsell opportunity.
+
+**Andi Bailey:** Mara, you, did you, are you across that or have you heard about that?
+
+**Mara Leighton:** I haven't really.
+
+**Mara Leighton:** Like I think we've discussed very generally that they.
+
+**Mara Leighton:** Would be an upsell opportunity, but I haven't heard anything beyond that.
+
+**Mara Leighton:** So I can connect with Kyle or whatever the preferred process is there, but not too much detail.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** I think like that's what the conversation today highlighted for me is that like Kyle's talking to all of your clients and you should probably just know that and be across it so that it doesn't seem like we're at cross purposes.
+
+**Andi Bailey:** Um, but yeah, they have, uh, along the same lines, like we know that we've been over delivering ramp for a while.
+
+**Andi Bailey:** They have apparently verbally agreed to increase the contract value.
+
+**Andi Bailey:** Um, and Kyle's going back and forth on like procurement, um, and things like that.
+
+**Andi Bailey:** So like there may be places that you can help push or things that you want to keep their team updated on.
+
+**Andi Bailey:** Um, it may be an opportunity to push back a little bit until the contract comes through.
+
+**Andi Bailey:** I don't know.
+
+**Andi Bailey:** But just like stay, stay close to Kyle and maybe there might be leverage that you can apply to for them to get through procurement so that we can actually get that contract value.
+
+**Andi Bailey:** Because while they verbally said yes, like we're still over delivering on what they pay, what they're paying for.
+
+**Mara Leighton:** Yeah.
+
+**Mara Leighton:** Okay, that's good to know.
+
+**Mara Leighton:** That's helpful, especially because they're a little bit more of a, like, not necessarily demanding, but somewhat demanding client.
+
+**Matthew Panzarino:** Yeah, I mean, they're a big organization that already has a bunch of content ops and stuff.
+
+**Matthew Panzarino:** So they're going to be more laser on laser eyes.
+
+**Matthew Panzarino:** And well, you know, good practice, because the bigger the org is, the more mature they are, the more they're going to be like this.
+
+**Matthew Panzarino:** And then, frankly, just to Darrell's point, more people justifying their jobs by checking on our progress.
+
+**Mara Leighton:** I think that's a key part of it.
+
+**Matthew Panzarino:** Yeah, it's just a large content organization. Ask me how I know later.
+
+**Matthew Panzarino:** So, Ramp Publishing, did they give us the API key or did they give us access to the HTML editing or Markdown editing?
+
+**Mara Leighton:** Yes.
+
+**Andi Bailey:** There's a live linear ticket for that.
+
+**Matthew Panzarino:** No, that's for the publishing workflow, which is great.
+
+**Matthew Panzarino:** I'm happy about that.
+
+**Matthew Panzarino:** I just meant for our editing purposes.
+
+**Matthew Panzarino:** Did they give us access to the Markdown view?
+
+**Mara Leighton:** I believe so, but let me confirm.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** Yeah, now, the automated publishing will, of course, help with that.
+
+**Matthew Panzarino:** It'll remedy a lot of that.
+
+**Matthew Panzarino:** But, Andy, just for context, we only had access to their rich text editor, which was basically, it added, it, like, tripled the amount of time that it took to publish anything with them because you had to manually infer tables, which is insane.
+
+**Matthew Panzarino:** Like, so that was, like, a process issue.
+
+**Matthew Panzarino:** But, obviously, that's just a, that's, like, a small, handheld hammer, whereas the sledgehammer is, okay, let's actually break through the automated publishing.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Okay, we're at time, but just flagging these three accounts, specifically, are probably prime for QBR, Tiro, we're three months from when they last gave notice, so good time to review how far we've come, AmiBit, their pilot period ends in a week, so, like, this is a good time to, like, set that standard, and then Rapid just came out of their pilot period, so, yeah, it sounds like, Mara, you're across that, too.
+
+**Mara Leighton:** We had a meeting with Tim earlier today—our new stakeholder for Ambit since someone left the client. Tim will be our main point of contact. I'm meeting with him for a one-on-one on Thursday to get his more candid feedback.
+
+**Mara Leighton:** And then Rapid, we had a really good call with them earlier today about a project that we'll mostly be, like, I'll mostly be working with engineering on, but it would be essentially just, like, automating their lead qualification system, which would be great for us because it's directly related to revenue.
+
+**Mara Leighton:** I'll keep the team updated on the Rapid automation project, and we should be in a decent position with them.
+
+**Andi Bailey:** Okay.
+
+**Jason Gong:** Do we have, like, a QBR, like, template or something?
+
+**Jason Gong:** Like, what are the things we should talk about?
+
+**Andi Bailey:** I don't know. I was going to base it on the one you did for Abnormal.
+
+**Jason Gong:** I don't even know if that one's good, to be honest. Can we talk about it?
+
+**Jason Gong:** They gave me some feedback, and we can probably come up with something.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** I want to work with you on standardizing the QBR—something we should start doing across the board. These three accounts seem prime to start, and then we can expand from there.
+
+**Andi Bailey:** Don't forget, so we are in the second week of the ENG ops cycle, sprint cycle.
+
+**Andi Bailey:** So anything that goes in this week will be prioritized for the cycle next week, or like at least reviewed.
+
+**Andi Bailey:** So I'll keep saying this all week, but like get linear tickets in if you need something done.
+
+**Andi Bailey:** Okay, I will talk to you guys all tomorrow, because this is daily, and maybe we can talk more about this EM thing and if we're hearing more.
+
+**Andi Bailey:** Bye.
+
+**Mara Leighton:** Bye, everyone.

@@ -1,0 +1,1093 @@
+# Superhuman <> GrowthX sync
+
+<metadata>
+date: 2025-10-09
+time: 16:59 UTC
+duration: 40 minutes
+organizer: Megan Dickey (GrowthX)
+participants: Bethany Brambrink (Superhuman), Morgan Maurer (Superhuman), Jo Kaminska (GrowthX), Megan Dickey (GrowthX)
+fathom_recording_id: 93110215
+fathom_url: https://fathom.video/calls/435763306
+share_url: https://fathom.video/share/xU1wSsZPs4EHdQszzN3SMWpE3Nvuyxqy
+source: fathom
+enriched_on: 2026-03-02 13:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Superhuman aligned on content strategy for Superhuman's Oct 29 rebrand to "Superhuman Mail," with GrowthX committed to updating the top 20% of blog posts and all new content to reflect the rebranding and optimize for key topics. Jo presented a comprehensive content audit showing 647 blog posts with 11% prioritized, strong SEO health with growing traffic, and AI/automation content performing best; LLM traffic is small but growing with Superhuman leading 30% of competitive responses. The team agreed to async updates next week, moving to monthly performance reports and weekly Slack updates on content production.
+
+---
+
+## Context
+
+Superhuman is a client engagement led by Megan Dickey at GrowthX, with Bethany Brambrink and Morgan Maurer representing the client side. The relationship involves content marketing and SEO optimization to support Superhuman's email productivity platform. This meeting occurred ahead of a major rebranding initiative on Oct 29, where Superhuman is transitioning from "Superhuman" to "Superhuman Mail" to clarify its positioning in an increasingly crowded productivity software market. GrowthX has been conducting a comprehensive content audit and competitive analysis to inform the rebrand strategy and identify optimization opportunities across Superhuman's blog content.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Major rebrand project launching Oct 29 requiring rapid content updates; GrowthX to update top 20% of 647 blog posts plus all new content by staging week of Oct 23 and publishing Oct 27-28
+- Content audit identified 12 high-priority posts for pruning/merging to improve SEO; 31 404 errors requiring redirect mapping from Superhuman
+- AI/automation, stats/examples, and workflow automation are top-performing content clusters; focus future refreshes on AI, productivity, and email topics
+- Shift from bi-weekly syncs to async updates with monthly performance reports and weekly Slack updates on content production
+
+**To CheckThat:**
+- Strong LLM visibility data: Superhuman appears in 30% of 14,000 ChatGPT-driven prompts, with 65% top-3 placement and 98% positive sentiment
+- LLM traffic is small (1-5%) but growing; ChatGPT is primary source; identified opportunity to increase LLM presence through FAQ and positioning content
+- Third-party citations comprise 91% of LLM mentions, indicating strong brand authority and PR impact
+
+**To GrowthX Business Development:**
+- Account health signals positive: 647 blog posts, growing organic traffic, 50% engaged reader rate (10+ sec, 2+ pages, or conversion), strong technical SEO foundation
+- Competitive tracking expansion identified: Fixer, Shortwave, Notion Mail, and Front added to competitive set; GrowthX to update tracking
+- High probability of expansion: rebranding effort, monthly reporting requests, and weekly content updates indicate deepening engagement and potential for additional service expansion
+
+---
+
+## Overview
+
+- Superhuman rebranding to "Superhuman Mail" on Oct 29; GrowthX to update top 20% of blog posts and all new content
+- Content audit shows healthy SEO, growing traffic, and strong LLM presence; focus on refreshing key topics (AI, productivity, email)
+- New competitors identified: Fixer, Shortwave, Notion Mail, Front; GrowthX to update competitive tracking
+- Async updates next week; monthly performance reports and weekly content production updates moving forward
+
+---
+
+## Key Topics
+
+### Rebrand Content Updates
+
+  - Update top 20% converting blog posts and all new content for Oct 29 launch
+  - Focus on updating product/mail links, meta titles/descriptions, and Superhuman Mail naming
+  - Stage changes week of Oct 23, publish in batches Oct 27-28
+  - Bethany to share Google Doc with naming guidelines within an hour
+  - 31 404 errors found; GrowthX to assist with redirects once Superhuman provides mapping
+
+### Content Audit Results
+
+  - 647 blog posts; 11% prioritized (39 high, 32 mid, 3 low priority)
+  - Main content clusters: productivity, AI tools, rev ops, customer retention
+  - 12 high-priority posts to prune/merge for SEO optimization
+  - Strong technical SEO health; minor issues to address
+  - Traffic growing steadily; \~50% of readers are engaged (10+ sec, 2+ pages, convert)
+  - AI/automation content performing best; stats, examples, workflow automation also strong
+  - LLM traffic small (1-5%) but growing; ChatGPT primary source
+
+### Competitive Landscape
+
+  - Superhuman leading in LLM presence (30% of 14,000 responses)
+  - 65% of appearances in top results; 98% positive sentiment
+  - 91% of citations from third-party websites
+  - New competitors to track: Fixer, Shortwave, Notion Mail, Front
+
+### Workflow Updates
+
+  - GrowthX to highlight changes in refreshed content for easy review
+  - Async update next week; re-evaluate meeting cadence after
+  - Monthly performance reports, weekly content production updates on Slack
+
+---
+
+## Action Items
+
+- **Bethany Brambrink (Superhuman):** Share Google Doc with Superhuman Mail naming guidelines
+- **Jo Kaminska (GrowthX):** Begin updating top 20% blog posts and new content for rebrand; stage changes week of Oct 23, publish Oct 27-28
+- **Morgan Maurer (Superhuman):** Provide mapping for 31 404 error redirects
+- **Jo Kaminska (GrowthX):** Update competitive tracking with Fixer, Shortwave, Notion Mail, and Front
+- **Jo Kaminska / Megan Dickey (GrowthX):** Send first refreshed content samples to Morgan for team awareness
+- **All participants:** Async update next week; re-evaluate meeting needs for the following week
+
+---
+
+## Transcript
+**Jo Kaminska:** Glass, and like an unusual time for me.
+
+**Jo Kaminska:** I just usually have them on the weekends.
+
+**Megan Dickey:** Nice, I didn't realize you were taking Portuguese.
+
+**Megan Dickey:** How long have you been doing that?
+
+**Jo Kaminska:** On and off, I think like since I moved to Lisbon, so like around two years, but like on and off because like I traveled in Southeast Asia or in Latin America.
+
+**Jo Kaminska:** So I just like lost a little bit of that.
+
+**Jo Kaminska:** So, but not like I try to keep on track.
+
+**Jo Kaminska:** And actually today I realized that they have also phrasal verbs like English does.
+
+**Jo Kaminska:** So, yeah.
+
+**Jo Kaminska:** Fun.
+
+**Megan Dickey:** Yeah, for sure.
+
+**Megan Dickey:** Yeah, it's funny.
+
+**Megan Dickey:** Like I took like a pretty useless link.
+
+**Megan Dickey:** I mean, it's not useless, but I took Italian in high school and college and I like studied abroad in Italy.
+
+**Megan Dickey:** But it's just like, it's not super useful for me.
+
+**Megan Dickey:** Like I really just should have taken Spanish.
+
+**Megan Dickey:** It's just like people in San Francisco actually speak a lot of Spanish.
+
+**Megan Dickey:** I'm like, it would be more helpful than knowing some Italian at this point, but yeah.
+
+**Jo Kaminska:** Yeah, but they are a bit similar, but like Spanish is, sorry, by the way, like, yeah.
+
+**Jo Kaminska:** Yeah, but Spanish is very useful, like, you have like many Spanish-speaking people in the U.S., and Spanish is a pretty easy language, but maybe hard to master because they have like many irregular verbs, especially like in the past.
+
+**Jo Kaminska:** Like Portuguese is more irregular, but Portuguese pronunciation is more difficult, so I think, but yeah, like I started learning Spanish, like I was planning to move to Spain initially, and then I decided to go to Portugal, but like Spanish seemed easier to pick up, like B2 level or so.
+
+**Jo Kaminska:** Yeah, for sure.
+
+**Megan Dickey:** Yeah, thanks.
+
+**Jo Kaminska:** But it's, I don't know, I like learning languages in interesting.
+
+**Jo Kaminska:** Hi, Bethany.
+
+**Jo Kaminska:** Hey, Bethany.
+
+**Bethany Brambrink:** How you doing?
+
+**Bethany Brambrink:** Hi, guys.
+
+**Bethany Brambrink:** Hi, Morgan.
+
+**Bethany Brambrink:** Morgan.
+
+**Bethany Brambrink:** Hi, how are you?
+
+**Morgan Maurer:** Hey, good to see you.
+
+**Jo Kaminska:** Hello.
+
+**Megan Dickey:** Yeah, I think, I'm not sure if either of y'all have met Jo, so I just want to kind of start it there.
+
+**Megan Dickey:** So Jo is our, she's a managing editor here at Growthx.
+
+**Megan Dickey:** She's been working on the Superhuman account, I guess for the last, like, a couple months.
+
+**Megan Dickey:** Yeah, because, yeah, Elvis, Elvis left, and I know you had all previously worked with Elvis, so, like, Jo has stepped in, and she's been helping me out with Superhuman.
+
+**Megan Dickey:** She recently completed a content audit, but, yeah, maybe, Jo, I'll just have you just do a quick intro, and, yeah.
+
+**Megan Dickey:** Oh, sure.
+
+**Jo Kaminska:** Yeah, Morgan, first of all, nice to meet you.
+
+**Jo Kaminska:** Super excited to start working together and finally meet you.
+
+**Jo Kaminska:** And once it comes to my background, like, I have extensive experience in B2B SaaS, work across different brands, data analytics, document automation, AI, sales marketing.
+
+**Jo Kaminska:** So a lot of very different industries, as well as go-to-market strategies, both for product-led companies that are focused more on sign-ups, as well as enterprise platforms.
+
+**Jo Kaminska:** So I'll be bringing this experience, so you can ask me about anything editorial and performance-related.
+
+**Jo Kaminska:** And, yeah, I have a couple of questions, or we have a couple of questions for you today, but super happy to actually dive into, like, a reporting that summarizes the whole year until this point, and as well as, like, content audit, which is very related to your rebranding.
+
+**Jo Kaminska:** So super happy to share results with you today.
+
+**Jo Kaminska:** Okay, that sounds good.
+
+**Morgan Maurer:** Great to meet you.
+
+**Morgan Maurer:** And I know Bethany has some stuff that she is hoping to chat about as well.
+
+**Morgan Maurer:** Bethany, for joining.
+
+**Morgan Maurer:** Just to give a little additional context, Alex has been your point of contact, but since he's out on parental leave, I'm going to...
+
+**Morgan Maurer:** Jump into these meetings, and then Harmony is going to try to join, I think, every other call.
+
+**Morgan Maurer:** We have two people on our leadership team out on parental leave, and a third to put in their notice.
+
+**Morgan Maurer:** She is just very, very strapped for bandwidth.
+
+**Morgan Maurer:** So I would say even if we don't have her on these calls, if there's any key decisions that I need to bring back to the team, I'm like, if we aren't making all the decisions on this call, I'm happy to take step to her.
+
+**Morgan Maurer:** She's just going to not be able to jump into all these calls.
+
+**Morgan Maurer:** Okay, yeah, that's, yeah, that makes perfect sense.
+
+**Megan Dickey:** Yeah, it's, yeah, sounds like, yeah.
+
+**Megan Dickey:** We're all jumping into the court where we can.
+
+**Morgan Maurer:** Like, our team went from six leaders to three in, like, a week.
+
+**Megan Dickey:** So, you know?
+
+**Megan Dickey:** yeah.
+
+**Jo Kaminska:** Jumped in.
+
+**Jo Kaminska:** Funky.
+
+**Jo Kaminska:** For sure, for sure, cool.
+
+**Megan Dickey:** Well, yeah, well, definitely, yeah, we still appreciate, yeah, the two of you taking the time.
+
+**Megan Dickey:** Yeah, I feel like, yeah, especially just as we were getting closer to that rebrand date, we just wanted to make sure that we're all on the same page moving forward.
+
+**Megan Dickey:** make sure that we're going to Thank you.
+
+**Megan Dickey:** Yeah, and so I guess, let's see, well, Bethany, did you, because I feel like you've been more so, you had been supporting Alex around like the rebrand.
+
+**Megan Dickey:** So I almost think it might be most helpful to start with you.
+
+**Bethany Brambrink:** I'm just going to see.
+
+**Bethany Brambrink:** I asked you to add me to this call because I was like, oh, we need to check in.
+
+**Bethany Brambrink:** I realized we talked like maybe a month ago and I have like a lot more updates for you guys.
+
+**Bethany Brambrink:** Great.
+
+**Bethany Brambrink:** Yeah.
+
+**Megan Dickey:** We're good for all the updates.
+
+**Jo Kaminska:** Yeah.
+
+**Bethany Brambrink:** So just an FYI, we have on the actual blog, we've already like set up and staging like the new like Superhuman logo and like any updates to like the header and footer.
+
+**Bethany Brambrink:** And I think last time we chatted was like just getting doing an audit of, I think I shared a sheet with you guys.
+
+**Bethany Brambrink:** I'm not sure if you're still working out for that one of like our top blog pages in terms of like conversions.
+
+**Jo Kaminska:** Yeah, can't account of this into our audit.
+
+**Jo Kaminska:** So.
+
+**Bethany Brambrink:** And I guess my question for you guys is, we have all of the new links ready in production.
+
+**Bethany Brambrink:** Ideally, we don't publish them out yet because we don't want to spoil the surprise too early.
+
+**Bethany Brambrink:** But have you guys been able to start working through getting those links updated and drafted on some of these pages?
+
+**Bethany Brambrink:** Where are we at with that?
+
+**Bethany Brambrink:** Yeah, so I wanted to check in with you about it.
+
+**Jo Kaminska:** So we have this top blog post that we identified as for refresh.
+
+**Jo Kaminska:** So we wanted to align with you whether this should be updated first or whether we should update every single blog post.
+
+**Jo Kaminska:** So currently we have, I think, 647 blog posts.
+
+**Jo Kaminska:** So I wanted to ask, should we focus on this 20% top ranking or top converting or we should just go all in?
+
+**Jo Kaminska:** Ideally, we would do everything.
+
+**Bethany Brambrink:** I think starting with the top 20% makes the most sense.
+
+**Bethany Brambrink:** Mm-hmm.
+
+**Bethany Brambrink:** I think it's a combination for me of the top 20% converting and then obviously anything new going out.
+
+**Bethany Brambrink:** I know it's probably tricky between now and the actual launch, which is in a little less than three weeks.
+
+**Bethany Brambrink:** Ideally, we don't publish any of those new links, but we have them ready to go.
+
+**Bethany Brambrink:** So in terms of the freshest blog posts, we want to make sure those are all ready as well, just in case someone's scrolling through our blog and reading newest stuff.
+
+**Bethany Brambrink:** Okay.
+
+**Jo Kaminska:** So just also when it comes to this link, so you're referring to products mail link and updating Superhuman mail across.
+
+**Jo Kaminska:** Yes.
+
+**Bethany Brambrink:** And I had shared in the blog performance, there's a tab that says link changes.
+
+**Bethany Brambrink:** Let me just plug it in here again.
+
+**Bethany Brambrink:** Because I think I shared this last time, but there's a caveat, not all of our website links are changing.
+
+**Bethany Brambrink:** For example, like our like signup page and like our checkout flow.
+
+**Bethany Brambrink:** Those are.
+
+**Bethany Brambrink:** Remaining to be on Superhuman.com.
+
+**Bethany Brambrink:** Yeah.
+
+**Bethany Brambrink:** So I shared the links here.
+
+**Bethany Brambrink:** Basically, can see anything marked in red are links that are actually going to change to the new product slash mail, and then greener ones that are actually staying the same.
+
+**Bethany Brambrink:** Let me, I can update this to these TBDNEDS discussions.
+
+**Bethany Brambrink:** Most of these are also going to go under the product slash mail, although I don't even know if we have any links like this in the blog anyways.
+
+**Bethany Brambrink:** But that's kind of how we're thinking about it.
+
+**Bethany Brambrink:** Yes.
+
+**Bethany Brambrink:** then.
+
+**Bethany Brambrink:** One more thing.
+
+**Jo Kaminska:** So aside from links, I think meta titles and descriptions is something that we should also update.
+
+**Jo Kaminska:** We have a workflow for that, so we could tackle like a bigger batch of URLs just to make sure that they're like aligned with SEO and also your run guidelines.
+
+**Jo Kaminska:** And are you talking more specifically about like our name for like the model?
+
+**Bethany Brambrink:** Yeah.
+
+**Bethany Brambrink:** Okay.
+
+**Bethany Brambrink:** Yeah, exactly.
+
+**Bethany Brambrink:** you.
+
+**Bethany Brambrink:** you.
+
+**Bethany Brambrink:** Thank Thank
+
+**Jo Kaminska:** Because, like, probably, like, specifically in some of these, like, high converting blog posts, like, they are pretty much news articles.
+
+**Jo Kaminska:** So you're talking about superhumans.
+
+**Jo Kaminska:** So I think, like, they should be updated naturally.
+
+**Jo Kaminska:** Yes, that would be great.
+
+**Bethany Brambrink:** Has anyone shared with you the guidance on, like, our name change?
+
+**Bethany Brambrink:** Because it's actually, like, there also are some caveats on, like, when we want to go from superhuman to superhuman male and when we want to stay superhuman.
+
+**Megan Dickey:** No, I don't think anyone has shared that, but that would be very helpful.
+
+**Jo Kaminska:** Yeah, that would be the best place to actually start the work because, like, it's a matter of, like, you know, updating it and staging.
+
+**Bethany Brambrink:** Yes, let me, it's in a Coda doc, which I don't know if I'm allowed to share externally, but I can, let me get a version of this into, like, a Google doc for you guys and I can share with you on the name of this.
+
+**Bethany Brambrink:** I can take that as a takeaway and get that to you within, like, the next hour.
+
+**Bethany Brambrink:** Okay, perfect.
+
+**Bethany Brambrink:** Yeah, that'd be great.
+
+**Bethany Brambrink:** Thank you.
+
+**Bethany Brambrink:** And how do we feel about ideally like we'll push out all these changes the morning of the 29th.
+
+**Bethany Brambrink:** Is that an easy ask for you to do?
+
+**Bethany Brambrink:** Or are you having to like go through each blog post and like click publish?
+
+**Jo Kaminska:** I think we can stage them in the week three of October.
+
+**Jo Kaminska:** So this should be like the deadline.
+
+**Jo Kaminska:** And then using publish is fine.
+
+**Jo Kaminska:** pretty much like one ticket on our site.
+
+**Bethany Brambrink:** Amazing.
+
+**Jo Kaminska:** Maybe we can divide it like, you know, like 27, 28, like in batches, but definitely.
+
+**Jo Kaminska:** That's fine.
+
+**Bethany Brambrink:** Again, I don't think anyone's going to be like rushing, rushing to like look through our blog and like, I don't think we'll have like links that are broken.
+
+**Jo Kaminska:** At the same time, you have a lot of traffic, so you know.
+
+**Jo Kaminska:** Yeah, it's true.
+
+**Jo Kaminska:** It's true.
+
+**Jo Kaminska:** true.
+
+**Bethany Brambrink:** It's It's I will say like, like we'll have.
+
+**Bethany Brambrink:** Most of our links actually will have temporary redirects up, so if we missed it, it's not a huge deal.
+
+**Bethany Brambrink:** The only ones that won't be temporarily redirected is our main page, superhuman.com is going to be on the 29th, the new superhuman.com.
+
+**Bethany Brambrink:** It's not going to redirect up-products.fmail.
+
+**Bethany Brambrink:** And blog links stay as they are, right?
+
+**Bethany Brambrink:** As we discussed last time.
+
+**Bethany Brambrink:** We have a bunch of subdomains, like settings.superhuman, like a bunch of ones, those are all staying as is.
+
+**Bethany Brambrink:** Okay, perfect.
+
+**Bethany Brambrink:** But yeah, let me know if you have questions as you look at the links, and then I will, like I said, I'll share a Google Doc with the naming.
+
+**Bethany Brambrink:** Yeah, that'll be super helpful.
+
+**Bethany Brambrink:** Yeah.
+
+**Bethany Brambrink:** Cool, and then I can keep you guys posted too.
+
+**Bethany Brambrink:** Like as we get close, I'm actually not sure, like timing of the launch on the 29th, but as we get closer and I learn a little bit more, I'll make sure to check in.
+
+**Bethany Brambrink:** Great.
+
+**Megan Dickey:** And then, and I believe maybe either you or Alex mentioned that like Rahul might have like a blog post coming out sort of talking more about the rebrand on that date.
+
+**Megan Dickey:** Has anyone reached out to you guys?
+
+**Bethany Brambrink:** I heard some mumblings that I think like the Grammarly team wanted to also share a post on our blog page.
+
+**Bethany Brambrink:** Morgan, have you?
+
+**Bethany Brambrink:** Sorry, it's like a little all over the place.
+
+**Bethany Brambrink:** I had not heard about Grammarly wanting to share.
+
+**Morgan Maurer:** I know that Harmony is like putting together the blog draft.
+
+**Morgan Maurer:** Okay.
+
+**Morgan Maurer:** Say more about why would Grammarly post a blog to our blog?
+
+**Morgan Maurer:** I don't have a ton of information.
+
+**Bethany Brambrink:** I just know that Thomas mentioned something to me.
+
+**Bethany Brambrink:** Hold on.
+
+**Bethany Brambrink:** I can find it really quick on my Slack.
+
+**Bethany Brambrink:** Like I see in Coda this like, yeah, introducing Superhuman Male.
+
+**Morgan Maurer:** But yeah, this is a Superhuman Male blog post.
+
+**Bethany Brambrink:** Okay.
+
+**Bethany Brambrink:** Maybe that's.
+
+**Bethany Brambrink:** Okay, yeah, so I misunderstood, just like forget everything I said, again, you guys are good, yes.
+
+**Bethany Brambrink:** Harmony is a quarterback, as said on the blog post.
+
+**Bethany Brambrink:** Okay, cool.
+
+**Megan Dickey:** Yeah, well, yeah, I'm thinking like, okay, like once we're like, you know, all the links are in place, like we're now it's like, you know, October 30th, and like, we're actually still publishing content.
+
+**Megan Dickey:** It's like, I'm wanting to make sure our like artifacts and our workflow are updated for however it is that we want to talk about superhuman mail moving forward.
+
+**Megan Dickey:** And if we're still just, if the only difference right now is like, we're just calling it superhuman mail, or are we going to be talking more about like, how it's integrating with Grammarly and Coda?
+
+**Megan Dickey:** Or has there been any like further discussion around that?
+
+**Morgan Maurer:** That's a great question.
+
+**Morgan Maurer:** It's a really good question.
+
+**Morgan Maurer:** There is a lot of conversations happening right now about this because we don't have a super strong CTA to our current customers right now of like what to do because they can't, Bethany's going to be able to speak to this on a more technical level, but like our users can't upgrade to this new bundle immediately.
+
+**Morgan Maurer:** It's like going to be coming soon and if you're a visual user, what is really annoying is like you could cancel your superhuman account and then go buy the bundle, but like we don't want people to do that.
+
+**Morgan Maurer:** So we're working through because we're going to have like a virtual event and stuff too and this conversation is like actively happening this week.
+
+**Morgan Maurer:** The blog right now, like it mentioned, it's like talking about this new like AI native productivity suite and it's like talking about our products, but I think that's kind of like the big piece that the team is working through of like what is that call to action because we need to be able to like more heads-on address our customers.
+
+**Morgan Maurer:** Right, right.
+
+**Megan Dickey:** Okay, cool.
+
+**Megan Dickey:** Yeah.
+
+**Megan Dickey:** Yeah, just wanted to make sure that we're not, like, missing anything, and so I guess we'll just, yeah, kind of await further instruction, but in the meantime, just superhuman mail, and then we can kind of, obviously, just, like, stay in communication about, like, how we might want to evolve that moving forward.
+
+**Morgan Maurer:** Yeah, there's, yeah, there's, like, still a lot of, like, messaging and positioning docs that are actively being worked on, just for the context.
+
+**Megan Dickey:** Cool.
+
+**Megan Dickey:** Yeah, for sure.
+
+**Megan Dickey:** No, that's helpful.
+
+**Megan Dickey:** That's good to know.
+
+**Megan Dickey:** Thank you.
+
+**Megan Dickey:** Okay.
+
+**Jo Kaminska:** Cool.
+
+**Jo Kaminska:** Anything else to talk to this topic?
+
+**Jo Kaminska:** Bethany, do you need anything else?
+
+**Morgan Maurer:** How are you feeling?
+
+**Morgan Maurer:** How about?
+
+**Morgan Maurer:** I feel good overall.
+
+**Bethany Brambrink:** I feel like the blog is, like, maybe the least of my worries.
+
+**Bethany Brambrink:** I like, I'm really happy that you guys are able to, like, draft the changes, so it's not just, like, rush hour, morning of.
+
+**Bethany Brambrink:** Right.
+
+**Bethany Brambrink:** So I feel good about that.
+
+**Bethany Brambrink:** Again, just let me know if you have questions on the link stuff.
+
+**Bethany Brambrink:** I guess my other question is, like, are you guys going to have any type of, like, QA process?
+
+**Bethany Brambrink:** One, because the links are actually already live, so you could actually test to make sure that, like, the new CTAs work.
+
+**Bethany Brambrink:** But I just want to make sure that, like, there's at least, like, another set of eyes, like, checking the work as it's happening.
+
+**Bethany Brambrink:** Yeah.
+
+**Jo Kaminska:** So our publishing process works as follows.
+
+**Jo Kaminska:** Like, we have a publishing operations specialist, so he stages it, and then our content manager jumps in and reviews the, like, generally all the content.
+
+**Jo Kaminska:** We're not talking about the rebranding specifically, but, you know, generally as we publish, so everything is, like, double check.
+
+**Bethany Brambrink:** Perfect.
+
+**Bethany Brambrink:** Sounds great.
+
+**Bethany Brambrink:** I think that's it for my end.
+
+**Bethany Brambrink:** Okay, great.
+
+**Megan Dickey:** Well, then, in that case, yeah, Joe, did you
+
+**Megan Dickey:** Wanna just kind of dive into the content on it?
+
+**Megan Dickey:** Yeah, for sure.
+
+**Jo Kaminska:** Cool.
+
+**Jo Kaminska:** So I'll just maybe start from the interface that I built.
+
+**Jo Kaminska:** So it's a very quick summary.
+
+**Jo Kaminska:** So we have like 647 block pieces, and we prioritized like 11% of these, like with all of a specific priority status.
+
+**Jo Kaminska:** So 39 has like high priority status, the mid and low.
+
+**Jo Kaminska:** We divided them into like clusters, so we can see that most of these topics fall into productivity category, and then AI tools, and then some smaller categories around rev ops and customer retention, et cetera.
+
+**Jo Kaminska:** And then you can see like the rest, you know, which are basically a slow priority, basically to keep.
+
+**Jo Kaminska:** Thank you.
+
+**Jo Kaminska:** .
+
+**Jo Kaminska:** At the same time, all the links and all the superhuman mail mentions will be updated, and there are 12 blog posts with high priority to prune, which basically means they have some smaller cannibalization issue, and some of them are related to more commercial keywords, so it's better there are two competing URLs, and one is generally performing better in SERP, so we should merge the one that is not performing well, into the better performing one to consolidate the traffic, so we get a better result with one URL, right?
+
+**Jo Kaminska:** So nothing major when it comes to technical SEO, and then here you can see the specific common refresh opportunities, and the number of seats, and the click difference, impression difference, so this is like six months versus previous period data, so some of them we prioritize based on the conversion seats after this,
+
+**Jo Kaminska:** But at the same time, some of them are losing clicks and impressions.
+
+**Jo Kaminska:** So they are also good candidates for the refresh because they are related to productivity, to email, to basically core of your business.
+
+**Jo Kaminska:** So, you know, basically improving rankings, getting more leads.
+
+**Jo Kaminska:** So this is a very quick summary.
+
+**Jo Kaminska:** And if we go back to the audit itself, you can have here a longer read.
+
+**Jo Kaminska:** So it's like more descriptive, better for reading.
+
+**Jo Kaminska:** But what I wanted to focus very quickly on.
+
+**Jo Kaminska:** So technical SEO summary is that your website is generally very healthy when it comes to this technical side.
+
+**Jo Kaminska:** So I found only like 31 404 errors.
+
+**Jo Kaminska:** I think this, like, do you have a team that handles it?
+
+**Jo Kaminska:** Or should we also do it as part of the rebranding efforts and, like, Lika updates?
+
+**Jo Kaminska:** So basically, there are, like, 31 pages.
+
+**Jo Kaminska:** Just...
+
+**Jo Kaminska:** Just...
+
+**Jo Kaminska:** Just...
+
+**Jo Kaminska:** That's returned the status that should be redirected and published and managed this way so we don't have any, like, basically dead ends, let's say.
+
+**Morgan Maurer:** Bethany, is this something that we would want to pass over to Thomas or do we want to?
+
+**Bethany Brambrink:** Sorry, what is the issue that there's broken, there's links that go to our website that don't exist anymore?
+
+**Bethany Brambrink:** Yeah, 31 of them.
+
+**Bethany Brambrink:** Can you share this, or am I shared on this notion?
+
+**Bethany Brambrink:** Sorry, I.
+
+**Bethany Brambrink:** I'll send you the link.
+
+**Jo Kaminska:** That would be great.
+
+**Bethany Brambrink:** Yeah, I can make sure you have access.
+
+**Bethany Brambrink:** I'd be curious to understand, like, what the broken links are and why they're broken, but this could potentially be something that I just, like, submit a ticket for the growth team for.
+
+**Jo Kaminska:** Yeah, so, for example, best email for product teams return.
+
+**Jo Kaminska:** that's right.
+
+**Jo Kaminska:** I don't know.
+
+**Jo Kaminska:** And the status, like, 404.
+
+**Jo Kaminska:** So, yeah.
+
+**Jo Kaminska:** Like, we have, like, in our content...
+
+**Bethany Brambrink:** Sorry, these are broken blog links or broken links to our, like, website?
+
+**Jo Kaminska:** No, these are, like, these links are broken specifically.
+
+**Jo Kaminska:** So you have to go to your CMS, look for this link specifically, make a 301 redirection, which is a permanent redirection, and then unpublish this blog post and then remove it from the sitemap.
+
+**Jo Kaminska:** So the old links don't stay there.
+
+**Jo Kaminska:** Okay.
+
+**Bethany Brambrink:** So is this something that you guys could actually do?
+
+**Bethany Brambrink:** Or is this something...
+
+**Bethany Brambrink:** Yeah.
+
+**Jo Kaminska:** At the same time, when it comes to, like, us doing it, so do you have any, like, any guidelines around, like, where we should redirect it?
+
+**Jo Kaminska:** Like, is it a matter of, like, would you like them to be redirected to the closest topic or just to blog generally?
+
+**Jo Kaminska:** Because, like, my question is more about, like, the content.
+
+**Jo Kaminska:** I'll
+
+**Jo Kaminska:** So if there was like any other, like, maybe not rebranding, but like some kind of like migrations in the past that we should take into consideration, et cetera, so we redirect it to the best place, basically.
+
+**Morgan Maurer:** And also, just to make sure I'm fully understanding, are these like older blog posts that just like got deleted?
+
+**Morgan Maurer:** Like why?
+
+**Morgan Maurer:** Might be, but we don't know.
+
+**Jo Kaminska:** Yeah, I don't understand.
+
+**Bethany Brambrink:** Also, like, if they're just deleted.
+
+**Bethany Brambrink:** So, yeah, like, yeah, go ahead.
+
+**Jo Kaminska:** It can be the case that, you know, someone like unpublished them, for example, because there was like another blog post that was published on the topic, and they simply didn't do the redirection, right?
+
+**Jo Kaminska:** So usually 404 is a result of like some kind of like, not migration, but some kind of like changes on the website.
+
+**Jo Kaminska:** But there are just 31 of these, so not a very big deal, just better to address.
+
+
+**Jo Kaminska:** It you know, for SEO health journey.
+
+**Bethany Brambrink:** And sorry, just to be like super clear, these like URLs are basically used as a CTA within some of our blog posts.
+
+**Bethany Brambrink:** Is that right?
+
+**Bethany Brambrink:** No.
+
+**Bethany Brambrink:** So basically this link returns 404.
+
+**Jo Kaminska:** So we have to redirect the specific URL.
+
+**Jo Kaminska:** How are people getting to this link is my question.
+
+**Bethany Brambrink:** Yeah.
+
+**Jo Kaminska:** So sometimes they, they're still like indexed in Google, for example.
+
+**Jo Kaminska:** So for example, your, one of your blog posts could be performing very well and then someone unpublishes it, right?
+
+**Jo Kaminska:** It still is like accessible, like people maybe shared it on social media or any other way and then organic, right?
+
+**Jo Kaminska:** So sometimes when you try to like, you search for a certain phrase and then you have these 10 results.
+
+**Jo Kaminska:** One of these results can be broken because someone unpublished this blog post.
+
+**Jo Kaminska:** I see.
+
+**Jo Kaminska:** So it's not like an urgent thing that people find them, cetera, but it's generally better because people have different ways of finding them.
+
+**Morgan Maurer:** If we give you, like, quickly just map where we'd want these redirected to, just like in a Google Sheet, would you be able to help us with the redirects then?
+
+**Morgan Maurer:** Yeah, for sure.
+
+**Jo Kaminska:** Okay, I can do that.
+
+**Jo Kaminska:** Even for the help center?
+
+**Bethany Brambrink:** Do you guys have access to our help center?
+
+**Bethany Brambrink:** Sorry, I'm, like, completely blind on.
+
+**Bethany Brambrink:** I'm sure we have access to your blog domain.
+
+**Jo Kaminska:** Megan, do you have any?
+
+**Megan Dickey:** Yeah, I'm not.
+
+**Morgan Maurer:** I feel like I to know our team isn't just, like, deleting help center.
+
+**Morgan Maurer:** Like, we need to make sure that there is some sort of, it's building a lot of help center pages.
+
+**Morgan Maurer:** Yeah, a couple of blog posts.
+
+**Jo Kaminska:** Updates automatically as you unpublish and redirect or you're doing it like every time you make a change.
+
+**Jo Kaminska:** So also happy to get more context so we can help you with this technical thing.
+
+**Jo Kaminska:** I do not know the answer to that.
+
+**Morgan Maurer:** you, Bethany?
+
+**Morgan Maurer:** Yeah, no.
+
+**Morgan Maurer:** We need to ask someone else on our team.
+
+**Morgan Maurer:** I think it might be helpful.
+
+**Bethany Brambrink:** I wonder if like the next thing we can have Thomas join.
+
+**Bethany Brambrink:** Yeah.
+
+**Bethany Brambrink:** If answer some of these questions, it might be helpful.
+
+**Jo Kaminska:** For sure.
+
+**Jo Kaminska:** Cool.
+
+**Jo Kaminska:** Okay.
+
+**Jo Kaminska:** Yeah, but like generally when it comes to like technical SEO health, like canonical search properly, the sitemap actually has this like last modified date, which is very good for LLMs.
+
+**Jo Kaminska:** So checking like your overall website health, I have generally good news.
+
+**Jo Kaminska:** So these are like smaller technical issues to address.
+
+**Jo Kaminska:** Cool.
+
+**Jo Kaminska:** Cool.
+
+**Jo Kaminska:** Yeah.
+
+**Jo Kaminska:** When it comes to performance,
+
+**Jo Kaminska:** I know we have four minutes, so I prepared a very detailed version, also better to read, but generally speaking, when it comes to growth in terms of traffic and engaged traffic, you can see these sessions are growing pretty steadily, and they are aligned with engaged sessions.
+
+**Jo Kaminska:** So I would say that almost like half of your readers are engaged readers, which means like they stay for at least 10 seconds, and then visit two more pages, or convert, or do a key event, right?
+
+**Jo Kaminska:** So like your website is growing when it comes to traffic, here we filtered URLs that are that growthx worked on specifically, and the session medium is organic and referral, which means, you know, organic search, so traditional SEO, and then the referral means LLM traffic as well.
+
+**Jo Kaminska:** LLM traffic consists of like, it's rather small.
+
+**Jo Kaminska:** So just keep in mind that they're not proportionate.
+
+**Jo Kaminska:** Mostly SEO is like 95%, 5%, or like between 1% and 5%, it's like LLMs, right?
+
+**Jo Kaminska:** So this is pretty important.
+
+**Jo Kaminska:** But when it comes to specific landing pages, so these are like, we took finally the instance of your Google Analytics that is related to blog only, so we don't see other parts of the website.
+
+**Jo Kaminska:** So we can measure session engagement and then engage sessions only on blog, right?
+
+**Jo Kaminska:** And when it comes to engagement, as I said, like this is pretty solid, like half of, or almost half of your users are engaged users, so it shows that the content is sticky.
+
+**Jo Kaminska:** When it comes to pillar pages, the best performance.
+
+**Jo Kaminska:** Performance is AI and automation, and then stats, examples, and workflow automation.
+
+**Jo Kaminska:** But AI and automation is the biggest cluster, so the performance of this cluster is basically the best one.
+
+**Jo Kaminska:** As we are comparing between January and October, so there is no change just because this content was produced this year, basically.
+
+**Jo Kaminska:** And, yeah, when it comes to LLMs, ChatGPT has the biggest market, sure, so it will usually be the first source of your LLM, like, organic, like, basically LLM traffic.
+
+**Jo Kaminska:** But we also can see that, you know, like, this is, as I said, like, the smaller portion of, compared to traditional SEO, but when it comes to specific pages, what is interesting is that stats.
+
+**Jo Kaminska:** So insights as well as email-related and AI-related topics are getting this traffic, which means basically people are searching for a specific topic related to this, and Superhuman pops up and they visit your website, which it shows me that you have built enough authority in the email and productivity and AI space.
+
+**Jo Kaminska:** So that's why we identified these refreshes around these specific topics, so literally build more on this.
+
+**Jo Kaminska:** Your website is in a great condition, you have a big repository of content, so I think focusing on the refreshes in the upcoming months and building more FAQs maybe to drive more LLM traffic, to improve the positioning messaging, so everything that we basically talked about.
+
+**Jo Kaminska:** But generally, very good results so far.
+
+**Jo Kaminska:** And yeah, when it comes to...
+
+**Jo Kaminska:** Prompt?
+
+**Jo Kaminska:** I don't know, like, do you have a hard stop?
+
+**Jo Kaminska:** Because I think that we're on time.
+
+**Jo Kaminska:** I can stay for a couple more minutes.
+
+**Bethany Brambrink:** I have to stop, but please let me know if the questions come up, and thank you guys.
+
+**Bethany Brambrink:** Thank you so much.
+
+**Jo Kaminska:** Yeah, so we are tracking also prompts in Scrunch.
+
+**Jo Kaminska:** So this data, like, Scrunch is a little bit more limited.
+
+**Jo Kaminska:** It doesn't, like, show you, like, last six months.
+
+**Jo Kaminska:** I think, like, they might not have existed six months ago.
+
+**Jo Kaminska:** So when it comes to the last 12 weeks of data, Superhuman is leading the board compared to your competitors.
+
+**Jo Kaminska:** So this data is basically, like, around 30% of, like, all the 14,000 of responses.
+
+**Jo Kaminska:** So you pop up for 30% of these.
+
+
+**Jo Kaminska:** And these total responses for 530 prompts, which is a pretty good result, especially that you appear in the top.
+
+**Jo Kaminska:** So when someone writes a specific prompt, then you have a list of tools, et cetera.
+
+**Jo Kaminska:** In 65% of cases, you appear as one of the top results, right?
+
+**Jo Kaminska:** So this also shows the authority is good, and the sentiment is majorly positive, 2% of mix, so it's a very good score.
+
+**Jo Kaminska:** And citations come from third-party websites over your brand, which means that other websites are basically referencing Superhuman.
+
+**Jo Kaminska:** So I think PR articles and any list of tools written by other players are mentioning Superhuman.
+
+**Jo Kaminska:** But as I say, the sentiment is majorly positive, so very good results.
+
+**Jo Kaminska:** That's good sentiment.
+
+**Morgan Maurer:** That is crazy that 91% is third-party citations.
+
+**Morgan Maurer:** That feels so high.
+
+**Morgan Maurer:** Yeah.
+
+**Morgan Maurer:** And I see it across the board.
+
+**Jo Kaminska:** That's why the traffic to your websites is not super high, just because other pages are cited often compared to specific brands.
+
+**Megan Dickey:** Yeah, I just wanted to quickly jump in.
+
+**Megan Dickey:** Yeah, Morgan, I'm curious, like, if you look at this, the competitive presence, like, do you feel like these companies are the right competitors that we should be tracking you against?
+
+**Megan Dickey:** Like, I'm thinking even, like, we could probably add, like, like, do you feel like Hay is a competitor?
+
+**Megan Dickey:** Or, like, I know, like, Notion Mail is kind of on Superhuman's radar.
+
+**Megan Dickey:** Like, maybe we could add that.
+
+**Megan Dickey:** Like, because we can always, we can always and very easily adjust these.
+
+**Jo Kaminska:** Yeah, I also reduce maybe to five or six key, like, five, I say, max.
+
+
+**Jo Kaminska:** Yeah, would say, like, Fixer is one that comes up for us a lot.
+
+**Megan Dickey:** Fixer, okay.
+
+**Morgan Maurer:** Fixer AI, Shortwave is definitely a big one, Notion Mail, Front.
+
+**Morgan Maurer:** I would say, like, those are our biggest ones.
+
+**Morgan Maurer:** Our real agency is right now undergoing, like, a keyword analysis, and we're going to start incorporating more, just, like, do a better job at our competitive strategy.
+
+**Morgan Maurer:** So I can also show kind of, like, what they find.
+
+**Morgan Maurer:** But I would say, like, Fixer, Shortwave, Notion Mail, Front are, like, the biggest ones that we hear about the most.
+
+**Jo Kaminska:** Okay, cool.
+
+**Megan Dickey:** Sounds good.
+
+**Megan Dickey:** Yeah, we can update it.
+
+**Morgan Maurer:** The same box, I'm kind of surprised that that's, like, right after us.
+
+**Morgan Maurer:** I, like, hmm, yeah, that's interesting.
+
+**Megan Dickey:** Like, you were surprised that they're, that they, like, have a strategy at all?
+
+**Megan Dickey:** I'm just sure, like, I've heard about them, like, literally a couple times.
+
+**Morgan Maurer:** Yeah, for sure.
+
+**Jo Kaminska:** Yeah.
+
+**Jo Kaminska:** So I'm just surprised.
+
+**Morgan Maurer:** Like, guess good for them, but.
+
+**Megan Dickey:** Well, I'm surprised.
+
+**Jo Kaminska:** they also have pretty good content repository, so it comes down to building authority.
+
+**Jo Kaminska:** We have these specific topics that we are tracking these prompts across, and one prompt can be included in two topics.
+
+**Jo Kaminska:** It's a matter of sorting it out, but as you can see, they are pretty strong.
+
+**Jo Kaminska:** Not as strong as you are in these categories, but they're basically among sighted competitors.
+
+**Jo Kaminska:** Yeah, but the trends for all the topics, even a smaller cadence of publishing around the content audit didn't really impact the ELL and visibility.
+
+**Jo Kaminska:** We are getting visibility across all the topics and AI productivity teams, so it's a very, very good result here as well.
+
+**Jo Kaminska:** Great.
+
+**Jo Kaminska:** you.
+
+**Jo Kaminska:** Thank you.
+
+**Jo Kaminska:** Yep.
+
+**Jo Kaminska:** Yep.
+
+**Jo Kaminska:** And, yeah, I encourage you to read all the details.
+
+**Jo Kaminska:** Like, I know that this report is pretty extensive, but if you have any questions, always feel free to ask.
+
+**Jo Kaminska:** And, yeah, like, just wanted to check in quickly.
+
+**Jo Kaminska:** Can we start from the refreshes already and coming back to our Nordic normal cadence and just, like, publishing them?
+
+**Jo Kaminska:** Or would you like to have a review of a couple of these before we publish?
+
+**Jo Kaminska:** What was your – I'm sorry, I feel like I'm playing catch-up on some of this.
+
+**Morgan Maurer:** Like, what was your process when Alex – when you were working with Alex on these refreshes?
+
+**Morgan Maurer:** So we haven't worked with Alex on the refreshes.
+
+**Jo Kaminska:** We were publishing NetNew.
+
+**Jo Kaminska:** Oh, okay, great.
+
+**Morgan Maurer:** But for NetNew, were you just publishing or was he – Yeah.
+
+**Megan Dickey:** Yeah, we were just publishing, yeah.
+
+**Morgan Maurer:** I would say maybe, like, the – Can you just – for, like, the first couple, just share them so I can get eyes on – just – Okay.
+
+**Morgan Maurer:** More give the team an FYI that we're doing the refreshes.
+
+**Morgan Maurer:** We do not need to be, like, tactically in the weeds reviewing all these.
+
+**Morgan Maurer:** We're all very busy.
+
+**Morgan Maurer:** But I think just, like, letting the team know that these refreshes are happening and, like, here's what it's going to look like will be helpful.
+
+**Morgan Maurer:** But like I mentioned, we're all, like, working really hard and it's tight.
+
+**Morgan Maurer:** I don't want us to, like, slow you down, but I want the team to help them.
+
+**Jo Kaminska:** Of course.
+
+**Jo Kaminska:** Yeah, that makes sense.
+
+**Jo Kaminska:** So I'll talk to you once they're ready.
+
+**Jo Kaminska:** Yeah.
+
+**Morgan Maurer:** How extensive the refreshes are going to be and, like, what we're focused on so I can just, like, pass that over to the team will be great and then let's just run with it.
+
+**Morgan Maurer:** Yeah, I can do this.
+
+**Jo Kaminska:** Like, we can tag, like, we can highlight parts that we are, like, that are additional and then if the old part was, like, you know, untouched, then it will be just as is.
+
+**Jo Kaminska:** So you can see clearly what was refreshed.
+
+**Jo Kaminska:** I think that'll be great.
+
+**Jo Kaminska:** Cool.
+
+**Jo Kaminska:** Yeah.
+
+**Jo Kaminska:** So I think we are aligned here.
+
+**Jo Kaminska:** Megan, you have anything else?
+
+**Megan Dickey:** I guess last quick thing, just on scheduling, do we still, we have a, we have a meeting on the calendar for next week.
+
+**Megan Dickey:** Does that actually work for you?
+
+**Megan Dickey:** Because I know typically we meet like every other week, but do we want to meet weekly leading up to the rebrand or like what, what feels most, most helpful?
+
+**Morgan Maurer:** Hmm.
+
+**Morgan Maurer:** I guess.
+
+**Morgan Maurer:** I don't know.
+
+**Morgan Maurer:** Do you feel like you need anything from us leading up to the rebrand?
+
+**Megan Dickey:** Um, I mean, I think we're, I think this was a good, I feel like I have a better understanding of like what, um, what we've done.
+
+**Megan Dickey:** So it's like, we can definitely always just like, do a, async.
+
+**Megan Dickey:** Um, but, but that said, like, we're, we're definitely available, so.
+
+**Morgan Maurer:** I think let's do an async update next week and see how it goes next week.
+
+**Jo Kaminska:** Okay, cool.
+
+**Megan Dickey:** And then we can just kind of circle back on the following week.
+
+**Megan Dickey:** Yeah.
+
+**Jo Kaminska:** And also to ask you, like, uh, do you want like quick performance updates every week or
+
+**Jo Kaminska:** Or should we do it like a monthly update, but then like keep you updated on Slack about content production and everything like every week on Friday, as I did with Alex?
+
+**Jo Kaminska:** Yeah, that sounds great.
+
+**Jo Kaminska:** Okay, so monthly updates and Friday updates.
+
+**Morgan Maurer:** Something huge in performance that you notice week over week that's worth sharing or calling out, of course, always share that.
+
+**Morgan Maurer:** You don't need to share weekly performance updates.
+
+**Morgan Maurer:** think like larger updates are more helpful.
+
+**Morgan Maurer:** Okay, amazing.
+
+**Jo Kaminska:** Thank you so much.
+
+**Jo Kaminska:** Yeah, cool.
+
+**Megan Dickey:** All right.
+
+**Megan Dickey:** Well, thanks so much, Morgan.
+
+**Megan Dickey:** Really appreciate your time.
+
+**Megan Dickey:** you.
+
+**Morgan Maurer:** Bye-bye.
+
+**Jo Kaminska:** We'll see you Thank you.
+
+**Jo Kaminska:** Bye.
+
+**Jo Kaminska:** Take care.
+
+**Jo Kaminska:** Bye.

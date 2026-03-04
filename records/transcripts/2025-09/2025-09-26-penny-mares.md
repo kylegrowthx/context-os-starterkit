@@ -1,0 +1,591 @@
+# Penny Mares
+
+<metadata>
+date: 2025-09-26
+time: 21:36 UTC
+duration: 22 minutes
+organizer: Jason Gong
+participants: Jason Gong (GrowthX), Penelope Mares (Unusual Ventures)
+fathom_recording_id: 90252463
+fathom_url: https://fathom.video/calls/424416284
+share_url: https://fathom.video/share/4yXj4QzosCmwri_9ngynsJTHxW75jncZ
+source: fathom
+enriched_on: 2025-09-26 15:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Penelope Mares, founder services lead at Unusual Ventures, pitched Jason Gong on a comprehensive go-to-market engine package for portfolio companies that have achieved product-market fit. The package would cover the full growth funnel from ChatGPT visibility to Google SEO, LinkedIn presence, Reddit visibility, and brand building—priced around $100K for full implementation. GrowthX could become a core component of the recommended stack, starting with portfolio companies as proof points before potentially releasing publicly. Both parties committed to next steps: Jason will send case studies and scaffold ideas for content, webinars, and potential contribution to Unusual's field guide; Penelope will create a workflow diagram and approach Vizcom (where she has a direct relationship with the head of sales) as a test case.
+
+---
+
+## Context
+
+Penelope Mares is founder services lead at Unusual Ventures, where she works deeply with portfolio companies to help them scale post-PMF. She's currently head of marketing at Serge AI while managing two additional clients, making her hyperaware of what growth infrastructure looks like when it works. The call explored whether GrowthX's core content and SEO services could anchor a broader go-to-market engine that Unusual would recommend and implement for companies at the Series B+ stage. This matters because Unusual has portfolio companies (like Vizcom and Goldcast) that have achieved PMF and enterprise pipelines but have gaps in their inbound machinery and digital presence. Penelope and Jason have prior history—Jason knows Emily at Vizcom, and Penelope previously introduced Marcel to Unusual's founder services team (a deal that fell through due to stage mismatch, but not due to quality concerns). The conversation was exploratory and collaborative, with both parties seeing potential for a structured partnership.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Unusual Ventures is exploring a 100K+ go-to-market engine package for Series B+ portfolio companies, with GrowthX positioned as a core component (content, SEO, thought leadership)
+- This represents a new motion: selling to venture investors as resellers/recommenders rather than directly to founders, which could unlock a scalable channel
+- Target customer profile is Series B+ companies in growth phase with existing enterprise sales but gaps in inbound and digital presence (Vizcom is a live case study)
+- Opportunity to contribute a structured methodology or case study to Unusual's field guide (which has been highly effective for their business development)
+
+**To CheckThat:**
+- Penelope mentioned AdamX as a tool for evaluating digital presence and benchmarking—this is adjacent to CheckThat's AI visibility thesis
+- She also discussed Audience Lab (search history data for identifying high-intent leads), which overlaps with how to make AI-driven decisions about visibility
+- The conversation touched on helping companies understand where they show up (ChatGPT, Google, LinkedIn, Reddit) across the entire buyer journey
+
+**To GrowthX Business Development:**
+- Unusual Ventures could become a multi-deal partner, unlocking access to dozens of high-growth portfolio companies
+- Relationship with Penelope is strong and collaborative; she's respected within Unusual's founder services team
+- Risk signal: Previous deal fell through due to stage mismatch (Unusual's companies may be earlier stage than GrowthX's typical customer), but this package approach could solve that by bundling services
+- Vizcom is a warm lead—Jason knows Emily, Penelope knows the head of sales, and they're exploring whether Vizcom would serve as a test case
+
+---
+
+---
+
+## Overview
+
+- Penelope is developing a comprehensive go-to-market engine package priced around $100K for portfolio companies that have achieved product-market fit and are ready to scale
+- The package covers the full growth funnel: ChatGPT visibility, Google SEO, LinkedIn presence, Reddit visibility, brand recognition, and thought leadership positioning
+- GrowthX is positioned as a core component of the recommended vendor stack for content and SEO delivery
+- Both parties see potential for a broader partnership, including GrowthX contributing a chapter to Unusual Ventures' field guide (which has driven significant BD success for Unusual)
+- Initial strategy: pilot with Unusual portfolio companies to build proof points, then explore making it a public offering
+- Vizcom and Goldcast are potential first test cases, with Vizcom being especially warm due to existing relationships (Jason knows Emily, Penelope knows the head of sales)
+
+---
+
+## Key Topics
+
+### Go-to-Market Engine Package Concept
+
+  - Penelope's idea: Create a comprehensive package for portfolio companies ready for growth
+  - Components: SEO, ChatGPT presence, LinkedIn strategy, Reddit presence, brand recognition
+  - Potential pricing: \~$100K for full implementation
+  - Initial approach: Start privately with portfolio companies, then potentially make it public
+  - Goal: Create a "flywheel" effect for company growth
+
+### Potential Collaboration with GrowthX
+
+  - GrowthX could be part of the recommended stack in the package
+  - Jason offered to provide scaffolding and ideas for content, webinars, etc.
+  - Discussed the possibility of GrowthX contributing a chapter to a potential field guide
+  - Both parties see value in collaboration and sharing expertise
+
+### Target Companies and Use Cases
+
+  - Focus on companies at growth stage, typically Series B or later
+  - Example companies discussed: Vizcom, Goldcast
+  - Use case: Identifying and filling gaps in existing growth strategies
+
+### Tools and Strategies Discussed
+
+  - AdamX: Tool for evaluating digital presence and benchmarking
+  - Audience Lab: Platform with search history data for identifying high-intent leads
+  - Meta ads targeting: Using specific email lists for direct targeting
+
+### Content and Community Building
+
+  - GrowthX's community focus: Providing resources on AI for growth and marketing
+  - Discussed potential for webinars, courses, and collaborations with experts in specific areas
+  - Compared approach to other platforms like Reforge
+
+---
+
+## Action Items
+
+**Jason Gong (GrowthX)**
+- Send GrowthX info, case studies, and prospect materials to Penelope. Include ideas and scaffolding for GrowthX contribution to go-to-market engine package (content, webinars, field guide chapter).
+
+**Penelope Mares (Unusual Ventures)**
+- Create workflow diagram showing the flywheel architecture for the go-to-market engine package.
+- Reach out to Al at Vizcom to gauge interest in serving as a test case for the initiative.
+
+---
+
+## Transcript
+**Jason Gong:** Cool.
+
+**Jason Gong:** That's really fun.
+
+**Jason Gong:** It sounds like you're really deeply integrated into the companies you're helping.
+
+**Jason Gong:** Is it just one at a time, or are you doing this with multiple?
+
+**Penelope Mares:** It's typically one at a time.
+
+**Penelope Mares:** One time I was balancing two, and it was really hard.
+
+**Jason Gong:** It feels like having two full-time jobs.
+
+**Penelope Mares:** That's where I'm at right now.
+
+**Penelope Mares:** I'm kind of like Serge AI is head of marketing at the moment.
+
+**Penelope Mares:** I have two clients on top of that.
+
+**Penelope Mares:** Oh, my God.
+
+**Penelope Mares:** Oh, my God.
+
+**Penelope Mares:** So I had an idea that I wanted to share with you and maybe get your help on, which obviously you have so much time right now, so much spare time.
+
+**Penelope Mares:** But what I'm wanting to do is put together a kind of go-to-market engine package.
+
+**Penelope Mares:** For our portfolio companies for once they've achieved product market fit, and they're in growth hypothesis phase, and they're actually ready to go sell, I feel relatively confident that I've learned about each kind of step in the evaluation process that happens from like showing up in chat GPT to SEO, making sure you're showing up in Google, like LinkedIn, Reddit, brand recognition, being a thought leader on LinkedIn, and use it like, I'm thinking about all the steps, and then like all the pieces that growthx does as part of it.
+
+**Penelope Mares:** And like what I'd love to be able to do is come up with like a recommended stack, and maybe even to the point where it's like, hey.
+
+**Penelope Mares:** Like, we can't necessarily, like, guarantee results, but we can, like, put everything in place for you.
+
+**Penelope Mares:** And maybe even to the point of, like, it's, like, 100K if you want to do it, and we're just going to install everything, and, like, you're going to be, like, cooking with gas, basically.
+
+**Penelope Mares:** And, like, first, if we're going to do that, I need to, like, win the hearts and minds at my firm to basically say, like, here's my proposal.
+
+**Penelope Mares:** This is what I think it would look like.
+
+**Penelope Mares:** These are the components under the hood that would be a part of that.
+
+**Penelope Mares:** And I'd love GrowthX to be a part of that recommended kind of stack.
+
+**Jason Gong:** Yeah, that would be awesome.
+
+**Jason Gong:** And is this, like, like, kind of private thing you're offering to your founders, or is this, like, kind of how you guys have that incredible kind of field guide, more of, like, a public kind of guide on how to...
+
+**Jason Gong:** Once you hit PMF, how do you pour gas on the market?
+
+**Penelope Mares:** I it should be both.
+
+**Penelope Mares:** I think it should start private and let's get some proof points of this thing actually is effective and it works.
+
+**Penelope Mares:** And we've got some results in our portfolio that we can point to.
+
+**Penelope Mares:** But yeah, I think it should be both.
+
+**Jason Gong:** Yeah, that's awesome.
+
+**Jason Gong:** Do we have any of your companies in our customers?
+
+**Penelope Mares:** No, I tried.
+
+**Penelope Mares:** Like I introduced Marcel to my whole founder services team and like we were wanting to do it for a different portfolio company and it ended up falling through at the time.
+
+**Penelope Mares:** And again, I think it does go back to like you play very well at like kind of growth, slightly latest.
+
+**Jason Gong:** A little later stage, yeah.
+
+**Penelope Mares:** But like reality is, is like we've got plenty of companies in our portfolio that are at that stage and they do need to start pouring.
+
+**Penelope Mares:** And, like, I'm thinking about those, those companies.
+
+**Jason Gong:** Yeah, I mean, I, I guess I was asking mostly because, I mean, obviously, it's nice to have a proof point that's, like, close to home.
+
+**Penelope Mares:** But we have proof points for, like, I mean, it'll just be with, like, other types of customers, you know?
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Webflow, log in the code, those guys.
+
+**Penelope Mares:** Yeah, but that's what I'm thinking about.
+
+**Penelope Mares:** And, like, really, I'm, like, in my head, I kind of have this, like, architecture diagram, like, workflow diagram, kind of Figma-type thing of, like, first you do this, then you do this, this, this, and this.
+
+**Penelope Mares:** And, like, then, you know, your footprint is healthy, your digital footprint is, like, what it should be overall.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah, I mean, this just sounds cool.
+
+**Jason Gong:** I guess it's, yeah, like, the shape of it, it sounds like you're still thinking through.
+
+**Jason Gong:** I mean, yeah, I don't know how you, I remember one of the things we anchor, like, our code market on, which I honestly.
+
+**Jason Gong:** It's not perfect because there are these people on YouTube that create these information businesses.
+
+**Jason Gong:** It'll just be one guy, maybe with a few contractors, and they're just making $10 million plus million in revenue a year, just selling information.
+
+**Jason Gong:** And they just have this very fun web, here are the offers, here is how I gain impressions.
+
+**Jason Gong:** And they all just kind of work together in this flywheel.
+
+**Jason Gong:** We have one of these internally that I could send you.
+
+**Jason Gong:** But like, I'm almost imagining something like that, you know, but maybe a bit more general for like a startup.
+
+**Jason Gong:** It's like the anatomy of like, what a growth machine should look like once you're at this stage.
+
+**Penelope Mares:** Exactly.
+
+**Penelope Mares:** Exactly.
+
+**Penelope Mares:** And like, with that, it's like, how do you show up in ChatGPT?
+
+**Penelope Mares:** That's like the new thing, right?
+
+**Penelope Mares:** And still, like, how do you show up in Google?
+
+**Penelope Mares:** Like, all of those things.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Penelope Mares:** Yeah, that's.
+
+**Penelope Mares:** That's what I'm thinking about.
+
+**Penelope Mares:** That's what I want to just come up with and just propose internally and come with a list of, like, here's some portcos that are in this stage that I think that we should, like, talk to and see who wants to, like, give it a try as, like, a guinea pig kind of a thing.
+
+**Penelope Mares:** Yep.
+
+**Penelope Mares:** And, yeah.
+
+**Jason Gong:** I mean, that sounds awesome.
+
+**Jason Gong:** I think I'm trying to think of the best way I could help.
+
+**Jason Gong:** I could help, like, I guess, however you get it started, you know, if you'd share with me, I think I can, just from my side, even just contribute ideas.
+
+**Jason Gong:** And, like, I mean, to be honest, like, this is how we think of our community, even.
+
+**Jason Gong:** It's, like, a little bit different.
+
+**Jason Gong:** It's, like, hey, you know AI is going to change basically everything about go-to-market and, you know, sales and marketing.
+
+**Jason Gong:** Like, where do you get started?
+
+**Jason Gong:** We're trying to make that the resource, you know, but more for, like, an IC type person and not a founder.
+
+**Jason Gong:** So we do think about this problem quite a bit.
+
+**Penelope Mares:** Yeah.
+
+**Penelope Mares:** Yeah.
+
+**Penelope Mares:** And I think like, just understand, I think educating people on intent and just timing and how to warm your funnel and like the importance of warm leads versus like cold outreach and what those differences are and brand awareness.
+
+**Penelope Mares:** And like, it's a flywheel, right?
+
+**Jason Gong:** Like I'm such a novice compared to you.
+
+**Jason Gong:** So like whatever expertise you can share with me, I'll, I'll totally, uh, take it.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I think, um, yeah, I feel like, I mean, it definitely needs something to get started.
+
+**Jason Gong:** So if like, I think it would be really helpful for me to know is like the, the audience you're thinking of and just, even if you have an example, just like what stage they're at.
+
+**Jason Gong:** It sounds like series B or, you know, somewhere a little bit further along.
+
+**Jason Gong:** Yeah.
+
+**Penelope Mares:** So like, I'm really good friends with the head of sales at Vizcom.
+
+**Jason Gong:** Oh, cool.
+
+**Penelope Mares:** Yeah.
+
+**Jason Gong:** They're a designer.
+
+**Jason Gong:** I'm really good friends with Emily.
+
+**Penelope Mares:** Okay, okay, cool.
+
+**Penelope Mares:** Yeah, because he was actually my predecessor.
+
+**Penelope Mares:** Like he was in founder services at Unusual and I filled his, I basically backfilled his spot.
+
+**Penelope Mares:** Even though we never worked together directly, we've kept a monthly sync going just to share notes and stay in touch.
+
+**Penelope Mares:** And so there at that point, like they have enterprise pipeline, they have brand awareness, they have a lot of the things, but it's like, where are there gaps that they fill in?
+
+**Penelope Mares:** Like now he has a big team of AEs to feed, like how is he keeping that inbound machine going?
+
+**Penelope Mares:** And like, what are the missing pieces where it's like, you know, for some companies, they have nothing on the flywheel, right?
+
+**Penelope Mares:** They need the whole thing.
+
+**Penelope Mares:** But like for something like Viscom, it's like, they're like 60, 70% of the way there.
+
+**Penelope Mares:** But like, as he's trying to scale up and they've got certain metrics that we as an investor would, of course, love them to hit.
+
+**Penelope Mares:** If we can help them pour gas on their growth and identify where the gaps are and fill those in, then I think we could have something really valuable.
+
+**Penelope Mares:** So that's one possibility.
+
+**Penelope Mares:** Goldcast is another one.
+
+**Penelope Mares:** But if you're friends with someone at Vizcom and I'm friends with the head of sales, that could be a really decent one.
+
+**Penelope Mares:** And I haven't even shared the idea with Al yet, but I can chat to him and just be like, hey, bro, what do you think?
+
+**Penelope Mares:** Yeah.
+
+**Penelope Mares:** Yeah.
+
+**Jason Gong:** And what would be the most helpful thing from my side?
+
+**Jason Gong:** Like if I just give you the scaffolding for like, hey, if we did do this, here's what that might look like.
+
+**Penelope Mares:** That would be helpful, yeah.
+
+**Jason Gong:** Like content, a webinar, just whatever.
+
+**Jason Gong:** Or like, what is the information from our side that would help a company at that stage?
+
+**Jason Gong:** Like, is that helpful?
+
+**Jason Gong:** Are you trying to piece this together where we're one part of something bigger?
+
+**Penelope Mares:** Exactly.
+
+**Penelope Mares:** Like I'm trying to piece something together where I'm like, this is the flywheel.
+
+**Jason Gong:** Yeah.
+
+**Penelope Mares:** That's the ideal.
+
+**Penelope Mares:** Like, who knows if I'll pull it off?
+
+**Jason Gong:** I don't know.
+
+**Penelope Mares:** Yeah.
+
+**Penelope Mares:** But it's an idea at this point.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I think, like, I'm just trying to think how we can get started.
+
+**Penelope Mares:** Let's just, what do you think a good next step?
+
+**Penelope Mares:** I mean, if you could just send me maybe just some case studies or examples, and then just any information that you send to first time prospects of like, this is what we do and how we, how we do it.
+
+**Penelope Mares:** I'm going to work more so on like other parts of the flywheel.
+
+**Penelope Mares:** I don't remember.
+
+**Penelope Mares:** I feel like when we met last week, I mentioned Adam X to you, how they have, yeah, like I love.
+
+**Penelope Mares:** I that because I feel like that's kind of the starting point to evaluate what's missing, like where your gaps are.
+
+**Jason Gong:** Yeah, that one's super interesting.
+
+**Jason Gong:** I'd love that to feed a part of the content we create, you know, like that was what came to mind when you mentioned that.
+
+**Penelope Mares:** Yeah, it could be super powerful for benchmarking.
+
+**Penelope Mares:** Like if you run that before you engage, and you run it again after you've completed a project, and then you can show the clear differences in the graph, like that would be quite sweet.
+
+**Jason Gong:** Yeah, it's almost like a, because I think, I mean, like people try to form that, like by asking ChatGPT, right?
+
+**Jason Gong:** It's like they ask ChatGPT, like, hey, what's the best tool for X or Y?
+
+**Jason Gong:** Yeah, AdamX feels like the step further, I guess.
+
+**Jason Gong:** It's like closer to a human, even still, than like deep research.
+
+**Penelope Mares:** Yeah, and it's like, it's helping you to see your brand.
+
+**Penelope Mares:** And at every point of the buyer journey of someone, not buyer, but like evaluation journey of like, some people are looking on ChatGPT, sure, that's important.
+
+**Jason Gong:** Other people are looking on LinkedIn or Reddit, like.
+
+**Jason Gong:** I gotta try it.
+
+**Jason Gong:** Is it one of those things where you gotta like, you know, go through some sales calls and stuff?
+
+**Penelope Mares:** think so, yeah, yeah, I think so.
+
+**Jason Gong:** Because I mean, like, from our side of how we even decide what content to create is exactly that.
+
+**Jason Gong:** We take the person they're trying to target and go through their journey and just like, every step of the way, we want content to kind of be exposed to them.
+
+**Jason Gong:** So, yeah, I mean, if they end up working on this too, I think it'll be a nice collab.
+
+**Jason Gong:** I think so too, and I haven't talked to them yet.
+
+**Penelope Mares:** Like, like I said, this is really early.
+
+**Penelope Mares:** It's just like ideation stage at this point.
+
+**Penelope Mares:** But I think it could be something really cool that like, maybe eventually could become its own thing.
+
+**Penelope Mares:** Like, I don't know, but I think at least like to start.
+
+**Penelope Mares:** For Portco's and kind of go from there.
+
+**Penelope Mares:** think my next step is I'm going to chat to Al at Vizcom and just see like, would he be willing to like be a bit of a guinea pig here?
+
+**Penelope Mares:** And then I'm going to kind of piece together like a flywheel kind of workflow.
+
+**Penelope Mares:** But yeah, any info you can send me on the role that GrowthX plays and the parameters of what you do and don't do would be great.
+
+**Penelope Mares:** I also have relationships with, um, several demand marketers that do Google ads and things like that.
+
+**Penelope Mares:** Cause that's of course just a necessary piece of the puzzle.
+
+**Penelope Mares:** Another interesting demo I had was with a company that has the search history of everybody. It's kind of creepy and scary, but interesting. They're working with Paxton, and Paxton's demand marketer used to be at HexClad—if you don't know, it's the best-selling cookware in America.
+
+**Penelope Mares:** It's one of the biggest grossing direct-to-consumer brands.
+
+**Penelope Mares:** And so he's really on the consumer advertising side.
+
+**Penelope Mares:** But what he's been experimenting with at Paxton is taking direct emails of contacts that we're trying to target and putting that into meta ads.
+
+**Penelope Mares:** So we know that we're targeting like specific individuals with ads on meta.
+
+**Penelope Mares:** So now instead of it just being brand awareness, it's direct targeting. If you're able to scrape very high-intent contacts that you know are searching for your solution and put that into Meta ads, what does the conversion look like?
+
+**Jason Gong:** Yeah, I think consumer marketing is at the forefront of doing things like that. B2B is almost a little behind.
+
+**Penelope Mares:** Yeah, we're like dinosaurs compared to what they're doing in direct-to-consumer.
+
+**Penelope Mares:** Yeah, yeah, it's just, it's so funny because it used to be, like, so different, and it's still perceived as so different.
+
+**Penelope Mares:** But the reality is, is the way people are buying today, it's not different.
+
+**Penelope Mares:** And if you're not marketing the right way, like, you're not going to see the exponential growth that you need to be seeing if you're not efficiently marketing.
+
+**Jason Gong:** Yeah, I agree.
+
+**Jason Gong:** That's really cool.
+
+**Jason Gong:** You're really, like, I feel like you're just exploring right now because you have so many of these cool.
+
+**Jason Gong:** Companies in your sphere.
+
+**Jason Gong:** I think defining what the motion should look like for a company at that stage sounds like a good initiative.
+
+**Jason Gong:** I haven't really seen anyone publish anything deep on that.
+
+**Jason Gong:** They'll just have a little hot take or a soundbite.
+
+**Penelope Mares:** Yeah, same.
+
+**Penelope Mares:** I haven't seen anything and I'm like, it seems weird.
+
+**Penelope Mares:** Yeah.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** I think it'd be worthwhile.
+
+**Jason Gong:** mean, honestly, like the reason I even think about Unusual is like the field guide.
+
+**Jason Gong:** And if you're thinking of that being the final form, I would love to be a part of it.
+
+**Jason Gong:** Yeah, absolutely.
+
+**Jason Gong:** Kind of how we think about content and stuff like that.
+
+**Jason Gong:** It'd be that chapter.
+
+**Penelope Mares:** For sure.
+
+**Penelope Mares:** Yeah.
+
+**Penelope Mares:** I mean, the field guide has gotten us extremely far, even just with the deals we've been able to get.
+
+**Penelope Mares:** Like, we have so many people come through.
+
+**Jason Gong:** It's like, I love your field guide.
+
+**Penelope Mares:** Yeah.
+
+**Penelope Mares:** And it just has helped with brand awareness so much.
+
+**Penelope Mares:** Yeah, I just sent you a link to Audience Lab. They're a very tiny company out of the UK, but they apparently have the recent search history of everybody in America.
+
+**Penelope Mares:** It's really terrifying, actually.
+
+**Jason Gong:** What do they do with that?
+
+**Jason Gong:** Do they try to, like, unpack the journeys, or do they try to, like, what are they?
+
+**Penelope Mares:** Basically, they try to help you identify high intent leads, like, who's been searching for your thing?
+
+**Penelope Mares:** And, like, they're primarily selling to SMB, like, home services companies, like, who's looking for roofing in your area?
+
+**Penelope Mares:** And so I'm trying to understand how it works. It's on my list to watch this video because I asked them: okay, but what about voice AI? Like, how do I know if someone's searching for voice AI? That's nowhere in their platform.
+
+**Penelope Mares:** They sent me a video on how to create a custom model, but I don't know if it works. There's no free trial—it's just "take it or leave it." But I want it. In order to make this work, I need to piece together an entire flywheel.
+
+**Jason Gong:** Yeah, I think I understand. I'll send over a bunch of stuff and some thinking on how we can contribute as well.
+
+**Jason Gong:** You know, that'd be great.
+
+**Jason Gong:** Yeah, take this as it goes.
+
+**Jason Gong:** Yeah, this is exciting.
+
+**Jason Gong:** I think if we're working on anything our end that would like be interesting to collaborate on I mean, I think it's like like I don't know if you've looked at our community.
+
+**Jason Gong:** It's still such a like crazy work.
+
+**Penelope Mares:** I and I'll admit.
+
+**Jason Gong:** But um, it's like, I guess that uh,
+
+**Jason Gong:** I don't know if you've ever done anything with like Reforge.
+
+**Jason Gong:** They do like these, they're more on the like product side, I would say.
+
+**Penelope Mares:** Yeah, I'm definitely familiar with the name.
+
+**Jason Gong:** Yeah, but I guess, I mean, I think the problem with RSpace is like, it's just hard to find good information the same way that, you know, I can go and Google any kind of developer facing concept and get like an absolute masterclass, you know, whatever I search for.
+
+**Jason Gong:** And I feel like that's going to change.
+
+**Jason Gong:** So we're trying to be that, you know, for just like using AI as like a growth person or a marketer, like an operator, essentially.
+
+**Jason Gong:** We do a bunch of courses, workshops, and we're collaborating with experts.
+
+**Jason Gong:** And then a part of what we're doing is like collaborating with people that are an expert in a certain part of this.
+
+**Jason Gong:** So like, for example.
+
+**Jason Gong:** We have a webinar with Webflow because they see like millions of websites, right?
+
+**Jason Gong:** So they know kind of that part of the stack of like how you host your website, what the best thing you should do is.
+
+**Jason Gong:** maybe, yeah, like I feel like you're so deep into sales that maybe when we get to that part, it's like, hey, you built this tremendous audience.
+
+**Jason Gong:** Like what is that last mile to like get them on a call and actually get them to sign, you know, and close the deal.
+
+**Jason Gong:** And we can do like a webinar or like a little course there.
+
+**Jason Gong:** Like, yeah, I mean, I don't know if you know these guys much, I guess if you're at DeepPrim.
+
+**Jason Gong:** I don't know if you guys did a course together, but it's like, like this community is about learning about AI.
+
+**Jason Gong:** And for every topic, they all see a similar thing where they like partner with the expert.
+
+**Jason Gong:** It's like, hey, if you're thinking about like workflows, like here's a course we did with Blankchain.
+
+**Jason Gong:** If you're thinking about voice AI, here's a course we did with DeepGram or ElevenLabs.
+
+**Penelope Mares:** Yeah, we're thinking about doing something like this, basically.
+
+**Jason Gong:** Love it. Early days.
+
+**Penelope Mares:** Very cool.
+
+**Penelope Mares:** Great.
+
+**Penelope Mares:** Thanks so much for taking the time.
+
+**Jason Gong:** I'll send you a bunch of stuff and we can continue the conversation.
+
+**Penelope Mares:** Sounds good. Let's both get deeper into this.
+
+**Jason Gong:** All right, have a good weekend.
+
+**Penelope Mares:** You too.

@@ -1,0 +1,825 @@
+# GrowthX Overview for Brooke
+
+<metadata>
+date: 2025-10-10
+time: 13:30 UTC
+duration: 31 minutes
+organizer: Tyler Pavlas (tyler@growthx.ai)
+participants: Tyler Pavlas (GrowthX), Erik O'Brien (GrowthX), Brooke Grief (you.com)
+fathom_recording_id: 93324721
+fathom_url: https://fathom.video/calls/437363133
+share_url: https://fathom.video/share/zoGEjNVF_EVwmiPbSXM4a9W4Y3xxSPWG
+source: fathom
+enriched_on: 2026-03-02 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Tyler Pavlas and Erik O'Brien introduced GrowthX's end-to-end content creation services to Brooke Grief, the newly hired senior content marketing manager at you.com. The discussion covered GrowthX's audience-first approach combining AI workflows with human expertise, content types (primarily blog posts at 1500-2000 words, with glossaries, guides, and programmatic SEO capabilities), and the engagement structure (8-week Phase 1 for strategy and calibration, followed by Phase 2 daily execution). Brooke expressed strong alignment on human review in the loop and avoiding AI-only "slop," and agreed to review the contract and presentation deck before the upcoming Tuesday kickoff.
+
+---
+
+## Context
+
+Brooke Grief is the new senior content marketing manager at you.com, just three weeks into her role. You.com is an AI-powered search and research platform that uses deep web research capabilities. The company's marketing team includes 5-7 people who all contribute content creation, with Brooke now serving as the central hub for coordinating content strategy and execution. She's juggling existing content initiatives while building out content processes—specifically developing a writing style guide and content roadmap. GrowthX is positioning itself as an extension of Brooke's team to accelerate content output while maintaining quality, which directly addresses her stated need to "crank out a bunch of stuff" with clear strategy. Brooke brings relevant experience—she previously worked at an AI company and has used you.com as a research tool herself—and has strong opinions about what works: human-in-the-loop review, avoiding low-quality AI output, and maintaining brand voice through guidelines.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- New client is building writing style guide and SME mapping—perfect opportunity for GrowthX to help structure editorial processes and codify voice/quality standards in Phase 1.
+- Client has distributed review process (5-7 team members + tech reviewers). GrowthX needs to establish clear review workflows early to avoid bottlenecks and agonizing-over-words delays.
+- Phase 1 runs 8 weeks with ~10 articles published by end; Phase 2 is daily execution. Clear foundation artifacts (audience/ICP/voice) will be critical for you.com's success.
+
+**To CheckThat:**
+- Brooke mentioned you.com agent building capabilities and inquired about using you.com product for GrowthX's deep research—potential expansion of CheckThat research agent workflows and you.com partnership.
+- you.com is positioned as deep-web research tool; Erik has used it for competitive research and industry onboarding. Opportunity to showcase how GrowthX and you.com research agents can work together.
+
+**To GrowthX Business Development:**
+- you.com is well-funded, growing team (just hired Brooke), and in accelerated hiring/content phase. Early-stage engagement signals potential for scope expansion (programmatic SEO, white papers, guides) and reference-ability.
+- Client leadership (Katty, likely the CMO) is actively involved and aligned on outsourcing content execution. Signals strong internal buy-in for partnership.
+
+---
+
+## Overview
+
+- GrowthX offers end-to-end content creation including strategy (Phase 1), execution (Phase 2), CMS management, and analytics—with embedded human review at every stage
+- Founded by Marcel (formerly at IBM, HashiCorp, DeepGram), the company combines AI workflows with human expertise to solve the gap between traditional agencies (limited execution) and AI-only solutions (quality problems)
+- Content process rooted in three C's: credible (attributed sources), comprehensive (deep research agents), and current (content refreshing included)
+- Primary output is blog posts (1500-2000 words), with proven success in glossaries, guides, programmatic SEO, and infographics; white papers explored but not yet core offering
+- 8-week Phase 1 for strategy development and calibration; ~10 articles published by end of Phase 1; Phase 2 transitions to daily execution based on proven strategy
+
+---
+
+## Key Topics
+
+### GrowthX Overview
+
+  - Founded by Marcel, who built organic content engines at IBM, HashiCorp, and DeepGram
+  - Combines AI workflows with human expertise for efficient, high-quality content creation
+  - Solves problems of traditional agencies (limited execution) and AI-only solutions (quality issues)
+  - Focus on creating credible, comprehensive, and current content
+
+### Content Creation Process
+
+  - Ingest company, audience, and brand information to create context for AI workflows
+  - Use sophisticated AI for initial content generation
+  - Human experts review, edit, and ensure quality
+  - Emphasis on attribution and credible sources
+  - Regular content refreshing included in partnership
+
+### Content Types and Capabilities
+
+  - Primary focus on blog posts (1500-2000 words)
+  - Can create glossaries, guides, and programmatic SEO content
+  - Ability to produce infographics and cover images
+  - Not currently set up for white paper creation, but open to exploration
+
+### Team Structure and Collaboration
+
+  - Phase 1: Erik (Account Strategist) and Ada (Editorial Account Strategist) lead strategy
+  - Phase 2: Managing Director, Managing Editor, and additional team members
+  - Collaboration via Slack, Notion, and Airtable for content roadmap
+  - Internal platform for execution, with plans to bring customers into the platform in the future
+
+### Engagement Structure
+
+  - Phase 1: 8 weeks for strategy development and calibration
+  - Create artifacts by week 3-4, evolving throughout the engagement
+  - Publish about 10 articles by the end of Phase 1
+  - Phase 2: Daily execution based on established strategy
+
+---
+
+## Action Items
+
+**Tyler Pavlas (GrowthX)**
+- Send Brooke Grief the contract and presentation deck (if shareable) before Tuesday kickoff
+
+**Brooke Grief (you.com)**
+- Review contract and presentation deck
+- Prepare for Phase 1 kickoff (Tuesday, 4 p.m. Eastern)
+
+---
+
+## Transcript
+**Tyler Pavlas:** Likewise. Got any weekend plans?
+
+**Erik O'Brien:** This meeting is being recorded. I'm to keep it that way.
+
+**Tyler Pavlas:** Has life been pretty busy for you since joining and like getting progressively busy on a week-by-week basis?
+
+**Erik O'Brien:** Yes, I would say so.
+
+**Erik O'Brien:** We're trying to figure out what the sustainable cycle is because I can't be hanging on to clients all eight weeks.
+
+**Tyler Pavlas:** For sure.
+
+**Tyler Pavlas:** How many are you working right now at one time?
+
+**Erik O'Brien:** I just offloaded four yesterday after talking to Andy.
+
+**Erik O'Brien:** So only 12.
+
+**Tyler Pavlas:** Man, after dropping the four?
+
+**Erik O'Brien:** Yeah, it was 16 after this week.
+
+**Erik O'Brien:** So I just like, I need to...
+
+**Erik O'Brien:** And then we're going to let go of a couple others.
+
+**Erik O'Brien:** Code Rabbit, if you haven't heard about that one.
+
+**Erik O'Brien:** We can talk about that later.
+
+**Tyler Pavlas:** Hopefully you're not feeling a lot of resentment towards me because a lot of those deals, they just got like closed before I knew anything about ACP and like Marcel was running the show half the time.
+
+**Erik O'Brien:** It's literally just the stakeholder.
+
+**Tyler Pavlas:** Yeah, but like this is something we could easily solve for in the sales process, you know, and we just like, like we just never tried to really, you know.
+
+**Tyler Pavlas:** And like, I mean, kind of similar to your experience, when I joined, things were moving so quickly that you basically just like jump on board and try to learn how to drive the car, right, while someone else is driving it and expecting you to take control soon.
+
+**Erik O'Brien:** Yeah, I put on the gas and you have to like, take the wheel.
+
+**Erik O'Brien:** I'm like, okay.
+
+**Tyler Pavlas:** Exactly, exactly.
+
+**Tyler Pavlas:** But me, George, Bridget, and Andy, like over the last couple of weeks did a lot more work on evolving the ICP analysis. Like really aligning on exactly what I need to uncover in the sales process to make sure we're going to have a good partner.
+
+**Tyler Pavlas:** And we've got, you know, the benefit of like being able to kind of choose, I mean, kind of, right?
+
+**Tyler Pavlas:** Like easier than it would seem or much harder than it would seem because every client negotiates terms differently.
+
+**Tyler Pavlas:** And like, even if it's a great fit, if the terms suck, we may not want to work.
+
+**Tyler Pavlas:** But yeah, mean, all this to say, like, one of my number one goals is if I bring in like a code rabbit, who just from the jump doesn't want to work with us, like that's on me.
+
+**Tyler Pavlas:** Like I failed, right?
+
+**Tyler Pavlas:** Because we can avoid that.
+
+**Tyler Pavlas:** So, yeah.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** I mean, I think it's just one of those like learning lessons of an anomaly of a client.
+
+**Erik O'Brien:** Like in 15 years of working with client facing roles, I've never met anybody this abrasive.
+
+**Tyler Pavlas:** Like, yeah.
+
+**Erik O'Brien:** So, and it's just.
+
+**Tyler Pavlas:** That tension between if an executive sponsor says, do something, and then the head of content is completely opposed, like, that's never going to be a good partnership.
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** I'm excited about you, though, you.com.
+
+**Erik O'Brien:** Like, I was a fairly good user of that this last year.
+
+**Tyler Pavlas:** Interesting.
+
+**Tyler Pavlas:** What for?
+
+**Tyler Pavlas:** I mean, I know it's, like, deep web research, right?
+
+**Erik O'Brien:** Yeah.
+
+**Erik O'Brien:** Like, they would basically just create, like, white papers off the deep research.
+
+**Erik O'Brien:** So I would be kind of similar to what I'm doing now, like, picking up a new client or researching a sales opportunity for a new client and just be like, I need to get up to speed on this industry or this company.
+
+**Erik O'Brien:** And it would just write everything down that I would need to know.
+
+**Erik O'Brien:** And so I'd just use it.
+
+**Erik O'Brien:** And it was pretty good.
+
+**Erik O'Brien:** I was a very limited capacity of it.
+
+**Erik O'Brien:** But it was good for my use case.
+
+**Tyler Pavlas:** Will you be, yeah, let me go ahead and email Brooke here.
+
+**Tyler Pavlas:** Hey, Brooke.
+
+**Tyler Pavlas:** Erik and I are in the Zoom meeting via the link in the calendar invite.
+
+**Tyler Pavlas:** Are you still able to join?
+
+**Tyler Pavlas:** Yeah, know one thing Marcel chatted about with their CMO was, like, leveraging, like, use product for some of the deep research that we would be doing on the content creation, which I think could be cool.
+
+**Erik O'Brien:** Yeah.
+
+**Tyler Pavlas:** Would you work this one?
+
+**Tyler Pavlas:** Do you know?
+
+**Erik O'Brien:** Um, so that's, I think, kind of what I was hinted to yesterday.
+
+**Erik O'Brien:** Like, I think I'm going to do, like, the first three weeks with customers and then just use that as my cadence.
+
+**Erik O'Brien:** Okay.
+
+**Erik O'Brien:** I just stood up and then kind of handed to the CM and MEs.
+
+**Tyler Pavlas:** Okay, cool.
+
+**Tyler Pavlas:** Yeah, I mean, I threw you on as optional with this one, so you could meet their head of content, but also so you could see, like, the way that I'm pitching in more of an intro call.
+
+**Tyler Pavlas:** And for our one-on-one a little later, we could talk about maybe things I, like, should lean into more or lean into less.
+
+**Tyler Pavlas:** Um, so, you know, like, no need to be on this call, but figured you might benefit from some of that.
+
+**Erik O'Brien:** Yeah, absolutely.
+
+**Tyler Pavlas:** Cool, man.
+
+**Tyler Pavlas:** Well, here's Brooke.
+
+**Erik O'Brien:** I'll bring her in.
+
+**Erik O'Brien:** All right.
+
+**Tyler Pavlas:** Hey, Brooke.
+
+**Brooke Grief:** Happy Friday. Hi. I'm so sorry I'm so late.
+
+**Tyler Pavlas:** No worries at all. All good. How is your weekend looking?
+
+**Brooke Grief:** Got any fun plans?
+
+**Brooke Grief:** Oh, just fixing up my house.
+
+**Brooke Grief:** So, not that fun, but...
+
+**Brooke Grief:** Making progress.
+
+**Tyler Pavlas:** But important work to get done, nonetheless.
+
+**Brooke Grief:** Exactly.
+
+**Brooke Grief:** Trying to make it less haunted house by Halloween.
+
+**Erik O'Brien:** That's the goal.
+
+**Tyler Pavlas:** Are you supposed to make it more haunted house by Halloween?
+
+**Brooke Grief:** No, we're going opposite.
+
+**Brooke Grief:** Yeah.
+
+**Brooke Grief:** We're at least just trying to get the entryway to look presentable because of all the opening the door, giving out the candy.
+
+**Brooke Grief:** But yeah, it's a real, like, facade situation we've got going on.
+
+**Tyler Pavlas:** Love it.
+
+**Tyler Pavlas:** Love it.
+
+**Tyler Pavlas:** Well, nice to meet you.
+
+**Tyler Pavlas:** Just for context, my name is Tyler.
+
+**Tyler Pavlas:** I'm the founding AE here at GrowthX.
+
+**Tyler Pavlas:** So I work hand-in-hand with our CEO, Marcel, typically more in, like, the sales process.
+
+**Tyler Pavlas:** But since I do overview calls all the time, I figured, you know, we're kicking off with you very soon.
+
+**Tyler Pavlas:** Might as well get you up to speed.
+
+**Tyler Pavlas:** And so that's why I brought along Erik, who I think your title is account strategist. But, man, like, you're really jack-of-all-trades. Let Erik introduce himself and give a little bit more context behind how he'll be working with you.
+
+**Erik O'Brien:** Absolutely.
+
+**Erik O'Brien:** So Erik O'Brien, account strategist, currently the title.
+
+**Erik O'Brien:** We'll see if that changes.
+
+**Erik O'Brien:** But I work with all of our new clients during the kickoff and kind of strategy sprint phase.
+
+**Erik O'Brien:** So really in the first two to three weeks, working with our clients to both understand their business brand, customer, kind of get everything that we need from your teams, and then be able to set you guys up with a consistent and impactful editorial content strategy.
+
+**Erik O'Brien:** So we'll be working closely with me and then one of our managing editors, Ada, or she's now an editorial account strategist.
+
+**Erik O'Brien:** But yeah, we work pretty close with the clients for every new client.
+
+**Erik O'Brien:** And I think we've done right around like 35 over the last few months of putting them through this strategy sprint process.
+
+**Erik O'Brien:** So very much looking forward to kicking off with you guys. That's a big user of you.com. So love to see that work with brands I know.
+
+**Brooke Grief:** Nice.
+
+**Brooke Grief:** Yeah, I can intro myself briefly too.
+
+**Brooke Grief:** I'm Brooke.
+
+**Brooke Grief:** I am the senior content marketing manager at you.com.
+
+**Brooke Grief:** This is my third week, wrapping up my third week.
+
+**Brooke Grief:** So sort of tossed into it, but quickly learning.
+
+**Brooke Grief:** have a lot of stuff underway from a content perspective that is now on my plate.
+
+**Brooke Grief:** So very excited to start working with all of you to help flesh out the strategy.
+
+**Brooke Grief:** So we were desperately in need of that.
+
+**Brooke Grief:** And then just get a crank out a bunch of stuff seems to be one of our big initiatives.
+
+**Tyler Pavlas:** So hopefully we can hit on that.
+
+**Erik O'Brien:** Yeah, that's definitely what we're here for.
+
+**Tyler Pavlas:** That's perfect.
+
+**Tyler Pavlas:** And high level, Brooke, I'm sure Katty gave you a little bit of context, but, you know, think of GrowthX as like an extension of your team.
+
+**Tyler Pavlas:** So I think we will make life a lot easier for you with that goal.
+
+**Tyler Pavlas:** Cranking out a ton of content, but we'll, more importantly, we'll be able to scale with quality, right?
+
+**Tyler Pavlas:** Like, that's super important with any company that's more technical.
+
+**Tyler Pavlas:** We have been able to solve that for a lot of our clients, and I'll show you some more examples of more technical clients we've worked with.
+
+**Tyler Pavlas:** But we'll be end-to-end creating content on, like, a daily sort of publishing schedule, and then all the last-mile execution.
+
+**Tyler Pavlas:** So, like, our team will log into the CMS stage and publish, and then provide all of the LLM monitoring, visibility, analytics.
+
+**Tyler Pavlas:** So, yeah, I mean, was that your understanding of what we do, or did you not really know?
+
+**Brooke Grief:** I knew, sort of, because Katty kept mentioning, like, speed.
+
+**Brooke Grief:** So I knew that you would be involved somehow in getting a lot of stuff live.
+
+**Brooke Grief:** The end-to-end is awesome.
+
+**Brooke Grief:** I think I briefly heard that yesterday from Katty, and I was very thrilled about it. So it's nice to know that one will be in the tool themselves. But yeah, that's great to hear. I'm very excited to working with you. I'm also working on putting together metrics.
+
+**Tyler Pavlas:** So knowing that there will be other reporting coming in, will be very helpful as well.
+
+**Tyler Pavlas:** Definitely.
+
+**Tyler Pavlas:** Do you have any folks on the team that are like helping you create content, just looking to get a little bit better lay of the land?
+
+**Brooke Grief:** Yeah, sort of everyone at the company.
+
+**Brooke Grief:** I just keep getting slacked of like, hey, I'm writing this.
+
+**Brooke Grief:** like, awesome.
+
+**Brooke Grief:** I love that.
+
+**Brooke Grief:** So yeah, everyone on our team, our marketing team, which is like five to seven people, they sort of all create stuff.
+
+**Brooke Grief:** I think that's sort of why I'm here to help be that one pillar that everyone knows to go to.
+
+**Brooke Grief:** And then hopefully I can then communicate everything on to all of you.
+
+**Brooke Grief:** So yeah, I'm sort of the middle ground now between the wave of content and the public flipping of that content.
+
+**Tyler Pavlas:** Okay, nice.
+
+**Tyler Pavlas:** And one thing we've seen that I think has helped us not have like bottlenecks and really just like deliver results more quickly is just like identifying, right?
+
+**Tyler Pavlas:** Like those one or two folks that would be the main reviewers when like everybody's reviewing the content, as I'm sure you can imagine.
+
+**Tyler Pavlas:** Things can take like a long time, you know, like we're agonizing over words versus like the subject matter itself.
+
+**Tyler Pavlas:** And I talked to Katty about this and, you I think she mentioned that like, obviously, you know, you and Katty would be our points of contact.
+
+**Tyler Pavlas:** But then on the technical side, just kind of thinking through like, you know, there's Brian, there's Adam, there's some senior engineers.
+
+**Tyler Pavlas:** When would one person review versus another, right?
+
+**Tyler Pavlas:** And how can we kind of streamline that process versus like every piece of content, all four of them are going to like need to give us a thumbs up to be able to, you know, get the content live essentially.
+
+**Tyler Pavlas:** Right.
+
+**Brooke Grief:** Yeah, like some sort of SME mapping would be nice to like for this topic, this person.
+
+**Brooke Grief:** I don't have that now.
+
+**Brooke Grief:** So hopefully we can build that out.
+
+**Brooke Grief:** But that sounds like it would be very helpful.
+
+**Brooke Grief:** But yeah, I would say for now, I will be that person that would review the lion's share of anything that comes through.
+
+**Brooke Grief:** And then like, if I would need technical expertise, I would figure out that person on my end.
+
+**Brooke Grief:** But then hopefully eventually we can make it more streamlined where they can just be directly involved.
+
+**Tyler Pavlas:** Exactly.
+
+**Tyler Pavlas:** And I got a couple more questions, then I'll like jump into a proper overview.
+
+**Tyler Pavlas:** But I guess I was just like curious, right?
+
+**Tyler Pavlas:** Like, what has been your experience like using AI in content creation?
+
+**Tyler Pavlas:** And then also, like, how's your experience been, you know, working with any agencies that that do, you know, things that we do, basically, they probably do a part of it versus the whole thing.
+
+**Tyler Pavlas:** But yeah, how's that gone for you?
+
+**Brooke Grief:** Yeah, AI.
+
+**Brooke Grief:** So I worked at an AI company.
+
+**Brooke Grief:** Prior to U.com also.
+
+**Brooke Grief:** So I have experience with it as an industry a little bit.
+
+**Brooke Grief:** I'm still wrapping my head around a lot of the technical aspects of what's behind the scenes.
+
+**Brooke Grief:** I asked you.com to tell me what an API is like I'm five. It's actually pretty hard. But yeah, so that part is where I'm still learning.
+
+**Brooke Grief:** But when it comes to using it for writing, I'm like, it helps me with writer's block more than a final product.
+
+**Brooke Grief:** If there's like a conclusion that I'm just struggling to get put together, I'll upload the full draft and ask it to put out a conclusion for me.
+
+**Brooke Grief:** I sort of do piecemeal paragraphs.
+
+**Brooke Grief:** Like I need help making this paragraph sound better.
+
+**Brooke Grief:** Um, sometimes I do outlines, sometimes I do full drafts, but it's generally more work to edit a spit out result from AI than to just write it myself and have AI review it. I can detect AI pretty well now—AI writing—just because I've been so exposed to it.
+
+**Brooke Grief:** You know, when it says, like, it's not just this, it's this, or, you know, that kind of writing, you know, in today's landscape, like, everything starts with that.
+
+**Brooke Grief:** I love an emdash, so I refuse to hand that over to AI.
+
+**Brooke Grief:** I will be using emdashes in my writing.
+
+**Brooke Grief:** But yeah, that's pretty much my experience.
+
+**Brooke Grief:** I'm a person that will never copy out of an AI tool directly and publish, which feels sort of duh, but I think you'd be surprised by what some people do.
+
+**Brooke Grief:** So, yeah.
+
+**Tyler Pavlas:** No, that definitely resonates.
+
+**Tyler Pavlas:** I don't disagree with very much.
+
+**Tyler Pavlas:** And yeah, I've gotten a little bit self-conscious of the emdashes now, but I'm a fan as well.
+
+**Tyler Pavlas:** I just haven't stayed as strong as you have.
+
+**Brooke Grief:** And then for the agency stuff, a lot, I mean, obviously, like, AI is helpful for speed.
+
+**Brooke Grief:** Turn stuff out.
+
+**Brooke Grief:** But I've seen people just be like, hey, here's a draft, here's a draft, here's a draft.
+
+**Brooke Grief:** And it's all sort of slop, for lack of a better term.
+
+**Brooke Grief:** So, and I'm of the mindset that like a crawler is going to know what's AI better than a person would.
+
+**Brooke Grief:** So you're not going to potentially rank as well for slop versus a human sounding piece of content.
+
+**Brooke Grief:** So like, it's helpful, again, for those first passes, I guess.
+
+**Brooke Grief:** But if the value is, here's something that AI turned out, like, you're not really adding a value because I can do that also.
+
+**Brooke Grief:** So that's where I've seen agencies sort of go wrong, where it's like, this isn't actually, now you're just an extra step, really, to putting content in to an AI engine and then just sending me what you get.
+
+**Brooke Grief:** But so, yeah, as long as the most successful agencies I've worked with obviously have that strategy built out from the beginning, there's a lot of workshopping, which it sounds like we'll be doing, which is awesome.
+
+**Brooke Grief:** Awesome.
+
+**Brooke Grief:** And having guidelines to stick by, also very helpful.
+
+**Brooke Grief:** Yeah, there's lot of stuff.
+
+**Brooke Grief:** You.com, I'm still learning the tool itself, but with like agent building, there's a possibility for better AI output content.
+
+**Brooke Grief:** So hopefully that's also something we can start to explore.
+
+**Brooke Grief:** Like I'm working on writing style guide, which we don't have.
+
+**Brooke Grief:** But if that could be inputted into an agent, then content can be spit out following those style guidelines.
+
+**Brooke Grief:** So that's some stuff that I'm trying to work on in the background.
+
+**Brooke Grief:** But long story short, as long as there's human eyeballs going on to a piece of content, it tends to work out better for the agency and for me.
+
+**Tyler Pavlas:** 100%.
+
+**Tyler Pavlas:** Well, this is great.
+
+**Tyler Pavlas:** I can see like you're collaborative, you're embracing the way that we can come in and help.
+
+**Tyler Pavlas:** It's a good segue to talk more about our, you know, AI plus experts in the loop.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** So just to give you some more context on GrowthX—obviously, you know, like the search landscape is changing, people are giving their life story. If you're not in the answer, it's like you don't exist. And this is like the new first sales conversation. You probably asked some questions about GrowthX before this call, maybe, maybe not.
+
+**Tyler Pavlas:** But what's cool about our approach is it's very audience first. And so we're thinking about who's your ICP, we're creating these artifacts around the audience, the company, your products and services, and then your brand voice.
+
+**Tyler Pavlas:** And then that gives the context engineering necessary for us to make very relevant content for you through super sophisticated AI workflows.
+
+**Tyler Pavlas:** So I'm gonna actually show you—I'm gonna go behind the curtain and make sure you can see how involved what we're doing is. But what's great, I think is that it's this combination of being audience first and trying to be the best answer to all those questions the audience might have, but doing so within the realm of search volume, keyword difficulty, competitor content. So really like hitting both sides of kind of SEO and AEO.
+
+**Brooke Grief:** Cool.
+
+**Tyler Pavlas:** Just in terms of like, why GrowthX and the traction we've been having, Marcel, he's like always believed that brands should be more like publishers.
+
+**Tyler Pavlas:** He never spent much on paid in his career.
+
+**Tyler Pavlas:** At each stop in his journey, he'd like built an organic content engine, whether that was IBM, where they built the highest ROI marketing channel through this microsite called securityintelligence.com.
+
+**Tyler Pavlas:** Or, you know, being the marketing leader at HashiCorp from six to a hundred million, scale through the acquisition by Meta.
+
+**Tyler Pavlas:** And then what he did at DeepGram was he basically replicated this process using AI workflows.
+
+**Tyler Pavlas:** He just like decided, I'm going to spend thousands of hours learning how to do this.
+
+**Tyler Pavlas:** And he had a ton of success.
+
+**Tyler Pavlas:** We started putting these workshops.
+
+**Tyler Pavlas:** And then people wanted him to basically do it for them.
+
+**Tyler Pavlas:** And so that's how GrowthX was started.
+
+**Tyler Pavlas:** And so that's just like a little bit behind like who we are.
+
+**Tyler Pavlas:** Marcel built the tool that he always wanted to have as a CMO.
+
+**Tyler Pavlas:** And so it's like really, you know, something that's near and dear to like what he's always done throughout his career.
+
+**Tyler Pavlas:** And the problem we're really solving is, right, like the traditional agency typically just does strategy and a little bit of execution.
+
+**Tyler Pavlas:** As we've been talking about, AI alone falls short.
+
+**Tyler Pavlas:** And the time to value, if you try and like stitch together, you know, all these different steps and then refactor them in arops, it's just a lot longer, right?
+
+**Tyler Pavlas:** And it requires a lot more maintenance than being able to work with us.
+
+**Tyler Pavlas:** And so, you know, our process, the workflow is basically take the content through the most important factors for GEO.
+
+**Tyler Pavlas:** And I mean, it's, you know, credible, comprehensive current, right?
+
+**Tyler Pavlas:** Like those are the three C's.
+
+**Tyler Pavlas:** But we do a lot around leveraging a bunch of different deep research agents.
+
+**Tyler Pavlas:** Being able to attribute our research to specific sources or make sure that those sources are credible.
+
+**Tyler Pavlas:** Refreshing content is something that you would get as a part of this partnership.
+
+**Tyler Pavlas:** And so that's just like the high level on GrowthX.
+
+**Tyler Pavlas:** And I can share more details around how we execute, unless you had a question.
+
+**Brooke Grief:** Yeah, I'm just looking at time and being aware of it.
+
+**Brooke Grief:** But one question I did have, which this is all great.
+
+**Brooke Grief:** This is music to my ears.
+
+**Brooke Grief:** But Katty was actually asking, she wasn't sure of what the content that would be created would be.
+
+**Brooke Grief:** Like, is it strictly blog posts?
+
+**Brooke Grief:** Is it, is there a potential for white papers, infographics?
+
+**Tyler Pavlas:** Like, what is the swath of type that you can create?
+
+**Tyler Pavlas:** Yeah, for sure.
+
+**Tyler Pavlas:** With editorial, we typically do focus on building out the blog, right?
+
+**Tyler Pavlas:** So for Town, they're in the accounting space and accuracy is everything. Every single article we've written for them has been created by us on their blog and it's also in their voice.
+
+**Tyler Pavlas:** We've, like, got quotes that are coming into these articles.
+
+**Tyler Pavlas:** We do cross-linking.
+
+**Tyler Pavlas:** And so blog is the most common with editorial, but we've also done things like glossaries.
+
+**Tyler Pavlas:** So for Abnormal, we created a page for each one of these terms.
+
+**Tyler Pavlas:** And then for Augment, we created this guide section of their website.
+
+**Tyler Pavlas:** And so this is also represented under editorial.
+
+**Tyler Pavlas:** And they did this for a couple of reasons.
+
+**Tyler Pavlas:** They wanted to compare it to blog traffic.
+
+**Tyler Pavlas:** We've 3x the traffic of their blog with the guides that we've created.
+
+**Tyler Pavlas:** We've got, like, 100, I think, over the last three months.
+
+**Tyler Pavlas:** And it's very technical, right?
+
+**Tyler Pavlas:** You can see that we're talking about AI coding and comparing tools in the space.
+
+**Tyler Pavlas:** But we also created all the imagery here, to your question.
+
+**Tyler Pavlas:** So, you know, cover images and infographics can be created through our workflows as part of our engagement.
+
+**Tyler Pavlas:** I'll defer to Erik on white papers. But the answer is no, just because it's much longer form content that requires a lot of deep expertise from the company itself.
+
+**Erik O'Brien:** Yeah, think white papers is something we're actively exploring, but yeah, to Tyler's point, it does take a bit more, kind of, you know, manual research and input from, kind of, your expertise or subject matter experts, and so, for at least the motions and work streams that we support right now, it's mainly the editorial.
+
+**Erik O'Brien:** We do get into programmatic SEO as well, if that's something of interest, yeah, which Tyler can show you some examples of what we've done.
+
+**Brooke Grief:** Okay, got it.
+
+**Brooke Grief:** So, say for, if, you know, we're making blog posts, that's fine, but if we said we would like a longer piece of content,
+
+**Brooke Grief:** And that then we would take and make into a white paper.
+
+**Brooke Grief:** Like that could be a sort of potential first step from that growthx could help with of just like the longer format.
+
+**Brooke Grief:** And then we could kind of take it and run.
+
+**Brooke Grief:** Is that fair to say?
+
+**Erik O'Brien:** I don't know if it would kind of translate to a white paper.
+
+**Erik O'Brien:** Typically, our blog posts are around 1,500 to 2,000 words.
+
+**Erik O'Brien:** And that's, you know, making sure that they're authoritative and really cover a topic comprehensively.
+
+**Erik O'Brien:** And so that's our typical output for at least editorial blog posts that we do today.
+
+**Erik O'Brien:** So I think that would be something if it's a, you know, we do have some clients that kind of create the white paper as like the core pillar piece.
+
+**Erik O'Brien:** And then we create, you know, a bunch of content around that surface area.
+
+**Erik O'Brien:** So it's definitely something that we can talk about further.
+
+**Erik O'Brien:** But I've.
+
+**Erik O'Brien:** Thank
+
+**Erik O'Brien:** Say, to answer your question directly, I don't, probably wouldn't support white papers in the traditional sense.
+
+**Brooke Grief:** Okay.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** What's nice, too, is with editorial, right, we get that foundation where there's, like, a wide enough surface area to cover all the ways that someone could interact with AI search, and then you can build from there, right?
+
+**Tyler Pavlas:** So whether that's a programmatic play, like RAMP with their vendor directory, where we populated each one of these pages with their spend data, and even created, like, the charts and the graphs that you see here.
+
+**Tyler Pavlas:** Or, you know, whether it was, like, the per diem calculator that we created for them, where we've got programmatic pages for every city in America.
+
+**Tyler Pavlas:** Or, you know, it's, like, this expense category classifier, where we've got pages, you know, it's, like, RAMP wants to be connected with business spending.
+
+**Tyler Pavlas:** And so all of these pieces that we executed are connected to that.
+
+**Tyler Pavlas:** With us doing all of this, maybe some of the subject matter experts on your team have time opened up to focus on a white paper every quarter.
+
+**Tyler Pavlas:** Maybe even that's something that you would run the show for, something like that.
+
+**Brooke Grief:** Yeah.
+
+**Brooke Grief:** Okay, cool.
+
+**Brooke Grief:** And then for something like this, all the coding to get this set up on a web page, is that you guys?
+
+**Tyler Pavlas:** Yeah, it would definitely be an expansion of, like, the current scope of work.
+
+**Tyler Pavlas:** It's just more so showing, like, the art of what's possible.
+
+**Brooke Grief:** Okay.
+
+**Tyler Pavlas:** Yeah.
+
+**Erik O'Brien:** Yeah, we do have an engineering team that would work probably closely with your team.
+
+**Erik O'Brien:** Like, we typically would need a template for kind of what's going to go on the page.
+
+**Erik O'Brien:** So, whether it's header and just mark down from there, or if there's interactive elements, like, we would have to kind of work with your engineering team to understand.
+
+**Erik O'Brien:** And what's available and reusable versus what we have to build from scratch.
+
+**Erik O'Brien:** But we do have an engineering team to support kind of any PSEO play that we do.
+
+**Brooke Grief:** Very cool.
+
+**Brooke Grief:** Sweet.
+
+**Brooke Grief:** And then would you mind just sending me the contract just because I haven't seen it so I can take a look at the terms and all of that when you have a chance?
+
+**Tyler Pavlas:** Oh, yeah, absolutely.
+
+**Tyler Pavlas:** And I'm guessing you have a hard stop, right?
+
+**Brooke Grief:** Yes.
+
+**Tyler Pavlas:** Okay, perfect.
+
+**Tyler Pavlas:** I'll kind of quickly breeze through like the last couple of things here.
+
+**Tyler Pavlas:** So we have this platform where our team is executing.
+
+**Tyler Pavlas:** And today it's internal, but the vision is to bring customers into this platform.
+
+**Tyler Pavlas:** We'd be collaborating with you on the roadmap of assignments in Airtable.
+
+**Tyler Pavlas:** So we set up a content OS.
+
+**Tyler Pavlas:** We've got the Slack channel.
+
+**Tyler Pavlas:** We set up a Notion space and have docs for every meeting that we have or every artifact that we're producing.
+
+**Tyler Pavlas:** In phase one, it's Erik and then the managing editor, Ada. And then the team that would execute in phase two is a managing director and managing editor.
+
+**Tyler Pavlas:** And then some other folks will be involved.
+
+**Tyler Pavlas:** And the way this works is the phase one is eight weeks.
+
+**Tyler Pavlas:** We're going to create the artifacts by around week four, week three, week four.
+
+**Tyler Pavlas:** And these will be evolving.
+
+**Tyler Pavlas:** So it's not like static, right?
+
+**Tyler Pavlas:** This is something that we'll always refine.
+
+**Tyler Pavlas:** And then we'll work on some calibration pieces and publish probably around 10 articles, right, by the last week of the engagement, at which point you have the ability to opt out.
+
+**Tyler Pavlas:** But what's great about the way we work is you really know what you're getting out of phase two because it's really just daily execution by the time we get to the last week of phase one.
+
+**Tyler Pavlas:** And so a quick look, right, at our engine in the business travel space, you know, we created artifacts across all their target industries.
+
+**Tyler Pavlas:** engine engine engine space, right, right,
+
+**Tyler Pavlas:** And again, it's really just trying to like get inside the mind of this person and all the questions that they might have so that all the content that we create, you know, it has this context in addition to your company, your writing guidelines.
+
+**Tyler Pavlas:** And so then we'll set up these pipelines and we have agentic pipelines that they're going to run in a loop until they hit a certain quality score.
+
+**Tyler Pavlas:** And this can be around, you know, refreshing.
+
+**Tyler Pavlas:** So we'll use a variety of different tools across the service.
+
+**Tyler Pavlas:** This one's using tools for scraping, for, you know, SEO analysis.
+
+**Tyler Pavlas:** And then when it comes to the actual research, you know, the research is happening against a plan with the target audience, right?
+
+**Tyler Pavlas:** The objective, the questions to answer, what success looks like.
+
+**Tyler Pavlas:** And again, you know, it will make sure that it runs that research in a loop until it hits a certain quality threshold.
+
+**Tyler Pavlas:** All the while, our team has the ability to, you know, make change.
+
+**Tyler Pavlas:** And so even with like fact checking, right, with the draft, we'll go in and we'll do deep research on every single passage.
+
+**Tyler Pavlas:** And if we can't validate that research, then we will recommend a rewrite, which the team has the ability to accept.
+
+**Tyler Pavlas:** But I'm going through quick here.
+
+**Brooke Grief:** I'm sorry, we did too much.
+
+**Tyler Pavlas:** Like I did too many questions up front.
+
+**Tyler Pavlas:** But yeah, just we have a very systematic approach.
+
+**Tyler Pavlas:** It's rooted in audience first, the topic clusters that we should create content around that your audience cares about or that your product, right, is differentiated in.
+
+**Tyler Pavlas:** And, you we start with editorial, but we can build from there, obviously.
+
+**Tyler Pavlas:** And the better we can collaborate, the more successful we can be.
+
+**Brooke Grief:** Yeah, I appreciate that.
+
+**Brooke Grief:** I know we sped through it, but it's a very cool tool.
+
+**Brooke Grief:** I'm excited to, to see what we can create.
+
+**Brooke Grief:** But yeah, if you could send me the contract, and that deck, if that's possible, I don't know if it's like an internal only thing.
+
+**Brooke Grief:** But it'd be great to just flip through it.
+
+**Brooke Grief:** And we know we have a call next week, I believe, or today.
+
+**Tyler Pavlas:** Yeah, our kickoff is 4 p.m.
+
+**Tyler Pavlas:** Eastern on Tuesday.
+
+**Tyler Pavlas:** So I'll get you those resources and we're a slack away if you need anything else.
+
+**Brooke Grief:** Awesome.
+
+**Brooke Grief:** Thank you both so much.
+
+**Brooke Grief:** Yeah, great to meet you.
+
+**Brooke Grief:** Bye.
+
+**Brooke Grief:** See you next week.

@@ -1,0 +1,3561 @@
+# Impromptu Zoom Meeting
+
+<metadata>
+date: 2025-09-25
+time: 21:34 UTC
+duration: 111 minutes
+organizer: mariana.marins@growthx.ai
+participants: Mariana Marins (GrowthX), Matthew Panzarino (GrowthX), Iana Medvedeva (GrowthX)
+fathom_recording_id: 89981138
+fathom_url: https://fathom.video/calls/423053561
+share_url: https://fathom.video/share/sTYc2_gMg-rgADvWnC-PKigQsbjDGnoi
+source: fathom
+enriched_on: 2026-03-03 12:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+The GrowthX Biologica team audited and refined the content generation pipeline, identifying and solving critical issues with the proofreader step, ingredient handling, and content structure. Matthew ran a test eliminating the ingredients checker step and discovered that the proofreader tends to oversimplify content into one-sentence paragraphs, triggered by keywords like "dense" and "natural." The team decided to consolidate redundant steps, move the MD-tagging phase to avoid reflow issues, and plan discussions with Kirkland about image generation integration while closely monitoring fact-checker outputs with the new EXA integration.
+
+---
+
+## Context
+
+Biologica is a GrowthX client in the health and wellness space with multiple product lines organized by life stage (reproductive years, perimenopause, postmenopause). The team uses an AI-powered content generation pipeline to produce health articles at scale, with multiple processing steps including research, fact-checking, proofreading, and knowledge base integration. This impromptu meeting was called to conduct a detailed audit of the pipeline after recent test runs revealed structural and quality issues, particularly with how the system simplifies content and handles ingredient/product references. Matthew Panzarino (leading the pipeline architecture) and Iana Medvedeva (supporting quality assessment) joined Mariana Marins to examine specific outputs and discuss whether to consolidate or redesign key steps. The discussion touches on broader questions about balancing automation efficiency with content quality and how to prevent the proofreader from over-simplifying medical/scientific information.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Identified that proofreader step oversimplifies content to single-sentence paragraphs when triggered by keywords like "dense" and "natural" — requires prompt adjustments to enforce 2-3 paragraph minimum per section (~100 words each)
+- Consolidating ingredients checker into proofreader artifact-based approach eliminates redundant step and reduces bloated CTA sections
+- Moving MD-tagging step to run after proofreader prevents text reflow issues that degrade content quality
+- Need better pipeline execution visibility: file ticket to add date/time stamps to pipeline run logs for easier troubleshooting
+
+**To CheckThat:**
+- Knowledge base integration with EXA becomes critical concern — fact-checker may fail to verify information that EXA finds but Perplexity cannot, requiring careful monitoring of fact-check outputs post-launch
+- Discussed potential improvements to fact-checker prompt to reference knowledge base alongside web sources, preventing false negatives on proprietary information
+
+**To GrowthX Business Development:**
+- Biologica's product portfolio question around product naming ("menopause" vs. "perimenopause" vs. "postmenopause") directly impacts content generation — clients must provide specific life-stage anchors for focused, high-quality output
+- Team considering image generation step as potential add-on feature that could increase article production capacity and engagement
+- Kirkland follow-up discussion scheduled to finalize pipeline improvements, indicating active client engagement on architecture decisions
+
+---
+
+## Overview
+
+- Pipeline needs refinement: hyperlink handling, proofreader simplification, and structure generation require attention
+- New instructions added for brand name ingredient retrieval to reduce downstream corrections
+- Team identified potential oversimplification in proofreader step, leading to one-sentence paragraphs
+- Content framework updated to specify 2-3 paragraphs per section, aiming for \~100 words each
+
+---
+
+## Key Topics
+
+### Pipeline Audit and Improvements
+
+  - Identified issues with hyperlink handling in proofreader step
+  - Removed unnecessary steps (e.g., bullet point creation) to streamline process
+  - Added instruction to retrieve brand names for ingredients in research step
+  - Discussed moving MD-tagging step after proofreader to avoid reflow issues
+  - Considered adding image generation step to pipeline
+
+### Proofreader Concerns
+
+  - Observed tendency to oversimplify content, creating one-sentence paragraphs
+  - Discussed potential causes: interpretation of "dense" text, lack of quantifiable metrics
+  - Identified problematic words triggering rewrites: "natural" and "dense"
+  - Planned to adjust article structure requirements to prevent oversimplification
+
+### Knowledge Base and Research Integration
+
+  - Noted importance of knowledge base for accurate product information
+  - Discussed potential conflicts between web-based fact-checking and proprietary info
+  - Considered adjusting fact-checker to incorporate knowledge base alongside web sources
+
+### Content Structure and Length
+
+  - Updated content framework to specify 2-3 paragraphs per section
+  - Aimed for \~100 words per paragraph, totaling about 1,200 words per article
+  - Discussed placement and generation of key takeaways section
+
+### Pipeline Execution and Monitoring
+
+  - Noted need for better visibility into pipeline run dates/times
+  - Discussed importance of monitoring fact-checker outputs, especially with EXA integration
+
+---
+
+## Action Items
+
+- **Matthew Panzarino (GrowthX):** Meet with Kirkland to discuss pipeline improvements and image integration
+- **Matthew Panzarino (GrowthX):** Implement changes to proofreader step to prevent oversimplification and enforce 2-3 paragraph structure per section
+- **Matthew Panzarino (GrowthX):** Adjust fact-checker prompt to incorporate knowledge base alongside web sources, monitor EXA integration carefully to avoid false negatives
+- **Matthew Panzarino (GrowthX):** Move MD-tagging step to run after proofreader to prevent text reflow issues
+- **Iana Medvedeva (GrowthX):** Monitor pipeline outputs closely after implementing changes to track quality improvements
+- **Team (GrowthX):** File ticket for adding date/time stamps to pipeline run information for better visibility and troubleshooting
+- **Team (GrowthX):** Consider creating a CTA library in the knowledge base for reference
+
+---
+
+## Transcript
+**Matthew Panzarino:** Hey, how's going?
+
+**Matthew Panzarino:** Hey, how are you?
+
+**Matthew Panzarino:** Not good.
+
+**Matthew Panzarino:** I want this to be done.
+
+**Mariana Marins:** I'm very irritated.
+
+**Mariana Marins:** We have built like 25 lines already.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** The good news is that this is like, not bad.
+
+**Matthew Panzarino:** Like for overall perspective, it's not terrible.
+
+**Matthew Panzarino:** It's much better than There's lots of stuff that's bad about it, but it's not like a disaster, you know?
+
+**Matthew Panzarino:** I think a lot of it is that, I mean, some of it may have come from my instructions, which I'll just do a little share screen so I can like poke at things with my mouse.
+
+**Matthew Panzarino:** But like, when I, Iana, like the history on this is that this alcohol thing has just been a bear.
+
+**Mariana Marins:** I'm sure you've seen it, but it's just been a really a pain in the neck.
+
+**Matthew Panzarino:** So I just put this like really blunt, like don't, don't do this.
+
+**Matthew Panzarino:** weird stuff.
+
+**Matthew Panzarino:** Don't be weird about it.
+
+**Matthew Panzarino:** Like it still did the one drink a week thing, even though I told it not to.
+
+**Mariana Marins:** don't you?
+
+**Mariana Marins:** Yeah.
+
+**Mariana Marins:** Oh my God.
+
+**Matthew Panzarino:** Anyhow, long story short, I didn't think about this a whole lot.
+
+**Matthew Panzarino:** I just threw this in there to run it as a test, you know, but I was really testing the pipeline minus the ingredients checker.
+
+**Matthew Panzarino:** That's what this new test was.
+
+**Matthew Panzarino:** So I just ditched the ingredients checker entirely because the ingredients checker instructions were like built for an old pipeline.
+
+**Matthew Panzarino:** that didn't do any of it.
+
+**Matthew Panzarino:** And this now does some of it.
+
+**Matthew Panzarino:** And so it's not, I think it's just adding too much.
+
+**Matthew Panzarino:** The link checker or the previous pipeline that we did here, this pipeline too, the link checker step, or excuse me, I keep saying link checker, ingredient checker, sorry, so many checkers.
+
+**Matthew Panzarino:** Ingredient checkers stuff.
+
+**Matthew Panzarino:** It basically like made the CTA, son of a gun.
+
+**Matthew Panzarino:** It made the CTA enormous, right?
+
+**Matthew Panzarino:** It just didn't need to be this big.
+
+**Matthew Panzarino:** And it was basically just like checking and saying, oh, I could definitely add more because our instructions basically tell it, you know, add more detail or whatever.
+
+**Matthew Panzarino:** So it was just making this too bulky.
+
+**Matthew Panzarino:** And the unfortunate thing is that the ingredient checker actually has no tunable inputs.
+
+**Matthew Panzarino:** So it doesn't even reference an artifact.
+
+**Matthew Panzarino:** It's all hard-coded.
+
+**Matthew Panzarino:** So if you, because remember Pedro just made this for us like real quick and we threw it into the pipeline, into the old pipeline.
+
+**Matthew Panzarino:** So the problem with it is, is that if you look at the, excuse me, if you look at the code, like it's literally a, oh, it looks like he took out the ingredients.
+
+**Mariana Marins:** They were talking about that today in that thread.
+
+**Matthew Panzarino:** Yeah, making it an artifact instead.
+
+**Matthew Panzarino:** this step no one needs to call the artifacts if we do call it again.
+
+**Matthew Panzarino:** Anyhow, Iana, before it had the, the entire list just hard-coded into it up here.
+
+**Matthew Panzarino:** And then it had, of course, this should look familiar because we wrote it, but it's basically these instructions.
+
+**Matthew Panzarino:** Like if it's not in the ingredients list, add it, don't change if they're already mentioned, you know, all the normal rules that we built, and then a good and bad.
+
+**Mariana Marins:** Probably the proofreader as well, because that's where it came from.
+
+**Mariana Marins:** We had those rules in the proofreader in Cloud.
+
+**Mariana Marins:** Right.
+
+**Matthew Panzarino:** Right now, my gut is like, we don't use this stuff at all.
+
+**Matthew Panzarino:** And instead, we try to improve the proofreader's prompt, because the proofreader now has the ability to access that artifact.
+
+**Matthew Panzarino:** Like we could just tell it, go look at that, call that artifact as one of the inputs, and then use that artifact to improve the mentions.
+
+**Matthew Panzarino:** I think that's what my gut's telling me, like we just do that instead of having a whole separate step for just this.
+
+**Matthew Panzarino:** But we'll see.
+
+**Matthew Panzarino:** Anyhow, it's the two instruction sets here that are basically, if they are on the list, then do this.
+
+**Matthew Panzarino:** If they are not on the list, do this, right?
+
+**Matthew Panzarino:** So that's what we had built from our little...
+
+**Matthew Panzarino:** Anyhow, long story short, I went, it was doing some unpredictable stuff, giving us really bulky, laborious CTAs that just had a bunch of stuff that wasn't really necessary, like this Bacillus coagulans thing, and it just like expanded it way out, like all these bees, and you know, anyhow, it just was unnecessary, too big.
+
+**Matthew Panzarino:** Didn't match our ideal of what we want.
+
+**Matthew Panzarino:** So then I just went, I was like, all right, let me just test the pipeline without the ingredient checker.
+
+**Matthew Panzarino:** So this is just pipelines exactly the same, just no ingredient checker here.
+
+**Matthew Panzarino:** So we ran that.
+
+**Matthew Panzarino:** I did, I did do one, I broke the rules and did one additional change, which is that I threw this into here, just to see if I could get it to be less weird.
+
+**Matthew Panzarino:** But other than that, it's the same exact pipeline.
+
+**Matthew Panzarino:** I gave it the same topic and everything.
+
+**Matthew Panzarino:** I honestly think this topic should be rewritten.
+
+**Matthew Panzarino:** I think a lot of it is driving from the topic.
+
+**Matthew Panzarino:** It's like alcohol and mess.
+
+**Matthew Panzarino:** Perimenopause?
+
+**Matthew Panzarino:** No.
+
+**Matthew Panzarino:** We need to be like, you know, what happens to your body in perimenopause with alcohol?
+
+**Matthew Panzarino:** Like, it needs to just be more specific, and I think it would fix a lot of the weirdness, but I want to get the functions working correctly, and then we'll play around.
+
+**Matthew Panzarino:** So anyhow, it runs through the steps here, and I think it's worth, like, when I'm auditing these, as I was telling Nina, like, I like to go through and see very explicitly what changed with each thread.
+
+**Matthew Panzarino:** Like, what it's doing, what, you know, what oddities are introduced at each step, all of that.
+
+**Matthew Panzarino:** So the initial draft, if we look at it, there's two big things that I noticed here, which I've never seen it do this before, and I'm like, great, now what?
+
+**Matthew Panzarino:** Is it my instructions, or what?
+
+**Mariana Marins:** But it did.
+
+**Mariana Marins:** No headings, oh my god.
+
+**Matthew Panzarino:** It had no headings, it had one H2-ish.
+
+**Matthew Panzarino:** This is really not even an H2, it's just bolded text.
+
+**Matthew Panzarino:** And yeah, it had one H2, that's it.
+
+**Matthew Panzarino:** I've never seen it do this before.
+
+**Matthew Panzarino:** It almost always does several sections.
+
+**Matthew Panzarino:** So I was like, okay, I'm just gonna let it run.
+
+**Matthew Panzarino:** We'll see what happens, right?
+
+**Matthew Panzarino:** But let's just set that aside for the moment.
+
+**Matthew Panzarino:** We do have our key takeaways.
+
+**Matthew Panzarino:** This seems fine.
+
+**Matthew Panzarino:** One of our proofreaders later on should make the latter, the last proof, key takeaways relate to Biologica, just so that it's part of the discussion early on.
+
+**Matthew Panzarino:** So it doesn't right now, but we'll see what happens.
+
+**Matthew Panzarino:** But as far as structure goes, we've still got the wired and exhausted , which is not my favorite, but it's fine.
+
+**Matthew Panzarino:** It's not a weird one.
+
+**Matthew Panzarino:** You know, it's not like something odd.
+
+**Matthew Panzarino:** And this, I think, all reads just fine.
+
+**Matthew Panzarino:** Like, yeah, you know, alcohol used to treat you a certain way, now treats you a different way.
+
+**Matthew Panzarino:** And navigating alcohol during menopause isn't true.
+
+**Matthew Panzarino:** It processes alcohol differently.
+
+**Matthew Panzarino:** True.
+
+**Matthew Panzarino:** The effects on sleep movement is true.
+
+**Matthew Panzarino:** You're not imagining these changes.
+
+**Matthew Panzarino:** You don't feel guilty about wanting to be great.
+
+**Matthew Panzarino:** You know, relatable, you warm, all that's fine.
+
+**Matthew Panzarino:** The key takeaways seem fine to me.
+
+**Matthew Panzarino:** They're related to the article.
+
+**Matthew Panzarino:** Nothing weird there.
+
+**Matthew Panzarino:** This all seems to read pretty decently.
+
+**Matthew Panzarino:** These are even linked correctly, kind of one shot.
+
+**Matthew Panzarino:** It kind of screws some of them up later on.
+
+**Iana Medvedeva:** beginning, right?
+
+**Matthew Panzarino:** Yeah, but from the beginning, it's like not, you know, WHO says blah, blah, blah.
+
+**Matthew Panzarino:** It's like clinical observations say, you know, and it's a couple of words.
+
+**Matthew Panzarino:** Because biologic, it doesn't want us to say like, Harvard MD study, whatever it says.
+
+**Matthew Panzarino:** It says, oh, you know, studies indicate just general, which is fine.
+
+**Matthew Panzarino:** This is all good.
+
+**Matthew Panzarino:** It's obeying the instructions.
+
+**Matthew Panzarino:** My personal preference is never to link the beginning of a sentence.
+
+**Matthew Panzarino:** But let's fix the major stuff before we start getting really picky.
+
+**Matthew Panzarino:** Like, you know, research demonstrates and linking the very beginning of a sentence.
+
+**Matthew Panzarino:** I always hate it.
+
+**Matthew Panzarino:** Like I stylistically, I think it's ugly.
+
+**Matthew Panzarino:** You know, it should really be like research demonstrates and then you link alcohol consumption.
+
+**Matthew Panzarino:** Give it a couple leading words in a sentence before you begin a link.
+
+**Matthew Panzarino:** It always looks stupid, in my opinion, when you'd link the first two words in a sentence, which happens a lot with our generators.
+
+**Matthew Panzarino:** So anyhow, set that aside for the moment.
+
+**Matthew Panzarino:** This is fine.
+
+**Matthew Panzarino:** Yeah, it could trigger.
+
+**Matthew Panzarino:** Now, this is adhering to our new instructions that we gave it.
+
+**Matthew Panzarino:** The instructions are the new, we have new writing guidelines and new instructions.
+
+**Matthew Panzarino:** That's all, of course, that's taking into account here yet.
+
+**Matthew Panzarino:** And it is adhering to our basic instructions, which is no, you don't need to use euphemisms and weird  throughout the middle of the article.
+
+**Matthew Panzarino:** This is mostly science-based, observational, you know, pretty straightforward, like fact-based stuff throughout the center of the article.
+
+**Matthew Panzarino:** I find this all good.
+
+**Matthew Panzarino:** Does it, like, reintroduce?
+
+**Matthew Panzarino:** You remember how it used to, like, reintroduce after a header, all of a sudden, another euphemism?
+
+**Matthew Panzarino:** You know?
+
+**Matthew Panzarino:** Like...
+
+**Matthew Panzarino:** Oh, we were wide awake and wired at 2 a.m.
+
+**Matthew Panzarino:** and then it's like, oh, let's pick another one.
+
+**Matthew Panzarino:** You're at the laundromat and you're going crazy or whatever it is, you know, like it doesn't it doesn't add those back, which is great.
+
+**Matthew Panzarino:** This header like this is fine.
+
+**Matthew Panzarino:** It's kind of odd that this whole header is just the CTA, but I'm willing to sort of like overlook that for the moment, you know, and see where we get.
+
+**Matthew Panzarino:** But the bad bit of the CTA is that it actually is focusing on two different products.
+
+**Matthew Panzarino:** And that, I think, is just purely because we only say menopause in the head or in the topic.
+
+**Matthew Panzarino:** I don't want to look too hard at this.
+
+**Matthew Panzarino:** I really think it's because we say menopause here instead of alcohol and perimenopause or alcohol and postmenopause or alcohol during menopause.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** Like, you know, if I think it's if we focused that topic a bit better, some of this would go away.
+
+**Mariana Marins:** Right.
+
+**Matthew Panzarino:** But I'm also like, okay, if the worst it did is it added this extra thing, cool.
+
+**Matthew Panzarino:** If it's not intended for postmenopausal women, it takes two seconds to delete that.
+
+**Matthew Panzarino:** That's something I would expect the CM to be able to do and then be like, oops, you know, it said this.
+
+**Matthew Panzarino:** Now, if it does it consistently with a broad variety of topics, even if it says perimenopause in the headline, then we got to like, okay, there's something structural here that's a problem.
+
+**Matthew Panzarino:** But I think this is just within the realm of like, acceptable for a CM to be like, oh, this isn't about perimenopause, let's delete this.
+
+**Matthew Panzarino:** In fact, right at this moment, technically speaking, this does apply to two different biological products.
+
+**Matthew Panzarino:** We just have never done that before.
+
+**Matthew Panzarino:** And so like, I could go to biologic and be like, do you care?
+
+**Mariana Marins:** But to be honest, there was an article, I'm not going to remember which now, that they left a comment saying, I feel like we can talk about this other one here as well.
+
+**Mariana Marins:** So they are open.
+
+**Mariana Marins:** Yeah, gotcha, gotcha.
+
+**Matthew Panzarino:** But it just needs to make sense.
+
+**Mariana Marins:** Yeah, for clarity's sake here, I would delete one of them because it also...
+
+**Mariana Marins:** Yeah, because alcohol doesn't affect women that are after menopause.
+
+**Mariana Marins:** It only affects women.
+
+**Matthew Panzarino:** much differently.
+
+**Matthew Panzarino:** They have other problems later on.
+
+**Mariana Marins:** It's much more impact during perimenopause and menopause than it is postmenopause.
+
+**Mariana Marins:** I think the problem is also that they don't have a product that is specific for menopause.
+
+**Mariana Marins:** It has perimenopause and postmenopause.
+
+**Mariana Marins:** So I think when we give menopause, it is like, okay, but you don't have a product for this, you know?
+
+**Iana Medvedeva:** It tries to just grab everything it has.
+
+**Mariana Marins:** Exactly.
+
+**Mariana Marins:** There are three products.
+
+**Matthew Panzarino:** There are three products, The one is for reproductive ears.
+
+**Matthew Panzarino:** So it's like young women.
+
+**Mariana Marins:** pre-perimenopause.
+
+**Matthew Panzarino:** Yes, exactly.
+
+**Mariana Marins:** And then they have perimenopause and then they have postmenopause, but not And they don't have menopause.
+
+**Mariana Marins:** Oh, interesting.
+
+**Matthew Panzarino:** I see what you're saying.
+
+**Matthew Panzarino:** So like, it's trying to pattern match it and say, okay, they don't really have don't have what you want, basically.
+
+**Matthew Panzarino:** yeah, yeah.
+
+**Matthew Panzarino:** But I will give you everything that kind of fits.
+
+**Mariana Marins:** That has the name, because both have, it has menopause inside, perimenopause and postmenopause.
+
+**Matthew Panzarino:** That's what it's doing, you know?
+
+**Matthew Panzarino:** Okay, okay, fair enough.
+
+**Mariana Marins:** we have never written for reproductive ears, like.
+
+**Mariana Marins:** Yeah, not yet, right.
+
+**Mariana Marins:** Not yet.
+
+**Mariana Marins:** Okay, so let's do this.
+
+**Matthew Panzarino:** When we actually run this article, like, to try and get a final draft of them, I think we should run it with, what was the stage we were just moving into, the cluster we were moving into?
+
+**Mariana Marins:** We were talking about postmenopause now.
+
+**Matthew Panzarino:** Okay, so I think we should just run it as like, you know, alcohol in postmenopausal, you know, state, or maybe just we pick perimenopause.
+
+**Matthew Panzarino:** We just stick with that, and then, and then, like, it obviously will apply to the midlife essential.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** And like, that's, let's see how that flows.
+
+**Matthew Panzarino:** And if it picks it up, and I think it'll be more, a more focused article because of it.
+
+**Mariana Marins:** Anyhow, long story short.
+
+**Matthew Panzarino:** And it's very good at writing about perimenopause.
+
+**Matthew Panzarino:** It has written extensively.
+
+**Mariana Marins:** Yeah.
+
+**Matthew Panzarino:** There's probably just more document, more stuff out there on the web about it.
+
+**Mariana Marins:** Exactly.
+
+**Mariana Marins:** Okay.
+
+**Mariana Marins:** So this one here, the draft is actually much better than the output.
+
+**Matthew Panzarino:** It's, it's very funny.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Besides those little problems, right?
+
+**Mariana Marins:** Exactly.
+
+**Matthew Panzarino:** Like, I actually think that this one is pretty good.
+
+**Mariana Marins:** And then this one sucks, right?
+
+**Matthew Panzarino:** Like the, the, the, this step is fine, but anyhow, we'll get there.
+
+**Matthew Panzarino:** So, okay.
+
+**Matthew Panzarino:** All of this is good.
+
+**Matthew Panzarino:** This seems fine to me in general.
+
+**Matthew Panzarino:** And then this should just be a conclusion, but in fact, it does do that later.
+
+**Matthew Panzarino:** So it's like a little Jesus take the wheel moment where you're like, okay, let me just let it go.
+
+**Matthew Panzarino:** And then it does make it better in the end, but anyhow, so that's fine.
+
+**Matthew Panzarino:** Um, um,
+
+**Matthew Panzarino:** And then like the concluding paragraph here, like all of this seems okay.
+
+**Matthew Panzarino:** It doesn't have like a capstone euphemism in this final section, but I wonder if that's because it doesn't even know that this is the final section because there's no section.
+
+**Iana Medvedeva:** No sections and no final sections.
+
+**Iana Medvedeva:** Yeah, there's no conclusion here.
+
+**Matthew Panzarino:** So anyhow, long story short, let's move on.
+
+**Matthew Panzarino:** So we do the medical source links.
+
+**Matthew Panzarino:** Okay, fine.
+
+**Matthew Panzarino:** I don't know.
+
+**Matthew Panzarino:** Let's actually look and see what it did just really quickly.
+
+**Matthew Panzarino:** It probably didn't do much here.
+
+**Matthew Panzarino:** looks like it looks like it did one improvement pass.
+
+**Matthew Panzarino:** So it looked recommendations.
+
+**Matthew Panzarino:** Let's look what it, I don't think it actually did anything.
+
+**Matthew Panzarino:** It just looked and I think it said everything was fine.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** No changes needed.
+
+**Matthew Panzarino:** Exemplary, proper use, full validation.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** So it just passed this and kept going.
+
+**Matthew Panzarino:** And I don't see any names of institutions, which is good.
+
+**Matthew Panzarino:** It's saying research, studies, specialists and stuff.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** Okay, now the fact checker output here didn't materially change the overall structure, and then let's just look at what it did really quickly here.
+
+**Matthew Panzarino:** So it did a lot, it did a lot.
+
+**Mariana Marins:** Oh my god.
+
+**Mariana Marins:** stuff.
+
+**Matthew Panzarino:** Let's see what it actually did.
+
+**Matthew Panzarino:** Okay, so words added, words removed, so net change six words.
+
+**Matthew Panzarino:** It did all of this to change six words.
+
+**Mariana Marins:** Well, but that's good, right?
+
+**Iana Medvedeva:** It means that it was good before, so.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** The upside is that it was actually fun.
+
+**Mariana Marins:** It took a long time, yeah.
+
+**Matthew Panzarino:** Yeah, let me see if it has like a really detailed, god dang, wow.
+
+**Matthew Panzarino:** It's really difficult to tell what.
+
+**Matthew Panzarino:** that should be the diff.
+
+**Mariana Marins:** No, but the diff is not showing much.
+
+**Mariana Marins:** Yeah, well, no, hold on.
+
+**Matthew Panzarino:** Let me look here, index.
+
+**Matthew Panzarino:** Okay, so.
+
+**Matthew Panzarino:** Now, here's one thing that I was thinking about this because it MD-tagged, if you look at the content, it MD-tagged in the MD section later on, it MD-tagged some Biologica claims.
+
+**Matthew Panzarino:** Like the Biologica's product does XYZ.
+
+**Matthew Panzarino:** No, we don't want it to do that.
+
+**Matthew Panzarino:** So I think the MD-tagger needs to say, if it's a claim about Biologica's products, don't MD-tag it.
+
+**Matthew Panzarino:** Because it's basically saying like...
+
+**Matthew Panzarino:** Which never did in editorial.
+
+**Mariana Marins:** No.
+
+**Mariana Marins:** So something would happen there.
+
+**Mariana Marins:** Yeah.
+
+**Matthew Panzarino:** But you see here, says original postmenopause contains hovamine.
+
+**Matthew Panzarino:** There's no direct evidence from the search results.
+
+**Matthew Panzarino:** In other words, whatever questions we asked the researcher didn't return information from the dossiers that says that it confirms that it contains hovamine as an ingredient.
+
+**Matthew Panzarino:** So it could not find in our research that this contains hovamine.
+
+**Matthew Panzarino:** Which it does.
+
+**Matthew Panzarino:** Which Which
+
+**Matthew Panzarino:** It's in the dossier.
+
+**Matthew Panzarino:** But does it reference artifacts and dossiers or just a web search?
+
+**Mariana Marins:** The dossiers are coming with the knowledge base.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** So research topic here, right, this research step, it basically does these, you know, it creates these, yeah, it creates these research questions.
+
+**Matthew Panzarino:** And then it pulls the answers from both the web and from the dossiers.
+
+**Matthew Panzarino:** So you see this Atlas API key here.
+
+**Matthew Panzarino:** What this is doing is it basically uses this API key to access the knowledge base.
+
+**Matthew Panzarino:** And then our knowledge base includes the dossiers and the ingredients list.
+
+**Iana Medvedeva:** That's all the biological one includes.
+
+**Matthew Panzarino:** But that's how this works now.
+
+**Matthew Panzarino:** It uses the Atlas API, which they just created, to access the knowledge base.
+
+**Matthew Panzarino:** And then pull information from the knowledge base.
+
+**Matthew Panzarino:** So if you look here, like, so this is just the structure.
+
+**Matthew Panzarino:** So it generates the research plan.
+
+**Matthew Panzarino:** Basically, this is what questions should I be asking.
+
+**Matthew Panzarino:** Then it executes the researcher.
+
+**Matthew Panzarino:** And then it synthesizes the results.
+
+**Matthew Panzarino:** I don't know if it'll show really easily.
+
+**Matthew Panzarino:** There's a bibliography, typically, that shows...
+
+**Iana Medvedeva:** Yeah, there is a last one in the primary sources.
+
+**Iana Medvedeva:** Biological internal product...
+
+**Matthew Panzarino:** Oh, right, right, right.
+
+**Matthew Panzarino:** Here we go.
+
+**Iana Medvedeva:** Thank you.
+
+**Matthew Panzarino:** Yeah, yeah.
+
+**Matthew Panzarino:** So, theoretically, yes, it did access it, right?
+
+**Iana Medvedeva:** So, I was wondering where it was, and there it is.
+
+**Matthew Panzarino:** Yeah, so, it's got this, and then, of course, these other ones.
+
+**Matthew Panzarino:** Have you checked the dossiers to see if it's there?
+
+**Matthew Panzarino:** The ingredients?
+
+**Matthew Panzarino:** Holbamine?
+
+**Mariana Marins:** Maybe not the ingredients in general, but maybe Holbamine itself isn't there.
+
+**Matthew Panzarino:** Oh, you mean maybe it's right, and then it's not there, and then I'm thinking it's lying?
+
+**Mariana Marins:** Yeah.
+
+**Mariana Marins:** Like, yeah, maybe.
+
+**Mariana Marins:** I think we should check, just to be sure.
+
+**Matthew Panzarino:** But why would it say this contains Holbamine?
+
+**Matthew Panzarino:** You know what I mean?
+
+**Matthew Panzarino:** Like, where would it get that from in the first place?
+
+**Iana Medvedeva:** Yes, like it's a...
+
+**Iana Medvedeva:** Very weird thing to hallucinate.
+
+**Mariana Marins:** Yeah, so let me do, well, it's especially weird because- contradicts itself saying that it couldn't find Hobamin, like- Right, that's what I'm saying, like, why- Okay, now I got it.
+
+**Matthew Panzarino:** Does, well, let's ask, right?
+
+**Matthew Panzarino:** Does postmenopause- Essentials?
+
+**Matthew Panzarino:** It is postmenopause- Postal.
+
+**Iana Medvedeva:** Postal monopause.
+
+**Mariana Marins:** Postomenopause.
+
+**Matthew Panzarino:** That's Italian.
+
+**Matthew Panzarino:** Postomenopause.
+
+**Matthew Panzarino:** Postomenopause essentials contain Hobamin.
+
+**Iana Medvedeva:** Yes, it does.
+
+**Iana Medvedeva:** But my question is more about, it was in a fact checker.
+
+**Iana Medvedeva:** Does fact checker checks?
+
+**Iana Medvedeva:** Against research or just against web?
+
+**Matthew Panzarino:** You're talking about...
+
+**Matthew Panzarino:** This fact checker.
+
+**Iana Medvedeva:** one right here?
+
+**Matthew Panzarino:** Yes.
+
+**Matthew Panzarino:** Yeah, so if we look at it, and we look at the...
+
+**Matthew Panzarino:** Actually, no, here, hold on.
+
+**Matthew Panzarino:** It's here.
+
+**Matthew Panzarino:** Look at it here.
+
+**Matthew Panzarino:** Research...
+
+**Matthew Panzarino:** It's this one right here, right?
+
+**Matthew Panzarino:** Mm-hmm.
+
+**Iana Medvedeva:** Is it?
+
+**Matthew Panzarino:** No.
+
+**Matthew Panzarino:** Wait, no, that's...
+
+**Matthew Panzarino:** Yeah.
+
+**Iana Medvedeva:** Fact yeah.
+
+**Iana Medvedeva:** It's a fact check, yeah.
+
+**Matthew Panzarino:** Okay, so article content.
+
+**Matthew Panzarino:** I'll put result, reset, set result content.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** I can't tell.
+
+**Matthew Panzarino:** Okay, it takes...
+
+**Matthew Panzarino:** Well, it looks like it only takes...
+
+**Matthew Panzarino:** But it's...
+
+**Mariana Marins:** It's...
+
+**Mariana Marins:** Looks like it doesn't.
+
+**Matthew Panzarino:** doesn't.
+
+**Matthew Panzarino:** later on.
+
+**Mariana Marins:** Content, steps, facts.
+
+**Mariana Marins:** Well, no.
+
+**Mariana Marins:** This is it.
+
+**Matthew Panzarino:** Ah, no.
+
+**Mariana Marins:** Output result.
+
+**Mariana Marins:** Okay.
+
+**Mariana Marins:** So it steps there.
+
+**Matthew Panzarino:** this is it.
+
+**Matthew Panzarino:** This is the next, the expert review is this next one.
+
+**Matthew Panzarino:** Let's go look at this function.
+
+**Matthew Panzarino:** Wait.
+
+**Matthew Panzarino:** No.
+
+**Matthew Panzarino:** Where did this one come from?
+
+**Matthew Panzarino:** Did this come from the old pipeline?
+
+**Iana Medvedeva:** I think it's an old school vanilla fact checker, no?
+
+**Mariana Marins:** I think it was in of our pipelines.
+
+**Mariana Marins:** The one that I know it was Kirk is basically the validate knowledge base.
+
+**Mariana Marins:** That's Kirk.
+
+**Mariana Marins:** The others, I think it was ours.
+
+**Matthew Panzarino:** This is, no, this is the generic fact checker.
+
+**Iana Medvedeva:** We just can't have knowledge base because we didn't have enough knowledge base when So Thank
+
+**Matthew Panzarino:** Right, right.
+
+**Matthew Panzarino:** So maybe this fact checker is just not even necessary to be in the pipeline.
+
+**Matthew Panzarino:** Maybe we take it out because it's going to cause more issues than not.
+
+**Matthew Panzarino:** And we fact check with the knowledge base later on.
+
+**Matthew Panzarino:** Um, yeah, so it's basically like, okay, does that, trying to figure out what, um, let's look at the README really quickly.
+
+**Matthew Panzarino:** So it validates, processes, extracts, researches, verifies with evidence.
+
+**Matthew Panzarino:** Yeah, where does it say, um, GPT 4.1 perplexity.
+
+**Matthew Panzarino:** GPT 4.1, Anthropic, combines them back, and whatever.
+
+**Matthew Panzarino:** So this is just a web checker, basically.
+
+**Iana Medvedeva:** Yeah.
+
+**Iana Medvedeva:** Um, yeah.
+
+**Matthew Panzarino:** Okay, so let's, let's say that this maybe doesn't need to exist.
+
+**Matthew Panzarino:** Let's, like, because it's going to check.
+
+**Matthew Panzarino:** We don't have, okay, I see what's happening here.
+
+**Matthew Panzarino:** This is the fact checker that would normally come at the end of the pipeline, but we don't want it to change anything else when it fact checks.
+
+**Matthew Panzarino:** So we run it here as a web search.
+
+**Matthew Panzarino:** But the problem is, is that it's going to find, like, biological stuff.
+
+**Matthew Panzarino:** But biological isn't on the web.
+
+**Iana Medvedeva:** Yeah, so it's going to find what we have, like, in the company context or something like this that's only there.
+
+**Iana Medvedeva:** And now we're outside in the web.
+
+**Iana Medvedeva:** And then it's going to say, I can't fact check it, get rid of it.
+
+**Iana Medvedeva:** So I think the fact checker needs to integrate the knowledge base.
+
+**Matthew Panzarino:** I think that's the solution.
+
+**Matthew Panzarino:** It just needs to say, can you find the facts and verify them on the web or in the knowledge base?
+
+**Matthew Panzarino:** So let's make a note of that and have Kirkland help us wire that up.
+
+**Mariana Marins:** That would be another API, I guess, for the knowledge base and instructions.
+
+**Matthew Panzarino:** Yeah, would basically be, so if you, I'm almost positive I could do it as well, but the researcher right here, this research supervisor workflow, right, it runs this and it calls the API key and then it gives these instructions, hey, here's the writing guidelines, here's the queries that we need and, you know, here's the stuff that we need to look at.
+
+**Matthew Panzarino:** Include the content from these knowledge base in your search so downstream steps can validate against them, right?
+
+**Matthew Panzarino:** When you query them, retrieve the full, retrieve the complete, include this information in your final report, never research biological products on the web, only use the knowledge base for internal product details.
+
+**Matthew Panzarino:** That's fine for the researcher, but there is, this output is, um, step result final report, right?
+
+**Matthew Panzarino:** So technically speaking, the fact checker should refer to I way
+
+**Matthew Panzarino:** What if we just add some kind of limitation in the fact checker and say do not fact check facts about Biologica because we kind of assume that we already drafted it.
+
+**Matthew Panzarino:** Yeah, that's kind of the simplest answer is like, hey, or simplest hack is like, hey, don't, if it's related to Biologica or Biologica's products, don't fact check it.
+
+**Matthew Panzarino:** Um, this has been already fact checked, but I think that the, the, I mean, right now I think that that works pretty well because like it wouldn't be in here unless it was already facts from the article, but I don't want it to be like unchecked.
+
+**Matthew Panzarino:** In other words, if, so here's the thing, here's the, here's the thing.
+
+**Matthew Panzarino:** It was in the old pipeline.
+
+**Matthew Panzarino:** You know what I mean?
+
+**Matthew Panzarino:** Like it worked.
+
+**Matthew Panzarino:** So like, uh, whatever, whatever's happening.
+
+**Mariana Marins:** editorial pipeline?
+
+**Mariana Marins:** Yeah.
+
+**Matthew Panzarino:** So if in the.
+
+**Mariana Marins:** I don't think it was there.
+
+**Mariana Marins:** Let me check.
+
+**Mariana Marins:** I'm opening it.
+
+**Mariana Marins:** I know it was.
+
+**Matthew Panzarino:** Sorry.
+
+**Matthew Panzarino:** Yeah, no, it definitely was.
+
+**Matthew Panzarino:** But this one right here, right?
+
+**Matthew Panzarino:** And this fact checker, you know, obviously does a ton of research.
+
+**Matthew Panzarino:** And it definitely needs to be in the article somewhere because we have so many like medical facts and stuff.
+
+**Matthew Panzarino:** It needs to fact check them.
+
+**Matthew Panzarino:** But the.
+
+**Matthew Panzarino:** Yeah, all that's good stuff that it's finding.
+
+**Matthew Panzarino:** It's just like, I wonder why this old one worked and didn't false flag Biologica stuff.
+
+**Matthew Panzarino:** And maybe it's because we ran this and didn't include the mentions until after.
+
+**Iana Medvedeva:** Afterwards, maybe it wasn't that good in including this information, the old pipeline, because new pipeline actually has a whole context and actually taking it into consideration and old pipeline was more wobbly-bobbly about it.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** never actually, maybe it actually deleted one or two mentions somewhere along the way and we never actually we just never even saw it.
+
+**Matthew Panzarino:** Yes, we never even knew that they did.
+
+**Iana Medvedeva:** Oh, you know what's happening?
+
+**Matthew Panzarino:** I guarantee you I know what's happening.
+
+**Matthew Panzarino:** It probably is deleting  and then it's getting added back because we do the ingredients and mentions review.
+
+**Iana Medvedeva:** So that's almost positive.
+
+**Matthew Panzarino:** I'm almost positive that's what's occurring.
+
+**Matthew Panzarino:** Anyhow, I think that the solution is instead of trying to hack it, instead talk to Kirkland and say, hey, this fact checker should also call the knowledge base research output as a source.
+
+**Matthew Panzarino:** Mm So that it can fact check against that as a source.
+
+**Matthew Panzarino:** And that way it won't.
+
+**Matthew Panzarino:** Falsely remove, you know, incorrectly remove references.
+
+**Matthew Panzarino:** I think that's probably the long-term solve.
+
+**Matthew Panzarino:** Okay, let's skip that for now, though, because it didn't really introduce, aside from whatever it may have, like, falsely corrected, it didn't really introduce a lot of weirdness here.
+
+**Matthew Panzarino:** This expert review is next.
+
+**Matthew Panzarino:** The expert review starts to do some stuff.
+
+**Matthew Panzarino:** If you look at the output here, like, it definitely adds a lot about stuff here.
+
+**Matthew Panzarino:** If you look at the outputs, medical authorities recommend no more drinks, medical authorities, such as, okay, so it adds the claim, so it fixes an ambiguous claim.
+
+**Matthew Panzarino:** That's good.
+
+**Matthew Panzarino:** But oversimplified suggestion, okay, fine.
+
+**Matthew Panzarino:** I actually disagree.
+
+**Matthew Panzarino:** I think this is perfect.
+
+**Matthew Panzarino:** It's clear, but if it wants to improve it, that's fine with me.
+
+**Matthew Panzarino:** Okay, sure.
+
+**Matthew Panzarino:** Yeah, fine.
+
+**Matthew Panzarino:** I think it's really picky in a lot of these cases, but that's okay with me, you know?
+
+**Matthew Panzarino:** Nothing there, nothing there.
+
+**Matthew Panzarino:** What did it do here?
+
+**Matthew Panzarino:** Why isn't it telling me what it did?
+
+**Mariana Marins:** Because now it's revised article section and not expert reviews.
+
+**Mariana Marins:** I know, but it didn't say it was going to...
+
+**Matthew Panzarino:** Wait.
+
+**Matthew Panzarino:** Oh, is this just where the ambiguous claim lived?
+
+**Matthew Panzarino:** Is that what it was?
+
+**Matthew Panzarino:** Medical authorities.
+
+**Matthew Panzarino:** Oh, it's this one right here.
+
+**Matthew Panzarino:** Okay, I'm dumb.
+
+**Matthew Panzarino:** I missed it.
+
+**Matthew Panzarino:** It's right here.
+
+**Matthew Panzarino:** okay...
+
+**Matthew Panzarino:** It's...
+
+**Mariana Marins:** It is saying North American menopause society, we can't have it.
+
+**Matthew Panzarino:** Well, that fixes fire, our rules fix it later, but like, I don't think it is in rules yet, actually.
+
+**Matthew Panzarino:** Well, whatever it is, it fixes it, because it's not there at the end.
+
+**Mariana Marins:** Yeah, yeah, so that's all good.
+
+**Matthew Panzarino:** So, okay, so anyhow, those are all seen, but I don't even know what the hell this is.
+
+**Matthew Panzarino:** It's blank, but I guess it's this one here, but.
+
+**Matthew Panzarino:** Sure, okay, I don't really care, didn't change a whole lot, okay.
+
+**Matthew Panzarino:** All right, next is mentions review.
+
+**Matthew Panzarino:** I like it when you can just tab between and seal.
+
+**Mariana Marins:** Yeah.
+
+**Mariana Marins:** Sometimes it doesn't do that, but.
+
+**Matthew Panzarino:** Okay, so before it's this, after it's this.
+
+**Matthew Panzarino:** It's included a new paragraph.
+
+**Matthew Panzarino:** Yeah, it has.
+
+**Matthew Panzarino:** It just enhanced it a bit, I think it's fine.
+
+**Matthew Panzarino:** You know, it just.
+
+**Matthew Panzarino:** It contextualizes it a bit.
+
+**Matthew Panzarino:** Let's look at the actual diffs here.
+
+**Matthew Panzarino:** Okay, original mention, blah, blah, blah.
+
+**Matthew Panzarino:** Reasoning.
+
+**Matthew Panzarino:** The current mention contains several inaccuracies when compared to the dossier.
+
+**Matthew Panzarino:** It mentions FarmGaba when the dossier states just GABA.
+
+**Matthew Panzarino:** Okay, well that's probably a problem because we want it to say FarmGaba and the dossier may just say GABA.
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** And it refers to HOBA mean when the dossier lists only two HOBA.
+
+**Matthew Panzarino:** And so this is the kind of thing that the ingredients checker was supposed to fix.
+
+**Matthew Panzarino:** know, like these are the things that it was aimed at.
+
+**Mariana Marins:** That it's doing much more than that.
+
+**Matthew Panzarino:** Yeah, yeah.
+
+**Matthew Panzarino:** But yeah, exactly.
+
+**Matthew Panzarino:** It's doing too much.
+
+**Matthew Panzarino:** Doing way too much.
+
+**Matthew Panzarino:** Okay, so.
+
+**Matthew Panzarino:** Suggested mention.
+
+**Matthew Panzarino:** So, yeah.
+
+**Matthew Panzarino:** Look, literally.
+
+**Matthew Panzarino:** It was right, and then it made it wrong.
+
+**Mariana Marins:** Yeah, because it's taking the dossiers as the source of truth, right?
+
+**Matthew Panzarino:** Yes.
+
+**Iana Medvedeva:** possible that dossiers contain both versions?
+
+**Iana Medvedeva:** Like, contains Hobami and then Tujoba?
+
+**Mariana Marins:** To be honest, like, now I'm going to say my opinion, I think they should take a look at those dossiers again.
+
+**Mariana Marins:** Because they were done a long time ago, they change the ingredient names every single week.
+
+**Mariana Marins:** I am not 100% positive that the dossiers are correct, you know?
+
+**Matthew Panzarino:** But anyways, not our problem, like we can't change the dossiers for them.
+
+**Mariana Marins:** Yeah, I agree.
+
+**Matthew Panzarino:** I mean, I'm sure that they say something like Tujoba is in this, but they may also say, like as you said, they may also say Hobamine, and then it like picks one, right?
+
+**Matthew Panzarino:** So, this is what the ingredients checker was supposed to
+
+**Iana Medvedeva:** Sort of rectify or normalize.
+
+**Matthew Panzarino:** If it only does that, I'm happy with that.
+
+**Matthew Panzarino:** It's just doing way too much other crap right now.
+
+**Matthew Panzarino:** I think I asked him with the ingredient checker only using the ingredients list.
+
+**Matthew Panzarino:** It can't use the dossiers, otherwise it's going to mess everything up.
+
+**Mariana Marins:** Exactly.
+
+**Matthew Panzarino:** Yeah, you're right.
+
+**Matthew Panzarino:** I think that's exactly right.
+
+**Matthew Panzarino:** Maybe it's like, okay, it's using the research and it shouldn't.
+
+**Matthew Panzarino:** The ingredients checker should only use the artifact that is the ingredients.
+
+**Matthew Panzarino:** That's it.
+
+**Matthew Panzarino:** Which now exists.
+
+**Mariana Marins:** Yeah, it now exists.
+
+**Matthew Panzarino:** And yeah, I think that I asked him, by the way, whether this was current and he said it's the...
+
+**Mariana Marins:** I saw.
+
+**Mariana Marins:** But like, they didn't check.
+
+**Mariana Marins:** They didn't go there and check.
+
+**Matthew Panzarino:** They just said, yeah, it's okay.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** But remember too, though, that this is not for our purposes.
+
+**Matthew Panzarino:** So it's kind of our job to context engineer this .
+
+**Matthew Panzarino:** It's our problem, basically, not really theirs.
+
+**Matthew Panzarino:** Even if this isn't precisely current, that's okay.
+
+**Matthew Panzarino:** We'll figure out what the most current stuff is.
+
+**Matthew Panzarino:** And...
+
+**Mariana Marins:** We'll supplement it.
+
+**Matthew Panzarino:** So anyhow, long story short, like, let's just confirm our assumptions here.
+
+**Matthew Panzarino:** So HOBA.
+
+**Matthew Panzarino:** I have already seen it.
+
+**Mariana Marins:** It says C.
+
+**Mariana Marins:** Yeah, 2HOBA, And I have seen Pomela already.
+
+**Matthew Panzarino:** So yeah.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** So look, 2HOBA and HOBA mean, both in here.
+
+**Matthew Panzarino:** Oh, look, lowercase, you know, like there's just tons of that stuff in here.
+
+**Mariana Marins:** mean is lowercase, too.
+
+**Matthew Panzarino:** Oh, okay.
+
+**Matthew Panzarino:** Never mind.
+
+**Matthew Panzarino:** Okay.
+
+**Mariana Marins:** I lose track of which is which.
+
+**Mariana Marins:** Yeah, exactly.
+
+**Mariana Marins:** It's too much.
+
+**Mariana Marins:** Yes.
+
+**Mariana Marins:** I just know because I looked at this a thousand times to check it.
+
+**Matthew Panzarino:** Yeah, yeah, yeah, exactly.
+
+**Matthew Panzarino:** Okay, 2HOBA, HOBA mean, HOBA mean.
+
+**Matthew Panzarino:** Yeah, it's all over the place.
+
+**Matthew Panzarino:** So, okay, cool.
+
+**Matthew Panzarino:** That's fine.
+
+**Matthew Panzarino:** In other words, this is sort of working as expected.
+
+**Matthew Panzarino:** You know, this mentions review is working as expected.
+
+**Matthew Panzarino:** And the ingredients checker should come along and rectify.
+
+**Matthew Panzarino:** But the ingredients checker should really just reference the ingredients list.
+
+**Matthew Panzarino:** That's its source of truth.
+
+**Matthew Panzarino:** And it's also easier for us to control.
+
+**Matthew Panzarino:** Control than a long dossier, you know, we can just correct the individual elements.
+
+**Mariana Marins:** Okay, cool.
+
+**Matthew Panzarino:** Now let's move to validate product dossier.
+
+**Matthew Panzarino:** Now this one was supposed to basically just fact check against the dossier, essentially.
+
+**Matthew Panzarino:** And if this existed in the original pipeline, I think because we needed a validation step to include the dossiers, but now it's different.
+
+**Matthew Panzarino:** Like now we have them from the beginning.
+
+**Matthew Panzarino:** It drafts it with the dossiers included in the research, which it did not do previously.
+
+**Matthew Panzarino:** Remember, like the article draft in the previous one was just publicly available research in our prompt.
+
+**Matthew Panzarino:** That's all it had to work from.
+
+**Matthew Panzarino:** So this validate product dossier now, I have questions about whether this should exist.
+
+**Matthew Panzarino:** Let's just see what it does though, really quick.
+
+**Matthew Panzarino:** So, okay, parse instructions, evaluate, evaluate, and improve.
+
+**Matthew Panzarino:** Okay, so evaluate, failed product claims accuracy, multiple product claims, none and all with the knowledge base result.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** So this is using the knowledge base research to exercise.
+
+**Matthew Panzarino:** It's not using like individual dossier artifacts, which is good.
+
+**Matthew Panzarino:** You know, I think it should.
+
+**Matthew Panzarino:** The source of truth that we have established at the beginning of the article.
+
+**Matthew Panzarino:** But it is interesting that it's finding things that don't align.
+
+**Matthew Panzarino:** So let's look.
+
+**Matthew Panzarino:** Article claims FarmGaba, but the knowledge base only mentions that.
+
+**Matthew Panzarino:** Yeah, see, it's the same thing.
+
+**Matthew Panzarino:** Because the dossiers, like if it queries the dossier, and I specifically query the dossier, say, does it include hobamine?
+
+**Matthew Panzarino:** It says yes, because I said hobamine, right?
+
+**Matthew Panzarino:** But if in the original knowledge base research that it does at the beginning, it does not ask questions that are like, what is the brand name ingredient that this includes?
+
+**Matthew Panzarino:** It's not going to pull these brand names.
+
+**Matthew Panzarino:** So it's going to be a problem, you know?
+
+**Matthew Panzarino:** I love how this is all inaccurate, and it's like, actually, never mind, it's accurate.
+
+**Mariana Marins:** You son of a .
+
+**Mariana Marins:** That's a fun word.
+
+**Iana Medvedeva:** Cloud thing, like, exactly.
+
+**Mariana Marins:** Like, oh, I changed my mind in the same sentence.
+
+**Matthew Panzarino:** Anyhow, this is the same exact thing as the last step, basically.
+
+**Matthew Panzarino:** It's the same thing.
+
+**Matthew Panzarino:** It just didn't pull this.
+
+**Matthew Panzarino:** I'm okay with this happening, I guess, unless there's probably two things we can do here.
+
+**Matthew Panzarino:** One, in the research step, the research step has manageable inputs, right?
+
+**Matthew Panzarino:** So this research topic, you can send questions into this.
+
+**Matthew Panzarino:** So, actually, let's look here.
+
+**Matthew Panzarino:** If we look, this is the researcher, right?
+
+**Matthew Panzarino:** So this is, oh, that's article direction.
+
+**Matthew Panzarino:** This is the, let's find the researcher here.
+
+**Matthew Panzarino:** Ah, right here.
+
+**Matthew Panzarino:** Okay, here's the directions, right?
+
+**Matthew Panzarino:** Critical knowledge-based queries.
+
+**Matthew Panzarino:** I think that we can do stuff like, I know it says include the...
+
+**Matthew Panzarino:** Complete content, but that's a lie.
+
+**Matthew Panzarino:** It's not.
+
+**Matthew Panzarino:** Like, there's no way.
+
+**Matthew Panzarino:** Because if it included the complete content, it would have access to the fact that it includes Hobomim.
+
+**Matthew Panzarino:** But I think what we can do is in this include instructions just right here, right?
+
+**Matthew Panzarino:** And basically say, four, retrieve all brand names for ingredients included in midlife essentials.
+
+**Matthew Panzarino:** And let's see what happens.
+
+**Matthew Panzarino:** Don't have a final stop.
+
+**Matthew Panzarino:** Oh, thank you.
+
+**Matthew Panzarino:** Just in case that changes something.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** You never know.
+
+**Matthew Panzarino:** Syntax.
+
+**Matthew Panzarino:** Well, this one does, but who knows.
+
+**Matthew Panzarino:** Okay, so I will, let's see what happens there, because maybe this will include it in there.
+
+**Matthew Panzarino:** One other, I mean, the possibility that this works is 50-50, right?
+
+**Matthew Panzarino:** But I think that it's, the ingredients checker should fix it, but if we can get it up front, why not get it up front?
+
+**Matthew Panzarino:** So if we can tell it, and basically that it has less work to do in the future.
+
+**Matthew Panzarino:** Yeah, because what happens is with this new researcher workflow, if you send a topic in, it's going to try to think of its own questions about it to ask.
+
+**Matthew Panzarino:** But that part of the YAML right here is all about like, okay, do you have specific questions you would like to ask it?
+
+**Matthew Panzarino:** Put them here, right?
+
+**Matthew Panzarino:** Like, that's what this is.
+
+**Matthew Panzarino:** And like, it is, yeah, critical knowledge.
+
+**Matthew Panzarino:** Actually, know what?
+
+**Matthew Panzarino:** I'm going to do this.
+
+**Matthew Panzarino:** I'm going to put this here.
+
+**Matthew Panzarino:** Now that I think about it, I really want this here.
+
+**Matthew Panzarino:** See, this says, like, get the ingredients list, but it obviously didn't, you know what I mean?
+
+**Matthew Panzarino:** So, and I could, we can also make a note to ask Kirkland about this as well, Nana, tomorrow, and say, hey, it's not doing this, this step right here.
+
+**Matthew Panzarino:** So we added this additional question, you know, if it could retrieve these, then we would have less corrections to make down the line.
+
+**Matthew Panzarino:** So what do we do here?
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** We'll see what he says.
+
+**Matthew Panzarino:** But for now, let's add that and see what happens.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** That's the validate dossier step.
+
+**Matthew Panzarino:** I think that is explainable.
+
+**Matthew Panzarino:** Same thing here, right?
+
+**Matthew Panzarino:** Same thing there.
+
+**Matthew Panzarino:** Basically the exact opposite of what it should do.
+
+**Matthew Panzarino:** So that's fine.
+
+**Matthew Panzarino:** This is, and it's funny because it, Aperon, it's cool with.
+
+**Matthew Panzarino:** It grabbed that.
+
+**Matthew Panzarino:** Yeah, it must have grabbed that.
+
+**Matthew Panzarino:** Okay, passed, passed.
+
+**Mariana Marins:** I think it's probably because Efra and Sefran has both of the names and the trademarked name, I guess.
+
+**Mariana Marins:** And Nituhova and Hobamine are just too different.
+
+**Mariana Marins:** Exactly.
+
+**Mariana Marins:** Yeah.
+
+**Matthew Panzarino:** Okay, that's cool.
+
+**Matthew Panzarino:** I'm fine with it failing this because it's explainable.
+
+**Matthew Panzarino:** Like, we understand why it's doing that.
+
+**Matthew Panzarino:** And if we can correct that behavior, great.
+
+**Matthew Panzarino:** If not, we'll rectify it with the ingredients checker.
+
+**Matthew Panzarino:** I'm just ignoring the ones that's passing mostly.
+
+**Matthew Panzarino:** Positioning, alignment, approve from the messaging base.
+
+**Matthew Panzarino:** That's good.
+
+**Matthew Panzarino:** Pass, pass, pass.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Yeah, trademark inaccuracies, that's all it did.
+
+**Matthew Panzarino:** It just, it went and  up our trademarks is what it is.
+
+**Matthew Panzarino:** That's all I did.
+
+**Matthew Panzarino:** Okay, sweet.
+
+**Matthew Panzarino:** Okay, that's that.
+
+**Matthew Panzarino:** Then we move on to apply writing rules.
+
+**Matthew Panzarino:** And this is, this parses our writing rules, Iana, which is a new artifact that we made.
+
+**Matthew Panzarino:** And it's not too, it's not too complicated.
+
+**Matthew Panzarino:** It's just stuff that is really rules-based and doesn't belong in the, like, philosophical thesis world of the writing guidelines, you know, and just, like, more grounded, basically.
+
+**Matthew Panzarino:** So here it is, citations, trademark ingredients, medical claims, technical terms, avoiding uncommon technical terms, streamlining, supplement stack, and then product consolidation messaging.
+
+**Matthew Panzarino:** Okay, these are basically just frameworks for how to write about those certain things.
+
+**Matthew Panzarino:** Let me ask you something, because I have just remembered, have you put EXA in this pipeline?
+
+**Matthew Panzarino:** And already?
+
+**Matthew Panzarino:** No.
+
+**Matthew Panzarino:** yet.
+
+**Matthew Panzarino:** Yeah, no.
+
+**Matthew Panzarino:** So if we go here.
+
+**Matthew Panzarino:** Is it?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** So let's just do, I think it's just EXA.
+
+**Matthew Panzarino:** don't think you have to capitalize it.
+
+**Mariana Marins:** Probably wasn't.
+
+**Mariana Marins:** So I think that's OK.
+
+**Matthew Panzarino:** Just double checking.
+
+**Iana Medvedeva:** While are on this researcher topic, it's one of the questions that I was thinking about fact checker.
+
+**Iana Medvedeva:** If we know that EXA is much deeper looking and sometimes even finding something that you can't actually click properly, it's somewhere behind.
+
+**Iana Medvedeva:** I'm afraid that fact checker might stumble upon it and say I can't verify it because proplexity can't find this information.
+
+**Matthew Panzarino:** Right, right, right, right.
+
+**Matthew Panzarino:** Well, I guess we'll see, right?
+
+**Matthew Panzarino:** I guess we'll find out.
+
+**Matthew Panzarino:** But yeah, no, that's a good thing to flag for sure.
+
+**Matthew Panzarino:** Yeah, it can't verify the information because it can't find the source where Exit could find the source.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** I think the way to do that would just be to closely monitor the fact check output and see what happens.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** So we've updated that.
+
+**Matthew Panzarino:** Thank you for the reminder there.
+
+**Matthew Panzarino:** had forgotten about that.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Writing rules.
+
+**Matthew Panzarino:** Let's take a gander at those.
+
+**Matthew Panzarino:** Debatable.
+
+**Mariana Marins:** The technical terminology is correct.
+
+**Mariana Marins:** We shouldn't use vasomotor symptoms first.
+
+**Mariana Marins:** Yeah, but it's the title.
+
+**Matthew Panzarino:** So like this is useless.
+
+**Mariana Marins:** In the title.
+
+**Matthew Panzarino:** Is it alcohol?
+
+**Mariana Marins:** It doesn't say this in the title.
+
+**Matthew Panzarino:** No, it doesn't.
+
+**Matthew Panzarino:** But maybe this is a header?
+
+**Matthew Panzarino:** Maybe that's what it means by title?
+
+**Mariana Marins:** Ah, okay.
+
+**Mariana Marins:** Yeah, maybe.
+
+**Matthew Panzarino:** But there's only one header, right?
+
+**Matthew Panzarino:** So...
+
+**Matthew Panzarino:** Wait, what does It's not even a header.
+
+**Iana Medvedeva:** It's...
+
+**Iana Medvedeva:** Yeah, I don't know where it's...
+
+**Mariana Marins:** There's bolded sentence in the middle.
+
+**Matthew Panzarino:** Well, it didn't even do anything.
+
+**Matthew Panzarino:** So I don't know why we're even reading this too closely.
+
+**Matthew Panzarino:** It didn't do .
+
+**Matthew Panzarino:** Um, yeah, like, so it's dead.
+
+**Matthew Panzarino:** Yeah, no vasomotor symptoms here.
+
+**Matthew Panzarino:** Yeah, and it had no headers at all.
+
+**Matthew Panzarino:** So, um, does it even say anything about vasomotor?
+
+**Matthew Panzarino:** I don't really care about it there.
+
+**Matthew Panzarino:** Where do care about it here?
+
+**Matthew Panzarino:** It's not even in a header, so I don't know what it's talking about.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Okay, I think it's fine.
+
+**Matthew Panzarino:** Well, yeah, I don't really care about you.
+
+**Matthew Panzarino:** Congratulations, you live today.
+
+**Matthew Panzarino:** All right, okay, now, I have a question.
+
+**Matthew Panzarino:** I actually don't know why the hell this is in here.
+
+**Matthew Panzarino:** Do you remember why?
+
+**Mariana Marins:** Oh, it is?
+
+**Mariana Marins:** is Kirk, yeah.
+
+**Matthew Panzarino:** And why did we go do more research?
+
+**Mariana Marins:** It wasn't actually go do more research.
+
+**Matthew Panzarino:** That's what it does do, though.
+
+**Mariana Marins:** Because I asked Claude this today.
+
+**Mariana Marins:** Let's see if I remember.
+
+**Mariana Marins:** It actually comes back with the research at this point and checks again, if I'm not mistaken, against what it was changed later, you know?
+
+**Mariana Marins:** But it's the same research from the beginning.
+
+**Mariana Marins:** It's just getting it back.
+
+**Mariana Marins:** It's like calling it again.
+
+**Matthew Panzarino:** It's not doing more research because it looks like it does the research again.
+
+**Mariana Marins:** But let me...
+
+**Mariana Marins:** me...
+
+**Mariana Marins:** You can check that, but I think it doesn't, because I tried to discover this today as well.
+
+**Matthew Panzarino:** Okay, so this one, it goes and does, it does do research again.
+
+**Matthew Panzarino:** So it calls the API and it queries the knowledge base.
+
+**Matthew Panzarino:** So this is a new round of research, but it is exclusively on the internal knowledge base.
+
+**Iana Medvedeva:** And then it keeps writing an article.
+
+**Mariana Marins:** That's why the name is targeted, because the target is the knowledge base, I guess.
+
+**Mariana Marins:** Yes, exactly.
+
+**Matthew Panzarino:** And so then it says, okay, read through the article and identify these, these.
+
+**Mariana Marins:** This would work a little, like the ingredient checker.
+
+**Mariana Marins:** Yeah, does, I mean, it's very similar to what the ingredient checker does.
+
+**Matthew Panzarino:** mean, mean,
+
+**Matthew Panzarino:** We might be able to put the ingredients checker language in here, something like it, and then it'll do that based on that.
+
+**Matthew Panzarino:** But remember, though, that the ingredients, this is the querying the knowledge base.
+
+**Mariana Marins:** Yeah, ingredients is just a list.
+
+**Mariana Marins:** Yeah, so exactly.
+
+**Matthew Panzarino:** So I think it needs to be focused on just the list.
+
+**Mariana Marins:** So maybe we don't want this stuff because...
+
+**Mariana Marins:** I don't know.
+
+**Matthew Panzarino:** Well, let's see what it supports.
+
+**Matthew Panzarino:** So, you know, it's carefully review the article content.
+
+**Matthew Panzarino:** So, okay, so it does the targeted research, then it does an incorporate targeted research, which is just a standard post-processor, right?
+
+**Matthew Panzarino:** And it says, it uses as an input this and, yeah, here's the context, right?
+
+**Matthew Panzarino:** Here's the content, the writing rules.
+
+**Matthew Panzarino:** So this is applying the writing rules.
+
+**Mariana Marins:** On top of that.
+
+**Mariana Marins:** Oh, no, no, this is the writing rules output.
+
+**Matthew Panzarino:** This is just the content, the article.
+
+**Iana Medvedeva:** This is the article.
+
+**Iana Medvedeva:** Yeah.
+
+**Matthew Panzarino:** So then this, it takes the context, which is the targeted research, it just did, and the original research?
+
+**Matthew Panzarino:** Why?
+
+**Matthew Panzarino:** Yeah, that's what I was saying.
+
+**Mariana Marins:** Like, I knew that there was something that came back, because I was like, hmm, what's this?
+
+**Mariana Marins:** So yeah, the research from the beginning comes back.
+
+**Matthew Panzarino:** It's almost like it shouldn't include this.
+
+**Matthew Panzarino:** Let's mark that down to ask, I'm speaking to Granola as well, but let's mark that down to ask Kirkland about as well, because this, I'm curious to why it's calling the original research and not just the targeted research.
+
+**Matthew Panzarino:** But regardless, it's calling, it's basically doing a new round of questions.
+
+**Matthew Panzarino:** So it's a new round of queries to the knowledge base that is asking it for things to do this work with.
+
+**Iana Medvedeva:** So it's like, we are not sure that our first researcher was good, good enough.
+
+**Iana Medvedeva:** We want to make sure then why don't put the step after normal researcher?
+
+**Iana Medvedeva:** Do a normal researcher, do a targeted researcher, do a...
+
+**Matthew Panzarino:** Yeah, that's a good, that's a good point.
+
+**Matthew Panzarino:** Like what if we do the researcher, and maybe the ingredient checker even in the beginning.
+
+**Mariana Marins:** So like if we are maintaining it again after the target, I think the ingredient checker might fall afoul of the fact checker.
+
+**Matthew Panzarino:** That's why you might want it to come later.
+
+**Matthew Panzarino:** So let's, let's, we'll think about that.
+
+**Matthew Panzarino:** But yeah, I understand what you're saying, but it might have issues with the fact checker.
+
+**Matthew Panzarino:** Okay, and then use the targeted research to do.
+
+**Matthew Panzarino:** company context as well.
+
+**Matthew Panzarino:** Yeah, I guess that's okay.
+
+**Matthew Panzarino:** Use the research to natural ways to include product information.
+
+**Mariana Marins:** Maximum iterations three.
+
+**Mariana Marins:** So it should be first, at least.
+
+**Mariana Marins:** And then it moves on.
+
+**Matthew Panzarino:** Okay, so let's see what it actually did.
+
+**Matthew Panzarino:** Let's, let's take a look at what it actually did.
+
+**Matthew Panzarino:** Okay, it looks like Robert just wants to publish this week's five articles.
+
+**Mariana Marins:** Rob from Monograph?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Sorry, I'm just getting notifications.
+
+**Matthew Panzarino:** Yeah, he's like cool with publishing those, Iana, so we can just publish them.
+
+**Iana Medvedeva:** Don't have to review this week.
+
+**Matthew Panzarino:** Um, okay.
+
+**Iana Medvedeva:** like this week we already published, we are gonna give them tomorrow.
+
+**Matthew Panzarino:** Well, for next week.
+
+**Matthew Panzarino:** Links.
+
+**Iana Medvedeva:** For like next Wednesday, I already sent.
+
+**Matthew Panzarino:** Oh, well, he doesn't, oh, I see what you're saying, he doesn't know that we already.
+
+**Iana Medvedeva:** Yes, he doesn't know that we already published.
+
+**Matthew Panzarino:** Oh, let me, let me just tell him that.
+
+**Matthew Panzarino:** This week, we already published them?
+
+**Matthew Panzarino:** yes.
+
+**Iana Medvedeva:** Uh, we were changing one little thing in a table.
+
+**Iana Medvedeva:** This is why I didn't share it, because we were changing one little thing on a table.
+
+**Iana Medvedeva:** Okay.
+
+**Iana Medvedeva:** cool.
+
+**Matthew Panzarino:** Clunky.
+
+**Iana Medvedeva:** And those articles that I sent for them to review are supposed to be published next week, by schedule.
+
+**Matthew Panzarino:** Yes, that's what I told them.
+
+**Iana Medvedeva:** I'm just doing it in advance so they have time to schedule it themselves and we have time to correct if they want to correct anything.
+
+**Matthew Panzarino:** And then are you going to send a digest later today, tomorrow, tomorrow?
+
+**Iana Medvedeva:** I plan tomorrow.
+
+**Iana Medvedeva:** You got it.
+
+**Matthew Panzarino:** I'll tell you tomorrow.
+
+**Matthew Panzarino:** morning.
+
+**Iana Medvedeva:** Yeah.
+
+**Matthew Panzarino:** I'll tell you tomorrow.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** Sweet.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** So let's see what it actually did.
+
+**Matthew Panzarino:** We were talking about targeted knowledge-based research.
+
+**Matthew Panzarino:** And then right after that, it incorporates the research, right?
+
+**Matthew Panzarino:** So we know what this does.
+
+**Matthew Panzarino:** It doesn't, it shouldn't actually change the article at all.
+
+**Matthew Panzarino:** Then this one should change it.
+
+**Matthew Panzarino:** Let's just look at the summary here.
+
+**Matthew Panzarino:** Article already contains good stuff.
+
+**Matthew Panzarino:** You're awesome.
+
+**Matthew Panzarino:** Things are so good.
+
+**Matthew Panzarino:** Life is great.
+
+**Matthew Panzarino:** Areas of excellence.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Minor observations.
+
+**Iana Medvedeva:** But it was only 42 seconds.
+
+**Iana Medvedeva:** So it passed on the first.
+
+**Matthew Panzarino:** Yeah, yeah, exactly.
+
+**Matthew Panzarino:** It just ran right through.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Just double checking for, yeah.
+
+**Matthew Panzarino:** So it evaluates, improves, nothing.
+
+**Matthew Panzarino:** And then it's passed.
+
+**Matthew Panzarino:** So basically useless, which is not too surprising, you know, because it's very similar questions it's asking the knowledge base and all that, but you never know.
+
+**Iana Medvedeva:** It could find something.
+
+**Matthew Panzarino:** I don't mind it as a validation step.
+
+**Matthew Panzarino:** It's just.
+
+**Matthew Panzarino:** be honest.
+
+**Matthew Panzarino:** So,
+
+**Matthew Panzarino:** I'm a little confused about why we don't do it at the beginning, but anyhow.
+
+**Matthew Panzarino:** Okay, next, annotate medical claims.
+
+**Matthew Panzarino:** Let's look at what we've got going on here.
+
+**Matthew Panzarino:** This is just the MD tagging.
+
+**Matthew Panzarino:** Yeah, this shouldn't change anything, just add.
+
+**Matthew Panzarino:** Yeah, but I will say.
+
+**Matthew Panzarino:** but let's see.
+
+**Mariana Marins:** The next step changes a lot, and maybe this should come later.
+
+**Mariana Marins:** Like the proofreader?
+
+**Matthew Panzarino:** It should come after the proofreader, I think.
+
+**Mariana Marins:** Okay.
+
+**Matthew Panzarino:** Because notice that this article is still in this dumb format with only one header, and the proofreader changes almost the entire article.
+
+**Matthew Panzarino:** It's like insane how much it reflows.
+
+**Matthew Panzarino:** So we might want to move this after the proofreader.
+
+**Mariana Marins:** And just since we are going to talk to Kirk tomorrow, we will also need images in this pipeline.
+
+**Mariana Marins:** Oh, right.
+
+**Matthew Panzarino:** It's not there yet.
+
+**Mariana Marins:** And he mentioned that there is a...
+
+**Mariana Marins:** Workflow that sends something somewhere.
+
+**Mariana Marins:** We need that as well.
+
+**Mariana Marins:** I forgot what it is, but yeah.
+
+**Mariana Marins:** And then since we are going to add the image here, we can also talk to Aria to change that thing that we were talking about, how it doesn't give the same images with and without text.
+
+**Matthew Panzarino:** Yeah, sounds good.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** So tweak and then add to this pipeline.
+
+**Matthew Panzarino:** That's totally fine.
+
+**Matthew Panzarino:** The only reason I'm like, maybe we don't add it to the pipeline right away is because is the last verse of pipeline?
+
+**Iana Medvedeva:** Let's be honest.
+
+**Iana Medvedeva:** Yeah, but I think we should.
+
+**Matthew Panzarino:** We should because then we can present them with images and everything.
+
+**Matthew Panzarino:** I just added you to this EPD agents rollout channel, Iana, because I'll need your help with that at some point.
+
+**Matthew Panzarino:** So don't worry about that.
+
+**Matthew Panzarino:** I'm not going to add you right away, Iana.
+
+**Matthew Panzarino:** It's just the project to lose.
+
+**Matthew Panzarino:** We're rolling out agentic pipelines, but MA at some point, it just depends.
+
+**Matthew Panzarino:** We're doing Biologica, Udemy, AIMBIT, and Deepgram first.
+
+**Matthew Panzarino:** So they're not really clients in your wheelhouse or in your world yet, but at some point...
+
+**Matthew Panzarino:** Do you know how AIMBIT is going?
+
+**Mariana Marins:** Is it well?
+
+**Mariana Marins:** Like, are they happy?
+
+**Mariana Marins:** Because that was the first one we tried to change some of the things, right?
+
+**Matthew Panzarino:** Look, look, look, I think our artifacts definitely improved matters significantly because they were really poor.
+
+**Matthew Panzarino:** to begin with, but they needed something like the knowledge base.
+
+**Matthew Panzarino:** I literally...
+
+**Matthew Panzarino:** The knowledge base product that we have now exists because we filed a damn ticket that said, hey, we really need to...
+
+**Matthew Panzarino:** Remember?
+
+**Matthew Panzarino:** Like, we were telling them, hey, we need to reference a knowledge base.
+
+**Matthew Panzarino:** Like, they have internal documentation that has significantly different definitions of publicly available terms.
+
+**Matthew Panzarino:** We need a knowledge base to say, please validate against targeted research from the knowledge base, right?
+
+**Mariana Marins:** So this pretty much exists because of that work.
+
+**Matthew Panzarino:** Are they happy?
+
+**Matthew Panzarino:** I don't know.
+
+**Matthew Panzarino:** Sort of.
+
+**Matthew Panzarino:** Like, they're happier, but he's just super picky, right?
+
+**Matthew Panzarino:** It's that guy that starts with A, right?
+
+**Matthew Panzarino:** Yes.
+
+**Mariana Marins:** Yeah, he's super picky.
+
+**Mariana Marins:** I still get their notifications.
+
+**Mariana Marins:** Aperva, yes.
+
+**Mariana Marins:** He is super picky.
+
+**Mariana Marins:** True.
+
+**Matthew Panzarino:** Anyhow, so yeah, they're managing.
+
+**Matthew Panzarino:** They're struggling through, for now, manually, a lot of manual edits.
+
+**Matthew Panzarino:** But, okay, so annotate medical claims, I think, should, two things.
+
+**Matthew Panzarino:** One, I think it should come later.
+
+**Matthew Panzarino:** The second thing is, I mean, it's not bad that it comes here necessarily, but it could, you know, we could miss some stuff in a reflow, a significant reflow.
+
+**Mariana Marins:** Yeah, and sometimes, like in the previous pipeline, the editorial, it would remove the MD, like, altogether, because there was a step after, so yeah.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** The second thing that it does is it annotates biologica claims, which we need
+
+**Matthew Panzarino:** So figure out how to prompt in not to annotate biological claims.
+
+**Matthew Panzarino:** Now, I don't see it actually doing that here.
+
+**Matthew Panzarino:** And this is what I was talking about, because I think what happens is during the reflow, it reflows a sentence that already...
+
+**Mariana Marins:** But I have already seen it.
+
+**Mariana Marins:** Oh, no, it's here.
+
+**Mariana Marins:** Yes, penultimate paragraph.
+
+**Matthew Panzarino:** Yeah, it is here.
+
+**Matthew Panzarino:** As I was saying that, I just found it.
+
+**Matthew Panzarino:** But yeah, so like this, right?
+
+**Matthew Panzarino:** That doesn't need an empty tag.
+
+**Matthew Panzarino:** We know this to be a fax.
+
+**Matthew Panzarino:** It's about their product.
+
+**Matthew Panzarino:** It has this  in it.
+
+**Matthew Panzarino:** Like, don't...
+
+**Matthew Panzarino:** You know what I mean?
+
+**Matthew Panzarino:** But I don't...
+
+**Matthew Panzarino:** At the same time, it's like...
+
+**Matthew Panzarino:** Yeah, I don't know.
+
+**Matthew Panzarino:** Maybe we can just write an instruction in this step, in the annotate medical claim step.
+
+**Matthew Panzarino:** I hate having to like bounce back and forth.
+
+**Mariana Marins:** Ah, yes.
+
+**Mariana Marins:** I wish we could have like...
+
+**Mariana Marins:** It would open when we click something.
+
+**Mariana Marins:** It would open on a second tab and not the same one.
+
+**Mariana Marins:** It would help me a lot.
+
+**Matthew Panzarino:** Okay, annotate medical claims.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** Your only task is to blah, blah, blah.
+
+**Matthew Panzarino:** Okay, so in my opinion, we just need to add an instruction here that's like also important, don't tag any claims related to Biologica's products, ingredients, or capabilities.
+
+**Matthew Panzarino:** Right?
+
+**Matthew Panzarino:** And then we'll just add that here and see what happens.
+
+**Matthew Panzarino:** Let's do nine.
+
+**Matthew Panzarino:** Do not, I don't know, capitals matter.
+
+**Matthew Panzarino:** I think it's screaming into the void.
+
+**Mariana Marins:** does because there are capitals in this one.
+
+**Matthew Panzarino:** Well, yeah, but do they even know, do they even know or are they also hoping?
+
+**Matthew Panzarino:** We're all human, you know, even engineers.
+
+**Iana Medvedeva:** I think it's like this capital letters and also writing, it's very important.
+
+**Iana Medvedeva:** It's kind of a hope type of thing.
+
+**Matthew Panzarino:** Like maybe it's...
+
+**Matthew Panzarino:** This time it's going to be this, this way it's going to work.
+
+**Matthew Panzarino:** If I scream it, maybe it'll do it this time.
+
+**Matthew Panzarino:** It's like talking Bunch of exclamation marks.
+
+**Iana Medvedeva:** up your toys.
+
+**Matthew Panzarino:** Stop it.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Do not annotate any, I'm just going to do not annotate any claims about Biologica, Biologica.
+
+**Matthew Panzarino:** Products.
+
+**Matthew Panzarino:** Let's see what happens.
+
+**Matthew Panzarino:** Yeah, never know.
+
+**Matthew Panzarino:** Could work.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Do not annotate any claims about Biologica's products or their capabilities.
+
+**Matthew Panzarino:** Once again, talking to Granola.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** The, um, okay.
+
+**Matthew Panzarino:** So anyhow, annotate.
+
+**Matthew Panzarino:** back.
+
+**Matthew Panzarino:** Annotates doesn't do a whole lot other than that.
+
+**Matthew Panzarino:** Add medical source links.
+
+**Matthew Panzarino:** This, by the way, like, I'm glad that this run is here, but it really, there should be a more prominent way to see when something was run from the...
+
+**Iana Medvedeva:** Somewhere in the main page, like, put at least a date and time.
+
+**Mariana Marins:** And, for example, there is one of them, I think it's expert review, doesn't have a summary, and I would really like to have a summary on the thing.
+
+**Matthew Panzarino:** Well, let's, let's do the, I definitely, let's put this in granola too, to file a ticket for the, an atlas improvement for the homepage of a pipeline to add a date and time executed to the first field in a pipeline row.
+
+**Matthew Panzarino:** I think that's the right place for it, don't you guys think?
+
+**Matthew Panzarino:** Or,
+
+**Iana Medvedeva:** At least like a tooltip when you're hovering and it kind of pops up somewhere.
+
+**Iana Medvedeva:** tooltips, just put it there.
+
+**Matthew Panzarino:** It's an executable process.
+
+**Matthew Panzarino:** It needs a date stamp.
+
+**Iana Medvedeva:** You know what I mean?
+
+**Matthew Panzarino:** And sometimes you're writing the same article like one day and then after a few days you're writing again.
+
+**Matthew Panzarino:** That's right.
+
+**Matthew Panzarino:** A lot of stuff can change.
+
+**Matthew Panzarino:** Yeah, and you're trying to find a past run of it or whatever and it's like when did we run this and all of that.
+
+**Matthew Panzarino:** So I think it needs to be there.
+
+**Matthew Panzarino:** Anyhow, we should file that ticket.
+
+**Matthew Panzarino:** Okay, let's see.
+
+**Matthew Panzarino:** Okay, add medical source links.
+
+**Matthew Panzarino:** Let's take a look through here.
+
+**Matthew Panzarino:** We went and looked through positive elements, critical issues, missing citations, fair enough, claims about alcohol affecting menopausal women differently to hormonal changes, research findings about individual responses to alcohol, medical authority recommendations for alcohol, medical clinical evidence about alcohol disrupting sleep architecture, care.
+
+**Matthew Panzarino:** And then claims by nutritional support.
+
+**Matthew Panzarino:** Okay, fair.
+
+**Matthew Panzarino:** It does a lot, right?
+
+**Mariana Marins:** It's not just links.
+
+**Matthew Panzarino:** No, yeah.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** A lot more links in here.
+
+**Mariana Marins:** But I'm very happy that the links are short, the Harper links are short.
+
+**Mariana Marins:** Like, something worked, finally.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Because it was a mess before.
+
+**Matthew Panzarino:** Added.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Fair enough.
+
+**Matthew Panzarino:** But yeah, the links are not weird, you know?
+
+**Matthew Panzarino:** Can I ask a question here while I'm looking at it and thinking about it?
+
+**Iana Medvedeva:** And I think a lot of linking stuff works this way.
+
+**Iana Medvedeva:** Who...
+
+**Iana Medvedeva:** Who...
+
+**Iana Medvedeva:** Looks for these links.
+
+**Iana Medvedeva:** Like which API, which model looks for sources of information?
+
+**Matthew Panzarino:** We can tell.
+
+**Matthew Panzarino:** We can absolutely tell.
+
+**Matthew Panzarino:** Let's go look.
+
+**Matthew Panzarino:** The readme sometimes will just give you the answers.
+
+**Matthew Panzarino:** Okay, LandChain to split, OpenAPI GPT 4.1 to analyze, Perplexity to research each claim against structured sources, so it's Perplexity, and then OpenAI to analyze, and then Anthropics API to rewrite chunks, and then Combination, and then the GINA API to, okay, that's just Extraction, and then UnifiedDiff, and then InLandWork.
+
+**Matthew Panzarino:** So it is Perplexity.
+
+**Iana Medvedeva:** This, again, my question about EXA and Perplexity having different capabilities.
+
+**Iana Medvedeva:** I think maybe from here, my camels is broken links.
+
+**Iana Medvedeva:** For example, that we had in Monograph, 404, Forbidden Pages, so it tries to link something, at least, and it gives some broken links just to link something.
+
+**Iana Medvedeva:** Like, I'm not sure, I'm just guessing here, but it kind of bothers me, if we are using Exa, which digs much deeper, makes a claim.
+
+**Matthew Panzarino:** Yeah, so we'll have to keep an eye on it, because this was Tavoli, you know, and all of these seem to be live, the ones that I checked anyway.
+
+**Matthew Panzarino:** I didn't check every single one, but these all seem to be live and germane.
+
+**Iana Medvedeva:** Yeah, actually, every time when I was checking Biologica, it didn't have any issues, probably because it has various, like, a robust list of sources to check for, and maybe for Monograph, it's not that strict.
+
+**Matthew Panzarino:** Maybe we just need to add some sources, yeah.
+
+**Iana Medvedeva:** Yes, maybe we need to
+
+**Matthew Panzarino:** Yeah, I'm usually going to add some sources to it, yeah, because the instruction set for that step for this Add Medical Sources link, let's take a look at it.
+
+**Matthew Panzarino:** Wow, I'm good.
+
+**Matthew Panzarino:** Stopped right to the right place.
+
+**Matthew Panzarino:** One scroll wheel.
+
+**Matthew Panzarino:** Why is this commented out?
+
+**Matthew Panzarino:** I don't know.
+
+**Matthew Panzarino:** You got me.
+
+**Matthew Panzarino:** That's the proofreader checklist.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** It's this one here.
+
+**Iana Medvedeva:** Yes, AddSource links.
+
+**Iana Medvedeva:** It uses the same postprocessor, though.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Yeah, here, see, like this?
+
+**Iana Medvedeva:** It's not.
+
+**Matthew Panzarino:** Extensive, I think it gives it, oh, and then look, see, even though it's, these are saying replace these, this is still in its mind, inspo, you know, for like what it's grabbing.
+
+**Matthew Panzarino:** So I would say you could just grab this and then like fill in the blanks, right?
+
+**Matthew Panzarino:** Here's acceptable sources, right?
+
+**Matthew Panzarino:** Like fill in the blanks with stuff from Monograph, do a little perplexity mumbo jumbo to figure out what would be good sources, and then we can do that.
+
+**Matthew Panzarino:** So that might help.
+
+**Matthew Panzarino:** But admittedly, I haven't run this yet with EXA.
+
+**Matthew Panzarino:** So we'll see if it goes haywire, I'll just change it back.
+
+**Matthew Panzarino:** I'll change it back to tably.
+
+**Matthew Panzarino:** It's too many variables, you know what I mean?
+
+**Matthew Panzarino:** But let's see what happens there.
+
+**Matthew Panzarino:** Because honestly, like, I actually don't think the depth of research is really a huge problem for us, at least not with these alcohol and calcium articles.
+
+**Matthew Panzarino:** It's not enough.
+
+**Matthew Panzarino:** You know, like we're not writing scientific publications, we want them to be factually accurate.
+
+**Matthew Panzarino:** But these are mostly fairly well studied things.
+
+**Matthew Panzarino:** You know, there's like a lot of information about calcium on the web.
+
+**Matthew Panzarino:** So anyhow, long story short, let's let's you can try maybe copying this and seeing what happens or messing around with the format that's very similar to this.
+
+**Matthew Panzarino:** Okay, back to our pipeline.
+
+**Matthew Panzarino:** Back to my problem, which is worse than your problem.
+
+**Matthew Panzarino:** No, I'm kidding.
+
+**Matthew Panzarino:** It's more important.
+
+**Matthew Panzarino:** The proofreader checklist is next.
+
+**Matthew Panzarino:** Okay, now this does all kinds of stuff.
+
+**Matthew Panzarino:** Look at all this.
+
+**Matthew Panzarino:** This is, look at all this stuff.
+
+**Matthew Panzarino:** It did.
+
+**Matthew Panzarino:** Look at all this stuff.
+
+**Matthew Panzarino:** So many beautiful things.
+
+**Mariana Marins:** One sentence paragraphs.
+
+**Mariana Marins:** It's like, oh my God.
+
+**Iana Medvedeva:** I was telling you, it does.
+
+**Iana Medvedeva:** Cloud does this.
+
+**Iana Medvedeva:** I don't know why, but sometimes it just was the first time we tested a bunch of agentic pipelines and they didn't do this.
+
+**Matthew Panzarino:** But I'm telling you, sometimes I just have a mood for it.
+
+**Mariana Marins:** Today I'm going to create this type of thing.
+
+**Matthew Panzarino:** The single sentence paragraphs obviously are kind of...
+
+**Matthew Panzarino:** You know, that's terrible.
+
+**Matthew Panzarino:** But I also think it's kind of a reflex of us telling it that we want direct declarative sentences.
+
+**Matthew Panzarino:** Yeah, it may be.
+
+**Matthew Panzarino:** It may be.
+
+**Matthew Panzarino:** And it's maybe like I have to go in because I tweaked that language and then it gave us this.
+
+**Matthew Panzarino:** So maybe I need to look at the language.
+
+**Matthew Panzarino:** So we'll look at it in just a second.
+
+**Matthew Panzarino:** But I want to point out a couple of things here that I saw.
+
+**Matthew Panzarino:** It stripped the links from this.
+
+**Matthew Panzarino:** Mm-hmm.
+
+**Mariana Marins:** So that I really do feel...
+
+**Mariana Marins:** the bullet link, the bullet points as well.
+
+**Mariana Marins:** Yeah, and the bullet points too.
+
+**Matthew Panzarino:** think that's one of those like ghost in the machine things.
+
+**Matthew Panzarino:** But it stripped the links from this.
+
+**Mariana Marins:** But it's terrible because it like we spent five minutes running the links and now we don't have any links anymore.
+
+**Matthew Panzarino:** Yes, because like this four minute 50 second link thing turned out these great links, which are all authoritative.
+
+**Matthew Panzarino:** They are formatted correctly.
+
+**Matthew Panzarino:** And now these are supported facts, right?
+
+**Matthew Panzarino:** And then it's like...
+
+**Matthew Panzarino:** Like, no, no.
+
+**Iana Medvedeva:** No, that looks ugly.
+
+**Matthew Panzarino:** That's bad, right?
+
+**Matthew Panzarino:** The headers are good.
+
+**Matthew Panzarino:** Okay, now we have structure in the article.
+
+**Matthew Panzarino:** That part of it's good.
+
+**Matthew Panzarino:** The...
+
+**Mariana Marins:** Can you research and see if the menopause society is still being mentioned?
+
+**Mariana Marins:** Because that's something it should have caught.
+
+**Mariana Marins:** The North American menopause society.
+
+**Mariana Marins:** No.
+
+**Mariana Marins:** Okay, so that's good.
+
+**Mariana Marins:** At least that.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** Together it was links.
+
+**Iana Medvedeva:** Yes, exactly.
+
+**Mariana Marins:** It took too much.
+
+**Mariana Marins:** All right, let's look at what it did.
+
+**Matthew Panzarino:** Let's see what it did.
+
+**Matthew Panzarino:** I'm just curious on what step it decided.
+
+**Iana Medvedeva:** It's probably hyperlinks bug.
+
+**Iana Medvedeva:** Like, when it tried to make hyperlinks over right length and decided that...
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** I know.
+
+**Matthew Panzarino:** Because they weren't the correct length already.
+
+**Matthew Panzarino:** And then it panicked.
+
+**Mariana Marins:** It could be.
+
+**Matthew Panzarino:** It could be.
+
+**Matthew Panzarino:** Let's look.
+
+**Matthew Panzarino:** I mean, that's why I think it's important to do these kinds of, you know, examinations because you see where stuff actually went south.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Past.
+
+**Matthew Panzarino:** Reason.
+
+**Matthew Panzarino:** Failed.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Sentence structure and flow failed.
+
+**Matthew Panzarino:** Yeah, it should fail.
+
+**Matthew Panzarino:** With multiple clauses that exceed recommended length.
+
+**Matthew Panzarino:** True.
+
+**Matthew Panzarino:** include complex sentences and key takeaways and throughout body paragraphs.
+
+**Matthew Panzarino:** True.
+
+**Matthew Panzarino:** Conclusion lacks the required four part framework structure.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** I believe you, I guess.
+
+**Matthew Panzarino:** Suggested fix.
+
+**Matthew Panzarino:** Break these sentences and shorter declarative statements.
+
+**Matthew Panzarino:** Won't change that in, you know, it should become research demonstrates differently.
+
+**Matthew Panzarino:** Yes.
+
+**Mariana Marins:** But that sentence wasn't that bad.
+
+**Mariana Marins:** There were, like in the past, there were sentences that were much worse than this.
+
+**Matthew Panzarino:** Yeah, yeah, exactly.
+
+**Matthew Panzarino:** I think this is just one of, this is, remember it says pull an example, so this is not like everything, but.
+
+**Matthew Panzarino:** Topic repetition check passed, okay, each major topic appears only once in dedicated sections, no significant overlap detected between sections, okay.
+
+**Matthew Panzarino:** Several hyperlinks exceeded, okay, this is funny because reduced critical evidence shows.
+
+**Iana Medvedeva:** I don't know how to fix it, because the issue is not even the fact that it tries to make it short to two words every time, that it can't count words.
+
+**Matthew Panzarino:** Yeah, exactly.
+
+**Matthew Panzarino:** That's all.
+
+**Matthew Panzarino:** It says, oh, it exceeds the three word maximum, no it doesn't.
+
+**Matthew Panzarino:** Clinical evidence shows it's not four words.
+
+**Mariana Marins:** It's so funny.
+
+**Matthew Panzarino:** Maybe we just removed this step from the proofreader, since it's doing a good job before.
+
+**Matthew Panzarino:** Yeah, like it went into this step with that, all of.
+
+**Mariana Marins:** So whatever instruction we gave it before is working.
+
+**Matthew Panzarino:** So maybe it doesn't need to happen at this stage.
+
+**Matthew Panzarino:** But for other pipelines, it may.
+
+**Matthew Panzarino:** Like for Iana, like she doesn't have a lot of the other previous stuff.
+
+**Matthew Panzarino:** So this may have to do that job.
+
+**Matthew Panzarino:** Is it like a hugely critical error?
+
+**Matthew Panzarino:** Probably not.
+
+**Matthew Panzarino:** But, and you've played, I think, Iana, with saying forward, right?
+
+**Iana Medvedeva:** And seeing what it does.
+
+**Iana Medvedeva:** Just up to four words.
+
+**Matthew Panzarino:** Don't do two to four because it's always leaning to make it two.
+
+**Mariana Marins:** Yeah.
+
+**Mariana Marins:** it wants to do something.
+
+**Iana Medvedeva:** The editorial was doing this.
+
+**Matthew Panzarino:** It's like a workaholic mindset.
+
+**Iana Medvedeva:** It keeps like, if I can do better, I will try to better.
+
+**Iana Medvedeva:** And it tries to make two words and keeps looping.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** So yeah, like, like, let's, let's see what removing this does in our next run of the pipeline.
+
+**Matthew Panzarino:** And see if it causes any issues.
+
+**Matthew Panzarino:** Because I, I don't think, I think it honestly was like, it found stuff that did not.
+
+**Matthew Panzarino:** They didn't find anything here.
+
+**Matthew Panzarino:** It was all fine before.
+
+**Matthew Panzarino:** So at least in Biological SpyPoint.
+
+**Matthew Panzarino:** Let's see.
+
+**Matthew Panzarino:** Pass, text structure, and readability.
+
+**Matthew Panzarino:** Now, okay, here's one thing I noticed.
+
+**Matthew Panzarino:** I think it mentions it elsewhere as well.
+
+**Matthew Panzarino:** It treats the key takeaway section as a bullet.
+
+**Matthew Panzarino:** And that is like meets its minimum requirements of one.
+
+**Matthew Panzarino:** So I think we need to adjust the semantics there of that prompt, of that post-processing instruction.
+
+**Matthew Panzarino:** Like, let's look at it, what it does.
+
+**Iana Medvedeva:** Like, not counting key takeaways.
+
+**Matthew Panzarino:** Can I share?
+
+**Matthew Panzarino:** I don't think I could share two windows at once.
+
+**Matthew Panzarino:** I wish I knew.
+
+**Matthew Panzarino:** Which Zoom was a good piece of software, but it's not.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Oh, I need to, hold on.
+
+**Matthew Panzarino:** I don't even have it open.
+
+**Matthew Panzarino:** Desktop.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** So the proofreader checklist here.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** So we're Medvedeva, create this, and then text structure and readability, identify large text sections, convert appropriate content to bullet points, maximum one bullet group per section.
+
+**Matthew Panzarino:** And I don't think it likes that.
+
+**Matthew Panzarino:** But there were no bullet points whatsoever there.
+
+**Matthew Panzarino:** No.
+
+**Matthew Panzarino:** And then I put a section.
+
+**Matthew Panzarino:** Because there was no sections?
+
+**Matthew Panzarino:** Yeah, but when it created the sections, it didn't create the bullet points as well.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Maybe it like, yeah, I don't know.
+
+**Matthew Panzarino:** It's hard to say because the sections are also so sparse.
+
+**Matthew Panzarino:** They're like one sentence, two sentences.
+
+**Mariana Marins:** So then it's like, yeah, there's no way to put a bullet point there.
+
+**Matthew Panzarino:** Okay.
+
+**Iana Medvedeva:** There is a thing that I'm trying and I'm testing, like exactly right now, I'm running a pipeline back and forth.
+
+**Iana Medvedeva:** I am trying to put it, these instructions, how a first sentence is check article structure and see if there is from three to five bullet lists.
+
+**Matthew Panzarino:** If there is less, then do this.
+
+**Matthew Panzarino:** I see.
+
+**Iana Medvedeva:** So it first tries to do some check, see if it's too much or not enough, then it only performs this.
+
+**Iana Medvedeva:** It doesn't work all the time, but I think I'm limiting number of bullet lists in Monaco.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** I honestly don't think Biologic is very bullet point happy anyway.
+
+**Matthew Panzarino:** Like they have never really said to me, I wish we had more bullet points in here.
+
+**Matthew Panzarino:** Like we may just want to delete this as well for now.
+
+**Matthew Panzarino:** And, like, see what we end up with.
+
+**Mariana Marins:** Yeah.
+
+**Matthew Panzarino:** Because it's not really all that necessary.
+
+**Matthew Panzarino:** before, when the articles were very long, it made sense.
+
+**Mariana Marins:** But now that they are going to be shorter, maybe we don't need the bullet points anymore.
+
+**Matthew Panzarino:** I wonder, though, like, this is the only thing in here that mentions sections.
+
+**Matthew Panzarino:** So, like, what else in here would have suddenly created four headers?
+
+**Matthew Panzarino:** You know what I mean?
+
+**Matthew Panzarino:** Like, well, actually, we could tell.
+
+**Matthew Panzarino:** Let's go look at it, right?
+
+**Matthew Panzarino:** So, anyhow, let me, I just wanted to, for sure, did it.
+
+**Iana Medvedeva:** Yeah, something did it.
+
+**Matthew Panzarino:** Some ghost of the machine did it here.
+
+**Matthew Panzarino:** Okay, so, evaluate content, article has appropriate visual breaks, okay.
+
+**Matthew Panzarino:** Actually, let's just look at these, right?
+
+**Matthew Panzarino:** Because this shows us what it actually did.
+
+**Matthew Panzarino:** This is still just the two-header structure, right?
+
+**Matthew Panzarino:** Or the one-header structure, really.
+
+**Matthew Panzarino:** Fix two critical issues, sentence structure and flow.
+
+**Matthew Panzarino:** Okay, fair enough.
+
+**Matthew Panzarino:** Like, did it do it?
+
+**Matthew Panzarino:** There's one comma.
+
+**Matthew Panzarino:** There's two commas.
+
+**Matthew Panzarino:** Is this the new one?
+
+**Matthew Panzarino:** Yeah, I think this is the output, right?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** So it missed that one.
+
+**Matthew Panzarino:** Most of them seem fine, though.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Hyperlink.
+
+**Matthew Panzarino:** Yeah, okay.
+
+**Matthew Panzarino:** Lies.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** That's all that did.
+
+**Matthew Panzarino:** Then it did another one.
+
+**Matthew Panzarino:** Fixed.
+
+**Matthew Panzarino:** Let's change resources.
+
+**Matthew Panzarino:** Okay, so this.
+
+**Matthew Panzarino:** hyperlink until they don't exist anymore.
+
+**Matthew Panzarino:** Exactly.
+
+**Matthew Panzarino:** It screwed this up.
+
+**Matthew Panzarino:** It's like, okay, so.
+
+**Matthew Panzarino:** Now, this is interesting.
+
+**Matthew Panzarino:** Also, it's doing a lot of passes, right?
+
+**Mariana Marins:** Maybe if it did less, it wouldn't try to find things where they don't exist.
+
+**Matthew Panzarino:** Maybe.
+
+**Matthew Panzarino:** Maybe.
+
+**Matthew Panzarino:** This is why I'm trying to make a proofreader with this.
+
+**Iana Medvedeva:** Let's see.
+
+**Iana Medvedeva:** Simple checks and rules, so it doesn't run, doesn't do this additional runs just because it feels this way.
+
+**Mariana Marins:** There is no way for us to put a cap on this, because I remember one of the steps had, no, but one of the steps was like maximum iterations three.
+
+**Iana Medvedeva:** Yes, and this one, maximum iterations 10, I'm not sure.
+
+**Mariana Marins:** too much, I guess.
+
+**Iana Medvedeva:** I'm not sure if it's changing in a pipeline or somewhere else, but for sure, maximum number of iterations somewhere I saw it, and it's 10 for post-processing workflow.
+
+**Mariana Marins:** Yeah, but like if we can't wire that in like the maximum, removing some of the steps from the proofreader would already seal the deal.
+
+**Mariana Marins:** Not seal the deal, but help a little.
+
+**Mariana Marins:** Because nothing seals the deals with AI.
+
+**Matthew Panzarino:** I need to look at something here.
+
+**Matthew Panzarino:** I was just going to look at this.
+
+**Mariana Marins:** Yeah.
+
+**Matthew Panzarino:** I don't think that.
+
+**Matthew Panzarino:** I don't know.
+
+**Matthew Panzarino:** Hopefully I didn't annoy anybody there.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** La, la, la, la, la.
+
+**Matthew Panzarino:** What were we talking about?
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** What is this doing?
+
+**Matthew Panzarino:** What did it do?
+
+**Matthew Panzarino:** Sorry, I've lost the tab.
+
+**Matthew Panzarino:** Let's reopen it.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Uh, so I don't know what the hell it was doing here, but I think we could just eliminate this step and then that wouldn't happen because it didn't really do anything important.
+
+**Matthew Panzarino:** And in fact, did this whole like weird bracket  throughout the whole thing.
+
+**Matthew Panzarino:** I really don't know what occurred there.
+
+**Matthew Panzarino:** look at the proofreader one more time?
+
+**Mariana Marins:** The steps of the proofreaders?
+
+**Mariana Marins:** Yeah.
+
+**Mariana Marins:** Because, um, I, it's, it's strange that, and I would like to see how many we have there because it seems that.
+
+**Mariana Marins:** The workflow, the step, not the artifact, is focusing majorly in structure and not in like tone and things like that, you know, it seems like it got to itself like my job is to fix the structure and it only cares about the structure.
+
+**Mariana Marins:** And that also goes for how long the sentences are and stuff.
+
+**Mariana Marins:** And then I just wonder if it is thinking like this, I want to fix the structure, or if we have more steps about the structure and the artifact.
+
+**Mariana Marins:** And I think it is this, right?
+
+**Mariana Marins:** Because the ones that talk about language are 8 and 10, I guess.
+
+**Mariana Marins:** There is a question.
+
+**Iana Medvedeva:** Each rule in the workflow has a priority, some critical, high, medium, low.
+
+**Iana Medvedeva:** But I'm not sure where are assigned those priorities.
+
+**Mariana Marins:** Is it a...
+
+**Mariana Marins:** Workforce structure assigns these priorities?
+
+**Iana Medvedeva:** Who gives this?
+
+**Iana Medvedeva:** What is critical?
+
+**Matthew Panzarino:** don't know.
+
+**Matthew Panzarino:** Yeah, I don't know.
+
+**Matthew Panzarino:** This, one thing is, I don't think it needs this, because I think there's a system prompt.
+
+**Matthew Panzarino:** I had created this from a prompt perspective, like, you know, because I didn't know how this was going to be executed.
+
+**Matthew Panzarino:** If this was going to be in the YAML, then it needed this, you know, but I don't think it needs this, first of all.
+
+**Matthew Panzarino:** So, let's do that, just in case that causes any oddities.
+
+**Matthew Panzarino:** So, number four goes away.
+
+**Matthew Panzarino:** It says you're an editor, you know what I mean?
+
+**Matthew Panzarino:** So, like, I don't want it to, like, get all excited.
+
+**Mariana Marins:** So, okay, so let's delete hyperlinks.
+
+**Matthew Panzarino:** What's the other one that we...
+
+**Iana Medvedeva:** Bullet lists.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** What's the that we're we're you.
+
+**Mariana Marins:** I wonder if we still need, yeah, well, I just, I have just seen one article, but that article didn't have acronyms, but yeah, let's leave acronyms there, just in case.
+
+**Mariana Marins:** This one seems to be working as roughly intended.
+
+**Mariana Marins:** Yeah, the acronym, it screwed up one of the acronyms, we'll go back and look at it in a second, I'll show you.
+
+**Mariana Marins:** Oh, I didn't pay attention.
+
+**Matthew Panzarino:** Yeah, well, it's, it's because it was like HOBA, and it's like, oh, you have to use like the Latin term for HOBA first.
+
+**Matthew Panzarino:** that HOBA was an acronym.
+
+**Mariana Marins:** Yeah.
+
+**Matthew Panzarino:** Let's see, replace all definitive health claims, that's fine.
+
+**Matthew Panzarino:** Yep.
+
+**Matthew Panzarino:** Yep.
+
+**Matthew Panzarino:** Okay, that's just the anti-negative simple supplement clause.
+
+**Matthew Panzarino:** That's the bottom there.
+
+**Matthew Panzarino:** Okay, so let's hold.
+
+**Matthew Panzarino:** Hold on.
+
+**Matthew Panzarino:** Let's finish our audit here.
+
+**Matthew Panzarino:** So, this step screwed up all the links.
+
+**Matthew Panzarino:** So that's now gone.
+
+**Iana Medvedeva:** We deleted that step.
+
+**Matthew Panzarino:** Apply these changes.
+
+**Matthew Panzarino:** Improve sentence structure and flow.
+
+**Matthew Panzarino:** Compound sentences.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Improve.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Apply comprehensive fixes.
+
+**Matthew Panzarino:** Simplified complex structure.
+
+**Matthew Panzarino:** So it did it even more.
+
+**Matthew Panzarino:** Still the same few sections.
+
+**Matthew Panzarino:** Like it's, it's focusing always on the structure basically.
+
+**Matthew Panzarino:** Well, no, it's going to, it's going to try to run all of, it's going to try to run all of them every time.
+
+**Matthew Panzarino:** It's just, if it doesn't find those other ones, then it won't do them, you know?
+
+**Matthew Panzarino:** So if you, if you look at like the workflow run itself, the way that it works, it just like works through each of them, you know, in a, in a sequence.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** So it goes, here's the, here's task.
+
+**Matthew Panzarino:** Like here's the actual instructions.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** Um, and then it'll run through all of these in a row and then try to apply them.
+
+**Matthew Panzarino:** And then if it does, if it doesn't reach it.
+
+**Matthew Panzarino:** It will run all of them again.
+
+**Matthew Panzarino:** That's why it keeps doing it over and over like this.
+
+**Matthew Panzarino:** But you see it's sequential.
+
+**Matthew Panzarino:** So it'll run it and then it'll say, oh, is it all over 90?
+
+**Matthew Panzarino:** Then if not, or all over 85?
+
+**Matthew Panzarino:** If not, then run them all again.
+
+**Matthew Panzarino:** Run them all again.
+
+**Matthew Panzarino:** So that's why you're going to see continuous references to things like simplified content structures.
+
+**Matthew Panzarino:** But does that lead to oversimplification?
+
+**Matthew Panzarino:** You know what mean?
+
+**Matthew Panzarino:** That's a valid question.
+
+**Mariana Marins:** Like, does it simplify and we are seeing now paragraphs that are one sentence.
+
+**Mariana Marins:** Like it makes sense because in case some steps can introduce something that breaks some other rules, but at the same time...
+
+**Matthew Panzarino:** to revalidate.
+
+**Iana Medvedeva:** Yes, but at the same time, a lot of rules are formulated in a way that it keeps rewriting them.
+
+**Iana Medvedeva:** Like, on one run it passes, on the other run it doesn't pass.
+
+**Iana Medvedeva:** It didn't, nothing changed since then in this part, in this department, everything is still the same, but this time it evaluated differently because there is no quantified measurement for it, it's just more of a vibe type of stuff.
+
+**Iana Medvedeva:** Like, for example, with CTA, in fact, in a monograph, it keeps rewriting it because it compares with examples, and in one run it says, yes, it looks like examples, and in the other run it says, oh, you know, it doesn't look like examples, I'm going to rewrite it.
+
+**Matthew Panzarino:** Oh, gotcha.
+
+**Iana Medvedeva:** And it keeps, because every time it evaluates differently, and if one rule always triggers, like, for example, this hyperlink rule, usually triggers a cycle again and again because it keeps shortening, then it's going to trigger other rules to check, and some of them are shaky.
+
+**Iana Medvedeva:** Yeah, and you end up in a cascade, yeah.
+
+**Iana Medvedeva:** Yes.
+
+**Matthew Panzarino:** Okay, yeah.
+
+**Matthew Panzarino:** That's, let's keep an eye on it from like a simplification perspective.
+
+**Matthew Panzarino:** We probably just need to like really get super precise on their rules and maybe even build some escape hatches in to that, that prompting flow and say like, you know, if you've done this step, don't do it again.
+
+**Matthew Panzarino:** That may be more of a task for engineering to say like, hey, if you pass, if you validate a certain one, it should be like really low until you revalidate it.
+
+**Matthew Panzarino:** You know what I mean?
+
+**Matthew Panzarino:** Like if you really break something performing another function, like if you break step one's, if step one does something and then you run step two and it breaks step one's stuff by a lot, then rerun step one.
+
+**Matthew Panzarino:** But if it only changes it like 20%, then just ignore it.
+
+**Matthew Panzarino:** Let it pass, you know, right, right.
+
+**Matthew Panzarino:** Anyhow.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** So like this, this is the one I was thinking of actually.
+
+**Matthew Panzarino:** So added proper acronym format for GABA as gamma aminotritic acid GABA on first dimension.
+
+**Matthew Panzarino:** This is technically accurate.
+
+**Matthew Panzarino:** I just don't know whether they want that, you know, whether they'll want that clinical name for GABA in here.
+
+**Matthew Panzarino:** See right here?
+
+**Matthew Panzarino:** So maybe, like, this is technically accurate.
+
+**Matthew Panzarino:** what we asked it to do.
+
+**Matthew Panzarino:** I think that's just like a feedback from Biologica.
+
+**Matthew Panzarino:** So I'd say that's successful and leave it alone for now.
+
+**Matthew Panzarino:** And then aligned product descriptions with marketing language may help us maintain.
+
+**Matthew Panzarino:** Good.
+
+**Matthew Panzarino:** I'm glad it did that.
+
+**Matthew Panzarino:** We asked it to do it.
+
+**Matthew Panzarino:** But right now, so far, we have no major structural changes besides the screwing up the links.
+
+**Matthew Panzarino:** So then next step, very minor.
+
+**Matthew Panzarino:** Oh, look, it capitalized all of the links.
+
+**Matthew Panzarino:** This is so stupid.
+
+**Matthew Panzarino:** Like, what is it doing?
+
+**Matthew Panzarino:** I just think that link step needed to go big time.
+
+**Matthew Panzarino:** Removed unsupported liver health claims and adjusted product position.
+
+**Matthew Panzarino:** And to match approved claims from knowledge base, ensuring all ingredient benefits with substantiated research.
+
+**Matthew Panzarino:** That's what the ingredient checker does, right?
+
+**Matthew Panzarino:** See, it's reduced, it continues to, well, it definitely simplified this sentence again.
+
+**Matthew Panzarino:** Unnecessarily, I think.
+
+**Iana Medvedeva:** But to do something, because we are doing, we are here, we are running the steps, why not to do something?
+
+**Iana Medvedeva:** Okay, now one more.
+
+**Matthew Panzarino:** Oh!
+
+**Matthew Panzarino:** Okay, and it did everything, it did all the things.
+
+**Mariana Marins:** It's like, it's so sudden, right?
+
+**Mariana Marins:** Like, okay, now I'm going to change everything.
+
+**Matthew Panzarino:** And, you know, the reason that these are so short is because it basically took this and then stretched it out like elastic over the whole article.
+
+**Matthew Panzarino:** You know, it added these headers and then basically made these their own paragraphs, but then didn't flesh each one out in each section.
+
+**Matthew Panzarino:** I'm going to
+
+**Matthew Panzarino:** So like, as an example, if you look at, okay, your body processes alcohol differently in menopause, right?
+
+**Matthew Panzarino:** This changes the current in transition, transition, I know the phrasing is slightly different, but it's roughly the same.
+
+**Matthew Panzarino:** And then research suggests that alcohol consumption, okay, yeah, that's fine.
+
+**Matthew Panzarino:** Positive association, your body is working to regulate hormones, your body is working to regulate hormones in this transition.
+
+**Matthew Panzarino:** Additionally, studies indicate blah, blah, indicate, okay, yeah.
+
+**Matthew Panzarino:** So that's that.
+
+**Matthew Panzarino:** Then it basically puts a header here after each section and then makes each of these sentences its own paragraph.
+
+**Matthew Panzarino:** Roughly.
+
+**Matthew Panzarino:** I know it's two sentences, but, and then it does the same thing for each of those, each of these paragraphs.
+
+**Iana Medvedeva:** Just split paragraphs in, you know, three tiny little paragraphs.
+
+**Iana Medvedeva:** Yeah, yeah, and like, why the, like, you know what I mean?
+
+**Matthew Panzarino:** Like, the problem is, is that we don't know.
+
+**Matthew Panzarino:** don't We
+
+**Matthew Panzarino:** trying to think of there's a way for us to see how it's interpreting it at a logical level, but applied.
+
+**Iana Medvedeva:** Improve readability by breaking up dense text blocks without compromising informational density, as the article already had appropriate section headers.
+
+**Mariana Marins:** And it wasn't dense.
+
+**Mariana Marins:** It was.
+
+**Iana Medvedeva:** Again, their concept of dense is different from ours.
+
+**Mariana Marins:** It's just like their concept of time is different from ours.
+
+**Matthew Panzarino:** This is technically, these are technically two dense sections.
+
+**Matthew Panzarino:** By dense, it means nothing to break them But because it's like there aren't sections, actually.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** But that's what it's saying is like, hey, I took care of this for you.
+
+**Matthew Panzarino:** Look, this is a block of text.
+
+**Matthew Panzarino:** I fixed it.
+
+**Matthew Panzarino:** No, it just fixed it in really  way.
+
+**Mariana Marins:** We needed to test that if we had headers before, if it would still break.
+
+**Matthew Panzarino:** What's weird is I don't know why it doesn't.
+
+**Matthew Panzarino:** Like, I don't know why it generated without headers.
+
+**Matthew Panzarino:** You know what I mean?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Like, that's the only thing.
+
+**Matthew Panzarino:** I don't even think that's in the writing guidelines necessarily because I've never had to even think about it.
+
+**Mariana Marins:** Exactly.
+
+**Mariana Marins:** Yes.
+
+**Mariana Marins:** It always did.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Well, we deleted that instruction anyway, right?
+
+**Matthew Panzarino:** The bullet points section because that's what caused this.
+
+**Matthew Panzarino:** So, all right.
+
+**Matthew Panzarino:** There is actually two words that are breaking proofreader.
+
+**Iana Medvedeva:** need to keep in mind because I'm also doing it.
+
+**Iana Medvedeva:** Natural.
+
+**Iana Medvedeva:** When we say we want a natural biological mentions, it keeps evaluating what is natural.
+
+**Iana Medvedeva:** And it can be, like, I always see in the report, it can be more natural.
+
+**Iana Medvedeva:** And it keeps it right.
+
+**Iana Medvedeva:** It can be even more.
+
+**Iana Medvedeva:** It mentions, but it can be more natural.
+
+**Mariana Marins:** How we, like, a case study.
+
+**Iana Medvedeva:** I the word dance is probably the same.
+
+**Iana Medvedeva:** Yes.
+
+**Iana Medvedeva:** Dance is the same.
+
+**Iana Medvedeva:** It doesn't know what is dense.
+
+**Iana Medvedeva:** It needs some kind of a maybe number, maybe something more quantified thing.
+
+**Mariana Marins:** But again, it's bad with numbers as well, so don't know.
+
+**Matthew Panzarino:** Here's the article structure requirements, right?
+
+**Matthew Panzarino:** And so I think that the problem is here.
+
+**Mariana Marins:** I think the problem is here.
+
+**Matthew Panzarino:** I think I screwed up by basically sections.
+
+**Matthew Panzarino:** Break down the key takeaways.
+
+**Matthew Panzarino:** No, actually I can't.
+
+**Matthew Panzarino:** Produce sections of three to four paragraphs that support each bullet point.
+
+**Matthew Panzarino:** Each bullet point in the...
+
+**Mariana Marins:** ...
+
+**Mariana Marins:** ...
+
+**Mariana Marins:** ...
+
+**Mariana Marins:** ...
+
+**Matthew Panzarino:** Key takeaways, no?
+
+**Matthew Panzarino:** Yep.
+
+**Matthew Panzarino:** Because otherwise it won't go where.
+
+**Iana Medvedeva:** It's not going to inflate.
+
+**Iana Medvedeva:** How many key takeaways are there usually?
+
+**Iana Medvedeva:** And it's three, four paragraphs for each takeaway.
+
+**Mariana Marins:** We haven't put this, but in my analysis, it found between four to six in the articles that they liked.
+
+**Matthew Panzarino:** It may be like this should happen instead.
+
+**Matthew Panzarino:** Intro section, supporting sections.
+
+**Matthew Panzarino:** Reduce.
+
+**Matthew Panzarino:** Three to two to three.
+
+**Matthew Panzarino:** I'm to imagine how much this is of two to three paragraphs.,200 words.
+
+**Matthew Panzarino:** 1,200 divided.
+
+**Matthew Panzarino:** By 12, it's about 100 words per section, I mean, per paragraph.
+
+**Matthew Panzarino:** Well, three sections, three paragraphs each is nine, plus an intro and a conclusion, right?
+
+**Matthew Panzarino:** So let's call it 12 to round it out.
+
+**Matthew Panzarino:** So you take 1,200 words maximum, divided by 12, that means 100 words per paragraph.
+
+**Matthew Panzarino:** I think that's probably about right, you think?
+
+**Matthew Panzarino:** Or you think that's too much, too bulky?
+
+**Matthew Panzarino:** I think that's about right.
+
+**Mariana Marins:** If it's too bulky, we will edit it out later.
+
+**Mariana Marins:** I think it's better if we have more and we can remove, then have less and have to add later, I guess.
+
+**Mariana Marins:** Yeah.
+
+**Matthew Panzarino:** All right, so let's do this.
+
+**Matthew Panzarino:** Two and then three.
+
+**Mariana Marins:** Where are you prompting it for the key takeaways?
+
+**Mariana Marins:** Three
+
+**Matthew Panzarino:** Oh, come on.
+
+**Matthew Panzarino:** I hate it when it does this crap.
+
+**Matthew Panzarino:** I can't get it to stop.
+
+**Matthew Panzarino:** Oh, and you are not doing this in a new one.
+
+**Matthew Panzarino:** You are doing this.
+
+**Matthew Panzarino:** I'm to copy it.
+
+**Matthew Panzarino:** we ran out.
+
+**Mariana Marins:** I'm going to copy it and I'm just editing in here.
+
+**Matthew Panzarino:** Sorry.
+
+**Matthew Panzarino:** Probably not great.
+
+**Matthew Panzarino:** All right, two things I want to do here.
+
+**Matthew Panzarino:** One, I want to get mad because I don't want it to be a bulleted list.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** That worked.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** Do you think it's going to get mad that it's at the bottom and I want it at the top?
+
+**Mariana Marins:** We can test, I guess.
+
+**Matthew Panzarino:** Because I don't want it to generate the key takeaway section.
+
+**Mariana Marins:** I think if you say at the top of the article, it will put it on top of Instagram.
+
+**Iana Medvedeva:** Exactly.
+
+**Iana Medvedeva:** Before the introduction, I guess.
+
+**Mariana Marins:** It may misinterpret.
+
+**Matthew Panzarino:** Maybe I'm just trying to get too fancy.
+
+**Matthew Panzarino:** You know what I'm saying, though, right?
+
+**Matthew Panzarino:** Like, I don't want to, like, generate key takeaways that aren't related to the sections.
+
+**Matthew Panzarino:** And depending on how we word, I'll just do support the subject here.
+
+**Mariana Marins:** I think it should be smart enough to do that.
+
+**Mariana Marins:** Let's just do it.
+
+**Matthew Panzarino:** Let's just keep life simple because LLMs are stupid.
+
+**Matthew Panzarino:** They're dumb, dumb.
+
+**Matthew Panzarino:** Dumb, dumb creatures.
+
+**Matthew Panzarino:** Okay.
+
+**Iana Medvedeva:** But like these key takeaways are coming before intro section.
+
+**Iana Medvedeva:** Yeah.
+
+**Matthew Panzarino:** Oh, shoot.
+
+**Matthew Panzarino:** Did I put them in wrong spot?
+
+**Matthew Panzarino:** I thought you did it on purpose.
+
+**Matthew Panzarino:** No, I did not.
+
+**Iana Medvedeva:** You even put number one very confidently.
+
+**Mariana Marins:** Yeah.
+
+**Mariana Marins:** All right.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Let me take this.
+
+**Matthew Panzarino:** I'm going to save this in my local document, but we should also save that.
+
+**Matthew Panzarino:** Is it?
+
+**Matthew Panzarino:** And then.
+
+**Matthew Panzarino:** It's in the YAML, right?
+
+**Mariana Marins:** Yeah.
+
+**Mariana Marins:** That's what I was going to say.
+
+**Mariana Marins:** It's hard-coded.
+
+**Mariana Marins:** we wouldn't need to change that.
+
+**Mariana Marins:** But this is something I'd like to ask Kirk.
+
+**Mariana Marins:** If we change in here and don't change in the YAML, what it's going to take?
+
+**Mariana Marins:** You know?
+
+**Mariana Marins:** Like, should we change the YAML all the time?
+
+**Mariana Marins:** I it which...
+
+**Iana Medvedeva:** Part of YAML, because there is this kind of, let's call it like a brown part, which is technically just a text block, which is just pre-filled text block.
+
+**Iana Medvedeva:** And I don't think this part is hard-coded anywhere.
+
+**Iana Medvedeva:** It's going to take what is written there, because this is what Daniel explained several times.
+
+**Matthew Panzarino:** You can always add something in this direction, so you can add outline.
+
+**Iana Medvedeva:** And if it wasn't the case, if we couldn't change it, if this part in YAML was affected all the time, it wouldn't be possible.
+
+**Mariana Marins:** Yeah, that makes sense.
+
+**Matthew Panzarino:** Okay, now I've got to like, hold on guys, I've got to like really not screw this up.
+
+**Matthew Panzarino:** I'm going to go in here and delete this stupid alcohol reference, because that's only applicable to this article.
+
+**Matthew Panzarino:** All right, and then let me save this as...
+
+**Mariana Marins:** Framework.
+
+**Matthew Panzarino:** Save as, yeah, the conversational, biologic, uh, con...
+
+**Matthew Panzarino:** Conversational, Content, Framework, and then I'm going to do 925, just so we know.
+
+**Matthew Panzarino:** And I'm going to save that in Desktop and Biologica.
+
+**Matthew Panzarino:** Sorry, I just wanted to do that because I'm trying to preserve this stuff.
+
+**Matthew Panzarino:** Okay, and then we will go into the, yep, okay, we will go into the YAML, and it belongs here.
+
+**Matthew Panzarino:** Uh-huh.
+
+**Matthew Panzarino:** La-da, la-da-dee-da-da.
+
+**Matthew Panzarino:** What?
+
+**Matthew Panzarino:** Why is it?
+
+**Matthew Panzarino:** What did I do?
+
+**Matthew Panzarino:** What is that?
+
+**Matthew Panzarino:** Where did I copy that from?
+
+**Matthew Panzarino:** Hold on.
+
+**Matthew Panzarino:** What?
+
+**Matthew Panzarino:** What's it doing?
+
+**Matthew Panzarino:** What did I do wrong here?
+
+**Iana Medvedeva:** Maybe it did some specific formatting and stuff.
+
+**Matthew Panzarino:** Maybe, but didn't you replace this?
+
+**Matthew Panzarino:** I did with Claude.
+
+**Mariana Marins:** Oh, you did?
+
+**Matthew Panzarino:** Oh, what did you say?
+
+**Matthew Panzarino:** Like, make it this format or something?
+
+**Mariana Marins:** No, I just gave the original one that I had before.
+
+**Matthew Panzarino:** Oh, you told it, like, yeah, you told it to do the whole pipeline, right?
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Oh, okay.
+
+**Matthew Panzarino:** All right, I'm going to let you do it.
+
+**Matthew Panzarino:** Just send me the text.
+
+**Matthew Panzarino:** Yeah, I'm going to drop the MD, the new MD I just created, the new markdown file, that is the 925 conversational content, making sure it doesn't have the alcohol thing at the top of it.
+
+**Matthew Panzarino:** Anyhow, I'll drop that there, and then I am going to just, so if I add a row here, I can just do this as well, just to replace it.
+
+**Matthew Panzarino:** Um, actually, can I just, can I change this to view markdown or no?
+
+**Matthew Panzarino:** Ah, here we go.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** So there's that.
+
+**Matthew Panzarino:** Just to be  about things.
+
+**Matthew Panzarino:** Then write an article about alcohol and perimenopause.
+
+**Matthew Panzarino:** What did I say before?
+
+**Matthew Panzarino:** Don't get weird.
+
+**Matthew Panzarino:** Don't be dumb.
+
+**Iana Medvedeva:** Don't be a jerk.
+
+**Matthew Panzarino:** Don't be a jerk.
+
+**Matthew Panzarino:** a jerk.
+
+**Matthew Panzarino:** Don't jerk.
+
+**Matthew Panzarino:** Don't jerk.
+
+**Matthew Panzarino:** Don't a jerk.
+
+**Matthew Panzarino:** Don't a jerk.
+
+**Matthew Panzarino:** Don't
+
+**Matthew Panzarino:** Thank you.
+
+**Matthew Panzarino:** I just want to kind of put the gist of that in its head.
+
+**Matthew Panzarino:** And then I'm going to do alcohol and perimenopause.
+
+**Matthew Panzarino:** And then when one...
+
+**Matthew Panzarino:** go to them, I'm going to say, hey, it was being confused because of the menopause.
+
+**Matthew Panzarino:** Snart habits?
+
+**Matthew Panzarino:** Snart.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** Let's just see what happens.
+
+**Matthew Panzarino:** Now that we made those adjustments, and then we've also done an audit and kind of walked through.
+
+**Matthew Panzarino:** Thank you so much for helping me with that.
+
+**Matthew Panzarino:** I'll let you guys get off line, and then we'll have our meeting with Kirkland, and we can kind of talk him through some of this stuff.
+
+**Matthew Panzarino:** And now we have like a full audit transcript as well, so I can give this to Daniel.
+
+**Matthew Panzarino:** You know, it could be contextually helpful in some way for how we think through these pipelines and the issues and things that we're seeing and thinking through.
+
+**Matthew Panzarino:** So thank you very much.
+
+**Matthew Panzarino:** very helpful, not just on a near-term basis, but systemically.
+
+**Matthew Panzarino:** So appreciate it, folks.
+
+**Matthew Panzarino:** Thank you.
+
+**Matthew Panzarino:** Thank you.
+
+**Mariana Marins:** Thank you very much.
+
+**Mariana Marins:** Good luck to us all.
+
+**Matthew Panzarino:** Thank you.
+
+**Mariana Marins:** Yeah, yeah, yeah, exactly.
+
+**Matthew Panzarino:** Good luck to yourself.
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** Ciao.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Bye.
+
+**Mariana Marins:** See you.

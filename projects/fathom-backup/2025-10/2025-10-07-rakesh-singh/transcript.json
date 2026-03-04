@@ -1,0 +1,3458 @@
+[
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Do you want to move away from them?",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, we are exploring other options is what I would say.",
+    "timestamp": "00:00:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, we do use Fathom across the board and there are a number of challenges that we have with it.",
+    "timestamp": "00:00:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And so, yes, we are looking at exploring other similar tools.",
+    "timestamp": "00:00:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "How's that?",
+    "timestamp": "00:00:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:00:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:00:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I'm here to help with that, yousef.",
+    "timestamp": "00:00:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So, you didn't mention that you're looking for transcripts, the nodes, and also the API access as well?",
+    "timestamp": "00:00:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:00:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, yeah, that's one of the challenges we have with Fathom is they have webhooks for when meetings happen and things like that, but they don't have any programmatic access to the data afterwards.",
+    "timestamp": "00:00:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "other words, it would be...",
+    "timestamp": "00:00:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, really nice if there was also an MCP on top of API, just because we're doing a ton of programmatic stuff already.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And so if it's not, there's not an MCP, we're just going to effectively build our own on top of the APIs.",
+    "timestamp": "00:01:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And like those, you know, that's one of the biggest challenges that we have right now is, you know, a lack of API support within Fathom.",
+    "timestamp": "00:01:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And then some other challenges we have, and I'm just going to go through some of my notes.",
+    "timestamp": "00:01:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "The search is horrible.",
+    "timestamp": "00:01:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "It is fairly inaccurate on attendees and tagging to customer entities, so companies and such.",
+    "timestamp": "00:01:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "There's no ability to, during the recording, to take notes, so you can't, you don't get like a side-by-side note taker where you can actually enrich the history with your own notes.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "You can't refine any of the transcripts.",
+    "timestamp": "00:02:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "That's kind of part of the notes.",
+    "timestamp": "00:02:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "You can't give feedback on the transcript.",
+    "timestamp": "00:02:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Team calls are a pain in the , to be honest, just the, their sharing options are fairly limited in terms of controlling who can see what, and even just, even managing users and their calls is a challenge.",
+    "timestamp": "00:02:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Summaries are okay.",
+    "timestamp": "00:02:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "There's no way to chat with the transcript.",
+    "timestamp": "00:02:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "As I said, there's...",
+    "timestamp": "00:02:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Er, there's...",
+    "timestamp": "00:02:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "But also, I know this one's a little questionable, is it doesn't actually show up in the call, but more importantly, when, you know, we're having all hand calls or multiple calls, we're not getting, you know, 10 different recorders in the call like we do with Fathom.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Though, what we found out is when we turn that off in Fathom or turn on the only let one bot in, it doesn't automatically associate it with all of the users who joined the call.",
+    "timestamp": "00:04:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And so, if I'm the first person in the call and my default sharing settings aren't shared with the entire team, then nobody else gets a copy of that call.",
+    "timestamp": "00:04:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Or can access the transcript from that call.",
+    "timestamp": "00:04:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And so that's, that's a big challenge for us.",
+    "timestamp": "00:04:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And then...",
+    "timestamp": "00:04:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "There's no actual Zoom integration, like I said, so it doesn't actually record the videos, it doesn't auto-join calls and things like that, but it does have really good search and chat with options, but also one other thing we'd ideally be looking for is the ability to import historical calls.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So even though Fathom doesn't have APIs or public APIs that they enable access to, you might be able to reverse engineer their APIs with not a whole lot of work to be able to extract all of the call information.",
+    "timestamp": "00:05:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So ideally, whatever platform we go into, we'd have the ability to import historical calls and transcripts and things like that.",
+    "timestamp": "00:05:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So again, we're working off.",
+    "timestamp": "00:05:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Off one platform.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I know different tools have different capabilities like that.",
+    "timestamp": "00:06:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And so that's kind of my like wish list of, you know, hopefully Fireflies can tick off as many of these boxes as possible.",
+    "timestamp": "00:06:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And then we can, we can ball through there.",
+    "timestamp": "00:06:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So now that I've been monologuing for the last five or six minutes, I'll turn it over to you and you can tell me how Fireflies are going to solve all of our problems.",
+    "timestamp": "00:06:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "First, I'd like to start with saying that we do have MCPs, so you can access that.",
+    "timestamp": "00:06:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We also integrate with OpenAI and Claw as of now.",
+    "timestamp": "00:06:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So you can use Fireflies as a connector and do your research on them.",
+    "timestamp": "00:06:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So yeah, that's a big one to start with.",
+    "timestamp": "00:06:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And the other detail, I'll explain on how we can get that done.",
+    "timestamp": "00:06:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And",
+    "timestamp": "00:06:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yes, most of them are possible with Fireflies.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:07:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So let's, why don't you give me the pitch and we can roll from there.",
+    "timestamp": "00:07:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Sure, sure.",
+    "timestamp": "00:07:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Now, first, we would love to understand who are the users of the tool?",
+    "timestamp": "00:07:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Like, who uses Fathom right now, which departments, or is it the entire company?",
+    "timestamp": "00:07:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Everybody.",
+    "timestamp": "00:07:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, everybody uses it.",
+    "timestamp": "00:07:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "We'll call it 75-ish users.",
+    "timestamp": "00:07:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Heavy infamous, or heavy emphasis on the ish.",
+    "timestamp": "00:07:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I think we're closer to, like, 85 or 90 Fathom users, though.",
+    "timestamp": "00:07:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:07:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:07:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Thanks for that.",
+    "timestamp": "00:07:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:07:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So I was just trying to check if there's a direct way that we can integrate or get the data out of Fathom.",
+    "timestamp": "00:07:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I'm not getting the right answers.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Maybe I'll cover this on the email.",
+    "timestamp": "00:08:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I'll post this call.",
+    "timestamp": "00:08:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So I'll you the right info.",
+    "timestamp": "00:08:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, again, if you guys have APIs where you can, where we can, like, upload the videos to, or upload the existing transcripts and call logs and things like that to, like, then don't worry about the ability to pull it out of Fathom unless you guys have already built the...",
+    "timestamp": "00:08:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We actually have an option where you can upload it on the API, but just that you will lose some metadata there, like the email IDs and all of that.",
+    "timestamp": "00:08:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So I just want to see if we can retail all of that data as well.",
+    "timestamp": "00:08:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So it'd be super useful for you to continue from your leaving.",
+    "timestamp": "00:08:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yes.",
+    "timestamp": "00:08:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So if I can, like, give it, like, a CSV of participants or I can give it, you know, JSON of participants or something like that, then...",
+    "timestamp": "00:08:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And again, copy the call transcript, unless you guys are going to re-transcribe yourself, then, you know, I can figure out the rest.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Sure thing, Yessef.",
+    "timestamp": "00:09:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Also, let me get started with the demonstration as well.",
+    "timestamp": "00:09:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:09:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "What?",
+    "timestamp": "00:09:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "We're at 76 Fathom users, so.",
+    "timestamp": "00:09:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So with the migration as well, let's say you want us to help you with the migration and make sure everything is there.",
+    "timestamp": "00:09:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "There's a charge associated with that.",
+    "timestamp": "00:09:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So I want to give you all the right information with that info.",
+    "timestamp": "00:09:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So I just put on the email so you have the right input on that.",
+    "timestamp": "00:09:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:09:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Now, getting started with Firefly is pretty easy, I would say.",
+    "timestamp": "00:09:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "If you're a Microsoft or Google shop, you just need to connect on this.",
+    "timestamp": "00:09:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "One second.",
+    "timestamp": "00:09:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:09:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Google.",
+    "timestamp": "00:09:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And we are a Google shop.",
+    "timestamp": "00:09:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Do you guys.",
+    "timestamp": "00:09:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Do SAML SSO and either SAML provisioning or SCIM provisioning?",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yes, we do provide SAML provisioning, so you can set up SSO as well.",
+    "timestamp": "00:10:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And once you log in, you'll have your own personalized feed right in the middle.",
+    "timestamp": "00:10:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "With any live meeting, you'll see the detail and let you know what can be done with that.",
+    "timestamp": "00:10:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "You have all of your topics, discussions that come up on your meetings.",
+    "timestamp": "00:10:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So let's say we want integrations and you want to know more on this, just click and get to know which meetings they came up in and what happened as well.",
+    "timestamp": "00:10:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Similarly, if you scroll down, you have your recent meetings.",
+    "timestamp": "00:10:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Think of it like a feed where you have all the recent meetings with what happened right there.",
+    "timestamp": "00:10:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So your quick high-level overview.",
+    "timestamp": "00:10:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And on the right-hand side, you have your upcoming meetings.",
+    "timestamp": "00:10:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So all the meetings are mentioned here.",
+    "timestamp": "00:10:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So you can quickly toggle on and off which meetings Fireflies shouldn't be a part of.",
+    "timestamp": "00:10:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And also, to control everything at one place, for the user settings, you can control which means...",
+    "timestamp": "00:10:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So Fireflies joined in in the first place.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And I see Google Meet here, but I assume Zoom is also fully.",
+    "timestamp": "00:11:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "All the meeting platforms for sure, yes.",
+    "timestamp": "00:11:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So Teams, Google Meet, Zoom, WebEx, all of those are included.",
+    "timestamp": "00:11:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:11:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Also, you can control who gets the recap or summary of the meeting.",
+    "timestamp": "00:11:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So you can probably just call everyone on the invite as well.",
+    "timestamp": "00:11:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:11:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:11:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Now, what happens after the meeting?",
+    "timestamp": "00:11:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Very similar to Fathom, we have a note taker joining in on the meeting.",
+    "timestamp": "00:11:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "That's how we record the audio, video, and get the transcripts.",
+    "timestamp": "00:11:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Once that is done, every meeting sits under the meeting section on the left.",
+    "timestamp": "00:11:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So meetings where you're the host, it'll fall under my meetings section.",
+    "timestamp": "00:11:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Meetings where your participant would be under shared with me.",
+    "timestamp": "00:11:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And all the meetings in your workspace will be under all meetings.",
+    "timestamp": "00:11:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Again, each meeting, you can set up the privacy.",
+    "timestamp": "00:11:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "You can set up who gets to see them as well.",
+    "timestamp": "00:11:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So if I jump into one of them.",
+    "timestamp": "00:11:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "go.",
+    "timestamp": "00:11:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "You can go ahead and control what's the privacy of each meeting as well.",
+    "timestamp": "00:12:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, so this is me putting on my IT and cyber security hat.",
+    "timestamp": "00:12:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "As an admin, do I have the ability to either transfer meetings from a departed employee or access all meetings even if they're not shared?",
+    "timestamp": "00:12:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yes, can.",
+    "timestamp": "00:12:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So we do have a super admin role.",
+    "timestamp": "00:12:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Again, you need to sign a consent form to get access to that role.",
+    "timestamp": "00:12:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "But with that, you will have access to all the meetings, and that way it becomes a lot easier for you as well, being an admin, to control or get all the data points out of the two as well.",
+    "timestamp": "00:12:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So yeah, we can get that done.",
+    "timestamp": "00:12:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "There's paperwork involved with that.",
+    "timestamp": "00:12:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, so that's, yeah, great.",
+    "timestamp": "00:12:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And also you as an admin, you can set up the default or you can set up.",
+    "timestamp": "00:12:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "All of these settings, like which meetings will Firefly join, what happens after the meeting is who gets to see them, you have control on all of these as well.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And can you enforce those just for specific teams?",
+    "timestamp": "00:13:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yes.",
+    "timestamp": "00:13:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Or, okay, because, and I assume, well, I saw you had teams there, so like within an organization, can we actually set up different teams?",
+    "timestamp": "00:13:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Exactly, yeah.",
+    "timestamp": "00:13:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, can a user be part of multiple teams, or are they only part of a single team, or can you nest teams, like an actual org hierarchy?",
+    "timestamp": "00:13:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Let me showcase the settings and then come back.",
+    "timestamp": "00:13:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So you can go ahead and see the members, you can create the groups.",
+    "timestamp": "00:13:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Right, and you can add multiple participants to different groups as well.",
+    "timestamp": "00:13:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, and then when people are in groups, okay, so the team is the organization, and then groups are teams.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So is there an option to, by default, share this with just members of my group as well?",
+    "timestamp": "00:14:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I saw team, but is there that ability to?",
+    "timestamp": "00:14:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, so our team is called the Custom Onboarding Management.",
+    "timestamp": "00:14:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So I can go ahead and set up settings just for this group, a group of individuals from the same team.",
+    "timestamp": "00:14:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So I can choose what are the different settings for these group of users.",
+    "timestamp": "00:14:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "That's the level one, I would say.",
+    "timestamp": "00:14:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Level two is I can set up rules and say if there's, let's say, a one-on-one meeting happening, it should go ahead and automatically be private.",
+    "timestamp": "00:14:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So based on the title, the host, the participant, or the meeting type, I can go ahead and create the rules, then select what happens to that particular action.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, but if I say wanted to set up an executive leadership group, and I only wanted to share certain meetings with just the members of that group, whether or not they were a participant, can you do that?",
+    "timestamp": "00:15:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yes, you can.",
+    "timestamp": "00:15:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So let's say, Sam, there's one of the executives here.",
+    "timestamp": "00:15:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Again, I can keep adding the different team as well.",
+    "timestamp": "00:15:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And then I can select on what happens.",
+    "timestamp": "00:15:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So for these couple of users, the privacy will be just for that group.",
+    "timestamp": "00:15:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, see, yeah, that's the, so here you have",
+    "timestamp": "00:15:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "It wouldn't be a demo if I didn't ask for a feature request.",
+    "timestamp": "00:16:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Can you put in a feature request just with a group or specific groups because that would be nice because I haven't seen a tool yet.",
+    "timestamp": "00:16:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "That actually does that well.",
+    "timestamp": "00:16:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, but this like I've seen a lot of these tools that this is really nice in terms of these rules and things like that.",
+    "timestamp": "00:16:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So I think you guys have done a really good job here.",
+    "timestamp": "00:16:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So yeah, absolutely as well.",
+    "timestamp": "00:16:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So I will pass it on to my team too.",
+    "timestamp": "00:16:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So, also again, you can bring different rules as well.",
+    "timestamp": "00:16:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So you can...",
+    "timestamp": "00:16:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We ahead and do the auto-share, can go ahead and send it out to the call, like the groups that we created.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay, so you can do that.",
+    "timestamp": "00:17:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:17:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:17:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And are those rules, are those org-wide?",
+    "timestamp": "00:17:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Are they user-specific?",
+    "timestamp": "00:17:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Is there a mix of both?",
+    "timestamp": "00:17:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Like, how's that?",
+    "timestamp": "00:17:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So, given that you would be the admin setting all of these things, so it will be org-wide, you can set up those different rules.",
+    "timestamp": "00:17:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "You can, again, user settings or group settings as well, so you'll have access to all of that.",
+    "timestamp": "00:17:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And the first part is, you'll have someone from our team sitting along with you.",
+    "timestamp": "00:17:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "It could be me or someone from the customer success team.",
+    "timestamp": "00:17:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We will help you out with the setup and ensure everything is there properly before you roll it down.",
+    "timestamp": "00:17:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:17:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:17:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:17:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:17:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We do have more settings here for the teams.",
+    "timestamp": "00:17:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "You, as an admin, can go ahead and select those defaults for the users.",
+    "timestamp": "00:17:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "once they log in,",
+    "timestamp": "00:17:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "But then, for example, they don't want the Notetaker to join all the meetings, you can control that from the start, and then they can make the changes based on how they want the Notetaker to join.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Got it.",
+    "timestamp": "00:18:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:18:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:18:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And then in terms of the Notetaker itself, I know I'm jumping around here.",
+    "timestamp": "00:18:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So Fathom has an app that runs on our machines.",
+    "timestamp": "00:18:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Does Fireflies have a similar sort of thing or is it cloud only?",
+    "timestamp": "00:18:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "It is cloud only.",
+    "timestamp": "00:18:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So it's a web app on your computer, but we do have a mobile app that you could use on your phone, both Android and iOS.",
+    "timestamp": "00:18:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So you could use.",
+    "timestamp": "00:18:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And if you're not wrong, the web app, I'm sorry, the application for your computers, it's in the works.",
+    "timestamp": "00:18:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We are trying to build something more onto that.",
+    "timestamp": "00:18:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So it should be out in the corner that we introduced that to you.",
+    "timestamp": "00:18:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:18:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And then I just see AI apps over there.",
+    "timestamp": "00:18:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So So So",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Renola has the ability to integrate with Notion, for example, using their MCP, and so it can actually enrich the notes with information from the MCP.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Does this have that ability to, like, can you give it other access to other MCP services and it'll pull in data from them, or no?",
+    "timestamp": "00:19:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I would say it's a little different here.",
+    "timestamp": "00:19:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Let me give you a breakdown on this real quick.",
+    "timestamp": "00:19:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We'll just jump into one of the meetings.",
+    "timestamp": "00:19:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Right, so firstly, the use of AI apps, I would say you can use it on a per meeting level or you can use it on per day or all the meetings put together level as well, right?",
+    "timestamp": "00:19:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So firstly, you get the transcript on the right with timestamps.",
+    "timestamp": "00:19:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "You can click on any part of the transcript and the call start playing in from there.",
+    "timestamp": "00:19:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "It looks like you're",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We do record the video as well, that's my face, hide that away, so all the details right here, you also have Ask Friend, that's your meeting assistant, ask any question about the meeting, help me update that email, and I'll try to analyze the meeting for you and give you the output right here.",
+    "timestamp": "00:20:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "While that is getting done, we do have the summary right in the middle, where you get to see all the foreign pointers that were mentioned in the meeting with the timestamps as well, and you scroll all the way to the bottom, you do have the action items and who it belongs to as well.",
+    "timestamp": "00:20:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:20:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Right.",
+    "timestamp": "00:20:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I just want to finish this before doing the question here, so with the help of AI apps, what you can do is .",
+    "timestamp": "00:20:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I have these custom templates that you can build, and you can get the output for those custom templates.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Since this has action items, and we are also a linear shop, can it automatically, like all these action items, can it go and automatically create tickets in linear?",
+    "timestamp": "00:21:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yes, it can.",
+    "timestamp": "00:21:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So, we do have integration with linear.",
+    "timestamp": "00:21:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So, we can go ahead and help you out with the action items to be sent there.",
+    "timestamp": "00:21:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Some AI outputs to your app.",
+    "timestamp": "00:21:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:21:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And also, again, we do have about 80 plus integration as of now.",
+    "timestamp": "00:21:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So, all the different teams and different users that we're using, you can easily go ahead and set up those integrations.",
+    "timestamp": "00:21:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "If not, again, we do have the API access too.",
+    "timestamp": "00:21:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So, if you want, you can build those extra connections.",
+    "timestamp": "00:21:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, if we have our own MCP services, can we add that too, or no?",
+    "timestamp": "00:22:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I'm not sure about that, Yusuf.",
+    "timestamp": "00:22:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "It's okay.",
+    "timestamp": "00:22:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Which MCP, again, you have your own internal MCP?",
+    "timestamp": "00:22:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "We have our own internal MCP, yeah.",
+    "timestamp": "00:22:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I think we do have our file MCP as well, so yeah, you can, yeah, I'm sure you know you can work that around and get the details.",
+    "timestamp": "00:22:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, all right, that's pretty neat.",
+    "timestamp": "00:22:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "All right, also, just going through the details or in the questions that you asked, firstly, live meeting details right here.",
+    "timestamp": "00:22:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:22:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "You can get to see, or you get the live transcripts on, like, what's happening word to word during the meeting itself.",
+    "timestamp": "00:22:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, can I add notes?",
+    "timestamp": "00:22:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So the AdWords was available.",
+    "timestamp": "00:23:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "just revamped this entire thing to give you some live assist and details right here.",
+    "timestamp": "00:23:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I'm just trying to wrap my head around on where you can add your own details because that was an option before.",
+    "timestamp": "00:23:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "If you go back to where you were, was that a suggested thing?",
+    "timestamp": "00:23:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Was that the top option?",
+    "timestamp": "00:23:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So just follow up questions.",
+    "timestamp": "00:23:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Maybe that's, or maybe not.",
+    "timestamp": "00:23:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:23:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "No, that's, that's it.",
+    "timestamp": "00:23:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I don't know.",
+    "timestamp": "00:23:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Is it, maybe it's one of the options down below.",
+    "timestamp": "00:23:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "There's like a, you know, to the left, there's like a plus and that's just the notes.",
+    "timestamp": "00:23:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:23:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:23:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We do have Fred here too.",
+    "timestamp": "00:23:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So with all the questions, you can just get the details right here.",
+    "timestamp": "00:23:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:23:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "It would be good.",
+    "timestamp": "00:23:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Like if we could.",
+    "timestamp": "00:23:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So if you could find out where that went, is that a feature that got deprecated or not, that would be good.",
+    "timestamp": "00:24:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Or maybe I'd say you just need to chat like DM to the note taker.",
+    "timestamp": "00:24:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah, coming back to this one, you can surely edit the transcript, make any changes that you want to.",
+    "timestamp": "00:24:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And also you can edit the summary as well, if you want to.",
+    "timestamp": "00:24:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So you want to add any action items, you can go ahead and do that as well.",
+    "timestamp": "00:24:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, got it.",
+    "timestamp": "00:24:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Now the, let's see, can we rename and brand the note taker itself?",
+    "timestamp": "00:24:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, you know, here it says Fireflies AI, know, take her, the cash, Can we?",
+    "timestamp": "00:24:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:24:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Can we change the name of that, or, you know, put our logo, or whatever?",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "You can rename it.",
+    "timestamp": "00:25:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I do believe there's extra charge involved to rename the Notetaker itself, because it'll just go ahead and say as Fireflies, Notetaker, Rakesh, but you can go ahead and rename it with extra cost involved to it.",
+    "timestamp": "00:25:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:25:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "All right.",
+    "timestamp": "00:25:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Everything's an upcharge.",
+    "timestamp": "00:25:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:25:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:25:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "We do underbranding everywhere, so.",
+    "timestamp": "00:25:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, I know.",
+    "timestamp": "00:25:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:25:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "How else are you guys going to get your name out there?",
+    "timestamp": "00:25:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "No, I get it.",
+    "timestamp": "00:25:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:25:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Let's see.",
+    "timestamp": "00:25:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "What else?",
+    "timestamp": "00:25:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "What about the multi-notetaker problem?",
+    "timestamp": "00:25:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, if, you know, 20 people people from.",
+    "timestamp": "00:25:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Fireflies joined, just based off of what I'm saying here, it looks like we'd have 20 note takers.",
+    "timestamp": "00:26:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, so what happens is the host of the meeting, they note takes precedence.",
+    "timestamp": "00:26:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So who the host of the meeting is, or who set up the meeting, they note taker will join in first.",
+    "timestamp": "00:26:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:26:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "That's the plus that.",
+    "timestamp": "00:26:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Now also, to answer the other one about the privacy and you're not able to access those meetings, it again depends on what settings the user has set up for all of their meetings.",
+    "timestamp": "00:26:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "If they have set it up as the privacy will remain just to themselves, like only the owner, they will have to come and change this to teammates anyone on the link or any other option that you have.",
+    "timestamp": "00:26:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, but with the consent form, then I can go in there and fix that if needed.",
+    "timestamp": "00:26:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "it.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And then, so what happens though, does the meeting host take precedence then, or the meeting owner take precedence for, you know, if like two people have two different settings set up?",
+    "timestamp": "00:27:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah, so firstly, it will be based on which note taker joins in.",
+    "timestamp": "00:27:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "given that the meeting host or the meeting owner, note taker will join in first.",
+    "timestamp": "00:27:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So based on their settings, it'll take effect.",
+    "timestamp": "00:27:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I mean, the host doesn't always, isn't always the first person to join a meeting.",
+    "timestamp": "00:27:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, but the note taker will be the host note taker.",
+    "timestamp": "00:27:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, so it'll be the host.",
+    "timestamp": "00:27:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "What if there are multiple hosts?",
+    "timestamp": "00:27:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Or what if the host never joins?",
+    "timestamp": "00:27:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So if you have noticed, like our note taker, at least, we join right on time, let's say.",
+    "timestamp": "00:27:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "It's 9pm, and they'll join right at that time, and it will be the host's notetaker, they'll try to join in.",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:28:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:28:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And then last question.",
+    "timestamp": "00:28:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So with some notetakers, you can actually tell them, like, you know, leave or, like, slash command, you know, Fireflies exit or something like that.",
+    "timestamp": "00:28:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Do you guys have similar sort of support where, know, if the host isn't there to kick the notetaker or notetaker, can you just say, anyone in the thing can just say, leave?",
+    "timestamp": "00:28:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Absolutely.",
+    "timestamp": "00:28:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So you do have, the command is, forward slash FF, and you can say, leave, you can also pause and resume if you want to.",
+    "timestamp": "00:28:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So all of those are also available.",
+    "timestamp": "00:28:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And other cool things is, if you want to, you can talk to the...",
+    "timestamp": "00:28:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "The note taker as well during the meeting, so if you want to search the web or get some more details or even summarize the meeting, the note taker can do that for you live on the call.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, that's pretty cool.",
+    "timestamp": "00:29:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So you just chat to it and say, slash commands and search the web.",
+    "timestamp": "00:29:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Your permission, let's try this.",
+    "timestamp": "00:29:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Hey, Fireflies, could you just summarize the meeting for us and let me know if I missed out on something Yousef mentioned?",
+    "timestamp": "00:29:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Fireflies.ai Notetaker Rakesh",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Fireflies offers live transcription, meeting summaries, action items, integrations, privacy controls, team management and admin features.",
+    "timestamp": "00:29:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Fireflies.ai Notetaker Rakesh",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You discuss challenges with Fathom and Granola, like lack of APIs, limited note-taking, and sharing issues.",
+    "timestamp": "00:29:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Fireflies.ai Notetaker Rakesh",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Fireflies addresses these with better integrations.",
+    "timestamp": "00:29:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Fireflies.ai Notetaker Rakesh",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Admin control.",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Fireflies.ai Notetaker Rakesh",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "roles, group-based sharing, and custom rules.",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Fireflies.ai Notetaker Rakesh",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Let me know if you want a more detailed summary or specific action items.",
+    "timestamp": "00:30:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Fireflies.ai Notetaker Rakesh",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Can you turn that off?",
+    "timestamp": "00:30:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "You can.",
+    "timestamp": "00:30:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Yeah, you do have the option for that.",
+    "timestamp": "00:30:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Is that a global setting or is it a, like, permitting something?",
+    "timestamp": "00:30:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, can do it at a global level.",
+    "timestamp": "00:30:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So you can do settings and, yeah, most of the settings that you'd want to be, like, are under your team settings as well.",
+    "timestamp": "00:30:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:30:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:30:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "You know, there's certain words that I just know not to say around smart devices.",
+    "timestamp": "00:30:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And so it's like, okay, that's one more to remember.",
+    "timestamp": "00:30:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "It's actually a cool feature.",
+    "timestamp": "00:30:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, you know, it's debatable as to whether or not we'll want to keep it on.",
+    "timestamp": "00:30:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Like I said, it's a cool feature.",
+    "timestamp": "00:30:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:31:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I know we're actually over time here by a minute, so I'll let you go because I'm sure you have another call to jump to.",
+    "timestamp": "00:31:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I do as well.",
+    "timestamp": "00:31:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So trial, pricing, and add-ons and things like that.",
+    "timestamp": "00:31:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Again, you have us on our website as well.",
+    "timestamp": "00:31:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Based on what you're looking for with SSO and the rules engine as well, the enterprise would be like that, which will cost you $39 per user per month.",
+    "timestamp": "00:31:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "That's list price.",
+    "timestamp": "00:31:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "We do have volume-based pricing.",
+    "timestamp": "00:31:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So if you're looking at $75, I could help you out with a custom code for that.",
+    "timestamp": "00:31:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, and then do you guys, you know, since we're a startup, you guys are a startup, all of that, do you guys have any, like, VC deals or things?",
+    "timestamp": "00:31:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "have any questions?",
+    "timestamp": "00:32:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Like that.",
+    "timestamp": "00:32:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I know some, we get that from a number of orgs.",
+    "timestamp": "00:32:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I don't know if you guys have any specific, like, VC programs or anything like that.",
+    "timestamp": "00:32:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I could have a check on that, Yousef.",
+    "timestamp": "00:32:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Also, I understand you're already using something and budget is something that all startups, you know, we go through the process.",
+    "timestamp": "00:32:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So, is there a number you're working with?",
+    "timestamp": "00:32:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Maybe, you I could see if I can get closer to that number at least, if you have something.",
+    "timestamp": "00:32:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:32:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I can get back to you on that.",
+    "timestamp": "00:32:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I'm going to see what we're paying for Fathom.",
+    "timestamp": "00:32:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Ideally, you know, that or less is what the number would be.",
+    "timestamp": "00:32:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And so, I can definitely get back to you on that.",
+    "timestamp": "00:32:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:32:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "And so, you said, though, that one of",
+    "timestamp": "00:32:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Like, rebranding is an upcharge.",
+    "timestamp": "00:33:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Is that not part of the enterprise?",
+    "timestamp": "00:33:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Yeah, that's the exception.",
+    "timestamp": "00:33:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "You can go ahead and rename your node taker on the enterprise for free.",
+    "timestamp": "00:33:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Okay, so you can.",
+    "timestamp": "00:33:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay, so, you know, with all the stuff, we're probably looking at enterprise tier.",
+    "timestamp": "00:33:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:33:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "File, do you have the ability so that we can, we can try all this with, you know, we'll call it five, 10 users somewhere around there for, for a month?",
+    "timestamp": "00:33:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Absolutely.",
+    "timestamp": "00:33:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So we do have a business tier where you can trial it for free, where with no additional charge, in case you want to try it on the enterprise, and test out all the, again, if you look at enterprise more of the SSO and the rules engine, the two things you can look at.",
+    "timestamp": "00:33:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "But if you just want to see how the tool works, and what are the things that I get out of it, or how can you use it?",
+    "timestamp": "00:33:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "The business.",
+    "timestamp": "00:34:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "This trial should be enough.",
+    "timestamp": "00:34:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So I will leave the ball in your code on which trial you want to do.",
+    "timestamp": "00:34:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And just for information, the Enterprise trial for two weeks, it's about $29.50 per user.",
+    "timestamp": "00:34:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "That's how the costing is for a two-week trial on Enterprise.",
+    "timestamp": "00:34:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "But the business, it's absolutely free for two weeks.",
+    "timestamp": "00:34:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "OK, so Enterprise, you try just basically the business cost for a trial there.",
+    "timestamp": "00:34:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "For two weeks, yes.",
+    "timestamp": "00:34:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "OK, that's an expensive trial.",
+    "timestamp": "00:34:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "OK, yeah, it's just looking at the rules engine and super admin role, right there are definitely where we'd want to, or features we'd probably want.",
+    "timestamp": "00:34:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So OK, all right, cool.",
+    "timestamp": "00:34:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "That gives me something to start with.",
+    "timestamp": "00:34:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So going great.",
+    "timestamp": "00:34:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "yeah, that's",
+    "timestamp": "00:35:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Would you, by chance, be able to just send me a quote for Enterprise, and so I can have something we can start discussions with internally?",
+    "timestamp": "00:35:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Sure.",
+    "timestamp": "00:35:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I'll go and prepare something.",
+    "timestamp": "00:35:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "So 75 users on the Enterprise.",
+    "timestamp": "00:35:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "I'll send something through.",
+    "timestamp": "00:35:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "And also, once you have the number or the details, just let me know.",
+    "timestamp": "00:35:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "I'll see what I could do to get closer to that number as well.",
+    "timestamp": "00:35:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Help you out, too.",
+    "timestamp": "00:35:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "All right.",
+    "timestamp": "00:35:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "That sounds good.",
+    "timestamp": "00:35:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:35:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Also, I just want to confirm.",
+    "timestamp": "00:35:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Sorry, I know we are already over time.",
+    "timestamp": "00:35:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Would you be comfortable testing out the business, or would you want me to set up an Enterprise trial for you so you can test it out for you?",
+    "timestamp": "00:35:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Let me chat with a couple of people, and I will ping you that back later today.",
+    "timestamp": "00:35:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "So, okay.",
+    "timestamp": "00:35:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "All right.",
+    "timestamp": "00:35:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Rakesh Singh",
+      "matched_calendar_invitee_email": "rakesh@fireflies.ai"
+    },
+    "text": "Well, thank you so much.",
+    "timestamp": "00:35:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Pleasure talking to you.",
+    "timestamp": "00:35:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Pleasure talking to you.",
+    "timestamp": "00:35:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "talking talking to to Pleasure Bye-bye.",
+    "timestamp": "00:36:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Have a nice day.",
+    "timestamp": "00:36:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:36:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Sure.",
+    "timestamp": "00:36:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:36:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Yousef Hamade",
+      "matched_calendar_invitee_email": "yousef@growthxlabs.com"
+    },
+    "text": "Bye.",
+    "timestamp": "00:36:03"
+  }
+]

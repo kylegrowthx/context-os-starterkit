@@ -1,0 +1,651 @@
+# Intro Call — Justin Massey
+
+<metadata>
+date: 2025-08-14
+time: 22:02 UTC
+duration: 55 minutes
+organizer: Marcel Santilli
+participants: Marcel Santilli (GrowthX), Justin Massey (Relay Hawk)
+fathom_recording_id: 80749389
+fathom_url: https://fathom.video/calls/379820884
+share_url: https://fathom.video/share/xPVw9otZcsvwYRzvKy11VUfzyJUD55Ku
+source: fathom
+enriched_on: 2026-03-03 22:45 UTC
+speaker_note: Kyle Gaudreau and Tyler Pavlas were calendar invitees but did not speak on the call.
+</metadata>
+
+---
+
+## Summary
+
+Marcel and Justin discussed Relay Hawk's AI agent platform for outsourced call centers, where Justin shared challenges with adoption from legacy call centers due to fear of revenue loss. Marcel shared GrowthX's approach to scaling AI services ($10M+ revenue, 70 employees) and emphasized the importance of solving for revenue and building on proof points rather than staying lean. Marcel recommended Justin pursue more aggressive strategies—including acquiring call centers or buying out specific customer contracts—to build credibility and create a moat, rather than trying to sell pure software.
+
+---
+
+## Context
+
+Justin Massey is the founder of Relay Hawk, an AI platform building agents for the outsourced call center market ($1.5B industry). Relay Hawk charges per-minute for AI agent usage with upfront credit purchases. Marcel Santilli is the founder and CEO of GrowthX, a B2B content marketing agency that has built a platform layer on top of their services, powered by AI agents and workflow engines. This was an exploratory call to compare notes on AI-driven business models, adoption challenges, and the trade-offs between pure software/SaaS and services-led go-to-market.
+
+---
+
+## Relevance
+
+- **To GrowthX Business Development:** Relay Hawk is a potential strategic partner or acquisition target. Justin is exploring pivots toward full-service call center operations; GrowthX could offer content/knowledge work automation in that context. Signal: Justin is looking for ways to improve customer experience and differentiation, not just cost-cutting.
+- **To GrowthX Delivery:** Discussion of AI evaluation methods, multi-step quality assurance, and the complexity of fine-tuning models resonates with GrowthX's approach to content QA. Both teams are wrestling with how to make AI outputs reliable and objectively measurable at scale.
+- **To CheckThat:** Justin mentioned Relay Hawk's approach to evaluating AI agent performance in real conversations. Relay Hawk uses post-conversation evals and synthetic data generation; this mirrors challenges CheckThat is solving (how to measure AI visibility/quality in production).
+
+---
+
+## Overview
+
+- Justin's company, Relay Hawk, is developing AI agents for outsourced call centers, facing challenges in market adoption and scaling.
+- Marcel's company, growthx.ai, has successfully scaled AI-powered content generation services with a focus on high-quality outputs and efficient human-AI collaboration.
+- Both discussed the importance of solving for revenue, potentially pivoting business models, and the complexities of AI evaluation and fine-tuning.
+- Marcel suggested more aggressive strategies for Justin to drive adoption and revenue, including potentially acquiring a small call center or buying out specific customer contracts.
+
+---
+
+## Key Topics
+
+### Relay Hawk's Business Model and Challenges
+
+  - Developing AI agents for outsourced call centers, particularly in the answering services market ($1.5B industry)
+  - Charging per minute for AI agent usage, with upfront credit purchases for cash flow
+  - Facing slow adoption from existing call centers due to fear of revenue loss
+  - Considering pivot to becoming a full-service AI-powered call center
+
+### growthx.ai's Success and Approach
+
+  - Scaled to $10M+ revenue, 70 employees, bootstrapped then raised Series A
+  - Focus on solving complex, "messy" problems in content generation for high-value clients
+  - Developed a platform with coding agents, workflow engines, and evaluation systems
+  - 70% gross margins on primarily service-based revenue model
+
+### AI Evaluation and Quality Assurance
+
+  - Relay Hawk: Post-conversation evals and synthetic data generation for testing
+  - growthx.ai: Multi-step evaluation process including fact-checking, quality assessment, and human editing evaluation
+  - Both exploring ways to make evaluation more objective and efficient
+
+### Fine-tuning and Model Optimization
+
+  - Discussion on potential benefits of fine-tuning models to reduce context bloat and improve efficiency
+  - Importance of structuring data collection for potential future fine-tuning efforts
+
+### Market Strategy and Revenue Generation
+
+  - Marcel advised Justin to be more aggressive in approach, potentially buying out specific customer contracts or acquiring a small call center
+  - Emphasis on solving for revenue first, then optimizing technology and processes
+
+---
+
+## Action Items
+
+- **Justin Massey (Relay Hawk):** Consider more aggressive strategies for driving adoption and revenue, including potential acquisitions of call centers or buyouts of specific customer contracts
+- **Justin Massey (Relay Hawk):** Explore fine-tuning possibilities for Relay Hawk's AI models to reduce context bloat and improve efficiency
+- **Justin Massey (Relay Hawk):** Refine Relay Hawk's value proposition to emphasize improved customer experience and service quality, not just cost-cutting
+- **Justin Massey (Relay Hawk):** Follow up with Marcel Santilli (GrowthX) on AI evaluation techniques and potential connection with GrowthX's CTO for deeper discussion
+
+---
+
+## Transcript
+**Marcel Santilli:** What's going on, sir?
+**Marcel Santilli:** This meeting is being recorded.
+**Marcel Santilli:** You're on mute.
+**Marcel Santilli:** How are you?
+**Justin Massey (Relay Hawk):** I guess your stat, your thing makes me come in on mute.
+**Marcel Santilli:** How are you doing?
+**Marcel Santilli:** Pretty good, man.
+**Marcel Santilli:** Not bad.
+**Marcel Santilli:** been crazy, but in a good way, so I can't complain, yeah.
+**Justin Massey (Relay Hawk):** Nice.
+**Justin Massey (Relay Hawk):** Testing out some note-takers there.
+**Justin Massey (Relay Hawk):** got Fathom, and GrowthX, and Adio.
+**Marcel Santilli:** Testing them all out, man.
+**Marcel Santilli:** Do you like Adio?
+**Justin Massey (Relay Hawk):** My subscription for HubSpot expires in one week, and I haven't, I'm not renewing my HubSpot subscription.
+**Marcel Santilli:** What do you think of Adio?
+**Marcel Santilli:** The parts I love, I love, and the parts that are missing things are deal-breakers.
+**Marcel Santilli:** That's the way to think about it.
+**Justin Massey (Relay Hawk):** Oh, no.
+**Marcel Santilli:** Everything else, they've
+**Marcel Santilli:** It's imperfect.
+**Marcel Santilli:** It's just that the things that they just haven't done at all are just deal breakers.
+**Justin Massey (Relay Hawk):** Give me a high level on like one of the things that you're like a deal breaker on.
+**Marcel Santilli:** Like you can't, like no timestamping on anything.
+**Marcel Santilli:** And so you can't really report to the board on like things that you normally would need to report to the board on, like your pipeline or like your funnel stuff, you know?
+**Justin Massey (Relay Hawk):** That sounds, they've got to have timestamps.
+**Justin Massey (Relay Hawk):** Okay.
+**Justin Massey (Relay Hawk):** All right.
+**Justin Massey (Relay Hawk):** Cool.
+**Justin Massey (Relay Hawk):** Thanks.
+**Marcel Santilli:** I, yeah, I, I was so annoyed when my VP of ops was like, we're going to switch.
+**Marcel Santilli:** So I was like, what, why?
+**Marcel Santilli:** It's like, and then that wasn't the only thing, but it was just mostly like some, some basic things that were, were very like, okay.
+**Marcel Santilli:** Like if you're using this as a, as a notion with more CRM stuff within, but then like, I think I'm just going to keep audio and use it as my personal CEO CRM because like my chief of staff and my EA need access to see like the interactions and have like places where we put notes on, on, on people on the network.
+**Marcel Santilli:** And, you know, I'm constantly networking and stuff.
+**Marcel Santilli:** So, you know, like, I might use it for that because HubSpot sucks for, like, the user experience.
+**Marcel Santilli:** But maybe you figure something else that we maybe missed, but I wasn't deeply involved in that decision, but I was kind of annoyed, but at the same time understood, you know.
+**Justin Massey (Relay Hawk):** Well, when I test it out, if I, I'm going to hit their API endpoints because I just will develop a basically UI on top of it or to integrate with our system.
+**Justin Massey (Relay Hawk):** And, like, I will, there's got to be timestamps in there.
+**Marcel Santilli:** Wow.
+**Marcel Santilli:** Please tell me if you find it.
+**Justin Massey (Relay Hawk):** me.
+**Justin Massey (Relay Hawk):** I will email you and like, timestamps in Adio.
+**Marcel Santilli:** And you'll be like, all right, cool.
+**Justin Massey (Relay Hawk):** Cool.
+**Justin Massey (Relay Hawk):** All right.
+**Justin Massey (Relay Hawk):** So I, Steph, I think it was Steph that introduced us.
+**Justin Massey (Relay Hawk):** You used to be CMO at DeepGram or everything.
+**Marcel Santilli:** Yeah, yeah, yeah.
+**Marcel Santilli:** But, well, before I jump in and do intro and stuff, I'd love to kind of hear your journey too.
+**Marcel Santilli:** And you're a background and I'm happy to do this.
+**Marcel Santilli:** Same too, in it helps.
+**Justin Massey (Relay Hawk):** Yeah, yeah, let's, so my family has been in the call center industry for 49 years, so I got my start being a call center agent when I was 16 years old, putting gas into my Ford Explorer, and I then did work as a cybersecurity researcher, did, actually before then I did, sorry, my computer's kind of freaked out, oh, we're good.
+**Justin Massey (Relay Hawk):** The, I, did IT work managing call center systems, phone switches, you know, we were doing before UiPath was a thing, we were like taking in emails, parsing them, dispatching them, like page duty style stuff for cell phone towers and stuff, saying, oh, you're, you they would send out alerts saying, the temperature in the data center is, you know, 78 degrees, you know, would send
+**Justin Massey (Relay Hawk):** We, you know, send out and, you know, then we would dispatch out.
+**Justin Massey (Relay Hawk):** Anyway, so did some of that work, left the call center space for a while, joined a startup.
+**Justin Massey (Relay Hawk):** There was a cryptography company in Atlanta.
+**Justin Massey (Relay Hawk):** Fast forward, joined Datadog, did work there, launched their first cybersecurity product, left after we had four products because I was just dog tired.
+**Justin Massey (Relay Hawk):** Um, and, uh, so, uh, I recuperated for a month and then decided to start my own thing because I wasn't tired enough.
+**Justin Massey (Relay Hawk):** So, here I am.
+**Justin Massey (Relay Hawk):** I was doing, I started out as a lifestyle business, um, three years ago doing, uh, cybersecurity for call centers.
+**Justin Massey (Relay Hawk):** Um, and that was before OpenAI released, uh, 3.5, uh, and, and then everything changed.
+**Justin Massey (Relay Hawk):** Um, and last November, I was still.
+**Justin Massey (Relay Hawk):** They did cybersecurity stuff, and I became known as the technologist in the call center.
+**Justin Massey (Relay Hawk):** Specifically, do you know telefinancing services?
+**Justin Massey (Relay Hawk):** Are you familiar with them?
+**Marcel Santilli:** Mm-hmm.
+**Justin Massey (Relay Hawk):** A bit.
+**Justin Massey (Relay Hawk):** It's just a market sizing.
+**Justin Massey (Relay Hawk):** It's a $1.5 billion revenue industry.
+**Justin Massey (Relay Hawk):** It's smaller compared to larger BPOs, larger call centers.
+**Justin Massey (Relay Hawk):** But I know everyone in that industry, and everyone knows me and sees me as a technologist and, like, kind of a pusher and breaker of things in the industry.
+**Justin Massey (Relay Hawk):** So someone called me up back in November and be like, hey, can you build us an AI agent, voice agent, and everything we've tried on the market sucks?
+**Justin Massey (Relay Hawk):** Please build us one that works well.
+**Justin Massey (Relay Hawk):** I was like, okay, I got, what I decided to do is teach a course on how to build your own AI agents, because I was like, I will get one-on-one time with customers, call centers, and we'll figure out, we'll build it to their use cases and kind of see what happens.
+**Justin Massey (Relay Hawk):** First tried it on Twilio, I mean, in the worst possible way I can think possible, looking back at everything, but it was me being naive and seeing how to do it.
+**Justin Massey (Relay Hawk):** And we got some working, but there were a lot of problems with it.
+**Justin Massey (Relay Hawk):** Then we switched over to SignalWire because I had met those guys.
+**Justin Massey (Relay Hawk):** A lot of the call centers run free switches in their system, and SignalWire is the maintainer of that open source project.
+**Justin Massey (Relay Hawk):** And then at the end of the course, everyone had AI agents that were up and running, and they were running successfully, and they needed things like, hey, how do we integrate this with our customer systems?
+**Justin Massey (Relay Hawk):** How do we bill our customers for this?
+**Justin Massey (Relay Hawk):** Because answering services are all outsourced, so they have to turn that AI agent revenue or turn that AI agent work into revenue that they bill their customers for.
+**Justin Massey (Relay Hawk):** So how do they integrate with their billing platforms?
+**Justin Massey (Relay Hawk):** How do you do warm handoff into the call center platforms when you need a human agent?
+**Justin Massey (Relay Hawk):** All those things.
+**Justin Massey (Relay Hawk):** So I was like, all right, I'll build this.
+**Justin Massey (Relay Hawk):** Let's go.
+**Justin Massey (Relay Hawk):** Let's build it.
+**Marcel Santilli:** So we did.
+**Justin Massey (Relay Hawk):** We were here today.
+**Justin Massey (Relay Hawk):** We have integrations with the two incumbents in the space.
+**Justin Massey (Relay Hawk):** We can send data into their APIs.
+**Justin Massey (Relay Hawk):** We have other ways to extract data if they don't have API access because they, for whatever reason, don't have it.
+**Justin Massey (Relay Hawk):** We have, you know, the ability to just build some, you know, build voice agents.
+**Justin Massey (Relay Hawk):** It's very, at a technology level, it's very similar to a BAPI or a live kit or a, you know, out of the box editor where you can just create your agents.
+**Justin Massey (Relay Hawk):** But where we're going, what we're doing is, you know, building very like agentic loops and conversational stuff.
+**Justin Massey (Relay Hawk):** So you can be like, what do you want to do today?
+**Justin Massey (Relay Hawk):** I need to add a new customer that's a property management company.
+**Justin Massey (Relay Hawk):** Okay.
+**Justin Massey (Relay Hawk):** Okay.
+**Justin Massey (Relay Hawk):** What are their top, you know, what are their use cases?
+**Justin Massey (Relay Hawk):** Do you have any call?
+**Justin Massey (Relay Hawk):** Recordings.
+**Justin Massey (Relay Hawk):** Okay, we transcribed those.
+**Justin Massey (Relay Hawk):** Okay, we see these common paths.
+**Justin Massey (Relay Hawk):** Let us build these for you.
+**Justin Massey (Relay Hawk):** And we build them all out.
+**Justin Massey (Relay Hawk):** And we can do it, you know, with no solution engineer involved.
+**Justin Massey (Relay Hawk):** And it just builds it.
+**Justin Massey (Relay Hawk):** And lately, the work I've been doing is all around AI evaluations and saying, okay, we have the system prompt done.
+**Justin Massey (Relay Hawk):** I can actually demo to you.
+**Justin Massey (Relay Hawk):** I have it where I can show it to you in just a sec.
+**Marcel Santilli:** That's awesome, dude.
+**Marcel Santilli:** Well, yeah, I mean, I'd love to learn more because, you know, anyways, I'll tell you a little bit on my end too.
+**Marcel Santilli:** But that's definitely evals.
+**Marcel Santilli:** We definitely need to, there's a lot of stuff to figure out just for the belly.
+**Justin Massey (Relay Hawk):** Yeah.
+**Justin Massey (Relay Hawk):** So anyway, that's us.
+**Justin Massey (Relay Hawk):** We sell to outsourced call centers.
+**Justin Massey (Relay Hawk):** We'll sell to anyone that's in-house, but our go-to-market.
+**Justin Massey (Relay Hawk):** Like, you know, the tech underneath is going to be this similar for outsourced, but it's the go-to-market that I'm like, hey, this is our go-to-market.
+**Justin Massey (Relay Hawk):** I know this, I know this channel.
+**Justin Massey (Relay Hawk):** I know like people, my pipeline is
+**Justin Massey (Relay Hawk):** It's massive.
+**Justin Massey (Relay Hawk):** I just can't bring them on yet.
+**Justin Massey (Relay Hawk):** Cause we're not quite ready to just, you know, you know, put everyone on board.
+**Justin Massey (Relay Hawk):** Um, but like everyone, everyone in that space is like begging for access to this.
+**Marcel Santilli:** So that's, that's, So many questions to ask, but happy to do a quick background too, if you think would be helpful.
+**Justin Massey (Relay Hawk):** Yeah.
+**Justin Massey (Relay Hawk):** Just, I mean, just a, just a tiny bit, I guess.
+**Marcel Santilli:** Uh, yeah.
+**Marcel Santilli:** Yeah.
+**Marcel Santilli:** So, um, let's see, was just had a marketing growth of multiple companies.
+**Marcel Santilli:** Um, and, uh, early on career started building a lot of kind of like content programs to turn brands into more like publishers.
+**Marcel Santilli:** And so like, that was like kind of part of how it started.
+**Marcel Santilli:** And then was, uh, leading growth for HashiCorp went public service site and ended up going public, built a lot of the team there.
+**Marcel Santilli:** And then, uh, eventually it was that Skelly I was their first and last CMO for two years.
+**Marcel Santilli:** Um, I don't know if it was a good thing or a bad thing, but a crazy company.
+**Marcel Santilli:** Um, and, and then it was a deep ground CMO.
+**Marcel Santilli:** So for almost two years, and then part of, while I was there, I started building workflows to just, like, take a lot of my processes of how I would build content, and content strategy, and things like that, and start putting, like, humans in the loop.
+**Marcel Santilli:** We ended up 24 hours in your traffic, and growing like crazy, and so then I started teaching courses, workshops.
+**Marcel Santilli:** It was just five-hour Zoom, pretty much.
+**Marcel Santilli:** People paid $500, and I was just teaching them, and then after the first one, people were like, hey, can they just pay you to help me do strategy, workflow?
+**Marcel Santilli:** So adapting to these workflows, and then maybe some humans in the loop to help do the grunt work, and I was like, yeah, this one's good.
+**Marcel Santilli:** So I took on two, and then I did another workshop, that became six, did another workshop, that became 12, and I was like, oh, , we're almost a million and a half in revenue, I should quit my job.
+**Marcel Santilli:** And then I did, and partnered with my CTO and co-founder, who was, used to be, had a product in engineering at IFT, this, then that, IFT, back in the day, like, workflow automation, like, a precursor to Zapier, essentially.
+**Marcel Santilli:** And then...
+**Marcel Santilli:** And yeah, and then we decided to go all in on building a platform to power our services, which is mostly like content and marketing, you know.
+**Marcel Santilli:** And then what we built under the hood is mostly like a coding agent that takes a plan and creates workflows, whether it's deterministic or agentic with tool calling, knowledge base, you know, like retrieval, things like that.
+**Marcel Santilli:** And then a runtime layer and an execution layer.
+**Marcel Santilli:** And then almost kind of like an OS on top of that for our people to do the work for each client.
+**Marcel Santilli:** And kind of manage everything end to end.
+**Marcel Santilli:** And, and yeah, and then we just kept scaling.
+**Marcel Santilli:** And so we officially this week crossed a little over 10 million in revenue and we're like 70 employees and we were bootstrapped.
+**Marcel Santilli:** But in February, as we were growing, the numbers started getting kind of scary.
+**Marcel Santilli:** So I decided to raise a series A, you know, mostly like even in your profitable site, being bootstrapped is really risky as well.
+**Marcel Santilli:** You know, when you're growing fast.
+**Marcel Santilli:** so unless you start turning.
+**Marcel Santilli:** Down business like left and right, then it's kind of like, yeah, good luck.
+**Marcel Santilli:** And also it's really hard to attract like really, really, really, really good principal engineering talent from companies that are like more established because they're just like, okay, you're bootstrapped.
+**Marcel Santilli:** There's only one person that's going to benefit from, you know, this thing.
+**Marcel Santilli:** Well, it's you.
+**Marcel Santilli:** And so, yeah, we raised the Series A from Madrona and now we're, might raise the Series B next month or the following.
+**Marcel Santilli:** And and yeah, we're like 70 employees, which is insane.
+**Marcel Santilli:** I wish we were less, but we're lean and efficient, but it's kind of like, you know, it's always a nice balance.
+**Marcel Santilli:** But so it's been, it's been fun, crazy and hard and I have a two-year-old at home.
+**Marcel Santilli:** And so it's been, you know, two, two babies at the same time.
+**Justin Massey (Relay Hawk):** Nice.
+**Justin Massey (Relay Hawk):** It's fun to see rapid growth like that.
+**Justin Massey (Relay Hawk):** Like that's, that's, I that's always a fun thing.
+**Justin Massey (Relay Hawk):** I can't imagine being the CEO, but I was, I joined Datadog.
+**Justin Massey (Relay Hawk):** 500 employees.
+**Justin Massey (Relay Hawk):** by the time I left, we had over 5,000.
+**Justin Massey (Relay Hawk):** It's like, it's really cool to like be a part of a, you just see like, like things catching fire and you're like, okay, like it's a good, it's a fun feeling, but I can't imagine.
+**Justin Massey (Relay Hawk):** Like I'm hoping I'm going to feel that very soon.
+**Justin Massey (Relay Hawk):** I feel it on the sense of like the demand.
+**Justin Massey (Relay Hawk):** I just haven't seen it in the forms of revenue yet.
+**Justin Massey (Relay Hawk):** So yeah, we're just early.
+**Marcel Santilli:** Cool.
+**Marcel Santilli:** I, I think you're probably onto something cause I, from being a deep gram, I started our startup program.
+**Marcel Santilli:** And so I definitely got to see a little over 300 different voice AI startups under the hood a little bit, you know, not fully, but you know, just enough to know, like the questions that they were asking, the things they were trying to figure out.
+**Marcel Santilli:** And we built a little Slack community between themselves.
+**Marcel Santilli:** And, and, and and then Vappy was a client.
+**Marcel Santilli:** We did some work from them this year.
+**Marcel Santilli:** We're not actively working with them right now.
+**Marcel Santilli:** I'll say, I'll
+**Marcel Santilli:** I got to see a little bit of that business and the things they're struggling with.
+**Marcel Santilli:** doing well, but also some of the things they're trying to figure out.
+**Marcel Santilli:** And so I think how you described that you went about it is exactly how I would have gone about it if I decided to do what you're doing.
+**Justin Massey (Relay Hawk):** So that's pretty cool, man.
+**Justin Massey (Relay Hawk):** Thanks, yeah.
+**Justin Massey (Relay Hawk):** I have a bunch of questions I could ask.
+**Justin Massey (Relay Hawk):** I guess, how can, let's figure out how we can, like, what's going be mutually beneficial for both of us?
+**Justin Massey (Relay Hawk):** Because there's probably things both ways that we can help.
+**Justin Massey (Relay Hawk):** I mean, we could also definitely chat just, you know, endless hours, I'm sure.
+**Justin Massey (Relay Hawk):** But I guess what's, initially, what's on your mind?
+**Justin Massey (Relay Hawk):** Is there things that I can help you with?
+**Justin Massey (Relay Hawk):** And then I can mention a couple of things on my side as well.
+**Marcel Santilli:** No, I think for me, like, honestly, Stephanie was just like, hey, you should talk.
+**Marcel Santilli:** Talked to Justin, and for me, I always believe in giving more than I take, and so anything that can be helpful, I think probably since you mentioned evals, it's probably anything that you're learning along the way there, and then maybe there's an opportunity to chat with my CTO as well, or one of our engineers or something, if there's things that you're like, whoa, I spent so much time on this, happy to share, and vice versa on our end as well.
+**Marcel Santilli:** We have, but other than that, just happy to connect and try to be of any value if I can.
+**Justin Massey (Relay Hawk):** Yeah, yeah.
+**Justin Massey (Relay Hawk):** I mean, for me right now, like, we're raising money, and some of the feedback we're getting, I'm trying to understand how much to weigh in, like, how much to, how much should I take?
+**Justin Massey (Relay Hawk):** So the target market we're selling into is answering services.
+**Justin Massey (Relay Hawk):** And that's, you know, if you look at it, it's a billion and a half revenue a year, and they charge on average like a buck and a half per minute.
+**Justin Massey (Relay Hawk):** So that gets you a billion minutes a year, right?
+**Justin Massey (Relay Hawk):** So if I say that today, 30% of those calls could be handled with AI, you know, you get to, okay, there's $300 million in revenue if you count the same price for the voice AI product.
+**Justin Massey (Relay Hawk):** But that's not really the case.
+**Justin Massey (Relay Hawk):** And then, but in two or three years, that number will go from 30% of serviceable to like 70%, right?
+**Justin Massey (Relay Hawk):** So like, I think we're going to see this grow in serviceable minutes.
+**Justin Massey (Relay Hawk):** But the VCs, you know, see this as a, one, some of them see it as a shrinking market, which...
+**Justin Massey (Relay Hawk):** I think it's the wrong way to think about it because they say things like, you know, you're selling to outsourced companies.
+**Justin Massey (Relay Hawk):** Why would you, like, why don't you go directly to their customers and sell to them, right?
+**Justin Massey (Relay Hawk):** Why don't you build a vertical SaaS and go sell that?
+**Justin Massey (Relay Hawk):** I'm like, well, I don't, so I get that part of it.
+**Justin Massey (Relay Hawk):** I mean, and that's pretty much it.
+**Justin Massey (Relay Hawk):** It's like, I'm like, also, this is just our start.
+**Justin Massey (Relay Hawk):** This is where we start.
+**Justin Massey (Relay Hawk):** And then we will, we will figure out where to go next.
+**Justin Massey (Relay Hawk):** Like, I have some inbound leads coming in that are, or in-house call centers.
+**Justin Massey (Relay Hawk):** So I guess my, my question for you, since you've kind of seen it at DeepGram and you've talked to these other startups, in, is, am I targeting like the right market?
+**Justin Massey (Relay Hawk):** Like, or like, is there, maybe how would you message it or maybe talk to VCs about that and like help them understand?
+**Marcel Santilli:** I mean, I guess first, tell me if I, tell me if I'm wrong.
+**Justin Massey (Relay Hawk):** Yeah.
+**Justin Massey (Relay Hawk):** Yeah.
+**Marcel Santilli:** I think I have a contrarian opinion, meaning it's not contrarian to you, contrarian to the VCs, it sounds like, that you're talking to, or agreeable to how I would approach it.
+**Marcel Santilli:** But the, what worked for us was, I'm solving my pain.
+**Marcel Santilli:** And, and, and so, whereas a lot of sets, a lot of tools, they go for the lowest common denominator and the least friction in the, in, you know, and that can work, sure.
+**Marcel Santilli:** But, but like, for me, I was like, give me the messy, give me the  that no one else wants to touch, you know, because it's hard.
+**Marcel Santilli:** And let me deliver as a service, and I'll  do it.
+**Marcel Santilli:** And, and then, but I also like charge as a service, too.
+**Marcel Santilli:** And because I'm taking on all the messy, I'll work backwards to what I need to build, and, and I'll, I'll get it done in any way possible.
+**Marcel Santilli:** And then over time, I'll figure out if there's a platform play and how the platform play should look like, and what are the components I can start to replace.
+**Marcel Santilli:** And now it might start with like honestly like coded, hard-coded like workflows with AI steps and then over time might become agentic loops and maybe I need to build some evals here or maybe I need to, you know, have a fallback system or maybe I need to have some like, you know, like figure out like maybe I use Vappy for this one little thing, you know, that might be okay for temporarily.
+**Marcel Santilli:** But then I figure out that, hey, Vappy didn't scale, like  this, like I'm going to do that or like, hey, how do I do retrieval?
+**Marcel Santilli:** Oh shoot, how do I do the moderation later?
+**Marcel Santilli:** How do I, right?
+**Marcel Santilli:** Like you're piecing all those things together versus if you start as like a Vappy, you're starting at such a like shallow level or if you're starting as a CSS or whatever that you're always going to be the like cool demo and that's what they're struggling.
+**Marcel Santilli:** Like they're trying to go enterprise, right?
+**Marcel Santilli:** Like so by you starting with the massiest one and then like the way I see it is like you're taking the Harvey AI approach.
+**Marcel Santilli:** don't know if you studied them or you should.
+**Marcel Santilli:** Go listen to every  interview from their CEO.
+**Marcel Santilli:** So, you know, and the way they approached was like, hey, I'm going go after the, like, the hardest  law firm out there that's going to give me the authority and the trust with everybody else in the ecosystem, and I'm going to actually co-sell with them.
+**Marcel Santilli:** So it's like, for you, you're going after a dying business that actually needs help to co-sell and be seen as an AI business.
+**Marcel Santilli:** So you can be their savior, but in some ways, and I think, right, like, I could be wrong here, you know more than me, but then that doesn't prevent you from going after any other opportunity.
+**Marcel Santilli:** That just goes after the hardest one to figure it out, but you're doing it with someone that still has money and is heavily invested in figuring out because it's existential, right?
+**Marcel Santilli:** And I think that's the struggle we saw with, like, the Five Nines of the world or even, like, Twilio or others that were customers of DeepGram, and even, like, and we had some that were, like, in-house contact center.
+**Marcel Santilli:** That were good customers, but man, like they had a massive engineering team, you know, so it's unrealistic to expect, I think, any in-house team to go figure this out and figure out what to replace.
+**Marcel Santilli:** And so they don't want it.
+**Marcel Santilli:** It's just like all the systems within contact centers, right?
+**Marcel Santilli:** Like they're so ingrained.
+**Marcel Santilli:** It's so hard to like pick apart different layers or, you know, so, and no one is just going to take this messy  thing and just one day just be like, like, that's not how it works, right?
+**Marcel Santilli:** Like, like, so they're chipping away at this lowest common denominator, trying to change their behavior.
+**Marcel Santilli:** And so, I don't know, like solve for revenue and sign up to do the messy work and then work backwards on what you need to build.
+**Marcel Santilli:** But then you're building after revenue.
+**Marcel Santilli:** So you don't have to worry about product market fit because people are paying you to figure it out.
+**Marcel Santilli:** And then you figure out what to build that will make you serving that services easier.
+**Marcel Santilli:** That's how I did it, right?
+**Marcel Santilli:** Like, so it sounds like a little bit familiar, similar pattern that, that.
+**Marcel Santilli:** It seems you started with Fathom.
+**Justin Massey (Relay Hawk):** Yeah, I think the one difference I've gone and I'm thinking that, you know, we might should change this and we started out doing those courses, we did that course, and then I switched to, okay, I know now basically what I need to build, I know I need this foundational thing that kind of looks like BAPI to give me the flexibility to do all this kind of stuff.
+**Justin Massey (Relay Hawk):** And then we're charging per minute for their calls on the usage, right?
+**Justin Massey (Relay Hawk):** Because that's how they think, because that's how they sell their product.
+**Justin Massey (Relay Hawk):** So we're selling it on the usage and we're not necessarily doing the professional services to get them there.
+**Justin Massey (Relay Hawk):** So for me, it's the thing that's forcing me to do is think about this as a, basically, how can I create like an agentic loop and just use AI to build this stuff more quickly?
+**Justin Massey (Relay Hawk):** So that I can do it as a very lean organization and we're not selling.
+**Justin Massey (Relay Hawk):** Professional services, but I think your point is, it's like, hey, go collect that cash up front, find the people who are willing to do that, and build that out for them, very, very bespoke for that one company, and then back away, and then look back and say, okay, this, we can turn it into a platform, this part is just going to have to remain custom for the foreseeable future or whatever.
+**Marcel Santilli:** Yeah, it's not that there's a right or wrong, it's just that if there's no network effects, and you need usage, need data, and you need, like, proof, and you need trust, and you need credibility, and you need, like, you know, money, you know, which, because then revenue means valuation, means, you know, capital, means leverage, whatever, I think there's a fine line of trying to be that one person, or super lean, or no services, and I don't know, like, I don't think services that ...
+**Marcel Santilli:** It's if you approach it from a good first principles, right?
+**Marcel Santilli:** Like, I don't know, there's things that I'm just like, I can just do a really good job hiring people and, you know, and I don't think it's that hard.
+**Marcel Santilli:** And if you say yes to one thing and you already have the agent, sure, it won't be full hands off, but it also won't be you hiring an army of expensive  engineers either, you know?
+**Marcel Santilli:** Like, right.
+**Marcel Santilli:** And so, so I don't think the alternative, if it means adding a zero threat, like the way I think about it is like, if you take what we do today, our average deal size is 200 grand a year.
+**Marcel Santilli:** And most of our deals close in like a week or two.
+**Marcel Santilli:** And, and we do like one or two 30 minute meeting.
+**Marcel Santilli:** Right.
+**Marcel Santilli:** And, and like our gross margin is like 70%.
+**Marcel Santilli:** So it's like, that's not a bad service to have, man.
+**Marcel Santilli:** If you're at 70%, you know, and your deal size is like that good, but it closes that fast because it's services.
+**Marcel Santilli:** It wouldn't close that fast if it was.
+**Marcel Santilli:** And if it was softer, I would be lucky if I was getting 200 to 2,000 a month instead, you know?
+**Marcel Santilli:** So it's like, I just removed two to three zeros from the , you know?
+**Marcel Santilli:** It's like, damn, that sucks.
+**Marcel Santilli:** Like, you know?
+**Justin Massey (Relay Hawk):** Yeah.
+**Justin Massey (Relay Hawk):** Yeah, the other part of the equation, and if we add zeros to this, it's kind of a forcing function to kind of solve this.
+**Justin Massey (Relay Hawk):** So maybe your answer's the same, but we have, the way we've, the way I thought about this at first, just to pick up just a little bit is, all right, we'll charge you per minute, and we'll charge you, we'll give you credits as every other AI company does, right?
+**Justin Massey (Relay Hawk):** But we're going to, in order for us to get cash flow, we say, okay, you can buy all your credits up front, and the more credits you buy, the cheaper discount you're going to get them.
+**Justin Massey (Relay Hawk):** So that gives us cash flow, right?
+**Justin Massey (Relay Hawk):** So we're like, hey, buy all your credits now, like, and like, you know, and we will start, we'll start implementing this with you, right?
+**Justin Massey (Relay Hawk):** So, but you may not, you may not.
+**Justin Massey (Relay Hawk):** Use those credits until three months, six months down the road.
+**Justin Massey (Relay Hawk):** The problem with that is that there's no urgency or incentive for the customer to deploy it faster and get it done.
+**Justin Massey (Relay Hawk):** So their urgency has to be that their customers are either leaving because they're going to a cheaper AI alternative or that they want to improve operational efficiency, which both are really good incentives to do it.
+**Justin Massey (Relay Hawk):** But we are seeing it's a little bit slower for them to go to market because they have to go out and, you know, have their – they're the outsource call center, right?
+**Justin Massey (Relay Hawk):** So they have to go in and, like, say, we're going to sell this new AI as a new line item instead of a human operator picking it up.
+**Justin Massey (Relay Hawk):** And they have to – are they going to charge the same price?
+**Justin Massey (Relay Hawk):** Or when call volume peaks, are they just going to use it then?
+**Justin Massey (Relay Hawk):** So they have to, like, kind of think through all these different scenarios.
+**Justin Massey (Relay Hawk):** So it's almost like I'm building this massive flywheel and it's just going to take really long.
+**Justin Massey (Relay Hawk):** Maybe not – maybe – but it'll take a longer.
+**Justin Massey (Relay Hawk):** For it to unload, rather than selling it directly to, you know, someone that is like an in-source call center, that they're replacing their humans with this.
+**Marcel Santilli:** I mean, if you have the relationships, right, like, do you have revenue now?
+**Justin Massey (Relay Hawk):** Tiny, but yes, tiny.
+**Marcel Santilli:** Is it tiny because you haven't gotten deployed?
+**Justin Massey (Relay Hawk):** So, we have every one of our initial customers deployed, their initial use cases, we want to test this internally, and we want to have our employees when they, because they're all, they have call centers, right?
+**Justin Massey (Relay Hawk):** So, when someone's calling out sick, they have people call out sick all the time.
+**Justin Massey (Relay Hawk):** So, we take that call for them, then we put it into their system, and then we notify their manager and let them know.
+**Justin Massey (Relay Hawk):** So, it's like just a very easy use case for them to test out on.
+**Justin Massey (Relay Hawk):** Now, we get those deployed, but that usage is really low.
+**Justin Massey (Relay Hawk):** So, then they have to take that and say, okay, now we're going to go and sell it into a property management company.
+**Justin Massey (Relay Hawk):** And it's a property management company.
+**Justin Massey (Relay Hawk):** It's going to, you know, we'll take these calls for them and front them with the AI.
+**Justin Massey (Relay Hawk):** then when the AI either can't handle it or, you know, they want to specifically send it to the human, say like a person stuck in the elevator or a person is locked out of their apartment.
+**Justin Massey (Relay Hawk):** They're like immediately go to a human and we just route them to a human.
+**Justin Massey (Relay Hawk):** If it's the maintenance request, you know, we take all that information on the AI.
+**Justin Massey (Relay Hawk):** So they are deploying it internally.
+**Justin Massey (Relay Hawk):** They have no problem with that.
+**Justin Massey (Relay Hawk):** But then it's like, how do they get the confidence to go in and deploy it and add the line items and all that stuff?
+**Marcel Santilli:** That's the issue.
+**Marcel Santilli:** Got it.
+**Marcel Santilli:** Can you compete with them?
+**Marcel Santilli:** Can you just like be the contact center?
+**Marcel Santilli:** And then you, you're a mix of humans in your own.
+**Justin Massey (Relay Hawk):** the, that's the, that's the question kind of like, like we could do, like, you could honestly, you could honestly do a PE rollup.
+**Marcel Santilli:** they're and they're not, and you're throwing them a lifeline and they're not  taking the lifeline fast enough.
+**Marcel Santilli:** They're like, hold on, let me go grab a cup of coffee first and I'll come grab the lifeline.
+**Marcel Santilli:** It's like.
+**Marcel Santilli:** Oh,  off then.
+**Justin Massey (Relay Hawk):** You know, it's like, honestly, that's where I'm at.
+**Marcel Santilli:** Like, then they deserve to die, right?
+**Marcel Santilli:** Like, unfortunately, but fortunately.
+**Marcel Santilli:** And so you're, I mean, if I was in your shoes, I don't have all the context I've got.
+**Marcel Santilli:** I have to shortcut a little bit, you know, so it could be wrong, is like, be aggressive and be like, look, here's the deal.
+**Marcel Santilli:** You're going to die.
+**Marcel Santilli:** Like, there is no scenario where you don't cease to exist.
+**Marcel Santilli:** So you have two choices.
+**Marcel Santilli:** You can be the first one in your entire industry to be 100% AI native and adopt and embrace that.
+**Marcel Santilli:** And we can co-sell and we can both be wildly  successful or, like, you can do nothing and someone else will.
+**Marcel Santilli:** So it's your choice.
+**Marcel Santilli:** But what you can do is be at 0.1% of your call volume with AI and be charged with the same thing.
+**Marcel Santilli:** What you can do is figure out as aggressively as possible how to eat your own business.
+**Marcel Santilli:** So you can be the first one to charge half of the cost to your customers.
+**Marcel Santilli:** cost cost cost of of you.
+**Marcel Santilli:** And then eat the whole industry.
+**Marcel Santilli:** And then you have an actual chance of being successful and still making some money for the next 10 years.
+**Marcel Santilli:** You know, like some version of that.
+**Marcel Santilli:** And then if like after the Hail Mary that doesn't work, then it's like I would just like if you have any capital, anything at all, it's just like start as a small niche, you know, like thing of just being like, you know what, I'm going to be a little contact center.
+**Marcel Santilli:** I'm going to go, you know, cold call to 10 property management companies and earn their business for contact center.
+**Marcel Santilli:** And, or just one that has a hundred locations and be like, we'll do it for one 10th of the cost.
+**Marcel Santilli:** And you eat up that cost until you figure out how to automate it.
+**Marcel Santilli:** And then you, you know, or you  say like, I'll do it almost for free.
+**Marcel Santilli:** Let me handle all your calls, you know, like, and then like you just build a business from there.
+**Marcel Santilli:** And then once you have one or two of those, then, then I think, but I just don't know like the, the details on like how desperately you need capital versus how much you can, you know, go, go figure that out.
+**Marcel Santilli:** Because.
+**Marcel Santilli:** It gives you a much better leverage on everything else, you know?
+**Justin Massey (Relay Hawk):** Yeah.
+**Justin Massey (Relay Hawk):** We're actually seeing General Catalyst did something like this in this market.
+**Justin Massey (Relay Hawk):** They went out and bought a call center.
+**Justin Massey (Relay Hawk):** It's called Crescendo.
+**Justin Massey (Relay Hawk):** And they're doing – we haven't seen them come up in any of our – our customers haven't mentioned losing any customers to Crescendo.
+**Justin Massey (Relay Hawk):** But it is actively being done by GC.
+**Justin Massey (Relay Hawk):** And, you know, who knows who's next?
+**Marcel Santilli:** So maybe buying a small one is better, you think?
+**Justin Massey (Relay Hawk):** Yeah, because you get – with that, at least, you get the – like, you get the existing customers, and you can just roll it out to them.
+**Justin Massey (Relay Hawk):** And, like, your margins – you're just going immediately get to improve your margins, you know, if done well, right?
+**Marcel Santilli:** mean, like – Do you have any contacts on any of these people that you'll be like – if you say, hey, give me 10% of your calls for a month, and let's measure based on this.
+**Marcel Santilli:** And if after this, like, doesn't work, you don't pay me anything.
+**Marcel Santilli:** If after a month it works, then keep paying, you know, 50%.
+**Marcel Santilli:** I what you're currently paying with people.
+**Justin Massey (Relay Hawk):** Yeah.
+**Justin Massey (Relay Hawk):** I mean, I know these call centers very well, so I definitely have some people that I could do that with.
+**Marcel Santilli:** Yeah, like I would try to just do whatever heroic or whatever thing you need to do to like kind of make that work, you know, if it really doesn't even with the relationships and it's like, it's a no go as a market, you know, like, I certainly use my relationships to, to, mostly for me was like, the, I use the workshops as a way to teach people how to do what I was doing.
+**Marcel Santilli:** And then they realized like, , I can't do this.
+**Marcel Santilli:** And then I charge per month to do.
+**Justin Massey (Relay Hawk):** That's what, that's why I did.
+**Marcel Santilli:** And so, so then like, just keep doing more consulting and, or, you know, like there's gotta be some, some hook there.
+**Marcel Santilli:** It's either like, I'm going to do a, be a very expensive consultant and then I figure out how automate myself or, you know, and, and pass through usage or something, you know.
+**Marcel Santilli:** And kind of leave it behind as a platform or if you're going to do it on usage-based and you just kind of eat the whole industry or you co-sell with them like Harvey did with lawyers and found things that were kind of like no-brainers.
+**Marcel Santilli:** You know, I think it's too crowded in the space of like if you go be like the n-string service for restaurants, like the, you know, verticalized version that a restaurant can just sign up directly, that's way too hard I think right now, you know, at this stage of the game.
+**Marcel Santilli:** I think the  you're figuring out is the  that most people haven't figured out, you know, that, you know, that I don't think a vappy would figure out either, you know.
+**Marcel Santilli:** Yeah.
+**Justin Massey (Relay Hawk):** Well, it's a lot of food for thought.
+**Justin Massey (Relay Hawk):** I, I, I'm getting more, I'm getting more bullish on the fact of buying answering service.
+**Justin Massey (Relay Hawk):** Like my family owns one, so I have this like conflict of interest a little bit.
+**Justin Massey (Relay Hawk):** Uh, uh, so I got to deal with it.
+**Justin Massey (Relay Hawk):** Family dynamics there, but honestly, like, I will still sell my family calls that are access to this AI stuff.
+**Justin Massey (Relay Hawk):** Like, I'm not going to, like, say, no, you can't have it.
+**Justin Massey (Relay Hawk):** I'm not going to sit there and post their customers, like, but, like, someone, you've got to, we've got to get on this game.
+**Marcel Santilli:** There's, there's nothing to be made here.
+**Marcel Santilli:** I mean, if you just had a contact center, you own a contact center end-to-end, what would you do?
+**Justin Massey (Relay Hawk):** I, I mean, first thing, it's, like, I would try to find a contact center that had very similar kind of accounts, like, you know, do you focus on property management?
+**Justin Massey (Relay Hawk):** Because some of these companies just focus on, like, every single vertical, and their generalists will just take anyone that comes in their way.
+**Justin Massey (Relay Hawk):** So finding the contact center that has a couple, like, very core niche industries, and then go build the agents, like, like, go, go analyze the call flows, go, go manage that.
+**Justin Massey (Relay Hawk):** And, like, all right, we're going to.
+**Justin Massey (Relay Hawk):** We're going to just say, all right, we're dropping your costs like 80% if you're using this AI stuff or whatever, whatever that ends up being.
+**Justin Massey (Relay Hawk):** And then just go like force deployed on the customers and just see where it fails and roll it out.
+**Justin Massey (Relay Hawk):** Roll it out one customer one week, next customer next week.
+**Marcel Santilli:** That's what I was saying, right?
+**Marcel Santilli:** So if you go to ones that you already have a good relationship with and you say, or your family one, say, hey, here's one of your customers.
+**Marcel Santilli:** It's not, he or she is not the biggest one or the smallest one either.
+**Marcel Santilli:** It's just one property management company, you know, it's paying you whatever, a month.
+**Marcel Santilli:** Why don't we go to them and say, hey, we want to do a test with you.
+**Marcel Santilli:** Would you be open to doing 50% of your calls throughout AI agents and as an experiment?
+**Marcel Santilli:** This will, and if it works and you're happy with it, this will save you 50% of costs and have way better availability.
+**Marcel Santilli:** And what we've seen in, in small tests is that actually that status, like customer satisfaction is way better or whatever.
+**Marcel Santilli:** Like the.
+**Marcel Santilli:** The CSAT score, whatever the  you want to, you guys measure, I don't know, I forget the name, the terminology.
+**Justin Massey (Relay Hawk):** CSAT, yeah.
+**Marcel Santilli:** Yeah, like, the, because like, I feel like cost cutting alone doesn't always do it, right?
+**Marcel Santilli:** Because it's like, oh, okay, sure, it's already not that expensive, like, okay, like, why would I care?
+**Marcel Santilli:** You know, especially if you're small.
+**Marcel Santilli:** If you're massive, then you care, but like, if you're small, you don't care about saving 500 bucks a month or 1,000 bucks a month.
+**Marcel Santilli:** don't know how big it is, right?
+**Marcel Santilli:** Like, and like, if you have 100 properties, you can't possibly be getting more than like, I don't know, 10,000 minutes a month in calls.
+**Marcel Santilli:** Like, I don't know, right?
+**Marcel Santilli:** Like, so it's like, how much money can you possibly save by paying, instead of 150 an hour, paying, you know, a dollar an hour or 50 cents an hour, you know?
+**Marcel Santilli:** Like, so they're not incentivized.
+**Marcel Santilli:** They would be incentivized if the experience is way better, you know?
+**Marcel Santilli:** And it's actually a selling point to them, you know, of like, like a cool thing.
+**Marcel Santilli:** And that's what Harvey did.
+**Marcel Santilli:** was just like, it became a feature.
+**Marcel Santilli:** you.
+**Marcel Santilli:** Not a cost-cutting thing.
+**Marcel Santilli:** then it helps law firms get more revenue.
+**Justin Massey (Relay Hawk):** You know, I just thought as soon as you're saying this, I think people are just fearful that they're going to lose that revenue, at that customer, even if it's a small customer.
+**Justin Massey (Relay Hawk):** These companies just, they do worry about every freaking penny coming in.
+**Justin Massey (Relay Hawk):** I mean, I could probably be like, I don't know, if you lose this customer, we'll buy that contract out for you or something like that.
+**Justin Massey (Relay Hawk):** They come up with something, I don't know.
+**Marcel Santilli:** Or do that.
+**Marcel Santilli:** Why don't you go to them and say, hey, I don't want buy your company, I want to buy this contract out for me.
+**Justin Massey (Relay Hawk):** Yeah.
+**Marcel Santilli:** What do you want for this contract out?
+**Marcel Santilli:** Or  it, just go figure out who they are and just go post them, you know?
+**Marcel Santilli:** And go do one client.
+**Marcel Santilli:** Like, do you have the infrastructure to do one client?
+**Marcel Santilli:** I mean, like,  it, like hire three people, you know, in your living room kind of thing, you know?
+**Marcel Santilli:** I mean, it's not that hard to get like two people to, you know, and do a call set.
+**Justin Massey (Relay Hawk):** I mean, honestly, I could also do a kind of a reverse way where I use one of these companies as my human call center and fail back over to them, and I'm throwing them revenue, and I, so I don't have to hire, I'm just using them, like, hey, we're just going to call, we're having to set up accounts on your system, and I'll that to my family, like, hey, you take these customers for me, we'll handle the AI, we'll patch them over to you, you know, if we need.
+**Marcel Santilli:** Yeah, solve for revenue, and, and if you can't solve for that, even with relationships, then I think I would pivot towards a different business model.
+**Marcel Santilli:** There's definitely a need, and the usage is shifting, and it's not an easy thing to integrate, you know, but, but yeah, well, hopefully that was helpful.
+**Marcel Santilli:** Yeah, and if there's anything on the eval side that you're like, I got to run here in a minute, but, but, but if there's anything that you're, you're kind of thinking.
+**Marcel Santilli:** But honestly, like right now, we're, yeah, maybe you can do a TLDR on like kind of anything you've kind of thought through on the eval side or, and that might help as far as like internally, like I can make an intro to someone on our side, but most likely our CTO at some point, you know, but yeah.
+**Justin Massey (Relay Hawk):** Yeah, I mean, right now, the way we're doing evals, we have two kinds of evals, and then you can apply this to your own thing, kind of think about how it applies, but we have our post-conversation evals, the one that happened, okay, the call did this, the AI agent, we know that we can provide like what we think should happen, so that's like quality assurance on it.
+**Justin Massey (Relay Hawk):** And then we have the evals that happen, we'll generate synthetic data, we'll be like, here's, here's a, here's a caller you need to simulate, and here, you know, so we'll have the LLM talk to another LLM to generate just a fake phone call, and then.
+**Justin Massey (Relay Hawk):** We'll do AI evaluations on top of that.
+**Justin Massey (Relay Hawk):** So we'll say, all right, they said their name was John.
+**Justin Massey (Relay Hawk):** Did we actually extract John from there and make sure that John is correct?
+**Justin Massey (Relay Hawk):** Did we extract the phone number correctly?
+**Justin Massey (Relay Hawk):** Did, if it was an emergency, like the elevator issue, did we actually transfer to a human?
+**Justin Massey (Relay Hawk):** And we can actually do the evaluation saying, how do we make that function call correctly?
+**Justin Massey (Relay Hawk):** Um, and then, uh, on those, we can also do like the same kind of like, uh, we're doing evaluations on like the transcript.
+**Justin Massey (Relay Hawk):** So it's just like, did, you know, did the AI act the way we thought it would?
+**Justin Massey (Relay Hawk):** they, did they, you know, we, we set the criteria that we want for quality assurance and just also apply that to that.
+**Justin Massey (Relay Hawk):** Um, and the part that I'm going to have difficulty evaluating, which is where my head's going to go in about a couple of weeks, I I'm going to have where you can like, you know, just in the agent, be like, build me this prompt.
+**Justin Massey (Relay Hawk):** Build me this voice agent for a property management company and think hard about this problem.
+**Justin Massey (Relay Hawk):** The whole thinking and planning and doing all that, that's the part that I haven't figured out the evals for.
+**Justin Massey (Relay Hawk):** We have the evals running on these simulations, which is incredible because we can test, hey, we want to switch from this more expensive model to this cheaper model, and we can just run our eval suite, and all our customers are running evals, so we know how they, how it's going to impact, you know, can we switch to the cheaper model?
+**Justin Massey (Relay Hawk):** Yes, we can, confidently.
+**Marcel Santilli:** Yeah, that's, that's, that's awesome.
+**Marcel Santilli:** Like, because like, right now, kind of what we're trying to find an example here.
+**Marcel Santilli:** if got Origins, you got ideas from that.
+**Marcel Santilli:** Don't worry, what's, do.
+**Marcel Santilli:** Bye.
+**Marcel Santilli:** Bye.
+**Marcel Santilli:** Bye.
+**Marcel Santilli:** Yeah, so what we've done with our workflows, workflow engine, and so we built a coding agent that, so like all our workflows are represented in code, so then that coding agent can write workflows way better and faster, and then a runtime layer.
+**Marcel Santilli:** It's obviously all text, not, I mean, there's images, there's image gen and stuff, but I think what's cool is like if you look at, this one is like a drafter, and what it's doing is like it's running through the loop, so like, it takes the research data, initializes the agent, and then generates initial drafts of the an article, right, piece of content rejecting, and then it goes through and sees if it passed the evaluations we put in or not, and then
+**Marcel Santilli:** If not, analyze the improvements, generate improved drafts, and it keeps looping until it passes, and if it passes, then it...
+**Justin Massey (Relay Hawk):** On that evaluation pass part, do you know, when it gives you that score, like that evaluation, whatever, is it putting other things as well?
+**Marcel Santilli:** What is it outputting?
+**Marcel Santilli:** Yeah, so what it's doing, it's like, it's running, and essentially, there's a couple of different things we've done.
+**Marcel Santilli:** I think we've tried with more than three evals at the same time, same agent, and it's like, we had to break it out a little bit, because it's getting stuck.
+**Marcel Santilli:** And so, the instrument here, and this UI, it's just not showing every little detail, but the TODR is like, you have maybe like, like, let's say, let's see how it's groundedness, and it's like, there's comments of what it's doing well, and what it's not, and then...
+**Marcel Santilli:** It will have a planning step of, like, what to do about it, kind of, and then doing it, you know, and then looping through until it passes and setting, like, a max number of loops, essentially, you know, and max iterations, essentially, you know, and then, like, there's another one here that's, like, the researcher one's pretty cool.
+**Marcel Santilli:** We just finished this weekend, which, what it's doing is, like, it pings a bunch of different APIs, but generates a research plan, executes the research questions, synthesizes the results, evaluates the research quality, meet the criteria and whatnot, but what's really cool about it is, like, it has different modes of research, so it's, like, exploratory versus hybrid versus, like, very specific, and then it sets a bunch of, like, essentially setting out, like, a mission, right, and then parts of the mission are, like, critical versus, like, important, you
+**Marcel Santilli:** know, and it has, like, all these different things, like, what kind of depth, what's the success criteria, the priority, the source requirements based on all those contexts for this client, you know, and then, like, what is kind of, like, the query or the question you're trying to answer, you know, and it's going through all of this, right?
+**Marcel Santilli:** So then, then it executes it, and then evaluates, you know, like, true or not, like, on a bunch of things, and then, like, but anyways, like, the output, what's really cool about output is kind of mild, it's like, the output is so, like, miles better than, like, perplexed or anything else, it's just like insane.
+**Marcel Santilli:** It's like, it's so wild, yeah, it's just so crazy, like, but it's all, like, agentic, but it's agentic, it's just collapsing more closely, should be deterministic, you know, into agent loops, so it wasn't a start.
+**Marcel Santilli:** So starting with like set the rules based on your criteria, based on like your thought processes, like in very detailed terms, but we just started figuring out the whole ADL parts of these loops, you know what mean, like, and then we're publishing over 10 million words for our customers, and so like one of the challenges, like, we're going through like, say this is for augment code, right, like, so we'll do the research, and then our editor will be guiding this process along.
+**Marcel Santilli:** So there's a brief, there's the research, there's the outline, the fact checker goes and like, what it does, it's like splits everything into chunks, and then extracts passages from each chunk, and reasons through it, and comes up with questions to answer, and then it goes and does research for each of the questions, all parallelized, and then it verifies what evidence, whether it's true or not, and then rewrites if it needs to be
+**Marcel Santilli:** You know, based on it, and it provides, like, explanation on it, right?
+**Marcel Santilli:** And then it does all that in parallel.
+**Marcel Santilli:** And so what it's doing is, like, taking, like, all the processes that, like, a human would do to create amazing content for, like, top brands and, like, decomposes it down, you know, internal linkages are, like, pretty sick on brand, you know what mean?
+**Marcel Santilli:** Like, exactly what they wanted.
+**Marcel Santilli:** But then, like, we need to evaluate the quality of the outputs, but it's so subjective in each one of these things and even overall.
+**Marcel Santilli:** But also we need to evaluate the human editing.
+**Marcel Santilli:** Like, you don't want the human to do the editing in a vacuum either.
+**Marcel Santilli:** You know, you want them to do it with the, you know, with the AI as well.
+**Marcel Santilli:** So then you evaluate, there's so much to evaluate in order to figure out, like, if we're getting more efficiently.
+**Justin Massey (Relay Hawk):** Are you all doing fine-tuning on these things, or are you just using prompting to get around it all?
+**Justin Massey (Relay Hawk):** Say that again?
+**Justin Massey (Relay Hawk):** Are you doing fine-tuning of the models to, like, so it can...
+**Marcel Santilli:** No, not, not yet.
+**Marcel Santilli:** We want to do, we haven't started playing with fine tuning.
+**Marcel Santilli:** Honestly, we should, we should like, keep in mind, like some of these clients, like, let's say abnormal security, your security system, know, Sentinel One is a customer, you know, Promfu or like, you know, like, like, it's really technical and you're doing like five pieces of content a week.
+**Marcel Santilli:** So it's not like you're doing, you know, 5,000, you know, so, so a lot of what we spend time on is figuring out the artifacts.
+**Marcel Santilli:** And honestly, the artifacts is what makes the biggest difference.
+**Marcel Santilli:** It's like the context engineering piece, which is like, you know, company contacts, like the writing guidelines, for example, I mean, I'm sure you have some type of guidelines of like how the agents should, white agents should behave and things like that.
+**Marcel Santilli:** But like, this is what we found makes the biggest difference for written content, at least, you know, it's just having really good, like, artifacts.
+**Justin Massey (Relay Hawk):** That's something I'm thinking a lot about because we're using very cheap models on the voice side to be very cost efficient, right?
+**Justin Massey (Relay Hawk):** So in every single piece, every piece of information we put into our prompt can confuse the agent a little bit, right?
+**Justin Massey (Relay Hawk):** So like I say, one thing in voice AI, I'm like, don't say please at the end of a sentence if you're going to put a please in there, put it at the beginning.
+**Justin Massey (Relay Hawk):** So not may I have your name please because that please is there's going to be a comma and then that space and then it's going to cause the text-to-speech engine, you know, to speak at a pause and then the human's going to talk over the AI agent and there's going be confusion everywhere, right?
+**Justin Massey (Relay Hawk):** So we have those things about saying that and something I've been thinking about is like, do we need to fine-tune our model a little bit?
+**Justin Massey (Relay Hawk):** And in order to fine-tune our model, the reason I ask it is because while you're taking all this feedback from your humans and maybe creating or you're saying, yeah, this output of this LM looks very good, if you're going to go fine-tune something, it's really...
+**Justin Massey (Relay Hawk):** It's important to have that data and the structure that you need it, so you need to make sure that you think about how you're going to, if you do fine-tune it, you don't want to have to go back and do all this work again.
+**Justin Massey (Relay Hawk):** And there's like small little tweaks in the UI that you may need to make to say, okay, here was the output you did, here's the suggested output, and not like a, not a comment that says, I wish you would have done this, but you would have given the exact, exact way that you wanted the element to output it, because then you can feed that back into a fine-tune.
+**Marcel Santilli:** Or the interaction data, or the data overall in a way that's like, fine-tune ready, or, you know, training data ready, kind of, is everything.
+**Justin Massey (Relay Hawk):** Yeah, yeah, exactly, like making sure, because you're, you're, and like, this is all like, this, I haven't implemented the fine-tuning yet, like I'm so close to doing it, because I'm having some issues with some other stuff, so I'm very close to it, so I was taking a look at how do you do it, and I'm like, oh, I need to go modify this in the UI, just so, ever so slightly, so that we have it ready, Yeah.
+**Justin Massey (Relay Hawk):** So, like, fine-tune ready.
+**Marcel Santilli:** Yeah, yeah, it's kind of, it's really, really interesting because, yeah, that's cool.
+**Justin Massey (Relay Hawk):** Well, I have to, unfortunately, but, yes, go ahead.
+**Justin Massey (Relay Hawk):** If you didn't have to add all that, like, you do need to have that personality and stuff written in there, like, but, like, maybe in the future, you don't have to have that as the, you don't have to, you don't have to add that to the bloat, to the context, because your model already knows all that information.
+**Marcel Santilli:** Yeah, exactly.
+**Marcel Santilli:** So then you can focus on other things.
+**Marcel Santilli:** That's a really good point, which is, like.
+**Justin Massey (Relay Hawk):** And you save money there, because you don't have to add all that context there as well.
+**Marcel Santilli:** It's funny, because, like, with voice, it's, like, everything has to be so latency and cost-sensitive, whereas, like, for us, we're kind of, like, one, we don't care about latency at all, and we don't care about cost at all.
+**Marcel Santilli:** Like, our compute cost to serve customers is less than 2%.
+**Justin Massey (Relay Hawk):** Yeah, yeah, yeah.
+**Marcel Santilli:** So it's, like, our human cost is what's expensive, right?
+**Marcel Santilli:** Like, it's, like, the 30% in COGS, you know, 28%.
+**Marcel Santilli:** Eight is human, 2% is compute, so we're like, okay, how the  do we keep improving the human side, you know, and it's like, that's the part that's really hard, because it's like, you know, you decompose everything, but I think agents is the next thing that's pretty big, and then I think fine-tuning, right, like there's a huge figuring out a custom knowledge basis to retrieve things better, like we're doing like a graph rag approach, a little bit, you know, because, and then there's like evals, but also like how do you do the human interventions, so for instance, like one of the things I'm thinking through is doing an expert layer, so if like a human doesn't need to be onboarded as a employee, and all the context and everything else, and you're just giving them one chunk of a task, right, and you're giving them just enough context in how they're going to be evaluated, right, and
+**Marcel Santilli:** And you're treating this more like a data labeling pipeline almost, right, then one hypothesis like this could potentially be way more efficient because you can pay them more per thing because they're not having to waste time doing a bunch of other things that are not relevant, like learning how to use Notion or reading our docs or going through company onboarding or whatever the , right?
+**Marcel Santilli:** Like, they're just like, here's the thing.
+**Marcel Santilli:** You're a security expert.
+**Marcel Santilli:** Look at this claim and look at this context of this thing.
+**Marcel Santilli:** Is this a, like, legit claim in security or not?
+**Justin Massey (Relay Hawk):** Like, you know what mean?
+**Marcel Santilli:** Like, or it's just a well-written sentence, you know?
+**Marcel Santilli:** But then you need to evaluate that because you need to evaluate the humans and then you need to figure out how to evaluate on the hiring side.
+**Justin Massey (Relay Hawk):** And anyways, like, you know what I mean?
+**Justin Massey (Relay Hawk):** It's like kind of deep.
+**Marcel Santilli:** Yeah.
+**Marcel Santilli:** Oh, yeah.
+**Justin Massey (Relay Hawk):** Well.
+**Marcel Santilli:** Well, it's a fun process, man.
+**Marcel Santilli:** But, dude, I hope this was a little bit helpful for you.
+**Marcel Santilli:** Hopefully I didn't give you any bad advice.
+**Marcel Santilli:** You know.
+**Marcel Santilli:** But we're all just trying to figure it out, you know, and there's no one way to get there.
+**Marcel Santilli:** My biggest thing is once you have revenue, you can figure everything else out because you're smart and technical.
+**Marcel Santilli:** And so usually try to solve for that in distribution because the rest, you can figure it out faster than people in your industry can, you know.
+**Justin Massey (Relay Hawk):** Definitely.
+**Justin Massey (Relay Hawk):** I guess they're so slow.
+**Marcel Santilli:** So, yeah, exactly.
+**Marcel Santilli:** Awesome, man.
+**Marcel Santilli:** Well, if you think of anything else, let me know, but always happy to be of any value to you, man, and best of luck in the building and things like that, you know, you know where to find me.
+**Justin Massey (Relay Hawk):** I appreciate it.
+**Justin Massey (Relay Hawk):** If you're ever in New York City, hit me up.
+**Justin Massey (Relay Hawk):** I'm here, so I'll...
+**Justin Massey (Relay Hawk):** Sounds good, man.
+**Justin Massey (Relay Hawk):** Likewise in the Bay Area.
+**Justin Massey (Relay Hawk):** Oh, thank you.
+**Justin Massey (Relay Hawk):** Bye, man.
+**Justin Massey (Relay Hawk):** Have a good one.
+**Justin Massey (Relay Hawk):** Thanks, Justin.
+**Justin Massey (Relay Hawk):** Bye.
+**Justin Massey (Relay Hawk):** Bye.

@@ -1,0 +1,2282 @@
+[
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "this meeting is being recorded hi Marcel hey how's it going good nice to meet you how are you really good you know beginning beginning of the year so just getting things going back up you know yeah tell me I feel like feel like I need another break Monday was like wait what what am I supposed to be doing here but it definitely started faster furious yeah good good my colleagues David is on as well yeah hey guys hey good to see you I'm in a car but I am here oh good well great great to great to connect with both of you I figure like as a way to get started would be great to just hear a little bit of context on your and kind of what would trigger you all to to reach out and and want to chat and then happy to do the same of my end",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Yeah, so I think I came across some of your LinkedIn posts, thought what you guys were do, was or are doing is interesting and kind of intersects with or potentially intersects with some of like the experiments that we've been doing related to content and AI generation and also like marketing and growth goals next year.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So for background, we've got two like brands, if you will, on V, which is like our main business, which is services business or we do funnel optimization and sort of like CRO, but with CRO, marketing ops, analytics, but all with a very like B2B slant to it.",
+    "timestamp": "00:01:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And there's some sort of important differentiators that we're working on articulating better.",
+    "timestamp": "00:01:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And for that we do, we have like some content, people that write stuff that I don't even pay attention to very much and sort of happens.",
+    "timestamp": "00:01:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Honestly, like the business, you know, we had a lot of growth, especially in Q4, and most of the business is like referrals and, you know, people moving on to other places and bringing us in and blah, blah, blah, right.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So it's more high touch and organic.",
+    "timestamp": "00:02:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Then the other part, the other brand, if you will, is Reform, which is a form builder app that we acquired a little over a year ago, and kind of repositioned it to intersect with our market.",
+    "timestamp": "00:02:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "mean, we've done a lot of like form optimization, and we added in features and repositioned into our market.",
+    "timestamp": "00:02:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Like I said, and we're adding in enterprise tier this year, which is going to be more like real-time qualification, routing, that kind of stuff, if you're familiar with like default or forget the other one right now, but yeah, kind of like some of that sort of capability.",
+    "timestamp": "00:02:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And that's going pretty well, but the part of the goal there is to also not only drive",
+    "timestamp": "00:02:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "customers to it, but then sell through like a like a PLG for services kind of motion, right?",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Because a lot of like reform customers that, you know, get value from it or good candidates to be funnel envy services customers.",
+    "timestamp": "00:03:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And there's some other things on the horizon, but at a high level, that's that's where we are.",
+    "timestamp": "00:03:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Content wise, for reform, right?",
+    "timestamp": "00:03:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Like, I built out like a V1 using AI, open AI systems, blah, blah, just to like, we're developers, the way, on this side, developers and data people.",
+    "timestamp": "00:03:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So anyway, we built out like a V1 or I did, it was okay, but not great.",
+    "timestamp": "00:03:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So testing out this new thing, which is pumping out blog content, which is actually kind of better, but it's not like the full end and distribution type of stuff that you do.",
+    "timestamp": "00:03:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So that's where we are in a child.",
+    "timestamp": "00:03:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Obviously, like reform is a lower touch, you know, organic searches.",
+    "timestamp": "00:03:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And content is probably much more relevant for it, but it's content generally speaking is relevant for both sides of it.",
+    "timestamp": "00:04:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "just the nature of it, right?",
+    "timestamp": "00:04:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "like how, whether it's thought leadership or more tactical, that kind of stuff is all in place.",
+    "timestamp": "00:04:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "anyway, thinking about content, I got budget.",
+    "timestamp": "00:04:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So thinking about what levers to pull and what order to pull them in, which is why I have job.",
+    "timestamp": "00:04:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "That's awesome.",
+    "timestamp": "00:04:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Well, thanks for the context.",
+    "timestamp": "00:04:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so I can, I'll give you a little bit of background and I'll jump in and just show you some of the stuff we're doing just to give you full context, you know?",
+    "timestamp": "00:04:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But TLDR is like back in the day when I was at IBM, I began a career, I saw pretty clearly brands need to become publishers.",
+    "timestamp": "00:04:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Otherwise, you're just like tied to an inventory and you know, and it's just like not a good place to be.",
+    "timestamp": "00:04:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And a lot of that was just like looking at a dying business of journalism and publications and then going like, well, we have the budget.",
+    "timestamp": "00:04:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We could literally not have the pressure to cut corners and sell ads, we could just become those publications.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So I built a site called secretintelligence.com back at and it really well became, we generated about like 47 million in pipeline, first beer, million of that closed one from the site and just became the biggest source of pipeline for that business.",
+    "timestamp": "00:05:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so it was just like publishing content, but it was the same thing, HPA did the same thing, I built the contributor network, launched the site called techbeacon.com.",
+    "timestamp": "00:05:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And every time in order to do right, he had to do the same playbook, right, which was tech beacon, they got sunset last year, secretintelligence.com still around, you know, 15 years later.",
+    "timestamp": "00:05:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then, you know, fast forward, I did the same thing with service site and I like built their content program.",
+    "timestamp": "00:05:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "They went public last year, like, you know, they're doing really well.",
+    "timestamp": "00:05:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And a lot of that came when I joined service site and we were spending half a million a month in ads, know, and almost nothing in content.",
+    "timestamp": "00:05:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I was like,",
+    "timestamp": "00:05:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "but still in the loop and so we published about 3,000 pages in three months and 24x the traffic to over million people a month and the company hit a huge inflection curve and then from there I spent doing these workshops back in April and just teaching people like the A to Z and and then from there a lot of people were like wow this is awesome but it's a lot of work to take these low-code tools, build workflows, do all of that and then I still need an editor I still need someone to stage the content optimize it review the content and edit it and do all that so like can you do this for me you know and that's when we started GrowthX and yeah and then last month we officially hit four million in ARR we're working with three 30 different clients and I'll jump in here and show you some of the stuff you know and kind of how we're how we're building it can you see okay yep cool so like a lot of what we do is like we're starting with like the content strategy at the beginning and I'm showing you more in some",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "outputs rather than like the process, the full process as well.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "what we're trying to do is understand like what is your audience, like competitive audience competitors, right?",
+    "timestamp": "00:08:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "so what are all the potential assignments?",
+    "timestamp": "00:08:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "These are not actual assignments yet, but it's like what are your competitors ranking for?",
+    "timestamp": "00:08:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "they're going after the same audience that you are, and then understanding like, hey, what could an assignment look like and we cluster that and then run a relevant score.",
+    "timestamp": "00:08:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So then we can understand like, hey, is this relevant to you or not, like as a business, right?",
+    "timestamp": "00:08:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And how hard would it be to to rank for something like this, right?",
+    "timestamp": "00:08:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So then what we're essentially doing is developing your audience time.",
+    "timestamp": "00:08:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like what are all the topics that your audience cares about that we could potentially go produce for you, right?",
+    "timestamp": "00:08:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then we start to produce that content with quality, right?",
+    "timestamp": "00:08:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And that's when like we're going from taking a lot of our workflows where we go and and look at not only the topic.",
+    "timestamp": "00:08:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "potentially, you know, but we have like research agents that we build.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And for every single assignment, we're going in and taking every single source that we find in scraping and then putting it into a vector database, you know, processing little bit and then retrieving that throughout the process as we write the article as well, right?",
+    "timestamp": "00:09:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "then every step of the way here, and I'll just show you research one really quickly, so you kind of see we've actually like rebuilt this already.",
+    "timestamp": "00:09:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But the one that we've rebuilt in code, you would only see one step because everything else is in code already.",
+    "timestamp": "00:09:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But you can kind of see like roughly like kind of what we're doing, you know, you can see that is that there's a lot of logic to it and a lot of baked in things.",
+    "timestamp": "00:09:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so it's not just like a quick prompt, you know, and that's from us like going through and publishing 20 million words a month for clients and then understanding like what's working was not working.",
+    "timestamp": "00:09:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "and then editors in the loop are able to then say, this is what it's doing well, this is not, this is what it's not doing well, and then we can make tweaks to the system or do it as guidelines for editors to continue to edit that content, right?",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "and then, you know, like, there's a lot of places where an editor can step in and see some of the outputs and then make decisions and re-enter that editorial like judgment back on, right?",
+    "timestamp": "00:10:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "the site, this is a better title for this assignment, and you go through, it's generating an outline, editors are reviewing the outline, it's generating the article, it's doing some post-processing, and then there's additional steps that can be customized for editors to give feedback or for cross-linking, for fact-checking, there's a bunch of additional components that we build depending on the project, know, can really help, you know?",
+    "timestamp": "00:10:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then, and then from here, and then at...",
+    "timestamp": "00:10:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It can take this output that is already pretty good, and can do a pass and edit it, and then stage it into your CMS, hit Publish, come up with the cover image if needed, and that's just the beginning.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then we'll also do content refreshes.",
+    "timestamp": "00:11:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We'll obviously do programmatic if needed.",
+    "timestamp": "00:11:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "so the idea is we're managing end-to-end.",
+    "timestamp": "00:11:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then just to show you a couple of things, on the other end, it's like steadily, for example, is a good one that you can see as an example, right?",
+    "timestamp": "00:11:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "it's not only blogged or glossary.",
+    "timestamp": "00:11:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "There's also programmatic plays.",
+    "timestamp": "00:11:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "For example, this one is all the different ADU loss.",
+    "timestamp": "00:11:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then you can see it's highly cited and things like that.",
+    "timestamp": "00:11:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then what we can do is...",
+    "timestamp": "00:11:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "as well as like when we're able to move really quickly.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "let's say like Denver per diem like both home base and ramp our clients, you know, like home base, like we publish this for them.",
+    "timestamp": "00:12:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "They're like, well, this is lower in 10, you know, like, but we can double down on things as well.",
+    "timestamp": "00:12:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So for example, Denver per diem is doing really well.",
+    "timestamp": "00:12:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We can do like, let's say like San Diego per diem, right?",
+    "timestamp": "00:12:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, and so we can extend the content to, you know, whatever's working, we can extend it, you know, to like very quickly within that cluster, right?",
+    "timestamp": "00:12:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so what that means is that like, that's why where we're seeing like really amazing success, good calls, a great example, is one of our references as well.",
+    "timestamp": "00:12:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So if you ever need to talk to anyone, but like, you know, like they seem like just the insane growth around like area codes, for example, you know, and developing pages around area codes, you know, so that like that was more programmatic, you know.",
+    "timestamp": "00:12:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "like a couple of programmatic plays here that we can continue to build on, right?",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "This is an example where programmatic can work really well and it actually three acts are ARR and now they're fundraising and doubling down on it but it you know it started small and you know celebrating like small wins and so like when you're when you're kind of in this this part of the curve right you're like oh man this thing is not working you know but it's like if you stick to it and it can be really really really powerful you know so that's kind of the TLDR but I'm happy to give a bunch of other examples we have as well as far as content and you know and strategy but but that's the idea.",
+    "timestamp": "00:13:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Yeah yeah it's cool it's funny I in the first version I did I played around with ARROPs too then I decided to do it with another tool but it's interesting that you standardize on on ARROPs.",
+    "timestamp": "00:13:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Well ARROPs work with demo things right now but essentially like our new workflows.",
+    "timestamp": "00:13:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "They wanted to use best of class and build it ourselves a little bit, you know Yeah, yeah, that's cool I yeah, so I have quite and I have questions not so much around the process that you go through I kind of get it at high level Um, but more around kind of like engagement model and all of that kind of stuff So yeah, like as I mentioned like the the two brands with slightly different content objective now Things are evolving right just on the fun one beside historically.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "It's been like larger Enterprise-y type of organizations, but we're actually moving down funnel which has then and broadening our services moving down funnel Which has the necessary effect of expanding that tam in terms of like number of accounts, right?",
+    "timestamp": "00:15:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So That could call for More volume in terms of like whether it's programmatic essay or just content general But still like the two brands have differentiated content objectives.",
+    "timestamp": "00:15:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Is that a thing that you can accommodate?",
+    "timestamp": "00:15:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, like so tell me is there one that you would want to",
+    "timestamp": "00:15:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Kick off with or you want to do two different projects or tell me a little bit more Like just looking at numbers right and looking at your sites like definitely like reform that app has a bit more or a lot More domain authority and backlinks and you know, so that definitely would be Whereas like follow MV it seems like it has very little organic traffic So it'd be more like a build from the ground up almost, you know, yeah, and and that's it.",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "mean, that's a good point like Well, I think I'd want the one that has the highest leverage So if you're like I I know that there are there's work to be done on the funnel and be side with respect to the site and cleaning up some of the old content and blah blah blah right and so That is happening and will continue to happen some of that's rolling out soon some of that can take a little bit longer so if all of that means that You think and",
+    "timestamp": "00:16:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Our belief is too that a scaled content play, especially in SEO, is going to have more impact on the reform side, at least in terms of top of funnel acquisition.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "I think that would be the thing I'd prioritize.",
+    "timestamp": "00:17:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I would recommend the same.",
+    "timestamp": "00:17:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "The thing is, our business is not too too different in the sense that a lot of water mouth and things like that and things like that and whatnot.",
+    "timestamp": "00:17:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But we would consider our services, the backend offer, and so with the reform.app, have your front-end offer.",
+    "timestamp": "00:17:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's better to run content and organic growth off of your front-end offer than this.",
+    "timestamp": "00:17:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then from that audience, it's very easy to identify that audience and see people that converted and even the people that didn't convert, you can use something like to know who they are and then go",
+    "timestamp": "00:17:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "hit them up and then like convert them to your backend offer, know, or something in between.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so no matter what, I think it makes a lot of sense to have reform that's actually pretty genius to have like the acquisition and having reformed that app and then, you know, blow the thing up and have it, you know, generating a ton of signals and go super aggressive.",
+    "timestamp": "00:18:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then, but it would be good.",
+    "timestamp": "00:18:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, I don't know what the conversion numbers look like today for the content you have, but essentially like one thing to keep in mind, right, especially with the approach you're trying to have is like, you need to have something that's really attractive as an offer for reform that app, right?",
+    "timestamp": "00:18:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "so, so if the conversion is like, you have good conversion numbers already, then that's great.",
+    "timestamp": "00:18:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And maybe your product sign up is the irresistible offer.",
+    "timestamp": "00:18:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But one of the things we run into with companies sometimes is like, even if you grow the traffic, they don't even know what to convert to, and then their backend offers too much of a jump.",
+    "timestamp": "00:18:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then they're like,",
+    "timestamp": "00:18:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "doesn't work.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "you're like, you know, like, content works, it's just like, you're going about it the wrong way.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "You can't be like reading a random article to spending 20 grand a month.",
+    "timestamp": "00:19:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, that's not how it works.",
+    "timestamp": "00:19:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "You know, like, and so, yeah, well, the good news there is that I totally get what you're saying.",
+    "timestamp": "00:19:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "The good news there is that starts to enter our wheelhouse.",
+    "timestamp": "00:19:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So what we're not good at is the and what we don't have a lot of such capabilities bringing, bringing traffic to the site.",
+    "timestamp": "00:19:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "But once you're on the site, you're talking about offers and conversion and analytics and like, you know, that customer journey, we get that.",
+    "timestamp": "00:19:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So I totally understand that, like, and we we've done with this a million times that like, blog traffic is not necessarily high intent traffic, right?",
+    "timestamp": "00:19:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I get that.",
+    "timestamp": "00:19:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And there's like a, this is, if you, there's an onion, right?",
+    "timestamp": "00:19:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So this is the top, this is the outside layer, right?",
+    "timestamp": "00:19:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "how do we bring sort of the get, get, get relevant content to the audience for top of the funnel.",
+    "timestamp": "00:19:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "But then there's a playbook strategy on reform as well, which where we actually like, that's not something that I looked to you guys to do, that's something that we would grow, is like all of the plays that we run thousands and thousands of experiments and data points that we have about",
+    "timestamp": "00:19:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "What gets people to convert on-site and then they sign up for reform and then we have evidence now that we can sell through services in the Freeform we just need to do the work to scale that out But now they're in the platform.",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "We've got data on them.",
+    "timestamp": "00:20:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "We know they're use case We know what they're trying to do it becomes a much easier conversation So don't get me wrong.",
+    "timestamp": "00:20:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "You're not solving all of that, right?",
+    "timestamp": "00:20:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "You're looking And that's perfect.",
+    "timestamp": "00:20:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "always just like to throw that out there because like You guys are a bit of an exception right like where there's a lot of clients that when they're earlier in this They have just no No idea that that's part of the journey as well They think that like great content people come in and that's it your job is done right like but but one of the cool things like Well, actually like tell me more a little bit on like reform right like what what is your ideal like?",
+    "timestamp": "00:20:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Persona or type of customer that comes in or maybe a little bit more of the mechanics of that So I understand the audience and I might have some insights there.",
+    "timestamp": "00:20:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Yeah, it's B2B the band-gen marketers Primarily",
+    "timestamp": "00:20:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And they can be relatively small.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So this is not been the case for funnel envy in the past, but it would be.",
+    "timestamp": "00:21:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And it's, it's certainly the case for reform because at the end of the day, it's about building that relationship and we're extending that relationship as an initial to your point, like offer, which is a form easy to digest has our practices built in.",
+    "timestamp": "00:21:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "If you want to scale that up and think about like, like, know, real, like ABM lead routing and things like that on the formal, we can support that as well.",
+    "timestamp": "00:21:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So like anywhere from like small company that is like small company, that maybe you're the first marketer or even a founder, right, who's like, I need like better web, you know, website experiences.",
+    "timestamp": "00:21:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "I need higher conversions of pain or I'm invested in traffic acquisition, but I'm not getting the sort of conversions that I want.",
+    "timestamp": "00:21:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Here's a solution for you reform is part of that, right?",
+    "timestamp": "00:21:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "There's going to be landing page and other elements to it too.",
+    "timestamp": "00:21:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "But it's, it's that onsite experience sort of well encapsulated that you can drop in and improve upon.",
+    "timestamp": "00:21:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "You can, you can sort of grow that capability to some extent and we're adding where the current price",
+    "timestamp": "00:21:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "doesn't reflect what the future pricing will be, but so don't worry about the CAC side of it, know, that's our problem to figure out.",
+    "timestamp": "00:22:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "But, you know, we like at some point then, like that, that also becomes someone who, you know, if we see success, then we have like a whole set of services that we can sell to them.",
+    "timestamp": "00:22:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So B2B demand, gen, SaaS, marketers, primarily.",
+    "timestamp": "00:22:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, that's awesome.",
+    "timestamp": "00:22:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And it looks also like you guys have this like playbook library, right?",
+    "timestamp": "00:22:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "it's a lot of traffic, but it seems pretty good.",
+    "timestamp": "00:22:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "It's very early.",
+    "timestamp": "00:22:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "this whole new site was launched like the late last year.",
+    "timestamp": "00:22:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Well, mid last year, the playbook was a lot of late last year.",
+    "timestamp": "00:22:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So now it's about growth, right?",
+    "timestamp": "00:22:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "When we show people the playbook, they're like, yes, I get it.",
+    "timestamp": "00:22:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I get the value.",
+    "timestamp": "00:22:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I want, I want you guys to help me out, right?",
+    "timestamp": "00:22:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But we don't have enough eyeballs set up to your point.",
+    "timestamp": "00:22:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, that's awesome.",
+    "timestamp": "00:22:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And because like you guys have actually good surface area here to like optimize and like enrich the experience, you know, like, because like right now,",
+    "timestamp": "00:22:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "What I'm seeing is you only have about 72 pages index.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "or take, right?",
+    "timestamp": "00:23:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Obviously, SCM Rush is not like, you know.",
+    "timestamp": "00:23:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "We have A-traps.",
+    "timestamp": "00:23:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "look at, yeah, similar stuff.",
+    "timestamp": "00:23:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But you have way more pages, you know?",
+    "timestamp": "00:23:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "some of them are not index, yeah, but also only like three blogs are getting traffic at all, most likely, right?",
+    "timestamp": "00:23:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "that's, and that's, I mean, this is going to be a little bit delayed.",
+    "timestamp": "00:23:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "If you look at the recent, I can pull up concert console.",
+    "timestamp": "00:23:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "But anyway, we, we're now with the, with the auto publishing that we've got going on with SEO, but like how a whole lot more articles.",
+    "timestamp": "00:23:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So we'll see if those get next.",
+    "timestamp": "00:23:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "We'll see if those do better, but, but that's all very like automated, right?",
+    "timestamp": "00:23:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "I, I, I do believe human in the loop, which is kind of like well thought through and, and, and is an important part of this.",
+    "timestamp": "00:23:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And that's why, that's why we're talking, right?",
+    "timestamp": "00:23:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Because at some point, like it needs to move to that.",
+    "timestamp": "00:23:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "But we are.",
+    "timestamp": "00:23:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "My point is we are publishing a lot more right now.",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "The other question I have for these are on distribution.",
+    "timestamp": "00:24:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "like, organic and indexing with Google is one approach to distribution, but there are a whole lot of other ones.",
+    "timestamp": "00:24:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "What do you guys do there?",
+    "timestamp": "00:24:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, so I would say distribution is like, we have work streams where we're helping companies repurpose their content, what we're in order to post it in social, but we don't usually start there at all.",
+    "timestamp": "00:24:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And like of the work streams, that's the one that's been like less built out than like SEO and article content refresh, as well as programmatic SEO.",
+    "timestamp": "00:24:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then other work streams that we do quite a bit is like link building, where we're using essentially AI outbound, plus like going in finding pages or potential pages that can link to you, and then finding assignments in places where they can link and then programmatically, link building like for HN, like that's what the streams they have.",
+    "timestamp": "00:24:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But like usually we say, start with content.",
+    "timestamp": "00:24:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So even though you're",
+    "timestamp": "00:24:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "have some surface area that gets us like going.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then from there, right?",
+    "timestamp": "00:25:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like if there's things around like distribution, the trickiest thing with the distribution, like for example, LinkedIn is a great channel, right?",
+    "timestamp": "00:25:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "for B2B.",
+    "timestamp": "00:25:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But it's also there's a lot of nuances around like, where's the source of expertise coming from?",
+    "timestamp": "00:25:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "know, what's the right style?",
+    "timestamp": "00:25:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so it's more of like helping ingest a lot of things and then generate ideas and then generate like half baked or like 80% baked drafts.",
+    "timestamp": "00:25:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then, you know, like so, so that engine like we've done for a couple of clients, you know, but it's not a fully automated because all the apps that try to fully automate, they really become pretty empty.",
+    "timestamp": "00:25:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We found, you know, like to build distribution.",
+    "timestamp": "00:25:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then the other part that that we have done before, like for example, deep brand, we launched AImines.com, and we grew that to 300,000 subscribers.",
+    "timestamp": "00:25:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But that's mostly taking lower intent traffic and then converting it to a newsletter.",
+    "timestamp": "00:25:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "then public",
+    "timestamp": "00:25:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "a weekly newsletter, you know, so so once you already have traffic, then you can start having like both like a front end offer that that also drives you to like subscribe and then within that subscription, you're delivering like offers, but you're also delivering like a newsletter, you know, as well, you know, so you're doing the newsletter side of that, or are you just driving the traffic to the newsletter?",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Both.",
+    "timestamp": "00:26:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So on the newsletter side is an editor in the loop as well, and it's like essentially generating uncurrated article a week, essentially, know, so if you go to aimines.com, you can see the content, you know, but, but I would say like, we wouldn't do that at the beginning, because we want to be able to create the engine that generates the really good content, understand you, your company really well, and then at that point, like, we'll have a lot more understanding and knowledge.",
+    "timestamp": "00:26:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then like, if we wanted to launch a newsletter together or something like that, meaning like we're, we're doing a lot of the work for you, then we can do that.",
+    "timestamp": "00:26:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We just need to, like, but that we would have a lot more knowledge, whereas if we kick off.",
+    "timestamp": "00:26:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "things at the beginning, you know, we wouldn't do as well, you know, just be wasting resources.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "No, no, and I understand that it's good.",
+    "timestamp": "00:27:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "It's, it's helpful for me to understand kind of where this can go, you know what I mean?",
+    "timestamp": "00:27:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Because sure, we might not start there.",
+    "timestamp": "00:27:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "But knowing that, you know, if we, if we solve for, you know, the traffic, right, and like, I haven't solved for the newsletter part of it.",
+    "timestamp": "00:27:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "And yes, it's a very, it's a, it's a significant opportunity, if we have the traffic, to again, like build that relationship, then the fact that you can do that at some point in time is, is useful.",
+    "timestamp": "00:27:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Yeah, like the parts that are really, really cool, and it would be cool with working on something like that with you, like, because you have these playbooks that are really cool.",
+    "timestamp": "00:27:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, one of the things you can do is we can take some of these playbooks you already have.",
+    "timestamp": "00:27:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And obviously, like, we need the experts yourself and folks that that work on funnel envy, but, but we can essentially like enrich it and, and more reform at it so that each playbook could become a newsletter edition, right?",
+    "timestamp": "00:27:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So then you could put in",
+    "timestamp": "00:27:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "they already have, I don't know, we got to try it out and then see if it's valuable enough, but like if we look like it's valuable enough, like then now you have the distribution and now you have a library of knowledge, expertise, and now it's just like processing that knowledge and expertise into a new format that's more digestible for a newsletter, but it's still really valuable, right?",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so there's things like that we can do, there's also like things we can do where it's more programmatic, so for example finding additional conversion free books, right?",
+    "timestamp": "00:28:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "it could be, there's different things, it's just like in working together we can have those ideas, you know, those insights, you know?",
+    "timestamp": "00:28:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "I think that's actually really interesting.",
+    "timestamp": "00:28:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Okay, I know we're at time, we before we get into like next steps, I want to like this thing I want to dig into because the at the intersection of our playbooks with top of the funnel content is super, super interesting, right?",
+    "timestamp": "00:28:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "that's not, that's",
+    "timestamp": "00:28:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Something that I had anticipated were like playbooks that require a ton of work from our side, but if we can tap in, tap our expertise, but scale it into your content, let you guys generate, that's super interesting.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like one quick one I'll show you quickly, like for example, home-based, they're ranking for the keyword annual income, which is crazy, right?",
+    "timestamp": "00:29:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But what you can see is like, they're like, we are periodically cross-linking and giving tips and things like that.",
+    "timestamp": "00:29:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so the same engine that we have that can do things like that, can be applied to essentially like taking the playbooks and putting the right playbooks in the right articles and the right pages programmatically as well, and enriching those playbooks to have more context to them and more understanding to them.",
+    "timestamp": "00:29:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So who are the humans that you guys bring to the table?",
+    "timestamp": "00:29:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "the strategist that can help us take these ideas and actually- we have strategists, social media, for example, Kyle, he actually was the head of growth for home-based, and then he actually",
+    "timestamp": "00:29:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "to quit his job and kept me up and like, hey, my last day at home base in two weeks, I'm like, why where are you going?",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "like, I don't have a plan.",
+    "timestamp": "00:30:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "We'll love to work with you guys, but I know you couldn't poach us.",
+    "timestamp": "00:30:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And I was like, what?",
+    "timestamp": "00:30:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "He's one of the strategies BP level, had a growth type person, Jimmy's another one that I mentioned steadily is a great example, like that he helped build that.",
+    "timestamp": "00:30:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then we have the what we'll call like managing editors and those managing editors are more like deeper into the content.",
+    "timestamp": "00:30:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And these are people that run like Ida, for example, she ran content, help run content for SCM Rush and AHS, right?",
+    "timestamp": "00:30:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "she's done work for them.",
+    "timestamp": "00:30:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "so these are people that are like really, really strong editorially.",
+    "timestamp": "00:30:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "then they have folks underneath them, they're like either SEO experts, writers, and then we also have a pool of freelancers that we work with that we've already vetted as we need to augment things as well throughout the engagement.",
+    "timestamp": "00:30:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So essentially, if like something comes up that's like very manual, that we need to throw more humans at it, we can do that as well.",
+    "timestamp": "00:30:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So we're not.",
+    "timestamp": "00:30:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "only like throw AI at everything only, right?",
+    "timestamp": "00:31:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "we have both options, both levers at all times, you know?",
+    "timestamp": "00:31:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:31:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:31:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Last question, then, if we were like, you want to do some kind of pilot, prove a concept, whatever, I mean, your pricing's obviously up there.",
+    "timestamp": "00:31:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "But what's the commit?",
+    "timestamp": "00:31:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Like, you know, we scope that out?",
+    "timestamp": "00:31:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "kind of thing.",
+    "timestamp": "00:31:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So 100% of what we do has a pilot period.",
+    "timestamp": "00:31:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And so the pilot period is 90 days and you can opt out in those 90 days.",
+    "timestamp": "00:31:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "know, the only thing we do say is that like, this is the long game.",
+    "timestamp": "00:31:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So if anyone's expecting like three X traffic in 90 days, it has happened, but it's less likely to happen.",
+    "timestamp": "00:31:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "You know, what we do is like, we do the content strategies.",
+    "timestamp": "00:31:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "There's a lot of upfront resources we put in.",
+    "timestamp": "00:31:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So it's, you know, like where we make our money is not in the first 90 days.",
+    "timestamp": "00:31:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "so, but we put the pilot period there because like we, we have to prove ourselves, you know, but what we say is like the first 90 days we'll",
+    "timestamp": "00:31:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "to be looking for is like, one, you enjoy working with us, are we doing a good job?",
+    "timestamp": "00:32:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Is the content strategy?",
+    "timestamp": "00:32:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Are we getting content now?",
+    "timestamp": "00:32:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Is that content high quality?",
+    "timestamp": "00:32:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And now we're starting to see some early signals, right?",
+    "timestamp": "00:32:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And as long as we align on that, then those tend to be successful, where we've seen misalignment and expectations is where 90 days there's one client where we've four extra traffic in the first four or five months, and they're like, hey, but we're not seeing any convergence.",
+    "timestamp": "00:32:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I'm like, yes, you have no CTA.",
+    "timestamp": "00:32:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "We were.",
+    "timestamp": "00:32:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "You should send those people to us.",
+    "timestamp": "00:32:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I know that we should do a part of their solved, because we don't want to do the conversion rate optimization ourselves, so that there can be something there for sure, man.",
+    "timestamp": "00:32:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Yeah, yeah, I mean, and I have 30 clients like that.",
+    "timestamp": "00:32:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "That's just like, I want more convergence now.",
+    "timestamp": "00:32:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "have the traffic.",
+    "timestamp": "00:32:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Yeah, like legitimately, they're like B2B, like we're the best at that, right?",
+    "timestamp": "00:32:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So I wouldn't put.",
+    "timestamp": "00:32:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "that on you guys.",
+    "timestamp": "00:33:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "It's the traffic problem that I'm solving for.",
+    "timestamp": "00:33:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:33:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So, mean, obviously targeted at the right audience.",
+    "timestamp": "00:33:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "yeah.",
+    "timestamp": "00:33:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "I got to run, but what I could do is like, I can edge you to a Slack channel with Slack Connect.",
+    "timestamp": "00:33:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So we have like easy interactions, DMs, stuff.",
+    "timestamp": "00:33:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then I can send you the recording in a sample SLW based on what we discussed and things like that.",
+    "timestamp": "00:33:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Just so you have like the language and things like that, you know.",
+    "timestamp": "00:33:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then I can send you some details like our next availability.",
+    "timestamp": "00:33:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So we do two kickoffs a week.",
+    "timestamp": "00:33:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "So our next one that we have available is February 3rd, you know.",
+    "timestamp": "00:33:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "And then we're ready whenever you guys are ready and excited and happy to kind of answer questions on Slack as well and kind of go from there as well.",
+    "timestamp": "00:33:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Let's do it.",
+    "timestamp": "00:33:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Send it over.",
+    "timestamp": "00:33:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:33:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "Cool, man.",
+    "timestamp": "00:33:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "right.",
+    "timestamp": "00:33:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Marcel, thank you so much for your time.",
+    "timestamp": "00:33:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "like what you're doing.",
+    "timestamp": "00:33:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Arun Sivashankaran",
+      "matched_calendar_invitee_email": "arun@funnelenvy.com"
+    },
+    "text": "So, yeah, it over and we'll talk it through on our side and see where it goes.",
+    "timestamp": "00:33:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "Sounds good.",
+    "timestamp": "00:33:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Marcel Santilli",
+      "matched_calendar_invitee_email": "santilli@fwd.digital"
+    },
+    "text": "All right.",
+    "timestamp": "00:33:58"
+  },
+  {
+    "speaker": {
+      "display_name": "David",
+      "matched_calendar_invitee_email": "david@funnelenvy.com"
+    },
+    "text": "Take care.",
+    "timestamp": "00:33:59"
+  }
+]

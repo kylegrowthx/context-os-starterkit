@@ -1,0 +1,1946 @@
+{
+    "title": "Yourco <> GrowthX Weekly Sync",
+    "meeting_title": "Yourco <> GrowthX Weekly Sync",
+    "url": "https://fathom.video/calls/250659351",
+    "created_at": "2025-03-12T16:02:57Z",
+    "scheduled_start_time": "2025-03-12T15:30:00Z",
+    "scheduled_end_time": "2025-03-12T16:00:00Z",
+    "recording_id": 51508279,
+    "recording_start_time": "2025-03-12T15:34:55Z",
+    "recording_end_time": "2025-03-12T16:02:37Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "or contact sales or private fee, then we will add two more add value like the white paper download and also like subscribe to our e-newsletter and then we'll send you you know upload the library so then you can just use it and then for the link we'll provide you the link clicked.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Just to clarify on that part Jessica, when you say track on the link what particularly are you adding to the link?",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Oh it's just the UTM.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yeah we should be careful with that.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You can at some point do some workarounds with UTM but this is actually like a common mistake that I've seen over the years and me asking essentially what I've seen and",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "you know, correct me if I'm thinking about this in the wrong way, but if you append on it a link that from someone that's already on your website and you append, say, source data such as like UTM source, UTM median, when they click that link, it actually will kind of mess up Google Analytics and other tracking sources because it will then be read as a new referrer essentially.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So it creates what's kind of called like a self referring session.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "your website would be the referrer and it would drop the original referrer data.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So meaning like you would struggle to accurately see, you know, if it was paid, organic, direct, wherever it actually came from, it would get overwritten essentially.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "So what you're saying is basically like on our website, we would let the Google Analytics do the job.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "And so then it's stick to the so they can able to identify the sources come from our website and that we can.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "just look at the link, click link, by clicking and impressions of that specific link.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yeah, so there's a lot of ways to solving this.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And I'm happy to, if you want to do a session where we just, particularly, at what you're trying to track where, I've spent so much time doing this over the years on the web.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But I'm happy to help work with that.",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So there's a few different things here, right?",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So how you handle refer data, and ultimately, I imagine you're trying to get this into your CRM, right?",
+            "timestamp": "00:02:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "not just Google it, because you're trying to get the refer data into the CRM.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I mean, so I just want to have one objective.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "The reason why I want to install UTM is I know that how many people click on this link on this banner, so how interactive and how engaging the banners are, so that we can do, like, maybe this banner is work better, and we, or this",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "paper.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Actually, a lot more people click on it.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "So then we have more data.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Otherwise, it was just right on, you know, the, let's say we, um, to white paper, we don't know.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "This white paper is like direct or come through the, um, the block.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "So there's no way that we can track, right?",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Well, no, Sorry.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I didn't mean to cut you off.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, go ahead.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Not necessarily.",
+            "timestamp": "00:03:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It depends on what answers you're trying to get and where.",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Um, so, you know, constraining this to Google Analytics specifically, the typical recommendation I would do in that case.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Um, and as good even if you were, there's other things related to like tracking this in the round we could always talk about later, but, um, is, uh, event tracking to the, to the links.",
+            "timestamp": "00:03:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And so then coming up with, um,",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "essentially a taxonomy of, like, this can happen in different ways, right, like, there's different layers and events, and so, like, you could say, like, one broad bucket is, like, click the CTA button, and, like, so then you can see that in Google Analytics, and you can see all the CTA button clicks and where they're, and then as you double click into that, you can see the particular thing, and there are different ways of organizing, right, you could call that the white paper name, you could call that a white paper, usually there's three layers you can, if I recall correctly, you can add to this, so you could say, like, CTA button click, white paper, the particular white paper, and so, it's, use Google Tag Manager.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I do.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "it's pretty easy to do in Google Tag Manager nowadays, and so that's the most ideal because that's, that's essentially how GA is, like, purpose-built to track kind of stuff is based off the events, and that's how they track a lot of the conversion data nowadays, too.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Um, and so in this case, it's not a true conversion.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You're just tracking behavior to a conversion.",
+            "timestamp": "00:05:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Um, uh, yeah, that would be the most ideal because else, if you do it with UTMs, yeah, you're just going to start, like your data is going to start looking really weird and confusing.",
+            "timestamp": "00:05:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Uh, this is one that's like super, super common, like almost every stop of, you know, my in-house career when I would join in audit analytics almost every time my book kept something like this.",
+            "timestamp": "00:05:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So it's super common misconception.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Got it.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Let me look into it then.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yeah, happy to share, uh, any detail.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Um, but it's pretty easy to, to add for GT.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yeah, we, we actually do have event conversions for all the, uh, call to actions, the three, but just looking to, like, is it able to wear these, um, call to action, come from in which pages was the, you know, like the curve converting path.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "I know in Google, there's a,",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "solutions path, but it's more based on channel.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "It doesn't tell you which page that they go to.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I mean, this is the problem nowadays with Google Analytics, GA4 specifically.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's not great.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We actually stopped using it at home based on my previous stuff, like it was still on our website, but we barely used it for any of our reporting.",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But yeah, I think depending on the questions you're trying to answer, there's things you can do to make that easier to answer in GA4, but also you may want to consider, do you remember now, use HubSpot?",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, we use HubSpot.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "like some of those same questions that you have, we could theoretically do in HubSpot as well.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But anyways, if it's helpful, yeah, I've been using like UTM.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "then 4GA4 and it has worked well in the past so I haven't like see any ref flags like how you mentioned it but definitely we'll look into it more yeah yeah the last thing I'll just say on that it's not surprised because it actually can fly under the radar it's like you'd have to like segment your data in specific ways to find it but it did again the big challenges if like you won't get the accurate pulse on what your channels are doing yeah that's it and that's you know one of the key parts of what GA is trying to do but anyway sorry didn't want to be real less on that but that's got my attention to the here so there anything else you want yeah yeah yeah there was also one article it was a resource page uh i'm not really sure how to upload the image on that page like I don't know what type of slice so whatever to use because any of the options I had was just for text.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "So if you could just double check on that and let me know how I can upload it to that page, that would be great.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "Yeah, I think, yeah, let me look into it.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "think for resources, the way we build it, there is no, actually, you can just track it.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Actually, I tried it last week because we're going to put banners in there, so I will do an example for you and send a link over after the call.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "All right, cool.",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "And yeah, going on to the performance.",
+            "timestamp": "00:08:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "I'm looking at the air table, you mentioned about the enterprise.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "I don't see where exactly.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "They are considering in the cluster enterprise related.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "There should be around 30 words, I think.",
+            "timestamp": "00:08:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Okay, so it's a status cluster that are to review.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "It's under constraint.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "If you scroll up just a bit, Kyle, so yeah, there's like total performance for the refreshes, which has doubled from last week, and that's probably because we started focusing a bit more on refreshes, so we put six out, I think, last week, because there was some play in the flow before that, and we went on to the new articles, we're seeing a little bit of a drop, and we think this is also because we only published four new articles last week anyway, so that kind of makes up for and you also mentioned we would do like a cluster based analysis, for this we're going to be",
+            "timestamp": "00:09:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "moving into Lucas Studio Studio to present all this data, but we'll have that right for you by next week.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "I also wanted to ask whether you could give us access to GA4, even though Kyle just mentioned it's unreliable, where I'm still going to probably use it for their reporting a little bit.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "But yeah.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "I thought we had access to their GA4, but I could not remember that.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "I think I don't think we're going to do that as access.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yeah, I see it.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Oh, I was looking for it, didn't show.",
+            "timestamp": "00:10:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yes, it's really weird.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "This actually happened to me as well.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "there is sometimes the view you're initially shown will cut off some accounts.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't know why, but that did happen to me last, where I didn't think I had access to their GA4, because it starts with why it's at the bottom of list.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "you might go back and then I'll show you the full list.",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'll double check on that.",
+            "timestamp": "00:10:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "But yeah.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "I think that's all the updates we have.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "Do you have any questions?",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "Yeah, you said you prepare a report in LOKER.",
+            "timestamp": "00:11:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "And what kind of data point are you going to put into or investigate the drop?",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "I see on GA and also SEM right that impressions and click has dropped like 30 days compared to 30 days period.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "I think that is most because there was like one article of yours that we did that we refreshed and it got like a lot of impressions and clicks.",
+            "timestamp": "00:11:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "I think now that is like fizzling out so the entire site is going down.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Why is the all of a sudden there is a search and click in that one article?",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Like I said, we refreshed it I think a month ago.",
+            "timestamp": "00:11:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "or a few like very early on, it was something about translation costs, like a bunch multi will stand up, but I could be too long, but I think that was easy.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So what you're saying is it spiked for like a short period of time and kind of was up but kind of normalized and came down?",
+            "timestamp": "00:12:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "From what I saw.",
+            "timestamp": "00:12:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "We can clarify that.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That's actually like a pretty common pattern.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like sometimes like Google's giving you a little bit of attraction, it's trying to see how almost kind of like experimenting how you'll do with some of those queries and it's not unusual for that happen.",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So when that does happen, we typically want to like go back and see if we can optimize to some of what it was getting at.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I'm seeing that page now.",
+            "timestamp": "00:12:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "It's, yeah, let me share the screen on that one.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Okay, should be seeing GSC.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So we had a bit of a spike for like a week and then it's kind of come down to what it was before.",
+            "timestamp": "00:13:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So here, this is day range.",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I want the state range to come up my rail, I have 17th.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So we say, trying to see like a quick before and after the drop, this might not be perfect.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I don't have to go farther, translation, it's translation, translation, prices.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "How much does a translator cost?",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I think that what I'm at least seeing by quick glance of what we were getting some impressions and clicks from, it's just very broad in terms of intent.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So while we were able to show some traction, I would say we would probably, I mean, if we can consistently rank for this stuff, amazing, but it is quite broad in terms of intent from like a ERCO standpoint.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "If it had some sort of modifier that was closer to ERCO, I think we'd have a bit more traction.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "This wouldn't, based off the queries I'm seeing, this having a little bit of that up and down wouldn't necessarily surprise me.",
+            "timestamp": "00:14:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Right, I'm just looking at the by-ending page.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "I don't see there's a big change in terms of traffic to the particular block, like, if we're talking about what is typical cost.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "the professional translation services, if that is the article, I don't see a search and traffic in that page.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "But I do see...",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Well, if we look, I mean, the view we were just looking at before this conversation shows it, right?",
+            "timestamp": "00:15:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, like, if we look over time, you know, this is the spike, right?",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, it's not a huge spike to be clear.",
+            "timestamp": "00:15:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's not going to jump off the page when you're looking at old data.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But, yeah, it's typically around like a few clicks a week.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I mean, given this isn't a massive number, it's almost 20, but that's a little bit of the up and down.",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But in general, though, yeah, seeing some of those impressions up to the previous view we were looking at, let me get back to it.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Switching between sharing on Google Meet, it's not very, yeah, especially when it's on different profiles, it's quite annoying.",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You know, we're at what, 60 here, 40 there.",
+            "timestamp": "00:16:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So that is actually, like, the Sedera's point that it was roughly in the ballpark of a drop of 20, that it's kind of contributing.",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "In general, like, we don't, we want to be seeing consistent up and to the right in terms of impressions and click growth, so certainly, I would say, like, continuing the momentum on publishing new is our most ideal, and then anything we can do that further, just improve user experience, the CTA's can be a part of it, uploading images can be part of it, just that they can help ensure people stay engaged, that would be my other kind of area of recommendation of focus.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Outside of that, you know, I would say just like,",
+            "timestamp": "00:16:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Making sure we have some good, like, you know, some good bets in terms of what we're going to do next in terms of topics.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "know we talked about, you know, a few that we want to focus on next.",
+            "timestamp": "00:17:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "what I think about when I see a trend like this is, like, instead of, you know, just going for, like, bigger swing type things, like, go for some things that, like, we're confident we can rank well on, and, and generate momentum even though it's like lower volume just to keep, like, positive growth going.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And, you know, so I would, I would make sure we take a look at, like, what we are all lining on in terms of next steps in terms of topics to try to keep that momentum.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's kind of like using a sports analogy.",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's like trying to, you know, get some singles and doubles rather than swinging for some home runs.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So, you know, that would be typically what we'd want to do in a case like this.",
+            "timestamp": "00:17:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yeah, I think in terms of topic, we're quite confident for that.",
+            "timestamp": "00:17:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "enterprise one and also like the personal cell phone or like um is text um legal those clusters we're quite confident that will drive quite bit of traffic but I think it would quite a bit more review from our side to make sure the position is correct um yeah and then like half of the content will be more of the water terms where we bring the impression up and just see early signal so we're pretty aligned on the topics going forward and these like uh yeah these two months okay cool yeah another thing that I was thinking about like if translation there's um a search in the volume and we want to continue to optimize the article translation this topic is actually very fitting to um our prospect and iCP because we do a lot of the workforce like multilingual team so even",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "build a search inquiry to tend to broaden.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "One thing that I was thinking about, like we can continue to maybe run a couple more articles that it's more closer to intent, like how do you manage?",
+            "timestamp": "00:19:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "I think we do also have a couple articles about multi-lingual teams, based on the search inquiry, maybe we can bring some, have two to three articles just to hopefully Google will help us to rank higher if we publish articles under that cluster.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Agreed.",
+            "timestamp": "00:19:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "And then similarly, making sure we're finding opportunities to, you mentioned some of the things you already have related to that content, like I know we create internal links as a part of our blogs that we're generating, but additionally we write those new translation angles you were talking about, looking at those existing internal linking into them as well and just continue to show that kind of like, you know.",
+            "timestamp": "00:19:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "at a cluster relevance.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So I think it's absolutely worth exploring.",
+            "timestamp": "00:20:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "do recall you mentioned on the early days that angle of translation.",
+            "timestamp": "00:20:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So I think we can find the right angle modifier on the searches, et cetera, that gets it just a slight bit closer at how cool it sounds worthwhile.",
+            "timestamp": "00:20:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:20:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "And I think two things that I want to ask is keyword cannibalization.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "As I was looking at the blocks that ranked pretty well, we, there's two articles that might potentially competing each other is no one desk.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Okay, let me share with you guys this two links.",
+            "timestamp": "00:20:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Basically is successful non-desk employee communications and the communication reaching non-desk employees.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "So I see that they both ranking the same keywords.",
+            "timestamp": "00:20:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "competing.",
+            "timestamp": "00:21:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "So in this case, what is the best practice to, because one is a pillar article, the other one is just supporting law.",
+            "timestamp": "00:21:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "So yeah, what is the best practice to go about it?",
+            "timestamp": "00:21:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, so it depends to a degree of like, on a few different factors.",
+            "timestamp": "00:21:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Does one of them have more traction on a particular set of words and does that align with what you want to see and how you want to map intent on the website?",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Because those are, I was just checking up pages, know, slightly different files of pages, right?",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "One being in the resources, the other as well.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "so if there is something there, like where you want to essentially map that and push that ideally, you know, that's one angle to consider.",
+            "timestamp": "00:21:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "If they are just like truly like, if most of the queries are the same across both of them, and one of them just does, you feel a better job of landing the intent based off what you know from like a qualitative perspective, we should probably explore starting to refresh the other one.",
+            "timestamp": "00:22:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Sometimes what can happen in this case is you'll have one to three pieces or something like that, while they have a lot of overlap, one of them still has some queries that are a little bit unique to that.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So you can start to refresh that piece to focus more on those that are truly unique to that, and then take some of that content that maybe could be additive to the other piece and start to move it over there.",
+            "timestamp": "00:22:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "There's lot of other flavors of this.",
+            "timestamp": "00:22:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We could also consider just killing one of the pieces and redirecting it to the other, but there's not necessarily...",
+            "timestamp": "00:22:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "like just one specific playbook like we have to consider like a few different figures so we can dig into it look at like you know which queries are overlapping how we'd want to map that and and and make a recommendation um but uh yeah I think it's something definitely we should be exploring as long as as long as it's truly like you know um sometimes you might see some queries pop up and it's not a huge deal because it's like so long but if they are really starting to like if this isn't setting us up for success we should consider yeah I think there will be some of you guys can look into like I think I would go for the approach where we extend the key work so then it's not much overlapping because if you look at the title it's very it's basically going to the same cluster um right yeah so for the I would say resources would be the the first to rank non the sample ecommunication and the",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "we can expand the content a little bit out, so then it's not competing.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "yeah, I see a couple of articles like that.",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "It's not a main concern, but something that I think we should start looking into it, especially for the really good performing articles.",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yeah, I agree.",
+            "timestamp": "00:24:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yes, Eric, we just make that action item for us to take into and just if we can find anything else as well?",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "If you have any, if you have a list of articles that you've already got, send them over.",
+            "timestamp": "00:24:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:24:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:24:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Another thing is for long title text, and I, as I'm also looking at these articles, these tend to have long links, URL.",
+            "timestamp": "00:24:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "you suggest us to, like, trim it down and...",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "You know, it's fine.",
+            "timestamp": "00:24:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "just do it.",
+            "timestamp": "00:24:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I've been seeing this one pop up recently in my LinkedIn feed and people have been experimenting around this.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Historically, the recommendation is keeping to a very specific character length.",
+            "timestamp": "00:25:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "I'm now spacing out what the number is.",
+            "timestamp": "00:25:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's like 70.",
+            "timestamp": "00:25:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Okay, I didn't know it.",
+            "timestamp": "00:25:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "should have trusted myself.",
+            "timestamp": "00:25:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But I've actually been seeing people like experiment and challenge with that because they've been finding that rule is still showing longer character lengths and they were getting higher click-through rates.",
+            "timestamp": "00:25:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Admittedly, I haven't started to like validate that across the board, but I haven't, I've seen it multiple times now in the past few months with different people talking about this.",
+            "timestamp": "00:25:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So generally, I would say yes, going with 70, typically some of the ways I would do that, like by quick glance, like at least picking out the pipe in your code.",
+            "timestamp": "00:25:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "If you can fit that in great, but I typically index more towards landing the message.",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But what applications are safe for?",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Use for business-related communication.",
+            "timestamp": "00:25:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "We can probably have a shorter version of that.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "We definitely can shorten it.",
+            "timestamp": "00:26:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Like, like if we just said, you know, safe to you, and anyways, just moving those words around and cutting it somehow, yeah, no, worth checking out.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "But yeah, anything we do that we would change on these, I would want to just like check back on the quickly roots.",
+            "timestamp": "00:26:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "So a little while later.",
+            "timestamp": "00:26:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "So it's so good to try it, know, to experiment whether it's, and then when we change the URL, then we make sure that it's transferable, right?",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Like the SEO score that being built in this link can transfer to the other one.",
+            "timestamp": "00:26:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Oh, in this case, I would advocate for not changing the URL, just the title.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Just the title.",
+            "timestamp": "00:26:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "And then not to say there aren't times.",
+            "timestamp": "00:26:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "It's just like, I think we'd create unnecessary friction from a SEO standpoint, if we did that.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "On it.",
+            "timestamp": "00:27:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Yeah, I think we will dig into the cannibalization.",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Anything else comes up trying wise, let me know.",
+            "timestamp": "00:27:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Happy to help wherever I can.",
+            "timestamp": "00:27:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Cool.",
+            "timestamp": "00:27:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:27:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Appreciate the time, Jessica.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Kyle Gaudreau",
+                "matched_calendar_invitee_email": "kyle@growthxlabs.com"
+            },
+            "text": "Thank you, Kyle.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "It's enduro.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "Alright.",
+            "timestamp": "00:27:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Jessica Yip",
+                "matched_calendar_invitee_email": "jessica@yourco.io"
+            },
+            "text": "you.",
+            "timestamp": "00:27:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Sadira Sittampalam",
+                "matched_calendar_invitee_email": "sadira@growthxlabs.com"
+            },
+            "text": "See you.",
+            "timestamp": "00:27:31"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Weekly sync between Yourco and GrowthX to discuss content strategy, SEO performance, and technical implementation details.](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [UTM tracking on internal links can disrupt GA data; event tracking via GTM recommended instead](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=31.0)\n  - [Recent traffic spike from translation-related content normalized; focus on consistent growth and user engagement](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=43.0)\n  - [Potential keyword cannibalization identified; team to review and optimize overlapping content](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=222.0)\n  - [Experimenting with longer meta titles may improve CTR, but requires careful monitoring](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=366.0)\n\n## Topics\n\n### UTM Tracking and Analytics Implementation\n\n  - [UTM parameters on internal links can create self-referring sessions, disrupting Google Analytics data](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=45.0)\n  - [Recommended solution: Use event tracking via Google Tag Manager for internal link clicks](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=217.0)\n      - [Create a taxonomy: e.g., \"CTA button click\" \\> \"white paper\" \\> \"specific white paper name\"](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=240.0)\n  - [Jessica to investigate GTM implementation for tracking banner and resource page interactions](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=496.0)\n  - [Team to consider leveraging HubSpot for additional tracking capabilities](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=384.0)\n\n### Content Performance and SEO Strategy\n\n  - [Overall performance for refreshed content doubled; slight drop in new article performance (4 published last week)](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=556.0)\n  - [One refreshed article on translation costs saw temporary spike in impressions/clicks, now normalizing](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=685.0)\n  - [Strategy for maintaining growth:](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=984.0)\n      - [Focus on consistent publishing of new content](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1017.0)\n      - [Improve user experience (CTAs, images)](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1017.0)\n      - [Target achievable, lower-volume topics for steady momentum](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1032.0)\n  - [Planned content clusters: enterprise-related, personal cell phone use, legal text messaging](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1077.0)\n  - [Explore expanding translation-related content to align with Yourco's multilingual team focus](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1142.0)\n\n### Keyword Cannibalization\n\n  - [Potential issue identified with two articles on non-desk employee communications](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1228.0)\n  - [Team to review and consider:](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1280.0)\n      - [Expanding content to differentiate topics](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1300.0)\n      - [Refreshing content to focus on unique queries](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1321.0)\n      - [Possibly redirecting one article to the other](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1368.0)\n  - [Jessica to send list of other potentially cannibalizing articles for review](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1451.0)\n\n### Meta Titles and URLs\n\n  - [Discussed optimizing long meta titles (aim for \\~70 characters)](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1498.0)\n  - [Recent industry discussions suggest longer titles may improve CTR in some cases](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1500.0)\n  - [Agreed to experiment with shorter titles while monitoring performance](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1550.0)\n  - [Will adjust titles only, not URLs, to avoid unnecessary SEO friction](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1560.0)\n\n## Next Steps\n\n  - [Kyle to provide detailed guidance on event tracking implementation via GTM](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=129.0)\n  - [Sadira to prepare cluster-based analysis report in Looker Studio for next week](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=600.0)\n  - [Team to review and optimize potentially cannibalizing content, starting with non-desk communication articles](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1280.0)\n  - [Jessica to send list of other articles for cannibalization review](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1451.0)\n  - [Experiment with optimizing meta titles for length and monitor performance](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=1498.0)\n  - [Continue focus on consistent content publishing and user experience improvements](https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2?tab=summary&timestamp=984.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Investigate using Google Tag Manager for event tracking instead of UTMs",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:03:35",
+            "recording_playback_url": "https://fathom.video/calls/250659351?timestamp=215.9999",
+            "assignee": {
+                "name": "Jessica Yip",
+                "email": "jessica@yourco.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Check and provide GA4 access to Sadira",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:10:13",
+            "recording_playback_url": "https://fathom.video/calls/250659351?timestamp=613.9999",
+            "assignee": {
+                "name": "Jessica Yip",
+                "email": "jessica@yourco.io",
+                "team": null
+            }
+        },
+        {
+            "description": "Investigate keyword cannibalization for non-desk employee communication articles",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:09",
+            "recording_playback_url": "https://fathom.video/calls/250659351?timestamp=1209.9999",
+            "assignee": {
+                "name": "Sadira Sittampalam",
+                "email": "sadira@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Send list of articles with potential keyword cannibalization to Sadira",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:20:31",
+            "recording_playback_url": "https://fathom.video/calls/250659351?timestamp=1231.9999",
+            "assignee": {
+                "name": "Jessica Yip",
+                "email": "jessica@yourco.io",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Brodie Meyer",
+            "email": "brodie@yourco.io",
+            "email_domain": "yourco.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jessica Yip",
+            "email": "jessica@yourco.io",
+            "email_domain": "yourco.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Jessica Yip"
+        },
+        {
+            "name": "Sadira Sittampalam",
+            "email": "sadira@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Sadira Sittampalam"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Jimmy Pal",
+            "email": "jimmy@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Andrej Vidovic",
+            "email": "andrej@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kyle Gaudreau",
+            "email": "kyle@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Kyle Gaudreau"
+        }
+    ],
+    "recorded_by": {
+        "name": "Kyle Gaudreau",
+        "email": "kyle@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/CSkyEptJV2dNo7KCvXEgsFznm22rA6C2",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

@@ -1,75 +1,76 @@
-# GrowthX Handbook
+# GrowthX Docs
 
-The official handbook for GrowthX. Everything you need to know about the company, how we work, and what we're building.
-
----
-
-## New Here?
-
-**[Start Here →](start-here.md)** — Your comprehensive onboarding guide
+Company documentation split into three areas: the auto-synced handbook, private internal docs, and archived content.
 
 ---
 
-## Handbook Structure
+## Structure
 
 ```
 docs/
-├── start-here.md       ← Begin here
+├── handbook/           ← Auto-synced from handbook.growthx.ai
+│   ├── company/        ← Who we are
+│   ├── how-we-work/    ← Communication & tools
+│   ├── delivery/       ← Client operations
+│   ├── epd/            ← Engineering, Product, Design
+│   ├── people/         ← HR & careers
+│   ├── products/       ← CheckThat, ContentOS, Output
+│   ├── systems/        ← Tools & platforms
+│   ├── guides/         ← AI, writing, marketing, skills
+│   └── tutorials/      ← Step-by-step walkthroughs
 │
-├── company/            ← Who we are
-│   └── mission, values, strategy, culture
+├── private-docs/       ← Content NOT in the handbook
+│   ├── business/       ← Business model, ICP, economics
+│   ├── finance/        ← Board meetings, fiscal plans
+│   ├── sales/          ← Pre-sales (placeholder)
+│   └── ...             ← Other unique-to-context files
 │
-├── people/             ← HR & careers
-│   └── onboarding, policies, time off, parental leave
-│
-├── how-we-work/        ← Communication & tools
-│   └── operating rhythm, async, meetings, Slack, systems thinking
-│
-├── business/           ← How we make money
-│   └── model, ICP, customer lifecycle
-│
-├── sales/              ← Pre-sales process
-│
-├── delivery/           ← Post-sales & client ops
-│   └── 8-week plan, teams, content quality, human-AI collaboration
-│
-├── epd/                ← Engineering, Product, Design
-│   └── dev process, tech stack, AI-driven development, client ops
-│
-├── products/           ← What we build
-│   └── ecosystem, CheckThat, ContentOS, Output
-│
-└── finance/            ← Board, fiscal, metrics
+└── archive/            ← Superseded docs, pre-sync backups
+    └── pre-handbook-sync/  ← Originals replaced by handbook
 ```
 
 ---
 
-## Quick Links
+## How to Navigate
 
-| Section | Description |
-|---------|-------------|
-| [Company](company/) | Mission, vision, values, strategy |
-| [People](people/) | Onboarding, policies, careers |
-| [How We Work](how-we-work/) | Communication, meetings, tools |
-| [Business](business/) | Business model, ICP, economics |
-| [Delivery](delivery/) | Client operations, post-sales |
-| [EPD](epd/) | Engineering, Product, Design |
-| [Products](products/) | Product documentation |
-| [Finance](finance/) | Board meetings, fiscal plans |
-
----
-
-## Not in the Handbook
-
-These directories serve other purposes and are not part of the official handbook:
-
-- `/context/voice/` — Content style guides
-- `/context/roles/` — AI executive personas
-- `/knowledge/` — Study guides and learning materials
-- `/records/customers/` — Client documentation
-- `/records/transcripts/` — Meeting notes and recordings
-- `/pipeline/` — Research, drafts, and finished deliverables
+| If you want to understand... | Look here |
+|------------------------------|-----------|
+| Company, culture, how we work | `handbook/` |
+| Guides on AI, writing, marketing | `handbook/guides/` |
+| Our products (CheckThat, etc.) | `handbook/products/` |
+| Client delivery processes | `handbook/delivery/` |
+| Engineering & product development | `handbook/epd/` |
+| Tools and systems we use | `handbook/systems/` |
+| Financial plans, board meetings | `private-docs/finance/` |
+| Business model, ICP | `private-docs/business/` |
+| Job specs, onboarding details | `private-docs/people/` |
+| Older versions of docs | `archive/` |
 
 ---
 
-**Last updated:** 2026-02-22
+## Handbook Sync
+
+The `handbook/` directory is automatically synced from the [GrowthX Handbook](https://handbook.growthx.ai) using the `sync-handbook` skill.
+
+- **Do not edit** files in `handbook/` directly — they will be overwritten
+- **To update**: edit the source in growthx-handbook, then run the sync
+- **New private content** goes to `private-docs/`, not `handbook/`
+
+To sync:
+
+```bash
+python3 .cursor/skills/sync-handbook/scripts/sync-handbook.py \
+  --handbook-path "/path/to/growthx-handbook" \
+  --context-path "/path/to/growthx-context"
+```
+
+---
+
+## Access
+
+**Default access:** `build-team`
+**Contains restricted content:** Yes — `private-docs/finance/` is `founders`/`inner-circle`
+
+---
+
+**Last updated:** March 2026

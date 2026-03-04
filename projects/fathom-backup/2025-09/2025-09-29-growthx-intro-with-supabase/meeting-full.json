@@ -1,0 +1,2265 @@
+{
+    "title": "GrowthX Intro with Supabase",
+    "meeting_title": "GrowthX Intro with Supabase",
+    "url": "https://fathom.video/calls/423531813",
+    "created_at": "2025-09-29T16:19:41Z",
+    "scheduled_start_time": "2025-09-29T16:00:00Z",
+    "scheduled_end_time": "2025-09-29T16:30:00Z",
+    "recording_id": 90487567,
+    "recording_start_time": "2025-09-29T16:00:46Z",
+    "recording_end_time": "2025-09-29T16:19:36Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Pretty good.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "How you doing Hayden?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Hold on a second.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Can you hear me?",
+            "timestamp": "00:00:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Loud and clear.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "I can hear you now as well.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "This meeting is being recorded.",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, I'm in Houston.",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Are you in Bend?",
+            "timestamp": "00:00:13"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Houston.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "No, I am in Central California right now.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "I kind of move around quite a bit.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Okay, nice.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, I went to Oregon for the first time for my bachelor party not too long ago.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah?",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Nice.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "What did you That was a blast.",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And we were going to go to Bend, but we were in like the Portland and Columbia River Gorge area.",
+            "timestamp": "00:00:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And just decided like, do we really want to get in the car and drive three hours one way, three hours back?",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "That'd be a pain in the butt for sure.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "What area, you said you stayed in like the Portland, Columbia River area.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "you go up like Hood River or where'd you go?",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, we were staying in Mount Hood Village and we checked out like a bunch of the trails along the waterfalls.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Oh yeah.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "of",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I didn't go to Hood River, but there's just like a million things to do over there, nature-wise.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "It's great.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, there is.",
+            "timestamp": "00:01:07"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Definitely getting out of the concrete jungle of Houston, that's for sure.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "You got that.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Hey, David, how's it going?",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "It's going alright.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "Hey, Tyler.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "I am David Ventimiglia, and I am a solutions architect here at Supabase.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "It's a pleasure to meet you.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "We're talking about where people are based.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "I'm based out of San Francisco.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "Also, obviously on the West Coast.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Nice.",
+            "timestamp": "00:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "How long have you been in SF, or the Bay Area?",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "About a thousand years.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "Or maybe 20, 25.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "About 25 years.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I lived there for three years after college.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And then, you know, family brings you back to worse weather sometimes.",
+            "timestamp": "00:01:44"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "I hear you.",
+            "timestamp": "00:01:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "But definitely, definitely love it out there.",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And our CEO, Marcel, is in SF, along with some of the other teams.",
+            "timestamp": "00:01:54"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "David Ventimiglia",
+                "matched_calendar_invitee_email": "david.ventimiglia@supabase.io"
+            },
+            "text": "right.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Excited to chat with you both today.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Hayden, I don't have a ton of contacts.",
+            "timestamp": "00:02:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I know that Marcel mentioned that he had spoke with Aaron, who I'm not sure who Aaron is either, so maybe give me some contacts just to help me kind of catch up to speed, and then we can go around the horn and do intros.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Just want to make sure I know what happened in the past.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, likewise.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, so I actually also don't have a ton of contacts.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So I'm an Account Executive here at Supabase.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Aaron was also Account Executive here at Supabase.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "I see you're Account Executive at Growthx.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Aaron reached out to Marcel.",
+            "timestamp": "00:02:38"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Marcel uses Supabase, so are you familiar with Supabase at all?",
+            "timestamp": "00:02:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Not really.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I did a little research before the call, and I vaguely know what Firebase is.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like testing mobile apps?",
+            "timestamp": "00:02:53"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Am I right?",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Am I wrong?",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, so a little bit.",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So when you're building any sort of...",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Like web app or mobile app or anything like that, you essentially have like a front-end and back-end, so we're a database provider, so we're a database as a service, and my guess is here, so Aaron's video with Marcel wasn't recorded, so there unfortunately was not any notes either, so I have like almost no context, so I reached out to Marcel, just trying to follow up, catch up with him, how the conversation went, see if there's anything he needed.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Marcel uses the platform personally for growthx, I don't know in what capacity, so that's kind of was my goal, to reach out, learn more about like how Marcel uses Supabase, so I followed up with him and he said, oh yeah, let me put you in touch with my team, to be frank, my assumption was that that was going to be with the engineering team or the folks using Supabase, looking at your background, I see we are both in the same role, so my guess is, I don't know what happened in the conversation with Aaron, but I we're obviously both account executives, you're on the go-to-market team.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And you don't use Supabase at all?",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So my first thought was that maybe you guys are building some go-to-market apps or whatever for growthx, but I'm guessing that's not the case.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "We are working on a couple apps to supplement the internal platform that our team uses to create content for our clients.",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So we're working on an app that would be more like LLM visibility and analytics.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And I think that could potentially apply.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "We're definitely actively developing more software.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "That's for sure.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:35"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "absolutely.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Are you using any tools like the Vibe Coders, like Lovable, Bold, VO?",
+            "timestamp": "00:04:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Are you familiar with any of those?",
+            "timestamp": "00:04:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I'm familiar with them.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I don't know to what extent or which we actually use.",
+            "timestamp": "00:04:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Lovable is a client of ours, though, for context.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Interesting.",
+            "timestamp": "00:04:56"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Can you tell me?",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "I looked into you guys.",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Can you give me a little context of why you think Marcel might have introduced you to us as well?",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Definitely.",
+            "timestamp": "00:05:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So Marcel, as I'm sure you can imagine, gets countless solicitations, emails, messages, etc.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And sometimes I work with his EA to go through LinkedIn messages, make sure that we're not dropping the ball on responding.",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "This is one where there was clearly not, you know, Marcel was out of office last week, it was his birthday.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Not the whole week, but Thursday and Friday.",
+            "timestamp": "00:05:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "This is clearly just like a disconnect between the conversation Marcel had with Aaron, and then the EA and I trying to understand, is Supabase looking to talk to us in a sales capacity for our services?",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Or what exactly is it?",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So I think what I can do is I can definitely...",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I have access to Marcel, I'm connected with him this afternoon.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I will just ask him, you know, hey, are you interested in chatting with the folks at Supabase?",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Or is there, you know, more that we might potentially need from their platform?",
+            "timestamp": "00:06:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Is that what you would want me to do as a next step?",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, that would be awesome.",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So, yeah, just to, again, background context is generally we work with engineers, we work with people building apps, whatever.",
+            "timestamp": "00:06:19"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "But, what we're seeing more of, and I think this is potentially why Marcel is using Supabase, I don't know that for sure, is that with the advent of AI coding, these Vibe coding tools, like Lovable, for example, is you have non-engineers using Supabase as like a bi-proxy to these front-end tools like Lovable, right?",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So, Lovable enables, are you a developer at all?",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Do you know how to code?",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "No.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So, I don't either, right?",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "But Lovable enables folks like you.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "You and myself to like go and build real functional applications, right?",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And oftentimes what we're seeing is go to market teams, marketing teams, sales teams are building out landing pages, like easy CRMs, replacing SurveyMonkey, replacing XYZ feature that you're paying $120,000 a year for, like DocuSign, right, with Lovable and something like Supabase because it costs pennies compared to what you're paying those providers.",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And so my curiosity, especially like saying, okay, Marcel's the CEO, perhaps he's not technical either, is like, is he in this like new category of people, right?",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So what I'm looking for personally is, A, is there more opportunity?",
+            "timestamp": "00:07:41"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yes, on a sales front, but B, what is this like new market look like?",
+            "timestamp": "00:07:46"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "How is he using Supabase versus like the normal engineers I talk to on a day to day basis?",
+            "timestamp": "00:07:50"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So yeah, next steps to follow up is, would love to chat with",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Tim or one of your engineers to like learn why you guys are exploring Supabase, maybe it was for like a migration opportunity from like, whatever your back end services to Supabase, that's like, you know, unknown, obviously, but at the same time, if you guys are lovable as a customer of yours, I'd be curious to learn more, like, who do you want to talk to on our team, and then maybe we can both get, you know, value out of this moving forward.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, that sounds great.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And I guess, to what extent are we using Supabase today?",
+            "timestamp": "00:08:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Are we on like your free plan?",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Are we on a product-led paid plan?",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yep.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So Supabase is a product-led growth company, very similar to Lovable, right?",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "You like go in, play around with Supabase in a free capacity and then upgrade to, we have like several different services.",
+            "timestamp": "00:08:39"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "You guys are on like a smaller, you know, pro plan, only paying $25 per month, right?",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And so we're at the stage where we're still like, you know, talking to everyone, trying to like just learn what folks are doing.",
+            "timestamp": "00:08:50"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And especially, like I mentioned, in this like new age.",
+            "timestamp": "00:08:57"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "How many users do we have?",
+            "timestamp": "00:09:01"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Is it priced by user?",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "No, it's not seed-based pricing.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "It's usage-based pricing.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "there's like a standard plan, right?",
+            "timestamp": "00:09:11"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So we have like a $25, $5.99, and then like our enterprise services.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And then based on like your actual usage, how big your database is, how many monthly active users you have, that's when like your costs kind of scale.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "It looks like this is a fairly small product or small usage so far, right?",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Just primarily using the database and like one or two of our other features.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So it's not huge.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Not, yeah.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So it's really spends $25 per month.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So is this really like engagement, learning what you're doing?",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "A lot of people are doing like proof of concepts.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Hey, is this like valuable for us to do a big migration, right?",
+            "timestamp": "00:09:50"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So it's, it's really like unknown, even though it's like $25, like what, what it could be.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So it's, that's why.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So we reach out and learn more.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Makes perfect sense.",
+            "timestamp": "00:10:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, I'll definitely talk to Marcel this afternoon and I can give you both a quick overview on what we do at GrowthX as well, if that's helpful.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, would love to.",
+            "timestamp": "00:10:11"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And again, if you guys are working with Lovable, I'm sure there's an opportunity to work with you guys here at Supabase, so I'm curious to learn more.",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Super cool.",
+            "timestamp": "00:10:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, kudos to you, Hayden.",
+            "timestamp": "00:10:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Again, it definitely just takes, right, like sending enough messages and having the right context behind it and hopefully something can come from this.",
+            "timestamp": "00:10:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I do remember looking at my calendar this morning and going, what is this call going to be about?",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I'll have to know if that happens, so.",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "For sure.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So, GrowthX, think of us as an end-to-end agency partner, helping with everything from SEO and GEO strategy to creating all of the different content assignments and then actually going and building.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "The content, staging and publishing in your CMS, and then delivering all of the LLM visibility and analytics after the fact.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And so the reason GrowthX is having a ton of traction is because there's this massive shift in content marketing, right?",
+            "timestamp": "00:11:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Clicks to the website are disappearing.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Your first sales conversation is sometimes happening with ChatGPT or a different, you know, different platform instead of a real person.",
+            "timestamp": "00:11:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And as a result, if you can start showing up in the answers, you can get much higher intent visitors to your site.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Sam Rush did a study about how AI search visits are 4.4 times more likely to convert.",
+            "timestamp": "00:11:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "They spend three times as long.",
+            "timestamp": "00:11:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And so our approach is we take a very audience first approach to what we're creating content around.",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "It's like, who's your ICP?",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "What's the topics where you want to have authority?",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And then we're doing SEO analysis around keyword search volume, ranking difficulty.",
+            "timestamp": "00:11:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "there's a a are\u7570\u308f\u304b\ufffduni not on as Kevin comment,",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And the result is that either scenario, we're, you seeing our clients have fast results because of the way that we can use very sophisticated AI workflows to publish content daily, that's very relevant, right, to the audience that you all care about.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And so that's, like, a high level on GrowthX.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "It's just like, instead of buying a pool like AROPS, right, where you're trying to, like, stitch together all of these different steps in the workflow.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And then what happens, like, when the model changes, right, and you have to, like, change everything?",
+            "timestamp": "00:12:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Or what happens when your costs start scaling out of control?",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Because all the API calls that you're making, like, were a way of basically being an extension of your content team, and then taking off, like, the heavy burden of developing quality content at scale.",
+            "timestamp": "00:12:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I'll show you, like, a little bit behind the hood, but any quick questions about what we're doing here?",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "No, no, makes sense.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So primarily working with, like, with marketing.",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "you.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And teams in the go-to-market segment, essentially.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Exactly, exactly.",
+            "timestamp": "00:13:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like, because in the AI search world, there's an infinite number of ways that someone could prompt and someone could search, what we're seeing is you just need to create a lot more content.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "You need a much wider surface area, but you also have to keep quality high.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And that's something that teams creating content on their own or teams trying to use Pod or ChatGPT, it's why they're not able to do what we're doing here.",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And to just give you a little bit behind the hood, know, typically we focus on editorial, because that's the area where you can develop a ton of content or you can publish daily.",
+            "timestamp": "00:13:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "In town, you know, they're in the accounting space, a lot of the content that we've created for them, it's like content around taxes, content that they cannot get wrong.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And so we can solve for fact-checking and, you",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "What about AI hallucinating?",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "How can you ensure that that's not the case and everything's accurate?",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And our workflows, I'll go into them, but it just allows us basically to, you know, we're going to start with, let me just pull up.",
+            "timestamp": "00:14:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "We're going to start by creating these artifacts.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So there are artifacts around your company, your brand voice and writing guidelines, your personas.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "For this company, they're in the business travel space.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "We created them across a bunch of different industry verticals.",
+            "timestamp": "00:14:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "But this is the context that gives our workflows the engineering necessary to be hyper-relevant, hyper-effective.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And you can see here, it's like, take, you know, the ICP that you care about.",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Who are they?",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "What are their fears and uncertainties, motivations?",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "How do you win and lose their trust?",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "What gets them promoted or fired?",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And then once we've got this context ready, you know, that's when we can go in and create content off of.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "know, ICP's",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So we might be looking at like a keyword as an input, and the artifacts will also be in the inputs here.",
+            "timestamp": "00:15:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "There'll be like a direction from the managing editor working on the account.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And because we've built all our workflows in code, we can get custom from client to client with the workflow.",
+            "timestamp": "00:15:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "We can make changes very quickly.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And so like in this example right here where an article is being generated for one of our clients, for the brief step, you know, we start with those inputs, but then we look at organic results, surf ranking factors, competitor content, and all of these steps inform the brief that's created.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "As you continue down the process, right, the next step is you want to do research against that brief.",
+            "timestamp": "00:15:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And so we're generating research questions and then doing deep research on each question, validating against credible sources.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "When you think about fact checking, we're taking our entire article that we've drafted, we're splitting splitting it into chunks, and then we're doing deep research on every single passage.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "If we can't validate that it's accurate against a certain confidence interval, we'll recommend a rewrite.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And so it's like a systematic, scientific way of creating, like, GEO content at scale with our experts in the loop who can make changes to the content directly or use AI instructions with all the different context that's built in.",
+            "timestamp": "00:16:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "There's a lot more to it than this.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I can talk results and all that good stuff.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "But I think in the interest of everybody's time here, we should probably just connect with the right folks on our side and see if there's an opportunity to continue conversations.",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, yeah, no, totally agree.",
+            "timestamp": "00:16:37"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, obviously I'm not in that space, but it looks very interesting.",
+            "timestamp": "00:16:39"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "I know it's a pain in our butt for the folks on our team who are, you know, writing case studies, for example, or even cases like technical blogs and stuff like that.",
+            "timestamp": "00:16:44"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "I mean, or even honestly on our go-to-market team of just creating documents to help customers.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "So yeah, super, super interesting.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "I'm who, who specifically would be like your ICP?",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Like what, what is the role that you generally work with?",
+            "timestamp": "00:17:08"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And then, you know, we can go from there on, I'll, you know, I'll connect you with those folks.",
+            "timestamp": "00:17:10"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And then, you know, whether it's Marcel or someone on the engineering team, I would love to chat with them on your side.",
+            "timestamp": "00:17:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, 100%.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I would say that like a head of content, or maybe like a demand gen director, it's usually the folks who are running marketing or content that are the ones who are most interested in what we're doing.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Because every CMO is talking about how do I show up in AI answers?",
+            "timestamp": "00:17:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "How do we solve for GEO?",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Right?",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And how is it different than SEO?",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So whoever you think would be the most relevant person in the marketing org around those kinds of topics?",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:52"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Definitely.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Top of mind is Pershaunt or Greg and, or Craig, sorry.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And I, I can follow up with a, with an introduction.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Or, you know, yeah, probably better on both our sides, just, yeah, reach out to, reach out to whoever on our teams and you and I can follow up, make sure that they want to take a call and, and whatnot, because if Marcel doesn't want to talk, no, no worries at all.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "So.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Yeah, 100%.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "I agree.",
+            "timestamp": "00:18:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Like, if there's an organic interest on either side, let's follow up on it.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "And I do have a meeting with Marcel at the end of the day today, where I'll bring up Supabase and let him tell me if I should set up a call with an engineer or himself.",
+            "timestamp": "00:18:19"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "just give you a clear answer right after he gives me that information.",
+            "timestamp": "00:18:29"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah, that'd be, that'd be perfect.",
+            "timestamp": "00:18:34"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "And I can follow up after this with, yeah, Craig and Prashant, so.",
+            "timestamp": "00:18:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Well, good to make the connection.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Hope you'll have a good week.",
+            "timestamp": "00:18:40"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Likewise, Tyler.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "haydn maley - Supabase",
+                "matched_calendar_invitee_email": "haydn@supabase.io"
+            },
+            "text": "Appreciate the time and glad we could figure this out.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Thanks, Hayden.",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Thanks, David.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "See ya.",
+            "timestamp": "00:18:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "right.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Appreciate you.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:18:49"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Clarify the context of previous Supabase-GrowthX interactions and explore potential collaboration opportunities.](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [GrowthX is using Supabase on a small scale ($25/month pro plan), but the extent and purpose are unclear](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=240.0)\n  - [GrowthX offers AI-driven content marketing services, focusing on SEO and AI search optimization](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=668.0)\n  - [Both parties expressed interest in further discussions: Supabase to understand GrowthX's usage, GrowthX to explore potential Supabase applications](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=997.0)\n\n## Topics\n\n### Supabase Usage by GrowthX\n\n  - [GrowthX currently uses Supabase on a $25/month pro plan](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=514.0)\n  - [Usage appears small-scale, primarily utilizing the database and 1-2 other features](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=566.0)\n  - [Exact purpose and extent of use are unknown, possibly for proof of concept or small projects](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=586.0)\n  - [Marcel (GrowthX CEO) uses Supabase personally, but details are unclear](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=161.0)\n\n### GrowthX Services Overview\n\n  - [End-to-end agency partner for content marketing](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=644.0)\n  - [Focus on AI-driven content creation and optimization for AI search results](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=668.0)\n  - [Services include SEO/GEO strategy, content creation, CMS management, and LLM analytics](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=644.0)\n  - [Utilizes sophisticated AI workflows to publish relevant content daily](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=786.0)\n  - [Emphasizes fact-checking and accuracy in content creation](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=950.0)\n  - [Targets marketing teams and go-to-market segments](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=1040.0)\n\n### Potential Collaboration Areas\n\n  - [Supabase interested in learning about new use cases, especially non-technical users leveraging tools like Lovable](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=389.0)\n  - [GrowthX developing apps for LLM visibility and analytics, which could potentially use Supabase](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=251.0)\n  - [Supabase curious about GrowthX's relationship with Lovable (a GrowthX client) and potential synergies](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=613.0)\n\n### Contact Points and Next Steps\n\n  - [Tyler to discuss Supabase with Marcel (GrowthX CEO) and provide feedback](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=360.0)\n  - [Hayden to reach out to Craig and Prashant at Supabase regarding potential interest in GrowthX services](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=1073.0)\n  - [Both parties open to connecting relevant team members for further discussions](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=1096.0)\n\n## Next Steps\n\n  - [Tyler to update Hayden after speaking with Marcel about Supabase interest/usage](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=1093.0)\n  - [Hayden to follow up with Craig and Prashant at Supabase regarding potential interest in GrowthX services](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=1114.0)\n  - [Both parties to facilitate introductions between relevant team members if there's mutual interest](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=1096.0)\n  - [Schedule follow-up calls or meetings based on the outcomes of internal discussions](https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf?tab=summary&timestamp=1119.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Speak w/ Marcel re Supabase interest; relay outcome to Hayden (engineer call or Marcel call)\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:05:49",
+            "recording_playback_url": "https://fathom.video/calls/423531813?timestamp=349.9999",
+            "assignee": {
+                "name": "Tyler Pavlas",
+                "email": "tyler@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Follow up w/ Craig & Prashant re potential interest in GrowthX services\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:17:42",
+            "recording_playback_url": "https://fathom.video/calls/423531813?timestamp=1062.9999",
+            "assignee": {
+                "name": "haydn maley - Supabase",
+                "email": "haydn@supabase.io",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Haydn Maley",
+            "email": "haydn@supabase.io",
+            "email_domain": "supabase.io",
+            "is_external": true,
+            "matched_speaker_display_name": "haydn maley - Supabase"
+        },
+        {
+            "name": "David Ventimiglia",
+            "email": "david.ventimiglia@supabase.io",
+            "email_domain": "supabase.io",
+            "is_external": true,
+            "matched_speaker_display_name": "David Ventimiglia"
+        },
+        {
+            "name": "Tyler Pavlas",
+            "email": "tyler@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Tyler Pavlas"
+        }
+    ],
+    "recorded_by": {
+        "name": "Tyler Pavlas",
+        "email": "tyler@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/ECkb6_Bc9QzVvkLX8mPyvqizqnCaEEGf",
+    "crm_matches": {
+        "contacts": [],
+        "companies": [],
+        "deals": [],
+        "error": null
+    }
+}

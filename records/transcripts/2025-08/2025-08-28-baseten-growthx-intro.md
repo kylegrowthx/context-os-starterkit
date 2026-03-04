@@ -1,0 +1,913 @@
+# Baseten <> GrowthX - Intro
+
+<metadata>
+date: 2025-08-28
+time: 17:32 UTC
+duration: 29 minutes
+organizer: Marcel Santilli (GrowthX)
+participants: Marcel Santilli (GrowthX), Marylise Tauzia (Baseten)
+fathom_recording_id: 83648001
+fathom_url: https://fathom.video/calls/392979371
+share_url: https://fathom.video/share/vNP1DPF_4QR8vj94Cn_syBok5LYXRByK
+source: fathom
+enriched_on: 2026-03-03 UTC
+</metadata>
+
+---
+
+## Summary
+
+Marcel Santilli introduced GrowthX's expert-led, AI-powered content marketing services to Marylise Tauzia, Baseten's head of product marketing. Baseten is struggling to produce enough technical content for SEO and AI-generated answer visibility after a major rebrand in May, with only a 3-person marketing team. GrowthX proposed an 8-week strategy sprint for $20,000 to develop content strategy and begin execution, followed by ongoing growth engagement at $12,000-$15,000/month to publish daily and maintain content freshness in the AI era.
+
+---
+
+## Context
+
+Baseten is an AI inference platform company that recently rebranded and launched in May 2025 (10 days after Marylise joined). Marylise came to Baseten from Square, where she spent 9 years building a developer platform, and was attracted to the AI infrastructure space to grow her expertise. She discovered that Baseten was virtually invisible in Google and LLM search results for "inference" queries, which prompted her to bring in Jordan Digital (an SEO firm she worked with at Square) and begin building an SEO and content strategy. The marketing team is small (3 people including Marylise) and cannot produce enough high-quality, technical content to compete while also handling product launches and releases. Marylise was introduced to Marcel by Francois (a mutual connection in the French tech/growth community), who spoke highly of GrowthX's work.
+
+GrowthX is a 2-year-old content marketing agency founded by Marcel Santilli, former CMO at Scale.ai and former marketing leader at IBM, HashiCorp, and DeepGram. GrowthX combines expert-led research and editorial (including a chief content officer who ran TechCrunch for 10 years) with AI-powered workflows to scale content creation. The company's philosophy is to help brands become publishers — creating content audiences would pay for — rather than just promote products. They recently completed 10-12 weeks of work with Augment Code, generating 60+ pieces of content that now drive more traffic than Augment's long-standing blog.
+
+---
+
+## Relevance
+
+**To GrowthX Business Development:**
+- Baseten is a strong fit for GrowthX's core offering: a technical, infrastructure-focused B2B company facing content production constraints
+- Marylise is highly motivated, hands-on, and understands the value of SEO and content — she identified the problem herself and took action (bringing in Jordan Digital)
+- Engagement is non-committal: 8-week sprint at $20k allows both parties to test fit before committing to $12-15k/month growth execution
+- Procurement is fast at Baseten (Marylise flagged this as a strength vs. her experience at Square)
+- Mike (CMO/VP Marketing) is the decision-maker and is already aligned on investing in SEO and content strategy
+
+**To GrowthX Delivery:**
+- Baseten's challenge is highly technical (AI inference concepts, open-source models, benchmarks, deployments) — similar to Augment Code engagement, which validates GrowthX's approach
+- The company has clear, measurable success metrics: visibility in Google and LLM searches for inference-related keywords
+- Marylise and the team are already producing high-quality content (Deep Seek white paper performing well) — baseline quality is strong, just constrained by velocity
+
+**To CheckThat:**
+- Baseten is actively concerned with visibility in AI-generated answers (LLM searches), which is exactly CheckThat's domain
+- Opportunity to track how GrowthX-created content surfaces in LLM responses and measure CheckThat's competitive intelligence value
+- Baseten deals with open-source LLM evaluations and benchmarking — potential future reference for CheckThat's AI visibility index positioning
+
+---
+
+## Overview
+
+- BaseTen faces challenges with SEO and content creation for their AI inference platform
+- GrowthX offers AI-powered, expert-led content creation services with proven results
+- Initial 8-week strategy sprint proposed at $20k, followed by potential ongoing execution
+- Both parties expressed interest in continuing discussions and involving BaseTen's CMO
+
+---
+
+## Key Topics
+
+### BaseTen's Current Situation
+
+  - Marylise joined BaseTen 3.5 months ago as head of product marketing
+  - Recently rebranded and launched on May 19th, just 10 days after Marylise started
+  - Facing challenges with SEO and visibility for "inference" related searches
+  - Working with Jordan Digital to improve SEO and content strategy
+  - Small marketing team (3 people) struggling to produce enough high-quality, technical content
+
+### GrowthX's Approach and Offerings
+
+  - Founded by Marcel Santilli, former CMO at Scale.ai and marketing leader at other tech companies
+  - Focus on creating high-value, expert-led content that audiences would "pay for if not free"
+  - Use AI-powered workflows and human experts to scale content creation while maintaining quality
+  - Platform includes research agents, content drafting, and LLM tracking capabilities
+  - Aim to replace need for separate SEO agencies, freelancers, and multiple tools
+
+### Case Study: Augment Code
+
+  - In 10-12 weeks, GrowthX created content generating more traffic than Augment's long-standing blog
+  - Improved visibility in AI-generated answers and search results
+  - Published over 60 pieces of content in 10 weeks
+
+### Proposed Engagement
+
+  - 8-week strategy sprint for $20,000
+      - Includes strategy development, artifact creation, and 3-6 month content roadmap
+      - Begins execution and publishing by week 4-5
+  - Potential ongoing growth execution at $12,000-$15,000 per month
+      - Aims for daily publishing and content refreshes
+      - Includes all content creation, design, and publishing services
+
+### AI's Impact on Content Marketing
+
+  - First impressions often happening in AI-generated answers
+  - Content half-life decreasing, requiring more frequent updates
+  - High-intent traffic from AI answers may be more valuable than traditional search traffic
+
+---
+
+## Action Items
+
+**Marylise Tauzia (Baseten)**
+- Discuss GrowthX services w/ Mike (CMO/VP Marketing); relay interest in 8-wk strategy sprint ($20k)
+
+**Marcel Santilli (GrowthX)**
+- Add Marylise to shared Slack; schedule follow-up mtg w/ Marylise & Mike re GrowthX services
+
+---
+
+## Transcript
+
+**Marcel Santilli:** I just set up a nice camera for this. Let me try it in a normal Zoom environment to see if it works or feels awkward.
+
+**Marylise Tauzia:** It's really sharp, actually.
+
+**Marcel Santilli:** Does it feel awkward to have it this way, or is it okay?
+
+**Marylise Tauzia:** No, it's fine. I didn't even notice.
+
+**Marcel Santilli:** It's more like if you were sitting across from me. Where are you based?
+
+**Marylise Tauzia:** We're in San Francisco.
+
+**Marcel Santilli:** Same here. We have an office in San Francisco by South Park.
+
+**Marylise Tauzia:** You know where Blue Bottle is?
+
+**Marcel Santilli:** Yeah, we're just across the street from Blue Bottle. There's a building with the Toyota Ventures sign.
+
+**Marylise Tauzia:** We're in the second part of that building, right by the embarkation. So on Spear Street, not too far.
+
+**Marcel Santilli:** Nice. Well, it's awesome to connect. I know Baseten has been doing really well, so congrats on that.
+
+**Marylise Tauzia:** Thanks. I've been here for three and a half months, which has been really incredible. When I joined, I wasn't sure what this market was — inference is complex, kind of the infrastructure that powers AI. But from my background at Square, where I spent nine years growing the developer platform, it felt like a good evolution. I wanted to do AI product marketing and get my foot in the door.
+
+**Marcel Santilli:** How has the transition been from such a large company?
+
+**Marylise Tauzia:** It was a shock, but in a good way. I loved Square like family, but it got too big. We were working from home, and I was really lonely. There were divestitures in the developer platform. I needed to feel useful again. At one point, my team was 45 people, and with layoffs, it kept shrinking. I became this Uber manager and wasn't doing the work anymore. I was scared coming to Baseten — I'd have to write decks and do all the things — but it was very natural. I can still do this work. I got energy back that I didn't feel I had before.
+
+**Marcel Santilli:** That energy and ownership is critical. For me, it's about how many things throughout the day add energy versus drain it. At some point, you don't feel like you're creating anymore, just doing draining things. That's part of why I started GrowthX. After IVF, toxic startups, and my time at DeepGram, I kept finding myself in meetings asking, "Why am I here?"
+
+**Marylise Tauzia:** Some people are career people. When my CEO Tuhan asked me what title I wanted, I said I don't care about titles — I just want to work on cool stuff with good people. I want to move the needle.
+
+**Marcel Santilli:** That's amazing. Before I dive into GrowthX, maybe tell me more about the growth pressures you're facing?
+
+**Marylise Tauzia:** I created the pressure myself at first. I joined May 5th. We did a full rebrand and major launch on May 19th — just 10 days after I started. I was learning AI, reading technical papers, trying to understand inference. Then I realized we weren't showing up on Google or in LLM searches for "inference" queries. That was a huge problem. I brought in Jordan Digital, an SEO firm I worked with at Square. Adam did an assessment, Mike approved it, and we started this journey to fix SEO and get visibility in LLM searches. We identified our core keywords and where we want to rank. But we're a team of three — me and two product marketers — and we can't produce enough high-quality, technical content while handling product launches and releases. We need external help for people who understand the space, match our voice, and can be technical.
+
+**Marylise Tauzia:** We just released a Deep Seek white paper this week that was gold for SEO. Adam gave us an outline with the right keywords. Our VP of Marketing initially questioned why we were doing it, but yesterday it's already ranking really well. Deep Seek and a new model came out last week, so it's perfectly timed. We have quite a few topics we want to focus on.
+
+**Marylise Tauzia:** I was chatting with Francois last week. You know, the French mafia?
+
+**Marcel Santilli:** Yes, the French growth and marketing mafia. We have Victor from Strappy as a customer, and Francois is a friend.
+
+**Marylise Tauzia:** Francois mentioned you do great work. He said you work with them and they're awesome, so I wanted to connect.
+
+**Marcel Santilli:** I love it. Let me give you a high-level overview of GrowthX, and we can dive deeper later. I started early in my career at IBM, which had acquired Israeli security companies. My job was to consolidate everything. I realized our blogs were garbage, so I convinced the GM to let me spin up securedintelligence.com from the ground up. It felt like running a mini startup funded by IBM. It became the biggest source of pipeline for that business — 17 million in revenue in the first year. The lesson was that if brands become publishers to build trust and distribution with audiences, that's a scalable marketing model. Marketing creates value when you put content into the world that audiences would pay for if it wasn't free. That's credibility and helpfulness.
+
+**Marcel Santilli:** I did this throughout my career at technical companies like HashiCorp, Scale.ai, and DeepGram.
+
+**Marylise Tauzia:** You were CMO at Scale.ai?
+
+**Marcel Santilli:** Yeah, I was their first and only CMO for two years. I was the only one that made it in and barely made it out alive. Scale.ai is a crazy company with a 21-year-old billionaire founder. But life is good now, much better. The point is, I've always done content, and now AI is accelerating everything. For our customers, first impressions often happen in AI answers — almost like the first sales call. People give their full context: who they are, what they're struggling with, who they work for. Your answer isn't just "How do I deploy DeepSeek at scale?" but "OpenAI is costing us an arm and a leg, we can't fine-tune, Claude doesn't allow fine-tuning, we need to scale to a million concurrent calls, and we need open-source models. I heard DeepSeek is one of the best. Which ones are out there, and how do I deploy this at scale?"
+
+**Marylise Tauzia:** You've done an amazing job with your guide, so you need to keep doing this.
+
+**Marcel Santilli:** Exactly. Every piece of content has to be the best answers that then become the best answers in AI responses. To do that, you need to be credible, comprehensive, and up to date — AI is super biased toward recency. I don't believe in using AI to automate everything. You need to start with experts, figure out how to get to great, create the right context, and work backward. Our approach is expert-led and AI-powered. We do everything as a service: strategy, AI workflows, experts in the loop, and last-mile execution. Our Chief Content Officer ran TechCrunch for 10 years. We have amazing humans who are smart, lovely to work with, and become super invested in your brand. We also have a platform that handles the A-to-Z of creating and scaling content. It's internal now, but we're exposing more to customers soon.
+
+**Marcel Santilli:** If your goal is amazing content at scale, you can't start with workflows or automation. You start with context and strategy, define quality, then scale. That's why we set up eight-week strategy sprints with execution and a low commitment. We do deep dives on personas, writing guidelines, company context, product knowledge. We map your audience and topics. For Baseten, that might be: What are all the open-source models? What are the evals and benchmarks? What are the strengths and weaknesses? What are jobs to be done? What tools exist? What are definitions, how-tos, and comparisons? What are competitors doing? What does your audience care about? What does your solution enable? We find the overlap and that's your strategy.
+
+**Marcel Santilli:** With Augment Code, we've seen insane results in just 10-12 weeks. They've created about 20 slash-guides that now generate more traffic than their long-standing blog. They're showing up quickly in AI answers, not just search. Before we published, if you searched "How can coding tools understand my entire code base?", Augment was nowhere. Competitors were mentioned. After we published, our content is cited in four different places in the answer. The entire answer is now about how to think about it the right way — multi-repo indexing, contextual awareness, integration, compliance. People read this and ask Augment, "What's your contextual engine? How do you understand codebases?" That's inception at scale. People assume AI answers are expert opinions, which is bad when LLMs don't filter sources well, but that's reality. We need to operate in that reality and scale with quality — not trade off speed for quality or scale for quality. It has to be all three.
+
+**Marylise Tauzia:** Does this feel duplicative with the SEO agency we're working with? Will you take care of that?
+
+**Marcel Santilli:** It is duplicative. I never hire SEO agencies. They point out every crack and imperfection but won't fix them — "I'm not an expert in your topic." There are hygiene things like navigation, speed, and page performance, but those are mostly dev, design, or content tasks. Audits don't actually fix issues. For us, it's about identifying and understanding your audience, setting context, and figuring out topics to talk about. That's the hard part. Content is a compounding asset, but it decays if you don't maintain it. With AI, content half-life is decaying faster, so if you do nothing, you go to zero quicker.
+
+**Marylise Tauzia:** So you handle the LLM work, and it also supports SEO?
+
+**Marcel Santilli:** Exactly. We're seeing faster SEO results for Augment, though LLMs send less traffic overall. But the traffic is high-intent — people spend 15-20 minutes in answers. Simple math: if you were getting 10 clicks at 1x value before, and now you get 3 clicks at 4x value, that's a net positive.
+
+**Marylise Tauzia:** I have three minutes before a customer call. What's the pricing and engagement model?
+
+**Marcel Santilli:** We start with an eight-week strategy sprint for $20,000. We do your strategy, create artifacts, give you three to six months of content roadmap, and start executing and publishing by week four or five. That's where we prove it out. You can fire us, or we can fire you if it doesn't work. Then we go into growth execution at $12-15K per month for editorial. We want someone who understands your space and has nuance and empathy for it. We aim to publish daily, refresh content, and do all LLM tracking. You don't need SEO audits, agencies, editors, freelancers, or graphic designers. We do A-to-Z: staging, publishing, everything. With Augment, we've published 60+ pieces in 10 weeks.
+
+**Marylise Tauzia:** Just to clarify — you deliver a few pieces of content during the eight-week sprint?
+
+**Marcel Santilli:** Several, yes. We start publishing by week four or five, depending on technical depth and how many expert interviews and review layers we need. We recommend starting with informational topics, not how-tos about your product — that's a disaster. As we gain confidence in quality, we scale. By week five or six, we're usually publishing daily.
+
+**Marylise Tauzia:** That's amazing. I'll talk to Mike, our CMO/VP of Marketing. He'd probably want to talk to you.
+
+**Marcel Santilli:** Great. We can add you to a shared Slack and schedule time with you and Mike. We're usually four to six weeks out from kickoff, so just keep that in mind with procurement.
+
+**Marylise Tauzia:** We have a very short procurement process.
+
+**Marcel Santilli:** That's music to our ears.
+
+**Marylise Tauzia:** Much easier than at Square. I appreciate it — lovely meeting. I'm excited to keep the conversation going.
+
+**Marcel Santilli:** Me too. Take care!
+
+**Marylise Tauzia:** We were working from home.
+
+**Marylise Tauzia:** I was really lonely, like, you know, and there were like divestment in the developer platform.
+
+**Marylise Tauzia:** So I just kind of like, I was like, I need to feel useful again, you know, and, and I think part of me wanted to prove myself that I could just do the work because I, I mean, at some point my team was 45 and then they kept like, you know, laying off and stuff.
+
+**Marylise Tauzia:** So the team was shrinking, but, you know, but then, you know, you become this kind of Uber manager and you're like, you don't do anything anymore.
+
+**Marylise Tauzia:** And so I was kind of scared to be honest, like, oh my God, I'm going get in there and I'm probably going to have to write decks and do all the things, but it actually was very natural.
+
+**Marylise Tauzia:** And I was like, I can do this.
+
+**Marylise Tauzia:** Like, I can still do this.
+
+**Marylise Tauzia:** And in a way it was not a culture stock as I was expecting that, but it was in a good way of like, I just got like so much energy that I did not feel like I had anymore because it was happy.
+
+**Marylise Tauzia:** Like we all kind of like lose our mind.
+
+**Marylise Tauzia:** And at 4 p.m.
+
+**Marcel Santilli:** after like all the pressure of the day goes down and just even going to the office like and just learning a new space.
+
+**Marcel Santilli:** yeah, it's been.
+
+**Marcel Santilli:** The way I think about it is like how many things throughout the day add energy versus drain your energy.
+
+**Marcel Santilli:** And you get to a point where, you know, for us, there are doers like you, you know, it's like then you don't feel like you're doing or creating, you know, and then it's like you're mostly doing draining things.
+
+**Marcel Santilli:** That's how I found myself, too.
+
+**Marcel Santilli:** And what kind of drove me to start GrowthX, too, was like, like my wife and I had gone through IVF and gone through all these hard things.
+
+**Marcel Santilli:** And then I had been a lot of like toxic startups as well that were really hard to be at.
+
+**Marcel Santilli:** But then also after a while, I was at my last company, DeepGram.
+
+**Marcel Santilli:** were lovely.
+
+**Marcel Santilli:** But I was just like kept finding myself in these meetings.
+
+**Marcel Santilli:** And I'm just like, why am I here?
+
+**Marcel Santilli:** Like, seriously, like I can be out there learning and building things and doing this stuff.
+
+**Marylise Tauzia:** No, it's funny because some people are like career people.
+
+**Marylise Tauzia:** And I think when Tuhan asked me like.
+
+**Marylise Tauzia:** What title do you want?
+
+**Marcel Santilli:** What do you want?
+
+**Marcel Santilli:** I'm like, I don't give a .
+
+**Marylise Tauzia:** I just want to work on cool stuff with good people.
+
+**Marylise Tauzia:** I really said that and I'm very sincere about it because I was just like, I don't care the size of my team.
+
+**Marylise Tauzia:** I like really just move the needle.
+
+**Marylise Tauzia:** It's kind of what I'm able to do.
+
+**Marcel Santilli:** That's amazing.
+
+**Marcel Santilli:** Well, happy to do a quick intro to or context on my end.
+
+**Marcel Santilli:** And maybe before I do that, I'd love to just understand a little bit like I know you said they're like three months or whatnot, but maybe a little bit of context of on like, you know, some of the growth pressures or kind of like just a little bit.
+
+**Marcel Santilli:** then that way, like I can do a little bit background intro myself to in the company.
+
+**Marylise Tauzia:** But I also keep that in mind as well.
+
+**Marylise Tauzia:** Yeah.
+
+**Marylise Tauzia:** Yeah.
+
+**Marylise Tauzia:** So the pressure, I mean, the pressure was kind of created by me first.
+
+**Marylise Tauzia:** And I think now it's really snowballing.
+
+**Marylise Tauzia:** But it's like, you know, I joined on May 5.
+
+**Marylise Tauzia:** We did a full rebrand of the company and the major launch on May 19.
+
+**Marylise Tauzia:** And I'm sitting there learning.
+
+**Marcel Santilli:** 10 days?
+
+**Marylise Tauzia:** Oh, my God.
+
+**Marylise Tauzia:** Yeah.
+
+**Marcel Santilli:** And I'm just looking at all the madness happening.
+
+**Marylise Tauzia:** I'm like, I can't really do much.
+
+**Marylise Tauzia:** I'm just learning AI, learning info, like reading like freaking technical paper, which I probably read 10 times to be like, okay, this is what we do.
+
+**Marcel Santilli:** Okay, get it now.
+
+**Marylise Tauzia:** Yeah, yeah, exactly.
+
+**Marylise Tauzia:** And then what struck me, they were like really excited to put a brand campaign in the bot station.
+
+**Marylise Tauzia:** And I was like, okay.
+
+**Marylise Tauzia:** And then during my time, like learning inference and trying to see what it was, I kept looking like, what is inference?
+
+**Marylise Tauzia:** You know, who are the inference vendors?
+
+**Marylise Tauzia:** And I was just like, never popping up on Google, never popping up in the LNM searches.
+
+**Marylise Tauzia:** I was just like, okay, you know, so I was telling my LVP of marketing, I'm like, you're doing a brand campaign that is basically saying inference is everything.
+
+**Marylise Tauzia:** So that's going to make people type inference.
+
+**Marylise Tauzia:** And then we're never going to pop up.
+
+**Marylise Tauzia:** And so that was like a big problem to me.
+
+**Marylise Tauzia:** And so then I brought in Jordan Digital.
+
+**Marylise Tauzia:** That I worked with at Square and I just really liked them.
+
+**Marylise Tauzia:** And so, you know, I started to work with Adam and he did an assessment and then we presented to Mike and Mike was like, should we get to do this right away?
+
+**Marylise Tauzia:** I'm like, uh-huh.
+
+**Marylise Tauzia:** And so, yeah, we started on this journey of like fixing SEO, fixing, you know, basically getting started on L&M searches and stuff.
+
+**Marylise Tauzia:** And that led us into like, we need a lot of content to actually like, you know, we identified our core keywords on like, where do we want to rank?
+
+**Marylise Tauzia:** Who do we want to be and stand for?
+
+**Marylise Tauzia:** And so now I'm like, you know, we are a mighty team of three right now.
+
+**Marylise Tauzia:** It's like me and two PMMs waiting for me and they are like really great, but it's like we can't pump in us content quickly enough to actually like, not only like work on our releases and the things we need to do for the product, but also just like has this long tail of like SEO work that we need to basically fix.
+
+**Marcel Santilli:** Yeah, that's what we're looking for, like external help for people who can like be, you know, have the same voice as us, be really technical.
+
+**Marylise Tauzia:** I mean, this is a very geeky voice and just make sure that.
+
+**Marylise Tauzia:** Yeah.
+
+**Marylise Tauzia:** Yeah.
+
+**Marylise Tauzia:** And while we try to do this thing to basically get the engines to look at us, we also want to be true to ourselves.
+
+**Marylise Tauzia:** Like, for example, we just released a deep seek white paper this week, which was solely gold on SEO.
+
+**Marylise Tauzia:** guide.
+
+**Marcel Santilli:** Okay, cool.
+
+**Marylise Tauzia:** The deep seek guide.
+
+**Marylise Tauzia:** So it was basically like Adam gave us like an outline.
+
+**Marylise Tauzia:** This is what I need to hit on the right keywords and stuff.
+
+**Marylise Tauzia:** And so because our VP of marketing was like, well, why are we doing this?
+
+**Marylise Tauzia:** We don't need to do that.
+
+**Marylise Tauzia:** I'm like, oh, he's like, oh, you know, but we have other things to do with SEO.
+
+**Marylise Tauzia:** I'm like, well, and then yesterday was like, oh, this thing is ranking, is actually doing really well.
+
+**Marylise Tauzia:** I'm like, well, it's deep seek and a new model came out last week.
+
+**Marylise Tauzia:** So it's very well timed too.
+
+**Marylise Tauzia:** So, so yeah, so we have like quite a few topics that, you know, we want to really kind of like hone on and get going.
+
+**Marylise Tauzia:** So I was chatting with Francois, you know, we catch up once in a while last week.
+
+**Marcel Santilli:** I like to joke is the French mafia, you know, the French growth mafia or marketing mafia, you know, like still as one of our.
+
+**Marcel Santilli:** We have another, Victor from Strappy is also a customer, Francois is a friend, and, you know, it's like...
+
+**Marylise Tauzia:** I mean, you enter the French mafia.
+
+**Marcel Santilli:** I love my French friends.
+
+**Marcel Santilli:** I'm from Brazil originally, so, you know.
+
+**Marylise Tauzia:** I didn't even hear the accent.
+
+**Marylise Tauzia:** Yeah, so, yeah, Francois was telling me, like, you know, because we talked about this whole SEO thing and L&M searches, and he was like, oh, we work with Marcel, and they're really awesome.
+
+**Marcel Santilli:** So I was like, okay, put me in touch with them because I need help.
+
+**Marcel Santilli:** I love it.
+
+**Marcel Santilli:** Yeah, and, like, I think, like, maybe it can give you, like, a bit of a high level, too, but then, like, I don't, we can also do a deeper dive later, too, so that it's like, you know, I don't want to go too deep, and then, like, you know, make sure, like, you can ask questions and whatnot, but you already have, I think, some, a lot of context already.
+
+**Marcel Santilli:** So, but, like, high level, the, so I started my career early on at IBM, and IBM had just acquired these Israeli security companies.
+
+**Marcel Santilli:** And my job was to consolidate everything.
+
+**Marcel Santilli:** And one of the things I realized then was just like, our blogs are just garbage.
+
+**Marcel Santilli:** And so I convinced the GM to just let me spin up a site called securedintelligence.com.
+
+**Marcel Santilli:** So I built it from the ground up.
+
+**Marcel Santilli:** And it kind of felt like even though it's at a big company, which you can relate to, I wanted to build something.
+
+**Marcel Santilli:** And so I built a site.
+
+**Marcel Santilli:** And it kind of felt like I was running my mini startup funded by the IBM.
+
+**Marcel Santilli:** And it turned out it became like the biggest source of pipeline for that business.
+
+**Marcel Santilli:** And in the first year, I did like 17 million in revenue from it.
+
+**Marcel Santilli:** And the whole thing was just me going after experts and just getting content and publishing content and improving and then building distribution on top of that.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so I think it was the first thing that was validated that if brands become more like publishers in order to build trust and distribution with their audiences, then that is a scalable marketing model versus promoting your products all the time only.
+
+**Marcel Santilli:** You know, that's just like, and the way I think about it, my whole career was like, how do we in market?
+
+**Marcel Santilli:** Marketing creates value.
+
+**Marcel Santilli:** And what that means is like the things we're putting out there into the world for our audience, they would be willing to pay for that, that information, that resource, but we give it away for free.
+
+**Marcel Santilli:** That's what value is, right?
+
+**Marcel Santilli:** Like value is like there's perceived value, perceived usefulness to it.
+
+**Marcel Santilli:** And then most marketing, like a product announcement, no one would pay for your product announcement, right?
+
+**Marcel Santilli:** And so for me, it's like marketing is about building trust by helping your audience do their jobs better every step of the way that eventually will lead them to want to work with you.
+
+**Marcel Santilli:** Because they trust you and you're credible and you're helpful, you know?
+
+**Marcel Santilli:** And so that's what I did my whole career pretty much, you know, in a lot of like kind of technical spaces like HashiCorp and Scale.ai, DeepGram and a few others, you know?
+
+**Marylise Tauzia:** And then like...
+
+**Marylise Tauzia:** Are you working at Scale.ai?
+
+**Marcel Santilli:** Yeah, I was their first and only CMO for two years.
+
+**Marylise Tauzia:** Oh, right.
+
+**Marcel Santilli:** I saw it.
+
+**Marcel Santilli:** Never mind.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** Yeah, no, no, it's okay.
+
+**Marcel Santilli:** It's like I was the only one that made it in and the only one that survived and barely made it out alive kind of thing, you know?
+
+**Marylise Tauzia:** That's cool.
+
+**Marcel Santilli:** They should tell you everything you need to know a little bit.
+
+**Marylise Tauzia:** Or they're like one of these crazy companies with like no time for you.
+
+**Marcel Santilli:** Yeah, it's just, you know, like a 21-year-old billionaire that, you know, yeah, I won't go into it too much, you know.
+
+**Marylise Tauzia:** I'm still in therapy for it, you know, but it's all good.
+
+**Marcel Santilli:** No, but life is good now, much better.
+
+**Marcel Santilli:** But so that was a little bit of that.
+
+**Marcel Santilli:** And so like just to give you a little bit of an idea like of like a little bit of the context is that like, so I've always done this content, right?
+
+**Marcel Santilli:** But then now it's like AI is almost like the, it's just accelerating everything that's happening.
+
+**Marcel Santilli:** And the way I kind of think about it, and I don't know if like you're seeing the same thing, it's like for a lot of our customers, it's not even the first impressions often are happening in AI answers.
+
+**Marcel Santilli:** It's like the first sales call almost, right?
+
+**Marcel Santilli:** Because people, instead of saying like, hey, this is a good example here, instead of saying like, hey,
+
+**Marcel Santilli:** Here's an expense card, help me, you know, or just a query.
+
+**Marcel Santilli:** They're actually giving the whole context of who they are, what they're struggling with, who they work for, everything, right?
+
+**Marcel Santilli:** And so now, like, your answer is not only like, hey, how do I deploy DeepSeek at scale, which is awesome, but it's also like, hey, open AI is costing us an arm and a leg, and we're not able to fine-tune, or Claude doesn't allow us to fine-tune our models, and, you know, we need to scale this to a million concurrent calls.
+
+**Marcel Santilli:** And the only way to do that is if we can use open-source models.
+
+**Marcel Santilli:** I heard DeepSeek is one of the best models out there.
+
+**Marcel Santilli:** Which ones are out there, and how would I actually deploy this and run this at scale?
+
+**Marcel Santilli:** And, you know, whatever, right?
+
+**Marcel Santilli:** Like, and, like, that's the context, right?
+
+**Marcel Santilli:** And now it's no longer like, I mean, you've done an amazing job with this guide, right?
+
+**Marcel Santilli:** Like, and so, like, it shows you, you got to keep doing this, right?
+
+**Marcel Santilli:** Like, which is like, hey, how do I deploy DeepSeek at scale?
+
+**Marcel Santilli:** And it's just like, you show up now.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marylise Tauzia:** You know, and I like when my boss says like, oh, why are you doing this?
+
+**Marylise Tauzia:** It's like, okay, fine.
+
+**Marylise Tauzia:** Keep doing it.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** But then like what the way I think about it is every single thing we do has to also not only be the best answers to the people that then become the best answers in the answer.
+
+**Marcel Santilli:** But the only way to do that is to be credible, comprehensive and, you know, up to date because it's like super biased towards like recency.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so so then like not to go too much into this, but the TLDR is like I always done this my whole career and I just don't believe in trying to use AI to automate everything.
+
+**Marcel Santilli:** I believe you need to start with experts, figure out how to get to great and create the right context and then work backwards from great.
+
+**Marcel Santilli:** And the only way to do that is being expert led in an AI power, you know, and so like and so what we do is everything as a service.
+
+**Marcel Santilli:** And it's kind of the strategy, the AI workflows that I can show you and also the experts in the loop and the last mile execution.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** So we have like our editors, our chief content officer ran TechCrunch for 10 years.
+
+**Marcel Santilli:** have like amazing humans, you know, they're super smart and lovely to work with and become like super invested in your company and your brand.
+
+**Marcel Santilli:** And then we have this platform that is kind of like the A to Z of, you know, the like how to create and scale content.
+
+**Marcel Santilli:** And it's right now it's an internal platform, but over time, like in the next month or so, we're exposing more and more to our customers as well.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** So and then super quickly, and then I can show you an example, especially with augment code.
+
+**Marcel Santilli:** It's like the way we kind of start is like if you like if our goal is to create amazing content, right, at scale, then like we believe we need to not start with workflows or trying to automate it.
+
+**Marcel Santilli:** You need to start by setting the right context and the right strategy and then defining what quality looks like and then scaling it.
+
+**Marcel Santilli:** And that's why the way we set up these engagements is like these eight weeks.
+
+**Marcel Santilli:** It's a strategy, sprint, and execution, and it's like a low commitment because, you know, we both have to opt into a longer term commitment after that, but then it allows us to just like set all the right context.
+
+**Marcel Santilli:** And so those are things like that we'll do a lot of like deep dives and, you know, like the personas, writing guidelines, the context on your company, the product, all of that.
+
+**Marcel Santilli:** And then we start to map out your audience, and that's what we've done for Augment Code, right?
+
+**Marcel Santilli:** Like where, what are all the, how do we understand the personas better?
+
+**Marcel Santilli:** And then map all the topics that they care about, right?
+
+**Marcel Santilli:** And so in your case, for instance, let's say like, hey, what are all the open source models out there?
+
+**Marcel Santilli:** What are the evals and benchmarks on every single open source model?
+
+**Marcel Santilli:** You know, what are the strengths and weaknesses of each model and how should I think about them?
+
+**Marcel Santilli:** What is the, you know, what are the different, like all of those things, right?
+
+**Marcel Santilli:** Like are the different topics, but then also.
+
+**Marcel Santilli:** Going even further than that, it's just like, hey, what are their different jobs to be done?
+
+**Marcel Santilli:** What are the tools out there that we need to cover, the terminology, the definitions, the how-to, the comparisons, right?
+
+**Marcel Santilli:** And then what are your competitors doing?
+
+**Marcel Santilli:** What does your audience care about?
+
+**Marcel Santilli:** And then what does your solution enable?
+
+**Marcel Santilli:** And then there's like a overlap of those things.
+
+**Marcel Santilli:** And that's usually where we try to find what the right strategy is for you.
+
+**Marcel Santilli:** It's mapping all of that out, right?
+
+**Marcel Santilli:** And so maybe like what I can do is just show you a few examples and then I can show you live as well, which is kind of cool.
+
+**Marcel Santilli:** But with Augment, since you brought it up and it's more technical, since we started working with them, we just saw like insane like results so far.
+
+**Marcel Santilli:** And it's only been like 10 to 12 weeks.
+
+**Marcel Santilli:** But just to give an idea, I think right now, they're overall, I think about 20, like essentially the slash guides that we created for them.
+
+**Marcel Santilli:** So if you go to augment.com slash guides, it's kind of similar to the guys.
+
+**Marcel Santilli:** So you
+
+**Marcel Santilli:** They're creating.
+
+**Marcel Santilli:** Now, as of today, generates more traffic than their blog that's been around for a very long time, you know?
+
+**Marcel Santilli:** And so that's pretty cool to see.
+
+**Marcel Santilli:** And so, like, part of that is also, like, how it's showing up so quickly in AI Answers as well, not just search.
+
+**Marcel Santilli:** And so here's a great example where, like, just a day before we published, if you search for how can coding tools understand my entire code base, Augment was not only nowhere to be found, their competitors were here, right?
+
+**Marcel Santilli:** And mentioned.
+
+**Marcel Santilli:** Even though it wasn't asking for tools, it was just asking how can it do this thing?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And then once we publish this piece of content, right, you can see it's cited in one, two, three, four different places in the answer.
+
+**Marcel Santilli:** The entire answer now, although it mentions Augment Code, is not about the tool.
+
+**Marcel Santilli:** It becomes about how to think about it the right way, you know?
+
+**Marcel Santilli:** And so more.
+
+**Marcel Santilli:** Multi-repo indexing, contextual awareness, integration and compliance.
+
+**Marcel Santilli:** Now, all of a sudden, these people are going to read this.
+
+**Marcel Santilli:** And even if they don't go, I'm just going to go swipe a credit card on Augment, which is great.
+
+**Marcel Santilli:** They're going to be like, hey, hold on, time out.
+
+**Marcel Santilli:** Like, what's your contextual engine and how do you understand code bases?
+
+**Marcel Santilli:** And, you know, tell me more about that.
+
+**Marcel Santilli:** And then hopefully Augment is positioned the best way because that's how they see the world, you know, and that's how they built their products, you know.
+
+**Marcel Santilli:** So it's like inception almost at scale.
+
+**Marcel Santilli:** And people reading this, they're just assuming these AI answers are an expert, which is bad in some ways because sometimes these LLMs don't do a good job filtering sources.
+
+**Marcel Santilli:** But it's just the reality.
+
+**Marcel Santilli:** So we just need to operate in that reality where we need to scale with quality.
+
+**Marcel Santilli:** And it's not – it can't be a tradeoff.
+
+**Marcel Santilli:** It can't be a speed or quality or scale or quality, right?
+
+**Marcel Santilli:** It has to be all three, you know.
+
+**Marcel Santilli:** And so that's a little bit of kind of what we do.
+
+**Marcel Santilli:** And then I can give you a few other examples quickly here, but it's like on Augment that's like pretty cool.
+
+**Marcel Santilli:** It's to see because this is so recent, know, like a day later showing up or that same, if you go into search, how do AI coding tools understand my code base in AI mode also, you can see like the actual language used is the exact language we used in the article.
+
+**Marcel Santilli:** And so that's why it kind of made me think this is Inception in some ways.
+
+**Marcel Santilli:** And then how we do the process, like the research and everything else is super important.
+
+**Marcel Santilli:** And so under the hood, I'll just show you this example really quickly.
+
+**Marcel Santilli:** What we built under the hood is, think of this as like this is our platform.
+
+**Marcel Santilli:** And so under the hood, what we have is agentic and deterministic workflows.
+
+**Marcel Santilli:** And so that helped to scale all of that.
+
+**Marcel Santilli:** So once we have all these artifacts that we generated and the entire content strategy is set for you, then we scale the quality through these workflows.
+
+**Marcel Santilli:** And this one, for example, is a research supervisor agent.
+
+**Marcel Santilli:** And so what it does, it creates.
+
+**Marcel Santilli:** It's a research plan and objectives and criteria for how to find the right sources.
+
+**Marcel Santilli:** It goes through, it executes, evaluates itself on the output.
+
+**Marcel Santilli:** And then what you get at the end is this insanely, insanely high quality brief.
+
+**Marcel Santilli:** And you can see it's like only using high quality sources, recent sources.
+
+**Marcel Santilli:** It's super well cited.
+
+**Marcel Santilli:** It's super detailed.
+
+**Marcel Santilli:** And you can see how long it is, right?
+
+**Marcel Santilli:** Like this is not like a tiny little thing.
+
+**Marcel Santilli:** And then we store it in a vector DB and then we can retrieve it.
+
+**Marcel Santilli:** But that's just the beginning.
+
+**Marcel Santilli:** And then we do the same thing with the drafter where it's also agentic and we keep doing this.
+
+**Marcel Santilli:** And so for every company, we can customize what that process looks like because under the hood, what we build is a coding agent that actually writes these workflows in code and that can run it in massive scales, right?
+
+**Marcel Santilli:** Like so you can see like all of this, all the workflows, the prompts, everything is in code.
+
+**Marcel Santilli:** And so it allows us to scale this much, much better.
+
+**Marcel Santilli:** And so, anyways, I'll shut up here, but hopefully, the only last thing I'll say is that we'll also do all the LLM tracking and everything else as well, and then be an extension of the team.
+
+**Marylise Tauzia:** So that's a little bit of what we built.
+
+**Marylise Tauzia:** That looks incredible.
+
+**Marylise Tauzia:** mean, and in terms of like, so it just feels duplicative with like, you know, the SEO agency, is it?
+
+**Marylise Tauzia:** Like, will you take care of that or as well?
+
+**Marcel Santilli:** It is.
+
+**Marcel Santilli:** I don't want to say that like, hey, what, like, here's why it is.
+
+**Marcel Santilli:** Like, I, in most of my career, I never hire SEO agencies.
+
+**Marcel Santilli:** And the reason for that is like, what they do is like, they tell you, they point out every crack and all the imperfections on in your house.
+
+**Marcel Santilli:** And then when you ask them to fix it, they're like, well, but I'm not an expert in your topic.
+
+**Marcel Santilli:** And it was always like, you know, sure, there's some health things or hygiene things of like, your site should have a good navigation, it should be easy to, you know, pages should be fast.
+
+**Marcel Santilli:** There are things like that, but they're mostly.
+
+**Marcel Santilli:** dev and design tasks or content tasks or content things you should do.
+
+**Marylise Tauzia:** They're not usually like audit things.
+
+**Marylise Tauzia:** Like the audit doesn't actually fix your issues.
+
+**Marylise Tauzia:** You know what I mean?
+
+**Marcel Santilli:** And so for us, like I always thought of it as like this is more of a identifying your audience, gaining a deeper understanding of your audience, setting the context, and then coming up with all the topics and things we want to talk about and then executing that.
+
+**Marcel Santilli:** That's the hard part every single day.
+
+**Marcel Santilli:** And then content, the way I see it, it is like a, it's a compounding asset, but it's also a decaying if you don't do anything about it.
+
+**Marcel Santilli:** And with AI, the way I think about it is the half-life of the content, the half-life of the asset is decaying a lot faster, right?
+
+**Marcel Santilli:** And so the half-life is shorter, which means if you do nothing, you're going to go to zero a lot faster than before.
+
+**Marylise Tauzia:** Yeah, that makes sense.
+
+**Marylise Tauzia:** mean, and I think, you know, I'm just like thinking because in terms of like, I just want to do redundant thing.
+
+**Marylise Tauzia:** mean, that sounds really awesome.
+
+**Marylise Tauzia:** And I'm assuming like you do the work for LLMs.
+
+**Marylise Tauzia:** It it just.
+
+**Marylise Tauzia:** Supplies with SEO, like, I mean, SEO has gone the way down, but it's still somewhat there, so.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Marcel Santilli:** Let me see if I can find, I can pull up, but essentially, like, we have, and you can ask if you want to talk to Syl as well, but Francois has access to some of the data as well, just like how quickly we're seeing.
+
+**Marcel Santilli:** Actually, we're seeing probably faster results in SEO for Augment, but mostly because the LLMs are not sending as much traffic.
+
+**Marcel Santilli:** It's just that the traffic they send is so high intent because they've already spent 15, 20 minutes in the answers.
+
+**Marcel Santilli:** So it's like, if you think of it as just, like, simple math, let's say you were getting 10 clicks before, and those 10 clicks were 1x value.
+
+**Marylise Tauzia:** And then imagine if, like, now you're getting 3 clicks, but those 3 clicks are 4x more valuable, like, that's still a nat plus 2, like, horrible example.
+
+**Marylise Tauzia:** But, you know what I mean?
+
+**Marcel Santilli:** It's like...
+
+**Marylise Tauzia:** Yeah, yeah.
+
+**Marylise Tauzia:** Okay, cool.
+
+**Marylise Tauzia:** And so, you know, I have three minutes because I have a customer call.
+
+**Marylise Tauzia:** I just want to make sure I'm on time.
+
+**Marylise Tauzia:** In terms of like pricing, engagement, how does that work, you know?
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** So the way we start is to do a eight-week strategy sprint, and it's only $20,000 for the whole thing.
+
+**Marcel Santilli:** And during that, we're doing all your strategy, creating all the artifacts, giving you three to six months worth of like content roadmap that you can take it with you.
+
+**Marcel Santilli:** We're also starting to execute, calibrate, and actually start to publish.
+
+**Marcel Santilli:** And that's where like we prove it out.
+
+**Marcel Santilli:** And also you can fire us at the end of it, or we can fire you at the end of it if it doesn't work out.
+
+**Marcel Santilli:** But so far it has.
+
+**Marcel Santilli:** And then from there, goes into a growth execution.
+
+**Marcel Santilli:** And those are anywhere from like 12 to 15 a month for like editorial.
+
+**Marcel Santilli:** And usually what we do, especially for technical, is that like we want to have someone that has, they're not going to be as big of a technical expert as your researchers or, you know, your engineers, but they need to understand the space.
+
+**Marcel Santilli:** We have nuance and empathy for the space.
+
+**Marcel Santilli:** And our aim is to publish daily and refresh content as well all the time and do all the LLM tracking.
+
+**Marcel Santilli:** So you don't need to buy any tools.
+
+**Marcel Santilli:** You don't need SEO audits or agencies.
+
+**Marcel Santilli:** You don't need to hire editors or freelancers.
+
+**Marcel Santilli:** You don't need a graphic designer.
+
+**Marcel Santilli:** Freelancers will do all the graphics.
+
+**Marcel Santilli:** We do A to Z.
+
+**Marcel Santilli:** We stage the content, publish, and we do everything.
+
+**Marcel Santilli:** We try to take all the messy work out of your plates as well, which is what I always wish I had because I always had to assemble like 12 freelancers to do everything.
+
+**Marylise Tauzia:** And it was a nightmare.
+
+**Marylise Tauzia:** mean, that's what we did with DeepSeek.
+
+**Marylise Tauzia:** mean, they gave us the outline, but we had to write it.
+
+**Marcel Santilli:** We had to design.
+
+**Marcel Santilli:** You know, I don't have to add to Exactly.
+
+**Marcel Santilli:** It's a lot of work.
+
+**Marcel Santilli:** And that's why I love that you already did that because now you're like, yeah, I know how much work it is to do a good job with it.
+
+**Marylise Tauzia:** Yeah, because I mean, at first I was like, we'll just put the text out there.
+
+**Marylise Tauzia:** was like, no, it's BaseTen, so we will have to do it, right?
+
+**Marylise Tauzia:** And so, okay.
+
+**Marylise Tauzia:** And then just to clarify, the eight-week sprint, you do deliver a few pieces of content.
+
+**Marcel Santilli:** Several, yeah.
+
+**Marcel Santilli:** Usually we'll start to publish by week four or five, depending how technical, how many layers of expert interviews we do in order to gain the right context and how many layers of reviews.
+
+**Marcel Santilli:** But what we recommend is starting with topics that are not going to be the trickiest ones to scale.
+
+**Marcel Santilli:** So if you start with how-to things about your product, that's a recipe for disasters because even if you hire a technical person off the street, they're not going to do a good job either.
+
+**Marcel Santilli:** And so we try to start with like informational things.
+
+**Marcel Santilli:** And then as we gain confidence of what quality looks like for you, then we can scale.
+
+**Marcel Santilli:** And usually by week five or six, like we try to already be publishing daily for you if possible.
+
+**Marcel Santilli:** So with Augment Code, we've published over 60 pieces of content and it's only been 10 weeks.
+
+**Marylise Tauzia:** Cool.
+
+**Marylise Tauzia:** Okay.
+
+**Marylise Tauzia:** Amazing.
+
+**Marylise Tauzia:** Well, what would love for next step, I'll talk to Mike, our CMO, VP of Marketing, whatever.
+
+**Marylise Tauzia:** And I'm sure he would probably want to talk to you.
+
+**Marcel Santilli:** Yeah, we'll love that.
+
+**Marcel Santilli:** We can add you to a shared Slack and then...
+
+**Marcel Santilli:** Follow up to set up time with you and Mike and or whoever else in your team.
+
+**Marcel Santilli:** And then the only other thing is like we're usually four to six weeks out from because the kickoff is such a low commitment to start.
+
+**Marylise Tauzia:** And so just keep that in mind as we kind of talk.
+
+**Marylise Tauzia:** If like you have a long procurement process or whatever, we try to just time it so that we can pencil things in a little bit.
+
+**Marcel Santilli:** We very short procurement process.
+
+**Marcel Santilli:** Oh, that's music to our ears.
+
+**Marylise Tauzia:** I was like, that was way easier than at Square.
+
+**Marcel Santilli:** So, yeah.
+
+**Marcel Santilli:** I'm sure Square was just as short, right?
+
+**Marcel Santilli:** You know, well, I'll let you go because I know you want to be on time and I appreciate it.
+
+**Marylise Tauzia:** so lovely meeting and excited to keep the conversation going.
+
+**Marylise Tauzia:** Yeah, for sure.
+
+**Marylise Tauzia:** Me too.
+
+**Marylise Tauzia:** All right.
+
+**Marylise Tauzia:** Thank you so much.
+
+**Marylise Tauzia:** All right.
+
+**Marylise Tauzia:** Take care.
+
+**Marylise Tauzia:** Bye.

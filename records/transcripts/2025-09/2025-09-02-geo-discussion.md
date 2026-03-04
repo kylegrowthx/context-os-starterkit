@@ -1,0 +1,995 @@
+# GEO Discussion
+
+<metadata>
+date: 2025-09-02
+time: 23:03 UTC
+duration: 49 minutes
+organizer: Jason Gong (GrowthX)
+participants: Daniel Lopes (GrowthX), Jason Gong (GrowthX), Katja Wittfoth (External)
+fathom_recording_id: 84510834
+fathom_url: https://fathom.video/calls/396539847
+share_url: https://fathom.video/share/oFLGQGVm1LJncxsAU_BhiNw_orFYQ6Xy
+source: fathom
+enriched_on: 2026-03-02 12:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Jason Gong introduced GrowthX's strategic shift from Google-based SEO to optimizing content for Large Language Model (LLM) mentions across ChatGPT, Claude, and Perplexity, explaining that measurement tools like Scrunch and Profound are imperfect and that GrowthX lacks firsthand research on what actually drives LLM citations. The team outlined a three-phase research approach: Phase 1 to understand LLM search mechanics through exploratory research, Phase 2 to create datasets and apply machine learning models to uncover insights, and Phase 3 to run controlled experiments on specific tactics like lm.txt files, Reddit posts, and page structure elements like FAQs and TLDRs. Katja Wittfoth provided immediate feedback on experimental design, emphasizing the need to establish proper control groups, track baseline metrics before interventions, and analyze both citation patterns and content features (keyword density, page structure, sentiment) from the pages that LLMs choose to cite.
+
+---
+
+## Context
+
+GrowthX is a B2B content marketing services firm that helps customers drive growth through content creation and SEO optimization. Traditionally, GrowthX's work has centered on Google organic search visibility, but the emergence of AI-powered conversational search engines (ChatGPT, Claude, Perplexity, Google's AI Overviews) has created a new channel for visibility. Unlike traditional search where rankings are public and measurable, LLM citations are opaque—the models don't expose how they select sources or why some pages get cited while others don't. This meeting brought Jason Gong (GrowthX Head of Research) and Daniel Lopes (GrowthX team member) together with Katja Wittfoth, an external data scientist and machine learning researcher with previous experience at Kite (an ML-powered code completion platform) and deep expertise in experimental design and feature engineering. The goal was to design a research framework that could uncover what actually drives LLM mentions—moving beyond vendor tools like Scrunch that simply ping APIs and return citation counts, and instead conducting first-principles research to understand the mechanics of LLM retrieval and ranking.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Shift from pure Google SEO optimization to dual-track strategy optimizing for both traditional search and LLM citations. Clients with existing large content footprints (thousands of pages) can serve as experimental platforms. New tactics under consideration include lm.txt files (specialized files explaining websites to LLMs), Reddit presence, and page-level structural elements (FAQs, TLDRs, table of contents) that may influence LLM retrieval or citation.
+
+- **To CheckThat (AI Visibility Index):** Opportunity to build proprietary research on LLM search mechanics and develop a methodology for monitoring citations across platforms. Understanding why certain content gets cited while competitors' content doesn't (even when appearing in the same Google results) is directly relevant to the CheckThat product positioning around AI visibility.
+
+- **To GrowthX Business Development:** Katja's expertise in machine learning and experimental design can unlock credible, first-principles research that differentiates GrowthX's positioning from competitors like Profound and Scrunch, which rely on surface-level API monitoring. Developing proprietary methodologies (hypothesis-driven feature engineering, control-group A/B testing, dataset analysis) positions GrowthX as a thought leader. Timeline: immediate feedback on current initiatives, broader research beginning now, follow-up meeting to discuss findings and detailed experimentation plan.
+
+---
+
+## Overview
+
+- GrowthX aims to understand and optimize content for LLM mentions, moving beyond traditional SEO tactics
+- Three-phase approach planned: 1) Research LLM search mechanics, 2) Analyze data/run ML models for insights, 3) Conduct specific tactic experiments
+- Current focus on product evaluation prompts, with challenges in prompt selection and measurement of effectiveness
+
+---
+
+## Key Topics
+
+### Current LLM Landscape and Challenges
+
+  - Shift from Google-driven organic awareness to LLMs (e.g., ChatGPT, Claude, Perplexity)
+  - Difficulty in accurately measuring LLM mentions and understanding the underlying mechanics
+  - Existing tools (e.g., Scrunch, Profound) have limitations in accurately representing LLM responses
+
+### Content Optimization Strategies
+
+  - Focus on product evaluation prompts (e.g., "What is an open-source alternative to GitHub?")
+  - Experimenting with tactics like adding FAQs, TLDRs, and table of contents to pages
+  - Exploring the effectiveness of lm.txt files for educating LLMs about websites/products
+
+### Research and Experimentation Approach
+
+  - Phase 1: Understand LLM search mechanics through exploratory research
+  - Phase 2: Create and analyze datasets to uncover insights using ML models
+  - Phase 3: Conduct experiments on specific tactics (e.g., lm.txt, Reddit posts, page content structure)
+
+### Challenges in LLM Optimization
+
+  - Uncertainty about LLM indexing and citation processes (e.g., Google's role in LLM searches)
+  - Difficulty in selecting representative prompts for testing and measurement
+  - Balancing traditional SEO factors with new LLM-specific optimization techniques
+
+### Marketing and Positioning
+
+  - Importance of effectively communicating research findings and strategies
+  - Goal to position GrowthX as experts in LLM search optimization
+
+---
+
+## Action Items
+
+**Jason Gong (GrowthX)**
+- Share documented experiment doc with Katja
+- Re-invite Katja to Slack workspace for ongoing collaboration
+- Schedule follow-up meeting to discuss findings and detailed experimentation plan
+
+**Katja Wittfoth (External)**
+- Review GrowthX's current LLM research documentation and provide immediate tactical feedback on existing initiatives
+- Conduct broad research on LLM search mechanics and how different models (ChatGPT, Claude, Perplexity) handle retrieval and ranking
+- Investigate peer data science and ML work in the LLM search optimization space to understand current state-of-the-art approaches
+- Start designing hypothesis-driven feature engineering framework for ML model analysis
+
+---
+
+## Transcript
+**Daniel Lopes:** This meeting is being recorded.
+
+**Jason Gong:** What's Marcel holding it down?
+
+**Daniel Lopes:** All day.
+
+**Daniel Lopes:** Tomorrow I'll join some, and then Friday I think it's the main one that we're preparing for.
+
+**Jason Gong:** Exciting.
+
+**Jason Gong:** Yeah, super excited to meet you, Katja.
+
+**Katja Wittfoth:** Me didn't have time to share any context with her, so.
+
+**Jason Gong:** Okay, I mean, I can tell you that.
+
+**Jason Gong:** Let me open things up.
+
+**Jason Gong:** I mean, I guess Katja knows what we do, right?
+
+**Daniel Lopes:** Company stuff.
+
+**Daniel Lopes:** I'm sure you bring that home and talk to her every day about it, right?
+
+**Katja Wittfoth:** Sure.
+
+**Katja Wittfoth:** But Jason, feel free to mention and give me as much context as possible.
+
+**Katja Wittfoth:** I think that's always better so I can really understand the problem and challenges and try to help you as much as possible.
+
+**Jason Gong:** Yeah, sure.
+
+**Jason Gong:** That'll be it.
+
+**Jason Gong:** All right, I'll just talk.
+
+**Jason Gong:** I'll just talk.
+
+**Jason Gong:** But I guess in general, I mean, you probably understand a little bit about what we do, like typically for customers, they really hand a piece of their growth function to us.
+
+**Jason Gong:** Like they have some goal in mind, growing signups, growing revenue, partnered to accomplish that by essentially bringing like scale, speed, and like expertise, you know, with all the kind of people on our team.
+
+**Jason Gong:** Typically, most of our engagements look like content, like we're creating content to drive awareness.
+
+**Jason Gong:** I I would say six months ago, was like almost entirely Google and search related today.
+
+**Jason Gong:** Like people are way more focused on, am I showing up in like an LLM, you know, ChatGPT and Claude and Gemini or whatever it is.
+
+**Jason Gong:** So.
+
+**Jason Gong:** the challenge for us currently is like, I mean, this whole space is just like super new.
+
+**Jason Gong:** And for the most part, I mean, we're trying to operate on first principles in terms of what we're doing, you know, like the LLMs, you search and for the most part, it's still a game of like creating really good content.
+
+**Jason Gong:** Maybe at any given moment, there's like tactics, people say work.
+
+**Jason Gong:** So we like, you know, try some of those.
+
+**Jason Gong:** But for the most part, like the fundamental thing is like people have problems, you solve it with content and we try to create the best content that, you know, creates the most value.
+
+**Jason Gong:** But at the same time, there's clearly just like tactics that work and just like insights to be kind of mined from like how, I guess, the LLMs work to drive awareness.
+
+**Jason Gong:** For different brands and we've had kind of some competitors or other companies just like invest a little bit to kind of surface what these are and do a little bit of research and we've seen just like the effects of doing that, you know, like people need to trust what you're doing and for us as well, like we don't want to operate blind.
+
+**Jason Gong:** And so a big part of what we wanted your help on was, you know, can we just be a little bit more knowledgeable and do some like firsthand research into what exactly moves the needle for our clients to get them mentioned?
+
+**Jason Gong:** Yeah, I'll stop there.
+
+**Jason Gong:** mean, like I've heard of this doc, I'm not sure if Daniel will share it, I'll share it right now in the chat, but any thoughts or questions?
+
+**Katja Wittfoth:** Yeah, I think that's a great objective.
+
+**Katja Wittfoth:** And really, as you mentioned, and this is also my understanding as well, that the field is emerging and we're still learning.
+
+**Katja Wittfoth:** Like how actually LLMs find things and what are the best tactic to make them find things better, right?
+
+**Katja Wittfoth:** And we also kind of shifting from, it's still ranking, right?
+
+**Katja Wittfoth:** I think it's like when we Google something, we're looking at the ranks, LLMs answers, it's still kind of ranking, right?
+
+**Katja Wittfoth:** They might suggest different solutions or companies depending on what we are querying for.
+
+**Katja Wittfoth:** But if it's mentioned as a first or as a second, it's also similar ranking positions to the search.
+
+**Katja Wittfoth:** So yeah, super interesting problem.
+
+**Jason Gong:** Yeah, yeah.
+
+**Jason Gong:** And I think that's probably the biggest part of like unpacking how it works and what we can do to shape it.
+
+**Jason Gong:** Like, um, I mean, you can look at some of it here, but, um...
+
+**Jason Gong:** So this was meant to be something we arm our team with because for the most part, you know, not everyone on our team, even the ones that own the accounts are folks who understand this very deeply or can even like communicate it, especially like on the fly, very effectively.
+
+**Jason Gong:** So a big part of what I was trying to do was arm them with some document that helps them do that.
+
+**Jason Gong:** And the things we thought were very helpful to kind of capture is there's like the foundational stuff of like how LMs work, you know, to help them form like intuition for like the stuff you talk about later on.
+
+**Jason Gong:** Um, cause I think you kind of need that a little bit, um, this is meant to be kind of just what's happening in general is, um, for the most part, you know, things have moved a lot from Google driving all organic awareness to, um, I don't know what the exact number is, but like, you know, LMs.
+
+**Jason Gong:** Doing a big chunk of that now.
+
+**Jason Gong:** There's the question of just like a lot of the people we compete with for kind of like headspace are the ones that just measure it.
+
+**Jason Gong:** So there are these tools like Profound and Scrunch and SEMrush.
+
+**Jason Gong:** Like all they do is like they ping a bunch of APIs or they ping the APIs frequently to see what the prompts say.
+
+**Jason Gong:** And a lot of them just kind of gloss over the details that like that is a really incredibly imperfect way of like approximating what ChatGPT says when people, you know, ask it questions.
+
+**Jason Gong:** So there's like a huge kind of education gap here.
+
+**Jason Gong:** And then the last one, which is like, you know, like one to three are all important.
+
+**Jason Gong:** But strategically for us, you know, if we were to just allocate effort, the last one for us is the most important because that's the stuff for you.
+
+**Jason Gong:** And this is like an area where there's like...
+
+**Jason Gong:** Barely any research of like what actually gets things more excited.
+
+**Jason Gong:** You know, most people, again, just gloss over it.
+
+**Jason Gong:** They're like, yeah, okay, you publish stuff for Google.
+
+**Jason Gong:** It gets pulled, you know, when you're ranking, but we want to get deeper.
+
+**Jason Gong:** And here is at least my initial thought for like where we could get your help.
+
+**Jason Gong:** So what we have here are customers that are ready to run whatever experiments we want.
+
+**Jason Gong:** They have thousands of pages and, I mean, essentially they've given us, you know, whatever we want to like run these experiments.
+
+**Jason Gong:** And then we have some kind of early thoughts on experiments.
+
+**Jason Gong:** But where I would really like your help is, I think there's research we can do without running experiments on customers to figure out the correlation between what we can do and what we can kind of optimize for LLM mentions.
+
+**Jason Gong:** And then I would also look to you to like help us shape like we have rough ideas.
+
+**Jason Gong:** For what could be a nice experiment, but like none of them are very kind of statistically well-designed where we can actually do it and then point to say like, hey, look, there's a relationship here and also kind of look into you for help there.
+
+**Daniel Lopes:** Some of the stuff that Jason is showing on the ideas area there, like those are some, like just to give you a context, those are something that folks are trying to do to see if they were going to rank better.
+
+**Daniel Lopes:** So there's this thing called lm.txt, for example, that it's an optimized version of like a file that explains your website, for example, essentially.
+
+**Daniel Lopes:** And then I don't know how much you've done like related to that.
+
+**Daniel Lopes:** You guys have done at Mercury related to that.
+
+**Daniel Lopes:** But and then some other stuff would be like summarize the content.
+
+**Daniel Lopes:** There's like some stuff has like a button to summarize the content or like summarize at the top or at the bottom.
+
+**Daniel Lopes:** People are like trying to figure out what you need to put on the page that will perform and like what Jason says is that we could get some of these clients of ours that have ton of traffic and then.
+
+**Daniel Lopes:** And see if they get more missions.
+
+**Daniel Lopes:** Another way of doing things would be like, we find those out there and we see if they rank better or not.
+
+**Daniel Lopes:** Or like we, or we just run a bunch of prompts and then we see what happens.
+
+**Daniel Lopes:** If we do that, what kind of prompts do you have to run to be relevant?
+
+**Daniel Lopes:** So there's all these different angles that we can take and we're just trying to be like, what works? You know, just get more results, you know, and it doesn't have to be perfect.
+
+**Daniel Lopes:** Like even if we get something that would be like my initial thing, would be like, if we get something that measures a bunch of prompts for like the top players and it's like constantly, we update like once a month or once every other month, that would also be helpful, you know what?
+
+**Katja Wittfoth:** No, that sounds great.
+
+**Katja Wittfoth:** I have a couple of ideas already that we could potentially run.
+
+**Katja Wittfoth:** I need to think more about this because like how I, you know, traditionally we thought about like search ranking and like this, this is the area that I know more. So I will do more thinking and research of how to design that part of the experimentation with LLM rather than the search ranking.
+
+**Katja Wittfoth:** But I can also give you some high-level ideas of how the search ranking analytics were done before.
+
+**Daniel Lopes:** I think some of the stuff that Jason has here, we'll be already trying some of this, right, Jason?
+
+**Jason Gong:** Yeah, like, some of the stuff we're already doing, I think the unfortunate thing is, like, it's not done in a way where, like, we'll be able to write about it later and show them that we're doing it.
+
+**Jason Gong:** Like, a lot of it is just, like, our customer would be like, oh, my God, we should add FAQs to the bottom of every page.
+
+**Jason Gong:** I heard that helps.
+
+**Jason Gong:** And then we'll just, like, go add them to every page.
+
+**Jason Gong:** And, like, you know, like, we'll never be able to know if it did anything that way.
+
+**Katja Wittfoth:** Right, because, like, ideally we compare, like, what we did as kind of like a, you know, the...
+
+**Katja Wittfoth:** Classic ID test experiment where we treat something and we just do the FAQ on many, many examples, right?
+
+**Katja Wittfoth:** Or like we find those examples and then compare to a non-treated portion of that.
+
+**Jason Gong:** I mean, that's the part where like experiment structure is important.
+
+**Jason Gong:** Like we could do it as an ID test, but like the thing we don't even do is like, I mean, you don't know the volumes of any of these prompts essentially.
+
+**Jason Gong:** And before they did that experiment, I'm pretty sure they didn't even track all the prompts they should have, you know?
+
+**Jason Gong:** And like none of these tools have historic data.
+
+**Jason Gong:** It's like only when you start tracking a prompt is when you see it.
+
+**Jason Gong:** So like, okay, you've run the experiment, but you haven't tracked any of the prompts.
+
+**Jason Gong:** There's no even pre-post you can point to, you know, like stuff like that.
+
+**Katja Wittfoth:** Exactly.
+
+**Katja Wittfoth:** That's likely something that we need to gather all this, like running over and over and just like gather the data.
+
+**Katja Wittfoth:** On like what we see within.
+
+**Katja Wittfoth:** The experiment, creating the query and trying it out.
+
+**Katja Wittfoth:** My question to you, do we have maybe some ideas of the categorization, how people query for the purposes of GrowthX, right?
+
+**Katja Wittfoth:** Is it like, what kind of questions, what kind of type of questions are people looking for?
+
+**Katja Wittfoth:** And what is GrowthX is trying to hack, basically, an answer.
+
+**Jason Gong:** Yeah, I mean, that's a good question in itself.
+
+**Jason Gong:** Like, I feel like so many of my questions around, like, measurement revolve around that.
+
+**Jason Gong:** But I guess, like, again, there's no data around it.
+
+**Jason Gong:** But, like, intuitively, like, when we prompt a bunch of stuff, like, the prompts that seem to drive the most value, understandably, are the prompts that are a little bit lower in the journey of, like, finding products.
+
+**Jason Gong:** So it'll be, like, product evaluation prompts.
+
+**Jason Gong:** Like, that's probably where we're...
+
+**Jason Gong:** It's been the most effort today.
+
+**Jason Gong:** like, you know, what is an open source alternative to GitHub?
+
+**Jason Gong:** Like, what is, like, GitHub versus GitLab, you know, like, top 10 tools for sales automation?
+
+**Jason Gong:** Like, that's probably where most of, at least, like, our assumption of, like, the prompts that at least drive value for people is.
+
+**Jason Gong:** Because historically for SEO, it's, like, it's been a lot of, like, what is an API type stuff.
+
+**Jason Gong:** But, like, for the most part, it doesn't even matter if you get cited for that.
+
+**Katja Wittfoth:** I'm not, like, why would I click anything if I asked ChatGPT that question, you know?
+
+**Katja Wittfoth:** So possibly there's, like, even this time two types of, like, product evaluation could be two types of questions.
+
+**Katja Wittfoth:** One is, I know one product and I want to understand how that works, so I cite it.
+
+**Katja Wittfoth:** And the second one is, I want the solution to my problem, right?
+
+**Jason Gong:** Yeah, I would say, I guess, like, I mean, typically...
+
+**Jason Gong:** Like map this stuff out as like there's a funnel and you go from like very kind of vague awareness of what even your problem is down to like now I know the product I'm just trying to figure out if I want to use it or not and like I guess where we start is generally like you kind of have to know what problem you're solving for already because everything before that is like I guess not as valuable for you to get cited at least that's the assumption.
+
+**Jason Gong:** So like problem awareness stuff will be like like you know what's the best way for me to like automate sending email to a thousand people or something you know like I don't really know the product yet but I know the problem and the answer to that will be a bunch of products and then there's a bunch of stuff in the middle you're like evaluating the category of products.
+
+**Jason Gong:** Like you're evaluating product A versus product B and then once you pick the product itself like we don't spend a ton of time here because it's in the realm of like historically what's like been product marketing and we don't really.
+
+**Jason Gong:** But once you know you want to use, let's say, GrowthX, you're going to ask a bunch of questions around, is GrowthX expensive?
+
+**Katja Wittfoth:** Is GrowthX security compliant or whatever?
+
+**Jason Gong:** That's a realm where I think eventually we'll get to, but right now we don't really do a ton there.
+
+**Katja Wittfoth:** I love that.
+
+**Katja Wittfoth:** So kind of, we can say three categories, problem awareness, where they're trying to find the solution.
+
+**Katja Wittfoth:** Product evaluation, third is comparison.
+
+**Katja Wittfoth:** So selecting from competition and convincing to use.
+
+**Katja Wittfoth:** Something like that, right?
+
+**Katja Wittfoth:** Yeah.
+
+**Katja Wittfoth:** Okay.
+
+**Katja Wittfoth:** Very cool.
+
+**Katja Wittfoth:** Awesome.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** mean, I think I would love to know how you even think about structuring research around a topic like this, but I would say the most immediate
+
+**Jason Gong:** It's valuable is like we're already doing some stuff and I can kind of send you a doc with all that and just to get your take on like what would be the best way to kind of structure an experiment.
+
+**Jason Gong:** Like that would be pretty kind of immediate help we could use.
+
+**Jason Gong:** And then, yeah, and then I would say to me like the one line summary of like the research that's helpful to us is just like what things can we do that correlate to results in terms of LLMs?
+
+**Jason Gong:** Kind of being influenced to talk about our customers, you know.
+
+**Katja Wittfoth:** And the results will always be in like a mention in the LLM.
+
+**Daniel Lopes:** It's either a link or like just your name of your company getting mentioned.
+
+**Jason Gong:** Yeah, I would say mentions.
+
+**Jason Gong:** There is this like weird, like I don't exactly know the value of a citation.
+
+**Jason Gong:** I feel like you could potentially get quite deep into that.
+
+**Jason Gong:** Like one thing.
+
+**Jason Gong:** One thing I've noticed is, so this is all, we can give you access to this, but this is one of the tools that monitor different prompts.
+
+**Jason Gong:** And one of the things I see a lot is, for example, this is a question, right?
+
+**Jason Gong:** This tool is called Scrunch.
+
+**Jason Gong:** It'll just kind of show this, and even Profound, which is the best funded and most ahead as far as this category goes, does this as well.
+
+**Jason Gong:** But, like, if I ask this question to ChatGPT, like, that is not what shows up, you know?
+
+**Jason Gong:** I don't know how they can cite two things here, but, like, if I look at this, the number of results ChatGPT goes through is, like, I'm going to wait for it, but, like, in the order of, like, 30, you know, 10 plus at least, or maybe this is just the top one.
+
+**Katja Wittfoth:** What is the CMS and Gatsby, in this case?
+
+**Jason Gong:** This is like your website content management system, so like what you put your blog posts in.
+
+**Jason Gong:** So this is for Webflow, which is like one of our customers, Gatsby.
+
+**Daniel Lopes:** That's not the framework.
+
+**Jason Gong:** How do you make websites?
+
+**Jason Gong:** Yeah, so it'll be like Next.js or something. It's like you need infrastructure for the content to be stored. So you want it to mention you.
+
+**Jason Gong:** Like, for example, here.
+
+**Jason Gong:** Okay, in this case, there's only two.
+
+**Jason Gong:** Sometimes I see there's like, you know, 10 plus, you know, and it's like, I mean, this is like maybe out of scope, but like there's clearly like a huge disconnect between what this tool does is it pings the API, you know.
+
+**Katja Wittfoth:** Can you maybe explain a little bit more of the Scrunch tool?
+
+**Jason Gong:** So what does it show?
+
+**Jason Gong:** Yeah, so Scrunch.
+
+**Daniel Lopes:** What is tool of Scrunch?
+
+**Jason Gong:** It basically, it helps to monitor.
+
+**Jason Gong:** LM mentions, and how it does that is you essentially just give it a huge list of prompts to track across the different platforms, perplexity, chat, gbt, cloud, Gemini, and then what it does is, and it's not perfect at all, every two days or three days, it just pings that API with the question, and then it stores the answer, and then it kind of engineers, here's a few features over it, like, is your product, and in all the citations, does your domain appear, essentially, and then doing this across hundreds of prompts, it tries to kind of give you a picture of, like, you know, like, how you're doing it, like, are you being mentioned, you know, this is essentially very similar to how I would also design the experiment, so if you go back to their features,
+
+**Katja Wittfoth:** I would create basically a prompt, a query, maybe with many variation of that for a specific category of the query, like we discussed, right, problem awareness, product evaluation, etc.
+
+**Katja Wittfoth:** And I would run it over and over to collect a lot of data, and then start basically creating features out of that.
+
+**Katja Wittfoth:** Like, is there a citation of the product?
+
+**Katja Wittfoth:** What are the results of the citation?
+
+**Katja Wittfoth:** Is that something that we are anticipating?
+
+**Katja Wittfoth:** Essentially, like, we probably don't want you specifically focused on the client of GrowthX, but we want to know, like, what comes up, actually, and why it comes up, right?
+
+**Katja Wittfoth:** So we want to create features of, like, what is cited, different products, um,
+
+**Katja Wittfoth:** Links, etc.
+
+**Katja Wittfoth:** And then maybe we also scrape these links to understand how the content is written and we create features from the content.
+
+**Katja Wittfoth:** Do they use, you know, a lot of keywords?
+
+**Katja Wittfoth:** Do they use any special tags whatsoever?
+
+**Katja Wittfoth:** A lot of links.
+
+**Katja Wittfoth:** So we create as much link features from this scraped data of the, essentially what LLM was looking for, right?
+
+**Katja Wittfoth:** Not the result, but specifically they're doing here on the result, but we want to go deeper here.
+
+**Katja Wittfoth:** I feel like you guys need to understand, like, what is the text and content on those websites that are getting mentioned?
+
+**Katja Wittfoth:** So we'll create the features there, we'll create the sentiment features, we'll create maybe categories like, you know, the blog.
+
+**Katja Wittfoth:** It's about top 10 best products, or the blog is about comparison of two main competitors.
+
+**Katja Wittfoth:** Again, like a lot of categories we can create out of that, and then we'll see the correlation.
+
+**Katja Wittfoth:** Most likely, I will be running a machine learning model on that, to come up with the correlation on top of that, and understand what is basically driving the best result.
+
+**Katja Wittfoth:** So this is essentially how I would probably design the experiment to really understand the insight, what is currently the best tactics to get mentions in the LLM prompts.
+
+**Daniel Lopes:** I think there's so much, like the thing that kind of concerns me about this, I think what Scrunch is doing, it's not really valuable, because the stuff under the hood, like we know Claude uses Brave. So there are features that are outside the content itself as well, like stuff like domain authority, and stuff that would be traditional SEO stuff.
+
+**Daniel Lopes:** So if we even just ran like a million prompts and a bunch of different websites that we choose from, and if we get like any sort of correlation with like the results, that was no like SEO still matters a ton, like what we used to do in the past or internal links or like stuff like that, that would count for search engine things, or like, are they just doing like a vector database?
+
+**Daniel Lopes:** Like, don't know, Perplexity feels like a vector database, and Exa as well, and Tavoli, but ChatGPT and Claude doesn't, in the same way as that the other ones do, you know?
+
+**Daniel Lopes:** So like, I don't even know what kind of engine are we looking at here, you know?
+
+**Katja Wittfoth:** Yeah, well, Yeah,
+
+**Katja Wittfoth:** A more research.
+
+**Katja Wittfoth:** I think this is also really interesting to uncover.
+
+**Katja Wittfoth:** What is the current mechanism?
+
+**Katja Wittfoth:** What do they use?
+
+**Katja Wittfoth:** And I agree with you.
+
+**Katja Wittfoth:** It's most likely there's a lot of things under the hood that is used to, like, previously seen in the normal search ranking.
+
+**Daniel Lopes:** We could, like, black box this as an experiment, know, like, just come up with, like, 50 different features that we can guess.
+
+**Daniel Lopes:** Like, it's maybe FAQs, maybe it's LLM tags, maybe it's domain authority, maybe it's, like, recognition, like some of the other stuff.
+
+**Daniel Lopes:** And then run a bunch of prompts for those companies and see if they show up.
+
+**Daniel Lopes:** Or, like, we pick the pages that we think are, that should show up or vice versa.
+
+**Daniel Lopes:** You know, I don't know if there's a real approach.
+
+**Daniel Lopes:** It would be, like, we run a bunch of prompts, see who shows up, and then we try to reverse from that and figure out the attributes, the features from that.
+
+**Daniel Lopes:** Or do we just...
+
+**Daniel Lopes:** with the features ourselves.
+
+**Daniel Lopes:** And then we try to limit to a small set of domains, you know?
+
+**Daniel Lopes:** You know what mean?
+
+**Daniel Lopes:** Like discovery of what to measure, the features of the ML model.
+
+**Daniel Lopes:** How would it come up with the features?
+
+**Daniel Lopes:** Guessing or a discovery phase?
+
+**Katja Wittfoth:** So usually in traditional machine learning and everything what we are doing right now in Gen AI, is we're kind of like drawing the inspiration from traditional machine learning.
+
+**Katja Wittfoth:** We would base a lot of features on hypothesis.
+
+**Katja Wittfoth:** So I would talk more with Jason, with more specialists you guys have at GrowthX who are familiar with, you know, SEO and the current GEO.
+
+**Katja Wittfoth:** And everything that you think is like a hunchous hypothesis will take into account and try to create features.
+
+**Katja Wittfoth:** So that's the first step.
+
+**Katja Wittfoth:** And the second is really exploring the data, try an error, and coming up with a new.
+
+**Katja Wittfoth:** So that's kind of like the way I like to do usually.
+
+**Katja Wittfoth:** Right, the hunch of the experts, and second is exploration of the data.
+
+**Katja Wittfoth:** And this is the feature, initial feature set we'll have.
+
+**Jason Gong:** I think that makes sense.
+
+**Jason Gong:** I just don't even know, like, sometimes I don't know what the API even shows today.
+
+**Jason Gong:** Like, at some point, for example, Scrunch used to render this, like, what the search query behind the prompt is.
+
+**Jason Gong:** I mean, I feel like Scrunch is just, like, I don't know, half-baked in a lot of ways.
+
+**Jason Gong:** But, like, to me, I guess that the piece of this is, like, there's, like, I guess an infinite number of prompts.
+
+**Jason Gong:** Like, it's really hard to figure out what...
+
+**Jason Gong:** Just how many those are.
+
+**Jason Gong:** So I feel like that is the realm of what the monitoring tools are thinking a lot about.
+
+**Jason Gong:** But once you have a prompt, there's clearly retrieval happening to go on Google.
+
+**Jason Gong:** And for the most part, I think most of the models still expose what those queries are.
+
+**Jason Gong:** And that's the part where I think is more interesting for us.
+
+**Jason Gong:** Once that query happens, search returns lots of pages.
+
+**Jason Gong:** And what the LM decides to use both in terms of the page and also the content on that page diverges from like what is rank one in search.
+
+**Jason Gong:** And like trying to unpack that of like when there is a search and you appear in it, you know, like what things get cited and pulled into the answer and what things don't.
+
+**Jason Gong:** You know, like that's probably the most interesting part.
+
+**Jason Gong:** I think it's basically what you said, but I just wanted to say that out loud.
+
+**Jason Gong:** And like a lot of the things we've noticed in customers.
+
+**Jason Gong:** It's like, you know, look at this question, right?
+
+**Jason Gong:** It's like, what CMS is best?
+
+**Jason Gong:** Like a lot of times what you'll see is like a competitor's article gets cited to like mention their competitor's product, you know?
+
+**Jason Gong:** So like the LMs are opinionated or just vectorized and they're just pulling a chunk where like Salesforce or like Mercury could write an article on best tools to manage your company's finances and it'll have the ramp in it.
+
+**Jason Gong:** Then ChatGPT will cite a Mercury article to suggest ramp, you know?
+
+**Jason Gong:** like we see that a lot.
+
+**Jason Gong:** can see.
+
+**Jason Gong:** Unpacking all of that.
+
+**Katja Wittfoth:** Yeah, I can see it.
+
+**Katja Wittfoth:** And like how to basically, how to write that article with mentioning your competitor but not impacting your future LLM searches negatively.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Totally.
+
+**Jason Gong:** I feel like this will keep changing.
+
+**Daniel Lopes:** So like whatever you design, I think it would be amazing.
+
+**Jason Gong:** mean, maybe a V1 will just be really hard.
+
+**Jason Gong:** But if it's like just this kind of bent.
+
+**Jason Gong:** You're monitoring over time.
+
+**Jason Gong:** I think if we're able to do that and market it really well, that could be really helpful for us as well.
+
+**Katja Wittfoth:** Yeah.
+
+**Katja Wittfoth:** Do we know more about search?
+
+**Katja Wittfoth:** How do we even call it?
+
+**Katja Wittfoth:** Search LLM engine space?
+
+**Katja Wittfoth:** What are people using the most right now?
+
+**Katja Wittfoth:** What are the focus we're trying to nail?
+
+**Katja Wittfoth:** Is that perplexity?
+
+**Katja Wittfoth:** it chat-GPT?
+
+**Katja Wittfoth:** platform-wise?
+
+**Jason Gong:** Yeah, platform-wise.
+
+**Jason Gong:** I think we'll probably get metrics on that.
+
+**Daniel Lopes:** I'm pretty sure chat-GPT is just number one, and then Claude and perplexity afterwards, maybe.
+
+**Daniel Lopes:** Yeah, I think that's the three.
+
+**Daniel Lopes:** And Gemini is trying to creep up a little bit, because now it's what the overview for Google, I think.
+
+**Jason Gong:** Right.
+
+**Jason Gong:** That is also an interesting one of, like, I don't know how much of a proxy, like, AI overviews are for, like, how Gemini.
+
+**Jason Gong:** It works and then how chat works, you know, like, this is the one area where, like, I guess, you know, you have rough, pretty good approximations for how many people type this works and then maybe you can almost back into, like, because I think the hard part will be, like, it's really hard to just pick the prompts you want to monitor.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Like, you're kind of making it up a little bit.
+
+**Jason Gong:** But if you anchor it on keywords in the search overviews, at least it's still rooted in, like, reality of, like, which ones are searched.
+
+**Katja Wittfoth:** Yeah.
+
+**Katja Wittfoth:** There's, like, no tools that help understand the queries right now of different LNM searches.
+
+**Jason Gong:** Yeah, not that I'm aware of.
+
+**Jason Gong:** But all these tools say they buy clickstream data, like, they buy data from people who are, like, oh, yeah, monitor my computer.
+
+**Jason Gong:** But I haven't seen that be very useful.
+
+**Daniel Lopes:** I wonder if the...
+
+**Daniel Lopes:** Because Google does have options to return overview data, AI overview data, so I wonder if we could reverse that, or if it's invaluable, because it would be possible to get, let's say we want to test 10 different websites, or like 20 different websites, we can get what are their top keywords, and then we can hit the keywords of the overview endpoint turned on and see what Google returns, and then we reverse the prompt from that.
+
+**Daniel Lopes:** You know, I don't know if it's necessary, but we could just also reverse the prompts from the keywords, you know.
+
+**Jason Gong:** Yeah, I guess it's like, you know, like this, this, this keyword as a seed, kind of, I guess I could guess all the prompts, but it's still, yeah, kind of hard to know exactly how to word the prompts, and I mean, one, like, I don't know if this is the one thing to focus on.
+
+**Daniel Lopes:** Like, the right side, like, those are the queries, those are the prompts, people would ask them a lot.
+
+**Jason Gong:** I think so.
+
+**Jason Gong:** I mean, this was exposed in most SEO tools.
+
+**Jason Gong:** I guess the question is, do people prompt like that?
+
+**Jason Gong:** I guess it's probably, like, a decent approximation of that.
+
+**Jason Gong:** I mean, one idea we had a while ago was, like, kind of, how many prompts do you have to track before it roughly all kind of looks the same?
+
+**Jason Gong:** You know, like, there's, like, infinite number of prompts for best automation tools, but maybe tracking, like, let's say you track a million and you just see the variance and, like, the things it returns.
+
+**Daniel Lopes:** Jason, because that's the challenge that we're discussing here today, Marcel, me, and Jose.
+
+**Daniel Lopes:** For the public version of the check that, what makes a good seed prompt?
+
+**Daniel Lopes:** Because we want to do, like, prompts, like, what are the variations we need to run and how many?
+
+**Daniel Lopes:** And that would be the open methodology for tracking things, and we want to expose that.
+
+**Jason Gong:** So.
+
+**Daniel Lopes:** If we run that experiment of, like, if I run this prompt, let's say we get, like, a bunch of keywords that rank high, so we know there's demand for those keywords, and we run, like, 50 variations of each, at what point do the average is the same, you know?
+
+**Daniel Lopes:** Or the median is, or is that there's, like, a high distribution, you know?
+
+**Katja Wittfoth:** Yeah, I think that that's also probably the reason why I started to think about, like, search prompt or search query in terms of categories, because at the end of the day is, if I ask how to automate my finances versus what's the automation tools for finances, it's the same vector space.
+
+**Katja Wittfoth:** So that wouldn't matter for a lot of them at the end of the day, just, like, maybe, uh, in, inside the street categorization will, uh, probably.
+
+**Katja Wittfoth:** You think of some subcategories of how people are asking the questions, and then the variation will be the same vector space.
+
+**Daniel Lopes:** That's a point I'm not sure, because the vector space will be the same for LLM, but I think if the LLM is just looking at the list of results that came from Google for that search first, what's happening first?
+
+**Daniel Lopes:** Is it the LLM just passing the call to Google directly as that prompt, or is the LLM decomposing that into a better keyword search, sending that to Google, or to Bing, or to Brave, getting back the results, and read from the snippets, and then that will be the same vector space from the results.
+
+**Daniel Lopes:** But I don't know which one is happening first, you know?
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** Like, I don't  know.
+
+**Katja Wittfoth:** So, basically, understanding first the LLM search behind the scenes is really important for us, and, like, probably many...
+
+**Katja Wittfoth:** We would differently, I guess, and then target the tactic based on how they do actually a search behind the scene.
+
+**Daniel Lopes:** Yeah, like just doing that, like just running a bunch of variations of the same prompt and seeing if these things are actually vector-based, like semantic-based, or are they doing something else?
+
+**Daniel Lopes:** Nobody knows, you know?
+
+**Daniel Lopes:** So, nobody has done, like running like 100,000 prompts with like 50 variations and seeing like, are we talking about semantics first?
+
+**Daniel Lopes:** Or like, is it like a prompt enhancement going on or a keyword extraction?
+
+**Daniel Lopes:** That would dictate how you do that.
+
+**Katja Wittfoth:** Yeah, that makes a lot of sense.
+
+**Katja Wittfoth:** All right, Jason, do you want to share more like the immediate thoughts you want?
+
+**Katja Wittfoth:** We were having immediate experimentation this year.
+
+**Jason Gong:** Yeah, I could walk through some of them.
+
+**Jason Gong:** I mean, I'll share this after making sure it's documented as well, but the three we're currently doing is we're doing this lm.txt thing.
+
+**Jason Gong:** This one, I guess I don't know how much you've seen it, but I wonder if Mercury tested even.
+
+**Jason Gong:** I have not.
+
+**Jason Gong:** But let's say you do a cloudflare, or let's see, Mercury.
+
+**Katja Wittfoth:** I wonder if you guys have.
+
+**Jason Gong:** Well, there's people add the extra lm.x for it.
+
+**Jason Gong:** so this is Mercury.
+
+**Jason Gong:** So I guess you guys are trying to essentially educate an lm with context on what Mercury is and how to navigate your website and what the product does.
+
+**Jason Gong:** of show it again.
+
+**Jason Gong:** Yeah, good
+
+**Jason Gong:** You know, so there's, yeah, so this is like a thing that people say is useful.
+
+**Jason Gong:** I don't know if this needs to be a very detailed experiment, but essentially it's just like, can we comment on if it is or not?
+
+**Jason Gong:** Is there a way to create an experiment there?
+
+**Jason Gong:** So that's one.
+
+**Jason Gong:** The other one is Reddit.
+
+**Jason Gong:** So this one is, I guess, you know, Reddit gets pulled into a lot of prompts.
+
+**Jason Gong:** And the question is, can you kind of do stuff on Reddit to essentially get cited and mentioned?
+
+**Jason Gong:** So it would be stuff like, you know, like this is one example where just with the company's brand account, you go and you just kind of almost like answer the prompt you want to show up for.
+
+**Jason Gong:** So like if the prompt is like best sales automation tools, you would find an appropriate subreddit.
+
+**Jason Gong:** We've even seen people just create a random subreddit and just post in there, you know, like this exact question and then post an answer and then see if that is essentially effective.
+
+**Jason Gong:** There's other things you could do too, like you can see discussions, you know, and stuff like that.
+
+**Jason Gong:** mean, to be honest, like when I think about what exactly are you even trying to measure here, I'm not even sure.
+
+**Jason Gong:** Like, I guess is it like, I guess you're trying to see like when it cites reddit, like what is the bar you have to meet maybe?
+
+**Jason Gong:** It's like, like how recent the reddit post is, how many upvotes it is.
+
+**Jason Gong:** Can I just post into it completely empty subreddit?
+
+**Jason Gong:** But like it's on reddit, you know, and that'll still get indexed.
+
+**Jason Gong:** You're almost trying to like reverse engineer.
+
+**Jason Gong:** Yeah, I guess the citation part and also almost like Google indexing a little bit.
+
+**Jason Gong:** Like, does Google index a reddit post with zero upvotes, you know?
+
+**Jason Gong:** Oh.
+
+**Jason Gong:** Yeah, haven't thought through this one a little bit, but you can see how there's, like, barely any thought to even, like, what are we testing here, right?
+
+**Katja Wittfoth:** People are just kind of, like, posting on Reddit.
+
+**Katja Wittfoth:** The theory, the hypothesis here would be, like, if we can create a post on Reddit about a brand or some solution they're providing, it will be effective on the search and will basically impact the search.
+
+**Katja Wittfoth:** Yeah, exactly, in the sighting I mentioned.
+
+**Daniel Lopes:** But then under that, there's, like, how do you post?
+
+**Daniel Lopes:** Exactly.
+
+**Daniel Lopes:** Yeah.
+
+**Jason Gong:** Yeah, yeah.
+
+**Jason Gong:** That deserves more thought for sure.
+
+**Jason Gong:** And then this one.
+
+**Jason Gong:** One is kind of a catch-all little bit of, like, there's a lot of just random tactics flowing around of different things you can put onto a page from FAQs to, like, little TLDR, you know, like a little executive summary at the beginning to table of contents.
+
+**Jason Gong:** I've seen other things about using these.
+
+**Jason Gong:** I mean, I assume these are all just, like, secondary to some other fundamental thing about how all of us prefer to read, but, all right.
+
+**Daniel Lopes:** I think, like, could be, like, a secondary one from knowing what kind of variations of keywords you can read.
+
+**Daniel Lopes:** So, variation of prompts.
+
+**Daniel Lopes:** So, like, if you do, like, a large volume variations of prompts derived from keywords that you know have demand, then a second one would be, like, those pages that got cited and see how, like,
+
+**Jason Gong:** If they have this kind of, like, yeah, I guess these would be, like, a feature, but, like, at least my understanding of how, like, LLMs read stuff is, like, hopefully it doesn't matter and it's all text and it's just, like, more of how you should structure text.
+
+**Daniel Lopes:** It would depend on how they chunk it, you know, so that's, that's the part that I'm, I'm not sure.
+
+**Daniel Lopes:** So, like, if, they, if, like, if they hit Google first and then they somehow extract, if they are reading the Google results, Jason, and getting the semantic snippet, that will dictate if they scrape that page and then what the extract frame.
+
+**Jason Gong:** So, I mean, presumably they do because it's expensive to not do that, but, yeah, I guess we don't know.
+
+**Daniel Lopes:** Yeah.
+
+**Katja Wittfoth:** So, I, I think...
+
+**Katja Wittfoth:** we have a path, actually, so in the first place, I feel like we need to understand the picture of how LLM search works, right, so that's more exploratory, and probably I will do more reading and research of existing information, and the second part of this, how LLM works, if we can create a dataset, which we can analyze and run ML model, I want to uncover insights and tactics, basically extension of the first one, based on our data and exploration, and ML, and the last one is experiments, experiments,
+
+**Katja Wittfoth:** on specific tactics, right?
+
+**Katja Wittfoth:** And the three you mentioned is more towards this category is the TXT file, the Reddit, the page comments, et cetera.
+
+**Katja Wittfoth:** So I think that's probably a good path forward to work together on this.
+
+**Katja Wittfoth:** What do you guys think?
+
+**Daniel Lopes:** I think it makes sense.
+
+**Katja Wittfoth:** I think it works.
+
+**Daniel Lopes:** Maybe if you could just like read some of the stuff that we're already doing and just give feedback.
+
+**Daniel Lopes:** So like, so like, that doesn't have to be like scientific and be just, hey, track this or like think about this or like A, B test in this way, it's possible, or if you're not, like, you know that you're not doing it.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** We don't miss an opportunity.
+
+**Daniel Lopes:** Yeah, let's do it.
+
+**Daniel Lopes:** And then we can like go into the proper research.
+
+**Katja Wittfoth:** I think that would be the word.
+
+**Daniel Lopes:** Sounds good.
+
+**Daniel Lopes:** good.
+
+**Katja Wittfoth:** Yeah, totally.
+
+**Katja Wittfoth:** I think this is more already tactical and work, but I think for me, I need to understand what you guys are doing, specifically read through all the documentation, give you immediate feedback if there's anything that stands out, and I'll start on a big picture research of how LLM work, and then basically we'll be coming back to to that, and maybe there's another interesting things that we can implement immediately, and then we can go into the experimentation design overall.
+
+**Jason Gong:** That would be great.
+
+**Jason Gong:** mean, I would love to spend more time on this together, because I guess from our side, how we market, how we're digging into this stuff is almost more important than
+
+**Jason Gong:** If we're actually executing it, at least time frame wise, because right now we're trying to essentially signal, you know, you're for sure going to land on the stuff Profound's doing, and if you even read half of it, you're going to see how crappy it is.
+
+**Jason Gong:** But because they've done something, and they've done a good job marketing it, people are like, my god, these guys are so good, they're so smart, you know?
+
+**Jason Gong:** So I think, yeah, like, that's on my mind a lot of, like, how you're designing what you're digging into, like, how to publicize it in a way to, like, gain attention, you know, in the right way.
+
+**Daniel Lopes:** So, yeah, I feel like we should probably talk a little bit more once you have some thoughts on, like, how you do it.
+
+**Katja Wittfoth:** I think so too.
+
+**Katja Wittfoth:** And, like, also, I think the idea is here, not only me becoming the expert in that, but all of us becoming the expert in LLM search and, like, how to tackle it.
+
+**Katja Wittfoth:** What GrowthX needs to do to actually provide the service to others.
+
+**Daniel Lopes:** It's more like marketing the research is almost as important as research.
+
+**Jason Gong:** I think that's true for AI too, you know, I don't know. Katja, I saw you were about to say something.
+
+**Katja Wittfoth:** Yeah, I wanted just to say, and I know like a lot of data scientists, ML people working on this space.
+
+**Katja Wittfoth:** So I will be like looking specifically, what do they actually do?
+
+**Daniel Lopes:** How do they cover things like that?
+
+**Daniel Lopes:** So that would be interesting to know.
+
+**Jason Gong:** I think, yeah, I mean, literally we would be like the main person to even attempt that.
+
+**Daniel Lopes:** And I know a lot of it will go over our audience's head, but like, I don't care.
+
+**Daniel Lopes:** Like, it would just make me more comfortable if we actually like dug into what's happening instead of just, I don't know, operating blind.
+
+**Daniel Lopes:** Sure.
+
+**Katja Wittfoth:** You wanted to say something, Jason.
+
+**Jason Gong:** I was just going to say, I...
+
+**Jason Gong:** It was, like, LinkedIn stalking you, and I saw you, like, know some people from Kite, because I think the founder of Silo was from Kite.
+
+**Katja Wittfoth:** Yeah.
+
+**Jason Gong:** Yeah, and, you know, do you know, like, Juan well?
+
+**Jason Gong:** Like, I don't know if you know.
+
+**Katja Wittfoth:** I worked, actually, both with Ashton and Antonio.
+
+**Katja Wittfoth:** Basically, they hired me, and I reported to Antonio for a year or two.
+
+**Daniel Lopes:** Yeah, that's we can find them working.
+
+**Katja Wittfoth:** So I worked together very closely.
+
+**Jason Gong:** You were at Kite before?
+
+**Daniel Lopes:** Yeah, I was at Kite, too.
+
+**Jason Gong:** Even a while from before.
+
+**Daniel Lopes:** And then you were with, they were both there, right, Ashton and Antonio?
+
+**Jason Gong:** They're actually there, like, right before I joined.
+
+**Jason Gong:** So I worked with Juan, who, like, was the main ML guy.
+
+**Jason Gong:** I don't know if you know him very well, but I'm really good friends with him.
+
+**Katja Wittfoth:** Oh, that's awesome.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** All right.
+
+**Jason Gong:** Well, yeah.
+
+**Jason Gong:** That's good, guys.
+
+**Jason Gong:** I guess we should re-invite you to Slack, maybe?
+
+**Katja Wittfoth:** I feel like that'd probably be easy.
+
+**Katja Wittfoth:** I think so.
+
+**Katja Wittfoth:** And I will try to look at this notion.
+
+**Katja Wittfoth:** I think I cannot get in, but I think I might have a disconnected account.
+
+**Katja Wittfoth:** But I'll reach out if I cannot.
+
+**Jason Gong:** Slack will be probably great.
+
+**Jason Gong:** And let's set up a next meeting soon and then discuss.
+
+**Jason Gong:** Cool.
+
+**Katja Wittfoth:** Sounds good.
+
+**Katja Wittfoth:** Thank you, guys.
+
+**Jason Gong:** Bye.
+
+**Jason Gong:** Thank you.
+
+**Jason Gong:** Bye-bye.

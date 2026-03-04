@@ -1,0 +1,970 @@
+# GrowthX <> Leapsome
+
+<metadata>
+date: 2025-10-20
+time: 15:15 UTC
+duration: 43 minutes
+organizer: Tyler Pavlas (GrowthX)
+participants: Tyler Pavlas (GrowthX), Willow Thompson (Leapsome), Jenny Podewils (Leapsome)
+fathom_recording_id: 95319959
+fathom_url: https://fathom.video/calls/445661186
+share_url: https://fathom.video/share/1GNjZ3HooM6mbVBz-E8e4yWeNxWoyWgx
+source: fathom
+enriched_on: 2026-03-02 12:00 UTC
+speaker_note: Liliya Apostolova was on the calendar invitation but did not participate in the call. Only Tyler Pavlas, Willow Thompson, and Jenny Podewils were present and speaking.
+</metadata>
+
+---
+
+## Summary
+
+Tyler Pavlas walked through GrowthX's two-phase engagement model with Leapsome's evaluation team: an 8-week Strategy Sprint ($30k) to test the service, followed by an optional 12-month Growth Execution contract ($15k/mo) delivering 20 articles monthly with SEO strategy and CMS publishing. GrowthX manages quality by capping kickoffs to two per week, assigning writers with domain expertise, and limiting individual contributors to four clients maximum. Leapsome will review the SOW, writing samples, and competitor analysis to decide on a January 2026 kickoff.
+
+---
+
+## Context
+
+Leapsome is a Series A-E performance management platform evaluating content partnership options with GrowthX. Willow Thompson and Jenny Podewils (GrowthX's main contact at Leapsome) initiated this call to finalize assessment of GrowthX's services before committing to a partnership. This was a follow-up to a previous conversation where GrowthX had answered several evaluation questions in writing. The meeting focused on operational details—team structure, quality control mechanisms, scope of work, and lead magnet template capabilities—to help Leapsome decide whether GrowthX is the right partner for their content strategy, which emphasizes downloadable resources to reduce LLM replicability and drive conversions to sales-accepted opportunities.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Leapsome emphasizes downloadable resources and lead magnets as part of their content strategy to reduce LLM replication—potential to develop new template-filling workflows within the Phase 2 team or escalate to GrowthX product development.
+- Leapsome tracks success via SAOs (Sales Accepted Opportunities) in HockeyStack; GrowthX will use Scrunch for LLM visibility and Looker for attribution—requires integration planning and weekly reporting setup.
+- Client wants consistent SEO ownership across phases; clarified that Ada will oversee initial strategy in Phase 1 and handoff to Phase 2 managing director. Good precedent for other clients wanting continuity.
+
+**To GrowthX Business Development:**
+- Series A-E SaaS prospect with clear budget ($30k Phase 1 trial, $15k/mo Phase 2) and decision timeline (two-week follow-up for competitor analysis review). High conversion likelihood if delivery quality in Phase 1 meets expectations.
+- Leapsome has a current freelance SEO consultant they'd replace if Phase 1 demonstrates quality—expansion opportunity to consolidate all content/SEO spending under GrowthX.
+- Reference-ability post-Phase 1: strong account health signal if partnership proceeds. Willow and Jenny both engaged and asking detailed operational questions, indicating serious evaluation.
+
+**To CheckThat:**
+- Scrunch integration discussion: Leapsome explicitly wants LLM visibility tracking via Scrunch to monitor content citations. Opportunity to position CheckThat as the long-term visibility platform if Scrunch is insufficient.
+- Downloadable resources strategy aligns with AEO defense use case—potential research or thought leadership angle around how gated content reduces LLM replication.
+
+---
+
+## Overview
+
+- **Two-Phase Model:** An 8-week, $30k Strategy Sprint (Phase 1) produces 5–10 articles and a roadmap. This is a low-risk trial, as clients can opt out before committing to the 12-month, $15k/mo Growth Execution (Phase 2).
+- **Scope & Pricing:** Phase 2 delivers \~20 articles/mo (new or refresh), including SEO strategy and CMS publishing. The service is editorial-only and does not cover custom design or lead magnet creation.
+- **Timeline:** GrowthX is booked for 2025. A January 2026 kickoff is the earliest available, but the date cannot be reserved until Leapsome confirms its intent to partner.
+- **Path Forward:** Leapsome will review the SOW, content samples, and a competitor analysis before making a decision. A follow-up call is set for two weeks to discuss the analysis.
+
+---
+
+## Key Topics
+
+### Partnership Model & Team Structure
+
+  - **Quality Control:** GrowthX manages demand by limiting kickoffs to two per week and vetting clients for a long-term content mindset.
+  - **Phased Approach:**
+      - **Phase 1: Strategy Sprint (8 weeks, $30k)**
+          - **Goal:** Build trust and demonstrate quality.
+          - **Deliverables:** SEO audit, content roadmap, and 5–10 published articles.
+          - **Team:** A dedicated sprint team, with Chief of Staff Marcel often joining the kickoff.
+          - **Decision Point:** Leapsome can opt out before Phase 2.
+      - **Phase 2: Growth Execution (12 months, $15k/mo)**
+          - **Goal:** Execute the roadmap at scale.
+          - **Team:** Stable pod of 3: Managing Director (strategy), Managing Editor (content/SEO), and Content Manager (execution/comms).
+  - **Communication & Tools:**
+      - **Primary:** Slack for daily comms.
+      - **Content:** Google Docs for drafts, Airtable for roadmap management.
+      - **Documentation:** Notion for notes and strategy.
+
+### Scope of Work & Pricing
+
+  - **Phase 1: Strategy Sprint ($30,000)**
+      - 8-week engagement.
+      - Includes SEO audit, content roadmap, and 5–10 published articles.
+  - **Phase 2: Growth Execution ($15,000/month)**
+      - 12-month commitment.
+      - **Deliverable:** \~20 articles/month (5/week).
+      - **Scope:** Includes SEO strategy, content creation, and CMS publishing (Webflow).
+      - **Flexibility:** The 20-article quota can be a mix of new content and refreshes, which is critical for Leapsome's strategy of optimizing core content.
+  - **Out of Scope:**
+      - Custom design or web development.
+      - Creation of new lead magnet templates (e.g., PDFs).
+      - **Note:** GrowthX can fill existing templates with content but will not design them.
+
+### Performance Tracking & Reporting
+
+  - **North Star Metric:** GrowthX aligns with Leapsome's key metric, SAOs (Sales Accepted Opportunities).
+  - **Attribution:** GrowthX will tag its content in Leapsome's HockeyStack dashboard to track the full funnel impact.
+  - **LLM Monitoring:** GrowthX provides access to Scrunch, an internal tool and Profound competitor, to track content citations in LLMs.
+  - **Reporting:** Weekly meetings use dashboards (Looker, Scrunch) to review performance and adapt strategy based on data.
+
+---
+
+## Action Items
+
+**Tyler Pavlas (GrowthX)**
+- Confirm lead-magnet template support w/ team; update Willow Thompson and Jenny Podewils
+- Email Willow Thompson and Jenny Podewils: SOW/contract + writing samples + Scrunch access + client reference
+- Schedule Nov/Dec competitor/opportunity review w/ Willow Thompson
+- Schedule follow-up call w/ Willow Thompson and Jenny Podewils in 2 weeks
+
+---
+
+## Transcript
+**Tyler Pavlas:** Tyler, how's it going?
+
+**Tyler Pavlas:** This meeting is being recorded.
+
+**Willow Thompson:** How's it going?
+
+**Willow Thompson:** I think my sound...
+
+**Willow Thompson:** Wait, let me try this.
+
+**Tyler Pavlas:** Testing, testing.
+
+**Tyler Pavlas:** Is it working?
+
+**Tyler Pavlas:** Hello, hello?
+
+**Willow Thompson:** Here we go.
+
+**Willow Thompson:** I think we're in.
+
+**Tyler Pavlas:** Okay, perfect.
+
+**Tyler Pavlas:** You can hear me?
+
+**Willow Thompson:** I can hear you fine.
+
+**Willow Thompson:** How's your Monday going?
+
+**Willow Thompson:** I guess it's the start of the day for you.
+
+**Tyler Pavlas:** Yeah, just starting for me.
+
+**Tyler Pavlas:** Feeling a little bit under the weather, which is a bummer on a Monday, but trying to power through and take it one meeting at a time.
+
+**Willow Thompson:** How about you?
+
+**Willow Thompson:** How's your Monday gone?
+
+**Willow Thompson:** I'm sorry to hear that's the time of year for illness.
+
+**Willow Thompson:** Yeah, the evening's changing.
+
+**Tyler Pavlas:** How about you, though?
+
+**Tyler Pavlas:** Is your week off to a good start?
+
+**Willow Thompson:** I'm Yeah, it's off to a good start.
+
+**Willow Thompson:** It's coming into the evening here in Barcelona.
+
+**Willow Thompson:** But yeah, it's Monday vibes, so...
+
+**Willow Thompson:** For Just a relaxed start to the week.
+
+**Willow Thompson:** Yeah, I'm looking after these very cute cats at the moment.
+
+**Willow Thompson:** So that's keeping me busy.
+
+**Tyler Pavlas:** Nice.
+
+**Tyler Pavlas:** Are you staying at a friend's place?
+
+**Tyler Pavlas:** Or how did you come across these cats?
+
+**Willow Thompson:** Cats?
+
+**Willow Thompson:** It's a friend.
+
+**Willow Thompson:** She's away for a few weeks.
+
+**Willow Thompson:** She needs someone to look after her cats.
+
+**Willow Thompson:** And she lives right by the sea in Barcelona.
+
+**Willow Thompson:** So I was willing to take that job.
+
+**Tyler Pavlas:** Yeah, that sounds amazing.
+
+**Tyler Pavlas:** Have you been traveling quite a bit?
+
+**Tyler Pavlas:** Or are you in Barcelona for a good amount of time?
+
+**Willow Thompson:** Just for a couple of weeks to look after these cats.
+
+**Willow Thompson:** And then I'll be back to Berlin.
+
+**Willow Thompson:** Okay, nice.
+
+**Willow Thompson:** Yeah, hiding from autumn a bit.
+
+**Tyler Pavlas:** And I saw, too, that you went to school in Bristol.
+
+**Tyler Pavlas:** My little sister, she studied abroad there.
+
+**Tyler Pavlas:** She went to, like, the University of Texas.
+
+**Tyler Pavlas:** But she...
+
+**Tyler Pavlas:** She was there for a whole semester and I visited her over there.
+
+**Willow Thompson:** So it was a blast.
+
+**Willow Thompson:** In Bristol?
+
+**Tyler Pavlas:** Yeah, I've been to Bristol.
+
+**Tyler Pavlas:** I didn't get to see, you know, the warehouse scene, but I did get to see a Banksy or two and the market that's over there.
+
+**Tyler Pavlas:** And then there's this beautiful neighborhood that she loved that was kind of a little bit more scenic and not like in the busy part of the town.
+
+**Tyler Pavlas:** I forget the name, though.
+
+**Willow Thompson:** might know.
+
+**Willow Thompson:** In Clifton.
+
+**Willow Thompson:** It's gorgeous.
+
+**Willow Thompson:** Yeah, that's exactly right.
+
+**Tyler Pavlas:** The gorgeous road with the, all the houses.
+
+**Willow Thompson:** It's an amazing, amazing city.
+
+**Willow Thompson:** I love it.
+
+**Willow Thompson:** Yeah, a lot of my friends just never left.
+
+**Willow Thompson:** They just stayed.
+
+**Tyler Pavlas:** Yeah, I wish I had had more time there.
+
+**Tyler Pavlas:** But hey, Jenny, we can definitely jump right in.
+
+**Willow Thompson:** Good to see you again.
+
+**Willow Thompson:** Jenny.
+
+**Tyler Pavlas:** How's it going?
+
+**Tyler Pavlas:** Definitely want to be as helpful as I can today.
+
+**Tyler Pavlas:** So, yeah, I guess let me know where you'd like to start.
+
+**Tyler Pavlas:** Thank you.
+
+**Tyler Pavlas:** very
+
+**Tyler Pavlas:** We can jump right in.
+
+**Willow Thompson:** I mean, first of all, thanks for coming back to us on all those questions in so much depth.
+
+**Willow Thompson:** I think it's helped to answer a lot of like, at least from my side, lot of the open questions that I had to have that kind of consolidation and followed up with.
+
+**Willow Thompson:** So yeah, thanks.
+
+**Willow Thompson:** Thanks for following up there and for taking the time to jump into those.
+
+**Willow Thompson:** I don't know, Jenny, if you had anything you wanted to talk about in a bit more depth off the back of that.
+
+**Jenny Podewils (she/her):** Yeah.
+
+**Jenny Podewils (she/her):** Thank you so much.
+
+**Jenny Podewils (she/her):** And obviously Willow is the expert here, so she's the one leading the evaluation.
+
+**Jenny Podewils (she/her):** I think the question I have more kind of from my vantage point, I think it looks like a really, really great business you're building there.
+
+**Jenny Podewils (she/her):** And I think I mentioned the question also during and in the email already.
+
+**Jenny Podewils (she/her):** And we all know when you have a whole lots of influx of demand at the same time, like how do you truly ensure.
+
+**Jenny Podewils (she/her):** I mean, I would assume you're bringing on additional people all the time, not everyone might work out, like, who will we work with, how do we make sure that we are on the good side and not on the bad side of those scaling challenges you're facing?
+
+**Tyler Pavlas:** Yeah, absolutely, Jenny.
+
+**Tyler Pavlas:** I think, you know, internally, like, what we've done is we just haven't said yes to everyone, right?
+
+**Tyler Pavlas:** We've limited to two kickoffs a week.
+
+**Tyler Pavlas:** We've tried to make sure that even if someone I'm talking to is like, let's get started tomorrow, we have a couple more meetings just to, like, flesh out what their perspective on content is, what they've tried, right, and what they're thinking about in terms of topical authority.
+
+**Tyler Pavlas:** Really, like, validating that they see content as, like, a long-term investment versus, like, an opportunity to get a quick win or shortcut, you know, the process to, like, building an audience, and then in terms of just
+
+**Tyler Pavlas:** Like the team structure, you know, we really focus on like trying to assign our resources where they have some domain expertise.
+
+**Tyler Pavlas:** So have they written about this type of content before?
+
+**Tyler Pavlas:** We make sure that like nobody is on more than four clients at a given time, which we think is like a nice sweet spot in terms of like workload and how much teams can manage.
+
+**Tyler Pavlas:** And then we just are like really intentional with phase one is a strategy sprint.
+
+**Tyler Pavlas:** We'll create content during phase one, but we get to a point where before we move into the 12-month phase two, the team is completely aware of the roadmap that we would be working on, the quality that we can reach with our content.
+
+**Tyler Pavlas:** And you have this ability to make an informed decision about opting out of the partnership or continuing on with like the exact quality and the exact assign and the exact roadmap of assignments we'd be working on.
+
+**Tyler Pavlas:** So I can obviously go in more detail, you know, I think like...
+
+**Tyler Pavlas:** For us, we don't want to be seen as just an agency, we want to have a platform that our clients can use that continues to evolve, and so right now, like the team has been so focused on building out that product to be client accessible, today it's been internal, right, like we've used Airtable to manage the roadmap, we've used Looker and Scrunch for analytics around content performance, but also LLM performance.
+
+**Tyler Pavlas:** And visibility, we want to bring it all together in a place where it's easier, you know, for you to collaborate.
+
+**Tyler Pavlas:** But, you know, like, the question you bring up, it's a challenge, 100%.
+
+**Tyler Pavlas:** It's hard to scale with quality.
+
+**Tyler Pavlas:** And that's why we put like so much time and energy into phase one.
+
+**Tyler Pavlas:** And, you know, that all that time invested, like, it could be a waste of our time if you don't feel confident enough to move into the 12 months.
+
+**Tyler Pavlas:** So, we try to make it client friendly, but also like be smart.
+
+**Tyler Pavlas:** On our side about, like, how much can we truly take on at one time?
+
+**Jenny Podewils (she/her):** I understood.
+
+**Jenny Podewils (she/her):** And so, how exactly would we be working together with that interplay of the tech and the person, like, we're working with?
+
+**Jenny Podewils (she/her):** Will we have one point of contact?
+
+**Jenny Podewils (she/her):** Or is it kind of like, can you just talk us exactly who we're going to be interfacing?
+
+**Jenny Podewils (she/her):** Are they part of a team?
+
+**Jenny Podewils (she/her):** Like, who's managing them?
+
+**Jenny Podewils (she/her):** Maybe we can just even double click on that a tiny bit further.
+
+**Tyler Pavlas:** Yeah, absolutely.
+
+**Tyler Pavlas:** So in phase one, we have, like, a strategy sprint team.
+
+**Tyler Pavlas:** And there's, like, a couple folks from that team who are, like, the main point of contacts for all the customers that go through the strategy sprint.
+
+**Tyler Pavlas:** And then on the strategy sprint team, there's, like, a couple managing directors and managing editors that help support when it comes to the roadmap, right?
+
+**Tyler Pavlas:** And, like, really fleshing out, like, what are all the assignments that we should be working on for this client?
+
+**Tyler Pavlas:** Like, what's, you know, the SEO audit that we're going to perform to identify those assignments?
+
+**Tyler Pavlas:** And then it moves in.
+
+**Tyler Pavlas:** I stable team for Phase 2, where you've got a managing director, a managing editor, and a content manager, and there is like a little bit of overlap between the Phase 1 and the Phase 2 team, but the Phase 1 team, you know, they're less focused on like consistently creating new content, they're more focused on getting to quality with our workflows and with the artifacts, and then the Phase 2 team is able to step in and really work off that roadmap.
+
+**Tyler Pavlas:** of all the different assignments that we would be working on, and making sure that with every article, right, we can maintain that quality and even continue to evolve it and improve upon it.
+
+**Tyler Pavlas:** And so when you think about like day to day, you know, who are you interfacing with?
+
+**Tyler Pavlas:** There's like two folks from the strategy sprint team that you would be interfacing with on a weekly basis through the eight weeks.
+
+**Tyler Pavlas:** And then in Phase 2, you would have your managing director, who is going to be on every weekly sync.
+
+**Tyler Pavlas:** take And there's one manager.
+
+**Tyler Pavlas:** partnerships,
+
+**Tyler Pavlas:** messaging editor, who's also going to be on every weekly sync, and then your content manager, who's more so like execution, communications around, here's the follow-up from the meeting that we had this week and the action items, you know, here's the draft that's ready for your review, your team in terms of what tools you'd want to access and how you'd work with us, it's Slack for all of these communications, it's Google Docs within that air table for the content drafts.
+
+**Tyler Pavlas:** And I think that's it.
+
+**Tyler Pavlas:** And then Notion is where we'll keep all of our documentation, keep all of our notes.
+
+**Tyler Pavlas:** But we can do a lot of the heavy lifting because we can ingest, like, resources that help us accelerate the process of generating artifacts.
+
+**Tyler Pavlas:** And the resources are flexible, right?
+
+**Tyler Pavlas:** Like, it could be sales decks, it could be positioning and messaging documents, like, it doesn't have to be like this or that, right?
+
+**Tyler Pavlas:** Like, we're pretty flexible.
+
+**Tyler Pavlas:** In terms of what we can ingest, and we've been following this strategy sprint process, I would say, I mean, GrowthX has been around a little over a year, it's been like six months of following this, every client that's, you know, partnered with us has started there and we've had every client but one has converted into phase two and forget off the top of my head why that was, but I can definitely, you know, give you more clarity as to why that client didn't move to phase two.
+
+**Jenny Podewils (she/her):** And so, and is it one strategy team or is it multiple teams working in parallel that's kind of like doing the first strategy execution sprint?
+
+**Tyler Pavlas:** It's just one strategy sprint team with like...
+
+**Jenny Podewils (she/her):** Same people that have been working on these previous kind of like accounts that would, we would be working with in the strategy phase pretty much.
+
+**Tyler Pavlas:** Basically the people who you'd work with in the strategy sprint have done several strategy sprints for all the clients that have moved from phase one to phase two.
+
+**Tyler Pavlas:** you.
+
+**Tyler Pavlas:** So it's like a rinse and repeat process and just to make sure that things go really well like our chief of staff is often going to be pretty involved.
+
+**Tyler Pavlas:** Marcel usually joins the kickoff call to make sure that things start off on the right foot.
+
+**Willow Thompson:** And with the sort of SEO strat side of things just to check, is it someone who is like, do you have like a consistent SEO strat head working on the account or is it something that's set up at the beginning?
+
+**Willow Thompson:** Or is it like every three months you like reset and look at the next sprint?
+
+**Willow Thompson:** Like how does that process work?
+
+**Willow Thompson:** Or is that the content manager who is like your SEO head or person who's driving that strategy?
+
+**Tyler Pavlas:** We've got someone driving that strategy that's typically involved.
+
+**Tyler Pavlas:** Her name's Ada and she was like working at SEMrush as a content writer and she was at Animals before that, which is like a really great content agency.
+
+**Tyler Pavlas:** I've seen like.
+
+**Tyler Pavlas:** like.
+
+**Tyler Pavlas:** All sorts of messages about, like, Ada, you're a rockstar.
+
+**Tyler Pavlas:** Ada, what would we do without you?
+
+**Tyler Pavlas:** Stuff like that.
+
+**Tyler Pavlas:** But Ada would probably be the person that would be overseeing the initial strategy.
+
+**Tyler Pavlas:** In addition to, there's this guy, Eric, who, like, Eric, before GrowthX, he was, like, head of services and client delivery at this AI company.
+
+**Tyler Pavlas:** I don't know exactly what they did in particular.
+
+**Tyler Pavlas:** He was, like, a principal at Slalom, which is a consulting firm.
+
+**Tyler Pavlas:** Basically, like, he spent his career working with clients and making sure, you know, we, we meet client expectations and are able to, right, be consistent, evolve our process from one meeting to the next.
+
+**Tyler Pavlas:** We, I actually work with Eric a lot on the sales to strategy spread handoff.
+
+**Tyler Pavlas:** And so, like, I create a handoff doc and I do a lot of work to, like, make sure if we've answered questions that.
+
+**Tyler Pavlas:** We would cover in the kickoff call.
+
+**Tyler Pavlas:** The team has that contact, so they're not asking you the same questions.
+
+**Tyler Pavlas:** And yeah, it's a pretty collaborative effort for sure, but we've standardized the strategy sprint and we make sure that in phase two, you know, it's a pot of three different people and the managing director is more strategy.
+
+**Tyler Pavlas:** The managing editor is an expert on content and SEO and then the content manager, they've had experience as a content marketer, writing for businesses, and also, you know, are really doing like the day-to-day weeds of the execution, right, like preparing all the drafts, managing the pipelines, managing all the client communications.
+
+**Willow Thompson:** Yeah, because there's a tying together part, which is like briefing in the template design, making sure that there's no copy errors on that, setting it up in the in Webflow.
+
+**Willow Thompson:** I don't know, like, I'm trying to work out how much of this could potentially be done with that, with that team.
+
+**Willow Thompson:** Or whether there's probably, I imagine there's still be stuff we'd need to do internally, especially when it comes to some of the back end setup of things like the lead magnets we have, but yeah, that's interesting to know that we have like a sort of someone who can take over and own the SEO side of things, because we are working with a freelance SEO consultant at the moment, but I think looking at the price point for the minimum price point we have, we'd probably need to find a solution where we would go all in, and have like an all-in-one kind of setup here and ideally phase out the SEO.
+
+**Willow Thompson:** We would, I think we wouldn't be paying twice for that.
+
+**Willow Thompson:** So yeah, that's kind of why I'm asking.
+
+**Willow Thompson:** Are we, is the plan in this call to go into pricing at all and get more of an idea of like how much, how many pieces per month and what the cost per piece and this kind of stuff?
+
+**Willow Thompson:** Is that, is that the plan for the call or is that something that comes later in the process?
+
+**Tyler Pavlas:** Oh yeah.
+
+**Tyler Pavlas:** I'm happy to be transparent there.
+
+**Tyler Pavlas:** And, um, I'm
+
+**Tyler Pavlas:** Marcel, our CEO, he would say that we would replace like an SEO agency or someone working with you on the SEO side if you were really focused on managing costs and it is something that would be covered right in what we're doing so you could feel you could feel comfortable going all in with us and you could wait until like we get to that opt out date in phase one, if you just wanted to be absolutely sure, of course.
+
+**Tyler Pavlas:** But in terms of pricing, so we charge $40,000 on the strategy sprint for enterprises, we charge $30,000 for folks like yourselves who are, you know, Series A through Series D or even E, in terms of the cost it's a $30,000 fixed fee in the strategy sprint, again, it's not just strategy, we'll do an SEO, GEO audit, we'll create the roadmap, we'll create and publish articles, we're typically doing that about halfway through, so you might have like five to 10
+
+**Tyler Pavlas:** And published articles in your CMS by the end of the strategy sprint.
+
+**Tyler Pavlas:** In phase two, the growth execution, we publish every business day.
+
+**Tyler Pavlas:** So you would expect five articles per week, around 20 per month.
+
+**Tyler Pavlas:** And we do all the staging and publishing in your CMS if you want us to.
+
+**Tyler Pavlas:** We just wouldn't do any sort of like custom design or web development, right?
+
+**Tyler Pavlas:** We'd be working within like existing templates that you've set up.
+
+**Willow Thompson:** What?
+
+**Willow Thompson:** Oh, sorry.
+
+**Willow Thompson:** Go for it.
+
+**Willow Thompson:** If we gave you templates, like we have templates for downloadable resource.
+
+**Willow Thompson:** We're trying to lean more into downloadable resources at the moment because these are like less easy for LLMs to kind of replicate.
+
+**Willow Thompson:** So we're doing a lot of, we call them lead magnets, but you can call them all kinds of things like templates.
+
+**Willow Thompson:** But we have the designs already there for a lot of people.
+
+**Willow Thompson:** The common lead magnets you would have, would it be something that your team would be able to take our templates and then fill in the correct content?
+
+**Willow Thompson:** Like, is that something that technically we could hand over to your team as well?
+
+**Tyler Pavlas:** Potentially.
+
+**Tyler Pavlas:** Could you show me an example or even, like, share an example with me?
+
+**Tyler Pavlas:** I would just want to, like, ask the team specifically to make sure that I'm not saying the wrong thing.
+
+**Willow Thompson:** Yeah, so I have, like, this one that I was working on today.
+
+**Willow Thompson:** Sorry.
+
+**Tyler Pavlas:** No worries.
+
+**Tyler Pavlas:** I'm just trying to get a sense.
+
+**Willow Thompson:** But we have similar, like, there's lots of templates that look similar to this, for example.
+
+**Tyler Pavlas:** It's just the content that changes.
+
+**Tyler Pavlas:** like, it.- like I
+
+**Tyler Pavlas:** Were you sharing your screen?
+
+**Willow Thompson:** I couldn't see anything.
+
+**Willow Thompson:** Oh, I just added it in the chat, but I can also share my screen, if that's easier.
+
+**Tyler Pavlas:** Oh, okay.
+
+**Willow Thompson:** think in the chat, like, you may have sent it to the notetaker.
+
+**Tyler Pavlas:** You have to click, like, the everyone icon to the left of the GN icon.
+
+**Willow Thompson:** Oh, sorry.
+
+**Tyler Pavlas:** That's a weird thing.
+
+**Tyler Pavlas:** I don't know why it does that.
+
+**Willow Thompson:** Okay.
+
+**Willow Thompson:** I mean, it's fairly, you know, it's nothing super complicated.
+
+**Willow Thompson:** It's just, um, logistically, there's, it would be helpful to have, you know, extra pairs of hands on this, um, for the, the logistics of, like, briefing it in to design, checking it, getting the content in, making sure it's the right length, this kind of stuff.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** I see.
+
+**Tyler Pavlas:** I see.
+
+**Tyler Pavlas:** Um, and are you saying, so, I guess, help me understand what you would be looking for our team to do with this example as, um, the context?
+
+**Willow Thompson:** So, so, this template is part of a...
+
+**Willow Thompson:** a...
+
+**Willow Thompson:** It's piece that we're publishing that's targeting the keyword Employee Satisfaction Survey template, and so it's like a long-form blog article, but the major CTA at the top is to download this template, and we do a lot of content like this because it's something that is not so easy for LLMs to replicate right now.
+
+**Willow Thompson:** So we feel, and also these tend to be the pieces that for us perform the best in terms of driving SAOs, which is our like North Star metric.
+
+**Willow Thompson:** A lot of our top performing content has like a downloadable resource as part of it.
+
+**Willow Thompson:** So yeah, ideally if there was a way that we could work with an agency to help, because like quite a lot of the pieces we work on tend to have these types of templates in them.
+
+**Tyler Pavlas:** I see, so like you would want us to create a template similar to this, but relevant to the content.
+
+**Tyler Pavlas:** So last five All
+
+**Willow Thompson:** So we could have employee engagement survey template, and it would be something similar, would be the downloadable resource, but we could use this, we have lots of templates already set up, it's more just getting the content in, and this kind of stuff is like a bit of a, yeah, a bit of a workload.
+
+**Tyler Pavlas:** I'll definitely verify my assumption that I think is accurate, is that if you wanted us to include a template in the content that we write as the lead magnet, as the resource that you could download, absolutely we would do that.
+
+**Tyler Pavlas:** If you were looking for us to create like new PDFs for you, new designs, I don't think we would do that.
+
+**Tyler Pavlas:** But I can definitely ask, and the reason is just because most folks hire us to help with their SEO, GEO strategy.
+
+**Tyler Pavlas:** And to create the words, right, and then stage and publish those words every day and like scale quality when they would need to like build out a team to do that.
+
+**Tyler Pavlas:** The piece that's missing here is just that we rarely do design and web development work that's more custom because a lot of the folks that work here are content marketers, writers, SEO strategists.
+
+**Tyler Pavlas:** They're not graphic designers.
+
+**Tyler Pavlas:** Now for like lovable, right, we're like building out a templates library for them.
+
+**Tyler Pavlas:** And the templates are like websites that people have made or apps that people, you know, can use as a starting point.
+
+**Tyler Pavlas:** And so it's like a core part of like their website infrastructure, their content, what is going to help them with searchability.
+
+**Tyler Pavlas:** And this is more like an accompanying resource to a piece of content versus something living on your website.
+
+**Tyler Pavlas:** Right.
+
+**Tyler Pavlas:** So I think in the future, in the future, you can definitely look at like creating these types of templates on like a.
+
+**Jenny Podewils (she/her):** page on your website, like maybe a new section of the site, but we would start off for sure in the relationship with more of just the editorial and we could include these in the content that we create, but we wouldn't create like net new and maybe just don't click on that because I mean, obviously, yes, we would also be hiring you to for our SEO, our AEO strategy to show up kind of what we want to show up and raise awareness once we have the attention on our then obviously for us always is the question of what actually converts an unknown website visitor into an MQL and just because our product might not always sort of like be timely for the contact at that point in time, a demo isn't of like always the right call to action.
+
+**Jenny Podewils (she/her):** So kind of like what would be, how do you work with other customers to then once you have the attention convert for like contacts into an
+
+**Jenny Podewils (she/her):** And to an MQL, is it the kind of like lead magnets that Willow kind of now showed you or how do you usually work with other customers around similar sort of flows?
+
+**Tyler Pavlas:** Yeah, great question.
+
+**Tyler Pavlas:** I would say it's like strategic in nature, primarily, what is the most logical lead magnet or conversion from this piece of content to the next piece of content or straight, you know, to a demo request.
+
+**Tyler Pavlas:** And then when it comes to like creating those lead magnets, I feel like sometimes I like, you know, our website maybe is representing us as doing like a lot more right there than we do in practice.
+
+**Tyler Pavlas:** It's more we're piggybacking on like your existing attribution or we're creating the analytics that can show that, you know, this article that we created was cited in LLMs and here's how many citations.
+
+**Tyler Pavlas:** things.
+
+**Tyler Pavlas:** You had, and here's all the, you know, visits to the site that were referrals from content that we created, or this content, you know, is what led, you know, to the conversion, I forget which acronym you use, but like, for the MQL or the SQL, right, like, it's more analytics versus, like, we're creating the lead magnets, we're optimizing, you know, the content for conversion, but we're not, like, creating custom some, you know, lead magnets that would lead to, like, new demo request.
+
+**Tyler Pavlas:** Got it.
+
+**Tyler Pavlas:** All right.
+
+**Tyler Pavlas:** Does that clarify?
+
+**Jenny Podewils (she/her):** I just want to make sure.
+
+**Jenny Podewils (she/her):** Will do you have follow-up questions for that?
+
+**Willow Thompson:** No, I think it's clear.
+
+**Willow Thompson:** I mean, our previous content agency also didn't produce these for us, so I was just seeing if it was something we could outsource, but we do have a designer who can help us with this, and an intern on the team who can help.
+
+**Willow Thompson:** So it's solvable, but I was trying to see if it was something we could outsource, because it's a bit of work.
+
+**Jenny Podewils (she/her):** Maybe.
+
+**Jenny Podewils (she/her):** Do you have other key open questions, Willow, at this stage?
+
+**Willow Thompson:** I had a few, but also I'm aware we're running up on time.
+
+**Jenny Podewils (she/her):** I mean, maybe do you mind otherwise double-clicking on sort of the commercials, understood sort of like the first price tag, do you mind double-clicking on the second price tag for phase two, kind of like other key contractual things to be aware of, and maybe also timelines.
+
+**Jenny Podewils (she/her):** If we decided we want to go forward with one in Azure, like what kind of implementation time would we actually be looking at?
+
+**Tyler Pavlas:** Yeah, absolutely.
+
+**Tyler Pavlas:** So in phase two, we can definitely do our best to be flexible on payment terms.
+
+**Tyler Pavlas:** We typically, you know, would go to quarterly as the lowest, but there's been some exceptions where we've done monthly, so definitely can do our best.
+
+**Jenny Podewils (she/her):** 12 months is basically, you have eight weeks, then you have a decision point, and then you commit to 12 months.
+
+**Jenny Podewils (she/her):** So there's no flexibility as to if that's like a rolling commitment, but it's a 12 months commitment after sort of like peer in stage two, is that correct?
+
+**Tyler Pavlas:** That's correct.
+
+**Tyler Pavlas:** And it's because for our business, we need to be able to predictably allocate resources over the long term since everybody is only assigned to like four accounts at the most.
+
+**Tyler Pavlas:** And the phase one to phase two, the last week of phase one, right?
+
+**Tyler Pavlas:** So up until the last week, that's when you have the ability to opt out of phase two.
+
+**Tyler Pavlas:** And then once we move into phase two, it's a 12 month term.
+
+**Tyler Pavlas:** It's 15K per month is the price tag.
+
+**Tyler Pavlas:** And we've, you know, considered like termination for breach language and we've accepted it in many scenarios.
+
+**Tyler Pavlas:** But termination for convenience has been like a red line that I've never seen us accept.
+
+**Tyler Pavlas:** And I think timeline right now we're booked up through the rest of
+
+**Tyler Pavlas:** But as soon as we find the right fit and the client tells us they're, you know, ready to like move into the legal part, we can reserve a kickoff date for you in January.
+
+**Willow Thompson:** Okay.
+
+**Willow Thompson:** So definitely nothing until January.
+
+**Willow Thompson:** You're fully booked up.
+
+**Tyler Pavlas:** We, we are right now.
+
+**Jenny Podewils (she/her):** Yes.
+
+**Tyler Pavlas:** And, um, think like the reason is because we're really putting a lot of energy into the product so that we can deliver better client experiences that aren't in Slack and Notion and Airtable and Google Docs, but in a centralized platform.
+
+**Jenny Podewils (she/her):** So it just to fully understand for the 15 K a month, it's one, one article published per day or like five per week, I guess.
+
+**Tyler Pavlas:** Exactly.
+
+**Tyler Pavlas:** We target five per week.
+
+**Tyler Pavlas:** We typically achieve that.
+
+**Tyler Pavlas:** The only thing that could get in the way is if the review process was super.
+
+**Tyler Pavlas:** We're cumbersome, or if we weren't in a position where we could, like, access your CMS to stage and publish, if we're able to collaborate well in the strategy sprint, if we can reach that quality bar, then absolutely, you know, we have the articles ready that we can publish every business day.
+
+**Jenny Podewils (she/her):** And that includes, so it means, the SEO, AO strategy that has evolved on an ongoing basis to some extent, and then it's pretty much from there all the way to article live on our site, because you actually also publish yourself in Webflow, right?
+
+**Tyler Pavlas:** Exactly, and for us, know, like, if we're just increasing traffic, like, we're not really succeeding, and you're not going to want to hire us for another year, so, like, we are looking at what's working, what's not working, how can we iterate, okay, here's the article that's getting a lot of visibility, right?
+
+**Tyler Pavlas:** You know, we're going to...
+
+**Tyler Pavlas:** But should we also prioritize these assignments since this is starting to gain traction?
+
+**Tyler Pavlas:** So it's evolving.
+
+**Tyler Pavlas:** The artifacts are evolving.
+
+**Tyler Pavlas:** Once we've got your Looker dashboard set up, which we do that in the strategy sprint, when we've got the scrunch dashboard set up, which is a lot of the LLM visibility and monitoring, then it's easy for us on a week-over-week basis in our meetings with you to track where are we doing well?
+
+**Tyler Pavlas:** Where is there room for improvement?
+
+**Tyler Pavlas:** How should we adjust or change our strategy based on what the data is telling us?
+
+**Tyler Pavlas:** So yeah, that would be the big things that we're doing to make sure that this is evolving and that it's not vanity metrics around traffic, right?
+
+**Tyler Pavlas:** We're tracking that increased traffic through the conversion to the extent that we can connect to your existing attribution.
+
+**Tyler Pavlas:** If we can't connect to your existing attribution in terms of tying our content to that specific MQL conversion, we'll do whatever you're doing today.
+
+**Tyler Pavlas:** Basically, and like connect to your, we'll get access to your Google Analytics, to your Google Search Console, and we'll be able to, you know, I can share examples like of some of the reporting that we deliver if it helps.
+
+**Willow Thompson:** Yeah, we could also be like a tagged dashboard in HockeyStack, which is how we, that's how we track the through line to more like bottom of funnel metrics.
+
+**Willow Thompson:** So there's just like one metric that we, everything revolves around, Leapsome, and, um, I think there's probably a way that we could like tag content published via your platform, like via this agency and then see, um, whether that then ties to SAOs, which is this main metric we use, so, um.
+
+**Tyler Pavlas:** Absolutely, yeah, and HockeyStack is a client, so that should be fine, yeah.
+
+**Tyler Pavlas:** Oh, okay.
+
+**Willow Thompson:** We with HockeyStack.
+
+**Willow Thompson:** Okay, well, yeah, we work, yeah, that's our, for us, we find the best way to, um, see the through line, um, and is it net new, net new content every day, or like.
+
+**Willow Thompson:** Are optimizations as well, or like a mix, because we tend to do a mix of like one-third optimizations versus like two-thirds net new, so is it like a mix of the two?
+
+**Tyler Pavlas:** Totally up to you.
+
+**Tyler Pavlas:** Definitely have a lot of clients who prefer to do a mix of the two, because with Refresh there's like quicker wins, right, where you can just optimize some existing content that you have.
+
+**Tyler Pavlas:** We can, you know, do more than five per week if it's net new and refresh, we just really need to collaborate with you to make sure that we can hit that scale.
+
+**Willow Thompson:** Yeah, with our previous agents we had like a point system, and refreshes were like 50% of a net new.
+
+**Willow Thompson:** But really we want to be focusing on a lot of refreshes because LLMs favor content that's republished in the last six months.
+
+**Willow Thompson:** So I think we don't to just create an absolute ton of new content.
+
+**Willow Thompson:** Content without also looking after the core content base that we have.
+
+**Willow Thompson:** So it's good to hear that's a bit of a mix and that we can have a bit of a mix in them.
+
+**Tyler Pavlas:** Oh, yeah.
+
+**Tyler Pavlas:** I mean, it's essentially like up to you.
+
+**Tyler Pavlas:** We'll identify opportunities for refresh and you can help us prioritize net new versus refresh and what the right balance might be.
+
+**Tyler Pavlas:** I mean, even Marcel says, like, every three months is like a good opportunity with how much LLMs are rewarding recency and having a bias towards recency.
+
+**Willow Thompson:** Yeah, I think we'd have to look at a reasonable split between refreshes and new, but I think 20 new pieces a month sounds like a lot.
+
+**Willow Thompson:** I'd want to probably do a balance to make sure that we're focusing on the really relevant keywords whilst also expanding into some new areas.
+
+**Willow Thompson:** So, um, maybe would it be possible to, sorry, okay.
+
+**Willow Thompson:** Oh, no, Jenny, go.
+
+**Jenny Podewils (she/her):** Maybe just one quick question.
+
+**Jenny Podewils (she/her):** Like, for example, um, are you also able to, to some extent.
+
+**Jenny Podewils (she/her):** Consult on the strategy because like 20 new pieces like maybe if we're breaking into new business segments like maybe we even want to for a certain period of time go all in on new pieces versus in other sort of periods maybe it makes more sense to focus more on sort of like having a decent share of refresh like can you also consult kind of like and challenge our thinking and when it comes to sort of these kind of strategic decisions and who on the team would be working with actually does that.
+
+**Tyler Pavlas:** Yeah, for sure.
+
+**Tyler Pavlas:** I would say that the managing director would be the person that's in charge of strategy because they're going to be the person who has the most expertise and driving driving results for SEO and GEO.
+
+**Tyler Pavlas:** But we typically, you know, are putting our point of view out there in terms of what we think would be most effective and if you have right opinions that are different then we'd want to have a conversation about that to the extent that it's not getting in your way.
+
+**Tyler Pavlas:** Right, So if...
+
+**Jenny Podewils (she/her):** that's what you're looking for in the partnership, we prefer to be more collaborative, for sure.
+
+**Jenny Podewils (she/her):** And just on that last piece, because at the end of the day, understand the contract is structured around 20 new pieces per month.
+
+**Jenny Podewils (she/her):** At the end of the day, we don't care about the input, right?
+
+**Jenny Podewils (she/her):** We care about the actual outcomes.
+
+**Jenny Podewils (she/her):** So how do you align on kind of the objectives we're tackling together, how they evolve over time?
+
+**Jenny Podewils (she/her):** Like, is there like a quarterly kickoff, or is that always done?
+
+**Jenny Podewils (she/her):** There's weekly meetings I understood, or how do we make sure we really push hard in the same direction effectively at the end of the day?
+
+**Tyler Pavlas:** It's starting with the kickoff call and the strategy sprint, making sure we know, and it's starting in the sales process too, making sure we know what goals you're trying to hit with the content that we'd be creating.
+
+**Tyler Pavlas:** And, you know, being aligned from the beginning about what our North Stars are, what your most important KPIs are, that just ensures that when we're doing our reporting.
+
+**Tyler Pavlas:** Right.
+
+**Tyler Pavlas:** We're tracking our progress towards those goals.
+
+**Tyler Pavlas:** We're not just, you know, doing it in a black box of, hey, look how much, you know, more visibility you got through this content or how many more impressions or clicks.
+
+**Tyler Pavlas:** Right.
+
+**Tyler Pavlas:** So that's, you know, core to the engagement for sure.
+
+**Jenny Podewils (she/her):** Cool.
+
+**Jenny Podewils (she/her):** Understood.
+
+**Jenny Podewils (she/her):** Willow, do you have additional questions?
+
+**Jenny Podewils (she/her):** was also looking at time.
+
+**Willow Thompson:** Yeah, I'm aware we're over on time.
+
+**Willow Thompson:** It would be great, Tyler, if you could send some writing samples of the kind of content that's been produced just to give an idea of so I could just have a look at quality and this kind of stuff.
+
+**Willow Thompson:** And then let us know what the next steps are.
+
+**Willow Thompson:** And I think, yeah, I'm just aware we're probably all running up on time.
+
+**Willow Thompson:** So I can always send some more questions in email, I guess, as a follow up.
+
+**Jenny Podewils (she/her):** Maybe can you also just talk us through sort of like what the next steps are?
+
+**Jenny Podewils (she/her):** assume, like, do you mind actually just also sending us kind of like contractual stuff?
+
+**Jenny Podewils (she/her):** So we can actually look through it and start with some redlining along the way.
+
+**Jenny Podewils (she/her):** I actually think January isn't a bad time to start.
+
+**Jenny Podewils (she/her):** It also gives us the possibility to then start straight with all the sort of pre-work that's been done for the next year.
+
+**Jenny Podewils (she/her):** So it might actually be a sensible time to start.
+
+**Jenny Podewils (she/her):** But what else do you need to sort of, I think would be good if Willow you can wrap up what else we need to see and if there's anything that you usually feel like is part of a good process to elaborate, like to really figure out if this partnership makes sense.
+
+**Jenny Podewils (she/her):** What else, Tyler, is needed from your end?
+
+**Tyler Pavlas:** Yeah, for sure.
+
+**Tyler Pavlas:** I can send over our SoW so we can get that process in motion.
+
+**Tyler Pavlas:** In terms of like more that I would need from my end, not too much.
+
+**Tyler Pavlas:** I can tell that the team would be very collaborative.
+
+**Tyler Pavlas:** The content is definitely in scope.
+
+**Tyler Pavlas:** You know, sometimes it's like more conversations are needed.
+
+**Tyler Pavlas:** And the subject matter is, like, highly, highly technical or, you know, whenever it's futuristic and so, like, the content, the opinions are still being formed on it.
+
+**Tyler Pavlas:** It's not to say we can't do that stuff.
+
+**Tyler Pavlas:** It's just, like, a lot more due diligence is required in those conversations.
+
+**Tyler Pavlas:** I think it's really just about making sure that you all feel confident about what you get out of the partnership and that I do a good enough job there.
+
+**Tyler Pavlas:** So you are moving into phase one with, um, you know, skepticism or nerves or fear, even.
+
+**Tyler Pavlas:** Um, so I know, like, one thing I said on the first call is, like, going a bit deeper into, like, the content opportunity against your competitors.
+
+**Tyler Pavlas:** And candidly, like, I've been doing my best to, like, ramp up there, but I've had to work with a guy on our delivery team who is just very involved in delivery.
+
+**Tyler Pavlas:** So I think, you know, we can have that conversation in November or December, for sure, Willow, just to make sure that you feel really good about the partnership.
+
+**Jenny Podewils (she/her):** But, um, it's really just the SOW from here.
+
+**Jenny Podewils (she/her):** Yeah, because.
+
+**Jenny Podewils (she/her):** I mean, honestly, that's the other question I had on my list here, because you asked us about core competitors, we haven't heard anything about it, so I think it would be, if you're comfortable, it would be great if we could fix a start date in January, while we're still really also on both ends, looking into finalizing some of the open questions, would be good to understand the opportunities you see, based on sort of the competitors we've named, but as we do that, already locking in something for January, because I think if we go much later than that, I think there's a point where it maybe doesn't make sense, but maybe we can lock that in, start some redlining, but also still, like, make sure that we fully understand where the mutual potential lies, and getting answered to all the questions we still have.
+
+**Tyler Pavlas:** Yeah, it makes a lot of sense.
+
+**Tyler Pavlas:** sense.
+
+**Tyler Pavlas:** I think that, you
+
+**Tyler Pavlas:** You know, you definitely have a good idea of, like, what we do and what we don't do, right?
+
+**Tyler Pavlas:** Like, what is our service offering and, like, what is out of scope?
+
+**Tyler Pavlas:** I think we're aligned there.
+
+**Tyler Pavlas:** I think it's more about, like, is there enough opportunity, right, to capture, but not, you know, like, can GrowthX do it?
+
+**Tyler Pavlas:** It's more so, like, are we going to get enough ROI from GrowthX coming in and creating net new and refresh articles, you know, every business day of the week?
+
+**Jenny Podewils (she/her):** Yeah, and just one final question.
+
+**Jenny Podewils (she/her):** Do your, the customer, your customers still also deploy tools like Profound in addition to having you sort of, like, on the ground?
+
+**Jenny Podewils (she/her):** Or do you use some of the, the tracking, the reporting, showing opportunity?
+
+**Jenny Podewils (she/her):** Is that already something that's to some extent, or to what extent is that covered by partnering with you?
+
+**Tyler Pavlas:** Yeah, you could look into Scrunch a little bit, but Scrunch is, like, a Profound competitor, and we would give you access
+
+**Tyler Pavlas:** To as many prompts as you want to track in scrunch across as many topics and all the different LLM tools.
+
+**Tyler Pavlas:** So you don't need to have Profound if you are going to move forward with growthx.
+
+**Jenny Podewils (she/her):** Do you not have access to your scrunch instance or account as part of the partnership?
+
+**Jenny Podewils (she/her):** Or how does that look like there's a part of the interface that we access by you where we can access scrunch?
+
+**Tyler Pavlas:** Or how exactly does that?
+
+**Tyler Pavlas:** Let me confirm if clients can log in, but I know that there's like a completely separate dashboard from client to client.
+
+**Tyler Pavlas:** And each dashboard like has topics specific to that client, as many prompts as they want to track within those topics.
+
+**Tyler Pavlas:** I just don't know like the method of whether we screen share and send reporting or whether you could like log in and access on your own.
+
+**Jenny Podewils (she/her):** Okay, cool.
+
+**Jenny Podewils (she/her):** That would be maybe helpful to understand.
+
+**Tyler Pavlas:** All right.
+
+**Tyler Pavlas:** But yeah, I think I can confirm a date like once you confirm your desire to move forward.
+
+**Willow Thompson:** you know, like if you're like- Yeah.
+
+**Tyler Pavlas:** Hey, we're, we're going to move forward as long as we can like reach alignment on search.
+
+**Tyler Pavlas:** I can do it then, but I can't really do it before then at the same time.
+
+**Tyler Pavlas:** Like, you know, it's not going to be like, things are going to change by mid November.
+
+**Tyler Pavlas:** Like we're not going to like, you don't, don't worry about like rushing to a decision.
+
+**Tyler Pavlas:** Um, I think like I need to do some more work to make you feel confident, Willow, that it's the right partnership.
+
+**Tyler Pavlas:** So let's make sure we like start there.
+
+**Tyler Pavlas:** And then after that conversation, you know, just let me know.
+
+**Tyler Pavlas:** One way or another, you guys are really interested in moving forward, not sure, or don't want to move forward.
+
+**Tyler Pavlas:** Um, cause I can't like, it's just like the demand is crazy and I just can't like reserve dates until we know that we're going to partner, you know, and it's just a matter of legal at that point.
+
+**Jenny Podewils (she/her):** Yeah.
+
+**Jenny Podewils (she/her):** I mean, maybe you just sent us the legal stuff so we can have a look, um, and in parallel and Willow is gonna like make sure that we have all the answers because I mean, it doesn't, we also want to spare you the work unless it's actually really, really, really fit from.
+
+**Willow Thompson:** I think I could see some content samples, and if possible talk to someone, one of your customers, I know that it's a fairly new agency that there's not like a ton of customer stories and stuff like that, if someone would be happy to chat to me, that would be great, and yeah, and if I could see some samples of the type of content that's being produced, that would also be great, I think that would help us feel more comfortable, fully confirming that we want to move forward.
+
+**Tyler Pavlas:** Perfect, perfect.
+
+**Tyler Pavlas:** Yeah, Willow, give me like two weeks, and let's like set up our next call in two weeks, and in that meeting, we can have like a much more practical conversation around like some of the concerns that you have, so that after that meeting, you can kind of make a decision one way or the other.
+
+**Willow Thompson:** Yeah.
+
+**Tyler Pavlas:** Cool.
+
+**Tyler Pavlas:** Well, good to see you all again, and thanks for the time.
+
+**Tyler Pavlas:** See you later.
+
+**Tyler Pavlas:** Thanks, Tyler.
+
+**Tyler Pavlas:** Good to talk.
+
+**Tyler Pavlas:** Have a good Monday.
+
+**Tyler Pavlas:** Bye.
+
+**Tyler Pavlas:** All right, you too.
+
+**Tyler Pavlas:** Have fun in Barcelona.
+
+**Tyler Pavlas:** See ya.

@@ -1,0 +1,981 @@
+# Aftershoot <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-07-03
+time: 14:30 UTC
+duration: 43 minutes
+organizer: Ehtisham Hussain (GrowthX)
+participants: Darrell Etherington (GrowthX), Ehtisham Hussain (GrowthX), Manaswini Rao (Aftershoot), Monalisa Roy (Aftershoot), Meenakshi Nautiyal (Aftershoot)
+speaker_note: Only three speakers appear in the transcript despite nine calendar invitees. The three identified speakers are all actively engaged throughout. No ambiguity in speaker identification.
+fathom_recording_id: 72085741
+fathom_url: https://fathom.video/calls/343328274
+share_url: https://fathom.video/share/fLDHtqw-cT6N_RPHfv6LLqwWsiR3GbJo
+source: fathom
+enriched_on: 2026-03-03 12:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Aftershoot discussed a major strategy pivot, focusing on three core issues: dashboard data visibility, content quality alignment, and shifting from top-of-funnel content to product-focused, mid/bottom-funnel pieces. Ehtisham committed to GA4 analysis, new keyword research, and revisiting content outlines to address Aftershoot's feedback that previous drafts remained misaligned with their product pain points. Manaswini flagged that current content is "dry informational" and lacks narrative—the team agreed to involve Aftershoot in outline reviews before production starts.
+
+---
+
+## Context
+
+Aftershoot is a photo management and editing software for photographers. GrowthX is working on a content marketing engagement to drive SEO visibility and conversion through the sales funnel. This is an ongoing weekly sync between the two teams during active engagement. The meeting surfaces a critical misalignment: GrowthX had been producing mostly top-of-funnel (TOFU) educational content, but Aftershoot is now prioritizing mid and bottom-funnel pieces tied to specific product pain points and customer stories. The technical foundation for reporting is also shaky—GrowthX is working to fix Airtable-to-Looker connectors so Aftershoot can see content performance data directly.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Content strategy pivot required: shift from generic photography education to product-specific pain points and use cases. This affects how GrowthX structures content briefs, keyword research, and interview/case study planning.
+- Dashboard/reporting infrastructure is blocking visibility. GA4 access and Airtable-Looker integration are prerequisites for the Aftershoot team to trust the data GrowthX is using for strategic decisions.
+- Outline templates and ICP alignment are critical—Aftershoot rejected previous outlines and will share their preferred structure to ensure new content meets product and narrative standards.
+
+**To CheckThat:**
+- AI Overviews are materially impacting click-through rates for top-of-funnel content. This reinforces the shift to deeper, problem-focused content less vulnerable to extraction by LLM systems.
+
+**To GrowthX Business Development:**
+- Account health signal: Aftershoot is engaged and providing detailed feedback, suggesting a healthy partnership. New POCs (Darrell and Ehtisham) have been introduced.
+- Content quality issues must be resolved quickly—if GrowthX doesn't address the "dry informational" feedback, renewal risk increases.
+- Expansion potential: Interview and case study work with photographers suggests potential for thought leadership positioning beyond SEO content.
+
+---
+
+## Overview
+
+- GrowthX is working on fixing dashboard issues to provide better data visibility on content performance
+- There's a misalignment between current content approach (mostly TOFU) and Aftershoot's goals; need to shift focus to more product-aligned, mid/bottom funnel content
+- Content quality and relevance issues need to be addressed before expanding to new content areas
+- New keyword research and content strategy to be developed collaboratively, focusing on photographer pain points and product alignment
+
+---
+
+## Key Topics
+
+### Dashboard and Data Issues
+
+  - GrowthX is fixing connector issues between Airtable content OS and Looker dashboard
+  - Aftershoot team requests access to more comprehensive data, including GA4, to better understand content performance
+
+### Content Performance Analysis
+
+  - Overall blog CTR is low, with average position on 2nd/3rd pages (rank 13-16)
+  - AI overviews are impacting click-through rates, especially for top-of-funnel content
+  - Need to analyze user intent and engagement metrics to determine content refresh strategy
+
+### Content Strategy Shift
+
+  - GrowthX proposes moving from purely TOFU to more mid/bottom funnel content
+  - New approach includes interviewing photographers, creating case studies, and developing thought leadership pieces
+  - Focus on pain points Aftershoot solves rather than general photography topics
+  - Aftershoot team emphasizes need to align new strategy with current contract scope and address existing content quality issues first
+
+### Content Quality and Alignment
+
+  - Current content described as "dry informational pieces" lacking narrative or value proposition
+  - Need to improve product and audience alignment in content
+  - Incorporate feedback on content quality and ensure each piece speaks to core value proposition
+
+### Keyword Research and Content Planning
+
+  - Aftershoot's SEO lead (Meenakshi) is working on new keyword research
+  - Collaborate on making complex topics more accessible while maintaining intent alignment
+  - GrowthX to focus on improving content quality, engagement, and product-market alignment
+
+### Artifacts and Outlines
+
+  - GrowthX is refreshing and improving content artifacts
+  - Previous outlines shared were not satisfactory; new templates and approach to be developed
+
+---
+
+## Action Items
+
+**Ehtisham Hussain (GrowthX)**
+- Analyze engagement metrics from GA4 for Aftershoot blog posts. Focus on post-click behavior, conversion rates.
+- Build detailed cohorts for content strategy based on product pain points and user journey. Include keyword volumes and performance expectations.
+- Review past content performance to identify issues in TOFU content, product alignment, and audience fit. Prepare retrospective analysis.
+- Share all current assets and research with Aftershoot team, including keyword research, content plans, and performance data.
+- Revise content outlines to address previous feedback. Ensure alignment with new strategy, ICPs, and templates.
+
+**Manaswini Rao (Aftershoot)**
+- Share preferred outline template with GrowthX team, including structure, expected details, and formatting preferences.
+
+---
+
+## Transcript
+**Darrell Etherington:** Now I'm just trying to find where it keeps these meeting notes and transcriptions.
+
+**Darrell Etherington:** Do you know?
+
+**Darrell Etherington:** Google?
+
+**Ehtisham Hussain:** I haven't tried it yet.
+
+**Darrell Etherington:** They're somewhere.
+
+**Darrell Etherington:** I just don't know where.
+
+**Darrell Etherington:** I'm not sure.
+
+**Darrell Etherington:** Looking at this thing Andy sent over, we keep publishing a report, that she should be able to pull directly from the bases, it's the benefit of Airtable, okay, mm-hmm, mm-hmm, mm-hmm, So this artifacts thing, we'll probably, I saw you sent over the existing ones, I've noticed already there's like probably some things we can do to improve, but they want us to redo all of them anyway, so we can work on that.
+
+**Darrell Etherington:** Thank
+
+**Darrell Etherington:** I'm wondering if they thought this meeting was cancelled because David hadn't put any growth experts on.
+
+**Ehtisham Hussain:** Did they, have they said anything about the artifacts?
+
+**Ehtisham Hussain:** No, just, they, Moji responded to it, but I don't think they had any comments.
+
+**Manaswini Rao:** Hello.
+
+**Manaswini Rao:** Hi.
+
+**Ehtisham Hussain:** How are you doing?
+
+**Manaswini Rao:** So, three of us are joining from the same computer.
+
+**Manaswini Rao:** are together.
+
+**Manaswini Rao:** That's fine.
+
+**Darrell Etherington:** Hello.
+
+**Manaswini Rao:** Well, I don't think you've met Darrell and Ehtisham.
+
+**Manaswini Rao:** They're going to be our new POCs.
+
+**Manaswini Rao:** They're going to be working on our project.
+
+**Manaswini Rao:** Guys, Mona Lisa is another CoinMarketingManager with us.
+
+**Manaswini Rao:** She was joining us today.
+
+**Manaswini Rao:** Last week, she wasn't here.
+
+**Manaswini Rao:** Hello, nice to meet you.
+
+**Darrell Etherington:** Hello, It's strange.
+
+**Ehtisham Hussain:** Hello.
+
+**Manaswini Rao:** Just one sec.
+
+**Manaswini Rao:** Why isn't it?
+
+**Manaswini Rao:** Just a sec, please.
+
+**Manaswini Rao:** It's not coming.
+
+**Manaswini Rao:** Your camera.
+
+**Manaswini Rao:** Camera's not working.
+
+**Manaswini Rao:** What, no permissions?
+
+**Manaswini Rao:** I don't know.
+
+**Manaswini Rao:** Oh, okay.
+
+**Manaswini Rao:** Okay, I guess.
+
+**Manaswini Rao:** You're just trying to enable it.
+
+**Manaswini Rao:** Oh, yeah, there it is.
+
+**Manaswini Rao:** Hey.
+
+**Manaswini Rao:** Hi.
+
+**Darrell Etherington:** Hi.
+
+**Darrell Etherington:** Oh, there it is.
+
+**Darrell Etherington:** I just wanted to say hi.
+
+**Darrell Etherington:** Hello.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** How's it going?
+
+**Ehtisham Hussain:** Going well.
+
+**Manaswini Rao:** Going well.
+
+**Manaswini Rao:** We just started off site, so all of us are together.
+
+**Manaswini Rao:** Oh, good.
+
+**Manaswini Rao:** That's fun.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** Yeah.
+
+**Manaswini Rao:** Keep going.
+
+**Ehtisham Hussain:** Nice to meet you, and yeah, look forward to working together.
+
+**Darrell Etherington:** Okay.
+
+**Darrell Etherington:** So I'm going to start.
+
+**Ehtisham Hussain:** We are aware about the very specific dashboard request that you guys put in, and we did like create it on Looker, but there were some issues in pulling the data.
+
+**Ehtisham Hussain:** So we are still working on it.
+
+**Ehtisham Hussain:** Unfortunately, we don't have it right now.
+
+**Ehtisham Hussain:** But as soon as we do, we are going to share it in the channel.
+
+**Ehtisham Hussain:** So we don't have to wait the whole week.
+
+**Darrell Etherington:** Yeah, more specifically, we just, usually we tie it to, I think, I think originally when you started, you probably used it, but it's like our Airtable content OS.
+
+**Darrell Etherington:** I think you requested specifically, we work in Excel.
+
+**Darrell Etherington:** So they had designed it originally to pull from Excel, but it was just having some connector errors.
+
+**Darrell Etherington:** So now we, because we still maintain the Airtable version just for our own internal use, and it's fresh and current.
+
+**Darrell Etherington:** So we're just resetting it so that it ties from that and pulls to that.
+
+**Darrell Etherington:** And then it can do the cohorting data properly.
+
+**Darrell Etherington:** And we can drill down to more specific.
+
+**Darrell Etherington:** Content versus the whole stuff from GSC.
+
+**Darrell Etherington:** So that's a little bit of behind the scenes, but it should be fixed next week.
+
+**Manaswini Rao:** So is there like the content we can see at least?
+
+**Manaswini Rao:** Pardon?
+
+**Manaswini Rao:** You said you work with the Airtable.
+
+**Manaswini Rao:** So the connected is an issue, I'm saying.
+
+**Manaswini Rao:** Is there a possibility that we can see that data increase?
+
+**Darrell Etherington:** Yeah, you can absolutely always see the Airtable content OS.
+
+**Darrell Etherington:** It should be shared with you, but it's basically just, I think David was using a Sheets version of this that is a simplified view, but the content OS we do on Airtable is just kind of like our tracking system, and Ehtisham, I think, is sharing it now.
+
+**Darrell Etherington:** But yeah, please, we prefer to use this instead of the Sheets.
+
+**Darrell Etherington:** But yeah.
+
+**Manaswini Rao:** Okay.
+
+**Manaswini Rao:** So this is where the...
+
+**Ehtisham Hussain:** But I'm sorry?
+
+**Manaswini Rao:** I said, but it does not have any numbers.
+
+**Manaswini Rao:** So I thought...
+
+**Manaswini Rao:** Like you had something in the table, but it was just the connected issue.
+
+**Darrell Etherington:** Yes, because this filters versus, it's just a filtering layer on the GST data so that we can drill down to our stuff specifically.
+
+**Darrell Etherington:** That's basically how we use it.
+
+**Ehtisham Hussain:** Because you guys have asked us to present data only on the articles that growthx has written, and to separate that out from the total blog post that you guys have, we will have to make sure that there's a connector between the two and then it's data from here and what's over there.
+
+**Ehtisham Hussain:** So there were some issues in Looker and we are trying to fix it as soon as possible.
+
+**Ehtisham Hussain:** Got it.
+
+**Ehtisham Hussain:** Ehtisham, just a note on the reporting front, right?
+
+**Manaswini Rao:** So we don't have to limit ourselves to just the articles that we've produced in the past few months.
+
+**Manaswini Rao:** That's too small a chunk to look at, make sense of, and drop out.
+
+**Manaswini Rao:** From anything else.
+
+**Manaswini Rao:** So my recommendation would be that we look at all the data, but we drill down into the performance aspects of the ones that our growthx has been working on.
+
+**Manaswini Rao:** So we work in context and not without it.
+
+**Ehtisham Hussain:** All right.
+
+**Ehtisham Hussain:** that make sense?
+
+**Ehtisham Hussain:** Yeah, absolutely.
+
+**Manaswini Rao:** Yeah, for sure.
+
+**Manaswini Rao:** All right.
+
+**Ehtisham Hussain:** Okay, so I did do some digging on the overall blogs that you guys have.
+
+**Ehtisham Hussain:** And I just looked at the numbers for the blogs and did some high-level analysis of it.
+
+**Ehtisham Hussain:** It shows, I think, I'm having trouble presenting the whole screen.
+
+**Ehtisham Hussain:** Search.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** So if you look at it, the overall case-through rate is low for most of the blog posts.
+
+**Ehtisham Hussain:** And the position is also mostly on the second and third pages, like it's mostly 13 or 16, the average position is 16.
+
+**Ehtisham Hussain:** So we have to hit this with a two-pronged approach that I have shared with you guys in the sheet as well.
+
+**Ehtisham Hussain:** Number one, we have to go back to all the published blog posts with the lowest click-through rate and we have to make sure that we can maybe revise them, refresh them.
+
+**Ehtisham Hussain:** And we don't necessarily have to be blog posts that go text hit for you, but we are more than happy to just go and refresh them, make sure that they get a higher click-through rate or at least experiment with them.
+
+**Ehtisham Hussain:** Number two was the seven new clusters that I proposed.
+
+**Ehtisham Hussain:** Have you guys had a chance to look at that?
+
+**Manaswini Rao:** Ehtisham, before we move to that, I just want to go back on the refresh bit.
+
+**Manaswini Rao:** So if you want to refresh pieces, what have been your findings in terms of why the content that we have published so?
+
+**Manaswini Rao:** Hasn't worked, hasn't ranked as well as we hope, and what would we be focusing on if we were to refresh these pieces?
+
+**Ehtisham Hussain:** So, number one, a lot of this is not about ranking, it's also about user intent.
+
+**Ehtisham Hussain:** On a lot of these, I saw that there were really good impressions, really high impressions, but the click-through rate was low.
+
+**Ehtisham Hussain:** And that is something that we are seeing across the board as well.
+
+**Ehtisham Hussain:** The click-through rate is going down because of AI overviews.
+
+**Ehtisham Hussain:** So, if you're publishing content like, how to do X, Y, Z, or just very top of the funnel content, a lot of that is just resulting zero-click searches now.
+
+**Ehtisham Hussain:** So, the clicks have gone down.
+
+**Ehtisham Hussain:** Other than that, we will have to go into individual blogs and see what the particular issue was.
+
+**Ehtisham Hussain:** If it's ranking at 26 or 37, or really on the third or fourth or fifth page, we will have to see.
+
+**Ehtisham Hussain:** Other than that, with these kind...
+
+**Ehtisham Hussain:** The blog post where the rank is, the average position is 12, 13, or 16, that usually, in my experience, takes low-lift effort to just see what content gaps there are and just put in that extra content in there and get it to a higher ranking.
+
+**Manaswini Rao:** So, Ehtisham, have you also observed that, like, the ones that you're talking about, which are on, like, the second pages, are they the ones which are taken over by AI overviews as well?
+
+**Manaswini Rao:** See, the point is, if you're optimizing those pages, is it still gonna end up that we will get those clicks?
+
+**Ehtisham Hussain:** So, for that, we will have to do, we will have to go blog by blog, like, so, because here, like, I got, like, more than a thousand results, right?
+
+**Ehtisham Hussain:** So, for that, I just did a high-level analysis, we will have to see user intent as well, and we will have to identify how many of those are really just TOFU articles, because TOFU articles,
+
+**Ehtisham Hussain:** It goes across the board, we are seeing that the clicks are not happening that well.
+
+**Manaswini Rao:** Ehtisham, did you also have the chance to go through any engagement metrics, either a post hoc or GA, to supplement this understanding of what's happening with the clicks that they're actually getting?
+
+**Manaswini Rao:** No, unfortunately, I haven't seen it yet.
+
+**Ehtisham Hussain:** But I will need access to the GA for you.
+
+**Ehtisham Hussain:** I don't have access to GA, is it?
+
+**Manaswini Rao:** I think the growthx team has it.
+
+**Manaswini Rao:** It's with team at growthx.com, I think.
+
+**Manaswini Rao:** We've already given access at the beginning of onboarding.
+
+**Ehtisham Hussain:** Yeah, we should have access to that.
+
+**Ehtisham Hussain:** Yeah, I found it in search console, but in GA4, I tried looking for offshoot and I couldn't find it.
+
+**Ehtisham Hussain:** Actually, yeah, I'm just looking right now live.
+
+**Darrell Etherington:** We don't have that one for some reason.
+
+**Darrell Etherington:** So either.
+
+**Darrell Etherington:** Got disconnected or something, but we'll have to re-add.
+
+**Ehtisham Hussain:** This data is from search console.
+
+**Manaswini Rao:** Okay.
+
+**Manaswini Rao:** Anyway, Ehtisham, my point, the point I was trying to make was, one, AIO is taking over and them eating clicks is not something we can control, right?
+
+**Manaswini Rao:** And when the project with UX is focused around tofu, this becomes a very tricky place to be in.
+
+**Manaswini Rao:** Tofu is getting eaten by AIOs.
+
+**Manaswini Rao:** What's their ratio?
+
+**Manaswini Rao:** How much impact do we have from these?
+
+**Manaswini Rao:** And what's happening with these clicks that we anyway end up getting from tofu?
+
+**Manaswini Rao:** These three would be my top considerations and what I would want to dig deeper into.
+
+**Manaswini Rao:** And this would set a direction on if or not I should be doing refreshes.
+
+**Manaswini Rao:** Is this bringing any meaningful traffic?
+
+**Manaswini Rao:** And is it converting meaningfully for AfterShoot?
+
+**Manaswini Rao:** Or are we trying to, you know.
+
+**Manaswini Rao:** Bring up some new shiny metrics that make us feel good about ourselves.
+
+**Manaswini Rao:** Right.
+
+**Manaswini Rao:** I mean, that's a valid concern.
+
+**Darrell Etherington:** Concern shared with the entire industry, right?
+
+**Darrell Etherington:** But I think that's going to be a long tail metric forever, right?
+
+**Darrell Etherington:** Like that's done.
+
+**Darrell Etherington:** It's over for everyone.
+
+**Darrell Etherington:** So you're right to be suspicious of the value of that.
+
+**Darrell Etherington:** I think that it will be a long tail, slow descent.
+
+**Darrell Etherington:** And so that is where we can help relatively easily with refreshes.
+
+**Darrell Etherington:** Like that's the value of our platform.
+
+**Darrell Etherington:** So we can do that very low lift, especially if there's a trust relationship where you say, oh, you're going to put something that is reasonable and that represents the brand, doesn't damage the brand up, but that will hopefully get those long tail clicks that are still remaining from traditional search.
+
+**Darrell Etherington:** And we don't have to like go through a bunch of approval queues to get this stuff live.
+
+**Darrell Etherington:** Like it's actually very low lift and very easy for us to run refreshers on existing content, even.
+
+**Darrell Etherington:** Non-growthx to capture that.
+
+**Darrell Etherington:** So that's the benefit of us versus traditional.
+
+**Darrell Etherington:** would say if you're traditional, highly manual publishing at this stage, you're right.
+
+**Darrell Etherington:** It is not worth it to go back and rebuild those things because you're going to get diminishing returns, especially in Tofu.
+
+**Darrell Etherington:** But we can talk about, I think Ehtisham has a lot to share on the rest of the strategy, but overall, we're advising clients this is a monumental shift.
+
+**Darrell Etherington:** is not orders of magnitude in terms of what you used to get in a click-through in a traditional search result and what you're getting in an answer engine.
+
+**Darrell Etherington:** And it's amplified by the fact that people are gaining more trust for answer engines.
+
+**Darrell Etherington:** So like they just now asked ChatGPT and they trust it implicitly and they don't click anything because there's no even suspicion or verification anymore.
+
+**Darrell Etherington:** Right.
+
+**Darrell Etherington:** So that's going away.
+
+**Darrell Etherington:** And that means we have to replace it with something else.
+
+**Darrell Etherington:** And like, I truly think content is still the answer.
+
+**Darrell Etherington:** But it's much more about capturing either high intent, so more middle-bottled funnel, or on the other side, creating different distribution strategies that don't rely on any of these things as referrers, but they rely much more heavily on human and community referrers.
+
+**Darrell Etherington:** And Ehtisham has stuff that he can talk to about that.
+
+**Darrell Etherington:** But hopefully that's a good high-level answer.
+
+**Darrell Etherington:** We totally agree with that, and we would not be advising that you should update a bunch of this, but spend a lot of time and effort in doing this if you didn't have the advantage of AI tools that can help you do this relatively low-cost, high-volume.
+
+**Darrell Etherington:** I agree, Darrell.
+
+**Manaswini Rao:** I agree on the execution front.
+
+**Manaswini Rao:** I agree that content of freshers can be quick wins.
+
+**Manaswini Rao:** I agree that this landscape is changing, and there's a lot more we're going to have to do, apart from just producing some tofu content, to win this landscape and actually adapt and thrive in the coming months,
+
+**Manaswini Rao:** But my question here was, so we also did like a bunch of research in-house, exactly on this, the plateau of clicks that we see, the traffic that we see to websites, I'm sure you guys have seen with multiple other clients, this is a universal issue.
+
+**Manaswini Rao:** So for AfterShoot specifically, we did a bunch of deep dives in-house as well.
+
+**Manaswini Rao:** And again, like there's a bunch of people working on different stages of the funnel, they're working on different parts of content marketing and SEO, right?
+
+**Manaswini Rao:** And growthx owns the tofu bit of it.
+
+**Manaswini Rao:** So my concern here would be that, I understand we are getting this data from GSC to understand that our clicks have dropped, which we already know, and CPRs are a little low.
+
+**Manaswini Rao:** And that makes sense because, I mean, CPR is just essentially a metric that's giving you a share of clicks from the impressions that you're getting.
+
+**Manaswini Rao:** AIOs getting more impressions make sense, less clicks make sense.
+
+**Manaswini Rao:** All of this is fine.
+
+**Manaswini Rao:** My question is, if we were going to do content refreshes again.
+
+**Manaswini Rao:** Keeping this landscape in mind, and growthx goal in mind, right?
+
+**Manaswini Rao:** It's not just to produce tofu content, production is the execution bit of it, but the outcome, expected outcome is meaningful traffic, right?
+
+**Manaswini Rao:** So I'm just trying to understand how are we thinking in terms of that so we don't end up doing things because we're excited about them and we know that they work.
+
+**Manaswini Rao:** We still need a strategic direction to what kind of cohorts are we targeting?
+
+**Manaswini Rao:** Why are we doing these depressions?
+
+**Manaswini Rao:** And apart from winning the rank or getting more clicks, what's happening with this traffic?
+
+**Manaswini Rao:** That's also something that needs to play into tofu, right?
+
+**Manaswini Rao:** Not saying let's do product guides in tofu, not at all, but what kind of tofu traffic are we targeting and what do we plan to do with them?
+
+**Manaswini Rao:** These are two questions I would expect anyone in the marketing team to have very clear answers to, right?
+
+**Manaswini Rao:** Whenever they pick up any sort of traffic task.
+
+**Manaswini Rao:** Who is this traffic and what do you plan to do with them?
+
+**Manaswini Rao:** I don't see these two answers very clearly at this point is all I'm saying.
+
+**Manaswini Rao:** Yeah, that makes total sense.
+
+**Darrell Etherington:** We can definitely clarify that.
+
+**Darrell Etherington:** And like part of our approach is that we do volume experimentation, right?
+
+**Darrell Etherington:** So we're not looking to go with a very clear, we like the data to lead us rather than the other way around, right?
+
+**Darrell Etherington:** And Ehtisham will talk about, he has hypotheses, and then we will test those hypotheses and try them.
+
+**Darrell Etherington:** And I think it's also worth clarifying that like, perhaps it's the way that the engagement began, but like, we don't really think of ourselves as a strict tofu shop.
+
+**Darrell Etherington:** Like, that is not how we think about it at all.
+
+**Darrell Etherington:** We think we can address all layers of the funnel, and should.
+
+**Darrell Etherington:** But, yeah, all points are well made and well taken.
+
+**Darrell Etherington:** And I think we are thinking in the same direction, but I do want to let Ehtisham articulate more on that front.
+
+**Ehtisham Hussain:** Yeah, so I think you're looking for cohorts, right?
+
+**Ehtisham Hussain:** I can do some more research into that, and I can build cohorts, but the overall, the generalization.
+
+**Ehtisham Hussain:** So with the refreshes is, if an article is ranking at, let's say 26, then obviously it's going to get less impressions and it's going to get less click-throughs as a result.
+
+**Ehtisham Hussain:** If we can get it to 8, 9, or 6 or something, if we can get it to the first page, the impressions are going to go up, even if the click-through rate remains the same, it's still going to get more clicks.
+
+**Ehtisham Hussain:** So that was my idea for the refreshes, where I get it from the second page or third page to the first page, and we can get more clicks.
+
+**Ehtisham Hussain:** That's like the short-term thing.
+
+**Ehtisham Hussain:** The long-term thing was a shift to middle and bottom of the funnel, because as Darrell said, we are not exactly just a tofu shop.
+
+**Ehtisham Hussain:** So what we want to do is, that's what I propose in the new clusters and the new strategy, that we interview photographers.
+
+**Ehtisham Hussain:** We turn those interviews into case studies and collateral for sales teams and into thought leadership.
+
+**Ehtisham Hussain:** you, Thank
+
+**Ehtisham Hussain:** articles and then we distribute it to email and to social and other channels on forums of photography and we try to move from the top of funnel articles to middle of funnel, bottom of bottom of the funnel articles and that's how you get even better traffic in terms of quality and a higher conversion.
+
+**Manaswini Rao:** So Ehtisham, the thing is what you talked about the dashboard and getting the data being the indicator, we want to understand like even when you're talking about Mofu and Wofu, how have you, how are you deciding on the cohorts, that's one and the second we think that you're like if the impression that we're giving us like you guys are just good at TOFU, it was just we were not really happy with how things were with and then we discussed that TOFU is how we let you guys lead with the content strategy and now the third point is you're talking about
+
+**Manaswini Rao:** The content distribution part, which I don't think is something that we have discussed is not part of the engagement.
+
+**Manaswini Rao:** So how are you guys planning to tie it up all together and make this work for us?
+
+**Manaswini Rao:** And what is the thought process?
+
+**Manaswini Rao:** Because the thing is, what we were expecting is if we had a look at the dashboard and what your rationale is, even if you're doing all these hypotheses and validations, how are you coming up with these cohorts, these ideas, like even BOPU, BOPU level, and this is gonna tie up to the AEA as well.
+
+**Manaswini Rao:** So we are on the view on the, all the aspects of things that you're talking about theoretically, but practically, and when you keep saying like, based on the data points and the touch points that we need to have, we still don't see that visibility, the clarity that we need.
+
+**Manaswini Rao:** That's what I am looking for.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** So I think your first question was how we came up with these new clusters, if I got you correctly, or these new ideas, right?
+
+**Ehtisham Hussain:** So that's something based on the product and what the product helps photographers with.
+
+**Ehtisham Hussain:** It helps them save time.
+
+**Ehtisham Hussain:** It helps them scale their business, right?
+
+**Ehtisham Hussain:** So all of these is just focused on the pain points that AfterShoot solves.
+
+**Ehtisham Hussain:** It's not based on, let's say, I didn't let the keywords lead me to this thing.
+
+**Ehtisham Hussain:** Because if you look at the keywords, I've shared them in different sheets.
+
+**Ehtisham Hussain:** They don't have really that high volume.
+
+**Ehtisham Hussain:** If you look at the volume, the keywords don't have really high volume.
+
+**Ehtisham Hussain:** I went outside of the keyword thing and I focused on the pain points that usually, you know, that AfterShoot solves.
+
+**Ehtisham Hussain:** And I thought we should write about those.
+
+**Ehtisham Hussain:** We should interview photographers.
+
+**Ehtisham Hussain:** We should turn those interviews into collaterals and then we should.
+
+**Ehtisham Hussain:** Focus heavily on distribution.
+
+**Ehtisham Hussain:** This is coming from seeing clicks dropping across the board.
+
+**Ehtisham Hussain:** This is something that a lot of service providers, a lot of software as service product will have to switch to inevitably where they talk about their products, the pain points that they solve instead of let's say something that would be just of interest to photographers.
+
+**Ehtisham Hussain:** First, if we publish an article about gear that they should use or different types of cameras and everything, it's interesting to them.
+
+**Ehtisham Hussain:** It's in line with content marketing.
+
+**Ehtisham Hussain:** It's going to get some traffic, but it's not going to turn into someone signing up for a free trial, right?
+
+**Ehtisham Hussain:** Because they just got introduced to after two.
+
+**Ehtisham Hussain:** So all of these ideas, these are not keyword based ideas.
+
+**Ehtisham Hussain:** These are product based ideas.
+
+**Ehtisham Hussain:** And the biggest aspect of it that I was hoping to experiment with.
+
+**Ehtisham Hussain:** was interviewing your most engaged customers, we can probably do it acing, we can go live with them even, and then we can turn that transcript into multiple different, you know, marketing collaterals and experiments with that, and that would be a really good middle of the funnel, bottom of the funnel asset.
+
+**Ehtisham Hussain:** It's not going to be SEO focus, but it's going to get you the visibility and the rankings and everything.
+
+**Ehtisham Hussain:** Sorry, I said ranking.
+
+**Darrell Etherington:** I'll just add to the, I think what you're articulating and what is generally how we approach it is data informed, but not data led, right?
+
+**Darrell Etherington:** And this has always proved the proper path to like true growth and success, in my experience, like Apple, at Shopify, at TechCrunch, always data informed, never data led, because you have to, you should articulate strong hypothesis first, based on what you know about your customer, and then you should
+
+**Darrell Etherington:** Let the data tell you whether or not that is being effective.
+
+**Darrell Etherington:** And I realize that it's unusual because we had the transition.
+
+**Darrell Etherington:** So I don't want to talk about what previously came before in terms of whether their approach was correct or not.
+
+**Darrell Etherington:** But this is just sharing the benefit of my experience and what I think will be worthwhile here.
+
+**Darrell Etherington:** And so standing up, we will track and we will measure and we will make sure that it is doing that.
+
+**Darrell Etherington:** But to Ehtisham's point, I think the starting point, rather than being so keyword focused and SEO focused, and this is, a theme of the company, but we're meant to be your growth partner overall.
+
+**Darrell Etherington:** And we should achieve the growth goals, not just the traffic goals or the SEO goals.
+
+**Darrell Etherington:** Yeah.
+
+**Manaswini Rao:** So I get the point that you're trying to make that we want to build an overall journey for the customer through content.
+
+**Manaswini Rao:** But I think
+
+**Manaswini Rao:** We had revised our contract to a contract, I think, two months ago, and we were focusing on production for top of the funnel content.
+
+**Manaswini Rao:** Did you guys discuss with the team on how we are approaching that?
+
+**Manaswini Rao:** Because we were under the impression that we were not going to do middle of the funnel and bottom of the funnel.
+
+**Manaswini Rao:** We were going to keep it in-house, and top of the funnel was going to be growthx, and we were going to help with that.
+
+**Darrell Etherington:** We can still do that if that's what you really want us to do, but I just don't think it serves the actual goal, right?
+
+**Darrell Etherington:** Like, the goal of growth.
+
+**Darrell Etherington:** Absolutely, Darrell.
+
+**Manaswini Rao:** I understand your point.
+
+**Manaswini Rao:** Again, we're not looking for continuous mills, that's why we chose growthx as a growth partner, but it's just this misalignment between what we're trying to do and what we're trying to achieve.
+
+**Manaswini Rao:** Doing that, that misalignment has been there from day one, is why we're repeating over and over and over again about, okay, we've looked at GSC data, but that's very superficial data.
+
+**Manaswini Rao:** You need to understand what users are doing on the website once they come in, right?
+
+**Manaswini Rao:** You see the whole conversion funnel, even when Alisa had shared some conversion data all the way down to trials with Jacob, I think he should have that data as well.
+
+**Manaswini Rao:** So once you see the funnel and once you dive a little deeper into the data is when I would be very much comfortable on buying into a hypothesis that this is what we're seeing.
+
+**Manaswini Rao:** And this is why we want to do XYZ.
+
+**Manaswini Rao:** Now, for example, this, you know, clustering by clean is something I absolutely live by.
+
+**Manaswini Rao:** This is how I would do things in my ideal world too.
+
+**Manaswini Rao:** And I love that you also, you know, put in keywords over here with volumes.
+
+**Manaswini Rao:** Now, this gives me a complete picture of what your, you know, your approach is and what your execution is going to be.
+
+**Manaswini Rao:** And what kind of performance outcomes I can expect from these articles.
+
+**Manaswini Rao:** need all three elements in a plan.
+
+**Manaswini Rao:** What you are proposing currently is widely different from what we've been doing so far and the progress that we've made with growthx.
+
+**Manaswini Rao:** Is why we wanted to reconsider and understand if the scope is realistic, is it something we can pull off?
+
+**Manaswini Rao:** And again, like Mofo Bofo articles were very much a part of the contract when growthx started.
+
+**Manaswini Rao:** But they were, we took them off your plates because there was no product alignment, there is no audience alignment.
+
+**Manaswini Rao:** And if you actually dig into a bunch of content pieces that growthx has produced so far, you will see that a lot of these are very, very dry informational pieces.
+
+**Manaswini Rao:** They're actually just serving information as opposed to selling a narrative or telling a story or proposing a value.
+
+**Manaswini Rao:** A perspective, none of those, they're serving information.
+
+**Manaswini Rao:** That's a big gap, right?
+
+**Manaswini Rao:** And if we have.
+
+**Manaswini Rao:** I'm going to write about six paragraphs on every article and hope to God that they're going to do something really good for us.
+
+**Manaswini Rao:** Wishful thinking, right?
+
+**Manaswini Rao:** We all know that.
+
+**Manaswini Rao:** And that's what we want to avoid.
+
+**Manaswini Rao:** So when we repeatedly ask, what do we want to do with refreshments?
+
+**Manaswini Rao:** It's just to understand, okay, have we realized that we have like really big problems even with that tofu bit that we're dealing with, right?
+
+**Manaswini Rao:** Let's fix that and then dive deeper into in-market keywords and Mopu and Bopu.
+
+**Manaswini Rao:** That's something we want you to take up.
+
+**Manaswini Rao:** We want you to be product experts.
+
+**Manaswini Rao:** We want you to be able to, you know, do more with us and we would love to do the same.
+
+**Manaswini Rao:** But yes, that bit that we're struggling with right now, tofu bit, is something we will need to fix, not just in terms of how we're approaching it, but all the way down to execution and content quality.
+
+**Manaswini Rao:** There are issues at every stage.
+
+**Manaswini Rao:** I think we've brought these up over and over again.
+
+**Manaswini Rao:** Jacob, David, and Shionda too.
+
+**Manaswini Rao:** So if you don't have a download on these items, I think we can put something together for you, right?
+
+**Manaswini Rao:** Oh, no, no.
+
+**Darrell Etherington:** We have a fairly comprehensive picture for them.
+
+**Darrell Etherington:** And part of that is definitely product improvement on our side.
+
+**Darrell Etherington:** So that should start to show in the quality.
+
+**Darrell Etherington:** And also, I think not a terrific alignment in terms of product and market understanding.
+
+**Darrell Etherington:** Maybe prior team to current team, but yes, that all heard.
+
+**Darrell Etherington:** And we are definitely fixing that.
+
+**Darrell Etherington:** This is more like, and also, right?
+
+**Darrell Etherington:** But we're not talking yet about change in the contract scope or anything, right?
+
+**Darrell Etherington:** We're just hoping to make the most of what we can do for you.
+
+**Darrell Etherington:** No, I understand that.
+
+**Manaswini Rao:** Completely understand that.
+
+**Manaswini Rao:** appreciate the effort that you put into these new documents also.
+
+**Manaswini Rao:** It's really short, the effort shows.
+
+**Manaswini Rao:** I think I do really like how you've gone about the themes and everything, but a little bit of retro on what's been going on so far and what you as a new team would like to take away from that content, your fresh set of eyes.
+
+**Manaswini Rao:** What have we done so far?
+
+**Manaswini Rao:** What's going wrong with it?
+
+**Manaswini Rao:** Why haven't they worked?
+
+**Manaswini Rao:** And what exactly do we want to fix?
+
+**Manaswini Rao:** We want to figure this out before we jump into newer territories and make things more difficult for ourselves, right?
+
+**Manaswini Rao:** If that makes sense.
+
+**Manaswini Rao:** We're just trying to take it one step at time.
+
+**Manaswini Rao:** Yeah, heard on that front.
+
+**Darrell Etherington:** And I think, yeah, Ehtisham alluded to some of it.
+
+**Darrell Etherington:** Like some of the stuff that we know already is like the stuff that's ranking is obviously high value to the audience, but not tied to your product at all.
+
+**Darrell Etherington:** So it's, that's like the easy, quick answer of like a lot of the performance problems and the data will bear that out, but yeah, but yeah.
+
+**Darrell Etherington:** And then we have also, I wanted to ask you about just the, like the retouching, because the other thing that we've discovered is like, and you know as well, like the culling thing, just that there's a keyword volume or people just don't know, even professional photographers don't necessarily refer to it as culling when they're doing it, right?
+
+**Darrell Etherington:** And then, but you do have your retouching software, so there's low-hanging fruit opportunity there in terms of the tofu stuff as well, but yes, we can definitely concentrate our efforts there, do a proper retro, get you all the stuff heard loud and clear in terms of what you want specifically as a starting point, and then we can, in parallel, show and have these things for you to see for longer-term strategy that you can assess or use however you want.
+
+**Manaswini Rao:** Yeah, and just to make things, you know, similar, right, Meenakshi, our SEO lead, she has also been working on a bunch of keyword research, just to
+
+**Manaswini Rao:** There's that problem that you pointed out today.
+
+**Manaswini Rao:** A lot of these keywords are not relevant to the product directly.
+
+**Manaswini Rao:** What are we doing with them?
+
+**Manaswini Rao:** What are we going to do with this traffic?
+
+**Manaswini Rao:** That's a problem.
+
+**Manaswini Rao:** That's something she wants to simplify for you at this point.
+
+**Manaswini Rao:** Her keyword research is going to give us enough action items to work on.
+
+**Manaswini Rao:** So we try and get the production numbers up and incorporate the feedback that we've had on content quality so far and get that up.
+
+**Manaswini Rao:** And like you said, tofu, the traditional sense we understand tofu in, it's dead.
+
+**Manaswini Rao:** It doesn't work anymore.
+
+**Manaswini Rao:** It's worthless, right?
+
+**Manaswini Rao:** So how do we bring that?
+
+**Manaswini Rao:** Now, every piece of content doesn't have to be talking about the product, but it should definitely align to the audience that you're speaking to.
+
+**Manaswini Rao:** How do you do that?
+
+**Manaswini Rao:** Is it just enough to just dump information about a product?
+
+**Manaswini Rao:** Or is there a way that, is there a core value, is there a positioning that you're going after?
+
+**Manaswini Rao:** And that's the language you're speaking with every piece of content that you produce.
+
+**Manaswini Rao:** That is another difference, right?
+
+**Manaswini Rao:** that's what gives you, you know, natural ways to understand, okay, this class shows value.
+
+**Manaswini Rao:** This is how it translates to photographers is probably the way I should be talking about it.
+
+**Manaswini Rao:** This is an exercise that's going to need, in simple terms, interlinking and CTAs and multimedia.
+
+**Manaswini Rao:** These things, engagement, critical for that, this is not going to happen.
+
+**Manaswini Rao:** People are not going to stick and it's not going to work for us, right?
+
+**Manaswini Rao:** So I think like we can start with these improvements.
+
+**Manaswini Rao:** Meenakshi will help us out with the keyword research a bit.
+
+**Manaswini Rao:** So you guys can focus a little more on how do we take search after that?
+
+**Manaswini Rao:** How do we get this piece to be really valuable?
+
+**Manaswini Rao:** How do we improve content quality?
+
+**Manaswini Rao:** And at this time, you'll also be able to spend some time on, you know, product market alignment, which will also help greatly going forward, right?
+
+**Manaswini Rao:** Yeah, that sounds great.
+
+**Manaswini Rao:** I think that's when we can come up with much stronger hypotheses and a new initiatives.
+
+**Manaswini Rao:** That sounds great.
+
+**Darrell Etherington:** And yes, it would be very helpful to collaborate on the keyword research.
+
+**Darrell Etherington:** And I think we can help a lot with that.
+
+**Darrell Etherington:** That also is a challenge I'm familiar with, like essentially taking a very specific, hyper-specific, possibly complex or arcane topic and trying to make it accessible to a broader audience that is still intent aligned.
+
+**Darrell Etherington:** So yes, absolutely an area for us to explore together.
+
+**Manaswini Rao:** We've been a bit long, but productive.
+
+**Darrell Etherington:** And then Fathom, you have other stuff to share, but we probably share async.
+
+**Darrell Etherington:** And then we have the artifacts too we shared, but just we are undergoing like a process of refreshing and improving and enriching those.
+
+**Darrell Etherington:** And this is actually a very helpful input to that.
+
+**Darrell Etherington:** So yeah, don't worry about if you haven't reviewed them yet because they are yet.
+
+**Manaswini Rao:** All right.
+
+**Manaswini Rao:** Sounds good.
+
+**Manaswini Rao:** We'll wait for what you come back with.
+
+**Manaswini Rao:** Do share any assets and research that you have done so far with us.
+
+**Manaswini Rao:** So if not the same, I'm sure there's something to learn for all of us and we can contextualize it to what's relevant to us right now.
+
+**Manaswini Rao:** Please do share.
+
+**Manaswini Rao:** Anything else that you need our attention to right now?
+
+**Ehtisham Hussain:** Yeah, we have five outlines to get your feedback on.
+
+**Ehtisham Hussain:** So if you can give us the go ahead, we can start production on board.
+
+**Ehtisham Hussain:** Can you show us which are the ones?
+
+**Manaswini Rao:** We were not really happy with the outlines you shared. I don't know if you've reviewed them or if it was the previous team, but they still have the problems we discussed. If you give it a look and share it now, we can review them together and you'll see what the problems are.
+
+**Ehtisham Hussain:** So we have outlines from the previous team. Yeah, that's what I was saying.
+
+**Manaswini Rao:** Did you guys have a look at it? These were the problems we wanted you to address.
+
+**Manaswini Rao:** And if you're sharing the same outline with us, it doesn't make sense. We didn't want to work on those.
+
+**Ehtisham Hussain:** I keep forgetting that my screen is not on. So these are the five outlines I have, from row 32 onwards.
+
+**Manaswini Rao:** It's been a long time since we looked at this.
+
+**Manaswini Rao:** We're still seeing your doc file, by the way.
+
+**Manaswini Rao:** The ICPs and templates you've shared and the way we'll be going ahead—this is not how it's aligned.
+
+**Ehtisham Hussain:** So, are you guys okay with the documents that we shared, the artifacts, especially with the personas?
+
+**Manaswini Rao:** Yeah, those were, yeah, it was, yeah, like, I had a look at it.
+
+**Manaswini Rao:** The other team members still need to look at it in a much better way, but they might come up with more insights.
+
+**Manaswini Rao:** But otherwise, the approach that you are taking and what we're expecting, I think we are getting aligned here.
+
+**Manaswini Rao:** And that's something what we'll be looking forward from you.
+
+**Manaswini Rao:** So, it's just, I think we might need it to be a more structured way for the template.
+
+**Manaswini Rao:** That you've shared, which I think Manaswini will share with you later on, like how we would, the way we would like the outlines to look like, but otherwise, I think we are in the right direction, and that's what we are expecting from you.
+
+**Ehtisham Hussain:** So I'm getting some mixed signals here. Are the outlines good?
+
+**Manaswini Rao:** The ICP and template you shared—the outline showing how you'll be moving forward—I think we're aligned on that approach. But the specific outlines on rows 32 to 36, those are the old ones. We're not really happy with those.
+
+**Ehtisham Hussain:** I'll look into the flag comments in the past documents. If you share a template, we can adopt it easily. The data and analysis you've asked for—we won't wait until next week. We'll be in communication throughout the next few days.
+
+**Manaswini Rao:** Looking forward to that.
+
+**Ehtisham Hussain:** All right.
+
+**Ehtisham Hussain:** Okay.
+
+**Ehtisham Hussain:** That was a highly productive discussion. I've taken a lot of action items, so I have enough work for the next 10 days. I'll be in touch throughout the day.
+
+**Manaswini Rao:** It was lovely talking to you today. Nice to meet you guys.
+
+**Ehtisham Hussain:** Have a nice day.
+
+**Ehtisham Hussain:** Bye.
+
+**Ehtisham Hussain:** Bye. Thank you.

@@ -1,0 +1,1235 @@
+# Understory Weekly Sync
+
+<metadata>
+date: 2025-08-28
+time: 15:15 UTC
+duration: 40 minutes
+organizer: team@growthxlabs.com
+participants: Aida Knezevic (GrowthX), Sydney Arin Go (GrowthX), Ali Yildirim (Understory), Alexander Fine (Understory)
+fathom_recording_id: 83585477
+fathom_url: https://fathom.video/calls/392419630
+share_url: https://fathom.video/share/RsuNjmZZGbhRx4TJTyy9ae7S-tnJroZ5
+source: fathom
+enriched_on: 2026-03-03 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Understory aligned on content strategy and blog launch timeline, with Aida presenting the three-phase content pipeline and Sydney covering the strategic framework. The team approved a four-pillar content strategy focused on B2B SaaS growth, channel execution, buyer journeys, and thought leadership—designed to differentiate from competitors like ColdIQ by balancing SEO with authentic, voice-driven content. First blog post will go live in 2-3 weeks once WordPress CMS access is set up, ramping to 3-5 posts per week, with attribution tracked via Looker dashboard (GSC + GA4) and Scrunch for LLM visibility.
+
+---
+
+## Context
+
+Understory is a B2B SaaS growth agency focused on integrated growth strategy, combining channel execution, go-to-market engineering, and RevOps. Ali Yildirim (Founder) and Alexander Fine (partner leading marketing and go-to-market) are launching a content marketing play to establish Understory as a thought leader and drive brand visibility and inbound leads. This is Understory's first engagement with GrowthX for content strategy and blog development—a strategic pivot toward content-driven growth after building primarily through direct sales and LinkedIn.
+
+GrowthX is serving as Understory's content partner under an 8-week engagement, with Aida Knezevic (Senior Managing Editor) leading strategy and operations, and Sydney Arin Go handling content creation and back-end execution. The team briefed Understory on GrowthX's content delivery framework (artifacts, Atlas workspace, content generation pipeline) and walked them through audience personas, competitive research (analyzing ColdIQ's SEO-heavy blog), and the phased content creation process. Understory's WordPress site needs blog functionality added; GrowthX gained admin access during the call to begin setup.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** Four-pillar content strategy (B2B SaaS growth, channel execution, buyer journey, thought leadership) will drive internal learnings on vertical differentiation. Understory's emphasis on voice-driven, non-generic content mirrors GrowthX's approach—real expertise vs. SEO automation. Atlas workspace and content pipeline are production-ready; weekly syncs will validate process efficiency and scalability for future SaaS clients.
+
+- **To CheckThat:** Understory explicitly discussed LLM visibility tracking via Scrunch and wants to understand how AI systems consume their content. Aida noted the importance of artifact length for LLM comprehension and running experiments internally—valuable signals for CheckThat prompting and visibility optimization. Early alignment on Scrunch integration for AEO tracking.
+
+- **To GrowthX Business Development:** New engagement with Understory signals market demand for thought leadership + SEO blend from mid-market SaaS. Ali and Alex are buyers for their own growth—they'll become internal references if successful. First blog live in 2-3 weeks; ramp to 3-5/week creates accountability and measurable impact. Understory's competitive positioning against ColdIQ suggests there's appetite for better-written SaaS content in this vertical.
+
+---
+
+## Overview
+
+- Content strategy focuses on establishing Understory as an authority in integrated growth, balancing SEO with thought leadership
+- Understory needs CMS access set up; team will help implement blog functionality on WordPress
+- Attribution will be tracked via Looker dashboard (GSC + GA4) and Scrunch for LLM visibility
+- Goal: First piece of content live in 2-3 weeks, ramping up to 3-5 posts per week
+
+---
+
+## Key Topics
+
+### Content Strategy Overview
+
+  - Four main pillars: B2B SaaS growth strategy, channel execution, SaaS buyer journey, and thought leadership
+  - Aim to differentiate from competitors (e.g. ColdIQ) by balancing SEO with authoritative content
+  - Focus on "all-bound" approach, integrating various channels (paid media, go-to-market engineering, RevOps)
+  - Incorporate Understory's unique voice and expertise through deep dives and leadership team input
+
+### Website and CMS Setup
+
+  - Current WordPress site needs blog functionality added
+  - GrowthX team given admin access to implement necessary changes
+  - Considering future website redesign, but focusing on immediate blog setup for content publishing
+
+### Content Creation Process
+
+  - GrowthX to provide content calendar with blog ideas for approval next week
+  - Will generate sample blog post for review to align voice and tone
+  - Exploring options for featured images/illustrations that align with Understory's brand
+
+### Attribution and Analytics
+
+  - Implementing Looker dashboard with GSC and GA4 data
+  - Setting up Scrunch for LLM visibility tracking
+  - Need to establish conversion event tracking for Calendly bookings in GA4
+
+### Collaboration and Communication
+
+  - Weekly syncs to review progress and address questions
+  - Slack channel for ongoing communication and asset sharing
+  - Understory team to provide brand assets and sales call insights for content creation
+
+---
+
+## Action Items
+
+**Aida Knezevic (GrowthX)**
+- Share content strategy document in Slack for Understory team to review in detail
+
+**Sydney Arin Go (GrowthX)**
+- Sync with Katya (designer) next week to generate sample featured image/illustration options based on Understory's brand assets
+
+**Alexander Fine (Understory)**
+- Review content strategy doc and provide feedback
+- Coordinate with Steph (internal designer) to get Figma file or brand assets (fonts, colors) for GrowthX design team
+- Discuss with Parker about building repository system to auto-collect common questions from sales calls for Scrunch integration
+
+**Ali Yildirim (Understory)**
+- Review content strategy doc and provide feedback
+- Verify growth@growthx.ai email has WordPress admin access to Understory site
+- Investigate setting up GA4 conversion event for Calendly link clicks as the primary website conversion signal
+
+---
+
+## Transcript
+**Aida Knezevic:** This meeting is being recorded.
+
+**Aida Knezevic:** Hi.
+
+**Sydney Arin Go:** Hey, how's it going?
+
+**Aida Knezevic:** Good, how are you?
+
+**Sydney Arin Go:** Doing good, tired.
+
+**Sydney Arin Go:** But, you know, still having fun.
+
+**Sydney Arin Go:** Did you check out?
+
+**Sydney Arin Go:** Sorry?
+
+**Aida Knezevic:** Yeah, I, um, I felt a little under the weather this morning, and then.
+
+**Sydney Arin Go:** Oh, no.
+
+**Aida Knezevic:** Yeah, I have some chili peppers on my balcony, like, little ones, and I made a burrito with a lot of, like, chili peppers.
+
+**Sydney Arin Go:** They're, like, full of vitamin C, so I feel a little bit better after eating them.
+
+**Sydney Arin Go:** Do you have the small, tight chili ones?
+
+**Aida Knezevic:** I don't know.
+
+**Aida Knezevic:** If, like, I have, my boyfriend's mom gave me the plant.
+
+**Aida Knezevic:** It's, like, I have, I don't think she even knows, like, what kind they are.
+
+**Aida Knezevic:** They're pretty spicy, though.
+
+**Sydney Arin Go:** Good!
+
+**Sydney Arin Go:** Yeah, back home, we had a chili plant, and I'm not sure if you know calamansi, like a little lime.
+
+**Sydney Arin Go:** We usually combine those two, sour and spicy, you know.
+
+**Aida Knezevic:** Oh, okay, nice, nice.
+
+**Aida Knezevic:** Hi.
+
+**Ali Yildirim:** Hey, everyone.
+
+**Aida Knezevic:** Hey.
+
+**Alex Fine:** Zoom, we use Google Meet for like everything.
+
+**Alex Fine:** Zoom, I join, my camera's all messed up, my audio's muted right out of the gate.
+
+**Alex Fine:** It's like I always do dumb stuff on Zoom.
+
+**Alex Fine:** But good to see you guys.
+
+**Aida Knezevic:** Yeah, I'm also a Google Meet person, but someone like the person that's setting up these calls, they automatically sent them to Zoom, and I can't do anything about it.
+
+**Alex Fine:** We can work with Zoom.
+
+**Aida Knezevic:** It's no problem.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** So it's nice to meet you guys.
+
+**Aida Knezevic:** I realized that we did not meet last week at your kickoff call.
+
+**Aida Knezevic:** We like to keep them small, at least on our side, so that we don't spend a lot of time on intros.
+
+**Aida Knezevic:** But my name's Ada.
+
+**Aida Knezevic:** I'm a senior managing editor at Growth.
+
+**Aida Knezevic:** And what I do is I, myself and the team, we help set you up with a content strategy, we create like a workspace in Atlas for you, and we are kind of your main people of contact during this first phase.
+
+**Aida Knezevic:** So the first eight weeks, we're going to be developing your content strategy, generating your content, delivering it to you, making sure that like the edits are incorporated back into the artifact.
+
+**Aida Knezevic:** So we're just going to be seeing a lot of each other over the next couple of weeks.
+
+**Sydney Arin Go:** Yeah, Sydney, want to do a quick intro as well?
+
+**Sydney Arin Go:** Yeah, it's really nice to meet you.
+
+**Sydney Arin Go:** I watched your kickoff call, and it sounds like we're building very interesting stuff.
+
+**Sydney Arin Go:** I'm very excited to work with you.
+
+**Sydney Arin Go:** I'll be mostly in charge of the content creation and strategy on the back end.
+
+**Sydney Arin Go:** So you'll be hearing from me in Slack a lot, but Aida will lead these calls on a daily basis, on a weekly basis.
+
+**Alex Fine:** Sounds good.
+
+**Aida Knezevic:** All right, perfect.
+
+**Aida Knezevic:** So, I already shared the artifacts in Slack, and I know you left a little bit of, like, some comments, but I wanted to get your thoughts on, like, just overall what you think about them, if you think they're accurate, like, especially regarding audience personas.
+
+**Alex Fine:** Ali, you're going to have more context.
+
+**Alex Fine:** Honestly, I didn't have a chance to go through them.
+
+**Ali Yildirim:** No, I think it was great.
+
+**Ali Yildirim:** I really liked the three segments you had for the persona.
+
+**Ali Yildirim:** I think it was, like, the head of demand gen, like, the founder persona, and more of, like, the senior VP of marketing type.
+
+**Ali Yildirim:** So, I think all that was pretty accurate.
+
+**Ali Yildirim:** I would say maybe I didn't see this or missing a little bit, but I think there is kind of, like, more of a sales, CRO type of persona a little bit that happens more on the GTM engineering side.
+
+**Ali Yildirim:** That wasn't really detailed in that, but I think for the most part, it's all there.
+
+**Ali Yildirim:** And Alex, when I'm talking about that CRO persona, I'm thinking, like, David Hewson for Remo, somebody who's more involved.
+
+**Ali Yildirim:** All through the sales process as opposed to strictly marketing.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Okay.
+
+**Ali Yildirim:** Got it.
+
+**Ali Yildirim:** Yeah.
+
+**Aida Knezevic:** Yeah, we can definitely fold that in.
+
+**Aida Knezevic:** I think, like, the artifacts, we try to keep them short but kind of impactful.
+
+**Aida Knezevic:** The longer they are, the LLMs kind of tend to ignore them.
+
+**Aida Knezevic:** So we're also, like, running a lot of experiments internally to understand, like, what the ideal length of an artifact is.
+
+**Aida Knezevic:** So if in the next couple of weeks, you know, we might also experiment with length and get back to you on, like, what we think the ideal output is because it's very, like, it's very much like a work in progress and we're always, like, testing to see what works best with the workflows that we have.
+
+**Aida Knezevic:** I think I wanted to show you before Sydney dives into the strategy that she's been working on this week, I wanted to show you Atlas just so you have an idea of where these artifacts are.
+
+**Aida Knezevic:** We're going to live and how we use them.
+
+**Aida Knezevic:** So this is your workspace.
+
+**Aida Knezevic:** It looks very rudimentary right now.
+
+**Aida Knezevic:** This is a platform that was built by our dev team a few months ago.
+
+**Aida Knezevic:** was like two months ago or three months ago.
+
+**Aida Knezevic:** So the artifacts live right here.
+
+**Aida Knezevic:** And the three basic ones are the ones everybody starts with.
+
+**Aida Knezevic:** I have four more, for like clients that require more customization, we can add additional artifacts.
+
+**Aida Knezevic:** For example, like some clients are very strict about how we talk about their product.
+
+**Aida Knezevic:** If it's like a medical product, like we have to steer clear of specific terminology.
+
+**Aida Knezevic:** So we might have a specific artifact just for that.
+
+**Aida Knezevic:** Or we might have like multiple sets of writing guidelines for different personas.
+
+**Aida Knezevic:** But this is recommended when you're talking to like completely like different groups of people.
+
+**Aida Knezevic:** So like you're...
+
+**Aida Knezevic:** Talking to maybe like small business owners and then you're talking to accountants.
+
+**Aida Knezevic:** Like the tone kind of has to be different in those cases.
+
+**Aida Knezevic:** Most of the time we do use like one set of writing guidelines.
+
+**Alex Fine:** But it can be like customized depending on like the use case and the strategy.
+
+**Alex Fine:** Out of curiosity, do you have the blog for KoldiQup because you know we want to compete with them?
+
+**Aida Knezevic:** Yeah, I do.
+
+**Alex Fine:** Okay, nice.
+
+**Aida Knezevic:** Yeah, took a look at their blog today and this is very like, this is pure SEO.
+
+**Aida Knezevic:** This is just, yeah.
+
+**Alex Fine:** But yeah, I mean, these are all posted on August 6th.
+
+**Alex Fine:** It's kind of crazy.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Yeah, I mean, I, yeah, there's some that are like, okay.
+
+**Aida Knezevic:** Yeah, I kind of took a quick look today and it was very.
+
+**Alex Fine:** To be clear, they're not actually writing these, right?
+
+**Alex Fine:** Like it says Michelle Lieben, but Michelle didn't actually write those.
+
+**Aida Knezevic:** They just put an editor on there.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** I don't think they are.
+
+**Aida Knezevic:** Like, I read, I skimmed this one, and there are things, like, it does sound a little bit human, but there's things that human writers do well.
+
+**Aida Knezevic:** So, like, for example, Bluff, like, they're not using, like, bottom line up front in a lot of these, so they're missing, like, a lot of, like, oh, they're missing, like, a lot of, like, the writing best practices that human writers actually do.
+
+**Alex Fine:** Okay.
+
+**Alex Fine:** Any of you guys solve for that?
+
+**Aida Knezevic:** Yeah, yeah, we do.
+
+**Aida Knezevic:** So, the writing guidelines, let me show you really quickly.
+
+**Alex Fine:** And I don't mean to derail the meeting, and I have a tendency to do that, so let me know.
+
+**Aida Knezevic:** All good, all good.
+
+**Aida Knezevic:** Yeah, we have, like, a section here that's just for Bluff, so, like, leading with the key in the first paragraph, because most people skim, so that's why we did that.
+
+**Alex Fine:** Yeah, but.
+
+**Alex Fine:** Well, I appreciate that you're looking into the CodeIQ stuff, because they really are, like, at this point, I would say our biggest competitor.
+
+**Aida Knezevic:** Mm-hmm.
+
+**Aida Knezevic:** Yeah, yeah, yeah, totally.
+
+**Aida Knezevic:** Totally.
+
+**Aida Knezevic:** I think we can get into this once Sydney presents the strategy, because I know that she took them into consideration when she was building it out.
+
+**Aida Knezevic:** So yeah, these are the artifacts, the pipeline.
+
+**Aida Knezevic:** So we have one pipeline to generate the assignments, and it's pretty simple.
+
+**Aida Knezevic:** We upload a list of keywords that we find, and it analyzes, it uses a SEMrush API to gather information about the search results, the search intent, then it generates assignment briefs, titles, so it just speeds up that process.
+
+**Aida Knezevic:** So it's not terribly interesting to you, but it saves us a lot of time.
+
+**Aida Knezevic:** The article generation process, I ran this one just as a test.
+
+**Aida Knezevic:** It was just like a random idea that came to mind.
+
+**Aida Knezevic:** So it starts with a keyword, and then the first step is to create an SEO brief, which kind of identifies the target audience.
+
+**Aida Knezevic:** Right now, this could be like completely wrong, because I haven't uploaded the artifacts yet.
+
+**Aida Knezevic:** So it's just like making stuff up like this.
+
+**Aida Knezevic:** It's, you know, it's freestyling it.
+
+**Aida Knezevic:** But it does, like, generate a meta description right off the bat, and it pulls data from SEMrush in terms of, like, what the target keyword is.
+
+**Alex Fine:** And it also, like, identifies other keyword opportunities, which is helpful.
+
+**Alex Fine:** Can ask you something?
+
+**Alex Fine:** So, like, obviously, Ali and I, our brains are going to have the best information here for what's actually going to want to go into this stuff.
+
+**Alex Fine:** If there's ever, like, a situation where it's helpful for us to just basically dictate to a Claude project or something like that that you guys can use, we're more than happy to do it.
+
+**Alex Fine:** Just let us know exactly what you need.
+
+**Alex Fine:** But Ali and I's brain, like, it's hard for us to put everything down on paper that is going on, but we're more than happy to speak into it.
+
+**Alex Fine:** And just, like, we dictate a lot of stuff.
+
+**Alex Fine:** So if that's helpful, just let us know because we want this to sound like us so when people get on a call with us, it feels familiar, you know?
+
+**Aida Knezevic:** Okay, okay, yeah, yeah, that is one thing that I actually wanted to discuss, which is, like, adding your...
+
+**Alex Fine:** point of view to the content, because a lot of this content I've done, like, marketing-related, I've written marketing-related content before, and most of it is very generic.
+
+**Alex Fine:** Yeah, we don't want to sound generic, we want to sound unique, for sure.
+
+**Aida Knezevic:** Yeah, yeah, yeah, that makes sense.
+
+**Aida Knezevic:** And a lot of that, like, we can add it here in the brief, for example, so we edit this a lot, like, anything, like, we will, we usually, like, change the outline completely, rewrite it, like, we can add your quotes in here, here, we can add, like, a transcript from, you know, if you record yours, if you dictate into, like, ChatGPT and just copy and send us, like, the transcript, we can add it here as well.
+
+**Aida Knezevic:** Research is kind of very automated, we don't, like, we don't control this step, but it feeds into the outline, and this is a step that we also review and make edits to the outline as well.
+
+**Aida Knezevic:** So, typically, we spend a lot of time on the outline, because the more time you spend here, the
+
+**Aida Knezevic:** The last time you spend on the article draft, and at the article draft stage, this is when the writing guidelines get applied.
+
+**Aida Knezevic:** So they don't really have any sort of influence before this step.
+
+**Aida Knezevic:** This is where we usually do like a ton of editing right after the fact-checking step.
+
+**Aida Knezevic:** And then the final step is to generate internal links.
+
+**Aida Knezevic:** This is especially helpful for like really large websites.
+
+**Aida Knezevic:** So like adding links to other content, like product pages and things like that.
+
+**Aida Knezevic:** But we also always check the internal links and add them manually as well.
+
+**Aida Knezevic:** So this is kind of what the process looks like.
+
+**Aida Knezevic:** Obviously, like the two artifacts, like the audience personas and the company context, they're approved.
+
+**Aida Knezevic:** They're applied at the beginning of this process.
+
+**Aida Knezevic:** And then the writing guidelines are in the middle of the process.
+
+**Aida Knezevic:** So, yeah, there's a lot of like, we can customize this and inject like your own like opinions, and how you like positioning into.
+
+**Aida Knezevic:** Like
+
+**Aida Knezevic:** The outlines pretty easily, but I think that's something that we will talk about in more detail when we actually present assignments to you, because I'm sure you have a lot of thoughts on a lot of things.
+
+**Alex Fine:** So it helps to keep things focused.
+
+**Alex Fine:** It's just, you know, we don't want to waste your time.
+
+**Alex Fine:** Sounds good.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** Okay, perfect.
+
+**Aida Knezevic:** Sydney, did you want to go over the content strategy you developed?
+
+**Sydney Arin Go:** I can stop sharing my screen.
+
+**Sydney Arin Go:** Oh, yeah.
+
+**Sydney Arin Go:** Sorry, I, for some reason, I thought you were just going to continue sharing your screen, so I actually don't have it up.
+
+**Aida Knezevic:** Give me five seconds.
+
+**Sydney Arin Go:** Oh, yeah, sure.
+
+**Sydney Arin Go:** No, it's here.
+
+**Sydney Arin Go:** Okay, so this is the, so my laptop's been really weird recently.
+
+**Sydney Arin Go:** It's been lagging, so if my screen lags at any given time, please let me know.
+
+**Sydney Arin Go:** So this is the content strategy that we developed.
+
+**Sydney Arin Go:** It focuses a lot on making sure that understanding.
+
+**Sydney Arin Go:** It becomes an authority in this space versus just like, so I looked at the Cold IQ blog, and a lot of it is very SEO focused, so top 10, blah, blah, best six, you know, things, you know, just those kinds of blogs that are good for gaining LLM traffic, because LLMs like to pull these listicles, but they don't exactly establish you as an authority.
+
+**Sydney Arin Go:** So a couple of things that I looked at when developing the strategy was the competitors.
+
+**Sydney Arin Go:** Refined Labs actually has a pretty good content strategy in that they're focusing more on thought leadership, and so what we want to do is kind of combine the two without sounding like AI, basically.
+
+**Sydney Arin Go:** And what you mentioned earlier about inserting your voice into it, we did want to do that, so we would like to schedule some deep dives with you so that we can pick your brain about certain articles, and we can turn those deep dives into broader pieces of content, so here.
+
+**Sydney Arin Go:** So the goals for the content that we're going to be creating is always to drive an inbound pipeline from SaaS.
+
+**Sydney Arin Go:** Growth leaders.
+
+**Sydney Arin Go:** But we also want to start with capturing high intent searches on SaaS markets.
+
+**Sydney Arin Go:** we've identified a couple of pillars that we want to go for.
+
+**Sydney Arin Go:** So the first would be B2B SaaS growth strategy.
+
+**Sydney Arin Go:** So really speaking to these leaders so we can capture top and middle funnel search intent.
+
+**Sydney Arin Go:** So we're targeting founders and CMOs looking for growth frameworks that they want to implement.
+
+**Sydney Arin Go:** And this is really where we can display understories, knowledge, and expertise.
+
+**Sydney Arin Go:** Some examples would be SaaS management benchmarks, CAC LTV, pipeline targets for 2025, know, things like that, that will show that understory knows what they're talking about and what they do.
+
+**Sydney Arin Go:** And then the next one would be channel execution.
+
+**Sydney Arin Go:** So this would demonstrate, again, tactical experience.
+
+**Sydney Arin Go:** So it's really focusing on displaying knowledge as much as possible while still hitting those SEO notes.
+
+**Sydney Arin Go:** And then so the SaaS buyer journey is another one that we want to start writing about.
+
+**Sydney Arin Go:** Competitive and vendor evaluation.
+
+**Sydney Arin Go:** This one is the pillar that would focus on targeting LLMs and SEO content.
+
+**Sydney Arin Go:** Though this one, we will, we'll try to make it.
+
+**Sydney Arin Go:** As the least robotic as possible.
+
+**Sydney Arin Go:** So, like, if you go through ColdIQ's blogs, you'll see a lot of signposts, like, questions, weird marketing jargon questions, like, is this something you want to do?
+
+**Sydney Arin Go:** Blah, blah, blah, things like that.
+
+**Sydney Arin Go:** Or, like, a lot of colons, em dashes.
+
+**Sydney Arin Go:** So you can, it doesn't speak to humans.
+
+**Sydney Arin Go:** You know it's written for AI by AI.
+
+**Sydney Arin Go:** And we don't want that.
+
+**Sydney Arin Go:** So this pillar will focus on targeting that content, but not in the same way that a lot of companies are currently doing it.
+
+**Sydney Arin Go:** And then the last one is, this one will be more forward-leading, thought-leadership-y type pieces that will show that understory is a leader in this space.
+
+**Sydney Arin Go:** So we want to establish understory as a forward-looking authority by owning trend-driven and benchmark content.
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** And then, so, for implementation of these, we are thinking of doing one to two pillars for the first quarter, and then another couple pillars, another two pillars for the second quarter, and then, like, start creating evergreen content after that.
+
+**Sydney Arin Go:** So really to capture top-of-funnel traffic and mid-funnel traffic first, build out the blog in that way, and then start.
+
+**Sydney Arin Go:** Focusing on bottom of funnel traffic after that.
+
+**Alex Fine:** I like it.
+
+**Aida Knezevic:** Nice.
+
+**Aida Knezevic:** I think we will share this doc in Slack as well, so you can actually read through it and leave comments.
+
+**Aida Knezevic:** We typically, like, this is a first draft, so we can change anything that you don't feel is right or that you don't want to go after at this point in time.
+
+**Alex Fine:** Yeah, I mean, the thing that jumps out to me immediately that I really like on the content examples is paid media agency versus integrated growth partner.
+
+**Alex Fine:** I think that is a perfect description for, like, how we differentiate ourselves.
+
+**Alex Fine:** Our moat against our competition is there are no paid media agencies out there that exist that also have expertise in go-to-market engineering, and there's no go-to-market engineering agencies that exist that actually have the same level of paid media expertise that we do.
+
+**Alex Fine:** The other thing that we're doing that I want to make sure that we're doing some sort
+
+**Alex Fine:** We're getting way more deep into RevOps, and we're looking to expand RevOps into, honestly, an equally, if not bigger, part of our business moving forward.
+
+**Alex Fine:** We think there's a ton of demand to capture there, and there's a ton of really bad RevOps agencies that we can just capitalize on.
+
+**Alex Fine:** So that's something we want to focus on, too.
+
+**Alex Fine:** The other thing that I would love to have content about, too, is cold calling.
+
+**Alex Fine:** So that's another service line that we're opening to, but cold calling is also going to be a bigger part of our strategy moving forward.
+
+**Alex Fine:** So all-bound is the term that we use, and honestly, we've become pretty well-known for it at this point.
+
+**Alex Fine:** So if we can use the term all-bound in our content as well, I think that's going to go a long way just in terms of brand consistency and our identity.
+
+**Alex Fine:** Ali, what do you think?
+
+**Ali Yildirim:** No, I totally agree.
+
+**Ali Yildirim:** And I think it's going to be a balance between really channel-specific knowledge.
+
+**Ali Yildirim:** And just like the overall strategy, because we need to show that we're experts in everything, but I just don't want it to be ever framed as we're just like focused on one thing.
+
+**Ali Yildirim:** Like you have like what is like a paid media agency versus like the integrated growth partner.
+
+**Ali Yildirim:** So, however, we can just really demonstrate that we know, you know, like the back of our hand, how all these channels work, but that they never exist in a silo.
+
+**Alex Fine:** It's like the biggest point that I want to get across.
+
+**Alex Fine:** Yep.
+
+**Alex Fine:** And something that you guys talk like the bluff, bottom line up front, like maybe we start each piece of content, something like, you know, understory is an all bound agency that specializes in scaling SaaS companies.
+
+**Alex Fine:** With that said, every channel has its own nuance, you know, something like that.
+
+**Alex Fine:** So like people understand, like we do it all and then we are integrated and we blend all these different things together.
+
+**Alex Fine:** But at the same time, we have deep expertise in each channel that we operate on as well.
+
+**Alex Fine:** So it's like maybe, I don't know, you guys know more about this stuff than I do, obviously, but like the bluff part, maybe it's like that's part of the bluff part.
+
+**Aida Knezevic:** Yeah, yeah, totally.
+
+**Aida Knezevic:** mean, we want to, like, because it's a lot of content that we'll be publishing, so it's an opportunity to educate, like, LLMs and readers about what you do.
+
+**Aida Knezevic:** So we do want to, like, make sure that we are kind of not repeating word for word, but, like, you know, emphasizing the same points throughout the content.
+
+**Alex Fine:** And at the same time, I do, if someone goes into ChadGBT and says, who are the best paid media practitioners in the world that I can follow, or something like that, we want, like, our leadership team to pop up.
+
+**Alex Fine:** We want to make sure of that.
+
+**Alex Fine:** But then also, if they say, like, who are the best go-to-market engineers in the world, or what agencies specialize best in go-to-market engineering, it's like, I also want us to pop up there.
+
+**Alex Fine:** So I hear you totally on the specific part as well.
+
+**Alex Fine:** But I guess maybe it's a different strategy for GEO and SEO, too.
+
+**Alex Fine:** And, you know, that's a part of this.
+
+**Alex Fine:** But for SEO, I want people to know that we're all bound, but we have deep channel.
+
+**Alex Fine:** Expertise.
+
+**Alex Fine:** But then on GEO, I want everyone to know that when they search for something, understory is going to be right at the top for everything or the most sort of sighted source.
+
+**Aida Knezevic:** Okay, got it.
+
+**Aida Knezevic:** To go back to cold calling, I've just from like using LinkedIn, I know that AI cold calling has been controversial.
+
+**Alex Fine:** It's not AI.
+
+**Aida Knezevic:** So we don't do AI cold calling.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** But how do you feel about covering a topic like that on the blog?
+
+**Aida Knezevic:** Like, obviously, we would cover it from your, like, use your opinion towards it.
+
+**Aida Knezevic:** But I think it would be helpful because I do remember there was a lot of, like, interest in terms of, like, search volume in these types of topics.
+
+**Alex Fine:** Hmm.
+
+**Alex Fine:** I like it.
+
+**Alex Fine:** I like it.
+
+**Alex Fine:** I feel like talking about controversial things always works well.
+
+**Alex Fine:** So, yeah, I like that.
+
+**Alex Fine:** Um, another thing I think to keep in mind with the cold calling piece is when talking about it, make sure that it.
+
+**Alex Fine:** Also loops in, it's not like direct cold calling, it's more so like very targeted, very specific, warm calling based on good market engineering workflows.
+
+**Alex Fine:** So it's like basically what we do is we build these really segmented and really targeted lists, pass those over to a cold caller to then take warm leads who we've already emailed or we've already reached out to on LinkedIn or we've already served ads to and then call them.
+
+**Alex Fine:** So it's like, it's a very tactical approach to cold calling versus just calling anybody that's within your ICP, if that makes sense.
+
+**Alex Fine:** So it makes like the content should be, I guess, around that, but also obviously cold calling, best practices, things like that, like all the things that are going to get searched for.
+
+**Aida Knezevic:** Yeah, yeah, sure.
+
+**Aida Knezevic:** I got it.
+
+**Aida Knezevic:** I also saw that you had like on your LinkedIn that you have some like podcasts.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Do you have like, is there a, I did some Googling, I couldn't find if there's like a web, was it on just on Spotify?
+
+**Alex Fine:** It's on Spotify and YouTube.
+
+**Alex Fine:** Okay.
+
+**Alex Fine:** I mean, it's also on.
+
+**Alex Fine:** All the social channels, we have clips on all the social channels, but they really don't have, I mean, honestly, I've never even looked at the Instagram or the TikTok or anything like that.
+
+**Alex Fine:** I don't know if they have any views or anything like that, but I would say most people.
+
+**Ali Yildirim:** those are just clips.
+
+**Ali Yildirim:** Like, the full podcast is only on Spotify and YouTube.
+
+**Ali Yildirim:** We don't have it on any sort of podcast.
+
+**Alex Fine:** And I would imagine most people are watching on YouTube versus Spotify, to be honest with you.
+
+**Aida Knezevic:** Okay, okay, that makes sense.
+
+**Aida Knezevic:** No, we can use them as well.
+
+**Aida Knezevic:** Like, we can dig in and see, like, if there are any unique.
+
+**Aida Knezevic:** Like, talking points that we can use for content as well.
+
+**Alex Fine:** Okay, and that, to be honest, like, that is, it's like a passion project for Ali and I, more than anything.
+
+**Alex Fine:** Like, it's really fun for us because we get to talk to really cool people and learn their stories.
+
+**Alex Fine:** And it's more of kind of like an entertaining way for people to get to know us versus, like, us talking about super valuable things that we do for our business.
+
+**Alex Fine:** It's more like entrepreneurship journeys and things like that.
+
+**Alex Fine:** It's more of like a, I would say, like...
+
+**Alex Fine:** An entertainment source from understory versus like best practices on building a business or like scaling your business or something like that.
+
+**Alex Fine:** Okay.
+
+**Alex Fine:** Okay.
+
+**Alex Fine:** Got it.
+
+**Alex Fine:** For now.
+
+**Alex Fine:** But another thing I want to bring back is like our internal team.
+
+**Alex Fine:** We did this a couple of times where we had like our whole leadership team on to actually talk about tactics that are working right now too.
+
+**Alex Fine:** So we will probably start doing that more and more again.
+
+**Alex Fine:** But as of right now, the majority of our content is just entrepreneurship journeys.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** That makes sense.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** I think, yeah, we have, so the next step from here is we'll do like some content research.
+
+**Aida Knezevic:** So we'll dig into keywords that align with this strategy.
+
+**Aida Knezevic:** And next week, we're going to show you a content OS, which is basically a content calendar in Airtable with assignments or blog ideas for your review.
+
+**Aida Knezevic:** And then you can take a look, you can approve a couple.
+
+**Aida Knezevic:** And then from there, we're going to generate.
+
+**Aida Knezevic:** A blog for you to review, just to like get the voice and tone right, and also like the level of research, like the level, like the depth of information that we present in the blog as well.
+
+**Alex Fine:** So that's what's going to happen in the next couple of days.
+
+**Alex Fine:** Sounds great.
+
+**Aida Knezevic:** All right, perfect.
+
+**Aida Knezevic:** So I wanted to talk to you about your CMS.
+
+**Aida Knezevic:** So I know you told me you don't have a traditional CMS, you're using WordPress, so I'm assuming you're using it as a headless setup.
+
+**Ali Yildirim:** To be honest, no real like knowledge about that.
+
+**Aida Knezevic:** It's kind of the elephant in the room.
+
+**Ali Yildirim:** Okay.
+
+**Ali Yildirim:** We are super open.
+
+**Ali Yildirim:** If you have like a vendor or anybody who you recommend, like we are willing to even just redo our whole website based on whatever best practices you guys recommend.
+
+**Ali Yildirim:** So really just looking for you guys to recommend what the best practices are.
+
+**Ali Yildirim:** I mean, we can get access to what you guys need.
+
+**Ali Yildirim:** It's not like we are totally locked out of those systems.
+
+**Ali Yildirim:** It's just our vendor that we worked with for the website wasn't.
+
+**Ali Yildirim:** Great, not happy with the website as a current state, and we really don't have anybody who's just, like, owning, like, uploading any content or anything to the website right now.
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** Okay, okay, so that would be, because the thing with us is that we are not just generating the content, we're also staging and publishing it.
+
+**Aida Knezevic:** So, like, we need access to the CMS to start things rolling.
+
+**Aida Knezevic:** I think if that's the case, if you, like, if you're not happy with the website, you want to, like, you're open to redoing it.
+
+**Alex Fine:** Um, I think, yeah, go ahead.
+
+**Alex Fine:** Real quick, so, yeah, when I was first talking to Jason about all of this, like, part of the initial two-month sprint, he said, was going to be, like, not necessarily building us a new website, but helping us and advising us on the new website, too, or getting our website fixed.
+
+**Alex Fine:** So, like, all the stuff that we're talking about was initially part of the plan as well.
+
+**Alex Fine:** Okay, it's, like, getting all this up and running, setting us up with the CMS, whatever we need, like, getting all of that.
+
+**Alex Fine:** Like, that part of it was part.
+
+**Alex Fine:** At least maybe Jason didn't tell you guys that, but like that's what we talked about.
+
+**Aida Knezevic:** Okay, yeah, thanks for the context.
+
+**Aida Knezevic:** I think what we can do is like we can, this is something that we've done with a different client, which was they had a framer, they were using framer as their CMS, and they didn't have a blog set up, kind of like you don't have a blog on your site right now.
+
+**Aida Knezevic:** So they gave us access, so we need our team email to be granted access to the CMS so we can have a developer go in and just set up the blog.
+
+**Alex Fine:** Okay.
+
+**Aida Knezevic:** And like that's a pretty, it shouldn't take too long, it's just like a matter of setting up like the blog, the hero page, and then like the information that's going to, like the template for the blog, that's it.
+
+**Aida Knezevic:** So we would, we can give you, I can give you the email right now.
+
+**Alex Fine:** Ali, do you know how to add that to WordPress?
+
+**Ali Yildirim:** I can figure it out.
+
+**Alex Fine:** I don't even think I know how to get into WordPress.
+
+**Aida Knezevic:** press.
+
+**Aida Knezevic:** To be honest with you.
+
+**Aida Knezevic:** Okay, okay, keep us posted.
+
+**Aida Knezevic:** I mean, we can help out with that.
+
+**Aida Knezevic:** We have a client.
+
+**Aida Knezevic:** They are a web development, web design agency called WebStacks.
+
+**Aida Knezevic:** But I do know that, like, it takes, like, a website, you know, migrating to a new CMS, like, designing everything.
+
+**Aida Knezevic:** It would take, like, a couple weeks, like, like a month, I think a month at least.
+
+**Aida Knezevic:** So I'm just thinking, like, in the short term, so we can actually start publishing something, it would be easier to just do it like this and then think about, like, a redesign.
+
+**Alex Fine:** Yeah.
+
+**Alex Fine:** Ali, to be honest with the redesign piece, I feel like maybe we just do some stuff with Ilya to get the stuff fixed, like, initially, like, what we want to do.
+
+**Alex Fine:** And then from there, like, you can get the blog stuff up and running.
+
+**Alex Fine:** And then all the new landing pages I'm creating, we can just migrate it over from there.
+
+**Alex Fine:** I mean, all we really need when you think about it is a good homepage.
+
+**Alex Fine:** Like, after we have that homepage built, the landing pages, the ones I'm building, 10.
+
+**Alex Fine:** I mean, they're not, like, incredible, but they're definitely closing deals for us, so.
+
+**Aida Knezevic:** Okay, okay, that makes sense.
+
+**Alex Fine:** I don't know, what do you think?
+
+**Alex Fine:** I just don't want to spend, like, 50K and then have another bad experience or something like that.
+
+**Ali Yildirim:** Yeah, I agree.
+
+**Alex Fine:** Yeah, it's just going to be really expensive.
+
+**Alex Fine:** I know.
+
+**Alex Fine:** And it's really expensive, and you never know what you're going to get.
+
+**Aida Knezevic:** Yeah, yeah, I feel you.
+
+**Aida Knezevic:** I think, yeah, let's do, like, a try to get access to the CMS with this email, and then we can just set up the blog.
+
+**Alex Fine:** I'm taking it from there.
+
+**Ali Yildirim:** Okay, I'm checking if I have access.
+
+**Alex Fine:** No, wait a second.
+
+**Alex Fine:** We don't even have access to our own website.
+
+**Alex Fine:** Where are you guys calling in from, by the way?
+
+**Aida Knezevic:** Where do you guys live?
+
+**Aida Knezevic:** I am based in Europe, so I live in Bosnia, which is a small country.
+
+**Alex Fine:** The Balkans.
+
+**Alex Fine:** We know Bosnia.
+
+**Aida Knezevic:** Yeah, you do.
+
+**Alex Fine:** Of course.
+
+**Ali Yildirim:** How?
+
+**Alex Fine:** It's a country.
+
+**Aida Knezevic:** Oh, okay.
+
+**Alex Fine:** I thought you made it.
+
+**Aida Knezevic:** Like, a lot of people are kind of like.
+
+**Alex Fine:** I think, Ali, have you been there?
+
+**Ali Yildirim:** No.
+
+**Ali Yildirim:** I've actually, yeah, not been to many places in the Balkans, I guess, at all.
+
+**Alex Fine:** Yeah.
+
+**Ali Yildirim:** It looks beautiful.
+
+**Alex Fine:** I've looked up a lot.
+
+**Ali Yildirim:** Chris on our team spent, like, a month in Bosnia, actually.
+
+**Alex Fine:** Oh, really?
+
+**Aida Knezevic:** Yeah.
+
+**Alex Fine:** Yeah, I've looked it up.
+
+**Alex Fine:** You guys have that, like, crazy viewpoint with the bridge, right?
+
+**Alex Fine:** And it's like, there's, like, some bridge with, like, in the mountains with the water below.
+
+**Aida Knezevic:** It looks gorgeous.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** And what's embarrassing is that I haven't been to half of those places.
+
+**Alex Fine:** Well, I feel like you're a real Bosnian, so if you're actually from Bosnia, you probably don't do the tourist stuff.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** It's embarrassing.
+
+**Aida Knezevic:** But, yeah, it's a nice place to visit if you like history.
+
+**Alex Fine:** And Sydney is in Vancouver.
+
+**Alex Fine:** Very cool.
+
+**Alex Fine:** cool.
+
+**Alex Fine:** Yeah.
+
+**Alex Fine:** It looks like a beautiful place.
+
+**Sydney Arin Go:** I haven't been.
+
+**Sydney Arin Go:** I live half the year in the Philippines, so when I go back in September, I'll be taking this call at what would be 11 p.m.
+
+**Alex Fine:** Wow, that's interesting.
+
+**Sydney Arin Go:** Why do you go back and forth?
+
+**Sydney Arin Go:** My family is from the Philippines.
+
+**Alex Fine:** Okay, so your home base is Vancouver, but you go spend half the year with your family in the Philippines?
+
+**Sydney Arin Go:** My partner's family is in Vancouver, and I'm from the Philippines.
+
+**Sydney Arin Go:** So we spend half the year here with his family, and then half the year over there with my family.
+
+**Alex Fine:** That's a good compromise.
+
+**Sydney Arin Go:** Yeah.
+
+**Alex Fine:** I mean, it keeps them happy.
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** Well, it's nice because as soon as it starts getting cold, we're out.
+
+**Alex Fine:** Yeah, in the Philippines, you don't have to worry about that.
+
+**Sydney Arin Go:** Sunny Manila.
+
+**Sydney Arin Go:** Yeah, there you go.
+
+**Alex Fine:** Awesome.
+
+**Alex Fine:** Well, actually, those sound like two pretty great places, so.
+
+**Aida Knezevic:** Yeah, yeah, pretty nice.
+
+**Aida Knezevic:** I think another thing, yeah, I wanted to talk to you about is that we also create.
+
+**Aida Knezevic:** create.
+
+**Aida Knezevic:** Like featured images, like hero images for the blogs.
+
+**Aida Knezevic:** And we have a designer on the team who can like put some examples for you to review.
+
+**Aida Knezevic:** But it would be helpful if you have like a Figma file or like some brand assets that you can share with us so that she has an idea of like just a starting point, like the fonts that you're using, the colors.
+
+**Alex Fine:** Does Steph have that, Ali?
+
+**Ali Yildirim:** Yeah, I mean, she created it for us.
+
+**Alex Fine:** Okay.
+
+**Aida Knezevic:** Steph is our internal designer.
+
+**Aida Knezevic:** I think so.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** That's helpful.
+
+**Aida Knezevic:** Yeah, I think we can like, we typically do, so we can do like AI generated like illustrations or graphics.
+
+**Aida Knezevic:** Then there are also like, but I'm not a fan of this option, which is like generating like human images, but they always.
+
+**Aida Knezevic:** Look a little weird, I don't really, I think it's better to just stick to like graphics and illustrations, and another thing that we've been able to do is like do the standard, which is kind of like what Cold IQ is doing, which is like just the text, and then an illustration in the background, which is also pretty like, you know, it's pretty standard for like blogs, so that's also something we could explore as an option.
+
+**Alex Fine:** Honestly, you tell us, you tell us what makes the most sense, what works the best, and that's what we'll do.
+
+**Aida Knezevic:** Okay, okay, that's great to hear.
+
+**Aida Knezevic:** Yeah, we'll sync with Katya next week and come up with some suggestions for you.
+
+**Ali Yildirim:** So I got into WordPress, so if you just send over that email, I can, did you have to put it in the chat?
+
+**Ali Yildirim:** Yeah.
+
+**Ali Yildirim:** Okay.
+
+**Ali Yildirim:** Let me add that right now.
+
+**Aida Knezevic:** And I just asked our designer to send you guys the brand assets in our Slack channel too, so.
+
+**Aida Knezevic:** Okay, thanks.
+
+**Alex Fine:** Yep.
+
+**Ali Yildirim:** Do you know what permissions you'll need for WordPress?
+
+**Aida Knezevic:** What are the options?
+
+**Alex Fine:** Ali, I just give them everything.
+
+**Aida Knezevic:** Yeah, because we will need, yeah, if a developer goes in, they're going to need all of the permissions.
+
+**Ali Yildirim:** Okay, I just added that email that you sent as an admin.
+
+**Aida Knezevic:** Okay.
+
+**Ali Yildirim:** Cool.
+
+**Ali Yildirim:** Let me know if you're not able to access it, though.
+
+**Aida Knezevic:** Okay, sure, thanks.
+
+**Aida Knezevic:** All right, anything else that you wanted to talk about, Sydney?
+
+**Aida Knezevic:** think we covered everything we meant to today.
+
+**Alex Fine:** My question is, how quickly do we get our first pieces of content live?
+
+**Alex Fine:** I know we have to get you access to CMS and do all that, but, like, assuming that's all done, how quickly do we get everything live?
+
+**Aida Knezevic:** Yeah.
+
+**Aida Knezevic:** So, next week, we send you, like, the blog with suggestions.
+
+**Aida Knezevic:** And next week, we're going to, like, generate something for you, depending on, like, how quickly you can approve things, obviously.
+
+**Aida Knezevic:** But, like, then we start creating.
+
+**Aida Knezevic:** So that's next week.
+
+**Aida Knezevic:** My hope is, like, week four.
+
+**Aida Knezevic:** So that's in two weeks.
+
+**Aida Knezevic:** We can at least stage something in your CMS.
+
+**Aida Knezevic:** But week five, most definitely.
+
+**Aida Knezevic:** So in three weeks, we, I'm hoping that, like, if everything works out with CMS, we can have at least one blog post live.
+
+**Aida Knezevic:** And then from then, we kind of start to ramp, depending on how much feedback you, like, provide and how quickly we can, like, get a good flow going.
+
+**Aida Knezevic:** Our goal is to, like, ramp up to three and then five per week.
+
+**Alex Fine:** Okay.
+
+**Alex Fine:** Awesome.
+
+**Alex Fine:** And then another question, we'll get to this, I'm sure.
+
+**Alex Fine:** But in terms of attribution, so obviously the goal of all of this, right, is brand visibility and then driving more traffic and leads for our business.
+
+**Alex Fine:** How do we do attribution once all of this starts going live?
+
+**Alex Fine:** So how do we determine what's coming?
+
+**Alex Fine:** From SEO and GEO, like, versus our other channels.
+
+**Alex Fine:** Because LinkedIn right now is very easy for us to tell because we have calendar links all over LinkedIn.
+
+**Alex Fine:** And once I went books, we ask that in a calendar link.
+
+**Alex Fine:** But in this situation, if we have people coming in, how are we attributing that?
+
+**Aida Knezevic:** Yeah, good question.
+
+**Aida Knezevic:** So what we provide, like, right off the bat is a Looker dashboard.
+
+**Aida Knezevic:** And it has access to your GSC and GA4.
+
+**Aida Knezevic:** I think we already have access to that.
+
+**Aida Knezevic:** So it pulls data from those two sources.
+
+**Aida Knezevic:** And that is kind of like it measures, like, the standard organic traffic.
+
+**Aida Knezevic:** But it can also, if you have events set up in GA4, like, like booked meeting or, you know, something like that, we can also measure those conversion events.
+
+**Aida Knezevic:** So to kind of have some sort of attribution.
+
+**Aida Knezevic:** And in the same Looker report, we also break down, like, LLM referral traffic.
+
+**Aida Knezevic:** So you can see which LLMs are driving the most referral traffic to which blogs, or like which parts of your site.
+
+**Aida Knezevic:** In addition to that, we set up Scrunch for each of our clients.
+
+**Aida Knezevic:** So it's like an LLM visibility tool, which I'm sure you're already familiar with.
+
+**Aida Knezevic:** But basically, what it does is we generate prompts that we think your customers would type into an LLM.
+
+**Aida Knezevic:** And then during the day, Scrunch will prompt multiple LLMs with those prompts.
+
+**Alex Fine:** Just basically show us brand visibility.
+
+**Aida Knezevic:** Yeah, yeah.
+
+**Aida Knezevic:** It shows brand visibility and also competitor visibility.
+
+**Aida Knezevic:** So we will add your competitors to the same Scrunch report.
+
+**Aida Knezevic:** So you can like see how your visibility is trending up or down.
+
+**Aida Knezevic:** We start, like we generate some prompts ourselves.
+
+**Aida Knezevic:** But if you have like any, if there are any questions that repeatedly come up during sales calls, you can share those with us and we'll turn them in.
+
+**Aida Knezevic:** I think that's also like a more accurate way to like use crunch because we're just reverse engineering what we think your audience is looking for.
+
+**Alex Fine:** But I think any questions that come up repeatedly would also be helpful.
+
+**Alex Fine:** Ali, this gives me another thing that we should probably build with Parker, but it's like a repository from sales calls that's automatically created.
+
+**Alex Fine:** So after we have a sales call, they're automatically pushed somewhere.
+
+**Alex Fine:** And then from there, what we can do is we can basically ping a brain of all of the things that are talked about from transcripts in our sales calls to say what are the most common questions that are asked during sales calls and that we can just share with the GrowthX team.
+
+**Ali Yildirim:** Yeah, I like that.
+
+**Alex Fine:** Yeah.
+
+**Alex Fine:** Okay.
+
+**Alex Fine:** I'm excited about all of this.
+
+**Alex Fine:** Say that again, Sydney?
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** Yeah.
+
+**Sydney Arin Go:** You also mentioned some questions on this call that I immediately thought, yeah, we're going to put that into scrunch.
+
+**Sydney Arin Go:** Like who are the best paid media practitioners?
+
+**Sydney Arin Go:** That's going in a scrunch so we can see like if Understory gets cited for that.
+
+**Alex Fine:** Yeah, we need to.
+
+**Alex Fine:** If we're not, we need to.
+
+**Alex Fine:** When someone says, who's the best LinkedIn ads experts in the world, it should be Ali, and it should be Anna on our team.
+
+**Alex Fine:** That's what it should be.
+
+**Alex Fine:** Okay.
+
+**Alex Fine:** Cool.
+
+**Alex Fine:** All right.
+
+**Alex Fine:** Sounds great.
+
+**Alex Fine:** And Ali, I'm assuming the GA4 stuff that Aida was talking about, just, Chris needs to help us set that up.
+
+**Alex Fine:** But once that's set up, we should be good to go.
+
+**Ali Yildirim:** So they're already added.
+
+**Ali Yildirim:** We already have Google Analytics installed.
+
+**Ali Yildirim:** We don't really have events because the only thing that people can do on our site is book time on Calendly.
+
+**Ali Yildirim:** So it's a little bit tricky to track that.
+
+**Ali Yildirim:** don't know if you guys have a best practice for Calendly links, but, I mean, there's really only one conversion point on our website, which is booking a time.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** For now.
+
+**Ali Yildirim:** Yeah, there should be a way to set up a conversion event in GA4 to that link.
+
+**Ali Yildirim:** Yeah.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Perfect.
+
+**Aida Knezevic:** Well, we'll follow up.
+
+**Aida Knezevic:** In Slack, we'll send you the content strategy so you can read it in detail, but yeah, we'll keep you posted as we make progress.
+
+**Alex Fine:** Sounds great.
+
+**Alex Fine:** And then let us know if you need anything.
+
+**Alex Fine:** Don't let us ever be a blocker for you.
+
+**Alex Fine:** So if you need anything at all, Ali and I are both available to help with anything that we can.
+
+**Aida Knezevic:** Sure, sure.
+
+**Alex Fine:** Thank you so much.
+
+**Alex Fine:** Of course.
+
+**Alex Fine:** Great to meet you both.
+
+**Alex Fine:** I'm excited to work with you guys.
+
+**Alex Fine:** We're going to get our brand visibility through the roof.
+
+**Aida Knezevic:** I know it, so.
+
+**Aida Knezevic:** Yeah, yeah, you will, for sure.
+
+**Alex Fine:** It was great talking to you.
+
+**Alex Fine:** All right, guys.
+
+**Aida Knezevic:** Great to meet you both.
+
+**Aida Knezevic:** See you.
+
+**Sydney Arin Go:** Bye.
+
+**Sydney Arin Go:** Thank you.

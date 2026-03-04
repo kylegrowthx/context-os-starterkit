@@ -1,0 +1,2250 @@
+[
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Let me just record this.",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I don't know who owns the meeting.",
+    "timestamp": "00:00:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Okay, let's see.",
+    "timestamp": "00:00:09"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Oh, I'll switch.",
+    "timestamp": "00:00:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "One sec.",
+    "timestamp": "00:00:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "There's like 10 recordings.",
+    "timestamp": "00:00:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Yeah, let's see.",
+    "timestamp": "00:00:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Somebody's taking notes, I guess somebody's recording.",
+    "timestamp": "00:00:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Mine is not.",
+    "timestamp": "00:00:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "I think mine's, my Fathom is working.",
+    "timestamp": "00:00:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:00:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:00:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Yeah, so.",
+    "timestamp": "00:00:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "One second.",
+    "timestamp": "00:00:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Yeah, so I was going to, let me just show you all what I was working through, and then we can calibrate on there, and then I don't know if we need to send.",
+    "timestamp": "00:00:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "All two mutual assets, but we can decide later.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Like the thing that I don't know if we had a chance to see that, but let me move my screen to the side, so let's all see.",
+    "timestamp": "00:01:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "The stuff that I was doing, like George and I were doing with the data that we have from then, so we have, they gave us access to a ton of, they gave us access to a lot of data.",
+    "timestamp": "00:01:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So the data came in this form, it came in like an activity feed like this, a pretty long format, and you can see this bit of what people are trying to do on each section.",
+    "timestamp": "00:01:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "We didn't have the precise, like we have like the prompts, what they're trying",
+    "timestamp": "00:01:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "to do with each step the and then but like it's pretty long pretty hard to parse and not categorized so what we did was to create a custom workflow for them that went through each of the activities this workflow we have in aerobs I linked there or aerobs in the docs like you guys have access to that if you want to check it out but this is the workflow.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "if to see the content is just going to parse the activity and summarize including the days split so you can see what people started doing and then what they came up later so many times people start doing like an app like an internal like just like trying something out full stack and then they will come back and like do something else like do a web design like create a quick create a web website create a landing page and",
+    "timestamp": "00:02:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So people were doing two different things.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But then I also asked you to categorize.",
+    "timestamp": "00:03:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "the category is not super, super precise.",
+    "timestamp": "00:03:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "It's just going to be whatever was more prevalent in the session.",
+    "timestamp": "00:03:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So in this case, for example, the person was creating a full stack app with tail end, and then was single page.",
+    "timestamp": "00:03:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then it came back later and added multiple pages, integrated the super page for the database.",
+    "timestamp": "00:03:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So the result was like that, because they started creating this knotless team design.",
+    "timestamp": "00:03:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So it's not super, super precise, but it can give you an idea of more or less what people are trying to do better than just looking at the sessions.",
+    "timestamp": "00:03:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And the output of that was a mix of things.",
+    "timestamp": "00:03:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So people are doing three main things.",
+    "timestamp": "00:03:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So people are doing web design, they're doing internal tools, and they're doing mobile development.",
+    "timestamp": "00:03:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And so there's the three main things.",
+    "timestamp": "00:03:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And that aligns with.",
+    "timestamp": "00:03:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "KJ was showing us, so the same thing if we do the analysis on the category that he sent us, this is screenshots from some of the analysis on that data that I showed, so it's pretty aligned with what KJ was thinking, so I think the way we can think about this is that we have these three main categories, and then we need to decide if we're going to target based on that, or are we just going to target based on the competitors, because competitors can do anything.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "that's the thing that I think on the comparison pages, we'll have to figure out, and I will probably need to align that with Mitchell whenever we can, probably just send a message to him, because I was thinking from the comparison side, we could do, we can talk about comparison later, but we can either do comparison both versus X, or we can do both versus X for Y, you know, and then we can do like for web design, for mobile, so for mobile, for example, can do, we",
+    "timestamp": "00:04:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Bolt is the only one that I think supports Expo.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So Expo is a way to create mobile apps using React.",
+    "timestamp": "00:05:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And Bolt is also really good at creating really great websites, almost one shot.",
+    "timestamp": "00:05:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "They do that much better than everyone else.",
+    "timestamp": "00:05:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So if you do Bolt versus Lovable for web design, Bolt is way better.",
+    "timestamp": "00:05:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And I don't know if people would be searching for that.",
+    "timestamp": "00:05:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "That's the problem, though.",
+    "timestamp": "00:05:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I don't know what's the SEO strategy there, but the usability of the page would target their persona that is paying more, I think.",
+    "timestamp": "00:05:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So that's the thing we can talk about later.",
+    "timestamp": "00:05:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But from the other stuff that I was doing that I don't know if you had the chance to see.",
+    "timestamp": "00:05:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But I need to go back here.",
+    "timestamp": "00:05:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I always change the meeting.",
+    "timestamp": "00:05:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I'm sorry, meetings.",
+    "timestamp": "00:05:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So the other stuff that I was doing yesterday was to...",
+    "timestamp": "00:05:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I was finishing...",
+    "timestamp": "00:05:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "I was just a...",
+    "timestamp": "00:05:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Meeting I had like the timeline.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So we're essentially like mid week three.",
+    "timestamp": "00:06:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And we have essentially three projects in progress.",
+    "timestamp": "00:06:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So we have the comparison and supporters.",
+    "timestamp": "00:06:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So as far as I'm thinking would be like Cursor and Windsurf, the coding editors.",
+    "timestamp": "00:06:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I don't know if we should have two different templates for that, or if it should be the same.",
+    "timestamp": "00:06:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then in the content of the comparison, we explained that they're not direct competitors, they're more supporting tools.",
+    "timestamp": "00:06:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So that would change, that could change the design or change the title.",
+    "timestamp": "00:06:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "don't know what's the strategy there, Dave, for SEO reasons, but something to keep in mind.",
+    "timestamp": "00:06:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And so like for this week, I think like if we could get this week and by next week have like a style guide for how we write, like how the tone that both uses, and we're like pretty, pretty happy with the result.",
+    "timestamp": "00:06:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And you can have like one real calibration protocol for like more two for the comparison, lovable versus both.",
+    "timestamp": "00:06:51"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:06:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Or if we go to the use case, lower versus bold for X, like have these articles like handcrafted, like even because as we start going through the articles, like there might be things that we want to do automated, like workflow would generate some of that.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Or if another thing we need to check is if we want to do all like their top competitors, let's say like 10, because that's kind of what they have or at most, or do we want to do an expanded list of where you compare to almost everything?",
+    "timestamp": "00:07:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And we compare like not only to their direct competitors, but also to indirect competitors.",
+    "timestamp": "00:07:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Like Retool is not an AI building tool, but it's an internal tool building tool, per se.",
+    "timestamp": "00:07:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So people would not be looking for that, but people that are building internal tools are using Retool.",
+    "timestamp": "00:07:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I don't know if there is a play there, Dave, if we want to do that or not.",
+    "timestamp": "00:07:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But if it's like 10, 10 players, it's easy to do editorial and be like super.",
+    "timestamp": "00:07:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "If we want to do all the tools that you can use to build no-code stuff, like Retool and the others, then we need to be programmatic for sure.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So that's another decision we have to make, and we probably should align with Mitchell there.",
+    "timestamp": "00:08:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So that's what I mean, layer selection.",
+    "timestamp": "00:08:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So this week, by mid-next week, when we meet with him again, like if we have all these four things figured out for the comparisons, I think we're in a good spot.",
+    "timestamp": "00:08:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then next week, we also, like for both projects, for the StarKit and for the comparisons, we need to start figuring out how we can do CMS.",
+    "timestamp": "00:08:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And so that's something I need to calibrate with him, like what's going to be the technical team collaboration there.",
+    "timestamp": "00:08:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "They give us access to their project, like their GitHub, and we connect to the Strapi endpoints.",
+    "timestamp": "00:08:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "We can set up the Strapi side.",
+    "timestamp": "00:08:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "That's not a problem.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "The problem is how we build the UI, I think.",
+    "timestamp": "00:09:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But I think we can get there.",
+    "timestamp": "00:09:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "We can talk about that when we get there.",
+    "timestamp": "00:09:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "The starter kit.",
+    "timestamp": "00:09:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So that's essentially what I think this week and next week.",
+    "timestamp": "00:09:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And maybe the following week, once we have the CMS set up and we have these two things figured out, we can start thinking about publishing some of those pages on the comparison side.",
+    "timestamp": "00:09:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then the starter kit side, we're still figuring out the prototype, what kind of prompt should we have, the design, and we're going to have to also figure out the CMS and all that, but that we can do later.",
+    "timestamp": "00:09:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then at the same time, George is also starting the process of jobs to be done.",
+    "timestamp": "00:09:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I think jobs to be done would help us recalibrate the style.",
+    "timestamp": "00:09:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "you.",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "for",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And the articles, once we have the tone right, who are the main personas?",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "It might even change the level of the comparison pages if we see that people are actually people that really buy are different people.",
+    "timestamp": "00:10:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But the main thing that I keep coming to is that do we want to make this just an SEO play just to rank or do we want to make the pages perform?",
+    "timestamp": "00:10:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And that's, I think, it will change quite a bit, the comparison pages and maybe even the starter kit.",
+    "timestamp": "00:10:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And for the starter kit, what I was working on this week was essentially trying a bunch of different complex prompts and see if we can get really good results.",
+    "timestamp": "00:10:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So, for example, this is the prompt, like a pretty long prompt, but it's easy to understand.",
+    "timestamp": "00:10:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So no technical person can read this and understand that this is an e-commerce dashboard and has the reason for this.",
+    "timestamp": "00:10:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then you can change the menu items here, you can change the behavior, you can make it red instead of blue, stuff like that.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And the result of that prompt is this.",
+    "timestamp": "00:11:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So like one shot, no changes, you get this.",
+    "timestamp": "00:11:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So we're putting together a list of prompts that do things like that.",
+    "timestamp": "00:11:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So this is another one, pretty good.",
+    "timestamp": "00:11:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "It's essentially a CRM.",
+    "timestamp": "00:11:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Some pages don't work, but the first page will work really well.",
+    "timestamp": "00:11:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then you have same thing, another one.",
+    "timestamp": "00:11:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then we have some agency related stuff like websites.",
+    "timestamp": "00:11:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "There's a website for an agency.",
+    "timestamp": "00:11:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "This one, the animations, has all the animations, has all the details.",
+    "timestamp": "00:11:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Let's see, another one.",
+    "timestamp": "00:11:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "These are fantastic.",
+    "timestamp": "00:11:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "This one is pretty cool.",
+    "timestamp": "00:11:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "This one has all the animation.",
+    "timestamp": "00:11:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And both gets everything 100% right if it's detailed like the way I'm doing.",
+    "timestamp": "00:12:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "The other ones don't.",
+    "timestamp": "00:12:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So the Lavable and Vizier can't do that in the same way.",
+    "timestamp": "00:12:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And you see people talking about it on Reddit as well.",
+    "timestamp": "00:12:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So portfolio.",
+    "timestamp": "00:12:20"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So we have portfolio.",
+    "timestamp": "00:12:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I'm going through some of the common categories that people would be looking for.",
+    "timestamp": "00:12:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And I think we have 15.",
+    "timestamp": "00:12:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I think it would be pretty easy to get to, maybe not in the beginning, but throughout the 12 weeks, we can easily get to 100, I think.",
+    "timestamp": "00:12:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And it can range by a bunch of different categories.",
+    "timestamp": "00:12:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I'm getting, I'm starting to find the process here where we can create this faster.",
+    "timestamp": "00:12:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And the main thing here would be like we create these prompts and we have a page like this, where we would have...",
+    "timestamp": "00:12:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "you.",
+    "timestamp": "00:12:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And that's the thing that I'm still figuring out, Dave, like maybe I need your help here, is like this would be like, like you said, like a third page in, so like they have their homepage and they might have like a catalog, like an index page with the category that we still have to define the content of that page.",
+    "timestamp": "00:13:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then this would be the third page.",
+    "timestamp": "00:13:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And I think we need to find the keywords that would be things that people would be searching for based on a kind of like no code, low code, or AI generation for very specific things.",
+    "timestamp": "00:13:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So it would be probably like no code, AI, like generate, generate the coming, like a splash page or a coming stream page using AI, something like that.",
+    "timestamp": "00:13:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I don't know if that would be, but I don't know how we're going to manage that, like how we do the content generation here.",
+    "timestamp": "00:13:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "You can.",
+    "timestamp": "00:13:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Yeah, I talked to Ren about this about 15 minutes ago, and what we're thinking is that, you're right, this is a third-level page.",
+    "timestamp": "00:14:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "This would be like a product detail page.",
+    "timestamp": "00:14:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So what we are going to build is a category page.",
+    "timestamp": "00:14:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So we'll go from their index to a category.",
+    "timestamp": "00:14:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Category would be like coming soon.",
+    "timestamp": "00:14:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "And then we would have all the different designs for coming soon as the product pages.",
+    "timestamp": "00:14:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So that layout we'll have an example later on today.",
+    "timestamp": "00:14:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "How are thinking about the content of those pages, though?",
+    "timestamp": "00:14:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "What would be the...",
+    "timestamp": "00:14:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "That's what I'm trying to figure out, the strategy around the keywords that we'd be trying to rank for.",
+    "timestamp": "00:14:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Because they're pretty niche.",
+    "timestamp": "00:14:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "They would be like coming soon, like quoting a coming soon page, essentially.",
+    "timestamp": "00:14:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "That's the people that we're trying to look for.",
+    "timestamp": "00:14:50"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Right.",
+    "timestamp": "00:14:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So we would insert those keywords into those categories.",
+    "timestamp": "00:14:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So it would be typically like a...",
+    "timestamp": "00:14:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "This example, starter kits would be your index page, right, where you're coming in on that page, then splash pages or coming soon, right?",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So like if coming soon would be your category page, we would just have how to build, you know, coming soon landing pages with no code or how to vibe code coming soon landing pages.",
+    "timestamp": "00:15:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So we can add those keywords to any of those categories to go after it.",
+    "timestamp": "00:15:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "But ideally, it'd be great to rank for those broad keywords as well so that we can get coming soon landing pages and no code coming soon.",
+    "timestamp": "00:15:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Yeah, so we'll build it in that way where we can capture the most traffic.",
+    "timestamp": "00:15:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Got it.",
+    "timestamp": "00:15:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:15:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So like because that's the workflow that we're going to have to be because let's say we put together the like just to show everything.",
+    "timestamp": "00:15:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So you all probably have seen this already, but the content of the article here, this one is all about prompt engineering.",
+    "timestamp": "00:15:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I don't know if that's the level that they want to be with, or if it should be about the prompt itself on the right side.",
+    "timestamp": "00:15:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And that's when.",
+    "timestamp": "00:15:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "One of the things that I had in the calibration, so I was putting together this quick calibration article that I think I, maybe let me turn here, but let me just go back here real quick.",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I don't think we need to send this video precisely, but we can just align and then I can write the summary to meet you afterwards.",
+    "timestamp": "00:16:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But I was writing this article, which would be more like, what is the story kit?",
+    "timestamp": "00:16:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And we probably could have a bunch of the primary and secondary keywords at the top.",
+    "timestamp": "00:16:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then the bottom part would be explaining how to customize the prompt to your needs.",
+    "timestamp": "00:16:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I don't know.",
+    "timestamp": "00:16:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "This probably have no SEO value.",
+    "timestamp": "00:16:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "You know, so that's the split between usability of the prompt versus trying to rank for different things here.",
+    "timestamp": "00:16:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So, because...",
+    "timestamp": "00:16:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "This, if you read, this doesn't change much, it would be like, we should have the similar content article for everything, would just vary a little bit of the content, but pretty much all the templates would have, if we go with this, to just talk about prompts in general, it would just vary the content, but if we had an article written for each prompt explaining how to change the prompt, that was a tutorial for the prompt itself, you know what I mean, Dave?",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Yeah, that's where I was leaning towards, because if we can explain what the prompts are doing and how to change the prompts to get what, you know, to explain how to change them to get your ideal, you know, generation or how it comes out or output, that would probably be better than having like the generic layout of the way this is now.",
+    "timestamp": "00:17:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "From like an e-com.",
+    "timestamp": "00:17:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Perspective, like thinking through, they're not really going to compete, so the content could be a little bit similar on how we walk the user through the experience of like, here's the prompt, this is what the prompt does, here's how to customize that prompt.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "That layout can be repeatable, that's fine, but we just have to be more succinct on the content that we give or on the prompting.",
+    "timestamp": "00:18:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So I think best success, I would say, would be to go the route of what you're thinking of like, let's give them the prompt, let's tell them what the prompt does, and then have to change that prompt to get the specific output that you want.",
+    "timestamp": "00:18:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "I think that would probably be, from an SEO perspective, we can sprinkle in the keywords we need, but from an intent, I think the main intent of the page is someone wants to build this, and we have to provide that to them, or else we'll list that intent.",
+    "timestamp": "00:18:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Right, that makes sense.",
+    "timestamp": "00:18:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Yeah, okay, so I'll...",
+    "timestamp": "00:18:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Tweak this.",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "The way I'm thinking is that we would manually create all the prompts and then we have a workflow that would generate the articles.",
+    "timestamp": "00:19:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So, yeah, and the workflow would be like the title, like H1, the sub description, the intro, and we have the whatever other titles we need that are important for SEO and then generate the whole bottom part one shot based on the prompt.",
+    "timestamp": "00:19:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And so if we have the place where we could keep adding things to their template library and we can generate more articles for them, so I could see the case where in the future, like we could pay somebody to just continue to generate the templates based on the original that I'm starting, but it would be always like a little slower than creating traditional articles because you have to write the template, run, see if you actually generate something.",
+    "timestamp": "00:19:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Interesting.",
+    "timestamp": "00:19:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Interesting.",
+    "timestamp": "00:19:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Interesting.",
+    "timestamp": "00:19:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Interesting.",
+    "timestamp": "00:19:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Go from there, and you also have to host, so we're also going to need to check with Mitchell if this is even possible in their setup, where we have the website working behind.",
+    "timestamp": "00:20:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "If it doesn't work, we'd have to take a screenshot, so that would be another workflow that would take a screenshot from the live thing.",
+    "timestamp": "00:20:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Yeah, so this is the direction for the templates project.",
+    "timestamp": "00:20:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I keep closing the meeting.",
+    "timestamp": "00:20:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "There we go.",
+    "timestamp": "00:20:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Daniel, you have a list of the current categories that we have?",
+    "timestamp": "00:20:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Like, I'm thinking that I could potentially put together like a hierarchy for that, so we can kind of put a mock category structure together to understand what the different categories could be and then the different templates that we can have in each individual one.",
+    "timestamp": "00:20:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Yeah, I'm thinking that...",
+    "timestamp": "00:20:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "The area would be like a macro level areas would be like internal app and web design.",
+    "timestamp": "00:21:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then each one of those would probably have like a bunch of categories.",
+    "timestamp": "00:21:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I have some of that here in a separate document that I was just like doing some research.",
+    "timestamp": "00:21:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And with the stuff that we got from KJ, I think it still applies.",
+    "timestamp": "00:21:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So top categories like admin and dashboard that fits their internal app.",
+    "timestamp": "00:21:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "E-commerce templates fits the web design, SaaS, internal app.",
+    "timestamp": "00:21:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I was just going to like organize this based on these two main areas, like internal apps and web design.",
+    "timestamp": "00:21:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "We might want to add another one for mobile apps that they don't have.",
+    "timestamp": "00:21:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "None of the team forces and stuff like that doesn't have.",
+    "timestamp": "00:21:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "This works.",
+    "timestamp": "00:21:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "We could then, because it's almost like, like the example that we're using in Figma is more of.",
+    "timestamp": "00:21:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "A feature of one of these templates, right?",
+    "timestamp": "00:22:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Right.",
+    "timestamp": "00:22:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So if you're building a SaaS template for your website, you're going to start with a splash page.",
+    "timestamp": "00:22:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "And then you're going to, you know, once your site is up, then you'll switch over to one of the SaaS templates.",
+    "timestamp": "00:22:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So it's almost like we have two different types of templates.",
+    "timestamp": "00:22:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "We have, like, the features one where it's, like, build a calculator, build a reporting dashboard.",
+    "timestamp": "00:22:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Like, those are the different types of features or, like, things you can do with it.",
+    "timestamp": "00:22:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "These are more of, like, a full-fledged e-commerce website, right?",
+    "timestamp": "00:22:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Like a full-fledged template of that website.",
+    "timestamp": "00:22:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:22:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I think we need to think about this because you have \u2013 it might go super granular if we start thinking about chunks of of the products, you know?",
+    "timestamp": "00:22:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "So I guess my point was that what we're presenting in the mock-up in Figma, we should be really focused on building an e-commerce website and then show that as the mock, if this is the route that we want to go, versus just the coming soon page.",
+    "timestamp": "00:23:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Dave Capone",
+      "matched_calendar_invitee_email": "dave@growthx.ai"
+    },
+    "text": "Yeah, yeah.",
+    "timestamp": "00:23:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "The main reason for the coming soon page is because it's actually a category in a lot of the template stores.",
+    "timestamp": "00:23:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "People buy coming soon pages, standalone coming soon pages.",
+    "timestamp": "00:23:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So that's where I start from.",
+    "timestamp": "00:23:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But that's a fair point.",
+    "timestamp": "00:23:36"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Daniel, can cross-check that top templates list that you just showed.",
+    "timestamp": "00:23:40"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "We don't need to go super deep on the jobs to be done to get a better understanding from their customer experience person that I'm talking to in an hour on what their users are actually trying to build.",
+    "timestamp": "00:23:45"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So we could, even from the start, hone in those top templates a little more based on like what",
+    "timestamp": "00:23:55"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "So I can cross-check what you populated there with any and all data she has on their current users that's more specific to help.",
+    "timestamp": "00:24:01"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Yeah, yeah, that would be great.",
+    "timestamp": "00:24:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Because like, this is like, it's essentially handcrafted template.",
+    "timestamp": "00:24:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "don't even know if the category will be, like, if we're going to have a ton per category, you know, like, like, that's the case with like, for sales, in this case, if they have use cases, if you filter for portfolio, they have like six, you know, if you filter for SaaS, they have a bunch.",
+    "timestamp": "00:24:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But if you filter for eCommerce, they also have a bunch.",
+    "timestamp": "00:24:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "If you filter for certain things, they actually have quite a few for Yeah, for some stuff, they don't have a lot.",
+    "timestamp": "00:24:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So very specific.",
+    "timestamp": "00:24:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I don't think they would be ranking for any of this stuff.",
+    "timestamp": "00:24:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So I don't think they're targeting and just",
+    "timestamp": "00:24:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "ranking, they're just going based on community contributions.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:25:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "But these are featured.",
+    "timestamp": "00:25:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Like, they're a me and elite flagging this from the community as high value stuff just to show.",
+    "timestamp": "00:25:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "This is a consulting shop, for example.",
+    "timestamp": "00:25:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Well, I don't know if I can.",
+    "timestamp": "00:25:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "It's pretty technical, though.",
+    "timestamp": "00:25:30"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:25:33"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Like, their explanations, their explanations.",
+    "timestamp": "00:25:33"
+  },
+  {
+    "speaker": {
+      "display_name": "George Haikal",
+      "matched_calendar_invitee_email": "george@growthx.ai"
+    },
+    "text": "Yeah, I think the Vercel one is for technical.",
+    "timestamp": "00:25:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Like, this is different than V0.",
+    "timestamp": "00:25:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So Vercel is the hosting company, the same way as StackBlitz is the hosting for both.",
+    "timestamp": "00:25:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And V0 is their competitor for both.",
+    "timestamp": "00:25:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So V0, the way I see V0 is for more technical users, even just because of the the audience as of Vercel, lovable in both.",
+    "timestamp": "00:25:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "let's",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Are more like higher level folks that don't have that much technical skills, so it's EMs, internal, people build internal tools that kind of fits the profile of technical folks, they have a mix, so like that's the thing that we need to think about their audience, they have a mix of both, but I think they want to target the less technical folks for a business reason, so yeah, okay, so like on my, I'm going to continue, I'm going to pause a bit on like creating the prompts, because like it's pretty clear that they work, so I'm just going to think about the categories, find the source for them, and thinking about the design a little bit further, close to what Ren has, but like think about the programmatic parts that we need for creating the workflow to generate the data for those pages, and start thinking about the CMS there, and I think we need to work on the .",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And, uh,",
+    "timestamp": "00:26:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Editor stuff, maybe closer together, Mariana, because I think I, because I'm there, I understand their space really well, so I can, I can probably do a little bit of research on some of the competitors at the same time today and share with you.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So we have like use cases and stuff like that.",
+    "timestamp": "00:27:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "And then we have to decide if we do stay like high level or if we go lower level of the use case.",
+    "timestamp": "00:27:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So, but I can write the message after this call.",
+    "timestamp": "00:27:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So then we ask those questions to Mitchell or we can pull him into a, into a separate meeting if we need to get him to answer those things.",
+    "timestamp": "00:27:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Sounds good.",
+    "timestamp": "00:27:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "That would be the main thing.",
+    "timestamp": "00:27:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I think for the comparisons, I figure out the level.",
+    "timestamp": "00:27:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Mariana Montezzana",
+      "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+    },
+    "text": "I'll do a deeper research on what people are saying on Reddit and on YouTube.",
+    "timestamp": "00:27:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Mariana Montezzana",
+      "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+    },
+    "text": "So, but I already saw a bunch of threads on Reddit and YouTube, but I'll start capturing that information in a table form.",
+    "timestamp": "00:27:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Mariana Montezzana",
+      "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+    },
+    "text": "Yeah, that would be great.",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I can read that too.",
+    "timestamp": "00:28:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:28:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I'll start with lovable and then find a way to do it and replicate to the rest of the competitors.",
+    "timestamp": "00:28:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Mariana Montezzana",
+      "matched_calendar_invitee_email": "mariana@growthxlabs.com"
+    },
+    "text": "Sounds good.",
+    "timestamp": "00:28:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I put in the folder, in the documents, I kind of changed their documents for quite a bit.",
+    "timestamp": "00:28:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "There's potential features that Mitchell gave us.",
+    "timestamp": "00:28:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "So when you're going through, it would be nice to think about them, but there are other things that the users are also talking about in Reddit and stuff like that.",
+    "timestamp": "00:28:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:28:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I got to run, but I don't think we need to send this video to Mitchell.",
+    "timestamp": "00:28:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "We are talking a lot about running over planning, but I can send an email to him, send a message in Slack.",
+    "timestamp": "00:28:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "I have a call now in two minutes, but after that I can write the email, the Slack message.",
+    "timestamp": "00:28:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Thanks, Daniel.",
+    "timestamp": "00:28:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "All right.",
+    "timestamp": "00:28:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Thank you, everybody.",
+    "timestamp": "00:28:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:28:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Bye-bye.",
+    "timestamp": "00:28:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Bye.",
+    "timestamp": "00:28:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Daniel Lopes",
+      "matched_calendar_invitee_email": "daniel@growthx.ai"
+    },
+    "text": "Bye-bye.",
+    "timestamp": "00:28:58"
+  }
+]

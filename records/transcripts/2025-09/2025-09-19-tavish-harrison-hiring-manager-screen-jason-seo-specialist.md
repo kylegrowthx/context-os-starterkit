@@ -1,0 +1,1294 @@
+# Tavish Harrison -Hiring Manager Screen - Jason | SEO Specialist
+
+<metadata>
+date: 2025-09-19
+time: 17:13 UTC
+duration: 43 minutes
+organizer: Jason Gong (GrowthX)
+participants: Jason Gong, Tavish Harrison
+fathom_recording_id: 88571508
+fathom_url: https://fathom.video/calls/414859708
+share_url: https://fathom.video/share/ksdu_2M6bZtvG-HdGdkEywdUQDXYsoz-
+source: fathom
+enriched_on: 2026-03-03 10:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Jason Gong conducted a hiring manager screen with Tavish Harrison for GrowthX's SEO Specialist role. The conversation revealed strong alignment on challenges and opportunities: GrowthX struggles with inconsistent SEO quality across 50+ client accounts (currently onboarding 2 clients/week but targeting 3-4) and aims to standardize SEO practices through automation and distributed playbooks. Tavish brought 8+ years of SEO experience including a content strategy role at DHI Group/Dice.com (focusing on job/career clusters) and demonstrated strong understanding of AI integration for SEO automation, topical modeling, and citation measurement—areas both parties believe are critical for productizing content marketing at scale.
+
+---
+
+## Context
+
+This is a hiring manager screen for an SEO Specialist role at GrowthX, conducted by Jason Gong (VP Growth, responsible for large client engagements like Webflow, Surge, and AugmentCode, plus internal GrowthX marketing). Tavish Harrison is a candidate recently laid off from DHI Group (July 2025) where he worked on SEO and content strategy. The conversation reflects GrowthX's fundamental business challenge: they've successfully productized content marketing for 50+ clients using AI-augmented processes, but SEO quality varies wildly depending on whether a client team has an in-house SEO expert. Jason believes the role's core value is developing systematized, automatable processes for the "meta" pieces of SEO—site structure, topical authority, content strategy, and audits—rather than article-level content creation, which GrowthX already handles well. Tavish's background in automation, AI integration, and topical modeling aligns closely with this need.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Critical capability gap: Currently, SEO quality is "all over the place" depending on whether a team has an SEO expert. Standardizing SEO basics (site audits, content strategy, topical authority) across all client teams is a key lever to increase client onboarding from 2 to 3-4 per week.
+- Role focuses on "meta" SEO (site structure, content strategy) rather than article writing, enabling leverage and distributable playbooks.
+- Tavish's experience automating SEO tasks and interest in building systemized processes directly address this gap.
+
+**To CheckThat / AEO Strategy:**
+- Strong alignment on GEO/AEO/LLM SEO challenges: how to measure citations, track LLM traffic, optimize for AI search results. Tavish explicitly cited wanting to build citation measurement tools.
+- GrowthX is currently monitoring and using earned mentions/PR for citation but lacks automated actioning. Tavish's interest in measurement and optimization tools could unlock CheckThat business opportunities.
+- Tavish views LLMs as bringing search toward quality and human-centric results—frames AEO as complementary to traditional SEO rather than replacement.
+
+**To GrowthX Business Development:**
+- Tavish is a strong cultural fit: interested in the "why" (productizing content marketing), intellectually engaged with AI/LLMs, and aligned on automation philosophy.
+- Recent DHI Group experience demonstrates ability to move KPIs in complex, multi-faceted SEO scenarios (job/career clusters, candidate-side content).
+- No apparent hiring risk; demonstrates 8+ years of progression and clear strategic thinking about role execution.
+
+---
+
+## Overview
+
+- GrowthX is an agency focused on content marketing and SEO, serving 50+ clients with AI-augmented processes
+- The role involves developing standardized SEO strategies and processes across client accounts
+- Tavish has extensive SEO experience from DHI Group (Dice.com) and previous roles, with recent focus on AI integration
+- Both parties are interested in leveraging AI/LLMs to enhance SEO and content strategies
+
+---
+
+## Key Topics
+
+### GrowthX Company Overview
+
+  - Agency model with 50+ clients, focused on content marketing and SEO
+  - Using AI to augment and scale content production processes
+  - Looking to improve standardization of SEO practices across client accounts
+  - Current bottleneck: onboarding 2 new clients per week, aiming for 3-4
+
+### SEO Specialist Role Details
+
+  - Develop strategies and processes for consistent SEO implementation across accounts
+  - Focus on meta-level SEO elements (site structure, content strategy) rather than individual article writing
+  - Create automated/standardized processes for site audits, content strategy refreshes
+  - Collaborate with client teams to implement best practices efficiently
+
+### Tavish's Background and Experience
+
+  - Most recent role: SEO at DHI Group (Dice.com), laid off in July 2025
+  - Implemented content strategy focused on job/career clusters
+  - Increased KPIs on candidate-side content
+  - Previous experience: Web design agency, construction company digital marketing
+  - Recent focus on integrating AI into SEO and content processes
+
+### SEO Strategy Approach
+
+  - Start with business KPIs and target audience
+  - Develop topical models and content clusters
+  - Balance informational and conversion-focused content
+  - Conduct competitor analysis for differentiation
+  - Ensure technical SEO fundamentals are addressed
+
+### LLMs and Search Industry Impact
+
+  - Tavish views LLMs as potentially bringing search back to more human-centric, quality-focused results
+  - Challenges in measuring LLM traffic and impact on SEO
+  - Interest in developing citation measurement tools for AI search
+
+### GEO (AI-Optimized SEO) Practices
+
+  - GrowthX currently focused on monitoring and SEO-based optimization
+  - Experimenting with earned mentions and alternative citation strategies
+  - Tavish interested in developing measurement and optimization techniques
+
+---
+
+## Action Items
+
+**Tavish Harrison (Candidate)**
+- Email additional questions about the SEO Specialist role to Morelia or Andy, who will loop in Jason Gong
+
+---
+
+## Transcript
+**Tavish Harrison:** Thank you.
+
+**Tavish Harrison:** Thank you.
+
+**Tavish Harrison:** Thank you.
+
+**Jason Gong:** Hey, I'm doing a little early.
+
+**Tavish Harrison:** How you doing?
+
+**Tavish Harrison:** I'm doing good.
+
+**Jason Gong:** We do a lot of events, and this week we have three, so I'm little tired, but I thought it was pretty good.
+
+**Jason Gong:** How about you?
+
+**Tavish Harrison:** Yeah, doing good.
+
+**Tavish Harrison:** It's really sunny where I'm at, and the weather's beautiful, and I just recently got back into bike riding, so I've been enjoying the weather a ton more, and I'm like, I don't know.
+
+**Tavish Harrison:** It's just like a small thing to be happy about.
+
+**Jason Gong:** So it just keeps me happy.
+
+**Jason Gong:** That's awesome.
+
+**Jason Gong:** Whereabouts are you?
+
+**Tavish Harrison:** I'm in Charleston, South Carolina.
+
+**Jason Gong:** Okay, got it.
+
+**Jason Gong:** Oh, yeah.
+
+**Jason Gong:** That's a long time ago, but I remember working with these guys that were, like, buying companies, and they bought this company called, oh, my God, Omatic Software.
+
+**Jason Gong:** I don't know.
+
+**Jason Gong:** It's probably tiny, but they do, like, almost, like, charity software.
+
+**Jason Gong:** It's kind of weird.
+
+**Jason Gong:** Omatic.
+
+**Tavish Harrison:** Interesting.
+
+**Jason Gong:** Yeah, yeah.
+
+**Tavish Harrison:** Are you in San Francisco?
+
+**Jason Gong:** Yeah, our office is in San Francisco, and I live in Oakland in East Bay.
+
+**Jason Gong:** It's good.
+
+**Jason Gong:** Nice.
+
+**Tavish Harrison:** I was just watching that, you know, that Pedro Pascal movie, Freaky Tales?
+
+**Tavish Harrison:** It's about the Bay Area.
+
+**Tavish Harrison:** Have you heard of this?
+
+**Jason Gong:** No, no.
+
+**Jason Gong:** No.
+
+**Jason Gong:** Do you like Pedro Pascal?
+
+**Tavish Harrison:** Because he's in everything, so I can see it being mixed bag.
+
+**Jason Gong:** I mean, yeah, I mean, I couldn't really get that into The Last of Us for some reason.
+
+**Jason Gong:** Like, I finished most of the first season.
+
+**Jason Gong:** Yeah.
+
+**Tavish Harrison:** Did you play the game?
+
+**Jason Gong:** No, no, I watched people play the game.
+
+**Jason Gong:** It wasn't really my type of game.
+
+**Jason Gong:** Sure.
+
+**Tavish Harrison:** But no, I have not seen this.
+
+**Jason Gong:** That's cool.
+
+**Jason Gong:** Well, it's always, you know, like original property versus like the show adaptation.
+
+**Tavish Harrison:** That can really dispel a lot of fans at times, depending on like how they do it.
+
+**Tavish Harrison:** I personally can play the game.
+
+**Tavish Harrison:** So I enjoyed at least the first season.
+
+**Tavish Harrison:** Second season, we just started.
+
+**Tavish Harrison:** But so we'll see how that goes.
+
+**Tavish Harrison:** It's very morbid.
+
+**Tavish Harrison:** So at times, it's kind of hard to hang on to.
+
+**Tavish Harrison:** You know what I mean?
+
+**Jason Gong:** It's good.
+
+**Jason Gong:** I mean, I really liked that episode with the Parks and Rec guy.
+
+**Jason Gong:** think that was my favorite episode.
+
+**Tavish Harrison:** Yeah.
+
+**Tavish Harrison:** Yeah.
+
+**Tavish Harrison:** That one was done really well.
+
+**Tavish Harrison:** It's like brings a tear to your eye.
+
+**Tavish Harrison:** was like, yeah, I wasn't expecting that either.
+
+**Tavish Harrison:** think that's what caught a lot of people off guard too.
+
+**Jason Gong:** Like, but yeah, I mean, I, yeah, so we're all, we're all here.
+
+**Jason Gong:** Not all here.
+
+**Jason Gong:** Sorry.
+
+**Jason Gong:** Like maybe like 10 of us here.
+
+**Jason Gong:** And then.
+
+**Jason Gong:** the rest of the company is all remote.
+
+**Tavish Harrison:** Yeah, just US-based or like around the world?
+
+**Jason Gong:** No, I think, I actually don't know what the split is, but like we don't really, like we're fully remote, so we hire from most places.
+
+**Jason Gong:** Yeah.
+
+**Tavish Harrison:** Pretty sure, I think it's mostly like probably Europe and South America.
+
+**Tavish Harrison:** Yeah.
+
+**Jason Gong:** But also plenty, plenty of people in the US as well.
+
+**Jason Gong:** Yeah, so no real like, yeah.
+
+**Tavish Harrison:** I mean, I kind of like that, honestly.
+
+**Tavish Harrison:** Like, it's nice to have like a kind of a diversity of like experience, right?
+
+**Tavish Harrison:** Yeah.
+
+**Tavish Harrison:** I don't know.
+
+**Jason Gong:** It's just something about it, right?
+
+**Tavish Harrison:** Like connecting with people in different cultures.
+
+**Tavish Harrison:** It just, it's nice.
+
+**Tavish Harrison:** Yeah.
+
+**Jason Gong:** For sure.
+
+**Jason Gong:** Yeah, especially for SEO, I think you can like, some people who are really good at it who are not in the US.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** But yeah, I mean, it's great to, great to meet you.
+
+**Jason Gong:** Yeah, you too.
+
+**Jason Gong:** Just, I guess I usually just do these like very casually, just talk about a bunch of stuff.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I don't know if you've worked on, and then you can ask me whatever questions you want, because I think what we do is not super clear to most people either.
+
+**Tavish Harrison:** I have an idea, but I have a lot of questions around it, honestly.
+
+**Jason Gong:** I think it's really cool.
+
+**Tavish Harrison:** But to help you out, obviously, for an interview, do you want me to just start with my background and give you an overview?
+
+**Jason Gong:** Yeah, sure.
+
+**Jason Gong:** I can tell you a little bit about me as well.
+
+**Tavish Harrison:** I would love to hear it.
+
+**Jason Gong:** Yeah, fire away, please.
+
+**Tavish Harrison:** We can go from there.
+
+**Jason Gong:** But yeah, but I'm Jason.
+
+**Jason Gong:** I lead growth here, which essentially means I lead a few of the larger client engagements that we have.
+
+**Jason Gong:** So like Webflow is one.
+
+**Jason Gong:** There's a company called Surge, like an AI labeling company.
+
+**Tavish Harrison:** And then this company called Augment Code, which is like a cursor competitor.
+
+**Tavish Harrison:** Yeah.
+
+**Jason Gong:** If you do development at all.
+
+**Jason Gong:** And then the other half of my job, I kind of like do all of our marketing for growthx.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** My background is basically doing that. I've always been like a really technical marketer, worked at a bunch of dev tool companies, was the founder of my own dev tool startup.
+
+**Jason Gong:** And then I met Marcel because I was like a pretty big power user of this product called Aerobs.
+
+**Jason Gong:** And because I was just like experimenting, you know, with AI a lot in the earlier days to create content.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And basically what he was doing, you know, just made a ton of sense and joined him like a few months after.
+
+**Tavish Harrison:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And then I guess the relevant for this is like I run, I guess, the part of our company that like thinks about what our service is.
+
+**Jason Gong:** Like what are we doing for clients and how do we make that better?
+
+**Jason Gong:** And one gap has always been around like our quality for just like what we do for the basics of SEO has kind of been all over the place.
+
+**Jason Gong:** Some of the pods, some of the teams, where they have an expert on the team, they'll do a great job.
+
+**Jason Gong:** And then some of the teams that don't, it'll get left to the back burner.
+
+**Jason Gong:** And then a few months in, crops up as a problem.
+
+**Jason Gong:** So I think we're just trying to figure out a way to bring the floor up.
+
+**Jason Gong:** Especially now when you can automate almost anything, create processes and best practices.
+
+**Jason Gong:** That we can just kind of, like, distribute out to the entire team, you know.
+
+**Tavish Harrison:** Is that, is that kind of the idea around the roles?
+
+**Tavish Harrison:** Like, I mean, is it oversight or what, am I overstating that a bit?
+
+**Tavish Harrison:** Because when you say experts, do you mean SEO or do you mean, like, content?
+
+**Jason Gong:** People that also have, like, background in SEO as well?
+
+**Jason Gong:** Well, I mean, for this specific role, I think it's, it's about, I guess you can call it oversight.
+
+**Jason Gong:** I mean, I think it's less, like, oversight of work and more, like.
+
+**Jason Gong:** Hey, you're doing a content strategy, you're doing an audit, you're doing AEO and GEO.
+
+**Jason Gong:** What is the thing we should be doing for every account?
+
+**Jason Gong:** What are the principles there?
+
+**Tavish Harrison:** then how do we either just do it all automatically centrally, which I think we can do for a lot of things.
+
+**Tavish Harrison:** A lot of tools out there, we can make them ourselves.
+
+**Jason Gong:** Or how do we arm each of the client teams with what they need so that they can do it really easily without kind of starting from zero every time.
+
+**Jason Gong:** It's like we're there right now.
+
+**Tavish Harrison:** Sorry, I'm trying not to interrupt.
+
+**Tavish Harrison:** I mean, that's exciting.
+
+**Tavish Harrison:** If you, I don't know if you had a chance to, yeah, thank you for that.
+
+**Tavish Harrison:** That's great.
+
+**Tavish Harrison:** Thank you for clarifying on that.
+
+**Tavish Harrison:** I don't know if you saw my resume, but one of the things that I had worked on, it's like a personal project and as well as like at my last role was like automating these SEO things.
+
+**Tavish Harrison:** There's still going to be a level of human oversight that needs to happen. I don't think there's any way of getting around that with content necessarily, although unique viewpoints, honestly, feel like it's becoming—it's interesting to see the way the AI is going.
+
+**Tavish Harrison:** I mean, obviously, you need a structure on it for someone to say, you know, hey, look at it this way, feed me something back, and then honestly, it could be some chaining in that too, chain of thoughts, like build something out.
+
+**Tavish Harrison:** but honestly, the way that I've been looking at it since, I mean, I don't know if I'm a power user necessarily, but like, since it became like commercially available, and like experimenting was like November 23, something like that.
+
+**Tavish Harrison:** It's just, I don't know, I think there's a lot that can be automated, and I think just people trying to get to it is kind of the complex part, because you have so much that you kind of need to know how to like work against, so to say, right, like hallucinations being like the big one that gets a lot of attention.
+
+**Tavish Harrison:** And then I think a lot of other things, like how you phrase it, how you like point the AI.
+
+**Jason Gong:** I mean, I think I totally hear you.
+
+**Jason Gong:** That's basically, I mean, the premise of our company, which I guess I realized I didn't even talk about, but like Andy or anyone else mentioned to you, but just to clarify, I mean, so like our, the whole premise of the company is like, we're an agency, right?
+
+**Tavish Harrison:** But yeah, yeah.
+
+**Jason Gong:** I kind of believe that whole service of content, you know, I mean, call it SEO, I think it's changing a little bit, just like content to help you build awareness and drive growth.
+
+**Tavish Harrison:** Like, yeah, that can be productized.
+
+**Jason Gong:** And, you know, like, you'll still need humans somewhere in there, but like, not at the same scale as how that works currently.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And then for this specific role, I think like, I'm thinking more of like the meta pieces around SEO, like not in the kind of writing of individual articles, but more as the like, you know, how is your site structured when you're creating a content strategy?
+
+**Jason Gong:** Like what topics should you cover?
+
+**Jason Gong:** And what does that kind of universe look like?
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And being able to create that for each client and to help, you know, each client team, like iterate that forward.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** That's one more what I'm thinking of, because for the most part, like the writing of it is the part that we probably invest the most into.
+
+**Jason Gong:** Like we have like engineering teams and product managers that, that think about that, you know?
+
+**Jason Gong:** So like, we're not really like, we're fairly sophisticated there, but like the SEO side, I don't know if we fully are, you know, like I don't know if we like we barely run like site audits, even just using the like tools everyone uses, like Ahrefs and Semrush.
+
+**Tavish Harrison:** Yeah.
+
+**Tavish Harrison:** And even when we run them, we don't really have a good process to fix the things, you know?
+
+**Tavish Harrison:** Gotcha.
+
+**Tavish Harrison:** So the role in itself is like, I mean, I would love to get your perspective on it.
+
+**Tavish Harrison:** Like success in the role is kind of getting in there, right?
+
+**Tavish Harrison:** Like developing strategy, but also.
+
+**Tavish Harrison:** Kind of how do we, yeah, how do we create an automated process of it, right, to get to that point?
+
+**Tavish Harrison:** And sorry, when I said working with, I mean, LLMs or Gen AI, whatever the terminology would be necessarily, there's a lot insinuated in the actual process that I didn't really say out loud.
+
+**Tavish Harrison:** So sorry, I was not clear about that, but it was more of building out, like bringing in, like reverse engineering it, so to say, right, from a client's perspective.
+
+**Tavish Harrison:** Like what are your KPIs and how do we connect that to the various points on there, like building out topical models, connecting into keywords, citations.
+
+**Tavish Harrison:** I would be, I'm really curious about what y'all are doing with GEO currently or AEO.
+
+**Tavish Harrison:** Whatever your favorite acronym is, we can use it.
+
+**Tavish Harrison:** I've also heard LLM SEO now.
+
+**Jason Gong:** That's getting out there and I think there's other terms too.
+
+**Jason Gong:** Yeah, I mean, I guess what are we doing?
+
+**Jason Gong:** mean, to be honest, we should be doing more, but we're, I mean, we're monitoring.
+
+**Jason Gong:** Yeah, we scrunched, but we, I don't know, we're using a bunch of, like, looking at the other tools as well.
+
+**Jason Gong:** So we, you know, come with the prompts, we track it, we communicate with the customer.
+
+**Jason Gong:** And then in terms of actioning, I think that's the part we're going to do more.
+
+**Jason Gong:** Like right now, we're mostly actioning on it through SEO.
+
+**Jason Gong:** So we're trying to get, like, cited in the prompts they care about.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And then, you know, that makes you get pulled into the mentions as well.
+
+**Jason Gong:** What we're experimenting with is, like, some of the more, like, earned kind of mentions, I guess, like, that aren't your website.
+
+**Jason Gong:** So, like, Reddit, PR, you know, trying to, like, do the whole link building thing, but, like, specifically targeted to places you want to show up.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Because you see it being cited already.
+
+**Jason Gong:** I mean, there's a bunch of, like, weird tactics people do, like, you create, like, a...
+
+**Jason Gong:** Just, another website that almost, like, talks about your product in a certain way and then, like, gets cited more than your own website.
+
+**Tavish Harrison:** Oh, my goodness.
+
+**Tavish Harrison:** That is going back, like, 20 years of, like, original SEO practices.
+
+**Jason Gong:** That is, that's being refreshed.
+
+**Tavish Harrison:** I hadn't heard that one yet.
+
+**Jason Gong:** That one seems to be working in some cases.
+
+**Tavish Harrison:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** So, I mean, I would say, like, we do the monitoring.
+
+**Jason Gong:** We do the SEO parts of, of GEO.
+
+**Jason Gong:** And then the other parts we're kind of just starting to work on, you know.
+
+**Jason Gong:** And, again, that's, that's probably, that's on me as well.
+
+**Jason Gong:** I don't know if, like, we kind of need more help there.
+
+**Tavish Harrison:** Yeah.
+
+**Jason Gong:** But I will say, like, I mean, the lowest hanging fruit is just doing SEO well.
+
+**Jason Gong:** Because at the end of the day, you know, that still works.
+
+**Tavish Harrison:** And, like, yeah, for those parts, why most people hire us, even though that's changing a bit now.
+
+**Jason Gong:** But, yeah.
+
+**Tavish Harrison:** But you're talking about, like, traditional SEO.
+
+**Jason Gong:** Yeah, I mean, I guess it's hard to do traditional SEO without thinking about how LLMs, like, search the internet, too, now.
+
+**Jason Gong:** So I'd say it's like a blend of both.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I mean, I just like for the sake of time, I mean, would love to just like talk a little bit more about you and like your background and what you've, what you've worked on, if that's all right.
+
+**Jason Gong:** Yeah, no, by all means.
+
+**Jason Gong:** I mean, I've looked at the resume and everything.
+
+**Jason Gong:** So just, you know, it seems like you've been at the current, I guess, an agency or a DHI group for a decent amount of time.
+
+**Jason Gong:** Dice.com.
+
+**Jason Gong:** Dice DHI.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Oh, I know.
+
+**Jason Gong:** It's like a, okay.
+
+**Jason Gong:** I don't know why I thought it was an agency.
+
+**Jason Gong:** Dice.com, clearance job.
+
+**Jason Gong:** So what is that?
+
+**Jason Gong:** It's a, okay.
+
+**Jason Gong:** It's like a job marketplace.
+
+**Tavish Harrison:** Yeah.
+
+**Tavish Harrison:** Yeah.
+
+**Tavish Harrison:** So it's a, it's a, works in like the tech niche.
+
+**Tavish Harrison:** So software engineering jobs, SAS, SAS is what I meant.
+
+**Jason Gong:** Stuff like that.
+
+**Jason Gong:** Do you guys help any of the AI companies like source people to label their data?
+
+**Jason Gong:** Like, is that becoming a thing at all with what you guys do or not really?
+
+**Tavish Harrison:** Not currently.
+
+**Tavish Harrison:** And to be completely transparent with you, man, I have actually was a part of a round of layoffs in July.
+
+**Tavish Harrison:** Just so we're just on the same page.
+
+**Tavish Harrison:** Okay.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Just like to be frank about that.
+
+**Tavish Harrison:** But my experience there and sorry, I'll try to bring myself in just so you know, the reason that I applied for this job is I think what you are doing at GrowthX is like really, really interesting and it's super cool.
+
+**Tavish Harrison:** Um, that's why I keep like diving in and want to ask more questions, but yes, you need to know my background because I'm here to help you.
+
+**Tavish Harrison:** Um, so yeah, uh, my most recent experience was at, uh, Dice.com.
+
+**Tavish Harrison:** Um, and, and specifically it's, so DHI is the holdings company.
+
+**Tavish Harrison:** That's why I put it that way.
+
+**Tavish Harrison:** like Dice.com is a specific website that I was working on.
+
+**Tavish Harrison:** Um, it is a job, uh, job board, um, job marketplace, um, and then, uh, works on kind of a combination of like a subscription model as well as, aggregating jobs.
+
+**Tavish Harrison:** Um,
+
+**Tavish Harrison:** Sources and put them all together.
+
+**Tavish Harrison:** A lot of my SEO experience in that initially there was in content.
+
+**Tavish Harrison:** So focusing on that, building out content strategy for the actual site itself, working side by side with our editors on the B2C and B2B side, doing some reporting, building up reporting on that.
+
+**Tavish Harrison:** And then just really helping out with like keyword strategy, topical modeling.
+
+**Tavish Harrison:** That was an interesting one.
+
+**Tavish Harrison:** And then that kind of evolved into a role where I was more like hands-on with the strategy of the site as a whole.
+
+**Tavish Harrison:** So technical side of things when it came to job listings themselves, as well as still working on content, working with products themselves for bringing in like a more foundational aspect of SEO and like really making it kind of one of the first priorities when it comes to any project that was going up.
+
+**Tavish Harrison:** So that's, it was a very much a missed opportunity for a while.
+
+**Tavish Harrison:** So.
+
+**Tavish Harrison:** So I was working on building that out and getting connected with more of the teams, working cross-collaboratively, working with various executives and stuff like that.
+
+**Tavish Harrison:** So I was doing a lot at Dice.com.
+
+**Tavish Harrison:** Again, like a lot of that was really technical and content-based, which is kind of your classic SEO stuff, as well as I started getting in at the onset of when it became really commercially available with AI.
+
+**Tavish Harrison:** I'm personally trying to work into our processes.
+
+**Tavish Harrison:** We were experimenting a lot on the content side, as well as the product marketing side of things.
+
+**Tavish Harrison:** So landing pages, e-books, even like some webinar copy and stuff like that.
+
+**Tavish Harrison:** So as far as like citations go and like measuring that, that was something we were still working on.
+
+**Tavish Harrison:** When I was unfortunately like a part of the round of layoffs, which hit basically half of marketing, got like, oh, it a really unfortunate thing.
+
+**Tavish Harrison:** It's funny enough, you mentioned Scrunch.
+
+**Tavish Harrison:** Did you work with Chris, I believe is his name?
+
+**Jason Gong:** Mm-hmm.
+
+**Jason Gong:** Yeah, we were trying to work with him at one time.
+
+**Tavish Harrison:** And unfortunately, our CMO departed when we were trying to build out that relationship.
+
+**Tavish Harrison:** And that was, I think it was like late 2024.
+
+**Tavish Harrison:** And that was going to be like, we were trying to build out that part of things, like start seeing early on, like where we were getting mentioned in AI search and all that stuff.
+
+**Tavish Harrison:** And then before that, I had worked at an agency.
+
+**Tavish Harrison:** It was like a web design creative agency out in Denver.
+
+**Tavish Harrison:** That's where I was doing, again, like I was an SEO specialist there, doing a lot more link building at the time, and then as well as like web design projects.
+
+**Tavish Harrison:** So I had been going to a boot camp, like right before that, like a web design boot camp, Flatiron, it's out in New York.
+
+**Tavish Harrison:** And then I was able to go more utilize my skills.
+
+**Tavish Harrison:** I would say a lot of it was more focused on web design rather than web developments, even though that's what I had a certification in because we were building out on WordPress.
+
+**Tavish Harrison:** But
+
+**Tavish Harrison:** That allowed me to kind of get my hands dirty on the programming side of things a bit, but also really like building out and building more towards a user funnel, I guess, when it came to like website construction itself and like how you specifically design landing pages and testing on that.
+
+**Tavish Harrison:** And then as well as like working hand in hand with clients, either for, and then project basis or even going further, we had some services that would keep them on the roster and we would continue to work with them.
+
+**Tavish Harrison:** And then before that, I was working in a digital or sorry, a roofing company, a construction company where I was doing the digital marketing.
+
+**Tavish Harrison:** And that's where I kind of got my start.
+
+**Tavish Harrison:** I was like, there was an opportunity at time where marketing was really, no one was really able to pay attention to it just because, you know, everyone was focused on other things.
+
+**Tavish Harrison:** So it was like, I talked to the owner.
+
+**Tavish Harrison:** It's like, Hey, do you mind if I step in and start trying some things out?
+
+**Tavish Harrison:** That went well.
+
+**Tavish Harrison:** That introduced me to SEO.
+
+**Tavish Harrison:** The bug kind of.
+
+**Tavish Harrison:** Me a little bit before that, when I started researching it independently, but then that was an opportunity to kind of get started on things, start writing content and optimization, link building, all that stuff.
+
+**Tavish Harrison:** Got it.
+
+**Jason Gong:** I guess just on the SEO parts, like more around strategy, like, I guess when you joined DHI, like, what was the state of things and what did you kind of change there, I guess, if anything?
+
+**Tavish Harrison:** Yeah, yeah.
+
+**Tavish Harrison:** Good question.
+
+**Tavish Harrison:** There was not much focus on SEO, on the content side of things, but also a lot wasn't really getting done on the technical side of things.
+
+**Tavish Harrison:** And so when I got there, my specific focus was around content and more at the time was the keyword focus strategy.
+
+**Tavish Harrison:** So myself and the senior...
+
+**Tavish Harrison:** SEO at the time, we actually built out a strategy basically doing keyword research that would specifically pertain to our audience and then created a kind of like a list of, this is just working off like the most popular jobs, right?
+
+**Tavish Harrison:** And then finding the variance of that and then just aggregating them for search volume, which helped us kind of prioritize things and then go after those things and basically build out like a clusters, specific clusters around jobs and like the specific career questions that people have.
+
+**Tavish Harrison:** I'm working with our editor team to our editing team or editorial, excuse me, to get an idea around what kind of, you know, what kind of questions are being asked, go out to experts and source information around that.
+
+**Tavish Harrison:** And then we use the strategy of being able to like, not only target that keyword, but we brought in a lot of people also ask questions and then specifically answer to that.
+
+**Tavish Harrison:** And we actually saw a lot of really good success from that.
+
+**Tavish Harrison:** I mean, again, things have changed up a bit to where it's not so much keyword focus anymore, but we got a lot of...
+
+**Tavish Harrison:** So we were able to increase KPIs quite a bit on the candidate side of things.
+
+**Tavish Harrison:** then I had done something similar on the B2B side of things as far as like content strategy.
+
+**Jason Gong:** And sorry, I'm trying to go through these as more like categorically just so we're, I'm not like all over the place.
+
+**Jason Gong:** Yeah, no, I think that makes sense.
+
+**Jason Gong:** I mean, I looked at the website too.
+
+**Jason Gong:** I saw the different clusters on there.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I guess like with, so like for what we do, it's like a little bit more like, not volume, but like we have, you know, like 50 something clients.
+
+**Jason Gong:** And it's like, yeah, at some point we need to come up with a process to do content strategies or to refresh content strategies for, you know, all of them really.
+
+**Jason Gong:** I mean, they, they, get one when they join and some of them are pretty good.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** you.
+
+**Jason Gong:** can kind of stay on them.
+
+**Jason Gong:** Some of them need to be kind of revised as you go.
+
+**Jason Gong:** So I think I'm just trying to see like kind of what your approach is a little bit to be able to do something like that.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Is there, yeah, I don't know.
+
+**Jason Gong:** Like how do you, like if you were doing something like that, you know, quite a lot of accounts doing content strategies.
+
+**Jason Gong:** Like how would you usually approach that?
+
+**Tavish Harrison:** Like where would you start?
+
+**Tavish Harrison:** Yeah, yeah.
+
+**Tavish Harrison:** Great question.
+
+**Tavish Harrison:** KPI.
+
+**Tavish Harrison:** Um, how does this all lead to a conversion?
+
+**Tavish Harrison:** So to say, I don't think that's all of it, but I like to start and kind of reverse engineer from there.
+
+**Tavish Harrison:** Right.
+
+**Tavish Harrison:** So who, who do you want on your site?
+
+**Tavish Harrison:** Um, that's either a simple question or sometimes it's like, we're not a hundred percent sure.
+
+**Tavish Harrison:** And then that will require, require additional research to get an idea about like, who's your target audience?
+
+**Tavish Harrison:** And then, uh, going back from there is what kind of questions are they asking?
+
+**Tavish Harrison:** Um, and about what are their like main topics?
+
+**Tavish Harrison:** Right.
+
+**Tavish Harrison:** And then I think once you can figure out what their main.
+
+**Tavish Harrison:** Topics that they want to rank for, or sorry, rank for, what they're interested in, right?
+
+**Tavish Harrison:** It's then kind of a breakdown of those topics themselves.
+
+**Tavish Harrison:** I kind of look at it as like a hierarchical, I'm sorry, I'm struggling with the word hierarchical old-fashioned, oh my goodness.
+
+**Tavish Harrison:** And essentially, it's like breaking it down by levels, right?
+
+**Tavish Harrison:** Like what's the informational stuff and really just kind of a funnel look on it, right?
+
+**Tavish Harrison:** Like what's top level, what are they just need information on, mid-level, what are they a little bit more curious about, and then bottom funnel, right?
+
+**Tavish Harrison:** Like what is leading them?
+
+**Tavish Harrison:** What's their solution, right?
+
+**Tavish Harrison:** So it really just like defining those core topics for the business itself that are kind of defined from the KPIs of like what they're targeting.
+
+**Tavish Harrison:** So we know the audience.
+
+**Tavish Harrison:** And then from there, we go out and do the keyword research and then figure out what questions they're asking exactly.
+
+**Tavish Harrison:** And then I like, personally, I like building a topical model of, I like going with like the pillar.
+
+**Tavish Harrison:** And cluster page approach, I think having kind of a big overview guide and then a bunch of smaller guides are fantastic.
+
+**Tavish Harrison:** There's going to be a mix of long tail keywords as well as base keywords, depending on the topic itself, as well as they're going to be some sort of semantic keywords depending on the page itself.
+
+**Tavish Harrison:** So within the research, kind of getting an idea about what that breakdown kind of looks like, that would generally come with like a competitor analysis.
+
+**Tavish Harrison:** Really looking through the content and seeing what is their view on things and then what is our unique view on things or how does our solution differ, right?
+
+**Tavish Harrison:** And then looking through that space on a topic and like how is things presented and then coming up with a strategy either with the team or I guess on my own, depending on like who I'm working with at the time of like, how do we think we can differ in this space?
+
+**Tavish Harrison:** Like there's going to be things we need to hit, like certain questions we need to answer, right?
+
+**Tavish Harrison:** Like if I want to learn how to get into bike racing, one of the questions I'm probably going to ask is how do I repair my own bike?
+
+**Tavish Harrison:** It's going to be a generalized one, but.
+
+**Tavish Harrison:** And I think kind of a different question that probably would come out of that that would be considered like classically more long tail is like, well, what kind of tires do I need to best perform in that?
+
+**Tavish Harrison:** And like, that's not exactly related to like, what are, how do I repair my tires?
+
+**Tavish Harrison:** But there's kind of some sort of semantic relation, right?
+
+**Tavish Harrison:** So what goes in all of that is basically breaking down the top model.
+
+**Tavish Harrison:** So you have, again, like you have a familiarity with this around like the cluster of contents, like the cloud of questions that I have, right?
+
+**Tavish Harrison:** Like, I like, Answer the Public has like a good visualization of this, if you've used that tool at all.
+
+**Tavish Harrison:** And it's basically just, yeah, it's a, you know, Neil Patel?
+
+**Jason Gong:** Yeah, yeah, it's, he owns that.
+
+**Tavish Harrison:** Or Neil Patel Digital, I think is the brand that owns it.
+
+**Tavish Harrison:** So yeah, breaking down the topic, breaking into stages, and then what are the basic questions I need to ask, and then connecting it all together.
+
+**Tavish Harrison:** And that's kind of the basic sentiment, but it all really starts with what the business is trying to accomplish.
+
+**Tavish Harrison:** So we can all, we can kind of like
+
+**Tavish Harrison:** Push the right people to the right places.
+
+**Tavish Harrison:** I'm personally not an advocate for just saying everyone needs to go here and buy our solution.
+
+**Tavish Harrison:** I think, and honestly, I think a lot of businesses would probably align with this too, but we want a customer experience.
+
+**Tavish Harrison:** We want to answer your questions and really we're here to help you.
+
+**Tavish Harrison:** There's business needs, of course, but what can we do to answer your questions, satisfy all your needs, and then show you, hey, we actually have a solution to your, whatever problem is you're facing, right?
+
+**Tavish Harrison:** Which is, there's going to be variance on all of that.
+
+**Tavish Harrison:** And so really it's just like coming down to like a topical modeling.
+
+**Tavish Harrison:** What do we need to rank for?
+
+**Tavish Harrison:** And then what does that actual like topic, what is it comprised of?
+
+**Jason Gong:** Yeah, that makes sense.
+
+**Jason Gong:** And then I guess like, what are the main entities?
+
+**Jason Gong:** Like when you think about like an SEO strategy, again, we're trying to like do it for every account, right?
+
+**Jason Gong:** Like at the foundational level, like.
+
+**Jason Gong:** Like, what are the pieces that you need to, like, make sure, you know, the teams are set up for success, you think?
+
+**Tavish Harrison:** That the team, sorry, I could take that a few ways, so I just want to, like.
+
+**Jason Gong:** Yeah, that's fair.
+
+**Tavish Harrison:** What I'm thinking about is more, like, I guess I just want to make sure we have all our bases covered.
+
+**Jason Gong:** So, like, you know, like for every team to kind of be set up successfully, you know, because at the end of the day, we're publishing content for SEO, right?
+
+**Jason Gong:** Like, I think all of them need, like, I guess a bunch of things, like, you know, like a content strategy is probably one.
+
+**Jason Gong:** think they need, like, some sort of, like, audit, you know, that's, like, concurrently running.
+
+**Jason Gong:** I guess it's just, like, you know, like, if you just had a blank slate to, like, and we have literally, like, 50 different clients and, like, maybe 10 different, like, client accounts.
+
+**Jason Gong:** And they're all kind of just, like, they're publishing content every day and maybe not thinking about SEO too much.
+
+**Tavish Harrison:** Like, yeah, what is the kind of system you're setting?
+
+**Jason Gong:** For them to make sure they kind of have everything to be successful.
+
+**Tavish Harrison:** Thank you for clarifying.
+
+**Tavish Harrison:** Totally makes sense.
+
+**Tavish Harrison:** At least I believe I see what you're saying.
+
+**Jason Gong:** So let me know if I'm a little off track here.
+
+**Jason Gong:** Yeah.
+
+**Tavish Harrison:** So strategy is one, right?
+
+**Tavish Harrison:** Like know your audience.
+
+**Tavish Harrison:** It is marketing after all.
+
+**Tavish Harrison:** Just how we execute on that is a little bit different.
+
+**Tavish Harrison:** Know your audience and then answer their questions.
+
+**Tavish Harrison:** So that comes down to like content strategy, technical basis, right?
+
+**Tavish Harrison:** I'm always going to be a huge advocate for cleaning up, I guess you could call it technical debts of sorts when it comes to like SEO, right?
+
+**Tavish Harrison:** Like Google and AI search kind of look at it the same way, or at least in a similar fashion, right?
+
+**Tavish Harrison:** Your stuff has to be running well.
+
+**Tavish Harrison:** Clients have to, or sorry, users have to make sure, you have to make sure they're having a good like on-page experience, right?
+
+**Tavish Harrison:** Like no one wants to go to a website and this is a crazy, weird way to look at it now, but it's just how it is.
+
+**Tavish Harrison:** Is
+
+**Tavish Harrison:** That no one wants to go to a website and wait seven seconds for it to load.
+
+**Tavish Harrison:** They're going to just jump off, right?
+
+**Tavish Harrison:** That's just the reality.
+
+**Tavish Harrison:** So technical basis, and that's specifically to Core Web Vitals, but let me not get too much in the weeds there.
+
+**Tavish Harrison:** Technical basis, as well as content strategy itself.
+
+**Tavish Harrison:** then, yeah, I think those are kind of the big things.
+
+**Tavish Harrison:** I think, like, having a geo playbook, which just going off your job, the job description itself is going to be another core facet, although that's going to really take a lot more experimentation when it comes into it.
+
+**Tavish Harrison:** I don't think anyone has the set answer yet, but I've been hearing some stuff that shows promise.
+
+**Tavish Harrison:** So I'd say, like, how we kind of approach that in a certain way, and I say that because that's kind of a mix of technical and content, and as well as, like, a more branding thing, right?
+
+**Tavish Harrison:** Like, an interesting part about, at least for the AI search, is unlinked brand mentions.
+
+**Tavish Harrison:** And like AI using that as kind of a proxy of, you know, are people talking about your brand, which has always kind of been a core part of SEO in its relation to like the bigger marketing function.
+
+**Tavish Harrison:** So I think at the very basic level, like technical and content strategy, and then I would say like execution within that content itself.
+
+**Tavish Harrison:** I think that's where, you know, obviously growthx is looking and self was like, how do we build the engine out within that?
+
+**Tavish Harrison:** And I think that's a more detailed answer, but I want to like dive too far in the weeds on you.
+
+**Jason Gong:** Okay, no, that's awesome.
+
+**Jason Gong:** I think, yeah, I mean, maybe it's like changing gears a little bit.
+
+**Jason Gong:** Like, do you have a take on kind of what LLMs are doing to search and kind this whole industry, I guess, that exists for it?
+
+**Tavish Harrison:** Yeah, I love it, personally.
+
+**Tavish Harrison:** I think, honestly, LLMs themselves and like, and I...
+
+**Tavish Harrison:** I had the hesitation at first because I'm biased.
+
+**Tavish Harrison:** Honestly, when LLMs became commercially available or Gen.AI, I was just like, oh, this is the new internet.
+
+**Tavish Harrison:** I think in a lot of ways it's going to become that, right?
+
+**Tavish Harrison:** I think the next frontier, what is required is building it into workflows and then connecting that into your ROI, which is super interesting of why I think growthx is super cool.
+
+**Tavish Harrison:** But, yeah, I really like it, honestly.
+
+**Tavish Harrison:** I think what SEO had become for a long time, and Google's been trying to make the transition back for a while now, is SEO had become more of a technical practice of how you can get around the system.
+
+**Tavish Harrison:** And that's not to apply any kind of maliciousness to it.
+
+**Tavish Harrison:** It's just like people had businesses they needed to run.
+
+**Tavish Harrison:** They just, how do I convert people?
+
+**Tavish Harrison:** How do I get them here?
+
+**Tavish Harrison:** We adapt to the standards that Google kind of set.
+
+**Tavish Harrison:** I think a lot of...
+
+**Tavish Harrison:** What's happening now.
+
+**Tavish Harrison:** And this goes back to honestly, like September of 2023.
+
+**Tavish Harrison:** That was the Google helpful content update, which a lot of people had a lot of problems when that first hit.
+
+**Tavish Harrison:** And that was a really big update.
+
+**Tavish Harrison:** So their emphasis on like EEAT.
+
+**Tavish Harrison:** Do you know that acronym?
+
+**Tavish Harrison:** Sorry.
+
+**Tavish Harrison:** Okay, cool.
+
+**Tavish Harrison:** Sorry.
+
+**Tavish Harrison:** I just don't want to like start using jargony stuff.
+
+**Tavish Harrison:** And like, you know, so they've been moving towards EEAT, higher quality.
+
+**Tavish Harrison:** And arguably, there's some stuff in there that I would say is like a bit unfair.
+
+**Tavish Harrison:** I think you could say about like some of the practices or it can at least be construed as being unfair.
+
+**Tavish Harrison:** But I think with the advent of LLM and where Google's been going, I think it's getting us back to a more human style of interaction.
+
+**Tavish Harrison:** Right.
+
+**Tavish Harrison:** That would be kind of my ultimate belief.
+
+**Tavish Harrison:** Right.
+
+**Tavish Harrison:** Like I want to find quality, man.
+
+**Tavish Harrison:** And like there's, there's, it didn't happen for any bad reason that Reddit started ranking a ton on Google after that helpful content update.
+
+**Tavish Harrison:** And it's no coincidence that.
+
+**Tavish Harrison:** It's ranking a ton in the AI citations for like AI search.
+
+**Tavish Harrison:** We're getting back to a more trusted model.
+
+**Tavish Harrison:** At least like that seems to be the direction.
+
+**Tavish Harrison:** And I guess one thing to know about me personally, I am an optimist at my core and I'm a dreamer.
+
+**Tavish Harrison:** So when I see stuff like this, I'm like, yes, we're getting back to the human side of things to where we're bringing quality back.
+
+**Tavish Harrison:** Does that actually paint the full picture?
+
+**Tavish Harrison:** I don't know yet.
+
+**Tavish Harrison:** I think the jury's still out on that one.
+
+**Tavish Harrison:** I hope it does, but it's a machine and it's a machine reading language for right now, right?
+
+**Tavish Harrison:** Very advanced algorithms, neural nets, which I'm not an expert in at all, but I have like a faint idea of what those are.
+
+**Tavish Harrison:** It's still a machine.
+
+**Tavish Harrison:** And I don't think we're close to the singularity from my understanding, but also not an AI researcher.
+
+**Tavish Harrison:** So I'm not, maybe we are, but from what I can see, man, I think it's adding, it's getting back to a more human element to where hopefully the internet becomes a little less saturated and like people are getting quality answers, right?
+
+**Tavish Harrison:** Cause when I go to Google, I want to just make sure, like, I want to trust its source.
+
+**Tavish Harrison:** I just want to make sure I'm getting a good answer so I can, like, accomplish the thing, right?
+
+**Tavish Harrison:** Like, if my son is having some sort of weird thing and I'm a new parent, I don't really know, like, I don't want to, like, have to go verify all my sources.
+
+**Tavish Harrison:** I want to, like, just trust that I can deal with whatever issue is coming up or if I want to know if I'm just freaking out for no good reason.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And, like, I guess, have you gotten into kind of, like, trying to optimize it yet or it sounded like you guys were looking at it but maybe didn't go too deep?
+
+**Tavish Harrison:** I was trying, honestly.
+
+**Tavish Harrison:** We just didn't have a way to measure it and that was kind of the most problematic thing.
+
+**Tavish Harrison:** Like, there's some, like, apparently you can get, there are some referral sources I've seen in GA4.
+
+**Tavish Harrison:** I don't know if that's the instance y'all are using but I'm sure on other analytics platforms, they're showing up in their referrals.
+
+**Tavish Harrison:** But a lot, from what I understand, coming, like, more direct.
+
+**Tavish Harrison:** Sorry, as far as like the acquisition channel, they're being attributed as direct because I'm coming from the LLMs.
+
+**Tavish Harrison:** So I can't say I knew like I had a good measurement around that, but that's kind of where I think I would really want to experiment a lot.
+
+**Tavish Harrison:** And I think that's where my goals would personally align with GrowthX.
+
+**Tavish Harrison:** Like we're all trying to answer the question, right, and write the playbook and figure out what's working.
+
+**Tavish Harrison:** So I think it first starts with how you measure it, and we weren't able to exactly measure it.
+
+**Tavish Harrison:** I had to do a lot of manual stuff at the time, and I was still kind of trying to learn how to really like prompt myself, as well as get an idea around like who or how would the normal how would normal people interact with an LLM, right?
+
+**Tavish Harrison:** Like if I'm jumping into it every day, I'm trying to prompt for a specific reason.
+
+**Tavish Harrison:** And then I don't know if I'm going to go ask it exactly, given my role, how it more basic conversational things, right?
+
+**Tavish Harrison:** Like I'm going to ask it a lot more technical focus.
+
+**Tavish Harrison:** Questions versus like, it may just be like, where's the best place to eat sushi around me?
+
+**Tavish Harrison:** Which is a very practical thing.
+
+**Tavish Harrison:** that's kind of like the classic example you would see on like how Google works and how to rank on Google.
+
+**Tavish Harrison:** So to answer all that, I was trying some stuff.
+
+**Tavish Harrison:** I just couldn't really formally get a measurement on it besides my own manual accounting of it, which is, it was unfortunate.
+
+**Tavish Harrison:** And my next goal before the reduction in force was to start trying to get some sort of citation measurement tool because they've been blowing up a lot.
+
+**Tavish Harrison:** And I think there's some people doing some really great work out there trying to get these measurements.
+
+**Tavish Harrison:** But that was the next step.
+
+**Tavish Harrison:** And of course, I was saying, well, complete it.
+
+**Jason Gong:** Got it.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** mean, everyone's trying to figure out what to do.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** And I know we're over.
+
+**Jason Gong:** Maybe we have time for like one question.
+
+**Jason Gong:** I apologize.
+
+**Jason Gong:** But no, no worries at all.
+
+**Jason Gong:** Thank you for the extra time.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** OK, cool.
+
+**Jason Gong:** I mean, yeah.
+
+**Jason Gong:** Let me talk to the.
+
+**Tavish Harrison:** Oh, I'm sorry.
+
+**Tavish Harrison:** I don't think I heard you right.
+
+**Tavish Harrison:** Did you say that you wanted to give me time to ask questions?
+
+**Jason Gong:** Yeah, yeah.
+
+**Jason Gong:** I got time for one more.
+
+**Jason Gong:** One question.
+
+**Tavish Harrison:** Oh, yeah, I do want to leave more time for it, but.
+
+**Tavish Harrison:** Sorry, I heard.
+
+**Tavish Harrison:** I thought you said you had one more question.
+
+**Jason Gong:** was like, yeah, no, fire away, man.
+
+**Tavish Harrison:** It's too ambiguous, I think.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** It could be how I heard it, an answer for you.
+
+**Jason Gong:** Yeah.
+
+**Tavish Harrison:** What do you think looks like in this role?
+
+**Tavish Harrison:** What does success look like in the first 90 days?
+
+**Tavish Harrison:** Or like, or I don't know, what's your time frame on that?
+
+**Jason Gong:** Like, what do you want to see success be?
+
+**Jason Gong:** Or how fast do you want someone to jump in, I guess?
+
+**Jason Gong:** Yeah, I mean, I think the answer for that is like as fast as, you know, they can go.
+
+**Tavish Harrison:** Don't grow a little too fast.
+
+**Jason Gong:** We're like bottleneck at how many clients we can take every week, which is two.
+
+**Jason Gong:** And I want to make that three or four.
+
+**Jason Gong:** And like, you know, of the many things that need to change, and like how we set ourselves to do like SEO and GEO successfully is probably one of the main ones.
+
+**Jason Gong:** So, I mean, I would hope like somebody comes in and just like can start building that leverage right away.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Okay, cool.
+
+**Tavish Harrison:** I didn't want to interrupt or anything just in case.
+
+**Tavish Harrison:** Yeah, I mean, honestly, that sounds like a lot of fun.
+
+**Tavish Harrison:** I would love, I've always wanted to see, or at least like since November of 2023, man, I want to see a smart content library exist.
+
+**Tavish Harrison:** I think it's like, I think it's possible, man.
+
+**Tavish Harrison:** Honestly, I mean, cost-wise, I don't know what that personally looks like.
+
+**Tavish Harrison:** Hopefully, there's some sort of breakthrough that brings that cost down or maybe it's not that bad.
+
+**Tavish Harrison:** But I personally would like to be an author in that story and just really get that to the point where like you have this smart automation system.
+
+**Tavish Harrison:** Some of that tracks everything by topic, helps you with your internal link and just like automates the hell out of SEO.
+
+**Tavish Harrison:** Because I think a lot of that work can be taken away personally.
+
+**Tavish Harrison:** Getting there could be a bit of a challenge, but then it kind of leaves you up to the creative thing.
+
+**Tavish Harrison:** Like, again, like if you cover the basis when it comes or basis when it comes to like topical authority, you can get really creative and really help people out, which is honestly, I think it's fantastic.
+
+**Tavish Harrison:** But you have, I don't know if you have a hard stop exactly.
+
+**Tavish Harrison:** So I don't want to go too far.
+
+**Jason Gong:** Yeah, I do have to, I do have to hop, but.
+
+**Tavish Harrison:** Okay, no problem.
+
+**Jason Gong:** Like, I mean, that's kind of why we built the company.
+
+**Jason Gong:** Because I do think like most of the things that have to do with content marketing, especially can be kind of like automated and augmented, right?
+
+**Jason Gong:** So like one really smart person kind of multiply themselves.
+
+**Jason Gong:** Yeah, that's what we're, that's what we're trying to do.
+
+**Jason Gong:** So yeah, let me know if you, if you have any more questions.
+
+**Jason Gong:** So again.
+
+**Jason Gong:** I'll try to get back to you as soon as I can.
+
+**Tavish Harrison:** Sure.
+
+**Tavish Harrison:** Yeah.
+
+**Tavish Harrison:** I don't know if I had your email at all.
+
+**Tavish Harrison:** I do have a couple other questions if you don't mind, but I can certainly just email them to you if that's cool.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Or just email them.
+
+**Jason Gong:** I think if you email, I think you must have like Morelia's email maybe or Andy's email.
+
+**Jason Gong:** They'll just loop me in.
+
+**Jason Gong:** I think I see those anyway.
+
+**Jason Gong:** It's just not visible.
+
+**Tavish Harrison:** Okay.
+
+**Jason Gong:** Not a problem, man.
+
+**Tavish Harrison:** I can do that.
+
+**Jason Gong:** All right.
+
+**Jason Gong:** Thank you so much for your time.
+
+**Jason Gong:** Have a good weekend.
+
+**Tavish Harrison:** Cool.
+
+**Tavish Harrison:** Thank you, Jason.
+
+**Tavish Harrison:** Appreciate it, man.
+
+**Jason Gong:** Have a great rest of your weekend.
+
+**Jason Gong:** Bye.

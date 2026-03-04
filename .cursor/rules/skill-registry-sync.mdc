@@ -1,0 +1,47 @@
+---
+description: Keep the skills tables in CLAUDE.md and AGENTS.md in sync with .cursor/skills/
+alwaysApply: false
+globs:
+  - CLAUDE.md
+  - AGENTS.md
+  - .cursor/skills/*/SKILL.md
+---
+
+# Skill Registry Sync
+
+**Trigger:** Any time a skill is created, renamed, or deleted in `.cursor/skills/`.
+
+Skills are registered in two places that must stay in sync:
+- `CLAUDE.md` — skills table (for Claude Code)
+- `AGENTS.md` — skills table (for Cursor agents)
+
+## When adding a new skill
+
+After creating `.cursor/skills/<name>/SKILL.md`:
+
+1. Read the `name` and `description` from the SKILL.md frontmatter
+2. Build a trigger summary from the description (short phrases, quoted)
+3. Add a row to **both** `CLAUDE.md` and `AGENTS.md` in the skills table:
+   ```
+   | Skill Name | `.cursor/skills/<name>/SKILL.md` | trigger phrases |
+   ```
+4. Keep rows in the same order in both files
+
+## When removing a skill
+
+After deleting a skill directory from `.cursor/skills/`:
+
+1. Remove the matching row from **both** `CLAUDE.md` and `AGENTS.md`
+
+## When renaming or updating a skill
+
+After changing a skill's name, path, or description:
+
+1. Update the matching row in **both** `CLAUDE.md` and `AGENTS.md`
+
+## Rules
+
+- Never leave one file updated and the other stale
+- No duplicate rows (each skill appears exactly once)
+- No non-skill entries like shared calendar names ("Team GrowthX")
+- The two tables must be identical — same rows, same order

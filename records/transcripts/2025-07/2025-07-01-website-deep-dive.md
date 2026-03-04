@@ -1,0 +1,1016 @@
+# Website Deep Dive
+
+<metadata>
+date: 2025-07-01
+time: 17:59 UTC
+duration: 41 minutes
+organizer: Kirkland Gee
+participants: Jakub Rudnik, Dave Capone, Andi Bailey, Kirkland Gee, Anthony Mangia, Filip Babic
+fathom_recording_id: 71615630
+fathom_url: https://fathom.video/calls/341511906
+share_url: https://fathom.video/share/J8T_yWRfzdbTvsSTMKDLTWKm2J84VD1G
+source: fathom
+enriched_on: 2026-03-03 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Innerwell aligned on a three-phase SEO strategy to drive traffic growth through technical improvements and content expansion. Phase 1 focuses on fixing critical technical issues (sitemap, duplicate H1 tags, blog pagination, cloaking concerns) and expanding city-level pages from 100 to 250. Phase 2 involves restructuring content using CCRR (cut, consolidate, refresh, refactor), removing "blog" from URLs for editorial content, enriching thin provider pages, and building condition-focused hubs starting with anxiety and depression. Phase 3 scales through topical authority building (conditions as content hubs) and programmatic provider pages generated across combinations of attributes (city, specialty, insurance, gender), with Dave Capone targeting $200-$300 customer acquisition cost through predictable traffic and conversion forecasts.
+
+---
+
+## Context
+
+Innerwell is a ketamine therapy platform and teletherapy provider that operates through a network of specialized clinicians. GrowthX handles content strategy and SEO for Innerwell's website. This meeting occurred after GrowthX's initial discovery phase — Dave Capone (20+ years in SEO, prior experience at Healthline and other major health publishers) conducted a comprehensive technical SEO audit and proposed a phased growth strategy. Filip Babic, Innerwell's technical project owner, joined to represent their engineering capacity and discuss implementation feasibility.
+
+The core business opportunity centers on organic search traffic: Innerwell has structured provider data (treatment methods, areas of focus, insurance, gender, location, clinician specialties) stored in an EHR and middleware database, but hasn't leveraged it for SEO. Dave's strategy aims to build topical authority around mental health conditions (anxiety, depression, ADHD, soon pain management) while simultaneously generating hundreds or thousands of provider-matching pages programmatically. This requires both content creation on the editorial side and careful technical architecture decisions on the implementation side.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Major engagement scope clarified: three-phase SEO implementation covering technical fixes, content restructuring (CCRR methodology), and programmatic scale. Extends beyond initial discovery into ongoing delivery.
+- Technical complexity requires close collaboration: Kirkland Gee and Filip Babic must align on provider data accessibility, schema markup (local business schema for providers), and technical architecture (client-side vs. server-side rendering, dynamic slug systems for provider page generation).
+- Content strategy maps to Healthline/major health publisher playbook Dave has executed before. Model is proven but requires discipline on topical authority building and content prioritization (anxiety/depression first).
+- Actionable feedback loop: Dave committed to making tech SEO recommendations "more digestible" and actionable by specifying changes per page/section before Thursday planning call with Innerwell engineers.
+
+**To CheckThat:**
+- Indirect relevance: This engagement demonstrates AEO opportunity in healthcare vertical (AI visibility for mental health/therapy-related queries). Innerwell's quiz/test format for condition screening (depression, anxiety) could benefit from AI-driven search optimization.
+
+**To GrowthX Business Development:**
+- Account health signal: Client leadership (Anthony Mangia) is highly engaged, requesting detailed metrics frameworks, and planning to expand product offering (pain management program within 2-3 months). Strong expansion signal.
+- Reference value: If Innerwell hits $200-$300 CAC targets, health/teletherapy vertical becomes referenceable case study for CheckThat and content strategy services.
+- Implementation risk: Success hinges on Innerwell's engineering capacity and Dave Capone's ability to forecast accurately. Detailed timeline and metrics due by end of week clarifies if expectations are aligned.
+
+---
+
+## Overview
+
+- Three-phase SEO strategy: 1) Low-hanging fruit & technical fixes, 2) Foundation building, 3) Scaling for growth
+- Expand city-level pages from 100 to 250 for broader coverage
+- Implement technical SEO fixes, including sitemap updates and H1 tag corrections
+- Develop a structured content strategy for conditions and provider pages
+- Create a detailed timeline and metrics for measuring success and ROI
+
+---
+
+## Key Topics
+
+### Technical SEO Improvements
+
+  - Update sitemap to include all pages (currently only \~200 pages indexed)
+  - Fix duplicate H1 tags, particularly the "Log into my account" issue
+  - Address duplicate pages and improve blog post accessibility
+  - Incorporate SEO keywords into H2 and H3 tags
+  - Switch client-side JavaScript rendering to server-side for better crawlability
+  - Resolve potential cloaking issues on the ketamine page
+
+### Content Strategy and Expansion
+
+  - Increase city-level pages from 100 to 250 for broader coverage
+  - Implement CCRR strategy: Cut, Consolidate, Refresh, and Refactor content
+  - Introduce new category structure focusing on conditions and cities
+  - Remove "blog" from URLs for medical/informational pages
+  - Unify and enrich clinician and provider pages
+  - Launch redesigned layout for condition pages with comprehensive topic coverage
+
+### Provider Data and Page Generation
+
+  - Utilize existing structured data on providers (treatment methods, areas of focus, services, insurance, gender)
+  - Develop a strategy for generating provider pages based on multiple attributes (city, specialty, insurance, etc.)
+  - Implement schema markup for provider pages (local business schema)
+  - Create a system to handle scenarios with few or no providers for specific attribute combinations
+
+### Navigation and User Experience
+
+  - Update website navigation to reflect new content structure and priorities
+  - Implement cross-pollination between products (e.g., showing relevant providers on condition pages)
+  - Develop quizzes or tests for conditions to improve user engagement and lead generation
+
+### Metrics and Timeline
+
+  - Create a detailed content forecast and prioritize condition categories (starting with anxiety and depression)
+  - Develop input metrics (e.g., articles published per week/month) and output metrics (traffic growth, customer acquisition cost)
+  - Set goals for reducing customer acquisition cost to $200-$300 range
+
+---
+
+## Action Items
+
+**Dave Capone (GrowthX)**
+- Create traffic/revenue predictions based on winnable search volume. Obtain cost per session and conversion rate data from Innerwell to model CAC impact.
+- Work with Jakub Rudnik on detailed content forecast. Prioritize anxiety and depression hubs as initial focus. Request final priority list from Innerwell for additional condition categories.
+- Provide detailed, actionable tech SEO recommendations for each section: sitemap updates, H1 duplicate fixes, duplicate page consolidation, H2/H3 keyword incorporation, JavaScript rendering approach, cloaking resolution on ketamine page. Integrate specific recommendations into shared documentation.
+
+**Jakub Rudnik (GrowthX)**
+- Collaborate with Dave Capone on content forecast and timeline for condition-focused content hubs.
+
+**Andi Bailey (GrowthX)**
+- Send summary of all action items and deliverables to Innerwell team with clear ownership and deadlines.
+
+**Filip Babic (Innerwell)**
+- Connect with front-end engineer by Thursday planning call to assess tech SEO feasibility and identify any blockers. Bring engineer into group communication channel if needed for real-time alignment.
+
+---
+
+## Transcript
+**Kirkland Gee:** There he is.
+
+**Kirkland Gee:** Hello.
+
+**Filip Babic:** Oh, I think I'm...
+
+**Filip Babic:** Test, test.
+
+**Kirkland Gee:** Hello, can you hear me?
+
+**Filip Babic:** Yeah, I can hear now.
+
+**Filip Babic:** Sorry.
+
+**Filip Babic:** I opened the headphones, they connected, but I didn't put them in there.
+
+**Kirkland Gee:** No problem at all.
+
+**Kirkland Gee:** Also, hey, my name is Kirkland.
+
+**Kirkland Gee:** I'm one of the engineers at GrowthX.
+
+**Kirkland Gee:** So I'm joining today just to kind of help talk through some of the technical needs to get all this stuff accomplished.
+
+**Filip Babic:** Sounds good.
+
+**Kirkland Gee:** Nice to meet you.
+
+**Kirkland Gee:** Yeah, same to you.
+
+**Dave Capone:** Hey, how's everybody doing?
+
+**Filip Babic:** Okay, I'm doing good.
+
+**Filip Babic:** And you?
+
+**Dave Capone:** Am on mute?
+
+**Jakub Rudnik:** No, I'm hearing you.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** Got it.
+
+**Dave Capone:** Okay.
+
+**Andi Bailey:** Hi, Philip.
+
+**Andi Bailey:** How's it going?
+
+**Filip Babic:** Fine.
+
+**Filip Babic:** Pretty good.
+
+**Andi Bailey:** And you?
+
+**Andi Bailey:** Good.
+
+**Andi Bailey:** Where are you based?
+
+**Andi Bailey:** I saw Anthony said it's late your time.
+
+**Filip Babic:** I'm based in Croatia, Zagreb, Europe.
+
+**Andi Bailey:** So it's like 8 p.m.
+
+**Andi Bailey:** my time now.
+
+**Andi Bailey:** So it's good.
+
+**Andi Bailey:** It's good.
+
+**Andi Bailey:** I'm used to Okay.
+
+**Andi Bailey:** Well, thank you for joining us so late.
+
+**Andi Bailey:** Just to give you a little context, we can do a round of intros and set the scene for this.
+
+**Andi Bailey:** We can go first and then maybe you can give us a little context on your role so we can make sure we're, you know, speaking the right language for you.
+
+**Andi Bailey:** But I'm Andi.
+
+**Andi Bailey:** I lead customer operations for GrowthX.
+
+**Andi Bailey:** I had a call last week with Anthony and Andi kind of helping define this next round of work in terms of where we are with brand voice.
+
+**Andi Bailey:** Performance on deliverables, things like that, and starting to think about how we're going to shift that strategy going forward.
+
+**Andi Bailey:** And then just to really quickly give you everybody else's roles, Jakub actually leads the Innerwell account on a day-to-day basis.
+
+**Andi Bailey:** So he'll be your main point of contact and is the person that talks most regularly to Anthony and Andy.
+
+**Andi Bailey:** And then we have Dave Capone on the call, who is our analytics kind of interface for thinking about website performance, refreshes, and he's been taking a look into the kind of every page on the Innerwell site, and he has some insights.
+
+**Andi Bailey:** So that's where we're going to start.
+
+**Andi Bailey:** We also have like a higher level strategy, which depending on how far we get, we can talk about as a phase two.
+
+**Andi Bailey:** And then finally, we have Kirkland on the call, and Kirkland is...
+
+**Andi Bailey:** Our client operations engineer who is going to be thinking about kind of the data structure as we're starting to ping your like call on different parts of your website and your back end data.
+
+**Filip Babic:** Sounds good.
+
+**Filip Babic:** Thanks.
+
+**Filip Babic:** Thanks, Sandy, for the introduction.
+
+**Filip Babic:** So, I'm Filip, I'm a project owner here, usually taking care about the core platform and the website from the technical side leading the development team.
+
+**Filip Babic:** So, yeah, I did a quick scan of what you talked about, but I'm not 100% into the project.
+
+**Filip Babic:** So, you have some like overview, as you mentioned, or something that we can just go high level over it, so that I can get a better understanding of what we are trying to do, especially from the technical side, that would be great.
+
+**Andi Bailey:** Yeah, perfect.
+
+**Andi Bailey:** So, there's going to be two phases and
+
+**Andi Bailey:** Anthony, I saw you joined.
+
+**Andi Bailey:** Hi.
+
+**Andi Bailey:** We jumped into intros, but there are going to be two phases to what we're proposing.
+
+**Andi Bailey:** The first is going to be kind of continuing on the path that we have been on in terms of deliverables around like cities, states, location-based ketamine therapies.
+
+**Andi Bailey:** And then there's also a piece to that phase one that is cleaning up like the structure of the websites and things like that.
+
+**Andi Bailey:** And so I think that's the main thing that we'll talk about today.
+
+**Andi Bailey:** And then if we have time, we also want to touch Anthony a little bit on the phase two, which will be that larger push of data.
+
+**Andi Bailey:** And that's actually where Dave and Kirkland will also spend some time like on kind of how we're going to do it.
+
+**Filip Babic:** All right, Dave, the floor is yours.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** Thank you for setting up.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** So, hey, everybody.
+
+**Dave Capone:** I'm Dave Capone.
+
+**Dave Capone:** Yeah, so I don't know if you had a chance to watch the Loom or go through the document that I set up for everyone yesterday, but basically, let me go ahead and share my screen real quick, and we can get through this.
+
+**Dave Capone:** Cool.
+
+**Anthony Mangia:** Everyone see my screen?
+
+**Dave Capone:** Yep.
+
+**Dave Capone:** Awesome.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** So, this is a comprehensive SEO roadmap.
+
+**Dave Capone:** This is really focused on two different facets here.
+
+**Dave Capone:** We've got a technical SEO audit where I've gone through and looked at, you know, I've been in SEO over 20 years, so I've found a lot of things that are concerning to me that I'd like to bring to your attention.
+
+**Dave Capone:** I'll start from a high level, and if we need to dig in, we can.
+
+**Dave Capone:** I've actually have some of the additional contacts at the bottom of the page in the document there.
+
+**Dave Capone:** And then, two, it's a more comprehensive content strategy that really breaks things up into two plays.
+
+**Dave Capone:** One,
+
+**Dave Capone:** It's really geared towards topical growth, so really kind of building on conditions similarly to like a Healthline model.
+
+**Dave Capone:** And then two is the programmatic play where we'll attack cities and providers at the same time.
+
+**Dave Capone:** So, cool.
+
+**Dave Capone:** I'll go into phase one now.
+
+**Dave Capone:** So, phase one is all about low-hanging fruit, right?
+
+**Dave Capone:** So, for this, we want to continue to publish ketamine therapy content.
+
+**Dave Capone:** We know that that's been the top priority, and we're gaining traction in there.
+
+**Dave Capone:** So, we want to make sure that we can hit at least 100 of the top city pages for y'all and be able to build those out.
+
+**Dave Capone:** The second part of phase one would be to fix the low-lift technical SEO issues that we found.
+
+**Dave Capone:** Philip, would it be helpful just to talk from a high level, or do you want me to kind of dig into each one of these?
+
+**Filip Babic:** We can go high-level.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** Well, so, from the technical side...
+
+**Dave Capone:** I am not sure if the sitemap is updating, so when I looked at it, there was only about 200-ish pages in there.
+
+**Dave Capone:** I definitely know there's more than that on the website, so that might be something to look into.
+
+**Dave Capone:** Google does look at the sitemap as a key indicator of what your top pages are for your site, so I think that's something that should be fixed right away.
+
+**Dave Capone:** There were duplicate H1s found on most of the landing pages, so it looks like in the hamburger menu when you click that, and open it, the log into my account text is actually being wrapped in an H1, and not ideally, it's the one that Google finds first.
+
+**Dave Capone:** So typically, when Google indexes pages, when it finds links or when it finds heading tags, it usually picks the first one it finds and sticks to that.
+
+**Dave Capone:** So all the H1s on all of your pages are bound to log into my account, so I would fix that right away as well.
+
+**Dave Capone:** There are a few pages that I found that have duplicate pages.
+
+**Dave Capone:** We found that the current way that the blog pages are set up, there is no category for each of the blog posts.
+
+**Dave Capone:** So there is a read more button on the blog page, which loads more blogs.
+
+**Dave Capone:** Typically, when I look at something like that, Google can't click that page.
+
+**Dave Capone:** So when you click on your load more, Google can't do that.
+
+**Dave Capone:** So all of those blogs that are below that load more section are orphaned.
+
+**Dave Capone:** So there's no actual physical link to those pages, except if you have like a article carousel.
+
+**Dave Capone:** So I would fix that right away.
+
+**Dave Capone:** An easy way to do that is to either just load all the blog posts in one shot, provide pagination.
+
+**Dave Capone:** So you can add pages and pagination to allow Google to crawl those pages, or you can create category pages.
+
+**Dave Capone:** With that route where we're creating category pages to load all the blogs within, which just gives them a little bit more topical relevance and defines your software a little bit better.
+
+**Dave Capone:** We found that the H2s and H3s were basically not, they weren't including any SEO keywords in them.
+
+**Dave Capone:** So one of them was just like learn more and another one was something else.
+
+**Dave Capone:** I can get into that a little bit later.
+
+**Dave Capone:** There were some signs that there were some client side JavaScript that was being rendered and Google can't crawl any of that content that's being rendered client side.
+
+**Dave Capone:** So we'd want to switch that over to server side so that Google can see that.
+
+**Dave Capone:** And then I did find that the ketamine page is showing different content to Google than it is to its users.
+
+**Dave Capone:** That is a concern to me because that's technically cloaking, especially when the content is drastically different.
+
+**Dave Capone:** And Google will penalize for that.
+
+**Dave Capone:** So if Google does find out that you are cloaking or if someone reports to you that you're cloaking, that could be a potential issue that causes that page not to rank or to hurt the positions of those pages.
+
+**Anthony Mangia:** Might just be part of the A-B test we're running for conversion rate optimization, though, not something like SEO manipulation.
+
+**Anthony Mangia:** Is there a different way to do that?
+
+**Dave Capone:** Yeah, if it's just an A-B test, I would exclude Google from the A-B test.
+
+**Anthony Mangia:** But Google's, like, main traffic stars.
+
+**Dave Capone:** Well, I would exclude Google from indexing that page.
+
+**Dave Capone:** So they shouldn't be able to see the test.
+
+**Dave Capone:** It should be anytime, like, a crawler comes to see Google, it should give the A and not the B.
+
+**Dave Capone:** Just to make sure that's consistent with what you're showing your customers across the board, yeah.
+
+**Anthony Mangia:** Okay.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** That rounds up phase one.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** Uh-huh.
+
+**Dave Capone:** Is there any questions here?
+
+**Anthony Mangia:** I guess the only thing I would push on is, is it possible for us?
+
+**Anthony Mangia:** What's kind of the scale limiting factor when it comes to the number of city-level pages we want to launch?
+
+**Anthony Mangia:** Where did we kind of draw the line at 100?
+
+**Anthony Mangia:** Like, you know, is there opportunity to push that further so that we can grow faster, that kind of a thing?
+
+**Dave Capone:** Yeah, so 100 is to the point where you start getting, where the traffic has diminishing returns on them.
+
+**Dave Capone:** So, like, most of the traffic that you're going to get, it will be from, like, the top 100.
+
+**Dave Capone:** We can totally expand that out.
+
+**Dave Capone:** That's just a number that we can add to.
+
+**Dave Capone:** I'd say 250 or 300, and then, you know, scale from there.
+
+**Dave Capone:** But 100 was just a good point for us to, theoretically, if it's taking us a couple weeks to do, we can get 100 within those couple weeks.
+
+**Anthony Mangia:** But I can push back.
+
+**Anthony Mangia:** think only thing happens.
+
+**Anthony Mangia:** like,
+
+**Anthony Mangia:** If we can go for 250.
+
+**Anthony Mangia:** That's great.
+
+**Dave Capone:** Yeah, that would be great.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** All right.
+
+**Dave Capone:** So let me comment here.
+
+**Dave Capone:** Make sure we see.
+
+**Andi Bailey:** Dave, I'm taking notes so I can do all these.
+
+**Dave Capone:** 256.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** You see me typing here.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** All right.
+
+**Dave Capone:** So should we move on to phase two?
+
+**Andi Bailey:** Yes.
+
+**Dave Capone:** All right.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** So phase two is where we start building the foundations for scalability, right?
+
+**Dave Capone:** So this is where we want to build a solid foundation so that we can then in phase three, start scaling for growth.
+
+**Dave Capone:** If we were, we want to make sure that the foundations are solid so that like when you're building a house, you know, you have a solid foundation and you build your framing and then boom, you can start really just starting to build your house a lot quicker once your frame is up and once your foundation is set.
+
+**Dave Capone:** So here I want to concentrate on a few different things.
+
+**Dave Capone:** One is I call CCRR.
+
+**Dave Capone:** It's a cut, consolidate, refresh, and refactor content.
+
+**Dave Capone:** So this really is just like going in and looking at, okay, what content is performing?
+
+**Dave Capone:** What content isn't performing?
+
+**Dave Capone:** Is it content that could potentially be hurting your site if it's not performing?
+
+**Dave Capone:** So it could be thin pages.
+
+**Dave Capone:** could be stuff that's not on brand or topic that potentially could be hurting your brand or hurting rankings, refreshing your top performing content.
+
+**Dave Capone:** So this is really just like building a moat, right?
+
+**Dave Capone:** So we want to make sure that your top performing content stays top performing.
+
+**Dave Capone:** So we really want to make sure we're building a moat there.
+
+**Dave Capone:** And then refactoring content, which is basically looking at, okay, this content is not ranking.
+
+**Dave Capone:** I think we have a right to rank in this topic or this space.
+
+**Dave Capone:** Like maybe it's a different angle.
+
+**Dave Capone:** Maybe you have to completely take a different view of this article.
+
+**Dave Capone:** It could be going from a human interest story to a listicle format, for example.
+
+**Dave Capone:** So just changing our take on what that particular article is so that we earn our right to win in that top 10 position.
+
+**Dave Capone:** We'll introduce a new category structure, so part of what this structure will be is focusing on conditions and focusing on cities.
+
+**Dave Capone:** So we're going to build a category structure around conditions, and I'll talk a little bit about that later.
+
+**Dave Capone:** But part of this, as we're building through a new category structure, we'd like to remove blog from the URL.
+
+**Dave Capone:** I think as we're thinking these as more of medical web pages from like a schema perspective, they're not really blogs, more informational pages that, you know, are going to be a part of your product.
+
+**Dave Capone:** And then on the other side, the city pages are going to be more like, you know, commerce based where folks are, you know, thinking about, you know, choosing what provider they want to go with, and then the attributes going from there.
+
+**Dave Capone:** So really, I think as we build this out, we'd like to remove blog from the URL structure from some, from some of these pages that were not essentially a blog, but were on the editorial commerce side.
+
+**Dave Capone:** I did notice that there are clinician and provider pages, so I'd like to unify those, and some of those are actually pretty, there's not a lot of content on those, so the issue with that is that you've launched a bunch of thin pages, which Google perceives as low quality, which will hurt your domain as well.
+
+**Dave Capone:** So I think there's an opportunity to enrich those pages, and really try to, and what I wanted to get from this call was also learn what type of data you have on each provider, so that we can try and surface that on those pages.
+
+**Anthony Mangia:** Got it.
+
+**Dave Capone:** Philip, would you be able to speak to that, or is that someone that can help us understand what data you have on your providers?
+
+**Filip Babic:** Yeah, I mean, I can, I can, I can, send you, send you, like a link or a screenshot of all of the data that we currently have.
+
+**Filip Babic:** Yeah, I can send you a link or screenshot of all the data we currently have on helloinnerwell.com, and I can see what the end state of what we can actually use is. But on first pass, I'd say we have everything on the website — the frontend is generating that from our middleware. When you go to slash availability pages, you can see all the details like short bio, interests, areas of focus, and so on from the clinician side.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** That's amazing.
+
+**Dave Capone:** So a little bit later in the presentation, I'll kind of share a mind map that has some of the attributes that I was really would like to go and build pages for, for some of these providers or groups of providers.
+
+**Dave Capone:** So we can talk about that in a minute.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** I'd also like to start launching the redesigned layout for conditions.
+
+**Dave Capone:** This is kind of the ideal layout that we'd like to go with on the conditions hub.
+
+**Dave Capone:** Really, it's breaking it down into the type of condition, which in this case would be depression, the causes, build a bunch of content around that.
+
+**Dave Capone:** So really forming these really great topical silos and building your expertise in this space.
+
+**Dave Capone:** And I'll kind of go a little bit more into how that will transfer over to the city hub in a second.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** So that's phase two.
+
+**Dave Capone:** That gets us to the point where we're ready to just start ramping up and scaling and building pages.
+
+**Dave Capone:** So was there any questions on phase two?
+
+**Anthony Mangia:** I don't think specifically.
+
+**Anthony Mangia:** I noticed in the screenshot you just showed there was a nav update as well.
+
+**Anthony Mangia:** I'm really interested in how you guys are thinking about our navigation in general.
+
+**Anthony Mangia:** So when, at which point in this plan, you might, it might make sense to be diving to the navigation and refresh that on the website as needed, that kind of a thing.
+
+**Dave Capone:** Yeah, so part of how Google weighs like your content on your website is like what's in your navigation.
+
+**Dave Capone:** So if we're making conditions and providers like a major part of your website and a major component of how folks get the information, then it needs to be in the navigation.
+
+**Dave Capone:** Any URLs or any entry points are definitely getting preference to getting indexed.
+
+**Dave Capone:** They also get weighted differently so that the value that they give to each internal link is different.
+
+**Dave Capone:** So you're just signifying that these are like our most important pages.
+
+**Dave Capone:** So, yes, I think at the end of phase two, as we're starting to get ready to build out, you should definitely think through a navigation refresh on where to add that and where it makes sense.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** All right.
+
+**Dave Capone:** So phase three is the fun part.
+
+**Dave Capone:** This is where we scale for growth.
+
+**Dave Capone:** And this is basically, you know, the strategy that I've been talking through where, you know, we're going to have the editorial build based on conditions.
+
+**Dave Capone:** So like we're, you know, the causes, the types, symptoms, treatments, the audience, et cetera.
+
+**Dave Capone:** We're going to build out consistent hubs for each different condition.
+
+**Dave Capone:** We can start with these conditions here with anxiety, depression, ADHD, and so on.
+
+**Dave Capone:** And then for providers, we can take the data that you can give us, Philip, and we can build out programmatically.
+
+**Dave Capone:** Provider pages by city, city and specialty, city specialty insurance.
+
+**Dave Capone:** So we can really build out all of these different variables and build out pages to fine tune and answer the question that folks are looking for.
+
+**Dave Capone:** So I need a therapist in Sandusky, Ohio that takes Cigna, right?
+
+**Dave Capone:** We should have a page for that.
+
+**Dave Capone:** And if we have the data, we can build that for you.
+
+**Dave Capone:** And that's really the end up we're trying to get to is to branch these out.
+
+**Dave Capone:** I need a, I want a special therapist in, you know, Baltimore, Maryland, that is a male that speaks Spanish and takes Cigna, right?
+
+**Dave Capone:** So like, those are all different permutations that we can build with the attributes and make some really great long tail plays for the city side.
+
+**Kirkland Gee:** Yeah, that's part of, this is like the biggest thing I wanted to ask about is when it comes to the providers on, like you guys have a database of providers, right?
+
+**Kirkland Gee:** Are they tagged in any, like in all of these different kinds of ways already?
+
+**Kirkland Gee:** Like if I wanted to do a query of all the providers and, you know, filter them by XYZ criteria, what are we able to filter by right now?
+
+**Kirkland Gee:** And also, where are those stored?
+
+**Kirkland Gee:** they using a database somewhere?
+
+**Kirkland Gee:** Is it in a CMS?
+
+**Anthony Mangia:** Like, where do the providers kind of live?
+
+**Anthony Mangia:** So, right now, we do have structured data on a lot of these things.
+
+**Anthony Mangia:** We definitely have structured data on treatment methods, areas of focus, and, of course, the services that they offer and the insurance they accept.
+
+**Anthony Mangia:** I believe, you know, obviously, gender, that kind of a thing.
+
+**Anthony Mangia:** And there may be some additional fields we have as well.
+
+**Anthony Mangia:** We definitely accept that information, you know, for you to work with.
+
+**Anthony Mangia:** We don't, I think, allow filtering on the front end to users for any of that stuff.
+
+**Anthony Mangia:** But, effectively, like, especially in some states, it starts to get, like, the list of clinicians starts to get pretty thin pretty quickly when you slice it and dice it too far.
+
+**Anthony Mangia:** But we're growing, you know, quickly and hiring new clinicians all the time.
+
+**Anthony Mangia:** But I think, like, you do end up with a bit of a weird user experience when there's, like, one or two clinicians on a page.
+
+**Anthony Mangia:** Yeah.
+
+**Kirkland Gee:** I think it might depend.
+
+**Kirkland Gee:** Like, if I'm just looking for a clinician in California and I start clicking on filters and that leads me to that experience, that might be weird.
+
+**Kirkland Gee:** But if I Google, you know, clinician in this city that takes this insurance and then there's one, that might be, like, okay, great.
+
+**Dave Capone:** This is the guy I'm going to call or the girl I'm going to call.
+
+**Kirkland Gee:** And we can potentially help you guys if we need to build out some sort of front-end filter UI.
+
+**Kirkland Gee:** Like, that's not a huge deal.
+
+**Kirkland Gee:** I just need to know, like, you have that structured data.
+
+**Anthony Mangia:** Where does all of that live?
+
+**Anthony Mangia:** Right now, I think there's, like, an error table.
+
+**Kirkland Gee:** I mean, correct me if I'm wrong, that has a lot of our clinical operation, like, our recruitment data and stuff.
+
+**Filip Babic:** It's both our EHR and our middleware.
+
+**Filip Babic:** database or like backend database, and even now for like slash availability pages, we are pulling from both places to have like one single view or logic.
+
+**Filip Babic:** So the front end part is not a problem.
+
+**Filip Babic:** We can easily build that and take the data.
+
+**Filip Babic:** I can tell you right now, we have profile pictures, areas of focus, license, type, clinician bio, we have insurances assigned to clinician services list, treatment methods, and states that they are available in.
+
+**Filip Babic:** that's the list of like fields that you are currently saving for the clinician and that you can access them.
+
+**Kirkland Gee:** Okay.
+
+**Kirkland Gee:** Okay, very good.
+
+**Kirkland Gee:** And I think all of that should be relatively straightforward.
+
+**Dave Capone:** And Kirkland, could we build out?
+
+**Dave Capone:** Controls to say there's no clinicians in a certain combination of attributes.
+
+**Dave Capone:** can just not build that page and then refresh it once a month or something or whatever occasions that we feel is bright, but at least refresh it and then build that page once those requirements have been met.
+
+**Kirkland Gee:** We can give that a think because there's a few options.
+
+**Kirkland Gee:** Like one is, you know, we'd say we're going to build X number of pages and we handcraft that X number of pages in some kind of way.
+
+**Kirkland Gee:** Another alternative, which I'd probably be more interested in here is like choose what parameters we want to filter on based on what data is available and just create every permutation dynamically versus like create some sort of dynamic slug system that is, you know, slash providers.
+
+**Kirkland Gee:** And then whatever filters we want, whether it's query params or however we want to do it, we can think about that a little bit and just make those like static pages that generate when the site gets built.
+
+**Kirkland Gee:** So they all just exist and put a fallback for.
+
+**Kirkland Gee:** Or, you know, if no providers are found, don't generate the page or put some sort of CTA that's like, hey, you know, this is we don't actually reach that at this moment.
+
+**Kirkland Gee:** And it may be either redirects back to the overall state page and says, hey, here's some other options to explore or, I don't know, sign up for some email list to be notified when a provider is available in your area.
+
+**Dave Capone:** Like there's different ways we can handle that.
+
+**Dave Capone:** Yeah, that makes sense.
+
+**Dave Capone:** I think from like how I've handled that in the past is I've built like a solid nomenclature on the order that those attributes are assembled so that, you know, the problem with facet navigation is that you can build like a ton of duplicate landing pages depending on how you choose to click on an attribute.
+
+**Dave Capone:** So by providing like a simple nomenclature that just tells the, you know, system how to assemble the URL as you click through it, we can avoid that and provide a more linear path, which would definitely be beneficial in this scenario.
+
+**Kirkland Gee:** Yeah, it's probably what state.
+
+**Kirkland Gee:** Like, insurance, that probably does a lot for you, right?
+
+**Kirkland Gee:** I mean, that's 500 permutations or something ridiculous.
+
+**Kirkland Gee:** Then you add gender, it doubles it.
+
+**Kirkland Gee:** And then you add, you know, I don't know, in person at home.
+
+**Kirkland Gee:** Again, you guys can kind of think through what the best order of operations is for that.
+
+**Kirkland Gee:** And we can decide.
+
+**Kirkland Gee:** Again, we can always start, you know.
+
+**Kirkland Gee:** And again, there is something to said for, like, well, maybe we actually do 100 of them.
+
+**Kirkland Gee:** Like, we do, maybe we do everything state and insurance.
+
+**Kirkland Gee:** And then for the things that are more specific, we only do a handful of them that we know have some kind of verifiable search volume to see if anything happens.
+
+**Kirkland Gee:** And then if that works out, then we can do a more large-scale dynamic play on those longer tails.
+
+**Kirkland Gee:** You know, there's different.
+
+**Kirkland Gee:** Again, it's like, I feel like I hate to be the guy that's like, I don't know, there's 18 different ways to do it.
+
+**Kirkland Gee:** But technically, like, we can do it if we want.
+
+**Kirkland Gee:** It's just making a decision of what's best, you know, what's the best thing to implement.
+
+**Dave Capone:** Yeah, when it comes to cities, typically, I've built out city hubs like this before, and typically after like 2,500 cities, it starts to get pretty thin.
+
+**Dave Capone:** Like 2,500, the population is around like 16,000 or less for a particular city, so the search volume goes way, way down, and it's almost like diminishing returns to build anything out after that.
+
+**Dave Capone:** So we can build permutations of 2,500 cities plus all these additional attributes and have millions in search volume after, which would be awesome.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** So I think we went on a little tangent there with that, but that's fine, totally.
+
+**Dave Capone:** I wanted to talk through one more thing or two more things about phase three.
+
+**Dave Capone:** One was we want to introduce new schema on your landing pages in phase three, so this would be, you know, articles where it makes sense, medical webpage where it makes sense.
+
+**Dave Capone:** On the provider pages, I'd love to put local business schema.
+
+**Dave Capone:** I think for each individual provider, we can post local business schema for each one.
+
+**Dave Capone:** Try to, I think part of that, we can try to force Google to use carousels in the SERPs using that, which would be pretty awesome.
+
+**Dave Capone:** I've seen it in travel before when I worked at TripAdvisor, where, you know, the carousels are loaded.
+
+**Dave Capone:** It'd be great to see if we can try and force something like that in the medical space.
+
+**Dave Capone:** And building, we want to cross-pollinate the products.
+
+**Dave Capone:** So if I'm looking for information about depression, there should be a shelf that shows in my area all the available providers so that, you know, if I've read about it, you know, and now I want treatment, I should be able to have that option available to me.
+
+**Dave Capone:** And then cross-pollinating over to the provider side, where it's like, hey, I looked for a provider, I'm not quite ready for it.
+
+**Dave Capone:** Maybe I want to try online therapy first.
+
+**Dave Capone:** There's some information in front of me right there about online therapy.
+
+**Dave Capone:** So we would definitely like to be able to create those shelves that will...
+
+**Dave Capone:** Allow cross-pollination between the two products, and then also have a little bit of some geo-targeting and some topical targeting on there.
+
+**Dave Capone:** So if you're on a provider that is about manic depression, that you get some content about manic depression also.
+
+**Anthony Mangia:** Yeah.
+
+**Dave Capone:** Cool.
+
+**Dave Capone:** And then, as promised, here's the mind map that kind of explains the overall strategy.
+
+**Dave Capone:** So basically, we want to build out your topical authority on the left.
+
+**Dave Capone:** So that's going to be all the different, so we're using depression here as the hub or, and really kind of breaking that into different pieces of content that we build out.
+
+**Dave Capone:** So like the types of depression, the symptoms, the causes, treatments, and side effects, which can be broken down into medications and therapy, et cetera.
+
+**Dave Capone:** And we want to target different audiences — so if it's for parents that are worried about depression in their teens, for example, we want to be able to create content around that as well.
+
+**Dave Capone:** And then we found that tests actually for like depression and other conditions, they're highly winnable at this point.
+
+**Dave Capone:** So being able to build out some sort of quiz or some sort of format you can fill out to see if like, oh, you might be likely and here's a few, you know, therapists that you might want to talk to that can help you with this.
+
+**Dave Capone:** So tests are something that there's a high chance to win in those areas.
+
+**Dave Capone:** And then on the right side, once we build all that topical authority on the left side, that's going to, as we're cross-pollinating the two products, that's going to help transfer that authority over to the right side where the provider search will then benefit from all the topical authority and expertise that's being written and really help those rank for the intended queries for those.
+
+**Dave Capone:** So I just hope, yeah.
+
+**Anthony Mangia:** Sorry, go ahead, Anthony.
+
+**Anthony Mangia:** It's a little hard to see.
+
+**Anthony Mangia:** I don't know if there's a way to zoom in there.
+
+**Dave Capone:** Is that better?
+
+**Anthony Mangia:** Okay.
+
+**Anthony Mangia:** Yeah, amazing.
+
+**Dave Capone:** So this is a mind map, basically, of just how each hub would play out.
+
+**Dave Capone:** So like depression, for example, we would follow the same format for each condition, so the types of the condition, et cetera, across the board.
+
+**Dave Capone:** And then the providers, this is where we'd like to be able to get to.
+
+**Dave Capone:** I think this is from a filtering standpoint and page standpoint, like psychology today doesn't have this level of granularity, and I'd love to be able to get to this to be able to build these pages.
+
+**Anthony Mangia:** Yeah, amazing.
+
+**Anthony Mangia:** We, yeah, we can definitely load you up with all of the data we've got that you can figure out what's possible.
+
+**Anthony Mangia:** This looks great.
+
+**Anthony Mangia:** I guess what I'd like to see added to the overall plan is, one, a little bit more specificity with regard to my mind, just to be able to understand how this plays out across the weeks and months.
+
+**Anthony Mangia:** And I guess, too, we, you know, we want to ladder up to, I think, we'd love to see what the input metrics are, i.e.
+
+**Anthony Mangia:** how many articles we're going to be launching per week, per month, right?
+
+**Anthony Mangia:** Whatever time period, but then also the kind of output metrics, right?
+
+**Anthony Mangia:** We're trying to generate enough net starts, you know, enough actual patients starting care so that the kind of CAC of our investment starts to get to the, you know, $200 to $300 range and hopefully far below for time, right?
+
+**Anthony Mangia:** So.
+
+**Anthony Mangia:** I think I'd love to see how you envision traffic growing over time.
+
+**Anthony Mangia:** And I know it's really hard to predict, right?
+
+**Anthony Mangia:** But kind of like, what are the goals?
+
+**Anthony Mangia:** And how does that start to shape up when you sort of bring it to a customer acquisition cost level?
+
+**Dave Capone:** Sure.
+
+**Dave Capone:** Sorry to interrupt.
+
+**Dave Capone:** If you're comfortable sharing what your cost per session or revenue per session number is, or what your conversion rate is, I can put together metrics for you based on a forecast to look at traffic and revenue, and predict where we would be based on winnable search volume.
+
+**Dave Capone:** Yeah.
+
+**Dave Capone:** You know, and just a caveat of like, you know, for those forecasts to be true, like.
+
+**Dave Capone:** We have to make sure we hit all the things that we're asking for in there to make sure that we have a chance to hit those numbers.
+
+**Dave Capone:** But what I've put together is what I think is right, from my experience. I've worked with Enron Ventures, with the Healthline team, CNET, and a few other brands they have. And this is a playbook that works across those brands. So I have a very good feeling about the winnable search volume there.
+
+**Anthony Mangia:** Love that.
+
+**Anthony Mangia:** I think the plan is totally sound.
+
+**Anthony Mangia:** I just want to make sure we have a framework collectively for how we're thinking about what success looks like and being able to measure towards that.
+
+**Anthony Mangia:** But I've got high confidence in this, advocating for you guys internally.
+
+**Dave Capone:** Awesome.
+
+**Dave Capone:** So what I can do is I'll work with Jakub and we'll put together kind of like a content forecast.
+
+**Dave Capone:** I'd love to understand where you want to prioritize in terms of time and categories. So let's focus on anxiety and depression first because, from a ketamine perspective, those might be two that have high tie-ins with your main product right now.
+
+**Dave Capone:** And then if we can get a priority list of which ones, then we can focus and tighten up the forecast to really focus on these and launch these hubs first, so that we can reap those rewards quickly.
+
+**Anthony Mangia:** Totally.
+
+**Anthony Mangia:** Yeah, happy to get back to you guys.
+
+**Anthony Mangia:** If you can, I'm sure you will anyways, but like just follow up with a summary of the homework, what we owe you guys.
+
+**Anthony Mangia:** Make sure we're setting you up for success.
+
+**Anthony Mangia:** That would be amazing.
+
+**Andi Bailey:** I think we have 10 minutes left.
+
+**Andi Bailey:** Sorry, go ahead.
+
+**Anthony Mangia:** We're also working as a company towards being able to start treating pain management directly, stepping up and building a specialized program for that. We think there's a lot of opportunity. From what I can tell, right after depression and anxiety, pain is the next biggest search opportunity — it's second or third. Right now, we don't treat it directly. We treat many patients who have it, but we're treating them primarily for mental health conditions. Soon, we'll have a dedicated program for pain management.
+
+**Anthony Mangia:** And within the next two to three months, hopefully, we'll be able to say, like, yes, we have a specialized program built for patients that have chronic pain.
+
+**Anthony Mangia:** So we're really excited about that.
+
+**Anthony Mangia:** But I'll make sure that's baked into the, what we asked for.
+
+**Dave Capone:** That's awesome.
+
+**Dave Capone:** And, like, start building expertise now.
+
+**Anthony Mangia:** Start building what for pain.
+
+**Dave Capone:** So when that product does become available, we can just start cross-pollinating it and pushing it pretty hard.
+
+**Anthony Mangia:** Totally.
+
+**Dave Capone:** Cool.
+
+**Andi Bailey:** In terms of next steps and a really detailed timeline, can you scroll up, Dave?
+
+**Andi Bailey:** So the phase one of this is just, I mean, kind of the team completing what we're already doing and pushing publishing a little faster, but also like the technical SEO issues.
+
+**Andi Bailey:** So does it make sense for Dave and Philip to connect again just one-on-one just to go through these in more detail?
+
+**Andi Bailey:** Or, Philip, what's the best way for us to coordinate with you to address this piece?
+
+**Filip Babic:** Oh, yeah, I mean, I believe it's straightforward.
+
+**Filip Babic:** Give us until Thursday when we have new planning and I will check out with our front-end engineer if all is clear and if he has any additional questions.
+
+**Filip Babic:** And if needed, I will add him to the group so that we can talk about it directly and clean up any obstacles there.
+
+**Anthony Mangia:** Where there's obviously more specificity required, I'd love to get that right out of the gate.
+
+**Anthony Mangia:** Like fixed duplicates.
+
+**Anthony Mangia:** Page titles.
+
+**Anthony Mangia:** Okay, which ones are you guys seeing?
+
+**Anthony Mangia:** I'm sure that was part of the audit.
+
+**Anthony Mangia:** If there are suggested categories that you think we should create for these blog posts, you know, based on keywords that are important, you know, if that matters, let us know.
+
+**Anthony Mangia:** You're saying to update the H2/H3 structure on landing pages.
+
+**Anthony Mangia:** Were there specific landing pages that site-wide, you know, like, you have recommendations for what you want to change it to per page?
+
+**Anthony Mangia:** Like, let's make these as actionable as possible, or we're going to find ourselves, you know, a developer reviews this on Wednesday, Thursday morning.
+
+**Anthony Mangia:** We're like, hey guys, we have a lot of questions.
+
+**Anthony Mangia:** You know, I think we need a little bit more signal here.
+
+**Dave Capone:** Okay, so that's fair.
+
+**Dave Capone:** I'll go through each one and specify in there.
+
+**Dave Capone:** So I have all of the detail here under
+
+**Dave Capone:** The tech SEO considerations hub, but I'll just make it more digestible and add it to each section.
+
+**Anthony Mangia:** Cool.
+
+**Anthony Mangia:** Yeah.
+
+**Anthony Mangia:** I like the first two, think, are fun.
+
+**Anthony Mangia:** Like, set sitemap.
+
+**Anthony Mangia:** Okay.
+
+**Anthony Mangia:** That's straightforward.
+
+**Anthony Mangia:** Remove the H1 for the login.
+
+**Anthony Mangia:** Okay.
+
+**Anthony Mangia:** That's straightforward.
+
+**Dave Capone:** Don't, you know, we don't need you to waste time, but where it's obvious, please add a little bit more and we can take it from there.
+
+**Dave Capone:** Makes sense.
+
+**Andi Bailey:** Great.
+
+**Andi Bailey:** So it sounds like our deliverables are, ideally by tomorrow, a more detailed examination of this, of the technical things that we suggest changing, and then a detailed timeline of how we're going to roll these things out.
+
+**Andi Bailey:** And then Dave and Kirkland and you guys can start talking about the categories and how we start to approach that, which I think we can do in the background as we're even doing phase one and phase two.
+
+**Andi Bailey:** Perfect.
+
+**Andi Bailey:** Is there anything else?
+
+**Andi Bailey:** Otherwise, I think we can have five minutes back.
+
+**Anthony Mangia:** That's it.
+
+**Filip Babic:** Oh, all good here.
+
+**Filip Babic:** Sorry, I killed the camera because somebody really wants to go to sleep.
+
+**Kirkland Gee:** You guys get out of here.
+
+**Andi Bailey:** That's way more important.
+
+**Andi Bailey:** Yeah, yeah, yeah.
+
+**Andi Bailey:** All right.
+
+**Andi Bailey:** Thanks, guys.
+
+**Andi Bailey:** Thanks, guys.
+
+**Andi Bailey:** Bye-bye.

@@ -1,0 +1,4275 @@
+{
+    "title": "Biologica product deep dive",
+    "meeting_title": "Biologica product deep dive",
+    "url": "https://fathom.video/calls/330381019",
+    "created_at": "2025-06-19T17:04:15Z",
+    "scheduled_start_time": "2025-06-19T16:00:00Z",
+    "scheduled_end_time": "2025-06-19T16:30:00Z",
+    "recording_id": 69425876,
+    "recording_start_time": "2025-06-19T16:01:30Z",
+    "recording_end_time": "2025-06-19T17:03:51Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I sent them the, oh, hi, Brian.",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Hey, hey.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "How's your day going?",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Going, how about you?",
+            "timestamp": "00:00:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Good, good.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Happy, almost Friday.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Same to you all.",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Hey, Maggie.",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Hi, Maggie.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I think you're on mute.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "How's it going?",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "You are correct.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I'm good.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "How are you all?",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Really good.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Where are you based?",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Western Massachusetts.",
+            "timestamp": "00:00:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Nice, nice.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I love all the ingredients and ingredients behind this.",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That's beautiful.",
+            "timestamp": "00:00:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Well, it's so, so, so good to meet.",
+            "timestamp": "00:00:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'll let Ada kick us off and maybe we do...",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "do...",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "do...",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "do...",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "do...",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'd love to just, Aida, don't know if you want to do a quick intro, I can do a quick intro, and then Maggie would be awesome to just get a quick intro as well before we kick things off.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, so my name is Aida, I'm a senior managing editor at Growthx.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I work with Marcel and the rest of the team to help our clients onboard in terms of developing their voice, improving the content quality, calibrate on it, and I also kind of iterate on the content strategy as well.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, I've been at Growthx for about six or seven months.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, and yeah, it's, it's great to meet you.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, Maggie, uh, Marcel, CEO here, um, at Growthx, and, uh, pretty much my whole career have been, um, building publications inside of companies.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And, um, and then today we get to work with just awesome brands like Reddit and Ramp, Webflow, and, you know, and, and so we're super, super excited to get to hopefully support.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And, and, and help you all in this, this exciting.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Soon to come launch, you know, so it's great to connect, and thanks for being generous with your time.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Of course, great to meet you.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Love a little intro on your end as well.",
+            "timestamp": "00:02:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah, totally.",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "My name is Maggie Luther, and my background is naturopathic doctor and herbalist.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I am about 13 years out of my naturopathic training.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I started in private practice and soon realized I didn't want to see people for 40 hours a week.",
+            "timestamp": "00:02:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I love them, but that's too much.",
+            "timestamp": "00:02:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I entered the natural products industry about 11 years ago and have been with some great companies.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "New Chapter is in Brattleboro, Vermont.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "They were one of the first, like, whole food probiotic fermented companies.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And then I was at Careof, which was an E2C consumer brand, which was acquired by Bayer.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And unfortunately, don't have good And But that's I set",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Sunsetted, which can happen.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "But we had a great run.",
+            "timestamp": "00:03:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I am now at Biologica, and I run innovation and regulatory.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So that's really my training is like the technical side of supplements.",
+            "timestamp": "00:03:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And I like working with my buddies in sales and marketing just to help, you know, like, I'm the science and then they translate it and together we make this masterful piece.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So I'm really excited to like learn about y'all and see how we can really help Biologica stand out as like a science brand, but also just like a really realistic brand.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That's perfect.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And Aida did a bunch of work on just coming up with some questions and things.",
+            "timestamp": "00:03:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so it's okay, Brian, okay to kind of just dive in.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Yeah, go for it.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "And then, Joey, is that you online?",
+            "timestamp": "00:03:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "It is me.",
+            "timestamp": "00:03:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "I just wanted to say hello.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "It seems like I",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's not going to be that useful on this call, but I'm going to listen and learn myself.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Beautiful.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Good to hear from you, Jen.",
+            "timestamp": "00:04:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Aida, lead the way.",
+            "timestamp": "00:04:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So we have a couple of themes to cover today.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I want to talk about product formulation, some competitive intelligence stuff, and also want to dive into just any customer insights that you might already have.",
+            "timestamp": "00:04:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "You've already shared a ton with us, but there are just a couple of questions that I would like to ask around that as well.",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "First thing I'm curious about is sort of, you know, the positioning of the product is obviously targeting women with household incomes of over a hundred thousand.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I would like to like, are there any specific ingredients that are really premium or that you just can't find in your like average over-the-counter brand?",
+            "timestamp": "00:04:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Like we just want to use it for like potentially like content angle, like why we chose this ingredient over that one for like treating.",
+            "timestamp": "00:04:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "know, haven't had join again in Thank",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, I don't know, hot flashes or anxiety or something.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, yeah, I would say the majority of our ingredients are in fact premium.",
+            "timestamp": "00:05:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, we have, so if you think about the supplement space, um, we usually what a brand will do is put like one or two trademark ingredients, which are usually clinically studied ingredients into a formula and sell it based on like health goals.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "What we've done is sort of stepped back and said, what does each segment really need based on, one, what they're telling us, but two, what the research says for that hormonal stage.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So we actually have, um, five trademarked ingredients in our primary and then six trademarked ingredients in our midlife and our postmenopause.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, so all of those are really high end.",
+            "timestamp": "00:05:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "so of those makes more sense for me to like fill out something versus having...",
+            "timestamp": "00:05:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "...",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "...",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Go through each one of them.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And then on the vitamin and mineral front, we've opted for more bioavailable vitamins and minerals so that you get optimal absorption on top of the effervescent, which is already going to have good absorption because it's a beverage.",
+            "timestamp": "00:06:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, yeah, it's kind of like a tiered system of like, how can we really make the most of each of the segments of the formulas?",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, we have a clinically studied probiotic in there as well, uh, which will be really great, uh, foundational.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, like, each of our products is kind of about four products in one.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, and yeah.",
+            "timestamp": "00:06:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, are there any, uh, I mean, talking about...",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "can, we can also, we can give you a list of the ones that we think are high priority.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maggie actually just created it and Brian, Brian has that list that can send you.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:52"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think I added that already to the notion board.",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Um, so yeah, if you have any questions about that, that...",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Just, just let me know.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Maggie, I'll be really curious because you have such an amazing background, right?",
+            "timestamp": "00:07:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "If I know you were, you know, not seeing patients or anything, but like maybe if we took like one of our highest primary, not priority segments, but one of the segments we really want to focus on or just an example, we'd love to just hear your, how you would explain to a friend or, you know, yourself on, on like, if you're trying to tell them like, you know, about biologica and why they should, you know, buy in or sign up for it, you know?",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, um, the midlife one I think is awesome.",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I mean, I'm basically at that stage in age of my life and I was explaining it to a friend of mine and she was like, when is this going to be available?",
+            "timestamp": "00:07:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, um, you know, for when you're in that transitionary phase of your hormones, um,",
+            "timestamp": "00:07:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Between when you menstruate and when you don't menstruate is basically that that perimenopause segment of life and just naturally hormones influence so many things so like with your brain you can like not have as great a focus, you can be kind of moody out of nowhere, you can feel like you don't have as much energy or like that sleep is a huge problem and a lot of women are just like yeah I have shady sleep and I just deal with it.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So what we tried to do was really like tackle each of those synergistically so you know with like Saffron I'm going to get some mood benefits and I'm going to get some help with the perimenopause symptoms but I'm also going to want some more help with like the cognition so we did that with L-theanine and GABA so I might not tell my friend all of those ingredients or I might depending on which friend it is but it's basically you know hitting on like mood and focus and sleep because if you",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Have a better mood and focus.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "You actually sleep better, believe it or not.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, it's kind of like our bodies live in this rhythm of needing certain nutrients to be productive every day.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I think exercise is the best example.",
+            "timestamp": "00:09:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "If you regularly exercise, you actually sleep better.",
+            "timestamp": "00:09:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "It's because you're burning more energy during the day.",
+            "timestamp": "00:09:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, yeah.",
+            "timestamp": "00:09:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And, you know, I was just talking to her about the vitamins and minerals and how sometimes we need more B vitamins because our brain just needs like a little bit of a shot of energy, right?",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And, and this is really insightful because like what, what tended to be in the times we maybe already had these types of conversations, was there like an immediate like follow up of like, oh, what about this?",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Or what does, you know?",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'm That's a good question.",
+            "timestamp": "00:09:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That might be a better question for Joey or Ryan.",
+            "timestamp": "00:09:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I was just curious from just your angle.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah, mean, most likely, like, nutrients, like, oh, what's that?",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Or, like, you know, is that important for this?",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Or I heard about that, but I thought it was for this, is kind of the type of questions that I generally see.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Cool, awesome.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "I'd be curious to get Joey's take on this, but I get a sense that one question that could come up is, and we alluded to this a little bit on our prior call, but we're taking, I'd argue, like, a more curated approach to the supplementation than perhaps, like, what the consumer is more often seeing in the market, which is, like, the kitchen sink.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "So, again, just to use, like, the AG one as just a good comparable, it's, like, I think they marked it, but there's, like, 75 ingredients, and there's, like, all of this stuff, and so I imagine the question's going to be, well, you just have less than this other folk, this other company that I'm looking at.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Like,",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Should I use you versus them?",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "But Joey, I'd be curious about your take, but I could see that being like a pretty common thing that comes up.",
+            "timestamp": "00:11:04"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I think that is.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that is one.",
+            "timestamp": "00:11:18"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I do think that is really the root of our entire positioning, is that instead of the kitchen sink, that's a one-size-fits-all for every woman, man, child.",
+            "timestamp": "00:11:19"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Regardless of age, the fact that we've been able to whittle it all down to exactly what the woman needs based on the hormonal stage kind of answers a lot.",
+            "timestamp": "00:11:30"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I would, I would also say, you know, some questions that I get are, you know, people are compelled by it.",
+            "timestamp": "00:11:40"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I would say that they're, they don't know a lot of the ingredients.",
+            "timestamp": "00:11:49"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A lot of our consumers don't know a lot of the ingredients that we're talking about.",
+            "timestamp": "00:11:54"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I would say that.",
+            "timestamp": "00:11:57"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:11:59"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maggie, in the lead on this, developing this product, has done a great job of blending some really novel ingredients that are kind of bleeding edge.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think a couple examples of that are like the 2-Hobamine product that we're using in post-menopause and the strain of probiotics that are across all three of those.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I think there's that angle, but there's also the fact that we've taken some from antiquity, and I like the stories of these, like saffron is probably the best example in my mind that comes from and heavily used by Persian women, and blended into food, but also making medicinally, and using this to kind of bring this like East meets West vibe to the product and following the science based on hormonal health.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And taking all of this stuff and coupling it in a smart and curated way.",
+            "timestamp": "00:12:53"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that's the test.",
+            "timestamp": "00:12:58"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "To be what I've found is the most compelling.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I would add that what I've found is the least compelling, which I think is also helpful to think through, is that we also, this is particularly from medical doctors that I've talked to, that really don't like the idea that you're giving people something that they may not specifically need.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if they don't have irritability, as an example, and they don't have any trouble sleeping, then maybe they shouldn't be taking Saffron.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the fact that it's in there is a real negative for them.",
+            "timestamp": "00:13:29"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it's kind of funny because it tends to be from a very pharmaceutical lens that some doctors take that and then others that are really into supplementation are coming at it from a fairly elitist angle that you should get your blood tested, know exactly what you quote unquote need and should be prescribed and only take that specific ingredient.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's a bit of a ramble, but that's kind of good.",
+            "timestamp": "00:13:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "That sounds like advice from someone that hasn't gone through when, like, my wife yesterday texted me at 3 in the morning, he's like, I can't sleep, and obviously she's going next to me, you know.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Maggie, just for context, know, she's dealt with PCOS, we went through a really tough IVF journey, and, you know, like, she's dealt with a lot of hormonal challenges, so it's like, I can't wait for this to come out, personally, to hopefully suggest for her.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But, but it's just like, you know, it's like, go get your blood tested, trying to do a sleep study for the last eight months, just to find somewhere in the schedule for people to kind of take her, and, you know, it's like, having that empathy, I think, be, it's really important, because, right, Joey, like, what you mentioned, like, yeah, like, they should just have their blood tested, and, you know, take all this time, and then go do this, and it's just like, okay, who has time for that?",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, it's also expensive, and, like, exclusionary.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "um, ultimately we are all humans at the end of the day.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, I, I think Joey's totally right.",
+            "timestamp": "00:15:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And I also have like the other side from working at care of, you know, they start in 2016 and it's like individualized medicine really only goes so far, like we all need the same vitamins.",
+            "timestamp": "00:15:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "We all need them in active forms, but it's very , individualized medicine, um, and costly.",
+            "timestamp": "00:15:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "was just going to say that, that, that to me is the most important thing.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like I, as I had these negative conversations with a couple doctors, um, I realized that they, that in order to do what they want me to do, it would cost me 10 grand a year or something like that.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And like, that's cool.",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I kind of agree with them.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If that could work, like that sounds awesome.",
+            "timestamp": "00:15:48"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But like, A, even if I, you know, had enough money to do that, I, I, the friction's pretty high.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like you got to go through a lot of effort and B, it's just a shitload of money.",
+            "timestamp": "00:15:55"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's just a very elitist approach.",
+            "timestamp": "00:15:58"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All Thank",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Whereas, like, we've tried to make it a little more egalitarian and do the work for you by targeting the right segments with the right ingredients based on the acute symptoms and the nutritional needs that you need based on the highest, you know, the single highest correlated factor that's driving your overall health as a woman, being where you are in your hormonal cycle.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, that's the key from my perspective.",
+            "timestamp": "00:16:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I was curious about, like, what are the, are there any ingredients that you specifically decided against including and why?",
+            "timestamp": "00:16:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That is a very big question.",
+            "timestamp": "00:16:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:16:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I don't know.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I mean, there's probably like 50 if I really think about it.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I think one thing that stands out is, like, we didn't, so just for midlife in particular, you know, people have those physical",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Symptoms of perimenopause, but they're not consistent, and not everyone has them, so we didn't go hard after making it just about hot flashes and night sweats, right?",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So we wanted it to be more on the psycho-social-emotional, which is what people were saying, I have focus issues, I have mood issues, I have sleep issues, right?",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Oh, and I also randomly get a hot flash or, you know, something like that.",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, that's actually, that's a really great insight because, like, I'm sure that a lot of the content that we're going to identify today is going to be precisely around, like, the hot flashes and the night sweats, so it's good to understand, like, the kind of approach that you took.",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, is there anything that, like, any, like, misconceptions around, like, supplementation or hormones?",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Hormones that you would like to us to address in content, just to kind of sort of anticipate any potential objections that your customer might have.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I mean, we talked about, there's a lot of misconceptions about hormones, like this whole like hormone balancing thing, I think is a huge misconception.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, we talked about like, if people are on like HRT or birth control, like, you know, obviously we have to be careful what we talk about as far as like treating different things, but like they don't need to exclude themselves if they're still having symptoms and they're on these ways that they're supporting themselves hormonally.",
+            "timestamp": "00:18:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, like our products are not designed to interact with your hormones, they're designed to support your physiology, um, and thereby supporting your physiology, you're allowing for the hormones to work better.",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:18:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So you mean like even women that...",
+            "timestamp": "00:18:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Are on the birth control pill, can still take Biologica, is that like?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "I think there's, I forget if I shared it, Joey had a good visual in some deck, which kind of talked, Joey, probably don't remember what talking about, there's like five or six areas for which like, there's various like products or services and Biologica's playing in like the supplement space, but there, it's not to say that like, women should only play here and then exclude everything else, it's like a component of one's like, that they should sort of be, I guess, playing in all those areas, but Joey, you probably articulate what I'm trying to say.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, no, I think that's right, mean, the five cycle, the five things on that slide were like, pharmaceuticals, which I think Maggie just raised a really important point, HRT, the big one, the other one is GLP-1s, and that this is, you know, this is, design could be supportive of that, like, particularly",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For the perimenopausal stage, but also in the other two, we have elements in there that are supportive of lean muscle mass, so it's not a weight loss product ours, but if you're taking GLP-1 as a weight loss product, you also need to do some work to maintain muscle, and we've tried to accommodate that by making it, you know, in that realm.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now, Maggie will tell you, like, writing about this in pharmaceuticals, that we work great together, it's probably getting into dicey territory, you guys probably know that too, but that's one, second is fitness, third is nutrition, fourth was kind of overall well-being, social, emotional kind of thing, and then last was supplementation, like, those things do, like, tend to be slightly different in your needs by hormonal age.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think writing about some of those things is pretty interesting, you know, we're not a, we're not a, we're not a heavy fiber product, so the fact that we have ...",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Probiotics are great, but it would also be nice if you had a healthy fiber diet, if you're in your perimenopausal stage, and we may do partnerships and other brand-to-brand partnerships to celebrate that kind of thing, but that's another thing where I think it's, you know, it's compelling to talk through and recognize that we're part of an ecosystem and we're playing a specific role that we think is really well-designed and helpful for you, but not everything.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "One other thing, just to add, on the business side is, so, each of our products, it's designed as an idea alluded to for, like, this specific, like, hormonal stage, but because we've curated it, we've consciously, left out certain ingredients for certain reasons, but the concept of the business is to, at some point, generally, like, if this is stage, like, let me know, but, like, at some point, there's this idea of boosters, where there are people that will need additional supplements.",
+            "timestamp": "00:21:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Which is not captured within the essentials product.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "So down the road, like if you do need some other thing or series of things, Biologica may offer that as well.",
+            "timestamp": "00:22:04"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, creatine booster if you want, or a skin product, or maybe a baby brain product for neurological development for the kid where we had a high dose of choline.",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like things like that are definitely in the cards for going forward.",
+            "timestamp": "00:22:22"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One thing I would say in advance of that on the innovation pipeline, is potentially in advance of that.",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But I'm really eager to have in the market from us is a product for teens.",
+            "timestamp": "00:22:35"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if you think that we have three of the big five macro life stages, we're missing baby and we're missing puberty.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And puberty is probably one of the most important stages to make sure that the bone density for young girls get big enough so that their menopausal stage.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That won't",
+            "timestamp": "00:22:59"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I'd be very interested in having a product where moms can take ours, and then their teenage daughters can also take it alongside them, maybe in a different form factor, but that's something that I'm keen to do, and so I think alluding to something in that area could be interesting, particularly around the calcium, because I think that's top of mind for women when they think about menopause and osteoporosis, et cetera.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Have you guys seen the innovation pipeline, by the way?",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That could be something that, like, would be helpful for you.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, we have access to that, yeah.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:23:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "We're just, like, right now, at this stage, we really want to, like, next week, we really want to focus on getting, like, content in front of you, so right now we're just focusing on, like, perimenopause.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, coming out in September, yeah.",
+            "timestamp": "00:23:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So that's what we're really kind of focusing mostly right now.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, so I had a question.",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But can I just add one thing in your section about misconceptions?",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I mean, this is just a global misconception, which is that supplements replace pharmaceuticals, right?",
+            "timestamp": "00:24:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Like, people think, like, I have this, I go take this, and it's supposed to work.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "This just ties well into Joey's five signatories, right?",
+            "timestamp": "00:24:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So I think there's a lot of content that can be built off of that that's not just purely the content that you're showing, but, like, what people infer about things, you know, I'm happy to, like, put more thought behind that, but that's, like, such a big misconception about the supplement space.",
+            "timestamp": "00:24:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, yeah, that definitely makes sense.",
+            "timestamp": "00:24:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And I think a lot of times, like, the negative reviews that come out or maybe disappointment from customers is that they dissipate that, this is going to fix something.",
+            "timestamp": "00:24:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Exactly, exactly.",
+            "timestamp": "00:24:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And, like, ritual.",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "This ties into like your FDA, your GMP.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Ritual has done a really great job just taking literally what everyone should be doing, your good manufacturing processes, and making a big deal out of them.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So like, you know, people get frustrated because they buy stuff and it doesn't work.",
+            "timestamp": "00:25:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "It could be because it's not supposed to replace a pharmaceutical.",
+            "timestamp": "00:25:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "It could also be because it's not what it is.",
+            "timestamp": "00:25:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Like, there are supplements out there that get launched that are just crap supplements, right?",
+            "timestamp": "00:25:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And that goes into the third-party testing that, you know, you can say to the consumer, well, we do third-party testing and we can show you that we put in what we say we put in, right?",
+            "timestamp": "00:25:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That then becomes like, you know, does Joey want to, does that become really important for our consumer?",
+            "timestamp": "00:25:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Does, you know, like, Smarty Pants will show you every batch record.",
+            "timestamp": "00:25:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That's a cost that Smarty Pants incurs because it's important to their consumers, right?",
+            "timestamp": "00:25:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So going off on a little bit of a side tangent, but there are like lots of avenues that this content can go in.",
+            "timestamp": "00:25:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "you.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "It just kind of depends also what feedback we get from the consumer as well down the road.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, sorry.",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know what, that raises one point that I think we should address really early and comprehensively is, I get it all the time from people when I talk about this product, is skepticism on the supplement industry in general about third-party testing and that is there even what's in the product advertised on the side of the box.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I do think that that's important for us to be way out in front of.",
+            "timestamp": "00:26:25"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's a good point.",
+            "timestamp": "00:26:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Do you all have any, any material or anything on the types of third-party testing?",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "What is it testing for that we can take a look?",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "If not, we can obviously like dig in ourselves as well, separately.",
+            "timestamp": "00:26:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah, mean, we can, it's GMP testing, so I'm happy to send resources on what that is or like define what that means.",
+            "timestamp": "00:26:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:26:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah, think we, I think Maggie, think, I think this is quite important.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like people, if, if we, if we put down what GMP actually is, but don't use the word GMP, I think people would be like, thrilled to hear what that is.",
+            "timestamp": "00:27:04"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But then also, like if we're Eurofin to do third party testing, and we expect to buy like, there's no microbes in there, there's no, you know, you know, we list out the things that are in there.",
+            "timestamp": "00:27:16"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that's important content to write about and also be on our website, Brian, as a flag.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, I think this, this kind of question ties in, and I know it's also could be a really big question, but I think it ties into this conversation, which is sort of the research process that went into developing these supplements, sort of, how did you go about the process of like, determining the right ratios for each life stage?",
+            "timestamp": "00:27:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "You don't have to go into like, super, super be super detailed, but I just be",
+            "timestamp": "00:27:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I'm I'm like a high-level overview of the R&D process.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Well, you have to define what your goals are.",
+            "timestamp": "00:28:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So like in a prenatal, what am I trying to do?",
+            "timestamp": "00:28:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Am I trying to provide vitamins and minerals?",
+            "timestamp": "00:28:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That might not be the best example because you can't withhold vitamins and minerals from a prenatal person.",
+            "timestamp": "00:28:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So defining each of the areas, right?",
+            "timestamp": "00:28:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So that would be both from the science and then also talking to people who are experiencing that age and stage.",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "There's landscape work, like what exists out there.",
+            "timestamp": "00:28:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "There's, you know, just straight up research, like going to PubMed and reading articles about different ingredients that would help with different endpoints.",
+            "timestamp": "00:28:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And then there's sort of like a coming together of like, what did the consumer and the...",
+            "timestamp": "00:28:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I didn't say with what was found.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And then lastly, can you actually find what the research says you should use?",
+            "timestamp": "00:29:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Because sometimes you'll find great information on an ingredient, but like you can't get in the US or it's only manufactured for specific things or, you know, whatever it is.",
+            "timestamp": "00:29:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So there's just like a crossing up process that occurs.",
+            "timestamp": "00:29:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "You know, I think that's the last part is pretty small in the whole grand scheme of things.",
+            "timestamp": "00:29:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "But I think it's important.",
+            "timestamp": "00:29:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I mean, I've been in the industry for 10 years, so I probably know 95% of the raw materials that exist out there.",
+            "timestamp": "00:29:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So that's a lot of kind of just previous knowledge.",
+            "timestamp": "00:29:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, that makes sense.",
+            "timestamp": "00:29:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Just curious.",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So since the flavor is like a big part of the supplement.",
+            "timestamp": "00:29:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Making it easy to drink and making it also, like, not a chore.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I would like to hear, like, what was the story behind, like, the flavor development?",
+            "timestamp": "00:30:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "How many times did you have to iterate on that?",
+            "timestamp": "00:30:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Take it away, Joey.",
+            "timestamp": "00:30:12"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I think a good question and another really good topic for us to take a leadership position on, because we're doing this different than most other people.",
+            "timestamp": "00:30:14"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we exclusively tried to source, basically used a vertically integrated flavor partner, which we can just kind of say is us, where we only source things directly from farm and took, like, all natural essences from flavors that we were, like, targeting.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What we tried to do is provide something that was, I don't know what the language we want to use is, but here's what we actually did.",
+            "timestamp": "00:30:54"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We went with something where we have a, the kind of formula we went after was like a basic approachable flavor for the masses, combined with something a little bit more adventurous, and so you'll see flavors like Passion Fruit Blackcurrant, maybe that's a little adventurous for both, but like Passion Fruit seems to be something from our consumer insights that like, everybody wants, and, and, Blackcurrant is something like a little more exotic, and kind of connotates something a little bit different, and you can see elements like elderflower, lemonade, same kind of thing, where we look at what people are wanting, kind of trend-based data, like I don't know if you guys have seen, but the Hugo Spritz is like the drink of the summer, which is kind of awesome timing for us, because it's an elderflower-based version of, of the Aperol Spritz, and we can kind of photograph ours with, with, with that a some, important to back",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And things like that to make it happen, but this is the kind of, because we're targeting the consumer that we're targeting, they're going to have a little bit of a different taste preference than what you would find from an ultra-mass product that might be like, you know, strawberry or raspberry as the basic formulation.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we tried to kind of be a little bit more expansive on that.",
+            "timestamp": "00:32:17"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Iteration-wise and R&D-wise, we did tons of different trials and we sampled, I don't know, probably like 50 different flavors.",
+            "timestamp": "00:32:21"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then when you think about the combinations of those flavors that we did, it went much more expansive beyond that.",
+            "timestamp": "00:32:34"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then also, what we were trying to accomplish was get this beautiful flavor without having sugar.",
+            "timestamp": "00:32:42"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's an increased level of difficulty for that challenge.",
+            "timestamp": "00:32:52"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we now have a product that...",
+            "timestamp": "00:32:56"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It doesn't have high-intensity sweeteners and also doesn't have any sugar, but still has the freshness and the beautiful taste directly from the farm to give a flavor profile that we think is pretty sophisticated and matches the kind of preferences that our consumers are after.",
+            "timestamp": "00:33:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, yeah, that's super interesting to hear.",
+            "timestamp": "00:33:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "It kind of ties into what I wanted to talk about next, which is, I mean, I know the founding team, like your, Joey, your wife, she was, you know, she experienced this as well, like trying out different supplements and things like that.",
+            "timestamp": "00:33:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And I would be curious just to hear, like, what was, or what did you find is lacking in your, like, major competitors?",
+            "timestamp": "00:33:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I know, like from watching your customer videos, it's, you know, some people that don't want to take pills, others find the powders gross, so they don't to drink them, or they find it difficult to, like, form a habit around taking these supplements.",
+            "timestamp": "00:33:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Like, you could just tell me what kind of, what are the areas where your competitors really kind of drop the ball?",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:34:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, so I would say a few things on that.",
+            "timestamp": "00:34:09"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One is the form factor that we've used, similar to other powders, is we were able to formulate it in a way that has probably the highest player absorption and bioavailability for people.",
+            "timestamp": "00:34:11"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And Maggie can kind of help with some specific language for that, but that was one aspect that is attractive.",
+            "timestamp": "00:34:28"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we wanted that, so we went with a powder, but then we also decided to go with an effervescent product.",
+            "timestamp": "00:34:34"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we felt like that was, again, back to that kind of like sophisticated flavor profile.",
+            "timestamp": "00:34:41"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Something that if it has a little fizz and it has a little bit of an exotic flavor profile from a natural source, that's something that's going to be really quite nice to take every single day.",
+            "timestamp": "00:34:46"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the most common reasons we found that people...",
+            "timestamp": "00:34:57"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Stop taking their supplementation regimen is because it tastes gross or because of the pill fatigue.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So those are the two things that we really try to avoid.",
+            "timestamp": "00:35:07"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And when you combine that with something Brian said earlier on like a greens juice as an example, it's pretty gross tasting and people tend to stop taking it because it tastes bad, but also who knows if it works because they've thrown 500 those ingredients at it where we've tried to be much more surgical about exactly what you need based on where you are.",
+            "timestamp": "00:35:09"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's kind of a combo there.",
+            "timestamp": "00:35:34"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The other thing is like gummies are extremely popular.",
+            "timestamp": "00:35:36"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like they're almost a quarter of the VMS business now and they cannot formulate specific ingredients into gummies in reasonable concentrations.",
+            "timestamp": "00:35:41"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like it's very difficult to get iron as an example into gummies.",
+            "timestamp": "00:35:52"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And iron is a really critical element for both prenatal as",
+            "timestamp": "00:35:56"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "as as your primary stage when you're shedding a lot of iron through your menstrual cycle.",
+            "timestamp": "00:36:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So we've been able to put all of those ingredients in because we chose this form factor.",
+            "timestamp": "00:36:03"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then also we had no sugar and not like a candy, sickly, sweet flavor as well that you'll find with gummies that are sugar-free.",
+            "timestamp": "00:36:08"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So those are, I'd say those are the, those are probably the big differentiators from form factor on why we tried to do this.",
+            "timestamp": "00:36:17"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we feel like we threaded the needle and found like that sweet spot where it tastes really good, very bioavailable.",
+            "timestamp": "00:36:23"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're able to put in all the ingredients that we wanted to.",
+            "timestamp": "00:36:28"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's, there's almost no exceptions to that.",
+            "timestamp": "00:36:31"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, and yeah, I think that's a good summary.",
+            "timestamp": "00:36:34"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And what, one last thing, a negative flag is that one of the things that we, we did have to compromise on is that you see, um, quite a bit of settling or precipitation of some materials out of the, uh, of the, like out of solution when you're stirring it in your glass.",
+            "timestamp": "00:36:39"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, and the reason for that.",
+            "timestamp": "00:36:58"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "is that we've put in some critical elements.",
+            "timestamp": "00:37:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One in particular that we're finding is a culprit of this is magnesium, where we've had to make the particle size a little bit larger than what would be soluble in water, and that helps to make it taste good.",
+            "timestamp": "00:37:02"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you do need to like kind of swill it around at the end and chug the last sip, which is kind of a downside.",
+            "timestamp": "00:37:14"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "think people are used to that in the vitamin space, but that is one thing I think we should probably front foot as well in the content that we're writing.",
+            "timestamp": "00:37:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "One other just like quick thing is like one good comp just from like what the product will sort of look like in a way is emergency.",
+            "timestamp": "00:37:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "So if you like buy emergency, you could pour it in a glass and get a sense of like what the action you'll see.",
+            "timestamp": "00:37:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "But I think what's important here is, and this goes back to Joey coming around no sugar, I didn't know this emergency is five grams of sugar.",
+            "timestamp": "00:37:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Joey, many grams are in an emergency pack?",
+            "timestamp": "00:37:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Nine and a half, yeah it's like mostly actually like sugar water and so ours obviously there is no sugar but you get this like delicious tasting beverage so just more just like wanted to throw it out there like you want to play around with the experience that's kind of what it'll be like because it's really interesting like I don't want to buy this too much based on personal experiences right like but but it's almost like you go into this beast trip like so for instance let's say you're doing more like you're trying to live more of like either keto or a kind of like hack and it's life lifestyle when it comes to eating and then you're looking for non-alcoholic solutions but then you're also starting to go really deep into like grass fat and quality of ingredients and then you're like oh  all the supplements I'm taking are garbage like you know and then you're like oh I wonder where they source their stuff from and then you start listening to all these people like Dr.",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Pompa and these other folks and then it's just like oh I don't know this is I like",
+            "timestamp": "00:38:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so it would be really interesting to kind of try to reverse engineer these rabbit holes, healthy rabbit holes that people go into, I guess, you know, because if we show up in a couple of those places, obviously we want to hit the bullseye of supplements, but people may not be in that mindset fight yet.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "You know, like they might be in other like places that then, you know, naturally will eventually lead to, to, to this, you know, it'd be really, really interesting, you know, but I don't know if, Maggie, your thoughts on, on that.",
+            "timestamp": "00:39:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I mean, I, I think it's going to be a fine, what's that expression?",
+            "timestamp": "00:39:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Fine needle, thread the needle.",
+            "timestamp": "00:39:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "There's a lot of hype in the supplement space and there's a lot of like, sorry, but like bro marketing culture in the supplement space.",
+            "timestamp": "00:39:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Like it's all about like fear mongering, like you're doing this and you missed out on this and you shouldn't have this in your supplement.",
+            "timestamp": "00:39:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I think we'll have to strategically come up with ways, to your point, Marcel, like how do we hit those people and encourage them to think outside the box sometimes because we can get so trapped in singular thinking in the supplement space that it's like not beneficial, right?",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, for instance, sugar actually like helps the body absorb electrolytes.",
+            "timestamp": "00:40:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "There's good research on that.",
+            "timestamp": "00:40:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So like sugar actually isn't a culprit.",
+            "timestamp": "00:40:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "It's just how much sugar are you consuming?",
+            "timestamp": "00:40:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, and I just do want to note, we do keep saying no sugar.",
+            "timestamp": "00:40:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That is correct.",
+            "timestamp": "00:40:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "There will be a sweetness profile to it though.",
+            "timestamp": "00:40:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, so I just, I don't want, I want consumers to be confused if we blast no sugar and then they're like tasting it.",
+            "timestamp": "00:40:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, I just want to, you know, I'll be guilt.",
+            "timestamp": "00:40:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Well, yeah, exactly.",
+            "timestamp": "00:40:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Um, yeah, know, I think what Joey was saying too, like, I, I think we haven't.",
+            "timestamp": "00:40:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I'm just going to say this from being in the supplement industry, we haven't realized just how remarkable the input is because to get all these vitamins and minerals in a beverage that tastes good really hasn't been done before.",
+            "timestamp": "00:41:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And so that in and of itself is pretty unique, right?",
+            "timestamp": "00:41:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Like if you have minerals, you're going to taste them and they're going to be like metallic and like, you know, pretty strong tasting.",
+            "timestamp": "00:41:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Our beverage is like pretty enjoyable, which is not commonly what you hear from people who take supplements.",
+            "timestamp": "00:41:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Like, oh, I just get it down or oh, it's disgusting or oh, it smells or whatever.",
+            "timestamp": "00:41:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Right?",
+            "timestamp": "00:41:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So yeah, there's grit at the bottom, but I think we have unlocked a significant use that like we should really play into a lot.",
+            "timestamp": "00:41:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:41:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And like, and that's what I was kind of leading to a little bit.",
+            "timestamp": "00:41:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And it did have one other question that I would love to kind of come back to.",
+            "timestamp": "00:41:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "you, but.",
+            "timestamp": "00:41:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:41:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Where, in that sense, take for instance Wild Wonder, exploded, and it's just like, there's aspects of best side, which is like, yes, we're talking about supplements, but the profile, taste, things you should drink, things you should watch for.",
+            "timestamp": "00:42:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, so there's just like, when we talked about all the different aspects, right, like where like nutrition, exercise, things like that, it's just figuring out like, how do we thread that needle of like, not being overly prescriptive on other areas of life, but also like, helping clarify some things, or at least like curate some thoughts and things, you know, that eventually lead to, to some of these, these topics, you know, but, but one, I would love to, if okay, to, to just like touch on a little bit more, was just on the, back into, into the ingredients, but, so, just in the rabbit hole of research, my wife and I've done over the years on.",
+            "timestamp": "00:42:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "That stuff, right?",
+            "timestamp": "00:43:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "There's a lot of things around where ingredients are sourced, and for instance, depending on where they're sourced, the air quality can have a huge impact, right?",
+            "timestamp": "00:43:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "There's a lot of those things.",
+            "timestamp": "00:43:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Is it ethically sourced?",
+            "timestamp": "00:43:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Some people care about that.",
+            "timestamp": "00:43:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Others won't care.",
+            "timestamp": "00:43:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "There's the testing, but then there's like, is it testing for certain kinds of contaminants?",
+            "timestamp": "00:43:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Sorry, I can't even talk.",
+            "timestamp": "00:43:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Or what is it being tested for?",
+            "timestamp": "00:43:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Or is it just like that, should the manufacturing process is awesome?",
+            "timestamp": "00:43:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Or is it also to see if there's any, like, or is it purity or potency in the ingredients, right?",
+            "timestamp": "00:43:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, and so we'd be really curious, like how deep we want to go there, because for certain people, it might be really important.",
+            "timestamp": "00:43:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But then also, it might be the kind of audience that, hey, if they're that deep, like, maybe we don't want to go that deep for everybody else, because it might overwhelm them, too, you know?",
+            "timestamp": "00:43:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah, I mean, we, so what did we, our strategy was more about.",
+            "timestamp": "00:43:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Bioavailability, meeting the right dosage for the clinical effect, so all of the ingredients have to meet GMP, which is your purity, your potency, no heavy metal, well, heavy metals have to be at a certain level, right, because it's not no heavy metals, there's acceptable levels, all defined by the FDA, micro, all of these things have to be met, in order for you to release your product to the public, right, um, we didn't, and we went after non-GMO, right, and we went after, like, the no sugar and things like that, um, we didn't go strong after, like, is this, like, ethically wildcrafted in the cleanest, in the Peruvian mountains, right, so we probably shouldn't go down that route, um, but, um, yeah, I don't I know,",
+            "timestamp": "00:44:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Joey, if there's an area you want us to stretch on more?",
+            "timestamp": "00:45:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I think you just summarized it really well.",
+            "timestamp": "00:45:06"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we rely on the purity of testing that we've done and clinical approach that we've taken that we put the right dosages versus the provenance of the materials.",
+            "timestamp": "00:45:08"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because, yeah, I mean, I think you get into a place where like, hey, where are your pharmaceuticals made?",
+            "timestamp": "00:45:20"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, they're all made in India and China.",
+            "timestamp": "00:45:25"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, you know, so I think the provenance of something that's to, I don't think that many consumers care enough about it.",
+            "timestamp": "00:45:28"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I know that Ritual has tried to go that direction and I don't think it's very successful.",
+            "timestamp": "00:45:37"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I think what you just said is a good path.",
+            "timestamp": "00:45:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay, that's super insightful because then like, I think what Ritual did a really good job was just saying like, look, this looks a different way, and because of that, it's going to be absorbed much better.",
+            "timestamp": "00:45:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And by the way, it's really high quality.",
+            "timestamp": "00:45:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, don't worry about it.",
+            "timestamp": "00:45:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, and people-",
+            "timestamp": "00:45:59"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we've tested to make sure that not only, I don't think we should say, like, we're like, we don't care about that.",
+            "timestamp": "00:46:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We've tested to make sure that it's to a level of purity that is extremely high quality, that we're very comfortable, like marketing to you as a consumer that we care about your health.",
+            "timestamp": "00:46:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, it's almost like, on one end, it's like, this is complete garbage, be very careful, it could actually, like, hurt you.",
+            "timestamp": "00:46:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then the other end is like, the, like, super extreme, like, I need to know the actual name of the farm or the actual place where you source every ingredient from.",
+            "timestamp": "00:46:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And we probably want to be enough to distinguish ourselves from like the, you know, the stuff you get on Amazon sometimes, right?",
+            "timestamp": "00:46:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, but, but not so much that then it's just like, almost like overwhelming, maybe, you know?",
+            "timestamp": "00:46:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Yeah, and I think a lot of that, again, like, I was",
+            "timestamp": "00:46:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Same as to Joey on my diatribe, like, transparency, if you try to go down that route, like, you're gonna blow stuff up, like, I can tell you that most B vitamins originate from coal tar, and everyone who's using B vitamins has synthetic vitamins that are made out of that, right?",
+            "timestamp": "00:47:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, like, I think there's a lot of marketing that is done to, like, zhuzh things up that isn't wholly transparent, right?",
+            "timestamp": "00:47:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Like, even with Ritual, to be, like, from Italy.",
+            "timestamp": "00:47:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "And I know that, like, Gnosis gets some of their starting material from China, right?",
+            "timestamp": "00:47:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "So, it's, like, you know, just being, like, thoughtful about, like, okay, well, we really care about you getting the right dose and it not having, like, the things that it shouldn't have, like, the heavy metals and the micro and, you know, using bioavailable, like, leaning into the positives versus, like, you know, what we think we did.",
+            "timestamp": "00:47:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Include, because a lot of times it actually is included if you start going down the rabbit hole.",
+            "timestamp": "00:48:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, but that's super helpful because it's like we're optimizing it for increasing the chances that it will have a positive impact on the things you care about, which is mood, you know, which is sleep, which is focus and all that.",
+            "timestamp": "00:48:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But it's still maintaining the highest level of quality possible.",
+            "timestamp": "00:48:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "That's perfect.",
+            "timestamp": "00:48:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:48:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Sorry to go so deep.",
+            "timestamp": "00:48:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's just like I was really curious because we talk so much about ingredients, you know, and I know that's part of the content strategy.",
+            "timestamp": "00:48:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So it's like we just got to be thoughtful of where not to go too much towards, you know, when it comes to ingredients.",
+            "timestamp": "00:48:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:48:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:48:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I know you shared a bunch of customer videos with us and I watched them, but I just want to like ask again, if there are any sort of questions that have come up specifically regarding the perimenopause supplement.",
+            "timestamp": "00:48:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And from customers that, like, we really should focus on with educational content.",
+            "timestamp": "00:49:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, I think there's a depth we need to go into on what is the impact, I mean, like, the simple chart that you guys have seen of the five stages and what happens for the two hormones in particular.",
+            "timestamp": "00:49:15"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think it's something to really lean into, and the impacts of those, you know, are quite broad, the ones we focused on, we put in the kind of headline slide around dulled mental acuity, irritability, mood, anxiety, like, I don't know if you picked up in the videos, but the physical pangs of anxiety were something that were really interesting to me, and that women felt like they've never had anxiety in their entire life.",
+            "timestamp": "00:49:29"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then all of a sudden they have like this constricting feeling in their chest of a physical feeling of anxiety.",
+            "timestamp": "00:50:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like these things are like, are very real.",
+            "timestamp": "00:50:06"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, and when you have those kinds of things, you're also going to trigger a lack of restful sleep because your body has been so and uncomfortable for your entire day or pieces of your day.",
+            "timestamp": "00:50:09"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, so those are the things that we really tried to, to address.",
+            "timestamp": "00:50:24"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, and also, and also make sure that you have the right levels of key minerals that you, uh, many people do not have a sufficient intake in their diet.",
+            "timestamp": "00:50:29"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Almost everybody, uh, which also will promote, uh, promote more restful sleep and just better overall health.",
+            "timestamp": "00:50:39"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I, I can't, I don't know if there's anything more specific that you're after in that, in that area, but those are the ones that we, that we tend to find were the most prominent for people.",
+            "timestamp": "00:50:46"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And by the way, the one last thing that is extremely prominent.",
+            "timestamp": "00:50:55"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "to words about that.",
+            "timestamp": "00:50:59"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Cross perimenopause and menopause is weight management, and we did not focus on that in midlife, and again, this kind of goes to an overall view that GLP-1s are incredibly prominent for people that really care deeply about weight management, and this is a really nice complement to that, but not trying to replace it was sort of the approach we went through, so I'm not sure.",
+            "timestamp": "00:51:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Other than, like, the lean muscle mass that we've tried to help support while you're dropping both your muscle and your fat when you're taking GLP-1s.",
+            "timestamp": "00:51:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, this is very, very helpful stuff, and all, like, I noticed from one of the customer videos, you know, a lot of women were talking about just, like, snapping at their kids and, like, all of a sudden being very, very irritable, like, overnight, and I saw, like, a lot of this stuff with my mom as well.",
+            "timestamp": "00:51:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I feel pretty bad that I wasn't, like, as educated on this back then so I could, like, help her out because she had no idea what was going on.",
+            "timestamp": "00:51:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "All right, so...",
+            "timestamp": "00:51:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "All right, so...",
+            "timestamp": "00:51:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Hey, you know what?",
+            "timestamp": "00:52:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One thing, I think you just made a comment that has been on our mind, and I'm just going to put it out there.",
+            "timestamp": "00:52:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't know if it's going to be helpful for you guys or not, but we've had so many people through this process, including ourselves, have that feeling of like, , I wish I just knew this, because it would have been so helpful.",
+            "timestamp": "00:52:07"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And there's something about the, we have a multi-generational aspect to our product line, and we will even more so when we have, when we address like teams.",
+            "timestamp": "00:52:21"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But like this idea of wisdom from older women being passed down to people who haven't yet gone through the stages that these older women have gone through is something that's really interesting.",
+            "timestamp": "00:52:31"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it's probably not your specific area, but you know, you guys are such deep experts in editorial content, like this idea of passing wisdom down from the menopausal women to women that are not even entering perimenopause yet, and like, damn, if I didn't know.",
+            "timestamp": "00:52:44"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What I know now about what I'm about to go through, I would be really thinking about blank, and blank, obviously, would lead you to consider some of the things that we've learned through our research and put into the product.",
+            "timestamp": "00:53:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "I was just going to say, just to briefly add to that is, and I was working on another company in the pharmacy's role space called Atli, which does hormone replacement therapy for women.",
+            "timestamp": "00:53:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "One thing that they always talked about is, like, from an education perspective, all the education is rooted, like, as a child, you're learning about, like, getting your period, but literally, like, the education sort of, like, stopped kind of there, there's, like, very little education, if anything at all, as far as perimenophiles or menophiles, there's no, like, avenue or system, you sort of, you got your OB, and they don't really help you navigate that area as well.",
+            "timestamp": "00:53:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "So it's just this, like, broad universe where the individual is actually...",
+            "timestamp": "00:53:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Experiencing it is ostensibly lost.",
+            "timestamp": "00:54:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "And so I think, like, from a content perspective, there's certainly a role that biologica can play.",
+            "timestamp": "00:54:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "I think how we express that, the devil's going to be in the details, because there's going to be certain areas that, like, we probably shouldn't necessarily go down.",
+            "timestamp": "00:54:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "But then there's other areas where it's like, it makes a lot of natural sense for biologica to play, like, a very clear role there.",
+            "timestamp": "00:54:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "But more just want to, like, put that out there.",
+            "timestamp": "00:54:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "It's just this area, like, these women, they're just, like, lost, because there's no strong avenue for it.",
+            "timestamp": "00:54:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "That's really, I love that insight, because, like, I know it's very different, but even, like, personally, when we went through our IVF journey, it wasn't just, like, the lack of educational content, but it was also, like, no one would talk about it openly at all.",
+            "timestamp": "00:54:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then, like, my wife and I have made a very big point to always talk about it publicly and with friends.",
+            "timestamp": "00:54:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then it turns out, like, almost.",
+            "timestamp": "00:54:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "All of our friends have had miscarriages, all of our friends, you know, and then it's just like, you're just like, okay, nothing was messed up with us, you know, and I think there's maybe something there that Aida was touching on too, that maybe it's not where we start, but over time, there's ways we can find where we can capture the essence of those stories, or, you know, that where people feel supportive of like, you know, hey, my mom was being really snappy, and I was like, not understanding that, you know, it's like, or something like, that, that's just like, it just kind of touches on the more human side of it, of like creating empathy, and support and empathy for the stage of life, you know?",
+            "timestamp": "00:55:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, let me, let me, let me add into that real quick, because that's something that we've been really focused on for the brand position.",
+            "timestamp": "00:55:40"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The, like, what we're trying to lean into is that, like, there's nothing wrong with you.",
+            "timestamp": "00:55:48"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, this is the normal cycle of hormones, and it doesn't it doesn't.",
+            "timestamp": "00:55:55"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Create these issues.",
+            "timestamp": "00:56:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So what we would like to be is your co-pilot for your hormones and that kind of concept that we are working alongside the natural rhythm of a woman's hormonal cycle in a supportive way and almost like normalizing it rather than making it like be an issue you have to deal with or that is out of balance, quote unquote, to use Maggie's term earlier.",
+            "timestamp": "00:56:01"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's not out of balance.",
+            "timestamp": "00:56:26"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's exactly where it should be, but it would be nice if you had a co-pilot alongside you.",
+            "timestamp": "00:56:27"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:56:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:56:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Almost like counterbalancing it.",
+            "timestamp": "00:56:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:56:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:56:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "That's perfect.",
+            "timestamp": "00:56:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, that's perfect.",
+            "timestamp": "00:56:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I know wanted to speak over, Aida.",
+            "timestamp": "00:56:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Is there anything else that you feel like?",
+            "timestamp": "00:56:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'm sure there's going to be other areas as we go into it, but just one more time.",
+            "timestamp": "00:56:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah, I'm all like, this was great.",
+            "timestamp": "00:56:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Thank you so much.",
+            "timestamp": "00:56:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I know we went over, but yeah, this was very, very helpful.",
+            "timestamp": "00:56:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:56:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Maggie.",
+            "timestamp": "00:56:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And obviously, Brian, Joey, thank you so much for being so generous with your time, where, as you can probably tell, we're deeply excited and want to do everything possible to just knock this out of the park for you all, you know, and get to the true essence of what, representing your brand the right way.",
+            "timestamp": "00:57:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:57:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, can tell.",
+            "timestamp": "00:57:19"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, totally.",
+            "timestamp": "00:57:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Maggie Luther",
+                "matched_calendar_invitee_email": "maggie@biologica.com"
+            },
+            "text": "I just wanted to say, like, I'm going to do a GMP explanation thing, but Brian, if there's other things that you want me to get them, just filter me however you want to.",
+            "timestamp": "00:57:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Yeah, I mean, as we're now, I think I have everything I need, but I'd say, like, Aida, Marcel, just, like, keep the questions coming, like, the way I like to operate, honestly, is just, as they come up, just ask me, like, you don't need to, like, consolidate everything to, like, one clean document.",
+            "timestamp": "00:57:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "I just operate better, just, like, hit it with fire hose, and I can try to get things as quickly as possible.",
+            "timestamp": "00:57:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "And as I alluded to in Slack earlier,",
+            "timestamp": "00:57:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Maggie's working on, you already have access to, like, the initial draft of midlife dossier, but there'll be two more dossiers later this month, and just, yeah, as you go through the process of just, like, getting access to the various references, just let me know how I can be helpful, but that's, like, a process I know Maggie wants to be part of, so just let me know, like, how I can sort of facilitate all that.",
+            "timestamp": "00:58:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, one, sorry, one just last thing that we'll touch on probably early next week is just, we love to start to understand a little bit more on the visual side of things, on the brand visuals, like, just because in this area, like, we're going to want to enrich things with visuals, and so I know that can be a very, like, particular area where it's like, hey, we only want to use our own photography, or hey, we don't want to use this, or we want to do this, or this is how we want to kind of come across.",
+            "timestamp": "00:58:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And I know y'all are probably still developing some of it, but then.",
+            "timestamp": "00:58:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We can kind of touch on maybe next week as well.",
+            "timestamp": "00:59:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, I can walk you through.",
+            "timestamp": "00:59:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "We should actually have, hopefully by the day, tomorrow, an updated web design system.",
+            "timestamp": "00:59:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "I can share, I don't know if I shared with you, I can share with you like what we have today from round two.",
+            "timestamp": "00:59:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "There's gonna be some changes, but you'll get a sense like visually what that was like.",
+            "timestamp": "00:59:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Um, and then, yeah, that'd be a good, I think, conversation for Joey and I next week.",
+            "timestamp": "00:59:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "We're literally putting together like a shot list right now for the website, but I think what you might be alluding to would be ingredients.",
+            "timestamp": "00:59:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Like, we definitely need to capture that in some capacity.",
+            "timestamp": "00:59:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "I don't think Joey would have figured out exactly how we're doing that yet.",
+            "timestamp": "00:59:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Um, and then, uh, yeah, kind of like the role to play as far as like creating graphics or illustrations or things like that.",
+            "timestamp": "00:59:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "Like we haven't figured any of that stuff out yet, but we'll see.",
+            "timestamp": "00:59:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Brian Magida",
+                "matched_calendar_invitee_email": "brian@hellobdv.com"
+            },
+            "text": "And that's what would be helpful.",
+            "timestamp": "00:59:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "like, cause we've",
+            "timestamp": "00:59:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'll offer other customers as well, and we have a lot of different workflows that can systematize some of it, and then some of it, you know, like when I was at HB, right, like I remember we did some server photo shoots in the Safari in Africa, right, like obviously like that's the, you know, hundreds of thousands of dollars per photo shoot, but it's like that might not be an option, right, like, and so are there creative ways that we can do that still come like really high quality, but almost at no cost, you know, that that will get us to a really high quality output for some of the two day contents, and you save some of that budget towards like, you know, the, the high branded high, you know, stakes thing, thing, thing, thing, thing that, one thing that may be helpful for that is, we're, you know, like partly to differentiate the brand, but one of, like, we get just fits with what we're trying to create is a lot of our hero, like shoots, like,",
+            "timestamp": "01:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'll shoot some particular are going to be black and white and like we're shooting on on real film for our hero lifestyle shoot both video and portrait and it'll be like this is like really beautiful rich black and white and you almost think of our imagery I think the best example I've come to is like an H&M where it's like extremely gorgeous black and white photography but yet the price points accessible.",
+            "timestamp": "01:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "so we're also not afraid to shout about like what we're actually doing for you as a consumer so it's not all the way up to like you know YSL luxury but it's it's more like more like the H&M style with really gorgeous photography and I think if we weave that into some of our content here I think there's a way to balance that like extremely high-end look with a with a approachable budget.",
+            "timestamp": "01:01:29"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "yeah that's that's perfect well thank you all so much I'm",
+            "timestamp": "01:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'm excited to keep getting back to work, because we got a lot we're going to share next week with you, and a lot of ideas in our heads, and so thank you all so much for the collaboration already.",
+            "timestamp": "01:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Totally.",
+            "timestamp": "01:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Great to meet all.",
+            "timestamp": "01:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "too.",
+            "timestamp": "01:02:13"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Great, great.",
+            "timestamp": "01:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sorry.",
+            "timestamp": "01:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "01:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "+1 415-***-**04",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Bye.",
+            "timestamp": "01:02:16"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive into Biologica's perimenopause product formulation, positioning, and content strategy.](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Biologica uses premium, clinically-studied ingredients tailored to specific hormonal stages, focusing on bioavailability and efficacy](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=304.0)\n  - [Product differentiators: effervescent form factor, sophisticated flavor profile, no sugar, high bioavailability](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=1814.0)\n  - [Content strategy should focus on educating about hormonal stages, normalizing experiences, and positioning Biologica as a \"co-pilot\" for hormones](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3340.0)\n  - [Brand imagery will feature high-end black and white photography, balancing luxury look with accessible pricing](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3660.0)\n\n## Topics\n\n### Product Formulation\n\n  - [5-6 trademarked ingredients per formula, tailored to each hormonal stage](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=304.0)\n  - [Focus on bioavailable vitamins and minerals for optimal absorption](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=361.0)\n  - [Clinically-studied probiotic included in each product](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=384.0)\n  - [Formulated without sugar, using natural flavors for a sophisticated taste profile](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=304.0)\n\n### Competitive Differentiators\n\n  - [Effervescent form factor for increased bioavailability and enjoyable consumption](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=1814.0)\n  - [Curated approach vs. \"kitchen sink\" formulations of competitors](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=640.0)\n  - [Addresses psycho-social-emotional symptoms (focus, mood, sleep) rather than just physical symptoms](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=480.0)\n  - [No sugar, but maintains a pleasant sweetness profile](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=1435.0)\n  - [Ability to include critical ingredients like iron, which are difficult to formulate in gummies](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=1147.0)\n\n### Target Audience and Positioning\n\n  - [Women with household incomes over $100,000](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=271.0)\n  - [Positioning as a \"co-pilot\" for hormones, normalizing the experience rather than treating it as an imbalance](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3348.0)\n  - [Sophisticated flavor profiles (e.g., Passion Fruit Blackcurrant, Elderflower Lemonade) aligned with target consumer preferences](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=1814.0)\n\n### Content Strategy Insights\n\n  - [Educate on the five hormonal life stages and their impacts](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=250.0)\n  - [Address common perimenopause symptoms: dulled mental acuity, irritability, mood swings, anxiety, sleep issues](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=480.0)\n  - [Highlight the multi-generational aspect, sharing wisdom from older women to younger generations](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3340.0)\n  - [Focus on transparency in ingredient sourcing and testing, without overemphasizing provenance](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=2708.0)\n\n### Brand Imagery\n\n  - [High-end black and white photography shot on real film](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3660.0)\n  - [Balancing luxury aesthetic with accessible pricing (comparable to H\\&M's visual approach)](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3689.0)\n  - [Mix of hero lifestyle shoots and potentially more budget-friendly content imagery](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3660.0)\n\n### Manufacturing and Quality\n\n  - [Adherence to Good Manufacturing Practices (GMP)](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=1609.0)\n  - [Focus on bioavailability, meeting clinical dosages, and purity testing](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=304.0)\n  - [Non-GMO ingredients](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=304.0)\n  - [Third-party testing for purity and potency](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=1529.0)\n\n## Next Steps\n\n  - [Maggie to provide GMP explanation document](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=1609.0)\n  - [Brian to share updated web design system and shot list for the website](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3545.0)\n  - [Discuss visual content strategy, including ingredient imagery and illustrations, in next week's meeting](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=3570.0)\n  - [GrowthX team to begin developing content ideas based on insights from this meeting](https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ?tab=summary&timestamp=2921.0)\n"
+    },
+    "action_items": [],
+    "calendar_invitees": [
+        {
+            "name": "Brian Magida",
+            "email": "brian@hellobdv.com",
+            "email_domain": "hellobdv.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Brian Magida"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcel Santilli"
+        },
+        {
+            "name": "joey@biologica.com",
+            "email": "joey@biologica.com",
+            "email_domain": "biologica.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "maggie@biologica.com",
+            "email": "maggie@biologica.com",
+            "email_domain": "biologica.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Maggie Luther"
+        },
+        {
+            "name": "Aida Kne\u017eevi\u0107",
+            "email": "aida@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": false,
+            "matched_speaker_display_name": "Aida Kne\u017eevi\u0107"
+        }
+    ],
+    "recorded_by": {
+        "name": "Aida Kne\u017eevi\u0107",
+        "email": "aida@growthxlabs.com",
+        "email_domain": "growthxlabs.com",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/KFAPVstRz6z5jp-_Yf-dkz9CJ1Zy-VKJ",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

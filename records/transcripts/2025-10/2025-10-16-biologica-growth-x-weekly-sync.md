@@ -1,0 +1,952 @@
+# Biologica <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-10-16
+time: 20:00 UTC
+duration: 30 minutes
+organizer: matthew@growthx.ai
+participants: Matthew Panzarino (GrowthX), Brian Magida (Biologica), Elizabeth Zwillinger (Biologica)
+fathom_recording_id: 94810631
+fathom_url: https://fathom.video/calls/442643819
+share_url: https://fathom.video/share/zV8wJ3TaDoL-ydZPFVQz2-RvAMjroLD_
+source: fathom
+enriched_on: 2026-03-02 18:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Biologica reviewed 15 newly produced articles from the upgraded content pipeline and confirmed they're meeting quality expectations — improved intros, solid clinically-backed body content, and well-integrated product CTAs. The team discussed how to handle medical terminology like "visceral hypersensitivity" through hyperlinked definitions to balance accessibility with professional credibility, and confirmed regulatory guidance is needed on product mentions and citations vs. links before final publication. Matthew outlined new image generation workflows for featured images (non-specific, tighter crops), interstitial content (botanical, ethereal aesthetics), and demographic-matched headers, while Brian flagged website formatting issues and described exploring Shopify's new Knowledge Base tool for FAQ generation.
+
+---
+
+## Context
+
+Biologica is GrowthX's client for a comprehensive content marketing engagement focused on health and wellness articles centered on gastrointestinal and women's health topics. The relationship is ongoing, with Biologica providing product information and editorial direction while GrowthX owns the content creation pipeline, which recently underwent a significant architectural upgrade to improve quality and consistency. This weekly sync is the standard delivery cadence where Matthew (GrowthX's lead) and Brian (Biologica's product/delivery contact) review progress, discuss technical blockers, and align on next steps. Elizabeth Zwillinger from Biologica also participates, focusing on quality assurance and ensuring content matches intended reader demographics.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- New content pipeline architecture is delivering measurable quality improvements and client confidence — intros, clinically-backed body content, and CTAs all flagged as strong in this iteration
+- Hyperlink strategy for complex medical terms (visceral hypersensitivity, GI terminology) is becoming a core editorial pattern; needs formalization in checklist and prompts
+- Regulatory compliance for supplement product mentions is fluid — need to confirm whether citations vs. links is a hard requirement, and build flexibility into pipeline to handle both formats without major rework
+- Visual content iteration cycle is converging — demographic-matched personas for image generation is the key lever; demographic mismatch (e.g., too-young person for perimenopausal article) causes reader friction
+- Website publishing workflow is documented but has formatting bugs (font, color, metadata) that require engineering handoff; not blocking content but needs tracking
+
+**To GrowthX Business Development:**
+- Biologica engagement is healthy — proactive feedback, willingness to iterate, no churn signals; client is actively using new content for website drafts
+- Potential expansion: Shopify Knowledge Base FAQ generation was introduced by client; if Matthew can build this into pipeline, it's a new deliverable category that could be offered to other e-commerce/health brands
+- Team transition coming (Felix joining as assistant editor) — position as value-add (more AI-forward, experienced editor) rather than handoff risk
+
+**To CheckThat / AEO:**
+- Supplement brand's content strategy is moving toward deeper topic expertise (medical terminology, clinical backing, persona-specific messaging) — good reference point for health/wellness vertical
+- Citation vs. links decision will affect how CheckThat evaluates supplement content credibility; worth monitoring competitor practices (e.g., Thorne's approach mentioned in call)
+
+---
+
+## Overview
+
+- Matthew reviewed 15 new articles from the upgraded pipeline and confirmed they meet quality bar: strong intros, solid clinically-backed body content, graceful outros, and well-integrated product CTAs
+- Elizabeth flagged medical terminology accessibility concern (e.g., "visceral hypersensitivity") and Matthew agreed to implement hyperlinks to definitions; will add to editorial checklist
+- Brian raised regulatory question: are citations required instead of links for supplement articles? Matthew will research and build flexible pipeline to handle both if needed
+- Matthew shared image generation updates: featured images being tweaked for non-specific, tighter crops; interstitial images in development with botanical/ethereal aesthetic; demographic-matched personas being integrated (e.g., 50+ women for perimenopausal content)
+- Brian flagged website publishing issues: author metadata needs updating from "GrowthX" to doctor names, font/color inconsistencies need fixing
+- Brian asked about Shopify's new Knowledge Base tool and potential to auto-generate FAQs from articles; Matthew agreed to investigate and propose workflow
+
+---
+
+## Key Topics
+
+### Content Quality Improvements
+
+  - 15 new articles produced with better intros, solid clinically-backed content, and graceful outros
+  - CTAs well-integrated, using language to transition from concepts to product recommendations
+  - Sentence complexity to be gradually increased for more natural flow
+  - Positive feedback on intro paragraphs, which previously needed the most work
+
+### Medical Terminology and Accessibility
+
+  - Discussion on balancing medical terms (e.g., "visceral hypersensitivity") with reader accessibility
+  - Considering hyperlinks to definitions for more complex terms
+  - Aiming to maintain a professional tone while providing resources for readers to learn more
+
+### Regulatory Considerations
+
+  - Potential need to adjust how products are mentioned in articles due to regulatory concerns
+  - Discussing the possibility of using citations instead of links, similar to other supplement companies
+  - GrowthX can adapt content to include citations if required, without significant pipeline changes
+
+### Visual Content Updates
+
+  - New image generation process aligning visuals with article topics and target demographics
+  - Tweaking top-line images to be more nonspecific with tighter crops and less defined facial features
+  - Developing interstitial images with botanical, blurred, grainy, ethereal feel
+  - Ensuring images match the described demographic (e.g., appropriate age range for perimenopausal topics)
+
+### Website Integration and Formatting
+
+  - Articles now being published as drafts on the website for review
+  - Need to update author information, publication dates, and other metadata
+  - Addressing font and color inconsistencies in the published drafts
+
+### Shopify Knowledge Base Integration
+
+  - Exploring the possibility of generating FAQs from article content for Shopify's new Knowledge Base tool
+  - Considering adding FAQ generation to the content deliverables
+  - Manual copy-paste process proposed for transferring FAQs to Shopify platform
+
+---
+
+## Action Items
+
+**Matthew Panzarino (GrowthX)**
+- Implement/document hyperlink rule for complex medical terms (e.g., "visceral hypersensitivity"); add to editorial checklist
+- Research why supplement blogs use citations vs. links (regulatory vs. SEO rationale); share findings with Brian
+- Share refined interstitial image batch (botanical, blurred, ethereal aesthetic) with Brian and Liz
+- Evaluate Shopify Knowledge Base functionality; propose FAQ generation workflow/prompt to Brian
+
+**Brian Magida (Biologica)**
+- Review 15 new-pipeline articles on website drafts; provide feedback to Matthew on intros, body content, CTAs
+- Confirm with regulatory counsel whether product mentions require citations vs. links; share guidance with Matthew
+- Update article author metadata from "GrowthX" to appropriate doctor names; set published date (remove updated/modified dates)
+- Review new personas, writing guidelines, and company context artifacts Matthew prepared
+
+---
+
+## Transcript
+**Matthew Panzarino:** Hey, what's going on?
+
+**Matthew Panzarino:** All right.
+
+**Matthew Panzarino:** How are doing, sir?
+
+**Brian Magida:** Good.
+
+**Brian Magida:** How are you doing?
+
+**Matthew Panzarino:** Good.
+
+**Matthew Panzarino:** Good.
+
+**Matthew Panzarino:** Cruising.
+
+**Matthew Panzarino:** Busy week.
+
+**Brian Magida:** I saw you sent over like 15 articles.
+
+**Matthew Panzarino:** I haven't had a chance to answer.
+
+**Matthew Panzarino:** Yeah, no worries.
+
+**Matthew Panzarino:** It's us reworking those that you sent back or said, hey, she hasn't reviewed these, which I think is the right move.
+
+**Matthew Panzarino:** I looked, you know, I went through those.
+
+**Matthew Panzarino:** I looked over the outputs.
+
+**Matthew Panzarino:** I feel pretty positive about it.
+
+**Matthew Panzarino:** I don't want to get too excited until you take a look and Liz takes a look.
+
+**Matthew Panzarino:** But the introductions flow well.
+
+**Matthew Panzarino:** Not too many crazy euphemisms or turns of phrase, but flow relatively naturally, get you into the story.
+
+**Matthew Panzarino:** The center chunks, the body copy of most of it is not like we availed some like incredibly technical terms, but most of it's very straightforward, you know, medically backed, research-oriented language.
+
+**Matthew Panzarino:** Hey, Liz, just kind of like talking through some of the new stuff that we sent over.
+
+**Matthew Panzarino:** Good intros, solid, clinically backed stuff, you know, all through the center, and then a graceful outro.
+
+**Matthew Panzarino:** And then the CTAs are, I think, pretty well integrated, use language to sort of off-ramp people from the concept of why, you know, integrating a certain supplement might be good to like, hey, here's a great way to do it.
+
+**Matthew Panzarino:** You know, we have created what we think is a great way to do it.
+
+**Matthew Panzarino:** But take a look, evaluate the formula, let me know what you think.
+
+**Matthew Panzarino:** I just think these are a lot improved over like the last tranche of stuff out of the old pipeline.
+
+**Matthew Panzarino:** I'm pretty, pretty positive on it.
+
+**Matthew Panzarino:** I took yesterday and reviewed about 14 of them and then reviewed one.
+
+**Matthew Panzarino:** This morning, so we have 15 for you to look at.
+
+**Matthew Panzarino:** You do not need to, like, go ham on all of them.
+
+**Matthew Panzarino:** If you get into it and you see a systemic thing, just let us know.
+
+**Matthew Panzarino:** We'll rerun them.
+
+**Matthew Panzarino:** Rather than you having to go through all of them and be like, oh, I see this appearing in all of them.
+
+**Matthew Panzarino:** Cool.
+
+**Matthew Panzarino:** We'll fix it and we'll get back to you, right?
+
+**Matthew Panzarino:** But, like, I actually don't think there should be anything like that.
+
+**Matthew Panzarino:** I think I would have noticed it.
+
+**Matthew Panzarino:** But if you find something that I didn't see, please let me know.
+
+**Matthew Panzarino:** But I'm pretty jazzed on the quality of the pipeline at this point.
+
+**Matthew Panzarino:** We'll see how long my euphoria lasts.
+
+**Matthew Panzarino:** So we'll go from there.
+
+**Matthew Panzarino:** But I think they're relatively calm.
+
+**Matthew Panzarino:** The handful of things that I will tweak from here, we'll tweak everything from here, but one of the major things for me is I want to slowly dial up the sentence complexity again.
+
+**Matthew Panzarino:** I went through and manually concatenated some of these sentences or re-concatenated them.
+
+**Matthew Panzarino:** I brought them back together because they...
+
+**Matthew Panzarino:** We were just a little bit staccato.
+
+**Matthew Panzarino:** And if you see anything in there, we can always just edit it on the fly in this case.
+
+**Matthew Panzarino:** But I'm going to slowly turn the dial back up on sentence complexity now that everything is kind of calmed down and kind of normalized.
+
+**Matthew Panzarino:** And we'll get back into, you know, some more human sounding stuff.
+
+**Matthew Panzarino:** Overall, I think it's a good mix of relatively declarative punchy sentences with a handful of, you know, stuff that makes more sense from a narrative flow and doesn't read like, you know, a rapid fire set of statements.
+
+**Matthew Panzarino:** But I will acknowledge that we're sort of on the shorter end of the scale right now.
+
+**Matthew Panzarino:** So I'm going to, you know, tweak the dial a little bit in the other direction and we'll see what the next tranche looks like.
+
+**Elizabeth Zwillinger:** It's so, so, so subtle.
+
+**Matthew Panzarino:** I mean, I don't want you to.
+
+**Elizabeth Zwillinger:** I know.
+
+**Elizabeth Zwillinger:** It's like a real tweak.
+
+**Matthew Panzarino:** Yeah, like a 0.1, not a 1.0.
+
+**Matthew Panzarino:** Yeah, I agree.
+
+**Elizabeth Zwillinger:** I have a question.
+
+**Matthew Panzarino:** Yes.
+
+**Elizabeth Zwillinger:** There was one.
+
+**Elizabeth Zwillinger:** I didn't correct it because, oh shoot, I just had it.
+
+**Elizabeth Zwillinger:** And then it said, I actually, let just go to my Slack.
+
+**Elizabeth Zwillinger:** It said, women experience different symptoms than men.
+
+**Elizabeth Zwillinger:** These include more severe GI pain, greater abdominal distension, and pronounced visceral hypersensitivity.
+
+**Elizabeth Zwillinger:** So, I don't want to like, so visceral hypersensitivity, I had to look that up.
+
+**Matthew Panzarino:** Okay, yeah, okay, sure.
+
+**Elizabeth Zwillinger:** But I don't want to like, I like the, it's not super medical.
+
+**Elizabeth Zwillinger:** It's like this in between.
+
+**Elizabeth Zwillinger:** Yeah.
+
+**Elizabeth Zwillinger:** Abdominal distension is medical, but I know what that means.
+
+**Elizabeth Zwillinger:** And so I'm wondering for these that are like, whether you could make a rule or help, I don't know how, where we could just like, even hyperlink visceral hypersensitivity to, even just a definition.
+
+**Matthew Panzarino:** Yeah, just a standard definition of it.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Like, wait, what is that?
+
+**Matthew Panzarino:** Oh, yeah, I do have this, or whatever.
+
+**Elizabeth Zwillinger:** Yeah.
+
+**Elizabeth Zwillinger:** Yeah.
+
+**Matthew Panzarino:** Okay.
+
+**Elizabeth Zwillinger:** I don't know, Brian.
+
+**Elizabeth Zwillinger:** What do you think?
+
+**Elizabeth Zwillinger:** I don't want to, like, put more hyperlinks in there, but...
+
+**Matthew Panzarino:** I did actually, this batch, I can't remember what the term was offhand, but there was a term, and I'm like, you know, I'm going to link this.
+
+**Matthew Panzarino:** Because it's just, it's the same exact reaction you have, where I'm like, this is just one lever, one layer deeper than the casual reader might know what this is.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Certainly deeper than I knew.
+
+**Matthew Panzarino:** And so I'm like, let's just link a definition.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Let me think about it, but valid.
+
+**Matthew Panzarino:** Like, that's very interesting.
+
+**Matthew Panzarino:** Like, the alternatives are, we find what the most broadly acceptable drill-down term for this is, and replace that.
+
+**Elizabeth Zwillinger:** I didn't want to do that.
+
+**Elizabeth Zwillinger:** I thought about that.
+
+**Matthew Panzarino:** I don't want to do that, because I like that this sounds serious.
+
+**Matthew Panzarino:** Like, we know what we're talking about, and don't worry if you don't, we've provided a link for you.
+
+**Matthew Panzarino:** Exactly.
+
+**Matthew Panzarino:** As an easement, right?
+
+**Matthew Panzarino:** Like, that's your out for finding what it is.
+
+**Matthew Panzarino:** We're not talking down to you and then moving right along.
+
+**Matthew Panzarino:** We're saying, by the way, if you don't know what that is, like, don't worry.
+
+**Matthew Panzarino:** Check this out, right?
+
+**Matthew Panzarino:** I think that's the right way to handle it.
+
+**Matthew Panzarino:** So I'll take a look at that.
+
+**Elizabeth Zwillinger:** Okay.
+
+**Elizabeth Zwillinger:** By the way, visceral hypersensitivity is when it's like you're really sensitive to touch.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Fair enough.
+
+**Matthew Panzarino:** And is it like, I guess, yeah.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Visceral meaning like a layer of skin.
+
+**Elizabeth Zwillinger:** Yeah.
+
+**Elizabeth Zwillinger:** Which also comes in.
+
+**Elizabeth Zwillinger:** I thought it was actually kind of interesting because it comes into play where women, because they tend to have greater GI, more severe GI issues, their experience of GI pain is both subjectively and objectively more severe because it's like this vicious cycle where the GI problems create higher sensation of pain.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Very interesting.
+
+**Matthew Panzarino:** So, yeah, it recalibrates their reception of pain.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** Very interesting.
+
+**Matthew Panzarino:** Okay.
+
+**Matthew Panzarino:** Cool.
+
+**Matthew Panzarino:** That's good feedback, though.
+
+**Matthew Panzarino:** I will ponder how to prompt.
+
+**Matthew Panzarino:** And if we can't, we'll just put it in our editorial checklist, you know, our human, human in the loop part where we'll say, hey, you know, if you see this kind of stuff, put it in there.
+
+**Matthew Panzarino:** Right now, the human, by the way, is me.
+
+**Matthew Panzarino:** So if there's editing error, you can just blame me.
+
+**Matthew Panzarino:** But the eventually we're bringing, by the way, this is another thing.
+
+**Matthew Panzarino:** We have like this, my time on these accounts was always temporary because I have a lot of other things going on.
+
+**Matthew Panzarino:** So we're going to bring in Felix, who is a new, an MBE we hired.
+
+**Matthew Panzarino:** She is fantastic.
+
+**Matthew Panzarino:** I'm training her myself.
+
+**Matthew Panzarino:** And it's not going to be an abrupt handoff.
+
+**Matthew Panzarino:** I'm going to have her shadow me for several weeks.
+
+**Matthew Panzarino:** So there's not going to be some sort of immediate disruption or hopefully any disruption at all.
+
+**Matthew Panzarino:** But Felix is actually great.
+
+**Matthew Panzarino:** She's very AI forward, but also a very experienced editor and may in fact get you better human in the loop results than me.
+
+**Matthew Panzarino:** So hopefully that'll be a good thing.
+
+**Matthew Panzarino:** So I just wanted to give you a preview that Felix might show up eventually and I'll introduce you and all that stuff.
+
+**Brian Magida:** Cool.
+
+**Brian Magida:** So Liz, you were going through the week 14 step.
+
+**Brian Magida:** I'm not sure if you saw, they just posted an hour ago, just a bunch of the other links for the rewrites.
+
+**Brian Magida:** I had a chance just to skim through, it was one or two of just the intros, and they seemed quite strong, but I haven't had a chance to skim through the entirety.
+
+**Brian Magida:** So after, I have a call right after this, and then I'll spend like a half hour just kind of going through a bunch of those articles.
+
+**Brian Magida:** And I'll just let you know if like I see anything that seems like off to me.
+
+**Elizabeth Zwillinger:** But I think it's a huge, it's a huge improvement on the intro paragraphs, which was the part that always felt like it needed the most work anyway.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** It also sets the tone.
+
+**Matthew Panzarino:** So like if you turn people off in the intro or like on ramp yourself or your readers, then it becomes hard to like take the rest of it seriously or going to get into it.
+
+**Matthew Panzarino:** So I'm generally feeling positive about the way that these.
+
+**Matthew Panzarino:** These are shaping up, but once again, let me know.
+
+**Matthew Panzarino:** One of the things that, oh, let's see.
+
+**Matthew Panzarino:** Oh, okay.
+
+**Matthew Panzarino:** So it'll be the new pipeline draft.
+
+**Matthew Panzarino:** I think we did that for continuity.
+
+**Matthew Panzarino:** So just make sure you're looking at the tab that is new pipeline draft in 16th.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** One of the things, I'm looking at this one you're in right now, the belly fat one, Liz.
+
+**Matthew Panzarino:** And like this CTA, I'm also feeling really good about the shape of this final key takeaway CTA.
+
+**Matthew Panzarino:** Every once in a while, it's like gets really happy about all the things that biologica can talk about or that are in the product and they can talk about.
+
+**Matthew Panzarino:** And I have to tone it back a little bit, say like, I know these ingredients matter, but we do mention them later.
+
+**Matthew Panzarino:** So don't, you know, rush.
+
+**Matthew Panzarino:** So it's usually like the top line ones.
+
+**Matthew Panzarino:** Like what are the most important ingredients with regards to this symptom?
+
+**Elizabeth Zwillinger:** Yeah.
+
+**Elizabeth Zwillinger:** And it ties into the, I think it's really good because it's the two ingredients that tie into the purpose of the article.
+
+**Elizabeth Zwillinger:** Right.
+
+**Elizabeth Zwillinger:** And then the second sentence.
+
+**Elizabeth Zwillinger:** Like just is the punch that ties it all together.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** And sometimes it talks about the delivery system.
+
+**Matthew Panzarino:** Sometimes it talks about the symptom, you know, this can help ease these symptoms, whatever.
+
+**Matthew Panzarino:** It's just like a kind of like bang, bang, you know, that most of them do pretty well.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** The mid, the mid period, a lot of it is just, it's technical, but not crazy deep.
+
+**Matthew Panzarino:** And, you know, every once in a while, we'll have to edit out something where it's a very, very highly medical terminology, but most of the time it's pretty good.
+
+**Matthew Panzarino:** And then the CTAs, I think are pretty well integrated.
+
+**Brian Magida:** one, this actually is probably a helpful update for the group.
+
+**Brian Magida:** So Maggie, who's going to be reviewing a bunch of the content specifically as it relates more or less to the ingredient oriented topics, which a lot are contained within that was 15.
+
+**Brian Magida:** She did bring up a point, which we're getting, I don't want say confirmed or just like better understood with our regulatory council, which is.
+
+**Brian Magida:** Around some of these mentions of like our product within these types of articles where I don't understand the technicalities of this.
+
+**Brian Magida:** I don't want speak out of turn, but basically we're just trying to get feedback on how we can mention our product across all of the articles.
+
+**Brian Magida:** There's some that it's like it's very straightforward to.
+
+**Brian Magida:** There's others where from a regulatory perspective, we may not be able to or we might need to mention in a certain way.
+
+**Brian Magida:** So the long and short, I'll get more clarity as far as like what we can and can't do there.
+
+**Brian Magida:** And then to the extent that any of it is like can be codified in a rule, I'll just like pass along to you.
+
+**Brian Magida:** Okay.
+
+**Matthew Panzarino:** Fair enough.
+
+**Brian Magida:** Yeah.
+
+**Brian Magida:** Liz, don't know.
+
+**Brian Magida:** Did Joey talk to you about any of this stuff or have you heard about any of this?
+
+**Brian Magida:** Joey obviously sits on the other side of this lecture, which is like we can listen to it.
+
+**Elizabeth Zwillinger:** exactly.
+
+**Elizabeth Zwillinger:** Apologize later.
+
+**Brian Magida:** Yeah.
+
+**Brian Magida:** Yeah.
+
+**Brian Magida:** There's like, yeah, there's kind of like a, the nuances, it seems like.
+
+**Brian Magida:** Perhaps, like, the product card might be totally fine, but it's, like, how it gets mentioned in the article, maybe not.
+
+**Brian Magida:** Yeah.
+
+**Matthew Panzarino:** I don't know.
+
+**Matthew Panzarino:** And we can do that.
+
+**Matthew Panzarino:** Like, we can do versions of the pieces, you know, that just allied the CTA, because it's actually very straightforward.
+
+**Matthew Panzarino:** We just tell it, don't mention the product, right?
+
+**Matthew Panzarino:** And usually, it's fine doing that.
+
+**Matthew Panzarino:** And then having the card does the work of, like, okay, this still is some CTA for the reader, but you're not mentioning it in the context of the article.
+
+**Matthew Panzarino:** It's more of a presented by, which is fine, usually, from a regulatory standpoint.
+
+**Brian Magida:** And then one question I had for you, and this might have been a miss on our end, I don't actually know, but, like, references or citations, like, the fact that we're linking to everything, does that, like, mean we don't need to or shouldn't need to do references?
+
+**Brian Magida:** Like, we just were looking at Thorns, a good example of a company that has a blog, they're in the supplement space.
+
+**Brian Magida:** They actually, it's kind of crazy, they don't link out to anything.
+
+**Matthew Panzarino:** Other than, like, inter-
+
+**Brian Magida:** Linking, which I found kind of interesting, but they do feature, like, references and citations.
+
+**Brian Magida:** I guess, like, where do you guys stand on that from, like, a practice perspective?
+
+**Matthew Panzarino:** Linking is always better for SEO, but I can't actually speak authoritatively about whether there is a reason that you need to do that or not do that for medical or regulatory.
+
+**Matthew Panzarino:** I don't know.
+
+**Matthew Panzarino:** You know what mean?
+
+**Matthew Panzarino:** Like, are they doing it?
+
+**Matthew Panzarino:** They're certainly not doing it because of SEO best practice.
+
+**Brian Magida:** It's way worse.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** You know, it's, you know, Google likes a site to be a citizen of the internet, and the sites that you link to tell it about what kind of site you are, right?
+
+**Matthew Panzarino:** Like, sites that link to other trashy sites.
+
+**Matthew Panzarino:** They're like, well, I see what you are.
+
+**Matthew Panzarino:** You know, you're a network that's trying to, like, pump it up or whatever.
+
+**Matthew Panzarino:** You know, they're trying to manipulate the network.
+
+**Matthew Panzarino:** So from an SEO perspective, it's not good.
+
+**Matthew Panzarino:** I don't know, you know, from a regulatory perspective, whether it's good or not, I can, I can do some research and see why somebody would do such a thing.
+
+**Matthew Panzarino:** But I don't, I don't have anything authoritative for you.
+
+**Brian Magida:** So my simple answer, I don't know.
+
+**Brian Magida:** I guess like a question I would have is in the event, like we can just ask our regulatory counsel, feel free to also like ask internally, but like in the event, someone comes back and says, oh, you actually should use citations for whatever reason.
+
+**Brian Magida:** Is it easy enough for your system to go back?
+
+**Matthew Panzarino:** Cause it's obviously like pulling the data from LLMs.
+
+**Brian Magida:** Like, is it easy enough for the system to introduce those citations or is that actually like challenging with LLMs?
+
+**Matthew Panzarino:** Like I know historically it was challenging.
+
+**Matthew Panzarino:** It would like fabricate citations, but.
+
+**Matthew Panzarino:** Yeah.
+
+**Matthew Panzarino:** I mean, we built a lot of stuff, so it doesn't do that.
+
+**Matthew Panzarino:** Right.
+
+**Matthew Panzarino:** Like, I mean, you can look at any citation in here and even like if you, if one is off, it's most likely off by degrees.
+
+**Matthew Panzarino:** It's certainly not a fabrication or something like that.
+
+**Matthew Panzarino:** And we have put a lot of work into that.
+
+**Matthew Panzarino:** If you go prompt Claude right now to give you an article, you're going to get 50% BS links, right?
+
+**Matthew Panzarino:** And this is the best.
+
+**Matthew Panzarino:** I mean, they spent billions of dollars making Sonnet, right?
+
+**Matthew Panzarino:** Like, it's really good, but it still hallucinates.
+
+**Matthew Panzarino:** So we have built in a bunch of guardrails and then a fact checker to, like, go double check the work of the original.
+
+**Matthew Panzarino:** And then we made them agentic.
+
+**Matthew Panzarino:** Basically, they're running a loop until they adhere so that they have a checklist.
+
+**Matthew Panzarino:** They run a loop, they do an evaluation, and then they see it again.
+
+**Matthew Panzarino:** So the way I would think about it is we've already done the work to get you good citations.
+
+**Matthew Panzarino:** If you want us to build you a citation list and strip the links, we'll just do that.
+
+**Matthew Panzarino:** Like, and we can build a short pipeline to just go back and process your articles, and then we would adjust the pipeline.
+
+**Matthew Panzarino:** Hey, I would actually leave it all the same because I think it's actually doing a really good job.
+
+**Matthew Panzarino:** And then at the end, say, hey, that's great.
+
+**Matthew Panzarino:** Hey, why don't you go through, look at all of these links, build a citation.
+
+**Matthew Panzarino:** For me, in the format that I asked for, a citation list, and then elide the links, you know, remove the links, and then if we want to limit it to a certain number of citations or whatever, would be like, take the top 10 or, you know, whatever tweak we wanted to do from there.
+
+**Matthew Panzarino:** That's the way I would approach it.
+
+**Matthew Panzarino:** I would go ask Eng before I just willy-nilly did it, but that's the way I would go about it.
+
+**Matthew Panzarino:** So if today you're told me, oh, no, an emergency, we need to ship all these articles, and we need citations instead of links, I can probably build something for you to do that with all the existing articles without an enormous amount of push.
+
+**Brian Magida:** Okay, cool.
+
+**Brian Magida:** Yeah, for now, we don't do anything or need to do anything.
+
+**Brian Magida:** It was just, it just dawned on me as I was reviewing it.
+
+**Brian Magida:** I think Joey was like, oh, that's interesting.
+
+**Brian Magida:** They have citations.
+
+**Matthew Panzarino:** And I was like, I didn't even think of that because we were linking out to everything.
+
+**Brian Magida:** It seems in many ways like an artifact of, like, print publishing that you would need a citation versus the internet, but I just don't know if there's, like, a regulatory reason that we would have to.
+
+**Matthew Panzarino:** Yeah, I don't know either.
+
+**Matthew Panzarino:** My gut tells me that it's most likely because
+
+**Matthew Panzarino:** They are mimicking the format of white papers or medical journals.
+
+**Matthew Panzarino:** That's the way that they do it.
+
+**Matthew Panzarino:** So if you go log into any, you know, ARC-CIV or any other, you know, research platform and download it, that's what you get.
+
+**Matthew Panzarino:** You don't get links.
+
+**Matthew Panzarino:** For a variety of reasons, not the least of which is that it's, they're usually repackaged as PDFs and like sent, you know, and like the linking thing gets weird when you do that.
+
+**Matthew Panzarino:** Um, and then also people just like, once something is paywalled or something is like a research document, they just don't view it as a part of the internet.
+
+**Matthew Panzarino:** Like it's, you know, just ask, you know, anybody who's been dinged for, for downloading research papers and distributing them.
+
+**Matthew Panzarino:** They don't like it.
+
+**Matthew Panzarino:** So I, that's, that would be my gut.
+
+**Matthew Panzarino:** But if there's some sort of regulatory thing I'm not aware of, like, please let us know and we'll, we'll figure out a way around it.
+
+**Brian Magida:** We'll work with it.
+
+**Brian Magida:** Okay.
+
+**Brian Magida:** Um, I guess other housekeeping things for Liz, I'm not sure if you saw within Slack, but I was able to figure out how to hide that excerpt piece, so that's hideable, which is great.
+
+**Elizabeth Zwillinger:** Yeah, just for you guys, so that you two know, I'm totally lost on the visual pieces. Like when you guys send over stuff, I still don't have a great sense. I mean, I saw on the website what it looks like, but I haven't seen a ton of examples of what it's going to look like visually with those black and white images that we sent. So I don't know if Brian, you're putting that into working through that on the web, or what's the best way for me to review this?
+
+**Brian Magida:** I think the best way, well, right now there's some images that still have text overlays, so that's going to go away.
+
+**Brian Magida:** There's another thing that Matt had flagged, that I flagged actually to manufacture yesterday, which is like within the, we have like a featured article, and like right now it's like the dimensions are all like completely out of whack, so that needs to get fixed.
+
+**Brian Magida:** But I think to your question around the black and white images specifically.
+
+**Brian Magida:** Quickly, right now, those last I saw were, like, essentially pictures of people.
+
+**Brian Magida:** They look different from, like, the swipe that you had provided.
+
+**Brian Magida:** So I don't actually know where that currently stands as far as, like, rerunning through the pipeline.
+
+**Brian Magida:** So actually, Matt, it's probably worth just kind of talking about that for a moment because it seemed like.
+
+**Matthew Panzarino:** Okay, so let me articulate the way I think that you want it and you tell me whether I'm wrong or right.
+
+**Matthew Panzarino:** The top-line images, we just wanted a slight tweak on those images to be a little more non-specific, maybe a little tighter crops, a little bit less defined facial features, which we're working on.
+
+**Matthew Panzarino:** And the new stuff that we're producing should look like that for you.
+
+**Matthew Panzarino:** The interstitial images, we are prototyping for you to have this botanicals, surfaces, blur, you know, grainy, ethereal feel.
+
+**Matthew Panzarino:** We've run, like, three or four batches on it.
+
+**Matthew Panzarino:** And I'm obsessive about it.
+
+**Matthew Panzarino:** I used to be a photographer.
+
+**Matthew Panzarino:** Was a photographer for 15 years before I was a writer.
+
+**Matthew Panzarino:** So I get obsessive about this stuff, but I have, I think we're getting close and I should be able to share a batch with you as soon as tomorrow.
+
+**Matthew Panzarino:** I think I just, I want to tweak some more.
+
+**Matthew Panzarino:** We're getting really close.
+
+**Matthew Panzarino:** The images that we produce pretty cool.
+
+**Matthew Panzarino:** I think I just don't want to, I don't want things to come across like too sharp and too crisp and too defined because it's just distracting.
+
+**Matthew Panzarino:** It's like, wait a minute, this article is not about pomegranates, you know?
+
+**Matthew Panzarino:** So like, I think that's the, that's where I'm at right now with those, but those are the two deliverables.
+
+**Matthew Panzarino:** Oh, three deliverables is the third one would be the OAuth or not OAuth, open share.
+
+**Matthew Panzarino:** Yes.
+
+**Matthew Panzarino:** Thank you.
+
+**Matthew Panzarino:** But the, the shareable image with the actual title and logo, and that would be over the top of once again, a nondescript human image.
+
+**Matthew Panzarino:** One tweet we just made that we noticed ourselves internally that you didn't call out yet, but I think you probably would have eventually.
+
+**Matthew Panzarino:** Um, is that some of the.
+
+**Matthew Panzarino:** the.
+
+**Matthew Panzarino:** The that we were delivering for some of the articles was like, this woman is not a perimenopausal woman, right?
+
+**Matthew Panzarino:** Like, and I know you can't always define that super clearly, but certainly in the postmenopausal range, I'm like, we need a woman who looks roughly 50 plus, right?
+
+**Matthew Panzarino:** 45 and 50 plus.
+
+**Matthew Panzarino:** And she just looked too young, you know, from an at-a-glance perspective.
+
+**Matthew Panzarino:** And I know there are a lot of nuance, there's a lot of nuance there, but I just think at-a-glance image, you don't want to take people out of it and be like, why is this looking like a 30-year-old, you know?
+
+**Matthew Panzarino:** So, that kind of thing is something we wanted to tweak.
+
+**Matthew Panzarino:** So, we tweaked that a little bit.
+
+**Matthew Panzarino:** So, the images that you will see in those articles are generated based on the persona that that article is aimed at.
+
+**Matthew Panzarino:** So, any articles about postmenopausal women will have a postmenopausal woman integrated into the persona for the image generation.
+
+**Matthew Panzarino:** So, that going forward, that's the way that'll work.
+
+**Brian Magida:** But, Liz, right now, I think it was yesterday, because I was playing around with this actually yesterday, I started publishing the drafts.
+
+**Brian Magida:** So I haven't looked at like every single article like in like situation yet, but they're now on the site.
+
+**Brian Magida:** So like definitely feel free to go through it.
+
+**Brian Magida:** And like anything you see, like we're still in this massaging phase, so all the feedback's good.
+
+**Brian Magida:** Just take like a screenshot and or send me the link and tell me about it.
+
+**Brian Magida:** Like another section that you might have seen is manufacturer put in the author.
+
+**Brian Magida:** Right now the authors are growthx.
+
+**Brian Magida:** so like for one, we'll just have to update those.
+
+**Brian Magida:** So that's obvious.
+
+**Brian Magida:** Two, it has both publisher and published and updated date.
+
+**Brian Magida:** So like that we have to override.
+
+**Elizabeth Zwillinger:** Yeah, no, I liked what Matt said about the, you know, the doctor's name and then the date and that's it.
+
+**Brian Magida:** Yeah.
+
+**Brian Magida:** So we'll make those changes we'll make.
+
+**Brian Magida:** But I think as far as like how the articles read, like visually, definitely go through that.
+
+**Brian Magida:** Cause there's still, we can make some tweaks to it within like the text editor.
+
+**Brian Magida:** But if there's, if you see something, you're like, oh, that's not going to work for whatever reason, like flag it, because that might have to go to engineering, like to manufacture.
+
+**Elizabeth Zwillinger:** Yeah, let's talk when Matt's not with us, because I have a few things about font and things like that.
+
+**Brian Magida:** Yeah, the font stuff, like definitely flag anything you have there.
+
+**Brian Magida:** One, like asking issue is color.
+
+**Brian Magida:** For whatever reason, like with the bullets, the color changes from black to like a gray, which I flagged.
+
+**Brian Magida:** I'm not sure why that happens.
+
+**Brian Magida:** But the font stuff can be, yeah, there's just some weird things that I think are happening.
+
+**Brian Magida:** So just flag those to me and like what you want to do, and we can make those, those changes.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** And then the one last thing from my side, Brian, you can look out for the new artifacts.
+
+**Matthew Panzarino:** And so the personas is probably look really similar, but the writing guidelines and company context have been re-engineered.
+
+**Matthew Panzarino:** They have produced this, you know, or not they alone, but these are the artifacts we use to produce this new content.
+
+**Matthew Panzarino:** So they're related.
+
+**Matthew Panzarino:** The re-engineering of those artifacts was basically driven by the fact that the new pipelines work a lot differently.
+
+**Matthew Panzarino:** So they don't need this endless list of things that you hate and love and all this stuff.
+
+**Matthew Panzarino:** They do need some examples, but generally speaking, we have found that architecting some of the hyper-specific stuff into the pipeline itself, which is not really an editable artifact that's like, hey, engineering, we need this pipeline to do this.
+
+**Matthew Panzarino:** Please make it do this.
+
+**Matthew Panzarino:** That has taken some of the load off of these artifacts, but feel free to look at them.
+
+**Matthew Panzarino:** They are the current ones, so you can keep those to date.
+
+**Brian Magida:** Okay.
+
+**Brian Magida:** And I guess based on what you said, like, if I was taking these artifacts and using them in, like, Claude, it's possible because you're stripping away some of the requirements of the artifact that, like, what Claude would produce for me could be different because there's less, like...
+
+**Matthew Panzarino:** Yeah, the major ways it'll be different, to be honest, is, like, the ways that it references the other artifacts.
+
+**Matthew Panzarino:** So ensuring...
+
+**Matthew Panzarino:** If you're doing anything on your own, any generation on your own, or editing, anything like that with these artifacts, or trying to just see what edits, or anything is going on with them, make sure that you integrate all of the stuff that you have told us is important from a documentation perspective.
+
+**Matthew Panzarino:** The dossiers, the ingredients, the updated ingredient pages, all of that is now in our knowledge base, and the knowledge base is referenced by the researcher and the pipeline when it needs it.
+
+**Matthew Panzarino:** So if we tell the pipeline, hey, I'd like you to check and see if these ingredients are mentioned or whatever, the knowledge base is there as a body of research that it can use that is separate from the cesspool of the internet.
+
+**Matthew Panzarino:** So that it doesn't go on the internet and find a definition for, you know, I don't know, magnesium citrate that is different from the one that, you know, you have defined as authoritative, and you're comfortable with and all of that, or its uses, or its symptomatic, you know.
+
+**Matthew Panzarino:** So, like, that kind of thing is the way that our pipeline is architected.
+
+**Matthew Panzarino:** So I would say for, like, a cloud project, integrating these along with those will get you a good of the way there.
+
+**Matthew Panzarino:** But, yes, there is going to be a portion of it that is sort of missing, and that's just the engineering work that goes into the pipeline itself.
+
+**Brian Magida:** Okay.
+
+**Brian Magida:** And then I have to bounce in three minutes, but the last question I have is Shopify has this new tool called Knowledge Base.
+
+**Brian Magida:** I'm not sure if you've heard of it.
+
+**Brian Magida:** It's an app that they built where basically the way I think it works is they publish questions and answers directly to their partnerships on the LLM side.
+
+**Matthew Panzarino:** Oh, right.
+
+**Brian Magida:** And so I already started, like, filling out some stuff.
+
+**Brian Magida:** But what I was curious about is, so we're writing all these articles.
+
+**Brian Magida:** These articles answer questions, right?
+
+**Brian Magida:** And there's answers implicit in the articles.
+
+**Brian Magida:** So is there, like, I'm trying to think of, like, what process or workflow there could be.
+
+**Brian Magida:** Where it's like, hey, once we finalize an article, can we generate, like, the top five or ten questions that might be applicable to a given article for which we have very clear answers within the article that just spits it out in a structured format that I could basically take, like, question one and answer one and just, like, drop it into Shopify's knowledge base and just do that for every single question.
+
+**Matthew Panzarino:** Good question.
+
+**Matthew Panzarino:** Could we do it?
+
+**Matthew Panzarino:** Probably.
+
+**Matthew Panzarino:** Let me look at the knowledge base app.
+
+**Matthew Panzarino:** This is the first time I'm even looking at it right now.
+
+**Matthew Panzarino:** And it makes sense.
+
+**Matthew Panzarino:** I understand what they're doing here.
+
+**Matthew Panzarino:** Are you folks also going to try and support the commerce thing that they're doing?
+
+**Brian Magida:** Probably.
+
+**Brian Magida:** I'm not familiar with the latest there, but...
+
+**Matthew Panzarino:** They just announced it.
+
+**Matthew Panzarino:** like, six days ago or something.
+
+**Matthew Panzarino:** So, but yeah, okay, cool.
+
+**Matthew Panzarino:** Let me take a look at this and see what kinds of formats it takes as input.
+
+**Matthew Panzarino:** And then I will look at whether or not we can support that.
+
+**Matthew Panzarino:** that.
+
+**Matthew Panzarino:** Should be fine.
+
+**Matthew Panzarino:** Like, this should be doable.
+
+**Matthew Panzarino:** At the very worst, I can probably engineer a prompt that you can use for Cloud.
+
+**Matthew Panzarino:** And that'll help you pull that stuff.
+
+**Brian Magida:** Yeah, that'd be fine.
+
+**Brian Magida:** And I'm happy to literally do all the copying and pasting myself. It was just more as like, I'm thinking about as part of the deliverable set, like maybe you creating an FAQ for each of these articles.
+
+**Brian Magida:** And then I can just take that FAQ and just put it directly into Shopify.
+
+**Brian Magida:** Because I did some quick reading.
+
+**Matthew Panzarino:** There's no API for it.
+
+**Brian Magida:** So unless you created some like workflow on your end, which I think you could actually probably do at this point, like with some of these tools.
+
+**Matthew Panzarino:** We could with like MCP and stuff.
+
+**Matthew Panzarino:** But like, I'll tell you, like that, that for to make it reliable, that's like a lot of work.
+
+**Matthew Panzarino:** Because it's so fragile still, you know, I wish they were more.
+
+**Brian Magida:** Yeah, I'm happy to like, literally do the copying and pasting.
+
+**Brian Magida:** It's it was just more like, oh, as we have these final deliverables, like, should we just generate an app?
+
+**Brian Magida:** Thank you for each article, and then I can just add them, too.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** Let me look at the inputs, and then I'll see what we can do.
+
+**Matthew Panzarino:** Okay, cool.
+
+**Matthew Panzarino:** All right, thanks.
+
+**Matthew Panzarino:** Let's see what think of the articles.
+
+**Matthew Panzarino:** Ciao.
+
+**Matthew Panzarino:** Bye, guys.
+
+**Matthew Panzarino:** Bye.

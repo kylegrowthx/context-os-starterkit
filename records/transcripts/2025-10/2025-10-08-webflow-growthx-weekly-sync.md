@@ -1,0 +1,852 @@
+# Webflow <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2025-10-08
+time: 18:01 UTC
+duration: 34 minutes
+organizer: team@growthxlabs.com
+participants: Jason Gong (GrowthX), Sydney Go (GrowthX), Luke Stahl (Webflow), Colin Lateano (Webflow), Vic Plummer (Webflow)
+fathom_recording_id: 92811459
+fathom_url: https://fathom.video/calls/434757479
+share_url: https://fathom.video/share/Neysh6v8iyvyyEX36xyVWFjDs9UKXYCG
+source: fathom
+enriched_on: 2026-03-02 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+Webflow and GrowthX discussed major progress on integrations content — traffic to integration pages hit a 12-month high, with automated publishing now live and targeting 30 articles per week. Colin shifted the engagement from pure SEO agency work to technical enablement for developers, requiring new success metrics tied to API key creation and NRR expansion rather than organic traffic. The team also flagged potential expansion into template marketplace and app design work, with Colin cautioning against resource dilution that could derail current integration success.
+
+---
+
+## Context
+
+Webflow, a no-code web platform, engaged GrowthX initially as an SEO agency to build organic awareness. Over the past quarter, this relationship has evolved significantly. The integrations content hub — guides for connecting third-party tools like Stripe, React, and Eventbrite to Webflow — started as an experiment to test if AI systems could produce technical content at scale. It worked: traffic to these pages hit a 12-month peak, and Webflow is now reconceiving this work as a core part of their Developer Relations strategy, not content marketing. Colin Lateano, who leads this effort, is reframing GrowthX's role from organic traffic generation to developer enablement across three audience tiers: technical marketers/designers, entry-level engineers, and front-end engineers. The conversation reveals a fundamental pivot: Webflow is treating integrations content and guides as sales and adoption tools tied to API key creation and downstream NRR expansion, a much longer funnel than typical SEO campaigns.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- GrowthX's role is shifting from organic SEO to technical developer enablement. This requires new capabilities: guides, example code, API-focused tutorials, and content tied to actual integration workflows rather than keyword opportunity.
+- Automated publishing for integrations is live and scaling to 30 articles per week. This is a fundamentally different output model than traditional SEO and requires different quality metrics and success indicators.
+- Colin emphasized prioritizing unique, high-utility content (integrations, guides, code components) over generic SEO articles. New engagement structures are being discussed: potential expansion into template marketplace design and React component examples.
+
+**To CheckThat:**
+- Colin mentioned AI visibility and how LLMs are driving organic traffic. This validates CheckThat's mission to surface content to AI systems. The team is explicitly looking for signals on whether integration content is being surfaced through AEO vs. traditional search, but Amplitude doesn't currently track source type.
+- Opportunity to help Webflow audit and optimize how their integration content surfaces in LLM outputs, especially as this becomes a core acquisition channel.
+
+**To GrowthX Business Development:**
+- Account health is strong: integrations content is the most visible success and a natural wedge for expansion. Colin opened the door to additional contract discussions with Rachel (likely template/app design) and Kirat (technical enablement scope).
+- Webflow is preparing to use this content in their sales and support workflows, signaling deep organizational commitment to the relationship and potential for reference/case study value.
+- Six-month measurement lag on NRR expansion means ROI conversation will be delayed but grounded in actual pipeline impact once data is ready.
+
+---
+
+## Overview
+
+- Integration content traffic hit a 12-month peak, with Eventbrite, React, and Stripe as top performers; automated publishing now live targeting 30 articles per week
+- GrowthX's engagement is shifting from organic SEO to developer enablement and sales enablement, requiring metrics tied to API key creation and NRR expansion (6-month lag)
+- SEO content holding steady at 1-2 articles per week; Colin favors prioritizing technical integrations, guides, and code components over generic SEO content
+- Potential new projects emerging: template marketplace design and React component examples, but Colin is cautious about resource dilution and protecting current high-utility work
+- Success measurement challenge: need to trace content engagement through API key creation to actual customer integration adoption to NRR impact
+
+---
+
+## Key Topics
+
+### Integration Content Performance
+
+  - Traffic to integration pages is trending upward, with yesterday being the highest in 12 months
+  - Eventbrite integration page currently receiving most unique traffic, followed by React and Stripe
+  - Colin sharing Amplitude data on page visits, but lacking source information (e.g., organic vs. AI-driven traffic)
+
+### Content Production and Priorities
+
+  - Automated publishing for integrations now live, aiming for 30 per week
+  - SEO content at 1-2 articles per week, but may be deprioritized
+  - Focus shifting towards more technical content: integrations, guides, and potentially code components
+  - Colin emphasizes prioritizing unique, high-utility content over general SEO articles
+
+### Measurement and Success Metrics
+
+  - Current SEO metrics not fully aligned with Webflow's goals for the content
+  - Need to develop new metrics tying content to developer enablement and revenue outcomes
+  - Potential metrics: API key creation, integration usage, and their correlation with NRR expansion
+  - Challenge: Long-term nature of these metrics (up to 6 months) makes immediate impact hard to measure
+
+### Evolving GrowthX-Webflow Relationship and New Measurement Framework
+
+  - Shifting from pure SEO agency to developer enablement and sales enablement partner
+  - Colin reframed original engagement: integrations hub started as an experiment to prove AI could produce technical content at scale; it succeeded and is now repositioning from organic awareness to top-of-funnel acquisition and sales support
+  - GrowthX role expanding to address three developer tiers: technical marketers/designers, entry-level engineers, and front-end engineers
+  - Potential expansion into template marketplace and app design work (design AI-generated apps with consistent prompts), but Colin cautious about resource dilution
+  - New measurement framework: trace content visits → API key creation → integration adoption → NRR expansion (6-month lag); currently no visibility on whether traffic comes from organic search or AEO
+  - Colin emphasized value-oriented metrics (bounce rate, time on page, revisits) to validate actual utility before measuring downstream revenue impact
+  - Need to balance resources between existing high-utility integrations/guides and new app-design projects; Colin wants to protect the working machine
+
+---
+
+## Action Items
+
+**Jason Gong (GrowthX)**
+- Send list of desired Amplitude data points to Colin
+- Prepare thoughts on new bets based on Colin's goals explanation for next week's review
+- Gather info on new contract discussions with Kirat Chhina and Rachel Wolan, report back next week
+
+**Vic Plummer (Webflow)**
+- Review Stripe integration guide and compile list of relevant Help Center articles to link
+
+**Colin Lateano (Webflow)**
+- Define OKRs and strategy for GrowthX relationship, focusing on developer enablement metrics tied to API key creation and NRR expansion
+
+---
+
+## Transcript
+**Jason Gong:** This meeting is being recorded.
+
+**Jason Gong:** Colin did accept, so we'll give him like a minute.
+
+**Jason Gong:** How's everything with you guys?
+
+**Jason Gong:** Is it busier after WebflowConf or less busy?
+
+**Luke Stahl:** It's busy.
+
+**Luke Stahl:** I feel like there's been opportunity to get to some things that I had to put on the back burner up because of WebflowConf.
+
+**Luke Stahl:** it's nice to kind of get after those.
+
+**Luke Stahl:** that's exciting.
+
+**Luke Stahl:** Cool.
+
+**Jason Gong:** All right.
+
+**Jason Gong:** What if you can just talk about it, Colin?
+
+**Colin Lateano:** Hello.
+
+**Jason Gong:** So today we have Liz as well.
+
+**Jason Gong:** She joined as an account strategist.
+
+**Jason Gong:** be helping out a lot more on this account.
+
+**Jason Gong:** I think something we're trying to do internally is like we're just seeing so many shifts towards LLMs and AI just driving organic traffic.
+
+**Jason Gong:** And I feel like we need to allocate more resources there, you know, like, I don't know if you guys think about it too much internally yet, but just like every time I see OpenAI do another announcement, I see like clicks and eyeballs, you know, shifting weight potentially.
+
+**Colin Lateano:** So we just want to invest more effort there.
+
+**Jason Gong:** So Liz will help out here for a lot of the stuff that's in like stable state now, which is more and more, thankfully.
+
+**Jason Gong:** Let's see.
+
+**Jason Gong:** So today, we're just going go through results.
+
+**Jason Gong:** Let's talk about integrations, made quite a bit of progress on the docs, guides, and then SEO, code components, and then we want to do like a little, almost like review next week, just everything so far, and then just talk about priorities for the next few weeks and months.
+
+**Jason Gong:** Does that sound good?
+
+**Colin Lateano:** Anything you guys want to talk about first?
+
+**Colin Lateano:** No, that's, that's, that's what I want to talk about as well.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Sounds good.
+
+**Jason Gong:** Yeah, performance, we are working on a dashboard, and you've asked a few times now, Colin, we've been a little slow on that, but like for an MVP, I think we'll just kind of pull most of the search console data into one place.
+
+**Jason Gong:** You do have access to this as well, but we'll make it a little bit easier, and then I just like data access in general, feel like that's just, we kind of punted that, and it goes.
+
+**Jason Gong:** It lost potentially, but we would still love to see that.
+
+**Colin Lateano:** It didn't get lost.
+
+**Colin Lateano:** It is just absolutely ignored.
+
+**Colin Lateano:** On our side, our reset of our branding and marketing sites caused a disconnect in our marketing analytics set up for tracking Google Analytics.
+
+**Colin Lateano:** And that is still not set up on these domains, so there's nothing we can share with you.
+
+**Colin Lateano:** We have Amplitude running from our own segment integrations, but I can't pipe that to your side.
+
+**Colin Lateano:** So until Google Analytics is enabled on these sites, I can't share any slice of data with you.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I think, I don't know if you look at that data, but I guess we're relying on why to look at it, right?
+
+**Jason Gong:** Like, I'm just curious, are people reading it?
+
+**Colin Lateano:** Like, are they visiting pages?
+
+**Colin Lateano:** Oh, yeah.
+
+**Colin Lateano:** I mean, here, I can share.
+
+**Jason Gong:** They're what I have.
+
+**Colin Lateano:** Yeah.
+
+**Colin Lateano:** In the same way, I'm tracking visits.
+
+**Colin Lateano:** I'm tracking what they're reading and the visits per week.
+
+**Jason Gong:** I'm trying to add in page time.
+
+**Jason Gong:** It's a little complicated through Amplitude.
+
+**Colin Lateano:** But the long tail spread is incredible.
+
+**Jason Gong:** And actually, if I go to...
+
+**Jason Gong:** actually Eventbrite?
+
+**Jason Gong:** Is the top?
+
+**Colin Lateano:** What is that?
+
+**Colin Lateano:** Of last week, Eventbrite was our number one unique integration content page.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** One day, if we could see this, this is actually...
+
+**Colin Lateano:** That's not consistent.
+
+**Jason Gong:** Also, if we look across...
+
+**Colin Lateano:** If I pull a wider range or I go different weeks, I think we only published Eventbrite two weeks ago.
+
+**Colin Lateano:** Usually React and Stripe were the top integration pages for a while.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** So, I...
+
+**Colin Lateano:** I agree with you, this data adds a lot of interesting clarity, and we should be talking about it in terms of trying to refine our strategy or which pages should get more updates.
+
+**Colin Lateano:** But Eventbrite is getting the most unique traffic right now of the individual pages.
+
+**Colin Lateano:** React and Stripe have been consistent otherwise for a longer period of time.
+
+**Colin Lateano:** If I widen this to monthly polls, which is not fair because I only started publishing two months ago, you'll see that the top is Stripe, React, Calendly.
+
+**Jason Gong:** I mean, it's good to see some movement, at least.
+
+**Colin Lateano:** Yeah.
+
+**Jason Gong:** Well, I guess we'll just keep boogying about that, but I think the search, I mean, the search data gives us some signals, so we'll just use that in the interim.
+
+**Jason Gong:** Sure thing.
+
+**Colin Lateano:** If it helped you want to export this, I'm happy to share this type of data.
+
+**Colin Lateano:** Tell me how you want to slice it, and I can send it forward.
+
+**Colin Lateano:** Okay, I'll send you a list then of things that would be helpful.
+
+**Colin Lateano:** Cool.
+
+**Colin Lateano:** Okay.
+
+**Colin Lateano:** The only thing I...
+
+**Colin Lateano:** I cannot pull, or at I don't know how to get through how we log things in Amplitude, is the source, seeing if it came from search or what search type, I don't have browser information.
+
+**Colin Lateano:** I really wanted to look at those to see if we were being presented through AO or through actual organic, but I cannot get that.
+
+**Colin Lateano:** I cannot figure out how to get that data.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Okay, we'll send a list of things to look at.
+
+**Jason Gong:** But at least from the search side, think things are trending in the right direction.
+
+**Jason Gong:** think yesterday was the most traffic that's hit your integration pages for the last 12 months.
+
+**Jason Gong:** I think with migrations, usually you've got to wait a bit for it to catch up, but yeah, I think there's lots of good signs there.
+
+**Jason Gong:** Let me see pages that weren't doing as well before, you know, start kind of writing.
+
+**Jason Gong:** Linking as we create content, which is all expected.
+
+**Colin Lateano:** It's expected, but it's always great to see it actually play out.
+
+**Jason Gong:** I agree.
+
+**Jason Gong:** I think, again, like how we think about all this stuff is like every one of these blocks is like a different machine.
+
+**Jason Gong:** like, I think especially with the integrations will like, I imagine a few months, those pages will look different as we make the workflow better.
+
+**Jason Gong:** And compared to humans, you know, that quality hopefully doesn't regress.
+
+**Jason Gong:** Like when you have some churn in higher, like a new writer just keeps getting better.
+
+**Jason Gong:** So, yeah, so integrations look like they're doing well.
+
+**Jason Gong:** Sydney, I believe, do we have the automated publishing now or is that still kind of locked somewhere?
+
+**Sydney Go:** we have automated publishing now.
+
+**Jason Gong:** Okay, cool.
+
+**Colin Lateano:** So, you're doing that through the API?
+
+**Sydney Go:** Yeah, that's why we're able to up the publishing.
+
+**Colin Lateano:** Is the 30 here, is that a backlog, or are we expecting to be at a 30 per week now?
+
+**Sydney Go:** We're going to aim to do 30 per week now, yeah.
+
+**Colin Lateano:** Cool.
+
+**Jason Gong:** Yeah, that one's good.
+
+**Jason Gong:** I think we're still in the problem of like 300 that we want to do.
+
+**Jason Gong:** We're probably getting close to doing all the super high kind of priority ones, so maybe at some point we can review that in case we want to shift.
+
+**Jason Gong:** Effort at all, but still lots of pages to do, some things to optimize, like we optimized the title a little bit, and then I think we have a thread going for adding some FAQ schema, which helps Google kind of like pull out some of the FAQ content we have on these pages, and surface it in the search results.
+
+**Jason Gong:** Anyway, so that's that work stream.
+
+**Jason Gong:** The integration pages, we have a bunch of comments from Vic.
+
+**Jason Gong:** At least in my review, nothing seemed like totally broken.
+
+**Jason Gong:** A lot of them are, you know, more detail in some places, vagueness in others.
+
+**Jason Gong:** So we're working to fix that, but at least from my side, unless I think otherwise, Vic, this one feels like it's getting closer.
+
+**Vic Plummer:** It looked good to me, but I did want to, like, I think there were, like I said, there were some places that were vague, which kind of made me question end-to-end if it worked.
+
+**Vic Plummer:** And so that's just, like, the only pause I had was, this seems right, but if someone has to go in and do it, would they be able to?
+
+**Vic Plummer:** And unfortunately, like, it's just not something I had time to do, nor do I have a weak lot stuff set up already.
+
+**Vic Plummer:** So I was wondering, just, like, for this initial one, if we can see, hey, is this hallucinating, or does this actually check out line for line?
+
+**Vic Plummer:** Like, I wouldn't.
+
+**Vic Plummer:** I doing that for every single one since the amount of content we're pushing out is incredible.
+
+**Vic Plummer:** But yeah, for this, I would just want some peace of mind.
+
+**Vic Plummer:** think I asked for a loom for something specifically because it just, I didn't understand where Webflow started and we got, where Webflow stopped and we got started.
+
+**Vic Plummer:** And I just want to be able to make sure that other people feel the same way or readers who aren't as familiar feel the same way.
+
+**Jason Gong:** Yeah, I think that makes sense.
+
+**Jason Gong:** mean, have somebody on our end who could potentially try to set this up just to validate it.
+
+**Vic Plummer:** And then one thing I did notice, and I might have been scanning too fast, is the Help Center has some articles that, like, before we started doing this integration guide, they just filed for it because probably they were getting so many support tickets.
+
+**Vic Plummer:** And so I looked at the Stripe one that y'all created, which looks amazing, but there were some things, like, I wasn't sure, like, that wasn't clear.
+
+**Vic Plummer:** And
+
+**Vic Plummer:** I was thinking, if there is something on Webflow Help, can the integration page directly link to it?
+
+**Vic Plummer:** So I can grab a list of which ones those are, ask the support team to help me out there.
+
+**Vic Plummer:** But they kind of go into deeper detail about some of the nitty-gritty pieces, and since it's already there, I feel like it should be linked.
+
+**Jason Gong:** Yeah, if you have that list, we can take a look.
+
+**Jason Gong:** Like, I think if we are doing the research step of this workflow right, we should be pulling those.
+
+**Jason Gong:** So, like, if you have one that makes sense to include, but isn't, I can look into kind of.
+
+**Vic Plummer:** Yeah, let me just make sure, because I have a tendency to read very fast and skip over some things.
+
+**Vic Plummer:** So I don't, like, I'm not saying it's not there, but when I was kind of looking for an answer based on what I read here, I wasn't able.
+
+**Vic Plummer:** So, while it was nice that it was the first thing that came up on Google, I had to go to the Help thing to actually find it.
+
+**Jason Gong:** Okay, sounds good.
+
+**Jason Gong:** Yeah, so.
+
+**Jason Gong:** I on our to-do list to review this, we can go from there.
+
+**Jason Gong:** Let's see, for SEO content, how many are we doing a week of moments, Sydney?
+
+**Jason Gong:** I put like two to three.
+
+**Jason Gong:** I think Colin had a question about wrapping that up.
+
+**Jason Gong:** I think that's maybe a topic for next week.
+
+**Jason Gong:** I'm going to think about our capacity a bit, just so like the trade-offs are a little bit more obvious.
+
+**Jason Gong:** Like, hey, if we want to do more content, what does that mean for like some of these other bets?
+
+**Jason Gong:** We want to push on.
+
+**Jason Gong:** But right now, what's our stable state, Sydney, for SEO?
+
+**Sydney Go:** We're doing one to two a week for that.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Yeah, does that sound good, Colin?
+
+**Jason Gong:** I know had an open question around like, how hard can we push there?
+
+**Colin Lateano:** I'm okay.
+
+**Colin Lateano:** If that is the pace that is good without any additional investment, I'm okay with that.
+
+**Colin Lateano:** But I would honestly...
+
+**Colin Lateano:** don't know.
+
+**Colin Lateano:** I
+
+**Colin Lateano:** If that needs to, if there's human in the loop on that, that needs to slow down to accommodate other features, I would even be willing to slow that one down.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I think my goal for next week is just to make that all clear.
+
+**Jason Gong:** I would say, again, I mean, see the integrations, like, once we get a good, it's a lot lower lift.
+
+**Colin Lateano:** I totally agree with on that.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Colin Lateano:** It's the, I believe the technical focus that we get are the integrations and then the potential guides, and if we can expand into the code componentry work, I really think that the utility gain from that and the uniqueness of the SEO gain will be a higher lift for us than, at least in terms of actual utility, higher than the SEO content.
+
+**Colin Lateano:** So I'd rather, I'd rather, if we have a finite amount of resourcing, I'd rather prioritize those.
+
+**Colin Lateano:** If this is moving into its way of being a well-run machine, outstanding.
+
+**Colin Lateano:** It's all gravy, but it's not my highest priority.
+
+**Jason Gong:** Yeah, okay.
+
+**Jason Gong:** That makes sense.
+
+**Jason Gong:** Yeah, and I wanted to weigh in on that one as well.
+
+**Luke Stahl:** Colin, we had chatted too.
+
+**Luke Stahl:** I had a sync with Vidian, and the idea was, since we have five articles that she's going to publish, the idea is, let's see how those do before we keep ramping these ones up and prioritize on the things Colin just mentioned, because those ones will have more of an impact versus these SEO content pieces.
+
+**Luke Stahl:** But since we have five now, she's putting them into production.
+
+**Luke Stahl:** We can see how they perform.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I think just some, like, context.
+
+**Jason Gong:** Yeah, I'm sure more next week, but, like, within the SEO bucket, we treat kind of article types a little bit different.
+
+**Jason Gong:** So, like, if we mix a lot of things, like, hey, we write some listicles, we write some how-tos, it's actually a lot harder than if we, like, sat down and planned it out.
+
+**Jason Gong:** And it's like, you know, we really care about product evaluation type content for developers. That falls into a certain structure, and once we get that working really well, it becomes very low effort to create more. But if we have SEO content where it's very opportunistic — writing listicles one week and a use case another week — I think that's just slower in general.
+
+**Jason Gong:** So I guess I mean something we haven't spent time on is like plan this this out a little bit but if you guys do some thinking and let me know kind of what your priorities are in terms of like what organic intent do you want to get in front of for developers that'll help us.
+
+**Colin Lateano:** Okay I can I can try to take a stab at that.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** And just to like I mean this is something we're for another client but like like for example for them right like almost each one of these is like a different machine right it's like comparison article how to.
+
+**Jason Gong:** And then it's like, we look at this, and then we plan it out.
+
+**Jason Gong:** like, which ones do we want to build first, you know, and like, get into a stable state.
+
+**Jason Gong:** So, yeah, I would love to do the same for Webflow.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** And then last one's Code Components.
+
+**Jason Gong:** know I'm, like, moving a bit slow on that.
+
+**Jason Gong:** We've just kind of been focused a lot on the docs guides, but that one is next up.
+
+**Jason Gong:** And then next week, yeah, roughly I wanted to cover these topics, kind of read the progress, just like make it a little bit more clear what the trade-offs are and kind of pick what the next priorities are.
+
+**Jason Gong:** And then I think this one's worth talking about, just like how we're going to measure success here.
+
+**Jason Gong:** Because, again, like we're, you know, more on the enablement side for your existing audience almost than pure kind of organic awareness.
+
+**Jason Gong:** Which is what we typically do for folks.
+
+**Jason Gong:** I'd like to know how you guys think about that and measure it.
+
+**Jason Gong:** And then we can get some dashboards set up.
+
+**Jason Gong:** Because I think this looks good, but from our conversations, I feel like this is not entirely how you think about the success of all this content.
+
+**Jason Gong:** So I just want to make sure we're measuring it.
+
+**Colin Lateano:** I can attempt to help set that.
+
+**Colin Lateano:** To be fair, this whole integrations work over the last quarter was an experiment.
+
+**Colin Lateano:** Does it lift the needle?
+
+**Colin Lateano:** Can we actually pull it off through truly an AI system?
+
+**Colin Lateano:** So I think our goals of this whole program are shifting.
+
+**Colin Lateano:** Positively.
+
+**Colin Lateano:** I mean, in my mind, this is an objective win.
+
+**Colin Lateano:** It is just, it wasn't the objective win that we started out working together on.
+
+**Colin Lateano:** And so, it's totally fair for me to help.
+
+**Colin Lateano:** Provide OKRs and what the Webflow strategy is now with this relationship.
+
+**Colin Lateano:** This has moved in a very different direction as a supplement to a content arm of DevRel.
+
+**Colin Lateano:** So it is, it's a totally fair reset.
+
+**Colin Lateano:** Is there anything that we want to talk about today?
+
+**Jason Gong:** you want to save that for an earlier review?
+
+**Jason Gong:** We've got 10 minutes left.
+
+**Jason Gong:** I feel like that's most of the things I wanted to cover.
+
+**Jason Gong:** So we could chat about that.
+
+**Jason Gong:** Like I will say in general, yeah, I mean, just defining the metric helps us, you know, over time, see if we're doing well.
+
+**Jason Gong:** Like I think there's a side conversation with Rachel and Karad about potentially helping in other areas because of how, you know, the nice things I'm sure you've been saying about the content we're doing here.
+
+**Jason Gong:** Like some conversation.
+
+**Colin Lateano:** Yeah, so there, there's a, it feels like there's a very, I am getting looped into a secondary contract expansion on real development stuff.
+
+**Colin Lateano:** And I am, it's great for you.
+
+**Colin Lateano:** Uh.
+
+**Colin Lateano:** I'm trying to understand how that all plays together.
+
+**Jason Gong:** Yeah, same.
+
+**Jason Gong:** Yeah, but I think, let's see.
+
+**Jason Gong:** Yeah, so I guess, is there anything you could share about kind of how you think about all this and how you're measuring it?
+
+**Colin Lateano:** Yep.
+
+**Colin Lateano:** So the most, we are, we have not treated developers as a first-class citizen at Webflow, ever.
+
+**Colin Lateano:** And what this year is, and probably a lot of next year, is this DevRel function is relatively nascent.
+
+**Colin Lateano:** And we're trying to reestablish that Webflow actually is more flexible as a platform to build on.
+
+**Colin Lateano:** And that comes from attacking three different, let's say, tiers of developer.
+
+**Colin Lateano:** There is the technically dangerous marketer, designer, ops person who understands a bit about the web, but is not an engineer by trade.
+
+**Colin Lateano:** There is the entry-level engineer, the adjacent do-everything type of freelancer, and then there's the true front-end engineer.
+
+**Colin Lateano:** And this integration hub project was tackling the first.
+
+**Colin Lateano:** It is helping guide dangerous technical people who need to connect their system together.
+
+**Colin Lateano:** Webflow is not an all-in-one, and that is a universe of narrative shift that we're going through right now.
+
+**Colin Lateano:** Part of our whole WXP environment is a platform means other systems connecting to you.
+
+**Colin Lateano:** And this integrations hub was a dead zone that is a key part that I believe is in our sales process, in our adoption funnel, and demonstrates that people are trying to find information on this.
+
+**Colin Lateano:** And it was an experiment because we started this on the side on top of building SEO normalized content in the blog and just to try to revitalize a developer narrative that we care about developers. In my mind, this is a top of funnel acquisition lever and an enablement material for early stage developers in the Webflow funnel.
+
+**Colin Lateano:** What we are trying to do is actually figure out, we have more impressions, we have more visits, and the average page is viewed as two and a half.
+
+**Colin Lateano:** People are clicking around.
+
+**Colin Lateano:** What does that translate to yet?
+
+**Colin Lateano:** We don't know how to measure that into.
+
+**Colin Lateano:** But the OKR, in my mind, is this is much that this is, there is a way to tie this to money, and there's a way to tie this to integration enablement.
+
+**Colin Lateano:** It's the same measurements we're doing on the actual developer site, where we are trying to tie together visits on the developer site to keys enabled, and do those keys actually start integrating on Webflow, because we know that in the end, if you utilize our APIs in
+
+**Colin Lateano:** A public setting, and you have an active development script running for more than two months, we start to see NRR expansion.
+
+**Colin Lateano:** And so there is a way to tie back to actual revenue outcomes for Webflow and retention outcomes.
+
+**Colin Lateano:** This integrations hub is a top of funnel part of that, but it is a very unique campaign.
+
+**Colin Lateano:** It is not generic SEO lifting the tide of the whole site.
+
+**Colin Lateano:** This is truly someone looking to solve a very unique problem.
+
+**Colin Lateano:** It's not exploratory.
+
+**Colin Lateano:** It's problem-oriented.
+
+**Colin Lateano:** So there should be a to type intent.
+
+**Colin Lateano:** The original work that we started on was just generally lifting our search ability for developer general content.
+
+**Colin Lateano:** And there still is a sentiment thing we need to change.
+
+**Colin Lateano:** I do not believe the integrations hub would be one that would change the sentiment.
+
+**Colin Lateano:** It is truly solutions-oriented.
+
+**Colin Lateano:** Here is how you can address a problem that you have.
+
+**Colin Lateano:** you.
+
+**Colin Lateano:** Thank you.
+
+**Colin Lateano:** So what I'm trying to do in the next quarter is now that we know this is flying and working in some way, start getting this to be material that is utilized in our sales enablement process.
+
+**Colin Lateano:** Because I have high confidence that there is a world where this, once it's really fleshed out, can actually even be referenced by early stage sales teams or customer support teams and say, have you checked out this, the integrations hub on the software that you're using?
+
+**Colin Lateano:** So the TLDR is, this is becoming, in my mind, an acquisition campaign on its own, or a sales enablement campaign on its own that is not the same thing as a general content marketing strategy.
+
+**Colin Lateano:** What else is our relationship doing?
+
+**Colin Lateano:** If this became the gateway for me discussing, can GrowthX handle technical enablement material?
+
+**Colin Lateano:** And a big, a big, a big part of DevRel is scalable, getting started.
+
+**Colin Lateano:** Guides.
+
+**Colin Lateano:** How do you get started on building on Webflow?
+
+**Colin Lateano:** What we're proving with the Integrations Hub is that we can do that with AI.
+
+**Colin Lateano:** And so another part that the DevRel team does on a regular basis is make example code.
+
+**Colin Lateano:** How do you actually, how can you address a certain problem or solution-oriented issue on code and Webflow with our APIs or now our cloud products?
+
+**Colin Lateano:** That is where the next phase of why I'm so interested in about code components are, is that in that first two buckets of developer that are relatively new to the system or new to code at all, having a bunch of example React that can work in our componentry gives them a bigger diversity of how they can actually address their problems and do what they need to do on their websites.
+
+**Colin Lateano:** And I really think if we can start seeding that at a huge degree, we can have a giant list of enabled material for early stage developers.
+
+**Colin Lateano:** If we can pull that off, the next phase is can we build full end-to-end React apps, which I know would break down a huge amount of our getting started requirements.
+
+**Colin Lateano:** Our most viewed pages on the developer site are how do you utilize cloud in unique ways to connect your systems together.
+
+**Colin Lateano:** If we can get into that domain where we have functional apps that can be utilized for cloning or for reuse of code, and it's clean enough that it's utilized, we now have a content-generated service that actually is true developer enablement.
+
+**Colin Lateano:** And I think that's so much different than content marketing.
+
+**Colin Lateano:** But that's where our whole relationship is shifting.
+
+**Colin Lateano:** And we can talk more about that next week.
+
+**Colin Lateano:** And how do you measure success in that is going to be tracing if users are seeing pages and we're seeing key creation increase, if we're seeing solutions get...
+
+**Colin Lateano:** Created by accounts that we can trace between their segment cookie and seeing if they then ended up going to their Webflow site and creating a key.
+
+**Colin Lateano:** We have that data.
+
+**Colin Lateano:** It's just not put together yet.
+
+**Colin Lateano:** But if we're seeing actual keys get created and sites actually utilizing integrations, we can tie that to NRR.
+
+**Colin Lateano:** And then we can tie that to, are we still seeing an expansion of account value in LTV because of the integrations?
+
+**Colin Lateano:** That's a six month tracing problem because it's a long time.
+
+**Colin Lateano:** It's a long term.
+
+**Colin Lateano:** You see a couple pages.
+
+**Colin Lateano:** You don't make the integration tomorrow.
+
+**Jason Gong:** But yeah, that's very helpful.
+
+**Jason Gong:** think typically like the signals we feed back to improve how we create content is like mostly SEO, you know, and now.
+
+**Colin Lateano:** Sure, of course.
+
+**Colin Lateano:** I think like we hired you as an SEO agency.
+
+**Colin Lateano:** So this is a, this is a giant pivot.
+
+**Jason Gong:** But yeah, no, but I'm saying like based on what you're saying, I think as we plan out the next iteration.
+
+**Jason Gong:** Our kind of system, I think we need to feed it, you know, the things you're talking about.
+
+**Jason Gong:** Like, don't know if these take the form of, like, help tickets or transcripts or whatever it is.
+
+**Jason Gong:** Like, people actually talking about, like, the Stripe integration with Let's Flow.
+
+**Colin Lateano:** I would love to feed you signals on, are these coming up in conversation?
+
+**Colin Lateano:** Are we getting, we have a lot of disparate data.
+
+**Colin Lateano:** We have this come up in conversation.
+
+**Colin Lateano:** We have is a closed loss because someone didn't know how to do the work.
+
+**Colin Lateano:** We have our keys being created.
+
+**Colin Lateano:** Those things are all very, very lagging indicators, but you could use that in your cycle.
+
+**Colin Lateano:** I would think on just, is the page working?
+
+**Colin Lateano:** I think seeing pages with, I think, lower bounce rate, longer page depth, revisits would be great signals to show this is actually providing value.
+
+**Colin Lateano:** And I think the thing that we should be optimizing for is value at this, I mean, searching is clearly working.
+
+**Colin Lateano:** But as you know, we refined for months to make sure this page actually is going to get utility out of it.
+
+**Colin Lateano:** And I think what wowed me is I really do think the integration hub content provides actual guided value.
+
+**Colin Lateano:** And if we can keep finding ways to optimize on value to make sure people are seeing use of it, I think that becomes a real power play in terms of early stage user acquisition and retention.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** Makes sense.
+
+**Jason Gong:** I think we can come up with some thoughts and like other bets we can make now that I kind of understand this a little bit more.
+
+**Jason Gong:** Yeah, we can chat more next week.
+
+**Colin Lateano:** Sure thing.
+
+**Colin Lateano:** How, just curious, because I am not, I would not be part of the other work that Kirat's talking to you about now.
+
+**Colin Lateano:** So, how far is that progressing and would it be a different team that you're carving out for that?
+
+**Jason Gong:** Good question.
+
+**Jason Gong:** Honestly, I'm not even sure. I feel like this is something Marcel or Rachel are handling more directly. Oh, and Rachel just, like, texts back and forth sometimes, and it seems like a convo has kicked off.
+
+**Jason Gong:** Maybe I can find out a little bit more about that, and we can talk more next week.
+
+**Jason Gong:** I think as much as possible, we would try to keep it within the same team, especially now that, like, we all understand the product, you know, like, from the sounds of it, that content is a much lower kind of technical difficulty and depth of, like, you know, ending them this stuff, so.
+
+**Colin Lateano:** Then there's a third contract being discussed.
+
+**Colin Lateano:** That is very different.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** really.
+
+**Jason Gong:** What I heard seemed like, hey, let's help you guys on your, like, template marketplace.
+
+**Colin Lateano:** Yeah, that's it.
+
+**Colin Lateano:** Yeah, but in the template marketplace, it is, if it's just the content template marketplace, that's one thing.
+
+**Colin Lateano:** But if we're talking about the actual app template design work, it's purely technical.
+
+**Jason Gong:** If it's enriching the content, yeah, that's very easy.
+
+**Colin Lateano:** Yeah, I guess if you're asking us to design, like, some.
+
+**Colin Lateano:** I'm pretty sure it's design.
+
+**Jason Gong:** I'm pretty sure the conversation is on.
+
+**Jason Gong:** Can you design a bunch of AI-generated apps and include consistent prompting that would help our AI systems generate those apps again?
+
+**Jason Gong:** I think we've done something similar for Bolt before.
+
+**Colin Lateano:** That is what Rachel is saying, is because you have done this before with Bolt, and I can pull the quote one more, that this is a domain that you're relatively familiar with that you could probably expand into.
+
+**Colin Lateano:** And I would argue, I really don't want the learnings of that to derail this project.
+
+**Colin Lateano:** And I'm trying to caution, like, please don't turn, please don't take away programs that are working to work on go-to-market launches of just, I wouldn't call that slop, but I would call it kind of fluff, because the work you would make on those apps are not, are self-contained apps that would be familiar to like Figma's MakeGallery, which is.
+
+**Jason Gong:** I mean, I think just for, like, being able to do a good job on those, I would try to keep the same people, like, for the most part, you know, like I
+
+**Jason Gong:** Sydney and Liz aren't fully on Webflow only, like they have other clients.
+
+**Jason Gong:** I would replace my clients with this new Webflow workstream, I think.
+
+**Jason Gong:** I think that's what'll end up doing the best for all the work in total.
+
+**Jason Gong:** But I hear you on a kind of protecting the work here and not kind of sharing.
+
+**Jason Gong:** Yeah, yeah.
+
+**Jason Gong:** I guess that'll be something to figure out a bit later once that becomes more scoped.
+
+**Colin Lateano:** Yeah.
+
+**Jason Gong:** Like what you probably don't want is like, hey, let's shift away everything from like integrations and docs to like this other thing, you know, for a few months.
+
+**Jason Gong:** Like if we treat it all as like one pool, right?
+
+**Colin Lateano:** That's absolutely correct.
+
+**Colin Lateano:** And that's exactly what I'm trying to really shield because just to be clear, this is what the ask is going to be.
+
+**Colin Lateano:** It is Figma and groups have a collection now of really, really fun make projects that if you remember, I'm focused on utility.
+
+**Colin Lateano:** And if you told me, cool, what an awesome.
+
+**Colin Lateano:** Some MIDI controller that's available on Figma Make, does that provide any real value for developers?
+
+**Colin Lateano:** No, it's just inspirational content.
+
+**Colin Lateano:** And I really would want to, I really want to make sure that we're not going to derail utility gain for growth of our developers for just, for just focusing on what I would call fun.
+
+**Jason Gong:** Yep.
+
+**Jason Gong:** Makes sense.
+
+**Jason Gong:** I'll definitely keep that in mind.
+
+**Colin Lateano:** Cool.
+
+**Colin Lateano:** Next week will be a fun review.
+
+**Colin Lateano:** I'm definitely down for that.
+
+**Colin Lateano:** I think there was a request to change the time.
+
+**Colin Lateano:** Is that still true?
+
+**Jason Gong:** wanted to just make it slightly later, because I think, well, this time actually works.
+
+**Jason Gong:** Because before I had, like, this as a back-to-back, which, like, isn't as good.
+
+**Jason Gong:** Yeah, but I'll check that in Slack.
+
+**Jason Gong:** As long as it works for all you guys, I mean, we'll accommodate.
+
+**Colin Lateano:** I mean, if you want to change time, just let us know on it.
+
+**Jason Gong:** I was okay with the time change.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** Sounds good.
+
+**Jason Gong:** Cool.
+
+**Jason Gong:** All right.
+
+**Jason Gong:** I'll chat with you guys later.
+
+**Jason Gong:** See you soon.
+
+**Jason Gong:** See ya.

@@ -1,0 +1,1111 @@
+# Airbyte <> GrowthX Weekly Sync
+
+<metadata>
+date: 2025-08-08
+time: 15:30 UTC
+duration: 36 minutes
+organizer: Darrell Etherington
+participants: Jakub Rudnik (GrowthX), Carrie Chowske (GrowthX), Darrell Etherington (GrowthX), George Haikal (GrowthX), Tanmay Sarkar (Airbyte), Mario Moscatiello (Airbyte), Nithin M (Airbyte)
+fathom_recording_id: 79416384
+fathom_url: https://fathom.video/calls/375089237
+share_url: https://fathom.video/share/36iJP7HWw1-x98zB1CMkMatd-nJeyCkk
+source: fathom
+enriched_on: 2026-03-03 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Airbyte discussed the mixed results from four content refresh batches (traffic down 14-27% but impressions flat), analyzed potential technical factors, and charted new strategic directions. The team introduced Carrie Chowske as dedicated managing editor and Darrell Etherington as managing director, then pivoted focus toward net-new editorial content targeting Airbyte's hybrid deployment product—specifically regulated industries facing data sovereignty and compliance challenges. Tanmay and Mario will coordinate on a content brief and PSEO prioritization while GrowthX begins preparing 75% of at least one PSEO page type before the new website launch in approximately two months.
+
+---
+
+## Context
+
+This is a weekly operational sync between GrowthX's content team and Airbyte's marketing/product team. GrowthX has been executing a content engagement deliverable (services model) for Airbyte focused on SEO content strategy, including refreshes of existing pages and development of new editorial assets. The relationship is strategic—Airbyte is a B2B data integration platform (600+ connectors) with a mature marketing function, and this engagement spans content strategy, keyword research, technical SEO, and now product-focused content for new feature launches. The call marks an inflection point: transitioning out of a "Strategy Sprint" phase (evaluation and refreshes) into production operations with dedicated resources (Carrie managing editorial quality and operations, Darrell as managing director), while simultaneously pivoting toward net-new editorial content aligned with Airbyte's hybrid deployment product launch targeting regulated industries.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- New dedicated managing editor (Carrie Chowske) and managing director (Darrell Etherington) coming onboard signals scaling the account from Strategy Sprint phase to sustained operations and growth
+- Table rendering bugs in existing content require retrofitting strategy; sync needed with Carrie/Jacob to determine scope and prioritize fixes across 300+ pages
+- Need for customized image workflows and page template adaptations when scaling content to new page types (ETL tools pages, industry pages, persona pages, etc.)
+- Opportunity to prove scalability of health-line-style modular content model across multiple dimensions (industry, audit type, compliance challenge, company size)
+
+**To CheckThat:**
+- Regulated industries content strategy (data sovereignty, compliance, audit preparation) aligns with AI visibility and data quality concerns
+- "AI-ready data" becomes differentiator for regulated industry buyers; opportunity to explore CheckThat positioning around compliance-ready data architectures
+
+**To GrowthX Business Development:**
+- Account shifting from mixed-results refresh phase to growth-focused new content; strong signal of account maturity and expansion opportunity
+- Darrell's background (12 years at TechCrunch, comms at Apple/Shopify, venture VC content) represents high-caliber hire; Carrie's Animals media background suggests elevated quality standards
+- PSEO initiative launching with new website as forcing function; successful execution here could become referenceable case study for platform-driven content at scale
+
+---
+
+## Overview
+
+- Recent content refreshes (4 batches) show mixed results; traffic down 14-27% but impressions mostly flat
+- New editorial focus: content around data sovereignty, compliance, and hybrid deployments for regulated industries
+- PSEO initiatives planned but timing dependent on new website launch in \~2 months
+- Team changes: Carrie (new managing editor) and Darrell (managing director) joining; Jacob staying for strategy
+
+---
+
+## Key Topics
+
+### Content Refresh Performance
+
+  - 4 batches of refreshes live, 3 have data (1 too new)
+  - Traffic down 14-27% across batches, but 2 improved since Monday
+  - Impressions mostly flat or slightly growing
+  - Complicating factors: 6-month downward trend, Google algorithm changes
+  - Plan: Monitor for 2-4 more weeks before drawing conclusions
+  - Technical SEO check needed to rule out indexing issues
+
+### New Editorial Content Strategy
+
+  - Focus on data sovereignty and compliance for regulated industries
+  - Tied to Airbyte's new hybrid deployment offering
+  - Topics: audit preparation, data residency, AI-ready data
+  - Opportunity to create scalable content across verticals/company types
+  - Next steps: Mario/Tanmay to provide brief, GrowthX to do keyword research
+
+### PSEO Initiatives
+
+  - 5 potential focus areas identified (e.g. connect pages, industry pages)
+  - Work can begin on structure/strategy before new site launch
+  - Goal: Have 75% progress on at least one page type before launch
+  - Tanmay to prioritize list and send to GrowthX team
+
+### Team/Operational Updates
+
+  - Carrie joining as dedicated managing editor
+  - Darrell introduced as managing director
+  - Jacob staying involved for strategy, Carrie point of contact for quality/operations
+  - David exiting, strategy sprint phase concluding
+
+---
+
+## Action Items
+
+**Carrie Chowske (GrowthX)**
+- Consult with Dave (GrowthX) and Darrell (GrowthX) for additional technical SEO analysis, especially for the large batch; identify potential missed issues
+
+- Sync with Jakub Rudnik (GrowthX) re: fixing table bugs in existing content; determine scale and approach for retrofitting across ~300 pages
+
+
+**Tanmay Sarkar (Airbyte)**
+- Provide larger folder-level data for data engineering resources; analyze trend-level changes in citations over time
+
+- Send content brief for new hybrid deployments product; include topics, verticals, challenges, and Airbyte advantages
+
+- Sync with Mario Moscatiello (Airbyte); provide prioritized list of 5 PSEO page types (connect pages, sync pages, industry pages, persona/jobs-to-be-done pages, and any others) for implementation order
+
+---
+
+## Transcript
+**Jakub Rudnik:** Hey, Tanmay.
+
+**Darrell Etherington:** Hey, Daryl.
+
+**Tanmay Sarkar:** Hey.
+
+**Darrell Etherington:** Hey, Daryl.
+
+**Darrell Etherington:** Good morning.
+
+**Tanmay Sarkar:** I don't think we've met, Tanmay, but nice to meet you, too.
+
+**Tanmay Sarkar:** Hey, Carrie.
+
+**Carrie Chowske:** Hi, Tanmay.
+
+**Tanmay Sarkar:** How are you?
+
+**Tanmay Sarkar:** I'm doing great.
+
+**Tanmay Sarkar:** How are you?
+
+**Carrie Chowske:** I'm all right.
+
+**Carrie Chowske:** I have two crazy cats in the room with me right now, so I apologize in advance if they disrupt us at all.
+
+**Tanmay Sarkar:** No, that's totally fine.
+
+**Jakub Rudnik:** It's the Friday calls.
+
+**Jakub Rudnik:** My son is playing with my mom in the other room, and we'll see how, if he makes an appearance.
+
+**Jakub Rudnik:** Maybe a month ago, Tanmay and Mario met him.
+
+**Jakub Rudnik:** And he just ran, so we'll see if that happens.
+
+**Jakub Rudnik:** But yeah, we've got cats.
+
+**Darrell Etherington:** We've got babies or toddlers.
+
+**Darrell Etherington:** My dog's not in here.
+
+**Jakub Rudnik:** Yeah, my dog can make an appearance, too.
+
+**Jakub Rudnik:** Always a possibility.
+
+**Jakub Rudnik:** A bunch to jump in.
+
+**Jakub Rudnik:** I'm not sure if George will jump in.
+
+**Jakub Rudnik:** We'll see.
+
+**Jakub Rudnik:** But let's
+
+**Jakub Rudnik:** Let's move into the call, I think, so I want to cover a bunch of stuff today.
+
+**Jakub Rudnik:** For the new folks, our calls usually move pretty quickly, but I think more to cover today than normal.
+
+**Jakub Rudnik:** start sharing the screen, but the first thing I want to do is intro Daryl and Carrie and just a line of a couple.
+
+**Jakub Rudnik:** We've just had changes across the account, obviously, like, I mean, he's leaving, moving into Strategy Sprint.
+
+**Jakub Rudnik:** Now we're like, we've been kind of sitting half in Strategy Sprint and out.
+
+**Jakub Rudnik:** So I think I'll draw a line of, this is probably the end of Strategy Sprint, as we're calling it for the context side.
+
+**Jakub Rudnik:** Marcel, George, the resource is still certainly there in that information and everything.
+
+**Jakub Rudnik:** But, like, just move it back into this group so we'll be more of the point of context and use, you know, George or engineering resources certainly where applicable.
+
+**Jakub Rudnik:** And obviously, always, like, Marcel and Mario especially have relationships, so it's, you know, grayer than, like, other clients.
+
+**Jakub Rudnik:** But for all intents and purposes, we've taken the refreshes and what they've outlined, and that is where it is, and there's still iteration to do.
+
+**Jakub Rudnik:** But now it's like, what's the next step and where do we go?
+
+**Jakub Rudnik:** So I think this group will be the driving that.
+
+**Jakub Rudnik:** And then we're introing obviously Carrie and Darrell that you've seen in Slack, but Carrie will be, she's a managing editor and new dedicated over here.
+
+**Jakub Rudnik:** So we've had, again, kind of like substitutes as the strategy sprint, but Carrie doing this now going forward and she'll, she works closely with Darrell managing director.
+
+**Jakub Rudnik:** So we'll all here.
+
+**Jakub Rudnik:** think what I put in the agenda and I did not share my screen, though, I said I was going to use Carrie for point of contact on anything quality wise on the content.
+
+**Jakub Rudnik:** Like, Tanmay, if you're seeing broken tables, those things, I think that is like the direct feedback sent over to Carrie and any operational pieces.
+
+**Jakub Rudnik:** But also I think there'll be a lot of collaboration.
+
+**Jakub Rudnik:** We'll get to this in a second.
+
+**Jakub Rudnik:** But like we're going to refresh, say, tools pages and Tanmay, identified, forget the competitor's name, but they're doing these things really well.
+
+**Jakub Rudnik:** Carrie.
+
+**Jakub Rudnik:** Carrie will be, I think, working with our engineering team to set up, like, let's customize the pipeline that we already built to fit the top ETL tools, for instance.
+
+**Jakub Rudnik:** Like, if we're missing, if we don't have features or sections that we're outputting correctly, if we need a custom image workflow, definitely, like, we'll all be involved in that conversation.
+
+**Jakub Rudnik:** But Carrie will work with our engineering team to ensure we're moving those things forward and on top.
+
+**Jakub Rudnik:** So, Carrie, on the kind of project managing side, certainly, we'll all play roles.
+
+**Jakub Rudnik:** But use Carrie as the point of contact there that'll ensure we have one source of truth and where, like, nobody's missing things in the multiple channels.
+
+**Jakub Rudnik:** Sorry, I'm sharing and trying to discuss.
+
+**Jakub Rudnik:** And, okay, here we go.
+
+**Jakub Rudnik:** And then, yeah, and then, Carrie and Daryl, do you want to do an intro, just say hello in your background and things before we jump too far?
+
+**Jakub Rudnik:** And then, do those pieces.
+
+**Darrell Etherington:** Yeah, sure.
+
+**Carrie Chowske:** Carrie, want to go ahead?
+
+**Carrie Chowske:** Yeah, so my background's in, I started actually my career as a generalist, so I've kind of done a little bit of everything, but the past like, I'd say five or six years, I've been kind of focused in at agency work doing, you know, for various clients, mostly in SaaS.
+
+**Carrie Chowske:** So that's a good, good backup for the background for this.
+
+**Carrie Chowske:** And then, yeah, I just, I'm excited to kind of figure out where Jacob had a really good strategy, I think, going forward for you.
+
+**Carrie Chowske:** So I'm excited to kind of dig into that and see where we're going next.
+
+**Darrell Etherington:** Great.
+
+**Darrell Etherington:** And yeah, I'm Darrell, as Jacob mentioned, managing director here.
+
+**Darrell Etherington:** I've been here now, like, coming on five months or so, which is among the longer serving people, this young company still.
+
+**Darrell Etherington:** But yeah, that's, my background is journalism.
+
+**Darrell Etherington:** So I was a journalist for 12 years, basically at TechCrunch.
+
+**Darrell Etherington:** And then I did some comms and PR as well.
+
+**Darrell Etherington:** Also in-house at Apple for a bit, and in-house at Shopify for a bit, and then also running content at a venture capital firm in Canada.
+
+**Darrell Etherington:** I'm Canadian.
+
+**Darrell Etherington:** I'm based in Canada.
+
+**Darrell Etherington:** I'm in Toronto.
+
+**Darrell Etherington:** So Omer's Ventures, big pension-backed fund before joining here.
+
+**Darrell Etherington:** Yeah, looking forward to working with Darrell, I think we met at the dinner.
+
+**Darrell Etherington:** Oh, did we?
+
+**Mario Moscatiello:** Where?
+
+**Mario Moscatiello:** Which one?
+
+**Darrell Etherington:** Yeah, I think we...
+
+**Jakub Rudnik:** Oh, at the growthx one?
+
+**Darrell Etherington:** Oh, yeah, yeah, yeah.
+
+**Darrell Etherington:** Of course, of course.
+
+**Mario Moscatiello:** Yeah, yeah, And Carrie, I see you were at animals.
+
+**Mario Moscatiello:** Yeah, I was, actually.
+
+**Carrie Chowske:** Nice.
+
+**Mario Moscatiello:** Awesome.
+
+**Mario Moscatiello:** Yeah, I worked with a bunch of people.
+
+**Mario Moscatiello:** Ali.
+
+**Mario Moscatiello:** I work with Ali.
+
+**Carrie Chowske:** I don't know if you know Ali Brazel.
+
+**Mario Moscatiello:** I do.
+
+**Mario Moscatiello:** I work with her.
+
+**Mario Moscatiello:** Like, we cross-pad in the past.
+
+**Mario Moscatiello:** Big fan of animals.
+
+**Carrie Chowske:** Like, you know...
+
+**Mario Moscatiello:** yeah.
+
+**Carrie Chowske:** Yeah, so...
+
+**Mario Moscatiello:** There's a lot of former animals.
+
+**Darrell Etherington:** There's a lot of ex-animals.
+
+**Mario Moscatiello:** think maybe...
+
+**Darrell Etherington:** Yeah, I mean...
+
+**Darrell Etherington:** I don't know if that's confirmed, but...
+
+**Carrie Chowske:** Yeah, yeah.
+
+**Carrie Chowske:** Yeah, we're...
+
+**Carrie Chowske:** We've got a lot...
+
+**Carrie Chowske:** A of our managing editors are people that were content managers at Animals, and it's, you know, they're really, that's just, I don't know, I think it's a good fit, because we definitely know what it's like to do really high quality content, and adapting it for the AI workflows, because, you know, we've got a lot of problem solvers, so I think it's a really good fit.
+
+**Mario Moscatiello:** Yeah, that makes, that makes sense.
+
+**Jakub Rudnik:** Awesome.
+
+**Jakub Rudnik:** So, yeah, Paul, just both, Tammy and Mario are in the bay, so, like, obviously, Darrell, you already met, but if anybody's out there.
+
+**Darrell Etherington:** Yeah, I get out pretty regularly, so next time we should definitely sync up in person for coffee or something.
+
+**Mario Moscatiello:** For sure.
+
+**Mario Moscatiello:** And Jacob, just to understand, will you stay on the account, or are you passing the torch to Darrell?
+
+**Jakub Rudnik:** I'm not passing, I'm still here strategically, I think on the, like, what we, know, David and I, like David exiting the business, the point of contact on, like, the quality and the operation, the weekly stuff that's moving over to Carrie.
+
+**Jakub Rudnik:** And then this, okay, allowing, outlined on the PSEO front here, and still guiding that, just a different, a little bit of a tweak.
+
+**Mario Moscatiello:** Yeah, that makes sense.
+
+**Jakub Rudnik:** Awesome.
+
+**Jakub Rudnik:** Just for me to understand.
+
+**Mario Moscatiello:** That's perfect.
+
+**Jakub Rudnik:** Okay.
+
+**Jakub Rudnik:** And we'll continue to, my hope is that this day of study, we've just had people in and out both from intentionally with the strategy sprints, but also, you know, and team members.
+
+**Jakub Rudnik:** So this should be steadier, but we'll keep you in the loop if there's anyone else joining or making changes, but should be steadier here.
+
+**Jakub Rudnik:** Okay.
+
+**Jakub Rudnik:** And then to the piece I want to talk through.
+
+**Jakub Rudnik:** So I think the refreshes were generally aligned, Tanmay and I had that one-on-one conversation.
+
+**Jakub Rudnik:** So just want to level set with everybody.
+
+**Jakub Rudnik:** So four batches are live.
+
+**Jakub Rudnik:** can share those here, but broadly, and like three have data because one just launched.
+
+**Jakub Rudnik:** So we don't have data on the fourth yet as we're waiting for GSC.
+
+**Jakub Rudnik:** Traffic's down.
+
+**Jakub Rudnik:** So say that very clearly.
+
+**Jakub Rudnik:** It's down in this, like, depending on the batch, 14 to 27%.
+
+**Jakub Rudnik:** Three of those are, two of those have improved since Monday.
+
+**Jakub Rudnik:** And so don't want to like over index on three or four days, but could.
+
+**Jakub Rudnik:** Would be a good sign?
+
+**Jakub Rudnik:** don't know.
+
+**Jakub Rudnik:** The data's all over the place for a few different reasons.
+
+**Jakub Rudnik:** One, traffic has been down on this folder where we're executing the refreshes for six months straight.
+
+**Jakub Rudnik:** So there's just a trend line down.
+
+**Jakub Rudnik:** Even in our best case scenario, I don't think we would have expected traffic to immediately rebound given how much that traffic is decreasing.
+
+**Jakub Rudnik:** For sure, we're not seeing all the positive signs we want to on the impression front.
+
+**Jakub Rudnik:** That's pretty flat.
+
+**Jakub Rudnik:** One of the batches is growing.
+
+**Jakub Rudnik:** One's basically at flat.
+
+**Jakub Rudnik:** One is down slightly.
+
+**Jakub Rudnik:** I don't think there's much to read there.
+
+**Jakub Rudnik:** That all looks pretty normal.
+
+**Jakub Rudnik:** That would look steady state to me.
+
+**Jakub Rudnik:** But that's also telling me that the refreshes...
+
+**Jakub Rudnik:** If you just look at impressions, refreshes either aren't hurting or they're not indexed or it's harder to tell.
+
+**Jakub Rudnik:** So the traffic and the impressions don't look like they're correlating.
+
+**Jakub Rudnik:** Often you'll see that in refreshes, but kind of in the inverse here.
+
+**Jakub Rudnik:** And then the last piece that I didn't call it originally, but looking at like why are there...
+
+**Jakub Rudnik:** It seems like there's AI over...
+
+**Jakub Rudnik:** Because on every one of these queries, like the new algorithm change that was intentionally to add more AI overviews, like that launched basically the same time we launched all these refreshes.
+
+**Jakub Rudnik:** And so there's just a lot of variables.
+
+**Jakub Rudnik:** I think it's really hard to assess what is truly impacting what.
+
+**Jakub Rudnik:** Again, traffic down for a long time.
+
+**Jakub Rudnik:** Is this a continuation and just a decrease of that trend?
+
+**Jakub Rudnik:** Have we accelerated that trend?
+
+**Jakub Rudnik:** So there's a lot.
+
+**Jakub Rudnik:** And I think we agreed, and Tanmay, me if I'm speaking out at any of these pieces, is that we'll give this more time, whether that's two or four more weeks, to let the refreshes level more.
+
+**Jakub Rudnik:** think index, like Google crawling more things, experimenting with that content.
+
+**Jakub Rudnik:** I think it's still too early, even with fewer positive signs than we felt like two weeks ago, that we should still let some of this go.
+
+**Jakub Rudnik:** Again, even over the last four days, we've seen changes in some of these pieces.
+
+**Jakub Rudnik:** So we're going to give this another two to four weeks, whatever that Can we exclude anything technical?
+
+**Mario Moscatiello:** Like, can we make sure that, you know, the...
+
+**Mario Moscatiello:** Pages are indexing and that there is no like issues like on a technical SEO front because like I wouldn't want like, yeah, Tanmay and I looked at data because it was like, Tanmay, it's August, like who's going to click on the pages, right?
+
+**Mario Moscatiello:** And then we looked at data last year and actually like we looked at, you know, July versus August, like literally like impression clicks and all of it.
+
+**Mario Moscatiello:** And we didn't really have like that much of a swing.
+
+**Mario Moscatiello:** As I said to you, Jacob, like I'm really not shying away from like the broader SEO trend, which is why one of the reasons why we're working together.
+
+**Mario Moscatiello:** It's because we did lose 20, 30% like organic traffic since the beginning of the year and everybody, you know, in the industry is scrambling to sort of like get back up.
+
+**Mario Moscatiello:** Now, the thing I want to say though is like, want to make sure that from a technical standpoint, we're good.
+
+**Mario Moscatiello:** And like, yeah, like, you know, re-indexing maybe pages manually.
+
+**Mario Moscatiello:** don't know.
+
+**Mario Moscatiello:** We should look at that stuff just to make sure that, you know, I call it the usual, like, oh, the plug wasn't in the wall type situation.
+
+**Jakub Rudnik:** So.
+
+**Jakub Rudnik:** For sure.
+
+**Jakub Rudnik:** Yeah, on the spot checking I've done, the indexing looks good, like within a week of the refreshes.
+
+**Jakub Rudnik:** think we can check that more at scale.
+
+**Jakub Rudnik:** Darrell and Carrie, it's probably worth us all talking to Dave and seeing if there's any additional analysis there, especially with this big batch, if there's something that we're missing.
+
+**Jakub Rudnik:** And he's like our most technical director that's gotten like client agnostic, so he's available for this type of look.
+
+**Jakub Rudnik:** So I think that's worth doing for sure.
+
+**Jakub Rudnik:** So let's add that as a to-do.
+
+**Jakub Rudnik:** So agreed there.
+
+**Jakub Rudnik:** And then I wanted to call out that we've got the table bug fixed for any additional refreshes, like that's been fixed with our engineering team.
+
+**Jakub Rudnik:** I don't think that that would have retrofit.
+
+**Jakub Rudnik:** So I don't know the scale of the, but like how that's impacted content to date.
+
+**Jakub Rudnik:** Like Carrie, let's sync on that and how we go backwards, like not necessarily like refreshing everything, but how do we fix those tables and what the scale is?
+
+**Jakub Rudnik:** I don't know the best answer on.
+
+**Jakub Rudnik:** Doing that across 300 pages and how we identify that.
+
+**Jakub Rudnik:** So we probably have to consult Eng on how to identify those and quickly update.
+
+**Jakub Rudnik:** But we have the backend to produce the tables properly now.
+
+**Jakub Rudnik:** And Tanmay, if you see anything else buggy like that, please bring that up.
+
+**Jakub Rudnik:** I've also added, like, we need to get a custom image workflow, both for any of these refreshes, but any additional content, whether that's new editorial pages or refreshes, we do elsewhere on the site.
+
+**Jakub Rudnik:** But largely for these four batches mixed to slightly negative results, depending on which metric you're looking at, I would like Tanmay, if possible, more profound data at the larger folder level for the data engineering resources.
+
+**Jakub Rudnik:** So we can see, one, is it just things we've updated that have fallen off?
+
+**Jakub Rudnik:** Is that a one-week trend, that we...
+
+**Jakub Rudnik:** We saw a dip, but we've actually seen growth over the last month with some of those URLs you shared.
+
+**Jakub Rudnik:** So I just want to know better what that data looks like.
+
+**Jakub Rudnik:** It's just newer data to me, and that sample size was small.
+
+**Jakub Rudnik:** So I want to see if we can identify more at the trend level.
+
+**Jakub Rudnik:** I'm sure you've done some of that, but that would help us to understand where and how citations are changing over time.
+
+**Jakub Rudnik:** So I'll put that on you if that is possible.
+
+**Jakub Rudnik:** And then we added a control group as well in SEO testing so we can share that link.
+
+**Jakub Rudnik:** So we can look at URLs that have not been changed and see how they are impacted traffic and conversion-wise versus what we have changed.
+
+**Jakub Rudnik:** I think that will help us to get a better sense of what's actually impacting the traffic.
+
+**Jakub Rudnik:** Anything anyone wants to add on the original batch before we move on to next projects?
+
+**Jakub Rudnik:** Sweet.
+
+**Jakub Rudnik:** Okay, so there's a couple options I think we can do.
+
+**Jakub Rudnik:** There's obviously I want to keep momentum going.
+
+**Jakub Rudnik:** There's like we did this and we need to monitor, but that doesn't mean that we stop doing everything.
+
+**Jakub Rudnik:** So we have a.
+
+**Jakub Rudnik:** A options.
+
+**Jakub Rudnik:** So when on the editorial side of Bucket of Things, we can continue and there's roughly 150 refreshes in this section of your site that have not been done.
+
+**Jakub Rudnik:** So we can leave those as just a test group.
+
+**Jakub Rudnik:** We can pause because we have lower confidence or we can continue on those 150.
+
+**Jakub Rudnik:** That's one option.
+
+**Jakub Rudnik:** You obviously have like, I just use SEMrush's accounts for these articles.
+
+**Jakub Rudnik:** So the numbers aren't perfect, but 185 on like your top ETL tools.
+
+**Jakub Rudnik:** That's one option we can go in to a new area of the site.
+
+**Jakub Rudnik:** If we do that, would recommend like we use our workflows, but we adapt to that type of page, right?
+
+**Jakub Rudnik:** So I think we would want to like run a small batch, Tanmay really like dive in and where do we need images?
+
+**Jakub Rudnik:** What, you know, that you showed us in the competitor in the Monday call, like what are we not getting to?
+
+**Jakub Rudnik:** And so we can adapt that with our engineering team.
+
+**Jakub Rudnik:** So we make sure we're doing that across the whole batch or at least like a larger portion before we do a batch and have to retrofit.
+
+**Jakub Rudnik:** So that's an option.
+
+**Jakub Rudnik:** an option.
+
+**Jakub Rudnik:** So
+
+**Jakub Rudnik:** I think blog is not as much on the organic front.
+
+**Jakub Rudnik:** There's more like company announcements and some other things, but it's a little bit of a mix.
+
+**Jakub Rudnik:** So there's probably some amount in the blog areas.
+
+**Jakub Rudnik:** Potentially, there's other refreshes on some other pages that you would want to do too.
+
+**Jakub Rudnik:** So if there's something else I'm missing here, that's like what I think there's potential on refresh front.
+
+**Jakub Rudnik:** Otherwise, to me, it would be, let's stand up net new content for the first time since coming out of a strategy sprint.
+
+**Jakub Rudnik:** So we can go in, I know Mario, mentioned like some veins or lanes we can go into that you've identified with like the new product.
+
+**Jakub Rudnik:** So we can go into, Tanmay, any keywords that you've identified historically.
+
+**Jakub Rudnik:** So there's a lot of options there.
+
+**Mario Moscatiello:** Yeah, I think like for me would be really now like the one thing that we can do on the net new is we're launching a new, it's the same product, but slightly, again, same product, slightly different in terms of like the one thing that we really want to target is companies in regulated industries.
+
+**Mario Moscatiello:** Why?
+
+**Mario Moscatiello:** Because essentially we're launching.
+
+**Mario Moscatiello:** A product that enables, like, AirBite is a data integration platform, right?
+
+**Mario Moscatiello:** Like, you can integrate over 600 tools into a data warehouse.
+
+**Mario Moscatiello:** And if you think about regulated industries, like, they've been largely left out of the cloud because they can't really just, like, plug in whatever they want.
+
+**Mario Moscatiello:** And so we're launching what we call hybrid deployments.
+
+**Mario Moscatiello:** This is not something that, we're the first in the industry of doing it in a way we do it.
+
+**Mario Moscatiello:** Like, it's a product that already exists, like, Fivetran has it.
+
+**Mario Moscatiello:** But essentially what it is, is, like, you can spin up an AirBite instance in the cloud.
+
+**Mario Moscatiello:** But then, like, you decide where your data sits.
+
+**Mario Moscatiello:** So what we call, like, you can spin up different data planes.
+
+**Mario Moscatiello:** And what that means is, like, essentially, like, if you are, I don't know, like, if you are, like, I want to say, try to get an example.
+
+**Mario Moscatiello:** If, let's say, you are Bumble or, like, Tinder and you have customer data, you know, in every nation where the app is available.
+
+**Mario Moscatiello:** Before doing this, you have to spin up, like, like, I don't know, six, seven instances or...
+
+**Mario Moscatiello:** However many countries of the full application to manage the data, and you need the data teams across every country and so on and so forth.
+
+**Mario Moscatiello:** Versus now, like you have one centralized data team, maybe sits, I don't know, in San Francisco where the HQ is, but like if you have customers in England, the data sits in England.
+
+**Mario Moscatiello:** If you have customers in France, the data sits in France and so on and so forth.
+
+**Mario Moscatiello:** So it's really a play on data sovereignty.
+
+**Mario Moscatiello:** So there is way more, there's essentially a lot of content that we can generate on sort of like these topics.
+
+**Mario Moscatiello:** And like I think Tanmay and I can provide a lot of guidance here and help with the keywords and sort of like the topics and stuff.
+
+**Mario Moscatiello:** But it's really like sort of like technical but top leadership content around how do you get audit proof?
+
+**Mario Moscatiello:** Like I did some research on this and why I'm excited about it is essentially like if we think about this type of companies, they have to go, I'll share my screen, sorry, just one sec.
+
+**Mario Moscatiello:** Like this.
+
+**Mario Moscatiello:** This company has, like, besides, like, all this, a lot of, like, just me chatting with, chat GPT, but, like, these are all the audits, like, let's, you know, talk to ISO, like, we know those, but, like, if you are, like, companies in, like, these verticals, like, you need to go through, like, there's a ton of audits, this is just somewhat a few ones, oh, sorry, there's, like, a ton of audits, like, that people need to go through and stuff, and, like, what does Airbyte sell here is basically peace of mind, like, we tell you, like, hey, like, if you're using Airbyte, like, it's going to be, like, prepping for those audits is going to be a piece of cake because your data is compliant from the get-go, so, like, I think there is a huge play here, and, like, for data engineers and, like, data leaders on, like, how to be audit-proof, like, you know, all of the things that you need to go through, like, you know, and so on and so forth, so, I'm, you know, in that sort of, like, how Marcel looks at it, which is, like, the health line type blog with, like, all of the categories and stuff, like, I think there is a huge play here for us in speaking to, like, this, sort of, like, needs.
+
+**Mario Moscatiello:** Yeah.
+
+**Mario Moscatiello:** For the audience, in a way, so.
+
+**Darrell Etherington:** I don't know.
+
+**Darrell Etherington:** That sounds good.
+
+**Darrell Etherington:** Like, it would be more of a, like, macro data sovereignty knowledge hub or base, and then you append the, like, and we offer you a lot of this peace of mind through the program.
+
+**Mario Moscatiello:** Like, how, especially.
+
+**Mario Moscatiello:** Like, think there's also an intersection with AI, because especially, like, this concept of, like, AI-ready data, like, in a way, like, you not only have humans interacting with the data now, but you also have AI systems.
+
+**Mario Moscatiello:** And so, like, as a regulated industry, like, the last thing you want is, like, just to let the AI go wild.
+
+**Mario Moscatiello:** And so we can really help companies, like, with getting their data AI ready.
+
+**Mario Moscatiello:** So I think, like, Tommy, like, and I can help, like, summarize, like, you know, content strategy, not content strategy, but, like, content brief for this.
+
+**Mario Moscatiello:** Like, we can get that done pretty quickly.
+
+**Mario Moscatiello:** And then, like, I think it'd be great to start experimenting with this type of content and see if we can get any traction.
+
+**Darrell Etherington:** Yeah, that sounds great.
+
+**Darrell Etherington:** mean, like I used to work at the large pension fund and like they had this concern very specifically because we had a hybrid environment where a lot of this stuff had to remain resident in like the, it was a contractor, but basically our data center.
+
+**Darrell Etherington:** We actually had our own data center too, small one, but then, and then we had cloud properties with the less sensitive data.
+
+**Mario Moscatiello:** Was it, did you work at OTPP?
+
+**Darrell Etherington:** Omers.
+
+**Darrell Etherington:** Omers, okay.
+
+**Mario Moscatiello:** Yeah, yeah.
+
+**Mario Moscatiello:** I worked with OTPP in the past, so.
+
+**Darrell Etherington:** Oh, nice.
+
+**Darrell Etherington:** Yeah, the better one.
+
+**Darrell Etherington:** No, don't, I didn't say it.
+
+**Mario Moscatiello:** Well, I was at a VC fund and we were trying everything we could to have Ontario teachers like invest in us, but their merging managing, the merging manager's program was full that year, so.
+
+**Darrell Etherington:** Ah, okay.
+
+**Darrell Etherington:** Yeah, it's a interesting mix.
+
+**Darrell Etherington:** And a lot of people think that we had, Ilya came from like Safe Super Intelligence.
+
+**Darrell Etherington:** Yeah.
+
+**Darrell Etherington:** Those guys, they all think we were like a big sovereign wealth fund, basically.
+
+**Darrell Etherington:** They thought we could just deploy like, you know, $100 million checks.
+
+**Mario Moscatiello:** just willing to know.
+
+**Darrell Etherington:** No, not the way it works, right?
+
+**Mario Moscatiello:** No, I know, I know.
+
+**Darrell Etherington:** But yeah, anyways, I felt a lot of it.
+
+**Darrell Etherington:** And I also worked at Shopify on like cannabis sales or whatever, right?
+
+**Darrell Etherington:** And that's highly regulated.
+
+**Darrell Etherington:** And I saw the engineering pain on the other side.
+
+**Mario Moscatiello:** It was actually nightmarish, like the way they had to set it up.
+
+**Mario Moscatiello:** A percent.
+
+**Mario Moscatiello:** And that's exactly like the thing is like these engineers are like want to use modern technologies and they want to basically the messaging is that we bring the power of the cloud to any industry that was neglected by it before because they just couldn't do it.
+
+**Mario Moscatiello:** And we're like, hey, like we don't have to.
+
+**Mario Moscatiello:** First of all, Airby doesn't store any of the data.
+
+**Mario Moscatiello:** It's like a pass through, which is already great.
+
+**Mario Moscatiello:** But second of all, like again, like you decide where your data sits.
+
+**Mario Moscatiello:** But before doing that, you had to mess around with like Kubernetes for six months and deploy, you know, clusters on your own environment.
+
+**Mario Moscatiello:** Whereas now it's like, no, the application layer, like the UI sits on our cloud, but we don't touch your data.
+
+**Mario Moscatiello:** There's no connection with the actual data.
+
+**Mario Moscatiello:** You decide where the data sits.
+
+**Mario Moscatiello:** And so, like, I think it's actually actually like a.
+
+**Mario Moscatiello:** Yeah, I think it speaks to a lot of like the engineers and also like in a way, it's always been harder for these companies to hire top talent, especially in the AI world, because like these people don't want to work with like all like IBM and Oracle databases and stuff like that.
+
+**Mario Moscatiello:** And now we're, what we're seeing is a lot of these infrastructure modernization projects where we can capture all of that budget.
+
+**Mario Moscatiello:** And there is like a lot of- they would have spent on engineers that they can't actually acquire.
+
+**Mario Moscatiello:** Exactly, exactly.
+
+**Mario Moscatiello:** Exactly.
+
+**Mario Moscatiello:** So I even like gave an overview of this to my sales team yesterday.
+
+**Mario Moscatiello:** I don't even know where it is.
+
+**Mario Moscatiello:** I think it's here.
+
+**Mario Moscatiello:** And so, yeah, like I was talking about this type of, this is just an overview.
+
+**Mario Moscatiello:** So like, it's not like, but yes, like it's, I was talking about this, you know, one to 10,000 employees, like they have legacy techs.
+
+**Mario Moscatiello:** he's, It's that.
+
+**Mario Moscatiello:** That's Yeah.
+
+**Mario Moscatiello:** I Let's be a
+
+**Mario Moscatiello:** They have compliance barrier, like working on legacy tech, data sovereignty is a top priority.
+
+**Mario Moscatiello:** And this is literally what it is.
+
+**Mario Moscatiello:** like we offer modern tech without compliance risk for them.
+
+**Mario Moscatiello:** And so what is causing the compelling event to adopt like a solution like Airbyte is the regulatory arbitrage.
+
+**Mario Moscatiello:** It's the fact that they have to go through these audits and they have to do all this work.
+
+**Mario Moscatiello:** And also like the, and especially like businesses that operate at a global scale.
+
+**Mario Moscatiello:** We just closed, like we closed a huge deal with Hyatt.
+
+**Mario Moscatiello:** And they're the primary example of this problem because it stays confidential.
+
+**Mario Moscatiello:** But like the issue is that they have hotels all over the world.
+
+**Mario Moscatiello:** And like before they basically needed a data team in every country.
+
+**Mario Moscatiello:** And it's like at HQ level, especially because a lot of the hotels are franchise owned.
+
+**Mario Moscatiello:** Like it's such a mess and like their ERP system is a mess and so on and so forth.
+
+**Mario Moscatiello:** And now we have companies coming to us and say like, hey, if Airby, not Hyatt, but like another company is like if Airbyte breaks, we can't do payroll for 300,000 employees across the world.
+
+**Mario Moscatiello:** And so like, or.
+
+**Mario Moscatiello:** Or.
+
+**Mario Moscatiello:** Getting away from, and sorry, giving you a lot of context, but we're steaming away from analytics and just like, hey, you use AirBuy to, you know, do the visualization on Tableau or Looker and do BI dashboards to actually know this is infrastructure.
+
+**Mario Moscatiello:** Yeah, it's info.
+
+**Darrell Etherington:** It's core info.
+
+**Mario Moscatiello:** It's perfect.
+
+**Mario Moscatiello:** And so I think for us, there is a big play here, especially because, like, again, you can say audits for healthcare, audits for fintech, audits for, like, you can play around with all these verticals.
+
+**Mario Moscatiello:** And, like, I think it's a, in, again, in Marcel's terms, this is a highly scalable common play because all of these are into, like, you can play with vertical and typo company and audit and just, like, do all of those mixes and matches.
+
+**Mario Moscatiello:** Tanmay, sorry, I didn't mean to steal the scene here, but, like, I just wanted to do the context on this.
+
+**Darrell Etherington:** Yeah, it's really useful, too, because I think the opportunity, like, I think there's much more opportunity in the go forward than in the refreshes, probably, frankly, right?
+
+**Mario Moscatiello:** Like, happy to continue doing the refreshes, but NetNew is where you want to go if we want to, like, return to growth or go to growth.
+
+**Mario Moscatiello:** And so, like, yeah.
+
+**Darrell Etherington:** I agree.
+
+**Darrell Etherington:** This sounds right.
+
+**Jakub Rudnik:** Yeah, I agree with those pieces.
+
+**Jakub Rudnik:** think some of that traffic can return on the refreshes, but even if it's a mixed bagger, not as much like we just need more shots on goal and with a new box.
+
+**Jakub Rudnik:** And I think the health line example actually where early works here, we're definitely like oversharing that one in some ways, like not all strategies, but this fits like because you do have those industry and the audits and like you can build like playbooks, but a lot of that content can then be surfaced on multiple like category pages, basically.
+
+**Jakub Rudnik:** Like they, you know, they should be really filled out and look like really valuable resources and the content, like some is horizontal, some is vertical, and there's just a lot of ways you can sift it.
+
+**Jakub Rudnik:** So my, I took notes there.
+
+**Jakub Rudnik:** I think the next steps, let me make sure I get the right tab.
+
+**Jakub Rudnik:** Yeah, so let's, yeah, Mario, if you or Tim may send over what you have there or repurpose into a brief, but let's get that over so we can take that.
+
+**Jakub Rudnik:** Start setting up a new.
+
+**Jakub Rudnik:** Pipeline, so we, like, this content will be different than the content we've created before, and we want to set up those new artifacts, but we'll need that brief from you.
+
+**Jakub Rudnik:** We can go, you know, any keyword research you've actually done, please just hand that over and we'll build on top of it.
+
+**Jakub Rudnik:** But otherwise, I think we can take a first...
+
+**Mario Moscatiello:** Yeah, I don't think we, I don't think we have done keyword research necessarily on this.
+
+**Mario Moscatiello:** Like, what we have done is, like, we have the top of, I have the sort of, like, the broader topics and stuff like that, and I can give an overview of, like, again, why is the product better, like, all of that stuff in terms of Airbyte.
+
+**Mario Moscatiello:** And also, like, the types of verticals and companies that we are targeting and the challenges they're facing.
+
+**Mario Moscatiello:** And I think that, like, from there, we should be able to, yeah, like, work together on, like, the keywords and stuff like that, if that works.
+
+**Jakub Rudnik:** Yeah, no problem.
+
+**Jakub Rudnik:** That's perfect for us.
+
+**Jakub Rudnik:** You all have done more keyword research than our clients typically do just for everybody's contacts, and so that's all great.
+
+**Jakub Rudnik:** We're happy to take what you've done, but that's also part of what we do here.
+
+**Jakub Rudnik:** And so your brief will set us up for doing all of that, and then obviously we'll review those keywords together and make sure we're all aligned.
+
+**Jakub Rudnik:** But we can.
+
+**Jakub Rudnik:** We can take that forward, and that brief sets us up really nicely.
+
+**Jakub Rudnik:** And then the next piece, I'm like, hope to get to this.
+
+**Jakub Rudnik:** We just need to identify the timeline with the keywords and things, but if possible, I think we should get going on, calibrating a couple articles here to make sure we've got, like, with what comes out of Atlas, that we feel good, and then the new content.
+
+**Jakub Rudnik:** But I would treat that like a mini strategy sprint or kickoff, right?
+
+**Mario Moscatiello:** Like, because it'll be a new.
+
+**Jakub Rudnik:** So I want to make sure we get that right now.
+
+**Jakub Rudnik:** Any, like, of those image requirements or, you know, things with, like, the structure of pages and also the quality.
+
+**Jakub Rudnik:** So, but I think this is a great next, like, go forward on the editorial front.
+
+**Jakub Rudnik:** And there's so much meat on the bone here from what even just what you showed, Mario.
+
+**Jakub Rudnik:** Yeah.
+
+**Jakub Rudnik:** The other piece is, like, I do still think there's PSEO parts that we want to kick off, even though the new website is, like, in progress and, like, there's in some ways, you know, we can't kick off anything immediately, but there will.
+
+**Jakub Rudnik:** Design, engineering, like data work in the meantime.
+
+**Jakub Rudnik:** So I think we should kick this off and the editorial will like begin more immediately.
+
+**Mario Moscatiello:** But the PSCO, want to get into the hands of.
+
+**Jakub Rudnik:** Yeah, I agree.
+
+**Jakub Rudnik:** So again, I originally shared these five and two would be refreshes, right?
+
+**Jakub Rudnik:** Connect your pages you already have, how to sync pages you already have.
+
+**Jakub Rudnik:** But this could be, you know, redeveloping, re-setting up that structure.
+
+**Jakub Rudnik:** And then we will still want to add sections of C's no matter what, because these will connect over to the other PSCO parts of the site, right?
+
+**Jakub Rudnik:** So there's going to be room to work on these no matter what.
+
+**Jakub Rudnik:** There's also like a brand new industry type of page, persona type page, jobs to be done.
+
+**Jakub Rudnik:** I'm sure there are others too.
+
+**Jakub Rudnik:** These were just what was identified originally.
+
+**Jakub Rudnik:** I think when done properly, all of these will like be powering each other in different ways.
+
+**Jakub Rudnik:** The interlinking will be really tight.
+
+**Jakub Rudnik:** They like will just give you so many different ways to sift and be found organically.
+
+**Jakub Rudnik:** The best.
+
+**Jakub Rudnik:** Biggest, and I think when you do one, a lot of it will start to fall in place, and you can repurpose the modules on the page, and there's just a lot of overlap.
+
+**Jakub Rudnik:** The next steps for me would be, where would you like to start?
+
+**Jakub Rudnik:** I think we could go in any of those five directions, but is there any preference on where you see the most opportunity or set up?
+
+**Jakub Rudnik:** I would love any input on that front.
+
+**Jakub Rudnik:** can make that call, too.
+
+**Mario Moscatiello:** Tanmay, should you and I sing today and sort of get back to the team on this?
+
+**Mario Moscatiello:** Yeah, yeah, yeah.
+
+**Tanmay Sarkar:** I can find some time.
+
+**Tanmay Sarkar:** Okay, yeah.
+
+**Mario Moscatiello:** Or if you have, I need to go to an interview in a minute, but like if you have anything, like Tanmay, honestly, like also like, yeah, Tanmay, wherever you think we should start.
+
+**Tanmay Sarkar:** Yeah, I think like as our website is not live, even if we publish new content, we need to make sure that we don't have to do the manual work again, publishing the same content on the new website.
+
+**Tanmay Sarkar:** First, if we are aligned on that, then definitely new content.
+
+**Mario Moscatiello:** I'll find, I'll find time for the two of us to connect.
+
+**Jakub Rudnik:** Tanmay, and we can get back to the team pretty quickly.
+
+**Jakub Rudnik:** Yeah, Mario, you jump in.
+
+**Tanmay Sarkar:** Tanmay, do you have another, like, two minutes just to go through this?
+
+**Mario Moscatiello:** Yeah, yeah, yeah, yeah.
+
+**Mario Moscatiello:** Thank you, team.
+
+**Mario Moscatiello:** Appreciate it.
+
+**Mario Moscatiello:** Super excited to work with this new team.
+
+**Mario Moscatiello:** I feel really good about it.
+
+**Mario Moscatiello:** So thank you, Carrie and Darrell.
+
+**Darrell Etherington:** Thanks a lot.
+
+**Jakub Rudnik:** Just want to go through those.
+
+**Jakub Rudnik:** So you sync with Mario on the next steps.
+
+**Jakub Rudnik:** We can future-proof that.
+
+**Jakub Rudnik:** I think that would be our goal for sure is no duplicate work.
+
+**Jakub Rudnik:** So I think the building, you know, like, identifying the topics, the building of the page structure, all of that stuff, we will be doing ahead of any sort of launch.
+
+**Jakub Rudnik:** And then how do we launch this?
+
+**Jakub Rudnik:** We would align that with the new site and CMS and all that.
+
+**Jakub Rudnik:** So this is, like, let's take it as far as logically possible.
+
+**Jakub Rudnik:** And possibly we're even building a second PSEO section before the first launch is if it's not, like, if we have to order the operations of the launch.
+
+**Jakub Rudnik:** Hi, buddy.
+
+**Jakub Rudnik:** Want to say hi?
+
+**Jakub Rudnik:** But the biggest to me is, like, let's pick those order, like, the order of operations, and then we can start to take the V1s that I've built and, like, let's start.
+
+**Jakub Rudnik:** To stress test, like, what I built in my brain and, like, plus ChatGPT, like, does that actually work?
+
+**Jakub Rudnik:** Do we then have the data?
+
+**Jakub Rudnik:** How does this get designed?
+
+**Jakub Rudnik:** How do they connect with others?
+
+**Jakub Rudnik:** So there's a lot of dependencies we just need to work through.
+
+**Jakub Rudnik:** So you sync with Mario on, like, which of those five or even, I think, best case would be take the five and what's the order that you want to do those in?
+
+**Jakub Rudnik:** And then we can start, I think, that ends off to us and we can take it pretty far before bringing it back to you while simultaneously standing up new content.
+
+**Tanmay Sarkar:** So the current bottleneck is, in Webflow, we are building the new website in a new environment.
+
+**Tanmay Sarkar:** So what we have contacted with Webflow, I was chatting with Webflow the whole week, hi.
+
+**Tanmay Sarkar:** And, like, they said that if, like, after a certain date, we have, like, copied the whole website and move it to the new environment and there we are building the new site.
+
+**Tanmay Sarkar:** So after that certain date, whatever changes we are making on the current site, that has to be, again, replicated.
+
+**Tanmay Sarkar:** Annually to the new environment.
+
+**Tanmay Sarkar:** So that's a big bottleneck, right?
+
+**Tanmay Sarkar:** Let's say two months.
+
+**Tanmay Sarkar:** So in two months, we are publishing, refreshing new content.
+
+**Tanmay Sarkar:** So if we have to do those again in the new environment, I don't want to do that because it's a double work.
+
+**Tanmay Sarkar:** Same thing we are doing twice.
+
+**Tanmay Sarkar:** So I just want to make sure that like what is the scene there, like how we can fix this issue if the designer has to create the site in the current environment.
+
+**Tanmay Sarkar:** Like that is the discussion which me and Mario are going to have.
+
+**Tanmay Sarkar:** Based on that, I can show you the feedback if we will be creating the new content or we can start refreshing the next set of batches for the existing content.
+
+**Jakub Rudnik:** Got it.
+
+**Jakub Rudnik:** Okay.
+
+**Jakub Rudnik:** Yeah, let's know the outcome there.
+
+**Jakub Rudnik:** Again, with any new SEO especially, I don't think that that's the concern, right?
+
+**Jakub Rudnik:** Like there's so much work on like page structure of all that that we can do even outside of your old slash new environment.
+
+**Jakub Rudnik:** That when we do have the access to that new environment, like then we can.
+
+**Jakub Rudnik:** So I just want to take those as fast as so we can, if we're waiting until that is launched, then we're setting ourselves four or six weeks behind to even get going.
+
+**Jakub Rudnik:** So I think we can get 75% of way done and on at least one, if not multiple page types.
+
+**Jakub Rudnik:** So when this new site is up, then suddenly we have industry and jobs who've done pages like trailing two weeks behind that, for instance.
+
+**Tanmay Sarkar:** yes.
+
+**Tanmay Sarkar:** That totally makes sense.
+
+**Tanmay Sarkar:** Like everything content structured and everything we'll make ready once the new website is live, we'll just push that.
+
+**Tanmay Sarkar:** So I just order them in terms of priority and then I can send the list and then we can take it from there.
+
+**Jakub Rudnik:** Got it.
+
+**Jakub Rudnik:** That sounds good.
+
+**Jakub Rudnik:** And then, yeah, if you think if there's any other changes to the new content editorially based on that conversation with Mario, please let us know.
+
+**Jakub Rudnik:** Otherwise, we will be in a holding pattern.
+
+**Jakub Rudnik:** won't act on this for the next few hours until you have this call.
+
+**Jakub Rudnik:** But otherwise, plan will be stand up new editorial content based on the new product.
+
+**Jakub Rudnik:** So there will be like a mini strategy.
+
+**Jakub Rudnik:** Sprint to calibrate and get those set up and do that keyword research.
+
+**Jakub Rudnik:** And then otherwise, we'll wait for the priorities on the five PSEO pages.
+
+**Jakub Rudnik:** We'll take one of those, start to build on top of the V1 that I have.
+
+**Jakub Rudnik:** And so we'll take that as far as we can, get the feedback from you and go for it.
+
+**Jakub Rudnik:** And I outlined very loosely with that timeline, or not timeline, but like order of operations would be in the notion.
+
+**Jakub Rudnik:** So I'm sure there will be equations of micro steps in between a lot of those.
+
+**Tanmay Sarkar:** Yeah, yeah, yeah.
+
+**Tanmay Sarkar:** That makes sense totally.
+
+**Tanmay Sarkar:** So probably expect one replay from me by the end of the day.
+
+**Jakub Rudnik:** Yeah.
+
+**Jakub Rudnik:** Okay.
+
+**Jakub Rudnik:** Thank you, TMA.
+
+**Jakub Rudnik:** We'll keep monitoring that first batch.
+
+**Jakub Rudnik:** But this is a good plan going forward.
+
+**Jakub Rudnik:** We've got two lanes standing up simultaneously that'll create that new growth.
+
+**Jakub Rudnik:** So I like where we're going.
+
+**Tanmay Sarkar:** Thanks, Jacob.
+
+**Jakub Rudnik:** Thanks, Darrell.
+
+**Jakub Rudnik:** Thanks, Carrie.
+
+**Jakub Rudnik:** Thanks a lot.
+
+**Tanmay Sarkar:** Take care.
+
+**Jakub Rudnik:** Take care.
+
+**Jakub Rudnik:** Bye, y'all.
+
+**Jakub Rudnik:** You going to wave?
+
+**Jakub Rudnik:** Well done.
+
+**Jakub Rudnik:** Bye.
+
+**Jakub Rudnik:** Bye.

@@ -1,0 +1,730 @@
+# Ehtisham Prophecy Catchup
+
+<metadata>
+date: 2025-07-03
+time: 12:00 UTC
+duration: 27 minutes
+organizer: saskia@growthx.ai
+participants: Ehtisham Hussain, Saskia Wartnaby
+fathom_recording_id: 72036814
+fathom_url: https://fathom.video/calls/342622831
+share_url: https://fathom.video/share/-cVQkBFLAjcX18ji75ZLWW49axQmKA32
+source: fathom
+enriched_on: 2026-03-03 09:54 UTC
+</metadata>
+
+---
+
+## Summary
+
+Ehtisham and Saskia aligned on Prophecy account progress: the client completed messaging updates (not significantly impacting approved topics) and approved first batch of articles for publication, with enough approved topics to sustain delivery for the next two weeks. Saskia shared concerns about being overwhelmed with the Prophecy account due to Atlas producing overly technical content with incorrect external links, but Ehtisham coached her to view Atlas as a first draft and treat the work as editing rather than original creation, with focus on readability and simplification. The team will continue the Prophecy account by uploading published articles to Webflow this week, creating briefs for 5+ additional articles, improving Atlas writing guidelines with Panza, and documenting external link errors for the development team to fix.
+
+---
+
+## Context
+
+Prophecy is a data platform company that GrowthX has recently taken on as a content marketing client. The client is undergoing a messaging pivot (product remains the same) informed by a forthcoming book they're publishing, but this doesn't materially change the approved topics GrowthX has already aligned on. Saskia Wartnaby joined the Prophecy account this week as the primary content editor and is feeling overwhelmed by the gap between Atlas-generated content (overly technical, complicated paragraphs, incorrect competitor links) and Prophecy's actual publishing style (simple language, accessible to general readers). Ehtisham Hussain is the strategy lead overseeing the account, along with a recent meeting with the Prophecy client. The team is new to the account and taking over delivery responsibility.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Atlas is producing overly technical, complex paragraph structures that don't match client publishing standards—creating tickets for dev team to fix external linking and simplification features
+- New process: treating Atlas output as first draft for editing (not original creation) reduces perfectionism and accelerates delivery
+- Writing guidelines optimization needed with Panza—many guidelines aren't being used by Atlas, and guidelines need simplification to improve output quality
+- Team developing workflow where Saskia creates briefs and edits drafts, Ehtisham provides second-pass review before client delivery
+
+**To CheckThat:**
+- Atlas AI content generation challenges (overly technical, incorrect external linking) directly impact quality of AI-generated content for clients
+- Recurring issues (external links to competitors, complex jargon) would benefit from CheckThat analysis to identify AI hallucination patterns
+
+**To GrowthX Business Development:**
+- Prophecy account health strong: client satisfied with meeting, approved first batch of articles, happy with account team transition
+- Client has enough approved topics to sustain 2+ weeks of publishing—good momentum and runway
+- Focus shifting from SEO to distribution (social, email, LinkedIn) due to declining organic click-through from AI overviews—broader GTM signal for all clients
+
+---
+
+## Overview
+
+- Prophecy is undergoing a messaging shift, but the product remains the same
+- Atlas output needs significant improvement (overly technical, incorrect links)
+- Focus on simplifying content and prioritizing reader comprehension
+- Aim for "good enough" articles to meet deadlines; perfectionism causing stress
+
+---
+
+## Key Topics
+
+### Prophecy Account Update
+
+  - Recent meeting with Prophecy went well
+  - Messaging shift in progress, but doesn't significantly impact approved topics
+  - New book contains updated messaging they want to use
+  - Enough approved topics to continue for the next couple of weeks
+  - Cody approved some blogs with staging
+
+### Content Creation Challenges
+
+  - Atlas producing overly technical, complicated content
+  - External links often incorrect or linking to competitors
+  - Writing guidelines may be too extensive and not fully utilized by Atlas
+  - Saskia feeling overwhelmed with technical content and Atlas limitations
+
+### Strategies for Improvement
+
+  - Use external AI tools (ChatGPT, Gemini) to simplify/verify Atlas output
+  - Read Prophecy's recent blog posts for tone and style reference
+  - Treat Atlas output as a first draft, focus on editing and simplifying
+  - Create tickets for recurring issues (e.g., external links, overly complex paragraphs)
+  - Review and optimize writing guidelines with Panza
+
+### Workflow and Collaboration
+
+  - Saskia to complete article drafts and upload to Content OS
+  - Ehtisham to review final drafts before submission
+  - Team to push for distribution focus (social, email) due to declining SEO effectiveness
+
+---
+
+## Action Items
+
+**Saskia Wartnaby (GrowthX)**
+- Create post-call update for Thursday, incl. call review, action items, article updates. Tag Raveena for publishing.
+
+- Upload approved blogs to Webflow for this week's publishing
+
+- Create briefs for 5+ articles in Atlas. Upload to Content OS, tag Ehtisham in Prophecy channel for review.
+
+- Document examples of incorrect external linking in Atlas output for dev team
+
+- Read 3-4 Prophecy articles in shared doc for writing style reference
+
+
+**Ehtisham Hussain (GrowthX)**
+- Review Prophecy writing guidelines, consider simplification
+
+---
+
+## Transcript
+**Ehtisham Hussain:** I can hear you.
+
+**Ehtisham Hussain:** Hello.
+
+**Ehtisham Hussain:** Good evening.
+
+**Ehtisham Hussain:** Hey, how are you?
+
+**Saskia Wartnaby:** I'm well.
+
+**Saskia Wartnaby:** How are you?
+
+**Saskia Wartnaby:** I'm okay.
+
+**Saskia Wartnaby:** Thank you.
+
+**Saskia Wartnaby:** Thank you so much for meeting up with me today.
+
+**Saskia Wartnaby:** No worries.
+
+**Ehtisham Hussain:** No worries.
+
+**Ehtisham Hussain:** I was looking forward to, like, doing prophecy articles and everything.
+
+**Ehtisham Hussain:** Our meeting with them went well yesterday.
+
+**Saskia Wartnaby:** I'm just watching it over for the post-call update.
+
+**Saskia Wartnaby:** So, yeah, it did seem to go quite well.
+
+**Ehtisham Hussain:** So they, I think they're doing, like, they're doing a messaging shift.
+
+**Ehtisham Hussain:** So the product remains the same, but they're just going to do a shift in messaging to hopefully resonate with more with their target audience.
+
+**Ehtisham Hussain:** But it doesn't change too many things for us.
+
+**Ehtisham Hussain:** We shared our artifacts with them.
+
+**Ehtisham Hussain:** They shared a couple of documents.
+
+**Ehtisham Hussain:** So I'm going to share them with you, too.
+
+**Ehtisham Hussain:** And then I think this is the most important one.
+
+**Ehtisham Hussain:** I'll share it with you just now.
+
+
+**Ehtisham Hussain:** So they are writing a book, and in that book, they've got some of their messaging that they want to use now, but it's not a big dramatic shift or anything.
+
+**Ehtisham Hussain:** So I think we'll be fine with our approved topics, and I'm just going to spin up some new topics and share with them.
+
+**Ehtisham Hussain:** But we have enough approved topics to carry on for the next couple of weeks.
+
+**Saskia Wartnaby:** Yes, awesome.
+
+**Saskia Wartnaby:** Okay, so just a few updates from my side.
+
+**Saskia Wartnaby:** So today, I've watched the call, and I'm going to create that little post-call update that we have to post on our Thursday.
+
+**Saskia Wartnaby:** And then I also want to prioritize today uploading the blogs that they've just approved.
+
+**Saskia Wartnaby:** see Cody's commented in the...
+
+**Saskia Wartnaby:** Airtable thing.
+
+**Saskia Wartnaby:** I think Airtable is the right word.
+
+**Saskia Wartnaby:** But he's approved some stuff with staging.
+
+**Saskia Wartnaby:** So I really want to get that out because I know this is something they do on a Thursday.
+
+**Saskia Wartnaby:** Also just wanted to say like I am, so I have finished one article like completely that I will send over to you.
+
+**Saskia Wartnaby:** I think you saw it and you shared some feedback with me and it was actually quite cool because a lot of the feedback you shared was stuff that I personally wanted to change.
+
+**Saskia Wartnaby:** So I'm, sorry, please forgive me if I get emotional.
+
+**Saskia Wartnaby:** I'm dealing with a lot of stress this week and also quite ill.
+
+**Saskia Wartnaby:** So, and I'm a crier, so I am fine.
+
+**Saskia Wartnaby:** But I tear up quite easily.
+
+**Saskia Wartnaby:** But I did want to let you know that I am feeling like quite overwhelmed.
+
+**Ehtisham Hussain:** Yeah, I feel like, so I don't know what's going on in your personal life and everything, but I feel like you're getting the
+
+**Ehtisham Hussain:** account in this job get to you.
+
+**Ehtisham Hussain:** Am I correct?
+
+**Ehtisham Hussain:** So don't even worry about it because treat this, you've written for so many different customers, right?
+
+**Ehtisham Hussain:** Up until now.
+
+**Ehtisham Hussain:** Just treat this like another freelance project.
+
+**Ehtisham Hussain:** In your mind, that's something that because I've been doing this since 2012, 2011, that used to happen to me a lot too.
+
+**Ehtisham Hussain:** So I, every time this happens, it still happens sometimes.
+
+**Ehtisham Hussain:** Like when I'm, when I become overwhelmed and I want to create like the perfect piece, the perfect article, I want to create something that will absolutely, absolutely blow everyone's mind.
+
+**Ehtisham Hussain:** I just remind myself that it doesn't really, it doesn't have to be great.
+
+**Ehtisham Hussain:** It just has to exist, right?
+
+**Ehtisham Hussain:** It just has to exist because the, the empty document is, that is the biggest enemy.
+
+**Ehtisham Hussain:** That, that's, that's going to give you stress.
+
+**Ehtisham Hussain:** Now that you've got that full document in front of you.
+
+**Ehtisham Hussain:** I went in there, some of that was really great, so I left some comments that this is good, this is perfect, this is really good tone-wise, and so on.
+
+**Ehtisham Hussain:** And on some occasions, I've just given some ideas.
+
+**Ehtisham Hussain:** It's not like, it's not a law, it's not written in stone, it's just my stupid opinion.
+
+**Ehtisham Hussain:** No, I appreciate We should have a hope here, we should maybe break this into two sentences, and so on.
+
+**Ehtisham Hussain:** Yes.
+
+**Ehtisham Hussain:** So now that you have the full article, and when you work on that article, you will realize that, you know, ideas are going to start coming to you, and it's going to get done.
+
+**Ehtisham Hussain:** That empty document is like the biggest enemy, and that's, I feel like Atlas can really do the heavy lifting over there for us when it comes to empty documents.
+
+**Ehtisham Hussain:** I also experimented like with one of the after-shoot articles.
+
+**Ehtisham Hussain:** I went in the outline, I gave it a very strict outline, it still wanted to produce a really big article.
+
+**Ehtisham Hussain:** So I went in there, and I just, because we are just playing in Atlas, like, we can do whatever we want, it's not...
+
+**Ehtisham Hussain:** So I just changed everything to 100 words.
+
+**Ehtisham Hussain:** I just said, it had plans to do this section 250 words, this section 700 words, and so on.
+
+**Ehtisham Hussain:** So I just changed everything to 100, 100, 100, 100, and I kept saving it.
+
+**Ehtisham Hussain:** And then it gave me like a 2000 word article, which is pretty good.
+
+**Ehtisham Hussain:** And then I can just edit.
+
+**Ehtisham Hussain:** The human element will always be there.
+
+**Ehtisham Hussain:** We will have to edit the final version.
+
+**Ehtisham Hussain:** So I don't worry too much about trying to create the perfect articles, because we have to give them like five, six articles every week.
+
+**Ehtisham Hussain:** So it doesn't have to be like Game of Thrones level writing or anything.
+
+**Ehtisham Hussain:** It just has to be good enough to meet their standards.
+
+**Ehtisham Hussain:** And another thing that will hopefully calm you down: if prophecy is overwhelming you, just go and read their latest blog.
+
+**Ehtisham Hussain:** It's nothing that would make you think "Oh, this is too great or too amazing or anything."
+
+**Ehtisham Hussain:** It's just okay.
+
+**Ehtisham Hussain:** Like it's just okay.
+
+**Ehtisham Hussain:** And they're in very simple language.
+
+**Ehtisham Hussain:** They're just delivering their message.
+
+**Ehtisham Hussain:** And I feel like Atlas is kind of overcomplicating things.
+
+**Ehtisham Hussain:** Like I saw the output over there and Atlas is going super technical, super heavy.
+
+**Ehtisham Hussain:** If you and I can't understand it, because I also, I'm not a data professional.
+
+**Ehtisham Hussain:** You're not a data professional, but we are educated people.
+
+**Ehtisham Hussain:** Like we have access to the internet and everything.
+
+**Saskia Wartnaby:** We read about stuff, right?
+
+**Ehtisham Hussain:** So if we can't understand it, then we have to assume that the reader may not be able to understand it, or it could be something that's wrong because that happened to me when I was working on this project.
+
+**Ehtisham Hussain:** It was about crypto and web 3.0 and about how tokens work and so on.
+
+**Ehtisham Hussain:** So I just left the AI-generated technical stuff in there because I just assumed it was correct.
+
+**Ehtisham Hussain:** Even though I didn't understand it.
+
+**Ehtisham Hussain:** Like that exact paragraph.
+
+**Ehtisham Hussain:** I didn't understand, and then an expert looked at it, they, because luckily they were doing the final editing on that, and then they said, no, no, this is not how tokens work, this is not how this thing works, and so on.
+
+**Ehtisham Hussain:** So, and then, that's when I realized that if I can't understand it, something could be wrong in there, and I could miss it, right?
+
+**Ehtisham Hussain:** So just dumb it down for you.
+
+**Ehtisham Hussain:** You are the audience for what you're writing.
+
+**Ehtisham Hussain:** Forget about data platform readers, and this, and the jargon is gonna, it's gonna be in there, right?
+
+**Saskia Wartnaby:** Yeah.
+
+**Ehtisham Hussain:** So, but we, but simplify it even, and, and, and that final output, I think we had, now have the option where we can select a paragraph, and, and AI thing pops up, or we can, uh, select it, and we can say, simplify it, explain it to me like I'm, or stuff like that, or keep the jargon, but break this, uh, make it easier for people to understand, and so on.
+
+**Ehtisham Hussain:** So don't, don't let prophecy overwhelm you, like, this is just another customer of thousands and thousands you will come across in, in your career, so don't worry about it too much.
+
+**Saskia Wartnaby:** Yeah, I think it.
+
+**Saskia Wartnaby:** It's just difficult because I know the writing guidelines are making it a bit more harder, one, like the artifact in Atlas.
+
+**Saskia Wartnaby:** And I have reached out to Panza.
+
+**Saskia Wartnaby:** He hasn't had a chance to meet with me.
+
+**Saskia Wartnaby:** And so it's not like from, I know that all of us are correct.
+
+**Saskia Wartnaby:** Like I'm not worried about that, like from a client side, it's, it's how it's affecting the article prediction.
+
+**Saskia Wartnaby:** So I have to meet with him to like get that right.
+
+**Saskia Wartnaby:** But yeah, like, as you said, like, like the one section in the article that it often like, it produces, like, it says things that you would need a lot of context to understand.
+
+**Saskia Wartnaby:** Like, it'll like just list a whole bunch of concepts, like quickly, like, you know, and then like, obviously, I don't understand that maybe somebody with, you know, knowledge, maybe might pick up on this.
+
+**Saskia Wartnaby:** But for me, as an SEO, I would have explained those a little bit more.
+
+**Saskia Wartnaby:** So yeah, just dealing with that.
+
+**Saskia Wartnaby:** And then obviously the output just isn't great, like it's, I think the outline is, but the way, like the information it puts in and the way it writes isn't great.
+
+**Saskia Wartnaby:** So just trying to bear on that, because like I really like, I just started, haven't had enough chance to work with Atlas, and now having to make it work for Prophecy, while not really understanding the stuff that it's doing.
+
+**Saskia Wartnaby:** So I can't like say, as you said, like I can't say if that's right or not.
+
+**Ehtisham Hussain:** And if I'm being honest, I constantly go outside of Atlas to ChatGPT or Gemini to get things.
+
+**Saskia Wartnaby:** I'm doing that as well, but like adding time.
+
+**Ehtisham Hussain:** So you can, you can even like face the whole paragraph over there and say simplify it, or you can say, explain it to me.
+
+**Ehtisham Hussain:** I don't understand what's being said here.
+
+**Saskia Wartnaby:** Is this correct?
+
+**Ehtisham Hussain:** Is this not correct?
+
+**Ehtisham Hussain:** And so on.
+
+**Ehtisham Hussain:** You can use different AIs to check it out.
+
+**Ehtisham Hussain:** So just make things easy for you.
+
+**Saskia Wartnaby:** So don't worry about it. I will do that.
+
+**Saskia Wartnaby:** Yeah, so, okay, so today I think I've got, like, I'm going to just work and get, like, the base of the articles in Atlas, like the briefs, for, like, at least five articles done.
+
+**Saskia Wartnaby:** And then I think, obviously, I can still work on this stuff tomorrow because I know they usually deliver by Thursday, but I know Cody only really checks them the following week.
+
+**Saskia Wartnaby:** So that's why I want to get the articles that are done, I want to get them uploaded on Webflow so that they can publish those for this week and then try and get the rest of these articles done by tomorrow.
+
+**Saskia Wartnaby:** But I might need your help just polishing the final draft if you do.
+
+**Saskia Wartnaby:** Yeah, yeah.
+
+**Ehtisham Hussain:** So that's what I was thinking, like, hopefully, like, I will at least skim through all the final drafts.
+
+**Ehtisham Hussain:** So you can just upload them, like, put them in the content OS, in the draft and anything, and just tag me in the internal prophecy channel that I've...
+
+**Ehtisham Hussain:** Sorry.
+
+**Ehtisham Hussain:** At Ehtisham, have, I've done these, I've uploaded these five and so on, and then I would just go in there and I'll, that's something that I'll do with Jess too, like for Aftershoot for the other account as well, for the, like, because we are all new and we're all taking over these accounts, I think it's good to have an extra set of eyes, and then as we build that relationship with them, and we know that we have nailed down the tone and everything, then we can, yeah, that's like a big thing.
+
+**Saskia Wartnaby:** Like, noticed a lot of the, like, current articles, could you hold for a second? My baby is crying.
+
+**[Brief interruption - personal matter]**
+
+**Saskia Wartnaby:** I didn't know you were a dad.
+
+**Ehtisham Hussain:** This is my third.
+
+**Saskia Wartnaby:** Oh, that's amazing.
+
+**Saskia Wartnaby:** Oh, my gosh.
+
+**Saskia Wartnaby:** Amazing.
+
+**Saskia Wartnaby:** He's the youngest.
+
+**Saskia Wartnaby:** Oh, sweet, man.
+
+**Saskia Wartnaby:** But, yeah, so thank you for your advice.
+
+**Saskia Wartnaby:** It makes me feel a little bit, I think that's the biggest thing is that, like, it's producing all of this stuff that's, like, so technical.
+
+**Saskia Wartnaby:** And so I used to write for many technical companies, but we would write it from, like, an SEO perspective.
+
+**Saskia Wartnaby:** Like, you know, if I don't understand it, then the reader, the general reader that's landing on this page probably isn't understanding it.
+
+**Saskia Wartnaby:** And also there's a few articles on the list that are refreshers because they, like, existing articles that they want.
+
+**Saskia Wartnaby:** And I was looking through them, and I was like, it kind of makes sense that this article isn't doing very well, because it's just huge blocks of text.
+
+**Saskia Wartnaby:** So I'm also just trying to prioritize, you know, using my understanding and, you know, adding it and making it skimmable.
+
+**Saskia Wartnaby:** But Atlas just fights with me.
+
+**Saskia Wartnaby:** Atlas just wants to produce these huge blocks of text.
+
+**Saskia Wartnaby:** Yeah, it's just, yeah.
+
+**Saskia Wartnaby:** And I know, I think the other issue that's difficult is that they don't just want, like, SEO concepts, or like, what is this, benefits of this, you know, they want it to have more of a focus on the standard platform, which is what they're considering.
+
+**Saskia Wartnaby:** So, I'm trying to use ChatGPT and stuff to come up with sections that I can add to the outlines that Atlas produces.
+
+**Saskia Wartnaby:** So, think, I think ultimately, just today, I want to try get the five articles, like, the basis of them done.
+
+**Saskia Wartnaby:** I'm going to send you the one that I finished.
+
+**Saskia Wartnaby:** And then upload those blogs to Webflow, just so that we have some stuff to add, like some data to upload to the Looker Studios on Monday.
+
+**Saskia Wartnaby:** I'll add the published articles to the Looker Studios so we can see the data that it's pulling.
+
+**Ehtisham Hussain:** And you can, like, just put all the finished ones directly in the content of this and just tag me in the internal property channel.
+
+**Ehtisham Hussain:** I'll go check them out.
+
+**Ehtisham Hussain:** I have shared an article with you, like, I've given you access to it, so you should have an email too, but I've also put it in the chat.
+
+**Ehtisham Hussain:** So they have, they've mentioned a few of their recent blog posts, which they like, right?
+
+**Saskia Wartnaby:** Oh, awesome.
+
+**Ehtisham Hussain:** Yeah, so, and if I was reading through one of them, and it's, it's written in a very simple language, like I was very able to, I was able to understand it.
+
+**Ehtisham Hussain:** With Atlas, I think there's a lot of things that need to change and that need to improve.
+
+**Ehtisham Hussain:** For example, all the external links that it does, all of them are wrong.
+
+**Ehtisham Hussain:** In the sense, in the sense that it's linking to companies.
+
+**Ehtisham Hussain:** Not just for Prophecy, it's linking for competing articles in Aftershoot 2, it's linking to competing articles for, there was another, like I helped out with Smith AI, another customer, and all the external, because I think it's using Perflexity for research, and it's, I never understood, like I've never, I've written about Perflexity, they've been a customer, they were a customer of Verbatim, and I used to work for Verbatim, so I wrote for Perflexity.
+
+**Ehtisham Hussain:** But I don't really understand, uh, the value that they add, because it's just a search engine, and an AI, which is every search engine, because every search engine has an AI, so, um, so, the results that they give, are always competitors, so you don't want to link to competing articles, right, you, uh, and you don't want to say, like, the one of the examples that I tagged, it's a, it's common throughout, like it makes up examples, Yeah.
+
+**Saskia Wartnaby:** And then it links to it.
+
+**Ehtisham Hussain:** Yeah, when you go to the link, it doesn't say 68% of blah, blah, blah, right?
+
+**Ehtisham Hussain:** So those are the things that we have to work on ourselves.
+
+**Ehtisham Hussain:** And then we also have to open tickets for the development team and tell them about this issue.
+
+**Saskia Wartnaby:** So I actually bring this up with Panza in the CM standup. We have like a daily stand-up call with the content managers.
+
+**Saskia Wartnaby:** And I did bring up to him that I literally, what you said, like the links are linking to other competitors or other businesses that are competitors.
+
+**Saskia Wartnaby:** So he's asked me to actually create a document that lists like examples of that happening and why I think it's not right.
+
+**Saskia Wartnaby:** So I am working on that and then I'll get that to the development team.
+
+**Saskia Wartnaby:** Hopefully that that's something they can like fix.
+
+**Saskia Wartnaby:** But yeah, right now, just trying to figure it out manually, like just go in and add articles that I think would be good and internal linking.
+
+**Saskia Wartnaby:** Yeah, exactly.
+
+**Ehtisham Hussain:** The, the internal linking is, I think, uh, internal linking still works for some.
+
+**Ehtisham Hussain:** It did a good job with Myth.ai, but with external links, all the external links are wrong because you're looking to people who are already ranking for that title.
+
+**Ehtisham Hussain:** So we have to watch out for that.
+
+**Ehtisham Hussain:** And just don't worry about it.
+
+**Ehtisham Hussain:** The articles just have to exist.
+
+**Ehtisham Hussain:** They just have to be there.
+
+**Ehtisham Hussain:** That's a good reminder.
+
+**Saskia Wartnaby:** I'm going to, I'll probably work a little bit later today just to try and get like the basis of those other articles done and then send them through to you.
+
+**Saskia Wartnaby:** And yeah, hopefully tomorrow.
+
+**Saskia Wartnaby:** read the three or four articles that are mentioned in that document.
+
+**Ehtisham Hussain:** And I feel like once you've read them for writing style, not even for knowledge, just read them for writing style.
+
+**Ehtisham Hussain:** And once you've read them, you'll feel very confident that you can very easily replicate that.
+
+**Ehtisham Hussain:** And because we have to treat ourselves as the target audience, if we can't understand a paragraph, then the reader starts.
+
+**Ehtisham Hussain:** It doesn't matter if you're like the chief data officer at some company, right?
+
+**Ehtisham Hussain:** Because it has to be written in a way that everyone can understand.
+
+**Ehtisham Hussain:** Yes, that's true.
+
+**Saskia Wartnaby:** Is it in the document you sent in the chat?
+
+**Saskia Wartnaby:** I'm just having a look at it now.
+
+**Saskia Wartnaby:** Is it under new blogs?
+
+**Ehtisham Hussain:** New blogs and yet there are a few blogs here.
+
+**Ehtisham Hussain:** So they actually like these blogs and the messaging in these blogs.
+
+**Ehtisham Hussain:** So that's important too.
+
+**Ehtisham Hussain:** It tells us about the new way they are describing their product.
+
+**Ehtisham Hussain:** The product is the same.
+
+**Saskia Wartnaby:** Yes.
+
+**Saskia Wartnaby:** Yeah, makes sense.
+
+**Saskia Wartnaby:** Yeah, I was actually quite relieved because the way that they were talking about it in the call is actually like kind of the messaging that I had that I'd managed to get Atlas and stuff to generate.
+
+**Saskia Wartnaby:** So that was quite cool.
+
+**Saskia Wartnaby:** Who wants to play?
+
+**Saskia Wartnaby:** Yeah.
+
+**Saskia Wartnaby:** So yeah, I'm like, I think I'm okay with with the messaging side of things.
+
+**Saskia Wartnaby:** But yeah, as I said, you can just have a read through and let me know what you think.
+
+**Saskia Wartnaby:** But yeah, I think I've got my standards are a little bit too high and trying to figure out how to get Atlas to produce something good.
+
+**Saskia Wartnaby:** Yeah, Atlas is very much still a work in progress.
+
+**Ehtisham Hussain:** So to meet our deadlines, to give the customers what they want, we will have to go outside of it from time to time.
+
+**Ehtisham Hussain:** But every time we go outside, for example, the external link issue, if we find it in everything, we create a ticket.
+
+**Ehtisham Hussain:** So, for example, if with Prophecy, after you've produced five articles, ten articles, and you realize that it's producing overly complicated, big paragraphs, we can produce a ticket and we can say this is happening.
+
+**Saskia Wartnaby:** Yeah, this is also where the writing guidelines come in, because I know those are working against me.
+
+**Saskia Wartnaby:** So I need to sort those out.
+
+**Ehtisham Hussain:** You guys can also look at it, and I'm also going to go into, I'll take it down as an action item.
+
+**Saskia Wartnaby:** I'll go through all the writing guidelines.
+
+**Saskia Wartnaby:** I've seen them before, but they were just way too long.
+
+**Ehtisham Hussain:** Like, I feel like, it doesn't have to have.
+
+**Ehtisham Hussain:** That much, that many instructions.
+
+**Saskia Wartnaby:** Also, I've been chatting to Panza about what the writing articles actually do and what information it will take on board.
+
+**Saskia Wartnaby:** And a lot of the stuff in the writing guidelines that we have currently, it's just not even looking at.
+
+**Saskia Wartnaby:** So, and that's what I want to sit with Panza about.
+
+**Saskia Wartnaby:** Like, what can I actually put in and will make a difference?
+
+**Saskia Wartnaby:** And then the changes, like, a lot of the articles we're producing at the moment aren't actually meeting, like, their style guidelines, which I'm surprised the client hasn't picked up on that.
+
+**Saskia Wartnaby:** So that's something I want to ensure. I need to make sure Atlas nails the tone, the structure, and then I can make some more tweaks, like getting rid of the serial comma. I can use AI to change that after the output's been created.
+
+**Saskia Wartnaby:** So, yeah, stuff like that I need to chat with Panza because he knows how the writing guidelines work.
+
+**Saskia Wartnaby:** So I'm definitely making notes.
+
+**Saskia Wartnaby:** I've got ideas.
+
+**Saskia Wartnaby:** I just need to run them past Panza and then we can kind of go over there.
+
+**Saskia Wartnaby:** Perfect, perfect.
+
+**Saskia Wartnaby:** Awesome.
+
+**Ehtisham Hussain:** Go ahead, just stage the articles that need to be staged. And then tag me when you want me to look at the articles. I think it's okay if we deliver a bunch of them tomorrow. Even if we deliver like three to them tomorrow, that's good.
+
+**Ehtisham Hussain:** So you've done how many? One and a half?
+
+**Saskia Wartnaby:** Yeah, basically.
+
+**Ehtisham Hussain:** Treat it like an editing job.
+
+**Ehtisham Hussain:** Like let Atlas do the writing and you will be editing.
+
+**Ehtisham Hussain:** And then you tag me, I'll come in as the second set of eyes and then you'll send it to the customer.
+
+**Saskia Wartnaby:** That's really great.
+
+**Saskia Wartnaby:** Thank you so much, Ehtisham.
+
+**Ehtisham Hussain:** And like, how are you feeling like medically?
+
+**Ehtisham Hussain:** Was it just something minor?
+
+**Saskia Wartnaby:** It's a bit of an issue that's like compounded by the stress.
+
+**Saskia Wartnaby:** I'm just dealing with some really like insane nausea in the mornings.
+
+**Saskia Wartnaby:** So like, and that makes it difficult to like actually sit up and work.
+
+**Saskia Wartnaby:** So like, otherwise I'm fine medically.
+
+**Saskia Wartnaby:** But it's just this nausea that's really hard to kick.
+
+**Saskia Wartnaby:** I've been given some really strong drugs to try and get rid of it, but they're not fully working. I can barely sit and work because of this low-grade nausea the whole time, but I'm trying to work through it. I think it will get better over the next couple of weeks.
+
+**Saskia Wartnaby:** But yeah, it's not fun, and it's making working difficult, and trying not to get stressed.
+
+**Saskia Wartnaby:** Yeah, don't worry about it too much.
+
+**Ehtisham Hussain:** I was a little worried going into yesterday's meeting because we're a new team taking over the account.
+
+**Saskia Wartnaby:** But it went well. Yeah, it was a good meeting. I felt very good afterwards. Compared to the unstructured account, which was horrific.
+
+**Saskia Wartnaby:** So I'm really glad that we have a client that's not so hectic.
+
+**Saskia Wartnaby:** Which I also don't want to disappoint them, because I know they're happy with what we've been doing so far, so.
+
+**Ehtisham Hussain:** And the good thing is we're changing their messaging, so we don't have to think too much about the old messaging. We can just get on board with the new ones.
+
+**Ehtisham Hussain:** And we are trying to push them and all the other customers to focus on distribution.
+
+**Ehtisham Hussain:** Because just SEO is not going to cut it anymore.
+
+**Ehtisham Hussain:** All the top of the funnel stuff, it's not getting that many clicks now across the board for a lot of customers.
+
+**Ehtisham Hussain:** Because like throughout this week, I needed help with Google Sheets and I was constantly searching how to do this in Google Sheets, how to do that in Google Sheets.
+
+**Ehtisham Hussain:** And the AI overview was helping me out perfectly. So I don't have to go to any website.
+
+**Saskia Wartnaby:** I experience that in my personal life as well.
+
+**Saskia Wartnaby:** I don't actually click on the articles themselves.
+
+**Ehtisham Hussain:** Yeah, the AI overview is now good enough.
+
+**Ehtisham Hussain:** So clicks are going to go down, which means we have to push our customers to try social and email and other methods.
+
+**Ehtisham Hussain:** So there's going to be a bit of change and then we don't have to worry too much about keywords as well because of that.
+
+**Saskia Wartnaby:** Okay, perfect.
+
+**Saskia Wartnaby:** I actually wanted to quickly just ask you just about the post-call update.
+
+**Saskia Wartnaby:** I've put in here that Prophecy needs to review the Atlas artifacts.
+
+**Saskia Wartnaby:** Is that something I should just remind them of?
+
+**Saskia Wartnaby:** They've done it.
+
+**Saskia Wartnaby:** I don't think they're going to do any more of it because they were too long.
+
+**Ehtisham Hussain:** Like Cody said, he just came through them.
+
+**Ehtisham Hussain:** Which means he opened the document, he saw how big they were, and he was like, nah.
+
+**Saskia Wartnaby:** I mean, that's fine.
+
+**Saskia Wartnaby:** I think overall the target audience, the personas and the company overview is actually quite accurate.
+
+**Saskia Wartnaby:** It's just the writing guidelines and I'm working on those, so that's cool.
+
+**Saskia Wartnaby:** We don't really need the input on that.
+
+**Saskia Wartnaby:** And then, okay, I've put down that we need to schedule a longer meeting time for next week's call.
+
+**Saskia Wartnaby:** Is that okay to add in there?
+
+**Ehtisham Hussain:** I don't know.
+
+**Ehtisham Hussain:** Like, do we?
+
+**Ehtisham Hussain:** Because I don't think anything was finalized. I think they just floated the idea.
+
+**Saskia Wartnaby:** At the end of the call, I think they mentioned they want a longer call next week.
+
+**Saskia Wartnaby:** So I have added that.
+
+**Saskia Wartnaby:** And also I've added a note here that Daryl mentioned that he was going to give them some advice on distribution and newsletter creation in the next call.
+
+**Saskia Wartnaby:** And there was something mentioned about LinkedIn posts. I asked them to tag those articles in the content OS.
+
+**Ehtisham Hussain:** Like, they're just going to tag them in the content OS and then we can provide them, and maybe focus extra hard on those articles.
+
+**Ehtisham Hussain:** And I asked them if they wanted us to do a little snippet and then they could just take it and post it on LinkedIn.
+
+**Ehtisham Hussain:** But they said that they already have something like that.
+
+**Saskia Wartnaby:** Okay.
+
+**Saskia Wartnaby:** Awesome.
+
+**Saskia Wartnaby:** Okay.
+
+**Saskia Wartnaby:** And then, as well, still, like, add the article updates to the post call update.
+
+**Saskia Wartnaby:** But I'm just going to separate them a little bit.
+
+**Saskia Wartnaby:** I'm going to have, like, here's a review of yesterday's call, like the action items.
+
+**Saskia Wartnaby:** And then below it, I'll say, and here's, like, some updates about the articles for the week.
+
+**Saskia Wartnaby:** So I'm going to stage the articles.
+
+**Saskia Wartnaby:** And then in that, I can tag Raveena, who will go and schedule them, like, publish them.
+
+**Saskia Wartnaby:** Perfect. So I'll send you that, and you can check it over. Then it should be good to go.
+
+**Saskia Wartnaby:** Thank you so much for the call. It's really nice to have your guidance and your experience.
+
+**Ehtisham Hussain:** Yeah, just chill out and don't stress about it. The articles just have to exist.
+
+**Saskia Wartnaby:** I really need to get that mindset in my head. I'm too much of a perfectionist.
+
+**Saskia Wartnaby:** Anyway, thank you so much. I'll send you all the stuff we've spoken about.
+
+**Ehtisham Hussain:** Have a nice day.
+
+**Saskia Wartnaby:** Bye.

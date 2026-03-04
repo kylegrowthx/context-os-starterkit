@@ -1,0 +1,786 @@
+# Webstacks<>GrowthX Weekly Sync
+
+<metadata>
+date: 2025-09-05
+time: 16:30 UTC
+duration: 33 minutes
+organizer: jessalynn@growthx.ai
+participants: Jessalynn Jones, Jakub Rudnik, Rachel Pasche, Jesse Schor
+fathom_recording_id: 85332347
+fathom_url: https://fathom.video/calls/399662299
+share_url: https://fathom.video/share/bhGNCqBRRQ6Vd22yGAPNmHm1E-pXGtsQ
+source: fathom
+enriched_on: 2025-09-05 14:35 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Webstacks reviewed performance of a newly deployed Looker dashboard that provides more granular content cohort analysis and conversion tracking. While overall site traffic is down since July's Google AI Overview update and five of Webstacks' top seven URLs (published in 2023-2024) have lost position and traffic, GrowthX-created newer content continues to grow 5-10% month-over-month, and Webstacks is experiencing exceptional LLM referral traffic. The team committed to setting up HubSpot-to-Google Sheets integration for better reporting, exploring FAQ schema markup for LLM visibility, replacing the underperforming newsletter CTA with a targeted B2B SaaS website breakdown series, and deciding how to balance content refreshes with net-new creation.
+
+---
+
+## Context
+
+Webstacks is a GrowthX client engaged in content marketing strategy and execution. Jessalynn Jones leads GrowthX's service delivery for Webstacks, supported by Jakub Rudnik (reporting and analytics) and Rachel Pasche. Jesse Schor is Webstacks' primary point of contact and manages their content strategy, editorial operations, and website infrastructure (Sanity CMS). This weekly sync is a standing meeting to review analytics performance and discuss strategic decisions around content prioritization, measurement, and technical implementation. The meeting was particularly focused on demonstrating the new Looker reporting infrastructure that Jakub built to provide better visibility into content performance by cohort and to support conversion tracking integrations.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Webstacks is demonstrating strong performance with GrowthX-created content outpacing site-wide trends despite July Google algorithm changes, validating GrowthX's content strategy and execution
+- Content freshness is emerging as a significant ranking factor; Webstacks needs a decision framework on refreshing older content (18+ months) versus continuing new creation
+- Webstacks' exceptional LLM referral traffic (best-performing client metric across GrowthX's book) suggests strong potential for testing new SEO/AEO strategies like FAQ schema markup
+- Newsletter CTA is being optimized from generic signup to targeted B2B SaaS website breakdown series, representing a shift toward higher-engagement conversion strategies
+
+**To GrowthX Business Development:**
+- Webstacks renewal health is positive based on engagement frequency (standing weekly sync) and expansion of reporting sophistication (Looker dashboard, HubSpot integration requests)
+- Growing conversion focus and newsletter engagement despite small audience size signals readiness to scale email marketing strategies
+- LLM visibility success could position Webstacks as a reference customer for GrowthX's AEO/AI visibility positioning
+
+---
+
+## Overview
+
+- **New Looker dashboard** launched with enhanced filtering by content cohorts and improved tracking capabilities; replacing previous dashboard
+- **Content performance trends**: Overall site traffic down since July Google update, but GrowthX-created content showing continued 5-10% month-over-month growth
+- **Older content losing traction**: Top 5 underperforming URLs were published in 2023/early 2024, suggesting content freshness is becoming a critical ranking factor
+- **LLM referral traffic** performing exceptionally well for Webstacks compared to other GrowthX clients
+
+---
+
+## Key Topics
+
+### HubSpot Integration for Reporting
+
+  - Team needs export access to HubSpot for better integration with Looker dashboards
+  - Jesse will set up an automated Google Sheets integration that refreshes every 24 hours
+  - Current process requires manual copy/paste with formatting issues
+  - Jesse requested the specific sheet and data fields needed for the integration
+
+### New Looker Dashboard Implementation
+
+  - Replaced previous dashboard with enhanced multi-tab reporting system
+  - Key improvements:
+      - URL cohorts/clusters for more granular analysis
+      - Toggle to filter out non-GrowthX content
+      - Conversion tracking from GA4 events
+      - Detailed landing page analysis with impressions, clicks, and position data
+      - LLM referral tracking by source
+  - Jesse requested adding a pie chart visualization showing content distribution across cohorts
+  - Team identified "uncategorized" content needs topic clusters assigned
+
+### Traffic Analysis and Performance Trends
+
+  - Site-level traffic down (particularly since July Google AI Overview update)
+  - Impressions stable but click-through rates declining
+  - Five of the top seven URLs lost both position and traffic
+  - Common pattern: content published 18+ months ago showing significant decline
+  - GrowthX-created content still growing 5-10% month-over-month despite overall site trends
+  - LLM referral traffic showing exceptional growth - Webstacks is their strongest performing client in this metric
+
+### Content Optimization Strategies
+
+  - Team discussed balancing content refreshes with new content creation
+  - Proposed adding FAQ schema markup to boost LLM visibility
+      - Jakub mentioned seeing this as a current SEO trend worth testing
+      - Jesse has schema capability in Sanity CMS but questioned FAQ placement on blog pages
+      - Team will explore implementation options (expandable modules vs. end-of-page)
+  - CTA optimization needed - current newsletter signup provides little value
+      - Jesse plans to replace with targeted B2B SaaS website breakdown newsletter series
+      - Email marketing showing good engagement despite small audience
+
+---
+
+## Action Items
+
+**Jesse Schor (Webstacks)**
+- Set up HubSpot export access for GrowthX team; follow up with Jessalynn on best method
+- Implement FAQ schema markup on blog posts; update newsletter sign-up CTA on blog sidebar with new targeted B2B SaaS website breakdown series
+
+**Jessalynn Jones (GrowthX)**
+- Ask reporting team for specific HubSpot fields needed; share with Jesse
+
+**Jakub Rudnik (GrowthX)**
+- Add cohort data to conversions tab in Looker report; investigate uncategorized content; add pie chart of cohort volumes
+
+---
+
+## Transcript
+**Jessalynn Jones:** Well, I think we really just have one agenda item today, and that's just going through like the kind of deeper analytics of conversions and all of that stuff, web traffic.
+
+**Jessalynn Jones:** And Jakub put together a presentation for you.
+
+**Jessalynn Jones:** Jakub, you want to share your screen since you're kind of driving?
+
+**Jakub Rudnik:** Yeah, for sure. And definitely, like, I've got slides, but there's only six of them, and we'll expand on this, I think, as we go.
+
+**Jessalynn Jones:** Oh, one quick thing before I forget, though.
+
+**Jessalynn Jones:** I was going to ask you, Jesse, is there a way that we can get export access in your HubSpot?
+
+**Jessalynn Jones:** Because we're looking at doing HubSpot exports in order to integrate that into our reporting.
+
+**Jessalynn Jones:** And right now, I have to kind of like copy and paste it into a spreadsheet and then reform it.
+
+**Jessalynn Jones:** Format it and the formatting is all wonky because we're copying and pasting it instead of exporting.
+
+**Jessalynn Jones:** Is it possible to get this export access?
+
+**Jessalynn Jones:** I should.
+
+**Jesse Schor:** It should be fine.
+
+**Jesse Schor:** Yeah, let me follow up with you afterwards.
+
+**Jesse Schor:** Okay.
+
+**Jesse Schor:** On the best way for us to do that.
+
+**Jessalynn Jones:** Yeah, I know it gets kind of tricky in HubSpot with, like, I don't know, permissions and access.
+
+**Jessalynn Jones:** Like, I know it can kind of be, I don't know, more complicated than it needs to be.
+
+**Jessalynn Jones:** So just let us know, I guess.
+
+**Jessalynn Jones:** And if we can't, not a big deal, but if it's an easy, easy thing to do, that would be really helpful for us.
+
+**Jesse Schor:** Yeah, it's more, it's more like, honestly, like a security thing than it is anything else.
+
+**Jesse Schor:** Yeah, that makes sense.
+
+**Jesse Schor:** I think that we can, like, it'll be fine.
+
+**Jesse Schor:** Okay.
+
+**Jesse Schor:** But yeah, I can definitely do that.
+
+**Jesse Schor:** Let me just do that real quick.
+
+**Jesse Schor:** Are you exporting it to a sheet?
+
+**Jessalynn Jones:** Yeah, we're just exporting it to a spreadsheet, and then they're basically integrating it into our Looker dashboards from there.
+
+**Jessalynn Jones:** Okay.
+
+**Jesse Schor:** Are you, is it a Google sheet?
+
+**Jessalynn Jones:** Yeah, that's typically what we use, but if we can get a CSV or something like that, that's fine too.
+
+**Jessalynn Jones:** Okay.
+
+**Jakub Rudnik:** If that, for the security purposes of like, if that could just be automated too, and it wouldn't change our permissions, like if that could just be done at a regular cadence, that would be more than enough too, if that is better from a, yeah.
+
+**Jesse Schor:** That's what I'm thinking we can do, because I have that set up with another, like our ads agency that we work with, because we have the like Google Sheets HubSpot integration.
+
+**Jesse Schor:** So, they basically just sent me like a list of properties, and then...
+
+**Jesse Schor:** And I just set up the sheet to basically, it's like every 24 hours, it'll run for any new rows.
+
+**Jesse Schor:** And then just like adds to that sheet.
+
+**Jesse Schor:** Would you be able to share the sheet that you've used so far for this?
+
+**Jesse Schor:** And then maybe we'll just like set it up that way.
+
+**Jesse Schor:** Okay, cool.
+
+**Jessalynn Jones:** Yeah, I'll ask our reporting team like what fields they need.
+
+**Jessalynn Jones:** I've just kind of pulled the basic stuff and told them to give me some feedback from there.
+
+**Jessalynn Jones:** But I'll ask them if there's specific fields they need and then send that over to you.
+
+**Jessalynn Jones:** Cool.
+
+**Jessalynn Jones:** Yeah.
+
+**Jesse Schor:** Or if you just share, like if you guys can like share the sheet like you're referencing, I can like just keep working out of that one.
+
+**Jesse Schor:** So it doesn't like screw anything up that you guys have already created.
+
+**Jessalynn Jones:** Perfect.
+
+**Jessalynn Jones:** Thank you.
+
+**Jakub Rudnik:** Okay.
+
+**Jakub Rudnik:** So I wanted to show, because I don't, someone stop me if I'm wrong here.
+
+**Jakub Rudnik:** I don't think we have shared.
+
+**Jakub Rudnik:** Okay.
+
+**Jakub Rudnik:** This new Looker report, we have a B2, and we'll continue to iterate.
+
+**Jakub Rudnik:** that's what Jessal is looking for access to on the HubSpot data.
+
+**Jakub Rudnik:** So I just want to walk through this, Jesse, in the link.
+
+**Jakub Rudnik:** It's in my presentation, but we should add to the agenda, too, just so you have that.
+
+**Jakub Rudnik:** And it's replacing.
+
+**Jakub Rudnik:** We won't update our old Looker anymore.
+
+**Jakub Rudnik:** So just we'll use this one going forward, more tabs, and some better ability to segment the different content types and things.
+
+**Jesse Schor:** So I'll do that and then pulled some insights.
+
+**Jakub Rudnik:** then Jessalynn, I did not pull conversion stuff.
+
+**Jakub Rudnik:** I was looking this morning and couldn't remember which the report was.
+
+**Jakub Rudnik:** And so if you have that readily available, that would be useful.
+
+**Jesse Schor:** But I missed that for the report.
+
+**Jakub Rudnik:** So I just wanted to cover those things.
+
+**Jakub Rudnik:** But Jesse, this is, yeah, we're seeing my screen still.
+
+**Jakub Rudnik:** Where are we?
+
+**Jakub Rudnik:** We are seeing.
+
+**Jakub Rudnik:** OK, so more tabs than we had before, a lot of similar things.
+
+**Jakub Rudnik:** But the big one of the big pieces will just be URL cohorts.
+
+**Jakub Rudnik:** So any of the clusters.
+
+**Jakub Rudnik:** There is that we've identified for you and are in our air table.
+
+**Jakub Rudnik:** Now we can drill into those specifically.
+
+**Jakub Rudnik:** So this report also currently is pulling in like your whole site traffic.
+
+**Jakub Rudnik:** And so the big thing, if you're using it really, for most purposes, you'll just uncheck the non-growthx URL.
+
+**Jakub Rudnik:** So that's something, anything else on the site that we did not publish or isn't in the air table, that is this up here.
+
+**Jakub Rudnik:** And then everything else is what we've created, but has, again, by cluster.
+
+**Jakub Rudnik:** And Jess and I hadn't noticed this before, but we should check on what this uncategorized is, where this is coming from.
+
+**Jakub Rudnik:** Because it's good amount of traffic and we think we have a pretty clean air table.
+
+**Jakub Rudnik:** So I just want to double check why this is.
+
+**Jakub Rudnik:** saying it out loud for myself, but we should look into that.
+
+**Jessalynn Jones:** I know what that is.
+
+**Jessalynn Jones:** So there are a few of the blogs that, for whatever reason, they didn't have topic clusters.
+
+**Jessalynn Jones:** And they were added to Airtable.
+
+**Jessalynn Jones:** That was before my time.
+
+**Jessalynn Jones:** So anything that you see as uncategorized is just those that didn't have a topic cluster assigned to them.
+
+**Jessalynn Jones:** Okay.
+
+**Jessalynn Jones:** Okay.
+
+**Jakub Rudnik:** Let's take that as a figure out who has the bandwidth to do that.
+
+**Jakub Rudnik:** But we should assign those even retroactively.
+
+**Jakub Rudnik:** That'll be fine.
+
+**Jakub Rudnik:** And then it'll be more clean data.
+
+**Jakub Rudnik:** So that'll be good.
+
+**Jakub Rudnik:** So the first one is just overall sessions.
+
+**Jakub Rudnik:** And you've got, you know, select your timeline up here.
+
+**Jakub Rudnik:** You can, in the old report, it was just organic.
+
+**Jakub Rudnik:** Right now it's all traffic.
+
+**Jakub Rudnik:** So this is J4 instead of GSC, but you can select organic only to look if that's where our focus is.
+
+**Jakub Rudnik:** So you then just have a list of the landing pages.
+
+**Jakub Rudnik:** So like right now, it's just growthx stuff, just organic.
+
+**Jakub Rudnik:** Here's the timeframe.
+
+**Jakub Rudnik:** And then you have sessions, engaged sessions.
+
+**Jakub Rudnik:** And then it's the period you've selected over the previous period.
+
+**Jakub Rudnik:** So you, yeah.
+
+**Jakub Rudnik:** And then, you,
+
+**Jakub Rudnik:** As well as referral traffic and then queries in those distributions.
+
+**Jakub Rudnik:** So pulling from SEMrush based on the URLs you have here.
+
+**Jakub Rudnik:** Non-branded is very similar reports.
+
+**Jakub Rudnik:** I'm not going to spend a ton of time on there.
+
+**Jakub Rudnik:** It's got impressions and clicks rather than just sessions and engage sessions.
+
+**Jakub Rudnik:** Similar pieces.
+
+**Jakub Rudnik:** We've just removed any web stack specific keywords from this keyword data.
+
+**Jakub Rudnik:** So I don't know.
+
+**Jakub Rudnik:** I don't use both of these as often or I use one or the other.
+
+**Jakub Rudnik:** Typically just the non-branded because it's already pulled out that stuff.
+
+**Jakub Rudnik:** Conversions.
+
+**Jakub Rudnik:** We, this tracks all the conversions that are set up in your GA4.
+
+**Jakub Rudnik:** So you've got all these different event names.
+
+**Jakub Rudnik:** If you want something specifically, you know, just going into like eBooks downloaded and then we can look at that over time.
+
+**Jakub Rudnik:** This doesn't have the cohort thing.
+
+**Jakub Rudnik:** So that's something I can follow up in that ticket for that we would want to just get.
+
+**Jakub Rudnik:** Uh, growth like specific piece.
+
+**Jakub Rudnik:** But we can look at those conversions over time.
+
+**Jakub Rudnik:** It can stack conversions and things to see how things are trending.
+
+**Jakub Rudnik:** We'd want to add, and that's from GA4 again, but we can, like, we'll need to supplement the leads as conversions through that HubSpot data.
+
+**Jakub Rudnik:** So that's what's missing right now.
+
+**Jakub Rudnik:** Cohorts, this is where I generally spend my time because it's just the sessions.
+
+**Jakub Rudnik:** And then same thing, I can remove your other content, select organic, and see this pretty easily, but broken down by the cluster, and that's what we didn't have before.
+
+**Jakub Rudnik:** So this is pretty similar to what our last view was.
+
+**Jakub Rudnik:** can look at it at the cluster level, how those are performing, like, month over month or whatever your time period is, and then down to the individual URL down here.
+
+**Jesse Schor:** Planning page, if you're ever looking at, like, we got.
+
+**Jesse Schor:** we, sorry to interrupt.
+
+**Jesse Schor:** Can we?
+
+**Jesse Schor:** Add in things to this, like dashboard, this report.
+
+**Jesse Schor:** You guys can request things.
+
+**Jesse Schor:** We can, yes.
+
+**Jesse Schor:** One thing on the cohorts, if you go back to that, this is super helpful.
+
+**Jesse Schor:** And something we talked about a while ago when we first even started creating the different kind of cohorts for each of the pillars.
+
+**Jesse Schor:** And it was helpful for us, like within the table, in the air table, if we can get like volume of like each of the cohorts, even like as its own, maybe like report or like chart here in this view, I think that would be interesting to see as well.
+
+**Jesse Schor:** Like almost like a pie chart of the cohort.
+
+**Jesse Schor:** So like how many URLs go into each bucket?
+
+**Jesse Schor:** And it can probably even just be pulled from the Airtable, like at least for right now, I'm not necessarily like too concerned about tying it directly to this sessions report, although like that would be cool.
+
+**Jesse Schor:** But even if it's just, you know, the quantity, you know, as like a pie chart so that we can kind of see like, I imagine the majority of what we have posted is within this like website design, redesign strategies category, which makes sense that that is driving, you know, the most amount of sessions for us.
+
+**Jesse Schor:** And so I would just want to look at this report with that in mind.
+
+**Jesse Schor:** Mm hmm.
+
+**Jesse Schor:** Yeah, I can see that being really useful, not just for you, but for others.
+
+**Jakub Rudnik:** So that's a good suggestion.
+
+**Jakub Rudnik:** I mean, in not just the pie chart, but into this way more complex.
+
+**Jakub Rudnik:** So I'm putting this on like some engineering ask already before.
+
+**Jakub Rudnik:** Or we've even reached out to them, but if you had that over time, you could map like how we've published the numbers.
+
+**Jesse Schor:** I think like we can then start to see things like when will we kind of reach critical mass with certain cohorts that like we're building off of.
+
+**Jesse Schor:** If we can see over time, that would definitely give us that view.
+
+**Jesse Schor:** But like I said, even something like as simple as just like pulling from the air table, like if it's published, you know, what's the count?
+
+**Jesse Schor:** I think that would be interesting to see.
+
+**Jesse Schor:** Yeah, that's smart.
+
+**Jakub Rudnik:** Okay.
+
+**Jakub Rudnik:** Yeah.
+
+**Jakub Rudnik:** Well, you can take that on.
+
+**Jakub Rudnik:** We'll see what the timeline is and get back to you on that.
+
+**Jakub Rudnik:** But that's a good addition.
+
+**Jakub Rudnik:** Landing page.
+
+**Jakub Rudnik:** So this is clicks and impressions primarily.
+
+**Jakub Rudnik:** know, you can, there is average position down there.
+
+**Jakub Rudnik:** So this is coming from GSC rather than GA4.
+
+**Jakub Rudnik:** But if you're looking for a specific URL, you just put the slug in and see how that's tracking over time.
+
+**Jakub Rudnik:** bit So,
+
+**Jakub Rudnik:** So if we were bringing in another data point, this is useful.
+
+**Jakub Rudnik:** And then LLM tracking, this is similar to what we probably, basically the same as that other report, but referral traffic from LLMs directly to any page on webstacks overall.
+
+**Jakub Rudnik:** And then we can look at, say, just the blogs that we've created as well, and then stacked with the different LLM sources.
+
+**Jakub Rudnik:** Cool.
+
+**Jakub Rudnik:** So you should have this, we'll continue to iterate, we'll, the lead data is not pulled in yet, the other recommendation we'll get a sense of, and then there's just a few slides with some pulling across, like, this look report, but then pulling in some rush and some Ahrefs data as well.
+
+**Jakub Rudnik:** So at the site level, traffic is down, this is not, you're not my only client that's seeing this kind of, especially starting in early July with that AIO.
+
+**Jakub Rudnik:** Overview-related Google update.
+
+**Jakub Rudnik:** We're seeing some of this in places.
+
+**Jakub Rudnik:** Like, impressions aren't down as much.
+
+**Jakub Rudnik:** Also, fairly similar.
+
+**Jakub Rudnik:** Like, people are still searching things the same way, but they're clicking less often.
+
+**Jakub Rudnik:** This isn't, like, what you want to see, necessarily, obviously.
+
+**Jakub Rudnik:** But not rare, necessarily.
+
+**Jakub Rudnik:** Sorry, my mouse does weird things when I'm on things.
+
+**Jakub Rudnik:** The top level, and so I put the URLs.
+
+**Jakub Rudnik:** They're not super viewable here, but more for a postmortem.
+
+**Jakub Rudnik:** But a lot of big, although, like, big changes are on the blog.
+
+**Jakub Rudnik:** It's a mix of content.
+
+**Jakub Rudnik:** But a bunch of them, like, for some clients, I'm like, AI overviews are killing the traffic.
+
+**Jakub Rudnik:** Like, you haven't lost positions.
+
+**Jakub Rudnik:** You're just, the traffic is being cut by a third, and there's very little we can do here.
+
+**Jakub Rudnik:** I don't think that's the case on what I was seeing across a lot of the content.
+
+**Jakub Rudnik:** So these URLs, what I have, five URLs here.
+
+**Jakub Rudnik:** It's like five of your top seven URLs, lost position and lost traffic.
+
+**Jakub Rudnik:** So that feels more of like what used to happen when you'd see big traffic losses, like prior to AI overviews and ChatGPT and all this sort of stuff.
+
+**Jakub Rudnik:** And then the themes I was seeing across these top five, and I wonder how far it extends down the page, but all these were published in 2023 or latest 2024.
+
+**Jakub Rudnik:** So it's some of your older content.
+
+**Jakub Rudnik:** It's got an old publication date, which we're seeing as like Google and LLMs are referencing and citing content and prioritizing content freshness.
+
+**Jakub Rudnik:** And so these would be, in my opinion, like high candidates for refreshes.
+
+**Jakub Rudnik:** I know we're doing a lot of net new content, so this would be like how to order this would be a bigger conversation.
+
+**Jakub Rudnik:** But I think we're seeing a lot of traffic losses on content that's 18 months or older.
+
+**Jakub Rudnik:** And so that's not a rare thing.
+
+**Jakub Rudnik:** It's just you have a bigger library of content than some of our other clients.
+
+**Jakub Rudnik:** And we are starting to see this like content staleness is what I would see here.
+
+**Jakub Rudnik:** So something to keep in mind and how we.
+
+**Jakub Rudnik:** Whether that's other resources that you're pulling in or how we do things over the next two quarters, but some of these biggest losses have those type of trends.
+
+**Jakub Rudnik:** Blog was more stable than the site overall, still down on the clicks, but impressions were growing, so like, gotten that new things, they're starting to rank for stuff.
+
+**Jakub Rudnik:** Still, the clicks are down, got a mix of why that is, some of it's AI overviews.
+
+**Jakub Rudnik:** Like on this last page, I still was finding articles that hadn't lost any keywords or positions, just appeared to be drops since that algorithm change.
+
+**Jakub Rudnik:** But on the positive front, the stuff that is growing, that was newer content, and so still is just a hypothesis.
+
+**Jakub Rudnik:** I don't know that you'll get a full answer on this, but the content freshness, the other side of the coin appears.
+
+**Jakub Rudnik:** There's positive signals there, like the newer content working, that's what's growing for you, so that older content.
+
+**Jakub Rudnik:** Not all of your older content's falling, but I think.
+
+**Jakub Rudnik:** Like there is enough that you've published over several years that that's fairly typical and even prior to AI, that's what I would have seen.
+
+**Jakub Rudnik:** Growthx, so the one problem with our reports, I need to go to our engineer slash data team on this, is like the old report worked a lot better across the longer timetable.
+
+**Jakub Rudnik:** I have to have two screenshots here because it only is good at like six week increments and I don't know why that is.
+
+**Jakub Rudnik:** But for the stuff that we're publishing, you know, in June and early July, you're seeing at most like this 1500-ish clicks.
+
+**Jakub Rudnik:** We were above that, so we were still growing in late July and August.
+
+**Jakub Rudnik:** So even though the site level and blog level trends or traffic goes down, the content that we published is still growing month over month through August and July.
+
+**Jakub Rudnik:** So still positive signals there would need to, I can't get that exact number very easily, so I'll have to figure out what that is.
+
+**Jakub Rudnik:** But we're still seeing, I don't know, 5% growth month over month.
+
+**Jakub Rudnik:** Some of that like springtime crazy growth isn't there.
+
+**Jakub Rudnik:** worthander...
+
+**Jakub Rudnik:** We're
+
+**Jakub Rudnik:** But we're still seeing incrementally up.
+
+**Jakub Rudnik:** And so feel pretty good on that, as we've seen, again, like that July 1-ish algorithm change really knocked a ton of people's traffic.
+
+**Jakub Rudnik:** So to see any growth at all feels pretty good, frankly, to your point.
+
+**Jesse Schor:** Where are you seeing the growth?
+
+**Jakub Rudnik:** So here on this lot, like this is not, this is one of the things we need to figure out with the reporting.
+
+**Jakub Rudnik:** But through June 2, June 9, those weeks, 1,500-ish clicks a week just to grow that specific content.
+
+**Jakub Rudnik:** July 14th, July 21st, we're looking at more on that.
+
+**Jakub Rudnik:** 1,600, 1,650.
+
+**Jakub Rudnik:** So I know that's back in the napkin, 5% to 10% growth.
+
+**Jesse Schor:** Kind of just like you're looking out of it as like quarterly kind of?
+
+**Jesse Schor:** Yeah.
+
+**Jakub Rudnik:** mean, in these weeks, I have to go back.
+
+**Jakub Rudnik:** And this is the problem with this new report that the old report did a better job of showing me 12.
+
+**Jakub Rudnik:** 12 months, but we've been, like, these are bigger than our, our main number is bigger than our, so I could go back and like pull that more specifically, but we've never been down month over month that I can remember, you I can think we kind of flatlined May and June with like the small growth.
+
+**Jakub Rudnik:** So, so seeing what looks like five-ish percent growth month over month, August to July and July to June, I would need to, not sure exactly the best way to pull this from this report, those exact numbers, but can work on figuring out what that, how that would be done.
+
+**Jesse Schor:** Okay, cool.
+
+**Jesse Schor:** Yeah, no, no worries.
+
+**Jesse Schor:** I think there's probably like a few factors.
+
+**Jesse Schor:** One, also two, just being like our focus in terms of like what we've been publishing around has like shifted and changed, which is fine.
+
+**Jesse Schor:** Like, like I said a few weeks ago, like I'm okay with us not seeing that continued growth for us to put something.
+
+**Jesse Schor:** Um, like the, um, AI for, for web management articles together.
+
+**Jesse Schor:** Um, and, uh, I think like that cumulatively will be impactful for us later in the year, or we'll see, uh, you know, how that performs.
+
+**Jakub Rudnik:** Yeah, that, that's a good point as well.
+
+**Jakub Rudnik:** back to this.
+
+**Jakub Rudnik:** Pearl traffic's been really good.
+
+**Jakub Rudnik:** Um, um, continues to be like, you are probably the, the best site that we have from an LL, um, referral traffic, like this graph just doing really well.
+
+**Jakub Rudnik:** And there's still, there's still meat on the bone.
+
+**Jakub Rudnik:** Um, sorry, this bad like screenshot for this purpose, but looking afterwards, but the, you can see the URLs, this bottom one is just our last month, but that traffic's really grown exponentially, really heavy on the, the blogs and a lot of the blogs we published.
+
+**Jakub Rudnik:** Um, so feel, we feel good here.
+
+**Jakub Rudnik:** And then just other pieces, like what we should do coming out of this is like, we need to set up a coal.
+
+**Jakub Rudnik:** Or some way to track just that the content that we're doing right now, this new bigger project.
+
+**Jakub Rudnik:** I want to separate that from other traffic so we can watch how that's growing.
+
+**Jakub Rudnik:** The conversion stuff that we've talked through.
+
+**Jakub Rudnik:** So that's on us to figure out how to get that data and build in.
+
+**Jakub Rudnik:** So some of that export will come on the WebStack side, possibly refreshing.
+
+**Jakub Rudnik:** And so discussing, I don't know if that's today or just something to think on, Jesse, how do we balance refreshes with the net new content?
+
+**Jakub Rudnik:** Or is that something we do following kind of these batches of content?
+
+**Jakub Rudnik:** There's something we feel pretty bullish on.
+
+**Jakub Rudnik:** We're trying to stand up like a true experiment so we can prove this out.
+
+**Jakub Rudnik:** But FAQs at the bottom, like doing the FAQ schema markup and really having that systematically across content, like that's one thing that we don't have it.
+
+**Jakub Rudnik:** We haven't done for WebStacks and you all don't have set up.
+
+**Jakub Rudnik:** It's something that we could experiment on.
+
+**Jakub Rudnik:** But there's a lot of belief in that as being a positive signal for LLMs.
+
+**Jakub Rudnik:** So we're.
+
+**Jakub Rudnik:** Doing well without that, but maybe there's meat on the bone that if we added those FAQs and figured out how to do that at scale, that there could be additional benefits.
+
+**Jakub Rudnik:** And then I know we've talked about that CTA on the side, just kind of want to revisit that right now.
+
+**Jakub Rudnik:** It's just the sign for our newsletter and that's fine.
+
+**Jakub Rudnik:** But if there's any other CTAs we should be considering as we are more focused on conversion now, I just want to flag that again as a general call to think about for your end.
+
+**Jakub Rudnik:** Cool.
+
+**Jesse Schor:** Yeah, that's kind of been a struggle to get figured out.
+
+**Jesse Schor:** And I kind of shifted recently the strategy.
+
+**Jesse Schor:** I don't know if you guys have met Eric, but my digital marketing manager, Eric, is working on a new, very kind of like targeted newsletter series around sharing.
+
+**Jesse Schor:** Like breakdowns of like the best, you know, B2B SaaS websites and making that kind of the staple.
+
+**Jesse Schor:** So we're going to like replace that current kind of newsletter sign up with something that's like a bit more targeted.
+
+**Jesse Schor:** We've been doing a lot more email marketing lately and have gotten really, really good engagement, albeit on like small audiences.
+
+**Jesse Schor:** But that is a part of like our strategy moving forward is building up more of that, those email journeys.
+
+**Jesse Schor:** And I think we can probably even just like replace some, you know, those things with that on the sidebar until we can get more resources to be able to help like make the updates and changes.
+
+**Jesse Schor:** But right now it's just kind of a general, I don't think there's any reason for someone to sign up as far as the structured data goes.
+
+**Jesse Schor:** So I totally agree with you.
+
+**Jesse Schor:** I think that is definitely something that we need to be doing.
+
+**Jesse Schor:** Let me share my screen real quick because we recently made some updates to our sanity pages.
+
+**Jesse Schor:** And right now this is across like, you know, our like solutions pages, but I had a new tab added in here to our, all of our webpages.
+
+**Jesse Schor:** You can add things in like based off of the, like I said, right now, this is like for like our service pages.
+
+**Jesse Schor:** So you can just like add in the structured data here.
+
+**Jesse Schor:** I would love to add something like this for our blog.
+
+**Jesse Schor:** And I'm curious what like you guys think makes the most sense for us to include.
+
+**Jesse Schor:** And then this can just be something that like.
+
+**Jesse Schor:** During the publishing process, you're able to kind of select the right information for the structured data on that page.
+
+**Jakub Rudnik:** Sorry.
+
+**Jakub Rudnik:** Yes.
+
+**Jakub Rudnik:** So I think the, I have to look at what this exactly has.
+
+**Jakub Rudnik:** And apologies, I'm like trying to move because I've got to run to physical therapy after this.
+
+**Jakub Rudnik:** But that putting in the FAQ structure and then there's, we have to figure out how the pipeline for it or the workflow, but we've done it for a couple other clients, Jessalynn.
+
+**Jakub Rudnik:** We can talk about that, what that would look like offline, but have FAQ specific workflows that seem to be working for a couple of my clients and my other pods.
+
+**Jakub Rudnik:** So it's something that we could build into this.
+
+**Jesse Schor:** Are these FAQs on the blog page, blog pages you're saying?
+
+**Jakub Rudnik:** So yeah, we've done that for a number of clients and I don't know, I feel like.
+
+**Jakub Rudnik:** like.
+
+**Jakub Rudnik:** FAQs are one of the people, like, to me, I think that's probably a little bit overblown on, like, the long tail and its impacts on LLM visibility, but that's one of those, like, I can't go a day on LinkedIn without seeing FAQs and schema markup and how that's connecting to LLM visibility.
+
+**Jakub Rudnik:** And so, let me see if I can pull up an example.
+
+**Jesse Schor:** Yeah, we have most of our FAQs tied to our, like, service pages, capabilities pages, solutions pages.
+
+**Jesse Schor:** They're like, with the thought of, like, this being something that, like, we can be linking back to, like, having internal linking to any blogs, things like that, where, like, we expand on these topics.
+
+**Jesse Schor:** And that's why I have Insanity, the schema markup for, like, added for, like, you know, all these pages that can be included.
+
+**Jesse Schor:** We can add more fields here.
+
+**Jesse Schor:** We can add as many as we want.
+
+**Jesse Schor:** If there's more.
+
+**Jesse Schor:** Like, we want to include and have the ability to just, like, pull in.
+
+**Jesse Schor:** If there's ones that, like, we want to try to just, like, have automated based off the content that's there, that might also be able to be an option if we want to, like, flag those things.
+
+**Jesse Schor:** So, like, if FAQ, if there's, like, FAQ markup that we can be adding to these pages that will help with the visibility, even though they're not blogs, you know, we have the ability to do that in Sanity.
+
+**Jesse Schor:** For the blogs, we can be doing the same thing if we want to add more.
+
+**Jesse Schor:** I feel like FAQs on a blog just kind of might, like, be overkill.
+
+**Jesse Schor:** Just because I feel like it's the blog.
+
+**Jesse Schor:** But I don't know.
+
+**Jesse Schor:** Yeah, if you have an example, maybe I'm missing.
+
+**Jakub Rudnik:** Yeah, this is WhatFix, which is just a friend runs content over here, and they do really well.
+
+**Jakub Rudnik:** I'm not saying FAQs are their reason.
+
+**Jesse Schor:** I think it's just the first.
+
+**Jakub Rudnik:** This example popped in my brain, but yeah, it's like best digital adoption platforms, this is the article title, and then who should use features, some of these like long tail, small type of queries that don't deserve their own blog, or to your point, like sometimes they are their own blog and you can link over to that blog.
+
+**Jakub Rudnik:** So it's like creates a more natural internal link at times.
+
+**Jakub Rudnik:** Is this an FAQ page?
+
+**Jesse Schor:** No, this is the whole blog.
+
+**Jakub Rudnik:** This is like a software listicle, and at the bottom, and they, so some folks do it differently.
+
+**Jakub Rudnik:** This is more of a product page, but they've got this built in as like a module that the expand, and I like, I prefer something like this that makes it feel less unwieldy, but I think this is what I see more often is the kind of just like end of the page, you kind of dump the content in.
+
+**Jakub Rudnik:** So again, I prefer the expansion type of piece, but there's serving different purpose on a page like this.
+
+**Jakub Rudnik:** So it's more of like,
+
+**Jakub Rudnik:** What fixes FAQs and like why you would do them, the pricing and so on, kind of like what I believe you all do on the more services side, but then this is those educational, like let's try to find those little five and 10 volume keywords and rank for those or be surfaced in like related queries for LLMs.
+
+**Jakub Rudnik:** Like it's, I think it's trying to get more surface area around the topics that you're, you've got.
+
+**Jakub Rudnik:** So that's cool.
+
+**Jakub Rudnik:** And with you not having any and you having so much traffic and so much LLM visibility, like this is one of things I've kind of wanted to test for some sort of client and probably multiple clients so we can get our definitive answer.
+
+**Jakub Rudnik:** Like if we were adding in, it does nothing.
+
+**Jakub Rudnik:** I would want to know that because it is end work and it is, you know, from a UX perspective, I don't think it's like great all the time.
+
+**Jakub Rudnik:** Like Jesse, so something that I think we should consider one on how to do it, but I'm sorry, I'm late for, for something I got to hop, but
+
+**Jesse Schor:** Yeah, if you can share the reports, I'll dig into that a little more, then, Jakub, maybe I'll just message you async about the FAQ stuff.
+
+**Jesse Schor:** And if you guys can let me know if you have thoughts on how to approach the structured data, I can, yeah, just pick that up with you guys on Slack.
+
+**Jesse Schor:** Sounds good.
+
+**Jesse Schor:** Have a good weekend, Jesse.
+
+**Jesse Schor:** Thanks, guys.
+
+**Jesse Schor:** Thanks, guys.

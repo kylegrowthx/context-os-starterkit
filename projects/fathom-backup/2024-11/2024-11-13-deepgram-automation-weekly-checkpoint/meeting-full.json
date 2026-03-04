@@ -1,0 +1,2086 @@
+{
+    "title": "[Deepgram] Automation - Weekly Checkpoint",
+    "meeting_title": "[Deepgram] Automation - Weekly Checkpoint",
+    "url": "https://fathom.video/calls/180380319",
+    "created_at": "2024-11-13T17:04:09Z",
+    "scheduled_start_time": "2024-11-13T16:30:00Z",
+    "scheduled_end_time": "2024-11-13T16:55:00Z",
+    "recording_id": 35390583,
+    "recording_start_time": "2024-11-13T16:32:07Z",
+    "recording_end_time": "2024-11-13T17:03:21Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "the what's going on so this meeting is being recorded how much how you doing?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "all right a little kind of under the weather a little bit but um I like um I don't know I thought yesterday I kind of felt better than the before but then this morning I was like I don't know if it's like my body trying to like you know it's like you get better and then you get worse all of them right before you get way better I don't sound like that.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is it actually getting cold in the Bay area at all right now or is it still pretty warm?",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "No it's getting a little cooler for sure yeah um yeah and so um yeah it's uh but actually not looking forward to winter too much you know it's gonna start to rain and I'm just like yeah there's a spring yet can I fast forward to spring?",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "today was the first day I was like into 30s when I was walking my dog in New York so I mean Bill Bill's God is both of you for sure but",
+            "timestamp": "00:00:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'm like, ooh, winter, huh?",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is actually gonna happen.",
+            "timestamp": "00:01:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, I would just not leave the house for three months.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's why I hear people do in New York.",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So we'll find out.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, it would be like just bulking for three months.",
+            "timestamp": "00:01:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "know, just like, I think 400 pounds in three months and just, it's like cultivating mass, okay?",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "you're on mute.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "You gotta store those calories somewhere.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I know, I know.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Cool, well, I got ping from a noop yesterday.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think like the main thing that we're kind of struggling with on this engagement is just like, I want to try to figure out like, where can me and our team like plug in, right?",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "our CTO is like, like we're building some pretty crazy stuff behind the scenes as well, right?",
+            "timestamp": "00:01:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, but you guys.",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "especially Sam, you and Bill, like, you guys are also like pretty advanced, right?",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "so it's not like you guys are in the like, oh, what is this?",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I have no idea what a workflow is, right?",
+            "timestamp": "00:02:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so I think what I'm struggling with and trying to figure out is like, where, like, where could I plug in the best?",
+            "timestamp": "00:02:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "What kind of support would help you and YouTube the best and the team the best.",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And I think like the hardest thing for me, right?",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I was like, I go to a sun and I see a bunch of things.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "was like, okay, this looks high potential.",
+            "timestamp": "00:02:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "there's this kind of like, scoping piece that is like, I could use help as well.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Or you guys delegate to me, do some scoping delegate to me and the team, you know, or even further, it's like, if there's things that are way more technical than the three of us can do, like, our CTO is like, he'd lift this and that, right?",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, he's, he's like a 100x engineer.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "He's like the smartest engineer in the government, like, you know,",
+            "timestamp": "00:02:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, obviously, we have the capacity behind the scenes, but I feel like we're a bit underutilized at this stage, and it's okay, but I think we got the bandwidth.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I just want to help, essentially.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I want DeepGram to succeed, obviously, at any cost.",
+            "timestamp": "00:03:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Yeah, I, Marcel, I think that all makes sense.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I certainly have...",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I think we're in that period where everyone sees opportunities everywhere, right?",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "that's certainly a great place to be, but also there's...",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Yeah, I don't want us to fall in sort of like an analysis browser.",
+            "timestamp": "00:03:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "like there's so much to do so we don't so we do nothing right and we just go right around I think we're probably in that realm um I certainly have I think a few thoughts that come to mind um where I think your perspective and experience um is probably just going to go um you know further further per gallon um in samurai um there's a handful of um so like ultra um and say I'm jumping here too if you got uh other things good so there's a handful of I think use cases mostly I'm like relatively high funnel realm um that have been like somewhere towards the bottom middle of like my list for like you know the last four months",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "like top of funnel or like a lot more signals or a lot more noise in the volume is much higher too right yeah um and like I think we've made a few stabs here and there um I like some of it but like we really haven't we've only scratched the surface um a lot of these areas and I don't think there's any any risk of that changing um anytime soon I'll give you a few examples and I love to do some of these examples yeah I put up I put a proof of concept out probably like late July um around paper targeting Google search words based on um based on some of the use case enrichment that we have under the hood",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "So it's actually looks at our sales acceptively pipeline like the last 90 days, I think it was.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "It builds sort of meta profiles based on that.",
+            "timestamp": "00:06:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "It goes through a few LM rounds to generate like search term ideas.",
+            "timestamp": "00:06:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "goes to then Google search term idea API and generates the actual search term by candidates.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "And we did that once for the whole pipeline, like all prospects.",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "And then I don't think we've ever codified it past that.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "we gave it to Sam, was it thrive?",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Right?",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So if I'm understanding correctly, sorry, just to read it back to you, we'll try to understand what we're trying to find out is programmatically create long tail variations of queries so that we can go bid on those very specific variables.",
+            "timestamp": "00:06:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "patients on campaigns.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They're like high intent based on the use cases we have versus doing like broad matching for paid searching.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:07:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "know, I kind of think kind of like there's a few different avenues to follow down there.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "We were mostly talking at the proof of concept in that I'm talking about the enterprise, um, account push or thinking, or at least I was thinking about, you know, what do enterprise accounts go fishing for the other way?",
+            "timestamp": "00:07:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "And like, how do you, like, how is their sort of web activity different?",
+            "timestamp": "00:07:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "like, how do we cast in that?",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Um, we catch those.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But by the way, like one, one thing to build that's pretty cool.",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Um, build like this relevant score, um, that, uh, for a lot of our clients and how we're doing, like, we do like essentially like keyword gap analysis based on competitors and like that and, and, and like program using SCM March as API.",
+            "timestamp": "00:07:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Find a ton of different",
+            "timestamp": "00:07:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "things and then what we're doing is actually like coming up with a score, a relative score and essentially LLM's do a  job if you do zero to a hundred, so we should have this other approach which is like minus 2, 2 plus 2, it is like a lot easier, it's a lot better, but that does it on like a lot of different, you'll see here, but it has essentially like a scoring framework, right, and then for this framework have like minus 2 blah blah blah, but then there's like multiple different criteria, you know, and you can see like the the different scores, it's jobs to be done in linemen, business relevance, generation conversion value, customer fit, search intent match, and then direct product service alignment, and what we're trying to do is like as we go through this, like we're trying to identify opportunities where this is like",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "An opportunity we should go after, know, like, for example, this is for agent, you know, how to publish a podcast, right?",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's a minus one and and essentially it would have some some kind of explanation of like, hey, not like, it's pretty decent.",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so we've done stuff like that, for example, with, with right up, where their team is spending 10 million a year in ads.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so they need to actually do the opposite, which is instead of coming up with more ideas, they need to terms that are more consumer search terms.",
+            "timestamp": "00:09:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, for example, they care about business corporate cards.",
+            "timestamp": "00:09:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They don't care about like, if you're searching for Sapphire Reserve, like, that's a consumer, right?",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "sometimes like, they'll find",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "you know, and so they had a human reviewing like, I don't know, about like a thousand different query variations, and then just periodically adding them to their suppression lists on these paid campaigns, right?",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like, what we're trying to do is like the opposite of that almost said I'm eliminating, we're trying to add, you know?",
+            "timestamp": "00:10:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Yep.",
+            "timestamp": "00:10:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "So that's one area.",
+            "timestamp": "00:10:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "There's some interesting, I think, like, after the fact.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "One's, and I can share with you both the artifact and the workflow too.",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Let me pick it up.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Because one thing that kind of could be interesting as well here is like, definitely like, content creation and things related more to the kind of on the marketing side are definitely higher value.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "that's what I was suggesting as well.",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's like our traffic for DeepGrim suffered a lot after the last",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I mean, it's still 20,000 a day versus 1,000 a day before we did all the programmatic stuff, it's still like way far from the 30, 35 a day that we were averaging during the week, you know, and so there's, I think, a lot of opportunities there as well.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "that's like, kind of what we're doing for every client as well, you know, so that kind of like feels like a no brainer if we wanted to redirect our efforts towards that, that as well, you know.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Yeah, and I think, yeah, exactly.",
+            "timestamp": "00:11:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Um, you know, me, um, let me pick this up, let's see what it is.",
+            "timestamp": "00:11:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, I even see a world like, I mean, it's kind of a crazy growth hack idea, but like, where we could do ABM pages, and then the content of those ABM pages is fully personalized to a company.",
+            "timestamp": "00:11:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "But then the core of it is a voice agent experience.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Very cool.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That voice agent experience is actually like Taylor prompted to be like,",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "about that company and why essentially like you're building a voice agent to convince that person to use DeepGram but it's prompted with the knowledge of that company itself you know and then that page has their logo has a bunch of information and like a check out an experience of what like a voice voice agent experience look like for you right and for your company and it's just get to be able to be like whoa this is pretty cool and then they'll share with CEO but like look at this campaign this is insane like DeepGram did a voice agent for us and a custom page for us right it's like on the fly right yeah yeah so here let me show you because honestly every time I demo Vappy before like money blown and I don't tell them it's Vappy but like anytime I demo I show them like the Vappy experience like I prompt something really quickly and create a new voice",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "agent.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then I just show them the voice experience of like here, call this number or click this, then like, holy , you did that in two minutes?",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "What the hell?",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Like, you know, like, um, okay, so here the way I'm building this Marcel is it pulls, uh, sales accepted leads for like the last 90 days.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I group it by use case, and then I, for us to rank it to send the way by number of bills and total, uh, total dollars.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Um, I have it create, uh, so this one, it's an external use case, it's speech to text for IVR voice bots.",
+            "timestamp": "00:13:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I see total incremental, so it was like half a million dollars, 30 deals, then I essentially smush all of the use case details, uh, like up in there.",
+            "timestamp": "00:13:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "So sectors, I tell you.",
+            "timestamp": "00:13:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "communications call centers, I drive in customer service, these traditional services like Google or Google or Google.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I bump it over to give me like draft keywords.",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "on each of those, they're like meta profiles.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I have it spit out like ideals based on that.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "And then I bump it over to the Google search from API or search term idea API that goes through you and it pulls like the competitive in the scores and the average bid rate and like it pulls the history and that sort of thing, right?",
+            "timestamp": "00:14:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And are you filtering for only things at volume?",
+            "timestamp": "00:14:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Because a lot of these that would have been to have no volume.",
+            "timestamp": "00:14:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Yeah, like the output of this looks I think when I did the proof of concept.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "The guy I didn't filter it, but that would be the one of the immediate next steps.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Please.",
+            "timestamp": "00:15:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay.",
+            "timestamp": "00:15:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "But this one, let's see.",
+            "timestamp": "00:15:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I'll take up the actual.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I think the missing piece here, like, it's almost like this is ahead of, again, push back here, right?",
+            "timestamp": "00:15:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "This feels like we're solving something without solving the whole thing.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then we explain, right?",
+            "timestamp": "00:15:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "we're going to go and programmatically find insanely long tail variations of things that are related to a use case or whatnot in order to go find things that are competitors are thinking.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Thinking about it and go embedding on those programmatically the opposite side of that.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We also need.",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "personalized pages and create a ton of like programmatically created pages that align to those clusters We need to cluster these keywords in a certain way, right?",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You can't just like you know find them and then like Like send them to a generic page that you know what I mean?",
+            "timestamp": "00:16:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like the power is like on both sides doing both sides, right?",
+            "timestamp": "00:16:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "um programmatically, you know versus and then like we do that then that's what I was saying like if we Nail the programmatic page creation Then we can come back and align to this because I think our campaigns are still like Cracking if I'm wrong, Sam, like we're pointing to like a handful of pages, right for our paid campaigns Yeah, I don't think I do things to basically We had Sam who was um, who was Alexa going to a dinner with?",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "uh it was Oh, muty Yeah I mean muty does",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And it's kind of like, OK, you want to buy going?",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you know what mean?",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's kind of like, I think, to be fair, I think a lot of people are using mute me, I've heard some things about it.",
+            "timestamp": "00:17:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But it's like, you don't control the engine, right?",
+            "timestamp": "00:17:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "it's a black box, right?",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so I'm skeptical of these black box because we have a headless en masse.",
+            "timestamp": "00:17:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, you can build this processing engine.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "an API, like, we know how to do this stuff, you know?",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then you build a superpower versus if you want to spend 80k a year on mute me, that's fine.",
+            "timestamp": "00:17:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And use a black box, but it's the same thing as everything else.",
+            "timestamp": "00:17:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's just a black box, right?",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "They're not going to give you a prompt.",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You can tweak things too much, you know?",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And the way it works, like Brax uses them, for example, it's like, but they have, like, an insane 10, right?",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "If you get to a page and it's like, taking one little variable from that page and tweaking, right, variable, or a little section of the site and tweaking it a little bit.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "it's just like, we're talking about...",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "here is completely different, right?",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "what we're talking about here is like, you take a keyword like this, like, I can speech detect software, and you would like, essentially create a page, almost like a custom page, after doing research on this keyword, and you're essentially generating an article, and then you're taking that article and generating like why you should buy deep gram kind of thing, you know, and then programmatically creating a page that solves that, if there's an opportunity, right?",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's not like a, like, take like new one's dragon speech recognition, like, I don't even know how mutiny with personalized a page with that, you know, because like the level of understanding of that needs to be completely different.",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like, can you understand the user intent behind that search, you know, which is like, and you need to do research, you need to go scrape the top 10 results of that, to understand like, what is, like, you know what mean?",
+            "timestamp": "00:18:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And like, mutiny doesn't do that.",
+            "timestamp": "00:18:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, I don't even think mutiny can, like, create pages.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "is I think it just like adds personalization like existing ones, I believe.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "True.",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "The way they do it, yes.",
+            "timestamp": "00:19:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "think they're adding personalization tokens in different or variables in different parts.",
+            "timestamp": "00:19:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "what I'm saying is like those variables at most are like a little tweak to a prompt, right?",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's kind of like Notion AI is great.",
+            "timestamp": "00:19:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "You select the part of the text and there's like a custom instruction.",
+            "timestamp": "00:19:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Any type and a few sentences and it's decent, right?",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But there's no like the workflow Bill just showed is like 30 steps like these tokens.",
+            "timestamp": "00:19:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's our superpower right now.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "know, it's like, is that like we can do that, you know?",
+            "timestamp": "00:19:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yep.",
+            "timestamp": "00:19:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "To confirm, I'm like, have you mutiny?",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't think I can do the stuff you were saying.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So yeah, I think you're like, that's a very fair point.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I don't think it could create the level of like customization that we would be able to do essentially with some of the like stuff we can talk about.",
+            "timestamp": "00:19:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So the the areas where I think we're",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "we're doing for other clients that is like super powerful is like programmatically finding more programmatic opportunities that are more aligned to outbound campaigns, right?",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "personalized pages at scale, not necessarily paid campaigns, but like outbound campaigns, right?",
+            "timestamp": "00:20:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "it worked really well for AI apps, right?",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like where we just had all these pages.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then even if there was no traffic to AI apps, we were still reaching out to all these people and saying, Hey, you're featured over here at some backlinks, we got a response rates, we're like in the 30%, right?",
+            "timestamp": "00:20:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So if we can find a pocket to replicate that for enterprises, they're like high right where it's like a custom page for each enterprise and like, and then we're doing coordinated campaigns, programmatic using clay and smartly and a few other things that we're using, then like we can start to like, and we have the process to warm up all of these IPs as well.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "like we can, we can essentially like the process.",
+            "timestamp": "00:20:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So we go through something, you buy 30 to 50 different variations of a domain, you start to warm them up and you're like, or like ramp right now sending like something like 20 million emails, cold emails a month, like just to give you idea, you know, like, you know.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So, maybe that could be our like, you know, like project that can be like, we're good at, we're doing for other clients.",
+            "timestamp": "00:21:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "There's a huge potential here and it's going after high value things, right, because like, what I'm afraid with with the stuff with the keywords is that, even if you do all of this, we're spending, you know, 30 k a month in paid search, maybe, you know, maybe you gain a 10% of that that's not like trajectory changing for the company.",
+            "timestamp": "00:21:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:21:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "It's good.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "It's good.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, but not right.",
+            "timestamp": "00:21:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, I would generate 100k more pipeline, maybe, you know what I mean, like, I don't think it's trajectory changing and there's no, the ceiling is kind of low, right, like you can like 1000 next.",
+            "timestamp": "00:21:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It just means you guys spend more money, you know.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "So Marcel help.",
+            "timestamp": "00:22:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "This is the piece that.",
+            "timestamp": "00:22:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "This is like the crux years.",
+            "timestamp": "00:22:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I think we have.",
+            "timestamp": "00:22:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Like some of the pieces.",
+            "timestamp": "00:22:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Yeah, the puzzle.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Right.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "We're showing like few different parts like part of the picture.",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I think the landing page or like the page generation is one that.",
+            "timestamp": "00:22:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Alexa and I have discussed.",
+            "timestamp": "00:22:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "But we haven't ever landed on.",
+            "timestamp": "00:22:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Like a viable certain next step piece.",
+            "timestamp": "00:22:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "That I think it's like an open, open need on our side.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "And I honestly don't think we have.",
+            "timestamp": "00:22:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Like the visibility in house to make it.",
+            "timestamp": "00:22:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "decision on the best way to put pen to paper there.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I think we have some of the supporting data, right?",
+            "timestamp": "00:23:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I think between some of the persona work that we've done, I think we know kind of what we would show somebody once they got there, right?",
+            "timestamp": "00:23:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "But it's not necessarily like a fully formed sort of cohesive project.",
+            "timestamp": "00:23:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "It's more of a launch.",
+            "timestamp": "00:23:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, I feel like what would be cool is like two things.",
+            "timestamp": "00:23:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "One, is there a chance you can give access to a nation?",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I'm talking to their CEO next week as well, but like only because you've moved so many things there.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like I don't have visibility to anything, it's so hard for me to like dig in there.",
+            "timestamp": "00:23:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "But, you know, CTO, like, and it was like, you know, crazy, like, we're using nation for everything now as well, and we're also building our runtime layer in temporal, because like, I'll growing all these tools essentially, know, and so what I want to do is like, this is something that I'll, like, for example, for Hagen, we're building 10,000 pages for them on new translation and a bunch of different things, right, like, so it's like, I think there's just something we can do that's kind of MVP of just saying, like, hey, can we take our top, like, I don't know, 100 accounts, run through, use some of the data we already have on them, like, based on the intent behind it, create a page that just kind of, like, looks decent, and it's just like, it's actually like, you know, a basic page, you know, and it doesn't even need to be indexed, to be honest, right, it just needs to work, and then build, like, an album campaign to, to go, like, try to get people to reply, you know, using maybe one",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "eat, you know, like, or, or a handful of, of SDRs or AEs or whatever, you know, but these are like, let's go after like the highest value possible ones, right?",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "At first, and like, maybe 110,000, you know?",
+            "timestamp": "00:25:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "and then it's just like, and then we go find, like, programmatically find the right people within those accounts, they're the people that are already in their database, or using like, or others, other tools to just like look up related people, you know?",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then just mention like, hey, we noticed like a lot of folks in your company, like visiting our website, and checking out this and that, like in one of the share, like, we actually created a custom use case for you, and like, there's got to be something that's like the special sauce thing there.",
+            "timestamp": "00:25:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "That's why I was saying like, if we can embed like a voice experience thing there, and then, you know, then like just like our homepage, but a little bit prompted, then that would like, that would be like a really cool campaign.",
+            "timestamp": "00:25:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then like, we can also do social content around and be like, look how cool this campaign we did.",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah, people.",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh my god, it's really cool and it gets people talking about it too, you know?",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Yep, the voice agent demo supports You can pre-fill the URL the prompt and via the URL.",
+            "timestamp": "00:26:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Oh Nice, which is a nice built-in.",
+            "timestamp": "00:26:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I also have alignment from the console team to Row more Playgram SQL files up available for use.",
+            "timestamp": "00:26:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "got about 60 Approved audio files that we can use on the transcription side Really the only thing they need would be The actual under it's a super super quick thing for them to do the the way I've been thinking about doing that is you could then essentially Refill the",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "some of the features, the model selection, then the sample file that somebody uses on the transcription side.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "And similarly, on the voice agent side, given that we have the personas, right, we should be able to then generate systems, information with relative ease coming out the other side.",
+            "timestamp": "00:27:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Don't believe us.",
+            "timestamp": "00:27:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "Try it right here right now for the exact thing that we think you're building.",
+            "timestamp": "00:27:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Okay, so I think that makes sense.",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So maybe you and I and Alexa can like brainstorm on this, and then this is like the the main kind of project, you know, because it was media now for the rest of the year of just like get this done and launch before the end of the year, you know, and I think like we already have the the templates kind of like this, that this page like we can use.",
+            "timestamp": "00:27:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "page template, know, and just like tweak a few things.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it's like, I don't think we need a lot of that work, you know, and so like to create like 100 pages, you know, and like brand Fetch is actually really good at pulling other companies logos.",
+            "timestamp": "00:28:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "So it'd be pretty useful because like these are companies that are pretty well known, and we can use their URL to programmatically create a logo as well.",
+            "timestamp": "00:28:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And so there's like the content creation, creating 100 pages, you know, and then there's the like the albond came inside of things, you know, and like a way to think about it is like it doesn't need to be in our systems.",
+            "timestamp": "00:28:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "It's kind of like running as like a satellite over here, and then anyone that replies this into like, you know, a wrap or something, you know, and then it's just validating like can we, if we get 100 accounts, 10 contacts in each account, 10,000 people, can we validate, you know, with two or three touches for those 1000 people, can we get a better replying rate than most of our bounds.",
+            "timestamp": "00:28:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "really legit meetings, you know.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "We've used agent to create down the line, like literally like custom video.",
+            "timestamp": "00:29:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Like a Scott, like, you know, like essentially introduces like, Hey, cool.",
+            "timestamp": "00:29:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "I have my homework for me.",
+            "timestamp": "00:29:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Let me scope it out and then say maybe like you and I and Alexa will keep bill you as like optional, but obviously like we'll need your help, you know, a lot of things and assistance.",
+            "timestamp": "00:29:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "And then like we can try to tackle this, you know, scope it out and then like, but my only aspect is if you're going to add more, so like growthexlabs.com and then team at growthexlabs.com.",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Sam Lee",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I thought I thought I was to end it in, but it's probably like you need, I think I only get to like a small like.",
+            "timestamp": "00:29:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "window of the workflow so when open the Grem test dot dot nation right now it like you know right now it it I only have call recap email in the home and nothing else I'm access to anything I will add you but I got I got to run but yeah but keep me posted if once you add and then I'll never yeah and then Sam what do you get the best next step I just want to also be mindful of like Alex and yours like and with as well you know and priority of projects it as well I don't know if you lost him it looks Sam oh it's frozen time",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Bill Getman",
+                "matched_calendar_invitee_email": "bill.getman@deepgram.com"
+            },
+            "text": "I can serve all of them, thank you very much for next time.",
+            "timestamp": "00:31:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "appreciate it.",
+            "timestamp": "00:31:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Thanks guys.",
+            "timestamp": "00:31:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "How are you doing?",
+            "timestamp": "00:31:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "santilli@fwd.digital"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:13"
+        }
+    ],
+    "transcript_language": "unknown",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss automation opportunities and strategize on high-impact projects for DeepGram's growth.](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [The team identified a need for more advanced, personalized content creation and ABM strategies beyond current capabilities](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=0.0)\n  - [There's potential for developing custom landing pages and voice agent experiences for high-value target accounts](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=0.0)\n  - [A project to create 100 personalized pages for top accounts, coupled with coordinated outbound campaigns, was proposed as a high-impact initiative](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=0.0)\n\n## Topics\n\n### Current Challenges and Opportunities\n\n  - [Marcel expressed feeling underutilized and seeking ways to provide more value to DeepGram](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=100.0)\n  - [Bill acknowledged the team is in a phase of seeing many opportunities but risks analysis paralysis](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=217.0)\n  - [Identified need to focus on high-impact projects that can significantly influence DeepGram's trajectory](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=234.0)\n\n### Keyword Research and Paid Search Optimization\n\n  - [Bill shared a proof of concept for generating targeted keywords based on sales data](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=300.0)\n  - [Process involves analyzing sales-accepted leads, grouping by use case, and using LLMs to generate search term ideas](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=360.0)\n  - [Discussion on the limitations of this approach, including the need to filter for volume and create matching landing pages](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=406.0)\n\n### Programmatic Page Creation and Personalization\n\n  - [Proposed creating highly personalized ABM pages for target companies](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=460.0)\n  - [Discussed the potential of embedding custom voice agent experiences on these pages](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=710.0)\n  - [Compared capabilities to tools like Mutiny, highlighting DeepGram's potential for more advanced customization](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1039.0)\n\n### Outbound Campaign Strategy\n\n  - [Suggested focusing on high-value enterprise targets with custom pages and coordinated outbound campaigns](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1200.0)\n  - [Discussed success of similar strategies with other clients, achieving 30% response rates](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1224.0)\n  - [Proposed creating 100 pages for top accounts as an MVP, not necessarily indexed but used for targeted outreach](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1500.0)\n\n### Voice Agent Demo Integration\n\n  - [Bill mentioned the ability to pre-fill URL prompts for voice agent demos](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1564.0)\n  - [Discussed incorporating this feature into personalized landing pages for a powerful demonstration of DeepGram's capabilities](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1710.0)\n\n### Project Scoping and Next Steps\n\n  - [Agreed to brainstorm on the personalized page project with Marcel, Alexa, and potentially Bill](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1652.0)\n  - [Aim to launch before the end of the year, utilizing existing page templates and tools like Brand Fetch for logos](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1657.0)\n  - [Discussed creating content for 100 pages and developing a corresponding outbound campaign strategy](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1715.0)\n\n## Next Steps\n\n  - [Marcel to be given access to DeepGram's Notion workspace for better visibility into ongoing projects](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1424.0)\n  - [Marcel, Alexa, and potentially Bill to scope out the personalized page project for top 100 accounts](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1652.0)\n  - [Investigate the integration of voice agent demos into personalized landing pages](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1710.0)\n  - [Develop a strategy for creating and launching 100 personalized pages before year-end](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1715.0)\n  - [Plan coordinated outbound campaigns to leverage the new personalized pages](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1715.0)\n  - [Evaluate the potential for using AI-generated custom video content in outreach efforts](https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa?tab=summary&timestamp=1746.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Brainstorm w/ Alexa & Bill on custom page project for top 100 accounts. Scope out project incl. content creation, page gen, outbound campaign. Prep for meeting.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:23:23",
+            "recording_playback_url": "https://fathom.video/calls/180380319?timestamp=1403.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "santilli@fwd.digital",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Grant Marcel access to Notion (deepgramtest.notion.site). Ensure full visibility to relevant projects/workflows.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:23:33",
+            "recording_playback_url": "https://fathom.video/calls/180380319?timestamp=1413.9999",
+            "assignee": {
+                "name": "Bill Getman",
+                "email": "bill.getman@deepgram.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Prep for brainstorming session w/ Marcel & Alexa. Gather info on available Playgram SQL files, voice agent demo capabilities, approved audio files for transcription.",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:25:53",
+            "recording_playback_url": "https://fathom.video/calls/180380319?timestamp=1553.9999",
+            "assignee": {
+                "name": "Bill Getman",
+                "email": "bill.getman@deepgram.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Bill Getman",
+            "email": "bill.getman@deepgram.com",
+            "email_domain": "deepgram.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Bill Getman"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel.santilli@deepgram.com",
+            "email_domain": "deepgram.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Sam Lee",
+            "email": "sam.lee@deepgram.com",
+            "email_domain": "deepgram.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Anoop Dawar",
+            "email": "anoop.dawar@deepgram.com",
+            "email_domain": "deepgram.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": "Marcel Santilli"
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/Xe_vy3dSJBoQ7enX3zwzipUEQmrPwYZa",
+    "crm_matches": {
+        "contacts": [
+            {
+                "name": "Sam Lee",
+                "email": "sam.lee@deepgram.com",
+                "record_url": "https://app.hubspot.com/contacts/341940338/contact/111316683709"
+            }
+        ],
+        "companies": [
+            {
+                "name": "Deepgram",
+                "record_url": "https://app.hubspot.com/contacts/341940338/company/63941773301"
+            }
+        ],
+        "deals": [],
+        "error": null
+    }
+}

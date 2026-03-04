@@ -1,0 +1,366 @@
+# Galileo <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2025-10-22
+time: 16:55 UTC
+duration: 15 minutes
+organizer: team@growthxlabs.com
+participants: Vivek Shankar (GrowthX), Jackson Wells (Galileo)
+fathom_recording_id: 96026721
+fathom_url: https://fathom.video/calls/448012131
+share_url: https://fathom.video/share/jjJxzRz4qEnp2Nc7XtA99VbF3iGQ-Ag9
+source: fathom
+enriched_on: 2026-03-02 14:35 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Galileo's content strategy is stabilizing after an initial growth spike. Content traffic remains steady but growth has plateaued, shifting focus toward refreshing existing content and filling gaps in observability topics. The Galileo rebrand has driven more than double the branded homepage clicks. GrowthX presented expanded service options including Reddit monitoring and Medium republishing, with full pricing to follow.
+
+---
+
+## Context
+
+Galileo is a developer tools company that uses GrowthX for content marketing and SEO strategy. This weekly sync between Jackson Wells (Galileo) and Vivek Shankar (GrowthX) covers content performance metrics, pipeline updates, and strategic service discussions. The relationship focuses on delivering SEO-driven content that improves Galileo's visibility in the LLM/AI evaluation space, where they compete with tools like Brain Trust and Arise.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Content pipeline is healthy: 5 articles + 1 model review published this week, 13 awaiting client review, 7 more due this week
+- Team transition: Ismail moving to different account; Nika (former Galileo resource) taking over staging communications next week
+- Current focus shifting from new pages to content refreshes and high-impact topic creation as expansion slows
+- Observability emerges as largest gap vs. competitors — highest priority for new content and refreshes
+
+**To CheckThat / LLM Visibility:**
+- Galileo's LLM visibility is neck-and-neck with Brain Trust, making slow progress vs. Arise (328 keywords in top 10 vs. Arise's 904)
+- Observability is the weakest category — exact opportunity for CheckThat insights and prompt optimization
+- Model Hub scaling by end of December expected to significantly boost traffic on high-value SEO terms
+
+**To GrowthX Business Development:**
+- Account showing health signals: branded traffic more than doubled from rebranding; client actively reviewing content
+- Expansion opportunity: Jackson interested in Reddit/Medium services; pricing discussion indicates willingness to expand service scope
+- New service offering (Reddit monitoring + community management + Medium republishing) presented for upsell potential
+
+---
+
+## Overview
+
+- **Performance is stable, but growth has plateaued.** The focus is now on optimizing existing content (refreshes) and creating new high-impact topics to break this holding pattern.
+- **The recent Galileo rebranding is driving a major traffic spike.** Branded clicks have more than doubled, validating the brand's new visibility and the SEO groundwork in place to capture it.
+- **"Observability" is the primary content gap.** It lags competitors in LLM visibility, making it the top priority for new content and refreshes.
+- **GrowthX offers new Reddit/Medium services.** Pricing for a full package (monitoring, community management, republishing) will be provided for Galileo's review.
+
+---
+
+## Key Topics
+
+### Content Pipeline & Team Update
+
+  - **Production:** 5 articles and 1 model review page published this week.
+  - **Backlog:** 13 articles are staged for Galileo's review; 7 more are due this week.
+  - **Team Change:** Ismail is moving to another account. Nika, a former Galileo team member, will take over staging communications starting next week.
+
+### Performance Review & Strategy
+
+  - **Overall Traffic:** Stable, but growth has plateaued.
+      - **Cause:** The initial surge from new pages has ended; the focus is now on optimizing existing content (refreshes) and creating new high-impact topics.
+      - **Note:** A recent drop in impressions is attributed to Google's bot traffic reduction efforts and does not negatively affect rankings or traffic.
+  - **Branded Clicks:** A significant increase (more than double usual) is attributed to the Galileo rebranding, validating the brand's new visibility.
+  - **LLM Visibility:**
+      - **Position:** Neck-and-neck with Brain Trust, making slow progress on Arise.
+      - **Gap:** "Observability" is the main area lagging competitors.
+      - **Driver:** The Model Hub, scaling by EOY, is expected to capture high-value SEO terms and significantly boost traffic.
+  - **SEO Metrics (SEMrush):**
+      - **Top 10 Keywords:** 328 total vs. Arise's 904.
+      - **Evaluation Keywords:** 146 in the top 10.
+      - **Cluster Performance:** "Governance" is volatile; "Evaluations" and "Reliability" are stable traffic drivers.
+
+### New Service: Reddit & Medium
+
+  - **Context:** Answering Connor's previous question on Reddit/Medium services.
+  - **Service Tiers:**
+      - **Light:** Reddit monitoring → surfaces content gaps.
+      - **Add-on:** Medium republishing (separate cost).
+      - **Full Package:** Reddit monitoring, community management, and Medium republishing.
+
+---
+
+## Action Items
+
+**Vivek Shankar (GrowthX)**
+- Post Slack update with Reddit+Medium pricing and Scrunch link for LLM visibility tracking; reply to Jason regarding Scrunch tool
+
+---
+
+## Transcript
+**Jackson Wells:** Thank you.
+
+**Jackson Wells:** Hey, Vivek, how's it going?
+
+**Vivek Shankar:** Hey, Jackson, how are you?
+
+**Jackson Wells:** Good, good.
+
+**Jackson Wells:** Another chaotic, busy week.
+
+**Jackson Wells:** A couple of product launches, an e-book launch, you know.
+
+**Vivek Shankar:** Well, nothing ever changes, does it?
+
+**Vivek Shankar:** But it's good.
+
+**Jackson Wells:** No, no, it does not.
+
+**Jackson Wells:** What about you?
+
+**Vivek Shankar:** Good, good.
+
+**Vivek Shankar:** Things are busy.
+
+**Vivek Shankar:** They're doing some work outside the place on stage.
+
+**Vivek Shankar:** So the internet might randomly cut off.
+
+**Vivek Shankar:** I apologize.
+
+**Vivek Shankar:** I hope it doesn't happen.
+
+**Vivek Shankar:** But yeah.
+
+**Vivek Shankar:** Fingers crossed.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** It happened for like five, like a couple minutes on my previous call.
+
+**Vivek Shankar:** But yeah.
+
+**Vivek Shankar:** Don't think that should be the case.
+
+**Vivek Shankar:** Mara might join later because she has a conflict.
+
+**Vivek Shankar:** So I think, let me share my screen.
+
+**Vivek Shankar:** We can get started.
+
+**Jackson Wells:** Great.
+
+**Jackson Wells:** I think Connor, Connor says coming on the invite, but...
+
+**Jackson Wells:** We'll see.
+
+**Jackson Wells:** I know he's heads down right now.
+
+**Vivek Shankar:** So probably join a bit later as well.
+
+**Vivek Shankar:** No worries.
+
+**Vivek Shankar:** So yeah.
+
+**Vivek Shankar:** We staged and published five articles this week along with a model review page.
+
+**Vivek Shankar:** 13 are awaiting your review.
+
+**Vivek Shankar:** And we are on track to deliver seven this week.
+
+**Vivek Shankar:** Just an internal programming note.
+
+**Vivek Shankar:** So Ismail is who you've been chatting with regarding staging, et cetera. He's moving to another account within the agency.
+
+**Vivek Shankar:** So basically, we'll have Nika come back. Don't know if you've worked with Nika before, but he used to be on Galileo.
+
+**Jackson Wells:** I did not.
+
+**Vivek Shankar:** But yeah, either way, there's not going to be much of a disruption here. Nika is going to be sending those messages starting next week onward.
+
+**Vivek Shankar:** I just wanted to let you know about that.
+
+**Vivek Shankar:** Moving on to the performance side of things.
+
+**Vivek Shankar:** So we're pretty much in a holding pattern, as you can see.
+
+**Vivek Shankar:** Looks like, you know, the tag issues and attribution has been fixed in GA4.
+
+**Vivek Shankar:** We're kind of holding slightly below the all-time highs that we did.
+
+**Vivek Shankar:** One reason for this is obviously the volume of net new pages has decreased quite a bit compared to when, you know, we had our exponential sort of increase.
+
+**Vivek Shankar:** And mostly it's refreshers now, as well as the older pages seem to be hitting, like, pretty much as much performance as we're going to get from them.
+
+**Vivek Shankar:** So we're done.
+
+**Vivek Shankar:** Going deeper into refreshes just to see what could really move the needle, as well as trying to prioritize new topics that would likely have a huge search impact.
+
+**Vivek Shankar:** But generally speaking, we are in a good position.
+
+**Vivek Shankar:** It's just that we're just trying to figure out how to get even better, generally speaking.
+
+**Vivek Shankar:** Branded and non-branded impressions have been decreasing over the past couple of weeks.
+
+**Vivek Shankar:** This is kind of normal, mainly because of Google's strive to reduce bot traffic.
+
+**Vivek Shankar:** So they've been making a lot of updates, and the declining impressions has been one of the causes of that.
+
+**Vivek Shankar:** Again, it's not been like a precipitous drop by any means.
+
+**Vivek Shankar:** It's just been a slightly less gradual sort of a drop.
+
+**Vivek Shankar:** We think that should stabilize, and generally it's not affecting our rankings or our traffic in any negative way.
+
+**Vivek Shankar:** So it just seems to be eliminating bot traffic.
+
+**Vivek Shankar:** In terms of cluster performance, the governance cluster is a bit volatile right now.
+
+**Vivek Shankar:** Last week was a bit down in terms of the number of sessions.
+
+**Vivek Shankar:** The main pillars which are driving our traffic, which is evaluations, reliability, are holding positions quite well.
+
+**Vivek Shankar:** With regards to keywords from SEMrush, we have 146 evaluation-related keywords in the top 10, and we are ranking for 328 keywords in the top 10 compared to Arise's 904.
+
+**Vivek Shankar:** So, yeah, it's sort of, we're making slow progress over there, but generally it's a bit up and down.
+
+**Vivek Shankar:** In terms of LLM visibility, the LLM referral traffic is also sort of holding in the same pattern, in the same range as overall website traffic.
+
+**Vivek Shankar:** In terms of visibility for the prompts that we're tracking, it's the same position there as well.
+
+**Vivek Shankar:** We're pretty much neck and neck with Brain Trust and making up ground to Arise. The individual categories for agent evals, reliability, troubleshooting, and safety and risk management, we are pretty close to the top three.
+
+**Vivek Shankar:** Observability is where we're lagging, of course, and we're trying to close that gap with new content as well as the refreshes that we've been slating over the past few weeks.
+
+**Vivek Shankar:** So generally not much of movement over this past week.
+
+**Vivek Shankar:** Things are pretty much the same as last week there.
+
+**Vivek Shankar:** Any questions about any of this?
+
+**Jackson Wells:** No, I mean, this all makes sense.
+
+**Jackson Wells:** It looks like continuing to prioritize observability as a category makes the most sense from a content perspective, and I know some of the refreshes I outlined are aligned with that, so that should help at least a little bit.
+
+**Jackson Wells:** Other updates, we got the articles down to eight currently waiting for review, and we'll try to clear out the queue, and we're just down.
+
+**Jackson Wells:** I'm a couple of reviewers, so it's taking a little bit longer.
+
+**Jackson Wells:** Besides that, all of this makes a lot of sense, and I'm not super worried about it.
+
+**Jackson Wells:** It also looks like we're seeing a really solid increase in branded clicks right now, which I would have to guess is from the other Galileo rebranding.
+
+**Jackson Wells:** So that is a big positive that I think internally people will be excited about.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** Yeah, was nice to see we finally got the top spot, so that's pretty neat.
+
+**Jackson Wells:** Yeah, I mean, looking right now, looks like we have more than double our usual URL clicks for branded impressions for the homepage.
+
+**Jackson Wells:** That's phenomenal.
+
+**Vivek Shankar:** Well, it's good that we have the groundwork in place, so we could sort of take advantage of that, so that's pretty good news.
+
+**Vivek Shankar:** Just wanted to give you an update on the Reddit workflows and Medium republishing. I think Connor had this question last week.
+
+**Vivek Shankar:** So the TLDR here is the service we currently offer is essentially Reddit monitoring — product mentions and reporting across different subreddits. We treat that as a content gap monitoring resource. That's one service and workstream we offer.
+
+**Vivek Shankar:** We can republish to Medium as well.
+
+**Vivek Shankar:** That is a separate workstream, so there will be an additional cost for that, but we're already doing it for some of our other clients.
+
+**Vivek Shankar:** If you want to combine these two into a full package, the full package would be GrowthX runs the subreddit for Galileo, monitors upcoming topics, monitors content gaps, and repurposes content from your blog or publishes it to Medium. That would be the full service package.
+
+**Vivek Shankar:** So that's kind of what we're doing right now for our clients in terms of Reddit and Medium.
+
+**Vivek Shankar:** So just wanted to give you an update on that.
+
+**Jackson Wells:** Sweet.
+
+**Jackson Wells:** So you guys, the full package is like you monitor Reddit, you run a subreddit, republish to Medium.
+
+**Jackson Wells:** Did I miss anything there?
+
+**Vivek Shankar:** Yeah, that's the full package.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** A light version would be just monitoring the subreddit and surfacing any content gaps that might occur, with Medium republishing as a separate service and workstream.
+
+**Jackson Wells:** Got it.
+
+**Jackson Wells:** Okay.
+
+**Jackson Wells:** Do you know what that package typically costs all together?
+
+**Vivek Shankar:** I can get back to you on the pricing with that.
+
+**Vivek Shankar:** Like I'll send a little update in Slack with the post-meeting notes.
+
+**Jackson Wells:** Cool.
+
+**Jackson Wells:** Yeah, that works for me.
+
+**Jackson Wells:** And I'm sure Connor and I can talk about it.
+
+**Jackson Wells:** Cool.
+
+**Jackson Wells:** Well, looks like Jason responded.
+
+**Jackson Wells:** Cool.
+
+**Jackson Wells:** Asking, how should we track our visibility in LLMs relative to competitors?
+
+**Jackson Wells:** That is what Scrunch is for.
+
+**Vivek Shankar:** I'll respond to that.
+
+**Vivek Shankar:** I'll drop a link to Scrunch as well so that he can take a look at it.
+
+**Jackson Wells:** So, yeah.
+
+**Jackson Wells:** Yeah, that would be great.
+
+**Jackson Wells:** And then just forward thinking of what we should say as far as what our plan is to catch up to some competitors.
+
+**Jackson Wells:** But it looks like we're already pacing upward a bit, so I'm not super worried about it personally.
+
+**Jackson Wells:** And since they have more broad reach of, like, different high traffic terms, I'm sure it's something we can regain over time.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** Well, hopefully the Model Hub, once we, you know, once it's fully scaled, which should happen by the end of December, I think that should bring in significant amounts of traffic because those are, like, pretty high terms in SEO.
+
+**Vivek Shankar:** So, the rest of them, I feel like a lot of our topics are super esoteric and they don't really...
+
+**Vivek Shankar:** Kind of show up in terms of SEO keywords, so it's a bit more challenging, but yeah, we're, I mean, we've got results so far, so pretty sure that we can keep expanding that, so.
+
+**Jackson Wells:** Totally.
+
+**Jackson Wells:** Yeah, that and competitive pages, more pillar pages, et cetera, et cetera, I'm not super worried about it.
+
+**Jackson Wells:** think the strategy we have in place right now makes sense, and I'll also review what's in the article generation pipeline and see if we have to move anything around, but last I looked, it's solid.
+
+**Vivek Shankar:** Yep.
+
+**Vivek Shankar:** Cool.
+
+**Vivek Shankar:** So yeah, that's it.
+
+**Vivek Shankar:** I will follow up with the pricing after checking internally, and yeah, I'll send that over with the post-call updates.
+
+**Jackson Wells:** Awesome.
+
+**Jackson Wells:** Well, thank you so much, Vivek.
+
+**Vivek Shankar:** Much appreciated.
+
+**Vivek Shankar:** Cool.
+
+**Vivek Shankar:** Thanks, Jackson.
+
+**Jackson Wells:** Bye.
+
+**Jackson Wells:** No worries.
+
+**Jackson Wells:** Bye.

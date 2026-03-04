@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audit version="0.0.38">
+<site url="https://flodesk.com" crawled="1" date="2026-02-28T15:49:52.992Z"/>
+<score overall="43" grade="F">
+ <cat name="Accessibility" score="75"/>
+ <cat name="Images" score="47"/>
+ <cat name="Performance" score="79"/>
+ <cat name="Crawlability" score="90"/>
+ <cat name="Security" score="60"/>
+ <cat name="E-E-A-T" score="58"/>
+ <cat name="Links" score="75"/>
+ <cat name="Core SEO" score="84"/>
+ <cat name="Analytics" score="100"/>
+ <cat name="Content" score="100"/>
+ <cat name="Internationalization" score="100"/>
+ <cat name="Legal Compliance" score="100"/>
+ <cat name="Mobile" score="100"/>
+ <cat name="Structured Data" score="100"/>
+ <cat name="Social Media" score="100"/>
+ <cat name="URL Structure" score="100"/>
+</score>
+<summary passed="99" warnings="34" failed="8"/>
+<issues>
+ <category name="Crawlability" errors="1" warnings="2">
+  <rule id="crawl/sitemap-valid" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/crawl/sitemap-valid">
+   8 error(s) in 8 sitemap(s)
+   Items (5/8):
+    - /sitemap.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap_index.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap-index.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemaps.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+    - /sitemap1.xml (Unknown sitemap format) [errorCount: 1, errors: [&quot;Unknown sitemap format&quot;]]
+  </rule>
+  <rule id="crawl/canonical-chain" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/crawl/canonical-chain">
+   Page redirects before content is served
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (1):
+    - /blog/newsletter-introduction-examples/ (https://flodesk.com/blog/newsletter-introduction-examples (301) → https://flodesk.com/blog/newsletter-introduction-examples/ (200)) [finalUrl: https://flodesk.com/blog/newsletter-introduction-examples/, chain: {&quot;sourceUrl&quot;:&quot;https://flodesk.com/blog/newsletter-introduction-examples&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/newsletter-introduction-examples/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;https://flodesk.com/blog/newsletter-in…]
+  </rule>
+  <rule id="crawl/sitemap-coverage" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/crawl/sitemap-coverage">
+   1 indexable page(s) not in sitemap (100%)
+   Items (1):
+    - /blog/newsletter-introduction-examples
+  </rule>
+ </category>
+ <category name="Core SEO" errors="0" warnings="3">
+  <rule id="core/meta-description" severity="error" status="warn" docs="https://docs.squirrelscan.com/rules/core/meta-description">
+   Description too long
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (1):
+    - /blog/newsletter-introduction-examples/ (Nailing your newsletter introduction is essential. (161 chars))
+  </rule>
+  <rule id="core/og-tags" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/core/og-tags">
+   Missing og:image - social shares will lack imagery
+   Pages (1): /blog/newsletter-introduction-examples
+  </rule>
+  <rule id="core/twitter-cards" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/core/twitter-cards">
+   summary_large_image card requires an image
+   Pages (1): /blog/newsletter-introduction-examples
+  </rule>
+ </category>
+ <category name="Security" errors="0" warnings="6">
+  <rule id="security/leaked-secrets" severity="error" status="warn" docs="https://docs.squirrelscan.com/rules/security/leaked-secrets">
+   2 potential secret(s) detected (verify manually)
+   Items (2):
+    - Generic API Key Assignment: API_KE********************b27&apos; (Found in inline-script (https://flodesk.com/blog/newsletter-introduction-examples))
+    - Amplitude API Key: a20221********************1b27 (Found in inline-script (https://flodesk.com/blog/newsletter-introduction-examples))
+  </rule>
+  <rule id="security/csp" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/csp">
+   No Content-Security-Policy header
+  </rule>
+  <rule id="security/hsts" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/hsts">
+   Missing Strict-Transport-Security header
+  </rule>
+  <rule id="security/x-frame-options" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/x-frame-options">
+   No clickjacking protection
+  </rule>
+  <rule id="security/new-tab" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/new-tab">
+   12 external link(s) missing rel=&quot;noopener&quot;
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (5/12):
+    - https://twitter.com/intent/tweet?url=https://flodesk.com/blog/blog/newsletter-introduction-examples/&amp;text=How To Write An Effective Newsletter Introduction (With 10 Examples)&amp;via=&amp;hastags=
+    - https://www.facebook.com/sharer.php?display=page&amp;u=https://flodesk.com/blog/blog/newsletter-introduction-examples/
+    - https://www.linkedin.com/sharing/share-offsite/?url=https://flodesk.com/blog/blog/newsletter-introduction-examples/
+    - https://app.flodesk.com/sign-up
+    - http://twitter.com/home/?status=How To Write An Effective Newsletter Introduction (With 10 Examples) - /blog/newsletter-introduction-examples/
+  </rule>
+  <rule id="security/http-to-https" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/security/http-to-https">
+   2 HTTP URL(s) redirect to HTTPS
+   Items (2):
+    - http://flodesk.com/ (http://flodesk.com/ → https://flodesk.com/ (301)) [statusCode: 301, chain: {&quot;sourceUrl&quot;:&quot;http://flodesk.com/&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;http://flodesk.com/&quot;,&quot;statusCode&quot;:301,&quot;type&quot;:&quot;http&quot;},{&quot;url&quot;:&quot;https://flodesk.com/&quot;,&quot;statusCode&quot;:200,&quot;type&quot;:&quot;http&quot;}…]
+    - http://flodesk.com/blog/newsletter-introduction-examples (http://flodesk.com/blog/newsletter-introduction-examples → https://flodesk.com/blog/newsletter-introduction-examples/ (301)) [statusCode: 301, chain: {&quot;sourceUrl&quot;:&quot;http://flodesk.com/blog/newsletter-introduction-examples&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/newsletter-introduction-examples/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;http://flodesk.com/blog/newsletter-intr…]
+  </rule>
+ </category>
+ <category name="Links" errors="0" warnings="4">
+  <rule id="links/broken-external-links" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/broken-external-links">
+   2 broken external link(s): 1 with 520, 1 with 500
+   Items (2):
+    - http://twitter.com/home/?status=How%20To%20Write%20An%20Effective%20Newsletter%20Introduction%20(With%2010%20Examples)%20-%20/blog/newsletter-introduction-examples/ (http://twitter.com/home/?status=How%20To%20Write%20An%20Effective%20Newsletter%20Introduction%20(With%2010%20Examples)%20-%20/blog/newsletter-introduction-examples/ (520)) [status: 520] (from: /blog/newsletter-introduction-examples, /blog/newsletter-introduction-examples)
+    - http://www.facebook.com/sharer.php?u=/blog/newsletter-introduction-examples/&amp;t=How%20To%20Write%20An%20Effective%20Newsletter%20Introduction%20(With%2010%20Examples) (http://www.facebook.com/sharer.php?u=/blog/newsletter-introduction-examples/&amp;t=How%20To%20Write%20An%20Effective%20Newsletter%20Introduction%20(With%2010%20Examples) (500)) [status: 500] (from: /blog/newsletter-introduction-examples, /blog/newsletter-introduction-examples)
+  </rule>
+  <rule id="links/https-downgrade" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/https-downgrade">
+   9 link(s) downgrade to HTTP
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (5/9):
+    - http://twitter.com/home/?status=How To Write An Effective Newsletter Introduction (With 10 Examples) - /blog/newsletter-introduction-examples/
+    - http://www.facebook.com/sharer.php?u=/blog/newsletter-introduction-examples/&amp;t=How To Write An Effective Newsletter Introduction (With 10 Examples)
+    - http://www.linkedin.com/shareArticle?mini=true&amp;title=How To Write An Effective Newsletter Introduction (With 10 Examples)&amp;url=/blog/newsletter-introduction-examples/
+    - http://www.wayfarerdesignstudio.com/
+    - http://twitter.com/home/?status=How To Write An Effective Newsletter Introduction (With 10 Examples) - /blog/newsletter-introduction-examples/
+  </rule>
+  <rule id="links/anchor-text" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/anchor-text">
+   9 link(s) have empty anchor text
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (5/9):
+    - https://twitter.com/intent/tweet?url=https://flodesk.com/blog/blog/newsletter-introduction-examples/&amp;text=How To Write An Effective Newsletter Introduction (With 10 Examples)&amp;via=&amp;hastags= | &lt;a class=&quot;social-link&quot; href=&quot;https://twitter.com/intent/tweet?url=https://flodesk.com/blog/blog/newsletter-introduction-...
+    - https://www.facebook.com/sharer.php?display=page&amp;u=https://flodesk.com/blog/blog/newsletter-introduction-examples/ | &lt;a class=&quot;social-link&quot; href=&quot;https://www.facebook.com/sharer.php?display=page&amp;u=https://flodesk.com/blog/blog/newsletter...
+    - https://www.linkedin.com/sharing/share-offsite/?url=https://flodesk.com/blog/blog/newsletter-introduction-examples/ | &lt;a class=&quot;social-link&quot; href=&quot;https://www.linkedin.com/sharing/share-offsite/?url=https://flodesk.com/blog/blog/newslette...
+    - http://twitter.com/home/?status=How To Write An Effective Newsletter Introduction (With 10 Examples) - /blog/newsletter-introduction-examples/ | &lt;a class=&quot;social-link&quot; href=&quot;http://twitter.com/home/?status=How To Write An Effective Newsletter Introduction (With 10 ...
+    - http://www.facebook.com/sharer.php?u=/blog/newsletter-introduction-examples/&amp;t=How To Write An Effective Newsletter Introduction (With 10 Examples) | &lt;a class=&quot;social-link&quot; href=&quot;http://www.facebook.com/sharer.php?u=/blog/newsletter-introduction-examples/&amp;t=How To Write...
+  </rule>
+  <rule id="links/redirect-chains" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/links/redirect-chains">
+   1 page(s) redirect to another URL
+   Items (1):
+    - /blog/newsletter-introduction-examples (https://flodesk.com/blog/newsletter-introduction-examples (301) → https://flodesk.com/blog/newsletter-introduction-examples/ (200)) [targetUrl: https://flodesk.com/blog/newsletter-introduction-examples/, chain: {&quot;sourceUrl&quot;:&quot;https://flodesk.com/blog/newsletter-introduction-examples&quot;,&quot;finalUrl&quot;:&quot;https://flodesk.com/blog/newsletter-introduction-examples/&quot;,&quot;hops&quot;:[{&quot;url&quot;:&quot;https://flodesk.com/blog/newsletter-in…]
+  </rule>
+ </category>
+ <category name="Images" errors="2" warnings="2">
+  <rule id="images/image-file-size" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/images/image-file-size">
+   1 image(s) exceed 1.0 MB; 3 image(s) exceed 200.0 KB
+   Items (4):
+    - /blog/wp-content/uploads/2021/08/image-2.png [sizeBytes: 3305886, size: 3.2 MB, status: 200, contentType: image/png] (from: /blog/newsletter-introduction-examples)
+    - /blog/wp-content/uploads/2021/08/Flodesk_Blog_Newsletter_Inline11_AM-Collectives-sharing-expertise-and-value-at-the-top.png [sizeBytes: 588033, size: 574.3 KB, status: 200, contentType: image/png] (from: /blog/newsletter-introduction-examples)
+    - /blog/wp-content/uploads/2022/10/imgcard-write.png [sizeBytes: 488494, size: 477.0 KB, status: 200, contentType: image/png] (from: /blog/newsletter-introduction-examples)
+    - /blog/wp-content/uploads/2022/01/Device02-Realistic.jpg [sizeBytes: 746308, size: 728.8 KB, status: 200, contentType: image/jpeg] (from: /blog/newsletter-introduction-examples)
+  </rule>
+  <rule id="images/alt-text" severity="warning" status="fail" docs="https://docs.squirrelscan.com/rules/images/alt-text">
+   13 image(s) missing alt text
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (5/13):
+    - /blog/wp-content/uploads/2022/08/Blog_Template_Inline03.jpg
+    - /blog/wp-content/uploads/2021/08/Flodesk_Blog_Newsletter_Inline04_Myrtles-irresistible-sense-of-style-.png
+    - /blog/wp-content/uploads/2021/08/Flodesk_Blog_Newsletter_Inline05_Nutriciouslys-mouth-watering-summer-recipes.png
+    - /blog/wp-content/uploads/2021/08/Flodesk_Blog_Newsletter_Inline06_An-Indigo-Days-chic-freebie.png
+    - /blog/wp-content/uploads/2021/08/Flodesk_Blog_Newsletter_Inline07_DAna-Jois-inviting-photo-and-tone.png
+  </rule>
+  <rule id="images/svg-inline" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/images/svg-inline">
+   2 large inline SVG(s) (&gt;4KB each)
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (1):
+    - /blog/newsletter-introduction-examples (2 large inline SVG(s) (&gt;4KB each))
+  </rule>
+ </category>
+ <category name="Performance" errors="1" warnings="5">
+  <rule id="perf/js-file-size" severity="error" status="warn" docs="https://docs.squirrelscan.com/rules/perf/js-file-size">
+   1 JS file(s) exceed 250.0 KB
+   Items (1):
+    - /blog/wp-content/themes/seachange-flodesk-wp/dist/main.js?ver=1765442095 [sizeBytes: 360091, size: 351.7 KB, status: 200, contentType: application/javascript] (from: /blog/newsletter-introduction-examples)
+  </rule>
+  <rule id="perf/dom-size" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/dom-size">
+   Element with 130 children found
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (1):
+    - /blog/newsletter-introduction-examples (Element with 130 children found)
+  </rule>
+  <rule id="perf/total-byte-weight" severity="warning" status="fail" docs="https://docs.squirrelscan.com/rules/perf/total-byte-weight">
+   Total tracked resources: 6890KB (very heavy)
+  </rule>
+  <rule id="perf/critical-request-chains" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/critical-request-chains">
+   4 critical request chain(s) found
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (4):
+    - CSS: /blog/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.8
+    - CSS: /blog/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5
+    - CSS: /blog/wp-content/themes/seachange-flodesk-wp/dist/screen.css?ver=1765442095
+    - JS: https://transcend-cdn.com/cm/b022c246-e40c-4b32-b749-35faaa65cbe9/airgap.js
+  </rule>
+  <rule id="perf/unminified-js" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/unminified-js">
+   2 JavaScript file(s) appear unminified
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (2):
+    - inline script (2.6KB, ~0.3KB savings) [reason: high newlines (1.98%), formatted code, excessive whitespace]
+    - main.js (351.7KB, ~229.7KB savings) [reason: 12 comments]
+  </rule>
+  <rule id="perf/cache-headers" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/perf/cache-headers">
+   No caching headers found
+   Pages (1): /blog/newsletter-introduction-examples
+  </rule>
+ </category>
+ <category name="Accessibility" errors="4" warnings="7">
+  <rule id="a11y/button-name" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/button-name">
+   Buttons without accessible names
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (2):
+    - button.close-btn
+    - button.toc-close-btn
+  </rule>
+  <rule id="a11y/aria-command-name" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/aria-command-name">
+   11 command element(s) without accessible names
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (5/10):
+    - button[type=&quot;submit&quot;]
+    - button[type=&quot;submit&quot;]
+    - a[href=&quot;https://twitter.com/intent/twe...&quot;]
+    - a[href=&quot;https://www.facebook.com/share...&quot;]
+    - a[href=&quot;https://www.linkedin.com/shari...&quot;]
+  </rule>
+  <rule id="a11y/aria-labels" severity="error" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/aria-labels">
+   2 button(s) without accessible names
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (2):
+    - close-btn
+    - toc-close-btn
+  </rule>
+  <rule id="a11y/color-contrast" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/color-contrast">
+   4 potential color contrast issue(s)
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (4):
+    - a: #ffffff on #3a77ed (4.17:1)
+    - button: #3a77ed on #ffffff (4.17:1)
+    - White text (verify background): 6 instance(s)
+    - Very light text color: 6 instance(s)
+  </rule>
+  <rule id="a11y/landmark-one-main" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/landmark-one-main">
+   Page has no main landmark
+   Pages (1): /blog/newsletter-introduction-examples
+  </rule>
+  <rule id="a11y/heading-order" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/heading-order">
+   1 heading level skip(s) detected
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (1):
+    - H3 after H1
+  </rule>
+  <rule id="a11y/identical-links-same-purpose" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/identical-links-same-purpose">
+   1 link text(s) lead to different destinations
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (1):
+    - &quot;categories&quot; → 2 different URLs
+  </rule>
+  <rule id="a11y/link-text" severity="warning" status="fail" docs="https://docs.squirrelscan.com/rules/a11y/link-text">
+   9 link(s) with no accessible text; 2 link(s) with generic text
+   Pages (1): /blog/newsletter-introduction-examples
+   Items (5/10):
+    - https://twitter.com/intent/tweet?url=https://flode (svg-no-name)
+    - https://www.facebook.com/sharer.php?display=page&amp;u (svg-no-name)
+    - https://www.linkedin.com/sharing/share-offsite/?ur (svg-no-name)
+    - http://twitter.com/home/?status=How To Write An Ef (svg-no-name)
+    - http://www.facebook.com/sharer.php?u=/blog/newslet (svg-no-name)
+  </rule>
+  <rule id="a11y/skip-link" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/skip-link">
+   No bypass mechanism for repetitive content
+   Pages (1): /blog/newsletter-introduction-examples
+  </rule>
+  <rule id="a11y/landmark-regions" severity="info" status="warn" docs="https://docs.squirrelscan.com/rules/a11y/landmark-regions">
+   No &lt;main&gt; landmark found
+   Pages (1): /blog/newsletter-introduction-examples
+  </rule>
+ </category>
+ <category name="E-E-A-T" errors="0" warnings="5">
+  <rule id="eeat/about-page" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/about-page">
+   No About page found
+  </rule>
+  <rule id="eeat/author-byline" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/author-byline">
+   No content pages have author attribution
+  </rule>
+  <rule id="eeat/contact-page" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/contact-page">
+   No Contact page found
+  </rule>
+  <rule id="eeat/privacy-policy" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/privacy-policy">
+   No Privacy Policy page found
+  </rule>
+  <rule id="eeat/content-dates" severity="warning" status="warn" docs="https://docs.squirrelscan.com/rules/eeat/content-dates">
+   No content pages have datePublished
+  </rule>
+ </category>
+</issues>
+</audit>

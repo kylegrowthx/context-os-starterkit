@@ -1,0 +1,1420 @@
+# Marcel Demos Personal Output system
+
+<metadata>
+date: 2026-02-19
+time: 19:00 UTC
+duration: 68 minutes
+organizer: ben@growthx.ai
+participants:
+  - name: Daniel Lopes
+    email: daniel@growthx.ai
+    company: GrowthX
+  - name: Marcel Santilli
+    email: marcel@growthx.ai
+    company: GrowthX
+  - name: Clint Shryock
+    email: clint@growthx.ai
+    company: GrowthX
+  - name: Stéfano Zanata
+    email: stefano@growthx.ai
+    company: GrowthX
+  - name: Ben Church
+    email: ben@growthx.ai
+    company: GrowthX
+fathom_recording_id: 123824777
+fathom_url: https://fathom.video/calls/572378221
+share_url: https://fathom.video/share/_LFZxkDosmFQfjWT1xFev2HQzk1UVg1a
+source: fathom
+enriched_on: 2026-02-27T19:45:00Z
+</metadata>
+
+---
+
+## Summary
+
+Marcel demonstrated his personal file-system-based AI productivity system that enables 10x faster completion of knowledge work tasks like sales reports and coaching notes through dynamic context management and reusable workflows. The team discussed how this validates a new "plain text engineer" archetype and identified critical features needed to scale these reproducible pipelines—including a workflow registry, flexible I/O, and a global API—with immediate focus on core infrastructure (Sentry, cost tracking) before tackling this vision.
+
+---
+
+## Context
+
+Marcel has been using AI heavily for company work and external coaching (including coaching Zaina, VP of Marketing at Bridge/Stripe), and discovered that static project context files in Claude become outdated quickly when information changes in Notion. This led him to build a dynamic, file-system-based system using Cursor and Co-work that keeps context fresh by managing only session-relevant files and versioning all documentation through GitHub. Over the past few weeks, he expanded this into a compounding knowledge engine with structured folders for identity (Voice, Roles, Personal), ingested records (meeting transcripts, HubSpot data), and a pipeline for deep research (research → scratchpad → outputs → knowledge). The system now powers his personal productivity, enabling him to complete complex multi-step tasks (sales pipeline reports, coaching notes, user manuals) in a single prompt—tasks that previously took the team two hours. The team sees this as validation that the Output framework's file-system-based approach can work for non-technical users, and Ben Church forced this demo because he was impressed by the sophistication of the workflow structure and output quality.
+
+---
+
+## Relevance
+
+**Product Strategy & Framework Validation**
+- Confirms the file-system-based approach works for non-technical users (CMOs, marketers, coaches reaching out to learn the system)
+- Validates demand for "plain text engineer" workflows—Marcel is already teaching this as a workshop
+
+**Output / Workflow Features**
+- Identifies gap between Output as a server-based workflow tool and personal use cases (workflows that run locally, for individuals or small teams)
+- Deep research is where Output stands out vs. competitors—manual reasoning through sources, evaluator consistency, offline evaluation
+- Future features needed: workflow registry (packaging and publishing reproducible "micro-apps"), flexible I/O (local files + external APIs), global API for plug-and-play integration
+
+**New User Archetype**
+- Ben coins "plain text engineer"—non-developers who approach AI projects like engineers (data storage, versioning, debugging)
+- Daniel notes similar 6–12 month journey; sees role opportunity for "automations engineer" (Sergey, Tammy as examples of marketers/copywriters learning to code via Cursor/Claude)
+- Stéfano sees evaluation as key blocker: Marcel's outputs stay consistent because he curates voice/persona; workflows need quality assurance mechanisms
+
+**Immediate Roadmap**
+- Prioritize core features (Sentry, cost tracking, basic evaluation) for next release
+- Defer "micro-app registry" and global API; treat this as learning for future primitives
+- Daniel suggests GitHub starter template + wrapper APIs as near-term support for Marcel's workshops
+
+---
+
+## Overview
+
+- **10x Productivity:** Marcel's personal AI system, built on a highly curated file structure, enables single-prompt, multi-step tasks (e.g., sales reports, coaching notes) that are "legit perfect."
+- **New User Archetype:** The system validates the emergence of a "plain text engineer" archetype—a non-developer with an engineering mindset who uses AI to build complex, reproducible pipelines.
+- **Framework Validation:** The system confirms the framework's file-system-based approach is viable for non-technical users. The key challenge is packaging these complex, reproducible pipelines into shareable "micro-apps" for a broader audience.
+- **Immediate Focus:** The team will prioritize core features (Sentry, cost tracking) for the upcoming release. Future work will focus on a workflow registry, flexible I/O, and a global API to support this new user archetype.
+
+---
+
+## Key Topics
+
+### Marcel's Personal AI System
+
+  - **Core Problem:** Standard AI projects fail due to static context files that quickly become outdated.
+  - **Solution:** A dynamic, file-system-based system in Cursor/Claude Co-work that uses GitHub for version control.
+  - **Architecture:**
+      - **Context Folder:** Stores core identity files (Voice, Roles, Personal) that are versioned and archived.
+      - **Records Folder:** Ingests raw data (meeting transcripts, HubSpot downloads).
+      - **Pipeline Folder:** A multi-stage process for deep research:
+          - `research` → `scratchpad` (raw notes) → `outputs` (study guide) → `knowledge` (polished doc).
+  - **Automation & Maintenance:**
+      - **Skills:** Automate repetitive tasks (e.g., pulling meetings, processing transcripts, updating file metadata).
+      - **Rules:** Ensure consistent file naming and automatically update `README.md` and `index.md` files after each run.
+      - **`README.md`:** Kept under 60 lines for efficient agent guidance.
+  - **Demonstrated Capabilities:**
+      - **Sales Pipeline Report:** Pulled meeting transcripts, queried HubSpot for deal changes, and posted a perfect pipeline update to Slack—a task that previously took the team two hours.
+      - **Sales Coaching Notes:** Generated targeted coaching notes for a colleague by analyzing their meeting transcripts and comparing them to Marcel's sales style.
+      - **Personal User Manual:** Created a complete user manual by combining a self-psychoanalysis (from transcripts) with a study guide on writing user manuals.
+
+### Implications for the Framework
+
+  - **Validation:** The system confirms the framework's file-system-based approach is effective for non-technical users.
+  - **New User Archetype:** The system validates the emergence of a "plain text engineer," who faces familiar engineering challenges (data storage, versioning, debugging) but uses AI and plain text files as their primary tools.
+  - **Future Features:** The discussion identified key features needed to support this archetype:
+      - **Workflow Registry:** To package and share reproducible pipelines as "micro-apps."
+      - **Flexible I/O:** To enable workflows to read from and write to local files or external services.
+      - **Global API:** To provide a scalable, plug-and-play interface for framework services.
+      - **Advanced Evaluation:** To ensure consistent output quality (e.g., voice, persona) using offline evaluation.
+  - **Immediate Roadmap:** The team agreed to prioritize core features (Sentry, cost tracking) for the upcoming release, deferring these future-looking features.
+
+---
+
+## Action Items
+
+**Daniel Lopes (GrowthX)**
+- Schedule global API design session w/ Stéfano, Ben, Clint — global API needed to support plain-text engineer workflows
+
+**Stéfano Zanata (GrowthX)**
+- Schedule follow-up chat w/ Ben, Clint re: workflow registry, evaluation, and micro-app deployment concepts
+
+---
+
+## Transcript
+
+**Ben Church:** I forced this one because when you showed me your workflow, it was wild and impressive. Like you had multiple step processing and I just thought everyone's got to see what Marcel put together here because it's really cool.
+
+**Marcel Santilli:** Well, I'm excited because it's been like, I've been using it a lot and it's truly, I feel like I 10x my, you know, my approach or like kind of like my personal productivity.
+
+**Marcel Santilli:** And so let me walk y'all through, there's a couple of things that I'll walk you through.
+
+**Marcel Santilli:** Um, the, the first one is kind of like how it started and, and, and so, and then, um, the second one would be like the starter category, but that was just like last night.
+
+**Marcel Santilli:** Um, but, but just to give everybody context a little bit.
+
+**Marcel Santilli:** So as I've been using AI quite heavily, one of the biggest struggles is when you.
+
+**Marcel Santilli:** If go into, let's say, Claude, and you start a new chat, what we started to do back in the day for our customers and things like that is I would create these projects, right?
+
+**Marcel Santilli:** And then these projects would have some files here, you know?
+
+**Marcel Santilli:** And then over time, the documentations on how our products work or how our company works changes in Notion, right?
+
+**Marcel Santilli:** And then, but then these files, it's just like, it's too overwhelming.
+
+**Marcel Santilli:** Like, there's no way I'm going to click on this file and then, like, copy and paste this into another chat and say, hey, can you update this?
+
+**Marcel Santilli:** And then come back, delete this, and add a new one, right?
+
+**Marcel Santilli:** Like, that's just, like, dumb, right?
+
+**Marcel Santilli:** It's just too much, right?
+
+**Marcel Santilli:** And then what I started to notice is, like, if I just took a new chat in Claude and fed it the, like, context fresh, like, how I wanted it, and only the stuff I needed it for that session and didn't do it in a project, it was substantially better.
+
+**Marcel Santilli:** So that was, like, the first kind of aha to me, right?
+
+**Marcel Santilli:** Like, and also studying context.
+
+**Marcel Santilli:** Engineering a little bit.
+
+**Marcel Santilli:** It was like, projects suck.
+
+**Marcel Santilli:** They're not going to be as good, right?
+
+**Marcel Santilli:** And so, but then a few weeks back, so then Cowork came out.
+
+**Marcel Santilli:** And then Cowork is pretty interesting because it works on a file system as well, right?
+
+**Marcel Santilli:** So I said, okay, now it's time.
+
+**Marcel Santilli:** I should just go and spend the time to just curate my project, right?
+
+**Marcel Santilli:** But at the time when I did this, which is like two, three weeks ago, I was already way, way more familiar with everything because I had been like essentially like Vibe coding prototypes for products and for other things, right?
+
+**Marcel Santilli:** Like, so I had already like gotten over the hump of like non-developer looking at GitHub and going, what the hell is this?
+
+**Marcel Santilli:** Or like, you know, like essentially the stuff you've all been staring at for 20 years, 10 years, it's like natural to you.
+
+**Marcel Santilli:** Like for non-developers is scary.
+
+**Marcel Santilli:** It's like, what the hell is this?
+
+**Marcel Santilli:** What is this supposed to be?
+
+**Marcel Santilli:** Right?
+
+**Marcel Santilli:** So then like what I started to do was create this kind of like compounding engine, right?
+
+**Marcel Santilli:** So what I did was like, I went and started doing a ton of deep research.
+
+**Marcel Santilli:** And started to, like, document, like, best practices around, like, context engineering and a bunch of things, right?
+
+**Marcel Santilli:** Like, and then I did some deep research using Cloud.
+
+**Marcel Santilli:** And this is all through Furster and Cloud Code on, like, best practices around context engineering, around, like, what people are saying, how they set up their Cloud Code and their projects for knowledge work, for non-development, like, projects.
+
+**Marcel Santilli:** And then I took all of that information, right?
+
+**Marcel Santilli:** And then in the process of doing all this information, I started to shape this project, essentially, you know?
+
+**Marcel Santilli:** So let me walk you through how this project is set up.
+
+**Marcel Santilli:** And I'll try to explain along the way the evolution of how I got here and, like, and why it's working really well.
+
+**Marcel Santilli:** But this is kind of, like, how my brain works a little bit.
+
+**Marcel Santilli:** So it was mostly that, right?
+
+**Marcel Santilli:** So the, one of the first things I did was, based on the research on kind of the best way to set
+
+**Marcel Santilli:** I like, you know, context engineering first, and then, like, how to set up these projects.
+
+**Marcel Santilli:** I asked CloudCode to essentially help me figure out the structure.
+
+**Marcel Santilli:** But then I also asked them to do a ton of research on how to keep this compatible with both, like, cursor and CloudCode, you know, in parallel.
+
+**Marcel Santilli:** So there's, like, a few nuances.
+
+**Marcel Santilli:** And then what I had learned along the way from Daniel and others was just, like, hey, you should just really do a readme for every directory, right?
+
+**Marcel Santilli:** So as I started to build this, I started doing, like, a readme for everything.
+
+**Marcel Santilli:** And then I was like, you know what, like, this thing is going to get gnarly, so I'm also going to start to do, like, an index file for every folder, right?
+
+**Marcel Santilli:** And so it started to evolve.
+
+**Marcel Santilli:** So I'll walk you through the big picture of how it is today, and hopefully that's helpful.
+
+**Marcel Santilli:** But at a big picture, what we have is there's, like, your agent setting, stuff like that.
+
+**Marcel Santilli:** And then there's, like, the context.
+
+**Marcel Santilli:** So the context, I kind of broke it down into voice and roles and performance.
+
+**Marcel Santilli:** Personal, right?
+
+**Marcel Santilli:** And so voice was one of the first ones I did.
+
+**Marcel Santilli:** And it was taking, had some notes on how I liked my voice to be.
+
+**Marcel Santilli:** And so I processed it and did a few things.
+
+**Marcel Santilli:** And so I created a V1.
+
+**Marcel Santilli:** And then as I was starting to, I noticed like now, Daniel, think you do this, right?
+
+**Marcel Santilli:** Like the V1 styling.
+
+**Marcel Santilli:** So I said, okay, I created a skill to then say, hey, here's how I want my naming style to be.
+
+**Marcel Santilli:** And I'm also going to create an archive folder so that when there's a new version, I want you to move the previous version there that I want to save, right?
+
+**Marcel Santilli:** Because like if I ever want to do something where I want to test like three different versions at the same time, I can just ask an agent to use these three files separately, right?
+
+**Marcel Santilli:** And what you notice is like everywhere there is a readme and the readme is super, super thin.
+
+**Marcel Santilli:** And then it has a very short description.
+
+**Marcel Santilli:** So this was like based on a lot of the best practices guide on like, don't, don't overwhelm it.
+
+**Marcel Santilli:** Just help guide the agent on where to go deeper in.
+
+**Marcel Santilli:** And where to, you know, like just make the agent's life way effing easier, right?
+
+**Marcel Santilli:** And you can see everything is like a single sentence kind of thing, right?
+
+**Marcel Santilli:** And then also there's the human readable index on everything.
+
+**Marcel Santilli:** This folder doesn't have a lot of files, but the folders that have a ton of files, there's a skill and a rule after anything happens in any folder to update the readme and update the index automatically as well at the end of the run, right?
+
+**Marcel Santilli:** And so like then essentially like as hopefully you start to see like as it's going through, like I'm developing like rules and skills along the way, right?
+
+**Marcel Santilli:** So that essentially like it makes the maintenance and cleanup of this context project like way, way, way easier, right?
+
+**Marcel Santilli:** So then like this is an example of like my voice, but because this got so good, now like everything is written in this voice and in this approach and it's just like so effing spot on, right?
+
+**Marcel Santilli:** Um, it's so spot on that this entire new handbook that I built for us is like all written in this way and it's like, I've
+
+**Marcel Santilli:** I'm like, okay, I need to create this, right?
+
+**Marcel Santilli:** Which is a role.
+
+**Marcel Santilli:** So then what I started to do was to create a system for deep research.
+
+**Marcel Santilli:** And so the system for deep research started with me taking our research supervisor workflow and then decomposing it into like a simpler process that wasn't so heavy just because, you know, I didn't want to do the 30 minute version.
+
+**Marcel Santilli:** And I also wanted to use like co-work and co-work that can fetch like a thousand sources now and it's pretty much free with your subscription.
+
+**Marcel Santilli:** And so it's like, it's the ultimate hash.
+
+**Marcel Santilli:** Like it's really high quality and it's really good with the context, right?
+
+**Marcel Santilli:** So, so then what I built was like this, the skill of like, let me pull it up here in cursor.
+
+**Marcel Santilli:** It's called like research to study guide.
+
+**Marcel Santilli:** And so I essentially created this whole process to go from an input to then a working file.
+
+**Marcel Santilli:** And then the work file is like a scratch pad where it's just like, as it's doing research, it's just taking notes along the way.
+
+**Marcel Santilli:** It miss any details to then like an output and that then I can turn it into a study guide later, right?
+
+**Marcel Santilli:** And so this all, and I'll show you an output from this, right?
+
+**Marcel Santilli:** There's essentially like a pipeline and the pipeline is like research scratchpad and outputs, right?
+
+**Marcel Santilli:** And it's kind of like gradually refining it.
+
+**Marcel Santilli:** And then from outputs, I can turn it into like a legit document or something that's more polished, right?
+
+**Marcel Santilli:** Like with more intervention, you know?
+
+**Marcel Santilli:** So this just allows me to, if I go into like cloud co-work, I can essentially start a new session and do an insane amount of deep research.
+
+**Marcel Santilli:** And I can just give it like a very short prompt on like research this topic and it does everything else for me, essentially, you know?
+
+**Marcel Santilli:** So let me give you an example of a session that I did this.
+
+**Marcel Santilli:** I said, hey, let's look at growthx and it had all the docs already.
+
+**Marcel Santilli:** And I want you to...
+
+**Marcel Santilli:** Come up with like a TAM, SAM, SOM analysis and then put it in research, right?
+
+**Marcel Santilli:** And it went and it looked at like hundreds of sources and the output was so freaking good and spot on because it already had all the scaffolding, all the context and you had to navigate the context.
+
+**Marcel Santilli:** So a  prompt turned into like a one shot or two shot, like 90% there and written how I like to be written and consuming information, right?
+
+**Marcel Santilli:** But where, and then I'll shut up here, but like where this thing started to get like really, really powerful is like as I'm running these things, I started to add like MCP servers, right?
+
+**Marcel Santilli:** So for instance, like I got an MCP server for HubSpot and now, and then another one for Fireflies.
+
+**Marcel Santilli:** So as I started to do that, I was like, okay, I need a place to put all these records, right?
+
+**Marcel Santilli:** So then I created a folder for records.
+
+**Marcel Santilli:** So then records is like all the transcripts that I'm pulling.
+
+**Marcel Santilli:** Any downloads and any, like, customer records that I want to process and use, you know?
+
+**Marcel Santilli:** And so the transcripts, like, I pulled a transcript and then I'm like, okay, let me pull a meeting.
+
+**Marcel Santilli:** And then I created a skill for pulling a meeting.
+
+**Marcel Santilli:** And then that skill pulls the meeting and then processes it, creates the metadata, summarizes it, adds a bunch of contacts, names the file correctly, updates the index, updates the readme, right?
+
+**Marcel Santilli:** And it's just, like, the whole thing.
+
+**Marcel Santilli:** And now, like, I'm able to do something like this, which I was showing somebody earlier today, where I went and I said, hey, I want to pull meeting, find sales meetings with Tyler in the last seven days that I'm not in it.
+
+**Marcel Santilli:** And it pulled all of these.
+
+**Marcel Santilli:** And then I said, okay, cool, now process all of these.
+
+**Marcel Santilli:** And it processed all of them.
+
+**Marcel Santilli:** And then I went in here and I said, hey, go into HubSpot and give me an update on changes in open deals.
+
+**Marcel Santilli:** And then write a report.
+
+**Marcel Santilli:** And then post it in the sales channel.
+
+**Marcel Santilli:** And then it went into the sales channel and it literally like posted this perfect pipeline update, which by the way, like we have a meeting every single week and the team spends probably two hours pulling this together, you know.
+
+**Marcel Santilli:** But because of all the context it has, I can do things like this where it's like, hey, go into HubSpot MCP and tell me how like the objects are set up or deals.
+
+**Marcel Santilli:** Okay, cool.
+
+**Marcel Santilli:** Now write me a guide that explains how this is set up.
+
+**Marcel Santilli:** And okay, cool.
+
+**Marcel Santilli:** Like, and then I put in a wrote the entire guide.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** And then save to knowledge under HubSpot deal object reference.
+
+**Marcel Santilli:** So then I can do this and then I'll turn it into a handbook guide that now has a reference on how our go-to-market systems are set up.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Or, or another one here is like, I, let me show you this other one.
+
+**Marcel Santilli:** So after I pulled all these meetings, I, um, I asked it to.
+
+**Marcel Santilli:** Essentially write notes for Tyler on kind of how I do things in sales and then compare it to how he does sales and then give him some coaching notes, right?
+
+**Marcel Santilli:** And I just did this morning as a demo.
+
+**Marcel Santilli:** And so here you go, sales notes.
+
+**Marcel Santilli:** And this is based on the last seven days of meetings with Tyler that I wasn't in and all the meetings he had with me that I was doing that was sales related.
+
+**Marcel Santilli:** And this was just like one shot prompt, right?
+
+**Marcel Santilli:** And so it's like, here's what Marcel does in the marketing sales.
+
+**Marcel Santilli:** And it's like so spot on.
+
+**Marcel Santilli:** And it's so good.
+
+**Marcel Santilli:** Like I read it.
+
+**Marcel Santilli:** It's like so, so, so good.
+
+**Marcel Santilli:** You know, like essentially like it's coaching notes for Tyler in one prompt with perfect context and everything else.
+
+**Marcel Santilli:** And the only reason this is so good is because like I spend now 100 hours curating this context and organizing in the right way and processing it on the right ways.
+
+**Marcel Santilli:** And now it's just like, I feel like I I'm on steroids or I feel like, you know, it's like a 10x thing, you know, and I can tell you the areas where like like I'm
+
+**Marcel Santilli:** Places here.
+
+**Marcel Santilli:** You have context.
+
+**Marcel Santilli:** You have the pipeline where it's like doing research and studying guides and things like that.
+
+**Marcel Santilli:** And then once it's ready, I move it over to knowledge.
+
+**Marcel Santilli:** And then knowledge, I start to organize.
+
+**Marcel Santilli:** And then docs becomes like true reference guides that then can be publicly facing.
+
+**Marcel Santilli:** It's kind of, again, like the words might not be the best words to use or whatever, but this is like the way I work.
+
+**Marcel Santilli:** And then context are things that I like constantly reference, which is like mostly like voice, roles, and personal context.
+
+**Marcel Santilli:** I'll give you one more example of like how this worked.
+
+**Marcel Santilli:** So I took the role of the personal coach, performance coach, and then I took my writing style, and then I did deep research on like on both of those.
+
+**Marcel Santilli:** And then I asked it to go through my last 30 days of transcript and psychoanalyze the  out of me.
+
+**Marcel Santilli:** And it built literally like the best psychoanalyze.
+
+**Marcel Santilli:** Psychological analysis on me.
+
+**Marcel Santilli:** And it's so small.
+
+**Marcel Santilli:** It's only from transcript.
+
+**Marcel Santilli:** I didn't give him any personal details about my life.
+
+**Marcel Santilli:** But it's so, so good.
+
+**Marcel Santilli:** And then I did a guide on user guides.
+
+**Marcel Santilli:** So I did a study guide on user guides based on the research, right?
+
+**Marcel Santilli:** So user guides are like, or user manuals is like, how do people that are famous for doing this, how do they write a user manual on themselves, right?
+
+**Marcel Santilli:** And so I did an entire study guide on this.
+
+**Marcel Santilli:** And you can see like, hey, mental models, like how they think about it, the framework for building your user manual.
+
+**Marcel Santilli:** It's really, really good.
+
+**Marcel Santilli:** So I'm actually reading this and learning as well along the way, right?
+
+**Marcel Santilli:** And then from there, then I said, okay, now go take my psychoanalysis and go take this study guide on how to build a user manual.
+
+**Marcel Santilli:** And now go build me a user manual.
+
+**Marcel Santilli:** And in the user manual, one shot, I have not added a single word here.
+
+**Marcel Santilli:** It is freaking amazing.
+
+**Marcel Santilli:** Like it is perfect.
+
+**Marcel Santilli:** It is legit perfect.
+
+**Marcel Santilli:** Like I would not have structure any better.
+
+**Marcel Santilli:** There's nothing here that's wrong whatsoever.
+
+**Marcel Santilli:** It is perfectly spot on, you know, like even now to like meeting preferences and it's all because along the way, when it's processing things and turning into study guides, it creates this raw scratch pad and it takes notes along the way and there's insight and think through.
+
+**Marcel Santilli:** And then the next step it thinks through and reasons.
+
+**Marcel Santilli:** And then it takes that and the raw notes and creates a study guide.
+
+**Marcel Santilli:** And then you can take the study guide plus all your context and then generate something else off of it.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** So anyways, there's like so much, right?
+
+**Marcel Santilli:** Like, and then all of this, I then took and created our entire handbook and including like things like a guide to context engineering, you know, like the elements of style or writing craft or this one was like based on Jason Cohen thing.
+
+**Marcel Santilli:** Like Max ARR that's based on churn and like a study guide on that, you know, and I started to, there's just like so much here, right?
+
+**Marcel Santilli:** Like I rewrote some of our product documentation on like vision, overview, like methodology, like it's just like compounds so much, you know?
+
+**Marcel Santilli:** And so anyways, that's kind of the high level, but that was a lot, but I think one of the biggest unlocks for non-technical people now is the fact that like you can start a new co-work task and just select now that folder and then everything just works, you know?
+
+**Marcel Santilli:** It just pulls the right files, it does everything, whereas like Cloud Projects, you can't do that.
+
+**Marcel Santilli:** And then the other thing also, both Cursor and Plaid now have coding agents on that, they're like virtual agents, as long as it's all synced to a GitHub repo, it can go and then.
+
+**Marcel Santilli:** Do a pull request, you know, virtually.
+
+**Marcel Santilli:** So it's like, even if I'm not on my computer and on my phone, I can now run those things virtually as well.
+
+**Marcel Santilli:** It's a little bit not perfect, you know, because sometimes it might modify way too many files, you know, like, but that's why you need a lot of rules, a lot of structure, you know, to do it.
+
+**Marcel Santilli:** And then the last quick thing I'll say is also, like, I capped the clot, that MED file, like, under 60.
+
+**Marcel Santilli:** Almost everything I read was, like, under, keep it under 60 lines, you know, so it's, it's, like, very, like, high level and basic, you know, and just to guide it.
+
+**Daniel Lopes:** I don't know, actually, like, I don't know if I fully believe what this research says on the CloudMD with the models changing, because it used to be like this.
+
+**Daniel Lopes:** Now on the main app, it has, on the OS, it has 15 other lines, and it's picking up all the details, right?
+
+**Marcel Santilli:** Yeah, so the way I architect, I don't know either, I just know that at whatever.
+
+**Marcel Santilli:** It's doing its work and it's really  good.
+
+**Marcel Santilli:** But my whole process was just like do a lot of breadcrumbing everywhere, you know, and then like approach ClaudeMD as the first 60 lines of your, you know, system prompt or prompt that then allows the agent to very quickly go figure out where to go next and then from there figure out what to load and then figure out what to load and what to load, right?
+
+**Daniel Lopes:** Yeah, that is the best practice.
+
+**Daniel Lopes:** But I did that on all of our repos on the code because we had a sprawl of like 20 different documents and folks are not maintaining the documents.
+
+**Daniel Lopes:** It's better to have like one gigantic 1,000 system prompt than five, like 50 smaller ones that are not properly maintained, you know.
+
+**Daniel Lopes:** At least a person can read the 1,000 lines and improve.
+
+**Daniel Lopes:** But if you have a system to improve everywhere, then it's better for sure.
+
+**Marcel Santilli:** Yeah, like that's the thing that I think.
+
+**Marcel Santilli:** And it's probably been the best thing is that like if you know things are going to drift and you don't create rules, skills, and processes to just like really maintain.
+
+**Marcel Santilli:** So every now and then I'll go like, hey, let's go in this repo and let's just clean  up.
+
+**Marcel Santilli:** Like what should I clean up here?
+
+**Marcel Santilli:** Hey, I have like 30 files here.
+
+**Marcel Santilli:** How should I reorganize this?
+
+**Marcel Santilli:** And then I go through a planning process to like clean it up, you know?
+
+**Marcel Santilli:** And so it's like, and like the planning and cleaning up and maintaining and steps of processing is just like so, so, so, so deep.
+
+**Marcel Santilli:** And it's where I spent most of the time.
+
+**Marcel Santilli:** But then because of that, when I'm doing like an insanely knowledge intensive process, like this coaching notes, which like took like dozens of meetings, processed it, figure out what deals were open.
+
+**Marcel Santilli:** And then, then like did all the stuff, like then it's one shot perfect, you know, and legit perfect, like, like not a single thing is off at all, you know?
+
+**Daniel Lopes:** I think like for us, for the work that the guys are doing short term.
+
+**Daniel Lopes:** Like, this stuff that Marcel is showing, it's not uncommon for, like Mario is doing the same, there's like a bunch of people doing the same.
+
+**Daniel Lopes:** So like the people that we used to think of, they're non-technical, they're crossing the bridge and like much faster than we expected.
+
+**Daniel Lopes:** So like the conversation that we had like in August, where we had the clear split of like, oh, here's going to do a web app and here, because folks cannot use VS code or cursor and things like that.
+
+**Daniel Lopes:** That is not the case anymore.
+
+**Daniel Lopes:** And the thing that I'm surprised is that the stuff that you guys built, it really works inside of Claude as well.
+
+**Daniel Lopes:** So like inside of cursor.
+
+**Daniel Lopes:** So like I can, like that's the thing that I was doing yesterday with a demo that I was sending to Ryan.
+
+**Daniel Lopes:** It was essentially like, you can ask it to turn some of those things that don't work really well into a workflow and then we'll do it.
+
+**Daniel Lopes:** But there's some, some catches on things like, oh, maybe the doc.
+
+**Daniel Lopes:** The image will be like stuck, you know, like, because we're not, there's like some paper cuts that it would make it easier for non-programmers for things to work right away.
+
+**Daniel Lopes:** And that would be like, oh, exposing the logs and like putting like the kind of stuff that Ben already did with like all the skills on the CLI.
+
+**Daniel Lopes:** And like, if we just think about that, there is this path for non-technical folks using technical tools.
+
+**Daniel Lopes:** If we make the process of debugging easier on the agent, we can easily get there on not even having to build like a V0, you know.
+
+**Ben Church:** Well, this is kind of like one of the things I wanted to, like why I wanted to Marcel to show this stuff in a way.
+
+**Ben Church:** It was like, you know, we're working on the framework right now and we're going towards like a release.
+
+**Ben Church:** And so like everything I'm saying now is not so much for that release, but kind of like looking ahead to the future.
+
+**Ben Church:** Because Marcel, I saw a couple of things in here that are really interesting as you're crossing.
+
+**Ben Church:** This boundary, like one is, you mentioned, hey, I copied and pasted the researcher, simplified it down, but like the most close thing to our current orbit of things we want to release is like, oh, I kind of want to like mix and match workflows to do the steps in what I'd probably describe as like Marcel's brain pipeline, right?
+
+**Ben Church:** That's like one thing, you kind of see like, it'd be nice if I could have a workflow that does the researching, I could execute it as a workflow on its own, or it could be shared from somewhere, or, you know, I can execute it inside of a skill that's already part of my, you know, coding agent, it knows how to do that.
+
+**Ben Church:** The other thing in here is like, you've built an offline data pipeline, like you have stages, you're like, here's my source data, it's going to go through this processing step, end up here, I'm going to pick up, process it again for something else, and so on.
+
+**Ben Church:** And that's the thing we haven't discussed like in depth, and we haven't had to discuss it, but like in the realm of our workflow.
+
+**Ben Church:** It like, there's a version where I think like having local file inputs and outputs as part of workflows or like flexible input and outputs of like, where are you taking this data from?
+
+**Ben Church:** Where are you writing it to?
+
+**Ben Church:** Super powerful, right?
+
+**Ben Church:** As you start layering these things up and the idea of like turning workflows into skills and skills into workflows and vice versa, right?
+
+**Ben Church:** You're kind of shaping up like this is your personal pipeline.
+
+**Ben Church:** You're borrowing from other people's pipelines.
+
+**Ben Church:** And then the idea of like, you probably want to take those and then cleave them out and make them production pipelines, right?
+
+**Ben Church:** Once you have a good idea of it or share with other people, like what you're starting to do is really interesting.
+
+**Marcel Santilli:** What the really interesting thing here is like, so what I did after this, then it was like, I created and y'all can take a look, but I just built this last night.
+
+**Marcel Santilli:** I created created and...
+
+**Marcel Santilli:** I
+
+**Marcel Santilli:** I did the starter kit, which was like the version that I built, but a like generalized version.
+
+**Marcel Santilli:** It's not great yet.
+
+**Marcel Santilli:** Like it was just two hours of work.
+
+**Marcel Santilli:** So it's not like, but this is like a, in some ways, like there's a few areas, right?
+
+**Marcel Santilli:** Like one is, this is actually not that intuitive for anyone to build.
+
+**Marcel Santilli:** Like I just took, you know, two people this morning through this and, and they were just like, there was like at least 20 aha moments where just like, oh my God, I need at least five hours.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** This totally makes sense.
+
+**Marcel Santilli:** Like, and then as I was explaining the thought processes way slower than I explained to you guys, because I had to explain what the  GitHub is essentially right as well.
+
+**Marcel Santilli:** Like, and why do you need GitHub and what is cursor?
+
+**Marcel Santilli:** What is like, why do you need that?
+
+**Marcel Santilli:** Like, you know, basic things like that.
+
+**Marcel Santilli:** Why not just have all these files in Google drive?
+
+**Marcel Santilli:** Why do you need it in your, like that basic stuff.
+
+**Marcel Santilli:** But once you get across that, then there's like the, the principles that kind of like connect for people and like, that makes sense.
+
+**Marcel Santilli:** Cause like, I have to keep.
+
+**Marcel Santilli:** rewriting this  over and over again.
+
+**Marcel Santilli:** And that's what causes slop to happen, right?
+
+**Marcel Santilli:** And so in some ways, I think it's not going to be a one size fits all, but I think there's like some four best practices here on how to build like your context personally and as a company.
+
+**Marcel Santilli:** And then it's like, how do you then give this access?
+
+**Marcel Santilli:** Because right now I have records in here and this should be a database, right?
+
+**Marcel Santilli:** Like right now I have like, there's things here that like, you know, right now I have skills and commands, but it's like a lot of these should just be workflows.
+
+**Marcel Santilli:** And I don't want it to save like 100 files into my local machine.
+
+**Marcel Santilli:** And then like, I'm already struggling with like, , I just spent $100 worth of processing credits for all these transcripts.
+
+**Marcel Santilli:** Like I can't share with anybody, right?
+
+**Marcel Santilli:** Like, so there's like a lot of these things are already like popping up, you know, that I think are going to be pretty, pretty common.
+
+**Marcel Santilli:** And so then as I start to do research online, everybody's trying to figure this out at the same time.
+
+**Marcel Santilli:** They're all like, how do I have shared contacts?
+
+**Marcel Santilli:** How do I have like, you know, where do I?
+
+**Marcel Santilli:** Save this information.
+
+**Marcel Santilli:** How do I make that information, parts of it available to everybody for all their agents to use as well?
+
+**Marcel Santilli:** And it's like, but then the workflow is still like a core thing you need, but I think it's going to be more than just like a fixed input only, you know, to your point, Ben.
+
+**Daniel Lopes:** I think there's so much on this that it's almost like distracting to think about this now, to be honest.
+
+**Daniel Lopes:** As in like, like we're, like, I don't, I don't have the info to even like do good AI features on existing, on a web product.
+
+**Daniel Lopes:** So that's what I'm like, that's why like, we got to get sentry, we got to get the cost tracking, we got to get all these things done first.
+
+**Daniel Lopes:** But as we go through that, it's just a good idea to keep in mind that end users are dealing with this kind of stuff in this way.
+
+**Daniel Lopes:** And then you have things like open claw, like popping up and all that kind of stuff, because it's everybody's trying to figure that out.
+
+**Daniel Lopes:** And we already, we double down cloud code, we double down file system.
+
+**Daniel Lopes:** A while back, some of the stuff that we're discussing, Clint, like if there is a way, like we don't have to build these things now, but as we call the minimum that we need to ship the OS, ship check that, ship this web version of workflows, there might be a path where we can integrate, we can later have like workflows that run locally, like the way you're thinking about Clint, or have like a registry that can execute the workflows remotely and put the result back.
+
+**Daniel Lopes:** into like, and then you can wrap it in this queue and things like that.
+
+**Daniel Lopes:** So there might be ways that we keep going in this direction without abandoning the file system and the path that folks like Marcel and Mario and everybody are going through.
+
+**Marcel Santilli:** So there's a few might be able to convert, you know?
+
+**Marcel Santilli:** I think we got right that are, to state the obvious, right?
+
+**Marcel Santilli:** Coding agents, like 18 months ago, Daniel was like, it's going to keep exploding and being the best thing ever because, you
+
+**Marcel Santilli:** And it's the easiest way to train models is like a file system and structure and program language and things like that, right?
+
+**Marcel Santilli:** And you have feedback loops now too.
+
+**Marcel Santilli:** The runtime, the file system, but then the runtime layer is just like a non-trivial thing that these services like CloudCode and others, like they're all running on Temporo anyways, right?
+
+**Marcel Santilli:** Like Kodak, CloudCode, like Cursor, like they're all running, Replit, they're all running on Temporo.
+
+**Marcel Santilli:** But like they're not, they have no way to expose a lot of these things, like the traceability, the runs, the steps, like the thought process, because guess what?
+
+**Marcel Santilli:** It's their IP, right?
+
+**Marcel Santilli:** That's how they're retraining models is like they're, it's a lot of the thinking data, right?
+
+**Marcel Santilli:** Like in the steps and things like that.
+
+**Marcel Santilli:** that's why the instrument of the models are essentially like shut out that stuff, but then they collect that.
+
+**Marcel Santilli:** They're not going to give it to the users, right?
+
+**Marcel Santilli:** Like all that, that, that thinking, you know, and that thinking becomes like a lot of the way they retrain the models and make the agents better and run for longer.
+
+**Marcel Santilli:** So, so like us giving that to companies.
+
+**Marcel Santilli:** In a way that is open source, but then the traceability, the scenarios, the output, like all of that in a way that's not like too overwhelming is like super, super, super, super, super, super, super valuable.
+
+**Marcel Santilli:** But just like with like our day-to-day stuff, like the input is not only the input, it's the context plus the input.
+
+**Marcel Santilli:** And often it's the context plus the input plus some retrieval, you know, and then on top of that, there's like in-between steps, like you're saying, Ben, where it's just like workflows of workflows, but I don't know.
+
+**Marcel Santilli:** But it's like there are like these steps where it's just like you got to kind of save an output, like a process of research, you know, and then use that plus some more inputs and more context to then like do the next phase and the next phase.
+
+**Marcel Santilli:** So it's almost like phases, it's all possible with what we have right now with no additional features and output, I just haven't spent enough time and, you know, but, but I think like this is.
+
+**Marcel Santilli:** It's like we should change anything.
+
+**Marcel Santilli:** This is more of like validating a lot of the direction we're going, but also saying we got to move effing fast because it could be two weeks from now and like the whole world changes because of OpenClaw or something else, you know?
+
+**Daniel Lopes:** And that's the challenge here, you know?
+
+**Daniel Lopes:** Yeah, I think there's definitely a path for a big gap in the system today is what do you do with storage?
+
+**Daniel Lopes:** And we're definitely going to have to figure that out.
+
+**Daniel Lopes:** But like I've been like pushing that out because it's like it's such a hard, complex problem and it can't be like you do it real quick.
+
+**Daniel Lopes:** Like we try to build storage on OS and it's completely wrong as in like we didn't understand what it's meant for, you know?
+
+**Daniel Lopes:** So like that feature we're throwing away this week, for example.
+
+**Daniel Lopes:** So storage is a hard problem and like I've done like a chatbot with a reg before, post-processing is hard, adding metadata is hard, figuring out like chunk overlap is hard.
+
+**Daniel Lopes:** And all these things are...
+
+**Daniel Lopes:** are...
+
+**Daniel Lopes:** It's completely different challenge.
+
+**Daniel Lopes:** almost like a service.
+
+**Daniel Lopes:** The idea you have a service where things can put things there and pull for different needs, but it's not something that you can just pitch to the framework real quick.
+
+**Daniel Lopes:** I almost think that this would be a separate service that the framework would be integrated with, but you could have pull from storage, add to storage, that kind of stuff, and have short-term, long-term memory abstracted.
+
+**Daniel Lopes:** But it's probably like a month-long project of like somebody that already did, or like multiple months if somebody that's just learning from scratch.
+
+**Daniel Lopes:** So storage is hard.
+
+**Marcel Santilli:** Can I add one quick thing on that?
+
+**Marcel Santilli:** It's like, personally, what I'm going to do and I need to do is just try to teach other people, like George has been doing this as well.
+
+**Marcel Santilli:** And so even though I don't think we should build some of these things, I do think it would be good.
+
+**Marcel Santilli:** To at some point get you all staked so that we are not doing the hacky version the wrong way.
+
+**Marcel Santilli:** You are doing the hacky version the right way.
+
+**Marcel Santilli:** Like for instance, like we're running, like there's my transcript folder, for example.
+
+**Marcel Santilli:** There's no way, like I got to put it somewhere.
+
+**Marcel Santilli:** Like, so even having like, hey, like these are the three options you should go figure it out yourself.
+
+**Marcel Santilli:** Like good luck kind of thing.
+
+**Marcel Santilli:** know, that's what I was doing with this project.
+
+**Marcel Santilli:** Also the starter kit is like, we should not build this into the framework, but it's like having best practices.
+
+**Marcel Santilli:** It it like makes people like really respect us because like we're such at the forefront.
+
+**Marcel Santilli:** We're like 0.0001% of the people doing this for knowledge work.
+
+**Marcel Santilli:** And, and it's like, it's every time I'm having these interactions with people that I'm trying to show them the thought process, their minds are truly blown.
+
+**Marcel Santilli:** And it surprises me because I just think like, oh, it's not that big of a deal.
+
+**Marcel Santilli:** just the folder structure.
+
+**Marcel Santilli:** Who cares?
+
+**Marcel Santilli:** Like, you know, and it's truly like, so, so maybe there's a way to like advise, not build.
+
+**Marcel Santilli:** You know, yeah, yeah, yeah.
+
+**Daniel Lopes:** Yeah, like, I think there's clear a path here, like, for, like, the kind of workflows that we're doing.
+
+**Daniel Lopes:** Like, for example, the example that I did with Ryan was his idea, like, I have this thing that I convert audio to text, and then I put in the Mintlify, like, that is reusable, you know?
+
+**Daniel Lopes:** So creating, like, a, and skills are not really, it's like prompts, you know?
+
+**Daniel Lopes:** Like, prompts are so dangerous, like, it just fails if you have anything that's slightly more complex.
+
+**Marcel Santilli:** Yeah.
+
+**Daniel Lopes:** So, like, in the future, like, as soon as we finish this version focused on AI engineers, we could definitely have a way to share workflows and have a way to wrap these workflows as a skill, for example.
+
+**Daniel Lopes:** So, like, all the things that we talked about before, like, a registry, being able to wrap things, being able to execute things remotely and pull things down, like, that allows us to, like, oh, yeah, so you have this open blog thing that does a bunch of things, but you want to...
+
+**Daniel Lopes:** Run like a process the JSON and calculate a bunch of stuff in code after, you can push that into a workflow, you know, in a workflow app store kind of thing, where you can download from there.
+
+**Daniel Lopes:** So you can, you can, the stuff that Claude is trying to do with skills and the plugins, we can do the same, but more reproducible things with code in the loop, you know.
+
+**Daniel Lopes:** But yeah, there's, there's a lot there, but we can, yeah.
+
+**Marcel Santilli:** let's hear like, Clint, Stéfano, like you guys take or any reactions or any, I don't know if this is helpful at all.
+
+**Stéfano Zanata:** So, first of all, I don't think you should say you are a known technical person anymore, because although you might not know like Git protocols, that's a very, what you did is a very technical solution.
+
+**Stéfano Zanata:** It's architecture 101.
+
+**Stéfano Zanata:** So, I don't think.
+
+**Stéfano Zanata:** I you qualify to that excuse anymore.
+
+**Stéfano Zanata:** Now you are a technical person.
+
+**Stéfano Zanata:** Yeah, so I agree.
+
+**Stéfano Zanata:** Like, okay, that out of the way, I think it was pretty amazing.
+
+**Stéfano Zanata:** But I agree with Daniel.
+
+**Stéfano Zanata:** Like, this is overwhelming.
+
+**Stéfano Zanata:** Like, right now, I don't even know how that would fit what we have right now.
+
+**Stéfano Zanata:** But this is amazing.
+
+**Stéfano Zanata:** And I hope we, down the road, can evolve what we have to accomplish, to create, to expand the framework, to...
+
+**Stéfano Zanata:** To create a system like this.
+
+**Stéfano Zanata:** Yeah, yeah, yeah.
+
+**Stéfano Zanata:** To support a pipeline like yours, okay?
+
+**Stéfano Zanata:** Flexible inputs and flexible outputs and mixings of commands and defining skills instead of proper roles.
+
+**Stéfano Zanata:** So you can mix in skills on the fly, for example.
+
+**Stéfano Zanata:** So defining personas and having flexible outputs.
+
+**Stéfano Zanata:** Nowadays, we can write locally because you can write an activity that writes locally.
+
+**Stéfano Zanata:** But that's very technical.
+
+**Stéfano Zanata:** Now we go back to being technical.
+
+**Stéfano Zanata:** But yeah, I was pretty amazed with that.
+
+**Stéfano Zanata:** And I am glad, now that's not related exactly what you show, but I am glad that the CEO of AI-driven company is so AI-driven that he does his own CEO stuff using AI.
+
+**Stéfano Zanata:** So that's reassuring for me personally, because I think you have a lot of skin in the game.
+
+**Stéfano Zanata:** Let's put that that way.
+
+**Stéfano Zanata:** Yeah, so that's what I have to say, basically.
+
+**Stéfano Zanata:** But I'm pretty amazed at how the...
+
+**Stéfano Zanata:** I mean, I have no idea how to accomplish that right now.
+
+**Stéfano Zanata:** If you ask me, hey, develop a framework that's gonna...
+
+**Stéfano Zanata:** I my use case.
+
+**Stéfano Zanata:** I would have to think about it.
+
+**Stéfano Zanata:** I can't say anything right now.
+
+**Stéfano Zanata:** I would be bullshitting you if I say anything.
+
+**Stéfano Zanata:** But I like it a lot.
+
+**Marcel Santilli:** And yes.
+
+**Marcel Santilli:** You know, one thing as you were talking, like, there's two things here, right?
+
+**Marcel Santilli:** One is like, how could this apply to the framework?
+
+**Marcel Santilli:** And I think like, maybe we put that aside for a little bit.
+
+**Marcel Santilli:** But I think like, just so you all understand, because you all are stakeholders in this company as well.
+
+**Marcel Santilli:** Like, George, me, a few others are starting to do this.
+
+**Marcel Santilli:** And we are legit 10x.
+
+**Marcel Santilli:** Like, legit 10x.
+
+**Marcel Santilli:** And so if anything, like, as a technical person, like, there's this drawing that I did today.
+
+**Marcel Santilli:** Like, just to kind of explain like a little bit.
+
+**Marcel Santilli:** But it's like, it's kind of hard to see.
+
+**Marcel Santilli:** But it's like, if you start at this point, right?
+
+**Marcel Santilli:** And you're trying to get here.
+
+**Marcel Santilli:** And your input is like, off by this much.
+
+**Marcel Santilli:** Actually, your output can be off by this much.
+
+**Marcel Santilli:** Right?
+
+**Marcel Santilli:** Because...
+
+**Marcel Santilli:** Because, like, AI multiplies  as well, right?
+
+**Marcel Santilli:** And so it's almost like the planning reduces this to this, you know?
+
+**Marcel Santilli:** And that part, like, the planning, what I found personally is, like, when you're doing the planning without all this work that I did inside of a repo with a coding agent, that is mostly inundated context window with coding and not context, it, like, for my experience is way worse, like, you know?
+
+**Marcel Santilli:** And so if anything, there might be some things where it's, like, as you all are thinking through, like, some of these things could apply from that perspective and less from, like, change the roadmap of what you're building even, you know?
+
+**Marcel Santilli:** But regardless of that, just know that, like, me figuring out how to enable, like, a lot of people in this company, like, the best people in this company how to do this is gonna mean, like, like, so much more productivity for this company, you know?
+
+**Stéfano Zanata:** It's, like, it's insane.
+
+**Stéfano Zanata:** I was...
+
+**Clint Shryock:** And my takeaway is that that's the wrong way to think of it.
+
+**Clint Shryock:** So I think there's a huge gap between people who are aware of AI and people who like use it regularly.
+
+**Clint Shryock:** And I think there's a huge gap between people who use it regularly and between what you just showed us and like how you're using it.
+
+**Clint Shryock:** I fit somewhere in the middle of that.
+
+**Clint Shryock:** So when you started talking about all these things, I'm like, I have never, I use Claude a lot.
+
+**Clint Shryock:** I use Claude code.
+
+**Clint Shryock:** use Claude desktop, never use Claude co-work because I can't figure out like, what should I even do with it?
+
+**Clint Shryock:** And as you were talking, I like, I actually asked Claude chat, what exactly could I do with Claude co-work?
+
+**Clint Shryock:** Like as an engineer, but also just, you know, a person who uses Claude, like, how do I use this?
+
+**Clint Shryock:** So I don't even know.
+
+**Clint Shryock:** So what, what you're doing is, is on the frontier, I think of, um, advanced users of, of, yeah, advanced users, but also like.
+
+**Clint Shryock:** Like.
+
+**Clint Shryock:** Non-software engineers, I don't want to call you not technical, but like non-software engineers, like how do I use this in my day-to-day like work life?
+
+**Clint Shryock:** Like I use Cloud Code very effectively.
+
+**Clint Shryock:** I don't use Cloud for my work life outside of code.
+
+**Clint Shryock:** Not effectively, probably.
+
+**Clint Shryock:** I had Cloud read my email once to see if I was missing something important.
+
+**Clint Shryock:** That was the extent of it, right?
+
+**Clint Shryock:** I've had it searched linear twice, probably.
+
+**Clint Shryock:** That's the extent of it.
+
+**Clint Shryock:** But so anyway, the point though is, so did you say you were doing sessions with like George and other people on this?
+
+**Marcel Santilli:** Yeah, and that's what I was like.
+
+**Marcel Santilli:** So I kicked off a AI coaching with an external person, like Zaina, who's a friend and a VP of marketing at Stripe.
+
+**Marcel Santilli:** And then like George, like he was literally like, he's just over here, but like he was watching over my shoulder and I showed him a little bit.
+
+**Marcel Santilli:** And then he went off and bought like a bunch of courses on the stuff and study and set up his version.
+
+**Marcel Santilli:** And then I set up my version and we're trying to kind of like merge that.
+
+**Marcel Santilli:** But then I'm planning to do a five-hour workshop teaching people this because I need.
+
+**Clint Shryock:** You teach everybody in this company.
+
+**Marcel Santilli:** like Ella, who just joined us, Steve Customer Officer, like there's a bunch of people asking for this because they're seeing how like insane productivity gain it is of just being able to go into HubSpot, look at our transcript, look at all the opportunities open, do this, go in Slack, like post it.
+
+**Marcel Santilli:** It's just like, it only works if you have amazing, perfectly  curated context and a pipeline to process that context and use that context.
+
+**Clint Shryock:** So I was going to say, if you were having more targeted, like how you do just your repo thing you were doing there, I would ask if you could invite me to watch, because I would love to watch it.
+
+**Marcel Santilli:** And then super quick, just so I don't forget, but like, so this is in our repo right now.
+
+**Marcel Santilli:** So I highly encourage like, one, you can fork this if you want to play  around with it.
+
+**Marcel Santilli:** And two, our handbook is literally our company's context.
+
+**Marcel Santilli:** It is highly, I've spent over like hundreds of hours here on this.
+
+**Marcel Santilli:** So it's also into Mintless.
+
+**Marcel Santilli:** So if you go to handbook.growthx.ai, the password is AI-led growth, all lowercase, but you can also just pull from here and do a sim link or something.
+
+**Marcel Santilli:** But all of this is perfect context here as well.
+
+**Marcel Santilli:** So it's like every context you ever need about this company is here now.
+
+**Marcel Santilli:** So if you ever want to do anything, including the product context, and you want to go, hey, I'm actually doing this thing for check that, it's like everything is here.
+
+**Marcel Santilli:** Like the methodology, the benchmarks, how we're thinking about it, like the content of us, I need to enrich it more, but it's like everything is here now.
+
+**Marcel Santilli:** So between the two, and then I'll do a session kind of explaining, I'm hoping that like in the next few weeks, everyone can go from zero to essentially like maybe 50, 60% of this, you know, and then start to adapt it to them, to themselves.
+
+**Daniel Lopes:** Yeah, like I have pretty much the same setup for like probably a year.
+
+**Daniel Lopes:** And like, that's how we, like the, I have like a workspaces.
+
+**Daniel Lopes:** So I have a workspace, like what Marcel just did with the handbook is a
+
+**Clint Shryock:** No, that's all right.
+
+**Clint Shryock:** So I guess the only other thing I was really going say was that it was kind of back to output.
+
+**Clint Shryock:** Like I feel output's great when you have a lot of workflows or you have workflows that you want to do a lot of times consistently.
+
+**Clint Shryock:** And so this, and maybe I'm hyper-focusing too much on like what you were demonstrating as far as your personal repo.
+
+**Clint Shryock:** But looking at this, I don't, I see this more as a hyper-individualized thing.
+
+**Daniel Lopes:** Yeah.
+
+**Clint Shryock:** And so like, I don't know that our traditional workflows from output map to that.
+
+**Clint Shryock:** So that's why I kind of think that not to be, not to, not to say that, not that I don't think this is good.
+
+**Clint Shryock:** I think this is amazing, but I just right now, like, I don't want to burden ourselves trying to think like, how do we make output do this?
+
+**Clint Shryock:** Because I don't know that output is the right tool for this job.
+
+**Clint Shryock:** Like, output's great on servers.
+
+**Marcel Santilli:** Like this, this is like somebody's There's area though where, where output is substantially better.
+
+**Marcel Santilli:** And that all other services fail is like taking a lot of different inputs and then the deep research as research supervisor, essentially, and having more influence because like all of these services that do deep research, they're black boxes, right?
+
+**Marcel Santilli:** Like if you trigger a deep research and they go and fetch a thousand sources and the reason my study guides are really good and things like that is because like I really spent a lot of time on my thought process behind all these things, AKA our research supervisor, except as I'm the hacky version of that, right?
+
+**Marcel Santilli:** Like, which is like thinking through sources, thinking through how to reason through like the questions and a bunch of other things, you know?
+
+**Marcel Santilli:** So that is incredible.
+
+**Marcel Santilli:** And that also fails a lot and it goes south a lot and then you won't know for 30 minutes.
+
+**Marcel Santilli:** So it's like the, like anyways, I think deep research of all the use cases is where, yeah.
+
+**Daniel Lopes:** I think there are ways, there's quite a few companies that have like APIs.
+
+**Daniel Lopes:** Guys, like Squirrel Skin, that's the one that you sent about, like SEO audits, for example.
+
+**Daniel Lopes:** That thing is just a wrapper on an executable, you know?
+
+**Daniel Lopes:** So anything that you need to execute over and over, and ideally the way that it would integrate would be like, we'd have a way to turn some of the things that you're showing, like the way you post process, the way you create roles, that is a workflow.
+
+**Daniel Lopes:** So, like, and you don't want to teach people how to do that over and over in a company of 60 people.
+
+**Daniel Lopes:** Ideally, that would be a workflow that you install, create roles, you know?
+
+**Daniel Lopes:** Or another one would be like, create a post process transcript for sales call to check how Marcel works.
+
+**Daniel Lopes:** That could be a workflow.
+
+**Daniel Lopes:** Because you want this to be reproducible.
+
+**Daniel Lopes:** And you don't want every random Joe in the company creating workflows, because they're not going to have the same level that technical skills that you have.
+
+**Daniel Lopes:** So, ideally, even if we're just for us, if we had the repo where you just...
+
+**Daniel Lopes:** But, like, you do this exploration, you figure out what is the reproducible things you need, and then you create a workflow and publish a registry.
+
+**Daniel Lopes:** Then somebody else like Ella can just, like, install this workflow.
+
+**Daniel Lopes:** And every time I have a meeting with Marcel, I run this.
+
+**Daniel Lopes:** This will fetch from HubSpot and all these places instead of MCP trying and, like, taking, like, failing a bunch of times until you find the right endpoint.
+
+**Daniel Lopes:** It could just be, like, one-shot workflow, you know.
+
+**Marcel Santilli:** I got to run because I have a lunch thing here in person.
+
+**Marcel Santilli:** But we'll love to just, like, keep you all on FYI and, like, keep recording things and keep sharing.
+
+**Marcel Santilli:** Again, like, think of it as more of, like, to your point, Clint, as, like, as a personal productivity gain on the knowledge work side that you need to do anyways, even if it's, like, technical research around something.
+
+**Marcel Santilli:** And more as a, like, as a company that wants to be AI native, if everybody operates like this, we're going to be 100 times better than every other company on the  planet.
+
+**Marcel Santilli:** Um, you know, and, and, and last song.
+
+**Marcel Santilli:** And, like, trying to change the roadmap of output.
+
+**Marcel Santilli:** And then maybe somewhere along the way it will influence, like, the primitives that we do, you know, and how we do it.
+
+**Marcel Santilli:** But, anyways, I appreciate the work you all do, man.
+
+**Marcel Santilli:** It's, like, super  output.
+
+**Marcel Santilli:** It's pretty  cool.
+
+**Stéfano Zanata:** I've been building workflow.
+
+**Stéfano Zanata:** opportunity.
+
+**Daniel Lopes:** Yeah.
+
+**Daniel Lopes:** See you guys.
+
+**Marcel Santilli:** See you guys, Marcel.
+
+**Stéfano Zanata:** Daniel, thanks, Marcel.
+
+**Stéfano Zanata:** So, just, Daniel, maybe something that we could help on that is the evaluation part.
+
+**Stéfano Zanata:** Like, he inputs a lot of stuff, and he always needs the voice and the persona to be consistent.
+
+**Stéfano Zanata:** And so it's an opportunity for workflows that use the kind of phoenix evaluation, like, more and more refined evaluation we are planning now, including the offline evaluation.
+
+**Daniel Lopes:** Yeah, yeah.
+
+**Daniel Lopes:** There's so many things.
+
+**Daniel Lopes:** Like, the workflow that Marcel has is the same that I've been having for, like, last six months, for sure, or, like, almost a full year.
+
+**Daniel Lopes:** Like, there's so, like, it's just a...
+
+**Daniel Lopes:** You know, as in like, you ask, the geekbot one that I run almost every day is just like, give me what happened in the company.
+
+**Daniel Lopes:** If I ask just that, instead of give me what happened to this set of people that I have in this JSON with their IDs and run this endpoint, it will take like five tries.
+
+**Stéfano Zanata:** And then it's just like, what's happening here?
+
+**Daniel Lopes:** Like if Marcel can get, he can see it.
+
+**Daniel Lopes:** And Marcel is, he's a web designer too, so he can, he understands HTML, he understands how systems work.
+
+**Daniel Lopes:** You put this in front of a normal person, they can't do anything with it.
+
+**Daniel Lopes:** Like they will just see the MCP like failing over and over and it's like, oh, .
+
+**Daniel Lopes:** And then like, so I don't think you're going to be able to make the jump from like Marcel and teach everybody how to do it.
+
+**Daniel Lopes:** But a lot of these things are reproducible workflows, you know, that's interesting.
+
+**Daniel Lopes:** And that's how it's just, that's one part, figuring out how to package them and put in like a registry so you can install and wrap them with skills and be a way.
+
+**Daniel Lopes:** The validating that the quality matches some.
+
+**Daniel Lopes:** Criteria and be able to, like, generate evaluators that will loop things.
+
+**Daniel Lopes:** There's so many ways where the things could integrate.
+
+**Daniel Lopes:** But if you're building, like, a web app, you would be in deep , you know, like, air ops or something like this.
+
+**Daniel Lopes:** Oh, for sure.
+
+**Ben Church:** I think, like, one of the cool things about it, because it was just a cool system, right?
+
+**Daniel Lopes:** Like, what he did is, like, oh.
+
+**Ben Church:** And, like, Stefano, didn't even glad you guys touched on this.
+
+**Ben Church:** was just, like, oh, you're not, don't say that you're not an engineer.
+
+**Ben Church:** Like, you are.
+
+**Daniel Lopes:** Yeah, it's just some different kind, right?
+
+**Ben Church:** And, like, I've been thinking about this a bit.
+
+**Ben Church:** Like, it's kind of like there's a new category of engineer coming out.
+
+**Ben Church:** Plain text engineer.
+
+**Ben Church:** That population is going to be.
+
+**Ben Church:** But they all have, like, the same, they're going to have similar problems that engineers had, right?
+
+**Ben Church:** Like, how do you go from dev to production?
+
+**Stéfano Zanata:** Same for myself.
+
+**Ben Church:** It's like, how do I go from my dev to production with all these people that aren't as technical as me?
+
+**Ben Church:** Or, like, how do I iterate with things, like, people who are on my level, right?
+
+**Ben Church:** I just keep thinking, like, oh, what's that going to look like?
+
+**Ben Church:** I have no idea, but I think it's really useful.
+
+**Ben Church:** I'll see.
+
+**Ben Church:** to be aware that there is a new engineer archetype out there, whether it applies to output ever, I don't know, but it's cool to know that it's there.
+
+**Stéfano Zanata:** Because he faces the same challenges we have, like he faces the challenge of storing data, virtualing, how to refine, how to debug.
+
+**Stéfano Zanata:** So, I mean, yeah, exactly.
+
+**Stéfano Zanata:** So, I mean, he might not be a software engineer in the common sense, like I am not a software engineer as well, technically speaking.
+
+**Stéfano Zanata:** I studied TI, IT in college, so it's my company that calls me engineer, because I don't have an engineer degree, but that's semantics.
+
+**Stéfano Zanata:** But he has the engineer mindset anyway, so he could be, I don't know, automation engineer, which has the same mindset of a software engineer and something like that.
+
+**Daniel Lopes:** So, uh, that's literally the role name that I would like, as soon as.
+
+**Daniel Lopes:** If make the framework, publicly launch the framework, the plan is to, I talked to Clint about this actually, like I'm looking for an engineering manager that would help grow the forward deploy team.
+
+**Daniel Lopes:** And they, the main role there would be, one of the main roles would be like an automations engineer.
+
+**Daniel Lopes:** And people like Tammy and Sergey, Sergey was a copywriter and Tammy was marketer and they learned to program because of cursor and cloud code.
+
+**Daniel Lopes:** They are not at the same level, they're not driving the same kind of code that Marcus would do, but they are better at other types of things.
+
+**Daniel Lopes:** Where somebody like Marcel would like smoke us on many things, like thinking about like high-level company processes, for example, that he's been thinking about for the last 20 years.
+
+**Daniel Lopes:** And now they can do that kind of stuff, you know?
+
+**Daniel Lopes:** Yeah.
+
+**Ben Church:** There's a really, okay, so there's a cool anecdote.
+
+**Ben Church:** I just spent the last couple of days hanging out with some veterinarian friends.
+
+**Ben Church:** See my friend's 40th birthday, they're all.
+
+**Ben Church:** In the vet space.
+
+**Ben Church:** Similar things happening there too.
+
+**Ben Church:** I met a guy who owns a bunch of veterinarian practices.
+
+**Ben Church:** He's a veterinarian, but he's got the engineering mind.
+
+**Ben Church:** So he like vibe coded a few things, like a few like employee apps to monitor growth and like clinic appointments.
+
+**Ben Church:** And it was funny because he had a frustration that any engineer would have before, but he's starting to have it because he's now closer to the engineering side, which was, yeah, it was really hard to integrate with my PIMS because they wouldn't give me access to these API things.
+
+**Ben Church:** So I had to like escalate support issues for them to give me more permission to access to change some of this data.
+
+**Ben Church:** I don't know.
+
+**Ben Church:** was just this idea of like, you know, he wasn't an engineer, but he started to have engineering problems and started to get angry about things that typically only an engineer would.
+
+**Daniel Lopes:** Yeah, I think, I think, like the way I'm thinking about this, like I, the thing that I wanted to validate this, this whole six months that we've been building the frameworks, if we could create a system to vibe code micro.
+
+**Daniel Lopes:** The workflows are essentially micro apps.
+
+**Daniel Lopes:** And now you can just, and it worked out really well, as in like you can one-shot super complex things now.
+
+**Daniel Lopes:** And now like I think the next step would be like, how do we make these micro apps be publishable and reusable?
+
+**Daniel Lopes:** So like somebody like Marcel can just like  around and like free flow through like a bunch of like file systems and Claude and all that and Cursor.
+
+**Daniel Lopes:** But then they would be like, oh yeah, now this can be a micro app in the app store.
+
+**Daniel Lopes:** Maybe it's for the company or for the whole world.
+
+**Daniel Lopes:** And the consumer here could be somebody on the team consuming through Cursor or it could be somebody consuming to co-work.
+
+**Daniel Lopes:** could be somebody just using open claw and consuming.
+
+**Daniel Lopes:** But I don't know what the deployment of the micro app looks like.
+
+**Daniel Lopes:** If it's just going be an endpoint or if it's going to be a workflow running locally or if you install put locally.
+
+**Daniel Lopes:** But the path is there.
+
+**Daniel Lopes:** We really can micro, we can vibe code reproducible micro apps.
+
+**Daniel Lopes:** That makes real code with prompts.
+
+**Stéfano Zanata:** Yeah.
+
+**Daniel Lopes:** Check that.
+
+**Daniel Lopes:** It's just like all 30 workflows done super fast.
+
+**Daniel Lopes:** And for the new version of the OS, we need to build like 15 different features that are all AI-based, LLM-based.
+
+**Daniel Lopes:** And it's just the best experience to create this kind of thing.
+
+**Daniel Lopes:** Anyway, I think we are, it maybe looks disconnected, but I think we are, if we approach things as like workflows, those are essentially micro-apps on how to build AI features, this can plug into like, we can figure out how to plug into the system.
+
+**Daniel Lopes:** As long as we don't fight against it, you know, as we keep building.
+
+**Stéfano Zanata:** And I don't see anything that would happen over with us.
+
+**Stéfano Zanata:** It just is connected.
+
+**Stéfano Zanata:** Like it's not connected in the way that we don't support anything that he has.
+
+**Stéfano Zanata:** But in the end of the day, it's the same thing, basically.
+
+**Stéfano Zanata:** It's to automate AI interaction.
+
+**Stéfano Zanata:** So yeah.
+
+**Stéfano Zanata:** Yeah.
+
+**Ben Church:** And hard
+
+**Stéfano Zanata:** It's not on our immediate roadmap, but I feel this is important because it is a use case.
+
+**Stéfano Zanata:** It's a complex use case.
+
+**Stéfano Zanata:** We might never support fully, unless there are really a need for that.
+
+**Stéfano Zanata:** But I think this is interesting.
+
+**Stéfano Zanata:** Yeah.
+
+**Daniel Lopes:** Like one wild idea, like even in the short term, if we wanted to like optimize for the workshops that he's doing, we could have like a GitHub starter template that you clone.
+
+**Daniel Lopes:** And then you have a bunch of the common skews are wrappers for the API endpoints in our own deployed cloud temporal, for example.
+
+**Daniel Lopes:** If you want to use our researcher, we want to use our fact checker workflow.
+
+**Daniel Lopes:** If you want to use our image generation workflow, like all those things are there.
+
+**Daniel Lopes:** And then that would be a way that, yeah, we have a bunch of API endpoints that workflows deployed, you know.
+
+**Stéfano Zanata:** Yeah.
+
+**Ben Church:** Even when we get to like one-off runs of workflows, like if you didn't output dev running in the background, you could see how an agent would be like, yeah, I'll just write a workflow.
+
+**Ben Church:** Workflow, run it.
+
+**Ben Church:** Workflow, run it.
+
+**Daniel Lopes:** Anyway, yeah.
+
+**Stéfano Zanata:** I think on that, Daniel, just a quick note.
+
+**Stéfano Zanata:** I think we should, not this week, but soon, we should start thinking about at least the global API concepts.
+
+**Stéfano Zanata:** So it's easier.
+
+**Stéfano Zanata:** Like people will still, for now, at least, because it's kind of risky to host other people code.
+
+**Stéfano Zanata:** But people still need to bring their Tempuro server, but they can use our own API.
+
+**Stéfano Zanata:** So our API is kind of plug and plug and points to anywhere.
+
+**Stéfano Zanata:** It would be very useful.
+
+**Stéfano Zanata:** And we could even use the same API for all the company because the API can be made very scalable.
+
+**Stéfano Zanata:** Like the API doesn't do anything, just fast-through communication.
+
+**Stéfano Zanata:** So I think that's something we should do sooner than later.
+
+**Daniel Lopes:** Yeah, we could do that as a fast follow-up for sure.
+
+**Daniel Lopes:** Yeah, I think I could see the use case for that.
+
+**Daniel Lopes:** I don't know if they can make it have a one API.
+
+**Daniel Lopes:** For all the two different products, I almost like, check that goes, the API goes down, doesn't go down, check that in the OS, and, but, yeah, anyway, that doesn't, kind of doesn't matter much, because it's also like, as.
+
+**Stéfano Zanata:** Yeah, I mean, it doesn't need to be the same, but we could have a global API so people can try it out and stuff.
+
+**Daniel Lopes:** Yeah, yeah, yeah, yeah, yeah.
+
+**Stéfano Zanata:** I mean, yeah.
+
+**Daniel Lopes:** Cool.
+
+**Daniel Lopes:** All right.
+
+**Stéfano Zanata:** Cool.
+
+**Stéfano Zanata:** Ben, Clint, do you guys mind, if it was, we, we, chat later today, a bit?
+
+**Ben Church:** Sure.
+
+**Stéfano Zanata:** Okay.
+
+**Stéfano Zanata:** I will, I will be, I just want to present some ideas and I want your, your feedback.
+
+**Ben Church:** Yeah.
+
+**Stéfano Zanata:** Just pay me.
+
+**Daniel Lopes:** Yeah.
+
+**Stéfano Zanata:** Cool.
+
+**Stéfano Zanata:** Thanks.
+
+**Ben Church:** Okay.
+
+**Stéfano Zanata:** See you guys.
+
+**Stéfano Zanata:** Bye.

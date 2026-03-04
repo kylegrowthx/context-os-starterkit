@@ -1,0 +1,1129 @@
+# Intro - Alison at Ceros <> Marcel at GrowthX
+
+<metadata>
+date: 2025-08-27
+time: 16:31 UTC
+duration: 44 minutes
+organizer: Tyler Pavlas (GrowthX)
+participants: Marcel Santilli (GrowthX), Tyler Pavlas (GrowthX), Alison Lange Engel (Ceros), Hani Durzy (Red Dog Strategies)
+fathom_recording_id: 83310584
+fathom_url: https://fathom.video/calls/391542871
+share_url: https://fathom.video/share/yYymii8gFXS7PxY6QSyhsnbLkSaj2opx
+source: fathom
+enriched_on: 2026-03-03 14:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Marcel presented GrowthX's end-to-end AI-powered content creation and optimization platform to Ceros leadership, demonstrating how the service combines expert human editors with AI workflows to drive organic search visibility and AI answer engine placement. Alison (Ceros CEO) explained that Ceros is actively rebuilding its marketing team and needs a content lead, making GrowthX's $20k, 8-week strategy sprint an ideal first step to develop a comprehensive content strategy and execution plan tailored to Ceros' product verticals and ICPs. The team agreed to follow up with a deeper dive meeting to explore collaboration and discuss Ceros' specific content distribution needs and fractional content lead requirements.
+
+---
+
+## Context
+
+Ceros is a platform company serving marketing and sales teams with interactive content and dynamic experience tools. The company is led by CEO Alison Lange Engel and is actively rebuilding its go-to-market function following recent leadership changes (new CRO in place since January). Hani Durzy, a consultant and former Head of Corporate Communications at LinkedIn, joined the call to advise Ceros on content strategy and competitive positioning. Tyler Pavlas, a GrowthX co-founder, worked at Ceros before joining GrowthX and initiated this introduction. Ceros is facing marketing team churn and lacks a dedicated content lead, creating an opportunity for GrowthX to help define and execute a comprehensive content strategy. The timing is urgent — Alison needs to move quickly on content infrastructure while the marketing team remains incomplete.
+
+---
+
+## Relevance
+
+### To GrowthX Delivery
+- Ceros represents a strong fit for the 8-week strategy sprint ($20k) followed by longer-term execution engagement — existing messaging and positioning framework already in place reduces discovery time
+- Client has multiple product verticals requiring industry-specific content strategies, similar to existing customers like Engine.com, allowing GrowthX to apply proven topic clustering and ICP-focused workflows
+- Content distribution and third-party amplification (Stacker-like tools) identified as a key question for deeper dive — potential expansion opportunity if GrowthX can help solve distribution
+
+### To GrowthX Business Development
+- Early-stage expansion opportunity: Ceros is actively hiring a fractional content lead, and if GrowthX execution exceeds expectations during the strategy sprint, this could convert to a longer-term retainer
+- Alison is a former early-stage venture investor with deep credibility in the SaaS community — strong reference potential and network effects if engagement succeeds
+- CEO podcast launched recently; GrowthX platform can amplify podcast content and leverage it for AI answer visibility, creating additional value to justify deeper partnership
+
+### To CheckThat
+- Discussion of AI answer engines, content freshness, and how AI rewards authoritative editorial content is highly relevant — Ceros may benefit from monitoring AI visibility across their verticals and informing content strategy with CheckThat insights
+
+---
+
+## Overview
+
+- GrowthX offers end-to-end content strategy, creation, and optimization using AI + human experts
+- Ceros needs to rebuild marketing, particularly content strategy, to drive organic growth
+- Potential collaboration between GrowthX and Ceros to develop comprehensive content engine
+- GrowthX's 8-week strategy sprint ($20k) could jumpstart partnership and content efforts
+
+---
+
+## Key Topics
+
+### GrowthX Overview
+
+  - Founded by Marcel Santilli, former CMO with track record of organic growth success
+  - Combines AI-powered platform with expert human editors/strategists
+  - 75 employees, $1M ARR in under 1 year
+  - Clients include major brands like Udemy, Webflow, Ramp
+
+### GrowthX Process
+
+  - 8-week strategy sprint to develop content strategy, workflows, artifacts
+  - AI-assisted research and content creation with human expert oversight
+  - Tracks organic search performance and AI answer visibility
+  - Can handle full execution or augment existing marketing teams
+
+### Ceros Situation
+
+  - Rebuilding marketing team, seeking content lead (open to fractional)
+  - New CRO driving go-to-market changes
+  - Recently launched podcast hosted by CEO Alison
+  - Content team experiencing churn (e.g. Corey Wallace departing)
+
+### Potential Collaboration Areas
+
+  - Develop comprehensive content strategy aligned to Ceros ICPs/verticals
+  - Create high-quality, SEO-optimized content at scale
+  - Explore branded separate domain for thought leadership content
+  - Leverage GrowthX platform to amplify existing content (e.g. podcast)
+
+### Content Distribution
+
+  - Hani inquired about third-party distribution capabilities (like Stacker)
+  - Tyler to research and address in follow-up deep dive meeting
+
+---
+
+## Action Items
+
+**Marcel Santilli (GrowthX)**
+- Send info + suggestions for fractional content leads to Alison Lange Engel (Ceros)
+
+**Tyler Pavlas (GrowthX)**
+- Set up shared Slack channel with Ceros team; add Hani Durzy and share GrowthX resources
+- Contact Dionne Ouellette-Lummus (Ceros, Alison's EA) to schedule deeper dive meeting with Alison and team
+
+---
+
+## Transcript
+**Marcel Santilli:** Hello.
+
+**Hani Durzy:** Hi, guys.
+
+**Marcel Santilli:** How's it going?
+
+**Hani Durzy:** Good.
+
+**Hani Durzy:** How are you?
+
+**Hani Durzy:** I'm Hani Durzy.
+
+**Marcel Santilli:** Nice to meet you, Hani.
+
+**Marcel Santilli:** One of my best friends' name is Hani, so.
+
+**Hani Durzy:** Oh, you're kidding me.
+
+**Marcel Santilli:** Yeah.
+
+**Hani Durzy:** I meet anyone else with the name of Hani except for my father.
+
+**Marcel Santilli:** Oh, really?
+
+**Marcel Santilli:** What's your name originally from, or what's the...
+
+**Hani Durzy:** It's Arabic, so it was my dad's name.
+
+**Marcel Santilli:** It is my dad's name.
+
+**Marcel Santilli:** My friend is Palestinian-Jordanian.
+
+**Hani Durzy:** Yep, that's what I...
+
+**Hani Durzy:** Well, that's one half of me, yeah, yeah.
+
+**Marcel Santilli:** That's amazing, man.
+
+**Hani Durzy:** So nice to meet you, yeah.
+
+**Hani Durzy:** Yeah, good to meet you, Marcel and Tyler.
+
+**Tyler Pavlas:** Yeah, likewise.
+
+**Marcel Santilli:** Are we waiting on anyone else in your N, Hani?
+
+**Hani Durzy:** What's that?
+
+**Marcel Santilli:** Is there anyone else in your N we're waiting on?
+
+**Hani Durzy:** I thought Allison was joining, but until...
+
+**Hani Durzy:** I know Allison is joining.
+
+**Marcel Santilli:** He's the one who invited me to this meeting, so.
+
+**Marcel Santilli:** Okay, perfect.
+
+**Hani Durzy:** But let me, I'll explain to you who I am and what I'm doing here.
+
+**Hani Durzy:** I'm a consultant that works closely with Allison on all things Ceros-related, including content and communication.
+
+**Hani Durzy:** Allison and I worked together for years when we were both at LinkedIn when she was running marketing for the marketing solutions side of the business.
+
+**Hani Durzy:** And I was head of all of corporate communications for LinkedIn for about five and a half years.
+
+**Hani Durzy:** And now I have my own small consulting company and Ceros is one of my clients.
+
+**Hani Durzy:** So I was chatting with Allison a couple of days ago and he said, oh, you should come to this GrowthX marketing meeting and learn about what these guys do.
+
+**Marcel Santilli:** That's perfect.
+
+**Marcel Santilli:** I love that.
+
+**Marcel Santilli:** And I'm sure Tyler will get into it, but Ceros is actually Tyler's company he worked at.
+
+**Hani Durzy:** Say that again?
+
+**Marcel Santilli:** I'm sorry, you cut out.
+
+**Tyler Pavlas:** Yeah, worked at Ceros right before I joined GrowthX, and Allison, you know, she noticed that I was going to be a part of this meeting, and I basically said, Ceros plus GrowthX, it's the dynamic duo for content creation, because, you know, Ceros has got interactive on lock, and with GrowthX, we're experts around creating editorial content.
+
+**Tyler Pavlas:** content engines at scale, so that's a perfect world together.
+
+**Hani Durzy:** Well, I know it's something that Ceros needs.
+
+**Hani Durzy:** How we go about it is, I think, the question that we need to answer, and it's really interesting.
+
+**Hani Durzy:** Part of this, for me, is learning more about, you know, capabilities and different options, because...
+
+**Hani Durzy:** And, you know, what I see is, especially in my field in communications, everyone is trying to figure out, okay, how do we create compelling content in a world of AI slop?
+
+**Hani Durzy:** How do we then leverage that content to inform LLMs, for example, right?
+
+**Hani Durzy:** And how do we, you know, my research, my reading at least confirms that so much of what appears in answer engines tends to be drawn from compelling, trustworthy, authoritative editorial content, oftentimes on third-party sites, not on, it's earned, not owned.
+
+**Hani Durzy:** It's both, but earned plays an outsized role, you know, so how does all of that work?
+
+**Hani Durzy:** And I think we're all just, like, this stuff has been moving so fast that I find myself, after doing this for 25 years, back in full-on learning mode, so.
+
+**Marcel Santilli:** Yeah, yeah, that's exactly how it feels every day, but.
+
+**Marcel Santilli:** That's so true.
+
+**Marcel Santilli:** Maybe since we're waiting on Allison, we could.
+
+**Marcel Santilli:** I'm happy to kind of just give you a high level, even if we need to repeat some of it later, if you think that would be okay to kind of just.
+
+**Hani Durzy:** Sure.
+
+**Marcel Santilli:** Let me ping her just to see if she's got an ETA.
+
+**Marcel Santilli:** Cool.
+
+**Marcel Santilli:** That sounds great.
+
+**Hani Durzy:** Okay.
+
+**Hani Durzy:** I pinged her.
+
+**Hani Durzy:** So, yeah, I would love to love to hear about what you guys do.
+
+**Hani Durzy:** And then, you know, I have questions, right?
+
+**Hani Durzy:** I want to understand, for example, you know, one company that I've been looking at, not necessarily for ceros, but just my.
+
+**Hani Durzy:** Is it like Noah Greenberg's company, Stacker?
+
+**Hani Durzy:** Like, how do you, like, how do you guys relate to, how do you guys compare to Stacker?
+
+**Hani Durzy:** Because they seem to be certainly doing some interesting things as well.
+
+**Hani Durzy:** You know, I don't know if there's overlap.
+
+**Hani Durzy:** I'd love to know how you look at the landscape.
+
+**Marcel Santilli:** Yeah, yeah, absolutely.
+
+**Marcel Santilli:** You could do is like, I can jump in and just kind of show you a little bit or talk a little bit through like, kind of what we do and background and things like that.
+
+**Marcel Santilli:** know, so just a little background on myself.
+
+**Hani Durzy:** will also say, by the way, guys, before Alison comes on, you know, as I take on more projects for different clients or whatever, like this will be helpful for me.
+
+**Alison Lange Engel:** Outside of the CEROS universe as well, just to know a little bit about you guys.
+
+**Hani Durzy:** guys, sorry about that.
+
+**Alison Lange Engel:** I was interested.
+
+**Alison Lange Engel:** I finally got to where I need to go.
+
+**Hani Durzy:** Sorry to keep you guys.
+
+**Marcel Santilli:** Thank Marcel.
+
+**Marcel Santilli:** It's good to see All good.
+
+**Marcel Santilli:** Alison, so, so nice to meet you.
+
+**Marcel Santilli:** I've known all of CEROS for so long.
+
+**Marcel Santilli:** And so it's, you know, it's really, really nice to connect.
+
+**Marcel Santilli:** I think it's your VP of revenue.
+
+**Marcel Santilli:** I think she's still there.
+
+**Marcel Santilli:** Like, I was looking at it the other day and there's like a message from like six years ago or something, you know.
+
+**Alison Lange Engel:** Cool.
+
+**Marcel Santilli:** I love that.
+
+**Marcel Santilli:** Awesome.
+
+**Marcel Santilli:** But I was just going to do a quick intro on just the business, my background and things like that.
+
+**Alison Lange Engel:** I'm happy to keep going, but I'm also happy to, if there's any additional context from you, Alison, that you want us to keep in mind as an intro.
+
+**Hani Durzy:** Yeah.
+
+**Hani Durzy:** And Alison, I entered myself and answered the question, what the hell are doing here already for these guys?
+
+**Alison Lange Engel:** Okay.
+
+**Marcel Santilli:** Perfect.
+
+**Alison Lange Engel:** I love it.
+
+**Alison Lange Engel:** And I mentioned to Hani, Hani is the name of one of my best friends, so I love it already.
+
+**Marcel Santilli:** And so anyways, a little bit of my background, back in the day when I was at IBM, one of the first things I realized, like these big companies, right?
+
+**Marcel Santilli:** Like they're spending so much money in paid and content syndication and all these.
+
+**Marcel Santilli:** And it just always felt like marketing was really empty.
+
+**Marcel Santilli:** And for me, I was always like, okay, if IBM is spending a billion dollars in marketing overall every year, they could have literally taken half of that.
+
+**Marcel Santilli:** that.
+
+**Marcel Santilli:** Thank you.
+
+**Marcel Santilli:** By every publication in their space and have way bigger reach and way bigger audience and distribution than their marketing spend.
+
+**Marcel Santilli:** But no company usually does that, which is kind of crazy to me, right?
+
+**Marcel Santilli:** So back then, like 15 years ago, I like, you know what?
+
+**Marcel Santilli:** I want to just become that.
+
+**Marcel Santilli:** And so I built a site called securityintelligence.com that just got folded back into ibm.com.
+
+**Marcel Santilli:** But it was the first time IBM allowed a site to be off of ibm.com.
+
+**Marcel Santilli:** And it won the Best BWB Marketing Awards site.
+
+**Marcel Santilli:** We published a little over 300 pieces of content that year.
+
+**Marcel Santilli:** We started getting cited by a lot of security researchers.
+
+**Marcel Santilli:** And you can see kind of the chart growing to the right.
+
+**Marcel Santilli:** And then at HB, I built the same thing.
+
+**Marcel Santilli:** was like, hey, building a contributor network.
+
+**Marcel Santilli:** So I go out and get experts, recruit them, and just start to publish 20-plus pieces of content, really high quality every single week.
+
+**Marcel Santilli:** And I hire a bunch of managing editors from Computer World and Wire and all these publications, right?
+
+**Marcel Santilli:** And then long story short, like every job I've been at...
+
+**Marcel Santilli:** As I moved on to kind of these startups where I was heading marketing, at HashiCorp, we went from six to a hundred million in two years, and then went public, serviced that in from a hundred or almost to a hundred million in a year, and then scale, you we probably saw the meta acquisition, but I was their first and only CMO, the only one that survived probably two years.
+
+**Marcel Santilli:** But, you know, it's always the same thing over and over again, and I think like one of the things we started to do from there was just like, hey, how do we, how can I start taking all these things that I learned in my career in publishing content and creating editorial engines, right, that build trust with audiences and distilling them into AI workflows.
+
+**Marcel Santilli:** And so, I was still CMO my last company, DeepGram, and I started doing that, and we 24X our traffic in six months.
+
+**Marcel Santilli:** was insane.
+
+**Marcel Santilli:** Like, we 4X our revenue, like, things just went through the roof, so much so that actually our lead investor in our Series A was actually on the board of DeepGram, and DeepGram's not my customer, but then from there, I started doing workshops.
+
+**Marcel Santilli:** Cause I just, I'm really passionate about trying to help people and do this.
+
+**Marcel Santilli:** And then after about 170 people came and paid for the workshops, many of them were like, can you just do this for me?
+
+**Marcel Santilli:** This is a lot of work, even with you teaching us what you're doing.
+
+**Marcel Santilli:** And that's how growthx got started.
+
+**Marcel Santilli:** And so a little bit of kind of the way to kind of think about us, and then I can show you like actually how we work and things like that.
+
+**Marcel Santilli:** It is, we try to combine like service and software.
+
+**Marcel Santilli:** And so what we do is like the strategy piece of like how to create your entire content strategy and map everything, but starting with an audience first understanding, right?
+
+**Marcel Santilli:** And all the AI workflows all show your entire platform, but then we have editors and experts in the loop every single step of the way.
+
+**Marcel Santilli:** And we also do all the last mile stuff, whether it's staging it in your CMS, hitting publish, optimizing, doing all the AI visibility tracking for you.
+
+**Marcel Santilli:** So A to Z essentially, it was just like me being a CMO going, I am so sick of hiring mediocre agencies, having to stitch together a half a dozen of
+
+**Marcel Santilli:** Freelancers and still having to buy about a dozen tools and then like see no productivity happening, you know?
+
+**Marcel Santilli:** And it's just like, this is so effing painful.
+
+**Marcel Santilli:** Like I just want to pay for outcomes that I can drive, you know, or that I can direct and feel like it's an extension of my team.
+
+**Marcel Santilli:** So I built this for myself essentially, but it turns out a lot of people want that as well, you know?
+
+**Marcel Santilli:** And we're just super lucky to get to work with all these brands.
+
+**Marcel Santilli:** And so we're actually just crossed a million in ARR.
+
+**Alison Lange Engel:** Not that that metric matters to you, but it's like, think- Oh, it mattered.
+
+**Alison Lange Engel:** I was an early stage venture investor for years.
+
+**Marcel Santilli:** So yes, that's a big milestone.
+
+**Marcel Santilli:** So congrats.
+
+**Marcel Santilli:** That's great.
+
+**Marcel Santilli:** And we've only been around a little under a year.
+
+**Marcel Santilli:** And so, and we're 75 employees.
+
+**Marcel Santilli:** And so the way to kind of think about us, I'll show you the platform, but we have these just amazing freaking humans that work with us.
+
+**Marcel Santilli:** There are our directors, like Megan, was a managing editor at TechCrunch and then led editor.
+
+**Marcel Santilli:** 2004, a big VC, Matthew Panzarino ran TechCrunch for 10 years, like Rand was the head of design by Grammarly, you know, a lot of these editors and design engineers and people are, like, work for some of the major brands that you see here, you know, so, like, we have this, like, really highly curated, like, I like to call it, like, expert layer, if you will, that both shapes the strategy and, I like to think of them as output bar raisers.
+
+**Marcel Santilli:** And then our platform that I would love to kind of show you all kind of, and the platform is really like an internal platform, but we're going to start to expose more and more for our customers to interact with it as well.
+
+**Marcel Santilli:** But the idea is, like, where we're shaping that ourselves, you know, and so happy to kind of jump in and show you all a little bit under the hood, and then we can kind of chat back and forth, but hopefully this helps you just.
+
+**Hani Durzy:** When you say internal platform, hopefully exposing it to customers, can you go one level down on what that means?
+
+**Hani Durzy:** I mean, obviously.
+
+**Hani Durzy:** The context is, you know, Alison and I both come from the world of LinkedIn where, you know, from Jeff Wiener on down, if you can't measure it, you can't manage it, right, and you don't know what the whole thing is.
+
+**Marcel Santilli:** So I'm curious about how that works.
+
+**Marcel Santilli:** Yeah, absolutely.
+
+**Marcel Santilli:** That's a great point.
+
+**Marcel Santilli:** So super quickly, maybe what will help, two things.
+
+**Marcel Santilli:** I think the first one is like how things are changing now.
+
+**Marcel Santilli:** And so like where before people might be saying, searching, like Monograph is one of our customers, like things like Software for Architects, now what they're doing is like giving the entire context and spending, instead of spending 30 seconds in each crappy blue link, they're spending like 15 to 20 minutes engaged in this answer.
+
+**Marcel Santilli:** And so what we're seeing is like, it's not your first impression is happening in AI Answers, it's like your first sales meeting is happening in AI Answers, right?
+
+**Marcel Santilli:** And so it's almost like people are reading this and considering it like trusting.
+
+**Marcel Santilli:** Word of mouth, which is crazy, right?
+
+**Marcel Santilli:** Like, but it's just like the reality, fortunately or unfortunately, I don't know, right?
+
+**Marcel Santilli:** And so like our goal is to create like kind of like this reputable like engine that of credible content that has to be mapped against like the audience because this is like really a black box.
+
+**Marcel Santilli:** There's no like keyword volume or intent, right?
+
+**Marcel Santilli:** It's like, so you need to just have that deeper understanding of your audience, which is like, you've been doing cons for a long time.
+
+**Marcel Santilli:** like, that's how you do amazing cons, right?
+
+**Marcel Santilli:** Like you understand who you're talking to and you try to resonate with them because you have a deeper understanding of who they are.
+
+**Marcel Santilli:** Except like the game kind of changed a little bit in the sense that like now because you need to have more answers that are credible, like there's more surface area and LLMs are rewarding freshness of content.
+
+**Marcel Santilli:** Things are well-researched, factual, and now it's just like, hey, let's just say you have 500 pieces of content.
+
+**Marcel Santilli:** And like, how do you keep that fresh every three months?
+
+**Marcel Santilli:** How do you fact check every?
+
+**Marcel Santilli:** And that's where actually AI can help, not to abstract away experts, but to actually supercharge what we're able to do as experts with deep understanding of your customers.
+
+**Marcel Santilli:** So that's why a lot of what we do is we start with mapping things out from an audience perspective, right?
+
+**Marcel Santilli:** And so what we do is we create these artifacts.
+
+**Marcel Santilli:** And I don't know if you're familiar with the term context engineering, but a lot of this is like, if you think of AI as a little bit of an overconfident, intern that's super smart and picks up things very quickly, you don't want to give the intern the nitty-gritty step-by-step of a thing without that intern having the big picture, right?
+
+**Marcel Santilli:** And that's what context is important here, right?
+
+**Marcel Santilli:** And so a lot of what we do is just go through this whole process as part of our strategy sprint and then map everything, all the topics that your audience will care about.
+
+**Marcel Santilli:** And this is actually all the topics that we're going to also track within AI visibility as well, right?
+
+**Marcel Santilli:** through So we're going to through this
+
+**Marcel Santilli:** So that's kind of like, just to go back to the how on the platform, it's like, this is our platform.
+
+**Marcel Santilli:** And so then here, what you have is a company called Biologica.
+
+**Marcel Santilli:** They're about to launch next month, but it's the women's healthcare space, supplement space, where women go through different age groups, where they need something very different to support their hormonal changes, you know, they're happening.
+
+**Marcel Santilli:** And this is like this beautiful supplement that is just like, almost like a mocktail kind of experience.
+
+**Marcel Santilli:** It's just beautiful.
+
+**Marcel Santilli:** And also like, my wife experienced a lot of this.
+
+**Marcel Santilli:** So I always like to bring examples, you know, like we went through IVF and also like, this is is dear to me.
+
+**Marcel Santilli:** And also like, how important it is to get this right.
+
+**Marcel Santilli:** And so like, a lot of this is like, artifacts on the company context, but you can see the stuff is just like, the detail, the level of polish, it's just so important because it's like, you really need to get the stuff right.
+
+**Marcel Santilli:** And this is their reputation.
+
+**Marcel Santilli:** Like this is thought leadership, their chief medical officer, Maggie, is reviewing every single word.
+
+**Marcel Santilli:** And so this was us doing tons of different interviews in the first couple of weeks and ingesting all of this, right?
+
+**Marcel Santilli:** But then what's really cool is like our editors have access to a lot of these kind of like context-aware assistants that then they're shaping this content and these artifacts with a context-aware system that already pulls a lot of these artifacts.
+
+**Marcel Santilli:** You know, so think of it as like basing a bunch of context on the company, you know?
+
+**Marcel Santilli:** And then once we have all these artifacts, like writing guidelines and everything that is shaped with you, then we'll create these pipelines.
+
+**Marcel Santilli:** And so you can think of these pipelines as like agentic workflows with experts in the loop, right?
+
+**Marcel Santilli:** And so like just to give you maybe like you have an assignment brief and...
+
+**Marcel Santilli:** There's a workflow underneath the hood that is doing a bunch of research and shaping this assignment.
+
+**Marcel Santilli:** Then it's going to go through a research step where it's actually only pulling certain reputable sources and then doing a bunch of research here and then summarizing it into this research brief.
+
+**Marcel Santilli:** You can see the stuff is like really freaking detailed, right?
+
+**Marcel Santilli:** Like you go to perplexity or research, you're not going to get this quality because there's a lot of different like context that's inserted here, including like what are the kinds of sources that are reputable and that they want us to use, right?
+
+**Marcel Santilli:** And then from there, like this whole process was architected to go from, hey, here's a great piece of content.
+
+**Marcel Santilli:** How do we work backwards to figure out how this process works, not to abstract the way humans, but instead to figure out where can AI argument experts, what experts would do, and where do we need human judgment throughout the staff to continue to raise.
+
+**Marcel Santilli:** The bar of quality, you know, without losing the scale and speed either, you know, and so like we do that outline, we enhance the outline, we do an article draft, then we do a fact-checking step that fed an expert review in the loop.
+
+**Marcel Santilli:** So think of it as an LLM, as a judge in the loop that goes through every single statement for different nuances of like medical claims, you know, and what we did here was we took Maggie, who's an amazing endocrinologist background, has been developing supplements for 10 years and as a holistic doctor, and we almost like mirror like her background knowledge and expertise as well as we took like the calibration process, all her comments, and we said, okay, how would we work backwards from these types of comments so we have almost like a, you for lack of a better word, synthetic version of Maggie in the loop as an expert, you know, so that next time, Maggie's time is so, so, so valuable, like we don't want to make it harder for her to review the content, right?
+
+**Marcel Santilli:** Like, we annotated every medical claim, so then when she does review, there's all these MD things here, so then she can just focus on that, and then we take it all the way to the finish line, right?
+
+**Marcel Santilli:** And so, this one hasn't launched, but I'll just show you a couple of examples that have launched, like for town.com, and you can see, like, this content has to be really high quality.
+
+**Alison Lange Engel:** That's all, I know I missed the preamble, Marcel, but this is, it's, you know, it's basically an AI-generated content strategy, and then you guys are doing execution of all these different types of content.
+
+**Marcel Santilli:** Is that, like, I'm just trying to zoom out for a second.
+
+**Marcel Santilli:** Yeah, yeah, thank you for that.
+
+**Marcel Santilli:** Yeah, absolutely.
+
+**Marcel Santilli:** So, the way to kind of think about it is, we are a service that delivers outputs and helps you grow organically, and so your entire content is around organic search.
+
+**Alison Lange Engel:** I'll flash through and then I'll shut up, I promise.
+
+**Marcel Santilli:** But like engine.com, like we're doing all their content.
+
+**Marcel Santilli:** They have over 1,200 pages.
+
+**Marcel Santilli:** So there's a lot of content and refreshes we have to do.
+
+**Marcel Santilli:** And then you can see like the content getting pulled into AI reviews and things like that.
+
+**Marcel Santilli:** So a lot of this is like how we create this content, you know.
+
+**Alison Lange Engel:** That's the starting point.
+
+**Alison Lange Engel:** And can you start with, do you, we have a pretty, we've been doing a ton of work since January.
+
+**Alison Lange Engel:** We have a new CRO, he's in New York with customers or else he would join us today because it sits in the marketing org.
+
+**Alison Lange Engel:** And we actually need a lead for content.
+
+**Alison Lange Engel:** We're kind of rebuilding marketing from scratch.
+
+**Alison Lange Engel:** So that's why this is so opportune.
+
+**Marcel Santilli:** When Francois and I talked, I'm like, oh, perfect.
+
+**Alison Lange Engel:** We've had a lot of change at CROs.
+
+**Alison Lange Engel:** So you can execute against like a, you know, a pretty defined ICP.
+
+**Alison Lange Engel:** I assume you have pretty sophisticated brands on that front slide.
+
+**Alison Lange Engel:** So I assume, you know, there is some, you know, training that goes into, right, kind of the
+
+**Marcel Santilli:** Bullseye, the ICP, and the segments.
+
+**Marcel Santilli:** exactly.
+
+**Marcel Santilli:** So I think that's one of the things that's cool.
+
+**Marcel Santilli:** Like, Engine, they have, like, multiple different verticals.
+
+**Alison Lange Engel:** We have the same.
+
+**Alison Lange Engel:** Yeah, we have verticals.
+
+**Alison Lange Engel:** Our system, you know, a bit more skewed off the ICP.
+
+**Marcel Santilli:** And then we have verticals and case studies and use cases by vertical, et Yeah, so a lot of what we've done is start to create these industry-specific artifacts.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Once we had really good base ones.
+
+**Marcel Santilli:** And then we can create, like, pipelines with, obviously, like, editors in the loop that are specific to those, you know, here of, like, travel, time, pay for construction workers, you know, where, like, it's, like, very specific to, and you can see, like, there's tables, there's comparisons, there's, like, like, this is really high quality, but then, like, our editors will still spend some time in driving with that.
+
+**Marcel Santilli:** Yeah.
+
+**Hani Durzy:** I just want to make sure that I get this out there before.
+
+**Hani Durzy:** Yeah, absolutely.
+
+**Hani Durzy:** In terms of actually, if we're working backwards, you guys are all about the outputs, and I have a good understanding of what the process is, but in terms of the inputs, like here are the things that we are experts on, here is our overall messaging, the topics that we want to have a voice in, that we want to be known for.
+
+**Hani Durzy:** What is your involvement in helping to zero in on those things?
+
+**Marcel Santilli:** Yeah, I love that question, because I think that's like so fundamental in why we do a strategy and execution sprint, which is eight weeks.
+
+**Marcel Santilli:** And what we do is like, we map, first of all, we do, we ingest any and everything you can send us.
+
+**Marcel Santilli:** We'll try to do as many deep dives with your subject matter experts, product demos, and all of this.
+
+**Marcel Santilli:** And then what we're doing is like, we're doing competitive research.
+
+**Marcel Santilli:** We're all these things, and we're shaping all this into a strategy or a content OS.
+
+**Marcel Santilli:** And so let me just show up, right, of like what we need.
+
+**Marcel Santilli:** I have this because it's always easier.
+
+**Marcel Santilli:** I'm a visual person as well.
+
+**Marcel Santilli:** But so what we're doing is like we're defining.
+
+**Marcel Santilli:** This is for Engine.
+
+**Marcel Santilli:** And sorry, it takes a little while because there's like so much content here.
+
+**Marcel Santilli:** But what we're defining here is these topic clusters.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** So think of this as like you need a way to communicate our content strategy.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so topic clusters tends to be a nice way to do it.
+
+**Marcel Santilli:** And then this is kind of like the strategy, and it's a constantly evolving thing.
+
+**Alison Lange Engel:** This can be evergreen.
+
+**Alison Lange Engel:** we have a lot of this already.
+
+**Marcel Santilli:** Yeah, it's not codified with this degree of detail.
+
+**Alison Lange Engel:** But we've done messaging, positioning, you know what mean?
+
+**Marcel Santilli:** All that kind of stuff.
+
+**Marcel Santilli:** Yeah, we have all that.
+
+**Marcel Santilli:** But then what helps with that is like, getting to your point, is like start to map it — the way you think of the world.
+
+**Marcel Santilli:** Like they think of the world as far as like group types, personas, identify opportunities based on internal audits and external audits of your competitors and topics and things like that.
+
+**Marcel Santilli:** And then we kind of start to create topics and assignments that we can execute against. We've identified 470 potential assignments for the next year. Every single week we're meeting, publishing, looking at signals, reporting on the results, and iterating and doubling down on what's working, while also ingesting any inputs on the business that you have way more context than we do.
+
+**Hani Durzy:** I was going to say on the inputs, ingesting the inputs.
+
+**Hani Durzy:** So, for example, if we have a bit of research, say, about pain points for customers that...
+
+**Hani Durzy:** You know, originally was intended to be used internally to help inform the go-to-market strategy and give sales teams some content to, you know, share different points in the funnel.
+
+**Marcel Santilli:** We could give that to you guys, and that could then be ingested into the center to help Exactly, and so, like, anything you send us, like, this is all that this customer sent us, like, we're processing, this is how we work.
+
+**Marcel Santilli:** We have, like, like, place here in Notion that we share all the docs with you, all our meeting notes are there.
+
+**Marcel Santilli:** We'll do a ton of research on your competitors, and we'll do a ton of research on, like, people again, and then, like, and then all of this helps to shape these artifacts as well as the content strategy as well, you know.
+
+**Marcel Santilli:** And so, that's a little bit of, kind of, like, so the goal is, like, the more of this you have, the faster reading the context and the better we'll be able to shape the strategy for you.
+
+**Marcel Santilli:** And I think, like, the main thing is just, like, not everyone is as organized as you guys are.
+
+**Marcel Santilli:** And so, you know, we just need to adapt.
+
+**Marcel Santilli:** So sometimes, like, this process might be, like, we really need help to define all these things.
+
+**Marcel Santilli:** And sometimes it's more of, like, I need you to move fast because we know where we are in the middle.
+
+**Alison Lange Engel:** Yeah.
+
+**Alison Lange Engel:** But in the short time we have, because I need to jump to a call at 11.
+
+**Alison Lange Engel:** I know I was late.
+
+**Alison Lange Engel:** Two questions for you guys.
+
+**Alison Lange Engel:** One is, what internal team, like, what is the stakeholder collaboration where you guys find the most success?
+
+**Alison Lange Engel:** I don't have right now a content lead who owns this internally.
+
+**Alison Lange Engel:** We're actively looking for that solution.
+
+**Alison Lange Engel:** We have an exceptional paid, right, leader.
+
+**Alison Lange Engel:** I'm kind of filling in the marketing org with fractional folks.
+
+**Alison Lange Engel:** Yeah.
+
+**Alison Lange Engel:** Definitely a work in progress, you guys.
+
+**Alison Lange Engel:** And we're trying to move fast.
+
+**Alison Lange Engel:** I'm sure this is the same pitch, same story you guys hear from everyone you talk to.
+
+**Alison Lange Engel:** Go-to-market teams are so churning right now.
+
+**Alison Lange Engel:** Would love to hear, have you guys prescribed?
+
+**Marcel Santilli:** Hey, Allison.
+
+**Marcel Santilli:** Yep.
+
+**Marcel Santilli:** This is like, ideally from you, who are the stakeholders who own it and are working with you guys?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So it's a little bit of a spectrum.
+
+**Marcel Santilli:** So on one end, you have companies like town.com where we're working directly with the founder, zero marketing team, and we're their entire execution.
+
+**Marcel Santilli:** But the founder, we just ask for at least 30 minutes a week to just make sure we're heading in the right direction and giving us some feedback.
+
+**Marcel Santilli:** So if you're like, Marcel, I have zero time and Hani has zero time, then it's probably not a great fit.
+
+**Alison Lange Engel:** Yeah, no, we do.
+
+**Alison Lange Engel:** We have other folks on the marketing team.
+
+**Marcel Santilli:** Yeah, we have folks.
+
+**Marcel Santilli:** But we can do A and C.
+
+**Marcel Santilli:** But then on the other end of the spectrum, companies like Ramp and Webflow, they have massive teams.
+
+**Marcel Santilli:** And so we supercharged our execution and take away a lot of the grunt work of like staging content, grading graphics, doing all of that stuff, and doing a lot of the optimization.
+
+**Marcel Santilli:** And then the cool thing with us is like we have this eight-week strategy sprint that is barely like de-risked before it goes into a longer-term commitment.
+
+**Marcel Santilli:** And it's like 20k for eight weeks.
+
+**Marcel Santilli:** And we do all the strategy, all the workflows, all the
+
+**Marcel Santilli:** Artifacts and we start to execute.
+
+**Marcel Santilli:** it gives an opportunity to just like, you know, just work together.
+
+**Alison Lange Engel:** And that's where we can shine because I can, we can have five more of these meetings and I'll still, we won't get to the depth that we need to, you know?
+
+**Alison Lange Engel:** Yeah, of course.
+
+**Alison Lange Engel:** Yeah.
+
+**Alison Lange Engel:** Okay.
+
+**Alison Lange Engel:** And then are you guys, what are the, you know, outcomes?
+
+**Alison Lange Engel:** Are people coming to you guys where it's like, I need to, I'm trying to ramp up my inbound.
+
+**Alison Lange Engel:** I'm trying to get, obviously everyone wants higher quality, a higher quality sales funnel.
+
+**Marcel Santilli:** Like what are the kind of the KPIs or success metrics that you guys are?
+
+**Alison Lange Engel:** Yeah.
+
+**Alison Lange Engel:** Yeah.
+
+**Marcel Santilli:** And also happy to do a deeper dive later too, because I know you got to run, but the high level is mostly like, we want to make sure you're increasing your reach and visibility, both within organic search and traffic to your site, as well as like how you show up in AI answers.
+
+**Marcel Santilli:** And we track that against the things that actually matter to you, both the transactional versus the informational things that will build trust with your audience.
+
+**Marcel Santilli:** And then once you have traffic and quality of traffic, then we can kind of help start mapping.
+
+**Marcel Santilli:** Like what does the next step offer?
+
+**Marcel Santilli:** the step offer?
+
+**Marcel Santilli:** That will drive that traffic further down.
+
+**Marcel Santilli:** And then working with your teams on like, hey, let's optimize for driving people to great offers.
+
+**Marcel Santilli:** And if you don't have great, like valuable offers, like we can repurpose a lot of the content we're creating into more attractive, irresistible offers that can help to turn, you know, that attention into ideally distribution.
+
+**Alison Lange Engel:** And so for some customers, we run their weekly newsletter, we do some things.
+
+**Alison Lange Engel:** It's like building the pool.
+
+**Marcel Santilli:** I mean, it's really top of the middle.
+
+**Marcel Santilli:** Content distribution conversion, but you have to start with content to build trust and reach.
+
+**Alison Lange Engel:** Yeah, got it.
+
+**Hani Durzy:** And I know, Alison, you got to go, but maybe you want to hear the answer to this if you can.
+
+**Hani Durzy:** Yeah.
+
+**Hani Durzy:** What about different types of content, different vehicles of content?
+
+**Hani Durzy:** What I see is a lot of kind of long form content, things that you would put on your blog or on a separately branded, separate domain owned site.
+
+**Hani Durzy:** So it appears like it's earned media with third party validation.
+
+**Hani Durzy:** But are you are we also talking about social content since we're Saros?
+
+**Hani Durzy:** Are we also talking about Sarosify?
+
+**Marcel Santilli:** content.
+
+**Marcel Santilli:** How do you guys involve yourselves in making those decisions and producing those?
+
+**Marcel Santilli:** Yeah, the short answer is yes and no. Yes, we have done and we do things like, for instance, we're running a newsletter for Udemy.
+
+**Marcel Santilli:** It's called SkillsGraph.
+
+**Marcel Santilli:** For AugmentCo, which is like we're running their weekly newsletter as well.
+
+**Marcel Santilli:** For Lovable, we're creating a template library and a prompt library for them.
+
+**Marcel Santilli:** Like, you know, so like we're doing a lot of stuff that's like programmatic and even off domain.
+
+**Marcel Santilli:** But I think like we never start there because for you to get social right is so personal — it's about curating the right voice. We help to repurpose content, but the foundation is always the editorial content, not the format.
+
+**Alison Lange Engel:** You don't start with the format. You start with the content.
+
+**Hani Durzy:** And if we have a repository of great vetted, compelling editorial type content.
+
+**Hani Durzy:** Then we can have an organic social lead, basically take that and push it through those social channels in a way that makes sense for us.
+
+**Marcel Santilli:** Exactly.
+
+**Marcel Santilli:** Like with Galileo AI, they started this podcast called Chain of Thought.
+
+**Marcel Santilli:** And then we repurpose that into articles and also help inform the roadmap of like things that they want to talk about in the podcast.
+
+**Marcel Santilli:** So like it works both ways.
+
+**Alison Lange Engel:** But, but, but yeah, like, and again, like, I think there's a lot of great overlap with, with your company.
+
+**Alison Lange Engel:** And so it's like anything we can do to kind of help and be involved, it would be such an honor, you know?
+
+**Alison Lange Engel:** Yeah.
+
+**Alison Lange Engel:** Awesome.
+
+**Alison Lange Engel:** Thank you.
+
+**Alison Lange Engel:** This was so effective and so fun and cool.
+
+**Alison Lange Engel:** And I can see why you guys have a million in ARR quickly because it's such a hard nut to crack.
+
+**Alison Lange Engel:** And like for all companies, even when you have skilled teams like mine at LinkedIn and Stripe, like it's hard, it's hard to get, you need content strategy.
+
+**Alison Lange Engel:** I need killer execution.
+
+**Alison Lange Engel:** I need people who understand all these technical pieces, all those pieces are changing.
+
+**Marcel Santilli:** You know what mean?
+
+**Marcel Santilli:** Like, then all of a sudden you're like, yeah, great.
+
+**Alison Lange Engel:** Now I have a team of three or four.
+
+**Alison Lange Engel:** Or, you know, I'm in for four or five hundred grand of headcount.
+
+**Alison Lange Engel:** Even when you get it right, you still end up needing freelancers and tools, and it kind of spirals.
+
+**Alison Lange Engel:** And so I just think in the game, like you said, the landscape is changing so fast.
+
+**Alison Lange Engel:** So let's do this.
+
+**Alison Lange Engel:** I think if there's anything you can send along, great.
+
+**Alison Lange Engel:** If you have fractional people that you guys have worked with who you love to do, who are good partners, I'm all ears because I'm actively vetting folks right now.
+
+**Alison Lange Engel:** So obviously we want to find a full-time role, but I'm, you know, we're open to finding a fractional person.
+
+**Alison Lange Engel:** I'm hugely passionate about this.
+
+**Alison Lange Engel:** I mean, I've been away from it for a couple of years because I was an investor and not in the weeds.
+
+**Alison Lange Engel:** But at LinkedIn, we looked in the mirror early on, like 2012, I was there pre-IPO with Hani.
+
+**Alison Lange Engel:** And it was like, okay, my traditional B2B marketing team wasn't going to cut it. We had to move to content. This was during the rise of the HubSpot inbound movement. We were aligned with those guys, thinking about how to market the LinkedIn feed. So I hired two distinct people to build this from scratch.
+
+**Alison Lange Engel:** So I know the power of getting it right.
+
+**Alison Lange Engel:** And it changed the game for us.
+
+**Alison Lange Engel:** It became a central part of our strategy. So anyway, it's killer to see it happening here.
+
+**Marcel Santilli:** I mean, we're super flexible and finding a way to work together. Alison, your background is just so incredible.
+
+**Marcel Santilli:** And it's like, I feel even humbled to get to interact.
+
+**Alison Lange Engel:** And, you know, it's like, no, this is humbling to start over at this point in the market.
+
+**Marcel Santilli:** So we have a lot to do as Tyler knows, but we can definitely accelerate with quality.
+
+**Marcel Santilli:** And so let's do this.
+
+**Alison Lange Engel:** I got to run, unfortunately, too, but we'll send a follow up and then with as much detail.
+
+**Alison Lange Engel:** And then if you guys are okay, we can start a shared Slack channel to make it even easier to communicate.
+
+**Alison Lange Engel:** Yeah, let's do that.
+
+**Marcel Santilli:** And then we'll set up a deeper dive and we'll come with like a lot more suggestions as well, if that's okay.
+
+**Alison Lange Engel:** Okay.
+
+**Tyler Pavlas:** Perfect.
+
+**Marcel Santilli:** Great.
+
+**Marcel Santilli:** We'll come with you.
+
+**Marcel Santilli:** Thank you so much.
+
+**Tyler Pavlas:** I know, exactly.
+
+**Alison Lange Engel:** Thank you so much. It was great to see you all.
+
+**Hani Durzy:** All right, guys, I'll stay on for a minute or two, and then I got to jump as well.
+
+**Hani Durzy:** See you later, Allison.
+
+**Hani Durzy:** We'll talk soon.
+
+**Hani Durzy:** This is really interesting, guys.
+
+**Marcel Santilli:** And, Hani, I'm so sorry.
+
+**Marcel Santilli:** I got to run, but Tyler will stay on.
+
+**Hani Durzy:** I just got to jump to my next meeting. Sounds good.
+
+**Hani Durzy:** All right.
+
+**Hani Durzy:** Yeah, Tyler, so how long were you at Ceros?
+
+**Tyler Pavlas:** Yeah, I was at Ceros for, I think, a little over two years.
+
+**Hani Durzy:** Okay, when did you leave?
+
+**Tyler Pavlas:** I am at week four here at GrowthX, so it's pretty fresh.
+
+**Tyler Pavlas:** But I think, I mean, one thing I definitely see with Ceros is that the SDR team was incredible, and there was so much pipeline generated by that team that the content arm, it was never really like a vehicle to book new meetings for sales.
+
+**Tyler Pavlas:** And so this could take a lot of the pressure off SDRs and also lead to a lot more higher intent meetings. We would meet with the same people, right, over and over again, and it'd kind of just be the same song and dance after a certain point.
+
+**Hani Durzy:** Well, and the whole SDR group, I mean, over the last two years, I think there was a lot of churn, as you know, right, over there.
+
+**Hani Durzy:** But I think it's super interesting.
+
+**Hani Durzy:** I think that, you know, content is the key to driving intent, to driving awareness.
+
+**Hani Durzy:** I know that that team is desperately looking for something to kind of stand this up and do it manually.
+
+**Hani Durzy:** We can do it.
+
+**Hani Durzy:** Like, we've launched a podcast that Alison is hosting.
+
+**Hani Durzy:** She's recording her third one, actually, in a couple of hours, called The Engagement Principles, where she's talking to marketers and designers just about how do you break through the signal-to-noise ratio, you know.
+
+**Hani Durzy:** And that's, like, that's some content development, but they've lost some people.
+
+**Hani Durzy:** Corey Wallace is leaving at the end of this week, you know, and she was kind
+
+**Tyler Pavlas:** Leading content.
+
+**Tyler Pavlas:** I don't know if you knew Corey.
+
+**Tyler Pavlas:** Yeah, we went to a conference together.
+
+**Hani Durzy:** knew Corey pretty well.
+
+**Hani Durzy:** Tomorrow's her last day, unfortunately.
+
+**Hani Durzy:** But, you know, it might not be a bad thing.
+
+**Hani Durzy:** She wants to go do something different.
+
+**Hani Durzy:** And, you know, they really need someone who can think maybe more strategically.
+
+**Hani Durzy:** And this might be the answer.
+
+**Hani Durzy:** Right.
+
+**Hani Durzy:** So I'm excited by what I've heard, whether it's for Sarah's or maybe down the road for something else that I might be working on, because I'll tell you the truth.
+
+**Hani Durzy:** Like, my job has always been as a storyteller, right?
+
+**Hani Durzy:** That's taken the form of a strategic communications advisor, and before that, like a VP of corporate communications or some kind of external communications and internal.
+
+**Hani Durzy:** That's all great, but the world is changing.
+
+**Hani Durzy:** And so I'm trying to figure out how to bring this idea to scale as well.
+
+**Hani Durzy:** And if I can partner with you guys to do that, I would love that.
+
+**Hani Durzy:** So, yeah, I love it, honey.
+
+**Tyler Pavlas:** And I think, you know, that podcasting.
+
+**Tyler Pavlas:** Example, like what we do here supplements those efforts so well because it just brings more eyeballs to the website and the other things that you're doing, right, where the blog posts that we create or the editorial piece that we're writing that's directed to the persona ceros cares about, the graphic designer, right, across different industries or maybe even higher level, right, like a head of design or a VP of demand gen.
+
+**Tyler Pavlas:** It gets them there and then they explore the higher value, higher time intensive content pieces you put together like the podcast that, you know, Alison.
+
+**Hani Durzy:** Or the podcast gets leveraged to be turned into three or four other pieces of content.
+
+**Tyler Pavlas:** Exactly.
+
+**Tyler Pavlas:** We've done that with webinars a lot.
+
+**Tyler Pavlas:** Podcasts with the CEO of Ceros, that's a lot better than a webinar.
+
+**Hani Durzy:** Yeah, we would take that.
+
+**Hani Durzy:** And then the other thing I was thinking is, and I'm not wedded to this, but I really do want to explore the idea of a kind of branded but separate domain for Ceros-related content.
+
+**Hani Durzy:** When I say Ceros-related content, it's not necessarily, at least overtly, about Ceros and Ceros's products, right?
+
+**Hani Durzy:** It's more about the topics that Ceros, the problems that Ceros is trying to solve on behalf of its customers, the topics that Ceros feels like it has a right to have a voice in, right?
+
+**Hani Durzy:** Like, for example, I mean, the big topic is this whole idea of engagement that matters, right?
+
+**Hani Durzy:** How do you, in a world where just content is being foisted upon people, whether they want it or not, how do you break through?
+
+**Hani Durzy:** Exactly.
+
+**Hani Durzy:** How do you, what is the role of the human and human creativity in a world where AI is developing a lot of this content?
+
+**Hani Durzy:** And you guys are a great example of that because you have human editors and readers.
+
+**Hani Durzy:** Researchers, you know, doing, you know, checking against all of this and, you know, and then can we put that into a domain where anyone who is a serious designer or who is a serious marketer that focuses on design and awareness and engagement can go to almost like a media site, right?
+
+**Hani Durzy:** Because I think that has beneficial impacts on how we show up in LLMs.
+
+**Hani Durzy:** So this is exactly I'm thinking about and I'll talk to Alison, but I think this may be a really good answer for us.
+
+**Tyler Pavlas:** Yeah, fantastic, Hani. I mean, what you were just saying reminds me of Ceros Originals — that was a thought leadership section of the website that Ceros may have deprecated. There wasn't much content there when I checked.
+
+**Tyler Pavlas:** But the whole idea is like, if you could get someone to go to a place like that, then it's going to funnel them to Ceros Inspire, where they're going to see all the examples of what's possible.
+
+**Tyler Pavlas:** And Ceros Inspire worked so well for me as a salesperson, because I could like show them what they could create using the platform.
+
+**Tyler Pavlas:** So, you know, you're spot on, right?
+
+**Tyler Pavlas:** Like, in this AI world, if you're not using it to create content at the scale that's required to show up in the answer, then it's not going to get people to the higher value pieces that you're going to spend your human capital creating.
+
+**Tyler Pavlas:** And that's where Ceros, I think, is a huge, like, leader, right?
+
+**Tyler Pavlas:** Like, Ceros is all about human-powered creativity, and you just need to leverage a partner that can create content at scale that's not the bread and butter that you would create in Ceros as an interactive piece.
+
+**Hani Durzy:** Yeah.
+
+**Hani Durzy:** Okay.
+
+**Hani Durzy:** So, let me ask you this last question, because I mentioned this at the beginning, but one of the things I know that a company like Stacker does.
+
+**Hani Durzy:** And it seems like you guys have a better kind of content creation engine strategy structure or whatever you want to process than maybe Stacker does.
+
+**Hani Durzy:** And I have not talked to them at all.
+
+**Hani Durzy:** But one of the things I know they do is they essentially created their own newswire and they distribute content that they create on behalf of clients to thousands of third-party media, none of which are very big, right?
+
+**Hani Durzy:** They're not like New York Times is not picking up Stacker created content, but it almost doesn't matter at this point because, you know, it's like the let the thousand points of light shine.
+
+**Hani Durzy:** You want a thousand different pieces of content out there and very small kind of micro third-party media outlets or independent outlets.
+
+**Hani Durzy:** Do you guys do anything like that?
+
+**Hani Durzy:** you have any kind of distribution platform beyond your client's chosen distribution platform?
+
+**Tyler Pavlas:** I think if you'll let me, I would love to table the answer to this question for the deep dive.
+
+**Tyler Pavlas:** Just because I was looking up Stacker, as you mentioned them today, and need to, like, acquaint myself to what they do and think about how it connects to growthx.
+
+**Hani Durzy:** So that's fine.
+
+**Hani Durzy:** It's just, I think the, this is all secret sauce, but one ingredient to that secret sauce is how do you get your, now that you've created an engine at scale that produces good, compelling content that people want, want to read, and you've put it in a place where you can drive traffic exactly where you want to drive it.
+
+**Hani Durzy:** The third question then, the third step then becomes, how does that content propagate on other platforms?
+
+**Hani Durzy:** That's, I think, the ultimate question.
+
+**Tyler Pavlas:** Exactly.
+
+**Tyler Pavlas:** No, it makes a ton of sense.
+
+**Tyler Pavlas:** Should we book the next meeting with Alison just right now, if you have access to her calendar?
+
+**Tyler Pavlas:** I don't have access to her.
+
+**Hani Durzy:** Yeah, it's her EA.
+
+**Hani Durzy:** Dionne would be the person to do that, but please add me.
+
+**Tyler Pavlas:** Thank you. Yeah, for sure.
+
+**Tyler Pavlas:** I'm going to add you to the Slack channel, the next invite.
+
+**Tyler Pavlas:** I'll share some resources today, and we'll look forward to doing the deep dive as the next step.
+
+**Hani Durzy:** All right.
+
+**Hani Durzy:** Sounds good, Tyler.
+
+**Tyler Pavlas:** Where are you based, by the way?
+
+**Tyler Pavlas:** Houston, Texas.
+
+**Tyler Pavlas:** I used to live out in the Bay, and now I get to travel there a lot more because that's where Marcel and team work.
+
+**Tyler Pavlas:** So I love that.
+
+**Hani Durzy:** I'm out here, too.
+
+**Tyler Pavlas:** I'm down in San Jose.
+
+**Tyler Pavlas:** Okay, awesome.
+
+**Tyler Pavlas:** We do tons of events, so I'll make sure that for the next events that we do, you're on the email list for sure.
+
+**Tyler Pavlas:** Great.
+
+**Tyler Pavlas:** I appreciate it.
+
+**Tyler Pavlas:** All righty.
+
+**Tyler Pavlas:** Good to meet you, Hani.
+
+**Tyler Pavlas:** See you later.
+
+**Tyler Pavlas:** Tyler.
+
+**Tyler Pavlas:** Take care.
+
+**Tyler Pavlas:** You too.

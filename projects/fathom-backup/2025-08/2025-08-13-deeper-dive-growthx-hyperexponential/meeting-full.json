@@ -1,0 +1,3339 @@
+{
+    "title": "Deeper Dive \u2014 GrowthX & Hyperexponential",
+    "meeting_title": "Deeper Dive \u2014 GrowthX & Hyperexponential",
+    "url": "https://fathom.video/calls/378467462",
+    "created_at": "2025-08-13T18:56:35Z",
+    "scheduled_start_time": "2025-08-13T18:15:00Z",
+    "scheduled_end_time": "2025-08-13T19:00:00Z",
+    "recording_id": 80392212,
+    "recording_start_time": "2025-08-13T18:16:41Z",
+    "recording_end_time": "2025-08-13T18:56:27Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Tyler Pavlas",
+                "matched_calendar_invitee_email": "tyler@growthx.ai"
+            },
+            "text": "Great job on Bubble.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Good stuff.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "David, how's it going, man?",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Hey, how you doing?",
+            "timestamp": "00:00:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "How's that?",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Good.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "How have things been?",
+            "timestamp": "00:00:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I feel like you're, how many, how many months in or weeks in now?",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Just a couple weeks, but it's been two trips to London, so.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Holy .",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So, half your tenure has been on a plane, is what you're saying.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Actually, I caught your, I think I told you, your webinar, I had just landed, so I caught it, most of it in the taxi on the way home, because it's about, you know, an hour and a half ride from JFK to my house.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So, that worked out pretty well.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "well.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "well.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So,",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And then I saw you posted it, you know, a couple of days later, so I could have just done it in a better setting, but it was pretty good.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "It was pretty good.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, I enjoyed it.",
+            "timestamp": "00:01:10"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:01:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So that's helpful because then you got a lot of the context as well of kind of how we're thinking about things, you know, hopefully that was useful.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Cool.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I put some money in your tip jar too for the, you know, 50 bucks or something.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "always feel like it's good to pay someone a little bit for their time.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "you.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I appreciate it.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, we're actually, I would love your I don't know what else I get for that, but.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We're in the process of launching airlinegrowth.com as a collegiate community, you know, and the main thing is like everything we do, all the artifacts, all the templates, is essentially like we're going to dump everything in there and it's still do events that are open to everyone as well.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But our thought process is like, hey.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "People before were paying 500 bucks for our workshops.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so if we have all those workshops there, all the templates, all the artifacts, everything in one place, plus we can do office hours and do more events and cohorts and things like that, and it's less than one single workshop, then I think there's a huge opportunity as far as like not to make money, but instead to just charge just a little bit to essentially pay for us to have like full-time people managing the whole thing and investing more.",
+            "timestamp": "00:02:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "You know what I mean?",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So it's a way to like fund the growth of the community and the improvement of the community, not to make money.",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, no, I think it's smart, but it's also good kind of word of mouth and just good marketing and it pays for itself.",
+            "timestamp": "00:02:37"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So it seems that's what a lot of these AI companies or at least AI consultancies are doing.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So they have these guys who have a YouTube channel, then you go to the school community, and then if you want to move forward, you do their services, you guys are doing something a little more.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "know,-free uh,\u3134h right?",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But one a pretty",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "That's great, but, yeah, no, I think it's a good move.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So, yeah, I'm going to \u2013 I'll be out in your area in probably about two months, so I'll look you up.",
+            "timestamp": "00:03:06"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I'm trying to figure out \u2013 kind of reflecting on our last conversation and some of the stuff you shared, you know, just kind of if this is the best timing, because, like, what you were saying was, you know, you want to do a \u2013 you know, when I originally reached out, I thought you were still doing some of the consulting services.",
+            "timestamp": "00:03:16"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I didn't realize you had, like, systematized the whole thing.",
+            "timestamp": "00:03:37"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So, you I don't know if I'm ready to jump into, like, a whole platform conversation at the moment.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I think, like you said on the course, it might be best for us, like, try to hack it a little bit, and then once we get some of the artifacts established, you know, get",
+            "timestamp": "00:03:47"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "A couple early wins with like five or 10 articles and then, you know, then lean into a platform systematic approach.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But that's kind of, yeah, that kind of what I've been thinking after our last conversation.",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But I'd love to hear your thoughts.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I think like the way, if I was in your shoes, right, like the way I've always approached it is where is your time as a CMO, right?",
+            "timestamp": "00:04:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like most impactful today and where, what are your big bets?",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And within those lanes of big bets, what are the foundational things that you know you need to do, but maybe they're not at the top of like where you should invest your time personally, right?",
+            "timestamp": "00:04:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So that's like normally, obviously you're way more experienced than I am, probably a better CMO, but, you know, it was like, that's how I usually would approach it.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But it is like, one, I would come in and my biggest fear was always like, I don't want to hire the wrong people.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But I also can't not do anything or only do what I have bandwidth today to do, right?",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so there is like kind of like a learning and placing some chips down across a few things without having a kind of crazy overcommit, right?",
+            "timestamp": "00:05:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "AKA, if you hire six, seven, eight people, you're committing like for a very long time, right?",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Those are the right things.",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And you don't get the learning experience immediately because it's like, you know, 36 days of hiring, onboarding, things like that, you know?",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "so normally what I'll try to do is be like, hey, these are the things that like I'm going to go put my entire focus and attention.",
+            "timestamp": "00:05:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And these are the areas where I know we need to do in order to win long term.",
+            "timestamp": "00:05:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And I don't want to do nothing or wait six months to do something because like you need to plant the right seeds, right?",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so like the way we're positioned is although we have an internal platform that we'll be exposing more and more to all our customers, like that, the way to kind of think about it is at the end of the day, it's a supercharged service with.",
+            "timestamp": "00:05:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Really, you know, seasoned people, right?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like directors, like people that know what they're doing, like managing editors, like writers, and so SEO consultants.",
+            "timestamp": "00:06:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so the way to kind of think about it is like the strategy sprint is like we de-risk kind of like the whole thing because it's like an eight-week one-time thing that if you go and hire even a product marketing consultant, that's what they're going to charge.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We're just like doing a little bit of consulting, right?",
+            "timestamp": "00:06:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But we're doing not just that.",
+            "timestamp": "00:06:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We're doing that.",
+            "timestamp": "00:06:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We're mapping our entire content strategy.",
+            "timestamp": "00:06:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We're creating all the artifacts for you that are all AI ready.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "They're going to supercharge everything else we're doing.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And we're also executing on content that even if you're changing your web presence or anything else, those are the right kind of seeds to plant, right?",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So, but not to say that, like, that is the important thing you should do first either, you know, like, but if you think like content is going to play an important role, like...",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Especially with a domain that has very little authority overall, like, then you want to invest earlier because it's going to take a little bit longer, you know?",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I think that'd be useful if we could brainstorm, like, what would be the, I mean, I understand the artifacts and the, you know, but, like, where are we point this engine?",
+            "timestamp": "00:07:11"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And, yeah, so for, and also, you know, how much of it is, so, like, I guess one use case would be the AEO, I guess AEO, SEO are sort of converging, there'd be that, versus the more, well, actually, I mean, that's, that's, that's sort of a legitimate scope in itself.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "It's just starting down the AEO, SEO route for a company that's never spent any time on that.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And we are relaunching the website, so we'll be putting a lot of it on Framer.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I don't know, you probably know more about that.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Should we be having a separate section of the site that's Webflow or would Framework do just as well?",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And how do we kind of populate that with a hefty amount of content so when it launches, it's enriched with a really good content structure?",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "If that's kind of within its scope, that could be a good project.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "There's probably other directions you could point us.",
+            "timestamp": "00:08:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But yeah, and like last time we talked, you mentioned like essentially like actuaries and underwriters as one of the personas, right?",
+            "timestamp": "00:08:25"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Or the personas?",
+            "timestamp": "00:08:35"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So, so I could sit back and I'll give you the, yeah, the, the target customer, well, historically, I don't know if I told you, historically, like they sold within like a square mile in London.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And so it was marketing, but it was of a different type.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "It was just like word of mouth, lots of dinners and, you know, got...",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Got to about a 50% market share, but within that London, Lloyd's of London market.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Now we're entering the US where the stakes are bigger and the companies are a little more distributed.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So you have New York, Bermuda, but also some people, Chicago and Philadelphia, whatever.",
+            "timestamp": "00:09:15"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So more traditional marketing channels are becoming more important.",
+            "timestamp": "00:09:22"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "There's also a whole new set of entrants in the US.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So in London, there was like no competition.",
+            "timestamp": "00:09:29"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "In the US, there's companies that, I'll give you a couple of their names, like Federado is one, Sitora is another, and Earnix is a third one.",
+            "timestamp": "00:09:32"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And Earnix has done a lot of SEO work.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But they're all like coming at it from different angles, but at least they're like US.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Earnix, I would say, probably has the best SEO, but Federado probably has the most interesting messaging.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Um.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Um.",
+            "timestamp": "00:09:59"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And they're all kind of like AI native for the insurance industry, but they come at it from different, you know, we all come at it from different angles.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But when people don't know the difference, those are all kind of in a similar space of companies that are doing something cool for this very dodgy industry.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So, yeah, there was from no competition to competition and from like highly localized to a little more distributed is kind of the reason why this is, you know, an interesting time to be a marketer at this type of, in this type of company.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But it's also a very large enterprise.",
+            "timestamp": "00:10:35"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So, you know, average deal sizes are like a million dollars.",
+            "timestamp": "00:10:37"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "There's like, you know, 500 accounts in the world that could be customers.",
+            "timestamp": "00:10:42"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And, you know, a million dollars is like the average land.",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So from that angle, they've thought historically that SEO was not as valuable a channel.",
+            "timestamp": "00:10:53"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Because there's no PLG motion, but I think you're right that I would argue that it doesn't matter, people are still having conversations with ChatGPT and you need to be SEO optimized to show up the right way in those conversations, even if they're at a very large enterprise and they're not going to self-serve.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So, then, so beneath that, the personas are, you know, underwriters who are like the P&L owners, actuaries who are sort of like the math people who support the P&L owners, and then there's these, you know, IT, digital transformation people, because this is a large company, so they all have like, you know, even people with like AI titles.",
+            "timestamp": "00:11:21"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Um, and those people kind of work together to figure out what the right tech staff should look like.",
+            "timestamp": "00:11:46"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Um, so I think our content strategy needs to, you know, A, tailor to those three different personas, probably right now it's really hard to.",
+            "timestamp": "00:11:51"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "You know, see where our content is.",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "kind of all across the map.",
+            "timestamp": "00:12:04"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "It probably, there's probably an opportunity to, you know, just understand trending topics.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I think that was one of the topics that you covered, you know, figuring out.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "First of all, we have very rich persona artifacts, so I'm not worried about that.",
+            "timestamp": "00:12:21"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "It's more like, you know, what's trending in the market that we should be speaking to that would get people's attention on social or, you know, that they're going to be asking about on ChatGPT before they're in a buying process.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I think that content's very weak right now.",
+            "timestamp": "00:12:37"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, kind of pause there.",
+            "timestamp": "00:12:41"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "That's sort of the content universe that we live in.",
+            "timestamp": "00:12:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, that's perfect.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And I think, like, a couple of things just to, maybe I can kind of share my screen.",
+            "timestamp": "00:12:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I this is, like, super, like, rough and high level, right?",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, but, I don't",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But like, if you look at, for instance, this is kind of like just playing with it a little bit, this is like, let's just say like, top AI tools for insurance on rating, you know, your competitors, they'll mostly show, but then also like these sevens to be able to, I don't know what I've talked about here.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's mostly from a document processing perspective, right?",
+            "timestamp": "00:13:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like they're coming at a different angle.",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "it's like a document heavy, document processing is a huge use case, then you, you want to build topical authority and visibility, AI visibility into that, right?",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So it's one example where like you don't exist here, right?",
+            "timestamp": "00:13:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Then, then there's like how your customers are talking about it.",
+            "timestamp": "00:13:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "don't know if there's traction or not of like what is this comp, for example.",
+            "timestamp": "00:13:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I don't know what they used to, I don't know if that is a term that other people have used or not.",
+            "timestamp": "00:13:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's like that they're using stuff to show up.",
+            "timestamp": "00:13:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so like, there's a lot of these kind of, kind of angles.",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Right?",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so one of the things we try to do or wouldn't do That's a number six is the hyperxponential, yeah.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, okay, cool.",
+            "timestamp": "00:14:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Sorry, I missed that one.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, but it's like there's also a renaming thing, H is an H, so like, yeah, there's a lot of reasons.",
+            "timestamp": "00:14:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's almost better we don't have too much delivery.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "L1 is used to be how a data labeling company describes you, right?",
+            "timestamp": "00:14:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, you know, because it's obviously not going to be as good.",
+            "timestamp": "00:14:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So what you want instead is like when we're creating content, right?",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, so for instance, like I'll give you a very specific example here that I mentioned in the, I think I might have mentioned in the demo, but this one's kind of like a fun one to do.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But if you look at like 13 best AI coding tools, right?",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then we've done this research on all these questions, like just the research.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "we've done this",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And one of the questions is, let's say, like, this very specific one, right?",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And sure, you show up first here, but now, in AI answers, ideally, like, you were mentioned in a positive light, and using the actual terminology and things you want to, you know, this is a non-branded, you know, query.",
+            "timestamp": "00:15:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Some advanced tools, like Augment Code's Context Engine, it's like, this is a very specific feature, a very specific thing, in a very specific way, they like to talk about that, you know, simultaneously allowing them to, it's essentially a sales pitch.",
+            "timestamp": "00:15:29"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Is this from scraping their site, or, like, you know, my understanding is this piece of content, here, you see?",
+            "timestamp": "00:15:45"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Which is on their site, yeah.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so, like, all the AO people say it's, like, red.",
+            "timestamp": "00:15:56"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And like PR and so Reddit, but so what percent of this, you know, AI optimization, you know, can be influenced by your own site?",
+            "timestamp": "00:16:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Say you have a very rich site with hundreds of pages to you.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So in this case, 100%, not to say it's the only source, but like it is literally quoted like word per word, and it's coming from this URL that we produced and published on the July 29th.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then just a few days later, now they're going from not being mentioned to not only being mentioned, but obviously pitching the audience directly, you know, things that we're doing.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And like, even this, like, this is pretty crazy.",
+            "timestamp": "00:16:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, this is like a full pitch of automatic code, you know, and sure, there's other citations, but it's like, it's the first thing that shows up.",
+            "timestamp": "00:16:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So if you're reading this, it's quite positively in the right way, you know.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "um, and...",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so then like the question becomes, okay, how do you go after all these opportunities, right?",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And a lot of this is not just like, it's a lot of the strategy behind like this, you know?",
+            "timestamp": "00:17:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so it's like comparisons, it's like informational things, and it's all informed by like what we're seeing is going to work.",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Are you guys posting these images too?",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "are you leaving that to them?",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Are the images in AI general?",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, what do you think of the images overall?",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like this stuff went on their brand, right?",
+            "timestamp": "00:17:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "No, I was just curious if you, I know you like these guides sections.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:17:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So I love that you asked because we just developed that.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So our workflow generates several different versions, and then our editors can pick.",
+            "timestamp": "00:18:05"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Okay, yeah, that's super helpful.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, and then under the hood, you have like this workflow that comes up with a bunch of ideas.",
+            "timestamp": "00:18:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So it likes the best ideas, and it generates the image.",
+            "timestamp": "00:18:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But if you go into the source code of this workflow, and you look at the prompts, it's like very detailed.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "You know?",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And it inserts some very specific things in order to get to that on-brand output.",
+            "timestamp": "00:18:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And it's because our coding agent can develop these prompts.",
+            "timestamp": "00:18:39"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Okay, and that's good.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Do you have it all in GitHub as like a shared repository?",
+            "timestamp": "00:18:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I mean, we certainly can share the prompts if you want to try to reuse the prompts other places to our workflows.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But this is all our workflows are in code, because we have a coding agent, and that's how we're able to build all of these.",
+            "timestamp": "00:18:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "of give",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's because we're, it's all in code so we can run at a massive scale, you know, and we can see like all of this is what's happening right now.",
+            "timestamp": "00:19:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so the way I would think about it for like for you, right, it's like we start to kind of break it down.",
+            "timestamp": "00:19:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "This is just a very, you know, shallow version, right?",
+            "timestamp": "00:19:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like obviously, please don't take this as like the actual work.",
+            "timestamp": "00:19:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like we need to do deep dives, understand your business better, interview, like all of that, which is part of the strategy spread.",
+            "timestamp": "00:19:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "To think of it as like how do we map both the commercial but also the informational knowledge graph that matters to your audience and to your personas.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Whether it's questions that your audience would have along the way in doing their jobs or questions that, you It's where like we need better understanding of kind of like the product, what the product",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It does and how it works and, you know, deep dive into your competitors, but like this whole mapping thing is not a like one hour thing that you're just, you know, that you do really quickly and developing the artifacts to do well, it's not also like a quick thing either, but that's kind of like the idea, right?",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's like, hey, what are the questions they have?",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "What are the templates they need?",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "What are the kind of like research they do?",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "What are the, and then you start to kind of map it out, you know?",
+            "timestamp": "00:20:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And, and then, but then have a team that can actually go and tackle that daily, you know, plant those seeds daily, you know?",
+            "timestamp": "00:20:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And I think what I, what I like about the Augment Code example is like, we just started doing it, you know, July 21st, or 22nd is the first one.",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And, and although it's not a crazy amount of clicks, you can see it like 70 a day, growing from zero to 70 clicks a day is already like pretty, No, that's great.",
+            "timestamp": "00:20:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Pretty insane.",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "You know, for a new section of the site, and you can see, and so, and that's two weeks of publishing, you know what I mean?",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Or maybe three weeks of publishing.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And not to say everyone should expect exactly this, but augment code doesn't have, like, a crazy domain.",
+            "timestamp": "00:21:15"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Can you show me the, like, what the human and looper interface looks like when you have your experts go in?",
+            "timestamp": "00:21:24"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Provide feedback or edit?",
+            "timestamp": "00:21:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, like, so, the way we're doing this, and I'll show you an actual example here, sorry, give me a second, is we build out these, this content list.",
+            "timestamp": "00:21:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so, this is one of the things we're bringing into our platform very, very soon, but for now, like, it's an air table that we build out where we flag all the opportunities we develop.",
+            "timestamp": "00:21:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "All the content clusters for you, right?",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then we create assignments under those content clusters.",
+            "timestamp": "00:22:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "They're based on competitive opportunities as well as, like, what we identify as good opportunities.",
+            "timestamp": "00:22:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then, you know, we flag which ones we're considering, proof, or autopilot.",
+            "timestamp": "00:22:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But then there's, like, you know, like, comments between internally or between us and the customer, as soon as it loads, and where, like, there can be, like, some review of, like, okay, you know, I like this, or no, I don't like this single, or whatever, I believe.",
+            "timestamp": "00:22:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And we publish 42 pieces of content, so it's engine.com.",
+            "timestamp": "00:22:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so then, like, here, what you see, it's, like, this is the CMO.",
+            "timestamp": "00:22:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Hey, this is a title, cool, updated, like, there's feedback, and we're calibrating constantly.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then for customers, it really depends how long they like to work with us.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And in some cases, like, we'll put it in a Google Doc, and they can comment, and then we'll address that, those comments, we'll address anything.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But then in this case, for engine.com, like, they're doing it at a high level, which is prioritizing opportunities, you know, giving comment on the angle and how we're approaching it, and then inspecting here and there, but mostly after publish, because they want to go fast, and they have 1,200 everywhere else, we're refreshing for them, right?",
+            "timestamp": "00:23:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "New content, but they're seeing, like, really good, good results, and then the way it kind of works, so let's just take the engine, like, we're in there with them every day, you know, like, you can see, like, hey, published five articles last week, and they're getting feedback, you know, like, we're interacting, and every single day, we're in there with them.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, and, I mean, first of all, I like their area.",
+            "timestamp": "00:23:56"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Like workflow you had set up with AirOps, Airtable, why did you replace AirOps, by the way?",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "What were the limitations that you found working with the sort of add-on box?",
+            "timestamp": "00:24:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "just impossible to do what we're doing.",
+            "timestamp": "00:24:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "For instance, let's say this uses three different image models and really complex prompting, and we have fallback models, and you can't do agentic loops, for example, right?",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Things, for instance, like fact-checking, it would be impossible outside of our code and what we're doing to break down the content into chunks.",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, yeah, yeah.",
+            "timestamp": "00:24:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then extract passages from each chunk, and then, you know, verify the passages.",
+            "timestamp": "00:24:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "This workflow, if you try to do it in AirOps, it would probably cost you 183 hours to run, and it would probably time out and fail.",
+            "timestamp": "00:24:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so we started running into a lot of timeouts.",
+            "timestamp": "00:24:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Because it wasn't in code, any time we needed a tweak prompt,",
+            "timestamp": "00:24:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We had to go into workflows and tweak it immediately.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Anytime a new model comes out, couldn't evaluate if that model improved the outputs or not.",
+            "timestamp": "00:25:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And it would take an entire month of an engineer's time to go into 100 different workflows and update the models in 100 different workflows.",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "There's no, like, mass script or anything, because it's not code.",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's an abstraction of code, right?",
+            "timestamp": "00:25:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We're running about, we're processing, like, over a million tokens for every single piece of content.",
+            "timestamp": "00:25:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So, like, this whole process here is over a million tokens, you know, easily.",
+            "timestamp": "00:25:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so, it's interesting, like, we were running this process for one single account, it would be about $20,000 a month just in compute costs.",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I see.",
+            "timestamp": "00:25:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:25:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Just on the arrows, because they have to, they are...",
+            "timestamp": "00:25:43"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "They're middleman, so they'd mark it up.",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so, for us, like, instead we're doing unlimited compute for you, you know, building workflows.",
+            "timestamp": "00:25:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But also the part...",
+            "timestamp": "00:25:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Even if Aerox didn't have any of those limitations, even if we gave you our platform, essentially, it still needs to be informed by the strategy, a student needs to be reported on and acted on, and a student needs to be executed every day.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We're not spending minutes on every article, we're spending hours, and we're staging it, we're creating the graphics, we're posting it, we're doing audits on the site.",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So there's a lot of that, that's just like, you know, normally, like what people end up doing, we had a couple that churned from Clerk, actually, happy to introduce two of them.",
+            "timestamp": "00:26:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "They just churned from Aerox, because it was one person's full-time, like a go-to-market engineer's full-time job, but then they also needed an SEO agency, and then they also needed a graphic designer, and then they also needed an editor.",
+            "timestamp": "00:26:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so when you add those four things up, and, you know, it was kind of like, yeah, cost, you know.",
+            "timestamp": "00:26:44"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And this works really well for content where you want to be found, for SEO or through AI, do people use it for, like, outbound content?",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Like, is the article high quality enough that it would be part of a nurture program or, you know, a LinkedIn post?",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, so Metronome, for instance, like we're doing content repurposing into posts for a different, we develop a different voices for LinkedIn for their executives and founders.",
+            "timestamp": "00:27:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "For Unity, we're doing, starting to develop a weekly newsletter.",
+            "timestamp": "00:27:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "For Augment Code, it's also a weekly newsletter.",
+            "timestamp": "00:27:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We have guides, but we also have like vendor pages or comparison pages and things like that.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Oh, yeah.",
+            "timestamp": "00:27:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "For Webflow, we've done their integrations catalog, enriched their integrations catalog, as well as their developer site.",
+            "timestamp": "00:27:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So their entire developer site, we're working on and do their docs and things like that.",
+            "timestamp": "00:27:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So like the use cases are pretty wide at this point.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's just normally like you wouldn't go and tackle some of those things until we have a really strong editorial foundation because the editorial is what you need to get to quality.",
+            "timestamp": "00:27:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Once you have that, then like you.",
+            "timestamp": "00:27:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "can do social, you can do newsletters, can do like long form, you can do interview based, can do, you know, thought leadership versus informational, but like Biologica, which is launching next month, the CEO of Allbirds, it's all thought leadership, you know, it's all like healthcare, highly cited, reviewed by their chief medical officer, like really, really curated, you know, well written content.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Did they start with SEO or they're starting there?",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, so they don't care about SEO, they're launching this, this brand, you know, that is in women's healthcare supplements for women and fertility, premenopausal and postmenopausal and like, the content, it's like you can't launch a healthcare brand, you know, and not have any content about health and the ingredients they're using and things like that, you know.",
+            "timestamp": "00:28:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And what's, what's really cool is like, if you, like, if you see the.",
+            "timestamp": "00:28:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Mm-hmm.",
+            "timestamp": "00:28:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Mm",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "A lot of, I'm trying to find an example here, but like there, a lot of the pages that we're developing for them are kind of like this, you know, it's not launched yet, so you can't see it live, but it's like beautifully designed, you know, great pages and, you know, and like trying to find some of the work we've done with them.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I think that could be interesting.",
+            "timestamp": "00:29:30"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "think that's, that's maybe higher about, I mean, we have this initial push where we're moving the website, so let's might as well clean up the content and get a little bit of SEO authority, you know, republish all the old articles with better, you know, keywords and some of the positioning has changed, so make sure the old positioning is not reflected when we republish the blog.",
+            "timestamp": "00:29:32"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But longer, longer term, and I think, like I said to you before, more of",
+            "timestamp": "00:29:57"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "The artifacts itself is valuable because someone's got to create those things.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So I think longer term, my hunch, unless I hope to be proven wrong, I hope there's like some organic traffic, but my hunch is that the biological model where it's thought leadership, founder posts, maybe a few competitor guides that are lower volume, but still, like, so the guy who's running product marketing for me is a former, you know, actuary.",
+            "timestamp": "00:30:05"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So he was like, you can think of it as a hedge fund manager.",
+            "timestamp": "00:30:30"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So he's a very expensive guy.",
+            "timestamp": "00:30:32"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And I don't want to be wasting his time, like writing articles.",
+            "timestamp": "00:30:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "If we could write 90% of the articles and he could review it, then that's great.",
+            "timestamp": "00:30:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like a chief medical officer is.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "He's like, yes, you can think of it like that.",
+            "timestamp": "00:30:43"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Like we don't want, we have a bunch of people like that.",
+            "timestamp": "00:30:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We don't want to be, we don't want to be wasting their time writing posts, even though they're experts.",
+            "timestamp": "00:30:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like town, town.com, which is a very good example because he, the founder of this company was the CTO class.",
+            "timestamp": "00:30:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Fathom for like almost 10 years, John Dennis, and this is all content we've generated for them, you know, and this is like really good, right?",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "This is like, you know, I mean, this is very specific.",
+            "timestamp": "00:31:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "This is, it's fact-checked, it's research, it's like, it has beautiful CTAs to the product, which is essentially like, AI for small business taxes, you know, and I mean, this piece of content would have cost anyone, like probably three, four grand alone, because it's like very technical, it's very detailed, but not technical in terms of like how heavy it is, you know, but more because like you can't get it wrong, you can't quote the wrong tax, you know, you can't give somebody wrong tax advice, like what the  is done.",
+            "timestamp": "00:31:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so it's like a great, great example of like, of kind of what we're doing, essentially building a knowledge library for them, you know, and yeah, no, that's good.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:32:14"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "That makes sense.",
+            "timestamp": "00:32:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:32:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But really quickly, so I got to run into a couple minutes, but one thing that would be cool if your game is doing, just penciling in a strategy sprint, you know, which is like just a one-off twin K, right?",
+            "timestamp": "00:32:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And then after that, it would default to 9,000 a month.",
+            "timestamp": "00:32:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And so it's not like a huge like commitment, but also at the end of it, you can see the value and you can also, you know, say, hey, I want to kind of stick to doing everything in-house, which normally that hasn't happened, knock on wood, a hundred percent so far, got to keep that up.",
+            "timestamp": "00:32:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "But, but, but also completely understand if you're like, hey, let's like chat again in a few months as well, you know.",
+            "timestamp": "00:32:52"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "No, like I said, I think that would be easier for me, especially just like, you know, I'm just getting things organized.",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So I would like to do the strategy spring because I know there's some value in that.",
+            "timestamp": "00:33:09"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And I hope I'm not a churn candidate, but I just, you know, we'll just know a lot more in a little bit of time, you know?",
+            "timestamp": "00:33:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, and we could probably like...",
+            "timestamp": "00:33:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Really, really helpful.",
+            "timestamp": "00:33:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So for instance, I just want show you a couple of things.",
+            "timestamp": "00:33:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Examples, like, that's the last thing, but while I'm pulling it up, like, is there a date, like, we're usually four to six weeks out, but we have some flexibility, I don't know if, like, how your schedule looks, but let me just give you this as an example, like, this is a dossier that it's related to the ingredients for Biologica, right?",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, and this gets pulled into workflows, but also they're using this quite a bit, and so think of this as, like, a way to reference, it's, like, almost like a product reference, you know what I mean?",
+            "timestamp": "00:34:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Like, it's a reference guide that allows them to have a source of truth, so anyone in their company, whether it's a product page, whether it's anything at all, content or otherwise, that needs to reference any of their ingredients, like, which is, like, the proprietary ingredients and the ways they develop that, is, like, this is, like, source of truth, you know, that has everything, you know?",
+            "timestamp": "00:34:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And now, as they're developing these landing pages, Brian loves what we're doing, when Brian's their main person, because now we're doing fact-checking for their ingredient pages as well, you know?",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So then now, they're able to create all these ingredient pages as well.",
+            "timestamp": "00:35:13"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "They're like, it's not an SEO play, it's just like, hey, I'm buying this thing, and this thing has all these ingredients that you say it's beneficial, and I want to read why they're beneficial to me, you Yeah, so just so I could kind of articulate it internally, too, so the strategy sprint is 30 days, or was it 90 days?",
+            "timestamp": "00:35:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I can't remember.",
+            "timestamp": "00:35:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Eight weeks.",
+            "timestamp": "00:35:36"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Eight weeks.",
+            "timestamp": "00:35:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And we can send you a follow-up with just like a very clear, in an SLW that has all the language and stuff, that's pretty clear, but essentially, we can send you a breakdown on every week what we do, all the deliverables.",
+            "timestamp": "00:35:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And there's a lot of flexibility there to adapt as well, right, where we can double down on a few things.",
+            "timestamp": "00:35:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "And, but the way to think about it is like research, generating all the context and artifacts, coming up with the entire content strategy, whether it's thought leadership, SEO, NGO, or otherwise, and then starting to execute, create all the workflows and starting to create a writing guide and definition of done and quality, and then start to actually execute.",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So you see it live, and you see it working, you know, and, and hopefully by the end of those eight weeks, like you see the signal, see the quality, and you are aligned with the strategy, and, and you enjoy working with the team, you know.",
+            "timestamp": "00:36:22"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:34"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "And, you know, whatever they package up, the artifacts, get a couple articles out of it as a proof of concept anyway.",
+            "timestamp": "00:36:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I mean, we've had clients like Biologica just converted in the eight weeks, and we've, we've developed 30 thought leadership articles in eight weeks.",
+            "timestamp": "00:36:42"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, no, that's great.",
+            "timestamp": "00:36:50"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I think, yeah, I mean, you know how it works, like you got to have some sort of, you know, proof once you get up to the higher level commitments to just, you know.",
+            "timestamp": "00:36:52"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Show people that, you know, finance especially, that it's going to work.",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But at a two-month, like 20K, you know, I can get that through, and then we can sort of build the case together, you know, with a couple articles and stuff.",
+            "timestamp": "00:37:05"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So I like that.",
+            "timestamp": "00:37:19"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Did you post the examples of the artifacts?",
+            "timestamp": "00:37:20"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I know I pinged you about that.",
+            "timestamp": "00:37:22"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "It would be helpful also for me to show, like, look, this is what these freaking artifacts look like.",
+            "timestamp": "00:37:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "The main thing is, like, I'm waiting for approval on our end on some of our customers' artifacts.",
+            "timestamp": "00:37:29"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I can share an actual customer.",
+            "timestamp": "00:37:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:37:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "They're very, like, nervous about it.",
+            "timestamp": "00:37:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So we're trying to, like, figure out, should we just anonymize one, but then it won't be as real, or should we create a net view for a fake company?",
+            "timestamp": "00:37:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So that's, like, the main delay.",
+            "timestamp": "00:37:46"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But I can send you, though, some things in our Slack channel, if that works.",
+            "timestamp": "00:37:48"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "You can send it to me, and you could also just put it into the proposal.",
+            "timestamp": "00:37:52"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Did you see I slacked you?",
+            "timestamp": "00:37:56"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I'm still on that channel from a long time ago, but I don't in this email.",
+            "timestamp": "00:37:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'm barely using that other community, but we'll add that same email to a channel on our end.",
+            "timestamp": "00:38:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "then later on, we can add the growthx.",
+            "timestamp": "00:38:09"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:14"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I don't think it's, I don't think it's active anymore.",
+            "timestamp": "00:38:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "It's community one.",
+            "timestamp": "00:38:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "We'll probably repurpose that community one at some point.",
+            "timestamp": "00:38:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "This is like, I haven't done anything to it in a long time.",
+            "timestamp": "00:38:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:38:24"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But yeah, in terms of timing, I mean, you know, four weeks.",
+            "timestamp": "00:38:26"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Except I'll just find one, two, three.",
+            "timestamp": "00:38:30"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:38:34"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "This is the 13th.",
+            "timestamp": "00:38:34"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So like the first week of September is not bad for first or second.",
+            "timestamp": "00:38:35"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:38:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "So actually Tuesday, the second would be amazing.",
+            "timestamp": "00:38:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "day after Labor Day.",
+            "timestamp": "00:38:45"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "that, would that work for you?",
+            "timestamp": "00:38:46"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, I think so.",
+            "timestamp": "00:38:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:38:49"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "We have some flexibility.",
+            "timestamp": "00:38:50"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "That could be good.",
+            "timestamp": "00:38:51"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:52"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Cause I'm also trying to time it with some of our web work.",
+            "timestamp": "00:38:53"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So it'd be nice to say, to bring those together in the same timeline.",
+            "timestamp": "00:38:56"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So.",
+            "timestamp": "00:38:59"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Let's target that, Tuesday the 2nd, and send me the stuff, and we'll try to pull it up together.",
+            "timestamp": "00:39:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "All right, sir.",
+            "timestamp": "00:39:10"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Well, so good to see you.",
+            "timestamp": "00:39:10"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "But yeah, I just want to, yeah, I think it'll be fun, and we'll learn a lot.",
+            "timestamp": "00:39:12"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I don't know what happens after that, but I'm sure it seems like you guys know what you're doing.",
+            "timestamp": "00:39:16"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "know how to, you know, build momentum.",
+            "timestamp": "00:39:20"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "So I think if we had, who knows, 15, 20 articles that look good, I think it would be an easy case.",
+            "timestamp": "00:39:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:39:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I agree, man.",
+            "timestamp": "00:39:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Well, thank you so much.",
+            "timestamp": "00:39:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'm going to head out.",
+            "timestamp": "00:39:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:39:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "I'm up from the airport, but.",
+            "timestamp": "00:39:35"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:39:37"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I look forward to it.",
+            "timestamp": "00:39:38"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "I hope you'll be on it.",
+            "timestamp": "00:39:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Marcel Santilli",
+                "matched_calendar_invitee_email": "marcel@growthxlabs.com"
+            },
+            "text": "Send me some example artifacts.",
+            "timestamp": "00:39:40"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah, we'll do it.",
+            "timestamp": "00:39:42"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:43"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Okay, bye.",
+            "timestamp": "00:39:44"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Bye, take care.",
+            "timestamp": "00:39:44"
+        },
+        {
+            "speaker": {
+                "display_name": "david",
+                "matched_calendar_invitee_email": "david.spitz@hyperexponential.com"
+            },
+            "text": "Bye.",
+            "timestamp": "00:39:45"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Discuss potential collaboration between GrowthX and Hyperexponential for content strategy and SEO optimization.](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=2.0)\n\n## Key Takeaways\n\n  - [Hyperexponential is expanding from a localized London market to the US, facing new competition and distributed customers](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=516.0)\n  - [GrowthX offers an 8-week strategy sprint ($20K) followed by optional $9K/month ongoing services](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1554.0)\n  - [The sprint includes research, artifact creation, content strategy development, and initial execution](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1164.0)\n  - [Target start date: Tuesday, September 2nd (post-Labor Day)](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=2315.0)\n\n## Topics\n\n### Hyperexponential's Market Position and Challenges\n\n  - [Historically sold within Lloyd's of London market, achieving 50% market share](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=540.0)\n  - [Entering US market with more distributed customers (New York, Bermuda, Chicago, Philadelphia)](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=555.0)\n  - [New competitors in US: Federado, Sitora, Earnix (strong SEO presence)](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=572.0)\n  - [Average deal size: $1 million, with \\~500 potential global accounts](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=637.0)\n  - [Key personas: underwriters (P\\&L owners), actuaries (math support), IT/digital transformation leads](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=681.0)\n\n### GrowthX's Content Strategy Approach\n\n  - [Develops comprehensive content strategies tailored to client needs](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1164.0)\n  - [Uses AI-powered workflows for efficient content creation and optimization](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1520.0)\n  - [Focuses on both SEO/AEO (AI Engine Optimization) and thought leadership content](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1164.0)\n  - [Creates various content types: blog posts, newsletters, product pages, social media content](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1640.0)\n  - [Emphasizes fact-checking and high-quality, industry-specific content](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1101.0)\n\n### GrowthX's Technology and Workflow\n\n  - [Transitioned from AirOps to custom-built platform for better scalability and flexibility](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1455.0)\n  - [Uses multiple AI models and complex prompting for content generation](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1520.0)\n  - [Implements fact-checking and quality control measures](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1479.0)\n  - [Provides collaborative tools for client feedback and content approval](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1340.0)\n\n### Proposed Engagement Structure\n\n  - [8-week strategy sprint ($20K)](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1938.0)\n      - [Research and context gathering](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1164.0)\n      - [Artifact creation](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1164.0)\n      - [Content strategy development](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1164.0)\n      - [Initial execution and proof of concept](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1202.0)\n  - [Optional ongoing services at $9K/month after sprint completion](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1954.0)\n\n### Content Examples and Use Cases\n\n  - [Augment Code: SEO-optimized content leading to increased organic traffic](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1358.0)\n  - [Biologica: Thought leadership content for healthcare supplements](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=2041.0)\n  - [Town.com: Detailed, fact-checked content for small business taxes](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=1860.0)\n\n## Next Steps\n\n  - [GrowthX to send a detailed proposal with clear language and weekly breakdown](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=2249.0)\n  - [GrowthX to provide example artifacts (pending approval or anonymization)](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=2256.0)\n  - [David to review proposal and prepare for internal discussions](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=2194.0)\n  - [Tentative start date set for Tuesday, September 2nd](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=2315.0)\n  - [Both parties to align on project scope and expectations before kickoff](https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy?tab=summary&timestamp=2350.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Send David follow-up info on strategy sprint - clear SLW, weekly breakdown, deliverables\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:35:27",
+            "recording_playback_url": "https://fathom.video/calls/378467462?timestamp=2127.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "marcel@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Send David example artifacts for internal presentation (via Slack or proposal)\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:37:37",
+            "recording_playback_url": "https://fathom.video/calls/378467462?timestamp=2257.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "marcel@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Add David's email to GrowthX Slack channel for communication\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:37:51",
+            "recording_playback_url": "https://fathom.video/calls/378467462?timestamp=2271.9999",
+            "assignee": {
+                "name": "Marcel Santilli",
+                "email": "marcel@growthxlabs.com",
+                "team": null
+            }
+        },
+        {
+            "description": "Review strategy sprint info from Marcel, prepare for Sept 2 start date\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:38:50",
+            "recording_playback_url": "https://fathom.video/calls/378467462?timestamp=2330.9999",
+            "assignee": {
+                "name": "david",
+                "email": "david.spitz@hyperexponential.com",
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Marcel Santilli"
+        },
+        {
+            "name": "David Spitz",
+            "email": "david.spitz@hyperexponential.com",
+            "email_domain": "hyperexponential.com",
+            "is_external": true,
+            "matched_speaker_display_name": "david"
+        },
+        {
+            "name": "jessica.railey@hyperexponential.com",
+            "email": "jessica.railey@hyperexponential.com",
+            "email_domain": "hyperexponential.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Tyler Pavlas",
+            "email": "tyler@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Tyler Pavlas"
+        }
+    ],
+    "recorded_by": {
+        "name": "Tyler Pavlas",
+        "email": "tyler@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/udm3ZN7rWK3v38F9x_xELp8QMihofrPy",
+    "crm_matches": {
+        "contacts": [
+            {
+                "name": "David Spitz",
+                "email": "david.spitz@hyperexponential.com",
+                "record_url": "https://app.hubspot.com/contacts/341940338/contact/127585604587"
+            }
+        ],
+        "companies": [
+            {
+                "name": "hyperexponential",
+                "record_url": "https://app.hubspot.com/contacts/341940338/company/80501661668"
+            }
+        ],
+        "deals": [],
+        "error": null
+    }
+}

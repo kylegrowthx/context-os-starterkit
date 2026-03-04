@@ -1,0 +1,1004 @@
+# GrowthX x Redpoint – Intro Call
+
+<metadata>
+date: 2025-07-09
+time: 14:01 UTC
+duration: 33 minutes
+organizer: Marcel Santilli (GrowthX)
+participants: Marcel Santilli (GrowthX), Adil Bhatia (Redpoint Ventures), Logan Bartlett (Redpoint Ventures), Dana Totah (Redpoint Ventures)
+fathom_recording_id: 73056032
+fathom_url: https://fathom.video/calls/347287677
+share_url: https://fathom.video/share/MFivk2266tZqXsg_MBz-zVSMfX6jKKez
+source: fathom
+enriched_on: 2026-03-03 00:15 UTC
+speaker_note: Dana Totah was on the invite but did not speak during the call. Three speakers participated actively: Marcel, Adil, and Logan.
+</metadata>
+
+---
+
+## Summary
+
+Marcel Santilli introduced GrowthX's AI-powered content platform and services to Redpoint Ventures investors Adil Bhatia and Logan Bartlett. GrowthX has built a three-layer approach combining managed services, custom AI workflows (running ~1 million workflows per month), and expert human review to deliver content production at 65-70% margins. The company is achieving rapid growth—most of the platform was built in the last 3-6 months—and just closed major clients including Surge AI ($700K/year), Okta, Sentinel-1, and Augment. GrowthX is targeting a Series B round in September 2025 and plans to scale the expert layer and workflow optimization to remove delivery bottlenecks.
+
+---
+
+## Context
+
+Redpoint Ventures is a prominent growth-stage venture fund focusing on B2B SaaS and the GTM stack. Adil Bhatia and Logan Bartlett are both managing directors at Redpoint, with Logan specializing in marketing, automation, and back-office infrastructure (previous investments include Ramp and Sierra). GrowthX is a 2-year-old content marketing services company founded by Marcel Santilli and CTO Daniel (a veteran of IFTTT). The company pivoted from traditional services to a platform play in late 2024, building a custom AI workflow engine that handles the entire content production pipeline. This was an introductory pitch call to explore a potential Series B investment relationship. Logan and Adil had both heard about GrowthX's recent success and wanted to see the platform in action before considering involvement in the September funding round.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Atlas interface for content strategy and workflow management is in development with an expected launch "in a few weeks"
+- The Learn Engine will decompose human interventions into data for workflow optimization and eventual model improvement
+- Scaling expert layer (Task Hub) is the current bottleneck for handling more clients; focus is on making it easier for experts to review and approve rather than increasing raw output capacity
+
+**To GrowthX Business Development:**
+- Strong pipeline velocity: just closed Surge AI ($700K/year), Okta, Sentinel-1, and Augment in the past few weeks
+- Not demand-constrained—prioritizing selective client fit over growth
+- Redpoint Ventures (Logan Bartlett and Adil Bhatia) are warm to Series B conversation; expressed interest in involvement in September round
+- Reference customer potential: customers like Ramp, Tiro, and Augment Code are already publishing GrowthX-produced content at scale
+
+**To GrowthX Fundraising:**
+- Series B target is September 2025; need to demonstrate platform maturity and reduced dependency on Marcel's direct involvement
+- Key value prop for investors: 65-70% gross margins on services, 3-6 months to build platform, hiring principal engineers from HashiCorp, Coinbase, Airbnb
+- Seven engineering "lanes" running in parallel across AI editor, expert layer, Learn Engine, workflow engine, and Content OS (client-facing)
+
+---
+
+## Overview
+
+- GrowthX has built a sophisticated three-layer AI workflow engine for content creation: managed services, custom AI workflows (handling ~1 million workflows per month), and expert human review
+- The platform is fully code-based (no-code drag-and-drop) with a coding agent that auto-generates workflows, documentation, and file structures for better maintainability and performance vs. no-code alternatives
+- GrowthX is achieving 65-70% margins on service offerings despite heavy engineering investment in platform development
+- Recent high-profile wins: Surge AI ($700K/year), Okta, Sentinel-1, Augment; customers also include Ramp, Tiro, and Augment Code
+- The entire modern platform was built in the last 3-6 months with only one engineer until April 2025; now scaling with principal-level engineers from HashiCorp, Coinbase, and Airbnb
+- Series B target is September 2025; company is not demand-constrained and is being selective about new clients while the expert layer (Task Hub) is still a bottleneck
+
+---
+
+## Key Topics
+
+### GrowthX's Platform Overview
+
+  - Three-layer approach: service, AI workflows, and experts
+  - Focus on creating high-quality "artifacts" (company descriptions, personas, product details) to improve output quality
+  - AI coding agent generates workflows automatically, improving maintainability and scalability
+  - Platform handles \~1 million workflows per month, with significant performance improvements over no-code alternatives
+
+### Customer Engagement Model
+
+  - Full-service approach: GrowthX manages entire content strategy and production for clients
+  - Outputs include blog content, website pages, newsletters, and repurposed content
+  - Clients include Ramp, Tiro, Augment Code, and Bappy
+  - Recent high-profile client wins: Surge AI ($700K/year), Okta, Sentinel-1, Augment
+
+### Technology Infrastructure
+
+  - Custom-built AI workflow engine with coding agent for workflow generation
+  - "Atlas" interface for content strategy and management (in development)
+  - Task Hub for expert layer orchestration
+  - Learn Engine to improve workflows based on human interventions
+
+### Business Growth and Future Plans
+
+  - Rapid development: most of the platform built in the last 3-6 months
+  - Currently have 7 engineering "lanes" focusing on different aspects of the platform
+  - Hiring principal engineers from companies like HashiCorp, Coinbase, and Airbnb
+  - Not demand-constrained, focusing on selecting the right clients
+  - Aiming for a Series B round in September 2025
+
+---
+
+## Action Items
+
+**Adil Bhatia (Redpoint Ventures)**
+- Schedule in-person meeting with Marcel Santilli (GrowthX) in San Francisco (South Park office) before September
+
+**Marcel Santilli (GrowthX)**
+- Notify Adil Bhatia and Logan Bartlett (Redpoint Ventures) if traveling to New York in the next month for potential in-person meetup
+
+---
+
+## Transcript
+**Logan Bartlett:** How are you?
+
+**Logan Bartlett:** I'm walking, running back from a meeting right now.
+
+**Marcel Santilli:** Can you hear me okay?
+
+**Marcel Santilli:** Yeah, yeah, it's perfect.
+
+**Logan Bartlett:** Good morning.
+
+**Logan Bartlett:** Okay, good morning.
+
+**Logan Bartlett:** Good.
+
+**Logan Bartlett:** I'll be on video in about five minutes here or so.
+
+**Adil Bhatia:** Hey, Adil.
+
+**Adil Bhatia:** How's it going?
+
+**Adil Bhatia:** Marcel.
+
+**Adil Bhatia:** Good to see you.
+
+**Marcel Santilli:** Doing well.
+
+**Marcel Santilli:** How are you?
+
+**Marcel Santilli:** Really good, really good.
+
+**Marcel Santilli:** I usually get into the office super early, so I was glad we made this call work early.
+
+**Adil Bhatia:** Well, I appreciate you squeezing us in.
+
+**Adil Bhatia:** I know we were figuring out calendars yesterday, and you sorted it out, so thank you for that.
+
+**Marcel Santilli:** I'm sorry about that.
+
+**Marcel Santilli:** It's just been nuts.
+
+**Marcel Santilli:** So it's like we have our videographer set up here today, or in the office this whole week.
+
+**Marcel Santilli:** And so last week we were recording with Surge AI.
+
+**Marcel Santilli:** We're doing like this whole thing with them, a partnership, plus helping them tell their story a little bit.
+
+**Marcel Santilli:** And then this week it just so happened that we were recording some episodes.
+
+**Marcel Santilli:** We're episodes.
+
+**Marcel Santilli:** Some of the content we're creating for this publication we launched.
+
+**Marcel Santilli:** And then all our customers were like, hey, I saw this video set up you have in your office.
+
+**Marcel Santilli:** Is there any way I can bring my CO over so you can record something like that?
+
+**Marcel Santilli:** Today we have augment code.
+
+**Marcel Santilli:** Yesterday we had metronome come by, you know, and then we have, anyway, it's fun.
+
+**Adil Bhatia:** I love it.
+
+**Adil Bhatia:** But we're like a production studio right now, you know?
+
+**Adil Bhatia:** Yeah.
+
+**Adil Bhatia:** That's incredible.
+
+**Adil Bhatia:** Yeah, mean, I think that post got a lot of love for sure.
+
+**Adil Bhatia:** But it's great to hear how you kind of stumbled into a bunch more activity just as a result of that.
+
+**Marcel Santilli:** That's good.
+
+**Adil Bhatia:** That's good.
+
+**Adil Bhatia:** Well, it's good to see you.
+
+**Adil Bhatia:** I mean, you know, I know we were originally trying to make something happen in SF, but, you know, we'll make that happen in the future.
+
+**Adil Bhatia:** Logan and are both based in New York, so I figured it would just make sense to hop on a Zoom and catch up and have you meet more of our team too.
+
+**Adil Bhatia:** I obviously know a little bit about your story in the background, but I wanted to
+
+**Adil Bhatia:** And just given, you know, how great you guys are doing and obviously some of the amazing customers you're already working with.
+
+**Logan Bartlett:** Logan, do you want to quickly introduce yourself just for Marcel's context?
+
+**Logan Bartlett:** Sure.
+
+**Logan Bartlett:** Great to connect.
+
+**Logan Bartlett:** So Logan Bartlett, I'm one of the four managing directors on our growth fund.
+
+**Logan Bartlett:** So Adil, have you given a little bit of background on Redpoint?
+
+**Adil Bhatia:** Okay, cool.
+
+**Adil Bhatia:** Yeah, I did last time.
+
+**Logan Bartlett:** So I joined Redpoint, I guess, five and a half years ago.
+
+**Logan Bartlett:** I spent six years at Battery Ventures before that.
+
+**Logan Bartlett:** I invest in mostly things related to B2B in some way, shape, or form.
+
+**Logan Bartlett:** Over the years, I've spent a bunch of time in things related to the marketing and go-to-market stack.
+
+**Logan Bartlett:** I've spent time in product related things, onboarding, product analytics.
+
+**Logan Bartlett:** More recently, had done a bunch of stuff in the...
+
+**Logan Bartlett:** Back office, kind of at the confluence of AI and automation, made investments in companies like Ramp in that space, companies like Sierra in the data security space, among a bunch of others.
+
+**Logan Bartlett:** So it's a pleasure to connect.
+
+**Logan Bartlett:** appreciate you making the time model.
+
+**Marcel Santilli:** It tells me really nice things.
+
+**Marcel Santilli:** Yeah, well, I appreciate it.
+
+**Marcel Santilli:** It's awesome to spend more time, you know, it's been wild and fun and crazy, you know, it's just like, but I tell my wife this, like, it's the best job I've ever had, even though it's the most stressful job I've ever had, you know.
+
+**Logan Bartlett:** Yeah, I hear you.
+
+**Logan Bartlett:** That's great.
+
+**Logan Bartlett:** That's exactly what you want, though, right?
+
+**Marcel Santilli:** Yeah, yeah, exactly.
+
+**Marcel Santilli:** It's like the good, kind of, it's literally, it's every part of your brain, you know, being flecked, and that's like, what's really, really fun.
+
+**Marcel Santilli:** It's like, every day, it's like, different.
+
+**Marcel Santilli:** Challenges.
+
+**Marcel Santilli:** it's like, someone told me this, as long as you're fixing  faster than you're breaking it, you're good.
+
+**Logan Bartlett:** Good advice.
+
+**Logan Bartlett:** I was okay, that's fair.
+
+**Logan Bartlett:** Yeah.
+
+**Logan Bartlett:** And having a bias to action on all this stuff is worthwhile as well.
+
+**Marcel Santilli:** So yeah, no, I agree.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Well, happy to, what would be most helpful?
+
+**Marcel Santilli:** I mean, I feel like even, when did we talk last?
+
+**Adil Bhatia:** I think it was like maybe three months ago.
+
+**Adil Bhatia:** so like, I mean, in your world.
+
+**Marcel Santilli:** Okay.
+
+**Adil Bhatia:** Everything's changed already.
+
+**Adil Bhatia:** So that's what was going to say.
+
+**Adil Bhatia:** In the world of AI, mean, that's basically three years.
+
+**Adil Bhatia:** So yeah, I mean, it might be helpful.
+
+**Adil Bhatia:** You know, I know you've obviously published some of the kind of mission and the founding story around the business, but it's obviously a unique kind of service and product and, you know, obviously the ways you incorporate AI into what you're delivering for your customers.
+
+**Marcel Santilli:** So maybe, maybe starting with like a quick highlight on the background of the company, but then diving into.
+
+**Marcel Santilli:** And really what you've built and how the platform actually works today.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** I love that.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So I think a lot happened very organically.
+
+**Marcel Santilli:** So Logan, just for a little context, like my co-founder, CTO, Daniel, was at a company called If This Then That back in the day.
+
+**Logan Bartlett:** so, you know, he was a really hot company once upon a time.
+
+**Marcel Santilli:** It was.
+
+**Marcel Santilli:** It was.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And so it's funny.
+
+**Marcel Santilli:** I feel like there's a little mafia of people he worked with.
+
+**Marcel Santilli:** They're all like, we try to poach a few of them, but they're all like at Figma and other places.
+
+**Marcel Santilli:** And, you know, but it was like they figure out how to get engineering talent really good.
+
+**Marcel Santilli:** But but anyway, so he had built a lot of workflows like this, you know, is the precursor to Zapierin, right?
+
+**Marcel Santilli:** Like so running for tens of millions of people and kind of the distributed infrastructure.
+
+**Marcel Santilli:** And so they'll come back around to connect because we were able to build, you know, very similar infrastructure really quickly because of that underneath the hood.
+
+**Marcel Santilli:** But so my.
+
+**Marcel Santilli:** I think there's kind of like two sides to kind of what we're doing, or really like kind of three layers is the way I think about it.
+
+**Marcel Santilli:** There's service, there's AI workflows, for lack of a better word, and then there's experts, right?
+
+**Marcel Santilli:** So think of it like the service layer is like what we're promising and what customers expect and what they actually want, the outputs they want that hopefully drive the right outputs, right?
+
+**Marcel Santilli:** The AI workflows like have to be guided by experts, and then on the expert and human level, like it's not only shaping the workflows, but it's also like what I like to call now, it's like production refiners, which is like the bar raisers of outputs, you know, in some ways, you know, if you think about it.
+
+**Marcel Santilli:** So they're not just like button pushers, they're more like have good taste, and they're like kind of raising the bar along the way as well, right?
+
+**Marcel Santilli:** And so for us, like we started as like my whole career, I was just building publications for companies and creating content and building organic growth.
+
+**Marcel Santilli:** And so it just became...
+
+**Marcel Santilli:** It became kind of like this natural thing to apply AI to that, but in a way that then enabled experts like the managing editors, the people that are kind of like guiding that content along to be in the loop and continue to make that content better as opposed to trying to abstract them away.
+
+**Marcel Santilli:** And I think like that's the two key things for us is like, one, we're not trying to build tools because I didn't want to buy more tools.
+
+**Marcel Santilli:** And every time my team, you know, as a CMO would ask me for another tool, I would just kind of like roll my eyes.
+
+**Marcel Santilli:** like, here's another tool that no one's going to use.
+
+**Marcel Santilli:** It's going to take forever to set up.
+
+**Marcel Santilli:** It's not actually going to move the needle.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so like for us, like that was kind of like a big insight.
+
+**Marcel Santilli:** And so as we started, we started getting a ton of traction, mostly doing these workshops where I was teaching people how to build these workflows.
+
+**Marcel Santilli:** And then kind of fast forward around like end of last year or so, we, we really started building on our platform where my CTO, like Daniel was like, Hey, this is stupid.
+
+**Marcel Santilli:** Like all of these NAN and cut.
+
+**Marcel Santilli:** platforms.
+
+**Marcel Santilli:** They're great, but it's like, why are we not managing code?
+
+**Marcel Santilli:** Like coding agents are just so freaking good.
+
+**Marcel Santilli:** And you can't have a like scalable runtime infrastructure if you're running everything in like low code tools that break all the time.
+
+**Marcel Santilli:** They have no traceability, nothing, right?
+
+**Marcel Santilli:** And so we essentially build an infrastructure and I can show you guys like that is an AI coding agent that our experts can create a plan.
+
+**Marcel Santilli:** We create the workflows, right?
+
+**Marcel Santilli:** And they call tools and MCP servers and other things to execute all of it.
+
+**Marcel Santilli:** And then a runtime layer to run all that, right?
+
+**Marcel Santilli:** And so now like what we have that powers the services is really like this, I call it like this AI workflow engine.
+
+**Marcel Santilli:** And now what we're building is the kind of the learn engine and the task hub, if you will, or the expert layer to orchestrate.
+
+**Marcel Santilli:** So right now the expert layer is still, you know, kind of using our platform.
+
+**Marcel Santilli:** I mean, editing things, but like, we want to be able to kind of orchestrate very similar to what Surge has built, you know, a lot of the data annotation players have built, but right now, like, that's kind of like what we've been building.
+
+**Logan Bartlett:** So I can show you a little bit and go a little bit.
+
+**Logan Bartlett:** Be great.
+
+**Logan Bartlett:** Yeah, yeah, we'd love to see it.
+
+**Logan Bartlett:** I guess, what was, what broke down with like the innate ends of the world from your perspective?
+
+**Marcel Santilli:** Were they just not?
+
+**Logan Bartlett:** Yeah.
+
+**Logan Bartlett:** Yeah, I would love to hear that.
+
+**Marcel Santilli:** Yeah, and by the way, all our customers are saying the same thing, and they're all using all the tools, right?
+
+**Marcel Santilli:** And so like, the first thing is, you, we would build these workflows, they would start very simple.
+
+**Marcel Santilli:** And then all of a sudden, you're like, no, no, I need to run things in parallel.
+
+**Marcel Santilli:** Okay, that's not possible.
+
+**Marcel Santilli:** Okay, now I'm going to make this a little bit more complex in and invest more data or, you know, play around with different inputs.
+
+**Marcel Santilli:** Then you iterate that.
+
+**Marcel Santilli:** But then you realize, especially for us, like you have 15 customers.
+
+**Marcel Santilli:** Now you've got to go refactor 15 different workflows.
+
+**Marcel Santilli:** So you're out there.
+
+**Marcel Santilli:** When you do all of that, you just spend a month refactoring everything because it's all drag and drop and their co-pilots never work.
+
+**Marcel Santilli:** And then something breaks and you're like, well, bro, no traceability.
+
+**Marcel Santilli:** Then there's like version control or any having any notion of like reusable components across workflows, you know, that you can build up.
+
+**Marcel Santilli:** That's non-existent.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And and then like some of these workflows are taking like an hour to run.
+
+**Marcel Santilli:** And I was like, this is insane.
+
+**Marcel Santilli:** Like this should not take an hour.
+
+**Marcel Santilli:** And mostly because they're mostly sequential.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** You can't do like a thousand things in parallel.
+
+**Marcel Santilli:** So if you do like with our deep researcher where we come up with like research questions around a topic and then we run all of them in parallel.
+
+**Marcel Santilli:** And so it runs in two minutes versus 20 to 30 minutes.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so right now we're running about like a million workflows a month already.
+
+**Marcel Santilli:** And so like it would one cost a fortune, two impossible to maintain and three just like be super slow.
+
+**Marcel Santilli:** So then like when one person for one account was running a problem.
+
+**Marcel Santilli:** Sometimes a thousand essentially will clog up the whole system for everybody else for a whole day, you know?
+
+**Marcel Santilli:** So all these things started breaking pretty quickly, I would say, yeah.
+
+**Marcel Santilli:** And then when a new model comes out, you're screwed.
+
+**Marcel Santilli:** Like there goes a month of work to try to refactor and the time to replace.
+
+**Marcel Santilli:** Whereas now we have a script that anytime a new model comes out, we can replace all our steps in every workflow and evaluate it quickly, you know?
+
+**Marcel Santilli:** So it's like becomes like an hour flop if needed, you know?
+
+**Marcel Santilli:** And then we can also have like failover to different models and just a lot of that, you know, robust infrastructure overall, you know?
+
+**Logan Bartlett:** Yeah, got it.
+
+**Marcel Santilli:** Thank you.
+
+**Marcel Santilli:** But I can show you all a little bit, but just show you, give you a little bit of kind of like the high level.
+
+**Marcel Santilli:** So because we're serviced, one of the things we found is that people are really crappy at generating artifacts, right?
+
+**Marcel Santilli:** So this is like a recent customer that kicked off.
+
+**Marcel Santilli:** So we do an eight-week strategy sprint.
+
+**Marcel Santilli:** And during that eight-week, what we're trying to do is get the right inputs.
+
+**Marcel Santilli:** And it is such an underrated thing.
+
+**Marcel Santilli:** Where companies do not get good inputs from, like, essentially, like, service providers, tech platforms don't get good inputs.
+
+**Marcel Santilli:** And so what we're doing is, like, getting on a call with them and asking a lot of good questions and understanding their business, understanding their personas and everything else in order for us to generate these, what we call, artifacts.
+
+**Marcel Santilli:** And even though we're presenting to them like this, I'll show you, like, where this gets plugged in in our systems, right?
+
+**Marcel Santilli:** And then they're reviewing this, and they're making sure that, like, every single word here is, like, on point for them, right?
+
+**Marcel Santilli:** And then we're doing the same thing with personas, and I'll show you a little bit kind of, like, what that looks like.
+
+**Marcel Santilli:** And then we start kind of, like, the calibration process as well alongside, like, kind of how we're doing, like, their content strategy and everything else, right?
+
+**Marcel Santilli:** And keep in mind, like, a lot of this, we're focused on content because it's such a perfect wedge.
+
+**Marcel Santilli:** But there's so many other things we can run with this, right?
+
+**Marcel Santilli:** And so once we align and we have the good artifacts and the right content strategy...
+
+**Marcel Santilli:** Then when it gets to production and execution, then we were able to actually run this way more accurately.
+
+**Marcel Santilli:** And so what we found is the better the artifacts and the more time you spend making sure you get all the right inputs.
+
+**Marcel Santilli:** So we do a product deep dive, a technical deep dive, and things like that.
+
+**Marcel Santilli:** Then the outputs, you have to spend way less time refining the outputs.
+
+**Marcel Santilli:** And like going in your portfolio companies, right?
+
+**Marcel Santilli:** If you go to their head of marketing and ask, hey, can you send me a description of the company?
+
+**Marcel Santilli:** They probably don't have it handy.
+
+**Marcel Santilli:** If you ask them, hey, can you send me a doc that just describes all your personas or a doc that describes the product and every single feature and like in the best way possible in a distilled document?
+
+**Marcel Santilli:** I bet you like 90% of them don't have those documents.
+
+**Marcel Santilli:** And then what are all their people doing?
+
+**Marcel Santilli:** Copy and pasting garbage versions of those things into a ChatGPT or Cloud and using that for their day-to-day work, right?
+
+**Marcel Santilli:** Like, and what we found is like creating.
+
+**Marcel Santilli:** Processes around making these artifacts better makes a huge difference.
+
+**Marcel Santilli:** So, like, just to give you a quick example here, like, this is just for a customer, but I'll just show you, like, and these are internal tools, right?
+
+**Marcel Santilli:** Like, so it's like, we don't pay too much attention to, like, the little nuances and things like that.
+
+**Marcel Santilli:** There's bugs, but, like, we essentially have, like, all these artifacts here for every single client.
+
+**Marcel Santilli:** But then there's additional things like rules, refining instructions, like, all these kind of artifacts that we can generate that will plug in dynamically into the workflows, right?
+
+**Marcel Santilli:** And then, like, this is just an interface to kind of play around with it.
+
+**Marcel Santilli:** But what you can see here is, like, this is for one of our customers, exec.com.
+
+**Marcel Santilli:** Under the hood, this is our workflow layer.
+
+**Marcel Santilli:** And so this is, everything here is actually, like, auto-generated with our coding agent.
+
+**Marcel Santilli:** So the documentation, the flow structure.
+
+**Marcel Santilli:** So none of this was drag and drop at all.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And so everything is represented in code.
+
+**Marcel Santilli:** So we have like our coding agent essentially has a file structure that fits perfectly into the context window of our coding agents and is like highly opinionated.
+
+**Marcel Santilli:** And we have our workflow engine here as well.
+
+**Marcel Santilli:** And so this is just an example of one where like it's going through all these different steps.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** That was, you know, an expert going through like someone like myself and being like, this is the process I would do if I if I had an infinite time.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And just going through like analyzing the keywords, looking for intent, like doing a bunch of different things, analyzing competitors, creating the content and then returning this like brief.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And then it goes into the research phase.
+
+**Marcel Santilli:** Same thing.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Like you're going through and it's like the input is like AI role play for finance managers.
+
+**Marcel Santilli:** And then the output is like is generating research questions.
+
+**Marcel Santilli:** And then it's doing deep research and filtering through a bunch of things, coming up with the source and then combining all of that.
+
+**Marcel Santilli:** And then like you get something like this.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** But then our.
+
+**Marcel Santilli:** Editors can kind of come in here and like edit it, but now we're collecting all this data, right?
+
+**Marcel Santilli:** Like, so these refiners, like anything they do here, whether it's an interaction, they can say, hey, make this more like, you know, closer to a writing guideline.
+
+**Marcel Santilli:** They can pull all the artifacts.
+
+**Marcel Santilli:** It's all within the context, right?
+
+**Marcel Santilli:** And so you kind of have a Canva-like experience with the crazy workflow engine under the hood, right?
+
+**Marcel Santilli:** And, but then we're collecting all this data.
+
+**Marcel Santilli:** And then over time, we can decompose the human interventions out of here so that the human interventions can work more like, you know, data labeling pipeline, you know?
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Adil Bhatia:** And so, I mean, super, super interesting to see it live.
+
+**Adil Bhatia:** So thank you for sharing this.
+
+**Adil Bhatia:** I guess like in practice, the editing, the human intervention piece that you just described makes sense.
+
+**Adil Bhatia:** But I guess like in practice, when your customers, are your customers like actually interacting or engaging with these workflows themselves?
+
+**Adil Bhatia:** Or like, I guess, how are they, how are they putting this into practice?
+
+**Marcel Santilli:** Just like the next step for all this stuff.
+
+**Marcel Santilli:** no, everything is as a service, right?
+
+**Marcel Santilli:** Like, so I can pull an example here.
+
+**Marcel Santilli:** Like with Ramp, like we're seeing a lot of the growth or like take Tiro as like an earlier stage company, right?
+
+**Marcel Santilli:** Like if you go to their blog, like a lot of this is content we've generated for them, but we do everything for them, right?
+
+**Marcel Santilli:** Like we're not like we'll publish it, we'll optimize the content, we'll refresh the content, we'll create graphics and everything else, you know?
+
+**Marcel Santilli:** And so we're driving the entire strategy as well, like the content OS, which assignments we should go after, what questions your audience has that we should be the best answer to, right?
+
+**Marcel Santilli:** And like in some cases, like with Augment Code, for example, we're launching a newsletter for them.
+
+**Marcel Santilli:** We've launched like different sites like this for Augment Code as well, which was like, you know, an MCP server directory.
+
+**Marcel Santilli:** So there's a lot of these types of things, you know?
+
+**Marcel Santilli:** With like Bappy, we've...
+
+**Marcel Santilli:** And these, like, custom agent pages or workflow power, all of these, including the JSON config for these files, there's, like, thousands of, like, very specific, like, agent pages, you know?
+
+**Adil Bhatia:** And so, like, in an example like this, are you basically appending or you're creating a new workflow that can spin up a website like this using the artifacts that you've already built around the content guidelines, the restrictions, and like that?
+
+**Marcel Santilli:** Yeah, so, like, for instance, like, with that one, let me just say custom agent, yeah.
+
+**Marcel Santilli:** like, so this one, I like how it looks, it looks pretty, kind of the, you know, like, this one.
+
+**Adil Bhatia:** But, I mean, I also imagine, like, if your customers take a look at this, too, it's easier for them to digest.
+
+**Marcel Santilli:** Yeah, like, for instance, like, the input is voice AI agent for therapists, and the output is every single field of every single part of the page, including JSON config, you know?
+
+**Marcel Santilli:** And so, it's going through, like, all these steps.
+
+**Adil Bhatia:** Yep, yep, okay, got it.
+
+**Marcel Santilli:** And there's, like, human review, right?
+
+**Marcel Santilli:** love the queuing.
+
+**Marcel Santilli:** Make sure it looks good and things like that.
+
+**Marcel Santilli:** And then in this case, like for the zero to one, we will like, for instance, this one, we actually design and build the page.
+
+**Marcel Santilli:** So we have design engineers, you know, we work with, but we don't like manage people's website, right?
+
+**Marcel Santilli:** Like we help them in the zero to one when needed and when it's strategic for us, just because we notice like people are just really  at that and you get stuck forever.
+
+**Marcel Santilli:** Like Webflow works, but even then we had to help them with their integration pages and their new doc developer site.
+
+**Logan Bartlett:** And, you know, it's like, otherwise it would take six months essentially to get value, you know?
+
+**Logan Bartlett:** And what, like the outputs as pages, like on that prior thing, like, I guess, how would you break down what the outputs of what you're doing are by, I don't know, percentage of use case or something?
+
+**Marcel Santilli:** Yeah, would say, like, the way I kind of think about it, it's like the majority of it right now is programmatic editorial.
+
+**Marcel Santilli:** Yeah.
+
+**Logan Bartlett:** And what it is.
+
+**Logan Bartlett:** Programmatic editorial on, like.
+
+**Marcel Santilli:** On their blog or like on own properties, their website, you know, and then there's things that are like content repurposing or newsletters or like for social or repurposing a podcast to an article or multiple articles into like some kind of gated asset.
+
+**Marcel Santilli:** So like a lot of that is pretty easy to repurpose.
+
+**Marcel Santilli:** It's just that if they don't have this base like foundation of going from, you know, topic to publish page that they're really proud of and it's like really good, then everything else is just going to be a watered down version of like, you know, something that we don't have like the right ingredients to build that part, right?
+
+**Logan Bartlett:** And so I guess from an input standpoint, you know, at least how you initially showed it, it looked like a lot of like Greenfield service type stuff that you're doing initially to set up.
+
+**Logan Bartlett:** I'm surprised, I guess, how much like where most of this content
+
+**Logan Bartlett:** Content or the primitives of the content resides for the individual customer.
+
+**Logan Bartlett:** Is it in Notion Docs and Confluence pages and Dropbox and Box and CMSs?
+
+**Marcel Santilli:** Or is it in people's heads and it's just actually not great content in general that you're pulling from?
+
+**Marcel Santilli:** Yeah, so I'll give you an example.
+
+**Marcel Santilli:** Right now, we're just building our content inventory that we'll plug into this kind of...
+
+**Marcel Santilli:** We're calling Atlas.
+
+**Marcel Santilli:** We've got to come up with a better name because it's just an internal.
+
+**Marcel Santilli:** But like a lot of what we're doing is like in how we present the strategy to them is actually like scraping their entire site map and understanding like, hey, where are the opportunities within your content?
+
+**Marcel Santilli:** And what opportunities should we go after and how much search volume there is?
+
+**Marcel Santilli:** Like how much like is there like intent and how hard it would be for you to rank on that?
+
+**Marcel Santilli:** And then there's also like doing competitive gap analysis and things like that, that eventually turn into what we call assignments, right?
+
+**Marcel Santilli:** Like so then these...
+
+**Marcel Santilli:** These assignments here are like, you know, very specific.
+
+**Marcel Santilli:** We build clusters around.
+
+**Marcel Santilli:** So this is the entire content strategy.
+
+**Marcel Santilli:** But what you can see here is like, this is an example of kind of how we approach things very differently.
+
+**Marcel Santilli:** Like we didn't go and set out to build like Airtable, right?
+
+**Marcel Santilli:** Like, and so we're using Airtable, but then our workflows are powering a lot of this, right?
+
+**Marcel Santilli:** Like, and so like the assignment brief, for example, that I showed you the workflow is what powers like essentially going and creating a thousand potential assignments for them and quantifying.
+
+**Marcel Santilli:** What we should go after, right?
+
+**Marcel Santilli:** So the, but then where that ends up living is in most cases, either a database or in cases like this, where, you know, there's thousands of pages or like this, where there's thousands of pages or in their CMS, right?
+
+**Marcel Santilli:** Like, so for instance, like with RAMP, like these per diem pages, you know, are, you know, in their CMS or the like expense category are in their CMS, you know?
+
+**Marcel Santilli:** But in most cases.
+
+**Marcel Santilli:** It's like, it's mostly blog content, articles, and then enriching pages.
+
+**Marcel Santilli:** Like, for instance, like integration pages or catalog pages, like Strapi, we enrich a lot of their integration pages, you know, like those types of things.
+
+**Logan Bartlett:** Interesting.
+
+**Marcel Santilli:** Makes sense.
+
+**Marcel Santilli:** But like one piece that I think helps kind of illustrate this a little bit too is like, for instance, like Biologica, which is like Albert's like CEO, they're launching in a few months.
+
+**Marcel Santilli:** But, you know, where it's like medical content, it's just like there's so many steps beyond just like building a workflow and hitting a play, right?
+
+**Marcel Santilli:** Like there's supplements around like pre-menopausal and post-menopausal, like women in that age group that need very specific balancing, like supplements to balance their hormones, you know?
+
+**Marcel Santilli:** And like they spend like a whole year with all of this and we're doing all their content for their launch, right?
+
+**Marcel Santilli:** So it's not an SEO piece, you know, it's like really like really more like nuanced and technical where a lot of what we're doing is decomposing.
+
+**Marcel Santilli:** Like so when they adopt their doctor, like reviewing a piece of content and posting a comment, right, then like it's figuring out, OK, how do we make the next time this doctor has to review this piece of content easier, better, faster?
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And and so like what we realize in this process is like there like you need the engine to build these things, you know, and there's no way to build these these kind of like really complex workflows if you don't have the engine that builds these workflows and that learns from these workflows and these runs, you know.
+
+**Adil Bhatia:** Yep.
+
+**Adil Bhatia:** Yep.
+
+**Adil Bhatia:** That makes a lot of sense.
+
+**Adil Bhatia:** I mean, it's super it's super interesting.
+
+**Adil Bhatia:** mean, it's phenomenal to see the type of infrastructure you guys have built.
+
+**Adil Bhatia:** And I think what you're talking about is a lot of the same problems we've seen plenty of AI application companies deal with.
+
+**Adil Bhatia:** And you guys have built it all under the hood for a pretty.
+
+**Adil Bhatia:** A broad set of use cases here for your clients, which is awesome.
+
+**Adil Bhatia:** I can imagine it took a while to get it working, and it's continually being refined, but it is really impressive.
+
+**Marcel Santilli:** I mean, we didn't write our first line of code until December, just to give you an idea.
+
+**Logan Bartlett:** Wow, that's impressive.
+
+**Marcel Santilli:** And we only had one engineer, which is our CTO, until we raised money.
+
+**Marcel Santilli:** Wow.
+
+**Marcel Santilli:** Which was bank, it didn't hit the bank until April.
+
+**Marcel Santilli:** And then most people we hire on the engineering team, which now we have this awesome engineering team, didn't actually start until two months ago.
+
+**Marcel Santilli:** so it's like, all of this was really built in the last three months, mostly.
+
+**Marcel Santilli:** Outside of the basic workflow infrastructure, but we've pretty much rebuilt.
+
+**Marcel Santilli:** We can do everything NAN can do, except we don't need to drag and drop anything.
+
+**Logan Bartlett:** And just to be clear, you guys will do that yourself then?
+
+**Logan Bartlett:** For like, how much of that gets turned over to the customer to do some of these things?
+
+**Logan Bartlett:** Versus like on the, you know, no need for drag and drop.
+
+**Marcel Santilli:** the customer wants to update something or change something, you guys do it for them or will they do it themselves?
+
+**Marcel Santilli:** Right now we do it for them.
+
+**Marcel Santilli:** But we're like maybe like a few weeks away to start to expose this kind of Atlas interface.
+
+**Marcel Santilli:** If you will, this chart here, I'll show you.
+
+**Marcel Santilli:** It gives you like a better, like maybe like mental model for this.
+
+**Marcel Santilli:** But so like a lot of what I showed you is kind of this AI workflow engine.
+
+**Marcel Santilli:** So think of it as like today it runs locally, but a lot of what we build right now in Studio Flow, which again, we need to come up with a better internal name.
+
+**Marcel Santilli:** think of it as like, it's going to sound cliche, but like a vibe coding version, but like as useful as cursor to build workflows, right?
+
+**Marcel Santilli:** Like you have all the context, you have everything, and then like you can publish these workflows.
+
+**Marcel Santilli:** And a lot of what we're building right now is in order for us to have like these cloud environments, they're like customers.
+
+**Marcel Santilli:** That won't break every other instance right now.
+
+**Marcel Santilli:** It's just one instance because it's all internal, right?
+
+**Marcel Santilli:** And so like a lot of that work, essentially like the way we like to describe it is like running one environment with a thousand different workflows is orders of magnitude simpler than running a thousand environments with a thousand workflows, you know?
+
+**Marcel Santilli:** So like that's what a lot of our focus is right now on here and kind of like that experience of just like making that easier.
+
+**Marcel Santilli:** And so the way we build is like very incremental.
+
+**Marcel Santilli:** Like right now what we're doing is like making Kirkland, for instance, like he was AI engineer for ClickUp and he's building a lot of these workflows.
+
+**Marcel Santilli:** How do we make Kirkland's life easier so that he can turn around a workflow, you know, or change to a workflow in a day or in an hour or 30 minutes?
+
+**Marcel Santilli:** And then eventually get to the point where somebody like me who doesn't code can do that myself and then eventually get to the point where it's like a person that's not an expert at all can use this, but that's not what we're solving for right now.
+
+**Marcel Santilli:** We don't want people that are not experts without, they're not process architects, right?
+
+**Marcel Santilli:** And so the goal is not to make them process architects, but then right now, you can run, technically, this is ready to kind of run.
+
+**Logan Bartlett:** Anyone could run this.
+
+**Marcel Santilli:** It's just mostly putting in the right environments for people, right?
+
+**Marcel Santilli:** And so then the Task Hub is what I talked about.
+
+**Marcel Santilli:** That's kind of like an expert layer, if you will.
+
+**Marcel Santilli:** And now we're collecting all the data for the LearnEngine that will hope to learn from all these human interventions and be able to evaluate all the human interventions and then be able to, because I already have the coding agent, rebuild these workflows.
+
+**Marcel Santilli:** And so you can imagine soon where you can essentially have a mixture of expert-like approach, but instead of a mixture of experts of models, you have a mixture of expert workflow versions that have hundreds of steps that you're learning, which steps will give you the best output based on a human evaluation or preference, you know?
+
+**Marcel Santilli:** Yeah.
+
+**Adil Bhatia:** Yeah.
+
+**Adil Bhatia:** Super interesting.
+
+**Adil Bhatia:** I know.
+
+**Adil Bhatia:** All right.
+
+**Adil Bhatia:** We're running up on time and I know how busy you are, but really great to see the product.
+
+**Adil Bhatia:** I guess one last question from Ryan, obviously the shameless VC question, just wondering, like from a fundraising perspective, you're growing fast, have plenty of capital.
+
+**Adil Bhatia:** I know you've been super efficient.
+
+**Adil Bhatia:** When do you think you might want to raise more capital?
+
+**Marcel Santilli:** I mean, I know right now you're a production studio and you're focused on that, but I'd be curious what the future holds.
+
+**Marcel Santilli:** Right now we have the entire engineering lanes, like we have seven lanes that we're building towards, right?
+
+**Marcel Santilli:** Like for instance, like our AI editor, like I briefly showed you, right?
+
+**Marcel Santilli:** Like that's a huge undertaking.
+
+**Marcel Santilli:** The expert layer, the learn engine, the workflow piece, and then the content OS, which is really like the layer that the clients will see.
+
+**Marcel Santilli:** So it's like, it's a really big like footprint.
+
+**Marcel Santilli:** And the only way we were doing is because we hire a lot of these principal engineers.
+
+**Marcel Santilli:** Like Clint was first engineer.
+
+**Marcel Santilli:** One of the first engineers at HashiCorp built most of Terraform and Terraform providers to IPO, right?
+
+**Marcel Santilli:** Like Brad was early Coinbase, Felipe was early Airbnb and Terraform.
+
+**Marcel Santilli:** So we just have these people that can truly build, you know, like engineers.
+
+**Marcel Santilli:** But now, like, we're ready to kind of, like, double down on these lanes in the next two months.
+
+**Marcel Santilli:** And, like, we're really kind of, like, figuring out all the delivery layer.
+
+**Marcel Santilli:** And the task hub is the piece, like, that we really need to crack in order to be able to kind of remove a lot of the bottlenecks of scaling.
+
+**Marcel Santilli:** Like, we're not demand constrained, essentially, you know.
+
+**Marcel Santilli:** And so we've been, like, a lot more picky this summer and, like, last few months of, like, picking the right clients.
+
+**Marcel Santilli:** Like, so, for instance, like, just in the last couple weeks, we closed, you know, Surge for 700K a year, Okta, Sentinel-1, Augment.
+
+**Logan Bartlett:** What is your margin?
+
+**Logan Bartlett:** But I know, I'm just curious, like, are you getting, like, software-ish margins?
+
+**Marcel Santilli:** Or are you sort of doing...
+
+**Marcel Santilli:** Yeah, yeah, for the most part, like, 65% to 70%, you know.
+
+**Marcel Santilli:** It's impressive.
+
+**Marcel Santilli:** But, like, what we're not solving for right now is, like, trying to, like, we're solving for...
+
+**Logan Bartlett:** I you're not optimizing.
+
+**Logan Bartlett:** I'm solving for efficient right now.
+
+**Logan Bartlett:** You know what mean?
+
+**Marcel Santilli:** Like, it's way easier to, like, scale brain.
+
+**Marcel Santilli:** Yeah, yeah, yeah.
+
+**Marcel Santilli:** But...
+
+**Marcel Santilli:** So the service piece is profitable.
+
+**Marcel Santilli:** Obviously, we're burning money with the engineering investment, right?
+
+**Marcel Santilli:** And so long story short is like we're gearing towards like a September series B.
+
+**Marcel Santilli:** Then we feel like a lot of the platform will be at a place that like there's a lot more to show like and we want to connect that dot between like, like we have two principles we're building.
+
+**Marcel Santilli:** We have to write the model ways.
+
+**Marcel Santilli:** Every time a new model comes out, it should make everything we do better, faster, cheaper, right?
+
+**Marcel Santilli:** And the second principle is if every output should make the next output better, cheaper, faster.
+
+**Marcel Santilli:** And if we can, those two things are true, like we're in a very good place, you know?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** And that's what we're working towards is connecting those dots for those two things to be true, you know?
+
+**Adil Bhatia:** Yeah.
+
+**Adil Bhatia:** Yeah.
+
+**Adil Bhatia:** Makes sense.
+
+**Adil Bhatia:** I mean, awesome.
+
+**Adil Bhatia:** Congrats on the progress.
+
+**Adil Bhatia:** Really, really exciting.
+
+**Adil Bhatia:** Also, just to see the product and some of the more, some of the architecture you guys have built.
+
+**Adil Bhatia:** It's all really impressive.
+
+**Adil Bhatia:** And so, I mean, we'd absolutely love to be involved in that discussion in September.
+
+**Adil Bhatia:** And hopefully we can.
+
+**Adil Bhatia:** Time in person at some point before then as well.
+
+**Logan Bartlett:** make it happen.
+
+**Logan Bartlett:** Marine-based?
+
+**Marcel Santilli:** I'm in Oakland, but the office is in SF.
+
+**Marcel Santilli:** We're in South Park.
+
+**Marcel Santilli:** We're the second floor above Toilet-A-Ventures.
+
+**Marcel Santilli:** Oh, nice.
+
+**Adil Bhatia:** I remember you mentioned that.
+
+**Marcel Santilli:** Nice.
+
+**Adil Bhatia:** Yeah, yeah.
+
+**Marcel Santilli:** So maybe we can find some time.
+
+**Marcel Santilli:** I don't know if I'm going to New York in the next month or so.
+
+**Adil Bhatia:** With the two-year-old travel is a lot harder.
+
+**Adil Bhatia:** Yeah.
+
+**Adil Bhatia:** But we'd love to spend time in person if possible.
+
+**Adil Bhatia:** Yeah, that'd be great.
+
+**Adil Bhatia:** Yeah.
+
+**Adil Bhatia:** Thanks for making the time.
+
+**Adil Bhatia:** Let's do it.
+
+**Adil Bhatia:** Sounds good.
+
+**Adil Bhatia:** for myself.
+
+**Adil Bhatia:** All right.
+
+**Adil Bhatia:** See you next time.
+
+**Adil Bhatia:** Yeah.

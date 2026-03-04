@@ -1,0 +1,3025 @@
+{
+    "title": "Michel Tricot",
+    "meeting_title": "Michel Tricot <> Erik O'Brien",
+    "url": "https://fathom.video/calls/500945006",
+    "created_at": "2025-12-10T19:29:59Z",
+    "scheduled_start_time": "2025-12-10T18:45:00Z",
+    "scheduled_end_time": "2025-12-10T19:30:00Z",
+    "recording_id": 107804672,
+    "recording_start_time": "2025-12-10T18:46:23Z",
+    "recording_end_time": "2025-12-10T19:29:52Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Eric, I cannot, you're muted.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Wow, you have two note takers.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I think Dig has a couple that she's testing out, so it was just me hanging out with the note takers for a bit there.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Feels like a crowd.",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I like the Fathom notes actually, so I might try using that one too.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, Fathom has been the one that most of us use.",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Fireflies, some people are testing, and then Reve AI is a new one I haven't seen before.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "They're a client, but I haven't seen anybody using it.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right, well, let's jump into it.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, yeah, today we're really trying to just kind of get a map of the platform, kind of where it sits today, what are we looking at near-term, and kind of what the longer-term vision is, so kind of with a really focus on, like, what does this really unlock for AI engineers building agents?",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, if there's anything you have to show, I think that would be super helpful for visuals.",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Otherwise, I've got some questions we can just run through.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, let me share something, actually.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, this is a very high-level view of what Airbuy does with the agency data platform, which is, on one end, you have agents that need to execute.",
+            "timestamp": "00:01:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And to get to and finalize a specific task, to get access to this task, and to solve them, they need to have access to external context, and that context can be stored in the database, this context can be stored in any kind of SaaS application that you might have, and the way the loop for an agent to actually perform that task is always the same thing.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "is, one, you need to discover what is available to you, and you can see, you can make a parallel with CloudCode, you're asking CloudCode to do something, the first thing he's going to do is going to discover what the code base looks like, for an agent that is operating, not for code, but for like a different type of task, they also need to discover what data is available to them, so that might be, okay, where can I find information about Erik across all these different data silos, all these different services?",
+            "timestamp": "00:02:29"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's what I call the discovery and search phase, and that's a place where actually the existing product of AirVide is very, very strong, which is we know how to pull every single piece of data from the system, and we know how to create what we call entity caches.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then the second one is more about, like, when we think about the loop of an agent, it's just discover, then it's actually getting the data itself, like the relevant data.",
+            "timestamp": "00:03:20"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the discovery allows you to just narrow down what type of data you need to have access to, then you can fetch it.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like the fetch is everything that we have to do is looking at permissioning, looking at the most up-to-date information from the system of Rekop.",
+            "timestamp": "00:03:38"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the last one is really the ability to do and to perform actions.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if somehow the task leads to, well, I need to update some information about...",
+            "timestamp": "00:03:53"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Erik on this particular system.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How do you enable the agents to do it?",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's really the loop that we see when it comes to accessing data.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's like discovering, fetching, and acting.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's what the new platform is all about.",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the top part is really discovery and search.",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the bottom part is really about taking actions and reading the most up-to-date data.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Does that make sense?",
+            "timestamp": "00:04:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Erik Yep, I'm following.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's really the loop that we've identified with our customers.",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And for one task, you might have multiple iterations of that loop because that's what the agent does.",
+            "timestamp": "00:04:36"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It just discovers the world, understands the data, take actions, and that's all.",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Erik And we want to be like the enabler for that.",
+            "timestamp": "00:04:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And so, I guess, looking at kind of the stack of the day of like, where does this fit within the, how we've defined kind of the agentic data infrastructure stack?",
+            "timestamp": "00:05:07"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It really fits in the context piece.",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is that what you're asking for?",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's all about the context.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just the agent needs to have access to as much context and as much relevant context as possible.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the ability to update that particular context.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here, we're very much focused on your internal data, your company data, and that's the part of the context that we want to serve.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:05:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And if we were kind of looking at, you know, from a team that's building AI agents, like, what exact problems do you remove for those teams?",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What would they say, like, you know, imagining in the future, what is Airbyte and Gentic data, like, uniquely good at?",
+            "timestamp": "00:06:14"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, two things.",
+            "timestamp": "00:06:24"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you look at a world before Airbyte, every single company that is building an agent has to do many things.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The first one is they need to be able to integrate with the systems.",
+            "timestamp": "00:06:33"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They need to be managing the authorization and authentication to the systems.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They need to be building the actual data pipelines because you need to have this ability to discover.",
+            "timestamp": "00:06:42"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And most systems don't allow you to discover the data within their systems.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And, well, they need, basically, to build this whole block of how do you make this context available to",
+            "timestamp": "00:06:54"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "When you are in the world with Airbytes and the agentic data platform, all of this information is available through very simple agentic tooling, where you've just enabled and provided some credentials, and Airbytes will take care of how do you connect to the service, how do you manage authentication, how do you manage permissioning of the data, how do you manage the indexing of And how do you make it efficient and fast for users, plus all the maintenance of like, how do you make these connectors better over time, when APIs are changing, when rate limiting are changing, like all the things that people hate doing is something that we're exposed to very, very simple endpoints, and they never have to worry about that complexity.",
+            "timestamp": "00:07:01"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe I should send you the document.",
+            "timestamp": "00:07:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "next time.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It would definitely be helpful for additional context.",
+            "timestamp": "00:08:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So can you describe, I think, you know, we talked about last time, like AI-ready connectors.",
+            "timestamp": "00:08:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Can you just describe that in kind of plain terms, like what that qualifies and what it doesn't?",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so AI connectors is the piece that is at the bottom here, which is the ability to do the action and the actual fetch of information.",
+            "timestamp": "00:08:21"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So very simple, embeddable connectors that you can directly connect your agent to.",
+            "timestamp": "00:08:34"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And they are really meant to be included into your code, to be added into all the code that you're writing for your agents.",
+            "timestamp": "00:08:42"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, because they operate...",
+            "timestamp": "00:08:54"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, operate...",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So...",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So...",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So...",
+            "timestamp": "00:08:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So much infrastructure, those are the ones that are very simple to open source for us because you can just install them into your project and with a one line, you just have access to all the data that you want to connect to.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The piece that is not really, I don't know if like, I don't call them like AI already, but they serve AI use cases is all our existing connectors that are like the replication connectors, like the ability to actually do an inventory of all the data that is available across your systems and build that particular cache.",
+            "timestamp": "00:09:18"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, the one that we call AI connectors that we're releasing are the one that get people started very, very fast in exploring, exploring, like doing basic exploration, but very, very solid, like read and write into this operation.",
+            "timestamp": "00:09:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And if a team that was using the new platform kind of only turned on, you know, one feature to play with or kind of start testing around with, would that be the one?",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The reason why direct connectors are so important is that that's generally how most teams that are building agents are starting.",
+            "timestamp": "00:10:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Where, one, they want to test how good their agents can do with a very limited set of information and very controlled context.",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Where, you know, can say, okay, like, you can tune the agent to say, Erik on Stripe is this particular ID.",
+            "timestamp": "00:10:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you can see what the agent is going to be able to",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "To perform knowing that using the direct connector to fetch information about Erik using that particular ID, the moment when it breaks is that when you don't know who the user is going to be, when you don't know what is actually available across the whole inventory of beta, and that's when you need the top part.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that generally comes as a second step in like any kind of agentic project, like you start with something that is very controlled, and then you have to go for something that is much broader where you don't know what kind of request you're going to receive, and that's where direct connector actually start failing, and where you need to have an ability to do that exploration, like an easy way to do that exploration.",
+            "timestamp": "00:11:20"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I have a question.",
+            "timestamp": "00:11:43"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How are the, how are we going to integrate the direct connectors with the replication connectors?",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, uh, they are basically like to separate that of connector, but they are linked.",
+            "timestamp": "00:11:50"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We know that if you've connected Gong, for example,",
+            "timestamp": "00:11:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "For you will have two connectors running, one for replication, one for direct connection, and one is going to do the mirroring, and the other one will be able to just interact directly with, but it's going to be, it's using the same credential, the same permissioning model.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you say, you kind of, it's the same sync or the same connection, but there's two connectors running and conducting two different types of tasks.",
+            "timestamp": "00:12:15"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One is really about replication, which is the ability to build a full understanding of all the inventory of data.",
+            "timestamp": "00:12:26"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The other one is really to operate at the record level.",
+            "timestamp": "00:12:32"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And how does the replication connector, like, be it, like, can you explain the entity cache?",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, how does it, like, kind of build the entity cache?",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:46"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the first version of the entity cache is going to be very similar to what you would have in a warehouse when you're replicating data.",
+            "timestamp": "00:12:47"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, dedicated, like...",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Entity tables where you can search through.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, if I want to say, hey, give me all the information about Invesco, give me all the support you get for Invesco, that's why the entity cache will be extremely important, is that it will first allow you to understand, okay, who is Invesco?",
+            "timestamp": "00:13:05"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It will allow you to understand how is this account represented within Zendesk, for example, and then it will give you access to a list of all the most recent tickets that are available, and then what your agent can do once it has access to that information is just to use these IDs, these entities, to actually fetch the data directly from Zendesk and look at, okay, what are the attachments that are available, did they submit any reports, what is the latest, what the conversation, what was the last time I had the",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The answer to a ticket.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's when the direct fetch becomes critical.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But to start, like the discovery and the search is very important as the starting point for doing any kind of task.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A good example would be, you know, recently someone was saying, okay, we just enrich all the data with Manus.",
+            "timestamp": "00:14:13"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right.",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, you didn't tell Manus, go, go figure it out.",
+            "timestamp": "00:14:24"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You just gave Manus a list of users and then from that list of user.",
+            "timestamp": "00:14:30"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that was basically you replacing the search and the discovery.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You've done the discovery manually.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then the agent, what it did is for every single one of these entities that you were prompting, it would go open LinkedIn, search for the person, get the information and return it and enrich it.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that was, that's more, that's a search and fetch part.",
+            "timestamp": "00:14:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:14:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's what happens in most projects.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The discovery and the search is generally done in a very controlled way, where you provide what is the starting point, when you want to have the ability to have any kind of starting point, and have the entity cacher just prompt you, this is how you start if you want to get any information about Invesco.",
+            "timestamp": "00:15:03"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And by the way, I also have data about Invesco on Salesforce, and I also have data about Invesco on the product database, and I also have information about Invesco in these other silos, and the agents can decide, okay, I want to know if I have information about Invesco on Zendesk, maybe I also care about like their consumption, so maybe let's look at what data is available on Orb, or like your metering system, or let's look at what is available also on Salesforce.",
+            "timestamp": "00:15:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you start, the agents start grouping all this information, and give you like a full report of, this is what the state of Invesco is, and and what the",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "At some point, you might decide, yeah, maybe this customer is right, because they are very upset about one particular ticket, and boom, it starts running into your support or customer success system, you need to go into a call with Invesco right now.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's when the write actually comes to play.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right, and these connectors, I mean, right now they don't do write, but the idea is that the connectors will eventually go to write back records and update things.",
+            "timestamp": "00:16:22"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, and that's something I want to have in January, an initial version of write.",
+            "timestamp": "00:16:29"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, very cool.",
+            "timestamp": "00:16:33"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, makes sense.",
+            "timestamp": "00:16:35"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, the entity cache today, it's a very simple search, but what I want to get to is actually the ability to link across multiple systems.",
+            "timestamp": "00:16:38"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So here it might just ask, like, give me information you have on Salesforce.",
+            "timestamp": "00:16:48"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What I wanted to be able to say is, like, here is the information on Salesforce, but you can also find information on X, Y, and Z.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "visit not switch.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Got it.",
+            "timestamp": "00:17:01"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, and I think, like, so actually, like, today in our meeting with Erik, we gave him the content calendar for the next, like, the post we're doing, and, like, one of them is also, one of them is on ontology as well, so maybe we, if we could go over that as well, so that they had no other contents to write about that.",
+            "timestamp": "00:17:02"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so, ontology, I would say, is still a little bit far in the future, in terms of how we're thinking about it.",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In a way, the entity cache is the first version of what ontology is, because has the entity mapping on the first level.",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Correct.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's really this ability to just have a representation of, within an organization, this is what, this is what a customer is.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is all the places where you can find data about that particular, that particular.",
+            "timestamp": "00:17:47"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, super entity that we call customer.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yes, here, I would say that.",
+            "timestamp": "00:17:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's a place where we need to continue to do a lot more discovery, but the cache is the first version of Any questions, Erik?",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Sorry, was taking some notes.",
+            "timestamp": "00:18:18"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm always taking silence as I was not there enough.",
+            "timestamp": "00:18:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "No, no, no.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm more just introspective and taking notes most of the time.",
+            "timestamp": "00:18:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, no, I'm following so far.",
+            "timestamp": "00:18:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, how can customers deploy today, like, if they're using, is it, like, single tenant, hybrid?",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, we're building the cloud product.",
+            "timestamp": "00:18:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, right now...",
+            "timestamp": "00:18:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If they want to deploy, they only have access to the direct connectors, which is how do you get started as fast as possible, building your V1 of your agent.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Everything that has to do with the discovery is something where you have to go and start using our cloud product, and that's something that we will be releasing in private beta sometime in February.",
+            "timestamp": "00:19:11"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yeah, we basically, we have that piece here, because that's the existing, like, AirBite business, and we're actually building that piece here at the moment.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you.",
+            "timestamp": "00:19:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:19:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "you.",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right, so I think we've got an idea of kind of the loop, the direct connections, the existing kind of business entity cache.",
+            "timestamp": "00:20:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess if we were to like paint the, we kind of walked through the before and after, but if we were like before and after of support co-pilot built with you or without, built with you versus without you kind of, can you just kind of paint like the story of like what a non-technical reader can picture?",
+            "timestamp": "00:20:27"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if you're building a support agent before, you would say, okay, what is the primary data source I need to look",
+            "timestamp": "00:20:49"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or what features have we added or what fixes have we done that might impact this particular customer.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So very quickly you end up with, yes, the dominant players for market shares in terms of the GitHub, the Zendesk, etc.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But not everyone uses those.",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or maybe they're using a version of it that is not the same that you've built.",
+            "timestamp": "00:22:16"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you end up having to build very quickly 10 connectors.",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you realize, okay, now my problem is that with Zendesk, my only way to know what is attached to Invesco is what my customers are doing is they go on Zendesk, they look at the customer ID, and they say, instead of saying, oh, give me information about Invesco, they're going to say, oh, give me information about Invesco.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And by the way, this is...",
+            "timestamp": "00:22:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "On Zendesk, ID 12345.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's a  experience because people are going in and out of my system.",
+            "timestamp": "00:23:03"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so what you're going to have to do is say, okay, well, it's pretty easy.",
+            "timestamp": "00:23:08"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just need to go look at all my Zendesk tickets and start identifying who is Invesco in Zendesk.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I need to be able to make that mapping information available to my agents.",
+            "timestamp": "00:23:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So suddenly, I need to go through all the customers that are listed within Zendesk.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I need to replicate them to create that mapping.",
+            "timestamp": "00:23:36"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's the replication piece.",
+            "timestamp": "00:23:38"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I need to make it available to my agents.",
+            "timestamp": "00:23:40"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, so now it means that every time I add a new customer, I need to make sure that I'm updating that mapping.",
+            "timestamp": "00:23:42"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm updating this information because I need to be able to search and convert Invesco to an ID that then my agent can query somewhere.",
+            "timestamp": "00:23:48"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, and by the way...",
+            "timestamp": "00:23:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I need to make sure that within Jira, I'm able to search all the tickets where Invesco is mentioned, but here I don't have a definition of the Invesco as a customer, I just know the name, someone put the word Invesco into my tickets.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I need to build and replicate and create an index for all my tickets within Jira.",
+            "timestamp": "00:24:13"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you end up having to, yeah, I want to make sure also that all my tickets are probably replicated because what matters to me is probably the most recent ticket that was written.",
+            "timestamp": "00:24:21"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so you end up building that whole replication pipeline that has to connect to Zendesk, that has to connect to Jira, and that has to be able to replicate the data as a cadence, potentially like every minute to make sure that you have this information available in the cache in case someone or an agent is actually operating on Invesco.",
+            "timestamp": "00:24:32"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you end up just building this.",
+            "timestamp": "00:24:54"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You end up building this.",
+            "timestamp": "00:24:57"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And",
+            "timestamp": "00:24:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You building this, you end up building all these interfaces, and you need to make sure that all of that is always up-to-date because someone is going to tell you, oh, wow, the data is not coming fast enough, or, oh, actually, you know what, the product is broken because suddenly Gong went from, not Gong, but Zendesk is going from, like, the V1 to the V2 in the API, I need to change that.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, and by the way, they also changed what the data looked like and how you query the API.",
+            "timestamp": "00:25:24"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so you end up, so your only work now as someone who is building an agentic product is to build this, and it's to build this, and it's to build this.",
+            "timestamp": "00:25:29"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And now you're also stuck.",
+            "timestamp": "00:25:40"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You have to maintain that, and you need to maintain that.",
+            "timestamp": "00:25:42"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's going to take the whole team to actually make them, to actually make them good.",
+            "timestamp": "00:25:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And with Airbyte, you just have a simple API key.",
+            "timestamp": "00:25:52"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "few tools that you can plug into your agent, and boom, everything is handled for you.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And your agent...",
+            "timestamp": "00:26:07"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Go ahead.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What kind of tools would those be?",
+            "timestamp": "00:26:09"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like agentic tools.",
+            "timestamp": "00:26:13"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "like the ability for an agent to actually stop the flow of just generating text and actually ask an external service, like give me additional information.",
+            "timestamp": "00:26:14"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, when I'm talking about, does it make sense when I say tool that I'm talking about like agentic tools?",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, yeah.",
+            "timestamp": "00:26:31"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:26:32"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's basically it.",
+            "timestamp": "00:26:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:26:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What's the decision logic that kind of picks replication versus direct access for a given request?",
+            "timestamp": "00:26:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, is that a policy that, you know, you guys establish or is it customer or agent dependent?",
+            "timestamp": "00:26:47"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I think it's, it's more about what phase are you in?",
+            "timestamp": "00:26:54"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if you don't...",
+            "timestamp": "00:26:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So if the agent doesn't know what to do, it should always start with the entity cache, because it needs to discover who is Invesco, where can I find data about Invesco, so that's when the entity cache is necessary, it's like the what's starting the whole processing, if you take a parallel with CloudCode, it's when CloudCode is going to go over your code base and it's going to start reading the code to understand what files should I be touching, what files exist, what library is imported, cetera, et cetera.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's more about gathering context.",
+            "timestamp": "00:27:31"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the moment you go for direct connection is when you actually need to get the real data, the most up-to-date data, to say, okay, now I know how to find Invesco onto Zendesk.",
+            "timestamp": "00:27:36"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now I know what tickets in Jira are mentioning Invesco.",
+            "timestamp": "00:27:50"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now I know what, like, tickets.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Tickets on GitHub are actually touching the feature that Invesco is complaining about, and that's when you start doing more of the fetch, and then when you need to actually write something, so maybe it's like writing an internal ticket onto Zendesk and say, well, this is everything that I found, or this is a response I want to provide to Invesco, that's when you also use the Direct Connect topic, because this one is about writing information back into Invesco.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "the operational system.",
+            "timestamp": "00:28:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:28:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So is it safe to say, like, if we were to remove the entity cache from this diagram, all this would kind of collapse?",
+            "timestamp": "00:28:36"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It would.",
+            "timestamp": "00:28:44"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, but that's generally how product, like agentic product starts.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They only start without the cache, because you start by just making sure, can I interact, can my agent interact with this it's part.",
+            "timestamp": "00:28:50"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Can it read?",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Can it write?",
+            "timestamp": "00:29:01"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But it's always very targeted.",
+            "timestamp": "00:29:02"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like the discovery is very intentional.",
+            "timestamp": "00:29:03"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like you say, I want to read information about Invesco and Gong.",
+            "timestamp": "00:29:06"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And by the way, this is the call I'm interested in.",
+            "timestamp": "00:29:10"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or this is the customer idea of Invesco within Gong.",
+            "timestamp": "00:29:15"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But getting ideas, knowing you have information on Invesco on Gong, like is something right now that is prompted by the user or by the agent.",
+            "timestamp": "00:29:21"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's normally not how it works when you want to be at scale in production and having autonomous agent.",
+            "timestamp": "00:29:34"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like the autonomous agent is just figure out what we need to do next for Invesco.",
+            "timestamp": "00:29:41"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it needs to understand where is Invesco, where is Invesco, where do I have data about Invesco, pull all that information, and then come up with a list of tasks or a list of actions.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So how do you keep the cache coherent across replication and direct access paths?",
+            "timestamp": "00:30:04"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:30:13"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The replication is basically leveraging the existing product and the data is most of the time up-to-date.",
+            "timestamp": "00:30:18"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe it was like one or two or five minutes delay, but the cache is always being populated and then direct connector becomes the source of truth.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If there is a mismatch between what the entity cache is returning and what the direct connector is returning, then the direct connector actually wins because it's actually getting the data directly from the system of record.",
+            "timestamp": "00:30:38"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So this is also a question that I've been getting from the team a lot, like on the marketing side and everything.",
+            "timestamp": "00:30:53"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, obviously...",
+            "timestamp": "00:30:57"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:30:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Merge has like a lot of momentum, like Merge and other tools, I guess like, I think, is there a competitive difference just to replication connectors or is there more to it, I guess?",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:08"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, if you don't have replication, you cannot do discovery and search.",
+            "timestamp": "00:31:09"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you're not, you cannot be an autonomous agent.",
+            "timestamp": "00:31:13"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I see.",
+            "timestamp": "00:31:16"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So they can basically, they can do fetch based.",
+            "timestamp": "00:31:17"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They're basically just doing fetch by doing API integration.",
+            "timestamp": "00:31:19"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Correct.",
+            "timestamp": "00:31:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then we're doing the discovery and search aspect.",
+            "timestamp": "00:31:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:25"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we have, we have a headstart there because we already have the replication.",
+            "timestamp": "00:31:26"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:30"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That makes it, that makes it a lot clearer.",
+            "timestamp": "00:31:31"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:31:32"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's really, that's really what matters, Zach.",
+            "timestamp": "00:31:34"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you want something that runs autonomously, you have to assume that the discovery has to be done autonomously.",
+            "timestamp": "00:31:37"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you, if it's just a copilot, yes, you can get by by saying, oh, agent, look at this, this document, and I'm giving you the URL of the document.",
+            "timestamp": "00:31:46"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:31:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That works really well with direct connection, but that's not how it is.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's not what autonomy actually is.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you want something that is autonomous, you need to come up with a specific target or goal or outcome that you want to get to, and the agent is going to figure out, what do I need to do that, where do I find information, pull the information, look at the system of record, and write back to the system of record.",
+            "timestamp": "00:32:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Anything to call out with the off module?",
+            "timestamp": "00:32:41"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes.",
+            "timestamp": "00:32:46"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This one is just about making sure that whatever data the agent is looking to get is allowed to have access to it.",
+            "timestamp": "00:32:51"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "at arehur Let's tells Are I",
+            "timestamp": "00:32:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And whether the agent is an autonomous agent or whether the agent is controlled by a human through a chat or copilot experience, you want to make sure, imagine the case where you're looking to make a people, let's say a recruiting helper agent.",
+            "timestamp": "00:33:02"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And you don't want anyone who has access to that copilot to be able to say, oh, what was the feedback that everyone gave Erik during his interview process when Erik is already hired?",
+            "timestamp": "00:33:30"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is something that maybe only your people team or your recruiting team should have access to, or maybe the hiring manager.",
+            "timestamp": "00:33:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or it can be, well, I want to create a payroll agent.",
+            "timestamp": "00:33:51"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, then you need to be even...",
+            "timestamp": "00:33:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "even...",
+            "timestamp": "00:33:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:33:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "to be even more careful about who has access to that co-pilot, and you need to make sure that maybe Kushal is leading a team, can only see the compensation for his own team, not for like Charles' team or another team, and that's where the authentication modules comes into play, it's like making sure that agents only accesses the data that it is allowed to have access to.",
+            "timestamp": "00:34:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, so we can basically have policies bind data access to the purpose of the task.",
+            "timestamp": "00:34:27"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right, and to the person, the, yeah, exactly.",
+            "timestamp": "00:34:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "To the individual user as well, yeah.",
+            "timestamp": "00:34:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there any auth patterns to call out that are native, like OAuth paths or?",
+            "timestamp": "00:34:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I mean, this is really to access the integration points.",
+            "timestamp": "00:34:53"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, the OAuth module is also very important at the edge.",
+            "timestamp": "00:34:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "side case.",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I want Thank",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Which is right here, which is what data is being written by the Airbyt tools.",
+            "timestamp": "00:35:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yes, otherwise, yes, it contains all the information about how do you connect to the end system, which user has configured their credentials, et cetera, et cetera.",
+            "timestamp": "00:35:05"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Sorry, I'm doing some live editing I don't like.",
+            "timestamp": "00:35:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Any kind of call out for, like, the contract between agents and the platform?",
+            "timestamp": "00:35:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, I guess, is there, what is the precise contract between agents and your platform?",
+            "timestamp": "00:35:51"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In what sense?",
+            "timestamp": "00:35:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:35:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, input schema.",
+            "timestamp": "00:35:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The tool interface, I mean, those are pretty standard.",
+            "timestamp": "00:36:03"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In terms of the schema itself, I think it's less and less important because agents are able to figure out like schema drift, schema differences, as long as the data is properly labeled and properly documented.",
+            "timestamp": "00:36:12"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So in terms of the contract, while we're returning JSON objects and schemas and descriptions and things like that, so that the agent actually understands what each field is about, but we're not too prescriptive in what the data, how the data changes, because the agents in general can figure it out.",
+            "timestamp": "00:36:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then how do the platform kind of expose provenance or like confidence back to the agent or to the user?",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it like citations or freshness labels or policy badges or something like that?",
+            "timestamp": "00:37:09"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Good question.",
+            "timestamp": "00:37:18"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I've not thought about it.",
+            "timestamp": "00:37:20"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:37:22"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, the thing is like the tools is actually pretty, it's pretty clear about what data, where data is coming from.",
+            "timestamp": "00:37:23"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now it's more like how does the, the builder of the agent want to surface that information?",
+            "timestamp": "00:37:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So more of a UI decision by that agent builder.",
+            "timestamp": "00:37:41"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:44"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like all the, all the metadata is available and is attached.",
+            "timestamp": "00:37:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, you know, it's coming from Salesforce, you know, when it was last replicated, you know, what, like the freshness of the cache, you know, that it was a call from Salesforce that it's, that returned that data.",
+            "timestamp": "00:37:48"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So.",
+            "timestamp": "00:37:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "so.",
+            "timestamp": "00:37:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All this information is real and is available to the agents.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now it's up to the builder to actually figure out how they want to surface it.",
+            "timestamp": "00:38:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Any failure modes that you've already kind of tested against?",
+            "timestamp": "00:38:24"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What you call a failure mode?",
+            "timestamp": "00:38:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I don't know, and the direct connectors potentially not working or...",
+            "timestamp": "00:38:34"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, in that case...",
+            "timestamp": "00:38:39"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's actually...",
+            "timestamp": "00:38:41"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the good thing with having both the cache and the direct connector is the direct connector guarantees you freshness.",
+            "timestamp": "00:38:43"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But also the danger with the direct connector is that if there is anything wrong, then your operation stops.",
+            "timestamp": "00:38:50"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "week's Thank you.",
+            "timestamp": "00:38:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If, for example, an API is down, well, you cannot have access to that data and your agent is stuck.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You can always fall back to the cache.",
+            "timestamp": "00:39:07"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you might have more stale data, not the most up-to-date data, but you still have some data available to you.",
+            "timestamp": "00:39:10"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In terms of what if the entity cache fails, well, this is not good because it means that the discovery cannot happen.",
+            "timestamp": "00:39:21"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you can still leverage the direct connector, but at that point, you cannot have the autonomy you want from your agents.",
+            "timestamp": "00:39:27"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because they won't be able to know where is the, where do I have data about growth .",
+            "timestamp": "00:39:37"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But at that point, becomes our, I mean, that's our job to make sure it's, it doesn't fail.",
+            "timestamp": "00:39:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:39:59"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But yes, the entity cache and the replication makes it so that the direct connector, if anything wrong happens with it, if anything wrong is broken about the source system, you can still operate because the data is available.",
+            "timestamp": "00:40:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So what about this kind of overall platform or system becomes more defensible with scale, like connector hardening, data maps?",
+            "timestamp": "00:40:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess what's the compounding advantage or kind of the mode story you guys are trying to build with agentic data?",
+            "timestamp": "00:40:37"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I think the same one we've done in the data space, which is, it's very hard to operate and build and maintain all these connectors.",
+            "timestamp": "00:40:42"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And today we have a very efficient...",
+            "timestamp": "00:40:57"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So of doing so.",
+            "timestamp": "00:41:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The other part is the value you can provide once you have the entity cache is really this ability to discover across multiple silos.",
+            "timestamp": "00:41:03"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's not a network effect because the data is just for one customer, but it makes it so that we can create connections between different systems and we can do it automatically.",
+            "timestamp": "00:41:17"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you get more value the more system you connect to the system as a customer.",
+            "timestamp": "00:41:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:41:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "With the last couple of minutes, anything I haven't asked that you want to touch on or anything else in the doc we haven't covered yet?",
+            "timestamp": "00:41:48"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Uh, no, I might just share.",
+            "timestamp": "00:41:56"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The document with you, so you have access to the whole context.",
+            "timestamp": "00:42:00"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, and that'll be helpful.",
+            "timestamp": "00:42:03"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then, yeah, it'll obviously help with writing all of our articles, too.",
+            "timestamp": "00:42:04"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I know.",
+            "timestamp": "00:42:07"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm investing in our article writing context.",
+            "timestamp": "00:42:09"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, it's going into the growthx.ai mind.",
+            "timestamp": "00:42:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:42:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:42:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "This is obviously super helpful to kind of get a little bit closer to the product, the platform.",
+            "timestamp": "00:42:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Better understand kind of what we're looking at and what we can start to talk about.",
+            "timestamp": "00:42:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Some of the key points.",
+            "timestamp": "00:42:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So really appreciate the time.",
+            "timestamp": "00:42:36"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Of course.",
+            "timestamp": "00:42:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:42:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, I'll look out for an invite to this doc.",
+            "timestamp": "00:42:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then if any other kind of follow-up questions come up, once I get a chance to look through it, I'll either reach out through Khrushal or in Slack.",
+            "timestamp": "00:42:45"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, good.",
+            "timestamp": "00:42:53"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Khrushal, can you share it?",
+            "timestamp": "00:42:54"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I'll share it with you.",
+            "timestamp": "00:42:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, it's in our Slack.",
+            "timestamp": "00:42:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:42:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Khrushal.",
+            "timestamp": "00:42:58"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Khrushal.",
+            "timestamp": "00:42:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Great, thank Erik, thanks.",
+            "timestamp": "00:43:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thank you, talk later, bye.",
+            "timestamp": "00:43:02"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, about the document on your site?",
+            "timestamp": "00:43:13"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, look, this was pretty, really helpful.",
+            "timestamp": "00:43:20"
+        },
+        {
+            "speaker": {
+                "display_name": "6 - Grand Canyon",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, think like, just need to be more, just need to make your address of the product for writing everything, yeah, but thank you.",
+            "timestamp": "00:43:22"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[To map Airbyte's agentic data platform and its value for AI engineers.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=58.0)\n\n## Key Takeaways\n\n  - [Airbyte\u2019s platform enables autonomous agents by automating the `Discover \u2192 Fetch \u2192 Act` data loop, replacing manual data pipeline builds and maintenance.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=360.0)\n  - [The platform uses two connector types: `Replication Connectors` build a cross-silo `Entity Cache` for discovery, while `Direct Connectors` provide real-time data access and writes.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=705.0)\n  - [The `Entity Cache` is the platform's core differentiator, enabling agents to autonomously discover data across systems (e.g., finding \"Invesco\" in Zendesk, Jira, and Salesforce). Competitors like Merge offer only direct fetch.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1853.0)\n  - [`Direct Connectors` are the source of truth; the `Entity Cache` provides a stale data fallback, ensuring agents can operate even if a source API is down.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=2304.0)\n\n## Topics\n\n### The Agentic Data Loop\n\n  - [Airbyte's platform automates the `Discover \u2192 Fetch \u2192 Act` loop, the core process for agents to access and use internal company data.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=105.0)\n  - [**Discover:** Find relevant data across all connected systems.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=149.0)\n  - [**Fetch:** Retrieve the most up-to-date, permissioned data from the source.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=200.0)\n  - [**Act:** Perform actions like updating records or triggering workflows.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=229.0)\n\n### Platform Components & Workflow\n\n  - [**Entity Cache (Discovery Layer):**](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=759.0)\n      - [Built by `Replication Connectors` mirroring data from all sources (e.g., Zendesk, Salesforce).](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=759.0)\n      - [Enables agents to autonomously discover data across silos without needing specific IDs.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=903.0)\n      - [Example: An agent can find all data related to \"Invesco\" across all systems, not just a pre-defined Zendesk ticket ID.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=903.0)\n  - [**Direct Connectors (Fetch & Act Layer):**](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=488.0)\n      - [Embeddable tools for agents to perform real-time `Read` and `Write` operations.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=488.0)\n      - [`Read` access is available now; `Write` functionality is planned for January.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=982.0)\n      - [Serve as the source of truth; if a source API is down, the agent can fall back to the `Entity Cache` for stale data.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=2304.0)\n  - [**Auth Module:**](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1961.0)\n      - [Enforces fine-grained, user-level data access policies.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1961.0)\n      - [Example: A payroll agent can only see compensation data for its user's team.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=2031.0)\n\n### Competitive Advantage\n\n  - [**Problem:** Building agents without Airbyte requires massive, ongoing effort for:](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=385.0)\n      - [Connector development and maintenance (API changes, rate limits).](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1500.0)\n      - [Auth and permission management.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=393.0)\n      - [Data replication and indexing for discovery.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1440.0)\n  - [**Solution:** Airbyte provides a single API key that handles all data infrastructure, freeing teams to focus on agent logic.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1529.0)\n  - [**Differentiator:** The `Entity Cache` enables true agent autonomy. Competitors like Merge offer only direct fetch, requiring agents to be manually prompted with specific IDs.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1853.0)\n\n### Future Vision\n\n  - [**Ontology:** The `Entity Cache` is the first step toward a full ontology, which will provide a unified, cross-system definition of core business entities like \"Customer.\"](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1022.0)\n  - [**Deployment:**](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1126.0)\n      - [`Direct Connectors` are available now for rapid agent prototyping.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1126.0)\n      - [The full cloud product with the `Entity Cache` will enter private beta in February.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=1126.0)\n\n## Next Steps\n\n  - [**Khrushal:** Share the internal Airbyte agentic data platform document with Erik.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=2561.0)\n  - [**Erik:** Review the document and follow up with questions via Slack.](https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t?tab=summary&timestamp=2561.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Share agentic data platform doc w/ Erik (growthx.ai) via Slack",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:42:30",
+            "recording_playback_url": "https://fathom.video/calls/500945006?timestamp=2550.9999",
+            "assignee": {
+                "name": null,
+                "email": null,
+                "team": null
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Michel Tricot",
+            "email": "michel@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Dignory Carmona",
+            "email": "dignory@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Kushal Chatterjee",
+            "email": "kushal.chatterjee@airbyte.io",
+            "email_domain": "airbyte.io",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        }
+    ],
+    "recorded_by": {
+        "name": "Erik O'Brien",
+        "email": "erik@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/KxtkuDWnMDcsFqP_yrNqL4m2GZzTT_2t",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

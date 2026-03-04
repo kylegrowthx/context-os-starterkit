@@ -1,0 +1,2682 @@
+[
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Hey, Jason.",
+    "timestamp": "00:00:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Can you hear me okay?",
+    "timestamp": "00:00:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yes.",
+    "timestamp": "00:00:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Hello.",
+    "timestamp": "00:00:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "How's it going?",
+    "timestamp": "00:00:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Good, good.",
+    "timestamp": "00:00:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Great to chat again.",
+    "timestamp": "00:00:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, thanks for making the time.",
+    "timestamp": "00:00:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, of course.",
+    "timestamp": "00:00:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:00:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "We could probably just jump in.",
+    "timestamp": "00:00:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "mean, I was just looking for your help and helping me set up this tool called Default.",
+    "timestamp": "00:00:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I think I mentioned last time, too.",
+    "timestamp": "00:00:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Oh, yeah.",
+    "timestamp": "00:00:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Basically, what I'm trying to do is, because they haven't released their native integration yet, they keep promising me dates and pushing it back.",
+    "timestamp": "00:00:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So I'm just like, okay, I just need to, like, get this working.",
+    "timestamp": "00:00:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, I guess without that, I need to call the API, just, like, create some records.",
+    "timestamp": "00:00:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And I just wanted your help there.",
+    "timestamp": "00:00:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Maybe I could show you what I'm trying to do to start.",
+    "timestamp": "00:00:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Let show you where I was having trouble.",
+    "timestamp": "00:00:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "basically just, I couldn't really figure out what format.",
+    "timestamp": "00:00:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's really struggling with that, but kind of high level, you know, it's basically just like a, you know, put in your email, it kind of, you know, routes you around.",
+    "timestamp": "00:01:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And there's like multiple kind of legs to this, but, you know, that's basically the experience and then how this looks on their end.",
+    "timestamp": "00:01:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So for example, this is the email form and, you know, a few routes go to the scheduler and then a few routes go to that like secondary screen just on my screen where it like further tries to qualify.",
+    "timestamp": "00:01:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And what I'm trying to do is just, I guess, you know, at some stages here, I just want to like create.",
+    "timestamp": "00:01:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "People and maybe a company.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'm not sure if companies are auto-created, but create the associated Adio objects that I should create.",
+    "timestamp": "00:02:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, yeah, definitely.",
+    "timestamp": "00:02:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And do you want to send this data to Adio only if they book a meeting?",
+    "timestamp": "00:02:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Or do you want to send it to Adio regardless, even if they're not qualified?",
+    "timestamp": "00:02:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Because there are a few different paths here.",
+    "timestamp": "00:02:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, I probably want to send it to Adio in all cases.",
+    "timestamp": "00:02:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'm trying to think of the case of an extremely not qualified person.",
+    "timestamp": "00:02:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Do you know if Adio charges us per contact or how that works?",
+    "timestamp": "00:02:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Is there any reason for me not to just dump everybody into Adio?",
+    "timestamp": "00:02:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "No, we don't price-based off of records.",
+    "timestamp": "00:02:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "yeah, then I think I want Adio.",
+    "timestamp": "00:02:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I just send them in.",
+    "timestamp": "00:02:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So, yeah, I guess I was just struggling with it a little bit.",
+    "timestamp": "00:02:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And this might be...",
+    "timestamp": "00:02:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So what I was trying to do is just, I mean, I guess maybe the first question is like, what do you recommend as the objects, or not objects, records to create when for like an inbound lead form like this?",
+    "timestamp": "00:03:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Is it people?",
+    "timestamp": "00:03:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Is it people in company?",
+    "timestamp": "00:03:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Is it other things?",
+    "timestamp": "00:03:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, so I would do, I would recommend creating a person in a company.",
+    "timestamp": "00:03:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I would recommend asserting them, because they might already exist, like maybe they sent you an email at some point, and then they're already in the CRM.",
+    "timestamp": "00:03:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So, with that in mind, the endpoint that you would use would be, just double checking our endpoints here.",
+    "timestamp": "00:03:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, so instead of the post, I would do a...",
+    "timestamp": "00:03:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So it's, I'll drop into the chat here.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Oh, I see.",
+    "timestamp": "00:04:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then if you flip over to, on the right-hand side, see where there's that kind of API Explorer box.",
+    "timestamp": "00:04:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "If you switch to shell for the language and then click the examples dropdown.",
+    "timestamp": "00:04:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then.",
+    "timestamp": "00:04:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then.",
+    "timestamp": "00:04:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Click Request Example.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So this is an example of how the data is structured, although it looks like within default you can provide custom JSON for the body.",
+    "timestamp": "00:05:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, let's see, I was like playing around with this because I wasn't, I think by default they like wrap it in data already, so like, you know, is this what I'm roughly doing?",
+    "timestamp": "00:05:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Oh yeah, I wonder if that works, because this is where I was having trouble, and I think this is something they like helped me do, so I'm to try to run this and see what happens.",
+    "timestamp": "00:05:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, great, so let's test it.",
+    "timestamp": "00:05:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I mean really I should probably",
+    "timestamp": "00:05:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'm going to testing it something else, but let's just try this.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "OK, so that one didn't work.",
+    "timestamp": "00:06:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Let's see.",
+    "timestamp": "00:06:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "The right.",
+    "timestamp": "00:06:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "OK, so you have value and then.",
+    "timestamp": "00:06:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And then you have to choose email.",
+    "timestamp": "00:06:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Do you think maybe I just don't need like this thing?",
+    "timestamp": "00:06:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's just like that.",
+    "timestamp": "00:06:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, so I'll share I'll drop into the chat.",
+    "timestamp": "00:06:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "We have details for all the different attribute types, how you need to structure the data when writing to Attio.",
+    "timestamp": "00:06:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So the one that I just dropped in is for email address.",
+    "timestamp": "00:06:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And if you scroll down to the writing value section.",
+    "timestamp": "00:06:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "it.",
+    "timestamp": "00:06:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "t no There's There's",
+    "timestamp": "00:06:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You'll see that you can either use email addresses if you're providing multiple email addresses, or you can just write to an email address if you're just providing a single value.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So it's in this section down here.",
+    "timestamp": "00:07:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:07:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You click writing to an email address.",
+    "timestamp": "00:07:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, perfect.",
+    "timestamp": "00:07:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So that's how you would need to format it.",
+    "timestamp": "00:07:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, so I think that's it.",
+    "timestamp": "00:07:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Let's try that again.",
+    "timestamp": "00:07:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But it's like this wrapped in values, right?",
+    "timestamp": "00:07:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Exactly.",
+    "timestamp": "00:07:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then there'll be one modification that you'll need to make to the URL that you're hitting, and that's with the assert call.",
+    "timestamp": "00:07:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "There's going to be...",
+    "timestamp": "00:07:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "be...",
+    "timestamp": "00:07:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Thank you.",
+    "timestamp": "00:07:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I'll drop it into the chat here, but within the URL itself, you \u2013 my apologies.",
+    "timestamp": "00:08:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I left off the H and the HTTPS, but you need to establish a parameter within the URL that you're going to use for matching purposes when you're asserting.",
+    "timestamp": "00:08:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Interesting.",
+    "timestamp": "00:08:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's not \u2013 is it in here?",
+    "timestamp": "00:08:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's, like, not in the docs?",
+    "timestamp": "00:08:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "If you \u2013 Or, if it's, which is Andrew, email, address.",
+    "timestamp": "00:08:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:08:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And it's \u2013 Okay.",
+    "timestamp": "00:08:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I don't think you want to put this in the header.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "think you want to add that as a URL parameter.",
+    "timestamp": "00:09:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Oh, I see.",
+    "timestamp": "00:09:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:09:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So assert only works for single, like, values?",
+    "timestamp": "00:09:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, if I wanted to do, like, name as well, like, you know, company and all those fields, like, how would that look?",
+    "timestamp": "00:09:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I mean, let's just see if this works first.",
+    "timestamp": "00:09:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:09:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So for the assert, you just have to specify that attribute used for matching.",
+    "timestamp": "00:09:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But then in the rest of the body, you can include as many attributes as you'd like.",
+    "timestamp": "00:09:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Oh, I see.",
+    "timestamp": "00:09:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Got it.",
+    "timestamp": "00:09:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "it.",
+    "timestamp": "00:09:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:09:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I wish there was a way to just show me the prom requests they make, but I I don't know if this says anything to you, or is any clues what's wrong?",
+    "timestamp": "00:10:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, it just looks like formatting within the body itself.",
+    "timestamp": "00:10:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I know.",
+    "timestamp": "00:10:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Andrew address value.",
+    "timestamp": "00:10:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'm sure it just tells me what the body request I sent was.",
+    "timestamp": "00:10:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Let's see.",
+    "timestamp": "00:10:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Let's see.",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You might just need to, instead of, this is a super nitpicky thing, but instead of value, you might just need to put in values.",
+    "timestamp": "00:11:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then, would you mind clicking edit.json, just so you can double check for testing.",
+    "timestamp": "00:11:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "It looks like at the top here, there's a, at the very top, okay, that's a button, okay.",
+    "timestamp": "00:11:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I thought that was, so, you won't need, I don't think you need to have email address wrapped in curly brackets.",
+    "timestamp": "00:11:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So the email address itself I don't think needs to be \u2013 see how you have it wrapped in curly brackets.",
+    "timestamp": "00:12:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I think you just need to remove those, yeah, because I think you're \u2013 I think that what you have set up with values is already wrapping the whole thing that you're \u2013 you're typing in the JSON editor with brackets.",
+    "timestamp": "00:12:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "No, I think \u2013 well, guess I was looking at this, and it looks like it does need the brackets.",
+    "timestamp": "00:12:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "What is weird is like this data is not wrapped, but I guess maybe that's just part of their error log.",
+    "timestamp": "00:12:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "All right, let me turn around.",
+    "timestamp": "00:12:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Let's see what happens.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Let's see.",
+    "timestamp": "00:13:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Have you used something like Postman in the past?",
+    "timestamp": "00:13:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I have.",
+    "timestamp": "00:13:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I don't have a setup here.",
+    "timestamp": "00:13:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But even like this, for example, like we try just here.",
+    "timestamp": "00:13:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I actually have no idea how to use this.",
+    "timestamp": "00:13:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "trying to use it the other day, but like I was not really sure how to use it.",
+    "timestamp": "00:13:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then for the matching attribute, for the query parameters below, you can just type in email address.",
+    "timestamp": "00:13:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then in the body parameters, if you now can get down to that section.",
+    "timestamp": "00:13:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Click.",
+    "timestamp": "00:13:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Eyes object.",
+    "timestamp": "00:13:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then provide email address for the first value.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then if you click Add Field.",
+    "timestamp": "00:14:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Okay, you actually won't need that.",
+    "timestamp": "00:14:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then try, yeah, try pasting that in just hard-coded into your, into your JSON editor.",
+    "timestamp": "00:14:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "That's my JSON editor?",
+    "timestamp": "00:14:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "What do you mean?",
+    "timestamp": "00:14:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Oh, within default.",
+    "timestamp": "00:14:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:14:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, what, particularly, like, just, just this, or the whole thing, or?",
+    "timestamp": "00:14:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, I mean, it looks, I mean, it looks like it's the same.",
+    "timestamp": "00:14:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I think the issue is, I'm not.",
+    "timestamp": "00:14:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "No, was actually sure how to read the payload that Default is showing you.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Usually for this, will use something like, just to make sure that I have the structure set up correctly, I will use something like Postman, because you get to see what the payload actually looks like.",
+    "timestamp": "00:15:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's like their problem, honestly.",
+    "timestamp": "00:15:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'm going to just like, run this.",
+    "timestamp": "00:15:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Come, body, found, cannot find attribute.",
+    "timestamp": "00:15:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Well, this is a different error this time.",
+    "timestamp": "00:15:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Slug ID, email address, is that wrong?",
+    "timestamp": "00:15:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "want, Please",
+    "timestamp": "00:15:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You should be able to double-check the documentation for writing email address values, but...",
+    "timestamp": "00:16:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I think we changed the name of the record.",
+    "timestamp": "00:16:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I don't think we can change that one.",
+    "timestamp": "00:16:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "If you go to your object settings, so if you go to workspace settings by clicking growthx, yeah, workspace settings, and then going to objects, and then going to people, and then attributes.",
+    "timestamp": "00:16:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Great.",
+    "timestamp": "00:16:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then navigate to the right-hand side of the email address attribute and click the three dots to open up the...",
+    "timestamp": "00:16:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then click copy.",
+    "timestamp": "00:17:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Try clicking copy slug.",
+    "timestamp": "00:17:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "No.",
+    "timestamp": "00:17:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:17:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "That's weird for more documentation because you should be able to write to email address instead of email addresses.",
+    "timestamp": "00:17:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "But try structuring it like the following and I'll drop it into the chat.",
+    "timestamp": "00:17:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:17:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, exactly.",
+    "timestamp": "00:17:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So you format it like this.",
+    "timestamp": "00:17:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:17:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:17:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Wait.",
+    "timestamp": "00:17:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Oh, Okay.",
+    "timestamp": "00:17:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So this might actually be in the matching app.",
+    "timestamp": "00:17:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So if you edit the URL, okay, perfect.",
+    "timestamp": "00:18:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "That might have been our issue.",
+    "timestamp": "00:18:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "There we go.",
+    "timestamp": "00:18:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You could sort by created that.",
+    "timestamp": "00:18:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You might need to remove the filter.",
+    "timestamp": "00:18:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And you can just type in created that.",
+    "timestamp": "00:18:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "It'll be the first option.",
+    "timestamp": "00:18:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, that one.",
+    "timestamp": "00:18:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Perfect.",
+    "timestamp": "00:18:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then if you click into your filter.",
+    "timestamp": "00:18:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Enter.",
+    "timestamp": "00:18:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Enter.",
+    "timestamp": "00:18:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Enter.",
+    "timestamp": "00:18:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Enter.",
+    "timestamp": "00:18:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Enter.",
+    "timestamp": "00:18:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "What am I doing here?",
+    "timestamp": "00:19:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "No filter.",
+    "timestamp": "00:19:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Maybe try doing a hard refresh for the page.",
+    "timestamp": "00:19:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then add back in the sort.",
+    "timestamp": "00:19:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then remove that filter.",
+    "timestamp": "00:19:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "If you click Clear All Filters at the bottom.",
+    "timestamp": "00:19:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "OK, great.",
+    "timestamp": "00:19:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Well, I guess this is a better problem.",
+    "timestamp": "00:19:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I guess I just need to figure out how work with this.",
+    "timestamp": "00:19:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Let's see if we just do that.",
+    "timestamp": "00:19:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It didn't look like the error was the same one that I was getting here.",
+    "timestamp": "00:19:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So I feel like that isn't the issue.",
+    "timestamp": "00:19:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "How I certainly Because if you're carrying on the I remember sort of buying in the has\u043c\u0435\u0440ed.",
+    "timestamp": "00:19:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "seems Thank you.",
+    "timestamp": "00:19:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then I think you'll need to modify that, yeah, all right.",
+    "timestamp": "00:20:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I feel like they're literally not just looking at this part, they're not even wrapping the data in like brackets or something, you know, like, yeah, is there a way for, if you go back to the editor, is there a way for you to, if we hop into the, okay, so you have to provide values.",
+    "timestamp": "00:20:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, I mean, I should talk to them.",
+    "timestamp": "00:21:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "mean, clearly it's working in the other thing.",
+    "timestamp": "00:21:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "Maybe just a thought here.",
+    "timestamp": "00:21:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "Sorry, just chime in because I've been watching it.",
+    "timestamp": "00:21:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "Maybe their body block right there, because we were wrapping in values, maybe you still need to wrap it in data, and then you put values as the nested object in the edit.json.",
+    "timestamp": "00:21:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "Because in curl, we did data, right?",
+    "timestamp": "00:21:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "So I this one in values.",
+    "timestamp": "00:21:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:21:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I just thought it auto-wrapped, but I guess I'm wrong.",
+    "timestamp": "00:21:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "That one should be values, I think, instead of data.",
+    "timestamp": "00:21:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "That's true.",
+    "timestamp": "00:21:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:21:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "Let's get that.",
+    "timestamp": "00:21:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "get that.",
+    "timestamp": "00:21:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "Let's get Let's get that.",
+    "timestamp": "00:21:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "get get that.",
+    "timestamp": "00:21:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Nice.",
+    "timestamp": "00:22:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:22:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Wow, that was amazing.",
+    "timestamp": "00:22:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Thank you so much.",
+    "timestamp": "00:22:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "No problem.",
+    "timestamp": "00:22:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, cool.",
+    "timestamp": "00:22:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Andrew Lee",
+      "matched_calendar_invitee_email": "andrew.lee@attio.com"
+    },
+    "text": "We just don't know how to use it.",
+    "timestamp": "00:22:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, I know.",
+    "timestamp": "00:22:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, so we create the people.",
+    "timestamp": "00:22:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So when you do that, does it auto-create the org based on the email domain or anything, or do I just need to do that?",
+    "timestamp": "00:22:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yes, it will auto-create the org based off of the domain of the person.",
+    "timestamp": "00:22:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So if you go into Attio and then you go to that test record that you recently created, you might also just be able to search for that record.",
+    "timestamp": "00:22:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "If you hit forward slash on the keyboard.",
+    "timestamp": "00:22:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So You",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You can just do a quick search.",
+    "timestamp": "00:23:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I think it was Jason Plus.",
+    "timestamp": "00:23:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:23:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:23:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And you can see if you click to the company tab or that.",
+    "timestamp": "00:23:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, perfect.",
+    "timestamp": "00:23:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You see the company is automatically created.",
+    "timestamp": "00:23:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "In this case, the company was created in the past, but if you just assert a person and they're net new, then based off the domain and email address, money will be automatically created and then enriched if we're able to provide enrichment data.",
+    "timestamp": "00:23:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I think the other consideration here is for the responses that you're gathering, I think there's just a decision that you'll want to make with regards to where you want that data to be stored.",
+    "timestamp": "00:23:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "If you always want that information to be at the person level or if you prefer to add it to the deal that gets created.",
+    "timestamp": "00:23:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And I guess there's also a question, like, would you want a deal to be auto-created when that initial meeting gets booked, or would you prefer to just create the deal manually if that first call goes well?",
+    "timestamp": "00:24:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Right.",
+    "timestamp": "00:24:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Right, okay, so this is, I guess, the event.",
+    "timestamp": "00:24:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "What's the pattern for, I guess it's an activity.",
+    "timestamp": "00:24:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Is activity like the record, or is it an interaction?",
+    "timestamp": "00:24:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Or no, okay, I guess I'm trying to think, like, when something happens, in this case, like, lead submitted lead form, like, how is that supposed to be tracked?",
+    "timestamp": "00:24:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, so, so what folks will do for a lead like this is they'll set up either a list or an object that they will add.",
+    "timestamp": "00:24:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So, we'll create the person.",
+    "timestamp": "00:24:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Let's run with the list example.",
+    "timestamp": "00:24:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "They'll have a list that will be...",
+    "timestamp": "00:24:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "be...",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "It's Lead Form Submissions.",
+    "timestamp": "00:25:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "It's a person-based list.",
+    "timestamp": "00:25:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And when somebody submits your form, you'll assert the person and then add that person to the Lead Form Submission list.",
+    "timestamp": "00:25:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And in that list, you'll have attributes where the information that they've submitted is logged.",
+    "timestamp": "00:25:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Is that a list?",
+    "timestamp": "00:25:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:25:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I haven't played with lists too much.",
+    "timestamp": "00:25:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I just assumed.",
+    "timestamp": "00:25:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Like, what does it mean to log information in a list, other than the name of the list?",
+    "timestamp": "00:25:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I guess you can see we don't use it at all.",
+    "timestamp": "00:25:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Yeah, so it's...",
+    "timestamp": "00:25:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Lists have, like, additional information.",
+    "timestamp": "00:25:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's almost like a table, I guess.",
+    "timestamp": "00:25:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, so you can create attributes.",
+    "timestamp": "00:25:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You can set up a list and create attributes within the list that you could use to capture information from the Lead Form Submission.",
+    "timestamp": "00:25:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And for your case, I would probably just start from scratch, which is at the bottom right, and then make this a person-based list, and call this lead form, yeah, or something like that.",
+    "timestamp": "00:26:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Cool.",
+    "timestamp": "00:26:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then you select table, and then call this, like, all submissions.",
+    "timestamp": "00:26:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then you can add columns and create attributes for different pieces of information you're gathering as part of the submission.",
+    "timestamp": "00:26:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Okay, this is where it is.",
+    "timestamp": "00:26:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I'll stick here.",
+    "timestamp": "00:26:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, the short explanation is that this is where your submission data lives.",
+    "timestamp": "00:26:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Right.",
+    "timestamp": "00:26:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:26:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "And, okay.",
+    "timestamp": "00:26:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So there's no, like, um.",
+    "timestamp": "00:26:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I don't think, like, how this works in HubSpot.",
+    "timestamp": "00:27:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I guess I don't really remember.",
+    "timestamp": "00:27:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But, like, in my head, what I was thinking was, like, okay, I have people, and then for that people record in that activity, just have, like, a submitted lead form event.",
+    "timestamp": "00:27:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But I guess that doesn't really matter.",
+    "timestamp": "00:27:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, I do have to hop.",
+    "timestamp": "00:27:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "The last question, I did notice for, like, deals, typically I'm used to, like, where, you know, like, after a discovery call, you create a deal if, like, there's some qualification, right?",
+    "timestamp": "00:27:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But I think the way we were using it, which think was shaped a lot by this, like, deal stage is, like, we kind of create a deal for everything, which is a little weird to me.",
+    "timestamp": "00:27:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So, I guess, is there a reason why, like, intro and meeting are, like, deal stages where, you know, like, at least I feel like the norm is, like, you create a deal after you do at least some discovery, you know, over a call or something.",
+    "timestamp": "00:27:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, so we, we follow.",
+    "timestamp": "00:27:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Similar approach to what it seems like you folks have built, which is that as early as possible, a deal is automatically created.",
+    "timestamp": "00:28:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So actually for us, whenever somebody creates a workspace, so creates an account with us for a trial, or they submit our lead form, which is called Talk to Sales, a deal is created and added to one of the first stages in the pipeline.",
+    "timestamp": "00:28:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then if it's qualified, we have a qualification stage that the deal gets moved to.",
+    "timestamp": "00:28:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And if it's unqualified, then it gets moved to a not qualified stage.",
+    "timestamp": "00:28:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "But what that can be helpful for is one, instead of having a separate lead form list, you could actually just attach that information to the deal.",
+    "timestamp": "00:28:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "So when somebody books a meeting with you, submits the form, you could attach that information directly to the deal.",
+    "timestamp": "00:28:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And then it's also helpful.",
+    "timestamp": "00:28:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "From a reporting perspective, so that when looking at your funnel, you can see what the drop-off is between people submitting forms, actually having a meeting with you, and then becoming qualified.",
+    "timestamp": "00:29:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, got it.",
+    "timestamp": "00:29:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I guess in HubSpot land, they have a lead object, too.",
+    "timestamp": "00:29:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "They have people, company, lead, and deal.",
+    "timestamp": "00:29:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "lead, you use for this early stage before you get a number, for example.",
+    "timestamp": "00:29:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Because I think what we're ending up doing is we have a minimum contract amount, so we kind of label even these demo requests with a number.",
+    "timestamp": "00:29:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Maybe that's more for our reporting.",
+    "timestamp": "00:29:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "For our reporting, we say the funnel is not really the funnel.",
+    "timestamp": "00:29:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's like a weird funnel where we're counting a little too much.",
+    "timestamp": "00:29:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "But maybe that's just a filter.",
+    "timestamp": "00:29:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "It's like, okay, unless things get to proposal or some other stage, don't count it in the funnel or just mark it differently.",
+    "timestamp": "00:29:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, that's what we do.",
+    "timestamp": "00:29:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, I do...",
+    "timestamp": "00:29:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "You have to drop as well, but I think with aggressive thinking data to to you, think given that that task is working, you'll just either your three options or you can attach the information that's submitted in the form to the person directly when you're creating the person.",
+    "timestamp": "00:30:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Or you could send the data to that lead list that we just created, and that can be where all your form submissions live.",
+    "timestamp": "00:30:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Or you could create a deal when that meeting is booked and attach the form submission information to the deal.",
+    "timestamp": "00:30:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "I would recommend going the route of either having that list or just attaching the information to a deal.",
+    "timestamp": "00:30:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And all of that can be done through our API.",
+    "timestamp": "00:30:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "Okay, got it.",
+    "timestamp": "00:30:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "All right, well, thank you so much for the help.",
+    "timestamp": "00:30:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, absolutely.",
+    "timestamp": "00:30:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "And feel free to reach out if you have anything else comes up with this flow.",
+    "timestamp": "00:30:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "That sounds good.",
+    "timestamp": "00:30:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "I think a RevOps consultant guy is starting this week.",
+    "timestamp": "00:30:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Jason Gong",
+      "matched_calendar_invitee_email": "jason@growthx.ai"
+    },
+    "text": "So I'll probably see him at some point, but thank you so much.",
+    "timestamp": "00:31:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Nice.",
+    "timestamp": "00:31:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Yeah, absolutely.",
+    "timestamp": "00:31:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Matthew Fischer",
+      "matched_calendar_invitee_email": "matthew@attio.com"
+    },
+    "text": "Cheers, Jason.",
+    "timestamp": "00:31:06"
+  }
+]

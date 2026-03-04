@@ -1,0 +1,1402 @@
+# 30 Min Meeting between Benjamin Dunphy and Jason Gong
+
+<metadata>
+date: 2025-09-09
+time: 21:01 UTC
+duration: 44 minutes
+organizer: George Haikal (GrowthX)
+participants: Benjamin Dunphy (AI Engineer Summit), George Haikal (GrowthX), Claudia Ring (GrowthX)
+speaker_note: Jason Gong listed in calendar invite but did not speak during the meeting
+fathom_recording_id: 86110591
+fathom_url: https://fathom.video/calls/405570261
+share_url: https://fathom.video/share/escpzGq_fTdDUos4xyjAryzyuFNXfone
+source: fathom
+enriched_on: 2026-03-02 11:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Benjamin Dunphy, co-founder and creative director of the AI Engineer Summit (November 21-22 in NYC), pitched sponsorship opportunities to George Haikal and Claudia Ring at GrowthX, who handle all marketing for Surge AI, a Scale AI competitor that grew to $1B ARR in 5 years with 40 bootstrapped employees. Surge AI wants to build awareness among technical decision-makers and builders ahead of the summit. The team discussed three sponsorship tiers (Platinum at $150k, Gold at $50k, Silver at lower cost) plus premium content opportunities including keynote slots and workshop presentations, with professional video production included. GrowthX committed to reviewing options and following up with specific questions.
+
+---
+
+## Context
+
+Benjamin Dunphy is the co-founder and creative director of the AI Engineer Summit, an invite-only annual conference series launched in 2023 with co-founder Swix. The event operates under two main brands: the Summit (invite-only, specialized focus) and the World's Fair (large multi-track public event). The 2026 World's Fair is expanding to Moscone West with an expected 6,000 attendees. George Haikal and Claudia Ring work at GrowthX, an AI-powered growth marketing agency that currently manages all of Surge AI's marketing efforts — from events and dinners to organic content and influencer campaigns. Claudia has prior context from DeepGram, where she worked on marketing for the AI Engineer World Fair. The meeting was initiated to explore whether the AI Engineer Summit Code Summit (November 21-22, 2025, in NYC) represents a fit for Surge AI's brand-building goals as they shift from growth-via-sales to deliberate awareness building among technical decision-makers and builders.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Event marketing opportunity for Surge AI client with November 21-22 deadline (tight timeline for sponsorship commitment and content planning)
+- Required deliverables include speaker prep, booth design/setup, potentially keynote presentation development with professional video production
+- Partnership aligns with GrowthX's core B2B content marketing services and event execution capabilities
+- Audience skews builders and technical decision-makers (not researchers) — required messaging shift from Surge AI's past positioning
+
+**To GrowthX Business Development:**
+- Opportunity to deepen Surge AI relationship and demonstrate ROI through event sponsorship results
+- Can expand to broader awareness campaigns post-event based on engagement metrics and lead generation
+- Potential upsell to other marketing channels (organic content, influencer strategy) as Surge AI scales awareness efforts
+- Strong account health signal: client is in growth phase and investing in brand-building
+
+**To GrowthX Service Model:**
+- Demonstrates need for strategic event vendor selection and negotiation (sponsorship tiers, content packages, pricing leverage)
+- May require coordination with external content teams (Swix for keynote content discussions) and internal creative resources
+- Event sponsorship fits well into GrowthX's playbook for B2B SaaS but highlights need for rapid decision-making on time-sensitive opportunities
+
+---
+
+## Overview
+
+- Surge AI aims to boost awareness, hiring, and leads through potential sponsorship
+- AI Engineer Summit offers various sponsorship tiers (Platinum, Gold, Silver) with different benefits
+- Content opportunities include keynote presentations, workshops, and leadership track sponsorship
+- Event attracts high-level technical decision-makers and builders, not primarily researchers
+
+---
+
+## Key Topics
+
+### Surge AI Background and Goals
+
+  - Surge AI: Scale AI competitor focused on AI data labeling
+  - Grew to $1B ARR in 5 years, bootstrapped with 40 employees
+  - Primary goals:
+    1.  Awareness
+    2.  Hiring
+    3.  Leads
+  - Target audience: researchers, builders, frontier labs
+
+### AI Engineer Summit Overview
+
+  - Venue: Times Center, New York Times building
+  - Dates: November 21-22, 2025 (main event), November 23 (workshops)
+  - Attendees: \~300 for leadership track, additional engineering track
+  - YouTube channel: 250k subscribers, expecting 300k by event time
+  - Past video views: 1.5M (Feb Summit), 4.5M (World's Fair)
+
+### Sponsorship Packages
+
+  - Platinum ($150k): 22x12 booth, workshop, booth sessions, content partner status
+  - Gold ($50k): 10x10 booth, various configurations available
+  - Silver: Standard kiosk option
+  - Additional opportunities: keynote presentation, workshops, leadership track sponsorship
+
+### Content Opportunities
+
+  - Keynote presentation slot available (competitive selection process)
+  - Workshop slots (limited availability, may compete with major labs)
+  - Leadership track sponsorship (branding opportunity)
+  - Professional video content creation for speakers
+
+### Audience and Reach
+
+  - Primarily builders and technical decision-makers (not researchers)
+  - High-level attendees: CTOs, CEOs, founders, AI engineers
+  - Strong YouTube presence with millions of views on top talks
+
+---
+
+## Action Items
+
+**Benjamin Dunphy (AI Engineer Summit)**
+- Send sample attendee demographics (companies + job titles) to George Haikal (GrowthX)
+- Check availability of after-party sponsorship, inform George Haikal (GrowthX)
+- Introduce George Haikal (GrowthX) to Swix for content discussions regarding potential keynote presentation
+
+**George Haikal (GrowthX)**
+- Review sponsorship options and packages, prepare questions for follow-up with Benjamin Dunphy (AI Engineer Summit)
+
+---
+
+## Transcript
+**George Haikal:** Ben, how's it going?
+
+**Benjamin Dunphy:** Good, how are you?
+
+**George Haikal:** This meeting is being recorded.
+
+**George Haikal:** Headphones in here, one second.
+
+**George Haikal:** Can you hear me all right?
+
+**Benjamin Dunphy:** Yeah, I can hear you just fine.
+
+**George Haikal:** Beautiful, beautiful.
+
+**George Haikal:** Where are you working out of today?
+
+**Benjamin Dunphy:** East Bay.
+
+**George Haikal:** Oh, nice.
+
+**George Haikal:** Pretty close.
+
+**George Haikal:** We're up in San Francisco, our offices.
+
+**Benjamin Dunphy:** Oh, nice.
+
+**Benjamin Dunphy:** Awesome.
+
+**George Haikal:** Actually, Marcel and Daniel, we're in a bunch of the teams, either East Bay or Mill Valley.
+
+**Benjamin Dunphy:** Oh, awesome.
+
+**Benjamin Dunphy:** Mill Valley's there.
+
+**Benjamin Dunphy:** Great sound.
+
+**Benjamin Dunphy:** Love it.
+
+**George Haikal:** Yes, sir.
+
+**George Haikal:** Hey, Claudia.
+
+**George Haikal:** How are you?
+
+**Claudia Ring:** Hey, guys.
+
+**Claudia Ring:** Just taking some vitamins.
+
+**Claudia Ring:** Trying to get that afternoon boost going, you know?
+
+**Benjamin Dunphy:** I've got to stay ahead of the crash.
+
+**George Haikal:** I just stopped caffeine starting yesterday.
+
+**George Haikal:** So if I'm like dozing off on the call or my head falls off the camera, at least you guys know why.
+
+**Benjamin Dunphy:** Go to George.
+
+**George Haikal:** George, I know.
+
+**Claudia Ring:** It's not been great, but I've heard, yeah.
+
+**Claudia Ring:** You're a brave man.
+
+**Benjamin Dunphy:** Amazing.
+
+**George Haikal:** Well, you for jumping on.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** We really appreciate the time.
+
+**George Haikal:** I know we're super excited about this.
+
+**George Haikal:** We'd love a little intro.
+
+**George Haikal:** mean, Claudia and I have some contacts from SWIX and from Marcel on the conference and the one you guys did last June.
+
+**George Haikal:** had a lot of really good feedback here in SF.
+
+**George Haikal:** We'd love to learn a little bit.
+
+**George Haikal:** And we can help add some concepts about Surge and how we would love to be a part of it.
+
+**Benjamin Dunphy:** Sure.
+
+**Benjamin Dunphy:** Yeah, well, I'm the co-founder of the conference along with SWIX, and I basically lead the production efforts with a strong focus on the creative direction.
+
+**Benjamin Dunphy:** And so a lot of the marketing, see a lot of the signage at the venue and just the overall flow of the whole event.
+
+**Benjamin Dunphy:** And, you know, we've been running the conference since 2023.
+
+**Benjamin Dunphy:** So we started with Summit, which is our invite-only event that basically, you know, introduced the conference to the world, which I don't know if you've read the Rise of the AI Engineer article.
+
+**Benjamin Dunphy:** Yeah.
+
+**Benjamin Dunphy:** So we announced it with that.
+
+**Benjamin Dunphy:** And since then, you know, we've grown it substantially.
+
+**Benjamin Dunphy:** Really?
+
+**Benjamin Dunphy:** Okay.
+
+**Benjamin Dunphy:** We've done two of our World's Fair events, which is our big event that is, you know, multi-track.
+
+**Benjamin Dunphy:** The first World's Fair was nine tracks.
+
+**Benjamin Dunphy:** The second one was 18.
+
+**Benjamin Dunphy:** The first World's Fair has 2,000 people.
+
+**Benjamin Dunphy:** The second one had about 3,200.
+
+**Benjamin Dunphy:** Each of our events have sold out our venues and each of our events have sold out the expo.
+
+**Benjamin Dunphy:** And so we now have those two brands where we have the World's Fair, which is our big event every year.
+
+**Benjamin Dunphy:** Our multi-track, you know, this past June, it was at the Marriott Marquis in San Francisco.
+
+**Benjamin Dunphy:** And we've just confirmed the Moscone West for 2026.
+
+**Benjamin Dunphy:** So that's going to be about 6,000 people.
+
+**Benjamin Dunphy:** Wow.
+
+**Benjamin Dunphy:** twice the size of the expo.
+
+**Benjamin Dunphy:** And we're continuing with Summit, which continues to be an invite-only event.
+
+**Benjamin Dunphy:** And that's the scope of this call, which is the Code Summit.
+
+**Benjamin Dunphy:** Which is specifically on AI coding agents and coding.
+
+**Benjamin Dunphy:** tools, along with the leadership track.
+
+**Benjamin Dunphy:** So our summit events have that engineering track where it's, you know, for hands-on keyboard AI engineers, but then also the leadership track for the decision makers, the terminology of, or the catch-all term of AI architect is now seems to creep into the vernacular as the catch-all term, but that basically is a catch-all for the top person, the top people, the top executives at the, within the AI division of a company.
+
+**Benjamin Dunphy:** So that can be VP of AI or director of AI, whatever it is.
+
+**Benjamin Dunphy:** And that's a bit of intro there.
+
+**Benjamin Dunphy:** So I guess before we get into the New York event, which is what we're talking about, I'd love to know just a little bit more about, is it Surge or you had a couple of emails, a couple of URLs.
+
+**Benjamin Dunphy:** There was Surge in this Growth X, so.
+
+**George Haikal:** We have a few things going on for sure.
+
+**George Haikal:** But Claudia and I both work at GrowthX, and one of our clients, and we're an AI-powered, essentially, growth marketing agency, and one of our clients is Surge AI, and we do all of their marketing, everything from events, dinners, to their blog, editorial, driving organic traffic, influencer campaigns, all of that.
+
+**George Haikal:** And so, this first summit in November would be on behalf of Surge.
+
+**George Haikal:** And so, like, Edwin Chen at the time of Surge, Surge is, like, a scale AI competitor, essentially done right, like, actually leveraging tech for AI data labeling.
+
+**George Haikal:** I think they went from, in five years, zero to a billion in ARR, profitably, bootstraps didn't raise any money, and they have, like, 40 employees, a pretty insane story.
+
+**George Haikal:** I think Edwin was just featured on.
+
+**George Haikal:** on.
+
+**George Haikal:** I think
+
+**George Haikal:** What do you say, Times, Times Top 100, in fact, he's now in, this engagement is relatively new, I would say four months old, and like they want to start grabbing awareness, they've been building assignments for a while, and now their goal is, okay, we have the clients, we have the customers, we have the resume, like now we want to start building awareness, awareness and being more intentional about it.
+
+**George Haikal:** And so, that's where we come in, kind of the first part about why we're here.
+
+**George Haikal:** And with that, Claudia's here on the call as well, she's amazing, she has been running all of our events, so she has a ton of really good context to add, and about like how, the how and why as well, so.
+
+**Claudia Ring:** I was just going to add in that, in my time at DeepGram, we, we did the AI Engineer World Fair, so familiar with the series, and kind of like the value that you guys provide, you're doing an amazing job with the community, by the way, just props.
+
+**Claudia Ring:** So yeah, I would love to.
+
+**Claudia Ring:** See where we could potentially fit in with Surge.
+
+**Claudia Ring:** Obviously, what they do is foundational to the whole process of building, you know, great agents.
+
+**Benjamin Dunphy:** Okay, great.
+
+**Benjamin Dunphy:** Okay, so maybe we should start with, you know, what goals you're looking to achieve with Surge at this event?
+
+**George Haikal:** Yeah, so like I'd love for it to be a back and forth conversation as well.
+
+**George Haikal:** I mean, I would love, like, I think based on the package, it looks like there's a key thing, right?
+
+**Benjamin Dunphy:** But I would love...
+
+**Benjamin Dunphy:** If you haven't heard of hearing you, you sound really muffled.
+
+**George Haikal:** Can you hear me better now?
+
+**Benjamin Dunphy:** Yeah, it's a little better, yeah.
+
+**George Haikal:** Sorry, yeah, these are...
+
+**George Haikal:** I stuck with the wired headphones today because I left the Bluetooth ones at home, so it's a little harder to hear.
+
+**George Haikal:** I mean, ideally, right, if we want to drive awareness, we can go the route of like a booth and a sponsorship route that way.
+
+**George Haikal:** But I think what we would really want is, like, given the podcast Edwin has been on and like the inbound we're getting...
+
+**George Haikal:** From my first million and like a ton of these top podcasts, I feel like a keynote slot would be like one of the only things he would jump at, but open to like, you know, your different offerings and talking more about what you all have open.
+
+**George Haikal:** I know it's pretty last minute as well coming up in November.
+
+**George Haikal:** So that's why I wanted to speak with you early on to see kind of what's available, what we can make work.
+
+**George Haikal:** I was looking at the prior speaker list on the website.
+
+**George Haikal:** I know that got Edwin, Serge's founder, really excited.
+
+**George Haikal:** so he holds himself to that same bar, I would say.
+
+**Benjamin Dunphy:** Yeah, yeah, absolutely.
+
+**Benjamin Dunphy:** And that would be Edwin from Serge.
+
+**Benjamin Dunphy:** Yeah.
+
+**Benjamin Dunphy:** Cool.
+
+**Benjamin Dunphy:** And he's given talks before?
+
+**George Haikal:** Uh, he has given podcasts before, uh, onstage talks, not as many.
+
+**Benjamin Dunphy:** Um, okay.
+
+**George Haikal:** Priors, 20VC, know.
+
+**George Haikal:** We were setting up My First Million Forum.
+
+**George Haikal:** And again, they built in silence for months, or not months, for literally years.
+
+**George Haikal:** And two months ago, they barely had a website.
+
+**Benjamin Dunphy:** it looks like it's still pretty minimal.
+
+**George Haikal:** Launching in a week and a half, that's one of first big projects we've done now.
+
+**Benjamin Dunphy:** Very nice.
+
+**George Haikal:** Congrats.
+
+**Benjamin Dunphy:** Exciting.
+
+**Benjamin Dunphy:** Okay, so awareness, adoption, I imagine leads.
+
+**Benjamin Dunphy:** You know, if you're looking for a booth, get the lead scanning device.
+
+**Benjamin Dunphy:** Hiring, any of that a goal as well?
+
+**George Haikal:** Yeah, I think it'd be awareness, hiring, and then leads.
+
+**George Haikal:** But all three, for sure.
+
+**George Haikal:** Like their biggest advantage right now are are-
+
+**George Haikal:** The customers they currently have, which is all the top labs.
+
+**George Haikal:** And so they're not demand constrained.
+
+**George Haikal:** They more so now want to be known and well-known as a top leader in the space.
+
+**George Haikal:** Because right now, what's gotten them there is the product, is their performance, is how they're serving their customer.
+
+**George Haikal:** It has been zero marketing up until now.
+
+**George Haikal:** So awareness, number one.
+
+**George Haikal:** I think hiring, number two, because they really value the talent they have in-house.
+
+**George Haikal:** They're full-time employees and also part of their model is on the data labeling side is the experts that they engage and use and pay to help, you know, inform all the data that they're getting.
+
+**George Haikal:** And so that's a really big differentiator for them as well.
+
+**George Haikal:** So that's a big pull to search.
+
+**George Haikal:** And if you know, you know, but they're just trying to get more people to know.
+
+**Benjamin Dunphy:** Got it.
+
+**George Haikal:** Okay.
+
+**Benjamin Dunphy:** Yeah.
+
+**Benjamin Dunphy:** Then, yeah, you might be correct that content is a good opportunity for the goals that you have there.
+
+**Benjamin Dunphy:** But definitely don't.
+
+**Benjamin Dunphy:** Discount physical presence at the event.
+
+**George Haikal:** 100%.
+
+**George Haikal:** There's lots of opportunities in the expo, and I can run through the program schedule for you to help you visualize that in context.
+
+**George Haikal:** Have either of you been to a summit event before?
+
+**George Haikal:** No.
+
+**Claudia Ring:** No.
+
+**Benjamin Dunphy:** So, as I said, they are smaller.
+
+**Benjamin Dunphy:** They are invite-only.
+
+**Benjamin Dunphy:** So these are attended to be our highest signal conferences.
+
+**Benjamin Dunphy:** These are essentially like our Solvay conferences, where World's Fair is essentially, you know, the community coming together.
+
+**Benjamin Dunphy:** They're celebrating, making announcements, connecting, lots of deals happening in the expo, et cetera.
+
+**Benjamin Dunphy:** Summit is where, like, the top minds from the entire world come together to drive that industry forward.
+
+**Benjamin Dunphy:** And it's almost certainly thematic.
+
+**Benjamin Dunphy:** It has been the last two events, and it will probably continue that way.
+
+**Benjamin Dunphy:** So the most contemporary theme that we're trying to push forward.
+
+**Benjamin Dunphy:** And it's single track.
+
+**Benjamin Dunphy:** So single track across a number of days.
+
+**Benjamin Dunphy:** Okay, so the...
+
+**Benjamin Dunphy:** We have the two main session days, which is Thursday and Friday.
+
+**Benjamin Dunphy:** We have the leadership track, and then we have the engineering track, which is AI code.
+
+**Benjamin Dunphy:** But we opened the event with a welcome reception.
+
+**Benjamin Dunphy:** So this is, if you choose to exhibit, this is when you would actually load in between 3 and 4.30 to your fully turnkey booth.
+
+**Benjamin Dunphy:** So everything is set up and torn down for you.
+
+**Benjamin Dunphy:** If you have swag, you can ship it directly to the venue or directly to our actual partner who stores it in the warehouse.
+
+**Benjamin Dunphy:** They'll be waiting there for you when you go to set up.
+
+**Benjamin Dunphy:** So put your T-shirts out, know, test your laptops, et cetera, make sure everything's working.
+
+**Benjamin Dunphy:** Attendees start arriving at 5 p.m.
+
+**Benjamin Dunphy:** This is the welcome reception that's exclusive to sponsors, speakers, and leadership tracks.
+
+**Benjamin Dunphy:** So the leadership track, we're expecting about 300 people in total for that.
+
+**Benjamin Dunphy:** And the welcome reception will probably attract about anywhere about two-thirds of them.
+
+**Benjamin Dunphy:** So it's not as high traffic as either this day or this day in total.
+
+**Benjamin Dunphy:** Yep.
+
+**Benjamin Dunphy:** But...
+
+**Benjamin Dunphy:** It's a nice, gentle introduction to that.
+
+**Benjamin Dunphy:** The thing I really like about that is because you're speaking with, you know, you're speaking with only the AI leaders.
+
+**Benjamin Dunphy:** So it's a really targeted conversation there.
+
+**Benjamin Dunphy:** And the following day, you also have that.
+
+**Benjamin Dunphy:** But in the evening, we have the evening social, which is when we also welcome the engineers here.
+
+**Benjamin Dunphy:** So this is going to be, this is very packed, actually.
+
+**Benjamin Dunphy:** So you get a lot of traffic there.
+
+**Benjamin Dunphy:** And you get dedicated moments for, dedicated slots for the expo throughout the day, including an extended lunch of like 90 minutes.
+
+**Benjamin Dunphy:** So basically, all the breaks are in the expo and all the food is served in the expo.
+
+**Benjamin Dunphy:** So there's lots of traffic there.
+
+**Benjamin Dunphy:** On the final day, same thing, carbon copy of Thursday.
+
+**Benjamin Dunphy:** But this time, it's with the engineering track.
+
+**Benjamin Dunphy:** We close down at four, give you until about 4.30 to wind down.
+
+**Benjamin Dunphy:** And then we start breaking down the venue.
+
+**Benjamin Dunphy:** And then on Saturday, off-site nearby, we're partnering with.
+
+**Benjamin Dunphy:** Datadog to host our workshops at their office.
+
+**Benjamin Dunphy:** The venue that we have is the Times Center, the New York Times building, Datadog is there as well.
+
+**Benjamin Dunphy:** So we'll right next door.
+
+**Benjamin Dunphy:** It sounds like you're both kind of up to date on the event.
+
+**Benjamin Dunphy:** So I'm going to skip past a little bit of this, but go to our growth just to show you a little bit of the value prop here for engaging as a content partner, potentially.
+
+**Benjamin Dunphy:** And that first event, as I mentioned, was October 2023.
+
+**Benjamin Dunphy:** You know, we had over 5,000 applicants on that very first event.
+
+**Benjamin Dunphy:** We recurited that to 525 attendees.
+
+**Benjamin Dunphy:** About 29,000 watched the live stream over the course of a few months.
+
+**Benjamin Dunphy:** And we had nearly 400,000 views of the YouTube videos that we posted after that.
+
+**Benjamin Dunphy:** We 4X'd our event for the next event.
+
+**Benjamin Dunphy:** And we had about 50,000 remote live attendees.
+
+**Benjamin Dunphy:** And we had over 800,000 views.
+
+**Benjamin Dunphy:** The last summit this past February, 1.5 million YouTube views.
+
+**Benjamin Dunphy:** views.
+
+**Benjamin Dunphy:** And the last event in World's Fair, four and a half million.
+
+**Benjamin Dunphy:** We are now at 250,000 subscribers on YouTube.
+
+**Benjamin Dunphy:** By the time this event rolls around, we expect that to be 300.
+
+**Benjamin Dunphy:** And by the time World's Fair rolls around, probably 400.
+
+**Benjamin Dunphy:** So substantially, these are our past expo partners that we've had.
+
+**Benjamin Dunphy:** And the attendee breakdown, the top roles, this is from Summit 2025.
+
+**Benjamin Dunphy:** So this is a very, as close to apples to apples as you're going to get a lot of decision makers, a lot of, you know, key executives.
+
+**Benjamin Dunphy:** But again, these are all technical people.
+
+**Benjamin Dunphy:** So they've all bypassed our, they've all not bypassed.
+
+**Benjamin Dunphy:** They've all gone through our application process.
+
+**Benjamin Dunphy:** So your CTOs, CEOs, co-founders, founders, AI engineers, software engineers, and experience levels, C-level staff, principal engineer, senior engineer, et cetera.
+
+**Benjamin Dunphy:** It tends to be smaller startups, but we do attract the enterprise as well.
+
+**Benjamin Dunphy:** Just to a lesser degree.
+
+**Benjamin Dunphy:** If they're.
+
+**Benjamin Dunphy:** For specific company size that you're looking to target with, with Surge?
+
+**George Haikal:** No, not necessarily size.
+
+**Benjamin Dunphy:** Yeah.
+
+**George Haikal:** Yeah.
+
+**Benjamin Dunphy:** Just that ICP is that, so the ICP is really comes down to the, to the job title.
+
+**George Haikal:** Yeah, I think researchers, researcher type audience, builders, and then anyone to do with the frontier labs.
+
+**Benjamin Dunphy:** Okay, so, go ahead, Claudia.
+
+**Claudia Ring:** So, I was just going to say, I mean, they tend to skew up urban market enterprise, but also, like, there are some very hot, you know, depending on their use of AI and how much they're building internally, you know, like a cursor would be, you know, a great conversation, so.
+
+**Benjamin Dunphy:** Got it.
+
+**Benjamin Dunphy:** I can send you our sample attendee demographics of companies and job titles after the call, so you can review that.
+
+**Benjamin Dunphy:** But I think it would, based on what you said about researchers, I think it would warrant us visiting this.
+
+**Benjamin Dunphy:** This is the, what is an AI engineer article.
+
+**Benjamin Dunphy:** We patented back in 2023, just to make sure that this is the ICP that you're looking to target.
+
+**Benjamin Dunphy:** You did mention that you're targeting researchers.
+
+**Benjamin Dunphy:** That's really not who comes to this conference.
+
+**Benjamin Dunphy:** If you're looking at researchers, then, you know, NeurIPS is probably the conference for you, or ICML, but we're not that.
+
+**Benjamin Dunphy:** So if you think about AI on the spectrum of research versus, you know, actual product, we broke this down here.
+
+**Benjamin Dunphy:** For simplicity.
+
+**Benjamin Dunphy:** And all the way on the left, on the data and research constraints, you have your ML researchers and research scientists.
+
+**Benjamin Dunphy:** A little further right, you've got your ML engineers, your data scientists, you know, working with inference and data.
+
+**Benjamin Dunphy:** All the way on the other end, you've got your full stack engineers building product and platform.
+
+**Benjamin Dunphy:** But now with these AI tools everywhere, you know, the full stack engineers can work with them.
+
+**Benjamin Dunphy:** The ML engineers can work with them to a lesser degree.
+
+**Benjamin Dunphy:** If these people are actually coding, they could work with them as well.
+
+**Benjamin Dunphy:** But you have your full site.
+
+**Benjamin Dunphy:** engineering is coming left on the spectrum and your ML engineers and your research engineers coming right on the spectrum.
+
+**Benjamin Dunphy:** But I think the unifying classification here is they're builders.
+
+**Benjamin Dunphy:** So these are people who are actively building with these technologies.
+
+**Benjamin Dunphy:** Now, we have the leadership track, so maybe they're more directing, maybe they're more delegating, but these are people who are actually building in production.
+
+**Benjamin Dunphy:** So I would just caution you on that.
+
+**Benjamin Dunphy:** If you're looking for researchers, then this is not your conference.
+
+**George Haikal:** You know, that was very helpful.
+
+**George Haikal:** I think there's room for both.
+
+**George Haikal:** Like, we're doing some more tailored dinners that are, and it was top of mind because we're doing a happy hour and a dinner that are more researcher-focused.
+
+**George Haikal:** But builders is the second one on that list that I might do, researchers and builders.
+
+**George Haikal:** Yeah, so definitely still apply.
+
+**Claudia Ring:** Yeah.
+
+**Claudia Ring:** And awareness with that group, particularly for the reason that, you know, good labeling, good data, good results, right?
+
+**Claudia Ring:** You don't want to, like, feel the bias once you're already pushing something to prod, right?
+
+**Claudia Ring:** So that's definitely want to build our cred there.
+
+**Benjamin Dunphy:** Got it.
+
+**Benjamin Dunphy:** Okay.
+
+**Benjamin Dunphy:** Great.
+
+**Benjamin Dunphy:** So you said you saw the past speakers here, so you know our track record there.
+
+**Benjamin Dunphy:** Some praise for our events.
+
+**Benjamin Dunphy:** And this is the venue that we'll be hosting this event at.
+
+**Benjamin Dunphy:** This is the same venue we were at in November, in February.
+
+**Benjamin Dunphy:** We really like the venue.
+
+**Benjamin Dunphy:** It has a very intimate feel.
+
+**Benjamin Dunphy:** It's got two levels.
+
+**Benjamin Dunphy:** So the upper level is where this beautiful theater is.
+
+**Benjamin Dunphy:** And this is the stage setup that we have.
+
+**Benjamin Dunphy:** And on the lower level is where we have the expo.
+
+**Benjamin Dunphy:** These are some real images from past events.
+
+**Benjamin Dunphy:** These are the booths.
+
+**Benjamin Dunphy:** Like, if you were interested in silver, this is the booth from World's Fair.
+
+**Benjamin Dunphy:** And this is the same vendor we'll be using for this event.
+
+**Benjamin Dunphy:** Same with gold.
+
+**Benjamin Dunphy:** This is what...
+
+**Benjamin Dunphy:** The gold looks like.
+
+**Benjamin Dunphy:** So on the lower level, this is where we have what's called the hall.
+
+**Benjamin Dunphy:** And that room is where the expo will take place.
+
+**Benjamin Dunphy:** And those exhibits will be laid out thusly.
+
+**Benjamin Dunphy:** We may reconfigure if we don't sell both platinums, but currently we're basically sold out of gold.
+
+**Benjamin Dunphy:** We may add some more gold if we don't, you know, if we repurpose this space to add more gold.
+
+**Benjamin Dunphy:** But currently, this is the present configuration.
+
+**Benjamin Dunphy:** And platinum is a large exhibit that is 22 by 12.
+
+**Benjamin Dunphy:** And it incorporates a lot of these components into the exhibit.
+
+**Benjamin Dunphy:** I don't know if this is worth discussing if 150 is within your budget.
+
+**Benjamin Dunphy:** Or if you want me to skip to gold.
+
+**George Haikal:** Well, tell us a little bit more.
+
+**Benjamin Dunphy:** Sure.
+
+**Benjamin Dunphy:** So the platinum.
+
+**Benjamin Dunphy:** Exhibit was designed kind of like a sales cycle.
+
+**Benjamin Dunphy:** If you think of your top of funnel, what is an exhibit, you know, top of funnel?
+
+**Benjamin Dunphy:** It's your physical real estate, right?
+
+**Benjamin Dunphy:** The size, it's how it looks, how it captures your attention.
+
+**Benjamin Dunphy:** And then, and that brings people into the exhibit.
+
+**Benjamin Dunphy:** And then once they get into the funnel at the top of the funnel, then you have ways of welcoming people into the exhibit, which is this welcome desk here, and then just, you know, plenty of real estate.
+
+**Benjamin Dunphy:** You've got these cocktail tables as well.
+
+**Benjamin Dunphy:** Then further down into the funnel, you can demo for them.
+
+**Benjamin Dunphy:** You can present for them.
+
+**Benjamin Dunphy:** And then further down into the funnel, you can have a chat with them here or a chat with them there.
+
+**Benjamin Dunphy:** So this table here is really nice to sit down with them with a laptop, sit down with them to have lunch.
+
+**Benjamin Dunphy:** This is really great for, you know, interviews and just discussions or just brainstorming sessions.
+
+**Benjamin Dunphy:** So it really...
+
+**Benjamin Dunphy:** Is a great opportunity for you to make a striking presence on the expo floor and to have a lot of benefits that none of the other tiers have.
+
+**Benjamin Dunphy:** So here's a real image from our last event that shows a little bit of what that looks like in person.
+
+**Benjamin Dunphy:** And here's an image from a couple of years ago, MongoDB took Platinum.
+
+**Benjamin Dunphy:** And Platinum exhibitors are actually content partners.
+
+**Benjamin Dunphy:** So Platinum sponsors get a workshop included with their package.
+
+**Benjamin Dunphy:** And that, again, takes place the following day on Saturday, the 22nd.
+
+**Benjamin Dunphy:** But then you also get booth sessions.
+
+**Benjamin Dunphy:** And what are booth sessions?
+
+**Benjamin Dunphy:** These are sessions listed on the official schedule.
+
+**Benjamin Dunphy:** And your speakers of those sessions are listed on the homepage.
+
+**Benjamin Dunphy:** And that's intended to drive traffic to your booth.
+
+**Benjamin Dunphy:** see this...
+
+**Benjamin Dunphy:** Give a talk directly at your booth because your booth is like a little mini stage, right?
+
+**Benjamin Dunphy:** Because it's so big and it has this nice, you know, very slick speaker just above your presentation monitor.
+
+**Benjamin Dunphy:** comes with amplified audio and each of these stations has a machine built in and it comes with wireless keyboard and mouse.
+
+**Benjamin Dunphy:** So, you know, it keeps it very slick.
+
+**Benjamin Dunphy:** Of course, if you want to connect your HDMI directly to it, you can do that as well.
+
+**Benjamin Dunphy:** Swag Cubbies built in so you can put your T-shirts there.
+
+**Benjamin Dunphy:** And then, you know, nice, cozy, comfy furniture for you.
+
+**Benjamin Dunphy:** So, as a content sponsor, this is hard to beat if you also want to exhibit because it includes all of that.
+
+**Benjamin Dunphy:** For example, if you were to pair a workshop with gold, you'd already be at $100,000 because the workshop, or you'd be at $90,000 because the workshop is $40,000.
+
+**Benjamin Dunphy:** And then the gold sponsorship is $50,000.
+
+**George Haikal:** And you don't have
+
+**George Haikal:** As much real estate, right?
+
+**Benjamin Dunphy:** You only get one good session, but there's no amplified audio here.
+
+**Benjamin Dunphy:** What gold looks like, gold is, it's a great option, but it's just not really like a content partner.
+
+**Benjamin Dunphy:** So it's a 10 by 10 by 10.
+
+**Benjamin Dunphy:** So again, it's still striking.
+
+**Benjamin Dunphy:** It's backlit graphic.
+
+**Benjamin Dunphy:** It's very nice.
+
+**Benjamin Dunphy:** And, you know, then being in an inline, with the exhibits being in line, you have these nice flag signs for people to see your brand over people's heads and just see, you know, down the row of sponsors.
+
+**Benjamin Dunphy:** It's not a big row, as you saw, there's only, I think, four in a row on either side, but it does help with branding and just locating your exhibit.
+
+**Benjamin Dunphy:** But we can give you these configuration options where you can have, you know, two monitors with a long demo collaboration table.
+
+**Benjamin Dunphy:** You can have this fireside chat option.
+
+**Benjamin Dunphy:** You can have the fireside chat option with the long table or the round table and the demo station.
+
+**Benjamin Dunphy:** Package A and C are the two most popular.
+
+**Benjamin Dunphy:** Package
+
+**Benjamin Dunphy:** So that is, you might want to consider that.
+
+**Benjamin Dunphy:** With silver, it's your standard kiosk.
+
+**Benjamin Dunphy:** It's also 10 feet tall.
+
+**Benjamin Dunphy:** This is from a previous generation from our older events.
+
+**Benjamin Dunphy:** So the updated one looks like this.
+
+**Benjamin Dunphy:** So it's a lot taller.
+
+**Benjamin Dunphy:** It's a lot more striking.
+
+**Benjamin Dunphy:** Those are the package sponsorships.
+
+**Benjamin Dunphy:** Before I dive into content, do you have any questions on the packages?
+
+**George Haikal:** No, I mean, these packages are pretty clear.
+
+**George Haikal:** think when I was talking or when we caught up about the conversation with SWIX, are speaking slots only available to one of these sponsorships for like a keynote slot?
+
+**Benjamin Dunphy:** The only other way to get on stage is this keynote presentation here.
+
+**Benjamin Dunphy:** There's one of those available.
+
+**Benjamin Dunphy:** This is...
+
+**Benjamin Dunphy:** Thank
+
+**Benjamin Dunphy:** By invitation only.
+
+**Benjamin Dunphy:** So it's essentially a paid CFP if you think about it.
+
+**Benjamin Dunphy:** So send us your proposed speaker, send us your proposed talk title and abstract.
+
+**Benjamin Dunphy:** We're going to review those with all of those who want to take this spot.
+
+**Benjamin Dunphy:** And then we're going to select one.
+
+**Benjamin Dunphy:** So that's something that you can apply to for sure.
+
+**Benjamin Dunphy:** But it's essentially as long as you can beat out the others who are looking to apply to that, it guarantees you a spot on the stage.
+
+**Benjamin Dunphy:** And it's a lot less competitive because there's fewer people competing for that than getting on the stage through the CFP.
+
+**Benjamin Dunphy:** The CFP is essentially closed at this point.
+
+**Benjamin Dunphy:** The engineering track is already filled.
+
+**Benjamin Dunphy:** The leadership track is nearly filled.
+
+**Benjamin Dunphy:** So you're still welcome to submit to the CFP and Erna Talk that way.
+
+**Benjamin Dunphy:** But, you know, we receive many, many hundreds of proposals.
+
+**Benjamin Dunphy:** And many of them are actually really good.
+
+**Benjamin Dunphy:** Like 2024.
+
+**George Haikal:** What are the high ones?
+
+**George Haikal:** What are highlights of this common one in the leadership class?
+
+**George Haikal:** I'm not that close to content.
+
+**Benjamin Dunphy:** That's SWIX's world.
+
+**Benjamin Dunphy:** I handle the sponsorships.
+
+**Benjamin Dunphy:** He handles the content.
+
+**Benjamin Dunphy:** I just don't have time to dive through that.
+
+**Benjamin Dunphy:** So he handles that.
+
+**Benjamin Dunphy:** But just to give you an idea of like our CFP, like in 2024, I remember Chris Lattner submitted to the CFP, which is like, you know, the guy who invented it.
+
+**Benjamin Dunphy:** Do you know who he is?
+
+**Benjamin Dunphy:** CEO and founder of.
+
+**George Haikal:** He submitted through like the website or how did he?
+
+**Benjamin Dunphy:** Yeah, he just submitted.
+
+**Benjamin Dunphy:** We were browsing through our CFPs and we're like, what the hell?
+
+**Benjamin Dunphy:** The creator of Swift is submitting a CFP.
+
+**Benjamin Dunphy:** You know, he should have his executive assistant like reaching out to us.
+
+**Benjamin Dunphy:** Or we should be reaching out to him.
+
+**Benjamin Dunphy:** But, you know, we were humbled and it was great.
+
+**Benjamin Dunphy:** And of course we accepted that.
+
+**Benjamin Dunphy:** So it can get competitive in the CFP process.
+
+**George Haikal:** Love it.
+
+**George Haikal:** I mean, yeah.
+
+**George Haikal:** Yeah.
+
+**George Haikal:** So, you know, Edwin inserted by the name is amazing and it's only becoming more known.
+
+**George Haikal:** It's cool to hear there's two kind of facts to get in here.
+
+**George Haikal:** I mean, what are the next steps of like...
+
+**Benjamin Dunphy:** Of course, and I'm not saying that to discount Edwin at all.
+
+**Benjamin Dunphy:** You know, anyone who is considering speaking at these events are already, they've already reached a level in their career.
+
+**Benjamin Dunphy:** But of course, you know, when you get into that level, it's like, oh, like it's Jeff Bezos.
+
+**Benjamin Dunphy:** Oh, it's like, you know, Elon Musk.
+
+**Benjamin Dunphy:** it's...
+
+**Benjamin Dunphy:** Johnson.
+
+**Benjamin Dunphy:** Like, yeah, just insane.
+
+**Benjamin Dunphy:** And, you we all strive to get there.
+
+**Benjamin Dunphy:** Other opportunities apart from the keynote presentations are the workshops.
+
+**Benjamin Dunphy:** These might be sold out.
+
+**Benjamin Dunphy:** We've already sold two of them.
+
+**Benjamin Dunphy:** We're trying to see if we can pre-app some slots for some more.
+
+**Benjamin Dunphy:** But there's already a backlog of them.
+
+**Benjamin Dunphy:** But this one is available, although we do have two companies that are actively interested in that.
+
+**Benjamin Dunphy:** The only real downside to this is, you know...
+
+**Benjamin Dunphy:** The plus is that it can be up to three hours.
+
+**Benjamin Dunphy:** The downside is that it's likely competing with Anthropic and OpenAI.
+
+**Benjamin Dunphy:** So make sure I say that up front because I don't want you to get on site and be like, hey, why are we opposite OpenAI's workshop?
+
+**Benjamin Dunphy:** So this wasn't really a problem last year.
+
+**Benjamin Dunphy:** We did have, I think, three or four workshops.
+
+**Benjamin Dunphy:** Let me actually just see.
+
+**Benjamin Dunphy:** Engineer slash Summit.
+
+**Benjamin Dunphy:** Look at that.
+
+**Benjamin Dunphy:** And then let's go to Schedule.
+
+**Benjamin Dunphy:** So let's go to 22.
+
+**Benjamin Dunphy:** Yeah.
+
+**Benjamin Dunphy:** So you can see we had challenges of building agents.
+
+**Benjamin Dunphy:** That was YouTube.
+
+**Benjamin Dunphy:** YouTube.
+
+**Benjamin Dunphy:** So we had OpenAI and Anthropic.
+
+**Benjamin Dunphy:** And the others were remote.
+
+**Benjamin Dunphy:** So we didn't actually feature anything competing with those two.
+
+**Benjamin Dunphy:** So it, because it makes sense for us to open the workshop day with the labs, right?
+
+**Benjamin Dunphy:** You know, that being an MCP workshop, you know, back in February, it was very, extremely hot.
+
+**Benjamin Dunphy:** So pretty much everyone went to the Anthropik workshop.
+
+**Benjamin Dunphy:** So I'd just like to be upfront about that.
+
+**Benjamin Dunphy:** We haven't confirmed who's going to be teaching, but both Open and Anthropik have expressed strong interest in teaching again.
+
+**Benjamin Dunphy:** So that's the likely slot.
+
+**Benjamin Dunphy:** Who knows?
+
+**Benjamin Dunphy:** We could stick at the OpenAI workshop in the afternoon.
+
+**Benjamin Dunphy:** You know, we confirm a speaker.
+
+**Benjamin Dunphy:** They can't make it.
+
+**Benjamin Dunphy:** We put them there.
+
+**Benjamin Dunphy:** So, you know, if this is something you're interested in, but you're like, I don't want to compete with OpenAI, we can come back to you and say, hey, they're teaching in afternoon.
+
+**Benjamin Dunphy:** But yeah, that's just the main downside to that.
+
+**George Haikal:** Makes sense.
+
+**George Haikal:** Thanks for being candid about it.
+
+**Benjamin Dunphy:** Yeah, of course.
+
+**Benjamin Dunphy:** You know, we don't want to pull a fast one on you.
+
+**Benjamin Dunphy:** Other opportunities, leadership track sponsor.
+
+**Benjamin Dunphy:** There's currently strong interest.
+
+**Benjamin Dunphy:** For this, this is essentially a branding partnership where you sponsor the Leadership Track Day, your logo is plastered everywhere on that day, we thank you on stage, and then the following day on Engineering Day, where, you know, because we have three main tickets that people can purchase.
+
+**Benjamin Dunphy:** can purchase the Leadership Day, the Engineering Day, or both.
+
+**Benjamin Dunphy:** And there's about a little over half that purchase both tickets to attend the Leadership Track Day and the Engineering Day.
+
+**Benjamin Dunphy:** And then half of that half go back to work, then the other half, which is about 50 people, they come to a brunch that we host for them.
+
+**Benjamin Dunphy:** And so last year, we just hosted this for them, but this year, we're offering a sponsorship for that, so the sponsor can host that.
+
+**Benjamin Dunphy:** There is already active interest in this, so I have a lot of email to catch up on, so it might be sold out.
+
+**Benjamin Dunphy:** But let me know if that's of interest to you.
+
+**Benjamin Dunphy:** I think both of these are sold out.
+
+**Benjamin Dunphy:** The After Party might still be available, I have to double check.
+
+**George Haikal:** That would be something very cool, too, like a dinner and after party.
+
+**George Haikal:** I know that we've been talking about that.
+
+**Benjamin Dunphy:** There's a backlog of people who want this.
+
+**George Haikal:** Got it.
+
+**Benjamin Dunphy:** Double the price here and give it to you.
+
+**Benjamin Dunphy:** No, I'm just kidding.
+
+**Benjamin Dunphy:** I got to honor their interest.
+
+**Benjamin Dunphy:** They want to, yeah.
+
+**Benjamin Dunphy:** So basically we're in talks with last year's incumbent locks.
+
+**Benjamin Dunphy:** They're interested.
+
+**Benjamin Dunphy:** So we haven't given them a soft hold until Thursday, but then we have two other parties who are interested.
+
+**Benjamin Dunphy:** So if you want to be number three option, we can add you to the shortlist.
+
+**George Haikal:** You should just, as a player for you guys, send it to the representative.
+
+**George Haikal:** Just open it up to the other two on your list of three and just send one from each.
+
+**George Haikal:** It's limited to one.
+
+**George Haikal:** And that way you could charge 20 to each person and send them.
+
+**Benjamin Dunphy:** Yeah, unfortunately that's not how it works.
+
+**Benjamin Dunphy:** It's really an exclusive dinner.
+
+**Benjamin Dunphy:** We don't pack it with sponsors.
+
+**Benjamin Dunphy:** We have one sponsor.
+
+**Benjamin Dunphy:** That one sponsor gets the branding.
+
+**Benjamin Dunphy:** That one sponsor gets the toast.
+
+**Benjamin Dunphy:** That one
+
+**Benjamin Dunphy:** Ah, there's branding in your toes, that makes sense, yeah.
+
+**Benjamin Dunphy:** For World's Fair, which is, you know, there's 150 speakers plus that we have to host, so that is more expensive and that tends to be shared.
+
+**Benjamin Dunphy:** a number of, like last World's Fair, think we priced it at 40, and there were three VCs who split the cost of that.
+
+**Benjamin Dunphy:** Two VCs.
+
+**Benjamin Dunphy:** But the after party, you said, is of interest to you?
+
+**George Haikal:** Yes, of preliminary interest, yes.
+
+**Benjamin Dunphy:** Okay, I'll let you know if that's still available.
+
+**Benjamin Dunphy:** know that there was interest in that.
+
+**Benjamin Dunphy:** Let me see the movement.
+
+**Benjamin Dunphy:** Let me check on the movement of that, if they confirmed or not.
+
+**Benjamin Dunphy:** But everything is first come, first serve until, like, you confirm in writing, which then gets you essentially the soft hold, and then we move to contract.
+
+**Benjamin Dunphy:** F&B activations, you can add these to your booth.
+
+**Benjamin Dunphy:** So just a note on these, these are pure a la carte, you don't need a booth for these.
+
+**Benjamin Dunphy:** If you want to be able to.
+
+**Benjamin Dunphy:** If you're a track sponsor, you can do that.
+
+**Benjamin Dunphy:** But these F&B activations, you need a booth to place them out.
+
+**Benjamin Dunphy:** So this is a great way to add some elevated fare to your exhibit.
+
+**Benjamin Dunphy:** Donut Wall, for example, MongoDB sponsored that in 2024, and they got as many booth scans as the presenting sponsor, Microsoft.
+
+**Benjamin Dunphy:** So that's a very hot sponsorship.
+
+**Benjamin Dunphy:** This comes with two days of service and 200 servings per day.
+
+**Benjamin Dunphy:** So you get a catering staff member included for those eight hours of service.
+
+**Benjamin Dunphy:** And then there's other carts with other sponsor opportunities.
+
+**Benjamin Dunphy:** So we got the attendee lanyards.
+
+**Benjamin Dunphy:** This is sold out every year.
+
+**Benjamin Dunphy:** And, you know, you can enjoy your logo on the photo of every attendee.
+
+**Benjamin Dunphy:** And it's a great icebreaker.
+
+**Benjamin Dunphy:** So if you would win with silver.
+
+**Benjamin Dunphy:** For example, and you have, you know, six employees there, then everyone sees your logo there.
+
+**Benjamin Dunphy:** So if you're looking for brand awareness, honestly, this is really second to none.
+
+**Benjamin Dunphy:** You know, apart from like a massive platinum branding, maybe even more so than the platinum branding because, you know, this is just everywhere.
+
+**Benjamin Dunphy:** Swagbag is similar, but we do a booth bingo.
+
+**Benjamin Dunphy:** So you can sponsor this where we give every sponsor a pin.
+
+**Benjamin Dunphy:** And when someone visits that booth, then we, then they can give you the pin.
+
+**Benjamin Dunphy:** They add it to there.
+
+**Benjamin Dunphy:** And then on the opposite side of this, the QR code that goes to the website that you can create that, you know, can say, congratulations, you're the winner, et cetera.
+
+**Benjamin Dunphy:** Go here to claim your free credits, et cetera.
+
+**Benjamin Dunphy:** We have a couple of lounges on that lower level, just outside the, just outside the expo, down the, just down the stairs.
+
+**Benjamin Dunphy:** So the more visible one is 30K.
+
+**Benjamin Dunphy:** It's a 20 by 10.
+
+**Benjamin Dunphy:** I click Graphics, so it really, really pops, as you can see here.
+
+**Benjamin Dunphy:** And then this is unfortunately the best photo we had from this angle.
+
+**Benjamin Dunphy:** But this is also just outside the Expo to the left.
+
+**Benjamin Dunphy:** So I have to state the disclaimer that these are not your exhibits.
+
+**Benjamin Dunphy:** It's not a place where you, you know, post up and welcome people to your booth, because that's not your booth.
+
+**Benjamin Dunphy:** It's a branding opportunity.
+
+**Benjamin Dunphy:** And apart from that, a little bit about our branding here.
+
+**Benjamin Dunphy:** And what we do, if you do get on stage, we have professional videographer team interview you.
+
+**Benjamin Dunphy:** Team at a company called Adept, or a 40-person, 47-person startup.
+
+**Benjamin Dunphy:** So we do an interview, and then we mix that with, like, B-roll from the stage.
+
+**Benjamin Dunphy:** And it's just a nicer way of, you know, announcing the talk.
+
+**Benjamin Dunphy:** I like it.
+
+**Benjamin Dunphy:** So we do a mix of those.
+
+**Benjamin Dunphy:** So we
+
+**Benjamin Dunphy:** And, like, full, like, analyses.
+
+**Benjamin Dunphy:** So at World's Fair, like, we did, we announced, like, full tracks.
+
+**Benjamin Dunphy:** We encourage companies to post that.
+
+**Benjamin Dunphy:** For World's Fair, we just, you know, get 200 talks.
+
+**Benjamin Dunphy:** So we just, like, hey, announcing the release of this full track.
+
+**Benjamin Dunphy:** So that's what we do for World's Fair.
+
+**Benjamin Dunphy:** But for Summit, we post everything individually.
+
+**Benjamin Dunphy:** What those look like.
+
+**Benjamin Dunphy:** Like, for Summit, we have a different intro for Summit.
+
+**Benjamin Dunphy:** don't know if you've seen it.
+
+**Benjamin Dunphy:** Let go here, the most popular one I'm showing.
+
+**Benjamin Dunphy:** Yeah, this nice little.
+
+**Benjamin Dunphy:** It just kind of helps to differentiate the brands.
+
+**Benjamin Dunphy:** And then if you do go Platinum, that gets you this, which is your logo shown before every talk that we publish.
+
+**Benjamin Dunphy:** We may add a pre-roll.
+
+**Benjamin Dunphy:** You know, I'll,
+
+**Benjamin Dunphy:** A podcast that shows you the highlights from that.
+
+**Benjamin Dunphy:** And then we do the intro and then the logo.
+
+**Benjamin Dunphy:** So just a caveat there.
+
+**Benjamin Dunphy:** Sounds good.
+
+**Benjamin Dunphy:** Yeah, our top talks have gotten significant views.
+
+**Benjamin Dunphy:** So, you know, most of these are invited talks.
+
+**Benjamin Dunphy:** The top sponsored talk right now is Emil from 2024.
+
+**Benjamin Dunphy:** He's got 200,000 views.
+
+**Benjamin Dunphy:** The next one after that, I think, MongoDB, 102,000.
+
+**Benjamin Dunphy:** That was a sponsored talk.
+
+**Benjamin Dunphy:** So sponsored talks can strike a chord.
+
+**George Haikal:** OpenPipe was a sponsored talk, 42,000 views.
+
+**George Haikal:** Love it.
+
+**Benjamin Dunphy:** So yeah, looks like we lost yeah, she has a job.
+
+**George Haikal:** She's got something in the chat.
+
+**George Haikal:** No problem at all.
+
+**George Haikal:** This is super helpful.
+
+**George Haikal:** Anything else that I should know before I kind of present this and figure out how we want to approach?
+
+**Benjamin Dunphy:** I mean, maybe we can, you can see if you have any questions for me and I can see if I could answer any, any other questions.
+
+**George Haikal:** Yeah, I mean, no, we have access to that PDF and so I'll dig into each one of the options.
+
+**George Haikal:** It's more so just game planning, you know, the roadshow that we might want to be on the media tour and like figuring out how it all fits in.
+
+**George Haikal:** And then I guess topics, how open are you to different topics?
+
+**George Haikal:** say the leadership track.
+
+**George Haikal:** I'm a game planning.
+
+**George Haikal:** So leadership track.
+
+**George Haikal:** $150,000, you know.
+
+**Benjamin Dunphy:** Sorry, I can't hear you.
+
+**George Haikal:** Can you hear me now?
+
+**George Haikal:** Yeah.
+
+**George Haikal:** So say it's a leadership track, $150,000 keynote.
+
+**George Haikal:** Topics, general, like how do you handle topics?
+
+**Benjamin Dunphy:** That will be a direct introduction to Swix.
+
+**George Haikal:** Swix, okay.
+
+**Benjamin Dunphy:** So he's the content manager and the content curator.
+
+**Benjamin Dunphy:** So, you know, once you propose, like, the ideas that you're looking to present, we can then accept that.
+
+**Benjamin Dunphy:** If we accept that, then we can move to refine that, you know.
+
+**Benjamin Dunphy:** Or if we need to give you feedback and change it, we can do that.
+
+**Benjamin Dunphy:** But that's going to be his call.
+
+**Benjamin Dunphy:** So, and then we just work with you to refine that.
+
+**Benjamin Dunphy:** And we do that with all our speakers.
+
+**Benjamin Dunphy:** You know, we give advice, we give feedback, we help tweak the marketing language.
+
+**Benjamin Dunphy:** And we have a whole, I wrote a whole guide on writing effective abstracts.
+
+**Benjamin Dunphy:** So, I can go.
+
+**George Haikal:** Fantastic.
+
+**George Haikal:** And then I'm assuming next steps on any other piece of this that's on the sponsorship side is you.
+
+**George Haikal:** Correct.
+
+**George Haikal:** Yeah.
+
+**Benjamin Dunphy:** So I'm putting this in the chat.
+
+**Benjamin Dunphy:** Just in case that helps.
+
+**Benjamin Dunphy:** That's essentially a guide that we encourage anyone to read.
+
+**Benjamin Dunphy:** Anyone to read to help you with writing an effective conference abstracts?
+
+**George Haikal:** Amazing.
+
+**George Haikal:** That's going to come up.
+
+**Benjamin Dunphy:** Are you seeing that?
+
+**Benjamin Dunphy:** No.
+
+**Benjamin Dunphy:** Let me post it again.
+
+**Benjamin Dunphy:** there's, oh, of course, Zoom is messing with it.
+
+**George Haikal:** So there's an everyone.
+
+**George Haikal:** There's, yeah, there's a little...
+
+**Benjamin Dunphy:** That's weird.
+
+**Benjamin Dunphy:** That's That's why I missed Claudia's message.
+
+**Benjamin Dunphy:** Okay.
+
+**George Haikal:** All right.
+
+**George Haikal:** So I...
+
+**George Haikal:** Posted that.
+
+**George Haikal:** Sometimes I'm sending messages to the group before I'm all hands or something, which has been getting eaten by the note taker.
+
+**Benjamin Dunphy:** When did they do that, that it's like, these DMs, like why, okay.
+
+**George Haikal:** Well, yeah, what can you even do in a DM to the note taker?
+
+**Benjamin Dunphy:** Nothing.
+
+**George Haikal:** I don't know.
+
+**George Haikal:** Oh, you can tell it to leave, you can tell it to leave in the chat and it will leave.
+
+**Benjamin Dunphy:** You can prompt inject it.
+
+**George Haikal:** That's funny.
+
+**George Haikal:** Okay, well, this was, this was super helpful.
+
+**George Haikal:** I mean, I'll have more questions once I dig into it a bit more, but all this was very helpful context for myself and for the team and to know the difference in packages and also content versus sponsorships.
+
+**George Haikal:** And so I feel like I have another information that I need to go do a more work and come back with some questions and some, hopefully some options and opportunities.
+
+**Benjamin Dunphy:** All right.
+
+**Benjamin Dunphy:** Sounds good.
+
+**George Haikal:** Amazing.
+
+**George Haikal:** Ben, is email the best way to reach back out to you?
+
+**Benjamin Dunphy:** Yep.
+
+**Benjamin Dunphy:** Yeah, just let's, let's take this to email.
+
+**Benjamin Dunphy:** And if we do need to jump in on the.
+
+**Benjamin Dunphy:** Call, I'm happy to, but otherwise, happy to keep it on email.
+
+**George Haikal:** Fantastic.
+
+**Benjamin Dunphy:** You have a good one.
+
+**Benjamin Dunphy:** I appreciate it, though.
+
+**Benjamin Dunphy:** All right, you too.
+
+**Benjamin Dunphy:** Thanks, George.
+
+**George Haikal:** Bye.
+
+**George Haikal:** You're welcome.
+
+**George Haikal:** Bye.

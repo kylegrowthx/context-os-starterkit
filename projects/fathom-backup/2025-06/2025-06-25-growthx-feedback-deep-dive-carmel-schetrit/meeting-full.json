@@ -1,0 +1,2714 @@
+{
+    "title": "GrowthX Feedback Deep Dive (Carmel Schetrit)",
+    "meeting_title": "GrowthX Feedback Deep Dive (Carmel Schetrit)",
+    "url": "https://fathom.video/calls/335157999",
+    "created_at": "2025-06-25T14:34:24Z",
+    "scheduled_start_time": "2025-06-25T14:00:00Z",
+    "scheduled_end_time": "2025-06-25T14:25:00Z",
+    "recording_id": 70431405,
+    "recording_start_time": "2025-06-25T14:02:55Z",
+    "recording_end_time": "2025-06-25T14:33:51Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "It's been a wild of two weeks here so sorry for delaying the call.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I have been working with GrowthX since January I think, and it's been great.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I do have some feedback but I'll pause there and hope you have more questions first.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I, yeah, let's get to feedback in a second.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, I didn't realize we were Tel Aviv.",
+            "timestamp": "00:00:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So yeah, must be a wild two weeks.",
+            "timestamp": "00:00:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So thank you for joining.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So when you started working with us, what were the goals that you had in mind and how did you come to GrowthX?",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:00:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So I came to GrowthX from a few different sources.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Marcel knows a bunch of people in",
+            "timestamp": "00:00:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "My network.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I was previously at Vercel in the Bay, and Vercel's ex-VP of Marketing, Hank, knows Vercel well, and also our lead.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oh, hey.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Hey, sorry.",
+            "timestamp": "00:01:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I was just wrapping up something else.",
+            "timestamp": "00:01:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Is it 7 in the morning for you?",
+            "timestamp": "00:01:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "It is.",
+            "timestamp": "00:01:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I get here 6.30 every day.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Can you watch your cameras?",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "It's 7.2.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Why are going?",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "How's it going?",
+            "timestamp": "00:01:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So good to see you.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Sorry.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It's like, it's been so insane, but I'm like, I can't miss the chance that we see you.",
+            "timestamp": "00:01:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Say hi.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Kind of get your feedback firsthand.",
+            "timestamp": "00:01:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I was just giving Andy background on how we got in touch through Hank slash Tito.",
+            "timestamp": "00:01:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "slash Neto, slash Elslyn, slash a bunch of peeps in my network.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Keep going.",
+            "timestamp": "00:02:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Sorry to interrupt.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Keep going.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So anyways, that's how Marcel and I got in touch.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Our main goal was twofold.",
+            "timestamp": "00:02:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "A was to generate more traffic, quality traffic to our website.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And B, to generate leads.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So top of funnel, like demand, capture, and intent.",
+            "timestamp": "00:02:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So I would say those were the two things.",
+            "timestamp": "00:02:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I started with GrowthX right when I started here.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "We didn't have anyone taking care of content or of SEO or of GEO or anything.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So we needed to scale that fast.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "needed scale",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so in terms of the onboarding process, how did you feel that we did as we started to work with you guys?",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Great.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think, first of all, I love that everything's super organized and documented in Notion, and there's always follow-ups and everything in Slack.",
+            "timestamp": "00:03:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So that part was great.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "In the beginning, it was, I guess this is natural, but it was very time-consuming with all the calibration articles.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I had to go over one by one, and there were a lot of edits to make.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think this was to hone in on our actual space and our tone and to make sure we're getting things factual and correct.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So in the beginning, it took time, I would say the first month or two to get everything calibrated.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Now it's more streamlined.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I don't need to review.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I still go over everything, but I don't need to review as much.",
+            "timestamp": "00:04:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And I don't leave as much feedback unless we're starting something new.",
+            "timestamp": "00:04:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Like now I was just leaving feedback.",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "We're starting guides in addition to blog content.",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And so anytime we start something new, requires more feedback.",
+            "timestamp": "00:04:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "But I would say that was the biggest thing in the beginning.",
+            "timestamp": "00:04:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "was very time consuming.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Yeah, I'm curious.",
+            "timestamp": "00:04:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "You said factual.",
+            "timestamp": "00:04:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So where do you feel like it was a tone problem or like an AI problem or really not understanding the business?",
+            "timestamp": "00:04:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think it was an AI problem and a not understanding the business problem.",
+            "timestamp": "00:04:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "The AI problem part was that it was like putting all kinds of weird stuff into our articles from like...",
+            "timestamp": "00:04:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Either mentioning competitors in a way we didn't want to mention them, or all kinds of reports that didn't have to do with our industry really, and then the actually understanding the business and the persona, etc.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So it took time to go in on that.",
+            "timestamp": "00:05:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:05:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But you feel like now the team understands the business, and do you feel like the pace is okay in terms of output?",
+            "timestamp": "00:05:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yes.",
+            "timestamp": "00:05:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "The pace is great in terms of output.",
+            "timestamp": "00:05:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "The team is amazing.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I love Jess.",
+            "timestamp": "00:05:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I love Becerra.",
+            "timestamp": "00:05:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I love Kyle, but he left us.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And then we had Bronco for a very brief moment, and now we have, I've only met him once, but Jacob.",
+            "timestamp": "00:05:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "But yeah, the pace is good.",
+            "timestamp": "00:05:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "They're super responsive.",
+            "timestamp": "00:05:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "They do crank out a lot of content for us.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Where I have feedback, or actually, I keep coming back to the feedback, but I'll like it.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "No, let's do it.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "This is the point.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So yeah, this is the point.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So where I have feedback, I was trying to think about this in preparation for the call, is a few fold.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think the first part, and I know I've been mentioning it and requesting from the team for some time.",
+            "timestamp": "00:06:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think one of the big things that's lacking for me is some kind of data piece to go along with the weekly calls.",
+            "timestamp": "00:06:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "For example, the PPC consultant that we work with has a looker dashboard set up.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I can go into it at any time.",
+            "timestamp": "00:06:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I can see how things are performing.",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I can dig into it myself.",
+            "timestamp": "00:06:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And he also goes over it, like performance of campaigns and stuff like that with me on the call.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think the data piece is missing.",
+            "timestamp": "00:06:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Thing, because the team shows kind of like a screenshot of like how many clicks and impressions on a weekly basis, but it's not insights that are actionable for me.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Like I want to see like the funnel and like, hey, this, we saw people coming from here and then they went to the, they read this and then just like something that is backing up the content we're creating and the traffic that we're bringing to the site.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "As well as like top performing pieces and some of the time I asked the team like one-offs and manually and they like pull stuff for me.",
+            "timestamp": "00:07:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "What's his name?",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Bronco.",
+            "timestamp": "00:07:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Before he left was actually very sweet and recorded a lot of looms for me that he was like trying to set up all kinds of views and Google Analytics for me to like look at different paths that people were taking and landing on the blog or where they were going from the blog.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "That kind of data for me is really valuable.",
+            "timestamp": "00:07:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think data that's.",
+            "timestamp": "00:07:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "It's a big piece that's missing for me.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Two, I would say, is Becerra and Jess.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Again, I love working with them.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "They're great.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "They have a lot of ideas, which is awesome.",
+            "timestamp": "00:08:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "But I think what is going to be helpful for me is, so far, yes, we have grown our traffic, for sure.",
+            "timestamp": "00:08:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "But we haven't grown our time spent on site.",
+            "timestamp": "00:08:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "That's one.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Like, our time on site actually has reduced, and that's something that I've noticed.",
+            "timestamp": "00:08:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And we haven't really grown in terms of lead generation.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And so we've been brainstorming a lot of different ideas on what we could do to generate more lead capture type of things.",
+            "timestamp": "00:08:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And I think.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "The actual part of doing it, I know that that's not what GrowthX offers, but I think there's missing this piece of like, okay, the blog articles are working in terms of traffic, but they're not working in terms of what our goals really are.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Now we're trying to shift, for example, to guides, more like downloadable, actionable pieces of content and more like bottom of the funnel stuff.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And I think what's missing is this link of like, okay, we want to create Bofu content, which means it needs to look Bofu content.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So right now I'm going over this guide that Vissera wrote, for example, and like trying to help her write it in like a guide way with like actionable technical stuff, with like checklists, with things that will make it look more of a guide and not.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "their blog article.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So I guess it's more like, if one strategy is not working, shifting the team to be like, okay, this is not really working right now.",
+            "timestamp": "00:10:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Let's try something else.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I would say that's like, that's another thing we're encountering at the moment.",
+            "timestamp": "00:10:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, that's super helpful because I think there's, we have our director's offsite this week, so like Jacob, everybody's here.",
+            "timestamp": "00:10:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I think there's a lot of things that we're learning and actually taking from, like, it's almost like there's different accounts that we've learned a lot of different paths, right?",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And obviously every company is different.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But one of the ones that did really well, it's also Jacob account.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so I'll ask him to kind of be really hands on with you.",
+            "timestamp": "00:10:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And is, so one of our customers, we kind of went through this journey where we were really thinking about like time on page and quality, you know,",
+            "timestamp": "00:10:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And like engagement, once you start to get traffic, but then pretty quickly shifting towards like figuring out what's the ideal path, like knowing that someone comes to a blog, they're not ready to sign up, right?",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, and so what's the next higher intent action?",
+            "timestamp": "00:11:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then starting to really map out with an understanding of the business.",
+            "timestamp": "00:11:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "so the one that, like this customer, right?",
+            "timestamp": "00:11:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like they had these solution pages, essentially, that were really good, but there was just kind of like left off to the side.",
+            "timestamp": "00:11:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so in some ways, what we started with map out was like the click through the conversion signal for us, right?",
+            "timestamp": "00:11:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "right?",
+            "timestamp": "00:11:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so it's like, at first it was like, is this thing getting clicked?",
+            "timestamp": "00:11:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay, it is.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Now it's like, are people spending time on page?",
+            "timestamp": "00:11:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Now let's search and cluster and try to A-B test, like two CTAs or two micro offers per page that lead to either a solution page and or a really high-validated asset that already had enough validation.",
+            "timestamp": "00:11:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That's a good asset, right?",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like you don't want to do a brand new asset that hasn't been proven on other ways because you don't even know if it's a good asset that's going to convert for your audience, right?",
+            "timestamp": "00:12:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So you want to like limit it a little bit.",
+            "timestamp": "00:12:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then we started to essentially do that and then figure out like what was like the natural path.",
+            "timestamp": "00:12:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then from there, like it's going create a lot of value towards like driving to these like either assets or conversions or solution pages that were like really high intent.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then from there, there's actions you can take like there, then, you know, you can go outbound to them, warm outbound to them.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "You know, like you can, you know, retarget them with confidence.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then it's worth spending maybe a little bit more there.",
+            "timestamp": "00:12:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And it's also like high converting pages.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Exactly.",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "That's exactly what I'm looking for.",
+            "timestamp": "00:12:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And for that, we need some data too.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So for example, the Sarah showed me today.",
+            "timestamp": "00:12:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "She's like, okay, well, we just surpassed the 200 click marks.",
+            "timestamp": "00:12:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Since we started with GrowthX, when she was like, it's not very high, and we need to think what to do about it.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "But this kind of what you were talking about, like this mapping, this data of like, okay, we know what's working, we know what's not working.",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "That part's been problematic because it's not data-driven.",
+            "timestamp": "00:13:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So it's just like, okay, we need Bofu now.",
+            "timestamp": "00:13:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Let's go try and do Bofu.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "You see what I'm saying?",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Yeah, yeah, exactly.",
+            "timestamp": "00:13:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I think like, that's why we need to do a better job, is to be back super helpful of like, essentially, like we have different profiles on the team, and we always try to kind of match accounts with profiles that are like going to be like, hey, ideally, Justin Becerra, like they're some of our best when it comes to like, brand content, editorial, like shaping the right voice, and focusing on the quality, right?",
+            "timestamp": "00:13:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But then making sure, like now with Jacob, like he's very data-driven, he built, you know, like he was at G2, built G2 from the ground up, right?",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, he was at ActiveCampaign, like a bunch of.",
+            "timestamp": "00:13:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Essentially, every company's been at has crazy up to the right traffic, and results, so kind of augmenting more of the engagement and being a lot more hypothesis driven.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I don't even want to say data driven.",
+            "timestamp": "00:14:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It's more of like hypothesis driven, because the data is just to inform if we're heading in the right direction and confirm what we're optimizing for, but also knowing what do we want to learn each week, and kind of iterating on that.",
+            "timestamp": "00:14:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I really like that.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "What are we trying to learn each week?",
+            "timestamp": "00:14:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "think maybe that's one of the things that's missing for us in general.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, heard, and I appreciate the feedback.",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like this is super, super helpful and validating as well.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But maybe like one area that would be super helpful, like outside of the engagement level, let's just maybe get a little bit more confidence on the business and how to evolve if it's to super",
+            "timestamp": "00:14:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, because when you first engaged, remember there was a lot of different, like, obviously you were going against three big behemoths in the space, right?",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And obviously, like, in today's world, six months or five months or whatever, like, go by and, like, the whole world changes, you know?",
+            "timestamp": "00:15:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so, like, really, there's just, like, a little bit of extra context on the business, you know, not just the engagement, but, like, how the business is going, how things are evolving, your role, you know, of a company doing.",
+            "timestamp": "00:15:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Um, yeah, short, yes, six months go by and  hits the fan world wide.",
+            "timestamp": "00:15:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Um, we're still in the same space.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Uh, we're in the internal service desk space.",
+            "timestamp": "00:15:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Um, we've been targeting IT specifically and, like, focusing on ITSM content.",
+            "timestamp": "00:15:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Um, and we went to an ITSM trade show and we've gotten some good, um, big accounts, but not still.",
+            "timestamp": "00:15:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "It's at the velocity we need to be at.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So my job is still hard.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "The growth isn't where it needs to be.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So when we do get accounts on trials or demos, we have a pretty high closing rate.",
+            "timestamp": "00:16:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "But it's getting the quality traffic and getting them through the sign-up flow or demo flow.",
+            "timestamp": "00:16:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So that's been proving to be challenging.",
+            "timestamp": "00:16:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Just today, we had a conversation about potentially opening up our scope a bit in terms of our messaging to be a bit more broad and not just focused on IT jargon and lingo.",
+            "timestamp": "00:16:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Because essentially our product is for any internal operations service desk related to teams.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And our strategy so far has been land and expand with IT, which works well.",
+            "timestamp": "00:16:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "But, I think maybe our content and our messaging is too narrow, and we were just discussing today if we open that up, so that's also something we're still in talks about, but something that I might consider with the rest of the team too.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "What's your biggest channel right now, as far as driving pipeline or signups?",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "What's the question?",
+            "timestamp": "00:17:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "What's your biggest driver of pipeline or signups in terms of channel?",
+            "timestamp": "00:17:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Is sales outbound, is it ads, is it organic, direct?",
+            "timestamp": "00:17:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Direct inbound.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Direct inbound would be the biggest volume, and in terms of actual deal size, it would be outbound.",
+            "timestamp": "00:17:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "But yeah, ads are not working great.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "We're now going to try this new Reddit strategy.",
+            "timestamp": "00:17:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "just.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "you.",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Thank Thank",
+            "timestamp": "00:17:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Um, with another agency.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Um, but, um, if at any point, like you need a new agency on the ad, we have a great one that partners with us.",
+            "timestamp": "00:18:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That's really, really good.",
+            "timestamp": "00:18:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And they also do AI driven outbound as well.",
+            "timestamp": "00:18:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Um, so if, um, if at any point you need to kind of explore options, if like, you know, um, it's really hard.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Ad agencies are just like a mixed bag, you know, it's very hard.",
+            "timestamp": "00:18:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So quickly, you know, and it's like, and every time you make a change, it's like, you, you lose like two months of life or money to learn, you know, and Google ads has been driving trash.",
+            "timestamp": "00:18:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Uh, it's not the IT spaces.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It's just really hard.",
+            "timestamp": "00:18:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, you know, like I'm familiar with the space.",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Uh, and it's just like, when you're in a really, really, really well established space, it's like, you gotta break the mold.",
+            "timestamp": "00:18:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And, and if you comment the space from the.",
+            "timestamp": "00:18:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Category level, it's just so hard to break through the noise because it's just like 15 years of noise and established players bragging about Magic Quadrants or Forrester Waves.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Exactly, and we cannot afford to be on at the moment.",
+            "timestamp": "00:19:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And so it's like, how do you break through that noise?",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And the people that are searching for Magic Quadrants are not the kind of people that are early adopters, let's just put it that way.",
+            "timestamp": "00:19:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "You're making a fine decision on Gartner's, you know, old  analysts.",
+            "timestamp": "00:19:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "It's what happened to us with Ramp.",
+            "timestamp": "00:19:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Ramp was a super happy customer.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "They got a new head of IT that joined.",
+            "timestamp": "00:19:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "He wanted everything to be JIRA, old school, and they churned.",
+            "timestamp": "00:19:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And we were so pissed.",
+            "timestamp": "00:19:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Oh my God, yeah.",
+            "timestamp": "00:19:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oh yeah, you're right.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "empathize, being a CEO now, I can empathize with the journey.",
+            "timestamp": "00:19:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It's like churn.",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oh, my CEO's had a heart attack.",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oh",
+            "timestamp": "00:19:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I'm experts at a deeper level that I've never understood until I became a CEO, and I was just like, it's so personal now, and I'm just like, he really took it personally, I was like, and he's like, no, you don't understand.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, it is, it's a different level when it's like, your company, it's very personal, it feels like a breakup, it really does, like, but, but, yeah, like, I think, think, like, there's cool things, I'll jump out with the team, because, you know, the, you almost need to, it needs to feel very different from everything else, and maybe there's, like, different angles that we can come at more from, like, a, like, a pain point, or focus more on ways that people are trying to solve for their pain point, thinking about AI, you know, like, like, for instance, like, with Bappy, one of our customers, like,",
+            "timestamp": "00:20:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we to do these pages that are UCA stages, so we've done several hundred of these, and they're highly personalized, and it's more programmatic, so I know it's a little bit different, but there might be something here where now this engagement is at a certain maturity, because you are such a new domain, too, with no authority, that we needed to do groundwork to build a tutorial, build a little bit of topical authority, so you can't just come at it and just have to be programmatic.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But there might be a couple of different angles that maybe we can help, but in the meantime, we should be able to align that journey a little bit more, and make sure we have the next best action that is slightly higher intent than the previous one, and start to test that out, map that out, because if you do that, then we have really good confidence that, okay, people are landing here, they're engaged with the content, and now they're going to this next path, and this next path gets them a lot closer.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And at least here, then you can take your ad budget and retargeting, like the way I always thought about it, right?",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Especially if spaces are crowded, it's like you want to just increase your high intent retargeting pool.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That's going to be your, you know, that's the second best thing outside of brand search, right?",
+            "timestamp": "00:22:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like brand search is your best, which like, like there's a correlation between traffic growth and increases in brand searches.",
+            "timestamp": "00:22:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It's usually 30 to 60 days later, right?",
+            "timestamp": "00:22:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And it's not, it's like a four to one or five to one, sometimes seven to one, right?",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, for every, essentially the way I think about it is like for every thousand new people that every month find your site organically, not intended, like one of those will search for your brand two months later, you know?",
+            "timestamp": "00:22:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so, but then brand searches convert at a five X.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So it's kind of like almost, you know, at least from my experience, right?",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, you know, I agree.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It's like, it was seven.",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I have a question for you.",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Um, like just looking at this vape, vape, vape, vape, yeah.",
+            "timestamp": "00:22:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think one of the technical challenges we face, and you work with a lot of companies now, so I'd love to hear from you, we're small, so I don't have a dedicated in-house developer to build a custom site for us.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "We're currently on Webflow, and it's proving to be garbage and not flexible, and I want to be able to build cool .",
+            "timestamp": "00:23:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "For example, you build all these customized pages, etc.",
+            "timestamp": "00:23:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "What are you recommending your clients use?",
+            "timestamp": "00:23:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I mean, this one, we designed it both ourselves for them, and so I think, like, so we have the resources, we have design engineers, we have designers, we have in-house agencies, essentially, like, there are, like, partner agencies that we manage, that are, like, you know, that way, it's, like, it's just so, like, we don't want to lose time.",
+            "timestamp": "00:23:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, if I introduce you to, like, a small agency or another one, and then, like, and then they do  work, then if that's on us, right, like, and so it's a bit better for us to manage them, and also it's, like, kind of spiky.",
+            "timestamp": "00:23:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We don't want to have to wait for 60 days of contract negotiations, you know, to get the work done, right?",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I want to be able to be like, hey, ping them on our Slack channel and be like, we need someone to jump on this one, right?",
+            "timestamp": "00:24:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we can do that, especially Webflow, and it's pretty straightforward.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like Fathom was actually pretty gnarly.",
+            "timestamp": "00:24:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "They had no CMS.",
+            "timestamp": "00:24:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "They were just like a nightmare, right?",
+            "timestamp": "00:24:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So I think it's mostly like identifying the right use cases.",
+            "timestamp": "00:24:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So work with Jacob on that.",
+            "timestamp": "00:24:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then like, even if you have to do like just like a pasta or something, if it's like an additional, like, if it's like a gnarly project, right?",
+            "timestamp": "00:24:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like it's like two weeks of like design and dev, like intense, like then, you know, versus like if it's just like a one day thing, not a big deal.",
+            "timestamp": "00:24:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like we'll eat the cost ourselves.",
+            "timestamp": "00:24:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But like, I think like if it's, if that's the problem, we can address that, right?",
+            "timestamp": "00:24:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We don't have unlimited capacity.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And often it's mostly like, it's when someone comes and says, I need this thing done tomorrow.",
+            "timestamp": "00:24:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Then those are the hard ones because like, we're in like sprint site.",
+            "timestamp": "00:24:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "goals internally to be able to allocate a lot of these resources right like we have some wiggle room and flexibility for like small asks but then like we don't have a like hey drop everything you're doing and go work with us for two weeks on Monday or Sunday you know so that's like the only thing really I was gonna send you an example yeah something tiny but like this kind of stuff kind of sucks um hold on let me send this to you so for example we came up with this that we worked really hard on which this is like migrate to Siit from Jira Service Management and if you scroll down a little bit look at the table that was looks like a screenshot from Google Sheets or Google Docs like this could easily be turned into some kind of like downloadable you know asset but the bottleneck here for example is how do we you you you",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "How do we do that?",
+            "timestamp": "00:26:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And that's the type of, like, I have a Webflow developer, but he's not amazing.",
+            "timestamp": "00:26:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And so this, for example, or like in the guides that we're creating now, like, you know, just a little bit of stuff, a little bit of extra polish on these kinds of things could be so helpful for me.",
+            "timestamp": "00:26:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I have a bunch of examples here.",
+            "timestamp": "00:26:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But, so, I'm just trying to pull up an example really quickly.",
+            "timestamp": "00:26:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay, so, give me a sec, and I can share my screen.",
+            "timestamp": "00:26:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Sorry, too many tabs.",
+            "timestamp": "00:26:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay, so let me just share my screen, and then hopefully this helps a little bit.",
+            "timestamp": "00:26:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But, like, so, like, George Main, for example, as one of our design engineers, he was at Framer.",
+            "timestamp": "00:26:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "THE Framer.",
+            "timestamp": "00:26:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I did.",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Thank I then",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And he's a developer and a designer.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we built this entire site for our customer, essentially.",
+            "timestamp": "00:27:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so it's still obviously we need to do some optimizations, but it's just a full Okay, but it's tick.",
+            "timestamp": "00:27:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, it's pretty cool.",
+            "timestamp": "00:27:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "then this is the live version that we bytecoded it.",
+            "timestamp": "00:27:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And, you know, like, so this is, like, the before, which is not hard.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I mean, it's not great, but it's not, like, completely, you know, it doesn't hurt your eyes as bad, but it's, like, this is beautiful, right?",
+            "timestamp": "00:27:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, and so, or, for instance, like, we're spinning up little sites like this.",
+            "timestamp": "00:27:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, we built this one called Check That.",
+            "timestamp": "00:27:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so we looked at this that you sent us.",
+            "timestamp": "00:27:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oh, my God.",
+            "timestamp": "00:27:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "How many times do I have?",
+            "timestamp": "00:27:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We have, um, and it's, like, a little app that, of course, is not working, but.",
+            "timestamp": "00:27:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Fathom, Fathom it, and so we have the capabilities, and I think if we can find the right use case already, and we can at least do a trial one, or we can do one thing or something, and Webflow is easy enough that we can do it pretty quickly.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Like it worked, for example, on this whole logic flow with Becerra and Jess on, especially with Becerra, on like a recommend, a tool recommender, on like, okay, they, whatever, ask a few survey questions, and then based off of that, you get a tool recommended to you.",
+            "timestamp": "00:28:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "And then I tried to go build it myself with like Vibe Coding, and Typeform, and whatever, and I was like, you know what,  this, this is taking me hours, and I have like other  to do.",
+            "timestamp": "00:28:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "So, anyways, yeah, maybe there are certain use cases that could work well with your team.",
+            "timestamp": "00:28:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "I think proving to be a difficult part of doing creative stuff is the not tool to like.",
+            "timestamp": "00:28:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Yeah, exactly.",
+            "timestamp": "00:29:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:29:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So the way I would think about it is a few things.",
+            "timestamp": "00:29:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So there is making sure we have, first of all, make sure we're tracking all the right things.",
+            "timestamp": "00:29:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So that's on us.",
+            "timestamp": "00:29:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Two, let's make sure we map out the ideal journey backed by some of this data so that we can start to build hypotheses on the next best.",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Three, get creative on how can we get more aggressive with a lot of the content we're already doing, but also think through maybe there's a tool that we can just validate if it works really well as a certain path or as a, I like to call them a link magnet or a graphic magnet as well.",
+            "timestamp": "00:29:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then, so what I would love to do if your game is, we'll follow up after this and we'll talk to Jacob today as well.",
+            "timestamp": "00:29:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And it's set up like an hour to dive in a few weeks where like we'll present some ideas, like come up with like a",
+            "timestamp": "00:29:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "For the next three to six months, you know, like what we've learned so far, things we're tweaking to serve you even better, you know, and kind of like essentially like a deep dive into the next phase of the partnership kind of thing, you know, in the areas we can help maybe, you know, in examples of what we're learning from other clients, what we're doing for other clients.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Excellent.",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That sounds perfect.",
+            "timestamp": "00:30:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:30:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, thank you so much.",
+            "timestamp": "00:30:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Good to see you.",
+            "timestamp": "00:30:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, likewise.",
+            "timestamp": "00:30:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So good to see you.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Excited.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Have a good time with the offsite.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:30:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Carmel Schetrit",
+                "matched_calendar_invitee_email": "carmel@siit.io"
+            },
+            "text": "Nice to meet Thank you.",
+            "timestamp": "00:30:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:30:34"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive into GrowthX feedback and performance review with Carmel Schetrit from Siit](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1.0)\n\n## Key Takeaways\n\n  - [Siit has seen traffic growth but struggles with engagement metrics and lead generation](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=2.0)\n  - [GrowthX needs to provide more actionable data insights and adapt strategies more quickly](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=322.0)\n  - [Carmel seeks a more data-driven approach to content strategy and performance tracking](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=375.0)\n  - [Siit is considering broadening its messaging beyond IT-specific focus to drive growth](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=928.0)\n\n## Topics\n\n### GrowthX Onboarding and Initial Performance\n\n  - [Carmel started with GrowthX in January 2025](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=51.0)\n  - [Initial goals: generate more quality traffic and leads (top-of-funnel demand capture)](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=136.0)\n  - [Onboarding process was well-organized but time-consuming for content calibration](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=195.0)\n  - [Early challenges: AI-generated content lacked factual accuracy and business understanding](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=283.0)\n  - [Current output pace is satisfactory; team is responsive and productive](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=333.0)\n\n### Content Strategy and Performance\n\n  - [Traffic has grown, but time on site has decreased](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=511.0)\n  - [Lead generation hasn't improved significantly](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=520.0)\n  - [Shifting focus to more bottom-of-funnel (BOFU) content like downloadable guides](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=561.0)\n  - [Need for better alignment between content format and strategic goals (e.g., making guides more actionable and technical)](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=571.0)\n\n### Data and Analytics Gap\n\n  - [Lack of comprehensive data insights is a major pain point](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=380.0)\n  - [Current weekly reports lack actionable insights on content performance](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=420.0)\n  - [Desire for funnel analysis, user journey mapping, and top-performing content metrics](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=429.0)\n  - [Previous attempts at custom Google Analytics views were helpful but not sustained](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=458.0)\n\n### Business Context and Challenges\n\n  - [Siit operates in the internal service desk space, focusing on IT and ITSM](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=934.0)\n  - [Facing competition from established players in a crowded market](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=900.0)\n  - [High closing rate for trials/demos, but struggling to drive quality traffic and conversions](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=964.0)\n  - [Considering broadening messaging beyond IT-specific focus to expand market reach](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=992.0)\n\n### Channel Performance\n\n  - [Direct inbound: highest volume of leads](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1063.0)\n  - [Outbound sales: largest deal sizes](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1063.0)\n  - [Paid ads: underperforming, exploring new strategies (e.g., Reddit)](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1073.0)\n\n### Technical Limitations\n\n  - [Current Webflow setup lacks flexibility for creating custom, polished content assets](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1380.0)\n  - [Desire for more sophisticated design capabilities to enhance content presentation](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1565.0)\n\n## Next Steps\n\n  - [Schedule a follow-up deep dive session in a few weeks to present ideas and strategies](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1786.0)\n  - [GrowthX to develop a 3-6 month plan addressing learnings and proposed improvements](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1800.0)\n  - [Involve Jacob (GrowthX team member) more closely to leverage his data-driven approach](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=620.0)\n  - [Explore options for enhancing design capabilities within Webflow constraints](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=1565.0)\n  - [Implement more robust data tracking and develop actionable performance insights](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=380.0)\n  - [Map out ideal user journeys and develop hypotheses for optimizing conversion paths](https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG?tab=summary&timestamp=688.0)\n"
+    },
+    "action_items": [
+        {
+            "description": "Have team improve data tracking for Siit account. Ensure all relevant metrics captured\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:28:56",
+            "recording_playback_url": "https://fathom.video/calls/335157999?timestamp=1736.9999",
+            "assignee": {
+                "name": "Andi Bailey",
+                "email": "andi@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Schedule 1hr follow-up meeting w/ Carmel in few weeks. Prep presentation: learnings so far, strategy tweaks, ideas for next 3-6mo, examples from other clients\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:35",
+            "recording_playback_url": "https://fathom.video/calls/335157999?timestamp=1775.9999",
+            "assignee": {
+                "name": "Andi Bailey",
+                "email": "andi@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        },
+        {
+            "description": "Discuss Carmel's feedback w/ Jacob today. Focus on data insights, journey mapping, bottom-of-funnel content strategy\n",
+            "user_generated": false,
+            "completed": false,
+            "recording_timestamp": "00:29:35",
+            "recording_playback_url": "https://fathom.video/calls/335157999?timestamp=1775.9999",
+            "assignee": {
+                "name": "Andi Bailey",
+                "email": "andi@growthx.ai",
+                "team": "GrowthX Team"
+            }
+        }
+    ],
+    "calendar_invitees": [
+        {
+            "name": "Marcel Santilli",
+            "email": "marcel@growthxlabs.com",
+            "email_domain": "growthxlabs.com",
+            "is_external": true,
+            "matched_speaker_display_name": null
+        },
+        {
+            "name": "Carmel Schetrit",
+            "email": "carmel@siit.io",
+            "email_domain": "siit.io",
+            "is_external": true,
+            "matched_speaker_display_name": "Carmel Schetrit"
+        },
+        {
+            "name": "Andi Bailey",
+            "email": "andi@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Andi Bailey"
+        }
+    ],
+    "recorded_by": {
+        "name": "Andi Bailey",
+        "email": "andi@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/1_vAJV5SeG4BF35tqLuamDje4Ge4S1ZG",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

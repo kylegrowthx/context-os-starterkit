@@ -1,0 +1,929 @@
+# Yourco <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2025-09-17
+time: 15:30 UTC
+duration: 37 minutes
+organizer: kyle@growthxlabs.com
+participants: Jessica Yip (Yourco), Carrie Chowske (GrowthX), Kyle Gaudreau (GrowthX)
+fathom_recording_id: 87901967
+fathom_url: https://fathom.video/calls/412152345
+share_url: https://fathom.video/share/C3N7uTCToc2jRCqNgfpFUyyXgDYcNCn7
+source: fathom
+enriched_on: 2026-03-03 15:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Yourco and GrowthX synced on content strategy and SEO recovery in the face of a sharp September conversion dip — just 1 lead month-to-date vs. 15/month average. Carrie identified 19 underperforming pages to prioritize for enrichment and flagged an opportunity to test thought leadership content in logistics/manufacturing verticals. The team also agreed to standardize terminology around "frontline workers" across the site while maintaining "deskless" and "non-desk" as secondary terms for SEO clarity.
+
+---
+
+## Context
+
+Yourco is a frontline worker platform that manages scheduling, communications, and task management for deskless teams in industries like retail, hospitality, healthcare, and field services. GrowthX has been running an ongoing content marketing engagement focused on SEO, organic visibility, and lead generation through thought leadership and targeted keyword content.
+
+This weekly sync kicked off after Carrie returned from time off and caught up on the previous week's strategic discussions that Kyle had initiated. The timing was urgent: September conversions had plummeted to just 1 lead month-to-date — a dramatic drop from the typical 15+ leads/month — signaling potential issues in the funnel, landing page effectiveness, or market seasonality. The team is focused on diagnosing the problem and pivoting content strategy to recover conversion momentum before Q4.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Yourco is a proven reference-able account with strong baseline performance (15+ leads/month). A recovery here is high-impact and defensible case study material for vertical-specific content strategies.
+- The pivot to logistics/manufacturing verticals through thought leadership represents an opportunity to test GrowthX's ability to expand from deskless into adjacent high-value industries — repeatable motion for future clients.
+- Carrie's methodology of prioritizing high-converting pages for enrichment with FAQs and recent positioning data is a scalable content refinement process worth documenting.
+
+**To GrowthX Business Development:**
+- Account health is temporarily at risk (conversion collapse in September). Recovery is critical for retention and upsell — need to treat this as high-priority.
+- Early wins on thought leadership content experiments could unlock expansion into logistics/manufacturing as adjacent verticals, increasing lifetime value significantly.
+
+**To Content Strategy:**
+- Terminology standardization ("frontline workers" primary, "deskless"/"non-desk" secondary) requires site-wide audit and coordinated updates. Jessica owns the implementation but needs clear priority/timeline.
+- Testing thought leadership in logistics/manufacturing tests whether topical authority drives AI/semantic search visibility — valuable data for CheckThat positioning.
+
+---
+
+## Overview
+
+- September conversions are down (only 1 so far), prompting a deeper look into high-converting keywords and pages
+- Experimenting with thought leadership content for logistics/manufacturing industries to potentially boost SEO and AI search visibility
+- Shifting focus to "frontline workers" terminology while maintaining "deskless" and "non-desk" as secondary terms
+- Content pipeline is ahead of schedule, with articles ready for review and staging
+
+---
+
+## Key Topics
+
+### SEO Performance and Conversion Concerns
+
+  - Only 1 lead conversion in September so far, down from \~15 monthly average
+  - Initial keyword checks show no significant drops in positioning for high-converting keywords
+  - Kyle suggests looking at broader trends and landing page performance rather than individual keyword tracking
+  - Team to investigate potential technical issues and seasonality factors
+
+### Content Strategy Adjustments
+
+  - Experimenting with thought leadership pieces for logistics/manufacturing industries
+  - Aim to create content appealing to decision-makers and HR professionals in these sectors
+  - Potential to leverage this content in monthly e-newsletters (1000+ subscribers)
+  - Balancing new content with refreshes/enrichment of high-performing pages
+
+### Keyword Tracking and SEO Approach
+
+  - Debate on the value of individual keyword tracking vs. focusing on broader topics/themes
+  - Carrie suggests a middle-ground approach: tracking keyword clusters to gauge topical authority
+  - Agreement to continue monitoring key converting keywords while emphasizing semantic relevance
+
+### Technical Updates and Content Management
+
+  - Site health issues mostly resolved; only two pages not indexing (recently updated/published)
+  - Discussion on balancing content mix, especially regarding time-intensive templates
+  - Added new topics on open enrollment and benefits-related content to the content pool
+
+### Terminology Updates
+
+  - Shifting primary focus to "frontline workers" terminology
+  - Maintaining "deskless" and "non-desk" as secondary terms for continuity and clarification
+
+---
+
+## Action Items
+
+**Carrie Chowske (GrowthX)**
+- Analyze keyword trends for high-converting pages and spot downtrends in key search queries
+- Prioritize high-converting articles for enrichment with additional content proven to increase traffic
+- Plan couple of thought leadership topics for logistics/manufacturing industries
+
+**Jessica Yip (Yourco)**
+- Add CTAs to blog posts (already done for resources page)
+- Change website terminology across site from "deskless/non-desk" to "frontline workers"
+
+---
+
+## Transcript
+**Jessica Yip:** Kyle, Carrie?
+
+**Jessica Yip:** Oh, we changed it to Zoom.
+
+**Jessica Yip:** I was like, is it the right link?
+
+**Carrie Chowske:** I thought the same thing.
+
+**Carrie Chowske:** I thought the exact same thing.
+
+**Jessica Yip:** How's it going?
+
+**Jessica Yip:** Doing well.
+
+**Carrie Chowske:** Yeah?
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** How about you?
+
+**Carrie Chowske:** Oh, it was nice to have a little break.
+
+**Carrie Chowske:** It was a much-needed break, and thankfully, Kyle and the rest of the team made it really easy for me to unplug.
+
+**Jessica Yip:** So I got, I got, I feel, feel very recharged, so.
+
+**Jessica Yip:** That's awesome.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** So I was able to get caught up, too.
+
+**Carrie Chowske:** So I did, I did have a chance to, like, review the sync from last week, too.
+
+**Carrie Chowske:** So I kind of dug into a few of the things that Kyle brought up.
+
+**Carrie Chowske:** Well, I mean, dug into the beginnings of.
+
+**Carrie Chowske:** But, yeah, I just thought we could kind of maybe talk a little bit about a couple of those things that I uncovered.
+
+**Carrie Chowske:** And I literally just minutes before this, like, saw that Anthropic, like, released some data on there.
+
+**Carrie Chowske:** Her involvement, so I need to look at...
+
+**Carrie Chowske:** So their usage stuff.
+
+**Carrie Chowske:** And so it was interesting to kind of, given what we were talking about, to like look at role-based stuff.
+
+**Carrie Chowske:** And so anyway, so let me share my screen here.
+
+**Carrie Chowske:** It was so funny, Kyle, I think in one of the calls last week, you were like, I hate sharing in Google or whatever.
+
+**Carrie Chowske:** And I'm like, I hate sharing in Zoom.
+
+**Carrie Chowske:** I've gotten so used to using Google lately that I'm like, what is going on?
+
+**Carrie Chowske:** So anyway, but we can easily, we can easily adapt.
+
+**Carrie Chowske:** It was just funny to me because I had said that.
+
+**Carrie Chowske:** I I had said the same thing the week before.
+
+**Carrie Chowske:** So content-wise, we're still, you know, on track.
+
+**Carrie Chowske:** I think you saw, I think you've probably looked at most of the articles for review for this week.
+
+**Carrie Chowske:** I hadn't followed up with Joe yet this morning to see where we were with that.
+
+**Carrie Chowske:** But just, just in case you hadn't seen, there's next week's articles are in there for review also.
+
+**Carrie Chowske:** So we're still working out ahead, which is great.
+
+**Carrie Chowske:** And then, so here's, here's where I had a little fun.
+
+**Carrie Chowske:** Since Kyle kind of really dug into a lot of the, like, some of the trends that he had saw, I really kind of thought, let me pull on some of this and see where we go with it.
+
+**Carrie Chowske:** So one thing that I did start looking at, especially because we were basically ran out of our current list of refreshes and enrichment articles that we were working on, I went ahead and just started, like, looking at some of the data for that.
+
+**Carrie Chowske:** And most of it was similar, like, there's still a few that were on the list that stayed on the list, but it really only identified us about roughly, I think it was like 19, actually, pages that had both, like, declining impressions and clicks through search and also lost some keywords or lost rankings.
+
+**Carrie Chowske:** So it's relatively low, so it's pretty easy to do, and I just went ahead and prioritized, and I've already got them in the pool for us in our content pipeline, but for the top, like, they were some of our top performers, just so that we can enrich them with, you know, the FAQs, make sure we've got recent, like,
+
+**Carrie Chowske:** CTAs and recent positioning information on them.
+
+**Carrie Chowske:** So you should see those in there.
+
+**Carrie Chowske:** I can give you data on the rest of that if you want to see it.
+
+**Carrie Chowske:** Like I said, nothing too surprising.
+
+**Carrie Chowske:** There were quite a few that were pre-growthx articles that were old enough that refreshing them just makes sense anyway.
+
+**Carrie Chowske:** So I can share that list with you for prioritization.
+
+**Jessica Yip:** I actually also want to share our Google Analytics.
+
+**Jessica Yip:** Because this month, we are mid of this month, in terms of conversions, we only have one lead came across our channel, page channel and SEO.
+
+**Jessica Yip:** So it's quite bad for us.
+
+**Jessica Yip:** So I immediately just looked into the conversion articles.
+
+**Jessica Yip:** So I want to mind if I can quickly share one of the exercises that I think is worth doing.
+
+**Jessica Yip:** I already did some initial research yesterday just to me.
+
+**Jessica Yip:** Make sure the key keywords are not dropping significantly.
+
+**Jessica Yip:** Right.
+
+**Jessica Yip:** So on our end, like, I want to make sure that it's not, like, we're not, no, none of these high conversions keywords are losing its position.
+
+**Jessica Yip:** So as you can see, can you see my screen?
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** So it's taught by key events here.
+
+**Jessica Yip:** So I would say, like, maybe 90% accuracy in terms of the conversions, how we track it.
+
+**Jessica Yip:** So you can see a lot of these, it's by last 12 months.
+
+**Jessica Yip:** So it's longer period.
+
+**Jessica Yip:** A lot of these conversions came from the old articles.
+
+**Jessica Yip:** And if you filter by blogs and resources, these are the old one, like employee texting platforms, scheduling texts.
+
+**Jessica Yip:** like, very relevant to text-related cluster, you know, employee notification systems.
+
+**Jessica Yip:** And then would
+
+**Jessica Yip:** The second page would be, can employers send text messages?
+
+**Jessica Yip:** So what I want to do is that able to tally up all these high converting, at least have one or two, the top 10 performance one, and then generate the keyword list and just tracking.
+
+**Jessica Yip:** I'm just very concerned, like, if these high converting landing page, like, if we somehow lose positioning, then it might impact our conversion.
+
+**Jessica Yip:** Love that.
+
+**Carrie Chowske:** As a matter of fact, that number 14 there on the blog list there, that one is on the list of ones that was declining that I saw, that one there, yeah.
+
+**Carrie Chowske:** Right.
+
+**Carrie Chowske:** So that's a perfect one to do.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** Love it.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** And I looked at, like, versus email, texting, SMS, employee.
+
+**Jessica Yip:** These keywords, at least, like, we are at the top page.
+
+**Jessica Yip:** So yesterday I was kind of like a little bit panicked, like because they only have one conversion.
+
+**Jessica Yip:** So, but from my initial look at it, it's like nothing really impacting from the initial look.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** But I want to take deeper look, like anything impacting from a high converting.
+
+**Carrie Chowske:** Yeah.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** Definitely.
+
+**Carrie Chowske:** Go ahead, Kyle.
+
+**Kyle Gaudreau:** Sorry.
+
+**Kyle Gaudreau:** I'm trying to remember.
+
+**Kyle Gaudreau:** Do you use HubSpot for CRM?
+
+**Kyle Gaudreau:** Yeah.
+
+**Jessica Yip:** But then the conversion tracking, we track our backend, this is pretty accurate.
+
+**Jessica Yip:** Like it's high in terms of the number of conversions.
+
+**Kyle Gaudreau:** Well, for September specifically, you're only seeing one in HubSpot as well?
+
+**Jessica Yip:** Yeah.
+
+**Kyle Gaudreau:** Oh.
+
+**Kyle Gaudreau:** Dang.
+
+**Kyle Gaudreau:** Not great.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** These are blocking.
+
+**Kyle Gaudreau:** Yeah.
+
+**Jessica Yip:** Yeah.
+
+**Kyle Gaudreau:** As we go through it too, I wouldn't say we should stay.
+
+**Kyle Gaudreau:** I've spent a ton of time on this, but just doing some quick checks to see on, like, Google Trends of some of those top keywords and seeing if anything, like, is bubbling up.
+
+**Kyle Gaudreau:** You know, generally, the way I think about this when I'm auditing stuff like this, first, you know, making sure the tracking is accurate and, you know, going through that exercise.
+
+**Kyle Gaudreau:** Then looking at a couple of the key segments, you know, such as the link pages, as you're pointing out, the keywords, and then also things like seasonality as well.
+
+**Kyle Gaudreau:** It could be a combination of, like, multiple factors and not just, like, a single.
+
+**Kyle Gaudreau:** And so it doesn't mean there isn't actions.
+
+**Kyle Gaudreau:** It's just trying to have awareness to where we should focus the actions, mostly.
+
+**Jessica Yip:** Yeah, I think the action is pretty much, like, the keywords.
+
+**Jessica Yip:** Are we trending down significantly in any of the search query?
+
+**Jessica Yip:** If we don't spot any trend, I think on that end, we are good.
+
+**Jessica Yip:** That is the key action.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** And then for the macro trend, we know that September usually is quite slow, so I need to take that into account.
+
+**Jessica Yip:** But at least from the basic, I need to make sure that everything is just normal and it's nothing deep that we identify.
+
+**Jessica Yip:** If so, then we need to know.
+
+**Carrie Chowske:** One of the things I noticed on lost keywords and stuff that I did pick up on was there were some things, like the ones that were showing the most lost keywords were related to that article that's on the cost of translation, which in some ways I think we don't want to lose.
+
+**Carrie Chowske:** But also what I've noticed is the ones that are, they're not as closely related to intent.
+
+**Jessica Yip:** You know what I'm saying?
+
+**Jessica Yip:** Intent is not that.
+
+**Carrie Chowske:** Yeah, so I'm not too concerned about that.
+
+**Carrie Chowske:** But I did notice that where we're picking up keywords tends to be more related to user intent, where we want it to be.
+
+**Carrie Chowske:** So I'm hoping that'll have an influence.
+
+**Carrie Chowske:** I mean, that's what I've seen in the past, but I don't know.
+
+**Carrie Chowske:** We can maybe dig into that a little more, too.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** It would be great if you can look into it, like, today, and then just, you know, initial search to spot any, like, downtrend for the key search query.
+
+**Carrie Chowske:** I always remember.
+
+**Kyle Gaudreau:** How many did you have in, like, July and August, roughly?
+
+**Jessica Yip:** Say it one more time, Kyle.
+
+**Kyle Gaudreau:** How many conversions did you have, roughly, in July and August?
+
+**Jessica Yip:** We have total about 30, and then half of it come from SEO.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** 15.
+
+**Kyle Gaudreau:** So from that same view, we should expect about 15.
+
+**Jessica Yip:** Got it.
+
+**Kyle Gaudreau:** Yeah.
+
+**Jessica Yip:** But given, like, last year, I saw the data, like, September 6.
+
+**Jessica Yip:** seems to be a slower month.
+
+**Jessica Yip:** So, you know, maybe we get 10.
+
+**Jessica Yip:** It's fine.
+
+**Jessica Yip:** But one is, like, very, very, very.
+
+**Jessica Yip:** And it was half the month already.
+
+**Kyle Gaudreau:** Have you checked some, like, technical things, like, with the form and all that to make sure everything?
+
+**Kyle Gaudreau:** checked that yesterday.
+
+**Kyle Gaudreau:** Interesting.
+
+**Kyle Gaudreau:** Yeah, because on, like, the aggregate, like, if anything, it's, like, first page is flat to up.
+
+**Kyle Gaudreau:** But, you know, that's just the aggregate.
+
+**Kyle Gaudreau:** There obviously can be trends underneath.
+
+**Kyle Gaudreau:** But, like, you know, you all look like you've actually, like, had somewhat of a decent bump in first page keywords in September.
+
+**Kyle Gaudreau:** So it's not, like, an obvious trend from the aggregate.
+
+**Kyle Gaudreau:** But that doesn't mean there isn't something underneath.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** What I can do also, too, is just looking at that, the ones that are your high converters, like making sure we prioritize those two for, at the very least, enriching them with some additional stuff that we know has worked for other articles in terms of traffic to see if that maybe helps.
+
+**Carrie Chowske:** Because, like I said, there's a couple of those that I know are, that, like they said, that one that was on there, like they, they're old enough that I know they don't have, like, I think it's like low lift kind of stuff we can maybe do to try to course correct that a little bit if, if we have, you know, if think it might do a little bit.
+
+**Jessica Yip:** So let me, let me look at that and I can, you know, get back to you on like.
+
+**Jessica Yip:** Sure.
+
+**Jessica Yip:** Yeah, I went in yesterday to, for the resources page to add all the CTA in, so that's what I did yesterday, but not the blocks, yeah.
+
+**Carrie Chowske:** Okay, okay, great.
+
+**Carrie Chowske:** Yeah, because that's something, too, that we can do, like, as, you know, we can, if all we're doing is that kind of a, that kind of a.
+
+**Jessica Yip:** We could maybe swap out for like a couple full blog articles and do several of those pages.
+
+**Carrie Chowske:** Yeah, that's not a problem.
+
+**Carrie Chowske:** So in the more like fun experimental realm, I did kind of like start thinking about what Kyle said too about, you know, the focus of your ICP because they're non-desk, they're frontline workers.
+
+**Carrie Chowske:** Even the people that are, you know, at a desk in those industries, they're thinking of things in different ways.
+
+**Carrie Chowske:** And so I, the trend put, like, I want to put the quotes on the word trend here and such dark, bold, you know, bright things because calling it a trend is ridiculous.
+
+**Carrie Chowske:** But I just thought it was interesting that this article appeared in both an uptick in traffic around mid-July for both SEO and for, you know, referrals coming from LLMs.
+
+**Carrie Chowske:** And it's this one on challenges in the logistics industry.
+
+**Carrie Chowske:** Let me share that.
+
+**Carrie Chowske:** Let me share my screen so y can see what I'm looking at.
+
+**Carrie Chowske:** But, but it's this one and it's, it's a relatively newer one.
+
+**Carrie Chowske:** It's.
+
+**Carrie Chowske:** It's not anything crazy, but what I suspected, just kind of like looking at this and like what it was, and I wonder if there's two things here that make me think that could be kind of like happening.
+
+**Carrie Chowske:** And again, this is so small, but it's just something that got me thinking.
+
+**Carrie Chowske:** If we're going to experiment with the GEO stuff, like looking at these industries that tend to use tech a little more heavily, and that, you know, you might have your HR folks or like executives in those industries looking at our, you know, trends and things like that.
+
+**Carrie Chowske:** The sort of stuff that's more thought leadership than just, you know, the how-to in the weeds kind of stuff that we've, and we've talked about this a little bit before, Jessica, like focusing some more articles there.
+
+**Carrie Chowske:** But what was interesting was that what I just saw coming from the data that Claude released was like, once you start finding the roles that would align more with Yourco's like ICP, we're down into the like 0.01%.
+
+**Carrie Chowske:** But granted, I also suspect too that like, in terms of AI models that your blue collar workers are probably more chat GPT users than Claude users.
+
+**Carrie Chowske:** There's just something that says that to me, I, it might even just be the font on the page.
+
+**Carrie Chowske:** I don't know.
+
+**Carrie Chowske:** But that's my, I want to look into that more.
+
+**Carrie Chowske:** But anyway, if I fall down that rabbit hole today, I'll never get anything done.
+
+**Carrie Chowske:** But that's kind of what I'm thinking is just that if we're going to experiment with getting more LLM traffic, that it really might benefit us to like look at a couple, like an industry like logistics or an industry like manufacturing, where they're very tech focused anyway in their processes.
+
+**Carrie Chowske:** And so that we can, if we can do some thought leadership type stuff in there that might help both SEO and GEO there, rather than some of the more like top of funnel content that we've been doing.
+
+**Carrie Chowske:** I don't So just, it's just something to think about as we kind of like think about.
+
+**Carrie Chowske:** So just the more in-depth topics that we're doing.
+
+**Jessica Yip:** Yeah, so more, are you saying that it's also important to reference industry reports, benchmarks, so then it's like cross-referencing, especially like new release, maybe the industry people will go online and look it up and then ours will come up on the search.
+
+**Carrie Chowske:** Yeah, I think in terms of, I think in terms of, you know, like just visibility, I think it could be good.
+
+**Carrie Chowske:** And then, you know, since you're targeting decision makers anyway, you're targeting people in HR and higher, like, you know, those are the people that are going to be using, you know, a chat, you know, like chat, you know, something to be, to be searching things.
+
+**Jessica Yip:** And these are, these are the kind of things you do want to come up with.
+
+**Carrie Chowske:** You look like you're very knowledgeable in what they do.
+
+**Carrie Chowske:** And I think that is going to be more appealing.
+
+**Carrie Chowske:** And it's use, it's about like creating that useful content or thought provoking content and, and that.
+
+**Carrie Chowske:** Being the door in, the foot in the door, I guess, for those people.
+
+**Carrie Chowske:** And that's historically worked pretty well in SEO, but based on this one tiny little, and I mean tiny, sample of this, it seems like that might be the case in terms of generative search also.
+
+**Carrie Chowske:** But I don't know, Kyle, do you have any thoughts on it?
+
+**Carrie Chowske:** I know I'm just springing this on you.
+
+**Kyle Gaudreau:** Yeah, I would, I think I agree with a lot of it.
+
+**Kyle Gaudreau:** think it's an interesting take as well, what you mentioned around like differences of like Claude versus like ChatGBT.
+
+**Kyle Gaudreau:** So like, perhaps this audience is more apt to, you know, go to a ChatGBT.
+
+**Kyle Gaudreau:** Obviously, they have like a much bigger market share and just like general awareness and even like some people I've known who are like pretty avid users of ChatGBT don't even have a ton of awareness to, at times, to like perplexity or Claude or things like that.
+
+**Kyle Gaudreau:** So.
+
+**Kyle Gaudreau:** So I think there's still something to this for sure.
+
+**Kyle Gaudreau:** And, you know, I do think it's like compared to some like software-based businesses, more technical-based audiences, we probably don't see the same proportional rate of people going to these engines.
+
+**Kyle Gaudreau:** But anyways, yeah, it's interesting to, I don't know if I have much like helpful to add other than like maybe slightly validates my hunch a little bit.
+
+**Kyle Gaudreau:** But I'm not like, you know, we should, again, like I think the thing I said last week is like this, to me, the way I think about it is like it's not the reason to just throw it out the window and not experiment around it.
+
+**Kyle Gaudreau:** It's just about thinking about impact for effort and like where conversions can come from and things like that.
+
+**Kyle Gaudreau:** So I think we should continue to experiment and see what we can do.
+
+**Carrie Chowske:** That's I, that's kind of what I was thinking here is kind of like the, the short, the short summary of all this is, would be, I think that let's plan a couple of these like.
+
+**Carrie Chowske:** Thought leadership level kind of topics around either logistics or manufacturing, something like that, and see if that happens again, you know, just to see, because it's something we've already been doing a little bit of, and I think that would be a little more interesting.
+
+**Carrie Chowske:** And then that gives us space to then to kind of dig in more on, these like refreshes and making sure that we're, you know, really optimizing those pages that typically convert and are typically showing up in search for, you know, those key terms and stuff.
+
+**Jessica Yip:** So we can definitely experiment the thought leader piece.
+
+**Jessica Yip:** And then another thing I'm also thinking about is like, we have the monthly e-newsletter.
+
+**Jessica Yip:** I think having these thought leadership piece would be more interesting to share out, you know, we now have like a thousand people on the list, email list.
+
+**Jessica Yip:** So I think it's good to keep in mind, like.
+
+**Jessica Yip:** Having these thought leadership, we want to create these interesting content that, especially for these transitional industries, they might be a little bit behind.
+
+**Jessica Yip:** So being there and talk about it, be the source, where they get the information from, it would be great.
+
+**Jessica Yip:** But yeah, that's our goal.
+
+**Carrie Chowske:** Yeah, and that makes sense, too.
+
+**Carrie Chowske:** And we can kind of make sure that we include that newsletter CTA in those thought leadership kind of pieces, too.
+
+**Carrie Chowske:** So people do come at them from search or from, you know, ChatGPT or whatever, that they can also then get into that pipeline for you guys, hopefully.
+
+**Kyle Gaudreau:** I've been looking at the event data.
+
+**Kyle Gaudreau:** Would it derail us if I just show a couple things?
+
+**Kyle Gaudreau:** No, let's do it.
+
+**Kyle Gaudreau:** Because, yeah, some things in here just aren't really, like, standing out to me.
+
+**Kyle Gaudreau:** So I'll show you what I mean.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** So here's the events I'm looking, basically.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** The dates.
+
+**Kyle Gaudreau:** And then if we go to like, finish book a demo and I plot that, like these numbers are just like so small that like, to me, this is like, there's no conclusive data that there's something negative happening here.
+
+**Kyle Gaudreau:** Like there was one in January, you know, four, five, six was like the peak here, but also like two in August, one in September.
+
+**Kyle Gaudreau:** And so that one doesn't tell me a lot, unfortunately.
+
+**Jessica Yip:** So like the free finish click and then pro finish click and then the finish book a demo, so these three.
+
+**Kyle Gaudreau:** Well, I think it's like one of the things of like looking at some of these individuals can help us kind of like see it's like even here, it's like maybe down, but it's not like massively.
+
+**Jessica Yip:** It looks about right because, um, um,
+
+**Jessica Yip:** We do programming about, when we do programming about, they don't necessarily go through a website, so this is showing the conversions, like, from organic and paid.
+
+**Kyle Gaudreau:** This is telling, like, this almost looks like something broke, like, either the event broke, or something else happened, or, like, because, like, you know, basically, like, my, usually when I see something like this, let's look at it by day.
+
+**Jessica Yip:** Yeah, so, we recognize the free select, pro select click is broken, because we up, we recently updated the pricing page, so right now we're just referencing the finish click, and then finish, but with demo.
+
+**Kyle Gaudreau:** Yeah, yeah, mean, between these, I think it's, like, it's hard for me to really say you have, like, we'll look at the rankings, but, like, I'm not seeing anything here that I'm, like, oh, there's something.
+
+**Kyle Gaudreau:** I obvious that, like, you know, trending down.
+
+**Kyle Gaudreau:** It's just, you have, like, this is just, like, a one, a two a week here and there can wildly swing.
+
+**Kyle Gaudreau:** But, again, like, I'm not saying we won't look into this.
+
+**Kyle Gaudreau:** It's just I'm not saying anything that's, like, kind of obvious is broken or wrong.
+
+**Jessica Yip:** But maybe I'm missing something.
+
+**Jessica Yip:** Yeah, if you click both finish book a demo and free finish click to see if the graph shown and dropped in September.
+
+**Kyle Gaudreau:** Well, yeah, I mean, if we look at, like, this one, this is what we were looking at before.
+
+**Jessica Yip:** Like, yeah, you know, maybe pacing to six, you know, there was eight in June, nine.
+
+**Jessica Yip:** So it's not, it's like.
+
+**Jessica Yip:** Well, it's a drop, yeah.
+
+**Kyle Gaudreau:** Well, keep in mind, these are full months, right?
+
+**Kyle Gaudreau:** And so it's like this is pacing to six and, like, six isn't that far away from these numbers.
+
+**Kyle Gaudreau:** And so, like, again, like, I don't, it doesn't look, like, obviously, like, you know, maybe something, this is weeks, so this is this week, that's last week, this is this week, so that might be something to look into if, like, it's another tracking thing.
+
+**Kyle Gaudreau:** But, um, the last one was on September 4th, um, but you have other periods of time where we had, like, gaps, so, um, so anyways, like, again, we'll look into it, but, like, this isn't, like, uh, this isn't something where it's, like, oh, you know, because for us, it's hard for us to, like, really, uh, uncover trends if there isn't, like, notable, like, to dig deeper into, to, to trends if there isn't a notable top-level trend.
+
+**Kyle Gaudreau:** Um, but in terms of, like, you know, what GSC tells me, you know, you're actually
+
+**Kyle Gaudreau:** It's trending up in terms of traffic.
+
+**Kyle Gaudreau:** SEMrush, at least on the aggregate, is showing keyword rankings up.
+
+**Kyle Gaudreau:** So, you know, my hunch is like a bit of like seasonality, maybe a keyword or two moving around.
+
+**Kyle Gaudreau:** This isn't all things to like not take action.
+
+**Kyle Gaudreau:** It's more like where do we focus our time in terms of actions to drive conversion.
+
+**Jessica Yip:** Yeah, I think it's also a good practice to track keywords.
+
+**Jessica Yip:** Like the converting keywords.
+
+**Jessica Yip:** So every month, you know, so then we kind of know like, okay, this keyword, converting keyword, this top 50, you know, the positioning are not changing that much, you know, so the baseline is good.
+
+**Jessica Yip:** And then everything that we do on top would be, you know, when we look at the bigger trend, you know, the impression and clicks, we don't see any downtrend, right?
+
+**Jessica Yip:** But just the conversion is dropped.
+
+**Jessica Yip:** And it's happened before.
+
+**Jessica Yip:** happened before.
+
+**Jessica Yip:** And it's Beyond.
+
+**Jessica Yip:** Honest, like the first half of the month, and then usually a lot of conversion came the third or the fourth week.
+
+**Jessica Yip:** Not sure why, you know, but yeah, just thinking that going forward, would be good to tracking these keywords, you know.
+
+**Kyle Gaudreau:** I actually challenged that a bit.
+
+**Kyle Gaudreau:** My hot take is keyword tracking is kind of dead and been dead for a while.
+
+**Kyle Gaudreau:** There's so much that has changed in terms of semantic search and like different variants.
+
+**Kyle Gaudreau:** And the way I tend to think about it is more like the broader like themes and topics and then your landing pages and like what is moving up and down within that.
+
+**Kyle Gaudreau:** And so it's kind of like a more broader view on what's happening from a keyword perspective.
+
+**Kyle Gaudreau:** But if you track it, there's just so much ways for like noise to be introduced if you do keyword tracking, it does give you the full picture.
+
+**Kyle Gaudreau:** Like we can definitely look at it, but it's like pretty low on the list for like things that I put too much stock and value behind.
+
+**Jessica Yip:** So you don't do any keyword tracking?
+
+**Kyle Gaudreau:** And this is actually like pretty common now in the SEO space now.
+
+**Kyle Gaudreau:** Like you can look at like the Kevin Indigs of the world.
+
+**Kyle Gaudreau:** Like they talk about like, you know, a lot of folks have been talking about, you know, this shifting keywords for a bit.
+
+**Jessica Yip:** And yeah, but anyway, basic, you know, like, you know, keyword, I know that we are shifting away from keyword, but I think like it's still a baseline thing that.
+
+**Kyle Gaudreau:** Well, but it's more like, what does it tell you usefully?
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** And so that's, that's the crux of it.
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** It's like the usefulness of individual keyword tracking is nowhere near as high as it used to be in the aggregate.
+
+**Kyle Gaudreau:** There are certain, in the aggregate, there are certain trends you can unpack for sure.
+
+**Kyle Gaudreau:** And things of that nature.
+
+**Kyle Gaudreau:** But I'm thinking more about like topics and themes and your landing pages tends to be a more useful pulse on like what's actually happening.
+
+**Kyle Gaudreau:** Because like when you get down to an individual keyword level, then you'd have all these different, like you track plurals.
+
+**Kyle Gaudreau:** Those are singulars.
+
+**Jessica Yip:** When did you start tracking this?
+
+**Jessica Yip:** Right.
+
+**Jessica Yip:** what would
+
+**Kyle Gaudreau:** What other keyword did you put in?
+
+**Kyle Gaudreau:** And that's not the best reflection of how Google actually thinks about it.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** I think maybe as somebody who probably falls a little more in the middle in between both of your takes, too, is like just when I was doing some research yesterday, like noticing significant differences in like the semantics, right, of the top ranking pieces aren't using that exact phrase that the keyword is that I'm searching, right?
+
+**Carrie Chowske:** Like there's so many of them that aren't even close in terms of literal like words, but semantically they mean the same thing.
+
+**Carrie Chowske:** And that semantics has gotten so much better that, you know, Google is looking at that holistically.
+
+**Carrie Chowske:** And I suspect to do what they're doing with their AI overviews is having an influence on that.
+
+**Carrie Chowske:** I'm just seeing that much more now.
+
+**Carrie Chowske:** It's always been more like, you know, you could if you got close enough and you talked about things in multiple ways that that was good, but that now even more so like as long as you're talking about the same topic.
+
+**Carrie Chowske:** It seems to not make hardly any difference as long as you're, you know, hitting all the other marks of, you know, good SEO, at least from what I've seen most recently.
+
+**Carrie Chowske:** Again, that's anecdotal, but definitely a pattern that I've noticed even in the last couple of months.
+
+**Jessica Yip:** Why not both, you know, having semantic cluster and dynamic keywords, you know, there's no conflicting.
+
+**Jessica Yip:** In terms of priority, definitely, I think, like, mostly converting keywords, I already know that it's texting related, SMS employee related.
+
+**Jessica Yip:** Like, this would be the cluster, but then, like, having keyword would be, give us a deeper level, like, in terms of, because I'm just thinking from a pay, pay's perspective, it's all about keywords, you know, how much keyword you're buying.
+
+**Jessica Yip:** And pay is still a huge space right now, like, it's, you know, not for Oracle for now, but then, like, for mid-size or enterprises, like, pay is still a huge channel.
+
+**Jessica Yip:** I know if to convert.
+
+**Jessica Yip:** And I think like he was still.
+
+**Kyle Gaudreau:** But if you look at what's happening in paid, right?
+
+**Jessica Yip:** Like what's happening with.
+
+**Jessica Yip:** I know it's like, oh, right now.
+
+**Kyle Gaudreau:** Like you look at the top level keyword and it actually is incredibly misleading now of like what's happening underneath.
+
+**Kyle Gaudreau:** And so, you know, it's all kind of like, honestly, like in different ways related to just like the shifts and like how Google is like handled these variants and thought about them and that's not.
+
+**Kyle Gaudreau:** And so it's not like we never track keywords or this and that.
+
+**Kyle Gaudreau:** It's just like the general like usefulness and it like telling us something tends to be more tends to be tends to be more just like surface level in terms of like, you know, like, okay, like we feel good about this, but like it actually could be lying to us in a variety of ways.
+
+**Jessica Yip:** In some sense, but you can also like if you group the top 10 keywords, maybe give you some hints as well, right?
+
+**Carrie Chowske:** I, you know, it could be.
+
+**Carrie Chowske:** I definitely.
+
+**Carrie Chowske:** I
+
+**Carrie Chowske:** I pretty, I'd say pretty frequently, like every, every couple months now, I've been like, adding to what we're looking at and SEMrush to like kind of looking at things we've specifically targeted.
+
+**Carrie Chowske:** And so I mean, I definitely am still tracking specific keywords for you.
+
+**Carrie Chowske:** Like, that's still, you know, something we're doing, just to keep an eye on it.
+
+**Carrie Chowske:** Because I think, topically, we've gone after some things that there's multiple keywords.
+
+**Carrie Chowske:** And it's nice to see when you've got something that's hitting a few of those keywords, it means that you're doing something right topically, too.
+
+**Carrie Chowske:** So I think that that's where tracking specific keywords can be very useful, is when you're looking at them in aggregate, like if you've got these 10 keywords, that are all semantically, you know, similar, and you've got an article that's ranking for all of them that says that you've got good, you've got a much better chance.
+
+**Carrie Chowske:** So it's kind of where I've been using it a lot lately, to make sure that we're hitting, hitting those, those marks in a more holistic way.
+
+**Carrie Chowske:** So it's kind of like I said, I feel like I'm, I feel like I'm somewhere in the middle on that with like, I don't know what's joking about it.
+
+**Carrie Chowske:** But like,
+
+**Carrie Chowske:** Like that it's somewhere in between what both of you are saying, which is like, you know, the topic, the topical thing is, is even more important than I've, I've always been a fan of, of topical authority on things anyway.
+
+**Carrie Chowske:** I feel like that's always been a big boon for me in terms of what I've done with SEO, so.
+
+**Jessica Yip:** Yeah, definitely.
+
+**Carrie Chowske:** We'll keep, we'll keep an eye on it.
+
+**Carrie Chowske:** Like I said, it's nice to see that the only ones that are really getting lost are ones that aren't really directly relevant to use cases for, for, you know, they're, they're adjacent to, which is not, you know, again, you'd be, we'd rather keep them, but also that they're not, the intent is not in a direct one-to-one.
+
+**Carrie Chowske:** So that's all right.
+
+**Carrie Chowske:** I know we're over on time.
+
+**Carrie Chowske:** I just had a couple other quick, very quick things that I wanted to bring up and then we can maybe deal with those async.
+
+**Carrie Chowske:** Um, the site health issue, I'm going to just go ahead and say, we fixed it.
+
+**Carrie Chowske:** Um, there are only two pages that aren't indexing and those are ones that we recently.
+
+**Carrie Chowske:** Um, updated or published, and I'm just gonna keep doing what we need to do on there, but if you go through and look at, um, Search Console, we pretty much cleared them all out.
+
+**Carrie Chowske:** Anything that's still showing in there is either not up, accurately, like, current, if you click on it, it's, it's indexed, or it's because there's, like, a trailing, uh, slash, or something weird going on with the URL that it's looking at, but if you go to the one without the trailing slash, it's indexed, so.
+
+**Carrie Chowske:** Um, for the content mix, I want to make sure that we're just not overloading, like, Joe with templates.
+
+**Carrie Chowske:** Um, those are taking a lot of, like, um, time for him, so I just want to be aware that, like, if we're doing templates that we need to, like, replace another, um, article for the week with that, like, um, if it's just a short little, like, the ones we did for, like, onboarding, I think they're just, like, a quick little, like, downloadable, um, spreadsheet.
+
+**Carrie Chowske:** Those are pretty easy.
+
+**Carrie Chowske:** Those, I don't think we need to count as a separate one.
+
+**Carrie Chowske:** Those are, like, almost like a copy-paste thing that we can do.
+
+**Carrie Chowske:** Um, if we're doing those, like, longer 10-page ones, those take him quite a bit of time.
+
+**Carrie Chowske:** So I just want to make sure that we're balancing that out so we're not, you know, not harming the quality of other things that we're doing with that.
+
+**Carrie Chowske:** I added some new topics on open enrollment and kind of like surrounding benefits related stuff to the pool.
+
+**Carrie Chowske:** There's a bunch, there should be like, I want to say like there's like 10 to 15 new topics in there if you want to, if you want to take a look.
+
+**Carrie Chowske:** If not, they'll come up when I suggest them for, for the schedule, but there's just, there's some new stuff in there.
+
+**Carrie Chowske:** Um, and then a couple other little things, um, the automatic staging thing came up again about us, like auto publishing.
+
+**Carrie Chowske:** Um, it would still not obviously publish.
+
+**Carrie Chowske:** I know there was some concern over access to that.
+
+**Carrie Chowske:** So, um, we can, we can move that to another week.
+
+**Jessica Yip:** It's not urgent or anything, but just wanted to kind of, we looked into it.
+
+**Jessica Yip:** Our engine team, like talk to your tech team.
+
+**Jessica Yip:** I think the conversation was about like, we can't, um, once we got an SS, you guys have the publishing right for.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** The entire website.
+
+**Jessica Yip:** And we need to do some customization and currently just not a priority for a team.
+
+**Jessica Yip:** Yeah.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** So it's okay.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** That's not a problem.
+
+**Carrie Chowske:** That's not a problem.
+
+**Carrie Chowske:** I'll let them know they can hold on that one for now.
+
+**Carrie Chowske:** And then my only other thing was like related to the minor stuff we were talking about with like the MDashes and then like the non-desk versus deskless versus frontline.
+
+**Carrie Chowske:** I think we're in agreement on the MDash thing.
+
+**Jessica Yip:** I left you a comment on that.
+
+**Carrie Chowske:** And then as far as the non-desk and frontline thing, I agree with what you and Kyle said last week about the frontline.
+
+**Jessica Yip:** think we should keep using deskless and non-desk as a secondary, but put the emphasis back on our course.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** I keep commenting on the new articles.
+
+**Carrie Chowske:** I start using frontline workers and I finally get a green light.
+
+**Jessica Yip:** I'm going to change the website across.
+
+**Jessica Yip:** We're going to change it to frontline workers.
+
+**Kyle Gaudreau:** Wow.
+
+**Kyle Gaudreau:** Yeah.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** That's step.
+
+**Jessica Yip:** I'm going to change it.
+
+**Jessica Yip:** Crossed all the way.
+
+**Carrie Chowske:** So now we can use the term frontline workers, That's awesome.
+
+**Carrie Chowske:** That's awesome.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** And I think, like I said, I think keeping that in there is like a clarifier of what frontline might mean or just because you've done some work there, you don't want to lose any of the any traction that you might have with it.
+
+**Carrie Chowske:** But that, you know, it just gives us another option for ways to word it.
+
+**Carrie Chowske:** Again, talking about the semantic relationship of terms.
+
+**Carrie Chowske:** But yeah, I think that's a great, you know, that's great that you can figure that.
+
+**Carrie Chowske:** It's a great name.
+
+**Carrie Chowske:** Yeah, yeah, yeah.
+
+**Carrie Chowske:** Awesome.
+
+**Carrie Chowske:** Okay, well, that's all I had.
+
+**Carrie Chowske:** Like I said, we're just we're out ahead still on deliverables for the week.
+
+**Carrie Chowske:** So if you when you get those reviewed, we'll get them staged.
+
+**Carrie Chowske:** think I've already got two out there already.
+
+**Carrie Chowske:** So we should have everything ready to go well in advance of Friday.
+
+**Carrie Chowske:** So just let us know if you have any questions.
+
+**Jessica Yip:** All right.
+
+**Carrie Chowske:** Okay.
+
+**Jessica Yip:** Nice to see you guys.
+
+**Jessica Yip:** Yeah.
+
+**Jessica Yip:** Bye.
+
+**Jessica Yip:** Kyle.
+
+**Kyle Gaudreau:** Bye.
+
+**Kyle Gaudreau:** Bye.

@@ -1,0 +1,794 @@
+# Hypergrowth <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-09-18
+time: 18:59 UTC
+duration: 26 minutes
+organizer: jenn@growthxlabs.com
+participants: Jenn Peters, Guillaume Cabane, Giulia Caracausi, Megan Dickey
+fathom_recording_id: 88314558
+fathom_url: https://fathom.video/calls/413661770
+share_url: https://fathom.video/share/ydJLjsHX2qxDV6FFAs_rzxkN-Yb1vWph
+source: fathom
+enriched_on: 2026-03-03 16:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Hypergrowth and GrowthX aligned on refining AI-generated content to avoid repetition and improve engagement through controversial hot takes and data injection. The team spent 45 minutes reworking the "End of Browser" piece into an e-commerce-focused narrative and planned to publish it within 24 hours. Next priority: developing "The Effect of Craziness," an analysis of what traits (creativity, execution speed, analytical rigor) make growth leaders successful versus pushing marketers into low-risk, low-creativity career traps.
+
+---
+
+## Context
+
+Hypergrowth, led by Guillaume Cabane, is collaborating with GrowthX to produce content pieces that blend controversial perspectives with data-driven insights for LinkedIn distribution. The partnership involves GrowthX's Jenn Peters managing the refinement workflow and Megan Dickey coordinating content strategy, while Hypergrowth's Giulia Caracausi handles publishing logistics. This weekly sync reviews content in progress, addresses AI generation challenges (tendency to repeat formats), and prioritizes the next pieces in the pipeline. The team is testing audience reception to different content angles and tones before committing to a publication schedule.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** AI-generated content iteration requires intensive human refinement — 45+ minute sessions per piece are typical. Successful pieces balance controversy with specificity (data points, examples). The team is building training sets to improve AI prompt performance over time.
+
+- **To CheckThat / AI Visibility:** Discussion of multiple perspectives on AI in SEO (Eli Schwartz vs. Kevin Indig's AEO positioning) indicates interest in presenting balanced views of AI trends. Potential opportunity for CheckThat positioning as part of SEO/AEO debate content.
+
+- **To GrowthX Business Development:** Hypergrowth content is performing well on LinkedIn (first piece "worked really well"), establishing thought leadership on growth topics. GrowthX podcast content underperformed, signaling potential shift away from media-heavy posts. Continuous content testing and refinement positions Hypergrowth as a strong, creative partner.
+
+---
+
+## Overview
+
+- Team is refining AI-generated content to ensure uniqueness and avoid repetition across pieces
+- Focus on injecting controversy/hot takes and data points to improve engagement
+- Next content piece to focus on: "The effect of craziness" discussing traits of successful growth leaders
+- Exploring presenting multiple perspectives on topics (e.g. AI in SEO) to encourage critical thinking
+
+---
+
+## Key Topics
+
+### Content Refinement Process
+
+  - Jenn reworked a piece that was too similar to another, focusing on Guntas' perspective
+  - Team spent 45 minutes refining "The End of Browser" piece, angling it towards e-commerce
+  - Planning to split related content into series (e.g. e-commerce focus vs GTM/Martech focus)
+  - Aiming to publish refined "End of Browser" piece by tomorrow
+  - Continuous refinement process as the AI learns from feedback and iterations
+
+### Content Performance and Strategy
+
+  - First piece performed well; team analyzing why (controversial elements likely a factor)
+  - GrowthX podcast post didn't perform as expected; investigating reasons (media inclusion?)
+  - Balancing controversial "hot takes" with maintaining professional reputation
+  - Exploring strategy of presenting multiple perspectives on topics (e.g. AI in SEO debate)
+
+### Upcoming Content Pieces
+
+  - Team prioritizing "The effect of craziness" piece about traits of successful growth leaders
+  - G provided detailed outline: creative "artists", fast execution, rigorous analysis
+  - Potential to split content into who succeeds vs. who fails in growth roles
+  - Considering piece on marketers being pushed into "career traps" of low-risk, low-creativity roles
+
+### AI-Generated Content Challenges
+
+  - Addressing AI tendency to repeat successful formats/phrasings
+  - Injecting data points and personal anecdotes to enhance uniqueness
+  - Balancing efficiency of AI generation with need for human refinement and oversight
+
+---
+
+## Action Items
+
+**Guillaume Cabane (Hypergrowth)**
+- Finalize "end of browser" piece — add data, references, final tweaks
+
+**Giulia Caracausi (Hypergrowth)**
+- Publish "end of browser" piece tomorrow after G's final edits
+
+**Jenn Peters (GrowthX)**
+- Prepare outline for "The effect of craziness" piece using G's transcript notes
+
+---
+
+## Transcript
+**Megan Dickey:** How are you doing?
+
+**Jenn Peters:** It's good. How are you?
+
+**Giulia Caracausi:** I'm good. It's getting cold here now.
+
+**Jenn Peters:** Oh, yeah. Where are you again?
+
+**Giulia Caracausi:** I'm in Europe.
+
+**Megan Dickey:** I'm in London.
+
+**Jenn Peters:** Yeah, it's the same as where I live. The leaves are changing and it's starting to look autumn and cozy.
+
+**Giulia Caracausi:** I love it too.
+
+**Jenn Peters:** Hey, G, you look like you're in a spaceship.
+
+**Guillaume Cabane:** Yeah, it's because I left the door just a bit open so you can see the red line that is a marker for the kids to tell them not to enter.
+
+**Jenn Peters:** I love it. Very cool.
+
+**Megan Dickey:** Yeah, so we definitely wanted to check in about the piece that felt very similar to the other one. Jenn has reworked it, but just for clarity, so that post came from...
+
+**Guillaume Cabane:** I saw your notes, yeah.
+
+**Megan Dickey:** So, what are you thinking about that?
+
+**Guillaume Cabane:** I understand why it does that.
+
+**Megan Dickey:** Yeah.
+
+**Guillaume Cabane:** right.
+
+**Guillaume Cabane:** Yeah.
+
+**Guillaume Cabane:** It makes a lot of sense why that happens.
+
+**Guillaume Cabane:** The question is, what do we do?
+
+**Guillaume Cabane:** How do we handle it?
+
+**Guillaume Cabane:** What do we do with it is the question.
+
+**Guillaume Cabane:** And what's our strategy also?
+
+**Guillaume Cabane:** What should be our strategy when that happens?
+
+**Guillaume Cabane:** Do we want to prevent it?
+
+**Guillaume Cabane:** Do we want to try and enforce it?
+
+**Guillaume Cabane:** Which might have some other downsides.
+
+**Guillaume Cabane:** Do we want to let it be?
+
+**Guillaume Cabane:** And if so, how do we use it?
+
+**Guillaume Cabane:** For example, on our side of Julia, think, hey, do we do it back to back?
+
+**Guillaume Cabane:** But it's very close.
+
+**Guillaume Cabane:** Do we sandwich it?
+
+**Guillaume Cabane:** Yeah, should we stagger with something else that's different and then come back to it?
+
+**Guillaume Cabane:** Because people, you know, that's kind of, yeah, where we are.
+
+**Jenn Peters:** Yeah.
+
+**Jenn Peters:** Did you look at, Julia, did you have a chance to look at the newest version?
+
+**Jenn Peters:** Was it any better?
+
+**Jenn Peters:** Or was it still quite similar?
+
+**Giulia Caracausi:** No, I think it's definitely.
+
+**Giulia Caracausi:** think it's
+
+**Giulia Caracausi:** Better, and I could see that it's speaking from Gondos, as you were saying.
+
+**Jenn Peters:** Yeah, was like, wait a second.
+
+**Giulia Caracausi:** No, but it's good, and I think it's nice overall.
+
+**Giulia Caracausi:** I feel that it kind of, it's similar, it's close, but it kind of complements that other piece that we didn't really explore in the other one, which is the creativity side.
+
+**Giulia Caracausi:** So I think it's definitely a usable piece.
+
+**Giulia Caracausi:** So, again, I'm not sure whether stack it one after the other is going to amplify or kind of like shadow each other and kind of not double down on the topics.
+
+**Giulia Caracausi:** So I think it's nice to probably put something in between, which is what we were considering with G, and then come back to this one.
+
+**Giulia Caracausi:** So kind of like alternate topics.
+
+**Giulia Caracausi:** At the same time, I think if we look at this one, it's interesting how compared to the other piece that was very close, because we kind of switched some of the topics.
+
+**Jenn Peters:** Mix it.
+
+**Jenn Peters:** It becomes a little bit more gentle, little bit less controversial compared to the other pieces.
+
+**Jenn Peters:** So it's all these of exercises that are very interesting because like even the tone is like whiter.
+
+**Jenn Peters:** Yeah, yeah.
+
+**Jenn Peters:** I noticed that because I basically was telling it like don't, because what it was doing was it was saying the exact same thing, like the same sentence structure and everything, but just like swapping out a few words and I was like, okay, do not do this.
+
+**Jenn Peters:** And then, yeah, it was interesting to see different things that it did.
+
+**Jenn Peters:** And like, you know, I think in the transcript or in the podcast, Guntas said something like, oh, I'm lazy, I'm a marketer, I'm lazy or something like that.
+
+**Jenn Peters:** And then like it took that and was like, you know, made this like kind of overarching statement with G saying like marketers are lazy.
+
+**Giulia Caracausi:** And I was like, oh, you know, it's kind of a hot take.
+
+**Giulia Caracausi:** No, but I think it's so nice because it's the kind of peppery thing that, you know, catches your attention.
+
+**Giulia Caracausi:** So it's, and again, Guntas and G, even though they have very different, different like styles, which I don't think that.
+
+**Giulia Caracausi:** That kind of injection is a problem, also because we are publishing this on our HyperGrowth-Barnes sub-stock.
+
+**Giulia Caracausi:** Exactly.
+
+**Giulia Caracausi:** But no, we really appreciate you going through this exercise again and again, because it really helped us.
+
+**Giulia Caracausi:** We do.
+
+**Giulia Caracausi:** Understand.
+
+**Giulia Caracausi:** So thank you so much.
+
+**Giulia Caracausi:** We wanted to reinforce this.
+
+**Giulia Caracausi:** We were looking at your iteration, and we were like chatting our one-on-ones, and I was like, okay, okay, we're asking again.
+
+**Guillaume Cabane:** Yeah, no, please do, anytime.
+
+**Jenn Peters:** And we spent...
+
+**Guillaume Cabane:** I'd say a good 45 minutes on Wednesday, doing, I think, half of the piece on the end of browser, the world is changing, doom is coming, and all of that.
+
+**Guillaume Cabane:** Again, like, with a similar, like, approach of, you know, there's, again, two pieces, obviously, right, that are similar.
+
+**Guillaume Cabane:** But that's...
+
+**Guillaume Cabane:** On that one, I think we found a way on how to split them.
+
+**Guillaume Cabane:** We found a way.
+
+**Guillaume Cabane:** We angled one.
+
+**Guillaume Cabane:** Towards really the e-com side of things, e-commerce side of things.
+
+**Guillaume Cabane:** And I put a little disclaimer at the top.
+
+**Guillaume Cabane:** And it's not published yet, right?
+
+**Jenn Peters:** I put a little disclaimer that this is part of a series.
+
+**Jenn Peters:** And so one is on e-commerce.
+
+**Guillaume Cabane:** then I'm splitting the other one on a GTM Martech.
+
+**Guillaume Cabane:** And I think even though some of the core arguments are similar, the examples are different.
+
+**Guillaume Cabane:** And so the story are close, but the content is actually different.
+
+**Giulia Caracausi:** Yeah, we're talking about the visible funnel piece for context.
+
+**Giulia Caracausi:** So the first one is the end of the browser, which is the pieces in progress.
+
+**Giulia Caracausi:** And in the queue is the invisible funnel.
+
+**Giulia Caracausi:** So the idea would be probably to do the end of the browser, then decide whether we want to push again the one on the marketing org, and then go back to the other piece of the series.
+
+**Giulia Caracausi:** So they're kind of like changing topics that we were...
+
+**Giulia Caracausi:** I do like the sound of it for a coach.
+
+**Jenn Peters:** Yeah.
+
+**Jenn Peters:** That's great.
+
+**Jenn Peters:** Yeah, I mean, I think it'll be like a refining process as we go along, and the thing is, is like the project learns, you know, as we continue and give it notes and things.
+
+**Jenn Peters:** Like, I think in some cases, that's the negative thing, because then it over-indexes on, like, well, this worked the last time, let me repeat that and do it all over again.
+
+**Jenn Peters:** But I think, yeah, we're just, you know, as we make refinements, as we go along, things will improve for sure.
+
+**Giulia Caracausi:** I was also thinking something.
+
+**Jenn Peters:** Sorry, what were you saying?
+
+**Megan Dickey:** Oh, no, just to be clear, so you've gone and made changes to the end of the browser piece and then the invisible funnels piece?
+
+**Giulia Caracausi:** And, no, we started with the end of the browser.
+
+**Giulia Caracausi:** So, we were thinking about the story arched.
+
+**Giulia Caracausi:** So, we were looking at the two PCs, and we were deciding, how do we want to kind of tweak that, them, so that one goes into a direction, and the other one is still close, and it goes into another direction.
+
+**Giulia Caracausi:** But we have worked more intensively.
+
+**Megan:** on the end of the browser one.
+
+**Giulia Caracausi:** And I think the missing piece that you could have not have like in your input is the data part, which is something very close to G preferences.
+
+**Giulia Caracausi:** But like sometimes we don't.
+
+**Giulia Caracausi:** So we have snippets with little data.
+
+**Giulia Caracausi:** So we're trying to inject that.
+
+**Guillaume Cabane:** I think we'll look at the output.
+
+**Guillaume Cabane:** And once we see the output, again, I think we need to do this exercise like, you know, half a dozen times.
+
+**Guillaume Cabane:** So we can see the proposed input, the actual output, my actual, like, refined work.
+
+**Guillaume Cabane:** then we, you know, retrain the model, like, you know, initial prompt and initial output and actual, like, published piece.
+
+**Guillaume Cabane:** Yeah.
+
+**Guillaume Cabane:** And to see, you know, like, you know, tone.
+
+**Guillaume Cabane:** And so that's why I'm putting more effort than I know I should right now on those because I want to train it right.
+
+**Guillaume Cabane:** And I think I want to have a training set that is correct.
+
+**Guillaume Cabane:** And so I want to do it right.
+
+
+**Guillaume Cabane:** And I think, so the piece we did, the first piece we did worked really well.
+
+**Guillaume Cabane:** And I'm trying to understand why it worked well versus other things.
+
+**Guillaume Cabane:** For example, the GrowthX podcast that I put did not perform.
+
+**Guillaume Cabane:** Is it because there's a media there?
+
+**Guillaume Cabane:** Is it because, you know, it's always hard to figure out, you know, what the gods of the LinkedIn algorithm like are deciding here.
+
+**Guillaume Cabane:** But I think the controversial part is definitely part of the tone or like controversy is part of the tone that the audience wants, for sure.
+
+**Jenn Peters:** Yeah, for sure.
+
+**Jenn Peters:** Hot takes are always going to be something people want to engage with.
+
+**Guillaume Cabane:** Always dangerous also.
+
+**Jenn Peters:** Hot business takes are always dangerous.
+
+**Jenn Peters:** Showing that line, right?
+
+**Jenn Peters:** That fine line.
+
+**Guillaume Cabane:** Especially in this day and age.
+
+**Jenn Peters:** Right.
+
+**Jenn Peters:** We're going to do our best not to get you canceled, G.
+
+**Jenn Peters:** Yes.
+
+**Jenn Peters:** Yes.
+
+**Jenn Peters:** Yes.
+
+**Jenn Peters:** Please.
+
+**Guillaume Cabane:** Yes.
+
+**Guillaume Cabane:** It's good that I'm not the late-night team.
+
+**Jenn Peters:** TV hosts.
+
+**Jenn Peters:** Yeah, because apparently that's like...
+
+**Guillaume Cabane:** It's a dangerous job these days.
+
+**Jenn Peters:** It is.
+
+**Guillaume Cabane:** But I'm keeping to like, but you know, this is very tricky.
+
+**Guillaume Cabane:** I'm trying to keep to GTM and Martek, but you never know.
+
+**Jenn Peters:** Yeah, you never know.
+
+**Jenn Peters:** might like first TV hosts, next who, right?
+
+**Guillaume Cabane:** Yeah, yeah, yeah.
+
+**Jenn Peters:** So I know, gotta keep the comments straight.
+
+**Jenn Peters:** Yeah, for sure, for sure.
+
+**Jenn Peters:** Yeah, that's great.
+
+**Jenn Peters:** I can't remember what I was gonna say on that point now, but yeah, I think it was kind of along the same thing is just that like, I think, yeah, if you could just share the published, the publishable version of that one, it's ready.
+
+**Guillaume Cabane:** It should be ready.
+
+**Guillaume Cabane:** Julia, what do you say?
+
+**Guillaume Cabane:** Another 45 minute session probably before we get there?
+
+**Giulia Caracausi:** I don't think so.
+
+**Giulia Caracausi:** So my goal is to have this published like tomorrow.
+
+**Giulia Caracausi:** If we can, we'd still like to try and see the changes.
+
+**Giulia Caracausi:** But ideally, that's what we want to do.
+
+**Giulia Caracausi:** I think we are halfway through it.
+
+**Giulia Caracausi:** And there are some injections for the injections that we wanted to do in terms of data and kind of references.
+
+**Giulia Caracausi:** So that's probably part of the job that we can do tomorrow.
+
+**Giulia Caracausi:** But yes, that was the plan.
+
+**Giulia Caracausi:** And then I thank you also, Jenn, for slightly related sharing the other piece.
+
+**Jenn Peters:** So, because you did work on the advisory piece, I think.
+
+**Jenn Peters:** Was that all useful or in the right direction?
+
+**Giulia Caracausi:** It was very useful, I think, because we were looking at that.
+
+**Giulia Caracausi:** originally, so this is some of the things that she said in the past.
+
+**Giulia Caracausi:** And some of these were reworked by someone else and just put that in writing.
+
+**Giulia Caracausi:** This is the input that I gave you.
+
+**Giulia Caracausi:** So it was interesting to see how it kind of, like, tricked some of...
+
+**Giulia Caracausi:** The tone, I was like reworking that material.
+
+**Giulia Caracausi:** At the same time, like this will take definitely longer.
+
+**Giulia Caracausi:** So I just wanted to give you a heads up.
+
+**Giulia Caracausi:** But the reason why it's not mentioned in here is because this is a piece that she is very precious about, roughly so.
+
+**Giulia Caracausi:** Because it's basically, it's something that we will use to explain advisory, to explain his experience, to talk about HyperGrowth partners.
+
+**Giulia Caracausi:** So we'll definitely need a lot of back and forth internally, so that we all align on the narrative.
+
+**Giulia Caracausi:** But I did wanted to mention, thank you for reworking that, because it's definitely a great stepping stone for us to kind of do the final tweaks and maybe like push it in, like cut it into different pieces.
+
+**Giulia Caracausi:** So I did want to mention that before we forgot.
+
+**Jenn Peters:** Yeah, no worries at all.
+
+**Jenn Peters:** If there's anything else I can do to help on pieces like that, then definitely just reach out anytime.
+
+**Jenn Peters:** Thank you.
+
+**Jenn Peters:** Megan, did you want to touch on?
+
+**Megan:** These other pieces here?
+
+**Megan:** Yeah, yeah.
+
+**Megan:** So, yes, so right here.
+
+**Megan:** So these are other potential blog posts that we've identified.
+
+**Megan:** So, like, based on that podcast that you did with GrowthX, we also identified these as potential blog posts that we could use the transcript for.
+
+**Megan:** And so, yeah, they were just, let's see, yeah, like from Google to GPT.
+
+**Megan:** So, like, if you want to maybe look at these and determine, like, okay, like, is this a path that we want to pursue?
+
+**Megan:** Because these are all, these are all definitely options.
+
+**Guillaume Cabane:** And then, like, again, if there's too much similarity there.
+
+**Guillaume Cabane:** Yeah, I was going to say, I think first one is tricky because it's kind of what we're covering right now.
+
+**Guillaume Cabane:** I think it's interesting, but we're kind of covering that one.
+
+**Guillaume Cabane:** So we can probably return to that.
+
+**Guillaume Cabane:** That's, and I'll see.
+
+**Guillaume Cabane:** So I, yeah, I might have somebody else who might be a benefit for that.
+
+**Guillaume Cabane:** The second death of the framework.
+
+**Guillaume Cabane:** I like, so let's start with the ones I want, actually.
+
+**Guillaume Cabane:** I want number four.
+
+**Giulia Caracausi:** Number four I I knew you were going to say that.
+
+**Guillaume Cabane:** Is it the effect of craziness?
+
+**Guillaume Cabane:** I told you, Giulia, you can do all the calls instead of me.
+
+**Giulia Caracausi:** I told you, you just don't want to do them.
+
+**Guillaume Cabane:** No, no.
+
+**Guillaume Cabane:** Especially with those new AI models, you could just, like, you know, have my face if you need bread and butter.
+
+**Guillaume Cabane:** This one, the number four is your bread and butter.
+
+**Megan:** Okay, cool.
+
+**Giulia Caracausi:** I think so.
+
+**Guillaume Cabane:** I think we should go to number four.
+
+**Megan:** Okay, cool.
+
+**Guillaume Cabane:** I think number four is interesting.
+
+**Guillaume Cabane:** And I think we could take an angle there if we wanted around, I don't
+
+**Guillaume Cabane:** Or if it's a title and angle, but like, that's the profile I recommend for hiring great people for the head of growth role, VP growth, head of growth, which is a common question I get.
+
+**Guillaume Cabane:** And what kind of persona profile succeeds in those roles, right?
+
+**Guillaume Cabane:** So what are you looking for?
+
+**Guillaume Cabane:** So is this the what and this is the why?
+
+**Guillaume Cabane:** What you're looking for is that you're looking for people.
+
+**Guillaume Cabane:** And I think the way I describe it is what you have here, right?
+
+**Guillaume Cabane:** It's like they're an artist.
+
+**Guillaume Cabane:** At the core, they're an artist.
+
+**Guillaume Cabane:** They see things differently.
+
+**Guillaume Cabane:** I have, if you want to, I also, like I want to say in most of my pieces, generally, I start with a personal story, which you can't come up with, but like a little story.
+
+**Guillaume Cabane:** Um, I know it's commonplace these days and everybody likes to point that out, but I want
+
+**Guillaume Cabane:** The thing that I'm true to myself from the very beginning, and I enjoyed maybe to a fault being different.
+
+**Guillaume Cabane:** I worked at Apple in the early days, and I have the original, the OG Apple, I think, different campaign posters here.
+
+**Guillaume Cabane:** It's a campaign that really resonated with me, really, when I was a teenager.
+
+**Guillaume Cabane:** And I think it really had an influence on me, and, you know, all of the, I came, I grew up with all of the, this era of geeks in the late 90s with the match tricks as movies and all that thing.
+
+**Guillaume Cabane:** Anyways, so the people you're looking for are people who are the core, all like that.
+
+**Guillaume Cabane:** They are artists, they think differently.
+
+**Guillaume Cabane:** They come up with unique creative solutions to problems, because that's what works, right?
+
+**Guillaume Cabane:** And I think we've got other pieces, like why being different works, because, you know, if you're doing the same thing as everyone else.
+
+**Guillaume Cabane:** Then the only differentiator is capital, and that's terrible.
+
+**Guillaume Cabane:** If the only way you win is by spending more money, that's failure of marketing.
+
+**Guillaume Cabane:** But the flip side of that is you got to be scientifically rigorous in the analysis of the outcome.
+
+**Guillaume Cabane:** So you do a lot of experiments.
+
+**Guillaume Cabane:** You do a lot.
+
+**Guillaume Cabane:** You come up with a lot of ideas, a lot of creative ideas.
+
+**Guillaume Cabane:** You execute them, and you analyze them.
+
+**Guillaume Cabane:** So it's maybe even like the team must have those three pillars.
+
+**Guillaume Cabane:** Very, very creative to the point of craziness.
+
+**Guillaume Cabane:** And we can sum up.
+
+**Guillaume Cabane:** I can share examples.
+
+**Guillaume Cabane:** Like there's like some things are like really out there.
+
+**Guillaume Cabane:** Then there's an execution piece.
+
+**Guillaume Cabane:** need to be able to shift them very fast at the lowest effort, lowest cost possible.
+
+**Guillaume Cabane:** Then you need to be very good at analyzing and being rigorous about, hey, let's assess.
+
+**Guillaume Cabane:** Let's be true to ourselves.
+
+**Guillaume Cabane:** They're like, is this working?
+
+**Guillaume Cabane:** Yes or no.
+
+**Guillaume Cabane:** And we've got to be ready to trash the piece of art if it doesn't work.
+
+**Guillaume Cabane:** Which is hard, right?
+
+**Guillaume Cabane:** If you can't do those things, it's hard.
+
+**Guillaume Cabane:** It's almost impossible to have that in one person because that is being schizophrenic, right?
+
+**Guillaume Cabane:** You're either an artist or you're scientifically rigorous.
+
+**Guillaume Cabane:** It's hard to ask somebody to be both, right?
+
+**Guillaume Cabane:** But that's what you're looking for.
+
+**Guillaume Cabane:** And so that's why you generally have teams with different people like that, right?
+
+**Guillaume Cabane:** But obviously, the people who can do both or even all three, which, you know, I do one and I'm really creative.
+
+**Guillaume Cabane:** I'm so much rigorous, but I don't execute well, obviously.
+
+**Guillaume Cabane:** If somebody could do all three, like, they'd be fantastic.
+
+**Jenn Peters:** There's some people like that, it's very rare.
+
+**Jenn Peters:** Robots.
+
+**Guillaume Cabane:** So I think there's a piece that defines who succeeds well in that role.
+
+**Guillaume Cabane:** think it's a common question.
+
+**Guillaume Cabane:** And it's why we come up, it's why I structure the teams that way, all right?
+
+**Guillaume Cabane:** It's why I need to have, like...
+
+**Guillaume Cabane:** Data science, you know, at the minimum data analysis, the resources on the team.
+
+**Guillaume Cabane:** It's why I have this cadence of like brainstorms every two weeks to come up with those and celebrate, you know, the unique ages, even if they don't succeed.
+
+**Guillaume Cabane:** I celebrate the fact that we were able to carve the idea and we shipped it and we tried it.
+
+**Guillaume Cabane:** And that brings back to the piece on like why CMOs don't like failing and the whole thing around like the cost of failure and series A and the whole thing, why they don't want to take risk and why they don't find outliers.
+
+**Guillaume Cabane:** Now, that was that piece.
+
+**Guillaume Cabane:** like, hey, they don't take risk.
+
+**Guillaume Cabane:** And now we have this other piece, which is like, that's who doesn't work out and why we push people, which also like Jen and Megan, you know, if want to divide the second piece on like, you know, the profile of like why we're pushing people marketers.
+
+**Guillaume Cabane:** Because the way we rewrote it, which I think is getting there, where we're pushing people into like a career trap, right?
+
+**Guillaume Cabane:** It's because.
+
+**Guillaume Cabane:** Maybe that's an illusion there that I'm buying myself here.
+
+**Guillaume Cabane:** I think people go in marketing because they want to be creative and do great campaigns and do great work.
+
+**Guillaume Cabane:** There's aspiration towards that.
+
+**Guillaume Cabane:** At least for some of the people, maybe not for everyone, there's aspiration.
+
+**Guillaume Cabane:** Just like there's aspiration for journalists and writers to put out great pieces, not to put yet another review of a tech product.
+
+**Guillaume Cabane:** Unfortunately, the forces of the markets, they are what now.
+
+**Guillaume Cabane:** So that's what we want, but we push them into low risk, low creativity.
+
+**Guillaume Cabane:** And because it doesn't work, then they're also not scientifically regressed.
+
+**Jenn Peters:** Yeah.
+
+**Guillaume Cabane:** That's my rant.
+
+**Jenn Peters:** There you go.
+
+**Jenn Peters:** I think that is a really interesting topic.
+
+**Jenn Peters:** And I think that we can use, yeah, just what you said here as well to kind of inform that piece.
+
+**Jenn Peters:** I'm wondering if we...
+
+**Jenn Peters:** We want to wait until you give the notes on the previous piece to help it kind of make this, we don't, then we can.
+
+**Guillaume Cabane:** We can do that.
+
+**Guillaume Cabane:** I think differentiating, like, making like a mirror side of like, you know, who fails and why, but it's just like who succeeds and why, and who you should hire, I think is interesting.
+
+**Guillaume Cabane:** In the same way that I was thinking, I have, I just talked with two friends in SEO recently that you know well.
+
+**Guillaume Cabane:** One is Eli Schwartz and the other one is like Kevin Indig.
+
+**Guillaume Cabane:** And it's funny because they're taking two opposite sides of the same bet.
+
+**Guillaume Cabane:** Kevin is going all in and like, A-G-E-O, A-I-O, and like, he's all in on that.
+
+**Guillaume Cabane:** And Eli Schwartz is like, nah, all this is crap.
+
+**Guillaume Cabane:** It's going to resolve back and like, just keep on SEO.
+
+**Guillaume Cabane:** I was, I was thinking like, cause I, I, I'm close to both of them.
+
+**Guillaume Cabane:** We should like, you know, um, but both sides.
+
+**Jenn Peters:** Make them battle.
+
+**Guillaume Cabane:** Not like a battle, but I read a journal called International Courier.
+
+**Guillaume Cabane:** It's a translation of papers from the entire world.
+
+**Guillaume Cabane:** It's a weekly.
+
+**Guillaume Cabane:** It's really good.
+
+**Guillaume Cabane:** And they always have one argument with both sides of the same argument at the beginning of the paper from different places in the world.
+
+**Guillaume Cabane:** It's very interesting to just see the perspective of like, you know.
+
+**Jenn Peters:** Absolutely.
+
+**Jenn Peters:** Because we don't get that as much anymore, you know.
+
+**Giulia Caracausi:** Like, we're being filtered, like, depending on what we're reading, what kind of media.
+
+**Jenn Peters:** It's always kind of going in one direction.
+
+**Jenn Peters:** So to kind of, like, present those two things and be like, hey, you educate yourself and you make up your mind.
+
+**Guillaume Cabane:** Like, you know, what do you think about this?
+
+**Guillaume Cabane:** We have this and we have this, you know.
+
+**Jenn Peters:** Like, use your critical thinking skills that we are using in this world.
+
+**Guillaume Cabane:** And, you know, in that case here, I don't think there's a right or wrong.
+
+**Guillaume Cabane:** I think those are two interesting possible fuses.
+
+**Guillaume Cabane:** Use this.
+
+**Guillaume Cabane:** Of the future, right?
+
+**Guillaume Cabane:** And, you know, you take your bet.
+
+**Guillaume Cabane:** And the same way that the more I'm rewriting the piece on the invisible funnel and the end of e-commerce, the more I'm putting a disclaimer of why I'm this.
+
+**Guillaume Cabane:** And I think it's an effort in perspective, prospections.
+
+**Guillaume Cabane:** Like, I'm trying to, I'm being transparent that I'm wanting to forecast what the future might be.
+
+**Jenn Peters:** Yeah.
+
+**Guillaume Cabane:** That's it.
+
+**Megan:** Right.
+
+**Jenn Peters:** Yep.
+
+**Jenn Peters:** I like it.
+
+**Jenn Peters:** Cool.
+
+**Jenn Peters:** Well, okay.
+
+**Jenn Peters:** Let's go with this piece as next in the queue after we get some feedback from that previous piece.
+
+**Jenn Peters:** And I think we'll take just, I scribbled a few notes here as well, but I think, you know, it's on the transcript, so it's all good.
+
+**Jenn Peters:** But we'll work on this piece next then.
+
+**Guillaume Cabane:** Awesome.
+
+**Jenn Peters:** Yeah, that was everything on my end.
+
+**Jenn Peters:** Did anybody else have anything else to cover?
+
+**Giulia Caracausi:** Thank
+
+**Giulia Caracausi:** No, I think we got it, yes.
+
+**Giulia Caracausi:** The next step is finish up our last refinements and polishing touches to the piece, shoot that, see how that resonates as well.
+
+**Giulia Caracausi:** So we can also test how the audience reacts to the different topics.
+
+**Giulia Caracausi:** And then, like, the priority right now that we have is, like, use as much content and to put out as much content as we can.
+
+**Giulia Caracausi:** And that will refine, you know, the sandwich effect of when to schedule one or the other.
+
+**Giulia Caracausi:** Right now we are in a testing mode, which we are enjoying very much.
+
+**Megan Dickey:** Yeah. Cool. Awesome.
+
+**Giulia Caracausi:** Well, thanks so much, everyone.
+
+**Giulia Caracausi:** And, yeah, we'll just be in touch via Slack.
+
+**Guillaume Cabane:** Awesome.
+
+**Guillaume Cabane:** Thank you so much for all the help.
+
+**Guillaume Cabane:** you.
+
+**Guillaume Cabane:** Thank you.
+
+**Guillaume Cabane:** Bye-bye.

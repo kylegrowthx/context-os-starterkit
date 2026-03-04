@@ -1,0 +1,706 @@
+# Kalil Magtoto -Hiring Manager Interview - Andi | Technical Managing Editor
+
+<metadata>
+date: 2025-08-13
+time: 19:43 UTC
+duration: 31 minutes
+organizer: andi@growthx.ai
+participants: Andi Bailey, Kalil Magtoto
+fathom_recording_id: 80423350
+fathom_url: https://fathom.video/calls/378269897
+share_url: https://fathom.video/share/fE1yisEsfFwYmDUh7i6ZSqdcoTBDx36y
+source: fathom
+enriched_on: 2026-03-03 16:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+Andi Bailey, GrowthX's Customer Operations lead, interviewed Kalil Magtoto for the Technical Managing Editor role, discussing how the position sits at the center of GrowthX's pod-based delivery structure — managing 3-5 accounts while ensuring workflows on GrowthX's AI platform operate efficiently and providing feedback to the product team. Kalil brought strong relevant experience from Sanofi (where he led the Responsible AI program launch with training for 100k employees) and Zuva AI (legal tech, creating and editing technical content), plus current expertise managing multiple clients and prioritizing by impact and urgency. Both discussed GrowthX's core challenge: rapid client growth has created non-standardized processes and disjointed delivery across pods, with an opportunity for Kalil to help create unified workflows while respecting existing team approaches.
+
+---
+
+## Context
+
+GrowthX is a year-old B2B content marketing and AI visibility platform company. The customer operations team leads the pod-based delivery model where account strategists oversee multiple pods of technical managing editors (MEs), each managing 3-5 client accounts. The ME role is critical to delivery: managing project timelines, client communication, and ensuring the content generation workflow (which leverages GrowthX's proprietary AI platform) operates efficiently. Andi Bailey, who has been at GrowthX for three months, is focused on standardizing processes and team organization across the delivery org.
+
+Kalil Magtoto is a senior content professional currently at Sanofi (pharmaceutical company) in the digital function within the data and AI strategy team. He successfully led the Responsible AI program launch, which included creating training materials deployed to 100,000 employees globally. Prior to Sanofi, he worked at Zuva AI, a legal tech startup, where he created and edited highly technical content for a non-technical audience. Kalil brings direct experience managing multiple clients with different communication styles and has a track record of taking projects end-to-end, from planning through execution and refinement.
+
+---
+
+## Relevance
+
+- **To GrowthX Delivery:** The ME role is the operational center of each pod — standardizing this position is key to addressing the disjointed delivery problem across teams. Kalil's experience leading large-scale projects at Sanofi and his philosophy of focusing on top 3 priorities daily could help establish consistent workflows. His background with JIRA and working with project managers suggests strong process discipline.
+
+- **To GrowthX Business Development:** Strong hiring signal on this role. Kalil's demonstrated ability to take projects end-to-end (Sanofi Responsible AI program, Zuva AI content library), manage stakeholder communication across technical and non-technical audiences, and scale content production aligns well with rapid client growth. His willingness to discuss side contracts (currently 2-3 hours weekly on Brooks Running and smaller brands) shows availability for full focus on GrowthX.
+
+- **To Team Integration:** Kalil explicitly prioritizes daily standups for team alignment and is comfortable with open Slack-based communication and async coordination. His role bridging technical experts and business audiences mirrors the ME position perfectly. He expressed excitement about GrowthX's growth potential and cutting-edge AI focus, which could positively influence team morale and culture.
+
+---
+
+## Overview
+
+- Role involves project management and technical oversight for 3-5 client accounts, working with content managers and AI platform
+- Kalil has relevant experience in content creation, AI, and managing multiple projects/clients
+- GrowthX is rapidly growing, with challenges in standardizing processes across teams
+- Kalil is excited about the role and aligns well with the company's direction and needs
+
+---
+
+## Key Topics
+
+### Role Overview and Company Structure
+
+GrowthX's delivery org is structured in pods. Account strategists or account directors oversee the long-term roadmap and strategy for clients, managing 2-3 pods of teams each led by Technical Managing Editors. The ME manages 3-5 accounts and works alongside a content manager to deliver client work. The role has two critical pieces: (1) project management — tracking progress against deliverables, managing client communications, and ensuring contractual obligations are met; (2) technical oversight — ensuring the AI platform workflows operate efficiently and providing feedback to the product team. The ME is not directly involved in prompt engineering but sees the backend and can influence product decisions when outputs don't meet client needs.
+
+### Kalil's Background and Career Path
+
+Kalil is currently at Sanofi, a large pharmaceutical company, in the digital function within the data and AI strategy team. He initially joined to lead the launch of Sanofi's Responsible AI program, successfully bringing it from concept to a globally-deployed training course required for 100,000 employees. The program included risk profiles, risk assessments, and high-quality training materials (20-30 minutes long, exceptionally polished by Sanofi standards). He has since shifted into technical content delivery and content excellence support. Before Sanofi, Kalil worked at Zuva AI, a legal tech startup making contracts AI, where he was part of the second wave after the founding team. Over two years, he created 50 videos and edited complex technical content from the CEO and other PhDs into digestible material for business audiences. His personal philosophy: he positions himself as "the stupid, non-technical person" in the loop, translating experts for everyone else.
+
+### Why Kalil Wants This Role
+
+Kalil is seeking more scale and genuine excitement in his work. While his current role at Sanofi makes logical sense, he's never been interested in pharmaceuticals, contracts AI, or his previous industry (construction). But GrowthX offers content as the core product and cutting-edge AI technology — two things he's genuinely excited about. He's particularly drawn to the company's growth potential and leadership (he specifically mentioned being impressed by Marcel's background and Andi's background). He described the timing as "very perfect" for this move.
+
+### Kalil's Work Style and Prioritization Philosophy
+
+Kalil prioritizes work by impact and urgency. When juggling 6-10 big projects, he works with a project manager to rank them. His approach: identify the top 3 biggest tasks he can accomplish in a day, plus 2 additional smaller tasks that might get 30 minutes to an hour. He rarely goes beyond "the big three" with sub-components. For the Sanofi Responsible AI launch (a 4-6 month project with overlapping priorities), he created a backlog covering 2-4 sprints of top priorities, checked in with his manager on any changes, and adjusted daily. He considers himself a "content powerhouse" because he takes projects end-to-end: scripting, validation, assembly, editing, refinement. He uses JIRA for project tracking and describes his approach as "very scrappy by nature."
+
+### Client Management and Side Work
+
+Kalil has experience managing multiple clients with different communication styles. At Sanofi, he's a contractor/consultant specifically for content work. He also manages several other clients on the side: Brooks Running (where he has an Instagram account featuring brand partnerships) and various other smaller brands. Sanofi is his one big contract; the others take 2-3 hours per week tops. He commits to 40 highly productive hours weekly for Sanofi. When asked about joining GrowthX full-time, he said he'd be willing to let go of other contracts if needed, and expressed openness to discussing it if hours became an issue.
+
+### GrowthX Operations, Tools, and Culture
+
+The team communicates via Slack (using Geekbot) with an emphasis on open, coordinated communication. Airtable is the client-facing project management tool where they organize content, track weekly clusters (this week, next week, later), and meet with clients weekly. Pod communication varies — some do daily standups, some weekly. Andi noted they're still refining the best approach and there's flexibility for each ME to set cadence. Each client has internal and external Slack channels. The ME role requires understanding and influencing the AI platform: it can run different LLMs (ChatGPT, others) for different tasks, includes image generation workflows, and leverages tools like Flexity for research and Claude for projects. The ME needs deep familiarity but doesn't need to be a prompt engineer.
+
+### Kalil's Questions and Concerns
+
+Kalil asked directly about team integration: Who's accountable for what? What can he count on his team for? How can he be successful? He also wanted to understand how to access and use the GrowthX platform — he was curious about the tech stack and specifically asked about generative AI tools used. He expressed that "human in the loop" is important and that he'd be upskilling throughout the role. His most important final question: "What's a sticking problem you have right now that I could come in and help solve?" This signals he's thinking operationally about immediate value delivery.
+
+### Onboarding Timeline
+
+Week 1 involves company-wide onboarding, document review, and workshops with Marcel on how GrowthX works. Week 2 focuses on getting up to speed — either on specific clients or broad training, with shadowing opportunities. Week 3 involves joining client calls, generating artifacts, and learning the end-to-end deliverable process (not yet owning a client outright). By Week 4, he'd be expected to manage a pod independently. Andi acknowledged this is "very quick" but is the current reality given company growth.
+
+### GrowthX's Core Operational Challenge
+
+GrowthX experienced rapid client growth, leading to quick onboarding and non-standardized processes. Each team member learned the ME job in whatever way they could figure out, creating disjointed delivery across pods. Some pods operate one way, others operate differently. Andi is working to create a unified process that everybody follows, but the challenge is balancing that standardization effort with ongoing client work and onboarding pressure. Kalil has experience in fast-growing environments where processes had to be pulled together, and he expressed interest in this specific problem.
+
+---
+
+## Action Items
+
+- **Andi Bailey (GrowthX):** Connect with Kalil Magtoto on LinkedIn (committed at end of call)
+- **Andi Bailey (GrowthX):** Follow up with Kalil on hiring decision regarding Technical Managing Editor role — evaluate: (1) fit based on content and project management background; (2) ability to own process standardization in fast-growing environment; (3) comfort with week 4 independent pod management timeline; (4) final verification on contractor commitments (Brooks Running, other small clients)
+- **Kalil Magtoto:** Prepare for potential next conversation with GrowthX on onboarding timeline and process standardization plans if offered role
+
+---
+
+## Transcript
+**Andi Bailey:** This meeting is being recorded.
+
+**Andi Bailey:** Hi, Kalil.
+
+**Kalil Magtoto:** Hi, Andi.
+
+**Kalil Magtoto:** How are you doing?
+
+**Andi Bailey:** Good.
+
+**Andi Bailey:** How are you?
+
+**Kalil Magtoto:** I'm doing pretty good.
+
+**Kalil Magtoto:** End of the work day.
+
+**Andi Bailey:** Yeah, awesome.
+
+**Kalil Magtoto:** Where are you located?
+
+**Kalil Magtoto:** I'm in Toronto, so on the East Coast.
+
+**Andi Bailey:** Awesome.
+
+**Kalil Magtoto:** And yourself?
+
+**Andi Bailey:** I am also on the East Coast.
+
+**Kalil Magtoto:** I'm in Rhode Island.
+
+**Kalil Magtoto:** Oh, very cool.
+
+**Kalil Magtoto:** That is geographically close to Boston?
+
+**Andi Bailey:** Like north of, yeah, between Boston and New York.
+
+**Kalil Magtoto:** Got it.
+
+**Kalil Magtoto:** Yeah, very cool.
+
+**Kalil Magtoto:** I know nothing about the U.S.
+
+**Kalil Magtoto:** geographic landscape.
+
+**Kalil Magtoto:** Barely anything.
+
+**Andi Bailey:** Well, we won't quiz you on it today.
+
+**Kalil Magtoto:** Yes, excellent.
+
+**Andi Bailey:** Awesome.
+
+**Andi Bailey:** So I am going to kick this off first.
+
+**Andi Bailey:** Thank you for like scheduling time and being willing to talk to us.
+
+**Andi Bailey:** I'm going to start by giving you a quick overview on GrowthX, the role, and kind of my background and how I'm thinking about the role.
+
+**Andi Bailey:** And then we'll spend most of the time talking about you and then try and leave five to 10 minutes at the end to have you ask questions.
+
+**Andi Bailey:** So I lead customer operations at GrowthX.
+
+**Andi Bailey:** I've been here for about three months, which not that long, but we're also a year old.
+
+**Andi Bailey:** So, you know, a mixed bag there, but I sort of my role is thinking about like the process and pieces that go into getting our clients deliverables, team organization.
+
+**Andi Bailey:** All that stuff, tools, things like that.
+
+**Andi Bailey:** And this role, our delivery org, which is what we call kind of like our client-facing teams, is structured in pods.
+
+**Andi Bailey:** And this role is kind of the center of every pod.
+
+**Andi Bailey:** So we, our pods are structured with account strategist or account director, kind of sitting at a high level, thinking about the long-term roadmap of what we're building for clients and how we're executing, kind of like building a strategy for our clients.
+
+**Andi Bailey:** And then, and they manage two to three pods of teams that are led by MEs.
+
+**Andi Bailey:** So account strategists, and then they have like two to three MEs underneath them that are managing three to five accounts.
+
+**Andi Bailey:** So this role would manage three to five accounts, and we'll have a cop.
+
+**Andi Bailey:** Sorry, content manager that works alongside them to generate kind of the day-to-day deliverables for the client.
+
+**Andi Bailey:** So there are two pieces that are really important for the technical managing editor role.
+
+**Andi Bailey:** The first is like the project management piece, which is just, okay, where are we against like our goal, against our deliverables?
+
+**Andi Bailey:** How are we tracking and meeting our contractual obligations, updating the client on that, and working with the content manager who's actually like generating the first draft of every piece of content.
+
+**Andi Bailey:** And then on the other side, there is a little bit, I mean, the technical piece is, that's where the technical piece comes in, which is growthx content is all generated.
+
+**Andi Bailey:** Out of our own internal platform that leverages AI to write articles.
+
+**Andi Bailey:** At a high level.
+
+**Andi Bailey:** So the content managers are in that platform day to day, but it's the managing editor's job to make sure that those workflows are operating efficiently and help bring feedback back to the product team and make sure that, you know, we're hitting our mark through leveraging the platform.
+
+**Andi Bailey:** Um, so that's kind of how we're thinking about the role and, and how this would, how you would fit in the larger delivery org.
+
+**Kalil Magtoto:** you have any questions there?
+
+**Kalil Magtoto:** Um, with the, so with the workflow process, uh, I take it that I would be one of the roles or sorry, one of the responsibilities I would have is like, okay, let's, let's try and work with this new client.
+
+**Kalil Magtoto:** Um, let's see what we can come up with and then make tweaks from there based on the, the flow of, uh,
+
+**Kalil Magtoto:** Maybe we can tweak this language, tweak this language, make it very specific about these words that we wanted to use and not to use.
+
+**Kalil Magtoto:** And that would be like on me.
+
+**Kalil Magtoto:** And then content manager goes and attempts like five different drafts.
+
+**Kalil Magtoto:** review and I'm saying like, okay, this one, probably the best one out of them.
+
+**Kalil Magtoto:** So basically human in the loop.
+
+**Andi Bailey:** Yeah, yeah.
+
+**Andi Bailey:** So the content manager, it's pretty close.
+
+**Andi Bailey:** So the content manager is generating one draft.
+
+**Andi Bailey:** Ideally, they're taking into account all of the artifacts that we've already generated.
+
+**Kalil Magtoto:** So our AI platform is taking that into account in the workflow.
+
+**Andi Bailey:** You're like an editor and helping refine after that first generation.
+
+**Andi Bailey:** So there might be multiple sort of feedback loops within the workflow.
+
+**Andi Bailey:** But you're sort of the higher level project manager and yes, an editor as well.
+
+**Kalil Magtoto:** Okay, so not necessarily working in the engineering workflow.
+
+**Kalil Magtoto:** Flow, specifically with prompt engineering and how the prompts lay out on the back end.
+
+**Kalil Magtoto:** Not really touching that, but more the final content.
+
+**Andi Bailey:** Yeah, you're not necessarily touching that, but I think it's really important to have an understanding of how that works and be able to influence, because you'll be able to see the back end and talk to the engineers about sort of, there is a little bit of, hey, we think this prompt needs to be tweaked in this way, because the output, we're not getting the output that we want.
+
+**Kalil Magtoto:** Yep, got it.
+
+**Kalil Magtoto:** That makes total sense.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Great.
+
+**Andi Bailey:** Well, why don't you tell me a little bit about yourself?
+
+**Kalil Magtoto:** All right.
+
+**Kalil Magtoto:** So personal ambitions for 2025 were to really evolve as a professional.
+
+**Kalil Magtoto:** So I've been kind of leading towards that.
+
+**Kalil Magtoto:** At my current company, that looked like, or that looks like taking on a really large scale communications.
+
+**Kalil Magtoto:** So I work at Sanofi.
+
+**Kalil Magtoto:** is a pharmaceutical company, very old school.
+
+**Kalil Magtoto:** The way that they operate is acquiring other legacy companies.
+
+**Kalil Magtoto:** I work in the digital function.
+
+**Kalil Magtoto:** So how we operate is very different from the companies like Ethos.
+
+**Kalil Magtoto:** We try to be lean and startup minded, but it's kind of evolved into like a more consultant digital branch.
+
+**Kalil Magtoto:** And right now, as part of the data and AI strategy team, there's a lot of like content that's just not good, not well organized, a bunch of that.
+
+**Kalil Magtoto:** Sorry, I'm going to cuss if that's okay.
+
+**Kalil Magtoto:** There's a bunch of  that was created by previous teams.
+
+**Kalil Magtoto:** And they've laid those eggs everywhere.
+
+**Kalil Magtoto:** And my mission now is to consolidate, archive, audit, and create basically replacement pieces of content that align with standards that I'm setting, essentially.
+
+**Kalil Magtoto:** So this role is basically what I want to do, but for multiple other clients, which is very exciting.
+
+**Kalil Magtoto:** So that's a little bit about me and what my role is right now.
+
+**Kalil Magtoto:** Initially, I was brought onto the team to be a content developer to stand up the Responsible AI program at Sanofi.
+
+**Kalil Magtoto:** That initial mission was accomplished.
+
+**Kalil Magtoto:** Along with three other team members, we successfully launched the program.
+
+**Kalil Magtoto:** So Sanofi now has a Responsible AI program that has legs and can walk. Risk profiles are set up.
+
+**Kalil Magtoto:** Any of the risk assessments that we had to build, done.
+
+**Kalil Magtoto:** Training materials, globally released to 100,000 employees.
+
+**Kalil Magtoto:** I don't actually have any metrics, so I don't know how well it's tracking, but everybody's required to take it.
+
+**Andi Bailey:** I had to take it too.
+
+**Kalil Magtoto:** So it's nice.
+
+**Kalil Magtoto:** However, we made sure that it looks better than the Sanofi standard, and that the content was highly relevant, and 20 to 30 minutes long, millions of dollars worth of working time.
+
+**Kalil Magtoto:** So we wanted to make it super dense and valuable.
+
+**Kalil Magtoto:** And that was my initial project.
+
+**Kalil Magtoto:** And then I moved on to more technical support when it comes to content delivery and content excellence.
+
+**Kalil Magtoto:** Prior to that, I was at a much smaller company, Zuva AI, a legal tech company.
+
+**Kalil Magtoto:** They make contracts AI that's dead simple to use.
+
+**Kalil Magtoto:** I was part of the second wave after the founding team.
+
+**Kalil Magtoto:** So founding team and then me, I got brought on to generate just a bunch of content, which I did.
+
+**Kalil Magtoto:** First two years, created 50 videos, edited a bunch of the, our CEO was or is a very brainy guy, creates like 20 page long articles for other lawyers to understand and comprehend.
+
+**Kalil Magtoto:** My job was to go in and understand it and make it digestible for, you know, more business audiences.
+
+**Kalil Magtoto:** So I did that for two years.
+
+**Kalil Magtoto:** A lot of technical people there.
+
+**Kalil Magtoto:** And it was nice getting to know PhDs, lawyers, like contracts, AI people.
+
+**Kalil Magtoto:** And I was the dumb guy in the loop, which I still like to position myself as, as like, I'm the stupid, non-technical person.
+
+**Kalil Magtoto:** And I'm coming in to understand you and to make you understandable to everybody else. That's the story of my career so far, and those are the big pieces.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Well, what are you looking for next?
+
+**Kalil Magtoto:** More scale.
+
+**Kalil Magtoto:** I want something exciting because right now my role makes sense to me, but the industry that it's in, pharmaceuticals, biotech, I've never been interested in it.
+
+**Kalil Magtoto:** And I can say the same for contracts.
+
+**Kalil Magtoto:** AI, I've never been interested in it.
+
+**Kalil Magtoto:** Prior to that, it was a construction company, never been interested in it.
+
+**Kalil Magtoto:** But this is content for content, which is really cool.
+
+**Kalil Magtoto:** And this is AI and cutting edge, which is really, really cool.
+
+**Kalil Magtoto:** I'm super excited.
+
+**Kalil Magtoto:** I don't know if you can tell.
+
+**Kalil Magtoto:** I'm shaking.
+
+**Kalil Magtoto:** But like this move would be incredibly exciting for me because I get to take what I really like to do, which is content.
+
+**Kalil Magtoto:** And then finally be in like an industry and a size and scale of company that matches my appetite. So GrowthX is going to be big. Scale-ups are cool. I hope so, too. But like, scale-ups are so fun to watch.
+
+**Kalil Magtoto:** Because the leader, and in this case, his name is Marcel?
+
+**Andi Bailey:** Yeah, Marcel.
+
+**Kalil Magtoto:** He's got a cool background, and you've got a cool background, and I can see that the company is moving.
+
+**Kalil Magtoto:** And that's exciting to me.
+
+**Kalil Magtoto:** so that's, so this, I don't know, this is exactly what I'm looking for.
+
+**Kalil Magtoto:** And it came at a time that was, like, very perfect.
+
+**Kalil Magtoto:** So, yeah, let's see where it goes.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Talk to me about, like, a project that you've owned end-to-end, and how you manage and organize your time and prioritize.
+
+**Kalil Magtoto:** Uh, let's see.
+
+**Kalil Magtoto:** I'll talk about the Responsible AI launch, because that was a bunch of components, but all for the same program and the launch of it.
+
+**Kalil Magtoto:** So, we were...
+
+**Kalil Magtoto:** Driving towards launching the responsible AI team within four to six months of me starting.
+
+**Kalil Magtoto:** And that included my onboarding time.
+
+**Kalil Magtoto:** So lots of priorities, lots of different pieces that needed to get done.
+
+**Kalil Magtoto:** And day by day, I would have six, probably six to ten different big projects that needed to be addressed.
+
+**Kalil Magtoto:** I like working with my project manager.
+
+**Kalil Magtoto:** So I wasn't the project manager, I was working with them to figure out my priorities.
+
+**Kalil Magtoto:** It always ended up being highest impact and most urgent.
+
+**Kalil Magtoto:** So if it was a high impact activity, and if we needed it done next week, by next week, then that's first.
+
+**Kalil Magtoto:** So timing, super critical.
+
+**Kalil Magtoto:** And how I end up measuring, like, my backlog would get filled with, like, probably, you know, two sprints worth, two to four sprints.
+
+**Kalil Magtoto:** What are my top priorities?
+
+**Kalil Magtoto:** Did my boss say that I need to change anything up?
+
+**Kalil Magtoto:** If no, then it's business as usual.
+
+**Kalil Magtoto:** Rank order based on what I can take on. It's like top three biggest things that I can accomplish today.
+
+**Kalil Magtoto:** And then I'll have like two extra things that maybe I can have extra 30 minutes to an hour to devote to.
+
+**Kalil Magtoto:** But like, I never get to more than a big three or like three with sub components.
+
+**Kalil Magtoto:** That's my philosophy around prioritization.
+
+**Kalil Magtoto:** Specifically for the launch of the program, there were a lot of components like a landing page, a SharePoint site that needed a lot of different pieces of content.
+
+**Kalil Magtoto:** So created the skeleton or the structure first, and then said, okay, what are the elements that we need to fit into the site?
+
+**Kalil Magtoto:** So we needed 10 videos, legal work to be done, and somebody to digest and analyze the EU AI Act and all of its little pieces and create that into smaller little pieces of content. And that's, okay, cool.
+
+**Kalil Magtoto:** We have a great backlog here of probably like 60 pieces of unique content.
+
+**Kalil Magtoto:** I consider myself a content powerhouse because I would take a project end-to-end, scripting, validation, putting the video together, validation, edit based on feedback, and then get to the end. And all of these little pieces eventually come together to launch the program. And it's just like kind of going to war. Whatever I can get done today and whatever is highest priority and highest impact, let's do it. I can't give you, unfortunately, I just go into JIRA, and then we have this exact process. Very scrappy by nature.
+
+**Andi Bailey:** Great.
+
+**Andi Bailey:** And then, I guess, in your internal role at Sanofi, or have you worked directly with clients before?
+
+**Andi Bailey:** So technically, Sanofi is my client.
+
+**Kalil Magtoto:** Yeah, okay, yeah.
+
+**Kalil Magtoto:** That's kind of what I was thinking.
+
+**Kalil Magtoto:** Yeah, yeah.
+
+**Kalil Magtoto:** So I'm like a contractor consultant, specifically for content for them.
+
+**Kalil Magtoto:** Multiple clients, I can say that. So Sanofi, Brooks Running, and a bunch of other clients on the side that I manage. So I do have to maintain like, okay, for Sanofi, I speak this way. Brooks, I speak this way, or I present a certain way. It's on my Instagram account.
+
+**Kalil Magtoto:** And then I have other brands that I'm partnered with or that I have accountabilities to.
+
+**Kalil Magtoto:** Much smaller scale.
+
+**Kalil Magtoto:** So there's nothing that I'm like, oh, I have 10 big contracts that I juggle all at the same time.
+
+**Kalil Magtoto:** It's Sanofi is my one big contract.
+
+**Kalil Magtoto:** And then a bunch of other small ones that take up about two to three hours of my week tops.
+
+**Andi Bailey:** Okay, got it.
+
+**Andi Bailey:** So you're still like working on like a contract? You're still like freelancing even with Sanofi and stuff?
+
+**Kalil Magtoto:** Yes, correct.
+
+**Andi Bailey:** Yeah, got it.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** I think those are all my questions. Well, I guess I'm curious, like, so if Sanofi is your full time contract, are you not a Sanofi employee then, or you are?
+
+**Andi Bailey:** So if you were to become a growthx employee, would you be willing to like let go of the other contracts?
+
+**Kalil Magtoto:** Um, yeah, like, but the thing is like, it's
+
+**Kalil Magtoto:** My personal time, I run.
+
+**Kalil Magtoto:** I spend a significant amount of time running.
+
+**Kalil Magtoto:** My contracts don't really, they don't take time away from everything else.
+
+**Kalil Magtoto:** If we had to have that discussion, though, I'm very happy to come and sit down and like, hey, Kalil, you're not putting in enough hours.
+
+**Kalil Magtoto:** You've got to cut down your running or reduce the volume of what you do outside of work.
+
+**Kalil Magtoto:** I'm happy to discuss that, yeah.
+
+**Andi Bailey:** Yeah, mean, I think like, if it's a couple of hours, you know, every week, people can have side gigs and stuff like that.
+
+**Andi Bailey:** But I think we've, we have also seen some people run full, like, have two.
+
+**Andi Bailey:** Oh, like a second job kind of thing.
+
+**Kalil Magtoto:** Yeah.
+
+**Kalil Magtoto:** Yeah, no, that is, I can't, I can't do that.
+
+**Kalil Magtoto:** I lock my hours down to 40 highly productive hours a week for Sanofi. And then Brooks gets a selfie every now and then in a very curated set of descriptions based on the content needs.
+
+**Andi Bailey:** Got it.
+
+**Andi Bailey:** Got it.
+
+**Andi Bailey:** Okay.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** It was more around like second job.
+
+**Andi Bailey:** Great.
+
+**Kalil Magtoto:** Okay.
+
+**Kalil Magtoto:** Well, what questions do you have for me?
+
+**Kalil Magtoto:** Like I said, very, very excited for this role.
+
+**Kalil Magtoto:** I'm very curious first about how would I, well, you touched on this, but I'm curious about like the integration in the team, how that culture works.
+
+**Kalil Magtoto:** What are the accountabilities?
+
+**Kalil Magtoto:** What can I count on my team members for?
+
+**Kalil Magtoto:** What do they really need to account on me for at the end of the day?
+
+**Kalil Magtoto:** And how can I be successful in that environment?
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** So I think like the, I think that this role is, is really the owner of accountability for like pod deliverables on a day-to-day basis.
+
+**Andi Bailey:** And so if you're thinking about like how.
+
+**Andi Bailey:** We organized that and how you kind of hold people accountable.
+
+**Andi Bailey:** We have a lot of, we use Geekbot and Slack.
+
+**Andi Bailey:** And so people are like, and our communication norms are very much about like communicating out in the open and like coordinating out in the open.
+
+**Andi Bailey:** We use Airtable as our like project management platform that's client facing.
+
+**Andi Bailey:** So that's where we organize our content.
+
+**Andi Bailey:** And, you know, this is, these are the clusters we're focused on.
+
+**Andi Bailey:** These are the clusters we're focused on sort of today, next week, this week.
+
+**Andi Bailey:** Um, we meet with our clients on a weekly basis.
+
+**Andi Bailey:** Um, and we're still, I think we're finding like the best way for pods to, to get updated.
+
+**Andi Bailey:** Each pod has its own like Slack channel. So there's a lot of communication that happens there.
+
+**Andi Bailey:** And every client has its own internal channel and external channel.
+
+**Andi Bailey:** So for each client, we organize comms there in terms of like, what's next, what we're focused on.
+
+**Andi Bailey:** Um, some pods do daily or weekly standups. And I think we don't have a recommendation yet for like the best way that that happens.
+
+**Andi Bailey:** And I think that's something that we're refining and there's like opportunity to like set that cadence however you want it to work.
+
+**Kalil Magtoto:** Very cool.
+
+**Kalil Magtoto:** Yeah, I do like a daily stand up, even just like offline, like here's what I'm doing for the day.
+
+**Kalil Magtoto:** It's nice to know what I'm doing and what the rest of the team is doing.
+
+**Kalil Magtoto:** And then it's like, oh, you have questions, put it in now, and then let's get our day started.
+
+**Kalil Magtoto:** Very cool.
+
+**Kalil Magtoto:** So you mentioned, I wish I could touch and see the growthx tool just to get a better idea of like what it is.
+
+**Kalil Magtoto:** But what I'm understanding now is that it's kind of like an OS or it's like the central hub for everything.
+
+**Kalil Magtoto:** What can it do or what tech stack does it use?
+
+**Kalil Magtoto:** Like for the generative AI piece, let's start there. Do you know what it uses?
+
+**Andi Bailey:** GPT?
+
+**Andi Bailey:** A lot of things.
+
+**Andi Bailey:** So you can specify the tool that you want, the platform that you want it to use.
+
+**Andi Bailey:** So like you can say whether, you know, which LLM do you prefer?
+
+**Andi Bailey:** And then for different, you know, we also have like an image generation, like workflow.
+
+**Andi Bailey:** And so like we were using Abysale.
+
+**Andi Bailey:** I'm not sure what we're using now, but like, you know, depending on what the workflow is, we'll tap different things.
+
+**Andi Bailey:** Like, and I think we're learning, you know, like, Flexity is a great place to like start with research.
+
+**Andi Bailey:** Cloud projects are a godsend to us.
+
+**Andi Bailey:** Like, you know, it depends on what you're trying to do for which one we leverage.
+
+**Kalil Magtoto:** Very true. So, Human in the Loop is very important for this role.
+
+**Kalil Magtoto:** I'm definitely going to be upskilling throughout.
+
+**Kalil Magtoto:** Um, what does onboarding look like?
+
+**Kalil Magtoto:** What does that, you what would my first month look like?
+
+**Kalil Magtoto:** And how can I gear up for, for success?
+
+**Andi Bailey:** Um, so, the first month, um, week one is just, like, really, it's like two weeks of onboarding in terms of, like, here are all the documents, watch a workshop with Marcel, like, sort of, this is how we work, and these are, um, and this is what we do.
+
+**Andi Bailey:** Um, ideally, it's two weeks.
+
+**Andi Bailey:** Normally, we kind of try to pull people in as quickly as possible, but we try and give you at least one week to just get up to speed on things.
+
+**Andi Bailey:** And then week two, we'll start to get you into a pod and helping manage clients.
+
+**Andi Bailey:** I think when we start, we haven't onboarded anybody in a little bit.
+
+**Andi Bailey:** I think we've started to do a specific implementation sprint for each client.
+
+**Andi Bailey:** So new clients all go through sort of a sprint with a core team.
+
+**Andi Bailey:** We might pull you into that.
+
+**Andi Bailey:** I don't know.
+
+**Andi Bailey:** Onboarding, it's different at each.
+
+**Andi Bailey:** It's evolving, I'll say.
+
+**Andi Bailey:** And so week one is definitely like context gathering, understand what's happening.
+
+**Andi Bailey:** Week two will usually be like more specifically get up to speed on your clients or your training.
+
+**Andi Bailey:** Where we decide like wherever you fall within the team. Then week three, you would start to join client calls, generate artifacts, and work through all of the pieces that go into deliverables.
+
+**Andi Bailey:** Probably not own a client outright yet, but just understand the end-to-end process of what it looks like to do a deliverable.
+
+**Andi Bailey:** Week two would probably be some shadowing as well.
+
+**Andi Bailey:** And by week four, you would be expected to be, like, kind of managing a pod, which is, I know, very quick, but...
+
+**Kalil Magtoto:** Good to know now, then later.
+
+**Kalil Magtoto:** I appreciate that.
+
+**Kalil Magtoto:** Sorry, do we have time for one more question?
+
+**Andi Bailey:** Yeah, for sure.
+
+**Kalil Magtoto:** Perfect.
+
+**Kalil Magtoto:** If you're okay, if you're allowed to answer, what is a sticking problem that you have right now?
+
+**Kalil Magtoto:** And if you can, or if there is, specifically for the role, or to the team.
+
+**Kalil Magtoto:** Something that I would come in and hopefully help you solve and fix.
+
+**Andi Bailey:** Yeah, so I mean, it's actually a good follow-up question to your first question, because I think that one of the biggest problems is we did throw people into the deep end very quickly, because we got a ton of clients really quickly, which is a great problem to have.
+
+**Andi Bailey:** But a hard problem to have if you're brand new to the company and somebody says, hey, now this is yours.
+
+**Andi Bailey:** Good luck.
+
+**Andi Bailey:** So, I mean, like, our team is super scrappy and have, you know, supported clients, gotten a lot done.
+
+**Andi Bailey:** But because our onboarding was non-existent, and so that's kind of why I was like, hmm, how would we change?
+
+**Andi Bailey:** Like, we do need to change this, but we also are still onboarding a lot of clients, so we have to balance that.
+
+**Andi Bailey:** But basically, people all learned how to do the job in whatever way they could figure out to make it happen.
+
+**Andi Bailey:** And so it's not standardized right now, which means that when we're trying to put a process in place or improve something, there's a little bit of like pulling at threads and seeing like what unravels and what sticks together and who's doing what.
+
+**Andi Bailey:** And so there's a lot of just like disjointed delivery across pods.
+
+**Andi Bailey:** So I think what I'm trying to do is create a unified process that everybody can follow.
+
+**Andi Bailey:** But if you've been doing a certain way for a few months and it's been working and you've been in survival mode, sometimes that's hard.
+
+**Kalil Magtoto:** Yeah, I mean, very difficult challenge.
+
+**Kalil Magtoto:** And I'll think about that.
+
+**Kalil Magtoto:** I have some experience working in that kind of an environment.
+
+**Kalil Magtoto:** Not exactly, of course, but yeah, pulling at threads is a great analogy.
+
+**Kalil Magtoto:** Very cool.
+
+**Kalil Magtoto:** Thank you.
+
+**Kalil Magtoto:** That's all my questions.
+
+**Kalil Magtoto:** For now, would it be cool to connect on LinkedIn?
+
+**Andi Bailey:** Yeah, sure.
+
+**Andi Bailey:** Awesome.
+
+**Andi Bailey:** Very cool.
+
+**Andi Bailey:** All right.
+
+**Andi Bailey:** Thanks, Kalil.
+
+**Kalil Magtoto:** Thank you very much.
+
+**Andi Bailey:** Have a good day.
+
+**Kalil Magtoto:** Bye.

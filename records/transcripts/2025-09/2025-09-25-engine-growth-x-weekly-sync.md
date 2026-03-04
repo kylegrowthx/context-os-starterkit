@@ -1,0 +1,1113 @@
+# Engine <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-09-25
+time: 18:30 UTC
+duration: 37 minutes
+organizer: team@growthxlabs.com
+participants: Kyle Gaudreau (GrowthX), Carrie Chowske (GrowthX), Joel Murphy (Hotel Engine)
+fathom_recording_id: 89920651
+fathom_url: https://fathom.video/calls/420448716
+share_url: https://fathom.video/share/ef8rAsBQoE_vUNdZc7GAes32LaZkECDm
+source: fathom
+enriched_on: 2026-03-03 03:08 UTC
+</metadata>
+
+---
+
+## Summary
+
+Kyle Gaudreau and Carrie Chowske from GrowthX synced with Joel Murphy at Hotel Engine to review SEO performance gains and explore new organic growth tactics. Hotel Engine's website showed strong momentum with positions up 58% and presence up 39% over the past 60 days, while the expense and financial management content cluster drove increased sessions. The team discussed updating Hotel Engine's high-performing 2021 article, potential collaborations with freelance contractors on content features, and a strategic pivot toward exploring Reddit community management as an organic growth channel for the hospitality/construction industry segments.
+
+---
+
+## Context
+
+Hotel Engine is a B2B software/solutions company in the hospitality and construction sectors. GrowthX is delivering ongoing SEO and content strategy services to drive organic visibility and positioning growth. This weekly sync is part of the ongoing engagement where Kyle and Carrie provide strategic guidance while Joel handles execution and cross-team coordination at Hotel Engine. The meeting reflects the collaborative nature of the relationship and includes discussion of both current performance metrics and upcoming strategic initiatives like exploring subreddit engagement.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Hotel Engine showing strong SEO performance gains (58% position improvement, 39% presence growth) validates current GrowthX strategy and positioning work
+- Opportunity to expand content strategy into new channels (Reddit community management) — represents potential new service line or expansion within existing engagement
+- Contractor collaboration on content features (calculators, tools) may signal need for GrowthX guidance on scope, quality standards, or integration with broader content strategy
+
+**To CheckThat:**
+- AI-powered research tools (Perplexity, Claude, EXA) mentioned as critical to GrowthX's content ideation and research workflows — validates use case for CheckThat as a visibility/research enhancement tool
+
+**To GrowthX Business Development:**
+- Hotel Engine appears engaged with strategic direction and willing to explore new tactics (Reddit) — positive signal for account expansion
+- Discussion of corporate card content and other editorial initiatives suggests room for deeper content scope expansion
+- Kyle referenced work with Udemy and other enterprise clients, showing GrowthX's breadth across different sectors
+
+---
+
+## Overview
+
+- SEO metrics show strong positive trends: positions up 58%, presence up 39% over 60 days despite Google's bot traffic filtering changes
+- Expense and financial management content cluster continues to be a high-performing content area with opportunity for deeper development
+- Reddit community management emerging as a potential organic growth tactic; GrowthX will research relevant subreddits and engagement strategies for construction/hospitality segments
+- AI-powered research tools (Perplexity, Claude, EXA) are transforming GrowthX's content ideation and competitive research capabilities
+
+---
+
+## Key Topics
+
+### SEO Performance Updates
+
+- Strong momentum: positions up 58%, presence up 39% over the last 60 days
+- Recent drop in impressions attributed to Google's changes in tracking and filtering bot traffic
+- Expense and financial management content cluster is a top performer with steady session growth
+- Growth also observed in travel trends, market intelligence, and technology/software solutions content areas
+- Hotel Engine's website health remains strong relative to performance gains
+
+### Content Strategy and Content Opportunities
+
+- High-performing 2021 Hotel Engine article needs to be reviewed and updated to reflect current company branding and offerings
+- Exploring collaboration with Barry (external contractor) on content features like calculators and interactive tools
+- Corporate card-related content flagged as opportunity but requires PM (Margo) approval and review of brand guidelines
+- Need to coordinate with Hotel Engine's internal design and product teams on content launch timing
+
+### Reddit Community Management as Organic Growth Tactic
+
+- Kyle researched relevant subreddits for construction/hospitality industries using AI-powered research tools
+- Exploring authenticity of engagement: discussed balance between white hat (transparent) and gray hat (less transparent) community tactics
+- Barry has experimental subreddit list that needs to be shared with GrowthX team for validation and strategy development
+- Potential to drive organic traffic and brand awareness if executed with authentic, value-adding engagement
+
+### AI-Powered Research and Content Ideation Tools
+
+- Perplexity being actively used for fast, efficient topic research and content gap analysis
+- Claude and ChatGPT being compared for different use cases in content ideation
+- EXA positioned as a potential game-changer for deep research and source discovery — being integrated into GrowthX workflows
+- Demonstrated real-world use: AI tools enabling faster research cycles and more comprehensive topic coverage
+
+### Upcoming Projects and Team Dynamics
+
+- Hotel Engine working on time-sensitive homepage redesign project for Dreamforce event (external deadline pressure)
+- Positioning and brand messaging debates creating some friction but ultimately driving more thoughtful decision-making
+- Team feeling some pressure from tight timelines but maintaining collaborative approach with GrowthX
+
+---
+
+## Action Items
+
+**Joel Murphy (Hotel Engine)**
+- Review 2021 Engine article for outdatedness and assess what updates are needed to reflect current branding
+- Contact Barry regarding the subreddit list for GEO/SEO research and relay findings to GrowthX team
+- Locate and share Barry's experimental subreddit sheet with GrowthX team for review and strategy development
+- Ping Margo (PM at Hotel Engine) to have corporate card information shared directly with GrowthX team for potential content initiative
+
+---
+
+## Transcript
+**Carrie Chowske:** This meeting is being recorded.
+
+**Kyle Gaudreau:** Man, there's so many note-takers here.
+
+**Carrie Chowske:** Hmm?
+
+**Kyle Gaudreau:** So many note-takers.
+
+**Kyle Gaudreau:** We gotta probably clean up this invite list.
+
+**Joel Murphy:** Hey, guys.
+
+**Kyle Gaudreau:** Hello.
+
+**Kyle Gaudreau:** How's it going?
+
+**Joel Murphy:** Not bad.
+
+**Joel Murphy:** Pretty busy, but not bad.
+
+**Kyle Gaudreau:** Good, good.
+
+**Joel Murphy:** How about you?
+
+**Kyle Gaudreau:** Same.
+
+**Kyle Gaudreau:** I had the unfortunate circumstance to multiple times this week.
+
+**Joel Murphy:** I today was Friday, but it's all right.
+
+**Carrie Chowske:** It happened to me.
+
+**Carrie Chowske:** I was like, that happened to me, too, because I blame my husband, though, because he was like, I thought today was Friday, and I was like, it's not Friday?
+
+**Kyle Gaudreau:** Wait, what day is it?
+
+**Kyle Gaudreau:** You know, there's something, maybe there's a weird, interesting thing in the air, because, yeah, was talking about this earlier with the folks at Udemy, and they were like, oh, I had the same thing.
+
+**Joel Murphy:** There's a glitch in the matrix.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** I just saw a black cat walk by.
+
+**Joel Murphy:** Oh, yeah, the black cat.
+
+**Joel Murphy:** It took me a second.
+
+**Kyle Gaudreau:** I just seen that movie just a few times.
+
+**Joel Murphy:** You don't have 1990 movie references like that?
+
+**Joel Murphy:** Man, I'm the worst at movies, man.
+
+**Joel Murphy:** People make fun of me about it because I grew up, my mom just would not let me watch a lot of things that were popular.
+
+**Joel Murphy:** Like, you know, she thought they were too, like, violent.
+
+**Joel Murphy:** And so I just never got that movie bug, you know what I mean?
+
+**Joel Murphy:** And people make references and I'm like, I just got to smile and nod on what the hell they're talking about.
+
+**Kyle Gaudreau:** But I do know that.
+
+**Kyle Gaudreau:** You haven't even developed it later.
+
+**Joel Murphy:** You haven't gone back and you're still not into movies?
+
+**Joel Murphy:** I'd say I'm into them with, like, Spider-Man or somebody like that in the movie.
+
+**Joel Murphy:** But, you know, like, serious films and stuff.
+
+**Joel Murphy:** No, I just, dude, I just, I don't know.
+
+**Joel Murphy:** Okay.
+
+**Joel Murphy:** Okay.
+
+**Joel Murphy:** Can't stand sitting down and like, I have to be doing stuff, you know what I mean?
+
+**Joel Murphy:** And like when you do stuff, you don't even pay attention to the movie anyway, so it's just kind of based on me.
+
+**Kyle Gaudreau:** Sounds a little bit like, I don't know if you guys ever worked with Panzer or Chief Content Officer here, but he didn't have a TV growing up, but actually could go to the movies.
+
+**Kyle Gaudreau:** It's a little bit different, but yeah, it's fascinating talking to him about some things that he just wasn't a part of his life at all.
+
+**Joel Murphy:** Yeah, it's weird.
+
+**Carrie Chowske:** For sure.
+
+**Carrie Chowske:** We communicate like in movie quotes and song lyrics a lot around our house.
+
+**Carrie Chowske:** Like, we have strange looks from our daughter.
+
+**Carrie Chowske:** She's, you know, she's almost 30 and she's like, what are y'all talking about?
+
+**Kyle Gaudreau:** I'm like, that's fine.
+
+**Joel Murphy:** I know, it's crazy to say that you have a kid that's almost 30 and they're not getting your references.
+
+**Joel Murphy:** Like, I ran into that here at work quite often.
+
+**Kyle Gaudreau:** Yeah, we have this guy, George, in the SF office.
+
+**Kyle Gaudreau:** Yes, he's great.
+
+**Kyle Gaudreau:** He's
+
+**Kyle Gaudreau:** You work with George, right, in this room, I think.
+
+**Kyle Gaudreau:** Yes, yeah.
+
+**Kyle Gaudreau:** George is like mid-20s, I think, Will Park, and I'm just constantly being reminded, like, is this cool now?
+
+**Carrie Chowske:** Is this whatever?
+
+**Carrie Chowske:** And yeah, he makes me feel very old.
+
+**Carrie Chowske:** We were talking about that the other day, Kyle.
+
+**Carrie Chowske:** were talking about how the last agency that I was working with was the median age.
+
+**Kyle Gaudreau:** was like much younger, and no one ever got my references.
+
+**Carrie Chowske:** That's true.
+
+**Carrie Chowske:** I felt like a little old lady, like, all the time.
+
+**Carrie Chowske:** They were always just, like, looking at me like, okay, mom.
+
+**Joel Murphy:** Yeah, I've been there.
+
+**Joel Murphy:** It's an interesting dynamic, for sure.
+
+**Kyle Gaudreau:** Well, let's jump into it.
+
+**Carrie Chowske:** We can all talk about how old we're getting, but.
+
+**Carrie Chowske:** Let's not.
+
+**Carrie Chowske:** Let's just not.
+
+**Kyle Gaudreau:** We'll move on to other things.
+
+**Kyle Gaudreau:** I'd much rather talk about work than how old I am.
+
+**Carrie Chowske:** Yes.
+
+**Carrie Chowske:** I heard that you guys had a really good meeting the other day about the Scrunch stuff and Amplitude, so.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** think Kyle did a little digging into that.
+
+**Carrie Chowske:** But I've just got like a kind of top level overview on other performance metrics.
+
+**Carrie Chowske:** Thank you for getting those approvals.
+
+**Carrie Chowske:** I should, I'm pretty sure I fixed the interface for you.
+
+**Carrie Chowske:** It was just, it was set to like, not let you edit them in line, but then the checkbox wasn't in the one when you, anyway, when you opened it up.
+
+**Joel Murphy:** So it should be fine now.
+
+**Carrie Chowske:** Yeah, let me check.
+
+**Carrie Chowske:** There's probably nothing in there right now because I moved it all over.
+
+**Carrie Chowske:** That's right, okay.
+
+**Carrie Chowske:** But I'm going to send you some stuff today or tomorrow and I'll just make sure I'll tag you in Slack and be like, hey, let me know if it's not working and I'll fix it.
+
+**Carrie Chowske:** I'll go back in and tackle it, but it should be fine.
+
+**Carrie Chowske:** I can look at it as you on our end.
+
+**Carrie Chowske:** So like I did that and it was fine.
+
+**Carrie Chowske:** So hopefully that's, hopefully that's correct.
+
+**Carrie Chowske:** But we're in pretty good shape.
+
+**Carrie Chowske:** We still have quite a few assignments in there, but I do want to flesh out maybe some more with the expense and financial management cluster like we talked about.
+
+**Carrie Chowske:** So I'm going to dig into that next week.
+
+**Joel Murphy:** Cool.
+
+**Carrie Chowske:** For performance...
+
+**Carrie Chowske:** You might have seen this weird drop in impressions this last couple weeks.
+
+**Carrie Chowske:** This is a known Google issue.
+
+**Carrie Chowske:** Basically, they changed how they're tracking.
+
+**Carrie Chowske:** Specifically, they're discounting some things that they're saying are bots.
+
+**Carrie Chowske:** And then it's affecting third-party tools and Google I'm not sure it's so much on that.
+
+**Kyle Gaudreau:** But admittedly, I am spending some time today and tomorrow deepening my research on this.
+
+**Kyle Gaudreau:** I think the TLDR here is a lot of these tools, including search console, which is kind of funny, relied on this parameter that allowed them to review 100 search results at a time.
+
+**Kyle Gaudreau:** And this was like a critical foundation of just how they scrape and get data and all that.
+
+**Kyle Gaudreau:** Google changed that.
+
+**Kyle Gaudreau:** And it sounds like something to the effect that now they only get a snapshot of 20.
+
+**Kyle Gaudreau:** But I think there's...
+
+**Kyle Gaudreau:** Some dots I need to continue to connect of how this all comes together.
+
+**Kyle Gaudreau:** But essentially the net net is it is leading to this kind of almost artificial drop from like a tracking tool standpoint.
+
+**Kyle Gaudreau:** Because they were just built to pull this data in a certain way and now they cannot.
+
+**Kyle Gaudreau:** Now, like I'm trying to validate if there's concerns beyond that or how do we think about that or if eventually the baseline will be reset or how well that works.
+
+**Kyle Gaudreau:** That's where I'm less certain.
+
+**Kyle Gaudreau:** But that's been what I've gathered thus far.
+
+**Carrie Chowske:** I'd be interested.
+
+**Carrie Chowske:** Sorry, sorry, Joel, go ahead.
+
+**Joel Murphy:** No, I was just going say that makes sense.
+
+**Joel Murphy:** When I first was looking at this, I don't know, 30 minutes ago, I was like, I wonder if this is like an increase in usage of AI overview and then maybe it's a contributing factor.
+
+**Kyle Gaudreau:** But that was the first thing I thought.
+
+**Joel Murphy:** But what you're saying also makes perfect sense.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Certainly we'll explore multiple angles to make sure we're thinking about it the right way.
+
+**Kyle Gaudreau:** But yeah, it's a.
+
+**Kyle Gaudreau:** Nice.
+
+**Carrie Chowske:** Random curveball this week.
+
+**Carrie Chowske:** Yeah, and yours wasn't as dramatic, so I didn't drop this chart in there, but it was also a drop in, like, if you look at, like, the query rankings, the one that's, like, the fourth page, so, like, the 41-plus group, that dropped, like, at around the same time, which I think is also related.
+
+**Carrie Chowske:** But what's interesting is there's this weird increase in, like, all clicks, at least across the clients I'm working with and a few others that I've talked to, that I've talked to the Emmys on other teams.
+
+**Carrie Chowske:** But, so, I'd be interested, Kyle, if you're digging into that, like, what that, if that click, like, I don't know, what it's doing to clicks, too, because they're very clearly impacting impressions and rankings.
+
+**Kyle Gaudreau:** My hunch is it's just growth and seasonality more than anything.
+
+**Joel Murphy:** Yeah, I don't know if I've shared this with you guys or not, but some recent learning of mine here is that apparently October is a big month for Engine.
+
+**Joel Murphy:** Oh.
+
+**Joel Murphy:** Oh.
+
+**Joel Murphy:** Oh.
+
+**Joel Murphy:** Oh.
+
+**Joel Murphy:** Oh.
+
+**Joel Murphy:** Oh.
+
+**Joel Murphy:** Um, and I don't know if that carries through the quarter, but I'm thinking it might because I was talking to Cole a couple weeks ago about group stuff.
+
+**Joel Murphy:** You know, it's like the holiday's coming, people get engaged, they start looking at, oh, where are we going to have our wedding?
+
+**Joel Murphy:** Where, you know, where are we going to like, you know, what hotel are we all going to stay at?
+
+**Joel Murphy:** And that kind of prompts a possible uptick in like group stuff.
+
+**Joel Murphy:** Maybe, I don't really know if it would see like a simultaneous like decrease in, in the travel side, because, you know, with the holidays and businesses slowing down, or if it kind of stays steady, because there are some people that are still there in office are planning for Q1.
+
+**Joel Murphy:** I don't really know, but some topics we've been talking about internally recently.
+
+**Carrie Chowske:** I wonder if too, maybe it has a little to do with like, um, I know a lot of times, uh, people are, they hit Q4 and they're like, oh, we have all this budget left over.
+
+**Carrie Chowske:** so people are
+
+**Carrie Chowske:** Let's plan some travel and pay for it in Q4 and then it's covered for, you know, 2026.
+
+**Kyle Gaudreau:** I don't know.
+
+**Carrie Chowske:** People do a lot of that too.
+
+**Joel Murphy:** Well, you know, it's funny, just as an interesting side note, our competitor, Navon, they have been serving me this ad on Facebook for about six weeks now telling me that I need to plan my travel for 2025 now that 2024 is coming to a close.
+
+**Kyle Gaudreau:** So, I pained calm the other day because he came from Navon.
+
+**Kyle Gaudreau:** I was like, dude, did they do a lot of drinking on the job over there?
+
+**Joel Murphy:** He's serving me this ad for forever and wasting a bunch of money, but.
+
+**Kyle Gaudreau:** That's funny.
+
+**Kyle Gaudreau:** Yeah.
+
+**Carrie Chowske:** Meanwhile, I'm getting a bunch of engine ads on Facebook.
+
+**Joel Murphy:** Yeah, please let me know if we're doing the same thing on Facebook, but hopefully not.
+
+**Carrie Chowske:** No, no, no, no.
+
+**Carrie Chowske:** And I was just saying, I'm not clicking on him, I promise.
+
+**Carrie Chowske:** No, I just, like, I, that's so funny.
+
+**Carrie Chowske:** Like, would, I've not done this ever for like a brand I've worked with, but like.
+
+**Carrie Chowske:** You know, you get aggravated with a brand and you're like, I'm clicking on this ad and then I'm not going to buy anything.
+
+**Joel Murphy:** Yeah.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** I mean, it's so dumb.
+
+**Carrie Chowske:** It's so dumb.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** It's like, I'm just going to waste your advertising dollars.
+
+**Carrie Chowske:** You're targeting the wrong person.
+
+**Carrie Chowske:** I don't know.
+
+**Carrie Chowske:** It's, it's the petty of me.
+
+**Carrie Chowske:** But yeah, I do get a lot.
+
+**Carrie Chowske:** It's so funny.
+
+**Carrie Chowske:** Like all my, all my meta related ads are all for engine lately.
+
+**Carrie Chowske:** And I'm like, okay, well, I mean, it's, it's your, whatever you're doing is working.
+
+**Carrie Chowske:** It knows that I've been on your site.
+
+**Joel Murphy:** So.
+
+**Carrie Chowske:** Yeah.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** Same.
+
+**Joel Murphy:** I get them all day.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** Yeah.
+
+**Carrie Chowske:** And then, so without really being able to kind of like rely on some of that data that we're pulling, because the stuff in Looker, some of it's from search console, some of it's from GA4, some of it's blended.
+
+**Carrie Chowske:** And so I kind of just tried to pull the things that are largely relying on GA4 to give us some sort of signals.
+
+**Carrie Chowske:** We're just, we're seeing growth in the same places.
+
+**Carrie Chowske:** So that expense and financial management cluster that we talked about, kind of keeping our focus there.
+
+**Carrie Chowske:** That saw a pretty good increase in.
+
+**Carrie Chowske:** Sessions.
+
+**Carrie Chowske:** Also, we saw some growth in the travel trends and market intelligence and technology and software solutions.
+
+**Carrie Chowske:** I suspect that's just largely because we publish new content there since it's such a huge one.
+
+**Carrie Chowske:** But it's good to know that, you know, what that says to me is that when we publish new things, it's increasing the traffic that is, you know, the visits to the site.
+
+**Carrie Chowske:** So that's good news, in my opinion, anytime that you see that.
+
+**Joel Murphy:** I agree.
+
+**Joel Murphy:** And I mean, I think the angle that you guys take with this content is like, I don't know, I feel like nobody gives a  about like the types of companies that engine serves, you know, like these like smaller blue collar industry kind of things.
+
+**Joel Murphy:** And it's like, I feel like if I'm sitting in a seat in one of those businesses and going like, I need to know about whatever thing relative to our travel, our expense management, blah, blah, blah.
+
+**Kyle Gaudreau:** There's probably not a ton that I feel might be specifically written for me.
+
+**Joel Murphy:** So I'm hoping that.
+
+**Joel Murphy:** And, you know, trend continues as we kind of, like, fill a gap that maybe not many people really care to do.
+
+**Kyle Gaudreau:** A random thing that's in my mind, I've been wanting to bring up at some point, tertiary related to this, is, like, you know, connecting with, like, GEO and, you know, just even, like, broader, just, like, organic and, like, what's possible.
+
+**Kyle Gaudreau:** I've been talking to, like, different teams and, like, you know, either what we've experimented with here or mainly what I am hearing some other brands do.
+
+**Kyle Gaudreau:** And, like, a tactic that's becoming a little bit more common is, like, Reddit community management type things.
+
+**Kyle Gaudreau:** Yes.
+
+**Kyle Gaudreau:** And so it's, like, find the threads and be, like, very, like, there's different tactics.
+
+**Kyle Gaudreau:** But, like, one I've heard, you know, works fairly well is, like, being, like, very transparent about, like, you are with this company and you are just there to provide a helpful answer.
+
+**Kyle Gaudreau:** Because, basically, right.
+
+**Kyle Gaudreau:** Editors will flame anyone who thinks they're like trying to like sell without selling and yeah but anyways like with that mindset of just like getting into those communities and like actually like demonstrating that you all like have a solution for them and are thinking about them like there's got to be some value there.
+
+**Joel Murphy:** It's just a matter of like what does that look like.
+
+**Joel Murphy:** Agreed and I've been looking into that and Barry actually did a couple interesting tests on that semi-recently and he was telling me about that I can't remember the exact details I have to go back to the conversation but he he was experimenting with like what type of comment and what type of community would would remain and what would get deleted by a mod and he had a whole like this works this doesn't.
+
+**Joel Murphy:** The thing is was it's like well how do you do that like you know at scale.
+
+**Joel Murphy:** Without triggering some, you know, like you guys are just banned for life kind of thing.
+
+**Joel Murphy:** And looking into that, there's agencies that do this Reddit management for you.
+
+**Joel Murphy:** But it's like, I don't know, it's like expensive.
+
+**Joel Murphy:** And it's like, okay, well, how do I prove out the ROI?
+
+**Kyle Gaudreau:** And I was just like, I don't know.
+
+**Kyle Gaudreau:** I'm not even sure you need to necessarily worry about Scalia is some of the things I'm hearing.
+
+**Kyle Gaudreau:** It's like a little bit goes a long way if it's focused.
+
+**Carrie Chowske:** And if you've got somebody that, oh, good.
+
+**Carrie Chowske:** No, I was just gonna say, and if you've got somebody, if Barry is somebody who's like a, you know, a strong user of Reddit and understands the way that communities work there too, that goes a long way also.
+
+**Carrie Chowske:** Like it, more authentic it is, obviously.
+
+**Carrie Chowske:** That's kind of where, where it's, it's like, I mean, I know that's true always when you talk about social media, it's talking about being authentic.
+
+**Joel Murphy:** But I think on Reddit, like the  detector is like up, up at a hundred, you know what I mean?
+
+**Joel Murphy:** Yeah, for sure.
+
+**Joel Murphy:** You know, it's funny.
+
+**Joel Murphy:** Like he was out.
+
+**Joel Murphy:** Actually doing it in a way where it really was a gray hat.
+
+**Joel Murphy:** It was like bought an account for five bucks.
+
+**Kyle Gaudreau:** Oh, so this is what I was just going to bring up, actually.
+
+**Kyle Gaudreau:** So there's a guy, I just had a call with him last Friday just to check in.
+
+**Kyle Gaudreau:** He was pitching me when I was at FonBase.
+
+**Kyle Gaudreau:** It was like right before I joined here and just never went with it because of just timing.
+
+**Kyle Gaudreau:** And basically, he has like a sophisticated approach to like buying accounts, warming accounts.
+
+**Kyle Gaudreau:** Supposedly, he's got some impressive results.
+
+**Kyle Gaudreau:** You know, he has a whole system.
+
+**Kyle Gaudreau:** was digging into it or whatever.
+
+**Kyle Gaudreau:** And my intention of talking with him is like, yeah, maybe there's a day I have the right client who would be open to experimenting, but just being like very transparent in what it is and this and that.
+
+**Kyle Gaudreau:** So I'm not sure if it's something, you know, worthwhile exploring or not.
+
+**Kyle Gaudreau:** If it makes sense when they're happy to like.
+
+**Kyle Gaudreau:** You know, make a connection, but my mindset has been, like, how to, like, dabble with kind of, like, a more white hat version and see what's possible and, like, I don't know.
+
+**Joel Murphy:** Yeah, I mean, the gray hat stuff's interesting, but the white hat is definitely preferred from a risk perspective.
+
+**Joel Murphy:** I mean, I don't know, man.
+
+**Joel Murphy:** I'll dig back into that conversation with Barry and share some of that stuff because it was kind of interesting and really was shocking at how cheap, like, he was telling me, like, we could buy our own subreddit for, I don't know, the amount, but it was, like, shocking.
+
+**Joel Murphy:** So, it really feels like the old days, old, early days of SEO were, like, you can try any kind of weird stuff and it has some likelihood of moving the needle, but also know in those days eventually ended, right?
+
+**Joel Murphy:** They'd figure out these tricks and shut them down, so.
+
+**Kyle Gaudreau:** Exactly.
+
+**Kyle Gaudreau:** And so, is there a path where the incentive aligns for ChatGPT?
+
+**Kyle Gaudreau:** vii.
+
+**Kyle Gaudreau:** Or whatever to penalize that because people are gaming it in some means.
+
+**Joel Murphy:** Exactly, yeah.
+
+**Kyle Gaudreau:** So yeah, that's one of the things that leads me to lean more white hat to start, but just being open to trying stuff out too at the same time.
+
+**Joel Murphy:** Yeah, cool.
+
+**Joel Murphy:** Well, that is encouraging though.
+
+**Joel Murphy:** I'll go back to Barry and say like, maybe we can pick some of that up.
+
+**Kyle Gaudreau:** Yeah, I'd be gaming to explore it.
+
+**Kyle Gaudreau:** think there's maybe a good segue.
+
+**Kyle Gaudreau:** We can just talk about some GDO stuff, Carrie, unless I'm derailing you completely.
+
+**Carrie Chowske:** Nope, not at all, not at all.
+
+**Kyle Gaudreau:** Yeah, if you could just scroll down a little bit, just a few things on trend-wise.
+
+**Kyle Gaudreau:** Like I was sharing with you before that like spike you all saw before.
+
+**Kyle Gaudreau:** It's sort of, it's basically like seeming to normalize.
+
+**Kyle Gaudreau:** It was just kind of a bit of like a random spike.
+
+**Kyle Gaudreau:** It's like, I mean, generally trending up in terms of LLM referral traffic, but that spike comes back to that article.
+
+**Kyle Gaudreau:** Jared with you all before when I was talking to Carrie, know this isn't our refresh pipeline, I'm sure we can help, but my gut just tells me like this is better for you all to, it's not that we're not willing to help, it's just that this is so engine specific that, you know, we're happy to take a first stab or even make recommendations, but this is an article that's just like, you know, very engine specific, it's from 2021, it had that spike, this is like a daily snapshot and like, you know, some days afterwards.
+
+**Kyle Gaudreau:** It's just kind of like one of those things where it actually is kind of like unintentional, like pretty good, like GEO type of article.
+
+**Kyle Gaudreau:** So I think it'd just be really good to make sure it's communicating how you all actually see engine today, because four years is a long time.
+
+**Joel Murphy:** Hell yeah, it is.
+
+**Carrie Chowske:** I mean, we're not even Hotel Engine anymore, so.
+
+**Carrie Chowske:** I was just going to say that, yeah.
+
+**Joel Murphy:** Yeah, so why don't we do this?
+
+**Joel Murphy:** Why don't I take away just a high level glance of like,
+
+**Joel Murphy:** I'm seeing how off-base it might or outdated it might be.
+
+**Joel Murphy:** Sure, yeah.
+
+**Joel Murphy:** And then, yeah, I'd love, like, recommendations on, you know, once I assess, like, that, what we might be able to do.
+
+**Carrie Chowske:** Sure.
+
+**Carrie Chowske:** Yeah, yeah, for sure.
+
+**Carrie Chowske:** I was thinking, too, I was saying to Kyle that it might be an opportunity, too.
+
+**Carrie Chowske:** We kind of talked about if we wanted to look at maybe kind of any kind of collab stuff we could do with Barry, because I know he's added to some of the content he worked on, has, like, you know, calculators and things and features in it that we don't, because of the, you know, volume that we're working at, don't always have access to or time to deal with, too.
+
+**Carrie Chowske:** So it could be a good, like, you know, because it'd be a good resource for us, too, because we can also then give this back to our algorithm and be like, okay, here's how it all works and kind of, you know, have the right talking points from, you know, to eliminate some of those issues we've had with the hallucinations.
+
+**Joel Murphy:** Yeah, that sounds good.
+
+**Joel Murphy:** So just to give you some context on Barry, so he's kind of like a, he's a contractor, and he's kind of like a lone wolf.
+
+**Joel Murphy:** He technically reports to me, but like Barry and our CEO are like old buddies, so like they communicate a lot.
+
+**Joel Murphy:** And like Barry goes and does stuff, very lone wolf type way.
+
+**Joel Murphy:** And I have just not found the space in my days right now to like figure out how do we bring him into this.
+
+**Joel Murphy:** But I have talked to him about it a little bit.
+
+**Joel Murphy:** And, you know, he had like good things to say about what you guys are doing, especially because he was like, man, the old agency, like they said they're going to give us human content.
+
+**Joel Murphy:** a bunch of AI , like GrowthX, like they're upfront about what it is and it's good stuff.
+
+**Kyle Gaudreau:** And I was like, okay, cool.
+
+**Joel Murphy:** So like, you know, yeah, so I just got to figure all that weird dynamic out, but I'd love it, you know, if he were involved more.
+
+**Joel Murphy:** And, you know, maybe it's, maybe it's like you guys stay in the lane.
+
+**Kyle Gaudreau:** You're clearly, or this is working.
+
+**Joel Murphy:** And Barry's like our gray hat, you know, lone wolf dude over here that does like.
+
+**Joel Murphy:** Special ops.
+
+**Joel Murphy:** Yeah, exactly that.
+
+**Joel Murphy:** So we'll get there.
+
+**Joel Murphy:** It's just, we just see things going on.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** If you could scroll a little bit, Carrie, I just want to like tee up a little bit.
+
+**Kyle Gaudreau:** So like net net, it looks like, you know, visibility is like, the reason I, this snapshot is like 60 days.
+
+**Kyle Gaudreau:** The reason I did that is like, I think it's kind of like, one, I think just getting a pulse on kind of like where we've been.
+
+**Kyle Gaudreau:** The charts and scrunts are pretty crap.
+
+**Kyle Gaudreau:** We'll have our own solution for this soon.
+
+**Kyle Gaudreau:** But I also think there's just like, this is helpful to know that like positions up, you know, 58%.
+
+**Kyle Gaudreau:** That's
+
+**Kyle Gaudreau:** Presence is up 39% over the last 60.
+
+**Joel Murphy:** Like those are positive trends.
+
+**Kyle Gaudreau:** But also like this is very dependent on like the prompts we track.
+
+**Kyle Gaudreau:** And so if I put that alongside what we see in LM referrals, somewhat connects, right?
+
+**Kyle Gaudreau:** Because LM referrals are largely like trending up.
+
+**Kyle Gaudreau:** But this would almost indicate that like it's a stronger trend theoretically than it is.
+
+**Kyle Gaudreau:** And so I just want to start like spending more time, like refining the prompts.
+
+**Kyle Gaudreau:** I think we need to certainly broaden.
+
+**Kyle Gaudreau:** Maybe there's something we to cut.
+
+**Kyle Gaudreau:** I wanted to walk you through just an example of how I'm thinking about this.
+
+**Kyle Gaudreau:** Because I actually think it connects a little bit to what we're talking about, Gary and Reddit.
+
+**Kyle Gaudreau:** Or Barry, not Gary, Barry.
+
+**Kyle Gaudreau:** Could I share my screen real quick?
+
+**Kyle Gaudreau:** Carrie, thank you.
+
+**Kyle Gaudreau:** So I just want to show you what I've been doing.
+
+**Kyle Gaudreau:** I've done this in different ways with perplexity.
+
+**Kyle Gaudreau:** So basically what I did was I took the...
+
+**Kyle Gaudreau:** The company context brief, and then I also took out specifically the construction persona, and only like a couple people from that, was trying to like limit the context window, but intention basically is just like working back to identifying subreddits, so first I just, you know, fed it, understand the context, then help me identify relevant subreddits.
+
+**Kyle Gaudreau:** Would be very curious if you guys have like a better list we can like supplement this against, because no doubt, I'm sure this didn't pick up everything that would be ideal.
+
+**Kyle Gaudreau:** It's initial list that spit out for me, I basically like made an ask to like build me this table, and what I'm trying to understand is like common like questions, topics, related questions, help me understand frequency, the top areas this is showing up, and some examples.
+
+**Kyle Gaudreau:** This initial table is like just kind of okay, my main concern was like, I don't want to make decisions off of
+
+**Kyle Gaudreau:** Like, just some random thread that was thrown up or, like, had two comments and, like, two upvotes.
+
+**Kyle Gaudreau:** Like, that could be helpful, but that doesn't mean that's a common question.
+
+**Kyle Gaudreau:** And so the deepening research I asked it to do is directionally, I think, better.
+
+**Kyle Gaudreau:** I need to continue to refine this a bit, but I think it's going in the right direction.
+
+**Kyle Gaudreau:** So, you know, this one's not surprising about Fathom crews and, like, some associated questions.
+
+**Kyle Gaudreau:** Engine actually did come up in a couple of these specifically.
+
+**Kyle Gaudreau:** Like, now getting to this count and this amount of votes and comments, I'm like, okay, that's, like, you know, a better pulse.
+
+**Kyle Gaudreau:** Still, again, maybe there's better, like, subreddits to be considering here.
+
+**Kyle Gaudreau:** Per-dem rates came up, some long-term things, some things around digital receipts, costs, et cetera.
+
+**Kyle Gaudreau:** So, like, anyways, would love any input into, like...
+
+**Kyle Gaudreau:** If you all have something in terms of subreddits, and or if there's a particular thing for you all that you'd have higher conviction focusing on personal-wise, to me it felt like construction was a good one to start.
+
+**Kyle Gaudreau:** And I just kind of want to start doing it from that frame of just like let's pick a smaller group, understand kind of where they play.
+
+**Kyle Gaudreau:** Oh, and then the additional question is like if there are additional sources I should consider outside of the obvious.
+
+**Kyle Gaudreau:** You know, like obviously Reddit could check Quora, things like that, but you know, and I can do my own research, of course, but like ultimately I'm just trying to get a pulse on like the different signals I can pick up from different sources.
+
+**Kyle Gaudreau:** And can I work back off of these are key topics and questions that they have and building prompts off of that.
+
+**Kyle Gaudreau:** And of course, like building content for it, then we can also talk about like how do we see these conversations where applicable with like, you know, some sort of community management type thing.
+
+**Kyle Gaudreau:** So that's kind of like where my head's going.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** I curious if you had any feedback or thoughts.
+
+**Joel Murphy:** No, I love it.
+
+**Joel Murphy:** Yeah, I'll ping Barry to see about that subreddit list.
+
+**Joel Murphy:** I feel like the stuff that he and I talked about had a lot more to do with groups than this kind of construction, oil and gas type.
+
+**Joel Murphy:** But I might be wrong.
+
+**Joel Murphy:** He might have just shared the group stuff.
+
+**Joel Murphy:** I don't know.
+
+**Joel Murphy:** But I'm trying to think.
+
+**Joel Murphy:** He might have actually shared a sheet with me that I probably still have with some of where he ran some experiments.
+
+**Joel Murphy:** I'll send over what he's got.
+
+**Kyle Gaudreau:** Okay, cool.
+
+**Kyle Gaudreau:** Yeah, so I think there's some stuff we can build on here.
+
+**Kyle Gaudreau:** Essentially, I just want to kind of take this.
+
+**Kyle Gaudreau:** We'll build an initial list of prompts.
+
+**Kyle Gaudreau:** We can build off of that again in a variety of ways, but we'll get your eyes on it.
+
+**Kyle Gaudreau:** See if you have any, if anything stands out.
+
+**Kyle Gaudreau:** But I think there's, there's likely some good.
+
+**Kyle Gaudreau:** Coverage in here that we can start to pick apart and then just go like through different personas.
+
+**Kyle Gaudreau:** And I think we can probably develop some pretty good momentum in that way, both from like SEO and GEO side of things.
+
+**Joel Murphy:** Yeah, think this is a great way to kind of try to reverse engineer some of this.
+
+**Joel Murphy:** It's funny how many products are out there that like can tell you that they can give you all this insight.
+
+**Joel Murphy:** And I don't know what you've shown me now feels better than most of that stuff to me.
+
+**Kyle Gaudreau:** I'm obviously biased here, but I very much agree.
+
+**Kyle Gaudreau:** I've been putting a plug into our team's ear because we're developing our own product.
+
+**Kyle Gaudreau:** And I was sitting alongside one of the engineers working on that.
+
+**Kyle Gaudreau:** And I was like, I'm telling you, like, no one's doing this right now.
+
+**Kyle Gaudreau:** They should be trying to uncover these sorts of things because there's meaningful insights here.
+
+**Kyle Gaudreau:** Agreed.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** So and to me, it's kind of interesting because it's just like, yeah, it's a little bit of you can approach it from a variety of different creative angles.
+
+**Kyle Gaudreau:** And yeah, if no one else is doing this, this is opportunity.
+
+**Joel Murphy:** For us to gain some advantage, hopefully.
+
+**Kyle Gaudreau:** Yeah, I like it.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** Yeah, I think it's just, it's worth talking about with like being, the GEO thing being more about like your core SEO stuff.
+
+**Carrie Chowske:** What's like this kind of stuff, you know, we've been doing for years, researching topics, know, just now we've got the boost of using AI to help us, you know, scrape and cull through all of that stuff.
+
+**Kyle Gaudreau:** It's amazing.
+
+**Carrie Chowske:** Yeah, I love it.
+
+**Kyle Gaudreau:** Like, end to end, just doing that thread, like that, maybe 20 minutes or so, and there's a lot of stuff to extract from that ton of value.
+
+**Joel Murphy:** So, I imagine trying to do that  10 years ago.
+
+**Kyle Gaudreau:** Oh, that's like a, yeah.
+
+**Joel Murphy:** five.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Easily.
+
+**Carrie Chowske:** Or even just like, even just a couple years ago, just even thinking about like the conversation wasn't there about AI yet.
+
+**Carrie Chowske:** People weren't trusting it in the way that, I mean, I think there's still some trust issues too, but like, I think just, just going, okay.
+
+**Carrie Chowske:** If we know how to work with it, we can confidently say that we can use this in certain ways and know that it's going to be better instead of talking all the time about why MDashes are a sign of AI-generated content.
+
+**Carrie Chowske:** Well, AI will continue to rapidly get better.
+
+**Carrie Chowske:** it's like, well, you know, the bias is like, well, I trust people.
+
+**Joel Murphy:** People lie.
+
+**Joel Murphy:** AI doesn't lie.
+
+**Joel Murphy:** I mean, it might hallucinate.
+
+**Kyle Gaudreau:** It might get confused, but the rate of that will continue to go down.
+
+**Joel Murphy:** And at some point, you're going to be able to trust that more than, you know.
+
+**Kyle Gaudreau:** Oh, we'll see.
+
+**Kyle Gaudreau:** I saw something randomly this week.
+
+**Kyle Gaudreau:** I didn't, it was a classic.
+
+**Kyle Gaudreau:** I think I read more of the headline than the actual article, but I skimmed it.
+
+**Kyle Gaudreau:** It was like more around there, you know, researchers who are experimenting with like how to train AI not to lie or something to that effect.
+
+**Kyle Gaudreau:** And then the result of it is that it's training it how to.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** Okay.
+
+**Kyle Gaudreau:** I can see that.
+
+**Carrie Chowske:** So.
+
+**Carrie Chowske:** It's like when they first, I start some of the early research, I was still working in academia.
+
+**Carrie Chowske:** And there was this one professor that was doing a lot of like, ethical kind of stuff related to that.
+
+**Carrie Chowske:** And like, specifically, she was looking at when people use like those ATS, like trackers and stuff for hiring.
+
+**Carrie Chowske:** And like, by feeding it good data, they taught it to be like racist and sexist, because people were inherently having those biases.
+
+**Carrie Chowske:** And so then when you apply that, and you say, here's good candidates, they're white, they're male, they have European sounding names, they're, you know, and now you're training the algorithm to be just like you.
+
+**Carrie Chowske:** And like, that's not always a good thing either.
+
+**Carrie Chowske:** So anyway, it's very fascinating when you really think about it.
+
+**Carrie Chowske:** But the other day, we were talking about Claude basically saying, Oh, you're right, I didn't make the changes you asked me for, and then just kept making the same error.
+
+**Carrie Chowske:** And I'm like, that's the most human thing I've ever seen AI do.
+
+**Carrie Chowske:** was like to continually F it all up, and then be like, my bad, and then doing it again.
+
+**Kyle Gaudreau:** It's funny you mention that, because I've done, the perplexity flow I went through, I've done before, but this time I want to try to see how Claude would do it.
+
+**Carrie Chowske:** And so I started doing this in Claude, and it wasn't very good.
+
+**Kyle Gaudreau:** It just wasn't going deep enough.
+
+**Kyle Gaudreau:** And then I, like, tried to prompt it to get deeper, and it, like, basically, like, came clean, that, like, it wasn't actually, like, looking at much of the day.
+
+**Kyle Gaudreau:** was like, whoa.
+
+**Kyle Gaudreau:** Like, it's, like, very much, like, it was, like, very interesting with how it approached it.
+
+**Carrie Chowske:** It did feel very similar.
+
+**Joel Murphy:** I prefer that.
+
+**Joel Murphy:** I have literally been verbally yelling, and all caps, typing to ChatGPT, like, you're making  up.
+
+**Joel Murphy:** Stop.
+
+**Joel Murphy:** Just say you don't know.
+
+**Joel Murphy:** Like, it just wastes my time.
+
+**Joel Murphy:** Yeah.
+
+**Joel Murphy:** I'd rather it just throw its hands up.
+
+**Carrie Chowske:** I legit called Claude a liar yesterday.
+
+**Carrie Chowske:** So, just, like, literally, I'm going to get killed by the AI first when it takes over.
+
+**Kyle Gaudreau:** See?
+
+**Kyle Gaudreau:** It goes back to the matrix.
+
+**Kyle Gaudreau:** That's totally what's happening.
+
+**Joel Murphy:** Yeah.
+
+**Carrie Chowske:** It's to come they're going come for me first, because I cussed that thing out, like, no tomorrow.
+
+
+**Carrie Chowske:** Yeah, no, Perplexity was one of my clients at my last agency, and I just really, like, I got really, like, into what they were doing because the deep research, like, part of their product is really, really strong.
+
+**Carrie Chowske:** And what I like about it, too, is that you can tell it to use Claude.
+
+**Carrie Chowske:** can tell it to, now, granted, it's doing that, obviously, through an API, so it's kind of like a lighter version of the product a little bit, but you can still, if you, like, I used to do it, use it almost exclusively because, of being able to, you know, pick a different model mid-thread, you know, kind of be like, no, let's see what this model does, but we, you know, I also really like the projects feature in Claude for some, for writing, Claude does really good mimicry.
+
+**Carrie Chowske:** It's good at matching a voice, hitting some criteria, but if you're talking deep research, I really, really like using Perplexity.
+
+**Kyle Gaudreau:** Well, the game changer now, according to our engineering team, we are now putting this into a lot of our workflows, is EXA.
+
+**Kyle Gaudreau:** It's just a perplexity competitor and apparently just blowing them away in deep research.
+
+**Kyle Gaudreau:** It's not the same experience that you can just go to and like prompt in that way, but we are working it via API into our workflows.
+
+**Kyle Gaudreau:** It's very expensive, but it's like apparently light years better.
+
+**Kyle Gaudreau:** So perhaps something we'll, I'm trying to think, you know, what I just basically walked through and perplexed it.
+
+**Kyle Gaudreau:** Like to me, that needs to be more and more of a customized workflow that we can run.
+
+**Kyle Gaudreau:** So maybe it could be an interesting experience to see what Exa can do here.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** Yeah, for sure.
+
+**Carrie Chowske:** Cool, cool, cool.
+
+**Carrie Chowske:** Okay.
+
+**Carrie Chowske:** Did I have anything else?
+
+**Carrie Chowske:** I don't think I did.
+
+**Carrie Chowske:** I think I'll keep an eye out for the info on that corporate card so we can start working maybe on some content around that.
+
+**Joel Murphy:** Yeah, I was going to ask you about that.
+
+**Joel Murphy:** So I didn't have permission to share it directly, so I had to request to share and that may just go into some black hole.
+
+**Carrie Chowske:** So let me ping Margo, who's the PM for it, and see if she can just share.
+
+**Carrie Chowske:** Yeah, and we can also like hold.
+
+**Carrie Chowske:** Like I
+
+**Carrie Chowske:** Obviously, we won't do anything with it until you guys give us the go-ahead on it also.
+
+**Joel Murphy:** So if that's a concern, just – No, no, no.
+
+**Joel Murphy:** It's not.
+
+**Joel Murphy:** Actually, she and I had already discussed that you guys would be working towards that thing anyway.
+
+**Joel Murphy:** So, yeah, she's totally cool with that.
+
+**Carrie Chowske:** Cool.
+
+**Carrie Chowske:** All right.
+
+**Carrie Chowske:** Sounds good.
+
+**Carrie Chowske:** I should have some new content for you either later today or first thing tomorrow for review.
+
+**Carrie Chowske:** And so I'll just tag you in Slack and let you know.
+
+**Joel Murphy:** That way you can tell me if the interface is actually working this time.
+
+**Joel Murphy:** Sorry about that.
+
+**Joel Murphy:** Growthxlabs.com is the For the team one, yeah.
+
+**Joel Murphy:** Okay, got it.
+
+**Joel Murphy:** Cool.
+
+**Kyle Gaudreau:** All right.
+
+**Kyle Gaudreau:** Well, enjoy the rest of the week.
+
+**Kyle Gaudreau:** Yeah, let us know when you come around the Reddit stuff.
+
+**Kyle Gaudreau:** We'd love to continue to deepen this.
+
+**Kyle Gaudreau:** Yep, I'll keep you posted.
+
+**Carrie Chowske:** Thank you.
+
+**Carrie Chowske:** Thank you.
+
+**Carrie Chowske:** And let Barry know, too, if he has things that he's like, you know, this would be cool, but I don't really
+
+**Carrie Chowske:** We want to dig into it.
+
+**Carrie Chowske:** Like, he can toss those our way, too.
+
+**Carrie Chowske:** Like, I don't have any problem with taking, you know, taking ideas from him that are, you know, he's like, yeah, I don't want to explore this.
+
+**Joel Murphy:** I don't have time to get into this.
+
+**Joel Murphy:** We can kind of explore it, too.
+
+**Joel Murphy:** yeah, I'll sync with him soon.
+
+**Joel Murphy:** Just throw this out there really quickly.
+
+**Joel Murphy:** We have this homepage project that we are working rapidly because it's a whole, like, we've got to have this ready for Dreamforce thing.
+
+**Joel Murphy:** So, like, it's taking a ton of time.
+
+**Joel Murphy:** That's intention.
+
+**Joel Murphy:** So, you know, just bear with me over the next 10 that's where the debate comes in of positioning, I'm guessing.
+
+**Joel Murphy:** Yeah, there's all kinds of debates, man.
+
+**Joel Murphy:** I got all kinds of opinions and  to say.
+
+**Joel Murphy:** A lot of it I'm keeping to myself because we don't have time to discuss it.
+
+**Joel Murphy:** Yeah, it's a spicy one for sure.
+
+**Kyle Gaudreau:** Yeah.
+
+**Joel Murphy:** All right.
+
+**Joel Murphy:** Well, good luck.
+
+**Joel Murphy:** Yeah, I appreciate it.
+
+**Carrie Chowske:** All right.
+
+**Carrie Chowske:** Talk soon.
+
+**Carrie Chowske:** All right.
+
+**Carrie Chowske:** See you guys.
+
+**Carrie Chowske:** Bye.
+
+**Carrie Chowske:** Bye.

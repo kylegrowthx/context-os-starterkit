@@ -1,0 +1,3541 @@
+{
+    "title": "Logic Product Deep Dive (Steve Krenzel)",
+    "meeting_title": "Product Deep Dive (Steve Krenzel)",
+    "url": "https://fathom.video/calls/405844293",
+    "created_at": "2025-09-10T18:39:53Z",
+    "scheduled_start_time": "2025-09-10T18:00:00Z",
+    "scheduled_end_time": "2025-09-10T19:00:00Z",
+    "recording_id": 86364914,
+    "recording_start_time": "2025-09-10T18:01:11Z",
+    "recording_end_time": "2025-09-10T18:39:47Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Hey, Erik, how's it going?",
+            "timestamp": "00:00:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Good, good.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm on top of D.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "Where are you based out of?",
+            "timestamp": "00:00:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I am based in Iowa.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Oh, nice.",
+            "timestamp": "00:00:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Spent about 15 years in Chicago and just moved back a couple months ago.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Taking a break from the big city.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I've been to Chicago a few times.",
+            "timestamp": "00:00:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Big fan.",
+            "timestamp": "00:00:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I love it.",
+            "timestamp": "00:00:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "I still go back about once a month.",
+            "timestamp": "00:00:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Nice.",
+            "timestamp": "00:00:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I grew up in Philadelphia and Chicago reminds me a lot of Philly.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So I'm in Seattle these days, but yeah.",
+            "timestamp": "00:00:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Nice.",
+            "timestamp": "00:00:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:00:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Azzam, good to see you.",
+            "timestamp": "00:00:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Hey, likewise.",
+            "timestamp": "00:00:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "How you doing?",
+            "timestamp": "00:00:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "How you doing, Erik?",
+            "timestamp": "00:00:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Doing well.",
+            "timestamp": "00:00:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thanks for taking the time to do this, guys.",
+            "timestamp": "00:00:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:00:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So for these, we typically kind of let you just run through the product.",
+            "timestamp": "00:00:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Um, Mm-hmm.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm,",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Some people do it like as a sales or demo pitch, but I think, you we'll keep it conversational.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I've got some questions if we get stuck, but other than that, I think just running me through from kind of top to bottom of the product.",
+            "timestamp": "00:01:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'll bring up my screen and get into it.",
+            "timestamp": "00:01:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Cool.",
+            "timestamp": "00:01:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So you should see my browser.",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yep.",
+            "timestamp": "00:01:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So the basic premise of Logic is that if you have some kind of SOP or like a standard operating procedure or product requirements document, which is some kind of natural language description of a business process, you should be able to add it to our system and we'll automate that process for you.",
+            "timestamp": "00:01:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And there's, there's implicit constraints there, but that's the high level thing.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "You give us a description of a business process, we automate it for you.",
+            "timestamp": "00:01:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "When you go to create a new document, you can give us a one-line description where we'll write the document for you or where you can bring your own.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "You may have also seen, if I type in marketing or something, we'll pull up some related templates that we might have in our workflow library that we have.",
+            "timestamp": "00:02:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But in this case, let's just start with a blank document.",
+            "timestamp": "00:02:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I have a pretty simple but small document that I tend to test things with that just describes redacting PII.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so we can just throw this into Logic and we'll publish this.",
+            "timestamp": "00:02:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And as it's publishing, you'll see a whole bunch of things kick off.",
+            "timestamp": "00:02:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Okay, yeah.",
+            "timestamp": "00:02:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "This is our staging server, so there might be a couple wonky things.",
+            "timestamp": "00:02:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so as soon as I add just the Logic, behind the scenes, we just kicked off about 25 agents.",
+            "timestamp": "00:02:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "that are doing, kind of teasing apart this document.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The document itself is pretty simple.",
+            "timestamp": "00:03:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "It just says, you know, given a random blob of text, redact any PII from it, annotate what kind of PII was there, and give us back a list of the PII that we removed from it.",
+            "timestamp": "00:03:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "PII is personally identifiable information.",
+            "timestamp": "00:03:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And here's a list of things that you might want to think about redacting.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so as soon as we get to the logic, we generate a user interface for it.",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "This is a simple user interface.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Because this is just a single field, you know, it'd be like Erik, Azzam, and Steve are on a call.",
+            "timestamp": "00:03:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We can now run this process right in browser.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The first time you run it, it does take an extra second or two, but this is actually being driven by this document on the left right now.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And in a second, you should see this text redacted along with a list of the things that we redacted.",
+            "timestamp": "00:03:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so, you know, as promised, you know, here's redacted content, here's the things we redacted from it.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "If we wanted to export this as like a spreadsheet or something,",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Then we could do that.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And if we just wanted to generate random data to test things with, we can do that as well.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So one of the big things, though, is we, especially for our target audience who are generally non-technical, we want to give them high confidence that this system, this process will actually work and do the things that they expect it to do and work reliably.",
+            "timestamp": "00:04:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So we also generate test cases.",
+            "timestamp": "00:04:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And our test case generator, I'll run these.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Our test case generator tries to get into kind of the nooks and crannies of your SOP and try to find parts that might be edge cases or maybe underspecified.",
+            "timestamp": "00:04:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we'll actually actively try to, like, break, for lack of a better word, your SOP and highlight areas that could be improved.",
+            "timestamp": "00:04:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "so typically, you'll see one to three, for more complex SOPs, maybe seven to all 10 might fail.",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I would expect for this case, maybe one, one to three might fail.",
+            "timestamp": "00:04:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, so in this case, one failed.",
+            "timestamp": "00:04:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "One",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And usually we'll explain it to you, like the actual result redacts both the name and email address, but the expected result only redacts the email.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so we can kind of go in and see what's going on here.",
+            "timestamp": "00:05:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so in the actual output, oh, so this is a scenario where the live document is actually correct and the test is wrong.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The test, like the expected output, according to the test, did not exclude Jane.",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so we could go and we really need one, like a button that would just say like, hey, fix my test or fix my doc.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And that is something on our list.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We just don't have it yet.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But today we'd go in and edit it and say like, oh, you know, the actual correct out expected output is that Jane should be redacted.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we could we could fix up this test if it was the other way around, if the test was correct, but the document was not working correctly, we could just go over here and edit our document until the test passes.",
+            "timestamp": "00:05:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We also generate integration docs.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "If you have an engineering team that wants to kind of call this process as though it's an API, every single one of your documents in Logic becomes an endpoint that they can call.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Every single API is well-typed, both on the inputs and the outputs.",
+            "timestamp": "00:06:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We guarantee anything that our system generates will match this schema.",
+            "timestamp": "00:06:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So in this case, it's a pretty simple schema, the redacted content and the redacted entities.",
+            "timestamp": "00:06:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We give you little code snippets.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so I could hop over here, copy this, and if I hop over to my terminal, I can just paste this in.",
+            "timestamp": "00:06:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And now this is actually calling the exact same back end, the exact same process that we were running in the web browser.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But now I can put this in an engineering pipeline.",
+            "timestamp": "00:06:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And in three seconds, you'll see a wall-type JSON payload instead of kind of the web UI that we were using before.",
+            "timestamp": "00:06:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so, yeah, just like before, you know, here's the input, here's the output.",
+            "timestamp": "00:06:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Behind the scenes, we do do a lot of little things.",
+            "timestamp": "00:06:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Like when we say...",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The status was successful.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "That doesn't just mean that our server kind of responded to your request.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Before we ever give a response back to the user, we actually have a second agent kind of inspect the output and make sure it semantically seems correct.",
+            "timestamp": "00:07:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And if, you know, if the inputs were weird or if the output just doesn't seem right, we'll actually flag that as an error and explain, like, hey, we couldn't do this task because you, you know, the process requires a color and you gave us a number.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And like, that's, you know, we just can't do the thing you asked us to do.",
+            "timestamp": "00:07:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So success here means more than just like, hey, we responded to you.",
+            "timestamp": "00:07:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Let's see.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Oh, we, you know, this is kind of a newer thing, but if you just want to, like, integrate this into an existing code base, you can actually copy this whole long agentic prompt that we have that kind of is all the context codex or cursor or cod would need to just kind of crawl your code base and do the integration on your behalf.",
+            "timestamp": "00:07:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We've tested this on a really large code base, like 10 million plus line code bases.",
+            "timestamp": "00:07:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And it works incredibly well.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we also keep an execution history of everything.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So you can see all the test calls that we've done.",
+            "timestamp": "00:08:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The artifact is the web inference that we did through the web UI.",
+            "timestamp": "00:08:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then this is the API call that we just made on the terminal.",
+            "timestamp": "00:08:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we do versioning.",
+            "timestamp": "00:08:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so right now, we only have one version, and it's live.",
+            "timestamp": "00:08:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But if we were to edit this, we could go in and, I don't know, maybe add another example, maybe delete something.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so now when I go to publish this, it won't actually go live right away.",
+            "timestamp": "00:08:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "It'll actually go to a draft, an in review state.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we give you kind of a little red line version of what's changing.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "You'll see all of the user interface, you know, the user interface will always stay up to date.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The test cases are updating, the integration docs are updating.",
+            "timestamp": "00:08:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Anytime you make any changes to this document, we make sure everything else gets updated automatically.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So the only thing the user ever has to worry about is this document over here.",
+            "timestamp": "00:09:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And the basic premise there is if you know how to use Google Docs or if you know how to use Notion, you can create an automated workflow in Logic.",
+            "timestamp": "00:09:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "You literally just write what you want to happen.",
+            "timestamp": "00:09:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We take care of everything else.",
+            "timestamp": "00:09:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Let's assume this was good.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I can approve and publish this.",
+            "timestamp": "00:09:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And now in my versions, you'll see the previous live version.",
+            "timestamp": "00:09:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We have a new live version.",
+            "timestamp": "00:09:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we automatically kicked off a new draft in this scenario.",
+            "timestamp": "00:09:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But suppose the new live version was broken because we deleted things that we shouldn't have broken or they shouldn't have deleted.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Another thing that we give the end user is confidence that we try to give you a lot of upfront kind of artifacts to give you confidence that the process is working.",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And kind of doing what you expected to do.",
+            "timestamp": "00:09:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But if you ever do make a mistake and kind of push something.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Live that you wish hadn't gone live.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "It's one click to fix it.",
+            "timestamp": "00:10:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "You just find the previous version that you knew worked.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "You just click and click.",
+            "timestamp": "00:10:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And now it's as though you'd never even published that broken version.",
+            "timestamp": "00:10:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so it's all about giving kind of like a non-technical audience comfort in owning these workflows that may live in your business's critical path.",
+            "timestamp": "00:10:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So that's kind of the high-level overview of all the features we have.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Oh, well, yeah, I guess there's this too.",
+            "timestamp": "00:10:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Like the Web UI, if you just wanted to share the user interface without the actual document, you can do that.",
+            "timestamp": "00:10:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so right now we do require you to log in, but we are making these shareable without having to be authenticated as well.",
+            "timestamp": "00:10:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So if you just wanted to kind of slack a tool to your team, you could do that.",
+            "timestamp": "00:10:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But another thing that's in flight is exposing all of these tools as, or all these loaded documents, I should say, as tools in Claude.",
+            "timestamp": "00:10:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So you can see this is still in flight, and so this is pretty gnarly, but all of your logic documents can become a tool that Claude can call on.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And I think any other thing we're showing is maybe a more complex use case is where this use case was motivated by one of the customers that, or I guess design partners that we might be working with, a health benefits company where they get kind of messy employee data that might be like, it's not capitalized correctly, or maybe there's just minor things wrong with the data when they're ingesting new clients, and they just have a whole process that describes how to clean it up.",
+            "timestamp": "00:11:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so they just write over here what they want to happen.",
+            "timestamp": "00:11:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We give their end user, or which might be their ops team or some kind of onboarding person, a tool where they can use this.",
+            "timestamp": "00:11:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But realistically, in their case, they would probably call us through an API.",
+            "timestamp": "00:11:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "They would just call this every time.",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "A new client is created, and we also handle a lot of our more interesting use cases have to do with files, like PDFs or images.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so this is a simple one where you'll receive a PDF invoice, and we want you to extract all of this from it.",
+            "timestamp": "00:12:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We can just hop into the history and see, yeah, like a previous call.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "It's like here, here's one of our invoices.",
+            "timestamp": "00:12:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Well, this is not one of our invoices, but a sample invoice.",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then, like, you know, extracting well-structured data from it.",
+            "timestamp": "00:12:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And this is a simple one where it's just, like, simple field extraction, but we'll have use cases where there might be validation or, like, compliance steps, like making sure certain fields match or, you know, doing something additional with this data.",
+            "timestamp": "00:12:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So I'll pause there.",
+            "timestamp": "00:12:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I just threw a lot at you.",
+            "timestamp": "00:12:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I can get into, like, real customer use cases, but I'll pause there.",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Oh, yeah, I'm following.",
+            "timestamp": "00:13:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I was going to ask about uploading files, but then you went to this one.",
+            "timestamp": "00:13:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So is there, I guess, any use cases where there's like a multi-step, like a multi-hop from like uploading the process invoice then to hand off to another automated process?",
+            "timestamp": "00:13:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So right now that is like, I guess, one of the constraints on the kinds of things you can automate in the system.",
+            "timestamp": "00:13:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Within a single document, you can have kind of logic, like branch logic, like, oh, go do this.",
+            "timestamp": "00:13:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And if this happens, go do that.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we do have some ability to go to, we can do like deep research in terms of like pulling in external data or doing searches on the web.",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So if you ask us to research a topic, we can do that.",
+            "timestamp": "00:13:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But in terms of kind of handing it off to another system, right now you would need some kind of wrapper, or either an integration team, or you need to use like N8N or Zapier or something to kind of shuffle data between.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "One of the other things kind of on our short to midterm roadmap is the ability for like one process, one logic document to call another logic document.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so you can kind of imagine kind of these trees or graphs of documents kind of all calling each other.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We just don't have that today.",
+            "timestamp": "00:14:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:14:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, so I guess like one more thing that would be really key to emphasize is like a really good example.",
+            "timestamp": "00:14:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The very first customer that ever went to prod with us is this e-commerce company, Garmentory.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "They're a small 14 person company.",
+            "timestamp": "00:14:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "There's one technical person on staff who also happens to be the CEO.",
+            "timestamp": "00:14:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So the CEO writes all the code and they they've been around for a little over a decade.",
+            "timestamp": "00:14:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And they have a copy of their moderation process for for a decade.",
+            "timestamp": "00:14:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "They had four contractors on staff that would follow this process.",
+            "timestamp": "00:14:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Every time they ingested inventory.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Inventory from Shopify, the human contractors would follow this guide for how to clean up brand name, how to clean up product name, what do you want to do for kid stuff, what do want to do for books.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And the contractors were expected to do about 500 items each per day, so they could do about 2,000 items on any given day.",
+            "timestamp": "00:15:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The typical time between an inventory item getting ingested and going live was about seven days.",
+            "timestamp": "00:15:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And last Black Friday, they had a backlog of 14,000 items, and they just didn't have enough capacity to get through it.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So they gave us their SOP for how they moderate products.",
+            "timestamp": "00:15:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "It's about a 24-page SOP.",
+            "timestamp": "00:15:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we just gave them back an API where they could send us a product, and we respond with a moderated product.",
+            "timestamp": "00:15:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And they just started throwing all the excess inventory at us.",
+            "timestamp": "00:15:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we did such a good job at it that by the middle of December, they had gotten rid of three of the four contractors, and by the middle of January, they got rid of the fourth contractor.",
+            "timestamp": "00:15:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so for the last...",
+            "timestamp": "00:15:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "For months, 100% of everything on Garmintory is moderated by Logic.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And since then, they have like, I don't know, eight other use cases.",
+            "timestamp": "00:16:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Like every time an image comes in, we analyze it for, you know, is there a person in this photo?",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Is this women's, men's, home style, kids?",
+            "timestamp": "00:16:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I think they have a process where we try to find the optimal photo to show first of like all the photos that might be uploaded with an item.",
+            "timestamp": "00:16:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But there was, so this is like one use case that has been like a huge success because in addition to allowing them to reduce their contracting team, we also made their pipeline real time and we reduced errors.",
+            "timestamp": "00:16:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So they're, they're, they used to have about 24% of items on the website used to have some kind of moderation error, usually pretty minor.",
+            "timestamp": "00:16:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But when you have a human doing something 500 times a day, there's just a lot of errors.",
+            "timestamp": "00:16:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So about 24% of items used to have.",
+            "timestamp": "00:16:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Some error, we reduced that to 2%.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so much higher quality results, much lower latency, save them a ton of money.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Really, really good result there.",
+            "timestamp": "00:17:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And one other use case I'll share is a company, DroneSense.",
+            "timestamp": "00:17:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "This is a little bit of a different use case.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I see an ace about this one.",
+            "timestamp": "00:17:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, so they do software for first responders, little drone software for first responders.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And this was just their ops team.",
+            "timestamp": "00:17:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I think I have a copy.",
+            "timestamp": "00:17:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Their actual production doc looks a little different than this, but it's roughly the same.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So they have this process.",
+            "timestamp": "00:17:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "They just have an operations team.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Their COO worked with us, and one of the people that reports to the COO uses us.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And it's super simple.",
+            "timestamp": "00:17:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Every Friday, just, or most Fridays, they drag some purchase orders into here and they want to extract data.",
+            "timestamp": "00:17:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "you guarantee that",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And concretely, let's see, do I, yeah, so they get these, so our customers drone sense, one of their largest customer is Axon, and they'll get these kind of really nasty purchase orders from them, because the Axon system doesn't know how to handle recurring software.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So instead, they send out these purchase orders for 10 years at a time, and so you'll see, you know, June 3031, June 2030, June 2029, June 2028, and then in the line items for each item, they'll say, like, how many licenses they want, how many months those licenses are good for, and then within this purchase order, there's multiple products that they're buying licenses for.",
+            "timestamp": "00:18:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so it's a bit of a, it's a very messy purchase order, and so every Friday, one of the ops people would kind of take this, and all they want to get out of it are two tables.",
+            "timestamp": "00:18:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "They want to get this table.",
+            "timestamp": "00:18:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And this table, and they would spend hours doing this every Friday, and we said, hey, just describe what you're doing in a document, and we'll take it away for you.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so that's what we did, and it's a simple interface.",
+            "timestamp": "00:19:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "They drop a PDF in here, and we give them back their tables.",
+            "timestamp": "00:19:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But since May, they only use this a dozen or so times a month.",
+            "timestamp": "00:19:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "They use this every single month.",
+            "timestamp": "00:19:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "From a product pricing perspective, do you guys do it by document or by call each month?",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, so that's something we're still iterating on.",
+            "timestamp": "00:19:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The only customer we're actively invoicing today is Garmentory, just because they're calling us about 190,000 times every month.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so there's this real meaningful expense there.",
+            "timestamp": "00:19:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And for them, we started billing in June, and for the first four months, we just agreed to flat rate billing.",
+            "timestamp": "00:19:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then we're billing per execution.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Let me see if I have, I'll say that the, our pricing strategy is something we're still working on.",
+            "timestamp": "00:20:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I don't, yeah, oh yeah, there it is, wait.",
+            "timestamp": "00:20:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But our current thinking around pricing is per task.",
+            "timestamp": "00:20:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "If it's just kind of data, like data in, data out, we can do it pretty fast, pretty cheap.",
+            "timestamp": "00:20:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Once we get into like handling images and PDFs, there's a lot more we're doing behind the scenes.",
+            "timestamp": "00:20:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So pricing is a little bit differently and also depending on the complexity of the task.",
+            "timestamp": "00:20:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then, and we're just getting into tool use where we can do like deep research, like I mentioned earlier, and some other tools around like image editing and things.",
+            "timestamp": "00:20:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But the pricing there is so variable that we just have the price per tool call.",
+            "timestamp": "00:20:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then the platform fee is really, we've gone back and forth on like, whether or",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "This should be mandatory.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We're working on a self-serve flow where I think this doesn't make sense, but having an upgrade path to, hey, if you want log retention or if you want a Slack channel with us, some of them are like enterprise, like SSO, then a platform fee comes into play.",
+            "timestamp": "00:21:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But I'll say we've kind of done three iterations on pricing, and I'm sure we'll do eight more before we land on how to price this.",
+            "timestamp": "00:21:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:21:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm thinking about kind of the, some of the users you guys have had, is there, I know it's like non-technical team empowerment.",
+            "timestamp": "00:21:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is there any hesitation from those types of users to kind of jump in and create these, given that like they spit out an API?",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, that's, yeah, that's a good, quick insight.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So the, one of the reasons we started generating web user interfaces is up Yeah.",
+            "timestamp": "00:21:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Until probably May or so, we only generated an API.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so we had assumed that you'd always have some kind of internal engineering partner that could do some kind of integration.",
+            "timestamp": "00:22:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And at the time, kind of our prototypical example was I was kind of pulling on examples from previous employers.",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Like at Brax, we had a fraud ops team where like a credit card transaction, like a customer might swipe their card, a transaction comes in, and there's like a fixed set of things that we would analyze that transaction for that our fraud ops team would really own the source of truth for that.",
+            "timestamp": "00:22:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But whenever, if there was like a new threat developing, fraud would have to write up what that threat looks like and then hand it over to engineering.",
+            "timestamp": "00:22:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then engineering would codify that into a set of rules and we'd deploy it.",
+            "timestamp": "00:22:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And the time between like identifying a new threat to getting a rule in production that could kind of neuter that or neutralize.",
+            "timestamp": "00:22:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Fathom was on the order of like seven to 10 days.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And the whole premise with Logic was like, well, it only takes fraud ops, like an hour to do the write-up.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Why can't they just click save and then just have it go live?",
+            "timestamp": "00:23:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so a lot of our early assumptions were like, you'd have an ops team and you'd have an engineering team.",
+            "timestamp": "00:23:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And typically, the source code would be the source of truth of like what's actually happening in fraud.",
+            "timestamp": "00:23:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we were like, what if we could invert that?",
+            "timestamp": "00:23:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "What if the document that ops works on is the source of truth?",
+            "timestamp": "00:23:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then engineering just calls that document as though it's an API.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so we kept pulling on that thread.",
+            "timestamp": "00:23:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "it's like, well, engineering has never been in that world where they've had to hand over control to a different team before.",
+            "timestamp": "00:23:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So what else do we need to build to get them comfortable with that?",
+            "timestamp": "00:23:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so that's why we started doing automated testing.",
+            "timestamp": "00:23:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "That's why we have all type schemas.",
+            "timestamp": "00:23:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "That's why we have versioning and rollbacks and all of that.",
+            "timestamp": "00:23:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Because it was like, what would engineering need to be comfortable living in that world, handing over the reins to somebody else?",
+            "timestamp": "00:23:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "That's That's",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And that resonates with a good chunk of the folks that we talked to.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But then we started getting customers like DroneSense where there are no engineering counterparts.",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "It's just an ops team that has this process that's a pain in the , and they just want to tell an LLM to do it and do it reliably a thousand times.",
+            "timestamp": "00:24:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so we started thinking, like, how can we address that kind of cohort of users?",
+            "timestamp": "00:24:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we started generating user interfaces for the processes.",
+            "timestamp": "00:24:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And that's why we're also working on things like MCP, like getting the tools in Cloud, so that if you're just having a conversation with your agent, and the agent is like, hey, there's actually this logic document that your company has that can help with this.",
+            "timestamp": "00:24:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The agent will just automatically call it.",
+            "timestamp": "00:24:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We're also, we've done some early prototyping.",
+            "timestamp": "00:24:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "It's nowhere near ready for GA, but working on a Slack bot as well.",
+            "timestamp": "00:24:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So if you're just having a conversation and, a channel in Slack, and there happens to be a logic process or a logic document that can help you with it, the logic bot will just chime in and say, like, hey, you need me, you need me to, like.",
+            "timestamp": "00:24:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Research this customer, or you need me to redact that information, or parse this invoice, like, hey, I got you, I'm on it.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Nice.",
+            "timestamp": "00:25:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I had another question, Amari.",
+            "timestamp": "00:25:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Oh, so you guys mentioned your focus is on fintech, e-commerce, and is it logistics?",
+            "timestamp": "00:25:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "the three primary that you guys have, I don't know if it's quite intentional yet, or if it's just more of you guys have kind of fallen into those spaces.",
+            "timestamp": "00:25:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, it's almost entirely just from my network, because from Brax, I have a lot of fintech connections, and from Convoy, I have a lot of logistics connections, and Garmentory, I was already friendly with the CEO, but through him, I've just, like, got a couple of e-commerce connections.",
+            "timestamp": "00:25:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So, just a coincidence of network.",
+            "timestamp": "00:25:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:25:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I was wondering, I mean, prior to joining Grotex, I did AI strategy for, like, mid-market companies, and then.",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Just like private equity seems like a hot space because they don't have technical teams for the most part, but they do have a lot of processes.",
+            "timestamp": "00:26:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I was curious if that falls into kind of your bucket of fintech or if you guys are kind of looking at professional services.",
+            "timestamp": "00:26:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, so, well, professional services as in like.",
+            "timestamp": "00:26:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "County, legal, consulting.",
+            "timestamp": "00:26:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:26:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I'd say we wouldn't say no to somebody wanting to use us for those use cases.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "we had a consultant that, a solo consultant that works with law firms and, you know, she asked us like, hey, can your system process like thousand page bankruptcy PDFs and things like this?",
+            "timestamp": "00:26:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we're open to, we don't have to pigeonhole ourselves to just the three verticals, e-commerce, logistics, and fintech.",
+            "timestamp": "00:26:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "That just happens to be where we've gotten some early traction.",
+            "timestamp": "00:26:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, I would think of like a good way to work.",
+            "timestamp": "00:26:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "articulate what's in common between these things is like they're operationally intensive technology forward types of organizations, right?",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "So you could think about like some, you know, B2C consumer SaaS company wanting to use something like this for something, but it's unlikely that it would be as urgently required as if someone was reviewing product inventory or analyzing invoices or, you know, analyzing and moderating chat in a food delivery app.",
+            "timestamp": "00:27:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "or whatever the thing is, we're just like a large number of decisions being made constantly that are actually mission critical for the product to succeed and actually execute.",
+            "timestamp": "00:27:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "So there's probably more than more of those types of products and industries than the two or three that we've identified here.",
+            "timestamp": "00:27:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "And those are just, yeah, like Steve said, lowest hanging fruit that comes to mind and that we have like the network for it.",
+            "timestamp": "00:27:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "But there's no need for us to limit ourselves to those things.",
+            "timestamp": "00:27:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:27:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:27:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then I guess within your...",
+            "timestamp": "00:27:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Current kind of users and buyers, is there a typical champion or is it kind of just whoever has the biggest main point that you guys can solve?",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, I mean, I think this is skewed because it's coming from my network.",
+            "timestamp": "00:28:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I'm typically coming in through the C-suite.",
+            "timestamp": "00:28:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I suspect that's not going to be the long-term champion in a company.",
+            "timestamp": "00:28:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "There have been a couple, like Azzam, range.com where an engineering manager reached out where they're building.",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "They just have a ton of different, like range.com is an automated wealth advisement platform and they just have a ton of documents and things that need to parse.",
+            "timestamp": "00:28:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And an EM that I used to work with reached out and like, hey, can Logic help us with this?",
+            "timestamp": "00:28:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And that's, but that's one of the rare scenarios where we kind of came in the middle of the org versus top-down.",
+            "timestamp": "00:28:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Gotcha.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "I would imagine long-term that it's like business users that have pain points.",
+            "timestamp": "00:28:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "It's...",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "It's marketing people and sales people and HR people that are just annoyed by doing a thing manually a ton of times and want a way to do it more scalably.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "And part of the way that I imagine we're going to want to build out the whole go-to-market motion is very PLG-oriented.",
+            "timestamp": "00:29:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Azzam Aijazi",
+                "matched_calendar_invitee_email": "azzam@logic.inc"
+            },
+            "text": "If you have a problem, go in and start solving it today, and then we'll figure out contract and pricing and stuff once you're happy and having good experience there.",
+            "timestamp": "00:29:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think in the kickoff, guys mentioned Time Warner and another large enterprise that you guys are like, probably not now.",
+            "timestamp": "00:29:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:29:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Can you just talk me through kind of what went into that decision?",
+            "timestamp": "00:29:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, the other large enterprise was GM.",
+            "timestamp": "00:29:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And also, earlier I mentioned Dronesense, how Axon is one of their clients.",
+            "timestamp": "00:29:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We also spent a couple months talking with Axon directly, which is like the body camera company and like Taser company.",
+            "timestamp": "00:29:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Part of it is just like the procurement process.",
+            "timestamp": "00:29:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "This is very heavy-handed and very slow.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Part of it is, like, with GM, they wanted a very cool use case where they have machines on factory floors that have these sensors, and when they break, technicians walk up and, like, pull the sensor data and interpret that sensor data in the context of some technical manual.",
+            "timestamp": "00:30:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And they were like, hey, can we just put that technical manual in Logic, send you the sensor data, and you give us, like, a preliminary diagnosis?",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Like, absolutely, 100%.",
+            "timestamp": "00:30:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "That's, like, right in a wheelhouse.",
+            "timestamp": "00:30:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then they asked if we could do that without access to the internet, because the factories are air-gapped, like, have no internet connection.",
+            "timestamp": "00:30:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And I was like, oh, we can't do that.",
+            "timestamp": "00:30:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we could probably, like, cobble something together for them, but it's, like, it's just a distraction.",
+            "timestamp": "00:30:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so, like, so, you know, that didn't make sense for us.",
+            "timestamp": "00:30:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then Time Warner was an interesting one.",
+            "timestamp": "00:30:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We came in, and as we kind of got into it, this was actually related.",
+            "timestamp": "00:30:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We came in through the data science team, oddly, and which sometimes...",
+            "timestamp": "00:30:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "...",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "...",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "...",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Sometimes people want us to do data analytics for them, and I don't think we're probably not the best solution for that.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We're more about, I think, as I mentioned earlier, automating decisions, and typically decisions that if a human is looking at some data and making this yes-no call in two minutes or less, we can probably completely automate that.",
+            "timestamp": "00:31:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But 99% of the time, a machine should be doing that.",
+            "timestamp": "00:31:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "In the Time Warner scenario, it just had to do with more data analysis use cases.",
+            "timestamp": "00:31:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "then there was already a team internally.",
+            "timestamp": "00:31:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "There were three teams internally working on similar things, and it just felt like we were competing with some weird turf ownership boundary, big company nonsense.",
+            "timestamp": "00:31:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And then in parallel, the champion for us in the company was kind of expressing gratitude that we're engaging at all.",
+            "timestamp": "00:31:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But he's like, just so you know, if we do move forward, it's going to be an 18-month procurement process.",
+            "timestamp": "00:31:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so that was just another scenario where I was like...",
+            "timestamp": "00:31:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Uh-huh.-huh.-huh.",
+            "timestamp": "00:32:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "You know, too much of a distraction.",
+            "timestamp": "00:32:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Like, we'll talk again later.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:32:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:32:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, was just curious if it was more like the use cases weren't a fit or, but it sounds like it's just more of the enterprise procurement and requirements.",
+            "timestamp": "00:32:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:32:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so, like, if there was, like, a rogue manager or IC at Time Warner that just, like, created a Logic account and wanted to start using us and then, you know, put us on the company card at some point, I would not be against that at all.",
+            "timestamp": "00:32:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And, I would love for that scenario to happen over and over again, but I don't, I just think, like, going in through official channels and, like, would be a distraction for us right now.",
+            "timestamp": "00:32:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:32:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think that's most of the kind of product and customer questions I've got.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But I guess on the more, like, looking forward into content.",
+            "timestamp": "00:32:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "You guys have a bunch of workflows that you were showing there that pop up as soon as you start typing.",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is that something you guys want to externalize or have you externalized any of that?",
+            "timestamp": "00:33:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, so I mean those serve a couple different purposes.",
+            "timestamp": "00:33:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "One is kind of helping users get past the blank canvas problem because we've had users come in and the first thing they do, they'll type like, oh, I want you to take all my contacts in Salesforce and then send emails to everybody and do X, Y, and Z.",
+            "timestamp": "00:33:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And it's tough to know.",
+            "timestamp": "00:33:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "I think I mentioned this on the other call.",
+            "timestamp": "00:33:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "If your use case fits within our constraints, it's a magical experience.",
+            "timestamp": "00:33:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But as soon as you fall out outside of those constraints, it can be frustrating because you're asking us to do something.",
+            "timestamp": "00:33:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we don't do a good job of relaying to you that we can't do that thing.",
+            "timestamp": "00:33:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And so the workflow library was one to kind of give people motivation.",
+            "timestamp": "00:33:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "on some of the things you can do with Logic.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Also kind of give them a sense of the kinds of tasks that we're good at.",
+            "timestamp": "00:34:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Also, when we're generating user interfaces and schemas and things like that, behind the scenes, we actually will find similar workflows to the one that you're working on from the workflow library and use those as examples to the LLM so the LLM can see like what other great interfaces and what other great schemas use.",
+            "timestamp": "00:34:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So there's like there's like behind the scenes implications of it.",
+            "timestamp": "00:34:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But to your specific question, like, yes, we do want to externalize those a bit.",
+            "timestamp": "00:34:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "One of the things we're working on, so right now we were we kicked off like a cold outreach campaign, maybe two or so weeks ago.",
+            "timestamp": "00:34:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And in some of those emails in our cold outreach, we're linking to specific templates, but we currently don't have kind of a public index of all the templates.",
+            "timestamp": "00:34:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And one of the things that's in flight right now is kind of creating for like three or four industry pages where we'll have like a fintech, you know, logic.inc slash industries slash fintech or, you know, slash fintech.",
+            "timestamp": "00:34:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Where we have like kind of a fintech.",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "And we'll link out to some of the better workflows from that library.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "But that's kind of the extent of what we're thinking on that front.",
+            "timestamp": "00:35:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, I was thinking more in the, like, to Azzam's point of, like, sales templates, HR templates, operationals, kind of those functional level use cases that would be potentially good for, like, programmatic SEO so that you could just, like, best way to automate sales operations, best way to automate HR operations, but give you guys some more surface area while also kind of, like you said, showing users, like, oh, what can I do with this thing that it's meant to be used for?",
+            "timestamp": "00:35:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So something for us to just, I think, continue to think about as we get a little bit sharper on content strategy over the next week or two.",
+            "timestamp": "00:35:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, yeah, it's definitely feel like that's.",
+            "timestamp": "00:35:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, a low-hanging fruit that we can go after, especially if you guys already have, like, screenshots of those workflows and different use cases.",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Cool.",
+            "timestamp": "00:36:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, the, the, one of the use cases that y'all cited was with Vappy, and, like, and I've heard, like, they had a lot of success with that.",
+            "timestamp": "00:36:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "There was another app that, Cascade.app, that I also know has had a lot of success with their template library, and so I'm hoping, I've, I've heard it can be an effective strategy, so I'm hoping it works out.",
+            "timestamp": "00:36:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, absolutely.",
+            "timestamp": "00:36:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, mean, especially for the, kind of, like, the stage you guys are at, like, and the, kind user journey of getting people to, A, find you, and then B, figure out what they're, what you're good at, and, like, give them something to deal with that blank canvas, especially in the AI space, because people are just overloaded with AI tools of, like, can it do this, can it do that?",
+            "timestamp": "00:36:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, well, and one of the neat things about that workflow library is that the workflows that you see in there, it's not just a screenshot, it's actually a fully functioning demo.",
+            "timestamp": "00:36:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "You can try it out.",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "The tire's right there.",
+            "timestamp": "00:37:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "One of the frustrating things that I see in a lot of AI apps, like Bold Cop New and Lovable and all that, is the landing page is like, hey, type what you want to create, and then you type a description, build me a tic-tac-toe game, and you click submit, and then you just get this sign-up form, and it's like, no, you promised me you were going to do something for me.",
+            "timestamp": "00:37:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "So right now, we have a bunch of predefined workflows, but we're actually working on our landing page.",
+            "timestamp": "00:37:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "It's kind of below the fold right now, and it's a fixed kind of, like, we're automatically typing things for you, but we do actually want to hoist that up and allow you to type something in and actually, in real-time, generate a workflow for you that you can run, you know, three or four times, where I think that'd be a pretty awesome experience.",
+            "timestamp": "00:37:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "We don't have that right now, but we're working on getting, like, a real live demo working without having to log in.",
+            "timestamp": "00:37:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Yeah, awesome.",
+            "timestamp": "00:37:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Wonderful.",
+            "timestamp": "00:37:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, gave you guys 20 minutes back for your day.",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "This has been awesome.",
+            "timestamp": "00:38:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Appreciate the time again.",
+            "timestamp": "00:38:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And we will be in touch with Next Steps.",
+            "timestamp": "00:38:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I think we did get the meeting scheduled for next week, right?",
+            "timestamp": "00:38:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We did, next Wednesday.",
+            "timestamp": "00:38:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Okay, wonderful.",
+            "timestamp": "00:38:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:38:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Well, I will see you guys next Wednesday.",
+            "timestamp": "00:38:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Cool.",
+            "timestamp": "00:38:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "All right.",
+            "timestamp": "00:38:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Thank you, Erik.",
+            "timestamp": "00:38:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "All right.",
+            "timestamp": "00:38:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Have a good one.",
+            "timestamp": "00:38:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Bye.",
+            "timestamp": "00:38:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Steve Krenzel",
+                "matched_calendar_invitee_email": "steve@logic.app"
+            },
+            "text": "Bye.",
+            "timestamp": "00:38:31"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Deep dive into Logic's product features, use cases, and go-to-market strategy with GrowthX.ai team.](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=0.0)\n\n## Key Takeaways\n\n  - [Logic automates business processes by converting natural language SOPs into functional APIs and user interfaces](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=93.0)\n  - [Key features: automated testing, versioning, integration docs, and web UIs for non-technical users](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=264.0)\n  - [Current focus on fintech, e-commerce, and logistics, but open to other operationally-intensive industries](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1531.0)\n  - [Pricing model still evolving; currently per-task with potential platform fees for enterprise features](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1217.0)\n  - [Exploring PLG motion and content strategy to drive user adoption and showcase use cases](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1449.0)\n\n## Topics\n\n### Product Overview and Core Functionality\n\n  - [Users input natural language SOPs to create automated workflows](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=93.0)\n  - [System generates UI, API, tests, and documentation automatically](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=202.0)\n  - [Example: PII redaction process demo showcasing real-time execution](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=219.0)\n  - [Features include versioning, rollbacks, and integration options (API, Claude tool)](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=360.0)\n\n### Customer Use Cases\n\n  - [Garmentory: Automated product moderation, reducing contractor needs and improving accuracy](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=919.0)\n  - [DroneSense: Streamlined purchase order processing for ops team](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1739.0)\n  - [Focus on operationally-intensive, tech-forward organizations](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1629.0)\n\n### User Interface and Accessibility\n\n  - [Web UI generation to support non-technical users](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1465.0)\n  - [Plans for Slack bot integration and Claude tool functionality](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1489.0)\n  - [Emphasis on giving non-technical users confidence in managing critical workflows](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1614.0)\n\n### Pricing Strategy\n\n  - [Currently iterating on pricing model](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1175.0)\n  - [Per-task pricing with different rates for data processing vs. file handling](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1221.0)\n  - [Considering platform fees for enterprise features (e.g., SSO, log retention)](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1252.0)\n\n### Go-to-Market Strategy\n\n  - [Current traction in fintech, e-commerce, and logistics due to founder's network](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1531.0)\n  - [Open to expanding into other industries with similar operational intensity](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1667.0)\n  - [Exploring PLG (Product-Led Growth) approach for user acquisition](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1449.0)\n\n### Enterprise Engagement\n\n  - [Cautious approach to large enterprises due to lengthy procurement processes](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1798.0)\n  - [Preference for bottom-up adoption rather than top-down sales in large orgs](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=1937.0)\n\n### Content and Marketing Plans\n\n  - [Developing industry-specific landing pages showcasing relevant workflows](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=2069.0)\n  - [Considering programmatic SEO strategy around functional use cases](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=2110.0)\n  - [Plans for interactive demos on landing page to showcase product capabilities](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=2251.0)\n\n## Next Steps\n\n  - [Continue refining pricing strategy and product positioning](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=2169.0)\n  - [Develop industry-specific landing pages and content](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=2099.0)\n  - [Explore programmatic SEO opportunities for functional use cases](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=2110.0)\n  - [Implement interactive demo on landing page for immediate value demonstration](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=2251.0)\n  - [Follow up meeting scheduled for next Wednesday to discuss further strategy](https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm?tab=summary&timestamp=2291.0)\n"
+    },
+    "action_items": [],
+    "calendar_invitees": [
+        {
+            "name": "Steve Krenzel",
+            "email": "steve@logic.app",
+            "email_domain": "logic.app",
+            "is_external": true,
+            "matched_speaker_display_name": "Steve Krenzel"
+        },
+        {
+            "name": "azzam@logic.inc",
+            "email": "azzam@logic.inc",
+            "email_domain": "logic.inc",
+            "is_external": true,
+            "matched_speaker_display_name": "Azzam Aijazi"
+        },
+        {
+            "name": "Erik O'Brien",
+            "email": "erik@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Erik O'Brien"
+        }
+    ],
+    "recorded_by": {
+        "name": "Erik O'Brien",
+        "email": "erik@growthx.ai",
+        "email_domain": "growthx.ai",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/Qo-h3ty6zHEAxz8urhsxVXR3fErfmTqm",
+    "crm_matches": {
+        "error": "No CRM connected"
+    }
+}

@@ -1,0 +1,780 @@
+# Seema Kumar
+
+<metadata>
+date: 2025-09-29
+time: 20:32 UTC
+duration: 26 minutes
+organizer: tyler@growthx.ai
+participants: Tyler Pavlas, Seema Kumar
+fathom_recording_id: 90608084
+fathom_url: https://fathom.video/calls/423531820
+share_url: https://fathom.video/share/LE4GkexRiFUJea3-Ty6pn3wHX6mt9E3g
+source: fathom
+enriched_on: 2026-03-03 18:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+Tyler Pavlas presented GrowthX's two-phase engagement model (8-week strategy sprint at $30K + 12-month execution at $15K/mo) to Seema Kumar, an interim CMO consulting for Panther (security, $15-20M ARR) and Turnstile (earlier stage). The discussion focused on Panther as the primary opportunity—its domain authority, existing content gap, and team structure—with specific details on deliverables, publishing timeline (content by week 5-6), and case studies (Town, Tiro). Next steps: Tyler will analyze Panther's content/SEO landscape and prep a point of view before Friday's follow-up meeting at 10-10:45am PT with Seema's product marketer and demand gen marketer.
+
+---
+
+## Context
+
+Seema Kumar is an interim CMO consultant who works part-time (2-3 days/week) with early- to mid-stage companies, bringing deep experience to roles they can't afford full-time. She is currently working with two clients: Panther, a security company with $15-20M ARR, and Turnstile, an earlier-stage startup with approximately 30-40 customers. Seema had previously attended GrowthX events and spoken with Marcel and Kyle, so she had general familiarity with the company, but wanted deeper details on engagement mechanics and ROI expectations. She approached Tyler proactively to explore how GrowthX could help drive content and organic growth for one (or both) of her clients.
+
+---
+
+## Relevance
+
+**To GrowthX Business Development:**
+- Two inbound opportunities: Panther (stronger fit, $15-20M ARR) and Turnstile (earlier stage, pricing friction at $8-10K/mo). Panther is priority given higher likelihood of conversion and team maturity.
+- Seema is a repeat surface for new logos through her interim CMO network — she works with multiple companies on 6-12 month engagements, creating pipeline expansion potential.
+- Panther's current content situation: no dedicated content leader, product marketer writing blogs "in spare time," domain authority 39, 13K organic traffic/month. Clear pain point = opportunity.
+- Upcoming meeting (Fri 10-10:45am PT) includes product marketer + demand gen marketer — positive buy-in signal and expanded stakeholder engagement.
+
+**To GrowthX Delivery:**
+- Panther's technical nature requires balance between developer/engineer-level content and broader audience SEO — similar to Sentinel One and Abnormal Security precedents.
+- Key stakeholders for strategy sprint: CPO (new), CTO (founder, well-known in security), threat researcher, product marketer. Strong expert-in-loop potential.
+- Initial 8-week strategy sprint timeline could yield ~10 articles by end of phase one if collaboration is strong; phase two requires mainly CMS access.
+
+**To Product:**
+- Panther represents a high-touch, technical security client similar to existing portfolio. Real test case for editorial-first approach in infrastructure/security space versus programmatic content later.
+
+---
+
+## Overview
+
+- **Primary opportunity:** Panther (security, $15-20M ARR); secondary: Turnstile (too early stage, pricing mismatch)
+- **GrowthX pricing and model:** $30K strategy sprint (8 weeks) + $15K/mo execution (12 months); publishing starts week 5-6 (~10 articles by end of sprint)
+- **Panther's baseline:** Domain authority 39, 13K organic traffic/month, 367 pages, no dedicated content lead
+- **Key stakeholders for engagement:** New CPO, CTO (founder, well-known in security), threat researcher, product marketer
+- **GrowthX differentiators:** AI-driven workflows with expert fact-checking, transparent client platform (AugmentCode), intentional client selection for proven results
+- **ROI metrics Seema is tracking:** Organic traffic growth (primary), inbound demo requests, enterprise opportunities from inbound/partnerships
+- **Next steps:** Tyler analyzes Panther's SEO/content strategy; follow-up meeting Friday 10-10:45am PT with Seema + Panther's product marketer and demand gen marketer
+
+---
+
+## Key Topics
+
+### GrowthX.ai Service Overview
+
+  - Two-phase approach: 8-week strategy sprint, then 12-month growth execution
+  - Strategy sprint ($30K) develops company context, audience personas, brand voice
+  - Execution phase ($15K/mo) focuses on content creation and publishing
+  - Can start publishing content by week 5-6 of strategy sprint (\~10 articles by end of phase one)
+  - Editorial focus first, potential for programmatic content later
+
+### Panther vs. Turnstile as Potential Clients
+
+  - Panther: More established ($15-20M ARR), has conviction around ICP, existing blog, better fit for GrowthX's pricing model
+  - Turnstile: Earlier stage (~30-40 customers), no published content yet, pricing ($8-10K/mo suggested by Kyle 2 months ago) tougher sell for their stage
+  - Seema interested in both long-term but prioritizing Panther now — Turnstile may be good fit eventually if they mature or if timing and positioning change
+  - Focus shifted to Panther as immediate opportunity due to better alignment with GrowthX's offerings and team readiness
+
+### Panther's Current Content Situation
+
+  - 39 domain authority score, 13,000 organic traffic/month, 367 pages
+  - No dedicated content leader; product marketer writes blogs "in spare time"
+  - Previous freelance attempts unsuccessful; belief that insider knowledge is crucial
+  - Key stakeholders: New CPO, CTO (founder), threat researcher, product marketer
+
+### GrowthX.ai Differentiators
+
+  - AI-driven workflows with expert oversight for deep, quality content
+  - Transparent process visible to clients through custom platform
+  - Intentional client selection for proven results
+  - Experience with technical clients (Sentinel One, Abnormal Security, Off Zero)
+
+### ROI Expectations
+
+  - Primary: Organic traffic growth
+  - Secondary: Increase in inbound demo requests (commercial deals)
+  - Tertiary: Increase in enterprise opportunities (various channels)
+
+---
+
+## Action Items
+
+**Tyler Pavlas (GrowthX)**
+- Email follow-up w/ Town blog link + Tiro case study
+- Analyze Panther's content/SEO strategy. Prep POV on opportunity.
+- Schedule + send invite for follow-up meeting (Friday 10-10:45am PT)
+
+**Seema Kumar (Interim CMO — Panther + Turnstile)**
+- Invite Panther's product marketer + demand gen marketer to next meeting with GrowthX
+
+---
+
+## Transcript
+**Tyler Pavlas:** Well, I'm on day one at a co-working space because I've been working from my home for the last five years and I'm tired of it.
+
+**Seema Kumar:** I just thought it was time to get a real space.
+
+**Tyler Pavlas:** You know, separation of work and life, right?
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** But when you're in sales, it's kind of hard to work from co-working spaces.
+
+**Seema Kumar:** So I'm glad I'm in this phone booth right now.
+
+**Seema Kumar:** Yeah, I have not done the co-working space thing.
+
+**Seema Kumar:** I just feel like, for me, like the benefits of being at home are totally eliminated if I do a co-working space.
+
+**Tyler Pavlas:** So I'll be interested to hear how it goes for you.
+
+**Tyler Pavlas:** Yeah, thanks so much.
+
+**Tyler Pavlas:** But excited to chat.
+
+**Tyler Pavlas:** I was looking into Turnstile, which I'm guessing is the company that you're considering GrowthX for.
+
+**Seema Kumar:** Actually, no.
+
+**Seema Kumar:** Okay.
+
+**Seema Kumar:** So I'm in an errand, and I apologize, I've got my camera off.
+
+**Seema Kumar:** I need to run an errand.
+
+**Seema Kumar:** And so I'm driving to where I'm going to run my errands, I'm going to turn my camera on so we can see each other.
+
+**Seema Kumar:** So I'm a marketing consultant.
+
+**Seema Kumar:** And I do interim CMO roles with companies.
+
+**Seema Kumar:** I go in for 6 to 12 months, and I'm a very seasoned CMO, and I go into earlier stage companies who can't really afford somebody with my experience, but they will buy me for two days a week or three days a week, and I will have two clients at once.
+
+**Seema Kumar:** So turnstile is, it is correct, is one of my clients, and I would be interested in using you guys for turnstile, but I'm actually first wanting to talk to my other client, company in Panther.
+
+**Seema Kumar:** So, I mean, the reality is I'm interested in both, but I'm familiar with what growthx does.
+
+**Seema Kumar:** I've been to a couple of your, like, breakfasts and happy hours.
+
+**Seema Kumar:** was at a dinner sitting next to Marcel.
+
+**Seema Kumar:** I chatted with him.
+
+**Seema Kumar:** I spoke with Kyle.
+
+**Seema Kumar:** So I feel like I've got a good picture of the high level.
+
+**Seema Kumar:** What I need to get more details around is, like, the next click down, what an engagement actually looks like on a month-to-month basis, you know, what you're doing, what we're doing. When companies can expect to start seeing some impact, just kind of everything that's like a click down.
+
+**Seema Kumar:** Does that make sense?
+
+**Tyler Pavlas:** Makes perfect sense.
+
+**Tyler Pavlas:** And the other company, just to make sure, Panther, the security company.
+
+**Seema Kumar:** That's right.
+
+**Seema Kumar:** Yeah, you got it.
+
+**Seema Kumar:** Because Panther is a tough one.
+
+**Seema Kumar:** It's a very common word.
+
+**Seema Kumar:** So yes, Panther, the security company.
+
+**Seema Kumar:** You got it.
+
+**Tyler Pavlas:** Okay, perfect.
+
+**Tyler Pavlas:** Perfect.
+
+**Tyler Pavlas:** And I guess, what makes you think that Panther is like the better fit right now?
+
+**Tyler Pavlas:** It sounds like you're thinking about both, but just to better understand that.
+
+**Seema Kumar:** Panther is much further along as a company.
+
+**Seema Kumar:** You know, they're in the 15 to 20 million in ARR stage.
+
+**Seema Kumar:** And, you know, I think it's more likely that they could afford to invest what you charge.
+
+**Seema Kumar:** I think the issue with turnstiles, they're just earlier stage.
+
+**Seema Kumar:** And it would be, you know, when I talked with Kyle, I think what he told me was it's kind of 8 to 10K a month-ish.
+
+**Seema Kumar:** And I...
+
+**Seema Kumar:** Do think that's a tougher sell for a company like Turnstile, given where they are right now?
+
+**Tyler Pavlas:** Makes perfect sense.
+
+**Tyler Pavlas:** Yeah, let me shed some light on that.
+
+**Tyler Pavlas:** And I guess if I share my screen, that would not make sense since you're driving.
+
+**Tyler Pavlas:** So just talk over.
+
+**Seema Kumar:** I'm going to pull over in a quarter of a mile.
+
+**Tyler Pavlas:** So go right ahead.
+
+**Tyler Pavlas:** Okay, cool.
+
+**Tyler Pavlas:** Yeah, I'll just kind of talk through and then let me know when you're ready for me to share my screen.
+
+**Tyler Pavlas:** I don't want to distract you.
+
+**Tyler Pavlas:** But think about the way that we work as two phases.
+
+**Tyler Pavlas:** Phase one, an eight-week strategy sprint.
+
+**Tyler Pavlas:** Phase two, a 12-month growth execution.
+
+**Tyler Pavlas:** And so in phase one, what we're doing is we're developing really rich artifacts around the company context, the audience personas, and then the brand voice and guidelines.
+
+**Tyler Pavlas:** And so when we've got this complete and in a good spot, then we can really put the foot fully on the gas when it comes to content creation.
+
+**Tyler Pavlas:** And we move into...
+
+**Tyler Pavlas:** Elite Publishing and Growth Execution, phase two.
+
+**Seema Kumar:** Let ask you a question on the, so I've pulled over now so you can share your screen.
+
+**Seema Kumar:** How much can you really do that with a company, like Turnstile, I'm going to ask questions for both.
+
+**Seema Kumar:** You know, Turnstile has like 30 or 40 customers.
+
+**Seema Kumar:** They're super early.
+
+**Seema Kumar:** They have no published content.
+
+**Seema Kumar:** You know, you could almost argue in some ways they haven't really officially launched yet.
+
+**Seema Kumar:** So, how much can you really do developing like all those artifacts for eight weeks when the company's at that stage?
+
+**Tyler Pavlas:** Yeah, it's a really good question.
+
+**Tyler Pavlas:** And to your point, the company's probably a little too early on if they don't have conviction around their ICP.
+
+**Tyler Pavlas:** If they don't have a blog that they've stood up on their website.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** Right?
+
+**Tyler Pavlas:** But as you know, like content's a long game and the best place to start is always yesterday.
+
+**Tyler Pavlas:** Yes.
+
+**Tyler Pavlas:** And so that, and so that's why in some scenarios, you know, we do work with early stage companies.
+
+**Tyler Pavlas:** Like Town is a seed stage company who we built out their entire blog.
+
+**Tyler Pavlas:** And the reason.
+
+**Tyler Pavlas:** And that they were really like needing our service was because they needed to create constant at scale to start showing up.
+
+**Tyler Pavlas:** They're a little more niche in the accounting space.
+
+**Tyler Pavlas:** And they knew that AI is known to hallucinate, but we run, you know, deep fact checking on everything that we're writing and we have experts in the loop.
+
+**Tyler Pavlas:** And so for them, it was like, well, we really feel confident that GrowthX can get the quality at scale that we need to get any sort of awareness.
+
+**Tyler Pavlas:** And we also know it won't be detrimental to our business because if we get our tax advice wrong, you know, that would look really bad.
+
+**Seema Kumar:** Tyler, would you do me a favor and make sure in whatever follow-up email you're going to send me, do you mind including town and linking their blog just because this is obviously very relevant for turnstiles.
+
+**Seema Kumar:** So that would be a great case study for me to look at with them.
+
+**Tyler Pavlas:** You bet.
+
+**Tyler Pavlas:** And I think another one that would be great, too, is Tiro.
+
+**Tyler Pavlas:** Tiro, also...
+
+**Tyler Pavlas:** You know, easier to deliver results because it's not a ton of competition with dental staffing software.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** But Tiro is a great example of a company that since they've joined GrowthX, you know, their organic growth has really shot up, right, since they started working with us.
+
+**Seema Kumar:** Okay, great.
+
+**Tyler Pavlas:** Thank you.
+
+**Tyler Pavlas:** You bet.
+
+**Tyler Pavlas:** And then in terms of the, like, involvement from the team, in the strategy sprint, we do a kickoff call.
+
+**Tyler Pavlas:** We do our own research before this, but it's really just making sure that we can go deep on the business and set up some expert interviews with folks who, like, really know the product or really know the ICP.
+
+**Tyler Pavlas:** And then making sure you can share resources.
+
+**Tyler Pavlas:** So things like transcripts from, you know, important sales or product calls, sales decks, brand documents, all of that, in addition to the kickoff and weekly meetings, will get us to a place where we can.
+
+**Tyler Pavlas:** We have the artifacts ready by about week four, and then we can start publishing by like week five or six.
+
+**Tyler Pavlas:** And so how it will work is that the company will be able to opt out of phase two if they aren't feeling confident.
+
+**Tyler Pavlas:** But with all that context of, okay, here's the roadmap of the content that they're going to create.
+
+**Tyler Pavlas:** Here's published articles that show the quality growthx can get to.
+
+**Tyler Pavlas:** And then it is a 12-month term in phase two.
+
+**Tyler Pavlas:** So it is, you know, it's a pretty large commitment in terms of the duration and the investment, to be honest with you, as well.
+
+**Seema Kumar:** And you, okay, so one thing I didn't realize was that you actually start publishing a week five.
+
+**Seema Kumar:** So that's helpful.
+
+**Seema Kumar:** So at the end of phase one, any guess as to like how much content you might have published at the end of phase one?
+
+**Tyler Pavlas:** Yeah, a good like number to think about would probably be 10 on average, 10 articles.
+
+**Tyler Pavlas:** And that's just because there's always some back and forth that happens.
+
+**Tyler Pavlas:** With that first article, second article.
+
+**Tyler Pavlas:** And, you know, if the company that we're working, if the client that we're working with, if they are very present, collaborative, it's easy to get expert interviews set up.
+
+**Tyler Pavlas:** It's easy to communicate back and forth in Slack.
+
+**Tyler Pavlas:** Then obviously we can move faster.
+
+**Tyler Pavlas:** But what's nice in phase two is that the only thing we need from the team in phase two is access to the CMS, right?
+
+**Tyler Pavlas:** So we will stage and publish.
+
+**Tyler Pavlas:** And then, you know, as long as the team can review efficiently and get us the access that we need, then pretty low lift in terms of, you know, we're an extension of your team basically in phase two.
+
+**Seema Kumar:** Yeah.
+
+**Seema Kumar:** And I'm noticing here that phase two says starts at $15,000 per month.
+
+**Seema Kumar:** When I talked with Kyle, and this was now two months ago, I thought it was more like $8,000 to $10,000 a month.
+
+**Tyler Pavlas:** Have prices gone up?
+
+**Tyler Pavlas:** Yeah, mean, right now I literally have to balance two available.
+
+**Tyler Pavlas:** We kickoffs per week against probably like 10 to 20 interested clients.
+
+**Tyler Pavlas:** And so I think, you know, things change fast, right?
+
+**Tyler Pavlas:** As you know, at a rocket ship.
+
+**Tyler Pavlas:** But I would say like right now, every client that we're bringing on, you know, they're willing to pay 30K on the startup side, right?
+
+**Tyler Pavlas:** And then 15K per month for this kind of deliverable.
+
+**Tyler Pavlas:** And we're focused on editorial right now.
+
+**Tyler Pavlas:** You know, we can look at programmatic after and we can ensure that that's connected to the same price that you're paying.
+
+**Tyler Pavlas:** But we'll only do one work stream at a time.
+
+**Seema Kumar:** Sorry, I'm not sure I follow when you say editorial versus programmatic.
+
+**Seema Kumar:** Can you clarify what those terms mean here in this context?
+
+**Tyler Pavlas:** Definitely.
+
+**Tyler Pavlas:** So editorial, think about the blog, think about the guides we've created for Augment Code. It's educational.
+
+**Tyler Pavlas:** It's informational.
+
+**Tyler Pavlas:** It's being the answers to the questions that your ICP is asking and creating content that has a wide enough surface area where you can start to show up.
+
+**Seema Kumar:** You can start to get traction.
+
+**Tyler Pavlas:** Programmatic is there is a play where we can create hundreds or thousands of pages with the right inputs.
+
+**Tyler Pavlas:** So the per diem calculator from RAMP is a great example because we were able to take inputs from them that allowed us to programmatically create a page for the per diem of any city in America.
+
+**Tyler Pavlas:** And an easier example, I think, is things like integrations pages. For RAMP, we created this vendor directory.
+
+**Tyler Pavlas:** We were able to programmatically populate each page with the spend.
+
+**Tyler Pavlas:** Data that Ramp had on these tools based on the size of business.
+
+**Tyler Pavlas:** And we could programmatically enrich each of these pages using our workflows.
+
+**Seema Kumar:** Got it.
+
+**Seema Kumar:** Okay.
+
+**Seema Kumar:** Understood.
+
+**Seema Kumar:** Thank you.
+
+**Seema Kumar:** That's helpful.
+
+**Seema Kumar:** So you're more focused on editorial than programmatic right now.
+
+**Tyler Pavlas:** We're always going to do editorial first, but we can do programmatic at that 15K price point.
+
+**Tyler Pavlas:** Sure, we're feeling good about the foundation that we've built with editorial.
+
+**Seema Kumar:** Okay.
+
+**Seema Kumar:** And can you tell me how you think about growthx.ai versus like Profound?
+
+**Tyler Pavlas:** Yeah, good question.
+
+**Tyler Pavlas:** I would say that with Profound, you're getting LLM visibility and analytics.
+
+**Tyler Pavlas:** And they talk about the ability to create content using AI, right?
+
+**Tyler Pavlas:** That's going to help show up in search.
+
+**Tyler Pavlas:** But when you compare the way that you would create content in that tool to the way that we create content, what we're seeing is that it's just a lot deeper.
+
+**Tyler Pavlas:** And what I mean by that, you know, let's take an example from AugmentCode.
+
+**Tyler Pavlas:** So AugmentCode, you know, this is our platform that our team uses.
+
+**Tyler Pavlas:** And for each of these steps here, you can see, like, we've built our workflows in code.
+
+**Tyler Pavlas:** If I was to go and inspect, you would see that this workflow here, it's agentic, right?
+
+**Tyler Pavlas:** So it's actually going in and generating a research plan, executing questions, synthesizing results, and evaluating the quality.
+
+**Tyler Pavlas:** If it doesn't meet that criteria that we've defined with the client, it's going to rerun that research.
+
+**Tyler Pavlas:** And so in this example, right, everything got to the score that we needed to be able to continue with the next step in the process.
+
+**Tyler Pavlas:** But in this example, right here, you know, it didn't meet the criteria to explain the gaps as to why.
+
+**Tyler Pavlas:** And then it ran the research again, right, until we were able to meet a certain threshold.
+
+**Tyler Pavlas:** So it's really just, you know, in Profound, your team is using the tool and their focus is the LLM visibility.
+
+**Tyler Pavlas:** In our platform, we're performing the service for you.
+
+**Tyler Pavlas:** So we've got the experts in the loop and we're really being like the heavy lifters in terms of the work that it takes to, you know, show up.
+
+**Seema Kumar:** Yeah, that makes sense.
+
+**Seema Kumar:** I get it.
+
+**Seema Kumar:** And then what about, there's another company called Graphite. Tell me how you think about yourselves compared to them.
+
+**Tyler Pavlas:** Yeah, to be honest with you, I need to chat with Marcel more about that because I feel like I don't know enough to, like, honestly tell you what's different between them and us.
+
+**Tyler Pavlas:** But I think a big piece of it is going to be, like, Marcel, right? Marcel has built these organic content engines at every stop in his career. We pioneered, like, doing the same thing, but with the AI workflows.
+
+**Tyler Pavlas:** So think the vision here is that, you know, this internal platform that we have, I want to show you one more thing here.
+
+**Tyler Pavlas:** Should not have come to the co-working space.
+
+**Tyler Pavlas:** But you're in your car, so that makes me feel better.
+
+**Seema Kumar:** It's total, don't worry, it's totally fine.
+
+**Tyler Pavlas:** So, like, we're building this platform, and the vision is to bring clients into the platform, right?
+
+**Tyler Pavlas:** So, like, today, all of the assignments live in the content OS, which we've set up in Airtable.
+
+**Tyler Pavlas:** And you can see that, like, with every assignment that we create, you know, we're connecting it to a keyword, a search volume, a difficulty of ranking. But what's cool about the future here is that, you know, everything would be right in the platform.
+
+**Tyler Pavlas:** All the assignments that we're working on, all the activity of, like, what's happening behind the scenes, this ability to, like, ingest custom resources that you have, put that into the knowledge base and have the knowledge base be a part of the content creation process. You know, like retrieving topics in like a smart way for efficiency.
+
+**Tyler Pavlas:** I think like this is going to be probably the biggest differentiator from Graphite is like, you know, they're doing all this work, right?
+
+**Tyler Pavlas:** But how much are you seeing behind the scenes?
+
+**Tyler Pavlas:** You know, like are you able to understand like what every step in that process looks like?
+
+**Tyler Pavlas:** Like if you ask them how they do fact checking, could they like, you know, show you how they'll take an article, split it up into chunks, and then for every single passage, do deep research, and then validate that it's true against a confidence interval.
+
+**Seema Kumar:** And if it's not, suggest a rewrite.
+
+**Tyler Pavlas:** You know, it's, I think it's just like the, like the reason we're doing two kickoffs a week is because every client that we sign on, we're trying to be able to have every client point to.
+
+**Tyler Pavlas:** I worked with GrowthX and we drove organic traffic, X amount, and Y months.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** And I.
+
+**Tyler Pavlas:** I'm not sure if Graphite is taking, I have no idea if they're taking the same sort of, one, long-term vision with their product and service, and two, the care when it comes to being very intentional about which clients they work with.
+
+**Seema Kumar:** No, it's so clear to me from all the conversations I've had that you all are being really, really intentional.
+
+**Seema Kumar:** It's very, very clear.
+
+**Seema Kumar:** So it's why I want to find a way to work with you all, whether it's Panther or whether it's Turnstile or my next client or whomever.
+
+**Seema Kumar:** I've been really impressed with what you guys have done.
+
+**Seema Kumar:** Okay.
+
+**Seema Kumar:** Augment code is a great example.
+
+**Seema Kumar:** So for Panther, who else are you working with in, you know, either infrastructure or developer tooling or security, just because it really matters.
+
+**Seema Kumar:** Like, what we do is very, very technical.
+
+**Tyler Pavlas:** Yeah, 100%.
+
+**Tyler Pavlas:** Would you say that the content that the team would be looking to create, is it highly technical in nature, or is it more so topics within the space that the ICP...
+
+**Tyler Pavlas:** Might have questions about that can get you like more awareness, you know, are you trying to like, Honestly, I don't know.
+
+**Seema Kumar:** I mean, that's like, that's a question I would want your team to help me answer.
+
+**Seema Kumar:** Like what's going to bring people to, or what, what is going to be more effective at bringing people to our website?
+
+**Tyler Pavlas:** Is it a mix?
+
+**Tyler Pavlas:** I don't actually know the answer to that.
+
+**Tyler Pavlas:** Yeah, because right now I would say that we're trying to, we're trying, we're trying to err on the side of like not going super technical with our content.
+
+**Tyler Pavlas:** We've been, we've been able to do it before, right?
+
+**Tyler Pavlas:** Like you see a lot of the names here.
+
+**Tyler Pavlas:** These are all the clients that we work with.
+
+**Tyler Pavlas:** I mean, Sentinel One, Abnormal Security.
+
+**Seema Kumar:** Off Zero, yep.
+
+**Tyler Pavlas:** But then when you look at like the content that we've created for Abnormal, a couple good examples here.
+
+**Tyler Pavlas:** You know, it's, It's lighter.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** It's technical, but it's more trying to create content in a way that positions us as a thought leader, content that connects to trends and things that their audience might be searching for or asking in ChatGPT. This is probably a good example here — GPU sharing in Kubernetes is a topic we've been discussing with some recent clients.
+
+**Seema Kumar:** And why CastAI is the best tool, why automation needs to be, these are all good.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** But whenever it's like a developer would need to write it...
+
+**Seema Kumar:** Yeah, we've got a fair amount of that stuff.
+
+**Seema Kumar:** And, you know, but I'm like, but like our content strategy is open.
+
+**Seema Kumar:** Like maybe we should be writing more kind of stuff that a developer doesn't need to write or security engineer doesn't need to write in order to rank higher.
+
+**Tyler Pavlas:** For sure, for sure.
+
+**Tyler Pavlas:** And Panther, do you know much about like their domain authority right now on SEMrush?
+
+**Seema Kumar:** I don't. I looked up Turnstile, not Panther. I don't offhand.
+
+**Tyler Pavlas:** Let me look that up. So I'm looking at Panther's data right now — 39 authority score, which is good. 13,000 organic traffic a month, and 367 pages.
+
+**Tyler Pavlas:** I think I would need to take like a longer look at the Panther blog and the resources that exist.
+
+**Tyler Pavlas:** And then I could give you like a clearer answer on whether we could help you guys scale out some of your efforts or supplement them with more of the content that we're talking about.
+
+**Tyler Pavlas:** But I think also it'd probably be good to connect with the content leader on the team and sort of understand what their vision is as well.
+
+**Seema Kumar:** I don't have a constant leader on the team.
+
+**Seema Kumar:** I've got a product marketer and in her spare time, she writes blogs, which is partly why I'm looking for a solution because I know that's not good enough.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** There you go.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** So at Panther, it's a product marketing manager.
+
+**Tyler Pavlas:** And then is there any agency?
+
+**Tyler Pavlas:** That you guys are working with in terms of SEO or content creation?
+
+**Seema Kumar:** I work with an agency for all of our paid media and they do a little bit of SEO on the side.
+
+**Tyler Pavlas:** Okay, got it.
+
+**Tyler Pavlas:** Paid media, SEO on the side.
+
+**Seema Kumar:** Any freelance writers or anything like that?
+
+**Seema Kumar:** No, we've tried and I think like we've, we have not, I mean, before my time, they tried it and it didn't work.
+
+**Seema Kumar:** And I think what they believe is that somebody really needed to be in the inner workings of the company to be able to create the right content.
+
+**Tyler Pavlas:** Got it.
+
+**Tyler Pavlas:** Got it.
+
+**Tyler Pavlas:** And let's say we were working with Panther.
+
+**Tyler Pavlas:** Obviously, that product marketing manager would probably be like our main point of contact in addition, in addition to you.
+
+**Tyler Pavlas:** But who else would be important to be involved in either the review process or even like the strategy, strategy, sprint work to help us create.
+
+**Seema Kumar:** Yeah, a couple of folks.
+
+**Seema Kumar:** I would say a couple of folks.
+
+**Seema Kumar:** we're bringing on a new chief product officer.
+
+**Seema Kumar:** They would be our original founders, now the CTO of the company.
+
+**Seema Kumar:** He's extremely well known in security.
+
+**Seema Kumar:** So he would be for sure.
+
+**Seema Kumar:** And then we've got like a guy who does threat research who has been in space for a long time, who's also just incredibly, incredibly knowledgeable.
+
+**Tyler Pavlas:** So I would think the three of them plus the product marketer.
+
+**Tyler Pavlas:** Okay.
+
+**Tyler Pavlas:** Yeah, I think that sounds great.
+
+**Tyler Pavlas:** And I think probably what would be the most helpful is if I took some time to actually like do some analysis on both companies and then kind of come in in our next meeting with a point of view on like what the opportunity could be and what the lift could look like.
+
+**Tyler Pavlas:** That would be phenomenal.
+
+**Seema Kumar:** I mean, I might say prioritize Panther for now.
+
+**Seema Kumar:** know your time is limited.
+
+**Seema Kumar:** You have a lot of about interest, obviously.
+
+**Seema Kumar:** Turnstile just feels a little too early for me.
+
+**Tyler Pavlas:** Like they don't have a lot of the artifacts you're looking for.
+
+**Tyler Pavlas:** So why don't we focus on Panther?
+
+**Tyler Pavlas:** That sounds great.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** The only thing I liked a lot when I was looking at turnstile was the content that we could create.
+
+**Tyler Pavlas:** There would be a huge need to create a high volume.
+
+**Seema Kumar:** And it would be content that wouldn't be too technical in nature, you know?
+
+**Seema Kumar:** Yeah, that's true.
+
+**Seema Kumar:** That's a good point.
+
+**Seema Kumar:** I'll think about that.
+
+**Seema Kumar:** Okay, cool.
+
+**Tyler Pavlas:** Anybody that you would want to loop into the follow-up after I'd done more research?
+
+**Seema Kumar:** I will pull in probably my product marketer and my demand gen marketer and invite them to our next conversation.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** That's perfect.
+
+**Tyler Pavlas:** And then, Seema, what would you say your timeline is for trying to, like, choose the right partner and get started?
+
+**Seema Kumar:** As soon as we can figure something out, like, in the next couple of weeks, I would think.
+
+**Tyler Pavlas:** Next couple of weeks.
+
+**Tyler Pavlas:** Okay, got it.
+
+**Tyler Pavlas:** Yeah, right now, our earliest kickoff is November 3rd, but I definitely am trying to do a good job of, like, prioritizing the right fits.
+
+**Tyler Pavlas:** I feel good, you know, about the fit here.
+
+**Tyler Pavlas:** I think I just need to do the research to validate in our next call if I think that we could make the impact that you're looking for.
+
+**Tyler Pavlas:** Would you say the ROI you're looking for is just to like hone in on how feasible it would be?
+
+**Seema Kumar:** You mean, are you looking for a number or what?
+
+**Tyler Pavlas:** Yeah, I mean, are you thinking just in terms of organic traffic growth or would you be looking at this and other KPIs?
+
+**Seema Kumar:** I would be looking at organic traffic growth and then, you know, I would say either an increase in inbound demo requests or an increase in, you know, we get like our commercial deals usually tend to come through our demo request form.
+
+**Seema Kumar:** Our enterprise deals come through other, you know, introductions, partner channel, or just like, you know, somebody knows somebody on our board.
+
+**Seema Kumar:** And so I'm very aware that they probably would have seen content and then asked for that introduction.
+
+**Seema Kumar:** So it would just be like an increase in the number of inbound or an increase in the number of enterprise opportunities, regardless of how they show up.
+
+**Tyler Pavlas:** Okay, perfect.
+
+**Tyler Pavlas:** Now, that sounds good there as well.
+
+**Tyler Pavlas:** I guess last thing is, should we schedule the next meeting?
+
+**Seema Kumar:** Yes.
+
+**Seema Kumar:** think now just to make sure we get you guys in the queue, if it makes sense.
+
+**Seema Kumar:** For sure.
+
+**Seema Kumar:** How much time do you need to do your research?
+
+**Tyler Pavlas:** I think I just need a couple of days so we could look at this Thursday or Friday or even early next week, whatever you prefer.
+
+**Seema Kumar:** Let's look at Friday.
+
+**Seema Kumar:** Can you do 11 to 1 Pacific?
+
+**Seema Kumar:** Pacific.
+
+**Seema Kumar:** Yeah.
+
+**Tyler Pavlas:** I could do 30 minutes at 1130 or 1230.
+
+**Tyler Pavlas:** Yeah.
+
+**Tyler Pavlas:** could do 45 minutes between 930 and 11.
+
+**Seema Kumar:** 930 and 11.
+
+**Seema Kumar:** Let's do 10 to 11.
+
+**Tyler Pavlas:** 10 to 11?
+
+**Seema Kumar:** Yeah, 10 to 1045, 45 minutes.
+
+**Tyler Pavlas:** Okay, perfect.
+
+**Tyler Pavlas:** I'm going to go ahead and send you this invite now.
+
+**Seema Kumar:** And then I'll invite my colleagues to it.
+
+**Tyler Pavlas:** That sounds great.
+
+**Seema Kumar:** Awesome.
+
+**Seema Kumar:** Thanks, Tyler.
+
+**Tyler Pavlas:** Well, thank you.
+
+**Tyler Pavlas:** Great to meet.
+
+**Tyler Pavlas:** And I'm pretty impressed that you're being this productive while running errands.
+
+**Seema Kumar:** So good for you.
+
+**Seema Kumar:** You know, I'm a single mom.
+
+**Seema Kumar:** If you want anything done, give it to a single mom.
+
+**Tyler Pavlas:** It'll get done.
+
+**Tyler Pavlas:** I believe that.
+
+**Seema Kumar:** No doubt about it.
+
+**Seema Kumar:** All right.
+
+**Tyler Pavlas:** I'll talk to you on Friday and looking forward to it.
+
+**Seema Kumar:** Thank you.
+
+**Tyler Pavlas:** Bye-bye.

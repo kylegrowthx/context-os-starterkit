@@ -1,0 +1,716 @@
+# Alex AI <> Growth X - Weekly Sync
+
+<metadata>
+date: 2025-09-30
+time: 17:30 UTC
+duration: 29 minutes
+organizer: team@growthxlabs.com
+participants: Aida Knezevic, Nathalie Schrans, Donald Donckers
+fathom_recording_id: 90869178
+fathom_url: https://fathom.video/calls/424977855
+share_url: https://fathom.video/share/aVkMy7NhgzgVMkcsR3Vow1DkFUotvsuL
+source: fathom
+enriched_on: 2026-03-03 12:00 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Alex AI (a recruitment AI platform) synced on content strategy and production velocity. GrowthX has published 2 blogs with a 3rd staging, aiming to ramp up to 5 blogs per week while expanding focus into new verticals: government agencies, staffing, and large direct employers. The team aligned on content strategy (alternatives articles vs. deep-dive comparisons), integrations mentions, and workflow improvements, with Donald requesting internal product docs and competitor battle cards so GrowthX can create accurate, detailed comparison content for search engines and LLMs to cite.
+
+---
+
+## Context
+
+Alex AI is a recruitment AI platform offering integrations with HR systems, candidate assessments, and hiring tools. GrowthX is producing long-form editorial content for Alex's blog to drive organic search visibility and position Alex against competitors like Paradox. This is an ongoing content services engagement where GrowthX manages ideation, research, writing, and publication—with Donald reviewing and approving content within their Webflow CMS. The team meets weekly to align on content strategy, manage the production pipeline (currently ramping from 2-3 to 5 blogs per week), address workflow issues, and incorporate product feedback into the content roadmap. Featured images and CMS formatting have been recent pain points requiring iterative refinement.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Content production is ramping from 2-3 to 5 blogs per week for Alex, requiring process optimization (ContentOS status updates, automation for review notifications, Webflow CMS spacing fixes).
+- Deep-dive comparison content ("Alex vs. Paradox") and broad alternatives listicles serve different search intents and require distinct content templates.
+- Need product feature matrices and competitor battle cards from clients to produce accurate, defensible comparison content that LLMs will cite.
+- Featured image design iteration ongoing: keep text overlays and abstract elements, remove "eye" imagery, add office/workplace-related visuals to align with Alex's recruiting focus.
+
+**To GrowthX Business Development:**
+- Alex AI demonstrates growth and expansion (new product lines: search/match tool, candidates portal; new verticals: government, staffing, large direct employers).
+- Strong partnership signal: Donald actively engaged in content reviews, providing detailed feedback, and collaborative on workflow improvements.
+- Potential expansion areas: Reddit strategy, Reddit content, broader community-building beyond blog—not currently in scope.
+
+---
+
+## Overview
+
+- Content production ramping up: 2 blogs published, 1 staging, aiming for 5/week
+- Expanding content focus: government agencies, search/match tool, candidate portal
+- Workflow improvements: new content review process, featured image adjustments
+- Product info needed: competitor battle cards, internal docs for accurate comparisons
+
+---
+
+## Key Topics
+
+### Content Production Progress
+
+  - 2 blogs published earlier this week
+  - 3rd blog staging today
+  - Aiming for 5 blogs/week moving forward
+  - 2 new blogs ready for review, 3 additional coming soon
+  - Working on a batch of 5 this week
+
+### Content Strategy Discussions
+
+  - Adjacent topics (e.g., social media background checks) valuable for audience reach
+  - Startups content useful despite not being target market
+  - Integrations: Include Alex in articles, emphasize weekly additions
+  - New focus areas: government agencies, cities, staffing, large direct employers
+  - Search/match tool and candidates portal as potential content topics
+
+### Competitor Comparisons
+
+  - "Alternatives" articles (10-15 options) vs. deep-dive comparisons (2 specific tools)
+  - Importance of having own content to counter competitor claims
+  - LLMs and AI search tools favor specific, unbiased comparisons
+
+### Content Review Process
+
+  - Donald to review content in Google Docs, not Webflow
+  - New automation: email notifications for content ready for review
+  - ContentOS "Ready for Review" section for easy tracking
+
+### Featured Images
+
+  - Adjusting design: keep text overlay, remove eyes, use more office-related imagery
+  - Maintain brand colors and abstract elements
+
+### Technical Issues
+
+  - Paragraph spacing in CMS needs adjustment
+  - Donald to investigate and fix Webflow spacing issues
+
+---
+
+## Action Items
+
+**Donald Donckers (Alex)**
+- Provide internal docs on Alex features & competitor comparisons to GrowthX team
+- Investigate/fix paragraph spacing issues in Webflow CMS
+
+**Nathalie Schrans (GrowthX)**
+- Create new 'paused' status in ContentOS for future content ideas
+- Set up Notion doc for Donald to share new content ideas asynchronously
+- Set up automation to email Donald when new content drafts ready for review
+- Create doc to compile Alex product updates/roadmap info from Donald
+
+**Aida Knezevic (GrowthX)**
+- Adjust blog featured images: keep text overlay, remove eyes, add office-related imagery
+
+---
+
+## Transcript
+**Aida Knezevic:** This meeting is being recorded.
+
+**Nathalie Schrans:** Hi, Aida.
+
+**Nathalie Schrans:** How are you?
+
+**Nathalie Schrans:** Where are you right now?
+
+**Aida Knezevic:** I'm in a cool working space.
+
+**Nathalie Schrans:** Oh, cool.
+
+**Aida Knezevic:** Yeah, I'm in a booth.
+
+**Nathalie Schrans:** Hey, Donald.
+
+**Donald Donckers:** Hey, good morning.
+
+**Aida Knezevic:** Hi.
+
+**Aida Knezevic:** How are you?
+
+**Donald Donckers:** I'm doing good.
+
+**Donald Donckers:** How about yourself?
+
+**Aida Knezevic:** Good, good.
+
+**Aida Knezevic:** Busy week, but excited to have been able to finally start publishing content for you this week.
+
+**Aida Knezevic:** We got two blogs up earlier this week, and we're staging the third one today.
+
+**Aida Knezevic:** And then, yeah, hopefully we won't get into the cadence from this week, and then we can do like five every week.
+
+**Donald Donckers:** Yeah, yeah, yeah.
+
+**Donald Donckers:** It'd be great if we can get like five out this week and five next week, and yeah, that'd be fantastic.
+
+**Donald Donckers:** I went through the content, what do you call it?
+
+**Donald Donckers:** content directory.
+
+**Nathalie Schrans:** Oh, the content OS, yeah.
+
+**Donald Donckers:** The content OS, the content OS.
+
+**Donald Donckers:** And I was like adding some comments in there and reading some of the ideas and asking questions that I'd love to touch upon.
+
+**Donald Donckers:** But it'd great to see like if there's anything in particular you...
+
+**Donald Donckers:** You both want to chat about first.
+
+**Aida Knezevic:** Yeah, I think I saw one of your comments, like, thanks for catching, like, the duplicates.
+
+**Aida Knezevic:** We try to do our best to, like, figure out if there are any duplicates in the batch.
+
+**Aida Knezevic:** Sometimes they sneak through.
+
+**Aida Knezevic:** But the one comment that you had was about, like, social media background checks.
+
+**Aida Knezevic:** And, yeah, you don't do that.
+
+**Aida Knezevic:** Like, you don't provide that service.
+
+**Aida Knezevic:** But I think it's still, like, a worthy topic because it's something that your target audience would be interested in.
+
+**Aida Knezevic:** So it's not, like, a super high priority.
+
+**Aida Knezevic:** But we always do recommend branching out slightly into adjacent topics just so you get in front of your audience.
+
+**Aida Knezevic:** I don't know, I think, Nathalie, you've had similar strategy suggestions in the past.
+
+**Nathalie Schrans:** Yes.
+
+**Nathalie Schrans:** Even though the idea being people are going to be kind of searching for these things anyway, even if it's not necessarily.
+
+**Nathalie Schrans:** It's kind of similar to like product alternatives.
+
+**Nathalie Schrans:** Yes, you don't want to necessarily point people towards your competitors, but people are going to be searching for that anyway.
+
+**Nathalie Schrans:** So it's good to capture their attention basically however you can.
+
+**Donald Donckers:** Got it.
+
+**Donald Donckers:** Makes sense.
+
+**Donald Donckers:** And so then like the argument is the same for, you we don't serve startups at all, but like we should still be writing content pieces for startups.
+
+**Nathalie Schrans:** Yeah, I would say so.
+
+**Donald Donckers:** Okay, great.
+
+**Donald Donckers:** And then another thing that the same is with like these, you know, scheduling software, right?
+
+**Donald Donckers:** Like we have a scheduling software for AI, but not for like people.
+
+**Donald Donckers:** So it's kind of like the angle.
+
+**Donald Donckers:** So then there, like, you know, at the end of the, I guess you're doing your comparison or however the structure is of the, the article.
+
+**Donald Donckers:** And then the angle at the end is like, you know, you can also have an AI that does scheduling anymore.
+
+**Nathalie Schrans:** Okay, yeah, that's a good note.
+
+**Nathalie Schrans:** Let add that.
+
+**Donald Donckers:** And for the integrations, I noticed that there's a lot of integrations in articles in there that we don't currently support.
+
+**Donald Donckers:** do we want to, like, do we want to call out that we don't support them?
+
+**Donald Donckers:** Or should we, because like some of these articles are, you see here, it was.
+
+**Nathalie Schrans:** I think all the integrations that I see, I check those against the integrations page in your documentation, and they're listed.
+
+**Nathalie Schrans:** Those are all.
+
+**Nathalie Schrans:** Tools that are listed in that.
+
+**Donald Donckers:** So let me just double check.
+
+**Nathalie Schrans:** Oh, except for iSIMS.
+
+**Nathalie Schrans:** I'm not sure how you pronounce that.-C-I-S-S.
+
+**Nathalie Schrans:** iSIMS, yeah.
+
+**Nathalie Schrans:** I think everything else, yeah, Jobbyte, BlockSoap, Relate, JobDiva.
+
+**Nathalie Schrans:** Oh, and iSolved is not one of them.
+
+**Nathalie Schrans:** I think maybe it was just, so four of them are ones that you offer.
+
+**Nathalie Schrans:** Or, I think these two that you don't just have pretty solid search volume.
+
+**Nathalie Schrans:** So we wouldn't list Alex as an integration, but it's, like, this is information that your target audience would be looking for, especially for iSIMS, because that's, like, targeting, you know, large enterprises.
+
+**Nathalie Schrans:** So that could be something where we wouldn't list, you know, Alex as, like, the best integration at the top of the list, but we could mention them at the end as, like, if you're looking for, you know, a smarter recruiting tool.
+
+**Nathalie Schrans:** Well.
+
+**Nathalie Schrans:** And considering, you know, using AI to improve your hiring process, alex is a great solution for you.
+
+**Nathalie Schrans:** So it'd be a slightly different angle than the other integrations pieces.
+
+**Donald Donckers:** I think, like, if you say that, it's, like, such a, you know, sought-after.
+
+**Donald Donckers:** Because we are adding these integrations every week.
+
+**Nathalie Schrans:** Okay.
+
+**Donald Donckers:** Might be worse to just add us.
+
+**Donald Donckers:** And then, like, if somebody comes in, we just say, because we always say, like, if somebody comes in and they say, like, you know, do you support this integration?
+
+**Donald Donckers:** And we're like, yeah, we can, you know, we can basically get it done by the time you're done with your contract negotiation.
+
+**Nathalie Schrans:** Okay, yeah.
+
+**Nathalie Schrans:** I think that's a good thing that we could also add in the CTA section as well.
+
+**Nathalie Schrans:** Like, Alex is adding new integrations every week.
+
+**Nathalie Schrans:** And just to kind of, you know, highlight, like, if you don't see the integration that you need now, just by talking to Alex.
+
+**Nathalie Schrans:** Thank you.
+
+**Nathalie Schrans:** We'll say it better than this, obviously, but, like, they would be able to build the integration for you based on what you need.
+
+**Donald Donckers:** Okay, super.
+
+**Donald Donckers:** Yeah, let's do that.
+
+**Donald Donckers:** Let's do that.
+
+**Donald Donckers:** I'll go in and make it through a lot more of this content.
+
+**Donald Donckers:** Then, the other thing, let me see.
+
+**Donald Donckers:** Let's do that.
+
+**Nathalie Schrans:** So, that's kind of covering two areas of this, like, really high intent bottom of the funnel content.
+
+**Nathalie Schrans:** So, people, maybe they've heard of Paradox, but they want to see what other options are out there.
+
+**Nathalie Schrans:** They would be looking at Paradox alternatives and kind of...
+
+**Nathalie Schrans:** Seeing like maybe there's 10 other options for them to consider and they start doing more research.
+
+**Nathalie Schrans:** And then Alex versus Paradox is a little bit further down the funnel.
+
+**Nathalie Schrans:** Like maybe they've narrowed down their options further and they want more of a deep dive comparison between two specific tools.
+
+**Nathalie Schrans:** So the product alternatives listicles don't go as deep because we have to cover, you know, 10 to 15 alternatives.
+
+**Nathalie Schrans:** But the deep dive goes into more detail comparing like specific features against each other, going deeper into like use cases or ROI, that kind of thing.
+
+**Nathalie Schrans:** So they are, you're right that they are kind of similar, but it's the main difference is the level of detail and also kind of serving two different search intents in a way.
+
+**Donald Donckers:** Got it.
+
+**Donald Donckers:** Okay.
+
+**Donald Donckers:** Perfect.
+
+**Aida Knezevic:** Yeah, the search results are completely different for these keywords. One of the things that really determines whether a keyword is the same as another is if the search results are very similar.
+
+**Aida Knezevic:** So if they're similar, then we, you know, we pick the one that's like either more aligned with what you're doing or just has like higher search volume.
+
+**Aida Knezevic:** But sometimes two keywords, they kind of look a little bit similar, but they're actually like the search results are completely different.
+
+**Aida Knezevic:** So that's kind of our, that's a kind of a guiding principle that we use when filtering, filtering like topics.
+
+**Nathalie Schrans:** Yeah, and I just wanted to mention a lot of the times your competitors might have content about you.
+
+**Nathalie Schrans:** So let's say Paradox already has a Paradox versus Alex piece.
+
+**Nathalie Schrans:** You don't want them to be the only person when you're like the authority on your own platform.
+
+**Nathalie Schrans:** So it's important to have that covered.
+
+**Nathalie Schrans:** And also LLMs and AI search tools, they like having, they like this kind of content where it's very specific and, you know, unbiased comparisons about.
+
+**Nathalie Schrans:** So let's say if someone is looking, like searching in ChatGPT, like what's the difference between Paradox and Alex?
+
+**Nathalie Schrans:** You would want to make sure that you have content that's super accurate and up-to-date about what your platform offers, so that maybe ChatGPT would cite you, or at least it wouldn't present incorrect information that it pulls from elsewhere.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** Sounds good.
+
+**Aida Knezevic:** Yeah, another thing, this happened recently, actually, to another client.
+
+**Aida Knezevic:** So one of their main competitors published a blog post about their platform, and the title was basically how our client is not a good fit for enterprises.
+
+**Aida Knezevic:** And that started getting picked up by LLFs, like it started showing up in ChatGPT, like if they were, if they, you know, if someone would ask a prompt, like, you know, is this platform a good fit for enterprise organizations, it would return that blog post and be like, no, it's not.
+
+**Aida Knezevic:** Anyway, so their direct competitor actually created.
+
+**Aida Knezevic:** It's a pretty offensive, very, very aggressive way.
+
+**Aida Knezevic:** We don't usually do this type of stuff, but it does get surfaced by LLM.
+
+**Aida Knezevic:** So the positioning is very important in these types of articles, like talking about you as an enterprise solution and all that stuff.
+
+**Aida Knezevic:** Because some of these companies out there, they can get really, really aggressive with how they're going against their competitors.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** But another thing that I was like, I love this.
+
+**Donald Donckers:** I think enterprise angle is important.
+
+**Donald Donckers:** Another thing that we should be writing content about is how we can support government agencies, like cities, and that kind of stuff.
+
+**Donald Donckers:** I think this is an area where we haven't really been focusing on, but there's a lot of room for growth for us there.
+
+**Donald Donckers:** So we can start positioning ourselves there.
+
+**Donald Donckers:** So staffing, large direct employers, and like government agencies.
+
+**Donald Donckers:** That's
+
+**Donald Donckers:** Another great fit for us.
+
+**Aida Knezevic:** Real quick question.
+
+**Aida Knezevic:** So when we're creating comparison content, so like the versus articles, we actually can set up a separate article generation pipeline for these articles so that all of them follow the same format.
+
+**Aida Knezevic:** And for this pipeline, we can provide a different artifact, which is a product feature matrix.
+
+**Aida Knezevic:** So it includes like detailed information about your platform and then your direct competitors so that when the content is being generated, it's just pulling from this resource.
+
+**Aida Knezevic:** It's not pulling from like random third-party resources that could be outdated.
+
+**Aida Knezevic:** To generate this, it would be helpful if we had access to like any internal docs, like competitor battle cards, or just like anything that you might share with prospects.
+
+**Aida Knezevic:** To like, at the very least, if you don't have anything about your competitors, at least...
+
+**Donald Donckers:** Like messaging about alex, that would be helpful.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** Let me check.
+
+**Donald Donckers:** Let me check if we have that.
+
+**Donald Donckers:** Okay.
+
+**Donald Donckers:** That's great.
+
+**Donald Donckers:** I'll just ask, I'll just make sure that I get that information over to you if we do have that.
+
+**Donald Donckers:** I know we have some, but it's like very simple.
+
+**Donald Donckers:** It's like just compare like features and then this is what we support.
+
+**Donald Donckers:** This is what they support.
+
+**Donald Donckers:** Okay.
+
+**Donald Donckers:** I'll get that over to you.
+
+**Nathalie Schrans:** And I'll follow up with a list of like everything that we discussed, you don't have to necessarily remember, and even in what you just described, it sounds simple, but it's a great starting point for our own research, so.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** Yeah, I can definitely help with that.
+
+**Donald Donckers:** The, so are we going to like moving forward, like what else do I need to do other than like moving content from like idea to client approved, do you want me to archive it or reject it?
+
+**Nathalie Schrans:** Um, if, if you don't want us to do it, you can just reject it.
+
+**Donald Donckers:** Okay, perfect.
+
+**Donald Donckers:** And then what if I mark something as "not now"?
+
+**Nathalie Schrans:** "Not now" means maybe there's something you're working on in the product that would make more sense to cover later.
+
+**Nathalie Schrans:** And then you can just leave it as idea for now, and then I will create a new status to make it clear that it's for later.
+
+**Nathalie Schrans:** And then I can just move those, and moving forward, you can use that as well.
+
+**Donald Donckers:** Okay, perfect.
+
+**Nathalie Schrans:** Maybe like a paused option or something like that.
+
+**Donald Donckers:** Yeah, if we can add that, that'd be great.
+
+**Donald Donckers:** And I think, like, moving forward, so whenever we have, like, ideas on, like, hey, this is a different angle of articles that we probably should be looking into, such as, you know, now, like, government agencies, the other, you know, we have this thing, we call it search and match, which basically is a tool to, you know, discover clients within your existing, you know, applicant tracking system.
+
+**Donald Donckers:** Um, and we have this candidates portal as well, where candidates...
+
+**Donald Donckers:** Let's go and like run practice exam, like practice interviews to train themselves on like interviewing for specific role types.
+
+**Donald Donckers:** How do we approach, how should I like put that on your radar so that we can start thinking about generating content for that?
+
+**Nathalie Schrans:** Yeah, I mean, I think maybe we can create, I can create a doc in Notion where, you know, just as things come to mind or when you have information, you can share in the doc or you can bring it up in calls like this.
+
+**Nathalie Schrans:** And then we'll make a note and, you know, conduct our own keyword research to see what kind of content we can create.
+
+**Nathalie Schrans:** Just depending on what works better for your type of workflow, does it make sense?
+
+**Nathalie Schrans:** Like, is it easier for you to kind of just add things in a note async or, you know, kind of like as we discuss, like it comes to mind during discussion?
+
+**Donald Donckers:** I think
+
+**Donald Donckers:** Yeah, I mean, I think it's going to be a combination where, like, I think there's going to be moments where things come to mind and I just, like, I just want to share it, like, and I guess I'll just put it in a Slack channel then.
+
+**Donald Donckers:** Yeah, whatever makes sense for your workflow, and we can just compile everything in a doc so it's in one place for you to look at and for our own reference.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** Cool.
+
+**Donald Donckers:** Do you, does GrowthX do anything with, like, because I know that Reddit is huge, does GrowthX have any support with helping with, like, a Reddit strategy or not, really?
+
+**Aida Knezevic:** Not right now.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** Yep, yep.
+
+**Donald Donckers:** So what are the solutions that GrowthX offers?
+
+**Donald Donckers:** It's just, like, content production?
+
+**Aida Knezevic:** Yeah, so we do content production.
+
+**Aida Knezevic:** And we also do programmatic SEO, but these have to, like, programmatic SEO has to be scoped out in advance, and it's, like, a separate work stream.
+
+**Aida Knezevic:** So, like, if you have an idea or, like, you want to do programmatic SEO, that would be a new work stream, and we would have to talk to our dev team because we have, like, in-house engineers who would, like, hook everything up to your CMS and, like, map everything.
+
+**Aida Knezevic:** And, yeah, I think right now, so we're doing, like, some programmatic projects as they come up, and now we're doing, like, mostly content, like, for, like, long-form editorial content, which is kind of, we're expanding, but, like, the platform development is coming along really fast.
+
+**Aida Knezevic:** But we just want to make sure that we test everything in-house before we kind of start offering it to clients.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** Yeah.
+
+**Aida Knezevic:** I wanted, so I think, yeah, just to give you like a quick content update.
+
+**Aida Knezevic:** So we do have two new blogs that are ready for your review.
+
+**Aida Knezevic:** And then we're going to have three additional ones soon.
+
+**Aida Knezevic:** And we're working on a batch of five this week.
+
+**Donald Donckers:** And so for me, whenever there's content that like is ready to review, like, do I, is it always going to be in Webflow and I just have to go in there?
+
+**Donald Donckers:** Because it makes it a little bit hard for me to give feedback.
+
+**Aida Knezevic:** No, no.
+
+**Aida Knezevic:** It's going to be, so you're still going to be providing the Google, like, feedback in Google Docs.
+
+**Aida Knezevic:** I just wanted to, for you to take a look at the Webflow staging, just to make sure that we did everything right.
+
+**Aida Knezevic:** And like the authors were correct the first time around.
+
+**Aida Knezevic:** But like, you're still going to, we're still going to be using Google Docs.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** Perfect.
+
+**Donald Donckers:** And.
+
+**Donald Donckers:** All right.
+
+**Donald Donckers:** Do.
+
+**Donald Donckers:** For the Google Docs, I'll just have to, I just wait for an update in the GrowthX channel, or what's the best way to like, for me to see which Google Docs I need to be reviewing?
+
+**Aida Knezevic:** Sorry, go ahead, Nathalie.
+
+**Nathalie Schrans:** Sorry, no, we'll tag you in the Slack channel when there's new drafts for you to review.
+
+**Nathalie Schrans:** We also have this folder that collects here, a folder in Google Drive that collects all of the drafts for you to review, so you can find them all in one place.
+
+**Nathalie Schrans:** I'll share a link to that in Slack later.
+
+**Nathalie Schrans:** But yeah, we'll just tag you in Slack whenever there's a new draft for you to review, if that's what works best for you.
+
+**Nathalie Schrans:** If there's some other process that would be easier for you, we can do that as well.
+
+**Donald Donckers:** Yeah, maybe like a, if there's like a Google Sheet or something where you link to it and you just tag me in the sheet.
+
+**Donald Donckers:** Because I don't, I fear that if we're going to be, if I'm going to have to review like all this content in Slack, it's going to, get quite low.
+
+**Donald Donckers:** Like, because we're publishing five days a week, right?
+
+**Donald Donckers:** Is there a way that we can keep it cleaner, Slack?
+
+**Aida Knezevic:** That would be great.
+
+**Aida Knezevic:** Yeah, so we have a status.
+
+**Aida Knezevic:** Like, when you go to the ContentOS, you go to Client Views, and there's a Ready for Review.
+
+**Aida Knezevic:** Right now, there's nothing here yet, but there's going to be two new blogs once we change the status.
+
+**Aida Knezevic:** So whenever you're setting up Ready for Review, it's going to be here.
+
+**Aida Knezevic:** And then, Natalie, we can set up an automation here, just to send an email to, yeah, so we have, like, an editing app.
+
+**Aida Knezevic:** Yeah, so we can just send you an email.
+
+**Nathalie Schrans:** Okay, perfect.
+
+**Nathalie Schrans:** Yeah.
+
+**Nathalie Schrans:** I'll make note of that.
+
+**Aida Knezevic:** All right. My last update for you is about the new featured images.
+
+**Aida Knezevic:** So last week we presented you with a couple of options and you gave us some feedback.
+
+**Aida Knezevic:** So this is what we have right now.
+
+**Aida Knezevic:** It's a little more abstract.
+
+**Aida Knezevic:** It's still following like your brand colors, but it's a little more like augment code.
+
+**Donald Donckers:** Yeah, I'm not a big fan of like the eyes.
+
+**Donald Donckers:** Like the text balloons are great.
+
+**Donald Donckers:** The selection, like left or right, is great.
+
+**Donald Donckers:** The initial ones that were on the first two blog posts, they were more like office stuff.
+
+**Aida Knezevic:** Those are great too.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** That makes sense.
+
+**Aida Knezevic:** Yeah, the eyes one, they are very like George Orwell.
+
+**Aida Knezevic:** 1984, that's the vibes that I'm getting.
+
+**Aida Knezevic:** Okay, yeah, think, like, we could just adjust these to, like, not use eyes, use, like, some more office imagery, but without the text.
+
+**Donald Donckers:** Yeah.
+
+**Donald Donckers:** All right.
+
+**Donald Donckers:** Well, now there's the text overlay, right?
+
+**Aida Knezevic:** Is that not what you want to keep doing?
+
+**Aida Knezevic:** Um, we had that last week.
+
+**Aida Knezevic:** I believe the feedback was that you didn't want to do the text overlay, or maybe we misunderstood you.
+
+**Aida Knezevic:** If you want to take, like, bring it back, we can do that.
+
+**Donald Donckers:** I mean, it's pretty good.
+
+**Donald Donckers:** I felt like it was what you showed me the last time was different from the images that were generated.
+
+**Aida Knezevic:** Okay.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** It could have been something different.
+
+**Aida Knezevic:** Um, let me take a look at your blog really quick.
+
+**Aida Knezevic:** Yeah, I think this is very similar, but there are some slight design differences.
+
+**Aida Knezevic:** I think we can keep the text, lose the eyes, and then have like more office related imagery.
+
+**Donald Donckers:** Yeah.
+
+**Aida Knezevic:** There's also something in your, it's kind of like, I know you're probably not responsible for this, but you're in your CMS.
+
+**Aida Knezevic:** So when we publish a blog post, you have to add like extra spaces between paragraphs.
+
+**Aida Knezevic:** Otherwise, everything looks too close together, and it's hard to read.
+
+**Aida Knezevic:** And I don't know, like, that's probably something, if you have like a web person, they would just have to like, change this.
+
+**Donald Donckers:** Let me take a look if actually you were.
+
+**Donald Donckers:** I can, I can make it.
+
+**Donald Donckers:** Is this just like a, let me take a look at this.
+
+**Aida Knezevic:** It is what it looks like now.
+
+**Aida Knezevic:** Like, for example, this paragraph and the one above are, like, very close together.
+
+**Aida Knezevic:** I would, like, it would be great if there was just a little bit of space between these two that was added automatically.
+
+**Aida Knezevic:** Right now, what we're doing is we just press, like, the tab bar.
+
+**Donald Donckers:** Okay.
+
+**Donald Donckers:** Yeah, let me take a look at it.
+
+**Donald Donckers:** Yeah, I can take a look at this.
+
+**Donald Donckers:** think this is, indeed, I saw something when it was initially published that it was, it looked off.
+
+**Donald Donckers:** So let me figure out what's going on there.
+
+**Donald Donckers:** But then it's probably, if I fix it, it's going to be with the redo the quality of the content, right?
+
+**Aida Knezevic:** Because then the spacing is going to look too big.
+
+**Aida Knezevic:** Yeah, but that's not a big deal.
+
+**Aida Knezevic:** It's just going to be like two or three blocks. We would rather have this because it's going to be easier for us in the long term.
+
+**Donald Donckers:** Yeah.
+
+**Donald Donckers:** Yeah, if you can publish a new, like, when you publish a new piece of content in there, publish as it is.
+
+**Donald Donckers:** Well, don't publish it yet, but put it in there as is, and then I can go in and update, make the changes in workflow so that it, like, looks good as is.
+
+**Aida Knezevic:** Okay, thank you.
+
+**Aida Knezevic:** Let me just notify the publisher.
+
+**Aida Knezevic:** Okay.
+
+**Donald Donckers:** Okay.
+
+**Aida Knezevic:** Nathalie, did you have anything else you want to discuss?
+
+**Nathalie Schrans:** No, I don't think so.
+
+**Nathalie Schrans:** So I'm editing the, I was out for a couple of days, so I'm editing the last, the three last blogs from last week, and then, like Aida mentioned, we were working on five new blogs this week, and I also made notes of our action items, like creating that automation to send you an email, new drafts, ready to review, and then I'll also create a doc so we can compile any updates from you on new product features, or if there's some sort of product roadmap that would be helpful for us to see.
+
+**Nathalie Schrans:** Feel free to share that there, but, you know, whatever information that you have, know things are probably quickly changing, so it might not make sense to just share everything that you have, but, you know, as things come up, yes, definitely let us know and compile all that information in one place so that we can use it for our own ideation and research.
+
+**Aida Knezevic:** All right, great.
+
+**Aida Knezevic:** Well, we'll be in touch soon.
+
+**Aida Knezevic:** In the meantime, let us know if there's anything we can help you with.
+
+**Donald Donckers:** That was good.
+
+**Donald Donckers:** I'll continue to review the content, and as soon as it comes in, you have something ready to publish, I'll first make the changes to Webflow into, like, let you know if it's all good or not.
+
+**Aida Knezevic:** All right.
+
+**Aida Knezevic:** Thank you.
+
+**Nathalie Schrans:** See you next week.
+
+**Donald Donckers:** Thanks, everyone.
+
+**Nathalie Schrans:** Have a good week.
+
+**Nathalie Schrans:** Bye-bye.

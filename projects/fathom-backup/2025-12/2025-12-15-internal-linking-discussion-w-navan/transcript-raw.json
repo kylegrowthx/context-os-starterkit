@@ -1,0 +1,732 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Hey, Aida.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Hi.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "How things?",
+            "timestamp": "00:00:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Good, good.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "How are you?",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Not too bad.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Good, great.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "It's nice to meet with someone at a more reasonable time.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So thank you for offering.",
+            "timestamp": "00:00:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay, cool.",
+            "timestamp": "00:00:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I don't think Nima is going to join us today, but we are meeting a little later, so that's fine.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, yeah, so my understanding is you wanted to talk a little bit about the internal linking strategy.",
+            "timestamp": "00:00:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I would love to hear like what are like the specific questions that you had in mind and then we can take it from there.",
+            "timestamp": "00:00:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "So generally how you approach this, like what's the general consensus of how you do it, how you choose like the anchor link, the anchor texts and destinations, how many internal links per say article or from",
+            "timestamp": "00:00:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Per thousand words, your goal is, and then I can tell you a bit about my approach to that and how I think we should work together on this.",
+            "timestamp": "00:00:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So the way we approach internal linking, so we have an automated step set up in Atlas, and I can show you how that works.",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, so this is, yeah, this is your, these are, this is like the workspace that we have set up for you.",
+            "timestamp": "00:01:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, so, um, here in this step, um, it has, uh, in this workflow, it has a step called add internal links.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And it uses your site map to identify, like it uses the URL slug to identify what are good places to contact.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "link",
+            "timestamp": "00:01:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Actually insert a link and typically what it will do, it will either, before we used to write, the workflow used to write entire sentences to insert these internal links.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Now what it does, it anchors them to a suitable like keyword that's connected to the URL slud.",
+            "timestamp": "00:02:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That being said, we also add internal links manually.",
+            "timestamp": "00:02:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So because it's part of like a broader SEO strategy, we work with the client.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Sometimes they'll provide us a list of priority links to add in our content and then we have that like spreadsheet.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "And I think that that can also be automated.",
+            "timestamp": "00:02:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But I would have to ask our dev team how we can just kind of like insert that list into this workflow and then just add the links.",
+            "timestamp": "00:02:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "The way we select the anchor text, we really just follow.",
+            "timestamp": "00:02:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So like best SEO practices, so either like linking using secondary or like related keywords as the anchor text, just basically like making sure that the anchor text realistically depicts the information that the person is going to find at the other page.",
+            "timestamp": "00:02:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, you know, if you would be surprised clicking on that link and going to that result, then it's not a good link.",
+            "timestamp": "00:03:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That's kind of the process that we follow.",
+            "timestamp": "00:03:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So, yeah, it's like partially automated.",
+            "timestamp": "00:03:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So we add internal link programmatically and then we also add them in manually.",
+            "timestamp": "00:03:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "And you use also Search Console data for that?",
+            "timestamp": "00:03:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yes.",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "So I think like my general approach, I'm wearing an SEO hat here.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "So I would, I normally, I would go with like low hanging fruits in that sense.",
+            "timestamp": "00:03:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Of whatever page.",
+            "timestamp": "00:03:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Whatever destinations are already ranking for a specific set of keywords, say for a specific anchor, let's say we have expense management, and I know that the product page for expense management ranks for these specific keywords, and it's the best one that Google chooses.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "I usually would go with that flow, and I would look at Search Console data, I would look at the average ranking and the impression number for that specific query, and then I would probably link to the destination which has the highest impression and the lowest average ranking.",
+            "timestamp": "00:04:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "This is like in general, unless I have like a specific set of thoughts about this or...",
+            "timestamp": "00:04:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "...",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "...",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "...",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "...",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "...",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "...",
+            "timestamp": "00:04:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "If I want to strategically link to other specific destinations.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "So I was wondering if the approach is pretty much the same in terms of like Search Console data as it's being connected to the internal linking structure.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "And do you have like a magic number of how many links per article?",
+            "timestamp": "00:05:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I don't, I think we try not to overdo it.",
+            "timestamp": "00:05:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So we don't really have like a specific number.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Most of our articles are around 1,500 to 2,000 words long.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "So I think it's usually between like five to 10 links per article, but might be even more like depending on like the subject matter and how long the article is.",
+            "timestamp": "00:05:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "But we don't, we don't have like a number.",
+            "timestamp": "00:05:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "So I think maybe I could also, as you mentioned, I could provide like a list of strategic destinations with like sample anchors and then you can also incorporate this into the strategy.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "But that's, I think that's like the way I usually approach it and I would appreciate if you approach it like in more or less of a same, the same tactics.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "That, that works.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Uh, yeah, absolutely.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "I think, yeah, what would help for us is to have a list of like URLs that are like considered a priority for internal linking.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, and then also with like sample anchor text.",
+            "timestamp": "00:06:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Um, and then we can like, depending like how maybe",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Every two or three months, we could go back and refresh and update the list.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:07:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Sounds like a plan.",
+            "timestamp": "00:07:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Sounds good.",
+            "timestamp": "00:07:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Anything else related to internal linking?",
+            "timestamp": "00:07:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "No, I don't think so.",
+            "timestamp": "00:07:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Not at that point.",
+            "timestamp": "00:07:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "I will go over, like, I saw you have, like, three new articles, so I would go over them.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "If I have, like, any comments on the internal linking, I will share them there on the docs or any other comment that I might have.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Okay.",
+            "timestamp": "00:07:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Sure.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Great.",
+            "timestamp": "00:07:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "All right.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Aida Kne\u017eevi\u0107",
+                "matched_calendar_invitee_email": "aida@growthxlabs.com"
+            },
+            "text": "Well, thank you so much.",
+            "timestamp": "00:07:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "I'll see you in a little bit then.",
+            "timestamp": "00:07:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Thanks, Aida.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Thank you.",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Moran Brayer",
+                "matched_calendar_invitee_email": "mbrayer@navan.com"
+            },
+            "text": "Bye-bye.",
+            "timestamp": "00:07:40"
+        }
+    ]
+}

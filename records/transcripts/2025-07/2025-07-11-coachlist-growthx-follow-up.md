@@ -1,0 +1,1037 @@
+# Coachlist <> GrowthX Follow Up
+
+<metadata>
+date: 2025-07-11
+time: 17:01 UTC
+duration: 43 minutes
+organizer: kyle@growthxlabs.com
+participants: Kyle Gaudreau (GrowthX), Jeffrey Idso (CoachList)
+fathom_recording_id: 73686482
+fathom_url: https://fathom.video/calls/349177067
+share_url: https://fathom.video/share/E7S-5sTSgCPuCW-jpp--mwLysqeMZGT8
+source: fathom
+enriched_on: 2026-03-03 14:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+Kyle Gaudreau walked Jeffrey Idso through GrowthX's content strategy process and proprietary platform, demonstrating how a 6-8 week strategy sprint ($30K) combined with ongoing content production ($15K-$25K/month) could drive traffic and engagement for CoachList's marketplace platform. They aligned on a dual-audience content approach—targeting both parents/athletes seeking sports guidance and coaches looking to grow their businesses—with potential opportunities for geo-specific landing pages, help desk content, and programmatic at-scale production. Kyle committed to sending an SOW and scheduling link for a follow-up meeting in early August to begin the strategy sprint.
+
+---
+
+## Context
+
+CoachList is a marketplace platform connecting coaches and instructors (yoga, golf, fitness, etc.) with consumers seeking lessons and training. Jeffrey Idso, a CoachList founder/executive, reached out to GrowthX for content marketing support as part of the company's go-to-market strategy. CoachList is in early-stage growth with plans to scale from their current California focus to nationwide expansion, and they're heavily focused on building out their product team (targeting 50 people in engineering, design, and product) before investing heavily in internal marketing talent.
+
+This is a follow-up conversation from a previous call where Kyle had introduced GrowthX's services. The primary opportunity is helping CoachList generate editorial and programmatic content at scale to capture high-intent search traffic (both SEO and GEO), drive user bookings on the consumer side, and help coaches grow their own businesses. The challenge CoachList faces is typical for early-stage B2B marketplaces: they have massive content opportunities but lack the internal bandwidth to execute while they're building core product.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Marketplace platforms (CoachList, similar to Airbnb/VRBO/Expedia) represent a strong vertical for GrowthX's geo-based landing page and programmatic content strategies
+- Opportunity to leverage Dave (former SEO lead at TripAdvisor and Fanatics) as account point person for specialized marketplace expertise
+- CoachList's dual-audience model (consumer + coach) allows GrowthX to showcase editorial strategy for different personas in follow-on case studies
+- Project scope offers high volume potential ($15K/month baseline) with room to expand as product scales nationwide
+
+**To GrowthX Business Development:**
+- Solid early-stage lead with founder-level buy-in; Jeffrey is engaged and knowledgeable about content's role in growth
+- Clear path to expansion: starting with strategy sprint, moving to ongoing engagements at $15K-$25K/month depending on volume and complexity
+- Potential to demonstrate GrowthX's value prop pre-product-market-fit, positioning GrowthX as strategic growth partner for future Series A/B conversations
+- Natural fit for GrowthX's existing Allbirds/women's healthcare founder network (mentioned Allbirds founder spinning up competing wellness startup)
+
+**To CheckThat / AI Visibility:**
+- CoachList marketplace represents a use case where GEO (generative engine optimization) matters significantly—coaches appear in ChatGPT/Claude/Perplexity when users ask "how to find a yoga instructor in San Francisco"
+- Opportunity to track brand mentions and citation rates across AI models as platform grows from California to nationwide rollout
+- Multi-language expansion potential (Spanish mentioned) aligns with CheckThat's multilingual capabilities
+
+---
+
+## Overview
+
+- GrowthX offers a comprehensive content strategy and creation process, including a 6-8 week strategy sprint and ongoing content production
+- Their proprietary platform combines AI-powered workflows with human expertise for efficient, high-quality content creation
+- GrowthX can handle various content needs, including SEO optimization, GEO (Generative Engine Optimization), and potentially help desk articles
+- Pricing starts at $30K for the strategy sprint, with ongoing engagements ranging from $15K-$25K/month
+
+---
+
+## Key Topics
+
+### GrowthX's Content Strategy Process
+
+  - Begins with a 6-8 week strategy sprint ($30K) to develop deep understanding of client's business, personas, and content needs
+  - Creates artifacts like persona profiles, writing guidelines, and content strategies
+  - Develops a "Content OS" with 1000+ content opportunities organized by themes and priorities
+  - No obligation to continue after strategy sprint, but artifacts provide valuable inputs for future content creation
+
+### GrowthX's Proprietary Platform
+
+  - Combines AI-powered workflows with human expertise
+  - Features include:
+      - Content pipelines for different use cases (e.g., article generation, content refreshing)
+      - Workflow engine for rapid execution of content creation steps
+      - Integration with tools like SEMrush and ChatGPT
+      - Fact-checking, SEO optimization, and image creation capabilities
+  - Allows for quick edits and iterations without rerunning entire workflows
+
+### SEO and GEO Capabilities
+
+  - Comprehensive SEO services including technical audits, meta tag recommendations, and internal linking strategies
+  - GEO (Generative Engine Optimization) focus to improve visibility in AI-powered search engines
+  - Tracking and analysis of brand mentions and citations in AI-generated content
+
+### Potential Content Strategies for CoachList
+
+  - Editorial focus on parents/athletes at different life stages, addressing key questions about sports and training
+  - Content aimed at coaches to help them grow their businesses
+  - Geo-specific content strategy, similar to online travel agencies' approach
+
+### Pricing and Engagement Structure
+
+  - Strategy sprint: $30K for 6-8 weeks
+  - Ongoing engagement: $15K-$25K per month, depending on volume and complexity
+  - Estimated $15K/month for CoachList based on initial assessment
+
+---
+
+## Action Items
+
+**Jeffrey Idso (CoachList)**
+- Review GrowthX SOW and schedule follow-up meeting via Calendly link for early August kickoff
+
+**Kyle Gaudreau (GrowthX)**
+- Send SOW and Calendly scheduling link to Jeffrey by end of day
+- Optional: arrange introduction call with Marcel (GrowthX CEO) if Jeffrey requests it during SOW review
+
+---
+
+## Transcript
+**Kyle Gaudreau:** How's the week going?
+
+**Kyle Gaudreau:** How about you?
+
+**Kyle Gaudreau:** Yeah, good.
+
+**Kyle Gaudreau:** Busy, but, you know, typical week.
+
+**Kyle Gaudreau:** Had a good happy hour yesterday.
+
+**Kyle Gaudreau:** really?
+
+**Kyle Gaudreau:** the event a good turnout?
+
+**Kyle Gaudreau:** Yeah, it was.
+
+**Kyle Gaudreau:** I'm so bad at estimating number of people who are at a thing.
+
+**Kyle Gaudreau:** I've learned quickly.
+
+**Kyle Gaudreau:** But we probably got, like, 50-ish, 55-ish people, I'm guessing, there.
+
+**jeffreyidso:** Yeah, it's pretty good for a Thursday evening in San Francisco.
+
+**Kyle Gaudreau:** For sure.
+
+**Kyle Gaudreau:** Yeah, yeah, yeah.
+
+**Kyle Gaudreau:** Some good conversations.
+
+**Kyle Gaudreau:** Had a lot of fun.
+
+**Kyle Gaudreau:** Next time, you know, we'll...
+
+**jeffreyidso:** Yeah, I'll definitely make it next time.
+
+**jeffreyidso:** I'm up in Tahoe for the week.
+
+**jeffreyidso:** I'm down the hill, down to the course here in a little bit.
+
+**jeffreyidso:** But...
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Love it.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Well, you know, I know last time we were, you know, just spending some time talking about the varying opportunities you have.
+
+**Kyle Gaudreau:** Spent some time kind of like clarifying where we can probably more particularly help.
+
+**Kyle Gaudreau:** And, you know, it sounded like there was some interest in just massive opportunity of just like the different things you could do content wise.
+
+**Kyle Gaudreau:** I had a few like different things that kind of like came to mind about that, that I can share.
+
+**Kyle Gaudreau:** But I also wanted to just really make sure I can like walk you through a little bit more specifics around our process and our platform and like how we can do content.
+
+**Kyle Gaudreau:** So you get a bit more.
+
+**Kyle Gaudreau:** Yeah.
+
+**jeffreyidso:** really helped me kind of get a visual around, you know, yeah, how we can move forward.
+
+**jeffreyidso:** So that'll be super helpful.
+
+**jeffreyidso:** really appreciate it.
+
+**jeffreyidso:** Yeah.
+
+**Kyle Gaudreau:** Let me, let me jump into that and then we can come back to some of the other stuff later.
+
+**Kyle Gaudreau:** So you have context in mind.
+
+**Kyle Gaudreau:** So sorry, my tabs got.
+
+**Kyle Gaudreau:** A little messed up.
+
+**Kyle Gaudreau:** I'll just give you one moment.
+
+**Kyle Gaudreau:** So, you know, as I was mentioning last time, like, our aim really is, like, how do we take the best of how fast AI can enable us to move, both in terms of research, creation of content, creating all the different things that enable us to put out content at scale, whether that be imagery, whatever it is, and figure out that right human in the loop step that sits alongside of that and that right strategy and input that goes into those workflows.
+
+**Kyle Gaudreau:** What we found is both sides of that equation are super, super important.
+
+**Kyle Gaudreau:** And so, you know, for example, like, you can build the most amazing workflows in the world, but if you take someone who's quite junior, you take very basic inputs, like, can you create content quite quickly?
+
+**Kyle Gaudreau:** Probably yes, but is that content going to be content that is going to drive the results you need in the long term?
+
+**Kyle Gaudreau:** Probably not.
+
+**Kyle Gaudreau:** And so a lot of our thought process is how do we go really, really deep early on to understand your business, your personas, your objectives?
+
+**Kyle Gaudreau:** How do we craft that right story that's going to resonate with your audience to build a lot of artifacts that are going to be inputs into our workflows?
+
+**Kyle Gaudreau:** Also help educate our team and help us collaborate with you to understand your business at a deeper level.
+
+**Kyle Gaudreau:** And so a lot of our engagements first start there.
+
+**Kyle Gaudreau:** So I can walk you through a little bit of like what that looks like and how we develop these artifacts.
+
+**Kyle Gaudreau:** And then I'll jump into the platform of how does that actually get translated into, you know, the day-to-day of the team and how we can move fast, essentially.
+
+**Kyle Gaudreau:** So as mentioned on our previous call, so we start with what we call a strategy sprint.
+
+**Kyle Gaudreau:** So that's six to eight weeks.
+
+**Kyle Gaudreau:** I can show you one that's like in progress now and like what we develop.
+
+**Kyle Gaudreau:** So of course, like, you know, we start with the kickoff.
+
+**Kyle Gaudreau:** And so we started to kick off, make sure we're hearing about you in the right way, like gathering all the, you know, the context from here.
+
+**Kyle Gaudreau:** What we're typically trying to do is just making sure like we have the, you know, we're hearing you in the right way and then start to go really deep quickly into talking with anyone in and around your business.
+
+**Kyle Gaudreau:** That could be talking to customers, that could be talking with people who are working on your platform, whatever it may be, to develop richer context in that first week.
+
+**Kyle Gaudreau:** Then we start to really dig in and start to develop some initial briefs.
+
+**Kyle Gaudreau:** This is a bit more, well, there's a lot of depth in here, a bit more higher level than we typically do.
+
+**Kyle Gaudreau:** What this just breaks down is like, you know, how we're thinking about your product, personas, their jobs to be done, et cetera.
+
+**Kyle Gaudreau:** And it's an early deliverable just to like.
+
+**Kyle Gaudreau:** And like level set, get feedback, but also as an input into varying workflows that can help power research and amongst other things.
+
+**Kyle Gaudreau:** But then we go a bit of a click deeper here where we'll really dig into the personas and try to understand things like different archetypes, what this would look like.
+
+**Kyle Gaudreau:** Like in this case, like there's quite a few for this brand and we'll dig super deep and we'll start to, you know, really go into like, how do we, who are these folks?
+
+**Kyle Gaudreau:** Like, how do we win their trust, lose their trust?
+
+**Kyle Gaudreau:** You know, what motivates them, et cetera.
+
+**Kyle Gaudreau:** This is, again, just like one of these deliverables during the sprint helps you give us rich feedback on like, how are we thinking about this?
+
+**Kyle Gaudreau:** Are we thinking about this in the right way?
+
+**Kyle Gaudreau:** And then from there, again, is leveraged as an artifact into our workflows.
+
+**Kyle Gaudreau:** And I can show you in platform, like kind of that all kind of works, but we just find that you have these different anchor points and artifacts.
+
+**Kyle Gaudreau:** They become these living documents that help educate us, help educate.
+
+**Kyle Gaudreau:** AI workflows, and then we can continue to come back to tweaking them as your business evolves instead of having to, you know, the alternative would be like a bit of like different messy inputs of like trying to figure out, you know, like how do we adapt what we're doing?
+
+**Kyle Gaudreau:** We have these different anchor points in terms of personas, writing guidelines, et cetera, just makes it so much easier for us to coordinate and move fast.
+
+**Kyle Gaudreau:** We dig in quite a bit deeper on the writing guidelines side of things.
+
+**Kyle Gaudreau:** I won't go through all this, but like, you know, things around voice, tone, structure, styles, et cetera, you know, varying themes in there.
+
+**Kyle Gaudreau:** We find that like providing good and bad examples works quite well, both for like getting that right feedback, but just in how AI intends to respond to that.
+
+**Kyle Gaudreau:** We can play around with like different things when it comes to these personas and styles and get kind of interested, like do a lot of different interesting things.
+
+**Kyle Gaudreau:** We're continuing to experiment like.
+
+**Kyle Gaudreau:** You know, just some brands that just there can be some fun stuff you can you can do with that, even like start to get deep into like starting to find ways of communicating, like key people at those businesses communicate.
+
+**Kyle Gaudreau:** And so, you know, how would this, you know, CEO at this company speak about this subject and like, can we start to play around with that?
+
+**Kyle Gaudreau:** And it almost feels like we're creating something that was created by them.
+
+**Kyle Gaudreau:** And there's a lot of interesting ways we can kind of play around and experiment with that.
+
+**Kyle Gaudreau:** And so anyways, you know, those sorts of things are the keys to starting to get to a point where you are getting a bit more substance from AI content.
+
+**Kyle Gaudreau:** You are getting a bit more, it's humanized, it's high quality.
+
+**Kyle Gaudreau:** Without that, that's where you, without this type of input, that's where you start to get some of that kind of like staleness and just like this clearly like reads like AI content type of things that isn't going to resonate with your audience.
+
+**Kyle Gaudreau:** Then we take all of that and, you know, even some things I haven't gone to.
+
+**Kyle Gaudreau:** We would in-depth on and start to calibrate on specific content.
+
+**Kyle Gaudreau:** And so, you know, at times we find this is helpful to go and like rewrite some of your existing content, apply all those different criteria, look at like this is how, you know, you wrote about it today.
+
+**Kyle Gaudreau:** Here's how we rewrite it.
+
+**Kyle Gaudreau:** Here's why.
+
+**Kyle Gaudreau:** And that, again, just gives us a lot of like really good feedback and specificity for me to make sure we're thinking about it in the right way.
+
+**Kyle Gaudreau:** And these are all just things that if we can find the right patterns and we can learn fast and adjust our inputs, that just enables us to generate high quality content all the much faster.
+
+**Kyle Gaudreau:** And so just like some of the things that we go through and we coordinate them, we actually go through and develop what we call a content OS.
+
+**Kyle Gaudreau:** This is where we like coordinate on a whole variety of different topics.
+
+**Kyle Gaudreau:** In this case, this is filtered for something at the moment.
+
+**Kyle Gaudreau:** Let me get rid of that.
+
+**Kyle Gaudreau:** Essentially, what we're doing is like we're saying, OK, now we've like really started to under.
+
+**Kyle Gaudreau:** We like your personas, you know, things that motivate them.
+
+**Kyle Gaudreau:** And we're trying to think about what are the questions, the important questions that they have at varying stages and what are those different themes and starting to do research on different topics we should do.
+
+**Kyle Gaudreau:** So this is like a brand that's more in the security space, but we identified, you know, well over a thousand different opportunities for them quite quickly.
+
+**Kyle Gaudreau:** And essentially we're just organizing different keywords.
+
+**Kyle Gaudreau:** We're creating initial kind of assignments that we could write about with briefs and competitor inspiration.
+
+**Kyle Gaudreau:** And then we're clustering these and into different topics.
+
+**Kyle Gaudreau:** And this just gives us more another point where we can coordinate with you of like, are we thinking about this in the right way?
+
+**Kyle Gaudreau:** What would we prioritize next?
+
+**Kyle Gaudreau:** What would we move down the funnel, et cetera, to like starting to work on next?
+
+**Kyle Gaudreau:** And then as we start to get into these, like, what do we work on next?
+
+**Kyle Gaudreau:** That's where we can start to bring this more.
+
+**Kyle Gaudreau:** We're into our platform.
+
+**Kyle Gaudreau:** So jumping into that.
+
+**Kyle Gaudreau:** So essentially what we have going on in the background, we have these kind of like two layers.
+
+**Kyle Gaudreau:** We have the platform where our team of folks like managing editors who are one of your key points of contact or are continuing to work with you and understand your business at a deep level and all that rich feedback they're providing with.
+
+**Kyle Gaudreau:** Throughout our sprint process, then there are a lot of their day to day of managing the different inputs and outputs of workflows happen here in the platform.
+
+**Kyle Gaudreau:** And then there's a workflow engine that supports it in the background that I can show you as well.
+
+**Kyle Gaudreau:** And essentially how this is structured is so, you know, we were looking at all those artifacts before.
+
+**Kyle Gaudreau:** So like here are some examples of like, you know, we bring those artifacts in here.
+
+**Kyle Gaudreau:** It's not just sitting in Notion.
+
+**Kyle Gaudreau:** It's also sitting in our platform.
+
+**Kyle Gaudreau:** You know, as we continue to evolve, we can always do that.
+
+**Kyle Gaudreau:** With these artifacts that sit in the platform and essentially be referenced into our workflows.
+
+**Kyle Gaudreau:** So, you know, context about your company, your personas, your guidelines.
+
+**Kyle Gaudreau:** We can create different rules.
+
+**Kyle Gaudreau:** We can create templates if needed.
+
+**Kyle Gaudreau:** There's all sorts of different, like, added things we could add as necessary.
+
+**Kyle Gaudreau:** And then from there, we can create what we call pipelines.
+
+**Kyle Gaudreau:** That is, like, think of those, like, use cases of, like, actions we need to take.
+
+**Kyle Gaudreau:** And so, you know, in this case, like, this customer has, like, a lot of content already.
+
+**Kyle Gaudreau:** And so we do a variety of things to help them refresh and enrich that content and improve it and just make it all a much more likely little rank.
+
+**Kyle Gaudreau:** We do some programmatic-based plays with them, in this case, like, around, like, AI role plays and education.
+
+**Kyle Gaudreau:** This is one that they focus on, like, you know, how do you get, like, sales teams and do, like, different role plays leveraging AI and, like, help train up your sales team and amongst other use cases.
+
+**Kyle Gaudreau:** But so.
+
+**Kyle Gaudreau:** We build all these programmatic pages there.
+
+**Kyle Gaudreau:** And then on this side of article generation, which I'll drill into, is more where we're doing editorial-based longer content.
+
+**Kyle Gaudreau:** And essentially, think of this, what's happening here is these rows are different topics, and these columns are different workflows that are different steps, if you will, to create that piece of content on an article.
+
+**Kyle Gaudreau:** And so, where it starts is just, you know, first workflow inputting about your company, all those artifacts, context, et cetera.
+
+**Kyle Gaudreau:** The keyword we're talking about, can give it a bit of direction if we want to.
+
+**Kyle Gaudreau:** There's a variety of different inputs our team can play with as needed.
+
+**Kyle Gaudreau:** Then as they run the workflow, they can review these outputs.
+
+**Kyle Gaudreau:** And essentially, what's happening here is we're stitching together different sources via, like, you know, plugging into API.
+
+**Kyle Gaudreau:** So, we're extracting data from SEMrush.
+
+**Kyle Gaudreau:** We're using things like a ChatGPT.
+
+**Kyle Gaudreau:** And feeding all those different inputs, and this is helping us build out, like, the initial, like, brief of that we would write about.
+
+**Kyle Gaudreau:** And so someone who understands all your strategy and brand is going through and making sure, like, is this making sense?
+
+**Kyle Gaudreau:** What would they adjust, et cetera?
+
+**Kyle Gaudreau:** In the background, what's happening, this is like the workflow engine.
+
+**Kyle Gaudreau:** Essentially, a lot of steps kicking off and runs quite quickly.
+
+**Kyle Gaudreau:** And that's actually been one of the reasons we developed our own workflow engine that we have, as we used to use other tools in the past.
+
+**Kyle Gaudreau:** We just found, like, these steps would take too long.
+
+**Kyle Gaudreau:** As you can see here, like, just a matter of seconds to run all these different steps.
+
+**Kyle Gaudreau:** So, you know, what is that, like, a little over a minute to run this workflow?
+
+**Kyle Gaudreau:** Sometimes these workflows would take 10-plus minutes previous to us creating this in, like, our own runtime layer and things of that nature.
+
+**Kyle Gaudreau:** But what this is doing, it's, like, fetching results related to that topic.
+
+**Kyle Gaudreau:** It's analyzing the results that are showing up.
+
+**Kyle Gaudreau:** It's analyzing the intent in the content.
+
+**Kyle Gaudreau:** Of that page and, you know, doing some scraping and things of that nature, understanding the stories being told and the different topics it's talking about, and then the context about your company and what we're talking about.
+
+**Kyle Gaudreau:** And so it's the kind of things that, like, if you were an SEO and someone was on your team and they're trying to figure out, have to write this piece of content out there, these are some of the steps they would have to kind of go through and take to do that.
+
+**Kyle Gaudreau:** But we're doing that via workflow and just allowing them to focus on other things and move super fast.
+
+**Kyle Gaudreau:** So that's just one step here of, like, this first process.
+
+**Kyle Gaudreau:** Then we go through and, you know, doing some deep research to really enrich this.
+
+**Kyle Gaudreau:** In this case, we're bringing in perplexity to basically feed all the input about your, you know, we've been talking about before.
+
+**Kyle Gaudreau:** But now thinking about that topic of, like, what kind of questions would this person reading this article have?
+
+**Kyle Gaudreau:** And so we're taking both the inputs from perplexity, but also scraping citations and scoring those citations for relevant.
+
+**Kyle Gaudreau:** See for you to like just really understand, you know, who are we speaking to and why?
+
+**Kyle Gaudreau:** And then from there, like not only can this be helpful just to inform the next steps of the workflow, but your managing editor can read is going to be reading this and understanding the topic at a deeper level.
+
+**Kyle Gaudreau:** Then we go through create outlines, create can go through and start to create drafts.
+
+**Kyle Gaudreau:** And, you know, throughout this, they can also do line editing.
+
+**Kyle Gaudreau:** They can literally like go and like chat with our AI tool or chat tool here and like say, hey, like, you know, this needs to be, you know, broaden this subject or, you know, give me more technical details, et cetera.
+
+**Kyle Gaudreau:** But we also have these different tooltip type things here that they can play around with that.
+
+**Kyle Gaudreau:** This has been honestly a game changer for us because usually how most of these workflow based things work is if you got to some sort of output you didn't like, you'd have to rerun the workflow again and play with the inputs, but then everything's rewritten in this case.
+
+**Kyle Gaudreau:** You can literally go through and either using the chat or the tooltip, like say, this is the very specific thing that I need to edit.
+
+**Kyle Gaudreau:** You can, of course, like just type and rewrite it as well.
+
+**Kyle Gaudreau:** But and anyways, you know, I know there's just so much here and I can go on all day about all the details.
+
+**Kyle Gaudreau:** No, this is amazing.
+
+**Kyle Gaudreau:** So this is your internal platform.
+
+**jeffreyidso:** This isn't Notion.
+
+**jeffreyidso:** This is your internal platform you're showing?
+
+**Kyle Gaudreau:** Correct.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** So this is what our engineering team has developed.
+
+**Kyle Gaudreau:** Our focus has largely been enabling our team first because we just have found like our customers didn't want to build workflows themselves.
+
+**Kyle Gaudreau:** They wanted help end to end of like both of the workflows, the strategy, the execution.
+
+**jeffreyidso:** No, I completely I love what you guys are doing in an organization like obviously the name of your company is GrowthX, but, you know, you're helping companies grow.
+
+**jeffreyidso:** know, it's just at the at the at the stage we're at, where you're kind of trying to get that up into the right growth trajectory.
+
+**jeffreyidso:** There's so many different.
+
+**jeffreyidso:** Things you need to do within an early stage company and for companies like us, things like the content, obviously, that's why you guys are so successful.
+
+**jeffreyidso:** It's just it's really difficult to do it and do it the right way when you're starting from scratch, when you're building an internal team across all these different areas.
+
+**jeffreyidso:** So, you know, we would rather focus our efforts internally on our platform, feature, functionality.
+
+**jeffreyidso:** I mean, we have years of work to do.
+
+**jeffreyidso:** We have our, you know, our goal right now is to get up to 50 people on our development team between designers, engineers, and product managers.
+
+**jeffreyidso:** Between that and then managing, you know, new customers and onboarding and all, you know, did not have to know that this is in the right hands and we're working with the right group and doing it the right way in this type of area is.
+
+**jeffreyidso:** Is incredible.
+
+**jeffreyidso:** So definitely get that value prop.
+
+**jeffreyidso:** I love it.
+
+**Kyle Gaudreau:** And yeah, you know, in terms of what you're talking about of driving that growth, you know, that is very much why businesses come to us is, you know, if we're just purely driving traffic and there's no engagement conversion on the back end, that's not going to be, you know, not going to make sense for them.
+
+**Kyle Gaudreau:** So, you know, a lot of us are folks that have done those roles internally and have been building with that in mind.
+
+**Kyle Gaudreau:** And so that's very much been our, you know, why I was hired at most stops before this was like, hey, we're spending way too much on paid.
+
+**Kyle Gaudreau:** How do we drive growth via organic?
+
+**Kyle Gaudreau:** And so that's why I signed up to be the first customer with this kind of stuff.
+
+**Kyle Gaudreau:** So, yeah, hear that loud and clear.
+
+**Kyle Gaudreau:** So, yeah, I mean, there's so much more that's in here.
+
+**Kyle Gaudreau:** You know, I mean, we do some deep fact checking.
+
+**Kyle Gaudreau:** That's quite robust.
+
+**Kyle Gaudreau:** Actually, you know, we have to pass.
+
+**Kyle Gaudreau:** Legal and medical review and speak to engineers and things of that nature.
+
+**Kyle Gaudreau:** And this really like breaks it up, can fact-check all the necessary details.
+
+**Kyle Gaudreau:** And like we can source the right things.
+
+**Kyle Gaudreau:** We do all the necessary SEO, you know, checks.
+
+**Kyle Gaudreau:** even, you know, this is like things we can create like cover images or inline images.
+
+**Kyle Gaudreau:** This is like very on-brand for like this customer.
+
+**Kyle Gaudreau:** So we have to like dial this in and have like what makes sense for them.
+
+**Kyle Gaudreau:** So anyways, it's just like all what this is trying to do end-to-end.
+
+**jeffreyidso:** On SEO, is it all content or is there recommendations around like site design and architecture, internal linking strategies, you know, just best practices around SEO as well beyond the content?
+
+**jeffreyidso:** Or is it, look, you know, we know, yeah, how do you collaborate with our product team to get the content onto the, into the brand?
+
+**jeffreyidso:** And then are there any recommendations that come out of that to our development team?
+
+**jeffreyidso:** And saying, hey, you should change your URL structures to this.
+
+**jeffreyidso:** you make H1 and meta tag recommendations as well around, you know, because obviously with the process you've defined, you can identify keywords, like you mentioned SCMRush.
+
+**jeffreyidso:** Are you making meta tag and H1 type recommendations?
+
+**jeffreyidso:** Just curious.
+
+**jeffreyidso:** Great question.
+
+**Kyle Gaudreau:** Yes, to all of that.
+
+**Kyle Gaudreau:** So in the sprint process, we do a deep technical audit, but we'll also do those audits over time.
+
+**Kyle Gaudreau:** So we have a lot of deep SEOs here on the team.
+
+**Kyle Gaudreau:** Every account has this kind of like strategy layer, folks who have like 20 plus years of like SEO and growth experience.
+
+**Kyle Gaudreau:** And so, you know, those sorts of things and making sure the foundational elements of your site, like essentially the way we think about it is like we can create all this content.
+
+**Kyle Gaudreau:** But if your foundation has issues, we're not going to be able to drive growth for you.
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** That was great.
+
+**Kyle Gaudreau:** And then it was pretty good.
+
+**Kyle Gaudreau:** And then on individual content pieces, they'll have the necessary H1s.
+
+**Kyle Gaudreau:** know that doesn't spell it out here, but essentially, we stage and publish the content for our customers.
+
+**Kyle Gaudreau:** And so we can configure all that.
+
+**Kyle Gaudreau:** We can obviously align with you on the right ways of setting that up.
+
+**Kyle Gaudreau:** Our workflow also develops internal links.
+
+**Kyle Gaudreau:** And so this one, actually, I know this brand later trying to not do as many intentionally, but, you know, there's a handful throughout this.
+
+**Kyle Gaudreau:** But essentially, what we do is we are taking the subject of the discussion and then looking at other relevant articles across your website to that and identifying those internal link opportunities.
+
+**Kyle Gaudreau:** We can also approach that from different ways of like kind of what you were talking about of like a broader like internal linking strategy of like maybe it's things of like where your content lives in the hierarchy and like how you do things with breadcrumb.
+
+**Kyle Gaudreau:** And so...
+
+**Kyle Gaudreau:** Or other navigational pages, et cetera.
+
+**Kyle Gaudreau:** Like our team will definitely like, you know, present and chat through ideas around that with you.
+
+**Kyle Gaudreau:** But each piece of content as well will have all those internal links that we can involve that process in any way.
+
+**Kyle Gaudreau:** And then every article as well through our platform, like we generate the necessary meta tags as well.
+
+**Kyle Gaudreau:** And so this is just like, you know, basically like taking the different things that are kind of like being fed into this workflow and all that context and like helping us figure out like what are the like most ideal tags and things of that nature.
+
+**Kyle Gaudreau:** So, yeah, end to end, we're doing that, you know, because it's just like those are the little like small nuance things that can just help us move fast, but also just like ensure we're checking the right boxes to drive and growth from a traffic standpoint.
+
+**Kyle Gaudreau:** We also do a lot around GEO as well.
+
+**Kyle Gaudreau:** So, generative engine optimization.
+
+**Kyle Gaudreau:** So,
+
+**Kyle Gaudreau:** You know, this is like something that is starting to evolve more and more.
+
+**Kyle Gaudreau:** We partnered with Scrunch and essentially how we approach this side of the house is like is similar in the general mindset of like what are the most important questions your personas have and how to create really amazing content that answers those questions.
+
+**Kyle Gaudreau:** That should lift both SEO and GEO and help you show up in things like perplexity, chat, GBT, et cetera.
+
+**jeffreyidso:** More quickly, GEO is what?
+
+**Kyle Gaudreau:** A generative engine optimization.
+
+**Kyle Gaudreau:** I'll say this is No, I thought that's what it was, but I just wanted to mention it.
+
+**jeffreyidso:** I mean, I knew that's what you're referring to, but I didn't know what the three letters fit for, so.
+
+**jeffreyidso:** All good, man.
+
+**Kyle Gaudreau:** Like, honestly, like I've heard a million acronyms for the past few months.
+
+**Kyle Gaudreau:** It feels like everyone's trying to brand it different things.
+
+**Kyle Gaudreau:** This is just kind of like what we've done.
+
+**Kyle Gaudreau:** But essentially what we can do is develop these different prompts.
+
+**Kyle Gaudreau:** And as we.
+
+**Kyle Gaudreau:** um
+
+**Kyle Gaudreau:** And competitors to measure against.
+
+**Kyle Gaudreau:** And so as you set up these prompts, we are able to kind of look at your different mentions, your presence.
+
+**Kyle Gaudreau:** This is a brand that's pretty new and working with us.
+
+**Kyle Gaudreau:** And so we're hoping to try to get the more momentum on this.
+
+**Kyle Gaudreau:** And essentially, you know, what we can start to track is things like how often they were cited versus their competitors.
+
+**Kyle Gaudreau:** Just dig into trying to understand why their competitors were being cited and they weren't.
+
+**Kyle Gaudreau:** Or was there any negative sentiment coming through?
+
+**Kyle Gaudreau:** Things of that nature.
+
+**Kyle Gaudreau:** You know, I was I'll say this this is an interesting space in that, like, there's a lot of value in going through and doing this and like really digging into all these different prompts.
+
+**Kyle Gaudreau:** Just some challenges of like it needs a lot of experimentation of like, are these the right prompts we should be tracking?
+
+**Kyle Gaudreau:** Because you don't really get that data back from a chat to a PT or whatever, like.
+
+**Kyle Gaudreau:** What are people actually searching?
+
+**Kyle Gaudreau:** So we have to kind of take our approach of, like, what prompts do we think people are going to be entering into these engines?
+
+**Kyle Gaudreau:** And then as we put them in, we can see how often they come up and then what's happening.
+
+**Kyle Gaudreau:** But, you know, there is always going to be a chance of maybe we're missing something that, you know, is being prompted more than we realize.
+
+**Kyle Gaudreau:** And so it's a continually iterative process.
+
+**Kyle Gaudreau:** And, you know, it's just a bit of a flaw in this space of how these tools work and what's being exposed.
+
+**Kyle Gaudreau:** But it's really, really important for us to just, like, be paying attention to and continuing to evolve.
+
+**Kyle Gaudreau:** But just want to call it out because, you know, you know, we're not just thinking about SEO.
+
+**Kyle Gaudreau:** We're also making sure you're showing up here because what we're finding is for our customers that do get traction here, the engagement of the people who maybe are clicking a citation is pretty dang high and converting at really high rates.
+
+**Kyle Gaudreau:** But also they're hearing from their customers that are.
+
+**Kyle Gaudreau:** Coming in the door, like, how did you find us?
+
+**Kyle Gaudreau:** Oh, well, you know, ChatGPT said, like, you know, blah, blah, blah, and that you were saying that.
+
+**Kyle Gaudreau:** And so it's just an important thing to continue to pay attention to.
+
+**Kyle Gaudreau:** And because, you know, I'm certainly doing a hell of a lot more of my searches on ChatGPT than I was Google before.
+
+**Kyle Gaudreau:** So, you know, something we're definitely continuing to evolve and bring into our process.
+
+**Kyle Gaudreau:** Okay.
+
+**jeffreyidso:** Okay.
+
+**jeffreyidso:** Hey, so this is kind of related but separate.
+
+**jeffreyidso:** So one of the areas in a marketplace platform like ours that's important is, and this is where, you know, like a company like, say, Airbnb, you know, I mean, obviously, they have all the money in the world.
+
+**jeffreyidso:** They're a huge company.
+
+**jeffreyidso:** But if you go and you type in, you go to Google and you say, you know, what is the refund policy on an Airbnb rental or whatever, you're going to get their help desk articles.
+
+**jeffreyidso:** Do you, as far as the content, you know, we're.
+
+**jeffreyidso:** Starting with a pretty clean slate around help desk article or, you know, that area.
+
+**jeffreyidso:** Is that an area you guys can help with as well?
+
+**jeffreyidso:** Or is that kind of a step too far?
+
+**jeffreyidso:** We can certainly explore it.
+
+**Kyle Gaudreau:** It's probably full transparency.
+
+**Kyle Gaudreau:** It's not something we do often.
+
+**Kyle Gaudreau:** But for like Webflow, for example, they're one of our customers.
+
+**Kyle Gaudreau:** We are working directly with their product team.
+
+**Kyle Gaudreau:** We're not even working with the marketing team.
+
+**Kyle Gaudreau:** And what we're doing for them is helping them build their docs content.
+
+**Kyle Gaudreau:** And so it's a bit more of a different type of engagement than we typically do and are having some success with it.
+
+**Kyle Gaudreau:** But, yeah, it be something we could certainly explore.
+
+**Kyle Gaudreau:** A lot of our focus tends to be on the side of the house of like how to drive more eyeballs and the right eyeballs that are going to go over essentially.
+
+**Kyle Gaudreau:** Makes sense.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Okay.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** so jumping back.
+
+**Kyle Gaudreau:** To Notion, there was a few things I had put together that I can share, you know, after the call, but just like a few ideas that come to mind and like, you know, I think the thing to keep in mind is the strategy sprint is really where we're like trying to coordinate and like really develop that right strategy for you.
+
+**Kyle Gaudreau:** But just like thinking about like what potential opportunities would be like, I mean, there's no shortage, it seems like the way, you know, we typically would think about this is like, how do we find, you know, perhaps like two lanes or so, where we have really high conviction that we could, you know, get momentum for you.
+
+**Kyle Gaudreau:** And then maybe have like an experimentation lane of like, we're not as sure, but like, let's test some things and like see if that gains some traction.
+
+**Kyle Gaudreau:** And that maybe if we do gain some traction, that can inform what comes next.
+
+**Kyle Gaudreau:** So the way I would like probably think about this, although, you know, I would certainly want to.
+
+**Kyle Gaudreau:** I think you have very likely no shortage of programmatic opportunities.
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** No doubt.
+
+**Kyle Gaudreau:** Massive amount.
+
+**Kyle Gaudreau:** How much to lean into that early on, I think, is an interesting thing to think about and maybe experiment with.
+
+**Kyle Gaudreau:** And so I think my hunch is that the right place to start would be finding that right editorial strategy first and maybe doing some experimentation around programmatic, seeing how that gains traction and seeing how much to hit the gas.
+
+**Kyle Gaudreau:** But again, I wouldn't say that's it's just early assumptions here.
+
+**Kyle Gaudreau:** Like, you know, I could see an argument for either way.
+
+**Kyle Gaudreau:** But, you know, I think in terms of what skews more editorially is this like, you know, these two ideas around like, you know, you know, varying parents, varying stages of life and trying to make different decisions for like, you know, are these the right sport for them and like some of the key questions associated to that or like, what kind of training should they consider, et cetera?
+
+**Kyle Gaudreau:** Like, I think.
+
+**Kyle Gaudreau:** There's just all these different ways you could develop like hustle and build upon that.
+
+**Kyle Gaudreau:** And on this side, this is a bit more like perhaps like the coach angle.
+
+**Kyle Gaudreau:** If I'm kind of like, you know, thinking about you all in the right way, because I remember us talking about that.
+
+**Kyle Gaudreau:** And like, so I don't know if it makes sense for us to focus most of our content to help drive those who would book the coaches versus continuing to engage the coaches.
+
+**Kyle Gaudreau:** But I could see there maybe being a dual benefit of like kind of like leaning into this angle of like basically creating content more aimed at them and like how to grow their own business as a coach and things of that nature.
+
+**Kyle Gaudreau:** Yeah, that's important for sure, too.
+
+**Kyle Gaudreau:** Yeah, it is.
+
+**Kyle Gaudreau:** It's definitely both sides.
+
+**jeffreyidso:** Certainly you want to drive that consumer engagement and get them to book.
+
+**jeffreyidso:** That's critically important.
+
+**jeffreyidso:** But at the same time, educating service providers on the value and how to use.
+
+**jeffreyidso:** Our software to grow their business most effectively is important as well.
+
+**jeffreyidso:** So, yeah, it definitely falls on both sides, fortunately or unfortunately.
+
+**jeffreyidso:** So however you want to look at it.
+
+**Kyle Gaudreau:** Yeah, it's an interesting set of layers to think about there.
+
+**Kyle Gaudreau:** And then, like, you know, this is the one programmatic opportunity I put in here.
+
+**Kyle Gaudreau:** But honestly, like, I think there's just a crazy amount.
+
+**Kyle Gaudreau:** But, you know, just going very geo-specific, I think you were mentioning California being the key focus, right, last time?
+
+**Kyle Gaudreau:** Yeah, it's kind of where we're going to start our rollout.
+
+**jeffreyidso:** But we're going to, you know, we'll go pretty quickly.
+
+**jeffreyidso:** But nonetheless, yeah, we're starting with California for sure.
+
+**Kyle Gaudreau:** Got it.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** So, yeah, it could be like how do we do varying city things or, you know, there's different ways of kind of like slicing and dicing this.
+
+**Kyle Gaudreau:** Usually what we're trying to figure out is, like, what is the right kind of like core set of like use cases.
+
+**Kyle Gaudreau:** Or head turns, if you will.
+
+**Kyle Gaudreau:** And then, like, is there enough search volume that's going to be interesting to people after that?
+
+**jeffreyidso:** Yeah, there's a real opportunity around, you know, because, you know, from a search perspective, a lot of search on the consumer side is, you know, it's geography plus the area they're interested in.
+
+**jeffreyidso:** So yoga instructors, San Francisco, or yoga classes, San Francisco, or golf instruction, San Francisco.
+
+**jeffreyidso:** And so if you look at the online travel agencies and their landing page strategy in that regard to get some of the best exposure, there's definitely a kind of a geo-based landing page strategy that has strong content in and around, you know, that specific sport, fitness, health, and wellness category, and that geography.
+
+**jeffreyidso:** And I could, you know, once.
+
+**jeffreyidso:** We're engaged.
+
+**jeffreyidso:** We can walk through, you know, kind of how Expedia does that, how VRBO does that, how AirBee does that, only because, you know, SEO and travel is so critical.
+
+**jeffreyidso:** And I think you mentioned before you might even work with TripAdvisor.
+
+**Kyle Gaudreau:** We have a few people with travel experience here, but specifically Dave, one of our managing directors, he was an SEO lead at TripAdvisor, and he was also at Fanatics as well before that, so I feel like he actually has a pretty interesting role.
+
+**jeffreyidso:** Yeah, no, I, it's funny.
+
+**jeffreyidso:** There's an SEO company called Conductor.
+
+**jeffreyidso:** I was just talking to their CEO one time, and he said, and it was just so true, he said, you know, TripAdvisor is really an SEO company, not a travel company.
+
+**Kyle Gaudreau:** So if you have.
+
+**jeffreyidso:** Have somebody in your team that led their SEO, had one of the great SEO organizations out there, for sure.
+
+**Kyle Gaudreau:** Yeah, and also on the, it was really cool hearing his involvement on the Fanatics run, because he was there really early on, and basically helped them grow through that inbound.
+
+**jeffreyidso:** I'm curious, what did you do with Fanatics?
+
+**jeffreyidso:** Oh, I could have him, yeah, I could have him come in and speak.
+
+**jeffreyidso:** No, I was just curious, like, I know they license, they have licensed products and all that, they really go after fans, so I'm sure there's some good parallels there, too.
+
+**Kyle Gaudreau:** Totally, yeah, yeah, yeah, he just, what's interesting about his experience across both is he just has a lot of different, like, programmatic-based experiences, but what I really liked about how he thought about it, like, he was walking me through some of the things he did at TripAdvisor, and it was one of the things that, like, stood out was just, like, how to kind of, like, add in different useful features to those pages that was going to, like, be useful.
+
+**Kyle Gaudreau:** For that audience, but may not have been like a pure SEO play, but it was like highly engaging.
+
+**Kyle Gaudreau:** So like one basic example he walked me through was, I can't remember what the exact like pages he was referencing were, but like they realized like, oh, a lot of pages, people who hit these pages want to understand the weather in this location.
+
+**Kyle Gaudreau:** So they added a widget for like the weather.
+
+**Kyle Gaudreau:** And it wasn't that people were searching about that per se, but it actually really helped the engagement of that page and helped the rankings of that page over time.
+
+**Kyle Gaudreau:** And so like, he just has a lot of like, kind of like, just when you're operating at that type of scale, that's the kind of things you have to kind of think about.
+
+**Kyle Gaudreau:** It's not going to be the always most obvious things when you're playing that level of competition.
+
+**Kyle Gaudreau:** So, yeah, he's a, yeah, he's a really interesting dude, a ton of experience.
+
+**Kyle Gaudreau:** And so, so yeah, you know, essentially like, you know, I have, I just honestly seems as a sports nerd myself, this seems like a super fun account for us.
+
+**Kyle Gaudreau:** Oh yeah, no, it's going to be, it's going to be a lot of fun.
+
+**Kyle Gaudreau:** Essentially, yeah, like, you know, how we structure this, we do, we start with the strategy sprint, you know, there's no obligation to have to work with us beyond this, but the intention is to really make sure you have a lot of confidence and conviction and specificity to, and it'd be clear, there's content that's delivered through this, it's not just pure strategy, but you're getting all those artifacts we were looking at.
+
+**Kyle Gaudreau:** You can even run those into AI workflows if you want, we're working with a former CEO and founder of Allbirds, he's spinning up a women's healthcare product in the fall, supplement, and so, you know, we've been building all these artifacts for them in the strategy sprint, and they're using those artifacts for other things, and they were just telling us this past week, they're like, oh my god, like, the outputs we're now getting, like, leveraging this is like a goldmine.
+
+**Kyle Gaudreau:** So, even if for whatever reason, like, you know, you didn't want to work with us beyond this strategy sprint, you're having a rich strategy, roadmap, artifacts.
+
+**Kyle Gaudreau:** A lot of just rich context that you can run with.
+
+**Kyle Gaudreau:** And then beyond that, that goes into really helping us build, like, what do you actually need in long-term engagement?
+
+**Kyle Gaudreau:** And our intention of this is really just trying to, like, get to a phase where, you know, we have a lot more specificity of, like, how much volume do you really need in a given period of time?
+
+**Kyle Gaudreau:** And how much complexity it goes into that?
+
+**Kyle Gaudreau:** Because it can be just highly variable for our accounts.
+
+**Kyle Gaudreau:** And so, you know, some of them, you know, want to get to 100-plus pages a week.
+
+**Kyle Gaudreau:** And, you know, in those programmatic plays, that's certainly possible.
+
+**Kyle Gaudreau:** And others, like, getting to even putting out five articles a week is, like, quite a bit for them.
+
+**Kyle Gaudreau:** And so it just ranges.
+
+**Kyle Gaudreau:** You certainly would be very likely on the higher end of, like, how much content that you need, I would imagine.
+
+**Kyle Gaudreau:** Yeah, for sure.
+
+**Kyle Gaudreau:** But, you know, for us, like, essentially we structure this, like, you know, six to eight weeks is a one time at 30K.
+
+**Kyle Gaudreau:** And then usually our ongoing ranges between, like, nine.
+
+**Kyle Gaudreau:** 15K to upwards of like 25-ish K a month, just depending on like how much you need and how custom it is, et cetera.
+
+**Kyle Gaudreau:** So my hunch is that like based off of what I know so far, they'd probably be about at this 15K mark.
+
+**Kyle Gaudreau:** But like the idea is like through this here, like we're actually defining the definition of done with you on that content and that you feel really good at what those outputs are.
+
+**Kyle Gaudreau:** And then so we understand like actually what we're building towards, essentially.
+
+**jeffreyidso:** Yeah, yeah.
+
+**jeffreyidso:** No, it sounds good.
+
+**jeffreyidso:** No, it sounds really good.
+
+**jeffreyidso:** Yeah, I'm sure it would be in that 15K a month range would be my guess just on an ongoing day.
+
+**jeffreyidso:** It's because the content opportunity is so massive.
+
+**jeffreyidso:** What about localization for different dialects or even, you know, translation into different languages?
+
+**jeffreyidso:** Do you guys get involved in any of that at all?
+
+**Kyle Gaudreau:** Or we have a bit.
+
+**Kyle Gaudreau:** So, for example, we work with this one brand.
+
+**Kyle Gaudreau:** That does travel trip, that does like booking of different tours in Mexico across a few different cities.
+
+**Kyle Gaudreau:** And so we're spinning up all these different travel blogs for them.
+
+**Kyle Gaudreau:** And everyone that we create needs to have an English and Spanish version.
+
+**Kyle Gaudreau:** So we have a lot of native Spanish speakers on the team.
+
+**Kyle Gaudreau:** And so that's quite easy for us to execute.
+
+**Kyle Gaudreau:** And it's like a perfect use case for AI as well and figure out the right blend.
+
+**Kyle Gaudreau:** And generally, how we think about it is like any language that we want to do.
+
+**Kyle Gaudreau:** You know, we want to make sure we have native speakers that can support that because it's not just us purely like saying like, hey, I translate it.
+
+**Kyle Gaudreau:** Like we need to make sure it actually is like landing correctly.
+
+**Kyle Gaudreau:** So to my knowledge, I don't think we've done anything outside of Spanish.
+
+**Kyle Gaudreau:** It's not like we can't or wouldn't.
+
+**Kyle Gaudreau:** It just needs to be more considerate of what actually needs to happen and like, would we do this?
+
+**Kyle Gaudreau:** The other thing I would think about as well that we've talked about with this travel client.
+
+**Kyle Gaudreau:** As well as like what's just like the impact for effort of like going after this localization opportunities because they're oftentimes like something that we absolutely should do at some point in time.
+
+**Kyle Gaudreau:** But they have a lot of headroom in English based.
+
+**Kyle Gaudreau:** And, you know, we only can do like an X amount in a given week.
+
+**Kyle Gaudreau:** Like, well, it may be more impactful for your growth for us to focus on English first.
+
+**Kyle Gaudreau:** And so we can do it.
+
+**Kyle Gaudreau:** It's just we would we would kind of like just try to partner with you in that way of like doing the back of the math of like, is this actually the right like approach today or is it six months from now or whatever?
+
+**jeffreyidso:** Cool.
+
+**jeffreyidso:** OK, good.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Well, happy to spin up an SOW.
+
+**Kyle Gaudreau:** also happy.
+
+**Kyle Gaudreau:** That'd be great if you could, Kyle.
+
+**Kyle Gaudreau:** That'd be amazing.
+
+**jeffreyidso:** So we can start working on that next week and see if we can get something going here in, you know, early August.
+
+**Kyle Gaudreau:** Cool.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Happy to, you know, set something around that.
+
+**Kyle Gaudreau:** I'm, uh, you know, early August, late July, whatever works for you.
+
+**Kyle Gaudreau:** Um, you know, we do tend to book up several weeks in advance.
+
+**Kyle Gaudreau:** So yeah, if we're able to kind of like figure this out pretty quick, I can hold a time that makes sense.
+
+**Kyle Gaudreau:** Um, also happy to connect you with Marcel, our CEO, just to be able to learn for more of him, how he thinks, cetera.
+
+**Kyle Gaudreau:** So let me know if that would be helpful just for you in like making a decision.
+
+**Kyle Gaudreau:** Uh, but yeah, we'd love to.
+
+**jeffreyidso:** why don't you shoot me the SOW and we'll, let me get through that and then we'll, we'll, we'll go from there.
+
+**jeffreyidso:** It sounds like we're pretty aligned on kind of what our needs are, but yeah, maybe if that's appropriate, we can certainly talk about that too.
+
+**jeffreyidso:** But I'm not, it's not, not critical as far as getting with him, but, but, um, but yeah, we, we, yeah, let's start, let's get with the SOW and then maybe we can get back together again at some point next week.
+
+**jeffreyidso:** Yeah, it sounds good.
+
+**Kyle Gaudreau:** Well, I'll, I'll send over a link so you can find a time if that makes sense and you'll have all that in your hand today.
+
+**Kyle Gaudreau:** Awesome.
+
+**jeffreyidso:** Awesome.
+
+**jeffreyidso:** All right.
+
+**jeffreyidso:** Thanks so much, Jeff.
+
+**Kyle Gaudreau:** Take care.
+
+**jeffreyidso:** Thanks for taking the time.
+
+**jeffreyidso:** I really appreciate it.
+
+**jeffreyidso:** It's super exciting.
+
+**Kyle Gaudreau:** Okay.

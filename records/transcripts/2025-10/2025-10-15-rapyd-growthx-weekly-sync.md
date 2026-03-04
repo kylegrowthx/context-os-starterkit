@@ -1,0 +1,638 @@
+# Rapyd <> GrowthX - Weekly Sync
+
+<metadata>
+date: 2025-10-15
+time: 17:31 UTC
+duration: 19 minutes
+organizer: Mara Leighton
+participants: Mara Leighton, Vivek Shankar, Mark Stiltner
+fathom_recording_id: 94415076
+fathom_url: https://fathom.video/calls/441495780
+share_url: https://fathom.video/share/p-_bqqk5uuQJzGJeYp7ukpPLPg6uRr4_
+source: fathom
+enriched_on: 2025-10-15 18:30 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Rapyd aligned on content production pace and reviewed LLM visibility metrics using Scrunch. Competitive blog production kicks off next week with finalized templates and competitor lists. Rapyd is lagging behind Stripe (84% appearance) in LLM visibility, so the team will focus on content optimization, competitive positioning, and targeting gaps where competitors appear but Rapyd doesn't — including specific action items like a "Best checkout.com alternative for global payments" article.
+
+---
+
+## Context
+
+Rapyd is a B2B payments platform and a key GrowthX account. Weekly syncs align on content delivery, SEO strategy, and LLM visibility. Vivek Shankar (GrowthX) and Mara Leighton (GrowthX) manage the account on the content and strategy side; Mark Stiltner (Rapyd) owns product/marketing decisions. The team recently deployed Scrunch, a CheckThat-adjacent tool for tracking LLM visibility across payment processors and related searches. This sync was scheduled to be async (Vivek and Mark weren't initially sure if it was live), but the team ran it synchronously to discuss Scrunch findings and competitive positioning.
+
+---
+
+## Relevance
+
+- **To CheckThat:** Scrunch deployment shows real-world LLM visibility tracking in production; competitive presence feature identifies prompt gaps where Rapyd doesn't appear. Stripe dominates (84%) but Rapyd shows 33% top placement and 52% middle placement in non-branded queries. ChatGPT sentiment for Rapyd is overwhelmingly positive.
+
+- **To GrowthX Delivery:** Content production is steady (queue is full, async reviews worked); team identified need to shift from volume to quality/relevance. Competitive blogs launching next week; GrowthX will leverage Scrunch gap analysis to create targeted positioning content (e.g., alternatives comparison, stablecoin focus where Rapyd ranks 2nd with 8% share).
+
+- **To GrowthX Business Development:** Rapyd is actively investing in LLM visibility as a new channel; this signals strategic openness to content innovation. Mark (likely a Product/Marketing leader) is now directly accessing Scrunch to identify opportunities, indicating deeper engagement and potential for expansion into adjacent services.
+
+---
+
+## Overview
+
+- Competitive blogs production to start next week; template and competitor list are finalized
+- Scrunch data shows Rapyd lagging in LLM visibility; Stripe dominates with 84% appearance in tracked queries
+- Action items identified: increase content publication pace, refresh existing content, and optimize for key prompts where competitors are showing up but Rapyd isn't
+
+---
+
+## Key Topics
+
+### Content Production Update
+
+  - Decent amount of blog posts completed last week
+  - Queue still has significant content pending
+  - Pausing production temporarily is an option to manage workload
+
+### Competitive Blog Strategy
+
+  - Template and competitor list finalized
+  - Production to begin next week
+  - No outstanding questions from the GrowthX team
+
+### Scrunch Data Analysis
+
+  - Rapyd showing up in 33% of top recommendations, 52% in middle
+  - Overwhelmingly positive sentiment for Rapyd mentions
+  - Citation rate low at 1%, but context shows 83% of citations are to third-party sources
+  - Rapyd performing well in specific categories like Stablecoin (2nd place with 8% share)
+
+### LLM Visibility Optimization
+
+  - No direct SEO equivalent for LLMs to determine important search terms
+  - Focus on high-priority, bottom-funnel searches for prompt creation
+  - Competitive presence feature identifies prompts where competitors appear but Rapyd doesn't
+  - Suggestion to create content directly addressing these gaps (e.g., "Best checkout.com alternative for businesses in 10 countries")
+
+### Scrunch Tool Access and Reporting
+
+  - Mark to receive full access to Scrunch dashboard
+  - GrowthX to include insights in weekly agendas
+  - Ability to customize date ranges, add competitors, and export data as CSV
+
+### Site Audit Feature
+
+  - Useful for checking landing pages and ensuring content is optimized for LLMs
+  - Previous audit revealed differences between JS and non-JS versions of Rapyd's homepage
+
+---
+
+## Action Items
+
+**Mara Leighton (GrowthX)**
+- Send Mark Scrunch dashboard invite by end of day
+- Email Mark list of tracked terms and list of competitors
+
+**Mark Stiltner (Rapyd)**
+- Review terms and competitors lists, consider additions/removals
+- Explore Scrunch dashboard once access granted and share feedback
+
+---
+
+## Transcript
+**Mara Leighton:** Can you hear me okay?
+
+**Mark Stiltner:** How's it going?
+
+**Mara Leighton:** Good.
+
+**Mark Stiltner:** How are you doing?
+
+**Mark Stiltner:** Can you hear me okay?
+
+**Mark Stiltner:** Yeah, I can hear you okay now.
+
+**Mara Leighton:** Oh, pretty cool.
+
+**Mark Stiltner:** I wasn't sure.
+
+**Mark Stiltner:** My audio outside of my headphones wasn't working very well.
+
+**Mark Stiltner:** Let's see here.
+
+**Mark Stiltner:** Let get up everything that I need here.
+
+**Mark Stiltner:** I don't think I need that.
+
+**Mark Stiltner:** I'm closing down some windows on my computers.
+
+**Mara Leighton:** Oh, I feel you on that.
+
+**Mara Leighton:** I need to do a clean out of my desktop.
+
+**Mara Leighton:** I just feel like I haven't done that in a while, and it's going to take me a little bit.
+
+**Mara Leighton:** How did last week go going async and reviews and all that?
+
+**Mark Stiltner:** Do you feel like it was helpful?
+
+**Mark Stiltner:** Well, I mean, we got a decent amount of blog posts done last week.
+
+**Mark Stiltner:** It was helpful in the sense of clearing stuff out.
+
+**Mark Stiltner:** I mean, it doesn't make me any faster or slower if you keep piling stuff into the queue, but, you know, like, there's no point in just piling stuff into there either.
+
+**Mark Stiltner:** And sometimes we also catch errors and want to make adjustments and improvements.
+
+**Mark Stiltner:** So it makes sense to not just pile blogs relentlessly into there.
+
+**Mara Leighton:** Yeah, for sure.
+
+**Mark Stiltner:** And we've still got a lot in the queue.
+
+**Mara Leighton:** Yeah.
+
+**Mara Leighton:** Just pinged Vivek.
+
+**Mara Leighton:** I'm sure he's just headed from another call maybe.
+
+**Mara Leighton:** But, yeah, okay, I'm glad to hear that.
+
+**Mara Leighton:** And, yeah, pausing production, happy to do it at any point and then maybe make it up down the line.
+
+**Mark Stiltner:** Yeah.
+
+**Mara Leighton:** Just in case that is helpful.
+
+**Mara Leighton:** Yes, we're meeting this week.
+
+**Mara Leighton:** I think Vivek thought we were async.
+
+**Mark Stiltner:** Oh, because we were async, so we wouldn't
+
+**Mark Stiltner:** I mean, that's fine.
+
+**Mark Stiltner:** I think I've got a couple of questions for you.
+
+**Mark Stiltner:** And I also wanted to see, what's that tool called?
+
+**Mark Stiltner:** I can never remember the name of it.
+
+**Mark Stiltner:** It's not Scriber, but it's, what is the AI data and intelligence tool that you guys are using called?
+
+**Mark Stiltner:** Scrunch.
+
+**Mark Stiltner:** Scrunch.
+
+**Mara Leighton:** Yeah.
+
+**Mark Stiltner:** I don't know why I can't remember that name.
+
+**Mara Leighton:** It's short.
+
+**Mara Leighton:** It's catchy.
+
+**Mark Stiltner:** It doesn't stick in my head.
+
+**Mara Leighton:** It is catchy.
+
+**Mara Leighton:** Yeah.
+
+**Mara Leighton:** Sorry, Vivek.
+
+**Mara Leighton:** That is a very understandable confusion, which I think you're on the right side of.
+
+**Mara Leighton:** But maybe we can just have a quick conversation and then, yeah, we can let you go have a little bit more time back, Mark, if that works for you.
+
+**Mara Leighton:** But yeah, that's totally fine.
+
+**Mark Stiltner:** Yeah.
+
+**Mark Stiltner:** The only things that I wanted to follow up on are competitive blogs.
+
+**Mark Stiltner:** You know, I think we sent you some data on that and did some updates.
+
+**Mark Stiltner:** I just want to make sure you guys kind of have everything that you need to get jamming on those and then what the plan is for those.
+
+**Mark Stiltner:** And then I wanted to ask about Scrunch and see if we have any data there to look
+
+**Vivek Shankar:** Yeah, sure.
+
+**Vivek Shankar:** I can take those.
+
+**Vivek Shankar:** So competitive blogs, we are good in terms of the template, et cetera.
+
+**Vivek Shankar:** So the feedback was great.
+
+**Vivek Shankar:** Thank you so much.
+
+**Vivek Shankar:** Don't think we have any questions.
+
+**Vivek Shankar:** We're just going to go ahead and start creating those next week.
+
+**Vivek Shankar:** We have the list of competitors as well.
+
+**Vivek Shankar:** You gave that to us on call a few weeks back.
+
+**Vivek Shankar:** So we're just going to start creating those next week so you'll see those coming out.
+
+**Vivek Shankar:** So regarding Scrunch, we are still gathering some data.
+
+**Vivek Shankar:** I can maybe share my screen real quick just to show you like what we have so far.
+
+**Vivek Shankar:** Just give me one second.
+
+**Vivek Shankar:** Sorry, I didn't have time to prepare because I thought we were.
+
+**Mara Leighton:** I think that maybe it must have just gotten lost in translation with Alice or like canceling the call.
+
+**Mara Leighton:** so.
+
+**Mark Stiltner:** If it's on the calendar, I show up and I know we talked about going async, but it wasn't clear to me if we're going async on just production.
+
+**Mara Leighton:** Totally.
+
+**Mara Leighton:** And that's like, that's on us.
+
+**Mara Leighton:** And also same if it's on my calendar, showing up.
+
+**Mara Leighton:** So we'll do that next time.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** think it's pretty much there.
+
+**Vivek Shankar:** Share my screen.
+
+**Vivek Shankar:** Okay.
+
+**Vivek Shankar:** If anybody can give me tips on screen organization and Zoom, I'd appreciate it.
+
+**Vivek Shankar:** Because every time I share my screen, no, every time I share my screen, it just looks like an absolute clutter and I'm not sure what I'm sharing and what I'm doing.
+
+**Mark Stiltner:** So anyway.
+
+**Mara Leighton:** It looks good on our end.
+
+**Vivek Shankar:** Cool.
+
+**Mark Stiltner:** All right.
+
+**Mark Stiltner:** I just grab everything on my desktop and I throw it into a folder called desktop before I have important meetings so that nobody sees anything that's there.
+
+**Mark Stiltner:** And then I leave it there.
+
+**Mark Stiltner:** And in like a month, if I haven't used anything in that, I just delete the whole folder without looking at it again.
+
+**Mara Leighton:** That's actually flawless.
+
+**Mara Leighton:** We should be doing that.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** So, yeah, this is kind of the landing page of basically what Scrunch looks like.
+
+**Vivek Shankar:** And, you know, the tool is growing, so you might see some of these charts change.
+
+**Vivek Shankar:** Like, for example, right now they have a line chart over here.
+
+**Vivek Shankar:** Previously it was a bar chart.
+
+**Vivek Shankar:** But basically we're looking at the last 12 weeks and non-branded prompts only.
+
+**Vivek Shankar:** So basically any prompt that doesn't explicitly mention Rapyd in the name.
+
+**Vivek Shankar:** So we can see that Stripe pretty much dominates every single thing.
+
+**Vivek Shankar:** They're showing up for, like, 84% of all the queries we're tracking for.
+
+**Vivek Shankar:** And then checkout, Airwallex, PayPal, and Rapyd, you know, are kind of training.
+
+**Mark Stiltner:** Did you just manually choose who's showing up?
+
+**Mark Stiltner:** Or, like, in other words, if I said, oh, here's a list of some more competitors to track, would those get added here?
+
+**Vivek Shankar:** Is this just getting, like, to the top?
+
+**Vivek Shankar:** Yeah, we can manually add.
+
+**Mara Leighton:** Sorry, Mara, go ahead.
+
+**Mara Leighton:** No, no, sorry, you go ahead.
+
+**Mara Leighton:** I was just going to say yes, we can add them if there are more that you want us to add.
+
+**Mark Stiltner:** Okay.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** So, yeah, essentially, Scrunch takes that list and just, you know, breaks it out in terms of who's showing up, in terms of who we're interested in.
+
+**Vivek Shankar:** The position donut chart over here kind of shows where we show up.
+
+**Vivek Shankar:** So we're showing up in the middle of recommendations, in any recommendation list.
+
+**Vivek Shankar:** We're showing up at the top for 33% of the queries and 52% in the middle.
+
+**Vivek Shankar:** Sentiment is overwhelmingly positive, which is great news.
+
+**Vivek Shankar:** So we're not being mentioned negatively in any way.
+
+**Vivek Shankar:** Citations is a bit of a tricky thing to look at because at first glance, you know, citations is essentially how often Rapids pages are being cited as a source.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** So, you know, at first glance, you see 1% and it's like absolutely abysmal.
+
+**Vivek Shankar:** But then you should also, it's also a good idea to look at competitors, how often, say, for example, Stripe, Checkout, Airwallex, et cetera, are being cited.
+
+**Vivek Shankar:** So they're being cited 16% of the time, which is obviously way more than Rapid.
+
+**Vivek Shankar:** But the important thing is to notice here, third party, 83%, is just that the payment processing world is so huge that more often than not, we're seeing companies outside of Rapid's competition being cited way more often than Rapid and the competition.
+
+**Vivek Shankar:** So we, you know, there's no way right now as to dig into why this is happening or which third party brands are showing up, other than literally clicking through each and every single prompt, which is time consuming.
+
+**Vivek Shankar:** But generally speaking, you know, the conclusion from all of this is that we do have some work to do in terms of LLM visibility.
+
+**Vivek Shankar:** So obviously the competitor pages is a good step in that direction.
+
+**Vivek Shankar:** Also, you know, increasing our content publication pace and refresh pace is also a good idea.
+
+**Vivek Shankar:** So that's...
+
+**Vivek Shankar:** That's generally some of the conclusions we can draw from here, and then we can also add filters over here to see how we're showing up in terms of prompt categories.
+
+**Vivek Shankar:** So we have a few prompt categories over here, as you can see.
+
+**Vivek Shankar:** So for example, if I click API integration for FinTech, it will kind of show where Rapyd is showing up.
+
+**Vivek Shankar:** So we can see over here, we're obviously lagging.
+
+**Vivek Shankar:** We're in sixth position, down from five.
+
+**Vivek Shankar:** Basically, Tipalti is kind of leapfrog does over here.
+
+**Vivek Shankar:** And then you can basically keep changing this to different things.
+
+**Vivek Shankar:** You look at card issuing and management.
+
+**Vivek Shankar:** Wait for this.
+
+**Vivek Shankar:** So we're in fourth position.
+
+**Vivek Shankar:** So yeah, the idea is that we can sort of filter in terms of, we can zoom in in terms of which, you know, category of prompts we really want to show up for.
+
+**Vivek Shankar:** So I'm guessing, for example, cross-border might be more important than creator economy payments and so on.
+
+**Mark Stiltner:** bit is I have So you.
+
+**Mark Stiltner:** One thing I'd like to understand is how we can optimize these terms to be more aligned to the customers because one of the biggest things I struggle with isn't like, oh, how often do we show up for these terms?
+
+**Mark Stiltner:** It's like, which term should we be showing up for?
+
+**Mark Stiltner:** Because as I'm thinking about writing more for LLMs, in addition to writing for SEO, keywords are still relevant, but does the tool have any way of providing intelligence on like, hey, you should maybe look at more content around this term or these ones are more important for you than these other ones?
+
+**Mark Stiltner:** Or are we kind of up?
+
+**Mark Stiltner:** Is it up to us to decide like what we want to track and then it'll tell us?
+
+**Vivek Shankar:** Yeah, it's unfortunately up to us.
+
+**Vivek Shankar:** It's just that there is no SEMrush equivalent for LLMs at the moment. The companies running these models aren't sharing that data, so we don't know the entire world of search queries like we do with SEO.
+
+**Vivek Shankar:** So it's not like we can pick and choose.
+
+**Vivek Shankar:** We just kind of have to take a best guess.
+
+**Mark Stiltner:** So there could be a thing that we're doing really great at and we have no idea or something really important that we're missing entirely.
+
+**Vivek Shankar:** Yeah, exactly.
+
+**Vivek Shankar:** Well, we try to minimize the instances of, you know, or the probability that we're missing something important because across all of these categories, we essentially zoomed in on high priority bottom funnel type searches, which would result in Rapyd or its competitors being cited, not cited, being listed as a recommendation.
+
+**Vivek Shankar:** So that's what we're essentially zeroing in on.
+
+**Vivek Shankar:** So, you know, I personally don't think we're missing anything super important unless it's something really esoteric with low search volume. But generally, the prompts we're tracking are catered towards bottom-funnel searches, so they're pretty representative of where Rapyd is showing up.
+
+**Vivek Shankar:** Yeah, that was the logic in creating the process. If you cycle through the categories, you can see Rapyd is in the top five for some, but the major news is that Stripe is absolutely dominating everything across all categories. If we want to find areas where Rapyd is doing better, we could check the Stablecoin category as well.
+
+**Mark Stiltner:** Yeah, I wouldn't do anything with High Opportunity.
+
+**Mark Stiltner:** Again, that's, like, our term, so I wouldn't, and it's, it's really just a way for us to say High Risk without saying High Risk.
+
+**Vivek Shankar:** I wouldn't, nobody's going to search for it.
+
+**Vivek Shankar:** Yeah, but you can see, like, Stablecoin is pretty encouraging.
+
+**Mark Stiltner:** Like, we've been loving it.
+
+**Mark Stiltner:** yeah, Stablecoin has a hundred.
+
+**Mark Stiltner:** Percent of the search is, but we're number two with eight.
+
+**Mark Stiltner:** Suck it, Aneer.
+
+**Vivek Shankar:** Well, but yeah, you know, generally we've been having positive results.
+
+**Vivek Shankar:** So it's pretty, you know, it's pretty decent so far since we've just been kind of, you know, we've just started publishing stuff.
+
+**Vivek Shankar:** But yeah, this is kind of it.
+
+**Vivek Shankar:** There is another tab over here, which it's not, I guess, ready as yet because like we said, scrunch takes a few weeks to kind of gather data.
+
+**Vivek Shankar:** But this competitive presence is usually quite insightful because essentially it tracks ChatGPT responses mentioning competitors, but not us.
+
+**Vivek Shankar:** So there's some pretty good action items we can draw from that, which is like essentially a list of prompts that we can use to enrich or refresh existing content.
+
+**Vivek Shankar:** And we can essentially add them as H2s or H3s and chunk content that way. Here we go — the competitive presence data just loaded. For some reason it showed up now.
+
+**Vivek Shankar:** So, yeah, we can see, like, all of these prompts over here.
+
+**Vivek Shankar:** So these are some of our own prompts.
+
+**Vivek Shankar:** Competitors are showing up.
+
+**Vivek Shankar:** Rapyd isn't.
+
+**Vivek Shankar:** So one way of taking action on this list is including this either as an FAQ or as an H2 or as an H3 and position Rapyd as, for example, solution to some of these questions.
+
+**Mark Stiltner:** Yeah, we definitely want to show up in what is the best checkout.com alternative for businesses operating across 10 countries.
+
+**Mark Stiltner:** We should write a blog called what's the best checkout.com alternative for businesses operating across 10 countries.
+
+**Mark Stiltner:** You could literally take some very actionable steps based on gaps like this.
+
+**Vivek Shankar:** Yeah, that's pretty much how we're positioning the competitive blogs — checkout versus Rapyd, which alternative is best for your use case. Just craft it naturally without keyword stuffing.
+
+**Vivek Shankar:** So, yeah, it's like that.
+
+**Vivek Shankar:** There's a ton of these.
+
+**Vivek Shankar:** We can see we have a lot of prompts, so that's why this list is pretty massive.
+
+**Vivek Shankar:** But generally what we're doing is we're kind of mapping these to existing topics and then seeing how we can enrich or even create new content.
+
+**Mark Stiltner:** Some of these we wouldn't want to be around.
+
+**Mark Stiltner:** Which payment gateway accepts peer-to-peer lending businesses without restrictions?
+
+**Vivek Shankar:** That wouldn't be us.
+
+**Mark Stiltner:** I don't know if any decent one would.
+
+**Mark Stiltner:** What's the best payment processor for travel agencies with high transaction volumes?
+
+**Mark Stiltner:** We'd look at that.
+
+**Mark Stiltner:** So yeah, this is helpful.
+
+**Mark Stiltner:** Can I access this data too directly to mess around in here?
+
+**Mark Stiltner:** Do you guys put together a dashboard report?
+
+**Mark Stiltner:** you send reports?
+
+**Mark Stiltner:** How do I start to benefit from this directly?
+
+**Vivek Shankar:** I think, Mara, correct me if I'm wrong, but I think we can add Mark as a user?
+
+**Mara Leighton:** We should.
+
+**Mara Leighton:** Yeah, we should be able to.
+
+**Mara Leighton:** So we'll extend an email invite.
+
+**Mara Leighton:** So you just send.
+
+**Mara Leighton:** Like, full access, and you can take a look whenever you would like.
+
+**Mara Leighton:** And then we'll also include insights in the weekly agendas as they kind of come through of where we think we could iterate and make our position slightly stronger or anything that we would call out for discussion.
+
+**Mara Leighton:** So, yeah, that's what we can do today.
+
+**Mara Leighton:** I'll send over an invite by the end of the day and let me know if you can get it.
+
+**Mark Stiltner:** In addition to that invite, that list of terms that you had and the list of competitors that we have, I'm sure that I've seen that before, but can you send me a link?
+
+**Mark Stiltner:** Is it like a spreadsheet or something that just says, hey, I kind of want to just look through those terms again and see if maybe there's some more to add or some to take off.
+
+**Mark Stiltner:** And then for the competitors, it looked pretty comprehensive because I saw you had Nouveau and some other ones on here later.
+
+**Mark Stiltner:** But I wouldn't mind just taking a second to look at it.
+
+**Mara Leighton:** Yeah, for sure.
+
+**Mara Leighton:** I will read.
+
+**Mara Leighton:** I think I emailed it to you.
+
+**Mark Stiltner:** I'll just email all of this in one place, so it's easy.
+
+**Mara Leighton:** Cool.
+
+**Mara Leighton:** And I only say that in case you're impatient and you want to go look at it now, but I'll include it all.
+
+**Mark Stiltner:** No, I knew I'd seen it before.
+
+**Mark Stiltner:** It would be great if it was at the top of my inbox.
+
+**Mara Leighton:** Yeah, for sure.
+
+**Mara Leighton:** No problem.
+
+**Vivek Shankar:** Yeah, so that's kind of a scrunch walkthrough.
+
+**Vivek Shankar:** You can even play with the dates over here.
+
+**Vivek Shankar:** There's a custom time period, four weeks, seven days.
+
+**Vivek Shankar:** Seven days from what we've seen is a bit volatile, so four weeks, which is about a month, might be a better kind of, you know, timeline.
+
+**Vivek Shankar:** But, yeah, that's pretty much it.
+
+**Vivek Shankar:** This site audit step is quite useful, so I think I had communicated this before.
+
+**Vivek Shankar:** Basically, we ran an audit of your homepage, and this was where the JS and non-JS versions were a bit different.
+
+**Vivek Shankar:** But really, any landing page that you're concerned about, you can just enter the URL and then...
+
+**Vivek Shankar:** You know, you get a report that kind of looks like this whenever it loads.
+
+**Vivek Shankar:** So, yeah, it'll just give you, like, some kind of a report over here.
+
+**Vivek Shankar:** It's a good way to test all of your landing pages just to make sure that, you know, things are on point.
+
+**Vivek Shankar:** And, yeah, that's pretty much it.
+
+**Vivek Shankar:** If you want to add any competitors or anything like that, you can add them over here under Competitive Brands.
+
+**Vivek Shankar:** So you can just click a new competitor, add them, then it should kind of, you know, go in there.
+
+**Vivek Shankar:** We've added some customer personas just based on, you know, our existing artifacts, et cetera.
+
+**Vivek Shankar:** And then key topics, again, these are just the categories under which we've classified the queries.
+
+**Vivek Shankar:** And, of course, you can even export the prompts from here as a CSV.
+
+**Mark Stiltner:** So you can review those.
+
+**Mark Stiltner:** Oh, it's great.
+
+**Mark Stiltner:** Same with the first owners.
+
+**Vivek Shankar:** This is awesome.
+
+**Vivek Shankar:** Yeah.
+
+**Vivek Shankar:** So, yeah, that's it for
+
+**Mara Leighton:** Cool.
+
+**Mark Stiltner:** I'm going to play around in this thing when get an invite.
+
+**Mara Leighton:** I'll be excited to hear your thoughts because they're making a lot of changes and I think it is getting better and more user friendly.
+
+**Mara Leighton:** But there are definitely some funky things about it.
+
+**Mark Stiltner:** So I'll be interested to hear your thoughts.
+
+**Mark Stiltner:** Well, it is early days for all this stuff.
+
+**Mara Leighton:** Early days.
+
+**Mara Leighton:** Yeah, which is fun.
+
+**Mara Leighton:** Yeah.
+
+**Mara Leighton:** Okay, cool.
+
+**Mara Leighton:** And sorry again, Vivek, for the surprise.
+
+**Vivek Shankar:** I feel like both Mark and I were like, I don't know.
+
+**Mark Stiltner:** Well, thanks for jamming on, Vivek.
+
+**Vivek Shankar:** Yeah.
+
+**Mara Leighton:** No worries at all, no worries.
+
+**Mara Leighton:** Cool.
+
+**Mara Leighton:** Okay, well, glad we could all chat.
+
+**Mara Leighton:** Mark, if anything else pops up, let us know.
+
+**Mara Leighton:** I'll share over those prompts and the invite to the dashboard.
+
+**Mara Leighton:** And then keep us posted on reviews if you have any questions.
+
+**Mara Leighton:** We'll go back to syncing next week.
+
+**Mara Leighton:** But also, if you prefer async or you prefer we pause production next week, just to clear that queue, please let us know because happy to do it.
+
+**Mara Leighton:** Sounds good.
+
+**Mara Leighton:** Talk to you soon.
+
+**Vivek Shankar:** Bye.

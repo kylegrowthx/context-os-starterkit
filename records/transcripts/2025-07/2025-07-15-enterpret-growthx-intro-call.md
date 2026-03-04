@@ -1,0 +1,845 @@
+# Enterpret <> GrowthX Intro Call
+
+<metadata>
+date: 2025-07-15
+time: 20:01 UTC
+duration: 32 minutes
+organizer: kyle@growthxlabs.com
+participants: Kyle Gaudreau, Raveesh Motlani
+fathom_recording_id: 74352618
+fathom_url: https://fathom.video/calls/351819394
+share_url: https://fathom.video/share/XSyvs5z_UBUb9zmWtEAouczJZDDoiqxs
+source: fathom
+enriched_on: 2026-03-03 13:48 UTC
+</metadata>
+
+---
+
+## Summary
+
+Kyle Gaudreau (VP of Customer Growth at GrowthX) and Raveesh Motlani (Enterpret) discussed a potential partnership to improve Enterpret's content marketing and AI visibility. Enterpret, a B2B SaaS platform helping companies understand customer feedback (serving Canva, Figma, Notion, Netflix, Webflow), currently gets 90% inbound leads but lacks an in-house content marketing capability and SEO foundation. GrowthX proposed a two-phase engagement: a 6-8 week strategy sprint to develop brand voice, content strategy, and initial articles, followed by a high-volume execution phase producing 5-15 articles per week leveraging AI-powered workflows with human oversight. Kyle will send a proposal to Raveesh for follow-up discussion.
+
+---
+
+## Context
+
+Enterpret is an early-stage, venture-backed B2B SaaS company that has built a voice-of-customer platform using custom AI models to analyze feedback across multiple channels (Zendesk, Twitter, surveys). The platform helps companies like Canva, Figma, Notion, Netflix, and Webflow understand customer pain points, feature feedback, and emerging issues to inform product development and retention. Enterpret's CEO noticed the company wasn't appearing in AI-powered search results (ChatGPT, Perplexity) despite having a strong product and strong inbound funnel (90% of meetings come from referrals, influencer marketing like Ladies Podcasts, and Google/LinkedIn ads). With only a fractional marketing team and no full-time content expert, Enterpret recognized they need a full-stack content marketing partner to build SEO and AI visibility foundations — hence reaching out to GrowthX.
+
+---
+
+## Relevance
+
+### To GrowthX Delivery
+- Clear customer pain point: no in-house content capability, fractional marketing team. Fits GrowthX's two-phase sprint model perfectly.
+- Kyle showcased the strategy sprint value and emphasized it's mandatory before execution phase (5-15 articles/week). Tira case study demonstrates authority score growth from low baseline to traction in 3+ months.
+- Customer is open to hands-on collaboration: reviewing AI models, building brand voice, conducting customer interviews during sprint phase.
+
+### To CheckThat / AI Visibility
+- Enterpret is highly motivated on AI visibility specifically — CEO noted gap in ChatGPT/Perplexity results for "feedback analysis tools" and "voice of customer" queries.
+- GrowthX uses Scrunch (third-party tool) to track AI visibility; Kyle discussed measurement challenges (API variability, personalization, tool limitations) and importance of targeting specific prompts rather than relying on domain rating as proxy metric.
+- Opportunity to integrate CheckThat into Enterpret's content strategy roadmap and use AI visibility metrics as early signal before traditional SEO traction.
+
+### To GrowthX Business Development
+- Strong expansion potential: Enterpret has backing, product-market fit with marquee customers (Canva, Figma, Netflix), and growing sales engine. Content partnership could accelerate customer acquisition.
+- Follow-up call scheduled for proposal review and customization; Kyle to send proposal with estimated engagement scope ($9-15k/month execution phase based on content volume needed).
+- Reference potential: Enterpret is well-positioned for a case study once results show up (3+ month timeline to first traffic spike typical).
+
+---
+
+## Overview
+
+- Enterpret seeks to improve AI/SEO visibility and content marketing, lacking in-house expertise
+- GrowthX offers a two-phase approach: strategy sprint followed by high-volume content production
+- GrowthX's AI-powered workflows and human expertise enable scalable, high-quality content creation
+- Enterpret's current demand is 90% inbound, with referrals and influencer marketing as top channels
+
+---
+
+## Key Topics
+
+### Enterpret's Business and Current Marketing Efforts
+
+  - B2B SaaS company building a voice of customer platform
+  - Integrates with existing feedback channels (e.g., Zendesk, Twitter)
+  - Uses custom AI models to analyze customer feedback
+  - Notable clients: Canva, Figma, Notion, Netflix, Webflow
+  - Current marketing:
+      - 90% inbound leads
+      - Top channels: referrals, influencer marketing (e.g., Ladies Podcasts)
+      - Google Ads, LinkedIn ads
+      - Recently started LinkedIn thought leadership program
+
+### GrowthX's Approach and Capabilities
+
+  - Two-phase engagement model:
+    1.  Strategy sprint (6-8 weeks):
+          - Develop brand voice, tone, structure
+          - Create content strategy and roadmap
+          - Publish initial content (e.g., 10 articles in 5 weeks)
+    2.  Execution phase:
+          - High-volume content production (5-15 articles/week)
+          - Ongoing strategy refinement
+  - Team composition:
+      - 70+ employees
+      - Leadership from editorial backgrounds (e.g., TechCrunch)
+      - Managing directors with 20+ years in SEO/growth
+      - Managing editors for hands-on content creation
+  - AI-powered platform with human-in-the-loop workflows
+  - Capabilities include research, outlines, content creation, fact-checking, and image generation
+
+### AI Visibility Measurement and Strategy
+
+  - GrowthX uses third-party tools (e.g., Scrunch) to track AI visibility
+  - Measures brand presence in AI-powered search results (e.g., Perplexity, ChatGPT)
+  - Acknowledges current limitations and variability in AI search results
+  - Focuses on identifying and targeting relevant prompts/questions
+
+### Content Marketing Philosophy
+
+  - Emphasis on high-quality, persona-driven content
+  - Aims to create valuable answers to key audience questions
+  - Believes in transferable benefits between SEO and AI visibility
+  - Advocates for a publisher-like approach to content creation
+
+---
+
+## Action Items
+
+**Raveesh Motlani (Enterpret)**
+- Book another call with Kyle Gaudreau for additional questions re GrowthX services/proposal
+
+**Kyle Gaudreau (GrowthX)**
+- Send follow-up email with proposal to Raveesh. Include request for any additional info needed to customize proposal
+
+---
+
+## Transcript
+**Kyle Gaudreau:** Oh, excuse me.
+
+**Kyle Gaudreau:** Of course, my voice just gets caught up there all of a sudden.
+
+**Kyle Gaudreau:** Hey, how you doing?
+
+**Raveesh Motlani:** Just a moment.
+
+**Raveesh Motlani:** I think my headphone's not working.
+
+**Raveesh Motlani:** Okay.
+
+**Raveesh Motlani:** Yeah.
+
+**Raveesh Motlani:** Hey, guys, can you hear me?
+
+**Kyle Gaudreau:** I can.
+
+**Kyle Gaudreau:** Yeah, yeah, yeah.
+
+**Kyle Gaudreau:** And not one of these, you know, Zooms, whatever, virtual meetings without some sort of technical glitch to start.
+
+**Kyle Gaudreau:** So we got it out of the way.
+
+**Raveesh Motlani:** Yeah.
+
+**Raveesh Motlani:** Thankfully we did.
+
+**Raveesh Motlani:** Sorry about the delay caused, was caused by this.
+
+**Raveesh Motlani:** But yeah.
+
+**Raveesh Motlani:** Great.
+
+**Raveesh Motlani:** Nice to meet you, Kyle.
+
+**Raveesh Motlani:** How are you doing today?
+
+**Raveesh Motlani:** Yeah, I'm good.
+
+**Kyle Gaudreau:** I'm good.
+
+**Kyle Gaudreau:** Excited to chat.
+
+**Kyle Gaudreau:** Busy week, but thus is the life of a startup, as I'm sure you know.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** Every week is pretty busy, but it's all good stuff, exciting stuff, yeah.
+
+**Kyle Gaudreau:** Love it.
+
+**Kyle Gaudreau:** Well, I would love to hear a bit, you know, I just had you all reaching out, but before we do that, I can just do a quick intro on my side just so you can get a sense of who I am and what I do.
+
+**Kyle Gaudreau:** And I can share all sorts of different things today.
+
+**Kyle Gaudreau:** know, obviously I have some typical stuff I typically go through, but it can be helpful just to hear from you to calibrate, like, what would be most helpful to structure the conversation around.
+
+**Kyle Gaudreau:** But to give you a little context before we go into that, so Kyle Gaudreau, VP of Customer Growth over here, I've worn multiple hats at GrowthX right now.
+
+**Kyle Gaudreau:** helping lead on the sales side, helping us drive in new customers, things of that nature.
+
+**Kyle Gaudreau:** Previous to this, I was leading the client services side of the business.
+
+**Kyle Gaudreau:** I did that from October up until about May.
+
+**Kyle Gaudreau:** Previous to that, actually, was the first GrowthX customer.
+
+**Kyle Gaudreau:** I just signed up a little over a year ago.
+
+**Kyle Gaudreau:** So I'm not a sales guy by practice.
+
+**Kyle Gaudreau:** It's the first time I've ever done anything related to sales in my career.
+
+**Kyle Gaudreau:** I mean, obviously, I've working in go-to-market teams, but most of my experience is in digital and growth, so growth at a variety of different stops before this.
+
+**Kyle Gaudreau:** A lot of times where I spent 19 years there before this, a lot of times why I'd be hired is businesses that either in their past lives or at that business have just seen the pain of being overly reliant on paid search and need to diversify their channels.
+
+**Kyle Gaudreau:** And usually that's why I'm hired is to help, even though that is where I got my start in paid search, but diversify channels, you know, figure out how to really, like, you know, a lot of pressures on how to build an organic engine.
+
+**Kyle Gaudreau:** And so a variety of different stops like Anaplan, Trey, Sendoso, most recently Homebase, where I've been able to have a lot of success doing that.
+
+**Kyle Gaudreau:** What brought me here as a customer initially was, you know, I was having a lot of success at Homebase.
+
+**Kyle Gaudreau:** We were spending a ton of money, though, content.
+
+**Kyle Gaudreau:** was taking forever to coordinate and just a lot of pressure to move fast, and we were driving a lot of great results, but it was quite complicated.
+
+**Kyle Gaudreau:** And my budget was getting slashed in the second half of the year and that my targets weren't going to go down at the same rate.
+
+**Kyle Gaudreau:** I had to think a little bit differently.
+
+**Kyle Gaudreau:** And Marcel, our CEO and founder, co-founder, was doing some really cool workshops around the time you see Mo at DeepGram and just building all these AI workflows and really just trying to experiment around like what is like what level of quality and scale can you get to by building these workflows that break down all the jobs to be done on a content team?
+
+**Kyle Gaudreau:** But also like what are those human loop steps necessary to lead to those sorts of outcomes?
+
+**Kyle Gaudreau:** And so that's really what we've been spending a lot of time over.
+
+**Kyle Gaudreau:** Like what is the people process tech that blends all those different things together to build content programs at scale?
+
+**Kyle Gaudreau:** And so we've had, you know, obviously I'm biased, but I don't think there's any other company that has put in more hours and experience into thinking about this problem of like how do you scale content with it?
+
+**Kyle Gaudreau:** How do you scale content leveraging AI and like what is that right blend to get to where people?
+
+**Kyle Gaudreau:** Layers of quality because certainly there's a lot of people who are not seeing that kind of value and natural skepticism because they've experimented with this and they're like, oh, the quality is not good.
+
+**Kyle Gaudreau:** We have a lot of customers that are, you know, we're speaking to engineers and needs to pass legal review.
+
+**Kyle Gaudreau:** It needs to pass medical review.
+
+**Kyle Gaudreau:** We literally have one right now.
+
+**Kyle Gaudreau:** It is like every like thing we put out, it needs to be reviewed by a doctor and their blessing and they're like over the moon of like, wow, you guys are able to like hit this bar in terms of thought leadership.
+
+**Kyle Gaudreau:** So like, you know, anyways, point being, that's a little bit about us.
+
+**Kyle Gaudreau:** I can share a bit more, but yeah, I would love to hear a bit about you.
+
+**Kyle Gaudreau:** You know, obviously I had a chance to check you all out a little bit, but, you know, any context that, you know, what led to the chat would be amazing.
+
+**Kyle Gaudreau:** Awesome.
+
+**Raveesh Motlani:** Well, thank you so much for telling me more about your background and how you've personally found GoTex to be helpful in your career and then switched the show.
+
+**Raveesh Motlani:** We came over here to share a bit more about Enterpret.
+
+**Raveesh Motlani:** We are an early stage, CDJ-funded B2B SaaS company.
+
+**Raveesh Motlani:** We're building a voice of customer platform, which essentially helps companies understand the voice of their customers.
+
+**Raveesh Motlani:** How does the product work?
+
+**Raveesh Motlani:** So briefly, what we do is we integrate with existing channels, existing feedback channels.
+
+**Raveesh Motlani:** So let's say Canva is one of our customers and they get feedback on support tickets, social media, survey responses.
+
+**Raveesh Motlani:** So we have integrations with all of the platforms, Zendesk, Twitter, whatever.
+
+**Raveesh Motlani:** So we ingest the data, develop custom AI models to understand that data and help Canva understand what are the users saying.
+
+**Raveesh Motlani:** You know, they have 200 million plus users.
+
+**Raveesh Motlani:** What are the top?
+
+**Raveesh Motlani:** Customer pain points.
+
+**Raveesh Motlani:** How did the recent launch go?
+
+**Raveesh Motlani:** What is the feedback on it?
+
+**Raveesh Motlani:** What is the emerging pain points?
+
+**Raveesh Motlani:** They're not like highest volume pain points right now, but are slowly growing up.
+
+**Raveesh Motlani:** anomalies, essentially.
+
+**Raveesh Motlani:** And all of this has been in the product development lifecycle.
+
+**Raveesh Motlani:** So they're able to decide which features to prioritize, what to ship next, and essentially improve their customer experience, which leads to improved retention.
+
+**Raveesh Motlani:** So we work with some known names like Canva, Figma, Notion, Netflix, Webflow.
+
+**Raveesh Motlani:** These are some of our customers.
+
+**Raveesh Motlani:** And so that's a bit about the business.
+
+**Raveesh Motlani:** Only here we share some customers.
+
+**Raveesh Motlani:** That's always good.
+
+**Kyle Gaudreau:** Lovely.
+
+**Raveesh Motlani:** Yes.
+
+**Raveesh Motlani:** And what about me talking to you?
+
+**Raveesh Motlani:** Lovely.
+
+**Raveesh Motlani:** thank you.
+
+**Raveesh Motlani:** The initial spark was when our CEO was running queries in ChatGPT, Perplexity, know, all these LLM tools, running queries irrelevant to our space, you know, what are the top feedback analysis tools, what are the top customer intelligence tools or voice of customer tools, like, we don't show up in the top.
+
+**Raveesh Motlani:** So that's where the conversation sparked, hey, how can we show up in these, you know, AEO, GEOS, like AI, SEO tools, LLMs.
+
+**Raveesh Motlani:** And that's where we extended the conversation internally to let them understand that, hey, you know, AI, SEO is an extension of SEO and we don't have a foundation in SEO.
+
+**Raveesh Motlani:** So we are a team of, the marketing team here is a fractional marketing team, we don't have even a full-time marketer in-house, let alone a content marketing expert.
+
+**Raveesh Motlani:** Although we have published a bit of content, but there's no engine, there's regular content motion, there is no foundation for SEO or growing traffic, growing visibility on search.
+
+**Raveesh Motlani:** There's no motions around it.
+
+**Raveesh Motlani:** So we need a partner who is expert in full stack, like they know how to develop a content strategy, write that content, distribute that content, as in, you know, getting backlinks and the digital data on it, and then monitoring the entire thing to, you know, in technical SEO aspects as well.
+
+**Raveesh Motlani:** Monitoring the entire thing to be able to increase the domain rating for Enterpret, that's the long term goal.
+
+**Raveesh Motlani:** The short term goal is to see us higher in AI visibility, like increase our AI visibility.
+
+**Raveesh Motlani:** Yeah.
+
+**Raveesh Motlani:** That's the full context.
+
+**Raveesh Motlani:** And I'm evaluating a couple of agencies, partners, who can help us be an extension of our team, who are expert in content marketing.
+
+**Raveesh Motlani:** And I love that on your website, you know, there are various work streams mentioned, and a lot of them align with what we want in a partner.
+
+**Raveesh Motlani:** So that's what we're looking for, and I'm to answer any questions around it.
+
+**Raveesh Motlani:** No, that was a fantastic context.
+
+**Kyle Gaudreau:** I really appreciate it.
+
+**Kyle Gaudreau:** Clearly, you've been thoughtful about this.
+
+**Kyle Gaudreau:** And I am not just saying this.
+
+**Kyle Gaudreau:** I'm happy to add more context to why what you are describing is really right in our wheelhouse and what we ideally want to hear from who are the best for us.
+
+**Kyle Gaudreau:** Because that's really where our specialty lies.
+
+**Kyle Gaudreau:** I can share a bit more context of how we think and operate.
+
+**Kyle Gaudreau:** I would tend to agree on the general mindset of just...
+
+**Kyle Gaudreau:** Thinking about that general symptom of not showing up in generative engines and how to think about work back off of what is the root cause and thinking about that content foundation and there are transferable aspects to SEO from our strategic hypothesis on how to think about this.
+
+**Kyle Gaudreau:** Essentially, comes down to, and I would say this was true before GEO was really more and more of a thing, to be honest.
+
+**Kyle Gaudreau:** It's one of the things that really resonated with Marcel when I met him and how he thought because it was very much aligned with how I thought.
+
+**Kyle Gaudreau:** Because historically before this, SEO, there used to be this kind of, well, there still is rather, this stigma around SEO content that it can be like less than content.
+
+**Kyle Gaudreau:** You know, it is highly just serving that, it looks like SEO content, the value isn't super high.
+
+**Kyle Gaudreau:** But a lot of us have seen success not applying now.
+
+**Kyle Gaudreau:** I'd say like that is not the type.
+
+**Kyle Gaudreau:** Content we want to aspire to create.
+
+**Kyle Gaudreau:** At the end of the day, we want to understand your personas at a really deep level, really, really into, we're big fans of like the jobs to be done framework.
+
+**Kyle Gaudreau:** So how can we be really, you know, mindful of those, those different things of their day to day, their challenges, their opportunities, you know, essentially just a variety of different ways to work back to like, what are their key questions that they're going to have.
+
+**Kyle Gaudreau:** And if we can create a variety of pieces of content that are amazing answers to that, variety of different mediums and engage them super, super well, that will lift the boat typically of SEO and GEO.
+
+**Kyle Gaudreau:** Now, there are like particular optimization things that you can do that will, you know, enable you to get there.
+
+**Kyle Gaudreau:** But generally, our philosophy and our results to date has been showing that that's the case.
+
+**Kyle Gaudreau:** In terms of like, where y'all are at, before I jump in, I can, you know, share a bit of like, how we work, how we think, but what Yeah.
+
+**Kyle Gaudreau:** What do you feel good about driving demand today?
+
+**Kyle Gaudreau:** Is there anything transferable from that that can inform this in some sense or another?
+
+**Kyle Gaudreau:** Are you doing a bit of like outbound and is that effective?
+
+**Kyle Gaudreau:** Usually when we talk to brands at your phase, that's a relatively common pattern is like, hey, we don't have much of a go-to-market, like established team yet.
+
+**Kyle Gaudreau:** getting some success doing outbound, some founder-led stuff, but we need to build the inbound engine, essentially.
+
+**Raveesh Motlani:** However, it's the other way around for us.
+
+**Raveesh Motlani:** 90% of our meetings come inbound, but the overarching question is still the same.
+
+**Raveesh Motlani:** Like there's lack of clarity on where can we scale or what's working.
+
+**Raveesh Motlani:** Right now, the top performing channels in inbound are referrals.
+
+**Raveesh Motlani:** So word of mouth, people just say, hey, you know, we see people saying, my colleague, I want you to check us, check you guys out on a customer referral or a peer referral.
+
+**Raveesh Motlani:** You know, that.
+
+**Raveesh Motlani:** So one of the top performing channels, then there's influencer marketing that we do.
+
+**Raveesh Motlani:** So we sponsor Ladies Podcasts, for instance, and that gets us a lot of meetings.
+
+**Raveesh Motlani:** That's a perfect audience for what you all are building.
+
+**Kyle Gaudreau:** Yeah, that makes a lot of sense.
+
+**Kyle Gaudreau:** Yeah.
+
+**Raveesh Motlani:** Yeah.
+
+**Raveesh Motlani:** And we do ads as well, Google ads, LinkedIn ads.
+
+**Raveesh Motlani:** So Google, competitive Google ads are also something that's been working.
+
+**Raveesh Motlani:** But again, that's saturated for now.
+
+**Raveesh Motlani:** And we are currently in the phase of last quarter.
+
+**Raveesh Motlani:** started the LinkedIn thought leadership program as well, where, you know, the top execs of our company post relevant content.
+
+**Raveesh Motlani:** And we try to amplify it through ads and, you know, develop an audience on LinkedIn.
+
+**Raveesh Motlani:** So that's also started to, like, show some traction.
+
+**Raveesh Motlani:** People came inbound mentioning LinkedIn as well, the founders.
+
+**Raveesh Motlani:** So it's growing, but those are, I already talked about.
+
+**Raveesh Motlani:** Those
+
+**Raveesh Motlani:** Top channels.
+
+**Raveesh Motlani:** And then one of the other top channels is, you know, direct and organic, which is hard to measure which exact content got them in place.
+
+**Raveesh Motlani:** So, yeah, that's about it.
+
+**Raveesh Motlani:** But we are in a good place in terms of inbound.
+
+**Raveesh Motlani:** We want to increase it because, like you mentioned, like you also face, like the goals keep on increasing every quarter.
+
+**Raveesh Motlani:** So, yeah.
+
+**Raveesh Motlani:** Cool.
+
+**Raveesh Motlani:** No, it does.
+
+**Kyle Gaudreau:** It does.
+
+**Kyle Gaudreau:** Yeah, that's super helpful.
+
+**Kyle Gaudreau:** Interesting to hear.
+
+**Kyle Gaudreau:** mean, regardless of where this goes, would actually, you know, selfishly love to stay in touch just to hear more about what you all are building because it sounds pretty cool.
+
+**Kyle Gaudreau:** Wanted, you know, I've oftentimes thought about that that is an untapped area of where AI fits into the mix of like synthesizing qualitative insights in that way.
+
+**Kyle Gaudreau:** And that there's so much, you know, if I think back to some of the, you know, experimentation programs I've led in the past when I was in-house, I would have loved to have a system like this that would have fit.
+
+**Kyle Gaudreau:** Any customer insights, because that would have been a goldmine.
+
+**Kyle Gaudreau:** So oftentimes I was having to manually dig for it in a variety of different sources, which I'm sure is why, for a whole variety of reasons, you guys have taken the approach that have.
+
+**Kyle Gaudreau:** So pretty cool.
+
+**Kyle Gaudreau:** Well, let me dive into a couple of things.
+
+**Kyle Gaudreau:** Actually, before I do it, because I just don't want to lose this, one thing I wanted to share, because you did know domain rating, domain authority, whatever you want to call it.
+
+**Kyle Gaudreau:** depends on the tool.
+
+**Kyle Gaudreau:** I think that, like, you know, I wouldn't necessarily look at it as a goal, per se, although I think it is, like, a good, like, leading indicator to look at.
+
+**Kyle Gaudreau:** But I did want to share, like, one thing.
+
+**Kyle Gaudreau:** So, you know, actually, let just start with you guys.
+
+**Kyle Gaudreau:** So, you know, you've probably already seen this, but, like, you know, at around 29 authority score, this is SEMrush.
+
+**Kyle Gaudreau:** You know, not a ton of traction.
+
+**Kyle Gaudreau:** That's why we're talking, right?
+
+**Kyle Gaudreau:** It seems like maybe you're getting it, which is good to see.
+
+**Kyle Gaudreau:** But, like,
+
+**Kyle Gaudreau:** Like, these folks are not in your space at all, but, you know, it is an example, and actually their data is quite a bit better than this when you look at SEMrush data is like, you know, it tends to be like lagging a bit.
+
+**Kyle Gaudreau:** Their monthly is definitely higher than this.
+
+**Kyle Gaudreau:** It's like probably 2x that.
+
+**Kyle Gaudreau:** But this is a brand, Tira, we work with.
+
+**Kyle Gaudreau:** Basically, they are a two-sided marketplace for dental hygienists, and so to find placement or for those offices to find hygienists.
+
+**Kyle Gaudreau:** And the purpose I brought this one up is, if you see, like, their authority score, it's, like, quite low.
+
+**Kyle Gaudreau:** They have no content when they start working with us.
+
+**Kyle Gaudreau:** So this is, like, right, we started working with them right around this period of time.
+
+**Kyle Gaudreau:** Like, it was, like, right after the holidays.
+
+**Kyle Gaudreau:** And we just took a very thoughtful approach to scaling it, and obviously, you know, these things take a little bit of time.
+
+**Kyle Gaudreau:** We start to see some early momentum.
+
+**Kyle Gaudreau:** And, you know, this is actually, again, like, his accelerated board that's showing here.
+
+**Kyle Gaudreau:** But, like, you can have really healthy growth, and we feel like we're just.
+
+**Kyle Gaudreau:** Scratching the surface with them in so many ways.
+
+**Kyle Gaudreau:** So that, you know, there's probably other, like, more direct, relevant examples I can share in the future.
+
+**Kyle Gaudreau:** But just because you were calling that out and thinking about, you know, where you all are at, you can absolutely get traction in a couple months of time of publishing if you take the right approach.
+
+**Kyle Gaudreau:** And usually it's about, like, three or so when we typically see, like, that first, like, big spike in traffic.
+
+**Kyle Gaudreau:** And then we can continue to learn from that and continue to evolve what we do.
+
+**Kyle Gaudreau:** But just because you noted that, I just wanted to share that bit.
+
+**Raveesh Motlani:** that's, yeah, that's great.
+
+**Raveesh Motlani:** I think not fixated on the metrics over here.
+
+**Raveesh Motlani:** So, yeah, quality score certainly holds lower value than the tangible outcome of increasing traffic every month.
+
+**Raveesh Motlani:** So that's great.
+
+**Raveesh Motlani:** I'm also now curious, how do you measure AI visibility, change in AI visibility?
+
+**Kyle Gaudreau:** Yeah, so we use, we have tested a lot of different tools to be.
+
+**Kyle Gaudreau:** look
+
+**Kyle Gaudreau:** Perfectly transparent, like they are all flawed in their own way right now, because the challenge becomes, essentially, you need to pull through the API, you pull a variety of different prompts, that's how most of these tools work, essentially, you pick prompts, pick competitors, and they pull via the API, and you pick where you look.
+
+**Kyle Gaudreau:** So this is a company called Abnormal AI, formerly Abnormal Security.
+
+**Kyle Gaudreau:** We're checking perplexity and ChatGPT for them.
+
+**Kyle Gaudreau:** You know, we have, you know, all these different, you know, competitors, they're being measured against, so they, you know, they're kind of like top, middle-ish of the past, and have some work to do in terms of their presence.
+
+**Kyle Gaudreau:** And essentially, like, what we do is, like, work through a variety of different prompts to, like, what should we be targeting, and those are, like, kind of, like, topics, and then you drill into, like, what are the actual prompts, and essentially, this just happens via the API, and then each one of these, like, there's rich insights, and you can dig into, like, things like.
+
+**Kyle Gaudreau:** Intimate or placement.
+
+**Kyle Gaudreau:** But there's just so much variability, honestly, with these.
+
+**Kyle Gaudreau:** Like if you pull via the API versus going direct into the platform, you don't get the same results.
+
+**Kyle Gaudreau:** You may do the same search multiple times.
+
+**Kyle Gaudreau:** Or you also have shared memory on your instance that is going to try to personalize the results for you.
+
+**Kyle Gaudreau:** So you may not get the same results I get.
+
+**Kyle Gaudreau:** So there's just so much complexity right now.
+
+**Kyle Gaudreau:** That doesn't mean it's not a reason to track this.
+
+**Kyle Gaudreau:** It just means we have to be mindful of the flaws that are happening right now and can directly help inform us what's happening.
+
+**Kyle Gaudreau:** And so the way we basically unpack this is there's a variety of methodologies of working back.
+
+**Kyle Gaudreau:** What are these type of questions that we want to prioritize?
+
+**Kyle Gaudreau:** We track them.
+
+**Kyle Gaudreau:** And then as we go in, you can start to really drill into the particular content that's out there.
+
+**Kyle Gaudreau:** To be clear, this isn't our platform.
+
+**Kyle Gaudreau:** We have our own platform.
+
+**Kyle Gaudreau:** This is just, you know, it's kind of one of these things like, quite honestly, I was like talking with our engineering team one point.
+
+**Kyle Gaudreau:** And I was like, we can probably.
+
+**Kyle Gaudreau:** But for the sake of time and resources, and it just hasn't made sense.
+
+**Kyle Gaudreau:** So we decided to partner with, we tested a variety of tools, and we'd like scrunch this approach.
+
+**Kyle Gaudreau:** So we view this as capable stakes for any engagement now.
+
+**Kyle Gaudreau:** We'll set this up for our customers.
+
+**Raveesh Motlani:** Okay.
+
+**Kyle Gaudreau:** Let me jump into a few things of just how we work.
+
+**Kyle Gaudreau:** I'll try to go fast knowing we're short on time.
+
+**Kyle Gaudreau:** But essentially, our thing is, we're a lot of former in-house marketers.
+
+**Kyle Gaudreau:** Led growth at a variety of different stages, had a lot of success building these content engines, and have experimented with a lot of things with AI.
+
+**Kyle Gaudreau:** And so now we've done that with a variety of different accounts and still will take on things that are relatively custom.
+
+**Kyle Gaudreau:** Really, our sweet spot and what we prefer is a lot of similarity to what you were kind of describing.
+
+**Kyle Gaudreau:** We want our customers to think and operate more like publishers, you know, because publishers oftentimes need to...
+
+**Kyle Gaudreau:** You know, really think about their audiences at a deeper level and are typically operating at another level of scale.
+
+**Kyle Gaudreau:** And, you know, this is one of the benefits of this is now becoming a bit more of a common theme of in the SaaS space of like those with like publishing backgrounds being brought into a variety of different SaaS stops.
+
+**Kyle Gaudreau:** And because a lot of there's more and more teams that are seeing success with this.
+
+**Kyle Gaudreau:** And so similarly, we're finding a lot of success with our customers and operating in this way.
+
+**Kyle Gaudreau:** And, you know, there's all these different, you know, work streams you were kind of noting earlier.
+
+**Kyle Gaudreau:** But really where we like to start is, you know, this editorial long form layer.
+
+**Kyle Gaudreau:** This is where there's just so much important coordination that goes into understanding your brand voice, tone, structure, the topics that are going to resonate with your audience, don't resonate with your audience.
+
+**Kyle Gaudreau:** And that just opens up so many rich learning for us so that we can continue to grow even just in this land alone, drive more qualified eyeballs.
+
+**Kyle Gaudreau:** To your site and continue to engage them, but also open up other paths for distribution and conversion.
+
+**Kyle Gaudreau:** just oftentimes while some folks come to us and they want to do things like lower funnel, they're not really ready to do lower funnel stuff and they don't have their whole content strategy figured out.
+
+**Kyle Gaudreau:** So we really find it just so beneficial to start here and then we can build upon that.
+
+**Kyle Gaudreau:** That's very much informed the team we've built.
+
+**Kyle Gaudreau:** We have essentially Matthew Panzerino, our chief content officer.
+
+**Kyle Gaudreau:** He was former editor chief at Tunk Crunch, just like crazy editorial bar, high volume publishing teams.
+
+**Kyle Gaudreau:** Then we have managing directors.
+
+**Kyle Gaudreau:** Those are like our strategy layer, folks with like 20 plus years in SEO and growth experience, places like Playbub, Fanatics, G2, et cetera.
+
+**Kyle Gaudreau:** And then a very common role in these types of environments is managing editor.
+
+**Kyle Gaudreau:** And this is for us, the folks that are going to be really hands-on working with you on like dialing and content quality are the ones that are going to be creating your articles.
+
+**Kyle Gaudreau:** And
+
+**Kyle Gaudreau:** Really what we're trying to do end to end is create that strategy for you, write that content, create the images even that help support that content, know, think hero images, inline images, things of that nature, and then stage and publish it.
+
+**Kyle Gaudreau:** And so this is a lot of the team that would be operating with you to do that.
+
+**Kyle Gaudreau:** We're now at 70 plus employees, growing quite fast.
+
+**Kyle Gaudreau:** Hard to believe when I say that.
+
+**Kyle Gaudreau:** And really what's kind of supporting this team in the background, and, you I could go a whole lot deeper on this another time with you, is this platform side that our engineering team has built.
+
+**Kyle Gaudreau:** And think of these as a variety of different AI workflows, that all have varying human-in-the-loop steps that can power things like research, creating outlines, creating content, playing around different styles of content, creating internal links, meta tags, creating images.
+
+**Kyle Gaudreau:** Just Just-
+
+**Kyle Gaudreau:** All the different things that are points of friction of creating content at scale, we've created varying workflows to support.
+
+**Kyle Gaudreau:** Even fact-checking, we have a very thorough, deep fact-checking workflow, all that stuff I was talking about earlier of needing to pass a super high bar for review.
+
+**Kyle Gaudreau:** We have had to build things like that that enable us to do that.
+
+**Kyle Gaudreau:** And essentially, for us, speed is a bit of like, it can be a superpower of ours, but at the same time, what we find is finding the right context, building the right artifacts, setting the right strategy, really refining the inputs into these workflows, and then having people with really high taste that can review the outputs and modify as needed.
+
+**Kyle Gaudreau:** That is a bit of like that recipe that gets us to high quality content at scale, and just enables us to, you know, just move so much faster than any other human-led motion would have in the past.
+
+**Kyle Gaudreau:** Essentially, how we break down our engagements.
+
+**Kyle Gaudreau:** We do this in a two-phased approach.
+
+**Kyle Gaudreau:** We call this first phase a strategy sprint.
+
+**Kyle Gaudreau:** This is where we're building a lot of those different artifacts that plug into our workflows.
+
+**Kyle Gaudreau:** We're aligning with you on things like tone and voice, and there's a really rich set of deliverables we build through this.
+
+**Kyle Gaudreau:** We actually find that folks who go through the strategy sprint, they take those artifacts and they run them in other things that they may be doing, you know, inside like a clod or something of that nature, and are finding like just they are like over the moon with like how much better their outputs are.
+
+**Kyle Gaudreau:** Because of that depth we put into this and how much refinement we've put into this approach.
+
+**Kyle Gaudreau:** From there, we create a roadmap.
+
+**Kyle Gaudreau:** This is really about like, okay, let's look six, 12 months out.
+
+**Kyle Gaudreau:** Like, how do we really get you to where you need to go?
+
+**Kyle Gaudreau:** And then we start to calibrate on like, let's actually create content that aligns to this roadmap, go through all that back and forth with you.
+
+**Kyle Gaudreau:** And so, to be clear, this phase is not just like pure like strategy, like we create and publish content throughout.
+
+**Kyle Gaudreau:** It's just think of it more as like laying the foundation for like rapid growth.
+
+**Kyle Gaudreau:** And so, like, we have one sprint that's in progress now.
+
+**Kyle Gaudreau:** They're, like, week five, we've published 10 articles for them.
+
+**Kyle Gaudreau:** So, you know, we can typically, like, five on an average week in this second phase of where we're really, like, hitting the gas is where we, you know, that's, like, the low end.
+
+**Kyle Gaudreau:** You know, usually, like, somewhere in the range of, like, five to 15 articles a week is not too atypical.
+
+**Kyle Gaudreau:** It just depends on the need for each brand.
+
+**Kyle Gaudreau:** And the intention really here is, like, in this first phase, like, there's no obligation to have to work with us beyond this.
+
+**Kyle Gaudreau:** You know, you can opt out.
+
+**Kyle Gaudreau:** If this isn't a fit for you, you'll have a rich strategy, different artifacts you can run.
+
+**Kyle Gaudreau:** You'll have a variety of pieces of content.
+
+**Kyle Gaudreau:** You can create more content from that.
+
+**Kyle Gaudreau:** But that's not why we do these sprints.
+
+**Kyle Gaudreau:** It's more to find those that are really great fit for us for a long-term engagement.
+
+**Kyle Gaudreau:** You know, we can at times, you know, play around with, you know, term length and things of that nature.
+
+**Kyle Gaudreau:** But generally, we want those that...
+
+**Kyle Gaudreau:** that...
+
+**Kyle Gaudreau:** You know, aren't just expecting, like, pure revenue impact from, like, month two or month three, and they see, like, the long vision of, like, in value of building these programs and doing it right.
+
+**Kyle Gaudreau:** And so that's kind of a bit of our, like, our approach from a high level.
+
+**Kyle Gaudreau:** There's a lot of different things that can, you know, if you're interested, dig into in the subsequent call of, like, what are these actual deliverables in the sprint?
+
+**Kyle Gaudreau:** And how do we build the strategy?
+
+**Kyle Gaudreau:** What's the platform look like?
+
+**Kyle Gaudreau:** And all that.
+
+**Kyle Gaudreau:** And a few different, like, opportunities for us perhaps to collaborate.
+
+**Kyle Gaudreau:** But just on all that, I just threw a lot really, really quick.
+
+**Kyle Gaudreau:** How does that landing?
+
+**Kyle Gaudreau:** Any, like, like, hesitations, objections?
+
+**Raveesh Motlani:** Yeah, I just have one question for now.
+
+**Raveesh Motlani:** In the phase two, if we get started with phase two directly, or is phase one mandatory to get into phase two?
+
+**Kyle Gaudreau:** Yeah, the way we view it is it is a mandatory thing in that, like, a Yeah.
+
+**Kyle Gaudreau:** You know, and naturally, like I talked to a lot of brands that like they want to move fast.
+
+**Kyle Gaudreau:** Right.
+
+**Kyle Gaudreau:** And, you know, they're kind of like, dude, you want us to do this sprint and you want us to talk about strategy, but I need to like drive results like far quicker.
+
+**Kyle Gaudreau:** Almost every single brand we talk to about a sprint says some version of that at some point or another.
+
+**Kyle Gaudreau:** But when we can like show them a little bit of like what we're building and then how quickly we can move, it starts to click a little bit of like why we really want to do this.
+
+**Kyle Gaudreau:** Because for transparency, like we in the early days of growthx did not do that in the same way.
+
+**Kyle Gaudreau:** We still have varying processes that were similar, calibrating our content and things of that nature.
+
+**Kyle Gaudreau:** But usually by like week three, we would just really get to like high volume of publishing and then just move, move, move, crank out content, continue to, you know, evolve, et cetera, and like do all sorts of different things.
+
+**Kyle Gaudreau:** But what we found was just like too often we were jumping in too quick and they needed more support on like laying that right strategic foundation.
+
+**Kyle Gaudreau:** foundation.
+
+**Kyle Gaudreau:** And being able to build upon something that's more repeatable.
+
+**Kyle Gaudreau:** And so it's kind of like a bit of the cliche of going a little bit slower to enable you to go fast and to do so with high conviction.
+
+**Kyle Gaudreau:** So what we've been finding is those that have been going through this process, while there's initial hesitation on the framing because they want to move fast, once they get a little bit more context of what it looks like, they tend to be interested.
+
+**Kyle Gaudreau:** And then when they're actually in it, they're like, OK, wow, OK, I get it.
+
+**Kyle Gaudreau:** This is great.
+
+**Kyle Gaudreau:** Because we're truly doing a lot in there.
+
+**Kyle Gaudreau:** We're talking with your customers if you're willing to provide that.
+
+**Kyle Gaudreau:** We deep dive with your technical team.
+
+**Kyle Gaudreau:** We're doing a lot of really trying to dig in and getting to the beat of how do we produce high-quality content.
+
+**Raveesh Motlani:** Got it.
+
+**Raveesh Motlani:** And it's not necessarily like the phase one, even though it says six to eight weeks.
+
+**Raveesh Motlani:** What I'm hearing is it might get over in week three and then we can start producing content in week four.
+
+**Raveesh Motlani:** So it's easy.
+
+**Raveesh Motlani:** Nailed it.
+
+**Raveesh Motlani:** Yeah, yeah, you nailed it.
+
+**Kyle Gaudreau:** So, like, essentially think of it as, like, once we get to the phase of setting your roadmap and we calibrate on the definition it done and that content and, like, the things that support that and we've had that back and forth and we now feel like, okay, we understand.
+
+**Kyle Gaudreau:** That's when we can get to a form of daily publishing, if you will.
+
+**Kyle Gaudreau:** Now, what you need is going to be different for you and that's what part of this whole effort is to try to refine.
+
+**Kyle Gaudreau:** Like, I mentioned 15K in the execution phase to start.
+
+**Kyle Gaudreau:** That might be too high for you all.
+
+**Kyle Gaudreau:** Like, typically we range from, like, 9 to mid-20s and that really depends on how much content you need.
+
+**Kyle Gaudreau:** And so we're really trying to figure out, like, what do you actually need?
+
+**Kyle Gaudreau:** How do we build it?
+
+**Kyle Gaudreau:** Because as you can probably imagine, like, there's varying degrees of complexity for every brand to work with.
+
+**Kyle Gaudreau:** And so the intent is, like, really, like, let's dig in and, like, figure out how we get to what you need.
+
+**Kyle Gaudreau:** Got it.
+
+**Raveesh Motlani:** And I have to, like, thank you so much, Kail.
+
+**Raveesh Motlani:** have to hop off to the...
+
+**Raveesh Motlani:** Next call, but I think for next steps, can you send over this proposal to me and I can book another time for additional questions.
+
+**Raveesh Motlani:** And if you need any information for me to customize the proposal, happy to share that as well.
+
+**Raveesh Motlani:** Just let me know over email what information you need from me and I'm happy to share that.
+
+**Raveesh Motlani:** That's good.
+
+**Raveesh Motlani:** Yeah, that's great.
+
+**Kyle Gaudreau:** I'll send a follow-up shortly.
+
+**Kyle Gaudreau:** Looking forward to chatting again soon.
+
+**Kyle Gaudreau:** Same here, Kyle.
+
+**Raveesh Motlani:** Thank you so much for your time today.
+
+**Raveesh Motlani:** All right.
+
+**Raveesh Motlani:** You as well.
+
+**Raveesh Motlani:** Bye, Raveesh.
+
+**Raveesh Motlani:** Bye-bye.

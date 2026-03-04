@@ -1,0 +1,753 @@
+# David DeLallo - Technical Managing Editor
+
+<metadata>
+date: 2025-08-20
+time: 19:04 UTC
+duration: 31 minutes
+organizer: Marcel Santilli (GrowthX)
+participants: Marcel Santilli (GrowthX), Marília da Silva (GrowthX), David DeLallo
+fathom_recording_id: 81877889
+fathom_url: https://fathom.video/calls/385857230
+share_url: https://fathom.video/share/Eh84g_zJ79ySLP2388kCpSr5NxBD-FSG
+source: fathom
+enriched_on: 2026-03-03 04:15 UTC
+</metadata>
+
+---
+
+## Summary
+
+Marcel reconnected with David DeLallo, a seasoned content editor with experience at IBM, McKinsey, and running his own tech/AI content business, to explore his potential fit for GrowthX's Technical Managing Editor role. The conversation revealed strong alignment: both had worked at IBM simultaneously, understood the challenges of scaling high-quality content production, and shared a passion for using AI to create efficient workflows. David's expertise in content quality, stakeholder management, and problem-solving, combined with his enthusiasm for team leadership and coaching, positioned him as a strong candidate for the role as GrowthX scales rapidly post-$12M Series A.
+
+---
+
+## Context
+
+This is a recruiting conversation between Marcel Santilli (GrowthX founder) and David DeLallo, an experienced content editor and strategist exploring a Technical Managing Editor position at GrowthX. The two discovered they worked at IBM simultaneously—Marcel built securityintelligence.com while David was with the Center for Applied Insights—though they didn't cross paths at the time. David has since worked at McKinsey and runs his own technology and AI content business. Marcel is hiring for this role as GrowthX scales post-$12M Series A funding, having reached $10M revenue in its first year. The conversation explores David's background, approach to content quality and team management, and alignment with GrowthX's rapid growth and culture around rewarding high performers.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- David's expertise in content quality—emphasizing logical flow, stakeholder alignment, and detailed feedback (he includes 10+ comments on every draft)—directly addresses GrowthX's challenge of scaling high-quality content production at 10 cents/word average vs. industry standard of 50 cents to $2/word.
+- His technical background (10+ years in tech/AI) and custom GPT ("Write Like Me") workflow align with GrowthX's approach of building AI-assisted processes to distill expert workflows.
+- Problem-solving mindset and focus on identifying repetitive workflow issues will strengthen GrowthX's ability to refine its platform and team processes.
+- His team leadership philosophy (fair, leads by example, focuses on growth and strengths-based positioning) complements Marcel's culture of setting people up for success and rewarding rapid growth.
+
+**To GrowthX Business Development:**
+- David's experience managing stakeholder relationships and working with enterprises (PwC modeling project, multiple long-term clients) signals ability to navigate complex client dynamics as GrowthX scales $200K+ deals.
+- His reliability and extension-of-team positioning suggests strong account health contributions and potential for long-term client relationships and upsell opportunities.
+
+**To Platform & Product:**
+- David's interest in understanding "the formula" for AI tool workflows and his MidJourney/Photoshop experimentation show potential to contribute to GrowthX's platform development and emerging "expert layer" marketplace vision.
+
+---
+
+## Overview
+
+- David has extensive experience in tech/AI content creation, editing, and team management, with a background at IBM, McKinsey, and running his own business
+- Marcel's company, growthx.ai, is rapidly growing and facing capacity challenges while maintaining high-quality, cost-effective content production
+- Both share a passion for leveraging AI tools to improve content workflows and quality
+- The role involves problem-solving, team leadership, and balancing various aspects of content production and stakeholder management
+
+---
+
+## Key Topics
+
+### Professional Background and Shared Experiences
+
+  - Both David and Marcel worked at IBM around the same time
+  - David's experience includes Center for Applied Insights at IBM, McKinsey, and running his own tech/AI content business
+  - Marcel's journey: IBM (securityintelligence.com) → HP → startups → Scale → founding growthx.ai
+
+### growthx.ai's Business Model and Growth
+
+  - Focused on high-quality, cost-effective content production ($9,000-$60,000/month for daily publishing)
+  - Recently raised $12 million Series A funding
+  - Crossed $10 million in revenue within a year
+  - Partnership with Anthropic for storytelling, advisory, and potential collaborations
+
+### Content Creation Challenges and Solutions
+
+  - Difficulty in finding expert writers who can produce high-quality, domain-specific content
+  - Using AI to create workflows that distill Marcel's content creation process
+  - Hiring fewer people but focusing them on high-value tasks
+  - Balancing quality, stakeholder alignment, and efficiency in technical content creation
+
+### David's Approach to Content Quality and Workflow
+
+  - Emphasizes logical flow, often backing out drafts into outlines
+  - Uses custom GPT ("Write Like Me") for rewrites and restructuring
+  - Provides detailed comments and explanations in drafts to gain stakeholder buy-in
+
+### Role Discussion and Company Culture
+
+  - Technical Managing Editor role involves problem-solving, tool improvement, and team coaching
+  - growthx.ai values rapid growth and rewards high performers quickly
+  - Company approach: Set up for success, provide support, and reward top performers disproportionately
+
+### growthx.ai's Future Plans
+
+  - Building a platform with potential for partial open-source release
+  - Considering a "Palantir/Anthropic model for content"
+  - Plans for an "expert layer" marketplace to tap into niche domain expertise
+
+---
+
+## Action Items
+
+- **Marcel Santilli (GrowthX)** — Regroup with the team to discuss David DeLallo's potential fit for Technical Managing Editor role and determine next steps in hiring process
+
+---
+
+## Transcript
+**David DeLallo:** All right, how are you?
+
+**Marcel Santilli:** This meeting is being recorded.
+
+**Marcel Santilli:** Pretty good.
+
+**Marcel Santilli:** Sorry to move around a little bit here and there, you know, but I appreciate the flexibility.
+
+**David DeLallo:** Yeah, no problem.
+
+**David DeLallo:** I'm kind of heads down this afternoon on something with no meetings, so all good.
+
+**Marcel Santilli:** Nice.
+
+**Marcel Santilli:** Where are you based?
+
+**David DeLallo:** I'm in Stamford, Connecticut.
+
+**Marcel Santilli:** Oh, nice, nice.
+
+**Marcel Santilli:** Are you originally from there?
+
+**David DeLallo:** You were up there?
+
+**David DeLallo:** Yeah, grew up just a couple towns over, so I haven't, I've moved a million times, probably within like a 20-mile radius.
+
+**Marcel Santilli:** Oh, nice.
+
+**David DeLallo:** I've been in the area.
+
+**Marcel Santilli:** Yeah, that's awesome.
+
+**Marcel Santilli:** Well, I know, like, you've had some chats and everything with the team and going through the process, so I always like to start with maybe turning the table around and letting you ask me questions first and, you know, and helping kind of give contacts or answer anything.
+
+**David DeLallo:** Yeah, sure.
+
+**David DeLallo:** You know, I was looking through your background and I hadn't realized that we both worked at IBM at the same time.
+
+**David DeLallo:** And I am familiar with security intelligence or was at the time.
+
+**David DeLallo:** I didn't realize that you were behind that, but we didn't end up crossing paths.
+
+**David DeLallo:** I was on the team that initially I was with the Center for Applied Insights.
+
+**Marcel Santilli:** Do you remember them?
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** I remember.
+
+**Marcel Santilli:** I remember.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** They're doing a lot of like the thought leadership, like longer pieces.
+
+**Marcel Santilli:** definitely remember.
+
+**Marcel Santilli:** I forgot who was running that at the time, but yeah.
+
+**David DeLallo:** Yeah.
+
+**David DeLallo:** Caroline.
+
+**David DeLallo:** Oh, geez.
+
+**David DeLallo:** Her last name just slipped out of my mind.
+
+**David DeLallo:** Day?
+
+**Marcel Santilli:** Caroline Day.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** I, yes.
+
+**Marcel Santilli:** I, not only sounds familiar, but, but yes.
+
+**David DeLallo:** Yes.
+
+**David DeLallo:** Sorry.
+
+**David DeLallo:** Keep going.
+
+**David DeLallo:** Yeah.
+
+**David DeLallo:** And then I saw you, you know, went through HP and then some startups and then you.
+
+**David DeLallo:** And actually, had spoken to you, you probably don't remember, it was a couple of years ago, when you were at Scale.
+
+**David DeLallo:** Nico Henke had connected me to you because I had left McKinsey and started my own business, which is what I'm doing now.
+
+**Marcel Santilli:** That's awesome, man.
+
+**David DeLallo:** I remember we had a short conversation while you were there.
+
+**David DeLallo:** I see that you have turned your sights towards one of their biggest competitors.
+
+**David DeLallo:** I'm curious, actually, one question I had, I saw the partnership that you announced with them.
+
+**Marcel Santilli:** What is the nature of that?
+
+**Marcel Santilli:** What do you expect to do together?
+
+**Marcel Santilli:** We're essentially the amplification of storytelling and advisory for them, you know, on all things, marketing, brand, and everything else.
+
+**Marcel Santilli:** And then also, like, exploring potential, like, kind of partnerships as well and, like, tapping into experts from their network, you know, like, yeah, very, very exploratory on that end.
+
+**Marcel Santilli:** But it's like, it's just kind of like this mutually beneficial thing, you know, where they're our biggest customer as well.
+
+**Marcel Santilli:** Yeah.
+
+**David DeLallo:** So what brought you to the decision to sort of start your own business?
+
+**Marcel Santilli:** So where do you see it coming?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** I mean, as you know, like even back with securityintelligence.com, it was like just getting brands to be more like publishers and creating value instead of just doing traditional marketing.
+
+**Marcel Santilli:** It was always something I believed in and always hiring people that knew how to create great content that were experts and scaling that was always hard and difficult.
+
+**Marcel Santilli:** And even when you hire editors, that wouldn't scale.
+
+**Marcel Santilli:** So then it's like, okay, how do I, so then you have to like hire program managers and writers and editors and then go, you know, create a whole recruiting engine to go find people.
+
+**Marcel Santilli:** And then you like recruit all these people.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And as you probably remember, and then it's like, a lot of them weren't just like very good writers, the ones that are experts.
+
+**Marcel Santilli:** And even, and if they were good writers, they weren't experts.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And then.
+
+**Marcel Santilli:** And then even the ones that you could afford, like, weren't, like, very good at that domain and that topic, or they would write things that just weren't quite there.
+
+**Marcel Santilli:** So then you have to hire all these people to just, like, polish the stuff to get to a point where it's, like, even remotely good.
+
+**Marcel Santilli:** And then you go through all this process and no one even clicks on it, no one even reads, and you're like, I just spent, like, three grand on this piece of content and no one's even read.
+
+**Marcel Santilli:** Like, what the hell?
+
+**Marcel Santilli:** Why don't we do a better job positioning this the right way?
+
+**Marcel Santilli:** And then, like, by the end of it, year in, like, we had the engine, like, humming, and it was like, okay, cool, this is working, we identify the right opportunities, we figure out the distribution plan, how to scale quality.
+
+**Marcel Santilli:** And then, like, I did that in every company I've been at.
+
+**Marcel Santilli:** It was always, like, never got any easier, you know?
+
+**Marcel Santilli:** There were never any tooling, there was never anything until, like, finally, I was like, okay, now with AI, I can just build workflows and just distill my process down to workflows.
+
+**Marcel Santilli:** And then hire the same people I used to, but not have, one, not have to hire as many, but two, have them focus on the things that, like, only they can do to raise the bar along the way.
+
+**Marcel Santilli:** But with my thought processes,
+
+**Marcel Santilli:** I that, 24XR Traffic, a company I was at, and then from there started doing these workshops where teaching people how I did it, and then that's how our first two customers came.
+
+**Marcel Santilli:** One of them works for us now, and it was like, hey, can you help me with this end-to-end?
+
+**Marcel Santilli:** I was like, yeah, no-brainer.
+
+**Marcel Santilli:** Let me hire some people, adapt these workflows, and kind of help with the strategy, and then did another workshop.
+
+**Marcel Santilli:** Then we got, like, six customers, and then 12, and then I was like, okay, there's definitely something there, and that's when I partnered with Daniel, CTO and co-founder, so yeah, it was, like, very organic.
+
+**Marcel Santilli:** It wasn't like, oh, let me go do this, and then we're profitable, bootstrapped, and then earlier this year, we're like, okay, let's raise money and really, like, build out the platform more aggressively, and that's when we raised our Series A, 12 million, and then now we're, like, just crossed 10 million in revenue.
+
+**Marcel Santilli:** And so that's been, and just a year in, and so it's been cool.
+
+**David DeLallo:** Amazing.
+
+**David DeLallo:** Yeah, and part of what you described is actually helping.
+
+**David DeLallo:** Support my business model currently, which was, you know, I specialize in technology and AI content specifically, which actually was the reason why I left McKinsey, just knowing that there would be a lot of demand for that, because obviously two years ago, everything exploded.
+
+**David DeLallo:** And, you know, I would hire editors as well in my position there.
+
+**David DeLallo:** And like, it's hard to find somebody that really knows the subject area enough to create content that, you know, makes sense.
+
+**David DeLallo:** It doesn't require, you know, a ton of rework.
+
+**David DeLallo:** So, you know, my proposition to folks has been, okay, you're writing on this topic.
+
+**David DeLallo:** I've been in this space for, you know, more than 10 years, and I can give you that specificity and quality that you're looking for.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**David DeLallo:** Yeah, it's part of that, you know, I have increased
+
+**David DeLallo:** I've of course, been using AI tools myself and seeing where the ball is going and was thinking of moving pretty much in the direction that you're moving.
+
+**David DeLallo:** So then when I saw your role in the company, I'm like, okay, these folks are a little further along.
+
+**David DeLallo:** So why not jump on board instead of recreating the wheel?
+
+**Marcel Santilli:** Yeah, I love that, man.
+
+**Marcel Santilli:** And I'm really curious, like you have all this awesome experience too.
+
+**Marcel Santilli:** And so like what energizes you lately?
+
+**Marcel Santilli:** You know, like what are some of the things that you've done lately that are like, oh man, I'm so energizing.
+
+**Marcel Santilli:** I wish I could do this more, you know?
+
+**David DeLallo:** Yeah, it's sort of a mix.
+
+**David DeLallo:** It's, you know, it's working with the technology.
+
+**David DeLallo:** I mean, I'm a geek.
+
+**David DeLallo:** I've, you know, been into computers and video games and all that kind of stuff from, you know, age six.
+
+**David DeLallo:** So just being able to experiment with all of the new tools is energizing.
+
+**David DeLallo:** I ran a comic series actually.
+
+**David DeLallo:** And LinkedIn, I did it as, you know, sort of my content marketing for myself for about six months where I was using MidJourney, Photoshop, and with its generative tools.
+
+**David DeLallo:** And mostly those, a little bit of ChatGPT or Dolly for image generation sometimes too, and creating these comics that were following like all of the developments in sort of the big tech space.
+
+**David DeLallo:** Like you, it kind of grew organically.
+
+**David DeLallo:** I just wanted to mess around and learn some of the tools more, especially even Photoshop.
+
+**David DeLallo:** I've always toyed with it, but never knew it.
+
+**David DeLallo:** And my girlfriend's a textile designer, and she's like this with it.
+
+**David DeLallo:** So I was like, okay, I'm going to try to do this, and I'm going to keep asking you a million questions.
+
+**David DeLallo:** And then it just, it took on a life of its own, and I started getting fans, and I ran it for about six months, and it was fun.
+
+**David DeLallo:** And so just that kind of creativity energizes me.
+
+**David DeLallo:** And
+
+**David DeLallo:** You know, just trying to figure out, like you said, like, what is the right workflow?
+
+**David DeLallo:** mean, there's like a million tools.
+
+**David DeLallo:** You see all these people post these crazy, you know, one-sheeters of like, but it's, you know, here's 50 things to use and 500 ways to use it.
+
+**David DeLallo:** And it's, you know, that's like completely overwhelming.
+
+**David DeLallo:** So, you know, what is like the formula?
+
+**David DeLallo:** So I've been kind of jazzed by figuring that out.
+
+**David DeLallo:** And, you know, certain types of content energized me as well.
+
+**David DeLallo:** I had a pretty cool project that I worked on with PwC for about a year on like a modeling exercise to see how AI and sustainability movements would affect the global economy and all these kinds of things.
+
+**David DeLallo:** So, yeah, so those are the kind of things that are jazzing me lately.
+
+**Marcel Santilli:** That's awesome.
+
+**Marcel Santilli:** Okay, so then the opposite side of that is like, what are the things that absolutely drain the life out of you?
+
+**David DeLallo:** I mean, you know.
+
+**David DeLallo:** We of working together, and one of them we created, I didn't create it, but I helped a little, a model that would quantify the value of doing AI responsibly, and to me and the guy that created the model basically did a write-up on it.
+
+**David DeLallo:** And so this one was particularly funny because, you know, when you work at these organizations, they prefer that, you know, a partner is somebody that publishes it.
+
+**David DeLallo:** So I was literally like running around looking for somebody who would just like come on board, you know, and I had to go through, you know, five different people, not because they didn't like the content, but just because, you know, they don't, they just didn't have the time to engage in the work.
+
+**David DeLallo:** Just to find somebody to say, like, I'm going to, like, gift this to you, you know, and develop it for you, and, you know, are you interested?
+
+**David DeLallo:** And so I finally found
+
+**David DeLallo:** So buddy and actually have published like a week ago.
+
+**Marcel Santilli:** Yeah, that's awesome.
+
+**Marcel Santilli:** And so like we'll love to kind of understand a little bit more, especially like with technical topics too, right?
+
+**Marcel Santilli:** It's always tricky because people's just definitions of quality are different, you know, stakeholder alignment.
+
+**Marcel Santilli:** Like it's always like a tricky thing depending on who you're working with, right?
+
+**Marcel Santilli:** So like how do you approach it at like quality overall and quality can mean so many things, right?
+
+**Marcel Santilli:** Like especially within like technical content or content for technical audiences.
+
+**David DeLallo:** Yeah, I mean, you know, all the attributes are, of course, you know, well-written.
+
+**David DeLallo:** You've got the key information up at the top.
+
+**David DeLallo:** Your logic, I mean, what I find with a lot of people, you know, and AI isn't really helping, in this area in some ways is.
+
+**David DeLallo:** It's like the logic is always a bit off as they're trying to progress from one, you know, thought to another.
+
+**David DeLallo:** So a lot of times I get a draft and I back it out into an outline because I need to be able to show them, like, here's the flow that, you know, I think makes sense, you know, and sometimes people, you know, oh no, I did all this work and now you're stripping it all out.
+
+**David DeLallo:** But once I, once we get into the process, they see the value of it.
+
+**David DeLallo:** So that's something that I started doing a long time ago that I've, I've felt has been really helpful as one way.
+
+**David DeLallo:** And in terms of, you know, the stakeholder inputs, I'm just so used to, you know, taking them all and kind of working them in.
+
+**David DeLallo:** And it's just a lot of explanation.
+
+**David DeLallo:** You know, I never submit a draft with less than 10, you know, comments.
+
+**David DeLallo:** And it's on the side explaining, why am I doing this?
+
+**David DeLallo:** Why am I doing that?
+
+**David DeLallo:** And that's also, you know, been incredibly helpful to get the buy-in.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Are there like, are there any examples like recently where, especially with using AI in different ways, that you've been able to kind of gain leverage on that process of achieving quality?
+
+**Marcel Santilli:** Or just any examples of any unlocks that come for you?
+
+**David DeLallo:** Yeah, mean, you know, probably like most writers, I have my custom GPT that I call Write Like Me, that I continue to feed it pieces and use it when I'm doing rewrites.
+
+**David DeLallo:** You know, if I have something and I can throw a whole paragraph in, I find that when you throw the whole piece in, it still sort of breaks down a little bit.
+
+**David DeLallo:** But if I do it in chunks, just sort of like similarly to what I'm doing with humans, where I kind of boil it down to the...
+
+**David DeLallo:** Outline and then start working on just one section at a time that it provides more of a lift for me.
+
+**David DeLallo:** And just sometimes I'll dump in an entire draft and say, give me five different ways to restructure this for a better flow.
+
+**David DeLallo:** And that will, you know, land me on something, whether it's a combination of a few of the suggestions or, you know, sometimes you get the direct hit.
+
+**David DeLallo:** Um, so that's, that's a way that I've been using it for leverage.
+
+**Marcel Santilli:** Nice.
+
+**Marcel Santilli:** Nice.
+
+**Marcel Santilli:** Um, and, and I guess like, um, in, as you think about this role specifically, right?
+
+**Marcel Santilli:** Like, are there areas that you're really excited about, but maybe haven't done as much or, you know, how, yeah.
+
+**Marcel Santilli:** How are you thinking about this role, uh, you know, as, kind of like a shift from, or, or just like an evolution of what you've done before?
+
+**Marcel Santilli:** There's a couple aspects to it.
+
+**David DeLallo:** I like to problem solve and I like to think about the technical side of things.
+
+**David DeLallo:** So I'm excited to be able to be kind of seeing what's coming from the content managers and identifying, okay, this is like repetitive issue keeps happening over and over again.
+
+**David DeLallo:** Let's dig into like what's causing that and be able to influence, you know, the tools that we're using or how we're setting them up to improve upon that.
+
+**David DeLallo:** So that part I enjoy.
+
+**David DeLallo:** And, you know, while I have contractors that I work with right now, I just miss being part of a team and having people to work with and coach.
+
+**David DeLallo:** So I'm excited to have that element again as well.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** I love that.
+
+**Marcel Santilli:** Are there
+
+**Marcel Santilli:** But like, yeah, like kind of how do you think about like, there's always kind of like this almost like two, a few sides, right?
+
+**Marcel Santilli:** There's the delegating and directing people.
+
+**Marcel Santilli:** There's like almost like delegating and directing AI workflows by creating leverage.
+
+**Marcel Santilli:** And then there's like doing it yourself, you know, a bit more.
+
+**Marcel Santilli:** And then there's like getting inputs from the stakeholders, the customers and things like that, you know, and kind of like connecting the dots for them, you know, like how do you like think through all those things or some of those like more energizing than others or, you know, you certainly have experience on multiple of those, but just curious.
+
+**David DeLallo:** I mean, I like all aspects of it.
+
+**David DeLallo:** I like getting to sit down and like guys doing this afternoon and just really like dig into some content and, you know, I'm a creator.
+
+**David DeLallo:** like to make stuff.
+
+**David DeLallo:** But, you know, I do enjoy working with people too.
+
+**David DeLallo:** So helping them to make stuff and having success and seeing them grow, you know, I appreciate that as well.
+
+**David DeLallo:** You know, and with stakeholders, you know, I enjoy the variety, even that I have right now and the different ways that people operate and having to sort of adjust the way I operate accordingly.
+
+**David DeLallo:** And, you know, you kind of become part of their team in a way.
+
+**David DeLallo:** And so I've been sort of leaning on that for my socialization over the last two years.
+
+**David DeLallo:** So I like the mix, I would say.
+
+**David DeLallo:** I'm a person that likes a lot of different kinds of stimulation.
+
+**David DeLallo:** You know, even in my personal life, people joke about, like, how do I have time for all my hobbies?
+
+**David DeLallo:** Because I play in a band and I like to golf and I have a motorcycle and I play tennis with my girlfriend and I do all these
+
+**David DeLallo:** Things and like, how do you have time?
+
+**David DeLallo:** And I'm like, I need, I need that.
+
+**David DeLallo:** You know, I like the variety.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** I like that.
+
+**Marcel Santilli:** So it's like, give me the, you know, don't, don't keep me doing the only one thing every single day kind of thing.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** That's super, super helpful.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** I've got a couple of quick ones and then I'm happy to kind of answer more questions, but how would a stakeholder that you've worked with recently describe you?
+
+**David DeLallo:** How would they describe me?
+
+**David DeLallo:** I think they would describe me as somebody that is really invested in the quality of the end product for them.
+
+**David DeLallo:** And who's really somebody that can think about the big picture and what they want to get out of it.
+
+**David DeLallo:** And making sure that that's the sort of guiding principle.
+
+**David DeLallo:** I would say they probably describe me as having a good sense of humor.
+
+**David DeLallo:** I try to keep it light throughout the projects, unless, again, somebody's just not to that approach.
+
+**David DeLallo:** I would say they would find me to be detail-oriented, very good at tracking where things are and kind of staying on top of that and staying on top of them in a kind way to nudge them along.
+
+**David DeLallo:** And, you know, they keep coming back, right?
+
+**David DeLallo:** So I think they find me as somebody reliable that they have on their team as sort of an extension of their team and of themselves.
+
+**Marcel Santilli:** And then how would someone you delegated to or reported to you describe you?
+
+**David DeLallo:** They probably would describe me as fair and someone that leads by example.
+
+**David DeLallo:** I definitely hold people to a high standard, but I hold myself to probably a higher one.
+
+**David DeLallo:** So I think people enjoy working with me because they feel like I'm in it together with them.
+
+**David DeLallo:** And also somebody that's focused on their growth and development and identifying their strengths and putting them in positions to, you know, exhibit that strength.
+
+**David DeLallo:** But also seeing where they could improve.
+
+**David DeLallo:** And...
+
+**David DeLallo:** Yeah.
+
+**David DeLallo:** I'm working with them to do that.
+
+**David DeLallo:** So somebody that's invested in the people that I'm delegating.
+
+**David DeLallo:** And again, friendly and doing it all with a light heart.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** I love that.
+
+**Marcel Santilli:** Well, I want to be mindful so that you have some time to ask me hard questions too, you know?
+
+**David DeLallo:** What's keeping you up at night right now?
+
+**Marcel Santilli:** Capacity.
+
+**Marcel Santilli:** Like, we've been building our platform and every single day it's like a new thing that adds more leverage to the team and makes things better and more trackable and things like that.
+
+**Marcel Santilli:** But at the end of the day, there's just like, kind of, you can't defeat gravity either, you know what mean?
+
+**Marcel Santilli:** Like, because we're not signing up to, like, the way we've kind of positioned ourselves is not to do exactly what everyone does, but slightly cheaper.
+
+**Marcel Santilli:** It's not to do, you know, like, what we're doing is, like, hey, you're paying us $9,000 to $60,000 a month, right, to publish for you daily and refresh content daily for you.
+
+**Marcel Santilli:** And in some cases, like, that's a big ask, you know.
+
+**Marcel Santilli:** And so, like, there are content agencies and freelancers that, I mean, you know this, like, at IBM, right, like, we used to pay, like, 50 cents to $2 a word for some pieces of content, right?
+
+**Marcel Santilli:** And so, how do you do at higher quality than that before 10 cents a word on average, right?
+
+**Marcel Santilli:** Like, and way faster, but also do A to Z, do the graphics, staging the content, SEO audits, like, whatever is necessary.
+
+**Marcel Santilli:** I think you essentially take on all the messy work, right?
+
+**Marcel Santilli:** And so, that's a huge advantage.
+
+**Marcel Santilli:** That means we can close, you know, $200,000 deals very quickly, but also it's like we're taking on the messy work and that challenges us, right?
+
+**Marcel Santilli:** And so, and customer expectations are really hard because, you know, the people that are really...
+
+**Marcel Santilli:** Good in content and quality are not necessarily the ones that are really good at talking to customers and getting the right inputs.
+
+**Marcel Santilli:** And they also might not be the right ones to push back and align on things and set expectations, you know.
+
+**Marcel Santilli:** And so there's like a lot of these things that, but I think the one right now, we've kind of gone through this phase where the company grew really fast the last few months as well.
+
+**Marcel Santilli:** And so now we're in this phase of like, oh, crap, like we need to run up capacity, you know, like tech alone won't get us to, to capacity in order to serve all these new customers, you know, which is a great problem to have, you know.
+
+**David DeLallo:** And how do you think about the growth of your employees as you're trying to grow?
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** I think like the way I kind of think about it is a little bit different.
+
+**Marcel Santilli:** It's like a company's responsibility is not to like necessarily grow people's career.
+
+**Marcel Santilli:** It's to like set up the.
+
+**Marcel Santilli:** company for success so that the best people benefit and will rise up to the challenge and have plenty of challenges to tackle and essentially like help them, give them all the support they need in order to knock it out of the park and do a good job.
+
+**Marcel Santilli:** And in the process of doing that, they're going to learn and they're going to grow and we're going to reward disproportionately the best people, you know, and so it's like, that's kind of like more of my approach versus it's like, well, you didn't teach me this, I didn't do it.
+
+**Marcel Santilli:** But, you know, it's kind of like, I think so much information is kind of out there and people can learn and there's a lot, we have a ton of documentation and things, but I think that's kind of how we approach.
+
+**Marcel Santilli:** But I also like focus really quite a bit on like people that grow fast and are rising up to the challenge, like they get promoted quickly, we reward them in any way we can, like we've promoted people within two months of joining, although that's not the norm.
+
+**Marcel Santilli:** And we've, you know, we've, them opportunities.
+
+**Marcel Santilli:** And so it's really ultimately like.
+
+**Marcel Santilli:** Like the speed at which someone can grow here is like, you know, correlated to how quickly they want to grow and how much they want to do and how much the impact they can have.
+
+**Marcel Santilli:** And, you know, and so I think that's definitely like different than being at IBM or something like that, right, where it's just like I was five years in and it's like, you really don't want to promote me after I got in like top review on everything because you say I don't have enough management experience, but how can I get more management experience?
+
+**Marcel Santilli:** You don't give me more, you know, it's like the whole politics of that's just , you know, right.
+
+**David DeLallo:** Totally.
+
+**David DeLallo:** And you have, I think, Mariela said 70, about 70, 75 people now?
+
+**Marcel Santilli:** Yeah, like give or take between 70, 75.
+
+**David DeLallo:** Yeah, that's about right.
+
+**David DeLallo:** Yeah.
+
+**David DeLallo:** And you're hiring how many at the moment?
+
+**Marcel Santilli:** It's really like in phases, there's, I think, like roles that are going to be kind of evergreen that we're constantly hiring, you know, like, and constantly maintaining like a really strong, strong.
+
+**Marcel Santilli:** Pipeline of, like, amazing candidates, you know, and then there's some that are going to go in phases.
+
+**Marcel Santilli:** So right now, like, we're hiring, like, maybe, like, four or five more engineers and a few folks, like, data scientists and a few others.
+
+**Marcel Santilli:** And then on the delivery side, like, between five and ten at least.
+
+**Marcel Santilli:** But then we're, you know, there's a very strong chance that we'll be even more aggressive very, very soon, you know.
+
+**Marcel Santilli:** So you can probably guess why.
+
+**David DeLallo:** And what do you see happening as the platform, you know, kind of gets more solidified and you're potentially, you know, offering that directly?
+
+**David DeLallo:** Are you?
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** So our vision is not to turn this into kind of like this, the growthx side into a self-serve thing anytime soon.
+
+**Marcel Santilli:** And so it's rather to take components of it that are really critical and are really good.
+
+**Marcel Santilli:** And then maybe.
+
+**Marcel Santilli:** We monetize as a softer play, but almost kind of like a lighter play.
+
+**Marcel Santilli:** So the way we think about a lot of what we're doing is almost like a Palantir slash hard VAI model, but for content, and we're continuously building.
+
+**Marcel Santilli:** And then the infrastructure of the platform we're building, then that, there's a lot of things we're planning to actually release that, either as open source and or cloud hosted with open source or different versions.
+
+**Marcel Santilli:** That's really like a Landgraf-like platform that we build for ourselves.
+
+**Marcel Santilli:** It's like, you know, anyways, there's a lot there that we build.
+
+**Marcel Santilli:** It's really, really awesome.
+
+**Marcel Santilli:** And we're like, it would be a disservice if we just keep this locked up.
+
+**Marcel Santilli:** And then GrowthX continue to be kind of this high-end service, but with a platform that then we're not opening it up as in like, here you go, good luck.
+
+**Marcel Santilli:** It's more of like, hey, you can go here and have an assistant.
+
+**Marcel Santilli:** You can go here and approve assignments.
+
+**Marcel Santilli:** You can leave comments.
+
+**Marcel Santilli:** You can see the analytics and the LL monitoring and things like that.
+
+**Marcel Santilli:** And so it's like, it's more of that versus.
+
+**Marcel Santilli:** Like, here you go.
+
+**Marcel Santilli:** Here's this blank thing.
+
+**Marcel Santilli:** Good luck setting it up, you know?
+
+**Marcel Santilli:** And so, and then I think there's like parts of it where definitely the strategy, the input, the output bar raisers, like there's a lot of those roles are, I think, always going to be really critical.
+
+**Marcel Santilli:** And then there's some, they're like really niche domain expertise that we're hoping to over time have what we call an expert layer, which is kind of almost like a marketplace type of approach to be able to tap into experts with niche expertise, you know?
+
+**Marcel Santilli:** So it's like, you have a doctor, a nurse, a, you know, a cybersecurity expert, you're not going to hire them full-time as an employee, you know, in order to do like three reviews, you know, a month or something.
+
+**Marcel Santilli:** And so like, that's part of it.
+
+**Marcel Santilli:** It's like, how do we scale this further as well?
+
+**Marcel Santilli:** So that's another part that we're considering.
+
+**David DeLallo:** Very cool.
+
+**David DeLallo:** I know we're running over time.
+
+**Marcel Santilli:** I don't want to.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Well, David, it's a pleasure to reconnect, you know?
+
+**Marcel Santilli:** So hope, hope we get to, to work together.
+
+**Marcel Santilli:** But I'll regroup with the team and, you know, I'm sure we'll be talking soon.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** Sounds good.
+
+**Marcel Santilli:** Have a good one, Marcel.
+
+**Marcel Santilli:** All right.
+
+**Marcel Santilli:** You too.
+
+**Marcel Santilli:** Take care.
+
+**Marcel Santilli:** See ya.

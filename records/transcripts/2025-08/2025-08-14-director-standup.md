@@ -1,0 +1,666 @@
+# Director Standup
+
+<metadata>
+date: 2025-08-14
+time: 19:02 UTC
+duration: 29 minutes
+organizer: Darrell Etherington (GrowthX)
+participants: Andi Bailey (GrowthX), Dave Capone (GrowthX), Darrell Etherington (GrowthX), Jakub Rudnik (GrowthX), Jason Gong (GrowthX), Kyle Gaudreau (GrowthX), Matthew Panzarino (GrowthX), Megan Dickey (GrowthX)
+fathom_recording_id: 80704637
+fathom_url: https://fathom.video/calls/379493655
+share_url: https://fathom.video/share/GAY3vM3sQ8bREtJ--viDDP2-C7SDUShb
+source: fathom
+enriched_on: 2026-03-03 14:32 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX's director-level team aligned on LLM optimization strategy, acknowledging that precise tracking of LLM appearances isn't yet technically feasible but emphasizing a collaborative, research-driven approach to client discussions. The team committed to creating a resource documenting LLM optimization experiments (llms.txt, shadow sites, Reddit authority building, on-page elements), establishing a research roadmap with a data science partner, and integrating LLM optimization as a foundational element in client conversations and content ideation rather than a separate workstream.
+
+---
+
+## Context
+
+This meeting brought together GrowthX's leadership to align on how the company approaches AI visibility and LLM optimization—a foundational capability for the AEO (AI Engine Optimization) work across client engagements. The team has been fielding repeated client questions about how often their content appears in LLM responses and how to track/measure impact, but discovered that Fathom (GrowthX's own product) and other companies pursuing this problem have hit the same technical ceiling: precise, granular reporting of LLM mentions isn't feasible yet, despite strong industry motivation to solve it. Rather than treating LLM optimization as a discrete experimental track, the team decided to embed it into core client delivery and structure their experimentation methodically to generate proprietary first-party research that serves both clients and GrowthX's competitive differentiation.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- GrowthX will position LLM optimization as a foundational tenet across all client engagements—not a separate workstream but integrated into content ideation, on-page optimization, and editorial strategy
+- Standardizing a repeatable experimentation framework (FAQs, summaries, Reddit authority, shadow sites) allows the team to generate cross-client insights and validate hypotheses at scale
+- Resource constraints (mainly Dave Capone and Jason Gong's partial time, plus external data science collaboration) require prioritizing high-leverage experiments; the team agreed to focus on "actioning" (how to get cited) over pure tracking methodology
+
+**To CheckThat:**
+- LLM optimization research directly feeds CheckThat's value proposition as an AI visibility index; Fathom meetings and competitive intelligence reveal no one has solved granular LLM tracking yet, creating a whitespace opportunity
+- Megan Dickey highlighted a competitive gap: understanding the actual search queries LLMs use (e.g., via Claude API introspection) could position GrowthX/CheckThat ahead of Scrunch and Profound for content-to-LLM relevance matching
+
+**To GrowthX Business Development:**
+- Account stickiness and renewal confidence improve when clients see GrowthX conducting proprietary research and treating them as experimental partners; clients like Galileo, Augment Code, and Monograph show strong appetite for experimentation even without hard attribution
+- Matthew Panzarino is already embedding LLM optimization into client conversations as a default selling point; scaling this narrative requires the structured resource Jason is building so the team stops giving "slightly different answers each time"
+- Competitive differentiation: GrowthX's cross-client visibility and systematic approach to experiments contrasts sharply with self-serve tools like Profound's content generation feature; services layer positioning is key
+
+---
+
+## Overview
+
+- Current LLM tracking methods are directional; precise quantification isn't yet possible, but industry motivation exists to solve it
+- Team to create a resource documenting LLM optimization experiments (llms.txt, shadow sites, Reddit authority, on-page elements) with common Q&As and first-party research
+- GrowthX to develop a research and experimentation roadmap with structured data collection, potentially collaborating with a machine learning/data science expert to ensure sound methodology
+- Emphasis on treating LLM optimization as a foundational tenet integrated into all client work, not a siloed workstream; success depends on systematic experimentation and cross-client knowledge-sharing
+
+---
+
+## Key Topics
+
+### LLM Tracking Challenges
+
+  - Difficulty in precise tracking due to directional, repetitive searches
+  - Industry motivation exists to develop tracking solutions, but not technically feasible yet
+  - Need for a unified "talk track" to address client questions about LLM appearances
+  - Importance of educating clients on current limitations and focusing on actionable strategies
+
+### Optimization Experiments
+
+  - LLMs.txt approach: formatting top links for LLM consumption
+  - Shadow site concept: creating LLM-optimized duplicates of content
+  - Reddit strategy: building authoritative presence through Q\&A posts (e.g., Monograph, Fathom)
+  - On-page optimizations: testing individual elements like FAQs and summaries
+  - Exploring LLM search queries to inform content creation (similar to SEO for LLMs)
+
+### Research and Development
+
+  - Plans to conduct first-party research to answer unique questions
+  - Potential collaboration with a machine learning/data science expert (Daniel's wife)
+  - Need to structure experiments for sound data collection and analysis
+  - Balancing urgency of development with resource constraints
+
+### Client Communication and Value Proposition
+
+  - Treating LLM optimization as a foundational tenet in client discussions
+  - Emphasizing GrowthX's cross-client insights and experimentation as a key differentiator
+  - Integrating LLM considerations into content ideation and creation processes
+  - Communicating ongoing efforts to develop proprietary tooling
+
+---
+
+## Action Items
+
+**Jason Gong (GrowthX)**
+- Create draft structure for LLM experiments/tracking resource page, including common Q&As, first-party research findings, and reputable sources. Target delivery next day or two.
+- Set up call with Daniel's wife (machine learning/data science expert) to discuss research roadmap for LLM experiments and ensure sound data collection methodology.
+- Prepare initial list of prioritized LLM optimization experiments with potential client candidates for each experiment type.
+
+**Dave Capone (GrowthX)**
+- Break down large document of on-page LLM optimizations into smaller, testable chunks. Prioritize experiments by feasibility and likely impact.
+
+**Kyle Gaudreau (GrowthX)**
+- Identify potential client candidates from current roster for LLM optimization experiments. Coordinate with Jason on prioritized experiment list.
+- Report back on resource availability to support experimentation workstream alongside existing responsibilities.
+
+**Andi Bailey (GrowthX)**
+- Schedule next geo-conversation meeting for Wednesday or Thursday to review Jason's LLM experiment structure and priorities. Ensure cross-pod alignment on experimentation process.
+
+---
+
+## Transcript
+**Andi Bailey:** We didn't do it yesterday.
+
+**Andi Bailey:** And so we've gotten a couple of questions about like really more detailed tracking on like how often we're showing up in specific LLMs and how they're doing against that and against like over time.
+
+**Andi Bailey:** I think the difficulty is we don't really know because all of these are sort of like directional, repetitive searches.
+
+**Andi Bailey:** And so, but if we keep getting these questions, I think we should like align on a talk track and then see what else, like what kind of granular reporting we can offer or how we redirect these kinds of questions.
+
+**Jason Gong:** Yeah, I mean, I've read the questions.
+
+**Jason Gong:** I feel like how we've generally been handling it is like educating on tracking.
+
+**Jason Gong:** It's kind of just, like, it's not, you know, like, totally quantifiable.
+
+**Jason Gong:** It's, like, And then trying to anchor in, like, the action part of it, you know, like, not only even, like, writing high-quality things, you know, and, like, mapping it to people and their problems, like, is what matters.
+
+**Jason Gong:** And here's, like, anecdotally some instances where that works super well.
+
+**Jason Gong:** Well, I'm not saying that's what we should do, but, like, currently I think that's what roughly we've been doing.
+
+**Jason Gong:** Even in the workshop, you know, that's kind of, like, the track we took there.
+
+**Jason Gong:** I guess for everyone here, like, how does that feel?
+
+**Jason Gong:** Like, I know you've been addressing these questions, like, constantly.
+
+**Jason Gong:** Does that feel like a comprehensive enough answer?
+
+**Jason Gong:** Or do you think people will just kind of, like, poke holes at that?
+
+**Jason Gong:** And, like, what do you think they'll say?
+
+**Darrell Etherington:** We just had a call come up on the engine one.
+
+**Darrell Etherington:** I think they're a reasonable customer in this regard because they do a lot of their own research too.
+
+**Darrell Etherington:** Like James, James searched or shared that they were just on a workshop with a guy talking about it.
+
+**Darrell Etherington:** And like I kind of shared the more client-friendly version of what I shared in the channel.
+
+**Darrell Etherington:** Like a lot of this stuff is not just available like to the model makers as well as to us, but when and if they can figure out how to track it and report it, they will because they don't want the opposite to happen, which is Scrunch and a million other companies like them start sending thousands and thousands of bot traffic calls to their websites, clogging up their service and burning their resources.
+
+**Darrell Etherington:** So like motivations and impetus are there.
+
+**Darrell Etherington:** It's not technically possible yet, just no matter what anyone says. And they're asking because they've tried to find and couldn't find that solution anywhere, right?
+
+**Darrell Etherington:** So I think it's fine to be honest about, like, you cannot do granular, like, accurate reporting of LLM appearances at the moment.
+
+**Darrell Etherington:** But there's tons of motivation for the industry to arrive at a solution.
+
+**Darrell Etherington:** And we will be the first ones to see that solution when it comes, right?
+
+**Darrell Etherington:** Like, because we're at the cutting edge of it.
+
+**Darrell Etherington:** That's how I had that conversation.
+
+**Jason Gong:** They appreciated it.
+
+**Jason Gong:** Like, when they ask, does it feel more like they just want to learn how it works?
+
+**Jason Gong:** Or they're trying to kind of, because, like, we have to justify, I guess, what we're doing back to optimizing for LLMs.
+
+**Jason Gong:** And, like, they're trying to draw a line, and that line's not super clear, right?
+
+**Jason Gong:** Like, what are they?
+
+**Darrell Etherington:** Yeah, well, these ones are, like, maybe they're more progressive in this regard.
+
+**Darrell Etherington:** Like, they're willing to do the experimentation, even in absence of, like, hard quantifiable results. We were talking about llms.txt, for instance, because we produced one for them, and they were like, in the workshop, the guy said LLMs didn't work at all, but what did work was putting explicit direction in his robots.txt file, allowing LLM crawling, and encouraging, inviting LLM crawling.
+
+**Darrell Etherington:** And I was like, that's an interesting approach, it's an N of one, I think we'll take that back, and experiment it against our other, or examine it against our other experiments, but like, ultimately, yeah, it's an N of one, I don't know what the person's profession does who is doing the workshop, but like, he clearly has motivations, but we're in the state of like, we should try these things.
+
+**Darrell Etherington:** But we should also try these things in serial, I told them, because it doesn't make sense to try a bunch of experiments at once, and then say it worked, and say what worked, and it's all of the things, right?
+
+**Jason Gong:** So, I guess I mean, like, what I'm hoping to create, is like, something that everyone
+
+**Jason Gong:** And can refer back to like all this stuff we're saying now just to like kind of shape it so it's easy to communicate and then maybe even like something public you can just point them to so you don't have to do that heavy lifting of like explaining every time.
+
+**Jason Gong:** And I'm trying to ask who will be the most helpful way to like because I think these questions come up all the time and it's like we have slightly different answers each time.
+
+**Andi Bailey:** It might be useful for us to have like a one pager or something about like the experiments that we've seen across the internet.
+
+**Andi Bailey:** And like we don't know the results of these but if you want to try any of them like we're game.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** And that's like document a menu that they can look at rather than like kind of talking to them a little bit more broadly because I think we've brought up things like as we've seen them.
+
+**Andi Bailey:** But I don't know if we're keeping track of like a menu that like if something looks interesting to them we can try.
+
+**Darrell Etherington:** Yeah, like that one that I brought up about town, like that's an interesting one.
+
+**Darrell Etherington:** We should definitely try that.
+
+**Darrell Etherington:** Also, should write it down and like put it on the menu, right?
+
+**Darrell Etherington:** Like LLMs.txt for our current approach, also interesting, right?
+
+**Darrell Etherington:** Like we're basically finding the top links on your site.
+
+**Darrell Etherington:** Dave can speak more intelligently about this than I can.
+
+**Darrell Etherington:** And then like formatting them for LLM-based consumption all in one place.
+
+**Darrell Etherington:** But like the approach town CEO found that he wants to try, I think is also interesting in that you create an entire shadow site with duplicates of all of your site's content that are LLM formatted, but not human reader formatted.
+
+**Darrell Etherington:** And they live unindexed alongside the content, but they're represented, they're pointed to in the LLMs.txt thing, right?
+
+**Darrell Etherington:** So I can see that working in the same way logically I can see why the other thing might work, right?
+
+**Darrell Etherington:** But, um...
+
+**Darrell Etherington:** Those are two really formal, tangible experiments that we could present as options to people.
+
+**Darrell Etherington:** Now, we wouldn't want to, like, we're going to go back and, like, shadow clone your website in its entirety for LLMs because that is a monumental task that would bankrupt us or whatever.
+
+**Darrell Etherington:** But, like, we can do it for new content going forward and see if it has an impact, right?
+
+**Darrell Etherington:** Because it's easy to set up a pipeline, in theory, that would produce at the end both a human-readable and an LLM-optimized version of content for you to then post or distribute.
+
+**Dave Capone:** It's like going back to the days of when we didn't have responsive websites and we had to have an alternate version of our mobile site or your desktop site.
+
+**Dave Capone:** Think of it as an alternate version for an LLM, right?
+
+**Dave Capone:** So, in essence, you could have a rel-alternate tag point to this particular shadow copy.
+
+**Dave Capone:** I like that term.
+
+**Dave Capone:** going to go back.
+
+**Kyle Gaudreau:** What, you no-index the shadow version so it doesn't get picked up by Google?
+
+**Dave Capone:** Yeah.
+
+**Darrell Etherington:** This was kind of like Jean Denis, that's exactly how he described it.
+
+**Darrell Etherington:** It's like, yeah, one is in robots, one is in LLMs, and they're both, like, blocked from the other element.
+
+**Kyle Gaudreau:** I mean, I'm highly skeptical that it's worth the time and effort, but, hey, I've been wrong many times before.
+
+**Jason Gong:** I would question the impact for effort of that.
+
+**Jason Gong:** I'm trying to think, like, I think all these experiments are super interesting.
+
+**Jason Gong:** Like, I want to do them.
+
+**Jason Gong:** I'm trying to think of a structure that makes it all hang together in a resource that's helpful.
+
+**Jason Gong:** Like, I mean, for good and bad, I keep going back to, like, this stupid thing, you know, referencing it.
+
+**Jason Gong:** And I think what they do well is, like, it's one place, and it's just, like, kind of, they're just building on it.
+
+**Jason Gong:** But I'll say, like, they don't really do a ton to answer some of the stuff we're talking about, but just in general, like, they never have to answer the question of, like, you know.
+
+**Jason Gong:** Is kind of optimizing for elements important because they, you know, like they can just kind of point back to this.
+
+**Darrell Etherington:** Yeah, you could build this right on the output or the, what's the other property with workshops?
+
+**Jason Gong:** Yeah, I like growth.
+
+**Jason Gong:** We're actually merging that together.
+
+**Jason Gong:** But yeah, I think this would be helpful.
+
+**Jason Gong:** I guess I'm trying to think through like the main entities here.
+
+**Jason Gong:** Like I think one of them is just the efficacy of tracking even or just like what the hell tracking even is and like what are you doing there and all the open questions.
+
+**Jason Gong:** Like that's a bucket for me.
+
+**Jason Gong:** There's a bucket around like what are the things that correlate with like getting mentioned in site and like where you, we can actually like shape that and having proof.
+
+**Jason Gong:** That's like another bucket.
+
+**Darrell Etherington:** Well, in editorial brain, like you would have a big explainer for all of these and those would be your large canonical evergreen updated pages on this site, right?
+
+**Darrell Etherington:** Like what is LLM tracking and how does it work?
+
+**Darrell Etherington:** And like you just update with best current information.
+
+**Jason Gong:** Like, quarterly, once monthly, or however often you get that.
+
+**Jason Gong:** Okay.
+
+**Jason Gong:** I'm trying to think if there's anything else.
+
+**Jason Gong:** I mean, there's, like, the whole tracking part of it.
+
+**Jason Gong:** There's the whole actioning and, like, trying to influence part of it.
+
+**Darrell Etherington:** If you really wanted to get fancy, you could, on subpages on here, live, do these various experiments, and then, like, report back the results, too.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I guess I'm trying to think of, like, a V0, just getting that out.
+
+**Jason Gong:** And then, I think just having, like, almost, like, a whole site dedicated to that, you know, would be interesting.
+
+**Jason Gong:** I'm trying to think through the bandwidth to do that.
+
+**Jason Gong:** Let's see.
+
+**Jason Gong:** Because, like, something, I guess, David and spent some time with is just, for all our work streams, it's not, like, super clear what we even do and what we want to offer.
+
+**Jason Gong:** So, for example, for AOGO, right, like, we, right now, kind of, all we do consistently is tracking prompts.
+
+**Jason Gong:** Like, I think some of us, like, use the insights.
+
+**Jason Gong:** I don't know if anyone knows.
+
+**Jason Gong:** We have all these ideas around how to optimize on-page, but I don't think any of it's made its way back into any of our workflows, or how we write, we want to do an audit.
+
+**Jason Gong:** this is how mentally I'm thinking about it, and we can't do all this at the moment, but here are the ones we're prioritizing.
+
+**Jason Gong:** Like L1.txt is like one where it's like, I wouldn't say it's really table stakes, it's just like something we're trying, you know?
+
+**Jason Gong:** This is also something we're trying, like urn mentions, like trying to go on Reddit, and it's kind of what backlinking is, or should be.
+
+**Jason Gong:** Hopefully this is helpful, I guess, based on what you guys see here, do you think there's anything we're not prioritizing?
+
+**Andi Bailey:** Jacob, is Homebase trying to summarize with ChatGPT button that Airbyte did?
+
+**Jakub Rudnik:** It seems like they were really interested, and they were asking me for more details this week, but we haven't met since then, so I think that's pretty
+
+**Jakub Rudnik:** Likely, but I don't know, 100%.
+
+**Megan:** Yeah, something that I was talking to with the guys from exec last week was just trying to get a deeper understanding of the search queries that LLMs are actually using.
+
+**Megan:** And then essentially, essentially then doing SEO for those search terms so that then when the LLM is like, you need to do outside research that the articles that we're producing are the ones coming up.
+
+**Megan:** And like, yeah, like I was talking to Andy about this and like, it would be a little bit more of like a manual process, but like I know that we're working on our own, our own like tooling for this, essentially like our own version of Scrunch.
+
+**Megan:** Like if there's some way where we could force the, and Claude already, or one version of Claude already lets you do this, where it like shows like what it's actually searching.
+
+**Megan:** And so if we could somehow...
+
+**Megan:** Access that, I think that could also be like another, another value add that we, that we can offer that I think like is currently not available in like Scrunch or, or even Profound.
+
+**Jason Gong:** Yeah, that's another thread we have going.
+
+**Jason Gong:** So Daniel's wife is a machine learning kind of like data science person.
+
+**Jason Gong:** And we were gonna get her to, um, help us just do some actual research ourselves.
+
+**Matthew Panzarino:** I think that's probably a different experiment too, Jason, that might be interesting to throw into the mix with Monograph.
+
+**Matthew Panzarino:** Um, we're going to spec out some content that we can build off of common questions that lead to Monograph being mentioned or prompts, you know, based on questions, um, and then fill the flesh out their Reddit account.
+
+**Matthew Panzarino:** So take their Reddit account, and then basically post one to five topics per week.
+
+**Matthew Panzarino:** that are question and answer based, where Monograph is basically on their own user account, saying, you know, hey, here's a common question we get, here's the answers, whatever, and then, basically, building a body of content for them on there, that makes them an authoritative source to answer those questions, or at least intimates that it is, because Reddit is by far the number one cited source for LLMs.
+
+**Jason Gong:** Sorry.
+
+**Jason Gong:** Who did you say that was?
+
+**Matthew Panzarino:** Monograph.
+
+**Matthew Panzarino:** Yeah, I just, I just, called it this week, so it's nascent, but I think it, I think it could be an interesting experiment.
+
+**Darrell Etherington:** That was based on that other client, right?
+
+**Darrell Etherington:** So we might have some data already.
+
+**Darrell Etherington:** Who's that client who was doing that?
+
+**Jakub Rudnik:** Jacob?
+
+**Jakub Rudnik:** Everybody did it as well.
+
+**Matthew Panzarino:** Oh, yeah, and, and, uh, is there any learnings from that, or did they notice anything?
+
+**Jakub Rudnik:** Uh, I haven't heard any more since initial findings, but on one, and I was able to recreate it to one of their, so, oh- or Oh
+
+**Jakub Rudnik:** Fathom being cited within 24 or 48 hours on one, I'll go back to my notes on it, but it was working.
+
+**Jakub Rudnik:** The thing with the Reddit that I think is, it's like mostly accurate, but it's also like the website with so much content too.
+
+**Jakub Rudnik:** So I wonder, I'm just curious, my own brand, like, is it the most cited because it's the best or also is it the most cited because there's just so much content.
+
+**Jakub Rudnik:** I think there's a little bit of a, know, probably neither here nor there.
+
+**Matthew Panzarino:** Everybody's the answer to your question.
+
+**Matthew Panzarino:** Cool, thanks.
+
+**Matthew Panzarino:** Yeah, I might have Nina reach out to somebody over there just to point at the concept they did so we can look at it.
+
+**Matthew Panzarino:** Just not like we'll copy it, but I kind of want to, like, get an idea of what did play at least.
+
+**Jason Gong:** I guess I'm trying to think through, like, action items.
+
+**Jason Gong:** Like, I think having our own kind of page or cluster of pages that answers the comments.
+
+**Jason Gong:** Questions and tries to do like first party research or point at kind of reputable sources.
+
+**Jason Gong:** That sounds useful.
+
+**Jason Gong:** So I think we can do that.
+
+**Jason Gong:** And then this like research project, I think helps answer questions that nobody else is answering.
+
+**Jason Gong:** I'm thinking, I guess for any of these, like we'll need like a client or something to like have as the topic.
+
+**Jason Gong:** Like maybe it sounds like monograph might be a good one.
+
+**Jason Gong:** think augment code is a good one just because they give us free reign to do whatever.
+
+**Jason Gong:** So like, yeah, and they pay us a lot, I guess.
+
+**Jason Gong:** So that's also a potential client.
+
+**Jason Gong:** I guess if anyone else has clients you think would make for a good guinea pig, I guess, for experiments, I think that would be helpful.
+
+**Andi Bailey:** But I think like some clients are like game to experiment, even if we don't have like a clear way to play.
+
+**Andi Bailey:** We don't have clear causation yet, right, of that.
+
+**Andi Bailey:** So I would say Galileo is so, so interesting, and they want to be cited, they want tracking, and I think they're interested in experimenting, but they want to know how it impacts them.
+
+**Jason Gong:** And without that answer, it's kind of like, well, we can try it, but like...
+
+**Jason Gong:** Yeah, okay, that's really helpful, where like, I guess we're almost, like this research almost doubles up as things to get client buy-in, and make them feel like we're actually doing stuff too.
+
+**Jason Gong:** So I think that's, yeah, instead of just doing this in a bubble, like we should kind of merge it almost with client work to some degree, so we're kind of getting value on both sides there.
+
+**Jason Gong:** Okay, well, I mean, I shared the doc, let me know if there's, I guess just fill it with anything that's already going on, because I think, the next step is getting Daniel's way for Daniel.
+
+**Jason Gong:** So I'm going call together to like figure out what our research kind of roadmap is.
+
+**Jason Gong:** then, because I think where she fits in is like making sure that the experiment is structured, maybe in like a sound way, you know, where like the data will be helpful.
+
+**Jason Gong:** So I want her in the loop.
+
+**Jason Gong:** Okay, so this is helpful too.
+
+**Jason Gong:** And then I guess the more immediate thing is like, yeah, I mean, whatever everyone's doing, just dumping questions in the Slack channel, I think is helpful.
+
+**Jason Gong:** I guess the way of answering will just be answering in the Slack, and then I'll try to make like an artifact for this that we can all reference going forward.
+
+**Jason Gong:** I was trying to make the notion of that, but I guess maybe it's just not structured well, or I mean, none of these answers are really like super well answered too.
+
+**Jason Gong:** Has this been helpful at all, or should I kind of stop putting effort into kind of adding to this?
+
+**Andi Bailey:** Like any feedback?
+
+**Andi Bailey:** Any feedback?
+
+**Andi Bailey:** On this thing in general?
+
+**Andi Bailey:** think this is, like, it's a helpful reference for me for sure.
+
+**Andi Bailey:** It's more like, how do we get started if we, you know, on pushing on any of these lanes might be.
+
+**Andi Bailey:** And that's a bit of a question for, like, we might need step one, step two, or like, what do the Emmys do?
+
+**Andi Bailey:** I think everybody gets a little bit in, you know, just keeps going with what they know, and they can give the answers, but, like, changing directions always takes a little bit more effort.
+
+**Jason Gong:** Okay, that makes sense.
+
+**Jason Gong:** Maybe, because I guess, I mean, this part, I feel like we have a good grasp on now, maybe minus the, like, I think our opinion on what prompts we should track will probably change as we do more research.
+
+**Jason Gong:** And then everything else, I feel like we're just not really doing, so, like, these two, I think are.
+
+**Jason Gong:** Ones that are super table stakes, and I guess maybe, Andy, we can figure out what the process is for each pod to adopt.
+
+**Jason Gong:** Like, for example, this one.
+
+**Jason Gong:** It's like, okay, we see what's cited, but is it feeding into our backlog of content we're creating?
+
+**Jason Gong:** Are we, you know, communicating that with the client, reporting or tracking if it's doing anything?
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** Yeah.
+
+**Dave Capone:** Okay.
+
+**Dave Capone:** I think with, like, directionally, on, like, the on-page optimizations, for example, like, I guess we don't want to roll, like, roll out a feature side-wide if we don't test it first.
+
+**Dave Capone:** Like, so I've been very, like, you know, putting together, like, these large documents of all the things that, you know, all the experts are saying that we should do to optimize the page for an LLM, right?
+
+**Dave Capone:** And I think it becomes a little unwieldy when we want to do everything.
+
+**Dave Capone:** So maybe it's taking that document, breaking it down into smaller chunks, and then testing those on certain partners to see if there's any impact on that or not.
+
+**Dave Capone:** I feel like that's probably more directional than giving an entire workflow and expecting to get the best results out of it.
+
+**Dave Capone:** Curious your thoughts on that.
+
+**Kyle Gaudreau:** I do like that it starts to feed into maybe some of the first-party stuff we're talking about, and sharing a perspective with clients, where it's just like, hey, we tested this across three, here's some of the things we learned, here's our approach, et cetera, arms the internal team.
+
+**Kyle Gaudreau:** I'm not sure exactly how it will work, but theoretically, finding a not-too-difficult repeatable system to capture this, and then make sure everyone has visibility on it, I think would help both internally and resonate with the clients quite a bit.
+
+**Jason Gong:** Yeah.
+
+**Jason Gong:** I think that makes sense, because I'm looking at this one, it's like, all these are testable, I don't know how long it takes to get a result, and whether some clients are just more urgently wanting to do something.
+
+**Jason Gong:** For example, FAQs, you know, you can run an experiment there, do it for 100 pages, not for another 100, and then same with summary.
+
+**Kyle Gaudreau:** Yeah, I think, like, here we could coordinate on, like, you know, the ones we think we should prioritize, and then maybe identify candidates, but the more we can do stuff like this, in my eyes, I think it helps us continue to just show our value in what we do, versus doing this in-house, like, we have to remember, like, you know, there is a value of, like, because we can see these things across multiple accounts, how do we, like, pay that forward for them, and accelerate their thinking, and especially during this period of time where  is changing so long.
+
+**Kyle Gaudreau:** So the better we can show that we're thinking about it, the stickier everyone should be.
+
+**Jason Gong:** Yeah, that makes sense.
+
+**Jason Gong:** So I guess if I was prioritizing, like there's like a few buckets of research, there's like the efficacy of just tracking how you should do it properly versus like, how do you actually like action on it to get cited or mentioned more?
+
+**Jason Gong:** Like, I think the latter is much more important to us.
+
+**Jason Gong:** Like, would you guys all agree?
+
+**Jason Gong:** Like, if were to spend research effort on one of those, like, it'd be, you know, stuff like this versus like, how do you pick the right prompts, you know, or.
+
+**Jason Gong:** Agreed.
+
+**Kyle Gaudreau:** Although it's kind of a chicken or egg situation.
+
+**Jason Gong:** Yeah, it is a little bit.
+
+**Jason Gong:** I think we just need more effort there.
+
+**Jason Gong:** don't really, like, originally it was like, hey, we can leverage Scrunch and then to do the research for us.
+
+**Jason Gong:** But now that we're going to try to compete with them, like, I guess we're not really doing that anymore.
+
+**Kyle Gaudreau:** Yeah.
+
+**Kyle Gaudreau:** For what it's worth, today was the first call I had with the prospect where they directly mentioned Profound's content generation feature and how they're considering it.
+
+**Kyle Gaudreau:** So, yeah, that's the urgency a little bit.
+
+**Jason Gong:** People have asked me about that, for sure.
+
+**Jason Gong:** I mean, I guess their way of addressing that is just like doing this and then coming up with their own product.
+
+**Kyle Gaudreau:** I think there's still a services layer that is still a key differentiation.
+
+**Kyle Gaudreau:** That's much more, that's closer to like an air-op self-serve play.
+
+**Kyle Gaudreau:** Right, right.
+
+**Kyle Gaudreau:** But regardless, like the more we can show our thinking, right, and like the differentiation around that side of the service, versus play, like that will just help us stand out.
+
+**Jason Gong:** Yeah, I guess I'm just trying to think of like the urgency of this and do we have enough resources to like do this quickly and really well.
+
+**Jason Gong:** I think obviously Dan's wife will help.
+
+**Jason Gong:** This is like a side thing, you know, and then on the team right now, really there isn't like a ton dedicated to this, you know, other than Dave and I's kind of like time on a portion of our time.
+
+**Kyle Gaudreau:** So, I'm I'm I'm I'm I'm
+
+**Kyle Gaudreau:** I'm I can find ways to jump in.
+
+**Jason Gong:** I'm not sure what that looks like.
+
+**Jason Gong:** Okay, cool.
+
+**Matthew Panzarino:** Yeah, wanted to talk about, just for like the client context, I'm basically treating it like it's a foundational tenet already.
+
+**Matthew Panzarino:** So even though we haven't built out work streams or anything for it, I honestly don't even know if that's the right approach.
+
+**Matthew Panzarino:** I think that we should just build it into like a foundational layer of the way we talk about everything.
+
+**Matthew Panzarino:** I'm certainly taking it into account when I'm generating like outlines or ideas or whatever.
+
+**Matthew Panzarino:** I'm just, I just stopped thinking about things in terms of SEO.
+
+**Matthew Panzarino:** I think, yeah, you know, SEO fundamentals are there.
+
+**Matthew Panzarino:** I can't avoid them because they're built into the pipelines, right?
+
+**Matthew Panzarino:** So I'm cool there.
+
+**Matthew Panzarino:** I'm treating that as a solved issue.
+
+**Matthew Panzarino:** We all know what the hell SEO does.
+
+**Matthew Panzarino:** And I know that it evolves over time.
+
+**Matthew Panzarino:** But right now, everybody cares about geo and nobody gives a  about SEO.
+
+**Matthew Panzarino:** Sorry.
+
+**Matthew Panzarino:** They just don't, right?
+
+**Matthew Panzarino:** Like, yes, they do.
+
+**Matthew Panzarino:** Sort of, if you mention it and really emphasize to them that they are interrelated and, you know, all of that, and then, you know, whatever.
+
+**Matthew Panzarino:** But they primarily care about Geo.
+
+**Matthew Panzarino:** So what happens is when a client says, oh, how are you guys thinking about Geo?
+
+**Matthew Panzarino:** I'm like, oh, I already take it into account.
+
+**Matthew Panzarino:** When we're creating your ideas, I treat them as, hey, how are we answering this question?
+
+**Matthew Panzarino:** Would an LL this well?
+
+**Matthew Panzarino:** Does the article read well to an LLM, a.k.a.
+
+**Matthew Panzarino:** does it provide clusters of questions and answers that can be pulled out rotatively?
+
+**Matthew Panzarino:** And so I just talk to them on the call and chop it up with them so that they go, I'm like, hey, we've got scrunched for now, but we're not totally satisfied.
+
+**Matthew Panzarino:** We want to build, right?
+
+**Matthew Panzarino:** So we're going to build tooling and we'll let you know, right?
+
+**Matthew Panzarino:** So, like, that's the way, just throwing that out there, if anybody's having client conversations, that's the way I'm handling it from that perspective.
+
+**Jason Gong:** I think just, yeah, okay, I think what's really helpful is, like, if we can just coordinate that together to make sure.
+
+**Jason Gong:** Because we're already doing the work, like, let's structure it as an experiment, kind of get the clients to, like, see we're doing it, so, you know, it's even helpful to, like, make them feel we're giving them value.
+
+**Jason Gong:** Yeah, so I guess let's do that.
+
+**Jason Gong:** Okay, so maybe dump in the channel if you're ready to do this.
+
+**Jason Gong:** It sounds like you guys already are, and then I'm going to work on kind of structuring something so that we have, like, all the experiments we want to run, and then we can see what clients we want to try with.
+
+**Jason Gong:** Because, like, I think about what we're doing for Augment, and it's like, okay, we're already doing this, and it's, like, taking one of the work streams that we're paying, like, 15K for, right?
+
+**Jason Gong:** So we're kind of, again, getting extra value.
+
+**Jason Gong:** Like, we're doing the work, and we're creating content, you know, that will give us more authority here.
+
+**Jason Gong:** Okay, more time.
+
+**Andi Bailey:** That's your next steps.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Yeah.
+
+**Andi Bailey:** Yeah, I think so.
+
+**Jason Gong:** All right.
+
+**Jason Gong:** Anything else?
+
+**Jason Gong:** Great.
+
+**Jason Gong:** Yeah, I'll try to get this in next day or two, and then we can all work together to figure out what experiments to run on our clients.
+
+**Andi Bailey:** Yeah, I mean, we usually do either Wednesday or Thursday geo-conversations, so we'll check in then.
+
+**Jason Gong:** Okay, I'll try to get all that kicked off then.
+
+**Andi Bailey:** Awesome.
+
+**Andi Bailey:** Thanks, guys.
+
+**Jason Gong:** Bye.
+
+**Jason Gong:** Thank you.

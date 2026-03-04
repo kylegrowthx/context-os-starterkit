@@ -1,0 +1,1495 @@
+# Surge AI Sync
+
+<metadata>
+date: 2025-07-11
+time: 19:02 UTC
+duration: 59 minutes
+organizer: Marcel Santilli (GrowthX)
+participants: Marcel Santilli (GrowthX), Edwin Chen (Surge AI), Scott Heiner (Surge AI), Nick Heiner (Surge AI), Bridget McGillivray (GrowthX), Kyle Gaudreau (GrowthX), George Haikal (GrowthX), Sullivan Whitely (Surge AI)
+fathom_recording_id: 73723454
+fathom_url: https://fathom.video/calls/349909208
+share_url: https://fathom.video/share/H9cZ2beiiTMxTzPGjonAFb4RgynHnJXk
+source: fathom
+enriched_on: 2026-03-03 18:45 UTC
+</metadata>
+
+---
+
+## Summary
+
+GrowthX and Surge AI aligned on a comprehensive brand-building strategy centered on a new promotional video emphasizing Surge's commitment to high-quality AI training data. The 5-minute video (being cut down from 8 minutes) will be positioned on the About page and YouTube to establish differentiation in the crowded AI space and serve as business development collateral. The team discussed expanding Surge's web presence with detailed value-prop pages, reviving the blog with monthly deep-dive content, and exploring events and conferences with budgets around $50K for quality booth presence to build brand awareness and recruit top talent.
+
+---
+
+## Context
+
+Surge AI is an enterprise data labeling and AI training platform that addresses a critical gap in the AI industry: high-quality, human-reviewed training data. Founded by Edwin Chen (an ML engineer with experience at Google, Facebook, and Twitter) and led by Scott Heiner, the company differentiates itself by focusing on complex, nuanced, subjective data labeling tasks rather than simple commodity annotation work. GrowthX has been engaged as their strategic marketing partner and is helping Surge transition from being largely unknown in the market to building a recognizable brand voice. The relationship reflects a broader strategic shift — Marcel noted in the call that GrowthX's team has been "MIA" but is now ready to show significant work after building out the video, content, and event strategy.
+
+---
+
+## Relevance
+
+**To GrowthX Delivery:**
+- Video production and content creation skills being deployed across brand narrative, YouTube strategy, and About page positioning — demonstrates capability to take complex technical concepts and craft compelling brand stories
+- Blog strategy shift to monthly, deep-dive content (vs. weekly commodity posts) reflects GrowthX's positioning on quality-over-volume messaging
+- Event execution and conference strategy offers opportunity to expand GrowthX's event planning services portfolio
+- Opportunity to support recruiting narrative through brand video and content positioning
+
+**To GrowthX Business Development:**
+- Surge AI is a Series A-backed company with clear vision for category leadership; represents scalable engagement with potential for long-term partnership (12-month marketing strategy now in scope)
+- Reference-ability: Strong case study potential for content marketing and B2B brand positioning in enterprise SaaS
+- Cross-sell opportunity: Website optimization and SEO (mentioned lack of discoverability when searching "Surge AI" — no About page, limited YouTube presence)
+
+**To CheckThat:**
+- Relevant mention of AI visibility/search ranking problems (LLMs and search pulling from YouTube; Surge currently invisible in searches)
+- Edwin's background as ML engineer and focus on data quality opens potential discussion about AI visibility for data-driven companies
+- Potential partnership opportunity: Surge's data labeling expertise could inform CheckThat's approach to training data quality
+
+---
+
+## Overview
+
+- A new promotional video for Surge AI is in development, focusing on the importance of high-quality data in AI
+- Plans to revive the blog with regular, high-quality content (aiming for monthly rather than weekly posts)
+- Considering adding more detailed pages to the website to better communicate Surge AI's value proposition
+- Exploring options for hosting events and attending conferences to build brand awareness and network
+
+---
+
+## Key Topics
+
+### Promotional Video Development
+
+  - New video aims to highlight Surge AI's commitment to high-quality data
+  - Current version opens with a metaphor about building on poor foundations
+  - Team generally likes the opening but suggests refining some visuals (e.g., trash heap imagery)
+  - Goal is to differentiate Surge AI by emphasizing their unique approach and expertise
+  - Video length target: \~5 minutes, down from current 8-minute version
+  - Planned use: About page, YouTube channel, and potentially as sales collateral
+
+### Website and Content Strategy
+
+  - Considering adding more detailed pages to the website to better explain Surge AI's value proposition
+  - Plans to revive the blog with high-quality, in-depth content
+  - Aiming for monthly posts rather than weekly to ensure high quality and impact
+  - Content ideas include insights from labeling campaigns, deep dives into data quality issues
+  - Team to handle most writing internally, with potential editorial support from Marcel's team
+
+### Event Planning and Conference Strategy
+
+  - Exploring options for hosting events and attending conferences
+  - Considering both high-end, curated events (e.g., dinners at Quince) and larger networking events
+  - Discussed potential for conference after-parties and booth presence at relevant conferences
+  - Marcel offered to handle much of the event planning and execution
+  - Lead time for conference booths: \~3 months for design and build-out
+  - Estimated budget for a quality booth: \~$50K
+
+### Brand Building and Networking
+
+  - Recognizing the importance of building relationships with both decision-makers and on-the-ground researchers
+  - Considering strategies to leverage events for recruiting and brand awareness
+  - Discussed the potential of co-hosting events with other organizations to expand reach and reduce effort
+
+---
+
+## Action Items
+
+**Marcel Santilli (GrowthX)**
+- Confirm within 10 mins if ready for frame-by-frame video feedback
+- Prep for Mon mtg: outline 12-month marketing strategy options based on Surge priorities
+
+**Nick Heiner (Surge AI)**
+- Send calendar invite for Mon 3-4pm PT mtg w/ Marcel re: 12-month marketing strategy
+- Watch latest video cut; provide feedback on messaging, style, vibe, sequence, tempo
+- Draft blog post about Brag AI & potential associations/implications for Surge
+
+---
+
+## Transcript
+**Scott Heiner:** Recorded.
+
+**Scott Heiner:** What's up, guys?
+
+**Marcel Santilli:** What's going on?
+
+**Marcel Santilli:** Happy Friday.
+
+**Scott Heiner:** You too, man.
+
+**Scott Heiner:** Is this your home office?
+
+**Marcel Santilli:** This is my home office, yeah.
+
+**Marcel Santilli:** It's like we redid our basement.
+
+**Marcel Santilli:** And let me see I have a schlichter camera like this.
+
+**Marcel Santilli:** I got like a little kitchen over here.
+
+**Scott Heiner:** Oh, nice.
+
+**Marcel Santilli:** A little seating area.
+
+**Scott Heiner:** A lot of guitars.
+
+**Marcel Santilli:** A hidden room over here.
+
+**Marcel Santilli:** That's the one in-room.
+
+**Scott Heiner:** Hey, putting that scale CMO money to use, baby, let's go.
+
+**Marcel Santilli:** My wife was in construction before, you know, and so we just pull in every favor.
+
+**Scott Heiner:** I had a good contractor.
+
+**Scott Heiner:** It's awesome.
+
+**Marcel Santilli:** It looks beautiful.
+
+**Marcel Santilli:** It's like anytime you see anything beautiful in our house, it's like, don't worry.
+
+**Marcel Santilli:** This came with blood, sweat, and tears of painfully dealing with construction people.
+
+**Scott Heiner:** Nick's dealing with those people right now in his own home.
+
+**Nick Heiner:** Yeah, it feels very privileged to know people personally in construction so that you have those good personal relationships to work with best people.
+
+**Marcel Santilli:** Yeah, exactly.
+
+**Nick Heiner:** I think we're fully involved in people versus note takers in this meeting.
+
+**Marcel Santilli:** Yeah, yeah, give me a second.
+
+**Marcel Santilli:** And I do have something I want to share that just to start us off on a fun note, if that's okay.
+
+**Nick Heiner:** Yeah.
+
+**Marcel Santilli:** But when you ask for AI headshots and the team delivers.
+
+**Marcel Santilli:** So I want to start with that.
+
+**Edwin Chen:** That's okay.
+
+**Edwin Chen:** Drumroll, I guess.
+
+**Edwin Chen:** Give me a second.
+
+**Edwin Chen:** I'm scared.
+
+**Marcel Santilli:** I'm scared.
+
+**Marcel Santilli:** You're scared?
+
+**Marcel Santilli:** No, no, no, no, no.
+
+**Edwin Chen:** I wasn't managing my head.
+
+**Edwin Chen:** You guys giving me curly hair.
+
+**Marcel Santilli:** Okay, so this is the original, okay, and then there's that, which is just like, you know, pretty toned down, and there's like, your NVIDIA vibe.
+
+**Marcel Santilli:** You look like you can be on, like, I'm trying to remember the movie, but anyways, this is like.
+
+**Edwin Chen:** All right, the more I recognize that you can make me, I'll be that.
+
+**Marcel Santilli:** Hey, this looks like you right now, like, this is not bad.
+
+**Marcel Santilli:** I think, yeah, different glasses, you know, and that's, I know, nothing too crazy.
+
+**Marcel Santilli:** I think I played this up a little too much, but, but I do, you know, you kind of look good with leather jackets.
+
+**Marcel Santilli:** I don't know if you own any leather jackets, but.
+
+**Scott Heiner:** I like the gray, I like the gray sweater.
+
+**Scott Heiner:** Can we get back to the gray sweater?
+
+**Scott Heiner:** I think your muscles are popping there, Edwin.
+
+**Scott Heiner:** Is that Photoshop?
+
+**Scott Heiner:** No, those are real muscles.
+
+**Scott Heiner:** They didn't touch the muscles.
+
+**Marcel Santilli:** You know, I used to, I'm a Photoshop geek.
+
+**Marcel Santilli:** Times like that, I would take the Liquify feature in Photoshop.
+
+**Marcel Santilli:** But yeah, so good times.
+
+**Marcel Santilli:** Good to see you all.
+
+**Marcel Santilli:** I put together just a very small agenda.
+
+**Marcel Santilli:** It's mostly like discussion.
+
+**Marcel Santilli:** I think there's a couple of things that would be good to align on.
+
+**Marcel Santilli:** But the main thing is we are, I'm really, really happy.
+
+**Marcel Santilli:** I know it probably felt like we're a little MIA.
+
+**Marcel Santilli:** I promise we're doing a ton of amazing work that we're finally ready to get to a good point of showing.
+
+**Marcel Santilli:** And so maybe I want to take a few minutes to just like watch the link that literally the team was just finishing out in this last hour.
+
+**Marcel Santilli:** So maybe like three, four minutes or just watch that for a second, just to kind of see kind of the work that we did, because I'm really proud of it, personally.
+
+**Nick Heiner:** Yeah, sounds good.
+
+**Scott Heiner:** Are y watching this independently?
+
+**Nick Heiner:** what's happening?
+
+**Nick Heiner:** Oh, I heard you were going to screen share.
+
+**Marcel Santilli:** Oh, okay, cool.
+
+**Marcel Santilli:** Let's do that.
+
+**Marcel Santilli:** Then we can all watch at the same time.
+
+**Nick Heiner:** Let me know.
+
+**Nick Heiner:** Yeah, I actually, I don't see, like, the latest.
+
+**Marcel Santilli:** I don't see a link from you guys that's more recent than...
+
+**Marcel Santilli:** Oh, sorry.
+
+**Marcel Santilli:** I the notion.
+
+**Nick Heiner:** Sorry about that.
+
+**Marcel Santilli:** I see that.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** Don't hear the audio.
+
+**Marcel Santilli:** We would only watch all eight minutes.
+
+**Marcel Santilli:** I'll just play the first few, just so that you guys get the feeling for what we're going for here.
+
+**Marcel Santilli:** Imagine trying to build the most sophisticated city ever built.
+
+**Marcel Santilli:** But you poured the foundation over the end of the building.
+
+**Marcel Santilli:** What you build might look good on the outside.
+
+**Marcel Santilli:** But underneath, it's unstable.
+
+**Marcel Santilli:** The stuff below leaches into everything.
+
+**Marcel Santilli:** It's It's
+
+**Marcel Santilli:** So that is what it's like to build artificial intelligence with bad data.
+
+**Marcel Santilli:** How to detect the computer vision data that I'll be doing together.
+
+**Marcel Santilli:** In these types of problems, there is a very clear skilling on the quality data that you can produce.
+
+**Marcel Santilli:** So most of the money was in training self-driving cars.
+
+**Marcel Santilli:** When you're training self-driving cars, you have to go to the speakers.
+
+**Marcel Santilli:** You can kind of teach anyone to do the task in a couple of hours.
+
+**Marcel Santilli:** Basically just keep them on top finance and then kind of draw like a bending box around it.
+
+**Marcel Santilli:** But we wanted to focus on more nuanced, subjective, administrative.
+
+**Marcel Santilli:** That's mostly in English, where you have these more productive judgments. Well, I used to work at Google, Facebook, and Twitter as an ML engineer.
+
+**Marcel Santilli:** I'll stop here, but hopefully, like, anyways, a of just raw reactions.
+
+**Marcel Santilli:** There's a lot of different directions we can take this as well, but I guess the idea here is, like, just, I don't know, it's just like kind of this statement, and I think even from some of the reactions we heard from some of the videos of people reading the copy on their site, right, and being, like, just like, whoa, this is kind of like a flex in some way, but no one thought that that was a flex in, like, a braggy way.
+
+**Marcel Santilli:** was just like, you know, and I got a lot of reactions from people in person as well that, including, like, last night, we posted a happy hour, and the guy, Neil, who worked with me a skill and hate skill as well.
+
+**Marcel Santilli:** He was in charge of all growth for all the tasks or something.
+
+**Marcel Santilli:** And it just was like, we had really positive reactions and, you know, also cheering for you all to win at all, you know.
+
+**Marcel Santilli:** And so anyways, that's kind of like trying to capture that spirit.
+
+**Marcel Santilli:** But we'd love any feedback here, obviously.
+
+**Scott Heiner:** Just so we're on the same page, what's the latest thinking on like what we're using this for?
+
+**Scott Heiner:** Is it like a permanent piece of content on the site?
+
+**Scott Heiner:** Is it something else?
+
+**Scott Heiner:** Like, I think that would help me, because like you said, there's a bunch of different ways this could go.
+
+**Scott Heiner:** So I think our goal, knowing what our goal is for this would help me, you know, think through my reaction to it.
+
+**Marcel Santilli:** Yeah, so I think there's a couple of different strategies for us to think about, like the release, if you will, right?
+
+**Marcel Santilli:** You put it in your YouTube channel and then like do a bunch of promotion and things or different like creative promotions, I guess, is the way to think about it.
+
+**Marcel Santilli:** And think of this as like the beginning chapter of like telling your story as a company, which is.
+
+**Marcel Santilli:** And really remarkable.
+
+**Marcel Santilli:** And every person I mentioned about Surge, they're just like, oh, my God, I want to know about this.
+
+**Marcel Santilli:** I just want to understand.
+
+**Marcel Santilli:** Like, I use AI every day.
+
+**Marcel Santilli:** And they're just such a meaningful player here and done it in such a unique way, right?
+
+**Marcel Santilli:** I do think, like, this is hopefully in a place where we could put it in like an about page, not in the front page.
+
+**Marcel Santilli:** But, you know, it just becomes like an anchor point where we're making this statement.
+
+**Marcel Santilli:** And my personal opinion and sense is that there's enough people that dealt with garbage in this space that they will immediately identify themselves with you and your brand and you as people because of this, you know, because it, you know, it's like the mysteriousness, like, will fade out if you just don't say anything, you know.
+
+**Marcel Santilli:** And this is just a beautifully crafted thing where we're being very thoughtful about every word.
+
+**Marcel Santilli:** And it reflects about, oh, you're really thoughtful about data as well, right?
+
+**Marcel Santilli:** And clearly, like, you're
+
+**Marcel Santilli:** It's all about everywhere on the page, you're telling, anywhere where you are communicating, you are putting a lot of thought behind it, and you're saying fewer things, and you're doing it in a very meaningful, beautiful way as well, you know, so.
+
+**Scott Heiner:** Got it, got it.
+
+**Scott Heiner:** Yeah, and this is related to something else I've been thinking about, but even just, Edwin, I feel like even just a video like this to ask collateral for like biz dev people, you know, like immediately gives some context that makes this different.
+
+**Scott Heiner:** from some of the endless, faceless vendor.
+
+**Scott Heiner:** Not that that's the main goal here, but it's an added benefit, gives some life to us.
+
+**Scott Heiner:** Oh, you're muted, Edwin, if you're chatting.
+
+**Edwin Chen:** Sorry, but I might have got confused.
+
+**Edwin Chen:** I agree with the collateral piece, but in terms of the main piece — you mentioned putting it on our page and YouTube. Are those the main channels where you think people would discover this?
+
+**Marcel Santilli:** Yeah, like on YouTube, I think it's important because if you search for your name today or if search for Surge AI, there's like a webinar with Cohere and there's like  nothing, you know?
+
+**Scott Heiner:** I'm taking that down right now.
+
+**Marcel Santilli:** And also all the LLMs pull a lot of stuff from obviously like YouTube.
+
+**Marcel Santilli:** So I think that's a good thing to do no matter what.
+
+**Marcel Santilli:** And then an about page I think would be like just a simple page where you have very little copy and this can be like a nice way to also like within your recruiting and things like that would just be a great thing that hopefully like you're attracting the people that are motivated by the same things you, you know, the story.
+
+**Marcel Santilli:** That would be like the two places where it's like understated where you're, we'll figure out different ways to get the eyeballs on it.
+
+**Marcel Santilli:** But the idea is not to be like, everybody look at this and produce, right?
+
+**Marcel Santilli:** Like it's more of like, put it there.
+
+**Marcel Santilli:** A lot of people are searching.
+
+**Marcel Santilli:** A lot of people are looking you up.
+
+**Marcel Santilli:** And they're not finding  other than your home page, you know.
+
+**Marcel Santilli:** And then that would hopefully, like, you're going to click around because right now I only have one page, so this will be the second page.
+
+**Marcel Santilli:** Yeah.
+
+**Scott Heiner:** Cool.
+
+**Nick Heiner:** Yeah, I'm just continuing to watch the video on mute.
+
+**Nick Heiner:** Oh, no.
+
+**Nick Heiner:** Not this hand-drawn picture of Edwin eating a vegan taco.
+
+**Marcel Santilli:** There's a little bit of backstory to that, like, which is essentially, like, there's this documentary of Ilya, and it's, like, a very short documentary, where they did just a little bit of B-roll, of just, like, following the person around a little bit in their day kind of thing, you know.
+
+**Marcel Santilli:** And I think there is a potential for us to, like, without adding any costs, just, like, either fly out and lurk around you, Edwin, you know, get some B-roll and things like that.
+
+**Marcel Santilli:** And I know.
+
+**Marcel Santilli:** I know it's uncomfortable, but it does like, even if we don't do it, I think we have a lot of good stuff already, but it does like kind of help, I think like with a couple of areas where it would help to have a little bit of that B-roll.
+
+**Marcel Santilli:** But outside of that, like, think the idea would be like, take this eight minute thing and try to continue to like shrink it down and distill it down to the most impactful pieces to get it to maybe like five-ish minutes as a starting point.
+
+**Marcel Santilli:** And, you know, and I, anyways, I'll leave it at that.
+
+**Marcel Santilli:** But I would just say that the thing that I'm, I was very pleasant, pleasantly surprised and happy with the beginning right now.
+
+**Marcel Santilli:** Yeah, I like the beginning.
+
+**Marcel Santilli:** So, so like the rest, like we have a lot of raw material to work with and the B-rolls can be tweaked.
+
+**Marcel Santilli:** Like, this is not like a final thing to go publish, right?
+
+**Marcel Santilli:** Like, this is mostly like, is the beginning right?
+
+**Marcel Santilli:** And is the viable role right?
+
+**Marcel Santilli:** And.
+
+**Marcel Santilli:** It's the, you know, style, right, essentially, you know?
+
+**Scott Heiner:** So my initial, I'll watch like the rest of this latest cut, but stylistically and stuff, my, I like the beginning of this one a lot, the concept.
+
+**Scott Heiner:** Maybe some of the actual footage being shown is like a little on the nose in terms of showing trash heaps and whatnot.
+
+**Scott Heiner:** But I like the concept, and I thought we were generally pulling out good things that everyone was saying.
+
+**Scott Heiner:** I think the biggest risk here is just that, and this is something we've always struggled with, is everyone can just say, quality is important, garbage in, garbage out.
+
+**Scott Heiner:** And then, but how do we, through this video, show that we're different?
+
+**Scott Heiner:** And I think like it's already naturally going to accomplish some of that because everyone's going to come off smart and serious and like we really care about this.
+
+**Scott Heiner:** But I wonder if there's a couple other soundbites that like really speak to that, differentiate, you know, something about the research we've done or that.
+
+**Scott Heiner:** We've been on papers with Anthropic where something adds a little evidence.
+
+**Scott Heiner:** So it doesn't just sound like, it already doesn't sound like everyone else, but it just differentiates us even further, I think.
+
+**Marcel Santilli:** Yeah.
+
+**Scott Heiner:** And I guess, I mean, obviously, like, yeah, Edwin's personal story.
+
+**Scott Heiner:** But, like, I don't know, if we have any footage, you know, any footage of Edwin saying, like, you know, I can't sleep at night if we've delivered bad data to a customer.
+
+**Scott Heiner:** Or, like, just some things that kind of just drive the point home beyond it.
+
+**Marcel Santilli:** We have a little bit of access to it. Like, the beginning of the labs.
+
+**Scott Heiner:** Yeah, sounded good.
+
+**Scott Heiner:** It did sound pretty good, yeah.
+
+**Scott Heiner:** I hope that's it, Edwin.
+
+**Edwin Chen:** I have the same take I just got.
+
+**Edwin Chen:** I like the, I kind of like the, I don't know if you call it vaguely apocalyptic.
+
+**Scott Heiner:** But, yeah, yeah, that's true.
+
+**Edwin Chen:** That was good, yeah.
+
+**Edwin Chen:** I like stuff like that.
+
+**Edwin Chen:** So, and I think it is differentiating, or like catches your eye a little bit.
+
+**Edwin Chen:** Yeah, is.
+
+**Edwin Chen:** Hard to say.
+
+**Edwin Chen:** Like, I usually avoid because there are two on a nose.
+
+**Edwin Chen:** It's a little bit hard for me to say if the trash heaps was two on a nose or not.
+
+**Edwin Chen:** Might be fine.
+
+**Marcel Santilli:** I do agree about, yeah, I think it's just what Scott said.
+
+**Marcel Santilli:** Nick, you have a good idea.
+
+**Nick Heiner:** Sorry.
+
+**Nick Heiner:** Yeah, I think I might end up with a trash heap question.
+
+**Nick Heiner:** Yeah, it is kind of funny to open a video about, like, we're the high quality data provider.
+
+**Nick Heiner:** Now, here's a pile of trash.
+
+**Nick Heiner:** I do kind of like, I think, framing things a little more positively centrally.
+
+**Nick Heiner:** And talking about the downside of the bad data as a little more of like a side thing.
+
+**Scott Heiner:** But it is a good, it is a good, the thing is that it grabs your attention instantly, right?
+
+**Marcel Santilli:** Yeah, and that's what we're, so we tried three different.
+
+**Marcel Santilli:** Things, or four different things.
+
+**Marcel Santilli:** The first one was, can we just start with like the part where Edwin, like you're kind of sitting down, it shows you a little bit and then like it starts to talk about, so I started at Twitter, blah, blah, blah.
+
+**Marcel Santilli:** But then it was just like two, not enough context, you know?
+
+**Scott Heiner:** I agree, I agree.
+
+**Marcel Santilli:** And then we were like, okay, maybe we start with clickbait stuff, right?
+
+**Marcel Santilli:** And then that was, then it was like still like too far off from data.
+
+**Marcel Santilli:** And then we're like, okay, let's try a bunch of headlines.
+
+**Marcel Santilli:** then it was just like this very like headline this, like a news reporter talking about AI this, and you know, workers and taskers taking it down kind of .
+
+**Marcel Santilli:** And then like, it just felt like it was this big thing building up, but then it was just not enough like, boom, okay, now you go into something.
+
+**Marcel Santilli:** It was like that to like the Twitter kind of thing was just too weak.
+
+**Marcel Santilli:** And so then we arrived at this because it was like a little bit of a slightly softer way of, instead of doing a bunch of headlines and hyped up kind of thing, was more of like.
+
+**Marcel Santilli:** What we are actually saying, which is like, all this  is garbage because they approach it the wrong way, you know, and then leading into data labeling and self-driving, which every person, even if they're not a researcher, can understand because they, you know, are getting more familiar with Waymos and Teslas, right?
+
+**Marcel Santilli:** And then they understand, oh, okay, I get this.
+
+**Marcel Santilli:** Like, there's this entire garbage industry that was created because they were trying to scale something through, like, you know, selecting, labeling a stop sign and try to approach this with something that's way more important and then leading it into that.
+
+**Marcel Santilli:** That was a little bit of a thought last time.
+
+**Scott Heiner:** I think that makes sense.
+
+**Edwin Chen:** I think the sequencing makes sense.
+
+**Edwin Chen:** Yep.
+
+**Edwin Chen:** Yeah.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Okay, so then, like, what I was thinking is, let me take one more step here in what I would love to get alignment today is, so we do have a version of the website that we worked on, right, that.
+
+**Marcel Santilli:** That is like still almost exactly like what you have, but just slightly more polished that I know we decided not to go with that at first.
+
+**Marcel Santilli:** But one of the things that would be great to align is like looking a little bit further out.
+
+**Marcel Santilli:** What I heard is we do want to bring back the blog and I miss on Twitter people asking for it.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** And selectively.
+
+**Marcel Santilli:** Right.
+
+**Marcel Santilli:** But bring back some good stuff and then start to get some level of content now, maybe cadence like once a week.
+
+**Marcel Santilli:** At least something that's predictable, like that we all feel comfortable like committing to.
+
+**Marcel Santilli:** And we can build up a little backlog so that it's like, you know, it's always something coming out because we already have something always planned.
+
+**Marcel Santilli:** So you're never like scrambling to publish something tomorrow kind of thing, you know.
+
+**Marcel Santilli:** And then the only other thing would be like, do we want to try to have a couple of anchor pages that go a little bit into detail that won't get lost into the blog archive, it right?
+
+**Marcel Santilli:** Like, and we don't need to call it.
+
+**Marcel Santilli:** We can call it something else, but it's like, and the idea was, Scott, you mentioned like a lot of the collateral stuff.
+
+**Marcel Santilli:** It's like, could we take some of the things we're going to do for the collateral and just make it a simple page with a couple of graphics or something, right?
+
+**Marcel Santilli:** Like to talk about your quality process or something like that.
+
+**Marcel Santilli:** Or is there anything else that we do want to make that statement on your website so that when, you know, a researcher or meta hears about you for the first time or something, you know, or they already should know and they look you up, they have a little bit more than, you know, to go by that touches a little bit more in depth, right?
+
+**Marcel Santilli:** Where they might not go dig in through like 10 or 20 posts to try to find the right thing, you know?
+
+**Marcel Santilli:** So it's like, do you want to like, for the people that they're looking for the substance, like your actual buyers, your actual like, you know, receivers of the data, I guess, for like a better word.
+
+**Marcel Santilli:** So we'll have to align on that if possible.
+
+**Scott Heiner:** Yeah.
+
+**Scott Heiner:** Yeah.
+
+**Scott Heiner:** Open to it for sure.
+
+**Edwin Chen:** Yeah, I think my quick take is I think we're open to all of that, except, I mean, we just don't have time right now to have sufficient high quality content that comes out every week.
+
+**Edwin Chen:** And so I think one thing we've discussed internally is we were just preferred to have like one really high, really high quality piece of content that comes out even just once a month.
+
+**Edwin Chen:** But because it's so high quality, hopefully it goes more viral than like, you know, just some like SEO page that comes out once a week.
+
+**Edwin Chen:** Because again, we're kind of in a unique nature where we don't really care about people coming to our website through SEO.
+
+**Edwin Chen:** We don't really care about off-match or keywords.
+
+**Edwin Chen:** It really is more about stuff like, I mean, like, for example, if consider open AI or like the things on open AI or things that clawed that go like, that like spread, they tend to be the meatier things.
+
+**Marcel Santilli:** Yeah.
+
+**Edwin Chen:** As opposed to the things that come out once a week.
+
+**Marcel Santilli:** What else?
+
+**Marcel Santilli:** And we can do a deep dive too, but what I was thinking.
+
+**Marcel Santilli:** It doesn't only need to be like a crazy breakthrough research or like crazy like essay program, essay for data kind of thing, you know, it can be even something where there is an insight of a labeling or campaign that you've done where you've noticed something that is an insight that you want to share with more than one.
+
+**Edwin Chen:** Yeah, actually agree with that.
+
+**Edwin Chen:** Like, I think I've mentioned the Simon Willison blog to Scott and Nick before where he kind of does those.
+
+**Edwin Chen:** Yeah.
+
+**Edwin Chen:** Okay.
+
+**Edwin Chen:** So yeah, I agree.
+
+**Marcel Santilli:** Yeah, like it can be a little bit a teardown of things like that or sharing the insight.
+
+**Marcel Santilli:** Essentially, for me, I could be wrong here, right?
+
+**Marcel Santilli:** Obviously, I'm not running these data campaigns, but like how do you start to draw the connections to data quality is important?
+
+**Marcel Santilli:** Data quality is important.
+
+**Marcel Santilli:** That's telling.
+
+**Marcel Santilli:** How do we show the delta between  data and good data and kind of like the impact it has or so somewhere that some way to do it on.
+
+**Marcel Santilli:** There are examples that make it real, like Nick was saying, or you all are saying, the labeling part is replicating a little bit of that experience with content, ideally.
+
+**Nick Heiner:** And I think you guys, Scott, you're correct about, yeah, anyone can just go out and say, we care about data quality.
+
+**Nick Heiner:** And I think you're right that we should try to do something in the video to maybe a little more show, don't tell.
+
+**Nick Heiner:** But yeah, some of stuff Marcel was saying about, like, getting to go into more detail on the blog where we're sort of demonstrating our taste and sort of our appreciation for data quality, I think we'll also help with that.
+
+**Scott Heiner:** Yeah, yeah, you can imagine posts like, you know, you know, why can't, why can't LLM still not do XYZ?
+
+**Scott Heiner:** And it's like this interesting thing of like, oh, look, like Edwin's point he's always making about, they're still not great at some generalist capabilities.
+
+**Scott Heiner:** Like we get to sort of a survey of the land without calling out, focusing on any particular customer, obviously, and just say, look, surprisingly, they're actually still really bad at
+
+**Scott Heiner:** This type of thing.
+
+**Marcel Santilli:** It's going to be a little bit negative, but we could call our blog failure mode.
+
+**Scott Heiner:** That's good.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** Yeah, I kind of like that, actually.
+
+**Nick Heiner:** You know, or like this LMSYS article that I'm writing.
+
+**Nick Heiner:** You know, it's specific discussion of like what it is that LMSYS does that makes it bad and what we do that makes it good.
+
+**Nick Heiner:** Which, yeah, probably hard to put that on to the video, but hopefully that bolsters our point a bit.
+
+**Marcel Santilli:** Yeah, and just to, so like to give you some examples of work that we're doing and how we can support here is like we are working with a lot of very, very technical companies, both technical in the sense of like, you know, like the topics like cybersecurity or that might be technical, but also technical in the sense of like one company, Biologica, you know, we're working with our chief medical officer.
+
+**Marcel Santilli:** And then there's like a lot of nuances that are like based on medical research nuances.
+
+**Marcel Santilli:** share social science campuses.
+
+**Marcel Santilli:** And so I'm pretty confident that we can pair up, let's say, Nick, you with a very high quality editor on that end and not only just like blankly like ghostwriting, but also do some of the research for you.
+
+**Marcel Santilli:** And so it's like it might require two 15-minute calls with you, but then it's like two 15-minute things and then maybe a final pass, right?
+
+**Marcel Santilli:** And then the whole process goes from like you have a thought, we get that out of you really quickly.
+
+**Marcel Santilli:** Then we go do a ton of research that we have with our Deep Researcher and some of our workflows to enrich that and find examples, bring graphics around it and things like that.
+
+**Marcel Santilli:** And then we do one more pass with you to be like, no, this is off, this is off.
+
+**Marcel Santilli:** And then like, you know, like so we can do that process, whether it's with you, with like Andrew or anyone, so that hopefully the commitment on your time can be a lot like a lot lighter, ideally, you know.
+
+**Scott Heiner:** Marcel, what you don't know is that Nick is a doc writing monster.
+
+**Scott Heiner:** Dude writes, talks in his sleep.
+
+**Marcel Santilli:** I love that.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** So for all other mere humans out there that require assistance.
+
+**Scott Heiner:** Well, I, so the, I think, yeah, I mean, appreciate it.
+
+**Scott Heiner:** I think what we'll, just from our past experience, it will probably work best if we mostly offered ourselves and we get your guys kind of editorial comments on top of it.
+
+**Scott Heiner:** Um, cause I think part of this for us is, um, refining our own internal understanding of our messaging because we're going to go have these conversations with customers too.
+
+**Scott Heiner:** So, uh, yeah, I, I think we can do 95% probably of the actual, actual writing.
+
+**Scott Heiner:** Nick, Edwin, correct me if I'm wrong, but I just feel like that's our vibe.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** And I, I would certainly value an editor though.
+
+**Nick Heiner:** Um, because like having, you know, we want this to be intelligible to like a general, general technical audience.
+
+**Nick Heiner:** I think it can be a little hard for us to know internally since we're so steeped in this world, exactly what is going to be comprehensive and what's not.
+
+**Nick Heiner:** So having.
+
+**Nick Heiner:** An external set of eyes on that would be great.
+
+**Nick Heiner:** And I think just general feedback on what's going to make this something that is...
+
+**Nick Heiner:** I don't want it to be like SEO or clickbaity or anything, but just...
+
+**Nick Heiner:** I don't know.
+
+**Nick Heiner:** You sit down to write the technical research paper-y type thing, and maybe it's actually not going to be as consumable.
+
+**Nick Heiner:** Yeah, make it pop.
+
+**Scott Heiner:** Just how do we get a nice hook at the beginning, stuff like that.
+
+**Nick Heiner:** Exactly.
+
+**Marcel Santilli:** Okay.
+
+**Marcel Santilli:** Does that make sense?
+
+**Marcel Santilli:** Do you all envision that every person would have, like on your end, would have a completely different take in voice and style or template or format?
+
+**Marcel Santilli:** Or do you ideally envision it to be pretty consistent across every one?
+
+**Marcel Santilli:** It could be slight nuances on the writing and style, tone, and voice a little bit.
+
+**Marcel Santilli:** But do you want it to feel like it belongs to the same publication?
+
+**Marcel Santilli:** Or do you want to feel like everybody just does that?
+
+**Scott Heiner:** I would probably say, well, go ahead, Evan.
+
+**Edwin Chen:** Oh, I would say just whatever's easiest.
+
+**Edwin Chen:** Like, I'm personally less concerned about the tone.
+
+**Edwin Chen:** Like, I don't, like, for example, we definitely don't need things, like, corporate style guide.
+
+**Edwin Chen:** And I think at the end of the day, for these kind of technical things, it really is more about the content than the exact word that is being chosen or the hook, per se.
+
+**Edwin Chen:** Like, sure, like, having a hook, if it's easy for an editor to add, yeah, pretty great.
+
+**Edwin Chen:** But I personally would.
+
+**Edwin Chen:** Okay.
+
+**Edwin Chen:** I don't want to worry too much about the tone.
+
+**Edwin Chen:** But Scott, are we going say?
+
+**Marcel Santilli:** Can in a minute here?
+
+**Scott Heiner:** I have an interview to go to.
+
+**Scott Heiner:** I was just going to say that I feel like, I don't know, when we did this in the past, and it was, like, you, me, Jefferson, kind of working on it, we ended up kind of unifying on the...
+
+**Scott Heiner:** Oh, yeah.
+
+**Edwin Chen:** Actually, yeah.
+
+**Edwin Chen:** So, I think I always had, so, previously, I think I had a strong point of view on...
+
+**Edwin Chen:** The tone, and I was trying to go for something more catchy and deliberately less corporate, but that was partly because we were trying to go, well, I don't know, maybe I can catch myself.
+
+**Scott Heiner:** It was almost like it was quite a very friendly, lighthearted tone, where it almost feels now like the more appropriate tone would be us being a little more serious and, like, academic or weighty a little bit.
+
+**Edwin Chen:** But I think I don't know if I want to worry about that too much.
+
+**Edwin Chen:** Like, for example, like, previously I would add GIFs, so Britney Spears and all that.
+
+**Edwin Chen:** Right.
+
+**Edwin Chen:** Do I want to shy away from that?
+
+**Edwin Chen:** I don't know if we want to become a corporate company.
+
+**Scott Heiner:** No, you should do your thing.
+
+**Scott Heiner:** I got to jump to an interview, but thanks, guys.
+
+**Marcel Santilli:** All right, cool.
+
+**Marcel Santilli:** And super, super quick, so we can go do a deep dive with Scott on the collaterals, and I think that would be, like, a great exercise no matter what for us to try to figure out, like, what is the bare minimum, even if you've never put it on the website, that you need to communicate.
+
+**Marcel Santilli:** All
+
+**Marcel Santilli:** Time to customers in order to explain your value and what you do and how it's different in your process.
+
+**Marcel Santilli:** And then hopefully from that exercise, we hopefully get to a point where we can put some of that on the website if we choose to.
+
+**Marcel Santilli:** Even if it's like eventually becomes unlisted on the website, even, you know, that could be like makes it always slightly easier than attaching PDFs forever, you know.
+
+**Edwin Chen:** But yeah, I heard that.
+
+**Marcel Santilli:** Okay, perfect.
+
+**Marcel Santilli:** And then I still owe you, Edwin, just the doc for the track for interviews.
+
+**Marcel Santilli:** I think there was one that you, was it for 20 BC, I think, right?
+
+**Edwin Chen:** Oh, yeah.
+
+**Edwin Chen:** But I think we, I mean, I'm probably going to send over an additional list of topics for them today.
+
+**Marcel Santilli:** So, I mean, I think for long term, it would be good to have something.
+
+**Marcel Santilli:** Yeah, it's the one I did for my, my first million.
+
+**Marcel Santilli:** But I can turn that.
+
+**Edwin Chen:** And we can create just like a repository of like a bunch of those like Q&A type of thing if you want.
+
+**Nick Heiner:** Yeah, so Marcel, I wrote a lot of stuff in that doc yesterday.
+
+**Nick Heiner:** But if you want to go through and start proposing and phrasing or sort of give any other feedback on what I have, that would be valuable.
+
+**Marcel Santilli:** Okay, perfect.
+
+**Marcel Santilli:** I'll take that plus a few other things and then do a completely separate version so I don't have anything.
+
+**Marcel Santilli:** And Edwin, anything else on your end that we can support you better in the next week?
+
+**Marcel Santilli:** In addition to everything else we've talked about and wrapping up the video, website, collateral, everything else.
+
+**Edwin Chen:** Nothing.
+
+**Edwin Chen:** Yeah, I think, yeah, certainly nothing in the next week, I think.
+
+**Edwin Chen:** I think longer term there is this question of maybe just how to think about, I guess, or like the...
+
+**Edwin Chen:** Yeah, just how to think about the marketing strategy over the next 12 months.
+
+**Marcel Santilli:** But yeah, like I said, for the next time.
+
+**Marcel Santilli:** Yeah, I think what...
+
+**Marcel Santilli:** What would be helpful is, like, whenever it works for you all to spend a little bit longer period of time that focuses mostly on the long term, right?
+
+**Marcel Santilli:** And so I, like, kind of seek to understand, I mean, I have a good sense for you all as people, as company, obviously, that's always evolving and learning more.
+
+**Marcel Santilli:** But then, like, understanding, like, the business challenges and how you think marketing and greater awareness can play into that and, like, whether it's, like, you know, before we get into the tactics of, like, let's go to a conference, let's go do events, let's go do dinner, let's go do whatever, right?
+
+**Marcel Santilli:** Like, our own podcast or whatever we want to do, right?
+
+**Marcel Santilli:** And then just finding, like, that and then we can kind of go execute.
+
+**Marcel Santilli:** And I'll say, like, though, I know, Nick, that was a thing for you on capacity planning, like, we are highly, highly flexible.
+
+**Marcel Santilli:** And, you know, I think for us, it's just mostly, like, the more we can kind of think ahead.
+
+**Marcel Santilli:** And after we're getting to, after this phase, like the better, but then also it would be great to just have a lane, like with the blog or whatever, that just feels like we're constantly delivering something to, because I think you're the only way to continue to build awareness and capture, like, it's kind of like you have a search for like, you know, of attention.
+
+**Marcel Santilli:** And then like, if you keep delivering different things over time, then that increase essentially becomes like steady, but then if you let it die down, then there's nothing, no reason for you to come back.
+
+**Marcel Santilli:** So like, that's what it's like, I think we're trying to optimize for as much as possible, but we have design, dev, obviously a ton of editorial, we have engineers, if we, so pretty much like anything within the realm of like marketing, visuals, motion, anything at all, don't be afraid to throw it our way.
+
+**Marcel Santilli:** Like if there's any, for whatever reason, like, sorry, but we can turn it around in two hours, like we'll tell you the kind of thing, you know, but.
+
+**Nick Heiner:** Yeah, that sounds good.
+
+**Nick Heiner:** Okay, so for this video, I had not given frame-by-frame feedback on any of the earlier versions because it's not like was just very much still in Are we at a point where it would be useful for me to start doing that?
+
+**Marcel Santilli:** Let me get back to you in the next 10 minutes just to confirm.
+
+**Marcel Santilli:** But I think so.
+
+**Marcel Santilli:** It's just like the kind of feedback is not like would be more on messaging and stylistic and vibe overall and focus slightly less on like if absolutely like this bureau is absolutely garbage or this frame is cut off the wrong way, like worry a little less about that right now because it's not like we're like pixel perfect everything, but it's mostly like sequence and like vibe overall, like tempo, like those things are really useful because they will carry no matter how much we're evolving, you know.
+
+**Nick Heiner:** Yeah, yeah, yeah, that sounds good.
+
+**Nick Heiner:** Yeah, like in the early...
+
+**Nick Heiner:** For your versions, there was some audio that was just fully out of sync with the video towards the end, but I had never commented on that.
+
+**Nick Heiner:** So is that the type of thing that be useful to point out now, or is it like, no, that's still...
+
+**Marcel Santilli:** Yeah, no, no, we'll definitely catch that.
+
+**Marcel Santilli:** There's a lot of things that are just like placeholders, you know, and it's like, yeah.
+
+**Marcel Santilli:** Okay, cool.
+
+**Nick Heiner:** All right, sounds cool.
+
+**Nick Heiner:** Actually, one question.
+
+**Edwin Chen:** So just because we're talking about ICML next week.
+
+**Edwin Chen:** So can you give a better understanding?
+
+**Edwin Chen:** So I think, so what we've heard in the past is that scale, at least, those parties at ICML, and for better or worse.
+
+**Edwin Chen:** And so how do you think about us in terms of, I don't know, as a party-throwing company or, you going to these events and networking, researchers, but in a more fun way, whatever.
+
+**Edwin Chen:** Again, I've never been to, it's kind of funny, I've actually never been to ICML or NeurIPS, and I say conferences myself, but like, how do you think we should think about them in future?
+
+**Marcel Santilli:** Um, I think the most of...
+
+**Marcel Santilli:** These research ones is like a brand building exercise is what we found.
+
+**Marcel Santilli:** The quality of these is garbage and most of the people there don't have budgets.
+
+**Marcel Santilli:** And even if they work at Met or whatever, they don't have, there are not the people that have budgets.
+
+**Marcel Santilli:** So it's mostly like a brand building and recruiting exercise is what we found.
+
+**Edwin Chen:** Sorry, I would say maybe one difference.
+
+**Edwin Chen:** So again, I don't know what it's like in like a computer vision error or like Europe, but at least like Gen AI researchers.
+
+**Edwin Chen:** Yeah, I don't know if I would say they have budgets per se, but they just have stuff that they need to do.
+
+**Edwin Chen:** And oftentimes it is them making the decision.
+
+**Edwin Chen:** So it's no longer a thing where it's centralized that is being made, but rather every researcher has their preferred vendor.
+
+**Edwin Chen:** So just like go to their preferred vendor and ask for something.
+
+**Marcel Santilli:** So that's kind of how it works today.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** I think like the, yeah, so, sorry, I think I was too prescriptive in my feedback there.
+
+**Marcel Santilli:** And from.
+
+**Marcel Santilli:** From my experience at that time, most of these research conferences were not very good at generating the leads for some of our biggest deals.
+
+**Marcel Santilli:** It's like what happened then, right?
+
+**Marcel Santilli:** Now I think, but at the same time, we were struggling to sell data labeling, you know, because nobody had data labeling, you know, and it was kind of like, hey, here's this platform for data labeling.
+
+**Marcel Santilli:** like, oh, we're just, you know, like it was very like, just not very strategic.
+
+**Marcel Santilli:** It was like, maybe you'll get a $50,000 deal.
+
+**Marcel Santilli:** It's not like, you're not going to get a $50,000,000 deal out of those events at that time.
+
+**Marcel Santilli:** So what I used to do was kind of like, like if you have a  presence, it's almost worse than having open presence.
+
+**Marcel Santilli:** It's almost like kind of sad a little bit.
+
+**Edwin Chen:** It's too complicated when you have like the Apple booth right next to yours and yours looks like garbage.
+
+**Marcel Santilli:** It's like, I agree.
+
+**Marcel Santilli:** A little bit, you know, and so what I personally did was just like, wanted ours to.
+
+**Marcel Santilli:** Just be like, do fewer events overall, and when we do it, just make it beautiful, make it clean, make it like nice, and just make it, make sure you have, we are optimizing for a lot of screens in the peripherals of the booth, so that, and there's two screens on each side, so that you can have a ton of demos, essentially, it's kind of geeky.
+
+**Edwin Chen:** Wait, wait, so, so, so, this might be because I've, you I haven't been to the one of these conferences in forever, but I was even, I wasn't even imagining, like, because there's like the vendor booths, where it's like, you know, it's pretty specific, pretty specific time, there's 50 vendors in this stupid room, like, I don't even know if we would do that, as opposed to, again, I don't know what happens at these conferences, but I imagine it's about 8pm on Thursday, people are just out partying, or, you know, it's after the conference, because it's like a three-day conference, like, at 8pm, like, go to the surge event, which is somewhere fun and fancy.
+
+**Marcel Santilli:** It really depends on the audience, so, what we did, the one we went to, the last one we did, that was very successful.
+
+**Marcel Santilli:** It was in New Orleans.
+
+**Marcel Santilli:** And so if you don't have a booth, there's just no, it's very hard to spread word of mouth for, you know, unless you have a famous person, but then that doesn't feel like you guys, right?
+
+**Marcel Santilli:** And so what we did was like when people came to our booth, like we had really good swag that was like, wasn't like expensive swag, it was just like some play off of like, you know, something, it was like the Nerf, it was play off of Nerf or something, sure.
+
+**Marcel Santilli:** And then we had the best espresso machine in the whole conference because coffee is really  at conferences and so there's like these lines around the corners and then we were just like, you know, until when they came and it was good, we had wristbands and if you didn't have a wristband, you couldn't come to the event.
+
+**Marcel Santilli:** So then it just became a thing, an excuse for people come to your booth and then the event was just like really nice, like, you we had like glow things and just like little, little, very like thoughtful, like, you know, things like we had a plane.
+
+**Marcel Santilli:** Because it was New Orleans that had skills logo, but it was just really cool, and it's like, oh, this is really nice, you know?
+
+**Marcel Santilli:** And so, but it's really hard to drive people to that without actually having a way to talk to people.
+
+**Marcel Santilli:** And then with just a random person walking around inviting people to a random party, it just becomes very, like, for you, you know?
+
+**Edwin Chen:** What was the event itself?
+
+**Marcel Santilli:** CBPR.
+
+**Edwin Chen:** Oh, no, sorry, like, sorry, like, so you had to boost the drive.
+
+**Marcel Santilli:** the event that we drove people to was at this, like, underground, really cool bar club-ish venue, but it wasn't, like, crazy loud.
+
+**Marcel Santilli:** And when you walk in, it was, like, glow-in-the-dark everywhere, face paint type of thing.
+
+**Edwin Chen:** And you bought it out, like, it wasn't just.
+
+**Marcel Santilli:** Yeah, yeah, we bought it out, and I think it was, like, I don't know, like, I want to say, like, we spent, like, 30 grand total for, like, 80 grand.
+
+**Marcel Santilli:** yeah, that's it.
+
+**Marcel Santilli:** Yeah, 30, 40 grand.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** Maybe not counting swag, you know, but it was really good, like, you know, and like a lot of people came from like this other party that I think Amazon or someone was throwing that was like, they put a bunch of money behind it.
+
+**Edwin Chen:** Oh, my God, this is so much better.
+
+**Marcel Santilli:** Yeah, way more tasteful, you know, and so my experience, like, we just had a happy hour in our office yesterday.
+
+**Marcel Santilli:** We had like, you know, 45 people come and it was like really good for us.
+
+**Marcel Santilli:** Like, it's, like, it just depends the kind of audience that you're trying to attract.
+
+**Marcel Santilli:** you want to attract, like, decision makers, like, go for missionless start and go for, like, people will come just because, like, I got invited to one on Tuesday.
+
+**Marcel Santilli:** I'm not going by FBC, but it was like, it's at Quince.
+
+**Marcel Santilli:** My wife and I got engaged there and I was like, really want to go just because of that.
+
+**Marcel Santilli:** And I'm like, I can't miss another bad time with the baby, you know, like, she's going to kill me.
+
+**Marcel Santilli:** It's not worth a month sleeping in the couch kind of thing, you know, but.
+
+**Marcel Santilli:** But then, like, so the venue, what I found is, like, really, really important.
+
+**Marcel Santilli:** So whichever city it is, if you decide to do something, take a venue that's just hard to get to, if you can.
+
+**Marcel Santilli:** And people want to go there for the food or for the experience, regardless.
+
+**Marcel Santilli:** And then you're just an excuse for them to go there, you know?
+
+**Edwin Chen:** Oh, I got it, got it.
+
+**Edwin Chen:** Okay, yeah, I mean, I think we should chat more about this in separate time when we have more time.
+
+**Edwin Chen:** But it is almost like we want two separate events.
+
+**Edwin Chen:** Like, we do want the decision makers, because, yeah, we do want them for maybe obvious reasons.
+
+**Edwin Chen:** But it is also true that these people on the ground are oftentimes the actual decision maker, even if the higher, like, yeah, even if the higher up person is nudging them towards something.
+
+**Edwin Chen:** Like, at the end of the day, it is the person on the ground who's doing all these things.
+
+**Nick Heiner:** go on.
+
+**Nick Heiner:** And Marcelo would also add, like, the recruiting brand of, you know, one to actually hire some of these researchers yourselves.
+
+**Marcel Santilli:** Yeah, like, what I found can work really well.
+
+**Marcel Santilli:** It's obviously too late.
+
+**Marcel Santilli:** But, like, these things, like, the further ahead you plan is better.
+
+**Marcel Santilli:** Unfortunately, with conference cycles, you know, it's interesting.
+
+**Marcel Santilli:** First come, first serve.
+
+**Marcel Santilli:** So if you're late to it, you're going to get a  booth.
+
+**Marcel Santilli:** All the venues are booked, all of that, right?
+
+**Marcel Santilli:** But since you haven't done anything like this, it's a lot easier to pick a city like San Francisco where there is a core, enough people that you know that you can fill a room with some work and do like a 50-person thing.
+
+**Marcel Santilli:** You know, like Sequoia did one recently that was like just at an office, like 50 people, super high caliber, like, you know, like doing something like that and starting with like, you know, like maybe we take the idea of failure mode and calling it that, like, it's just like an event that we really go deep into data quality and whatever.
+
+**Marcel Santilli:** Or like, it's where you have the top researchers, like all sharing something, like pick something that's just like really good, but not like doesn't take a crazy amount of work because it's like, it's like, you know, filling an agenda for four hours is not that hard.
+
+**Marcel Santilli:** Filling a room of 50 people is not that hard, you know, but then you just do a beautiful.
+
+**Marcel Santilli:** Job of that.
+
+**Marcel Santilli:** then like, then you build a reputation, you know, or if you want to start with a few dinners that are like 50 people dinners, you know, and then like build a series of that is usually how I do because like I started with breakfast for CMOs because then I built my network of people that always show up when I invite them.
+
+**Marcel Santilli:** And then now it's like makes my, my offense for 45 people way easier, you know?
+
+**Marcel Santilli:** So it's like, you kind of need to build your way up a little bit.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** You know, big  party for 300 people.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** So we did two events like that this year.
+
+**Nick Heiner:** Um, one was a dinner at Quince for like 15 people and the other was a Warriors suite for like 40 or something.
+
+**Marcel Santilli:** Oh, nice. We're on the invite, man.
+
+**Nick Heiner:** Yeah, we're talking about it.
+
+**Marcel Santilli:** Um, we have, we got season tickets for the Warriors and Quartzite and they're freaking, we closed three deals already.
+
+**Marcel Santilli:** And that was just the playoffs.
+
+**Marcel Santilli:** so, so Warriors definitely is a good honor of a lot to say, you know?
+
+**Nick Heiner:** Yeah, mean, so we had our sweep and we also got some courtside seats and, you know, we were bringing people down, you know, over the night and yeah, it was good.
+
+**Nick Heiner:** Anyway, for things like doing like the conference after party, how much lead time do you think it takes?
+
+**Nick Heiner:** And also, how much could you guys just handle all of that for us?
+
+**Marcel Santilli:** Even if you can't, I will find exactly what to do and, you know, like, don't worry about it.
+
+**Marcel Santilli:** It's just like, I will tell you, like, conferences  suck.
+
+**Marcel Santilli:** Like, it's just a nightmare.
+
+**Marcel Santilli:** These people don't sometimes even have a website, like, clearly, right?
+
+**Marcel Santilli:** Like, these research conferences are very poorly managed because they're volunteers, they're, you know, these people that are like, they're not like managed by an actual company that's doing well kind of thing.
+
+**Marcel Santilli:** And so because of that, the normal rules don't apply.
+
+**Marcel Santilli:** It's like a nightmare to get ahold of people, like coordinating and things like that.
+
+**Marcel Santilli:** And good.
+
+**Marcel Santilli:** are a nightmare because they have to be built.
+
+**Marcel Santilli:** They have to be designed.
+
+**Marcel Santilli:** So if you stay away from that, everything else is a little bit simpler.
+
+**Marcel Santilli:** The only gotcha is that if it's a big conference and you're trying to fill a room during the conference, you better have a very smart way to get people in the room because you've to invite people.
+
+**Marcel Santilli:** People have got to find out about it.
+
+**Nick Heiner:** And there's no announcement kind of thing to do.
+
+**Nick Heiner:** Yeah, so what you said earlier, it sounds like we would want the booth under those circumstances.
+
+**Marcel Santilli:** So I think the question is just like, yeah, how much can we sort of externalize that onto you or, you or someone else who you bring in?
+
+**Nick Heiner:** Like, is it sort of free plug and play from our part where Edwin says, I want to do, you know, nerfs.
+
+**Nick Heiner:** And then you guys can basically just make the rest of it happen.
+
+**Marcel Santilli:** We can.
+
+**Marcel Santilli:** The part that we need to define with you is just like your brand.
+
+**Marcel Santilli:** Like, because right now going off of your website, we wouldn't be able to figure out what to do with your, with the booth, you know, like, and so we need to have that, right?
+
+**Marcel Santilli:** Like, like, there's just needs to be like, especially with experience.
+
+**Marcel Santilli:** It goes even further because it's like, oh man, how do I even communicate this?
+
+**Marcel Santilli:** You can't just have a blank thing.
+
+**Nick Heiner:** Absolutely.
+
+**Nick Heiner:** And we're definitely happy to work through that with you guys, especially because it is a thing we would reuse in many venues.
+
+**Marcel Santilli:** So if we can grab, you guys can send a sync too, but it would be good to just understand the inputs that can drive the next 12-month strategy.
+
+**Marcel Santilli:** And then I can put something together more thoughtfully.
+
+**Marcel Santilli:** You know, I've always been very skeptical of getting to the tactics before seeing the big picture because the tactics are easier to execute.
+
+**Marcel Santilli:** And I know how to do something in my sleep type of thing.
+
+**Marcel Santilli:** I've always just like, it's just trying to figure out like how do we stack, for example, like your hiring brand versus like, you know, networking and building deeper relationships with the people that manage the bigger budgets.
+
+**Marcel Santilli:** Versus like the actual researchers and things like that.
+
+**Marcel Santilli:** And then we can come up with like a few like programs or lanes that could work for you all.
+
+**Marcel Santilli:** But I've done all of them, you know, in decent ways.
+
+**Marcel Santilli:** And I think like what worked really, really, really well for where we did a scale was like we had a few venues that were really easy to go to, which was like the Rosewood was our best one.
+
+**Marcel Santilli:** And these are just venues that people know by name.
+
+**Marcel Santilli:** And then you can do events that are a combination of cocktail hour.
+
+**Marcel Santilli:** then you get people and then you sit them now strategically.
+
+**Marcel Santilli:** And in every table, you have like your internal people in between the other people.
+
+**Marcel Santilli:** And it's very strategically placed.
+
+**Marcel Santilli:** So it's like you have a customer here that's going to be next to this other person, whatever.
+
+**Marcel Santilli:** And then you fill a room.
+
+**Marcel Santilli:** It's like very high end.
+
+**Marcel Santilli:** And it's not crazy.
+
+**Marcel Santilli:** It's like, I mean, it's not cheap, but it's like, you know, $4.50 a person with swag and everything included, you know, like super turnkey.
+
+**Marcel Santilli:** And, you know, and then it's just like a matter of invite.
+
+**Marcel Santilli:** Everybody wants to go there because it's good food and good menu.
+
+**Marcel Santilli:** It's kind of like a slight or bigger scale of that.
+
+**Marcel Santilli:** But anyways, I can craft a lot of that.
+
+**Marcel Santilli:** It's just understanding how to think about what we want to achieve in the next 12 months.
+
+**Marcel Santilli:** Then I can suggest some things.
+
+**Marcel Santilli:** And then we can get into the execution part ourselves.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** Okay, perfect.
+
+**Nick Heiner:** So, yeah, I think that session next week that we talked about would be good.
+
+**Nick Heiner:** But I think it's just very narrowly for something like this conference, like a booth, have an after party.
+
+**Nick Heiner:** How much lead time does it take?
+
+**Nick Heiner:** How far ahead do we need to ask you guys to do that in order for it to be feasible?
+
+**Marcel Santilli:** So it's all about when they open up the expo hall for booths. And depending on that, then you're just going to get really good positions and you're going to run out of certain sizes, you know?
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** Yeah, so let's say we want it to be good.
+
+**Marcel Santilli:** Yeah, and then like, so it depends on the conference, and so it's like, we should, we can come up with a calendar of them if we know what audiences you're going after.
+
+**Marcel Santilli:** There's only so many, I know all of them, but you know, like, I mean, there's, like for instance, like, they just had the AI engineer one in SF, that tends to be a pretty good one these days, but there are not less researchers, but then like the researcher ones, there's only like a handful that are like the big ones, right?
+
+**Marcel Santilli:** Like, and, and then the booth piece, I'd say probably three months to build them out, and they're not cheap, but like, you can do a really good one for 50K.
+
+**Marcel Santilli:** And then the same vendor that I've used that I can vouch for, because I use it on scale, and I use it on deep ground, they'll do it, and then they also will have the service to store and ship it and bring it back to another event.
+
+**Marcel Santilli:** And it's all very expensive for what it is, but it's like, it's kind of like, it's like a monopoly, they all are required to use like, you know, union people, it's like this whole.
+
+**Marcel Santilli:** Like conference, like, you know, marketing kind of thing, you know, but that's like, that's pretty turnkey.
+
+**Marcel Santilli:** I'd say like three months to be safe to like do the build out, but the design plus out, you know, at least, you know.
+
+**Nick Heiner:** Okay, cool, cool.
+
+**Nick Heiner:** All right, yeah, so let's, let me just look at the calendar quickly.
+
+**Nick Heiner:** Yeah, I think next week that will be sort of the big next step for us.
+
+**Nick Heiner:** Yeah, so, okay, so Edwin's calendar is pretty open on Monday in the afternoon.
+
+**Marcel Santilli:** So, yeah, I'm pretty flexible between 10 and 1 p.m.
+
+**Marcel Santilli:** my time.
+
+**Marcel Santilli:** I just have a couple of kickoffs in person before and after that.
+
+**Nick Heiner:** Can you do two to three your time?
+
+**Marcel Santilli:** Two to three my time?
+
+**Marcel Santilli:** I can't, unfortunately, because it's like it's kickoff, it's been scheduled for like five a while.
+
+**Marcel Santilli:** But I can do three o'clock.
+
+**Nick Heiner:** Oh, yeah, perfect, perfect.
+
+**Nick Heiner:** Three and four?
+
+**Marcel Santilli:** Three.
+
+**Nick Heiner:** Yeah, 3 or 4 Pacific, right, you're talking about?
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** Yeah, I'm Pacific, so.
+
+**Nick Heiner:** Okay.
+
+**Nick Heiner:** Okay, I will, I'll make a meeting right now.
+
+**Marcel Santilli:** Okay, cool.
+
+**Marcel Santilli:** And then if there's anything I can prep before that, I can do a lot of work before that, you know.
+
+**Nick Heiner:** Yeah, let's see.
+
+**Nick Heiner:** Should I add anyone else from your side?
+
+**Marcel Santilli:** Jason, anyone else?
+
+**Marcel Santilli:** Jason is in PTO.
+
+**Marcel Santilli:** So for now, it can just be me and I can add other folks, but I'm most likely going to bring in a couple of folks, once we've got, like, a lot of the priorities.
+
+**Nick Heiner:** Let me just make this real quick.
+
+**Nick Heiner:** Okay.
+
+**Marcel Santilli:** Let's go.
+
+**Marcel Santilli:** Thank
+
+**Marcel Santilli:** Okay, got any fun plans for the weekend, other than dealing with construction, I think?
+
+**Marcel Santilli:** Yeah, yeah, I've been, I'm at my parents' vacation house right now, but I'm going back, but yeah, I've been dodging, dodging the construction careers.
+
+**Marcel Santilli:** I'll share some of the stories next time I see you, of how Fathom's dad was replacing her roof, and the two roopers fell off 80 feet and almost died in her house while we're out on a quick weekend trip, and we're like, , they're fine now, but it's just like, we have every story in the book you can imagine when it comes to construction horror stories, you know.
+
+**Nick Heiner:** Oh, that is not good.
+
+**Nick Heiner:** Okay, cool.
+
+**Nick Heiner:** I have sent that invite, yeah, so I think we're all good.
+
+**Nick Heiner:** Oh, yeah, so I will watch this video, and yeah, I'll give some sort of picture.
+
+**Marcel Santilli:** Perfect.
+
+**Marcel Santilli:** Super fake.
+
+**Marcel Santilli:** I don't know if you saw, like, the art.
+
+**Marcel Santilli:** But like Elon Musk tweeted it and got like over 6 million impressions and stuff like stuff.
+
+**Marcel Santilli:** But I personally think the more you guys lean into that, it's like super beneficial.
+
+**Marcel Santilli:** Like Bragg is, I mean, you guys saw, but Bragg is like legit and, you know, like the work they're doing, I think, is really meaningful as well.
+
+**Marcel Santilli:** So I think being associated with that in some way, shape, or form would sort of be beneficial, I think, you know.
+
+**Nick Heiner:** Yeah, for sure.
+
+**Nick Heiner:** There's a blog post I want to write about that.
+
+**Nick Heiner:** It's lower in my hopper, but I think there's a major stuff you can there.
+
+**Marcel Santilli:** Yeah, yeah.
+
+**Marcel Santilli:** I'll think of some stuff too, but that's good, man.
+
+**Marcel Santilli:** Or also, like if you're thinking of events too, like anything you can do, like I can help kind of connect some of those stuff if you need it.
+
+**Marcel Santilli:** It's always nice to also like do it in conjunction with someone else too.
+
+**Nick Heiner:** makes it a lot easier.
+
+**Nick Heiner:** Yeah, yeah, for sure.
+
+**Nick Heiner:** And yeah, I guess let me, I guess just a little more context on the events.
+
+**Nick Heiner:** Yeah, so we had these two events.
+
+**Nick Heiner:** And what they came from actually was from a meta research director.
+
+**Nick Heiner:** Thank you.
+
+**Nick Heiner:** you.
+
+**Nick Heiner:** They're telling us, you guys need to be more social.
+
+**Nick Heiner:** Alex Wang is everyone's best friend.
+
+**Nick Heiner:** He's out there having these dinners all the time.
+
+**Nick Heiner:** You guys got to do some dinners.
+
+**Nick Heiner:** I was like, all right, let's do some dinners.
+
+**Nick Heiner:** I think from Edwin's perspective, he really doesn't like how much of a distraction it was on his time personally and on the team's time.
+
+**Nick Heiner:** So for his time personally, he wanted to be involved in deciding the invite list and personally reaching out to people.
+
+**Nick Heiner:** And on the team's time, was like, okay, you know, we're like, just all religious stuff and stuff.
+
+**Nick Heiner:** So I think that the two things, I mean, I hear you about like, okay, you guys are building your network of people who will always come and then you can sort of expand towards.
+
+**Nick Heiner:** But I think the two things that will make it really easy for him to be so very excited about that going forward is one, what I was saying about like, can we just write a check and you guys just make it all happen?
+
+**Nick Heiner:** But two, the extent to which, and I understand like, this is the part he can't.
+
+**Nick Heiner:** Really externalized because a lot of it is just based on his personal connections.
+
+**Nick Heiner:** But yeah, if it's something like, yeah, we're doing a hosted combined with RKGI or whatever, and like they're going to bring half the interesting guests and we're going to bring half the interesting guests.
+
+**Nick Heiner:** So it's actually a lower effort.
+
+**Nick Heiner:** And then we get to meet those people and then they sort of become part of our sphere.
+
+**Nick Heiner:** So yeah, I guess anything or if it's something like, you know, because we've gone back and forth on, you know, the quince dinner obviously was like the decision makers, very curated one, the golden state warriors.
+
+**Nick Heiner:** Yeah, yeah, feel good about both of them.
+
+**Nick Heiner:** The golden state warriors one was more like basically anyone we work with at any of our clients is welcome to attend.
+
+**Nick Heiner:** You know, you could imagine something that's even more, even that requires substantial inviting people effort.
+
+**Nick Heiner:** So even more, it's like, yeah, we're just doing a happy hour for like AI engineers in San Francisco.
+
+**Nick Heiner:** And think we just get cross posted to some lists of places where people are doing this.
+
+**Marcel Santilli:** It's not necessarily that we have a personal connection.
+
+**Marcel Santilli:** That's way easier.
+
+**Nick Heiner:** Exactly, exactly.
+
+**Nick Heiner:** so then it's like, okay, Edwin, we're not asking you to send a bunch of invites or for you to personally think about who needs to be invited.
+
+**Nick Heiner:** We're just asking you to sign on the line and come to San Francisco in three weeks or whatever.
+
+**Nick Heiner:** So anyway, I got all this stuff.
+
+**Nick Heiner:** I agree that tactics can flow from the team we're going have next week.
+
+**Marcel Santilli:** Yeah, I have the entire playbook.
+
+**Marcel Santilli:** Like for instance, like when we did the actual Transformers conference, out of the 500 people that came in person to that conference, probably like 100 executives were, yeah, Alex reached out, but probably 300 of those were just me sending messages on LinkedIn to AI people that were execs that hung up that ended up just being like, oh, you got who's speaker and whatever.
+
+**Marcel Santilli:** So it's like, there's little tweaks here where it's like, as long as you name drop logos or aims, then everything else is super easy to do.
+
+**Marcel Santilli:** But then if you don't have the anchors to those events, which can be, then you can be an anchor.
+
+**Marcel Santilli:** But then if you have the right people to be the anchors as well, and the combination of those things, then the rest.
+
+**Marcel Santilli:** Kind of like copy and paste and send and like Alex didn't use to send them.
+
+**Marcel Santilli:** He was just, to be fair, like, or not fair, but like the  part about the whole process was that Alex had these rules for who to not invite that always change and was never distilled down.
+
+**Marcel Santilli:** like, yeah, I just don't like that person's vibe.
+
+**Marcel Santilli:** Like, Alex, all you don't like this person's vibe is turning out to be women and minorities.
+
+**Marcel Santilli:** Like, what the , bro?
+
+**Marcel Santilli:** Like, you can't do that, man.
+
+**Marcel Santilli:** Like, you know,  like that that was just like really annoying, which was like, what do you mean?
+
+**Marcel Santilli:** This person's a CEO of this company, but then this other guy is a CEO of all of lot.
+
+**Marcel Santilli:** And it's like always like mismatched, which I know won't be the case.
+
+**Marcel Santilli:** It's like, that made it hard because you can never distill his thought process and save some time, you know?
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** So I will say that Edwin does have some of that.
+
+**Marcel Santilli:** Not about women.
+
+**Marcel Santilli:** Sure.
+
+**Marcel Santilli:** Yeah.
+
+**Marcel Santilli:** It's like.
+
+**Marcel Santilli:** Well, I'll give you an example.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** I'll give you an example.
+
+**Marcel Santilli:** I was.
+
+**Marcel Santilli:** I have to run in a minute.
+
+**Nick Heiner:** Yeah.
+
+**Nick Heiner:** I was just reaching out to people on podcasts and I was like, hey, like, let's see if we can get this person.
+
+**Nick Heiner:** And Edwin, for some of them, I was like, No.
+
+**Nick Heiner:** No.
+
+**Nick Heiner:** I think his podcast is dumb, I don't want him around.
+
+**Nick Heiner:** And it's like, only Edwin had that idea in his head.
+
+**Nick Heiner:** So there will be some of that, but, you know, at the broad, basic level, it's good deal.
+
+**Nick Heiner:** Anyway, I'll let you go.
+
+**Nick Heiner:** Cool.
+
+**Nick Heiner:** Sounds good, man.
+
+**Nick Heiner:** Talk Monday.
+
+**Nick Heiner:** Take care.
+
+**Nick Heiner:** Bye.

@@ -1,0 +1,1802 @@
+[
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Hi, Feyi, how are you?",
+    "timestamp": "00:00:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Does this work?",
+    "timestamp": "00:00:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Does that work?",
+    "timestamp": "00:00:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Yeah, I can see you now, Darrell.",
+    "timestamp": "00:00:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "it's show.",
+    "timestamp": "00:00:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "And Jason.",
+    "timestamp": "00:00:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "the same time.",
+    "timestamp": "00:00:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Hey, yeah, I think it's because I tried to, I accidentally joined on another browser while I was trying to get Fathom in, but that worked.",
+    "timestamp": "00:00:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Hello.",
+    "timestamp": "00:00:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Great.",
+    "timestamp": "00:00:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thanks, everybody, for joining.",
+    "timestamp": "00:00:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Happy Friday.",
+    "timestamp": "00:00:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:00:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And yeah, let's quick rundown on some updates.",
+    "timestamp": "00:00:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'll just start from my side because I think it will affect everybody, but the engineering team had me do a bunch of generation this week and record all of my thoughts, and my thoughts were not good or happy with them because it's in a really bad state, really bad state.",
+    "timestamp": "00:00:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So they had me and Matthew both do that, and I think I was shocked at how bad it",
+    "timestamp": "00:00:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It still was, so, but that was well heard, like Daniel yesterday responded after watching all my looms and was like, okay, this is perfect, this is the kind of comprehensive feedback we were looking for, we're going to change a whole bunch of stuff to fix this.",
+    "timestamp": "00:01:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And a lot of it will be actually kind of removing some of the things that they put in place to direct the output, because I think what he communicated to me was that he didn't realize how powerful and good Claude had become since.",
+    "timestamp": "00:01:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, ironically, a lot of the stuff that they were putting on top of it was, yeah, like Ehtisham said, like, was actually, like, making it worse than just the thing as it operates, right?",
+    "timestamp": "00:01:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And you can go watch the looms, too, if you are curious, but, like, basically, I was just running in parallel the same generation in Atlas and also in Claude Projects, like, fully popular.",
+    "timestamp": "00:01:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "related with all of the client artifacts and any other supplemental documents that I thought might be useful.",
+    "timestamp": "00:02:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "One in particular, like, we have this client town that's coming on and they're doing tax stuff.",
+    "timestamp": "00:02:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And they were like, we would really like to address the big, beautiful bill, but it's complicated and we don't understand necessarily because it's a moving target.",
+    "timestamp": "00:02:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But like cloud projects would use a combination of like a bunch of best in class documents of like what the current state is and implications from like, certified accountants and then also would go out to the web to find most recent information and came up with stuff that was very like factual accurate, right?",
+    "timestamp": "00:02:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like once I went through and fact checked it.",
+    "timestamp": "00:02:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, you know, I articulated all that for them because I think they need sort of the similar thing where it's kind of acting like a closed notebook, but can go out to the web when it wants to as well.",
+    "timestamp": "00:02:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And rather than just right now, kind of like very like narrowly and specifically calling.",
+    "timestamp": "00:02:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And artifacts in and then using the artifact on that one particular task and then sending it away.",
+    "timestamp": "00:03:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Maybe you saw some of the updates from Matthew too.",
+    "timestamp": "00:03:06"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So those are some of the like more immediate, hopefully, like pain relieving steps that they took, which was, I mean, the big one was the assignment direction was not used.",
+    "timestamp": "00:03:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It was any effect that it had was strictly placebo effect on the user side.",
+    "timestamp": "00:03:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It was just not used.",
+    "timestamp": "00:03:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that's a huge change.",
+    "timestamp": "00:03:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then I don't know that they haven't shared any of this either, but I've seen it from Brad, who is, you know, one of the lead engineers over there.",
+    "timestamp": "00:03:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But they have like, they're testing a new interface that is like literally a chat interface.",
+    "timestamp": "00:03:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So it has a box and it's like, hey, what would you like to do today?",
+    "timestamp": "00:03:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then you kind of like say, I want to write an article about blah, blah, blah.",
+    "timestamp": "00:03:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then it goes from there, right?",
+    "timestamp": "00:03:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And taps the pipeline.",
+    "timestamp": "00:03:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So lots of big quality of life improvements coming and hopefully some of these will help sooner rather than later.",
+    "timestamp": "00:03:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Because, yeah, it was just immediately apparent once you start getting into it.",
+    "timestamp": "00:04:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "It's like one is like doing something with one hand tied behind your back, and the other is like doing it with like a full service team at your disposal, right?",
+    "timestamp": "00:04:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like it's night and day.",
+    "timestamp": "00:04:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I think that's good news.",
+    "timestamp": "00:04:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Stay tuned for more out of that.",
+    "timestamp": "00:04:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And I'm going to continue to do some stuff here.",
+    "timestamp": "00:04:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then if so, if you have anything tricky that you can send it my way and I'll run some experiments as well and use that to further inform them.",
+    "timestamp": "00:04:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'm talking to this afternoon, but then I'm going out there next week.",
+    "timestamp": "00:04:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that's another update for me.",
+    "timestamp": "00:04:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "They'll be in San Francisco next week working on PT.",
+    "timestamp": "00:04:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But typically when I'm out there in PT, I still can't help but wake up on like ET hours and I don't really adjust anymore.",
+    "timestamp": "00:04:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I should be around roughly the same time as I usually am.",
+    "timestamp": "00:04:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:04:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then, yeah, other than that, like we went back and forth on how exactly we would be adding these new clients.",
+    "timestamp": "00:04:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But town and engine are.",
+    "timestamp": "00:04:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "In terms of adding us to it, we're just still pausing at the CM layer because I'm acting in that capacity for now, but we'll probably have a changed way of doing that.",
+    "timestamp": "00:05:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I imagine we'll start bringing in CMs to do generation next week, but I'll confirm next week.",
+    "timestamp": "00:05:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then the other one is Aimbit, and we are ramping, we can ramp fully on them.",
+    "timestamp": "00:05:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "They're a demanding client, interesting client, but a very communicative client, so I'm hopeful that that will help also with this.",
+    "timestamp": "00:05:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "then, again, in combination with this thing, because they have really specific ways they want to talk about the product and the specific, technically challenging product.",
+    "timestamp": "00:05:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But if we do more of this stuff that we can do in cloud projects in Atlas, then it should be, honestly, no problem.",
+    "timestamp": "00:05:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, yeah, let's hope that works out.",
+    "timestamp": "00:05:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Cool, yeah, that's all for me.",
+    "timestamp": "00:05:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But, yeah.",
+    "timestamp": "00:05:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Open up the floor.",
+    "timestamp": "00:06:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Anybody else have anything they wanted to chat about this week?",
+    "timestamp": "00:06:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So I think we discussed after truth in detail yesterday.",
+    "timestamp": "00:06:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So I'm just going to, like today, I'm just going to come up with new topics for them as well as the new lighter outlines that we discussed with them.",
+    "timestamp": "00:06:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So hopefully I'm just going to hit them with 10 outlines today.",
+    "timestamp": "00:06:19"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "And yeah, then Jess has three articles, three approved outlines that she's going to work on.",
+    "timestamp": "00:06:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Plus, I have a couple of articles that I need to edit and then one that needs like a complete rewrite, because they gave a new structure to it.",
+    "timestamp": "00:06:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "But hopefully I'll tackle that today as well.",
+    "timestamp": "00:06:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "With AIMBIT and Prophecy, the good thing is both parties approved the new topics that we sent them.",
+    "timestamp": "00:06:40"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So, and they're like more leaning towards thought leadership, especially the prophecy new topics.",
+    "timestamp": "00:06:46"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So I'm curious to see how Atlas is going to perform on at that front.",
+    "timestamp": "00:06:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So Saskia is going to pick that up next week, and then Fey can get started on the 8-bit articles that we have.",
+    "timestamp": "00:07:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "We have a bunch of approved topics, so plus I need to get a more kind of a lay of the land.",
+    "timestamp": "00:07:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "When it comes to 8-bit, I need to see what condition the account is in, how many articles we have delivered, how many have we been delivering, etc.",
+    "timestamp": "00:07:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "I had three of their articles with me that I needed to edit, so I edited two of them yesterday.",
+    "timestamp": "00:07:23"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "And then the third one, I'm going to edit right now after this call, and then I'm going to send them a message.",
+    "timestamp": "00:07:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So their comments were like, I feel like they really know their product inside out, and that's why they are very particular about how we use different phrases and different terms in there.",
+    "timestamp": "00:07:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "And that's something that I think they are very communicative about it, plus people learn over time how they use different terminologies.",
+    "timestamp": "00:07:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "that should be.",
+    "timestamp": "00:07:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "That should work out.",
+    "timestamp": "00:08:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I think on the after shoot, you reminded me, a lot of their comments, that's an interesting call too, if people want to go watch it, I recommend.",
+    "timestamp": "00:08:01"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Uncomfortable, I think.",
+    "timestamp": "00:08:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But their comments were, like, reading between the lines were all the same feedback I had about Atlas, basically.",
+    "timestamp": "00:08:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, I think there's a lot we can do there with, hopefully, some of the fixes that we've made, particularly around assignment direction.",
+    "timestamp": "00:08:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Now that that will actually be honored, hopefully that can help there significantly.",
+    "timestamp": "00:08:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, maybe try rerunning with some of that.",
+    "timestamp": "00:08:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Yes, Saskia?",
+    "timestamp": "00:08:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "I chatted with Ehtisham yesterday just about all of this, and I also sent, like, a ticket last week about giving, like, the assignment brief quite a detailed outline, and then it broke, whatever.",
+    "timestamp": "00:08:39"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "But yesterday I did actually try and create an article for Prophecy in Atlas, and I used, so I found.",
+    "timestamp": "00:08:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Like, I spoke to you about this, but I find, like, I give, as you said, like, I give CatchyBT everything that Atlas had, and it generated better articles for me.",
+    "timestamp": "00:09:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "I've been taking those, and I've been putting them in today.",
+    "timestamp": "00:09:08"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Yesterday, I put that into the assignment brief, and it actually flowed through all the way to the end.",
+    "timestamp": "00:09:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Like, it kept an outline, and it filled it in.",
+    "timestamp": "00:09:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "It's still a bit weird with formatting and the length of the content and stuff, but I'm fixing that.",
+    "timestamp": "00:09:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "But it does seem to be getting a little bit better.",
+    "timestamp": "00:09:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "So, yeah, I'm having, in summary, having a little bit of success with putting a nice outline with instructions in the assignment brief.",
+    "timestamp": "00:09:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Yeah, it is honoring that.",
+    "timestamp": "00:09:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And then the thing they want to do now, too, because they don't love that the stuff is being generated outside and then brought in for the outline.",
+    "timestamp": "00:09:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But I don't know if they pushed this yet, but they're working on a fix whereby, in the assignment direction, you can use the Ask.ai feature to have it generate an outline based on a prompt.",
+    "timestamp": "00:09:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So you technically can hopefully do that right there, and it will have the same exact.",
+    "timestamp": "00:09:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Output effect as if you were doing it in ChatGPT or COD, right?",
+    "timestamp": "00:10:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'll definitely see if that comes in on Prophecy.",
+    "timestamp": "00:10:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Yeah, I can't remember if it's actually live.",
+    "timestamp": "00:10:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I don't think it is yet, but as soon as it is, I'll let you know, or they'll put it in Learning Atlas or somewhere else.",
+    "timestamp": "00:10:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Great.",
+    "timestamp": "00:10:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Cool.",
+    "timestamp": "00:10:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Thank you so much for doing all of that, because, Lish, I think I sent you that message about my thoughts on it, and it seems like you've discovered the same thing, and I'm glad that they've got all that feedback.",
+    "timestamp": "00:10:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Well, yeah, it wasn't, it wasn't, like, unavailable information, which is part of the frustration, but, you know, sometimes people just need to be told in the right way.",
+    "timestamp": "00:10:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Yes, exactly.",
+    "timestamp": "00:10:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Yeah, so thank you for doing that.",
+    "timestamp": "00:10:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That was, that also, the length thing was also the big thing that I pointed to them, because it was, I didn't, my testing methodology was, like, I'm not going to do all the things that you ask us to do up front to try to massage this, because that's not a fair comparison.",
+    "timestamp": "00:10:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "A real comparison is,",
+    "timestamp": "00:10:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I spend two minutes at the start of the pipeline, and I spend two minutes on the prompts in cloud projects, it's equivalent time in, and then I don't touch anything, and then I get my result, right?",
+    "timestamp": "00:11:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So which one wins in that scenario?",
+    "timestamp": "00:11:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That's a fair comparison.",
+    "timestamp": "00:11:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Not a, like, do I spend an hour and a half trying to set up the workflow at the beginning so that it produces something okay at the end, right?",
+    "timestamp": "00:11:16"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That's exactly it.",
+    "timestamp": "00:11:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I was spending more time in Atlas trying to get a better result than it was just to go into cloud and give it the same stuff, yeah, essentially.",
+    "timestamp": "00:11:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, so they, because the one thing, they kept saying, oh, well, you didn't try to affect that, because I said, every time it was three, three to four thousand words, and I'm like, okay, and they're like, you didn't try to adjust the length, and I'm like, yeah, I didn't, I didn't in cloud either, and it gave me 1,200 to 1,500 word articles every single time, so what's going on?",
+    "timestamp": "00:11:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "but it was, it's the keyword stuffing, and the, like, the hard-coded, to Edisham's point earlier, like, all the hard-coded stuff that they, in,",
+    "timestamp": "00:11:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "This, that it includes, that over-fluffs it now.",
+    "timestamp": "00:12:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So, once they strip out some of that rigging, it'll work better.",
+    "timestamp": "00:12:03"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, anything else?",
+    "timestamp": "00:12:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "We kind of sidetracked there, Ehtisham.",
+    "timestamp": "00:12:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Were you finished your thought on?",
+    "timestamp": "00:12:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So, I just remembered, like, the cloud account links that you sent out in email, that those expired for me.",
+    "timestamp": "00:12:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So, I got two different emails, but when I clicked the link, the link had already expired.",
+    "timestamp": "00:12:24"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "So, please, please send those out again.",
+    "timestamp": "00:12:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Oh?",
+    "timestamp": "00:12:31"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Yeah.",
+    "timestamp": "00:12:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "You mean for the pod B?",
+    "timestamp": "00:12:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Yeah, yeah.",
+    "timestamp": "00:12:35"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Those ones.",
+    "timestamp": "00:12:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Yeah, it's weird, Darrell.",
+    "timestamp": "00:12:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Like, I keep getting emails to say, like, you need to join this, you need to sign up.",
+    "timestamp": "00:12:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "And when I click on it, the link just doesn't work, or it says it's already been used.",
+    "timestamp": "00:12:41"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "So, yeah, it's a bit odd.",
+    "timestamp": "00:12:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Hmm.",
+    "timestamp": "00:12:47"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I was, I just used it yesterday and this morning, and it worked fine.",
+    "timestamp": "00:12:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But let me investigate.",
+    "timestamp": "00:12:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Anthropic via pod secure link to log into cloud.ai.",
+    "timestamp": "00:12:54"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:12:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:12:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:12:58"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "It got two emails on July 16th, and the links expired.",
+    "timestamp": "00:13:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Secure links.",
+    "timestamp": "00:13:05"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I got one yesterday, and the links expired.",
+    "timestamp": "00:13:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "So, like, as soon as it came through, I clicked on it, and it just didn't work.",
+    "timestamp": "00:13:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Okay, maybe this was a product of, like, oh.",
+    "timestamp": "00:13:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Feyisayo Odedeyi",
+      "matched_calendar_invitee_email": "feyisayo@growthx.ai"
+    },
+    "text": "Pardon?",
+    "timestamp": "00:13:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I don't have access to the code accounts for the pod yet.",
+    "timestamp": "00:13:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Feyisayo Odedeyi",
+      "matched_calendar_invitee_email": "feyisayo@growthx.ai"
+    },
+    "text": "Okay, let me see.",
+    "timestamp": "00:13:25"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I have access to the group, so I can do member additions.",
+    "timestamp": "00:13:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, oh, you should have access to it.",
+    "timestamp": "00:13:32"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I know you should be getting every email.",
+    "timestamp": "00:13:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Feyisayo Odedeyi",
+      "matched_calendar_invitee_email": "feyisayo@growthx.ai"
+    },
+    "text": "Is it on this X's Cloud Pro?",
+    "timestamp": "00:13:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Feyisayo Odedeyi",
+      "matched_calendar_invitee_email": "feyisayo@growthx.ai"
+    },
+    "text": "No, no, no, it's not.",
+    "timestamp": "00:13:42"
+  },
+  {
+    "speaker": {
+      "display_name": "Feyisayo Odedeyi",
+      "matched_calendar_invitee_email": "feyisayo@growthx.ai"
+    },
+    "text": "It's a different one.",
+    "timestamp": "00:13:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So let me, that's what you're missing.",
+    "timestamp": "00:13:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "You're missing the actual email and instructions.",
+    "timestamp": "00:13:45"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'll get those.",
+    "timestamp": "00:13:48"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'll post them and pin them to the channel, because they're buried somewhere in Slack where Yusuf had outlined them for us.",
+    "timestamp": "00:13:49"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yes, that is handy.",
+    "timestamp": "00:13:57"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:13:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But, yeah, try that again, because maybe it was just some weird coincidence of, like, multiple people logging in at the same time.",
+    "timestamp": "00:14:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like, I know there's a small chance that that's possible.",
+    "timestamp": "00:14:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "just tried it now to get it, and it's just not working.",
+    "timestamp": "00:14:10"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Hmm.",
+    "timestamp": "00:14:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Saskia Wartnaby",
+      "matched_calendar_invitee_email": "saskia@growthx.ai"
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "I'm going to take the risk and log out just so that I can see what happens when I try.",
+    "timestamp": "00:14:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But, yeah, if this doesn't work, I'll try to figure out what's going on with Yusuf and the team over there.",
+    "timestamp": "00:14:21"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Awesome.",
+    "timestamp": "00:14:29"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Thank you.",
+    "timestamp": "00:14:30"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay.",
+    "timestamp": "00:14:37"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Anyone else have anything?",
+    "timestamp": "00:14:38"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "No.",
+    "timestamp": "00:14:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "I want to say that I tried the AI feature, SKI feature, today on my articles, and it's excellent, really.",
+    "timestamp": "00:14:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "It works.",
+    "timestamp": "00:14:52"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "So, please try it on your article as well.",
+    "timestamp": "00:14:53"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "you.",
+    "timestamp": "00:14:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "The edit part is much faster now.",
+    "timestamp": "00:14:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "It really is.",
+    "timestamp": "00:14:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "It's a...",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "You don't have to go, for example, CHGPT and then turn this into bullet points or something, Atlas will do that for you.",
+    "timestamp": "00:15:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "It can also turn some parts in H3, so for better readability, etc.",
+    "timestamp": "00:15:09"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "So yeah, please read that on your article, Cesar.",
+    "timestamp": "00:15:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "That's great.",
+    "timestamp": "00:15:17"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I was using it a bit and it was doing some unusual activity, but it was working a lot better than before.",
+    "timestamp": "00:15:18"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But it was just kind of doing, I told them this too, but I don't love that it does the track changes thing and then requires that approval flow as opposed to, when I do cloud edits in the project, it just flows the edits right into the live document on the right.",
+    "timestamp": "00:15:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "And even though that's like counterintuitive versus like what a normal manual editing flow would be like, I much prefer it.",
+    "timestamp": "00:15:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But because the other one kind of like, it would highlight in green the changes and then I would approve, but then it left a lot of detritus that was like unintentional in there.",
+    "timestamp": "00:15:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Like,",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Some of the old text, some of the new text.",
+    "timestamp": "00:16:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So maybe they fixed all that.",
+    "timestamp": "00:16:02"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "The other big known bug that I just remembered was that external links is broken.",
+    "timestamp": "00:16:04"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "But there wasn't that part where the paragraph was left in.",
+    "timestamp": "00:16:12"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "So yeah, they fixed that.",
+    "timestamp": "00:16:20"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "Basically, a clean text, it gave me a clean text after my prompt.",
+    "timestamp": "00:16:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "Awesome.",
+    "timestamp": "00:16:26"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "I think that improved.",
+    "timestamp": "00:16:27"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "Yeah, they're fixing it, like, hour to hour, so a lot of changes going on.",
+    "timestamp": "00:16:28"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "That's good.",
+    "timestamp": "00:16:33"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, I had it do a thing where I had it just, like, cut the thing in half, basically, and it was very aggressive on the cuts.",
+    "timestamp": "00:16:36"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "So that also wasn't perfect, but at least it did cut.",
+    "timestamp": "00:16:44"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "I tried it a week or two weeks before, and it didn't work very good.",
+    "timestamp": "00:16:50"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "So I didn't use it at all for a week, but now it's...",
+    "timestamp": "00:16:56"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "Maybe when Matthew placed a post in the Slack, I tried it, and it did better now.",
+    "timestamp": "00:17:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Yeah, yeah, a lot of the stuff is like that, where you'll try it, and then it won't work, and then you're like, well, my learned behavior is I don't want to use that thing, but they fix it, like, the next day.",
+    "timestamp": "00:17:07"
+  },
+  {
+    "speaker": {
+      "display_name": "Joe Sovar",
+      "matched_calendar_invitee_email": "joe.sovar@growthx.ai"
+    },
+    "text": "Yeah, because it's faster with some other tools when you know that it will work, then.",
+    "timestamp": "00:17:22"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, I'm going to go ahead and try to get this pod thing fixed, because that is important for all of us right now.",
+    "timestamp": "00:17:34"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "But yeah, anything else anybody needs solved urgently or immediately?",
+    "timestamp": "00:17:43"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, that's good, that's good to hear.",
+    "timestamp": "00:17:51"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "All right, well, thanks, everybody.",
+    "timestamp": "00:17:55"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Great to...",
+    "timestamp": "00:17:59"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Chat, and I hope the Atlas is much better for this time next week, and we're all celebrating it and using it exclusively, but we'll see how that goes.",
+    "timestamp": "00:18:00"
+  },
+  {
+    "speaker": {
+      "display_name": "Darrell Etherington",
+      "matched_calendar_invitee_email": null
+    },
+    "text": "Okay, take care.",
+    "timestamp": "00:18:11"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Enjoy your weekend.",
+    "timestamp": "00:18:13"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Bye.",
+    "timestamp": "00:18:14"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "you.",
+    "timestamp": "00:18:15"
+  },
+  {
+    "speaker": {
+      "display_name": "Ehtisham Hussain",
+      "matched_calendar_invitee_email": "ehtisham@growthx.ai"
+    },
+    "text": "Bye.",
+    "timestamp": "00:18:15"
+  }
+]

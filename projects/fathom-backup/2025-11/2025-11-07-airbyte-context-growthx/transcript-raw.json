@@ -1,0 +1,4356 @@
+{
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Jean Lafleur",
+                "matched_calendar_invitee_email": "john@airbyte.io"
+            },
+            "text": "Hey, Erik, I'll just be without audio and video.",
+            "timestamp": "00:00:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Jean Lafleur",
+                "matched_calendar_invitee_email": "john@airbyte.io"
+            },
+            "text": "Just listen, so you know.",
+            "timestamp": "00:00:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "No worries.",
+            "timestamp": "00:00:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Jean Lafleur",
+                "matched_calendar_invitee_email": "john@airbyte.io"
+            },
+            "text": "Okay.",
+            "timestamp": "00:00:10"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, hey there.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All right, it's stuck.",
+            "timestamp": "00:01:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Can you hear me?",
+            "timestamp": "00:01:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep, loud and clear.",
+            "timestamp": "00:01:09"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Are we waiting for Mario?",
+            "timestamp": "00:01:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I believe so.",
+            "timestamp": "00:01:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Maybe we can definitely get started if he's going to be running a little late, but...",
+            "timestamp": "00:01:28"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, let's get started.",
+            "timestamp": "00:01:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:01:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:01:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we're going to dive into a few different things.",
+            "timestamp": "00:01:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "The goal is really to help shape thought leadership behind the story of Airbyte Context.",
+            "timestamp": "00:01:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So not to just capture kind of what the product does, but why it matters specifically now.",
+            "timestamp": "00:01:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So love to kind of just...",
+            "timestamp": "00:01:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Start exploring how this launch fits into kind of AirBite's broader mission and the shifts you're seeing in data and AI.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So we've got several questions to kind of guide us today, but we'll just get started with.",
+            "timestamp": "00:02:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So AirBite's mission has really kind of been about making data accessible.",
+            "timestamp": "00:02:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So how does context represent the next chapter in that story?",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Are you guys expanding the mission or is this kind of what accessible has always meant to you guys?",
+            "timestamp": "00:02:23"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:02:28"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So mission is making data available and actionable for anyone, anywhere.",
+            "timestamp": "00:02:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And basically the anyone is initially mostly about like people consuming data from warehouse.",
+            "timestamp": "00:02:36"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Here it's really about this data also becomes actionable when they are fed into agenting systems.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "agents being able to make decisions based on the data that is available.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the mission remains the same is just that the.",
+            "timestamp": "00:02:55"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The consumer and where the data is actionable is changing a bit when it's not just a warehouse.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's also an agent making sense of, of, uh, of the available data.",
+            "timestamp": "00:03:05"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Erik, sorry, I'm I was actually working on our, on our new website's positioning.",
+            "timestamp": "00:03:12"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I was sending this stuff and I was, I was so deep into the, my wireframes and I'm sorry.",
+            "timestamp": "00:03:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Erik No worries whatsoever in there.",
+            "timestamp": "00:03:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Um, Erik you guys have built Airbyte as kind of the go-to open source data integration platform for data teams.",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And now you're launching something specifically for AI engineers, building agents.",
+            "timestamp": "00:03:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So what's really changed in the market that's made this necessary?",
+            "timestamp": "00:03:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:03:42"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So one is the twofold.",
+            "timestamp": "00:03:43"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What is the, um, the consumer, like the people that are building these systems are engineers, not data engineers.",
+            "timestamp": "00:03:48"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So they're engineers are more focused on just showing.",
+            "timestamp": "00:03:56"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We'll",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "as much data into a warehouse.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Data engineers are manipulating data with code.",
+            "timestamp": "00:04:02"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's a very different way of building pipelines and building...",
+            "timestamp": "00:04:06"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you mean software engineers?",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, software engineers, sorry, manipulating data.",
+            "timestamp": "00:04:11"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They're very different way of like manipulating data, confirming data, et cetera, et cetera.",
+            "timestamp": "00:04:13"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And there's a lot of concepts that are very well known in the data space that are absolutely unknown on the AI engineer slash software engineer land.",
+            "timestamp": "00:04:17"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's a place where we need to make these pipes more consumable to that audience.",
+            "timestamp": "00:04:26"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the second part is the way agents actually access data is very similar to how a human does.",
+            "timestamp": "00:04:34"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Meaning that when a human does, that is doing their job as a sales person or something like that, which is if you are working on a warehouse, you're using a warehouse to do analytics.",
+            "timestamp": "00:04:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's really about the ability to...",
+            "timestamp": "00:04:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "To understand the past, and making aggregation, and getting all this data together, and trying to extract pieces of patterns and pieces of knowledge.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "An agency needs to have access to operational data, meaning that it has a purpose that it needs to fill.",
+            "timestamp": "00:05:10"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And to fill that purpose, it will need to go and fetch little pieces of data that are going to be, for example, like a customer, it's going to be like a refund, it's going to be like a slight conversation, and all of that is a very different data usage pattern from what happened in analytics.",
+            "timestamp": "00:05:17"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's really what the difference is.",
+            "timestamp": "00:05:36"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In a way, it's still like data movement and making data available and actionable, just, it is consumed in a very different way, and for a very different purpose.",
+            "timestamp": "00:05:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, an agent is not here to do analytics, it's actually here to fill an operational use case, which is, hey, I'm seeing this particular issue on GitHub.",
+            "timestamp": "00:05:48"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm...",
+            "timestamp": "00:05:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm going to write code and I'm going to commit that code.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it is a very active behavior rather than just looking at dashboards and just trying to understand what has happened in the past.",
+            "timestamp": "00:06:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And kind of keying on on those AI engineers, especially kind of the YC companies, building agents that you've talked to, what's the data problem they're running into really?",
+            "timestamp": "00:06:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And can you kind of walk me through what their world looks like before they discover the need for something like air by context?",
+            "timestamp": "00:06:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:06:37"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A lot of these companies, what they want is they want to build the best possible agents to, uh, complete a specific action.",
+            "timestamp": "00:06:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What happened in general is that they're going to be writing the first connector themselves, because it's...",
+            "timestamp": "00:06:53"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:06:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's easier, you move faster, et cetera, et cetera.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The thing is, moving data from one system to another, or connecting and understanding the specificities of data silos, it's actually very complex.",
+            "timestamp": "00:07:02"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it's distracting them from actually building the products they want.",
+            "timestamp": "00:07:14"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, when you're talking about data connectors, you have a bunch of things that you need to have in mind.",
+            "timestamp": "00:07:18"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The first one is, well, you are at the mercy of a vendor or an API or a database changing.",
+            "timestamp": "00:07:24"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, if it does, well, now you need to go fix the connector to get your product to work.",
+            "timestamp": "00:07:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The second one is, there are a lot of limitations around APIs on how much data you can collect, how much data you can have access to.",
+            "timestamp": "00:07:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And when you have one user, it's fine, like you can get by, but the moment you start getting 10, 20, 30 users on your product, then all your connectors start breaking because these vendors have rate limits.",
+            "timestamp": "00:07:47"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "is, it's",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A customer is going to have one specific way of configuring that system that is incompatible with how your connector is working.",
+            "timestamp": "00:08:02"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "in a way, connectors are a living organism, and if you start creating this living organism yourself, well, now you need to grow them yourself.",
+            "timestamp": "00:08:10"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is very distracting, and it's not that you just have three or four of those.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, managing one, well, you can do it.",
+            "timestamp": "00:08:24"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Managing two, yeah, you can still do it.",
+            "timestamp": "00:08:27"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But the moment you get to 5, 6, 7, 10, 20, basically, the only thing your team is spending time on is doing data integration with these systems.",
+            "timestamp": "00:08:29"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that is something we are solving for them.",
+            "timestamp": "00:08:40"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Pressure is the maintenance.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, all these systems are changing.",
+            "timestamp": "00:08:47"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, it will break one day or another.",
+            "timestamp": "00:08:49"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You don't have a choice.",
+            "timestamp": "00:08:51"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the last thing you want is to have a dead product because one of your integrations is broken.",
+            "timestamp": "00:08:53"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:08:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm kind of thinking of like category definition, there's a lot of language kind of floating around of like semantic layers, context engines, AI, data interfaces.",
+            "timestamp": "00:09:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How do you think about what category Airby context sits in and kind of what are you guys actually trying to build?",
+            "timestamp": "00:09:14"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, I would say, I would use the word more like, agentic data infrastructure or something like that.",
+            "timestamp": "00:09:21"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the context is still within like the umbrella of agentic context, but it's a very specific part of how context is built.",
+            "timestamp": "00:09:31"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's really about all the data that you own, it's not so much about like memory or other things that makes up your context.",
+            "timestamp": "00:09:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're the data layer, the powers context for agents essentially.",
+            "timestamp": "00:09:47"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:51"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's a new category.",
+            "timestamp": "00:09:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like today it's like, it doesn't really exist.",
+            "timestamp": "00:09:53"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, nothing exists.",
+            "timestamp": "00:09:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, I think we've touched on a little bit of, you know, AI agent companies, kind of these startups, have no idea about data engineering or shouldn't be spending their time kind of worrying about it.",
+            "timestamp": "00:10:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What happens when they try to solve these problems themselves, like, and when they do try to solve it, where do they typically fail first?",
+            "timestamp": "00:10:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is just managing those complex integrations?",
+            "timestamp": "00:10:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it authentication of getting secure access?",
+            "timestamp": "00:10:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, that's two of those.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Most of them.",
+            "timestamp": "00:10:36"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But really what happens is, if software team starts, why has Airbyte been so good in the data space is data engineers were tasked to build some of these integrations for doing data replication between systems and warehouses.",
+            "timestamp": "00:10:38"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And...",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And...",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "...",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They start with one connector, they start with one vendor, then they add another connector, et cetera, et cetera, and organically what happens is this team starts becoming bigger and bigger and bigger, and what data engineers start doing is just maintaining this connection, instead of focusing on what insight they can drive from that data, and if software engineers, and right now what we see is that software engineers are following a very similar path out, which is, it's easy to write your first integration, it's easy to write the second one, but at some point, this integration will become critical to the success of your product, and, well, you will have to grow your team, and what your team is going to be doing is just building this data integration, rather than actually building the product itself, so it's basically, it's a foundation that is flaky by definition of data integration, and now it means that you need to tribune Brigade, you.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Build teams around this flaky foundation to make sure that the product that is built on top of this flaky foundation is actually working reliably.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, I think I saw in the introducing the agent blueprint draft, you mentioned that we're on the verge of this paradigm shift.",
+            "timestamp": "00:12:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Can you just talk a little bit about that of like why now's the moment and kind of what inflection point we've reached with either AI capabilities or kind of market readiness that makes us the right time to launch?",
+            "timestamp": "00:12:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is it the right time to launch that's going to be defined by the market?",
+            "timestamp": "00:12:44"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It might be too early.",
+            "timestamp": "00:12:48"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "might be, it might be now, but in terms of like the, the, the technology readiness.",
+            "timestamp": "00:12:49"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yes, it in OR",
+            "timestamp": "00:12:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We had some pretty good successes with agents operating in some areas of businesses, like typically things like support agents are becoming really good.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And here the market, and it makes sense that we started there because it's something that is very human intensive and it's a cost center.",
+            "timestamp": "00:13:18"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that's where the first agents were actually built.",
+            "timestamp": "00:13:27"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this agent, well, what did they do?",
+            "timestamp": "00:13:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They had to implement, oh, let me pull data from a Slack thread, let me pull data from like the product usage, let me pull data from all these different places.",
+            "timestamp": "00:13:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And to me, that was like the first like urgent place where companies invested into agency system.",
+            "timestamp": "00:13:41"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is just a low hanging fruit.",
+            "timestamp": "00:13:50"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is going to go into every single business.",
+            "timestamp": "00:13:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now that we've proven that it works in, in support, it's, we've proven that it works in.",
+            "timestamp": "00:13:55"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "thinking, Cheyenne have.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "of",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Low firm for like contract review, et cetera, et cetera.",
+            "timestamp": "00:14:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And now every like marketing team wants to have something like that.",
+            "timestamp": "00:14:04"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They want to be able, when they do list enrichment, to have access to every single possible data that is available to them about a specific customer so that when they write an email to a customer, well, all the relevant data is there.",
+            "timestamp": "00:14:09"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And they want to automate that to hit like massive scale.",
+            "timestamp": "00:14:23"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, I don't know, just as an example, like Mario, to take them like two weeks to get through the list of everyone we've collected during a conference.",
+            "timestamp": "00:14:27"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now they do it within a matter of two days, two hours.",
+            "timestamp": "00:14:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Two hours.",
+            "timestamp": "00:14:42"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, right.",
+            "timestamp": "00:14:43"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Two hours.",
+            "timestamp": "00:14:44"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's the kind of thing that first thing, and it works because behind the scene you have like LLMs and agents are able to just extract the right information and format and build the right out.",
+            "timestamp": "00:14:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's just going to continue.",
+            "timestamp": "00:14:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And we're all starting with the most boring tasks, the things that no one wants to do, but as we become more familiar with fixing and not doing all these boring tasks, that will also come to the task that everyone is doing every single day.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "An engineer would use an agent to write code.",
+            "timestamp": "00:15:18"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They would start by writing code that they hate writing, like tests.",
+            "timestamp": "00:15:22"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But then they realize, oh, yeah, I can use it for tests.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's great.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I see the value.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's removing a lot of things from my plate, but now I can also use it to actually write the actual code, the code that is being tested.",
+            "timestamp": "00:15:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And bit by bit, you go from removing the thing that you hate doing to also the thing that you love doing and making yourself even more efficient.",
+            "timestamp": "00:15:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So in terms of efficiency, that's like we're seeing it on engineering, we're seeing it on support, we're seeing it on marketing, and that's just going to continue to explode.",
+            "timestamp": "00:15:51"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": ".",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": ".",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": ".",
+            "timestamp": "00:15:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": ".",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": ".",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And all of that needs to have access to external data.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, the shift from moving data from A to B to kind of helping AI understand what data means and how to use it.",
+            "timestamp": "00:16:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "A philosophical jump, I guess.",
+            "timestamp": "00:16:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "How do you think about that evolution of like, once you solve access, there's still the question of quality?",
+            "timestamp": "00:16:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Kind of what makes context actually usable for an agent versus just technically available?",
+            "timestamp": "00:16:25"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Um, I think that's a place where I won't say that LLM can exercise the judgment, but if you guide them well enough and you put the right guardrails around them in terms of like what they can do, what they shouldn't do, and you remove it.",
+            "timestamp": "00:16:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They are, in a way, are able to still extract signals from data, whether it's messy or whether it's good data.",
+            "timestamp": "00:16:53"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "at that.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So for me, more like LLMs, in a way, behave at that point almost like a human, whereas there is so much knowledge that is encoded into those that they can decide if a piece of data is relevant or not, or like the data can be cleaned or not.",
+            "timestamp": "00:17:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So that to me is something that, you know, when you write rules to clean data, it's a human making a judgment call.",
+            "timestamp": "00:17:16"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "well, a lot of that knowledge can now be encoded directly into the LLMs.",
+            "timestamp": "00:17:24"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's just a matter of prompting it the right way.",
+            "timestamp": "00:17:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess follow up to that.",
+            "timestamp": "00:17:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Do you have a definition of high quality context?",
+            "timestamp": "00:17:40"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's a good question.",
+            "timestamp": "00:17:46"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "great question.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "No, I don't.",
+            "timestamp": "00:17:48"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, I think that the world is, it's, it's too early right now.",
+            "timestamp": "00:17:51"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The only way you can measure it is by measuring the.",
+            "timestamp": "00:17:56"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's not so much about what, it's more about measuring the quality of the outcome, rather than the quality of what you provide as an input.",
+            "timestamp": "00:18:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And context is more of the input.",
+            "timestamp": "00:18:10"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If the outcome is good, you can assume that the context was good, but I don't think we have enough context to know about it yet.",
+            "timestamp": "00:18:13"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I mean, if you're writing an article, and you provide context to that article, if this article does poorly, you're going to assume that the context you provided was bad.",
+            "timestamp": "00:18:27"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But if the article does really well, then you're going to assume that the context you provided was bad.",
+            "timestamp": "00:18:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So you guys have built Airbyte on open source principles.",
+            "timestamp": "00:18:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "As you move kind of into the AI infrastructure world, where there's often less transparency, how do kind of those principles still apply or do they?",
+            "timestamp": "00:18:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And what does open source mean when you're building kind of context layers for agents?",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I actually, I don't, I actually don't think that there is less transparency when it comes to AI in terms of like open source and what is being built.",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If, if we look at, it isn't, it is a completely new, um, It's in a way it's a completely new industry that is being created.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if you look at a lot of very successful company in the AI world, on infrastructure, almost all of them have something that is open source available.",
+            "timestamp": "00:19:25"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Even, even open AI released their weight in open source and there, to me, there are two reasons for that.",
+            "timestamp": "00:19:38"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The first one is the innovation is going so fast that it's very hard for just one.",
+            "timestamp": "00:19:48"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And there is so much discovery and so much learning that this will happen.",
+            "timestamp": "00:19:54"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That is very hard for one company to just know what the",
+            "timestamp": "00:19:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And instead, what all these companies are doing is actually casting a very wide net to have as many people using their products, we can talk about Langchain, can talk about all these companies, and try to understand what are the patterns that are emerging, which is very hard to do if you keep everything close to you.",
+            "timestamp": "00:20:02"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And same thing for models, like, you know, when the first LLM started, people just used it to do like, like, everyone who started to code with an LLM started with a very dumb hello world, and then people started to discover what it does, how far you can push it, and this is only possible if you start open sourcing a lot of these technologies.",
+            "timestamp": "00:20:23"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then the second one is more round.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This agent...",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "These are here to replace slash enhance humans in places where things need to be kept very secure.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So internal data, internal information.",
+            "timestamp": "00:21:17"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you're building something for an HR team, there is a lot of very, very sensitive data.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And open source is by default the most open way of understanding what something is doing.",
+            "timestamp": "00:21:28"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And also open source is something that you can deploy and have full control over.",
+            "timestamp": "00:21:36"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So because it's touching such sensitive pieces of information, the need for open source is real because these companies are not just using a SaaS service when they use, when they are building agents.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "are actually replacing or...",
+            "timestamp": "00:21:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "lot continue install in Thank",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Financing teams on the most sensitive pieces of information, and they need to keep that comfortable.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thinking about, like, if the last decade was about building the modern data stack, particularly for analytics, what does the stack look like when AI agents are the primary consumers of data?",
+            "timestamp": "00:22:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, how do you see these pieces fitting together?",
+            "timestamp": "00:22:23"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm an infrastructure person, so I'm going to remind you something that is very general, but in every infrastructure shift, you always have, like, three pillars.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You're always going to have, how do you do compute?",
+            "timestamp": "00:22:47"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How do you do storage?",
+            "timestamp": "00:22:51"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And how do you do communication or networking?",
+            "timestamp": "00:22:53"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I don't, I don't any kind of agency system is going to...",
+            "timestamp": "00:22:56"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The, that different at their, like, core DNA, but yes, like the technology above that might change, but at the end of the day, an agent needs to be able to compute, an agent needs to be able to store information, and an agent needs to be able to communicate with, uh, with systems and adjacent systems.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I don't think there is a, I do not think there is a, a stack that is emerging, like, it's way too nascent, and, but yeah, this technology requires this tree to be reinvented, or to have, like, different way of just running an agent, storing data for an agent, or, like, having, uh, inter-agent communication.",
+            "timestamp": "00:23:22"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So these things are going to happen, it's just, I don't know what the stack is going to, and I don't think anyone wants to commit to a stack today anyway.",
+            "timestamp": "00:23:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Very true.",
+            "timestamp": "00:24:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Where do you draw the line between data infrastructure and AI intelligence?",
+            "timestamp": "00:24:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What should tools like Airbyte own and where should models and agents take over?",
+            "timestamp": "00:24:12"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're not an agent execution framework.",
+            "timestamp": "00:24:31"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What I want us to really be the pipes that fit that internal data into an agent.",
+            "timestamp": "00:24:38"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the agent is able to query, discover, search what pieces of information are relevant for the problem at hand.",
+            "timestamp": "00:24:47"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I just want to be on that layer of just providing this on-demand data.",
+            "timestamp": "00:24:54"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "When the agent needs it.",
+            "timestamp": "00:25:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But then, yeah, what the agent does, we don't want to know about it, how it's being executed, we don't want to know about it, how many GPUs it's using, it doesn't matter, what models they're using, it doesn't matter.",
+            "timestamp": "00:25:02"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's really about connecting data.",
+            "timestamp": "00:25:19"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the places where there might be a little bit of, no, no, that's all.",
+            "timestamp": "00:25:25"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think, I think that's great.",
+            "timestamp": "00:25:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:25:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, looking forward a bit, you know, five years from now when HANA agents are doing what data teams do today, kind of running queries, building dashboards, writing transformations, what role does infrastructure play?",
+            "timestamp": "00:25:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Does the category of data engineer still exist?",
+            "timestamp": "00:25:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, yes.",
+            "timestamp": "00:25:55"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we can ask the same thing for engineering.",
+            "timestamp": "00:26:08"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm going to use the engineering example because it's coming faster at engineering than data engineers.",
+            "timestamp": "00:26:11"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think engineers are going to be working on higher level tasks, which is around system designs, infrastructure optimization, and building an environment in which you can extract as much value as possible.",
+            "timestamp": "00:26:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The way the engineering work has...",
+            "timestamp": "00:26:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Change is that if you want your coding agent to be very autonomous, it does a lot of trial and error.",
+            "timestamp": "00:27:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And for an agent to be able to do it when it's on your laptop, it's very easy.",
+            "timestamp": "00:27:11"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You run tests, you create tests, blah, blah, blah.",
+            "timestamp": "00:27:15"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's going to write the code, test it against the test.",
+            "timestamp": "00:27:18"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If it works, then good, the code is good.",
+            "timestamp": "00:27:24"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If it's not, it's going to try to figure out what's broken, and et cetera, et cetera.",
+            "timestamp": "00:27:27"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think engineers will be also becoming more and more responsible to create more production environment in which an agent can actually go from end to end, from a Jira ticket or a GitHub ticket into an actual deployment.",
+            "timestamp": "00:27:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And creating all these layers for agents to really be autonomous and do this trial and error and go back to the previous step if something is not working, trying again, going back to the previous step.",
+            "timestamp": "00:27:48"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I think that's that's",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We will, yeah, people will be building a lot more gap rails, basically, and, yeah, and higher-level, higher-level tasks.",
+            "timestamp": "00:28:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:15"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But then again, it's, it also depends on how fast this technology is evolving.",
+            "timestamp": "00:28:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And how well-levels.",
+            "timestamp": "00:28:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "If we look at, kind of, OpenAI and Sam Altman, he assumes that, you know, they'll have a researcher doing all the research for them, and teams will be running agents, and instead of running teams.",
+            "timestamp": "00:28:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, all of that.",
+            "timestamp": "00:28:41"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, a lot of discoveries are made by, with luck, or like a lot of the, you know, if you look at, models that are being created in, in healthcare, like for like finding cures and things like that.",
+            "timestamp": "00:28:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Very often discoveries are luck, and the way you create luck is by having thousands and thousands of attempts at something, until you find one that suddenly works, and what you have as a thing here is that you're always limited by human time, and here you basically are just limited by how much energy you can feed to that infrastructure.",
+            "timestamp": "00:29:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, in a way, you're increasing your luck on discoveries, and probably that's also how Sam Altman is thinking about is, if you can have people that are working relentless and just trial, error, trial, error, trial, error, as humans, our goal will be about maybe looking at false positives, and making sure that all these agents are actually always trying, error, trying, error, and just moving in the right direction.",
+            "timestamp": "00:29:27"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you very much.",
+            "timestamp": "00:30:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right, so shifting a little bit to more of kind of a customer ecosystem impact, thinking about early adopters, who are the first people kind of showing up for your right context?",
+            "timestamp": "00:30:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like when you think about your, nobody yet?",
+            "timestamp": "00:30:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I guess when you think about your ideal early customer, what does that company look and team look like?",
+            "timestamp": "00:30:23"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, so what we want is to, I mean, what we're doing is we're only working with companies that are building an AI product.",
+            "timestamp": "00:30:28"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it means that, in a way, the CPU that they are using is an LLL.",
+            "timestamp": "00:30:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And they are building an agent behind the scenes.",
+            "timestamp": "00:30:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So in terms of the type of customer that we're working with, it is either a fully AI native startup, or it is...",
+            "timestamp": "00:30:49"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "is to it's in the to",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A very high velocity internal team that is innovating on that area.",
+            "timestamp": "00:31:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Anything that is not about serving an agent or an AI use case is not what we want, not the type of company we want to be working with.",
+            "timestamp": "00:31:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, thinking ahead a bit, walk me through what changes for an AI engineer once they start using context.",
+            "timestamp": "00:31:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What does their workflow look like before versus after?",
+            "timestamp": "00:31:38"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What do they start doing?",
+            "timestamp": "00:31:40"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think we'll go back to what we said at the beginning, which is an AI engineer, basically, what they want is they want to be building the best agent, the best eval, making sure that the agents write the right outcome.",
+            "timestamp": "00:31:43"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What is changing for them in, like, using...",
+            "timestamp": "00:31:56"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like the composition of their context is that they can assume that the right data from all these sources is going to land and become available to agents.",
+            "timestamp": "00:32:03"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They don't have to think about it.",
+            "timestamp": "00:32:12"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They don't have to worry about it.",
+            "timestamp": "00:32:14"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like the data will be available to them.",
+            "timestamp": "00:32:15"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's almost like current AI engineers like are telling us that they're basically or even founders of these like AI agent startups are telling us that they're forced to become data engineers or data experts instead of being able to, instead of focusing on their product.",
+            "timestamp": "00:32:23"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In a way, I think there is a category that was created a few years ago, which I mean, Versailles basically pioneered the thought of like just ship it.",
+            "timestamp": "00:32:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know, like it's, you're hosting, everything is figured out, like it's front end, like sort of like infrastructure.",
+            "timestamp": "00:32:47"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think there was another category, which is like backend infrastructure, which was saying like, oh, like we can just build your environment.",
+            "timestamp": "00:32:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I it's never scaled, but in a way it's, it's that.",
+            "timestamp": "00:32:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like removing all of those tedious tasks from an engineer's standpoint, so they don't need to become like, five years ago, every engineer needed to become a DevOps person, you know, and being able to ship infrastructure and so on and so forth.",
+            "timestamp": "00:33:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And now it's way easier, you have serverless, you have a lot of these architecture.",
+            "timestamp": "00:33:11"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "In the same way, I think, because agents rely on data so much, engineers are now forced to become, like AI engineers are now forced to become data engineers, and we're just like, going back to that, I was like, no, we're just building infrastructure in that sense, so that you can focus on shipping what you need to focus on.",
+            "timestamp": "00:33:15"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We're still here.",
+            "timestamp": "00:33:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:33:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let me answer this one.",
+            "timestamp": "00:33:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, how does the, I guess that pain point of those, like, data engineers or software engineers becoming data engineers, how does that pain point differ between someone at, like, that",
+            "timestamp": "00:33:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "A 10-person YC company and somebody with a 5,000-person kind of enterprise.",
+            "timestamp": "00:34:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is it like 10,000 fits is the same problem that they have, which is they need to understand how to, how to connect credentials.",
+            "timestamp": "00:34:07"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "need to understand like how to connect to the system, how to pull data from it.",
+            "timestamp": "00:34:17"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The only difference is like the type of system that they need to connect to.",
+            "timestamp": "00:34:21"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe a YC startup will first go for like the.",
+            "timestamp": "00:34:25"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "More like mid market type of data silos, when an enterprise, we need to figure out how, how do I connect to.",
+            "timestamp": "00:34:31"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "SAP or things like that, or an old Oracle database or something like that.",
+            "timestamp": "00:34:42"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So the problem is the same is just maybe the type of silos is a little bit different.",
+            "timestamp": "00:34:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And I assume like with enterprise.",
+            "timestamp": "00:34:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Because there's probably a huge trust component with it.",
+            "timestamp": "00:35:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, think if you look at Airbyte from what it is today, like our value proposition is really about that we call ourselves the open standard for data movement.",
+            "timestamp": "00:35:05"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that means that, again, we are open by nature and that means that we are sovereign, essentially.",
+            "timestamp": "00:35:13"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because A, you can see the technology is transparent, but B, today we're really well-known for stuff like on-prem deployments or hybrid deployments and stuff, which means we can deploy our infrastructure in our own environment.",
+            "timestamp": "00:35:19"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I think it's kind of like the trust that we gain with enterprises where they need us to meet them where they are.",
+            "timestamp": "00:35:31"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They have security compliance issues and so on and so forth.",
+            "timestamp": "00:35:37"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And if you're using like the platforms like that are existing today, they're not built for that.",
+            "timestamp": "00:35:40"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like we are built for that scale because we know what it takes to deploy in difficult environments, dealing with regulated data and so on and so forth.",
+            "timestamp": "00:35:44"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so I think that that's kind of like the difference at the enterprise level.",
+            "timestamp": "00:35:54"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We are a data infrastructure provider.",
+            "timestamp": "00:35:56"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We serve banks.",
+            "timestamp": "00:35:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Today we serve insurance companies and so on and so forth, and so we've seen what deploying data infrastructure at the enterprise scale looks like, and so that creates instance trust in a way, and that's what really we should try and position ourselves up.",
+            "timestamp": "00:36:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So the thing about post-launch, how will you know kind of this is working?",
+            "timestamp": "00:36:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What are, what are some signals either quantitative or qualitative that tell you Airby context is solving the right problem?",
+            "timestamp": "00:36:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:36:38"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I think the first part is going to be around, we're built still in the spirit of open source, we're going to be releasing.",
+            "timestamp": "00:36:38"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "what we call like AI ready connectors, meaning connectors data that can actually be leveraged out of the box by, by agents.",
+            "timestamp": "00:36:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I would say the first metric that we will be tracking is",
+            "timestamp": "00:36:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, how much traction do we get on open source for these connectors?",
+            "timestamp": "00:37:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And ensuring that companies, startups are building, using these connectors as one of them.",
+            "timestamp": "00:37:05"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Basically not having to build these connectors and using ours as well, instead.",
+            "timestamp": "00:37:17"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And after that, the way we're looking at the success of the platform itself, well, that's going to be about how many people from open source are converting to the platform.",
+            "timestamp": "00:37:21"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And also how many are buying the additional features that we have on the platform that are a little bit more like heavyweight than just deploying a simple connector.",
+            "timestamp": "00:37:33"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But it's just going to be about like revenue growth and open source usage.",
+            "timestamp": "00:37:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:37:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, think in kickoff, we mentioned, you know, getting to like 10K stars on GitHub.",
+            "timestamp": "00:37:55"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's been...",
+            "timestamp": "00:38:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "been...",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "We put like a goal of, we should like, we should think about the first 10k stars are like the first, that's the first goal.",
+            "timestamp": "00:38:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then of course we look at like a couple of other things that we said, like one of them is how many, like we launched a self-serve and so like how many signups, like what is the classic like product adoption there.",
+            "timestamp": "00:38:06"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the other one is also, you know, this is better than me, like we have the IP, anonymization and all of that stuff.",
+            "timestamp": "00:38:16"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so we can see like how many of these AI startups are starting to visit our website, you know, and starting to like think of us and so on and so forth.",
+            "timestamp": "00:38:22"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So I think there is also some dragging indicators there where just to gather, you know, more confidence.",
+            "timestamp": "00:38:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "That signal of being known for more than just the historical pieces and being seen as a multi-use case platform.",
+            "timestamp": "00:38:36"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:44"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:38:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "One of the things that needs to be clear, and I think Michelle, like you said it before, but it's like, we win because we have the replication business and that's our secret sauce.",
+            "timestamp": "00:38:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Again, we know what it takes to deploy infrastructure at scale.",
+            "timestamp": "00:38:54"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so like that's still going to be a component for us.",
+            "timestamp": "00:38:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like we're.",
+            "timestamp": "00:39:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Of course, we're going agent first, but we're going to be like, hey, like, we still have, you know, that replication, that data infrastructure background, you know, like, that's never going to leave us, so.",
+            "timestamp": "00:39:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, and the reason why replication is so important is at the end of the day, an agent, what they do is they discover, they discover what, the world around them.",
+            "timestamp": "00:39:11"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, in a way, it's a search problem where they are going to be searching for what is available to them.",
+            "timestamp": "00:39:22"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the replication, when it comes to search, is actually extremely powerful, allows us to not only have access to the, to the raw data that is directly stored into the silo, but there is also the ability to build, like, a knowledge base of all that data that can then be searched by the agent, and that's where replication comes into play.",
+            "timestamp": "00:39:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right, so next.",
+            "timestamp": "00:39:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's kind of trying to get some thought leadership angles.",
+            "timestamp": "00:40:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So what do most people get being AI agents completely like misunderstand about data?",
+            "timestamp": "00:40:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is what's the biggest misconception you see in the market right now?",
+            "timestamp": "00:40:12"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think the same way it happened with in like the pure data world is like, as fun as it might sound, the access to data is always an afterthought.",
+            "timestamp": "00:40:26"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "When people build a data team, when people build data, they first think about the outcomes they want to drive, which is, hey, I need to have a dashboard, I need to have a warehouse.",
+            "timestamp": "00:40:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But actually populating the warehouse with the right data is always an afterthought.",
+            "timestamp": "00:40:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think that's the same thing is happening in G-Agent-Equal.-Equal.",
+            "timestamp": "00:40:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "the of to",
+            "timestamp": "00:41:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's why, like, you see people just hacking around a few, like, data feeds into this, from, like, these silos to the agent, but they don't realize the importance, like, if they don't have the data, the product is used, is useless.",
+            "timestamp": "00:41:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's, and I think also that's one of the reasons why we keep saying that, oh, an AI product, it's so easy to have an MVP, it is so hard to actually have a productionized product.",
+            "timestamp": "00:41:15"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's because, yes, on a sample of data, the thing will work, because you've over, or you've overlearned the behavior of your product on top of that sample data, but you, when you actually bring the real data, when you actually bring the diversity of data, like, your agent doesn't, doesn't cut it.",
+            "timestamp": "00:41:27"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There is a, there is another parallel, which is, three years ago, as soon as ChatGPT got released, you had 20, 30 companies building text to SQL tools, where you could just chat with your.",
+            "timestamp": "00:41:49"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "SQL.",
+            "timestamp": "00:42:02"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And they're all dead.",
+            "timestamp": "00:42:02"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the reason being is that there was no, a lot of them didn't have a concept, you said it before, like semantic layer.",
+            "timestamp": "00:42:03"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They didn't know like the structure of the data.",
+            "timestamp": "00:42:08"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like it worked on a CSV with like a very well-defined data set or on one single connector.",
+            "timestamp": "00:42:09"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like you connect the shop, e-commerce, boom, in that, like you connect to Shopify and you can, all of your orders, like you can chat with a little, like, oh, we're going to do more orders next month, like forecasting.",
+            "timestamp": "00:42:15"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Started putting in like tickets, support or refund requests and stuff and they all broke, you know?",
+            "timestamp": "00:42:24"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so it's that sort of like thinking, again, of, it just doesn't scale.",
+            "timestamp": "00:42:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But can we just pull a little bit more on that?",
+            "timestamp": "00:42:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it like underestimating authentication complexity?",
+            "timestamp": "00:42:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Is it thinking like context is just simply data in, data out?",
+            "timestamp": "00:42:43"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Or is it, you know, using the wrong movement pattern for the use case?",
+            "timestamp": "00:42:46"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "All of the above.",
+            "timestamp": "00:42:51"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I think it's all of the above.",
+            "timestamp": "00:42:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "authentication is really hard.",
+            "timestamp": "00:42:53"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Collecting information is really hard.",
+            "timestamp": "00:42:55"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "um, managing the specificity.",
+            "timestamp": "00:42:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Understanding every silo is really hard, understanding what is useful, what is not useful in a piece of data is really hard, understanding like how different entities tied to each other is really hard, so, but yes, when you have a small sample of data with like, as Mario said, like a few hundreds line in a CSV, or like a few hundred record is super easy, because you can do it manually, or you can, yeah, but yeah, the moment you get into like, real use cases, everything is, everything is different.",
+            "timestamp": "00:43:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Also, companies have, like data represents the business of companies, so every companies have a different business, so they have, they look at data in a different way, they put, I don't know, I'm, do you're say,",
+            "timestamp": "00:43:46"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I'm Amazon and I'm super customer centric.",
+            "timestamp": "00:44:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, so much of the data, the analytics is going to be tied to customer experience.",
+            "timestamp": "00:44:04"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like the way I look at churn, not churn, but like return, et cetera, et cetera.",
+            "timestamp": "00:44:12"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like maybe the most important thing is going to be about my customer sentiment.",
+            "timestamp": "00:44:16"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But if you're a company that doesn't care about their customer, maybe the only thing you care about is like, how much money can I just plainly extract from my customer even if they churn at the end?",
+            "timestamp": "00:44:21"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's all right.",
+            "timestamp": "00:44:31"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And this is going to be somewhere into your data and into how you model your data internally.",
+            "timestamp": "00:44:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There is also like another example is a super simple thing, especially this works with software companies.",
+            "timestamp": "00:44:38"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Every software company that does self-serve revenue, they calculate that self-serve revenue like differently.",
+            "timestamp": "00:44:46"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Some companies do like, oh, let's take all of the whatever the user spent like last month and multiply by 12.",
+            "timestamp": "00:44:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Some of them take the trialing three months average of like, oh.",
+            "timestamp": "00:44:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So how do you define what a factory is if you are in the manufacturing business?",
+            "timestamp": "00:46:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is not a semantic layer.",
+            "timestamp": "00:46:08"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is more representing the entities of your business and bringing data across many different sources to understand are you getting enough raw materials, et cetera, et cetera.",
+            "timestamp": "00:46:09"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And so it's the same thing in reality, which is like the representation of entity, et cetera, et cetera.",
+            "timestamp": "00:46:23"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But semantic layer would be more useful, like analytics and ontology is more useful.",
+            "timestamp": "00:46:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like how do you actually operate your business?",
+            "timestamp": "00:46:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:46:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So kind of circle back on the context problem.",
+            "timestamp": "00:46:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Everyone talks about context for AI.",
+            "timestamp": "00:46:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But what does that actually mean?",
+            "timestamp": "00:46:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And like, how do we define it?",
+            "timestamp": "00:46:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And why is it hard to get right?",
+            "timestamp": "00:46:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So, if you look at what an agent is and how it works, bottom layer, you have a GPU, second layer, you have an LLM, third layer, you have a prompt, fourth layer, you have context.",
+            "timestamp": "00:47:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you don't have the context, you are just tied to what the LLM was trained on, meaning internet data.",
+            "timestamp": "00:47:18"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The context is everything that is not encoded into your LLM, so it can be about, is that answering your question, by the way, the way it's going?",
+            "timestamp": "00:47:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:47:37"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "The context is basically all these external signals and external pieces of information that you need to inject as part of your prompt for the LLM to actually derive, derived by the problem.",
+            "timestamp": "00:47:41"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that can be a lot of things.",
+            "timestamp": "00:47:51"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It can be, it can be data.",
+            "timestamp": "00:47:54"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It can be past conversation.",
+            "timestamp": "00:47:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It can be.",
+            "timestamp": "00:48:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like memory, like who are you, in a way, if you're using ChatGPT, the fact that ChatGPT knows that if you ask it, what's my name, and it knows it's Erik, that's the memory of ChatGPT, like it knows things that help it make the right decision and give you the right answer.",
+            "timestamp": "00:48:03"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But if you had never told ChatGPT, your name is Erik, probably ask you, who are you?",
+            "timestamp": "00:48:24"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But that's part of the context, like all these pieces of information that are not encoded into the LLM.",
+            "timestamp": "00:48:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And the more context you have, normally the less hallucination you have, because it won't try to make up information.",
+            "timestamp": "00:48:43"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like it might just tell it, oh, your name is Mario, because, I don't know, it's making up something, he wants to please you.",
+            "timestamp": "00:48:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like when people are like, oh, you look like a Jason.",
+            "timestamp": "00:49:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:49:04"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I just had Jason that.",
+            "timestamp": "00:49:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, so still sticking on kind of the...",
+            "timestamp": "00:49:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I know we didn't have a definition for what great context engineering is, but like there's a huge difference between dumping raw JSON from an API into a vector database versus crafting context that an agent can reason with.",
+            "timestamp": "00:49:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So what separates the two?",
+            "timestamp": "00:49:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "What's really the craft behind good context engineering?",
+            "timestamp": "00:49:33"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "A lot have to do with like understanding the connections between the different pieces of data.",
+            "timestamp": "00:49:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:49:48"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If...",
+            "timestamp": "00:49:50"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If...",
+            "timestamp": "00:49:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you're dumping like charges...",
+            "timestamp": "00:49:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Char...",
+            "timestamp": "00:50:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Charges...",
+            "timestamp": "00:50:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If information from Stripe in your context to an agent and it has no way of pulling information about the customer after that, then there is a lot of thing that, and if the outcome is like write emails to all the people that we had to issue a charge to, and it only has access to this initial raw JSON of chargeback or like refund, or then you have a problem.",
+            "timestamp": "00:50:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "But then you also need to know, okay, I have this list of charges, who are they tied to?",
+            "timestamp": "00:50:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How does that relate to a customer?",
+            "timestamp": "00:50:38"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And those are the things that you need to get into, to take into account is like the connection between all these different entities in order for the agent to actually, it's basically like a human being.",
+            "timestamp": "00:50:41"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like if you wanted to ask a human being, please send an email to this list of, for like all the refunds.",
+            "timestamp": "00:50:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What they will do is they go through each line, they're going to be",
+            "timestamp": "00:50:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Looking at the charts, they're gonna try to understand, okay, whose customer is that associated to?",
+            "timestamp": "00:51:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me pull the record for that customer.",
+            "timestamp": "00:51:06"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Let me pick the email address and let me send the email.",
+            "timestamp": "00:51:08"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that is the thing that is so important to these agents when they are doing like their discovery and search phases.",
+            "timestamp": "00:51:11"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So they need to understand the connection between the different things.",
+            "timestamp": "00:51:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And that kind of brings up like, was talking about like Stripe and kind of talking to customers real time of the real time challenge of agents.",
+            "timestamp": "00:51:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So, you know, if the agent's talking to a customer and needs to check their account status in Stripe, you can't kind of wait for these nightly batch jobs.",
+            "timestamp": "00:51:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So does the rise of AI agents fundamentally change this ETL paradigm we've been using for the past 20 years?",
+            "timestamp": "00:51:43"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Correct.",
+            "timestamp": "00:51:49"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That is correct.",
+            "timestamp": "00:51:50"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And that's what we mean by like AI ready connectors is that they need to be able to fetch data in real time.",
+            "timestamp": "00:51:51"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Now, the reason why it's still like this batch job or night.",
+            "timestamp": "00:51:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And jobs are very important or replications are very important is that a lot of the time when you need to find information about Erik, you actually need to search for information about Erik.",
+            "timestamp": "00:52:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Most silos that contain that data have no idea who Erik is.",
+            "timestamp": "00:52:18"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So you need to provide a way for like the agent to understand like, oh, this is who Erik is.",
+            "timestamp": "00:52:22"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is how I fetch information.",
+            "timestamp": "00:52:28"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "This is how I retrieve information about Erik from Stripe.",
+            "timestamp": "00:52:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I actually also have information about Erik in my, in my email, like I will need to grab it from there.",
+            "timestamp": "00:52:34"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So there is a big search problem associated with it, but you can only understand that search if you have like all this connection established between entities.",
+            "timestamp": "00:52:42"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you go and fetch the, the real, like, like the, the, um, system of recording.",
+            "timestamp": "00:52:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "We've got about five minutes left, let me see, we'll go for a kind of high-level analogy, if you had to explain air by context to a non-technical founder or maybe just your mom, how would you kind of explain it, how would you kind of make it tangible?",
+            "timestamp": "00:53:09"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I would use the analogy of, you've started a new job, you're sitting at your desk, and the first thing you're going to do is, you're going to ask your manager or your onboarding buddy, oh, what should I do next?",
+            "timestamp": "00:53:31"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, what should I do right now?",
+            "timestamp": "00:53:52"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or maybe it's like your buddy is going to tell you, oh, this is your first project.",
+            "timestamp": "00:53:54"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You're going to look at the first project and okay, interesting.",
+            "timestamp": "00:53:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Then you're going to add...",
+            "timestamp": "00:54:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's your manager or buddy, say, oh, how do I check out the code?",
+            "timestamp": "00:54:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Or like, how do I log in on to HubSpot?",
+            "timestamp": "00:54:06"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "First thing to do.",
+            "timestamp": "00:54:10"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you're gonna say, okay, now I need to understand, oh, you asked me to send emails to like, an email campaign to this 5,000 different, like to 5,000 companies.",
+            "timestamp": "00:54:11"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, where do I find this list of companies?",
+            "timestamp": "00:54:21"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Well, you're gonna ask the person and they're gonna send you a document containing this list of 5,000 companies.",
+            "timestamp": "00:54:24"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I okay, fine.",
+            "timestamp": "00:54:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And I say, oh, and how is Airbyte writing emails?",
+            "timestamp": "00:54:31"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "What is the tone, et cetera, et cetera?",
+            "timestamp": "00:54:35"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Oh, just look at this Google Doc.",
+            "timestamp": "00:54:37"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It has information about how we talk to customer.",
+            "timestamp": "00:54:39"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay, makes sense.",
+            "timestamp": "00:54:42"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you write your email.",
+            "timestamp": "00:54:44"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "So it's really about, it behaves like a human doing something for the first time.",
+            "timestamp": "00:54:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it just pulls all this information, whether it's talking to a person, talking to like getting a document.",
+            "timestamp": "00:54:55"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Getting access to HubSpot, et cetera, et cetera.",
+            "timestamp": "00:55:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Is that, I don't know, would my mom understand that?",
+            "timestamp": "00:55:05"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Maybe.",
+            "timestamp": "00:55:08"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I hope so.",
+            "timestamp": "00:55:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:55:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So when you guys launch...",
+            "timestamp": "00:55:18"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You're dropping something that knows nothing with a goal, and you just give it access to resources.",
+            "timestamp": "00:55:20"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And it will normally try to figure out, from all the resources, all the information that you've provided, how to get to the outcome.",
+            "timestamp": "00:55:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And when you guys launch and start getting traction, what do you want people in the AI engineering community to kind of feel?",
+            "timestamp": "00:55:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Like, what shift in perception or emotion are you going for?",
+            "timestamp": "00:55:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "It's just relief that we don't have to be data engineers anymore?",
+            "timestamp": "00:55:53"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah, like...",
+            "timestamp": "00:55:56"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "just works.",
+            "timestamp": "00:55:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It just works.",
+            "timestamp": "00:55:58"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Wow, it works so fast.",
+            "timestamp": "00:56:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's you.",
+            "timestamp": "00:56:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And well, now I don't have, I have to, I have too much data.",
+            "timestamp": "00:56:05"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "There's another one, which is how do I convince my boss to buy this yesterday?",
+            "timestamp": "00:56:10"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "How do I get budget as fast as possible?",
+            "timestamp": "00:56:15"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And how do I tell all of my friends that I'm doing this because I'm so cool?",
+            "timestamp": "00:56:22"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Because I figured this out before anybody else.",
+            "timestamp": "00:56:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:56:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I got first access.",
+            "timestamp": "00:56:29"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Yeah.",
+            "timestamp": "00:56:30"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "It's really like, I think with AI, there's a lot of recreating FOMO essentially, because it's like, you want to, like, you actually want to use this because you're going to build better agent.",
+            "timestamp": "00:56:32"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "If you build a better agent, like, you know?",
+            "timestamp": "00:56:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yep.",
+            "timestamp": "00:56:45"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "I you guys are seeing it firsthand at growthx, so.",
+            "timestamp": "00:56:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:56:50"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Hey, exactly.",
+            "timestamp": "00:56:54"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You know what?",
+            "timestamp": "00:56:55"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You're an agent.",
+            "timestamp": "00:56:56"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Right now what you're doing, you're getting my, your context from me.",
+            "timestamp": "00:56:56"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:56:59"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Absolutely.",
+            "timestamp": "00:57:00"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Totally.",
+            "timestamp": "00:57:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "And then you're putting the context into Atlas, and then it's...",
+            "timestamp": "00:57:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And then the LLMs take over.",
+            "timestamp": "00:57:05"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Exactly, yes.",
+            "timestamp": "00:57:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "With some prompting, yeah.",
+            "timestamp": "00:57:09"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "That's how I would describe it to my mom.",
+            "timestamp": "00:57:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "There we go.",
+            "timestamp": "00:57:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Ask Erik, he'll tell you.",
+            "timestamp": "00:57:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:57:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So if readers walk away from your content with one idea, kind of one thing that changes how they think about data and the age of AI, what should it be?",
+            "timestamp": "00:57:20"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Like, how, now it's, oh, now I don't need to think about building this connect cards anymore.",
+            "timestamp": "00:57:49"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "They're here.-hmm.",
+            "timestamp": "00:57:57"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:58:01"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Okay.",
+            "timestamp": "00:58:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "All right, I've got several other questions, but I know we're at time.",
+            "timestamp": "00:58:09"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "You want to send them to us and we can just fill them in if you want?",
+            "timestamp": "00:58:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah, that works.",
+            "timestamp": "00:58:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "They're going to be a little bit all over the place as I was skipping around based on kind of what we were talking about.",
+            "timestamp": "00:58:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But yeah, I'll upload this and share any remaining questions I think we would like to have at least.",
+            "timestamp": "00:58:25"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "can also do another session like tomorrow, Monday, whenever, like at 30, 15, 30 minutes just to finish up if that's better.",
+            "timestamp": "00:58:35"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Whatever works for you, Erik, to be honest.",
+            "timestamp": "00:58:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:58:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Let me think about it.",
+            "timestamp": "00:58:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I think we might be able to do it async.",
+            "timestamp": "00:58:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Because I think if I go through and see what answers we have, they might answer at least partially some of these.",
+            "timestamp": "00:58:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "But I think we've got some pretty good sound bites.",
+            "timestamp": "00:58:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "through this.",
+            "timestamp": "00:59:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I will It's it's there terrific.",
+            "timestamp": "00:59:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "I'm",
+            "timestamp": "00:59:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "And kind of topics that we can go after.",
+            "timestamp": "00:59:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "So let me do some analysis and I'll get back to you guys and kind of what questions we might want to follow up with.",
+            "timestamp": "00:59:06"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Awesome, thank you.",
+            "timestamp": "00:59:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:59:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Appreciate the time, guys.",
+            "timestamp": "00:59:14"
+        },
+        {
+            "speaker": {
+                "display_name": "1 - Yosemite",
+                "matched_calendar_invitee_email": null
+            },
+            "text": "Thank you, Erik.",
+            "timestamp": "00:59:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "See you soon.",
+            "timestamp": "00:59:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Erik O'Brien",
+                "matched_calendar_invitee_email": "erik@growthx.ai"
+            },
+            "text": "Thanks.",
+            "timestamp": "00:59:17"
+        }
+    ]
+}

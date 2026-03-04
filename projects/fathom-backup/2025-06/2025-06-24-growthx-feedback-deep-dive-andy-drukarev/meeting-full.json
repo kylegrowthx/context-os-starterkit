@@ -1,0 +1,1960 @@
+{
+    "title": "GrowthX Feedback Deep Dive (Andy Drukarev)",
+    "meeting_title": "GrowthX Feedback Deep Dive (Andy Drukarev)",
+    "url": "https://fathom.video/calls/333485564",
+    "created_at": "2025-06-24T20:57:06Z",
+    "scheduled_start_time": "2025-06-24T20:30:00Z",
+    "scheduled_end_time": "2025-06-24T20:55:00Z",
+    "recording_id": 70300613,
+    "recording_start_time": "2025-06-24T20:32:36Z",
+    "recording_end_time": "2025-06-24T20:56:50Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, I'm also, Andy, nice to meet you.",
+            "timestamp": "00:00:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "You as well.",
+            "timestamp": "00:00:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I lead customer operations for GrowthX.",
+            "timestamp": "00:00:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So I have scheduled these feedback calls in line with Marcel.",
+            "timestamp": "00:00:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So we're kind of trading off, taking them.",
+            "timestamp": "00:00:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But I'm sort of in a team that's thinking about process optimization and deliverables specifically for the team that's our client-facing team.",
+            "timestamp": "00:00:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I know you worked with us for a little while, and you're rolling off the partnership now.",
+            "timestamp": "00:00:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So I think this call will be a great opportunity just for us to learn about kind of where we achieved what you were looking for, where we missed the mark, and also just learn about kind of why you started working with us and how that partnership evolved.",
+            "timestamp": "00:00:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Does that all sound good?",
+            "timestamp": "00:00:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yep, sounds good.",
+            "timestamp": "00:00:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Perfect.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And yeah, there's no like, you know, no wrong answers.",
+            "timestamp": "00:01:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We won't be offended.",
+            "timestamp": "00:01:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And it's certainly not going to be like any sort of like sales or rescue pitch, just like really a feedback call.",
+            "timestamp": "00:01:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, you know, anything that you want to share with us is going to be valuable for us to learn going forward.",
+            "timestamp": "00:01:13"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Cool.",
+            "timestamp": "00:01:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, I would love to just start with kind of how you like came to GrowthX and what your goals were in working with us as you started out.",
+            "timestamp": "00:01:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:01:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So my understanding is that there might have been either a connection between our CEO and somebody from your leadership team or our CEO heard about GrowthX from one of his kind of founder friends.",
+            "timestamp": "00:01:35"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And for the idea.",
+            "timestamp": "00:01:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And I think, you know, we have felt for a little while that we needed to modernize and scale our content program using, you know, more AI tools.",
+            "timestamp": "00:01:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "techniques.",
+            "timestamp": "00:02:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And obviously that's right up your alley.",
+            "timestamp": "00:02:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So that's why we brought you in.",
+            "timestamp": "00:02:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "think, you know, both to kind of learn from the pros, but also, you know, to kind of jumpstart and hopefully scale out organic traffic efforts.",
+            "timestamp": "00:02:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Awesome.",
+            "timestamp": "00:02:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And were you thinking at all about, were there specific KPIs or goals in using the AI that you had as you started out?",
+            "timestamp": "00:02:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, I mean, there weren't any like quantifiable metrics or anything, you know, there were several specific projects and kind of specific tactics that we wanted to roll out.",
+            "timestamp": "00:02:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And I think, you know, part of the challenge that probably your team had with us is that it was a bit of a shifting landscape.",
+            "timestamp": "00:02:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "You know, we had sort of just launched a new website.",
+            "timestamp": "00:02:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "We had just, you know, our CEO had just kind of ad-coded a bunch of stuff.",
+            "timestamp": "00:02:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But in-",
+            "timestamp": "00:02:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "In general, we definitely wanted some guidance on some of the in-flight projects that we already had.",
+            "timestamp": "00:03:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "then we were looking to kind of get repeatable and scalable, I guess, AI-generated traffic assets is kind of how I would probably describe it.",
+            "timestamp": "00:03:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "How would you define the AI-generated traffic assets?",
+            "timestamp": "00:03:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Because, yeah, are you thinking like multiple pieces of content or things that can be reused?",
+            "timestamp": "00:03:26"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, I mean, I think we were open to both traditional long-form editorial content as well as more kind of the PSEO tool type assets.",
+            "timestamp": "00:03:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I think the main thing was moving faster with quality content.",
+            "timestamp": "00:03:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And, you know, the goal was that your team and your expertise and your workflows would do that, would help us do that.",
+            "timestamp": "00:03:50"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And, think it's super cool.",
+            "timestamp": "00:03:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Thank",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:04:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so in getting started or in the, I mean, I think we sort of just got started and I know it took a little while.",
+            "timestamp": "00:04:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So how would you describe the feedback?",
+            "timestamp": "00:04:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "How would you describe the onboarding and like feedback that you have on that?",
+            "timestamp": "00:04:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, no, I mean, I think it was strong.",
+            "timestamp": "00:04:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Like I said, there, there was a bit of a star because we kind of had, you know, competing priorities.",
+            "timestamp": "00:04:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And I think initially, a lot of the ask was around kind of guidance on like our new site, or like a new project that we were working on, as opposed to hitting the ground running with, you know, concrete content projects that your team was working on, on our behalf.",
+            "timestamp": "00:04:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But, you know, I think the onboarding was good, like bigger picture, really, I mean, I know people, it's kind of stereotypical, but like, it really was a matter of like, we, we needed to bring this in house, ultimately, you know, we, we need to bring, you know, kind of the",
+            "timestamp": "00:04:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "All content workflows in-house, but think that's the case for a few reasons.",
+            "timestamp": "00:05:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "One, and I know I'm kind of getting ahead of probably your question on this, but I think it contextualizes all of my responses.",
+            "timestamp": "00:05:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And it's the case for a few reasons.",
+            "timestamp": "00:05:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "One, subject matter expertise.",
+            "timestamp": "00:05:18"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "We are of the belief in the...",
+            "timestamp": "00:05:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "We are a pretty technical...",
+            "timestamp": "00:05:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "We sell a pretty technical product.",
+            "timestamp": "00:05:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "We have a very technical audience.",
+            "timestamp": "00:05:29"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And we think there's a relatively high bar for quality that needs to be met.",
+            "timestamp": "00:05:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And we need our internal people, I think, to be a bit more involved.",
+            "timestamp": "00:05:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And it's very possible for, obviously, growthx to consult our SMEs, but I think we have a bit more control of the process from an editorial content quality standpoint.",
+            "timestamp": "00:05:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I think from a PSEO standpoint, like, the best PSEO content we can produce would be...",
+            "timestamp": "00:05:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Very much based on our internal data, as opposed to publicly accessible resources.",
+            "timestamp": "00:06:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And I think that, again, it's like possible for growthx to do that, but it's tricky.",
+            "timestamp": "00:06:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It's just communicating data, like figuring out where to look.",
+            "timestamp": "00:06:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It's more difficult.",
+            "timestamp": "00:06:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so I think like, you know, the real value add we could add to PSEO is like internal data.",
+            "timestamp": "00:06:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And I think just like, you know, the bigger picture of, you know, flexibility and timing and this and that, like everything pointed in the direction of, we need to manage this in-house.",
+            "timestamp": "00:06:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "We also have a very, you know, just another reason for it being in-house.",
+            "timestamp": "00:06:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And I'm sure this is probably one of the pieces of feedback that your team would have is that like, we have a very non-traditional content publishing process.",
+            "timestamp": "00:06:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We don't have a CMS.",
+            "timestamp": "00:06:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so like ordinarily, growthx would plug into a CMX, new CMS.",
+            "timestamp": "00:06:49"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And I think you would be able to like publish more rapidly.",
+            "timestamp": "00:06:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "For us, like.",
+            "timestamp": "00:06:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "All of our content assets live in a GitHub repo, and I have to go in and publish in Markdown and code, and so it just makes, again, basically because of almost everything, from the technical nature of our product to our competitive advantage from a content perspective being some of our in-house data to our non-traditional publishing platform, it's all, it's, I guess, just become clear over the course of engagement, but, like, we really need to have this in-house, and it's just going to be very inefficient at this stage, you know, for us to try to figure out the best way to work with an external agency.",
+            "timestamp": "00:07:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, well, okay, so I'm curious, have you started the process of, like, starting to generate this stuff on your own, and...",
+            "timestamp": "00:07:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, so I have been using AI in some of my content, but it's been kind of more of, more...",
+            "timestamp": "00:07:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Like, 40% of it, rather than 100% of it.",
+            "timestamp": "00:08:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So, you know, like having ChatGPT do deep research on a topic, and then I'll treat that essentially like the first draft I get from a freelance writer.",
+            "timestamp": "00:08:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I have not got to a point where I'm comfortable having AI do 90% of it, which I think is more kind of your style.",
+            "timestamp": "00:08:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so, I think on certain topics, maybe, but like, I just, and I don't know that this is like, it's not that I wouldn't be comfortable.",
+            "timestamp": "00:08:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I think it's just, right now, for the topics that like, I've written about, that's been more the workflow.",
+            "timestamp": "00:08:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Again, not necessarily opposed to having AI do more of it, and certainly with like, PSEO content, like, not opposed at all.",
+            "timestamp": "00:08:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Like, if it's, you know, like the CVE pages that you have created for us, like, that's totally good.",
+            "timestamp": "00:08:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I think it's for like, longer form editorial, opinionated perspective content, like, you know, I think.",
+            "timestamp": "00:08:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Thank",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "That's kind of the philosophy right now.",
+            "timestamp": "00:09:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:09:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That's helpful.",
+            "timestamp": "00:09:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I think, and how are you thinking, like, in terms of PSEO and setting up your CMS, like, in identifying those bottlenecks, maybe I'll call them, and working with us, has that driven you to have a strategy shift in your approach for that stuff going forward, or how are you, yeah, solving those problems?",
+            "timestamp": "00:09:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Not necessarily.",
+            "timestamp": "00:09:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "There's continued internal conversations.",
+            "timestamp": "00:09:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:09:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I mean, I think in general, like, we started the process to be a bit, you know, eyes wide open, and, you we've learned a lot over it, and I think, you know, just the biggest learning is that for both philosophical...",
+            "timestamp": "00:09:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "For logical and logistical reasons, like writing it in-house, it just made the most sense.",
+            "timestamp": "00:10:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Obviously, if we were convicted of that in the first place, we wouldn't have gone down this path.",
+            "timestamp": "00:10:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But that was, I think, just where the team netted out.",
+            "timestamp": "00:10:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I mean, that's totally fair.",
+            "timestamp": "00:10:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I think, yeah, if you have the resources and the ability to leverage all the tools that we're sort of connecting, then certainly you should do it.",
+            "timestamp": "00:10:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I know that publishing, especially without a CMS on our end, can be complex.",
+            "timestamp": "00:10:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So if that sounds like it was a blocker, no matter what.",
+            "timestamp": "00:10:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:10:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Is there anything else, like any other feedback or things like generally just thinking about, like, leveraging an agency that you would want us to keep in mind?",
+            "timestamp": "00:10:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:55"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like working with other partners?",
+            "timestamp": "00:10:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Would you work with us again?",
+            "timestamp": "00:10:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Um.",
+            "timestamp": "00:10:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I would.",
+            "timestamp": "00:11:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I think the, I appreciated kind of the extra layer of QA that your team did upon my request, like to sanity check some of the code snippets that were introduced in articles.",
+            "timestamp": "00:11:01"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "My thought is that like, and I guess if I had, and I don't, this isn't like directly, directly related to our decision, obviously, but as I've explained, you know, it was, it was really an in-house thing.",
+            "timestamp": "00:11:15"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But my thought is that the pendulum will start to swing back to a point where craftsmanship and quality really shine through and companies really do start to reprioritize those.",
+            "timestamp": "00:11:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so I think as we look toward the next year, two years, like, you know, I, I think, and this might be wrong, that the AI doing 40, 50% of it is probably where I'm leaning as far as the mix.",
+            "timestamp": "00:11:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And so I think that just for.",
+            "timestamp": "00:11:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Companies in really technical industries with very kind of technical, sophisticated demand buyers, like your potential ability in the future to offer a true subject matter expert would be a pretty compelling value add.",
+            "timestamp": "00:12:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Especially if you start to see that just hypothetically, like, you know, security companies are really reaching out to partner with you.",
+            "timestamp": "00:12:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And if you can come back to those companies and say, you know, whereas historically our workflow has been AI doing 95% and a human doing kind of the quick QA, but the human doing the QA is not an expert.",
+            "timestamp": "00:12:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It's more kind of Google search, Google research based.",
+            "timestamp": "00:12:38"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And if you were to say, okay, now AI is doing 85%, but we're having, you know, a true security expert come and spend, you know, doing a 20 minute check on each article, plus our standard human doing the, you know, QA for 20 minutes.",
+            "timestamp": "00:12:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It's like.",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "It's",
+            "timestamp": "00:12:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "That would certainly, I think, elevate confidence in your client base as we, and again, I might be wrong.",
+            "timestamp": "00:13:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "You know, it might just be the case that, you know, the craftsmanship angle ends up not being as important because AI gets to a point where, you know, the quality bar is so high.",
+            "timestamp": "00:13:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "You know, to me, though, that's where my current thinking is.",
+            "timestamp": "00:13:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So, yeah, if you're starting to see clusters of companies in specific industries express interest, the ability to offer a subject matter expert in that industry would be very powerful, I think.",
+            "timestamp": "00:13:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And for, you're thinking more for, like, editorial QA than, like, sort of marketing strategy writ large.",
+            "timestamp": "00:13:37"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "There is a, I think it's more, I mean, there is a world where it's, if you have somebody who's, like, kind of a unicorn person who both is technical.",
+            "timestamp": "00:13:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Google Ann gets content that they might advise on strategy.",
+            "timestamp": "00:14:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I think that's unlikely.",
+            "timestamp": "00:14:02"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And I think that's something where even from a control perspective, you might have your customers a little bit reluctant to fully give that up.",
+            "timestamp": "00:14:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "I think probably first and foremost, it's on the QA side.",
+            "timestamp": "00:14:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "And then, you know, again, kind of the next level is probably more like a strategic thought partner.",
+            "timestamp": "00:14:25"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Like if you have somebody who's like really up to date on trends and stuff, then that's great.",
+            "timestamp": "00:14:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But I think that the low hanging group is just probably a subject matter expert who can assist in up leveling quality.",
+            "timestamp": "00:14:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:47"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "That makes a lot of sense.",
+            "timestamp": "00:14:48"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I think like it's interesting.",
+            "timestamp": "00:14:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "A lot of what you're saying is really interesting just given where we are.",
+            "timestamp": "00:14:57"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "As a company, because right now, we're, we just transitioned over to our own, like, internal platform that's running these workflows, and it's run on our own code base.",
+            "timestamp": "00:15:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We're, like, being really specific about the prompts, and we're starting to, oh no, am I freezing again?",
+            "timestamp": "00:15:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, you're going a bit in and out.",
+            "timestamp": "00:15:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "But maybe you're back.",
+            "timestamp": "00:15:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "All right.",
+            "timestamp": "00:15:31"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, let me just show you something really briefly, because I think down the line, it might be interesting.",
+            "timestamp": "00:15:34"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "You might be interested just to see how we're evolving that thinking, because I think you're totally right, that, like, having deep company context and, like, industry understanding and also, like, deeper technical understanding is valuable.",
+            "timestamp": "00:15:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Well, I think we're getting to the point in the tech where we can.",
+            "timestamp": "00:15:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Start to input those controls with, like, really specific prompting and get much better content.",
+            "timestamp": "00:16:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I don't think we're, we might not be at the place where your bar is yet.",
+            "timestamp": "00:16:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Let me just share my screen.",
+            "timestamp": "00:16:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Well, you say that you're now, you kind of have, you're managing all of your workflows in-house.",
+            "timestamp": "00:16:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Like, how is that contrast to your previous process?",
+            "timestamp": "00:16:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, so before we were leveraging AirOps to run our workflows.",
+            "timestamp": "00:16:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So our code base was linked, like, AirOps was linking different parts of our code base that would ping various, like, the various AI systems at each stage that we were leveraging to write article generation or keyword analysis.",
+            "timestamp": "00:16:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And we're using, obviously, different LLMs for each of those because they're all, like, some of them are better at things than others.",
+            "timestamp": "00:16:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, we're just discovering right now that Manus is, like, really good at, like, deep research for, like, articles.",
+            "timestamp": "00:16:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:16:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And sort of more, better and generate a lot, a lot more like content unprompted in terms of competitive intelligence and.",
+            "timestamp": "00:17:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "That was Manus, broke up again.",
+            "timestamp": "00:17:17"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, Manus.",
+            "timestamp": "00:17:20"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:17:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And, and so, you know, to generate, what we're doing now is we have, we're starting to keep in our, for each client, the artifacts that we had before that we were just putting into Aerofs as prompts.",
+            "timestamp": "00:17:23"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "But these are like evolving bodies of work about like each company that we can edit, we can view history and like kind of call back to different evolutions of how a brand is changing, how company context might like be evolving.",
+            "timestamp": "00:17:39"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I'm thinking about artifacts in terms of the personas.",
+            "timestamp": "00:18:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So as you develop, like you might hone in on, you know, pain points, decision drivers, like your ICP might change every two to three months.",
+            "timestamp": "00:18:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And we can really keep that as a company artifact and put it into every piece, every article we generate, every piece of research we're putting together and then writing guidelines.",
+            "timestamp": "00:18:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Right.",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So tone, voice, language, like things that you should say, like a list of things that you never say or do not use or things that are just wrong that you should never reference on a technical front.",
+            "timestamp": "00:18:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Things like that, that can start to, you know, with some basic guardrails on the technical side, help create, help like create more of a structure, ladder for the AI to.",
+            "timestamp": "00:18:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "For content that really needs that technical bar.",
+            "timestamp": "00:19:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I'm not saying that we're there yet.",
+            "timestamp": "00:19:04"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "I think like the deeper that we get in developing these artifacts and, you know, we can have like links to different CTAs.",
+            "timestamp": "00:19:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We can have examples of thought leaders that you always want to write in their tone of voice or like they're using or like leverage different parts of the like different pages on either reference competitors or never reference competitors in doing our deep research, like really point to different parts of the Internet writ large.",
+            "timestamp": "00:19:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We're like we should and shouldn't be exploring.",
+            "timestamp": "00:19:44"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We can like upload call context and put it into these artifacts like we can get really, really deep so that then when we go into our article generation, you know, we're taking that assignment breach.",
+            "timestamp": "00:19:46"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Brief, taking deep research, and all of these are like really core artifacts that are essentially like huge documents in and of themselves.",
+            "timestamp": "00:20:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And if you look at, you know, you go into this, you know, it's running the assignment brief.",
+            "timestamp": "00:20:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "This is like the first, just like the initial brief that we're generating.",
+            "timestamp": "00:20:16"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then it's like, okay, now go back and do research on this.",
+            "timestamp": "00:20:19"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Like, I'll develop an outline that's an evolution of this assignment brief.",
+            "timestamp": "00:20:22"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay, here's the first draft of the article.",
+            "timestamp": "00:20:28"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "We had the AI, even with all the artifacts that we've generated, only do the first article here.",
+            "timestamp": "00:20:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And so it's still like, we're just starting to be more rigorous.",
+            "timestamp": "00:20:36"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It's not just like, hey, GBT, write me like an article about this thing.",
+            "timestamp": "00:20:41"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "It's like, okay, and now like, here's a cover image, like stock cover image.",
+            "timestamp": "00:20:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And for the research and stuff, this is all editable.",
+            "timestamp": "00:20:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Let's go.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "try.",
+            "timestamp": "00:20:58"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "You",
+            "timestamp": "00:20:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And then, it's going to make me see if I can get in here.",
+            "timestamp": "00:21:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oops.",
+            "timestamp": "00:21:06"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Oh, it's not going to let me in.",
+            "timestamp": "00:21:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Okay.",
+            "timestamp": "00:21:12"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, like, you can inspect the underlying code, and there's also, you know, you can input manual links.",
+            "timestamp": "00:21:21"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "You can change the topics.",
+            "timestamp": "00:21:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "There is, in one of these workflows, it's not this one, but, like I said, you can say, like, these are competitors that you should never reference.",
+            "timestamp": "00:21:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "These are things, like, pages that you don't go to.",
+            "timestamp": "00:21:40"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "These are, like, CTAs that you don't use.",
+            "timestamp": "00:21:42"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, it just starts, we're starting to get much more specific because it's all built, integrated into our own platform.",
+            "timestamp": "00:21:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So, before, we had our own code base that was, like, pointing to different parts of AI, and then we were tying it together using air ops work.",
+            "timestamp": "00:21:51"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And that was like, it worked, you know, but with all of it being built on our own structure, we can start to more deeply integrate all of these pieces together and start to like develop more accurate and tonally relevant content for your teams.",
+            "timestamp": "00:22:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, no, it's impressive.",
+            "timestamp": "00:22:24"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "We'll look forward to kind of getting updated, staying updated on that.",
+            "timestamp": "00:22:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:22:32"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah, because it is, there is an evolution from, you know, kind of the, yeah, it's a definite evolution, I think, from some of the other things.",
+            "timestamp": "00:22:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah, because I mean, I, I totally agree with you, like the, where things are today, and the way even like three weeks ago that we were working on generating these pieces was like, we had like a couple of static workflows, and we weren't really able to flex.",
+            "timestamp": "00:22:45"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Uh, with the feedback that we were given as nimbly as we can now.",
+            "timestamp": "00:23:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Um, and I mean, in a couple of months, I think this is gonna, we're gonna start to like, let our clients play with this.",
+            "timestamp": "00:23:05"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "So like, might be worth having another conversation then.",
+            "timestamp": "00:23:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Um, but also like, given where you, like the comfort that you feel with like your in-house technical knowledge and also the like data sets that you have, like might, might not make sense.",
+            "timestamp": "00:23:14"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Um, but I just wanted to kind of show you where we were going.",
+            "timestamp": "00:23:27"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Um, but this was really helpful feedback.",
+            "timestamp": "00:23:30"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And I think like, um, there are some things that we'll take back and think about, especially, um, in our initial calibrations and making sure that clients feel comfortable with how we're, how we're developing our technical clients.",
+            "timestamp": "00:23:33"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:52"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:53"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Glad to be helpful.",
+            "timestamp": "00:23:54"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "it was a pleasure working with your team.",
+            "timestamp": "00:23:56"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Um, you know, only.",
+            "timestamp": "00:23:59"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Only good things to say.",
+            "timestamp": "00:24:00"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "So, yeah, keep us updated on what you all are doing.",
+            "timestamp": "00:24:03"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "And, yeah.",
+            "timestamp": "00:24:07"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Yeah.",
+            "timestamp": "00:24:08"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Thanks, Andy.",
+            "timestamp": "00:24:09"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "Have a good day.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andy Drukarev",
+                "matched_calendar_invitee_email": "andy.drukarev@fossa.com"
+            },
+            "text": "You too.",
+            "timestamp": "00:24:10"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:24:11"
+        },
+        {
+            "speaker": {
+                "display_name": "Andi Bailey",
+                "matched_calendar_invitee_email": "andi@growthx.ai"
+            },
+            "text": "Bye.",
+            "timestamp": "00:24:11"
+        }
+    ],
+    "transcript_language": "en",
+    "default_summary": {
+        "template_name": "General",
+        "markdown_formatted": "## Meeting Purpose\n\n[Gather feedback on GrowthX's partnership with FOSSA to improve content generation processes and understand reasons for ending the engagement.](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=1.0)\n\n## Key Takeaways\n\n  - [FOSSA sought GrowthX's expertise to modernize and scale their content program using AI tools, aiming for faster, quality content production](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=4.0)\n  - [Technical nature of FOSSA's product, need for in-house data, and non-traditional publishing process (GitHub-based) led to decision to bring content creation in-house](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=32.0)\n  - [Suggestion for GrowthX: Consider offering subject matter experts for QA in specific industries to enhance content quality and client confidence](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=701.0)\n\n## Topics\n\n### Initial Goals and Expectations\n\n  - [CEO connection or recommendation led to GrowthX partnership](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=95.0)\n  - [Objectives:](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=82.0)\n      - [Modernize and scale content program using AI tools](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=109.0)\n      - [Learn from experts and jumpstart organic traffic efforts](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=127.0)\n      - [No specific quantifiable metrics, but focus on repeatable, scalable AI-generated traffic assets](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=151.0)\n      - [Emphasis on moving faster with quality content, both long-form editorial and PSEO tool-type assets](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=224.0)\n\n### Challenges and Reasons for Bringing Content In-House\n\n  - [Subject matter expertise: High bar for quality in technical product/audience](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=318.0)\n  - [PSEO content quality reliant on internal data, difficult to communicate externally](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=360.0)\n  - [Non-traditional content publishing process:](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=400.0)\n      - [No CMS, content assets in GitHub repo](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=409.0)\n      - [Manual publishing in Markdown and code](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=420.0)\n  - [Inefficient to work with external agency given these factors](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=382.0)\n\n### Current Content Generation Approach\n\n  - [Andy using AI for \\~40% of content creation](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=471.0)\n  - [ChatGPT for deep research, treated as first draft](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=483.0)\n  - [Not yet comfortable with 90%+ AI-generated content for longer-form editorial](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=491.0)\n  - [Open to more AI involvement in PSEO content](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=525.0)\n\n### Feedback on GrowthX Partnership\n\n  - [Strong onboarding, despite initial competing priorities](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=258.0)\n  - [Appreciated extra layer of QA for code snippets](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=661.0)\n  - [Valuable learning experience, though ultimately decided in-house approach was necessary](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=284.0)\n\n### Future Content Strategy Considerations\n\n  - [Potential shift towards 40-50% AI involvement in content creation](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=701.0)\n  - [Anticipation of increased focus on craftsmanship and quality](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=687.0)\n  - [Suggestion for GrowthX: Offer true subject matter experts for technical industries](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=720.0)\n\n### GrowthX's Evolving Platform and Workflows\n\n  - [Transition to internal platform with custom code base](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=900.0)\n  - [More specific prompting and better content control](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=1011.0)\n  - [Developing company-specific artifacts (personas, writing guidelines, technical guardrails)](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=1059.0)\n  - [Integration of deep research and evolving brand context](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=1145.0)\n  - [Potential for more accurate and tonally relevant content generation](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=1200.0)\n\n## Next Steps\n\n  - [GrowthX to consider incorporating subject matter experts for QA in specific industries](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=720.0)\n  - [Potential follow-up conversation in a few months to discuss GrowthX's platform evolution](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=1385.0)\n  - [GrowthX to refine initial calibrations and approach for technical clients](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=1365.0)\n  - [FOSSA to stay updated on GrowthX's progress and new offerings](https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz?tab=summary&timestamp=1443.0)\n"
+    },
+    "action_items": [],
+    "calendar_invitees": [
+        {
+            "name": "Andy Drukarev",
+            "email": "andy.drukarev@fossa.com",
+            "email_domain": "fossa.com",
+            "is_external": true,
+            "matched_speaker_display_name": "Andy Drukarev"
+        },
+        {
+            "name": "Andi Bailey",
+            "email": "andi@growthx.ai",
+            "email_domain": "growthx.ai",
+            "is_external": false,
+            "matched_speaker_display_name": "Andi Bailey"
+        },
+        {
+            "name": "Marcel Santilli",
+            "email": "santilli@fwd.digital",
+            "email_domain": "fwd.digital",
+            "is_external": false,
+            "matched_speaker_display_name": null
+        }
+    ],
+    "recorded_by": {
+        "name": "Marcel Santilli",
+        "email": "santilli@fwd.digital",
+        "email_domain": "fwd.digital",
+        "team": "GrowthX Team"
+    },
+    "share_url": "https://fathom.video/share/x3iUhs-L3uGTJ5Cx6gyR3XqihnTqx7xz",
+    "crm_matches": {
+        "contacts": [],
+        "companies": [],
+        "deals": [],
+        "error": null
+    }
+}
