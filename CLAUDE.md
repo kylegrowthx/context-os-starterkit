@@ -70,6 +70,12 @@ Cursor auto-discovers skills from `.cursor/skills/`. For Claude Code, reference 
 | Client Account Assessment | `.cursor/skills/client-account-assessment/SKILL.md` | "Account assessment" / "account deep-dive" / "full status on {client}" / "prep me for the {client} QBR" / "client snapshot" |
 | Access Classification | `.cursor/skills/access-classification/SKILL.md` | "Classify access" / "tag access" / "audit access" / "access tier" / "who can see this" |
 | Sync Handbook | `.cursor/skills/sync-handbook/SKILL.md` | "Sync handbook" / "update handbook docs" / "pull handbook changes" / "handbook to context" |
+| SEO Domain Audit | `.cursor/skills/seo-domain-audit/SKILL.md` | "SEO audit on {domain}" / "audit {domain}" / "domain overview for {domain}" / "pull SEO metrics for {domain}" |
+| Competitive SEO Landscape | `.cursor/skills/competitive-seo-landscape/SKILL.md` | "Competitive landscape for {domain}" / "competitor SEO analysis" / "benchmark {domain} against competitors" |
+| AEO Audit | `.cursor/skills/aeo-audit/SKILL.md` | "AEO audit for {brand}" / "AI visibility report" / "how visible is {brand} to AI" / "AI engine optimization audit" |
+| SEO + AEO Overview | `.cursor/skills/seo-aeo-overview/SKILL.md` | "Full SEO and AI overview for {domain}" / "comprehensive visibility report" / "combined SEO and AEO analysis" |
+| Competitive Comparison Table | `.cursor/skills/competitive-comparison-table/SKILL.md` | "Competitive comparison table" / "side-by-side competitor comparison" / "compare all competitors SEO and AI" |
+| Content Pages Audit | `.cursor/skills/content-pages-audit/SKILL.md` | "Content pages audit" / "content page detail" / "blog audit" / "audit content pages" / "per-page SEO audit" / "page-level audit" |
 
 These are cross-cutting skills shared across all workspaces. Operational GTM skills (HubSpot, Ordinal, AEO prompts) live in gtm-brain/.cursor/skills/.
 
