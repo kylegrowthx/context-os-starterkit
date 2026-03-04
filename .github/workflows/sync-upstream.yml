@@ -1,0 +1,98 @@
+name: Sync Upstream (Marcel)
+
+on:
+  schedule:
+    # Daily at 8am UTC / 3am ET
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch upstream
+        run: |
+          git remote add marcel https://x-access-token:${{ secrets.UPSTREAM_PAT }}@github.com/marcelsantilli/growthx-ceo-os.git
+          git fetch marcel main
+
+      - name: Check for new commits
+        id: check
+        run: |
+          BEHIND=$(git rev-list --count HEAD..marcel/main)
+          echo "behind=$BEHIND" >> "$GITHUB_OUTPUT"
+          if [ "$BEHIND" -eq 0 ]; then
+            echo "Already up to date with upstream."
+          else
+            echo "$BEHIND new commit(s) from upstream."
+          fi
+
+      - name: Attempt merge
+        if: steps.check.outputs.behind != '0'
+        id: merge
+        run: |
+          if git merge marcel/main --no-edit -m "[upstream-sync] Merge marcel/main"; then
+            echo "status=clean" >> "$GITHUB_OUTPUT"
+          else
+            echo "status=conflict" >> "$GITHUB_OUTPUT"
+            git merge --abort
+          fi
+
+      - name: Push clean merge
+        if: steps.merge.outputs.status == 'clean'
+        run: git push origin main
+
+      - name: Create PR for conflicts
+        if: steps.merge.outputs.status == 'conflict'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="upstream-sync/$(date +%Y-%m-%d)"
+
+          # Check if branch already exists on remote
+          if git ls-remote --exit-code origin "refs/heads/$BRANCH" > /dev/null 2>&1; then
+            echo "Sync branch $BRANCH already exists. Skipping."
+            exit 0
+          fi
+
+          git checkout -b "$BRANCH"
+
+          # Merge and commit with conflict markers so they're visible in the PR
+          git merge marcel/main --no-edit -m "[upstream-sync] Merge marcel/main (conflicts)" || true
+          CONFLICTS=$(git diff --name-only --diff-filter=U | head -30)
+          git add -A
+          git commit --no-edit -m "[upstream-sync] Merge with conflicts for manual resolution" || true
+          git push origin "$BRANCH"
+
+          gh pr create \
+            --title "Upstream sync: merge conflicts need resolution ($(date +%Y-%m-%d))" \
+            --body "$(cat <<EOF
+          ## Upstream Sync
+
+          Marcel pushed updates to \`marcelsantilli/growthx-ceo-os\` that conflict with your local changes.
+
+          **Files with conflicts:**
+
+          \`\`\`
+          $CONFLICTS
+          \`\`\`
+
+          Search for \`<<<<<<<\` in the changed files to find and resolve each conflict, then merge this PR.
+          EOF
+          )" \
+            --base main \
+            --head "$BRANCH"
