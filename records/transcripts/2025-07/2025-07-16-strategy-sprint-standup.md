@@ -5,7 +5,7 @@ date: 2025-07-16
 time: 15:33 UTC
 duration: 24 minutes
 organizer: Jo Kaminska (GrowthX)
-participants: Marcel Santilli (GrowthX), Andi Bailey (GrowthX), Aida Knezevic (GrowthX), George Haikal (GrowthX), Jo Kaminska (GrowthX), Dave Capone (GrowthX), Matthew Alves-Hill (GrowthX), Nemanja (GrowthX Labs)
+participants: Marcel Santilli (GrowthX), Andi Bailey (GrowthX), Aida Knezevic (GrowthX), George Haikal (GrowthX), Jo Kaminska (GrowthX), Dave Capone (GrowthX), Matthew Alves-Hill (GrowthX), Sydney Go (GrowthX), Nemanja (GrowthX Labs)
 fathom_recording_id: 74540942
 fathom_url: https://fathom.video/calls/352715336
 share_url: https://fathom.video/share/fc5fZhqAEL4zL6HQYKeqPsP5L9cpy3Be
@@ -130,10 +130,13 @@ This is an internal GrowthX team standup for the delivery organization's strateg
 - Message Diligent requesting GSC and GA4 access. Set up weekly syncs. Review Joe's created artifacts.
 
 **Dave Capone (GrowthX)**
-- Set up SEO testing infrastructure for 100 refreshed Airbyte blogs. Coordinate with nemsimic for URLs. Share testing process in internal channel so team can replicate.
+- Set up SEO testing infrastructure for 100 refreshed Airbyte blogs. Coordinate with Nemanja for URLs. Share testing process in internal channel so team can replicate.
 
 **Marcel Santilli (GrowthX)**
 - Shape Okta project with George. Identify use cases from Rachel's input. Prep for follow-up meeting with Rachel next week.
+
+**Sydney Go (GrowthX)**
+- Generate and update artifacts for Sentinel-1. Work on initial strategy to identify opportunities. Sync internally to set up meetings with client team.
 
 ---
 

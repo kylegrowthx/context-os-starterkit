@@ -5,7 +5,8 @@ date: 2025-07-16
 time: 15:31 UTC
 duration: 36 minutes
 organizer: carrie@growthx.ai
-participants: Carrie Chowske, Darrell Etherington, Jessica Yip, Brodie Meyer
+participants: Carrie Chowske, Darrell Etherington, Jessica Yip
+speaker_note: Brodie Meyer was invited but did not join the call. Jessica Yip references discussion with Brodie in the transcript.
 fathom_recording_id: 74538515
 fathom_url: https://fathom.video/calls/352774501
 share_url: https://fathom.video/share/pudvyrm9e65qfnR2wexX2HdNC-_2F5Ls
@@ -23,7 +24,7 @@ GrowthX and Yourco reviewed content performance metrics (consistent post-analysi
 
 ## Context
 
-Yourco is an ongoing GrowthX content marketing client in the construction/facilities management vertical. This is a weekly operational sync between the GrowthX delivery team (Carrie Chowske, Darrell Etherington) and Yourco stakeholders (Jessica Yip, Brodie Meyer) to review performance, resolve blockers, and align on content strategy and product integration. The meeting reflects Yourco's focus on content that addresses both top-of-funnel awareness (safety compliance, industry education) and mid-market/enterprise-level sophistication, with attention to how template-driven content should accurately represent Yourco's actual feature set.
+Yourco is an ongoing GrowthX content marketing client in the construction/facilities management vertical. This is a weekly operational sync between the GrowthX delivery team (Carrie Chowske, Darrell Etherington) and Yourco stakeholder Jessica Yip to review performance, resolve blockers, and align on content strategy and product integration. The meeting reflects Yourco's focus on content that addresses both top-of-funnel awareness (safety compliance, industry education) and mid-market/enterprise-level sophistication, with attention to how template-driven content should accurately represent Yourco's actual feature set.
 
 ---
 
@@ -348,8 +349,6 @@ Yourco is an ongoing GrowthX content marketing client in the construction/facili
 
 **Darrell Etherington:** And that's why it was one of the reasons, too, I was trying to deliver a little bit more.
 
-**Carrie Chowske:** Thank Thank
-
 **Carrie Chowske:** Just other content so that we can take some more time on those and we're not.
 
 **Carrie Chowske:** So we're, yeah, we're in a good state, I think, with those right now with being able to still publish.
@@ -362,7 +361,7 @@ Yourco is an ongoing GrowthX content marketing client in the construction/facili
 
 **Jessica Yip:** And then the other thing that I would like to highlight is when we focus on content that is much more quality and in-depth.
 
-**Jessica Yip:** One of the things that Bodhi and I talked about is that we would like to able to serve the mid-market and the enterprise market more in this content.
+**Jessica Yip:** One of the things that Brodie and I talked about is that we would like to able to serve the mid-market and the enterprise market more in this content.
 
 **Jessica Yip:** which means that we want, we're looking for more sophisticated one, like, and speaking in the terms and much more.
 
@@ -577,8 +576,6 @@ Yourco is an ongoing GrowthX content marketing client in the construction/facili
 **Jessica Yip:** Give me the list.
 
 **Darrell Etherington:** Give me the list.
-
-**Darrell Etherington:** the the Give Give Thank
 
 **Jessica Yip:** I totally forgot.
 
@@ -950,7 +947,7 @@ Yourco is an ongoing GrowthX content marketing client in the construction/facili
 
 **Jessica Yip:** Thank you, Darrell.
 
-**Jessica Yip:** Thank you, Gary.
+**Jessica Yip:** Thank you, Carrie.
 
 **Jessica Yip:** Thanks a lot.
 

@@ -51,10 +51,12 @@ Common patterns:
 
 Run SEMRush `domain_organic`:
 - `database`: `us`
-- `display_limit`: high enough to capture all content pages (start with 2000, increase if needed)
+- `display_limit`: set equal to or greater than the total organic keyword count from the domain overview (e.g., if 76,267 keywords, use `display_limit: 80000`). The goal is to capture **every keyword-URL pair** so per-page aggregation is accurate.
 - `display_sort`: `tr_desc` (traffic descending)
 - `display_filter`: filter for content URL patterns if possible, or pull all and filter locally
 - `export_columns`: `Ur,Ph,Po,Nq,Tr,Tc`
+
+**Stop-and-ask gate:** If the domain has more than **10,000 organic keywords**, pause and confirm with the user before pulling. Present the keyword count and ask whether to pull all (full accuracy) or a smaller subset (faster, lower cost). If using a URL filter (e.g., `+|Ur|Co|blog`), the filtered count is usually much smaller than total — pull all filtered results without asking.
 
 Save raw response.
 
@@ -62,7 +64,7 @@ Save raw response.
 
 Run the same `domain_organic` call with:
 - `display_date`: `YYYYMM15` format for 6 months ago (e.g., if current is Feb 2026, use `20250815`)
-- Same filters and columns as Step 2
+- Same `display_limit` and filters as Step 2
 
 Save raw response.
 
