@@ -40,7 +40,7 @@ Each test file contains:
 
 ## Interpreting Results
 
-**If the agent sounds generic:** Your voice guide isn't loaded or isn't filled in. Check `context/voice/writing-style-context-v1.md`.
+**If the agent sounds generic:** Your voice guide isn't loaded or isn't filled in. Check `context/voice/writing-style-context-v2.md`.
 
 **If the agent doesn't know your company:** Your docs aren't filled in. Start with `docs/company/mission-and-vision.md`.
 

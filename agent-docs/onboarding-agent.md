@@ -1,7 +1,5 @@
 # Onboarding Agent Configuration
 
-<!-- TEMPLATE: Update file paths to match your actual docs. Delete this comment when done. -->
-
 <metadata>
 purpose: Context loading instructions for team onboarding and company questions
 audience: AI agents
@@ -11,7 +9,7 @@ depends_on: docs/start-here.md
 domain: company
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
 ## When to Load This
@@ -21,7 +19,7 @@ Load this agent config when the task involves:
 - Onboarding a new team member
 - Explaining company culture, values, or processes
 - Finding the right internal documentation
-- "How do we do X at [YOUR COMPANY]?" type questions
+- "How do we do X at GrowthX?" type questions
 
 ## Required Context (Always Load)
 
@@ -32,15 +30,21 @@ Load this agent config when the task involves:
 
 | Question About | Load |
 |----------------|------|
-| Who we are, mission, values | `docs/company/` README then specific file |
-| How we make money | `docs/business/` README then specific file |
-| How we deliver work | `docs/delivery/` README then specific file |
-| How we communicate | `docs/how-we-work/` README then specific file |
-| Products we build | `docs/products/` README then specific file |
-| HR, policies, time off | `docs/people/` README then specific file |
+| Who we are, mission, values | `docs/company/mission-and-vision.md`, `docs/company/culture-and-values.md` |
+| Company strategy | `docs/company/strategy-overview.md` |
+| How we make money | `docs/business/business-model.md`, `docs/business/ideal-customer-profile.md` |
+| How we deliver work | `docs/delivery/teams-and-operations.md`, `docs/delivery/eight-week-plan-v1.md` |
+| How we communicate | `docs/how-we-work/async-communication.md`, `docs/how-we-work/slack-guide-v1.md`, `docs/how-we-work/meetings.md` |
+| Operating rhythm | `docs/how-we-work/operating-rhythm-v1.md` |
+| Products we build | `docs/products/ecosystem-overview-v1.md` then specific product doc |
+| HR, policies, time off | `docs/people/onboarding.md`, `docs/people/time-off-policy.md`, `docs/people/code-of-conduct.md` |
+| Parental leave | `docs/people/parental-leave-v1.md` |
 | Financial / board context | `docs/finance/` README then specific file |
-| Engineering & product dev | `docs/epd/` README then specific file |
-| Sales process | `docs/sales/` README then specific file |
+| Engineering & product dev | `docs/epd/dev-process.md`, `docs/epd/tech-stack.md`, `docs/epd/ai-driven-development-v1.md` |
+| One-on-ones | `docs/epd/one-on-ones-v1.md` |
+| Sales process | `docs/sales/sales-process.md` |
+| Documentation standards | `docs/how-we-work/documentation.md` |
+| Human-AI collaboration | `docs/delivery/human-ai-collaboration-v1.md` |
 
 ## Navigation Pattern
 

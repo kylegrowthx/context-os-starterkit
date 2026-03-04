@@ -1,6 +1,4 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
-# Working with [YOUR NAME]
+# Working with George
 
 <metadata>
 purpose: Help anyone (human or AI) working with the founder understand how they operate, what they value, and how to be effective with them
@@ -8,19 +6,19 @@ audience: Team members, AI agents, collaborators
 summary: Founder operating manual covering communication, decisions, feedback, stress patterns, and values
 token_estimate: medium
 depends_on: none
-related: context/roles/advisor-role-template-v1.md
+related: context/roles/ceo-v1.md
 domain: company
 confidence: canonical
 sensitivity: leadership-only
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
 ---
 
 ## The Bottom Line
 
-[FILL IN: Write 2-3 sentences that capture who you are as a leader. What's the single most important thing someone needs to know to work well with you? This paragraph should be brutally honest, not aspirational. Example: "[Name] is a systems-thinking founder who operates with high intensity, thinks in feedback loops, and values data over opinions."]
+George is a systems-thinking founder who builds from first principles, communicates with directness, and cares deeply about clarity. He values async-first communication, written over verbal, and expects people to own their work without constant direction. He's building GrowthX because he believes AI has fundamentally changed how growth works, and most companies are unprepared.
 
 This guide tells you what I won't always say explicitly. Use it to accelerate your working relationship.
 
@@ -28,294 +26,275 @@ This guide tells you what I won't always say explicitly. Use it to accelerate yo
 
 ## 1. My Role and What I'm Here For
 
-[FILL IN: This section helps AI agents and team members understand your value-add and your boundaries. Be specific about what you provide and what you don't.]
-
 **What I provide:**
 
-[FILL IN: What do you bring to the table? What's your unique contribution as founder? Example: "Direction, blockers removed, and help thinking through hard problems. My job is connecting dots across the business you can't see from your seat." Be specific about 2-3 areas where you add the most value.]
+Direction, strategic clarity, and the ability to connect dots across the business that aren't visible from any single seat. I set the vision, remove blockers, and help think through the hardest problems. I care about building systems that compound, not just solving today's problem.
 
 **What I expect from you:**
 
-[FILL IN: What do you expect from people who work with you? Be direct about autonomy expectations. Example: "Own your domain. I'll set the north star, but you navigate."]
+Own your domain. I'll set the north star, but you navigate. Come with recommendations, not open questions. Show your thinking. If you're stuck, say so early and specifically. "I'm blocked on X and need Y by Thursday" is actionable. "I'm kind of stuck" isn't.
 
 **What NOT to expect:**
 
-[FILL IN: What should people NOT rely on you for? This prevents misaligned expectations. Example: "Don't expect me to be your project manager. If you need constant check-ins to stay on track, we have a fit problem."]
+Don't expect me to be your project manager. If you need constant check-ins to stay on track, we have a fit problem. I trust you to manage your own time, priorities, and quality bar.
 
 **Where I add most value:**
 
-- [FILL IN: Situation where you're at your best]
-- [FILL IN: Situation]
-- [FILL IN: Situation]
-- [FILL IN: Situation]
+- Connecting patterns across different parts of the business that inform strategy
+- Cutting through ambiguity to find the core problem
+- Challenging assumptions and pushing thinking to first principles
+- Making fast decisions when the team is stuck in analysis
 
 ---
 
 ## 2. Communication Preferences
 
-[FILL IN: This section is critical for AI agents — it tells them how to format outputs, how much detail to include, and what communication style to use.]
-
 **Channel hierarchy (most urgent to least):**
 
 | Channel | Use For | My Response Time |
 |---------|---------|------------------|
-| [FILL IN: Highest urgency channel] | [FILL IN: Use case] | [FILL IN: Response time] |
-| [FILL IN: Channel] | [FILL IN: Use case] | [FILL IN: Response time] |
-| [FILL IN: Channel] | [FILL IN: Use case] | [FILL IN: Response time] |
-| [FILL IN: Lowest urgency channel] | [FILL IN: Use case] | [FILL IN: Response time] |
+| Phone/call | True emergencies only | Immediate |
+| Slack DM | Time-sensitive decisions, blockers | Same day |
+| Slack channels | Updates, async discussion, FYIs | Within 24 hours |
+| Email | External communication, formal items | Within 24-48 hours |
 
 **How I prefer information:**
 
-[FILL IN: Written or verbal? Do you prefer pre-reads before meetings? Bullet points or prose? Long-form or executive summary? This directly affects how AI agents format their outputs. Example: "Written over verbal. Send me context before meetings. A 2-minute read saves 20 minutes of live explanation."]
+Written over verbal. Always. Send me context before meetings. A 2-minute read saves 20 minutes of live explanation. I prefer bullet points over prose for updates and decisions. Save long-form for strategy docs and analysis where the reasoning matters.
+
+Lead with the point. Tell me the "so what" in the first sentence. Then give me the supporting detail if I need it. Don't bury the lead.
 
 **When to interrupt me:**
 
-- [FILL IN: Situation that warrants interruption]
-- [FILL IN: Situation]
-- [FILL IN: Situation]
+- A client is at risk of churning and needs immediate attention
+- Something is broken in production that affects customers
+- A decision is blocking multiple people and can't wait
 
 **When NOT to interrupt me:**
 
-- [FILL IN: Situation that doesn't warrant interruption]
-- [FILL IN: Situation]
-- [FILL IN: Situation]
+- Status updates that could be a Slack message
+- Questions you can answer yourself by checking existing docs
+- Things that are important but not urgent (use async)
 
 **What my silence means:**
 
-[FILL IN: Does silence mean approval, disapproval, or simply that you're busy? People need to know this. Example: "If I haven't responded, it's not approval. It's that I'm buried. Follow up."]
+If I haven't responded, it's not approval. It's that I'm focused on something else. Follow up. Don't assume silence is agreement. If it's been more than 24 hours on something important, ping me again.
 
 ---
 
 ## 3. Decision-Making Philosophy
 
-[FILL IN: This section helps AI agents understand how to frame recommendations and what decision-making frameworks you use.]
-
 **What needs my approval:**
 
-- [FILL IN: Decision that requires your sign-off]
-- [FILL IN: Decision]
-- [FILL IN: Decision]
-- [FILL IN: Decision]
+- New client engagements and pricing decisions
+- Hiring and team structure changes
+- Strategy pivots or major scope changes for existing clients
+- Any external communication that represents the company's position
 
 **What you should decide without me:**
 
-- [FILL IN: Decision others should own]
-- [FILL IN: Decision]
-- [FILL IN: Decision]
+- Day-to-day editorial decisions and content priorities within approved strategy
+- Scheduling and logistics
+- Tool choices and workflow optimizations within your domain
+- Client communication for routine updates and status
 
 **How to bring me a decision:**
 
-[FILL IN: What format do you want decisions presented in? Example: "Come with a recommendation, not an open question. Show me: 1) The problem (with data), 2) Options you considered, 3) Your recommendation and why, 4) What you need from me."]
+Come with a recommendation, not an open question. Show me: (1) the problem with context, (2) options you considered, (3) your recommendation and why, (4) what you need from me. I can react to a recommendation in minutes. An open-ended "what should we do?" takes an hour.
 
 **My decision-making frameworks:**
 
-[FILL IN: List 2-3 frameworks or principles you use to make decisions. Examples: "Type 1 vs Type 2 doors," "Validation before scaling," "Disagree and commit." Explain each briefly so AI agents can mirror your reasoning patterns.]
+**First principles thinking:** Don't tell me what the industry does. Tell me what's actually true, then reason from there. Challenge assumptions. "Everyone does it this way" is not a reason.
+
+**Reversible vs. irreversible decisions:** For reversible decisions, move fast and course-correct. For irreversible ones, slow down and think harder. Most decisions are more reversible than people think.
+
+**Compounding value:** I bias toward choices that build on themselves over time. Short-term wins that don't compound are less interesting than slower plays that create lasting advantage.
 
 ---
 
 ## 4. Meeting Preferences
 
-[FILL IN: How you run meetings and what you expect from 1:1s.]
-
 **How I run meetings:**
 
-- [FILL IN: Meeting behavior or preference]
-- [FILL IN: Behavior]
-- [FILL IN: Behavior]
-- [FILL IN: Behavior]
+- Meetings have a purpose stated upfront. If there's no clear purpose, cancel it.
+- Pre-reads sent before the meeting, not during. If I'm learning context during the meeting, we're wasting time.
+- Decisions get made in the room when possible. If we can't decide, we define what's missing and set a deadline.
+- Meetings end early when we're done. There's no reason to fill the time.
 
 **1:1 structure:**
 
-[FILL IN: Who owns the 1:1 agenda? What should people bring? What's a waste of 1:1 time?]
+You own the agenda. Bring the things that are most important to you, not just status updates. 1:1s are for the hard stuff: career growth, strategic questions, concerns, blockers that need my help. Status belongs in async channels.
 
 **What energizes me in meetings:**
 
-[FILL IN: What kind of conversations light you up?]
+Conversations where we're genuinely solving a hard problem together. When someone challenges my thinking with data or a perspective I hadn't considered. When the team connects dots I missed.
 
 **What drains me:**
 
-[FILL IN: What kind of meetings or interactions drain your energy? This helps AI agents avoid patterns that frustrate you.]
+Meetings that should have been a Slack message. Status updates delivered live. Rehashing decisions that were already made. Meetings where nobody prepared.
 
 **Protected time:**
 
-[FILL IN: Are there blocks of time that are off-limits? Example: "Family time from X to Y. Don't schedule calls in this window unless urgent."]
+[To be filled in by George — specific blocks of protected time, family time, etc.]
 
 ---
 
 ## 5. How I Give and Receive Feedback
 
-[FILL IN: This section is essential for AI agents that generate recommendations or evaluate work.]
-
 **How I give feedback:**
 
-[FILL IN: Are you direct or diplomatic? In the moment or delayed? How should people interpret your feedback style?]
+Direct and in the moment. I don't soften feedback with filler. If something isn't working, I'll say so clearly. This isn't personal. It's respect for your time. I'd rather tell you something is off today than let it compound into a bigger problem.
 
 **How to receive my feedback:**
 
-- [FILL IN: Guidance for receiving your feedback]
-- [FILL IN: Guidance]
-- [FILL IN: Guidance]
+- Don't take directness as harshness. If I'm giving you feedback, it means I care about your growth.
+- Ask clarifying questions if something isn't clear. I'd rather explain more than have you guess.
+- If you disagree, say so. Push back with reasoning. I change my mind when presented with better information.
 
 **How to give ME feedback:**
 
-[FILL IN: What makes you receptive to feedback? What format works? When is the best time to give you feedback? Example: "I'm receptive when you ground it in data and examples. Call me out in the moment."]
+Be direct. Ground it in specifics and examples. "Last week when you did X, it caused Y" is useful. "Sometimes I feel like..." is not. I'm most receptive when feedback is concrete and actionable. Call me out in the moment when possible.
 
 **What makes me most receptive:**
 
-- [FILL IN: Condition]
-- [FILL IN: Condition]
-- [FILL IN: Condition]
+- When it's grounded in data or specific examples, not feelings
+- When you've thought about solutions, not just the problem
+- When you tell me directly rather than going around me
 
 ---
 
 ## 6. Accountability and Expectations
 
-[FILL IN: What accountability means to you and how you distinguish effort from results.]
-
 **What accountability means to me:**
 
-[FILL IN: What does accountability look like in practice? Example: "Know your numbers. Cold." or "Do what you said you'd do by when you said you'd do it."]
+Do what you said you'd do by when you said you'd do it. If that changes, communicate early. I don't care about perfection. I care about follow-through and honesty when things go sideways.
 
 **How I distinguish effort from results:**
 
-[FILL IN: How do you balance valuing effort vs. demanding outcomes? This helps AI agents frame recommendations around results, not activities.]
+Effort matters when you're learning. Once you're ramped, results matter. I don't count hours or monitor activity. I look at outcomes. Did the content ship? Did the client renew? Did the system get better? If the outcomes are strong, I don't care how you got there.
 
 **How to handle blockers:**
 
-[FILL IN: How should people escalate blockers? What format do you want? Example: "Escalate early. Be specific. 'I need a decision by Thursday' is actionable. 'I'm kind of blocked' isn't."]
+Escalate early. Be specific. "I need a decision on X by Thursday" is actionable. "I'm kind of blocked" isn't. Don't wait until you're stuck for a week to mention it. A small blocker raised early gets solved in minutes. The same blocker raised late costs days.
 
 **The difference between a mistake and a pattern:**
 
-[FILL IN: How do you respond to one-off failures vs. recurring problems? This helps AI agents understand your tolerance and expectations.]
+Everyone makes mistakes. I make them constantly. A mistake is a learning opportunity. A pattern is a performance issue. If the same problem shows up three times and nothing changes, that tells me something about process or fit. I'll name it directly.
 
 ---
 
 ## 7. How I Operate Under Stress
 
-[FILL IN: This section is critical context for AI agents. It helps them recognize when you're stressed and adjust their communication accordingly.]
-
 **What stress looks like on me:**
 
-[FILL IN: What behaviors do others observe when you're stressed? Be honest. Example: "I extrapolate to worst-case scenarios." or "I get short and overly direct." or "I go quiet and withdraw."]
+[To be filled in by George — honest description of stress behaviors others would observe.]
 
 **My stress triggers:**
 
-- [FILL IN: What triggers stress for you]
-- [FILL IN: Trigger]
-- [FILL IN: Trigger]
-- [FILL IN: Trigger]
+- Lack of clarity or alignment on what matters most
+- Things moving slowly when they should move fast
+- Surprises — especially bad news delivered late that could have been flagged earlier
+- People who aren't direct about problems
 
 **What I need from you during crises:**
 
-- [FILL IN: What you need from people when things are hard]
-- [FILL IN: Need]
-- [FILL IN: Need]
-- [FILL IN: Need]
+- Bring structure. Give me something concrete to react to, not open-ended problems.
+- Be direct about what's actually happening, not the sanitized version
+- Tell me what you need from me specifically
+- Move fast and update frequently until it's resolved
 
 **How to work with me when I'm stressed:**
 
-[FILL IN: Practical guidance for people interacting with you during high-stress periods. Example: "Bring structure. Give me something concrete to react to, not open-ended problems."]
+Bring clarity. The best thing you can do when I'm stressed is reduce ambiguity. Give me facts, options, and a recommendation. Don't add more questions to the pile. Help me see the path forward.
 
 ---
 
 ## 8. Known Flaws and Development Areas
 
-[FILL IN: This is the most valuable section for building trust and self-awareness. List your actual flaws, not humble-brags. AI agents use this to avoid triggering your weaknesses and to compensate for them.]
-
-**What I'm working on:**
-
-**[FILL IN: Flaw 1 name]:** [FILL IN: Description of the flaw and its impact. Example: "High-context leadership — I expect the team to infer priorities from signals. This creates ambiguity."]
-
-**[FILL IN: Flaw 2 name]:** [FILL IN: Description]
-
-**[FILL IN: Flaw 3 name]:** [FILL IN: Description]
-
-**[FILL IN: Flaw 4 name]:** [FILL IN: Description]
+[To be filled in by George — this section works best when it's brutally honest. The template suggests listing actual flaws, not humble-brags, so AI agents and team members can compensate for them.]
 
 **How you can help me improve:**
 
-- [FILL IN: Specific action others can take to help you grow]
-- [FILL IN: Action]
-- [FILL IN: Action]
-- [FILL IN: Action]
-
-[FILL IN: Optional — add a line like "I list these flaws because I want to improve. Calling them out is helping, not criticizing." This sets the tone for psychological safety.]
+- If I'm moving too fast and skipping context, slow me down. "Can I give you some context before you decide?" works.
+- If I'm being unclear about priorities, ask me to rank them explicitly. "If I can only do one of these this week, which one?"
+- If my feedback lands harshly, tell me. I want to be direct, not abrasive. There's a line and I don't always see it in the moment.
+- If I'm making a decision without enough information, flag it. "Have you considered X?" is always welcome.
 
 ---
 
 ## 9. Values and What I Care Deeply About
 
-[FILL IN: This section calibrates AI agents to your belief system so their recommendations align with what you actually care about.]
-
 **What I believe:**
 
-[FILL IN: List 3-5 core beliefs that drive your decisions. These should be specific and actionable, not generic platitudes. Example: "Compounding value is the only marketing that matters. Everything else is rented attention."]
+- Compounding value is the only growth strategy that matters. Everything else is rented attention.
+- AI has fundamentally changed how discovery works. If you're not in the AI answer, you don't exist. Most companies are completely unprepared for this.
+- The best writing is clear thinking made visible. If you can't explain it simply, you don't understand it well enough.
+- Systems beat heroics. A good system produces consistent results. Heroics produce burnout.
+- Build from first principles, not from what the industry says to do.
 
 **What I value in people:**
 
-- [FILL IN: Quality you value and why. Example: "Founder mentality — you act like it's your company"]
-- [FILL IN: Quality]
-- [FILL IN: Quality]
-- [FILL IN: Quality]
-- [FILL IN: Quality]
+- **Ownership mentality** — Act like it's your company. Chase down answers without being asked.
+- **Clarity in communication** — Say what you mean. Lead with the point. No jargon.
+- **Intellectual honesty** — Say "I don't know" when you don't. Challenge ideas including mine.
+- **Speed with quality** — Move fast, but don't ship garbage. Find the balance.
+- **Curiosity** — Never stop learning. The best people I work with are relentlessly curious.
 
 **My non-negotiables:**
 
-- [FILL IN: Non-negotiable standard and brief explanation]
-- [FILL IN: Non-negotiable]
-- [FILL IN: Non-negotiable]
-- [FILL IN: Non-negotiable]
+- Honesty, even when it's uncomfortable. I can work with mistakes. I can't work with dishonesty.
+- Quality standards. We never ship work that would damage a client's reputation.
+- Direct communication. If something is wrong, say it. Don't hint. Don't go around people.
+- Follow-through. If you commit to something, deliver it. If you can't, say so before the deadline, not after.
 
 **This is personal:**
 
-[FILL IN: Why does this company matter to you beyond money? What makes it personal? This helps AI agents understand the emotional weight behind your decisions. Example: "This isn't a job to me. It's the culmination of [X years] of feeling a problem and finally building the solution."]
+This isn't a job to me. AI is changing how the world discovers and trusts information. Content is the atomic unit of that shift. I'm building GrowthX because I believe the companies that figure out AI-era content first will win their markets, and someone needs to help them do it right. That's the problem I wake up thinking about.
 
 ---
 
 ## 10. Personal Context
 
-[FILL IN: Background information that helps people understand why you are the way you are. Include only what you're comfortable sharing. This section is marked sensitivity: leadership-only.]
-
 **Background:**
 
-[FILL IN: Professional history and key experiences that shaped your leadership style. Focus on the experiences that explain your current behaviors and priorities.]
+[To be filled in by George — professional history and key experiences that shaped leadership style.]
 
 **Family:**
 
-[FILL IN: Optional — any family context that affects how you work (protected time blocks, priorities, etc.)]
+[To be filled in by George — any family context that affects work patterns, protected time, etc.]
 
 **What energizes me:**
 
-- [FILL IN: Activity or situation]
-- [FILL IN: Activity or situation]
-- [FILL IN: Activity or situation]
-- [FILL IN: Activity or situation]
+- Solving hard problems from first principles
+- Watching the team ship work that's genuinely excellent
+- Conversations where we challenge each other's thinking and come out with a better answer
+- Building systems that compound — seeing the flywheel spin faster
 
 **What drains me:**
 
-- [FILL IN: Activity or situation]
-- [FILL IN: Activity or situation]
-- [FILL IN: Activity or situation]
-- [FILL IN: Activity or situation]
+- Repetitive work that should have been systematized
+- Meetings without purpose or preparation
+- People who avoid hard conversations
+- Bureaucracy and process for its own sake
 
 ---
 
 ## Quick Reference
 
 **Do:**
-- [FILL IN: Top behavior you want from people. Example: "Come with recommendations, not open questions"]
-- [FILL IN: Behavior]
-- [FILL IN: Behavior]
-- [FILL IN: Behavior]
-- [FILL IN: Behavior]
-- [FILL IN: Behavior]
+- Come with recommendations, not open questions
+- Lead with the point in all communication
+- Escalate blockers early and specifically
+- Push back on my ideas with data and reasoning
+- Own your domain and manage your own quality bar
+- Write things down (async-first, always)
 
 **Don't:**
-- [FILL IN: Top behavior to avoid. Example: "Wait until you're stuck to escalate"]
-- [FILL IN: Behavior to avoid]
-- [FILL IN: Behavior to avoid]
-- [FILL IN: Behavior to avoid]
-- [FILL IN: Behavior to avoid]
+- Wait until you're stuck to escalate
+- Schedule meetings that should be a Slack message
+- Use corporate jargon or filler language
+- Assume silence means approval
+- Surprise me with bad news that could have been flagged earlier
 
 ---
 

@@ -1,93 +1,126 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
-# Meetings
-
 <metadata>
-purpose: Guide to running effective meetings at [YOUR COMPANY]
+purpose: Define how to organize and run meetings that are worth everyone's time
 audience: All team members
-summary: Meeting formats, cadences, agendas, and ground rules for effective sync communication.
-token_estimate: medium
-depends_on: []
-related: async-communication.md, documentation.md
-domain: company
+summary: Guidelines for before, during, and after meetings — including prep, facilitation, participant engagement, and follow-up.
+domain: operations
 confidence: canonical
-context_tier: 2
-last_updated: 2026-02-18
+context_tier: 1
+last_updated: 2026-02-22
 </metadata>
 
-We're async by default, but meetings still matter. When we do meet, we make it count.
+# Effective Meetings
 
----
+Meetings are an important part of how we work, but they need to be intentional and effective. A good meeting organizer has a clear purpose, ensures the right people are present, and is mindful of meeting dynamics.
 
-## Ground Rules
+> **Note:** Default to **async communication** and use meetings only when you need to transform — not just transmit — information. Ask yourself: "Does this really need to be a meeting?"
 
-1. **No agenda, no meeting.** Every meeting must have a written agenda shared in advance.
-2. **Start on time, end on time.** Respect everyone's calendar.
-3. **Document outcomes.** Every meeting produces written notes, action items, or both.
-4. **Default to 25 or 50 minutes.** Leave buffer between meetings.
-5. **Record when possible.** So absent team members can catch up async.
+## Before the meeting
 
----
+### 1. Decide if the meeting is necessary
 
-## Meeting Types
+Only schedule a meeting if you need to:
+- **Teach or learn** something crucial
+- Get **critical input** like brainstorming or decision-making
+- **Build a social connection** that can't happen async
 
-### 1:1s
+If you could handle it in Notion or Slack, do that instead.
 
-**Frequency:** [FILL IN: Weekly/biweekly]
-**Duration:** 25-30 minutes
-**Purpose:** Relationship building, feedback, blockers, career development
+### 2. Create a clear calendar invite
 
-**Format:**
-- [FILL IN: How do 1:1s work at your company?]
+Every invite should include:
+- **Description**: Meeting objective, agenda (time-boxed if needed), and any prep required
+- **Participants**: Only invite people who need to be there
+- **Location**: Google Meet or another suitable virtual room for larger groups
+- **Timing**: Use "Speedy Meetings" in Google Calendar (25 or 50 min) for breathing space between sessions
 
-### Team Standups
+### 3. Prepare content ahead of time
 
-**Frequency:** [FILL IN: Daily/2x week/weekly]
-**Duration:** 15 minutes
-**Purpose:** Quick sync on blockers and priorities
+Give participants materials in advance so they can arrive ready to contribute:
+- Miro board for brainstorming
+- Notion doc outlining key points for decisions
+- Spreadsheet for financial reviews
 
-**Format:**
-- What I'm working on
-- Where I'm blocked
-- What I need help with
+### 4. Limit attendees
 
-### [FILL IN: Weekly Team Meeting]
+More people = less effective decisions.
 
-**Frequency:** Weekly
-**Duration:** [FILL IN]
-**Purpose:** [FILL IN]
+- **Decision-making**: Fewer than 7 people
+- **Brainstorming**: Up to 15-18 people
+- **Information sharing**: 18+ people
 
-### [FILL IN: All-Hands / Company Meeting]
+### 5. Avoid unnecessary exclusion
 
-**Frequency:** [FILL IN: Monthly/quarterly]
-**Duration:** [FILL IN]
-**Purpose:** [FILL IN: Company updates, wins, strategy]
+People don't like missing out. To manage this:
+- **Timed agenda**: Invite people only to the parts relevant to them
+- **Ordered agenda**: Share information first, then transition to a smaller discussion
 
----
+## During the meeting
 
-## Meeting Cadences
+### Start right
 
-| Meeting | Frequency | Attendees | Duration |
-|---------|-----------|-----------|----------|
-| 1:1s | [FILL IN] | Manager + report | 25 min |
-| Standup | [FILL IN] | Team | 15 min |
-| [FILL IN: Team sync] | [FILL IN] | [FILL IN] | [FILL IN] |
-| [FILL IN: All-hands] | [FILL IN] | All | [FILL IN] |
-| [FILL IN: Planning] | [FILL IN] | [FILL IN] | [FILL IN] |
+Begin with a quick **check-in** — ask participants to share two words about how they're feeling. Then share the agenda and assign roles: facilitator, note-taker, and timekeeper.
 
----
+### Stick to the schedule
 
-## When NOT to Have a Meeting
+Start and end on time. Assign a timekeeper. If you can't cover all agenda items, set a follow-up plan instead of running over.
 
-- Status updates (use async updates)
-- Simple decisions (use a message thread)
-- Information sharing (write a document)
-- Three or fewer people with a quick question (use a huddle or quick call instead of a scheduled meeting)
+### Take clear notes
 
----
+Assign a **note-taker** (not the meeting owner) to document:
+- Goals
+- Decisions made
+- Action items with owners
+- Questions and answers
 
-## After Every Meeting
+Distribute notes immediately after the meeting.
 
-- [ ] Post meeting notes in the shared channel or document
-- [ ] Assign clear action items with owners and deadlines
-- [ ] Update relevant documentation with decisions made
+### Long meetings need breaks
+
+If a meeting runs longer than an hour, provide a 5-minute break every 50-55 minutes.
+
+### Create space for thinking
+
+During brainstorming or decision-making, build in moments of silence:
+- **Brainwriting**: Write ideas silently on stickies before sharing
+- **Silent reading**: Read the material together to align everyone
+- **Voting**: Use tools like Mentimeter or Miro for anonymous feedback
+
+### Own your meetings
+
+The meeting owner keeps things productive. Listen actively, encourage constructive conflict, and call on quieter participants.
+
+### Engage participants
+
+Combat distractions by making meetings interactive:
+- Start with an icebreaker
+- Use live polls or ask questions in the chat
+- Acknowledge and highlight contributions
+
+### Be an active participant
+
+If you're attending, follow the facilitator's lead, pay attention, and speak up when appropriate.
+
+### Use non-verbal signals
+
+Non-verbal cues matter in virtual meetings:
+- **Raise hand**: You want to speak
+- **Jazz hands**: You agree
+- **Time-out gesture**: Something needs attention
+
+### End with summary and action steps
+
+Leave the last 5 minutes for summarizing key takeaways and aligning on next steps. Ask for any remaining concerns before closing.
+
+## After the meeting
+
+### 1. Gather feedback
+
+Meeting owners often overestimate effectiveness. Run a quick post-meeting survey — three questions is enough.
+
+### 2. Share results with stakeholders
+
+Communicate key outcomes with people who weren't present via Slack or Notion. Keep it concise with bullet points and links.
+
+### 3. Reflect and adjust
+
+Block time to review notes and outcomes. Adjust future plans as needed.

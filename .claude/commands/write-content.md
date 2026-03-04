@@ -2,7 +2,7 @@ Write or review content using the company's voice and style.
 
 ## Before Writing
 
-Always load the style guide first: `context/voice/writing-style-context-v1.md`
+Always load the style guide first: `context/voice/writing-style-context-v2.md`
 
 If writing social media content, also load: `context/voice/social-media-style-guide-template-v1.md`
 
@@ -30,7 +30,7 @@ Channel the style anchors defined in the writing style guide. If none are set ye
 - Storytelling clarity (Morgan Housel)
 - Raw simplicity (Hemingway)
 
-Avoid: corporate jargon, filler phrases, passive voice, em dashes (use periods instead).
+Avoid: corporate jargon, filler phrases, passive voice. Never use em dashes. Use periods, commas, or colons instead.
 
 ## Reviewing Content
 
@@ -50,5 +50,5 @@ Before finishing, verify:
 
 ## Reference
 
-- Style rules: `context/voice/writing-style-context-v1.md`
+- Style rules: `context/voice/writing-style-context-v2.md`
 - Craft foundations: `knowledge/content/writing-craft-study-guide-v1.md`

@@ -1,151 +1,154 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Start Here
 
 <metadata>
-purpose: New hire entry point and comprehensive onboarding guide
-audience: New hires, all team members
-summary: The starting point for understanding [YOUR COMPANY] — who we are, how we work, and where to find everything.
-token_estimate: medium
-depends_on: []
-related: company/mission-and-vision.md, business/business-model.md, company/culture-and-values.md
+purpose: Onboarding entry point for new team members and AI agents
+audience: New team members, AI agents exploring the knowledge base
+summary: Overview of GrowthX, guided tour of the handbook, first-week checklist
 domain: company
 confidence: canonical
-context_tier: 1
-last_updated: 2026-02-18
+context_tier: 0
+last_updated: 2026-02-22
 </metadata>
 
-Welcome to [YOUR COMPANY]. This is your starting point for understanding who we are, how we work, and where to find everything you need.
+Welcome to GrowthX. This is your guide to how we work, what we build, and how to find everything you need.
+
+GrowthX runs two engines:
+
+- **GrowthX (services)** — B2B content marketing. We help tech companies grow through content. This is the main revenue driver.
+- **CheckThat (software)** — Open AI visibility index for B2B. Our strategic product bet.
+
+Content is the atomic unit. Websites are the destination. We help B2B tech companies grow through both.
 
 ---
 
-## What is [YOUR COMPANY]?
+## Explore the handbook
 
-<!-- Example: YourCo helps mid-market B2B companies grow through content marketing and AI-powered workflows. -->
+**Who we are** — Our mission, vision, and the beliefs that drive everything we do. → [Mission and vision](company/mission-and-vision.md)
 
-[FILL IN: One paragraph describing what your company does, who you serve, and what makes you different.]
+**Our culture** — The values and principles that shape how we work together. → [Culture and values](company/culture-and-values.md)
+
+**Our strategy** — Where we're headed and why — the big picture on our market and model. → [Vision and strategy](company/strategy-overview.md)
+
+**What we build** — The product ecosystem — CheckThat, ContentOS, and the platform vision. → [Product ecosystem](products/ecosystem-overview-v1.md)
+
+**How we deliver** — Our delivery model — how we serve clients and drive outcomes. → [8-week plan](delivery/eight-week-plan-v1.md)
+
+**How we build** — Engineering, Product, and Design — how the EPD team ships. → [EPD overview](epd/dev-process.md)
+
+**How we work together** — Communication norms, meetings, tools, and our async-first culture. → [Operating rhythm](how-we-work/operating-rhythm-v1.md)
+
+**Your career** — Onboarding, policies, time off, and everything people-related. → [Onboarding](people/onboarding.md)
 
 ---
 
-## Your First Week
+## Your first week
 
-### Day 1: Get Set Up
+### Day 1: Get set up
 
-1. **Read this document** — You're already here
-2. **Review company fundamentals:**
-   - [Mission and Vision](company/mission-and-vision.md) — Why we exist
-   - [Culture and Values](company/culture-and-values.md) — How we operate
-3. **Understand how we communicate:**
-   - [Async Communication](how-we-work/async-communication.md) — Our async-first culture
-   - [Meetings](how-we-work/meetings.md) — How we run meetings
+1. Read this page — you're already here
+2. Review the fundamentals:
+   - [Mission and vision](company/mission-and-vision.md) — Why we exist
+   - [Culture and values](company/culture-and-values.md) — How we operate
+3. Understand how we communicate:
+   - [Slack guide](how-we-work/slack-guide-v1.md) — Where conversations happen
+   - [Async communication](how-we-work/async-communication.md) — Our async-first culture
 
-### Days 2-3: Understand the Business
+### Days 2–3: Understand the business
 
-1. **Learn how we make money:**
-   - [Business Model](business/business-model.md) — The business at a glance
-   - [Ideal Customer Profile](business/ideal-customer-profile.md) — Who we serve
-2. **Understand our products:**
-   - [Product Overview](products/product-overview-template.md) — What we build
+1. Learn how we work with clients:
+   - [Product ecosystem](products/ecosystem-overview-v1.md) — Our multi-product approach
+2. Read the strategy:
+   - [Vision and strategy](company/strategy-overview.md) — The big picture
 
-### Days 4-5: Go Deeper on Your Role
-
-[FILL IN: Add role-specific onboarding paths. Example sections below.]
+### Days 4–5: Go deeper on your role
 
 **If you're in Delivery:**
-- [Teams & Operations](delivery/teams-and-operations.md) — How delivery works
-- [Client Onboarding](delivery/client-onboarding-template.md) — How we onboard new clients
+- [Delivery teams and operations](delivery/teams-and-operations.md) — How delivery works
+- [Deliver bootcamp](people/onboarding.md) — Your intensive onboarding
 
-**If you're in Engineering:**
-- [Dev Process](epd/dev-process.md) — How we build software
-- [Tech Stack](epd/tech-stack.md) — Our technical architecture
+**If you're in EPD:**
+- [EPD overview](epd/dev-process.md) — Engineering, Product, Design
+- [How we build](epd/dev-process.md) — Shape Up methodology
 
 **For everyone:**
-- [Onboarding Guide](people/onboarding.md) — Full onboarding checklist
+- [Company-wide onboarding](people/onboarding.md) — Full onboarding checklist
 
 ---
 
-## The Handbook at a Glance
+## Key principles
 
-```
-docs/
-├── company/       ← Who we are (mission, values, strategy)
-├── people/        ← HR, policies, onboarding
-├── how-we-work/   ← Communication, meetings, tools
-├── business/      ← Business model, ICP, customer lifecycle
-├── sales/         ← Pre-sales process
-├── delivery/      ← Post-sales, client operations
-├── epd/           ← Engineering, Product, Design team
-├── products/      ← Product documentation
-└── finance/       ← Board meetings, fiscal plans
-```
+### Async by default
 
----
+We're distributed. Write things down instead of scheduling meetings. If it's not documented, it didn't happen. Our [internal communication guide](how-we-work/internal-communication-guide-v1.md) covers the frameworks for memos, updates, and choosing the right channel.
 
-## Key Principles
+### Document everything
 
-### 1. Async by Default
+The handbook is a living document. If you can't find something, ask — then document the answer.
 
-We're distributed. Write things down instead of scheduling meetings. If it's not documented, it didn't happen.
+### Client obsession
 
-### 2. Document Everything
+In delivery, the client comes first. Engagement managers own the relationship end-to-end. We're accountable for their success.
 
-Our handbook is a living document. If you can't find something, ask — then document the answer.
-
-### 3. Client Obsession
-
-[FILL IN: Your version of client-first philosophy.]
-
-### 4. System Thinking
+### System thinking
 
 Every week serving the same client should get easier. Find failure modes and fix them upstream. Build leverage, not just output.
 
-### 5. Move Fast, Stay Aligned
+### Move fast, stay aligned
 
 We bias toward action. Make decisions with ~70% certainty. Course-correct as you learn.
 
 ---
 
-## Essential Policies
+## Essential policies
 
-- [Code of Conduct](people/code-of-conduct.md) — Ethical standards
-- [Time Off Policy](people/time-off-policy.md) — PTO guidelines
-- [Onboarding](people/onboarding.md) — Getting started
+- [Code of conduct](people/code-of-conduct.md) — Ethical standards
+- [Time off](people/time-off-policy.md) — Unlimited PTO guidelines
+- [Parental leave](people/parental-leave-v1.md) — Leave details
 
 ---
 
-## Tools We Use
-
-[FILL IN: List your primary tools. Example:]
+## Tools we use
 
 - **Slack** — Primary communication
 - **Notion** — Documentation and project management
 - **GitHub** — Code and technical documentation
-- **[YOUR TOOL]** — [FILL IN: Description]
+- **Linear** — Task and project tracking
+- **ContentOS** — Our content operations platform
 
 ---
 
-## Getting Help
+## Getting help
 
-[FILL IN: Where to go for different types of questions. Example:]
-
-- **General questions:** Ask in #general on Slack
-- **HR/People:** Your manager or HR lead
-- **Technical:** #engineering on Slack
-- **Client work:** Your pod or engagement manager
+- **General questions** — Ask in #general on Slack
+- **People/HR** — Your manager or HR lead
+- **Technical** — #engineering on Slack
+- **Client work** — Your pod or engagement manager
 
 ---
 
-## What's NOT in the Handbook
+## Quick links by role
 
-These live outside `/docs` and serve different purposes:
+### Delivery team
 
-- `/context/voice/` — Content style guides
-- `/context/roles/` — AI executive personas
-- `/knowledge/` — Study guides and learning materials
-- `/records/customers/` — Client-specific documentation
-- `/records/transcripts/` — Meeting notes and recordings
-- `/pipeline/` — Research, drafts, and finished deliverables
+| Doc | Why |
+|-----|-----|
+| [Teams and operations](delivery/teams-and-operations.md) | How pods work |
+| [Week 00 prep](delivery/week-00-prep-v1.md) | Pre-kickoff checklist |
+
+### Engineering and product
+
+| Doc | Why |
+|-----|-----|
+| [EPD overview](epd/dev-process.md) | Start here |
+| [Product ecosystem](products/ecosystem-overview-v1.md) | Multi-product strategy |
+| [Dev process](epd/dev-process.md) | How we ship |
+
+### Leadership
+
+| Doc | Why |
+|-----|-----|
+| [Vision and strategy](company/strategy-overview.md) | Company direction |
 
 ---
 
-Welcome to the team.
+Welcome to the team. We're glad you're here.

@@ -7,7 +7,7 @@ Verify that your writing voice guide loads correctly and produces on-brand conte
 ## Prerequisites
 
 Before running this test, you must have filled in:
-- `context/voice/writing-style-context-v1.md` — at minimum, the voice definition and style anchors
+- `context/voice/writing-style-context-v2.md` — at minimum, the voice definition and style anchors
 
 ---
 
@@ -19,7 +19,7 @@ Before running this test, you must have filled in:
 
 ### What Should Load
 
-- `context/voice/writing-style-context-v1.md`
+- `context/voice/writing-style-context-v2.md`
 
 ### What Good Looks Like
 
@@ -46,7 +46,7 @@ Before running this test, you must have filled in:
 
 ### What Should Load
 
-- `context/voice/writing-style-context-v1.md`
+- `context/voice/writing-style-context-v2.md`
 - `docs/company/mission-and-vision.md` (for company context)
 
 ### What Good Looks Like
@@ -67,7 +67,7 @@ Before running this test, you must have filled in:
 
 ### What Should Load
 
-- `context/voice/writing-style-context-v1.md`
+- `context/voice/writing-style-context-v2.md`
 
 ### What Good Looks Like
 

@@ -1,24 +1,22 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
-# Customers
+# Customers (Archived)
 
 <metadata>
-purpose: Client-specific documentation, context files, and engagement history
-audience: AI agents and team members working on client accounts
-summary: Per-client subdirectories containing context docs, transcripts, and engagement records.
+purpose: Archive for past/inactive client engagements
+audience: AI agents and team members referencing historical client work
+summary: Archived client records. Active clients live in clients/ at the workspace root.
 token_estimate: small
-related: records/transcripts/README.md, docs/context-routing.md
+related: clients/README.md, records/transcripts/README.md, docs/context-routing.md
 domain: records
 confidence: canonical
-context_tier: 2
-last_updated: 2026-02-18
+context_tier: 3
+last_updated: 2026-02-22
 </metadata>
 
-Client documentation, context files, and meeting transcripts organized by customer.
+Archive for **past or inactive** client engagements. When a client engagement ends, move their directory here from `clients/`.
+
+**Active clients live in `clients/` at the workspace root.** Do not create new client directories here.
 
 ## Directory Structure
-
-Each client gets its own subdirectory:
 
 ```
 records/customers/
@@ -30,14 +28,13 @@ records/customers/
 
 ## How to Use
 
-1. **Search by client name** to find relevant context
-2. **Start with the client context file** for an overview of the engagement
+1. **Search by client name** to find historical engagement context
+2. **Start with the client context file** for an overview of the past engagement
 3. **Search transcripts/ subdirectory** for specific meeting discussions
-4. **Never bulk-load** a client directory -- read files individually
+4. **Never bulk-load** — read files individually
 
 ## Adding a New Client
 
-1. Create a subdirectory: `records/customers/[client-name]/`
-2. Create a client context file using the template below
-3. Create a `transcripts/` subdirectory for meeting transcripts
-4. Update INDEX.md with the new client entry
+**Don't.** New clients go in `clients/` at the workspace root. Use the template at `clients/client-context-template-v1.md`.
+
+When an engagement ends, move the client directory from `clients/` to `records/customers/`.

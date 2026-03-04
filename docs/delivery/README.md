@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Delivery
 
 Post-sales operations, client work, and service delivery.
@@ -8,7 +6,7 @@ Post-sales operations, client work, and service delivery.
 
 ## Quick Summary
 
-This section covers everything that happens after the sale: team structure, client operations, onboarding, and how we deliver results. This is the heart of [YOUR COMPANY]'s services business.
+This section covers everything that happens after the sale: team structure, client operations, the 8-week plan, content quality, and how we deliver results. This is the heart of GrowthX's services business.
 
 ---
 
@@ -16,22 +14,23 @@ This section covers everything that happens after the sale: team structure, clie
 
 | If you want to understand... | Read this |
 |------------------------------|-----------|
+| The 8-week engagement plan | `eight-week-plan-v1.md` |
+| Pre-kickoff preparation | `week-00-prep-v1.md` |
+| Weekly customer call playbook | `weekly-call-playbook-v1.md` |
 | Team structure and roles | `teams-and-operations.md` |
-| How we onboard new clients | `client-onboarding-template.md` |
+| Content quality standards | `creating-good-content-v1.md` |
+| Human-AI collaboration model | `human-ai-collaboration-v1.md` |
+| Client onboarding | `client-onboarding-template.md` |
 
 ---
 
 ## The Delivery Model
 
-[FILL IN: Diagram or description of your delivery flow]
-
-<!-- Example:
 ```
-Sales → Onboarding Sprint (X weeks) → Ongoing Engagement
-          ↓                              ↓
-     Convert to ongoing              Pods / Teams
+Sales → Week 00 Prep → Strategy Sprint (8 weeks) → Growth Execution (pods)
+         ↓                        ↓                            ↓
+    Ultra-prepared          Prove value                  Ongoing delivery
 ```
--->
 
 ---
 
@@ -44,4 +43,4 @@ Sales → Onboarding Sprint (X weeks) → Ongoing Engagement
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22

@@ -1,8 +1,6 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # People
 
-HR, policies, onboarding, and careers at [YOUR COMPANY].
+HR, policies, onboarding, and careers at GrowthX.
 
 ---
 
@@ -16,9 +14,10 @@ Everything related to your employment: how to get started, company policies, and
 
 | If you want to understand... | Read this |
 |------------------------------|-----------|
-| Your first days at [YOUR COMPANY] | `onboarding.md` |
+| Your first days at GrowthX | `onboarding.md` |
 | Ethical standards and conduct | `code-of-conduct.md` |
 | Time off and PTO | `time-off-policy.md` |
+| Parental leave | `parental-leave-v1.md` |
 
 ---
 
@@ -29,4 +28,4 @@ Everything related to your employment: how to get started, company policies, and
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22

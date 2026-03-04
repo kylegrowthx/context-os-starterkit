@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # People — Index
 
 <metadata>
@@ -12,12 +10,12 @@ related: README.md
 domain: company
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
-| File | Summary | Tier |
-|------|---------|------|
-| `README.md` | Directory overview and navigation | 1 |
-| `onboarding.md` | New hire onboarding checklist and first-week guide | 2 |
-| `code-of-conduct.md` | Ethical standards, expectations, and reporting | 2 |
-| `time-off-policy.md` | PTO guidelines and leave policies | 2 |
+| File | Summary |
+|------|---------|
+| `onboarding.md` | First-day and first-week onboarding checklist for new team members |
+| `time-off-policy.md` | Unlimited, need-based time off policy and guidelines |
+| `parental-leave-v1.md` | Paid parental leave — 16 weeks birthing, 6 weeks non-birthing |
+| `code-of-conduct.md` | Ethical standards, expectations, and reporting |

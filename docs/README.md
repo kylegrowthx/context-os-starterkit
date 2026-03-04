@@ -1,8 +1,6 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
+# GrowthX Handbook
 
-# [YOUR COMPANY] Handbook
-
-The official handbook for [YOUR COMPANY]. Everything you need to know about the company, how we work, and what we're building.
+The official handbook for GrowthX. Everything you need to know about the company, how we work, and what we're building.
 
 ---
 
@@ -22,10 +20,10 @@ docs/
 │   └── mission, values, strategy, culture
 │
 ├── people/             ← HR & careers
-│   └── onboarding, policies, time off
+│   └── onboarding, policies, time off, parental leave
 │
 ├── how-we-work/        ← Communication & tools
-│   └── async, meetings, documentation
+│   └── operating rhythm, async, meetings, Slack, systems thinking
 │
 ├── business/           ← How we make money
 │   └── model, ICP, customer lifecycle
@@ -33,13 +31,13 @@ docs/
 ├── sales/              ← Pre-sales process
 │
 ├── delivery/           ← Post-sales & client ops
-│   └── teams, operations, onboarding
+│   └── 8-week plan, teams, content quality, human-AI collaboration
 │
 ├── epd/                ← Engineering, Product, Design
-│   └── dev process, tech stack
+│   └── dev process, tech stack, AI-driven development, client ops
 │
 ├── products/           ← What we build
-│   └── product overviews, roadmaps
+│   └── ecosystem, CheckThat, ContentOS, Output
 │
 └── finance/            ← Board, fiscal, metrics
 ```
@@ -74,4 +72,4 @@ These directories serve other purposes and are not part of the official handbook
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22

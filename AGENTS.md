@@ -1,16 +1,15 @@
 # Context OS — Agent Configuration
 
-<!-- TEMPLATE: Replace [YOUR COMPANY] and [BRACKETED] placeholders. Delete this comment when done. -->
-
 ## Project Overview
 
-This is a structured knowledge base for [YOUR COMPANY]. It is not a codebase — there is no app, no build step, no dependencies. The product is context.
+This is a structured knowledge base for GrowthX. It is not a codebase — there is no app, no build step, no dependencies. The product is context.
 
 AI agents use this repository to understand the company, write in its voice, make decisions using executive personas, and produce on-brand work.
 
 ## Project Structure
 
 ```
+├── clients/           Active client accounts (context, deliverables, transcripts, resources)
 ├── docs/              Company handbook (company, business, delivery, products, finance)
 ├── context/           Prescriptive AI context (voice, roles, personal)
 ├── knowledge/         Study guides and reference materials
@@ -30,6 +29,7 @@ AI agents use this repository to understand the company, write in its voice, mak
 - **Navigation**: Every directory has `README.md` (overview) and `INDEX.md` (file listing with summaries)
 - **Metadata**: Every content file uses `<metadata>` tags with: purpose, audience, summary, domain, confidence, context_tier, last_updated
 - **Pipeline flow**: research/ → scratchpad/ → outputs/ (forward only, never backward)
+- **No em dashes**: Use periods, commas, or colons instead. Em dashes are an AI writing tell and break natural reading flow.
 - **Records**: Search only — never bulk-load transcripts, customers, or downloads
 - **Research tasks follow the pipeline**: When asked to research any topic: (1) ask if the user wants raw research only or a full study guide, clarify scope and audience; (2) present a research plan with questions and output locations, get approval before starting; (3) save raw research to `pipeline/research/`, then if doing full study guide continue to `pipeline/scratchpad/` then `knowledge/`. Never skip steps. Load `agent-docs/research-agent.md` for full instructions.
 
@@ -46,8 +46,10 @@ AI agents use this repository to understand the company, write in its voice, mak
 | File | Purpose |
 |------|---------|
 | `CLAUDE.md` | AI agent entry point — directory map and universal rules |
-| `context/voice/writing-style-context-v1.md` | Definitive writing voice and style guide |
-| `context/roles/` | AI executive personas for decision support |
+| `clients/` | Active client accounts — start with each client's context file |
+| `agent-docs/client-work-agent.md` | Agent config for client deliverables and materials |
+| `context/voice/writing-style-context-v2.md` | Definitive writing voice and style guide |
+| `context/roles/` | 15 AI executive personas for decision support |
 | `context/personal/founder-user-manual-template-v1.md` | How the founder works and communicates |
 | `docs/start-here.md` | Onboarding entry point for new team members |
 | `docs/context-routing.md` | Detailed routing rules for context loading |

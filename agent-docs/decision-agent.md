@@ -1,7 +1,5 @@
 # Decision Agent Configuration
 
-<!-- TEMPLATE: Update file paths and add your company-specific decision frameworks. Delete this comment when done. -->
-
 <metadata>
 purpose: Context loading instructions for strategic decisions and analysis
 audience: AI agents
@@ -11,7 +9,7 @@ depends_on: context/roles/README.md
 domain: company
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
 ## When to Load This
@@ -33,22 +31,28 @@ Load this agent config when the task involves:
 
 | Decision Domain | Load Role | Also Load |
 |----------------|-----------|-----------|
-| Financial decisions | The CFO role | `docs/finance/` relevant docs |
-| Revenue / sales | The CRO role | `docs/business/business-model.md` |
-| Marketing / brand | The CMO role | `context/voice/writing-style-context-v1.md` |
-| Operations / scaling | The COO role | `docs/delivery/teams-and-operations.md` |
-| Product / technical | The CTO role | `docs/products/` relevant docs |
-| People / hiring | The VP People role | `docs/people/` relevant docs |
+| Strategic / executive decisions | `context/roles/ceo-v1.md` | `docs/company/strategy-overview.md` |
+| Financial decisions | `context/roles/finance-v1.md` | `docs/finance/` relevant docs |
+| Revenue / sales | `context/roles/sales-v1.md` | `docs/business/business-model.md` |
+| Marketing / brand | `context/roles/marketing-v1.md` | `context/voice/writing-style-context-v2.md` |
+| Operations / scaling | `context/roles/ops-v1.md` | `docs/delivery/teams-and-operations.md` |
+| Product / technical | `context/roles/product-engineering-v1.md` | `docs/products/` relevant docs |
+| People / hiring | `context/roles/hr-people-v1.md` | `docs/people/` relevant docs |
+| Customer success | `context/roles/customer-success-v1.md` | `clients/` relevant context |
+| Design / brand | `context/roles/design-brand-v1.md` | `context/voice/writing-style-context-v2.md` |
+| AI / ML strategy | `context/roles/ai-ml-v1.md` | `docs/epd/ai-driven-development-v1.md` |
+| Coaching / leadership | `context/roles/coach-v1.md` | `context/personal/founder-user-manual-template-v1.md` |
 | Cross-functional | Stack 2-3 roles | See "Role Stacking" below |
 
 ## Role Stacking
 
 For complex decisions, load multiple roles and synthesize their perspectives:
 
-- **Pricing decisions**: CFO + CRO + CMO
-- **Hiring decisions**: VP People + the functional role being hired for
-- **Product launch**: CTO + CMO + CRO
-- **Strategic pivots**: CFO + COO + the advisor role
+- **Pricing decisions**: `finance-v1.md` + `sales-v1.md` + `marketing-v1.md`
+- **Hiring decisions**: `hr-people-v1.md` + the functional role being hired for
+- **Product launch**: `product-engineering-v1.md` + `marketing-v1.md` + `sales-v1.md`
+- **Strategic pivots**: `ceo-v1.md` + `finance-v1.md` + `ops-v1.md`
+- **Client engagement**: `engagement-manager-v1.md` + `customer-success-v1.md`
 
 When roles conflict, explain the tension explicitly. Don't smooth over disagreements.
 

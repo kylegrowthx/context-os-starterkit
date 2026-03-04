@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Delivery — Index
 
 <metadata>
@@ -12,11 +10,15 @@ related: README.md
 domain: delivery
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
-| File | Summary | Tier |
-|------|---------|------|
-| `README.md` | Directory overview and delivery model | 1 |
-| `teams-and-operations.md` | Team structure, roles, pods, capacity planning, and system mindset | 2 |
-| `client-onboarding-template.md` | Template for onboarding new clients into delivery | 2 |
+| File | Summary |
+|------|---------|
+| `eight-week-plan-v1.md` | Standard 8-week client engagement plan from kickoff to scale-up |
+| `week-00-prep-v1.md` | Pre-kickoff preparation — sales handoff, research, strategy hypothesis |
+| `weekly-call-playbook-v1.md` | Playbook for prep, running, and following up on weekly customer calls |
+| `teams-and-operations.md` | Three-team model, roles, pods, capacity planning, system mindset |
+| `creating-good-content-v1.md` | Quality standards for client content — good vs. AI slop, creation process |
+| `human-ai-collaboration-v1.md` | Three-layer architecture combining human expertise with AI workflows |
+| `client-onboarding-template.md` | Template for onboarding new clients from signed contract to first deliverable |

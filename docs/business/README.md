@@ -1,14 +1,20 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Business
 
-How [YOUR COMPANY] works as a business.
+How GrowthX works as a business.
 
 ---
 
 ## Quick Summary
 
 This section explains the business fundamentals: our model, economics, customers, and how they move through the lifecycle. Read this to understand how we make money and who we serve.
+
+---
+
+## The Business at a Glance
+
+- We sell 8-week Strategy Sprints that convert to ongoing Growth Execution contracts. Typical retainers: $15K-$25K/mo.
+- Our customers are B2B tech companies (SaaS, AI/ML, DevTools) with content as a growth lever.
+- We combine AI workflows with human expertise to deliver measurable outcomes — service-as-software, not tools licensed.
 
 ---
 
@@ -22,18 +28,6 @@ This section explains the business fundamentals: our model, economics, customers
 
 ---
 
-## The Business at a Glance
-
-[FILL IN: 2-3 bullet points summarizing your business. What do you sell? Who do you sell to? What's your price point?]
-
-<!-- Example:
-- We sell 8-week strategy sprints that convert to 12-month contracts. Target ACV: $200k+.
-- Our customers are B2B tech companies with $10M+ raised.
-- We combine AI workflows with human expertise to deliver measurable outcomes.
--->
-
----
-
 ## Related Documentation
 
 - **Company:** `../company/` — Mission, vision, strategy
@@ -43,4 +37,4 @@ This section explains the business fundamentals: our model, economics, customers
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22

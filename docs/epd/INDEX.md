@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # EPD — Index
 
 <metadata>
@@ -12,11 +10,15 @@ related: README.md
 domain: product
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
-| File | Summary | Tier |
-|------|---------|------|
-| `README.md` | Directory overview and EPD organization | 1 |
-| `dev-process.md` | How we build and ship software — methodology, cycles, and workflow | 2 |
-| `tech-stack.md` | Technical architecture, tools, and infrastructure | 2 |
+| File | Summary |
+|------|---------|
+| `dev-process.md` | EPD structure, three lanes, Shape Up process with 4-week build cycles |
+| `tech-stack.md` | Technical architecture — Flow, Flow Studio, Atlas, Website repos |
+| `what-great-looks-like-v1.md` | EPD performance bar and behavioral expectations |
+| `ai-driven-development-v1.md` | AI-native development philosophy and agentic pipeline build process |
+| `client-ops-v1.md` | Forward-deployed engineering team that embeds with delivery pods |
+| `design-v1.md` | Design principles, roles, operations, and tool stack |
+| `one-on-ones-v1.md` | Framework for preparing and getting the most out of 1:1s with leadership |

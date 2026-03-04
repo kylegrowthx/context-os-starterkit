@@ -1,152 +1,154 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
-# Delivery Teams and Operations
-
 <metadata>
-purpose: Describes team structure, roles, pods, capacity planning, and the system mindset
-audience: All delivery team members, operations, leadership
-summary: How [YOUR COMPANY] structures delivery teams, defines roles, plans capacity, and applies systems thinking.
-token_estimate: large
-depends_on: []
-related: ../business/customer-lifecycle.md, ../business/business-model.md
+purpose: Define team structure, roles, pods, capacity planning, and the system mindset behind GrowthX delivery
+audience: All team members, leadership
+summary: Overview of the three-team delivery model (Sales, Strategy Sprint, Delivery), core roles, pod structure, capacity planning, accountability model, and the system mindset.
 domain: delivery
-confidence: current
-context_tier: 2
-last_updated: 2026-02-18
+confidence: canonical
+context_tier: 1
+last_updated: 2026-02-22
 </metadata>
 
----
+# Teams and Operations
 
 ## TL;DR
 
-[FILL IN: 4-5 bullet points summarizing how delivery works at your company.]
-
-<!-- Example:
-- Three teams: Sales, Onboarding Sprint, Delivery (pods).
-- Account managers own the client relationship end-to-end.
-- System mindset: every week serving the same client should get easier.
-- Scaling requires building capacity ahead of demand.
--->
-
----
+- Three teams: Sales, Strategy Sprint, Delivery (pods).
+- EMs own the client relationship end-to-end. They're accountable for conversion, renewals, and expansion.
+- Editors should be producing content weeks ahead, not scrambling week-of.
+- System mindset: every week serving the same client should get easier. Find failure modes and fix them upstream.
+- Scaling requires building capacity ahead of demand. Every input has a ramp time.
 
 ## Overview
 
-[FILL IN: What makes your delivery model unique? What does it combine?]
+Our delivery model is unique. We have both the tech (our platform) and forward-deployed people who do the work alongside our customers.
 
----
+On the supply side, we need the right people, the right process, enough capacity — trained, ramped up, and delivering beyond expectations.
 
-## The Teams
-
-[FILL IN: Describe your team structure]
+## The teams
 
 | Team | Focus | Phase |
 |------|-------|-------|
-| [FILL IN] | [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] | [FILL IN] |
+| **Sales** | Qualify and close new business | Pre-Sprint |
+| **Strategy Sprint** | Run 8-week sprints, convert to Growth Execution | Sprint |
+| **Delivery** | Run Growth Execution in pods | Ongoing |
 
----
+Different functions exist within each. Some roles span multiple phases. Some are dedicated to one.
 
-## Core Roles
+## Core roles
 
-### [FILL IN: Primary Client-Facing Role]
-
-<!-- Example: Engagement Managers, Account Managers, Customer Success Managers -->
-
-[FILL IN: What does this role do? What are they responsible for?]
+**Engagement Managers** — Ultimately responsible for the end-to-end client relationship. Part customer success, part strategist, part growth marketer, part sales, part editor. They're the drivers — customer-first and customer-last for everything related to their engagement.
 
 **Accountabilities:**
+- Strategy Sprint → successful conversion into Growth Execution
+- Growth Execution → renewals and expansion
 
-| Phase | Responsibility |
-|-------|---------------|
-| [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] |
+**What good looks like:** Customers view them as the best hire they've ever made. Proactive, not reactive. Building relationships across the customer's organization. Driving outcomes, not just managing output.
 
-**What good looks like:**
-- [FILL IN: Behavior 1]
-- [FILL IN: Behavior 2]
-- [FILL IN: Behavior 3]
+**Production and editorial** — Responsible for outputs and quality — the work that drives results. Less customer-facing unless they're in a Strategy Sprint, handling an escalation, or doing deep dives.
 
----
+**Pacing:** Editors should be producing content **weeks ahead**. Never producing content the week it's due. If you're scrambling week-of, something is broken.
 
-### [FILL IN: Primary Production/Execution Role]
+**Directors** — Senior strategists and marketing experts. Help with complex strategy, escalation support, quality oversight, training and mentorship. They provide leverage to EMs and production teams — the senior bench that gets pulled in for hard problems.
 
-<!-- Example: Editors, Analysts, Specialists -->
+**Forward-deployed engineers** — AI engineers who build and customize AI workflows for specific client needs. Handle workspace setup, AI workflow customization, technical implementation, and pipeline optimization. A shared resource deployed where needed, not embedded in every account.
 
-[FILL IN: What does this role do?]
+**SEO specialists** — Technical SEO experts. Handle audits, technical SEO analysis, deep dives on search performance, and recommendations. Shared resource deployed as needed.
 
-**Pacing:** [FILL IN: How far ahead should work be completed?]
+**Design and developers** — Web development and design support. Handle technical implementation, design work, website changes, and special client initiatives. Shared resource for accounts that need this capability.
 
----
+**Chief Content Officer** oversees quality across all teams: quality standards, editorial team oversight, training programs, and escalation point for quality issues.
 
-### [FILL IN: Additional Roles as Needed]
+## Forward-deployed teams (shared model)
 
-[FILL IN: Describe other roles in your delivery organization]
+These specialists are deployed where needed — not dedicated to one client. Shared across engagements.
 
----
+| Role | Function | Deployment |
+|------|----------|------------|
+| Directors | Strategy, escalations, quality | As needed |
+| Forward-deployed engineers | AI workflows, technical setup | As needed |
+| SEO specialists | Audits, technical SEO | As needed |
+| Design/Dev | Web work, implementation | As needed |
 
-## Team Structure
+## Pods (Growth Execution)
 
-[FILL IN: How are teams/pods organized?]
+Once a customer converts from Strategy Sprint to Growth Execution, they're assigned to a pod.
+
+### Pod structure
 
 ```
-[FILL IN: Pod/team structure diagram]
-
-Example:
 Pod
-├── Account Manager (lead)
-├── Specialist(s) (execution)
-└── Shared resources (as needed)
+├── Engagement Manager (lead)
+├── Editor(s) (production)
+└── Shared teams (as needed)
+    ├── Directors
+    ├── Forward-deployed engineers
+    ├── SEO
+    └── Design/Dev
 ```
 
----
+**EMs manage a book of business** that varies in size and complexity. They hold the relationships and are responsible for escalations and pulling in help from shared teams when needed.
 
-## The System Mindset
+### Quality escalation path
 
-This is critical.
+1. EM flags the issue
+2. Chief Content Officer oversees quality across all teams
+3. Editorial directors help address specific issues
+4. Editors are trained on platform operation and content production
 
-**We are not a factory where humans do the same manual work every week. We are building a system.**
+## The system mindset
 
-### What This Means in Practice
+> **Warning:** This is critical. Read it twice.
+>
+> **We are not a content factory where humans do the same manual work every week. We are building a system.**
 
-- Every task should feed back into improving the system
-- Every failure mode should get fixed upstream
+### What this means in practice
+
+- Every edit you make should feed back into the system
+- Every failure mode you find should get fixed upstream
 - Every week should be easier than the last for the same client
-- If you're doing the same fix repeatedly, escalate it
+- If you're doing the same fix repeatedly, escalate it. That's a pipeline problem, not a content problem.
 
-### When We Get This Right
+### When we get this right
 
 - Capacity increases without adding headcount
 - Quality stays consistent or improves
 - Clients get more value
 - Margins improve
 
-### When We Get This Wrong
+### When we get this wrong
 
 - Every client feels like starting from scratch
-- Team burns out
+- Editors burn out
 - Quality is inconsistent
 - We can't scale
 
----
+## How capacity works
 
-## How Capacity Works
+To do more kickoffs, we need to scale every input. Each has a ratio and ramp time.
 
-[FILL IN: What inputs drive your capacity? What are the ratios and ramp times?]
-
-| Input | Ratio | Ramp Time |
+| Input | Ratio | Ramp time |
 |-------|-------|-----------|
-| [FILL IN] | [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] | [FILL IN] |
+| Sprint team capacity | 4 FTEs per 1 kickoff/week | 2 months |
+| Forward-deployed experts | 2 FDEs per 2 kickoffs/week | Shared |
+| Pod capacity | 1 pod per 6 monthly conversions | 2 months |
+| Sales pipeline | ~33% win rate, 6-week cycle | — |
 
----
+**Every input has a constraint. Every constraint has a ramp time. That's why scaling is hard.**
 
-## The Accountability Model
+Hiring takes time. Ramping takes time. Everything compounds on everything else.
 
-| Role | Primary Accountability |
+## The accountability model
+
+| Role | Primary accountability |
 |------|------------------------|
-| [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] |
+| Engagement Manager | Client relationship, renewals, expansion, conversion |
+| Editors / Production | Output quality, pipeline improvement, content delivery |
+| Directors | Strategy quality, escalation support, training |
+| Forward-deployed engineers | AI workflow customization, technical implementation |
+| Chief Content Officer | Overall quality standards, editorial team oversight |
+
+## Summary
+
+Our delivery model combines **platform** (AI workflows, ContentOS), **forward-deployed people** (EMs, editors, specialists), **shared resources** (directors, FDEs, SEO, design), and **system thinking** (every week gets easier).
+
+The goal is leverage. Not headcount. Every week serving the same customer should get better, faster, easier. When we do this right, we can scale without linear hiring. When we don't, we're just another agency.

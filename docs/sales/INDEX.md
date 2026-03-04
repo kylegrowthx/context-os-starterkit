@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Sales — Index
 
 <metadata>
@@ -12,10 +10,9 @@ related: README.md
 domain: business
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
-| File | Summary | Tier |
-|------|---------|------|
-| `README.md` | Directory overview and navigation | 1 |
-| `sales-process.md` | End-to-end sales process — stages, activities, and handoffs | 2 |
+| File | Summary |
+|------|---------|
+| `sales-process.md` | End-to-end sales process — stages, qualification, handoffs from lead to close |

@@ -3,14 +3,12 @@
 <metadata>
 purpose: Writing craft study guide from Orwell, Hemingway, Zinsser and 15+ masters
 audience: Writers, content creators
-summary: Synthesizes the most influential voices on writing craft into actionable principles — from Orwell to Perell.
-token_estimate: large
-depends_on: []
-related: ../../context/voice/writing-style-context-v2.md
+related: ../context/voice/writing-style-context-v2.md
 domain: writing
 confidence: research
+sensitivity: public
 context_tier: 3
-last_updated: 2026-02-18
+last_updated: 2026-02-09
 </metadata>
 
 Good writing is clear thinking made visible. This guide synthesizes the most influential voices on writing craft into actionable principles you can use today.

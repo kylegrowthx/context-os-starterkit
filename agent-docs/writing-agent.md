@@ -1,17 +1,15 @@
 # Writing Agent Configuration
 
-<!-- TEMPLATE: Update file paths and add your company-specific writing conventions. Delete this comment when done. -->
-
 <metadata>
 purpose: Context loading instructions for writing and editing tasks
 audience: AI agents
 summary: Configures an AI agent for writing tasks — loads voice guide, style rules, and output conventions
 token_estimate: small
-depends_on: context/voice/writing-style-context-v1.md
+depends_on: context/voice/writing-style-context-v2.md
 domain: writing
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
 ## When to Load This
@@ -25,17 +23,21 @@ Load this agent config when the task involves:
 
 ## Required Context (Always Load)
 
-1. `context/voice/writing-style-context-v1.md` — The definitive voice and style guide
+1. `context/voice/writing-style-context-v2.md` — The definitive GrowthX voice and style guide
 2. `docs/context-routing.md` — For navigating to additional context
 
 ## Conditional Context (Load When Relevant)
 
 | Condition | Load |
 |-----------|------|
-| Social media content | `context/voice/social-media-style-guide-template-v1.md` |
+| Social media content | `context/voice/social-media-style-guide-template-v1.md` + `context/roles/social-media-v1.md` |
+| Marketing / brand content | `context/roles/marketing-v1.md` |
+| SEO / AEO content | `context/roles/aeo-seo-content-v1.md` + `knowledge/aeo/README.md` |
 | Client-facing content | `docs/business/ideal-customer-profile.md` |
-| Product content | `docs/products/product-overview-template.md` |
+| Product content | `docs/products/ecosystem-overview-v1.md` or specific product doc (e.g., `docs/products/contentos-overview-v1.md`) |
 | Thought leadership | `sources/people-index.md` (for references and citations) |
+| Writing craft reference | `knowledge/content/writing-craft-study-guide-v1.md` |
+| LinkedIn content | `knowledge/content/linkedin-engagement-study-guide-v1.md` + `knowledge/content/linkedin-hooks-study-guide-v1.md` |
 
 ## Output Conventions
 
@@ -52,3 +54,4 @@ Load this agent config when the task involves:
 4. Ground claims in specifics — numbers, examples, stories
 5. Never generate content that contradicts existing docs
 6. When unsure about facts, flag it rather than inventing
+7. Never use em dashes in any output. Replace with periods, commas, or colons.

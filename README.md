@@ -67,9 +67,9 @@ The result is AI that has the right context at the right time, without being ove
 
 1. **Fork or clone this repo**
 2. **Open `CLAUDE.md`** — replace `[YOUR COMPANY]` with your company name and fill in the placeholders
-3. **Define your voice** — fill in `context/voice/writing-style-context-v1.md` with how you write and speak
+3. **Define your voice** — see `context/voice/writing-style-context-v2.md` for the GrowthX voice guide
 4. **Add your basics** — fill in `docs/company/mission-and-vision.md` with your mission and vision
-5. **Create your first role** — copy `context/roles/executive-role-template-v1.md` and customize it for your most-needed AI persona
+5. **Explore roles** — browse 15 pre-built AI personas in `context/roles/` (CEO, Marketing, Sales, Finance, etc.)
 6. **Test it** — open Claude Code, Claude Cowork, or Cursor pointed at your repo and ask it a question about your company
 
 For the full setup guide, see [SETUP.md](SETUP.md).

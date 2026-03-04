@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Context Routing Guide
 
 <metadata>
@@ -12,7 +10,7 @@ related: ../CLAUDE.md, ../context/README.md, ../pipeline/README.md
 domain: company
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
 CLAUDE.md tells agents what exists and when to load it. This doc explains HOW to load context efficiently and what to watch out for.
@@ -42,10 +40,13 @@ Each task type has a recommended loading sequence. Load files in order — stop 
 
 ```
 1. context/voice/writing-style-context-v2.md     (always — the definitive guide)
-2. [FILL IN: Additional style guides for specific channels]
-3. docs/business/business-model.md                (if about [YOUR COMPANY])
-4. docs/products/product-overview-template.md     (if about a specific product)
-5. knowledge/domain/                              (if about your domain expertise)
+2. context/voice/social-media-style-guide-template-v1.md  (if social media content)
+3. context/roles/marketing-v1.md                 (if marketing content)
+4. context/roles/aeo-seo-content-v1.md           (if SEO/AEO content)
+5. docs/business/business-model.md               (if about GrowthX)
+6. docs/products/ecosystem-overview-v1.md        (if about a specific product)
+7. knowledge/content/                            (if about writing craft or LinkedIn)
+8. knowledge/aeo/                                (if about AEO/answer engines)
 ```
 
 ### Answering Company Questions
@@ -81,10 +82,11 @@ Each task type has a recommended loading sequence. Load files in order — stop 
 ### Client Work
 
 ```
-1. records/customers/[client]/[client]-client-context-v1.md  (client context)
-2. records/transcripts/                           (search for relevant meetings)
-3. docs/delivery/                                 (how we deliver)
-4. context/voice/writing-style-context-v2.md      (if writing for client)
+1. clients/[client]/[client]-client-context-v1.md (client context — start here, use the file map)
+2. clients/[client]/transcripts/                  (search for relevant meetings)
+3. clients/[client]/context/                      (brand voice, personas, reference docs)
+4. context/voice/writing-style-context-v2.md      (your company voice, if writing as yourself)
+5. docs/delivery/                                 (how we deliver)
 ```
 
 ### Creating Deliverables
@@ -151,7 +153,7 @@ The `records/` directory can contain hundreds of files. Never bulk-load them.
 | Directory | How to Access |
 |-----------|--------------|
 | `records/transcripts/` | Search by date (YYYY-MM-DD prefix) or grep for keywords |
-| `records/customers/` | Navigate to `records/customers/[client]/` for client context |
+| `records/customers/` | Archived/past clients only. Active clients live in `clients/` |
 | `records/downloads/` | Grep for topics. Never read all at once. |
 
 **Search strategy:**
@@ -171,7 +173,7 @@ The `records/` directory can contain hundreds of files. Never bulk-load them.
 3. Check the README.md in the most relevant directory
 4. Search/grep for keywords across the repo
 
-### "I need to understand [YOUR COMPANY]"
+### "I need to understand GrowthX"
 
 Start at `docs/start-here.md`. It links to everything else.
 

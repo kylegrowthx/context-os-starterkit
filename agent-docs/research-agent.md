@@ -1,7 +1,5 @@
 # Research Agent Configuration
 
-<!-- TEMPLATE: Update file paths and add your company-specific research conventions. Delete this comment when done. -->
-
 <metadata>
 purpose: Context loading instructions for research and learning tasks
 audience: AI agents
@@ -11,7 +9,7 @@ depends_on: []
 domain: research
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
 ## When to Load This
@@ -28,15 +26,19 @@ Load this agent config when the task involves:
 1. `knowledge/README.md` — Understand knowledge directory structure
 2. `sources/people-index.md` — Trusted people to reference
 3. `sources/sources-index.md` — Trusted publications and resources
+4. `context/roles/research-analyst-v1.md` — Research analyst persona for structured analysis
 
 ## Conditional Context (Load When Relevant)
 
 | Condition | Load |
 |-----------|------|
 | Domain-specific research | `knowledge/domain/README.md` |
+| AEO / answer engine research | `knowledge/aeo/README.md` |
 | Writing-related research | `knowledge/content/README.md` |
 | Company operations research | `knowledge/building/README.md` |
 | Product/strategy research | `knowledge/product/README.md` |
+| AI product leadership | `knowledge/product/ai-product-leadership-study-guide-v1.md` |
+| Context engineering | `knowledge/product/context-engineering-study-guide-v1.md` |
 
 ## Pipeline Flow
 

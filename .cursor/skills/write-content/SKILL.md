@@ -12,14 +12,14 @@ Write like a smart friend explaining something important. Direct, clear, real.
 | | What | Example |
 |---|---|---|
 | **Input** | Topic, draft, or content brief from user | "Write a LinkedIn post about [topic]" |
-| **Context** | `context/voice/writing-style-context-v1.md` (always load) | -- |
+| **Context** | `context/voice/writing-style-context-v2.md` (always load) | -- |
 | **Context** | `context/voice/social-media-style-guide-template-v1.md` (if social media) | -- |
 | **Context** | Relevant `docs/` files for subject matter | Product docs, company info |
 | **Output** | Finished content or review with flags | Delivered inline or saved to `pipeline/outputs/` |
 
 ## Quick Start
 
-1. Read the style guide: [writing-style-context-v1.md](../../context/voice/writing-style-context-v1.md)
+1. Read the style guide: [writing-style-context-v2.md](../../context/voice/writing-style-context-v2.md)
 2. Apply these essentials:
    - Lead with the point (main idea in first two sentences)
    - Maximum clarity, minimum words
@@ -64,7 +64,7 @@ Before finishing, verify:
 - Corporate jargon (leverage, synergize, circle back)
 - Filler phrases (it's important to note, in order to)
 - Passive voice when active works
-- Em dashes — use periods instead
+- Em dashes: never use them. Use periods, commas, or colons instead.
 
 ## Example Transformation
 
@@ -77,5 +77,5 @@ Before finishing, verify:
 ## Deep Reference
 
 For comprehensive guidance:
-- **Style rules**: [writing-style-context-v1.md](../../context/voice/writing-style-context-v1.md) — Voice, principles, examples
+- **Style rules**: [writing-style-context-v2.md](../../context/voice/writing-style-context-v2.md) — Voice, principles, examples
 - **Craft foundations**: [writing-craft-study-guide-v1.md](../../knowledge/content/writing-craft-study-guide-v1.md) — Writing masters and techniques

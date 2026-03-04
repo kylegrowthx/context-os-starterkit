@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Sales
 
 Pre-sales process, pipeline, and go-to-market.
@@ -8,7 +6,7 @@ Pre-sales process, pipeline, and go-to-market.
 
 ## Quick Summary
 
-This section contains sales documentation: the sales process, qualification criteria, and go-to-market materials.
+This section contains sales documentation: the sales process, qualification criteria, and go-to-market materials. Our motion is primarily inbound and referral-driven. The 8-week Strategy Sprint serves as both entry point and product demo for long-term Growth Execution contracts.
 
 ---
 
@@ -28,4 +26,4 @@ This section contains sales documentation: the sales process, qualification crit
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22

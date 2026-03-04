@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Context
 
 <metadata>
@@ -37,7 +35,7 @@ If a file tells the agent **WHAT TO DO**, it's context. It belongs here. Context
 
 | Directory | Purpose | When to Load |
 |-----------|---------|-------------|
-| `voice/` | How we write and communicate — [YOUR COMPANY] voice, social media style | Any content generation or writing task |
+| `voice/` | How we write and communicate — GrowthX voice, social media style | Any content generation or writing task |
 | `roles/` | How we think — AI executive and advisory personas | Decision support, analysis, reasoning tasks |
 | `personal/` | Who the founder is — operating manual, preferences, patterns | Working directly with or for the founder |
 
@@ -50,10 +48,10 @@ If a file tells the agent **WHAT TO DO**, it's context. It belongs here. Context
 ## What Each Directory Contains
 
 ### voice/
-The definitive writing rules for [YOUR COMPANY]. The writing style guide is the single most important context file for any content generation task. Includes base voice definition, core principles, structure patterns, domain adaptations, and a social media style guide.
+The definitive writing rules for GrowthX. The writing style guide is the single most important context file for any content generation task. Includes base voice definition, core principles, structure patterns, domain adaptations, and a social media style guide.
 
 ### roles/
-Templates for AI personas that think like your executive team and inner circle. Two types: **executive roles** (CFO, CMO, COO — serve the function) and **advisory roles** (coach, consigliere — serve the founder). Roles can be stacked for multi-perspective analysis.
+15 AI personas that think like your executive team. Roles include CEO, Marketing, Sales, Finance, Ops, Product Engineering, Design, HR, Customer Success, Social Media, Research Analyst, AI/ML, AEO/SEO Content, Engagement Manager, and Coach. Roles can be stacked for multi-perspective analysis.
 
 ### personal/
 The founder's operating manual. Communication preferences, decision-making philosophy, feedback style, stress patterns, values, and personal context. This is what makes AI interactions feel calibrated to the specific human they're working with.

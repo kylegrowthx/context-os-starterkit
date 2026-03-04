@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Finance
 
 Board meetings, fiscal plans, and financial metrics.
@@ -30,4 +28,4 @@ This section contains financial documentation: fiscal plan templates and board m
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22

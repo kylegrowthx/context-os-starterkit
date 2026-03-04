@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Company — Index
 
 <metadata>
@@ -12,12 +10,11 @@ related: README.md
 domain: company
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
-| File | Summary | Tier |
-|------|---------|------|
-| `README.md` | Directory overview and navigation | 1 |
-| `mission-and-vision.md` | Company mission, vision, and core beliefs | 1 |
-| `culture-and-values.md` | Guiding values and cultural principles | 1 |
-| `strategy-overview.md` | Strategic direction and growth approach | 1 |
+| File | Summary |
+|------|---------|
+| `mission-and-vision.md` | GrowthX beliefs, mission, and vision — content as atomic unit, AI amplifies great people |
+| `culture-and-values.md` | Seven core values and cultural principles that define how we work together |
+| `strategy-overview.md` | Market thesis, four moats, service-as-software model, and strategic direction |

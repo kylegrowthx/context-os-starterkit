@@ -1,84 +1,32 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
-# Tech Stack
-
 <metadata>
-purpose: Documents [YOUR COMPANY]'s technical architecture and tools
-audience: Engineering team, new hires, technical leadership
-summary: Overview of the technical stack, infrastructure, key tools, and architectural decisions.
-token_estimate: medium
-depends_on: []
-related: dev-process.md, ../products/product-overview-template.md
-domain: product
-confidence: current
-context_tier: 2
-last_updated: 2026-02-18
+purpose: Documents the technical architecture, repository structure, and tech stack across GrowthX products
+audience: EPD engineers, new hires
+summary: Overview of GrowthX's GitHub repositories and tech stack — Flow (AI workflow framework), Flow Studio (GUI), Atlas (ContentOS web app), and Website.
+domain: engineering
+confidence: canonical
+context_tier: 1
+last_updated: 2026-02-22
 </metadata>
 
----
+# Tech Stack & GitHub Repos
 
-## Overview
-
-[FILL IN: One paragraph summarizing your technical architecture and philosophy.]
-
----
-
-## Core Stack
-
-| Layer | Technology | Notes |
-|-------|-----------|-------|
-| **Frontend** | [FILL IN] | [FILL IN] |
-| **Backend** | [FILL IN] | [FILL IN] |
-| **Database** | [FILL IN] | [FILL IN] |
-| **Infrastructure** | [FILL IN] | [FILL IN] |
-| **CI/CD** | [FILL IN] | [FILL IN] |
-| **Monitoring** | [FILL IN] | [FILL IN] |
-
----
-
-## Key Services & APIs
-
-| Service | Purpose | Owner |
-|---------|---------|-------|
-| [FILL IN] | [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] | [FILL IN] |
-
----
+Technical architecture and repository structure across GrowthX products.
 
 ## Repositories
 
-[FILL IN: How are your repositories organized? Monorepo or multi-repo?]
+**Flow** — AI workflow framework and runtime. Powers all AI/LLM and regular API needs. Contains the API, workflow runtime, all workflow code, and the framework for creating new workflows (generators, meta-prompts, etc). TypeScript + Next.js on top of Temporal using our proprietary workflow style. The README is always up to date to help both Cursor and new team members.
 
-| Repository | What It Contains |
-|-----------|------------------|
-| [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] |
+**Flow Studio** — GUI for Flow. Visual interface for managing and monitoring Flow workflows.
 
----
+**Atlas** — Web app platform (ContentOS). The web platform built with Rails + React (Inertia.js). Triggers workflows in Flow, hosts the database with client data, and replaces legacy tools. Still in early development but the foundation is solid.
 
-## AI & ML Infrastructure
+**Website** — Public-facing website. Next.js frontend consuming a headless Strapi CMS API.
 
-[FILL IN: If applicable, describe your AI/ML stack — models, frameworks, deployment.]
+## Tech stack summary
 
----
-
-## Development Tools
-
-| Tool | Purpose |
-|------|---------|
-| [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] |
-| [FILL IN] | [FILL IN] |
-
----
-
-## Architectural Decisions
-
-[FILL IN: Document key architectural decisions and their rationale. Use ADR (Architecture Decision Record) format if you prefer.]
-
-### [FILL IN: Decision Title]
-
-**Context:** [FILL IN]
-**Decision:** [FILL IN]
-**Rationale:** [FILL IN]
+| Repository | Tech stack | Purpose |
+|------------|-----------|---------|
+| **Flow** | TypeScript, Next.js, Temporal | AI workflow framework and runtime |
+| **Flow Studio** | — | GUI for Flow |
+| **Atlas** | Rails, React, Inertia.js | Web app platform (ContentOS) |
+| **Website** | Next.js + Strapi | Public website |

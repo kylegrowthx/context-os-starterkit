@@ -1,18 +1,13 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Building — Company Operations & Leadership
 
 <metadata>
-purpose: Hub for study guides on scaling companies, leadership, and operations
+purpose: Hub for study guides on scaling companies, leadership, and SaaS operations
 audience: Founders, CEOs, COOs, and operators
-summary: Directory of company operations and leadership study guides for building and scaling a business.
-token_estimate: small
-depends_on: []
-related: ../../docs/company/, ../../docs/business/
 domain: building
 confidence: canonical
+sensitivity: public
 context_tier: 2
-last_updated: 2026-02-18
+last_updated: 2026-02-09
 </metadata>
 
 Study guides for when you're building the company — leadership, operations, and growth.
@@ -21,18 +16,17 @@ Study guides for when you're building the company — leadership, operations, an
 
 ## Study Guides
 
-*Add study guides here as you create them using the template below.*
-
-## Templates
-
-| File | Purpose |
-|------|---------|
-| [company-operations-study-guide-template-v1.md](company-operations-study-guide-template-v1.md) | Template for company operations and leadership study guides |
+| File | Topic | Summary |
+|------|-------|---------|
+| [ceo-user-manual-study-guide-v1.md](ceo-user-manual-study-guide-v1.md) | Leadership | Creating "Working with Me" documents — Claire Hughes Johnson, Keith Rabois, Ray Dalio |
+| [company-handbook-study-guide-v1.md](company-handbook-study-guide-v1.md) | Company Building | What makes company handbooks work — Basecamp, GitLab, Valve, Netflix examples |
+| [operators-handbook-scaling-startups-v1.md](operators-handbook-scaling-startups-v1.md) | Operations | Scaling from $12M to $36M ARR — Grove, Bezos, EOS, Slootman frameworks |
+| [max-mrr-churn-retention-study-guide-v1.md](max-mrr-churn-retention-study-guide-v1.md) | SaaS Metrics | Revenue ceilings, churn math, and retention — Jason Cohen's Max MRR framework |
 
 ---
 
 ## Related Context
 
-- [docs/company/](../../docs/company/) — Company docs (vision, strategy)
-- [docs/business/](../../docs/business/) — Business model, ICP, economics
+- [docs/company/](../../docs/company/) — GrowthX company docs (vision, strategy)
+- [docs/business/](../../docs/business/) — Business model, ICP, pricing
 - [docs/finance/](../../docs/finance/) — Financial planning and metrics

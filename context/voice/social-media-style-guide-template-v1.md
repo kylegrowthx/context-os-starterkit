@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Social Media Style Guide Template v1
 
 <metadata>
@@ -7,7 +5,7 @@ purpose: Platform-agnostic voice guide for social media content creation
 audience: Founders, content creators, AI agents producing social media content
 summary: Defines hooks, tone, structure, and platform-specific rules for social media writing
 token_estimate: medium
-depends_on: context/voice/writing-style-context-v1.md
+depends_on: context/voice/writing-style-context-v2.md
 related: context/personal/founder-user-manual-template-v1.md
 domain: writing
 confidence: canonical

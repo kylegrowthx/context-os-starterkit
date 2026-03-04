@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Products — Index
 
 <metadata>
@@ -12,11 +10,14 @@ related: README.md
 domain: product
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
-| File | Summary | Tier |
-|------|---------|------|
-| `README.md` | Product portfolio overview and navigation | 1 |
-| `product-overview-template.md` | Template for documenting an individual product | 2 |
-| `product-roadmap-template.md` | Template for product roadmap planning | 2 |
+| File | Summary |
+|------|---------|
+| `ecosystem-overview-v1.md` | Multi-product strategy — how CheckThat, ContentOS, Output, ExpertLayer work together |
+| `checkthat-overview-v1.md` | Open AI visibility index for B2B — four scores, methodology, messaging |
+| `contentos-overview-v1.md` | Content operations platform — GrowthX's core revenue engine |
+| `output-overview-v1.md` | Open-source AI framework for building agents and workflows |
+| `product-overview-template.md` | Template for documenting an individual product |
+| `product-roadmap-template.md` | Template for product roadmap planning |

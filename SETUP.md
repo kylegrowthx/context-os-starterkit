@@ -30,10 +30,10 @@ Open `CLAUDE.md` and replace all `[YOUR COMPANY]` placeholders with your company
 
 ### Step 2: Define Your Voice
 
-Open `context/voice/writing-style-context-v1.md`. At minimum, fill in:
-- Your voice definition (3 qualities that define how you write)
-- 3-5 style anchors (writers whose style you want to emulate)
-- Review the 6 core principles — they're universal, but adapt examples to your domain
+Open `context/voice/writing-style-context-v2.md`. This is the definitive GrowthX voice guide with:
+- Voice definition, 3 core qualities (Direct, Clear, Real)
+- Style anchors (Paul Graham, Morgan Housel, James Clear)
+- 6 core principles with examples
 
 ### Step 3: Document Your Company
 
@@ -41,12 +41,12 @@ Open `docs/company/mission-and-vision.md` and fill in your mission, vision, and 
 
 ### Step 4: Create Your First Role
 
-Copy `context/roles/executive-role-template-v1.md` to a new file (e.g., `cfo-v1.md`). Fill in the sections — leaders to channel, decision frameworks, key questions.
+GrowthX has 15 pre-built roles in `context/roles/` (CEO, Marketing, Sales, Finance, etc.). Browse them with `context/roles/INDEX.md`.
 
 ### Step 5: Test It
 
 Open Claude Code, Claude Cowork, or Cursor, point it at this repo, and try these prompts:
-- "What does [YOUR COMPANY] do?"
+- "What does GrowthX do?"
 - "Write a short blog intro about [topic] in our voice"
 - "As CFO, should we [decision]?"
 

@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Company
 
 Who we are, what we believe, and where we're going.
@@ -8,7 +6,7 @@ Who we are, what we believe, and where we're going.
 
 ## Quick Summary
 
-This section covers [YOUR COMPANY]'s identity: mission, vision, values, culture, and strategic direction. Start here to understand what drives us.
+This section covers GrowthX's identity: mission, vision, values, culture, and strategic direction. Start here to understand what drives us.
 
 ---
 
@@ -30,4 +28,4 @@ This section covers [YOUR COMPANY]'s identity: mission, vision, values, culture,
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22

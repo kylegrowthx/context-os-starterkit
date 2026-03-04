@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # How We Work — Index
 
 <metadata>
@@ -12,12 +10,15 @@ related: README.md
 domain: company
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
-| File | Summary | Tier |
-|------|---------|------|
-| `README.md` | Directory overview and key principles | 1 |
-| `async-communication.md` | Guide to async-first communication in a distributed team | 2 |
-| `documentation.md` | Why and how we maintain a culture of documentation | 2 |
-| `meetings.md` | How to run effective meetings — agendas, formats, and cadences | 2 |
+| File | Summary |
+|------|---------|
+| `operating-rhythm-v1.md` | Cadence of meetings, reviews, and planning — L10s, business reviews, quarterly planning |
+| `async-communication.md` | Async-first communication guidelines for a distributed team |
+| `meetings.md` | How to run effective meetings — prep, facilitation, follow-up |
+| `documentation.md` | Documentation culture, ownership model, and best practices |
+| `slack-guide-v1.md` | Channel organization, etiquette, and guidelines for Slack |
+| `systems-thinking-v1.md` | Framework for understanding stocks, flows, feedback loops, and leverage points |
+| `process-automation-tracker-v1.md` | Living tracker of repetitive manual processes with time cost, pain level, and automation potential |

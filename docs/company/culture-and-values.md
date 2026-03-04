@@ -1,62 +1,170 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
-# Culture & Values
+# Culture and Values
 
 <metadata>
-purpose: Company culture principles and values
-audience: All team members
-summary: Defines the guiding values, principles, and cultural norms for how [YOUR COMPANY] operates.
-token_estimate: large
-depends_on: []
-related: mission-and-vision.md, ../delivery/teams-and-operations.md
+purpose: The values and principles that define how GrowthX works together
+audience: All team members, AI agents
+summary: 7 core values — communicate with clarity, relentless excellence, never stop learning, move fast stay steady, lead with empathy, own the outcome, master the process first
 domain: company
 confidence: canonical
 context_tier: 1
-last_updated: 2026-02-18
+last_updated: 2026-02-22
 </metadata>
 
-[FILL IN: Opening paragraph about your culture — what you're building and why culture matters. Keep it 2-3 sentences.]
+We're building a new breed of company at GrowthX. We're charting unknown territory, striving to become an AI-native company where AI is embedded at the core of everything we do.
 
-The main goal for our culture is straightforward:
-- To do the best work of our lives.
-- To create an environment that energizes and inspires everyone.
-- To achieve more than we thought possible.
+Our belief is simple: AI should exist to empower people to do their best work. That starts with everyone here.
 
----
-
-## Guiding Values
-
-[FILL IN: List 4-7 core values. For each, provide a bold name and a brief description. Then expand each one below with the full "How we think about this" framework.]
-
-<!-- Example values — replace with your own:
-
-**Communicate with Clarity:** Incisive writing and composed speaking are essential. We value the ability to explain complex ideas simply.
-
-**Relentless Excellence:** We strive for high standards in everything we do, pushing ourselves and those around us to deliver high quality results.
-
-**Never Stop Learning:** Curiosity fuels growth. We embrace new challenges, explore new ideas, and constantly expand our skills.
-
-**Own the Outcome:** We take responsibility for our work and drive progress without needing constant direction.
--->
+The goal for our culture is straightforward:
+- Do the best work of our lives.
+- Create an environment that energizes and inspires everyone.
+- Achieve more than we thought possible.
 
 ---
 
-## Guiding Principles
+## Guiding values
 
-[FILL IN: For each value above, expand into a full principle with this structure:]
+These values are our compass — defining how we act, how we work, and how we grow.
 
-### [FILL IN: Value Name]
+- **Communicate with clarity** — Incisive writing and composed speaking are essential. Explain complex ideas simply. Dive deep into understanding. Build trust by speaking directly and tackling issues head-on.
 
-[FILL IN: One-paragraph explanation of this principle and how it guides daily work.]
+- **Relentless excellence** — We strive for high standards in everything we do, pushing ourselves and those around us to deliver high quality results.
 
-**We Don't:**
-- [FILL IN: Anti-pattern 1]
-- [FILL IN: Anti-pattern 2]
-- [FILL IN: Anti-pattern 3]
+- **Never stop learning** — Curiosity fuels growth. Embrace new challenges, explore new ideas, and constantly expand your skills.
 
-**We Do:**
-- [FILL IN: Positive behavior 1]
-- [FILL IN: Positive behavior 2]
-- [FILL IN: Positive behavior 3]
+- **Own the outcome** — Take responsibility for your work and drive progress without needing constant direction. Accountability and a self-starter mindset are non-negotiable.
 
-<!-- Repeat this structure for each value. Aim for 4-7 principles total. -->
+---
+
+## Guiding principles
+
+### Communicate with clarity
+
+Incisive writing and composed speaking are essential. We value the ability to explain complex ideas simply, and objectively consider and unpack decisions. Dive deep — thorough understanding and attention to detail are non-negotiable. Clear communication drives alignment and informed decisions. We build trust by speaking directly, sharing openly, and tackling issues head-on.
+
+### Relentless excellence
+
+Good enough isn't. We obsess over the highest standards — especially for our customers. Excellence is our non-negotiable benchmark, and we strive for it every day. It's about pushing ourselves, seeking improvement, and inspiring those around us to do the same. Excellence isn't perfection; it's an uncompromising pursuit of our very best, in everything we do.
+
+### Never stop learning
+
+Curiosity fuels growth. We never stop asking questions, exploring new ideas, or expanding our skills. A sharp mind is never satisfied — it's always looking for the next challenge, always reaching for more.
+
+### Move fast, stay steady
+
+Speed matters, but so does smart execution. We move quickly, take calculated risks, and adapt with agility while ensuring our efforts are built to scale. Rapid execution combined with resilience, good judgment, and the stamina to push ahead and sustain growth.
+
+### Lead with empathy
+
+Kindness isn't optional — it's core. We treat each other with respect, remain aware of our impact, and lead with humility. Growth is a team sport, and lifting others is how we all rise.
+
+### Own the outcome
+
+Freedom and responsibility are two sides of the same coin. We own our work, chase down the answers, and take initiative. Every one of us shapes the outcome.
+
+### Master the process first
+
+Get the process right before adding tech. Focus on optimizing workflows, ensuring they're efficient and effective. Then — and only then — does technology step in to enhance, not dictate, what we do.
+
+---
+
+## Putting values into practice
+
+Our culture is not just a set of values we talk about — it's an operational playbook. Something we live by, protect, and evolve. It started with the earliest members of GrowthX, and it continues with every single one of us.
+
+### Communicate with clarity
+
+**How we think about this:** We value incisive writing and composed speaking. Clear communication allows us to align, solve problems, and make better decisions. Simplifying complex ideas and breaking down tough decisions objectively is how we ensure everyone moves forward together. Clarity builds trust, and trust drives success.
+
+**We do:**
+- Keep communication open, direct, and simple
+- Seek deep understanding before making decisions
+- Tackle issues head-on, fostering transparency and alignment
+
+**We don't:**
+- Obfuscate with jargon or complex terms
+- Leave things unsaid, assuming others will understand
+- Avoid hard conversations or problems
+
+### Relentless excellence
+
+**How we think about this:** We obsess over the highest standards — especially when it comes to our customers. Excellence is a non-negotiable benchmark, but it doesn't mean perfection. We strive for our very best, every day, in everything we do. This pursuit inspires everyone around us and pushes us all to achieve more.
+
+**We do:**
+- Set high standards and continually strive to meet them
+- Take responsibility for quality in everything we produce
+- Give and receive feedback with the aim of constant improvement
+
+**We don't:**
+- Settle for the minimum
+- Cut corners or make excuses
+- Shy away from giving honest feedback
+
+### Never stop learning
+
+**How we think about this:** Curiosity drives us to keep learning and expanding our skills. A GrowthX team member is never satisfied — we're always asking questions, exploring new ideas, and seeking the next challenge. Intellectual hunger keeps us on the cutting edge.
+
+**We do:**
+- Pursue self-improvement constantly
+- Stay up to date with industry trends and innovations
+- Seek out opportunities to learn from others and each experience
+
+**We don't:**
+- Settle for what we already know
+- Get too comfortable in our routines
+- Stop challenging our assumptions
+
+### Move fast, stay steady
+
+**How we think about this:** Speed matters, but it must be paired with thoughtful execution. We believe in taking calculated risks, adapting quickly when needed, and making sure fast moves are built on solid foundations. Push forward, but with an eye on sustaining growth over time.
+
+**We do:**
+- Move swiftly and make decisions
+- Stay adaptable and agile in our approach
+- Ensure our processes are scalable and stable for the long term
+
+**We don't:**
+- Rush without a plan
+- Prioritize speed at the expense of quality
+- Avoid adapting when change is needed
+
+### Lead with empathy
+
+**How we think about this:** Growth is a team sport. We treat each other with respect and empathy. We lead with humility, knowing that our actions impact those around us. We create a supportive environment by being mindful of each other's experiences and perspectives.
+
+**We do:**
+- Show appreciation for our teammates
+- Lead by example with kindness and respect
+- Remain humble and aware of the impact we have on others
+
+**We don't:**
+- Ignore the needs of others
+- Assume we know what someone else is going through
+- Put ego above the team's well-being
+
+### Own the outcome
+
+**How we think about this:** We believe in being accountable. We take ownership — we chase down the answers we need and don't wait for others to solve problems for us. Each of us has the power to shape our outcomes, and with that power comes the responsibility to drive results.
+
+**We do:**
+- Take initiative to solve problems
+- Hold ourselves accountable for our work
+- Chase the best outcomes for the team and the company
+
+**We don't:**
+- Wait for someone else to fix issues
+- Avoid accountability or shift blame
+- Passively follow without questioning
+
+### Master the process first
+
+**How we think about this:** Get the fundamentals right before introducing technology. Processes need to be efficient and effective before tools can enhance them. Understand, optimize, and master workflows first. Then use technology as an enabler, ensuring it enhances our work rather than dictating it.
+
+**We do:**
+- Design efficient workflows from first principles
+- Use technology to improve, not dictate, our work
+- Focus on the process and ensure it's optimized before adding automation
+
+**We don't:**
+- Use technology as a crutch for poor processes
+- Automate inefficiencies
+- Rush to adopt tools before the workflow is clear

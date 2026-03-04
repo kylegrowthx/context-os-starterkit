@@ -1,11 +1,9 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # [FILL IN: Product Name] — Overview
 
 <metadata>
 purpose: Product overview for [FILL IN: product name]
 audience: All team members, sales, customer success
-summary: Overview of [FILL IN: product name] — what it does, who it's for, and how it fits into [YOUR COMPANY]'s strategy.
+summary: Overview of [FILL IN: product name] — what it does, who it's for, and how it fits into GrowthX's strategy.
 token_estimate: medium
 depends_on: []
 related: product-roadmap-template.md, ../business/business-model.md

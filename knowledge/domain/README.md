@@ -1,21 +1,19 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Domain — Domain-Specific Research & Expertise
 
 <metadata>
 purpose: Hub for domain-specific research, deep dives, and specialized knowledge
 audience: Anyone working on domain-specific projects or research
-summary: Directory for deep research on your company's specific domain expertise — industry knowledge, market research, and specialized topics.
+summary: Directory for deep research on GrowthX's domain expertise — B2B content marketing, AI-powered workflows, and B2B tech market knowledge.
 token_estimate: small
 depends_on: []
 related: ../../docs/business/, ../../docs/products/
-domain: [FILL IN: your domain]
+domain: content-marketing
 confidence: canonical
 context_tier: 2
 last_updated: 2026-02-18
 </metadata>
 
-This is where domain-specific research lives — the deep knowledge that makes [YOUR COMPANY] an expert in its field.
+This is where domain-specific research lives — the deep knowledge that makes GrowthX an expert in its field.
 
 ---
 

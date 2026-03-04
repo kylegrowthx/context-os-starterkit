@@ -1,21 +1,12 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # EPD (Engineering, Product & Design)
 
-Documentation for [YOUR COMPANY]'s EPD organization — how we build product, structure teams, and operate.
+Documentation for GrowthX's EPD organization — how we build product, structure teams, and operate.
 
 ---
 
 ## Quick Summary
 
-[FILL IN: Describe your EPD organization structure. How many teams/lanes? What does each focus on?]
-
-<!-- Example:
-EPD has 3 lanes:
-1. **Product Lane:** Engineers building the core product
-2. **Client Engineering:** Forward-deployed engineers creating custom solutions
-3. **Infrastructure:** Team managing shared platform and tooling
--->
+EPD has three lanes: (1) **Product lane** — design engineers and full-stack engineers building ContentOS and CheckThat; (2) **Client ops engineering lane** — forward-deployed engineers creating custom workflows for clients; (3) **AI infra lane** — team responsible for the internal AI framework Output. We ship using Shape Up with 4-week build cycles and 2-week cooldowns.
 
 ---
 
@@ -25,6 +16,11 @@ EPD has 3 lanes:
 |------------------------------|-----------|
 | How we build and ship software | `dev-process.md` |
 | Our technical architecture and stack | `tech-stack.md` |
+| The EPD performance bar | `what-great-looks-like-v1.md` |
+| AI-driven development approach | `ai-driven-development-v1.md` |
+| Client ops engineering | `client-ops-v1.md` |
+| Design principles and operations | `design-v1.md` |
+| 1:1 meetings with leadership | `one-on-ones-v1.md` |
 
 ---
 
@@ -36,4 +32,4 @@ EPD has 3 lanes:
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22

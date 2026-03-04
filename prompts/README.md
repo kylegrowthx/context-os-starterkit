@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # Prompts
 
 <metadata>
@@ -21,7 +19,7 @@ Reusable prompt templates for AI workflows.
 Prompts can live in two places:
 
 1. **Here (`prompts/`)** -- For standalone, reusable prompt templates that aren't tied to a specific skill
-2. **Co-located with skills (`[FILL IN: your skills directory]/`)** -- For prompts that belong to a specific skill or workflow
+2. **Co-located with skills (`.cursor/skills/`)** -- For prompts that belong to a specific skill or workflow
 
 The general principle: **co-locate prompts with the skill that uses them** when the prompt is tightly coupled. Keep prompts here when they're reusable across multiple skills or workflows.
 

@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # [FILL IN: Deliverable Title] -- Working Draft
 
 <metadata>

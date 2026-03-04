@@ -1,5 +1,3 @@
-<!-- TEMPLATE: Replace all [BRACKETED] placeholders. Delete this comment when done. -->
-
 # How We Work
 
 Communication, meetings, tools, and collaboration practices.
@@ -8,7 +6,7 @@ Communication, meetings, tools, and collaboration practices.
 
 ## Quick Summary
 
-This section covers the mechanics of working at [YOUR COMPANY]: how we communicate, run meetings, use tools, and document our work. Read this to understand our operating rhythm.
+This section covers the mechanics of working at GrowthX: how we communicate, run meetings, use tools, and document our work. Read this to understand our operating rhythm.
 
 ---
 
@@ -16,9 +14,12 @@ This section covers the mechanics of working at [YOUR COMPANY]: how we communica
 
 | If you want to understand... | Read this |
 |------------------------------|-----------|
+| Our meeting cadence and rhythm | `operating-rhythm-v1.md` |
 | Async-first communication | `async-communication.md` |
 | How to run effective meetings | `meetings.md` |
 | Why and how we document | `documentation.md` |
+| Slack channel organization and etiquette | `slack-guide-v1.md` |
+| Systems thinking concepts | `systems-thinking-v1.md` |
 
 ---
 
@@ -39,4 +40,4 @@ This section covers the mechanics of working at [YOUR COMPANY]: how we communica
 
 ---
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-22
