@@ -37,6 +37,7 @@ Don't load everything. Read what you need for the task:
 - **Client work?** Search `records/customers/` for client context, `records/transcripts/` for meeting notes.
 - **Past prospects?** Search `records/prospects/` for deal research and deliverables.
 - **Meeting history?** Search `records/meetings/` (structured data) or `records/transcripts/` (enriched transcripts).
+- **Saving an article?** Use the `save-read` skill → saves to `knowledge/good-reads/`.
 - **Creating deliverables?** Save drafts to `pipeline/scratchpad/`, finished work to `pipeline/outputs/`.
 
 For detailed routing, task stacks, and sensitivity rules, see `context/context-routing.md`.
@@ -74,6 +75,7 @@ Cursor auto-discovers skills from `.cursor/skills/`. For Claude Code, reference 
 | SEO + AEO Overview | `.cursor/skills/seo-aeo-overview/SKILL.md` | "Full SEO and AI overview for {domain}" / "comprehensive visibility report" / "combined SEO and AEO analysis" |
 | Competitive Comparison Table | `.cursor/skills/competitive-comparison-table/SKILL.md` | "Competitive comparison table" / "side-by-side competitor comparison" / "compare all competitors SEO and AI" |
 | Content Pages Audit | `.cursor/skills/content-pages-audit/SKILL.md` | "Content pages audit" / "content page detail" / "blog audit" / "audit content pages" / "per-page SEO audit" / "page-level audit" |
+| Save Read | `.cursor/skills/save-read/SKILL.md` | "Save read" / "save this article" / "good read" / "save this post" / "add to reading list" / shares a URL to keep |
 
 These are cross-cutting skills shared across all workspaces. Operational GTM skills (HubSpot, Ordinal, AEO prompts) live in gtm-brain/.cursor/skills/.
 

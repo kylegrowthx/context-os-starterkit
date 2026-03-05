@@ -23,12 +23,13 @@ Study guides, playbooks, and reference materials. Each file synthesizes deep res
 | [revenue/](revenue/) | SaaS metrics, retention, HubSpot, sales ops | 2 |
 | [content/](content/) | LLM writing mastery | 2 |
 | [growthx/](growthx/) | GrowthX product data, database references, internal tools | 1 |
+| [good-reads/](good-reads/) | Curated articles, essays, and posts worth saving | 1 |
 | [people-company/](people-company/) | Company and leadership study guides | 1 |
 | [archive/](archive/) | Outdated or superseded files | 1 |
 
 Root file: [hubspot-crm-system-guide-v1.md](hubspot-crm-system-guide-v1.md) — HubSpot CRM reference
 
-**Total: 45 study guides and reference files across 10 active directories.**
+**Total: 46 study guides and reference files across 11 active directories.**
 
 ---
 
