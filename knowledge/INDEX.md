@@ -96,6 +96,12 @@ See [README.md](README.md) for an overview of this directory.
 |------|------|
 | [people-company/gamma-kristin-fracchia-study-guide-v1.md](people-company/gamma-kristin-fracchia-study-guide-v1.md) | study guide |
 
+## Good Reads
+
+| File | Type |
+|------|------|
+| [good-reads/2026-03-05-becoming-an-artist-to-outrun-the-machines-v1.md](good-reads/2026-03-05-becoming-an-artist-to-outrun-the-machines-v1.md) | article |
+
 ## Root Files
 
 | File | Type |
@@ -110,4 +116,4 @@ See [README.md](README.md) for an overview of this directory.
 
 ---
 
-**Total: 45 files**
+**Total: 46 files**
